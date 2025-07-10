@@ -7,25 +7,19 @@ def parse_tex_file(tex_file):
         content = f.read()
     monster_data = []
 
-    # Dividi il contenuto usando il separatore dei mostri
-    blocks = re.split(r'\\smallskip\\noindent\\rule{\\linewidth}{2pt}', content)
+    # Trova tutti i mostri usando il pattern \mostro{nome}
+    mostro_pattern = r'\\mostro\{([^}]+)\}(.*?)(?=\\mostro\{|$)'
+    mostro_matches = re.finditer(mostro_pattern, content, re.DOTALL)
 
-    for block in blocks:
+    for match in mostro_matches:
+        nome_mostro = match.group(1)
+        block = match.group(2)
+        
         if not block.strip():
             continue
 
+        current_monster = {'Nome': nome_mostro}
         lines = block.split('\n')
-        current_monster = {}
-
-        # Estrai il nome del mostro
-        name_match = re.search(r'\\index\[Mostruario\]\{([^}]+)\}', block)
-        if name_match:
-            current_monster['Nome'] = name_match.group(1)
-        else:
-            # Se non trova il nome con \index, cerca con \textbf
-            name_match = re.search(r'\\noindent\{\\large\\textbf\{([^}]+)\}\}', block)
-            if name_match:
-                current_monster['Nome'] = name_match.group(1)
 
         for line in lines:
             line = line.strip()
@@ -84,6 +78,12 @@ def parse_tex_file(tex_file):
                 if comp_match:
                     current_monster['Competenze'] = comp_match.group(1).strip()
 
+            # Estrai Incantesimi (nuovo campo per gestire incantesimi innati)
+            elif '\\item[\\textbf{Incant.:}]' in line:
+                incant_match = re.search(r'\\item\[\\textbf{Incant\.:\]\s*(.*)', line)
+                if incant_match:
+                    current_monster['Incantesimi_Innati'] = incant_match.group(1).strip()
+
             # Estrai Resistenza Danni
             elif '\\item[\\textbf{Res. Danni:}]' in line:
                 res_match = re.search(r'\\item\[\\textbf{Res. Danni:}\]\s*(.*)', line)
@@ -128,7 +128,7 @@ def parse_tex_file(tex_file):
                     current_monster['PX'] = sfida_match.group(2)
 
         # Estrai informazioni dalla sezione Ecologia (dopo la descrizione delle azioni)
-        ecology_section = re.search(r'\\textbf{Ecologia}\\\\(.*?)(?=\\textbf{Descrizione}|$)', block, re.DOTALL)
+        ecology_section = re.search(r'\\textbf{Ecologia}\\\\(.*?)(?=\\textbf{Descrizione}|\\mostro\{|$)', block, re.DOTALL)
         if ecology_section:
             ecology_text = ecology_section.group(1)
             
@@ -154,9 +154,9 @@ def parse_tex_file(tex_file):
             # Estrai le singole abilità speciali marcate con \emph{\textbf{
             special_abilities = []
             ability_matches = re.finditer(r'\\emph\{\\textbf\{([^}]+)\}\}[^\\]*([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{Azioni\}|$)', abilities_text, re.DOTALL)
-            for match in ability_matches:
-                ability_name = match.group(1)
-                ability_desc = match.group(2).strip()
+            for ability_match in ability_matches:
+                ability_name = ability_match.group(1)
+                ability_desc = ability_match.group(2).strip()
                 ability_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', ability_desc)
                 ability_clean = ' '.join(ability_clean.split())
                 if ability_clean:
@@ -164,23 +164,17 @@ def parse_tex_file(tex_file):
             
             if special_abilities:
                 current_monster['Abilita_Speciali'] = '; '.join(special_abilities)[:800]
-            else:
-                # Fallback per strutture diverse
-                abilities_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+|\{|\}', '', abilities_text)
-                abilities_clean = ' '.join(abilities_clean.split())
-                if abilities_clean.strip():
-                    current_monster['Abilita_Speciali'] = abilities_clean.strip()[:500]
 
         # Estrai azioni (tra \textbf{Azioni} e \textbf{Ecologia} o altra sezione)
-        actions_section = re.search(r'\\textbf{Azioni}(.*?)(?=\\textbf{Ecologia}|\\textbf{Reazione}|\\textbf{Azioni Aggiuntive}|\\smallskip|$)', block, re.DOTALL)
+        actions_section = re.search(r'\\textbf{Azioni}(.*?)(?=\\textbf{Ecologia}|\\textbf{Reazione}|\\textbf{Azioni Aggiuntive}|\\mostro\{|$)', block, re.DOTALL)
         if actions_section:
             actions_text = actions_section.group(1)
             # Estrai le singole azioni
             action_list = []
             action_matches = re.finditer(r'\\emph\{\\textbf\{([^}]+)\}\}[^\\]*([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{|$)', actions_text, re.DOTALL)
-            for match in action_matches:
-                action_name = match.group(1).replace('.', '')  # Rimuovi punti dai nomi
-                action_desc = match.group(2).strip()
+            for action_match in action_matches:
+                action_name = action_match.group(1).replace('.', '')  # Rimuovi punti dai nomi
+                action_desc = action_match.group(2).strip()
                 action_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', action_desc)
                 action_clean = ' '.join(action_clean.split())
                 if action_clean:
@@ -189,35 +183,8 @@ def parse_tex_file(tex_file):
             if action_list:
                 current_monster['Azioni'] = '; '.join(action_list)[:1000]
 
-        # Estrai reazioni
-        reactions_section = re.search(r'\\textbf{Reazione[^}]*}(.*?)(?=\\textbf{|\\smallskip|$)', block, re.DOTALL)
-        if reactions_section:
-            reactions_text = reactions_section.group(1)
-            reactions_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', reactions_text)
-            reactions_clean = ' '.join(reactions_clean.split())
-            if reactions_clean.strip():
-                current_monster['Reazioni'] = reactions_clean.strip()[:300]
-
-        # Estrai informazioni su incantesimi
-        spells_section = re.search(r'\\emph\{\\textbf{Incantesimi[^}]*}\}(.*?)(?=\\emph\{\\textbf{|\\textbf{Azioni})', block, re.DOTALL)
-        if spells_section:
-            spells_text = spells_section.group(1)
-            spells_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', spells_text)
-            spells_clean = ' '.join(spells_clean.split())
-            if spells_clean.strip():
-                current_monster['Incantesimi'] = spells_clean.strip()[:400]
-
-        # Estrai azione "Arrabbiato"
-        angry_section = re.search(r'\\emph\{\\textbf{Arrabbiato[^}]*}\}(.*?)(?=\\textbf{|\\smallskip|$)', block, re.DOTALL)
-        if angry_section:
-            angry_text = angry_section.group(1)
-            angry_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', angry_text)
-            angry_clean = ' '.join(angry_clean.split())
-            if angry_clean.strip():
-                current_monster['Arrabbiato'] = angry_clean.strip()[:300]
-
         # Estrai azioni aggiuntive
-        additional_actions = re.search(r'\\textbf{Azioni Aggiuntive}(.*?)(?=\\textbf{Ecologia}|$)', block, re.DOTALL)
+        additional_actions = re.search(r'\\textbf{Azioni Aggiuntive}(.*?)(?=\\textbf{Ecologia}|\\mostro\{|$)', block, re.DOTALL)
         if additional_actions:
             add_actions_text = additional_actions.group(1)
             add_actions_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', add_actions_text)
@@ -225,77 +192,17 @@ def parse_tex_file(tex_file):
             if add_actions_clean.strip():
                 current_monster['Azioni_Aggiuntive'] = add_actions_clean.strip()[:400]
 
-        # Estrai resistenza leggendaria
-        legendary_resistance = re.search(r'\\emph\{\\textbf{Resistenza Leggendaria[^}]*}\}(.*?)(?=\\emph\{\\textbf{|\\textbf{)', block, re.DOTALL)
-        if legendary_resistance:
-            leg_res_text = legendary_resistance.group(1)
-            leg_res_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', leg_res_text)
-            leg_res_clean = ' '.join(leg_res_clean.split())
-            if leg_res_clean.strip():
-                current_monster['Resistenza_Leggendaria'] = leg_res_clean.strip()
+        # Estrai sezione "Arrabbiato" specifica per alcuni mostri
+        angry_section = re.search(r'\\emph\{\\textbf{Arrabbiato:}\}(.*?)(?=\\textbf{Ecologia}|\\mostro\{|$)', block, re.DOTALL)
+        if angry_section:
+            angry_text = angry_section.group(1)
+            angry_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', angry_text)
+            angry_clean = ' '.join(angry_clean.split())
+            if angry_clean.strip():
+                current_monster['Arrabbiato'] = angry_clean.strip()[:300]
 
-        # Estrai presenza spaventosa
-        frightening_presence = re.search(r'\\emph\{\\textbf{Presenza Spaventosa[^}]*}\}(.*?)(?=\\emph\{\\textbf{|\\textbf{)', block, re.DOTALL)
-        if frightening_presence:
-            pres_text = frightening_presence.group(1)
-            pres_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', pres_text)
-            pres_clean = ' '.join(pres_clean.split())
-            if pres_clean.strip():
-                current_monster['Presenza_Spaventosa'] = pres_clean.strip()[:200]
-
-        # Gestisci casi speciali per mostri senza alcune sezioni standard
-        # Se non troviamo Ecologia, prova a cercare direttamente Ambiente/Organizzazione
-        if 'Ambiente' not in current_monster:
-            ambiente_direct = re.search(r'Ambiente:\s*([^\\]+)', block)
-            if ambiente_direct:
-                current_monster['Ambiente'] = ambiente_direct.group(1).strip()
-        
-        if 'Organizzazione' not in current_monster:
-            org_direct = re.search(r'Organizzazione:\s*([^\\]+)', block)
-            if org_direct:
-                current_monster['Organizzazione'] = org_direct.group(1).strip()
-        
-        # Estrai informazioni di costruzione per i Golem
-        construction_section = re.search(r'\\textbf{Costruzione}(.*?)(?=\\smallskip|\\textbf|$)', block, re.DOTALL)
-        if construction_section:
-            construction_text = construction_section.group(1)
-            construction_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', construction_text)
-            construction_clean = ' '.join(construction_clean.split())
-            if construction_clean.strip():
-                current_monster['Costruzione'] = construction_clean.strip()[:300]
-
-        # Estrai abilità uniche per creature speciali
-        unique_abilities = []
-        
-        # Cerca abilità come "Berserk", "Forme Immutabile", ecc.
-        unique_ability_patterns = [
-            r'\\emph\{\\textbf\{([^}]*Berserk[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\emph\{\\textbf\{([^}]*Forma Immutabile[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\emph\{\\textbf\{([^}]*Riduzione del Danno[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\emph\{\\textbf\{([^}]*Assorbimento[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\emph\{\\textbf\{([^}]*Natura[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\emph\{\\textbf\{([^}]*Teste[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\emph\{\\textbf\{([^}]*Vincolato[^}]*)\}\}([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{)',
-            r'\\textbf\{([^}]*Odio[^}]*)\}([^\\]*?)(?=\\textbf\{|\\smallskip)',
-            r'\\textbf\{([^}]*Natura inusuale[^}]*)\}([^\\]*?)(?=\\textbf\{|\\smallskip)'
-        ]
-        
-        for pattern in unique_ability_patterns:
-            matches = re.finditer(pattern, block, re.DOTALL | re.IGNORECASE)
-            for match in matches:
-                ability_name = match.group(1)
-                ability_desc = match.group(2).strip()
-                ability_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', ability_desc)
-                ability_clean = ' '.join(ability_clean.split())
-                if ability_clean:
-                    unique_abilities.append(f"{ability_name}: {ability_clean}")
-        
-        if unique_abilities and 'Abilita_Speciali' not in current_monster:
-            current_monster['Abilita_Speciali'] = '; '.join(unique_abilities)[:800]
-
-        # Aggiungi il mostro alla lista solo se ha almeno il nome
-        if current_monster and 'Nome' in current_monster:
-            monster_data.append(current_monster)
+        # Aggiungi il mostro alla lista
+        monster_data.append(current_monster)
 
     return monster_data
 
@@ -303,7 +210,7 @@ def write_to_csv(monster_data, csv_file):
     # Header aggiornato con tutti i campi possibili
     header = ['Nome', 'Tipo', 'Difesa', 'PF', 'TS_Tempra', 'TS_Riflessi', 'TS_Volonta',
               'For', 'Des', 'Cos', 'Int', 'Sag', 'Car', 'Iniziativa', 'Movimento',
-              'Competenze', 'Res_Danni', 'Imm_Danni', 'Immunita', 'Vulnerabilita',
+              'Competenze', 'Incantesimi_Innati', 'Res_Danni', 'Imm_Danni', 'Immunita', 'Vulnerabilita',
               'Sensi', 'Linguaggi', 'Sfida', 'PX', 'Ambiente', 'Organizzazione', 
               'Categoria_Tesoro', 'Azioni', 'Abilita_Speciali', 'Reazioni', 
               'Incantesimi', 'Arrabbiato', 'Azioni_Aggiuntive', 'Resistenza_Leggendaria',
@@ -335,9 +242,11 @@ if __name__ == "__main__":
             write_to_csv(monster_data, csv_file)
             
             # Stampa un riepilogo dei mostri trovati
-            print("\nMostri estratti:")
-            for i, monster in enumerate(monster_data, 1):
+            print("\nPrimi 10 mostri estratti:")
+            for i, monster in enumerate(monster_data[:10], 1):
                 print(f"{i}. {monster.get('Nome', 'Nome sconosciuto')} - Sfida: {monster.get('Sfida', 'N/A')}")
+                
+            print(f"\n... e altri {len(monster_data)-10} mostri")
         else:
             print("Nessun mostro trovato nel file.")
             
