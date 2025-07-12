@@ -12,18 +12,12 @@
 \usepackage{xcolor}
 
 % Definizione colori del tema OBSS
-\definecolor{OBSSblue!10}{RGB}{240,244,247}
-\definecolor{OBSSblue!20}{RGB}{215,230,239}
-\definecolor{OBSSblue!80}{RGB}{54,107,148}
+\definecolor{OBSSnavyblue}{RGB}{0,0,128}
+\definecolor{OBSSprussia}{RGB}{0, 49, 83}
 \definecolor{OBSSblue}{RGB}{30,84,131}
-\definecolor{OBSSgold!10}{RGB}{252,248,239}
-\definecolor{OBSSgold}{RGB}{218,165,32}
-\definecolor{OBSSpurple!10}{RGB}{244,241,247}
-\definecolor{OBSSpurple!8}{RGB}{246,243,249}
+\definecolor{OBSSgold}{RGB}{255,215,0}
 \definecolor{OBSSpurple}{RGB}{88,57,131}
 \definecolor{lightgray}{gray}{0.95}
-
-% Colori per tabelle
 \definecolor{LightCyan}{RGB}{0,191,255}
 \definecolor{SlateGray}{RGB}{112,128,144}
 \definecolor{Lavender}{RGB}{230,230,250}
@@ -351,40 +345,44 @@ Ligatures=TeX
 \newcommand{\obssgreen}{\obsssetcolor{LightGreen}}
 \newcommand{\obsscoral}{\obsssetcolor{Coral}}
 
-
+% Salvataggio ambienti originali
+\let\obssoriginaltabular\tabular
+\let\obssendinaltabular\endtabular
+\let\obssoriginaltabularx\tabularx
+\let\obssendoriginaltabularx\endtabularx
+\let\obssoriginalxltabular\xltabular
+\let\obssendoriginalxltabular\endxltabular
 
 % Ridefinizione ambienti tabella con colori
-\newenvironment{OBSStabular}[1]{%
+\renewenvironment{tabular}[1]{%
 	\obssgrey%
 	\arrayrulecolor{\obsscurrentcolor}%
 	\setlength{\arrayrulewidth}{1.5pt}%
-	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\tabular{#1}%
+\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
+	\obssoriginaltabular{#1}%
 }{%
-	\endtabular%
+	\obssendinaltabular%
 }
 
-\newenvironment{OBSStabularx}[2]{%
+\renewenvironment{tabularx}[2]{%
 	\obssgrey%
 	\arrayrulecolor{\obsscurrentcolor}%
 	\setlength{\arrayrulewidth}{1.5pt}%
-	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\tabularx{#1}{#2}%
+\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
+	\obssoriginaltabularx{#1}{#2}%
 }{%
-	\endtabularx%
+	\obssendoriginaltabularx%
 }
 
-
-\newenvironment{OBSSxltabular}[2]{%
+\renewenvironment{xltabular}[2]{%
 	\obssgrey%
 	\arrayrulecolor{\obsscurrentcolor}%
 	\setlength{\arrayrulewidth}{1.5pt}%
-	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\xltabular{#1}{#2}%
+\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
+	\obssoriginalxltabular{#1}{#2}%
 }{%
-	\endxltabular%
+	\obssendoriginalxltabular%
 }
-
 
 % ========== HYPERREF E BOOKMARK ==========
 % Importante: hyperref deve essere caricato per ultimo (quasi)
@@ -1493,7 +1491,7 @@ The character's age affects physical and mental Ability Scores.
 
 \medskip
 
-\noindent\begin{OBSStabular}{llllll}
+\noindent\begin{tabular}{llllll}
 \toprule
 \textbf{Period} & \textbf{STR} & \textbf{DEX} & \textbf{CON} & \textbf{INT} & \textbf{WIS}\\
 \toprule
@@ -1502,7 +1500,7 @@ Adult& & &  & & \\
 Mature& & & -1 & & +1 \\
 Elderly& -2 & -1 & -1 & +1 & +1 \\
 Venerable&-1 & -1 & -1 & -1 & +1 \\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -1554,7 +1552,7 @@ The sum of the dice rolled for the Ability Scores is compared with this table to
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX|lX}
+\noindent\begin{tabularx}{\linewidth}{lX|lX}
 \toprule
 \textbf{Roll value}& \textbf{Ability}&\textbf{Roll value}& \textbf{Ability}\\
 \toprule
@@ -1562,7 +1560,7 @@ The sum of the dice rolled for the Ability Scores is compared with this table to
 4-5&-2&15-16-17&+2\\
 6-7-8&-1&18 (or more)&+3\\
 9-10-11&+0&&
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -2110,7 +2108,7 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \toprule
 \textbf{Patron} & \textbf{Archetypal Resonances} \\
 \toprule
@@ -2139,11 +2137,11 @@ Sixiser & The Hermit, The Sage, The Shadow \\
 Sumkjr & The Hero, The Ally, The Mentor, The Martyr \\
 Tàhil & The Shadow, The Tyrant, The Outlaw \\
 Tazher & The Shadow, The Outlaw, The Shapeshifter \\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 Thaft & The Everyman, The Ally, The Caregiver \\
 Torbiorn & The Tyrant, The Shadow, The Ruler \\
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection*{Using Archetypes in Game}
 
@@ -2215,7 +2213,7 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\textwidth}{>{\raggedright\arraybackslash}l|c|c|c|c}
+\noindent\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}l|c|c|c|c}
 \toprule
 \textbf{Profession}& \textbf{1pt} & \textbf{2pts} & \textbf{2pts} & \textbf{3pts}\\
 \toprule
@@ -2251,7 +2249,7 @@ In the character sheet, the initial Profession and acquired skills should be mar
 \textbf{Ranger}& Myths/Legends&Herbalism&Ride & Nature\\
 \textbf{Scribe} &Local Trad.& Forgery & Myths/Legends & Languages\\
 \textbf{Soldier}& Swim&Handle animals&Athletics&Ride\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \vfill
 
@@ -2296,7 +2294,7 @@ Don't underestimate the choice of Profession! Not everything can be solved with 
 
 \medskip\label{competenzeelenco}\hypertarget{competenzeelenco}{}
 
-\noindent\begin{OBSStabular}{lllll}
+\noindent\begin{tabular}{lllll}
 	\toprule
 \textbf{Strength} & \textbf{Dexterity} & \textbf{Intelligence} & \textbf{Wisdom} & \textbf{Charisma}\\
 \toprule
@@ -2308,7 +2306,7 @@ Swim 		& Sleight of Hand		& Disable Device &Nature			& Local traditions \\
 & 				& Forgery		& First Aid	& \\
 & 				& Appraise			& Track	&\\
 &				& 					& Survival		&\\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -2873,7 +2871,7 @@ The Narrator won't tell you make a check at difficulty 10, but will say that the
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{Diff.} & \textbf{Description} & \textbf{Level}\\
 \textbf{DC}&\textbf{difficulty}& \textbf{Proficiency}\\
@@ -2886,7 +2884,7 @@ The Narrator won't tell you make a check at difficulty 10, but will say that the
 30 & Heroic& Outstanding\\
 35 & Almost impossible & Amazing\\
 40 & Impossible & Epic
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -3004,7 +3002,7 @@ Whenever the \textbf{Check} or \textbf{Opposed Check} concerns an \textbf{Abilit
 
 \smallskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 \toprule
 \textbf{Opposed Check}& \textbf{ST} \\
 \toprule
@@ -3012,7 +3010,7 @@ Strength& Fortitude \\
 Dexterity&Reflex\\
 Constitution& Fortitude\\
 Intelligence, Wisdom, Charisma& Will
-\end{OBSStabularx}
+\end{tabularx}
 
 \smallskip
 
@@ -3054,7 +3052,7 @@ The player may request to make the check even if the result is certain.
 
 \smallskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 	\toprule
 \multirow{2}*{\textbf{Advantage / Disadvant.}} & \multicolumn{2}{c}{\textbf{Checks}}\\
 \cmidrule(lr){2-3} & \textbf{Dynamic} & \textbf{Fixed} \\
@@ -3067,7 +3065,7 @@ Light disadvantage & -1 & -1\\
 Normal disadvantage & -2 & -2\\
 Strong disadvantage & -1d6 & -4\\
 Very strong disadvantage & -2d6 & -8
-\end{OBSStabular}
+\end{tabular}
 
 \begin{narratore}[Weight of dice..]
 Bonuses and penalties in the 3d6 roll have more \emph{effect} than in the check made with the d20. Try to stay within $\pm2$ and only in particular situations of effective and strong advantage or disadvantage apply greater bonuses or penalties.
@@ -3154,7 +3152,7 @@ For identifying a magical object and its capabilities requires an \textbf{Arcana
 while being cast is an \textbf{Arcana} check with DC equal to 10 + spell level. It costs a \textbf{Reaction}. If done together with casting a \hyperlink{Counterspell}{Counterspell} it doesn't cost a Reaction.
 
 \subsubsection*{Athletics*}\index[Table]{Table Jumping} \emph{Armor Penalty.} \textbf{1 Action}\index[OBSSv2]{Jumping}\label{atletica}\label{saltare}
-%\noindent\begin{OBSStabular}{lc|lc}
+%\noindent\begin{tabular}{lc|lc}
 %\textbf{Long Jump} & \textbf{DC}&\textbf{High Jump} & \textbf{DC}\\
 %\multicolumn{2}{c}{Length} &\multicolumn{2}{c}{Height} \\
 %\toprule
@@ -3163,7 +3161,7 @@ while being cast is an \textbf{Arcana} check with DC equal to 10 + spell level. 
 %5 m & 15 & 1 m & 12\\
 %7 m & 20 & 1.5 m & 16\\
 %+1,5 m & +5 &+0.5 m & +4\\
-%\end{OBSStabular}
+%\end{tabular}
 
 The \textbf{distance jumped in long jump} is equal to 30cm per result obtained in the check, rounded to the nearest integer. E.g. if in the jumping check you get 11, the jump will be 30cm*11=330cm=3 meters, with 16 in the check it's 30cm*16=480cm=5m.
 
@@ -3185,7 +3183,7 @@ The indicated modifiers are cumulative.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.47\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Example Surface} & \textbf{DC}\\
 \toprule
@@ -3203,7 +3201,7 @@ You can lean against 2 walls at angles&-4\\
 Using a rope to descend&12\\
 Using a rope to climb up&15\\
 The rope has knots & -3
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -3268,7 +3266,7 @@ Extraplanar creatures such as Celestials, Demons, Devils, Dragons, Elves, Dwarve
 
 \smallskip
 
-{\small \noindent\begin{OBSStabularx}{0.48\textwidth}{lll}
+{\small \noindent\begin{tabularx}{\linewidth}{lll}
 		\toprule
 		\textbf{Cultural Area}& \textbf{Spoken} & \textbf{Written}\\
 		\toprule
@@ -3294,7 +3292,7 @@ Extraplanar creatures such as Celestials, Demons, Devils, Dragons, Elves, Dwarve
 		Undead & Expiran & - \\
 		%Underworld & Deep& Deep\\
 		Sign Language*& Sign & -\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -3334,7 +3332,7 @@ To the \textbf{Base Difficulty of 15}, the following modifiers apply:
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	If the ground is very soft& DC -4\\
 	If the ground is stable& DC +5\\
 	If the ground is hard& DC +10\\
@@ -3350,7 +3348,7 @@ To the \textbf{Base Difficulty of 15}, the following modifiers apply:
 	%Depending on size/visibility& DC $\pm4$\\
 	%Every 24 hours passed/hour of rain& DC +4\\
 	%Tries to conceal tracks& DC +4\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{giocatore}[Checks Checks and more Checks!]
 To be cynical, a role-playing game is all about checks, whether you're trying to make a jump, hit someone, avoid a trap or a spell...!
@@ -3579,8 +3577,8 @@ The character who executes an Attack Action and Casts a Spell in the same round 
 
 \medskip
 
-%\noindent\begin{OBSStabularx}{1\linewidth}{lc}
-\noindent\begin{OBSStabular}{lc}
+%\noindent\begin{tabularx}{1\linewidth}{lc}
+\noindent\begin{tabular}{lc}
 	\toprule
 \textbf{What to do} & \textbf{Actions}\\
 \toprule
@@ -3631,7 +3629,7 @@ Exchange a few lines with someone& 0*\\
 \hyperlink{spingereavversario}{Push an opponent} & 2\\
 \hyperlink{afferrareunavversario}{Grapple an opponent} & 2\\
 \hyperlink{farecadereavversario}{Trip an opponent} & 2
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -4166,12 +4164,12 @@ If the attack misses (by at least 5), roll a d8 and consult this diagram to unde
 
 \medskip
 
-\noindent\begin{OBSStabular}{ccc}
+\noindent\begin{tabular}{ccc}
 8& 1& 2\\
 7 &\textbf{X}& 3\\
 6 &5 &4\\
 &\textbf{0}&
-\end{OBSStabular}
+\end{tabular}
 
 \smallskip
 
@@ -4221,7 +4219,7 @@ Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the pl
 
 \end{multicols}
 
-\noindent\begin{OBSStabularx}{0.98\textwidth}{l|X|X}
+\noindent\begin{tabularx}{\linewidth}{l|X|X}
 	\toprule
 \multicolumn{2}{c}{\textbf{Attacker}}&\multicolumn{1}{c}{\textbf{Defender}}\\
 \textbf{Mod}.&\multicolumn{1}{c}{\emph{Situation}}&\multicolumn{1}{c}{\emph{Situation}}\\
@@ -4238,7 +4236,7 @@ Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the pl
 \textbf{+1d6}& Invisible, Charge, Helpless opponent& \\
 
 \textbf{+8}&& Full Cover
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -4371,12 +4369,12 @@ A creature can attack from behind if the opponent is not able to face it. Attack
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 \toprule
 A & G & D\\
 B & \textbf{X} & E\\
 C & H & F
-\end{OBSStabular}
+\end{tabular}
 
 \bigskip
 
@@ -4507,7 +4505,7 @@ Fighting in conditions of reduced light presents difficulties summarized in this
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 	\toprule
 \textbf{Vision} & \multicolumn{2}{c}{\textbf{Condition}}\\
 & Dim Light & Darkness\\
@@ -4515,7 +4513,7 @@ Fighting in conditions of reduced light presents difficulties summarized in this
 Normal & -1 To Hit, -2 Awar. & Invis. (page \pageref{invisibilita})\\
 Low-Light & Normal & Invis. (page \pageref{invisibilita})\\
 Darkvision & Normal & -2 Awar.
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -4625,7 +4623,7 @@ If the one attempting the maneuver fails and gets a Critical Failure, they are t
 %in the case the character changes size \index[OBSSv2]{Changing size} their Defense changes accordingly.
 
 %\medskip
-%\noindent\begin{OBSStabular}{ll|ll}
+%\noindent\begin{tabular}{ll|ll}
 %\textbf{Size} & \textbf{Defense}&\textbf{Size} & \textbf{Defense}\\
 %\toprule
 %Fine& +8 & Large & -1\\
@@ -4633,7 +4631,7 @@ If the one attempting the maneuver fails and gets a Critical Failure, they are t
 %Tiny & +2 & Gargantuan & -4\\
 %Small & +1 & Colossal & -8\\
 %Medium & +0 &&
-%\end{OBSStabular}
+%\end{tabular}
 
 \subsection{Optional - Critical Hit Actions}
 
@@ -5084,7 +5082,7 @@ The Awareness check has a high difficulty for a low-level character. Be careful 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{The Invisible Creature...} & \textbf{Mod.}\\
 \toprule
@@ -5096,7 +5094,7 @@ Uses Stealth & check+10\\
 Is still and makes no noise & +4\\
 For each meter beyond 6 meters & +2\\
 Has Light/Medium/Complete cover & +4/8/12
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -7681,7 +7679,7 @@ It is the ability to not be slowed down in a hostile environment. It is necessar
 
 \medskip
 
-\begin{OBSStabular}{l|l}
+\begin{tabular}{l|l}
 	\toprule
 \textbf{Environment} & \textbf{Environment}\\
 \toprule
@@ -7690,7 +7688,7 @@ Swamp & Hill \& Forest \\
 Plains & Desert \\
 Mountain & Glaciers \& Tundra \\
 Urban & Underground
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -8298,7 +8296,7 @@ Here are some examples of characters according to standard fantasy conventions, 
 
 {\small
 
-	%\noindent\begin{OBSStabularx}{\linewidth}{>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X|>{\hsize=0.05\hsize}X|>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X}
+	%\noindent\begin{tabularx}{\linewidth}{>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X|>{\hsize=0.05\hsize}X|>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X}
 	%	& \multicolumn{3}{c}{\textbf{Guerriero}} & & \multicolumn{3}{c}{\textbf{Ladro}} & \\
 	%	\cmidrule(lr){1-4} \cmidrule(lr){6-9}
 	%	\textbf{CA} & \textbf{CM} & \textbf{PF} & \textbf{Abilità} & \textbf{Lv} & \textbf{CA} & \textbf{CM} & \textbf{PF} & \textbf{Abilità} \\
@@ -8324,13 +8322,13 @@ Here are some examples of characters according to standard fantasy conventions, 
 	%	19 & 0 & 19d6+57 & & 19 & 19 & 0 & 19d6+57 & \\
 	%	20 & 0 & 20d6+60 & A scelta & 20 & 20 & 0 & 20d6+60 & A scelta \\
 	%	\bottomrule
-	%\end{OBSStabularx}
+	%\end{tabularx}
 
 \begin{multicols}{2}
 
 \subsubsection*{Warrior}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Warrior}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8356,11 +8354,11 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	19	& 0	&	19d6+57	&\\
 	20	&	20	& 0	&	20d6+60	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Rogue}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Rogue}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8386,11 +8384,11 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	19	& 0	&	19d6+57	&\\
 	20	&	20	& 0	&	20d6+60	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Wizard}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Wizard}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8416,11 +8414,11 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	4	& 15&	19d6+12	&\\
 	20	&	5	& 15&	20d6+15	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Cleric}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Cleric}} & \textbf{Feat}\\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8446,11 +8444,11 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	5	& 14&	19d6+15	&\\
 	20	&	5	& 15&	20d6+15	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Barbarian}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Barbarian}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8476,13 +8474,13 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	19	& 0	&	19d6+78	&\\
 	20	&	20	& 0	&	20d6+83	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
 \subsubsection*{Paladin}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Paladin}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8508,11 +8506,11 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	15	& 4	&	19d6+45	&\\
 	20	&	15	& 5	&	20d6+45	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Bard}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Bard}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8538,11 +8536,11 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	10	& 9	&	19d6+30	&\\
 	20	&	10	& 10&	20d6+30	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Druid}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Druid}} & \textbf{Feat} \\
 	& \centering\arraybackslash \textbf{WP} & \centering\arraybackslash \textbf{MP} & \centering\arraybackslash \textbf{HP} & \\
@@ -8568,7 +8566,7 @@ Here are some examples of characters according to standard fantasy conventions, 
 	19	&	5	& 14&	19d6+15	&\\
 	20	&	5	& 15&	20d6+15	& your choice\\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \end{multicols}
 
@@ -8606,7 +8604,7 @@ If a familiar is dismissed, lost, or dies, it can be replaced one week later wit
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{Familiar} & \textbf{Ability gained by the master}\\
 \toprule
@@ -8626,7 +8624,7 @@ Toad & +2 to Saving Throws against Poison\\
 Monkey & +2 to Sleight of Hand checks\\
 \emph{Topi} & you become Topi's familiar!!!\\
 Fox & +1 to Reflex Saving Throw
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -8670,7 +8668,7 @@ All familiars have Special Abilities and grant them to their masters according t
 %\setlength{\extrarowheight}{-2pt}
 %\renewcommand{\arraystretch}{0.9}
 
-\noindent\begin{OBSStabularx}{0.98\textwidth}{cccX}
+\noindent\begin{tabularx}{\linewidth}{cccX}
 	\toprule
 \textbf{Master's MP} & \textbf{Defense} & \textbf{Intelligence} & \textbf{Special}\\
 \toprule
@@ -8685,7 +8683,7 @@ All familiars have Special Abilities and grant them to their masters according t
 15-16 & +5 & +3 & -\\
 17-18 & +6 & +3 & -\\
 19-20 & +7 & +3 & -
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \begin{multicols}{2}
 
@@ -9220,7 +9218,7 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 \toprule
 1 & For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check\\
 2 & You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5\\
@@ -9232,8 +9230,8 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 8 & You become Invisible and paralyzed for 6 rounds\\
 9 & Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds\\
 10 & You cannot speak well, you are stuttering. Every spell casting forces you to pass a Magic Check. Duration 3 rounds\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.5\textwidth}{l|X}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 11 & You manifest the Grease spell under your feet\\
 12 & The next spell you cast has effects minimized if possible\\
 13 & Your heartbeat is like the beat of a drum, it can be heard within 36 meters\\
@@ -9242,10 +9240,10 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 16 & You gain 2d6 Magic Points\\
 17 & An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters\\
 18 & Creatures, excluding you, within a 6-meter radius from you take 3d10 unresistable force damage
-\end{OBSStabularx}
-%\noindent\begin{OBSStabularx}{0.5\textwidth}{lX}
+\end{tabularx}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %18 & Creatures, excluding you, within a 6-meter radius from you take 3d10 unresistable force damage
-%\end{OBSStabularx}
+%\end{tabularx}
 
 \subsection{Magic Points}
 
@@ -9270,7 +9268,7 @@ Magic Points are all recovered with 8 hours of rest. \index[OBSSv2]{Spells, Reco
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{XX|XX|XX}
+\noindent\begin{tabularx}{\linewidth}{XX|XX|XX}
 	\toprule
 \textbf{MProv} & \textbf{MP}&\textbf{MProv} & \textbf{MP}&\textbf{MProv} & \textbf{MP}\\
 \toprule
@@ -9281,7 +9279,7 @@ Magic Points are all recovered with 8 hours of rest. \index[OBSSv2]{Spells, Reco
 5&	18 &	12&	42&	19&	67\\
 6&	21 &	13&	46&	20&	70\\
 7&	25 & 	14&	49&	20+&	prev.+ 4
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -9524,8 +9522,8 @@ The spellcaster can modify spells in various ways. These possibilities add versa
 
 - \textbf{Increasing the time}\index[OBSSv2]{Increasing the time}: casting from 2 Actions to 3 Actions decreases by 1 the Magic Points spent for casting the spell, with a minimum cost of 1 Magic Point.
 
-- \textbf{Circle of Power}\index[OBSSv2]{Circle of Power}: multiple spellcasters who are all Devotees or Followers of the same Patron can collaborate so that one of them succeeds better in casting a spell.
-Each spellcaster sacrifices half of the Magic Points of the spell cast by the companion and passes a Magic Check. For every two companions who pass the Magic Check, a Magic Critical Success is generated, up to a maximum of 7 magic Critical Successes. The casting time of a spell through the Circle of Power becomes at least 1 Turn. Requirement Magic Proficiency 5.
+%- \textbf{Circle of Power}\index[OBSSv2]{Circle of Power}: multiple spellcasters who are all Devotees or Followers of the same Patron can collaborate so that one of them succeeds better in casting a spell.
+%Each spellcaster sacrifices half of the Magic Points of the spell cast by the companion and passes a Magic Check. For every two companions who pass the Magic Check, a Magic Critical Success is generated, up to a maximum of 7 magic Critical Successes. The casting time of a spell through the Circle of Power becomes at least 1 Turn. Requirement Magic Proficiency 5.
 
 \medskip
 
@@ -10938,7 +10936,7 @@ At the end of each of its turns, an affected target can make a Will Saving Throw
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	d10 & Behavior\\
 	\toprule
@@ -10947,7 +10945,7 @@ At the end of each of its turns, an affected target can make a Will Saving Throw
 	6 & The creature makes an attack against itself and ends its turn\\
 	7-8 & The creature makes an attack against a randomly determined creature within 1 Movement Action. If it was hit the previous round, it will attack the creature that hit it. After making the attack, the turn ends.\\
 	9-10 & The creature can act and move normally.
-\end{OBSStabularx}
+\end{tabularx}
 
 \incantesimo{Conjure Animals}
 \noindent\colorbox{OBSSgold!10}{
@@ -11341,7 +11339,7 @@ The duration depends on the object's material. If the object is composed of mult
 Table Material - Duration
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	Vegetable matter &1 day\\
 	\toprule
@@ -11349,7 +11347,7 @@ Table Material - Duration
 	Precious metals &1 hour\\
 	Gems &10 minutes\\
 	Adamantine or mithral &1 minute
-\end{OBSStabularx}
+\end{tabularx}
 \medskip
 
 Using any material created by this spell as a material component of another spell causes that spell to fail.
@@ -13609,7 +13607,7 @@ The creature takes 1d6+2d6 damage; to determine the damage type, consult the tab
 
 \medskip
 
-\noindent\begin{OBSStabular}{l|l}
+\noindent\begin{tabular}{l|l}
 	\toprule
 	\textbf{1d6}&\textbf{Energy}\\
 	\toprule
@@ -13619,7 +13617,7 @@ The creature takes 1d6+2d6 damage; to determine the damage type, consult the tab
 	4 &Sound\\
 	5 &Necrotic\\
 	6 &Force
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -14853,7 +14851,7 @@ The magic fashions a new body, which likely causes a change in the creature's ra
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{d10} &\textbf{Race}\\
 	\toprule
@@ -14867,7 +14865,7 @@ The magic fashions a new body, which likely causes a change in the creature's ra
 	7&Bear/Owl/Raccoon/Cat (roll 1d4)\\
 	8&Human\\
 	9&Same race as before
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -15123,23 +15121,23 @@ You can see and hear a particular creature of your choice that is on the same pl
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Knowledge} & \textbf{Mod. to ST}\\
 	\toprule
 	You've heard of the target &+4\\
 	You've met the target &+0\\
 	You know the target well &-4
-\end{OBSStabular}
+\end{tabular}
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Connection} & \textbf{Mod. ST}\\
 	\toprule
 	Description or picture &-2\\
 	Possession or garment & -4\\
 	Body part (hair...)&-10
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -15863,7 +15861,7 @@ The GM rolls d100 and consults the table.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.95\textwidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{lllll}
 \toprule
 d100 &Mishap&Similar Area&Off Target&On Target\\
 \toprule
@@ -15874,7 +15872,7 @@ Seen Casually&01-33&34-43&44-53&54-100\\
 Viewed Once&01-43&44-53&54-73&74-100\\
 Description&01-43&44-53&54-73&74-100\\
 False Destination&01-50&51-100&-&-
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -17541,7 +17539,7 @@ The Narrator can still grant being a Follower or Devotee even if the Traits do n
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 	\toprule
 \textbf{Positive} (+1) & \textbf{Neutral} (0) & \textbf{Negative} (-1)\\
 \toprule
@@ -17549,7 +17547,7 @@ Positive En.& Fire& Negative En.\\
 Light & Cold& Void\\
 & Sound & \\
 & Electricity &
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -18723,7 +18721,7 @@ A character who starts playing generally has enough gold coins to purchase the b
 
 \medskip
 
-\noindent\begin{OBSStabular}{llllll}
+\noindent\begin{tabular}{llllll}
 \toprule
 \textbf{Coin} & \textbf{CP}&\textbf{SP}&\textbf{EP}&\textbf{GP}&\textbf{PP}\\
 \toprule
@@ -18732,7 +18730,7 @@ Silver & 10 & 1 & 1/5& 1/10 & 1/100\\
 Electrum & 50 & 5 & 1 & 1/2& 1/10\\
 Gold & 100 & 10 & 2& 1 & 1/10\\
 Platinum & 1000 & 100 & 20& 10 & 1
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -18751,7 +18749,7 @@ To get an idea of commercial transactions, some trade goods are described in the
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{Cost} & \textbf{Item}\\
 \toprule
@@ -18765,7 +18763,7 @@ To get an idea of commercial transactions, some trade goods are described in the
 5 gp & Salt or silver (0.5 kg) \\
 10 gp& Silk (1 m) or cow (1)\\
 15 gp& Saffron(0.5 kg)/ox (1)
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -18798,8 +18796,8 @@ The table presents the name of the weapon, its cost in gold coins, the damage an
 
 \textbf{Table: Weapons List}\index[Table]{Table Weapons List}
 
-%\noindent\begin{OBSSxltabular}{1\textwidth}{lll>{small}X}
-\noindent\begin{OBSSxltabular}{1\textwidth}{lllX}
+%\noindent\begin{xltabular}{1\textwidth}{lll>{small}X}
+\noindent\begin{xltabular}{\linewidth}{lllX}
 \textbf{Weapon}&\textbf{Cost}&\textbf{Size/Damage} & \textbf{Range, List, Special}\\
 \toprule
 Halberd& 10 & L/1d10 P/S& \textbf{Spears}, \textbf{Polearms}, Brace, Reach weapon, ED9 \\
@@ -18856,7 +18854,7 @@ Greatsword& 50 & L/2d6 S&\textbf{Swords}, Parry\\
 Rapier& 20 & S/1d6 P& \textbf{Light Weapons}, \textbf{Graceful Weapons}, Versatile\\
 Trident& 15 & M/1d6 P/S& 3 meters, \textbf{Polearms}, \textbf{Throwing Weapons}, Reach weapon, Brace\\
 Urgrosh& 18 & M/1d6 S/P& \textbf{Spears}, \textbf{Double weapons}\\
-\end{OBSSxltabular}
+\end{xltabular}
 
 \medskip
 
@@ -18866,7 +18864,7 @@ A \textbf{Small Weapon} has \textbf{Encumbrance} 1, a Medium Weapon has Encumbra
 
 \textbf{Table: Projectile List - Bows - Crossbows - Slings}\index[Table]{Table Projectile List - Bows - Crossbows - Slings}\label{proiettili}
 
-\noindent\begin{OBSStabular}{lcc}
+\noindent\begin{tabular}{lcc}
 	\toprule
 \textbf{Projectile Name}& \textbf{Number of shots/Cost (gp)} & \textbf{Damage / Type}\\
 \toprule
@@ -18876,7 +18874,7 @@ Hunting arrows (Shortbow, Longbow)& 20/1 gp & 1d6 P\\
 War arrows (Longbow)& 10/1 gp & 1d8 P\\
 Marble bullets (slings)& 15/1 gp & 1d4 B\\
 Stone (slings)& -& 1d2 B
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -19053,7 +19051,7 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \toprule
 \textbf{\#}& \textbf{Effect}\\
 \toprule
@@ -19063,8 +19061,8 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 5 & The sight is inaccurate. The next shot has -2 to the Attack Roll.\\
 6 & You inadvertently fire two shots/bursts. The second doesn't hit anyone and just consumes bullets.\\
 7 & The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \toprule
 \textbf{\#}& \textbf{Effect}\\
 8 & The magazine comes loose/falls. You must load a new magazine (2 Actions) or recover and put back the previous magazine.\\
@@ -19080,7 +19078,7 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 18 & The noise is so loud that the character is deafened for 1 minute.\\
 19 & The bullet exploded in the barrel damaging it. A Craft check DC 21 is required to restore the weapon, 1 turn.\\
 20 & The entire magazine exploded. You take damage as if half of the bullets remaining in the weapon hit you. The weapon and bullets are destroyed.
-\end{OBSStabularx}
+\end{tabularx}
 
 %Agile: usare l'arma senza scudo conferisce bonus +1
 %Devastante: se crit fai danno da sanguinamento
@@ -19126,7 +19124,7 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 \index[Table]{Armor Table}
 
 \label{tabella-armature}
-\noindent\begin{OBSStabular}{llllllll}
+\noindent\begin{tabular}{llllllll}
 	\toprule
 \textbf{Armor} & \textbf{Cost} & \textbf{Defense} & \textbf{Prof. Pen.} & \textbf{Type} & \textbf{Mov.} & \textbf{Magic Check}&\textbf{Encumbrance}\\
 \toprule
@@ -19141,7 +19139,7 @@ Banded 			& 250 gp 	& 7	& -2	& H & 0 &+16&8\\
 Half plate		& 1200 gp	& 8	& -2	& H & 1 &+16&8\\
 Field plate		& 1350 gp	& 9	& -3	& H & 2 &+16&8\\
 Full plate		& 1500 gp	& 10& -4	& H & 3 &+16&8
-\end{OBSStabular}
+\end{tabular}
 
 \begin{multicols}{2}
 
@@ -19286,7 +19284,7 @@ Wielding a shield occupies the hand and arm.
 
 \label{tabella-scudi}
 
-\noindent\begin{OBSStabular}{lcccccc}
+\noindent\begin{tabular}{lcccccc}
 	\toprule
 \textbf{Shields} & \textbf{Cost} & \textbf{Defense} & \textbf{AR penalty} & \textbf{Magic check} & \textbf{Type} & \textbf{Encumb.}\\
 \toprule
@@ -19296,7 +19294,7 @@ Medium wooden shield &5 gp &+2& 0& +4& M& 2\\
 Medium metal shield&12 gp&+2& 0& +4& M& 2\\
 Heavy wooden shield & 9gp&+3 & 1& +6& H& 4\\
 Heavy metal shield & 20 gp&+3& 1& +6& H& 4\\
-\end{OBSStabular}
+\end{tabular}
 
 \begin{multicols}{2}
 
@@ -19312,7 +19310,7 @@ Wearing and removing armor is an operation that requires time and attention; doi
 
 \medskip
 
-\noindent\begin{OBSStabular}{llll}
+\noindent\begin{tabular}{llll}
 	\toprule
 \textbf{Armor Type}& \textbf{Don} & \textbf{Don Hastily} & \textbf{Remove}\\
 \toprule
@@ -19321,7 +19319,7 @@ Padded, Leather, Studded leather& 1 minute& 3 rounds& - \\
 Chain shirt& 1 minute& 5 rounds& 5 rounds\\
 Scale mail, Ring mail, Breastplate, Banded mail & 4 minutes & 1 minute{*}& 1 minute\\
 Half plate, Field plate, Full plate& 4 minutes{*}{*}& 4 minutes{*}& 1d4+1 minutes
-\end{OBSStabular}
+\end{tabular}
 
 \bigskip
 
@@ -19428,7 +19426,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 \medskip
 
-\noindent\begin{OBSStabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
+\noindent\begin{tabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
 	\toprule
 	\textbf{Item} & \textbf{Cost} & \textbf{Enc.} \\
 	\midrule
@@ -19474,11 +19472,11 @@ Courtier's outfit& 30 gp& 1\\
 \hyperlink{piedediporco}{Crowbar} & 2 gp & 1 \\
 Devotee's robes & 5 gp & 1 \\
 
-\end{OBSStabular}
+\end{tabular}
 
 \columnbreak
 
-\noindent\begin{OBSStabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
+\noindent\begin{tabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
 \toprule
 \textbf{Item} & \textbf{Cost} & \textbf{Enc.} \\
 \midrule
@@ -19544,11 +19542,11 @@ Pole (10 ft)& 5 cp& 2\\
 \hyperlink{Anello per veleno}{Poison ring} & +20 gp&-\\
 \hyperlink{Ariete portatile}{Portable ram}& 10 gp& 3 \\
 \hyperlink{Acido Intenso}{Potent Acid} (vial) & 30 gp& L \\
-\end{OBSStabular}
+\end{tabular}
 
 \columnbreak
 
-\noindent\begin{OBSStabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
+\noindent\begin{tabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
 \toprule
 \textbf{Item} & \textbf{Cost} & \textbf{Enc.} \\
 \midrule
@@ -19596,7 +19594,7 @@ Winter blanket & 5 sp & 1 \\
 Winter outfit & 8 gp& 2\\
 Wooden holy symbol & 1 gp & L \\
 
-\end{OBSStabular}
+\end{tabular}
 
 \begin{enfasi}{
 Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke, from Profiles of the Future)
@@ -19758,7 +19756,7 @@ If the character chooses to purchase their starting equipment, they can purchase
 
 \subsubsection{Container Capacity}
 
-\noindent\begin{OBSStabularx}{1\textwidth}{lXl|lXl}
+\noindent\begin{tabularx}{\linewidth}{lXl|lXl}
 	\toprule
 \textbf{Item}&\textbf{Capacity}&\textbf{CdC}&\textbf{Item}&\textbf{Capacity}&\textbf{CdC}\\
 \toprule
@@ -19768,7 +19766,7 @@ Bucket&12 liters of liquid, 1 cube with 25 cm edge&3&Basket&2 cubes with 30 cm e
 Sack&1 cube with 30 cm edge/15 kg of equipment&3&Chest&12 cubes with 30 cm edge/150 kg of equipment&35\\
 Vial&120 ml of liquid&L&Waterskin&2 liters of liquid&1\\
 Pitcher&4 liters of liquid&2&Backpack&2 cubes with 30 cm edge/30 kg of equipment&6
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -19792,17 +19790,17 @@ If the character makes a check using specific tools or implements, they receive 
 
 \medskip
 
-%\noindent\begin{OBSStabularx}{0.95\textwidth}{llX|llX}
-\noindent\begin{OBSStabular}{lll|lll}
+%\noindent\begin{tabularx}{\linewidth}{llX|llX}
+\noindent\begin{tabular}{lll|lll}
 	\toprule
 \textbf{Item}&\textbf{Cost}&\textbf{Enc.}&\textbf{Item}&\textbf{Cost}&\textbf{Enc.}\\
 \toprule
 Thieves' Tools/Forgery kit&25 gp&1&Herbalism kit&5 gp&1\\
 Dice&1 sp&-&Deck of Cards&5 sp&-\\
 Poisoner's kit&50 gp&1&Alchemist's supplies&50 gp&2\\
-\end{OBSStabular}
+\end{tabular}
 
-\noindent\begin{OBSStabular}{lll|lll}
+\noindent\begin{tabular}{lll|lll}
 	\toprule	\textbf{Item}&\textbf{Cost}&\textbf{Enc.}&\textbf{Item}&\textbf{Cost}&\textbf{Enc.}\\
 \toprule
 Calligrapher's supplies&10 gp&1&Brewer's supplies&20 gp&2\\
@@ -19819,7 +19817,7 @@ Dulcimer&25 gp&2&Flute&2 gp&L\\
 Pan flute&12 gp&L&Shawm &1 gp &2\\
 Lute&35 gp&1&Drum&6 gp&1\\
 Viol&30 gp&1&Disguise kit&25 gp&1\\
-\end{OBSStabular}
+\end{tabular}
 
 \begin{multicols}{2}
 
@@ -19855,7 +19853,7 @@ To acquire such a mount, it is often necessary to steal an egg and raise the cre
 
 \textbf{Table: Mounts and Other Animals}\index[Table]{Table Mounts and Other Animals}\label{costicavalcature}\index[OBSSv2]{Mounts}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 \toprule
 \textbf{Mount}&\textbf{Cost}\\
 \toprule
@@ -19866,13 +19864,13 @@ Racing Saurovall&75 gp\\
 War Saurovall&400 gp\\
 Draft Saurovall&50 gp\\
 Pony Saurovall&30 gp
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
 \textbf{Tack and Harness and Drawn Vehicles}\index[OBSSv2]{Vehicles}\label{Veicoli}\hypertarget{Veicoli}{}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{llX}
 \toprule
 \textbf{Item}&\textbf{Cost}&\textbf{Weight}\\
 \toprule
@@ -19884,13 +19882,13 @@ Wagon&35 gp&200 kg\\
 Carriage&300 gp&300 kg\\
 Bit and Bridle&2 gp&0.5 kg\\
 Feed (per day)&5 cp&2 kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
 \textbf{Saddle}\index[OBSSv2]{Saddle}\index[OBSSv2]{Saddle list}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{llX}
 \toprule
 \textbf{Item}&\textbf{Cost}&\textbf{Weight}\\
 \toprule
@@ -19900,13 +19898,13 @@ Exotic&60 gp&20 kg\\
 Military&50 gp&15 kg\\
 Sled&20 gp&150 kg\\
 Stabling (per day)&1 sp&
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
 \textbf{Watercraft}\index[OBSSv2]{Watercraft}\hypertarget{Imbarcazioni}{}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{llX}
 \toprule
 \textbf{Item}&\textbf{Cost}&\textbf{Speed}\\
 \toprule
@@ -19916,7 +19914,7 @@ Galley&30000 gp&6 km per hour\\
 Sailing ship&10000 gp&3 km per hour\\
 Warship&25000 gp&3.75 km per hour\\
 Longship&10000 gp&4.5 km per hour
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection{Services}
 
@@ -19933,7 +19931,7 @@ A warrior might commission a blacksmith to forge a special sword.
 
 \bigskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{Service}&\textbf{Cost}\\
 \toprule
@@ -19944,7 +19942,7 @@ Untrained Hireling&5 sp per day\\
 Messenger&5 cp/1.5 km\\
 Ship's passage&1 sp/1.5 km\\
 Entry toll&5 cp/5 sp
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection{Magical Services}
 
@@ -20078,7 +20076,7 @@ The choice of lifestyle can have consequences. A character who maintains a wealt
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 \textbf{Lifestyle}&\textbf{Price}&\textbf{Lifestyle}&\textbf{Price}\\
 \toprule
@@ -20086,7 +20084,7 @@ Wretched&-&Squalid&1 sp\\
 Poor&2 sp&Modest&1 gp\\
 Comfortable&2 gp&Wealthy&4 gp\\
 Aristocratic&10+ gp&Royal &50 gp+\\
-\end{OBSStabular}
+\end{tabular}
 
 %\begin{center}
 %\includegraphics[width=0.7\linewidth]{immagini/mendicante.png}
@@ -20135,7 +20133,7 @@ Armor and weapons can be crafted from materials that possess inherent special qu
 
 \label{acciaio-vivente}
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Item type} & \textbf{Cost modifier}\\
 \toprule
@@ -20146,7 +20144,7 @@ Medium armor & +8000 gp\\
 Heavy armor & +12000 gp\\
 Shield & +600 gp\\
 Other items & 3000 gp/kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 A livewood tree is characterized by wood that is particularly hard, comparable to steel. The origin of these trees remains a mystery to almost everyone. A livewood tree is a normal tree planted by a Devotee of Efrem or Shayalia that has been blessed by the Devotee.
@@ -20161,7 +20159,7 @@ Livewood has 35 Hit Points per 2.5 cm of thickness and Hardness 15.
 
 \label{adamantio}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Object Type} & \textbf{Cost Modifier}\\
 \toprule
@@ -20172,7 +20170,7 @@ Medium armor & +10000 gp\\
 Heavy armor & +15000 gp\\
 Shield & +1000 gp\\
 Other objects & 5000 gp/kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 This extremely hard metal is found only in meteorites and contributes to the quality of a weapon or armor.
@@ -20194,7 +20192,7 @@ Weapons and armor normally made of steel and constructed with adamantine have on
 
 \label{argento-alchemico}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Object Type} & \textbf{Cost Modifier}\\
 \toprule
@@ -20203,7 +20201,7 @@ Light weapon & +20 gp\\
 Medium weapon & +90 gp\\
 Heavy weapon & +180 gp\\
 Shield & +100 gp
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -20231,7 +20229,7 @@ Cold iron has 30 Hit Points per 2.5 cm of thickness and Hardness 10.
 
 \label{mithral}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Object Type} & \textbf{Cost Modifier}\\
 \toprule
@@ -20240,7 +20238,7 @@ Medium armor & +4000 gp\\
 Heavy armor & +9000 gp\\
 Shield & +1000 gp\\
 Other objects & +1000 gp/kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -20315,7 +20313,7 @@ Depending on the size of the object, it can be more or less easy to hit.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.43\textwidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{Size} & \textbf{Def. Mod.} & \textbf{Dimensions}\\
 \toprule
@@ -20328,7 +20326,7 @@ Small & +2 &60-120cm\\
 Tiny & +4 &30-60cm\\
 Diminutive & +6 &15-30cm\\
 Fine & +8 &5-20cm
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -20350,7 +20348,7 @@ See also \hyperlink{tabellaporte}{Table: Doors}, p. \pageref{tabellaporte}
 
 \textbf{Table: Hardness and Hit Points of objects}\index[Table]{Table Hardness and Hit Points of objects}\label{durezzaoggetti}\index[OBSSv2]{Breaking objects}\index[OBSSv2]{Smashing things}\index[OBSSv2]{Breaking chests}
 
-\noindent\begin{OBSStabularx}{0.98\textwidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{lllll}
 \toprule{}
 \textbf{Material} &\textbf{Hard.}&\textbf{HP} &\textbf{DC} & \textbf{Example Objects}\\
 \toprule
@@ -20369,7 +20367,7 @@ Stone structure		&14	& 56 &	35	&Stone wall, longsword\\
 Stone					&7	& 28 &	35	&Paving stone, statue\\
 Steel or iron structure	&18	&90	&45	&Iron plate wall, two-handed greatsword
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -20424,7 +20422,7 @@ Creatures of Size larger or smaller than Medium have bonuses or penalties given 
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 \textbf{Size} & \textbf{Mod.}&\textbf{Size} & \textbf{Mod.}\\
 \toprule
@@ -20433,7 +20431,7 @@ Diminutive & -12 &Huge & +8\\
 Tiny & -8& Gargantuan & +12\\
 Small & -4 & Colossal & +16\\
 Medium & +0&&
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -20505,7 +20503,7 @@ Many spells and objects use \emph{real game time} as duration, meaning that roun
 
 \index[OBSSv2]{Dim Light}
 
-\noindent\begin{OBSStabular}{l|cc|c}
+\noindent\begin{tabular}{l|cc|c}
 	\toprule
 \textbf{Light} &\multicolumn{2}{c}{\textbf{Radius in meters}}& \textbf{Duration} \\
 \textbf{Source}& \textbf{Light} & \textbf{Dim Light} &\\
@@ -20517,7 +20515,7 @@ Many spells and objects use \emph{real game time} as duration, meaning that roun
 \hyperlink{Lacrima di Ljust}{Tear of Ljust} & 1 m & - & 10 rounds\\
 \hyperlink{Luce}{Light}& 3 m & 6 m &30 min. \\
 \hyperlink{Luce Diurna}{Daylight} & 6 m & 12 m & 1 hour
-\end{OBSStabular}
+\end{tabular}
 
 \smallskip
 
@@ -20681,7 +20679,7 @@ Additionally, if the object falls from a distance less than 3 meters, it inflict
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{Object Size} & \textbf{Damage}\\
 \toprule
@@ -20692,7 +20690,7 @@ Large & 4d6\\
 Huge & 6d6\\
 Gargantuan & 8d6\\
 Colossal & 10d6
-\end{OBSStabular}
+\end{tabular}
 
 \bigskip
 
@@ -20834,7 +20832,7 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 
 \medskip
 
-\noindent\begin{OBSStabularx}{1\textwidth}{llXXl}
+\noindent\begin{tabularx}{\linewidth}{llXXl}
 	\toprule
 \textbf{d\%} & \textbf{Weather} & \textbf{Cold Climate}& \textbf{Temperate Climate {*}} & \textbf{Desert}\\
 \toprule
@@ -20843,7 +20841,7 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 81-90 & Inclement & Precipitation (snow)& Precipitation normal for the season& Hot, windy \\
 91-99 & Storm & Snowstorm& Lightning Storm / Snowstorm& Dust storm \\
 100& Powerful storm& Blizzard & Blizzard, sleet storm, hurricane, tornado & Downpour
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -20976,7 +20974,7 @@ Winds can create whirlwinds of sand or dust, fuel large fires, capsize small boa
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{llX}
 	\toprule
 \textbf{Intensity} & \textbf{Speed} & \textbf{Ranged Attacks} \\
 \toprule
@@ -20987,7 +20985,7 @@ Very strong & 45.5-75km/h & -4 \\
 Windstorm & 76.5-111km/h & impossible \\
 Hurricane & 12-261km/h & impossible \\
 Tornado & 262-450km/h & impossible
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -21266,7 +21264,7 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 \textbf{Table: Walls}\index[Table]{Table Walls}
 \medskip
 
-\noindent\begin{OBSStabularx}{0.98\textwidth}{lccccc}
+\noindent\begin{tabularx}{\linewidth}{lccccc}
 	\toprule
 \textbf{Wall Type} & \textbf{Thickness} & \textbf{Break Through} & \textbf{Hardness} & \textbf{Hit Points} & \textbf{DC Climb}\\
 \toprule
@@ -21278,7 +21276,7 @@ Rough stone & 150 cm & 65 & 8 & 900 & 25\\
 Iron & 7.5 cm & 30 & 10& 90& 25\\
 Paper & variable & 1 & --& 1 & 30\\
 Wood & 15 cm& 20 & 5 & 60& 21
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -21286,7 +21284,7 @@ Wood & 15 cm& 20 & 5 & 60& 21
 
 \medskip
 
-\noindent\begin{OBSStabular}{lccc}
+\noindent\begin{tabular}{lccc}
 	\toprule
 \textbf{Miner}&\multicolumn{3}{c}{\textbf{Material to Dig (1 minute)}}\\
 &\textbf{Earth}&\textbf{Soft} \textbf{Stone}&\textbf{Hard Stone}\\
@@ -21297,7 +21295,7 @@ Dwarf/Orc & 55 cm&45 cm&20 cm\\
 Stone Giant& 3 m& 1.5 m& 75 cm\\
 Xorn &6 m&6 m& 6m\\
 Earth Elemental & 9 m&9 m&9 m
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -21402,7 +21400,7 @@ A \textbf{Critical Failure} in a Strength check (Fortitude ST with Strength) mea
 
 \medskip
 
-\noindent\begin{OBSStabular}{llllll}
+\noindent\begin{tabular}{llllll}
 	\toprule
 \textbf{Door Type} & \textbf{Typical thickness} & \textbf{Hardness} & \textbf{Hit Points} & \multicolumn{2}{c}{\textbf{DC to break down}} \\
 &\textbf{(cm)}&&& \textbf{Blocked} & \textbf{Locked}\\
@@ -21416,7 +21414,7 @@ Wooden portcullis & 7.5& 5 & 30& 27& 30\\
 Iron portcullis & 5& 10& 60& 28& 31\\
 Lock& -& 15& 30& -& -\\
 Hinges & -& 10& 30& -& -
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -21790,7 +21788,7 @@ This table indicates the duration of guard shifts and the total rest time of the
 
 \medskip{}
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{Group} &\textbf{Shift}&\textbf{Total}\\
 \textbf{members}&\textbf{Duration}&\textbf{Duration}\\
@@ -21800,7 +21798,7 @@ This table indicates the duration of guard shifts and the total rest time of the
 4& 2 h 30min. & 10 h 30min.\\
 5& 2 h& 10 h\\
 6& 1 h 30min. & 9 h 30min.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip{}
 
@@ -21887,14 +21885,14 @@ Use the Trap Saving Throw DCs and Attack Bonus table and the Damage Severity by 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{X|X|X}
+\noindent\begin{tabularx}{\linewidth}{X|X|X}
 	\toprule
 Trap Danger Level&Saving Throw DC& Attack Bonus\\
 \toprule
 Minimal&13-14&+4 to +6\\
 Dangerous&16-20&+8 to +10\\
 Deadly&21-26&+12 to +15
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -21902,7 +21900,7 @@ Deadly&21-26&+12 to +15
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{X|X|X|X}
+\noindent\begin{tabularx}{\linewidth}{X|X|X|X}
 	\toprule
 Character Level&Minimal&Dangerous&Deadly\\
 \toprule
@@ -21910,7 +21908,7 @@ Character Level&Minimal&Dangerous&Deadly\\
 5th-10th&2d10&4d10&10d10\\
 11th-16th&4d10&10d10&18d10\\
 17th-20th&10d10&18d10&24d10
-\end{OBSStabularx}
+\end{tabularx}
 
 
 \subsubsection{Example Traps}
@@ -22091,7 +22089,7 @@ Here are additional traps for your enjoyment.
 
 \textbf{Poisoned Dart}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 		\textbf{CR:} & 1 \\
 	\textbf{Type:} & Mechanical \\
 	\textbf{Survival:} & DC 13 \\
@@ -22099,11 +22097,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & Contact \\
 	\textbf{Reset:} & None \\
 	\textbf{Effect:} & Ranged attack 12 meters +10 (1d3 damage plus \hyperlink{bavadilucos}{Fermented Lucos Slime}, page \pageref{bavadilucos})
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Arrow}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 1 \\
 	\textbf{Type:} & Mechanical \\
 	\textbf{Survival:} & DC 13 \\
@@ -22111,11 +22109,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & Contact \\
 	\textbf{Reset:} & None \\
 	\textbf{Effect:} & Ranged attack 12 meters +15 (1d8+3)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Pit}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 1 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 14 \\
@@ -22123,11 +22121,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & 3 meter deep pit (2d6 falling damage)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 %\textbf{Trancia Dita}
 
-%\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %	\textbf{GS:} & 1 \\
 %	\textbf{Tipo:} & meccanico \\
 %	\textbf{Sopravviv.:} & DC 17 \\
@@ -22135,11 +22133,11 @@ Here are additional traps for your enjoyment.
 %	\textbf{Attivatore:} & posizione \\
 %	\textbf{Ripristino:} & manuale \\
 %	\textbf{Effetto:} & trancia la prima falange (1d8+1)
-%\end{OBSStabularx}\\
+%\end{tabularx}\\
 
 \textbf{Scything Blade}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 1 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 13 \\
@@ -22147,11 +22145,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & 2 melee attacks +10 (1d8+1)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Spiked Pit}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 2 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 16 \\
@@ -22159,11 +22157,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & 3 meter deep pit + spikes (Melee attack +10, 1d4 spikes per target for 1d4+2 damage each)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Scorching Wave}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 2 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 16 \\
@@ -22171,11 +22169,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & 5d4 fire damage
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Javelin}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 2 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 15 \\
@@ -22183,11 +22181,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & Ranged attack 12 meters +15 (2d6+6), within 6 meter radius
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Pit with Undead}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 2 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 14 \\
@@ -22195,11 +22193,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & At the bottom of the pit (2d6 falling damage) there are two zombies
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Acid Arrow}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 3 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 18 \\
@@ -22207,11 +22205,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & Ranged attack of 16 meters (4d4 acid damage for 4 rounds)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Concealed Pit}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 3 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 19 \\
@@ -22219,11 +22217,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & 3d6 falling damage
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Electric Arc}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 4 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 21 \\
@@ -22231,11 +22229,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & contact \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & Electric arc. 2 targets within 3 meters of each other, 5d6 electricity damage
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Wall Scythe}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 4 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 20 \\
@@ -22243,11 +22241,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & automatic \\
 	\textbf{Effect:} & three melee attacks +10 (2d8+3)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Falling Block}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 5 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 23 \\
@@ -22255,11 +22253,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & Melee attack +15 (6d6)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fiery Blast}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 6 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 25 \\
@@ -22267,11 +22265,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & 3 meter cone, 8d6 fire damage
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 %\textbf{Freccia Avvelenata}
 %
-%\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %	\textbf{GS:} & 6 \\
 %	\textbf{Tipo:} & meccanico \\
 %	\textbf{Sopravviv.:} & DC 25 \\
@@ -22279,11 +22277,11 @@ Here are additional traps for your enjoyment.
 %	\textbf{Attivatore:} & posizione \\
 %	\textbf{Ripristino:} & nessuno \\
 %	\textbf{Effetto:} & 6 frecce, attacco a distanza 18 metri +10 (1d6 più 1d6 Veleno)
-%\end{OBSStabularx}\\
+%\end{tabularx}\\
 
 \textbf{Boiling Waters}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 7 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 25 \\
@@ -22291,11 +22289,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & 6 meter cone (spray of boiling water, 8d6 fire damage).
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Gas Trap}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 8 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 28 \\
@@ -22303,11 +22301,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & repairable \\
 	\textbf{Effect:} & Poisonous gas, 6 meter cube. Fortitude ST DC 17 or slowed 1/1 minute.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Arrow Barrage}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 9 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 30 \\
@@ -22315,11 +22313,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & visual (Arcane Eye) \\
 	\textbf{Reset:} & repairable \\
 	\textbf{Effect:} & 6 arrows. Ranged attack +14 (1d8+1)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Concealed Spiked Pit}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 8 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 29 \\
@@ -22327,11 +22325,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & 15 m deep pit + spikes (Melee attack +9, 3 spikes per target, 1d6+5 damage each)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Electric Floor}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 9 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 30 \\
@@ -22339,11 +22337,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & 6mx9m. 8d6 Electricity damage.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Energy Drain}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 10 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 34 \\
@@ -22351,11 +22349,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & visual (True Seeing) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & Ranged touch attack 18 meters +14 from Void, maximum Hit Points reduced by 10d4 + Fatigued.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Room of Blades}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 10 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 25 \\
@@ -22363,11 +22361,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & repairable \\
 	\textbf{Effect:} & Melee attack +15 (to all three attacks 3d8+3)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Cone of Ice}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 11 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 30 \\
@@ -22375,11 +22373,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & like \hyperlink{Cono di Freddo}{Cone of Cold} dealing 9d6 damage. Reflex ST DC 22 to halve
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Poisoned Pit}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 11 \\
 	\textbf{Type:} & mechanical \\
 	\textbf{Survival:} & DC 25 \\
@@ -22387,11 +22385,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & position \\
 	\textbf{Reset:} & manual \\
 	\textbf{Effect:} & Pit 6mx3m, 15 m deep + spikes (3 melee attacks +15 per target. 1d6+5 damage + poison 2d6 damage)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Lightning Gallery}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 13 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 29 \\
@@ -22399,11 +22397,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & like the spell \hyperlink{Fulmine a catena}{Chain Lightning}. DC 22.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Inferno of Fire}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 15 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 31 \\
@@ -22411,11 +22409,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & 60 fire damage. Reflex ST DC 23 to halve.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Destruction}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 16 \\
 	\textbf{Type:} & N/A \\
 	\textbf{Survival:} & DC 34 \\
@@ -22423,11 +22421,11 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & proximity (Alarm) \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & like the spell \hyperlink{Disintegrazione}{Disintegration} with 1 Magic Critical. DC 24
-\end{OBSStabularx}
+\end{tabularx}
 
 \textbf{Meteor Shower}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{CR:} & 19 \\
 	\textbf{Type:} & magical \\
 	\textbf{Survival:} & DC 34 \\
@@ -22435,7 +22433,7 @@ Here are additional traps for your enjoyment.
 	\textbf{Activator:} & visual \\
 	\textbf{Reset:} & none \\
 	\textbf{Effect:} & like the spell \hyperlink{Pioggia di Meteore}{Meteor Swarm}. DC 28
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \end{multicols}
 
@@ -22677,7 +22675,7 @@ To \emph{find} the ingredients to prepare \textbf{natural potions}, it is necess
 
 \medskip
 
-\noindent\begin{OBSStabularx}{1\textwidth}{m{4.8cm}lllm{6.5cm}c}
+\noindent\begin{tabularx}{\linewidth}{m{4.8cm}lllm{6.5cm}c}
 	\toprule
 	\textbf{Poison Name} & \textbf{Use} & \textbf{Ons.} & \textbf{ST} & \textbf{Effect (damage)} & \textbf{Cost}\\
 	\midrule
@@ -22705,7 +22703,7 @@ To \emph{find} the ingredients to prepare \textbf{natural potions}, it is necess
 	Purple Shrew Liver \index[OBSSv2]{Purple Shrew Liver} & I& 1 h& 25& 2d6 damage to Wisdom and Intelligence. Permanent & 75 \\
 	Blood Serpent Venom \index[OBSSv2]{Blood Serpent Venom} & F& I & 25& Paralysis for 1d6 hours -1d4 Strength points for 7 days & 75\\
 	Thrun's Blood \index[OBSSv2]{Thrun's Blood} & C& I & 26& -1d3 Constitution & 80\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -22732,7 +22730,7 @@ Lost ability score points are recovered at a rate of 1 per day if not permanent 
 
 \medskip
 
-\noindent\begin{OBSSxltabular}{1\textwidth}{
+\noindent\begin{xltabular}{\linewidth}{
 		>{\raggedright\arraybackslash}p{3.1cm}
 		>{\centering\arraybackslash}p{0.4cm}
 		>{\centering\arraybackslash}p{0.8cm}
@@ -22788,7 +22786,7 @@ Lost ability score points are recovered at a rate of 1 per day if not permanent 
 	Nazamuse \index[OBSSv2]{Nazamuse}& I& I& 30& Removes natural Poisons and Diseases & 32 & 175\\
 	Ljust's Kiss\index[OBSSv2]{Ljust's Kiss}& C& 1 r & 35& Heals 100 Hit Points& 34 & 500\\
 	100 Herbs Extract\index[OBSSv2]{100 Herbs Extract}& I& I& 24& Removes Blindness, Deafness, Paralysis, Poison &35&150 \\
-\end{OBSSxltabular}
+\end{xltabular}
 
 \begin{multicols}{2}
 
@@ -22917,7 +22915,7 @@ The onset is always immediate, the duration for healing is immediate, for others
 
 \medskip
 
-\noindent\begin{OBSStabularx}{1\linewidth}{lXcc}
+\noindent\begin{tabularx}{1\linewidth}{lXcc}
 	\toprule
 \textbf{Potion Name}& \textbf{Effect}&\textbf{Cost}& \textbf{Appl.}\\
 \toprule
@@ -22931,7 +22929,7 @@ Enhanced Poison& 2d8+4 damage. DC 18 Fortitude ST to halve & 50 & F \\
 Greater Poison& 4d10+8 damage. DC 24 Fortitude ST to halve& 125 & F \\
 Remove Poison& grants a new ST with +1d6 & 75 & I\\
 Generic Potion* & see \hyperlink{crearepozioni}{Creating Potions} (page \pageref{crearepozioni}) &Lv*Lv*50&I
-\end{OBSStabularx}
+\end{tabularx}
 
 %\begin{center}
 %\includegraphics[width=0.15\linewidth]{immagini/mandragola2.png}
@@ -22945,7 +22943,7 @@ Generic Potion* & see \hyperlink{crearepozioni}{Creating Potions} (page \pageref
 
 \medskip
 
-\noindent\begin{OBSStabularx}{1\textwidth}{lcccXcc}
+\noindent\begin{tabularx}{\linewidth}{lcccXcc}
 	\toprule
 \textbf{Name}& \textbf{Use} & \textbf{Ons.} & \textbf{DC} & \textbf{Effect}& \textbf{Rar.} & \textbf{Cost} \\
 \toprule
@@ -22959,7 +22957,7 @@ Melzaa Alcoholic Extract\index[OBSSv2]{Melzaa Alcoholic Extract}& I& 1 r & 20& +
 Inut Scented Essence\index[OBSSv2]{Inut Scented Essence} & R& I& 15& +4 Dexterity for 1d8 hours& 16 & 15 gc \\
 Julnnaus Pollen\index[OBSSv2]{Julnnaus Pollen} & R& I& 20& +3 Constitution for 2 hours & 16 & 25 gc\\
 Erain Flower Pollen \index[OBSSv2]{Erain Flower Pollen} & R& 1 r& 20& +2 Str Int Dex, +3d6 temporary HP for 1 hour& 17 & 75 gc\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -23086,7 +23084,7 @@ This table shows the base values of land movement in non-combat situations.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lccc}
+\noindent\begin{tabularx}{\linewidth}{lccc}
 	\toprule
 \multirow{2}*{\textbf{Movement type}} &
 \multicolumn{3}{c}{\textbf{Movement}}\\
@@ -23103,7 +23101,7 @@ Walking& 3km& 4km& 6km\\
 Running (x3) & 9km& 12km & 18km \\
 \multicolumn{4}{c}{\textbf{One day (Overland)}}\\
 Walking& 24km & 32km & 54km
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Tactical Movement}
 
@@ -23255,7 +23253,7 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 
 \label{tabella-cavalcature-e-veicoli}\index[OBSSv2]{Dog}\index[OBSSv2]{Saurovall nano}\index[OBSSv2]{Cart}\index[OBSSv2]{Raft}\index[OBSSv2]{Boat}\index[OBSSv2]{Ship}\hypertarget{tabella-cavalcature-e-veicoli}{}
 
-\noindent\begin{OBSStabularx}{0.95\textwidth}{llXX}
+\noindent\begin{tabularx}{\linewidth}{llXX}
 	\toprule
 \multirow{2}*{\textbf{Mount or Vehicle}} & \textbf{Transported Encumbrance} & \textbf{Movement} & \textbf{Movement}\\
 &\textbf{(CdC)}&\textbf{Per hour} & \textbf{Per day}\\
@@ -23277,7 +23275,7 @@ Sailing Ship& 800 & 3km& 72km\\
 Warship (sails and oars) & 2200 & 3.5km & 90km\\
 Longship (sails and oars)& 600& 5km& 108km \\
 Galley (oars and sails) & 3300 & 6km& 144km
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -23354,7 +23352,7 @@ The \textbf{Table: CdC transported based on size}\index[OBSSv2]{Encumbrance tran
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{ll|ll}
+\noindent\begin{tabularx}{\linewidth}{ll|ll}
 	\toprule
 \textbf{Size}& \textbf{Enc.}&\textbf{Size} & \textbf{Enc.}\\
 \toprule
@@ -23363,7 +23361,7 @@ Diminutive & 1 & Huge& 36\\
 Tiny & 3& Gargantuan&49\\
 Small & 6 & Colossal&77\\
 Medium & 12&&
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -23377,7 +23375,7 @@ Creatures with 4 or more legs can carry larger loads.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{Creature Legs}&\textbf{CdC}\\
 \toprule
@@ -23386,7 +23384,7 @@ Creatures with 4 or more legs can carry larger loads.
 8 legs & x3\\
 12 legs & x4\\
 every other 2 legs & +0.5
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -23518,7 +23516,7 @@ The Experience Points per Level Table indicates the Experience Points needed to 
 
 Never exaggerate in the assignment of Experience Points otherwise you risk unbalancing the game and having to modify the adventure significantly. Be clear also with the players at the beginning of the campaign, in Session Zero, how the Experience Points will be calculated, distributed, and what is possible to do to get more.
 
-%\noindent\begin{OBSStabularx}{0.45\textwidth}{lX|lX}
+%\noindent\begin{tabularx}{\linewidth}{lX|lX}
 %\textbf{Level} & \textbf{Experience Points}&\textbf{Level} & \textbf{Experience Points}\\
 %\toprule
 %1&0&11&122970\\
@@ -23532,7 +23530,7 @@ Never exaggerate in the assignment of Experience Points otherwise you risk unbal
 %9&46970&19&3569730\\
 %10&76000&20&5775820\\
 %&+prev*1.680&&\\
-%\end{OBSStabularx}
+%\end{tabularx}
 
 \medskip
 
@@ -23557,7 +23555,7 @@ Whenever the character or the group:\index[OBSSv2]{Bonus Experience Points}\labe
 
 \textbf{Table: Experience Points per Level}\index[Table]{Table Experience Points per Level}\label{tabellapuntiesperienza}
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX|lX}
+\noindent\begin{tabularx}{\linewidth}{lX|lX}
 	\toprule
 	\textbf{Level} & \textbf{XP}&\textbf{Level} & \textbf{XP}\\
 	\toprule
@@ -23572,7 +23570,7 @@ Whenever the character or the group:\index[OBSSv2]{Bonus Experience Points}\labe
 	9&170000&19&1470000\\
 	10&220000&20&1730000\\
 	+&prev*0.2&-&-\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -23663,7 +23661,7 @@ Note that this reference guide to creating an encounter assumes a group of four 
 
 \medskip
 
-\noindent\begin{OBSStabular}{@{}ll@{}} % @{} removes extra padding
+\noindent\begin{tabular}{@{}ll@{}} % @{} removes extra padding
 	\toprule
 \textbf{difficulty} & \textbf{Challenge Rating}\\
 \toprule
@@ -23673,7 +23671,7 @@ High& APL +2\\
 Extraordinary& APL +3\\
 Deadly& APL +4\\
 Epic& APL +6
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -23717,7 +23715,7 @@ Starting from an established Challenge Rating (9), follow this table to establis
 
 \medskip
 
-\noindent\begin{OBSStabular}{l|l|l|l|}
+\noindent\begin{tabular}{l|l|l|l|}
 	\toprule
 \textbf{Factor} & \textbf{\% Weight} &\textbf{Factor} & \textbf{\% Weight}\\
 \toprule
@@ -23725,7 +23723,7 @@ Starting from an established Challenge Rating (9), follow this table to establis
 -5& 10    & -1 & 80 \\
 -4& 20    & +0 & 100\\
 -3& 45    &    & \\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -23842,7 +23840,7 @@ Characters advance in level by defeating monsters, overcoming challenges, having
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX|lX}
+\noindent\begin{tabularx}{\linewidth}{lX|lX}
 	\toprule
 \textbf{Level} & \textbf{Wealth (gp)} & \textbf{Level} & \textbf{Wealth (gp)}\\
 \toprule
@@ -23856,7 +23854,7 @@ Characters advance in level by defeating monsters, overcoming challenges, having
 8 & 5780 & 18 & 142000\\
 9 & 8100 & 19 & 253000\\
 10 & 11000 & 20 & 365000
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -24357,7 +24355,7 @@ Then consult the \hyperlink{tipologiaoggettomagico}{Table Magic Item Type} (p. \
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
+\noindent\begin{tabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
 	\toprule
 	\multicolumn{8}{c}{\textbf{Treasures from lairs or hideouts of creatures}} \\
 	\midrule
@@ -24382,7 +24380,7 @@ Then consult the \hyperlink{tipologiaoggettomagico}{Table Magic Item Type} (p. \
 
 	I & - & - & - & 1d6, 30\% & 2d6, 55\% & 2d4, 50\% & 1 any 15\% \\
 	\bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -24394,7 +24392,7 @@ Then consult the \hyperlink{tipologiaoggettomagico}{Table Magic Item Type} (p. \
 
 \bigskip
 
-\noindent\begin{OBSStabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
+\noindent\begin{tabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
 \toprule
 \multicolumn{8}{c}{\textbf{Individual Treasures, small lairs, backpacks and bags}} \\
 \midrule
@@ -24434,7 +24432,7 @@ Y & - & - & 1d6*100 & - & - & - & - \\
 
 Z & 1d3*100 & 1d4*100 & 1d6*100 & 1d4*100 & 1d6, 50\% & 2d6, 50\% & 3 any, 50\% \\
 \bottomrule
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -24471,7 +24469,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 
 \setlength{\parindent}{0cm}{
 
-\noindent\begin{OBSStabular}{ll|l}
+\noindent\begin{tabular}{ll|l}
 	\toprule
 	\textbf{3d6}&\textbf{Gem (gp)}&\textbf{Jewelry (dp)}\\
 	\toprule
@@ -24483,13 +24481,13 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 	16&200& 3d6*100\\
 	17&400& 4d6*100\\
 	18&800& 5d6*100\\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
 \textbf{Table: Types of Gems, ordered by value}\index[Table]{Table Types of Jewelry}
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{l|l|l|l}
+\noindent\begin{tabularx}{\linewidth}{l|l|l|l}
 	\toprule
 	\textbf{4d6} & \textbf{Gems} & \textbf{4d6} & \textbf{Gems} \\
 	\toprule
@@ -24502,13 +24500,13 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 	13 & Jade & 22 & Ruby \\
 	14 & Peridot & 23 & Diamond \\
 	15 & Garnet & 24 & Legendary Stone \\
-\end{OBSStabularx}
+\end{tabularx}
 
 \textbf{Table: Types of Jewelry}\index[Table]{Table Types of Jewelry}
 
 \medskip
 
-{\small \noindent\begin{OBSStabular}{l|l|l|l}
+{\small \noindent\begin{tabular}{l|l|l|l}
 \toprule
 \textbf{d100} & \textbf{Jewelry} & \textbf{d100} & \textbf{Jewelry}\\
 \toprule
@@ -24525,7 +24523,7 @@ When Gems or Jewelry are found, the Narrator must roll to determine their value 
 89-92 & Clasp& 96 & Scepter\\
 52    & Crown& 93-96 & Statuette\\
 97-100 & Chest& 100 & Globe
-\end{OBSStabular}}
+\end{tabular}}
 
 \subsubsection{Special Abilities and Cursed Items}
 
@@ -24539,7 +24537,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 
 \textbf{Table: Magic Item Type}\index[Table]{Table Magic Item Type}\label{tipologiaoggettomagico}\hypertarget{tipologiaoggettomagico}{}
 
-{\small \noindent\begin{OBSStabular}{ll}
+{\small \noindent\begin{tabular}{ll}
 		\toprule
 \textbf{3d6}& \textbf{Magic item type}\\
 \toprule
@@ -24553,7 +24551,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 16&\hyperlink{Cappelli}{Hats}, \hyperlink{Mantelli}{Cloaks}, \hyperlink{OcchialidaNotte}{Goggles}, \hyperlink{Tuniche}{Robes}\\
 17&\hyperlink{manualitomi}{Manuals, Tomes and Scrolls}\\
 18&\hyperlink{oggettimagicivari}{Various Magic Items}
-\end{OBSStabular}}
+\end{tabular}}
 
 \subsubsection{Weapons}
 
@@ -24561,7 +24559,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 \textbf{4d6} & \textbf{Magic bonus}\\
 \toprule
@@ -24572,9 +24570,9 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 22 & +3\\
 23 & +4\\
 24 &+5\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
-{\small \noindent\begin{OBSStabular}{ll}
+{\small \noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Special Ability Weapons Type 1}\\
 		\toprule
@@ -24585,7 +24583,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		59-72 & \hyperlink{Thief of Nine Lives}{Thief of Nine Lives}\\
 		73-86 & \hyperlink{Ghost Touch}{Ghost Touch}\\
 		87-100 & \hyperlink{Weapon Speed}{Weapon Speed}\\
-	\end{OBSStabular}
+	\end{tabular}
 }
 \medskip
 
@@ -24596,7 +24594,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 \textbf{Table: Special Ability Weapons Type 2}\index[Table]{Table Special Ability Weapons Type 2}\hypertarget{Special Ability Weapons Type 2}{}
 
 \medskip
-{\small \noindent\begin{OBSStabular}{ll}
+{\small \noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Special Ability Weapons Type 2}\\
 		\toprule
@@ -24604,7 +24602,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		26-50 & \hyperlink{Mace of Punishment}{Mace of Punishment}\\
 		51-75 & \hyperlink{Greater Weapon Ring}{Greater Weapon Ring}\\
 		76-100 & \hyperlink{Weapon Ring}{Weapon Ring}\\
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip
 
@@ -24612,7 +24610,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 
 \medskip
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Special Ability Weapons Type 3}\\
 		\toprule
@@ -24622,7 +24620,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		52-68 & \hyperlink{Shapeshifter}{Shapeshifter}\\
 		69-84 & \hyperlink{Ghost Ammunition}{Ghost Ammunition}\\
 		85-100 & \hyperlink{Infinite Ammunition}{Infinite Ammunition}\\
-\end{OBSStabular}}
+\end{tabular}}
 
 \begin{center}
 	\includegraphics[width=0.8\linewidth]{immagini/romanring.png}
@@ -24634,7 +24632,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{4d6} & \textbf{Magic bonus}\\
 		\toprule
@@ -24645,7 +24643,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 22 & +3\\
 23 & +4\\
 24 &+5\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -24653,7 +24651,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Special Ability Armor/Shields Type 1}\\
 		\toprule
@@ -24670,7 +24668,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		86-90& \hyperlink{Dragons Breath}{Dragon's Breath}\\
 		91-95& \hyperlink{Ghost Touch}{Ghost Touch}\\
 		96-100 & Cursed\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/gauntlet.png}\\
@@ -24680,7 +24678,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Special Ability Armor/Shields Type 2}\\
 		\toprule
@@ -24692,19 +24690,19 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		66-70 &\hyperlink{Weapon Shadow}{Weapon Shadow}\\
 		71-80 &\hyperlink{Titanic Armor}{Titanic Armor}\\
 		81-100 & Cursed\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Amulets, Necklaces and Jewelry}
 
 \index[Table]{Table Generation Amulets, Necklaces and Jewelry}\hypertarget{amulets necklaces jewelry}{}\label{amulets necklaces jewelry}\hypertarget{amulets necklaces jewelry1}{}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\textbf{Item Type}&\textbf{1d8}\\
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Amulets, Necklaces and Jewelry Type 1}\\
 		\toprule
@@ -24723,11 +24721,11 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		78-83 & \hyperlink{Rosary Necklace}{Rosary Necklace}\\
 		84-90 & \hyperlink{Scarab of Death}{Scarab of Death}\\
 		91-100& \hyperlink{Scarab of Protection}{Scarab of Protection}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip\hypertarget{amulets necklaces jewelry2}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Amulets, Necklaces and Jewelry Type 2}\\
 		\toprule
@@ -24745,13 +24743,13 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		71-80 & Broken talisman\\
 		81-85& \hyperlink{Talisman of the Sphere}{Talisman of the Sphere}\\
 		86-100& Worthless jewel
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Belts, Helmets, Boots and Gloves}
 
 \index[Table]{Table Generation Belts, Helmets, Boots and Gloves}\hypertarget{belts helmets}{}\label{belts helmets}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Belts, Helmets, Boots and Gloves}\\
 		\toprule
@@ -24775,7 +24773,7 @@ When instead it is marked \textbf{Weapon}, \textbf{Armor}, \textbf{Rod}, \textbf
 		84-90 & \hyperlink{Boots of Levitation}{Boots of Levitation}\\
 		91-95 & \hyperlink{Boots of Speed}{Boots of Speed}\\
 		96-100 & \hyperlink{Dancing Boots}{Dancing Boots}\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Wands, Staves and Rods}
 
@@ -24785,14 +24783,14 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 \medskip
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{Item Type}&\textbf{1d8}\\
 		\toprule
 		\hyperlink{Wands}{Wands}&1-4\\
 		\hyperlink{Staves}{Staves}&5-7\\
 		\hyperlink{Rods}{Rods}&8\\
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip
 
@@ -24800,7 +24798,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Wand}\\
 		\toprule
@@ -24826,7 +24824,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		86-90 & \hyperlink{Wand of Binding}{Wand of Binding}\\
 		91-95 & \hyperlink{Wand of Assisted Escape}{Wand of Assisted Escape}\\
 		96-100 & Cursed Wand
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -24834,7 +24832,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{3d6} & \textbf{Staff}\\
 		\toprule
@@ -24850,7 +24848,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		15 & \hyperlink{Staff of Thunder and Lightning}{Staff of Thunder and Lightning}\\
 		16 & \hyperlink{Staff of Sorcery}{Staff of Sorcery}\\
 		17-18 & Broken staff\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -24858,7 +24856,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 \medskip
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Rod}\\
 		\toprule
@@ -24872,24 +24870,24 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		71-80 & \hyperlink{Rod of Rulership}{Rod of Rulership}\\
 		81-90 & \hyperlink{Tentacle Rod}{Tentacle Rod}\\
 		91-100 & Cursed Rod\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Potions, Philters and Oils}
 
 \index[Table]{Table Generation Potions, Philters and Oils}\hypertarget{potions philters}{}\label{potions philters}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{Potion}&\textbf{1d8}\\
 		\toprule
 		\hyperlink{potions philters}{Potion Type 1} &1-4\\
 		\hyperlink{potions philters}{Potion Type 2} &5-7\\
 		\hyperlink{potions philters}{Potion Type 3} &8
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip\hypertarget{Potion Type 1}{}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Potion Type 1}\\
 		\toprule
@@ -24907,7 +24905,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		84-90 & \hyperlink{Potion of Diminution}{Potion of Diminution}\\
 		91-95 & \hyperlink{Potion of Speed}{Potion of Speed}\\
 		96-100 & \hyperlink{Potion of Flying}{Potion of Flying}
-\end{OBSStabular}}
+\end{tabular}}
 
 \begin{center}
 	\includegraphics[width=0.8\linewidth]{immagini/cupdrinking.png}
@@ -24915,7 +24913,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 	\emph{Drinking cup depicting scenes from the Odyssey, Athens 550-525 B.C.}
 \end{center}\hypertarget{Potion Type 2}{}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Potion Type 2}\\
 		\toprule
@@ -24931,11 +24929,11 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		78-85 & \hyperlink{Poison Potion}{Poison Potion}\\
 		86-95 & \hyperlink{potions philters}{Greater Healing Potion}\\
 		96-100 & \hyperlink{potions philters}{Enhanced Poison Potion}
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip\hypertarget{Potion Type 3}{}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Potion Type 3}\\
 		\toprule
@@ -24948,23 +24946,23 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		80-85 & \hyperlink{Potion of Longevity}{Potion of Longevity}\\
 		86-95 & \hyperlink{Potion of Polymorph}{Potion of Polymorph}\\
 		96-100&\hyperlink{potions philters}{Major Poison Potion}
-\end{OBSStabular}}
+\end{tabular}}
 
 \subsubsection{Rings}
 
 \index[Table]{Table Generation Rings}\hypertarget{magic rings}{}\label{magic rings}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{Ring}&\textbf{3d6}\\
 		\toprule
 		\hyperlink{Potion Type 3}{Ring Type 1} &3-16\\
 		\hyperlink{Potion Type 3}{Ring Type 2} &17-18
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip\hypertarget{Ring Type 1}{}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Rings Type 1}\\
 		\toprule
@@ -24983,11 +24981,11 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		76-84 & \hyperlink{Ring of Resistance}{Ring of Resistance}\\
 		85-93 & \hyperlink{Ring of Jumping}{Ring of Jumping}\\
 		93-100 & \hyperlink{Ring of Telekinesis}{Ring of Telekinesis}
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip\hypertarget{Ring Type 2}{}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{1d100} & \textbf{Rings Type 2}\\
 		\toprule
@@ -25007,13 +25005,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		92-96 & Ring of Three Wishes (depleted)\\
 		97-100 & \hyperlink{Ring of X-Ray Vision}{Ring of X-Ray Vision}
 
-\end{OBSStabular}}
+\end{tabular}}
 
 \subsubsection{Hats, Cloaks, Glasses, Robes}
 
 \index[Table]{Table Generation Hats, Cloaks, Glasses, Robes}\label{hats cloaks}\hypertarget{Cloaks}{}\hypertarget{Robes}{}\hypertarget{Glasses}{Glasses}\hypertarget{Hats}{Hats}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Hats, Cloaks, Glasses, Robes}\\
 		\toprule
@@ -25040,13 +25038,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		92-94 & \hyperlink{Robe of Eyes}{Robe of Eyes}\\
 		95-99 & \hyperlink{Robe of Useful Items}{Robe of Useful Items}\\
 		100 & \hyperlink{Robe of Stars}{Robe of Stars}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Manuals, Tomes and Scrolls}
 
 \index[Table]{Table Generation Scrolls and Tomes}\hypertarget{manuals tomes}{}\label{manuals tomes}\hypertarget{Scrolls}{}\label{Scrolls}
 
-{\small \noindent\begin{OBSStabularx}{0.48\textwidth}{lll}
+{\small \noindent\begin{tabularx}{\linewidth}{lll}
 		\toprule
 		\textbf{3d6} & \textbf{Scroll Rarity} & \textbf{Pages on Scroll}\\
 		\toprule
@@ -25055,11 +25053,11 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		14-16 &Rare & 1d8 \\
 		17 & Very Rare & 1d10\\
 		18 & Legendary & 2d6\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
-{\small \noindent\begin{OBSStabularx}{0.48\textwidth}{ll}
+{\small \noindent\begin{tabularx}{\linewidth}{ll}
 		\toprule
 		\textbf{3d6} & \textbf{Spell Level}\\
 		\toprule
@@ -25069,24 +25067,24 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		17 & 4  \\
 		18 & 5 \\
 		18 & 6 \\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
 \index[Table]{Table Generation Manuals and Tomes}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{Manuals, Tomes and Scrolls}&\textbf{3d6}\\
 		\toprule
 		\hyperlink{manuals tomes}{Scrolls} &3-14\\
 		\hyperlink{manuals tomes}{Manuals} &15-16\\
 		\hyperlink{manuals tomes}{Tomes} &17-18
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \hypertarget{Manuals}{}
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{3d6} & \textbf{Manuals}\\
 	\toprule
@@ -25097,11 +25095,11 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 	16 & \hyperlink{Manual of Physical Exercise}{Manual of Physical Exercise}\\
 	17 & Cursed Manual of Good Health\\
 	18 & Cursed Manual of Physical Exercise
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip\hypertarget{Tomes}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{3d6} & \textbf{Tomes}\\
 		\toprule
@@ -25112,13 +25110,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		16 & Cursed Tome of Authority and Influence\\
 		17 & Cursed Tome of Understanding\\
 		18 & Cursed Tome of Clear Thought
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Miscellaneous Magic Items}
 
 \index[Table]{Table Generation Miscellaneous Magic Items}\hypertarget{miscellaneous magic items}{}\label{miscellaneous magic items}
 
-{\small\noindent\begin{OBSStabular}{ll}
+{\small\noindent\begin{tabular}{ll}
 		\toprule
 		\textbf{Item Type} & \textbf{1d12}\\
 		\toprule
@@ -25127,13 +25125,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		\hyperlink{Miscellaneous Magic Items 3}{Miscellaneous Magic Items 3}&8-10\\
 		\hyperlink{Miscellaneous Magic Items 4}{Miscellaneous Magic Items 4}&11\\
 		\hyperlink{Rare and Legendary}{Rare and Legendary}&12
-\end{OBSStabular}}
+\end{tabular}}
 
 \subsubsection{Miscellaneous magic items 1}
 
 \index[Table]{Table Generation Miscellaneous magic items 1}\hypertarget{Miscellaneous Magic Items 1}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Miscellaneous magic items 1}\\
 		\toprule
@@ -25155,13 +25153,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		84-89 & \hyperlink{Dust of Dryness}{Dust of Dryness}\\
 		90-94 & \hyperlink{Ljusts Ointment}{Ljust's Ointment}\\
 		95-100 & \hyperlink{Handy Haversack}{Handy Haversack}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Miscellaneous magic items 2}
 
 \index[Table]{Table Generation Miscellaneous magic items 2}\hypertarget{Miscellaneous Magic Items 2}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Miscellaneous magic items 2}\\
 		\toprule
@@ -25184,13 +25182,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		91-94 & \hyperlink{Horn of Valhalla}{Horn of Valhalla}\\
 		95-98 & \hyperlink{Flying Carpet}{Flying Carpet}\\
 		99-100 & \hyperlink{Mattock of the Titans}{Mattock of the Titans}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Miscellaneous magic items 3}
 
 \index[Table]{Table Generation Miscellaneous magic items 3}\hypertarget{Miscellaneous Magic Items 3}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Miscellaneous magic items 3}\\
 		\toprule
@@ -25205,7 +25203,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		82-90 & \hyperlink{Arcane Stone}{Arcane Stone}\\
 		91-96 & \hyperlink{Stone of Weight}{Stone of Weight}\\
 		97-100 & \hyperlink{Arcane Fan}{Arcane Fan}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/ancientdrum.png}
@@ -25217,7 +25215,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 \index[Table]{Table Generation Miscellaneous magic items 4}\hypertarget{Miscellaneous Magic Items 4}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Miscellaneous magic items 4}\\
 		\toprule
@@ -25238,7 +25236,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		95-96 & \hyperlink{Drums of Panic}{Drums of Panic}\\
 		97-98 & \hyperlink{Drums of Stunning}{Drums of Stunning}\\
 		99-100 & \hyperlink{Censer of Cursed Summoning}{Censer of Cursed Summoning}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 %\begin{center}
 %\includegraphics[width=0.9\linewidth]{immagini/armatura-med.png}
@@ -25248,7 +25246,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 \index[Table]{Table Generation Rare and Legendary}\hypertarget{Rare and Legendary}{}
 
-{\small\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+{\small\noindent\begin{tabularx}{\linewidth}{lX}
 		\toprule
 		\textbf{1d100} & \textbf{Magic Item}\\
 		\toprule
@@ -25279,7 +25277,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 		95-96 & \hyperlink{Portable Chamber}{Portable Chamber}\\
 		97-98 & \hyperlink{Horseshoes of Speed}{Horseshoes of Speed}\\
 		99-100 & \hyperlink{Horseshoes of Zephyr}{Horseshoes of Zephyr}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 }
 
@@ -25411,7 +25409,7 @@ The \emph{identify} spell reveals that a creature is inside the flask, but the o
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{d100} &\textbf{Contains}\\
 \toprule
@@ -25430,7 +25428,7 @@ The \emph{identify} spell reveals that a creature is inside the flask, but the o
 96 &Angel Solar\\
 97-99 &Succubus/Incubus\\
 100 &Topi, La
-\end{OBSStabular}
+\end{tabular}
 \medskip
 
 \oggettomagico{Amulet of Poison Resistance}
@@ -25495,7 +25493,7 @@ A Bane \textbf{weapon} excels at attacking certain creatures. Against the chosen
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 d\% &Chosen enemy\\
 \toprule
@@ -25511,7 +25509,7 @@ d\% &Chosen enemy\\
 89-90 &Plants\\
 91-98 &Undead\\
 99-100 &Insects
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -25544,7 +25542,7 @@ A Greater Weapon \textbf{ring} can only be applied to melee weapons and has only
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{cXcX}
+\noindent\begin{tabularx}{\linewidth}{cXcX}
 	\toprule
 \textbf{1d100} & \textbf{Feat} & \textbf{1d100} & \textbf{Feat} \\
 \toprule
@@ -25558,7 +25556,7 @@ A Greater Weapon \textbf{ring} can only be applied to melee weapons and has only
 43-48 & Chaos & 97-100 & Transforming \\
 49-54 & Corrosive & & \\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -25798,7 +25796,7 @@ while wearing this \textbf{ring}, you have resistance to one type of damage. The
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{d10} & \textbf{Damage Type} & \textbf{Gem}\\
 \toprule
@@ -25812,7 +25810,7 @@ while wearing this \textbf{ring}, you have resistance to one type of damage. The
 8& Light &Topaz\\
 9& Sound &Spinel\\
 10& Negative Energy &Slate
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -26053,9 +26051,9 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
-%\noindent\begin{OBSStabular}{p{0.8cm}p{7cm}}
+%\noindent\begin{tabular}{p{0.8cm}p{7cm}}
 \textbf{d100}& \textbf{Contents}\\
 \toprule
 01-05 &You cast the Slow spell.\\
@@ -26072,8 +26070,8 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 50-53 &You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target.\\
 54-58 &You cast the darkness spell.\\
 59-62 &Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 63-65 &An object chosen by the Narrator disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension.\\
 66-69 &You shrink as if you had cast the enlarge/reduce spell on yourself.\\
 70-79 &You cast the Fireball spell.\\
@@ -26083,7 +26081,7 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 91-95 &A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds.\\
 96-97 &The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point.\\
 98-00 &If the target is a creature, it must make a Fortitude Saving Throw with DC 18. If the target is not a creature, the target becomes you and you will make the Saving Throw. If the Saving Throw fails by 5 or more, the target is petrified. If the Saving Throw fails by less, the target is hindered and begins to turn to stone. While hindered in this way, the target must repeat the Saving Throw at the end of each of its rounds, becoming petrified on a failure or ending the effect on a success. The target remains petrified until it is freed by the stone to flesh spell or similar magic.\\
-\end{OBSStabularx}
+\end{tabularx}
 
 %\medskip
 
@@ -26227,14 +26225,14 @@ If the Saving Throw succeeds, the creature takes half this damage.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.49\textwidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 \toprule
 \textbf{Distance from origin} &\textbf{Damage}\\
 \toprule
 3 meters or less &8 × charges in staff\\
 Up to 6 meters& 6 × charges in staff\\
 Up to 9 meters& 4 × charges in staff
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -26360,7 +26358,7 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{d100} & \textbf{Effect}\\
 \toprule
@@ -26375,14 +26373,14 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 71-80 &A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. \\
 81-90 &A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly in case of a tie; if it fails, it takes 10d6 force damage.\\
 91-99 &A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator's choice.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 100 &A giant beanstalk grows on the spot, rising to a height of the Narrator's choice. The top leads wherever the Narrator wishes, be it to a cloud giant's castle or another plane of existence.
-\end{OBSStabularx}
-%\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\end{tabularx}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %\textbf{d100} & \textbf{Effect}\\
 %\hline
-%\end{OBSStabularx}
+%\end{tabularx}
 
 %\begin{multicols}{2}
 
@@ -26410,19 +26408,19 @@ this painted brass \textbf{bottle} weighs 500 grams. When you use two actions to
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{3d6} &\textbf{Effect}\\
 	\toprule
 	3-5 & The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic.\\
 	6-16 &The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \textbf{3d6} &\textbf{Effect}\\
 \toprule
 &The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.\\
 17-18 & The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic.\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{immagini/genielamp.png}
@@ -26557,7 +26555,7 @@ There are four variants of this belt, each corresponding to a kind of true giant
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 	\toprule
 	\textbf{Giant Type}& \textbf{Strength} &\textbf{Rarity}\\
 	\toprule
@@ -26566,7 +26564,7 @@ There are four variants of this belt, each corresponding to a kind of true giant
 	\textbf{Fire} &7& Very rare\\
 	\textbf{Cloud} &8& Legendary\\
 	\textbf{Storm}& 9& Legendary
-\end{OBSStabular}
+\end{tabular}
 
 \oggettomagico{Belt of Dwarvenkind}
 
@@ -26602,7 +26600,7 @@ There are six types of magic beads. The Narrator decides the type of each bead o
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{llX}
 	\toprule
 	\textbf{3d6} &\textbf{Bead of...} &\textbf{Spell}\\
 	\toprule
@@ -26612,7 +26610,7 @@ There are six types of magic beads. The Narrator decides the type of each bead o
 	15-16& Smiting &Branding smite\\
 	17 &Wind Walking& Wind walk\\
 	18 &Summons &Blade barrier
-\end{OBSStabularx}
+\end{tabularx}
 
 \oggettomagico{Necklace of Adaptation}
 
@@ -26710,7 +26708,7 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Spell or Item} &\textbf{Charges Lost}\\
 	\toprule
@@ -26719,7 +26717,7 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 	Wall of fire &1d4\\
 	Passwall& 1d6\\
 	Prismatic spray &3d6
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -26727,7 +26725,7 @@ Below are the properties of each activatable face and its related charge cost.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{ccX}
+\noindent\begin{tabularx}{\linewidth}{ccX}
 	\toprule
 	\textbf{Face} & \textbf{Cost}& \textbf{Effect}\\
 	\toprule
@@ -26737,7 +26735,7 @@ Below are the properties of each activatable face and its related charge cost.
 	4&4 & Spell effects cannot pass through the barrier.\\
 	5&5 & Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.\\
 	6&0 & The barrier deactivates.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -27061,7 +27059,7 @@ this **gem** contains a spark of elemental energy. When you use two actions to b
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Gem} &\textbf{Summoned elemental}\\
 	\toprule
@@ -27069,7 +27067,7 @@ this **gem** contains a spark of elemental energy. When you use two actions to b
 	Yellow diamond& Earth elemental\\
 	Emerald &Water elemental\\
 	Blue sapphire&Air elemental
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -27264,7 +27262,7 @@ Once you finish creating the golem, the book is consumed by arcane flames. The g
 
 \medskip
 
-\noindent\begin{OBSStabular}{llll}
+\noindent\begin{tabular}{llll}
 	\toprule
 	3d6 &Golem &Time &Cost\\
 	\toprule
@@ -27272,7 +27270,7 @@ Once you finish creating the golem, the book is consumed by arcane flames. The g
 	5-16 &Flesh &60 days& 50000 gp\\
 	17 &Iron &120 days &100000 gp\\
 	18 &Stone& 90 days &80000 gp
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -27325,7 +27323,7 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{Playing Card} & \textbf{Illusion} \\
 	\toprule
@@ -27352,8 +27350,8 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 	Ten of diamonds & Fire giant \\
 	Nine of diamonds & Oni \\
 	Eight of diamonds & Gnoll \\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.5\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \toprule
 \textbf{Playing Card} & \textbf{Illusion} \\
 \toprule
@@ -27367,7 +27365,7 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 	Eight of clubs & Orc \\
 	Two of clubs & Kobold \\
 	Joker (2) & You (the owner of the deck) \\
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -27384,7 +27382,7 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 \medskip
 
 \begin{adjustbox}{max width=0.5\textwidth}
-	\noindent\begin{OBSStabular}{>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}}
+	\noindent\begin{tabular}{>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}}
 		\toprule
 		\textbf{Playing Card} & \textbf{Card} & \textbf{Playing Card} & \textbf{Card} \\
 		\toprule
@@ -27399,7 +27397,7 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 		Jack of clubs & Skull & Two of spades & Balance* \\
 		Two of clubs & Idiot & Joker & Fool* \\
 		Joker & Jester & & \\
-	\end{OBSStabular}
+	\end{tabular}
 \end{adjustbox}
 
 \medskip
@@ -28322,7 +28320,7 @@ There are four sizes of flying carpet. The Narrator chooses the carpet's size or
 
 \medskip
 
-\noindent\begin{OBSStabular}{cccc}
+\noindent\begin{tabular}{cccc}
 	\toprule
 	\textbf{d100} & \multicolumn{1}{c}{\textbf{Size}} & \textbf{Capacity} & \multicolumn{1}{c}{\textbf{Flying}} \\
 	& \multicolumn{1}{c}{\textbf{(cm)}} &\textbf{(Enc.)} & \multicolumn{1}{c}{\textbf{Speed}} \\
@@ -28331,7 +28329,7 @@ There are four sizes of flying carpet. The Narrator chooses the carpet's size or
 	21--55 & 120 × 180 & 200 kg / 50 & 18 meters \\
 	56--80 & 150 × 210 & 300 kg / 75 & 12 meters \\
 	81--100 & 180 × 270 & 400 kg / 100 & 9 meters \\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 The Capacity value indicates both the weight carried and the Encumbrance. The carpet can carry up to double the load indicated in the table, but flies at half speed if it carries more.
@@ -28436,7 +28434,7 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{d100} & \textbf{Effect}\\
 \toprule
@@ -28449,14 +28447,14 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 	52-59 & Pit (a 3-meter cube), which you can place on the ground within 3 meters of you.\\
 	60-68 &4 potions of healing. \\
 	69-75 &Rowboat (4 meters long).\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{d100} & \textbf{Effect}\\
 	76-83& Spell scroll containing a spell of 1st to 3rd level.\\
 	84-90& Two mastiffs.\\
 	91-96 &Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach.\\
 	97-100 &Portable ram.
-\end{OBSStabularx}
+\end{tabularx}
 
 %\begin{multicols}{2}
 
@@ -28860,7 +28858,7 @@ To recharge a wand or staff, a spellcaster must infuse the same spell that they 
 
 \bigskip
 
-\noindent\begin{OBSStabularx}{0.95\textwidth}{lcccc}
+\noindent\begin{tabularx}{\linewidth}{lcccc}
 	\toprule
 \textbf{Community Size} & \textbf{Base Value} & \textbf{Common} & \textbf{Uncommon} & \textbf{Rare}\\
 \toprule
@@ -28872,7 +28870,7 @@ Large town& 1500 gp & 1d6 items & 1d4 items& 1d2 items\\
 Small city & 2500 gp & 2d4 items & 1d6 items& 1d4 items\\
 Large city& 6000 gp & 3d4 items& 2d4 items& 1d6 items\\
 Metropolis & 12000 gp& {*} & 3d4 items& 2d4 items
-\end{OBSStabularx}
+\end{tabularx}
 
 {*} In a metropolis, almost all minor magic items can be found.
 
@@ -29258,7 +29256,7 @@ A curse can also manifest as a result of negative or extreme emotional influence
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{\%} & \textbf{Curse}\\
 \toprule
@@ -29268,7 +29266,7 @@ A curse can also manifest as a result of negative or extreme emotional influence
 51-65 & Requirement\\
 66-90 & Drawback\\
 91-100& Completely different effect
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -29352,7 +29350,7 @@ An uncontrollable item tends to activate randomly. Roll a d\% each day. With a r
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{\%} & \textbf{Situation}\\
 \toprule
@@ -29376,7 +29374,7 @@ An uncontrollable item tends to activate randomly. Roll a d\% each day. With a r
 96& In the hands of a creature of a particular gender\\
 97-99 & On non-sacred days or during particular astronomical occurrences\\
 100 & More than 150 km from a certain place
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Requirement}
 
@@ -29433,7 +29431,7 @@ The list is an example to randomly generate effects on the item's owner. Take in
 \medskip
 
 %{\small
-\noindent\begin{OBSStabularx}{0.98\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{\%} & \textbf{Drawback}\\
 \toprule
@@ -29486,7 +29484,7 @@ The list is an example to randomly generate effects on the item's owner. Take in
 98& The character can no longer use magic items or Spells with level above 3\\
 99& The character can no longer use Spells\\
 100 & Roll twice
-\end{OBSStabularx}
+\end{tabularx}
 %}
 
 \pagebreak
@@ -30054,7 +30052,7 @@ If not indicated, a creature's reach depends on its size and the weapon used (th
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.95\textwidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{lllll}
 \toprule
 \textbf{Size}& \textbf{Dimension} & \textbf{Example}&\textbf{Squares}&\textbf{Reach}\\
 \toprule
@@ -30065,7 +30063,7 @@ Large & 2 x 2 m& Ogre&2x2&1m\\
 Huge & 3 x 3 m & Giant, Ent&3x3&2m\\
 Gargantuan & 4 x 4 m&Kraken, Dragon&4x4&2m\\
 Colossal & 12 x 12 m&Ancient Dragon, Tarrasque&6x6&6m
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -30222,7 +30220,7 @@ If not indicated, but necessary for checks (not for the Attack Roll, where the v
 
 \medskip
 
-\noindent\begin{OBSStabular}{lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth}}
+\noindent\begin{tabular}{lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth}}
 	\toprule
 	\textbf{Immunity} & \textbf{Magic Weapon} & \textbf{Natural Attack (WP)}& \textbf{Empty Fist}\\
 	\toprule
@@ -30234,7 +30232,7 @@ If not indicated, but necessary for checks (not for the Attack Roll, where the v
 	+3 & +3 & 12& 8\\
 	+4 & +4 & 16& 12\\
 	+5 & +5 & - & 16
-\end{OBSStabular}
+\end{tabular}
 
 \subsection{Vulnerabilities, Resistances, and Immunities}
 
@@ -30486,7 +30484,7 @@ This table indicates the relative Experience Points for CR.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.42\textwidth}{ll|ll|ll}
+\noindent\begin{tabularx}{\linewidth}{ll|ll|ll}
 \toprule
 \textbf{CR} & \textbf{XP} &\textbf{CR} & \textbf{XP} &\textbf{CR} & \textbf{XP}\\
 \toprule
@@ -30502,7 +30500,7 @@ This table indicates the relative Experience Points for CR.
 6& 2300&18& 20000&30&155000\\
 7& 2900&19& 22000&&\\
 8& 3900&20& 25000&&
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Types of Treasure}
 
@@ -30556,14 +30554,14 @@ With this system, every 1000 Experience Points you level up. All the considerati
 
 \textbf{Table: Experience Points for Challenge Rating}\index[Table]{Table Experience Points for Challenge Rating}
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 \textbf{Challenge Rating} & \textbf{XP}&\textbf{Challenge Rating} & \textbf{XP}\\
 \toprule
 Easy& 20& Medium& 30\\
 High& 50& Extraordinary& 80\\
 Deadly& 120& Epic& 160
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -30603,7 +30601,7 @@ This system is also used to calculate the XP gained for traps or challenges over
 \item \makebox[2.5cm][l]{Epic:} 406\% and beyond
 \end{itemize}
 
-%\noindent\begin{OBSStabular}{@{}ll@{}} % @{} removes extra padding
+%\noindent\begin{tabular}{@{}ll@{}} % @{} removes extra padding
 %Easy: & 75\% - 105\% \\
 %Medium: & 106\% - 145\% \\
 %Challenging: & 146\% - 195\% \\
@@ -30611,11 +30609,11 @@ This system is also used to calculate the XP gained for traps or challenges over
 %Extraordinary: & 256\% - 325\% \\
 %Deadly: & 326\% - 405\% \\
 %Epic: & 406\%+
-%\end{OBSStabular}
+%\end{tabular}
 
 \item \textbf{Assign a Percentage Value to Monsters:} Use the following table to determine the \emph{weight} (percentage) of each Adversary (\emph{Adv.}) based on the difference between its Challenge Rating (CR) and the group's APL (\emph{Ratio})
 
-\noindent\begin{OBSStabularx}{0.95\linewidth}{c|c|c|c}
+\noindent\begin{tabularx}{0.95\linewidth}{c|c|c|c}
 	\toprule
 \textbf{Ratio} & \textbf{\% per Adv.} &\textbf{Ratio} & \textbf{\% per Adv.}\\
 \toprule
@@ -30625,7 +30623,7 @@ This system is also used to calculate the XP gained for traps or challenges over
 -3 & 15\% & +3 & 240\% \\
 -2 & 25\% & +4 & 360\% \\
 -1 & 45\% & +5 & 480\% \\
-\end{OBSStabularx}
+\end{tabularx}
 
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
 
@@ -30661,7 +30659,7 @@ Roll 1d6 for the first digit and a d12 for the second digit. Cooking times can b
 
 \textbf{Table: 1d6-12 Fantasy Monster Anatomical Parts}\index[Table]{Table 1d6-12 Fantasy Monster Anatomical Parts}
 
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{6d12}& \textbf{Parts}\\
 	\toprule
@@ -30717,11 +30715,11 @@ Roll 1d6 for the first digit and a d12 for the second digit. Cooking times can b
 411 & Flexible bone joint \\
 412 & Secondary lung with air bladders \\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection*{d6-8 Magical Effects from Ingestion or Preparation}
 
-\noindent\begin{OBSStabularx}{0.50\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{d68} & \textbf{Effects} \\
 \toprule
@@ -30773,7 +30771,7 @@ Roll 1d6 for the first digit and a d12 for the second digit. Cooking times can b
 66 & Foot sores: -1 m movement for 1d6 hours \\
 67 & Blurred vision: -2 to AR for 1d6 hours \\
 68 & Fatigued: -2 to physical damage for 1d6 hours \\
-\end{OBSStabularx}
+\end{tabularx}
 
 
 
@@ -34302,7 +34300,7 @@ In the \textbf{Description of each Ancient Dragon} you will find a brief descrip
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Color} & \textbf{List} \\
 	\toprule
@@ -34319,7 +34317,7 @@ In the \textbf{Description of each Ancient Dragon} you will find a brief descrip
 	Gold & Healing, Evocation \\
 	Copper & Invocation \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 \medskip
@@ -34331,7 +34329,7 @@ If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{3d6}& \textbf{Dragon Power}\\
 	\toprule
@@ -34344,7 +34342,7 @@ If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 
 	16 	& Magic resistance. The Dragon is immune to spells below CR/5 level.\\
 	17 	& Additional immunity. The Dragon is immune to damage from one more form of \hyperlink{elencoenergia}{Energy} (p. \pageref{elencoenergia}) in addition to \hyperlink{fontienergia}{random} (p. \pageref{fontienergia}).\\
 	18 	& Armored skin. The Dragon has damage reduction equal to CR/3 to S/P/B damage.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -44745,7 +44743,7 @@ After 1 hour of complete rest (or \hyperlink{Ristorare Inferiore}{Lesser Restora
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.45\textwidth}{lcl}
+\noindent\begin{tabularx}{\linewidth}{lcl}
 	\toprule
 \textbf{Conditions}& \textbf{Penality}&\textbf{Recovery}\\
 \toprule
@@ -44755,9 +44753,9 @@ Fatigued 3	&	3	&	8h\\
 Fatigued 4	&	4	&	12h\\
 Fatigued 5	&	Unconscious	&6h\\
 Fatigued 6	&	Death		&--
-\end{OBSStabularx}
+\end{tabularx}
 
-%\noindent\begin{OBSStabularx}{0.45\textwidth}{|c|X|l|}
+%\noindent\begin{tabularx}{\linewidth}{|c|X|l|}
 %\hline
 %\textbf{Liv.} & \textbf{Effetto} & \textbf{Rec.}\\
 %\hline
@@ -44768,7 +44766,7 @@ Fatigued 6	&	Death		&--
 %5 & Svenuto &6h\\
 %6 & Morte &-\\
 %\hline
-%\end{OBSStabularx}
+%\end{tabularx}
 
 After 8 hours of rest, a creature goes from Fatigued 3 to Fatigued 2 and after another hour becomes Fatigued, provided they don't suffer further fatigue.
 
@@ -44808,7 +44806,7 @@ Roll a die on the following table at the start of each round of the confused cre
 
 \medskip
 
-\noindent\begin{OBSStabularx}{0.48\textwidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 	\toprule
 \textbf{d10} & \textbf{Behavior} \\
 	\toprule
@@ -44817,7 +44815,7 @@ Roll a die on the following table at the start of each round of the confused cre
 6 &  The creature attacks itself and ends the round\\
 7-8 & The creature attacks a randomly determined creature within 1 Movement Action. If it was hit in the previous round, it will attack the creature that hit it. After making the attack, the round ends.\\
 9-10 & The creature can act and move normally.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -44952,7 +44950,7 @@ Facilis descensus Averno (Easy is the descent to Hell). Virgilio - Eneide
 
 \textbf{Energy Sources Table}\index[OBSSv2]{Random Table - Energy Sources}\label{energysources}\hypertarget{energysources}{}\label{fontienergia}
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 3d6 &Energy&&\\
 \toprule
@@ -44961,7 +44959,7 @@ Facilis descensus Averno (Easy is the descent to Hell). Virgilio - Eneide
 14&Electricity & 15&Sound\\
 16&Light & 17&Void\\
 18&Force&&\\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -45105,7 +45103,7 @@ The blue dot determines the spell's origin point
 
 \textbf{Critical Failure Effects Generator for Attacks}\index[OBSSv2]{Random Table - Critical failure with weapons}\label{tabellafallimentiarmi}\hypertarget{tabellafallimentiarmi}{}
 
-\noindent\begin{OBSStabularx}{0.5\textwidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 \toprule
 \textbf{3d6} & \textbf{Effect}\\
 \toprule
@@ -45126,7 +45124,7 @@ The blue dot determines the spell's origin point
 17 & You hit yourself hard. Roll regular damage against yourself. The round ends\\
 18 & You hit yourself hard in the head. As 17 and whoever is in melee against you can make an opportunity attack using a Reaction. The round ends\\
 19+& You hit yourself hard. Roll damage and apply two critical hits against yourself. The round ends
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -45136,7 +45134,7 @@ The blue dot determines the spell's origin point
 
 \medskip
 
-\resizebox{\linewidth}{!}{\noindent\begin{OBSStabular}{ll|ll|ll|ll}
+\resizebox{\linewidth}{!}{\noindent\begin{tabular}{ll|ll|ll|ll}
 \toprule
 \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} & \textbf{1d100} & \textbf{Weapon} \\
 \midrule
@@ -45154,7 +45152,7 @@ The blue dot determines the spell's origin point
 23-24 & Composite short bow & 48-49 & Infantry spear & 73-74 & Great double axe & 98-99 & War maul \\
 25    & Falchion & 50    & Cudgel & 75    & Short spear & 100   & Special weapon \\
 \bottomrule
-\end{OBSStabular}}
+\end{tabular}}
 
 }}
 
@@ -45171,7 +45169,7 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 \subsection*{Tables for Male Names}
 
 \subsubsection*{Male Initial Syllables}
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 \toprule
 \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
 \midrule
@@ -45184,11 +45182,11 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 9 & Gar  & 17 & Thaan \\
 10 & Hal &  18 & Zarak  \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsubsection*{Central Syllables (2d6)}
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 \toprule
 \textbf{2d6} & \textbf{Syllable} & \textbf{2d6} & \textbf{Syllable} \\
 \midrule
@@ -45199,12 +45197,12 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 6 & gal & 12 & thil \\
 7 & ar & & \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsubsection*{Male Final Syllables (3d6)}
 
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 \toprule
 \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
 \midrule
@@ -45215,14 +45213,14 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 7 & las & 13 & on & & \\
 8 & mel & 14 & mir & & \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsection*{Tables for Female Names}
 
 \subsubsection*{Female Initial Syllables (3d6)}
 
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 \toprule
 \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
 \midrule
@@ -45233,10 +45231,10 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 7 & Cel & 13 & Lil & & \\
 8 & Ela & 14 & Nym & & \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 \subsubsection*{Female Final Syllables (3d6)}
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 \toprule
 \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} & \textbf{3d6} & \textbf{Syllable} \\
 \midrule
@@ -45247,13 +45245,13 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 7 & ena & 13 & ina & & \\
 8 & iel & 14 & mira & & \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsection*{Fantasy Place Names}
 
 \subsubsection*{Place Prefixes (2d10)}
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 \hline
 \textbf{2d10} & \textbf{Prefix} & \textbf{2d10} & \textbf{Prefix} & \textbf{2d10} & \textbf{Prefix} \\
 \hline
@@ -45265,11 +45263,11 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 7 & House & 14 & Rock & & \\
 8 & Hill & 15 & Sun & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 \subsubsection*{Place Suffixes (2d10)}
 
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 \hline
 \textbf{2d10} & \textbf{Suffix} & \textbf{2d10} & \textbf{Suffix} & \textbf{2d10} & \textbf{Suffix} \\
 \hline
@@ -45281,7 +45279,7 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 7 & guard & 14 & plain & & \\
 8 & haven & 15 & port & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 
@@ -45290,7 +45288,7 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 \subsubsection*{Elven Names (2d12)}
 \textbf{Roll 2d12 for elven initials and finals:}
 
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 \toprule
 \textbf{2d12} & \textbf{Initial} & \textbf{2d12} & \textbf{Final} \\
 \midrule
@@ -45306,13 +45304,13 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 11 & Elr & 11 & thil \\
 12 & Galar & 12 & wyn \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsubsection*{Dwarven Names (2d12)}
 \textbf{Roll 2d12 for dwarven initials and finals:}
 
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 \toprule
 \textbf{2d12} & \textbf{Initial} & \textbf{2d12} & \textbf{Final} \\
 \midrule
@@ -45328,7 +45326,7 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 11 & Thor & 11 & thor \\
 12 & Ur & 12 & zak \\
 \bottomrule
-\end{OBSStabular}
+\end{tabular}
 
 
 

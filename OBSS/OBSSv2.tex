@@ -7,25 +7,32 @@
 \usepackage[italian]{babel}
 \usepackage[italian=guillemets]{csquotes}
 \usepackage{hyphenat}
-\hyphenation{mate-mati-ca re-cu-pe-ra-re}
+\hyphenation{
+	mate-mati-ca
+	re-cu-pe-ra-re
+	com-pe-ten-za
+	intel-li-gen-za
+	cara-tte-ri-sti-che
+	abi-li-tà
+	in-can-te-si-mo
+	at-tac-co
+	di-fe-sa
+	per-so-nag-gio
+	av-ven-tu-ra
+	espe-rien-za
+	equi-pag-gia-men-to
+}
 
 % ========== PACCHETTI GRAFICI E COLORI ==========
 \usepackage{xcolor}
 
 % Definizione colori del tema OBSS
-\definecolor{OBSSblue!10}{RGB}{240,244,247}
 \definecolor{OBSSnavyblue}{RGB}{0,0,128}
-\definecolor{OBSSblue!20}{RGB}{215,230,239}
-\definecolor{OBSSblue!80}{RGB}{54,107,148}
+\definecolor{OBSSprussia}{RGB}{0, 49, 83}
 \definecolor{OBSSblue}{RGB}{30,84,131}
-\definecolor{OBSSgold!10}{RGB}{252,248,239}
-\definecolor{OBSSgold}{RGB}{218,165,32}
-\definecolor{OBSSpurple!10}{RGB}{244,241,247}
-\definecolor{OBSSpurple!8}{RGB}{246,243,249}
+\definecolor{OBSSgold}{RGB}{255,215,0}
 \definecolor{OBSSpurple}{RGB}{88,57,131}
 \definecolor{lightgray}{gray}{0.95}
-
-% Colori per tabelle
 \definecolor{LightCyan}{RGB}{0,191,255}
 \definecolor{SlateGray}{RGB}{112,128,144}
 \definecolor{Lavender}{RGB}{230,230,250}
@@ -341,6 +348,8 @@ Ligatures=TeX
 	\vspace{-1mm}\noindent
 }
 
+
+
 % ========== SISTEMA TABELLE COLORATE ==========
 \newcommand{\obsscurrentcolor}{Coral}
 \newcommand{\obsssetcolor}[1]{\renewcommand{\obsscurrentcolor}{#1}}
@@ -352,38 +361,47 @@ Ligatures=TeX
 \newcommand{\obssgreen}{\obsssetcolor{LightGreen}}
 \newcommand{\obsscoral}{\obsssetcolor{Coral}}
 
+% Salvataggio ambienti originali
+\let\obssoriginaltabular\tabular
+\let\obssendinaltabular\endtabular
+\let\obssoriginaltabularx\tabularx
+\let\obssendoriginaltabularx\endtabularx
+\let\obssoriginalxltabular\xltabular
+\let\obssendoriginalxltabular\endxltabular
 
 % Ridefinizione ambienti tabella con colori
-\newenvironment{OBSStabular}[1]{%
+\renewenvironment{tabular}[1]{%
 	\obssgrey%
 	\arrayrulecolor{\obsscurrentcolor}%
 	\setlength{\arrayrulewidth}{1.5pt}%
 	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\tabular{#1}%
+	\obssoriginaltabular{#1}%
 }{%
-	\endtabular%
+	\obssendinaltabular%
 }
 
-\newenvironment{OBSStabularx}[2]{%
+\renewenvironment{tabularx}[2]{%
 	\obssgrey%
 	\arrayrulecolor{\obsscurrentcolor}%
 	\setlength{\arrayrulewidth}{1.5pt}%
 	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\tabularx{#1}{#2}%
+	\obssoriginaltabularx{#1}{#2}%
 }{%
-	\endtabularx%
+	\obssendoriginaltabularx%
 }
 
 
-\newenvironment{OBSSxltabular}[2]{%
+\renewenvironment{xltabular}[2]{%
 	\obssgrey%
 	\arrayrulecolor{\obsscurrentcolor}%
 	\setlength{\arrayrulewidth}{1.5pt}%
 	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\xltabular{#1}{#2}%
+	\obssoriginalxltabular{#1}{#2}%
 }{%
-	\endxltabular%
+	\obssendoriginalxltabular%
 }
+
+%\usepackage{fantasybg}  % Importa il package
 
 
 % ========== HYPERREF E BOOKMARK ==========
@@ -1463,7 +1481,7 @@ L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 
 \medskip
 
-\noindent\begin{OBSStabular}{llllll}
+\noindent\begin{tabularx}{\linewidth}{llllll}
 	\toprule
 \textbf{Periodo} & \textbf{FOR} & \textbf{DES} & \textbf{COS} & \textbf{INT} & \textbf{SAG}\\
 \toprule
@@ -1472,7 +1490,7 @@ Adulto& & &  & & \\
 Maturo& & & -1 & & +1 \\
 Anziano& -2 & -1 & -1 & +1 & +1 \\
 Venerabile&-1 & -1 & -1 & -1 & +1 \\
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -1514,7 +1532,7 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabularx}{\linewidth}{ll|ll}
 \toprule
 \textbf{Val. tirato} & \textbf{Caratt.} & \textbf{Val. tirato} & \textbf{Caratt.}\\
 \toprule
@@ -1522,7 +1540,7 @@ La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabell
 4-5			&	-2	&	15-16-17	&	+2\\
 6-7-8		&	-1	&	18 (o più)	&+3\\
 9-10-11		&	+0	&	&\\
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -2060,7 +2078,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\columnwidth}{lX}
+\noindent\begin{tabularx}{\columnwidth}{lX}
 	\toprule
 \textbf{Patrono} & \textbf{Risonanze Archetipiche} \\
 \toprule
@@ -2092,7 +2110,7 @@ Tazher & L'Ombra, Il Fuorilegge, Il Mutaforma \\
 Thaft & L'Uomo Comune, L'Alleato, Il Custode \\
 Torbiorn & Il Tiranno, L'Ombra, Il Sovrano \\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection*{Utilizzare gli Archetipi nel Gioco}
 
@@ -2159,7 +2177,7 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{>{\raggedright\arraybackslash}l|c|c|c|c}
+\noindent\begin{tabularx}{\textwidth}{>{\raggedright\arraybackslash}l|c|c|c|c}
 	\toprule
 \textbf{Professione}& \textbf{1 punto} & \textbf{2 punti} & \textbf{2 punti} & \textbf{3 punti}\\
 \toprule
@@ -2195,7 +2213,7 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 \textbf{Soldato}& Nuotare&Gestire animali&Atletica&Cavalcare\\
 \textbf{Tagliaborse} & Disattivare congegni&Artista della fuga&Furtività&Mani di fata\\
 \textbf{Teatrante}& Percepire emozioni& Lingue&Acrobatica&Intrattenere\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \vfill
 
@@ -2236,7 +2254,7 @@ Non sottovalutate la scelta della Professione! Non tutto può risolversi con asc
 
 \medskip\label{competenzeelenco}\hypertarget{competenzeelenco}{}
 
-\noindent\begin{OBSStabular}{lllll}
+\noindent\begin{tabularx}{\linewidth}{lllll}
 \toprule
 \textbf{Forza} & \textbf{Destrezza} & \textbf{Intelligenza} & \textbf{Saggezza} & \textbf{Carisma}\\
 \toprule
@@ -2249,7 +2267,7 @@ Nuotare 		& Mani di fata		& Disattivare congegni &Natura			& Tradizioni locali \
 - & -				& Valutare			& Seguire tracce	 & - \\
 - & -		        & -        			& Sopravvivenza      & - \\
 
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -2790,7 +2808,7 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{Diff.} & \textbf{Descrizione} & \textbf{Livello}\\
 \textbf{DC}&\textbf{difficoltà}& \textbf{Competenza}\\
@@ -2803,7 +2821,7 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 30 & Eroica& Eccellente\\
 35 & Quasi impossibile & Stupefacente\\
 40 & Impossibile & Epica
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -2911,7 +2929,7 @@ Ogni qual volta la \textbf{Prova} o \textbf{Prova Contrapposta} riguarda una \te
 
 \smallskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 \toprule
 \textbf{Prova Contrapposta}& \textbf{TS} \\
 \toprule
@@ -2919,7 +2937,7 @@ Forza& Tempra \\
 Destrezza&Riflessi\\
 Costituzione& Tempra\\
 Intelligenza, Saggezza, Carisma& Volontà
-\end{OBSStabularx}
+\end{tabularx}
 
 \smallskip
 
@@ -2955,7 +2973,7 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 \smallskip
 
-%\noindent\begin{OBSStabular}{lll}
+%\noindent\begin{tabular}{lll}
 %\multirow{2}*{\textbf{Vantaggio / Svantaggio}} & \multicolumn{2}{c}{\textbf{Prove}}\\
 %\cmidrule(lr){2-3} & \textbf{Dinamiche} & \textbf{Fisse} \\
 %\hline
@@ -2967,9 +2985,9 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 %Svantaggio normale & -2 & -2\\
 %Svantaggio forte & -1d6 & -4\\
 %Svantaggio molto forte & -2d6 & -8
-%\end{OBSStabular}
+%\end{tabular}
 
-\noindent\begin{OBSStabular}{lcc}
+\noindent\begin{tabular}{lcc}
 	\toprule
 \multirow{2}*{\textbf{Vantaggio / Svantaggio}} & \multicolumn{2}{c}{\textbf{Prove}}\\
 \cmidrule(lr){2-3} & \textbf{Dinamiche} & \textbf{Fisse} \\
@@ -2978,7 +2996,7 @@ Leggero & $\pm$1 & $\pm$1\\
 Normale & $\pm$2 & $\pm$2\\
 Forte & $\pm$1d6 & $\pm$4\\
 Molto forte & $\pm$2d6 & $\pm$8
-\end{OBSStabular}
+\end{tabular}
 
 \begin{narratore}[Il valore dei dadi]
 I bonus e penalità nel tiro di 3d6 hanno più \emph{effetto} che nella prova fatta con il d20. Cercate di rimanere entro i $\pm2$ e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o penalità maggiori.
@@ -3047,7 +3065,7 @@ Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 	\textbf{Esempio di Superficie} & \textbf{DC}\\
 	\toprule
@@ -3066,7 +3084,7 @@ Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi 
 	Usare una corda per calarsi&12\\
 	Usare una corda per arrampicarsi&15\\
 	La corda ha nodi & -3
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -3160,7 +3178,7 @@ Alla \textbf{Difficoltà base di 15} si applicano i seguenti modificatori:
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	Se il terreno è molto morbido& DC -4\\
 	Se il terreno è stabile& DC +5\\
 	Se il terreno è duro& DC +10\\
@@ -3170,7 +3188,7 @@ Alla \textbf{Difficoltà base di 15} si applicano i seguenti modificatori:
 	Ogni ora di pioggia& DC +4\\
 	Visibilità scarsa& DC +2\\
 	Cerca di occultare le tracce& DC +4
-\end{OBSStabularx}
+\end{tabularx}
 
 \titlespacing*{\subsubsection}{0pt}{0.5em}{0.5em}\subsubsection*{Valutare}\label{compvalutare}\index{Valutare}
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
@@ -3216,7 +3234,7 @@ Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, G
 
 \smallskip
 
-{\noindent\begin{OBSStabularx}{\linewidth}{lXX}
+{\noindent\begin{tabularx}{\linewidth}{lXX}
 		\toprule
 \textbf{Ambito culturale}& \textbf{Parlato} & \textbf{Scritto}\\
 \toprule
@@ -3243,7 +3261,7 @@ Elementali dell'Aria*& Ictun &-\\
 Non-morti & Expiran & - \\
 %Sottosuolo & Profondità& Profondità\\
 %Lingua dei Segni*& dei Segni & - \\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -3447,8 +3465,8 @@ Durante l'Azione di Movimento è possibile \textbf{Estrarre l'Arma} o Scudo o \t
 
 \medskip
 
-%\noindent\begin{OBSStabularx}{1\linewidth}{lc}
-\noindent\begin{OBSStabular}{lc}
+%\noindent\begin{tabularx}{1\linewidth}{lc}
+\noindent\begin{tabular}{lc}
 	\toprule
 \textbf{Cosa si fa} & \textbf{Azioni}\\
 \toprule
@@ -3499,7 +3517,7 @@ Scambiare poche battute con qualcuno& 0*\\
 \hyperlink{spingereavversario}{Spingere un avversario} & 2\\
 \hyperlink{afferrareunavversario}{Afferrare l'avversario} & 2\\
 \hyperlink{farecadereavversario}{Fare cadere l'avversario} & 2
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -3978,12 +3996,12 @@ In caso l'attacco manchi (di almeno 5) tirare un d8 e consultare questo schema p
 \medskip
 \begin{center}
 
-\begin{OBSStabular}{ccc}
+\begin{tabular}{ccc}
 	8& 1& 2\\
 	7 &\textbf{X}& 3\\
 	6 &5 &4\\
 	&\textbf{0}&
-\end{OBSStabular}
+\end{tabular}
 \end{center}
 
 \smallskip
@@ -4026,7 +4044,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 
 \end{multicols}
 
-\noindent\begin{OBSStabularx}{\linewidth}{l|X|X}
+\noindent\begin{tabularx}{\linewidth}{l|X|X}
 	\toprule
 \multicolumn{2}{c}{\textbf{Attaccante}}&\multicolumn{1}{c}{\textbf{Difensore}}\\
 \textbf{Mod}.&\multicolumn{1}{c}{\emph{Situazione}}&\multicolumn{1}{c}{\emph{Situazione}}\\
@@ -4048,7 +4066,7 @@ Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qu
 \textbf{+1d6}& Invisibile, Carica, avversario Indifeso& \\
 
 \textbf{+8}&& Copertura completa
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -4161,12 +4179,12 @@ Un creatura può attaccare alle spalle se l'avversario non è in grado di fronte
 \medskip
 \begin{center}
 
-\begin{OBSStabular}{lll}
+\begin{tabular}{lll}
 \hline
 A & G & D\\
 B & \textbf{X} & E\\
 C & H & F
-\end{OBSStabular}
+\end{tabular}
 \end{center}
 
 \bigskip
@@ -4273,7 +4291,7 @@ Combattere in condizioni di luminosità ridotta comporta delle difficoltà riass
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 	\toprule
 \textbf{Visione} & \multicolumn{2}{c}{\textbf{Condizione}}\\
 & Luce Fioca & Oscurità\\
@@ -4281,7 +4299,7 @@ Combattere in condizioni di luminosità ridotta comporta delle difficoltà riass
 Normale & -1 TC, -2 Cons. & Invis. (pag. \pageref{invisibilita})\\
 Crepuscolare & Normale & Invis. (pag. \pageref{invisibilita})\\
 Scurovisione & Normale & -2 Cons.
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -4367,7 +4385,7 @@ Se chi tenta la manovra non riesce e ottiene un Fallimento Critico è lui che ca
 %nel caso il personaggio cambi dimensione \index{Modificare le dimensioni} la sua Difesa cambia di conseguenza.
 
 %\medskip
-%\noindent\begin{OBSStabular}{ll|ll}
+%\noindent\begin{tabular}{ll|ll}
 %\textbf{Taglia} & \textbf{Difesa}&\textbf{Taglia} & \textbf{Difesa}\\
 %\toprule
 %Piccolissima& +8 & Grande & -1\\
@@ -4375,7 +4393,7 @@ Se chi tenta la manovra non riesce e ottiene un Fallimento Critico è lui che ca
 %Minuscola & +2 & Mastodontica & -4\\
 %Piccola & +1 & Colossale & -8\\
 %Media & +0 &&
-%\end{OBSStabular}
+%\end{tabular}
 
 \subsection{Opzionale - Azioni Tiro Critico}\index{Opzionale - Azioni Tiro Critico}\label{OpzionaleAzioniTiroCritico}\hypertarget{OpzionaleAzioniTiroCritico}{}
 
@@ -4799,7 +4817,7 @@ La prova di Consapevolezza ha una difficoltà alta per un personaggio di basso l
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{La Creatura Invisibile...} & \textbf{Mod.}\\
 \toprule
@@ -4811,7 +4829,7 @@ Usa Furtività & prova+10\\
 E' ferma e non fa rumori & +4\\
 Per ogni metro oltre i 6 metri & +2\\
 Ha copertura Legg./Media/Compl. & +4/8/12
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -6741,7 +6759,7 @@ E' la capacità di non essere rallentati in un ambiente ostile. E' necessario di
 
 \medskip
 
-\noindent\begin{OBSStabular}{l|l}
+\noindent\begin{tabular}{l|l}
 	\toprule
 \textbf{Ambiente} & \textbf{Ambiente}\\
 \toprule
@@ -6750,7 +6768,7 @@ Palude & Collina \& Foresta \\
 Pianura & Desertico \\
 Montagna & Ghiacciai \& Tundra \\
 Urbano& Sotterraneo
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -7687,7 +7705,7 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 
 {\small
 
-	%\begin{OBSStabularx}{\linewidth}{>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X|>{\hsize=0.05\hsize}X|>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X}
+	%\begin{tabularx}{\linewidth}{>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X|>{\hsize=0.05\hsize}X|>{\hsize=0.05\hsize}X>{\hsize=0.05\hsize}X>{\hsize=0.13\hsize}X>{\hsize=0.50\hsize}X}
 	%	& \multicolumn{3}{c}{\textbf{Guerriero}} & & \multicolumn{3}{c}{\textbf{Ladro}} & \\
 	%	\cmidrule(lr){1-4} \cmidrule(lr){6-9}
 	%	\textbf{CA} & \textbf{CM} & \textbf{PF} & \textbf{Abilità} & \textbf{Lv} & \textbf{CA} & \textbf{CM} & \textbf{PF} & \textbf{Abilità} \\
@@ -7713,13 +7731,13 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	%	19 & 0 & 19d6+57 & & 19 & 19 & 0 & 19d6+57 & \\
 	%	20 & 0 & 20d6+60 & A scelta & 20 & 20 & 0 & 20d6+60 & A scelta \\
 	%
-	%\end{OBSStabularx}
+	%\end{tabularx}
 
 \begin{multicols}{2}
 
 \subsubsection*{Guerriero}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Guerriero}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7745,11 +7763,11 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	19	& 0	&	19d6+57	&\\
 	20	&	20	& 0	&	20d6+60	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Ladro}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Ladro}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7775,11 +7793,11 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	19	& 0	&	19d6+57	&\\
 	20	&	20	& 0	&	20d6+60	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Mago}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Mago}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7805,11 +7823,11 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	4	& 15&	19d6+12	&\\
 	20	&	5	& 15&	20d6+15	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Chierico}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Chierico}} & \textbf{Abilità}\\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7835,11 +7853,11 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	5	& 14&	19d6+15	&\\
 	20	&	5	& 15&	20d6+15	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Barbaro}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Barbaro}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7865,13 +7883,13 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	19	& 0	&	19d6+78	&\\
 	20	&	20	& 0	&	20d6+83	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
 \subsubsection*{Paladino}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Paladino}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7897,11 +7915,11 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	15	& 4	&	19d6+45	&\\
 	20	&	15	& 5	&	20d6+45	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Bardo}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Bardo}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7927,11 +7945,11 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	10	& 9	&	19d6+30	&\\
 	20	&	10	& 10&	20d6+30	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection*{Druido}
 
-\noindent\begin{OBSStabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
+\noindent\begin{tabularx}{\linewidth}{c|>{\hsize=0.08\hsize}X>{\hsize=0.08\hsize}X>{\hsize=0.33\hsize}X|X|}
 	\toprule
 	\textbf{Lv} & \multicolumn{3}{c|}{\textbf{Druido}} & \textbf{Abilità} \\
 	& \centering\arraybackslash \textbf{CA} & \centering\arraybackslash \textbf{CM} & \centering\arraybackslash \textbf{PF} & \\
@@ -7957,7 +7975,7 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 	19	&	5	& 14&	19d6+15	&\\
 	20	&	5	& 15&	20d6+15	& a scelta\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \end{multicols}
 
@@ -7997,7 +8015,7 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{Famiglio} & \textbf{Capacità acquisita dal padrone}\\
 \toprule
@@ -8017,7 +8035,7 @@ Rospo & +2 al Tiro Salvezza su Veleno\\
 Scimmia & +2 alle prove di Mani di Fata\\
 \emph{Topi} & diventi il famiglio della Topi!!!\\
 Volpe & +1 al Tiro Salvezza su Riflessi
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -8061,7 +8079,7 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 %\setlength{\extrarowheight}{-2pt}
 %\renewcommand{\arraystretch}{0.9}
 
-\noindent\begin{OBSStabularx}{\linewidth}{cccX}
+\noindent\begin{tabularx}{\linewidth}{cccX}
 	\toprule
 \textbf{CM del Padrone} & \textbf{Difesa} & \textbf{Intelligenza} & \textbf{Speciale}\\
 \toprule
@@ -8076,7 +8094,7 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 15-16 & +5 & +3 & -\\
 17-18 & +6 & +3 & -\\
 19-20 & +7 & +3 & -
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \begin{multicols}{2}
 
@@ -8489,9 +8507,13 @@ Mentre la Competenza Magica indica lo studio e dedizione alla Magia nella forma 
 
 Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due ed arrotondando per eccesso. Confrontate il risultato con il (doppio del punteggio del modificatore di caratteristica per incantesimi)+1, prendendo il valore minore.
 
-Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6lv. Es. CM=16 e Adepto della Magia 1 volta, (16+1)/2=9 livello di incantesimi.
+Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6lv.
+
+Es. CM=16 e Adepto della Magia 1 volta, (16+1)/2=9 livello di incantesimi.
+
 Se l'incantatore ha come modificatore di caratteristica per incantesimo 0 non potrà lanciare incantesimi superiori al primo livello (vedi anche Abilità \hyperlink{Tutt'uno con la magia}{Tutt'uno con la magia}, pag. \pageref{Tutt'uno con la magia}).
-Se il modificatore è 3 il massimo livello lanciabile sarà il 6lv oppure 7lv nei due casi di esempio.
+
+Negli esempi sopra se il modificatore di caratteristica per incantesimi è 3 il massimo livello lanciabile sarà il 6lv e 7lv rispettivamente.
 
 \subsection{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto - Problemi nel lancio dell'incantesimo}\index{Distratto}\label{magiedistratto}
 
@@ -8507,7 +8529,7 @@ L'incantatore tira \textbf{3d6 + 1d6 ogni due punti di Competenza Magica} (arrot
 
 L'incantatore può \textbf{ignorare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.\index{Scartare dadi nella Prova di Magia} Questo per evitare di tirare tre volte 1.
 
-La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + penalità. Eventuali Critici o Fallimenti Magici si raffrontano a questo valore.\index{Fallimento Critico Magico}. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
+La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.\index{Fallimento Critico Magico}. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente superare la difficoltà data dall'incantesimo e non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
@@ -8516,8 +8538,12 @@ La Prova di Magia come tutte le Prove segue le \hyperlink{goldenrules}{Golden Ru
 \begin{narratore}[Declamare la Magia]
 Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice \emph{Lancio una palla di fuoco} non otterrà vantaggi ma se con trasporto declama \emph{Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!} allora si!.
 
+\medskip
+
 Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgendo anche gli altri giocatori.
 \end{narratore}
+
+\medskip
 
 %\begin{center}
 %	\includegraphics[width=1\linewidth]{immagini/spellbook.png}
@@ -8526,7 +8552,9 @@ Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgen
 
 
 \begin{giocatore}[Osare la Prova di Magia]
-La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. C'è sempre un certo pericolo... ma cosa è la Magia senza rischi!
+La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. Non è solo questione di fortuna! Con le giuste Abilità potete evolvere un personaggio capace di dominare la sorte!\\
+
+Non rinunciate al divertimento per paura di sbagliare. Meglio fallire clamorosamente in una esplosione di colori che rinunciare e basta!
 \end{giocatore}
 
 
@@ -8540,7 +8568,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 	\toprule
 \textbf{Dadi} & \textbf{Effetti}\\
 \toprule
@@ -8562,7 +8590,7 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 16 & Guadagni 2d6 Punti Magia\\
 17 & Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri\\
 18 & Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Modificare la Prova di Magia}
 
@@ -8595,7 +8623,7 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{XX|XX|XX}
+\noindent\begin{tabularx}{\linewidth}{XX|XX|XX}
 	\toprule
 	\textbf{CM} & \textbf{PM}&\textbf{CM} & \textbf{PM}&\textbf{CM} & \textbf{PM}\\
 	\toprule
@@ -8606,7 +8634,7 @@ I Punti Magia si recuperano tutti con 8 ore di riposo. \index{Incantesimi, Recup
 	5&	18 &	12&	42&	19&	67\\
 	6&	21 &	13&	46&	20&	70\\
 	7&	25 & 	14&	49&	20+&	prec.+ 3
-\end{OBSStabularx}
+\end{tabularx}
 
 PM = (CM × 3) + (CM ÷ 2 arrotondato per eccesso) + Modificatore Caratteristica
 
@@ -8817,8 +8845,8 @@ L'incantatore può modificare gli incantesimi in diversi modi. Queste possibilit
 
 - \textbf{Aumentare il tempo}\index{Aumentare il tempo} di lancio da 2 Azioni a 3 Azioni diminuisce di 1 i Punti Magia spesi per il lancio di incantesimo, con un minimo di costo di 1 Punto Magia.
 
-- \textbf{Circolo del Potere}\index{Circolo del Potere}: più incantatori che siano tutti Devoti o Seguaci dello stesso Patrono possono collaborare affinché uno di loro riesca meglio nel lancio di un incantesimo.
-Ogni incantatore sacrifica metà dei Punti Magia dell'incantesimo lanciato dal compagno e supera una Prova di Magia. Ogni due compagni che superano la Prova di Magia si genera un Successo critico magico, fino ad un massimo di 7 successi critici magici. Il tempo di lancio di un incantesimo tramite Circolo di Potere diviene almeno 1 Turno. Requisito Competenza Magica 5.
+%- \textbf{Circolo del Potere}\index{Circolo del Potere}: più incantatori che siano tutti Devoti o Seguaci dello stesso Patrono possono collaborare affinché uno di loro riesca meglio nel lancio di un incantesimo.
+%Ogni incantatore sacrifica metà dei Punti Magia dell'incantesimo lanciato dal compagno e supera una Prova di Magia. Ogni due compagni che superano la Prova di Magia si genera un Successo critico magico, fino ad un massimo di 7 successi critici magici. Il tempo di lancio di un incantesimo tramite Circolo di Potere diviene almeno 1 Turno. Requisito Competenza Magica 5.
 
 \medskip
 
@@ -9004,7 +9032,7 @@ Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2
 
 \begin{center}
 
-\includegraphics[width=0.5\linewidth]{immagini/David_Ryckaert_III_La_Ronde_des_farfadets_grayscale.png}
+\includegraphics[width=0.55\linewidth]{immagini/David_Ryckaert_III_La_Ronde_des_farfadets_grayscale.png}
 
 \medskip
 
@@ -9047,14 +9075,14 @@ La magia è credere in te stesso. Se riesci a farlo, puoi fare accadere qualsias
 \begin{multicols}{2}
 
 %\smallskip\noindent\rule{\linewidth}{2pt} \index[Incantesimi]{Aiuto} \hypertarget{Aiuto}{}\medskip\noindent{\textbf{Aiuto}}\pdfbookmark[3]{Aiuto}{Aiuto}\noindent
-%\noindent\begin{OBSStabular}{p{2.8cm}|p{\dimexpr 0.5\textwidth - 3cm - 2\tabcolsep - 1pt\relax}}
+%\noindent\begin{tabular}{p{2.8cm}|p{\dimexpr 0.5\textwidth - 3cm - 2\tabcolsep - 1pt\relax}}
 %	\textbf{Lista di Magia} & Cura, Necromanzia \\
 %	\textbf{Livello} & 2, Non Comune \\
 %	\textbf{Tempo di Lancio} & 2 Azioni \\
 %	\textbf{Gittata} & 9 metri \\
 %	\textbf{Componenti} & V, S, M (una sottile striscia di tessuto bianco) \\
 %	\textbf{Durata} & 1 ora per Competenza Magica \\
-%\end{OBSStabular}
+%\end{tabular}
 
 \incantesimo{Aiuto}
 \noindent\colorbox{OBSSgold!10}{
@@ -10363,7 +10391,7 @@ Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effe
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	d10 & Comportamento\\
 	\toprule
@@ -10372,7 +10400,7 @@ Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effe
 	6 & La creatura effettua un attacco contro se stessa e finisce il round\\
 	7-8 & La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina.\\
 	9-10 & La creatura può agire e muoversi normalmente.
-\end{OBSStabularx}
+\end{tabularx}
 
 \incantesimo{Confusione Contagiosa}
 \noindent\colorbox{OBSSgold!10}{
@@ -10708,14 +10736,14 @@ La durata dipende dal materiale dell'oggetto. Se l'oggetto è composto da più m
 Tabella Materiale - Durata
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	Materia vegetale &1 giorno\\
 	Pietra o cristallo &12 ore\\
 	Metalli preziosi &1 ora\\
 	Gemme &10 minuti\\
 	Adamantio o mithral &1 minuto
-\end{OBSStabularx}
+\end{tabularx}
 \medskip
 
 Usare qualsiasi materiale creato da questo incantesimo come componente materiale di un altro incantesimo farà fallire il nuovo incantesimo.
@@ -12403,7 +12431,7 @@ La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare 
 
 \medskip
 
-\noindent\begin{OBSStabular}{l|l}
+\noindent\begin{tabular}{l|l}
 	\toprule
 	\textbf{1d6}&\textbf{Energia}\\
 	\toprule
@@ -12413,7 +12441,7 @@ La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare 
 	4 &Suono\\
 	5 &Vuoto\\
 	6 &Forza
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -14047,7 +14075,7 @@ La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razz
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{d10} &\textbf{Razza}\\
 	\toprule
@@ -14061,7 +14089,7 @@ La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razz
 	7&Orso/Gufo/Procione/Gatto (tirate 1d4)\\
 	8&Umano\\
 	9&Stessa razza precedente
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -14643,23 +14671,23 @@ te.
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Conoscenza} & \textbf{Mod. al TS}\\
 	\toprule
 	Ne hai sentito parlare &+4\\
 	Hai incontrato il bersaglio &+0\\
 	Conosci bene il bersaglio &-4
-\end{OBSStabular}
+\end{tabular}
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 	\textbf{Connessione} & \textbf{Mod. TS}\\
 	\toprule
 	Descrizione o immagine &-2\\
 	Proprietà o indumento & -4\\
 	Parte del corpo (capelli...)&-10
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -15233,7 +15261,7 @@ Il Narratore tira un d100 e consulta la tabella.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{lllll}
 	\toprule
 d100 &Errore&Area Simile&Fuori Bersaglio&Sul Bersaglio\\
 \toprule
@@ -15244,7 +15272,7 @@ Visto per caso&01-33&34-43&44-53&54-100\\
 Visto una volta&01-43&44-53&54-73&74-100\\
 Descrizione&01-43&44-53&54-73&74-100\\
 Falsa Destinazione&01-50&51-100&-&-
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -16868,7 +16896,7 @@ Il Narratore può comunque concedere l'essere Seguace o Devoto pur se i Tratti n
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabularx}{\linewidth}{lXX}
 	\toprule
 \textbf{Positivi} (+1) & \textbf{Neutrali} (0) & \textbf{Negativi} (-1)\\
 \toprule
@@ -16876,7 +16904,7 @@ En. Positiva& Fuoco& En. Negativa\\
 Luce & Freddo& Vuoto\\
 & Suono & \\
 & Elettricità &
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -16900,6 +16928,7 @@ Un favore chiesto ad un Patrono ha sempre un prezzo non ovvio ne scontato. Il Na
 Solo la luce che uno accende a se stesso, risplende in seguito anche per gli altri. (Arthur Schopenhauer)
 }\end{enfasi}
 
+
 La Dama della Luce, colei che irradia calore e amore. Generatrice delle pulsioni d'amore, protezione, gentilezza, gioia e perdono. Racchiude in sé l'aspetto protettivo di una madre, la forza e l'audacia di una combattente, la passionalità di una giovane amante, l'allegria e la ricerca del nuovo, la fantasia di una bambina. Ljust incarna la bellezza della vita ed ogni creatura che la contempla vede quella che per lei è la massima armonia e cade prona al suo fascino.
 
 Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, fondamentalmente si nasce per essere Devoti di Ljust. Nel corso delle ere Ljust decise di selezionare, scegliere e premiare le creature che più mostravano in modo innato e profondo amore per la vita, curiosità per il nuovo, forza incrollabile, dedizione, fiducia, rispetto e cura degli altri donando loro i poteri e la possibilità di studiare e crescere come Allieve della Luce. Queste Allieve devono seguire la regola degli 8 Passi.
@@ -16911,6 +16940,7 @@ Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, 
 \item \textbf{Manifestazione}: luce dorata inonda l'incantatore.
 \item \textbf{Somma dei Tratti in comune a 5 punti}: puoi lanciare l'incantesimo Luce come Reazione, 3 volte al giorno
 \item \textbf{Somma dei Tratti in comune a 10 punti}: guadagni un +2 ai Tiri Salvezza su Tempra
+
 \item \textbf{Somma dei Tratti in comune a 15 punti}: una armatura di luce ti protegge, guadagni un +2 a tutti i Tiri Salvezza e Difesa, l'effetto è permanente.
 \item \textbf{Somma dei Tratti in comune a 20 punti}: puoi lanciare l'incantesimo Bagliore Solare. 1 volta al giorno.
 \item \textbf{Energia/B} (Seguace/Devoto): Energia Positiva, Luce
@@ -16986,6 +17016,7 @@ Tutti i Patroni temono Atmos per il suo potere, il più terribile per loro, ovve
 Per essere un Devoto di Atmos al momento del rito è necessario che il futuro Devoto possieda almeno quattro Tratti in comune con lui, amare la storia e la conoscenza.
 
 Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti scaffali della Biblioteca del Sapere con sempre uno strano misuratore del tempo appeso alla vita.
+
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un libro bianco con un orologio da taschino appoggiato sopra
@@ -17995,7 +18026,7 @@ Un personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per
 
 \medskip
 
-\noindent\begin{OBSStabular}{llllll}
+\noindent\begin{tabularx}{\linewidth}{lXXXXX}
 \toprule
 \textbf{Moneta} & \textbf{MR}&\textbf{MA}&\textbf{ME}&\textbf{MO}&\textbf{MP}\\
 \toprule
@@ -18004,7 +18035,7 @@ Argento & 10 & 1 & 1/5& 1/10 & 1/100\\
 Electrum & 50 & 5 & 1 & 1/2& 1/10\\
 Oro & 100 & 10 & 2& 1 & 1/10\\
 Platino & 1000 & 100 & 20& 10 & 1
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -18021,7 +18052,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{Costo} & \textbf{Oggetto}\\
 \toprule
@@ -18035,7 +18066,7 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 5 mo & Sale o argento (0.5 kg) \\
 10 mo& Seta (1 m) o mucca (1)\\
 15 mo& Zafferano(0.5 kg)/bue (1)
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -18066,7 +18097,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 \textbf{Tabella: Lista della Armi}\index[Tabelle]{Tabella Lista della Armi}
 
-\noindent\begin{OBSSxltabular}{1\textwidth}{lllX}
+\noindent\begin{xltabular}{\linewidth}{lllX}
 \textbf{Arma}&\textbf{Costo}&\textbf{Dim./Danno} & \textbf{Gittata, Lista, Speciale}\\
 \hline
 Alabarda& 10 & G/1d10 P/T& \textbf{Lance}, \textbf{Aste}, Controcarica, Arma lunga, ED9 \\
@@ -18123,7 +18154,7 @@ Spadone a due mani& 50 & G/2d6 T&\textbf{Spade}, Parata\\
 Stocco& 20 & P/1d6 P& \textbf{Armi Leggere}, \textbf{Armi Aggraziate}, Versatile\\
 Tridente& 15 & M/1d6 P/T& 3 metri, \textbf{Aste}, \textbf{Armi da Lancio}, Arma Lunga, Controcarica\\
 Urgrosh& 18 & M/1d6 T/P& \textbf{Lance}, \textbf{Armi doppie}\\
-\end{OBSSxltabular}
+\end{xltabular}
 
 \medskip
 
@@ -18133,7 +18164,7 @@ Un \textbf{Arma} Piccola ha \textbf{Ingombro} 1, una Arma Media ha Ingombro 2, u
 
 \textbf{Tabella: Lista dei proiettili - Archi - Balestre - Fionde}\index[Tabelle]{Tabella Lista dei proiettili - Archi - Balestre - Fionde}\label{proiettili}
 
-\noindent\begin{OBSStabular}{lcc}
+\noindent\begin{tabular}{lcc}
 	\toprule
 \textbf{Nome Proiettile}& \textbf{Numero di colpi/Costo (mo)} & \textbf{Danno / Tipo}\\
 \toprule
@@ -18143,7 +18174,7 @@ Frecce da caccia (Arco Corto, Arco Lungo)& 20/1 mo & 1d6 P\\
 Frecce da guerra (Arco Lungo)& 10/1 mo & 1d8 P\\
 Biglie di Marmo (fionde)& 15/1 mo & 1d4 B\\
 Sasso (fionde)& -& 1d2 B
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -18318,15 +18349,15 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{\#}& \textbf{Effetto}\\
 \toprule
 2 & Il proiettile è difettoso, per fortuna non ci sono altri problemi. Costa una Azione togliere il proiettile inceppato.\\
 3 & Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato.\\
 4 & L'aver mancato ti lascia esitante, perdi 1 Azione.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \textbf{\#}& \textbf{Effetto}\\
 \toprule
 5 & Il mirino è impreciso. Il prossimo colpo ha -2 al Tiro per Colpire.\\
@@ -18345,7 +18376,7 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 18 & Il rumore è talmente forte che il personaggio è assordato per 1 minuto.\\
 19 & Il proiettile è esploso nella canna danneggiandola. È necessaria una prova di Artigianato DC 21 per ripristinare l'arma, 1 turno.\\
 20 & L'intero caricatore è esploso. Subisci danno come se metà dei proiettili rimasti nell'arma ti colpissero. L'arma e proiettili sono distrutti.
-\end{OBSStabularx}
+\end{tabularx}
 
 %Agile: usare l'arma senza scudo conferisce bonus +1
 %Devastante: se crit fai danno da sanguinamento
@@ -18387,7 +18418,7 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 \subsubsection{Tabella Armature}\index[Tabelle]{Tabella Armature}
 
 \label{tabella-armature}
-\noindent\begin{OBSStabular}{llllllll}
+\noindent\begin{tabularx}{\linewidth}{llcccccc}
 	\toprule
 \textbf{Armatura} & \textbf{Costo} & \textbf{Difesa} & \textbf{Pen. Comp.} & \textbf{Tipo} & \textbf{Mov.} & \textbf{Prova Magia}&\textbf{Ingombro}\\
 \toprule
@@ -18402,7 +18433,7 @@ Bande & 250 mo & 7& -2& P & 0 					&+16		&8\\
 Mezza armatura& 1200 mo& 8& -2& P & 1 			&+16		&8\\
 da Campo& 1350 mo& 9& -3& P & 2 				&+16		&8\\
 Completa& 1500 mo& 10 & -4& P & 3 				&+16		&8
-\end{OBSStabular}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -18538,7 +18569,7 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 \label{tabella-scudi}
 
-\noindent\begin{OBSStabular}{lcccccc}
+\noindent\begin{tabular}{lcccccc}
 	\toprule
 \textbf{Scudi} & \textbf{Costo} & \textbf{Difesa} & \textbf{penalità TC} & \textbf{Prova magia} & \textbf{Tipo} & \textbf{Ingombro}\\
 \toprule
@@ -18548,7 +18579,7 @@ Scudo medio legno &5 mo &+2& 0& +4& M& 2\\
 Scudo medio metallo&12 mo&+2& 0& +4& M& 2\\
 Scudo pesante di legno & 9mo&+3 & 1& +6& P& 4\\
 Scudo pesante di metallo & 20 mo&+3& 1& +6& P& 4\\
-\end{OBSStabular}
+\end{tabular}
 
 \begin{multicols}{2}
 
@@ -18562,7 +18593,7 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 
 \medskip
 
-\noindent\begin{OBSStabular}{llll}
+\noindent\begin{tabularx}{\linewidth}{Xlll}
 	\toprule
 \textbf{Tipo di Armatura}& \textbf{Indossare} & \textbf{Indossare in fretta} & \textbf{Togliere}\\
 \toprule
@@ -18571,7 +18602,7 @@ Imbottita, Cuoio, Cuoio rinforzata& 1 minuto& 3 round& - \\
 Giaco di Maglia& 1 minuto& 5 round& 5 round\\
 Scaglie, Anelli, Pettorale, Bande & 4 minuti & 1 minuto{*}& 1 minuto\\
 Mezza armatura, da Campo, Completa& 4 minuti{*}{*}& 4 minuti{*}& 1d4+1 minuti
-\end{OBSStabular}
+\end{tabularx}
 
 \bigskip
 
@@ -18673,7 +18704,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 \medskip\label{equipaggiamentolista}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{Xll}
 	\toprule
 \textbf{Oggetto}& \textbf{Costo} & \textbf{Ing.}\\
 \toprule
@@ -18713,8 +18744,8 @@ Bilancia da mercante& 2 mo& 1\\
 Birra Boccale& 5 mr& L\\
 Birra Caraffa & 2 ma & L\\
 Boccale di ceramica & 2 mr & L \\
-\end{OBSStabularx}
-\noindent\begin{OBSStabular}{p{5cm}p{1.5cm}p{0.7cm}}
+\end{tabularx}
+\noindent\begin{tabular}{p{5cm}p{1.5cm}p{0.7cm}}
 \toprule
 \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
 \toprule
@@ -18779,8 +18810,8 @@ Nave lunga & 10k mo & - \\
 \hyperlink{Olio da lanterna}{Olio da lanterna} & 1 ma & 1 \\
 Orologio ad acqua & 900 mo & - \\
 Otre & 1 mo & 2 \\
-\end{OBSStabular}
-\noindent\begin{OBSStabular}{p{5.1cm}p{1.5cm}p{0.7cm}}
+\end{tabular}
+\noindent\begin{tabular}{p{5.1cm}p{1.5cm}p{0.7cm}}
 \toprule
 \textbf{Oggetto} & \textbf{Costo} & \textbf{Ing.} \\
 \toprule
@@ -18835,7 +18866,7 @@ Veste da Devoto & 5 mo & 1 \\
 Vino Buono (bottiglia) & 10 mo & 1 \\
 Vino della casa (caraffa) & 2 ma & 1 \\
 Zaino & 2 mo & 1 \\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -18997,7 +19028,7 @@ Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può
 
 \subsubsection{Capienza dei Contenitori}
 
-\noindent\begin{OBSStabularx}{1\textwidth}{lXl|lXl}
+\noindent\begin{tabularx}{\linewidth}{lXl|lXl}
 	\toprule
 \textbf{Oggetto}&\textbf{Capienza}&\textbf{CdC}&\textbf{Oggetto}&\textbf{Capienza}&\textbf{CdC}\\
 \toprule
@@ -19007,7 +19038,7 @@ Secchio&12 litri liquidi, 1 cubo con spigolo di 25 cm&3&Canestro&2 cubi con spig
 Sacco&1 cubo con spigolo di 30 cm/15 kg di equipaggiamento&3&Forziere&12 cubi con spigolo di 30 cm/150 kg di equipaggiamento&35\\
 Fiala&120 ml di liquidi&L&Otre&2 litri liquidi&1\\
 Caraffa&4 litri liquidi&2&Zaino&2 cubi con spigolo di 30 cm/30 kg di equipaggiamento&6
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -19029,7 +19060,7 @@ Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{llX|llX}
+\noindent\begin{tabularx}{\linewidth}{llX|llX}
 	\toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Ing.}&\textbf{Oggetto}&\textbf{Costo}&\textbf{Ing.}\\
 \toprule
@@ -19050,7 +19081,7 @@ Dulcimer&25 mo&2&Flauto&2 mo&L\\
 Flauto di Pan&12 mo&L&Ciaramella &1 mo &2\\
 Liuto&35 mo&1&Tamburo&6 mo&1\\
 Viola&30 mo&1&Trucchi per il Camuffamento&25 mo&1\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -19080,7 +19111,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 \textbf{Tabella: Cavalcature e Altri Animali}\index[Tabelle]{Tabella Cavalcature e Altri Animali}\label{costicavalcature}\index{Cavalcature}
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 \toprule
 \textbf{Cavalcatura}&\textbf{Costo}\\
 \toprule
@@ -19091,13 +19122,13 @@ Saurovallo da Galoppo&75 mo\\
 Saurovallo da Guerra&400 mo\\
 Saurovallo da Tiro&50 mo\\
 Saurovallo nano&30 mo
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
 \textbf{Finimenti e Veicoli da Tiro}\index{Veicoli}\label{Veicoli}\hypertarget{Veicoli}{}
 
-\noindent\begin{OBSStabularx}{\linewidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{Xll}
 \toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
 \toprule
@@ -19109,7 +19140,7 @@ Carro&35 mo&200 kg\\
 Carrozza&300 mo&300 kg\\
 Morso e Briglie&2 mo&0,5 kg\\
 Nutrimento (al giorno)&5 mr&2 kg
-\end{OBSStabularx}
+\end{tabularx}
 
 %\medskip
 
@@ -19121,7 +19152,7 @@ Nutrimento (al giorno)&5 mr&2 kg
 
 \textbf{Sella}\index{Sella}\index{Sella lista}
 
-\noindent\begin{OBSStabularx}{\linewidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{Xll}
 \toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Peso}\\
 \toprule
@@ -19131,13 +19162,13 @@ Esotica&60 mo&20 kg\\
 Militare&50 mo&15 kg\\
 Slitta&20 mo&150 kg\\
 Stallaggio (al giorno)&1 ma&
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
 \textbf{Imbarcazioni}\index{Imbarcazioni}\hypertarget{Imbarcazioni}{}
 
-\noindent\begin{OBSStabularx}{\linewidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{Xll}
 \toprule
 \textbf{Oggetto}&\textbf{Costo}&\textbf{Velocità}\\
 \toprule
@@ -19147,7 +19178,7 @@ Galea&30000 mo&6 km orari\\
 Nave a Vela&10000 mo&3 km orari\\
 Nave da Guerra&25000 mo&3,75 km orari\\
 Nave Lunga&10000 mo&4,5 km orari
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -19162,7 +19193,7 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 \bigskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Servizio}&\textbf{Costo}\\
 \toprule
@@ -19173,7 +19204,7 @@ Gregario Inesperto&5 ma al giorno\\
 Messaggero&5 mr/1,5 km\\
 Passaggio in nave&1 ma/1,5 km\\
 Pedaggio di ingresso&5 mr/5 ma
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsubsection{Servizi Magici}\index{Servizi Magici}
 
@@ -19297,7 +19328,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 \textbf{Stile}&\textbf{Prezzo}&\textbf{Stile}&\textbf{Prezzo}\\
 \toprule
@@ -19305,7 +19336,7 @@ Miserabile&-&Squallido&1 ma\\
 Povero&2 ma&Modesto&1 mo\\
 Agiato&2 mo&Ricco&4 mo\\
 Aristocratico&10+ mo&Regale &50 mo+\\
-\end{OBSStabular}
+\end{tabular}
 
 %\begin{center}
 %\includegraphics[width=0.7\linewidth]{immagini/mendicante.png}
@@ -19348,7 +19379,7 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 \label{acciaio-vivente}
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Tipo di oggetto} & \textbf{Mod. al costo}\\
 \toprule
@@ -19359,7 +19390,7 @@ Armatura media & +8000 mo\\
 Armatura pesante & +12000 mo\\
 Scudo & +600 mo\\
 Altri oggetti & 3000 mo/kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 Un albero di acciaio vivente si caratterizza dal un legno particolarmente duro alla stregua dell'acciaio. L'origine di questi alberi rimane un mistero per quasi tutti. Un albero di acciaio vivente è un normale albero piantato da un Devoto di Efrem o Shayalia che è stato dal Devoto benedetto.
@@ -19372,7 +19403,7 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 \label{adamantio}
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Tipo di oggetto} & \textbf{Mod. al costo}\\
 \toprule
@@ -19383,7 +19414,7 @@ Armatura media & +10000 mo\\
 Armatura pesante & +15000 mo\\
 Scudo & +1000 mo\\
 Altri oggetti & 5000 mo/kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualità di un'arma o di un'armatura.
@@ -19403,7 +19434,7 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 
 \label{argento-alchemico}
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Tipo di Oggetto} & \textbf{Mod. al costo}\\
 \toprule
@@ -19412,7 +19443,7 @@ Arma leggera & +20 mo\\
 Arma media & +90 mo\\
 Arma pesante & +180 mo\\
 Scudo & +100 mo
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -19436,7 +19467,7 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 \label{mithral}
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Tipo di Oggetto} & \textbf{Mod. al costo}\\
 \toprule
@@ -19445,7 +19476,7 @@ Armatura media & +4000 mo\\
 Armatura pesante & +9000 mo\\
 Scudo & +1000 mo\\
 Altri oggetti & +1000 mo/kg
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -19516,7 +19547,7 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{Xll}
 	\toprule
 \textbf{Taglia} & \textbf{Mod. Difesa} & \textbf{Dimensioni}\\
 \toprule
@@ -19529,7 +19560,7 @@ Piccola & +2 &60-120cm\\
 Minuscola & +4 &30-60cm\\
 Minuta & +6 &15-30cm\\
 Piccolissima & +8 &5-20cm
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -19551,7 +19582,7 @@ Vedi anche \hyperlink{tabellaporte}{Tabella: Porte}, pag. \pageref{tabellaporte}
 
 \textbf{Tabella: Durezza e Punti Ferita oggetti}\index[Tabelle]{Tabella Durezza e Punti Ferita oggetti}\label{durezzaoggetti}\index{Rombere oggetti}\index{Spaccare cose}\index{Rompere bauli}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{Xllll}
 \toprule
 \textbf{Materiale} &\textbf{Dur.}&\textbf{PF} &\textbf{DC} & \textbf{Oggetti di Esempio}\\
 \toprule
@@ -19570,7 +19601,7 @@ Struttura in pietra		&14	& 56 &	35	&Muro di pietra, spada lunga\\
 Pietra					&7	& 28 &	35	&Pietra per lastricato, statua\\
 Struttura in acciaio o ferro	&18	&90	&45	&Muro di piastre di ferro, spadone a due mani
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -19621,7 +19652,7 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 \textbf{Taglia} & \textbf{Mod.}&\textbf{Taglia} & \textbf{Mod.}\\
 \toprule
@@ -19630,7 +19661,7 @@ Minuta & -12 &Enorme & +8\\
 Minuscola & -8& Mastodontica & +12\\
 Piccola & -4 & Colossale & +16\\
 Media & +0&&
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -19698,7 +19729,7 @@ Molti incantesimi ed oggetti usano come durata il \emph{tempo di gioco reale}, o
 
 \index{Luce Fioca}
 
-\noindent\begin{OBSStabular}{l|cc|c}
+\noindent\begin{tabular}{l|cc|c}
 	\toprule
 \textbf{Fonte di} &\multicolumn{2}{c}{\textbf{Raggio in metri}}& \textbf{Durata} \\
 \textbf{Luce}& \textbf{Luce} & \textbf{Luce Fioca} &\\
@@ -19710,7 +19741,7 @@ Molti incantesimi ed oggetti usano come durata il \emph{tempo di gioco reale}, o
 \hyperlink{Lacrima di Ljust}{Lacrima di Ljust} & 1 m & - & 10 round\\
 \hyperlink{Luce}{Luce}& 3 m & 6 m &30 min. \\
 \hyperlink{Luce Diurna}{Luce Diurna} & 6 m & 12 m & 1 ora
-\end{OBSStabular}
+\end{tabular}
 
 \smallskip
 
@@ -19860,7 +19891,7 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Taglia dell'Oggetto} & \textbf{Danno}\\
 \toprule
@@ -19871,7 +19902,7 @@ Grande & 4d6\\
 Enorme & 6d6\\
 Mastodontica & 8d6\\
 Colossale & 10d6
-\end{OBSStabular}
+\end{tabularx}
 
 \bigskip
 
@@ -19999,7 +20030,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{llXXl}
+\noindent\begin{tabularx}{\linewidth}{llXXl}
 	\toprule
 \textbf{d\%} & \textbf{Meteo} & \textbf{Clima Freddo}& \textbf{Clima Temperato {*}} & \textbf{Deserto}\\
 \toprule
@@ -20008,7 +20039,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 81-90 & Inclemente & Precipitazioni (neve)& Precipitazioni normali per la stagione& Torrido, ventilato \\
 91-99 & Tempesta & Tempesta di neve& Tempesta di fulmini / Tempesta di neve& Tempesta di polvere \\
 100& Tempesta violenta& Tormenta & Bufera, tormenta, uragano, tornado & Acquazzone
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -20137,9 +20168,10 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{Xll}
 	\toprule
-\textbf{Intensità} & \textbf{Velocità} & \textbf{Attacchi a Distanza} \\
+\textbf{Intensità} & \textbf{Velocità} & \textbf{Attacchi a}\\
+& & \textbf{Distanza}\\
 \toprule
 Leggero & 0-15km &\\
 Moderato & 16,5-30 km/h& \\
@@ -20148,7 +20180,7 @@ Molto forte & 45.5-75km/h & -4 \\
 Bufera & 76.5-111km/h & impossibile \\
 Uragano & 12-261km/h & impossibile \\
 Tornado & 262-450km/h & impossibile
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -20408,7 +20440,7 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 \textbf{Tabella: Pareti}\index[Tabelle]{Tabella Pareti}
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lccccc}
+\noindent\begin{tabularx}{\linewidth}{Xccccc}
 	\toprule
 \textbf{Tipo di Parete} & \textbf{Spessore} & \textbf{Sfondare} & \textbf{Durezza} & \textbf{Punti Ferita} & \textbf{DC Scalare}\\
 \toprule
@@ -20420,7 +20452,7 @@ Pietra grezza & 150 cm & 65 & 8 & 900 & 25\\
 Ferro & 7.5 cm & 30 & 10& 90& 25\\
 Carta & variabile & 1 & --& 1 & 30\\
 Legno & 15 cm& 20 & 5 & 60& 21
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -20428,7 +20460,7 @@ Legno & 15 cm& 20 & 5 & 60& 21
 
 \medskip
 
-\noindent\begin{OBSStabular}{lccc}
+\noindent\begin{tabularx}{\linewidth}{Xccc}
 	\toprule
 \textbf{Minatore}&\multicolumn{3}{c}{\textbf{Materiale da Scavare (1 minuto)}}\\
 &\textbf{Terreno}&\textbf{Pietra} \textbf{morbida}&\textbf{Pietra dura}\\
@@ -20439,7 +20471,7 @@ Nano/Orco & 55 cm&45 cm&20 cm\\
 Gigante della Pietra& 3 m& 1.5 m& 75 cm\\
 Xorn &6 m&6 m& 6m\\
 Elementale della Terra & 9 m&9 m&9 m
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -20538,7 +20570,7 @@ Il \textbf{fallimento critico} in una prova di Forza (TS Tempra con Forza) signi
 
 \medskip
 
-\noindent\begin{OBSStabular}{llllll}
+\noindent\begin{tabular}{llllll}
 	\toprule
 \textbf{Tipo di porta} & \textbf{Spessore tipico} & \textbf{Durezza} & \textbf{Punti Ferita} & \multicolumn{2}{c}{\textbf{DC per sfondare}} \\
 &\textbf{(cm)}&&& \textbf{Bloccata} & \textbf{Chiusa a chiave}\\
@@ -20552,7 +20584,7 @@ Saracinesca di legno & 7.5& 5 & 30& 27& 30\\
 Saracinesca di ferro & 5& 10& 60& 28& 31\\
 Serratura& -& 15& 30& -& -\\
 Cardini & -& 10& 30& -& -
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -20914,7 +20946,7 @@ In questa tabella vengono indicate la durata dei turni di guardia ed il tempo to
 
 \medskip{}
 
-\noindent\begin{OBSStabularx}{\linewidth}{XXX}
+\noindent\begin{tabularx}{\linewidth}{XXX}
 	\toprule
 \textbf{Membri} &\textbf{Durata}&\textbf{Durata}\\
 \textbf{del gruppo}&\textbf{del Turno}&\textbf{Totale}\\
@@ -20924,7 +20956,7 @@ In questa tabella vengono indicate la durata dei turni di guardia ed il tempo to
 4& 2 h e 30 min. & 10 h e 30 min.\\
 5& 2 h& 10 h\\
 6& 1 h e 30 min. & 9 h e 30 min.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip{}
 
@@ -21005,14 +21037,14 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{X|X|X}
+\noindent\begin{tabularx}{\linewidth}{X|X|X}
 	\toprule
 Pericolosità della Trappola&DC Tiro Salvezza& Bonus di Attacco\\
 \toprule
 Minima&13-14&+4 a +6\\
 Pericolosa&16-20&+8 a +10\\
 Mortale&21-26&+12 a +15
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -21020,7 +21052,7 @@ Mortale&21-26&+12 a +15
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{X|X|X|X}
+\noindent\begin{tabularx}{\linewidth}{X|X|X|X}
 	\toprule
 Livello PG&Minima&Pericolosa&Mortale\\
 \toprule
@@ -21028,7 +21060,7 @@ Livello PG&Minima&Pericolosa&Mortale\\
 5°-10°&2d10&4d10&10d10\\
 11°-16°&4d10&10d10&18d10\\
 17°-20°&10d10&18d10&24d10
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -21208,7 +21240,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 
 \textbf{Dardo Avvelenato}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 1 \\
 	\textbf{Tipo:} & Meccanico \\
 	\textbf{Sopravviv.:} & DC 13 \\
@@ -21216,11 +21248,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & Contatto \\
 	\textbf{Ripristino:} & Nessuno \\
 	\textbf{Effetto:} & Attacco a distanza 12 metri +10 (1d3 di danno più \hyperlink{bavadilucos}{Bava fermentata di Lucos}, pag \pageref{bavadilucos})
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Freccia}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 1 \\
 	\textbf{Tipo:} & Meccanico \\
 	\textbf{Sopravviv.:} & DC 13 \\
@@ -21228,11 +21260,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & Contatto \\
 	\textbf{Ripristino:} & Nessuno \\
 	\textbf{Effetto:} & Attacco a distanza 12 metri +15 (1d8+3)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fossa}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 1 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 14 \\
@@ -21240,11 +21272,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & fossa profonda 3 metri (2d6 danni da caduta)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 %\textbf{Trancia Dita}
 
-%\begin{OBSStabularx}{\linewidth}{lX}
+%\begin{tabularx}{\linewidth}{lX}
 %	\textbf{GS:} & 1 \\
 %	\textbf{Tipo:} & meccanico \\
 %	\textbf{Sopravviv.:} & DC 17 \\
@@ -21252,11 +21284,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 %	\textbf{Attivatore:} & posizione \\
 %	\textbf{Ripristino:} & manuale \\
 %	\textbf{Effetto:} & trancia la prima falange (1d8+1)
-%\end{OBSStabularx}\\
+%\end{tabularx}\\
 
 \textbf{Lama Falciante}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 1 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 13 \\
@@ -21264,11 +21296,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & 2 attacchi in mischia +10 (1d8+1)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fossa con Spuntoni}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 2 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 16 \\
@@ -21276,11 +21308,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & fossa profonda 3 metri + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Onda rovente}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 2 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 16 \\
@@ -21288,11 +21320,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & 5d4 danni da fuoco
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Giavellotto}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 2 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 15 \\
@@ -21300,11 +21332,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & Attacco a distanza 12 metri +15 (2d6+6), entro raggio 6 metri
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fossa con non morti}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 2 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 14 \\
@@ -21312,11 +21344,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & Sul fondo della fossa (2d6 di danno da caduta) sono presenti due zombi
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Freccia Acida}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 3 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 18 \\
@@ -21324,11 +21356,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & Attacco distanza di 16 metri (4d4 danni da acido per 4 round)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fossa Celata}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 3 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 19 \\
@@ -21336,11 +21368,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & 3d6 danni da caduta
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Arco Elettrico}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 4 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 21 \\
@@ -21348,11 +21380,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & contatto \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & Arco elettrico. 2 bersagli entro 3 metri tra loro, 5d6 danni da elettricità
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Falce a Parete}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 4 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 20 \\
@@ -21360,11 +21392,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & automatico \\
 	\textbf{Effetto:} & tre attacchi in mischia +10 (2d8+3)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Blocco in Caduta}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 5 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 23 \\
@@ -21372,11 +21404,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & Attacco in mischia +15 (6d6)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Colpo Infuocato}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 6 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 25 \\
@@ -21384,11 +21416,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & cono 3 metri, 8d6 danni da fuoco
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 %\textbf{Freccia Avvelenata}
 %
-%\noindent\begin{OBSStabularx}{\linewidth}{lX}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %	\textbf{GS:} & 6 \\
 %	\textbf{Tipo:} & meccanico \\
 %	\textbf{Sopravviv.:} & DC 25 \\
@@ -21396,11 +21428,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 %	\textbf{Attivatore:} & posizione \\
 %	\textbf{Ripristino:} & nessuno \\
 %	\textbf{Effetto:} & 6 frecce, attacco a distanza 18 metri +10 (1d6 più 1d6 Veleno)
-%\end{OBSStabularx}\\
+%\end{tabularx}\\
 
 \textbf{Acque bollenti}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 7 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 25 \\
@@ -21408,11 +21440,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & cono di 6 metri (spruzzo di acqua bollente, 8d6 danni da fuoco).
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Trappola a Gas}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 8 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 28 \\
@@ -21420,11 +21452,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & riparabile \\
 	\textbf{Effetto:} & Gas velenoso, cubo 6 metri di spigolo. TS Tempra DC 17 oppure rallentati 1/1 minuto.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Raffica di Frecce}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 9 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 30 \\
@@ -21432,11 +21464,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & visivo ( Occhio Arcano) \\
 	\textbf{Ripristino:} & riparabile \\
 	\textbf{Effetto:} & 6 frecce. Attacco a distanza +14 (1d8+1)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fossa Celata con Spuntoni}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 8 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 29 \\
@@ -21444,11 +21476,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & Fossa profonda 15 m + spuntoni (Attacco in mischia +9, 3 spuntoni per bersaglio, 1d6+5 danni ciascuno)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Pavimento Elettrico}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 9 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 30 \\
@@ -21456,11 +21488,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & 6mx9m. 8d6 danni da Elettricità.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Risucchio di Energia}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 10 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 34 \\
@@ -21468,11 +21500,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & visivo (Visione del Vero) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & Attacco di contatto a distanza 18 metri +14 da Vuoto, Punti Ferita max calano di 10d4 + Affaticato.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Stanza delle Lame}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 10 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 25 \\
@@ -21480,11 +21512,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & riparabile \\
 	\textbf{Effetto:} & Attacco in mischia +15 (a tutti tre attacchi 3d8+3)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Cono di Ghiaccio}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 11 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 30 \\
@@ -21492,11 +21524,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & come \hyperlink{Cono di Freddo}{Cono di Freddo} da 9d6 danni. TS Riflessi DC 22 per dimezzare
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Fossa Avvelenata}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 11 \\
 	\textbf{Tipo:} & meccanico \\
 	\textbf{Sopravviv.:} & DC 25 \\
@@ -21504,11 +21536,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & posizione \\
 	\textbf{Ripristino:} & manuale \\
 	\textbf{Effetto:} & Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni)
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Galleria dei Fulmini}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 13 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 29 \\
@@ -21516,11 +21548,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & come incantesimo \hyperlink{Fulmine a catena}{Fulmine a catena}. DC 22.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Inferno di fuoco}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 15 \\
 	\textbf{Tipo:} & magico \\
 	\textbf{Sopravviv.:} & DC 31 \\
@@ -21528,11 +21560,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & 60 danni da fuoco. TS Riflessi DC 23 per dimezzare.
-\end{OBSStabularx}\\
+\end{tabularx}\\
 
 \textbf{Distruzione}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\textbf{GS:} & 16 \\
 	\textbf{Tipo:} & N/A \\
 	\textbf{Sopravviv.:} & DC 34 \\
@@ -21540,11 +21572,11 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 	\textbf{Attivatore:} & prossimità (Allarme) \\
 	\textbf{Ripristino:} & nessuno \\
 	\textbf{Effetto:} & come incantesimo \hyperlink{Disintegrazione}{Disintegrazione} con 1 Critico Magico. DC 24
-\end{OBSStabularx}
+\end{tabularx}
 
 %\textbf{Pioggia di Meteore}
 
-%\noindent\begin{OBSStabularx}{\linewidth}{lX}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %	\textbf{GS:} & 19 \\
 %	\textbf{Tipo:} & magico \\
 %	\textbf{Sopravviv.:} & DC 34 \\
@@ -21552,7 +21584,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 %	\textbf{Attivatore:} & visivo \\
 %	\textbf{Ripristino:} & nessuno \\
 %	\textbf{Effetto:} & come incantesimo \hyperlink{Pioggia di Meteore}{Pioggia di Meteore}. DC 28
-%\end{OBSStabularx}\\
+%\end{tabularx}\\
 
 \end{multicols}
 
@@ -21787,7 +21819,7 @@ Per \emph{trovare} gli ingredienti per preparare le \textbf{pozioni naturali} è
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{m{4.8cm}lllm{6.5cm}c}
+\noindent\begin{tabularx}{\linewidth}{m{4.8cm}lllm{6.5cm}c}
 	\toprule
 	\textbf{Nome Veleno} & \textbf{Uso} & \textbf{Ins.} & \textbf{TS} & \textbf{Effetto (danno)} & \textbf{Costo}\\
 \toprule
@@ -21839,7 +21871,7 @@ Per \emph{trovare} gli ingredienti per preparare le \textbf{pozioni naturali} è
 
 	Sangue di Thrun \index{Sangue di Thrun} & C& - & 26& -1d3 Costituzione & 80\\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -21855,7 +21887,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 \medskip
 
-\noindent\begin{OBSSxltabular}{1\textwidth}{llllXll}
+\noindent\begin{xltabular}{\linewidth}{llllXll}
 
 	\textbf{Nome}& \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Rar.} & \textbf{Costo} \\
 
@@ -21948,7 +21980,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 	Bacio di Ljust & C& 1 r & 35& Cura 100 Punti Ferita& 34 & 500\\
 
 	Estratto 100 erbe & I& I& 24& Rimuove Cecità, Sordità, Paralisi, Veleno &35&150 \\
-\end{OBSSxltabular}
+\end{xltabular}
 
 \begin{multicols}{2}
 
@@ -22078,7 +22110,7 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 \medskip
 
-\noindent\begin{OBSStabularx}{1\linewidth}{lXcc}
+\noindent\begin{tabularx}{\linewidth}{lXcc}
 	\toprule
 \textbf{Nome Pozione}& \textbf{Effetto}&\textbf{Costo}& \textbf{Appl.}\\
 \toprule
@@ -22093,13 +22125,13 @@ Veleno maggiore& 4d10+8 di danno. TS DC 24 Tempra per dimezzare& 125 & F \\
 Rimuovi Veleno& concede un nuovo TS con +1d6 & 75 & I\\
 Pozione Generica* & vedi \hyperlink{crearepozioni}{Creare Pozioni} (pag. \pageref{crearepozioni}) &Lv*Lv*50&I
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Opzionale - Droghe}\index{Droga}\index{Opzionale - Droghe}\hypertarget{droghe}{}\label{droghe} \index[Tabelle]{Tabella Elenco Droghe}
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lcccXcc}
+\noindent\begin{tabularx}{\linewidth}{lcccXcc}
 	\toprule
 \textbf{Nome}& \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Rar.} & \textbf{Costo} \\
 \toprule
@@ -22113,7 +22145,7 @@ Estratto alcolico di Melzaa\index{Estratto alcolico di Melzaa}& I& 1 r & 20& +2 
 Essenza profumata di Inut\index{Essenza profumata do Inut} & R& I& 15& +4 Destrezza per 1d8 ore& 16 & 15 mo \\
 Polline di Julnnaus\index{Polline di Julnnaus} & R& I& 20& +3 Costituzione per 2 ore & 16 & 25 mo\\
 Polline del fiore di Erain \index{Polline del fiore di Erain} & R& 1 r& 20& +2 For, Int, Des, +3d6 PF temporanei per 1 ora& 17 & 75 mo\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -22232,24 +22264,24 @@ Questa tabella mostra i valori base di movimento a terra in situazioni di non co
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lccc}
+\noindent\begin{tabularx}{\linewidth}{lccc}
 	\toprule
 \multirow{2}*{\textbf{Tipo di movimento}} &
 \multicolumn{3}{c}{\textbf{Movimento}}\\
 \cmidrule(lr){2-4} & \textbf{6m}& \textbf{9m} & \textbf{12m}\\
 \midrule
-\textbf{Movimento (Tattico)}&&\\
+\textbf{Movimento (Tattico)}&&&\\
 Camminare& 6m & 9m & 12m\\
 Correre (x2) & 12m& 18m& 24m\\
-\textbf{Un minuto (Locale)}&& \\
+\textbf{Un minuto (Locale)}&&& \\
 Camminare & 36m& 54m& 72m \\
 Correre (x3) & 108m & 162m & 216m \\
-\textbf{Un'ora (Via Terra)}&& \\
+\textbf{Un'ora (Via Terra)}&&& \\
 Camminare& 3km& 4km& 6km\\
 Correre (x3) & 9km& 12km & 18km \\
-\textbf{Un giorno (Via Terra)}&&\\
+\textbf{Un giorno (Via Terra)}&&&\\
 Camminare& 24km & 32km & 54km
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Movimento Tattico}\index{Movimento Tattico}\label{movimentotattico}
 
@@ -22383,7 +22415,7 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 
 \label{tabella-cavalcature-e-veicoli}\index{Cane}\index{Saurovallonano}\index{Carretto}\index{Zattera}\index{Barca}\index{Nave}\hypertarget{tabella-cavalcature-e-veicoli}{}
 
-\noindent\begin{OBSStabularx}{\linewidth}{llXX}
+\noindent\begin{tabularx}{\linewidth}{llXX}
 	\toprule
 \textbf{Cavalcatura o} & \textbf{Ingombro trasportato} & \textbf{Movimento} & \textbf{Movimento}\\
 \textbf{Veicolo}&\textbf{(CdC)}&\textbf{All'ora} & \textbf{Al giorno}\\
@@ -22405,7 +22437,7 @@ Nave a Vela& 800 & 3km& 72km\\
 Nave da Guerra (vele e remi) & 2200 & 3.5km & 90km\\
 Nave Lunga (vele e remi)& 600& 5km& 108km \\
 Galea (remi e vele) & 3300 & 6km& 144km
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{multicols}{2}
 
@@ -22472,7 +22504,7 @@ Nella \textbf{Tabella: CdC trasportato in base alla taglia}\index{Ingombro trasp
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll|ll}
+\noindent\begin{tabularx}{\linewidth}{Xl|ll}
 	\toprule
 \textbf{Taglia}& \textbf{Ing.}&\textbf{Taglia} & \textbf{Ing.}\\
 \toprule
@@ -22481,7 +22513,7 @@ Minuta & 1 & Enorme& 36\\
 Minuscola & 3& Mastodontica&49\\
 Piccola & 6 & Colossale&77\\
 Media & 12&&
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -22495,7 +22527,7 @@ Creature con 4 zampe o più possono trasportare carichi maggiori.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{Zampe Creatura}&\textbf{CdC}\\
 \toprule
@@ -22504,7 +22536,7 @@ Creature con 4 zampe o più possono trasportare carichi maggiori.
 8 zampe & x3\\
 12 zampe & x4\\
 ogni altre 2 zampe & +0.5
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -22622,7 +22654,7 @@ La Tabella Punti Esperienza per Livello indica i Punti Esperienza necessari per 
 
 Non esagerate mai nell'assegnazione dei Punti Esperienza altrimenti rischierete di sbilanciare il gioco e dover modificare anche in maniera significativa l'avventura. Siate chiari anche con i giocatori all'inizio della campagna, nella Sessione Zero, come i Punti Esperienza saranno calcolati, distribuiti e cosa è possibile fare per poterne avere di più.
 
-%\begin{OBSStabularx}{\linewidth}{lX|lX}
+%\begin{tabularx}{\linewidth}{lX|lX}
 %\textbf{Livello} & \textbf{Punti Esperienza}&\textbf{Livello} & \textbf{Punti Esperienza}\\
 %\hline
 %1&0&11&122970\\
@@ -22636,7 +22668,7 @@ Non esagerate mai nell'assegnazione dei Punti Esperienza altrimenti rischierete 
 %9&46970&19&3569730\\
 %10&76000&20&5775820\\
 %&+prec*1.680&&\\
-%\end{OBSStabularx}
+%\end{tabularx}
 
 \medskip
 
@@ -22661,7 +22693,7 @@ Ogni qual volta il personaggio od il gruppo:\index{Bonus Punti Esperienza}\label
 
 \textbf{Tabella: Punti Esperienza per Livello}\index[Tabelle]{Tabella Punti Esperienza per Livello}\label{tabellapuntiesperienza}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX|lX}
+\noindent\begin{tabularx}{\linewidth}{lX|lX}
 	\toprule
 	\textbf{Livello} & \textbf{PX}&\textbf{Livello} & \textbf{PX}\\
 	\toprule
@@ -22676,7 +22708,7 @@ Ogni qual volta il personaggio od il gruppo:\index{Bonus Punti Esperienza}\label
 	9&170000&19&1470000\\
 	10&220000&20&1730000\\
 	+&prec*0.2&-&-\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -22758,7 +22790,7 @@ Nel progettare un incontro di combattimento in primo luogo decidete che livello 
 
 \medskip
 
-\noindent\begin{OBSStabular}{@{}ll@{}} % @{} removes extra padding
+\noindent\begin{tabularx}{\linewidth}{Xl} % @{} removes extra padding
 	\toprule
 \textbf{difficoltà} & \textbf{Grado di Sfida}\\
 \toprule
@@ -22768,7 +22800,7 @@ Alta& APL +2\\
 Straordinaria& APL +3\\
 Mortale& APL +4\\
 Epica& APL +6
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -22811,7 +22843,7 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 \medskip
 
-\noindent\begin{OBSStabular}{l|l||l|l|}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l|}
 	\toprule
 \textbf{Fattore} & \textbf{\% Peso} &\textbf{Fattore} & \textbf{\% Peso}\\
 \toprule
@@ -22819,7 +22851,7 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 -5& 10    & -1 & 80 \\
 -4& 20    & +0 & 100\\
 -3& 45    &    & \\
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
@@ -22926,7 +22958,7 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{XX|XX}
+\noindent\begin{tabularx}{\linewidth}{XX|XX}
 	\toprule
 \textbf{Livello} & \textbf{Ricchezza (mo)} & \textbf{Livello} & \textbf{Ricchezza (mo)}\\
 \toprule
@@ -22940,7 +22972,7 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 8 & 5780 & 18 & 142000\\
 9 & 8100 & 19 & 253000\\
 10 & 11000 & 20 & 365000
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -23414,7 +23446,7 @@ Consultate poi la \hyperlink{tipologiaoggettomagico}{Tabella Tipologia Oggetto m
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
+\noindent\begin{tabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
 	\toprule
 	\multicolumn{8}{c}{\textbf{Tesori da tana o nascondigli di creature}} \\
 	\midrule
@@ -23430,7 +23462,7 @@ F & - & 3d6, 10\% & 1d6, 40\% & 1d4, 15\% & 2d10, 20\% & 1d8, 10\% & 5 qualsiasi
 G & - & - & 2d10, 50\% & 1d10, 50\% & 3d6, 30\% & 1d6, 25\% & 5 qualsiasi 35\% \\
 H & 3d6, 25\% & 2d10, 40\% & 2d10, 55\% & 1d8, 40\% & 3d10, 50\% & 2d10, 50\% & 6 qualsiasi 15\% \\
 I & - & - & - & 1d6, 30\% & 2d6, 55\% & 2d4, 50\% & 1 qualsiasi 15\% \\
-\end{OBSStabularx}
+\end{tabularx}
 
 
 
@@ -23444,7 +23476,7 @@ I & - & - & - & 1d6, 30\% & 2d6, 55\% & 2d4, 50\% & 1 qualsiasi 15\% \\
 
 \bigskip
 
-\noindent\begin{OBSStabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
+\noindent\begin{tabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
 	\toprule
 	\multicolumn{8}{c}{\textbf{Tesori Individuali, piccole tane, zaini e borse}} \\
 	\midrule
@@ -23467,7 +23499,7 @@ W & - & - & 5d6 & 1d8 & 2d8, 60\% & 1d8, 50\% & 2 qualsiasi, 60\% \\
 X & - & - & - & - & - & - & 2 pozioni \\
 Y & - & - & 1d6*100 & - & - & - & - \\
 Z & 1d3*100 & 1d4*100 & 1d6*100 & 1d4*100 & 1d6, 50\% & 2d6, 50\% & 3 qualsiasi, 50\% \\
-\end{OBSStabularx}
+\end{tabularx}
 
 \bigskip
 
@@ -23502,7 +23534,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 
 \setlength{\parindent}{0cm}{
 
-\noindent\begin{OBSStabular}{ll|l}
+\noindent\begin{tabularx}{\linewidth}{Xl|l}
 	\toprule
 	\textbf{3d6}&\textbf{Gemma (mo)}&\textbf{Gioielli (mo)}\\
 \toprule
@@ -23514,13 +23546,13 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 	16&200& 3d6*100\\
 	17&400& 4d6*100\\
 	18&800& 5d6*100\\
-\end{OBSStabular}
+\end{tabularx}
 
 \medskip
 
 \textbf{Tabella: tipologie di Gemme, ordinate per valore}\index[Tabelle]{Tabella tipologie di Gioielli}
 
-\noindent\begin{OBSStabularx}{\linewidth}{l|l|l|l}
+\noindent\begin{tabularx}{\linewidth}{l|l|l|l}
 	\toprule
 		\textbf{4d6} & \textbf{Gemme} & \textbf{4d6} & \textbf{Gemme} \\
 \toprule
@@ -23533,13 +23565,13 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 		13 & Giada & 22 & Rubino\\
 		14 & Peridoto & 23 &  Diamante\\
 		15 & Granato & 24 & Pietra Leggendaria\\
-\end{OBSStabularx}
+\end{tabularx}
 
 \textbf{Tabella: tipologie di Gioielli}\index[Tabelle]{Tabella tipologie di Gioielli}
 
 \medskip
 
-{\small \begin{OBSStabular}{l|l|l|l}
+{\small \begin{tabularx}{\linewidth}{X|l|X|l}
 		\toprule
 \textbf{d100} & \textbf{Gioiello} & \textbf{d100} & \textbf{Gioiello}\\
 \toprule
@@ -23556,7 +23588,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 89-92 & Fermaglio& 96 & Scettro\\
 52    & Corona& 93-96 & Statuetta\\
 97-100 & Scrigno& 100 & Globo
-\end{OBSStabular}}
+\end{tabularx}}
 
 \subsubsection{Capacità Speciali ed Oggetti Maledetti}
 
@@ -23570,7 +23602,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \textbf{Tabella: Tipologia di Oggetto magico}\index[Tabelle]{Tabella Tipologia di Oggetto magico}\label{tipologiaoggettomagico}\hypertarget{tipologiaoggettomagico}{}
 
-{\small \begin{OBSStabular}{ll}
+{\small \begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{3d6}& \textbf{Tipologia di oggetto magico}\\
 \toprule
@@ -23584,7 +23616,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 16&\hyperlink{Cappelli}{Cappelli}, \hyperlink{Mantelli}{Mantelli}, \hyperlink{OcchialidaNotte}{Occhiali}, \hyperlink{Tuniche}{Tuniche}\\
 17&\hyperlink{manualitomi}{Manuali, Tomi e Pergamene}\\
 18&\hyperlink{oggettimagicivari}{Oggetti Magici vari}
-\end{OBSStabular}}
+\end{tabularx}}
 
 \subsubsection{Armi}
 
@@ -23592,7 +23624,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{4d6} & \textbf{Bonus magico}\\
 \toprule
@@ -23603,13 +23635,13 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 22 & +3\\
 23 & +4\\
 24 &+5\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \textbf{Tabella: Capacità Speciale Armi Tipo 1}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 1}\hypertarget{Capacità Speciale Armi Tipo 1}{}
 
 \medskip
 
-{\small \begin{OBSStabular}{ll}
+{\small \begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armi Tipo 1}\\
 \toprule
@@ -23620,7 +23652,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 59-72 & \hyperlink{Ladra delle NoveVite}{Ladra delle Nove Vite}\\
 73-86 & \hyperlink{Tocco Fantasma}{Tocco Fantasma}\\
 87-100 & \hyperlink{Arma della Velocita'}{Arma della Velocita'}\\
-\end{OBSStabular}
+\end{tabularx}
 }
 \medskip
 
@@ -23631,7 +23663,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 \textbf{Tabella: Capacità Speciale Armi Tipo 2}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 2}\hypertarget{Capacità Speciale Armi Tipo 2}{}
 
 \medskip
-{\small \begin{OBSStabular}{ll}
+{\small \begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armi Tipo 2}\\
 \toprule
@@ -23639,7 +23671,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 26-50 & \hyperlink{Mazza della Punizione}{Mazza della Punizione}\\
 51-75 & \hyperlink{Anello d'Arma maggiore}{Anello d'Arma maggiore}\\
 76-100 & \hyperlink{Anello d'Arma}{Anello d'Arma}\\
-\end{OBSStabular}}
+\end{tabularx}}
 
 \medskip
 
@@ -23647,7 +23679,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armi Tipo 3}\\
 \toprule
@@ -23657,7 +23689,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 52-68 & \hyperlink{Mutaforma}{Mutaforma}\\
 69-84 & \hyperlink{Munizione Fantasma}{Munizione Fantasma}\\
 85-100 & \hyperlink{Munizioni Infinite}{Munizioni Infinite}\\
-\end{OBSStabular}}
+\end{tabularx}}
 
 \begin{center}
 \includegraphics[width=0.8\linewidth]{immagini/romanring.png}
@@ -23669,7 +23701,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 		\textbf{4d6} & \textbf{Bonus magico}\\
 \toprule
@@ -23680,7 +23712,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 		22 & +3\\
 		23 & +4\\
 		24 &+5\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -23688,7 +23720,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 1}\\
 \toprule
@@ -23705,7 +23737,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 86-90& \hyperlink{Soffio del Dragone}{Soffio del Dragone}\\
 91-95& \hyperlink{Tocco Fantasma}{Tocco Fantasma}\\
 96-100 & Maledetta\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/gauntlet.png}\\
@@ -23715,7 +23747,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 2}\\
 \toprule
@@ -23727,17 +23759,17 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 66-70 &\hyperlink{Armatura d'Ombra}{Armatura d'Ombra}\\
 71-80 &\hyperlink{Armatura Titanica}{Armatura Titanica}\\
 81-100 & Maledetta\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Amuleti, Collane e Gioielli}\index[Tabelle]{Tabella Generazione Amuleti, Collane e Gioielli}\hypertarget{amuleticollanegioielli}{}\label{amuleticollanegioielli}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabular}{ll}
 \textbf{Tipo Oggetto}&\textbf{1d8}\\
-\end{OBSStabular}}
+\end{tabular}}
 
 \medskip\hypertarget{amuleticollanegioielli1}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{lX}
 		\toprule
 \textbf{1d100} & \textbf{Amuleti, Collane e Gioielli Tipo 1}\\
 \toprule
@@ -23756,11 +23788,11 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 78-83 & \hyperlink{Collana del Rosario}{Collana del Rosario}\\
 84-90 & \hyperlink{Scarabeo della Morte}{Scarabeo della Morte}\\
 91-100& \hyperlink{Scarabeo di Protezione}{Scarabeo di Protezione}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip\hypertarget{amuleticollanegioielli2}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Amuleti, Collane e Gioielli Tipo 2}\\
 \toprule
@@ -23778,11 +23810,11 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 71-80 & Talismano rotto\\
 81-85& \hyperlink{Talismano della Sfera}{Talismano della Sfera}\\
 86-100& Gioiello senza valore
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Cinture, Elmi, Stivali e Guanti}\index[Tabelle]{Tabella Generazione Cinture, Elmi, Stivali e Guanti}\hypertarget{cintureelmi}{}\label{cintureelmi}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{1d100} & \textbf{Cinture, Elmi, Stivali e Guanti}\\
 \toprule
@@ -23806,7 +23838,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 84-90 & \hyperlink{Stivali della Levitazione}{Stivali della Levitazione}\\
 91-95 & \hyperlink{Stivalid ella Velocita'}{Stivali della Velocita'}\\
 96-100 & \hyperlink{StivaliDanzanti}{Stivali Danzanti}\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Bacchette, Bastoni e Verghe}\index[Tabelle]{Tabella Generazione Bacchette, Bastoni e Verghe}\hypertarget{bastonibacchette}{}\label{bastonibacchette}
 
@@ -23814,14 +23846,14 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{Tipo Oggetto}&\textbf{1d8}\\
 \toprule
 \hyperlink{Bacchette}{Bacchette}&1-4\\
 \hyperlink{Bastoni}{Bastoni}&5-7\\
 \hyperlink{Verghe}{Verghe}&8\\
-\end{OBSStabular}}
+\end{tabularx}}
 
 \medskip
 
@@ -23829,7 +23861,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{lX}
 		\toprule
 \textbf{1d100} & \textbf{Bacchetta}\\
 \toprule
@@ -23855,7 +23887,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 86-90 & \hyperlink{Bacchetta del Vincolo}{Bacchetta del Vincolo}\\
 91-95 & \hyperlink{Bacchetta della Fuga Assistita}{Bacchetta della Fuga Assistita}\\
 96-100 & Bacchetta Maledetta
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -23863,7 +23895,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{3d6} & \textbf{Bastone}\\
 \toprule
@@ -23879,7 +23911,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 15 & \hyperlink{Bastone dei Tuoni e Fulmini}{Bastone dei Tuoni e Fulmini}\\
 16 & \hyperlink{Bastone della Stregoneria}{Bastone della Stregoneria}\\
 17-18 & Bastone rotto\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
@@ -23887,7 +23919,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Verga}\\
 \toprule
@@ -23901,22 +23933,22 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 71-80 & \hyperlink{Verga della Sovranita'}{Verga della Sovranita'}\\
 81-90 & \hyperlink{Verga Tentacolare}{Verga Tentacolare}\\
 91-100 & Verga Maledetta\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Pozioni, Filtri e Olii}\index[Tabelle]{Tabella Generazione Pozioni, Filtri e Olii}\hypertarget{pozionifiltri}{}\label{pozionifiltri}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{Pozione}&\textbf{1d8}\\
 \toprule
 \hyperlink{pozionifiltri}{Pozione Tipo 1} &1-4\\
 \hyperlink{pozionifiltri}{Pozione Tipo 2} &5-7\\
 \hyperlink{pozionifiltri}{Pozione Tipo 3} &8
-\end{OBSStabular}}
+\end{tabularx}}
 
 \medskip\hypertarget{Pozione Tipo 1}{}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Pozione Tipo 1}\\
 \toprule
@@ -23934,7 +23966,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 84-90 & \hyperlink{Pozione di Rimpicciolimento}{Pozione di Rimpicciolimento}\\
 91-95 & \hyperlink{Pozione di Velocita'}{Pozione di Velocita'}\\
 96-100 & \hyperlink{Pozione di Volo}{Pozione di Volo}
-\end{OBSStabular}}
+\end{tabularx}}
 
 \begin{center}
 \includegraphics[width=0.8\linewidth]{immagini/cupdrinking.png}
@@ -23942,7 +23974,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 \emph{Drinking cup depicting scenes from the Odyssey, Athens 550-525 B.C.}
 \end{center}
 \hypertarget{Pozione Tipo 2}{}
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Pozione Tipo 2}\\
 \toprule
@@ -23958,11 +23990,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 78-85 & \hyperlink{Pozione di Veleno}{Pozione di Veleno}\\
 86-95 & \hyperlink{pozionifiltri}{Pozione di Cura Maggiore}\\
 96-100 & \hyperlink{pozionifiltri}{Pozione di Veleno Potenziata}
-\end{OBSStabular}}
+\end{tabularx}}
 
 \medskip\hypertarget{Pozione Tipo 3}{}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Pozione Tipo 3}\\
 \toprule
@@ -23975,21 +24007,21 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 80-85 & \hyperlink{Pozione della Longevita'}{Pozione della Longevita'}\\
 86-95 & \hyperlink{Pozione della Metamorfosi}{Pozione della Metamorfosi}\\
 96-100&\hyperlink{pozionifiltri}{Pozione di Veleno Maggiore}
-\end{OBSStabular}}
+\end{tabularx}}
 
 \subsubsection{Anelli}\index[Tabelle]{Tabella Generazione Anelli}\hypertarget{anellimagici}{}\label{anellimagici}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{Anello}&\textbf{3d6}\\
 \toprule
 \hyperlink{Pozione Tipo 3}{Anello Tipo 1} &3-16\\
 \hyperlink{Pozione Tipo 3}{Anello Tipo 2} &17-18
-\end{OBSStabular}}
+\end{tabularx}}
 
 \medskip\hypertarget{Anello Tipo 1}{}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Anelli Tipo 1}\\
 \toprule
@@ -24008,11 +24040,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 76-84 & \hyperlink{Anello di Resistenza}{Anello di Resistenza}\\
 85-93 & \hyperlink{Anello del Salto}{Anello del Salto}\\
 93-100 & \hyperlink{Anello di Telecinesi}{Anello di Telecinesi}
-\end{OBSStabular}}
+\end{tabularx}}
 
 \medskip\hypertarget{Anello Tipo 2}{}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Anelli Tipo 2}\\
 \toprule
@@ -24032,11 +24064,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 92-96 & Anello dei Tre Desideri esaurito\\
 97-100 & \hyperlink{AnellodellaVistaaiRaggiX}{Anello della Vista ai Raggi X}
 
-\end{OBSStabular}}
+\end{tabularx}}
 
 \subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index[Tabelle]{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}\label{cappellimantelli}\hypertarget{Mantelli}{}\hypertarget{Tuniche}{}\hypertarget{Occhiali}{Occhiali}\hypertarget{Cappelli}{Cappelli}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{lX}
 		\toprule
 \textbf{1d100} & \textbf{Cappelli, Mantelli, Occhiali, Tuniche}\\
 \toprule
@@ -24063,11 +24095,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 92-94 & \hyperlink{Tunica degli Occhi}{Tunica degli Occhi}\\
 95-99 & \hyperlink{Tunica degli OggettiUtili}{Tunica degli Oggetti Utili}\\
 100 & \hyperlink{Tunica delle Stelle}{Tunica delle Stelle}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Manuali, Tomi e Pergamene}\index[Tabelle]{Tabella Generazione Manuali e Tomi}\hypertarget{manualitomi}{}\label{manualitomi}\label{CPergamene}\hypertarget{CPergamene}{}
 
-{\small \begin{OBSStabularx}{\linewidth}{lll}
+{\small \begin{tabularx}{\linewidth}{lll}
 		\toprule
 \textbf{3d6} & \textbf{Rarita' Pergamena} & \textbf{Pagine della Pergamena}\\
 \toprule
@@ -24076,11 +24108,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 14-16 &Rara & 1d8 \\
 17 & Molto Rara & 1d10\\
 18 & Leggendaria & 2d6\\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
-{\small \begin{OBSStabularx}{\linewidth}{ll}
+{\small \begin{tabularx}{\linewidth}{Xl}
 		\toprule
 	\textbf{3d6} & \textbf{Livello Incantesimo}\\
 	\toprule
@@ -24090,22 +24122,22 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 	17 & 4  \\
 	18 & 5 \\
 	18 & 6 \\
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 		\textbf{Manuali, Tomi e Pergamene}&\textbf{3d6}\\
 		\toprule
 		\hyperlink{manualitomi}{Pergamene} &3-14\\
 		\hyperlink{manualitomi}{Manuali} &15-16\\
 		\hyperlink{manualitomi}{Tomi} &17-18
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \medskip\hypertarget{Manuali}{}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{Xl}
 	\toprule
 \textbf{3d6} & \textbf{Manuali}\\
 \toprule
@@ -24116,11 +24148,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 16 & \hyperlink{Manuale dell'Esercizio fisico}{Manuale dell'Esercizio fisico}\\
 17 & Manuale della Buona Salute maledetto\\
 18 & Manuale dell'Esercizio fisico maledetto
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip\hypertarget{Tomi}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{3d6} & \textbf{Tomi}\\
 \toprule
@@ -24131,11 +24163,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 16 & Tomo dell'Autorita' e dell'Influenza maledetto\\
 17 & Tomo della Comprensione maledetto\\
 18 & Tomo del Pensiero Limpido maledetto
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Oggetti Magici vari}\index[Tabelle]{Tabella Generazione Oggetti Magici vari}\hypertarget{oggettimagicivari}{}\label{oggettimagicivari}
 
-{\small\begin{OBSStabular}{ll}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{Tipo Oggetto} & \textbf{1d12}\\
 \toprule
@@ -24144,11 +24176,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 \hyperlink{Oggetti Magici Vari 3}{Oggetti Magici Vari 3}&8-10\\
 \hyperlink{Oggetti Magici Vari 4}{Oggetti Magici Vari 4}&11\\
 \hyperlink{Rari e Leggendari}{Rari e Leggendari}&12
-\end{OBSStabular}}
+\end{tabularx}}
 
 \subsubsection{Oggetti magici vari 1}\index[Tabelle]{Tabella Generazione Oggetti magici vari 1}\hypertarget{Oggetti Magici Vari 1}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 1}\\
 \toprule
@@ -24170,11 +24202,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 84-89 & \hyperlink{Polvere dell'Aridita'}{Polvere dell'Aridita'}\\
 90-94 & \hyperlink{Unguento di Ljust}{Unguento di Ljust}\\
 95-100 & \hyperlink{Zainetto Pratico}{Zainetto Pratico}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Oggetti magici vari 2}\index[Tabelle]{Tabella Generazione Oggetti magici vari 2}\hypertarget{Oggetti Magici Vari 2}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 2}\\
 \toprule
@@ -24197,11 +24229,11 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 91-94 & \hyperlink{Corno del Valhalla}{Corno del Valhalla}\\
 95-98 & \hyperlink{Tappe to Volante}{Tappeto Volante}\\
 99-100 & \hyperlink{Zappa dei Titani}{Zappa dei Titani}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 \subsubsection{Oggetti magici vari 3}\index[Tabelle]{Tabella Generazione Oggetti magici vari 3}\hypertarget{Oggetti Magici Vari 3}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 3}\\
 \toprule
@@ -24216,7 +24248,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 82-90 & \hyperlink{Pietra Arcana}{Pietra Arcana}\\
 91-96 & \hyperlink{Pietra del Peso}{Pietra del Peso}\\
 97-100 & \hyperlink{Ventaglio Arcano}{Ventaglio Arcano}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 %\begin{center}
 %\includegraphics[width=0.8\linewidth]{immagini/ancientdrum.png}
@@ -24224,7 +24256,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Oggetti magici vari 4}\index[Tabelle]{Tabella Generazione Oggetti magici vari 4}\hypertarget{Oggetti Magici Vari 4}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 4}\\
 \toprule
@@ -24245,7 +24277,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 95-96 & \hyperlink{Tamburi del Panico}{Tamburi del Panico}\\
 97-98 & \hyperlink{Tamburi dello Stordimento}{Tamburi dello Stordimento}\\
 99-100 & \hyperlink{Turibolo dell'Evocazione maledetta}{Turibolo dell'Evocazione maledetta}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 %\begin{center}
 %\includegraphics[width=0.9\linewidth]{immagini/armatura-med.png}
@@ -24253,7 +24285,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Rari e Leggendari}\index[Tabelle]{Tabella Generazione Rari e Leggendari}\hypertarget{Rari e Leggendari}{}
 
-{\small\begin{OBSStabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{Xl}
 		\toprule
 \textbf{1d100} & \textbf{Oggetto Magico}\\
 \toprule
@@ -24284,7 +24316,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 95-96 & \hyperlink{Vano Portatile}{Vano Portatile}\\
 97-98 & \hyperlink{Zoccoli della Velocita'}{Zoccoli della Velocita'}\\
 99-100 & \hyperlink{Zoccoli dello Zefiro}{Zoccoli dello Zefiro}
-\end{OBSStabularx}}
+\end{tabularx}}
 
 }
 
@@ -24414,7 +24446,7 @@ L'incantesimo \emph{identificare} rivela che una creatura si trova all'interno d
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{d100} &\textbf{Contiene}\\
 \toprule
@@ -24433,7 +24465,7 @@ L'incantesimo \emph{identificare} rivela che una creatura si trova all'interno d
 96 &Angelo Solar\\
 97-99 &Succube/Incubo\\
 100 &La Topi
-\end{OBSStabular}
+\end{tabular}
 \medskip
 
 \oggettomagico{Amuleto Antiveleno}
@@ -24498,7 +24530,7 @@ Un'\textbf{arma} Anatema eccelle nell'attaccare certe creature. Contro il nemico
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 d\% &Nemico prescelto\\
 \toprule
@@ -24514,7 +24546,7 @@ d\% &Nemico prescelto\\
 89-90 &Piante\\
 91-98 &Non Morti\\
 99-100 &Insetti
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -24547,7 +24579,7 @@ Un Anello d'\textbf{arma} maggiore può essere applicato solo ad armi da mischia
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{cXcX}
+\noindent\begin{tabularx}{\linewidth}{cXcX}
 	\toprule
 \textbf{1d100} & \textbf{Talento} & \textbf{1d100} & \textbf{Talento} \\
 \toprule
@@ -24561,7 +24593,7 @@ Un Anello d'\textbf{arma} maggiore può essere applicato solo ad armi da mischia
 43-48 & Caos & 97-100 & Trasformante \\
 49-54 & Corrosiva & & \\
 
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -24801,7 +24833,7 @@ mentre indossi questo \textbf{anello}, hai resistenza a un tipo di danno. La gem
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{d10} & \textbf{Tipo di Danno} & \textbf{Gemma}\\
 \toprule
@@ -24815,7 +24847,7 @@ mentre indossi questo \textbf{anello}, hai resistenza a un tipo di danno. La gem
 8& Luce &Topazio\\
 9& Suono &Spinello\\
 10& Energia Negativa &Ardesia
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -25060,7 +25092,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{d100}& \textbf{Contenuti}\\
 \toprule
@@ -25084,15 +25116,15 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 80-84 &Lanci l'incantesimo Invisibilità su di te.\\
 85-87 &Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore.\\
 88-90& Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 & Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.\\
 91-95 &Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.\\
 96-97 &La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 98-00 &Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie.\\
-\end{OBSStabularx}
+\end{tabularx}
 
 %\medskip
 
@@ -25236,14 +25268,14 @@ Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{0.49\textwidth}{Xl}
 	\toprule
 \textbf{Distanza dall'origine} &\textbf{Danno}\\
 \toprule
 3 metri o meno &8 x cariche nel bastone\\
 Fino a 6 metri& 6 x cariche nel bastone\\
 Fino a 9 metri& 4 x cariche nel bastone
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -25369,7 +25401,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{d100} & \textbf{Effetto}\\
 \toprule
@@ -25383,19 +25415,19 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 61-70 & Una bulette esce dal terreno e attacca.\\
 71-80 &Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. \\
 81-90 &Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{d100} & \textbf{Effetto}\\
 	\toprule
 &Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza.\\
 91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
-\end{OBSStabularx}
-%\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %\textbf{d100} & \textbf{Effetto}\\
 %
-%\end{OBSStabularx}
+%\end{tabularx}
 
 %\begin{multicols}{2}
 
@@ -25423,18 +25455,18 @@ questa \textbf{bottiglia} di ottone dipinta pesa 500 grammi. Quando usi due azio
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{3d6} &\textbf{Effetto}\\
 \toprule
 3-5 & L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia.\\
 6-16 &L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia.\\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \textbf{3d6} &\textbf{Effetto}\\
 
 17-18 & L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia.
-\end{OBSStabularx}
+\end{tabularx}
 
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{immagini/genielamp.png}
@@ -25579,7 +25611,7 @@ Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie 
 
 \medskip
 
-\noindent\begin{OBSStabular}{lll}
+\noindent\begin{tabular}{lll}
 	\toprule
 \textbf{Tipo di Gigante}& \textbf{Forza} &\textbf{Rarità}\\
 \toprule
@@ -25588,7 +25620,7 @@ Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie 
 \textbf{Fuoco} &7& Molto raro\\
 \textbf{Nuvole} &8& Leggendario\\
 \textbf{Tempeste}& 9& Leggendario
-\end{OBSStabular}
+\end{tabular}
 
 \oggettomagico{Cintura dei Nani}
 
@@ -25624,7 +25656,7 @@ Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfer
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{llX}
+\noindent\begin{tabularx}{\linewidth}{llX}
 	\toprule
 \textbf{3d6} &\textbf{Sfera di...} &\textbf{Incantesimo}\\
 \toprule
@@ -25634,7 +25666,7 @@ Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfer
 15-16& Punire &Punizione marchiante\\
 17 &Vento& Camminare nel vento\\
 18 &Convocare &Barriera di Lame
-\end{OBSStabularx}
+\end{tabularx}
 
 \oggettomagico{Collana dell'Adattamento}
 
@@ -25738,7 +25770,7 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{Incantesimo o Oggetto} &\textbf{Cariche Perse}\\
 \toprule
@@ -25747,7 +25779,7 @@ Disintegrazione &1d12\\
 Muro di fuoco &1d4\\
 Passa Porta& 1d6\\
 Spruzzo Prismatico &3d6
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -25755,7 +25787,7 @@ Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in carich
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ccX}
+\noindent\begin{tabularx}{\linewidth}{ccX}
 	\toprule
 \textbf{Faccia} & \textbf{Costo}& \textbf{Effetto}\\
 \toprule
@@ -25765,7 +25797,7 @@ Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in carich
 4&4 & Gli effetti dell'incantesimo non possono attraversare la barriera.\\
 5&5 & Nulla può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione.\\
 6&0 & La barriera si disattiva.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -26091,7 +26123,7 @@ questa \textbf{gemma} contiene una scintilla di energia elementale. Quando usi d
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{Gemma} &\textbf{Elementale evocato}\\
 \toprule
@@ -26099,7 +26131,7 @@ Corindone rosso& Elementale del fuoco\\
 Diamante giallo& Elementale della terra\\
 Smeraldo &Elementale dell'acqua\\
 Zaffiro blu&Elementale dell'aria
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -26294,7 +26326,7 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 
 \medskip
 
-\noindent\begin{OBSStabular}{llll}
+\noindent\begin{tabular}{llll}
 	\toprule
 3d6 &Golem &Tempo &Costo\\
 \toprule
@@ -26302,7 +26334,7 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 5-16 &Carne &60 giorni& 50000 mo\\
 17 &Ferro &120 giorni &100000 mo\\
 18 &Pietra& 90 giorni &80000 mo
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -26355,7 +26387,7 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{Carta da Gioco} & \textbf{Illusione} \\
 \toprule
@@ -26386,15 +26418,15 @@ Due di quadri & Coboldo \\
 Asso di fiori & Golem di ferro \\
 Re di fiori & Capitano bandito e tre banditi \\
 Regina di fiori & Erinni \\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{ll}
 Fante di fiori & Berserker \\
 Dieci di fiori & Gigante delle Colline \\
 Nove di fiori & Ogre \\
 Otto di fiori & Orco \\
 Due di fiori & Coboldo \\
 Jolly (2) & Tu (il proprietario del mazzo) \\
-\end{OBSStabularx}
+\end{tabularx}
 
 \oggettomagico{Mazzo delle Meraviglie}
 
@@ -26408,7 +26440,7 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{Carta da Gioco} & \textbf{Carta}\\
 \toprule
@@ -26416,8 +26448,8 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 	Re di quadri & Sole \\
 	Regina di quadri & Luna \\
 	Fante di quadri & Stella \\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{ll}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\textbf{Carta da Gioco} & \textbf{Carta}\\
 	Due di quadri & Cometa* \\
 	Asso di fiori & Artigli* \\
@@ -26436,7 +26468,7 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 	Regina di picche & Eurialo \\
 	Due di picche & Bilancia* \\
 	Jolly & Matto* \\
-	\end{OBSStabularx}
+	\end{tabularx}
 
 \medskip
 
@@ -27208,13 +27240,13 @@ Se tenti di controllare una sfera che si trova sotto il controllo di un'altra cr
 
 %\medskip
 
-%\noindent\begin{OBSStabularx}{\linewidth}{lX}
+%\noindent\begin{tabularx}{\linewidth}{lX}
 %\textbf{3d6}& \textbf{Risultato}\\
 %
 %3-10 &La sfera è distrutta\\
 %12-16& La sfera si muove attraverso il portale o all'interno dello spazio extradimensionale.\\
 %17-18 &Un squarcio spaziale spedisce ogni creatura e oggetto entro 54 metri dalla sfera, sfera inclusa, in un piano dell'esistenza casuale.\\
-%\end{OBSStabularx}
+%\end{tabularx}
 
 %\medskip
 
@@ -27370,7 +27402,7 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 
 \medskip
 
-\noindent\begin{OBSStabular}{cccc}
+\noindent\begin{tabular}{cccc}
 	\toprule
 \textbf{d100} & \multicolumn{1}{c}{\textbf{Taglia}} & \textbf{Capacità} & \multicolumn{1}{c}{\textbf{Velocità}} \\
 & \multicolumn{1}{c}{\textbf{(cm)}} &\textbf{(Ing.)} & \multicolumn{1}{c}{\textbf{di Volo}} \\
@@ -27379,7 +27411,7 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 21--55 & 120 × 180 & 200 kg / 50 & 18 metri \\
 56--80 & 150 × 210 & 300 kg / 75 & 12 metri \\
 81--100 & 180 × 270 & 400 kg / 100 & 9 metri \\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
@@ -27484,7 +27516,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{d100} & \textbf{Effetto}\\
 \toprule
@@ -27501,7 +27533,7 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 84-90& Due mastini.\\
 91-96 &Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata.\\
 97-100 &Ariete portatile.
-\end{OBSStabularx}
+\end{tabularx}
 
 %\begin{multicols}{2}
 
@@ -27885,7 +27917,7 @@ Per ricaricare una bacchetta od un bastone un incantatore deve infondere lo stes
 
 \bigskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lcccc}
+\noindent\begin{tabularx}{\linewidth}{lcccc}
 	\toprule
 \textbf{Dimensioni Comunità} & \textbf{Valore Base} & \textbf{Comune} & \textbf{Non Comune} & \textbf{Raro}\\
 \toprule
@@ -27897,7 +27929,7 @@ Grande paese& 1500 mo & 1d6 oggetti & 1d4 oggetti& 1d2 oggetti\\
 Piccola città & 2500 mo & 2d4 oggetti & 1d6 oggetti& 1d4 oggetti\\
 Grande città& 6000 mo & 3d4 oggetti& 2d4 oggetti& 1d6 oggetti\\
 Metropoli & 12000 mo& {*} & 3d4 oggetti& 2d4 oggetti
-\end{OBSStabularx}
+\end{tabularx}
 
 {*} In una metropoli si trovano quasi tutti gli oggetti magici minori.
 
@@ -28259,7 +28291,7 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 	\toprule
 \textbf{\%} & \textbf{Maledizione}\\
 \toprule
@@ -28269,7 +28301,7 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 51-65 & Requisito\\
 66-90 & Inconveniente\\
 91-100& Effetto completamente diverso
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -28350,7 +28382,7 @@ Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni gi
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{\%} & \textbf{Situazione}\\
 \toprule
@@ -28374,7 +28406,7 @@ Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni gi
 96& Nelle mani di una creatura di un particolare genere\\
 97-99 & Nei giorni non sacri o durante particolari ricorrenze astronomiche\\
 100 & A più di 150 km da un determinato luogo
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Requisito}
 
@@ -28431,7 +28463,7 @@ L'elenco è di esempio per poter generare casualmente degli effetti sul possesso
 \medskip
 
 %{\small
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 \textbf{\%} & \textbf{Inconveniente}\\
 \toprule
@@ -28484,7 +28516,7 @@ L'elenco è di esempio per poter generare casualmente degli effetti sul possesso
 98& II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 3\\
 99& II personaggio non può più usare Incantesimi\\
 100 & Tira due volte
-\end{OBSStabularx}
+\end{tabularx}
 %}
 
 \pagebreak
@@ -29026,7 +29058,7 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{lllll}
 	\toprule
 \textbf{Taglia}& \textbf{Dimensione} & \textbf{Esempio}&\textbf{Quadretti}&\textbf{Portata}\\
 \toprule
@@ -29037,7 +29069,7 @@ Grande & 2 x 2 m& Ogre&2x2&1m\\
 Enorme & 3 x 3 m & Gigante, Ent&3x3&2m\\
 Mastodontico & 4 x 4 m&Kraken, Drago&4x4&2m\\
 Colossale & 12 x 12 m&Drago anziano, Tarrasque&6x6&6m
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -29187,7 +29219,7 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lXXX}
+\noindent\begin{tabularx}{\linewidth}{lXXX}
 		\toprule
 	\textbf{Immunità} & \textbf{Magia Arma} & \textbf{Attacco Naturale}& \textbf{Pugno Vuoto}\\
 	\toprule
@@ -29199,7 +29231,7 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 	+3 & +3 & 12& 8\\
 	+4 & +4 & 16& 12\\
 	+5 & +5 & - & 16
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Vulnerabilità, Resistenze e Immunità}\index{Equivalenze armi}\index{Pugni magici}\label{vulnerabilitaresistenze}
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
@@ -29441,7 +29473,7 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{ll|ll|ll}
+\noindent\begin{tabularx}{\linewidth}{ll|ll|ll}
 	\toprule
 \textbf{GS} & \textbf{PX} &\textbf{GS} & \textbf{PX} &\textbf{GS} & \textbf{PX}\\
 \toprule
@@ -29457,7 +29489,7 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 6& 2300&18& 20000&30&155000\\
 7& 2900&19& 22000&&\\
 8& 3900&20& 25000&&
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection{Tipologie di Tesoro}
 
@@ -29509,13 +29541,13 @@ Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte
 
 \textbf{Tabella: Punti Esperienza per Grado di Sfida}\index[Tabelle]{Tabella Punti Esperienza per Grado di Sfida}
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 \textbf{Grado di Sfida} & \textbf{PX}&\textbf{Grado di Sfida} & \textbf{PX}\\
 \hline
 Facile& 20& Media& 30\\
 Alta& 50& Straordinaria& 80\\
 Mortale& 120& Epica& 160
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -29553,7 +29585,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 \item \makebox[2.5cm][l]{Epica:} 406\% e oltre
 \end{itemize}
 
-%\begin{OBSStabular}{@{}ll@{}} % @{} removes extra padding
+%\begin{tabular}{@{}ll@{}} % @{} removes extra padding
 %Facile: & 75\% - 105\% \\
 %Media: & 106\% - 145\% \\
 %Impegnativa: & 146\% - 195\% \\
@@ -29561,11 +29593,11 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 %Straordinaria: & 256\% - 325\% \\
 %Mortale: & 326\% - 405\% \\
 %Epica: & 406\%+
-%\end{OBSStabular}
+%\end{tabular}
 
 \item \textbf{Assegnare un valore Percentuale ai Mostri:} Utilizzare la tabella seguente per determinare il \emph{peso} (percentuale) di ciascun Avversario (\emph{Avv.}) in base alla differenza tra il suo Grado di Sfida (GS) e all'APL del gruppo (\emph{Rapp.})
 
-\noindent\begin{OBSStabularx}{0.95\linewidth}{c|c|c|c}
+\noindent\begin{tabularx}{0.95\linewidth}{c|c|c|c}
 	\toprule
 \textbf{Rapp.} & \textbf{\% per Avv.} &\textbf{Rapp.} & \textbf{\% per Avv.}\\
 \toprule
@@ -29575,7 +29607,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 -3 & 15\% & +3 & 240\% \\
 -2 & 25\% & +4 & 360\% \\
 -1 & 45\% & +5 & 480\% \\
-\end{OBSStabularx}
+\end{tabularx}
 
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
 
@@ -29610,7 +29642,7 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 
 \textbf{Tabella: 1d4-12 Parti Anatomiche dei Mostri}\index[Tabelle]{Tabella 1d6-12 Parti Anatomiche dei Mostri}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{d4-12}&\textbf{Parte}\\
 	\toprule
@@ -29652,8 +29684,8 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	312 & Tessuto adiposo con riserva di magia \\
 	41 & Ghiandola linfatica ipersviluppata \\
 	42 & Tessuto visivo focalizzato \\
-\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	43 & Sacca di gas multipolare \\
 	44 & Nervatura senso-tattile \\
 	45 & Pelle ad assorbimento energetico \\
@@ -29664,11 +29696,11 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	410 & Placche auricolari addestrate \\
 	411 & Articolazione in osso flessibile \\
 	412 & Polmone secondario con vesciche d’aria \\
-\end{OBSStabularx}
+\end{tabularx}
 
 \subsection*{d6-8 Effetti Magici da Ingestione o Preparazione}
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{d6-8} & \textbf{Effetti}\\
 	\toprule
@@ -29722,7 +29754,7 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 68 & Affaticato: -2 al danno fisico per 1d6 ore\\
 
 
-\end{OBSStabularx}
+\end{tabularx}
 
 
 
@@ -32174,7 +32206,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 
 \medskip
 
-\noindent\begin{OBSStabular}{ll}
+\noindent\begin{tabular}{ll}
 \toprule
 	\textbf{Colore} & \textbf{Lista} \\
 \toprule
@@ -32191,7 +32223,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 	Oro & Cura, Evocazione \\
 	Rame & Invocazione \\
 
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -32210,13 +32242,13 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\textbf{3d6}& \textbf{Potere del Drago}\\
 \toprule
 	3	& Ricarica veloce. Il Drago ricarica il soffio con 4-6. \\
-	\end{OBSStabularx}
-\noindent\begin{OBSStabularx}{\linewidth}{lX}
+	\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 	4& Agilità sorprendente. La Difesa del Drago aumenta di un ulteriore +4. \\
 	5-7 	& Signore dei Serpenti. La coda ha un pungiglione velenoso che infligge 2xGS PF di danno da veleno. TS Tempra DC 10+GS per dimezzare.\\
 	8-10 	& Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 ad ogni Tiro Salvezza.\\
@@ -32225,7 +32257,7 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 	16 	& Resistenza alla magia. Il Drago è immune agli incantesimi sotto GS/5 livello.\\
 	17 	& Immunità aggiuntiva. Il Drago è immune ai danni da una forma di \hyperlink{elencoenergia}{Energia} (pag. \pageref{elencoenergia}) in più a \hyperlink{fontienergia}{caso} (pag. \pageref{fontienergia}).\\
 	18 	& Pelle corazzata. Il Drago ha riduzione del danno pari a GS/3 ai danni T/P/C.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -43842,7 +43874,7 @@ Dopo 1 ora di completo riposo (o \hyperlink{Ristorare Inferiore}{Ristorare Infer
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{lcl}
+\noindent\begin{tabularx}{\linewidth}{lcl}
 	\toprule
 \textbf{Condizioni}& \textbf{Penalità}&\textbf{Recupero}\\
 \toprule
@@ -43852,9 +43884,9 @@ Affaticato 3	&	3		&	8h\\
 Affaticato 4	&	4		&	12h\\
 Affaticato 5	&	Svenuto	&	6h\\
 Affaticato 6	&	Morte	&	--
-\end{OBSStabularx}
+\end{tabularx}
 
-%\begin{OBSStabularx}{\linewidth}{|c|X|l|}
+%\begin{tabularx}{\linewidth}{|c|X|l|}
 %
 %\textbf{Liv.} & \textbf{Effetto} & \textbf{Rec.}\\
 %
@@ -43865,7 +43897,7 @@ Affaticato 6	&	Morte	&	--
 %5 & Svenuto &6h\\
 %6 & Morte &-\\
 %
-%\end{OBSStabularx}
+%\end{tabularx}
 
 \medskip
 
@@ -43907,7 +43939,7 @@ Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura co
 
 \medskip
 
-\noindent\begin{OBSStabularx}{\linewidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 	\toprule
 \textbf{d10} & \textbf{Comportamento} \\
 \toprule
@@ -43916,7 +43948,7 @@ Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura co
 6 &  La creatura effettua un attacco contro se stessa e finisce il round\\
 7-8 & La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina.\\
 9-10 & La creatura può agire e muoversi normalmente.
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -44049,7 +44081,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 \textbf{Tabella Fonti di Energia}\index{Tabella Casuale - Fonti di Energia}\label{fontienergia}\hypertarget{fontienergia}{}
 
-\noindent\begin{OBSStabular}{ll|ll}
+\noindent\begin{tabular}{ll|ll}
 	\toprule
 3d6 &Energia&&\\
 3-5&Energia Neg.& 6-8&Energia Pos.\\
@@ -44057,7 +44089,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 14&Elettricità & 15&Suono\\
 16&Luce & 17&Vuoto\\
 18&Forza&&\\
-\end{OBSStabular}
+\end{tabular}
 
 \medskip
 
@@ -44215,7 +44247,7 @@ Il punto blu determina l'origine dell'incantesimo
 
 \textbf{Generatori Effetti Fallimento Critico in Attacco}\index{Tabella Casuale - Fallimento critico con armi}\label{tabellafallimentiarmi}\hypertarget{tabellafallimentiarmi}{}
 
-\noindent\begin{OBSStabularx}{\linewidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{l|X}
 	\toprule
 \textbf{3d6} & \textbf{Effetto}\\
 \toprule
@@ -44236,7 +44268,7 @@ Il punto blu determina l'origine dell'incantesimo
 17 & Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce\\
 18 & Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce\\
 19+& Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce
-\end{OBSStabularx}
+\end{tabularx}
 
 \medskip
 
@@ -44246,7 +44278,7 @@ Il punto blu determina l'origine dell'incantesimo
 
 \medskip
 
-\resizebox{\linewidth}{!}{\begin{OBSStabular}{ll|ll|ll|ll}
+\resizebox{\linewidth}{!}{\begin{tabular}{ll|ll|ll|ll}
 		\toprule
 		\textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} & \textbf{1d100} & \textbf{Arma} \\
 \toprule
@@ -44264,7 +44296,7 @@ Il punto blu determina l'origine dell'incantesimo
 		23-24 & Arco corto composito & 48-49 & Lancia da fante & 73-74 & Grande ascia doppia & 98-99 & Maglio da guerra \\
 		25    & Falcione & 50    & Randello & 75    & Lancia corta & 100   & Arma speciale \\
 
-\end{OBSStabular}}
+\end{tabular}}
 
 }}
 
@@ -44329,7 +44361,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 \subsection*{Tabelle per Nomi Maschili}
 
 \subsubsection*{Sillabe Iniziali Maschili}
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44342,11 +44374,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 9 & Gar  & 17 & Thaan \\
 10 & Hal &  18 & Zarak  \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsubsection*{Sillabe Centrali (2d6)}
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 	\toprule
 \textbf{2d6} & \textbf{Sillaba} & \textbf{2d6} & \textbf{Sillaba} \\
 \toprule
@@ -44357,12 +44389,12 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 6 & gal & 12 & thil \\
 7 & ar & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsubsection*{Sillabe Finali Maschili (3d6)}
 
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44373,14 +44405,14 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 7 & las & 13 & on & & \\
 8 & mel & 14 & mir & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsection*{Tabelle per Nomi Femminili}
 
 \subsubsection*{Sillabe Iniziali Femminili (3d6)}
 
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44391,10 +44423,10 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 7 & Cel & 13 & Lil & & \\
 8 & Ela & 14 & Nym & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 \subsubsection*{Sillabe Finali Femminili (3d6)}
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44405,13 +44437,13 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 7 & ena & 13 & ina & & \\
 8 & iel & 14 & mira & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsection*{Nomi di Luoghi Fantasy}
 
 \subsubsection*{Prefissi per Luoghi (2d10)}
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 	\toprule
 
 	\textbf{2d10} & \textbf{Prefisso} & \textbf{2d10} & \textbf{Prefisso} & \textbf{2d10} & \textbf{Prefisso} \\
@@ -44424,11 +44456,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 	7 & Casa & 14 & Rocca & & \\
 	8 & Colle & 15 & Sole & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 \subsubsection*{Suffissi per Luoghi (2d10)}
 
-\noindent\begin{OBSStabular}{c|l|c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l|c|l}
 \toprule
 	\textbf{2d10} & \textbf{Suffisso} & \textbf{2d10} & \textbf{Suffisso} & \textbf{2d10} & \textbf{Suffisso} \\
 \toprule
@@ -44440,7 +44472,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 	7 & gard & 14 & piana & & \\
 	8 & haven & 15 & porto & & \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 
@@ -44449,7 +44481,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 \subsubsection*{Nomi Elfici (2d12)}
 \textbf{Tira 2d12 per iniziali e finali elfiche:}
 
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 	\toprule
 \textbf{2d12} & \textbf{Iniziale} & \textbf{2d12} & \textbf{Finale} \\
 \toprule
@@ -44465,13 +44497,13 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 11 & Elr & 11 & thil \\
 12 & Galar & 12 & wyn \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 \subsubsection*{Nomi Nanici (2d12)}
 \textbf{Tira 2d12 per iniziali e finali naniche:}
 
-\noindent\begin{OBSStabular}{c|l|c|l}
+\noindent\begin{tabular}{c|l|c|l}
 	\toprule
 \textbf{2d12} & \textbf{Iniziale} & \textbf{2d12} & \textbf{Finale} \\
 \toprule
@@ -44487,13 +44519,13 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 11 & Thor & 11 & thor \\
 12 & Ur & 12 & zak \\
 
-\end{OBSStabular}
+\end{tabular}
 
 
 %\subsection*{Titoli e Epiteti}
 
 %\subsubsection*{Titoli (2d6)}
-%\noindent\begin{OBSStabular}{|c|l||c|l|}
+%\noindent\begin{tabular}{|c|l||c|l|}
 %\hline
 %\textbf{2d6} & \textbf{Titolo} & \textbf{2d6} & \textbf{Titolo} \\
 %
@@ -44504,10 +44536,10 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 %6 & Conte & 12 & Re/Regina \\
 %7 & Barone & & \\
 %
-%\end{OBSStabular}
+%\end{tabular}
 
 %\subsubsection*{Epiteti (2d8)}
-%\noindent\begin{OBSStabular}{|c|l||c|l|}
+%\noindent\begin{tabular}{|c|l||c|l|}
 %\hline
 %\textbf{2d8} & \textbf{Epiteto} & \textbf{2d8} & \textbf{Epiteto} \\
 %
@@ -44520,7 +44552,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 %8 & il Rosso & 16 & la Morte \\
 %9 & la Verde & & \\
 %
-%\end{OBSStabular}
+%\end{tabular}
 
 
 %\subsection*{Esempi di Nomi Generati}
