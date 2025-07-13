@@ -914,7 +914,7 @@ aggiornata versione POD 2025/07/04
 
 aggiornata versione POD 2025/07/09
 
-1.0.3 uniformato layout capoversi Abilita'- Incantesimi - Mostri - Oggetti Magici, aggiornato script ddn.sh, aggiornato script estrazione mostri, piu' scuri i titoletti di incantesimi-oggetti.., migliorata gestione tabelle,
+1.0.3 uniformato layout capoversi Abilita'- Incantesimi - Mostri - Oggetti Magici, aggiornato script ddn.sh, aggiornato script estrazione mostri, piu' scuri i titoletti di incantesimi-oggetti.., migliorata gestione tabelle, aggiunto simbolo ljust,
 
 
 > valutare:

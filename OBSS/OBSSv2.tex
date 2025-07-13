@@ -70,7 +70,7 @@ Ligatures=TeX
 \usepackage{multicol,array}
 
 % ========== PACCHETTI GRAFICI E FIGURE ==========
-\usepackage{graphics,adjustbox}
+\usepackage{graphics,adjustbox,svg}
 \usepackage{caption}
 \usepackage{wrapfig}
 \usepackage{tikz}
@@ -400,9 +400,6 @@ Ligatures=TeX
 }{%
 	\obssendoriginalxltabular%
 }
-
-%\usepackage{fantasybg}  % Importa il package
-
 
 % ========== HYPERREF E BOOKMARK ==========
 % Importante: hyperref deve essere caricato per ultimo (quasi)
@@ -16933,6 +16930,11 @@ La Dama della Luce, colei che irradia calore e amore. Generatrice delle pulsioni
 
 Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, fondamentalmente si nasce per essere Devoti di Ljust. Nel corso delle ere Ljust decise di selezionare, scegliere e premiare le creature che più mostravano in modo innato e profondo amore per la vita, curiosità per il nuovo, forza incrollabile, dedizione, fiducia, rispetto e cura degli altri donando loro i poteri e la possibilità di studiare e crescere come Allieve della Luce. Queste Allieve devono seguire la regola degli 8 Passi.
 
+\begin{tikzpicture}[remember picture, overlay]
+	\node[anchor=center, opacity=0.3] at (0.45\columnwidth,0)
+	{\includegraphics[width=1\columnwidth]{immagini/patroni-stella_luminosa.pdf}};
+\end{tikzpicture}
+
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una stella a 8 punte con 8 raggi luminosi
 \item \textbf{Caratteristica}(Devoto): Saggezza o Carisma
@@ -21819,7 +21821,7 @@ Per \emph{trovare} gli ingredienti per preparare le \textbf{pozioni naturali} è
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{m{4.8cm}lllm{6.5cm}c}
+	\noindent\begin{tabularx}{\linewidth}{lcccXc}
 	\toprule
 	\textbf{Nome Veleno} & \textbf{Uso} & \textbf{Ins.} & \textbf{TS} & \textbf{Effetto (danno)} & \textbf{Costo}\\
 \toprule
@@ -23602,7 +23604,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \textbf{Tabella: Tipologia di Oggetto magico}\index[Tabelle]{Tabella Tipologia di Oggetto magico}\label{tipologiaoggettomagico}\hypertarget{tipologiaoggettomagico}{}
 
-{\small \begin{tabularx}{\linewidth}{Xl}
+{\small \begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{3d6}& \textbf{Tipologia di oggetto magico}\\
 \toprule
@@ -23624,7 +23626,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{4d6} & \textbf{Bonus magico}\\
 \toprule
@@ -23641,7 +23643,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small \begin{tabularx}{\linewidth}{Xl}
+{\small \begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armi Tipo 1}\\
 \toprule
@@ -23663,7 +23665,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 \textbf{Tabella: Capacità Speciale Armi Tipo 2}\index[Tabelle]{Tabella Capacità Speciale Armi Tipo 2}\hypertarget{Capacità Speciale Armi Tipo 2}{}
 
 \medskip
-{\small \begin{tabularx}{\linewidth}{Xl}
+{\small \begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armi Tipo 2}\\
 \toprule
@@ -23701,7 +23703,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 		\textbf{4d6} & \textbf{Bonus magico}\\
 \toprule
@@ -23720,7 +23722,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 1}\\
 \toprule
@@ -23747,7 +23749,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Capacità Speciale Armature/Scudi Tipo 2}\\
 \toprule
@@ -23792,7 +23794,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \medskip\hypertarget{amuleticollanegioielli2}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Amuleti, Collane e Gioielli Tipo 2}\\
 \toprule
@@ -23814,7 +23816,7 @@ Quando invece è segnato \textbf{Arma}, \textbf{Armatura}, \textbf{Verga} , \tex
 
 \subsubsection{Cinture, Elmi, Stivali e Guanti}\index[Tabelle]{Tabella Generazione Cinture, Elmi, Stivali e Guanti}\hypertarget{cintureelmi}{}\label{cintureelmi}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{1d100} & \textbf{Cinture, Elmi, Stivali e Guanti}\\
 \toprule
@@ -23846,13 +23848,13 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{Tipo Oggetto}&\textbf{1d8}\\
 \toprule
-\hyperlink{Bacchette}{Bacchette}&1-4\\
-\hyperlink{Bastoni}{Bastoni}&5-7\\
-\hyperlink{Verghe}{Verghe}&8\\
+1-4&\hyperlink{Bacchette}{Bacchette}\\
+5-7&\hyperlink{Bastoni}{Bastoni}\\
+8  &\hyperlink{Verghe}{Verghe}\\
 \end{tabularx}}
 
 \medskip
@@ -23895,7 +23897,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{3d6} & \textbf{Bastone}\\
 \toprule
@@ -23919,7 +23921,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Verga}\\
 \toprule
@@ -23937,18 +23939,18 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Pozioni, Filtri e Olii}\index[Tabelle]{Tabella Generazione Pozioni, Filtri e Olii}\hypertarget{pozionifiltri}{}\label{pozionifiltri}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{Pozione}&\textbf{1d8}\\
 \toprule
-\hyperlink{pozionifiltri}{Pozione Tipo 1} &1-4\\
-\hyperlink{pozionifiltri}{Pozione Tipo 2} &5-7\\
-\hyperlink{pozionifiltri}{Pozione Tipo 3} &8
+ 1-4&\hyperlink{pozionifiltri}{Pozione Tipo 1}\\
+ 5-7&\hyperlink{pozionifiltri}{Pozione Tipo 2}\\
+ 8  &\hyperlink{pozionifiltri}{Pozione Tipo 3}
 \end{tabularx}}
 
 \medskip\hypertarget{Pozione Tipo 1}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Pozione Tipo 1}\\
 \toprule
@@ -23974,7 +23976,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 \emph{Drinking cup depicting scenes from the Odyssey, Athens 550-525 B.C.}
 \end{center}
 \hypertarget{Pozione Tipo 2}{}
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Pozione Tipo 2}\\
 \toprule
@@ -23994,7 +23996,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip\hypertarget{Pozione Tipo 3}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Pozione Tipo 3}\\
 \toprule
@@ -24011,17 +24013,17 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Anelli}\index[Tabelle]{Tabella Generazione Anelli}\hypertarget{anellimagici}{}\label{anellimagici}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{Anello}&\textbf{3d6}\\
 \toprule
-\hyperlink{Pozione Tipo 3}{Anello Tipo 1} &3-16\\
-\hyperlink{Pozione Tipo 3}{Anello Tipo 2} &17-18
+3-16&\hyperlink{Pozione Tipo 3}{Anello Tipo 1} \\
+17-18&\hyperlink{Pozione Tipo 3}{Anello Tipo 2}
 \end{tabularx}}
 
 \medskip\hypertarget{Anello Tipo 1}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Anelli Tipo 1}\\
 \toprule
@@ -24044,7 +24046,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip\hypertarget{Anello Tipo 2}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Anelli Tipo 2}\\
 \toprule
@@ -24068,7 +24070,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Cappelli, Mantelli, Occhiali, Tuniche}\index[Tabelle]{Tabella Generazione Cappelli, Mantelli, Occhiali, Tuniche}\label{cappellimantelli}\hypertarget{Mantelli}{}\hypertarget{Tuniche}{}\hypertarget{Occhiali}{Occhiali}\hypertarget{Cappelli}{Cappelli}
 
-{\small\begin{tabularx}{\linewidth}{lX}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Cappelli, Mantelli, Occhiali, Tuniche}\\
 \toprule
@@ -24112,7 +24114,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small \begin{tabularx}{\linewidth}{Xl}
+{\small \begin{tabularx}{\linewidth}{ll}
 		\toprule
 	\textbf{3d6} & \textbf{Livello Incantesimo}\\
 	\toprule
@@ -24126,18 +24128,18 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 		\textbf{Manuali, Tomi e Pergamene}&\textbf{3d6}\\
 		\toprule
-		\hyperlink{manualitomi}{Pergamene} &3-14\\
-		\hyperlink{manualitomi}{Manuali} &15-16\\
-		\hyperlink{manualitomi}{Tomi} &17-18
+3-14 &	\hyperlink{manualitomi}{Pergamene}\\
+15-16&	\hyperlink{manualitomi}{Manuali} \\
+17-18&	\hyperlink{manualitomi}{Tomi}
 \end{tabularx}}
 
 \medskip\hypertarget{Manuali}{}
 
-\noindent\begin{tabularx}{\linewidth}{Xl}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{3d6} & \textbf{Manuali}\\
 \toprule
@@ -24152,7 +24154,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \medskip\hypertarget{Tomi}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{3d6} & \textbf{Tomi}\\
 \toprule
@@ -24167,20 +24169,20 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Oggetti Magici vari}\index[Tabelle]{Tabella Generazione Oggetti Magici vari}\hypertarget{oggettimagicivari}{}\label{oggettimagicivari}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{Tipo Oggetto} & \textbf{1d12}\\
 \toprule
-\hyperlink{Oggetti Magici Vari 1}{Oggetti Magici Vari 1}&1-4\\
-\hyperlink{Oggetti Magici Vari 2}{Oggetti Magici Vari 2}&5-7\\
-\hyperlink{Oggetti Magici Vari 3}{Oggetti Magici Vari 3}&8-10\\
-\hyperlink{Oggetti Magici Vari 4}{Oggetti Magici Vari 4}&11\\
-\hyperlink{Rari e Leggendari}{Rari e Leggendari}&12
+1-4 & \hyperlink{Oggetti Magici Vari 1}{Oggetti Magici Vari 1}\\
+5-7 & \hyperlink{Oggetti Magici Vari 2}{Oggetti Magici Vari 2}\\
+8-10&\hyperlink{Oggetti Magici Vari 3}{Oggetti Magici Vari 3}\\
+11  &\hyperlink{Oggetti Magici Vari 4}{Oggetti Magici Vari 4}\\
+12  &\hyperlink{Rari e Leggendari}{Rari e Leggendari}
 \end{tabularx}}
 
 \subsubsection{Oggetti magici vari 1}\index[Tabelle]{Tabella Generazione Oggetti magici vari 1}\hypertarget{Oggetti Magici Vari 1}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 1}\\
 \toprule
@@ -24206,7 +24208,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Oggetti magici vari 2}\index[Tabelle]{Tabella Generazione Oggetti magici vari 2}\hypertarget{Oggetti Magici Vari 2}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 2}\\
 \toprule
@@ -24233,7 +24235,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Oggetti magici vari 3}\index[Tabelle]{Tabella Generazione Oggetti magici vari 3}\hypertarget{Oggetti Magici Vari 3}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 3}\\
 \toprule
@@ -24256,7 +24258,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Oggetti magici vari 4}\index[Tabelle]{Tabella Generazione Oggetti magici vari 4}\hypertarget{Oggetti Magici Vari 4}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Oggetti magici vari 4}\\
 \toprule
@@ -24285,7 +24287,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 \subsubsection{Rari e Leggendari}\index[Tabelle]{Tabella Generazione Rari e Leggendari}\hypertarget{Rari e Leggendari}{}
 
-{\small\begin{tabularx}{\linewidth}{Xl}
+{\small\begin{tabularx}{\linewidth}{ll}
 		\toprule
 \textbf{1d100} & \textbf{Oggetto Magico}\\
 \toprule
@@ -24446,7 +24448,7 @@ L'incantesimo \emph{identificare} rivela che una creatura si trova all'interno d
 
 \medskip
 
-\noindent\begin{tabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{d100} &\textbf{Contiene}\\
 \toprule
@@ -24465,7 +24467,7 @@ L'incantesimo \emph{identificare} rivela che una creatura si trova all'interno d
 96 &Angelo Solar\\
 97-99 &Succube/Incubo\\
 100 &La Topi
-\end{tabular}
+\end{tabularx}
 \medskip
 
 \oggettomagico{Amuleto Antiveleno}
@@ -24530,7 +24532,7 @@ Un'\textbf{arma} Anatema eccelle nell'attaccare certe creature. Contro il nemico
 
 \medskip
 
-\noindent\begin{tabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 d\% &Nemico prescelto\\
 \toprule
@@ -24546,7 +24548,7 @@ d\% &Nemico prescelto\\
 89-90 &Piante\\
 91-98 &Non Morti\\
 99-100 &Insetti
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -24579,7 +24581,7 @@ Un Anello d'\textbf{arma} maggiore può essere applicato solo ad armi da mischia
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{cXcX}
+\noindent\begin{tabularx}{\linewidth}{lX|lX}
 	\toprule
 \textbf{1d100} & \textbf{Talento} & \textbf{1d100} & \textbf{Talento} \\
 \toprule
@@ -25268,7 +25270,7 @@ Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
 \medskip
 
-\noindent\begin{tabularx}{0.49\textwidth}{Xl}
+\noindent\begin{tabularx}{0.49\textwidth}{ll}
 	\toprule
 \textbf{Distanza dall'origine} &\textbf{Danno}\\
 \toprule
@@ -25413,14 +25415,13 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 41-50 &Sputano 1d6 + 6 \hyperlink{Fungo Stridente}{Fungo Stridente}.\\
 51-60 &Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. \\
 61-70 & Una bulette esce dal terreno e attacca.\\
-71-80 &Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. \\
-81-90 &Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28.\\
 \end{tabularx}
 \noindent\begin{tabularx}{\linewidth}{lX}
-	\toprule
-	\textbf{d100} & \textbf{Effetto}\\
-	\toprule
-&Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza.\\
+\toprule
+\textbf{d100} & \textbf{Effetto}\\
+\toprule
+71-80 &Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. \\
+81-90 &Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza.\\
 91-99 &Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore.\\
 100 &Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza.
 \end{tabularx}
@@ -25611,7 +25612,7 @@ Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie 
 
 \medskip
 
-\noindent\begin{tabular}{lll}
+\noindent\begin{tabularx}{\linewidth}{lll}
 	\toprule
 \textbf{Tipo di Gigante}& \textbf{Forza} &\textbf{Rarità}\\
 \toprule
@@ -25620,7 +25621,7 @@ Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie 
 \textbf{Fuoco} &7& Molto raro\\
 \textbf{Nuvole} &8& Leggendario\\
 \textbf{Tempeste}& 9& Leggendario
-\end{tabular}
+\end{tabularx}
 
 \oggettomagico{Cintura dei Nani}
 
@@ -25770,7 +25771,7 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 
 \medskip
 
-\noindent\begin{tabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{Incantesimo o Oggetto} &\textbf{Cariche Perse}\\
 \toprule
@@ -25779,7 +25780,7 @@ Disintegrazione &1d12\\
 Muro di fuoco &1d4\\
 Passa Porta& 1d6\\
 Spruzzo Prismatico &3d6
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -26123,7 +26124,7 @@ questa \textbf{gemma} contiene una scintilla di energia elementale. Quando usi d
 
 \medskip
 
-\noindent\begin{tabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{Gemma} &\textbf{Elementale evocato}\\
 \toprule
@@ -26131,7 +26132,7 @@ Corindone rosso& Elementale del fuoco\\
 Diamante giallo& Elementale della terra\\
 Smeraldo &Elementale dell'acqua\\
 Zaffiro blu&Elementale dell'aria
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -26326,7 +26327,7 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 
 \medskip
 
-\noindent\begin{tabular}{llll}
+\noindent\begin{tabularx}{\linewidth}{llll}
 	\toprule
 3d6 &Golem &Tempo &Costo\\
 \toprule
@@ -26334,7 +26335,7 @@ Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. 
 5-16 &Carne &60 giorni& 50000 mo\\
 17 &Ferro &120 giorni &100000 mo\\
 18 &Pietra& 90 giorni &80000 mo
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -26418,8 +26419,6 @@ Due di quadri & Coboldo \\
 Asso di fiori & Golem di ferro \\
 Re di fiori & Capitano bandito e tre banditi \\
 Regina di fiori & Erinni \\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{ll}
 Fante di fiori & Berserker \\
 Dieci di fiori & Gigante delle Colline \\
 Nove di fiori & Ogre \\
@@ -26447,10 +26446,12 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 	Asso di quadri & Visir* \\
 	Re di quadri & Sole \\
 	Regina di quadri & Luna \\
-	Fante di quadri & Stella \\
-\end{tabularx}
+	\end{tabularx}
 \noindent\begin{tabularx}{\linewidth}{ll}
-	\textbf{Carta da Gioco} & \textbf{Carta}\\
+	\toprule
+\textbf{Carta da Gioco} & \textbf{Carta}\\
+	\toprule
+	Fante di quadri & Stella \\
 	Due di quadri & Cometa* \\
 	Asso di fiori & Artigli* \\
 	Re di fiori & Vuoto \\
@@ -27526,6 +27527,11 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 23-30 &10 gemme del valore di 100 mo ciascuna.\\
 31-44 &Una scala di legno (8 metri).\\
 45-51 &Un Saurovallo da Galoppo con sacche da sella \\
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
+\toprule
+\textbf{d100} & \textbf{Effetto}\\
+\toprule
 52-59 & Fossa (un cubo di 3 metri di spigolo), che puoi piazzare sul terreno entro 3 metri da te.\\
 60-68 &4 pozioni di guarigione. \\
 69-75 &Barca a remi (lunga 4 metri).\\
@@ -27917,7 +27923,7 @@ Per ricaricare una bacchetta od un bastone un incantatore deve infondere lo stes
 
 \bigskip
 
-\noindent\begin{tabularx}{\linewidth}{lcccc}
+\noindent\begin{tabularx}{\linewidth}{lXXXX}
 	\toprule
 \textbf{Dimensioni Comunità} & \textbf{Valore Base} & \textbf{Comune} & \textbf{Non Comune} & \textbf{Raro}\\
 \toprule
@@ -28291,7 +28297,7 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 
 \medskip
 
-\noindent\begin{tabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 	\toprule
 \textbf{\%} & \textbf{Maledizione}\\
 \toprule
@@ -28301,7 +28307,7 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 51-65 & Requisito\\
 66-90 & Inconveniente\\
 91-100& Effetto completamente diverso
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -29058,7 +29064,7 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lllll}
+\noindent\begin{tabularx}{\linewidth}{Xllll}
 	\toprule
 \textbf{Taglia}& \textbf{Dimensione} & \textbf{Esempio}&\textbf{Quadretti}&\textbf{Portata}\\
 \toprule
@@ -29541,13 +29547,13 @@ Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte
 
 \textbf{Tabella: Punti Esperienza per Grado di Sfida}\index[Tabelle]{Tabella Punti Esperienza per Grado di Sfida}
 
-\noindent\begin{tabular}{ll|ll}
+\noindent\begin{tabularx}{\linewidth}{ll|ll}
 \textbf{Grado di Sfida} & \textbf{PX}&\textbf{Grado di Sfida} & \textbf{PX}\\
 \hline
 Facile& 20& Media& 30\\
 Alta& 50& Straordinaria& 80\\
 Mortale& 120& Epica& 160
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -29571,19 +29577,30 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 %\item \makebox[2.5cm][l]{Impegnativa:} 176\% - 225\% \\
 %\end{itemize}
 
-\begin{itemize}[leftmargin=*]
-\setlength{\itemsep}{0pt}    % Riduce distanza tra gli item
-\setlength{\parsep}{0pt}     % Riduce spazio extra nei paragrafi interni
-\setlength{\topsep}{0pt}     % Riduce spazio prima della lista
-\setlength{\partopsep}{0pt}  % Elimina spazio extra sopra la lista
-\item \makebox[2.5cm][l]{Facile:} 75\% - 105\%
-\item \makebox[2.5cm][l]{Media:} 106\% - 145\%
-\item \makebox[2.5cm][l]{Impegnativa:} 146\% - 195\%
-\item \makebox[2.5cm][l]{Alta:} 196\% - 255\%
-\item \makebox[2.5cm][l]{Straordinaria:} 256\% - 325\%
-\item \makebox[2.5cm][l]{Mortale:} 326\% - 405\%
-\item \makebox[2.5cm][l]{Epica:} 406\% e oltre
-\end{itemize}
+\noindent\begin{tabularx}{0.95\linewidth}{lX}
+\textbf{Difficoltà} & \textbf{Peso \%}\\
+	Facile 		& 75\% - 105\%\\
+	Media		& 106\% - 145\%\\
+	Impegnativa	& 146\% - 195\%\\
+	Alta		& 196\% - 255\%\\
+Straordinaria	& 256\% - 325\%\\
+	Mortale		& 326\% - 405\%\\
+	Epica		& 406\% e oltre\\
+\end{tabularx}
+
+%\begin{itemize}[leftmargin=*]
+%\setlength{\itemsep}{0pt}    % Riduce distanza tra gli item
+%\setlength{\parsep}{0pt}     % Riduce spazio extra nei paragrafi interni
+%\setlength{\topsep}{0pt}     % Riduce spazio prima della lista
+%\setlength{\partopsep}{0pt}  % Elimina spazio extra sopra la lista
+%\item \makebox[2.5cm][l]{Facile:} 75\% - 105\%
+%\item \makebox[2.5cm][l]{Media:} 106\% - 145\%
+%\item \makebox[2.5cm][l]{Impegnativa:} 146\% - 195\%
+%\item \makebox[2.5cm][l]{Alta:} 196\% - 255\%
+%\item \makebox[2.5cm][l]{Straordinaria:} 256\% - 325\%
+%\item \makebox[2.5cm][l]{Mortale:} 326\% - 405\%
+%\item \makebox[2.5cm][l]{Epica:} 406\% e oltre
+%\end{itemize}
 
 %\begin{tabular}{@{}ll@{}} % @{} removes extra padding
 %Facile: & 75\% - 105\% \\
@@ -29613,34 +29630,20 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 
 \end{enumerate}
 
-\end{multicols}
-
-\vfill
-
-\begin{center}
-\includegraphics[width=0.6\linewidth]{immagini/trex.png}
-
-\emph{Tyrannosaurus Rex skeleton (the specimen RTMP 81.6.1), California Academy of Sciences, San Francisco}
-
-\emph{(Tirannosauro, scheletro, GS 12!)}
-\end{center}
-
-%\vfill
-
 %\begin{enfasi}{
 %Io sono il mostro che gli uomini che respirano bramerebbero uccidere. Io sono Dracula. (Dracula, Bram Stoker)}\end{enfasi}\end{changemargin}
 
-\pagebreak
-
 \subsection{Opzionale - Cosa farci con i mostri}\index{In cucina con i mostri}
-
-\begin{multicols}{2}
 
 Questa parte vuole essere un divertito omaggio a certi tipi di avventure, ma anche un occasione di ingegno e divertimento. Il suggerimento principale e' di evitare descrizione sanguinolente, macabre o \emph{schifose}, mantenete sempre un velo e cercate di rimanere sullo scherzoso.
 
 Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4 porzioni.
 
+\smallskip
+
 \textbf{Tabella: 1d4-12 Parti Anatomiche dei Mostri}\index[Tabelle]{Tabella 1d6-12 Parti Anatomiche dei Mostri}
+
+\smallskip
 
 \noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
@@ -29683,9 +29686,9 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	311 & Sensi alternativi \\
 	312 & Tessuto adiposo con riserva di magia \\
 	41 & Ghiandola linfatica ipersviluppata \\
-	42 & Tessuto visivo focalizzato \\
-\end{tabularx}
+		\end{tabularx}
 \noindent\begin{tabularx}{\linewidth}{lX}
+	42 & Tessuto visivo focalizzato \\
 	43 & Sacca di gas multipolare \\
 	44 & Nervatura senso-tattile \\
 	45 & Pelle ad assorbimento energetico \\
@@ -29698,7 +29701,11 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 	412 & Polmone secondario con vesciche d’aria \\
 \end{tabularx}
 
-\subsection*{d6-8 Effetti Magici da Ingestione o Preparazione}
+\medskip
+
+\textbf{Tabella: d6-8 Effetti Magici da Ingestione o Preparazione}\index[Tabelle]{d6-8 Effetti Magici da Ingestione o Preparazione}
+
+\medskip
 
 \noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
@@ -29725,6 +29732,11 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 33 & Polpastrelli: +2 a Cercare o Trappole per 1d6 ore\\
 34 & Artigli: 1d6 danno per 1d6 ore\\
 35 & Senza ossa: puoi restringerti per 2 taglie\\
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
+\toprule
+\textbf{d6-8} & \textbf{Effetti}\\
+\toprule
 36 & Immunità al freddo per 1d4 ore \\
 37 & Forma gassosa per 1 ora\\
 38 & Curato di 3d6 Punti Ferita\\
@@ -29757,8 +29769,20 @@ Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura p
 \end{tabularx}
 
 
-
 \end{multicols}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=0.6\linewidth]{immagini/trex.png}
+
+\emph{Tyrannosaurus Rex skeleton (the specimen RTMP 81.6.1), California Academy of Sciences, San Francisco}
+
+\emph{(Tirannosauro, scheletro, GS 12!)}
+\end{center}
+
+%\vfill
+
 
 \pagebreak
 
@@ -32206,7 +32230,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 
 \medskip
 
-\noindent\begin{tabular}{ll}
+\noindent\begin{tabularx}{\linewidth}{ll}
 \toprule
 	\textbf{Colore} & \textbf{Lista} \\
 \toprule
@@ -32223,7 +32247,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 	Oro & Cura, Evocazione \\
 	Rame & Invocazione \\
 
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -44081,7 +44105,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 \textbf{Tabella Fonti di Energia}\index{Tabella Casuale - Fonti di Energia}\label{fontienergia}\hypertarget{fontienergia}{}
 
-\noindent\begin{tabular}{ll|ll}
+\noindent\begin{tabularx}{\linewidth}{ll|ll}
 	\toprule
 3d6 &Energia&&\\
 3-5&Energia Neg.& 6-8&Energia Pos.\\
@@ -44089,7 +44113,7 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 14&Elettricità & 15&Suono\\
 16&Luce & 17&Vuoto\\
 18&Forza&&\\
-\end{tabular}
+\end{tabularx}
 
 \medskip
 
@@ -44361,7 +44385,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 \subsection*{Tabelle per Nomi Maschili}
 
 \subsubsection*{Sillabe Iniziali Maschili}
-\noindent\begin{tabular}{c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44373,12 +44397,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 8 & Eld &  16 & Quin \\
 9 & Gar  & 17 & Thaan \\
 10 & Hal &  18 & Zarak  \\
-
-\end{tabular}
+\end{tabularx}
 
 
 \subsubsection*{Sillabe Centrali (2d6)}
-\noindent\begin{tabular}{c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l}
 	\toprule
 \textbf{2d6} & \textbf{Sillaba} & \textbf{2d6} & \textbf{Sillaba} \\
 \toprule
@@ -44388,13 +44411,12 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 5 & dor & 11 & en \\
 6 & gal & 12 & thil \\
 7 & ar & & \\
-
-\end{tabular}
+\end{tabularx}
 
 
 \subsubsection*{Sillabe Finali Maschili (3d6)}
 
-\noindent\begin{tabular}{c|l|c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l|X|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44404,15 +44426,14 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 6 & kar & 12 & nor & 18 & zeth \\
 7 & las & 13 & on & & \\
 8 & mel & 14 & mir & & \\
-
-\end{tabular}
+\end{tabularx}
 
 
 \subsection*{Tabelle per Nomi Femminili}
 
 \subsubsection*{Sillabe Iniziali Femminili (3d6)}
 
-\noindent\begin{tabular}{c|l|c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l|X|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44422,11 +44443,10 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 6 & Bel & 12 & Isa & 18 & Zyra \\
 7 & Cel & 13 & Lil & & \\
 8 & Ela & 14 & Nym & & \\
-
-\end{tabular}
+\end{tabularx}
 
 \subsubsection*{Sillabe Finali Femminili (3d6)}
-\noindent\begin{tabular}{c|l|c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l|X|l}
 	\toprule
 \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} & \textbf{3d6} & \textbf{Sillaba} \\
 \toprule
@@ -44436,16 +44456,14 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 6 & dra & 12 & lynn & 18 & vyth \\
 7 & ena & 13 & ina & & \\
 8 & iel & 14 & mira & & \\
-
-\end{tabular}
+\end{tabularx}
 
 
 \subsection*{Nomi di Luoghi Fantasy}
 
 \subsubsection*{Prefissi per Luoghi (2d10)}
-\noindent\begin{tabular}{c|l|c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l|X|l}
 	\toprule
-
 	\textbf{2d10} & \textbf{Prefisso} & \textbf{2d10} & \textbf{Prefisso} & \textbf{2d10} & \textbf{Prefisso} \\
 \toprule
 	2 & Fonda & 9 & Forte & 16 & Terra \\
@@ -44455,12 +44473,11 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 	6 & Campo & 13 & Quercia & 20 & Libera \\
 	7 & Casa & 14 & Rocca & & \\
 	8 & Colle & 15 & Sole & & \\
-
-\end{tabular}
+\end{tabularx}
 
 \subsubsection*{Suffissi per Luoghi (2d10)}
 
-\noindent\begin{tabular}{c|l|c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l|X|l}
 \toprule
 	\textbf{2d10} & \textbf{Suffisso} & \textbf{2d10} & \textbf{Suffisso} & \textbf{2d10} & \textbf{Suffisso} \\
 \toprule
@@ -44471,9 +44488,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 	6 & forte & 13 & nova & 20 & vetta \\
 	7 & gard & 14 & piana & & \\
 	8 & haven & 15 & porto & & \\
-
-\end{tabular}
-
+\end{tabularx}
 
 
 \subsection*{Tabelle Speciali per Culture}
@@ -44481,7 +44496,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 \subsubsection*{Nomi Elfici (2d12)}
 \textbf{Tira 2d12 per iniziali e finali elfiche:}
 
-\noindent\begin{tabular}{c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l}
 	\toprule
 \textbf{2d12} & \textbf{Iniziale} & \textbf{2d12} & \textbf{Finale} \\
 \toprule
@@ -44496,14 +44511,13 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 10 & Thran & 10 & riel \\
 11 & Elr & 11 & thil \\
 12 & Galar & 12 & wyn \\
-
-\end{tabular}
+\end{tabularx}
 
 
 \subsubsection*{Nomi Nanici (2d12)}
 \textbf{Tira 2d12 per iniziali e finali naniche:}
 
-\noindent\begin{tabular}{c|l|c|l}
+\noindent\begin{tabularx}{\linewidth}{X|l|X|l}
 	\toprule
 \textbf{2d12} & \textbf{Iniziale} & \textbf{2d12} & \textbf{Finale} \\
 \toprule
@@ -44518,8 +44532,7 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 10 & Thar & 10 & rik \\
 11 & Thor & 11 & thor \\
 12 & Ur & 12 & zak \\
-
-\end{tabular}
+\end{tabularx}
 
 
 %\subsection*{Titoli e Epiteti}

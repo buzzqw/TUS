@@ -7,24 +7,32 @@
 \usepackage[italian]{babel}
 \usepackage[italian=guillemets]{csquotes}
 \usepackage{hyphenat}
-\hyphenation{mate-mati-ca re-cu-pe-ra-re}
+\hyphenation{
+	mate-mati-ca
+	re-cu-pe-ra-re
+	com-pe-ten-za
+	intel-li-gen-za
+	cara-tte-ri-sti-che
+	abi-li-tà
+	in-can-te-si-mo
+	at-tac-co
+	di-fe-sa
+	per-so-nag-gio
+	av-ven-tu-ra
+	espe-rien-za
+	equi-pag-gia-men-to
+}
 
 % ========== PACCHETTI GRAFICI E COLORI ==========
 \usepackage{xcolor}
 
 % Definizione colori del tema OBSS
-\definecolor{OBSSblue!10}{RGB}{240,244,247}
-\definecolor{OBSSblue!20}{RGB}{215,230,239}
-\definecolor{OBSSblue!80}{RGB}{54,107,148}
+\definecolor{OBSSnavyblue}{RGB}{0,0,128}
+\definecolor{OBSSprussia}{RGB}{0, 49, 83}
 \definecolor{OBSSblue}{RGB}{30,84,131}
-\definecolor{OBSSgold!10}{RGB}{252,248,239}
-\definecolor{OBSSgold}{RGB}{218,165,32}
-\definecolor{OBSSpurple!10}{RGB}{244,241,247}
-\definecolor{OBSSpurple!8}{RGB}{246,243,249}
+\definecolor{OBSSgold}{RGB}{255,215,0}
 \definecolor{OBSSpurple}{RGB}{88,57,131}
 \definecolor{lightgray}{gray}{0.95}
-
-% Colori per tabelle
 \definecolor{LightCyan}{RGB}{0,191,255}
 \definecolor{SlateGray}{RGB}{112,128,144}
 \definecolor{Lavender}{RGB}{230,230,250}
@@ -62,7 +70,7 @@ Ligatures=TeX
 \usepackage{multicol,array}
 
 % ========== PACCHETTI GRAFICI E FIGURE ==========
-\usepackage{graphics,adjustbox}
+\usepackage{graphics,adjustbox,svg}
 \usepackage{caption}
 \usepackage{wrapfig}
 \usepackage{tikz}
@@ -308,7 +316,7 @@ Ligatures=TeX
 	\noindent\rule{\linewidth}{2pt}
 	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
 	\vspace{-5.5mm}
-	\begin{center}\textbf{\textcolor{OBSSgold!80!black}{#1}}\end{center}
+	\begin{center}\textbf{\textcolor{OBSSgold!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{#1}{#1}
 	\vspace{-1mm}\noindent
 }
@@ -317,7 +325,7 @@ Ligatures=TeX
 	\noindent\rule{\linewidth}{2pt}
 	\index[Incantesimi]{#1}\hypertarget{#1}{}\label{#1}
 	\vspace{-5.5mm}
-	\begin{center}\textbf{\textcolor{OBSSgold!80!black}{#1}}\end{center}
+	\begin{center}\textbf{\textcolor{OBSSgold!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{#1}{#1}
 	\vspace{-1mm}\noindent
 }
@@ -326,7 +334,7 @@ Ligatures=TeX
 	\noindent\rule{\linewidth}{2pt}
 	\index[Mostruario]{#1}\hypertarget{#1}{}\label{#1}
 	\vspace{-5.5mm}
-	\begin{center}\textbf{\textcolor{OBSSgold!80!black}{#1}}\end{center}
+	\begin{center}\textbf{\textcolor{OBSSgold!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{#1}{#1}
 	\vspace{-1mm}\noindent
 }
@@ -392,7 +400,6 @@ Ligatures=TeX
 }{%
 	\obssendoriginalxltabular%
 }
-
 
 % ========== HYPERREF E BOOKMARK ==========
 % Importante: hyperref deve essere caricato per ultimo (quasi)
