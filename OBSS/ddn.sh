@@ -917,7 +917,7 @@ create_release() {
         s|si|sì|y|yes)
             log_info "Configurazione release GitHub..."
             
-            # Nome versione con validazione
+            # Version name with validation
             local version_name
             local timestamp default_version
             timestamp=$(date +"%Y-%m-%d-%H%M")
@@ -948,7 +948,7 @@ create_release() {
             
             log_success "Nome versione: $version_name"
             
-            # Descrizione versione
+            # Version description
             echo
             echo "Descrizione della versione (INVIO per default):"
             echo "Default: Release automatica per OBSS v2 - $(date '+%d/%m/%Y alle %H:%M')"
@@ -961,17 +961,28 @@ create_release() {
             
             log_success "Descrizione impostata"
             
-            # Controlla release esistente
+            # Check existing release and handle properly
             if check_existing_release "$version_name"; then
                 echo
                 echo "⚠️  La release '$version_name' esiste già!"
-                echo -n "Vuoi aggiornarla? [Si/No] (s/N): "
+                echo "Opzioni disponibili:"
+                echo "  u - Aggiorna release esistente"
+                echo "  d - Cancella e ricrea"
+                echo "  n - Annulla operazione"
+                echo -n "Scelta [u/d/n]: "
                 read -r update_choice
                 
                 case "${update_choice,,}" in
-                    s|si|sì|yes|y)
-                        log_info "Aggiornamento release non implementato - creazione normale"
-                        create_github_release "$version_name" "$version_description"
+                    u|update|aggiorna)
+                        update_existing_release "$version_name" "$version_description"
+                        ;;
+                    d|delete|cancella)
+                        if delete_existing_release "$version_name"; then
+                            log_info "Creazione nuova release..."
+                            create_github_release "$version_name" "$version_description"
+                        else
+                            log_error "Impossibile cancellare release esistente"
+                        fi
                         ;;
                     *)
                         log_info "Operazione annullata dall'utente"
@@ -1237,6 +1248,162 @@ main() {
     # Summary
     show_summary
 }
+
+update_existing_release() {
+    local tag_name="$1"
+    local description="$2"
+    
+    log_info "Aggiornamento release esistente: $tag_name"
+    
+    # Get release ID
+    local release_id
+    release_id=$(get_release_id "$tag_name")
+    
+    if [ -z "$release_id" ]; then
+        log_error "Impossibile ottenere ID della release"
+        return 1
+    fi
+    
+    local commit_sha
+    commit_sha=$(git rev-parse HEAD)
+    
+    # Escape description for JSON
+    local escaped_description
+    escaped_description=$(printf '%s' "$description" | sed 's/\\/\\\\/g' | sed 's/"/\\"/g')
+    
+    # JSON payload for update
+    local json_file="/tmp/update_release_$$.json"
+    TEMP_FILES+=("$json_file")
+    
+    cat > "$json_file" << EOJ
+{
+  "tag_name": "$tag_name",
+  "target_commitish": "$commit_sha",
+  "name": "$tag_name",
+  "body": "$escaped_description\\n\\nCommit: $commit_sha\\nAggiornato: $(date '+%Y-%m-%d %H:%M')",
+  "draft": false,
+  "prerelease": false
+}
+EOJ
+    
+    # Update release using PATCH
+    local temp_response="/tmp/update_response_$$.json"
+    TEMP_FILES+=("$temp_response")
+    
+    local response
+    response=$(curl -s -w "%{http_code}" -o "$temp_response" \
+        -X PATCH \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer $GITHUB_TOKEN" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        -H "Content-Type: application/json" \
+        --data @"$json_file" \
+        "$GITHUB_API_URL/repos/$REPO_OWNER/$REPO_NAME/releases/$release_id")
+    
+    local http_code="${response: -3}"
+    
+    if [ "$http_code" = "200" ]; then
+        log_success "Release aggiornata con successo"
+        
+        # Get upload URL for assets
+        local upload_url
+        if command -v python3 >/dev/null 2>&1; then
+            upload_url=$(python3 -c "
+import json
+try:
+    with open('$temp_response', 'r') as f:
+        data = json.load(f)
+    print(data.get('upload_url', '').split('{')[0])
+except:
+    pass
+" 2>/dev/null)
+        fi
+        
+        # Upload assets if available
+        if [ -n "$upload_url" ] && [ -d "$ASSETS_DIR" ]; then
+            upload_release_assets "$upload_url"
+        fi
+        
+        # Show release info
+        local release_url
+        if command -v python3 >/dev/null 2>&1; then
+            release_url=$(python3 -c "
+import json
+try:
+    with open('$temp_response', 'r') as f:
+        data = json.load(f)
+    print(data.get('html_url', ''))
+except:
+    pass
+" 2>/dev/null)
+        fi
+        
+        echo
+        echo "📋 Release aggiornata:"
+        echo "   Nome: $tag_name"
+        echo "   URL: $release_url"
+        echo "   Commit: ${commit_sha:0:8}"
+        echo
+        
+    else
+        log_error "Errore aggiornamento release (HTTP: $http_code)"
+        [ -f "$temp_response" ] && head -5 "$temp_response" >&2
+        return 1
+    fi
+}
+
+delete_existing_release() {
+    local tag_name="$1"
+    
+    log_warning "Cancellazione release esistente: $tag_name"
+    
+    # Get release ID
+    local release_id
+    release_id=$(get_release_id "$tag_name")
+    
+    if [ -z "$release_id" ]; then
+        log_error "Impossibile ottenere ID della release"
+        return 1
+    fi
+    
+    # Delete release
+    local response
+    response=$(curl -s -w "%{http_code}" -o /dev/null \
+        -X DELETE \
+        -H "Accept: application/vnd.github+json" \
+        -H "Authorization: Bearer $GITHUB_TOKEN" \
+        -H "X-GitHub-Api-Version: 2022-11-28" \
+        "$GITHUB_API_URL/repos/$REPO_OWNER/$REPO_NAME/releases/$release_id")
+    
+    local http_code="${response: -3}"
+    
+    if [ "$http_code" = "204" ]; then
+        log_success "Release cancellata"
+        
+        # Also delete the tag
+        log_info "Cancellazione tag associato..."
+        local tag_response
+        tag_response=$(curl -s -w "%{http_code}" -o /dev/null \
+            -X DELETE \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "$GITHUB_API_URL/repos/$REPO_OWNER/$REPO_NAME/git/refs/tags/$tag_name")
+        
+        local tag_http_code="${tag_response: -3}"
+        if [ "$tag_http_code" = "204" ]; then
+            log_success "Tag cancellato"
+        else
+            log_warning "Errore cancellazione tag (HTTP: $tag_http_code)"
+        fi
+        
+        return 0
+    else
+        log_error "Errore cancellazione release (HTTP: $http_code)"
+        return 1
+    fi
+}
+
 
 show_summary() {
     local duration=$(($(date +%s) - SCRIPT_START_TIME))
