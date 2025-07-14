@@ -25317,6 +25317,7 @@ Cloud giants can have unusually varied Traits; about half are good and half evil
 
 There are many legends that speak of magical cloud giant cities located among the clouds themselves, floating on the winds and circumnavigating the world. While cloud giants acknowledge that these are mostly fantasies, some claim to have seen them and have dedicated their entire existence to finding them.
 
+\mostro{Cockatrice}
 - **Size/Type**: Small monstrosity, unaligned
 - **Ability**: Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
@@ -35150,7 +35151,7 @@ I thank the https://www.brailleinstitute.org/freefont/ for the font used. Atkins
 
 The images in the manuals are unlicensed or in the public domain. Images marked with *B.I.C.* and the cover were created with Bing Image Creator. If any copyright-protected images are included, please notify us so we can proceed with their removal.
 
-Before any use of OBSS or parts of it, please contact me.
+Before any use of OBSS or parts of it, please contact me. The translation of OBSS from Italian to English is done by Anthropic Claude 3.7
 
 \hfill
 

@@ -7250,7 +7250,7 @@ Apprendi immediatamente informazioni su un massimo di tre argomenti a tua scelta
 
 **NOTA**: Se sei un Devoto di Efrem ottiene sempre almeno un Successo Critico Magico.
 
-## Confusione
+### Confusione
 - **Lista**:: Ammaliamento
 - **Livello**:: 4, Comune
 - **Lancio**:: 2 Azioni
@@ -7788,7 +7788,7 @@ Questo incantesimo disintegra automaticamente gli oggetti non magici o una creaz
 
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
-## Dissolvi Magie
+### Dissolvi Magie
 - **Lista**:: Abiurazione
 - **Livello**:: 3, Comune
 - **Lancio**:: 2 Azioni
@@ -7801,7 +7801,7 @@ Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrast
 
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
-## Dissolvi Magie Avanzato
+### Dissolvi Magie Avanzato
 - **Lista**:: Abiurazione
 - **Livello**:: 5, Raro
 - **Lancio**:: 3 Azioni
@@ -8914,7 +8914,7 @@ Stabilisci un collegamento telepatico tra un massimo di otto creature consenzien
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 ora.
 
-## Lentezza
+### Lentezza
 - **Lista**:: Trasmutazione
 - **Livello**:: 3, Non Comune
 - **Lancio**:: 2 Azioni
@@ -9719,7 +9719,9 @@ Quando l'area appare, ogni creatura al suo interno deve effettuare un Tiro Salve
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d10.
 
-## Pietra in Fango - Fango in Pietra
+### Pietra in Fango
+
+### Fango in Pietra
 - **Lista**:: Terra
 - **Livello**:: 5, Non Comune - Molto Raro
 - **Lancio**:: 2 Azioni
@@ -23325,6 +23327,7 @@ La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spazian
 
 I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare dalle monete d'argento gli avventurieri e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose ed i coboldi sembrano sani.
 
+\mostro{Cockatrice}
 - **Taglia/Tipo**: Piccola mostruosità, disallineato
 - **Caratt.**: For -2 Des 1 Cos 1 Int -4 Sag 1 Car -3
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
@@ -33636,7 +33639,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 *Colpisce:* 1 (1d4 - 1) danni perforanti.
 
-## Sciame di Centopiedi
+\mostro{Sciame di Centopiedi}
 - **Taglia/Tipo**: Media sciame di Minuscole bestie, disallineato
 - **Caratt.**: For -4 Des 1 Cos 0 Int -5 Sag -2 Car -5
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
@@ -34236,7 +34239,7 @@ I popolani comprendono contadini, servi, schiavi, servitori, pellegrini, mercant
 
 I criminali sono individui che vivono al margine della legalità, procurandosi il pane svolgendo attività spesso considerate illecite e immorali.
 
-## Bandito/Pirata
+\mostro{Bandito/Pirata}
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
 - **Caratt.**: For 0 Des 1 Cos 1 Int 0 Sag 0 Car 0
 - **Punti Ferita**: 17,  **Difesa:** 13,  **Iniziativa:** +1
@@ -34280,7 +34283,7 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-## Capitano dei Banditi o Pirata
+\mostro{Capitano dei Banditi o Pirata}
 - **Taglia/Tipo**: Media umanoide, qualsiasi Tratto
 - **Caratt.**: For 2 Des 3 Cos 2 Int 2 Sag 0 Car 2
 - **Punti Ferita**: 51,  **Difesa:** 17,  **Iniziativa:** +3
