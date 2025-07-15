@@ -5274,7 +5274,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 17 | 0 | 17 | 17d6 | |
 | \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
 | 19 | 0 | 19 | 19d6 | |
-| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Un solo credo |
+| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Adepto della Magia (4°) |
 
 **Stregone**
 
@@ -5315,7 +5315,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Incanalare Energia |
 | 7 | 4 | 3 | 7d6+12 | Scacciare i non morti |
 | \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Guaritore (2°) |
+| 9 | 5 | 4 | 9d6+15 | Guaritore (2°) oppure Adepto della Magia |
 | \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 5 | 6 | 11d6+15 | |
 | \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Imposizione delle mani (3°) |
@@ -5508,7 +5508,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 17 | 5 | 12 | 17d6+15 | |
 | \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Un solo credo |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Adepto della Magia (3°) |
 
 **Magus**
 
@@ -5534,7 +5534,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 17 | 9 | 8 | 17d6+27 | |
 | \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Incantatore da Combattimento (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Tutt'uno con la magia |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Adepto della Magia (2°) |
 
 ---
 

@@ -5404,7 +5404,7 @@ To facilitate the transition for those coming from other role-playing games with
 | 17 | 0 | 17 | 17d6 | |
 | \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Powerful Magics (2nd) |
 | 19 | 0 | 19 | 19d6 | |
-| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | One Belief |
+| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Magic Adept (4th) |
 
 **Sorcerer**
 
@@ -5445,7 +5445,7 @@ To facilitate the transition for those coming from other role-playing games with
 | \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Channel Energy |
 | 7 | 4 | 3 | 7d6+12 | Turn Undead |
 | \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Healer (2nd) |
+| 9 | 5 | 4 | 9d6+15 | Healer (2nd) or Magic Adept |
 | \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 5 | 6 | 11d6+15 | |
 | \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Laying on Hands (3rd) |
@@ -5638,7 +5638,7 @@ To facilitate the transition for those coming from other role-playing games with
 | 17 | 5 | 12 | 17d6+15 | |
 | \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Powerful Magics |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | One Belief |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Magic Adept (3nd) |
 
 **Spellsword Magus**
 
@@ -5664,7 +5664,7 @@ To facilitate the transition for those coming from other role-playing games with
 | 17 | 9 | 8 | 17d6+27 | |
 | \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Combat Caster (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | One with Magic |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Magic Adept (2nd) |
 
 ---
 
