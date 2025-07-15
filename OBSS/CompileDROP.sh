@@ -22,7 +22,7 @@
 # CONFIGURAZIONE GLOBALE
 # ============================================================================
 SCRIPT_VERSION="2.3"
-MAX_LOG_FILES=50                    # Numero massimo di file di backup da mantenere
+MAX_LOG_FILES=100                    # Numero massimo di file di backup da mantenere
 NOTIFICATION_ENABLED=true           # Abilita notifiche desktop
 BACKUP_TEX_ENABLED=true             # Backup remoto del file TEX (compresso)
 BACKUP_TEX_LOCAL=true               # Backup locale del TEX nella cartella backup/

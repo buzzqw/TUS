@@ -712,12 +712,12 @@ Un punteggio di -1 e giudicato debole, un -2 subnormale, un -3 severamente probl
 
 L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 
-| **Periodo** | **FOR** | **DES** | **COS** | **INT** | **SAG** |
+| \rowcolor{gray!20}**Periodo** | **FOR** | **DES** | **COS** | **INT** | **SAG** |
 | --- | --- | --- | --- | --- | --- |
 | Giovane |  |  | +1 |  | -1 |
-| Adulto |  |  |  |  | |
+| \rowcolor{gray!20}Adulto |  |  |  |  | |
 | Maturo |  |  | -1 |  | +1 |
-| Anziano | -2 | -1 | -1 | +1 | +1 |
+| \rowcolor{gray!20}Anziano | -2 | -1 | -1 | +1 | +1 |
 | Venerabile | -1 | -1 | -1 | -1 | +1 |
 
 I modificatori indicati si cumulano.
@@ -756,11 +756,11 @@ Ogni giocatore distribuisce 4 punti tra le 6 Caratteristiche, ogni Caratteristic
 
 La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabella per determinare i valori effettivi della Caratteristiche.
 
-| **Val. tirato** | **Caratt.** | **Val. tirato** | **Caratt.** |
+| \rowcolor{gray!20}**Val. tirato** | **Caratt.** | **Val. tirato** | **Caratt.** |
 | 3 (o meno) | -3 | 12-13-14 | +1 |
-| 4-5 | -2 | 15-16-17 | +2 |
+| \rowcolor{gray!20}4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (o più) | +3 |
-| 9-10-11 | +0 |  | |
+| \rowcolor{gray!20}9-10-11 | +0 |  | |
 
 **Applicate i modificatori razziali!**
 
@@ -1149,34 +1149,34 @@ Ogni transizione tra archetipi rappresenta un momento significativo di sviluppo 
 
 Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione:
 
-| **Patrono** | **Risonanze Archetipiche** |
+| \rowcolor{gray!20}**Patrono** | **Risonanze Archetipiche** |
 | --- | --- |
 | Ljust | L'Eroe, Il Custode, Il Martire, Il Mentore |
-| Calicante | L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano |
+| \rowcolor{gray!20}Calicante | L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano |
 | Atmos | Il Saggio, L'Eremita, Il Guardiano della Soglia |
-| Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
+| \rowcolor{gray!20}Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
 | Gradh | L'Eroe, L'Alleato, Il Sovrano, Il Fuorilegge |
-| Atherim | Il Custode, Il Guardiano, Il Martire |
+| \rowcolor{gray!20}Atherim | Il Custode, Il Guardiano, Il Martire |
 | Belevon | L'Imbroglione, Il Giullare, Il Mutaforma |
-| Cattalm | L'Ombra, Il Tiranno, Il Distruttore |
+| \rowcolor{gray!20}Cattalm | L'Ombra, Il Tiranno, Il Distruttore |
 | Efrem | L'Uomo Comune, Il Creatore, L'Eremita |
-| Erondil | Il Creatore, Il Mago, Il Sovrano |
+| \rowcolor{gray!20}Erondil | Il Creatore, Il Mago, Il Sovrano |
 | Gaya | Il Creatore, L'Innocente, Il Custode |
-| Krondal | Il Sovrano, Il Guardiano della Soglia, Il Mago |
+| \rowcolor{gray!20}Krondal | Il Sovrano, Il Guardiano della Soglia, Il Mago |
 | Ledyal | Il Custode, L'Innocente, L'Amante |
-| Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
+| \rowcolor{gray!20}Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
 | Nethergal | L'Araldo, L'Esploratore, Il Mago |
-| Nedraf | L'Eroe, L'Esploratore, L'Alleato |
+| \rowcolor{gray!20}Nedraf | L'Eroe, L'Esploratore, L'Alleato |
 | Nihar | Il Giullare, L'Esploratore, Il Giullare |
-| Orudjs | Il Mutaforma, Il Giullare, L'Amante |
+| \rowcolor{gray!20}Orudjs | Il Mutaforma, Il Giullare, L'Amante |
 | Orlaith | Il Guardiano della Soglia, Il Sovrano, L'Eroe |
-| Rezh | Il Tiranno, L'Ombra, Il Mutaforma |
+| \rowcolor{gray!20}Rezh | Il Tiranno, L'Ombra, Il Mutaforma |
 | Shayalia | L'Ombra, L'Amante, Il Mutaforma |
-| Sixiser | L'Eremita, Il Saggio, L'Ombra |
+| \rowcolor{gray!20}Sixiser | L'Eremita, Il Saggio, L'Ombra |
 | Sumkjr | L'Eroe, L'Alleato, Il Mentore, Il Martire |
-| Tàhil | L'Ombra, Il Tiranno, Il Fuorilegge |
+| \rowcolor{gray!20}Tàhil | L'Ombra, Il Tiranno, Il Fuorilegge |
 | Tazher | L'Ombra, Il Fuorilegge, Il Mutaforma |
-| Thaft | L'Uomo Comune, L'Alleato, Il Custode |
+| \rowcolor{gray!20}Thaft | L'Uomo Comune, L'Alleato, Il Custode |
 | Torbiorn | Il Tiranno, L'Ombra, Il Sovrano |
 
 ## Utilizzare gli Archetipi nel Gioco
@@ -1226,40 +1226,40 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 
 | {\textwidth}{>{\raggedright}l|c|c|c|c} |
 	
-| **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
+| \rowcolor{gray!20}**Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
 | --- | --- | --- | --- | --- |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
-| **Alchimista** | Valutare | Natura | Erboristeria | Arcana |
+| \rowcolor{gray!20}**Alchimista** | Valutare | Natura | Erboristeria | Arcana |
 | **Allevatore** | Sopravvivenza | Seguire tracce | Gestire animali | Natura |
-| **Allievo mago** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
+| \rowcolor{gray!20}**Allievo mago** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
 | **Araldo** | Tradizioni Locali | Araldica | Lingue | Diplomazia |
-| **Bibliotecario** | Natura e Geografia | Tradizioni locali | Religione e Arcana | Storia |
+| \rowcolor{gray!20}**Bibliotecario** | Natura e Geografia | Tradizioni locali | Religione e Arcana | Storia |
 | **Boscaiolo** | Usare corda | Seguire tracce | Natura | Sopravvivenza |
-| **Cacciatore** | Furtività | Seguire tracce | Sopravvivenza | Natura |
+| \rowcolor{gray!20}**Cacciatore** | Furtività | Seguire tracce | Sopravvivenza | Natura |
 | **Carovaniere** | Tradizioni locali | Gestire animali | Sopravvivenza | Cavalcare |
-| **Contadino** | Usare Corda | Erboristeria | Gestire Animali | Natura |
+| \rowcolor{gray!20}**Contadino** | Usare Corda | Erboristeria | Gestire Animali | Natura |
 | **Delinquente** | Sopravvivenza | Cavalcare | Valutare | Furtività |
-| **Erborista** | Miti e Leggende | Geografia | Natura | Erboristeria |
+| \rowcolor{gray!20}**Erborista** | Miti e Leggende | Geografia | Natura | Erboristeria |
 | **Fabbro** | Pronto Soccorso | Valutare | Atletica | Artigianato |
-| **Forestale** | Miti e Leggende | Erboristeria | Cavalcare | Natura |
+| \rowcolor{gray!20}**Forestale** | Miti e Leggende | Erboristeria | Cavalcare | Natura |
 | **Guardia** | Percepire Emozioni | Conoscenza Legge | Cavalcare | Intimidire |
-| **Guida** | Miti e Leggende | Dungeon | Natura | Geografia |
+| \rowcolor{gray!20}**Guida** | Miti e Leggende | Dungeon | Natura | Geografia |
 | **Leguleio** | Valutare | Ingannare | Percepire Emozioni | Legge |
-| **Locandiere** | Pronto soccorso | Valutare | Diplomazia | Percepire Emozioni |
+| \rowcolor{gray!20}**Locandiere** | Pronto soccorso | Valutare | Diplomazia | Percepire Emozioni |
 | **Mazziere** | Percepire Emozioni | Valutare | Intrattenere | Ingannare |
-| **Medico** | Miti e Leggende | Natura | Erboristeria | Pronto soccorso |
+| \rowcolor{gray!20}**Medico** | Miti e Leggende | Natura | Erboristeria | Pronto soccorso |
 | **Mercante** | Lingue | Tradizioni Locali | Ingannare | Valutare |
-| **Mercenario** | Percepire Emozioni | Acrobatica | Intimidire | Atletica |
+| \rowcolor{gray!20}**Mercenario** | Percepire Emozioni | Acrobatica | Intimidire | Atletica |
 | **Minatore** | Usare corde | Pronto soccorso | Valutare | Dungeon |
-| **Monaco** | Intrattenere | Pronto Soccorso | Natura | Religione |
+| \rowcolor{gray!20}**Monaco** | Intrattenere | Pronto Soccorso | Natura | Religione |
 | **Nomade** | Erboristeria | Gestire Animali | Natura | Sopravvivenza |
-| **Orafo** | Tradizioni locali | Mani di fata | Valutare | Falsificare |
+| \rowcolor{gray!20}**Orafo** | Tradizioni locali | Mani di fata | Valutare | Falsificare |
 | **Pescatore** | Usare corde | Nuotare | Sopravvivenza | Natura |
-| **Scriba** | Tradizioni Locali | Falsificare | Miti e Leggende | Lingue |
+| \rowcolor{gray!20}**Scriba** | Tradizioni Locali | Falsificare | Miti e Leggende | Lingue |
 | **Sensale** | Intrattenere | Tradizioni locali | Percepire Emozioni | Diplomazia |
-| **Soldato** | Nuotare | Gestire animali | Atletica | Cavalcare |
+| \rowcolor{gray!20}**Soldato** | Nuotare | Gestire animali | Atletica | Cavalcare |
 | **Tagliaborse** | Disattivare congegni | Artista della fuga | Furtività | Mani di fata |
-| **Teatrante** | Percepire emozioni | Lingue | Acrobatica | Intrattenere |
+| \rowcolor{gray!20}**Teatrante** | Percepire emozioni | Lingue | Acrobatica | Intrattenere |
 
 > Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti...(Richard de Bury)
 
@@ -1285,16 +1285,16 @@ Il giocatore **aumenta di 1 il punteggio di una Caratteristica che si colleghi a
 
 **Tabella: Elenco Competenze e relativa Caratteristica d'uso**
 
-| **Forza** | **Destrezza** | **Intelligenza** | **Saggezza** | **Carisma** |
+| \rowcolor{gray!20}**Forza** | **Destrezza** | **Intelligenza** | **Saggezza** | **Carisma** |
 | --- | --- | --- | --- | --- |
 | Arrampicarsi | Acrobatica | Arcana | Cavalcare | Diplomazia |
-| Atletica | Artista della fuga | Artigianato | *Consapevolezza* | Intrattenere |
+| \rowcolor{gray!20}Atletica | Artista della fuga | Artigianato | *Consapevolezza* | Intrattenere |
 | Intimidire | Furtività | Conoscenza | Gestire animali | Ingannare |
-| Nuotare | Mani di fata | Disattivare congegni | Natura | Tradizioni locali |
+| \rowcolor{gray!20}Nuotare | Mani di fata | Disattivare congegni | Natura | Tradizioni locali |
 | - | Usare corda | Erboristeria | Percepire Emozioni | - |
-| - | - | Falsificare | Pronto soccorso | - |
+| \rowcolor{gray!20}- | - | Falsificare | Pronto soccorso | - |
 | - | - | Valutare | Seguire tracce | - |
-| - | - | - | Sopravvivenza | - |
+| \rowcolor{gray!20}- | - | - | Sopravvivenza | - |
 
 La **Conoscenza** va esplicitata su quale argomento verte: Architettura ed Ingegneria, Dungeon, Geografia, Legge, Lingue (terrestri o meno), Miti e Leggende, Nobiltà ed Araldica, Occulto, Piani, Religione, Storia, Tecnologia Antica ...
 
@@ -1675,16 +1675,16 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 
 **Tabella: Classe di difficoltà**
 
-| **Diff.** | **Descrizione** | **Livello** |
+| \rowcolor{gray!20}**Diff.** | **Descrizione** | **Livello** |
 | --- | --- | --- |
 | **DC** | **difficoltà** | **Competenza** |
-| 6 | Estremamente facile | Nulla |
+| \rowcolor{gray!20}6 | Estremamente facile | Nulla |
 | 10 | Facile | Scarsa |
-| 15 | Normale | Normale |
+| \rowcolor{gray!20}15 | Normale | Normale |
 | 20 | Difficile | Buona |
-| 25 | Molto difficile | Ottima |
+| \rowcolor{gray!20}25 | Molto difficile | Ottima |
 | 30 | Eroica | Eccellente |
-| 35 | Quasi impossibile | Stupefacente |
+| \rowcolor{gray!20}35 | Quasi impossibile | Stupefacente |
 | 40 | Impossibile | Epica |
 
 Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteggio della Caratteristica e altri modificatori. Comunica questo risultato al Narratore che la confronterà con la difficoltà (DC).
@@ -1763,12 +1763,12 @@ Ogni qual volta la **Prova** o **Prova Contrapposta** riguarda una **Caratterist
 
 **Tabella: Prove Contrapposte**
 
-| **Prova Contrapposta** | **TS** |
+| \rowcolor{gray!20}**Prova Contrapposta** | **TS** |
 | --- | --- |
 | Forza | Tempra |
-| Destrezza | Riflessi |
+| \rowcolor{gray!20}Destrezza | Riflessi |
 | Costituzione | Tempra |
-| Intelligenza, Saggezza, Carisma | Volontà |
+| \rowcolor{gray!20}Intelligenza, Saggezza, Carisma | Volontà |
 
 E' possibile che siano chieste Prove Contrapposte con indicato modificatori diversi. Quelli riportati nella tabella sopra sono esempi di utilizzo tipici. E' possibile fare un prova contrapposta di Forza, facendo un Tiro Salvezza su Tempra e sommando il punteggio di Forza per capire chi vince in una gara di sollevamento pesi.
 
@@ -1800,13 +1800,13 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 	
 
-| **Vantaggio / Svantaggio** | **Prove** | |
+| \rowcolor{gray!20}**Vantaggio / Svantaggio** | **Prove** | |
 | --- | --- |
 | \cmidrule(lr) | **Dinamiche** | **Fisse** |
 | Leggero | $\pm$1 | $\pm$1 |
-| Normale | $\pm$2 | $\pm$2 |
+| \rowcolor{gray!20}Normale | $\pm$2 | $\pm$2 |
 | Forte | $\pm$1d6 | $\pm$4 |
-| Molto forte | $\pm$2d6 | $\pm$8 |
+| \rowcolor{gray!20}Molto forte | $\pm$2d6 | $\pm$8 |
 
 >>> **Il valore dei dadi**: I bonus e penalità nel tiro di 3d6 hanno più *effetto* che nella prova fatta con il d20. Cercate di rimanere entro i $\pm2$ e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o penalità maggiori.
 
@@ -1869,20 +1869,20 @@ Vedi paragrafo Cadute (pag. ) per i dettagli su come usare Acrobatica quando si 
 
 Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi in un **terreno doppiamente difficile**.
 
-| **Esempio di Superficie** | **DC** |
+| \rowcolor{gray!20}**Esempio di Superficie** | **DC** |
 | --- | --- |
 | Movimento solo dimezzato | -2d6 |
-| Superficie scivolosa | +4 |
+| \rowcolor{gray!20}Superficie scivolosa | +4 |
 | { Parete grezza con appigli, mattoni sporgenti} | +12 |
-| Un albero, una corda senza nodi | +15 |
+| \rowcolor{gray!20}Un albero, una corda senza nodi | +15 |
 | Un muro con pochi mattoni sporgenti | +20 |
-| Un muro con pochissimi appigli | +25 |
+| \rowcolor{gray!20}Un muro con pochissimi appigli | +25 |
 | Una parete naturale liscia senza appigli | +30 |
-| Ti puoi appoggiare a 2 pareti opposte | -8 |
+| \rowcolor{gray!20}Ti puoi appoggiare a 2 pareti opposte | -8 |
 | Ti puoi appoggiare a 2 pareti angolari | -4 |
-| Esempi di prove con uso della corda | |
+| \rowcolor{gray!20}Esempi di prove con uso della corda | |
 | Usare una corda per calarsi | 12 |
-| Usare una corda per arrampicarsi | 15 |
+| \rowcolor{gray!20}Usare una corda per arrampicarsi | 15 |
 | La corda ha nodi | -3 |
 
 In caso di fallimento della prova si consuma l'Azione senza spostarsi. Se si ottiene un Fallimento Critico perdi la presa e puoi fare un Tiro Salvezza su Riflessi alla stessa difficoltà per afferrarti a qualcosa, se fallisci anche il TS cadi fino in fondo.
@@ -1962,15 +1962,15 @@ Oggetti come Borsa da Guaritore (pag. ) e Fermasangue (pag. ) possono essere uti
 
 Alla **Difficoltà base di 15** si applicano i seguenti modificatori:
 
-| Se il terreno è molto morbido | DC -4 |
+| \rowcolor{gray!20}Se il terreno è molto morbido | DC -4 |
 | Se il terreno è stabile | DC +5 |
-| Se il terreno è duro | DC +10 |
+| \rowcolor{gray!20}Se il terreno è duro | DC +10 |
 | A seconda della taglia | DC $\pm4$ |
-| Ogni 3 creature inseguite | DC -2 |
+| \rowcolor{gray!20}Ogni 3 creature inseguite | DC -2 |
 | Ogni 24 ore passate | DC +4 |
-| Ogni ora di pioggia | DC +4 |
+| \rowcolor{gray!20}Ogni ora di pioggia | DC +4 |
 | Visibilità scarsa | DC +2 |
-| Cerca di occultare le tracce | DC +4 |
+| \rowcolor{gray!20}Cerca di occultare le tracce | DC +4 |
 
 ### Valutare
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
@@ -2004,16 +2004,16 @@ Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, G
 
 **Tabella delle Lingue**
 
-| **Ambito culturale** | **Parlato** | **Scritto** |
+| \rowcolor{gray!20}**Ambito culturale** | **Parlato** | **Scritto** |
 | --- | --- | --- |
 | Vecchie lingue terrestri | varie | varie |
-| Creature marine* | Aquan | Elfico |
+| \rowcolor{gray!20}Creature marine* | Aquan | Elfico |
 | Uccelli senzienti | Ictun | - |
-| Abitanti dei boschi | Silvano | - |
+| \rowcolor{gray!20}Abitanti dei boschi | Silvano | - |
 | Elementali del Fuoco* | Ignan | - |
-| Elementali della Terra* | Tremun | - |
+| \rowcolor{gray!20}Elementali della Terra* | Tremun | - |
 | Elementali dell'Acqua* | Aquan | - |
-| Elementali dell'Aria* | Ictun | - |
+| \rowcolor{gray!20}Elementali dell'Aria* | Ictun | - |
 | Non-morti | Expiran | - |
 
 La **Telepatia** è un mezzo per parlare con qualsiasi creatura che abbia Intelligenza almeno -3. Non c'è il vincolo del linguaggio, la telepatia funge da traduttore universale.
@@ -2142,44 +2142,44 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 
 	
 
-| **Cosa si fa** | **Azioni** |
+| \rowcolor{gray!20}**Cosa si fa** | **Azioni** |
 | --- | --- |
 | Eseguire un attacco | 1 |
-| Eseguire due attacchi | 2 |
+| \rowcolor{gray!20}Eseguire due attacchi | 2 |
 | Eseguire più di due attacchi | 3 |
-| Estrarre o Rinfoderare l'arma o scudo | 1 |
+| \rowcolor{gray!20}Estrarre o Rinfoderare l'arma o scudo | 1 |
 | Eseguire una Azione di Movimento | 1* |
-| Scatto | 1 |
+| \rowcolor{gray!20}Scatto | 1 |
 | Alzarsi da prono | 1 |
-| Aiutare qualcuno | R |
+| \rowcolor{gray!20}Aiutare qualcuno | R |
 | Eseguire prova su una competenza | 1* |
-| Riconoscere una creatura | 1 |
+| \rowcolor{gray!20}Riconoscere una creatura | 1 |
 | Nascondersi | 1 |
-| Salire o scendere dalla cavalcatura | 2 |
+| \rowcolor{gray!20}Salire o scendere dalla cavalcatura | 2 |
 | Sfondare una porta a spallate/calci | 1 |
-| Forzare porta con piede di porco | 2 |
+| \rowcolor{gray!20}Forzare porta con piede di porco | 2 |
 | Cercare qualcosa nello zaino | 2 |
-| { Prendere qualcosa dalla cintura o di pronto} | 1 |
+| \rowcolor{gray!20}{ Prendere qualcosa dalla cintura o di pronto} | 1 |
 | Usare un oggetto tenuto in mano | 1 |
-| Bere una pozione tenuta in mano | Imm. |
+| \rowcolor{gray!20}Bere una pozione tenuta in mano | Imm. |
 | Fare bere una pozione ad un altro | 2 |
-| Gettare un oggetto tenuto in mano | R |
+| \rowcolor{gray!20}Gettare un oggetto tenuto in mano | R |
 | Gettarsi a terra prono | R |
-| Lanciare un Incantesimo* | 2 |
+| \rowcolor{gray!20}Lanciare un Incantesimo* | 2 |
 | Concentrarsi su un Incantesimo | 1 |
-| Interrompere un proprio incantesimo | Imm. |
+| \rowcolor{gray!20}Interrompere un proprio incantesimo | Imm. |
 | Riconoscere un Incantesimo | R |
-| Usare un oggetto magico | 2 |
+| \rowcolor{gray!20}Usare un oggetto magico | 2 |
 | Scambiare un dialogo con qualcuno | 3* |
-| Scambiare poche battute con qualcuno | 0* |
+| \rowcolor{gray!20}Scambiare poche battute con qualcuno | 0* |
 | Preparare la Difesa | 1 |
-| Difesa Totale | 2 |
+| \rowcolor{gray!20}Difesa Totale | 2 |
 | Disingaggiare | 1 |
-| Colpo preciso | 2 |
+| \rowcolor{gray!20}Colpo preciso | 2 |
 | Disarmare | 2 |
-| Finta | 1 |
+| \rowcolor{gray!20}Finta | 1 |
 | Spingere un avversario | 2 |
-| Afferrare l'avversario | 2 |
+| \rowcolor{gray!20}Afferrare l'avversario | 2 |
 | Fare cadere l'avversario | 2 |
 
 **Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole (pag. ) per lanciare più incantesimi nel round.
@@ -2536,25 +2536,27 @@ Non è una questione di miniature, spazi, quadretti.. è una questione di divert
 
 Concedete un bonus o penalità ($\pm 1-2$) se non indicato diversamente) ogni qual volta il giocatore abbia un vantaggio o svantaggio ed allo stesso modo all'avversario.
 
-| **Attaccante** |  | **Difensore** |
-| --- | --- | --- |
-| **Mod**. | *Situazione* | *Situazione* |
-| **-1** | Affaticato (1), Luce fioca | Affaticato (1) |
-| **-2** | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
-| **-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
-| **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato | |
-| **+2** | Fiancheggia, Posizione Sopraelevata, Attacca al spalle | Copertura leggera |
-| **+4** |  | Copertura media |
-| **+1d6** | Invisibile, Carica, avversario Indifeso | |
-| **+8** |  | Copertura completa |
-
->>> **Non è tutto Regole**: Cercate di non interrompere il gioco cercando la regola precisa, lasciatelo fluire, dite ai giocatori che per brevità gestite la situazione in una certa maniera; ci sarà poi tempo per ricordare la situazione e trovare la regola giusta. Interrompere il gioco di continuo spezza il *pathos* della situazione.
+### Lettura dei modificatori in attacco e difesa 
 
 Quando si scrive -1d6 significa che si tira un dado in meno (o due se è -2d6), parimente se c'è scritto +1d6 si tira un dado a 6 in più e si somma.
 
 Quando la penalità è alla Difesa considerare ogni -1d6 come un -4 alla Difesa.
 
 In linea di principio in combattimento un bonus leggero è un +1, medio +2, alto +1d6 (o +4), un bonus molto alto è +2d6 (o +8), viceversa per le penalità.
+
+| \rowcolor{gray!20}**Attaccante** |  | **Difensore** |
+| --- | --- | --- |
+| **Mod**. | *Situazione* | *Situazione* |
+| \rowcolor{gray!20}**-1** | Affaticato (1), Luce fioca | Affaticato (1) |
+| **-2** | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
+| \rowcolor{gray!20}**-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
+| **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato | |
+| \rowcolor{gray!20}**+2** | Fiancheggia, Posizione Sopraelevata, Attacca al spalle | Copertura leggera |
+| **+4** |  | Copertura media |
+| \rowcolor{gray!20}**+1d6** | Invisibile, Carica, avversario Indifeso | |
+| **+8** |  | Copertura completa |
+
+>>> **Non è tutto Regole**: Cercate di non interrompere il gioco cercando la regola precisa, lasciatelo fluire, dite ai giocatori che per brevità gestite la situazione in una certa maniera; ci sarà poi tempo per ricordare la situazione e trovare la regola giusta. Interrompere il gioco di continuo spezza il *pathos* della situazione.
 
 >>> **Motivi e Scopi**: Ricordate sempre che lo scopo è divertirsi, a scapito (per il Narratore) di qualche mostro, non siate rigidi ma dinamici e adattatevi alle situazioni.
 
@@ -2723,11 +2725,11 @@ Combattere in condizioni di luminosità ridotta comporta delle difficoltà riass
 
 	
 
-| **Visione** | **Condizione** | |
+| \rowcolor{gray!20}**Visione** | **Condizione** | |
 | --- | --- |
 | Luce Fioca | Oscurità |
 | Normale | -1 TC, -2 Cons. | Invis. (pag. ) |
-| Crepuscolare | Normale | Invis. (pag. ) |
+| \rowcolor{gray!20}Crepuscolare | Normale | Invis. (pag. ) |
 | Scurovisione | Normale | -2 Cons. |
 
 Vedi anche Capitolo Visione e Luce (pag. ).
@@ -3014,16 +3016,16 @@ A seconda della distanza della creatura invisibile o di ciò che questa ha fatto
 
 **Tabella: Modificatori alla DC di Consapevolezza per Rilevare Creature Invisibili**
 
-| **La Creatura Invisibile...** | **Mod.** |
+| \rowcolor{gray!20}**La Creatura Invisibile...** | **Mod.** |
 | --- | --- |
 | Si è mossa | -4 |
-| Ha scagliato un proiettile | -4 |
+| \rowcolor{gray!20}Ha scagliato un proiettile | -4 |
 | Un compagno che lo vede ti indirizza | -4 |
-| Ha corso o caricato | -8 |
+| \rowcolor{gray!20}Ha corso o caricato | -8 |
 | Usa Furtività | prova+10 |
-| E' ferma e non fa rumori | +4 |
+| \rowcolor{gray!20}E' ferma e non fa rumori | +4 |
 | Per ogni metro oltre i 6 metri | +2 |
-| Ha copertura Legg./Media/Compl. | +4/8/12 |
+| \rowcolor{gray!20}Ha copertura Legg./Media/Compl. | +4/8/12 |
 
 Questi modificatori sono cumulativi tra loro.
 
@@ -4137,7 +4139,7 @@ La **prima volta** che prendi questa Abilità fai un passo di un metro, attacchi
 
 La **seconda volta**, requisito CA 6, che prendi questa Abilità puoi muoverti di 2 metri prima di attaccare e tornare dove eri.
 
-La **terza volta**, requisito CA 12, che prendi questa Abilità puoi muoverti di il tuo movimento prima di attaccare e tornare dove eri, tratti il terreno come difficile.
+La **terza volta**, requisito CA 12, che prendi questa Abilità puoi muoverti del tuo movimento prima di attaccare e tornare dove eri, tratti il terreno come difficile.
 
 Consumi due Azioni.
 
@@ -4472,12 +4474,12 @@ E' la capacità di non essere rallentati in un ambiente ostile. E' necessario di
 
 	
 
-| **Ambiente** | **Ambiente** |
+| \rowcolor{gray!20}**Ambiente** | **Ambiente** |
 | --- | --- |
 | Giungla | Aquatico | Costale |
-| Palude | Collina | Foresta |
+| \rowcolor{gray!20}Palude | Collina | Foresta |
 | Pianura | Desertico |
-| Montagna | Ghiacciai | Tundra |
+| \rowcolor{gray!20}Montagna | Ghiacciai | Tundra |
 | Urbano | Sotterraneo |
 
 Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente o ci si specializza sullo stesso.
@@ -5016,523 +5018,523 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 Per facilitare la transizione da chi viene da altri giochi di ruolo con classi sono qui suddivise le Abilità per le classi più canoniche. Sono chiaramente solo indicazioni, in OBSS il personaggio può essere costruito come meglio si preferisce e come la storia che vive lo sta istruendo.
 
-| **Lv** | **Guerriero Tank** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Guerriero Tank** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | La mia pelle - Seconda pelle |
-| 2 | 2 | 0 | 2d6+6 | Difesa pronta |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Difesa pronta |
 | 3 | 3 | 0 | 3d6+9 | Parata |
-| 4 | 4 | 0 | 4d6+12 | Pelle Coriacea |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Pelle Coriacea |
 | 5 | 5 | 0 | 5d6+15 | Opportunista |
-| 6 | 6 | 0 | 6d6+18 | Iniziativa migliorata |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Iniziativa migliorata |
 | 7 | 7 | 0 | 7d6+21 | Resistenza della pietra |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Seconda pelle (2°) |
-| 10 | 10 | 0 | 10d6+30 | Robusto |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Robusto |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Pelle Coriacea (2°) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Pelle Coriacea (2°) |
 | 13 | 13 | 0 | 13d6+39 | Volontà Ferrea |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Seconda pelle (3°) |
-| 16 | 16 | 0 | 16d6+48 | Duro a morire |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Duro a morire |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Riflessi fulminei |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Riflessi fulminei |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colosso |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colosso |
 
 **Barbaro**
 
-| **Lv** | **Barbaro** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Barbaro** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Ferocia - Furia |
-| 2 | 2 | 0 | 2d6+6 | Colpi Poderosi |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Colpi Poderosi |
 | 3 | 3 | 0 | 3d6+9 | Proseguire |
-| 4 | 4 | 0 | 4d6+12 | Ferocia (2°) |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Ferocia (2°) |
 | 5 | 5 | 0 | 5d6+15 | Un braccio, un arma |
-| 6 | 6 | 0 | 6d6+18 | La mia morte la tua morte |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | La mia morte la tua morte |
 | 7 | 7 | 0 | 7d6+21 | Ferocia (3°) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Proseguire (2°) |
-| 10 | 10 | 0 | 10d6+30 | Primo Sangue |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Primo Sangue |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
 | 13 | 13 | 0 | 13d6+39 | Un braccio, un arma (2°) |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Più sono grossi più fanno rumore quando cadono |
-| 16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colosso |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colosso |
 
 **Spadaccino**
 
-| **Lv** | **Spadaccino** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Spadaccino** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Danza della Lama |
-| 2 | 2 | 0 | 2d6+6 | Iniziativa migliorata |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Iniziativa migliorata |
 | 3 | 3 | 0 | 3d6+9 | Parata |
-| 4 | 4 | 0 | 4d6+12 | Estrazione rapida |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Estrazione rapida |
 | 5 | 5 | 0 | 5d6+15 | Iaijutsu |
-| 6 | 6 | 0 | 6d6+18 | Artista dell'Arma |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Artista dell'Arma |
 | 7 | 7 | 0 | 7d6+21 | Danza della Lama (2°) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Parata (2°) |
-| 10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Iaijutsu (2°) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu (2°) |
 | 13 | 13 | 0 | 13d6+39 | Artista dell'Arma (2°) |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Danza della Lama (3°) |
-| 16 | 16 | 0 | 16d6+48 | Riflessi fulminei |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Riflessi fulminei |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Iaijutsu (3°) |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Iaijutsu (3°) |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Attacco Turbinante |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Attacco Turbinante |
 
 **Ladro Acrobata**
 
-| **Lv** | **Ladro Acrobata** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Ladro Acrobata** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Estrazione rapida - Passo Felpato |
-| 2 | 2 | 0 | 2d6+6 | Opportunista |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Opportunista |
 | 3 | 3 | 0 | 3d6+9 | Colpo Furtivo |
-| 4 | 4 | 0 | 4d6+12 | Schivare trappole |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Schivare trappole |
 | 5 | 5 | 0 | 5d6+15 | Occhio Clinico |
-| 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
 | 7 | 7 | 0 | 7d6+21 | Percettivo |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Passo Felpato (2°) |
-| 10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
 | 13 | 13 | 0 | 13d6+39 | Schivare trappole (2°) |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Colpo Furtivo (4°) |
-| 16 | 16 | 0 | 16d6+48 | Toccata e fuga |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Toccata e fuga |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Colpo Indebolente |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Colpo Indebolente |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colpo Paralizzante |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colpo Paralizzante |
 
 **Assassino**
 
-| **Lv** | **Assassino** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Assassino** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Colpo Furtivo - Passo Felpato |
-| 2 | 2 | 0 | 2d6+6 | Estrazione rapida |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Estrazione rapida |
 | 3 | 3 | 0 | 3d6+9 | Opportunista |
-| 4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
 | 5 | 5 | 0 | 5d6+15 | Schivare trappole |
-| 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
 | 7 | 7 | 0 | 7d6+21 | Percettivo |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Passo Felpato (2°) |
-| 10 | 10 | 0 | 10d6+30 | Occhio Clinico |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Occhio Clinico |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
 | 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| 14 | 14 | 1 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Colpo Furtivo (4°) |
-| 16 | 15 | 2 | 16d6+45 | Incantatore da Combattimento |
+| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Incantatore da Combattimento |
 | 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Colpo Indebolente |
+| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Colpo Indebolente |
 | 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Colpo Paralizzante |
+| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Colpo Paralizzante |
 
 **Ranger Esploratore**
 
-| **Lv** | **Ranger Esploratore** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Ranger Esploratore** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Passo Sicuro - Tiro Preciso |
-| 2 | 2 | 0 | 2d6+6 | Segugio |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Segugio |
 | 3 | 3 | 0 | 3d6+9 | Occhio di Falco |
-| 4 | 4 | 0 | 4d6+12 | Passo rapido |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Passo rapido |
 | 5 | 5 | 0 | 5d6+15 | Uno con l'arco |
-| 6 | 6 | 0 | 6d6+18 | Precisino |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Precisino |
 | 7 | 7 | 0 | 7d6+21 | Passo Sicuro (specializzazione) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Senza Traccia |
-| 10 | 10 | 0 | 10d6+30 | Combattere alla Cieca |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Combattere alla Cieca |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Tiro Rapido |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Tiro Rapido |
 | 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| 14 | 14 | 1 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Segugio (2°) |
-| 16 | 15 | 2 | 16d6+45 | Distillare pozioni |
+| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Distillare pozioni |
 | 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Occhio di Falco (2°) |
+| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Occhio di Falco (2°) |
 | 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Uno con l'arco (2°) |
+| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Uno con l'arco (2°) |
 
 **Ranger Bestiale**
 
-| **Lv** | **Ranger Bestiale** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Ranger Bestiale** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Animaletto / Famiglio - Passo Sicuro |
-| 2 | 2 | 0 | 2d6+6 | Segugio |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Segugio |
 | 3 | 2 | 1 | 3d6+6 | Adepto della Magia |
-| 4 | 3 | 1 | 4d6+9 | Animaletto / Famiglio (2°) |
+| \rowcolor{gray!20}4 | 3 | 1 | 4d6+9 | Animaletto / Famiglio (2°) |
 | 5 | 3 | 2 | 5d6+9 | Animalia |
-| 6 | 4 | 2 | 6d6+12 | Tiro Preciso |
+| \rowcolor{gray!20}6 | 4 | 2 | 6d6+12 | Tiro Preciso |
 | 7 | 4 | 3 | 7d6+12 | Figlia di Shayalia |
-| 8 | 5 | 3 | 8d6+15 | |
+| \rowcolor{gray!20}8 | 5 | 3 | 8d6+15 | |
 | 9 | 5 | 4 | 9d6+15 | Passo Sicuro (specializzazione) |
-| 10 | 6 | 4 | 10d6+18 | Occhio di Falco |
+| \rowcolor{gray!20}10 | 6 | 4 | 10d6+18 | Occhio di Falco |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 7 | 5 | 12d6+21 | Animalia (2°) |
+| \rowcolor{gray!20}12 | 7 | 5 | 12d6+21 | Animalia (2°) |
 | 13 | 7 | 6 | 13d6+21 | Segugio (2°) |
-| 14 | 8 | 6 | 14d6+24 | |
+| \rowcolor{gray!20}14 | 8 | 6 | 14d6+24 | |
 | 15 | 8 | 7 | 15d6+24 | Figlia di Shayalia (2°) |
-| 16 | 9 | 7 | 16d6+27 | Senza Traccia |
+| \rowcolor{gray!20}16 | 9 | 7 | 16d6+27 | Senza Traccia |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 10 | 8 | 18d6+30 | Tiro Rapido |
+| \rowcolor{gray!20}18 | 10 | 8 | 18d6+30 | Tiro Rapido |
 | 19 | 11 | 8 | 19d6+33 | |
-| 20 | 12 | 8 | 20d6+36 | Uno con l'arco |
+| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | Uno con l'arco |
 
 **Paladino Tradizionale**
 
-| **Lv** | **Paladino Tradizionale** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Paladino Tradizionale** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
-| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Imposizione delle mani |
-| 4 | 2 | 2 | 4d6+6 | Armatura del Devoto |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armatura del Devoto |
 | 5 | 3 | 2 | 5d6+9 | Il Patrono è la mia Arma (2°) |
-| 6 | 3 | 3 | 6d6+9 | Scacciare i non morti |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Scacciare i non morti |
 | 7 | 4 | 3 | 7d6+12 | Imposizione delle mani (2°) |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Lo scudo è mio amico |
-| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
 | 13 | 7 | 6 | 13d6+21 | Potere del Patrono |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Il Patrono è la mia Arma (3°) |
-| 16 | 8 | 8 | 16d6+24 | Imposizione delle mani (3°) |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Imposizione delle mani (3°) |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Incanalare Energia |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Incanalare Energia |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
 
 **Paladino Templare**
 
-| **Lv** | **Paladino Templare** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Paladino Templare** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
-| 2 | 2 | 0 | 2d6+6 | Questa è la mia arma! |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Questa è la mia arma! |
 | 3 | 3 | 0 | 3d6+9 | Seconda pelle |
-| 4 | 4 | 0 | 4d6+12 | La mia pelle |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | La mia pelle |
 | 5 | 5 | 0 | 5d6+15 | Il Patrono è la mia Arma (2°) |
-| 6 | 6 | 0 | 6d6+18 | Opportunista |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Opportunista |
 | 7 | 7 | 0 | 7d6+21 | Volontà Ferrea |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Resistenza della pietra |
-| 10 | 10 | 0 | 10d6+30 | Il Patrono è la mia Arma (3°) |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Il Patrono è la mia Arma (3°) |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Seconda pelle (2°) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Seconda pelle (2°) |
 | 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| 14 | 14 | 1 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Il Patrono è la mia Arma (4°) |
-| 16 | 15 | 2 | 16d6+45 | Imposizione delle mani |
+| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Imposizione delle mani |
 | 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Il Patrono è la mia Arma (5°) |
+| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Il Patrono è la mia Arma (5°) |
 | 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Il Patrono è la mia Arma (6°) |
+| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Il Patrono è la mia Arma (6°) |
 
 **Mago Accademico**
 
-| **Lv** | **Mago Accademico** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Mago Accademico** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 0 | 1 | 1d6 | Adepto della Magia - Tutt'uno con la magia |
-| 2 | 0 | 2 | 2d6 | Sapiente |
+| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Sapiente |
 | 3 | 0 | 3 | 3d6 | Prodigioso |
-| 4 | 0 | 4 | 4d6 | Adepto della Magia (2°) |
+| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Adepto della Magia (2°) |
 | 5 | 0 | 5 | 5d6 | Magie Potenti |
-| 6 | 0 | 6 | 6d6 | Concentrato |
+| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Concentrato |
 | 7 | 0 | 7 | 7d6 | Dattilografo |
-| 8 | 0 | 8 | 8d6 | |
+| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | Batteria Magica |
-| 10 | 0 | 10 | 10d6 | Specialista |
+| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Specialista |
 | 11 | 0 | 11 | 11d6 | |
-| 12 | 0 | 12 | 12d6 | Creare Oggetti Magici |
+| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Creare Oggetti Magici |
 | 13 | 0 | 13 | 13d6 | Prodigioso (2°) |
-| 14 | 0 | 14 | 14d6 | |
+| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Adepto della Magia (3°) |
-| 16 | 0 | 16 | 16d6 | Concentrato (2°) |
+| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Concentrato (2°) |
 | 17 | 0 | 17 | 17d6 | |
-| 18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
+| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
 | 19 | 0 | 19 | 19d6 | |
-| 20 | 0 | 20 | 20d6 | Un solo credo |
+| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Un solo credo |
 
 **Stregone**
 
-| **Lv** | **Stregone** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Stregone** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 0 | 1 | 1d6 | Adepto della Magia - Batteria Magica |
-| 2 | 0 | 2 | 2d6 | Elementalista |
+| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Elementalista |
 | 3 | 0 | 3 | 3d6 | Batteria Estesa |
-| 4 | 0 | 4 | 4d6 | Concentrato |
+| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Concentrato |
 | 5 | 0 | 5 | 5d6 | Magie Potenti |
-| 6 | 0 | 6 | 6d6 | Dadi Truccati |
+| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Dadi Truccati |
 | 7 | 0 | 7 | 7d6 | Elementalista (2°) |
-| 8 | 0 | 8 | 8d6 | |
+| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | Un colpo un morto |
-| 10 | 0 | 10 | 10d6 | Batteria Magica (2°) |
+| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Batteria Magica (2°) |
 | 11 | 0 | 11 | 11d6 | |
-| 12 | 0 | 12 | 12d6 | Dadi Truccati (2°) |
+| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Dadi Truccati (2°) |
 | 13 | 0 | 13 | 13d6 | Concentrato (2°) |
-| 14 | 0 | 14 | 14d6 | |
+| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Adepto della Magia (2°) |
-| 16 | 0 | 16 | 16d6 | Magie Potenti (2°) |
+| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Magie Potenti (2°) |
 | 17 | 0 | 17 | 17d6 | |
-| 18 | 0 | 18 | 18d6 | Incantatore Prudente |
+| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Incantatore Prudente |
 | 19 | 0 | 19 | 19d6 | |
-| 20 | 0 | 20 | 20d6 | Tutt'uno con la magia |
+| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Tutt'uno con la magia |
 
 **Chierico Guaritore**
 
-| **Lv** | **Chierico Guaritore** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Chierico Guaritore** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Guaritore - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
 | 3 | 2 | 1 | 3d6+6 | Fedele |
-| 4 | 2 | 2 | 4d6+6 | Tutt'uno con la magia |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Tutt'uno con la magia |
 | 5 | 3 | 2 | 5d6+9 | Imposizione delle mani (2°) |
-| 6 | 3 | 3 | 6d6+9 | Incanalare Energia |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Incanalare Energia |
 | 7 | 4 | 3 | 7d6+12 | Scacciare i non morti |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Guaritore (2°) |
-| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Imposizione delle mani (3°) |
+| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Imposizione delle mani (3°) |
 | 13 | 5 | 8 | 13d6+15 | Potere del Patrono |
-| 14 | 5 | 9 | 14d6+15 | |
+| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Imposizione delle mani (4°) |
-| 16 | 5 | 11 | 16d6+15 | Incanalare Energia (2°) |
+| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Incanalare Energia (2°) |
 | 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Imposizione delle mani (5°) |
+| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Imposizione delle mani (5°) |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Imposizione delle mani (6°) |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Imposizione delle mani (6°) |
 
 **Chierico Guerriero**
 
-| **Lv** | **Chierico Guerriero** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Chierico Guerriero** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
 | 3 | 2 | 1 | 3d6+6 | Armatura del Devoto |
-| 4 | 2 | 2 | 4d6+6 | Scacciare i non morti |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Scacciare i non morti |
 | 5 | 3 | 2 | 5d6+9 | Il Patrono è la mia Arma (2°) |
-| 6 | 3 | 3 | 6d6+9 | Lo scudo è mio amico |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Lo scudo è mio amico |
 | 7 | 4 | 3 | 7d6+12 | Tutt'uno con la magia |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Imposizione delle mani (2°) |
-| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
 | 13 | 7 | 6 | 13d6+21 | Potere del Patrono |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Il Patrono è la mia Arma (3°) |
-| 16 | 8 | 8 | 16d6+24 | Incanalare Energia |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Incanalare Energia |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Armatura del Devoto (3°) |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Armatura del Devoto (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
 
 **Druido Naturalista**
 
-| **Lv** | **Druido Naturalista** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Druido Naturalista** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Figlia di Shayalia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Figlia di Shayalia |
 | 3 | 2 | 1 | 3d6+6 | Passo Sicuro |
-| 4 | 2 | 2 | 4d6+6 | Elementalista |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Elementalista |
 | 5 | 3 | 2 | 5d6+9 | Animaletto / Famiglio |
-| 6 | 3 | 3 | 6d6+9 | Tutt'uno con la magia |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Tutt'uno con la magia |
 | 7 | 4 | 3 | 7d6+12 | Distillare pozioni (2°) |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Figlia di Shayalia (2°) |
-| 10 | 5 | 5 | 10d6+15 | Concentrato |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Concentrato |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Elementalista (2°) |
+| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Elementalista (2°) |
 | 13 | 5 | 8 | 13d6+15 | Forma Elementale |
-| 14 | 5 | 9 | 14d6+15 | |
+| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Animaletto / Famiglio (2°) |
-| 16 | 5 | 11 | 16d6+15 | Figlia di Shayalia (3°) |
+| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Figlia di Shayalia (3°) |
 | 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Magie Potenti |
+| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Prodigioso |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Prodigioso |
 
 **Druido Mutaforma**
 
-| **Lv** | **Druido Mutaforma** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Druido Mutaforma** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Animalia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Animalia |
 | 3 | 2 | 1 | 3d6+6 | Figlia di Shayalia |
-| 4 | 2 | 2 | 4d6+6 | Sangue Puro |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Sangue Puro |
 | 5 | 3 | 2 | 5d6+9 | Animalia (2°) |
-| 6 | 3 | 3 | 6d6+9 | Forma Elementale |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Forma Elementale |
 | 7 | 4 | 3 | 7d6+12 | Passo Sicuro |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Sangue Puro (2°) |
-| 10 | 5 | 5 | 10d6+15 | Animalia (3°) |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Animalia (3°) |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Figlia di Shayalia (2°) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Figlia di Shayalia (2°) |
 | 13 | 7 | 6 | 13d6+21 | Forma Elementale (2°) |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Sangue Puro (3°) |
-| 16 | 8 | 8 | 16d6+24 | Animalia (4°) |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Animalia (4°) |
 | 17 | 8 | 9 | 17d6+24 | |
-| 18 | 8 | 10 | 18d6+24 | Figlia di Shayalia (3°) |
+| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Figlia di Shayalia (3°) |
 | 19 | 8 | 11 | 19d6+24 | |
-| 20 | 8 | 12 | 20d6+24 | Figlia di Shayalia (4°) |
+| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Figlia di Shayalia (4°) |
 
 **Bardo Incantatore**
 
-| **Lv** | **Bardo Incantatore** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Bardo Incantatore** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Infondere Coraggio - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Incantatore da Combattimento |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Incantatore da Combattimento |
 | 3 | 2 | 1 | 3d6+6 | Infondere Paura |
-| 4 | 2 | 2 | 4d6+6 | Esperto |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Esperto |
 | 5 | 3 | 2 | 5d6+9 | Infondere Coraggio (2°) |
-| 6 | 3 | 3 | 6d6+9 | Litania versatile |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Litania versatile |
 | 7 | 4 | 3 | 7d6+12 | Concentrato |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Infondere Paura (2°) |
-| 10 | 5 | 5 | 10d6+15 | Guerriero della Magia |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Guerriero della Magia |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Infondere Coraggio (3°) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Infondere Coraggio (3°) |
 | 13 | 7 | 6 | 13d6+21 | Tutt'uno con la magia |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Litania versatile (2°) |
-| 16 | 8 | 8 | 16d6+24 | Magie Potenti |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Magie Potenti |
 | 17 | 8 | 9 | 17d6+24 | |
-| 18 | 8 | 10 | 18d6+24 | Infondere Energia Magica |
+| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Infondere Energia Magica |
 | 19 | 8 | 11 | 19d6+24 | |
-| 20 | 8 | 12 | 20d6+24 | Prodigioso |
+| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Prodigioso |
 
 **Bardo della Lama**
 
-| **Lv** | **Bardo della Lama** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Bardo della Lama** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Danza della Lama - Infondere Coraggio |
-| 2 | 2 | 0 | 2d6+6 | Arma Focalizzata |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Arma Focalizzata |
 | 3 | 3 | 0 | 3d6+9 | Tattico |
-| 4 | 4 | 0 | 4d6+12 | Danza della Lama (2°) |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Danza della Lama (2°) |
 | 5 | 5 | 0 | 5d6+15 | Fare Infuriare |
-| 6 | 6 | 0 | 6d6+18 | Danno Coordinato |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Danno Coordinato |
 | 7 | 7 | 0 | 7d6+21 | Danza della Lama (3°) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Infondere Coraggio (2°) |
-| 10 | 10 | 0 | 10d6+30 | Attacco Turbinante |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Attacco Turbinante |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Iaijutsu |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu |
 | 13 | 12 | 1 | 13d6+36 | Adepto della Magia |
-| 14 | 12 | 2 | 14d6+36 | |
+| \rowcolor{gray!20}14 | 12 | 2 | 14d6+36 | |
 | 15 | 12 | 3 | 15d6+36 | Danno Coordinato (2°) |
-| 16 | 12 | 4 | 16d6+36 | Guerriero della Magia |
+| \rowcolor{gray!20}16 | 12 | 4 | 16d6+36 | Guerriero della Magia |
 | 17 | 12 | 5 | 17d6+36 | |
-| 18 | 12 | 6 | 18d6+36 | Infondere Energia Magica |
+| \rowcolor{gray!20}18 | 12 | 6 | 18d6+36 | Infondere Energia Magica |
 | 19 | 12 | 7 | 19d6+36 | |
-| 20 | 12 | 8 | 20d6+36 | Litania versatile |
+| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | Litania versatile |
 
 **Monaco Mistico**
 
-| **Lv** | **Monaco Mistico** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Monaco Mistico** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Gru d'Argento - Energia Psichica |
-| 2 | 1 | 1 | 2d6+3 | Pugno di Ferro |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Pugno di Ferro |
 | 3 | 2 | 1 | 3d6+6 | Colpo Psichico |
-| 4 | 2 | 2 | 4d6+6 | Armatura della Montagna Incantata |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armatura della Montagna Incantata |
 | 5 | 3 | 2 | 5d6+9 | Gru d'Argento (2°) |
-| 6 | 3 | 3 | 6d6+9 | Pugno di Ferro (2°) |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Pugno di Ferro (2°) |
 | 7 | 4 | 3 | 7d6+12 | Passo rapido |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Colpo Psichico (2°) |
-| 10 | 5 | 5 | 10d6+15 | Raggio Psichico |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Raggio Psichico |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Volontà Ferrea |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Volontà Ferrea |
 | 13 | 7 | 6 | 13d6+21 | Pugno di Ferro (3°) |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Armatura della Montagna Incantata (2°) |
-| 16 | 8 | 8 | 16d6+24 | Tempesta di Furia |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Tempesta di Furia |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Gru d'Argento (3°) |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Gru d'Argento (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Ali della Fenice |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Ali della Fenice |
 
 **Devoto dell'occulto**
 
-| **Lv** | **Devoto dell'occulto** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Devoto dell'occulto** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Figlio di Tazher - Fedele |
-| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Il Patrono è con me |
-| 4 | 2 | 2 | 4d6+6 | Sifone Nero |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Sifone Nero |
 | 5 | 3 | 2 | 5d6+9 | Potere del Patrono |
-| 6 | 3 | 3 | 6d6+9 | Concentrato |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Concentrato |
 | 7 | 4 | 3 | 7d6+12 | Batteria Magica |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Il Patrono è con me (2°) |
-| 10 | 5 | 5 | 10d6+15 | Muro mentale |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Muro mentale |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Creare Oggetti Magici |
+| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Creare Oggetti Magici |
 | 13 | 5 | 8 | 13d6+15 | Fedele (2°) |
-| 14 | 5 | 9 | 14d6+15 | |
+| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Adepto della Magia (2°) |
-| 16 | 5 | 11 | 16d6+15 | Il Patrono è con me (3°) |
+| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Il Patrono è con me (3°) |
 | 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Magie Potenti |
+| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Un solo credo |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Un solo credo |
 
 **Magus**
 
-| **Lv** | **Magus** |  |  | **Abilità** |
+| \rowcolor{gray!20}	**Lv** | **Magus** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Incantatore da Combattimento |
-| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Guerriero della Magia |
-| 4 | 2 | 2 | 4d6+6 | Infondere Energia Magica |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Infondere Energia Magica |
 | 5 | 3 | 2 | 5d6+9 | Radici magiche |
-| 6 | 3 | 3 | 6d6+9 | Guerriero della Magia (2°) |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Guerriero della Magia (2°) |
 | 7 | 4 | 3 | 7d6+12 | Incantatore da Combattimento (2°) |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Infondere Energia Magica Superiore |
-| 10 | 5 | 5 | 10d6+15 | Un colpo un morto |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Un colpo un morto |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Guerriero della Magia (3°) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Guerriero della Magia (3°) |
 | 13 | 7 | 6 | 13d6+21 | Concentrato |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Guerriero della Magia (4°) |
-| 16 | 8 | 8 | 16d6+24 | Infondere Energia Magica Superiore (2°) |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Infondere Energia Magica Superiore (2°) |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Incantatore da Combattimento (3°) |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Incantatore da Combattimento (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Tutt'uno con la magia |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Tutt'uno con la magia |
 
 ---
 
@@ -5558,22 +5560,22 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 
 **Tabella: Tipi di Famiglio**
 
-| **Famiglio** | **Capacità acquisita dal padrone** |
+| \rowcolor{gray!20}**Famiglio** | **Capacità acquisita dal padrone** |
 | --- | --- |
 | Civetta | +2 alle prove di Arcana |
-| Corvo | +2 alle prove di Intimidire |
+| \rowcolor{gray!20}Corvo | +2 alle prove di Intimidire |
 | *Dobi* | +2 al Tiro Salvezza vs Ammaliamento |
-| Falco | +2 su Consapevolezza sulla vista |
+| \rowcolor{gray!20}Falco | +2 su Consapevolezza sulla vista |
 | Gatto | +2 alle prove di Furtività |
-| Gufo | +2 su Consapevolezza sul udito |
+| \rowcolor{gray!20}Gufo | +2 su Consapevolezza sul udito |
 | Lontra | +2 alle prove di Nuotare |
-| Lucertola | +2 alle prove di Sopravvivenza |
+| \rowcolor{gray!20}Lucertola | +2 alle prove di Sopravvivenza |
 | Pipistrello | +1 Tiro Salvezza su Tempra |
-| Ratto | +2 al Tiro Salvezza contro Malattie |
+| \rowcolor{gray!20}Ratto | +2 al Tiro Salvezza contro Malattie |
 | Riccio | +1 al Tiro Salvezza su Volontà |
-| Rospo | +2 al Tiro Salvezza su Veleno |
+| \rowcolor{gray!20}Rospo | +2 al Tiro Salvezza su Veleno |
 | Scimmia | +2 alle prove di Mani di Fata |
-| *Topi* | diventi il famiglio della Topi!!! |
+| \rowcolor{gray!20}*Topi* | diventi il famiglio della Topi!!! |
 | Volpe | +1 al Tiro Salvezza su Riflessi |
 
 Utilizzare le statistiche base di una creatura della specie del famiglio, apportando i seguenti cambiamenti.
@@ -5594,17 +5596,17 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 
 **Tabella: Abilità e Bonus del Famiglio**
 
-| **CM del Padrone** | **Difesa** | **Intelligenza** | **Speciale** |
+| \rowcolor{gray!20}**CM del Padrone** | **Difesa** | **Intelligenza** | **Speciale** |
 | 1-2 | +1 | 0 | Allerta, Condividere Incantesimi |
-|  |  | Legame Empatico |
+| \rowcolor{gray!20} |  |  | Legame Empatico |
 | 3-4 | +1 | +1 | Trasmettere Incantesimi a contatto |
-| 5-6 | +2 | +1 | Parlare con gli Animali della Sua Specie |
+| \rowcolor{gray!20}5-6 | +2 | +1 | Parlare con gli Animali della Sua Specie |
 | 7-8 | +3 | +1 | Parlare con il Padrone |
-| 9-10 | +3 | +2 | - |
+| \rowcolor{gray!20}9-10 | +3 | +2 | - |
 | 11-12 | +4 | +2 | Vedere attraverso Famiglio |
-| 13-14 | +5 | +2 | Trasmettere Incantesimi a contatto migliorato |
+| \rowcolor{gray!20}13-14 | +5 | +2 | Trasmettere Incantesimi a contatto migliorato |
 | 15-16 | +5 | +3 | - |
-| 17-18 | +6 | +3 | - |
+| \rowcolor{gray!20}17-18 | +6 | +3 | - |
 | 19-20 | +7 | +3 | - |
 
 **Competenza Magica del Padrone**: il numero indicato qui è il valore di Competenza Magica del padrone del famiglio.
@@ -5938,25 +5940,25 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 
 **Tabella: Effetti Fallimento Critico magico**
 
-| **Dadi** | **Effetti** |
+| \rowcolor{gray!20}**Dadi** | **Effetti** |
 | 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |
-| 2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
+| \rowcolor{gray!20}2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
 | 3 | Manifesti una modifica corporea minore |
-| 4 | Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 6 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 3d10 di danni da forza non resistibili |
+| \rowcolor{gray!20}4 | Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 6 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 3d10 di danni da forza non resistibili |
 | 5 | Per 3 round sei sotto l'influenza dell'incantesimo Confusione |
-| 6 | Per 1 minuto non sei più in grado di concentrarti e parli in rima |
+| \rowcolor{gray!20}6 | Per 1 minuto non sei più in grado di concentrarti e parli in rima |
 | 7 | Vieni teletrasportato di 3d10 metri in una direzione casuale |
-| 8 | Diventi Invisibile e paralizzato per 6 round |
+| \rowcolor{gray!20}8 | Diventi Invisibile e paralizzato per 6 round |
 | 9 | Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round |
-| 10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
+| \rowcolor{gray!20}10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
 | 11 | Manifesti l'incantesimo Unto sotto i tuoi piedi |
-| 12 | Il prossimo incantesimo che lanci ha effetti se possibile minimizzati |
+| \rowcolor{gray!20}12 | Il prossimo incantesimo che lanci ha effetti se possibile minimizzati |
 | 13 | Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri |
-| 14 | Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare |
+| \rowcolor{gray!20}14 | Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare |
 | 15 | Tutte le creature in una sfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto |
-| 16 | Guadagni 2d6 Punti Magia |
+| \rowcolor{gray!20}16 | Guadagni 2d6 Punti Magia |
 | 17 | Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri |
-| 18 | Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili |
+| \rowcolor{gray!20}18 | Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili |
 
 ## Modificare la Prova di Magia
 
@@ -5983,28 +5985,28 @@ I Punti Magia si recuperano tutti con 8 ore di riposo.
 
 **Tabella: Competenza Magica (CM) e Punti Magia (PM)**
 
-| **CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
+| \rowcolor{gray!20}**CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
 | 1 | 4 | 8 | 28 | 15 | 53 |
-| 2 | 7 | 9 | 32 | 16 | 56 |
+| \rowcolor{gray!20}2 | 7 | 9 | 32 | 16 | 56 |
 | 3 | 11 | 10 | 35 | 17 | 60 |
-| 4 | 14 | 11 | 39 | 18 | 63 |
+| \rowcolor{gray!20}4 | 14 | 11 | 39 | 18 | 63 |
 | 5 | 18 | 12 | 42 | 19 | 67 |
-| 6 | 21 | 13 | 46 | 20 | 70 |
+| \rowcolor{gray!20}6 | 21 | 13 | 46 | 20 | 70 |
 | 7 | 25 | 14 | 49 | 20+ | prec.+ 3 |
 
 PM = (CM × 3) + (CM ÷ 2 arrotondato per eccesso) + Modificatore Caratteristica
-
-## Incantesimi come Rituali
-
-Specialmente ai primi livelli può essere molto fastidioso non aver appreso un incantesimo pur avendolo a disposizione nel Tomo della Magia.
-
-L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magia e che sia entro il 3 livello ed entro il massimo livello di incantesimo lanciabile, allungandone il tempo di lancio ad 1 ora per costo in Punto Magia. In caso di incantesimo così lanciato non si usano Punti Magia, ma è necessario superare una Prova di Magia al termine della formulazione.
 
 >> **Scegliere gli Incantesimi**: Ogni incantesimo è un tesoro prezioso che si deve trovare ed imparare.
 
 Ogni incantesimo è alla stregua di un oggetto magico, un vero tesoro da cercare e ottenere!
 
 Dovrai intraprendere perigliose avventure, pagare mercenari, cercare i tomi antichi e svelare i segreti più oscuri e dimenticati per poter imparare nuovi incantesimi.
+
+## Incantesimi come Rituali
+
+Specialmente ai primi livelli può essere molto fastidioso non aver appreso un incantesimo pur avendolo a disposizione nel Tomo della Magia.
+
+L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magia e che sia entro il 3 livello ed entro il massimo livello di incantesimo lanciabile, allungandone il tempo di lancio ad 1 ora per costo in Punto Magia. In caso di incantesimo così lanciato non si usano Punti Magia, ma è necessario superare una Prova di Magia al termine della formulazione.
 
 ## Successo Critico Auto Magico
 
@@ -7263,11 +7265,11 @@ Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effe
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il raggio della sfera aumenta di 1 metro.
 
-| d10 | Comportamento |
+| \rowcolor{gray!20}d10 | Comportamento |
 | 1 | La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8 |
-| 2-5 | La creatura non fa nulla per tutto il round |
+| \rowcolor{gray!20}2-5 | La creatura non fa nulla per tutto il round |
 | 6 | La creatura effettua un attacco contro se stessa e finisce il round |
-| 7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
+| \rowcolor{gray!20}7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
 | 9-10 | La creatura può agire e muoversi normalmente. |
 
 ### Confusione Contagiosa
@@ -7530,11 +7532,11 @@ La durata dipende dal materiale dell'oggetto. Se l'oggetto è composto da più m
 
 Tabella Materiale - Durata
 
-| Materia vegetale | 1 giorno |
+| \rowcolor{gray!20}Materia vegetale | 1 giorno |
 | Pietra o cristallo | 12 ore |
-| Metalli preziosi | 1 ora |
+| \rowcolor{gray!20}Metalli preziosi | 1 ora |
 | Gemme | 10 minuti |
-| Adamantio o mithral | 1 minuto |
+| \rowcolor{gray!20}Adamantio o mithral | 1 minuto |
 
 Usare qualsiasi materiale creato da questo incantesimo come componente materiale di un altro incantesimo farà fallire il nuovo incantesimo.
 
@@ -8854,13 +8856,13 @@ La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare 
 
 	
 
-| **1d6** | **Energia** |
+| \rowcolor{gray!20}**1d6** | **Energia** |
 | 1 | Fuoco |
-| 2 | Elettricità |
+| \rowcolor{gray!20}2 | Elettricità |
 | 3 | Freddo |
-| 4 | Suono |
+| \rowcolor{gray!20}4 | Suono |
 | 5 | Vuoto |
-| 6 | Forza |
+| \rowcolor{gray!20}6 | Forza |
 
 Il danno che l'obiettivo subisce è del tipo di Energia che risulta dal primo d6. Se il primo dado è un 6 ed è 6 anche uno degli altri dadi allora tira nuovamente 1d6 e somma al danno.
 
@@ -10107,17 +10109,17 @@ La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razz
 
 	
 
-| **d10** | **Razza** |
+| \rowcolor{gray!20}**d10** | **Razza** |
 | 0 | Lupo/Aquila/Volpe/Lince (tirate 1d4) |
-| 1 | Nano |
+| \rowcolor{gray!20}1 | Nano |
 | 2 | Elfo |
-| 3 | Mezzelfo |
+| \rowcolor{gray!20}3 | Mezzelfo |
 | 4 | Mezzorco |
-| 5 | Cinghiale/Tasso/Cane/Ratto (tirate 1d4) |
+| \rowcolor{gray!20}5 | Cinghiale/Tasso/Cane/Ratto (tirate 1d4) |
 | 6 | Nibali |
-| 7 | Orso/Gufo/Procione/Gatto (tirate 1d4) |
+| \rowcolor{gray!20}7 | Orso/Gufo/Procione/Gatto (tirate 1d4) |
 | 8 | Umano |
-| 9 | Stessa razza precedente |
+| \rowcolor{gray!20}9 | Stessa razza precedente |
 
 La creatura reincarnata ricorda la sua vita e le sue esperienze passate (stesso punteggio di CA e CM, Abilità e Competenze). Mantiene le capacità che aveva nella sua forma originale se è in grado di applicarle.
 
@@ -10557,18 +10559,16 @@ In caso l'incantesimo venisse dissolto, sia la scritta originale che l'illusione
 Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo stesso piano di esistenza. Il bersaglio deve effettuare un Tiro Salvezza su Volontà, modificato da quanto bene conosci il bersaglio e la tua connessione fisica a esso. Se il bersaglio sa che stai lanciando l'incantesimo, può fallire volontariamente il Tiro Salvezza, in caso desiderasse essere osservato da
 te.
 
-	
-
-| **Conoscenza** | **Mod. al TS** |
+| \rowcolor{gray!20}**Conoscenza** | **Mod. al TS** |
 | --- | --- |
 | Ne hai sentito parlare | +4 |
-| Hai incontrato il bersaglio | +0 |
+| \rowcolor{gray!20}Hai incontrato il bersaglio | +0 |
 | Conosci bene il bersaglio | -4 |
 
-	
-| **Connessione** | **Mod. TS** |
+| \rowcolor{gray!20}**Connessione** | **Mod. TS** |
+| --- | --- |
 | Descrizione o immagine | -2 |
-| Proprietà o indumento | -4 |
+| \rowcolor{gray!20}Proprietà o indumento | -4 |
 | Parte del corpo (capelli...) | -10 |
 
 Se supera il Tiro Salvezza, il bersaglio ignora gli effetti dell'incantesimo, e non potrai usare di nuovo questo incantesimo contro di lui prima che siano passate 24 ore.
@@ -11016,13 +11016,13 @@ Il Narratore tira un d100 e consulta la tabella.
 - *Area Simile*. Tu e il tuo gruppo (o l'oggetto bersaglio) finite in un'area diversa che è visualmente o tematicamente simile all'area bersaglio. Per esempio, se sei diretto al tuo laboratorio personale, potresti finire nel laboratorio di un altro incantatore o in un negozio di oggetti alchemici che possiede molti degli attrezzi e strumenti del tuo laboratorio. In genere, compari nel luogo simile più vicino, ma dato che l'incantesimo non ha limiti di gittata, potresti finire praticamente dovunque sullo stesso piano.
 - *Errore*. L'imprevedibile magia dell'incantesimo provoca un viaggio difficile. Ogni creatura teletrasportata (o l'oggetto bersaglio) subisce 3d10 danni da forza, e il Narratore ritira sulla tabella per vedere dove finiscano (possono capitare più errori, che infliggono danni ogni volta).
 
-| d100 | Errore | Area Simile | Fuori Bersaglio | Sul Bersaglio |
+| \rowcolor{gray!20}d100 | Errore | Area Simile | Fuori Bersaglio | Sul Bersaglio |
 | Cerchio permanente | - | - | - | 01-100 |
-| Oggetto Associato | - | - | - | 01-100 |
+| \rowcolor{gray!20}Oggetto Associato | - | - | - | 01-100 |
 | Molto Familiare | 01-05 | 06-13 | 14-24 | 25-100 |
-| Visto per caso | 01-33 | 34-43 | 44-53 | 54-100 |
+| \rowcolor{gray!20}Visto per caso | 01-33 | 34-43 | 44-53 | 54-100 |
 | Visto una volta | 01-43 | 44-53 | 54-73 | 74-100 |
-| Descrizione | 01-43 | 44-53 | 54-73 | 74-100 |
+| \rowcolor{gray!20}Descrizione | 01-43 | 44-53 | 54-73 | 74-100 |
 | Falsa Destinazione | 01-50 | 51-100 | - | - |
 
 ### Tempesta di Fuoco
@@ -12438,12 +12438,12 @@ Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti li
 
 **Tabella Energia - Elementi**
 
-| **Positivi** (+1) | **Neutrali** (0) | **Negativi** (-1) |
+| \rowcolor{gray!20}**Positivi** (+1) | **Neutrali** (0) | **Negativi** (-1) |
 | --- | --- | --- |
 | En. Positiva | Fuoco | En. Negativa |
-| Luce | Freddo | Vuoto |
+| \rowcolor{gray!20}Luce | Freddo | Vuoto |
 | Suono | |
-| Elettricità | Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri. |
+| \rowcolor{gray!20} | Elettricità | Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri. |
 
 ### Miracoli, Interventi e Prodigi
 
@@ -13325,12 +13325,12 @@ Un personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per
 
 **Tabella: Equivalenza delle Monete**
 
-| **Moneta** | **MR** | **MA** | **ME** | **MO** | **MP** |
+| \rowcolor{gray!20}**Moneta** | **MR** | **MA** | **ME** | **MO** | **MP** |
 | --- | --- | --- | --- | --- | --- |
 | Rame | 1 | 1/10 | 1/50 | 1/100 | 1/1000 |
-| Argento | 10 | 1 | 1/5 | 1/10 | 1/100 |
+| \rowcolor{gray!20}Argento | 10 | 1 | 1/5 | 1/10 | 1/100 |
 | Electrum | 50 | 5 | 1 | 1/2 | 1/10 |
-| Oro | 100 | 10 | 2 | 1 | 1/10 |
+| \rowcolor{gray!20}Oro | 100 | 10 | 2 | 1 | 1/10 |
 | Platino | 1000 | 100 | 20 | 10 | 1 |
 
 Di solito pagamenti oltre le 100 monete d'oro avvengono in lingotti da 1, 2, 5 kilogrammi d'oro, equivalenti a 100, 200 e 500 monete d'oro o meglio ancora in gemme. In caso di somme ancora più cospicue è possibile che sia rilasciata una lettera di credito di qualche istituto bancario (ma valido in pochissime ed importanti città).
@@ -13344,17 +13344,17 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 	
 
-| **Costo** | **Oggetto** |
+| \rowcolor{gray!20}**Costo** | **Oggetto** |
 | 1 mr | Frumento (0.5 kg) |
-| 2 mr | Farina (0.5 kg) o pollo (1) |
+| \rowcolor{gray!20}2 mr | Farina (0.5 kg) o pollo (1) |
 | 1 ma | Ferro (0.5 kg) |
-| 1 mo | Cannella (0.5 kg) o capra |
+| \rowcolor{gray!20}1 mo | Cannella (0.5 kg) o capra |
 | 2 mo | Zenzero o pepe (0.5 kg) o pecora (1) |
-| 3 mo | Maiale (1) |
+| \rowcolor{gray!20}3 mo | Maiale (1) |
 | 4 mo | Lino (1 m\textsuperscript |
-| 5 mo | Sale o argento (0.5 kg) |
+| \rowcolor{gray!20}5 mo | Sale o argento (0.5 kg) |
 | 10 mo | Seta (1 m) o mucca (1) |
-| 15 mo | Zafferano(0.5 kg)/bue (1) |
+| \rowcolor{gray!20}15 mo | Zafferano(0.5 kg)/bue (1) |
 
 Consultate anche il capitolo sull'Ingombro (pag.  in Movimento e Trasporto.
 
@@ -13372,58 +13372,58 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 
 **Tabella: Lista della Armi**
 
-| **Arma** | **Costo** | **Dim./Danno** | **Gittata, Lista, Speciale** |
+| \rowcolor{gray!20}**Arma** | **Costo** | **Dim./Danno** | **Gittata, Lista, Speciale** |
 | --- | --- | --- | --- |
 | Alabarda | 10 | G/1d10 P/T | **Lance**, **Aste**, Controcarica, Arma lunga, ED9 |
-| Arco corto composito | note* | M/Frecce | 20 metri, **Archi** |
+| \rowcolor{gray!20}Arco corto composito | note* | M/Frecce | 20 metri, **Archi** |
 | Arco corto | 30 | M/1d6 P | 15 metri, **Archi** |
-| Arco lungo composito | note* | G/Frecce | 36 metri, **Archi** |
+| \rowcolor{gray!20}Arco lungo composito | note* | G/Frecce | 36 metri, **Archi** |
 | Arco lungo | 75 | G/Frecce | 20 metri, **Archi** |
-| Ascia martello | 16 | M/1d6 T/C | **Scuri e Accette** |
+| \rowcolor{gray!20}Ascia martello | 16 | M/1d6 T/C | **Scuri e Accette** |
 | Ascia ad una mano | 6 | M/1d6 T | 6 metri, **Scuri e Accette**, **Armi da Lancio**, Versatile |
-| Ascia da battaglia | 10 | G/1d10 T | **Scuri e Accette** |
+| \rowcolor{gray!20}Ascia da battaglia | 10 | G/1d10 T | **Scuri e Accette** |
 | Balestra ad una mano | 100 | M/Dardi | 6 metri, **Balestre** |
-| Balestra leggera | 35 | P/Dardi | 15 metri, **Armi Semplici**, **Balestre** |
+| \rowcolor{gray!20}Balestra leggera | 35 | P/Dardi | 15 metri, **Armi Semplici**, **Balestre** |
 | Balestra pesante | 50 | G/Dardi | 30 metri, **Balestre** |
-| Bastone | 3 | M/1d6 C | **Armi Semplici**, Arma lunga, Versatile, Parata |
+| \rowcolor{gray!20}Bastone | 3 | M/1d6 C | **Armi Semplici**, Arma lunga, Versatile, Parata |
 | Catena chiodata | 25 | G/2d4 P | 3 metri, **Palle rotanti**, Arma lunga |
-| Estoc | 25 | G/1d8 P | **Spade**, Arma lunga, Parata |
+| \rowcolor{gray!20}Estoc | 25 | G/1d8 P | **Spade**, Arma lunga, Parata |
 | Falce | 18 | G/2d4 P/T | **Armi della Morte**, Arma lunga |
-| Falcetto | 6 | P/1d6 T | **Armi della Morte** |
+| \rowcolor{gray!20}Falcetto | 6 | P/1d6 T | **Armi della Morte** |
 | Falcione in asta | 12 | G/1d10 P/T | **Lance**, Controcarica, Arma lunga, ED9 |
-| Falcione | 75 | M/2d4 T | **Armi Aggraziate**, ED7 |
+| \rowcolor{gray!20}Falcione | 75 | M/2d4 T | **Armi Aggraziate**, ED7 |
 | Fionda | - | P/1d4 B | 10 metri, **Armi da lancio** |
-| Flagello doppio | 90 | G/1d10 C | **Palle Rotanti**, **Armi doppie** |
+| \rowcolor{gray!20}Flagello doppio | 90 | G/1d10 C | **Palle Rotanti**, **Armi doppie** |
 | Flagello pesante | 15 | G/1d10 C | **Palle Rotanti** |
-| Flagello | 8 | M/1d8 C | **Palle Rotanti**, **Rompi Cranio** |
+| \rowcolor{gray!20}Flagello | 8 | M/1d8 C | **Palle Rotanti**, **Rompi Cranio** |
 | Frusta | 1 | M/1d3 T | **Palle Rotanti**, Arma lunga |
-| Giavellotto | 1 | P/1d6 P | 12 metri, **Armi Semplici**, **Aste**, **Armi da Lancio** |
+| \rowcolor{gray!20}Giavellotto | 1 | P/1d6 P | 12 metri, **Armi Semplici**, **Aste**, **Armi da Lancio** |
 | Grande ascia doppia | 25 | G/1d10 T | **Scuri e Accette**, **Armi doppie** |
-| Guanto chiodato | 5 | P/1d4 P | **Armi da Stordimento**, non letale |
+| \rowcolor{gray!20}Guanto chiodato | 5 | P/1d4 P | **Armi da Stordimento**, non letale |
 | Katana | 300 | M/1d10 T | **Armi letali**, ED9 |
-| Lancia da fante | 2 | M/1d8 P | 3 metri, **Lance**, Arma lunga, Controcarica |
+| \rowcolor{gray!20}Lancia da fante | 2 | M/1d8 P | 3 metri, **Lance**, Arma lunga, Controcarica |
 | Lancia | 10 | G/1d10 P | **Lance**, Arma lunga, Controcarica |
-| Machete | 10 | M/1d6 T | **Armi letali** |
+| \rowcolor{gray!20}Machete | 10 | M/1d6 T | **Armi letali** |
 | Maglio da guerra | 7 | G/1d10 C | **Rompi Cranio** |
-| Manganello | 1 | P/1d6 C | **Armi da stordimento**, non letale |
+| \rowcolor{gray!20}Manganello | 1 | P/1d6 C | **Armi da stordimento**, non letale |
 | Martello da guerra | 5 | M/1d8 C/P | 6 metri, **Rompi Cranio** |
-| Mazza leggera | 3 | P/1d6 C/T | **Armi Semplici**, **Armi Leggere**, **Rompi Cranio** |
+| \rowcolor{gray!20}Mazza leggera | 3 | P/1d6 C/T | **Armi Semplici**, **Armi Leggere**, **Rompi Cranio** |
 | Mazza flangiata | 5 | M/1d8 C/T | **Rompi Cranio** |
-| Mazza chiodata | 6 | M 1d8 C/P | **Armi Semplici**, **Rompi Cranio** |
+| \rowcolor{gray!20}Mazza chiodata | 6 | M 1d8 C/P | **Armi Semplici**, **Rompi Cranio** |
 | Picca leggera | 4 | M/1d4 P | **Armi della morte** |
-| Picca pesante | 8 | G/1d6 P | **Armi della morte**, Arma lunga |
+| \rowcolor{gray!20}Picca pesante | 8 | G/1d6 P | **Armi della morte**, Arma lunga |
 | Pugnale | 2 | P/1d4 P | 6 metri, **Armi Semplici**, **Armi leggere**, **Armi da Lancio** |
-| Pugno/Calcio | note* | P/1d4 C | Versatile |
+| \rowcolor{gray!20}Pugno/Calcio | note* | P/1d4 C | Versatile |
 | Scimitarra | 15 | M/1d6 T | **Armi Leggere**, **Armi Aggraziate**, Versatile |
-| Spada corta | 10 | P/1d6 P | **Armi Leggere**, **Spade**, Versatile, Parata |
+| \rowcolor{gray!20}Spada corta | 10 | P/1d6 P | **Armi Leggere**, **Spade**, Versatile, Parata |
 | Spada lunga | 15 | M/1d8 T | **Spade**, Parata |
-| Spada a due lame | 100 | G/1d8 T | **Armi doppie**, **Spade**, Parata |
+| \rowcolor{gray!20}Spada a due lame | 100 | G/1d8 T | **Armi doppie**, **Spade**, Parata |
 | Spada bastarda | 35 | M/1d8 T | **Spade**, Parata, 1d8 ad una mano, 2d6 a 2 mani |
-| Spada larga | 12 | M/2d4 T | **Spade**, Parata, 2d4 ad una mano, 1d10 a 2 mani |
+| \rowcolor{gray!20}Spada larga | 12 | M/2d4 T | **Spade**, Parata, 2d4 ad una mano, 1d10 a 2 mani |
 | Spadone a due mani | 50 | G/2d6 T | **Spade**, Parata |
-| Stocco | 20 | P/1d6 P | **Armi Leggere**, **Armi Aggraziate**, Versatile |
+| \rowcolor{gray!20}Stocco | 20 | P/1d6 P | **Armi Leggere**, **Armi Aggraziate**, Versatile |
 | Tridente | 15 | M/1d6 P/T | 3 metri, **Aste**, **Armi da Lancio**, Arma Lunga, Controcarica |
-| Urgrosh | 18 | M/1d6 T/P | **Lance**, **Armi doppie** |
+| \rowcolor{gray!20}Urgrosh | 18 | M/1d6 T/P | **Lance**, **Armi doppie** |
 
 Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
 
@@ -13431,14 +13431,14 @@ Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Gra
 
 	
 
-| **Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
+| \rowcolor{gray!20}**Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
 | --- | --- | --- |
 | Dardi da balestra (una mano, leggera) | 10/1 mo | 1d6 P |
-| Dardi per balestra (pesante) | 3/1 mo | 1d10 P |
+| \rowcolor{gray!20}Dardi per balestra (pesante) | 3/1 mo | 1d10 P |
 | Frecce da caccia (Arco Corto, Arco Lungo) | 20/1 mo | 1d6 P |
-| Frecce da guerra (Arco Lungo) | 10/1 mo | 1d8 P |
+| \rowcolor{gray!20}Frecce da guerra (Arco Lungo) | 10/1 mo | 1d8 P |
 | Biglie di Marmo (fionde) | 15/1 mo | 1d4 B |
-| Sasso (fionde) | - | 1d2 B |
+| \rowcolor{gray!20}Sasso (fionde) | - | 1d2 B |
 
 Una **Faretra** (piena o vuota) di Proiettili (Frecce o Dardi) ha **Ingombro** 2.
 
@@ -13565,28 +13565,28 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 
 **Tira e somma 2d10, consulta la tabella**
 
-| **\#** | **Effetto** |
+| \rowcolor{gray!20}**\#** | **Effetto** |
 | 2 | Il proiettile è difettoso, per fortuna non ci sono altri problemi. Costa una Azione togliere il proiettile inceppato. |
-| 3 | Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato. |
+| \rowcolor{gray!20}3 | Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato. |
 | 4 | L'aver mancato ti lascia esitante, perdi 1 Azione. |
 
-| **\#** | **Effetto** |
+| \rowcolor{gray!20}**\#** | **Effetto** |
 | 5 | Il mirino è impreciso. Il prossimo colpo ha -2 al Tiro per Colpire. |
-| 6 | Spari inavvertitamente due colpi/raffiche. Il secondo non colpisce nessuno e fa solo consumare proiettili. |
+| \rowcolor{gray!20}6 | Spari inavvertitamente due colpi/raffiche. Il secondo non colpisce nessuno e fa solo consumare proiettili. |
 | 7 | L'arma non è adeguatamente lubrificata. Inserire il prossimo caricatore costa 1 round intero. |
-| 8 | Il caricatore si sgancia/cade. Devi caricare un nuovo caricatore (2 Azioni) o recuperare e rimettere il precedente caricatore. |
+| \rowcolor{gray!20}8 | Il caricatore si sgancia/cade. Devi caricare un nuovo caricatore (2 Azioni) o recuperare e rimettere il precedente caricatore. |
 | 9 | Il rinculo è così forte che il personaggio cade a terra prono. |
-| 10 | Proiettile molto incastrato. Per liberare il colpo devi eseguire una prova di Artigianato DC 15, 1 round. |
+| \rowcolor{gray!20}10 | Proiettile molto incastrato. Per liberare il colpo devi eseguire una prova di Artigianato DC 15, 1 round. |
 | 11 | L'arma si surriscalda e non può essere usata fino alla fine del prossimo round. |
-| 12 | L'arma emette una fitta coltre di fumo attorno a te che fornisce copertura leggera verso te e da te verso gli altri. |
+| \rowcolor{gray!20}12 | L'arma emette una fitta coltre di fumo attorno a te che fornisce copertura leggera verso te e da te verso gli altri. |
 | 13 | Parziale ostruzione della canna. Il prossimo colpo/raffica sparato fa metà danno. |
-| 14 | Il grilletto si incastra. Costa 3 Azioni sparare il prossimo colpo/raffica. |
+| \rowcolor{gray!20}14 | Il grilletto si incastra. Costa 3 Azioni sparare il prossimo colpo/raffica. |
 | 15 | Il rinculo è tale che ti cade l'arma per terra entro 1d4 metri di distanza. |
-| 16 | Il proiettile è esploso nella canna. Per liberare il colpo devi eseguire una prova di Artigianato DC 17, 1d4 round. |
+| \rowcolor{gray!20}16 | Il proiettile è esploso nella canna. Per liberare il colpo devi eseguire una prova di Artigianato DC 17, 1d4 round. |
 | 17 | Colpisci un altro. Il colpo prende una traiettoria non voluta e colpisci una creatura a caso nella direzione del colpo. |
-| 18 | Il rumore è talmente forte che il personaggio è assordato per 1 minuto. |
+| \rowcolor{gray!20}18 | Il rumore è talmente forte che il personaggio è assordato per 1 minuto. |
 | 19 | Il proiettile è esploso nella canna danneggiandola. È necessaria una prova di Artigianato DC 21 per ripristinare l'arma, 1 turno. |
-| 20 | L'intero caricatore è esploso. Subisci danno come se metà dei proiettili rimasti nell'arma ti colpissero. L'arma e proiettili sono distrutti. |
+| \rowcolor{gray!20}20 | L'intero caricatore è esploso. Subisci danno come se metà dei proiettili rimasti nell'arma ti colpissero. L'arma e proiettili sono distrutti. |
 
 ---
 
@@ -13602,18 +13602,18 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 
 ### Tabella Armature
 
-| **Armatura** | **Costo** | **Difesa** | **Pen. Comp.** | **Tipo** | **Mov.** | **Prova Magia** | **Ingombro** |
+| \rowcolor{gray!20}**Armatura** | **Costo** | **Difesa** | **Pen. Comp.** | **Tipo** | **Mov.** | **Prova Magia** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Imbottita | 5 mo | 1 | 0 | L | 0 | - | 2 |
-| Cuoio | 10 mo | 2 | 0 | L | 0 | +4 | 2 |
+| \rowcolor{gray!20}Cuoio | 10 mo | 2 | 0 | L | 0 | +4 | 2 |
 | Cuoio rinforzato | 25 mo | 3 | 0 | L | 0 | +4 | 2 |
-| Giaco di Maglia | 15 mo | 4 | -1 | M | 0 | +8 | 4 |
+| \rowcolor{gray!20}Giaco di Maglia | 15 mo | 4 | -1 | M | 0 | +8 | 4 |
 | Scaglie | 50 mo | 5 | -1 | M | 0 | +8 | 4 |
-| Anelli | 150 mo | 6 | -1 | M | 0 | +8 | 4 |
+| \rowcolor{gray!20}Anelli | 150 mo | 6 | -1 | M | 0 | +8 | 4 |
 | Pettorale | 200 mo | 6 | -2 | M | 0 | +8 | 4 |
-| Bande | 250 mo | 7 | -2 | P | 0 | +16 | 8 |
+| \rowcolor{gray!20}Bande | 250 mo | 7 | -2 | P | 0 | +16 | 8 |
 | Mezza armatura | 1200 mo | 8 | -2 | P | 1 | +16 | 8 |
-| da Campo | 1350 mo | 9 | -3 | P | 2 | +16 | 8 |
+| \rowcolor{gray!20}da Campo | 1350 mo | 9 | -3 | P | 2 | +16 | 8 |
 | Completa | 1500 mo | 10 | -4 | P | 3 | +16 | 8 |
 
 **Costo**: è per un armatura di taglia media.
@@ -13734,14 +13734,14 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 	
 
-| **Scudi** | **Costo** | **Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
+| \rowcolor{gray!20}**Scudi** | **Costo** | **Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Scudo leggero di legno | 3 mo | +1 | 0 | +2 | L | 1 |
-| Scudo leggero di metallo | 9 mo | +1 | 0 | +2 | L | 1 |
+| \rowcolor{gray!20}Scudo leggero di metallo | 9 mo | +1 | 0 | +2 | L | 1 |
 | Scudo medio legno | 5 mo | +2 | 0 | +4 | M | 2 |
-| Scudo medio metallo | 12 mo | +2 | 0 | +4 | M | 2 |
+| \rowcolor{gray!20}Scudo medio metallo | 12 mo | +2 | 0 | +4 | M | 2 |
 | Scudo pesante di legno | 9mo | +3 | 1 | +6 | P | 4 |
-| Scudo pesante di metallo | 20 mo | +3 | 1 | +6 | P | 4 |
+| \rowcolor{gray!20}Scudo pesante di metallo | 20 mo | +3 | 1 | +6 | P | 4 |
 
 ### Indossare e Togliere Armature
 
@@ -13749,12 +13749,12 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 
 **Tabella: Tempi per indossare e togliere l'armatura**
 
-| **Tipo di Armatura** | **Indossare** | **Indossare in fretta** | **Togliere** |
+| \rowcolor{gray!20}**Tipo di Armatura** | **Indossare** | **Indossare in fretta** | **Togliere** |
 | --- | --- | --- | --- |
 | Scudo | 1 Azione | - | 1 Azione |
-| Imbottita, Cuoio, Cuoio rinforzata | 1 minuto | 3 round | - |
+| \rowcolor{gray!20}Imbottita, Cuoio, Cuoio rinforzata | 1 minuto | 3 round | - |
 | Giaco di Maglia | 1 minuto | 5 round | 5 round |
-| Scaglie, Anelli, Pettorale, Bande | 4 minuti | 1 minuto{*} | 1 minuto |
+| \rowcolor{gray!20}Scaglie, Anelli, Pettorale, Bande | 4 minuti | 1 minuto{*} | 1 minuto |
 | Mezza armatura, da Campo, Completa | 4 minuti{*}{*} | 4 minuti{*} | 1d4+1 minuti |
 
 {*} Se qualcuno aiuta, il tempo si dimezza. Un singolo personaggio che non sta facendo altro può aiutare uno o due personaggi adiacenti a lui. Due personaggi non possono aiutarsi l'un l'altro a indossare un'armatura contemporaneamente.
@@ -13805,161 +13805,161 @@ Come Narratore usate sempre il buon senso nelle richieste valutate bene la tipol
 
 In base alla tipologia di compagna potrebbero essere disponibili ulteriori oggetti quali armi da fuoco o alchemici.
 
-| **Oggetto** | **Costo** | **Ing.** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
 | Abaco | 2 mo | L |
-| Abito da Monaco | 5 mo | 1 |
+| \rowcolor{gray!20}Abito da Monaco | 5 mo | 1 |
 | Abito da artigiano | 1 mo | 1 |
-| Abito da contadino | 1 ma | 1 |
+| \rowcolor{gray!20}Abito da contadino | 1 ma | 1 |
 | Abito da cortigiano | 30 mo | 1 |
-| Abito da esploratore | 10 mo | 1 |
+| \rowcolor{gray!20}Abito da esploratore | 10 mo | 1 |
 | Abito da intrattenitore | 3 mo | 1 |
-| Abito da nobile | 75 mo | 2 |
+| \rowcolor{gray!20}Abito da nobile | 75 mo | 2 |
 | Abito da studioso | 5 mo | 1 |
-| Abito da viaggiatore | 1 mo | 2 |
+| \rowcolor{gray!20}Abito da viaggiatore | 1 mo | 2 |
 | Abito invernale | 8 mo | 2 |
-| Abito reale | 200 mo | 3 |
+| \rowcolor{gray!20}Abito reale | 200 mo | 3 |
 | Acido Intenso (ampolla) | 30 mo | L |
-| Acqua santa (ampolla) | 25 mo | L |
+| \rowcolor{gray!20}Acqua santa (ampolla) | 25 mo | L |
 | Ago da cucito | 5 ma | - |
-| Agrifoglio e vischio |  | - |
+| \rowcolor{gray!20}Agrifoglio e vischio |  | - |
 | Amo da pesca | 1 ma | - |
-| Ampolla (vuota) | 3 mr | L |
+| \rowcolor{gray!20}Ampolla (vuota) | 3 mr | L |
 | Anello con sigillo | 5 mo | - |
-| Anello per veleno | +20 mo | - |
+| \rowcolor{gray!20}Anello per veleno | +20 mo | - |
 | Antitossina (boccetta) | 50 mo | L |
-| Ariete portatile | 10 mo | 3 |
+| \rowcolor{gray!20}Ariete portatile | 10 mo | 3 |
 | Arnesi da artigiano | 5 mo | 2 |
-| Arnesi da scasso | 30 mo | 1 |
+| \rowcolor{gray!20}Arnesi da scasso | 30 mo | 1 |
 | Asta (3 m) | 5 mr | 2 |
-| Attrezzi da scalatore | 80 mo | 1 |
+| \rowcolor{gray!20}Attrezzi da scalatore | 80 mo | 1 |
 | Banchetto (a persona) | 10 mo | - |
-| Bandoliera | 3 mo | L |
+| \rowcolor{gray!20}Bandoliera | 3 mo | L |
 | Barca a remi | 50 mo | 12 |
-| Barcone | 3000 mo | - |
+| \rowcolor{gray!20}Barcone | 3000 mo | - |
 | Barile (vuoto) | 2 mo | 4 |
-| Bastone | 2 mo | 1 |
+| \rowcolor{gray!20}Bastone | 2 mo | 1 |
 | Bilancia da mercante | 2 mo | 1 |
-| Birra Boccale | 5 mr | L |
+| \rowcolor{gray!20}Birra Boccale | 5 mr | L |
 | Birra Caraffa | 2 ma | L |
-| Boccale di ceramica | 2 mr | L |
+| \rowcolor{gray!20}Boccale di ceramica | 2 mr | L |
 
-| **Oggetto** | **Costo** | **Ing.** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
 | Boccetta di inchiostro o pozione | 1 mo | L |
-| Borsa | 5 ma | L |
+| \rowcolor{gray!20}Borsa | 5 ma | L |
 | Alchimista (laboratorio) | 200 mo | 5 |
-| Borsa da cintura | 1 mo | L |
+| \rowcolor{gray!20}Borsa da cintura | 1 mo | L |
 | Borsa da Guaritore | 20 mo | 1 |
-| Borsa dei Componenti | 25 mo | L |
+| \rowcolor{gray!20}Borsa dei Componenti | 25 mo | L |
 | Bottiglia di vetro | 2 mo | L |
-| Brocca di ceramica (5lt) | 2 mr | L |
+| \rowcolor{gray!20}Brocca di ceramica (5lt) | 2 mr | L |
 | Campanella | 1 mo | - |
-| Candela | 1 mr | - |
+| \rowcolor{gray!20}Candela | 1 mr | - |
 | Canna da pesca | 1 mo | 1 |
-| Cannocchiale | 900 mo | 1 |
+| \rowcolor{gray!20}Cannocchiale | 900 mo | 1 |
 | Caraffa di ceramica | 2 mr | L |
-| Carne (1 pezzo) | 3 ma | L |
+| \rowcolor{gray!20}Carne (1 pezzo) | 3 ma | L |
 | Carretto | 15 mo | 10 |
-| Carro | 35 mo | - |
+| \rowcolor{gray!20}Carro | 35 mo | - |
 | Carrozza | 300 mo | - |
-| Carrucola e paranco | 20 mo | 2 |
+| \rowcolor{gray!20}Carrucola e paranco | 20 mo | 2 |
 | Carta (foglio) | 4 ma | - |
-| Cassa (vuota) | 2 mo | 3 |
+| \rowcolor{gray!20}Cassa (vuota) | 2 mo | 3 |
 | Catena (3 m) | 30 mo | 1 |
-| Ceralacca | 1 mo | - |
+| \rowcolor{gray!20}Ceralacca | 1 mo | - |
 | Cerata | 5 ma | 1 |
-| Cesto (vuoto) | 4 ma | 1 |
+| \rowcolor{gray!20}Cesto (vuoto) | 4 ma | 1 |
 | Chiodo da rocciatore | 1 ma | L |
-| Cintura porta oggetti | 2 mo | L |
+| \rowcolor{gray!20}Cintura porta oggetti | 2 mo | L |
 | Clessidra | 25 mo | - |
-| Coperta invernale | 5 ma | 1 |
+| \rowcolor{gray!20}Coperta invernale | 5 ma | 1 |
 | Corda di canapa (15 m) | 1 mo | 1 |
-| Corda di canapa grossa (15 m) | 2 mo | 2 |
+| \rowcolor{gray!20}Corda di canapa grossa (15 m) | 2 mo | 2 |
 | Corda di seta di ragno (15 m) | 10 mo | L |
-| Cote per affilare | 2 mr | L |
+| \rowcolor{gray!20}Cote per affilare | 2 mr | L |
 | Custodia per pergamene | 1 mo | 1 |
-| Esca ed Acciarino | 5 ma | L |
+| \rowcolor{gray!20}Esca ed Acciarino | 5 ma | L |
 | Faretra | 3 mo | 1 |
-| Fischietto | 8 ma | - |
+| \rowcolor{gray!20}Fischietto | 8 ma | - |
 | Formaggio (1 pezzo) | 1 ma | - |
-| Forziere | 5 mo | 4 |
+| \rowcolor{gray!20}Forziere | 5 mo | 4 |
 | Fuoco dell'Alchimista (ampolla) | 20 mo | L |
-| Galea | 30k mo | - |
+| \rowcolor{gray!20}Galea | 30k mo | - |
 | Gancio di metallo | 1 mo | L |
-| Gessetto (1 pezzo) | 1 mr | - |
+| \rowcolor{gray!20}Gessetto (1 pezzo) | 1 mr | - |
 | Giaciglio | 1 ma | 1 |
-| Inchiostro (boccetta da 30 g) | 8 mo | - |
+| \rowcolor{gray!20}Inchiostro (boccetta da 30 g) | 8 mo | - |
 | Lanterna | 1 mo | 2 |
-| Lanterna a lente sporgente | 12 mo | 1 |
+| \rowcolor{gray!20}Lanterna a lente sporgente | 12 mo | 1 |
 | Lanterna schermabile | 7 mo | 1 |
-| Legna da ardere (per giorno) | 1 mr | 4 |
+| \rowcolor{gray!20}Legna da ardere (per giorno) | 1 mr | 4 |
 | Lente del cacciatore | 100 mo | - |
-| Locanda Buona (dormire) | 2 mo | - |
+| \rowcolor{gray!20}Locanda Buona (dormire) | 2 mo | - |
 | Locanda Modesta (dormire) | 5 ma | - |
-| Locanda Scadente (dormire) | 1 ma | - |
+| \rowcolor{gray!20}Locanda Scadente (dormire) | 1 ma | - |
 | Maglio | 1 mo | 2 |
-| Martello | 5 ma | 1 |
+| \rowcolor{gray!20}Martello | 5 ma | 1 |
 | Morso e briglie | 2 mo | 1 |
-| Nave a vela | 10k mo | - |
+| \rowcolor{gray!20}Nave a vela | 10k mo | - |
 | Nave da guerra | 25k mo | - |
-| Nave lunga | 10k mo | - |
+| \rowcolor{gray!20}Nave lunga | 10k mo | - |
 | Olio da lanterna | 1 ma | 1 |
-| Orologio ad acqua | 900 mo | - |
+| \rowcolor{gray!20}Orologio ad acqua | 900 mo | - |
 | Otre | 1 mo | 2 |
 
-| **Oggetto** | **Costo** | **Ing.** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
 | Manette | 15 mo | L |
-| Pala o badile | 2 mo | 1 |
+| \rowcolor{gray!20}Pala o badile | 2 mo | 1 |
 | Pane (a pagnotta) | 2 mr | - |
-| Pasti (al giorno) Buono | 5 ma | - |
+| \rowcolor{gray!20}Pasti (al giorno) Buono | 5 ma | - |
 | Pasti (al giorno) Modesto | 3 ma | - |
-| Pasti (al giorno) Povero | 6 mr | - |
+| \rowcolor{gray!20}Pasti (al giorno) Povero | 6 mr | - |
 | Peluche | 2 ma | - |
-| Pennino | 1 ma | - |
+| \rowcolor{gray!20}Pennino | 1 ma | - |
 | Pentola di ferro | 8 ma | 1 |
-| Pergamena (Foglio) | 2 ma | - |
+| \rowcolor{gray!20}Pergamena (Foglio) | 2 ma | - |
 | Piccone da minatore | 3 mo | 2 |
-| Piede di porco | 2 mo | 1 |
+| \rowcolor{gray!20}Piede di porco | 2 mo | 1 |
 | Pozione di Cura | 50 mo | L |
-| Pozione di Cura potenziata | 125 mo | L |
+| \rowcolor{gray!20}Pozione di Cura potenziata | 125 mo | L |
 | Profumo | 5 mo | L |
-| Rampino | 1 mo | 1 |
+| \rowcolor{gray!20}Rampino | 1 mo | 1 |
 | Razioni da viaggio (al giorno) | 3 ma | L |
-| Remo | 2 mo | 2 |
+| \rowcolor{gray!20}Remo | 2 mo | 2 |
 | Rete da pesca (2,25 m) | 4 mo | 1 |
-| Sacche da sella | 4 mo | 2 |
+| \rowcolor{gray!20}Sacche da sella | 4 mo | 2 |
 | Sacco (vuoto) | 1 ma | L |
-| Sacco a pelo | 3 mo | 2 |
+| \rowcolor{gray!20}Sacco a pelo | 3 mo | 2 |
 | Sapone (per 0,5 kg) | 5 ma | - |
-| Scala a pioli (3 m) | 2 ma | 3 |
+| \rowcolor{gray!20}Scala a pioli (3 m) | 2 ma | 3 |
 | Secchio (vuoto) | 5 ma | L |
-| Sella Da galoppo | 30 mo | 2 |
+| \rowcolor{gray!20}Sella Da galoppo | 30 mo | 2 |
 | Sella da carico | 15 mo | 2 |
-| Sella esotica | 60 mo | 3 |
+| \rowcolor{gray!20}Sella esotica | 60 mo | 3 |
 | Sella Militare | 50 mo | 3 |
-| Serratura/lucchetto Media | 40 mo | - |
+| \rowcolor{gray!20}Serratura/lucchetto Media | 40 mo | - |
 | Serratura/lucchetto Semplice | 20 mo | - |
-| Serratura/lucchetto Superiore | 150 mo | - |
+| \rowcolor{gray!20}Serratura/lucchetto Superiore | 150 mo | - |
 | Sfere Metalliche (100) | 3 mo | 1 |
-| Simbolo sacro d'argento | 25 mo | L |
+| \rowcolor{gray!20}Simbolo sacro d'argento | 25 mo | L |
 | Simbolo sacro di legno | 1 mo | L |
-| Slitta | 20 mo | 3 |
+| \rowcolor{gray!20}Slitta | 20 mo | 3 |
 | Specchio piccolo di metallo | 10 mo | L |
-| Stallaggio (al giorno) | 1 ma | - |
+| \rowcolor{gray!20}Stallaggio (al giorno) | 1 ma | - |
 | Strumento musicale comune | 5 mo | 2 |
-| Tagliola | 5 mo | 3 |
+| \rowcolor{gray!20}Tagliola | 5 mo | 3 |
 | Tela (per mq) | 1 ma | L |
-| Tenda | 10 mo | 3 |
+| \rowcolor{gray!20}Tenda | 10 mo | 3 |
 | Torcia | 1 ma | 1 |
-| Trappola da Caccia | 12 mo | 2 |
+| \rowcolor{gray!20}Trappola da Caccia | 12 mo | 2 |
 | Tribolo (20) | 1 ma | L |
-| Trucchi per il camuffamento | 50 mo | L |
+| \rowcolor{gray!20}Trucchi per il camuffamento | 50 mo | L |
 | Vanga o Badile | 1 mo | 1 |
-| Veste da Devoto | 5 mo | 1 |
+| \rowcolor{gray!20}Veste da Devoto | 5 mo | 1 |
 | Vino Buono (bottiglia) | 10 mo | 1 |
-| Vino della casa (caraffa) | 2 ma | 1 |
+| \rowcolor{gray!20}Vino della casa (caraffa) | 2 ma | 1 |
 | Zaino | 2 mo | 1 |
 
 > Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
@@ -14088,14 +14088,14 @@ Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può
 
 ### Capienza dei Contenitori
 
-| **Oggetto** | **Capienza** | **CdC** | **Oggetto** | **Capienza** | **CdC** |
+| \rowcolor{gray!20}**Oggetto** | **Capienza** | **CdC** | **Oggetto** | **Capienza** | **CdC** |
 | --- | --- | --- | --- | --- | --- |
 | Borsa | 1 cubo con spigolo di 30 cm/3 kg di equipaggiamento | 1 | Barile | 160 litri liquidi, 4 cubi con spigolo di 30 cm | 35 |
-| Boccale | 0,5 litri | L | Bottiglia | 1 litro di liquido | L |
+| \rowcolor{gray!20}Boccale | 0,5 litri | L | Bottiglia | 1 litro di liquido | L |
 | Secchio | 12 litri liquidi, 1 cubo con spigolo di 25 cm | 3 | Canestro | 2 cubi con spigolo di 30 cm/20 kg di equipaggiamento | 5 |
-| Sacco | 1 cubo con spigolo di 30 cm/15 kg di equipaggiamento | 3 | Forziere | 12 cubi con spigolo di 30 cm/150 kg di equipaggiamento | 35 |
+| \rowcolor{gray!20}Sacco | 1 cubo con spigolo di 30 cm/15 kg di equipaggiamento | 3 | Forziere | 12 cubi con spigolo di 30 cm/150 kg di equipaggiamento | 35 |
 | Fiala | 120 ml di liquidi | L | Otre | 2 litri liquidi | 1 |
-| Caraffa | 4 litri liquidi | 2 | Zaino | 2 cubi con spigolo di 30 cm/30 kg di equipaggiamento | 6 |
+| \rowcolor{gray!20}Caraffa | 4 litri liquidi | 2 | Zaino | 2 cubi con spigolo di 30 cm/30 kg di equipaggiamento | 6 |
 
 Esiste anche la versione dello Zaino Perfetto (+100 mo) che concede un +2 al valore di Ingombro trasportabile.
 
@@ -14109,24 +14109,24 @@ Ad esempio una prova di *Calligrafia* si risolve con una prova di Saggezza, se i
 
 Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici ha un bonus di +2.
 
-| **Oggetto** | **Costo** | **Ing.** | **Oggetto** | **Costo** | **Ing.** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** | **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- | --- | --- | --- |
 | Arnesi da Scasso/da Falsario | 25 mo | 1 | Borsa da Erborista | 5 mo | 1 |
-| Dadi | 1 ma | - | Mazzo di Carte | 5 ma | - |
+| \rowcolor{gray!20}Dadi | 1 ma | - | Mazzo di Carte | 5 ma | - |
 | Sostanze da Avvelenatore | 50 mo | 1 | Scorte da Alchimista | 50 mo | 2 |
-| Scorte da Calligrafo | 10 mo | 1 | Scorte da Mescitore | 20 mo | 2 |
+| \rowcolor{gray!20}Scorte da Calligrafo | 10 mo | 1 | Scorte da Mescitore | 20 mo | 2 |
 | Strumenti da Calzolaio | 5 mo | 2 | Strumenti da Cartografo | 15 mo | 2 |
-| Strumenti da Conciatore | 5 mo | 2 | Strumenti da Costruttore | 10 mo | 2 |
+| \rowcolor{gray!20}Strumenti da Conciatore | 5 mo | 2 | Strumenti da Costruttore | 10 mo | 2 |
 | Strumenti da Fabbro | 20 mo | 3 | Strumenti da Falegname | 8 mo | 2 |
-| Strumenti da Gioielliere | 25 mo | 1 | Strumenti da Intagliatore | 1 mo | 2 |
+| \rowcolor{gray!20}Strumenti da Gioielliere | 25 mo | 1 | Strumenti da Intagliatore | 1 mo | 2 |
 | Strumenti da Inventore | 50 mo | 2 | Strumenti da Pittore | 10 mo | 1 |
-| Strumenti da Soffiatore | 30 mo | 2 | Strumenti da Tessitore | 1 mo | 2 |
+| \rowcolor{gray!20}Strumenti da Soffiatore | 30 mo | 2 | Strumenti da Tessitore | 1 mo | 2 |
 | Strumenti da Vasaio | 10 mo | 2 | Utensili da Cuoco | 1 mo | 2 |
-| Strumenti da Navigatore | 25 mo | 2 | Lira | 30 mo | 1 |
+| \rowcolor{gray!20}Strumenti da Navigatore | 25 mo | 2 | Lira | 30 mo | 1 |
 | Cornamusa | 30 mo | 1 | Corno | 3 mo | L |
-| Dulcimer | 25 mo | 2 | Flauto | 2 mo | L |
+| \rowcolor{gray!20}Dulcimer | 25 mo | 2 | Flauto | 2 mo | L |
 | Flauto di Pan | 12 mo | L | Ciaramella | 1 mo | 2 |
-| Liuto | 35 mo | 1 | Tamburo | 6 mo | 1 |
+| \rowcolor{gray!20}Liuto | 35 mo | 1 | Tamburo | 6 mo | 1 |
 | Viola | 30 mo | 1 | Trucchi per il Camuffamento | 25 mo | 1 |
 
 ### Cavalcature e Veicoli
@@ -14147,50 +14147,50 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 **Tabella: Cavalcature e Altri Animali**
 
-| **Cavalcatura** | **Costo** |
+| \rowcolor{gray!20}**Cavalcatura** | **Costo** |
 | --- | --- |
 | Cammello | 50 mo |
-| Elefante | 500 mo |
+| \rowcolor{gray!20}Elefante | 500 mo |
 | Mastino | 25 mo |
-| Saurovallo da Galoppo | 75 mo |
+| \rowcolor{gray!20}Saurovallo da Galoppo | 75 mo |
 | Saurovallo da Guerra | 400 mo |
-| Saurovallo da Tiro | 50 mo |
+| \rowcolor{gray!20}Saurovallo da Tiro | 50 mo |
 | Saurovallo nano | 30 mo |
 
 **Finimenti e Veicoli da Tiro**
 
-| **Oggetto** | **Costo** | **Peso** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Peso** |
 | --- | --- | --- |
 | Bardatura | x4 | x2 |
-| Biga | 250 mo | 50 kg |
+| \rowcolor{gray!20}Biga | 250 mo | 50 kg |
 | Bisacce | 4 mo | 4 kg |
-| Carretto | 15 mo | 100 kg |
+| \rowcolor{gray!20}Carretto | 15 mo | 100 kg |
 | Carro | 35 mo | 200 kg |
-| Carrozza | 300 mo | 300 kg |
+| \rowcolor{gray!20}Carrozza | 300 mo | 300 kg |
 | Morso e Briglie | 2 mo | 0,5 kg |
-| Nutrimento (al giorno) | 5 mr | 2 kg |
+| \rowcolor{gray!20}Nutrimento (al giorno) | 5 mr | 2 kg |
 
 ### Servizi
 
 **Sella**
 
-| **Oggetto** | **Costo** | **Peso** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Peso** |
 | --- | --- | --- |
 | Da Carico | 15 mo | 7,5 kg |
-| Da Galoppo | 30 mo | 12,5 kg |
+| \rowcolor{gray!20}Da Galoppo | 30 mo | 12,5 kg |
 | Esotica | 60 mo | 20 kg |
-| Militare | 50 mo | 15 kg |
+| \rowcolor{gray!20}Militare | 50 mo | 15 kg |
 | Slitta | 20 mo | 150 kg |
-| Stallaggio (al giorno) | 1 ma | **Imbarcazioni** |
+| \rowcolor{gray!20}Stallaggio (al giorno) | 1 ma | **Imbarcazioni** |
 
-| **Oggetto** | **Costo** | **Velocità** |
+| \rowcolor{gray!20}**Oggetto** | **Costo** | **Velocità** |
 | --- | --- | --- |
 | Barca a Remi | 50 mo | 2,25 km orari |
-| Barcone | 3000 mo | 1,5 km orari |
+| \rowcolor{gray!20}Barcone | 3000 mo | 1,5 km orari |
 | Galea | 30000 mo | 6 km orari |
-| Nave a Vela | 10000 mo | 3 km orari |
+| \rowcolor{gray!20}Nave a Vela | 10000 mo | 3 km orari |
 | Nave da Guerra | 25000 mo | 3,75 km orari |
-| Nave Lunga | 10000 mo | 4,5 km orari |
+| \rowcolor{gray!20}Nave Lunga | 10000 mo | 4,5 km orari |
 
 Gli avventurieri possono pagare i personaggi non giocanti affinché li aiutino o agiscano in loro vece nelle circostanze più disparate. La maggior parte di questi gregari è dotata di abilità pressoché ordinarie, mentre altri hanno padroneggiato un'arte o un mestiere e alcuni si sono specializzati in qualche abilità da avventuriero.
 
@@ -14199,14 +14199,14 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 **Servizi**
 
-| **Servizio** | **Costo** |
+| \rowcolor{gray!20}**Servizio** | **Costo** |
 | --- | --- |
 | Carrozza all'interno di una città | 5 mr/1 km |
-| Carrozza tra due paesi | 1 ma/1 km |
+| \rowcolor{gray!20}Carrozza tra due paesi | 1 ma/1 km |
 | Gregario Abile | 2 mo al giorno |
-| Gregario Inesperto | 5 ma al giorno |
+| \rowcolor{gray!20}Gregario Inesperto | 5 ma al giorno |
 | Messaggero | 5 mr/1,5 km |
-| Passaggio in nave | 1 ma/1,5 km |
+| \rowcolor{gray!20}Passaggio in nave | 1 ma/1,5 km |
 | Pedaggio di ingresso | 5 mr/5 ma |
 
 ### Servizi Magici
@@ -14311,12 +14311,12 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 	
 
-| **Stile** | **Prezzo** | **Stile** | **Prezzo** |
+| \rowcolor{gray!20}**Stile** | **Prezzo** | **Stile** | **Prezzo** |
 | --- | --- | --- | --- |
 | Miserabile | - | Squallido | 1 ma |
-| Povero | 2 ma | Modesto | 1 mo |
+| \rowcolor{gray!20}Povero | 2 ma | Modesto | 1 mo |
 | Agiato | 2 mo | Ricco | 4 mo |
-| Aristocratico | 10+ mo | Regale | 50 mo+ |
+| \rowcolor{gray!20}Aristocratico | 10+ mo | Regale | 50 mo+ |
 
 ---
 
@@ -14338,14 +14338,14 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 ### Acciaio Vivente
 
-| **Tipo di oggetto** | **Mod. al costo** |
+| \rowcolor{gray!20}**Tipo di oggetto** | **Mod. al costo** |
 | --- | --- |
 | per Munizione | +40 mo |
-| Arma | +1000 mo |
+| \rowcolor{gray!20}Arma | +1000 mo |
 | Armatura leggera | +3000 mo |
-| Armatura media | +8000 mo |
+| \rowcolor{gray!20}Armatura media | +8000 mo |
 | Armatura pesante | +12000 mo |
-| Scudo | +600 mo |
+| \rowcolor{gray!20}Scudo | +600 mo |
 | Altri oggetti | 3000 mo/kg |
 
 Un albero di acciaio vivente si caratterizza dal un legno particolarmente duro alla stregua dell'acciaio. L'origine di questi alberi rimane un mistero per quasi tutti. Un albero di acciaio vivente è un normale albero piantato da un Devoto di Efrem o Shayalia che è stato dal Devoto benedetto.
@@ -14356,14 +14356,14 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 ### Adamantio
 
-| **Tipo di oggetto** | **Mod. al costo** |
+| \rowcolor{gray!20}**Tipo di oggetto** | **Mod. al costo** |
 | --- | --- |
 | per Munizione | +60 mo |
-| Arma | +1500 mo |
+| \rowcolor{gray!20}Arma | +1500 mo |
 | Armatura leggera | +5000 mo |
-| Armatura media | +10000 mo |
+| \rowcolor{gray!20}Armatura media | +10000 mo |
 | Armatura pesante | +15000 mo |
-| Scudo | +1000 mo |
+| \rowcolor{gray!20}Scudo | +1000 mo |
 | Altri oggetti | 5000 mo/kg |
 
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualità di un'arma o di un'armatura.
@@ -14374,12 +14374,12 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 
 ### Argento Alchemico
 
-| **Tipo di Oggetto** | **Mod. al costo** |
+| \rowcolor{gray!20}**Tipo di Oggetto** | **Mod. al costo** |
 | --- | --- |
 | per Munizione | +2 mo |
-| Arma leggera | +20 mo |
+| \rowcolor{gray!20}Arma leggera | +20 mo |
 | Arma media | +90 mo |
-| Arma pesante | +180 mo |
+| \rowcolor{gray!20}Arma pesante | +180 mo |
 | Scudo | +100 mo |
 
 Il processo di argentatura alchemica può essere applicato solo alle armi metalliche e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo ed il mithral.
@@ -14398,12 +14398,12 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 ### Mithral
 
-| **Tipo di Oggetto** | **Mod. al costo** |
+| \rowcolor{gray!20}**Tipo di Oggetto** | **Mod. al costo** |
 | --- | --- |
 | Armatura leggera | +1000 mo |
-| Armatura media | +4000 mo |
+| \rowcolor{gray!20}Armatura media | +4000 mo |
 | Armatura pesante | +9000 mo |
-| Scudo | +1000 mo |
+| \rowcolor{gray!20}Scudo | +1000 mo |
 | Altri oggetti | +1000 mo/kg |
 
 Il mithral è un metallo molto raro, luccicante, simile all'argento, più leggero del ferro ma altrettanto duro. Quando viene lavorato come l'acciaio, diventa un meraviglioso materiale con cui creare armature e occasionalmente anche per altri oggetti. La maggior parte delle armature in mithral è più leggera di una categoria ed è più agevole per il movimento e le altre limitazioni. Le armature pesanti sono trattate come armature medie, e le armature medie sono trattate come leggere, ma le armature leggere restano leggere.
@@ -14445,16 +14445,16 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 **Tabella: Taglia e Difesa degli Oggetti - Colpire un Oggetto**
 
-| **Taglia** | **Mod. Difesa** | **Dimensioni** |
+| \rowcolor{gray!20}**Taglia** | **Mod. Difesa** | **Dimensioni** |
 | --- | --- | --- |
 | Colossale | -8 | 18m+ |
-| Mastodontica | -6 | 9-18m |
+| \rowcolor{gray!20}Mastodontica | -6 | 9-18m |
 | Enorme | -4 | 4-9m |
-| Grande | -2 | 2.4-4m |
+| \rowcolor{gray!20}Grande | -2 | 2.4-4m |
 | Media | +0 | 1.2-2.4m |
-| Piccola | +2 | 60-120cm |
+| \rowcolor{gray!20}Piccola | +2 | 60-120cm |
 | Minuscola | +4 | 30-60cm |
-| Minuta | +6 | 15-30cm |
+| \rowcolor{gray!20}Minuta | +6 | 15-30cm |
 | Piccolissima | +8 | 5-20cm |
 
 **Modificatore Difesa**
@@ -14473,22 +14473,22 @@ Vedi anche Tabella: Porte, pag.
 
 **Tabella: Durezza e Punti Ferita oggetti**
 
-| **Materiale** | **Dur.** | **PF** | **DC** | **Oggetti di Esempio** |
+| \rowcolor{gray!20}**Materiale** | **Dur.** | **PF** | **DC** | **Oggetti di Esempio** |
 | --- | --- | --- | --- | --- |
 | Carta, Vetro, Stoffa | 0 | 1 | 3 | Fogli di carta, vetro di finestra, stoffa leggera |
-| Vetro | 1 | 4 | 6 | Blocco di vetro, tavolo di vetro, vaso pesante |
+| \rowcolor{gray!20}Vetro | 1 | 4 | 6 | Blocco di vetro, tavolo di vetro, vaso pesante |
 | Stoffa pesante | 1 | 4 | 12 | Armatura di stoffa, giacca pesante, sacco, tenda |
-| Legno sottile | 3 | 12 | 14 | Sedia |
+| \rowcolor{gray!20}Legno sottile | 3 | 12 | 14 | Sedia |
 | Legno | 5 | 20 | 18 | Baule, tavolo |
-| Corda, Cuoio | 2 | 4 | 19 | Corda di canapa |
+| \rowcolor{gray!20}Corda, Cuoio | 2 | 4 | 19 | Corda di canapa |
 | Pietra sottile | 4 | 16 | 20 | Ardesia, mattonelle, baule leggero |
-| Struttura in legno | 10 | 40 | 20 | Muro di legno, forziere |
+| \rowcolor{gray!20}Struttura in legno | 10 | 40 | 20 | Muro di legno, forziere |
 | Cuoio rinforzato | 4 | 16 | 22 | Armatura di cuoio, sella, corda di canapa grossa |
-| Acciaio o ferro sottile | 5 | 20 | 23 | Corda di seta, scudo d'acciaio, spada corta |
+| \rowcolor{gray!20}Acciaio o ferro sottile | 5 | 20 | 23 | Corda di seta, scudo d'acciaio, spada corta |
 | Acciaio o ferro | 9 | 36 | 26 | Catena, Armatura di metallo, forziere rinforzato |
-| Struttura in pietra | 14 | 56 | 35 | Muro di pietra, spada lunga |
+| \rowcolor{gray!20}Struttura in pietra | 14 | 56 | 35 | Muro di pietra, spada lunga |
 | Pietra | 7 | 28 | 35 | Pietra per lastricato, statua |
-| Struttura in acciaio o ferro | 18 | 90 | 45 | Muro di piastre di ferro, spadone a due mani |
+| \rowcolor{gray!20}Struttura in acciaio o ferro | 18 | 90 | 45 | Muro di piastre di ferro, spadone a due mani |
 
 ## Danneggiare gli oggetti
 
@@ -14525,12 +14525,12 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 	
 
-| **Taglia** | **Mod.** | **Taglia** | **Mod.** |
+| \rowcolor{gray!20}**Taglia** | **Mod.** | **Taglia** | **Mod.** |
 | --- | --- | --- | --- |
 | Piccolissima | -16 | Grande | +4 |
-| Minuta | -12 | Enorme | +8 |
+| \rowcolor{gray!20}Minuta | -12 | Enorme | +8 |
 | Minuscola | -8 | Mastodontica | +12 |
-| Piccola | -4 | Colossale | +16 |
+| \rowcolor{gray!20}Piccola | -4 | Colossale | +16 |
 | Media | +0 |  | Un **piede di porco** o un **ariete portatile** aumentano la probabilità del personaggio di sfondare una porta di +1d6. |
 
 ---
@@ -14563,18 +14563,16 @@ Molti incantesimi ed oggetti usano come durata il *tempo di gioco reale*, ovvero
 
 **Tabella: Fonti di luce**
 
-	
-
-| **Fonte di** | **Raggio in metri** |  | **Durata** |
+| \rowcolor{gray!20}**Fonte di Luce** | **Raggio (metri)** |  | **Durata** |
 | --- | --- | --- | --- |
-| **Luce** | **Luce** | **Luce Fioca** | |
-| Candela | - | 1 m | 1 ora |
-| Torcia | 3 m | 6 m | 1 ora |
-| Lanterna | 6 m | 12 m | 3 ore |
+| **Luce** | **Fioca** | |
+| Candela | - | 1 | 1 ora |
+| \rowcolor{gray!20}Torcia | 3 | 6 | 1 ora |
+| Lanterna | 6 | 12 | 3 ore |
 | **Incantesimi** |  |  | |
-| Lacrima di Ljust | 1 m | - | 10 round |
-| Luce | 3 m | 6 m | 30 min. |
-| Luce Diurna | 6 m | 12 m | 1 ora |
+| \rowcolor{gray!20}Lacrima di Ljust | 1 | - | 10 round |
+| Luce | 3 | 6 | 30 min. |
+| \rowcolor{gray!20}Luce Diurna | 6 | 12 | 1 ora |
 
 La durata indicata è espressa, quando in minuti o ore, come durata di tempo reale di gioco.
 
@@ -14673,14 +14671,14 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 **Tabella: Danno da Oggetti Cadenti**
 
-| **Taglia dell'Oggetto** | **Danno** |
+| \rowcolor{gray!20}**Taglia dell'Oggetto** | **Danno** |
 | --- | --- |
 | Minuscola o più Piccola | 1d6 |
-| Piccola | 2d6 |
+| \rowcolor{gray!20}Piccola | 2d6 |
 | Media | 3d6 |
-| Grande | 4d6 |
+| \rowcolor{gray!20}Grande | 4d6 |
 | Enorme | 6d6 |
-| Mastodontica | 8d6 |
+| \rowcolor{gray!20}Mastodontica | 8d6 |
 | Colossale | 10d6 |
 
 Lasciar cadere addosso ad una creatura un oggetto richiede un attacco a tocco a distanza (vedi Attacco a Tocco, pag. ). Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su una creatura la creatura deve effettuare, se colpita, un Tiro Salvezza su Riflessi con DC 15 per dimezzare il danno se è consapevole dell'oggetto che sta cadendo. Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
@@ -14767,11 +14765,11 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 **Tabella: Tempo Atmosferico Casuale**
 
-| **d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato {***} | **Deserto** |
+| \rowcolor{gray!20}**d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato {***} | **Deserto** |
 | 01-70 | Normale | Freddo, calmo | Normale per la stagione {*}{*} | Torrido, calmo |
-| 71-80 | Anormale | Ondata di Caldo (01-30) / Ondata di Freddo (31-100) | Ondata di Caldo (01-50) - Ondata di Freddo (51-100) | Torrido, ventilato |
+| \rowcolor{gray!20}71-80 | Anormale | Ondata di Caldo (01-30) / Ondata di Freddo (31-100) | Ondata di Caldo (01-50) - Ondata di Freddo (51-100) | Torrido, ventilato |
 | 81-90 | Inclemente | Precipitazioni (neve) | Precipitazioni normali per la stagione | Torrido, ventilato |
-| 91-99 | Tempesta | Tempesta di neve | Tempesta di fulmini / Tempesta di neve | Tempesta di polvere |
+| \rowcolor{gray!20}91-99 | Tempesta | Tempesta di neve | Tempesta di fulmini / Tempesta di neve | Tempesta di polvere |
 | 100 | Tempesta violenta | Tormenta | Bufera, tormenta, uragano, tornado | Acquazzone |
 
 * Temperato comprende foreste, colline, paludi, montagne, pianure e zone marine calde.
@@ -14871,16 +14869,16 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 **Tabella: Effetti del Vento Forza del Vento**
 
-| **Intensità** | **Velocità** | **Attacchi a** |
+| \rowcolor{gray!20}**Intensità** | **Velocità** | **Attacchi a** |
 | --- | --- | --- |
 |  | **Distanza** |
-| Leggero | 0-15km | |
+| \rowcolor{gray!20}Leggero | 0-15km | |
 | Moderato | 16,5-30 km/h | |
-| Forte | 31.5-45 | -2 |
+| \rowcolor{gray!20}Forte | 31.5-45 | -2 |
 | Molto forte | 45.5-75km/h | -4 |
-| Bufera | 76.5-111km/h | impossibile |
+| \rowcolor{gray!20}Bufera | 76.5-111km/h | impossibile |
 | Uragano | 12-261km/h | impossibile |
-| Tornado | 262-450km/h | impossibile |
+| \rowcolor{gray!20}Tornado | 262-450km/h | impossibile |
 
 **Vento Leggero**
 
@@ -15066,28 +15064,28 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 
 **Tabella: Pareti**
 
-| **Tipo di Parete** | **Spessore** | **Sfondare** | **Durezza** | **Punti Ferita** | **DC Scalare** |
+| \rowcolor{gray!20}**Tipo di Parete** | **Spessore** | **Sfondare** | **Durezza** | **Punti Ferita** | **DC Scalare** |
 | --- | --- | --- | --- | --- | --- |
 | Mattoni di pietra | 30 cm | 35 | 8 | 90 | 20 |
-| Mattoni di pietra superiori | 30 cm | 35 | 8 | 120 | 25 |
+| \rowcolor{gray!20}Mattoni di pietra superiori | 30 cm | 35 | 8 | 120 | 25 |
 | Mattoni di pietra rinforzati | 30 | 45 | 8 | 180 | 20 |
-| Pietra Scolpita | 90 | 50 | 8 | 540 | 25 |
+| \rowcolor{gray!20}Pietra Scolpita | 90 | 50 | 8 | 540 | 25 |
 | Pietra grezza | 150 cm | 65 | 8 | 900 | 25 |
-| Ferro | 7.5 cm | 30 | 10 | 90 | 25 |
+| \rowcolor{gray!20}Ferro | 7.5 cm | 30 | 10 | 90 | 25 |
 | Carta | variabile | 1 | -- | 1 | 30 |
-| Legno | 15 cm | 20 | 5 | 60 | 21 |
+| \rowcolor{gray!20}Legno | 15 cm | 20 | 5 | 60 | 21 |
 
 **Tabella: Scavare un tunnel**
 
-| **Minatore** | **Materiale da Scavare (1 minuto)** |  | |
+| \rowcolor{gray!20}**Minatore** | **Materiale da Scavare (1 minuto)** |  | |
 | --- | --- | --- |
 | **Terreno** | **Pietramorbida** | **Pietra dura** |
 | Umano | 50 cm | 15 cm | 7 cm |
-| Gnomo | 45 cm | 30 cm | 15 cm |
+| \rowcolor{gray!20}Gnomo | 45 cm | 30 cm | 15 cm |
 | Nano/Orco | 55 cm | 45 cm | 20 cm |
-| Gigante della Pietra | 3 m | 1.5 m | 75 cm |
+| \rowcolor{gray!20}Gigante della Pietra | 3 m | 1.5 m | 75 cm |
 | Xorn | 6 m | 6 m | 6m |
-| Elementale della Terra | 9 m | 9 m | 9 m |
+| \rowcolor{gray!20}Elementale della Terra | 9 m | 9 m | 9 m |
 
 Le distanze scavate indicate si presume che siano ottenute con strumenti idonei come vanghe o picconi, altrimenti ridurre ad un terzo.
 
@@ -15161,17 +15159,17 @@ Le porte all'interno dei dungeon sono ben più che semplici entrate o uscite. Sp
 
 	
 
-| **Tipo di porta** | **Spessore tipico** | **Durezza** | **Punti Ferita** | **DC per sfondare** | |
+| \rowcolor{gray!20}**Tipo di porta** | **Spessore tipico** | **Durezza** | **Punti Ferita** | **DC per sfondare** | |
 | --- | --- | --- | --- | --- |
 | **(cm)** |  |  | **Bloccata** | **Chiusa a chiave** |
 | Legno semplice | 2.5 | 5 | 10 | 15 | 18 |
-| Legno buono | 3.75 | 5 | 15 | 18 | 21 |
+| \rowcolor{gray!20}Legno buono | 3.75 | 5 | 15 | 18 | 21 |
 | Legno robusto | 5 | 5 | 20 | 25 | 28 |
-| Pietra | 10 | 8 | 60 | 31 | 34 |
+| \rowcolor{gray!20}Pietra | 10 | 8 | 60 | 31 | 34 |
 | Ferro | 5 | 10 | 60 | 30 | 33 |
-| Saracinesca di legno | 7.5 | 5 | 30 | 27 | 30 |
+| \rowcolor{gray!20}Saracinesca di legno | 7.5 | 5 | 30 | 27 | 30 |
 | Saracinesca di ferro | 5 | 10 | 60 | 28 | 31 |
-| Serratura | - | 15 | 30 | - | - |
+| \rowcolor{gray!20}Serratura | - | 15 | 30 | - | - |
 | Cardini | - | 10 | 30 | - | - |
 
 **Porte di Legno**: Costruite con spesse assi inchiodate, a volte rinforzate con sbarre di ferro (poste anche per impedire le deformazioni prodotte dall'umidità dei dungeon), quelle di legno sono il tipo più comune di porta. Le porte di legno variano per durezza: possono essere semplici, buone o robuste. Le porte semplici (DC 15 per sfondarle) non sono progettate per tenere alla larga assalitori motivati.
@@ -15460,14 +15458,14 @@ Se il gruppo è numeroso i turni di guardia per vegliare e controllare l'ambient
 
 In questa tabella vengono indicate la durata dei turni di guardia ed il tempo totale di riposo del gruppo, nell'ipotesi di riposare almeno 8 ore.
 
-| **Membri** | **Durata** | **Durata** |
+| \rowcolor{gray!20}**Membri** | **Durata** | **Durata** |
 | --- | --- | --- |
 | **del gruppo** | **del Turno** | **Totale** |
-| 2 | 8 h | 16 h |
+| \rowcolor{gray!20}2 | 8 h | 16 h |
 | 3 | 4 h | 12 h |
-| 4 | 2 h e 30 min. | 10 h e 30 min. |
+| \rowcolor{gray!20}4 | 2 h e 30 min. | 10 h e 30 min. |
 | 5 | 2 h | 10 h |
-| 6 | 1 h e 30 min. | 9 h e 30 min. |
+| \rowcolor{gray!20}6 | 1 h e 30 min. | 9 h e 30 min. |
 
 Un **rumore brusco** concede una prova di Consapevolezza a DC 15, oppure pari alla prova di Furtività +8 dell'avversario, per svegliarsi.
 ---
@@ -15522,18 +15520,18 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 
 **Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole**
 
-| Pericolosità della Trappola | DC Tiro Salvezza | Bonus di Attacco |
+| \rowcolor{gray!20}Pericolosità della Trappola | DC Tiro Salvezza | Bonus di Attacco |
 | Minima | 13-14 | +4 a +6 |
-| Pericolosa | 16-20 | +8 a +10 |
+| \rowcolor{gray!20}Pericolosa | 16-20 | +8 a +10 |
 | Mortale | 21-26 | +12 a +15 |
 
 **Tabella: Gravità del Danno per Livello**
 
-| Livello PG | Minima | Pericolosa | Mortale |
+| \rowcolor{gray!20}Livello PG | Minima | Pericolosa | Mortale |
 | 1°-4° | 1d10 | 2d10 | 4d10 |
-| 5°-10° | 2d10 | 4d10 | 10d10 |
+| \rowcolor{gray!20}5°-10° | 2d10 | 4d10 | 10d10 |
 | 11°-16° | 4d10 | 10d10 | 18d10 |
-| 17°-20° | 10d10 | 18d10 | 24d10 |
+| \rowcolor{gray!20}17°-20° | 10d10 | 18d10 | 24d10 |
 
 ### Trappole di Esempio
 **Ago Avvelenato**
@@ -15684,291 +15682,212 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 
 **Effetto**: quale è l'effetto della trappola
 
-**Dardo Avvelenato**
-
-| **GS:** | 1 |
+| \rowcolor{gray!20}**GS:** 1 | **Dardo Avvelenato** |
 | --- | --- |
 | **Tipo:** | Meccanico |
-| **Sopravviv.:** | DC 13 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 13 |
 | **Dis. Cong.:** | DC 15 |
-| **Attivatore:** | Contatto |
+| \rowcolor{gray!20}**Attivatore:** | Contatto |
 | **Ripristino:** | Nessuno |
-| **Effetto:** | Attacco a distanza 12 metri +10 (1d3 di danno più Bava fermentata di Lucos, pag ) |
-
-**Freccia**
-
-| **GS:** | 1 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco a distanza 12 metri +10 (1d3 di danno più Bava fermentata di Lucos, pag ) |
+| \rowcolor{gray!20}**GS:** 1 | **Freccia** |
 | **Tipo:** | Meccanico |
-| **Sopravviv.:** | DC 13 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 13 |
 | **Dis. Cong.:** | DC 15 |
-| **Attivatore:** | Contatto |
+| \rowcolor{gray!20}**Attivatore:** | Contatto |
 | **Ripristino:** | Nessuno |
-| **Effetto:** | Attacco a distanza 12 metri +15 (1d8+3) |
-
-**Fossa**
-
-| **GS:** | 1 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco a distanza 12 metri +15 (1d8+3) |
+| \rowcolor{gray!20}**GS:** 1 | **Fossa** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 14 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 14 |
 | **Dis. Cong.:** | DC 16 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | fossa profonda 3 metri (2d6 danni da caduta) |
-
-**Lama Falciante**
-
-| **GS:** | 1 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | fossa profonda 3 metri (2d6 danni da caduta) |
+| \rowcolor{gray!20}**GS:** 1 | **Trancia Dita** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 13 |
+| \rowcolor{gray!20}	**Sopravviv.:** | DC 17 |
+| **Dis. Cong.:** | DC 14 |
+| \rowcolor{gray!20}	**Attivatore:** | posizione |
+| **Ripristino:** | manuale |
+| \rowcolor{gray!20}	**Effetto:** | trancia la prima falange (1d8+1) |
+| \rowcolor{gray!20}**GS:**  1 | **Lama Falciante** |
+| **Tipo:** | meccanico |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 13 |
 | **Dis. Cong.:** | DC 15 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | 2 attacchi in mischia +10 (1d8+1) |
-
-**Fossa con Spuntoni**
-
-| **GS:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | 2 attacchi in mischia +10 (1d8+1) |
+| \rowcolor{gray!20} **GS:** 2 | **Fossa con Spuntoni** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 16 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 16 |
 | **Dis. Cong.:** | DC 18 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | fossa profonda 3 metri + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) |
-
-**Onda rovente**
-
-| **GS:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | fossa profonda 3 metri + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) |
+| \rowcolor{gray!20}  **GS:** 2 | **Onda rovente** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 16 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 16 |
 | **Dis. Cong.:** | DC 18/4 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | 5d4 danni da fuoco |
-
-**Giavellotto**
-
-| **GS:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | 5d4 danni da fuoco |
+| \rowcolor{gray!20}**GS:** | 2**Giavellotto** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 15 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 15 |
 | **Dis. Cong.:** | DC 17 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| **Effetto:** | Attacco a distanza 12 metri +15 (2d6+6), entro raggio 6 metri |
-
-**Fossa con non morti**
-
-| **GS:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco a distanza 12 metri +15 (2d6+6), entro raggio 6 metri |
+| \rowcolor{gray!20}**GS:** 2 | **Fossa con non morti** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 14 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 14 |
 | **Dis. Cong.:** | DC 16 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| **Effetto:** | Sul fondo della fossa (2d6 di danno da caduta) sono presenti due zombi |
-
-**Freccia Acida**
-
-| **GS:** | 3 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Sul fondo della fossa (2d6 di danno da caduta) sono presenti due zombi |
+| \rowcolor{gray!20}**GS:**  3 | **Freccia Acida** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 18 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 18 |
 | **Dis. Cong.:** | DC 20/4 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | Attacco distanza di 16 metri (4d4 danni da acido per 4 round) |
-
-**Fossa Celata**
-
-| **GS:** | 3 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco distanza di 16 metri (4d4 danni da acido per 4 round) |
+| \rowcolor{gray!20}**GS:** 3 | **Fossa Celata** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 19 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 19 |
 | **Dis. Cong.:** | DC 20 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | 3d6 danni da caduta |
-
-**Arco Elettrico**
-
-| **GS:** | 4 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | 3d6 danni da caduta |
+| \rowcolor{gray!20}**GS:** 4 | **Arco Elettrico** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 21 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 21 |
 | **Dis. Cong.:** | DC 20/4 |
-| **Attivatore:** | contatto |
+| \rowcolor{gray!20}**Attivatore:** | contatto |
 | **Ripristino:** | nessuno |
-| **Effetto:** | Arco elettrico. 2 bersagli entro 3 metri tra loro, 5d6 danni da elettricità |
-
-**Falce a Parete**
-
-| **GS:** | 4 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Arco elettrico. 2 bersagli entro 3 metri tra loro, 5d6 danni da elettricità |
+| \rowcolor{gray!20}**GS:** 4 | **Falce a Parete** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 20 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 20 |
 | **Dis. Cong.:** | DC 18 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | automatico |
-| **Effetto:** | tre attacchi in mischia +10 (2d8+3) |
-
-**Blocco in Caduta**
-
-| **GS:** | 5 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | tre attacchi in mischia +10 (2d8+3) |
+| \rowcolor{gray!20}**GS:** 5 | **Blocco in Caduta** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 23 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 23 |
 | **Dis. Cong.:** | DC 22 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | Attacco in mischia +15 (6d6) |
-
-**Colpo Infuocato**
-
-| **GS:** | 6 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco in mischia +15 (6d6) |
+| \rowcolor{gray!20}**GS:** 6 | **Colpo Infuocato** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 25 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 24/4 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | cono 3 metri, 8d6 danni da fuoco |
-
-**Acque bollenti**
-
-| **GS:** | 7 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | cono 3 metri, 8d6 danni da fuoco |
+| \rowcolor{gray!20}	**GS:** 6 | **Freccia Avvelenata** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 25 |
+| \rowcolor{gray!20}	**Sopravviv.:** | DC 25 |
+| **Dis. Cong.:** | DC 20 |
+| \rowcolor{gray!20}	**Attivatore:** | posizione |
+| **Ripristino:** | nessuno |
+| \rowcolor{gray!20}	**Effetto:** | 6 frecce, attacco a distanza 18 metri +10 (1d6 più 1d6 Veleno) |
+| \rowcolor{gray!20}**GS:** 7 | **Acque bollenti** |
+| **Tipo:** | meccanico |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20/4 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| **Effetto:** | cono di 6 metri (spruzzo di acqua bollente, 8d6 danni da fuoco). |
-
-**Trappola a Gas**
-
-| **GS:** | 8 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | cono di 6 metri (spruzzo di acqua bollente, 8d6 danni da fuoco). |
+| \rowcolor{gray!20}**GS:** 8 | **Trappola a Gas** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 28 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 28 |
 | **Dis. Cong.:** | DC 26 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | riparabile |
-| **Effetto:** | Gas velenoso, cubo 6 metri di spigolo. TS Tempra DC 17 oppure rallentati 1/1 minuto. |
-
-**Raffica di Frecce**
-
-| **GS:** | 9 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Gas velenoso, cubo 6 metri di spigolo. TS Tempra DC 17 oppure rallentati 1/1 minuto. |
+| \rowcolor{gray!20}**GS:** 9 | **Raffica di Frecce** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 30 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 30 |
 | **Dis. Cong.:** | DC 27 |
-| **Attivatore:** | visivo ( Occhio Arcano) |
+| \rowcolor{gray!20}**Attivatore:** | visivo ( Occhio Arcano) |
 | **Ripristino:** | riparabile |
-| **Effetto:** | 6 frecce. Attacco a distanza +14 (1d8+1) |
-
-**Fossa Celata con Spuntoni**
-
-| **GS:** | 8 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | 6 frecce. Attacco a distanza +14 (1d8+1) |
+| \rowcolor{gray!20}**GS:** 8 | **Fossa Celata con spuntoni** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 29 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 29 |
 | **Dis. Cong.:** | DC 20 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | Fossa profonda 15 m + spuntoni (Attacco in mischia +9, 3 spuntoni per bersaglio, 1d6+5 danni ciascuno) |
-
-**Pavimento Elettrico**
-
-| **GS:** | 9 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Fossa profonda 15 m + spuntoni (Attacco in mischia +9, 3 spuntoni per bersaglio, 1d6+5 danni ciascuno) |
+| \rowcolor{gray!20}**GS:** 9 | **Pavimento Elettrico** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 30 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 30 |
 | **Dis. Cong.:** | DC 26/5 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
-
-**Risucchio di Energia**
-
-| **GS:** | 10 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
+| \rowcolor{gray!20}**GS:** 10 | **Risucchio di Energia** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 34 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 34 |
 | **Dis. Cong.:** | DC 34/6 |
-| **Attivatore:** | visivo (Visione del Vero) |
+| \rowcolor{gray!20}**Attivatore:** | visivo (Visione del Vero) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | Attacco di contatto a distanza 18 metri +14 da Vuoto, Punti Ferita max calano di 10d4 + Affaticato. |
-
-**Stanza delle Lame**
-
-| **GS:** | 10 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco di contatto a distanza 18 metri +14 da Vuoto, Punti Ferita max calano di 10d4 + Affaticato. |
+| \rowcolor{gray!20}**GS:** 10 | **Stanza delle Lame** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 25 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | riparabile |
-| **Effetto:** | Attacco in mischia +15 (a tutti tre attacchi 3d8+3) |
-
-**Cono di Ghiaccio**
-
-| **GS:** | 11 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Attacco in mischia +15 (a tutti tre attacchi 3d8+3) |
+| \rowcolor{gray!20}**GS:** 11 | **Cono di Ghiaccio** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 30 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 30 |
 | **Dis. Cong.:** | DC 30/6 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | come Cono di Freddo da 9d6 danni. TS Riflessi DC 22 per dimezzare |
-
-**Fossa Avvelenata**
-
-| **GS:** | 11 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | come Cono di Freddo da 9d6 danni. TS Riflessi DC 22 per dimezzare |
+| \rowcolor{gray!20}**GS:** 11 | **Fossa Avvelenata** |
 | **Tipo:** | meccanico |
-| **Sopravviv.:** | DC 25 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20 |
-| **Attivatore:** | posizione |
+| \rowcolor{gray!20}**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
-
-**Galleria dei Fulmini**
-
-| **GS:** | 13 |
-| --- | --- |
+| \rowcolor{gray!20}**Effetto:** | Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
+| \rowcolor{gray!20}**GS:** 13 | **Galleria dei Fulmini** |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 29 |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 29 |
 | **Dis. Cong.:** | DC 29/5 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | come incantesimo Fulmine a catena. DC 22. |
+| \rowcolor{gray!20}**Effetto:** | come incantesimo Fulmine a catena. DC 22. |
+| \rowcolor{gray!20}**GS:** 15 | **Inferno di fuoco** |
+| **Tipo:** | magico |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 31 |
+| **Dis. Cong.:** | DC 31/6 |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Ripristino:** | nessuno |
+| \rowcolor{gray!20}**Effetto:** | 60 danni da fuoco. TS Riflessi DC 23 per dimezzare. |
+| \rowcolor{gray!20}**GS:** 16 | **Distruzione** |
+| **Tipo:** | N/A |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 34 |
+| **Dis. Cong.:** | DC 34/6 |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Ripristino:** | nessuno |
+| \rowcolor{gray!20}**Effetto:** | come incantesimo Disintegrazione con 1 Critico Magico. DC 24 |
 
-**Inferno di fuoco**
-
-| **GS:** | 15 |
+| \rowcolor{gray!20}	**GS:** 19 | **Pioggia di Meteore** |
 | --- | --- |
 | **Tipo:** | magico |
-| **Sopravviv.:** | DC 31 |
-| **Dis. Cong.:** | DC 31/6 |
-| **Attivatore:** | prossimità (Allarme) |
-| **Ripristino:** | nessuno |
-| **Effetto:** | 60 danni da fuoco. TS Riflessi DC 23 per dimezzare. |
-
-**Distruzione**
-
-| **GS:** | 16 |
-| --- | --- |
-| **Tipo:** | N/A |
-| **Sopravviv.:** | DC 34 |
+| \rowcolor{gray!20}	**Sopravviv.:** | DC 34 |
 | **Dis. Cong.:** | DC 34/6 |
-| **Attivatore:** | prossimità (Allarme) |
+| \rowcolor{gray!20}	**Attivatore:** | visivo |
 | **Ripristino:** | nessuno |
-| **Effetto:** | come incantesimo Disintegrazione con 1 Critico Magico. DC 24 |
+| **Effetto:** | come incantesimo Pioggia di Meteore. DC 28 |
 
 >>> **Tups e la trappola**: In questo esempio vi porto l'approccio vecchia scuola quando si presumeva che ci fossero delle trappole. Nulla vieta al Narratore di permettere prove di Sopravvivenza o Disattivare Congegni. Posso solo dire che questo approccio è però più coinvolgente.
 
@@ -16108,31 +16027,31 @@ Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessari
 
 **Tabella: Veleni. (costo in Monete d'Oro)**
 
-| **Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
+| \rowcolor{gray!20}**Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
 | --- | --- | --- | --- | --- | --- |
 | Mistura Rossa | F | - | 13 | -1d6 TC/TS per 10 minuti | 10 |
-| Concentrato Viola | F | - | 15 | 2d6 Punti Ferita | 15 |
+| \rowcolor{gray!20}Concentrato Viola | F | - | 15 | 2d6 Punti Ferita | 15 |
 | Grasso di Toporagno Viola | C | 1 r | 13 | 2d12 Punti Ferita | 15 |
-| Nocciolo di Dennar | I | 1 r | 13 | -1d2 Forza, per 3gg | 15 |
+| \rowcolor{gray!20}Nocciolo di Dennar | I | 1 r | 13 | -1d2 Forza, per 3gg | 15 |
 | Succo di Ythis | I | 1 T | 14 | -1d2 Intelligenza, per 1g | 20 |
 | Bava fermentata di Lucos | F | - | 15 | 1d8 Punti Ferita | 25 |
-| Cenere di Corteccia Gialla | F | 6 r | 15 | Privo di sensi per 1d3 ore | 25 |
+| \rowcolor{gray!20}Cenere di Corteccia Gialla | F | 6 r | 15 | Privo di sensi per 1d3 ore | 25 |
 | Polline di Rosa di Omro | I | - | 15 | -1d3 Costituzione e Destrezza, per 1 ora | 25 |
-| Profumo di Ragmor | R | - | 16 | -1d3 Carisma, per 1 giorno | 30 |
+| \rowcolor{gray!20}Profumo di Ragmor | R | - | 16 | -1d3 Carisma, per 1 giorno | 30 |
 | Dita di Daraka | F | - | 17 | -1d6 Forza, per 1 ora | 35 |
-| Bacca Viola di Barsar | I | 1 r | 18 | Incapace di violenze per 3d8 ore | 40 |
+| \rowcolor{gray!20}Bacca Viola di Barsar | I | 1 r | 18 | Incapace di violenze per 3d8 ore | 40 |
 | Gelo blu | F | - | 18 | 3d6 Punti Ferita da freddo | 25 |
-| Fumi di Curna | R | - | 18 | -1d3 Saggezza | 40 |
+| \rowcolor{gray!20}Fumi di Curna | R | - | 18 | -1d3 Saggezza | 40 |
 | Fiocco bianco di Mucot | C | - | 20 | Dorme per 2d12 ore | 20 |
-| Lingua di Kreex | F | - | 20 | La ferita sanguina. +1 danno da sanguinamento. 1 uso nelle 24 ore. | 50 |
+| \rowcolor{gray!20}Lingua di Kreex | F | - | 20 | La ferita sanguina. +1 danno da sanguinamento. 1 uso nelle 24 ore. | 50 |
 | Muschio Giallo | I | 1 r | 20 | la creatura guadagna una taglia. -2 Int e Sag. Durata 10 minuti | 50 |
-| Olio di Nabar | R-F | - | 20 | Confuso per 2d6 round | 50 |
+| \rowcolor{gray!20}Olio di Nabar | R-F | - | 20 | Confuso per 2d6 round | 50 |
 | Veleno di Ottalm | F | - | 20 | Morte o -1d2 Costituzione permanente | 50 |
-| Bacche Azzurre di fosso | I | 1 T | 21 | -1d3 Intelligenza e Saggezza per 6 ore | 55 |
+| \rowcolor{gray!20}Bacche Azzurre di fosso | I | 1 T | 21 | -1d3 Intelligenza e Saggezza per 6 ore | 55 |
 | Erba puntuta rosa | I | 1 r | 22 | -1d6 Destrezza, per 1 ora | 60 |
-| Pelle di Rospo Azzurro | C | 10 r | 22 | Paralizzato per 1d6 turni | 60 |
+| \rowcolor{gray!20}Pelle di Rospo Azzurro | C | 10 r | 22 | Paralizzato per 1d6 turni | 60 |
 | Fegato di Toporagno Viola | I | 1 ora | 25 | 2d6 di danno a Saggezza e Intelligenza. Permanente | 75 |
-| Veleno di Serpe del Sangue | F | - | 25 | Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni | 75 |
+| \rowcolor{gray!20}Veleno di Serpe del Sangue | F | - | 25 | Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni | 75 |
 | Sangue di Thrun | C | - | 26 | -1d3 Costituzione | 80 |
 
 **Applicazione**: **I**(ngestione), **F**(erimento), **C**(ontatto), **R**(espirazione).
@@ -16143,52 +16062,52 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Tabella: Pozioni Naturali (costo in monete d'oro)**
 
-| **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
+| \rowcolor{gray!20}**Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Wickalim | I | 1 ora | 15 | Cura 2 Punti Ferita | 9 | 5 |
-| Darsirion | C | 1 r | 25 | Cura 1d4 Punti Ferita | 9 | 5 |
+| \rowcolor{gray!20}Darsirion | C | 1 r | 25 | Cura 1d4 Punti Ferita | 9 | 5 |
 | Harfy | C | I | 12 | -1 al sanguinamento | 10 | 3 |
-| Barannie | I | 10 r | 15 | Rimuove nausea | 11 | 3 |
+| \rowcolor{gray!20}Barannie | I | 10 r | 15 | Rimuove nausea | 11 | 3 |
 | Estratto radice Gisenosa | I | 3 T | 15 | Cura tosse e raffreddore | 11 | 3 |
-| Klagul | C | 1 T | 20 | Pulisce i denti | 11 | 2 |
+| \rowcolor{gray!20}Klagul | C | 1 T | 20 | Pulisce i denti | 11 | 2 |
 | Nelthalion | I | I | 15 | Fa vomitare | 11 | 1 |
-| Delrean | C | 1 r | 15 | Allontana insetti per 1 giorno | 12 | 2 |
+| \rowcolor{gray!20}Delrean | C | 1 r | 15 | Allontana insetti per 1 giorno | 12 | 2 |
 | Uovo di Urk | I | 1 T | 12 | 1 giorno di cibo | 12 | 1 |
-| Delrean Plus | I | 1 r | 18 | Allontana insetti per 3 giorni | 13 | 5 |
+| \rowcolor{gray!20}Delrean Plus | I | 1 r | 18 | Allontana insetti per 3 giorni | 13 | 5 |
 | Corteccia di Aklent | I | 1 T | 10 | La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno | 13 | 1 |
-| Lievito Muschio Bianco | I | 10 r | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
+| \rowcolor{gray!20}Lievito Muschio Bianco | I | 10 r | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
 | Harfindar | I | 1 T | 15 | Fa abortire | 14 | 3 |
-| Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività | 15 | 8 |
+| \rowcolor{gray!20}Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività | 15 | 8 |
 | Bacche di Ljust | I | 1 r | 16 | Preso la sera recuperi il doppio dei PF, minimo 4 | 15 | 10 |
-| Mirenna | I | 1 r | 20 | Cura 5 Punti Ferita | 16 | 30 |
+| \rowcolor{gray!20}Mirenna | I | 1 r | 20 | Cura 5 Punti Ferita | 16 | 30 |
 | Klynkyx | C | 1 ora | 15 | Fa cadere tutti i capelli per 1d6+4 gg | 16 | 4 |
-| Miscela 31 | I | 1 T | 20 | La cavalcatura è estremamente resistente. +4 ore di galoppo al giorno | 17 | 15 |
+| \rowcolor{gray!20}Miscela 31 | I | 1 T | 20 | La cavalcatura è estremamente resistente. +4 ore di galoppo al giorno | 17 | 15 |
 | Culcoa | C | 1 r | 16 | Recuperi 2d6 da danno da fuoco | 18 | 8 |
-| Jojopo | C | 1 r | 15 | Resistenza a Freddo per 1 ora | 18 | 45 |
+| \rowcolor{gray!20}Jojopo | C | 1 r | 15 | Resistenza a Freddo per 1 ora | 18 | 45 |
 | Silea | C | 5 r | 15 | Cura 1d6+3 Punti Ferita | 18 | 50 |
-| Draaf | C | 1 r | 20 | Cura 1d8 Punti Ferita | 19 | 50 |
+| \rowcolor{gray!20}Draaf | C | 1 r | 20 | Cura 1d8 Punti Ferita | 19 | 50 |
 | Estratto di Bacca Illa | I | 1 r | 15 | +2 Iniziativa, +2 Destrezza, -1d6 Tiro Salvezza su Volontà, per 1 minuto | 19 | 15 |
-| Petali di Lisbeth | I | 1 T | 15 | +2 Intelligenza, -2 Destrezza per 10 minuti | 19 | 20 |
+| \rowcolor{gray!20}Petali di Lisbeth | I | 1 T | 15 | +2 Intelligenza, -2 Destrezza per 10 minuti | 19 | 20 |
 | Kelventare | I | 2 r | 28 | Recuperi 2d6 Punti Ferita | 20 | 100 |
-| Garioe | I | 1 r | 25 | Cura 2d6 Punti Ferita | 20 | 95 |
+| \rowcolor{gray!20}Garioe | I | 1 r | 25 | Cura 2d6 Punti Ferita | 20 | 95 |
 | Yajeth | I | 1 T | 20 | Cura 2d8 Punti Ferita | 20 | 100 |
-| Corteccia Dagmather | R | 1 r | 25 | Rimuove un livello di Affaticamento | 21 | 15 |
+| \rowcolor{gray!20}Corteccia Dagmather | R | 1 r | 25 | Rimuove un livello di Affaticamento | 21 | 15 |
 | Radice di Kathaus | R | 1 r | 20 | +2 Forza e Destrezza per 1 ora | 21 | 100 |
-| Klandor | I | I | 15 | Rimuove paralisi. Aumenta di 1 il livello di affaticamento | 22 | 18 |
+| \rowcolor{gray!20}Klandor | I | I | 15 | Rimuove paralisi. Aumenta di 1 il livello di affaticamento | 22 | 18 |
 | Eldrin'tail | I | 1 r | 15 | Concede un nuovo Tiro Salvezza su Veleni | 22 | 18 |
-| Attarna | I | 1 T | 20 | Concede un nuovo Tiro Salvezza per Malattie con un +1d6 | 22 | 50 |
+| \rowcolor{gray!20}Attarna | I | 1 T | 20 | Concede un nuovo Tiro Salvezza per Malattie con un +1d6 | 22 | 50 |
 | Lingua Rossa di Xabax | C | 1 T | 20 | Cura 2d6 Punti Ferita ma se c'è malattia o veleno tenta la rimozione causando 2d6 PF di danno | 23 | 13 |
-| Arduur | I | 1 r | 25 | Rimuove Veleni | 24 | 75 |
+| \rowcolor{gray!20}Arduur | I | 1 r | 25 | Rimuove Veleni | 24 | 75 |
 | Arksun | C | 1 T | 25 | Cura 1d6 PF a Turno per 3 turni | 24 | 75 |
-| Uscaboo | R | 1 T | 25 | Rimuove cecità | 25 | 125 |
+| \rowcolor{gray!20}Uscaboo | R | 1 T | 25 | Rimuove cecità | 25 | 125 |
 | Melandrir | I | 1 r | 15 | Concede un nuovo Tiro Salvezza per Malattie con +4 | 26 | 100 |
-| Gylvert | I | 10 r | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
+| \rowcolor{gray!20}Gylvert | I | 10 r | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
 | Callynthine | C | 1 ora | 24 | Rinsalda le fratture, cura 2d8+8 PF | 28 | 200 |
-| Gelfnus | I | 5 r | 28 | Cura 3d8+3 Punti Ferita, rende Affaticato | 28 | 150 |
+| \rowcolor{gray!20}Gelfnus | I | 5 r | 28 | Cura 3d8+3 Punti Ferita, rende Affaticato | 28 | 150 |
 | Polline di Rosa Verde | R | 3 T | 25 | Recuperi 2d4 danni Intelligenza e Saggezza | 29 | 350 |
-| Muschio argentato | I | I | 25 | Rimuove Malattie magiche | 30 | 250 |
+| \rowcolor{gray!20}Muschio argentato | I | I | 25 | Rimuove Malattie magiche | 30 | 250 |
 | Nazamuse | I | I | 30 | Rimuove Veleni e Malattie naturali | 32 | 175 |
-| Bacio di Ljust | C | 1 r | 35 | Cura 100 Punti Ferita | 34 | 500 |
+| \rowcolor{gray!20}Bacio di Ljust | C | 1 r | 35 | Cura 100 Punti Ferita | 34 | 500 |
 | Estratto 100 erbe | I | I | 24 | Rimuove Cecità, Sordità, Paralisi, Veleno | 35 | 150 |
 
 ### Note sui Veleni e Pozioni
@@ -16303,31 +16222,31 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 **Tabella: delle pozioni generiche. Costo in Monete d'Oro.**
 
-| **Nome Pozione** | **Effetto** | **Costo** | **Appl.** |
+| \rowcolor{gray!20}**Nome Pozione** | **Effetto** | **Costo** | **Appl.** |
 | --- | --- | --- | --- |
 | Cura | cura 1d8+1 Punti Ferita | 50 | I |
-| Cura potenziata | cura 3d8+3 Punti Ferita | 125 | I |
+| \rowcolor{gray!20}Cura potenziata | cura 3d8+3 Punti Ferita | 125 | I |
 | Cura maggiore | cura 3d10+15 Punti Ferita | 300 | I |
-| Indebolente | -2 TC. TS DC 15 Tempra per annullare gli effetti | 35 | F |
+| \rowcolor{gray!20}Indebolente | -2 TC. TS DC 15 Tempra per annullare gli effetti | 35 | F |
 | Indebolente potenziata | -1d6 TC. TS DC 18 Tempra per annullare gli effetti | 50 | F/I |
-| Veleno | 2d6+2 di danno. TS DC 15 Tempra per dimezzare | 30 | I/F |
+| \rowcolor{gray!20}Veleno | 2d6+2 di danno. TS DC 15 Tempra per dimezzare | 30 | I/F |
 | Veleno potenziata | 2d8+4 di danno. TS DC 18 Tempra per dimezzare | 50 | F |
-| Veleno maggiore | 4d10+8 di danno. TS DC 24 Tempra per dimezzare | 125 | F |
+| \rowcolor{gray!20}Veleno maggiore | 4d10+8 di danno. TS DC 24 Tempra per dimezzare | 125 | F |
 | Rimuovi Veleno | concede un nuovo TS con +1d6 | 75 | I |
-| Pozione Generica* | vedi Creare Pozioni (pag. ) | Lv*Lv*50 | I |
+| \rowcolor{gray!20}Pozione Generica* | vedi Creare Pozioni (pag. ) | Lv*Lv*50 | I |
 
 ## Opzionale - Droghe 
 
-| **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
+| \rowcolor{gray!20}**Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Foglie fermentate di Luside | I | 1 T | 17 | +4 Carisma ed Intelligenza per 1d4 ore | 17 | 5 mo |
-| Ferpillon | I | 1 r | 20 | Fa dormire per 24 ore | 15 | 50 mo |
+| \rowcolor{gray!20}Ferpillon | I | 1 r | 20 | Fa dormire per 24 ore | 15 | 50 mo |
 | Unto Grigio | I | 1 r | 24 | Contrasta DC 25 effetti Lista Ammaliamento | 19 | 80 mo |
-| Cenere di Arpasur | R | 1 r | 20 | Rimuove 2 livelli di affaticato | 16 | 10 mo |
+| \rowcolor{gray!20}Cenere di Arpasur | R | 1 r | 20 | Rimuove 2 livelli di affaticato | 16 | 10 mo |
 | Estratto alcolico di Melzaa | I | 1 r | 20 | +2 For, +2 Des, -2 Sag. Per 1d4 ore | 16 | 25 mo |
-| Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 mo |
+| \rowcolor{gray!20}Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 mo |
 | Polline di Julnnaus | R | I | 20 | +3 Costituzione per 2 ore | 16 | 25 mo |
-| Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 mo |
+| \rowcolor{gray!20}Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 mo |
 
 **L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità in base alla sensibilità dei giocatori**.
 
@@ -16413,20 +16332,20 @@ Solo in situazioni di non combattimento la corsa triplica il movimento, ovvero q
 
 Questa tabella mostra i valori base di movimento a terra in situazioni di non combattimento.
 
-| **Tipo di movimento** | **Movimento** |  | |
+| \rowcolor{gray!20}**Tipo di movimento** | **Movimento** |  | |
 | --- | --- | --- |
 | \cmidrule(lr) | **6m** | **9m** | **12m** |
-| **Movimento (Tattico)** |  |  | |
+| \rowcolor{gray!20}**Movimento (Tattico)** |  |  | |
 | Camminare | 6m | 9m | 12m |
-| Correre (x2) | 12m | 18m | 24m |
+| \rowcolor{gray!20}Correre (x2) | 12m | 18m | 24m |
 | **Un minuto (Locale)** |  |  | |
-| Camminare | 36m | 54m | 72m |
+| \rowcolor{gray!20}Camminare | 36m | 54m | 72m |
 | Correre (x3) | 108m | 162m | 216m |
-| **Un'ora (Via Terra)** |  |  | |
+| \rowcolor{gray!20}**Un'ora (Via Terra)** |  |  | |
 | Camminare | 3km | 4km | 6km |
-| Correre (x3) | 9km | 12km | 18km |
+| \rowcolor{gray!20}Correre (x3) | 9km | 12km | 18km |
 | **Un giorno (Via Terra)** |  |  | |
-| Camminare | 24km | 32km | 54km |
+| \rowcolor{gray!20}Camminare | 24km | 32km | 54km |
 
 ## Movimento Tattico
 
@@ -16541,24 +16460,24 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 
 ## Tabella: Cavalcature e Veicoli
 
-| **Cavalcatura o** | **Ingombro trasportato** | **Movimento** | **Movimento** |
+| \rowcolor{gray!20}**Cavalcatura o** | **Ingombro trasportato** | **Movimento** | **Movimento** |
 | --- | --- | --- | --- |
 | **Veicolo** | **(CdC)** | **All'ora** | **Al giorno** |
-| Cane da Galoppo | 30 | 6km | 36km |
+| \rowcolor{gray!20}Cane da Galoppo | 30 | 6km | 36km |
 | Saurovallo da Galoppo | 60 | 8km | 48km |
-| Saurovallo da Guerra | 80 | 7km | 42km |
+| \rowcolor{gray!20}Saurovallo da Guerra | 80 | 7km | 42km |
 | Saurovallo Nano | 30 | 5km | 30km |
-| Saurovallo da Tiro | 70 | 5km | 30km |
+| \rowcolor{gray!20}Saurovallo da Tiro | 70 | 5km | 30km |
 | Cammello | 50 | 8km | 48km |
-| Elefante | 160 | 6km | 36km |
+| \rowcolor{gray!20}Elefante | 160 | 6km | 36km |
 | **Imbarcazione** |  |  | |
-| Zattera o Chiatta (pertica o rimorchio) | 225 | 0.75km | 7.5km |
+| \rowcolor{gray!20}Zattera o Chiatta (pertica o rimorchio) | 225 | 0.75km | 7.5km |
 | Barcone a Remi** | 425 | 1.5km | 15km |
-| Barca a Remi** | 200 | 2.25km | 22.5km |
+| \rowcolor{gray!20}Barca a Remi** | 200 | 2.25km | 22.5km |
 | Nave a Vela | 800 | 3km | 72km |
-| Nave da Guerra (vele e remi) | 2200 | 3.5km | 90km |
+| \rowcolor{gray!20}Nave da Guerra (vele e remi) | 2200 | 3.5km | 90km |
 | Nave Lunga (vele e remi) | 600 | 5km | 108km |
-| Galea (remi e vele) | 3300 | 6km | 144km |
+| \rowcolor{gray!20}Galea (remi e vele) | 3300 | 6km | 144km |
 
 Una cavalcatura può portare in groppa una creatura solo se di taglia inferiore alla sua. Il movimento al giorno si intende per 6 ore di cavalcata, oltre queste ore la cavalcatura si sfianca richiedendo un giorno intero di riposo.
 
@@ -16617,21 +16536,21 @@ In caso più creature spingano o trainino un carro considerate come CdC quella p
 
 Nella **Tabella: CdC trasportato in base alla taglia** viene riportata la Capacità di Carico in base alla taglia. Al valore dato dalla taglia vanno sommati i valori di Forza e Costituzione.
 
-| **Taglia** | **Ing.** | **Taglia** | **Ing.** |
+| \rowcolor{gray!20}**Taglia** | **Ing.** | **Taglia** | **Ing.** |
 | --- | --- | --- | --- |
 | Piccolissima | 1/4 | Grande | 24 |
-| Minuta | 1 | Enorme | 36 |
+| \rowcolor{gray!20}Minuta | 1 | Enorme | 36 |
 | Minuscola | 3 | Mastodontica | 49 |
-| Piccola | 6 | Colossale | 77 |
+| \rowcolor{gray!20}Piccola | 6 | Colossale | 77 |
 | Media | 12 |  | Creature con 4 zampe o più possono trasportare carichi maggiori. |
 
 **Tabella: modificatori trasporto per creature con più zampe**
 
-| **Zampe Creatura** | **CdC** |
+| \rowcolor{gray!20}**Zampe Creatura** | **CdC** |
 | 4 zampe | x2 |
-| 6 zampe | x2.5 |
+| \rowcolor{gray!20}6 zampe | x2.5 |
 | 8 zampe | x3 |
-| 12 zampe | x4 |
+| \rowcolor{gray!20}12 zampe | x4 |
 | ogni altre 2 zampe | +0.5 |
 
 Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabili a quelli nella Tabella: Cavalcature e Veicoli, pag. .
@@ -16732,17 +16651,17 @@ Ogni qual volta il personaggio od il gruppo:
 
 **Tabella: Punti Esperienza per Livello**
 
-| **Livello** | **PX** | **Livello** | **PX** |
+| \rowcolor{gray!20}**Livello** | **PX** | **Livello** | **PX** |
 | 1 | 0 | 11 | 300000 |
-| 2 | 2000 | 12 | 390000 |
+| \rowcolor{gray!20}2 | 2000 | 12 | 390000 |
 | 3 | 8000 | 13 | 490000 |
-| 4 | 15000 | 14 | 600000 |
+| \rowcolor{gray!20}4 | 15000 | 14 | 600000 |
 | 5 | 35000 | 15 | 740000 |
-| 6 | 60000 | 16 | 890000 |
+| \rowcolor{gray!20}6 | 60000 | 16 | 890000 |
 | 7 | 90000 | 17 | 1050000 |
-| 8 | 120000 | 18 | 1250000 |
+| \rowcolor{gray!20}8 | 120000 | 18 | 1250000 |
 | 9 | 170000 | 19 | 1470000 |
-| 10 | 220000 | 20 | 1730000 |
+| \rowcolor{gray!20}10 | 220000 | 20 | 1730000 |
 | + | prec*0.2 | - | - |
 
 Vi suggerisco anche di valutare queste azioni per premiare l'impegno del giocatore
@@ -16799,14 +16718,14 @@ Nel progettare un incontro di combattimento in primo luogo decidete che livello 
 {\linewidth} % @{} removes extra padding
 	
 
-| **difficoltà** | **Grado di Sfida** |
+| \rowcolor{gray!20}**difficoltà** | **Grado di Sfida** |
 | --- | --- |
 | Facile | APL |
-| Media | APL +1 |
+| \rowcolor{gray!20}Media | APL +1 |
 | Alta | APL +2 |
-| Straordinaria | APL +3 |
+| \rowcolor{gray!20}Straordinaria | APL +3 |
 | Mortale | APL +4 |
-| Epica | APL +6 |
+| \rowcolor{gray!20}Epica | APL +6 |
 
 Si noti che questa guida di riferimento alla creazione di un incontro presuppone un gruppo di quattro o cinque personaggi. Se il vostro gruppo ha sei o più giocatori, aggiungete uno al loro livello medio. Se il vostro gruppo contiene tre o meno giocatori, sottraete uno dal loro livello medio. Per esempio, se il vostro gruppo consiste di sei giocatori, due di 5° livello e quattro di 7° livello, il APL è il 7° (38 livelli totali, diviso per sei giocatori, arrotondando all'intero più vicino, ed aggiungendo uno al risultato finale).
 
@@ -16836,12 +16755,12 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 **Tabella: Peso grado di Sfida per calcolo incontro**
 
-| **Fattore** | **\% Peso** | **Fattore** | **\% Peso** |
+| \rowcolor{gray!20}**Fattore** | **\% Peso** | **Fattore** | **\% Peso** |
 | --- | --- | --- | --- |
 | -6/-7 | 5 | -2 | 65 |
-| -5 | 10 | -1 | 80 |
+| \rowcolor{gray!20}-5 | 10 | -1 | 80 |
 | -4 | 20 | +0 | 100 |
-| -3 | 45 |  | |
+| \rowcolor{gray!20}-3 | 45 |  | |
 
 Per **Fattore** si intende la differenza tra il GS del mostro rispetto al Grado di Sfida scelto. Il Peso è la \% relativa che il mostro apporta per raggiungere l'obiettivo del 100\%.
 
@@ -16927,17 +16846,17 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 
 **Tabella: Ricchezza dei Personaggi per Livello**
 
-| **Livello** | **Ricchezza (mo)** | **Livello** | **Ricchezza (mo)** |
+| \rowcolor{gray!20}**Livello** | **Ricchezza (mo)** | **Livello** | **Ricchezza (mo)** |
 | 1 | 100 | 11 | 13900 |
-| 2 | 160 | 12 | 19900 |
+| \rowcolor{gray!20}2 | 160 | 12 | 19900 |
 | 3 | 220 | 13 | 25900 |
-| 4 | 340 | 14 | 37900 |
+| \rowcolor{gray!20}4 | 340 | 14 | 37900 |
 | 5 | 530 | 15 | 49800 |
-| 6 | 2030 | 16 | 67700 |
+| \rowcolor{gray!20}6 | 2030 | 16 | 67700 |
 | 7 | 3660 | 17 | 85700 |
-| 8 | 5780 | 18 | 142000 |
+| \rowcolor{gray!20}8 | 5780 | 18 | 142000 |
 | 9 | 8100 | 19 | 253000 |
-| 10 | 11000 | 20 | 365000 |
+| \rowcolor{gray!20}10 | 11000 | 20 | 365000 |
 
 La **Tabella: Ricchezza dei Personaggi per Livello** per Livello indica la quantità di monete d'oro equivalenti in tesori ed oggetti che ogni personaggio dovrebbe avere ad un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
 
@@ -17272,39 +17191,39 @@ Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire
 
 | {\textwidth}{>{\bfseries}l|> |
 	
-| **Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
+| \rowcolor{gray!20}	**Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
 | --- | --- | --- | --- | --- | --- | --- |
-| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
+| \rowcolor{gray!20}CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
 | x1000 | x1000 | x1000 | x100 |  |  | |
-| A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
+| \rowcolor{gray!20}A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
 | B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armature o armi, 10\% |
-| C | 1d10, 20\% | 1d6, 30\% | - | 1d6, 10\% | 1d6, 25\% | 1d3, 20\% | 2 qualsiasi, 10\% |
+| \rowcolor{gray!20}C | 1d10, 20\% | 1d6, 30\% | - | 1d6, 10\% | 1d6, 25\% | 1d3, 20\% | 2 qualsiasi, 10\% |
 | D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 qualsiasi, 15\%, + 1 pozione |
-| E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 qualsiasi, 25\%, +1 pergamena |
+| \rowcolor{gray!20}E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 qualsiasi, 25\%, +1 pergamena |
 | F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 qualsiasi, non armi 30\% |
-| G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 qualsiasi 35\% |
+| \rowcolor{gray!20}G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 qualsiasi 35\% |
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 qualsiasi 15\% |
-| I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
+| \rowcolor{gray!20}I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
 | {\textwidth}{>{\bfseries}l|> |
 	
-| **Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
-| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
+| \rowcolor{gray!20}**Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
+| \rowcolor{gray!20}CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
 | J | 3d8 | - | - | - | - | - | - |
-| K | - | 3d6 | - | - | - | - | - |
+| \rowcolor{gray!20}K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
-| M | - | - | 2d4 | - | - | - | - |
+| \rowcolor{gray!20}M | - | - | 2d4 | - | - | - | - |
 | N | - | - | - | 1d6 | - | - | - |
-| O | 1d4*10 | 1d3*10 | - | - | - | - | - |
+| \rowcolor{gray!20}O | 1d4*10 | 1d3*10 | - | - | - | - | - |
 | P | - | 1d6*10 | - | 3d6 | - | - | - |
-| Q | - | - | - | - | 1d4 | - | - |
+| \rowcolor{gray!20}Q | - | - | - | - | 1d4 | - | - |
 | R | - | - | 2d10 | 1d6*10 | 2d4 | 1d3 | - |
-| S | - | - | - | - | - | - | 1d8 pozioni |
+| \rowcolor{gray!20}S | - | - | - | - | - | - | 1d8 pozioni |
 | T | - | - | - | - | - | - | 1d4 pergamene |
-| U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 qualsiasi, 70\% |
+| \rowcolor{gray!20}U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 qualsiasi, 70\% |
 | V | - | - | - | - | - | - | 2 qualsiasi |
-| W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 qualsiasi, 60\% |
+| \rowcolor{gray!20}W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 qualsiasi, 60\% |
 | X | - | - | - | - | - | - | 2 pozioni |
-| Y | - | - | 1d6*100 | - | - | - | - |
+| \rowcolor{gray!20}Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 qualsiasi, 50\% |
 
 Quando il tesoro è indicato da più lettere la creatura possiede entrambi i tesori indicati.
@@ -17328,44 +17247,44 @@ Eppure Trovare una spada ammazzadraghi al primo livello siate certi che generer�
 
 Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per determinarne il valore in monete d'oro. Si può assegnare a tutti gli oggetti lo stesso valore, assegnare un valore individuale a ciascuna gemma/gioiello, oppure e tirare casualmente per ciascuno.
 
-| **3d6** | **Gemma (mo)** | **Gioielli (mo)** |
+| \rowcolor{gray!20}**3d6** | **Gemma (mo)** | **Gioielli (mo)** |
 | 3 | 10 | 1d4*10 |
-| 4-5 | 25 | 2d4*10 |
+| \rowcolor{gray!20}4-5 | 25 | 2d4*10 |
 | 6-8 | 50 | 1d4*100 |
-| 9-12 | 75 | 2d4*100 |
+| \rowcolor{gray!20}9-12 | 75 | 2d4*100 |
 | 13-15 | 100 | 3d4*100 |
-| 16 | 200 | 3d6*100 |
+| \rowcolor{gray!20}16 | 200 | 3d6*100 |
 | 17 | 400 | 4d6*100 |
-| 18 | 800 | 5d6*100 |
+| \rowcolor{gray!20}18 | 800 | 5d6*100 |
 
 **Tabella: tipologie di Gemme, ordinate per valore**
 
-| **4d6** | **Gemme** | **4d6** | **Gemme** |
+| \rowcolor{gray!20}**4d6** | **Gemme** | **4d6** | **Gemme** |
 | 4 | Quarzo | 16 | Topazio |
-| 5-6 | Ambra | 17 | Turchese |
+| \rowcolor{gray!20}5-6 | Ambra | 17 | Turchese |
 | 7-8 | Zircone | 18 | Zaffiro |
-| 9-10 | Ametista | 19 | Acquamarina |
+| \rowcolor{gray!20}9-10 | Ametista | 19 | Acquamarina |
 | 11 | Corallo | 20 | Smeraldo |
-| 12 | Lapislazzuli | 21 | Perla |
+| \rowcolor{gray!20}12 | Lapislazzuli | 21 | Perla |
 | 13 | Giada | 22 | Rubino |
-| 14 | Peridoto | 23 | Diamante |
+| \rowcolor{gray!20}14 | Peridoto | 23 | Diamante |
 | 15 | Granato | 24 | Pietra Leggendaria |
 
 **Tabella: tipologie di Gioielli**
 
-| **d100** | **Gioiello** | **d100** | **Gioiello** |
+| \rowcolor{gray!20}**d100** | **Gioiello** | **d100** | **Gioiello** |
 | 1-5 | Cavigliera | 6-10 | Orecchino |
-| 11-15 | Cintura | 16-20 | Coppa |
+| \rowcolor{gray!20}11-15 | Cintura | 16-20 | Coppa |
 | 21-25 | Ciondolo | 26-30 | Calice |
-| 31-35 | Braccialetto | 36-40 | Coltello |
+| \rowcolor{gray!20}31-35 | Braccialetto | 36-40 | Coltello |
 | 41-45 | Spilla | 46-50 | Tagliacarte |
-| 51-55 | Fibbia | 56-60 | Medaglione |
+| \rowcolor{gray!20}51-55 | Fibbia | 56-60 | Medaglione |
 | 61-64 | Catena | 65-68 | Medaglia |
-| 69-72 | Girocollo | 73-76 | Collana |
+| \rowcolor{gray!20}69-72 | Girocollo | 73-76 | Collana |
 | 77-80 | Tiara | 90 | Piatto |
-| 81-84 | Diadema | 85-88 | Uovo |
+| \rowcolor{gray!20}81-84 | Diadema | 85-88 | Uovo |
 | 89-92 | Fermaglio | 96 | Scettro |
-| 52 | Corona | 93-96 | Statuetta |
+| \rowcolor{gray!20}52 | Corona | 93-96 | Statuetta |
 | 97-100 | Scrigno | 100 | Globo |
 
 ### Capacità Speciali ed Oggetti Maledetti
@@ -17378,500 +17297,504 @@ Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anel
 
 **Tabella: Tipologia di Oggetto magico**
 
-| **3d6** | **Tipologia di oggetto magico** |
+| \rowcolor{gray!20}**3d6** | **Tipologia di oggetto magico** |
 | 1-20 | Amuleti, Collane, Gioielli |
-| 21-40 | Cinture, Elmi, Stivali e Guanti |
+| \rowcolor{gray!20}21-40 | Cinture, Elmi, Stivali e Guanti |
 | 41-60 | Armature e Scudi |
-| 61-80 | Armi Magiche |
+| \rowcolor{gray!20}61-80 | Armi Magiche |
 | 81-100 | Pozioni, Filtri e Olii |
-| 14 | Bacchette, Bastoni e Verghe |
+| \rowcolor{gray!20}14 | Bacchette, Bastoni e Verghe |
 | 15 | Anelli |
-| 16 | Cappelli, Mantelli, Occhiali, Tuniche |
+| \rowcolor{gray!20}16 | Cappelli, Mantelli, Occhiali, Tuniche |
 | 17 | Manuali, Tomi e Pergamene |
-| 18 | Oggetti Magici vari |
+| \rowcolor{gray!20}18 | Oggetti Magici vari |
 
 ### Armi
 
 **Tabella: Generazione Armi**
 
-| **4d6** | **Bonus magico** |
+| \rowcolor{gray!20}**4d6** | **Bonus magico** |
 | 4-6 | -2 Maledetta |
-| 7-11 | +1 |
+| \rowcolor{gray!20}7-11 | +1 |
 | 12-16 | -1 Maledetta |
-| 17-21 | +2 |
+| \rowcolor{gray!20}17-21 | +2 |
 | 22 | +3 |
-| 23 | +4 |
+| \rowcolor{gray!20}23 | +4 |
 | 24 | +5 |
 
 **Tabella: Capacità Speciale Armi Tipo 1**
 
-| **1d100** | **Capacità Speciale Armi Tipo 1** |
+| \rowcolor{gray!20}**1d100** | **Capacità Speciale Armi Tipo 1** |
 | 1-15 | Accumula Incantesimi |
-| 16-30 | Arma Anatema |
+| \rowcolor{gray!20}16-30 | Arma Anatema |
 | 31-44 | Distruttrice dei Giganti |
-| 45-58 | Energia Luminosa |
+| \rowcolor{gray!20}45-58 | Energia Luminosa |
 | 59-72 | Ladra delle Nove Vite |
-| 73-86 | Tocco Fantasma |
+| \rowcolor{gray!20}73-86 | Tocco Fantasma |
 | 87-100 | Arma della Velocita' |
 
 **Tabella: Capacità Speciale Armi Tipo 2**
 
-| **1d100** | **Capacità Speciale Armi Tipo 2** |
+| \rowcolor{gray!20}**1d100** | **Capacità Speciale Armi Tipo 2** |
 | 1-25 | del dolore |
-| 26-50 | Mazza della Punizione |
+| \rowcolor{gray!20}26-50 | Mazza della Punizione |
 | 51-75 | Anello d'Arma maggiore |
-| 76-100 | Anello d'Arma |
+| \rowcolor{gray!20}76-100 | Anello d'Arma |
 
 **Tabella: Capacità Speciale Armi Tipo 3**
 
-| **1d100** | **Capacità Speciale Armi Tipo 3** |
+| \rowcolor{gray!20}**1d100** | **Capacità Speciale Armi Tipo 3** |
 | 1-17 | Ammazza Draghi |
-| 18-34 | Ammazza Giganti |
+| \rowcolor{gray!20}18-34 | Ammazza Giganti |
 | 35-51 | Estingui Fuoco |
-| 52-68 | Mutaforma |
+| \rowcolor{gray!20}52-68 | Mutaforma |
 | 69-84 | Munizione Fantasma |
-| 85-100 | Munizioni Infinite |
+| \rowcolor{gray!20}85-100 | Munizioni Infinite |
 
 ### Armature e Scudi
 
 **Tabella: Generazione Armature/Scudi**
 
-| **4d6** | **Bonus magico** |
+| \rowcolor{gray!20}**4d6** | **Bonus magico** |
 | 4-6 | -2 Maledetta |
-| 7-11 | +1 |
+| \rowcolor{gray!20}7-11 | +1 |
 | 12-16 | -1 Maledetta |
-| 17-21 | +2 |
+| \rowcolor{gray!20}17-21 | +2 |
 | 22 | +3 |
-| 23 | +4 |
+| \rowcolor{gray!20}23 | +4 |
 | 24 | +5 |
 
 **Tabella: Capacità Speciale Armature/Scudi Tipo 1**
 
-| **1d100** | **Capacità Speciale Armature/Scudi Tipo 1** |
+| \rowcolor{gray!20}**1d100** | **Capacità Speciale Armature/Scudi Tipo 1** |
 | 11-15 | Bracciali dell'Arciere |
-| 16-20 | Bracciali della Difesa |
+| \rowcolor{gray!20}16-20 | Bracciali della Difesa |
 | 21-25 | Bracciali della Difesa Maggiore |
-| 36-40 | Difesa dagli Incantesimi |
+| \rowcolor{gray!20}36-40 | Difesa dagli Incantesimi |
 | 51-55 | Resistenza al Veleno |
-| 56-60 | Resistenza all'Energia |
+| \rowcolor{gray!20}56-60 | Resistenza all'Energia |
 | 61-65 | Resistenza all'Energia Superiore |
-| 71-75 | Scaglie di Drago |
+| \rowcolor{gray!20}71-75 | Scaglie di Drago |
 | 76-80 | Scudo Animato |
-| 81-85 | Scudo dell'Attrazione dei Proiettili |
+| \rowcolor{gray!20}81-85 | Scudo dell'Attrazione dei Proiettili |
 | 86-90 | Soffio del Dragone |
-| 91-95 | Tocco Fantasma |
+| \rowcolor{gray!20}91-95 | Tocco Fantasma |
 | 96-100 | Maledetta |
 
 **Tabella: Capacità Speciale Armature/Scudi Tipo 2**
 
-| **1d100** | **Capacità Speciale Armature/Scudi Tipo 2** |
+| \rowcolor{gray!20}**1d100** | **Capacità Speciale Armature/Scudi Tipo 2** |
 | 1-5 | Maledetta |
-| 6-10 | Adamantio |
+| \rowcolor{gray!20}6-10 | Adamantio |
 | 31-35 | Armatura Demoniaca |
-| 46-50 | Armatura della Forma Eterea |
+| \rowcolor{gray!20}46-50 | Armatura della Forma Eterea |
 | 61-65 | Mithral |
-| 66-70 | Armatura d'Ombra |
+| \rowcolor{gray!20}66-70 | Armatura d'Ombra |
 | 71-80 | Armatura Titanica |
-| 81-100 | Maledetta |
+| \rowcolor{gray!20}81-100 | Maledetta |
 
 ### Amuleti, Collane e Gioielli
 
-| **1d100** | **Amuleti, Collane e Gioielli Tipo 1** |
+| \rowcolor{gray!20}**Tipo Oggetto** | **1d8** |
+| 1-6 | Amuleti, Collane e Gioielli Tipo 1 |
+| 7-8 | Amuleti, Collane e Gioielli Tipo 2 |
+
+| \rowcolor{gray!20}**1d100** | **Amuleti, Collane e Gioielli Tipo 1** |
 | 1-8 | Amuleto Antiveleno |
-| 8-12 | Amuleto della Cancrena |
+| \rowcolor{gray!20}8-12 | Amuleto della Cancrena |
 | 12-18 | Amuleto Cicatrizzante |
-| 19-26 | Amuleto Contro la Possessione |
+| \rowcolor{gray!20}19-26 | Amuleto Contro la Possessione |
 | 27-34 | Amuleto della Localizzazione inevitabile |
-| 35 | Amuleto dei Piani |
+| \rowcolor{gray!20}35 | Amuleto dei Piani |
 | 36-42 | Amuleto di Protezione dalla Individuazione e Localizzazione |
-| 42-46 | Amuleto della Resistenza Fisica |
+| \rowcolor{gray!20}42-46 | Amuleto della Resistenza Fisica |
 | 47-53 | Cerchietto dell'Esplosione |
-| 53-60 | Collana dell'Adattamento |
+| \rowcolor{gray!20}53-60 | Collana dell'Adattamento |
 | 61-70 | Collana dello Strangolamento |
-| 71-77 | Collana delle Palle di Fuoco |
+| \rowcolor{gray!20}71-77 | Collana delle Palle di Fuoco |
 | 78-83 | Collana del Rosario |
-| 84-90 | Scarabeo della Morte |
+| \rowcolor{gray!20}84-90 | Scarabeo della Morte |
 | 91-100 | Scarabeo di Protezione |
 
-| **1d100** | **Amuleti, Collane e Gioielli Tipo 2** |
+| \rowcolor{gray!20}**1d100** | **Amuleti, Collane e Gioielli Tipo 2** |
 | 1-7 | Gemma Elementale |
-| 8-13 | Gemma della Luminosita' |
+| \rowcolor{gray!20}8-13 | Gemma della Luminosita' |
 | 9-16 | Gemma della Vista |
-| 17-26 | Gioiello Attiramostri |
+| \rowcolor{gray!20}17-26 | Gioiello Attiramostri |
 | 27-33 | Medaglione dei Pensieri |
-| 34-41 | Medaglione della Caduta piuma |
+| \rowcolor{gray!20}34-41 | Medaglione della Caduta piuma |
 | 42-49 | Perla della Saggezza |
-| 50-57 | Spilla della Difesa |
+| \rowcolor{gray!20}50-57 | Spilla della Difesa |
 | 58-60 | Talismano del Bene puro |
-| 61-62 | Talismano del Male estremo |
+| \rowcolor{gray!20}61-62 | Talismano del Male estremo |
 | 63-70 | Talismano di Protezione dal Veleno |
-| 71-80 | Talismano rotto |
+| \rowcolor{gray!20}71-80 | Talismano rotto |
 | 81-85 | Talismano della Sfera |
-| 86-100 | Gioiello senza valore |
+| \rowcolor{gray!20}86-100 | Gioiello senza valore |
 
 ### Cinture, Elmi, Stivali e Guanti
 
-| **1d100** | **Cinture, Elmi, Stivali e Guanti** |
+| \rowcolor{gray!20}**1d100** | **Cinture, Elmi, Stivali e Guanti** |
 | 1-3 | Cintura dei Giganti |
-| 3-6 | Cintura dei Nani |
+| \rowcolor{gray!20}3-6 | Cintura dei Nani |
 | 6-11 | Elmo della Comprensione dei Linguaggi |
-| 12 | Elmo della Lucentezza |
+| \rowcolor{gray!20}12 | Elmo della Lucentezza |
 | 13-17 | Elmo del Movimento subacqueo |
-| 18-22 | Elmo della Telepatia |
+| \rowcolor{gray!20}18-22 | Elmo della Telepatia |
 | 23-26 | Elmo del Teletrasporto |
-| 27-31 | Guanti Afferra Proiettili |
+| \rowcolor{gray!20}27-31 | Guanti Afferra Proiettili |
 | 31-35 | Guanti del Potere orchesco |
-| 36-41 | Guanti del Nuoto e della Scalata |
+| \rowcolor{gray!20}36-41 | Guanti del Nuoto e della Scalata |
 | 41-46 | Guanti della Destrezza |
-| 47-52 | Guanti Maldestri |
+| \rowcolor{gray!20}47-52 | Guanti Maldestri |
 | 53-58 | Pantofole del Ragno |
-| 59-63 | Stivali Alati |
+| \rowcolor{gray!20}59-63 | Stivali Alati |
 | 64-66 | Stivali della Corsa e del Salto |
-| 67-77 | Stivali degli Elfi |
+| \rowcolor{gray!20}67-77 | Stivali degli Elfi |
 | 78-83 | Stivali dell'Inverno |
-| 84-90 | Stivali della Levitazione |
+| \rowcolor{gray!20}84-90 | Stivali della Levitazione |
 | 91-95 | Stivali della Velocita' |
-| 96-100 | Stivali Danzanti |
+| \rowcolor{gray!20}96-100 | Stivali Danzanti |
 
 ### Bacchette, Bastoni e Verghe
 
 Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
-| **Tipo Oggetto** | **1d8** |
+| \rowcolor{gray!20}**Tipo Oggetto** | **1d8** |
 | 1-4 | Bacchette |
-| 5-7 | Bastoni |
+| \rowcolor{gray!20}5-7 | Bastoni |
 | 8 | Verghe |
 
 **Tabella: Generazione Bacchette**
 
-| **1d100** | **Bacchetta** |
+| \rowcolor{gray!20}**1d100** | **Bacchetta** |
 | 1-5 | Bacchetta Cerca metalli |
-| 6-10 | Bacchetta dei Dardi Arcani |
+| \rowcolor{gray!20}6-10 | Bacchetta dei Dardi Arcani |
 | 11-15 | Bacchetta delle Comodita' |
-| 16-20 | Bacchetta dei Fulmini |
+| \rowcolor{gray!20}16-20 | Bacchetta dei Fulmini |
 | 21-25 | Bacchetta del Fuoco |
-| 26-30 | Bacchetta del Ghiaccio |
+| \rowcolor{gray!20}26-30 | Bacchetta del Ghiaccio |
 | 36-38 | Bacchetta di Individ. dei Nemici |
-| 45-48 | Bacchetta dell'Individuazione delle porte segrete |
+| \rowcolor{gray!20}45-48 | Bacchetta dell'Individuazione delle porte segrete |
 | 46-50 | Bacchetta della Luce |
-| 51 | Bacchetta del Mago da Guerra |
+| \rowcolor{gray!20}51 | Bacchetta del Mago da Guerra |
 | 52 | Bacchetta della Metamorfosi |
-| 53 | Bacchetta delle Meraviglie |
+| \rowcolor{gray!20}53 | Bacchetta delle Meraviglie |
 | 54 | Bacchetta della Negazione |
-| 55-60 | Bacchetta delle Palle di Fuoco |
+| \rowcolor{gray!20}55-60 | Bacchetta delle Palle di Fuoco |
 | 61-65 | Bacchetta della Paralisi |
-| 66-70 | Bacchetta della Paura |
+| \rowcolor{gray!20}66-70 | Bacchetta della Paura |
 | 71-75 | Bacchetta Scopri trappole |
-| 76-80 | Bacchetta dei Segreti |
+| \rowcolor{gray!20}76-80 | Bacchetta dei Segreti |
 | 81-85 | Bacchetta della Ragnatela |
-| 86-90 | Bacchetta del Vincolo |
+| \rowcolor{gray!20}86-90 | Bacchetta del Vincolo |
 | 91-95 | Bacchetta della Fuga Assistita |
-| 96-100 | Bacchetta Maledetta |
+| \rowcolor{gray!20}96-100 | Bacchetta Maledetta |
 
 **Tabella: Generazione Bastoni**
 
-| **3d6** | **Bastone** |
+| \rowcolor{gray!20}**3d6** | **Bastone** |
 | 3 | Bastone dell'Arcimago |
-| 4 | Bastone dei Boschi |
+| \rowcolor{gray!20}4 | Bastone dei Boschi |
 | 5-6 | Bastone dello Charme |
-| 7-8 | Bastone del Colpire |
+| \rowcolor{gray!20}7-8 | Bastone del Colpire |
 | 9-10 | Bastone del Fuoco |
-| 11 | Bastone del Gelo |
+| \rowcolor{gray!20}11 | Bastone del Gelo |
 | 12 | Bastone degli Insetti Sciamanti |
-| 13 | Bastone del Pitone |
+| \rowcolor{gray!20}13 | Bastone del Pitone |
 | 14 | Bastone del Potere |
-| 15 | Bastone dei Tuoni e Fulmini |
+| \rowcolor{gray!20}15 | Bastone dei Tuoni e Fulmini |
 | 16 | Bastone della Stregoneria |
-| 17-18 | Bastone rotto |
+| \rowcolor{gray!20}17-18 | Bastone rotto |
 
 **Tabella: Generazione Verghe**
 
-| **1d100** | **Verga** |
+| \rowcolor{gray!20}**1d100** | **Verga** |
 | 1-10 | Verga dell'Ammaliamento |
-| 11-20 | Verga dell'Assorbimento |
+| \rowcolor{gray!20}11-20 | Verga dell'Assorbimento |
 | 21-30 | Verga Inamovibile |
-| 31-41 | Verga del Colpo possente |
+| \rowcolor{gray!20}31-41 | Verga del Colpo possente |
 | 42-50 | Verga della Forza Sovrana |
-| 51-60 | Verga della Prontezza |
+| \rowcolor{gray!20}51-60 | Verga della Prontezza |
 | 61-70 | Verga della Sicurezza |
-| 71-80 | Verga della Sovranita' |
+| \rowcolor{gray!20}71-80 | Verga della Sovranita' |
 | 81-90 | Verga Tentacolare |
-| 91-100 | Verga Maledetta |
+| \rowcolor{gray!20}91-100 | Verga Maledetta |
 
 ### Pozioni, Filtri e Olii
 
-| **Pozione** | **1d8** |
+| \rowcolor{gray!20}**Pozione** | **1d8** |
 | 1-4 | Pozione Tipo 1 |
-| 5-7 | Pozione Tipo 2 |
+| \rowcolor{gray!20}5-7 | Pozione Tipo 2 |
 | 8 | Pozione Tipo 3 |
 
-| **1d100** | **Pozione Tipo 1** |
+| \rowcolor{gray!20}**1d100** | **Pozione Tipo 1** |
 | 1-8 | Pozione di Arrampicata |
-| 9-15 | Pozione di Crescita |
+| \rowcolor{gray!20}9-15 | Pozione di Crescita |
 | 16-23 | Pozione di Eroismo |
-| 24-29 | Pozione di Forma Gassosa |
+| \rowcolor{gray!20}24-29 | Pozione di Forma Gassosa |
 | 30-35 | Pozione di Forza dei Giganti |
-| 36-46 | Pozione di Guarigione |
+| \rowcolor{gray!20}36-46 | Pozione di Guarigione |
 | 47-53 | Pozione dell'Inganno |
-| 54-64 | Pozione di Invisibilita' |
+| \rowcolor{gray!20}54-64 | Pozione di Invisibilita' |
 | 65-74 | Pozione della Levitazione |
-| 77-78 | Pozione di Resistenza |
+| \rowcolor{gray!20}77-78 | Pozione di Resistenza |
 | 79-84 | Pozione di Respirare Sott'Acqua |
-| 84-90 | Pozione di Rimpicciolimento |
+| \rowcolor{gray!20}84-90 | Pozione di Rimpicciolimento |
 | 91-95 | Pozione di Velocita' |
-| 96-100 | Pozione di Volo |
+| \rowcolor{gray!20}96-100 | Pozione di Volo |
 
-| **1d100** | **Pozione Tipo 2** |
+| \rowcolor{gray!20}**1d100** | **Pozione Tipo 2** |
 | 1-10 | Pozione della Chiaraudienza animale |
-| 11-20 | Pozione della Chiaroveggenza animale |
+| \rowcolor{gray!20}11-20 | Pozione della Chiaroveggenza animale |
 | 21-28 | Pozione di Controllo degli animali |
-| 29-33 | Pozione di Controllo dei draghi |
+| \rowcolor{gray!20}29-33 | Pozione di Controllo dei draghi |
 | 34-38 | Pozione di Controllo dei non morti |
-| 39-49 | Pozione di Controllo delle persone |
+| \rowcolor{gray!20}39-49 | Pozione di Controllo delle persone |
 | 50-55 | Pozione di Controllo delle piante |
-| 56-66 | Pozione dell'invulnerabilita' |
+| \rowcolor{gray!20}56-66 | Pozione dell'invulnerabilita' |
 | 67-77 | Pozione di Lettura del Pensiero |
-| 78-85 | Pozione di Veleno |
+| \rowcolor{gray!20}78-85 | Pozione di Veleno |
 | 86-95 | Pozione di Cura Maggiore |
-| 96-100 | Pozione di Veleno Potenziata |
+| \rowcolor{gray!20}96-100 | Pozione di Veleno Potenziata |
 
-| **1d100** | **Pozione Tipo 3** |
+| \rowcolor{gray!20}**1d100** | **Pozione Tipo 3** |
 | 1-13 | Filtro d'Amore |
-| 14-27 | Filtro Scopritesori |
+| \rowcolor{gray!20}14-27 | Filtro Scopritesori |
 | 28-40 | Olio di Affilatezza |
-| 41-53 | Olio di Forma Eterea |
+| \rowcolor{gray!20}41-53 | Olio di Forma Eterea |
 | 54-66 | Olio di Scivolosita' |
-| 67-79 | Pozione di Amicizia con gli Animali |
+| \rowcolor{gray!20}67-79 | Pozione di Amicizia con gli Animali |
 | 80-85 | Pozione della Longevita' |
-| 86-95 | Pozione della Metamorfosi |
+| \rowcolor{gray!20}86-95 | Pozione della Metamorfosi |
 | 96-100 | Pozione di Veleno Maggiore |
 
 ### Anelli
 
-| **Anello** | **3d6** |
+| \rowcolor{gray!20}**Anello** | **3d6** |
 | 3-16 | Anello Tipo 1 |
-| 17-18 | Anello Tipo 2 |
+| \rowcolor{gray!20}17-18 | Anello Tipo 2 |
 
-| **1d100** | **Anelli Tipo 1** |
+| \rowcolor{gray!20}**1d100** | **Anelli Tipo 1** |
 | 1-5 | Anello Accumula Incantesimi |
-| 6-13 | Anello dell'Ariete |
+| \rowcolor{gray!20}6-13 | Anello dell'Ariete |
 | 14-21 | Anello di Caduta Piuma |
-| 22-28 | Anello di Camminare sull'Acqua |
+| \rowcolor{gray!20}22-28 | Anello di Camminare sull'Acqua |
 | 29-35 | Anello del Calore |
-| 36-41 | Anello della Debolezza |
+| \rowcolor{gray!20}36-41 | Anello della Debolezza |
 | 42-47 | Anello di Elusione |
-| 48-50 | Anello di Influenza sugli Animali |
+| \rowcolor{gray!20}48-50 | Anello di Influenza sugli Animali |
 | 51-55 | Anello dell'Inganno |
-| 56-61 | Anello di Liberta' di Azione |
+| \rowcolor{gray!20}56-61 | Anello di Liberta' di Azione |
 | 61-67 | Anello del Nuoto |
-| 68-77 | Anello di Protezione |
+| \rowcolor{gray!20}68-77 | Anello di Protezione |
 | 76-84 | Anello di Resistenza |
-| 85-93 | Anello del Salto |
+| \rowcolor{gray!20}85-93 | Anello del Salto |
 | 93-100 | Anello di Telecinesi |
 
-| **1d100** | **Anelli Tipo 2** |
+| \rowcolor{gray!20}**1d100** | **Anelli Tipo 2** |
 | 1-8 | Anello del Controllo delle persone |
-| 9-17 | Anello del Controllo delle piante |
+| \rowcolor{gray!20}9-17 | Anello del Controllo delle piante |
 | 18-23 | Anello degli Elementali dell'Acqua |
-| 24-29 | Anello degli Elementali dell'Aria |
+| \rowcolor{gray!20}24-29 | Anello degli Elementali dell'Aria |
 | 31-36 | Anello degli Elementali del Fuoco |
-| 37-42 | Anello degli Elementali della Terra |
+| \rowcolor{gray!20}37-42 | Anello degli Elementali della Terra |
 | 43-48 | Anello di Elusione |
-| 49-56 | Anello Respingi Incantesimi |
+| \rowcolor{gray!20}49-56 | Anello Respingi Incantesimi |
 | 57-65 | Anello di Invisibilita' |
-| 66-75 | Anello di Rigenerazione |
+| \rowcolor{gray!20}66-75 | Anello di Rigenerazione |
 | 76-83 | Anello dello Scudo Mentale |
-| 84-90 | Anello delle Stelle Cadenti |
+| \rowcolor{gray!20}84-90 | Anello delle Stelle Cadenti |
 | 91-92 | Anello dei Tre Desideri |
-| 92-96 | Anello dei Tre Desideri esaurito |
+| \rowcolor{gray!20}92-96 | Anello dei Tre Desideri esaurito |
 | 97-100 | Anello della Vista ai Raggi X |
 
 ### Cappelli, Mantelli, Occhiali, Tuniche\hypertarget{Occhiali}{Occhiali}\hypertarget{Cappelli}{Cappelli}
 
-| **1d100** | **Cappelli, Mantelli, Occhiali, Tuniche** |
+| \rowcolor{gray!20}**1d100** | **Cappelli, Mantelli, Occhiali, Tuniche** |
 | 1-3 | Bandana dell'Intelligenza |
-| 4-10 | Cappello del Camuffamento |
+| \rowcolor{gray!20}4-10 | Cappello del Camuffamento |
 | 11-17 | Mantello dell'Aracnide |
-| 18-23 | Mantella del Ciarlatano |
+| \rowcolor{gray!20}18-23 | Mantella del Ciarlatano |
 | 24-29 | Mantello di Distorsione |
-| 30-40 | Mantello degli Elfi |
+| \rowcolor{gray!20}30-40 | Mantello degli Elfi |
 | 41-45 | Mantello della Manta |
-| 46-50 | Mantello del Pipistrello |
+| \rowcolor{gray!20}46-50 | Mantello del Pipistrello |
 | 51-57 | Mantello di Protezione |
-| 58-62 | Mantello della Resistenza agli Incantesimi |
+| \rowcolor{gray!20}58-62 | Mantello della Resistenza agli Incantesimi |
 | 63-68 | Mantello della velenosita' |
-| 69-72 | Occhi della pietrificazione |
+| \rowcolor{gray!20}69-72 | Occhi della pietrificazione |
 | 73-75 | Occhi Affascinanti |
-| 76-77 | Occhi dell'Aquila |
+| \rowcolor{gray!20}76-77 | Occhi dell'Aquila |
 | 78-80 | Occhi della Vista Dettagliata |
-| 80-82 | Occhiali da Notte |
+| \rowcolor{gray!20}80-82 | Occhiali da Notte |
 | 83-86 | Tunica del Mimetismo |
-| 87 | Tunica dell'Arcimago |
+| \rowcolor{gray!20}87 | Tunica dell'Arcimago |
 | 88 | Tunica dei Colori Scintillanti |
-| 89-91 | Tunica dell'Indebolimento |
+| \rowcolor{gray!20}89-91 | Tunica dell'Indebolimento |
 | 92-94 | Tunica degli Occhi |
-| 95-99 | Tunica degli Oggetti Utili |
+| \rowcolor{gray!20}95-99 | Tunica degli Oggetti Utili |
 | 100 | Tunica delle Stelle |
 
 ### Manuali, Tomi e Pergamene
 
-| **3d6** | **Rarita' Pergamena** | **Pagine della Pergamena** |
+| \rowcolor{gray!20}**3d6** | **Rarita' Pergamena** | **Pagine della Pergamena** |
 | 3-11 | Comune | 1d4 |
-| 12-13 | Non Comune | 1d6 |
+| \rowcolor{gray!20}12-13 | Non Comune | 1d6 |
 | 14-16 | Rara | 1d8 |
-| 17 | Molto Rara | 1d10 |
+| \rowcolor{gray!20}17 | Molto Rara | 1d10 |
 | 18 | Leggendaria | 2d6 |
 
-| **3d6** | **Livello Incantesimo** |
+| \rowcolor{gray!20}**3d6** | **Livello Incantesimo** |
 | 3-9 | 1 |
-| 10-12 | 2 |
+| \rowcolor{gray!20}10-12 | 2 |
 | 13-16 | 3 |
-| 17 | 4 |
+| \rowcolor{gray!20}17 | 4 |
 | 18 | 5 |
-| 18 | 6 |
+| \rowcolor{gray!20}18 | 6 |
 
-| **Manuali, Tomi e Pergamene** | **3d6** |
+| \rowcolor{gray!20}**Manuali, Tomi e Pergamene** | **3d6** |
 | 3-14 | Pergamene |
-| 15-16 | Manuali |
+| \rowcolor{gray!20}15-16 | Manuali |
 | 17-18 | Tomi |
 
-| **3d6** | **Manuali** |
+| \rowcolor{gray!20}**3d6** | **Manuali** |
 | 3-12 | Manuale vuoto |
-| 13 | Manuale dei Golem |
+| \rowcolor{gray!20}13 | Manuale dei Golem |
 | 14 | Manuale della Buona salute |
-| 15 | Manuale della Velocita' di azione |
+| \rowcolor{gray!20}15 | Manuale della Velocita' di azione |
 | 16 | Manuale dell'Esercizio fisico |
-| 17 | Manuale della Buona Salute maledetto |
+| \rowcolor{gray!20}17 | Manuale della Buona Salute maledetto |
 | 18 | Manuale dell'Esercizio fisico maledetto |
 
-| **3d6** | **Tomi** |
+| \rowcolor{gray!20}**3d6** | **Tomi** |
 | 3-12 | Tomo vuoto |
-| 13 | Tomo dell'Autorita' e dell'Influenza |
+| \rowcolor{gray!20}13 | Tomo dell'Autorita' e dell'Influenza |
 | 14 | Tomo della Comprensione |
-| 15 | Tomo del Pensiero Limpido |
+| \rowcolor{gray!20}15 | Tomo del Pensiero Limpido |
 | 16 | Tomo dell'Autorita' e dell'Influenza maledetto |
-| 17 | Tomo della Comprensione maledetto |
+| \rowcolor{gray!20}17 | Tomo della Comprensione maledetto |
 | 18 | Tomo del Pensiero Limpido maledetto |
 
 ### Oggetti Magici vari
 
-| **Tipo Oggetto** | **1d12** |
+| \rowcolor{gray!20}**Tipo Oggetto** | **1d12** |
 | 1-4 | Oggetti Magici Vari 1 |
-| 5-7 | Oggetti Magici Vari 2 |
+| \rowcolor{gray!20}5-7 | Oggetti Magici Vari 2 |
 | 8-10 | Oggetti Magici Vari 3 |
-| 11 | Oggetti Magici Vari 4 |
+| \rowcolor{gray!20}11 | Oggetti Magici Vari 4 |
 | 12 | Rari e Leggendari |
 
 ### Oggetti magici vari 1
 
-| **1d100** | **Oggetti magici vari 1** |
+| \rowcolor{gray!20}**1d100** | **Oggetti magici vari 1** |
 | 1-8 | Acqua purificatrice |
-| 9-17 | Battaglio dell'Apertura |
+| \rowcolor{gray!20}9-17 | Battaglio dell'Apertura |
 | 18-27 | Borsa Conservante Tipo I |
-| 28-34 | Corda da Arrampicata |
+| \rowcolor{gray!20}28-34 | Corda da Arrampicata |
 | 35-43 | Faretra Efficiente |
-| 44-48 | Freccia localizzante |
+| \rowcolor{gray!20}44-48 | Freccia localizzante |
 | 49-52 | Balestra dei Dardi Arcani |
-| 53-57 | Lanterna della Rivelazione |
+| \rowcolor{gray!20}53-57 | Lanterna della Rivelazione |
 | 58-60 | Pergamena contro gli elementali |
-| 61-63 | Pergamena contro i non morti |
+| \rowcolor{gray!20}61-63 | Pergamena contro i non morti |
 | 63-65 | Collana dell'Aria Salubre |
-| 66-69 | Perla del Potere |
+| \rowcolor{gray!20}66-69 | Perla del Potere |
 | 70-73 | Pietra della Buona Sorte |
-| 74-80 | Filatterio contro i non morti |
+| \rowcolor{gray!20}74-80 | Filatterio contro i non morti |
 | 81-83 | Solvente Universale |
-| 84-89 | Polvere dell'Aridita' |
+| \rowcolor{gray!20}84-89 | Polvere dell'Aridita' |
 | 90-94 | Unguento di Ljust |
-| 95-100 | Zainetto Pratico |
+| \rowcolor{gray!20}95-100 | Zainetto Pratico |
 
 ### Oggetti magici vari 2
 
-| **1d100** | **Oggetti magici vari 2** |
+| \rowcolor{gray!20}**1d100** | **Oggetti magici vari 2** |
 | 1-8 | Braciere degli Elementali del Fuoco |
-| 9-17 | Braciere del Sonno maledetto |
+| \rowcolor{gray!20}9-17 | Braciere del Sonno maledetto |
 | 18-23 | Cubo di protezione dal freddo |
-| 24-29 | Incensiere degli Elementali dell'Aria |
+| \rowcolor{gray!20}24-29 | Incensiere degli Elementali dell'Aria |
 | 30-34 | Incenso della meditazione |
-| 35-43 | Rete Intralciante |
+| \rowcolor{gray!20}35-43 | Rete Intralciante |
 | 44-52 | Rete Intrappolante |
-| 53-58 | Scopa dell'Attacco animato |
+| \rowcolor{gray!20}53-58 | Scopa dell'Attacco animato |
 | 59-63 | Scopa Volante |
-| 64-67 | Borsa Divorante |
+| \rowcolor{gray!20}64-67 | Borsa Divorante |
 | 68-70 | Pergamena protettiva contro la magia |
-| 71-73 | Pergamena contro i licantropi |
+| \rowcolor{gray!20}71-73 | Pergamena contro i licantropi |
 | 74-76 | Scopa del Volo maledetto |
-| 77-84 | Pietre parlanti |
+| \rowcolor{gray!20}77-84 | Pietre parlanti |
 | 85-88 | Specchio della Duplicazione |
-| 89-90 | Specchio Intrappola Vita |
+| \rowcolor{gray!20}89-90 | Specchio Intrappola Vita |
 | 91-94 | Corno del Valhalla |
-| 95-98 | Tappeto Volante |
+| \rowcolor{gray!20}95-98 | Tappeto Volante |
 | 99-100 | Zappa dei Titani |
 
 ### Oggetti magici vari 3
 
-| **1d100** | **Oggetti magici vari 3** |
+| \rowcolor{gray!20}**1d100** | **Oggetti magici vari 3** |
 | 1-15 | Borsa dell'Annullamento |
-| 16-25 | Brocca dell'Acqua Infinita |
+| \rowcolor{gray!20}16-25 | Brocca dell'Acqua Infinita |
 | 26-35 | Ceppi Dimensionali |
-| 36-46 | Colla Suprema |
+| \rowcolor{gray!20}36-46 | Colla Suprema |
 | 47-56 | Polvere Rivelatrice |
-| 57-68 | Polvere della Sparizione |
+| \rowcolor{gray!20}57-68 | Polvere della Sparizione |
 | 69-70 | Palla di Cristallo ipnotica |
-| 71-81 | Polvere dello Starnuto e del Soffocamento |
+| \rowcolor{gray!20}71-81 | Polvere dello Starnuto e del Soffocamento |
 | 82-90 | Pietra Arcana |
-| 91-96 | Pietra del Peso |
+| \rowcolor{gray!20}91-96 | Pietra del Peso |
 | 97-100 | Ventaglio Arcano |
 
 ### Oggetti magici vari 4
 
-| **1d100** | **Oggetti magici vari 4** |
+| \rowcolor{gray!20}**1d100** | **Oggetti magici vari 4** |
 | 1-10 | Ampolla delle maledizioni |
-| 11-18 | Battaglio del Cannibalismo |
+| \rowcolor{gray!20}11-18 | Battaglio del Cannibalismo |
 | 19-28 | Borsa Conservante Tipo II |
-| 29-37 | Buco Portatile |
+| \rowcolor{gray!20}29-37 | Buco Portatile |
 | 38-43 | Corda dell'Intralciamento |
-| 44-50 | Corda Strozzatrice |
+| \rowcolor{gray!20}44-50 | Corda Strozzatrice |
 | 51-55 | Corno di Distruzione |
-| 56-60 | Cubo di Forza |
+| \rowcolor{gray!20}56-60 | Cubo di Forza |
 | 61-64 | Fasce di Ferro del Vincolo |
-| 65-73 | Incenso dell'Ossessione |
+| \rowcolor{gray!20}65-73 | Incenso dell'Ossessione |
 | 74-82 | Mazzo delle Illusioni |
-| 83-84 | Pietra degli Elementali della Terra |
+| \rowcolor{gray!20}83-84 | Pietra degli Elementali della Terra |
 | 85-91 | Piffero dello Spavento |
-| 92-94 | Piuma Arcana |
+| \rowcolor{gray!20}92-94 | Piuma Arcana |
 | 95-96 | Tamburi del Panico |
-| 97-98 | Tamburi dello Stordimento |
+| \rowcolor{gray!20}97-98 | Tamburi dello Stordimento |
 | 99-100 | Turibolo dell'Evocazione maledetta |
 
 ### Rari e Leggendari
 
-| **1d100** | **Oggetto Magico** |
+| \rowcolor{gray!20}**1d100** | **Oggetto Magico** |
 | 1-3 | Ali del Volo |
-| 4-6 | Ampolla di Ferro |
+| \rowcolor{gray!20}4-6 | Ampolla di Ferro |
 | 7-10 | Anfora elementale dell'acqua |
-| 11-12 | Apparato del Granchio |
+| \rowcolor{gray!20}11-12 | Apparato del Granchio |
 | 13-15 | Barca Pieghevole |
-| 17-20 | Borsa Conservante Tipo III |
+| \rowcolor{gray!20}17-20 | Borsa Conservante Tipo III |
 | 21-24 | Borsa Conservante Tipo IV |
-| 25-28 | Borsa dei Fagioli |
+| \rowcolor{gray!20}25-28 | Borsa dei Fagioli |
 | 29-30 | Bottiglia dell'Efreeti |
-| 31 | Brocca delle Pozioni |
+| \rowcolor{gray!20}31 | Brocca delle Pozioni |
 | 32-35 | Candela di Invocazione |
-| 36-39 | Filatterio della giovinezza |
+| \rowcolor{gray!20}36-39 | Filatterio della giovinezza |
 | 40-42 | Fortezza Istantanea |
-| 43-45 | Mazzo delle Meraviglie |
+| \rowcolor{gray!20}43-45 | Mazzo delle Meraviglie |
 | 46-50 | Miniatura dal Potere Meraviglioso |
-| 51-55 | Munizione dell'Uccisione |
+| \rowcolor{gray!20}51-55 | Munizione dell'Uccisione |
 | 56-60 | Palla di Cristallo |
-| 61-67 | Piffero delle Fogne |
+| \rowcolor{gray!20}61-67 | Piffero delle Fogne |
 | 68-75 | Pigmenti delle Meraviglie |
-| 76-83 | Portale Cubico |
+| \rowcolor{gray!20}76-83 | Portale Cubico |
 | 84-86 | Pozzo dei Molti Mondi |
-| 87-89 | Specchio dell'Abilita' mentale |
+| \rowcolor{gray!20}87-89 | Specchio dell'Abilita' mentale |
 | 90-91 | Sfera dell'Annientamento |
-| 92-94 | Turibolo Elementale dell'aria |
+| \rowcolor{gray!20}92-94 | Turibolo Elementale dell'aria |
 | 95-96 | Vano Portatile |
-| 97-98 | Zoccoli della Velocita' |
+| \rowcolor{gray!20}97-98 | Zoccoli della Velocita' |
 | 99-100 | Zoccoli dello Zefiro |
 
 ---
@@ -17984,21 +17907,21 @@ questa **bottiglia** di ferro ha un tappo di ottone. Puoi usare due azioni per p
 
 L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
 
-| **d100** | **Contiene** |
+| \rowcolor{gray!20}**d100** | **Contiene** |
 | 1-50 | Vuota |
-| 51-66 | Demone |
+| \rowcolor{gray!20}51-66 | Demone |
 | 67 | Angelo Deva |
-| 68-69 | Diavolo (superiore) |
+| \rowcolor{gray!20}68-69 | Diavolo (superiore) |
 | 70-73 | Diavolo (inferiore) |
-| 74-75 | Genio Djinni |
+| \rowcolor{gray!20}74-75 | Genio Djinni |
 | 76-77 | Genio Efreeti |
-| 78-83 | Elementale (qualsiasi) |
+| \rowcolor{gray!20}78-83 | Elementale (qualsiasi) |
 | 84-86 | Persecutore invisibile |
-| 87-90 | Megera notturna |
+| \rowcolor{gray!20}87-90 | Megera notturna |
 | 91 | Angelo Planetar |
-| 92-95 | Salamandra |
+| \rowcolor{gray!20}92-95 | Salamandra |
 | 96 | Angelo Solar |
-| 97-99 | Succube/Incubo |
+| \rowcolor{gray!20}97-99 | Succube/Incubo |
 | 100 | La Topi |
 
 \oggettomagico{Amuleto Antiveleno}
@@ -18061,19 +17984,19 @@ mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi
 
 Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
 
-| d\% | Nemico prescelto |
+| \rowcolor{gray!20}d\% | Nemico prescelto |
 | 01-05 | Aberrazioni |
-| 06-09 | Bestie |
+| \rowcolor{gray!20}06-09 | Bestie |
 | 10-16 | Costrutti |
-| 17-22 | Draghi |
+| \rowcolor{gray!20}17-22 | Draghi |
 | 23-27 | Fatati |
-| 28-60 | Umanoidi (scegliere sottotipo) |
+| \rowcolor{gray!20}28-60 | Umanoidi (scegliere sottotipo) |
 | 61-70 | Creature Magiche |
-| 71-72 | Melme |
+| \rowcolor{gray!20}71-72 | Melme |
 | 73-88 | Immondi |
-| 89-90 | Piante |
+| \rowcolor{gray!20}89-90 | Piante |
 | 91-98 | Non Morti |
-| 99-100 | Insetti |
+| \rowcolor{gray!20}99-100 | Insetti |
 
 \oggettomagico{Anello Accumula Incantesimi}
 
@@ -18102,15 +18025,15 @@ La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si con
 
 Un Anello d'**arma** maggiore può essere applicato solo ad armi da mischia ed ha un solo potere. Quando viene trovato è necessario tirare sulla tabella sottostante per determinare il tipo di talento che conferisce l'anello. L'anello d'arma non si conta nei limiti per indossare anelli. Un arma può avere un numero di Anelli d'Arma massimo pari al suo bonus magico.
 
-| **1d100** | **Talento** | **1d100** | **Talento** |
+| \rowcolor{gray!20}**1d100** | **Talento** | **1d100** | **Talento** |
 | 1-6 | Maledetta -2 | 55-60 | Folgorante |
-| 7-12 | Coraggiosa | 61-66 | Gelida |
+| \rowcolor{gray!20}7-12 | Coraggiosa | 61-66 | Gelida |
 | 13-18 | Del Dolore | 67-72 | Lingua di fuoco |
-| 19-24 | Perfida | 73-78 | Marina |
+| \rowcolor{gray!20}19-24 | Perfida | 73-78 | Marina |
 | 25-30 | +3 | 79-84 | Mutaforma |
-| 31-36 | Maledetta -1 | 85-90 | +2 |
+| \rowcolor{gray!20}31-36 | Maledetta -1 | 85-90 | +2 |
 | 37-42 | Arma Titanica | 91-96 | Tonante |
-| 43-48 | Caos | 97-100 | Trasformante |
+| \rowcolor{gray!20}43-48 | Caos | 97-100 | Trasformante |
 | 49-54 | Corrosiva |  | |
 
 Quando inserito nell'elsa dell'**arma** il personaggio può due volte al giorno usare 1 Azione e aggiungere all'arma il talento tirato, per 10 round. Se l'arma non è almeno magica +1 diventa magica +1. La capacità dell'Anello d'Arma maggiore si ricarica all'alba.
@@ -18340,17 +18263,17 @@ costo vario, rarità varia, mentre indossi questo **anello**, hai un bonus da +1
 
 mentre indossi questo **anello**, hai resistenza a un tipo di danno. La gemma incastonata nell'anello indica il tipo di danno, che viene scelto o determinato casualmente dal Narratore.
 
-| **d10** | **Tipo di Danno** | **Gemma** |
+| \rowcolor{gray!20}**d10** | **Tipo di Danno** | **Gemma** |
 | 1 | Acido | Perla |
-| 2 | Forza | Zaffiro |
+| \rowcolor{gray!20}2 | Forza | Zaffiro |
 | 3 | Freddo | Tormalina |
-| 4 | Fulmine | Citrino |
+| \rowcolor{gray!20}4 | Fulmine | Citrino |
 | 5 | Fuoco | Granato |
-| 6 | Vuoto | Giaietto |
+| \rowcolor{gray!20}6 | Vuoto | Giaietto |
 | 7 | Energia Positiva | Giada |
-| 8 | Luce | Topazio |
+| \rowcolor{gray!20}8 | Luce | Topazio |
 | 9 | Suono | Spinello |
-| 10 | Energia Negativa | Ardesia |
+| \rowcolor{gray!20}10 | Energia Negativa | Ardesia |
 
 \oggettomagico{Anello di Rigenerazione}
 
@@ -18583,32 +18506,33 @@ Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'al
 
 Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta questa tabella.
 
-| **d100** | **Contenuti** |
+| \rowcolor{gray!20}**d100** | **Contenuti** |
 | 01-05 | Lanci l'incantesimo Lentezza. |
-| 06-10 | Lanci l'incantesimo Luminescenza. |
+| \rowcolor{gray!20}06-10 | Lanci l'incantesimo Luminescenza. |
 | 11-15 | Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente. |
-| 16-20 | Lanci l'incantesimo Folata di vento. |
+| \rowcolor{gray!20}16-20 | Lanci l'incantesimo Folata di vento. |
 | 21-25 | Lanci l'incantesimo Individuazione dei pensieri sul bersaglio da te scelto. Se il tuo a bersaglio non è una creatura, subisci invece 1d6 danni. |
-| 26-30 | Lanci l'incantesimo Nebbia Nauseante. |
+| \rowcolor{gray!20}26-30 | Lanci l'incantesimo Nebbia Nauseante. |
 | 31-33 | Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round. |
-| 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
+| \rowcolor{gray!20}34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
 | Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto. |
-| 37-46 | Lanci Fulmine. |
+| \rowcolor{gray!20}37-46 | Lanci Fulmine. |
 | 47-49 | Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente e fornisce copertura totale. Le farfalle restano per 10 minuti. |
-| 50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
+| \rowcolor{gray!20}50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
 | 54-58 | Lanci l'incantesimo oscurità. |
-| 59-62 | Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto. |
+| \rowcolor{gray!20}59-62 | Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto. |
 | 63-65 | Un oggetto a scelta del Narratore scompare sul Piano Etereo. L'oggetto non deve essere né indossato né trasportato, deve essere entro 36 metri dal bersaglio, e non più grande di 3 metri in ciascuna dimensione. |
-| 66-69 | Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre. |
+| \rowcolor{gray!20}66-69 | Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre. |
 | 70-79 | Lanci l'incantesimo Palla di fuoco. |
-| 80-84 | Lanci l'incantesimo Invisibilità su di te. |
+| \rowcolor{gray!20}80-84 | Lanci l'incantesimo Invisibilità su di te. |
 | 85-87 | Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore. |
-| 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
-| {\linewidth} | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
-| 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
-| 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
+| \rowcolor{gray!20}88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
 
-| 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
+| \rowcolor{gray!20} | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
+| 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
+| \rowcolor{gray!20}96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
+
+| \rowcolor{gray!20}98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
 
 \oggettomagico{Bacchetta delle Palle di Fuoco}
 
@@ -18740,9 +18664,9 @@ Hai il 50\% di probabilità di viaggiare istantaneamente in un piano di esistenz
 
 Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
-| **Distanza dall'origine** | **Danno** |
+| \rowcolor{gray!20}**Distanza dall'origine** | **Danno** |
 | 3 metri o meno | 8 x cariche nel bastone |
-| Fino a 6 metri | 6 x cariche nel bastone |
+| \rowcolor{gray!20}Fino a 6 metri | 6 x cariche nel bastone |
 | Fino a 9 metri | 4 x cariche nel bastone |
 
 Nota: il Bastone dell'Archimago e del Potere sono simili, questo perché preparati da due acerrimi nemici che volevano creare il Bastone più potente.
@@ -18865,21 +18789,21 @@ Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggi
 
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
-| **d100** | **Effetto** |
+| \rowcolor{gray!20}**d100** | **Effetto** |
 | 01 | Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari esegui un tiro Salvezza su Tempra con DC 18 o subire 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari ottiene 5d6 Punti Ferita temporanei per 1 ora. |
-| 02-10 | Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round. |
+| \rowcolor{gray!20}02-10 | Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round. |
 | 11-20 | Spunta un uomo albero. C'è una probabilità del 50\% che l'uomo albero sia malvagio e ti attacchi. |
-| 21-30 | Una statua di pietra animata con le tue fattezze si leva dal terreno. Essa comincerà a minacciarti verbalmente. Se dovessi andartene e altre persone giungessero sul posto, la statua ti descriverebbe come il più pericoloso dei criminali e li esorterebbe ad cercarti e attaccarti. Se ti trovi sullo stesso piano di esistenza della statua, essa saprà sempre dove sei. Dopo 24 ore la statua diventerà inanimata. |
+| \rowcolor{gray!20}21-30 | Una statua di pietra animata con le tue fattezze si leva dal terreno. Essa comincerà a minacciarti verbalmente. Se dovessi andartene e altre persone giungessero sul posto, la statua ti descriverebbe come il più pericoloso dei criminali e li esorterebbe ad cercarti e attaccarti. Se ti trovi sullo stesso piano di esistenza della statua, essa saprà sempre dove sei. Dopo 24 ore la statua diventerà inanimata. |
 | 31-40 | Un fuoco da campo che produce fiamme blu spunta dal terreno e brucia per 24 ore (o finché non viene spento). |
-| 41-50 | Sputano 1d6 + 6 Fungo Stridente. |
+| \rowcolor{gray!20}41-50 | Sputano 1d6 + 6 Fungo Stridente. |
 | 51-60 | Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. |
-| 61-70 | Una bulette esce dal terreno e attacca. |
+| \rowcolor{gray!20}61-70 | Una bulette esce dal terreno e attacca. |
 
-| **d100** | **Effetto** |
+| \rowcolor{gray!20}**d100** | **Effetto** |
 | 71-80 | Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. |
-| 81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
+| \rowcolor{gray!20}81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
 | 91-99 | Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore. |
-| 100 | Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
+| \rowcolor{gray!20}100 | Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
 
 \oggettomagico{Borsa dell'Annullamento}
 
@@ -18901,11 +18825,11 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 
 questa **bottiglia** di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
-| **3d6** | **Effetto** |
+| \rowcolor{gray!20}**3d6** | **Effetto** |
 | 3-5 | L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia. |
-| 6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
+| \rowcolor{gray!20}6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
 
-| **3d6** | **Effetto** |
+| \rowcolor{gray!20}**3d6** | **Effetto** |
 | 17-18 | L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia. |
 
 \oggettomagico{Bottiglia Fumante}
@@ -19040,12 +18964,12 @@ mentre indossi questo **cerchietto**, puoi usare due azioni, portando due dita s
 
 Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie di veri giganti. La cinta del gigante di pietra e la cinta del gigante del gelo appaiono diverse, ma hanno lo stesso effetto.
 
-| **Tipo di Gigante** | **Forza** | **Rarità** |
+| \rowcolor{gray!20}**Tipo di Gigante** | **Forza** | **Rarità** |
 | --- | --- | --- |
 | **Collina** | 5 | Raro |
-| **Pietra/del Gelo** | 6 | Molto raro |
+| \rowcolor{gray!20}**Pietra/del Gelo** | 6 | Molto raro |
 | **Fuoco** | 7 | Molto raro |
-| **Nuvole** | 8 | Leggendario |
+| \rowcolor{gray!20}**Nuvole** | 8 | Leggendario |
 | **Tempeste** | 9 | Leggendario |
 
 \oggettomagico{Cintura dei Nani}
@@ -19080,13 +19004,13 @@ questa **collana** possiede 1d4 + 2 sfere magiche fatte di acquamarina, perla ne
 
 Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfera facente parte della collana. Una collana può avere più di una sfera dello stesso tipo. Per usarla, devi indossare la collana. Ogni sfera contiene un incantesimo che puoi lanciare con due azioni, con DC dell'Incantesimo pari a 12 + 2x Livello in caso di Tiro Salvezza. Una volta che l'incantesimo di una sfera magica è stato lanciato, non potrai usare di nuovo quella sfera fino all'alba successiva.
 
-| **3d6** | **Sfera di...** | **Incantesimo** |
+| \rowcolor{gray!20}**3d6** | **Sfera di...** | **Incantesimo** |
 | 3-5 | Benedizione | Benedizione |
-| 6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
+| \rowcolor{gray!20}6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
 | 12-14 | Favore Divino | Ristorare superiore |
-| 15-16 | Punire | Punizione marchiante |
+| \rowcolor{gray!20}15-16 | Punire | Punizione marchiante |
 | 17 | Vento | Camminare nel vento |
-| 18 | Convocare | Barriera di Lame |
+| \rowcolor{gray!20}18 | Convocare | Barriera di Lame |
 
 \oggettomagico{Collana dell'Adattamento}
 
@@ -19182,23 +19106,23 @@ Se il tuo movimento fa sì che la barriera entri a contatto con un oggetto solid
 
 Il cubo perde cariche quando la barriera viene presa come bersaglio da certi incantesimi o entra a contatto con certi incantesimi o effetti di oggetti magici, come indicato nella tabella seguente.
 
-| **Incantesimo o Oggetto** | **Cariche Perse** |
+| \rowcolor{gray!20}**Incantesimo o Oggetto** | **Cariche Perse** |
 | --- | --- |
 | Dardo arcano (3 colpi) | 1 |
-| Disintegrazione | 1d12 |
+| \rowcolor{gray!20}Disintegrazione | 1d12 |
 | Muro di fuoco | 1d4 |
-| Passa Porta | 1d6 |
+| \rowcolor{gray!20}Passa Porta | 1d6 |
 | Spruzzo Prismatico | 3d6 |
 
 Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in cariche.
 
-| **Faccia** | **Costo** | **Effetto** |
+| \rowcolor{gray!20}**Faccia** | **Costo** | **Effetto** |
 | 1 | 1 | Gas, vento e nebbia non possono penetrare la barriera |
-| 2 | 2 | La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
+| \rowcolor{gray!20}2 | 2 | La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
 | 3 | 3 | La materia vivente non può attraversare la barriera. |
-| 4 | 4 | Gli effetti dell'incantesimo non possono attraversare la barriera. |
+| \rowcolor{gray!20}4 | 4 | Gli effetti dell'incantesimo non possono attraversare la barriera. |
 | 5 | 5 | Nulla può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
-| 6 | 0 | La barriera si disattiva. |
+| \rowcolor{gray!20}6 | 0 | La barriera si disattiva. |
 
 Ogni attivazione dura un minuto.
 
@@ -19497,12 +19421,12 @@ con due azioni, puoi pronunciare la parola di comando della **gemma** e spendere
 
 questa **gemma** contiene una scintilla di energia elementale. Quando usi due azioni per infrangere la gemma, questa evoca un elementale come se tu avessi lanciato l'incantesimo Evoca Elementale, e la magia della gemma svanisce. Il tipo di gemma determina l'elementale evocato dall'incantesimo.
 
-| **Gemma** | **Elementale evocato** |
+| \rowcolor{gray!20}**Gemma** | **Elementale evocato** |
 | --- | --- |
 | Corindone rosso | Elementale del fuoco |
-| Diamante giallo | Elementale della terra |
+| \rowcolor{gray!20}Diamante giallo | Elementale della terra |
 | Smeraldo | Elementale dell'acqua |
-| Zaffiro blu | Elementale dell'aria |
+| \rowcolor{gray!20}Zaffiro blu | Elementale dell'aria |
 
 \oggettomagico{Gioiello Attiramostri}
 
@@ -19684,11 +19608,11 @@ Per creare un golem, devi trascorrere il tempo sopra indicato, lavorando senza i
 
 Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.
 
-| 3d6 | Golem | Tempo | Costo |
+| \rowcolor{gray!20}3d6 | Golem | Tempo | Costo |
 | 3-4 | Argilla | 30 giorni | 65000 mo |
-| 5-16 | Carne | 60 giorni | 50000 mo |
+| \rowcolor{gray!20}5-16 | Carne | 60 giorni | 50000 mo |
 | 17 | Ferro | 120 giorni | 100000 mo |
-| 18 | Pietra | 90 giorni | 80000 mo |
+| \rowcolor{gray!20}18 | Pietra | 90 giorni | 80000 mo |
 
 \oggettomagico{Manuale dell'Esercizio fisico}
 
@@ -19737,40 +19661,40 @@ La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usar
 L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volontà con Intelligenza con DC 17. La creatura le apparirà quindi trasparente.
 L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare e quella carta non potrà più essere usata.
 
-| **Carta da Gioco** | **Illusione** |
+| \rowcolor{gray!20}**Carta da Gioco** | **Illusione** |
 | --- | --- |
 | Asso di cuori | Drago rosso |
-| Re di cuori | Cavaliere e quattro guardie |
+| \rowcolor{gray!20}Re di cuori | Cavaliere e quattro guardie |
 | Regina di cuori | Succube o incubo |
-| Fante di cuori | Druido |
+| \rowcolor{gray!20}Fante di cuori | Druido |
 | Dieci di cuori | Gigante delle nuvole |
-| Nove di cuori | Ettin |
+| \rowcolor{gray!20}Nove di cuori | Ettin |
 | Otto di cuori | Bugbear |
-| Due di cuori | Goblin |
+| \rowcolor{gray!20}Due di cuori | Goblin |
 | Asso di picche | Lich |
-| Re di picche | Sacerdote e due accoliti |
+| \rowcolor{gray!20}Re di picche | Sacerdote e due accoliti |
 | Regina di picche | Medusa |
-| Fante di picche | Veterano |
+| \rowcolor{gray!20}Fante di picche | Veterano |
 | Dieci di picche | Gigante del gelo |
-| Nove di picche | Troll |
+| \rowcolor{gray!20}Nove di picche | Troll |
 | Otto di picche | Hobgoblin |
-| Due di picche | Goblin |
+| \rowcolor{gray!20}Due di picche | Goblin |
 | Asso di quadri | Beholder |
-| Re di quadri | Arcimago e mago apprendista |
+| \rowcolor{gray!20}Re di quadri | Arcimago e mago apprendista |
 | Regina di quadri | Megera notturna |
-| Fante di quadri | Assassino |
+| \rowcolor{gray!20}Fante di quadri | Assassino |
 | Dieci di quadri | Gigante del fuoco |
-| Nove di quadri | Oni |
+| \rowcolor{gray!20}Nove di quadri | Oni |
 | Otto di quadri | Gnoll |
-| Due di quadri | Coboldo |
+| \rowcolor{gray!20}Due di quadri | Coboldo |
 | Asso di fiori | Golem di ferro |
-| Re di fiori | Capitano bandito e tre banditi |
+| \rowcolor{gray!20}Re di fiori | Capitano bandito e tre banditi |
 | Regina di fiori | Erinni |
-| Fante di fiori | Berserker |
+| \rowcolor{gray!20}Fante di fiori | Berserker |
 | Dieci di fiori | Gigante delle Colline |
-| Nove di fiori | Ogre |
+| \rowcolor{gray!20}Nove di fiori | Ogre |
 | Otto di fiori | Orco |
-| Due di fiori | Coboldo |
+| \rowcolor{gray!20}Due di fiori | Coboldo |
 | Jolly (2) | Tu (il proprietario del mazzo) |
 
 \oggettomagico{Mazzo delle Meraviglie}
@@ -19783,32 +19707,32 @@ Prima di pescare una carta, devi dichiarare quante carte intendi pescare e poi p
 
 Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi il numero scelto di carte, il numero di carte rimanenti uscirà fuori dal mazzo spontaneamente e avrà effetto in contemporanea. Una volta estratta una carta, questa svanirà dall'esistenza. A meno che la carta non sia il Matto o il Buffone, la carta ricompare nel mazzo, rendendo possibile pescare due volte la stessa carta.
 
-| **Carta da Gioco** | **Carta** |
+| \rowcolor{gray!20}**Carta da Gioco** | **Carta** |
 | --- | --- |
 | Asso di quadri | Visir* |
-| Re di quadri | Sole |
+| \rowcolor{gray!20}Re di quadri | Sole |
 | Regina di quadri | Luna |
 
-| **Carta da Gioco** | **Carta** |
+| \rowcolor{gray!20}**Carta da Gioco** | **Carta** |
 | --- | --- |
 | Fante di quadri | Stella |
-| Due di quadri | Cometa* |
+| \rowcolor{gray!20}Due di quadri | Cometa* |
 | Asso di fiori | Artigli* |
-| Re di fiori | Vuoto |
+| \rowcolor{gray!20}Re di fiori | Vuoto |
 | Regina di fiori | Fiamme |
-| Fante di fiori | Teschio |
+| \rowcolor{gray!20}Fante di fiori | Teschio |
 | Due di fiori | Idiota |
-| Jolly | Giullare |
+| \rowcolor{gray!20}Jolly | Giullare |
 | Asso di cuori | Destino* |
-| Re di cuori | Trono |
+| \rowcolor{gray!20}Re di cuori | Trono |
 | Regina di cuori | Chiave |
-| Fante di cuori | Cavaliere |
+| \rowcolor{gray!20}Fante di cuori | Cavaliere |
 | Due di cuori | Gemma* |
-| Asso di picche | Prigione* |
+| \rowcolor{gray!20}Asso di picche | Prigione* |
 | Re di picche | Rovina |
-| Regina di picche | Eurialo |
+| \rowcolor{gray!20}Regina di picche | Eurialo |
 | Due di picche | Bilancia* |
-| Jolly | Matto* |
+| \rowcolor{gray!20}Jolly | Matto* |
 
 * Solo in mazzo da 22 **carte**
 
@@ -20721,9 +20645,9 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 | **d100** | **Taglia** | **Capacità** | **Velocità** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Ing.)** | **di Volo** |
-| 01--20 | 90 × 150 | 100 kg / 25 | 23 metri |
+| \rowcolor{gray!20}01--20 | 90 × 150 | 100 kg / 25 | 23 metri |
 | 21--55 | 120 × 180 | 200 kg / 50 | 18 metri |
-| 56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
+| \rowcolor{gray!20}56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 metri |
 
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
@@ -20824,21 +20748,21 @@ Inoltre, la vestaglia ha 4d4 altre toppe. Il Narratore sceglie le toppe o le det
 
 Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 toppe della vestaglia degli oggetti utili.
 
-| **d100** | **Effetto** |
+| \rowcolor{gray!20}**d100** | **Effetto** |
 | 01-08 | Borsello con 100 mo. |
-| 09-15 | Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo. |
+| \rowcolor{gray!20}09-15 | Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo. |
 | 16-22 | Porta di ferro (larga e alta massimo 3 metri, sbarrata dal lato di tua scelta), che puoi piazzare su qualsiasi apertura a portata; si adatta per entrare nell'apertura, fissandosi e creando dei cardini. |
-| 23-30 | 10 gemme del valore di 100 mo ciascuna. |
+| \rowcolor{gray!20}23-30 | 10 gemme del valore di 100 mo ciascuna. |
 | 31-44 | Una scala di legno (8 metri). |
-| 45-51 | Un Saurovallo da Galoppo con sacche da sella |
+| \rowcolor{gray!20}45-51 | Un Saurovallo da Galoppo con sacche da sella |
 
-| **d100** | **Effetto** |
+| \rowcolor{gray!20}**d100** | **Effetto** |
 | 52-59 | Fossa (un cubo di 3 metri di spigolo), che puoi piazzare sul terreno entro 3 metri da te. |
-| 60-68 | 4 pozioni di guarigione. |
+| \rowcolor{gray!20}60-68 | 4 pozioni di guarigione. |
 | 69-75 | Barca a remi (lunga 4 metri). |
-| 76-83 | Pergamena degli incantesimi contenente un incantesimo di livello dal 1° al 3°. |
+| \rowcolor{gray!20}76-83 | Pergamena degli incantesimi contenente un incantesimo di livello dal 1° al 3°. |
 | 84-90 | Due mastini. |
-| 91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
+| \rowcolor{gray!20}91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
 | 97-100 | Ariete portatile. |
 
 \oggettomagico{Tunica dei Colori Scintillanti}
@@ -21168,16 +21092,16 @@ Per ricaricare una bacchetta od un bastone un incantatore deve infondere lo stes
 
 ## Acquisire Oggetti Magici
 
-| **Dimensioni Comunità** | **Valore Base** | **Comune** | **Non Comune** | **Raro** |
+| \rowcolor{gray!20}**Dimensioni Comunità** | **Valore Base** | **Comune** | **Non Comune** | **Raro** |
 | --- | --- | --- | --- | --- |
 | Insediamento | 20 mo | 1d2 oggetti |  | |
-| Borgo | 150 mo | 1d4 oggetti |  | |
+| \rowcolor{gray!20}Borgo | 150 mo | 1d4 oggetti |  | |
 | Villaggio | 300 mo | 1d6 oggetti | 1d2 oggetti | |
-| Piccolo paese | 700 mo | 1d4 oggetti | 1d2 oggetti | |
+| \rowcolor{gray!20}Piccolo paese | 700 mo | 1d4 oggetti | 1d2 oggetti | |
 | Grande paese | 1500 mo | 1d6 oggetti | 1d4 oggetti | 1d2 oggetti |
-| Piccola città | 2500 mo | 2d4 oggetti | 1d6 oggetti | 1d4 oggetti |
+| \rowcolor{gray!20}Piccola città | 2500 mo | 2d4 oggetti | 1d6 oggetti | 1d4 oggetti |
 | Grande città | 6000 mo | 3d4 oggetti | 2d4 oggetti | 1d6 oggetti |
-| Metropoli | 12000 mo | {*} | 3d4 oggetti | 2d4 oggetti |
+| \rowcolor{gray!20}Metropoli | 12000 mo | {*} | 3d4 oggetti | 2d4 oggetti |
 
 {*} In una metropoli si trovano quasi tutti gli oggetti magici minori.
 
@@ -21418,13 +21342,13 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 
 **Maledizioni Comuni degli Oggetti**
 
-| **\%** | **Maledizione** |
+| \rowcolor{gray!20}**\%** | **Maledizione** |
 | 01-15 | Inganno |
-| 16-40 | Effetto o Bersaglio Opposto |
+| \rowcolor{gray!20}16-40 | Effetto o Bersaglio Opposto |
 | 41-50 | Funzionamento Discontinuo |
-| 51-65 | Requisito |
+| \rowcolor{gray!20}51-65 | Requisito |
 | 66-90 | Inconveniente |
-| 91-100 | Effetto completamente diverso |
+| \rowcolor{gray!20}91-100 | Effetto completamente diverso |
 
 Gli oggetti maledetti sono \hypertarget{oggettimaledettiid}{**identificati**} come qualsiasi altro oggetto magico con una sola eccezione: a meno che non la prova di Arcana per identificare l'oggetto non superi 35 o l'incantesimo Identificare sia lanciato con una Prova di Magia ed ottenga un critico magico la maledizione non viene individuata. Se la prova è sotto 35 o senza critico magico tutto quello che viene rivelato è l'originale scopo dell'oggetto magico.
 
@@ -21484,27 +21408,27 @@ Questo oggetto funziona solo in determinate situazioni. Per determinare quali si
 
 Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni giorno. Con un risultato di 01--05 l'oggetto si attiva spontaneamente in un certo momento del giorno.
 
-| **\%** | **Situazione** |
+| \rowcolor{gray!20}**\%** | **Situazione** |
 | 01-03 | Temperatura sotto lo zero |
-| 04-05 | Temperatura sopra lo zero |
+| \rowcolor{gray!20}04-05 | Temperatura sopra lo zero |
 | 06-10 | Durante il giorno |
-| 11-15 | Durante la notte |
+| \rowcolor{gray!20}11-15 | Durante la notte |
 | 16-20 | Esposto alla luce solare |
-| 21-25 | In assenza di luce solare |
+| \rowcolor{gray!20}21-25 | In assenza di luce solare |
 | 26-34 | Sott'acqua |
-| 35-37 | Fuori dall'acqua |
+| \rowcolor{gray!20}35-37 | Fuori dall'acqua |
 | 38-45 | Sottoterra |
-| 46-55 | In superficie |
+| \rowcolor{gray!20}46-55 | In superficie |
 | 56-60 | Entro 3 metri da un tipo di creatura |
-| 61-64 | Entro 3 metri da una razza o tipo di creatura |
+| \rowcolor{gray!20}61-64 | Entro 3 metri da una razza o tipo di creatura |
 | 65-72 | Entro 3 metri da un incantatore |
-| 73-80 | Entro 3 metri da un Seguace o Devoto di un Patrono specifico |
+| \rowcolor{gray!20}73-80 | Entro 3 metri da un Seguace o Devoto di un Patrono specifico |
 | 81-85 | Nelle mani di un personaggio non incantatore |
-| 86-90 | Nelle mani di un personaggio incantatore |
+| \rowcolor{gray!20}86-90 | Nelle mani di un personaggio incantatore |
 | 91-95 | Nelle mani di una creatura con particolare Tratto |
-| 96 | Nelle mani di una creatura di un particolare genere |
+| \rowcolor{gray!20}96 | Nelle mani di una creatura di un particolare genere |
 | 97-99 | Nei giorni non sacri o durante particolari ricorrenze astronomiche |
-| 100 | A più di 150 km da un determinato luogo |
+| \rowcolor{gray!20}100 | A più di 150 km da un determinato luogo |
 
 ## Requisito
 
@@ -21540,55 +21464,55 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 
 **Tabella: Effetti degli oggetti magici maledetti**
 
-| **\%** | **Inconveniente** |
+| \rowcolor{gray!20}**\%** | **Inconveniente** |
 | 01-02 | I capelli del personaggio crescono di 2,5 cm all'ora. |
-| 02-04 | Le unghie del personaggio crescono di 1 cm ogni 8 ore |
+| \rowcolor{gray!20}02-04 | Le unghie del personaggio crescono di 1 cm ogni 8 ore |
 | 05-06 | L'altezza del personaggio diminuisce di 5d10 cm |
-| 07-09 | L'altezza del personaggio aumenta di 5d10 cm |
+| \rowcolor{gray!20}07-09 | L'altezza del personaggio aumenta di 5d10 cm |
 | 10-11 | La temperatura intorno all'oggetto è di 5° C più fredda del normale. |
-| 12-13 | La temperatura intorno all'oggetto è di 20° C più fredda del normale. |
+| \rowcolor{gray!20}12-13 | La temperatura intorno all'oggetto è di 20° C più fredda del normale. |
 | 14-15 | La temperatura intorno all'oggetto è di 5° C più calda del normale. |
-| 16-17 | La temperatura intorno all'oggetto è di 20° C più calda del normale. |
+| \rowcolor{gray!20}16-17 | La temperatura intorno all'oggetto è di 20° C più calda del normale. |
 | 18-20 | Il colore dei capelli del personaggio cambia. |
-| 21-23 | II colore della pelle del personaggio cambia. |
+| \rowcolor{gray!20}21-23 | II colore della pelle del personaggio cambia. |
 | 24 | Il colore dei capelli del personaggio cambia ogni ora |
-| 25 | Il colore della pelle del personaggio cambia ogni ora |
+| \rowcolor{gray!20}25 | Il colore della pelle del personaggio cambia ogni ora |
 | 26 | Delle corna come un montone crescono sulla testa del personaggio |
-| 27 | Un palco di corna come un alce crescono sulla testa del personaggio |
+| \rowcolor{gray!20}27 | Un palco di corna come un alce crescono sulla testa del personaggio |
 | 28-29 | II personaggio ora porta un segno distintivo (un tatuaggio, una strana luminescenza ecc.). |
-| 30-32 | II sesso del Personaggio cambia ogni giorno all'alba. |
+| \rowcolor{gray!20}30-32 | II sesso del Personaggio cambia ogni giorno all'alba. |
 | 33-34 | La razza o la specie del Personaggio cambiano. |
-| 35 | II PG viene colpito da una Malattia determinata casualmente, che non può essere curata. |
+| \rowcolor{gray!20}35 | II PG viene colpito da una Malattia determinata casualmente, che non può essere curata. |
 | 36-39 | L'oggetto emette costantemente suoni sgradevoli (lamenti, maledizioni, insulti...). |
-| 40 | L'oggetto ha un aspetto ridicolo (colori sgargianti, forma, brilla di un alone rosa ecc.). |
+| \rowcolor{gray!20}40 | L'oggetto ha un aspetto ridicolo (colori sgargianti, forma, brilla di un alone rosa ecc.). |
 | 41 | Un unicorno blu, visibile solo con la magia, di dimensioni piccole vola sempre attorno al Personaggio dando consigli inutili e facendo battute stupide. |
-| 42 | Ogni giorno ti prende una improvvisa voglia e capacità di fare l'uncinetto per almeno 1 ora. |
+| \rowcolor{gray!20}42 | Ogni giorno ti prende una improvvisa voglia e capacità di fare l'uncinetto per almeno 1 ora. |
 | 43-45 | II personaggio diventa estremamente possessivo nei confronti dell'oggetto. |
-| 46-49 | II personaggio ha una paura incontrollabile di perdere l'oggetto o che venga danneggiato. |
+| \rowcolor{gray!20}46-49 | II personaggio ha una paura incontrollabile di perdere l'oggetto o che venga danneggiato. |
 | 50 | Un Tratto viene sostituito |
-| 51 | Il metabolismo del personaggio cambia e diventa esclusivamente carnivoro |
+| \rowcolor{gray!20}51 | Il metabolismo del personaggio cambia e diventa esclusivamente carnivoro |
 | 52 | Il metabolismo del personaggio cambia e diventa esclusivamente vegetariano |
-| 53-54 | II personaggio deve attaccare la creatura a lui più vicina (probabilità del 5\% ogni giorno). |
+| \rowcolor{gray!20}53-54 | II personaggio deve attaccare la creatura a lui più vicina (probabilità del 5\% ogni giorno). |
 | 55-57 | II personaggio rimane Stordito per 1d4 round ogni volta che l'oggetto è servito al suo scopo |
-| 58-60 | Il personaggio diventa sordo |
+| \rowcolor{gray!20}58-60 | Il personaggio diventa sordo |
 | 61-64 | I Punti Ferita massimi calano di 10 permanentemente (rimanendo con un minimo di 1). |
-| 65 | I Punti Ferita massimi calano di 20 permanentemente (rimanendo con un minimo di 1). |
+| \rowcolor{gray!20}65 | I Punti Ferita massimi calano di 20 permanentemente (rimanendo con un minimo di 1). |
 | 66-68 | Il PG acquisisce una Fobia a caso. |
-| 69-71 | TS su Volontà ogni giorno all'alba con mod. Intelligenza o subisce 1 danno a Intelligenza permanente. |
+| \rowcolor{gray!20}69-71 | TS su Volontà ogni giorno all'alba con mod. Intelligenza o subisce 1 danno a Intelligenza permanente. |
 | 72-74 | TS su Volontà ogni giorno all'alba o subisce 1 danno a Saggezza permanente. |
-| 75-77 | TS su Volontà ogni giorno all'alba con mod. Carisma o subisce 1 danno a Carisma permanente. |
+| \rowcolor{gray!20}75-77 | TS su Volontà ogni giorno all'alba con mod. Carisma o subisce 1 danno a Carisma permanente. |
 | 78-80 | TS su Tempra ogni giorno all'alba con mod. Forza o subisce 1 danno a Forza permanente. |
-| 81-83 | TS su Tempra ogni giorno all'alba con mod. Destrezza o subisce 1 danno a Destrezza permanente. |
+| \rowcolor{gray!20}81-83 | TS su Tempra ogni giorno all'alba con mod. Destrezza o subisce 1 danno a Destrezza permanente. |
 | 84-85 | TS su Tempra ogni giorno all'alba o subisce 1 danno a Costituzione permanente. |
-| 86-89 | Il PG incomincia a parlare di se in terza persona. |
+| \rowcolor{gray!20}86-89 | Il PG incomincia a parlare di se in terza persona. |
 | 90-92 | Saurovalli, cani e gatti domestici diventano ostili. |
-| 93 | Un Patrono farà di tutto per ucciderti. |
+| \rowcolor{gray!20}93 | Un Patrono farà di tutto per ucciderti. |
 | 94 | Il PG viene teletrasportato a 10d100 Km di distanza ogni giorno all'alba. |
-| 95 | II personaggio viene trasformato in una creatura a caso di una specie specifica (probabilità del 5\% ogni giorno). |
+| \rowcolor{gray!20}95 | II personaggio viene trasformato in una creatura a caso di una specie specifica (probabilità del 5\% ogni giorno). |
 | 96 | II personaggio viene trasformato in una creatura specifica (probabilità del 5\% ogni giorno). |
-| 97 | II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 5 |
+| \rowcolor{gray!20}97 | II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 5 |
 | 98 | II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 3 |
-| 99 | II personaggio non può più usare Incantesimi |
+| \rowcolor{gray!20}99 | II personaggio non può più usare Incantesimi |
 | 100 | Tira due volte |
 
 ---
@@ -21915,9 +21839,9 @@ Il Patrono che più di tutti si è dimostrato capace di conquistare più persone
 
 Inebriato dalla vittoria il Patrono della Genesi esprimerà un desiderio che l'altro dovrà cercare di rispettare il più possibile.
 
-Ovvio che il Patrono stesso potrebbe soddisfarlo ma la gioia di obbligare l'altro a fare qualcosa
+Ovvio che il Patrono stesso potrebbe soddisfarlo ma la gioia di obbligare l'altro
 
-che detesta è superiore a ogni cosa. Ed è per questo che ogni cento anni succede l'impossibile, oltre alla nascita di nuovi Patroni.
+a fare qualcosa che detesta è superiore a ogni cosa. Ed è per questo che ogni cento anni succede l'impossibile, oltre alla nascita di nuovi Patroni.
 
 Può essere un nuovo continente, un mare che si apre tra le terre, nuove razze, animali... qualcosa di imponente cambia per tutti i terrestri. E' un periodo di sconvolgimenti globali.
 
@@ -21984,14 +21908,14 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 **Tabella: Categorie di Taglia, Quadretti occupati e Portata**
 
-| **Taglia** | **Dimensione** | **Esempio** | **Quadretti** | **Portata** |
+| \rowcolor{gray!20}**Taglia** | **Dimensione** | **Esempio** | **Quadretti** | **Portata** |
 | --- | --- | --- | --- | --- |
 | Minuscola | 25 x 25 cm | Gatto, spiritello | 1/4 | 0m |
-| Piccola | 0,5 x 0,5 m | Goblin, cane, Gnomo | 1/2 | 1m |
+| \rowcolor{gray!20}Piccola | 0,5 x 0,5 m | Goblin, cane, Gnomo | 1/2 | 1m |
 | Media | 1 x 1 m | Orco, Umano, Elfo, Nano, Nibali | 1 | 1m |
-| Grande | 2 x 2 m | Ogre | 2x2 | 1m |
+| \rowcolor{gray!20}Grande | 2 x 2 m | Ogre | 2x2 | 1m |
 | Enorme | 3 x 3 m | Gigante, Ent | 3x3 | 2m |
-| Mastodontico | 4 x 4 m | Kraken, Drago | 4x4 | 2m |
+| \rowcolor{gray!20}Mastodontico | 4 x 4 m | Kraken, Drago | 4x4 | 2m |
 | Colossale | 12 x 12 m | Drago anziano, Tarrasque | 6x6 | 6m |
 
 I più avvezzi avranno notato che le dimensioni delle creature sono inferiori alle solite, questo perché le miniature in commercio sono fatte per scala 1 quadretto=1.5 metri, mentre in OBSS 1 quadretto=1 metro.
@@ -22111,16 +22035,16 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 
 **Tabella: Equivalenza Armi Magiche**
 
-| **Immunità** | **Magia Arma** | **Attacco Naturale** | **Pugno Vuoto** |
+| \rowcolor{gray!20}**Immunità** | **Magia Arma** | **Attacco Naturale** | **Pugno Vuoto** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
-| +2 | +2 | 6 | 4 |
+| \rowcolor{gray!20}+2 | +2 | 6 | 4 |
 | Ferro Freddo | +1 | 4 | 2 |
-| Argento | +1 | 4 | 2 |
+| \rowcolor{gray!20}Argento | +1 | 4 | 2 |
 | Adamantio | +2 | 6 | 4 |
-| +3 | +3 | 12 | 8 |
+| \rowcolor{gray!20}+3 | +3 | 12 | 8 |
 | +4 | +4 | 16 | 12 |
-| +5 | +5 | - | 16 |
+| \rowcolor{gray!20}+5 | +5 | - | 16 |
 
 ## Vulnerabilità, Resistenze e Immunità
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
@@ -22312,19 +22236,19 @@ Questa tabella indica per GS i Punti Esperienza relativi.
 
 **Tabella: Grado di Sfida e Punti Esperienza**
 
-| **GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
+| \rowcolor{gray!20}**GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
 | 0 | 10 | 9 | 5000 | 21 | 33000 |
-| 1/8 | 25 | 10 | 5900 | 22 | 41000 |
+| \rowcolor{gray!20}1/8 | 25 | 10 | 5900 | 22 | 41000 |
 | 1/4 | 50 | 11 | 7200 | 23 | 50000 |
-| 1/2 | 100 | 12 | 8400 | 24 | 62000 |
+| \rowcolor{gray!20}1/2 | 100 | 12 | 8400 | 24 | 62000 |
 | 1 | 200 | 13 | 10000 | 25 | 75000 |
-| 2 | 450 | 14 | 11500 | 26 | 90000 |
+| \rowcolor{gray!20}2 | 450 | 14 | 11500 | 26 | 90000 |
 | 3 | 700 | 15 | 13000 | 27 | 105000 |
-| 4 | 1100 | 16 | 15000 | 28 | 120000 |
+| \rowcolor{gray!20}4 | 1100 | 16 | 15000 | 28 | 120000 |
 | 5 | 1800 | 17 | 18000 | 29 | 135000 |
-| 6 | 2300 | 18 | 20000 | 30 | 155000 |
+| \rowcolor{gray!20}6 | 2300 | 18 | 20000 | 30 | 155000 |
 | 7 | 2900 | 19 | 22000 |  | |
-| 8 | 3900 | 20 | 25000 |  | ## Tipologie di Tesoro |
+| \rowcolor{gray!20}8 | 3900 | 20 | 25000 |  | ## Tipologie di Tesoro |
 
 Ogni tipologia di creatura può preferire un tipo di tesoro (inteso come oggetti, monete, gemme...) diverso. Questi sono solo suggerimenti su come costruire il tesoro del mostro.
 
@@ -22358,10 +22282,10 @@ Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte
 
 **Tabella: Punti Esperienza per Grado di Sfida**
 
-| **Grado di Sfida** | **PX** | **Grado di Sfida** | **PX** |
+| \rowcolor{gray!20}**Grado di Sfida** | **PX** | **Grado di Sfida** | **PX** |
 | --- | --- | --- | --- |
 | Facile | 20 | Media | 30 |
-| Alta | 50 | Straordinaria | 80 |
+| \rowcolor{gray!20}Alta | 50 | Straordinaria | 80 |
 | Mortale | 120 | Epica | 160 |
 
 Anche per trappole o sfide superate si usa questo sistema per calcolare i PX guadagnati. I Punti Esperienza premio per ogni obiettivo personale o di gruppo raggiunto sono 10.
@@ -22372,26 +22296,26 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 - **Definire l'APL (Average Party Level):** Calcolare il livello medio del gruppo. Sommare i livelli di tutti i personaggi e dividere per il numero di personaggi, come già spiegato.
 - **Stabilire la Difficoltà Desiderata:** Decidere quale livello di sfida si vuole presentare al gruppo.
 
-| **Difficoltà** | **Peso \%** |
+| \rowcolor{gray!20}**Difficoltà** | **Peso \%** |
 | --- | --- |
 | Facile | 75\% - 105\% |
-| Media | 106\% - 145\% |
+| \rowcolor{gray!20}Media | 106\% - 145\% |
 | Impegnativa | 146\% - 195\% |
-| Alta | 196\% - 255\% |
+| \rowcolor{gray!20}Alta | 196\% - 255\% |
 | Straordinaria | 256\% - 325\% |
-| Mortale | 326\% - 405\% |
+| \rowcolor{gray!20}Mortale | 326\% - 405\% |
 | Epica | 406\% e oltre |
 
 - **Assegnare un valore Percentuale ai Mostri:** Utilizzare la tabella seguente per determinare il *peso* (percentuale) di ciascun Avversario (*Avv.*) in base alla differenza tra il suo Grado di Sfida (GS) e all'APL del gruppo (*Rapp.*)
 
-| **Rapp.** | **\% per Avv.** | **Rapp.** | **\% per Avv.** |
+| \rowcolor{gray!20}**Rapp.** | **\% per Avv.** | **Rapp.** | **\% per Avv.** |
 | --- | --- | --- | --- |
 | -6 | 3\% | 0 | 70\% |
-| -5 | 5\% | +1 | 105\% |
+| \rowcolor{gray!20}-5 | 5\% | +1 | 105\% |
 | -4 | 10\% | +2 | 160\% |
-| -3 | 15\% | +3 | 240\% |
+| \rowcolor{gray!20}-3 | 15\% | +3 | 240\% |
 | -2 | 25\% | +4 | 360\% |
-| -1 | 45\% | +5 | 480\% |
+| \rowcolor{gray!20}-1 | 45\% | +5 | 480\% |
 
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
 
@@ -22399,116 +22323,115 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 
 ## Opzionale - Cosa farci con i mostri
 
-Questa parte vuole essere un divertito omaggio a certi tipi di avventure, ma anche un occasione di ingegno e divertimento. Il suggerimento principale e' di evitare descrizione sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso.
-
-Tira 1d6 per la prima cifra ed un d12 per la seconda cifra. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4 porzioni.
+Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anche una occasione di ingegno e divertimento. Il suggerimento principale e' di evitare descrizione sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4/5 porzioni.
 
 **Tabella: 1d4-12 Parti Anatomiche dei Mostri**
 
-| **d4-12** | **Parte** |
+| \rowcolor{gray!20}**d4-12** | **Parte** |
 | 11 | Sacco digestivo |
-| 12 | Gelatina fotoreattiva |
+| \rowcolor{gray!20}12 | Gelatina fotoreattiva |
 | 13 | Bulbo traslucido |
-| 14 | Enzimi coagulanti superficiali |
+| \rowcolor{gray!20}14 | Enzimi coagulanti superficiali |
 | 15 | Cellule mimetiche iridescenti |
-| 16 | Tessuto elastico |
+| \rowcolor{gray!20}16 | Tessuto elastico |
 | 17 | Organo ottico polifasico |
-| 18 | Midollo cerebrale ipertrofico |
+| \rowcolor{gray!20}18 | Midollo cerebrale ipertrofico |
 | 19 | Tendini a conduzione potenziata |
-| 110 | Sangue lattiginoso reattivo |
+| \rowcolor{gray!20}110 | Sangue lattiginoso reattivo |
 | 111 | Pelle dura infusa di minerali |
-| 112 | Tendine robusto con fibre concentriche |
+| \rowcolor{gray!20}112 | Tendine robusto con fibre concentriche |
 | 21 | Osso cavo |
-| 22 | Ghiandola sudoripara tossica |
+| \rowcolor{gray!20}22 | Ghiandola sudoripara tossica |
 | 23 | Uncino osseo bifocale |
-| 24 | Derma fotosensibile |
+| \rowcolor{gray!20}24 | Derma fotosensibile |
 | 25 | Emolinfa profonda mutagena |
-| 26 | Vertebra cava ripiena di magia |
+| \rowcolor{gray!20}26 | Vertebra cava ripiena di magia |
 | 27 | Squama cristallina lucida |
-| 28 | Ghiandola del soffio elementale |
+| \rowcolor{gray!20}28 | Ghiandola del soffio elementale |
 | 29 | Cuore di riserva |
-| 210 | Muscolo a potenziamento magico |
+| \rowcolor{gray!20}210 | Muscolo a potenziamento magico |
 | 211 | Nervi ottici ipersensibili |
-| 212 | Polpastrelli succosi |
-| 31 | Nasonte con setole sensoriali |
-| 32 | Membrana retrattile di volo |
+| \rowcolor{gray!20}212 | Polpastrelli succosi |
+| 31 | Nasonte con setole ipersensoriali |
+| \rowcolor{gray!20}32 | Membrana retrattile di volo |
 | 33 | Ghiandola di adrenalina magica |
-| 34 | Pelle cicatrizzata a strati sovrapposti |
+| \rowcolor{gray!20}34 | Pelle cicatrizzata a strati sovrapposti |
 | 35 | Nucleo dentale rigenerativo |
-| 36 | Appendice prensile multifocale |
+| \rowcolor{gray!20}36 | Appendice prensile multifocale |
 | 37 | Unghia multi articolata |
-| 38 | Pinna morbida fredda |
+| \rowcolor{gray!20}38 | Pinna morbida fredda |
 | 39 | Retina con riflesso interno rigido |
-| 310 | Ciste magica piena |
+| \rowcolor{gray!20}310 | Ciste magica piena |
 | 311 | Sensi alternativi |
-| 312 | Tessuto adiposo con riserva di magia |
+| \rowcolor{gray!20}312 | Tessuto adiposo con riserva di magia |
 | 41 | Ghiandola linfatica ipersviluppata |
 
-| 42 | Tessuto visivo focalizzato |
+| \rowcolor{gray!20}42 | Tessuto visivo focalizzato |
 | 43 | Sacca di gas multipolare |
-| 44 | Nervatura senso-tattile |
+| \rowcolor{gray!20}44 | Nervatura senso-tattile |
 | 45 | Pelle ad assorbimento energetico |
-| 46 | Tentacolo con ventose attive |
+| \rowcolor{gray!20}46 | Tentacolo con ventose attive |
 | 47 | Ghiandola di secrezione corrosiva |
-| 48 | Midollo secondario autonomo |
+| \rowcolor{gray!20}48 | Midollo secondario autonomo |
 | 49 | Tessuto cardiaco a ritmo alternato |
-| 410 | Placche auricolari addestrate |
+| \rowcolor{gray!20}410 | Placche auricolari addestrate |
 | 411 | Articolazione in osso flessibile |
-| 412 | Polmone secondario con vesciche d’aria |
+| \rowcolor{gray!20}412 | Polmone secondario con vesciche d’aria |
 
-**Tabella: d6-8 Effetti Magici da Ingestione o Preparazione**
+**Tabella: d12-4 Effetti Magici da Ingestione o Preparazione**
 
-| **d6-8** | **Effetti** |
+| \rowcolor{gray!20}**d12-4** | **Effetti** |
 | 11 | Visione notturna per 1d6 ore |
-| 12 | Gli animali evitano il personaggio |
+| \rowcolor{gray!20}12 | Gli animali evitano il personaggio |
 | 13 | +1 Difesa naturale per 1 ora |
-| 14 | +2 a Ingannare per 1 ora |
-| 15 | +1 a Forza per 1d6 Turni |
-| 16 | Rigenerazione (1 PF ogni 1T per 1 ora) |
-| 17 | +1d6 nelle prove di Salto per 2d4 ore |
-| 18 | +2 a Consapevolezza per 30 minuti |
-| 21 | Resistenza all'acido per 1d6 ore |
-| 22 | +1d6 a Intimidire per 1 ora |
-| 23 | Levitazione per 10 minuti |
-| 24 | +2 a Acrobazia per 1 ora |
-| 25 | Movimento Scalare per 10 minuti |
-| 26 | Mimesi: +1 a Furtività per 1d6 Turni |
-| 27 | L'olfatto rivela veleni/malattie per 1d6 ore |
-| 28 | Respira sott’acqua per 1 ora |
-| 31 | +1 metro al Movimento per 1d4 ore |
-| 32 | Linguaggio Elementale per 1 ora |
-| 33 | Polpastrelli: +2 a Cercare o Trappole per 1d6 ore |
-| 34 | Artigli: 1d6 danno per 1d6 ore |
-| 35 | Senza ossa: puoi restringerti per 2 taglie |
+| \rowcolor{gray!20}14 | +2 a Ingannare per 1 ora |
+| 21 | +1 a Forza per 1d6 Turni |
+| \rowcolor{gray!20}22 | Rigenerazione (1 PF ogni 1T per 1 ora) |
+| 23 | +1d6 nelle prove di Salto per 2d4 ore |
+| \rowcolor{gray!20}24 | +2 a Consapevolezza per 30 minuti |
+| 31 | Resistenza all'acido per 1d6 ore |
+| \rowcolor{gray!20}32 | +1d6 a Intimidire per 1 ora |
+| 33 | Levitazione per 10 minuti |
+| \rowcolor{gray!20}34 | +2 a Acrobazia per 1 ora |
+| 41 | Movimento Scalare per 10 minuti |
+| \rowcolor{gray!20}42 | Mimesi: +1 a Furtività per 1d6 Turni |
+| 43 | L'olfatto rivela veleni/malattie per 1d6 ore |
+| \rowcolor{gray!20}44 | Respira sott’acqua per 1 ora |
+| 51 | +1 metro al Movimento per 1d4 ore |
+| \rowcolor{gray!20}52 | Linguaggio Elementale per 1 ora |
+| 52 | Polpastrelli: +2 a Cercare o Trappole per 1d6 ore |
+| \rowcolor{gray!20}53 | Artigli: 1d6 danno per 1d6 ore |
+| 54 | Senza ossa: puoi restringerti di 1 taglia per 1d6 ore |
+| 61 | Immunità al freddo per 1d4 ore |
+| \rowcolor{gray!20}62 | Forma gassosa per 1 ora |
 
-| **d6-8** | **Effetti** |
-| 36 | Immunità al freddo per 1d4 ore |
-| 37 | Forma gassosa per 1 ora |
-| 38 | Curato di 3d6 Punti Ferita |
-| 41 | Visione dell’invisibile per 1d4 Turni |
-| 42 | Parassita benigno assorbe veleno e muore |
-| 43 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
-| 44 | Soffio rovente (vedi soffio acido) |
-| 45 | Recupera 1d6 Punti magia |
-| 46 | Immunità ad illusioni ottiche e abbagliamento per 1d6 ore |
-| 47 | Soffio acido (vedi soffio acido) |
-| 48 | Sacche d'aria. Non respiri per 2d4 Turni |
-| 51 | Il sudore respinge gli insetti per 2d8 ore |
-| 52 | +2 a Intrattenere (bella voce) per 1 ora |
-| 53 | Cieco per 1d4 ore |
-| 54 | Visione crepuscolare 9 metri per 1 ora |
-| 55 | Liquido: come un gelatina per 1d10 Turni |
-| 56 | Minerale: DR 4/magico a danni fisici, per 2d4 T |
-| 57 | Sonno: ti addormenti per 1d6 ore |
-| 58 | Velocizzato: +1 Reazione a round per 1d6 minuti |
-| 61 | Scurovisione 9 metri per 1d4 ore |
-| 62 | Rallentato: -1 Azione per 1d8 minuti |
-| 63 | Iperveloce: +1 Azione a round per 1d6 minuti |
-| 64 | Vista ceca 6 metri per 1d4 ore |
-| 65 | Affaticato: +1 livello di affaticamento |
-| 66 | Piaghe nei piedi: -1 m movimento per 1d6 ore |
-| 67 | Vista offuscata: -2 Tiri per Colpire per 1d6 ore |
-| 68 | Affaticato: -2 al danno fisico per 1d6 ore |
+| \rowcolor{gray!20}**d12-4** | **Effetti** |
+| 63 | Curato di 3d6 Punti Ferita |
+| \rowcolor{gray!20}64 | Visione dell’invisibile per 1d4 Turni |
+| 71 | Parassita benigno assorbe veleno e muore |
+| \rowcolor{gray!20}72 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
+| 73 | Soffio rovente (vedi soffio acido) |
+| \rowcolor{gray!20}74 | Recupera 1d6 Punti magia |
+| 81 | Immunità ad illusioni ottiche e abbagliamento per 1d6 ore |
+| \rowcolor{gray!20}82 | Soffio acido (vedi soffio acido) |
+| 83 | Sacche d'aria. Non respiri per 2d4 Turni |
+| \rowcolor{gray!20}84 | Il sudore respinge gli insetti per 2d8 ore |
+| 91 | +2 a Intrattenere (bella voce) per 1 ora |
+| \rowcolor{gray!20}92 | Cieco per 1d4 ore |
+| 93 | Visione crepuscolare 9 metri per 1 ora |
+| \rowcolor{gray!20}94 | Liquido: come un gelatina per 1d10 Turni |
+| 101 | Minerale: DR 4/magico a danni fisici, per 2d4 T |
+| \rowcolor{gray!20}102 | Sonno: ti addormenti per 1d6 ore |
+| 103 | Velocizzato: +1 Reazione a round per 1d6 minuti |
+| \rowcolor{gray!20}104 | Scurovisione 9 metri per 1d4 ore |
+| 111 | Rallentato: -1 Azione per 1d8 minuti |
+| \rowcolor{gray!20}112 | Iperveloce: +1 Azione a round per 1d6 minuti |
+| 113 | Vista ceca 6 metri per 1d4 ore |
+| \rowcolor{gray!20}114 | Affaticato: +1 livello di affaticamento |
+| 121 | Imbarazzo di stomaco: -4 a tutte le Azioni per 1 ore |
+| \rowcolor{gray!20}122 | Dermatite violente: -2 alle Azioni che usano le mani per 1d4 ore |
+| 123 | Vesciche ai piedi: tutto il terreno è difficile per 1d10 minuti |
+| \rowcolor{gray!20}124 | Terzo occhio: +2 alle Prove di Consapevolezza per 1d4 ore |
 
 ---
 
@@ -24722,20 +24645,20 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 
 **Tabella: accesso Lista di Magia per Draghi**
 
-| **Colore** | **Lista** |
+| \rowcolor{gray!20}**Colore** | **Lista** |
 | --- | --- |
 | Bianco | Acqua |
-| Blu | Aria |
+| \rowcolor{gray!20}Blu | Aria |
 | Giallo | Fuoco, Evocazione |
-| Porpora | Terra |
+| \rowcolor{gray!20}Porpora | Terra |
 | Nero | Acqua, Necromanzia |
-| Rosso | Fuoco |
+| \rowcolor{gray!20}Rosso | Fuoco |
 | Verde | Animali e Piante |
-| Bronzo | Abiurazione |
+| \rowcolor{gray!20}Bronzo | Abiurazione |
 | Ottone | Illusione, Divinazione |
-| Argento | Trasmutazione |
+| \rowcolor{gray!20}Argento | Trasmutazione |
 | Oro | Cura, Evocazione |
-| Rame | Invocazione |
+| \rowcolor{gray!20}Rame | Invocazione |
 
 Tutti i Draghi hanno accesso alla lista di magia Universale e prediligono certi incantesimi che sono segnati nella loro descrizione.
 
@@ -24746,16 +24669,16 @@ Nella **Descrizione di ogni Drago Antico** troverete una breve descrizione del t
 Ogni Drago a seconda dell'età ha uno o più poteri speciale casuali.
 Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è Antico. In caso di poteri ripetuti non ripetere il tiro.
 
-| **3d6** | **Potere del Drago** |
+| \rowcolor{gray!20}**3d6** | **Potere del Drago** |
 | 3 | Ricarica veloce. Il Drago ricarica il soffio con 4-6. |
 
-| 4 | Agilità sorprendente. La Difesa del Drago aumenta di un ulteriore +4. |
+| \rowcolor{gray!20}4 | Agilità sorprendente. La Difesa del Drago aumenta di un ulteriore +4. |
 | 5-7 | Signore dei Serpenti. La coda ha un pungiglione velenoso che infligge 2xGS PF di danno da veleno. TS Tempra DC 10+GS per dimezzare. |
-| 8-10 | Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 ad ogni Tiro Salvezza. |
+| \rowcolor{gray!20}8-10 | Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 ad ogni Tiro Salvezza. |
 | 11-13 | Regina Lucertola. Lo sguardo del Drago ha lo stesso effetto di quello del Basilisco. |
-| 14-15 | Potere del Ferro. Il Drago ha *Arrugginire Metallo* come il Rugginofago. |
+| \rowcolor{gray!20}14-15 | Potere del Ferro. Il Drago ha *Arrugginire Metallo* come il Rugginofago. |
 | 16 | Resistenza alla magia. Il Drago è immune agli incantesimi sotto GS/5 livello. |
-| 17 | Immunità aggiuntiva. Il Drago è immune ai danni da una forma di Energia (pag. ) in più a caso (pag. ). |
+| \rowcolor{gray!20}17 | Immunità aggiuntiva. Il Drago è immune ai danni da una forma di Energia (pag. ) in più a caso (pag. ). |
 | 18 | Pelle corazzata. Il Drago ha riduzione del danno pari a GS/3 ai danni T/P/C. |
 
 > Oh maledetti possa Lynx chiudervi tutti i portali |
@@ -34802,14 +34725,14 @@ Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
 
 ## Lista Mostri per Grado di Sfida
 
-| **Condizioni** | **Penalità** | **Recupero** |
+| \rowcolor{gray!20}**Condizioni** | **Penalità** | **Recupero** |
 | --- | --- | --- |
 | Affaticato | 1 | 1h |
-| Affaticato 2 | 2 | 1h |
+| \rowcolor{gray!20}Affaticato 2 | 2 | 1h |
 | Affaticato 3 | 3 | 8h |
-| Affaticato 4 | 4 | 12h |
+| \rowcolor{gray!20}Affaticato 4 | 4 | 12h |
 | Affaticato 5 | Svenuto | 6h |
-| Affaticato 6 | Morte | -- |
+| \rowcolor{gray!20}Affaticato 6 | Morte | -- |
 
 Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo un altra ora passa ad Affaticato, purché non subisca ulteriori affaticamenti.
 
@@ -34845,11 +34768,11 @@ Se una creatura confusa è attaccata, attacca sempre l'ultima creatura che la ha
 
 Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura confusa per vedere quello fa in quel round.
 
-| **d10** | **Comportamento** |
+| \rowcolor{gray!20}**d10** | **Comportamento** |
 | 1 | La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8 |
-| 2-5 | La creatura non fa nulla per tutto il round |
+| \rowcolor{gray!20}2-5 | La creatura non fa nulla per tutto il round |
 | 6 | La creatura effettua un attacco contro se stessa e finisce il round |
-| 7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
+| \rowcolor{gray!20}7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
 | 9-10 | La creatura può agire e muoversi normalmente. |
 
 Una creatura confusa che non è in grado di eseguire l'azione indicata non farà altro che balbettare in modo incoerente. Gli aggressori non hanno alcun vantaggio speciale quando attaccano una creatura confusa. Qualsiasi creatura confusa che venga attaccata, attacca automaticamente a sua volta il suo aggressore.
@@ -34963,37 +34886,52 @@ Se la creatura diventa morente, va a Punti Feriti negativi, e poi viene riportat
 
 ## Tabelle per tiri casuali
 
-| 3d6 | Energia |  | |
+| \rowcolor{gray!20}3d6 | Energia |  | |
 | 3-5 | Energia Neg. | 6-8 | Energia Pos. |
-| 9-11 | Fuoco | 12-13 | Freddo |
+| \rowcolor{gray!20}9-11 | Fuoco | 12-13 | Freddo |
 | 14 | Elettricità | 15 | Suono |
-| 16 | Luce | 17 | Vuoto |
+| \rowcolor{gray!20}16 | Luce | 17 | Vuoto |
 | 18 | Forza |  | |
 
 Il punto blu determina l'origine dell'incantesimo
 
 **Esempi portata dei nemiciTabella: forme degli incantesimi - Sfera e ConoGeneratori Effetti Fallimento Critico in Attacco**
 
-| **3d6** | **Effetto** |
+| \rowcolor{gray!20}**3d6** | **Effetto** |
 | 3 | Sei imbarazzato del tuo colpo, ma non succede nulla di particolare |
-| 4 | Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa |
+| \rowcolor{gray!20}4 | Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa |
 | 5 | Metti male il piede. Fino alla fine del prossimo round tratti il terreno come difficile |
-| 6 | Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza |
+| \rowcolor{gray!20}6 | Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza |
 | 7 | Piroetta. Ti sposti in una direzione casuale di 1 metro |
-| 8 | Goffo. Fino a all'inizio del prossimo round hai -4 alla Difesa |
+| \rowcolor{gray!20}8 | Goffo. Fino a all'inizio del prossimo round hai -4 alla Difesa |
 | 9 | Occhio pesto. Fino alla fine del round prossimo ogni avversario gode di copertura leggera |
-| 10 | Mani di burro. Ti cade l'arma |
+| \rowcolor{gray!20}10 | Mani di burro. Ti cade l'arma |
 | 11 | Strappo muscolare. Il prossimo attacco non aggiunge la Forza al danno |
-| 12 | Caviglia fragile. Portando il colpo inciampi. Cadi prono |
+| \rowcolor{gray!20}12 | Caviglia fragile. Portando il colpo inciampi. Cadi prono |
 | 13 | Ti cade l'arma a 3 metri in una direzione casuale |
-| 14 | Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo |
+| \rowcolor{gray!20}14 | Perdi fiducia in te stesso. Il prossimo attacco lo esegui con un -4 aggiuntivo |
 | 15 | Bersaglio sbagliato. Colpisci una creatura a caso a portata. |
-| 16 | Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo Confusione |
+| \rowcolor{gray!20}16 | Confuso. Ti dai una botta sulla testa. Fino alla fine del round sei sotto l'incantesimo Confusione |
 | 17 | Ti colpisci con forza. Tira il danno regolare verso te stesso. Il round finisce |
-| 18 | Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce |
+| \rowcolor{gray!20}18 | Ti colpisci con forza alla testa. Come 17 e chi è in mischia contro di te può effettuare un attacco d'opportunità usando una Reazione. Il round finisce |
 | 19+ | Ti colpisci con forza. Tira il danno e applica due colpi critici verso te stesso. Il round finisce |
 
 **Tabella: generazione casuali armi**
+
+| **1d100** | **Arma** | **1d100** | **Arma** | **1d100** | **Arma** | **1d100** | **Arma** |
+| 1-2 | Arma rotta | 26-27 | Alabarda | 51-52 | Spada corta | 76-77 | Spada lunga |
+| \rowcolor{gray!20}3-4 | Arco lungo | 28-29 | Arco corto | 53-54 | Spada a due lame | 78-79 | Spada bastarda |
+| 5-6 | Ascia da battaglia | 30-31 | Ascia ad una mano | 55-56 | Picca pesante | 80-81 | Spada larga |
+| \rowcolor{gray!20}7-8 | Balestra ad una mano | 32-33 | Bastone | 57-58 | Pugnale | 82-83 | Spadone a due mani |
+| 9-10 | Balestra leggera | 34-35 | Falce | 59-60 | Scimitarra | 84-85 | Stocco |
+| \rowcolor{gray!20}11-12 | Balestra pesante | 36-37 | Flagello doppio | 61-62 | Mazza leggera | 86-87 | Tridente |
+| 13-14 | Catena chiodata | 38-39 | Frusta | 63-64 | Mazza flangiata | 88-89 | Urgrosh |
+| \rowcolor{gray!20}15-16 | Estoc | 40-41 | Giavellotto | 65-66 | Mazza chiodata | 90-91 | Katana |
+| 17-18 | Falcetto | 42-43 | Machete | 67-68 | Picca leggera | 92-93 | Manganello |
+| \rowcolor{gray!20}19-20 | Falcione in asta | 44-45 | Martello da guerra | 69-70 | Lancia | 94-95 | Guanto chiodato |
+| 21-22 | Arco lungo composito | 46-47 | Flagello pesante | 71-72 | Flagello | 96-97 | Ascia martello |
+| \rowcolor{gray!20}23-24 | Arco corto composito | 48-49 | Lancia da fante | 73-74 | Grande ascia doppia | 98-99 | Maglio da guerra |
+| 25 | Falcione | 50 | Randello | 75 | Lancia corta | 100 | Arma speciale |
 
 ---
 
@@ -35001,80 +34939,80 @@ Il punto blu determina l'origine dell'incantesimo
 
 Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle Centrali e 3d6 sulla Finale.
 
-| **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| \rowcolor{gray!20}**3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | Zeph | 11 | Mer |
-| 4 | Xar | 12 | Kor |
+| \rowcolor{gray!20}4 | Xar | 12 | Kor |
 | 5 | Bra | 13 | Lun |
-| 6 | Cae | 14 | Nor |
+| \rowcolor{gray!20}6 | Cae | 14 | Nor |
 | 7 | Dar | 15 | Oth |
-| 8 | Eld | 16 | Quin |
+| \rowcolor{gray!20}8 | Eld | 16 | Quin |
 | 9 | Gar | 17 | Thaan |
-| 10 | Hal | 18 | Zarak |
+| \rowcolor{gray!20}10 | Hal | 18 | Zarak |
 
 ### Sillabe Centrali (2d6)
 
-| **2d6** | **Sillaba** | **2d6** | **Sillaba** |
+| \rowcolor{gray!20}**2d6** | **Sillaba** | **2d6** | **Sillaba** |
 | 2 | - (salta) | 8 | ren |
-| 3 | - (salta) | 9 | el |
+| \rowcolor{gray!20}3 | - (salta) | 9 | el |
 | 4 | - (salta) | 10 | an |
-| 5 | dor | 11 | en |
+| \rowcolor{gray!20}5 | dor | 11 | en |
 | 6 | gal | 12 | thil |
-| 7 | ar |  | |
+| \rowcolor{gray!20}7 | ar |  | |
 
 ### Sillabe Finali Maschili (3d6)
 
-| **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| \rowcolor{gray!20}**3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | grim | 9 | dan | 15 | reth |
-| 4 | thus | 10 | ion | 16 | thor |
+| \rowcolor{gray!20}4 | thus | 10 | ion | 16 | thor |
 | 5 | dus | 11 | dor | 17 | valos |
-| 6 | kar | 12 | nor | 18 | zeth |
+| \rowcolor{gray!20}6 | kar | 12 | nor | 18 | zeth |
 | 7 | las | 13 | on |  | |
-| 8 | mel | 14 | mir |  | |
+| \rowcolor{gray!20}8 | mel | 14 | mir |  | |
 
 ## Tabelle per Nomi Femminili
 
 ### Sillabe Iniziali Femminili (3d6)
 
-| **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| \rowcolor{gray!20}**3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | Zara | 9 | Gwen | 15 | Ora |
-| 4 | Xyla | 10 | Hel | 16 | Syl |
+| \rowcolor{gray!20}4 | Xyla | 10 | Hel | 16 | Syl |
 | 5 | Ara | 11 | Mira | 17 | Thea |
-| 6 | Bel | 12 | Isa | 18 | Zyra |
+| \rowcolor{gray!20}6 | Bel | 12 | Isa | 18 | Zyra |
 | 7 | Cel | 13 | Lil |  | |
-| 8 | Ela | 14 | Nym |  | |
+| \rowcolor{gray!20}8 | Ela | 14 | Nym |  | |
 
 ### Sillabe Finali Femminili (3d6)
 
-| **3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
+| \rowcolor{gray!20}**3d6** | **Sillaba** | **3d6** | **Sillaba** | **3d6** | **Sillaba** |
 | 3 | neth | 9 | ana | 15 | riel |
-| 4 | essa | 10 | ara | 16 | tha |
+| \rowcolor{gray!20}4 | essa | 10 | ara | 16 | tha |
 | 5 | beth | 11 | elle | 17 | saal |
-| 6 | dra | 12 | lynn | 18 | vyth |
+| \rowcolor{gray!20}6 | dra | 12 | lynn | 18 | vyth |
 | 7 | ena | 13 | ina |  | |
-| 8 | iel | 14 | mira |  | |
+| \rowcolor{gray!20}8 | iel | 14 | mira |  | |
 
 ## Nomi di Luoghi Fantasy
 
 ### Prefissi per Luoghi (2d10)
 
-| **2d10** | **Prefisso** | **2d10** | **Prefisso** | **2d10** | **Prefisso** |
+| \rowcolor{gray!20}**2d10** | **Prefisso** | **2d10** | **Prefisso** | **2d10** | **Prefisso** |
 | 2 | Fonda | 9 | Forte | 16 | Terra |
-| 3 | Alto | 10 | Lago | 17 | Torre |
+| \rowcolor{gray!20}3 | Alto | 10 | Lago | 17 | Torre |
 | 4 | Basso | 11 | Monte | 18 | Valle |
-| 5 | Bosco | 12 | Pietra | 19 | Vento |
+| \rowcolor{gray!20}5 | Bosco | 12 | Pietra | 19 | Vento |
 | 6 | Campo | 13 | Quercia | 20 | Libera |
-| 7 | Casa | 14 | Rocca |  | |
+| \rowcolor{gray!20}7 | Casa | 14 | Rocca |  | |
 | 8 | Colle | 15 | Sole |  | |
 
 ### Suffissi per Luoghi (2d10)
 
-| **2d10** | **Suffisso** | **2d10** | **Suffisso** | **2d10** | **Suffisso** |
+| \rowcolor{gray!20}**2d10** | **Suffisso** | **2d10** | **Suffisso** | **2d10** | **Suffisso** |
 | 2 | abisso | 9 | lande | 16 | rocca |
-| 3 | borgo | 10 | marca | 17 | sponda |
+| \rowcolor{gray!20}3 | borgo | 10 | marca | 17 | sponda |
 | 4 | maso | 11 | mare | 18 | valle |
-| 5 | campo | 12 | monte | 19 | varco |
+| \rowcolor{gray!20}5 | campo | 12 | monte | 19 | varco |
 | 6 | forte | 13 | nova | 20 | vetta |
-| 7 | gard | 14 | piana |  | |
+| \rowcolor{gray!20}7 | gard | 14 | piana |  | |
 | 8 | haven | 15 | porto |  | |
 
 ## Tabelle Speciali per Culture
@@ -35082,33 +35020,33 @@ Per creare un nome fantasy, tira 3d6 sulla Tabella Sillabe Iniziali, 2d6 sulle C
 ### Nomi Elfici (2d12)
 **Tira 2d12 per iniziali e finali elfiche:**
 
-| **2d12** | **Iniziale** | **2d12** | **Finale** |
+| \rowcolor{gray!20}**2d12** | **Iniziale** | **2d12** | **Finale** |
 | 2 | Ael | 2 | adir |
-| 3 | Cel | 3 | anduil |
+| \rowcolor{gray!20}3 | Cel | 3 | anduil |
 | 4 | Elen | 4 | aron |
-| 5 | Gal | 5 | dir |
+| \rowcolor{gray!20}5 | Gal | 5 | dir |
 | 6 | Gil | 6 | galadriel |
-| 7 | Hal | 7 | las |
+| \rowcolor{gray!20}7 | Hal | 7 | las |
 | 8 | Leg | 8 | moth |
-| 9 | Mith | 9 | ond |
+| \rowcolor{gray!20}9 | Mith | 9 | ond |
 | 10 | Thran | 10 | riel |
-| 11 | Elr | 11 | thil |
+| \rowcolor{gray!20}11 | Elr | 11 | thil |
 | 12 | Galar | 12 | wyn |
 
 ### Nomi Nanici (2d12)
 **Tira 2d12 per iniziali e finali naniche:**
 
-| **2d12** | **Iniziale** | **2d12** | **Finale** |
+| \rowcolor{gray!20}**2d12** | **Iniziale** | **2d12** | **Finale** |
 | 2 | Bal | 2 | dan |
-| 3 | Bor | 3 | din |
+| \rowcolor{gray!20}3 | Bor | 3 | din |
 | 4 | Dain | 4 | dur |
-| 5 | Dur | 5 | grim |
+| \rowcolor{gray!20}5 | Dur | 5 | grim |
 | 6 | Gim | 6 | gar |
-| 7 | Grim | 7 | kan |
+| \rowcolor{gray!20}7 | Grim | 7 | kan |
 | 8 | Kaz | 8 | mor |
-| 9 | Mor | 9 | mur |
+| \rowcolor{gray!20}9 | Mor | 9 | mur |
 | 10 | Thar | 10 | rik |
-| 11 | Thor | 11 | thor |
+| \rowcolor{gray!20}11 | Thor | 11 | thor |
 | 12 | Ur | 12 | zak |
 
 } %chiusi small

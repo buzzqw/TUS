@@ -361,45 +361,6 @@ Ligatures=TeX
 \newcommand{\obssgreen}{\obsssetcolor{LightGreen}}
 \newcommand{\obsscoral}{\obsssetcolor{Coral}}
 
-% Salvataggio ambienti originali
-\let\obssoriginaltabular\tabular
-\let\obssendinaltabular\endtabular
-\let\obssoriginaltabularx\tabularx
-\let\obssendoriginaltabularx\endtabularx
-\let\obssoriginalxltabular\xltabular
-\let\obssendoriginalxltabular\endxltabular
-
-% Ridefinizione ambienti tabella con colori
-\renewenvironment{tabular}[1]{%
-	\obssgrey%
-	\arrayrulecolor{\obsscurrentcolor}%
-	\setlength{\arrayrulewidth}{1.5pt}%
-	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\obssoriginaltabular{#1}%
-}{%
-	\obssendinaltabular%
-}
-
-\renewenvironment{tabularx}[2]{%
-	\obssgrey%
-	\arrayrulecolor{\obsscurrentcolor}%
-	\setlength{\arrayrulewidth}{1.5pt}%
-	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\obssoriginaltabularx{#1}{#2}%
-}{%
-	\obssendoriginaltabularx%
-}
-
-
-\renewenvironment{xltabular}[2]{%
-	\obssgrey%
-	\arrayrulecolor{\obsscurrentcolor}%
-	\setlength{\arrayrulewidth}{1.5pt}%
-	\rowcolors{1}{white}{\obsscurrentcolor!15}% Prima riga bianca, poi alterna
-	\obssoriginalxltabular{#1}{#2}%
-}{%
-	\obssendoriginalxltabular%
-}
 
 % ========== HYPERREF E BOOKMARK ==========
 % Importante: hyperref deve essere caricato per ultimo (quasi)

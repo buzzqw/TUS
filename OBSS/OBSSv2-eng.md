@@ -699,12 +699,12 @@ A score of -1 is considered weak, a -2 subnormal, a -3 severely problematic, a -
 
 The character's age affects physical and mental Ability Scores.
 
-| **Period** | **STR** | **DEX** | **CON** | **INT** | **WIS** |
+| \rowcolor{gray!20}**Period** | **STR** | **DEX** | **CON** | **INT** | **WIS** |
 | --- | --- | --- | --- | --- | --- |
 | Young |  |  | +1 |  | -1 |
-| Adult |  |  |  |  | |
+| \rowcolor{gray!20}Adult |  |  |  |  | |
 | Mature |  |  | -1 |  | +1 |
-| Elderly | -2 | -1 | -1 | +1 | +1 |
+| \rowcolor{gray!20}Elderly | -2 | -1 | -1 | +1 | +1 |
 | Venerable | -1 | -1 | -1 | -1 | +1 |
 
 The indicated modifiers are cumulative.
@@ -745,11 +745,11 @@ Each player distributes 4 points among the 6 Ability Scores, each Ability Score 
 
 The sum of the dice rolled for the Ability Scores is compared with this table to determine the actual values of the Ability Scores.
 
-| **Roll value** | **Ability** | **Roll value** | **Ability** |
+| \rowcolor{gray!20}**Roll value** | **Ability** | **Roll value** | **Ability** |
 | 3 (or less) | -3 | 12-13-14 | +1 |
-| 4-5 | -2 | 15-16-17 | +2 |
+| \rowcolor{gray!20}4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (or more) | +3 |
-| 9-10-11 | +0 |  | **Remember to apply racial modifiers!** |
+| \rowcolor{gray!20}9-10-11 | +0 |  | **Remember to apply racial modifiers!** |
 
 >> **Let's Roll Ability Scores for Tups**: **First set**: \st,1,4,3 total 8. Strength is -1
 
@@ -1135,35 +1135,35 @@ Each transition between archetypes represents a significant character developmen
 
 Some Patrons naturally embody or resonate with specific archetypes more strongly than others. These connections can inform both character development and storytelling:
 
-| **Patron** | **Archetypal Resonances** |
+| \rowcolor{gray!20}**Patron** | **Archetypal Resonances** |
 | --- | --- |
 | Ljust | The Hero, The Caregiver, The Martyr, The Mentor |
-| Calicante | The Shadow, The Tyrant, The Shapeshifter, The Ruler |
+| \rowcolor{gray!20}Calicante | The Shadow, The Tyrant, The Shapeshifter, The Ruler |
 | Atmos | The Sage, The Hermit, The Threshold Guardian |
-| Lynx | The Explorer, The Outlaw, The Hero |
+| \rowcolor{gray!20}Lynx | The Explorer, The Outlaw, The Hero |
 | Gradh | The Hero, The Ally, The Ruler, The Outlaw |
-| Atherim | The Caregiver, The Guardian, The Martyr |
+| \rowcolor{gray!20}Atherim | The Caregiver, The Guardian, The Martyr |
 | Belevon | The Trickster, The Jester, The Shapeshifter |
-| Cattalm | The Shadow, The Tyrant, The Destroyer |
+| \rowcolor{gray!20}Cattalm | The Shadow, The Tyrant, The Destroyer |
 | Efrem | The Everyman, The Creator, The Hermit |
-| Erondil | The Creator, The Magician, The Ruler |
+| \rowcolor{gray!20}Erondil | The Creator, The Magician, The Ruler |
 | Gaya | The Creator, The Innocent, The Caregiver |
-| Krondal | The Ruler, The Threshold Guardian, The Magician |
+| \rowcolor{gray!20}Krondal | The Ruler, The Threshold Guardian, The Magician |
 | Ledyal | The Caregiver, The Innocent, The Lover |
-| Laydel | The Shadow, The Shapeshifter, The Outlaw |
+| \rowcolor{gray!20}Laydel | The Shadow, The Shapeshifter, The Outlaw |
 | Nethergal | The Herald, The Explorer, The Magician |
-| Nedraf | The Hero, The Explorer, The Ally |
+| \rowcolor{gray!20}Nedraf | The Hero, The Explorer, The Ally |
 | Nihar | The Jester, The Explorer, The Trickster |
-| Orudjs | The Shapeshifter, The Trickster, The Lover |
+| \rowcolor{gray!20}Orudjs | The Shapeshifter, The Trickster, The Lover |
 | Orlaith | The Threshold Guardian, The Ruler, The Hero |
-| Rezh | The Tyrant, The Shadow, The Shapeshifter |
+| \rowcolor{gray!20}Rezh | The Tyrant, The Shadow, The Shapeshifter |
 | Shayalia | The Shadow, The Lover, The Shapeshifter |
-| Sixiser | The Hermit, The Sage, The Shadow |
+| \rowcolor{gray!20}Sixiser | The Hermit, The Sage, The Shadow |
 | Sumkjr | The Hero, The Ally, The Mentor, The Martyr |
-| Tàhil | The Shadow, The Tyrant, The Outlaw |
+| \rowcolor{gray!20}Tàhil | The Shadow, The Tyrant, The Outlaw |
 | Tazher | The Shadow, The Outlaw, The Shapeshifter |
 
-| Thaft | The Everyman, The Ally, The Caregiver |
+| \rowcolor{gray!20}Thaft | The Everyman, The Ally, The Caregiver |
 | Torbiorn | The Tyrant, The Shadow, The Ruler |
 
 ## Using Archetypes in Game
@@ -1210,40 +1210,40 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 | {\textwidth}{>{\raggedright}l|c|c|c|c} |
 
-| **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
+| \rowcolor{gray!20}**Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | --- | --- | --- | --- | --- |
 | **Acolyte** | Occult | History/Geography | Arcana | Religion |
-| **Alchemist** | Appraise | Nature | Herbalism | Arcana |
+| \rowcolor{gray!20}**Alchemist** | Appraise | Nature | Herbalism | Arcana |
 | **App. wizard** | History/Geography | Occult | Myths/Legends | Arcana |
-| **Blacksmith** | First Aid | Appraise | Athletics | Craft |
+| \rowcolor{gray!20}**Blacksmith** | First Aid | Appraise | Athletics | Craft |
 | **Broker** | Perform | Local trad. | Sense Motive | Diplomacy |
-| **Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
+| \rowcolor{gray!20}**Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
 | **Card player** | Sense Motive | Appraise | Perform | Deceive |
-| **Delinquent** | Survival | Ride | Appraise | Stealth |
+| \rowcolor{gray!20}**Delinquent** | Survival | Ride | Appraise | Stealth |
 | **Farmer** | Survival | Track | Handle animals | Nature |
-| **Fisherman** | Use rope | Swim | Survival | Nature |
+| \rowcolor{gray!20}**Fisherman** | Use rope | Swim | Survival | Nature |
 | **Goldsmith** | Local trad. | Sleight Hand | Appraise | Forgery |
-| **Guard** | Sense Motive | Knowledge Law | Ride | Intimidate |
+| \rowcolor{gray!20}**Guard** | Sense Motive | Knowledge Law | Ride | Intimidate |
 | **Guide** | Myths/Legends | Dungeon | Nature | Geography |
-| **Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
+| \rowcolor{gray!20}**Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
 | **Herbalist** | Myths/Legends | Geography | Nature | Herbalism |
-| **Hunter** | Stealth | Track | Survival | Nature |
+| \rowcolor{gray!20}**Hunter** | Stealth | Track | Survival | Nature |
 | **Innkeeper** | First aid | Appraise | Sense Motive | Diplomacy |
-| **Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
+| \rowcolor{gray!20}**Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
 | **Lumberjack** | Use Rope | Track | Nature | Survival |
-| **Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
+| \rowcolor{gray!20}**Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
 | **Mercenary** | Sense Motive | Acrobatics | Intimidate | Athletics |
-| **Merchant** | Languages | Local Trad. | Deceive | Appraise |
+| \rowcolor{gray!20}**Merchant** | Languages | Local Trad. | Deceive | Appraise |
 | **Miner** | Use rope | First aid | Appraise | Dungeon |
-| **Monk** | Perform | First Aid | Nature | Religion |
+| \rowcolor{gray!20}**Monk** | Perform | First Aid | Nature | Religion |
 | **Nomad** | Nature | Herbalism | Handle Animals | Survival |
-| **Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
+| \rowcolor{gray!20}**Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
 | **Performer** | Sense motive | Languages | Acrobatics | Perform |
-| **Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
+| \rowcolor{gray!20}**Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
 | **Pickpocket** | Disable Dev. | Escape Artist | Stealth | Sleight of Hand |
-| **Ranger** | Myths/Legends | Herbalism | Ride | Nature |
+| \rowcolor{gray!20}**Ranger** | Myths/Legends | Herbalism | Ride | Nature |
 | **Scribe** | Local Trad. | Forgery | Myths/Legends | Languages |
-| **Soldier** | Swim | Handle animals | Athletics | Ride |
+| \rowcolor{gray!20}**Soldier** | Swim | Handle animals | Athletics | Ride |
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
@@ -1271,16 +1271,16 @@ The player **increases by 1 the score of an Ability Score that connects to the P
 
 	
 
-| **Strength** | **Dexterity** | **Intelligence** | **Wisdom** | **Charisma** |
+| \rowcolor{gray!20}**Strength** | **Dexterity** | **Intelligence** | **Wisdom** | **Charisma** |
 | --- | --- | --- | --- | --- |
 | Climb | Acrobatics | Arcana | Ride | Diplomacy |
-| Athletics | Escape Artist | Craft | *Awareness* | Perform |
+| \rowcolor{gray!20}Athletics | Escape Artist | Craft | *Awareness* | Perform |
 | Intimidate | Stealth | Knowledge | Handle animals | Deceive |
-| Swim | Sleight of Hand | Disable Device | Nature | Local traditions |
+| \rowcolor{gray!20}Swim | Sleight of Hand | Disable Device | Nature | Local traditions |
 | Use Rope | Herbalism | Sense Motive | |
-|  | Forgery | First Aid | |
+| \rowcolor{gray!20} |  | Forgery | First Aid | |
 |  | Appraise | Track | |
-|  |  | Survival | |
+| \rowcolor{gray!20} |  |  | Survival | |
 
 **Knowledge** must be specified on which subject it covers: Architecture and Engineering, Dungeon, Geography, Law, Languages (terrestrial or not), Myths and Legends, Nobility and Heraldry, Occult, Planes, Religion, History, Ancient Technology...
 
@@ -1662,16 +1662,16 @@ The Narrator won't tell you make a check at difficulty 10, but will say that the
 
 **Table: Difficulty Class**
 
-| **Diff.** | **Description** | **Level** |
+| \rowcolor{gray!20}**Diff.** | **Description** | **Level** |
 | --- | --- | --- |
 | **DC** | **difficulty** | **Proficiency** |
-| 5 | Extremely easy | None |
+| \rowcolor{gray!20}5 | Extremely easy | None |
 | 10 | Easy | Poor |
-| 15 | Normal | Normal |
+| \rowcolor{gray!20}15 | Normal | Normal |
 | 20 | Difficult | Good |
-| 25 | Very difficult | Excellent |
+| \rowcolor{gray!20}25 | Very difficult | Excellent |
 | 30 | Heroic | Outstanding |
-| 35 | Almost impossible | Amazing |
+| \rowcolor{gray!20}35 | Almost impossible | Amazing |
 | 40 | Impossible | Epic |
 
 If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Narrator who will compare it with the difficulty (DC).
@@ -1748,12 +1748,12 @@ Whenever the **Check** or **Opposed Check** concerns an **Ability Score** and no
 
 **Table: Opposed Checks**
 
-| **Opposed Check** | **ST** |
+| \rowcolor{gray!20}**Opposed Check** | **ST** |
 | --- | --- |
 | Strength | Fortitude |
-| Dexterity | Reflex |
+| \rowcolor{gray!20}Dexterity | Reflex |
 | Constitution | Fortitude |
-| Intelligence, Wisdom, Charisma | Will |
+| \rowcolor{gray!20}Intelligence, Wisdom, Charisma | Will |
 
 It is possible that Opposed Checks with different modifiers may be requested. Those reported in the table above are examples of typical use. It is possible to make an opposed Strength check, making a Fortitude Saving Throw and adding the Strength score to determine who wins in a weightlifting competition.
 
@@ -1785,17 +1785,17 @@ The player may request to make the check even if the result is certain.
 
 	
 
-| **Advantage / Disadvant.** | **Checks** | |
+| \rowcolor{gray!20}**Advantage / Disadvant.** | **Checks** | |
 | --- | --- |
 | \cmidrule(lr) | **Dynamic** | **Fixed** |
 | Light bonus | +1 | +1 |
-| Normal bonus | +2 | +2 |
+| \rowcolor{gray!20}Normal bonus | +2 | +2 |
 | Strong bonus | +1d6 | +4 |
-| Very strong bonus | +2d6 | +8 |
+| \rowcolor{gray!20}Very strong bonus | +2d6 | +8 |
 | Light disadvantage | -1 | -1 |
-| Normal disadvantage | -2 | -2 |
+| \rowcolor{gray!20}Normal disadvantage | -2 | -2 |
 | Strong disadvantage | -1d6 | -4 |
-| Very strong disadvantage | -2d6 | -8 |
+| \rowcolor{gray!20}Very strong disadvantage | -2d6 | -8 |
 
 >>> **Weight of dice..**: Bonuses and penalties in the 3d6 roll have more *effect* than in the check made with the d20. Try to stay within $\pm2$ and only in particular situations of effective and strong advantage or disadvantage apply greater bonuses or penalties.
 
@@ -1883,21 +1883,21 @@ In case of failure of the check, the Action is consumed without moving. If you g
 
 The indicated modifiers are cumulative.
 
-| **Example Surface** | **DC** |
+| \rowcolor{gray!20}**Example Surface** | **DC** |
 | --- | --- |
 | Movement only halved | -2d6 |
-| Slippery surface | +4 |
+| \rowcolor{gray!20}Slippery surface | +4 |
 | { Rough wall with handholds, protruding bricks} | +12 |
-| A tree, a rope without knots | +15 |
+| \rowcolor{gray!20}A tree, a rope without knots | +15 |
 | A wall with few protruding bricks | +20 |
-| A wall with very few handholds | +25 |
+| \rowcolor{gray!20}A wall with very few handholds | +25 |
 | A smooth natural wall without handholds | +30 |
-| You can lean against 2 opposite walls | -8 |
+| \rowcolor{gray!20}You can lean against 2 opposite walls | -8 |
 | You can lean against 2 walls at angles | -4 |
 | Examples of checks with rope use | |
-| Using a rope to descend | 12 |
+| \rowcolor{gray!20}Using a rope to descend | 12 |
 | Using a rope to climb up | 15 |
-| The rope has knots | -3 |
+| \rowcolor{gray!20}The rope has knots | -3 |
 
 In case of Critical Success, you scale or climb as if it were difficult terrain. Using a rope allows you to treat climbing as difficult terrain.
 
@@ -1948,18 +1948,18 @@ Extraplanar creatures such as Celestials, Demons, Devils, Dragons, Elves, Dwarve
 
 **Table of Languages**
 
-| **Cultural Area** | **Spoken** | **Written** |
+| \rowcolor{gray!20}**Cultural Area** | **Spoken** | **Written** |
 | --- | --- | --- |
 | Old terrestrial languages | various | various |
-| Sentient marine creatures* | Aquan | - |
+| \rowcolor{gray!20}Sentient marine creatures* | Aquan | - |
 | Sentient birds | Ictun | - |
-| Sentient forest dwellers | Sylvan | - |
+| \rowcolor{gray!20}Sentient forest dwellers | Sylvan | - |
 | Dragons | Draconic | Draconic |
-| Fire Elementals* | Ignan | - |
+| \rowcolor{gray!20}Fire Elementals* | Ignan | - |
 | Earth Elementals* | Tremun | - |
-| Water Elementals* | Aquan | - |
+| \rowcolor{gray!20}Water Elementals* | Aquan | - |
 | Air Elementals* | Ictun | - |
-| Undead | Expiran | - |
+| \rowcolor{gray!20}Undead | Expiran | - |
 | Sign Language* | Sign | - |
 
 **Telepathy** is a means to speak with any creature that has Intelligence at least -3. There is no language constraint; telepathy acts as a universal translator.
@@ -1996,15 +1996,15 @@ See Chapter Adventures in Water (page ).
 
 To the **Base Difficulty of 15**, the following modifiers apply:
 
-| If the ground is very soft | DC -4 |
+| \rowcolor{gray!20}If the ground is very soft | DC -4 |
 | If the ground is stable | DC +5 |
-| If the ground is hard | DC +10 |
+| \rowcolor{gray!20}If the ground is hard | DC +10 |
 | Depending on size | DC $\pm4$ |
-| Every 3 creatures tracked | DC -2 |
+| \rowcolor{gray!20}Every 3 creatures tracked | DC -2 |
 | Every 24 hours passed | DC +4 |
-| Every hour of rain | DC +4 |
+| \rowcolor{gray!20}Every hour of rain | DC +4 |
 | Poor visibility | DC +2 |
-| Tries to conceal tracks | DC +4 |
+| \rowcolor{gray!20}Tries to conceal tracks | DC +4 |
 
 >> **Checks Checks and more Checks!**: To be cynical, a role-playing game is all about checks, whether you're trying to make a jump, hit someone, avoid a trap or a spell...!
 You need to be smarter and wiser. Checks can often be avoided or approached with advantage. Play with wit, use your imagination, be creative!
@@ -2131,44 +2131,44 @@ The character who executes an Attack Action and Casts a Spell in the same round 
 
 	
 
-| **What to do** | **Actions** |
+| \rowcolor{gray!20}**What to do** | **Actions** |
 | --- | --- |
 | Execute an attack | 1 |
-| Execute two attacks | 2 |
+| \rowcolor{gray!20}Execute two attacks | 2 |
 | Execute more than two attacks | 3 |
-| Draw or Sheathe weapon or shield | 1 |
+| \rowcolor{gray!20}Draw or Sheathe weapon or shield | 1 |
 | Execute a Movement Action | 1* |
-| Dash | 1 |
+| \rowcolor{gray!20}Dash | 1 |
 | Stand up from prone | 1 |
-| Help someone | R |
+| \rowcolor{gray!20}Help someone | R |
 | Perform a skill check | 1* |
-| Identify a creature | 1 |
+| \rowcolor{gray!20}Identify a creature | 1 |
 | Hide | 1 |
-| Mount or dismount a mount | 2 |
+| \rowcolor{gray!20}Mount or dismount a mount | 2 |
 | Break down a door with shoulder/kicks | 1 |
-| Force a door with a crowbar | 2 |
+| \rowcolor{gray!20}Force a door with a crowbar | 2 |
 | Search for something in a backpack | 2 |
-| { Take something from belt or readily available} | 1 |
+| \rowcolor{gray!20}{ Take something from belt or readily available} | 1 |
 | Use an item held in hand | 1 |
-| Drink a potion held in hand | Imm. |
+| \rowcolor{gray!20}Drink a potion held in hand | Imm. |
 | Give a potion to someone else | 2 |
-| Throw an object held in hand | R |
+| \rowcolor{gray!20}Throw an object held in hand | R |
 | Drop prone to the ground | R |
-| Cast a Spell* | 2 |
+| \rowcolor{gray!20}Cast a Spell* | 2 |
 | Concentrate on a Spell | 1 |
-| Interrupt your own spell | Imm. |
+| \rowcolor{gray!20}Interrupt your own spell | Imm. |
 | Identify a Spell | R |
-| Use a magic item | 2 |
+| \rowcolor{gray!20}Use a magic item | 2 |
 | Exchange a dialogue with someone | 3* |
-| Exchange a few lines with someone | 0* |
+| \rowcolor{gray!20}Exchange a few lines with someone | 0* |
 | Prepare Defense | 1 |
-| Total Defense | 2 |
+| \rowcolor{gray!20}Total Defense | 2 |
 | Disengage | 1 |
-| Precise Strike | 2 |
+| \rowcolor{gray!20}Precise Strike | 2 |
 | Disarm | 2 |
-| Feint | 1 |
+| \rowcolor{gray!20}Feint | 1 |
 | Push an opponent | 2 |
-| Grapple an opponent | 2 |
+| \rowcolor{gray!20}Grapple an opponent | 2 |
 | Trip an opponent | 2 |
 
 During the Movement Action, it is possible to **Draw a Weapon** or Shield or **Sheathe a Weapon** or Shield.
@@ -2504,9 +2504,10 @@ Splash weapons are those that *spread* their contents where they fall, such as f
 
 If the attack misses (by at least 5), roll a d8 and consult this diagram to understand where the vial has fallen:
 
-| 8 | 1 | 2 |
+| \rowcolor{gray!20}8 | 1 | 2 |
 | 7 | **X** | 3 |
-| 6 | 5 | 4 |
+| --- | --- | --- |
+| \rowcolor{gray!20}6 | 5 | 4 |
 | **0** | **X** is considered the target of the thrown object. **0** is the point of origin of the throw. |
 
 If the roll misses by 5 or more, roll 2d6 to determine along the direction indicated by the previous d8 how many meters it fell away from the target, i.e., count the meters from the target.
@@ -2537,16 +2538,16 @@ It's not a question of miniatures, spaces, squares... it's a question of fun and
 
 Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the player has an advantage or disadvantage, and similarly to the opponent.
 
-| **Attacker** |  | **Defender** |
+| \rowcolor{gray!20}**Attacker** |  | **Defender** |
 | --- | --- | --- |
 | **Mod**. | *Situation* | *Situation* |
-| **-1** | Fatigued (1), Dim Light | Fatigued (1) |
+| \rowcolor{gray!20}**-1** | Fatigued (1), Dim Light | Fatigued (1) |
 | **-2** | Fatigued (2), Entangled | Fatigued (2), Grappled, Entangled, Surprised |
-| **-4** | Fatigued (4), Prone, Long Weapon at short distance, non-lethal attack with lethal weapon | Fatigued (4), Prone, Kneeling, Sitting, Restricted, Stunned, Climbing a wall, Restrained |
+| \rowcolor{gray!20}**-4** | Fatigued (4), Prone, Long Weapon at short distance, non-lethal attack with lethal weapon | Fatigued (4), Prone, Kneeling, Sitting, Restricted, Stunned, Climbing a wall, Restrained |
 | **-1d6** | Restricted, Frightened, Ranged Weapon against opponent in melee, Unfamiliar Weapon, Invisible but Detected target, Climbing a wall, Restrained | |
-| **+2** | Flanking, Elevated Position, Attacking from behind | Light Cover |
+| \rowcolor{gray!20}**+2** | Flanking, Elevated Position, Attacking from behind | Light Cover |
 | **+4** |  | Medium Cover |
-| **+1d6** | Invisible, Charge, Helpless opponent | |
+| \rowcolor{gray!20}**+1d6** | Invisible, Charge, Helpless opponent | |
 | **+8** |  | Full Cover |
 
 >>> **Feel Free**: Try not to interrupt the game looking for the exact rule, let it flow, tell the players that for brevity you're handling the situation in a certain way; there will be time later to remember the situation and find the right rule. Constantly interrupting the game breaks the *pathos* of the situation.
@@ -2639,10 +2640,10 @@ A creature can attack from behind if the opponent is not able to face it. Attack
 
 **Example of flanking**
 
-| A | G | D |
+| \rowcolor{gray!20}A | G | D |
 | B | **X** | E |
 | --- | --- | --- |
-| C | H | F |
+| \rowcolor{gray!20}C | H | F |
 
 In this diagram, flanking is achieved by the pairs: A-F, B-E, C-D, G-H
 
@@ -2735,11 +2736,11 @@ Fighting in conditions of reduced light presents difficulties summarized in this
 
 	
 
-| **Vision** | **Condition** | |
+| \rowcolor{gray!20}**Vision** | **Condition** | |
 | --- | --- |
 | Dim Light | Darkness |
 | Normal | -1 To Hit, -2 Awar. | Invis. (page ) |
-| Low-Light | Normal | Invis. (page ) |
+| \rowcolor{gray!20}Low-Light | Normal | Invis. (page ) |
 | Darkvision | Normal | -2 Awar. |
 
 See also Chapter Vision and Light (page ).
@@ -3027,16 +3028,16 @@ Depending on the distance of the invisible creature or what it did in the previo
 
 **Table: Modifiers to Awareness DC for Detecting Invisible Creatures**
 
-| **The Invisible Creature...** | **Mod.** |
+| \rowcolor{gray!20}**The Invisible Creature...** | **Mod.** |
 | --- | --- |
 | Has moved | -4 |
-| Has thrown a projectile | -4 |
+| \rowcolor{gray!20}Has thrown a projectile | -4 |
 | A companion who sees it guides you | -4 |
-| Has run or charged | -8 |
+| \rowcolor{gray!20}Has run or charged | -8 |
 | Uses Stealth | check+10 |
-| Is still and makes no noise | +4 |
+| \rowcolor{gray!20}Is still and makes no noise | +4 |
 | For each meter beyond 6 meters | +2 |
-| Has Light/Medium/Complete cover | +4/8/12 |
+| \rowcolor{gray!20}Has Light/Medium/Complete cover | +4/8/12 |
 
 These modifiers are cumulative with each other.
 
@@ -4855,12 +4856,12 @@ It is the ability to not be slowed down in a hostile environment. It is necessar
 
 	
 
-| **Environment** | **Environment** |
+| \rowcolor{gray!20}**Environment** | **Environment** |
 | --- | --- |
 | Jungle | Aquatic | Coastal |
-| Swamp | Hill | Forest |
+| \rowcolor{gray!20}Swamp | Hill | Forest |
 | Plains | Desert |
-| Mountain | Glaciers | Tundra |
+| \rowcolor{gray!20}Mountain | Glaciers | Tundra |
 | Urban | Underground |
 
 Each time you take this Feat again, you choose a different environment and add it to the previous one, or you specialize in the same one.
@@ -5147,523 +5148,523 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 To facilitate the transition for those coming from other role-playing games with classes, the Feats are divided here for the most canonical classes. These are clearly just guidelines; in OBSS, the character can be built as preferred and as the story they live is instructing them.
 
-| **Lv** | **Tank Fighter** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Tank Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | My Skin - Second Skin |
-| 2 | 2 | 0 | 2d6+6 | Ready Defense |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Ready Defense |
 | 3 | 3 | 0 | 3d6+9 | Parry |
-| 4 | 4 | 0 | 4d6+12 | Tough Hide |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Tough Hide |
 | 5 | 5 | 0 | 5d6+15 | Opportunist |
-| 6 | 6 | 0 | 6d6+18 | Improved Initiative |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Improved Initiative |
 | 7 | 7 | 0 | 7d6+21 | Stone Resilience |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Second Skin (2nd) |
-| 10 | 10 | 0 | 10d6+30 | Robust |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Robust |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Tough Hide (2nd) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Tough Hide (2nd) |
 | 13 | 13 | 0 | 13d6+39 | Iron Will |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Second Skin (3rd) |
-| 16 | 16 | 0 | 16d6+48 | Hard to Kill |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Hard to Kill |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Lightning Reflexes |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Lightning Reflexes |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colossus |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colossus |
 
 **Babarian**
 
-| **Lv** | **Barbarian** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Barbarian** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Ferocity - Fury |
-| 2 | 2 | 0 | 2d6+6 | Mighty Blows |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Mighty Blows |
 | 3 | 3 | 0 | 3d6+9 | Press On |
-| 4 | 4 | 0 | 4d6+12 | Ferocity (2nd) |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Ferocity (2nd) |
 | 5 | 5 | 0 | 5d6+15 | One Arm, One Weapon |
-| 6 | 6 | 0 | 6d6+18 | My Death Your Death |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | My Death Your Death |
 | 7 | 7 | 0 | 7d6+21 | Ferocity (3rd) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Press On (2nd) |
-| 10 | 10 | 0 | 10d6+30 | First Blood |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | First Blood |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Ferocity (4th) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Ferocity (4th) |
 | 13 | 13 | 0 | 13d6+39 | One Arm, One Weapon (2nd) |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | The Bigger They Are, The Harder They Fall |
-| 16 | 16 | 0 | 16d6+48 | Forged in Fury |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Forged in Fury |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Truly Evil Person |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Truly Evil Person |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colossus |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colossus |
 
 **Duelist Fighter**
 
-| **Lv** | **Duelist Fighter** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Duelist Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Focused Weapon - Blade Dance |
-| 2 | 2 | 0 | 2d6+6 | Improved Initiative |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Improved Initiative |
 | 3 | 3 | 0 | 3d6+9 | Parry |
-| 4 | 4 | 0 | 4d6+12 | Quick Draw |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Quick Draw |
 | 5 | 5 | 0 | 5d6+15 | Iaijutsu |
-| 6 | 6 | 0 | 6d6+18 | Weapon Artist |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Weapon Artist |
 | 7 | 7 | 0 | 7d6+21 | Blade Dance (2nd) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Parry (2nd) |
-| 10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Iaijutsu (2nd) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu (2nd) |
 | 13 | 13 | 0 | 13d6+39 | Weapon Artist (2nd) |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Blade Dance (3rd) |
-| 16 | 16 | 0 | 16d6+48 | Lightning Reflexes |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Lightning Reflexes |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Iaijutsu (3rd) |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Iaijutsu (3rd) |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Whirlwind Attack |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Whirlwind Attack |
 
 **Acrobat Rogue**
 
-| **Lv** | **Acrobat Rogue** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Acrobat Rogue** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Quick Draw - Silent Step |
-| 2 | 2 | 0 | 2d6+6 | Opportunist |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Opportunist |
 | 3 | 3 | 0 | 3d6+9 | Sneak Attack |
-| 4 | 4 | 0 | 4d6+12 | Trap Dodging |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Trap Dodging |
 | 5 | 5 | 0 | 5d6+15 | Clinical Eye |
-| 6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
 | 7 | 7 | 0 | 7d6+21 | Perceptive |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Silent Step (2nd) |
-| 10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
 | 13 | 13 | 0 | 13d6+39 | Trap Dodging (2nd) |
-| 14 | 14 | 0 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Sneak Attack (4th) |
-| 16 | 16 | 0 | 16d6+48 | Hit and Run |
+| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Hit and Run |
 | 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Debilitating Strike |
+| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Debilitating Strike |
 | 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Paralyzing Strike |
+| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Paralyzing Strike |
 
 **Assassin**
 
-| **Lv** | **Assassin** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Assassin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Sneak Attack - Silent Step |
-| 2 | 2 | 0 | 2d6+6 | Quick Draw |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Quick Draw |
 | 3 | 3 | 0 | 3d6+9 | Opportunist |
-| 4 | 4 | 0 | 4d6+12 | This is my Dagger |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | This is my Dagger |
 | 5 | 5 | 0 | 5d6+15 | Trap Dodging |
-| 6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
 | 7 | 7 | 0 | 7d6+21 | Perceptive |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Silent Step (2nd) |
-| 10 | 10 | 0 | 10d6+30 | Clinical Eye |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Clinical Eye |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
 | 13 | 13 | 1 | 13d6+39 | Magic Adept |
-| 14 | 14 | 1 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Sneak Attack (4th) |
-| 16 | 15 | 2 | 16d6+45 | Combat Caster |
+| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Combat Caster |
 | 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Debilitating Strike |
+| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Debilitating Strike |
 | 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Paralyzing Strike |
+| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Paralyzing Strike |
 
 **Explorer Ranger**
 
-| **Lv** | **Explorer Ranger** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Explorer Ranger** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Sure Step - Precise Shot |
-| 2 | 2 | 0 | 2d6+6 | Bloodhound |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Bloodhound |
 | 3 | 3 | 0 | 3d6+9 | Hawk Eye |
-| 4 | 4 | 0 | 4d6+12 | Fast Step |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Fast Step |
 | 5 | 5 | 0 | 5d6+15 | One with the Bow |
-| 6 | 6 | 0 | 6d6+18 | Perfectionist |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Perfectionist |
 | 7 | 7 | 0 | 7d6+21 | Sure Step (specialization) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Trackless |
-| 10 | 10 | 0 | 10d6+30 | Blind Fighting |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Blind Fighting |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Rapid Shot |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Rapid Shot |
 | 13 | 13 | 1 | 13d6+39 | Magic Adept |
-| 14 | 14 | 1 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Bloodhound (2nd) |
-| 16 | 15 | 2 | 16d6+45 | Brew Potions |
+| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Brew Potions |
 | 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Hawk Eye (2nd) |
+| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Hawk Eye (2nd) |
 | 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | One with the Bow (2nd) |
+| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | One with the Bow (2nd) |
 
 **Beast Ranger**
 
-| **Lv** | **Beast Ranger** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Beast Ranger** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Pet / Familiar - Sure Step |
-| 2 | 2 | 0 | 2d6+6 | Bloodhound |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Bloodhound |
 | 3 | 2 | 1 | 3d6+6 | Magic Adept |
-| 4 | 3 | 1 | 4d6+9 | Pet / Familiar (2nd) |
+| \rowcolor{gray!20}4 | 3 | 1 | 4d6+9 | Pet / Familiar (2nd) |
 | 5 | 3 | 2 | 5d6+9 | Animalia |
-| 6 | 4 | 2 | 6d6+12 | Precise Shot |
+| \rowcolor{gray!20}6 | 4 | 2 | 6d6+12 | Precise Shot |
 | 7 | 4 | 3 | 7d6+12 | Daughter of Shayalia |
-| 8 | 5 | 3 | 8d6+15 | |
+| \rowcolor{gray!20}8 | 5 | 3 | 8d6+15 | |
 | 9 | 5 | 4 | 9d6+15 | Sure Step (specialization) |
-| 10 | 6 | 4 | 10d6+18 | Hawk Eye |
+| \rowcolor{gray!20}10 | 6 | 4 | 10d6+18 | Hawk Eye |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 7 | 5 | 12d6+21 | Animalia (2nd) |
+| \rowcolor{gray!20}12 | 7 | 5 | 12d6+21 | Animalia (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Bloodhound (2nd) |
-| 14 | 8 | 6 | 14d6+24 | |
+| \rowcolor{gray!20}14 | 8 | 6 | 14d6+24 | |
 | 15 | 8 | 7 | 15d6+24 | Daughter of Shayalia (2nd) |
-| 16 | 9 | 7 | 16d6+27 | Trackless |
+| \rowcolor{gray!20}16 | 9 | 7 | 16d6+27 | Trackless |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 10 | 8 | 18d6+30 | Rapid Shot |
+| \rowcolor{gray!20}18 | 10 | 8 | 18d6+30 | Rapid Shot |
 | 19 | 11 | 8 | 19d6+33 | |
-| 20 | 12 | 8 | 20d6+36 | One with the Bow |
+| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | One with the Bow |
 
 **Traditional Paladin**
 
-| **Lv** | **Traditional Paladin** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Traditional Paladin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Retaliation |
-| 2 | 1 | 1 | 2d6+3 | Magic Adept |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | Laying on Hands |
-| 4 | 2 | 2 | 4d6+6 | Armor of the Devoted |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armor of the Devoted |
 | 5 | 3 | 2 | 5d6+9 | The Patron is my Weapon (2nd) |
-| 6 | 3 | 3 | 6d6+9 | Turn Undead |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Turn Undead |
 | 7 | 4 | 3 | 7d6+12 | Laying on Hands (2nd) |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | The Shield is my Friend |
-| 10 | 5 | 5 | 10d6+15 | The Patron is with me |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Power of the Patron |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | The Patron is my Weapon (3rd) |
-| 16 | 8 | 8 | 16d6+24 | Laying on Hands (3rd) |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Laying on Hands (3rd) |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Channel Energy |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Channel Energy |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
 
 **Templar Paladin**
 
-| **Lv** | **Templar Paladin** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Templar Paladin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Retaliation |
-| 2 | 2 | 0 | 2d6+6 | This is my Weapon! |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | This is my Weapon! |
 | 3 | 3 | 0 | 3d6+9 | Second Skin |
-| 4 | 4 | 0 | 4d6+12 | My Skin |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | My Skin |
 | 5 | 5 | 0 | 5d6+15 | The Patron is my Weapon (2nd) |
-| 6 | 6 | 0 | 6d6+18 | Opportunist |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Opportunist |
 | 7 | 7 | 0 | 7d6+21 | Iron Will |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Stone Resilience |
-| 10 | 10 | 0 | 10d6+30 | The Patron is my Weapon (3rd) |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | The Patron is my Weapon (3rd) |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Second Skin (2nd) |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Second Skin (2nd) |
 | 13 | 13 | 1 | 13d6+39 | Magic Adept |
-| 14 | 14 | 1 | 14d6+42 | |
+| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | The Patron is my Weapon (4th) |
-| 16 | 15 | 2 | 16d6+45 | Laying on Hands |
+| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Laying on Hands |
 | 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | The Patron is my Weapon (5th) |
+| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | The Patron is my Weapon (5th) |
 | 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | The Patron is my Weapon (6th) |
+| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | The Patron is my Weapon (6th) |
 
 **Academic Wizard**
 
-| **Lv** | **Academic Wizard** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Academic Wizard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 0 | 1 | 1d6 | Magic Adept - One with Magic |
-| 2 | 0 | 2 | 2d6 | Scholar |
+| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Scholar |
 | 3 | 0 | 3 | 3d6 | Prodigious |
-| 4 | 0 | 4 | 4d6 | Magic Adept (2nd) |
+| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Magic Adept (2nd) |
 | 5 | 0 | 5 | 5d6 | Powerful Magics |
-| 6 | 0 | 6 | 6d6 | Focused |
+| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Focused |
 | 7 | 0 | 7 | 7d6 | Scribe |
-| 8 | 0 | 8 | 8d6 | |
+| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | Magic Battery |
-| 10 | 0 | 10 | 10d6 | Specialist |
+| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Specialist |
 | 11 | 0 | 11 | 11d6 | |
-| 12 | 0 | 12 | 12d6 | Create Magic Items |
+| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Create Magic Items |
 | 13 | 0 | 13 | 13d6 | Prodigious (2nd) |
-| 14 | 0 | 14 | 14d6 | |
+| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Magic Adept (3rd) |
-| 16 | 0 | 16 | 16d6 | Focused (2nd) |
+| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Focused (2nd) |
 | 17 | 0 | 17 | 17d6 | |
-| 18 | 0 | 18 | 18d6 | Powerful Magics (2nd) |
+| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Powerful Magics (2nd) |
 | 19 | 0 | 19 | 19d6 | |
-| 20 | 0 | 20 | 20d6 | One Belief |
+| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | One Belief |
 
 **Sorcerer**
 
-| **Lv** | **Sorcerer** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Sorcerer** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 0 | 1 | 1d6 | Magic Adept - Magic Battery |
-| 2 | 0 | 2 | 2d6 | Elementalist |
+| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Elementalist |
 | 3 | 0 | 3 | 3d6 | Extended Battery |
-| 4 | 0 | 4 | 4d6 | Focused |
+| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Focused |
 | 5 | 0 | 5 | 5d6 | Powerful Magics |
-| 6 | 0 | 6 | 6d6 | Loaded Dice |
+| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Loaded Dice |
 | 7 | 0 | 7 | 7d6 | Elementalist (2nd) |
-| 8 | 0 | 8 | 8d6 | |
+| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | One Hit One Kill |
-| 10 | 0 | 10 | 10d6 | Magic Battery (2nd) |
+| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Magic Battery (2nd) |
 | 11 | 0 | 11 | 11d6 | |
-| 12 | 0 | 12 | 12d6 | Loaded Dice (2nd) |
+| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Loaded Dice (2nd) |
 | 13 | 0 | 13 | 13d6 | Focused (2nd) |
-| 14 | 0 | 14 | 14d6 | |
+| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Magic Adept (2nd) |
-| 16 | 0 | 16 | 16d6 | Powerful Magics (2nd) |
+| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Powerful Magics (2nd) |
 | 17 | 0 | 17 | 17d6 | |
-| 18 | 0 | 18 | 18d6 | Cautious Caster |
+| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Cautious Caster |
 | 19 | 0 | 19 | 19d6 | |
-| 20 | 0 | 20 | 20d6 | One with Magic |
+| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | One with Magic |
 
 **Healer Cleric**
 
-| **Lv** | **Healer Cleric** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Healer Cleric** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Healer - Magic Adept |
-| 2 | 1 | 1 | 2d6+3 | Laying on Hands |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Laying on Hands |
 | 3 | 2 | 1 | 3d6+6 | Faithful |
-| 4 | 2 | 2 | 4d6+6 | One with Magic |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | One with Magic |
 | 5 | 3 | 2 | 5d6+9 | Laying on Hands (2nd) |
-| 6 | 3 | 3 | 6d6+9 | Channel Energy |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Channel Energy |
 | 7 | 4 | 3 | 7d6+12 | Turn Undead |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Healer (2nd) |
-| 10 | 5 | 5 | 10d6+15 | The Patron is with me |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Laying on Hands (3rd) |
+| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Laying on Hands (3rd) |
 | 13 | 5 | 8 | 13d6+15 | Power of the Patron |
-| 14 | 5 | 9 | 14d6+15 | |
+| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Laying on Hands (4th) |
-| 16 | 5 | 11 | 16d6+15 | Channel Energy (2nd) |
+| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Channel Energy (2nd) |
 | 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Laying on Hands (5th) |
+| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Laying on Hands (5th) |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Laying on Hands (6th) |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Laying on Hands (6th) |
 
 **Warrior Cleric**
 
-| **Lv** | **Warrior Cleric** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Warrior Cleric** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Magic Adept |
-| 2 | 1 | 1 | 2d6+3 | Laying on Hands |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Laying on Hands |
 | 3 | 2 | 1 | 3d6+6 | Armor of the Devoted |
-| 4 | 2 | 2 | 4d6+6 | Turn Undead |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Turn Undead |
 | 5 | 3 | 2 | 5d6+9 | The Patron is my Weapon (2nd) |
-| 6 | 3 | 3 | 6d6+9 | The Shield is my Friend |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | The Shield is my Friend |
 | 7 | 4 | 3 | 7d6+12 | One with Magic |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Laying on Hands (2nd) |
-| 10 | 5 | 5 | 10d6+15 | The Patron is with me |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Power of the Patron |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | The Patron is my Weapon (3rd) |
-| 16 | 8 | 8 | 16d6+24 | Channel Energy |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Channel Energy |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Armor of the Devoted (3rd) |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Armor of the Devoted (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
 
 **Naturalist Druid**
 
-| **Lv** | **Naturalist Druid** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Naturalist Druid** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Brew Potions - Magic Adept |
-| 2 | 1 | 1 | 2d6+3 | Daughter of Shayalia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Daughter of Shayalia |
 | 3 | 2 | 1 | 3d6+6 | Sure Step |
-| 4 | 2 | 2 | 4d6+6 | Elementalist |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Elementalist |
 | 5 | 3 | 2 | 5d6+9 | Pet / Familiar |
-| 6 | 3 | 3 | 6d6+9 | One with Magic |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | One with Magic |
 | 7 | 4 | 3 | 7d6+12 | Brew Potions (2nd) |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Daughter of Shayalia (2nd) |
-| 10 | 5 | 5 | 10d6+15 | Focused |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Focused |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Elementalist (2nd) |
+| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Elementalist (2nd) |
 | 13 | 5 | 8 | 13d6+15 | Elemental Form |
-| 14 | 5 | 9 | 14d6+15 | |
+| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Pet / Familiar (2nd) |
-| 16 | 5 | 11 | 16d6+15 | Daughter of Shayalia (3rd) |
+| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Daughter of Shayalia (3rd) |
 | 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Powerful Magics |
+| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Powerful Magics |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Prodigious |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Prodigious |
 
 **Shapeshifter Druid**
 
-| **Lv** | **Shapeshifter Druid** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Shapeshifter Druid** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Brew Potions - Magic Adept |
-| 2 | 1 | 1 | 2d6+3 | Animalia |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Animalia |
 | 3 | 2 | 1 | 3d6+6 | Daughter of Shayalia |
-| 4 | 2 | 2 | 4d6+6 | Pure Blood |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Pure Blood |
 | 5 | 3 | 2 | 5d6+9 | Animalia (2nd) |
-| 6 | 3 | 3 | 6d6+9 | Elemental Form |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Elemental Form |
 | 7 | 4 | 3 | 7d6+12 | Sure Step |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Pure Blood (2nd) |
-| 10 | 5 | 5 | 10d6+15 | Animalia (3rd) |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Animalia (3rd) |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Daughter of Shayalia (2nd) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Daughter of Shayalia (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Elemental Form (2nd) |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Pure Blood (3rd) |
-| 16 | 8 | 8 | 16d6+24 | Animalia (4th) |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Animalia (4th) |
 | 17 | 8 | 9 | 17d6+24 | |
-| 18 | 8 | 10 | 18d6+24 | Daughter of Shayalia (3rd) |
+| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Daughter of Shayalia (3rd) |
 | 19 | 8 | 11 | 19d6+24 | |
-| 20 | 8 | 12 | 20d6+24 | Daughter of Shayalia (4th) |
+| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Daughter of Shayalia (4th) |
 
 **Enchanter Bard**
 
-| **Lv** | **Enchanter Bard** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Enchanter Bard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Inspire Courage - Magic Adept |
-| 2 | 1 | 1 | 2d6+3 | Combat Caster |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Combat Caster |
 | 3 | 2 | 1 | 3d6+6 | Instill Fear |
-| 4 | 2 | 2 | 4d6+6 | Expert |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Expert |
 | 5 | 3 | 2 | 5d6+9 | Inspire Courage (2nd) |
-| 6 | 3 | 3 | 6d6+9 | Versatile Litany |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Versatile Litany |
 | 7 | 4 | 3 | 7d6+12 | Focused |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Instill Fear (2nd) |
-| 10 | 5 | 5 | 10d6+15 | Warrior of Magic |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Warrior of Magic |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Inspire Courage (3rd) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Inspire Courage (3rd) |
 | 13 | 7 | 6 | 13d6+21 | One with Magic |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Versatile Litany (2nd) |
-| 16 | 8 | 8 | 16d6+24 | Powerful Magics |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Powerful Magics |
 | 17 | 8 | 9 | 17d6+24 | |
-| 18 | 8 | 10 | 18d6+24 | Infuse Magical Energy |
+| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Infuse Magical Energy |
 | 19 | 8 | 11 | 19d6+24 | |
-| 20 | 8 | 12 | 20d6+24 | Prodigious |
+| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Prodigious |
 
 **Blade Bard**
 
-| **Lv** | **Blade Bard** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Blade Bard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Blade Dance - Inspire Courage |
-| 2 | 2 | 0 | 2d6+6 | Focused Weapon |
+| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Focused Weapon |
 | 3 | 3 | 0 | 3d6+9 | Tactician |
-| 4 | 4 | 0 | 4d6+12 | Blade Dance (2nd) |
+| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Blade Dance (2nd) |
 | 5 | 5 | 0 | 5d6+15 | Infuriate |
-| 6 | 6 | 0 | 6d6+18 | Coordinated Damage |
+| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Coordinated Damage |
 | 7 | 7 | 0 | 7d6+21 | Blade Dance (3rd) |
-| 8 | 8 | 0 | 8d6+24 | |
+| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Inspire Courage (2nd) |
-| 10 | 10 | 0 | 10d6+30 | Whirlwind Attack |
+| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Whirlwind Attack |
 | 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Iaijutsu |
+| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu |
 | 13 | 12 | 1 | 13d6+36 | Magic Adept |
-| 14 | 12 | 2 | 14d6+36 | |
+| \rowcolor{gray!20}14 | 12 | 2 | 14d6+36 | |
 | 15 | 12 | 3 | 15d6+36 | Coordinated Damage (2nd) |
-| 16 | 12 | 4 | 16d6+36 | Warrior of Magic |
+| \rowcolor{gray!20}16 | 12 | 4 | 16d6+36 | Warrior of Magic |
 | 17 | 12 | 5 | 17d6+36 | |
-| 18 | 12 | 6 | 18d6+36 | Infuse Magical Energy |
+| \rowcolor{gray!20}18 | 12 | 6 | 18d6+36 | Infuse Magical Energy |
 | 19 | 12 | 7 | 19d6+36 | |
-| 20 | 12 | 8 | 20d6+36 | Versatile Litany |
+| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | Versatile Litany |
 
 **Mystic Monk**
 
-| **Lv** | **Mystic Monk** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Mystic Monk** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Silver Crane - Psychic Energy |
-| 2 | 1 | 1 | 2d6+3 | Iron Fist |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Iron Fist |
 | 3 | 2 | 1 | 3d6+6 | Psychic Strike |
-| 4 | 2 | 2 | 4d6+6 | Armor of the Enchanted Mountain |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armor of the Enchanted Mountain |
 | 5 | 3 | 2 | 5d6+9 | Silver Crane (2nd) |
-| 6 | 3 | 3 | 6d6+9 | Iron Fist (2nd) |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Iron Fist (2nd) |
 | 7 | 4 | 3 | 7d6+12 | Fast Step |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Psychic Strike (2nd) |
-| 10 | 5 | 5 | 10d6+15 | Psychic Ray |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Psychic Ray |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Iron Will |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Iron Will |
 | 13 | 7 | 6 | 13d6+21 | Iron Fist (3rd) |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Armor of the Enchanted Mountain (2nd) |
-| 16 | 8 | 8 | 16d6+24 | Storm of Fury |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Storm of Fury |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Silver Crane (3rd) |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Silver Crane (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Phoenix Wings |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Phoenix Wings |
 
 **Devote**
 
-| **Lv** | **Devote** |  |  | **Abilities** |
+| \rowcolor{gray!20}		**Lv** | **Devote** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Son of Tazher - Faithful |
-| 2 | 1 | 1 | 2d6+3 | Magic Adept |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | The Patron is with me |
-| 4 | 2 | 2 | 4d6+6 | Black Siphon |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Black Siphon |
 | 5 | 3 | 2 | 5d6+9 | Power of the Patron |
-| 6 | 3 | 3 | 6d6+9 | Focused |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Focused |
 | 7 | 4 | 3 | 7d6+12 | Magic Battery |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | The Patron is with me (2nd) |
-| 10 | 5 | 5 | 10d6+15 | Mental Wall |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Mental Wall |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Create Magic Items |
+| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Create Magic Items |
 | 13 | 5 | 8 | 13d6+15 | Faithful (2nd) |
-| 14 | 5 | 9 | 14d6+15 | |
+| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Magic Adept (2nd) |
-| 16 | 5 | 11 | 16d6+15 | The Patron is with me (3rd) |
+| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | The Patron is with me (3rd) |
 | 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Powerful Magics |
+| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Powerful Magics |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | One Belief |
+| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | One Belief |
 
 **Spellsword Magus**
 
-| **Lv** | **Spellsword Magus** |  |  | **Abilities** |
+| \rowcolor{gray!20}	**Lv** | **Spellsword Magus** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Focused Weapon - Combat Caster |
-| 2 | 1 | 1 | 2d6+3 | Magic Adept |
+| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | Warrior of Magic |
-| 4 | 2 | 2 | 4d6+6 | Infuse Magical Energy |
+| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Infuse Magical Energy |
 | 5 | 3 | 2 | 5d6+9 | Magical Roots |
-| 6 | 3 | 3 | 6d6+9 | Warrior of Magic (2nd) |
+| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Warrior of Magic (2nd) |
 | 7 | 4 | 3 | 7d6+12 | Combat Caster (2nd) |
-| 8 | 4 | 4 | 8d6+12 | |
+| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Infuse Superior Magical Energy |
-| 10 | 5 | 5 | 10d6+15 | One Hit One Kill |
+| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | One Hit One Kill |
 | 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Warrior of Magic (3rd) |
+| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Warrior of Magic (3rd) |
 | 13 | 7 | 6 | 13d6+21 | Focused |
-| 14 | 7 | 7 | 14d6+21 | |
+| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Warrior of Magic (4th) |
-| 16 | 8 | 8 | 16d6+24 | Infuse Superior Magical Energy (2nd) |
+| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Infuse Superior Magical Energy (2nd) |
 | 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Combat Caster (3rd) |
+| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Combat Caster (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | One with Magic |
+| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | One with Magic |
 
 ---
 
@@ -5685,22 +5686,22 @@ If a familiar is dismissed, lost, or dies, it can be replaced one week later wit
 
 **Table: Familiar Types**
 
-| **Familiar** | **Ability gained by the master** |
+| \rowcolor{gray!20}**Familiar** | **Ability gained by the master** |
 | --- | --- |
 | Owl | +2 to Arcana checks |
-| Raven | +2 to Intimidate checks |
+| \rowcolor{gray!20}Raven | +2 to Intimidate checks |
 | *Dobi* | +2 to Saving Throws vs Charm |
-| Hawk | +2 to Awareness checks based on sight |
+| \rowcolor{gray!20}Hawk | +2 to Awareness checks based on sight |
 | Cat | +2 to Stealth checks |
-| Great Owl | +2 to Awareness checks based on hearing |
+| \rowcolor{gray!20}Great Owl | +2 to Awareness checks based on hearing |
 | Otter | +2 to Swimming checks |
-| Lizard | +2 to Survival checks |
+| \rowcolor{gray!20}Lizard | +2 to Survival checks |
 | Bat | +1 to Fortitude Saving Throw |
-| Rat | +2 to Saving Throws against Disease |
+| \rowcolor{gray!20}Rat | +2 to Saving Throws against Disease |
 | Hedgehog | +1 to Will Saving Throw |
-| Toad | +2 to Saving Throws against Poison |
+| \rowcolor{gray!20}Toad | +2 to Saving Throws against Poison |
 | Monkey | +2 to Sleight of Hand checks |
-| *Topi* | you become Topi's familiar!!! |
+| \rowcolor{gray!20}*Topi* | you become Topi's familiar!!! |
 | Fox | +1 to Reflex Saving Throw |
 
 Use the base statistics of a creature of the familiar's species, making the following changes.
@@ -5721,17 +5722,17 @@ All familiars have Special Abilities and grant them to their masters according t
 
 **Table: Familiar Abilities and Bonuses**
 
-| **Master's MP** | **Defense** | **Intelligence** | **Special** |
+| \rowcolor{gray!20}**Master's MP** | **Defense** | **Intelligence** | **Special** |
 | 1-2 | +1 | 0 | Alert, Share Spells |
-|  |  | Empathic Link |
+| \rowcolor{gray!20} |  |  | Empathic Link |
 | 3-4 | +1 | +1 | Deliver Touch Spells |
-| 5-6 | +2 | +1 | Speak with Animals of Its Kind |
+| \rowcolor{gray!20}5-6 | +2 | +1 | Speak with Animals of Its Kind |
 | 7-8 | +3 | +1 | Speak with Master |
-| 9-10 | +3 | +2 | - |
+| \rowcolor{gray!20}9-10 | +3 | +2 | - |
 | 11-12 | +4 | +2 | See through Familiar |
-| 13-14 | +5 | +2 | Improved Deliver Touch Spells |
+| \rowcolor{gray!20}13-14 | +5 | +2 | Improved Deliver Touch Spells |
 | 15-16 | +5 | +3 | - |
-| 17-18 | +6 | +3 | - |
+| \rowcolor{gray!20}17-18 | +6 | +3 | - |
 | 19-20 | +7 | +3 | - |
 
 **Master's Magic Proficiency**: the number indicated here is the Magic Proficiency value of the familiar's master.
@@ -6069,24 +6070,24 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 
 **Table: Magic Critical Failure Effects**
 
-| 1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check |
+| \rowcolor{gray!20}1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check |
 | 2 | You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5 |
-| 3 | You manifest a minor bodily modification |
+| \rowcolor{gray!20}3 | You manifest a minor bodily modification |
 | 4 | You are hit by a roaring column of Light and Void. In a 6-meter radius centered on you, anyone must make a Reflex Saving Throw DC 15 to halve or take 3d10 force damage that cannot be resisted |
-| 5 | For 3 rounds you are under the influence of the Confusion spell |
+| \rowcolor{gray!20}5 | For 3 rounds you are under the influence of the Confusion spell |
 | 6 | For 1 minute you are no longer able to concentrate and speak in rhyme |
-| 7 | You are teleported 3d10 meters in a random direction |
+| \rowcolor{gray!20}7 | You are teleported 3d10 meters in a random direction |
 | 8 | You become Invisible and paralyzed for 6 rounds |
-| 9 | Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds |
+| \rowcolor{gray!20}9 | Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds |
 | 10 | You cannot speak well, you are stuttering. Every spell casting forces you to pass a Magic Check. Duration 3 rounds |
 
-| 11 | You manifest the Grease spell under your feet |
+| \rowcolor{gray!20}11 | You manifest the Grease spell under your feet |
 | 12 | The next spell you cast has effects minimized if possible |
-| 13 | Your heartbeat is like the beat of a drum, it can be heard within 36 meters |
+| \rowcolor{gray!20}13 | Your heartbeat is like the beat of a drum, it can be heard within 36 meters |
 | 14 | All creatures within a 36-meter radius know exactly where you are and what you were trying to do |
-| 15 | All creatures in a 9-meter radius sphere centered on you take 1d10 Void damage |
+| \rowcolor{gray!20}15 | All creatures in a 9-meter radius sphere centered on you take 1d10 Void damage |
 | 16 | You gain 2d6 Magic Points |
-| 17 | An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters |
+| \rowcolor{gray!20}17 | An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters |
 | 18 | Creatures, excluding you, within a 6-meter radius from you take 3d10 unresistable force damage |
 
 ## Magic Points
@@ -6104,13 +6105,13 @@ Magic Points are all recovered with 8 hours of rest.
 
 **Table: Magic Proficiency (MProv) and Magic Points (MP)**
 
-| **MProv** | **MP** | **MProv** | **MP** | **MProv** | **MP** |
+| \rowcolor{gray!20}**MProv** | **MP** | **MProv** | **MP** | **MProv** | **MP** |
 | 1 | 4 | 8 | 28 | 15 | 53 |
-| 2 | 7 | 9 | 32 | 16 | 56 |
+| \rowcolor{gray!20}2 | 7 | 9 | 32 | 16 | 56 |
 | 3 | 11 | 10 | 35 | 17 | 60 |
-| 4 | 14 | 11 | 39 | 18 | 63 |
+| \rowcolor{gray!20}4 | 14 | 11 | 39 | 18 | 63 |
 | 5 | 18 | 12 | 42 | 19 | 67 |
-| 6 | 21 | 13 | 46 | 20 | 70 |
+| \rowcolor{gray!20}6 | 21 | 13 | 46 | 20 | 70 |
 | 7 | 25 | 14 | 49 | 20+ | prev.+ 4 |
 
 Magic Point = (Magic Proficiency × 3) + (Magic Proficiency / 2, rounded up) + spell attribute modifier.
@@ -7301,11 +7302,11 @@ At the end of each of its turns, an affected target can make a Will Saving Throw
 
 **For each Magic Critical Success** obtained in the Magic Check the radius of the sphere increases by 1 meter.
 
-| d10 | Behavior |
+| \rowcolor{gray!20}d10 | Behavior |
 | 1 | The creature uses all its actions to move in a random direction. To determine the direction, roll a d8 |
-| 2-5 | The creature does nothing for the entire round |
+| \rowcolor{gray!20}2-5 | The creature does nothing for the entire round |
 | 6 | The creature makes an attack against itself and ends its turn |
-| 7-8 | The creature makes an attack against a randomly determined creature within 1 Movement Action. If it was hit the previous round, it will attack the creature that hit it. After making the attack, the turn ends. |
+| \rowcolor{gray!20}7-8 | The creature makes an attack against a randomly determined creature within 1 Movement Action. If it was hit the previous round, it will attack the creature that hit it. After making the attack, the turn ends. |
 | 9-10 | The creature can act and move normally. |
 
 ### Conjure Animals
@@ -7613,11 +7614,11 @@ The duration depends on the object's material. If the object is composed of mult
 
 Table Material - Duration
 
-| Vegetable matter | 1 day |
+| \rowcolor{gray!20}Vegetable matter | 1 day |
 | Stone or crystal | 12 hours |
-| Precious metals | 1 hour |
+| \rowcolor{gray!20}Precious metals | 1 hour |
 | Gems | 10 minutes |
-| Adamantine or mithral | 1 minute |
+| \rowcolor{gray!20}Adamantine or mithral | 1 minute |
 
 Using any material created by this spell as a material component of another spell causes that spell to fail.
 
@@ -9360,13 +9361,13 @@ The creature takes 1d6+2d6 damage; to determine the damage type, consult the tab
 
 	
 
-| **1d6** | **Energy** |
+| \rowcolor{gray!20}**1d6** | **Energy** |
 | 1 | Fire |
-| 2 | Electricity |
+| \rowcolor{gray!20}2 | Electricity |
 | 3 | Cold |
-| 4 | Sound |
+| \rowcolor{gray!20}4 | Sound |
 | 5 | Necrotic |
-| 6 | Force |
+| \rowcolor{gray!20}6 | Force |
 
 The damage the target takes is of the Energy type that results from the first d6. If the first die is a 6 and one of the other dice is also a 6, then roll another 1d6 and add it to the damage.
 
@@ -10310,17 +10311,17 @@ The magic fashions a new body, which likely causes a change in the creature's ra
 
 	
 
-| **d10** | **Race** |
+| \rowcolor{gray!20}**d10** | **Race** |
 | 0 | Wolf/Eagle/Fox/Lynx (roll 1d4) |
-| 1 | Dwarf |
+| \rowcolor{gray!20}1 | Dwarf |
 | 2 | Elf |
-| 3 | Half-elf |
+| \rowcolor{gray!20}3 | Half-elf |
 | 4 | Half-orc |
-| 5 | Boar/Badger/Dog/Rat (roll 1d4) |
+| \rowcolor{gray!20}5 | Boar/Badger/Dog/Rat (roll 1d4) |
 | 6 | Nibali |
-| 7 | Bear/Owl/Raccoon/Cat (roll 1d4) |
+| \rowcolor{gray!20}7 | Bear/Owl/Raccoon/Cat (roll 1d4) |
 | 8 | Human |
-| 9 | Same race as before |
+| \rowcolor{gray!20}9 | Same race as before |
 
 The reincarnated creature recalls its former life and experiences (same AC and MP scores, Feats and Skills). It retains the capabilities it had in its original form if it's capable of applying them.
 
@@ -10517,16 +10518,16 @@ You can see and hear a particular creature of your choice that is on the same pl
 
 	
 
-| **Knowledge** | **Mod. to ST** |
+| \rowcolor{gray!20}**Knowledge** | **Mod. to ST** |
 | --- | --- |
 | You've heard of the target | +4 |
-| You've met the target | +0 |
+| \rowcolor{gray!20}You've met the target | +0 |
 | You know the target well | -4 |
 
 	
-| **Connection** | **Mod. ST** |
+| \rowcolor{gray!20}**Connection** | **Mod. ST** |
 | Description or picture | -2 |
-| Possession or garment | -4 |
+| \rowcolor{gray!20}Possession or garment | -4 |
 | Body part (hair...) | -10 |
 
 If it succeeds on the Saving Throw, the target ignores the effects of the spell, and you cannot use this spell against it again for 24 hours.
@@ -11084,13 +11085,13 @@ The GM rolls d100 and consults the table.
 - *Similar Area*. You and your group (or the target object) wind up in a different area that's visually or thematically similar to the target area. For example, if you're heading for your home laboratory, you might wind up in another wizard's laboratory or in an alchemical supply shop that has many of the same tools and implements as your laboratory. Generally, you appear in the closest similar place, but since the spell has no range limit, you could conceivably wind up anywhere on the plane.
 - *Mishap*. The spell's unpredictable magic results in a difficult journey. Each teleporting creature (or the target object) takes 3d10 force damage, and the GM rerolls on the table to see where you wind up (multiple mishaps can occur, dealing damage each time).
 
-| d100 | Mishap | Similar Area | Off Target | On Target |
+| \rowcolor{gray!20}d100 | Mishap | Similar Area | Off Target | On Target |
 | Permanent Circle | - | - | - | 01-100 |
-| Associated Object | - | - | - | 01-100 |
+| \rowcolor{gray!20}Associated Object | - | - | - | 01-100 |
 | Very Familiar | 01-05 | 06-13 | 14-24 | 25-100 |
-| Seen Casually | 01-33 | 34-43 | 44-53 | 54-100 |
+| \rowcolor{gray!20}Seen Casually | 01-33 | 34-43 | 44-53 | 54-100 |
 | Viewed Once | 01-43 | 44-53 | 54-73 | 74-100 |
-| Description | 01-43 | 44-53 | 54-73 | 74-100 |
+| \rowcolor{gray!20}Description | 01-43 | 44-53 | 54-73 | 74-100 |
 | False Destination | 01-50 | 51-100 | - | - |
 
 ### Teleportation Circle
@@ -12498,12 +12499,12 @@ Nothing prevents a character from receiving more powers from different Patrons! 
 
 	
 
-| **Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
+| \rowcolor{gray!20}**Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
 | --- | --- | --- |
 | Positive En. | Fire | Negative En. |
-| Light | Cold | Void |
+| \rowcolor{gray!20}Light | Cold | Void |
 | Sound | |
-| Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
+| \rowcolor{gray!20} | Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
 
 ### Miracles, Interventions, and Prodigies
 
@@ -13388,12 +13389,12 @@ A character who starts playing generally has enough gold coins to purchase the b
 
 **Table: Coin Equivalence**
 
-| **Coin** | **CP** | **SP** | **EP** | **GP** | **PP** |
+| \rowcolor{gray!20}**Coin** | **CP** | **SP** | **EP** | **GP** | **PP** |
 | --- | --- | --- | --- | --- | --- |
 | Copper | 1 | 1/10 | 1/50 | 1/100 | 1/1000 |
-| Silver | 10 | 1 | 1/5 | 1/10 | 1/100 |
+| \rowcolor{gray!20}Silver | 10 | 1 | 1/5 | 1/10 | 1/100 |
 | Electrum | 50 | 5 | 1 | 1/2 | 1/10 |
-| Gold | 100 | 10 | 2 | 1 | 1/10 |
+| \rowcolor{gray!20}Gold | 100 | 10 | 2 | 1 | 1/10 |
 | Platinum | 1000 | 100 | 20 | 10 | 1 |
 
 Usually, payments over 100 gold coins are made in gold ingots of 1, 2, 5 kilograms, equivalent to 100, 200, and 500 gold coins, or better yet in gems. In case of even more substantial sums, it is possible that a letter of credit from some banking institution is issued (but valid in very few and important cities).
@@ -13407,17 +13408,17 @@ To get an idea of commercial transactions, some trade goods are described in the
 
 	
 
-| **Cost** | **Item** |
+| \rowcolor{gray!20}**Cost** | **Item** |
 | 1 cp | Wheat (0.5 kg) |
-| 2 cp | Flour (0.5 kg) or chicken (1) |
+| \rowcolor{gray!20}2 cp | Flour (0.5 kg) or chicken (1) |
 | 1 sp | Iron (0.5 kg) |
-| 1 gp | Cinnamon (0.5 kg) or goat |
+| \rowcolor{gray!20}1 gp | Cinnamon (0.5 kg) or goat |
 | 2 gp | Ginger or pepper (0.5 kg) or sheep (1) |
-| 3 gp | Pig (1) |
+| \rowcolor{gray!20}3 gp | Pig (1) |
 | 4 gp | Linen (1 m\textsuperscript |
-| 5 gp | Salt or silver (0.5 kg) |
+| \rowcolor{gray!20}5 gp | Salt or silver (0.5 kg) |
 | 10 gp | Silk (1 m) or cow (1) |
-| 15 gp | Saffron(0.5 kg)/ox (1) |
+| \rowcolor{gray!20}15 gp | Saffron(0.5 kg)/ox (1) |
 
 Also consult the chapter on Encumbrance (pg.  in Movement and Transport.
 
@@ -13435,58 +13436,58 @@ The table presents the name of the weapon, its cost in gold coins, the damage an
 
 **Table: Weapons List**
 
-| **Weapon** | **Cost** | **Size/Damage** | **Range, List, Special** |
+| \rowcolor{gray!20}**Weapon** | **Cost** | **Size/Damage** | **Range, List, Special** |
 | --- | --- | --- | --- |
 | Halberd | 10 | L/1d10 P/S | **Spears**, **Polearms**, Brace, Reach weapon, ED9 |
-| Composite shortbow | notes* | M/Arrows | 20 meters, **Bows** |
+| \rowcolor{gray!20}Composite shortbow | notes* | M/Arrows | 20 meters, **Bows** |
 | Shortbow | 30 | M/1d6 P | 15 meters, **Bows** |
-| Composite longbow | notes* | L/Arrows | 36 meters, **Bows** |
+| \rowcolor{gray!20}Composite longbow | notes* | L/Arrows | 36 meters, **Bows** |
 | Longbow | 75 | L/Arrows | 20 meters, **Bows** |
-| Hammer-axe | 16 | M/1d6 S/B | **Axes and Hatchets** |
+| \rowcolor{gray!20}Hammer-axe | 16 | M/1d6 S/B | **Axes and Hatchets** |
 | One-handed axe | 6 | M/1d6 S | 6 meters, **Axes and Hatchets**, **Throwing Weapons**, Versatile |
-| Battle axe | 10 | L/1d10 S | **Axes and Hatchets** |
+| \rowcolor{gray!20}Battle axe | 10 | L/1d10 S | **Axes and Hatchets** |
 | Hand crossbow | 100 | M/Bolts | 6 meters, **Crossbows** |
-| Light crossbow | 35 | S/Bolts | 15 meters, **Simple Weapons**, **Crossbows** |
+| \rowcolor{gray!20}Light crossbow | 35 | S/Bolts | 15 meters, **Simple Weapons**, **Crossbows** |
 | Heavy crossbow | 50 | L/Bolts | 30 meters, **Crossbows** |
-| Staff | 3 | M/1d6 B | **Simple Weapons**, Reach weapon, Versatile, Parry |
+| \rowcolor{gray!20}Staff | 3 | M/1d6 B | **Simple Weapons**, Reach weapon, Versatile, Parry |
 | Spiked chain | 25 | L/2d4 P | 3 meters, **Rotating Balls**, Reach weapon |
-| Estoc | 25 | L/1d8 P | **Swords**, Reach weapon, Parry |
+| \rowcolor{gray!20}Estoc | 25 | L/1d8 P | **Swords**, Reach weapon, Parry |
 | Scythe | 18 | L/2d4 P/S | **Weapons of Death**, Reach weapon |
-| Sickle | 6 | S/1d6 S | **Weapons of Death** |
+| \rowcolor{gray!20}Sickle | 6 | S/1d6 S | **Weapons of Death** |
 | Glaive | 12 | L/1d10 P/S | **Spears**, Brace, Reach weapon, ED9 |
-| Falchion | 75 | M/2d4 S | **Graceful Weapons**, ED7 |
+| \rowcolor{gray!20}Falchion | 75 | M/2d4 S | **Graceful Weapons**, ED7 |
 | Sling | - | S/1d4 B | 10 meters, **Throwing weapons** |
-| Double flail | 90 | L/1d10 B | **Rotating Balls**, **Double weapons** |
+| \rowcolor{gray!20}Double flail | 90 | L/1d10 B | **Rotating Balls**, **Double weapons** |
 | Heavy flail | 15 | L/1d10 B | **Rotating Balls** |
-| Flail | 8 | M/1d8 B | **Rotating Balls**, **Skull Crushers** |
+| \rowcolor{gray!20}Flail | 8 | M/1d8 B | **Rotating Balls**, **Skull Crushers** |
 | Whip | 1 | M/1d3 S | **Rotating Balls**, Reach weapon |
-| Javelin | 1 | S/1d6 P | 12 meters, **Simple Weapons**, **Polearms**, **Throwing Weapons** |
+| \rowcolor{gray!20}Javelin | 1 | S/1d6 P | 12 meters, **Simple Weapons**, **Polearms**, **Throwing Weapons** |
 | Great double axe | 25 | L/1d10 S | **Axes and Hatchets**, **Double weapons** |
-| Spiked gauntlet | 5 | S/1d4 P | **Stunning Weapons**, nonlethal |
+| \rowcolor{gray!20}Spiked gauntlet | 5 | S/1d4 P | **Stunning Weapons**, nonlethal |
 | Katana | 300 | M/1d10 S | **Lethal Weapons**, ED9 |
-| Footman's spear | 2 | M/1d8 P | 3 meters, **Spears**, Reach weapon, Brace |
+| \rowcolor{gray!20}Footman's spear | 2 | M/1d8 P | 3 meters, **Spears**, Reach weapon, Brace |
 | Lance | 10 | L/1d10 P | **Spears**, Reach weapon, Brace |
-| Machete | 10 | M/1d6 S | **Lethal Weapons** |
+| \rowcolor{gray!20}Machete | 10 | M/1d6 S | **Lethal Weapons** |
 | War maul | 7 | L/1d10 B | **Skull Crushers** |
-| Club | 1 | S/1d6 B | **Stunning Weapons**, nonlethal |
+| \rowcolor{gray!20}Club | 1 | S/1d6 B | **Stunning Weapons**, nonlethal |
 | War hammer | 5 | M/1d8 B/P | 6 meters, **Skull Crushers** |
-| Light mace | 3 | S/1d6 B/S | **Simple Weapons**, **Light Weapons**, **Skull Crushers** |
+| \rowcolor{gray!20}Light mace | 3 | S/1d6 B/S | **Simple Weapons**, **Light Weapons**, **Skull Crushers** |
 | Flanged mace | 5 | M/1d8 B/S | **Skull Crushers** |
-| Spiked mace | 6 | M 1d8 B/P | **Simple Weapons**, **Skull Crushers** |
+| \rowcolor{gray!20}Spiked mace | 6 | M 1d8 B/P | **Simple Weapons**, **Skull Crushers** |
 | Light pick | 4 | M/1d4 P | **Weapons of Death** |
-| Heavy pick | 8 | L/1d6 P | **Weapons of Death**, Reach weapon |
+| \rowcolor{gray!20}Heavy pick | 8 | L/1d6 P | **Weapons of Death**, Reach weapon |
 | Dagger | 2 | S/1d4 P | 6 meters, **Simple Weapons**, **Light weapons**, **Throwing Weapons** |
-| Punch/Kick | notes* | S/1d4 B | Versatile |
+| \rowcolor{gray!20}Punch/Kick | notes* | S/1d4 B | Versatile |
 | Scimitar | 15 | M/1d6 S | **Light Weapons**, **Graceful Weapons**, Versatile |
-| Short sword | 10 | S/1d6 P | **Light Weapons**, **Swords**, Versatile, Parry |
+| \rowcolor{gray!20}Short sword | 10 | S/1d6 P | **Light Weapons**, **Swords**, Versatile, Parry |
 | Longsword | 15 | M/1d8 S | **Swords**, Parry |
-| Two-bladed sword | 100 | L/1d8 S | **Double weapons**, **Swords**, Parry |
+| \rowcolor{gray!20}Two-bladed sword | 100 | L/1d8 S | **Double weapons**, **Swords**, Parry |
 | Bastard sword | 35 | M/1d8 S | **Swords**, Parry, 1d8 one-handed, 2d6 two-handed |
-| Broadsword | 12 | M/2d4 S | **Swords**, Parry, 2d4 one-handed, 1d10 two-handed |
+| \rowcolor{gray!20}Broadsword | 12 | M/2d4 S | **Swords**, Parry, 2d4 one-handed, 1d10 two-handed |
 | Greatsword | 50 | L/2d6 S | **Swords**, Parry |
-| Rapier | 20 | S/1d6 P | **Light Weapons**, **Graceful Weapons**, Versatile |
+| \rowcolor{gray!20}Rapier | 20 | S/1d6 P | **Light Weapons**, **Graceful Weapons**, Versatile |
 | Trident | 15 | M/1d6 P/S | 3 meters, **Polearms**, **Throwing Weapons**, Reach weapon, Brace |
-| Urgrosh | 18 | M/1d6 S/P | **Spears**, **Double weapons** |
+| \rowcolor{gray!20}Urgrosh | 18 | M/1d6 S/P | **Spears**, **Double weapons** |
 
 A **Small Weapon** has **Encumbrance** 1, a Medium Weapon has Encumbrance 2, a Large Weapon has Encumbrance 4, a Huge Weapon has Encumbrance 8.
 
@@ -13494,14 +13495,14 @@ A **Small Weapon** has **Encumbrance** 1, a Medium Weapon has Encumbrance 2, a L
 
 	
 
-| **Projectile Name** | **Number of shots/Cost (gp)** | **Damage / Type** |
+| \rowcolor{gray!20}**Projectile Name** | **Number of shots/Cost (gp)** | **Damage / Type** |
 | --- | --- | --- |
 | Crossbow bolts (hand, light) | 10/1 gp | 1d6 P |
-| Crossbow bolts (heavy) | 3/1 gp | 1d10 P |
+| \rowcolor{gray!20}Crossbow bolts (heavy) | 3/1 gp | 1d10 P |
 | Hunting arrows (Shortbow, Longbow) | 20/1 gp | 1d6 P |
-| War arrows (Longbow) | 10/1 gp | 1d8 P |
+| \rowcolor{gray!20}War arrows (Longbow) | 10/1 gp | 1d8 P |
 | Marble bullets (slings) | 15/1 gp | 1d4 B |
-| Stone (slings) | - | 1d2 B |
+| \rowcolor{gray!20}Stone (slings) | - | 1d2 B |
 
 A **Quiver** (full or empty) of Projectiles (Arrows or Bolts) has **Encumbrance** 2.
 
@@ -13628,27 +13629,27 @@ Whenever the Attack Roll is a Critical Failure, there has been a problem with th
 
 **Roll and add 2d10, consult the table**
 
-| **\#** | **Effect** |
+| \rowcolor{gray!20}**\#** | **Effect** |
 | 2 | The bullet is defective, fortunately there are no other problems. It takes an Action to remove the jammed bullet. |
-| 3 | The bullet got stuck. It takes two Actions to remove the jammed bullet. |
+| \rowcolor{gray!20}3 | The bullet got stuck. It takes two Actions to remove the jammed bullet. |
 | 4 | Having missed leaves you hesitant, lose 1 Action. |
-| 5 | The sight is inaccurate. The next shot has -2 to the Attack Roll. |
+| \rowcolor{gray!20}5 | The sight is inaccurate. The next shot has -2 to the Attack Roll. |
 | 6 | You inadvertently fire two shots/bursts. The second doesn't hit anyone and just consumes bullets. |
-| 7 | The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round. |
+| \rowcolor{gray!20}7 | The weapon is not adequately lubricated. Inserting the next magazine costs 1 full round. |
 
-| **\#** | **Effect** |
+| \rowcolor{gray!20}**\#** | **Effect** |
 | 8 | The magazine comes loose/falls. You must load a new magazine (2 Actions) or recover and put back the previous magazine. |
-| 9 | The recoil is so strong that the character falls prone. |
+| \rowcolor{gray!20}9 | The recoil is so strong that the character falls prone. |
 | 10 | Bullet very stuck. To free the shot you must make a Craft check DC 15, 1 round. |
-| 11 | The weapon overheats and cannot be used until the end of the next round. |
+| \rowcolor{gray!20}11 | The weapon overheats and cannot be used until the end of the next round. |
 | 12 | The weapon emits a thick cloud of smoke around you that provides light cover towards you and from you towards others. |
-| 13 | Partial barrel obstruction. The next shot/burst fired does half damage. |
+| \rowcolor{gray!20}13 | Partial barrel obstruction. The next shot/burst fired does half damage. |
 | 14 | The trigger jams. It costs 3 Actions to fire the next shot/burst. |
-| 15 | The recoil is such that you drop the weapon on the ground within 1d4 meters of distance. |
+| \rowcolor{gray!20}15 | The recoil is such that you drop the weapon on the ground within 1d4 meters of distance. |
 | 16 | The bullet exploded in the barrel. To free the shot you must make a Craft check DC 17, 1d4 rounds. |
-| 17 | You hit someone else. The shot takes an unintended trajectory and you hit a random creature in the direction of the shot. |
+| \rowcolor{gray!20}17 | You hit someone else. The shot takes an unintended trajectory and you hit a random creature in the direction of the shot. |
 | 18 | The noise is so loud that the character is deafened for 1 minute. |
-| 19 | The bullet exploded in the barrel damaging it. A Craft check DC 21 is required to restore the weapon, 1 turn. |
+| \rowcolor{gray!20}19 | The bullet exploded in the barrel damaging it. A Craft check DC 21 is required to restore the weapon, 1 turn. |
 | 20 | The entire magazine exploded. You take damage as if half of the bullets remaining in the weapon hit you. The weapon and bullets are destroyed. |
 
 ---
@@ -13667,18 +13668,18 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 	
 
-| **Armor** | **Cost** | **Defense** | **Prof. Pen.** | **Type** | **Mov.** | **Magic Check** | **Encumbrance** |
+| \rowcolor{gray!20}**Armor** | **Cost** | **Defense** | **Prof. Pen.** | **Type** | **Mov.** | **Magic Check** | **Encumbrance** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Padded | 5 gp | 1 | 0 | L | 0 | - | 2 |
-| Leather | 10 gp | 2 | 0 | L | 0 | +4 | 2 |
+| \rowcolor{gray!20}Leather | 10 gp | 2 | 0 | L | 0 | +4 | 2 |
 | Studded leather | 25 gp | 3 | 0 | L | 0 | +4 | 2 |
-| Chain shirt | 15 gp | 4 | -1 | M | 0 | +8 | 4 |
+| \rowcolor{gray!20}Chain shirt | 15 gp | 4 | -1 | M | 0 | +8 | 4 |
 | Scale | 50 gp | 5 | -1 | M | 0 | +8 | 4 |
-| Ring | 150 gp | 6 | -1 | M | 0 | +8 | 4 |
+| \rowcolor{gray!20}Ring | 150 gp | 6 | -1 | M | 0 | +8 | 4 |
 | Breastplate | 200 gp | 6 | -2 | M | 0 | +8 | 4 |
-| Banded | 250 gp | 7 | -2 | H | 0 | +16 | 8 |
+| \rowcolor{gray!20}Banded | 250 gp | 7 | -2 | H | 0 | +16 | 8 |
 | Half plate | 1200 gp | 8 | -2 | H | 1 | +16 | 8 |
-| Field plate | 1350 gp | 9 | -3 | H | 2 | +16 | 8 |
+| \rowcolor{gray!20}Field plate | 1350 gp | 9 | -3 | H | 2 | +16 | 8 |
 | Full plate | 1500 gp | 10 | -4 | H | 3 | +16 | 8 |
 
 **Cost**: is for a medium-sized armor.
@@ -13799,14 +13800,14 @@ Wielding a shield occupies the hand and arm.
 
 	
 
-| **Shields** | **Cost** | **Defense** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
+| \rowcolor{gray!20}**Shields** | **Cost** | **Defense** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Light wooden shield | 3 gp | +1 | 0 | +2 | L | 1 |
-| Light metal shield | 9 gp | +1 | 0 | +2 | L | 1 |
+| \rowcolor{gray!20}Light metal shield | 9 gp | +1 | 0 | +2 | L | 1 |
 | Medium wooden shield | 5 gp | +2 | 0 | +4 | M | 2 |
-| Medium metal shield | 12 gp | +2 | 0 | +4 | M | 2 |
+| \rowcolor{gray!20}Medium metal shield | 12 gp | +2 | 0 | +4 | M | 2 |
 | Heavy wooden shield | 9gp | +3 | 1 | +6 | H | 4 |
-| Heavy metal shield | 20 gp | +3 | 1 | +6 | H | 4 |
+| \rowcolor{gray!20}Heavy metal shield | 20 gp | +3 | 1 | +6 | H | 4 |
 
 ### Donning and Removing Armor
 
@@ -13816,12 +13817,12 @@ Wearing and removing armor is an operation that requires time and attention; doi
 
 	
 
-| **Armor Type** | **Don** | **Don Hastily** | **Remove** |
+| \rowcolor{gray!20}**Armor Type** | **Don** | **Don Hastily** | **Remove** |
 | --- | --- | --- | --- |
 | Shield | 1 Action | - | 1 Action |
-| Padded, Leather, Studded leather | 1 minute | 3 rounds | - |
+| \rowcolor{gray!20}Padded, Leather, Studded leather | 1 minute | 3 rounds | - |
 | Chain shirt | 1 minute | 5 rounds | 5 rounds |
-| Scale mail, Ring mail, Breastplate, Banded mail | 4 minutes | 1 minute{*} | 1 minute |
+| \rowcolor{gray!20}Scale mail, Ring mail, Breastplate, Banded mail | 4 minutes | 1 minute{*} | 1 minute |
 | Half plate, Field plate, Full plate | 4 minutes{*}{*} | 4 minutes{*} | 1d4+1 minutes |
 
 {*} If someone helps, the time is halved. A single character who is not doing anything else can help one or two adjacent characters. Two characters cannot help each other don armor at the same time.
@@ -13872,158 +13873,158 @@ As a Narrator, always use common sense in requests, evaluate well the type of re
 
 Depending on the type of campaign, additional items such as firearms or alchemical items might be available.
 
-| **Item** | **Cost** | **Enc.** |
+| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Abacus | 2 gp | L |
-| Alchemist's Fire (flask) | 20 gp | L |
+| \rowcolor{gray!20}Alchemist's Fire (flask) | 20 gp | L |
 | Alchemist's lab | 200 gp | 5 |
-| Antitoxin (vial) | 50 gp | L |
+| \rowcolor{gray!20}Antitoxin (vial) | 50 gp | L |
 | Artisan's outfit | 1 gp | 1 |
-| Artisan's tools | 5 gp | 2 |
+| \rowcolor{gray!20}Artisan's tools | 5 gp | 2 |
 | Backpack | 2 gp | 1 |
-| Bandolier | 3 gp | L |
+| \rowcolor{gray!20}Bandolier | 3 gp | L |
 | Barge | 3K gp | - |
-| Barrel (empty) | 2 gp | 4 |
+| \rowcolor{gray!20}Barrel (empty) | 2 gp | 4 |
 | Basket (empty) | 4 sp | 1 |
-| Bear trap | 5 gp | 3 |
+| \rowcolor{gray!20}Bear trap | 5 gp | 3 |
 | Bedroll | 1 sp | 1 |
-| Beer Mug | 5 cp | L |
+| \rowcolor{gray!20}Beer Mug | 5 cp | L |
 | Beer Pitcher | 2 sp | L |
-| Bell | 1 gp | -- |
+| \rowcolor{gray!20}Bell | 1 gp | -- |
 | Belt pouch | 2 gp | L |
-| Bit and bridle | 2 gp | 1 |
+| \rowcolor{gray!20}Bit and bridle | 2 gp | 1 |
 | Block and tackle | 20 gp | 2 |
-| Bread (loaf) | 2 cp | -- |
+| \rowcolor{gray!20}Bread (loaf) | 2 cp | -- |
 | Bucket (empty) | 5 sp | L |
-| Caltrops (20) | 1 sp | L |
+| \rowcolor{gray!20}Caltrops (20) | 1 sp | L |
 | Candle | 1 cp | -- |
-| Canvas (per sq. yd) | 1 sp | L |
+| \rowcolor{gray!20}Canvas (per sq. yd) | 1 sp | L |
 | Carriage | 300 gp | -- |
-| Cart | 15 gp | 10 |
+| \rowcolor{gray!20}Cart | 15 gp | 10 |
 | Ceramic carafe | 2 cp | L |
-| Ceramic mug | 2 cp | L |
+| \rowcolor{gray!20}Ceramic mug | 2 cp | L |
 | Ceramic pitcher(5L) | 2 cp | L |
-| Chain (10 ft) | 30 gp | 1 |
+| \rowcolor{gray!20}Chain (10 ft) | 30 gp | 1 |
 | Chalk (1 piece) | 1 cp | -- |
-| Cheese (1 piece) | 1 sp | -- |
+| \rowcolor{gray!20}Cheese (1 piece) | 1 sp | -- |
 | Chest | 5 gp | 4 |
-| Chest (empty) | 2 gp | 3 |
+| \rowcolor{gray!20}Chest (empty) | 2 gp | 3 |
 | Climber's kit | 80 gp | 1 |
-| Common musical instrument | 5 gp | 2 |
+| \rowcolor{gray!20}Common musical instrument | 5 gp | 2 |
 | Component pouch | 25 gp | L |
-| Courtier's outfit | 30 gp | 1 |
+| \rowcolor{gray!20}Courtier's outfit | 30 gp | 1 |
 | Crowbar | 2 gp | 1 |
-| Devotee's robes | 5 gp | 1 |
+| \rowcolor{gray!20}Devotee's robes | 5 gp | 1 |
 
-| **Item** | **Cost** | **Enc.** |
+| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Disguise kit | 50 gp | L |
-| Entertainer's outfit | 3 gp | 1 |
+| \rowcolor{gray!20}Entertainer's outfit | 3 gp | 1 |
 | Exotic saddle | 60 gp | 3 |
-| Explorer's outfit | 10 gp | 1 |
+| \rowcolor{gray!20}Explorer's outfit | 10 gp | 1 |
 | Feast (per person) | 10 gp | - |
-| Fine wine (bottle) | 10 gp | 1 |
+| \rowcolor{gray!20}Fine wine (bottle) | 10 gp | 1 |
 | Firewood (per day) | 1 cp | 4 |
-| Fishhook | 1 sp | - |
+| \rowcolor{gray!20}Fishhook | 1 sp | - |
 | Fishing net (7.5 ft) | 4 gp | 1 |
-| Fishing rod | 1 gp | 1 |
+| \rowcolor{gray!20}Fishing rod | 1 gp | 1 |
 | Galley | 30k gp | -- |
-| Glass bottle | 2 gp | L |
+| \rowcolor{gray!20}Glass bottle | 2 gp | L |
 | Grappling hook | 1 gp | 1 |
-| Hammer | 5 sp | 1 |
+| \rowcolor{gray!20}Hammer | 5 sp | 1 |
 | Healer's kit | 20 gp | 1 |
-| Healing Potion | 50 gp | L |
+| \rowcolor{gray!20}Healing Potion | 50 gp | L |
 | Enhanced Healing Potion | 125 gp | L |
-| Hemp rope (50 ft) | 1 gp | 1 |
+| \rowcolor{gray!20}Hemp rope (50 ft) | 1 gp | 1 |
 | Holly and mistletoe |  | - |
-| Holy water (vial) | 25 gp | L |
+| \rowcolor{gray!20}Holy water (vial) | 25 gp | L |
 | Hourglass | 25 gp | -- |
-| House wine (pitcher) | 2 sp | 1 |
+| \rowcolor{gray!20}House wine (pitcher) | 2 sp | 1 |
 | Hunter's lens | 100 gp | -- |
-| Ink (1 oz. vial) | 8 gp | -- |
+| \rowcolor{gray!20}Ink (1 oz. vial) | 8 gp | -- |
 | Ink vial or potion vial | 1 gp | L |
-| Inn, good (lodging) | 2 gp | -- |
+| \rowcolor{gray!20}Inn, good (lodging) | 2 gp | -- |
 | Inn, modest (lodging) | 5 sp | -- |
-| Inn, poor (lodging) | 1 sp | -- |
+| \rowcolor{gray!20}Inn, poor (lodging) | 1 sp | -- |
 | Iron pot | 8 sp | 1 |
-| Ladder (10 ft) | 2 sp | 3 |
+| \rowcolor{gray!20}Ladder (10 ft) | 2 sp | 3 |
 | Lamp oil | 1 sp | 1 |
-| Lantern | 1 gp | 2 |
+| \rowcolor{gray!20}Lantern | 1 gp | 2 |
 | Lantern, Bullseye | 12 gp | 1 |
-| Lantern, hooded | 7 gp | 1 |
+| \rowcolor{gray!20}Lantern, hooded | 7 gp | 1 |
 | Lock/padlock Average | 40 gp | -- |
-| Lock/padlock Simple | 20 gp | -- |
+| \rowcolor{gray!20}Lock/padlock Simple | 20 gp | -- |
 | Lock/padlock Superior | 150 gp | -- |
-| Longship | 10k gp | -- |
+| \rowcolor{gray!20}Longship | 10k gp | -- |
 | Manacles | 15 gp | L |
-| Maul | 1 gp | 2 |
+| \rowcolor{gray!20}Maul | 1 gp | 2 |
 | Meals (per day) Good | 5 sp | -- |
-| Meals (per day) Modest | 3 sp | -- |
+| \rowcolor{gray!20}Meals (per day) Modest | 3 sp | -- |
 | Meals (per day) Poor | 6 cp | -- |
-| Meat (1 piece) | 3 sp | L |
+| \rowcolor{gray!20}Meat (1 piece) | 3 sp | L |
 | Merchant's scale | 2 gp | 1 |
-| Metal bearings (100) | 3 gp | 1 |
+| \rowcolor{gray!20}Metal bearings (100) | 3 gp | 1 |
 | Military saddle | 50 gp | 3 |
-| Miner's pick | 3 gp | 2 |
+| \rowcolor{gray!20}Miner's pick | 3 gp | 2 |
 | Monk's outfit | 5 gp | 1 |
-| Noble's outfit | 75 gp | 2 |
+| \rowcolor{gray!20}Noble's outfit | 75 gp | 2 |
 | Oar | 2 gp | 2 |
-| Pack saddle | 15 gp | 2 |
+| \rowcolor{gray!20}Pack saddle | 15 gp | 2 |
 | Paper (sheet) | 4 sp | -- |
-| Parchment (sheet) | 2 sp | -- |
+| \rowcolor{gray!20}Parchment (sheet) | 2 sp | -- |
 | Peasant's outfit | 1 sp | 1 |
-| Perfume | 5 gp | L |
+| \rowcolor{gray!20}Perfume | 5 gp | L |
 | Piton | 1 sp | L |
-| Plush toy | 2 sp | -- |
+| \rowcolor{gray!20}Plush toy | 2 sp | -- |
 | Pole (10 ft) | 5 cp | 2 |
-| Poison ring | +20 gp | - |
+| \rowcolor{gray!20}Poison ring | +20 gp | - |
 | Portable ram | 10 gp | 3 |
-| Potent Acid (vial) | 30 gp | L |
+| \rowcolor{gray!20}Potent Acid (vial) | 30 gp | L |
 
-| **Item** | **Cost** | **Enc.** |
+| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Pouch | 5 sp | L |
-| Quill | 1 sp | -- |
+| \rowcolor{gray!20}Quill | 1 sp | -- |
 | Quiver | 3 gp | 1 |
-| Racing saddle | 30 gp | 2 |
+| \rowcolor{gray!20}Racing saddle | 30 gp | 2 |
 | Royal outfit | 200 gp | 3 |
-| Rowboat | 50 gp | 12 |
+| \rowcolor{gray!20}Rowboat | 50 gp | 12 |
 | Sack (empty) | 1 sp | L |
-| Saddlebags | 4 gp | 2 |
+| \rowcolor{gray!20}Saddlebags | 4 gp | 2 |
 | Sailing ship | 10k gp | -- |
-| Scholar's outfit | 5 gp | 1 |
+| \rowcolor{gray!20}Scholar's outfit | 5 gp | 1 |
 | Scroll case | 1 gp | 1 |
-| Sealing wax | 1 gp | -- |
+| \rowcolor{gray!20}Sealing wax | 1 gp | -- |
 | Sewing needle | 5 sp | - |
-| Shovel or Spade | 1 gp | 1 |
+| \rowcolor{gray!20}Shovel or Spade | 1 gp | 1 |
 | Shovel or spade | 2 gp | 1 |
-| Signet ring | 5 gp | - |
+| \rowcolor{gray!20}Signet ring | 5 gp | - |
 | Silver holy symbol | 25 gp | L |
-| Sled | 20 gp | 3 |
+| \rowcolor{gray!20}Sled | 20 gp | 3 |
 | Sleeping bag | 3 gp | 2 |
-| Small metal mirror | 10 gp | L |
+| \rowcolor{gray!20}Small metal mirror | 10 gp | L |
 | Soap (per 1 lb) | 5 sp | -- |
-| Spider silk rope (50 ft) | 10 gp | L |
+| \rowcolor{gray!20}Spider silk rope (50 ft) | 10 gp | L |
 | Spyglass | 900 gp | 1 |
-| Stabling (per day) | 1 sp | -- |
+| \rowcolor{gray!20}Stabling (per day) | 1 sp | -- |
 | Staff | 2 gp | 1 |
-| Tarpaulin | 5 sp | 1 |
+| \rowcolor{gray!20}Tarpaulin | 5 sp | 1 |
 | Tent | 10 gp | 3 |
-| Thick hemp rope (50 ft) | 2 gp | 2 |
+| \rowcolor{gray!20}Thick hemp rope (50 ft) | 2 gp | 2 |
 | Thieves' tools | 30 gp | 1 |
-| Tinderbox | 5 sp | L |
+| \rowcolor{gray!20}Tinderbox | 5 sp | L |
 | Torch | 1 sp | 1 |
-| Trail rations (per day) | 3 sp | L |
+| \rowcolor{gray!20}Trail rations (per day) | 3 sp | L |
 | Traveler's outfit | 1 gp | 2 |
-| Vial (empty) | 3 cp | L |
+| \rowcolor{gray!20}Vial (empty) | 3 cp | L |
 | Wagon | 35 gp | -- |
-| Warship | 25k gp | -- |
+| \rowcolor{gray!20}Warship | 25k gp | -- |
 | Water clock | 900 gp | -- |
-| Waterskin | 1 gp | 2 |
+| \rowcolor{gray!20}Waterskin | 1 gp | 2 |
 | Whetstone | 2 cp | L |
-| Whistle | 8 sp | -- |
+| \rowcolor{gray!20}Whistle | 8 sp | -- |
 | Winter blanket | 5 sp | 1 |
-| Winter outfit | 8 gp | 2 |
+| \rowcolor{gray!20}Winter outfit | 8 gp | 2 |
 | Wooden holy symbol | 1 gp | L |
 
 > Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke, from Profiles of the Future)
@@ -14153,14 +14154,14 @@ If the character chooses to purchase their starting equipment, they can purchase
 
 ### Container Capacity
 
-| **Item** | **Capacity** | **CdC** | **Item** | **Capacity** | **CdC** |
+| \rowcolor{gray!20}**Item** | **Capacity** | **CdC** | **Item** | **Capacity** | **CdC** |
 | --- | --- | --- | --- | --- | --- |
 | Pouch | 1 cube with 30 cm edge/3 kg of equipment | 1 | Barrel | 160 liters of liquid, 4 cubes with 30 cm edge | 35 |
-| Mug | 0.5 liters | L | Bottle | 1 liter of liquid | L |
+| \rowcolor{gray!20}Mug | 0.5 liters | L | Bottle | 1 liter of liquid | L |
 | Bucket | 12 liters of liquid, 1 cube with 25 cm edge | 3 | Basket | 2 cubes with 30 cm edge/20 kg of equipment | 5 |
-| Sack | 1 cube with 30 cm edge/15 kg of equipment | 3 | Chest | 12 cubes with 30 cm edge/150 kg of equipment | 35 |
+| \rowcolor{gray!20}Sack | 1 cube with 30 cm edge/15 kg of equipment | 3 | Chest | 12 cubes with 30 cm edge/150 kg of equipment | 35 |
 | Vial | 120 ml of liquid | L | Waterskin | 2 liters of liquid | 1 |
-| Pitcher | 4 liters of liquid | 2 | Backpack | 2 cubes with 30 cm edge/30 kg of equipment | 6 |
+| \rowcolor{gray!20}Pitcher | 4 liters of liquid | 2 | Backpack | 2 cubes with 30 cm edge/30 kg of equipment | 6 |
 
 There is also a version of the Perfect Backpack (+100 gp) that grants a +2 to the transportable Encumbrance value.
 
@@ -14174,27 +14175,27 @@ For example, a *Calligraphy* check is resolved with a Wisdom check; if the chara
 
 If the character makes a check using specific tools or implements, they receive a +2 bonus.
 
-	
+| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
+| --- | --- | --- | --- | --- | --- |
+| Thieves' Tools/Forgery kit | 25 gp | 1 | Herbalism kit | 5 gp | 1 |
+| \rowcolor{gray!20}Dice | 1 sp | - | Deck of Cards | 5 sp | - |
+| Poisoner's kit | 50 gp | 1 | Alchemist's supplies | 50 gp | 2 |
 
 | **Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- | --- | --- | --- |
-| Thieves' Tools/Forgery kit | 25 gp | 1 | Herbalism kit | 5 gp | 1 |
-| Dice | 1 sp | - | Deck of Cards | 5 sp | - |
-| Poisoner's kit | 50 gp | 1 | Alchemist's supplies | 50 gp | 2 |
-| **Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
-| Calligrapher's supplies | 10 gp | 1 | Brewer's supplies | 20 gp | 2 |
+| \rowcolor{gray!20}Calligrapher's supplies | 10 gp | 1 | Brewer's supplies | 20 gp | 2 |
 | Cobbler's tools | 5 gp | 2 | Cartographer's tools | 15 gp | 2 |
-| Leatherworker's tools | 5 gp | 2 | Mason's tools | 10 gp | 2 |
+| \rowcolor{gray!20}Leatherworker's tools | 5 gp | 2 | Mason's tools | 10 gp | 2 |
 | Smith's tools | 20 gp | 3 | Carpenter's tools | 8 gp | 2 |
-| Jeweler's tools | 25 gp | 1 | Woodcarver's tools | 1 gp | 2 |
+| \rowcolor{gray!20}Jeweler's tools | 25 gp | 1 | Woodcarver's tools | 1 gp | 2 |
 | Tinker's tools | 50 gp | 2 | Painter's supplies | 10 gp | 1 |
-| Glassblower's tools | 30 gp | 2 | Weaver's tools | 1 gp | 2 |
+| \rowcolor{gray!20}Glassblower's tools | 30 gp | 2 | Weaver's tools | 1 gp | 2 |
 | Potter's tools | 10 gp | 2 | Cook's utensils | 1 gp | 2 |
-| Navigator's tools | 25 gp | 2 | Lyre | 30 gp | 1 |
+| \rowcolor{gray!20}Navigator's tools | 25 gp | 2 | Lyre | 30 gp | 1 |
 | Bagpipes | 30 gp | 1 | Horn | 3 gp | L |
-| Dulcimer | 25 gp | 2 | Flute | 2 gp | L |
+| \rowcolor{gray!20}Dulcimer | 25 gp | 2 | Flute | 2 gp | L |
 | Pan flute | 12 gp | L | Shawm | 1 gp | 2 |
-| Lute | 35 gp | 1 | Drum | 6 gp | 1 |
+| \rowcolor{gray!20}Lute | 35 gp | 1 | Drum | 6 gp | 1 |
 | Viol | 30 gp | 1 | Disguise kit | 25 gp | 1 |
 
 ### Mounts and Vehicles
@@ -14215,48 +14216,48 @@ To acquire such a mount, it is often necessary to steal an egg and raise the cre
 
 **Table: Mounts and Other Animals**
 
-| **Mount** | **Cost** |
+| \rowcolor{gray!20}**Mount** | **Cost** |
 | --- | --- |
 | Camel | 50 gp |
-| Elephant | 500 gp |
+| \rowcolor{gray!20}Elephant | 500 gp |
 | Mastiff | 25 gp |
-| Racing Saurovall | 75 gp |
+| \rowcolor{gray!20}Racing Saurovall | 75 gp |
 | War Saurovall | 400 gp |
-| Draft Saurovall | 50 gp |
+| \rowcolor{gray!20}Draft Saurovall | 50 gp |
 | Pony Saurovall | 30 gp |
 
 **Tack and Harness and Drawn Vehicles**
 
-| **Item** | **Cost** | **Weight** |
+| \rowcolor{gray!20}**Item** | **Cost** | **Weight** |
 | --- | --- | --- |
 | Barding | x4 | x2 |
-| Chariot | 250 gp | 50 kg |
+| \rowcolor{gray!20}Chariot | 250 gp | 50 kg |
 | Saddlebags | 4 gp | 4 kg |
-| Cart | 15 gp | 100 kg |
+| \rowcolor{gray!20}Cart | 15 gp | 100 kg |
 | Wagon | 35 gp | 200 kg |
-| Carriage | 300 gp | 300 kg |
+| \rowcolor{gray!20}Carriage | 300 gp | 300 kg |
 | Bit and Bridle | 2 gp | 0.5 kg |
-| Feed (per day) | 5 cp | 2 kg |
+| \rowcolor{gray!20}Feed (per day) | 5 cp | 2 kg |
 
 **Saddle**
 
-| **Item** | **Cost** | **Weight** |
+| \rowcolor{gray!20}**Item** | **Cost** | **Weight** |
 | --- | --- | --- |
 | Pack | 15 gp | 7.5 kg |
-| Racing | 30 gp | 12.5 kg |
+| \rowcolor{gray!20}Racing | 30 gp | 12.5 kg |
 | Exotic | 60 gp | 20 kg |
-| Military | 50 gp | 15 kg |
+| \rowcolor{gray!20}Military | 50 gp | 15 kg |
 | Sled | 20 gp | 150 kg |
-| Stabling (per day) | 1 sp | **Watercraft** |
+| \rowcolor{gray!20}Stabling (per day) | 1 sp | **Watercraft** |
 
-| **Item** | **Cost** | **Speed** |
+| \rowcolor{gray!20}**Item** | **Cost** | **Speed** |
 | --- | --- | --- |
 | Rowboat | 50 gp | 2.25 km per hour |
-| Barge | 3000 gp | 1.5 km per hour |
+| \rowcolor{gray!20}Barge | 3000 gp | 1.5 km per hour |
 | Galley | 30000 gp | 6 km per hour |
-| Sailing ship | 10000 gp | 3 km per hour |
+| \rowcolor{gray!20}Sailing ship | 10000 gp | 3 km per hour |
 | Warship | 25000 gp | 3.75 km per hour |
-| Longship | 10000 gp | 4.5 km per hour |
+| \rowcolor{gray!20}Longship | 10000 gp | 4.5 km per hour |
 
 ### Services
 
@@ -14267,14 +14268,14 @@ A warrior might commission a blacksmith to forge a special sword.
 
 **Services**
 
-| **Service** | **Cost** |
+| \rowcolor{gray!20}**Service** | **Cost** |
 | --- | --- |
 | Carriage within a city | 5 cp/1 km |
-| Carriage between two towns | 1 sp/1 km |
+| \rowcolor{gray!20}Carriage between two towns | 1 sp/1 km |
 | Skilled Hireling | 2 gp per day |
-| Untrained Hireling | 5 sp per day |
+| \rowcolor{gray!20}Untrained Hireling | 5 sp per day |
 | Messenger | 5 cp/1.5 km |
-| Ship's passage | 1 sp/1.5 km |
+| \rowcolor{gray!20}Ship's passage | 1 sp/1.5 km |
 | Entry toll | 5 cp/5 sp |
 
 ### Magical Services
@@ -14379,12 +14380,12 @@ The choice of lifestyle can have consequences. A character who maintains a wealt
 
 	
 
-| **Lifestyle** | **Price** | **Lifestyle** | **Price** |
+| \rowcolor{gray!20}**Lifestyle** | **Price** | **Lifestyle** | **Price** |
 | --- | --- | --- | --- |
 | Wretched | - | Squalid | 1 sp |
-| Poor | 2 sp | Modest | 1 gp |
+| \rowcolor{gray!20}Poor | 2 sp | Modest | 1 gp |
 | Comfortable | 2 gp | Wealthy | 4 gp |
-| Aristocratic | 10+ gp | Royal | 50 gp+ |
+| \rowcolor{gray!20}Aristocratic | 10+ gp | Royal | 50 gp+ |
 
 ---
 
@@ -14406,14 +14407,14 @@ Armor and weapons can be crafted from materials that possess inherent special qu
 
 ### Livewood
 
-| **Item type** | **Cost modifier** |
+| \rowcolor{gray!20}**Item type** | **Cost modifier** |
 | --- | --- |
 | for Ammunition | +40 gp |
-| Weapon | +1000 gp |
+| \rowcolor{gray!20}Weapon | +1000 gp |
 | Light armor | +3000 gp |
-| Medium armor | +8000 gp |
+| \rowcolor{gray!20}Medium armor | +8000 gp |
 | Heavy armor | +12000 gp |
-| Shield | +600 gp |
+| \rowcolor{gray!20}Shield | +600 gp |
 | Other items | 3000 gp/kg |
 
 A livewood tree is characterized by wood that is particularly hard, comparable to steel. The origin of these trees remains a mystery to almost everyone. A livewood tree is a normal tree planted by a Devotee of Efrem or Shayalia that has been blessed by the Devotee.
@@ -14424,14 +14425,14 @@ Livewood has 35 Hit Points per 2.5 cm of thickness and Hardness 15.
 
 ### Adamantine
 
-| **Object Type** | **Cost Modifier** |
+| \rowcolor{gray!20}**Object Type** | **Cost Modifier** |
 | --- | --- |
 | for Ammunition | +60 gp |
-| Weapon | +1500 gp |
+| \rowcolor{gray!20}Weapon | +1500 gp |
 | Light armor | +5000 gp |
-| Medium armor | +10000 gp |
+| \rowcolor{gray!20}Medium armor | +10000 gp |
 | Heavy armor | +15000 gp |
-| Shield | +1000 gp |
+| \rowcolor{gray!20}Shield | +1000 gp |
 | Other objects | 5000 gp/kg |
 
 This extremely hard metal is found only in meteorites and contributes to the quality of a weapon or armor.
@@ -14442,12 +14443,12 @@ Weapons and armor normally made of steel and constructed with adamantine have on
 
 ### Alchemical Silver
 
-| **Object Type** | **Cost Modifier** |
+| \rowcolor{gray!20}**Object Type** | **Cost Modifier** |
 | --- | --- |
 | for Ammunition | +2 gp |
-| Light weapon | +20 gp |
+| \rowcolor{gray!20}Light weapon | +20 gp |
 | Medium weapon | +90 gp |
-| Heavy weapon | +180 gp |
+| \rowcolor{gray!20}Heavy weapon | +180 gp |
 | Shield | +100 gp |
 
 The alchemical silvering process can only be applied to metal weapons and does not work on special metals such as adamantine, cold iron, and mithral.
@@ -14466,12 +14467,12 @@ Cold iron has 30 Hit Points per 2.5 cm of thickness and Hardness 10.
 
 ### Mithral
 
-| **Object Type** | **Cost Modifier** |
+| \rowcolor{gray!20}**Object Type** | **Cost Modifier** |
 | --- | --- |
 | Light armor | +1000 gp |
-| Medium armor | +4000 gp |
+| \rowcolor{gray!20}Medium armor | +4000 gp |
 | Heavy armor | +9000 gp |
-| Shield | +1000 gp |
+| \rowcolor{gray!20}Shield | +1000 gp |
 | Other objects | +1000 gp/kg |
 
 Mithral is a very rare, shimmering, silver-like metal, lighter than iron but just as hard. When worked like steel, it becomes a wonderful material for creating armor and occasionally for other objects. Most mithral armor is one category lighter and is more suitable for movement and other limitations. Heavy armors are treated as medium armors, and medium armors are treated as light, but light armors remain light.
@@ -14513,16 +14514,16 @@ Depending on the size of the object, it can be more or less easy to hit.
 
 **Table: Size and Defense of Objects - Hitting an Object**
 
-| **Size** | **Def. Mod.** | **Dimensions** |
+| \rowcolor{gray!20}**Size** | **Def. Mod.** | **Dimensions** |
 | --- | --- | --- |
 | Colossal | -8 | 18m+ |
-| Gargantuan | -6 | 9-18m |
+| \rowcolor{gray!20}Gargantuan | -6 | 9-18m |
 | Huge | -4 | 4-9m |
-| Large | -2 | 2.4-4m |
+| \rowcolor{gray!20}Large | -2 | 2.4-4m |
 | Medium | +0 | 1.2-2.4m |
-| Small | +2 | 60-120cm |
+| \rowcolor{gray!20}Small | +2 | 60-120cm |
 | Tiny | +4 | 30-60cm |
-| Diminutive | +6 | 15-30cm |
+| \rowcolor{gray!20}Diminutive | +6 | 15-30cm |
 | Fine | +8 | 5-20cm |
 
 **Defense Modifier**
@@ -14541,22 +14542,22 @@ See also Table: Doors, p.
 
 **Table: Hardness and Hit Points of objects**
 
-| **Material** | **Hard.** | **HP** | **DC** | **Example Objects** |
+| \rowcolor{gray!20}**Material** | **Hard.** | **HP** | **DC** | **Example Objects** |
 | --- | --- | --- | --- | --- |
 | Paper, Glass, Cloth | 0 | 1 | 3 | Sheets of paper, window glass, light cloth |
-| Glass | 1 | 4 | 6 | Glass block, glass table, heavy vase |
+| \rowcolor{gray!20}Glass | 1 | 4 | 6 | Glass block, glass table, heavy vase |
 | Heavy cloth | 1 | 4 | 12 | Cloth armor, heavy jacket, sack, tent |
-| Thin wood | 3 | 12 | 14 | Chair |
+| \rowcolor{gray!20}Thin wood | 3 | 12 | 14 | Chair |
 | Wood | 5 | 20 | 18 | Chest, table |
-| Rope, Leather | 2 | 4 | 19 | Hemp rope |
+| \rowcolor{gray!20}Rope, Leather | 2 | 4 | 19 | Hemp rope |
 | Thin stone | 4 | 16 | 20 | Slate, tiles, light chest |
-| Wooden structure | 10 | 40 | 20 | Wooden wall, strongbox |
+| \rowcolor{gray!20}Wooden structure | 10 | 40 | 20 | Wooden wall, strongbox |
 | Reinforced leather | 4 | 16 | 22 | Leather armor, saddle, thick hemp rope |
-| Thin steel or iron | 5 | 20 | 23 | Silk rope, steel shield, short sword |
+| \rowcolor{gray!20}Thin steel or iron | 5 | 20 | 23 | Silk rope, steel shield, short sword |
 | Steel or iron | 9 | 36 | 26 | Chain, Metal armor, reinforced strongbox |
-| Stone structure | 14 | 56 | 35 | Stone wall, longsword |
+| \rowcolor{gray!20}Stone structure | 14 | 56 | 35 | Stone wall, longsword |
 | Stone | 7 | 28 | 35 | Paving stone, statue |
-| Steel or iron structure | 18 | 90 | 45 | Iron plate wall, two-handed greatsword |
+| \rowcolor{gray!20}Steel or iron structure | 18 | 90 | 45 | Iron plate wall, two-handed greatsword |
 
 ## Damaging Objects
 
@@ -14585,20 +14586,20 @@ An **enchanted object** such as a weapon or armor has Hardness, Hit Points, and 
 
 **Animated objects**: Animated objects count as creatures to determine their Defense and Hit Points (they are not considered inanimate objects).
 
+l
+
 ## Size Matters for Breaking...
 
 Creatures of Size larger or smaller than Medium have bonuses or penalties given by size on the Strength check (Fortitude ST with Strength) to break a door:
 
 **Table: Strength check modifiers based on your size**
 
-	
-
-| **Size** | **Mod.** | **Size** | **Mod.** |
+| \rowcolor{gray!20}**Size** | **Mod.** | **Size** | **Mod.** |
 | --- | --- | --- | --- |
 | Fine | -16 | Large | +4 |
-| Diminutive | -12 | Huge | +8 |
+| \rowcolor{gray!20}Diminutive | -12 | Huge | +8 |
 | Tiny | -8 | Gargantuan | +12 |
-| Small | -4 | Colossal | +16 |
+| \rowcolor{gray!20}Small | -4 | Colossal | +16 |
 | Medium | +0 |  | A **crowbar** or a **portable battering ram** increases the character's chance of breaking down a door by +1d6. |
 
 ---
@@ -14635,14 +14636,14 @@ Many spells and objects use *real game time* as duration, meaning that rounds or
 
 | **Light** | **Radius in meters** |  | **Duration** |
 | --- | --- | --- | --- |
-| **Source** | **Light** | **Dim Light** | |
+| \rowcolor{gray!20}**Source** | **Light** | **Dim Light** | |
 | Candle | - | 1 m | 1 hour |
-| Torch | 3 m | 6 m | 1 hour |
+| \rowcolor{gray!20}Torch | 3 m | 6 m | 1 hour |
 | Lantern | 6 m | 12 m | 3 hours |
 | **Spells** |  |  | |
-| Tear of Ljust | 1 m | - | 10 rounds |
+| \rowcolor{gray!20}Tear of Ljust | 1 m | - | 10 rounds |
 | Light | 3 m | 6 m | 30 min. |
-| Daylight | 6 m | 12 m | 1 hour |
+| \rowcolor{gray!20}Daylight | 6 m | 12 m | 1 hour |
 
 The duration indicated is expressed, when in minutes or hours, as real game time duration.
 
@@ -14741,16 +14742,14 @@ Additionally, if the object falls from a distance less than 3 meters, it inflict
 
 **Table: Damage from Falling Objects**
 
-	
-
-| **Object Size** | **Damage** |
+| \rowcolor{gray!20}**Object Size** | **Damage** |
 | --- | --- |
 | Tiny or Smaller | 1d6 |
-| Small | 2d6 |
+| \rowcolor{gray!20}Small | 2d6 |
 | Medium | 3d6 |
-| Large | 4d6 |
+| \rowcolor{gray!20}Large | 4d6 |
 | Huge | 6d6 |
-| Gargantuan | 8d6 |
+| \rowcolor{gray!20}Gargantuan | 8d6 |
 | Colossal | 10d6 |
 
 Dropping an object on a creature requires a ranged touch attack (see Touch Attack, p. ). These attacks usually have a range of 3 meters. If an object falls on a creature, the creature must make, if hit, a Reflex Saving Throw with DC 15 to halve the damage if it is aware of the falling object. Falling objects that are part of a trap use the trap rules instead of those described here.
@@ -14839,11 +14838,11 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 
 **Table: Random Weather**
 
-| **d\%** | **Weather** | **Cold Climate** | **Temperate Climate {***} | **Desert** |
+| \rowcolor{gray!20}**d\%** | **Weather** | **Cold Climate** | **Temperate Climate {***} | **Desert** |
 | 01-70 | Normal | Cold, calm | Normal for the season {*}{*} | Hot, calm |
-| 71-80 | Abnormal | Heat Wave (01-30) / Cold Snap (31-100) | Heat Wave (01-50) - Cold Snap (51-100) | Hot, windy |
+| \rowcolor{gray!20}71-80 | Abnormal | Heat Wave (01-30) / Cold Snap (31-100) | Heat Wave (01-50) - Cold Snap (51-100) | Hot, windy |
 | 81-90 | Inclement | Precipitation (snow) | Precipitation normal for the season | Hot, windy |
-| 91-99 | Storm | Snowstorm | Lightning Storm / Snowstorm | Dust storm |
+| \rowcolor{gray!20}91-99 | Storm | Snowstorm | Lightning Storm / Snowstorm | Dust storm |
 | 100 | Powerful storm | Blizzard | Blizzard, sleet storm, hurricane, tornado | Downpour |
 
 * Temperate includes forests, hills, marshes, mountains, plains, and warm marine areas.
@@ -14943,14 +14942,14 @@ Winds can create whirlwinds of sand or dust, fuel large fires, capsize small boa
 
 **Table: Wind Effects Wind Force**
 
-| **Intensity** | **Speed** | **Ranged Attacks** |
+| \rowcolor{gray!20}**Intensity** | **Speed** | **Ranged Attacks** |
 | --- | --- | --- |
 | Light | 0-15km | |
-| Moderate | 16.5-30 km/h | |
+| \rowcolor{gray!20}Moderate | 16.5-30 km/h | |
 | Strong | 31.5-45 | -2 |
-| Very strong | 45.5-75km/h | -4 |
+| \rowcolor{gray!20}Very strong | 45.5-75km/h | -4 |
 | Windstorm | 76.5-111km/h | impossible |
-| Hurricane | 12-261km/h | impossible |
+| \rowcolor{gray!20}Hurricane | 12-261km/h | impossible |
 | Tornado | 262-450km/h | impossible |
 
 **Light Wind**
@@ -15141,30 +15140,28 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 
 **Table: Walls**
 
-| **Wall Type** | **Thickness** | **Break Through** | **Hardness** | **Hit Points** | **DC Climb** |
+| \rowcolor{gray!20}**Wall Type** | **Thickness** | **Break Through** | **Hardness** | **Hit Points** | **DC Climb** |
 | --- | --- | --- | --- | --- | --- |
 | Stone bricks | 30 cm | 35 | 8 | 90 | 20 |
-| Superior stone bricks | 30 cm | 35 | 8 | 120 | 25 |
+| \rowcolor{gray!20}Superior stone bricks | 30 cm | 35 | 8 | 120 | 25 |
 | Reinforced stone bricks | 30 | 45 | 8 | 180 | 20 |
-| Carved Stone | 90 | 50 | 8 | 540 | 25 |
+| \rowcolor{gray!20}Carved Stone | 90 | 50 | 8 | 540 | 25 |
 | Rough stone | 150 cm | 65 | 8 | 900 | 25 |
-| Iron | 7.5 cm | 30 | 10 | 90 | 25 |
+| \rowcolor{gray!20}Iron | 7.5 cm | 30 | 10 | 90 | 25 |
 | Paper | variable | 1 | -- | 1 | 30 |
-| Wood | 15 cm | 20 | 5 | 60 | 21 |
+| \rowcolor{gray!20}Wood | 15 cm | 20 | 5 | 60 | 21 |
 
 **Table: Digging a tunnel**
 
-	
-
 | **Miner** | **Material to Dig (1 minute)** |  | |
 | --- | --- | --- |
-| **Earth** | **SoftStone** | **Hard Stone** |
+| \rowcolor{gray!20} | **Earth** | **SoftStone** | **Hard Stone** |
 | Human | 50 cm | 15 cm | 7 cm |
-| Gnome | 45 cm | 30 cm | 15 cm |
+| \rowcolor{gray!20}Gnome | 45 cm | 30 cm | 15 cm |
 | Dwarf/Orc | 55 cm | 45 cm | 20 cm |
-| Stone Giant | 3 m | 1.5 m | 75 cm |
+| \rowcolor{gray!20}Stone Giant | 3 m | 1.5 m | 75 cm |
 | Xorn | 6 m | 6 m | 6m |
-| Earth Elemental | 9 m | 9 m | 9 m |
+| \rowcolor{gray!20}Earth Elemental | 9 m | 9 m | 9 m |
 
 The distances dug indicated are assumed to be obtained with suitable tools such as shovels or pickaxes, otherwise reduce to one-third.
 
@@ -15236,19 +15233,17 @@ A **Critical Failure** in a Strength check (Fortitude ST with Strength) means ha
 
 Doors inside dungeons are much more than simple entrances or exits. Often they can be actual encounters. Dungeon doors come in three basic types: wood, stone, and iron.
 
-	
-
 | **Door Type** | **Typical thickness** | **Hardness** | **Hit Points** | **DC to break down** | |
 | --- | --- | --- | --- | --- |
-| **(cm)** |  |  | **Blocked** | **Locked** |
+| \rowcolor{gray!20} | **(cm)** |  |  | **Blocked** | **Locked** |
 | Simple wood | 2.5 | 5 | 10 | 15 | 18 |
-| Good wood | 3.75 | 5 | 15 | 18 | 21 |
+| \rowcolor{gray!20}Good wood | 3.75 | 5 | 15 | 18 | 21 |
 | Strong wood | 5 | 5 | 20 | 25 | 28 |
-| Stone | 10 | 8 | 60 | 31 | 34 |
+| \rowcolor{gray!20}Stone | 10 | 8 | 60 | 31 | 34 |
 | Iron | 5 | 10 | 60 | 30 | 33 |
-| Wooden portcullis | 7.5 | 5 | 30 | 27 | 30 |
+| \rowcolor{gray!20}Wooden portcullis | 7.5 | 5 | 30 | 27 | 30 |
 | Iron portcullis | 5 | 10 | 60 | 28 | 31 |
-| Lock | - | 15 | 30 | - | - |
+| \rowcolor{gray!20}Lock | - | 15 | 30 | - | - |
 | Hinges | - | 10 | 30 | - | - |
 
 **Wooden Doors**: Built with thick planks nailed together, sometimes reinforced with iron bars (also placed to prevent warping from dungeon moisture), wooden doors are the most common type of door. Wooden doors vary in hardness: they can be simple, good, or sturdy. Simple doors (DC 15 to break down) are not designed to keep motivated attackers at bay.
@@ -15535,14 +15530,14 @@ If the group is numerous, the guard shifts to watch and check the environment be
 
 This table indicates the duration of guard shifts and the total rest time of the group, assuming at least 8 hours of rest.
 
-| **Group** | **Shift** | **Total** |
+| \rowcolor{gray!20}**Group** | **Shift** | **Total** |
 | --- | --- | --- |
 | **members** | **Duration** | **Duration** |
-| 2 | 8 h | 16 h |
+| \rowcolor{gray!20}2 | 8 h | 16 h |
 | 3 | 4 h | 12 h |
-| 4 | 2 h 30min. | 10 h 30min. |
+| \rowcolor{gray!20}4 | 2 h 30min. | 10 h 30min. |
 | 5 | 2 h | 10 h |
-| 6 | 1 h 30min. | 9 h 30min. |
+| \rowcolor{gray!20}6 | 1 h 30min. | 9 h 30min. |
 
 A **sudden noise** grants an Awareness check at DC 15, or equal to the opponent's Stealth check +8, to wake up.
 ---
@@ -15600,18 +15595,18 @@ Use the Trap Saving Throw DCs and Attack Bonus table and the Damage Severity by 
 
 **Table: Trap Saving Throw DCs and Attack Bonuses**
 
-| Trap Danger Level | Saving Throw DC | Attack Bonus |
+| \rowcolor{gray!20}Trap Danger Level | Saving Throw DC | Attack Bonus |
 | Minimal | 13-14 | +4 to +6 |
-| Dangerous | 16-20 | +8 to +10 |
+| \rowcolor{gray!20}Dangerous | 16-20 | +8 to +10 |
 | Deadly | 21-26 | +12 to +15 |
 
 **Table: Damage Severity by Level**
 
-| Character Level | Minimal | Dangerous | Deadly |
+| \rowcolor{gray!20}Character Level | Minimal | Dangerous | Deadly |
 | 1st-4th | 1d10 | 2d10 | 4d10 |
-| 5th-10th | 2d10 | 4d10 | 10d10 |
+| \rowcolor{gray!20}5th-10th | 2d10 | 4d10 | 10d10 |
 | 11th-16th | 4d10 | 10d10 | 18d10 |
-| 17th-20th | 10d10 | 18d10 | 24d10 |
+| \rowcolor{gray!20}17th-20th | 10d10 | 18d10 | 24d10 |
 
 ### Example Traps
 
@@ -15763,302 +15758,225 @@ Here are additional traps for your enjoyment.
 
 **Effect**: what the effect of the trap is
 
-**Poisoned Dart**
-
-| **CR:** | 1 |
+| \rowcolor{gray!20}**CR:**  1 | **Poisoned Dart** |
 | --- | --- |
 | **Type:** | Mechanical |
-| **Survival:** | DC 13 |
+| \rowcolor{gray!20}**Survival:** | DC 13 |
 | **Dis. Dev.:** | DC 15 |
-| **Activator:** | Contact |
+| \rowcolor{gray!20}**Activator:** | Contact |
 | **Reset:** | None |
-| **Effect:** | Ranged attack 12 meters +10 (1d3 damage plus Fermented Lucos Slime, page ) |
-
-**Arrow**
-
-| **CR:** | 1 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Ranged attack 12 meters +10 (1d3 damage plus Fermented Lucos Slime, page ) |
+| \rowcolor{gray!20}**CR:** 1 | **Arrow** |
 | **Type:** | Mechanical |
-| **Survival:** | DC 13 |
+| \rowcolor{gray!20}**Survival:** | DC 13 |
 | **Dis. Dev.:** | DC 15 |
-| **Activator:** | Contact |
+| \rowcolor{gray!20}**Activator:** | Contact |
 | **Reset:** | None |
-| **Effect:** | Ranged attack 12 meters +15 (1d8+3) |
-
-**Pit**
-
-| **CR:** | 1 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Ranged attack 12 meters +15 (1d8+3) |
+| \rowcolor{gray!20}**CR:** 1 | **Pit** |
 | **Type:** | mechanical |
-| **Survival:** | DC 14 |
+| \rowcolor{gray!20}**Survival:** | DC 14 |
 | **Dis. Dev.:** | DC 16 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | manual |
-| **Effect:** | 3 meter deep pit (2d6 falling damage) |
-
-**Scything Blade**
-
-| **CR:** | 1 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 3 meter deep pit (2d6 falling damage) |
+| \rowcolor{gray!20}**CR:** 1 | **Scything Blade** |
 | **Type:** | mechanical |
-| **Survival:** | DC 13 |
+| \rowcolor{gray!20}**Survival:** | DC 13 |
 | **Dis. Dev.:** | DC 15 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | manual |
-| **Effect:** | 2 melee attacks +10 (1d8+1) |
-
-**Spiked Pit**
-
-| **CR:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 2 melee attacks +10 (1d8+1) |
+| \rowcolor{gray!20}**CR:** 2 | **Spiked Pit** |
 | **Type:** | mechanical |
-| **Survival:** | DC 16 |
+| \rowcolor{gray!20}**Survival:** | DC 16 |
 | **Dis. Dev.:** | DC 18 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | manual |
-| **Effect:** | 3 meter deep pit + spikes (Melee attack +10, 1d4 spikes per target for 1d4+2 damage each) |
-
-**Scorching Wave**
-
-| **CR:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 3 meter deep pit + spikes (Melee attack +10, 1d4 spikes per target for 1d4+2 damage each) |
+| \rowcolor{gray!20}**CR:** 2 | **Scorching Wave** |
 | **Type:** | magical |
-| **Survival:** | DC 16 |
+| \rowcolor{gray!20}**Survival:** | DC 16 |
 | **Dis. Dev.:** | DC 18/4 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | 5d4 fire damage |
-
-**Javelin**
-
-| **CR:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 5d4 fire damage |
+| \rowcolor{gray!20}**CR:** 2 | **Javelin** |
 | **Type:** | mechanical |
-| **Survival:** | DC 15 |
+| \rowcolor{gray!20}**Survival:** | DC 15 |
 | **Dis. Dev.:** | DC 17 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | none |
-| **Effect:** | Ranged attack 12 meters +15 (2d6+6), within 6 meter radius |
-
-**Pit with Undead**
-
-| **CR:** | 2 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Ranged attack 12 meters +15 (2d6+6), within 6 meter radius |
+| \rowcolor{gray!20}**CR:**  2 | **Pit with Undead** |
 | **Type:** | mechanical |
-| **Survival:** | DC 14 |
+| \rowcolor{gray!20}**Survival:** | DC 14 |
 | **Dis. Dev.:** | DC 16 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | none |
-| **Effect:** | At the bottom of the pit (2d6 falling damage) there are two zombies |
-
-**Acid Arrow**
-
-| **CR:** | 3 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | At the bottom of the pit (2d6 falling damage) there are two zombies |
+| \rowcolor{gray!20}**CR:** 3 | **Acid Arrow** |
 | **Type:** | magical |
-| **Survival:** | DC 18 |
+| \rowcolor{gray!20}**Survival:** | DC 18 |
 | **Dis. Dev.:** | DC 20/4 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | Ranged attack of 16 meters (4d4 acid damage for 4 rounds) |
-
-**Concealed Pit**
-
-| **CR:** | 3 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Ranged attack of 16 meters (4d4 acid damage for 4 rounds) |
+| \rowcolor{gray!20}**CR:** 3 | **Concealed Pit** |
 | **Type:** | mechanical |
-| **Survival:** | DC 19 |
+| \rowcolor{gray!20}**Survival:** | DC 19 |
 | **Dis. Dev.:** | DC 20 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | manual |
-| **Effect:** | 3d6 falling damage |
-
-**Electric Arc**
-
-| **CR:** | 4 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 3d6 falling damage |
+| \rowcolor{gray!20}**CR:** 4 | **Electric Arc** |
 | **Type:** | magical |
-| **Survival:** | DC 21 |
+| \rowcolor{gray!20}**Survival:** | DC 21 |
 | **Dis. Dev.:** | DC 20/4 |
-| **Activator:** | contact |
+| \rowcolor{gray!20}**Activator:** | contact |
 | **Reset:** | none |
-| **Effect:** | Electric arc. 2 targets within 3 meters of each other, 5d6 electricity damage |
-
-**Wall Scythe**
-
-| **CR:** | 4 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Electric arc. 2 targets within 3 meters of each other, 5d6 electricity damage |
+| \rowcolor{gray!20}**CR:** 4 | **Wall Scythe** |
 | **Type:** | mechanical |
-| **Survival:** | DC 20 |
+| \rowcolor{gray!20}**Survival:** | DC 20 |
 | **Dis. Dev.:** | DC 18 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | automatic |
-| **Effect:** | three melee attacks +10 (2d8+3) |
-
-**Falling Block**
-
-| **CR:** | 5 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | three melee attacks +10 (2d8+3) |
+| \rowcolor{gray!20}**CR:** 5 | **Falling Block** |
 | **Type:** | mechanical |
-| **Survival:** | DC 23 |
+| \rowcolor{gray!20}**Survival:** | DC 23 |
 | **Dis. Dev.:** | DC 22 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | manual |
-| **Effect:** | Melee attack +15 (6d6) |
-
-**Fiery Blast**
-
-| **CR:** | 6 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Melee attack +15 (6d6) |
+| \rowcolor{gray!20}**CR:** 6 | **Fiery Blast** |
 | **Type:** | magical |
-| **Survival:** | DC 25 |
+| \rowcolor{gray!20}**Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 24/4 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | 3 meter cone, 8d6 fire damage |
-
-**Boiling Waters**
-
-| **CR:** | 7 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 3 meter cone, 8d6 fire damage |
+| \rowcolor{gray!20}**CR:** 7 | **Boiling Waters** |
 | **Type:** | mechanical |
-| **Survival:** | DC 25 |
+| \rowcolor{gray!20}**Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 20/4 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | none |
-| **Effect:** | 6 meter cone (spray of boiling water, 8d6 fire damage). |
-
-**Gas Trap**
-
-| **CR:** | 8 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 6 meter cone (spray of boiling water, 8d6 fire damage). |
+| \rowcolor{gray!20}**CR:** 8 | **Gas Trap** |
 | **Type:** | mechanical |
-| **Survival:** | DC 28 |
+| \rowcolor{gray!20}**Survival:** | DC 28 |
 | **Dis. Dev.:** | DC 26 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | repairable |
-| **Effect:** | Poisonous gas, 6 meter cube. Fortitude ST DC 17 or slowed 1/1 minute. |
-
-**Arrow Barrage**
-
-| **CR:** | 9 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Poisonous gas, 6 meter cube. Fortitude ST DC 17 or slowed 1/1 minute. |
+| \rowcolor{gray!20}**CR:** 9 | **Arrow Barrage** |
 | **Type:** | mechanical |
-| **Survival:** | DC 30 |
+| \rowcolor{gray!20}**Survival:** | DC 30 |
 | **Dis. Dev.:** | DC 27 |
-| **Activator:** | visual (Arcane Eye) |
+| \rowcolor{gray!20}**Activator:** | visual (Arcane Eye) |
 | **Reset:** | repairable |
-| **Effect:** | 6 arrows. Ranged attack +14 (1d8+1) |
-
-**Concealed Spiked Pit**
-
-| **CR:** | 8 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 6 arrows. Ranged attack +14 (1d8+1) |
+| \rowcolor{gray!20}**CR:** 8 | **Concealed Spiked Pit** |
 | **Type:** | mechanical |
-| **Survival:** | DC 29 |
+| \rowcolor{gray!20}**Survival:** | DC 29 |
 | **Dis. Dev.:** | DC 20 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | manual |
-| **Effect:** | 15 m deep pit + spikes (Melee attack +9, 3 spikes per target, 1d6+5 damage each) |
-
-**Electric Floor**
-
-| **CR:** | 9 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 15 m deep pit + spikes (Melee attack +9, 3 spikes per target, 1d6+5 damage each) |
+| \rowcolor{gray!20}**CR:** 9 | **Electric Floor** |
 | **Type:** | magical |
-| **Survival:** | DC 30 |
+| \rowcolor{gray!20}**Survival:** | DC 30 |
 | **Dis. Dev.:** | DC 26/5 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | 6mx9m. 8d6 Electricity damage. |
-
-**Energy Drain**
-
-| **CR:** | 10 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 6mx9m. 8d6 Electricity damage. |
+| \rowcolor{gray!20}**CR:** 10 | **Energy Drain** |
 | **Type:** | magical |
-| **Survival:** | DC 34 |
+| \rowcolor{gray!20}**Survival:** | DC 34 |
 | **Dis. Dev.:** | DC 34/6 |
-| **Activator:** | visual (True Seeing) |
+| \rowcolor{gray!20}**Activator:** | visual (True Seeing) |
 | **Reset:** | none |
-| **Effect:** | Ranged touch attack 18 meters +14 from Void, maximum Hit Points reduced by 10d4 + Fatigued. |
-
-**Room of Blades**
-
-| **CR:** | 10 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Ranged touch attack 18 meters +14 from Void, maximum Hit Points reduced by 10d4 + Fatigued. |
+| \rowcolor{gray!20}**CR:** 10 | **Room of Blades** |
 | **Type:** | mechanical |
-| **Survival:** | DC 25 |
+| \rowcolor{gray!20}**Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 20 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Activator:** | position |
 | **Reset:** | repairable |
-| **Effect:** | Melee attack +15 (to all three attacks 3d8+3) |
-
-**Cone of Ice**
-
-| **CR:** | 11 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Melee attack +15 (to all three attacks 3d8+3) |
+| \rowcolor{gray!20}**CR:** 11 | **Cone of Ice** |
 | **Type:** | magical |
-| **Survival:** | DC 30 |
+| \rowcolor{gray!20}**Survival:** | DC 30 |
 | **Dis. Dev.:** | DC 30/6 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | like Cone of Cold dealing 9d6 damage. Reflex ST DC 22 to halve |
-
-**Poisoned Pit**
-
-| **CR:** | 11 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | like Cone of Cold dealing 9d6 damage. Reflex ST DC 22 to halve |
+| \rowcolor{gray!20}**CR:** 8 | **Crushing Walls** |
 | **Type:** | mechanical |
-| **Survival:** | DC 25 |
-| **Dis. Dev.:** | DC 20 |
-| **Activator:** | position |
+| \rowcolor{gray!20}**Survival:** | DC 29 |
+| **Dis. Dev.:** | DC 25 |
+| \rowcolor{gray!20}**Activator:** | pressure plate |
 | **Reset:** | manual |
-| **Effect:** | Pit 6mx3m, 15 m deep + spikes (3 melee attacks +15 per target. 1d6+5 damage + poison 2d6 damage) |
-
-**Lightning Gallery**
-
-| **CR:** | 13 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | Walls close in 3 rounds. 4d10+10 crushing damage. Reflex DC 18 for half. |
+| \rowcolor{gray!20}**CR:** 9 | **Illusory Bridge** |
 | **Type:** | magical |
-| **Survival:** | DC 29 |
+| \rowcolor{gray!20}**Survival:** | DC 31 |
+| **Dis. Dev.:** | DC 28 |
+| \rowcolor{gray!20}**Activator:** | touch |
+| **Reset:** | automatic |
+| \rowcolor{gray!20}**Effect:** | Bridge disappears. 20m fall (6d6 damage). Will DC 19 to disbelieve. |
+| \rowcolor{gray!20}**CR:** 9 | **Teleport Maze** |
+| **Type:** | magical |
+| \rowcolor{gray!20}**Survival:** | DC 31 |
+| **Dis. Dev.:** | DC 29 |
+| \rowcolor{gray!20}**Activator:** | proximity (5m) |
+| **Reset:** | none |
+| \rowcolor{gray!20}**Effect:** | Random teleport to trap room. Will DC 20 or confused 1d4 rounds. |
+| \rowcolor{gray!20}**CR:** 11 | **Poisoned Pit** |
+| **Type:** | mechanical |
+| \rowcolor{gray!20}**Survival:** | DC 25 |
+| **Dis. Dev.:** | DC 20 |
+| \rowcolor{gray!20}**Activator:** | position |
+| **Reset:** | manual |
+| \rowcolor{gray!20}**Effect:** | Pit 6mx3m, 15 m deep + spikes (3 melee attacks +15 per target. 1d6+5 damage + poison 2d6 damage) |
+| \rowcolor{gray!20}**CR:** 13 | **Lightning Gallery** |
+| **Type:** | magical |
+| \rowcolor{gray!20}**Survival:** | DC 29 |
 | **Dis. Dev.:** | DC 29/5 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | like the spell Chain Lightning. DC 22. |
-
-**Inferno of Fire**
-
-| **CR:** | 15 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | like the spell Chain Lightning. DC 22. |
+| \rowcolor{gray!20}**CR:** 8 | **Flame Jet** |
 | **Type:** | magical |
-| **Survival:** | DC 31 |
+| \rowcolor{gray!20}**Survival:** | DC 28 |
+| **Dis. Dev.:** | DC 24 |
+| \rowcolor{gray!20}**Activator:** | tripwire |
+| **Reset:** | repairable |
+| \rowcolor{gray!20}**Effect:** | 9m cone of fire. 5d6 fire damage. Reflex DC 16 for half. |
+| \rowcolor{gray!20}**CR:** 15 | **Inferno of Fire** |
+| **Type:** | magical |
+| \rowcolor{gray!20}**Survival:** | DC 31 |
 | **Dis. Dev.:** | DC 31/6 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | 60 fire damage. Reflex ST DC 23 to halve. |
-
-**Destruction**
-
-| **CR:** | 16 |
-| --- | --- |
+| \rowcolor{gray!20}**Effect:** | 60 fire damage. Reflex ST DC 23 to halve. |
+| \rowcolor{gray!20}**CR:** 16 | **Destruction** |
 | **Type:** | N/A |
-| **Survival:** | DC 34 |
+| \rowcolor{gray!20}**Survival:** | DC 34 |
 | **Dis. Dev.:** | DC 34/6 |
-| **Activator:** | proximity (Alarm) |
+| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| **Effect:** | like the spell Disintegration with 1 Magic Critical. DC 24 |
+| \rowcolor{gray!20}**Effect:** | like the spell Disintegration with 1 Magic Critical. DC 24 |
 
-**Meteor Shower**
-
-| **CR:** | 19 |
-| --- | --- |
+| \rowcolor{gray!20}**CR:** 19 | **Meteor Shower** |
 | **Type:** | magical |
-| **Survival:** | DC 34 |
+| \rowcolor{gray!20}**Survival:** | DC 34 |
 | **Dis. Dev.:** | DC 34/6 |
-| **Activator:** | visual |
+| \rowcolor{gray!20}**Activator:** | visual |
 | **Reset:** | none |
-| **Effect:** | like the spell Meteor Swarm. DC 28 |
+| \rowcolor{gray!20}**Effect:** | like the spell Meteor Swarm. DC 28 |
 
 >> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Narrator from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
 
@@ -16200,31 +16118,31 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 
 	
 
-| **Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
+| \rowcolor{gray!20}**Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
 | --- | --- | --- | --- | --- | --- |
 | Red Mixture | F | - | 13 | -1d6 AR/ST for 10 minutes | 10 |
-| Purple Shrew Fat | C | 1 r | 13 | 2d12 Hit Points | 15 |
+| \rowcolor{gray!20}Purple Shrew Fat | C | 1 r | 13 | 2d12 Hit Points | 15 |
 | Dennar Kernel | I | 1 r | 13 | -1d2 Strength, for 3 days | 15 |
-| Ythis Juice | I | 1 T | 14 | -1d2 Intelligence, for 1 day | 20 |
+| \rowcolor{gray!20}Ythis Juice | I | 1 T | 14 | -1d2 Intelligence, for 1 day | 20 |
 | Purple Concentrate | F | I | 15 | 2d6 Hit Points | 15 |
 | Fermented Lucos Slime | F | I | 15 | 1d8 Hit Points | 25 |
-| Yellow Bark Ash | F | 6 r | 15 | Unconscious for 1d3 hours | 25 |
+| \rowcolor{gray!20}Yellow Bark Ash | F | 6 r | 15 | Unconscious for 1d3 hours | 25 |
 | Omro Rose Pollen | I | I | 15 | -1d3 Constitution and Dexterity, for 1 hour | 25 |
-| Ragmor Perfume | R | I | 16 | -1d3 Charisma, for 1 day | 30 |
+| \rowcolor{gray!20}Ragmor Perfume | R | I | 16 | -1d3 Charisma, for 1 day | 30 |
 | Daraka's Fingers | F | I | 17 | -1d6 Strength, for 1 hour | 35 |
-| Blue Frost | F | I | 18 | 3d6 Hit Points from cold | 25 |
+| \rowcolor{gray!20}Blue Frost | F | I | 18 | 3d6 Hit Points from cold | 25 |
 | Barsar's Purple Berry | I | 1 r | 18 | Unable to commit violence for 3d8 hours | 40 |
-| Curna Fumes | R | I | 18 | -1d3 Wisdom | 40 |
+| \rowcolor{gray!20}Curna Fumes | R | I | 18 | -1d3 Wisdom | 40 |
 | Mucot White Flake | C | I | 20 | Sleeps for 2d12 hours | 20 |
-| Kreex's Tongue | F | I | 20 | The wound bleeds. +1 bleeding damage. 1 use in 24 hours. | 50 |
+| \rowcolor{gray!20}Kreex's Tongue | F | I | 20 | The wound bleeds. +1 bleeding damage. 1 use in 24 hours. | 50 |
 | Yellow Moss | I | 1 r | 20 | the creature gains one size. -2 Int and Wis. Duration 10 minutes | 50 |
-| Nabar Oil | R-F | I | 20 | Confused for 2d6 rounds | 50 |
+| \rowcolor{gray!20}Nabar Oil | R-F | I | 20 | Confused for 2d6 rounds | 50 |
 | Ottalm Poison | F | I | 20 | Death or -1d2 permanent Constitution | 50 |
-| Blue Ditch Berries | I | 1 T | 21 | -1d3 Intelligence and Wisdom for 6 hours | 55 |
+| \rowcolor{gray!20}Blue Ditch Berries | I | 1 T | 21 | -1d3 Intelligence and Wisdom for 6 hours | 55 |
 | Pink Pointed Grass | I | 1 r | 22 | -1d6 Dexterity, for 1 hour | 60 |
-| Blue Toad Skin | C | 10 r | 22 | Paralyzed for 1d6 turns | 60 |
+| \rowcolor{gray!20}Blue Toad Skin | C | 10 r | 22 | Paralyzed for 1d6 turns | 60 |
 | Purple Shrew Liver | I | 1 h | 25 | 2d6 damage to Wisdom and Intelligence. Permanent | 75 |
-| Blood Serpent Venom | F | I | 25 | Paralysis for 1d6 hours -1d4 Strength points for 7 days | 75 |
+| \rowcolor{gray!20}Blood Serpent Venom | F | I | 25 | Paralysis for 1d6 hours -1d4 Strength points for 7 days | 75 |
 | Thrun's Blood | C | I | 26 | -1d3 Constitution | 80 |
 
 **Application**: **I**(ngestion), **F**(injury), **C**(ontact), **R**(espiration).
@@ -16243,52 +16161,52 @@ p
 		>{}p
 		>{}p
 
-| **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
+| \rowcolor{gray!20}**Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Wickalim | I | 1 h | 15 | Heals 2 Hit Points | 9 | 5 |
-| Darsirion | C | 1 r | 25 | Heals 1d4 Hit Points | 9 | 5 |
+| \rowcolor{gray!20}Darsirion | C | 1 r | 25 | Heals 1d4 Hit Points | 9 | 5 |
 | Harfy | C | I | 12 | -1 to bleeding | 10 | 3 |
-| Barannie | I | 10 r | 15 | Removes nausea | 11 | 3 |
+| \rowcolor{gray!20}Barannie | I | 10 r | 15 | Removes nausea | 11 | 3 |
 | Gisenosa Root Extract | I | 3 T | 15 | Cures cough and cold | 11 | 3 |
-| Klagul | C | 1 T | 20 | Cleans teeth | 11 | 2 |
+| \rowcolor{gray!20}Klagul | C | 1 T | 20 | Cleans teeth | 11 | 2 |
 | Nelthalion | I | I | 15 | Causes vomiting | 11 | 1 |
-| Delrean | C | 1 r | 15 | Repels insects for 1 day | 12 | 2 |
+| \rowcolor{gray!20}Delrean | C | 1 r | 15 | Repels insects for 1 day | 12 | 2 |
 | Urk Egg | I | 1 T | 12 | 1 day of food | 12 | 1 |
-| Delrean Plus | I | 1 r | 18 | Repels insects for 3 days | 13 | 5 |
+| \rowcolor{gray!20}Delrean Plus | I | 1 r | 18 | Repels insects for 3 days | 13 | 5 |
 | Aklent Bark | I | 1 T | 10 | The bark chewed for at least 10 rounds grants for the next 24 hours a +1 Saving Throw vs Poison | 13 | 1 |
-| White Moss Yeast | I | 10 r | 12 | Baked goods using this yeast cause uncontrollable and incredibly smelly meteorism for 12 hours | 14 | 1 |
+| \rowcolor{gray!20}White Moss Yeast | I | 10 r | 12 | Baked goods using this yeast cause uncontrollable and incredibly smelly meteorism for 12 hours | 14 | 1 |
 | Harfindar | I | 1 T | 15 | Causes abortion | 14 | 3 |
-| Gusperboon | C | 1 r | 20 | The skin becomes chameleon-like, granting a +1d6 to Stealth checks | 15 | 8 |
+| \rowcolor{gray!20}Gusperboon | C | 1 r | 20 | The skin becomes chameleon-like, granting a +1d6 to Stealth checks | 15 | 8 |
 | Ljust Berries | I | 1 r | 16 | Taken in the evening recovers double the HP, minimum 4 | 15 | 10 |
-| Mirenna | I | 1 r | 20 | Heals 5 Hit Points | 16 | 30 |
+| \rowcolor{gray!20}Mirenna | I | 1 r | 20 | Heals 5 Hit Points | 16 | 30 |
 | Klynkyx | C | 1 h | 15 | Makes all hair fall out for 1d6+4 days | 16 | 4 |
-| Mixture 31 | I | 1 T | 20 | The mount is extremely resilient. +4 hours of galloping per day | 17 | 15 |
+| \rowcolor{gray!20}Mixture 31 | I | 1 T | 20 | The mount is extremely resilient. +4 hours of galloping per day | 17 | 15 |
 | Culcoa | C | 1 r | 16 | Recover 2d6 from fire damage | 18 | 8 |
-| Jojopo | C | 1 r | 15 | Cold Resistance for 1 hour | 18 | 45 |
+| \rowcolor{gray!20}Jojopo | C | 1 r | 15 | Cold Resistance for 1 hour | 18 | 45 |
 | Silea | C | 5 r | 15 | Heals 1d6+3 Hit Points | 18 | 50 |
-| Draaf | C | 1 r | 20 | Heals 1d8 Hit Points | 19 | 50 |
+| \rowcolor{gray!20}Draaf | C | 1 r | 20 | Heals 1d8 Hit Points | 19 | 50 |
 | Illa Berry Extract | I | 1 r | 15 | +2 Initiative, +2 Dexterity, -1d6 Will Saving Throw, for 1 minute | 19 | 15 |
-| Lisbeth's Petals | I | 1 T | 15 | +2 Intelligence, -2 Dexterity for 10 minutes | 19 | 20 |
+| \rowcolor{gray!20}Lisbeth's Petals | I | 1 T | 15 | +2 Intelligence, -2 Dexterity for 10 minutes | 19 | 20 |
 | Kelventare | I | 2 r | 28 | Recover 2d6 Hit Points | 20 | 100 |
-| Garioe | I | 1 r | 25 | Heals 2d6 Hit Points | 20 | 95 |
+| \rowcolor{gray!20}Garioe | I | 1 r | 25 | Heals 2d6 Hit Points | 20 | 95 |
 | Yajeth | I | 1 T | 20 | Heals 2d8 Hit Points | 20 | 100 |
-| Dagmather Bark | R | 1 r | 25 | Removes one level of Fatigue | 21 | 15 |
+| \rowcolor{gray!20}Dagmather Bark | R | 1 r | 25 | Removes one level of Fatigue | 21 | 15 |
 | Kathaus Root | R | 1 r | 20 | +2 Strength and Dexterity for 1 hour | 21 | 100 |
-| Klandor | I | I | 15 | Removes paralysis. Increases fatigue level by 1 | 22 | 18 |
+| \rowcolor{gray!20}Klandor | I | I | 15 | Removes paralysis. Increases fatigue level by 1 | 22 | 18 |
 | Eldrin'tail | I | 1 r | 15 | Grants a new Saving Throw on Poisons | 22 | 18 |
-| Attarna | I | 1 T | 20 | Grants a new Saving Throw for Diseases with a +1d6 | 22 | 50 |
+| \rowcolor{gray!20}Attarna | I | 1 T | 20 | Grants a new Saving Throw for Diseases with a +1d6 | 22 | 50 |
 | Xabax Red Tongue | C | 1 T | 20 | Heals 2d6 Hit Points but if there is disease or poison it attempts removal causing 2d6 HP of damage | 23 | 13 |
-| Arduur | I | 1 r | 25 | Removes Poisons | 24 | 75 |
+| \rowcolor{gray!20}Arduur | I | 1 r | 25 | Removes Poisons | 24 | 75 |
 | Arksun | C | 1 T | 25 | Heals 1d6 HP per Turn for 3 turns | 24 | 75 |
-| Uscaboo | R | 1 T | 25 | Removes blindness | 25 | 125 |
+| \rowcolor{gray!20}Uscaboo | R | 1 T | 25 | Removes blindness | 25 | 125 |
 | Melandrir | I | 1 r | 15 | Grants a new Saving Throw for Diseases with +4 | 26 | 100 |
-| Gylvert | I | 10 r | 25 | Grants water breathing for 4 hours | 27 | 3 |
+| \rowcolor{gray!20}Gylvert | I | 10 r | 25 | Grants water breathing for 4 hours | 27 | 3 |
 | Callynthine | C | 1 h | 24 | Reinforces fractures, heals 2d8+8 HP | 28 | 200 |
-| Gelfnus | I | 5 r | 28 | Heals 3d8+3 Hit Points, gain Fatigued | 28 | 150 |
+| \rowcolor{gray!20}Gelfnus | I | 5 r | 28 | Heals 3d8+3 Hit Points, gain Fatigued | 28 | 150 |
 | Green Rose Pollen | R | 3 T | 25 | Recover 2d4 Intelligence and Wisdom damage | 29 | 350 |
-| Silver Moss | I | I | 25 | Removes magical Diseases | 30 | 250 |
+| \rowcolor{gray!20}Silver Moss | I | I | 25 | Removes magical Diseases | 30 | 250 |
 | Nazamuse | I | I | 30 | Removes natural Poisons and Diseases | 32 | 175 |
-| Ljust's Kiss | C | 1 r | 35 | Heals 100 Hit Points | 34 | 500 |
+| \rowcolor{gray!20}Ljust's Kiss | C | 1 r | 35 | Heals 100 Hit Points | 34 | 500 |
 | 100 Herbs Extract | I | I | 24 | Removes Blindness, Deafness, Paralysis, Poison | 35 | 150 |
 
 ### Notes on Poisons and Potions
@@ -16403,31 +16321,31 @@ The onset is always immediate, the duration for healing is immediate, for others
 
 **Table: of generic potions. Cost in Gold Coins.**
 
-| **Potion Name** | **Effect** | **Cost** | **Appl.** |
+| \rowcolor{gray!20}**Potion Name** | **Effect** | **Cost** | **Appl.** |
 | --- | --- | --- | --- |
 | Cure | heals 1d8+1 Hit Points | 50 | I |
-| Enhanced Cure | heals 3d8+3 Hit Points | 125 | I |
+| \rowcolor{gray!20}Enhanced Cure | heals 3d8+3 Hit Points | 125 | I |
 | Greater Cure | heals 3d10+15 Hit Points | 300 | I |
-| Weakening | -2 AR. DC 15 Fortitude saving throw to negate effects | 35 | F |
+| \rowcolor{gray!20}Weakening | -2 AR. DC 15 Fortitude saving throw to negate effects | 35 | F |
 | Enhanced Weakening | -1d6 AR. DC 18 Fortitude saving throw to negate effects | 50 | F/I |
-| Poison | 2d6+2 damage. DC 15 Fortitude ST to halve | 30 | I/F |
+| \rowcolor{gray!20}Poison | 2d6+2 damage. DC 15 Fortitude ST to halve | 30 | I/F |
 | Enhanced Poison | 2d8+4 damage. DC 18 Fortitude ST to halve | 50 | F |
-| Greater Poison | 4d10+8 damage. DC 24 Fortitude ST to halve | 125 | F |
+| \rowcolor{gray!20}Greater Poison | 4d10+8 damage. DC 24 Fortitude ST to halve | 125 | F |
 | Remove Poison | grants a new ST with +1d6 | 75 | I |
-| Generic Potion* | see Creating Potions (page ) | Lv*Lv*50 | I |
+| \rowcolor{gray!20}Generic Potion* | see Creating Potions (page ) | Lv*Lv*50 | I |
 
 ## Optional - Drugs
 
-| **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
+| \rowcolor{gray!20}**Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fermented Luside Leaves | I | 1 T | 17 | +4 Charisma and Intelligence for 1d4 hours | 17 | 5 gc |
-| Ferpillon | I | 1 r | 20 | Makes you sleep for 24 hours | 15 | 50 gc |
+| \rowcolor{gray!20}Ferpillon | I | 1 r | 20 | Makes you sleep for 24 hours | 15 | 50 gc |
 | Grey Ointment | I | 1 r | 24 | Contrast with DC 25 effect from Enchantment Magic List 5 | 19 | 80 gc |
-| Arpasur Ash | R | 1 r | 20 | Removes 2 levels of fatigue | 16 | 10 gc |
+| \rowcolor{gray!20}Arpasur Ash | R | 1 r | 20 | Removes 2 levels of fatigue | 16 | 10 gc |
 | Melzaa Alcoholic Extract | I | 1 r | 20 | +2 Str, +2 Dex, -2 Wis. For 1d4 hours | 16 | 25 gc |
-| Inut Scented Essence | R | I | 15 | +4 Dexterity for 1d8 hours | 16 | 15 gc |
+| \rowcolor{gray!20}Inut Scented Essence | R | I | 15 | +4 Dexterity for 1d8 hours | 16 | 15 gc |
 | Julnnaus Pollen | R | I | 20 | +3 Constitution for 2 hours | 16 | 25 gc |
-| Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
+| \rowcolor{gray!20}Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
 
 **The use of drugs is completely optional. It is the Narrator who decides their presence and availability based on the sensitivity of the players**.
 
@@ -16513,20 +16431,20 @@ Only in non-combat situations does running triple movement, i.e., when using Loc
 
 This table shows the base values of land movement in non-combat situations.
 
-| **Movement type** | **Movement** |  | |
+| \rowcolor{gray!20}**Movement type** | **Movement** |  | |
 | --- | --- | --- |
 | \cmidrule(lr) | **6m** | **9m** | **12m** |
 | **Movement (Tactical)** |  |  | |
-| Walking | 6m | 9m | 12m |
+| \rowcolor{gray!20}Walking | 6m | 9m | 12m |
 | Running (x2) | 12m | 18m | 24m |
 | **One minute (Local)** |  |  | |
-| Walking | 36m | 54m | 72m |
+| \rowcolor{gray!20}Walking | 36m | 54m | 72m |
 | Running (x3) | 108m | 162m | 216m |
 | **One hour (Overland)** |  |  | |
-| Walking | 3km | 4km | 6km |
+| \rowcolor{gray!20}Walking | 3km | 4km | 6km |
 | Running (x3) | 9km | 12km | 18km |
 | **One day (Overland)** |  |  | |
-| Walking | 24km | 32km | 54km |
+| \rowcolor{gray!20}Walking | 24km | 32km | 54km |
 
 ## Tactical Movement
 
@@ -16643,24 +16561,24 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 
 ## Table: Mounts and Vehicles
 
-| **Mount or Vehicle** | **Transported Encumbrance** | **Movement** | **Movement** |
+| \rowcolor{gray!20}**Mount or Vehicle** | **Transported Encumbrance** | **Movement** | **Movement** |
 | --- | --- | --- | --- |
 | **(CdC)** | **Per hour** | **Per day** |
-| Galloping Dog | 30 | 6km | 36km |
+| \rowcolor{gray!20}Galloping Dog | 30 | 6km | 36km |
 | Galloping Saurovall | 60 | 8km | 48km |
-| War Saurovall | 80 | 7km | 42km |
+| \rowcolor{gray!20}War Saurovall | 80 | 7km | 42km |
 | Pony Saurovall | 30 | 5km | 30km |
-| Draft Saurovall | 70 | 5km | 30km |
+| \rowcolor{gray!20}Draft Saurovall | 70 | 5km | 30km |
 | Camel | 50 | 8km | 48km |
-| Elephant | 160 | 6km | 36km |
+| \rowcolor{gray!20}Elephant | 160 | 6km | 36km |
 | **Vessel** |  |  | |
-| Raft or Barge (pole or towing) | 225 | 0.75km | 7.5km |
+| \rowcolor{gray!20}Raft or Barge (pole or towing) | 225 | 0.75km | 7.5km |
 | Rowing Barge** | 425 | 1.5km | 15km |
-| Rowing Boat** | 200 | 2.25km | 22.5km |
+| \rowcolor{gray!20}Rowing Boat** | 200 | 2.25km | 22.5km |
 | Sailing Ship | 800 | 3km | 72km |
-| Warship (sails and oars) | 2200 | 3.5km | 90km |
+| \rowcolor{gray!20}Warship (sails and oars) | 2200 | 3.5km | 90km |
 | Longship (sails and oars) | 600 | 5km | 108km |
-| Galley (oars and sails) | 3300 | 6km | 144km |
+| \rowcolor{gray!20}Galley (oars and sails) | 3300 | 6km | 144km |
 
 A mount can carry a creature on its back only if it is of a size smaller than its own. The daily movement is intended for 6 hours of riding, beyond these hours the mount becomes exhausted requiring a full day of rest.
 
@@ -16719,21 +16637,21 @@ In case more creatures push or pull a cart, consider as CdC the highest one and 
 
 The **Table: CdC transported based on size** shows the Load Capacity based on size. The values of Strength and Constitution must be added to the value given by size.
 
-| **Size** | **Enc.** | **Size** | **Enc.** |
+| \rowcolor{gray!20}**Size** | **Enc.** | **Size** | **Enc.** |
 | --- | --- | --- | --- |
 | Fine | 1/4 | Large | 24 |
-| Diminutive | 1 | Huge | 36 |
+| \rowcolor{gray!20}Diminutive | 1 | Huge | 36 |
 | Tiny | 3 | Gargantuan | 49 |
-| Small | 6 | Colossal | 77 |
+| \rowcolor{gray!20}Small | 6 | Colossal | 77 |
 | Medium | 12 |  | Creatures with 4 or more legs can carry larger loads. |
 
 **Table: transport modifiers for creatures with multiple legs**
 
-| **Creature Legs** | **CdC** |
+| \rowcolor{gray!20}**Creature Legs** | **CdC** |
 | 4 legs | x2 |
-| 6 legs | x2.5 |
+| \rowcolor{gray!20}6 legs | x2.5 |
 | 8 legs | x3 |
-| 12 legs | x4 |
+| \rowcolor{gray!20}12 legs | x4 |
 | every other 2 legs | +0.5 |
 
 These Tables are to be used for unusual animals not indicated or comparable to those in the Table: Mounts and Vehicles, page .
@@ -16834,17 +16752,17 @@ Whenever the character or the group:
 
 **Table: Experience Points per Level**
 
-| **Level** | **XP** | **Level** | **XP** |
+| \rowcolor{gray!20}**Level** | **XP** | **Level** | **XP** |
 | 1 | 0 | 11 | 300000 |
-| 2 | 2000 | 12 | 390000 |
+| \rowcolor{gray!20}2 | 2000 | 12 | 390000 |
 | 3 | 8000 | 13 | 490000 |
-| 4 | 15000 | 14 | 600000 |
+| \rowcolor{gray!20}4 | 15000 | 14 | 600000 |
 | 5 | 35000 | 15 | 740000 |
-| 6 | 60000 | 16 | 890000 |
+| \rowcolor{gray!20}6 | 60000 | 16 | 890000 |
 | 7 | 90000 | 17 | 1050000 |
-| 8 | 120000 | 18 | 1250000 |
+| \rowcolor{gray!20}8 | 120000 | 18 | 1250000 |
 | 9 | 170000 | 19 | 1470000 |
-| 10 | 220000 | 20 | 1730000 |
+| \rowcolor{gray!20}10 | 220000 | 20 | 1730000 |
 | + | prev*0.2 | - | - |
 
 I also suggest evaluating these actions to reward the player's commitment
@@ -16902,17 +16820,17 @@ Note that this reference guide to creating an encounter assumes a group of four 
 
 **Table: Determining Encounters**
 
-{@{}ll@ % @{} removes extra padding
+{\linewidth} % @{} removes extra padding
 	
 
-| **difficulty** | **Challenge Rating** |
+| \rowcolor{gray!20}**difficulty** | **Challenge Rating** |
 | --- | --- |
 | Easy | APL |
-| Medium | APL +1 |
+| \rowcolor{gray!20}Medium | APL +1 |
 | High | APL +2 |
-| Extraordinary | APL +3 |
+| \rowcolor{gray!20}Extraordinary | APL +3 |
 | Deadly | APL +4 |
-| Epic | APL +6 |
+| \rowcolor{gray!20}Epic | APL +6 |
 
 **Determine the Challenge Rating**: The Challenge Rating (CR) is a convenience number used to indicate the relative risks presented by a monster, a trap, a hazard, or another encounter: the higher the Challenge Rating, the more dangerous the encounter. Refer to the Table: Determining Encounters to determine the Challenge Rating that your group should face, based on the difficulty of the challenge you want and the APL.
 
@@ -16940,14 +16858,12 @@ Starting from an established Challenge Rating (9), follow this table to establis
 
 **Table: Challenge Rating Weight for encounter calculation**
 
-	
-
-| **Factor** | **\% Weight** | **Factor** | **\% Weight** |
+| \rowcolor{gray!20}**Factor** | **\% Weight** | **Factor** | **\% Weight** |
 | --- | --- | --- | --- |
 | -6/-7 | 5 | -2 | 65 |
-| -5 | 10 | -1 | 80 |
+| \rowcolor{gray!20}-5 | 10 | -1 | 80 |
 | -4 | 20 | +0 | 100 |
-| -3 | 45 |  | |
+| \rowcolor{gray!20}-3 | 45 |  | |
 
 **Factor** means the difference between the monster's CR relative to the chosen Challenge Rating. The Weight is the relative \% that the monster brings to reach the goal of 100%.
 
@@ -17033,17 +16949,17 @@ Characters advance in level by defeating monsters, overcoming challenges, having
 
 **Table: Character Wealth by Level**
 
-| **Level** | **Wealth (gp)** | **Level** | **Wealth (gp)** |
+| \rowcolor{gray!20}**Level** | **Wealth (gp)** | **Level** | **Wealth (gp)** |
 | 1 | 100 | 11 | 13900 |
-| 2 | 160 | 12 | 19900 |
+| \rowcolor{gray!20}2 | 160 | 12 | 19900 |
 | 3 | 220 | 13 | 25900 |
-| 4 | 340 | 14 | 37900 |
+| \rowcolor{gray!20}4 | 340 | 14 | 37900 |
 | 5 | 530 | 15 | 49800 |
-| 6 | 2030 | 16 | 67700 |
+| \rowcolor{gray!20}6 | 2030 | 16 | 67700 |
 | 7 | 3660 | 17 | 85700 |
-| 8 | 5780 | 18 | 142000 |
+| \rowcolor{gray!20}8 | 5780 | 18 | 142000 |
 | 9 | 8100 | 19 | 253000 |
-| 10 | 11000 | 20 | 365000 |
+| \rowcolor{gray!20}10 | 11000 | 20 | 365000 |
 
 The **Table: Character Wealth by Level** indicates the equivalent amount of gold pieces in treasures and items that each character should have at a specific level. Note that this table is based on a standard game model.
 
@@ -17386,37 +17302,37 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 	
 | **Treasures from lairs or hideouts of creatures** |  |  |  |  |  |  | |
 | --- | --- | --- | --- | --- | --- | --- |
-| TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
+| \rowcolor{gray!20}TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 any, 30\% |
-| B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armor or weapons, 10\% |
+| \rowcolor{gray!20}B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armor or weapons, 10\% |
 | C | 1d10, 20\% | 1d6, 30\% | - | 1d6 10\% | 1d6, 25\% | 1d3, 20\% | 2 any, 10\% |
-| D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 any, 15\%, + 1 potion |
+| \rowcolor{gray!20}D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 any, 15\%, + 1 potion |
 | E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 any, 25\%, +1 scroll |
-| F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 any, non-weapons 30\% |
+| \rowcolor{gray!20}F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 any, non-weapons 30\% |
 | G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 any 35\% |
-| H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
+| \rowcolor{gray!20}H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 any 15\% |
 | {\textwidth}{>{\bfseries}l|> |
 
 | **Individual Treasures, small lairs, backpacks and bags** |  |  |  |  |  |  | |
-| TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
+| \rowcolor{gray!20}TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | J | 3d8 | - | - | - | - | - | - |
-| K | - | 3d6 | - | - | - | - | - |
+| \rowcolor{gray!20}K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
-| M | - | - | 2d4 | - | - | - | - |
+| \rowcolor{gray!20}M | - | - | 2d4 | - | - | - | - |
 | N | - | - | - | 1d6 | - | - | - |
-| O | 1d4*10 | 1d3*10 | - | - | - | - | - |
+| \rowcolor{gray!20}O | 1d4*10 | 1d3*10 | - | - | - | - | - |
 | P | - | 1d6*10 | - | 3d6 | - | - | - |
-| Q | - | - | - | - | 1d4 | - | - |
+| \rowcolor{gray!20}Q | - | - | - | - | 1d4 | - | - |
 | R | - | - | 2d10 | 1d6*10 | 2d4 | 1d3 | - |
-| S | - | - | - | - | - | - | 1d8 potions |
+| \rowcolor{gray!20}S | - | - | - | - | - | - | 1d8 potions |
 | T | - | - | - | - | - | - | 1d4 scrolls |
-| U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 any, 70\% |
+| \rowcolor{gray!20}U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 any, 70\% |
 | V | - | - | - | - | - | - | 2 any |
-| W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 any, 60\% |
+| \rowcolor{gray!20}W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 any, 60\% |
 | X | - | - | - | - | - | - | 2 potions |
-| Y | - | - | 1d6*100 | - | - | - | - |
+| \rowcolor{gray!20}Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 any, 50\% |
 
 When the treasure is indicated by multiple letters, the creature possesses both indicated treasures. Some particularly \emph creatures might have the same treasure multiple times (2 H, i.e., 2 times treasure H).
@@ -17438,453 +17354,556 @@ Yet finding a dragon-slaying sword at the first level, rest assured it will gene
 
 When Gems or Jewelry are found, the Narrator must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
 
-| **4d6** | **Gems** | **4d6** | **Gems** |
+| \rowcolor{gray!20}**3d6** | **Gem (gp)** | **Jewelry (dp)** |
+| 3 | 10 | 1d4*10 |
+| \rowcolor{gray!20}4-5 | 25 | 2d4*10 |
+| 6-8 | 50 | 1d4*100 |
+| \rowcolor{gray!20}9-12 | 75 | 2d4*100 |
+| 13-15 | 100 | 3d4*100 |
+| \rowcolor{gray!20}16 | 200 | 3d6*100 |
+| 17 | 400 | 4d6*100 |
+| \rowcolor{gray!20}18 | 800 | 5d6*100 |
+
+**Table: Types of Gems, ordered by value**
+
+| \rowcolor{gray!20}**4d6** | **Gems** | **4d6** | **Gems** |
 | 4 | Quartz | 16 | Topaz |
-| 5-6 | Amber | 17 | Turquoise |
+| \rowcolor{gray!20}5-6 | Amber | 17 | Turquoise |
 | 7-8 | Zircon | 18 | Sapphire |
-| 9-10 | Amethyst | 19 | Aquamarine |
+| \rowcolor{gray!20}9-10 | Amethyst | 19 | Aquamarine |
 | 11 | Coral | 20 | Emerald |
-| 12 | Lapis Lazuli | 21 | Pearl |
+| \rowcolor{gray!20}12 | Lapis Lazuli | 21 | Pearl |
 | 13 | Jade | 22 | Ruby |
-| 14 | Peridot | 23 | Diamond |
+| \rowcolor{gray!20}14 | Peridot | 23 | Diamond |
 | 15 | Garnet | 24 | Legendary Stone |
 
 **Table: Types of Jewelry**
 
-| **4d6** | **Magic bonus** |
+| \rowcolor{gray!20}**d100** | **Jewelry** | **d100** | **Jewelry** |
+| 1-5 | Anklet | 6-10 | Earring |
+| \rowcolor{gray!20}11-15 | Belt | 16-20 | Cup |
+| 21-25 | Pendant | 26-30 | Chalice |
+| \rowcolor{gray!20}31-35 | Bracelet | 36-40 | Knife |
+| 41-45 | Brooch | 46-50 | Letter opener |
+| \rowcolor{gray!20}51-55 | Buckle | 56-60 | Medallion |
+| 61-64 | Chain | 65-68 | Medal |
+| \rowcolor{gray!20}69-72 | Choker | 73-76 | Necklace |
+| 77-80 | Tiara | 90 | Plate |
+| \rowcolor{gray!20}81-84 | Diadem | 85-88 | Egg |
+| 89-92 | Clasp | 96 | Scepter |
+| \rowcolor{gray!20}52 | Crown | 93-96 | Statuette |
+| 97-100 | Chest | 100 | Globe |
+
+### Special Abilities and Cursed Items
+
+When in *Magic Bonus* there is written **reroll + Special Ability Weapons/Armor Type...** it means you must reroll the 1d100, ignoring other results above 80 and keep the magic bonus obtained, then you can roll on the resulting *Table Special Ability Weapons Type...*.
+
+When a Weapon, Armor, or Shield is indicated as **Cursed**, the penalty to hit and damage may be indicated. The item can be abandoned without major problems.
+
+When instead it is marked **Weapon**, **Armor**, **Rod**, **Staff**, **Ring**... **Cursed** (e.g., *Cursed Weapon*) it is necessary to roll on the table and verify if the new indicated object has a cursed version. If it is available, select it, otherwise the object behaves like a cursed object -2 (attack/damage or Defense) or non-functioning.
+
+**Table: Magic Item Type**
+
+| \rowcolor{gray!20}**3d6** | **Magic item type** |
+| 1-20 | Amulets, Necklaces, Jewelry |
+| \rowcolor{gray!20}21-40 | Belts, Helmets, Boots and Gloves |
+| 41-60 | Armor and Shields |
+| \rowcolor{gray!20}61-80 | Magic Weapons |
+| 81-100 | Potions, Filters and Oils |
+| \rowcolor{gray!20}14 | Wands, Staves and Rods |
+| 15 | Rings |
+| \rowcolor{gray!20}16 | Hats, Cloaks, Goggles, Robes |
+| 17 | Manuals, Tomes and Scrolls |
+| \rowcolor{gray!20}18 | Various Magic Items |
+
+### Weapons
+
+**Table: Weapon Generation**
+
+| \rowcolor{gray!20}**4d6** | **Magic bonus** |
 | 4-6 | -2 Cursed |
-| 7-11 | +1 |
+| \rowcolor{gray!20}7-11 | +1 |
 | 12-16 | -1 Cursed |
-| 17-21 | +2 |
+| \rowcolor{gray!20}17-21 | +2 |
 | 22 | +3 |
-| 23 | +4 |
+| \rowcolor{gray!20}23 | +4 |
 | 24 | +5 |
 
-| **4d6** | **Magic bonus** |
+| \rowcolor{gray!20}**1d100** | **Special Ability Weapons Type 1** |
+| 1-15 | Spell Storing |
+| \rowcolor{gray!20}16-30 | Weapon Bane |
+| 31-44 | Giant Destroyer |
+| \rowcolor{gray!20}45-58 | Light Energy |
+| 59-72 | Thief of Nine Lives |
+| \rowcolor{gray!20}73-86 | Ghost Touch |
+| 87-100 | Weapon Speed |
+
+**Table: Special Ability Weapons Type 2**
+
+| \rowcolor{gray!20}**1d100** | **Special Ability Weapons Type 2** |
+| 1-25 | of pain |
+| \rowcolor{gray!20}26-50 | Mace of Punishment |
+| 51-75 | Greater Weapon Ring |
+| \rowcolor{gray!20}76-100 | Weapon Ring |
+
+**Table: Special Ability Weapons Type 3**
+
+| \rowcolor{gray!20}**1d100** | **Special Ability Weapons Type 3** |
+| 1-17 | Dragon Slayer |
+| \rowcolor{gray!20}18-34 | Giant Slayer |
+| 35-51 | Fire Extinguisher |
+| \rowcolor{gray!20}52-68 | Shapeshifter |
+| 69-84 | Ghost Ammunition |
+| \rowcolor{gray!20}85-100 | Infinite Ammunition |
+
+### Armor and Shields
+
+**Table: Armor/Shield Generation**
+
+| \rowcolor{gray!20}**4d6** | **Magic bonus** |
 | 4-6 | -2 Cursed |
-| 7-11 | +1 |
+| \rowcolor{gray!20}7-11 | +1 |
 | 12-16 | -1 Cursed |
-| 17-21 | +2 |
+| \rowcolor{gray!20}17-21 | +2 |
 | 22 | +3 |
-| 23 | +4 |
+| \rowcolor{gray!20}23 | +4 |
 | 24 | +5 |
 
 **Table: Special Ability Armor/Shields Type 1**
 
-| **1d100** | **Special Ability Armor/Shields Type 1** |
+| \rowcolor{gray!20}**1d100** | **Special Ability Armor/Shields Type 1** |
 | 11-15 | Archer's Bracers |
-| 16-20 | Bracers of Defense |
+| \rowcolor{gray!20}16-20 | Bracers of Defense |
 | 21-25 | Bracers of Greater Defense |
-| 36-40 | Defense from Spells |
+| \rowcolor{gray!20}36-40 | Defense from Spells |
 | 51-55 | Poison Resistance |
-| 56-60 | Energy Resistance |
+| \rowcolor{gray!20}56-60 | Energy Resistance |
 | 61-65 | Superior Energy Resistance |
-| 71-75 | Dragon Scales |
+| \rowcolor{gray!20}71-75 | Dragon Scales |
 | 76-80 | Animated Shield |
-| 81-85 | Shield of Projectile Attraction |
+| \rowcolor{gray!20}81-85 | Shield of Projectile Attraction |
 | 86-90 | Dragon's Breath |
-| 91-95 | Ghost Touch |
+| \rowcolor{gray!20}91-95 | Ghost Touch |
 | 96-100 | Cursed |
 
 **Table: Special Ability Armor/Shields Type 2**
 
-| **1d100** | **Special Ability Armor/Shields Type 2** |
+| \rowcolor{gray!20}**1d100** | **Special Ability Armor/Shields Type 2** |
 | 1-5 | Cursed |
-| 6-10 | Adamantine |
+| \rowcolor{gray!20}6-10 | Adamantine |
 | 31-35 | Demonic Armor |
-| 46-50 | Ethereal Form |
+| \rowcolor{gray!20}46-50 | Ethereal Form |
 | 61-65 | Mithral |
-| 66-70 | Weapon Shadow |
+| \rowcolor{gray!20}66-70 | Weapon Shadow |
 | 71-80 | Titanic Armor |
-| 81-100 | Cursed |
+| \rowcolor{gray!20}81-100 | Cursed |
 
 ### Amulets, Necklaces and Jewelry
 
-| **1d100** | **Amulets, Necklaces and Jewelry Type 1** |
+| \rowcolor{gray!20}**Item Type** | **1d8** |
+| 1-6 | Amulets, Necklaces and Jewelry Type 1 |
+| 7-8 | Amulets, Necklaces and Jewelry Type 2 |
+
+| \rowcolor{gray!20}**1d100** | **Amulets, Necklaces and Jewelry Type 1** |
 | 1-8 | Anti-poison Amulet |
-| 8-12 | Gangrene Amulet |
+| \rowcolor{gray!20}8-12 | Gangrene Amulet |
 | 12-18 | Healing Amulet |
-| 19-26 | Amulet Against Possession |
+| \rowcolor{gray!20}19-26 | Amulet Against Possession |
 | 27-34 | Amulet of Inevitable Location |
-| 35 | Amulet of the Planes |
+| \rowcolor{gray!20}35 | Amulet of the Planes |
 | 36-42 | Amulet of Protection from Detection and Location |
-| 42-46 | Amulet of Physical Resistance |
+| \rowcolor{gray!20}42-46 | Amulet of Physical Resistance |
 | 47-53 | Circlet of Explosion |
-| 53-60 | Necklace of Adaptation |
+| \rowcolor{gray!20}53-60 | Necklace of Adaptation |
 | 61-70 | Necklace of Strangulation |
-| 71-77 | Necklace of Fireballs |
+| \rowcolor{gray!20}71-77 | Necklace of Fireballs |
 | 78-83 | Rosary Necklace |
-| 84-90 | Scarab of Death |
+| \rowcolor{gray!20}84-90 | Scarab of Death |
 | 91-100 | Scarab of Protection |
 
-| **1d100** | **Amulets, Necklaces and Jewelry Type 2** |
+| \rowcolor{gray!20}**1d100** | **Amulets, Necklaces and Jewelry Type 2** |
 | 1-7 | Elemental Gem |
-| 8-13 | Gem of Brightness |
+| \rowcolor{gray!20}8-13 | Gem of Brightness |
 | 9-16 | Gem of Sight |
-| 17-26 | Monster-attracting Jewel |
+| \rowcolor{gray!20}17-26 | Monster-attracting Jewel |
 | 27-33 | Medallion of Thoughts |
-| 34-41 | Medallion of Feather Fall |
+| \rowcolor{gray!20}34-41 | Medallion of Feather Fall |
 | 42-49 | Pearl of Wisdom |
-| 50-57 | Brooch of Defense |
+| \rowcolor{gray!20}50-57 | Brooch of Defense |
 | 58-60 | Talisman of Pure Good |
-| 61-62 | Talisman of Ultimate Evil |
+| \rowcolor{gray!20}61-62 | Talisman of Ultimate Evil |
 | 63-70 | Talisman of Protection from Poison |
-| 71-80 | Broken talisman |
+| \rowcolor{gray!20}71-80 | Broken talisman |
 | 81-85 | Talisman of the Sphere |
-| 86-100 | Worthless jewel |
+| \rowcolor{gray!20}86-100 | Worthless jewel |
 
 ### Belts, Helmets, Boots and Gloves
 
-| **1d100** | **Belts, Helmets, Boots and Gloves** |
+| \rowcolor{gray!20}**1d100** | **Belts, Helmets, Boots and Gloves** |
 | 1-3 | Belt of Giants |
-| 3-6 | Belt of Dwarves |
+| \rowcolor{gray!20}3-6 | Belt of Dwarves |
 | 6-11 | Helm of Comprehending Languages |
-| 12 | Helm of Brilliance |
+| \rowcolor{gray!20}12 | Helm of Brilliance |
 | 13-17 | Helm of Underwater Movement |
-| 18-22 | Helm of Telepathy |
+| \rowcolor{gray!20}18-22 | Helm of Telepathy |
 | 23-26 | Helm of Teleportation |
-| 27-31 | Gloves of Missile Snaring |
+| \rowcolor{gray!20}27-31 | Gloves of Missile Snaring |
 | 31-35 | Gloves of Orcish Power |
-| 36-41 | Gloves of Swimming and Climbing |
+| \rowcolor{gray!20}36-41 | Gloves of Swimming and Climbing |
 | 41-46 | Gloves of Dexterity |
-| 47-52 | Gauntlets of Fumbling |
+| \rowcolor{gray!20}47-52 | Gauntlets of Fumbling |
 | 53-58 | Slippers of Spider Climbing |
-| 59-63 | Winged Boots |
+| \rowcolor{gray!20}59-63 | Winged Boots |
 | 64-66 | Boots of Running and Jumping |
-| 67-77 | Boots of the Elves |
+| \rowcolor{gray!20}67-77 | Boots of the Elves |
 | 78-83 | Boots of Winter |
-| 84-90 | Boots of Levitation |
+| \rowcolor{gray!20}84-90 | Boots of Levitation |
 | 91-95 | Boots of Speed |
-| 96-100 | Dancing Boots |
+| \rowcolor{gray!20}96-100 | Dancing Boots |
 
 ### Wands, Staves and Rods
 
 Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
-| **1d100** | **Wand** |
+| \rowcolor{gray!20}**Item Type** | **1d8** |
+| 1-4 | Wands |
+| \rowcolor{gray!20}5-7 | Staves |
+| 8 | Rods |
+
+**Table: Wand Generation**
+
+| \rowcolor{gray!20}**1d100** | **Wand** |
 | 1-5 | Metal Detection Wand |
-| 6-10 | Wand of Arcane darts |
+| \rowcolor{gray!20}6-10 | Wand of Arcane darts |
 | 11-15 | Wand of Comfort |
-| 16-20 | Wand of Lightning |
+| \rowcolor{gray!20}16-20 | Wand of Lightning |
 | 21-25 | Wand of Fire |
-| 26-30 | Wand of Ice |
+| \rowcolor{gray!20}26-30 | Wand of Ice |
 | 36-38 | Wand of Enemy Detection |
-| 45-48 | Wand of Secret Door Detection |
+| \rowcolor{gray!20}45-48 | Wand of Secret Door Detection |
 | 46-50 | Wand of Light |
-| 51 | War Mage's Wand |
+| \rowcolor{gray!20}51 | War Mage's Wand |
 | 52 | Wand of Polymorph |
-| 53 | Wand of Wonder |
+| \rowcolor{gray!20}53 | Wand of Wonder |
 | 54 | Wand of Negation |
-| 55-60 | Wand of Fireballs |
+| \rowcolor{gray!20}55-60 | Wand of Fireballs |
 | 61-65 | Wand of Paralysis |
-| 66-70 | Wand of Fear |
+| \rowcolor{gray!20}66-70 | Wand of Fear |
 | 71-75 | Trap Detection Wand |
-| 76-80 | Wand of Secrets |
+| \rowcolor{gray!20}76-80 | Wand of Secrets |
 | 81-85 | Wand of Web |
-| 86-90 | Wand of Binding |
+| \rowcolor{gray!20}86-90 | Wand of Binding |
 | 91-95 | Wand of Assisted Escape |
-| 96-100 | Cursed Wand |
+| \rowcolor{gray!20}96-100 | Cursed Wand |
 
 **Table: Staff Generation**
 
-| **3d6** | **Staff** |
+| \rowcolor{gray!20}**3d6** | **Staff** |
 | 3 | Staff of the Archmage |
-| 4 | Staff of the Woodlands |
+| \rowcolor{gray!20}4 | Staff of the Woodlands |
 | 5-6 | Staff of Charming |
-| 7-8 | Staff of Striking |
+| \rowcolor{gray!20}7-8 | Staff of Striking |
 | 9-10 | Staff of Fire |
-| 11 | Staff of Frost |
+| \rowcolor{gray!20}11 | Staff of Frost |
 | 12 | Staff of Swarming Insects |
-| 13 | Staff of the Python |
+| \rowcolor{gray!20}13 | Staff of the Python |
 | 14 | Staff of Power |
-| 15 | Staff of Thunder and Lightning |
+| \rowcolor{gray!20}15 | Staff of Thunder and Lightning |
 | 16 | Staff of Sorcery |
-| 17-18 | Broken staff |
+| \rowcolor{gray!20}17-18 | Broken staff |
 
 **Table: Rod Generation**
 
-| **1d100** | **Rod** |
+| \rowcolor{gray!20}**1d100** | **Rod** |
 | 1-10 | Rod of Enchantment |
-| 11-20 | Rod of Absorption |
+| \rowcolor{gray!20}11-20 | Rod of Absorption |
 | 21-30 | Immovable Rod |
-| 31-41 | Rod of Mighty Strikes |
+| \rowcolor{gray!20}31-41 | Rod of Mighty Strikes |
 | 42-50 | Rod of Lordly Might |
-| 51-60 | Rod of Alertness |
+| \rowcolor{gray!20}51-60 | Rod of Alertness |
 | 61-70 | Rod of Security |
-| 71-80 | Rod of Rulership |
+| \rowcolor{gray!20}71-80 | Rod of Rulership |
 | 81-90 | Tentacle Rod |
-| 91-100 | Cursed Rod |
+| \rowcolor{gray!20}91-100 | Cursed Rod |
 
 ### Potions, Philters and Oils
 
-| **Potion** | **1d8** |
-| --- | --- |
-| Potion Type 1 | 1-4 |
-| Potion Type 2 | 5-7 |
-| Potion Type 3 | 8 |
+| \rowcolor{gray!20}**Potion** | **1d8** |
+| 1-4 | Potion Type 1 |
+| \rowcolor{gray!20}5-7 | Potion Type 2 |
+| 8 | Potion Type 3 |
 
-| **1d100** | **Potion Type 1** |
+| \rowcolor{gray!20}**1d100** | **Potion Type 1** |
 | 1-8 | Potion of Climbing |
-| 9-15 | Potion of Growth |
+| \rowcolor{gray!20}9-15 | Potion of Growth |
 | 16-23 | Potion of Heroism |
-| 24-29 | Potion of Gaseous Form |
+| \rowcolor{gray!20}24-29 | Potion of Gaseous Form |
 | 30-35 | Potion of Giant Strength |
-| 36-46 | Potion of Healing |
+| \rowcolor{gray!20}36-46 | Potion of Healing |
 | 47-53 | Potion of Deception |
-| 54-64 | Potion of Invisibility |
+| \rowcolor{gray!20}54-64 | Potion of Invisibility |
 | 65-74 | Potion of Levitation |
-| 77-78 | Potion of Resistance |
+| \rowcolor{gray!20}77-78 | Potion of Resistance |
 | 79-84 | Potion of Water Breathing |
-| 84-90 | Potion of Diminution |
+| \rowcolor{gray!20}84-90 | Potion of Diminution |
 | 91-95 | Potion of Speed |
-| 96-100 | Potion of Flying |
+| \rowcolor{gray!20}96-100 | Potion of Flying |
 
-| **1d100** | **Potion Type 2** |
+| \rowcolor{gray!20}**1d100** | **Potion Type 2** |
 | 1-10 | Potion of Animal Clairaudience |
-| 11-20 | Potion of Animal Clairvoyance |
+| \rowcolor{gray!20}11-20 | Potion of Animal Clairvoyance |
 | 21-28 | Potion of Animal Control |
-| 29-33 | Potion of Dragon Control |
+| \rowcolor{gray!20}29-33 | Potion of Dragon Control |
 | 34-38 | Potion of Undead Control |
-| 39-49 | Potion of Person Control |
+| \rowcolor{gray!20}39-49 | Potion of Person Control |
 | 50-55 | Potion of Plant Control |
-| 56-66 | Potion of Invulnerability |
+| \rowcolor{gray!20}56-66 | Potion of Invulnerability |
 | 67-77 | Potion of Mind Reading |
-| 78-85 | Poison Potion |
+| \rowcolor{gray!20}78-85 | Poison Potion |
 | 86-95 | Greater Healing Potion |
-| 96-100 | Enhanced Poison Potion |
+| \rowcolor{gray!20}96-100 | Enhanced Poison Potion |
 
-| **1d100** | **Potion Type 3** |
+| \rowcolor{gray!20}**1d100** | **Potion Type 3** |
 | 1-13 | Love Philter |
-| 14-27 | Treasure Finding Philter |
+| \rowcolor{gray!20}14-27 | Treasure Finding Philter |
 | 28-40 | Oil of Sharpness |
-| 41-53 | Oil of Etherealness |
+| \rowcolor{gray!20}41-53 | Oil of Etherealness |
 | 54-66 | Oil of Slipperiness |
-| 67-79 | Potion of Animal Friendship |
+| \rowcolor{gray!20}67-79 | Potion of Animal Friendship |
 | 80-85 | Potion of Longevity |
-| 86-95 | Potion of Polymorph |
+| \rowcolor{gray!20}86-95 | Potion of Polymorph |
 | 96-100 | Major Poison Potion |
 
 ### Rings
 
-| **Ring** | **3d6** |
-| --- | --- |
-| Ring Type 1 | 3-16 |
-| Ring Type 2 | 17-18 |
+| \rowcolor{gray!20}**Ring** | **3d6** |
+| 3-16 | Ring Type 1 |
+| \rowcolor{gray!20}17-18 | Ring Type 2 |
 
-| **1d100** | **Rings Type 1** |
+| \rowcolor{gray!20}**1d100** | **Rings Type 1** |
 | 1-5 | Spell Storing Ring |
-| 6-13 | Ring of the Ram |
+| \rowcolor{gray!20}6-13 | Ring of the Ram |
 | 14-21 | Ring of Feather Falling |
-| 22-28 | Ring of Water Walking |
+| \rowcolor{gray!20}22-28 | Ring of Water Walking |
 | 29-35 | Ring of Warmth |
-| 36-41 | Ring of Weakness |
+| \rowcolor{gray!20}36-41 | Ring of Weakness |
 | 42-47 | Ring of Evasion |
-| 48-50 | Ring of Animal Influence |
+| \rowcolor{gray!20}48-50 | Ring of Animal Influence |
 | 51-55 | Ring of Deception |
-| 56-61 | Ring of Freedom of Action |
+| \rowcolor{gray!20}56-61 | Ring of Freedom of Action |
 | 61-67 | Ring of Swimming |
-| 68-77 | Ring of Protection |
+| \rowcolor{gray!20}68-77 | Ring of Protection |
 | 76-84 | Ring of Resistance |
-| 85-93 | Ring of Jumping |
+| \rowcolor{gray!20}85-93 | Ring of Jumping |
 | 93-100 | Ring of Telekinesis |
 
-| **1d100** | **Rings Type 2** |
+| \rowcolor{gray!20}**1d100** | **Rings Type 2** |
 | 1-8 | Ring of Person Control |
-| 9-17 | Ring of Plant Control |
+| \rowcolor{gray!20}9-17 | Ring of Plant Control |
 | 18-23 | Ring of Water Elementals |
-| 24-29 | Ring of Air Elementals |
+| \rowcolor{gray!20}24-29 | Ring of Air Elementals |
 | 31-36 | Ring of Fire Elementals |
-| 37-42 | Ring of Earth Elementals |
+| \rowcolor{gray!20}37-42 | Ring of Earth Elementals |
 | 43-48 | Ring of Evasion |
-| 49-56 | Spell Turning Ring |
+| \rowcolor{gray!20}49-56 | Spell Turning Ring |
 | 57-65 | Ring of Invisibility |
-| 66-75 | Ring of Regeneration |
+| \rowcolor{gray!20}66-75 | Ring of Regeneration |
 | 76-83 | Ring of Mind Shielding |
-| 84-90 | Ring of Shooting Stars |
+| \rowcolor{gray!20}84-90 | Ring of Shooting Stars |
 | 91-92 | Ring of Three Wishes |
-| 92-96 | Ring of Three Wishes (depleted) |
+| \rowcolor{gray!20}92-96 | Ring of Three Wishes (depleted) |
 | 97-100 | Ring of X-Ray Vision |
 
 ### Hats, Cloaks, Glasses, Robes
 
 \hypertarget{Glasses}{Glasses}\hypertarget{Hats}{Hats}
 
-| **1d100** | **Hats, Cloaks, Glasses, Robes** |
+| \rowcolor{gray!20}**1d100** | **Hats, Cloaks, Glasses, Robes** |
 | 1-3 | Bandana of Intelligence |
-| 4-10 | Hat of Disguise |
+| \rowcolor{gray!20}4-10 | Hat of Disguise |
 | 11-17 | Cloak of Arachnida |
-| 18-23 | Cloak of the Charlatan |
+| \rowcolor{gray!20}18-23 | Cloak of the Charlatan |
 | 24-29 | Cloak of Displacement |
-| 30-40 | Cloak of the Elves |
+| \rowcolor{gray!20}30-40 | Cloak of the Elves |
 | 41-45 | Cloak of the Manta Ray |
-| 46-50 | Cloak of the Bat |
+| \rowcolor{gray!20}46-50 | Cloak of the Bat |
 | 51-57 | Cloak of Protection |
-| 58-62 | Cloak of Spell Resistance |
+| \rowcolor{gray!20}58-62 | Cloak of Spell Resistance |
 | 63-68 | Cloak of Poison |
-| 69-72 | Eyes of Petrification |
+| \rowcolor{gray!20}69-72 | Eyes of Petrification |
 | 73-75 | Charming Eyes |
-| 76-77 | Eyes of the Eagle |
+| \rowcolor{gray!20}76-77 | Eyes of the Eagle |
 | 78-80 | Eyes of Minute Seeing |
-| 80-82 | Night Vision Glasses |
+| \rowcolor{gray!20}80-82 | Night Vision Glasses |
 | 83-86 | Robe of Camouflage |
-| 87 | Robe of the Archmage |
+| \rowcolor{gray!20}87 | Robe of the Archmage |
 | 88 | Robe of Scintillating Colors |
-| 89-91 | Robe of Weakness |
+| \rowcolor{gray!20}89-91 | Robe of Weakness |
 | 92-94 | Robe of Eyes |
-| 95-99 | Robe of Useful Items |
+| \rowcolor{gray!20}95-99 | Robe of Useful Items |
 | 100 | Robe of Stars |
 
 ### Manuals, Tomes and Scrolls
 
-| **3d6** | **Scroll Rarity** | **Pages on Scroll** |
+| \rowcolor{gray!20}**3d6** | **Scroll Rarity** | **Pages on Scroll** |
 | 3-11 | Common | 1d4 |
-| 12-13 | UnCommon | 1d6 |
+| \rowcolor{gray!20}12-13 | UnCommon | 1d6 |
 | 14-16 | Rare | 1d8 |
-| 17 | Very Rare | 1d10 |
+| \rowcolor{gray!20}17 | Very Rare | 1d10 |
 | 18 | Legendary | 2d6 |
 
-| **3d6** | **Spell Level** |
+| \rowcolor{gray!20}**3d6** | **Spell Level** |
 | 3-9 | 1 |
-| 10-12 | 2 |
+| \rowcolor{gray!20}10-12 | 2 |
 | 13-16 | 3 |
-| 17 | 4 |
+| \rowcolor{gray!20}17 | 4 |
 | 18 | 5 |
-| 18 | 6 |
+| \rowcolor{gray!20}18 | 6 |
 
-| **Manuals, Tomes and Scrolls** | **3d6** |
+| \rowcolor{gray!20}**Manuals, Tomes and Scrolls** | **3d6** |
 | --- | --- |
 | Scrolls | 3-14 |
-| Manuals | 15-16 |
+| \rowcolor{gray!20}Manuals | 15-16 |
 | Tomes | 17-18 |
 
-| **3d6** | **Manuals** |
+| \rowcolor{gray!20}**3d6** | **Manuals** |
 | 3-12 | Empty manual |
-| 13 | Manual of Golems |
+| \rowcolor{gray!20}13 | Manual of Golems |
 | 14 | Manual of Good Health |
-| 15 | Manual of Quickness of Action |
+| \rowcolor{gray!20}15 | Manual of Quickness of Action |
 | 16 | Manual of Physical Exercise |
-| 17 | Cursed Manual of Good Health |
+| \rowcolor{gray!20}17 | Cursed Manual of Good Health |
 | 18 | Cursed Manual of Physical Exercise |
 
-| **3d6** | **Tomes** |
+| \rowcolor{gray!20}**3d6** | **Tomes** |
 | 3-12 | Empty tome |
-| 13 | Tome of Authority and Influence |
+| \rowcolor{gray!20}13 | Tome of Authority and Influence |
 | 14 | Tome of Understanding |
-| 15 | Tome of Clear Thought |
+| \rowcolor{gray!20}15 | Tome of Clear Thought |
 | 16 | Cursed Tome of Authority and Influence |
-| 17 | Cursed Tome of Understanding |
+| \rowcolor{gray!20}17 | Cursed Tome of Understanding |
 | 18 | Cursed Tome of Clear Thought |
 
 ### Miscellaneous Magic Items
 
-| **1d100** | **Miscellaneous magic items 1** |
+| \rowcolor{gray!20}**Item Type** | **1d12** |
+| --- | --- |
+| Miscellaneous Magic Items 1 | 1-4 |
+| \rowcolor{gray!20}Miscellaneous Magic Items 2 | 5-7 |
+| Miscellaneous Magic Items 3 | 8-10 |
+| \rowcolor{gray!20}Miscellaneous Magic Items 4 | 11 |
+| Rare and Legendary | 12 |
+
+### Miscellaneous magic items 1
+
+| \rowcolor{gray!20}**1d100** | **Miscellaneous magic items 1** |
 | 1-8 | Purifying Water |
-| 9-17 | Chime of Opening |
+| \rowcolor{gray!20}9-17 | Chime of Opening |
 | 18-27 | Bag of Holding Type I |
-| 28-34 | Climbing Rope |
+| \rowcolor{gray!20}28-34 | Climbing Rope |
 | 35-43 | Efficient Quiver |
-| 44-48 | Locator Arrow |
+| \rowcolor{gray!20}44-48 | Locator Arrow |
 | 49-52 | Crossbow of Arcane Bolts |
-| 53-57 | Lantern of Revelation |
+| \rowcolor{gray!20}53-57 | Lantern of Revelation |
 | 58-60 | Scroll against elementals |
-| 61-63 | Scroll against undead |
+| \rowcolor{gray!20}61-63 | Scroll against undead |
 | 63-65 | Necklace of Fresh Air |
-| 66-69 | Pearl of Power |
+| \rowcolor{gray!20}66-69 | Pearl of Power |
 | 70-73 | Stone of Good Luck |
-| 74-80 | Phylactery against undead |
+| \rowcolor{gray!20}74-80 | Phylactery against undead |
 | 81-83 | Universal Solvent |
-| 84-89 | Dust of Dryness |
+| \rowcolor{gray!20}84-89 | Dust of Dryness |
 | 90-94 | Ljust's Ointment |
-| 95-100 | Handy Haversack |
+| \rowcolor{gray!20}95-100 | Handy Haversack |
 
 ### Miscellaneous magic items 2
 
-| **1d100** | **Miscellaneous magic items 2** |
+| \rowcolor{gray!20}**1d100** | **Miscellaneous magic items 2** |
 | 1-8 | Brazier of Fire Elementals |
-| 9-17 | Cursed Brazier of Sleep |
+| \rowcolor{gray!20}9-17 | Cursed Brazier of Sleep |
 | 18-23 | Cube of Cold Protection |
-| 24-29 | Censer of Air Elementals |
+| \rowcolor{gray!20}24-29 | Censer of Air Elementals |
 | 30-34 | Incense of Meditation |
-| 35-43 | Entangling Net |
+| \rowcolor{gray!20}35-43 | Entangling Net |
 | 44-52 | Trapping Net |
-| 53-58 | Broom of Animated Attack |
+| \rowcolor{gray!20}53-58 | Broom of Animated Attack |
 | 59-63 | Flying Broom |
-| 64-67 | Bag of Devouring |
+| \rowcolor{gray!20}64-67 | Bag of Devouring |
 | 68-70 | Protective scroll against magic |
-| 71-73 | Scroll against lycanthropes |
+| \rowcolor{gray!20}71-73 | Scroll against lycanthropes |
 | 74-76 | Cursed Broom of Flight |
-| 77-84 | Speaking Stones |
+| \rowcolor{gray!20}77-84 | Speaking Stones |
 | 85-88 | Mirror of Duplication |
-| 89-90 | Life Trapping Mirror |
+| \rowcolor{gray!20}89-90 | Life Trapping Mirror |
 | 91-94 | Horn of Valhalla |
-| 95-98 | Flying Carpet |
+| \rowcolor{gray!20}95-98 | Flying Carpet |
 | 99-100 | Mattock of the Titans |
 
 ### Miscellaneous magic items 3
 
-| **1d100** | **Miscellaneous magic items 3** |
+| \rowcolor{gray!20}**1d100** | **Miscellaneous magic items 3** |
 | 1-15 | Bag of Annihilation |
-| 16-25 | Decanter of Endless Water |
+| \rowcolor{gray!20}16-25 | Decanter of Endless Water |
 | 26-35 | Dimensional Shackles |
-| 36-46 | Sovereign Glue |
+| \rowcolor{gray!20}36-46 | Sovereign Glue |
 | 47-56 | Revealing Dust |
-| 57-68 | Dust of Disappearance |
+| \rowcolor{gray!20}57-68 | Dust of Disappearance |
 | 69-70 | Hypnotic Crystal Ball |
-| 71-81 | Dust of Sneezing and Choking |
+| \rowcolor{gray!20}71-81 | Dust of Sneezing and Choking |
 | 82-90 | Arcane Stone |
-| 91-96 | Stone of Weight |
+| \rowcolor{gray!20}91-96 | Stone of Weight |
 | 97-100 | Arcane Fan |
 
 ### Miscellaneous magic items 4
 
-| **1d100** | **Miscellaneous magic items 4** |
+| \rowcolor{gray!20}**1d100** | **Miscellaneous magic items 4** |
 | 1-10 | Vial of Curses |
-| 11-18 | Chime of Cannibalism |
+| \rowcolor{gray!20}11-18 | Chime of Cannibalism |
 | 19-28 | Bag of Holding Type II |
-| 29-37 | Portable Hole |
+| \rowcolor{gray!20}29-37 | Portable Hole |
 | 38-43 | Rope of Entanglement |
-| 44-50 | Strangling Rope |
+| \rowcolor{gray!20}44-50 | Strangling Rope |
 | 51-55 | Horn of Destruction |
-| 56-60 | Cube of Force |
+| \rowcolor{gray!20}56-60 | Cube of Force |
 | 61-64 | Iron Bands of Binding |
-| 65-73 | Incense of Obsession |
+| \rowcolor{gray!20}65-73 | Incense of Obsession |
 | 74-82 | Deck of Illusions |
-| 83-84 | Stone of Earth Elementals |
+| \rowcolor{gray!20}83-84 | Stone of Earth Elementals |
 | 85-91 | Pipes of Haunting |
-| 92-94 | Arcane Feather |
+| \rowcolor{gray!20}92-94 | Arcane Feather |
 | 95-96 | Drums of Panic |
-| 97-98 | Drums of Stunning |
+| \rowcolor{gray!20}97-98 | Drums of Stunning |
 | 99-100 | Censer of Cursed Summoning |
 
 ### Rare and Legendary
 
-| **1d100** | **Magic Item** |
+| \rowcolor{gray!20}**1d100** | **Magic Item** |
 | 1-3 | Wings of Flying |
-| 4-6 | Iron Flask |
+| \rowcolor{gray!20}4-6 | Iron Flask |
 | 7-10 | Elemental Water Amphora |
-| 11-12 | Apparatus of the Crab |
+| \rowcolor{gray!20}11-12 | Apparatus of the Crab |
 | 13-15 | Folding Boat |
-| 17-20 | Bag of Holding Type III |
+| \rowcolor{gray!20}17-20 | Bag of Holding Type III |
 | 21-24 | Bag of Holding Type IV |
-| 25-28 | Bag of Beans |
+| \rowcolor{gray!20}25-28 | Bag of Beans |
 | 29-30 | Efreeti Bottle |
-| 31 | Decanter of Potions |
+| \rowcolor{gray!20}31 | Decanter of Potions |
 | 32-35 | Candle of Invocation |
-| 36-39 | Phylactery of Youth |
+| \rowcolor{gray!20}36-39 | Phylactery of Youth |
 | 40-42 | Instant Fortress |
-| 43-45 | Deck of Wonder |
+| \rowcolor{gray!20}43-45 | Deck of Wonder |
 | 46-50 | Miniature of Wondrous Power |
-| 51-55 | Ammunition of Slaying |
+| \rowcolor{gray!20}51-55 | Ammunition of Slaying |
 | 56-60 | Crystal Ball |
-| 61-67 | Pipes of the Sewers |
+| \rowcolor{gray!20}61-67 | Pipes of the Sewers |
 | 68-75 | Pigments of Wonder |
-| 76-83 | Cubic Gate |
+| \rowcolor{gray!20}76-83 | Cubic Gate |
 | 84-86 | Well of Many Worlds |
-| 87-89 | Mirror of Mental Prowess |
+| \rowcolor{gray!20}87-89 | Mirror of Mental Prowess |
 | 90-91 | Sphere of Annihilation |
-| 92-94 | Elemental Air Censer |
+| \rowcolor{gray!20}92-94 | Elemental Air Censer |
 | 95-96 | Portable Chamber |
-| 97-98 | Horseshoes of Speed |
+| \rowcolor{gray!20}97-98 | Horseshoes of Speed |
 | 99-100 | Horseshoes of Zephyr |
 
 ---
@@ -17997,23 +18016,21 @@ this **bottle** of iron has a brass stopper. You can use two actions to speak th
 
 The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Narrator or determined randomly.
 
-	
-
-| **d100** | **Contains** |
+| \rowcolor{gray!20}**d100** | **Contains** |
 | 1-50 | Empty |
-| 51-66 | Demon |
+| \rowcolor{gray!20}51-66 | Demon |
 | 67 | Angel Deva |
-| 68-69 | Devil (greater) |
+| \rowcolor{gray!20}68-69 | Devil (greater) |
 | 70-73 | Devil (lesser) |
-| 74-75 | Genie Djinni |
+| \rowcolor{gray!20}74-75 | Genie Djinni |
 | 76-77 | Genie Efreeti |
-| 78-83 | Elemental (any) |
+| \rowcolor{gray!20}78-83 | Elemental (any) |
 | 84-86 | Invisible Stalker |
-| 87-90 | Night Hag |
+| \rowcolor{gray!20}87-90 | Night Hag |
 | 91 | Angel Planetar |
-| 92-95 | Salamander |
+| \rowcolor{gray!20}92-95 | Salamander |
 | 96 | Angel Solar |
-| 97-99 | Succubus/Incubus |
+| \rowcolor{gray!20}97-99 | Succubus/Incubus |
 | 100 | Topi, La |
 
 \oggettomagico{Amulet of Poison Resistance}
@@ -18076,21 +18093,21 @@ while wearing this **amulet** you are hidden from divination magic. You cannot b
 
 A Bane **weapon** excels at attacking certain creatures. Against the chosen enemy, its effective bonus becomes +2. The weapon also automatically inflicts critical damage against such enemy. To randomly determine the weapon's chosen enemy, use the following table:
 
-	
-
-| d\% | Chosen enemy |
+| \rowcolor{gray!20}d\% | Chosen enemy |
 | 01-05 | Aberrations |
-| 06-09 | Beasts |
+| \rowcolor{gray!20}06-09 | Beasts |
 | 10-16 | Constructs |
-| 17-22 | Dragons |
+| \rowcolor{gray!20}17-22 | Dragons |
 | 23-27 | Fey |
+| \rowcolor{gray!20}61-70 | Magical Creatures |
+
+| \rowcolor{gray!20}d\% | Chosen enemy |
 | 28-60 | Humanoids (choose subtype) |
-| 61-70 | Magical Creatures |
-| 71-72 | Oozes |
+| \rowcolor{gray!20}71-72 | Oozes |
 | 73-88 | Fiends |
-| 89-90 | Plants |
+| \rowcolor{gray!20}89-90 | Plants |
 | 91-98 | Undead |
-| 99-100 | Insects |
+| \rowcolor{gray!20}99-100 | Insects |
 
 \oggettomagico{Ring of Spell Storing}
 
@@ -18119,15 +18136,17 @@ The Weapon Ring's ability recharges at dawn. The weapon ring does not count agai
 
 A Greater Weapon **ring** can only be applied to melee weapons and has only one power. When found, it is necessary to roll on the table below to determine the type of feat that the ring confers. The weapon ring does not count against the limits for wearing rings. A weapon can't hold more Weapon Ring then its magical bonus.
 
-| **1d100** | **Feat** | **1d100** | **Feat** |
+| \rowcolor{gray!20}**1d100** | **Feat** | **1d100** | **Feat** |
 | 1-6 | Cursed -2 | 55-60 | Shocking |
-| 7-12 | Courageous | 61-66 | Frost |
+| \rowcolor{gray!20}7-12 | Courageous | 61-66 | Frost |
 | 13-18 | Of Pain | 67-72 | Flaming |
-| 19-24 | Vicious | 73-78 | Marine |
+| \rowcolor{gray!20}19-24 | Vicious | 73-78 | Marine |
+
+| \rowcolor{gray!20}**1d100** | **Feat** | **1d100** | **Feat** |
 | 25-30 | +3 | 79-84 | Shapeshifting |
-| 31-36 | Cursed -1 | 85-90 | +2 |
+| \rowcolor{gray!20}31-36 | Cursed -1 | 85-90 | +2 |
 | 37-42 | Titanic Weapon | 91-96 | Thundering |
-| 43-48 | Chaos | 97-100 | Transforming |
+| \rowcolor{gray!20}43-48 | Chaos | 97-100 | Transforming |
 | 49-54 | Corrosive |  | |
 
 When inserted into the hilt of the **weapon**, the character can twice per day use 1 Action and add the rolled feat to the weapon for 10 rounds. If the weapon is not at least magical +1, it becomes magical +1. The ability of the Greater Weapon Ring recharges at dawn.
@@ -18357,17 +18376,17 @@ various cost, various rarity, while wearing this **ring**, you have a bonus of +
 
 while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Narrator.
 
-| **d10** | **Damage Type** | **Gem** |
+| \rowcolor{gray!20}**d10** | **Damage Type** | **Gem** |
 | 1 | Acid | Pearl |
-| 2 | Force | Sapphire |
+| \rowcolor{gray!20}2 | Force | Sapphire |
 | 3 | Cold | Tourmaline |
-| 4 | Lightning | Citrine |
+| \rowcolor{gray!20}4 | Lightning | Citrine |
 | 5 | Fire | Garnet |
-| 6 | Void | Jet |
+| \rowcolor{gray!20}6 | Void | Jet |
 | 7 | Positive Energy | Jade |
-| 8 | Light | Topaz |
+| \rowcolor{gray!20}8 | Light | Topaz |
 | 9 | Sound | Spinel |
-| 10 | Negative Energy | Slate |
+| \rowcolor{gray!20}10 | Negative Energy | Slate |
 
 \oggettomagico{Ring of Regeneration}
 
@@ -18596,30 +18615,30 @@ This wand has 7 charges. The wand recovers 1 charge every day at dawn.
 
 Each time you use the wand of wonder, roll a d100 and consult this table.
 
-| **d100** | **Contents** |
+| \rowcolor{gray!20}**d100** | **Contents** |
 | 01-05 | You cast the Slow spell. |
-| 06-10 | You cast the Light spell. |
+| \rowcolor{gray!20}06-10 | You cast the Light spell. |
 | 11-15 | You are stunned until the beginning of your next round, and believe that something amazing has happened. |
-| 16-20 | You cast the Gust of Wind spell. |
+| \rowcolor{gray!20}16-20 | You cast the Gust of Wind spell. |
 | 21-25 | You cast the Detect Thoughts spell on the target you chose. If your target is not a creature, you instead take 1d6 damage. |
-| 26-30 | You cast the Stinking Cloud spell. |
+| \rowcolor{gray!20}26-30 | You cast the Stinking Cloud spell. |
 | 31-33 | Heavy rain falls in a 18-meter radius centered on the target. The area becomes lightly obscured. The rain continues to fall until the beginning of your next round. |
-| 34-36 | An animal appears in the nearest unoccupied space to the target. The animal is not under your control and acts normally. |
+| \rowcolor{gray!20}34-36 | An animal appears in the nearest unoccupied space to the target. The animal is not under your control and acts normally. |
 | Roll a d100 to determine what kind of animal appears 01-25, a rhinoceros; 26-50, an elephant; 51-100, a rat. |
-| 37-46 | You cast Lightning. |
+| \rowcolor{gray!20}37-46 | You cast Lightning. |
 | 47-49 | A cloud of 600 giant butterflies fills a 9-meter radius around the target. The area becomes heavily obscured and provides total cover. The butterflies remain for 10 minutes. |
-| 50-53 | You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target. |
+| \rowcolor{gray!20}50-53 | You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target. |
 | 54-58 | You cast the darkness spell. |
-| 59-62 | Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute. |
+| \rowcolor{gray!20}59-62 | Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute. |
 
 | 63-65 | An object chosen by the Narrator disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
-| 66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
+| \rowcolor{gray!20}66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
 | 70-79 | You cast the Fireball spell. |
-| 80-84 | You cast the Invisibility spell on yourself. |
+| \rowcolor{gray!20}80-84 | You cast the Invisibility spell on yourself. |
 | 85-87 | Leaves grow on the target. If you chose a point in space as a target, the leaves will sprout on the creature closest to that point. Unless they are torn off, the leaves will turn brown and fall off after 24 hours. |
-| 88-90 | A stream of 1d4 x 10 gems worth 1 gp each shoots from the tip of the wand in a 9-meter long, 1-meter wide line. Each gem inflicts 1 bludgeoning damage, and their total damage is divided equally among all creatures on the line. |
+| \rowcolor{gray!20}88-90 | A stream of 1d4 x 10 gems worth 1 gp each shoots from the tip of the wand in a 9-meter long, 1-meter wide line. Each gem inflicts 1 bludgeoning damage, and their total damage is divided equally among all creatures on the line. |
 | 91-95 | A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds. |
-| 96-97 | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point. |
+| \rowcolor{gray!20}96-97 | The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point. |
 | 98-00 | If the target is a creature, it must make a Fortitude Saving Throw with DC 18. If the target is not a creature, the target becomes you and you will make the Saving Throw. If the Saving Throw fails by 5 or more, the target is petrified. If the Saving Throw fails by less, the target is hindered and begins to turn to stone. While hindered in this way, the target must repeat the Saving Throw at the end of each of its rounds, becoming petrified on a failure or ending the effect on a success. The target remains petrified until it is freed by the stone to flesh spell or similar magic. |
 
 \oggettomagico{Wand of Fireballs}
@@ -18752,9 +18771,9 @@ You have a 50\% chance of instantly traveling to a random plane of existence, av
 
 If the Saving Throw succeeds, the creature takes half this damage.
 
-| **Distance from origin** | **Damage** |
+| \rowcolor{gray!20}**Distance from origin** | **Damage** |
 | 3 meters or less | 8 × charges in staff |
-| Up to 6 meters | 6 × charges in staff |
+| \rowcolor{gray!20}Up to 6 meters | 6 × charges in staff |
 | Up to 9 meters | 4 × charges in staff |
 
 Note: The Staff of the Archmage and Power are similar, because they were prepared by two bitter enemies who wanted to create the most powerful Staff.
@@ -18877,20 +18896,20 @@ If you dump the bag's contents on the ground, the beans explode in a 3-meter rad
 
 The fire ignites flammable objects in the area that aren't being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Narrator chooses the effect or determines it randomly.
 
-| **d100** | **Effect** |
+| \rowcolor{gray!20}**d100** | **Effect** |
 | 01 | 5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour. |
-| 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator's choice) 9 meters into the air for 1d12 rounds. |
+| \rowcolor{gray!20}02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator's choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There's a 50\% chance that the treant is evil and attacks you. |
-| 21-30 | An animated stone statue with your features rises from the ground. It will begin to verbally threaten you. If you leave and other people come to the spot, the statue will describe you as the most dangerous criminal and urge them to find and attack you. If you are on the same plane of existence as the statue, it will always know where you are. After 24 hours the statue will become inanimate. |
+| \rowcolor{gray!20}21-30 | An animated stone statue with your features rises from the ground. It will begin to verbally threaten you. If you leave and other people come to the spot, the statue will describe you as the most dangerous criminal and urge them to find and attack you. If you are on the same plane of existence as the statue, it will always know where you are. After 24 hours the statue will become inanimate. |
 | 31-40 | A campfire with blue flames springs up from the ground and burns for 24 hours (or until it is extinguished). |
-| 41-50 | 1d6 + 6 Shrieking Mushroom sprout. |
+| \rowcolor{gray!20}41-50 | 1d6 + 6 Shrieking Mushroom sprout. |
 | 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Narrator. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
-| 61-70 | A bulette bursts out of the ground and attacks. |
+| \rowcolor{gray!20}61-70 | A bulette bursts out of the ground and attacks. |
 | 71-80 | A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. |
-| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly in case of a tie; if it fails, it takes 10d6 force damage. |
-| 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator's choice. |
+| \rowcolor{gray!20}81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly in case of a tie; if it fails, it takes 10d6 force damage. |
 
-| 100 | A giant beanstalk grows on the spot, rising to a height of the Narrator's choice. The top leads wherever the Narrator wishes, be it to a cloud giant's castle or another plane of existence. |
+| 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator's choice. |
+| \rowcolor{gray!20}100 | A giant beanstalk grows on the spot, rising to a height of the Narrator's choice. The top leads wherever the Narrator wishes, be it to a cloud giant's castle or another plane of existence. |
 
 \oggettomagico{Bag of Negation}
 
@@ -18912,14 +18931,15 @@ Another creature can use two actions to reach into the bag and pull out the crea
 
 this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Narrator randomly determines what happens.
 
-| **3d6** | **Effect** |
-| 3-5 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic. |
-| 6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. |
+| \rowcolor{gray!20}**3d6** | **Effect** |
+| --- | --- |
+| \rowcolor{gray!20}3-5 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic. |
+| \rowcolor{gray!20}6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. |
 
-| **3d6** | **Effect** |
+| \rowcolor{gray!20}**3d6** | **Effect** |
 | --- | --- |
 | The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
-| 17-18 | The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic. |
+| \rowcolor{gray!20}17-18 | The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic. |
 
 \oggettomagico{Eversmoking Bottle}
 
@@ -19047,11 +19067,11 @@ There are four variants of this belt, each corresponding to a kind of true giant
 
 | **Giant Type** | **Strength** | **Rarity** |
 | --- | --- | --- |
-| **Hill** | 5 | Rare |
+| \rowcolor{gray!20}**Hill** | 5 | Rare |
 | **Stone/Frost** | 6 | Very rare |
-| **Fire** | 7 | Very rare |
+| \rowcolor{gray!20}**Fire** | 7 | Very rare |
 | **Cloud** | 8 | Legendary |
-| **Storm** | 9 | Legendary |
+| \rowcolor{gray!20}**Storm** | 9 | Legendary |
 
 \oggettomagico{Belt of Dwarvenkind}
 
@@ -19085,13 +19105,13 @@ this **necklace** has 1d4 + 2 magic beads made of aquamarine, black pearl, or to
 
 There are six types of magic beads. The Narrator decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level in case of a Saving Throw. Once a magic bead's spell is cast, that bead can't be used again until the next dawn.
 
-| **3d6** | **Bead of...** | **Spell** |
+| \rowcolor{gray!20}**3d6** | **Bead of...** | **Spell** |
 | 3-5 | Blessing | Bless |
-| 6-11 | Curing | Cure wounds 5 or Lesser restoration |
+| \rowcolor{gray!20}6-11 | Curing | Cure wounds 5 or Lesser restoration |
 | 12-14 | Divine Favor | Greater restoration |
-| 15-16 | Smiting | Branding smite |
+| \rowcolor{gray!20}15-16 | Smiting | Branding smite |
 | 17 | Wind Walking | Wind walk |
-| 18 | Summons | Blade barrier |
+| \rowcolor{gray!20}18 | Summons | Blade barrier |
 
 \oggettomagico{Necklace of Adaptation}
 
@@ -19187,25 +19207,23 @@ If your movement causes the barrier to come into contact with a solid object tha
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
-	
-
-| **Spell or Item** | **Charges Lost** |
+| \rowcolor{gray!20}**Spell or Item** | **Charges Lost** |
 | --- | --- |
 | Arcane dart (3 shots) | 1 |
-| Disintegrate | 1d12 |
+| \rowcolor{gray!20}Disintegrate | 1d12 |
 | Wall of fire | 1d4 |
-| Passwall | 1d6 |
+| \rowcolor{gray!20}Passwall | 1d6 |
 | Prismatic spray | 3d6 |
 
 Below are the properties of each activatable face and its related charge cost.
 
-| **Face** | **Cost** | **Effect** |
+| \rowcolor{gray!20}**Face** | **Cost** | **Effect** |
 | 1 | 1 | Gases, wind, and fog cannot pass through the barrier |
-| 2 | 2 | Nonliving matter cannot pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
+| \rowcolor{gray!20}2 | 2 | Nonliving matter cannot pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 3 | 3 | Living matter cannot pass through the barrier. |
-| 4 | 4 | Spell effects cannot pass through the barrier. |
+| \rowcolor{gray!20}4 | 4 | Spell effects cannot pass through the barrier. |
 | 5 | 5 | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
-| 6 | 0 | The barrier deactivates. |
+| \rowcolor{gray!20}6 | 0 | The barrier deactivates. |
 
 Each activation lasts one minute.
 
@@ -19504,12 +19522,12 @@ this **gem** contains a spark of elemental energy. When you use two actions to b
 
 	
 
-| **Gem** | **Summoned elemental** |
+| \rowcolor{gray!20}**Gem** | **Summoned elemental** |
 | --- | --- |
 | Red corundum | Fire elemental |
-| Yellow diamond | Earth elemental |
+| \rowcolor{gray!20}Yellow diamond | Earth elemental |
 | Emerald | Water elemental |
-| Blue sapphire | Air elemental |
+| \rowcolor{gray!20}Blue sapphire | Air elemental |
 
 \oggettomagico{Monster Attracting Jewel}
 
@@ -19693,11 +19711,11 @@ Once you finish creating the golem, the book is consumed by arcane flames. The g
 
 	
 
-| 3d6 | Golem | Time | Cost |
+| \rowcolor{gray!20}3d6 | Golem | Time | Cost |
 | 3-4 | Clay | 30 days | 65000 gp |
-| 5-16 | Flesh | 60 days | 50000 gp |
+| \rowcolor{gray!20}5-16 | Flesh | 60 days | 50000 gp |
 | 17 | Iron | 120 days | 100000 gp |
-| 18 | Stone | 90 days | 80000 gp |
+| \rowcolor{gray!20}18 | Stone | 90 days | 80000 gp |
 
 \oggettomagico{Manual of Physical Exercise}
 
@@ -19746,44 +19764,44 @@ The deck's magic works only if the cards are drawn at random (you can use a norm
 The illusion of one or more creatures forms over the thrown card and remains until dispelled. The illusory creature appears real, of the appropriate size, and behaves like a real creature except that it can't deal damage. As long as you are within 36 meters of the illusory creature and can see it, you can use two actions to move it magically anywhere within 9 meters of the card. Any physical interaction with the illusory creature reveals it as an illusion, since objects pass through it. Someone who uses two actions to visually inspect the creature identifies it as illusory by succeeding on a Will Saving Throw with Intelligence with DC 17. The creature will then appear transparent to them.
 The illusion remains until the card is moved or the illusion is dispelled. When the illusion ends, the image on the card disappears, and that card can't be used again.
 
-| **Playing Card** | **Illusion** |
+| \rowcolor{gray!20}**Playing Card** | **Illusion** |
 | --- | --- |
 | Ace of hearts | Red dragon |
-| King of hearts | Knight and four guards |
+| \rowcolor{gray!20}King of hearts | Knight and four guards |
 | Queen of hearts | Succubus or incubus |
-| Jack of hearts | Druid |
+| \rowcolor{gray!20}Jack of hearts | Druid |
 | Ten of hearts | Cloud giant |
-| Nine of hearts | Ettin |
+| \rowcolor{gray!20}Nine of hearts | Ettin |
 | Eight of hearts | Bugbear |
-| Two of hearts | Goblin |
+| \rowcolor{gray!20}Two of hearts | Goblin |
 | Ace of spades | Lich |
-| King of spades | Priest and two acolytes |
+| \rowcolor{gray!20}King of spades | Priest and two acolytes |
 | Queen of spades | Medusa |
-| Jack of spades | Veteran |
+| \rowcolor{gray!20}Jack of spades | Veteran |
 | Ten of spades | Frost giant |
-| Nine of spades | Troll |
+| \rowcolor{gray!20}Nine of spades | Troll |
 | Eight of spades | Hobgoblin |
-| Two of spades | Goblin |
+| \rowcolor{gray!20}Two of spades | Goblin |
 | Ace of diamonds | Beholder |
-| King of diamonds | Archmage and apprentice mage |
+| \rowcolor{gray!20}King of diamonds | Archmage and apprentice mage |
 | Queen of diamonds | Night hag |
-| Jack of diamonds | Assassin |
+| \rowcolor{gray!20}Jack of diamonds | Assassin |
 | Ten of diamonds | Fire giant |
-| Nine of diamonds | Oni |
+| \rowcolor{gray!20}Nine of diamonds | Oni |
 | Eight of diamonds | Gnoll |
 
-| **Playing Card** | **Illusion** |
+| \rowcolor{gray!20}**Playing Card** | **Illusion** |
 | --- | --- |
 | Two of diamonds | Kobold |
-| Ace of clubs | Iron golem |
+| \rowcolor{gray!20}Ace of clubs | Iron golem |
 | King of clubs | Bandit captain and three bandits |
-| Queen of clubs | Erinyes |
+| \rowcolor{gray!20}Queen of clubs | Erinyes |
 | Jack of clubs | Berserker |
-| Ten of clubs | Hill giant |
+| \rowcolor{gray!20}Ten of clubs | Hill giant |
 | Nine of clubs | Ogre |
-| Eight of clubs | Orc |
+| \rowcolor{gray!20}Eight of clubs | Orc |
 | Two of clubs | Kobold |
-| Joker (2) | You (the owner of the deck) |
+| \rowcolor{gray!20}Joker (2) | You (the owner of the deck) |
 
 \oggettomagico{Deck of Many Things}
 
@@ -19799,18 +19817,18 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 
 | {>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth}>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth |
 		
-| **Playing Card** | **Card** | **Playing Card** | **Card** |
+| \rowcolor{gray!20}**Playing Card** | **Card** | **Playing Card** | **Card** |
 | --- | --- | --- | --- |
 | Ace of diamonds | Vizier* | Ace of hearts | Fates* |
-| King of diamonds | Sun | King of hearts | Throne |
+| \rowcolor{gray!20}King of diamonds | Sun | King of hearts | Throne |
 | Queen of diamonds | Moon | Queen of hearts | Key |
-| Jack of diamonds | Star | Jack of hearts | Knight |
+| \rowcolor{gray!20}Jack of diamonds | Star | Jack of hearts | Knight |
 | Two of diamonds | Comet* | Two of hearts | Gem* |
-| Ace of clubs | Talons* | Ace of spades | Prison* |
+| \rowcolor{gray!20}Ace of clubs | Talons* | Ace of spades | Prison* |
 | King of clubs | Void | King of spades | Ruin |
-| Queen of clubs | Flames | Queen of spades | Euryale |
+| \rowcolor{gray!20}Queen of clubs | Flames | Queen of spades | Euryale |
 | Jack of clubs | Skull | Two of spades | Balance* |
-| Two of clubs | Idiot | Joker | Fool* |
+| \rowcolor{gray!20}Two of clubs | Idiot | Joker | Fool* |
 | Joker | Jester |  | |
 
 \end{adjustbox}
@@ -20727,10 +20745,10 @@ There are four sizes of flying carpet. The Narrator chooses the carpet's size or
 | **d100** | **Size** | **Capacity** | **Flying** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Enc.)** | **Speed** |
-| 01--20 | 90 × 150 | 100 kg / 25 | 23 meters |
-| 21--55 | 120 × 180 | 200 kg / 50 | 18 meters |
-| 56--80 | 150 × 210 | 300 kg / 75 | 12 meters |
-| 81--100 | 180 × 270 | 400 kg / 100 | 9 meters |
+| \rowcolor{gray!20}01--20 | 90 × 150 | 100 kg / 25 | 23 m |
+| 21--55 | 120 × 180 | 200 kg / 50 | 18 m |
+| \rowcolor{gray!20}56--80 | 150 × 210 | 300 kg / 75 | 12 m |
+| 81--100 | 180 × 270 | 400 kg / 100 | 9 m |
 
 The Capacity value indicates both the weight carried and the Encumbrance. The carpet can carry up to double the load indicated in the table, but flies at half speed if it carries more.
 
@@ -20830,22 +20848,22 @@ In addition, the robe has 4d4 other patches. The Narrator chooses the patches or
 
 Roll a d100 on the following table to discover the properties of the other 4d4 patches on the robe of useful items.
 
-| **d100** | **Effect** |
+| \rowcolor{gray!20}**d100** | **Effect** |
 | 01-08 | Bag with 100 gp. |
-| 09-15 | Silver chest (30 cm long, 15 cm wide and deep) worth 500 gp. |
+| \rowcolor{gray!20}09-15 | Silver chest (30 cm long, 15 cm wide and deep) worth 500 gp. |
 | 16-22 | Iron door (up to 3 meters wide and high, barred on the side of your choice), which you can place on any opening within reach; it fits into the opening, attaching and creating hinges. |
-| 23-30 | 10 gems worth 100 gp each. |
+| \rowcolor{gray!20}23-30 | 10 gems worth 100 gp each. |
 | 31-44 | A wooden ladder (8 meters). |
-| 45-51 | A Dinosaur Steed with saddlebags |
+| \rowcolor{gray!20}45-51 | A Dinosaur Steed with saddlebags |
 | 52-59 | Pit (a 3-meter cube), which you can place on the ground within 3 meters of you. |
-| 60-68 | 4 potions of healing. |
+| \rowcolor{gray!20}60-68 | 4 potions of healing. |
 | 69-75 | Rowboat (4 meters long). |
 
-| **d100** | **Effect** |
+| \rowcolor{gray!20}**d100** | **Effect** |
 | 76-83 | Spell scroll containing a spell of 1st to 3rd level. |
-| 84-90 | Two mastiffs. |
+| \rowcolor{gray!20}84-90 | Two mastiffs. |
 | 91-96 | Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach. |
-| 97-100 | Portable ram. |
+| \rowcolor{gray!20}97-100 | Portable ram. |
 
 \oggettomagico{Robe of Scintillating Colors}
 
@@ -21176,16 +21194,16 @@ To recharge a wand or staff, a spellcaster must infuse the same spell that they 
 
 ## Acquiring Magic Items
 
-| **Community Size** | **Base Value** | **Common** | **Uncommon** | **Rare** |
+| \rowcolor{gray!20}**Community Size** | **Base Value** | **Common** | **Uncommon** | **Rare** |
 | --- | --- | --- | --- | --- |
 | Settlement | 20 gp | 1d2 items |  | |
-| Hamlet | 150 gp | 1d4 items |  | |
+| \rowcolor{gray!20}Hamlet | 150 gp | 1d4 items |  | |
 | Village | 300 gp | 1d6 items | 1d2 items | |
-| Small town | 700 gp | 1d4 items | 1d2 items | |
+| \rowcolor{gray!20}Small town | 700 gp | 1d4 items | 1d2 items | |
 | Large town | 1500 gp | 1d6 items | 1d4 items | 1d2 items |
-| Small city | 2500 gp | 2d4 items | 1d6 items | 1d4 items |
+| \rowcolor{gray!20}Small city | 2500 gp | 2d4 items | 1d6 items | 1d4 items |
 | Large city | 6000 gp | 3d4 items | 2d4 items | 1d6 items |
-| Metropolis | 12000 gp | {*} | 3d4 items | 2d4 items |
+| \rowcolor{gray!20}Metropolis | 12000 gp | {*} | 3d4 items | 2d4 items |
 
 {*} In a metropolis, almost all minor magic items can be found.
 
@@ -21424,13 +21442,13 @@ A curse can also manifest as a result of negative or extreme emotional influence
 
 	
 
-| **\%** | **Curse** |
+| \rowcolor{gray!20}**\%** | **Curse** |
 | 01-15 | Deception |
-| 16-40 | Opposite Effect or Target |
+| \rowcolor{gray!20}16-40 | Opposite Effect or Target |
 | 41-50 | Intermittent Functioning |
-| 51-65 | Requirement |
+| \rowcolor{gray!20}51-65 | Requirement |
 | 66-90 | Drawback |
-| 91-100 | Completely different effect |
+| \rowcolor{gray!20}91-100 | Completely different effect |
 
 Cursed items are \hypertarget{curseditemsid}{**identified**} like any other magic item with only one exception: unless the Arcana check to identify the item exceeds 35 or the spell Identify is cast with a Magic Check and obtains a magic critical, the curse is not detected. If the check is below 35 or without a magic critical, all that is revealed is the original purpose of the magic item.
 
@@ -21490,27 +21508,27 @@ This item works only in certain situations. To determine which ones, choose an a
 
 An uncontrollable item tends to activate randomly. Roll a d\% each day. With a result of 01--05, the item spontaneously activates at some point during the day.
 
-| **\%** | **Situation** |
+| \rowcolor{gray!20}**\%** | **Situation** |
 | 01-03 | Temperature below freezing |
-| 04-05 | Temperature above freezing |
+| \rowcolor{gray!20}04-05 | Temperature above freezing |
 | 06-10 | During the day |
-| 11-15 | During the night |
+| \rowcolor{gray!20}11-15 | During the night |
 | 16-20 | Exposed to sunlight |
-| 21-25 | In absence of sunlight |
+| \rowcolor{gray!20}21-25 | In absence of sunlight |
 | 26-34 | Underwater |
-| 35-37 | Out of water |
+| \rowcolor{gray!20}35-37 | Out of water |
 | 38-45 | Underground |
-| 46-55 | On the surface |
+| \rowcolor{gray!20}46-55 | On the surface |
 | 56-60 | Within 3 meters of a type of creature |
-| 61-64 | Within 3 meters of a race or type of creature |
+| \rowcolor{gray!20}61-64 | Within 3 meters of a race or type of creature |
 | 65-72 | Within 3 meters of a spellcaster |
-| 73-80 | Within 3 meters of a Follower or Devotee of a specific Patron |
+| \rowcolor{gray!20}73-80 | Within 3 meters of a Follower or Devotee of a specific Patron |
 | 81-85 | In the hands of a non-spellcaster character |
-| 86-90 | In the hands of a spellcaster character |
+| \rowcolor{gray!20}86-90 | In the hands of a spellcaster character |
 | 91-95 | In the hands of a creature with a particular Trait |
-| 96 | In the hands of a creature of a particular gender |
+| \rowcolor{gray!20}96 | In the hands of a creature of a particular gender |
 | 97-99 | On non-sacred days or during particular astronomical occurrences |
-| 100 | More than 150 km from a certain place |
+| \rowcolor{gray!20}100 | More than 150 km from a certain place |
 
 ## Requirement
 
@@ -21546,55 +21564,55 @@ Unless otherwise indicated, drawbacks remain active for as long as the item rema
 
 **Table: Effects of cursed magic items**
 
-| **\%** | **Drawback** |
+| \rowcolor{gray!20}**\%** | **Drawback** |
 | 01-02 | The character's hair grows 2.5 cm per hour. |
-| 02-04 | The character's nails grow 1 cm every 8 hours |
+| \rowcolor{gray!20}02-04 | The character's nails grow 1 cm every 8 hours |
 | 05-06 | The character's height decreases by 5d10 cm |
-| 07-09 | The character's height increases by 5d10 cm |
+| \rowcolor{gray!20}07-09 | The character's height increases by 5d10 cm |
 | 10-11 | The temperature around the object is 5° C colder than normal. |
-| 12-13 | The temperature around the object is 20° C colder than normal. |
+| \rowcolor{gray!20}12-13 | The temperature around the object is 20° C colder than normal. |
 | 14-15 | The temperature around the object is 5° C warmer than normal. |
-| 16-17 | The temperature around the object is 20° C warmer than normal. |
+| \rowcolor{gray!20}16-17 | The temperature around the object is 20° C warmer than normal. |
 | 18-20 | The character's hair color changes. |
-| 21-23 | The character's skin color changes. |
+| \rowcolor{gray!20}21-23 | The character's skin color changes. |
 | 24 | The character's hair color changes every hour |
-| 25 | The character's skin color changes every hour |
+| \rowcolor{gray!20}25 | The character's skin color changes every hour |
 | 26 | Ram-like horns grow on the character's head |
-| 27 | Moose-like antlers grow on the character's head |
+| \rowcolor{gray!20}27 | Moose-like antlers grow on the character's head |
 | 28-29 | The character now bears a distinctive mark (a tattoo, a strange luminescence, etc.). |
-| 30-32 | The character's gender changes every day at dawn. |
+| \rowcolor{gray!20}30-32 | The character's gender changes every day at dawn. |
 | 33-34 | The character's race or species changes. |
-| 35 | The PC is affected by a randomly determined Disease, which cannot be cured. |
+| \rowcolor{gray!20}35 | The PC is affected by a randomly determined Disease, which cannot be cured. |
 | 36-39 | The object constantly emits unpleasant sounds (laments, curses, insults...). |
-| 40 | The object has a ridiculous appearance (gaudy colors, shape, glows with a pink halo, etc.). |
+| \rowcolor{gray!20}40 | The object has a ridiculous appearance (gaudy colors, shape, glows with a pink halo, etc.). |
 | 41 | A small, blue unicorn, visible only with magic, always flies around the Character giving useless advice and making stupid jokes. |
-| 42 | Every day you are seized by a sudden desire and ability to crochet for at least 1 hour. |
+| \rowcolor{gray!20}42 | Every day you are seized by a sudden desire and ability to crochet for at least 1 hour. |
 | 43-45 | The character becomes extremely possessive of the object. |
-| 46-49 | The character has an uncontrollable fear of losing the object or of it being damaged. |
+| \rowcolor{gray!20}46-49 | The character has an uncontrollable fear of losing the object or of it being damaged. |
 | 50 | A Trait is replaced |
-| 51 | The character's metabolism changes and becomes exclusively carnivorous |
+| \rowcolor{gray!20}51 | The character's metabolism changes and becomes exclusively carnivorous |
 | 52 | The character's metabolism changes and becomes exclusively vegetarian |
-| 53-54 | The character must attack the creature closest to them (5\% chance each day). |
+| \rowcolor{gray!20}53-54 | The character must attack the creature closest to them (5\% chance each day). |
 | 55-57 | The character is Stunned for 1d4 rounds each time the object serves its purpose |
-| 58-60 | The character becomes deaf |
+| \rowcolor{gray!20}58-60 | The character becomes deaf |
 | 61-64 | Maximum Hit Points are permanently reduced by 10 (remaining with a minimum of 1). |
-| 65 | Maximum Hit Points are permanently reduced by 20 (remaining with a minimum of 1). |
+| \rowcolor{gray!20}65 | Maximum Hit Points are permanently reduced by 20 (remaining with a minimum of 1). |
 | 66-68 | The PC acquires a random Phobia. |
-| 69-71 | Will ST every day at dawn with Intelligence mod or suffers 1 permanent Intelligence damage. |
+| \rowcolor{gray!20}69-71 | Will ST every day at dawn with Intelligence mod or suffers 1 permanent Intelligence damage. |
 | 72-74 | Will ST every day at dawn or suffers 1 permanent Wisdom damage. |
-| 75-77 | Will ST every day at dawn with Charisma mod or suffers 1 permanent Charisma damage. |
+| \rowcolor{gray!20}75-77 | Will ST every day at dawn with Charisma mod or suffers 1 permanent Charisma damage. |
 | 78-80 | Fortitude ST every day at dawn with Strength mod or suffers 1 permanent Strength damage. |
-| 81-83 | Fortitude ST every day at dawn with Dexterity mod or suffers 1 permanent Dexterity damage. |
+| \rowcolor{gray!20}81-83 | Fortitude ST every day at dawn with Dexterity mod or suffers 1 permanent Dexterity damage. |
 | 84-85 | Fortitude ST every day at dawn or suffers 1 permanent Constitution damage. |
-| 86-89 | The PC begins to speak of themselves in the third person. |
+| \rowcolor{gray!20}86-89 | The PC begins to speak of themselves in the third person. |
 | 90-92 | Saurovalli, dogs, and domestic cats become hostile. |
-| 93 | A Patron will do everything to kill you. |
+| \rowcolor{gray!20}93 | A Patron will do everything to kill you. |
 | 94 | The PC is teleported 10d100 Km away every day at dawn. |
-| 95 | The character is transformed into a random creature of a specific species (5\% chance each day). |
+| \rowcolor{gray!20}95 | The character is transformed into a random creature of a specific species (5\% chance each day). |
 | 96 | The character is transformed into a specific creature (5\% chance each day). |
-| 97 | The character can no longer use magic items or Spells with level above 5 |
+| \rowcolor{gray!20}97 | The character can no longer use magic items or Spells with level above 5 |
 | 98 | The character can no longer use magic items or Spells with level above 3 |
-| 99 | The character can no longer use Spells |
+| \rowcolor{gray!20}99 | The character can no longer use Spells |
 | 100 | Roll twice |
 
 ---
@@ -21989,14 +22007,14 @@ If not indicated, a creature's reach depends on its size and the weapon used (th
 
 **Table: Size Categories, Occupied Squares, and Reach**
 
-| **Size** | **Dimension** | **Example** | **Squares** | **Reach** |
+| \rowcolor{gray!20}**Size** | **Dimension** | **Example** | **Squares** | **Reach** |
 | --- | --- | --- | --- | --- |
 | Tiny | 25 x 25 cm | Cat, sprite | 1/4 | 0m |
-| Small | 0.5 x 0.5 m | Goblin, dog, Gnome | 1/2 | 1m |
+| \rowcolor{gray!20}Small | 0.5 x 0.5 m | Goblin, dog, Gnome | 1/2 | 1m |
 | Medium | 1 x 1 m | Orc, Human, Elf, Dwarf, Nibali | 1 | 1m |
-| Large | 2 x 2 m | Ogre | 2x2 | 1m |
+| \rowcolor{gray!20}Large | 2 x 2 m | Ogre | 2x2 | 1m |
 | Huge | 3 x 3 m | Giant, Ent | 3x3 | 2m |
-| Gargantuan | 4 x 4 m | Kraken, Dragon | 4x4 | 2m |
+| \rowcolor{gray!20}Gargantuan | 4 x 4 m | Kraken, Dragon | 4x4 | 2m |
 | Colossal | 12 x 12 m | Ancient Dragon, Tarrasque | 6x6 | 6m |
 
 The more experienced will have noticed that the dimensions of the creatures are smaller than usual, this is because the miniatures on the market are made for scale 1 square=1.5 meters, while in OBSS 1 square=1 meter.
@@ -22117,19 +22135,16 @@ If not indicated, but necessary for checks (not for the Attack Roll, where the v
 
 **Table: Magic Weapons Equivalence**
 
-{lp{0.055\textwidth}p{0.06\textwidth}p{0.07\textwidth
-	
-
-| **Immunity** | **Magic Weapon** | **Natural Attack (WP)** | **Empty Fist** |
+| \rowcolor{gray!20}**Immunity** | **Magic Weapon** | **Natural Attack (WP)** | **Empty Fist** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
-| +2 | +2 | 6 | 4 |
+| \rowcolor{gray!20}+2 | +2 | 6 | 4 |
 | Cold Iron | +1 | 4 | 2 |
-| Silver | +1 | 4 | 2 |
+| \rowcolor{gray!20}Silver | +1 | 4 | 2 |
 | Adamantine | +2 | 6 | 4 |
-| +3 | +3 | 12 | 8 |
+| \rowcolor{gray!20}+3 | +3 | 12 | 8 |
 | +4 | +4 | 16 | 12 |
-| +5 | +5 | - | 16 |
+| \rowcolor{gray!20}+5 | +5 | - | 16 |
 
 ## Vulnerabilities, Resistances, and Immunities
 
@@ -22318,25 +22333,25 @@ You can equip monsters with additional equipment as you prefer, using the Equipm
 
 ## Experience Points for CR
 
-Each monster, if *defeated*, grants a certain amount of Experience Points to be divided among all participants in the encounter.
+**Table: Challenge Rating and Experience Points**
+
+| \rowcolor{gray!20}**CR** | **XP** | **CR** | **XP** | **CR** | **XP** |
+| 0 | 10 | 9 | 5000 | 21 | 33000 |
+| \rowcolor{gray!20}1/8 | 25 | 10 | 5900 | 22 | 41000 |
+| 1/4 | 50 | 11 | 7200 | 23 | 50000 |
+| \rowcolor{gray!20}1/2 | 100 | 12 | 8400 | 24 | 62000 |
+| 1 | 200 | 13 | 10000 | 25 | 75000 |
+| \rowcolor{gray!20}2 | 450 | 14 | 11500 | 26 | 90000 |
+| 3 | 700 | 15 | 13000 | 27 | 105000 |
+| \rowcolor{gray!20}4 | 1100 | 16 | 15000 | 28 | 120000 |
+| 5 | 1800 | 17 | 18000 | 29 | 135000 |
+| \rowcolor{gray!20}6 | 2300 | 18 | 20000 | 30 | 155000 |
+| 7 | 2900 | 19 | 22000 |  | |
+| \rowcolor{gray!20}8 | 3900 | 20 | 25000 |  | Each monster, if *defeated*, grants a certain amount of Experience Points to be divided among all participants in the encounter. |
 
 This table indicates the relative Experience Points for CR.
 
-**Table: Challenge Rating and Experience Points**
-
-| **CR** | **XP** | **CR** | **XP** | **CR** | **XP** |
-| 0 | 10 | 9 | 5000 | 21 | 33000 |
-| 1/8 | 25 | 10 | 5900 | 22 | 41000 |
-| 1/4 | 50 | 11 | 7200 | 23 | 50000 |
-| 1/2 | 100 | 12 | 8400 | 24 | 62000 |
-| 1 | 200 | 13 | 10000 | 25 | 75000 |
-| 2 | 450 | 14 | 11500 | 26 | 90000 |
-| 3 | 700 | 15 | 13000 | 27 | 105000 |
-| 4 | 1100 | 16 | 15000 | 28 | 120000 |
-| 5 | 1800 | 17 | 18000 | 29 | 135000 |
-| 6 | 2300 | 18 | 20000 | 30 | 155000 |
-| 7 | 2900 | 19 | 22000 |  | |
-| 8 | 3900 | 20 | 25000 |  | ## Types of Treasure |
+## Types of Treasure
 
 Each type of creature may prefer a different type of treasure (understood as objects, coins, gems...). These are just suggestions on how to build the monster's treasure.
 
@@ -22370,12 +22385,10 @@ With this system, every 1000 Experience Points you level up. All the considerati
 
 **Table: Experience Points for Challenge Rating**
 
-	
-
-| **Challenge Rating** | **XP** | **Challenge Rating** | **XP** |
+| \rowcolor{gray!20}**CR** | **XP** | **CR** | **XP** |
 | --- | --- | --- | --- |
 | Easy | 20 | Medium | 30 |
-| High | 50 | Extraordinary | 80 |
+| \rowcolor{gray!20}High | 50 | Extraordinary | 80 |
 | Deadly | 120 | Epic | 160 |
 
 This system is also used to calculate the XP gained for traps or challenges overcome. The Experience Points reward for each personal or group objective achieved is 10.
@@ -22395,129 +22408,133 @@ This system is also used to calculate the XP gained for traps or challenges over
 - \makebox[2.5cm][l]{Epic:} 406\% and beyond
 - **Assign a Percentage Value to Monsters:** Use the following table to determine the *weight* (percentage) of each Adversary (*Adv.*) based on the difference between its Challenge Rating (CR) and the group's APL (*Ratio*)
 
-| **Ratio** | **\% per Adv.** | **Ratio** | **\% per Adv.** |
+| \rowcolor{gray!20}**Ratio** | **\% per Adv.** | **Ratio** | **\% per Adv.** |
 | --- | --- | --- | --- |
 | -6 | 3\% | 0 | 70\% |
-| -5 | 5\% | +1 | 105\% |
+| \rowcolor{gray!20}-5 | 5\% | +1 | 105\% |
 | -4 | 10\% | +2 | 160\% |
-| -3 | 15\% | +3 | 240\% |
+| \rowcolor{gray!20}-3 | 15\% | +3 | 240\% |
 | -2 | 25\% | +4 | 360\% |
-| -1 | 45\% | +5 | 480\% |
+| \rowcolor{gray!20}-1 | 45\% | +5 | 480\% |
 
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
 
 \end{enumerate}
----
 
 ## Optional - What to Do with Monsters
 
 This section aims to be a lighthearted homage to certain types of adventures, but also an opportunity for creativity and fun. The main suggestion is to avoid bloody, macabre, or disgusting descriptions, always maintaining a veil and trying to stay on the playful side.
 
-Roll 1d6 for the first digit and a d12 for the second digit. Cooking times can be on the order of 1d4 hours for 4 servings.
+Roll 1d4 for the first digit and a d12 for the second digit. Cooking times can be on the order of 1d4 hours for 4 servings.
 
-**Table: 1d6-12 Fantasy Monster Anatomical Parts**
+**Table: d4-12 Fantasy Monster Anatomical Parts**
 
-| **6d12** | **Parts** |
+| \rowcolor{gray!20}**6d12** | **Parts** |
 | 11 | Digestive sack |
-| 12 | Photoreactive gel |
+| \rowcolor{gray!20}12 | Photoreactive gel |
 | 13 | Translucent bulb |
-| 14 | Surface coagulating enzymes |
+| \rowcolor{gray!20}14 | Surface coagulating enzymes |
 | 15 | Iridescent mimic cells |
-| 16 | Elastic tissue |
+| \rowcolor{gray!20}16 | Elastic tissue |
 | 17 | Polyphasic optical organ |
-| 18 | Hypertrophic brain marrow |
+| \rowcolor{gray!20}18 | Hypertrophic brain marrow |
 | 19 | Enhanced conduction tendons |
-| 110 | Reactive milky blood |
+| \rowcolor{gray!20}110 | Reactive milky blood |
 | 111 | Hard mineral-infused skin |
-| 112 | Robust tendon with concentric fibers |
+| \rowcolor{gray!20}112 | Robust tendon with concentric fibers |
 | 21 | Hollow bone |
-| 22 | Toxic sweat gland |
+| \rowcolor{gray!20}22 | Toxic sweat gland |
 | 23 | Bifocal bone hook |
-| 24 | Photosensitive dermis |
+| \rowcolor{gray!20}24 | Photosensitive dermis |
 | 25 | Deep mutagenic hemolymph |
-| 26 | Hollow vertebra filled with magic |
+| \rowcolor{gray!20}26 | Hollow vertebra filled with magic |
 | 27 | Shiny crystalline scale |
-| 28 | Elemental breath gland |
+| \rowcolor{gray!20}28 | Elemental breath gland |
 | 29 | Reserve heart |
-| 210 | Muscle with magical enhancement |
+| \rowcolor{gray!20}210 | Muscle with magical enhancement |
 | 211 | Hypersensitive optic nerves |
-| 212 | Juicy fingertips |
+| \rowcolor{gray!20}212 | Juicy fingertips |
 | 31 | Nose with sensory bristles |
-| 32 | Retractable flight membrane |
+| \rowcolor{gray!20}32 | Retractable flight membrane |
 | 33 | Magical adrenaline gland |
-| 34 | Layered scarred skin |
+| \rowcolor{gray!20}34 | Layered scarred skin |
 | 35 | Regenerative dental core |
-| 36 | Multifocal prehensile appendage |
+| \rowcolor{gray!20}36 | Multifocal prehensile appendage |
 | 37 | Multi-jointed claw |
-| 38 | Soft cold fin |
+| \rowcolor{gray!20}38 | Soft cold fin |
 | 39 | Retina with rigid internal reflection |
-| 310 | Full magical cyst |
+| \rowcolor{gray!20}310 | Full magical cyst |
 | 311 | Alternative senses |
-| 312 | Fatty tissue with magic reserve |
+| \rowcolor{gray!20}312 | Fatty tissue with magic reserve |
 | 41 | Oversized lymph gland |
-| 42 | Focused visual tissue |
+| \rowcolor{gray!20}42 | Focused visual tissue |
 | 43 | Multipolar gas sac |
-| 44 | Sensory-tactile nervature |
+| \rowcolor{gray!20}44 | Sensory-tactile nervature |
 | 45 | Energy-absorbing skin |
-| 46 | Tentacle with active suckers |
+| \rowcolor{gray!20}46 | Tentacle with active suckers |
+
+| \rowcolor{gray!20}**6d12** | **Parts** |
 | 47 | Corrosive secretion gland |
-| 48 | Autonomous secondary marrow |
+| \rowcolor{gray!20}48 | Autonomous secondary marrow |
 | 49 | Cardiac tissue with alternating rhythm |
-| 410 | Trained auricular plates |
+| \rowcolor{gray!20}410 | Trained auricular plates |
 | 411 | Flexible bone joint |
-| 412 | Secondary lung with air bladders |
+| \rowcolor{gray!20}412 | Secondary lung with air bladders |
 
-## d6-8 Magical Effects from Ingestion or Preparation
+**d12-4 Magical Effects from Ingestion or Preparation**
 
-| **d68** | **Effects** |
+| \rowcolor{gray!20}**d12-4** | **Effects** |
 | 11 | Night vision for 1d6 hours |
-| 12 | Animals avoid the character |
-| 13 | +1 Natural armor for 1 hour |
-| 14 | +2 to Deception for 1 hour |
-| 15 | +1 Strength for 1d6 rounds |
-| 16 | Regeneration (1 HP every 1 T for 1 hour) |
-| 17 | +1d6 on Jump checks for 2d4 hours |
-| 18 | +2 to Awareness for 30 minutes |
-| 21 | Acid resistance for 1d6 hours |
-| 22 | +1d6 to Intimidate for 1 hour |
-| 23 | Levitation for 10 minutes |
-| 24 | +2 to Acrobatics for 1 hour |
-| 25 | Climbing movement for 10 minutes |
-| 26 | Camouflage: +1 to Stealth for 1d6 T |
-| 27 | Smell find poisons/diseases for 1d6 hours |
-| 28 | Breathe underwater for 1 hour |
-| 31 | +1 meter Movement for 1d4 hours |
-| 32 | Elemental language for 1 hour |
-| 33 | +2 to Search or Traps for 1d6 hours |
-| 34 | Claws: 1d6 damage for 1d6 hours |
-| 35 | Boneless: you can shrink by 2 sizes |
-| 36 | Immunity to cold for 1d4 hours |
-| 37 | Gaseous form for 1 hour |
-| 38 | Healed 3d6 Hit Points |
-| 41 | See invisible for 1d4 rounds |
-| 42 | Benign parasite absorbs poison and dies |
-| 43 | Acid breath (2d6 acid damage, cone 4 meters, DC 10+Level) 1/T, 1d4 hours |
-| 44 | Burning breath (see acid breath) |
-| 45 | Recover 1d6 magic points |
-| 46 | Immunity to optical illusions and glare for 1d6 hours |
-| 47 | Acid breath (see acid breath) |
-| 48 | Air bladders. No breathing for 2d4 T |
-| 51 | Sweat repels insects for 2d8 hours |
-| 52 | +2 to voice Perform for 1 hour |
-| 53 | Blind for 1d4 hours |
-| 54 | Twilight vision 9 meters for 1 hour |
-| 55 | Liquid: like jelly for 1d10 rounds |
-| 56 | Mineral: DR 4/magic to physical damage, for 2d4 T |
-| 57 | Sleep: you fall asleep for 1d6 hours |
-| 58 | Hasted: +1 Reaction per round for 1d6 minutes |
-| 61 | Darkvision 9 meters for 1d4 hours |
-| 62 | Slowed: -1 Action for 1d8 minutes |
-| 63 | Hasted (2): +1 Action per round for 1d6 minutes |
-| 64 | Blind vision 6 meters for 1d4 hours |
-| 65 | Fatigued: +1 level of exhaustion |
-| 66 | Foot sores: -1 m movement for 1d6 hours |
-| 67 | Blurred vision: -2 to AR for 1d6 hours |
-| 68 | Fatigued: -2 to physical damage for 1d6 hours |
+| \rowcolor{gray!20}12 | Animals avoid the character |
+| 13 | +1 Natural Defense for 1 hour |
+| \rowcolor{gray!20}14 | +2 to Deception for 1 hour |
+| 21 | +1 to Strength for 1d6 Turns |
+| \rowcolor{gray!20}22 | Regeneration (1 HP every 1T for 1 hour) |
+| 23 | +1d6 to Jump checks for 2d4 hours |
+| \rowcolor{gray!20}24 | +2 to Awareness for 30 minutes |
+| 31 | Acid resistance for 1d6 hours |
+| \rowcolor{gray!20}32 | +1d6 to Intimidate for 1 hour |
+| 33 | Levitation for 10 minutes |
+| \rowcolor{gray!20}34 | +2 to Acrobatics for 1 hour |
+| 41 | Climb Movement for 10 minutes |
+| \rowcolor{gray!20}42 | Camouflage: +1 to Stealth for 1d6 Turns |
+| 43 | Smell reveals poisons/diseases for 1d6 hours |
+| \rowcolor{gray!20}44 | Breathe underwater for 1 hour |
+| 51 | +1 meter to Movement for 1d4 hours |
+| \rowcolor{gray!20}52 | Elemental Language for 1 hour |
+| 52 | Fingertips: +2 to Search or Traps for 1d6 hours |
+| \rowcolor{gray!20}53 | Claws: 1d6 damage for 1d6 hours |
+| 54 | Boneless: can shrink by 2 sizes |
+| \rowcolor{gray!20}72 | Acid breath (2d6 damage in cone, 4 meters, DC 10+LV) 1xT, 1d4 Hours |
+
+| \rowcolor{gray!20}**d12-4** | **Effects** |
+| 61 | Cold immunity for 1d4 hours |
+| \rowcolor{gray!20}62 | Gaseous form for 1 hour |
+| 63 | Healed for 3d6 Hit Points |
+| \rowcolor{gray!20}64 | See invisible for 1d4 Turns |
+| 71 | Benign parasite absorbs poison and dies |
+| 73 | Fire breath (see acid breath) |
+| \rowcolor{gray!20}74 | Recover 1d6 Magic Points |
+| 81 | Immunity to optical illusions and dazzlement for 1d6 hours |
+| \rowcolor{gray!20}82 | Acid breath (see acid breath) |
+| 83 | Air sacs. Don't breathe for 2d4 Turns |
+| \rowcolor{gray!20}84 | Sweat repels insects for 2d8 hours |
+| 91 | +2 to Entertain (beautiful voice) for 1 hour |
+| \rowcolor{gray!20}92 | Blind for 1d4 hours |
+| 93 | Low-light vision 9 meters for 1 hour |
+| \rowcolor{gray!20}94 | Liquid: like an ooze for 1d10 Turns |
+| 101 | Mineral: DR 4/magic to physical damage, for 2d4 T |
+| \rowcolor{gray!20}102 | Sleep: you fall asleep for 1d6 hours |
+| 103 | Hasted: +1 Reaction per round for 1d6 minutes |
+| \rowcolor{gray!20}104 | Darkvision 9 meters for 1d4 hours |
+| 111 | Slowed: -1 Action for 1d8 minutes |
+| \rowcolor{gray!20}112 | Hyper-fast: +1 Action per round for 1d6 minutes |
+| 113 | Blindsight 6 meters for 1d4 hours |
+| \rowcolor{gray!20}114 | Fatigued: +1 fatigue level |
+| 121 | Stomach upset: -4 to all Actions for 1 hour |
+| \rowcolor{gray!20}122 | Severe dermatitis: -2 to Actions using hands for 1d4 hours |
+| 123 | Foot blisters: all terrain is difficult for 1d10 minutes |
+| \rowcolor{gray!20}124 | Third eye: +2 to Awareness checks for 1d4 hours |
 
 ---
 
@@ -25778,35 +25795,35 @@ In the **Description of each Ancient Dragon** you will find a brief description 
 
 	
 
-| **Color** | **List** |
+| \rowcolor{gray!20}**Color** | **List** |
 | --- | --- |
 | White | Water |
-| Blue | Air |
+| \rowcolor{gray!20}Blue | Air |
 | Yellow | Fire, Evocation |
-| Purple | Earth |
+| \rowcolor{gray!20}Purple | Earth |
 | Black | Water, Necromancy |
-| Red | Fire |
+| \rowcolor{gray!20}Red | Fire |
 | Green | Animals and Plants |
-| Bronze | Abjuration |
+| \rowcolor{gray!20}Bronze | Abjuration |
 | Brass | Illusion, Divination |
-| Silver | Transmutation |
+| \rowcolor{gray!20}Silver | Transmutation |
 | Gold | Healing, Evocation |
-| Copper | Invocation |
+| \rowcolor{gray!20}Copper | Invocation |
 
 **Special Powers of Dragons**
 
 Each Dragon, depending on its age, has one or more random special powers.
 If it's a Wyrmling Dragon, it has 1 random power, 2 if it's Young or Adult, and 3 if it's Ancient. In case of repeated powers, don't repeat the roll.
 
-| **3d6** | **Dragon Power** |
+| \rowcolor{gray!20}**3d6** | **Dragon Power** |
 | 3 | Quick recharge. The Dragon recharges its breath with 4-6. |
-| 4 | Surprising agility. The Dragon's Defense increases by an additional +4. |
+| \rowcolor{gray!20}4 | Surprising agility. The Dragon's Defense increases by an additional +4. |
 | 5-7 | Lord of Serpents. The tail has a poisonous stinger that inflicts 2xCR HP of poison damage. Fortitude ST DC 10+CR to halve. |
-| 8-10 | Blessed by Tàhil. The Dragon has better Saving Throws. +1d6 to each Saving Throw. |
+| \rowcolor{gray!20}8-10 | Blessed by Tàhil. The Dragon has better Saving Throws. +1d6 to each Saving Throw. |
 | 11-13 | Lizard Queen. The Dragon's gaze has the same effect as that of the Basilisk. |
-| 14-15 | Power of Iron. The Dragon has *Rust Metal* like the Rust Monster. |
+| \rowcolor{gray!20}14-15 | Power of Iron. The Dragon has *Rust Metal* like the Rust Monster. |
 | 16 | Magic resistance. The Dragon is immune to spells below CR/5 level. |
-| 17 | Additional immunity. The Dragon is immune to damage from one more form of Energy (p. ) in addition to random (p. ). |
+| \rowcolor{gray!20}17 | Additional immunity. The Dragon is immune to damage from one more form of Energy (p. ) in addition to random (p. ). |
 | 18 | Armored skin. The Dragon has damage reduction equal to CR/3 to S/P/B damage. |
 
 > Oh cursed ones may Lynx close all your portals |
@@ -33755,18 +33772,6 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 10 (1d10 + 5) piercing damage.
 
->> **Il Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
-
-Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
-
-Nethergal, rather shocked by the loss of a useful animal for carrying messages and rideable over long distances, and lacking the power to create a new creature from nothing, turned to Efrem and Orlaith. She asked Efrem to identify an animal that could be robust, fast, and suitable for riding, while asking Orlaith to instill obedience and courage in it.
-
-Efrem, knowing that Torbiorn had brought millions of his beloved dinosaurs to the planet, chose the Parasaurolophus and, with Orlaith's support, made it more compact, small, tame, herbivorous: perfect for riding.
-
-He also created a smaller, dwarf version that could adapt to carrying creatures of small size.
-
-Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost displeasure!
-
 \mostro{Saurovall, Draft}
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
@@ -33814,6 +33819,18 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost disp
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
+
+>> **Il Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
+
+Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
+
+Nethergal, rather shocked by the loss of a useful animal for carrying messages and rideable over long distances, and lacking the power to create a new creature from nothing, turned to Efrem and Orlaith. She asked Efrem to identify an animal that could be robust, fast, and suitable for riding, while asking Orlaith to instill obedience and courage in it.
+
+Efrem, knowing that Torbiorn had brought millions of his beloved dinosaurs to the planet, chose the Parasaurolophus and, with Orlaith's support, made it more compact, small, tame, herbivorous: perfect for riding.
+
+He also created a smaller, dwarf version that could adapt to carrying creatures of small size.
+
+Unfortunately mosquitoes, bedbugs, and flies remained, to everyone's utmost displeasure!
 
 \mostro{Scorpion}
 - **Size/Type**: Tiny beast, unaligned
@@ -34791,14 +34808,14 @@ The Oozekin template gives the creature a *gelatinous* and fluid appearance
 
 ## Monster List by Challenge Rating
 
-| **Conditions** | **Penality** | **Recovery** |
+| \rowcolor{gray!20}**Conditions** | **Penality** | **Recovery** |
 | --- | --- | --- |
 | Fatigued | 1 | 1h |
-| Fatigued 2 | 2 | 1h |
+| \rowcolor{gray!20}Fatigued 2 | 2 | 1h |
 | Fatigued 3 | 3 | 8h |
-| Fatigued 4 | 4 | 12h |
+| \rowcolor{gray!20}Fatigued 4 | 4 | 12h |
 | Fatigued 5 | Unconscious | 6h |
-| Fatigued 6 | Death | -- |
+| \rowcolor{gray!20}Fatigued 6 | Death | -- |
 
 After 8 hours of rest, a creature goes from Fatigued 3 to Fatigued 2 and after another hour becomes Fatigued, provided they don't suffer further fatigue.
 
@@ -34834,11 +34851,11 @@ If a confused creature is attacked, it always attacks the last creature that att
 
 Roll a die on the following table at the start of each round of the confused creature to see what it does that round.
 
-| **d10** | **Behavior** |
+| \rowcolor{gray!20}**d10** | **Behavior** |
 | 1 | The creature uses all its Actions to move in a random direction. To determine the direction, roll a d8 |
-| 2-5 | The creature does nothing for the entire round |
+| \rowcolor{gray!20}2-5 | The creature does nothing for the entire round |
 | 6 | The creature attacks itself and ends the round |
-| 7-8 | The creature attacks a randomly determined creature within 1 Movement Action. If it was hit in the previous round, it will attack the creature that hit it. After making the attack, the round ends. |
+| \rowcolor{gray!20}7-8 | The creature attacks a randomly determined creature within 1 Movement Action. If it was hit in the previous round, it will attack the creature that hit it. After making the attack, the round ends. |
 | 9-10 | The creature can act and move normally. |
 
 A confused creature that is unable to perform the indicated action will do nothing but babble incoherently. Attackers have no special advantage when attacking a confused creature. Any confused creature that is attacked automatically attacks its aggressor in return.
@@ -34952,26 +34969,58 @@ If the creature becomes dying, goes to negative Hit Points, and is then brought 
 
 # Tables for Random Rolls
 
-| **3d6** | **Effect** |
+{ {
+
+**Energy Sources Table**
+
+	
+
+| \rowcolor{gray!20}3d6 | Energy |  | |
+| 3-5 | Negative Energy | 6-8 | Positive Energy |
+| \rowcolor{gray!20}9-11 | Fire | 12-13 | Cold |
+| 14 | Electricity | 15 | Sound |
+| \rowcolor{gray!20}16 | Light | 17 | Void |
+| 18 | Force |  | |
+
+The blue dot determines the spell's origin point
+
+**Enemy Range ExamplesTable: Spell Shapes - Sphere and ConeCritical Failure Effects Generator for Attacks**
+
+| \rowcolor{gray!20}**3d6** | **Effect** |
 | 3 | You're embarrassed by your strike, but nothing particular happens |
-| 4 | You lose balance. Until the start of the next round you have -2 to Defense |
+| \rowcolor{gray!20}4 | You lose balance. Until the start of the next round you have -2 to Defense |
 | 5 | You misplace your foot. Until the end of the next round you treat terrain as difficult |
-| 6 | You lose your breath. Until the start of the next round you have -1 Strength |
+| \rowcolor{gray!20}6 | You lose your breath. Until the start of the next round you have -1 Strength |
 | 7 | Pirouette. You move in a random direction 1 meter |
-| 8 | Clumsy. Until the start of the next round you have -4 to Defense |
+| \rowcolor{gray!20}8 | Clumsy. Until the start of the next round you have -4 to Defense |
 | 9 | Black eye. Until the end of the next round every opponent enjoys light cover |
-| 10 | Butter fingers. You drop your weapon |
+| \rowcolor{gray!20}10 | Butter fingers. You drop your weapon |
 | 11 | Muscle strain. The next attack doesn't add Strength to damage |
-| 12 | Fragile ankle. While delivering the blow you stumble. You fall prone |
+| \rowcolor{gray!20}12 | Fragile ankle. While delivering the blow you stumble. You fall prone |
 | 13 | You drop your weapon 3 meters away in a random direction |
-| 14 | You lose confidence in yourself. You execute the next attack with an additional -4 |
+| \rowcolor{gray!20}14 | You lose confidence in yourself. You execute the next attack with an additional -4 |
 | 15 | Wrong target. You hit a random creature within range. |
-| 16 | Confused. You hit yourself on the head. Until the end of the round you are under the Confusion spell |
+| \rowcolor{gray!20}16 | Confused. You hit yourself on the head. Until the end of the round you are under the Confusion spell |
 | 17 | You hit yourself hard. Roll regular damage against yourself. The round ends |
-| 18 | You hit yourself hard in the head. As 17 and whoever is in melee against you can make an opportunity attack using a Reaction. The round ends |
+| \rowcolor{gray!20}18 | You hit yourself hard in the head. As 17 and whoever is in melee against you can make an opportunity attack using a Reaction. The round ends |
 | 19+ | You hit yourself hard. Roll damage and apply two critical hits against yourself. The round ends |
 
 **Table: Random Weapon Generation**
+
+| **1d100** | **Weapon** | **1d100** | **Weapon** | **1d100** | **Weapon** | **1d100** | **Weapon** |
+| 1-2 | Broken weapon | 26-27 | Halberd | 51-52 | Short sword | 76-77 | Long sword |
+| \rowcolor{gray!20}3-4 | Longbow | 28-29 | Short bow | 53-54 | Double-bladed sword | 78-79 | Bastard sword |
+| 5-6 | Battle axe | 30-31 | One-handed axe | 55-56 | Heavy pike | 80-81 | Broad sword |
+| \rowcolor{gray!20}7-8 | Hand crossbow | 32-33 | Staff | 57-58 | Dagger | 82-83 | Two-handed sword |
+| 9-10 | Light crossbow | 34-35 | Sickle | 59-60 | Scimitar | 84-85 | Rapier |
+| \rowcolor{gray!20}11-12 | Heavy crossbow | 36-37 | Double flail | 61-62 | Light mace | 86-87 | Trident |
+| 13-14 | Spiked chain | 38-39 | Whip | 63-64 | Flanged mace | 88-89 | Urgrosh |
+| \rowcolor{gray!20}15-16 | Estoc | 40-41 | Javelin | 65-66 | Spiked mace | 90-91 | Katana |
+| 17-18 | Sickle | 42-43 | Machete | 67-68 | Light pike | 92-93 | Club |
+| \rowcolor{gray!20}19-20 | Poleaxe | 44-45 | War hammer | 69-70 | Spear | 94-95 | Spiked gauntlet |
+| 21-22 | Composite longbow | 46-47 | Heavy flail | 71-72 | Flail | 96-97 | Axe hammer |
+| \rowcolor{gray!20}23-24 | Composite short bow | 48-49 | Infantry spear | 73-74 | Great double axe | 98-99 | War maul |
+| 25 | Falchion | 50 | Cudgel | 75 | Short spear | 100 | Special weapon |
 
 ---
 
@@ -34983,80 +35032,80 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 
 ### Male Initial Syllables
 
-| **3d6** | **Syllable** | **3d6** | **Syllable** |
+| \rowcolor{gray!20}**3d6** | **Syllable** | **3d6** | **Syllable** |
 | 3 | Zeph | 11 | Mer |
-| 4 | Xar | 12 | Kor |
+| \rowcolor{gray!20}4 | Xar | 12 | Kor |
 | 5 | Bra | 13 | Lun |
-| 6 | Cae | 14 | Nor |
+| \rowcolor{gray!20}6 | Cae | 14 | Nor |
 | 7 | Dar | 15 | Oth |
-| 8 | Eld | 16 | Quin |
+| \rowcolor{gray!20}8 | Eld | 16 | Quin |
 | 9 | Gar | 17 | Thaan |
-| 10 | Hal | 18 | Zarak |
+| \rowcolor{gray!20}10 | Hal | 18 | Zarak |
 
 ### Central Syllables (2d6)
 
-| **2d6** | **Syllable** | **2d6** | **Syllable** |
+| \rowcolor{gray!20}**2d6** | **Syllable** | **2d6** | **Syllable** |
 | 2 | - (skip) | 8 | ren |
-| 3 | - (skip) | 9 | el |
+| \rowcolor{gray!20}3 | - (skip) | 9 | el |
 | 4 | - (skip) | 10 | an |
-| 5 | dor | 11 | en |
+| \rowcolor{gray!20}5 | dor | 11 | en |
 | 6 | gal | 12 | thil |
-| 7 | ar |  | |
+| \rowcolor{gray!20}7 | ar |  | |
 
 ### Male Final Syllables (3d6)
 
-| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| \rowcolor{gray!20}**3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
 | 3 | grim | 9 | dan | 15 | reth |
-| 4 | thus | 10 | ion | 16 | thor |
+| \rowcolor{gray!20}4 | thus | 10 | ion | 16 | thor |
 | 5 | dus | 11 | dor | 17 | valos |
-| 6 | kar | 12 | nor | 18 | zeth |
+| \rowcolor{gray!20}6 | kar | 12 | nor | 18 | zeth |
 | 7 | las | 13 | on |  | |
-| 8 | mel | 14 | mir |  | |
+| \rowcolor{gray!20}8 | mel | 14 | mir |  | |
 
 ## Tables for Female Names
 
 ### Female Initial Syllables (3d6)
 
-| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| \rowcolor{gray!20}**3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
 | 3 | Zara | 9 | Gwen | 15 | Ora |
-| 4 | Xyla | 10 | Hel | 16 | Syl |
+| \rowcolor{gray!20}4 | Xyla | 10 | Hel | 16 | Syl |
 | 5 | Ara | 11 | Mira | 17 | Thea |
-| 6 | Bel | 12 | Isa | 18 | Zyra |
+| \rowcolor{gray!20}6 | Bel | 12 | Isa | 18 | Zyra |
 | 7 | Cel | 13 | Lil |  | |
-| 8 | Ela | 14 | Nym |  | |
+| \rowcolor{gray!20}8 | Ela | 14 | Nym |  | |
 
 ### Female Final Syllables (3d6)
 
-| **3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
+| \rowcolor{gray!20}**3d6** | **Syllable** | **3d6** | **Syllable** | **3d6** | **Syllable** |
 | 3 | neth | 9 | ana | 15 | riel |
-| 4 | essa | 10 | ara | 16 | tha |
+| \rowcolor{gray!20}4 | essa | 10 | ara | 16 | tha |
 | 5 | beth | 11 | elle | 17 | saal |
-| 6 | dra | 12 | lynn | 18 | vyth |
+| \rowcolor{gray!20}6 | dra | 12 | lynn | 18 | vyth |
 | 7 | ena | 13 | ina |  | |
-| 8 | iel | 14 | mira |  | |
+| \rowcolor{gray!20}8 | iel | 14 | mira |  | |
 
 ## Fantasy Place Names
 
 ### Place Prefixes (2d10)
 
-| **2d10** | **Prefix** | **2d10** | **Prefix** | **2d10** | **Prefix** |
+| \rowcolor{gray!20}**2d10** | **Prefix** | **2d10** | **Prefix** | **2d10** | **Prefix** |
 | 2 | Deep | 9 | Fort | 16 | Earth |
-| 3 | High | 10 | Lake | 17 | Tower |
+| \rowcolor{gray!20}3 | High | 10 | Lake | 17 | Tower |
 | 4 | Low | 11 | Mount | 18 | Valley |
-| 5 | Wood | 12 | Stone | 19 | Wind |
+| \rowcolor{gray!20}5 | Wood | 12 | Stone | 19 | Wind |
 | 6 | Field | 13 | Oak | 20 | Free |
-| 7 | House | 14 | Rock |  | |
+| \rowcolor{gray!20}7 | House | 14 | Rock |  | |
 | 8 | Hill | 15 | Sun |  | |
 
 ### Place Suffixes (2d10)
 
-| **2d10** | **Suffix** | **2d10** | **Suffix** | **2d10** | **Suffix** |
+| \rowcolor{gray!20}**2d10** | **Suffix** | **2d10** | **Suffix** | **2d10** | **Suffix** |
 | 2 | abyss | 9 | lands | 16 | rock |
-| 3 | burg | 10 | mark | 17 | shore |
+| \rowcolor{gray!20}3 | burg | 10 | mark | 17 | shore |
 | 4 | farm | 11 | sea | 18 | valley |
-| 5 | field | 12 | mount | 19 | pass |
+| \rowcolor{gray!20}5 | field | 12 | mount | 19 | pass |
 | 6 | fort | 13 | nova | 20 | peak |
-| 7 | guard | 14 | plain |  | |
+| \rowcolor{gray!20}7 | guard | 14 | plain |  | |
 | 8 | haven | 15 | port |  | |
 
 ## Special Cultural Tables
@@ -35064,33 +35113,33 @@ To create a fantasy name, roll 3d6 on the Initial Syllables Table, 2d6 on the Ce
 ### Elven Names (2d12)
 **Roll 2d12 for elven initials and finals:**
 
-| **2d12** | **Initial** | **2d12** | **Final** |
+| \rowcolor{gray!20}**2d12** | **Initial** | **2d12** | **Final** |
 | 2 | Ael | 2 | adir |
-| 3 | Cel | 3 | anduil |
+| \rowcolor{gray!20}3 | Cel | 3 | anduil |
 | 4 | Elen | 4 | aron |
-| 5 | Gal | 5 | dir |
+| \rowcolor{gray!20}5 | Gal | 5 | dir |
 | 6 | Gil | 6 | galadriel |
-| 7 | Hal | 7 | las |
+| \rowcolor{gray!20}7 | Hal | 7 | las |
 | 8 | Leg | 8 | moth |
-| 9 | Mith | 9 | ond |
+| \rowcolor{gray!20}9 | Mith | 9 | ond |
 | 10 | Thran | 10 | riel |
-| 11 | Elr | 11 | thil |
+| \rowcolor{gray!20}11 | Elr | 11 | thil |
 | 12 | Galar | 12 | wyn |
 
 ### Dwarven Names (2d12)
 **Roll 2d12 for dwarven initials and finals:**
 
-| **2d12** | **Initial** | **2d12** | **Final** |
+| \rowcolor{gray!20}**2d12** | **Initial** | **2d12** | **Final** |
 | 2 | Bal | 2 | dan |
-| 3 | Bor | 3 | din |
+| \rowcolor{gray!20}3 | Bor | 3 | din |
 | 4 | Dain | 4 | dur |
-| 5 | Dur | 5 | grim |
+| \rowcolor{gray!20}5 | Dur | 5 | grim |
 | 6 | Gim | 6 | gar |
-| 7 | Grim | 7 | kan |
+| \rowcolor{gray!20}7 | Grim | 7 | kan |
 | 8 | Kaz | 8 | mor |
-| 9 | Mor | 9 | mur |
+| \rowcolor{gray!20}9 | Mor | 9 | mur |
 | 10 | Thar | 10 | rik |
-| 11 | Thor | 11 | thor |
+| \rowcolor{gray!20}11 | Thor | 11 | thor |
 | 12 | Ur | 12 | zak |
 
 } %close small
