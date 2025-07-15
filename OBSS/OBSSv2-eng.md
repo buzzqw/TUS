@@ -15570,7 +15570,7 @@ The Narrator might require a Disable Device check. If you don't have **thieves' 
 
 If you want to temporarily disable a trap, add 6 to the difficulty. This will disable the trap for 2d4 minutes.
 
-A **magic trap can be disabled** with a Disable Device check provided that the Arcana value is at least 1/5 of the trap's DC in addition to any other check indicated in the trap description. The Arcana check can also be made by someone who doesn't have Disable Device, but with the difficulty marked in the trap and together with whoever is making the Disable Device check. The Dispel Magic spell has a chance of cancelling most magic traps.
+A **magic trap can be disarmed** with a Disable Device check or an Arcana check, provided that the Arcana value is at least 1/5 of the trap's DC in addition to any other check indicated in the trap's description. The Arcana check, which can also be made by those who do not have Disable Device, has the same difficulty as the Disable Device check. The Dispel Magic spell has a chance to cancel most magic traps.index{Disable magic traps}. A Dispel Spell can cancel the magic part of a trap whose required Arcana DC is 3 or lower, if it requires 4 then the magic component is deactivated for 10 minutes. A Greater Dispel Magic can cancel the magic part of the trap whose required Arcana DC is 4 or lower, if it requires 5 then the magic component is disabled for 10 minutes. For each Spell Crit in the Spell Check, the required Arcana DC is raised by one.
 
 If the check to disable or disarm the trap fails and you get a Critical Failure, the trap triggers.
 
