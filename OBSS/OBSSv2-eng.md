@@ -6070,6 +6070,8 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 
 **Table: Magic Critical Failure Effects**
 
+| **3d6** | **Effect** |
+| --- | --- |
 | \rowcolor{gray!20}1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check |
 | 2 | You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5 |
 | \rowcolor{gray!20}3 | You manifest a minor bodily modification |
@@ -6080,7 +6082,6 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 | 8 | You become Invisible and paralyzed for 6 rounds |
 | \rowcolor{gray!20}9 | Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds |
 | 10 | You cannot speak well, you are stuttering. Every spell casting forces you to pass a Magic Check. Duration 3 rounds |
-
 | \rowcolor{gray!20}11 | You manifest the Grease spell under your feet |
 | 12 | The next spell you cast has effects minimized if possible |
 | \rowcolor{gray!20}13 | Your heartbeat is like the beat of a drum, it can be heard within 36 meters |
@@ -15930,10 +15931,10 @@ Here are additional traps for your enjoyment.
 | \rowcolor{gray!20}**CR:** 9 | **Teleport Maze** |
 | **Type:** | magical |
 | \rowcolor{gray!20}**Survival:** | DC 31 |
-| **Dis. Dev.:** | DC 29 |
+| **Dis. Dev.:** | DC 29/5 |
 | \rowcolor{gray!20}**Activator:** | proximity (5m) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | Random teleport to trap room. Will DC 20 or confused 1d4 rounds. |
+| \rowcolor{gray!20}**Effect:** | Random teleport to trap room. Will DC 20 and confused 1d4 rounds. |
 | \rowcolor{gray!20}**CR:** 11 | **Poisoned Pit** |
 | **Type:** | mechanical |
 | \rowcolor{gray!20}**Survival:** | DC 25 |

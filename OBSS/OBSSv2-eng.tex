@@ -9516,7 +9516,9 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{l|X}
+\noindent\begin{tabularx}{\linewidth}{lX}
+\toprule
+\textbf{3d6}&\textbf{Effect}\\
 \toprule
 \rowcolor{gray!20}1 & For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check\\
 2 & You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5\\
@@ -9528,8 +9530,6 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 8 & You become Invisible and paralyzed for 6 rounds\\
 \rowcolor{gray!20}9 & Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds\\
 10 & You cannot speak well, you are stuttering. Every spell casting forces you to pass a Magic Check. Duration 3 rounds\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{l|X}
 \rowcolor{gray!20}11 & You manifest the Grease spell under your feet\\
 12 & The next spell you cast has effects minimized if possible\\
 \rowcolor{gray!20}13 & Your heartbeat is like the beat of a drum, it can be heard within 36 meters\\
@@ -9566,7 +9566,7 @@ Magic Points are all recovered with 8 hours of rest. \index[OBSSv2]{Spells, Reco
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{XX|XX|XX}
+\noindent\begin{tabularx}{\linewidth}{Xl|Xl|Xl}
 	\toprule
 \rowcolor{gray!20}\textbf{MProv} & \textbf{MP}&\textbf{MProv} & \textbf{MP}&\textbf{MProv} & \textbf{MP}\\
 \toprule
@@ -19102,6 +19102,7 @@ The table presents the name of the weapon, its cost in gold coins, the damage an
 
 %\noindent\begin{xltabular}{1\textwidth}{lll>{small}X}
 \noindent\begin{xltabular}{\linewidth}{lllX}
+	\toprule
 \rowcolor{gray!20}\textbf{Weapon}&\textbf{Cost}&\textbf{Size/Damage} & \textbf{Range, List, Special}\\
 \toprule
 Halberd& 10 & L/1d10 P/S& \textbf{Spears}, \textbf{Polearms}, Brace, Reach weapon, ED9 \\
@@ -19733,7 +19734,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 \noindent\begin{tabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
 	\toprule
  \rowcolor{gray!20}\textbf{Item} & \textbf{Cost} & \textbf{Enc.} \\
-	\midrule
+	\toprule
 
 Abacus&2 gp&L\\
 \rowcolor{gray!20}Alchemist's Fire (flask) & 20 gp & L \\
@@ -19783,7 +19784,7 @@ Climber's kit & 80 gp& 1\\
 \noindent\begin{tabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
 \toprule
 \rowcolor{gray!20}\textbf{Item} & \textbf{Cost} & \textbf{Enc.} \\
-\midrule
+\toprule
 Disguise kit & 50 gp & L \\
 \rowcolor{gray!20}Entertainer's outfit & 3 gp& 1\\
 Exotic saddle & 60 gp & 3 \\
@@ -19853,7 +19854,7 @@ Pole (10 ft)& 5 cp& 2\\
 \noindent\begin{tabular}{p{4.6cm}p{1.5cm}p{0.8cm}}
 \toprule
 \rowcolor{gray!20}\textbf{Item} & \textbf{Cost} & \textbf{Enc.} \\
-\midrule
+\toprule
 Pouch & 5 sp & L \\
 \rowcolor{gray!20}Quill & 1 sp & -- \\
 \hyperlink{Faretra}{Quiver} & 3 gp & 1 \\
@@ -22687,10 +22688,10 @@ Here are additional traps for your enjoyment.
 	\rowcolor{gray!20}\textbf{CR:} 9 & \textbf{Teleport Maze}\\
 	\textbf{Type:} & magical \\
 	\rowcolor{gray!20}\textbf{Survival:} & DC 31 \\
-	\textbf{Dis. Dev.:} & DC 29 \\
+	\textbf{Dis. Dev.:} & DC 29/5 \\
 	\rowcolor{gray!20}\textbf{Activator:} & proximity (5m) \\
 	\textbf{Reset:} & none \\
-	\rowcolor{gray!20}\textbf{Effect:} & Random teleport to trap room. Will DC 20 or confused 1d4 rounds.
+	\rowcolor{gray!20}\textbf{Effect:} & Random teleport to trap room. Will DC 20 and confused 1d4 rounds.
 \end{tabularx}\\
 
 \medskip
@@ -23010,7 +23011,7 @@ To \emph{find} the ingredients to prepare \textbf{natural potions}, it is necess
 \noindent\begin{tabularx}{\linewidth}{m{4.8cm}lllm{6.5cm}c}
 	\toprule
  \rowcolor{gray!20}\textbf{Poison Name} & \textbf{Use} & \textbf{Ons.} & \textbf{ST} & \textbf{Effect (damage)} & \textbf{Cost}\\
-	\midrule
+	\toprule
 	Red Mixture \index[OBSSv2]{Red Mixture} & F& -& 13& -1d6 AR/ST for 10 minutes & 10\\
  \rowcolor{gray!20}Purple Shrew Fat \index[OBSSv2]{Purple Shrew Fat} & C& 1 r& 13& 2d12 Hit Points & 15\\
 	Dennar Kernel \index[OBSSv2]{Dennar Kernel}& I& 1 r& 13& -1d2 Strength, for 3 days& 15\\
@@ -23422,7 +23423,7 @@ This table shows the base values of land movement in non-combat situations.
 \rowcolor{gray!20}\multirow{2}*{\textbf{Movement type}} &
 \multicolumn{3}{c}{\textbf{Movement}}\\
 \cmidrule(lr){2-4} & \textbf{6m}& \textbf{9m} & \textbf{12m}\\
-\midrule
+\toprule
 \multicolumn{4}{c}{\textbf{Movement (Tactical)}}\\
 \rowcolor{gray!20}Walking& 6m & 9m & 12m\\
 Running (x2) & 12m& 18m& 24m\\
@@ -24691,7 +24692,7 @@ Then consult the \hyperlink{tipologiaoggettomagico}{Table Magic Item Type} (p. \
 \noindent\begin{tabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
 	\toprule
 	\multicolumn{8}{c}{\textbf{Treasures from lairs or hideouts of creatures}} \\
-	\midrule
+	\toprule
  \rowcolor{gray!20}TC & \textbf{cp} & \textbf{sp} & \textbf{gp} & \textbf{pp} & \textbf{Gems} & \textbf{Jewelry} & \textbf{Magic Items} \\
 	& \multicolumn{1}{c}{x 1000} & \multicolumn{1}{c}{x 1000} & \multicolumn{1}{c}{x 1000} & \multicolumn{1}{c}{x 100} & & & \\
 	\midrule
@@ -24720,7 +24721,7 @@ Then consult the \hyperlink{tipologiaoggettomagico}{Table Magic Item Type} (p. \
 \noindent\begin{tabularx}{\textwidth}{>{\bfseries}l|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}c|>{\small}X}
 \toprule
 \multicolumn{8}{c}{\textbf{Individual Treasures, small lairs, backpacks and bags}} \\
-\midrule
+\toprule
 \rowcolor{gray!20}TC & \textbf{cp} & \textbf{sp} & \textbf{gp} & \textbf{pp} & \textbf{Gems} & \textbf{Jewelry} & \textbf{Magic Items} \\
 \midrule
 J & 3d8 & - & - & - & - & - & - \\
@@ -31040,7 +31041,7 @@ Roll 1d4 for the first digit and a d12 for the second digit. Cooking times can b
 \noindent\begin{tabularx}{\linewidth}{lX}
 	\toprule
 	\rowcolor{gray!20}\textbf{d12-4} & \textbf{Effects}\\
-	\midrule
+	\toprule
 	11 & Night vision for 1d6 hours \\
 	\rowcolor{gray!20}12 & Animals avoid the character \\
 	13 & +1 Natural Defense for 1 hour \\
@@ -31067,7 +31068,7 @@ Roll 1d4 for the first digit and a d12 for the second digit. Cooking times can b
 \noindent\begin{tabularx}{\linewidth}{lX}
 \toprule
 \rowcolor{gray!20}\textbf{d12-4} & \textbf{Effects}\\
-\midrule
+\toprule
 	61 & Cold immunity for 1d4 hours \\
 \rowcolor{gray!20}62 & Gaseous form for 1 hour\\
 63 & Healed for 3d6 Hit Points\\

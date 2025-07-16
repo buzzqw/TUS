@@ -918,7 +918,7 @@ aggiornata versione POD 2025/07/09
 
 aggiornata versione POD 2025/07/14
 
-1.0.4 aggiornate tabelle, sistemato tabelle parti di mostro, ulteriori chiarimento su disattivare trappole magiche, aggiornati template classi,
+1.0.4 aggiornate tabelle, sistemato tabelle parti di mostro, ulteriori chiarimento su disattivare trappole magiche, aggiornati template classi, terminato di controllare stile tabelle,
 
 
 > valutare:

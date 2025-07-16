@@ -1224,14 +1224,12 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 
 **Tabella: Elenco delle Professioni e relative Competenze**
 
-| {\textwidth}{>{\raggedright}l|c|c|c|c} |
-	
 | \rowcolor{gray!20}**Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
 | --- | --- | --- | --- | --- |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
 | \rowcolor{gray!20}**Alchimista** | Valutare | Natura | Erboristeria | Arcana |
 | **Allevatore** | Sopravvivenza | Seguire tracce | Gestire animali | Natura |
-| \rowcolor{gray!20}**Allievo mago** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
+| \rowcolor{gray!20}**Incantatore** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
 | **Araldo** | Tradizioni Locali | Araldica | Lingue | Diplomazia |
 | \rowcolor{gray!20}**Bibliotecario** | Natura e Geografia | Tradizioni locali | Religione e Arcana | Storia |
 | **Boscaiolo** | Usare corda | Seguire tracce | Natura | Sopravvivenza |
@@ -1242,24 +1240,24 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 | \rowcolor{gray!20}**Erborista** | Miti e Leggende | Geografia | Natura | Erboristeria |
 | **Fabbro** | Pronto Soccorso | Valutare | Atletica | Artigianato |
 | \rowcolor{gray!20}**Forestale** | Miti e Leggende | Erboristeria | Cavalcare | Natura |
-| **Guardia** | Percepire Emozioni | Conoscenza Legge | Cavalcare | Intimidire |
+| **Guardia** | Perc. Emozioni | Conoscenza Legge | Cavalcare | Intimidire |
 | \rowcolor{gray!20}**Guida** | Miti e Leggende | Dungeon | Natura | Geografia |
-| **Leguleio** | Valutare | Ingannare | Percepire Emozioni | Legge |
-| \rowcolor{gray!20}**Locandiere** | Pronto soccorso | Valutare | Diplomazia | Percepire Emozioni |
-| **Mazziere** | Percepire Emozioni | Valutare | Intrattenere | Ingannare |
+| **Leguleio** | Valutare | Ingannare | Perc. Emozioni | Legge |
+| \rowcolor{gray!20}**Locandiere** | Pronto soccorso | Valutare | Diplomazia | Perc. Emozioni |
+| **Mazziere** | Perc. Emozioni | Valutare | Intrattenere | Ingannare |
 | \rowcolor{gray!20}**Medico** | Miti e Leggende | Natura | Erboristeria | Pronto soccorso |
 | **Mercante** | Lingue | Tradizioni Locali | Ingannare | Valutare |
-| \rowcolor{gray!20}**Mercenario** | Percepire Emozioni | Acrobatica | Intimidire | Atletica |
+| \rowcolor{gray!20}**Mercenario** | Perc. Emozioni | Acrobatica | Intimidire | Atletica |
 | **Minatore** | Usare corde | Pronto soccorso | Valutare | Dungeon |
 | \rowcolor{gray!20}**Monaco** | Intrattenere | Pronto Soccorso | Natura | Religione |
 | **Nomade** | Erboristeria | Gestire Animali | Natura | Sopravvivenza |
 | \rowcolor{gray!20}**Orafo** | Tradizioni locali | Mani di fata | Valutare | Falsificare |
 | **Pescatore** | Usare corde | Nuotare | Sopravvivenza | Natura |
 | \rowcolor{gray!20}**Scriba** | Tradizioni Locali | Falsificare | Miti e Leggende | Lingue |
-| **Sensale** | Intrattenere | Tradizioni locali | Percepire Emozioni | Diplomazia |
+| **Sensale** | Intrattenere | Tradizioni locali | Perc. Emozioni | Diplomazia |
 | \rowcolor{gray!20}**Soldato** | Nuotare | Gestire animali | Atletica | Cavalcare |
 | **Tagliaborse** | Disattivare congegni | Artista della fuga | Furtività | Mani di fata |
-| \rowcolor{gray!20}**Teatrante** | Percepire emozioni | Lingue | Acrobatica | Intrattenere |
+| \rowcolor{gray!20}**Teatrante** | Perc. Emozioni | Lingue | Acrobatica | Intrattenere |
 
 > Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti...(Richard de Bury)
 
@@ -7532,6 +7530,8 @@ La durata dipende dal materiale dell'oggetto. Se l'oggetto è composto da più m
 
 Tabella Materiale - Durata
 
+| **Materiale** | **Durata** |
+| --- | --- |
 | \rowcolor{gray!20}Materia vegetale | 1 giorno |
 | Pietra o cristallo | 12 ore |
 | \rowcolor{gray!20}Metalli preziosi | 1 ora |
@@ -15830,6 +15830,13 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | \rowcolor{gray!20}**Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
+| \rowcolor{gray!20}**GS:** 9 | **Trasporto Trappola** |
+| **Tipo:** | magico |
+| \rowcolor{gray!20}**Sopravviv.:** | DC 31 |
+| **Dis. Cong.:** | DC 29/5 |
+| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Ripristino:** | nessuno |
+| \rowcolor{gray!20}**Effetto:** | TS Volontà DC 20 o teletrasportati in una stanza e caso e confusi per 1d4 round. |
 | \rowcolor{gray!20}**GS:** 10 | **Risucchio di Energia** |
 | **Tipo:** | magico |
 | \rowcolor{gray!20}**Sopravviv.:** | DC 34 |
@@ -22228,27 +22235,7 @@ Il blocco statistiche si riferisce all'equipaggiamento, oltre le armi o le armat
 
 Puoi equipaggiare i mostri con ulteriore equipaggiamento come preferisci, utilizzando il capitolo Equipaggiamento come fonte di ispirazione, sei tu a decidere quanto dell'equipaggiamento del mostro è recuperabile dopo che la creatura è stata uccisa o se qualsiasi parte del suo equipaggiamento sia ancora utilizzabile. Ad esempio, un'armatura ammaccata fatta per un mostro difficilmente sarà utilizzabile da qualcun altro. Se un mostro incantatore necessita di componenti materiali per lanciare i suoi incantesimi, dai per scontato che abbia le componenti materiali per lanciare gli incantesimi indicati nella sua scheda.
 
-## Punti Esperienza per GS
-
-Ogni mostro se *sconfitto* concede un certo ammontare di Punti Esperienza da suddividere tra tutti i partecipanti allo scontro.
-
-Questa tabella indica per GS i Punti Esperienza relativi.
-
-**Tabella: Grado di Sfida e Punti Esperienza**
-
-| \rowcolor{gray!20}**GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
-| 0 | 10 | 9 | 5000 | 21 | 33000 |
-| \rowcolor{gray!20}1/8 | 25 | 10 | 5900 | 22 | 41000 |
-| 1/4 | 50 | 11 | 7200 | 23 | 50000 |
-| \rowcolor{gray!20}1/2 | 100 | 12 | 8400 | 24 | 62000 |
-| 1 | 200 | 13 | 10000 | 25 | 75000 |
-| \rowcolor{gray!20}2 | 450 | 14 | 11500 | 26 | 90000 |
-| 3 | 700 | 15 | 13000 | 27 | 105000 |
-| \rowcolor{gray!20}4 | 1100 | 16 | 15000 | 28 | 120000 |
-| 5 | 1800 | 17 | 18000 | 29 | 135000 |
-| \rowcolor{gray!20}6 | 2300 | 18 | 20000 | 30 | 155000 |
-| 7 | 2900 | 19 | 22000 |  | |
-| \rowcolor{gray!20}8 | 3900 | 20 | 25000 |  | ## Tipologie di Tesoro |
+## Tipologie di Tesoro
 
 Ogni tipologia di creatura può preferire un tipo di tesoro (inteso come oggetti, monete, gemme...) diverso. Questi sono solo suggerimenti su come costruire il tesoro del mostro.
 
@@ -22272,7 +22259,25 @@ Vedi anche Tabella: Valori del Tesoro per Incontro (pag. ).
 - **Umanoide**
 	Queste creature sono molto diverse tra loro, ma anche gli umanoidi più primitivi utilizzano equipaggiamenti e oggetti magici in qualche misura. In gruppi più grandi, come le comunità, gli umanoidi spesso possiedono una notevole quantità di tesori che custodiscono collettivamente.
 
-### Opzionale - Esperienza per Sfida
+## Punti Esperienza per GS
+
+Ogni mostro se *sconfitto* concede un certo ammontare di Punti Esperienza da suddividere tra tutti i partecipanti allo scontro. Questa tabella indica per GS i Punti Esperienza relativi.
+
+**Tabella: Grado di Sfida e Punti Esperienza**
+
+| \rowcolor{gray!20}**GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
+| 0 | 10 | 9 | 5000 | 21 | 33000 |
+| \rowcolor{gray!20}1/8 | 25 | 10 | 5900 | 22 | 41000 |
+| 1/4 | 50 | 11 | 7200 | 23 | 50000 |
+| \rowcolor{gray!20}1/2 | 100 | 12 | 8400 | 24 | 62000 |
+| 1 | 200 | 13 | 10000 | 25 | 75000 |
+| \rowcolor{gray!20}2 | 450 | 14 | 11500 | 26 | 90000 |
+| 3 | 700 | 15 | 13000 | 27 | 105000 |
+| \rowcolor{gray!20}4 | 1100 | 16 | 15000 | 28 | 120000 |
+| 5 | 1800 | 17 | 18000 | 29 | 135000 |
+| \rowcolor{gray!20}6 | 2300 | 18 | 20000 | 30 | 155000 |
+| 7 | 2900 | 19 | 22000 |  | |
+| \rowcolor{gray!20}8 | 3900 | 20 | 25000 |  | ### Opzionale - Esperienza per Sfida |
 
 Con questo sistema i Punti Esperienza sono dati in base alla difficoltà relativa della Sfida dato il livello dei personaggi. Uno scontro con 5 Troll non darà (1800 x 5) Punti Esperienza, ma a seconda della sfida relativa concederà un ammontare diverso.
 
@@ -22365,13 +22370,13 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 | 311 | Sensi alternativi |
 | \rowcolor{gray!20}312 | Tessuto adiposo con riserva di magia |
 | 41 | Ghiandola linfatica ipersviluppata |
-
 | \rowcolor{gray!20}42 | Tessuto visivo focalizzato |
 | 43 | Sacca di gas multipolare |
 | \rowcolor{gray!20}44 | Nervatura senso-tattile |
 | 45 | Pelle ad assorbimento energetico |
 | \rowcolor{gray!20}46 | Tentacolo con ventose attive |
 | 47 | Ghiandola di secrezione corrosiva |
+
 | \rowcolor{gray!20}48 | Midollo secondario autonomo |
 | 49 | Tessuto cardiaco a ritmo alternato |
 | \rowcolor{gray!20}410 | Placche auricolari addestrate |
@@ -22404,10 +22409,10 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 | 54 | Senza ossa: puoi restringerti di 1 taglia per 1d6 ore |
 | 61 | Immunità al freddo per 1d4 ore |
 | \rowcolor{gray!20}62 | Forma gassosa per 1 ora |
-
-| \rowcolor{gray!20}**d12-4** | **Effetti** |
 | 63 | Curato di 3d6 Punti Ferita |
 | \rowcolor{gray!20}64 | Visione dell’invisibile per 1d4 Turni |
+
+| \rowcolor{gray!20}**d12-4** | **Effetti** |
 | 71 | Parassita benigno assorbe veleno e muore |
 | \rowcolor{gray!20}72 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
 | 73 | Soffio rovente (vedi soffio acido) |
