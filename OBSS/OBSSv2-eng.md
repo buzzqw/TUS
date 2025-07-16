@@ -7004,7 +7004,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 ### Catnap
 
-* **Magic List**: Transmutation
+* **Magic List**: Enchantment
 * **Level**: 2, Legendary
 * **Casting Time**: 1 round
 * **Range**: 6 meters
@@ -9351,7 +9351,7 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 
 ### Laydel's Tear
 
-* **Magic List**: Evocation
+* **Magic List**: Illusion
 * **Level**: 2, Very Rare/Common
 * **Casting Time**: 2 Actions/1 Action
 * **Range**: 36 meters
@@ -9536,7 +9536,7 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 ### Locate Creature
 
-* **Magic List**: Divination
+* **Magic List**: Animal or Plant
 * **Level**: 4, Common
 * **Casting Time**: 2 Actions
 * **Range**: Self
@@ -10815,7 +10815,7 @@ At the Narrator's discretion, the plants might perform other tasks on your behal
 
 ### Spider Climb
 
-* **Magic List**: Transmutation
+* **Magic List**: Animal or Plant
 * **Level**: 2, Uncommon
 * **Casting Time**: 2 Actions
 * **Range**: Touch

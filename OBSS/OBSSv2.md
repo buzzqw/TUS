@@ -8845,7 +8845,7 @@ Quando l'incantesimo termina, il bersaglio riappare nello spazio che aveva lasci
 
 ### Lacrima di Laydel
 
-* **Lista**: Invocazione
+* **Lista**: Illusione
 * **Livello**: 2, Molto Raro/Comune
 * **Lancio**: 2 Azione/1 Azione
 * **Gittata**: 36 metri
@@ -9012,7 +9012,7 @@ Descrivi o nomina uno specifico tipo di bestia o vegetale. Concentrandoti sulla 
 
 ### Localizza Creatura
 
-* **Lista**: Divinazione
+* **Lista**: Animali o Piante
 * **Livello**: 4, Comune
 * **Lancio**: 2 Azioni
 * **Gittata**: Personale
@@ -9266,7 +9266,7 @@ L'incantatore induce in sé stesso, o in una creatura consenziente, uno stato di
 
 ### Movimenti del Ragno
 
-* **Lista**: Trasmutazione
+* **Lista**: Animali o Piante
 * **Livello**: 2, Non Comune
 * **Lancio**: 2 Azioni
 * **Gittata**: Contatto
@@ -10798,7 +10798,7 @@ Se possiedi una ciocca di capelli, delle unghie tagliate, o simile porzione del 
 
 ### Sonnellino
 
-* **Lista**: Alterazione
+* **Lista**: Ammaliamento
 * **Livello**: 2, Leggendario
 * **Lancio**: 1 round
 * **Gittata**: 6 metri
@@ -23784,7 +23784,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 - **Vulnerabilità**: ferro freddo, Luce
 - **Sensi**: Scurovisione 36 m
 - **Linguaggi**: Abissale, Comune
-- **Sfida**: 2 (200 PX)
+- **Sfida**: 2 (450 PX)
 
 ***Resistenza alla Magia.*** Il demone ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
@@ -24522,7 +24522,7 @@ Il triceratopo è un erbivoro irascibile e caparbio. Un tipico triceratopo è lu
 - **Immunità**: incantesimi dalle liste di magia Illusione e Charme
 - **Sensi**: Vista Cieca 18 m
 - **Linguaggi**: telepatia 50 m
-- **Sfida**: 9 (3900 PX)
+- **Sfida**: 9 (5000 PX)
 
 ***Occhi della Magia.*** Il Divora Cervelli ha Individuazione del Magico sempre attivo.
 
@@ -32293,7 +32293,7 @@ Un verme purpureo generalmente reclama una grande caverna sotterranea come sua t
 - **Movimento**: 9 m, scalare 9 m
 - **Tiri Salvez.**: Tempra +7, Riflessi +5, Volontà +5
 - **Sensi**: Scurovisione 18 m
-- **Sfida**: 4 (1000 PX)
+- **Sfida**: 4 (1100 PX)
 
 ***Scalare come Ragno.*** Il Verme Strisciante Tentacolato può scalare superfici difficili, compreso lo stare a testa in giù sul soffitto, senza bisogno di effettuare una prova di competenza.
 
@@ -32919,7 +32919,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: 89,  **Difesa:** 16,  **Iniziativa:** -1
 - **Tiri Salvez.**: Tempra +7, Riflessi +3, Volontà +4
 - **Movimento**: 12 m
-- **Sfida**: 4 (1000 PX)
+- **Sfida**: 4 (1100 PX)
 
 ***Carica Travolgente.*** Se l'elefante si muove di almeno 6 metri diretto verso una creatura e la colpisce con un attacco di incornata durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 16 o cadere prono. Se il bersaglio è prono, l'elefante può effettuare un attacco di pestone contro di lui come Azione Immediata.
 
@@ -33259,7 +33259,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 - **Punti Ferita**: 90,  **Difesa:** 19,  **Iniziativa:** +2
 - **Tiri Salvez.**: Tempra +8, Riflessi +6, Volontà +5
 - **Movimento**: 12 m, nuoto 9 m
-- **Sfida**: 4 (450 PX)
+- **Sfida**: 4 (1100 PX)
 
 ***Olfatto Affinato.*** L'orso ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 

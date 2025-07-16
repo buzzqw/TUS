@@ -922,7 +922,7 @@ aggiornata versione POD 2025/07/14
 
 aggiornata versione POD 2025/07/16
 
-1.0.5
+1.0.5 corretta lista a Sonnellino non e' alterazione ma charm, corretta lista  a Lacrima di Laydel, Movimenti del Ragno e' nella lista animali o piante, aggiornato export markdown,
 
 
 > valutare:

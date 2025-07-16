@@ -10,6 +10,7 @@ sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adven
 sed -i 's/D | D/D\&D/g' OBSSv2.md
 sed -i 's/(pag\. )//g' OBSSv2.md
 sed -i 's/\\cmidrule(lr)//g' OBSSv2.md
+sed -i 's/\\rowcolor{gray!20}//g' OBSSv2.md
 sed -i 's/%box narratore//g' OBSSv2.md
 #sed -i 's/'\''\\*\\*/'\'' \\*\\*/g' OBSSv2.md
 sed -i '/| \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* |/a|---|---|---|---|---|---|' OBSSv2.md
@@ -129,6 +130,7 @@ sed -i '/| A | G | D |/{n;n;s/| B | | E |/| B | **X**| E |/;}' OBSSv2.md
 sed -i 's/\\oggettomagico{\([^}]*\)}/### \1/g' OBSSv2.md
 sed -i 's/\\mostro{\([^}]*\)}/### \1/g' OBSSv2.md
 
+sed -i 's/\\rowcolor{gray!20}//g' OBSSv2-eng.md
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
 sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adventure Game**' OBSSv2-eng.md
 sed -i 's/D | D/D\&D/g' OBSSv2-eng.md
