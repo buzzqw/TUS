@@ -1,0 +1,81 @@
+# Altre Abilità Speciali
+
+Queste Abilità non sono selezionabili da parte del giocatore, bensì possono essere innate nelle creature.
+
+## Etereo
+
+Una creatura diventata Eterea è situata nel Piano Etereo che è sovrapposto a quello Materiale.
+
+Una creatura eterea è Invisibile, senza sostanza e capace di muoversi in qualsiasi direzione, persino su e giù. Una creatura eterea può muoversi attraverso oggetti solidi, incluse altre creature viventi. Una creatura eterea può vedere e udire ciò che accade sul Piano Materiale, ma ogni cosa appare grigia ed inconsistente. La vista e l'udito di una creatura eterea che si trova sul Piano Materiale sono limitati a una distanza di 9 metri.
+
+Gli Incantesimi se non opportunamente formulati e modificati non agiscono su creature eteree. Una creatura eterea ha Resistenza al Danno verso Luce o Vuoto, ed ignora tutte le altre forme di Energia.
+
+Una creatura eterea non può attaccare una creatura materiale ed Incantesimi lanciati mentre ci si trova in condizione di etereo possono influenzare solo elementi eterei. Alcune creature o oggetti materiali hanno attacchi o effetti speciali che funzionano anche sul Piano Etereo. Una creatura eterea considera tutte le altre creature eteree come se tutti fossero materiali.
+
+## Resistenza al Danno
+
+Determinate creature o protezioni conferiscono la capacità di Resistere ad una tipologia di Danno.
+
+Essere Resistenti al Danno significa automaticamente dimezzare il danno ricevuto prima di applicare qualsiasi altra protezione o Tiro Salvezza.
+
+La Resistenza al Danno può assumere anche dei valori. Quando viene scritto Resistenza al Danno: Elettricità, il soggetto dimezza automaticamente i danni da elettricità, se scritto Resistenza al Danno: Elettricità 10, significa che riduce il danno da elettricità di 10 punti prima di applicare il Tiro Salvezza o altri bonus.
+
+Un creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che riceve dalla fiamme, magiche o meno se non specificato diversamente.
+
+Possono esistere Abilità o incantesimi che ignorano questa Resistenza. più resistenze uguali non si sommano, per il fatto che due oggetti mi danno resistenza al fuoco non riduco ad un quarto il danno, se ne applica solo una.
+Se una capacità ignora la resistenza al danno passerà la resistenza anche se ho due o più fonti di resistenza.
+
+## Riduzione del Danno - DR
+
+Determinate creature o Abilità conferiscono la capacità soprannaturale di resistere al danno di certe tipologie di armi o fino ad un certo ammontare (per attacco).
+
+Solitamente assume il valore di XX/ZZ ovvero quanto danno (XX) è ignorato se non si è attaccati con (ZZ). Ignorare il danno significa anche che effetti connessi all'attacco non funzionano, come veleni sull'arma. La Riduzione si applica dopo Resistenze e Tiri Salvezza.
+
+Determinate armi, particolarmente magiche possono ignorare la DR 
+
+**Proiettili (frecce, dardi, sassi) tirati da *propulsori** magici NON sono considerati magici.*
+
+## Resistenza alla Magia
+
+La Resistenza alla magia può essere indicata in due modi diversi.
+
+Può venire indicata con un dado, es. *Resistenza alla Magia. Il deva ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici*. In questo caso si applica il bonus come indicato.
+
+Oppure seguita da un numero e livello, es. *Resistenza alla Magia: 3lv*. In questo caso la creatura non è influenzata da incantesimi di quel livello o meno. Un incantesimo viene considerato di un livello superiore per ogni Critico magico ottenuto nella Prova di Magia.
+
+L'obiettivo della magia pur se non influenzato dagli effetti diretti viene comunque interessato dagli effetti indiretti, ad esempio può cadere nella fossa creata da un incantesimo di Disintegrazione.
+
+La Resistenza alla Magia non può essere abbassata neanche dalla creatura che la possiede.
+
+## Immunita' al danno
+
+E' estremamente raro ma ci sono creature o effetti magici che rendono immune ad una forma di danno, possa essere fisica (danno da arma..) o magica (le varie forme di energia).
+
+Una creatura immune ad una forma di danno non subisce danno da quell'attacco. Una creatura che ha invece la capacità di avere i propri danni irresistibili, ovvero che non possono essere ridotti da resistenza, penetrerà solo in parte l'immunità della creatura rendendola soltanto resistente a quel danno.
+
+Una creatura che riporta *Immunità al Danno Vuoto, Veleno; armi +2* significa che non subisce danno da Vuoto, da Veleno e che per ferirlo serve un arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte.
+
+Vedi lo schema delle Equivalenze Armi magiche (pag. )
+
+## Vulnerabilita' al Danno
+
+Determinate creature o magie rendono più efficaci alcuni effetti causando maggiore danno al soggetto vulnerabile.
+
+Essere Vulnerabili ad un tipo specifico di Danno significa automaticamente raddoppiare il danno ricevuto prima di applicare qualsiasi altra protezione o Tiro Salvezza.
+
+Un creatura con una Vulnerabilità al Fuoco raddoppia tutto il danno subito poi se possibile effettua il Tiro Salvezza indicato dall'incantesimo o effetto.
+
+## Paura
+
+Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con l'effetto di Paura. Una creatura dotata di Paura non può sopprimerne l'aura se questa è innata tranne che sia descritto diversamente. E' sempre segnata la difficoltà con cui fare il Tiro Salvezza su Volontà. Una creatura immune alla Paura non può essere spaventata sia che la sorgente sia naturale che magica.
+
+**Spaventato**
+
+Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
+
+## Paralizzato
+
+Ci sono diversi metodi per Paralizzare una creatura, sia magici che naturali. Mentre quelli naturali spesso hanno sistemi per liberarsi successivamente, sistemi magici possono prevedere di liberarsi dalla paralisi o meno, magari solo dopo un certo lasso di tempo.
+
+Un personaggio paralizzato non può compiere Azioni o Reazioni ne parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus e perde il bonus alla Difesa dato dalla Destrezza. La creatura è consapevole di ciò che ha intorno, non lascia cadere gli oggetti. La creatura fallisce automaticamente i Tiri Salvezza su Riflessi.
+---

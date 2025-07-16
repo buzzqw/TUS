@@ -1,0 +1,324 @@
+# Razze
+
+> Il vero viaggio di scoperta non consiste nel trovare nuovi territori, ma nel possedere altri occhi, vedere l'universo attraverso gli occhi di un altro, di centinaia d'altri: di osservare il centinaio di universi che ciascuno di loro osserva, che ciascuno di loro è. (Marcel Proust)
+
+Non è la più intelligente delle specie quella che sopravvive; non è nemmeno la più forte; la specie che sopravvive è quella che è in grado di adattarsi e di adeguarsi meglio ai cambiamenti dell'ambiente in cui si trova. (Leon C. Megginson)
+
+La Terra è un mondo sfaccettato e ricco di diversità, culturali, naturali e di creature.
+Sono le creature a rendere il pianeta vitale e ricco, ognuna nutre, apporta, arricchisce la conoscenza di tutte le altre.
+
+## Umani
+
+Gli umani con il loro desiderio di scoperte, potere, gloria e violenza e capacità riproduttiva erano la razza dominante, tutta la Terra si piegava al suo volere. Finché non ci fu la venuta.
+E gli umani diventarono la specie da cacciare ed uccidere, il dettato ricevuto dai primi Patroni era chiaro e assoluto, sterminare gli umani che avevano ucciso il primogenito.
+
+E' impossibile sapere quanti umani sono sopravvissuti nel mondo, calcoli molto approssimativi li contano sotto i 500 milioni.
+
+**Modificatori razziali**: +1 ad una caratteristica a piacere
+
+**Caratteristiche fisiche**: altezza 160-185 cm, 50-130 kg, aspettativa di vita 65 anni (50 + 2d10 anni)
+
+**Dimensioni**: Medie
+
+**Velocità**: 9m
+
+**Linguaggi**: Comune
+
+**Vantaggio**: +1 Abilità al primo livello. Il primo punto assegnato a CA o CM si raddoppia.
+
+## Elfi
+
+Gli elfi sono la razza portata direttamente dal Patrono della Genesi Calicante perché portassero dissolutezza, terrore, dolore e perdizione sulla Terra.
+
+Deportati a forza da mondi lontani fatti di caos, guerra e dolore, dopo che le loro Legioni del Terrore imperversarono per oltre un secolo sul nostro pianeta stremando e riducendo ancor di più i pochi umani rimasti intervenne direttamente la Dama della Luce Ljust per instillare un scintilla di carità nel loro corpo senza anima.
+
+E così i nuovi nati, ma non tutti, non hanno questo odio viscerale e mania omicida, il loro sangue non è stato macchiato da Calicante e vorrebbero vivere una vita normale a contatto con tutte le altre creature anche se ben consci di come sono visti e trattati da tutti gli altri.
+
+Sono i giovani elfi che vogliono costruire e vivere in una nuova Terra. Le altre creature hanno imparato a giudicare un elfo in base all'età, per quanto sia difficile dare un età questa razza; un elfo *anziano* è il male e va ucciso, un elfo *giovane* forse non è malvagio.
+Sono metodi brutali e approssimativi che purtroppo continuano ad essere diffusi ed applicati.
+
+Gli elfi sono generalmente più bassi, minuti e snelli degli umani. Gli occhi hanno sempre con sfumature scure, le orecchie piuttosto lunghe puntano più lateralmente che in alto.
+
+**Modificatori razziali**: +1 Intelligenza, +1 Destrezza, -1 Carisma
+
+**Caratteristiche fisiche**: altezza 145-165 cm, 38-110 kg, aspettativa di vita 6000 anni (4000 + 20d100 anni)
+
+**Dimensioni**: Medie
+
+**Velocità**: 9m
+
+**Linguaggi**: Elfico, Comune
+
+**Vantaggio**: Abilità *Concentrato*
+
+## Nani
+
+I nani sono una razza stoica e severa abituata al comunismo più puro, senza un vero concetto di proprietà ma di pura comunanza di beni secondo l'idea che ogni nano lavora per la comunità e non per se stesso.
+
+I nani sono compatti e piazzati, raggiungono un'altezza massima di circa 140 cm con una corporatura robusta che dà loro un aspetto massiccio. Sia i maschi che le femmine portano orgogliosamente i capelli lunghi e gli uomini decorano spesso le barbe con vari generi di fermagli e trecce intricate, altresì vero che nani pelati sono frequenti, ma non senza barba. Le donne nane non hanno barba nè peluria in eccesso. Il sesso è libero e socialista.
+
+I nani sono guidati da onore, tradizione e comunismo. Sono spesso visti come burberi, ma hanno un forte sentimento di amicizia e giustizia, rispettano chi lavora sodo e si impegna per la comunità e per il gruppo.
+
+I nani sono la razza invitata sulla Terra dal Patrono Erondil con l'aiuto del Patrono Atmos. Portati da un lontano mondo di guerra e macchine hanno ritrovato sulla Terra lo spirito degli avi e la capacità di costruire senza distruggere.
+
+Sono piuttosto xenofobi ed intolleranti con chi non è in linea con i loro principi.
+
+**Modificatori razziali**: +1 Costituzione, +1 Saggezza, -1 Destrezza
+
+**Caratteristiche fisiche**: altezza 100-140 cm, 45-90 kg, aspettativa di vita 450 anni (400 + 1d100 anni)
+
+**Dimensioni**: Medie
+
+**Velocità**: 6m
+
+**Linguaggi**: Nanico, Comune
+
+**Vantaggio**: Abilità *Muro mentale*
+
+## Gnomi
+
+Gli Gnomi sono esseri dalla piccola taglia ma ricchi di energia e vita. Gli Gnomi sono la razza chiesta dai Patroni Nihar e Shayalia per rallegrare ed abbellire questo sofferente mondo.
+
+In breve tempo, grazie alla loro innata curiosità, tenacia ed inventiva sono riusciti a creare popolose e ricche città, quasi sempre all'interno di foreste vergini.
+
+Gli Gnomi sono profondamente legati alla natura, il loro rapporto è quasi simbiotico, uno Gnomo non rinuncerà mai alla vista di un albero ed a costruire con ciò che la natura fornisce.
+
+Gli Gnomi hanno un profondo rispetto per la natura, l'ambiente e gli animali, le loro città perfettamente funzionali ed moderne sono costruite e ricavate nelle foresta e mai distruggendola ed anzi arricchendola.
+
+Molti Gnomi sono inventori e costruttori capaci di prove di fantasia ed ingegno fuori dal comune. Molte delle loro invenzioni sono di aiuto e supporto a tutta la comunità e la loro vita sociale è ricca e solidale.
+
+Gli Gnomi più curiosi spesso escono dalle loro comunità, che non sono chiuse a chiunque rispetti la natura, ed intraprendono una vita di avventura alla scoperta di meraviglie e nuove opere di ingegno da poter tramandare alla comunità.
+
+Uno gnomo costretto a stare lontano da un ambiente naturale patisce la situazione diventando triste e apatico, la sua necessità di natura è qualcosa di fisico e connaturato.
+
+Gli Gnomi vanno d'accordo con chiunque ami la natura e non ne abusi.
+
+Una diatriba che interessa a dire la verità ben poco gli gnomi, è quella relativa alla forma delle loro orecchie. Secondo gli elfi gli gnomi del loro mondo hanno le orecchie a punta, secondo i nani gli gnomi che conoscevano hanno invece le orecchie piccole e tonde come loro. Fatto sta che gli gnomi nascono casualmente con orecchie a punta o tonde e hanno abbastanza buon senso per ignorare la forma. Almeno quasi tutti..
+
+**Modificatori razziali**: +1 Intelligenza, +1 Carisma, -1 Forza
+
+**Caratteristiche fisiche**: altezza 70-110 cm, 30-50 kg, aspettativa di vita 650 anni (600 + 1d100 anni)
+
+**Dimensioni**: Piccolo
+
+**Velocità**: 6m
+
+**Linguaggi**: Gnomico, Comune
+
+**Vantaggio**: Artificio Druidico 1 volta al giorno ogni (CM+CA)/6.
+
+## Mezzelfo
+
+Per un elfo non c'è nulla di più impuro di un mezzelfo. Nessun mezzelfo nasce per volontà di un Elfo. Ogni mezzelfo è figlio di violenza. Questo è almeno quello che continuano a dire gli elfi.
+
+Ci sono anche rari mezzelfi nati da rapporti romantici. Benché solitamente di breve durata, anche per gli standard umani, questi incontri segreti portano di solito alla nascita dei mezzelfi, una razza che discende da due culture, ma non è erede di nessuna. I mezzelfi possono riprodursi tra loro, ma persino questi mezzelfi *di sangue puro* sono visti come bastardi dagli elfi.
+
+Molti elfi vedono in un mezzelfo il tradimento della missione originale, della distruzione del creato.
+Pochissimi vedono un gesto di amore e dono verso un mondo sempre più imbruttito.
+Solitamente vengono visti dalle altre creature come degli assassini al pari degli elfi indipendentemente che il loro sangue sia stato toccato o meno da Calicante.
+
+I mezzelfi sono più bassi degli umani ma più alti degli elfi. Ereditano la corporatura slanciata e i lineamenti attraenti del loro lignaggio elfico, ma il colore della loro pelle è normalmente dettato dalla loro parte umana. I loro occhi tendono ad essere simili a quelli degli umani nella forma, ma presentano un'esotica gamma di colori dall'ambra al viola fino al verde smeraldo e al blu scuro.
+
+I mezzelfi comprendono la solitudine e sanno che il carattere spesso è più un prodotto dell'esperienza di vita che della razza di appartenenza.
+
+**Modificatori razziali**: +1 ad una Caratteristica a propria scelta
+
+**Caratteristiche fisiche**: altezza 150-185 cm, 50-100 kg, aspettativa di vita 210 anni (180 + 5d10 anni)
+
+**Dimensioni**: Medie
+
+**Velocità**: 9m
+
+**Linguaggi**: Comune, Elfico
+
+**Vantaggio**: Una Abilità aggiuntiva a scelta.
+
+## Mezzorco
+
+Agli occhi delle culture civilizzate, i mezzorchi sono delle mostruosità, il risultato di perversione e violenza e raramente sono il risultato di unioni amorose, come tali solitamente sono costretti a crescere velocemente e duramente, lottando continuamente per proteggersi o farsi un nome. Alcuni mezzorchi trascorrono le loro intere vite a dimostrare agli orchi purosangue che sono feroci quanto loro.
+
+I mezzorchi sono alti in media 1.9 metri, con fisico potente e pelle verdastra o grigia. Ai maschi i canini crescono spesso piuttosto lunghi fino a sporgere dalle loro bocche e queste *zanne*, unite ad una fronte a volte ampia e le orecchie un pò a punta, danno loro quel noto aspetto *bestiale*.
+Le femmine hanno i tratti orcheschi molto meno marcati e sono considerate selvagge e *facili* da parte dei maschi umani che le mancano del rispetto dovuto.
+
+A dispetto di questi ovvi tratti orcheschi, i mezzorchi sono tanto variegati quanto i loro genitori umani.
+
+Se all'interno delle tribù orchesche devono guadagnarsi continuamente il rispetto dei *purosangue*, nella società umana non va meglio. Derisi, sbeffeggiati, esclusi ed abbandonati i mezzorchi spesso trovano rifugio nella criminalità.
+
+Gli orchi sono stati creati direttamente dal Patrono Cattalm con l'aiuto di Calicante. Molto della tendenza caotica e distruttrice del loro creatore rimane nella natura dei mezzorchi.
+
+I mezzorchi sono continue vittime di pregiudizi.
+
+**Modificatori razziali**: +2 Forza -1 Carisma
+
+**Caratteristiche fisiche**: altezza 160-210 cm, 60 - 140 kg, aspettativa di vita 70 anni (50 + 5d10 anni)
+
+**Dimensioni**: Medie
+
+**Velocità**: 9m
+
+**Linguaggi**: Comune, Orchesco
+
+**Vantaggio**: Una Abilità aggiuntiva a scelta.
+
+## Nibali
+
+I Nibali sono una razza creata magicamente per essere schiava ai primi Patroni.
+
+La leggenda dice che un antico Patrono, partendo da una coppia di umani (dopo che a migliaia erano morti atrocemente nei precedenti esperimenti) riuscì a creare manipolando con la magia, un razza più robusta, più forte, più intelligente ed allo stesso tempo più docile e disciplinata con pregio che ogni figlio generato sarebbe stato assolutamente identico fisicamente al padre o alla madre.
+
+Quando i primi Patroni sono andati via i Nibali hanno continuato a prosperare ed usufruendo di quanto avevano già creato nella fredda tundra.
+
+Per molti l'estrema efficienza e dedizione dei Nibali è odiosa, un giogo che non lascia spazio alle libertà personali, per i Nibali è solo un modo naturale di progredire.
+
+Tutti i Nibali sono uguali tra loro a parità di sesso ma il fatto che non possano avere figli con altre razze non li rende un popolo chiuso o razzista, anzi l'assorbire il meglio di ogni cultura li rende migliori ed anche ottimi diplomatici. Ciò che veramente distingue un Nibali da un altro è l'acconciatura, i tatuaggi, il vestiario, l'essere se stessi. Il rispetto per gli altri e la Legge sono legati indissolubilmente alla loro natura eppure non c'è nulla di più libero di un Nibali.
+
+Per un Nibali le regole e le leggi devono promuovere la pace e la libertà, devono essere giuste e coloro che le mantengono comprensivi e saggi. Per un Nibali la libertà non è fare ciò che si vuole ma il diritto di fare ciò che si deve.
+
+Il Nibali maschio è calvo e dalla pelle di un acceso azzurro, gli occhi sono viola. Le donne hanno la pelle ambrata, capelli castano con riflessi biondi, occhi verdi.
+
+**Modificatori razziali:** +1 Costituzione, +1 Intelligenza, - 1 Saggezza
+
+**Caratteristiche fisiche**: altezza 183cm maschi, 170cm femmine, 50 - 120 kg, aspettativa di vita 130 anni
+
+**Dimensioni**: Medie
+
+**Velocità**: 9m
+
+**Linguaggi**: Comune
+
+**Vantaggio**: Quando passi di livello tiri due volte il dado per determinare i Punti Ferita e prendi il risultato migliore. +2 ai Tiri Salvezza che alterano la forma.
+
+## Diversi
+
+Benedetti o maledetti i Diversi non sono come noi. Un Diverso è frutto di una unione corrotta. Se i Patroni non dovrebbero agire direttamente sulla Terra, o almeno questo è quello che cerca di evitare Gradh, sovente invece usano i loro poteri per creare una stirpe a loro fedele.
+
+Un Diverso è fedele al suo Patrono e non può fare diversamente. Per fortuna sono sterili con le altre razze, altrimenti avrebbero già dominato il mondo.
+
+Un Diverso è più robusto e più intelligente. Purtroppo la loro vita frenetica è segnata da una breve durata. Solitamente un umano Diverso non supera i 50 anni di vita.
+
+Un Diverso è marchiato, da qualche parte sul suo corpo c'è il simbolo, una voglia, del suo Patrono. Molti Diversi hanno 3 o più cerchi concentrici dorati sul polso sinistro che possono indicare il Patrono (o Patroni in rarissimi casi) di cui sono *figli*.
+
+Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostituiti i modificatori razziali con quelli del Diverso ed l'aspettativa di vita viene dimezzata. Rimangono validi i vantaggi razziali originali e si aggiunge quello Speciale del Diverso.
+
+**Modificatori razziali**: +1 a due Caratteristiche a scelta
+
+**Caratteristiche fisiche**: altezza come razza originale, aspettativa di vita dimezzata rispetto a razza originale
+
+**Dimensioni**: come razza originale
+
+**Velocità**: come razza originale
+
+**Linguaggi**: come razza originale
+
+**Speciale**: Deve individuare un Patrono ed avere almeno 3 Tratti comuni. Accede al potere a somma Tratti 5 anche se ha meno punti. Una Abilità aggiuntiva a scelta.
+
+## Sornelian
+
+La genesi dei Sornelian è dovuta al Patrono Efrem (pag. ). Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
+
+Un Sornelian ha una testa simile a quella di un animale antropomorfo ma il corpo è più simile ad un bipede umanoide. A seconda dell'animale il Sornelian potrebbe anche avere pelliccia, piume, squame ed artigli. Le dimensioni di un Sornelian dipendono molto dall'animale originario variando dalla taglia piccola a quella media. L'aspetto antropomorfo di un Sornelian è vario quanto sono vari gli animali a cui assomigliano.
+
+Un Sornelian quasi mai nasce quale figlio di due Sornelian bensì è una spontanea *mutazione* in grembo di una coppia di umanoidi, come nani, elfi o umani.
+
+**Modificatori razziali**: +1 ad una Caratteristica a scelta
+
+**Caratteristiche fisiche**: l'aspettativa di vita dipende dalla longevità della specie, solitamente attorno ai 60+6d10 anni.
+
+**Dimensioni**: dipende dalla specie originale, dai 50cm ai 220cm, da taglia piccola a media.
+
+**Velocità**: 6 metri
+
+**Linguaggi**: Comune. Ottiene +1d6 alle prove per interagire con gli animali della sua linea di sangue.
+
+**Vantaggi**: Alla creazione il giocatore sceglie 2 capacità tra quelle elencate che più caratterizzano il suo Sornelian. Sono indicati tra parentesi alcuni animali di esempio.
+
+- *Corazzato* (tartaruga, armadillo, granchio, pesce scatola cornuto, alligatore). Hai buona parte del corpo ricoperto da una robusta corazza. La tua Difesa naturale è 12. Se scegli due volte questa capacità gli avversari non hanno vantaggi al Tiro per Colpire alle spalle o quando ti fiancheggiano.
+
+- *Corridore* (cervo, levriero, saurovallo, velociraptor). Aumenti la tua velocità di Movimento di 3 metri. Se scegli due volte questa capacità il tuo Movimento diventa di 12 metri.
+
+- *Creatura notturna* (gatto, lucertola, pipistrello, gufo). Hai visione crepuscolare 9 metri. Se scegli due volte questa capacità la visione crepuscolare arriva fino a 18 metri.
+
+- *Nuotatore* (coccodrillo, delfino, rana, squalo). Puoi trattenere il respiro fino a 1 Turno per punto di Costituzione, minimo 1 Turno, hai una velocità di nuoto pari a metà del tuo Movimento. Hai Riduzione al danno da freddo pari a 4. Se scegli due volte questa capacità hai delle rudimentali branchie che ti permettono di respirare sott'acqua, la riduzione al danno da freddo diventa a 10.
+
+- *Predatore* (orso, felino). I tuoi attacchi naturali (artigli, fauci..) causano 1d6 di danno letale e non sono armi improvvisate. Questi attacchi ricadono nella Lista d'Armi Scuri ed Accette. Se scegli due volte questa capacità il tuo attacco naturale causa 1d8 di danno.
+
+- *Robusto* (rinoceronte, ippopotamo, elefante). Ad ogni passaggio di livello tiri il d8 invece che il d6 per determinare i Punti Ferita. Se scegli due volte questa capacità ogni punto di CA assegnato aumenta di 5 i Punti Ferita e non 3.
+
+- *Scalatore* (orso, gatto, lucertola, scoiattolo). Hai artigli uncinati, unghie affilate o una coda serpentina. Hai una velocità di arrampicata pari alla metà del tuo Movimento. Se scegli due volte questa capacità la velocità di scalata è pari al tuo Movimento.
+
+- *Sensi Eccellenti (udito, vista, olfatto...)* (cane, pipistrello, gufo). Hai un +2 di bonus alle prove di Consapevolezza basate sui sensi. Se scegli due volte questa capacità il bonus diventa +1d6.
+
+- *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma (pag. ), senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
+
+## Golian
+
+I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil (pag. ) e Gaya (pag. ) ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
+
+I Golian hanno Caratteristiche fisiche che ricordano i giganti delle loro linee familiari. Alcuni Golian hanno la pelle grigia o quasi marmorizzata come i giganti delle pietre, altri sprizzano scintille schioccando le dita come i giganti del fuoco, altri ancora hanno le pelle azzurra come i giganti del cielo.
+
+**Modificatori razziali:** +2 a Forza, -1 a una Caratteristica a scelta
+
+**Caratteristiche fisiche**: alti circa 180/210cm. Aspettativa di vita circa 80 anni (60+2d10)
+
+**Dimensioni**: taglia media
+
+**Velocità**: 9 metri
+
+**Linguaggi**: Comune, Gigante della loro stirpe.
+
+**Forma Grande**: a partire da CM+CA almeno 5 il Golian ha la capacità di ingrandirsi e diventare di taglia grande per un minuto al giorno ogni (CM+CA)/5, al costo di 2 Azioni, in intervalli minimi di 1 minuto, al termine dei quali il Golian aumenta il suo livello di affaticamento di 1. Mentre di taglia grande i Tiri per Colpire ed il danno basati su Forza aumentano di 1d6, la velocità di Movimento aumenta di 1 metro, la portata aumenta a 2 metri.
+
+**Stabile**. Sei considerato di taglia Grande per resistere alle prove per essere afferrato o spinto.
+
+**Vantaggi**: Ogni Golian discende da una linea di giganti e da questa eredita dei poteri peculiari. Il potere indicato è usabile (CM+CA)/3, arrotondato per eccesso, al giorno.
+
+- *Gigante delle nuvole*. Un passo nel cielo. Con il costo di due Azioni ti teletrasporti magicamente fino a 10 metri a un spazio non occupato che puoi vedere.
+
+- *Gigante di fuoco*. Braci ardenti. Quando colpisci un bersaglio in mischia puoi infliggere 1d10 danni da fuoco a quel bersaglio. Costo 1 Reazione.
+
+- *Gigante del gelo*. Gelo profondo. Quando colpisci un bersaglio in mischia puoi infliggere 1d6 di danni da freddo e la velocità di movimento della creatura diminuisce di 3 metri fino alla fine del tuo prossimo round. Costo 1 Reazione.
+
+- *Gigante della collina*. Colpo rabbioso. Tiri un 1d6 in più quando effettui il Tiro per Colpire. Costo 1 Azione Immediata da dichiararsi prima del Tiro per Colpire.
+
+- *Gigante di pietra*. Pelle di pietra . Quando subisci un danno puoi indurire la tua pelle fino a farla diventare di pietra. Riduci i danni subiti di (CA o CM + Costituzione)/2. Costo 1 Reazione.
+
+- *Gigante della Tempesta*. Risonanza del Tuono. Quando subisci danni in mischia puoi emettere un onda d'urto che causa 1d10 di danno da Suono o Elettricità a chi ti ha causato danno. Costo 1 Reazione.
+
+## Sulian
+
+L'origine dei Sulian non è chiara, alcuni li fanno discendere dagli spiriti elementali altre voci, meno insistenti, dicono che sono figli del Patrono Ledyal o Laydel (pag. ) a causa del loro mutevole aspetto e carattere.
+
+Nei Sulian scorre la potenza, l'energia e la vitalità degli elementi, possa essere un unico tipo oppure più elementi.
+
+I Sulian sono molto simili agli umani ma nei loro occhi e spesso sulla loro pelle si vede scorrere l'energia primordiale che li caratterizza.
+
+**Modificatori razziali:** +1 ad una Caratteristica a propria scelta
+
+**Caratteristiche fisiche**: alti circa 150-190cm. Aspettativa di vita circa 180 anni (160+2d10)
+
+**Dimensioni**: taglia media
+
+**Velocità**: 9 metri
+
+**Linguaggi**: Comune. Possono comprendere il linguaggio elementale della loro linea di sangue ma non sanno parlarlo.
+
+**Vantaggi**: Ogni Sulian discende da una linea o più linee elementali e da questa ereditano poteri e capacità uniche. Al primo punto di CA o CM assegnato e poi ogni ottavo punto assegnato totale (CM+CA=1,8,16...), il Sulian potenzia la sua linea di sangue elementale e selezione un potere oppure sblocca un altra linea elementale presente in lui per scegliere poteri diversi.
+
+Il potere indicato è usabile (CM+CA)/3 al giorno.
+
+- *Scarica Primordiale*: il Sulian può al costo di 1 Reazione quando è colpito o colpisce in mischia scaricare parte della sua energia elementale. Il danno è pari a 2d6 per volte che questo potere è stato selezionato.
+
+- *Accesso alla Lista di Magia*: tramite questo potere il Sulian può accedere ad una Lista Elementale. Ogni volta che prende questo potere conosce spontaneamente fino a 3 incantesimi in quella lista con un livello massimo di incantesimo pari alle volte che si è preso questo potere nella medesima lista -1 (la prima volta lanci solo trucchetti).
+Il Sulian non esegue Prove di Magia ne si può considerare Distratto quando lancia l'incantesimo. Per eventuale fattori si considera che la CM sia pari alla somma di CM+CA e Adepto della Magia sia stato preso un numero pari alle volte che si è stato preso questo potere.
+
+- *Resistenza Elementale*: tramite questo potere il Sulian acquisisce Resistenza all'elemento scelto.
+
+>> **Nota sulle Razze**: Nessuna descrizione di una razza potrà mai imbrigliare e sottomettere un personaggio. Ogni giocatore è libero di creare il personaggio della razza preferita (concessa dal Narratore) e descriverlo, inquadrarlo, sentirlo, renderlo vivo come più gli piace.
+
+Non limitatevi alle descrizioni qui proposte, vogliono essere solo spunti, non sentitevi limitati nelle scelte perché la descrizione della razza dice questo o quello.
+Fate nascere i più belli e completi personaggi possibili. Ogni personaggio è vivo ed è una persona e come tale sarà sempre diverso l'uno dall'altro, ognuno fantastico in maniera diversa a discapito di qualsiasi razza e pregiudizio.
+
+>> **Nota sul Sesso dei personaggi**: Casomai foste così ottusi ribadisco che non c'è differenza di capacità o caratteristiche in base al sesso. Ogni giocatrice e giocatore è invitato a fare il personaggio del genere che preferisce.
+
+> Non dimenticare, nessun altro vede il mondo come lo vedi tu, quindi nessun altro può raccontare le storie che devi raccontare tu. (Ursula K. Le Guin)
+---
