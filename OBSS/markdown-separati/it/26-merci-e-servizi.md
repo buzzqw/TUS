@@ -29,6 +29,7 @@ Sulle terre di confine, la maggior parte delle transazioni avvengono tramite bar
 **Attrezzature Perfette**
 
 Un attrezzo perfetto oltre a costare 10 volte tanto la versione normale, concede un +1 alla prova in cui si utilizza.
+
 ---
 
 ### Equipaggiamento da Avventura
@@ -39,161 +40,161 @@ Come Narratore usate sempre il buon senso nelle richieste valutate bene la tipol
 
 In base alla tipologia di compagna potrebbero essere disponibili ulteriori oggetti quali armi da fuoco o alchemici.
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** |
+| **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
 | Abaco | 2 mo | L |
-| \rowcolor{gray!20}Abito da Monaco | 5 mo | 1 |
+| Abito da Monaco | 5 mo | 1 |
 | Abito da artigiano | 1 mo | 1 |
-| \rowcolor{gray!20}Abito da contadino | 1 ma | 1 |
+| Abito da contadino | 1 ma | 1 |
 | Abito da cortigiano | 30 mo | 1 |
-| \rowcolor{gray!20}Abito da esploratore | 10 mo | 1 |
+| Abito da esploratore | 10 mo | 1 |
 | Abito da intrattenitore | 3 mo | 1 |
-| \rowcolor{gray!20}Abito da nobile | 75 mo | 2 |
+| Abito da nobile | 75 mo | 2 |
 | Abito da studioso | 5 mo | 1 |
-| \rowcolor{gray!20}Abito da viaggiatore | 1 mo | 2 |
+| Abito da viaggiatore | 1 mo | 2 |
 | Abito invernale | 8 mo | 2 |
-| \rowcolor{gray!20}Abito reale | 200 mo | 3 |
+| Abito reale | 200 mo | 3 |
 | Acido Intenso (ampolla) | 30 mo | L |
-| \rowcolor{gray!20}Acqua santa (ampolla) | 25 mo | L |
+| Acqua santa (ampolla) | 25 mo | L |
 | Ago da cucito | 5 ma | - |
-| \rowcolor{gray!20}Agrifoglio e vischio |  | - |
+| Agrifoglio e vischio |  | - |
 | Amo da pesca | 1 ma | - |
-| \rowcolor{gray!20}Ampolla (vuota) | 3 mr | L |
+| Ampolla (vuota) | 3 mr | L |
 | Anello con sigillo | 5 mo | - |
-| \rowcolor{gray!20}Anello per veleno | +20 mo | - |
+| Anello per veleno | +20 mo | - |
 | Antitossina (boccetta) | 50 mo | L |
-| \rowcolor{gray!20}Ariete portatile | 10 mo | 3 |
+| Ariete portatile | 10 mo | 3 |
 | Arnesi da artigiano | 5 mo | 2 |
-| \rowcolor{gray!20}Arnesi da scasso | 30 mo | 1 |
+| Arnesi da scasso | 30 mo | 1 |
 | Asta (3 m) | 5 mr | 2 |
-| \rowcolor{gray!20}Attrezzi da scalatore | 80 mo | 1 |
+| Attrezzi da scalatore | 80 mo | 1 |
 | Banchetto (a persona) | 10 mo | - |
-| \rowcolor{gray!20}Bandoliera | 3 mo | L |
+| Bandoliera | 3 mo | L |
 | Barca a remi | 50 mo | 12 |
-| \rowcolor{gray!20}Barcone | 3000 mo | - |
+| Barcone | 3000 mo | - |
 | Barile (vuoto) | 2 mo | 4 |
-| \rowcolor{gray!20}Bastone | 2 mo | 1 |
+| Bastone | 2 mo | 1 |
 | Bilancia da mercante | 2 mo | 1 |
-| \rowcolor{gray!20}Birra Boccale | 5 mr | L |
+| Birra Boccale | 5 mr | L |
 | Birra Caraffa | 2 ma | L |
-| \rowcolor{gray!20}Boccale di ceramica | 2 mr | L |
+| Boccale di ceramica | 2 mr | L |
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** |
+| **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
 | Boccetta di inchiostro o pozione | 1 mo | L |
-| \rowcolor{gray!20}Borsa | 5 ma | L |
+| Borsa | 5 ma | L |
 | Alchimista (laboratorio) | 200 mo | 5 |
-| \rowcolor{gray!20}Borsa da cintura | 1 mo | L |
+| Borsa da cintura | 1 mo | L |
 | Borsa da Guaritore | 20 mo | 1 |
-| \rowcolor{gray!20}Borsa dei Componenti | 25 mo | L |
+| Borsa dei Componenti | 25 mo | L |
 | Bottiglia di vetro | 2 mo | L |
-| \rowcolor{gray!20}Brocca di ceramica (5lt) | 2 mr | L |
+| Brocca di ceramica (5lt) | 2 mr | L |
 | Campanella | 1 mo | - |
-| \rowcolor{gray!20}Candela | 1 mr | - |
+| Candela | 1 mr | - |
 | Canna da pesca | 1 mo | 1 |
-| \rowcolor{gray!20}Cannocchiale | 900 mo | 1 |
+| Cannocchiale | 900 mo | 1 |
 | Caraffa di ceramica | 2 mr | L |
-| \rowcolor{gray!20}Carne (1 pezzo) | 3 ma | L |
+| Carne (1 pezzo) | 3 ma | L |
 | Carretto | 15 mo | 10 |
-| \rowcolor{gray!20}Carro | 35 mo | - |
+| Carro | 35 mo | - |
 | Carrozza | 300 mo | - |
-| \rowcolor{gray!20}Carrucola e paranco | 20 mo | 2 |
+| Carrucola e paranco | 20 mo | 2 |
 | Carta (foglio) | 4 ma | - |
-| \rowcolor{gray!20}Cassa (vuota) | 2 mo | 3 |
+| Cassa (vuota) | 2 mo | 3 |
 | Catena (3 m) | 30 mo | 1 |
-| \rowcolor{gray!20}Ceralacca | 1 mo | - |
+| Ceralacca | 1 mo | - |
 | Cerata | 5 ma | 1 |
-| \rowcolor{gray!20}Cesto (vuoto) | 4 ma | 1 |
+| Cesto (vuoto) | 4 ma | 1 |
 | Chiodo da rocciatore | 1 ma | L |
-| \rowcolor{gray!20}Cintura porta oggetti | 2 mo | L |
+| Cintura porta oggetti | 2 mo | L |
 | Clessidra | 25 mo | - |
-| \rowcolor{gray!20}Coperta invernale | 5 ma | 1 |
+| Coperta invernale | 5 ma | 1 |
 | Corda di canapa (15 m) | 1 mo | 1 |
-| \rowcolor{gray!20}Corda di canapa grossa (15 m) | 2 mo | 2 |
+| Corda di canapa grossa (15 m) | 2 mo | 2 |
 | Corda di seta di ragno (15 m) | 10 mo | L |
-| \rowcolor{gray!20}Cote per affilare | 2 mr | L |
+| Cote per affilare | 2 mr | L |
 | Custodia per pergamene | 1 mo | 1 |
-| \rowcolor{gray!20}Esca ed Acciarino | 5 ma | L |
+| Esca ed Acciarino | 5 ma | L |
 | Faretra | 3 mo | 1 |
-| \rowcolor{gray!20}Fischietto | 8 ma | - |
+| Fischietto | 8 ma | - |
 | Formaggio (1 pezzo) | 1 ma | - |
-| \rowcolor{gray!20}Forziere | 5 mo | 4 |
+| Forziere | 5 mo | 4 |
 | Fuoco dell'Alchimista (ampolla) | 20 mo | L |
-| \rowcolor{gray!20}Galea | 30k mo | - |
+| Galea | 30k mo | - |
 | Gancio di metallo | 1 mo | L |
-| \rowcolor{gray!20}Gessetto (1 pezzo) | 1 mr | - |
+| Gessetto (1 pezzo) | 1 mr | - |
 | Giaciglio | 1 ma | 1 |
-| \rowcolor{gray!20}Inchiostro (boccetta da 30 g) | 8 mo | - |
+| Inchiostro (boccetta da 30 g) | 8 mo | - |
 | Lanterna | 1 mo | 2 |
-| \rowcolor{gray!20}Lanterna a lente sporgente | 12 mo | 1 |
+| Lanterna a lente sporgente | 12 mo | 1 |
 | Lanterna schermabile | 7 mo | 1 |
-| \rowcolor{gray!20}Legna da ardere (per giorno) | 1 mr | 4 |
+| Legna da ardere (per giorno) | 1 mr | 4 |
 | Lente del cacciatore | 100 mo | - |
-| \rowcolor{gray!20}Locanda Buona (dormire) | 2 mo | - |
+| Locanda Buona (dormire) | 2 mo | - |
 | Locanda Modesta (dormire) | 5 ma | - |
-| \rowcolor{gray!20}Locanda Scadente (dormire) | 1 ma | - |
+| Locanda Scadente (dormire) | 1 ma | - |
 | Maglio | 1 mo | 2 |
-| \rowcolor{gray!20}Martello | 5 ma | 1 |
+| Martello | 5 ma | 1 |
 | Morso e briglie | 2 mo | 1 |
-| \rowcolor{gray!20}Nave a vela | 10k mo | - |
+| Nave a vela | 10k mo | - |
 | Nave da guerra | 25k mo | - |
-| \rowcolor{gray!20}Nave lunga | 10k mo | - |
+| Nave lunga | 10k mo | - |
 | Olio da lanterna | 1 ma | 1 |
-| \rowcolor{gray!20}Orologio ad acqua | 900 mo | - |
+| Orologio ad acqua | 900 mo | - |
 | Otre | 1 mo | 2 |
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** |
+| **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
 | Manette | 15 mo | L |
-| \rowcolor{gray!20}Pala o badile | 2 mo | 1 |
+| Pala o badile | 2 mo | 1 |
 | Pane (a pagnotta) | 2 mr | - |
-| \rowcolor{gray!20}Pasti (al giorno) Buono | 5 ma | - |
+| Pasti (al giorno) Buono | 5 ma | - |
 | Pasti (al giorno) Modesto | 3 ma | - |
-| \rowcolor{gray!20}Pasti (al giorno) Povero | 6 mr | - |
+| Pasti (al giorno) Povero | 6 mr | - |
 | Peluche | 2 ma | - |
-| \rowcolor{gray!20}Pennino | 1 ma | - |
+| Pennino | 1 ma | - |
 | Pentola di ferro | 8 ma | 1 |
-| \rowcolor{gray!20}Pergamena (Foglio) | 2 ma | - |
+| Pergamena (Foglio) | 2 ma | - |
 | Piccone da minatore | 3 mo | 2 |
-| \rowcolor{gray!20}Piede di porco | 2 mo | 1 |
+| Piede di porco | 2 mo | 1 |
 | Pozione di Cura | 50 mo | L |
-| \rowcolor{gray!20}Pozione di Cura potenziata | 125 mo | L |
+| Pozione di Cura potenziata | 125 mo | L |
 | Profumo | 5 mo | L |
-| \rowcolor{gray!20}Rampino | 1 mo | 1 |
+| Rampino | 1 mo | 1 |
 | Razioni da viaggio (al giorno) | 3 ma | L |
-| \rowcolor{gray!20}Remo | 2 mo | 2 |
+| Remo | 2 mo | 2 |
 | Rete da pesca (2,25 m) | 4 mo | 1 |
-| \rowcolor{gray!20}Sacche da sella | 4 mo | 2 |
+| Sacche da sella | 4 mo | 2 |
 | Sacco (vuoto) | 1 ma | L |
-| \rowcolor{gray!20}Sacco a pelo | 3 mo | 2 |
+| Sacco a pelo | 3 mo | 2 |
 | Sapone (per 0,5 kg) | 5 ma | - |
-| \rowcolor{gray!20}Scala a pioli (3 m) | 2 ma | 3 |
+| Scala a pioli (3 m) | 2 ma | 3 |
 | Secchio (vuoto) | 5 ma | L |
-| \rowcolor{gray!20}Sella Da galoppo | 30 mo | 2 |
+| Sella Da galoppo | 30 mo | 2 |
 | Sella da carico | 15 mo | 2 |
-| \rowcolor{gray!20}Sella esotica | 60 mo | 3 |
+| Sella esotica | 60 mo | 3 |
 | Sella Militare | 50 mo | 3 |
-| \rowcolor{gray!20}Serratura/lucchetto Media | 40 mo | - |
+| Serratura/lucchetto Media | 40 mo | - |
 | Serratura/lucchetto Semplice | 20 mo | - |
-| \rowcolor{gray!20}Serratura/lucchetto Superiore | 150 mo | - |
+| Serratura/lucchetto Superiore | 150 mo | - |
 | Sfere Metalliche (100) | 3 mo | 1 |
-| \rowcolor{gray!20}Simbolo sacro d'argento | 25 mo | L |
+| Simbolo sacro d'argento | 25 mo | L |
 | Simbolo sacro di legno | 1 mo | L |
-| \rowcolor{gray!20}Slitta | 20 mo | 3 |
+| Slitta | 20 mo | 3 |
 | Specchio piccolo di metallo | 10 mo | L |
-| \rowcolor{gray!20}Stallaggio (al giorno) | 1 ma | - |
+| Stallaggio (al giorno) | 1 ma | - |
 | Strumento musicale comune | 5 mo | 2 |
-| \rowcolor{gray!20}Tagliola | 5 mo | 3 |
+| Tagliola | 5 mo | 3 |
 | Tela (per mq) | 1 ma | L |
-| \rowcolor{gray!20}Tenda | 10 mo | 3 |
+| Tenda | 10 mo | 3 |
 | Torcia | 1 ma | 1 |
-| \rowcolor{gray!20}Trappola da Caccia | 12 mo | 2 |
+| Trappola da Caccia | 12 mo | 2 |
 | Tribolo (20) | 1 ma | L |
-| \rowcolor{gray!20}Trucchi per il camuffamento | 50 mo | L |
+| Trucchi per il camuffamento | 50 mo | L |
 | Vanga o Badile | 1 mo | 1 |
-| \rowcolor{gray!20}Veste da Devoto | 5 mo | 1 |
+| Veste da Devoto | 5 mo | 1 |
 | Vino Buono (bottiglia) | 10 mo | 1 |
-| \rowcolor{gray!20}Vino della casa (caraffa) | 2 ma | 1 |
+| Vino della casa (caraffa) | 2 ma | 1 |
 | Zaino | 2 mo | 1 |
 
 > Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
@@ -322,14 +323,14 @@ Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può
 
 ### Capienza dei Contenitori
 
-| \rowcolor{gray!20}**Oggetto** | **Capienza** | **CdC** | **Oggetto** | **Capienza** | **CdC** |
+| **Oggetto** | **Capienza** | **CdC** | **Oggetto** | **Capienza** | **CdC** |
 | --- | --- | --- | --- | --- | --- |
 | Borsa | 1 cubo con spigolo di 30 cm/3 kg di equipaggiamento | 1 | Barile | 160 litri liquidi, 4 cubi con spigolo di 30 cm | 35 |
-| \rowcolor{gray!20}Boccale | 0,5 litri | L | Bottiglia | 1 litro di liquido | L |
+| Boccale | 0,5 litri | L | Bottiglia | 1 litro di liquido | L |
 | Secchio | 12 litri liquidi, 1 cubo con spigolo di 25 cm | 3 | Canestro | 2 cubi con spigolo di 30 cm/20 kg di equipaggiamento | 5 |
-| \rowcolor{gray!20}Sacco | 1 cubo con spigolo di 30 cm/15 kg di equipaggiamento | 3 | Forziere | 12 cubi con spigolo di 30 cm/150 kg di equipaggiamento | 35 |
+| Sacco | 1 cubo con spigolo di 30 cm/15 kg di equipaggiamento | 3 | Forziere | 12 cubi con spigolo di 30 cm/150 kg di equipaggiamento | 35 |
 | Fiala | 120 ml di liquidi | L | Otre | 2 litri liquidi | 1 |
-| \rowcolor{gray!20}Caraffa | 4 litri liquidi | 2 | Zaino | 2 cubi con spigolo di 30 cm/30 kg di equipaggiamento | 6 |
+| Caraffa | 4 litri liquidi | 2 | Zaino | 2 cubi con spigolo di 30 cm/30 kg di equipaggiamento | 6 |
 
 Esiste anche la versione dello Zaino Perfetto (+100 mo) che concede un +2 al valore di Ingombro trasportabile.
 
@@ -343,31 +344,31 @@ Ad esempio una prova di *Calligrafia* si risolve con una prova di Saggezza, se i
 
 Se il personaggio effettua una prova utilizzando strumenti o attrezzi specifici ha un bonus di +2.
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Ing.** | **Oggetto** | **Costo** | **Ing.** |
+| **Oggetto** | **Costo** | **Ing.** | **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- | --- | --- | --- |
 | Arnesi da Scasso/da Falsario | 25 mo | 1 | Borsa da Erborista | 5 mo | 1 |
-| \rowcolor{gray!20}Dadi | 1 ma | - | Mazzo di Carte | 5 ma | - |
+| Dadi | 1 ma | - | Mazzo di Carte | 5 ma | - |
 | Sostanze da Avvelenatore | 50 mo | 1 | Scorte da Alchimista | 50 mo | 2 |
-| \rowcolor{gray!20}Scorte da Calligrafo | 10 mo | 1 | Scorte da Mescitore | 20 mo | 2 |
+| Scorte da Calligrafo | 10 mo | 1 | Scorte da Mescitore | 20 mo | 2 |
 | Strumenti da Calzolaio | 5 mo | 2 | Strumenti da Cartografo | 15 mo | 2 |
-| \rowcolor{gray!20}Strumenti da Conciatore | 5 mo | 2 | Strumenti da Costruttore | 10 mo | 2 |
+| Strumenti da Conciatore | 5 mo | 2 | Strumenti da Costruttore | 10 mo | 2 |
 | Strumenti da Fabbro | 20 mo | 3 | Strumenti da Falegname | 8 mo | 2 |
-| \rowcolor{gray!20}Strumenti da Gioielliere | 25 mo | 1 | Strumenti da Intagliatore | 1 mo | 2 |
+| Strumenti da Gioielliere | 25 mo | 1 | Strumenti da Intagliatore | 1 mo | 2 |
 | Strumenti da Inventore | 50 mo | 2 | Strumenti da Pittore | 10 mo | 1 |
-| \rowcolor{gray!20}Strumenti da Soffiatore | 30 mo | 2 | Strumenti da Tessitore | 1 mo | 2 |
+| Strumenti da Soffiatore | 30 mo | 2 | Strumenti da Tessitore | 1 mo | 2 |
 | Strumenti da Vasaio | 10 mo | 2 | Utensili da Cuoco | 1 mo | 2 |
-| \rowcolor{gray!20}Strumenti da Navigatore | 25 mo | 2 | Lira | 30 mo | 1 |
+| Strumenti da Navigatore | 25 mo | 2 | Lira | 30 mo | 1 |
 | Cornamusa | 30 mo | 1 | Corno | 3 mo | L |
-| \rowcolor{gray!20}Dulcimer | 25 mo | 2 | Flauto | 2 mo | L |
+| Dulcimer | 25 mo | 2 | Flauto | 2 mo | L |
 | Flauto di Pan | 12 mo | L | Ciaramella | 1 mo | 2 |
-| \rowcolor{gray!20}Liuto | 35 mo | 1 | Tamburo | 6 mo | 1 |
+| Liuto | 35 mo | 1 | Tamburo | 6 mo | 1 |
 | Viola | 30 mo | 1 | Trucchi per il Camuffamento | 25 mo | 1 |
 
 ### Cavalcature e Veicoli
 
 Una buona cavalcatura può consentire a un personaggio di attraversare rapidamente un territorio selvaggio, ma il suo scopo primario è trasportare l'equipaggiamento che altrimenti rallenterebbe il suo padrone.
 
-La tabella *Cavalcature e Altri Animali* indica i costi degli animali da trasporto, per le indicazioni sul movimento e la capacità di trasporto di ogni animale vedi indicazioni in capitolo Tabella Cavalcature e Veicoli (pag. ).
+La tabella *Cavalcature e Altri Animali* indica i costi degli animali da trasporto, per le indicazioni sul movimento e la capacità di trasporto di ogni animale vedi indicazioni in capitolo Tabella Cavalcature e Veicoli .
 
 Nei mondi di fantasy esistono altre cavalcature oltre a quelle elencate in questa sezione, ma si tratta di cavalcature rare che normalmente non sono disponibili per l'acquisto, come certe cavalcature volanti (pegasi, grifoni, ippogrifi e altri animali simili) o perfino alcune cavalcature acquatiche (come per esempio i cavallucci marini giganti).
 
@@ -381,50 +382,50 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 **Tabella: Cavalcature e Altri Animali**
 
-| \rowcolor{gray!20}**Cavalcatura** | **Costo** |
+| **Cavalcatura** | **Costo** |
 | --- | --- |
 | Cammello | 50 mo |
-| \rowcolor{gray!20}Elefante | 500 mo |
+| Elefante | 500 mo |
 | Mastino | 25 mo |
-| \rowcolor{gray!20}Saurovallo da Galoppo | 75 mo |
+| Saurovallo da Galoppo | 75 mo |
 | Saurovallo da Guerra | 400 mo |
-| \rowcolor{gray!20}Saurovallo da Tiro | 50 mo |
+| Saurovallo da Tiro | 50 mo |
 | Saurovallo nano | 30 mo |
 
 **Finimenti e Veicoli da Tiro**
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Peso** |
+| **Oggetto** | **Costo** | **Peso** |
 | --- | --- | --- |
 | Bardatura | x4 | x2 |
-| \rowcolor{gray!20}Biga | 250 mo | 50 kg |
+| Biga | 250 mo | 50 kg |
 | Bisacce | 4 mo | 4 kg |
-| \rowcolor{gray!20}Carretto | 15 mo | 100 kg |
+| Carretto | 15 mo | 100 kg |
 | Carro | 35 mo | 200 kg |
-| \rowcolor{gray!20}Carrozza | 300 mo | 300 kg |
+| Carrozza | 300 mo | 300 kg |
 | Morso e Briglie | 2 mo | 0,5 kg |
-| \rowcolor{gray!20}Nutrimento (al giorno) | 5 mr | 2 kg |
+| Nutrimento (al giorno) | 5 mr | 2 kg |
 
 ### Servizi
 
 **Sella**
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Peso** |
+| **Oggetto** | **Costo** | **Peso** |
 | --- | --- | --- |
 | Da Carico | 15 mo | 7,5 kg |
-| \rowcolor{gray!20}Da Galoppo | 30 mo | 12,5 kg |
+| Da Galoppo | 30 mo | 12,5 kg |
 | Esotica | 60 mo | 20 kg |
-| \rowcolor{gray!20}Militare | 50 mo | 15 kg |
+| Militare | 50 mo | 15 kg |
 | Slitta | 20 mo | 150 kg |
-| \rowcolor{gray!20}Stallaggio (al giorno) | 1 ma | **Imbarcazioni** |
+| Stallaggio (al giorno) | 1 ma | **Imbarcazioni** |
 
-| \rowcolor{gray!20}**Oggetto** | **Costo** | **Velocità** |
+| **Oggetto** | **Costo** | **Velocità** |
 | --- | --- | --- |
 | Barca a Remi | 50 mo | 2,25 km orari |
-| \rowcolor{gray!20}Barcone | 3000 mo | 1,5 km orari |
+| Barcone | 3000 mo | 1,5 km orari |
 | Galea | 30000 mo | 6 km orari |
-| \rowcolor{gray!20}Nave a Vela | 10000 mo | 3 km orari |
+| Nave a Vela | 10000 mo | 3 km orari |
 | Nave da Guerra | 25000 mo | 3,75 km orari |
-| \rowcolor{gray!20}Nave Lunga | 10000 mo | 4,5 km orari |
+| Nave Lunga | 10000 mo | 4,5 km orari |
 
 Gli avventurieri possono pagare i personaggi non giocanti affinché li aiutino o agiscano in loro vece nelle circostanze più disparate. La maggior parte di questi gregari è dotata di abilità pressoché ordinarie, mentre altri hanno padroneggiato un'arte o un mestiere e alcuni si sono specializzati in qualche abilità da avventuriero.
 
@@ -433,14 +434,14 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 **Servizi**
 
-| \rowcolor{gray!20}**Servizio** | **Costo** |
+| **Servizio** | **Costo** |
 | --- | --- |
 | Carrozza all'interno di una città | 5 mr/1 km |
-| \rowcolor{gray!20}Carrozza tra due paesi | 1 ma/1 km |
+| Carrozza tra due paesi | 1 ma/1 km |
 | Gregario Abile | 2 mo al giorno |
-| \rowcolor{gray!20}Gregario Inesperto | 5 ma al giorno |
+| Gregario Inesperto | 5 ma al giorno |
 | Messaggero | 5 mr/1,5 km |
-| \rowcolor{gray!20}Passaggio in nave | 1 ma/1,5 km |
+| Passaggio in nave | 1 ma/1,5 km |
 | Pedaggio di ingresso | 5 mr/5 ma |
 
 ### Servizi Magici
@@ -545,12 +546,12 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 	
 
-| \rowcolor{gray!20}**Stile** | **Prezzo** | **Stile** | **Prezzo** |
+| **Stile** | **Prezzo** | **Stile** | **Prezzo** |
 | --- | --- | --- | --- |
 | Miserabile | - | Squallido | 1 ma |
-| \rowcolor{gray!20}Povero | 2 ma | Modesto | 1 mo |
+| Povero | 2 ma | Modesto | 1 mo |
 | Agiato | 2 mo | Ricco | 4 mo |
-| \rowcolor{gray!20}Aristocratico | 10+ mo | Regale | 50 mo+ |
+| Aristocratico | 10+ mo | Regale | 50 mo+ |
 
 ---
 
@@ -572,14 +573,14 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 
 ### Acciaio Vivente
 
-| \rowcolor{gray!20}**Tipo di oggetto** | **Mod. al costo** |
+| **Tipo di oggetto** | **Mod. al costo** |
 | --- | --- |
 | per Munizione | +40 mo |
-| \rowcolor{gray!20}Arma | +1000 mo |
+| Arma | +1000 mo |
 | Armatura leggera | +3000 mo |
-| \rowcolor{gray!20}Armatura media | +8000 mo |
+| Armatura media | +8000 mo |
 | Armatura pesante | +12000 mo |
-| \rowcolor{gray!20}Scudo | +600 mo |
+| Scudo | +600 mo |
 | Altri oggetti | 3000 mo/kg |
 
 Un albero di acciaio vivente si caratterizza dal un legno particolarmente duro alla stregua dell'acciaio. L'origine di questi alberi rimane un mistero per quasi tutti. Un albero di acciaio vivente è un normale albero piantato da un Devoto di Efrem o Shayalia che è stato dal Devoto benedetto.
@@ -590,14 +591,14 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 ### Adamantio
 
-| \rowcolor{gray!20}**Tipo di oggetto** | **Mod. al costo** |
+| **Tipo di oggetto** | **Mod. al costo** |
 | --- | --- |
 | per Munizione | +60 mo |
-| \rowcolor{gray!20}Arma | +1500 mo |
+| Arma | +1500 mo |
 | Armatura leggera | +5000 mo |
-| \rowcolor{gray!20}Armatura media | +10000 mo |
+| Armatura media | +10000 mo |
 | Armatura pesante | +15000 mo |
-| \rowcolor{gray!20}Scudo | +1000 mo |
+| Scudo | +1000 mo |
 | Altri oggetti | 5000 mo/kg |
 
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualità di un'arma o di un'armatura.
@@ -608,12 +609,12 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 
 ### Argento Alchemico
 
-| \rowcolor{gray!20}**Tipo di Oggetto** | **Mod. al costo** |
+| **Tipo di Oggetto** | **Mod. al costo** |
 | --- | --- |
 | per Munizione | +2 mo |
-| \rowcolor{gray!20}Arma leggera | +20 mo |
+| Arma leggera | +20 mo |
 | Arma media | +90 mo |
-| \rowcolor{gray!20}Arma pesante | +180 mo |
+| Arma pesante | +180 mo |
 | Scudo | +100 mo |
 
 Il processo di argentatura alchemica può essere applicato solo alle armi metalliche e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo ed il mithral.
@@ -632,12 +633,12 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 ### Mithral
 
-| \rowcolor{gray!20}**Tipo di Oggetto** | **Mod. al costo** |
+| **Tipo di Oggetto** | **Mod. al costo** |
 | --- | --- |
 | Armatura leggera | +1000 mo |
-| \rowcolor{gray!20}Armatura media | +4000 mo |
+| Armatura media | +4000 mo |
 | Armatura pesante | +9000 mo |
-| \rowcolor{gray!20}Scudo | +1000 mo |
+| Scudo | +1000 mo |
 | Altri oggetti | +1000 mo/kg |
 
 Il mithral è un metallo molto raro, luccicante, simile all'argento, più leggero del ferro ma altrettanto duro. Quando viene lavorato come l'acciaio, diventa un meraviglioso materiale con cui creare armature e occasionalmente anche per altri oggetti. La maggior parte delle armature in mithral è più leggera di una categoria ed è più agevole per il movimento e le altre limitazioni. Le armature pesanti sono trattate come armature medie, e le armature medie sono trattate come leggere, ma le armature leggere restano leggere.
@@ -663,4 +664,5 @@ Un Armatura in Pelle di Drago riduce la penalità alla Prova di Magia di 4 quand
 Le armature di pelle di drago costano 10 volte un'armatura di quel tipo, ma non richiedono più tempo per essere costruite. Un armatura di drago non è mai in vendita.
 
 La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solitamente la pelle di drago è spessa da 1,25 a 2,5 cm.
+
 ---

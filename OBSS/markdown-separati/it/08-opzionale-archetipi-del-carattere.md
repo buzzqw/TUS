@@ -1,6 +1,6 @@
 # Opzionale - Archetipi del Carattere
 
-Questa opzione presenta un sistema che integra gli archetipi junghiani \autocite{jung1971} con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) \autocite{myers1995}, vengono presentati 21 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
+Questa opzione presenta un sistema che integra gli archetipi junghiani  con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) , vengono presentati 21 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
 Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli  generalmente incompatibili o contraddittori (e per questo stimolanti) alla natura fondamentale dell'archetipo. Inoltre vengono elencati quali Patroni condividono almeno due Tratti (e quindi permettono di essere Devoti) con ogni archetipo, suggerendo affinità spirituali naturali.
 - Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
@@ -205,34 +205,34 @@ Ogni transizione tra archetipi rappresenta un momento significativo di sviluppo 
 
 Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione:
 
-| \rowcolor{gray!20}**Patrono** | **Risonanze Archetipiche** |
+| **Patrono** | **Risonanze Archetipiche** |
 | --- | --- |
 | Ljust | L'Eroe, Il Custode, Il Martire, Il Mentore |
-| \rowcolor{gray!20}Calicante | L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano |
+| Calicante | L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano |
 | Atmos | Il Saggio, L'Eremita, Il Guardiano della Soglia |
-| \rowcolor{gray!20}Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
+| Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
 | Gradh | L'Eroe, L'Alleato, Il Sovrano, Il Fuorilegge |
-| \rowcolor{gray!20}Atherim | Il Custode, Il Guardiano, Il Martire |
+| Atherim | Il Custode, Il Guardiano, Il Martire |
 | Belevon | L'Imbroglione, Il Giullare, Il Mutaforma |
-| \rowcolor{gray!20}Cattalm | L'Ombra, Il Tiranno, Il Distruttore |
+| Cattalm | L'Ombra, Il Tiranno, Il Distruttore |
 | Efrem | L'Uomo Comune, Il Creatore, L'Eremita |
-| \rowcolor{gray!20}Erondil | Il Creatore, Il Mago, Il Sovrano |
+| Erondil | Il Creatore, Il Mago, Il Sovrano |
 | Gaya | Il Creatore, L'Innocente, Il Custode |
-| \rowcolor{gray!20}Krondal | Il Sovrano, Il Guardiano della Soglia, Il Mago |
+| Krondal | Il Sovrano, Il Guardiano della Soglia, Il Mago |
 | Ledyal | Il Custode, L'Innocente, L'Amante |
-| \rowcolor{gray!20}Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
+| Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
 | Nethergal | L'Araldo, L'Esploratore, Il Mago |
-| \rowcolor{gray!20}Nedraf | L'Eroe, L'Esploratore, L'Alleato |
+| Nedraf | L'Eroe, L'Esploratore, L'Alleato |
 | Nihar | Il Giullare, L'Esploratore, Il Giullare |
-| \rowcolor{gray!20}Orudjs | Il Mutaforma, Il Giullare, L'Amante |
+| Orudjs | Il Mutaforma, Il Giullare, L'Amante |
 | Orlaith | Il Guardiano della Soglia, Il Sovrano, L'Eroe |
-| \rowcolor{gray!20}Rezh | Il Tiranno, L'Ombra, Il Mutaforma |
+| Rezh | Il Tiranno, L'Ombra, Il Mutaforma |
 | Shayalia | L'Ombra, L'Amante, Il Mutaforma |
-| \rowcolor{gray!20}Sixiser | L'Eremita, Il Saggio, L'Ombra |
+| Sixiser | L'Eremita, Il Saggio, L'Ombra |
 | Sumkjr | L'Eroe, L'Alleato, Il Mentore, Il Martire |
-| \rowcolor{gray!20}Tàhil | L'Ombra, Il Tiranno, Il Fuorilegge |
+| Tàhil | L'Ombra, Il Tiranno, Il Fuorilegge |
 | Tazher | L'Ombra, Il Fuorilegge, Il Mutaforma |
-| \rowcolor{gray!20}Thaft | L'Uomo Comune, L'Alleato, Il Custode |
+| Thaft | L'Uomo Comune, L'Alleato, Il Custode |
 | Torbiorn | Il Tiranno, L'Ombra, Il Sovrano |
 
 ## Utilizzare gli Archetipi nel Gioco

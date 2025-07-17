@@ -36,24 +36,24 @@ Per incominciare leggi il capitolo sulle Razze ed individua quella del tuo perso
 
 Recupera un pò di d6 e tira!
 
-Consulta il capitolo delle Caratteristiche per capire quanto sei stato fortunato (pag. ).
+Consulta il capitolo delle Caratteristiche per capire quanto sei stato fortunato .
 
 E se i valori delle Caratteristiche non sono venuti come che ti aspettavi allora lasciati guidare dal caos e crea qualcosa di diverso ma ugualmente divertente e magnifico.
 
-Se hai Intelligenza pari o superiore a 2 scegli un altra lingua (pag. ) parlata/scritta oltre al Comune, se hai 3 puoi sceglierne 2 di lingue in più.
+Se hai Intelligenza pari o superiore a 2 scegli un altra lingua  parlata/scritta oltre al Comune, se hai 3 puoi sceglierne 2 di lingue in più.
 
 Scegli al Professione del personaggio, le Competenze Base vengono assegnata in base a questa. Sceglila con attenzione e cura, oltre alle competenze previste dalla Professione scelta ne puoi prendere una quinta data dal tuo background oppure aumentare di uno il punteggio in una già presa.
 In base al background e professione scelta aumenti una caratteristica di 1, fino ad un massimo di 4 + modificatore razziale.
 
 Passa alle Competenze Attive: qui hai 1 punto  da distribuire tra Competenza Armi e Competenza Magica.
 
-La Competenza Armi ti aiuta nel colpire meglio. La Competenza Magica è l'unica cosa che ti permette di usare la magia. Ricorda anche che i punti in Competenze Armi vanno dichiarati a quale Lista Armi (pag. ) sono stati applicati.
+La Competenza Armi ti aiuta nel colpire meglio. La Competenza Magica è l'unica cosa che ti permette di usare la magia. Ricorda anche che i punti in Competenze Armi vanno dichiarati a quale Lista Armi  sono stati applicati.
 
-Se non hai punti in Competenza Armi puoi usare solo le armi semplici (pag. ) senza incorrere in penalità al Tiro per Colpire e non potrai usare armature medie o pesanti.
+Se non hai punti in Competenza Armi puoi usare solo le armi semplici  senza incorrere in penalità al Tiro per Colpire e non potrai usare armature medie o pesanti.
 
 I Punti Ferita sono pari a 8 + Costituzione, aggiungi 3 se hai messo 1 punto in Competenza Armi (CA).
 
-A questo punto scegli i Tratti (pag. ). Fallo con attenzione, stai costruendo il tuo personaggio ed i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per la scelta del Patrono (pag. ).
+A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio ed i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per la scelta del Patrono .
 
 Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi il Patrono che ti collega a quel Tratto, indipendentemente che tu lo abbia scelto o meno.
 
@@ -65,11 +65,11 @@ Consulta il Tomo della Magia, pag. , per capire quanti incantesimi devi scrivere
 
 Scelti gli incantesimi del Tomo devi decidere quali hai appreso e quindi puoi lanciare, vedi Regole della Magia a pag. .
 
-Passa alle Abilità (pag. ), al primo livello ne scegli due, stai attento ai prerequisiti ed anche ad eventuali Abilità che ti concede la tua razza.
+Passa alle Abilità , al primo livello ne scegli due, stai attento ai prerequisiti ed anche ad eventuali Abilità che ti concede la tua razza.
 
 Sono le Abilità che scegli ad aumentare il punteggio dei Tiri Salvezza. Ricorda che i Tiri Salvezza determinano la tua capacità di resistere a traumi e magie. Nella scheda indica la singola Caratteristica che vuoi che quella Abilità migliori (quando ne avrai quattro uguali).
 
-Scegli l'equipaggiamento (pag. ), armatura (pag. ), armi (pag. ), zaino, due torce, qualche razione di cibo.. un peluche.. quello che ti sembra indispensabile per l'avventura.
+Scegli l'equipaggiamento , armatura , armi , zaino, due torce, qualche razione di cibo.. un peluche.. quello che ti sembra indispensabile per l'avventura.
 Aggiorna poi la parte di scheda relativa alla Difesa segnando che bonus ti da l'armatura e scudo indossata. Ricorda che parti con 100 mo, spendile in maniera accurata!
 
 Entra nella parte, concediti di giocare questo straordinario personaggio. Se mai ti stufassi di giocarlo e volessi provare qualcosa di diverso parlane con il Narratore, saprà consigliarti e suggerirti la strada migliore.
@@ -90,14 +90,14 @@ Ogni qual volta il Narratore ti conferma il passaggio di livello sono da compier
 - Aggiornate il Livello aumentandolo di 1
 - Distribuite 1 punto tra Competenza Armi e Competenza Magica
 - Aumentate i Punti Ferita massimi ed attuali di 1d6+Costituzione ed aggiungetene altri 3 se avete dato 1 punto in Competenza Armi. Se il tiro di dado è inferiore a Costituzione, potete prendere come risultato il valore di Costituzione
-- Se avete assegnato un punto in Competenza Armi stabilite se prendete una nuova Lista d'Armi (pag. ) o approfondite la conoscenza di una lista già appresa
-- Controllate se acquisite una nuova Abilità. Potete prenderne una nuova oppure migliorare una Abilità già appresa, state attenti ai prerequisiti. Vedi Abilità (pag. ).
+- Se avete assegnato un punto in Competenza Armi stabilite se prendete una nuova Lista d'Armi  o approfondite la conoscenza di una lista già appresa
+- Controllate se acquisite una nuova Abilità. Potete prenderne una nuova oppure migliorare una Abilità già appresa, state attenti ai prerequisiti. Vedi Abilità .
 - Aggiornate il punteggio dei Tiri Salvezza in base alle nuove Abilità prese.
 - Aggiornate il punteggio dei Tiri per Colpire in base al nuovo valore della Competenza Armi, Abilità, bonus dati dalla Lista d'Armi
-- Distribuite (Int/2)+1, con un minimo di 1 punto, tra le Competenze Base (pag. ) conosciute o apprese durante le avventure. Verificate il punteggio di Consapevolezza.
+- Distribuite (Int/2)+1, con un minimo di 1 punto, tra le Competenze Base  conosciute o apprese durante le avventure. Verificate il punteggio di Consapevolezza.
 - Aggiornate il punteggio dei Punti Fato $(20-livello)/5$ , all'intero più vicino
 - Aumentate il punteggio dei Tratti come vi dirà il Narratore. Verificate se avete raggiunto un punteggio sufficiente per acquisire poteri legati ai Tratti
-- Verificate in base al nuovo punteggio di Competenza Magica ed all'Abilità Adepto della Magia il livello massimo di incantesimo (pag. ) lanciabile ed i Punti Magia disponibili (pag. )
+- Verificate in base al nuovo punteggio di Competenza Magica ed all'Abilità Adepto della Magia il livello massimo di incantesimo  lanciabile ed i Punti Magia disponibili 
 - Se avete aumentato la Competenza Magica apprendete 1 nuovo incantesimo dal Tomo di Magia oppure potete apprendere due Trucchetti (Incantesimi di livello 0)
 - Aggiornate la seconda parte della scheda in base al nuovo punteggio di Competenza Magica
 
@@ -133,4 +133,5 @@ Vado matto per i piani ben riusciti! (Colonnello John *Hannibal* Smith, A-Team)
 - Non aver paura di discutere con gli altri personaggi, ma assicurati sempre di non andare sul personale con i giocatori.
 
 > La candela accesa da entrambe le parti dura la metà. (Anonimo)
+
 ---

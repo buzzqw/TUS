@@ -9,7 +9,7 @@ After the first complete mutation, the creature acquires the ability to transfor
 The **hybrid** form, apart from the obvious physical transformations, grants:
 
 - the creature also acquires the Beast and Shapechanger types
-- Increases by one size if the were-type is larger than the original creature's size
+- Increases by one size if the were-type is larger than the original creature' \*\*s size
 - Physical Ability Scores and Defense increase by 2.
 - Will Saving Throw increases by 1.
 - Can attack with claw or bite causing 1d6 + Strength. Uses the Hatchets and Axes Weapon List and is proficient with the weapon.
@@ -42,5 +42,6 @@ Children of were-creatures have a 33\% chance, per were-parent, of being natural
 ## Curing lycanthropy
 
 Lycanthropy is an ancient and powerful curse and is not easy to remove.
-If wounded by a were-creature, they must make a Saving Throw as described by the monster's description. If the initial Saving Throw fails, then a Remove Curse opposed at DC 21 + level of the creature itself is required.
+If wounded by a were-creature, they must make a Saving Throw as described by the monster' \*\*s description. If the initial Saving Throw fails, then a Remove Curse opposed at DC 21 + level of the creature itself is required.
+
 ---

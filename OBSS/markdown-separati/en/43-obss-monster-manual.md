@@ -20,24 +20,24 @@ Insert difficult and lethal monsters into the adventure where needed, but occasi
 
 Other times, make the monsters instill fear because they are big, hungry, magical, and evil; it is necessary for the players to fear for their characters, to never take victory for granted.
 
-The strength of the adversary is in the confidence in describing the situation, in a few lines, in looking the players in the eyes. Involve the players, and once you have their attention, the characters will also be more attentive. Try to place monsters that are coherent with the environment, the adventure, the situation. Don't randomly roll on tables; a well-organized encounter gives much more satisfaction than random monsters that *spawn*.
+The strength of the adversary is in the confidence in describing the situation, in a few lines, in looking the players in the eyes. Involve the players, and once you have their attention, the characters will also be more attentive. Try to place monsters that are coherent with the environment, the adventure, the situation. Don' \*\*t randomly roll on tables; a well-organized encounter gives much more satisfaction than random monsters that *spawn*.
 
-Don't reduce everything to an MMORG where the goal is just to kill everything and everyone; there can always be many choices if you put in a little effort.
+Don' \*\*t reduce everything to an MMORG where the goal is just to kill everything and everyone; there can always be many choices if you put in a little effort.
 
 >> **Facing Monsters**: {
 Let this old man give you a couple of tips, young adventurer!
 
 - Not all enemies are defeated with a sword; many times a mace is also needed!
 
-- Sometimes weapons and brute force are not enough. If you don't have companions who can cast spells, make sure you always have the possibility to start a fire.
+- Sometimes weapons and brute force are not enough. If you don' \*\*t have companions who can cast spells, make sure you always have the possibility to start a fire.
 
-- Run. It's always a valid option if you have the means and see that the situation promises nothing good.
+- Run. It' \*\*s always a valid option if you have the means and see that the situation promises nothing good.
 
-- Get organized! Don't enter the dungeon headfirst without ever stopping except when you're dead! Rest, explore, check the environment, and when you're sure and feeling better, proceed! Your enemies are organizing and resting in the meantime, be careful!
+- Get organized! Don' \*\*t enter the dungeon headfirst without ever stopping except when you' \*\*re dead! Rest, explore, check the environment, and when you' \*\*re sure and feeling better, proceed! Your enemies are organizing and resting in the meantime, be careful!
 
-- Sometimes you can also talk to the enemies; they don't always want to die either.
+- Sometimes you can also talk to the enemies; they don' \*\*t always want to die either.
 
-- If you have to kill, do it with cruelty and speed. Don't waste time and optimize your hits, save energy and immediately prepare for another clash.
+- If you have to kill, do it with cruelty and speed. Don' \*\*t waste time and optimize your hits, save energy and immediately prepare for another clash.
 
 ## Modifying Creatures
 
@@ -49,25 +49,25 @@ Keep in mind that modifying an adversary might change its challenge rating.
 
 A monster can be Tiny, Small, Medium, Large, Huge, Gargantuan, or Colossal in size. The Size Categories table shows the average size of a creature and how much space it occupies on the grid.
 
-If not indicated, a creature's reach depends on its size and the weapon used (think of a gigantic sword wielded by a titan...)
+If not indicated, a creature' \*\*s reach depends on its size and the weapon used (think of a gigantic sword wielded by a titan...)
 
 **Table: Size Categories, Occupied Squares, and Reach**
 
-| \rowcolor{gray!20}**Size** | **Dimension** | **Example** | **Squares** | **Reach** |
+| **Size** | **Dimension** | **Example** | **Squares** | **Reach** |
 | --- | --- | --- | --- | --- |
 | Tiny | 25 x 25 cm | Cat, sprite | 1/4 | 0m |
-| \rowcolor{gray!20}Small | 0.5 x 0.5 m | Goblin, dog, Gnome | 1/2 | 1m |
+| Small | 0.5 x 0.5 m | Goblin, dog, Gnome | 1/2 | 1m |
 | Medium | 1 x 1 m | Orc, Human, Elf, Dwarf, Nibali | 1 | 1m |
-| \rowcolor{gray!20}Large | 2 x 2 m | Ogre | 2x2 | 1m |
+| Large | 2 x 2 m | Ogre | 2x2 | 1m |
 | Huge | 3 x 3 m | Giant, Ent | 3x3 | 2m |
-| \rowcolor{gray!20}Gargantuan | 4 x 4 m | Kraken, Dragon | 4x4 | 2m |
+| Gargantuan | 4 x 4 m | Kraken, Dragon | 4x4 | 2m |
 | Colossal | 12 x 12 m | Ancient Dragon, Tarrasque | 6x6 | 6m |
 
 The more experienced will have noticed that the dimensions of the creatures are smaller than usual, this is because the miniatures on the market are made for scale 1 square=1.5 meters, while in OBSS 1 square=1 meter.
 
 ## Type
 
-A monster's type refers to its fundamental nature. Certain spells, magic items, Feats, and other game effects interact in special ways with creatures of a specific type. For example, a *dragon-slaying arrow* inflicts extra damage not only to dragons but also to all other creatures of the dragon type, such as turtle dragons and wyverns.
+A monster' \*\*s type refers to its fundamental nature. Certain spells, magic items, Feats, and other game effects interact in special ways with creatures of a specific type. For example, a *dragon-slaying arrow* inflicts extra damage not only to dragons but also to all other creatures of the dragon type, such as turtle dragons and wyverns.
 
 The game includes the following monster types:
 
@@ -119,7 +119,7 @@ Certain creatures are **unaligned**, meaning they have no moral or ethical condu
 
 ## Defense
 
-A monster that wears armor or carries a shield has a Defense that takes into account the armor, shield, and Dexterity. Otherwise, the monster's Defense is based on its Dexterity value and natural armor if it has it (the "*thick hide*").
+A monster that wears armor or carries a shield has a Defense that takes into account the armor, shield, and Dexterity. Otherwise, the monster' \*\*s Defense is based on its Dexterity value and natural armor if it has it (the "*thick hide*").
 If a monster has natural armor, wears armor, or carries a shield, it is indicated in parentheses after its Defense value.
 
 If the monster is **surprised**, subtract -4 from its Defense.
@@ -128,15 +128,15 @@ If the monster is **surprised**, subtract -4 from its Defense.
 
 Usually when it drops to 0 Hit Points, a monster dies or is considered dead.
 
-A monster's Hit Points are presented with its value.
+A monster' \*\*s Hit Points are presented with its value.
 
-A monster's Constitution value also influences the number of Hit Points it has. Its Constitution value is multiplied by its Challenge Rating, and the result is added to its Hit Points. For example, a monster that has Constitution 1 and Challenge Rating 2 will have, *on average* (CR+1)*15+CR*Con = 47 Hit Points.
+A monster' \*\*s Constitution value also influences the number of Hit Points it has. Its Constitution value is multiplied by its Challenge Rating, and the result is added to its Hit Points. For example, a monster that has Constitution 1 and Challenge Rating 2 will have, *on average* (CR+1)*15+CR*Con = 47 Hit Points.
 
 It will happen that players will ask you ***how the monster is doing***; I suggest never going into details saying how many Hit Points it has in total or has lost, but rather staying in these degrees: Unwounded (full Hit Points), Wounded (30\% Hit Points suffered), Seriously wounded (at least 50\% Hit Points suffered), that is, giving a generic description of the state. 
 
 ### Bloodied
 
-At the Narrator's discretion, a creature that has lost at least 50\% of its total Hit Points triggers a fury that allows it special actions.
+At the Narrator' \*\*s discretion, a creature that has lost at least 50\% of its total Hit Points triggers a fury that allows it special actions.
 Monsters with Challenge Rating 5 or more may have a **Bloodied** card. The Bloodied ability can be used once per encounter at the cost, if not otherwise noted, of 1 Action.
 
 Particularly fierce and powerful creatures might have more Bloodied notes, and both, respecting any conditions noted, can be activated.
@@ -145,9 +145,9 @@ You can also decide that the creature cancels a condition it has on itself.
 
 ## Movement
 
-A monster's Movement tells you how far it can move during its round for a Movement Action.
+A monster' \*\*s Movement tells you how far it can move during its round for a Movement Action.
 
-All creatures have a walking speed, simply called the monster's movement. Creatures that do not possess any form of land movement have a movement speed of 0 meters.
+All creatures have a walking speed, simply called the monster' \*\*s movement. Creatures that do not possess any form of land movement have a movement speed of 0 meters.
 
 Some creatures possess one or more of the following additional modes of movement.
 
@@ -177,20 +177,20 @@ The Proficiencies entry is reserved for those monsters that are capable in one o
 
 Other modifiers can also be applied; for example, a monster might have a greater bonus than expected to account for its great expertise.
 
-If not indicated, but necessary for checks (not for the Attack Roll, where the value already noted is used), a Monster's Weapon Proficiency is equal to its Challenge Rating.
+If not indicated, but necessary for checks (not for the Attack Roll, where the value already noted is used), a Monster' \*\*s Weapon Proficiency is equal to its Challenge Rating.
 
 **Table: Magic Weapons Equivalence**
 
-| \rowcolor{gray!20}**Immunity** | **Magic Weapon** | **Natural Attack (WP)** | **Empty Fist** |
+| **Immunity** | **Magic Weapon** | **Natural Attack (WP)** | **Empty Fist** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
-| \rowcolor{gray!20}+2 | +2 | 6 | 4 |
+| +2 | +2 | 6 | 4 |
 | Cold Iron | +1 | 4 | 2 |
-| \rowcolor{gray!20}Silver | +1 | 4 | 2 |
+| Silver | +1 | 4 | 2 |
 | Adamantine | +2 | 6 | 4 |
-| \rowcolor{gray!20}+3 | +3 | 12 | 8 |
+| +3 | +3 | 12 | 8 |
 | +4 | +4 | 16 | 12 |
-| \rowcolor{gray!20}+5 | +5 | - | 16 |
+| +5 | +5 | - | 16 |
 
 ## Vulnerabilities, Resistances, and Immunities
 
@@ -248,7 +248,7 @@ A creature in the area of an *anti-magic field* or in any other place where magi
 
 ## Challenge
 
-A monster's **challenge rating** (CR) tells you how big a threat it poses. A party of four adventurers appropriately equipped and rested should be able to defeat a monster with a challenge rating equal to their average level without suffering casualties. For example, a party of four 3rd-level characters should consider a challenge rating 3 monster a normal and not dangerous challenge.
+A monster' \*\*s **challenge rating** (CR) tells you how big a threat it poses. A party of four adventurers appropriately equipped and rested should be able to defeat a monster with a challenge rating equal to their average level without suffering casualties. For example, a party of four 3rd-level characters should consider a challenge rating 3 monster a normal and not dangerous challenge.
 
 Monsters that are significantly weaker than 1st-level characters have a challenge rating of less than 1. Monsters with a challenge rating of 0 do not present problems except in large numbers; those without real attacks are worth no experience points.
 
@@ -281,7 +281,7 @@ The information obtained is cumulative, meaning if the check succeeds by 15, you
 
 ## Special Traits
 
-Special traits (which appear after a monster's challenge rating but before any Actions or reactions) are peculiarities that will likely play a role in a combat encounter and that require explanations.
+Special traits (which appear after a monster' \*\*s challenge rating but before any Actions or reactions) are peculiarities that will likely play a role in a combat encounter and that require explanations.
 
 ## Spells
 
@@ -311,11 +311,11 @@ The most common action a monster will perform in combat will be a melee or range
 
 The Golden Rules also apply to Monster Attack Rolls.
 
-The monster's Attack Roll **does not apply critical damage nor damage explosion**, but **does not suffer penalties for multiattack**. Each attack of the monster, thus also 3 attacks per round, is carried out with the Attack Roll without Multiattack penalties.
+The monster' \*\*s Attack Roll **does not apply critical damage nor damage explosion**, but **does not suffer penalties for multiattack**. Each attack of the monster, thus also 3 attacks per round, is carried out with the Attack Roll without Multiattack penalties.
 
 ***Misses**.* If an attack has an effect produced by a miss, that information is provided by the *Misses* annotation.
 
-***Damage**.* If a monster wields manufactured weapons, it inflicts damage appropriate to the weapon. Larger monsters usually wield larger-sized weapons that inflict extra damage when they hit. If they use this type of weapon, the damage is already noted; otherwise, if they pick up or use a weapon not provided for, double the weapon's dice if the creature is Large, triple them if Huge, and quadruple them if Gargantuan when they use weapons of their size.
+***Damage**.* If a monster wields manufactured weapons, it inflicts damage appropriate to the weapon. Larger monsters usually wield larger-sized weapons that inflict extra damage when they hit. If they use this type of weapon, the damage is already noted; otherwise, if they pick up or use a weapon not provided for, double the weapon' \*\*s dice if the creature is Large, triple them if Huge, and quadruple them if Gargantuan when they use weapons of their size.
 
 ### Multiattack and Attack
 
@@ -333,7 +333,7 @@ Using **only 1 Attack** from the Multiattack chain **costs 1 Action**.
 
 ### Rules of Grappling for Monsters
 
-Many monsters have a special attack that allows them to quickly grab their prey. When a monster hits with such an attack, it doesn't need to make an additional check to determine if the grapple succeeds unless the attack says otherwise.
+Many monsters have a special attack that allows them to quickly grab their prey. When a monster hits with such an attack, it doesn' \*\*t need to make an additional check to determine if the grapple succeeds unless the attack says otherwise.
 
 A creature grappled by the monster follows the guidelines of Grappling an opponent (pg. ).
 
@@ -353,19 +353,19 @@ Some special abilities have restrictions on the number of times they can be used
 
 ***X/Day**.* The annotation "X/Day" indicates a special ability that can be used X times before dawn rises to recover the consumed uses. For example, *1/Day* indicates a special ability that can be used once before the monster must wait for the new dawn.
 
-***Recharge X-Y.*** The annotation "Recharge X-Y" indicates that the monster can use a special ability once and that the ability has a random chance of recharging each following round of combat. At the beginning of each of the monster's rounds, roll a d6. If the result is one of the numbers in the recharge annotation, the monster recovers the use of the special ability. The ability also recharges at the dawn of a new day.
+***Recharge X-Y.*** The annotation "Recharge X-Y" indicates that the monster can use a special ability once and that the ability has a random chance of recharging each following round of combat. At the beginning of each of the monster' \*\*s rounds, roll a d6. If the result is one of the numbers in the recharge annotation, the monster recovers the use of the special ability. The ability also recharges at the dawn of a new day.
 
-For example, *Recharge 5-6* indicates that a monster can use its special ability once. Then, at the beginning of the monster's round, it recovers the use of the ability if it rolls a 5 or 6 on a d6.
+For example, *Recharge 5-6* indicates that a monster can use its special ability once. Then, at the beginning of the monster' \*\*s round, it recovers the use of the ability if it rolls a 5 or 6 on a d6.
 
 ## Legendary Actions
 
 Certain creatures can perform special actions outside of their own round, and some can extend their power to the environment, causing the manifestation of extraordinary magical effects in their vicinity.
 
-A creature with legendary actions can perform a certain number of special actions, called *legendary actions*, outside of its round. Only one legendary action can be used at a time and only at the end of another creature's round. It costs no Actions or Reactions to use a Legendary Action. A creature with legendary actions recovers at the beginning of its round the legendary actions it has used. It is not obliged to use its legendary actions and cannot use legendary actions while incapacitated or otherwise unable to perform Reactions. If surprised, it cannot use them until after its first round of combat.
+A creature with legendary actions can perform a certain number of special actions, called *legendary actions*, outside of its round. Only one legendary action can be used at a time and only at the end of another creature' \*\*s round. It costs no Actions or Reactions to use a Legendary Action. A creature with legendary actions recovers at the beginning of its round the legendary actions it has used. It is not obliged to use its legendary actions and cannot use legendary actions while incapacitated or otherwise unable to perform Reactions. If surprised, it cannot use them until after its first round of combat.
 
 If a creature assumes the form of a creature with legendary actions, perhaps through a spell, it does not, however, gain its legendary actions or lair actions.
 
-### A Creature's Lair
+### A Creature' \*\*s Lair
 
 A creature with Legendary Actions may present a section that describes its lair and the special effects it can create there, either by its own will or simply by its presence. This section applies only to legendary creatures that spend a lot of time in their lairs where they are highly likely to be encountered.
 
@@ -375,31 +375,32 @@ If a creature with legendary actions has a **Lair Action**, it can use it to har
 
 The stat block refers to equipment beyond the weapons or armor used by the monster. A creature that normally wears clothes, like a humanoid, is assumed to be appropriately dressed.
 
-You can equip monsters with additional equipment as you prefer, using the Equipment chapter as a source of inspiration; you decide how much of the monster's equipment is recoverable after the creature has been killed or if any part of its equipment is still usable. For example, a dented armor made for a monster will hardly be usable by someone else. If a spellcasting monster needs material components to cast its spells, assume it has the material components to cast the spells indicated in its card.
+You can equip monsters with additional equipment as you prefer, using the Equipment chapter as a source of inspiration; you decide how much of the monster' \*\*s equipment is recoverable after the creature has been killed or if any part of its equipment is still usable. For example, a dented armor made for a monster will hardly be usable by someone else. If a spellcasting monster needs material components to cast its spells, assume it has the material components to cast the spells indicated in its card.
 
 ## Experience Points for CR
 
 **Table: Challenge Rating and Experience Points**
 
-| \rowcolor{gray!20}**CR** | **XP** | **CR** | **XP** | **CR** | **XP** |
+| **CR** | **XP** | **CR** | **XP** | **CR** | **XP** |
+|---|---|---|---|---|---|
 | 0 | 10 | 9 | 5000 | 21 | 33000 |
-| \rowcolor{gray!20}1/8 | 25 | 10 | 5900 | 22 | 41000 |
+| 1/8 | 25 | 10 | 5900 | 22 | 41000 |
 | 1/4 | 50 | 11 | 7200 | 23 | 50000 |
-| \rowcolor{gray!20}1/2 | 100 | 12 | 8400 | 24 | 62000 |
+| 1/2 | 100 | 12 | 8400 | 24 | 62000 |
 | 1 | 200 | 13 | 10000 | 25 | 75000 |
-| \rowcolor{gray!20}2 | 450 | 14 | 11500 | 26 | 90000 |
+| 2 | 450 | 14 | 11500 | 26 | 90000 |
 | 3 | 700 | 15 | 13000 | 27 | 105000 |
-| \rowcolor{gray!20}4 | 1100 | 16 | 15000 | 28 | 120000 |
+| 4 | 1100 | 16 | 15000 | 28 | 120000 |
 | 5 | 1800 | 17 | 18000 | 29 | 135000 |
-| \rowcolor{gray!20}6 | 2300 | 18 | 20000 | 30 | 155000 |
+| 6 | 2300 | 18 | 20000 | 30 | 155000 |
 | 7 | 2900 | 19 | 22000 |  | |
-| \rowcolor{gray!20}8 | 3900 | 20 | 25000 |  | Each monster, if *defeated*, grants a certain amount of Experience Points to be divided among all participants in the encounter. |
+| 8 | 3900 | 20 | 25000 |  | Each monster, if *defeated*, grants a certain amount of Experience Points to be divided among all participants in the encounter. |
 
 This table indicates the relative Experience Points for CR.
 
 ## Types of Treasure
 
-Each type of creature may prefer a different type of treasure (understood as objects, coins, gems...). These are just suggestions on how to build the monster's treasure.
+Each type of creature may prefer a different type of treasure (understood as objects, coins, gems...). These are just suggestions on how to build the monster' \*\*s treasure.
 
 See also Table: Treasure Values for Encounter (pg. ).
 
@@ -415,7 +416,7 @@ See also Table: Treasure Values for Encounter (pg. ).
 - **Fey**
 	Fey value beautiful and magical objects. They have little regard for coins and goods.
 - **Ooze - Parasite - Plant**
-	Oozes don't know what treasure is and leave where they find everything that is not digestible. Any treasure they may carry is completely accidental.
+	Oozes don' \*\*t know what treasure is and leave where they find everything that is not digestible. Any treasure they may carry is completely accidental.
 - **Undead**
 	The treasures possessed by the undead depend on their intelligence. Unintelligent undead usually have only the few goods they had in life, rarely useful as treasures. In contrast, intelligent undead use a variety of magic items to annihilate the living.
 - **Humanoid**
@@ -431,41 +432,32 @@ With this system, every 1000 Experience Points you level up. All the considerati
 
 **Table: Experience Points for Challenge Rating**
 
-| \rowcolor{gray!20}**CR** | **XP** | **CR** | **XP** |
+| **CR** | **XP** | **CR** | **XP** |
 | --- | --- | --- | --- |
 | Easy | 20 | Medium | 30 |
-| \rowcolor{gray!20}High | 50 | Extraordinary | 80 |
+| High | 50 | Extraordinary | 80 |
 | Deadly | 120 | Epic | 160 |
 
 This system is also used to calculate the XP gained for traps or challenges overcome. The Experience Points reward for each personal or group objective achieved is 10.
 
 ### Optional - Alternative Method for Building Encounters
 
-\begin{enumerate}[leftmargin=*] 
 - **Define the APL (Average Party Level):** Calculate the average level of the group. Add up the levels of all characters and divide by the number of characters, as already explained.
 - **Establish the Desired Difficulty:** Decide what level of challenge you want to present to the group.
 
-- \makebox[2.5cm][l]{Easy:} 75\% - 105\%
-- \makebox[2.5cm][l]{Medium:} 106\% - 145\%
-- \makebox[2.5cm][l]{Challenging:} 146\% - 195\%
-- \makebox[2.5cm][l]{High:} 196\% - 255\%
-- \makebox[2.5cm][l]{Extraordinary:} 256\% - 325\%
-- \makebox[2.5cm][l]{Deadly:} 326\% - 405\%
-- \makebox[2.5cm][l]{Epic:} 406\% and beyond
-- **Assign a Percentage Value to Monsters:** Use the following table to determine the *weight* (percentage) of each Adversary (*Adv.*) based on the difference between its Challenge Rating (CR) and the group's APL (*Ratio*)
+- **Assign a Percentage Value to Monsters:** Use the following table to determine the *weight* (percentage) of each Adversary (*Adv.*) based on the difference between its Challenge Rating (CR) and the group' \*\*s APL (*Ratio*)
 
-| \rowcolor{gray!20}**Ratio** | **\% per Adv.** | **Ratio** | **\% per Adv.** |
+| **Ratio** | **\% per Adv.** | **Ratio** | **\% per Adv.** |
 | --- | --- | --- | --- |
 | -6 | 3\% | 0 | 70\% |
-| \rowcolor{gray!20}-5 | 5\% | +1 | 105\% |
+| -5 | 5\% | +1 | 105\% |
 | -4 | 10\% | +2 | 160\% |
-| \rowcolor{gray!20}-3 | 15\% | +3 | 240\% |
+| -3 | 15\% | +3 | 240\% |
 | -2 | 25\% | +4 | 360\% |
-| \rowcolor{gray!20}-1 | 45\% | +5 | 480\% |
+| -1 | 45\% | +5 | 480\% |
 
 Start with the monsters with the highest Challenge Rating and then add monsters with lower CR to reach the desired percentage.
 
-\end{enumerate}
 
 ## Optional - What to Do with Monsters
 
@@ -475,111 +467,111 @@ Roll 1d4 for the first digit and a d12 for the second digit. Cooking times can b
 
 **Table: d4-12 Fantasy Monster Anatomical Parts**
 
-| \rowcolor{gray!20}**6d12** | **Parts** |
+| **6d12** | **Parts** |
 | 11 | Digestive sack |
-| \rowcolor{gray!20}12 | Photoreactive gel |
+| 12 | Photoreactive gel |
 | 13 | Translucent bulb |
-| \rowcolor{gray!20}14 | Surface coagulating enzymes |
+| 14 | Surface coagulating enzymes |
 | 15 | Iridescent mimic cells |
-| \rowcolor{gray!20}16 | Elastic tissue |
+| 16 | Elastic tissue |
 | 17 | Polyphasic optical organ |
-| \rowcolor{gray!20}18 | Hypertrophic brain marrow |
+| 18 | Hypertrophic brain marrow |
 | 19 | Enhanced conduction tendons |
-| \rowcolor{gray!20}110 | Reactive milky blood |
+| 110 | Reactive milky blood |
 | 111 | Hard mineral-infused skin |
-| \rowcolor{gray!20}112 | Robust tendon with concentric fibers |
+| 112 | Robust tendon with concentric fibers |
 | 21 | Hollow bone |
-| \rowcolor{gray!20}22 | Toxic sweat gland |
+| 22 | Toxic sweat gland |
 | 23 | Bifocal bone hook |
-| \rowcolor{gray!20}24 | Photosensitive dermis |
+| 24 | Photosensitive dermis |
 | 25 | Deep mutagenic hemolymph |
-| \rowcolor{gray!20}26 | Hollow vertebra filled with magic |
+| 26 | Hollow vertebra filled with magic |
 | 27 | Shiny crystalline scale |
-| \rowcolor{gray!20}28 | Elemental breath gland |
+| 28 | Elemental breath gland |
 | 29 | Reserve heart |
-| \rowcolor{gray!20}210 | Muscle with magical enhancement |
+| 210 | Muscle with magical enhancement |
 | 211 | Hypersensitive optic nerves |
-| \rowcolor{gray!20}212 | Juicy fingertips |
+| 212 | Juicy fingertips |
 | 31 | Nose with sensory bristles |
-| \rowcolor{gray!20}32 | Retractable flight membrane |
+| 32 | Retractable flight membrane |
 | 33 | Magical adrenaline gland |
-| \rowcolor{gray!20}34 | Layered scarred skin |
+| 34 | Layered scarred skin |
 | 35 | Regenerative dental core |
-| \rowcolor{gray!20}36 | Multifocal prehensile appendage |
+| 36 | Multifocal prehensile appendage |
 | 37 | Multi-jointed claw |
-| \rowcolor{gray!20}38 | Soft cold fin |
+| 38 | Soft cold fin |
 | 39 | Retina with rigid internal reflection |
-| \rowcolor{gray!20}310 | Full magical cyst |
+| 310 | Full magical cyst |
 | 311 | Alternative senses |
-| \rowcolor{gray!20}312 | Fatty tissue with magic reserve |
+| 312 | Fatty tissue with magic reserve |
 | 41 | Oversized lymph gland |
-| \rowcolor{gray!20}42 | Focused visual tissue |
+| 42 | Focused visual tissue |
 | 43 | Multipolar gas sac |
-| \rowcolor{gray!20}44 | Sensory-tactile nervature |
+| 44 | Sensory-tactile nervature |
 | 45 | Energy-absorbing skin |
-| \rowcolor{gray!20}46 | Tentacle with active suckers |
+| 46 | Tentacle with active suckers |
 
-| \rowcolor{gray!20}**6d12** | **Parts** |
+| **6d12** | **Parts** |
 | 47 | Corrosive secretion gland |
-| \rowcolor{gray!20}48 | Autonomous secondary marrow |
+| 48 | Autonomous secondary marrow |
 | 49 | Cardiac tissue with alternating rhythm |
-| \rowcolor{gray!20}410 | Trained auricular plates |
+| 410 | Trained auricular plates |
 | 411 | Flexible bone joint |
-| \rowcolor{gray!20}412 | Secondary lung with air bladders |
+| 412 | Secondary lung with air bladders |
 
 **d12-4 Magical Effects from Ingestion or Preparation**
 
-| \rowcolor{gray!20}**d12-4** | **Effects** |
+| **d12-4** | **Effects** |
 | 11 | Night vision for 1d6 hours |
-| \rowcolor{gray!20}12 | Animals avoid the character |
+| 12 | Animals avoid the character |
 | 13 | +1 Natural Defense for 1 hour |
-| \rowcolor{gray!20}14 | +2 to Deception for 1 hour |
+| 14 | +2 to Deception for 1 hour |
 | 21 | +1 to Strength for 1d6 Turns |
-| \rowcolor{gray!20}22 | Regeneration (1 HP every 1T for 1 hour) |
+| 22 | Regeneration (1 HP every 1T for 1 hour) |
 | 23 | +1d6 to Jump checks for 2d4 hours |
-| \rowcolor{gray!20}24 | +2 to Awareness for 30 minutes |
+| 24 | +2 to Awareness for 30 minutes |
 | 31 | Acid resistance for 1d6 hours |
-| \rowcolor{gray!20}32 | +1d6 to Intimidate for 1 hour |
+| 32 | +1d6 to Intimidate for 1 hour |
 | 33 | Levitation for 10 minutes |
-| \rowcolor{gray!20}34 | +2 to Acrobatics for 1 hour |
+| 34 | +2 to Acrobatics for 1 hour |
 | 41 | Climb Movement for 10 minutes |
-| \rowcolor{gray!20}42 | Camouflage: +1 to Stealth for 1d6 Turns |
+| 42 | Camouflage: +1 to Stealth for 1d6 Turns |
 | 43 | Smell reveals poisons/diseases for 1d6 hours |
-| \rowcolor{gray!20}44 | Breathe underwater for 1 hour |
+| 44 | Breathe underwater for 1 hour |
 | 51 | +1 meter to Movement for 1d4 hours |
-| \rowcolor{gray!20}52 | Elemental Language for 1 hour |
+| 52 | Elemental Language for 1 hour |
 | 52 | Fingertips: +2 to Search or Traps for 1d6 hours |
-| \rowcolor{gray!20}53 | Claws: 1d6 damage for 1d6 hours |
+| 53 | Claws: 1d6 damage for 1d6 hours |
 | 54 | Boneless: can shrink by 2 sizes |
-| \rowcolor{gray!20}72 | Acid breath (2d6 damage in cone, 4 meters, DC 10+LV) 1xT, 1d4 Hours |
+| 72 | Acid breath (2d6 damage in cone, 4 meters, DC 10+LV) 1xT, 1d4 Hours |
 
-| \rowcolor{gray!20}**d12-4** | **Effects** |
+| **d12-4** | **Effects** |
 | 61 | Cold immunity for 1d4 hours |
-| \rowcolor{gray!20}62 | Gaseous form for 1 hour |
+| 62 | Gaseous form for 1 hour |
 | 63 | Healed for 3d6 Hit Points |
-| \rowcolor{gray!20}64 | See invisible for 1d4 Turns |
+| 64 | See invisible for 1d4 Turns |
 | 71 | Benign parasite absorbs poison and dies |
 | 73 | Fire breath (see acid breath) |
-| \rowcolor{gray!20}74 | Recover 1d6 Magic Points |
+| 74 | Recover 1d6 Magic Points |
 | 81 | Immunity to optical illusions and dazzlement for 1d6 hours |
-| \rowcolor{gray!20}82 | Acid breath (see acid breath) |
-| 83 | Air sacs. Don't breathe for 2d4 Turns |
-| \rowcolor{gray!20}84 | Sweat repels insects for 2d8 hours |
+| 82 | Acid breath (see acid breath) |
+| 83 | Air sacs. Don' \*\*t breathe for 2d4 Turns |
+| 84 | Sweat repels insects for 2d8 hours |
 | 91 | +2 to Entertain (beautiful voice) for 1 hour |
-| \rowcolor{gray!20}92 | Blind for 1d4 hours |
+| 92 | Blind for 1d4 hours |
 | 93 | Low-light vision 9 meters for 1 hour |
-| \rowcolor{gray!20}94 | Liquid: like an ooze for 1d10 Turns |
+| 94 | Liquid: like an ooze for 1d10 Turns |
 | 101 | Mineral: DR 4/magic to physical damage, for 2d4 T |
-| \rowcolor{gray!20}102 | Sleep: you fall asleep for 1d6 hours |
+| 102 | Sleep: you fall asleep for 1d6 hours |
 | 103 | Hasted: +1 Reaction per round for 1d6 minutes |
-| \rowcolor{gray!20}104 | Darkvision 9 meters for 1d4 hours |
+| 104 | Darkvision 9 meters for 1d4 hours |
 | 111 | Slowed: -1 Action for 1d8 minutes |
-| \rowcolor{gray!20}112 | Hyper-fast: +1 Action per round for 1d6 minutes |
+| 112 | Hyper-fast: +1 Action per round for 1d6 minutes |
 | 113 | Blindsight 6 meters for 1d4 hours |
-| \rowcolor{gray!20}114 | Fatigued: +1 fatigue level |
+| 114 | Fatigued: +1 fatigue level |
 | 121 | Stomach upset: -4 to all Actions for 1 hour |
-| \rowcolor{gray!20}122 | Severe dermatitis: -2 to Actions using hands for 1d4 hours |
+| 122 | Severe dermatitis: -2 to Actions using hands for 1d4 hours |
 | 123 | Foot blisters: all terrain is difficult for 1d10 minutes |
-| \rowcolor{gray!20}124 | Third eye: +2 to Awareness checks for 1d4 hours |
+| 124 | Third eye: +2 to Awareness checks for 1d4 hours |
 
 ---

@@ -58,7 +58,7 @@ In un'ambientazione così complessa, le possibilità per le avventure sono prati
 - Le diverse fazioni umane e non umane sono in in guerra per il controllo delle risorse o dei territori. I personaggi potrebbero scegliere una fazione o cercare di mediare la pace
 - Proteggere un villaggio dagli attacchi di entità ostili o mostri evocati dai Portali.
 - I Patroni vogliono manipolare i leader dei paesi per obbligare il loro culto. I personaggi devono sventare complotti e tradimenti.
-- Formare alleanze con i Patroni per ottenere poteri magici o protezione, navigando tra le diverse richieste e aspettative di questi \emph.
+- Formare alleanze con i Patroni per ottenere poteri magici o protezione, navigando tra le diverse richieste e aspettative di questi esseri.
 - Indagare sull'origine e la natura dell'Omniessenza, cercando di capire come sfruttarne i residui senza causare ulteriori catastrofi.
 - I personaggi sono apprendisti maghi che devono recuperare un qualche incantesimo fondamentale per salvare il loro villaggio/città.
 - Aiutare a ricostruire le comunità devastate, trovando risorse, costruendo infrastrutture e difendendole dalle minacce.
@@ -160,7 +160,7 @@ Ogni città ha le sue leggende storiche, scopritele e giocatele insieme!
 
 Questo proliferare di piccoli, grandi, duraturi o istantanei Portali ha causato uno squarcio nel tessuto dimensionale della Terra generando a sua volta un proliferare di tunnel spontanei più o meno grandi e duraturi.
 
-Questi occasionali Portali saranno spesso la causa di situazioni da affrontare e sconfiggere. Ogni Portale ha una propria DC da superare per poter essere chiuso con l'incantesimo Chiudi Portale (pag. ), solitamente questa DC va dai 20 per i più facili ai 40 per quelli permanenti.
+Questi occasionali Portali saranno spesso la causa di situazioni da affrontare e sconfiggere. Ogni Portale ha una propria DC da superare per poter essere chiuso con l'incantesimo Chiudi Portale , solitamente questa DC va dai 20 per i più facili ai 40 per quelli permanenti.
 
 Ci sono portali conosciuti e stabili, fino ad ora, che collegano continenti. I Portali più interessanti per il commercio sono quasi tutti sotto il controllo, per non dire dentro la roccaforte, di reali e potenti.
 
@@ -176,6 +176,7 @@ Gli stessi personaggi potrebbero essere non *terrestri* e cercare un modo per to
 Scegliete voi l'ambientazione, usate Greyhawk, Dark Sun, Mystara quello che preferite. Siete voi il Narratore, siete voi il mondo, siete voi a proiettare luce ed oscurità, OBSS vi fornirà gli strumenti per condurre le vostre campagne!
 
 > In principio fu il Caos, poi nacque Gaia dall'ampio petto, sede sicura per sempre di tutti gli immortali. (Teogonia, Esiodo)
+
 ---
 
 ## Il Calendario
@@ -243,6 +244,7 @@ I Devoti e Seguaci credono che il loro spirito si riunirà con il Patrono, rende
 Altri ancora credono ancora che ogni spirito si incarni per 4 volte per essere poi giudicato dai Patroni della Genesi e mandato nel piano a lui assegnato.
 
 Quale sia la verità non è dato saperlo.
+
 ---
 
 ## I Cicli Secolari

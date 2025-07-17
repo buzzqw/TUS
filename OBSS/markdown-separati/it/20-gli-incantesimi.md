@@ -528,7 +528,7 @@ Questa bolla permette ai soggetti di respirare liberamente, anche sott'acqua o n
 Bolla vitale non fornisce protezione dall'energia negativa o positiva (ad esempio sui piani dell'Energia Negativa e Positiva), la capacità di vedere in condizioni di scarsa visibilità (come nel fumo o nella nebbia), né la capacità di muoversi o agire normalmente in condizioni che impediscono il movimento (come sott'acqua).
 
 ### Caduta Piuma
-\hypertarget{cadutapiuma}
+
 * **Lista**: Aria
 * **Livello**: 1, Comune
 * **Lancio**: 1 Reazione, che effettui quando tu o una creatura entro 18 metri da te cade
@@ -992,11 +992,11 @@ Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effe
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il raggio della sfera aumenta di 1 metro.
 
-| \rowcolor{gray!20}d10 | Comportamento |
+| d10 | Comportamento |
 | 1 | La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8 |
-| \rowcolor{gray!20}2-5 | La creatura non fa nulla per tutto il round |
+| 2-5 | La creatura non fa nulla per tutto il round |
 | 6 | La creatura effettua un attacco contro se stessa e finisce il round |
-| \rowcolor{gray!20}7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
+| 7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
 | 9-10 | La creatura può agire e muoversi normalmente. |
 
 ### Confusione Contagiosa
@@ -1261,11 +1261,11 @@ Tabella Materiale - Durata
 
 | **Materiale** | **Durata** |
 | --- | --- |
-| \rowcolor{gray!20}Materia vegetale | 1 giorno |
+| Materia vegetale | 1 giorno |
 | Pietra o cristallo | 12 ore |
-| \rowcolor{gray!20}Metalli preziosi | 1 ora |
+| Metalli preziosi | 1 ora |
 | Gemme | 10 minuti |
-| \rowcolor{gray!20}Adamantio o mithral | 1 minuto |
+| Adamantio o mithral | 1 minuto |
 
 Usare qualsiasi materiale creato da questo incantesimo come componente materiale di un altro incantesimo farà fallire il nuovo incantesimo.
 
@@ -1528,7 +1528,7 @@ Questo incantesimo disintegra automaticamente gli oggetti non magici o una creaz
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 2 o più basso sul bersaglio ha fine.
 
-Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrastare incantesimi (pag. ).
+Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrastare incantesimi .
 
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
@@ -1541,7 +1541,7 @@ Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 4 o più basso sul bersaglio ha fine.
 
-Se l'incantesimo è di livello maggiore al quarto è necessaria una prova di contrastare incantesimi (pag. ).
+Se l'incantesimo è di livello maggiore al quarto è necessaria una prova di contrastare incantesimi .
 
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
@@ -2574,7 +2574,7 @@ Quando l'incantesimo termina, il bersaglio riappare nello spazio che aveva lasci
 
 ### Lacrima di Laydel
 
-* **Lista**: Invocazione
+* **Lista**: Illusione
 * **Livello**: 2, Molto Raro/Comune
 * **Lancio**: 2 Azione/1 Azione
 * **Gittata**: 36 metri
@@ -2585,13 +2585,13 @@ La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare 
 
 	
 
-| \rowcolor{gray!20}**1d6** | **Energia** |
+| **1d6** | **Energia** |
 | 1 | Fuoco |
-| \rowcolor{gray!20}2 | Elettricità |
+| 2 | Elettricità |
 | 3 | Freddo |
-| \rowcolor{gray!20}4 | Suono |
+| 4 | Suono |
 | 5 | Vuoto |
-| \rowcolor{gray!20}6 | Forza |
+| 6 | Forza |
 
 Il danno che l'obiettivo subisce è del tipo di Energia che risulta dal primo d6. Se il primo dado è un 6 ed è 6 anche uno degli altri dadi allora tira nuovamente 1d6 e somma al danno.
 
@@ -2741,7 +2741,7 @@ Descrivi o nomina uno specifico tipo di bestia o vegetale. Concentrandoti sulla 
 
 ### Localizza Creatura
 
-* **Lista**: Divinazione
+* **Lista**: Animali o Piante
 * **Livello**: 4, Comune
 * **Lancio**: 2 Azioni
 * **Gittata**: Personale
@@ -2995,7 +2995,7 @@ L'incantatore induce in sé stesso, o in una creatura consenziente, uno stato di
 
 ### Movimenti del Ragno
 
-* **Lista**: Trasmutazione
+* **Lista**: Animali o Piante
 * **Livello**: 2, Non Comune
 * **Lancio**: 2 Azioni
 * **Gittata**: Contatto
@@ -3838,17 +3838,17 @@ La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razz
 
 	
 
-| \rowcolor{gray!20}**d10** | **Razza** |
+| **d10** | **Razza** |
 | 0 | Lupo/Aquila/Volpe/Lince (tirate 1d4) |
-| \rowcolor{gray!20}1 | Nano |
+| 1 | Nano |
 | 2 | Elfo |
-| \rowcolor{gray!20}3 | Mezzelfo |
+| 3 | Mezzelfo |
 | 4 | Mezzorco |
-| \rowcolor{gray!20}5 | Cinghiale/Tasso/Cane/Ratto (tirate 1d4) |
+| 5 | Cinghiale/Tasso/Cane/Ratto (tirate 1d4) |
 | 6 | Nibali |
-| \rowcolor{gray!20}7 | Orso/Gufo/Procione/Gatto (tirate 1d4) |
+| 7 | Orso/Gufo/Procione/Gatto (tirate 1d4) |
 | 8 | Umano |
-| \rowcolor{gray!20}9 | Stessa razza precedente |
+| 9 | Stessa razza precedente |
 
 La creatura reincarnata ricorda la sua vita e le sue esperienze passate (stesso punteggio di CA e CM, Abilità e Competenze). Mantiene le capacità che aveva nella sua forma originale se è in grado di applicarle.
 
@@ -4017,7 +4017,7 @@ Puoi porre fine a una condizione che affligge una creatura con cui sei a contatt
 
 Non è possibile usufruire di più di un Ristorare Inferiore al giorno.
 
-In caso di condizioni magiche esegui una prova di contrastare (pag. ) con la DC della condizione.
+In caso di condizioni magiche esegui una prova di contrastare  con la DC della condizione.
 
 ### Ristorare Superiore
 
@@ -4036,7 +4036,7 @@ Imbevi una creatura a contatto di energia positiva curativa per annullare un eff
 
 Non è possibile usufruire di più di un Ristorare Superiore al giorno.
 
-In caso di condizioni magiche esegui una prova di contrastare (pag. ) con la DC della condizione.
+In caso di condizioni magiche esegui una prova di contrastare  con la DC della condizione.
 
 ### Risveglio
 
@@ -4288,16 +4288,16 @@ In caso l'incantesimo venisse dissolto, sia la scritta originale che l'illusione
 Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo stesso piano di esistenza. Il bersaglio deve effettuare un Tiro Salvezza su Volontà, modificato da quanto bene conosci il bersaglio e la tua connessione fisica a esso. Se il bersaglio sa che stai lanciando l'incantesimo, può fallire volontariamente il Tiro Salvezza, in caso desiderasse essere osservato da
 te.
 
-| \rowcolor{gray!20}**Conoscenza** | **Mod. al TS** |
+| **Conoscenza** | **Mod. al TS** |
 | --- | --- |
 | Ne hai sentito parlare | +4 |
-| \rowcolor{gray!20}Hai incontrato il bersaglio | +0 |
+| Hai incontrato il bersaglio | +0 |
 | Conosci bene il bersaglio | -4 |
 
-| \rowcolor{gray!20}**Connessione** | **Mod. TS** |
+| **Connessione** | **Mod. TS** |
 | --- | --- |
 | Descrizione o immagine | -2 |
-| \rowcolor{gray!20}Proprietà o indumento | -4 |
+| Proprietà o indumento | -4 |
 | Parte del corpo (capelli...) | -10 |
 
 Se supera il Tiro Salvezza, il bersaglio ignora gli effetti dell'incantesimo, e non potrai usare di nuovo questo incantesimo contro di lui prima che siano passate 24 ore.
@@ -4527,7 +4527,7 @@ Se possiedi una ciocca di capelli, delle unghie tagliate, o simile porzione del 
 
 ### Sonnellino
 
-* **Lista**: Alterazione
+* **Lista**: Ammaliamento
 * **Livello**: 2, Leggendario
 * **Lancio**: 1 round
 * **Gittata**: 6 metri
@@ -4745,13 +4745,13 @@ Il Narratore tira un d100 e consulta la tabella.
 - *Area Simile*. Tu e il tuo gruppo (o l'oggetto bersaglio) finite in un'area diversa che è visualmente o tematicamente simile all'area bersaglio. Per esempio, se sei diretto al tuo laboratorio personale, potresti finire nel laboratorio di un altro incantatore o in un negozio di oggetti alchemici che possiede molti degli attrezzi e strumenti del tuo laboratorio. In genere, compari nel luogo simile più vicino, ma dato che l'incantesimo non ha limiti di gittata, potresti finire praticamente dovunque sullo stesso piano.
 - *Errore*. L'imprevedibile magia dell'incantesimo provoca un viaggio difficile. Ogni creatura teletrasportata (o l'oggetto bersaglio) subisce 3d10 danni da forza, e il Narratore ritira sulla tabella per vedere dove finiscano (possono capitare più errori, che infliggono danni ogni volta).
 
-| \rowcolor{gray!20}d100 | Errore | Area Simile | Fuori Bersaglio | Sul Bersaglio |
+| d100 | Errore | Area Simile | Fuori Bersaglio | Sul Bersaglio |
 | Cerchio permanente | - | - | - | 01-100 |
-| \rowcolor{gray!20}Oggetto Associato | - | - | - | 01-100 |
+| Oggetto Associato | - | - | - | 01-100 |
 | Molto Familiare | 01-05 | 06-13 | 14-24 | 25-100 |
-| \rowcolor{gray!20}Visto per caso | 01-33 | 34-43 | 44-53 | 54-100 |
+| Visto per caso | 01-33 | 34-43 | 44-53 | 54-100 |
 | Visto una volta | 01-43 | 44-53 | 54-73 | 74-100 |
-| \rowcolor{gray!20}Descrizione | 01-43 | 44-53 | 54-73 | 74-100 |
+| Descrizione | 01-43 | 44-53 | 54-73 | 74-100 |
 | Falsa Destinazione | 01-50 | 51-100 | - | - |
 
 ### Tempesta di Fuoco
@@ -5146,6 +5146,7 @@ influenzare la mente del bersaglio o per ottenere informazioni su di esso.
 * **Durata**: 10 minuti
 
 Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di raggio centrata su di un punto a gittata di tua scelta. Fino al termine dell'incantesimo, una creatura che entra nell'area dell'incantesimo per la prima volta durante un round, o inizia il suo round al suo interno, deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura non può pronunciare bugie deliberatamente mentre è nel raggio dell'incantesimo. Sei a conoscenza se una creatura ha superato o fallito il Tiro Salvezza. Una creatura soggetta all'incantesimo ne è consapevole e può quindi evitare di rispondere a domande a cui risponderebbe normalmente con una bugia. Questa creatura può dare risposte elusive purché rimanga entro i confini della verità.
+
 ---
 
 ## Incantesimi per Lista con Livello e Rarita'
@@ -5595,7 +5596,7 @@ Fiamma Perenne, Leggendario, 2
 
 ## Incantesimi per Livello
 
-Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo Generazione Oggetti Magici (pag. ) per generare Tomi casuali.
+Sono elencati gli incantesimi in ordine per livello e alfabetico. Vedi Capitolo Generazione Oggetti Magici  per generare Tomi casuali.
 
 **Livello 0 - Trucchetti** 
 

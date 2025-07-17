@@ -39,7 +39,7 @@ La copertura fornita da una creatura di taglia maggiore rispetto alla taglia del
 
 ***Esempio.*** se la la creatura da colpire è di taglia media ed è coperta da una creatura di taglia grande la copertura fornita sarà +4. Normalmente sarebbe copertura leggera perché è una sola creatura a coprire, ma essendo di una taglia maggiore conta come 2 creature a fornire copertura.
 
-Vedi anche Abilità Precisino (pag. ).
+Vedi anche Abilità Precisino .
 
 ## Invisibilita' 
 
@@ -57,16 +57,16 @@ A seconda della distanza della creatura invisibile o di ciò che questa ha fatto
 
 **Tabella: Modificatori alla DC di Consapevolezza per Rilevare Creature Invisibili**
 
-| \rowcolor{gray!20}**La Creatura Invisibile...** | **Mod.** |
+| **La Creatura Invisibile...** | **Mod.** |
 | --- | --- |
 | Si è mossa | -4 |
-| \rowcolor{gray!20}Ha scagliato un proiettile | -4 |
+| Ha scagliato un proiettile | -4 |
 | Un compagno che lo vede ti indirizza | -4 |
-| \rowcolor{gray!20}Ha corso o caricato | -8 |
+| Ha corso o caricato | -8 |
 | Usa Furtività | prova+10 |
-| \rowcolor{gray!20}E' ferma e non fa rumori | +4 |
+| E' ferma e non fa rumori | +4 |
 | Per ogni metro oltre i 6 metri | +2 |
-| \rowcolor{gray!20}Ha copertura Legg./Media/Compl. | +4/8/12 |
+| Ha copertura Legg./Media/Compl. | +4/8/12 |
 
 Questi modificatori sono cumulativi tra loro.
 
@@ -93,4 +93,5 @@ Una creatura invisibile nell'acqua muove il liquido, rivelando la propria posizi
 Una torcia accesa invisibile emana comunque luce (così come un oggetto invisibile soggetto ad una magia di luce).
 
 Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'invisibilità non influisce sull'essere obiettivo di un incantesimo di Divinazione.
+
 ---

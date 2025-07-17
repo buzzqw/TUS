@@ -5,7 +5,7 @@ Anche io sono un Narratore e per quanto abbia costruito OBSS in base alle mie pr
 Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessione Zero:
 
 - Successo Parziale pag. 
-- Opzionale - Elenco Manovre d'Arme (pag. ) per rendere meno *noiso* il fumbolare...
+- Opzionale - Elenco Manovre d'Arme  per rendere meno *noiso* il fumbolare...
 - Un solo credo o Abilità di Lista, a scelta del giocatore.
 - Abilità Iconiche in caso di lunghe campagne. Pag. 
 - Droghe **NO**. Solo in caso di gruppi composti da persone mature ed adulte di testa. Pag. 
@@ -27,7 +27,7 @@ Una volta fatto il gruppo, e potrebbe volerci anche tempo, allora sfruttate le s
 
 Potrebbero esserci delle difficoltà nel creare il gruppo, capita purtroppo. Cercate di parlare con il giocatore che da problemi. Cercate di capire se è il suo personaggio che non *funziona* con il gruppo oppure è il giocatore che non ha ben compreso le meccaniche del gruppo.
 
-Per questo vi suggerisco sempre di fare la così detta Sessione Zero (pag. ), dove come Narratore andrete a delineare a grandi linee quali sono i cardini dell'avventura, cosa vi aspettate dai personaggi, quali sono le regole di base e di morale da seguire. Non c'è nulla di peggio di un gruppo di personaggi slegati dove ognuno vuole fare qualcosa di diverso e non gli interessa l'*obiettivo comune*.
+Per questo vi suggerisco sempre di fare la così detta Sessione Zero , dove come Narratore andrete a delineare a grandi linee quali sono i cardini dell'avventura, cosa vi aspettate dai personaggi, quali sono le regole di base e di morale da seguire. Non c'è nulla di peggio di un gruppo di personaggi slegati dove ognuno vuole fare qualcosa di diverso e non gli interessa l'*obiettivo comune*.
 
 E' molto importante capire cosa piace ai giocatori, ogni persona e gruppo vuole un certo stile di gioco ed è corretto cercare di accontentarli. Se il gruppo vuole avventure politiche, drama romantici cercate di fargli trovare soddisfazione nel mentre dell'avventura. Se invece preferiscono più combattere allora non lesinate scontri purché coerenti con l'avventura stessa.
 

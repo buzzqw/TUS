@@ -6,7 +6,7 @@ These Abilities are not selectable by the player, but can be innate to creatures
 
 A creature that has become Ethereal is located in the Ethereal Plane, which overlaps the Material Plane.
 
-An ethereal creature is Invisible, insubstantial, and capable of moving in any direction, even up and down. An ethereal creature can move through solid objects, including other living creatures. An ethereal creature can see and hear what happens on the Material Plane, but everything appears gray and insubstantial. An ethereal creature's sight and hearing on the Material Plane are limited to a distance of 9 meters.
+An ethereal creature is Invisible, insubstantial, and capable of moving in any direction, even up and down. An ethereal creature can move through solid objects, including other living creatures. An ethereal creature can see and hear what happens on the Material Plane, but everything appears gray and insubstantial. An ethereal creature' \*\*s sight and hearing on the Material Plane are limited to a distance of 9 meters.
 
 Spells, unless appropriately formulated and modified, do not affect ethereal creatures. An ethereal creature has Damage Resistance against Light or Void, and ignores all other forms of Energy.
 
@@ -78,4 +78,5 @@ A frightened creature has -1d6 on Attack Rolls, Saving Throws, and Skill Checks 
 There are several methods to Paralyze a creature, both magical and natural. While natural methods often have systems to subsequently free oneself, magical systems may or may not provide a way to escape paralysis, perhaps only after a certain period of time.
 
 A paralyzed character cannot take Actions or Reactions, nor speak. Melee attacks against them have a +1d6 bonus, and they lose the Dexterity bonus to Defense. The creature is aware of its surroundings and does not drop items. The creature automatically fails Reflex Saving Throws.
+
 ---

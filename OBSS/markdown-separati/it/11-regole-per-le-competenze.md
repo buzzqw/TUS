@@ -26,16 +26,16 @@ Il Narratore non ti dirà fammi una prova a difficoltà 10, ma dirà che la prov
 
 **Tabella: Classe di difficoltà**
 
-| \rowcolor{gray!20}**Diff.** | **Descrizione** | **Livello** |
+| **Diff.** | **Descrizione** | **Livello** |
 | --- | --- | --- |
 | **DC** | **difficoltà** | **Competenza** |
-| \rowcolor{gray!20}6 | Estremamente facile | Nulla |
+| 6 | Estremamente facile | Nulla |
 | 10 | Facile | Scarsa |
-| \rowcolor{gray!20}15 | Normale | Normale |
+| 15 | Normale | Normale |
 | 20 | Difficile | Buona |
-| \rowcolor{gray!20}25 | Molto difficile | Ottima |
+| 25 | Molto difficile | Ottima |
 | 30 | Eroica | Eccellente |
-| \rowcolor{gray!20}35 | Quasi impossibile | Stupefacente |
+| 35 | Quasi impossibile | Stupefacente |
 | 40 | Impossibile | Epica |
 
 Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteggio della Caratteristica e altri modificatori. Comunica questo risultato al Narratore che la confronterà con la difficoltà (DC).
@@ -114,12 +114,12 @@ Ogni qual volta la **Prova** o **Prova Contrapposta** riguarda una **Caratterist
 
 **Tabella: Prove Contrapposte**
 
-| \rowcolor{gray!20}**Prova Contrapposta** | **TS** |
+| **Prova Contrapposta** | **TS** |
 | --- | --- |
 | Forza | Tempra |
-| \rowcolor{gray!20}Destrezza | Riflessi |
+| Destrezza | Riflessi |
 | Costituzione | Tempra |
-| \rowcolor{gray!20}Intelligenza, Saggezza, Carisma | Volontà |
+| Intelligenza, Saggezza, Carisma | Volontà |
 
 E' possibile che siano chieste Prove Contrapposte con indicato modificatori diversi. Quelli riportati nella tabella sopra sono esempi di utilizzo tipici. E' possibile fare un prova contrapposta di Forza, facendo un Tiro Salvezza su Tempra e sommando il punteggio di Forza per capire chi vince in una gara di sollevamento pesi.
 
@@ -151,13 +151,13 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 	
 
-| \rowcolor{gray!20}**Vantaggio / Svantaggio** | **Prove** | |
-| --- | --- |
-| \cmidrule(lr) | **Dinamiche** | **Fisse** |
+| **Vantaggio / Svantaggio** | **Prove** | |
+| --- | --- |---|
+|  | **Dinamiche** | **Fisse** |
 | Leggero | $\pm$1 | $\pm$1 |
-| \rowcolor{gray!20}Normale | $\pm$2 | $\pm$2 |
+| Normale | $\pm$2 | $\pm$2 |
 | Forte | $\pm$1d6 | $\pm$4 |
-| \rowcolor{gray!20}Molto forte | $\pm$2d6 | $\pm$8 |
+| Molto forte | $\pm$2d6 | $\pm$8 |
 
 >>> **Il valore dei dadi**: I bonus e penalità nel tiro di 3d6 hanno più *effetto* che nella prova fatta con il d20. Cercate di rimanere entro i $\pm2$ e solo in situazioni particolari di effettivo e forte vantaggio o svantaggio applicate bonus o penalità maggiori.
 
@@ -214,26 +214,26 @@ Una prova di Acrobatica riuscita con DC 15 permette al personaggio di ridurre di
 
 **Scendere o Salire** entro 50 cm è terreno difficile, tra i 50 e 150 cm è terreno doppiamente difficile, oltre è cadere o arrampicarsi. Il danno da caduta è 1d6 danni ogni 3 metri in caduta. 
 
-Vedi paragrafo Cadute (pag. ) per i dettagli su come usare Acrobatica quando si cade.
+Vedi paragrafo Cadute  per i dettagli su come usare Acrobatica quando si cade.
 
 ### Arrampicarsi/Scalare* 
 
 Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi in un **terreno doppiamente difficile**.
 
-| \rowcolor{gray!20}**Esempio di Superficie** | **DC** |
+| **Esempio di Superficie** | **DC** |
 | --- | --- |
 | Movimento solo dimezzato | -2d6 |
-| \rowcolor{gray!20}Superficie scivolosa | +4 |
+| Superficie scivolosa | +4 |
 | { Parete grezza con appigli, mattoni sporgenti} | +12 |
-| \rowcolor{gray!20}Un albero, una corda senza nodi | +15 |
+| Un albero, una corda senza nodi | +15 |
 | Un muro con pochi mattoni sporgenti | +20 |
-| \rowcolor{gray!20}Un muro con pochissimi appigli | +25 |
+| Un muro con pochissimi appigli | +25 |
 | Una parete naturale liscia senza appigli | +30 |
-| \rowcolor{gray!20}Ti puoi appoggiare a 2 pareti opposte | -8 |
+| Ti puoi appoggiare a 2 pareti opposte | -8 |
 | Ti puoi appoggiare a 2 pareti angolari | -4 |
-| \rowcolor{gray!20}Esempi di prove con uso della corda | |
+| Esempi di prove con uso della corda | |
 | Usare una corda per calarsi | 12 |
-| \rowcolor{gray!20}Usare una corda per arrampicarsi | 15 |
+| Usare una corda per arrampicarsi | 15 |
 | La corda ha nodi | -3 |
 
 In caso di fallimento della prova si consuma l'Azione senza spostarsi. Se si ottiene un Fallimento Critico perdi la presa e puoi fare un Tiro Salvezza su Riflessi alla stessa difficoltà per afferrarti a qualcosa, se fallisci anche il TS cadi fino in fondo.
@@ -267,7 +267,7 @@ Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del
 Impiega 1 Azione ogni 10 di DC. Con 6 in Erboristeria il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC eseguire la prova. Se si fallisce con un Fallimento Critico si è venuti a contatto/ingerito parte della pozione e se ne subiscono gli effetti.
 
 ### Conoscenza - Identificare una creatura 
-si effettua una prova di Conoscenza. Controlla il capitolo Riconoscere i Mostri nel Mostruario (pag. ). Costa 1 Azione.
+si effettua una prova di Conoscenza. Controlla il capitolo Riconoscere i Mostri nel Mostruario . Costa 1 Azione.
 
 ### Intimidire
 Il personaggio usa **1 Azione** ed esegue una Prova Contrapposta al Tiro Salvezza su Volontà con bonus dato dal Carisma.
@@ -289,7 +289,7 @@ Usando **1 Azione** puoi cercare di nasconderti dalla vista degli avversari. Non
 
 In acqua calme DC 10, in acque mosse ha DC 15, in acque molto mosse DC 20, tempestose DC 25. La prova è necessaria per stare a galla o nuotare. Nuotare in acqua si considera **terreno difficile**.
 
-Vedi Capitolo Avventure in Acqua (pag. ).
+Vedi Capitolo Avventure in Acqua .
 
 ### Professione
 Un eventuale prova sulla **Professione** viene fatta con 3d6+Saggezza+metà del livello.
@@ -307,21 +307,21 @@ Una prova riuscita (base DC 12) riduce di 1 i danni da **Sanguinamento**. Per og
 Una prova riuscita (base DC 13) per **prendersi cura per 8 ore** di un paziente fa recuperare a questo il doppio dei Punti Ferita, con un minimo di 4, e concede un nuovo Tiro Salvezza su Tempra per debellare a Malattie naturali o Veleni già in corso.
 Se effettuato durante le ore di riposo chi amministra la cura risulterà Affaticato.
 
-Oggetti come Borsa da Guaritore (pag. ) e Fermasangue (pag. ) possono essere utili nelle prove.
+Oggetti come Borsa da Guaritore  e Fermasangue  possono essere utili nelle prove.
 
 ### Seguire Tracce
 
 Alla **Difficoltà base di 15** si applicano i seguenti modificatori:
 
-| \rowcolor{gray!20}Se il terreno è molto morbido | DC -4 |
+| Se il terreno è molto morbido | DC -4 |
 | Se il terreno è stabile | DC +5 |
-| \rowcolor{gray!20}Se il terreno è duro | DC +10 |
+| Se il terreno è duro | DC +10 |
 | A seconda della taglia | DC $\pm4$ |
-| \rowcolor{gray!20}Ogni 3 creature inseguite | DC -2 |
+| Ogni 3 creature inseguite | DC -2 |
 | Ogni 24 ore passate | DC +4 |
-| \rowcolor{gray!20}Ogni ora di pioggia | DC +4 |
+| Ogni ora di pioggia | DC +4 |
 | Visibilità scarsa | DC +2 |
-| \rowcolor{gray!20}Cerca di occultare le tracce | DC +4 |
+| Cerca di occultare le tracce | DC +4 |
 
 ### Valutare
 DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +10, Leggendario +16. 3 Azioni
@@ -355,17 +355,18 @@ Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, G
 
 **Tabella delle Lingue**
 
-| \rowcolor{gray!20}**Ambito culturale** | **Parlato** | **Scritto** |
+| **Ambito culturale** | **Parlato** | **Scritto** |
 | --- | --- | --- |
 | Vecchie lingue terrestri | varie | varie |
-| \rowcolor{gray!20}Creature marine* | Aquan | Elfico |
+| Creature marine* | Aquan | Elfico |
 | Uccelli senzienti | Ictun | - |
-| \rowcolor{gray!20}Abitanti dei boschi | Silvano | - |
+| Abitanti dei boschi | Silvano | - |
 | Elementali del Fuoco* | Ignan | - |
-| \rowcolor{gray!20}Elementali della Terra* | Tremun | - |
+| Elementali della Terra* | Tremun | - |
 | Elementali dell'Acqua* | Aquan | - |
-| \rowcolor{gray!20}Elementali dell'Aria* | Ictun | - |
+| Elementali dell'Aria* | Ictun | - |
 | Non-morti | Expiran | - |
 
 La **Telepatia** è un mezzo per parlare con qualsiasi creatura che abbia Intelligenza almeno -3. Non c'è il vincolo del linguaggio, la telepatia funge da traduttore universale.
+
 ---

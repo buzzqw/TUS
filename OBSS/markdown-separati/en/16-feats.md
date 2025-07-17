@@ -1,24 +1,24 @@
 # Feats
 
-> Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil's Disciple)}
+> Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil' \*\*s Disciple)}
 
 Feats are peculiar abilities, the result of training or special gifts. Feats always have a practical effect.
 
-Feats constitute a good part of what the character can do; they should be chosen with attention and care. It is by choosing Feats that the character's style and ability are established, whether you want them to be more of a warrior or mage or healer... or any combination and *uniqueness*.
+Feats constitute a good part of what the character can do; they should be chosen with attention and care. It is by choosing Feats that the character' \*\*s style and ability are established, whether you want them to be more of a warrior or mage or healer... or any combination and *uniqueness*.
 
 **At first level, you take two Feats**. Subsequently, you take one Feat at levels 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 15, 16, 18, 20. This can be a Feat you already know or a new Feat learned during adventures.
 
 Requirements may be indicated under the name of the Feat; in this case, they must be respected to take the Feat in question.
 Any subsequent requirements are indicated case by case.
 
-Don't choose Feats based on power, strength, or combination with others, but because they align with the character's story.
-Choosing a hodgepodge of Feats just because they are strong doesn't make a character powerful but unbalanced; don't be a power-player at all costs.
+Don' \*\*t choose Feats based on power, strength, or combination with others, but because they align with the character' \*\*s story.
+Choosing a hodgepodge of Feats just because they are strong doesn' \*\*t make a character powerful but unbalanced; don' \*\*t be a power-player at all costs.
 
-**Feats must be chosen based on the character's evolutionary path, based on what they've experienced and learned during adventures.**
+**Feats must be chosen based on the character' \*\*s evolutionary path, based on what they' \*\*ve experienced and learned during adventures.**
 
 It is possible to change a chosen Feat, still respecting the requirements, by retraining for at least one week for 4 hours a day with someone who has the new Feat.
 
-The capabilities provided by Feats, unless described otherwise, are cumulative, or if it's the same bonus, the greater one applies. Unless explicitly stated, a Feat cannot be taken multiple times.
+The capabilities provided by Feats, unless described otherwise, are cumulative, or if it' \*\*s the same bonus, the greater one applies. Unless explicitly stated, a Feat cannot be taken multiple times.
 
 ## Saving Throws and Feats
 
@@ -32,7 +32,7 @@ Each Feat has a note like ***Ability Score*** with one or more Ability Scores li
 
 ## Adding new Feats
 
-This list can never be exhaustive given the players' imagination! However, try to understand if what the player wants is a Feat or Skill, having a capability or knowing how to do something particular.
+This list can never be exhaustive given the players' \*\* imagination! However, try to understand if what the player wants is a Feat or Skill, having a capability or knowing how to do something particular.
 Evaluate the prerequisites and advantages it grants carefully, always try to be balanced, or rather grant advantages in tiers, that is, by taking the Feat multiple times.
 
 Remember to also mark the bonuses related to Saving Throws. Typically, a concrete and practical Feat grants a bonus of +3 divided between 2 Saving Throws, a more generic Feat grants 2 points to be divided between one or two Saving Throws.
@@ -46,11 +46,11 @@ Remember to also mark the bonuses related to Saving Throws. Typically, a concret
 
 Your natural healing processes are extremely efficient. The abilities stack.
 
-The **first time** you take this Feat, after a night's rest you recover 1d6 additional Hit Points.
+The **first time** you take this Feat, after a night' \*\*s rest you recover 1d6 additional Hit Points.
 
 The **second time**, requirement Constitution 1, that you take this Feat, at the end of each of your rounds you reduce the Bleeding condition by 1.
 
-The **third time**, requirement Constitution 2, that you take this Feat, after a night's rest you recover double the Hit Points.
+The **third time**, requirement Constitution 2, that you take this Feat, after a night' \*\*s rest you recover double the Hit Points.
 
 ## Animalia
 - **Requirement**:: Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2.
@@ -77,11 +77,11 @@ The **second time** you take this Feat, you can also transform into a creature w
 
 **Creature Type**: Plants and Oozes
 
-**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal's.
+**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal' \*\*s.
 
 **Spells**: You cannot cast spells in the new form
 
-**Equipment**: Magical equipment has no effect. Armor and Shields apply their magical bonus to the creature's Defense. Magical abilities of items cannot be activated.
+**Equipment**: Magical equipment has no effect. Armor and Shields apply their magical bonus to the creature' \*\*s Defense. Magical abilities of items cannot be activated.
 
 The **third time** you take this Feat, you can also transform into a creature with these characteristics:
 
@@ -89,11 +89,11 @@ The **third time** you take this Feat, you can also transform into a creature wi
 
 **Creature Type**: Elementals
 
-**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal's.
+**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal' \*\*s.
 
 **Spells**: You can cast spells in the new form as long as they have only Verbal components
 
-**Equipment**: Magical equipment continues to have effect if possible. Armor and Shields apply their magical bonus to the creature's Defense, and magical abilities of items cannot be activated.
+**Equipment**: Magical equipment continues to have effect if possible. Armor and Shields apply their magical bonus to the creature' \*\*s Defense, and magical abilities of items cannot be activated.
 
 The **fourth time** you take this Feat, you can also transform into a creature with these characteristics:
 
@@ -101,11 +101,11 @@ The **fourth time** you take this Feat, you can also transform into a creature w
 
 **Creature Type**: Monstrosities
 
-**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal's. Hit Points remain those of the character.
+**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal' \*\*s. Hit Points remain those of the character.
 
 **Spells**: You can cast spells in the new form as long as they have only Verbal and Somatic components
 
-**Equipment**: Magical equipment continues to have effect if possible. Armor and Shields apply their magical bonus to the creature's Defense, and any magical abilities can be activated.
+**Equipment**: Magical equipment continues to have effect if possible. Armor and Shields apply their magical bonus to the creature' \*\*s Defense, and any magical abilities can be activated.
 
 **Basic rules for transformationEquipment** is absorbed into the new form and cannot be used. Magical equipment may function and be used as indicated.
 
@@ -119,9 +119,9 @@ It costs 2 Actions to change form, and before changing from one form to another,
 
 The character retains their Traits, personality, Feats (but the new form may not allow them to use them) and mental characteristics.
 
-If the creature possesses a skill that the character also possesses and the creature's bonus is higher than the character's, then use the creature's bonus instead of your own. If the creature possesses additional actions or lair actions, the character cannot use them.
+If the creature possesses a skill that the character also possesses and the creature' \*\*s bonus is higher than the character' \*\*s, then use the creature' \*\*s bonus instead of your own. If the creature possesses additional actions or lair actions, the character cannot use them.
 
-Any action that requires hands is limited to the capabilities of your new form. The transformation does not interrupt the character's concentration on a spell they have already cast and does not prevent them from performing actions that are part of an already cast spell, such as Call Lightning.
+Any action that requires hands is limited to the capabilities of your new form. The transformation does not interrupt the character' \*\*s concentration on a spell they have already cast and does not prevent them from performing actions that are part of an already cast spell, such as Call Lightning.
 
 Attack forms are always those of the creature.
 
@@ -156,7 +156,7 @@ The **first time** you take this Ability, constant training with your armor redu
 
 The **second time** you take this Ability, single Trait 6 requirement, you reduce the Magic Check penalty by 4 when wearing medium armor.
 
-The **third time** you take this Ability, single Trait 8 requirement, wearing light armor doesn't require you to make Magic Checks, you reduce the penalty for medium armor by 6 and reduce the penalty for heavy armor by 8.
+The **third time** you take this Ability, single Trait 8 requirement, wearing light armor doesn' \*\*t require you to make Magic Checks, you reduce the penalty for medium armor by 6 and reduce the penalty for heavy armor by 8.
 
 The **fourth time** you take this Ability, single Trait 12 requirement, Magic Checks for wearing armor are only mandatory if you wear heavy armor and you reduce the penalty by 12.
 
@@ -182,7 +182,7 @@ The **fifth time** you take this Feat, requirement Empty Fist 13, you acquire da
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Intelligence
 
-It's just a matter of a moment before you light up!
+It' \*\*s just a matter of a moment before you light up!
 
 You can shoot 1 arrow/bolt, once per day, as a Reaction, without penalties to hit given by multiple attacks.
 
@@ -391,7 +391,7 @@ Make the Attack Roll with a penalty of -1d6; if you hit, you cause 2 critical da
 - **Saving Throws**:: +2 Reflex, +1 Will
 - **Ability Score**:: Intelligence or Dexterity
 
-Debilitating Strike is an advanced form of sneak attack. Each Debilitating Strike lowers Strength or Dexterity (player's choice) by how many times you have taken Sneak Attack.
+Debilitating Strike is an advanced form of sneak attack. Each Debilitating Strike lowers Strength or Dexterity (player' \*\*s choice) by how many times you have taken Sneak Attack.
 
 The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Roll. You cause the additional damage of the Sneak Attack or the loss of ability points.
 
@@ -409,7 +409,7 @@ Has a bonus of +1d6 in understanding the content of a scroll and in casting the 
 
 Whenever your mount is hit, you can make a Ride check to negate the hit.
 
-Your Ride check must be greater than the opponent's Attack Roll.
+Your Ride check must be greater than the opponent' \*\*s Attack Roll.
 
 This Feat can only be used once per round, for a single attack, and costs the Reaction.
 
@@ -445,7 +445,7 @@ The **first time** you take this Feat, choose a type of Elemental Energy: Fire, 
 You are able to exchange the elements present in your spells. You can substitute one type of elemental energy damage with the damage chosen when you took this Feat.
 The casting time of the spell increases by 1 Action; if the total casting time exceeds 3 Actions, it is not possible to use this Feat on the spell.
 
-The **second time** you take this Feat, requirement Magic Proficiency 6, choose a new type of Energy. When making the substitution, you can choose between the available energy types. You no longer have the penalty to the spell's casting time.
+The **second time** you take this Feat, requirement Magic Proficiency 6, choose a new type of Energy. When making the substitution, you can choose between the available energy types. You no longer have the penalty to the spell' \*\*s casting time.
 
 ## Expert
 - **Requirement**:: Related ability score at least -1
@@ -480,7 +480,7 @@ When you make a Magic Check and achieve at least one Critical Magic Success, the
 - **Saving Throws**:: +1 Will, +1 Fortitude
 - **Ability Score**:: Ability modifier for spells or Charisma
 
-The **first time** you take this Feat, if you can see it, you also know if it's magical. It costs one Action to activate magical sight and lasts one round.
+The **first time** you take this Feat, if you can see it, you also know if it' \*\*s magical. It costs one Action to activate magical sight and lasts one round.
 
 The **second time**, requirement Magic Proficiency 1, that you take the Feat, activating magical sight costs a Reaction.
 
@@ -545,7 +545,7 @@ The first Attack Roll of the day has a bonus of +1d6 and causes a critical hit i
 - **Saving Throws**:: +1 Fortitude, +1 Will
 - **Ability Score**:: Ability modifier for spells
 
-Choose a Magic List; the DC of your spells' Saving Throws in that list increases by 1.
+Choose a Magic List; the DC of your spells' \*\* Saving Throws in that list increases by 1.
 
 This Feat can be taken multiple times on the same Magic List or on other lists, and the total must be equal to or less than MP/4.
 
@@ -667,9 +667,9 @@ The **first time** you take this Feat, you can use two Magic Points and channel 
 
 For the duration of 6 rounds, your weapon becomes a +1 magic weapon; if it already has magical capabilities, the effect does not work.
 
-The **second time** you take this Feat, requirement Magic Proficiency 4, you can use four Magic Points and a weapon you come into contact with becomes a +2 weapon for 6 rounds; if it's already enchanted, it acquires an additional bonus of +1 up to a maximum of +3.
+The **second time** you take this Feat, requirement Magic Proficiency 4, you can use four Magic Points and a weapon you come into contact with becomes a +2 weapon for 6 rounds; if it' \*\*s already enchanted, it acquires an additional bonus of +1 up to a maximum of +3.
 
-The **third time** you take this Feat, requirement Magic Proficiency 8, you can use six Magic Points and a weapon you come into contact with becomes a +3 weapon for 6 rounds; if it's already enchanted, it acquires an additional bonus of +2 up to a maximum of +4.
+The **third time** you take this Feat, requirement Magic Proficiency 8, you can use six Magic Points and a weapon you come into contact with becomes a +3 weapon for 6 rounds; if it' \*\*s already enchanted, it acquires an additional bonus of +2 up to a maximum of +4.
 
 ## Infuse Superior Magical Energy
 - **Requirement**:: Weapon Proficiency 4, Magic Proficiency 6
@@ -808,7 +808,7 @@ Each use of the Laying on Hands Feat to heal reduces the Bleeding value by 2 and
 
 In case of magical diseases, any opposition check is made with 3d6 + sum of Common Trait points + Wisdom.
 
-The energy comes from the hands (it doesn't matter if there are gloves) and is applied with a Touch Attack.
+The energy comes from the hands (it doesn' \*\*t matter if there are gloves) and is applied with a Touch Attack.
 
 Fortitude Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom to avoid the effect. 2 Actions.
 
@@ -981,7 +981,7 @@ Assign one point to Weapon Proficiency or Magic Proficiency. This Feat can be ta
 
 The **first time** you take this Feat, you gain a +1 to Attack Rolls for spells that require an Attack Roll.
 
-The **second time**, the bonus to Attack Roll for Spells becomes +1 for each time you've taken the Magic Adept Feat. This does not stack with the bonus taken the previous time.
+The **second time**, the bonus to Attack Roll for Spells becomes +1 for each time you' \*\*ve taken the Magic Adept Feat. This does not stack with the bonus taken the previous time.
 
 ## One with Magic
 
@@ -1013,11 +1013,11 @@ The **first time** you take this Feat, choose a Magic List and two Cantrips from
 
 Subsequent times you take this Feat, you can identify a Patron who has the Magic List you previously identified in their Privileged Lists.
 
-The **second time** you take this Feat, identify two more Cantrips, or if you are a Follower or Devotee, choose a first-level spell from the Patron's Privileged List. Requirement common Trait with score 3.
+The **second time** you take this Feat, identify two more Cantrips, or if you are a Follower or Devotee, choose a first-level spell from the Patron' \*\*s Privileged List. Requirement common Trait with score 3.
 
-The **third time** you take this Feat, identify two more Cantrips, or if you are a Devotee, choose a second-level or lower spell from the Patron's Privileged List. Requirement common Trait with score 5.
+The **third time** you take this Feat, identify two more Cantrips, or if you are a Devotee, choose a second-level or lower spell from the Patron' \*\*s Privileged List. Requirement common Trait with score 5.
 
-The **fourth time** you take this Feat, identify two more Cantrips, or if you are a Devotee, choose a third-level or lower spell from the Patron's Privileged List. Requirement common Trait with score 9.
+The **fourth time** you take this Feat, identify two more Cantrips, or if you are a Devotee, choose a third-level or lower spell from the Patron' \*\*s Privileged List. Requirement common Trait with score 9.
 
 Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cast by paying Magic Points, otherwise they can only be cast once per day.
 
@@ -1510,12 +1510,12 @@ It is the ability to not be slowed down in a hostile environment. It is necessar
 
 	
 
-| \rowcolor{gray!20}**Environment** | **Environment** |
+| **Environment** | **Environment** |
 | --- | --- |
 | Jungle | Aquatic | Coastal |
-| \rowcolor{gray!20}Swamp | Hill | Forest |
+| Swamp | Hill | Forest |
 | Plains | Desert |
-| \rowcolor{gray!20}Mountain | Glaciers | Tundra |
+| Mountain | Glaciers | Tundra |
 | Urban | Underground |
 
 Each time you take this Feat again, you choose a different environment and add it to the previous one, or you specialize in the same one.
@@ -1554,7 +1554,7 @@ The **second time** you take this Feat, requirement Intelligence 2, Weapon Profi
 - **Saving Throws**:: +2 Fortitude, +1 Will
 - **Ability Score**:: Strength or Charisma
 
-When you attack a creature at least 2 sizes larger than you, you do +1 additional damage for every 2 Weapon Proficiency points. If it's only one size larger, add 1 more damage for every 3 Weapon Proficiency points.
+When you attack a creature at least 2 sizes larger than you, you do +1 additional damage for every 2 Weapon Proficiency points. If it' \*\*s only one size larger, add 1 more damage for every 3 Weapon Proficiency points.
 
 ## The Patron is my Weapon
 
@@ -1562,19 +1562,19 @@ When you attack a creature at least 2 sizes larger than you, you do +1 additiona
 - **Saving Throws**:: +1 Will, +1 Reflex
 - **Ability Score**:: Ability modifier for spells or choice
 
-You have no penalty to hit with the Patron's weapon if you are not proficient in its Weapon List.
+You have no penalty to hit with the Patron' \*\*s weapon if you are not proficient in its Weapon List.
 
-The **first time** you take this Feat, you have a +1 to Attack Roll and Damage when using your Patron's preferred Weapon.
+The **first time** you take this Feat, you have a +1 to Attack Roll and Damage when using your Patron' \*\*s preferred Weapon.
 
-The **second time** you take this Feat, requirement sum of Common Traits 5, Weapon Proficiency 1, the penalty for multiple attacks with the Patron's preferred weapon becomes -4.
+The **second time** you take this Feat, requirement sum of Common Traits 5, Weapon Proficiency 1, the penalty for multiple attacks with the Patron' \*\*s preferred weapon becomes -4.
 
-The **third time** you take this Feat, requirement sum of Common Traits with the Patron 10, Weapon Proficiency 4, being Devoted, you can use your Ability modifier for spells to determine the Attack Roll with the Patron's weapon, instead of Strength or Dexterity.
+The **third time** you take this Feat, requirement sum of Common Traits with the Patron 10, Weapon Proficiency 4, being Devoted, you can use your Ability modifier for spells to determine the Attack Roll with the Patron' \*\*s weapon, instead of Strength or Dexterity.
 
-The **fourth time** you take this Feat, requirement sum of Common Traits with the Patron 10, Weapon Proficiency 5, add +1d6 to the Attack Roll when you make the third attack in the round with the Patron's weapon.
+The **fourth time** you take this Feat, requirement sum of Common Traits with the Patron 10, Weapon Proficiency 5, add +1d6 to the Attack Roll when you make the third attack in the round with the Patron' \*\*s weapon.
 
-The **fifth time** you take this Feat, requirement sum of Common Traits with the Patron 13, Weapon Proficiency 6, increase the damage die of your Patron's weapon by one grade.
+The **fifth time** you take this Feat, requirement sum of Common Traits with the Patron 13, Weapon Proficiency 6, increase the damage die of your Patron' \*\*s weapon by one grade.
 
-The **sixth time** you take this Feat, requirement sum of Common Traits with the Patron 16, gain an additional +1 to Attack Roll and +1 to Damage. The first successful attack in the round with the Patron's weapon always causes critical damage.
+The **sixth time** you take this Feat, requirement sum of Common Traits with the Patron 16, gain an additional +1 to Attack Roll and +1 to Damage. The first successful attack in the round with the Patron' \*\*s weapon always causes critical damage.
 
 ## The Patron is with me
 
@@ -1656,7 +1656,7 @@ The **first time** you take this Feat, you gain a +1d6 bonus to the Saving Throw
 
 The **second time** you take this Feat, requirement Weapon Proficiency 5, even if the trap does not allow a Saving Throw, your natural inclination to avoid damage grants you a Reflex Saving Throw to halve the damage.
 
-You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Saving Throw higher than opponent's Attack Roll).
+You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Saving Throw higher than opponent' \*\*s Attack Roll).
 
 ## Truly Evil Person
 
@@ -1716,7 +1716,7 @@ The **third time**, the first attack made with the off-hand weapon does not accu
 - **Saving Throws**:: +2 Reflex
 - **Ability Score**:: Dexterity or Wisdom
 
-The **first time** you take this Feat, as a Reaction to an opponent's attack Action, you can add +1 to your Defense. You can use this Feat up to 3 times per day.
+The **first time** you take this Feat, as a Reaction to an opponent' \*\*s attack Action, you can add +1 to your Defense. You can use this Feat up to 3 times per day.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 4, an opponent does not gain the flanking bonus to hit against you.
 
@@ -1802,522 +1802,522 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 To facilitate the transition for those coming from other role-playing games with classes, the Feats are divided here for the most canonical classes. These are clearly just guidelines; in OBSS, the character can be built as preferred and as the story they live is instructing them.
 
-| \rowcolor{gray!20}		**Lv** | **Tank Fighter** |  |  | **Abilities** |
+| 		**Lv** | **Tank Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | My Skin - Second Skin |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Ready Defense |
+| 2 | 2 | 0 | 2d6+6 | Ready Defense |
 | 3 | 3 | 0 | 3d6+9 | Parry |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Tough Hide |
+| 4 | 4 | 0 | 4d6+12 | Tough Hide |
 | 5 | 5 | 0 | 5d6+15 | Opportunist |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Improved Initiative |
+| 6 | 6 | 0 | 6d6+18 | Improved Initiative |
 | 7 | 7 | 0 | 7d6+21 | Stone Resilience |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Second Skin (2nd) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Robust |
+| 10 | 10 | 0 | 10d6+30 | Robust |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Tough Hide (2nd) |
+| 12 | 12 | 0 | 12d6+36 | Tough Hide (2nd) |
 | 13 | 13 | 0 | 13d6+39 | Iron Will |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Second Skin (3rd) |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Hard to Kill |
+| 16 | 16 | 0 | 16d6+48 | Hard to Kill |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Lightning Reflexes |
+| 18 | 18 | 0 | 18d6+54 | Lightning Reflexes |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colossus |
+| 20 | 20 | 0 | 20d6+60 | Colossus |
 
 **Babarian**
 
-| \rowcolor{gray!20}	**Lv** | **Barbarian** |  |  | **Abilities** |
+| 	**Lv** | **Barbarian** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Ferocity - Fury |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Mighty Blows |
+| 2 | 2 | 0 | 2d6+6 | Mighty Blows |
 | 3 | 3 | 0 | 3d6+9 | Press On |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Ferocity (2nd) |
+| 4 | 4 | 0 | 4d6+12 | Ferocity (2nd) |
 | 5 | 5 | 0 | 5d6+15 | One Arm, One Weapon |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | My Death Your Death |
+| 6 | 6 | 0 | 6d6+18 | My Death Your Death |
 | 7 | 7 | 0 | 7d6+21 | Ferocity (3rd) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Press On (2nd) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | First Blood |
+| 10 | 10 | 0 | 10d6+30 | First Blood |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Ferocity (4th) |
+| 12 | 12 | 0 | 12d6+36 | Ferocity (4th) |
 | 13 | 13 | 0 | 13d6+39 | One Arm, One Weapon (2nd) |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | The Bigger They Are, The Harder They Fall |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Forged in Fury |
+| 16 | 16 | 0 | 16d6+48 | Forged in Fury |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Truly Evil Person |
+| 18 | 18 | 0 | 18d6+54 | Truly Evil Person |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colossus |
+| 20 | 20 | 0 | 20d6+60 | Colossus |
 
 **Duelist Fighter**
 
-| \rowcolor{gray!20}		**Lv** | **Duelist Fighter** |  |  | **Abilities** |
+| 		**Lv** | **Duelist Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Focused Weapon - Blade Dance |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Improved Initiative |
+| 2 | 2 | 0 | 2d6+6 | Improved Initiative |
 | 3 | 3 | 0 | 3d6+9 | Parry |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Quick Draw |
+| 4 | 4 | 0 | 4d6+12 | Quick Draw |
 | 5 | 5 | 0 | 5d6+15 | Iaijutsu |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Weapon Artist |
+| 6 | 6 | 0 | 6d6+18 | Weapon Artist |
 | 7 | 7 | 0 | 7d6+21 | Blade Dance (2nd) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Parry (2nd) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
+| 10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu (2nd) |
+| 12 | 12 | 0 | 12d6+36 | Iaijutsu (2nd) |
 | 13 | 13 | 0 | 13d6+39 | Weapon Artist (2nd) |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Blade Dance (3rd) |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Lightning Reflexes |
+| 16 | 16 | 0 | 16d6+48 | Lightning Reflexes |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Iaijutsu (3rd) |
+| 18 | 18 | 0 | 18d6+54 | Iaijutsu (3rd) |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Whirlwind Attack |
+| 20 | 20 | 0 | 20d6+60 | Whirlwind Attack |
 
 **Acrobat Rogue**
 
-| \rowcolor{gray!20}	**Lv** | **Acrobat Rogue** |  |  | **Abilities** |
+| 	**Lv** | **Acrobat Rogue** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Quick Draw - Silent Step |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Opportunist |
+| 2 | 2 | 0 | 2d6+6 | Opportunist |
 | 3 | 3 | 0 | 3d6+9 | Sneak Attack |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Trap Dodging |
+| 4 | 4 | 0 | 4d6+12 | Trap Dodging |
 | 5 | 5 | 0 | 5d6+15 | Clinical Eye |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
+| 6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
 | 7 | 7 | 0 | 7d6+21 | Perceptive |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Silent Step (2nd) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
+| 10 | 10 | 0 | 10d6+30 | Uncanny Dodge |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
+| 12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
 | 13 | 13 | 0 | 13d6+39 | Trap Dodging (2nd) |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Sneak Attack (4th) |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Hit and Run |
+| 16 | 16 | 0 | 16d6+48 | Hit and Run |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Debilitating Strike |
+| 18 | 18 | 0 | 18d6+54 | Debilitating Strike |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Paralyzing Strike |
+| 20 | 20 | 0 | 20d6+60 | Paralyzing Strike |
 
 **Assassin**
 
-| \rowcolor{gray!20}		**Lv** | **Assassin** |  |  | **Abilities** |
+| 		**Lv** | **Assassin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Sneak Attack - Silent Step |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Quick Draw |
+| 2 | 2 | 0 | 2d6+6 | Quick Draw |
 | 3 | 3 | 0 | 3d6+9 | Opportunist |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | This is my Dagger |
+| 4 | 4 | 0 | 4d6+12 | This is my Dagger |
 | 5 | 5 | 0 | 5d6+15 | Trap Dodging |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
+| 6 | 6 | 0 | 6d6+18 | Sneak Attack (2nd) |
 | 7 | 7 | 0 | 7d6+21 | Perceptive |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Silent Step (2nd) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Clinical Eye |
+| 10 | 10 | 0 | 10d6+30 | Clinical Eye |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
+| 12 | 12 | 0 | 12d6+36 | Sneak Attack (3rd) |
 | 13 | 13 | 1 | 13d6+39 | Magic Adept |
-| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
+| 14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Sneak Attack (4th) |
-| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Combat Caster |
+| 16 | 15 | 2 | 16d6+45 | Combat Caster |
 | 17 | 15 | 3 | 17d6+45 | |
-| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Debilitating Strike |
+| 18 | 15 | 4 | 18d6+45 | Debilitating Strike |
 | 19 | 15 | 5 | 19d6+45 | |
-| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Paralyzing Strike |
+| 20 | 15 | 5 | 20d6+45 | Paralyzing Strike |
 
 **Explorer Ranger**
 
-| \rowcolor{gray!20}	**Lv** | **Explorer Ranger** |  |  | **Abilities** |
+| 	**Lv** | **Explorer Ranger** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Sure Step - Precise Shot |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Bloodhound |
+| 2 | 2 | 0 | 2d6+6 | Bloodhound |
 | 3 | 3 | 0 | 3d6+9 | Hawk Eye |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Fast Step |
+| 4 | 4 | 0 | 4d6+12 | Fast Step |
 | 5 | 5 | 0 | 5d6+15 | One with the Bow |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Perfectionist |
+| 6 | 6 | 0 | 6d6+18 | Perfectionist |
 | 7 | 7 | 0 | 7d6+21 | Sure Step (specialization) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Trackless |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Blind Fighting |
+| 10 | 10 | 0 | 10d6+30 | Blind Fighting |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Rapid Shot |
+| 12 | 12 | 0 | 12d6+36 | Rapid Shot |
 | 13 | 13 | 1 | 13d6+39 | Magic Adept |
-| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
+| 14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Bloodhound (2nd) |
-| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Brew Potions |
+| 16 | 15 | 2 | 16d6+45 | Brew Potions |
 | 17 | 15 | 3 | 17d6+45 | |
-| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Hawk Eye (2nd) |
+| 18 | 15 | 4 | 18d6+45 | Hawk Eye (2nd) |
 | 19 | 15 | 5 | 19d6+45 | |
-| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | One with the Bow (2nd) |
+| 20 | 15 | 5 | 20d6+45 | One with the Bow (2nd) |
 
 **Beast Ranger**
 
-| \rowcolor{gray!20}	**Lv** | **Beast Ranger** |  |  | **Abilities** |
+| 	**Lv** | **Beast Ranger** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Pet / Familiar - Sure Step |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Bloodhound |
+| 2 | 2 | 0 | 2d6+6 | Bloodhound |
 | 3 | 2 | 1 | 3d6+6 | Magic Adept |
-| \rowcolor{gray!20}4 | 3 | 1 | 4d6+9 | Pet / Familiar (2nd) |
+| 4 | 3 | 1 | 4d6+9 | Pet / Familiar (2nd) |
 | 5 | 3 | 2 | 5d6+9 | Animalia |
-| \rowcolor{gray!20}6 | 4 | 2 | 6d6+12 | Precise Shot |
+| 6 | 4 | 2 | 6d6+12 | Precise Shot |
 | 7 | 4 | 3 | 7d6+12 | Daughter of Shayalia |
-| \rowcolor{gray!20}8 | 5 | 3 | 8d6+15 | |
+| 8 | 5 | 3 | 8d6+15 | |
 | 9 | 5 | 4 | 9d6+15 | Sure Step (specialization) |
-| \rowcolor{gray!20}10 | 6 | 4 | 10d6+18 | Hawk Eye |
+| 10 | 6 | 4 | 10d6+18 | Hawk Eye |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 7 | 5 | 12d6+21 | Animalia (2nd) |
+| 12 | 7 | 5 | 12d6+21 | Animalia (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Bloodhound (2nd) |
-| \rowcolor{gray!20}14 | 8 | 6 | 14d6+24 | |
+| 14 | 8 | 6 | 14d6+24 | |
 | 15 | 8 | 7 | 15d6+24 | Daughter of Shayalia (2nd) |
-| \rowcolor{gray!20}16 | 9 | 7 | 16d6+27 | Trackless |
+| 16 | 9 | 7 | 16d6+27 | Trackless |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 10 | 8 | 18d6+30 | Rapid Shot |
+| 18 | 10 | 8 | 18d6+30 | Rapid Shot |
 | 19 | 11 | 8 | 19d6+33 | |
-| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | One with the Bow |
+| 20 | 12 | 8 | 20d6+36 | One with the Bow |
 
 **Traditional Paladin**
 
-| \rowcolor{gray!20}	**Lv** | **Traditional Paladin** |  |  | **Abilities** |
+| 	**Lv** | **Traditional Paladin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Retaliation |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Magic Adept |
+| 2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | Laying on Hands |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armor of the Devoted |
+| 4 | 2 | 2 | 4d6+6 | Armor of the Devoted |
 | 5 | 3 | 2 | 5d6+9 | The Patron is my Weapon (2nd) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Turn Undead |
+| 6 | 3 | 3 | 6d6+9 | Turn Undead |
 | 7 | 4 | 3 | 7d6+12 | Laying on Hands (2nd) |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | The Shield is my Friend |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
+| 10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
+| 12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Power of the Patron |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | The Patron is my Weapon (3rd) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Laying on Hands (3rd) |
+| 16 | 8 | 8 | 16d6+24 | Laying on Hands (3rd) |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Channel Energy |
+| 18 | 9 | 9 | 18d6+27 | Channel Energy |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
+| 20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
 
 **Templar Paladin**
 
-| \rowcolor{gray!20}	**Lv** | **Templar Paladin** |  |  | **Abilities** |
+| 	**Lv** | **Templar Paladin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Retaliation |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | This is my Weapon! |
+| 2 | 2 | 0 | 2d6+6 | This is my Weapon! |
 | 3 | 3 | 0 | 3d6+9 | Second Skin |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | My Skin |
+| 4 | 4 | 0 | 4d6+12 | My Skin |
 | 5 | 5 | 0 | 5d6+15 | The Patron is my Weapon (2nd) |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Opportunist |
+| 6 | 6 | 0 | 6d6+18 | Opportunist |
 | 7 | 7 | 0 | 7d6+21 | Iron Will |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Stone Resilience |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | The Patron is my Weapon (3rd) |
+| 10 | 10 | 0 | 10d6+30 | The Patron is my Weapon (3rd) |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Second Skin (2nd) |
+| 12 | 12 | 0 | 12d6+36 | Second Skin (2nd) |
 | 13 | 13 | 1 | 13d6+39 | Magic Adept |
-| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
+| 14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | The Patron is my Weapon (4th) |
-| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Laying on Hands |
+| 16 | 15 | 2 | 16d6+45 | Laying on Hands |
 | 17 | 15 | 3 | 17d6+45 | |
-| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | The Patron is my Weapon (5th) |
+| 18 | 15 | 4 | 18d6+45 | The Patron is my Weapon (5th) |
 | 19 | 15 | 5 | 19d6+45 | |
-| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | The Patron is my Weapon (6th) |
+| 20 | 15 | 5 | 20d6+45 | The Patron is my Weapon (6th) |
 
 **Academic Wizard**
 
-| \rowcolor{gray!20}		**Lv** | **Academic Wizard** |  |  | **Abilities** |
+| 		**Lv** | **Academic Wizard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 0 | 1 | 1d6 | Magic Adept - One with Magic |
-| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Scholar |
+| 2 | 0 | 2 | 2d6 | Scholar |
 | 3 | 0 | 3 | 3d6 | Prodigious |
-| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Magic Adept (2nd) |
+| 4 | 0 | 4 | 4d6 | Magic Adept (2nd) |
 | 5 | 0 | 5 | 5d6 | Powerful Magics |
-| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Focused |
+| 6 | 0 | 6 | 6d6 | Focused |
 | 7 | 0 | 7 | 7d6 | Scribe |
-| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
+| 8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | Magic Battery |
-| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Specialist |
+| 10 | 0 | 10 | 10d6 | Specialist |
 | 11 | 0 | 11 | 11d6 | |
-| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Create Magic Items |
+| 12 | 0 | 12 | 12d6 | Create Magic Items |
 | 13 | 0 | 13 | 13d6 | Prodigious (2nd) |
-| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
+| 14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Magic Adept (3rd) |
-| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Focused (2nd) |
+| 16 | 0 | 16 | 16d6 | Focused (2nd) |
 | 17 | 0 | 17 | 17d6 | |
-| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Powerful Magics (2nd) |
+| 18 | 0 | 18 | 18d6 | Powerful Magics (2nd) |
 | 19 | 0 | 19 | 19d6 | |
-| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Magic Adept (4th) |
+| 20 | 0 | 20 | 20d6 | Magic Adept (4th) |
 
 **Sorcerer**
 
-| \rowcolor{gray!20}		**Lv** | **Sorcerer** |  |  | **Abilities** |
+| 		**Lv** | **Sorcerer** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 0 | 1 | 1d6 | Magic Adept - Magic Battery |
-| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Elementalist |
+| 2 | 0 | 2 | 2d6 | Elementalist |
 | 3 | 0 | 3 | 3d6 | Extended Battery |
-| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Focused |
+| 4 | 0 | 4 | 4d6 | Focused |
 | 5 | 0 | 5 | 5d6 | Powerful Magics |
-| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Loaded Dice |
+| 6 | 0 | 6 | 6d6 | Loaded Dice |
 | 7 | 0 | 7 | 7d6 | Elementalist (2nd) |
-| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
+| 8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | One Hit One Kill |
-| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Magic Battery (2nd) |
+| 10 | 0 | 10 | 10d6 | Magic Battery (2nd) |
 | 11 | 0 | 11 | 11d6 | |
-| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Loaded Dice (2nd) |
+| 12 | 0 | 12 | 12d6 | Loaded Dice (2nd) |
 | 13 | 0 | 13 | 13d6 | Focused (2nd) |
-| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
+| 14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Magic Adept (2nd) |
-| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Powerful Magics (2nd) |
+| 16 | 0 | 16 | 16d6 | Powerful Magics (2nd) |
 | 17 | 0 | 17 | 17d6 | |
-| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Cautious Caster |
+| 18 | 0 | 18 | 18d6 | Cautious Caster |
 | 19 | 0 | 19 | 19d6 | |
-| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | One with Magic |
+| 20 | 0 | 20 | 20d6 | One with Magic |
 
 **Healer Cleric**
 
-| \rowcolor{gray!20}		**Lv** | **Healer Cleric** |  |  | **Abilities** |
+| 		**Lv** | **Healer Cleric** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Healer - Magic Adept |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Laying on Hands |
+| 2 | 1 | 1 | 2d6+3 | Laying on Hands |
 | 3 | 2 | 1 | 3d6+6 | Faithful |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | One with Magic |
+| 4 | 2 | 2 | 4d6+6 | One with Magic |
 | 5 | 3 | 2 | 5d6+9 | Laying on Hands (2nd) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Channel Energy |
+| 6 | 3 | 3 | 6d6+9 | Channel Energy |
 | 7 | 4 | 3 | 7d6+12 | Turn Undead |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Healer (2nd) or Magic Adept |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
+| 10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 5 | 6 | 11d6+15 | |
-| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Laying on Hands (3rd) |
+| 12 | 5 | 7 | 12d6+15 | Laying on Hands (3rd) |
 | 13 | 5 | 8 | 13d6+15 | Power of the Patron |
-| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
+| 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Laying on Hands (4th) |
-| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Channel Energy (2nd) |
+| 16 | 5 | 11 | 16d6+15 | Channel Energy (2nd) |
 | 17 | 5 | 12 | 17d6+15 | |
-| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Laying on Hands (5th) |
+| 18 | 5 | 13 | 18d6+15 | Laying on Hands (5th) |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Laying on Hands (6th) |
+| 20 | 5 | 15 | 20d6+15 | Laying on Hands (6th) |
 
 **Warrior Cleric**
 
-| \rowcolor{gray!20}	**Lv** | **Warrior Cleric** |  |  | **Abilities** |
+| 	**Lv** | **Warrior Cleric** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Magic Adept |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Laying on Hands |
+| 2 | 1 | 1 | 2d6+3 | Laying on Hands |
 | 3 | 2 | 1 | 3d6+6 | Armor of the Devoted |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Turn Undead |
+| 4 | 2 | 2 | 4d6+6 | Turn Undead |
 | 5 | 3 | 2 | 5d6+9 | The Patron is my Weapon (2nd) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | The Shield is my Friend |
+| 6 | 3 | 3 | 6d6+9 | The Shield is my Friend |
 | 7 | 4 | 3 | 7d6+12 | One with Magic |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Laying on Hands (2nd) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | The Patron is with me |
+| 10 | 5 | 5 | 10d6+15 | The Patron is with me |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
+| 12 | 6 | 6 | 12d6+18 | Armor of the Devoted (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Power of the Patron |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | The Patron is my Weapon (3rd) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Channel Energy |
+| 16 | 8 | 8 | 16d6+24 | Channel Energy |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Armor of the Devoted (3rd) |
+| 18 | 9 | 9 | 18d6+27 | Armor of the Devoted (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
+| 20 | 10 | 10 | 20d6+30 | The Patron is my Weapon (4th) |
 
 **Naturalist Druid**
 
-| \rowcolor{gray!20}		**Lv** | **Naturalist Druid** |  |  | **Abilities** |
+| 		**Lv** | **Naturalist Druid** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Brew Potions - Magic Adept |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Daughter of Shayalia |
+| 2 | 1 | 1 | 2d6+3 | Daughter of Shayalia |
 | 3 | 2 | 1 | 3d6+6 | Sure Step |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Elementalist |
+| 4 | 2 | 2 | 4d6+6 | Elementalist |
 | 5 | 3 | 2 | 5d6+9 | Pet / Familiar |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | One with Magic |
+| 6 | 3 | 3 | 6d6+9 | One with Magic |
 | 7 | 4 | 3 | 7d6+12 | Brew Potions (2nd) |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Daughter of Shayalia (2nd) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Focused |
+| 10 | 5 | 5 | 10d6+15 | Focused |
 | 11 | 5 | 6 | 11d6+15 | |
-| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Elementalist (2nd) |
+| 12 | 5 | 7 | 12d6+15 | Elementalist (2nd) |
 | 13 | 5 | 8 | 13d6+15 | Elemental Form |
-| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
+| 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Pet / Familiar (2nd) |
-| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Daughter of Shayalia (3rd) |
+| 16 | 5 | 11 | 16d6+15 | Daughter of Shayalia (3rd) |
 | 17 | 5 | 12 | 17d6+15 | |
-| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Powerful Magics |
+| 18 | 5 | 13 | 18d6+15 | Powerful Magics |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Prodigious |
+| 20 | 5 | 15 | 20d6+15 | Prodigious |
 
 **Shapeshifter Druid**
 
-| \rowcolor{gray!20}	**Lv** | **Shapeshifter Druid** |  |  | **Abilities** |
+| 	**Lv** | **Shapeshifter Druid** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Brew Potions - Magic Adept |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Animalia |
+| 2 | 1 | 1 | 2d6+3 | Animalia |
 | 3 | 2 | 1 | 3d6+6 | Daughter of Shayalia |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Pure Blood |
+| 4 | 2 | 2 | 4d6+6 | Pure Blood |
 | 5 | 3 | 2 | 5d6+9 | Animalia (2nd) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Elemental Form |
+| 6 | 3 | 3 | 6d6+9 | Elemental Form |
 | 7 | 4 | 3 | 7d6+12 | Sure Step |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Pure Blood (2nd) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Animalia (3rd) |
+| 10 | 5 | 5 | 10d6+15 | Animalia (3rd) |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Daughter of Shayalia (2nd) |
+| 12 | 6 | 6 | 12d6+18 | Daughter of Shayalia (2nd) |
 | 13 | 7 | 6 | 13d6+21 | Elemental Form (2nd) |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Pure Blood (3rd) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Animalia (4th) |
+| 16 | 8 | 8 | 16d6+24 | Animalia (4th) |
 | 17 | 8 | 9 | 17d6+24 | |
-| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Daughter of Shayalia (3rd) |
+| 18 | 8 | 10 | 18d6+24 | Daughter of Shayalia (3rd) |
 | 19 | 8 | 11 | 19d6+24 | |
-| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Daughter of Shayalia (4th) |
+| 20 | 8 | 12 | 20d6+24 | Daughter of Shayalia (4th) |
 
 **Enchanter Bard**
 
-| \rowcolor{gray!20}	**Lv** | **Enchanter Bard** |  |  | **Abilities** |
+| 	**Lv** | **Enchanter Bard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Inspire Courage - Magic Adept |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Combat Caster |
+| 2 | 1 | 1 | 2d6+3 | Combat Caster |
 | 3 | 2 | 1 | 3d6+6 | Instill Fear |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Expert |
+| 4 | 2 | 2 | 4d6+6 | Expert |
 | 5 | 3 | 2 | 5d6+9 | Inspire Courage (2nd) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Versatile Litany |
+| 6 | 3 | 3 | 6d6+9 | Versatile Litany |
 | 7 | 4 | 3 | 7d6+12 | Focused |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Instill Fear (2nd) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Warrior of Magic |
+| 10 | 5 | 5 | 10d6+15 | Warrior of Magic |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Inspire Courage (3rd) |
+| 12 | 6 | 6 | 12d6+18 | Inspire Courage (3rd) |
 | 13 | 7 | 6 | 13d6+21 | One with Magic |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Versatile Litany (2nd) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Powerful Magics |
+| 16 | 8 | 8 | 16d6+24 | Powerful Magics |
 | 17 | 8 | 9 | 17d6+24 | |
-| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Infuse Magical Energy |
+| 18 | 8 | 10 | 18d6+24 | Infuse Magical Energy |
 | 19 | 8 | 11 | 19d6+24 | |
-| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Prodigious |
+| 20 | 8 | 12 | 20d6+24 | Prodigious |
 
 **Blade Bard**
 
-| \rowcolor{gray!20}	**Lv** | **Blade Bard** |  |  | **Abilities** |
+| 	**Lv** | **Blade Bard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Blade Dance - Inspire Courage |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Focused Weapon |
+| 2 | 2 | 0 | 2d6+6 | Focused Weapon |
 | 3 | 3 | 0 | 3d6+9 | Tactician |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Blade Dance (2nd) |
+| 4 | 4 | 0 | 4d6+12 | Blade Dance (2nd) |
 | 5 | 5 | 0 | 5d6+15 | Infuriate |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Coordinated Damage |
+| 6 | 6 | 0 | 6d6+18 | Coordinated Damage |
 | 7 | 7 | 0 | 7d6+21 | Blade Dance (3rd) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Inspire Courage (2nd) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Whirlwind Attack |
+| 10 | 10 | 0 | 10d6+30 | Whirlwind Attack |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu |
+| 12 | 12 | 0 | 12d6+36 | Iaijutsu |
 | 13 | 12 | 1 | 13d6+36 | Magic Adept |
-| \rowcolor{gray!20}14 | 12 | 2 | 14d6+36 | |
+| 14 | 12 | 2 | 14d6+36 | |
 | 15 | 12 | 3 | 15d6+36 | Coordinated Damage (2nd) |
-| \rowcolor{gray!20}16 | 12 | 4 | 16d6+36 | Warrior of Magic |
+| 16 | 12 | 4 | 16d6+36 | Warrior of Magic |
 | 17 | 12 | 5 | 17d6+36 | |
-| \rowcolor{gray!20}18 | 12 | 6 | 18d6+36 | Infuse Magical Energy |
+| 18 | 12 | 6 | 18d6+36 | Infuse Magical Energy |
 | 19 | 12 | 7 | 19d6+36 | |
-| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | Versatile Litany |
+| 20 | 12 | 8 | 20d6+36 | Versatile Litany |
 
 **Mystic Monk**
 
-| \rowcolor{gray!20}		**Lv** | **Mystic Monk** |  |  | **Abilities** |
+| 		**Lv** | **Mystic Monk** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Silver Crane - Psychic Energy |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Iron Fist |
+| 2 | 1 | 1 | 2d6+3 | Iron Fist |
 | 3 | 2 | 1 | 3d6+6 | Psychic Strike |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armor of the Enchanted Mountain |
+| 4 | 2 | 2 | 4d6+6 | Armor of the Enchanted Mountain |
 | 5 | 3 | 2 | 5d6+9 | Silver Crane (2nd) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Iron Fist (2nd) |
+| 6 | 3 | 3 | 6d6+9 | Iron Fist (2nd) |
 | 7 | 4 | 3 | 7d6+12 | Fast Step |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Psychic Strike (2nd) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Psychic Ray |
+| 10 | 5 | 5 | 10d6+15 | Psychic Ray |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Iron Will |
+| 12 | 6 | 6 | 12d6+18 | Iron Will |
 | 13 | 7 | 6 | 13d6+21 | Iron Fist (3rd) |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Armor of the Enchanted Mountain (2nd) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Storm of Fury |
+| 16 | 8 | 8 | 16d6+24 | Storm of Fury |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Silver Crane (3rd) |
+| 18 | 9 | 9 | 18d6+27 | Silver Crane (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Phoenix Wings |
+| 20 | 10 | 10 | 20d6+30 | Phoenix Wings |
 
 **Devote**
 
-| \rowcolor{gray!20}		**Lv** | **Devote** |  |  | **Abilities** |
+| 		**Lv** | **Devote** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Son of Tazher - Faithful |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Magic Adept |
+| 2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | The Patron is with me |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Black Siphon |
+| 4 | 2 | 2 | 4d6+6 | Black Siphon |
 | 5 | 3 | 2 | 5d6+9 | Power of the Patron |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Focused |
+| 6 | 3 | 3 | 6d6+9 | Focused |
 | 7 | 4 | 3 | 7d6+12 | Magic Battery |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | The Patron is with me (2nd) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Mental Wall |
+| 10 | 5 | 5 | 10d6+15 | Mental Wall |
 | 11 | 5 | 6 | 11d6+15 | |
-| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Create Magic Items |
+| 12 | 5 | 7 | 12d6+15 | Create Magic Items |
 | 13 | 5 | 8 | 13d6+15 | Faithful (2nd) |
-| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
+| 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Magic Adept (2nd) |
-| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | The Patron is with me (3rd) |
+| 16 | 5 | 11 | 16d6+15 | The Patron is with me (3rd) |
 | 17 | 5 | 12 | 17d6+15 | |
-| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Powerful Magics |
+| 18 | 5 | 13 | 18d6+15 | Powerful Magics |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Magic Adept (3nd) |
+| 20 | 5 | 15 | 20d6+15 | Magic Adept (3nd) |
 
 **Spellsword Magus**
 
-| \rowcolor{gray!20}	**Lv** | **Spellsword Magus** |  |  | **Abilities** |
+| 	**Lv** | **Spellsword Magus** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
 | **WC** | **MC** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Focused Weapon - Combat Caster |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Magic Adept |
+| 2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | Warrior of Magic |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Infuse Magical Energy |
+| 4 | 2 | 2 | 4d6+6 | Infuse Magical Energy |
 | 5 | 3 | 2 | 5d6+9 | Magical Roots |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Warrior of Magic (2nd) |
+| 6 | 3 | 3 | 6d6+9 | Warrior of Magic (2nd) |
 | 7 | 4 | 3 | 7d6+12 | Combat Caster (2nd) |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Infuse Superior Magical Energy |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | One Hit One Kill |
+| 10 | 5 | 5 | 10d6+15 | One Hit One Kill |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Warrior of Magic (3rd) |
+| 12 | 6 | 6 | 12d6+18 | Warrior of Magic (3rd) |
 | 13 | 7 | 6 | 13d6+21 | Focused |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Warrior of Magic (4th) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Infuse Superior Magical Energy (2nd) |
+| 16 | 8 | 8 | 16d6+24 | Infuse Superior Magical Energy (2nd) |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Combat Caster (3rd) |
+| 18 | 9 | 9 | 18d6+27 | Combat Caster (3rd) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Magic Adept (2nd) |
+| 20 | 10 | 10 | 20d6+30 | Magic Adept (2nd) |
 
 ---

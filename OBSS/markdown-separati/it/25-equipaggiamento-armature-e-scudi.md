@@ -10,18 +10,18 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 
 ### Tabella Armature
 
-| \rowcolor{gray!20}**Armatura** | **Costo** | **Difesa** | **Pen. Comp.** | **Tipo** | **Mov.** | **Prova Magia** | **Ingombro** |
+| **Armatura** | **Costo** | **Difesa** | **Pen. Comp.** | **Tipo** | **Mov.** | **Prova Magia** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Imbottita | 5 mo | 1 | 0 | L | 0 | - | 2 |
-| \rowcolor{gray!20}Cuoio | 10 mo | 2 | 0 | L | 0 | +4 | 2 |
+| Cuoio | 10 mo | 2 | 0 | L | 0 | +4 | 2 |
 | Cuoio rinforzato | 25 mo | 3 | 0 | L | 0 | +4 | 2 |
-| \rowcolor{gray!20}Giaco di Maglia | 15 mo | 4 | -1 | M | 0 | +8 | 4 |
+| Giaco di Maglia | 15 mo | 4 | -1 | M | 0 | +8 | 4 |
 | Scaglie | 50 mo | 5 | -1 | M | 0 | +8 | 4 |
-| \rowcolor{gray!20}Anelli | 150 mo | 6 | -1 | M | 0 | +8 | 4 |
+| Anelli | 150 mo | 6 | -1 | M | 0 | +8 | 4 |
 | Pettorale | 200 mo | 6 | -2 | M | 0 | +8 | 4 |
-| \rowcolor{gray!20}Bande | 250 mo | 7 | -2 | P | 0 | +16 | 8 |
+| Bande | 250 mo | 7 | -2 | P | 0 | +16 | 8 |
 | Mezza armatura | 1200 mo | 8 | -2 | P | 1 | +16 | 8 |
-| \rowcolor{gray!20}da Campo | 1350 mo | 9 | -3 | P | 2 | +16 | 8 |
+| da Campo | 1350 mo | 9 | -3 | P | 2 | +16 | 8 |
 | Completa | 1500 mo | 10 | -4 | P | 3 | +16 | 8 |
 
 **Costo**: è per un armatura di taglia media.
@@ -142,14 +142,14 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 	
 
-| \rowcolor{gray!20}**Scudi** | **Costo** | **Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
+| **Scudi** | **Costo** | **Difesa** | **penalità TC** | **Prova magia** | **Tipo** | **Ingombro** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Scudo leggero di legno | 3 mo | +1 | 0 | +2 | L | 1 |
-| \rowcolor{gray!20}Scudo leggero di metallo | 9 mo | +1 | 0 | +2 | L | 1 |
+| Scudo leggero di metallo | 9 mo | +1 | 0 | +2 | L | 1 |
 | Scudo medio legno | 5 mo | +2 | 0 | +4 | M | 2 |
-| \rowcolor{gray!20}Scudo medio metallo | 12 mo | +2 | 0 | +4 | M | 2 |
+| Scudo medio metallo | 12 mo | +2 | 0 | +4 | M | 2 |
 | Scudo pesante di legno | 9mo | +3 | 1 | +6 | P | 4 |
-| \rowcolor{gray!20}Scudo pesante di metallo | 20 mo | +3 | 1 | +6 | P | 4 |
+| Scudo pesante di metallo | 20 mo | +3 | 1 | +6 | P | 4 |
 
 ### Indossare e Togliere Armature
 
@@ -157,17 +157,18 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 
 **Tabella: Tempi per indossare e togliere l'armatura**
 
-| \rowcolor{gray!20}**Tipo di Armatura** | **Indossare** | **Indossare in fretta** | **Togliere** |
+| **Tipo di Armatura** | **Indossare** | **Indossare in fretta** | **Togliere** |
 | --- | --- | --- | --- |
 | Scudo | 1 Azione | - | 1 Azione |
-| \rowcolor{gray!20}Imbottita, Cuoio, Cuoio rinforzata | 1 minuto | 3 round | - |
+| Imbottita, Cuoio, Cuoio rinforzata | 1 minuto | 3 round | - |
 | Giaco di Maglia | 1 minuto | 5 round | 5 round |
-| \rowcolor{gray!20}Scaglie, Anelli, Pettorale, Bande | 4 minuti | 1 minuto{*} | 1 minuto |
-| Mezza armatura, da Campo, Completa | 4 minuti{*}{*} | 4 minuti{*} | 1d4+1 minuti |
+| Scaglie, Anelli, Pettorale, Bande | 4 minuti | 1 minuto * | 1 minuto |
+| Mezza armatura, da Campo, Completa | 4 minuti ** | 4 minuti * | 1d4+1 minuti |
 
-{*} Se qualcuno aiuta, il tempo si dimezza. Un singolo personaggio che non sta facendo altro può aiutare uno o due personaggi adiacenti a lui. Due personaggi non possono aiutarsi l'un l'altro a indossare un'armatura contemporaneamente.
+* Se qualcuno aiuta, il tempo si dimezza. Un singolo personaggio che non sta facendo altro può aiutare uno o due personaggi adiacenti a lui. Due personaggi non possono aiutarsi l'un l'altro a indossare un'armatura contemporaneamente.
 
-{*}{*} Bisogna essere aiutati per indossare questa armatura. Senza aiuto è possibile indossarla solo in fretta.
+** Bisogna essere aiutati per indossare questa armatura. Senza aiuto è possibile indossarla solo in fretta.
 
 **Indossare un'armatura in fretta** implica una penalità di -1 alla Difesa fornita dall'Armatura ed una penalità aggiuntiva di +1 alle prove di Competenza di Base.
+
 ---

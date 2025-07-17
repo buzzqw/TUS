@@ -1,8 +1,8 @@
 # Breaking In and Entering
 
-> In a man's life, there eventually comes a day when, to go where he must go, if there are no doors or windows, he has to break through the wall. (Bernard Malamud)
+> In a man' \*\*s life, there eventually comes a day when, to go where he must go, if there are no doors or windows, he has to break through the wall. (Bernard Malamud)
 
-The crime of theft will be punished with the branding of thieves, right on the chest. In case of repetition of the crime, first the ears and then two fingers of the hands will be cut off. (Twoslad, Citizens' Rights and Duties)
+The crime of theft will be punished with the branding of thieves, right on the chest. In case of repetition of the crime, first the ears and then two fingers of the hands will be cut off. (Twoslad, Citizens' \*\* Rights and Duties)
 
 When trying to break an object, there are two choices: hit it with an object (weapon?) or break it with brute force.
 
@@ -12,21 +12,21 @@ Depending on the size of the object, it can be more or less easy to hit.
 
 **Table: Size and Defense of Objects - Hitting an Object**
 
-| \rowcolor{gray!20}**Size** | **Def. Mod.** | **Dimensions** |
+| **Size** | **Def. Mod.** | **Dimensions** |
 | --- | --- | --- |
 | Colossal | -8 | 18m+ |
-| \rowcolor{gray!20}Gargantuan | -6 | 9-18m |
+| Gargantuan | -6 | 9-18m |
 | Huge | -4 | 4-9m |
-| \rowcolor{gray!20}Large | -2 | 2.4-4m |
+| Large | -2 | 2.4-4m |
 | Medium | +0 | 1.2-2.4m |
-| \rowcolor{gray!20}Small | +2 | 60-120cm |
+| Small | +2 | 60-120cm |
 | Tiny | +4 | 30-60cm |
-| \rowcolor{gray!20}Diminutive | +6 | 15-30cm |
+| Diminutive | +6 | 15-30cm |
 | Fine | +8 | 5-20cm |
 
 **Defense Modifier**
 
-Objects are easier to hit than creatures because they usually don't move, but many are durable enough to ignore some damage with each hit. An object's Defense is equal to 10 + its size modifier (see Table: Hitting an Object) + its Dexterity modifier (if it has one).
+Objects are easier to hit than creatures because they usually don' \*\*t move, but many are durable enough to ignore some damage with each hit. An object' \*\*s Defense is equal to 10 + its size modifier (see Table: Hitting an Object) + its Dexterity modifier (if it has one).
 
 If you use 3 Actions to aim, you automatically hit with a melee weapon.
 
@@ -40,26 +40,26 @@ See also Table: Doors, p.
 
 **Table: Hardness and Hit Points of objects**
 
-| \rowcolor{gray!20}**Material** | **Hard.** | **HP** | **DC** | **Example Objects** |
+| **Material** | **Hard.** | **HP** | **DC** | **Example Objects** |
 | --- | --- | --- | --- | --- |
 | Paper, Glass, Cloth | 0 | 1 | 3 | Sheets of paper, window glass, light cloth |
-| \rowcolor{gray!20}Glass | 1 | 4 | 6 | Glass block, glass table, heavy vase |
+| Glass | 1 | 4 | 6 | Glass block, glass table, heavy vase |
 | Heavy cloth | 1 | 4 | 12 | Cloth armor, heavy jacket, sack, tent |
-| \rowcolor{gray!20}Thin wood | 3 | 12 | 14 | Chair |
+| Thin wood | 3 | 12 | 14 | Chair |
 | Wood | 5 | 20 | 18 | Chest, table |
-| \rowcolor{gray!20}Rope, Leather | 2 | 4 | 19 | Hemp rope |
+| Rope, Leather | 2 | 4 | 19 | Hemp rope |
 | Thin stone | 4 | 16 | 20 | Slate, tiles, light chest |
-| \rowcolor{gray!20}Wooden structure | 10 | 40 | 20 | Wooden wall, strongbox |
+| Wooden structure | 10 | 40 | 20 | Wooden wall, strongbox |
 | Reinforced leather | 4 | 16 | 22 | Leather armor, saddle, thick hemp rope |
-| \rowcolor{gray!20}Thin steel or iron | 5 | 20 | 23 | Silk rope, steel shield, short sword |
+| Thin steel or iron | 5 | 20 | 23 | Silk rope, steel shield, short sword |
 | Steel or iron | 9 | 36 | 26 | Chain, Metal armor, reinforced strongbox |
-| \rowcolor{gray!20}Stone structure | 14 | 56 | 35 | Stone wall, longsword |
+| Stone structure | 14 | 56 | 35 | Stone wall, longsword |
 | Stone | 7 | 28 | 35 | Paving stone, statue |
-| \rowcolor{gray!20}Steel or iron structure | 18 | 90 | 45 | Iron plate wall, two-handed greatsword |
+| Steel or iron structure | 18 | 90 | 45 | Iron plate wall, two-handed greatsword |
 
 ## Damaging Objects
 
-**Hardness**: represents the object's resistance to being scratched or damaged. When calculating damage to an object, **subtract the Hardness** of the material before applying the damage.
+**Hardness**: represents the object' \*\*s resistance to being scratched or damaged. When calculating damage to an object, **subtract the Hardness** of the material before applying the damage.
 
 **Energy Attacks**: almost all objects have Resistance to damage from energy attacks (fire, electricity..); divide the damage by 2 before applying Hardness, while other objects might be particularly vulnerable.
 
@@ -92,12 +92,12 @@ Creatures of Size larger or smaller than Medium have bonuses or penalties given 
 
 **Table: Strength check modifiers based on your size**
 
-| \rowcolor{gray!20}**Size** | **Mod.** | **Size** | **Mod.** |
+| **Size** | **Mod.** | **Size** | **Mod.** |
 | --- | --- | --- | --- |
 | Fine | -16 | Large | +4 |
-| \rowcolor{gray!20}Diminutive | -12 | Huge | +8 |
+| Diminutive | -12 | Huge | +8 |
 | Tiny | -8 | Gargantuan | +12 |
-| \rowcolor{gray!20}Small | -4 | Colossal | +16 |
-| Medium | +0 |  | A **crowbar** or a **portable battering ram** increases the character's chance of breaking down a door by +1d6. |
+| Small | -4 | Colossal | +16 |
+| Medium | +0 |  | A **crowbar** or a **portable battering ram** increases the character' \*\*s chance of breaking down a door by +1d6. |
 
 ---

@@ -24,7 +24,7 @@ See rules for holding breath and suffocating in Environment (page ).
 
 Onset refers to how long it takes for the poison or potion to take effect. If the onset time is 1 Turn, it means that for the effects of the poison/potion and the Saving Throw, you wait 10 minutes. If onset is not specified in the poison/potion table, it means the effect is immediate after contact with the poison.
 
-The effect of a poison/potion is immediate after onset. Check the poison's description to understand its effect. If the Fortitude Saving Throw succeeds, the poison has not taken effect and can be considered neutralized.
+The effect of a poison/potion is immediate after onset. Check the poison' \*\*s description to understand its effect. If the Fortitude Saving Throw succeeds, the poison has not taken effect and can be considered neutralized.
 
 There are some cases where the Frequency entry is present; in these instances, the Saving Throw must be repeated each time the indicated Frequency passes, and if the Saving Throw fails, the indicated effects are applied again.
 
@@ -32,11 +32,11 @@ Drinking a potion held in hand costs 1 Immediate Action; making an unconscious c
 
 If the character **spends 1 minute** drinking a Healing or Natural Potion, it will have maximized effect.
 
->>> **Poison**: The poisons presented here are just some of the many that exist and are possible. Use them as guidelines. If due to your ethics and style you don't like poisons, especially the nastier ones, I suggest using the Generic Potions you'll find at the end of the chapter. They are milder poisons and less personal, probably more easily usable by players as well.
+>>> **Poison**: The poisons presented here are just some of the many that exist and are possible. Use them as guidelines. If due to your ethics and style you don' \*\*t like poisons, especially the nastier ones, I suggest using the Generic Potions you' \*\*ll find at the end of the chapter. They are milder poisons and less personal, probably more easily usable by players as well.
 
 ### Poisoned
 
-**First dose**: When exposed to a poison for the first time (during your action or someone else's), you must make a Saving Throw at onset to avoid being poisoned.
+**First dose**: When exposed to a poison for the first time (during your action or someone else' \*\*s), you must make a Saving Throw at onset to avoid being poisoned.
 
 **Success**: You resist the poison. You suffer no negative effects and no further Saving Throws are needed.
 
@@ -48,7 +48,7 @@ If the character **spends 1 minute** drinking a Healing or Natural Potion, it wi
 
 If you are exposed to different poisons, you must make a Saving Throw for each type of poison taken.
 
->> **Poison?**: {Poison is a double-edged sword. As long as you're using it, it's fine, but if someone uses it against you, maybe the same one, it becomes a problem. There are also ethical aspects to using poisons; consider whether your Traits allow you to use poisons and what types.
+>> **Poison?**: {Poison is a double-edged sword. As long as you' \*\*re using it, it' \*\*s fine, but if someone uses it against you, maybe the same one, it becomes a problem. There are also ethical aspects to using poisons; consider whether your Traits allow you to use poisons and what types.
 
 ## Applying Poison
 
@@ -73,9 +73,9 @@ A First Aid check, 3 Actions, that is at least half the DC of the poison within 
 If this Saving Throw succeeds, it cancels the effects of the poison; if it fails, the creature remains poisoned; if it critically fails, the ST will have a -2 penalty.
 Once the First Aid check has been made, it is no longer possible to repeat it until after the onset.
 
-Continuous First Aid treatment for 8 hours allows for a new Saving Throw with a +1d6 bonus after the poison's activation if it is still active.
+Continuous First Aid treatment for 8 hours allows for a new Saving Throw with a +1d6 bonus after the poison' \*\*s activation if it is still active.
 
-> I believe a leaf of grass is no less than a day's work of the stars. (Walt Whitman)
+> I believe a leaf of grass is no less than a day' \*\*s work of the stars. (Walt Whitman)
 
 ## Creating Natural Poisons and Potions
 
@@ -91,7 +91,7 @@ A Potion that ***Removes*** a condition is effective if its DC is higher than th
 
 The following examples represent only some of the possible poisons. All costs are expressed in Gold Coins. Poisons are presented, especially in the Monster Compendium, with this notation: Poison Name, Use (I/R/F/C), Onset time, Saving Throw DC, Effect.
 
->>> **Not only venom**: Poisons are part of the long tradition of problems and adversities in role-playing games. When you want to use a poison, first think about why it's there, who it was to be used for, for what purpose. Not all poisons need to kill; a skilled thief might even use stunning poisons or ones that weaken the will of his target just enough to get them to open the safe.
+>>> **Not only venom**: Poisons are part of the long tradition of problems and adversities in role-playing games. When you want to use a poison, first think about why it' \*\*s there, who it was to be used for, for what purpose. Not all poisons need to kill; a skilled thief might even use stunning poisons or ones that weaken the will of his target just enough to get them to open the safe.
 
 ## How to find the little plants...
 
@@ -103,32 +103,32 @@ To *find* the ingredients to prepare **natural potions**, it is necessary to pas
 
 	
 
-| \rowcolor{gray!20}**Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
+| **Poison Name** | **Use** | **Ons.** | **ST** | **Effect (damage)** | **Cost** |
 | --- | --- | --- | --- | --- | --- |
 | Red Mixture | F | - | 13 | -1d6 AR/ST for 10 minutes | 10 |
-| \rowcolor{gray!20}Purple Shrew Fat | C | 1 r | 13 | 2d12 Hit Points | 15 |
+| Purple Shrew Fat | C | 1 r | 13 | 2d12 Hit Points | 15 |
 | Dennar Kernel | I | 1 r | 13 | -1d2 Strength, for 3 days | 15 |
-| \rowcolor{gray!20}Ythis Juice | I | 1 T | 14 | -1d2 Intelligence, for 1 day | 20 |
+| Ythis Juice | I | 1 T | 14 | -1d2 Intelligence, for 1 day | 20 |
 | Purple Concentrate | F | I | 15 | 2d6 Hit Points | 15 |
 | Fermented Lucos Slime | F | I | 15 | 1d8 Hit Points | 25 |
-| \rowcolor{gray!20}Yellow Bark Ash | F | 6 r | 15 | Unconscious for 1d3 hours | 25 |
+| Yellow Bark Ash | F | 6 r | 15 | Unconscious for 1d3 hours | 25 |
 | Omro Rose Pollen | I | I | 15 | -1d3 Constitution and Dexterity, for 1 hour | 25 |
-| \rowcolor{gray!20}Ragmor Perfume | R | I | 16 | -1d3 Charisma, for 1 day | 30 |
-| Daraka's Fingers | F | I | 17 | -1d6 Strength, for 1 hour | 35 |
-| \rowcolor{gray!20}Blue Frost | F | I | 18 | 3d6 Hit Points from cold | 25 |
-| Barsar's Purple Berry | I | 1 r | 18 | Unable to commit violence for 3d8 hours | 40 |
-| \rowcolor{gray!20}Curna Fumes | R | I | 18 | -1d3 Wisdom | 40 |
+| Ragmor Perfume | R | I | 16 | -1d3 Charisma, for 1 day | 30 |
+| Daraka' \*\*s Fingers | F | I | 17 | -1d6 Strength, for 1 hour | 35 |
+| Blue Frost | F | I | 18 | 3d6 Hit Points from cold | 25 |
+| Barsar' \*\*s Purple Berry | I | 1 r | 18 | Unable to commit violence for 3d8 hours | 40 |
+| Curna Fumes | R | I | 18 | -1d3 Wisdom | 40 |
 | Mucot White Flake | C | I | 20 | Sleeps for 2d12 hours | 20 |
-| \rowcolor{gray!20}Kreex's Tongue | F | I | 20 | The wound bleeds. +1 bleeding damage. 1 use in 24 hours. | 50 |
+| Kreex' \*\*s Tongue | F | I | 20 | The wound bleeds. +1 bleeding damage. 1 use in 24 hours. | 50 |
 | Yellow Moss | I | 1 r | 20 | the creature gains one size. -2 Int and Wis. Duration 10 minutes | 50 |
-| \rowcolor{gray!20}Nabar Oil | R-F | I | 20 | Confused for 2d6 rounds | 50 |
+| Nabar Oil | R-F | I | 20 | Confused for 2d6 rounds | 50 |
 | Ottalm Poison | F | I | 20 | Death or -1d2 permanent Constitution | 50 |
-| \rowcolor{gray!20}Blue Ditch Berries | I | 1 T | 21 | -1d3 Intelligence and Wisdom for 6 hours | 55 |
+| Blue Ditch Berries | I | 1 T | 21 | -1d3 Intelligence and Wisdom for 6 hours | 55 |
 | Pink Pointed Grass | I | 1 r | 22 | -1d6 Dexterity, for 1 hour | 60 |
-| \rowcolor{gray!20}Blue Toad Skin | C | 10 r | 22 | Paralyzed for 1d6 turns | 60 |
+| Blue Toad Skin | C | 10 r | 22 | Paralyzed for 1d6 turns | 60 |
 | Purple Shrew Liver | I | 1 h | 25 | 2d6 damage to Wisdom and Intelligence. Permanent | 75 |
-| \rowcolor{gray!20}Blood Serpent Venom | F | I | 25 | Paralysis for 1d6 hours -1d4 Strength points for 7 days | 75 |
-| Thrun's Blood | C | I | 26 | -1d3 Constitution | 80 |
+| Blood Serpent Venom | F | I | 25 | Paralysis for 1d6 hours -1d4 Strength points for 7 days | 75 |
+| Thrun' \*\*s Blood | C | I | 26 | -1d3 Constitution | 80 |
 
 **Application**: **I**(ngestion), **F**(injury), **C**(ontact), **R**(espiration).
 
@@ -139,59 +139,54 @@ Lost ability score points are recovered at a rate of 1 per day if not permanent 
 **Table: Natural Potions (cost in gold coins)**
 
 p
-		>{}p
-		>{}p
-		>{}p
 		>{\raggedright}X
-		>{}p
-		>{}p
 
-| \rowcolor{gray!20}**Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
+| **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Wickalim | I | 1 h | 15 | Heals 2 Hit Points | 9 | 5 |
-| \rowcolor{gray!20}Darsirion | C | 1 r | 25 | Heals 1d4 Hit Points | 9 | 5 |
+| Darsirion | C | 1 r | 25 | Heals 1d4 Hit Points | 9 | 5 |
 | Harfy | C | I | 12 | -1 to bleeding | 10 | 3 |
-| \rowcolor{gray!20}Barannie | I | 10 r | 15 | Removes nausea | 11 | 3 |
+| Barannie | I | 10 r | 15 | Removes nausea | 11 | 3 |
 | Gisenosa Root Extract | I | 3 T | 15 | Cures cough and cold | 11 | 3 |
-| \rowcolor{gray!20}Klagul | C | 1 T | 20 | Cleans teeth | 11 | 2 |
+| Klagul | C | 1 T | 20 | Cleans teeth | 11 | 2 |
 | Nelthalion | I | I | 15 | Causes vomiting | 11 | 1 |
-| \rowcolor{gray!20}Delrean | C | 1 r | 15 | Repels insects for 1 day | 12 | 2 |
+| Delrean | C | 1 r | 15 | Repels insects for 1 day | 12 | 2 |
 | Urk Egg | I | 1 T | 12 | 1 day of food | 12 | 1 |
-| \rowcolor{gray!20}Delrean Plus | I | 1 r | 18 | Repels insects for 3 days | 13 | 5 |
+| Delrean Plus | I | 1 r | 18 | Repels insects for 3 days | 13 | 5 |
 | Aklent Bark | I | 1 T | 10 | The bark chewed for at least 10 rounds grants for the next 24 hours a +1 Saving Throw vs Poison | 13 | 1 |
-| \rowcolor{gray!20}White Moss Yeast | I | 10 r | 12 | Baked goods using this yeast cause uncontrollable and incredibly smelly meteorism for 12 hours | 14 | 1 |
+| White Moss Yeast | I | 10 r | 12 | Baked goods using this yeast cause uncontrollable and incredibly smelly meteorism for 12 hours | 14 | 1 |
 | Harfindar | I | 1 T | 15 | Causes abortion | 14 | 3 |
-| \rowcolor{gray!20}Gusperboon | C | 1 r | 20 | The skin becomes chameleon-like, granting a +1d6 to Stealth checks | 15 | 8 |
+| Gusperboon | C | 1 r | 20 | The skin becomes chameleon-like, granting a +1d6 to Stealth checks | 15 | 8 |
 | Ljust Berries | I | 1 r | 16 | Taken in the evening recovers double the HP, minimum 4 | 15 | 10 |
-| \rowcolor{gray!20}Mirenna | I | 1 r | 20 | Heals 5 Hit Points | 16 | 30 |
+| Mirenna | I | 1 r | 20 | Heals 5 Hit Points | 16 | 30 |
 | Klynkyx | C | 1 h | 15 | Makes all hair fall out for 1d6+4 days | 16 | 4 |
-| \rowcolor{gray!20}Mixture 31 | I | 1 T | 20 | The mount is extremely resilient. +4 hours of galloping per day | 17 | 15 |
+| Mixture 31 | I | 1 T | 20 | The mount is extremely resilient. +4 hours of galloping per day | 17 | 15 |
 | Culcoa | C | 1 r | 16 | Recover 2d6 from fire damage | 18 | 8 |
-| \rowcolor{gray!20}Jojopo | C | 1 r | 15 | Cold Resistance for 1 hour | 18 | 45 |
+| Jojopo | C | 1 r | 15 | Cold Resistance for 1 hour | 18 | 45 |
 | Silea | C | 5 r | 15 | Heals 1d6+3 Hit Points | 18 | 50 |
-| \rowcolor{gray!20}Draaf | C | 1 r | 20 | Heals 1d8 Hit Points | 19 | 50 |
+| Draaf | C | 1 r | 20 | Heals 1d8 Hit Points | 19 | 50 |
 | Illa Berry Extract | I | 1 r | 15 | +2 Initiative, +2 Dexterity, -1d6 Will Saving Throw, for 1 minute | 19 | 15 |
-| \rowcolor{gray!20}Lisbeth's Petals | I | 1 T | 15 | +2 Intelligence, -2 Dexterity for 10 minutes | 19 | 20 |
+| Lisbeth' \*\*s Petals | I | 1 T | 15 | +2 Intelligence, -2 Dexterity for 10 minutes | 19 | 20 |
 | Kelventare | I | 2 r | 28 | Recover 2d6 Hit Points | 20 | 100 |
-| \rowcolor{gray!20}Garioe | I | 1 r | 25 | Heals 2d6 Hit Points | 20 | 95 |
+| Garioe | I | 1 r | 25 | Heals 2d6 Hit Points | 20 | 95 |
 | Yajeth | I | 1 T | 20 | Heals 2d8 Hit Points | 20 | 100 |
-| \rowcolor{gray!20}Dagmather Bark | R | 1 r | 25 | Removes one level of Fatigue | 21 | 15 |
+| Dagmather Bark | R | 1 r | 25 | Removes one level of Fatigue | 21 | 15 |
 | Kathaus Root | R | 1 r | 20 | +2 Strength and Dexterity for 1 hour | 21 | 100 |
-| \rowcolor{gray!20}Klandor | I | I | 15 | Removes paralysis. Increases fatigue level by 1 | 22 | 18 |
-| Eldrin'tail | I | 1 r | 15 | Grants a new Saving Throw on Poisons | 22 | 18 |
-| \rowcolor{gray!20}Attarna | I | 1 T | 20 | Grants a new Saving Throw for Diseases with a +1d6 | 22 | 50 |
+| Klandor | I | I | 15 | Removes paralysis. Increases fatigue level by 1 | 22 | 18 |
+| Eldrin' \*\*tail | I | 1 r | 15 | Grants a new Saving Throw on Poisons | 22 | 18 |
+| Attarna | I | 1 T | 20 | Grants a new Saving Throw for Diseases with a +1d6 | 22 | 50 |
 | Xabax Red Tongue | C | 1 T | 20 | Heals 2d6 Hit Points but if there is disease or poison it attempts removal causing 2d6 HP of damage | 23 | 13 |
-| \rowcolor{gray!20}Arduur | I | 1 r | 25 | Removes Poisons | 24 | 75 |
+| Arduur | I | 1 r | 25 | Removes Poisons | 24 | 75 |
 | Arksun | C | 1 T | 25 | Heals 1d6 HP per Turn for 3 turns | 24 | 75 |
-| \rowcolor{gray!20}Uscaboo | R | 1 T | 25 | Removes blindness | 25 | 125 |
+| Uscaboo | R | 1 T | 25 | Removes blindness | 25 | 125 |
 | Melandrir | I | 1 r | 15 | Grants a new Saving Throw for Diseases with +4 | 26 | 100 |
-| \rowcolor{gray!20}Gylvert | I | 10 r | 25 | Grants water breathing for 4 hours | 27 | 3 |
+| Gylvert | I | 10 r | 25 | Grants water breathing for 4 hours | 27 | 3 |
 | Callynthine | C | 1 h | 24 | Reinforces fractures, heals 2d8+8 HP | 28 | 200 |
-| \rowcolor{gray!20}Gelfnus | I | 5 r | 28 | Heals 3d8+3 Hit Points, gain Fatigued | 28 | 150 |
+| Gelfnus | I | 5 r | 28 | Heals 3d8+3 Hit Points, gain Fatigued | 28 | 150 |
 | Green Rose Pollen | R | 3 T | 25 | Recover 2d4 Intelligence and Wisdom damage | 29 | 350 |
-| \rowcolor{gray!20}Silver Moss | I | I | 25 | Removes magical Diseases | 30 | 250 |
+| Silver Moss | I | I | 25 | Removes magical Diseases | 30 | 250 |
 | Nazamuse | I | I | 30 | Removes natural Poisons and Diseases | 32 | 175 |
-| \rowcolor{gray!20}Ljust's Kiss | C | 1 r | 35 | Heals 100 Hit Points | 34 | 500 |
+| Ljust' \*\*s Kiss | C | 1 r | 35 | Heals 100 Hit Points | 34 | 500 |
 | 100 Herbs Extract | I | I | 24 | Removes Blindness, Deafness, Paralysis, Poison | 35 | 150 |
 
 ### Notes on Poisons and Potions
@@ -222,15 +217,15 @@ p
 
 **Darsirion**: A light potion, made with silver flowers shining in the moonlight. Used by healers to treat minor wounds.
 
-**Delrean Plus**: An advanced formula that mixes Delrean leaf extract with beeswax. It's an infallible repellent.
+**Delrean Plus**: An advanced formula that mixes Delrean leaf extract with beeswax. It' \*\*s an infallible repellent.
 
 **Delrean**: Extracted from Delrean leaves it is used as a repellent for annoying insects during harvest.
 
-**Daraka's Fingers**: Daraka's Fingers are the fruit of the Daraka tree. The elongated black pod resembles the fingers of the ancient goddess of darkness.
+**Daraka' \*\*s Fingers**: Daraka' \*\*s Fingers are the fruit of the Daraka tree. The elongated black pod resembles the fingers of the ancient goddess of darkness.
 
 **Draaf**: A preparation based on ancient alchemical recipes. The potion is known for its rapid regeneration ability.
 
-**Eldrin'tail**: The tea prepared with this silver herb has a bitter taste, but effective against stronger poisons.
+**Eldrin' \*\*tail**: The tea prepared with this silver herb has a bitter taste, but effective against stronger poisons.
 
 **100 Herbs Extract**: A complex and little-known mixture
 
@@ -286,7 +281,7 @@ p
 
 **Silea**: A pasty green balm.
 
-**Purple Shrew**: according to many, the Shrew is Cattalm's favorite little animal. Aggressive, violent, dangerous in every fiber.
+**Purple Shrew**: according to many, the Shrew is Cattalm' \*\*s favorite little animal. Aggressive, violent, dangerous in every fiber.
 
 **Urk Egg**: Urk is a large beetle, the egg is slightly larger than a hazelnut. It is usually first smoked with beech wood; eaten raw, the taste is of mold and earth.
 
@@ -306,31 +301,31 @@ The onset is always immediate, the duration for healing is immediate, for others
 
 **Table: of generic potions. Cost in Gold Coins.**
 
-| \rowcolor{gray!20}**Potion Name** | **Effect** | **Cost** | **Appl.** |
+| **Potion Name** | **Effect** | **Cost** | **Appl.** |
 | --- | --- | --- | --- |
 | Cure | heals 1d8+1 Hit Points | 50 | I |
-| \rowcolor{gray!20}Enhanced Cure | heals 3d8+3 Hit Points | 125 | I |
+| Enhanced Cure | heals 3d8+3 Hit Points | 125 | I |
 | Greater Cure | heals 3d10+15 Hit Points | 300 | I |
-| \rowcolor{gray!20}Weakening | -2 AR. DC 15 Fortitude saving throw to negate effects | 35 | F |
+| Weakening | -2 AR. DC 15 Fortitude saving throw to negate effects | 35 | F |
 | Enhanced Weakening | -1d6 AR. DC 18 Fortitude saving throw to negate effects | 50 | F/I |
-| \rowcolor{gray!20}Poison | 2d6+2 damage. DC 15 Fortitude ST to halve | 30 | I/F |
+| Poison | 2d6+2 damage. DC 15 Fortitude ST to halve | 30 | I/F |
 | Enhanced Poison | 2d8+4 damage. DC 18 Fortitude ST to halve | 50 | F |
-| \rowcolor{gray!20}Greater Poison | 4d10+8 damage. DC 24 Fortitude ST to halve | 125 | F |
+| Greater Poison | 4d10+8 damage. DC 24 Fortitude ST to halve | 125 | F |
 | Remove Poison | grants a new ST with +1d6 | 75 | I |
-| \rowcolor{gray!20}Generic Potion* | see Creating Potions (page ) | Lv*Lv*50 | I |
+| Generic Potion* | see Creating Potions (page ) | Lv*Lv*50 | I |
 
 ## Optional - Drugs
 
-| \rowcolor{gray!20}**Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
+| **Name** | **Use** | **Ons.** | **DC** | **Effect** | **Rar.** | **Cost** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Fermented Luside Leaves | I | 1 T | 17 | +4 Charisma and Intelligence for 1d4 hours | 17 | 5 gc |
-| \rowcolor{gray!20}Ferpillon | I | 1 r | 20 | Makes you sleep for 24 hours | 15 | 50 gc |
+| Ferpillon | I | 1 r | 20 | Makes you sleep for 24 hours | 15 | 50 gc |
 | Grey Ointment | I | 1 r | 24 | Contrast with DC 25 effect from Enchantment Magic List 5 | 19 | 80 gc |
-| \rowcolor{gray!20}Arpasur Ash | R | 1 r | 20 | Removes 2 levels of fatigue | 16 | 10 gc |
+| Arpasur Ash | R | 1 r | 20 | Removes 2 levels of fatigue | 16 | 10 gc |
 | Melzaa Alcoholic Extract | I | 1 r | 20 | +2 Str, +2 Dex, -2 Wis. For 1d4 hours | 16 | 25 gc |
-| \rowcolor{gray!20}Inut Scented Essence | R | I | 15 | +4 Dexterity for 1d8 hours | 16 | 15 gc |
+| Inut Scented Essence | R | I | 15 | +4 Dexterity for 1d8 hours | 16 | 15 gc |
 | Julnnaus Pollen | R | I | 20 | +3 Constitution for 2 hours | 16 | 25 gc |
-| \rowcolor{gray!20}Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
+| Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
 
 **The use of drugs is completely optional. It is the Narrator who decides their presence and availability based on the sensitivity of the players**.
 
@@ -375,9 +370,9 @@ Examples of Diseases:
 
 **Demonic Influenza**: 1 minute, Fortitude ST DC 16, 12 hours, 2 successes, -1 Constitution
 
-**Rezh's Corruption**: 1 day, Will ST DC 18, 1 hour, 2 successes, -1d6 Maximum Hit Points
+**Rezh' \*\*s Corruption**: 1 day, Will ST DC 18, 1 hour, 2 successes, -1d6 Maximum Hit Points
 
-**Efrem's Curse**: 8 hours, Fortitude ST DC 24, 12 hours, 2 successes, -1 point to Dexterity and +1 Defense
+**Efrem' \*\*s Curse**: 8 hours, Fortitude ST DC 24, 12 hours, 2 successes, -1 point to Dexterity and +1 Defense
 
 **Violent Torpor**: 24 hours, Will ST DC 12, 12 hours, 1 success, +1 to Damage with Melee Weapons and -1 Wisdom
 
@@ -386,4 +381,5 @@ Examples of Diseases:
 **Black Blood**: 10 minutes, Fortitude ST 28, 12 hours, 1 success, loss of half remaining Hit Points
 
 **T Plague**: 1 minute, Fortitude ST 30, 2 hours, 3 successes, perform 3 consecutive successes otherwise you are transformed into a zombie of equal CR. It is transmitted through contact.
+
 ---

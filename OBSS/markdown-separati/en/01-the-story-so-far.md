@@ -33,7 +33,7 @@ Meanwhile, for an entire year, the dragons destroyed and killed everything and e
 
 Earthlings had been punished for their affront, only 10\% of the population had survived.
 
-These new beings destroyed, made disappear, sink, flip, altered entire cities, changed environments, animals, made new species appear. Hordes of monsters described in children's game books appeared out of nowhere. Reality was for them a whim to be manipulated according to their eccentric tastes.
+These new beings destroyed, made disappear, sink, flip, altered entire cities, changed environments, animals, made new species appear. Hordes of monsters described in children' \*\*s game books appeared out of nowhere. Reality was for them a whim to be manipulated according to their eccentric tastes.
 
 Nations as we knew them no longer existed, nature itself had changed into the most alien forms possible. Many areas were nuclear deserts, inhospitable and lethal to anyone, or almost.
 
@@ -63,20 +63,20 @@ Each character is defined by six fundamental Ability Scores that represent their
 
 In this manual, you will find instructions for creating your characters, for interacting with the game world, for fighting, for using magic, and for facing the challenges you will encounter along your journey.
 
-But before beginning your adventures, you must participate in Session Zero, a crucial moment to lay the foundations of your experience. During Session Zero, you will establish the rules and game options, define the group's expectations, create your characters, and give life to their stories.
+But before beginning your adventures, you must participate in Session Zero, a crucial moment to lay the foundations of your experience. During Session Zero, you will establish the rules and game options, define the group' \*\*s expectations, create your characters, and give life to their stories.
 
-In OBSS, your imagination is the only limit. Don't be afraid to experiment, to test your ideas, and to build characters that are unique and unforgettable. You are free to shape your destiny and leave your mark in this world, one dice roll at a time.
+In OBSS, your imagination is the only limit. Don' \*\*t be afraid to experiment, to test your ideas, and to build characters that are unique and unforgettable. You are free to shape your destiny and leave your mark in this world, one dice roll at a time.
 
 Actions are measured in terms of Actions, and success is based on dice rolls, your proficiency, Feats, and your tactical choices.
 
-Remember: checks can be avoided with intelligence and strategy. Exploration, the ability to solve puzzles, and imagination are crucial components of this game. Don't always look for the solution on the character sheet, use your ingenuity!
+Remember: checks can be avoided with intelligence and strategy. Exploration, the ability to solve puzzles, and imagination are crucial components of this game. Don' \*\*t always look for the solution on the character sheet, use your ingenuity!
 
-Now that you are ready, it's time to embrace your destiny and write your legend. Be brave, be creative, and be ready for anything. Let your adventure begin!
+Now that you are ready, it' \*\*s time to embrace your destiny and write your legend. Be brave, be creative, and be ready for anything. Let your adventure begin!
 
 Andres Zanzani
 
-> D | D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
-OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don't let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
+> D&D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
+OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don' \*\*t let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
 
 ---
 
@@ -96,9 +96,9 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Casting Spells under attack, threat, distraction..**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, then they must make a Magic Check.
 
-**Check/Test**: a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don't have the Skill, you roll 2d6 + the Ability Score modifier.
+**Check/Test**: a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
-**Class**: In OBSS there are no classes. Each character is built based on what they can do; you won't find the word Class in the manual. Each character is unique and defined by their choices.
+**Class**: In OBSS there are no classes. Each character is built based on what they can do; you won' \*\*t find the word Class in the manual. Each character is unique and defined by their choices.
 
 **Critical Success/Critical Failure in Magic test** : in case the player passes the Magic Check with criticals. The Critical Success in Magic test leads to spectacular modifications in the spell, vice versa bad things could happen to the spellcaster.
 
@@ -116,13 +116,13 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Explosion of 6**: when, you perform an Attack Roll, Saving Throw, Skill Check, Magic Check, Initiative (read the specifics in the dedicated chapter) or whenever it is indicated that the explosion of 6 applies, it means that for each die rolled that got a 6, it is noted and the die is rolled again. The result of the new roll is also added, and if you roll a 6, you continue to roll until you stop rolling 6s.
 
-**Fate Points**: or Beginner's Luck are points available that the player can transform into d6 to add to Saving Throws or Attack Rolls or Skill Checks. They are called Beginner's Luck because their number decreases as the character level increases.
+**Fate Points**: or Beginner' \*\*s Luck are points available that the player can transform into d6 to add to Saving Throws or Attack Rolls or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character level increases.
 
 **Feat**: these are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page )
 
 **Follower**: a character who has bound themselves to a Patron with 1 Trait in common
 
-**Hit Points (Hit Points)**: indicate the vital energy, resistance, the luck in resisting the creature's wounds. As long as the creature has 1 hit point, it will fight at its best, without problems (but it might also decide to run away rather than die!). At each level passage, you gain a certain number of Hit Points, established by the rules. Each wound is subtracted from this accumulation of energies, and when 0 (zero) Hit Points is reached, you faint, unable to act.
+**Hit Points (Hit Points)**: indicate the vital energy, resistance, the luck in resisting the creature' \*\*s wounds. As long as the creature has 1 hit point, it will fight at its best, without problems (but it might also decide to run away rather than die!). At each level passage, you gain a certain number of Hit Points, established by the rules. Each wound is subtracted from this accumulation of energies, and when 0 (zero) Hit Points is reached, you faint, unable to act.
 
 If you are further injured and the Hit Points drop to 10+double the value of Constitution, then you die.
 
@@ -147,7 +147,7 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 **NPC**: non-player character. These are particular characters, important or not, that the Narrator keeps to lead the adventure.
 
-**One brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn't mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
+**One brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn' \*\*t mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
 
 **Optional**: in OBSS there are various Optional rules to diversify and personalize the game. Talk about it during Session Zero and decide what style to give to your OBSS.
 
@@ -175,7 +175,7 @@ Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases 
 
 **Turn**: is 10 minutes, that is, 60 rounds
 
-> The D | D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D | D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
+> The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
 In the Manual, you will find different types of boxes, each has a precise meaning:
 
@@ -184,4 +184,5 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 >> **Information for the Player**: Box containing indications and clarifications for the Player.
 
 >>> **Information for the Narrator**: Box containing indications and suggestions for the Narrator
+
 ---

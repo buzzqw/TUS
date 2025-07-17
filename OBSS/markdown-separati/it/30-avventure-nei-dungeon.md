@@ -39,7 +39,7 @@ Le creature che vivono nelle caverne si abituano all'oscurità sviluppando qualc
 
 Anche la stessa torcia può dare un sollievo limitato dato che il suo raggio di luce è di 3 metri più 3 metri di luce fioca e dura un ora prima di spegnersi.
 
-Controlla le sezioni su Coperture ed Invisibilità (pag. ) per maggiori informazioni.
+Controlla le sezioni su Coperture ed Invisibilità  per maggiori informazioni.
 
 ### Movimento
 
@@ -101,28 +101,28 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 
 **Tabella: Pareti**
 
-| \rowcolor{gray!20}**Tipo di Parete** | **Spessore** | **Sfondare** | **Durezza** | **Punti Ferita** | **DC Scalare** |
+| **Tipo di Parete** | **Spessore** | **Sfondare** | **Durezza** | **Punti Ferita** | **DC Scalare** |
 | --- | --- | --- | --- | --- | --- |
 | Mattoni di pietra | 30 cm | 35 | 8 | 90 | 20 |
-| \rowcolor{gray!20}Mattoni di pietra superiori | 30 cm | 35 | 8 | 120 | 25 |
+| Mattoni di pietra superiori | 30 cm | 35 | 8 | 120 | 25 |
 | Mattoni di pietra rinforzati | 30 | 45 | 8 | 180 | 20 |
-| \rowcolor{gray!20}Pietra Scolpita | 90 | 50 | 8 | 540 | 25 |
+| Pietra Scolpita | 90 | 50 | 8 | 540 | 25 |
 | Pietra grezza | 150 cm | 65 | 8 | 900 | 25 |
-| \rowcolor{gray!20}Ferro | 7.5 cm | 30 | 10 | 90 | 25 |
+| Ferro | 7.5 cm | 30 | 10 | 90 | 25 |
 | Carta | variabile | 1 | -- | 1 | 30 |
-| \rowcolor{gray!20}Legno | 15 cm | 20 | 5 | 60 | 21 |
+| Legno | 15 cm | 20 | 5 | 60 | 21 |
 
 **Tabella: Scavare un tunnel**
 
-| \rowcolor{gray!20}**Minatore** | **Materiale da Scavare (1 minuto)** |  | |
+| **Minatore** | **Materiale da Scavare (1 minuto)** |  |
 | --- | --- | --- |
 | **Terreno** | **Pietramorbida** | **Pietra dura** |
 | Umano | 50 cm | 15 cm | 7 cm |
-| \rowcolor{gray!20}Gnomo | 45 cm | 30 cm | 15 cm |
+| Gnomo | 45 cm | 30 cm | 15 cm |
 | Nano/Orco | 55 cm | 45 cm | 20 cm |
-| \rowcolor{gray!20}Gigante della Pietra | 3 m | 1.5 m | 75 cm |
+| Gigante della Pietra | 3 m | 1.5 m | 75 cm |
 | Xorn | 6 m | 6 m | 6m |
-| \rowcolor{gray!20}Elementale della Terra | 9 m | 9 m | 9 m |
+| Elementale della Terra | 9 m | 9 m | 9 m |
 
 Le distanze scavate indicate si presume che siano ottenute con strumenti idonei come vanghe o picconi, altrimenti ridurre ad un terzo.
 
@@ -196,17 +196,17 @@ Le porte all'interno dei dungeon sono ben più che semplici entrate o uscite. Sp
 
 	
 
-| \rowcolor{gray!20}**Tipo di porta** | **Spessore tipico** | **Durezza** | **Punti Ferita** | **DC per sfondare** | |
+| **Tipo di porta** | **Spessore tipico** | **Durezza** | **Punti Ferita** | **DC per sfondare** | |
 | --- | --- | --- | --- | --- |
 | **(cm)** |  |  | **Bloccata** | **Chiusa a chiave** |
 | Legno semplice | 2.5 | 5 | 10 | 15 | 18 |
-| \rowcolor{gray!20}Legno buono | 3.75 | 5 | 15 | 18 | 21 |
+| Legno buono | 3.75 | 5 | 15 | 18 | 21 |
 | Legno robusto | 5 | 5 | 20 | 25 | 28 |
-| \rowcolor{gray!20}Pietra | 10 | 8 | 60 | 31 | 34 |
+| Pietra | 10 | 8 | 60 | 31 | 34 |
 | Ferro | 5 | 10 | 60 | 30 | 33 |
-| \rowcolor{gray!20}Saracinesca di legno | 7.5 | 5 | 30 | 27 | 30 |
+| Saracinesca di legno | 7.5 | 5 | 30 | 27 | 30 |
 | Saracinesca di ferro | 5 | 10 | 60 | 28 | 31 |
-| \rowcolor{gray!20}Serratura | - | 15 | 30 | - | - |
+| Serratura | - | 15 | 30 | - | - |
 | Cardini | - | 10 | 30 | - | - |
 
 **Porte di Legno**: Costruite con spesse assi inchiodate, a volte rinforzate con sbarre di ferro (poste anche per impedire le deformazioni prodotte dall'umidità dei dungeon), quelle di legno sono il tipo più comune di porta. Le porte di legno variano per durezza: possono essere semplici, buone o robuste. Le porte semplici (DC 15 per sfondarle) non sono progettate per tenere alla larga assalitori motivati.
@@ -334,7 +334,7 @@ come una candela. Rare macchie di questo fungo illuminano come una torcia. Strap
 
 ### Esempio di Trappole da dungeon
 
-Viene indicato il nome della trappola, la DC per la prova di Sopravvivenza per trovare la trappola e le indicazioni d'uso della stessa. Vedi anche Trappole (pag. ).
+Viene indicato il nome della trappola, la DC per la prova di Sopravvivenza per trovare la trappola e le indicazioni d'uso della stessa. Vedi anche Trappole .
 
 **Stanza allagata, DC 17**: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e la stanza incomincerà a riempirsi d'acqua.
 La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, combinata con una prova di Nuotare DC 13, fa rilevare la piastra che attiva la fuoriuscita d'acqua.
@@ -353,4 +353,5 @@ E' necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da t
 **Porta schiacciante, DC 16**: questa porta appena toccata rotea su dei cardini centrali e roteando picchia il personaggio (o personaggi se un grande portone). Causa 1d6 di danni contundenti e continua a roteare per 1d6 round.
 
 **Trincia Dito, DC 14**: questa trappola è molto subdola. Si presenta con un foro di circa 1 cm di diametro e profondo 7 cm. Qualsiasi cosa che ne tocchi il fondo farà scattare la trappola, causando 2d4 di danno al dito/oggetto inserito. La lama potrebbe anche essere avvelenata.
+
 ---

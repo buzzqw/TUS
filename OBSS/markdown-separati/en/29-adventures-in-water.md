@@ -14,7 +14,7 @@ The rules for underwater combat apply to creatures that are not native to this d
 
 ## Underwater Combat
 
-Creatures that live on land have considerable difficulty fighting underwater. Water affects a creature's Defense, Attack Rolls, damage, and movement.
+Creatures that live on land have considerable difficulty fighting underwater. Water affects a creature' \*\*s Defense, Attack Rolls, damage, and movement.
 
 - A creature underwater loses its Dexterity bonus to Defense.
 - A creature underwater that is not under the *Freedom of Movement* spell makes Attack Rolls with a -1d6 penalty, and the opponent is considered to have Damage Resistance against Slashing and Bludgeoning weapons.
@@ -22,7 +22,7 @@ Creatures that live on land have considerable difficulty fighting underwater. Wa
 Weapons like Trident, Short Spear, Short Sword, Javelin have no penalty to hit underwater in melee.
 - Moving or swimming in water is considered ***difficult terrain***.
 
-These penalties are valid only if you don't have a Swim movement type.
+These penalties are valid only if you don' \*\*t have a Swim movement type.
 
 ### Ranged attacks underwater
 
@@ -38,7 +38,7 @@ A completely submerged creature has total cover against opponents on land.
 
 Magical effects are not influenced, except those that require an Attack Roll (see above) and fire effects.
 
-Non-magical **fire** (including alchemist's fire) does not burn underwater. Fire spells or magical effects are ineffective underwater. A partially submerged creature has resistance to fire.
+Non-magical **fire** (including alchemist' \*\*s fire) does not burn underwater. Fire spells or magical effects are ineffective underwater. A partially submerged creature has resistance to fire.
 
 **Casting spells underwater**
 
@@ -46,7 +46,7 @@ Casting spells underwater can be difficult for those who cannot breathe underwat
 
 A creature unable to breathe underwater spends three rounds of holding its breath to cast a spell with Verbal components.
 
-Some spells might work differently underwater, at the Narrator's discretion.
+Some spells might work differently underwater, at the Narrator' \*\*s discretion.
 
 See Environment Chapter for the rules on holding breath (p. ).
 

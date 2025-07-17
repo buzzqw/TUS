@@ -1,12 +1,12 @@
 # Treasures
 
-As characters advance in level, the amount of treasure they carry and use also increases. In OBSS, it is assumed that all characters of equal level have more or less the same amount of treasure and magic items. Since a character's primary income comes from treasures and loot obtained from adventures, it's important to pay attention to the wealth and treasures of adventures.
+As characters advance in level, the amount of treasure they carry and use also increases. In OBSS, it is assumed that all characters of equal level have more or less the same amount of treasure and magic items. Since a character' \*\*s primary income comes from treasures and loot obtained from adventures, it' \*\*s important to pay attention to the wealth and treasures of adventures.
 
 ## Where are the Treasures
 
 Some treasures will be held by monsters (see below), others will be scattered and hidden in the dungeon, and still others will be at the bottom of traps and hidden tunnels.
 
-How to distribute treasure is an important matter. Treasures should not be thrust in the characters' faces, nor should they be hidden so that it's impossible to find them.
+How to distribute treasure is an important matter. Treasures should not be thrust in the characters' \*\* faces, nor should they be hidden so that it' \*\*s impossible to find them.
 
 One piece of advice is to make sure that the treasures (items and coins) found in dungeons are distributed according to this criterion:
 
@@ -19,11 +19,11 @@ This will stimulate players to continue exploration, confront monsters, and acti
 Animals, Plants, Constructs, unintelligent Undead, Oozes, and traps are excellent *encounters with little treasure*.
 Alternatively, if the characters face a certain number of creatures with little or no treasure, they should have the opportunity to obtain a number of more significantly valuable items in the immediate future to compensate for the imbalance.
 
-As a general rule, characters should not possess any magic item worth more than half the character's total wealth, so check carefully before rewarding characters with very expensive items.
+As a general rule, characters should not possess any magic item worth more than half the character' \*\*s total wealth, so check carefully before rewarding characters with very expensive items.
 
 ## Building a Haul
 
-It's often enough to tell your players that they have found 5000 gp in gems and 10000 gp in jewelry, but it's more interesting to provide details. Giving a treasure personality can not only help the verisimilitude of the game but can sometimes trigger new adventures.
+It' \*\*s often enough to tell your players that they have found 5000 gp in gems and 10000 gp in jewelry, but it' \*\*s more interesting to provide details. Giving a treasure personality can not only help the verisimilitude of the game but can sometimes trigger new adventures.
 
 In the following pages, you will find the rules and tables for attributing treasures to enemies so you can randomly generate what the characters find.
 
@@ -37,7 +37,7 @@ Use the Table Value of gems (p. ) to determine the value of the gems found. Here
 
 **Gems**: Although you can assign any value to a gem, some may be worth more than others. Use the value categories below (and the associated precious stones) as a reference guide when assigning values to precious stones. Usually gems are bought and sold at full value.
 
-**Low Quality Gems** (10 gp): agate; azurite; blue quartz; hematite; lapis lazuli; malachite; obsidian; rhodochrosite; tiger's eye; turquoise; river pearl (irregular).
+**Low Quality Gems** (10 gp): agate; azurite; blue quartz; hematite; lapis lazuli; malachite; obsidian; rhodochrosite; tiger' \*\*s eye; turquoise; river pearl (irregular).
 
 **Semi-Precious Gems** (50 gp): heliotrope, carnelian; chalcedony; chrysoprase; citrine; jasper; moonstone; onyx; chrysolite; rock crystal (clear quartz); sardonyx; sardonyx; rose, smoky, or star rose quartz; zircon.
 
@@ -61,7 +61,7 @@ Unlike gems, many of these items have established values, but you can always inc
 
 >>> **Attention to treasures**: Never overdo treasures, especially magical ones. A treasure should not become a habit. Coins, gems, and consumables are one thing, but true treasures, those magical, special, unique ones, are another.
 
-Respecting the Law of Reward does not mean filling the characters' pockets, otherwise they will get bored of risking their lives for new treasures and items. When you make them find a magic item, always think in perspective. It's true that it can be nice to see players happy with what they've found, but then you'll be forced in the next adventure to give something even more powerful.
+Respecting the Law of Reward does not mean filling the characters' \*\* pockets, otherwise they will get bored of risking their lives for new treasures and items. When you make them find a magic item, always think in perspective. It' \*\*s true that it can be nice to see players happy with what they' \*\*ve found, but then you' \*\*ll be forced in the next adventure to give something even more powerful.
 
 **Precious Ornaments** (500 gp or more): Precious ornaments are made of gold, mithral, platinum, or similar rare metals. Such objects include the types of normal ornaments plus scepters, pendants, and other large objects.
 
@@ -71,13 +71,13 @@ Respecting the Law of Reward does not mean filling the characters' pockets, othe
 
 **Treasure Maps and Information Objects** (variable): Objects such as treasure maps, legal documents of ships and houses, lists of informants or guard shifts, passwords, and the like can be fun items to find in a treasure: you can establish the value of these objects as you wish and they can be of double utility as they can generate ideas for new adventures.
 
-**Accidental Treasures**: these are treasures that the creature has with it or in its lair by pure chance or because they are unwanted. They can be the *undigested* remains of a hearty meal or something that caught the creature's attention. An accidental treasure  should be evaluated case by case depending on the environment and creature that possesses it.
+**Accidental Treasures**: these are treasures that the creature has with it or in its lair by pure chance or because they are unwanted. They can be the *undigested* remains of a hearty meal or something that caught the creature' \*\*s attention. An accidental treasure  should be evaluated case by case depending on the environment and creature that possesses it.
 
 ## Magic Items
 
 Of course, the discovery of a Magic Item is the real prize for any adventurer. Be careful when placing Magic Items in a treasure: it is much more satisfying for many players to find a magic item rather than buy it.
 
-Although you should generally place items with careful reflection on their likely effects on your campaign, it can be fun to generate magic items in a treasure at random. Be careful, though! It's easy, with a bit of luck (or misfortune) of the dice to inflate your game with too much treasure or deprive it of the same. The placement of random magic items should always be tempered by the Narrator's good sense.
+Although you should generally place items with careful reflection on their likely effects on your campaign, it can be fun to generate magic items in a treasure at random. Be careful, though! It' \*\*s easy, with a bit of luck (or misfortune) of the dice to inflate your game with too much treasure or deprive it of the same. The placement of random magic items should always be tempered by the Narrator' \*\*s good sense.
 
 Spells are also real treasures and prizes on par with magic items. Carefully evaluate which ones can be found. Remember that a magic ability is not a copyable spell; only those present in tomes, scrolls, and other specifically created to be a receptacle of spells are suitable for copying.
 
@@ -95,7 +95,7 @@ Whatever the situation, the Narrator must always pay attention to the magic item
 
 Magic Treasures should be inserted, if on enemies or in dungeons, with parsimony and reasoning; try to resist the temptation to be generous with the characters because they will easily get used to it and you will hardly be able to recover the situation.
 
-Even more necessary is that magic items, especially the more powerful ones, cannot be bought like *vile* common objects. Don't skimp on Healing Potions or small magic trinkets that have their utility, yet the most wonderful objects (from the +2 sword onwards...) must be found, whoever currently possesses that object must be confronted, otherwise the purpose of the adventure and the danger wanes.
+Even more necessary is that magic items, especially the more powerful ones, cannot be bought like *vile* common objects. Don' \*\*t skimp on Healing Potions or small magic trinkets that have their utility, yet the most wonderful objects (from the +2 sword onwards...) must be found, whoever currently possesses that object must be confronted, otherwise the purpose of the adventure and the danger wanes.
 
 In case you prefer an established and balanced distribution, follow the indications below.
 
@@ -174,43 +174,43 @@ Then consult the Table Magic Item Type (p. ) to roll and discover what magic ite
 
 **Table: Treasure Composition**
 
-| {\textwidth}{>{\bfseries}l|> |
+
 	
 | **Treasures from lairs or hideouts of creatures** |  |  |  |  |  |  | |
-| --- | --- | --- | --- | --- | --- | --- |
-| \rowcolor{gray!20}TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
+| --- | --- | --- | --- | --- | --- | --- |---|
+| TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | x 1000 | x 1000 | x 1000 | x 100 |  |  | |
 | A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 any, 30\% |
-| \rowcolor{gray!20}B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armor or weapons, 10\% |
+| B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armor or weapons, 10\% |
 | C | 1d10, 20\% | 1d6, 30\% | - | 1d6 10\% | 1d6, 25\% | 1d3, 20\% | 2 any, 10\% |
-| \rowcolor{gray!20}D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 any, 15\%, + 1 potion |
+| D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 any, 15\%, + 1 potion |
 | E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 any, 25\%, +1 scroll |
-| \rowcolor{gray!20}F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 any, non-weapons 30\% |
+| F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 any, non-weapons 30\% |
 | G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 any 35\% |
-| \rowcolor{gray!20}H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
+| H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 any 15\% |
 | I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 any 15\% |
-| {\textwidth}{>{\bfseries}l|> |
+
 
 | **Individual Treasures, small lairs, backpacks and bags** |  |  |  |  |  |  | |
-| \rowcolor{gray!20}TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
+| TC | **cp** | **sp** | **gp** | **pp** | **Gems** | **Jewelry** | **Magic Items** |
 | J | 3d8 | - | - | - | - | - | - |
-| \rowcolor{gray!20}K | - | 3d6 | - | - | - | - | - |
+| K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
-| \rowcolor{gray!20}M | - | - | 2d4 | - | - | - | - |
+| M | - | - | 2d4 | - | - | - | - |
 | N | - | - | - | 1d6 | - | - | - |
-| \rowcolor{gray!20}O | 1d4*10 | 1d3*10 | - | - | - | - | - |
+| O | 1d4*10 | 1d3*10 | - | - | - | - | - |
 | P | - | 1d6*10 | - | 3d6 | - | - | - |
-| \rowcolor{gray!20}Q | - | - | - | - | 1d4 | - | - |
+| Q | - | - | - | - | 1d4 | - | - |
 | R | - | - | 2d10 | 1d6*10 | 2d4 | 1d3 | - |
-| \rowcolor{gray!20}S | - | - | - | - | - | - | 1d8 potions |
+| S | - | - | - | - | - | - | 1d8 potions |
 | T | - | - | - | - | - | - | 1d4 scrolls |
-| \rowcolor{gray!20}U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 any, 70\% |
+| U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 any, 70\% |
 | V | - | - | - | - | - | - | 2 any |
-| \rowcolor{gray!20}W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 any, 60\% |
+| W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 any, 60\% |
 | X | - | - | - | - | - | - | 2 potions |
-| \rowcolor{gray!20}Y | - | - | 1d6*100 | - | - | - | - |
+| Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 any, 50\% |
 
-When the treasure is indicated by multiple letters, the creature possesses both indicated treasures. Some particularly \emph creatures might have the same treasure multiple times (2 H, i.e., 2 times treasure H).
+When the treasure is indicated by multiple letters, the creature possesses both indicated treasures. Some particularly creatures might have the same treasure multiple times (2 H, i.e., 2 times treasure H).
 
 ---

@@ -20,22 +20,22 @@ Se un famiglio viene congedato, perso oppure muore, può essere sostituito una s
 
 **Tabella: Tipi di Famiglio**
 
-| \rowcolor{gray!20}**Famiglio** | **Capacità acquisita dal padrone** |
+| **Famiglio** | **Capacità acquisita dal padrone** |
 | --- | --- |
 | Civetta | +2 alle prove di Arcana |
-| \rowcolor{gray!20}Corvo | +2 alle prove di Intimidire |
+| Corvo | +2 alle prove di Intimidire |
 | *Dobi* | +2 al Tiro Salvezza vs Ammaliamento |
-| \rowcolor{gray!20}Falco | +2 su Consapevolezza sulla vista |
+| Falco | +2 su Consapevolezza sulla vista |
 | Gatto | +2 alle prove di Furtività |
-| \rowcolor{gray!20}Gufo | +2 su Consapevolezza sul udito |
+| Gufo | +2 su Consapevolezza sul udito |
 | Lontra | +2 alle prove di Nuotare |
-| \rowcolor{gray!20}Lucertola | +2 alle prove di Sopravvivenza |
+| Lucertola | +2 alle prove di Sopravvivenza |
 | Pipistrello | +1 Tiro Salvezza su Tempra |
-| \rowcolor{gray!20}Ratto | +2 al Tiro Salvezza contro Malattie |
+| Ratto | +2 al Tiro Salvezza contro Malattie |
 | Riccio | +1 al Tiro Salvezza su Volontà |
-| \rowcolor{gray!20}Rospo | +2 al Tiro Salvezza su Veleno |
+| Rospo | +2 al Tiro Salvezza su Veleno |
 | Scimmia | +2 alle prove di Mani di Fata |
-| \rowcolor{gray!20}*Topi* | diventi il famiglio della Topi!!! |
+| *Topi* | diventi il famiglio della Topi!!! |
 | Volpe | +1 al Tiro Salvezza su Riflessi |
 
 Utilizzare le statistiche base di una creatura della specie del famiglio, apportando i seguenti cambiamenti.
@@ -56,17 +56,17 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 
 **Tabella: Abilità e Bonus del Famiglio**
 
-| \rowcolor{gray!20}**CM del Padrone** | **Difesa** | **Intelligenza** | **Speciale** |
+| **CM del Padrone** | **Difesa** | **Intelligenza** | **Speciale** |
 | 1-2 | +1 | 0 | Allerta, Condividere Incantesimi |
-| \rowcolor{gray!20} |  |  | Legame Empatico |
+|  |  |  | Legame Empatico |
 | 3-4 | +1 | +1 | Trasmettere Incantesimi a contatto |
-| \rowcolor{gray!20}5-6 | +2 | +1 | Parlare con gli Animali della Sua Specie |
+| 5-6 | +2 | +1 | Parlare con gli Animali della Sua Specie |
 | 7-8 | +3 | +1 | Parlare con il Padrone |
-| \rowcolor{gray!20}9-10 | +3 | +2 | - |
+| 9-10 | +3 | +2 | - |
 | 11-12 | +4 | +2 | Vedere attraverso Famiglio |
-| \rowcolor{gray!20}13-14 | +5 | +2 | Trasmettere Incantesimi a contatto migliorato |
+| 13-14 | +5 | +2 | Trasmettere Incantesimi a contatto migliorato |
 | 15-16 | +5 | +3 | - |
-| \rowcolor{gray!20}17-18 | +6 | +3 | - |
+| 17-18 | +6 | +3 | - |
 | 19-20 | +7 | +3 | - |
 
 **Competenza Magica del Padrone**: il numero indicato qui è il valore di Competenza Magica del padrone del famiglio.
@@ -96,4 +96,5 @@ Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio 
 ***Trasmettere Incantesimi a Contatto Migliorato***: come *Trasmettere Incantesimi a Contatto* ma il famiglio può essere entro 18 metri dal padrone.
 
 **NOTE**: intelligente ed unico un famiglio rimane un animale e come tale non può usare oggetti magici o pergamene, può arrivare ad usare una pozione se ne ha le capacità per berla. Un famiglio particolarmente intelligente potrebbe eseguire semplici ed immediati compiti.
+
 ---

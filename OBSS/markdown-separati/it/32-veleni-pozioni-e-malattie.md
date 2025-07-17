@@ -18,7 +18,7 @@ Per identificare una pozione naturale è necessario una prova di Erboristeria a 
 **Ferimento**: vengono trasferiti soprattutto con gli attacchi di alcune creature e tramite armi cosparse di veleno. I veleni a ferimento hanno solitamente un tempo di insorgenza istantaneo.
 
 **Inalazione (R)**: si attivano nel momento in cui una creatura entra in un'area che contiene tali veleni. Molti veleni ad inalazione riempiono un volume pari ad un cubo con lato di 3x3x3 metri per dose. Le creature possono tentare di trattenere il fiato mentre si trovano all'interno dell'area per evitare di inalare la tossina.
-Vedi regole per trattenere il fiato e soffocare in Ambiente (pag. ).
+Vedi regole per trattenere il fiato e soffocare in Ambiente .
 
 ## Insorgenza ed Effetto
 
@@ -64,7 +64,7 @@ Una creatura sotto gli effetti di un veleno, anche se non manifestato, ha la con
 
 ## Rimuovere il veleno
 
-L'incantesimo Rimuovi Veleno (pag. ) esegue una prova di contrasto con il veleno, e quindi la condizione avvelenato.
+L'incantesimo Rimuovi Veleno  esegue una prova di contrasto con il veleno, e quindi la condizione avvelenato.
 
 Se la DC del veleno non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
 
@@ -101,31 +101,31 @@ Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessari
 
 **Tabella: Veleni. (costo in Monete d'Oro)**
 
-| \rowcolor{gray!20}**Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
+| **Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
 | --- | --- | --- | --- | --- | --- |
 | Mistura Rossa | F | - | 13 | -1d6 TC/TS per 10 minuti | 10 |
-| \rowcolor{gray!20}Concentrato Viola | F | - | 15 | 2d6 Punti Ferita | 15 |
+| Concentrato Viola | F | - | 15 | 2d6 Punti Ferita | 15 |
 | Grasso di Toporagno Viola | C | 1 r | 13 | 2d12 Punti Ferita | 15 |
-| \rowcolor{gray!20}Nocciolo di Dennar | I | 1 r | 13 | -1d2 Forza, per 3gg | 15 |
+| Nocciolo di Dennar | I | 1 r | 13 | -1d2 Forza, per 3gg | 15 |
 | Succo di Ythis | I | 1 T | 14 | -1d2 Intelligenza, per 1g | 20 |
 | Bava fermentata di Lucos | F | - | 15 | 1d8 Punti Ferita | 25 |
-| \rowcolor{gray!20}Cenere di Corteccia Gialla | F | 6 r | 15 | Privo di sensi per 1d3 ore | 25 |
+| Cenere di Corteccia Gialla | F | 6 r | 15 | Privo di sensi per 1d3 ore | 25 |
 | Polline di Rosa di Omro | I | - | 15 | -1d3 Costituzione e Destrezza, per 1 ora | 25 |
-| \rowcolor{gray!20}Profumo di Ragmor | R | - | 16 | -1d3 Carisma, per 1 giorno | 30 |
+| Profumo di Ragmor | R | - | 16 | -1d3 Carisma, per 1 giorno | 30 |
 | Dita di Daraka | F | - | 17 | -1d6 Forza, per 1 ora | 35 |
-| \rowcolor{gray!20}Bacca Viola di Barsar | I | 1 r | 18 | Incapace di violenze per 3d8 ore | 40 |
+| Bacca Viola di Barsar | I | 1 r | 18 | Incapace di violenze per 3d8 ore | 40 |
 | Gelo blu | F | - | 18 | 3d6 Punti Ferita da freddo | 25 |
-| \rowcolor{gray!20}Fumi di Curna | R | - | 18 | -1d3 Saggezza | 40 |
+| Fumi di Curna | R | - | 18 | -1d3 Saggezza | 40 |
 | Fiocco bianco di Mucot | C | - | 20 | Dorme per 2d12 ore | 20 |
-| \rowcolor{gray!20}Lingua di Kreex | F | - | 20 | La ferita sanguina. +1 danno da sanguinamento. 1 uso nelle 24 ore. | 50 |
+| Lingua di Kreex | F | - | 20 | La ferita sanguina. +1 danno da sanguinamento. 1 uso nelle 24 ore. | 50 |
 | Muschio Giallo | I | 1 r | 20 | la creatura guadagna una taglia. -2 Int e Sag. Durata 10 minuti | 50 |
-| \rowcolor{gray!20}Olio di Nabar | R-F | - | 20 | Confuso per 2d6 round | 50 |
+| Olio di Nabar | R-F | - | 20 | Confuso per 2d6 round | 50 |
 | Veleno di Ottalm | F | - | 20 | Morte o -1d2 Costituzione permanente | 50 |
-| \rowcolor{gray!20}Bacche Azzurre di fosso | I | 1 T | 21 | -1d3 Intelligenza e Saggezza per 6 ore | 55 |
+| Bacche Azzurre di fosso | I | 1 T | 21 | -1d3 Intelligenza e Saggezza per 6 ore | 55 |
 | Erba puntuta rosa | I | 1 r | 22 | -1d6 Destrezza, per 1 ora | 60 |
-| \rowcolor{gray!20}Pelle di Rospo Azzurro | C | 10 r | 22 | Paralizzato per 1d6 turni | 60 |
+| Pelle di Rospo Azzurro | C | 10 r | 22 | Paralizzato per 1d6 turni | 60 |
 | Fegato di Toporagno Viola | I | 1 ora | 25 | 2d6 di danno a Saggezza e Intelligenza. Permanente | 75 |
-| \rowcolor{gray!20}Veleno di Serpe del Sangue | F | - | 25 | Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni | 75 |
+| Veleno di Serpe del Sangue | F | - | 25 | Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni | 75 |
 | Sangue di Thrun | C | - | 26 | -1d3 Costituzione | 80 |
 
 **Applicazione**: **I**(ngestione), **F**(erimento), **C**(ontatto), **R**(espirazione).
@@ -136,52 +136,52 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Tabella: Pozioni Naturali (costo in monete d'oro)**
 
-| \rowcolor{gray!20}**Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
+| **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Wickalim | I | 1 ora | 15 | Cura 2 Punti Ferita | 9 | 5 |
-| \rowcolor{gray!20}Darsirion | C | 1 r | 25 | Cura 1d4 Punti Ferita | 9 | 5 |
+| Darsirion | C | 1 r | 25 | Cura 1d4 Punti Ferita | 9 | 5 |
 | Harfy | C | I | 12 | -1 al sanguinamento | 10 | 3 |
-| \rowcolor{gray!20}Barannie | I | 10 r | 15 | Rimuove nausea | 11 | 3 |
+| Barannie | I | 10 r | 15 | Rimuove nausea | 11 | 3 |
 | Estratto radice Gisenosa | I | 3 T | 15 | Cura tosse e raffreddore | 11 | 3 |
-| \rowcolor{gray!20}Klagul | C | 1 T | 20 | Pulisce i denti | 11 | 2 |
+| Klagul | C | 1 T | 20 | Pulisce i denti | 11 | 2 |
 | Nelthalion | I | I | 15 | Fa vomitare | 11 | 1 |
-| \rowcolor{gray!20}Delrean | C | 1 r | 15 | Allontana insetti per 1 giorno | 12 | 2 |
+| Delrean | C | 1 r | 15 | Allontana insetti per 1 giorno | 12 | 2 |
 | Uovo di Urk | I | 1 T | 12 | 1 giorno di cibo | 12 | 1 |
-| \rowcolor{gray!20}Delrean Plus | I | 1 r | 18 | Allontana insetti per 3 giorni | 13 | 5 |
+| Delrean Plus | I | 1 r | 18 | Allontana insetti per 3 giorni | 13 | 5 |
 | Corteccia di Aklent | I | 1 T | 10 | La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno | 13 | 1 |
-| \rowcolor{gray!20}Lievito Muschio Bianco | I | 10 r | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
+| Lievito Muschio Bianco | I | 10 r | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
 | Harfindar | I | 1 T | 15 | Fa abortire | 14 | 3 |
-| \rowcolor{gray!20}Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività | 15 | 8 |
+| Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività | 15 | 8 |
 | Bacche di Ljust | I | 1 r | 16 | Preso la sera recuperi il doppio dei PF, minimo 4 | 15 | 10 |
-| \rowcolor{gray!20}Mirenna | I | 1 r | 20 | Cura 5 Punti Ferita | 16 | 30 |
+| Mirenna | I | 1 r | 20 | Cura 5 Punti Ferita | 16 | 30 |
 | Klynkyx | C | 1 ora | 15 | Fa cadere tutti i capelli per 1d6+4 gg | 16 | 4 |
-| \rowcolor{gray!20}Miscela 31 | I | 1 T | 20 | La cavalcatura è estremamente resistente. +4 ore di galoppo al giorno | 17 | 15 |
+| Miscela 31 | I | 1 T | 20 | La cavalcatura è estremamente resistente. +4 ore di galoppo al giorno | 17 | 15 |
 | Culcoa | C | 1 r | 16 | Recuperi 2d6 da danno da fuoco | 18 | 8 |
-| \rowcolor{gray!20}Jojopo | C | 1 r | 15 | Resistenza a Freddo per 1 ora | 18 | 45 |
+| Jojopo | C | 1 r | 15 | Resistenza a Freddo per 1 ora | 18 | 45 |
 | Silea | C | 5 r | 15 | Cura 1d6+3 Punti Ferita | 18 | 50 |
-| \rowcolor{gray!20}Draaf | C | 1 r | 20 | Cura 1d8 Punti Ferita | 19 | 50 |
+| Draaf | C | 1 r | 20 | Cura 1d8 Punti Ferita | 19 | 50 |
 | Estratto di Bacca Illa | I | 1 r | 15 | +2 Iniziativa, +2 Destrezza, -1d6 Tiro Salvezza su Volontà, per 1 minuto | 19 | 15 |
-| \rowcolor{gray!20}Petali di Lisbeth | I | 1 T | 15 | +2 Intelligenza, -2 Destrezza per 10 minuti | 19 | 20 |
+| Petali di Lisbeth | I | 1 T | 15 | +2 Intelligenza, -2 Destrezza per 10 minuti | 19 | 20 |
 | Kelventare | I | 2 r | 28 | Recuperi 2d6 Punti Ferita | 20 | 100 |
-| \rowcolor{gray!20}Garioe | I | 1 r | 25 | Cura 2d6 Punti Ferita | 20 | 95 |
+| Garioe | I | 1 r | 25 | Cura 2d6 Punti Ferita | 20 | 95 |
 | Yajeth | I | 1 T | 20 | Cura 2d8 Punti Ferita | 20 | 100 |
-| \rowcolor{gray!20}Corteccia Dagmather | R | 1 r | 25 | Rimuove un livello di Affaticamento | 21 | 15 |
+| Corteccia Dagmather | R | 1 r | 25 | Rimuove un livello di Affaticamento | 21 | 15 |
 | Radice di Kathaus | R | 1 r | 20 | +2 Forza e Destrezza per 1 ora | 21 | 100 |
-| \rowcolor{gray!20}Klandor | I | I | 15 | Rimuove paralisi. Aumenta di 1 il livello di affaticamento | 22 | 18 |
+| Klandor | I | I | 15 | Rimuove paralisi. Aumenta di 1 il livello di affaticamento | 22 | 18 |
 | Eldrin'tail | I | 1 r | 15 | Concede un nuovo Tiro Salvezza su Veleni | 22 | 18 |
-| \rowcolor{gray!20}Attarna | I | 1 T | 20 | Concede un nuovo Tiro Salvezza per Malattie con un +1d6 | 22 | 50 |
+| Attarna | I | 1 T | 20 | Concede un nuovo Tiro Salvezza per Malattie con un +1d6 | 22 | 50 |
 | Lingua Rossa di Xabax | C | 1 T | 20 | Cura 2d6 Punti Ferita ma se c'è malattia o veleno tenta la rimozione causando 2d6 PF di danno | 23 | 13 |
-| \rowcolor{gray!20}Arduur | I | 1 r | 25 | Rimuove Veleni | 24 | 75 |
+| Arduur | I | 1 r | 25 | Rimuove Veleni | 24 | 75 |
 | Arksun | C | 1 T | 25 | Cura 1d6 PF a Turno per 3 turni | 24 | 75 |
-| \rowcolor{gray!20}Uscaboo | R | 1 T | 25 | Rimuove cecità | 25 | 125 |
+| Uscaboo | R | 1 T | 25 | Rimuove cecità | 25 | 125 |
 | Melandrir | I | 1 r | 15 | Concede un nuovo Tiro Salvezza per Malattie con +4 | 26 | 100 |
-| \rowcolor{gray!20}Gylvert | I | 10 r | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
+| Gylvert | I | 10 r | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
 | Callynthine | C | 1 ora | 24 | Rinsalda le fratture, cura 2d8+8 PF | 28 | 200 |
-| \rowcolor{gray!20}Gelfnus | I | 5 r | 28 | Cura 3d8+3 Punti Ferita, rende Affaticato | 28 | 150 |
+| Gelfnus | I | 5 r | 28 | Cura 3d8+3 Punti Ferita, rende Affaticato | 28 | 150 |
 | Polline di Rosa Verde | R | 3 T | 25 | Recuperi 2d4 danni Intelligenza e Saggezza | 29 | 350 |
-| \rowcolor{gray!20}Muschio argentato | I | I | 25 | Rimuove Malattie magiche | 30 | 250 |
+| Muschio argentato | I | I | 25 | Rimuove Malattie magiche | 30 | 250 |
 | Nazamuse | I | I | 30 | Rimuove Veleni e Malattie naturali | 32 | 175 |
-| \rowcolor{gray!20}Bacio di Ljust | C | 1 r | 35 | Cura 100 Punti Ferita | 34 | 500 |
+| Bacio di Ljust | C | 1 r | 35 | Cura 100 Punti Ferita | 34 | 500 |
 | Estratto 100 erbe | I | I | 24 | Rimuove Cecità, Sordità, Paralisi, Veleno | 35 | 150 |
 
 ### Note sui Veleni e Pozioni
@@ -296,31 +296,31 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 **Tabella: delle pozioni generiche. Costo in Monete d'Oro.**
 
-| \rowcolor{gray!20}**Nome Pozione** | **Effetto** | **Costo** | **Appl.** |
+| **Nome Pozione** | **Effetto** | **Costo** | **Appl.** |
 | --- | --- | --- | --- |
 | Cura | cura 1d8+1 Punti Ferita | 50 | I |
-| \rowcolor{gray!20}Cura potenziata | cura 3d8+3 Punti Ferita | 125 | I |
+| Cura potenziata | cura 3d8+3 Punti Ferita | 125 | I |
 | Cura maggiore | cura 3d10+15 Punti Ferita | 300 | I |
-| \rowcolor{gray!20}Indebolente | -2 TC. TS DC 15 Tempra per annullare gli effetti | 35 | F |
+| Indebolente | -2 TC. TS DC 15 Tempra per annullare gli effetti | 35 | F |
 | Indebolente potenziata | -1d6 TC. TS DC 18 Tempra per annullare gli effetti | 50 | F/I |
-| \rowcolor{gray!20}Veleno | 2d6+2 di danno. TS DC 15 Tempra per dimezzare | 30 | I/F |
+| Veleno | 2d6+2 di danno. TS DC 15 Tempra per dimezzare | 30 | I/F |
 | Veleno potenziata | 2d8+4 di danno. TS DC 18 Tempra per dimezzare | 50 | F |
-| \rowcolor{gray!20}Veleno maggiore | 4d10+8 di danno. TS DC 24 Tempra per dimezzare | 125 | F |
+| Veleno maggiore | 4d10+8 di danno. TS DC 24 Tempra per dimezzare | 125 | F |
 | Rimuovi Veleno | concede un nuovo TS con +1d6 | 75 | I |
-| \rowcolor{gray!20}Pozione Generica* | vedi Creare Pozioni (pag. ) | Lv*Lv*50 | I |
+| Pozione Generica* | vedi Creare Pozioni  | Lv*Lv*50 | I |
 
 ## Opzionale - Droghe 
 
-| \rowcolor{gray!20}**Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
+| **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Foglie fermentate di Luside | I | 1 T | 17 | +4 Carisma ed Intelligenza per 1d4 ore | 17 | 5 mo |
-| \rowcolor{gray!20}Ferpillon | I | 1 r | 20 | Fa dormire per 24 ore | 15 | 50 mo |
+| Ferpillon | I | 1 r | 20 | Fa dormire per 24 ore | 15 | 50 mo |
 | Unto Grigio | I | 1 r | 24 | Contrasta DC 25 effetti Lista Ammaliamento | 19 | 80 mo |
-| \rowcolor{gray!20}Cenere di Arpasur | R | 1 r | 20 | Rimuove 2 livelli di affaticato | 16 | 10 mo |
+| Cenere di Arpasur | R | 1 r | 20 | Rimuove 2 livelli di affaticato | 16 | 10 mo |
 | Estratto alcolico di Melzaa | I | 1 r | 20 | +2 For, +2 Des, -2 Sag. Per 1d4 ore | 16 | 25 mo |
-| \rowcolor{gray!20}Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 mo |
+| Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 mo |
 | Polline di Julnnaus | R | I | 20 | +3 Costituzione per 2 ore | 16 | 25 mo |
-| \rowcolor{gray!20}Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 mo |
+| Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 mo |
 
 **L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità in base alla sensibilità dei giocatori**.
 
@@ -351,9 +351,9 @@ Es. *Febbre Demoniaca minore*: 1 minuto, TS Tempra DC 18, 6 ore, 3 successi, -1 
 
 La Febbre Demoniaca minore costringe al Tiro Salvezza su Tempra a DC 18 dopo un solo minuto che la si è presa. Successivamente ogni 6 ore va rifatto il Tiro Salvezza e la malattia permane finché non si sono fatti almeno 3 successi consecutivi al TS. Ogni 6 ore il malato perde 1 punto di Costituzione e Saggezza.
 
-Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario superare i Tiri Salvezza richiesti oppure usare l'incantesimo di Rimuovi Malattie (pag. ).
+Per guarire da una malattia, non naturale, come quelle afflitte dai mostri è necessario superare i Tiri Salvezza richiesti oppure usare l'incantesimo di Rimuovi Malattie .
 
-Si effettua una prova di contrasto (pag. ) tra l'incantesimo Rimuovi Malattie e la DC della malattia.
+Si effettua una prova di contrasto  tra l'incantesimo Rimuovi Malattie e la DC della malattia.
 
 Se la DC della malattia non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
 
@@ -376,4 +376,5 @@ Esempi di Malattie:
 **Sangue Nero**: 10 minuti, TS Tempra 28, 12 ore, 1 successo, perdita metà Punti Ferita rimasti
 
 **Peste T**: 1 minuto, TS Tempra 30, 2 ore, 3 successi, esegui 3 successi consecutivi altrimenti vieni trasformato in uno zombi di pari GS. Si trasmette attraverso il contatto.
+
 ---

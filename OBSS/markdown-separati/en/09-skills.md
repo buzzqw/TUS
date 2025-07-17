@@ -20,40 +20,40 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 | {\textwidth}{>{\raggedright}l|c|c|c|c} |
 
-| \rowcolor{gray!20}**Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
+| **Profession** | **1pt** | **2pts** | **2pts** | **3pts** |
 | --- | --- | --- | --- | --- |
 | **Acolyte** | Occult | History/Geography | Arcana | Religion |
-| \rowcolor{gray!20}**Alchemist** | Appraise | Nature | Herbalism | Arcana |
+| **Alchemist** | Appraise | Nature | Herbalism | Arcana |
 | **App. wizard** | History/Geography | Occult | Myths/Legends | Arcana |
-| \rowcolor{gray!20}**Blacksmith** | First Aid | Appraise | Athletics | Craft |
+| **Blacksmith** | First Aid | Appraise | Athletics | Craft |
 | **Broker** | Perform | Local trad. | Sense Motive | Diplomacy |
-| \rowcolor{gray!20}**Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
+| **Caravan drv.** | Local trad. | Handle animals | Survival | Ride |
 | **Card player** | Sense Motive | Appraise | Perform | Deceive |
-| \rowcolor{gray!20}**Delinquent** | Survival | Ride | Appraise | Stealth |
+| **Delinquent** | Survival | Ride | Appraise | Stealth |
 | **Farmer** | Survival | Track | Handle animals | Nature |
-| \rowcolor{gray!20}**Fisherman** | Use rope | Swim | Survival | Nature |
+| **Fisherman** | Use rope | Swim | Survival | Nature |
 | **Goldsmith** | Local trad. | Sleight Hand | Appraise | Forgery |
-| \rowcolor{gray!20}**Guard** | Sense Motive | Knowledge Law | Ride | Intimidate |
+| **Guard** | Sense Motive | Knowledge Law | Ride | Intimidate |
 | **Guide** | Myths/Legends | Dungeon | Nature | Geography |
-| \rowcolor{gray!20}**Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
+| **Herald** | Local Trad. | Heraldry | Languages | Diplomacy |
 | **Herbalist** | Myths/Legends | Geography | Nature | Herbalism |
-| \rowcolor{gray!20}**Hunter** | Stealth | Track | Survival | Nature |
+| **Hunter** | Stealth | Track | Survival | Nature |
 | **Innkeeper** | First aid | Appraise | Sense Motive | Diplomacy |
-| \rowcolor{gray!20}**Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
+| **Librarian** | Nature/Geography | Local trad. | Religion/Arcana | History |
 | **Lumberjack** | Use Rope | Track | Nature | Survival |
-| \rowcolor{gray!20}**Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
+| **Medicine man** | Myths/Legends | Nature | Herbalism | First aid |
 | **Mercenary** | Sense Motive | Acrobatics | Intimidate | Athletics |
-| \rowcolor{gray!20}**Merchant** | Languages | Local Trad. | Deceive | Appraise |
+| **Merchant** | Languages | Local Trad. | Deceive | Appraise |
 | **Miner** | Use rope | First aid | Appraise | Dungeon |
-| \rowcolor{gray!20}**Monk** | Perform | First Aid | Nature | Religion |
+| **Monk** | Perform | First Aid | Nature | Religion |
 | **Nomad** | Nature | Herbalism | Handle Animals | Survival |
-| \rowcolor{gray!20}**Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
+| **Peasant** | Use Rope | Herbalism | Handle Animals | Nature |
 | **Performer** | Sense motive | Languages | Acrobatics | Perform |
-| \rowcolor{gray!20}**Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
+| **Pettifogger** | Appraise | Deceive | Sense Motive | Diplomacy |
 | **Pickpocket** | Disable Dev. | Escape Artist | Stealth | Sleight of Hand |
-| \rowcolor{gray!20}**Ranger** | Myths/Legends | Herbalism | Ride | Nature |
+| **Ranger** | Myths/Legends | Herbalism | Ride | Nature |
 | **Scribe** | Local Trad. | Forgery | Myths/Legends | Languages |
-| \rowcolor{gray!20}**Soldier** | Swim | Handle animals | Athletics | Ride |
+| **Soldier** | Swim | Handle animals | Athletics | Ride |
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
@@ -69,28 +69,28 @@ In agreement with the Narrator, it is also possible to change the order of Skill
 
 ### Skills, Intelligence, and Character Background
 
-At character creation, the player can decide to take a +1 to an already known Skill or take a new Skill, related to the character's story, at score 1.
+At character creation, the player can decide to take a +1 to an already known Skill or take a new Skill, related to the character' \*\*s story, at score 1.
 
 The character acquires a Skill at score 1 for each point of Intelligence greater than 2, and loses 1 point in a Skill for each point of Intelligence less than 0.
 
 The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuuild as a hobby, it could also be Strength.
 
->> **Profession ???**: Don't underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn't define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
+>> **Profession ???**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
 
 **Table: List of Skills and Related Ability Score for Use**
 
 	
 
-| \rowcolor{gray!20}**Strength** | **Dexterity** | **Intelligence** | **Wisdom** | **Charisma** |
+| **Strength** | **Dexterity** | **Intelligence** | **Wisdom** | **Charisma** |
 | --- | --- | --- | --- | --- |
 | Climb | Acrobatics | Arcana | Ride | Diplomacy |
-| \rowcolor{gray!20}Athletics | Escape Artist | Craft | *Awareness* | Perform |
+| Athletics | Escape Artist | Craft | *Awareness* | Perform |
 | Intimidate | Stealth | Knowledge | Handle animals | Deceive |
-| \rowcolor{gray!20}Swim | Sleight of Hand | Disable Device | Nature | Local traditions |
+| Swim | Sleight of Hand | Disable Device | Nature | Local traditions |
 | Use Rope | Herbalism | Sense Motive | |
-| \rowcolor{gray!20} |  | Forgery | First Aid | |
+|  |  | Forgery | First Aid | |
 |  | Appraise | Track | |
-| \rowcolor{gray!20} |  |  | Survival | |
+|  |  |  | Survival | |
 
 **Knowledge** must be specified on which subject it covers: Architecture and Engineering, Dungeon, Geography, Law, Languages (terrestrial or not), Myths and Legends, Nobility and Heraldry, Occult, Planes, Religion, History, Ancient Technology...
 
@@ -100,7 +100,7 @@ At each **level after the first**, distribute a number of points equal to half t
 
 ### Awareness
 
-A skill that all characters have is **Awareness**, i.e., the ability to perceive the environment around them. This skill has a fixed score equal to 1/3 of the character's level (rounded up) plus Wisdom. The character cannot assign points to this skill, but can choose certain Feats to raise its score.
+A skill that all characters have is **Awareness**, i.e., the ability to perceive the environment around them. This skill has a fixed score equal to 1/3 of the character' \*\*s level (rounded up) plus Wisdom. The character cannot assign points to this skill, but can choose certain Feats to raise its score.
 
 Players should ask questions, investigate, be curious, argue hypotheses, and discuss rather than just asking for an Awareness roll to find something.
 
@@ -114,7 +114,7 @@ To learn a new profession, at least 6 months must pass for 6 hours a day with so
 
 The Skills and their usual uses are summarized. The number of Actions necessary to perform the typical check is also indicated; more complex uses require more time and Actions.
 
-The Actions necessary for the check can vary depending on the character's ability and the complexity of the check.
+The Actions necessary for the check can vary depending on the character' \*\*s ability and the complexity of the check.
 
 In any case, always remember to carefully evaluate how the player declares to perform the actions to understand their duration and effects.
 
@@ -216,26 +216,26 @@ Jack Burton: I was born ready! (Big Trouble in Little China, Film 1986)
 
 ### Saving Throws
 
-**Saving Throws** (abbreviated as ST) are used when the character is subjected to an effort, whether physical endurance, mental resistance, or exceptional agility. The Saving Throw score is based on the chosen Feats. More physical Feats will tend to improve the character's resistance aspect, more athletic or attention-focused Feats will increase reflexes, and purely mental Feats will strengthen the character's will.
+**Saving Throws** (abbreviated as ST) are used when the character is subjected to an effort, whether physical endurance, mental resistance, or exceptional agility. The Saving Throw score is based on the chosen Feats. More physical Feats will tend to improve the character' \*\*s resistance aspect, more athletic or attention-focused Feats will increase reflexes, and purely mental Feats will strengthen the character' \*\*s will.
 
-The **Fortitude Saving Throw** indicates how much one can endure physical suffering or attacks against one's vitality and health. The **Constitution** score is added to the Fortitude Saving Throw value.
+The **Fortitude Saving Throw** indicates how much one can endure physical suffering or attacks against one' \*\*s vitality and health. The **Constitution** score is added to the Fortitude Saving Throw value.
 
 The **Will Saving Throw** indicates resistance against mental influence and other magical effects that seek to modify your free will in choices and actions. The **Wisdom** score is added to the Will Saving Throw value.
 
 The **Reflex Saving Throw** indicates how agile and ready you are to avoid obstacles or magic. The **Dexterity** score is added to the Reflex Saving Throw value.
 
-When a Saving Throw is requested, it means making a check on the required Active Proficiency, whether it's Will, Fortitude, or Reflex.
+When a Saving Throw is requested, it means making a check on the required Active Proficiency, whether it' \*\*s Will, Fortitude, or Reflex.
 The check is performed by rolling 3d6 + the value of the required Active Proficiency, which is the score in the Will, Reflex, or Fortitude Saving Throw + the value of the Ability Score linked to the Active Proficiency type (Wisdom, Dexterity, or Constitution) + Feats + magical bonuses (items that affect the Saving Throw) and various modifiers present.
 
-It's possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Narrator will tell you when a different modifier applies.
+It' \*\*s possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Narrator will tell you when a different modifier applies.
 
 ### Weapon Proficiency
 
 **Weapon Proficiency** (abbreviated as **WP**) indicates the ability and skill in using a weapon. This proficiency is directly reflected in checks to hit an opponent with weapons.
 
-The **Attack Roll for melee weapons** is resolved with a Weapon Proficiency (**WP**) + **Strength** check + any Feats + bonus from Weapon List + magic bonuses and modifiers against the opponent's Defense (Dexterity + armor + shield + modifiers).
+The **Attack Roll for melee weapons** is resolved with a Weapon Proficiency (**WP**) + **Strength** check + any Feats + bonus from Weapon List + magic bonuses and modifiers against the opponent' \*\*s Defense (Dexterity + armor + shield + modifiers).
 
-The **Attack Roll with ranged weapons** (bows, crossbows, throwing daggers, javelins, stones...) is resolved with a Weapon Proficiency (**WP**) + **Dexterity** check + bonus from Weapon List + any abilities, magic bonuses and modifiers against the opponent's Defense (Dexterity + armor + shield + modifiers).
+The **Attack Roll with ranged weapons** (bows, crossbows, throwing daggers, javelins, stones...) is resolved with a Weapon Proficiency (**WP**) + **Dexterity** check + bonus from Weapon List + any abilities, magic bonuses and modifiers against the opponent' \*\*s Defense (Dexterity + armor + shield + modifiers).
 
 When assigning a point to **WP**, it is necessary to specify which weapon group you take it in; if not declared, it is considered taken in the Simple Weapons group.
 Check the list Weapons by Homogeneous Type (p. ).
@@ -264,7 +264,7 @@ Using a **Shield without adequate proficiency** worsens the Attack Roll by 1, an
 
 Consider the type of adventure, whether you will always have access to or can easily obtain your *preferred* weapons.
 
-Also consider whether the type of enemies you will face may have resistances or not to the type of damage you cause. Creating an excellent archer when you're almost always facing skeletons is not a good idea.
+Also consider whether the type of enemies you will face may have resistances or not to the type of damage you cause. Creating an excellent archer when you' \*\*re almost always facing skeletons is not a good idea.
 
 ### Magic Proficiency
 
@@ -284,13 +284,13 @@ A Magic Proficiency score of 14 and having taken Magic Adept 4 times, with a 4 i
 
 ### Optional - Feats as Active Proficiencies
 
-The Narrator may grant, at the player's request, the ability to use the Active Proficiency point not to increase Magic or Weapon Proficiency, but to select a new Feat, respecting the requirements.
+The Narrator may grant, at the player' \*\*s request, the ability to use the Active Proficiency point not to increase Magic or Weapon Proficiency, but to select a new Feat, respecting the requirements.
 
 ### Base and Active Proficiency Scores
 
 Each point attributed to Base Proficiencies or Weapon or Magic Proficiency allows for a +1 in the related check (Checks, Attack Roll, Magic Proficiency)
 
->> **Tups reaches 4th level!**: Tups has reached 4th level! Here's how he distributed his Active Proficiency points.
+>> **Tups reaches 4th level!**: Tups has reached 4th level! Here' \*\*s how he distributed his Active Proficiency points.
 
 **1st level**: +1 Weapon Proficiency, Feat: Armor of the Devout (+2 Will, +1 Reflex, **Constitution**), The Patron is my Weapon (+1 Reflex, +1 Will, **Constitution**), Instinctive Knowledge (+2 Will, +1 Fortitude, **Wisdom**)
 

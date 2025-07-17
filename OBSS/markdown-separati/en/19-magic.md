@@ -1,6 +1,6 @@
 # Magic
 
-> The magic isn't in the pendulum, it's in the person using it. (NCIS)
+> The magic isn' \*\*t in the pendulum, it' \*\*s in the person using it. (NCIS)
 
 Thou shalt not suffer a witch to live. (Book of Exodus)(Always depending on your Traits...)
 
@@ -10,7 +10,7 @@ Magic permeates game worlds and its most common form is a spell. This chapter pr
 
 ## What is a Spell?
 
-A spell is a manifestation of a Patron's power. Each spell is the fruit of power and knowledge; the caster is a superior conduit who channels the power of Patrons. In casting a spell, a character composes gestures, words, and uses objects that do nothing but connect them to the source, the Patron who oversees that magic list.
+A spell is a manifestation of a Patron' \*\*s power. Each spell is the fruit of power and knowledge; the caster is a superior conduit who channels the power of Patrons. In casting a spell, a character composes gestures, words, and uses objects that do nothing but connect them to the source, the Patron who oversees that magic list.
 
 ## How to do magic! (In summary)
 
@@ -18,13 +18,13 @@ Your character must have invested a point in Magic Proficiency.
 
 Magic Proficiency allows you to have more Magic Points, more known spells, and thanks to the Magic Adept Feat, to make your spells harder to resist. A high Magic Proficiency score along with the Magic Adept Feat allows you to access higher level spells.
 
-Don't forget to look for ancient tomes and scrolls! Spells are a rare and precious commodity, don't miss the opportunity to find new ones and copy them into your Book of Magic.
+Don' \*\*t forget to look for ancient tomes and scrolls! Spells are a rare and precious commodity, don' \*\*t miss the opportunity to find new ones and copy them into your Book of Magic.
 
 ## The characteristics of spells
 
-The description of each spell begins with a block of information that includes the level, Magic Lists it belongs to, casting time, range, components, and duration of the spell. The rest of the description informs us of the spell's effect.
+The description of each spell begins with a block of information that includes the level, Magic Lists it belongs to, casting time, range, components, and duration of the spell. The rest of the description informs us of the spell' \*\*s effect.
 
-When a character casts any spell, the following basic rules apply regardless of the spell's effect.
+When a character casts any spell, the following basic rules apply regardless of the spell' \*\*s effect.
 
 ### Casting Time
 
@@ -45,7 +45,7 @@ Some spells can be cast as Reactions. These spells require a fraction of a secon
 Certain spells require more time to cast: rounds, minutes, or even hours.
 When you cast a spell with a casting time of 1 round, it means you spend an entire round formulating the spell and on the next round, using 1 Action, you cast the spell with the initiative you rolled at the beginning of the formulation.
 
-When the formulation lasts more than 1 round, you must spend 1 Action per round to continue the formulation. For those rounds, it's as if you need to maintain Concentration to determine any effects.
+When the formulation lasts more than 1 round, you must spend 1 Action per round to continue the formulation. For those rounds, it' \*\*s as if you need to maintain Concentration to determine any effects.
 
 ### Magic Lists
 
@@ -53,7 +53,7 @@ When the formulation lasts more than 1 round, you must spend 1 Action per round 
 
 The Lists presented here are those codified and taught in the few schools of magic.
 
-Magic Lists help describe spells; they don't have their own rules, although some rules may refer to these lists.
+Magic Lists help describe spells; they don' \*\*t have their own rules, although some rules may refer to these lists.
 
 - *Abjuration* concerns spells of a protective nature, although it also contains some for aggressive use. These spells create magical barriers, negate harmful effects, or banish creatures to other planes of existence.
 - *Water* are spells that act on the water and cold element and to a minimal extent also on healing.
@@ -62,11 +62,11 @@ Magic Lists help describe spells; they don't have their own rules, although some
 - *Animals and Plants* these are spells that act on animals and plants, natural or magical.
 - *Healing* concerns spells that allow the recovery of physical and mental energies, and nullify weaknesses and poisons.
 - *Divination* concerns spells that reveal information lost in time, forgotten, visions of the future, the location of hidden objects, the truth behind illusions, or images of distant people and places.
-- *Evocation* concerns spells that transport objects and creatures from one place to another. Some spells summon creatures or objects to the caster's side, while others allow the caster to teleport from one place to another. Some evocations create objects or effects out of nothing.
+- *Evocation* concerns spells that transport objects and creatures from one place to another. Some spells summon creatures or objects to the caster' \*\*s side, while others allow the caster to teleport from one place to another. Some evocations create objects or effects out of nothing.
 
 *Fire* The most dangerous spells are in here with everything needed to burn and incinerate.
 
-*Illusion* concerns spells that deceive the senses and minds of others. They make people see things that don't exist, not notice things that do exist, hear fake sounds, or remember things that never happened. Some illusions create spectral images that anyone can see.
+*Illusion* concerns spells that deceive the senses and minds of others. They make people see things that don' \*\*t exist, not notice things that do exist, hear fake sounds, or remember things that never happened. Some illusions create spectral images that anyone can see.
 - *Invocation* concerns spells that manipulate magical energy to produce a desired effect.
 - *Necromancy* concerns spells that manipulate the energies of life and death. These spells can confer an additional reserve of life force, drain life energy from another creature, create undead, or even bring the dead back to life (if allowed).
 
@@ -79,7 +79,7 @@ Magic Lists help describe spells; they don't have their own rules, although some
 
 The target of a spell must be within the range of the spell. For a spell like Arcane dart, the target is a creature. For a spell like fireball, the target is the point in space from which the sphere of fire explodes. Most spells have a range expressed in meters. Some spells can only target a creature (including yourself) with whom you are in physical contact. Other spells, like the shield spell, only act on you: these spells have a range of *personal*. A spell that has an area of effect of *an ally* can also be cast on yourself.
 
-Spells that create cones or lines of effect that originate from you also have personal range, indicating that you are the point of origin of the spell's effect (see *Areas of Effect* later in this chapter).
+Spells that create cones or lines of effect that originate from you also have personal range, indicating that you are the point of origin of the spell' \*\*s effect (see *Areas of Effect* later in this chapter).
 
 ### Casting Spells in Armor
 
@@ -89,7 +89,7 @@ Given the mental concentration and precise gestures required, armor distracts an
 
 This rule is proposed for managing casters in armor:
 
-- This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster's hand. No Magic Checks are required due to wearing armor.
+- This option provides that all spells cast by the caster become Touch Range, meaning they can only be discharged through the caster' \*\*s hand. No Magic Checks are required due to wearing armor.
 
 ### Duration
 
@@ -120,7 +120,7 @@ If you drop to zero or below zero Hit Points, you lose half of your remaining Ma
 
 ### Targets
 
-A normal spell requires you to choose one or more targets to be affected by its magic. The spell description tells you whether the spell targets creatures, objects, or a point of origin to generate an area of effect. Unless the spell has a perceptible effect, a creature might never know it was the target of a spell. An effect like crackling lightning is obvious, but a more subtle effect, like attempting to read a creature's thoughts, usually goes unnoticed unless the spell says otherwise.
+A normal spell requires you to choose one or more targets to be affected by its magic. The spell description tells you whether the spell targets creatures, objects, or a point of origin to generate an area of effect. Unless the spell has a perceptible effect, a creature might never know it was the target of a spell. An effect like crackling lightning is obvious, but a more subtle effect, like attempting to read a creature' \*\*s thoughts, usually goes unnoticed unless the spell says otherwise.
 
 Casting a spell is an action that does not go unnoticed. A Stealth check at difficulty 15 or casting the spell as if you were Distracted allows you to conceal the casting, if it does not happen right in front of the observer.
 
@@ -136,15 +136,15 @@ If a spell targets a creature of your choice or an ally, you can choose yourself
 
 Spells like Heat Wave and Cone of Cold cover an area, allowing them to hit multiple creatures at once.
 
-A spell's description specifies its area of effect, which usually falls into one of five shapes: cylinder, cone, cube, line, or sphere. Each area of effect has a point of origin, a location from which the spell's energy manifests. The rules for each shape specify how to position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or object. The point of origin must always be valid.
+A spell' \*\*s description specifies its area of effect, which usually falls into one of five shapes: cylinder, cone, cube, line, or sphere. Each area of effect has a point of origin, a location from which the spell' \*\*s energy manifests. The rules for each shape specify how to position its point of origin. Typically, a point of origin is a point in space, but some spells have an area whose origin is a creature or object. The point of origin must always be valid.
 
-- ***Cylinder***: the point of origin of a cylinder is the center of a circle of specific radius as indicated in the spell description. The energy in a cylinder expands in a straight line from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell's effect then goes from bottom to top or top to bottom to a distance equal to the height of the cylinder. The cylinder's point of origin is included in its area of effect.
-- ***Cone***: a cone extends in a direction of your choice from its point of origin. The width of a cone at a given point along its length is equal to the distance of that point from the point of origin. A cone's area of effect specifies its maximum length. The cone's point of origin is not included in its area of effect unless you decide otherwise.
+- ***Cylinder***: the point of origin of a cylinder is the center of a circle of specific radius as indicated in the spell description. The energy in a cylinder expands in a straight line from the point of origin to the perimeter of the circle, forming the base of the cylinder. The spell' \*\*s effect then goes from bottom to top or top to bottom to a distance equal to the height of the cylinder. The cylinder' \*\*s point of origin is included in its area of effect.
+- ***Cone***: a cone extends in a direction of your choice from its point of origin. The width of a cone at a given point along its length is equal to the distance of that point from the point of origin. A cone' \*\*s area of effect specifies its maximum length. The cone' \*\*s point of origin is not included in its area of effect unless you decide otherwise.
 
 For example, a 9-meter Cone of Cold is 9 meters wide at the end and extends 9 meters from the point of origin; at 3 meters from the point of origin, it is 3 meters wide.
-- ***Cube***: you select the point of origin of a corner of the cube. The dimensions of the cube are expressed as the length of each of its edges. The cube's point of origin is not included in its area of effect, unless you decide otherwise.
+- ***Cube***: you select the point of origin of a corner of the cube. The dimensions of the cube are expressed as the length of each of its edges. The cube' \*\*s point of origin is not included in its area of effect, unless you decide otherwise.
 - ***Line***: a line extends from its point of origin in a straight path for its entire length and covers an area defined by its width. The point of origin of the line is not included in its area of effect, unless you decide otherwise. A line, unless specified otherwise, is one square wide.
-- ***Sphere***: you select the point of origin of a sphere, which must be valid (see Range and Targets), and the sphere will extend from that point until it encounters an insurmountable obstacle or its dimension expressed in radius. The size of the sphere is indicated as a radius in meters that extends from that point. The sphere's point of origin is included in its area of effect.
+- ***Sphere***: you select the point of origin of a sphere, which must be valid (see Range and Targets), and the sphere will extend from that point until it encounters an insurmountable obstacle or its dimension expressed in radius. The size of the sphere is indicated as a radius in meters that extends from that point. The sphere' \*\*s point of origin is included in its area of effect.
 
 A fireball that is generated in a 9x9 m room will take a good part of it, and in a 6x6 m room it will fill it all. In a 3x3 m room, if it has a way to exit through a door or window, it will continue its explosion until it reaches the 6 meter radius. A fireball in a 3x3 m corridor will saturate it for 6 meters forward and backward from the point of origin.
 
@@ -168,7 +168,7 @@ This modifier is called the **ability modifier for spells**.
 - When the character assigns the first point of Magic Proficiency, they **know** (are present) in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
 - Each day, after resting, the character **learns** from his Tome of Magic a number of spells equal to Magic Proficiency/2 (minimum 1) + spell ability modifier + Magic Adept.
 - When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about Magic Adept).
-- The number of spells that can be cast daily depends on the caster's capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
+- The number of spells that can be cast daily depends on the caster' \*\*s capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
 - A Follower adds +1d6 to Magic Checks for spells from lists favored by their Patron. Your spells can use one of the energy forms preferred by your Patron.
 - A Devotee adds +1d6 to Magic Checks for spells from lists favored by their Patron and can ignore one die rolled in the Magic Check. Your spells use one of the energy forms preferred by your Patron.
 - The term **learned** means a spell present in the Spellbook that has been memorized and can be cast when desired.
@@ -223,24 +223,25 @@ If the Magic Check has had at least one Magic Critical Failure (three 1 or very 
 **Table: Magic Critical Failure Effects**
 
 | **3d6** | **Effect** |
+|---|---|
 | --- | --- |
-| \rowcolor{gray!20}1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check |
+| 1 | For 1 day you are no longer able to channel magical energies. You cannot cast spells unless making a magic Critical Success in the Magic Check |
 | 2 | You increase the Fatigued condition by 2 levels, up to a maximum of Fatigued 5 |
-| \rowcolor{gray!20}3 | You manifest a minor bodily modification |
+| 3 | You manifest a minor bodily modification |
 | 4 | You are hit by a roaring column of Light and Void. In a 6-meter radius centered on you, anyone must make a Reflex Saving Throw DC 15 to halve or take 3d10 force damage that cannot be resisted |
-| \rowcolor{gray!20}5 | For 3 rounds you are under the influence of the Confusion spell |
+| 5 | For 3 rounds you are under the influence of the Confusion spell |
 | 6 | For 1 minute you are no longer able to concentrate and speak in rhyme |
-| \rowcolor{gray!20}7 | You are teleported 3d10 meters in a random direction |
+| 7 | You are teleported 3d10 meters in a random direction |
 | 8 | You become Invisible and paralyzed for 6 rounds |
-| \rowcolor{gray!20}9 | Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds |
+| 9 | Only you are wrapped in a curtain of impenetrable magical darkness for 6 rounds |
 | 10 | You cannot speak well, you are stuttering. Every spell casting forces you to pass a Magic Check. Duration 3 rounds |
-| \rowcolor{gray!20}11 | You manifest the Grease spell under your feet |
+| 11 | You manifest the Grease spell under your feet |
 | 12 | The next spell you cast has effects minimized if possible |
-| \rowcolor{gray!20}13 | Your heartbeat is like the beat of a drum, it can be heard within 36 meters |
+| 13 | Your heartbeat is like the beat of a drum, it can be heard within 36 meters |
 | 14 | All creatures within a 36-meter radius know exactly where you are and what you were trying to do |
-| \rowcolor{gray!20}15 | All creatures in a 9-meter radius sphere centered on you take 1d10 Void damage |
+| 15 | All creatures in a 9-meter radius sphere centered on you take 1d10 Void damage |
 | 16 | You gain 2d6 Magic Points |
-| \rowcolor{gray!20}17 | An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters |
+| 17 | An anvil falls, 3d6 damage Reflex Saving Throw DC 15 to halve, on a random creature, excluding you, within six meters |
 | 18 | Creatures, excluding you, within a 6-meter radius from you take 3d10 unresistable force damage |
 
 ## Magic Points
@@ -258,13 +259,13 @@ Magic Points are all recovered with 8 hours of rest.
 
 **Table: Magic Proficiency (MProv) and Magic Points (MP)**
 
-| \rowcolor{gray!20}**MProv** | **MP** | **MProv** | **MP** | **MProv** | **MP** |
+| **MProv** | **MP** | **MProv** | **MP** | **MProv** | **MP** |
 | 1 | 4 | 8 | 28 | 15 | 53 |
-| \rowcolor{gray!20}2 | 7 | 9 | 32 | 16 | 56 |
+| 2 | 7 | 9 | 32 | 16 | 56 |
 | 3 | 11 | 10 | 35 | 17 | 60 |
-| \rowcolor{gray!20}4 | 14 | 11 | 39 | 18 | 63 |
+| 4 | 14 | 11 | 39 | 18 | 63 |
 | 5 | 18 | 12 | 42 | 19 | 67 |
-| \rowcolor{gray!20}6 | 21 | 13 | 46 | 20 | 70 |
+| 6 | 21 | 13 | 46 | 20 | 70 |
 | 7 | 25 | 14 | 49 | 20+ | prev.+ 4 |
 
 Magic Point = (Magic Proficiency × 3) + (Magic Proficiency / 2, rounded up) + spell attribute modifier.
@@ -301,7 +302,7 @@ The magic system can become unbalanced by always abusing the same spells. To lim
 
 If Patrons are the source of magic, it is only the application of ancient rites and formulas that allows this raw energy to manifest in a form and expression that we call a spell.
 
-Every user of magic has one or more **Spellbooks**; don't just think of a large ancient tome bound in leather, different cultures have developed over time the ability to inscribe spell runes on cards, staves, stone slabs, tattoos... make your choice when you create the character.
+Every user of magic has one or more **Spellbooks**; don' \*\*t just think of a large ancient tome bound in leather, different cultures have developed over time the ability to inscribe spell runes on cards, staves, stone slabs, tattoos... make your choice when you create the character.
 This choice will not prevent you from copying spells from differently made **Spellbooks**; it will always be easy for you (Arcana check DC 12) to recognize if you are facing a Spellbook of some kind.
 
 A new character with Magic Proficiency 1 will have a Spellbook with a certain list of spells. In this Spellbook are present a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells also equal to the same modifier, with a minimum of 4.
@@ -336,7 +337,7 @@ The spellcaster can also study spells from multiple Spellbooks..
 
 Several spells must be hurled and hit an adversary to work.
 
-When the spell tells you to make a *Spell attack roll* or *ranged spell attack*, you must make an Attack Roll against the adversary's Defense.
+When the spell tells you to make a *Spell attack roll* or *ranged spell attack*, you must make an Attack Roll against the adversary' \*\*s Defense.
 
 This Attack Roll, whether in melee or at range, is made with 3d6 + **Magic Proficiency** + **Ability modifier for spells** + **Feats** and **various modifiers**.
 
@@ -463,7 +464,7 @@ The damage caused by **Void** is half cold and half negative energy, any protect
 
 Being Immune or having a Resistance to Light or Void does not make one immune or resistant in turn to Fire/Positive Energy or Cold/Negative Energy damage.
 
-Only **negative energy** damages the living and heals the undead, only **positive energy** damages the undead but does not heal the living (at the Narrator's discretion, exposure for one round could be equivalent to a Lesser Restoration spell), see also Plane descriptions. A target takes full damage from Light or Void if it has no inherent resistances.
+Only **negative energy** damages the living and heals the undead, only **positive energy** damages the undead but does not heal the living (at the Narrator' \*\*s discretion, exposure for one round could be equivalent to a Lesser Restoration spell), see also Plane descriptions. A target takes full damage from Light or Void if it has no inherent resistances.
 
 A special case is **Curative positive energy** which heals the living and damages the undead. This energy is that of Laying on Hands, Channeling energy, and Cure spells.
 
@@ -487,7 +488,7 @@ The indicated capabilities can be activated if with the previous Actions the spe
 
 **Enchantment List3: Distraction.** When a creature you can observe within 9 meters of you makes an attack with weapons or magic, you can use a Reaction to distract it until the end of the round. The creature has -2 to the Attack Roll.
 
-**4: Greater distraction.** When a creature you can observe within 9 meters of you makes an attack with weapons or magic, you can use a Reaction to distract it until the end of the round. Roll 1d6, if the result is 3-4-5 the creature has -2 to the Attack Roll, if the result is 6 the target of the creature's attack becomes random among hittable targets.
+**4: Greater distraction.** When a creature you can observe within 9 meters of you makes an attack with weapons or magic, you can use a Reaction to distract it until the end of the round. Roll 1d6, if the result is 3-4-5 the creature has -2 to the Attack Roll, if the result is 6 the target of the creature' \*\*s attack becomes random among hittable targets.
 
 ***Animals and Plants List*3: Bark.** Using an Immediate Action you make your skin harder and more resistant. You have a damage reduction equal to 2 until the beginning of your next round.
 
@@ -541,11 +542,12 @@ The indicated capabilities can be activated if with the previous Actions the spe
 
 ## About OBSS and the size of spells
 
-Let's start with an assumption: in OBSS a medium creature occupies a space of $(1*1)\si{m^}$ while in 5e the same creature occupies $(1.5*1.5)\si{m{^2$ (2.25\si{m{^2).
+Let' \*\*s start with an assumption: in OBSS a medium creature occupies a space of $(1*1)\si{m^}$ while in 5e the same creature occupies $(1.5*1.5)\si{m{^2$ (2.25\si{m{^2).
 
 A Fireball acts in a 6-meter radius, that is, it *occupies* ($6*6*\pi$)\si{m^}, in this space there can fit *about 110* creatures in OBSS and 50 medium creatures in 5e!
 
 Doing the calculations, the Fireball should have a radius of 4 meters to influence the same number of creatures!
 
 If this factor influences your game too much, reduce the radii of explosions and the lengths of cones by half ($r-r/2$).
+
 ---

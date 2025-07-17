@@ -33,7 +33,7 @@ Nelle pagine seguenti troverete le regole e tabelle per attribuire i tesori ai n
 
 Le monete in possesso di mostri e creature selvagge non saranno certo fior di conio e saranno probabilmente segnate da morsi o bave appiccicose. Monete invece trovate nei tesori o in fondo a qualche tana potrebbero essere di altri regni, se non mondi.. ed in quel caso quello che li fa valere è lo stretto valore metallurgico. 10 grammi di oro sono sempre 10 grammi di oro anche se su una faccia della moneta c'è un fiore ed in un altra un castello.
 
-Usate la Tabella Valore delle gemme (pag. ) per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
+Usate la Tabella Valore delle gemme  per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
 
 **Gemme**: Anche se potete assegnare qualsiasi valore ad una gemma, alcune possono valere di più delle altre. Utilizzate le categorie di valore qui sotto (e le pietre preziose associate) come guida di riferimento quando assegnate i valori alle pietre preziose. Solitamente le gemme vengono vendute ed acquistate a valore pieno.
 
@@ -168,47 +168,47 @@ Quando è indicata una percentuale significa che è necessario fare uguale o men
 
 Es. una creatura è segnata come *Tesoro CT* **F** significa che nella sua tana, nascondiglio, ci sarà il 10\% di trovare 3d6 monete l'argento, il 40\% di trovare 1d6 monete d'oro ed 5 volte il 30\% di trovare un oggetto magici che non siano armi.
 
-Consultate poi la Tabella Tipologia Oggetto magico (pag. ) per tirare e scoprire quale oggetti magici aveva la creatura.
+Consultate poi la Tabella Tipologia Oggetto magico  per tirare e scoprire quale oggetti magici aveva la creatura.
 
-| {\textwidth}{>{\bfseries}l|> |
+
 	
-| \rowcolor{gray!20}	**Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
+| 	**Tesori da tana o nascondigli di creature** |  |  |  |  |  |  | |
 | --- | --- | --- | --- | --- | --- | --- |
-| \rowcolor{gray!20}CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
+| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
 | x1000 | x1000 | x1000 | x100 |  |  | |
-| \rowcolor{gray!20}A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
+| A | 1d3, 25\% | 2d10, 30\% | 1d6, 40\% | 3d6, 35\% | 1d4, 60\% | 2d6, 50\% | 3 qualsiasi, 30\% |
 | B | 1d6, 50\% | 1d3, 25\% | 2d10, 25\% | 1d10, 25\% | 1d8, 30\% | 1d4, 20\% | Armature o armi, 10\% |
-| \rowcolor{gray!20}C | 1d10, 20\% | 1d6, 30\% | - | 1d6, 10\% | 1d6, 25\% | 1d3, 20\% | 2 qualsiasi, 10\% |
+| C | 1d10, 20\% | 1d6, 30\% | - | 1d6, 10\% | 1d6, 25\% | 1d3, 20\% | 2 qualsiasi, 10\% |
 | D | 1d6, 10\% | 1d10, 15\% | 1d3, 50\% | 1d6, 15\% | 1d10, 30\% | 1d6, 25\% | 2 qualsiasi, 15\%, + 1 pozione |
-| \rowcolor{gray!20}E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 qualsiasi, 25\%, +1 pergamena |
+| E | 1d6, 5\% | 1d10, 25\% | 1d4, 25\% | 3d6, 25\% | 1d12, 15\% | 1d6, 10\% | 3 qualsiasi, 25\%, +1 pergamena |
 | F | - | 3d6, 10\% | 1d6, 40\% | 1d4, 15\% | 2d10, 20\% | 1d8, 10\% | 5 qualsiasi, non armi 30\% |
-| \rowcolor{gray!20}G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 qualsiasi 35\% |
+| G | - | - | 2d10, 50\% | 1d10, 50\% | 3d6, 30\% | 1d6, 25\% | 5 qualsiasi 35\% |
 | H | 3d6, 25\% | 2d10, 40\% | 2d10, 55\% | 1d8, 40\% | 3d10, 50\% | 2d10, 50\% | 6 qualsiasi 15\% |
-| \rowcolor{gray!20}I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
-| {\textwidth}{>{\bfseries}l|> |
+| I | - | - | - | 1d6, 30\% | 2d6, 55\% | 2d4, 50\% | 1 qualsiasi 15\% |
+
 	
-| \rowcolor{gray!20}**Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
-| \rowcolor{gray!20}CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
+| **Tesori Individuali, piccole tane, zaini e borse** |  |  |  |  |  |  | |
+| CT | **mr** | **ma** | **mo** | **mp** | **Gemme** | **Gioielli** | **Ogg. magici** |
 | J | 3d8 | - | - | - | - | - | - |
-| \rowcolor{gray!20}K | - | 3d6 | - | - | - | - | - |
+| K | - | 3d6 | - | - | - | - | - |
 | L | - | - | - | 2d6 | - | - | - |
-| \rowcolor{gray!20}M | - | - | 2d4 | - | - | - | - |
+| M | - | - | 2d4 | - | - | - | - |
 | N | - | - | - | 1d6 | - | - | - |
-| \rowcolor{gray!20}O | 1d4*10 | 1d3*10 | - | - | - | - | - |
+| O | 1d4*10 | 1d3*10 | - | - | - | - | - |
 | P | - | 1d6*10 | - | 3d6 | - | - | - |
-| \rowcolor{gray!20}Q | - | - | - | - | 1d4 | - | - |
+| Q | - | - | - | - | 1d4 | - | - |
 | R | - | - | 2d10 | 1d6*10 | 2d4 | 1d3 | - |
-| \rowcolor{gray!20}S | - | - | - | - | - | - | 1d8 pozioni |
+| S | - | - | - | - | - | - | 1d8 pozioni |
 | T | - | - | - | - | - | - | 1d4 pergamene |
-| \rowcolor{gray!20}U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 qualsiasi, 70\% |
+| U | - | - | - | - | 2d8, 90\% | 1d6, 80\% | 1 qualsiasi, 70\% |
 | V | - | - | - | - | - | - | 2 qualsiasi |
-| \rowcolor{gray!20}W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 qualsiasi, 60\% |
+| W | - | - | 5d6 | 1d8 | 2d8, 60\% | 1d8, 50\% | 2 qualsiasi, 60\% |
 | X | - | - | - | - | - | - | 2 pozioni |
-| \rowcolor{gray!20}Y | - | - | 1d6*100 | - | - | - | - |
+| Y | - | - | 1d6*100 | - | - | - | - |
 | Z | 1d3*100 | 1d4*100 | 1d6*100 | 1d4*100 | 1d6, 50\% | 2d6, 50\% | 3 qualsiasi, 50\% |
 
 Quando il tesoro è indicato da più lettere la creatura possiede entrambi i tesori indicati.
 
-Alcune creature particolarmente \emph potrebbero avere più volte lo stesso tesoro (2 H ovvero 2 volte il tesoro H).
+Alcune creature particolarmente potrebbero avere più volte lo stesso tesoro (2 H ovvero 2 volte il tesoro H).
 
 ---

@@ -14,15 +14,16 @@ Una maledizione può manifestarsi anche a seguito dalle influenze negative od em
 
 **Maledizioni Comuni degli Oggetti**
 
-| \rowcolor{gray!20}**\%** | **Maledizione** |
+| **\%** | **Maledizione** |
+|---|---|
 | 01-15 | Inganno |
-| \rowcolor{gray!20}16-40 | Effetto o Bersaglio Opposto |
+| 16-40 | Effetto o Bersaglio Opposto |
 | 41-50 | Funzionamento Discontinuo |
-| \rowcolor{gray!20}51-65 | Requisito |
+| 51-65 | Requisito |
 | 66-90 | Inconveniente |
-| \rowcolor{gray!20}91-100 | Effetto completamente diverso |
+| 91-100 | Effetto completamente diverso |
 
-Gli oggetti maledetti sono \hypertarget{oggettimaledettiid}{**identificati**} come qualsiasi altro oggetto magico con una sola eccezione: a meno che non la prova di Arcana per identificare l'oggetto non superi 35 o l'incantesimo Identificare sia lanciato con una Prova di Magia ed ottenga un critico magico la maledizione non viene individuata. Se la prova è sotto 35 o senza critico magico tutto quello che viene rivelato è l'originale scopo dell'oggetto magico.
+Gli oggetti maledetti sono **identificati** come qualsiasi altro oggetto magico con una sola eccezione: a meno che non la prova di Arcana per identificare l'oggetto non superi 35 o l'incantesimo Identificare sia lanciato con una Prova di Magia ed ottenga un critico magico la maledizione non viene individuata. Se la prova è sotto 35 o senza critico magico tutto quello che viene rivelato è l'originale scopo dell'oggetto magico.
 
 Se si sa che l'oggetto è maledetto, la natura della maledizione può essere determinata usando la DC standard per identificare l'oggetto.
 
@@ -38,7 +39,7 @@ Questi oggetti possono essere rimossi solo dopo che sul personaggio o l'oggetto 
 
 L'incantesimo Dissolvi Magia è inutile per rimuovere una maledizione, solo un Dissolvi Magie Avanzato con 3 Successi Magici Critici può essere sufficiente.
 
-Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora si deve effettuare una prova di contrasto (pag. )tra chi lancia Rimuovi Maledizione e la DC della maledizione dell'oggetto.
+Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora si deve effettuare una prova di contrasto tra chi lancia Rimuovi Maledizione e la DC della maledizione dell'oggetto.
 
 Se la prova di contrasto ha successo allora l'oggetto può essere rimosso nel round successivo e la maledizione rimane e colpisce nuovamente se l'oggetto viene usato/indossato un'altra volta.
 
@@ -80,27 +81,28 @@ Questo oggetto funziona solo in determinate situazioni. Per determinare quali si
 
 Un oggetto incontrollabile tende ad attivarsi casualmente. Tirare un d\% ogni giorno. Con un risultato di 01--05 l'oggetto si attiva spontaneamente in un certo momento del giorno.
 
-| \rowcolor{gray!20}**\%** | **Situazione** |
+| **\%** | **Situazione** |
+|---|---|
 | 01-03 | Temperatura sotto lo zero |
-| \rowcolor{gray!20}04-05 | Temperatura sopra lo zero |
+| 04-05 | Temperatura sopra lo zero |
 | 06-10 | Durante il giorno |
-| \rowcolor{gray!20}11-15 | Durante la notte |
+| 11-15 | Durante la notte |
 | 16-20 | Esposto alla luce solare |
-| \rowcolor{gray!20}21-25 | In assenza di luce solare |
+| 21-25 | In assenza di luce solare |
 | 26-34 | Sott'acqua |
-| \rowcolor{gray!20}35-37 | Fuori dall'acqua |
+| 35-37 | Fuori dall'acqua |
 | 38-45 | Sottoterra |
-| \rowcolor{gray!20}46-55 | In superficie |
+| 46-55 | In superficie |
 | 56-60 | Entro 3 metri da un tipo di creatura |
-| \rowcolor{gray!20}61-64 | Entro 3 metri da una razza o tipo di creatura |
+| 61-64 | Entro 3 metri da una razza o tipo di creatura |
 | 65-72 | Entro 3 metri da un incantatore |
-| \rowcolor{gray!20}73-80 | Entro 3 metri da un Seguace o Devoto di un Patrono specifico |
+| 73-80 | Entro 3 metri da un Seguace o Devoto di un Patrono specifico |
 | 81-85 | Nelle mani di un personaggio non incantatore |
-| \rowcolor{gray!20}86-90 | Nelle mani di un personaggio incantatore |
+| 86-90 | Nelle mani di un personaggio incantatore |
 | 91-95 | Nelle mani di una creatura con particolare Tratto |
-| \rowcolor{gray!20}96 | Nelle mani di una creatura di un particolare genere |
+| 96 | Nelle mani di una creatura di un particolare genere |
 | 97-99 | Nei giorni non sacri o durante particolari ricorrenze astronomiche |
-| \rowcolor{gray!20}100 | A più di 150 km da un determinato luogo |
+| 100 | A più di 150 km da un determinato luogo |
 
 ## Requisito
 
@@ -132,59 +134,61 @@ Gli oggetti che hanno degli inconvenienti hanno solitamente degli effetti positi
 A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per tutto il tempo in cui l'oggetto rimane in possesso del personaggio. La DC dei Tiro Salvezza per evitare questi effetti è pari a 10 + DC della maledizione (se non avete stabilito la difficoltà impostate il Tiro Salvezza, solitamente su Volontà, a DC 25)
 
 >>> **Creativi ma non punire**: L'elenco è di esempio per poter generare casualmente degli effetti sul possessore dell'oggetto. Prendete spunto e siate creativi!Non fate però che una maledizione renda impossibile giocare il personaggio piuttosto deve essere vissuta come l'occasione per provare, fare, qualcosa di diverso. Non gettate mai un oggetto maledetto a caso nel mucchio dei tesori, pensate sempre cosa potrà accadere e quali conseguenze si genereranno. Un oggetto maledetto richiede sempre un alto livello di attenzione e pianificazione da parte del Narratore
+
 ---
 
 **Tabella: Effetti degli oggetti magici maledetti**
 
-| \rowcolor{gray!20}**\%** | **Inconveniente** |
+| **\%** | **Inconveniente** |
+|---|---|
 | 01-02 | I capelli del personaggio crescono di 2,5 cm all'ora. |
-| \rowcolor{gray!20}02-04 | Le unghie del personaggio crescono di 1 cm ogni 8 ore |
+| 02-04 | Le unghie del personaggio crescono di 1 cm ogni 8 ore |
 | 05-06 | L'altezza del personaggio diminuisce di 5d10 cm |
-| \rowcolor{gray!20}07-09 | L'altezza del personaggio aumenta di 5d10 cm |
+| 07-09 | L'altezza del personaggio aumenta di 5d10 cm |
 | 10-11 | La temperatura intorno all'oggetto è di 5° C più fredda del normale. |
-| \rowcolor{gray!20}12-13 | La temperatura intorno all'oggetto è di 20° C più fredda del normale. |
+| 12-13 | La temperatura intorno all'oggetto è di 20° C più fredda del normale. |
 | 14-15 | La temperatura intorno all'oggetto è di 5° C più calda del normale. |
-| \rowcolor{gray!20}16-17 | La temperatura intorno all'oggetto è di 20° C più calda del normale. |
+| 16-17 | La temperatura intorno all'oggetto è di 20° C più calda del normale. |
 | 18-20 | Il colore dei capelli del personaggio cambia. |
-| \rowcolor{gray!20}21-23 | II colore della pelle del personaggio cambia. |
+| 21-23 | II colore della pelle del personaggio cambia. |
 | 24 | Il colore dei capelli del personaggio cambia ogni ora |
-| \rowcolor{gray!20}25 | Il colore della pelle del personaggio cambia ogni ora |
+| 25 | Il colore della pelle del personaggio cambia ogni ora |
 | 26 | Delle corna come un montone crescono sulla testa del personaggio |
-| \rowcolor{gray!20}27 | Un palco di corna come un alce crescono sulla testa del personaggio |
+| 27 | Un palco di corna come un alce crescono sulla testa del personaggio |
 | 28-29 | II personaggio ora porta un segno distintivo (un tatuaggio, una strana luminescenza ecc.). |
-| \rowcolor{gray!20}30-32 | II sesso del Personaggio cambia ogni giorno all'alba. |
+| 30-32 | II sesso del Personaggio cambia ogni giorno all'alba. |
 | 33-34 | La razza o la specie del Personaggio cambiano. |
-| \rowcolor{gray!20}35 | II PG viene colpito da una Malattia determinata casualmente, che non può essere curata. |
+| 35 | II PG viene colpito da una Malattia determinata casualmente, che non può essere curata. |
 | 36-39 | L'oggetto emette costantemente suoni sgradevoli (lamenti, maledizioni, insulti...). |
-| \rowcolor{gray!20}40 | L'oggetto ha un aspetto ridicolo (colori sgargianti, forma, brilla di un alone rosa ecc.). |
+| 40 | L'oggetto ha un aspetto ridicolo (colori sgargianti, forma, brilla di un alone rosa ecc.). |
 | 41 | Un unicorno blu, visibile solo con la magia, di dimensioni piccole vola sempre attorno al Personaggio dando consigli inutili e facendo battute stupide. |
-| \rowcolor{gray!20}42 | Ogni giorno ti prende una improvvisa voglia e capacità di fare l'uncinetto per almeno 1 ora. |
+| 42 | Ogni giorno ti prende una improvvisa voglia e capacità di fare l'uncinetto per almeno 1 ora. |
 | 43-45 | II personaggio diventa estremamente possessivo nei confronti dell'oggetto. |
-| \rowcolor{gray!20}46-49 | II personaggio ha una paura incontrollabile di perdere l'oggetto o che venga danneggiato. |
+| 46-49 | II personaggio ha una paura incontrollabile di perdere l'oggetto o che venga danneggiato. |
 | 50 | Un Tratto viene sostituito |
-| \rowcolor{gray!20}51 | Il metabolismo del personaggio cambia e diventa esclusivamente carnivoro |
+| 51 | Il metabolismo del personaggio cambia e diventa esclusivamente carnivoro |
 | 52 | Il metabolismo del personaggio cambia e diventa esclusivamente vegetariano |
-| \rowcolor{gray!20}53-54 | II personaggio deve attaccare la creatura a lui più vicina (probabilità del 5\% ogni giorno). |
+| 53-54 | II personaggio deve attaccare la creatura a lui più vicina (probabilità del 5\% ogni giorno). |
 | 55-57 | II personaggio rimane Stordito per 1d4 round ogni volta che l'oggetto è servito al suo scopo |
-| \rowcolor{gray!20}58-60 | Il personaggio diventa sordo |
+| 58-60 | Il personaggio diventa sordo |
 | 61-64 | I Punti Ferita massimi calano di 10 permanentemente (rimanendo con un minimo di 1). |
-| \rowcolor{gray!20}65 | I Punti Ferita massimi calano di 20 permanentemente (rimanendo con un minimo di 1). |
+| 65 | I Punti Ferita massimi calano di 20 permanentemente (rimanendo con un minimo di 1). |
 | 66-68 | Il PG acquisisce una Fobia a caso. |
-| \rowcolor{gray!20}69-71 | TS su Volontà ogni giorno all'alba con mod. Intelligenza o subisce 1 danno a Intelligenza permanente. |
+| 69-71 | TS su Volontà ogni giorno all'alba con mod. Intelligenza o subisce 1 danno a Intelligenza permanente. |
 | 72-74 | TS su Volontà ogni giorno all'alba o subisce 1 danno a Saggezza permanente. |
-| \rowcolor{gray!20}75-77 | TS su Volontà ogni giorno all'alba con mod. Carisma o subisce 1 danno a Carisma permanente. |
+| 75-77 | TS su Volontà ogni giorno all'alba con mod. Carisma o subisce 1 danno a Carisma permanente. |
 | 78-80 | TS su Tempra ogni giorno all'alba con mod. Forza o subisce 1 danno a Forza permanente. |
-| \rowcolor{gray!20}81-83 | TS su Tempra ogni giorno all'alba con mod. Destrezza o subisce 1 danno a Destrezza permanente. |
+| 81-83 | TS su Tempra ogni giorno all'alba con mod. Destrezza o subisce 1 danno a Destrezza permanente. |
 | 84-85 | TS su Tempra ogni giorno all'alba o subisce 1 danno a Costituzione permanente. |
-| \rowcolor{gray!20}86-89 | Il PG incomincia a parlare di se in terza persona. |
+| 86-89 | Il PG incomincia a parlare di se in terza persona. |
 | 90-92 | Saurovalli, cani e gatti domestici diventano ostili. |
-| \rowcolor{gray!20}93 | Un Patrono farà di tutto per ucciderti. |
+| 93 | Un Patrono farà di tutto per ucciderti. |
 | 94 | Il PG viene teletrasportato a 10d100 Km di distanza ogni giorno all'alba. |
-| \rowcolor{gray!20}95 | II personaggio viene trasformato in una creatura a caso di una specie specifica (probabilità del 5\% ogni giorno). |
+| 95 | II personaggio viene trasformato in una creatura a caso di una specie specifica (probabilità del 5\% ogni giorno). |
 | 96 | II personaggio viene trasformato in una creatura specifica (probabilità del 5\% ogni giorno). |
-| \rowcolor{gray!20}97 | II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 5 |
+| 97 | II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 5 |
 | 98 | II personaggio non può più usare oggetti magici o Incantesimi con livello oltre 3 |
-| \rowcolor{gray!20}99 | II personaggio non può più usare Incantesimi |
+| 99 | II personaggio non può più usare Incantesimi |
 | 100 | Tira due volte |
 
 ---

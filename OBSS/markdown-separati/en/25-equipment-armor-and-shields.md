@@ -12,18 +12,18 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 	
 
-| \rowcolor{gray!20}**Armor** | **Cost** | **Defense** | **Prof. Pen.** | **Type** | **Mov.** | **Magic Check** | **Encumbrance** |
+| **Armor** | **Cost** | **Defense** | **Prof. Pen.** | **Type** | **Mov.** | **Magic Check** | **Encumbrance** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Padded | 5 gp | 1 | 0 | L | 0 | - | 2 |
-| \rowcolor{gray!20}Leather | 10 gp | 2 | 0 | L | 0 | +4 | 2 |
+| Leather | 10 gp | 2 | 0 | L | 0 | +4 | 2 |
 | Studded leather | 25 gp | 3 | 0 | L | 0 | +4 | 2 |
-| \rowcolor{gray!20}Chain shirt | 15 gp | 4 | -1 | M | 0 | +8 | 4 |
+| Chain shirt | 15 gp | 4 | -1 | M | 0 | +8 | 4 |
 | Scale | 50 gp | 5 | -1 | M | 0 | +8 | 4 |
-| \rowcolor{gray!20}Ring | 150 gp | 6 | -1 | M | 0 | +8 | 4 |
+| Ring | 150 gp | 6 | -1 | M | 0 | +8 | 4 |
 | Breastplate | 200 gp | 6 | -2 | M | 0 | +8 | 4 |
-| \rowcolor{gray!20}Banded | 250 gp | 7 | -2 | H | 0 | +16 | 8 |
+| Banded | 250 gp | 7 | -2 | H | 0 | +16 | 8 |
 | Half plate | 1200 gp | 8 | -2 | H | 1 | +16 | 8 |
-| \rowcolor{gray!20}Field plate | 1350 gp | 9 | -3 | H | 2 | +16 | 8 |
+| Field plate | 1350 gp | 9 | -3 | H | 2 | +16 | 8 |
 | Full plate | 1500 gp | 10 | -4 | H | 3 | +16 | 8 |
 
 **Cost**: is for a medium-sized armor.
@@ -38,7 +38,7 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 **Mov. (movement)**: is the reduction in meters of movement to apply per Movement Action.
 
-**Magic Check**: The - indicates that Magic Check isn't required. The numbers indicated are to be added to difficulty of the Magic Check.
+**Magic Check**: The - indicates that Magic Check isn' \*\*t required. The numbers indicated are to be added to difficulty of the Magic Check.
 
 **Cost**: the cost of a +1 armor or shield is 2250gp, +2 10000gp. It is practically not possible to purchase armor or shields or weapons with enchantments higher than +2, they must be *found*.
 
@@ -72,19 +72,19 @@ Made of light and flexible materials, light armor favors agile adventurers as it
 
 Medium armor offers more protection than light armor, but it also impairs movement more.
 
-*Chain Shirt*. Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer's upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
+*Chain Shirt*. Made of interlocking metal rings, a chain shirt is worn between layers of clothing or leather. This armor offers modest protection to the wearer' \*\*s upper body and allows the sound of the rings rubbing against one another to be muffled by outer layers.
 
 *Scale*. This armor consists of a coat and leggings (and perhaps a separate skirt) of leather covered with overlapping pieces of metal, much like the scales of a fish. The suit includes gauntlets.
 
-*Ring*. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it's usually worn only by those who can't afford better armor.
+*Ring*. This armor is leather armor with heavy rings sewn into it. The rings help reinforce the armor against blows from swords and axes. Ring mail is inferior to chain mail, and it' \*\*s usually worn only by those who can' \*\*t afford better armor.
 
-*Breastplate*. This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer's vital organs while leaving the wearer relatively unencumbered.
+*Breastplate*. This armor consists of a fitted metal chest piece worn with supple leather. Although it leaves the legs and arms relatively unprotected, this armor provides good protection for the wearer' \*\*s vital organs while leaving the wearer relatively unencumbered.
 
 **Heavy Armor**
 
 *Banded*. This armor is made of overlapping strips of metal sewn to a backing of leather and chain mail. The strips cover vulnerable areas, while the chain mail and leather protect the joints and allow freedom of movement. Straps and buckles distribute the weight evenly.
 
-*Half Plate*. Half plate consists of shaped metal plates that cover most of the wearer's body. It does not include leg protection beyond simple greaves that are attached with leather straps.
+*Half Plate*. Half plate consists of shaped metal plates that cover most of the wearer' \*\*s body. It does not include leg protection beyond simple greaves that are attached with leather straps.
 
 *Field Plate*. Very similar to full plate armor but lighter in construction sacrificing a bit of protection for greater flexibility and mobility.
 
@@ -100,7 +100,7 @@ Medium armor offers more protection than light armor, but it also impairs moveme
 
 Sleeping in light armor does not cause Fatigue.
 
-The character's **movement capability** will remain the same up to banded armor, then it will decrease progressively. The value indicated in the Mov. column is the meters less that the character makes per Movement Action.
+The character' \*\*s **movement capability** will remain the same up to banded armor, then it will decrease progressively. The value indicated in the Mov. column is the meters less that the character makes per Movement Action.
 
 For example, a human in full plate armor has a movement of 6 meters, a dwarf 3 meters.
 
@@ -144,29 +144,29 @@ Wielding a shield occupies the hand and arm.
 
 	
 
-| \rowcolor{gray!20}**Shields** | **Cost** | **Defense** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
+| **Shields** | **Cost** | **Defense** | **AR penalty** | **Magic check** | **Type** | **Encumb.** |
 | --- | --- | --- | --- | --- | --- | --- |
 | Light wooden shield | 3 gp | +1 | 0 | +2 | L | 1 |
-| \rowcolor{gray!20}Light metal shield | 9 gp | +1 | 0 | +2 | L | 1 |
+| Light metal shield | 9 gp | +1 | 0 | +2 | L | 1 |
 | Medium wooden shield | 5 gp | +2 | 0 | +4 | M | 2 |
-| \rowcolor{gray!20}Medium metal shield | 12 gp | +2 | 0 | +4 | M | 2 |
+| Medium metal shield | 12 gp | +2 | 0 | +4 | M | 2 |
 | Heavy wooden shield | 9gp | +3 | 1 | +6 | H | 4 |
-| \rowcolor{gray!20}Heavy metal shield | 20 gp | +3 | 1 | +6 | H | 4 |
+| Heavy metal shield | 20 gp | +3 | 1 | +6 | H | 4 |
 
 ### Donning and Removing Armor
 
-Wearing and removing armor is an operation that requires time and attention; doing it in a hurry doesn't help and in fact tends to worsen the protection provided.
+Wearing and removing armor is an operation that requires time and attention; doing it in a hurry doesn' \*\*t help and in fact tends to worsen the protection provided.
 
 **Table: Time to don and remove armor**
 
 	
 
-| \rowcolor{gray!20}**Armor Type** | **Don** | **Don Hastily** | **Remove** |
+| **Armor Type** | **Don** | **Don Hastily** | **Remove** |
 | --- | --- | --- | --- |
 | Shield | 1 Action | - | 1 Action |
-| \rowcolor{gray!20}Padded, Leather, Studded leather | 1 minute | 3 rounds | - |
+| Padded, Leather, Studded leather | 1 minute | 3 rounds | - |
 | Chain shirt | 1 minute | 5 rounds | 5 rounds |
-| \rowcolor{gray!20}Scale mail, Ring mail, Breastplate, Banded mail | 4 minutes | 1 minute{*} | 1 minute |
+| Scale mail, Ring mail, Breastplate, Banded mail | 4 minutes | 1 minute{*} | 1 minute |
 | Half plate, Field plate, Full plate | 4 minutes{*}{*} | 4 minutes{*} | 1d4+1 minutes |
 
 {*} If someone helps, the time is halved. A single character who is not doing anything else can help one or two adjacent characters. Two characters cannot help each other don armor at the same time.
@@ -174,4 +174,5 @@ Wearing and removing armor is an operation that requires time and attention; doi
 {*}{*} You must be helped to don this armor. Without help, you can only don it hastily.
 
 **Donning armor hastily** results in a -1 penalty to the Defense provided by the Armor and an additional +1 penalty to Basic Proficiency checks.
+
 ---

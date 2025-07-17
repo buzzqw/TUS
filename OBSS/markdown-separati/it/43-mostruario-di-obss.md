@@ -53,14 +53,14 @@ Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usat
 
 **Tabella: Categorie di Taglia, Quadretti occupati e Portata**
 
-| \rowcolor{gray!20}**Taglia** | **Dimensione** | **Esempio** | **Quadretti** | **Portata** |
+| **Taglia** | **Dimensione** | **Esempio** | **Quadretti** | **Portata** |
 | --- | --- | --- | --- | --- |
 | Minuscola | 25 x 25 cm | Gatto, spiritello | 1/4 | 0m |
-| \rowcolor{gray!20}Piccola | 0,5 x 0,5 m | Goblin, cane, Gnomo | 1/2 | 1m |
+| Piccola | 0,5 x 0,5 m | Goblin, cane, Gnomo | 1/2 | 1m |
 | Media | 1 x 1 m | Orco, Umano, Elfo, Nano, Nibali | 1 | 1m |
-| \rowcolor{gray!20}Grande | 2 x 2 m | Ogre | 2x2 | 1m |
+| Grande | 2 x 2 m | Ogre | 2x2 | 1m |
 | Enorme | 3 x 3 m | Gigante, Ent | 3x3 | 2m |
-| \rowcolor{gray!20}Mastodontico | 4 x 4 m | Kraken, Drago | 4x4 | 2m |
+| Mastodontico | 4 x 4 m | Kraken, Drago | 4x4 | 2m |
 | Colossale | 12 x 12 m | Drago anziano, Tarrasque | 6x6 | 6m |
 
 I più avvezzi avranno notato che le dimensioni delle creature sono inferiori alle solite, questo perché le miniature in commercio sono fatte per scala 1 quadretto=1.5 metri, mentre in OBSS 1 quadretto=1 metro.
@@ -164,7 +164,7 @@ Un mostro che possieda una velocità di scavo può usare la sua velocità per at
 
 **Volo**
 
-Un mostro che possieda una velocità di volo può usare tutto o solo parte del suo movimento per volare. Alcuni mostri hanno l'abilità di **Fluttuare** (pag. ), che li rende difficili da abbattere. Il mostro smette di fluttuare quando muore.
+Un mostro che possieda una velocità di volo può usare tutto o solo parte del suo movimento per volare. Alcuni mostri hanno l'abilità di **Fluttuare** , che li rende difficili da abbattere. Il mostro smette di fluttuare quando muore.
 
 ## Punteggi di Caratteristica
 
@@ -180,16 +180,16 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 
 **Tabella: Equivalenza Armi Magiche**
 
-| \rowcolor{gray!20}**Immunità** | **Magia Arma** | **Attacco Naturale** | **Pugno Vuoto** |
+| **Immunità** | **Magia Arma** | **Attacco Naturale** | **Pugno Vuoto** |
 | --- | --- | --- | --- |
 | +1 | +1 | 3 | 2 |
-| \rowcolor{gray!20}+2 | +2 | 6 | 4 |
+| +2 | +2 | 6 | 4 |
 | Ferro Freddo | +1 | 4 | 2 |
-| \rowcolor{gray!20}Argento | +1 | 4 | 2 |
+| Argento | +1 | 4 | 2 |
 | Adamantio | +2 | 6 | 4 |
-| \rowcolor{gray!20}+3 | +3 | 12 | 8 |
+| +3 | +3 | 12 | 8 |
 | +4 | +4 | 16 | 12 |
-| \rowcolor{gray!20}+5 | +5 | - | 16 |
+| +5 | +5 | - | 16 |
 
 ## Vulnerabilità, Resistenze e Immunità
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
@@ -331,7 +331,7 @@ Usare **1 solo Attacco** della catena del Multiattacco **costa 1 Azione**.
 
 Molti mostri possiedono un attacco speciale che gli permette di afferrare rapidamente la preda. Quando un mostro colpisce con un simile attacco, non deve effettuare un'ulteriore prova per determinare se l'afferrare riesce a meno che l'attacco non dica altrimenti.
 
-Una creatura afferrata dal mostro segue le indicazioni di Afferrare un avversario (pag. ).
+Una creatura afferrata dal mostro segue le indicazioni di Afferrare un avversario .
 
 Se non viene fornita una **DC di fuga** assumere che sia ia uguale a 10 + (Tiro Salvezza su Tempra  + Forza) del mostro +1d6 per Taglia di differenza.
 
@@ -377,7 +377,7 @@ Puoi equipaggiare i mostri con ulteriore equipaggiamento come preferisci, utiliz
 
 Ogni tipologia di creatura può preferire un tipo di tesoro (inteso come oggetti, monete, gemme...) diverso. Questi sono solo suggerimenti su come costruire il tesoro del mostro.
 
-Vedi anche Tabella: Valori del Tesoro per Incontro (pag. ).
+Vedi anche Tabella: Valori del Tesoro per Incontro .
 
 - **Aberrazione**
 	Molte aberrazioni hanno scarsa considerazione per i tesori, possedendo solo quel che prendono dai resti delle loro vittime. Alcune sono nemici intelligenti che usano vari oggetti magici e tesori per potenziare le loro capacità.
@@ -403,19 +403,20 @@ Ogni mostro se *sconfitto* concede un certo ammontare di Punti Esperienza da sud
 
 **Tabella: Grado di Sfida e Punti Esperienza**
 
-| \rowcolor{gray!20}**GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
+| **GS** | **PX** | **GS** | **PX** | **GS** | **PX** |
+|---|---|---|---|---|---|
 | 0 | 10 | 9 | 5000 | 21 | 33000 |
-| \rowcolor{gray!20}1/8 | 25 | 10 | 5900 | 22 | 41000 |
+| 1/8 | 25 | 10 | 5900 | 22 | 41000 |
 | 1/4 | 50 | 11 | 7200 | 23 | 50000 |
-| \rowcolor{gray!20}1/2 | 100 | 12 | 8400 | 24 | 62000 |
+| 1/2 | 100 | 12 | 8400 | 24 | 62000 |
 | 1 | 200 | 13 | 10000 | 25 | 75000 |
-| \rowcolor{gray!20}2 | 450 | 14 | 11500 | 26 | 90000 |
+| 2 | 450 | 14 | 11500 | 26 | 90000 |
 | 3 | 700 | 15 | 13000 | 27 | 105000 |
-| \rowcolor{gray!20}4 | 1100 | 16 | 15000 | 28 | 120000 |
+| 4 | 1100 | 16 | 15000 | 28 | 120000 |
 | 5 | 1800 | 17 | 18000 | 29 | 135000 |
-| \rowcolor{gray!20}6 | 2300 | 18 | 20000 | 30 | 155000 |
+| 6 | 2300 | 18 | 20000 | 30 | 155000 |
 | 7 | 2900 | 19 | 22000 |  | |
-| \rowcolor{gray!20}8 | 3900 | 20 | 25000 |  | ### Opzionale - Esperienza per Sfida |
+| 8 | 3900 | 20 | 25000 |  | ### Opzionale - Esperienza per Sfida |
 
 Con questo sistema i Punti Esperienza sono dati in base alla difficoltà relativa della Sfida dato il livello dei personaggi. Uno scontro con 5 Troll non darà (1800 x 5) Punti Esperienza, ma a seconda della sfida relativa concederà un ammontare diverso.
 
@@ -425,44 +426,42 @@ Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte
 
 **Tabella: Punti Esperienza per Grado di Sfida**
 
-| \rowcolor{gray!20}**Grado di Sfida** | **PX** | **Grado di Sfida** | **PX** |
+| **Grado di Sfida** | **PX** | **Grado di Sfida** | **PX** |
 | --- | --- | --- | --- |
 | Facile | 20 | Media | 30 |
-| \rowcolor{gray!20}Alta | 50 | Straordinaria | 80 |
+| Alta | 50 | Straordinaria | 80 |
 | Mortale | 120 | Epica | 160 |
 
 Anche per trappole o sfide superate si usa questo sistema per calcolare i PX guadagnati. I Punti Esperienza premio per ogni obiettivo personale o di gruppo raggiunto sono 10.
 
 ### Opzionale - Metodo alternativo per costruire gli Incontri
 
-\begin{enumerate}[leftmargin=*] 
 - **Definire l'APL (Average Party Level):** Calcolare il livello medio del gruppo. Sommare i livelli di tutti i personaggi e dividere per il numero di personaggi, come già spiegato.
 - **Stabilire la Difficoltà Desiderata:** Decidere quale livello di sfida si vuole presentare al gruppo.
 
-| \rowcolor{gray!20}**Difficoltà** | **Peso \%** |
+| **Difficoltà** | **Peso \%** |
 | --- | --- |
 | Facile | 75\% - 105\% |
-| \rowcolor{gray!20}Media | 106\% - 145\% |
+| Media | 106\% - 145\% |
 | Impegnativa | 146\% - 195\% |
-| \rowcolor{gray!20}Alta | 196\% - 255\% |
+| Alta | 196\% - 255\% |
 | Straordinaria | 256\% - 325\% |
-| \rowcolor{gray!20}Mortale | 326\% - 405\% |
+| Mortale | 326\% - 405\% |
 | Epica | 406\% e oltre |
 
 - **Assegnare un valore Percentuale ai Mostri:** Utilizzare la tabella seguente per determinare il *peso* (percentuale) di ciascun Avversario (*Avv.*) in base alla differenza tra il suo Grado di Sfida (GS) e all'APL del gruppo (*Rapp.*)
 
-| \rowcolor{gray!20}**Rapp.** | **\% per Avv.** | **Rapp.** | **\% per Avv.** |
+| **Rapp.** | **\% per Avv.** | **Rapp.** | **\% per Avv.** |
 | --- | --- | --- | --- |
 | -6 | 3\% | 0 | 70\% |
-| \rowcolor{gray!20}-5 | 5\% | +1 | 105\% |
+| -5 | 5\% | +1 | 105\% |
 | -4 | 10\% | +2 | 160\% |
-| \rowcolor{gray!20}-3 | 15\% | +3 | 240\% |
+| -3 | 15\% | +3 | 240\% |
 | -2 | 25\% | +4 | 360\% |
-| \rowcolor{gray!20}-1 | 45\% | +5 | 480\% |
+| -1 | 45\% | +5 | 480\% |
 
 Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS più basso per raggiungere la percentuale desiderata.
 
-\end{enumerate}
 
 ## Opzionale - Cosa farci con i mostri
 
@@ -470,110 +469,110 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 
 **Tabella: 1d4-12 Parti Anatomiche dei Mostri**
 
-| \rowcolor{gray!20}**d4-12** | **Parte** |
+| **d4-12** | **Parte** |
 | 11 | Sacco digestivo |
-| \rowcolor{gray!20}12 | Gelatina fotoreattiva |
+| 12 | Gelatina fotoreattiva |
 | 13 | Bulbo traslucido |
-| \rowcolor{gray!20}14 | Enzimi coagulanti superficiali |
+| 14 | Enzimi coagulanti superficiali |
 | 15 | Cellule mimetiche iridescenti |
-| \rowcolor{gray!20}16 | Tessuto elastico |
+| 16 | Tessuto elastico |
 | 17 | Organo ottico polifasico |
-| \rowcolor{gray!20}18 | Midollo cerebrale ipertrofico |
+| 18 | Midollo cerebrale ipertrofico |
 | 19 | Tendini a conduzione potenziata |
-| \rowcolor{gray!20}110 | Sangue lattiginoso reattivo |
+| 110 | Sangue lattiginoso reattivo |
 | 111 | Pelle dura infusa di minerali |
-| \rowcolor{gray!20}112 | Tendine robusto con fibre concentriche |
+| 112 | Tendine robusto con fibre concentriche |
 | 21 | Osso cavo |
-| \rowcolor{gray!20}22 | Ghiandola sudoripara tossica |
+| 22 | Ghiandola sudoripara tossica |
 | 23 | Uncino osseo bifocale |
-| \rowcolor{gray!20}24 | Derma fotosensibile |
+| 24 | Derma fotosensibile |
 | 25 | Emolinfa profonda mutagena |
-| \rowcolor{gray!20}26 | Vertebra cava ripiena di magia |
+| 26 | Vertebra cava ripiena di magia |
 | 27 | Squama cristallina lucida |
-| \rowcolor{gray!20}28 | Ghiandola del soffio elementale |
+| 28 | Ghiandola del soffio elementale |
 | 29 | Cuore di riserva |
-| \rowcolor{gray!20}210 | Muscolo a potenziamento magico |
+| 210 | Muscolo a potenziamento magico |
 | 211 | Nervi ottici ipersensibili |
-| \rowcolor{gray!20}212 | Polpastrelli succosi |
+| 212 | Polpastrelli succosi |
 | 31 | Nasonte con setole ipersensoriali |
-| \rowcolor{gray!20}32 | Membrana retrattile di volo |
+| 32 | Membrana retrattile di volo |
 | 33 | Ghiandola di adrenalina magica |
-| \rowcolor{gray!20}34 | Pelle cicatrizzata a strati sovrapposti |
+| 34 | Pelle cicatrizzata a strati sovrapposti |
 | 35 | Nucleo dentale rigenerativo |
-| \rowcolor{gray!20}36 | Appendice prensile multifocale |
+| 36 | Appendice prensile multifocale |
 | 37 | Unghia multi articolata |
-| \rowcolor{gray!20}38 | Pinna morbida fredda |
+| 38 | Pinna morbida fredda |
 | 39 | Retina con riflesso interno rigido |
-| \rowcolor{gray!20}310 | Ciste magica piena |
+| 310 | Ciste magica piena |
 | 311 | Sensi alternativi |
-| \rowcolor{gray!20}312 | Tessuto adiposo con riserva di magia |
+| 312 | Tessuto adiposo con riserva di magia |
 | 41 | Ghiandola linfatica ipersviluppata |
-| \rowcolor{gray!20}42 | Tessuto visivo focalizzato |
+| 42 | Tessuto visivo focalizzato |
 | 43 | Sacca di gas multipolare |
-| \rowcolor{gray!20}44 | Nervatura senso-tattile |
+| 44 | Nervatura senso-tattile |
 | 45 | Pelle ad assorbimento energetico |
-| \rowcolor{gray!20}46 | Tentacolo con ventose attive |
+| 46 | Tentacolo con ventose attive |
 | 47 | Ghiandola di secrezione corrosiva |
 
-| \rowcolor{gray!20}48 | Midollo secondario autonomo |
+| 48 | Midollo secondario autonomo |
 | 49 | Tessuto cardiaco a ritmo alternato |
-| \rowcolor{gray!20}410 | Placche auricolari addestrate |
+| 410 | Placche auricolari addestrate |
 | 411 | Articolazione in osso flessibile |
-| \rowcolor{gray!20}412 | Polmone secondario con vesciche d’aria |
+| 412 | Polmone secondario con vesciche d’aria |
 
 **Tabella: d12-4 Effetti Magici da Ingestione o Preparazione**
 
-| \rowcolor{gray!20}**d12-4** | **Effetti** |
+| **d12-4** | **Effetti** |
 | 11 | Visione notturna per 1d6 ore |
-| \rowcolor{gray!20}12 | Gli animali evitano il personaggio |
+| 12 | Gli animali evitano il personaggio |
 | 13 | +1 Difesa naturale per 1 ora |
-| \rowcolor{gray!20}14 | +2 a Ingannare per 1 ora |
+| 14 | +2 a Ingannare per 1 ora |
 | 21 | +1 a Forza per 1d6 Turni |
-| \rowcolor{gray!20}22 | Rigenerazione (1 PF ogni 1T per 1 ora) |
+| 22 | Rigenerazione (1 PF ogni 1T per 1 ora) |
 | 23 | +1d6 nelle prove di Salto per 2d4 ore |
-| \rowcolor{gray!20}24 | +2 a Consapevolezza per 30 minuti |
+| 24 | +2 a Consapevolezza per 30 minuti |
 | 31 | Resistenza all'acido per 1d6 ore |
-| \rowcolor{gray!20}32 | +1d6 a Intimidire per 1 ora |
+| 32 | +1d6 a Intimidire per 1 ora |
 | 33 | Levitazione per 10 minuti |
-| \rowcolor{gray!20}34 | +2 a Acrobazia per 1 ora |
+| 34 | +2 a Acrobazia per 1 ora |
 | 41 | Movimento Scalare per 10 minuti |
-| \rowcolor{gray!20}42 | Mimesi: +1 a Furtività per 1d6 Turni |
+| 42 | Mimesi: +1 a Furtività per 1d6 Turni |
 | 43 | L'olfatto rivela veleni/malattie per 1d6 ore |
-| \rowcolor{gray!20}44 | Respira sott’acqua per 1 ora |
+| 44 | Respira sott’acqua per 1 ora |
 | 51 | +1 metro al Movimento per 1d4 ore |
-| \rowcolor{gray!20}52 | Linguaggio Elementale per 1 ora |
+| 52 | Linguaggio Elementale per 1 ora |
 | 52 | Polpastrelli: +2 a Cercare o Trappole per 1d6 ore |
-| \rowcolor{gray!20}53 | Artigli: 1d6 danno per 1d6 ore |
+| 53 | Artigli: 1d6 danno per 1d6 ore |
 | 54 | Senza ossa: puoi restringerti di 1 taglia per 1d6 ore |
 | 61 | Immunità al freddo per 1d4 ore |
-| \rowcolor{gray!20}62 | Forma gassosa per 1 ora |
+| 62 | Forma gassosa per 1 ora |
 | 63 | Curato di 3d6 Punti Ferita |
-| \rowcolor{gray!20}64 | Visione dell’invisibile per 1d4 Turni |
+| 64 | Visione dell’invisibile per 1d4 Turni |
 
-| \rowcolor{gray!20}**d12-4** | **Effetti** |
+| **d12-4** | **Effetti** |
 | 71 | Parassita benigno assorbe veleno e muore |
-| \rowcolor{gray!20}72 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
+| 72 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
 | 73 | Soffio rovente (vedi soffio acido) |
-| \rowcolor{gray!20}74 | Recupera 1d6 Punti magia |
+| 74 | Recupera 1d6 Punti magia |
 | 81 | Immunità ad illusioni ottiche e abbagliamento per 1d6 ore |
-| \rowcolor{gray!20}82 | Soffio acido (vedi soffio acido) |
+| 82 | Soffio acido (vedi soffio acido) |
 | 83 | Sacche d'aria. Non respiri per 2d4 Turni |
-| \rowcolor{gray!20}84 | Il sudore respinge gli insetti per 2d8 ore |
+| 84 | Il sudore respinge gli insetti per 2d8 ore |
 | 91 | +2 a Intrattenere (bella voce) per 1 ora |
-| \rowcolor{gray!20}92 | Cieco per 1d4 ore |
+| 92 | Cieco per 1d4 ore |
 | 93 | Visione crepuscolare 9 metri per 1 ora |
-| \rowcolor{gray!20}94 | Liquido: come un gelatina per 1d10 Turni |
+| 94 | Liquido: come un gelatina per 1d10 Turni |
 | 101 | Minerale: DR 4/magico a danni fisici, per 2d4 T |
-| \rowcolor{gray!20}102 | Sonno: ti addormenti per 1d6 ore |
+| 102 | Sonno: ti addormenti per 1d6 ore |
 | 103 | Velocizzato: +1 Reazione a round per 1d6 minuti |
-| \rowcolor{gray!20}104 | Scurovisione 9 metri per 1d4 ore |
+| 104 | Scurovisione 9 metri per 1d4 ore |
 | 111 | Rallentato: -1 Azione per 1d8 minuti |
-| \rowcolor{gray!20}112 | Iperveloce: +1 Azione a round per 1d6 minuti |
+| 112 | Iperveloce: +1 Azione a round per 1d6 minuti |
 | 113 | Vista ceca 6 metri per 1d4 ore |
-| \rowcolor{gray!20}114 | Affaticato: +1 livello di affaticamento |
+| 114 | Affaticato: +1 livello di affaticamento |
 | 121 | Imbarazzo di stomaco: -4 a tutte le Azioni per 1 ore |
-| \rowcolor{gray!20}122 | Dermatite violente: -2 alle Azioni che usano le mani per 1d4 ore |
+| 122 | Dermatite violente: -2 alle Azioni che usano le mani per 1d4 ore |
 | 123 | Vesciche ai piedi: tutto il terreno è difficile per 1d10 minuti |
-| \rowcolor{gray!20}124 | Terzo occhio: +2 alle Prove di Consapevolezza per 1d4 ore |
+| 124 | Terzo occhio: +2 alle Prove di Consapevolezza per 1d4 ore |
 
 ---

@@ -8,13 +8,13 @@ The **DC**, based on the indicated skill, to create an item is 15 +2*Spell level
 
 Knowing the spell (or having it available through a Scroll) that is applied to the item is a requirement for every magic item created. The work days indicated cannot be divided into less than 6 hours per day dedicated to creation.
 
->>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure's balance. I suggest that NPCs, non-player characters managed by the Narrator, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
+>>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Narrator, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
 
 ### Modifiers to the cost of magic items
 
 Magic items have as their basic component the application of a spell in the item itself.
 
-It's important to evaluate the rarity of the spell used to determine the cost of the item.
+It' \*\*s important to evaluate the rarity of the spell used to determine the cost of the item.
 
 The **costs** reported for creating various types of objects refer to the use of a spell with **rarity** common. If the rarity is Uncommon, multiply the price by 1.5; if Rare by 2, Very Rare by 5, Legendary by 10.
 
@@ -149,7 +149,7 @@ The production cost of the Potion is equal to level*level*40; a Potion with Invi
 
 To create a potion, a character needs a horizontal work surface and some containers to mix liquids along with a heat source to boil the infusion.
 
-A Potion can normally contain a maximum spell level of 3. At the Narrator's discretion, potions of higher level might be possible at the price of level*level*level*20 gp.
+A Potion can normally contain a maximum spell level of 3. At the Narrator' \*\*s discretion, potions of higher level might be possible at the price of level*level*level*20 gp.
 
 All ingredients and materials for preparing a potion must be fresh and never used.
 
@@ -186,4 +186,5 @@ Sometimes the lack of funds or time makes it impossible to create the desired ma
 The cost to add additional abilities to an item is the same as if the item were not magical, minus the value of the original item. So a +1 longsword can become a vorpal +2 longsword, and the cost of creation equals that of a vorpal +2 longsword minus the cost of a +1 longsword.
 
 When determining the price of an invented magic item, many factors must be considered. The simplest way to decide the price is to compare the new item to an item that already has a price, and use that price as a guide.
+
 ---

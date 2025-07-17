@@ -2,9 +2,9 @@
 
 > Si vis pacem, para bellum (*If you want peace, prepare for war*, Vegetius, book III, Epitoma rei militaris)
 
-It's not about how hard you fall, but if and how you get back up (anonymous)
+It' \*\*s not about how hard you fall, but if and how you get back up (anonymous)
 
-I'm not a hero. No, and I never will be. I'm just a bad guy who gets paid to beat up worse guys. (Deadpool)
+I' \*\*m not a hero. No, and I never will be. I' \*\*m just a bad guy who gets paid to beat up worse guys. (Deadpool)
 
 An eye for an eye... and the world becomes blind (Mahatma Gandhi, NdA his Traits abhorred violence!)
 
@@ -18,11 +18,11 @@ Combat is divided into 2 phases:
 
 Initiative is a check (3d6) of Dexterity or Intelligence and relevant Skills you may have.
 
-The player chooses the Ability Score they prefer. If Dexterity is chosen, it will be reflexes that determine the character's reaction, while Intelligence will guide the ability to grasp enemy tactics and anticipate them.
+The player chooses the Ability Score they prefer. If Dexterity is chosen, it will be reflexes that determine the character' \*\*s reaction, while Intelligence will guide the ability to grasp enemy tactics and anticipate them.
 
 Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. In case of Initiative with the same score, whoever has the higher Ability Score acts first, otherwise the clash will be simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
 
->>> **Combat flow**: Try to make combat flow naturally. Don't interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article \hrefhttps://theangrygm.com/manage-combat-like-a-dolphin/How to Manage Combat Like a Dolphin to understand the method in detail.
+>>> **Combat flow**: Try to make combat flow naturally. Don' \*\*t interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article \hrefhttps://theangrygm.com/manage-combat-like-a-dolphin/How to Manage Combat Like a Dolphin to understand the method in detail.
 
 **The Golden Rules also apply to the Initiative Check.**
 
@@ -34,13 +34,13 @@ From fastest to slowest there is the resolution of Actions.
 
 The Narrator will ask the fastest, the one with the highest initiative, to declare their Actions and act, then proceed to ask and have the other players and enemies act.
 
-In this way, the choice of action occurs when it's the player's round, who can act based on Actions and resolutions that have already taken place.
+In this way, the choice of action occurs when it' \*\*s the player' \*\*s round, who can act based on Actions and resolutions that have already taken place.
 
 ### Time (Rounds, Minutes and Turns)
 
 > Hesitation is the death of advantage (Magic, V.E. Schwab)}
 
-A **round** lasts about 10 seconds, it's a time frame sufficient to act, run, talk... fight. A Minute is therefore 6 rounds and a Turn lasts 10 Minutes (or 60 rounds).
+A **round** lasts about 10 seconds, it' \*\*s a time frame sufficient to act, run, talk... fight. A Minute is therefore 6 rounds and a Turn lasts 10 Minutes (or 60 rounds).
 
 Rounds are used in combat scenes or where tension must remain constantly high and each Action corresponds to an evolution of the situation.
 
@@ -72,50 +72,50 @@ If the character has already performed all Actions, then they can act in the rou
 
 The character who executes an Attack Action and Casts a Spell in the same round is considered Distracted, meaning they must make a Magic Check to cast the spell.
 
-**Movement Action***: a Movement Action is an Action dedicated to moving. You can move up to your full movement (9 meters for humans, 6 meters for dwarves...) per Action used. Each movement consumes an Action even if you don't use all your available movement.
+**Movement Action***: a Movement Action is an Action dedicated to moving. You can move up to your full movement (9 meters for humans, 6 meters for dwarves...) per Action used. Each movement consumes an Action even if you don' \*\*t use all your available movement.
 
 **Table: Actions per Round**
 
 	
 
-| \rowcolor{gray!20}**What to do** | **Actions** |
+| **What to do** | **Actions** |
 | --- | --- |
 | Execute an attack | 1 |
-| \rowcolor{gray!20}Execute two attacks | 2 |
+| Execute two attacks | 2 |
 | Execute more than two attacks | 3 |
-| \rowcolor{gray!20}Draw or Sheathe weapon or shield | 1 |
+| Draw or Sheathe weapon or shield | 1 |
 | Execute a Movement Action | 1* |
-| \rowcolor{gray!20}Dash | 1 |
+| Dash | 1 |
 | Stand up from prone | 1 |
-| \rowcolor{gray!20}Help someone | R |
+| Help someone | R |
 | Perform a skill check | 1* |
-| \rowcolor{gray!20}Identify a creature | 1 |
+| Identify a creature | 1 |
 | Hide | 1 |
-| \rowcolor{gray!20}Mount or dismount a mount | 2 |
+| Mount or dismount a mount | 2 |
 | Break down a door with shoulder/kicks | 1 |
-| \rowcolor{gray!20}Force a door with a crowbar | 2 |
+| Force a door with a crowbar | 2 |
 | Search for something in a backpack | 2 |
-| \rowcolor{gray!20}{ Take something from belt or readily available} | 1 |
+| { Take something from belt or readily available} | 1 |
 | Use an item held in hand | 1 |
-| \rowcolor{gray!20}Drink a potion held in hand | Imm. |
+| Drink a potion held in hand | Imm. |
 | Give a potion to someone else | 2 |
-| \rowcolor{gray!20}Throw an object held in hand | R |
+| Throw an object held in hand | R |
 | Drop prone to the ground | R |
-| \rowcolor{gray!20}Cast a Spell* | 2 |
+| Cast a Spell* | 2 |
 | Concentrate on a Spell | 1 |
-| \rowcolor{gray!20}Interrupt your own spell | Imm. |
+| Interrupt your own spell | Imm. |
 | Identify a Spell | R |
-| \rowcolor{gray!20}Use a magic item | 2 |
+| Use a magic item | 2 |
 | Exchange a dialogue with someone | 3* |
-| \rowcolor{gray!20}Exchange a few lines with someone | 0* |
+| Exchange a few lines with someone | 0* |
 | Prepare Defense | 1 |
-| \rowcolor{gray!20}Total Defense | 2 |
+| Total Defense | 2 |
 | Disengage | 1 |
-| \rowcolor{gray!20}Precise Strike | 2 |
+| Precise Strike | 2 |
 | Disarm | 2 |
-| \rowcolor{gray!20}Feint | 1 |
+| Feint | 1 |
 | Push an opponent | 2 |
-| \rowcolor{gray!20}Grapple an opponent | 2 |
+| Grapple an opponent | 2 |
 | Trip an opponent | 2 |
 
 During the Movement Action, it is possible to **Draw a Weapon** or Shield or **Sheathe a Weapon** or Shield.
@@ -124,7 +124,7 @@ During the Movement Action, it is possible to **Draw a Weapon** or Shield or **S
 
 **Exchange a dialogue with someone***: A dialogue can be just a few seconds or minutes. The Narrator will evaluate how long it lasts.
 
-**Exchange a few lines with someone***: As long as they are truly few lines or a glance, it doesn't consume Actions; if it becomes more articulated, then it uses Actions. The goal is not to interrupt the flow of Actions with a dense dialogue but still allow interaction between characters.
+**Exchange a few lines with someone***: As long as they are truly few lines or a glance, it doesn' \*\*t consume Actions; if it becomes more articulated, then it uses Actions. The goal is not to interrupt the flow of Actions with a dense dialogue but still allow interaction between characters.
 
 **Perform a skill check***: if they use a fraction of the round they cost 1 Action, otherwise 2 or more. Check the Examples of Skill Checks for the reported costs.
 
@@ -134,7 +134,7 @@ An **Immediate (Imm.)** Action can be freely executed in your own round, before 
 
 It is possible, if not specifically described in the Ability, to execute only one Immediate Action and one Reaction Action per round.
 
-This **list is not complete**, take it as guidelines to establish the weight of characters' decisions and actions. An Action lasts about 3 seconds.
+This **list is not complete**, take it as guidelines to establish the weight of characters' \*\* decisions and actions. An Action lasts about 3 seconds.
 
 The **order** in which Actions are executed is not important except for logical and physical correlation. The Movement Action can be between other Actions (movement, attack/spells/other Action, movement).
 
@@ -146,17 +146,17 @@ A character could attack, move, and attack again; this second attack would have 
 
 ## Movement
 
-> A slower moving object cannot be caught by a faster one; since the one that follows must reach the point that the one being followed occupied and where the latter is no longer (when the second arrives); in this way the first always maintains an advantage over the second. (Zeno's Paradox)
+> A slower moving object cannot be caught by a faster one; since the one that follows must reach the point that the one being followed occupied and where the latter is no longer (when the second arrives); in this way the first always maintains an advantage over the second. (Zeno' \*\*s Paradox)
 
-A character's movement is determined by their size and race, and by what they carry, weights, encumbrances, but also magic and magic items.
+A character' \*\*s movement is determined by their size and race, and by what they carry, weights, encumbrances, but also magic and magic items.
 
-The Movement written in the character's race is the indication of how many meters per Action (of Movement) the character can make.
+The Movement written in the character' \*\*s race is the indication of how many meters per Action (of Movement) the character can make.
 
 A creature or character might also decide to move faster than usual, i.e., running (Dash Action).
 
 The Dash Action is a special Movement Action; it consists of running for that Action.
 If a **Dash** Action is executed, the meters traveled are doubled (2x9 meters for a human); for a dwarf (Movement 6m) it means doing 12 meters, in one Action.
-It's also possible to make multiple Dash Actions, up to 3 in a round, i.e., run for 6 times your movement.
+It' \*\*s also possible to make multiple Dash Actions, up to 3 in a round, i.e., run for 6 times your movement.
 
 The character who takes a Dash Action is running and has a penalty of 1d6 on the Attack Roll, Defense decreases by 4 until the beginning of their next round, and they are considered Distracted for spell casting.
 
@@ -170,7 +170,7 @@ In case of **diagonal movement**, for practicality count a square normally.
 
 **If you move on *difficult** terrain, you travel half the available movement, so a human covers 4 meters per Movement Action (each square crossed counts as two).*
 
-In the Monster Manual, the dimensions and relative spaces occupied by creatures of different \hyperlink{tagliaedimensioni} are indicated (page ).
+In the Monster Manual, the dimensions and relative spaces occupied by creatures of different size are indicated (page ).
 
 ## Distance
 
@@ -178,18 +178,19 @@ By **Touch distance**  we mean a distance that allows touching the opponent, so 
 
 By **Melee distance**  we mean a distance that allows hand-to-hand combat (within 1 meter around the character, or within 2 meters in case of a long weapon).
 
-In monsters, this distance is indicated by reach; for throwing weapons, it's called range.
+In monsters, this distance is indicated by reach; for throwing weapons, it' \*\*s called range.
 
-If not indicated in the opponent's sheet, **reach** is equal to half the space occupied rounded up. A hill giant, huge size (3x3 squares on the map), has a reach of 2 squares, meaning it hits creatures within 2 squares/meters from it.
+If not indicated in the opponent' \*\*s sheet, **reach** is equal to half the space occupied rounded up. A hill giant, huge size (3x3 squares on the map), has a reach of 2 squares, meaning it hits creatures within 2 squares/meters from it.
 
->> **Examples of Distance in Combat**: E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster's dimensions and weapon type.
+>> **Examples of Distance in Combat**: E.g., for a creature armed with a spear, the reach is 2, meaning the melee distance is 2 meters because the weapon is long. For a gnome armed with a hammer, or bare-handed, the melee distance is 1 meter. For particularly large creatures (Huge or larger) with equally large weapons, the reach is indicated or inferred from the monster' \*\*s dimensions and weapon type.
 
 **Reach indicates how far you can hit in melee.**
+
 ---
 
 ## Life and Death
 
-> Whoever doesn't know death, doesn't know life. (Grand Hotel, film 1932)
+> Whoever doesn' \*\*t know death, doesn' \*\*t know life. (Grand Hotel, film 1932)
 
 The worthy Game Master never kills player characters willingly. He presents opportunities for hasty and careless players to do it all themselves. (Gary Gygax)
 
@@ -222,14 +223,14 @@ A character with non-Lethal Hit Points at 0 or less faints until normal Hit Poin
 
 E.g., If they have Constitution 2, they will die at -[10+4]=-14 Hit Points; if they have Constitution 0, they will die at -10 Hit Points; if they have Constitution -2, they will die at -[10-4]=-6 Hit Points. In case of Constitution values equal to or less than -3, the character dies at -5 Hit Points.
 
-If a character's non-lethal damage reaches negative Hit Points equal to 20+4*Constitution, the character is dead.
+If a character' \*\*s non-lethal damage reaches negative Hit Points equal to 20+4*Constitution, the character is dead.
 
 >>> **Pathos**: Describe with pathos and transport the fall of the character; make them understand the suffering experienced. Emphasize the fall to the ground, the flowing blood, the gasps. Be theatrical.
-If you're dealing with easily impressed players, then it's better to reduce the *gore*.
+If you' \*\*re dealing with easily impressed players, then it' \*\*s better to reduce the *gore*.
 
 A dead character cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has sufficient power to bring the soul back into the body and bring the creature back to life. The Animate Dead spell can reanimate a body, but as undead.
 
->> **The death of the character**: Try to understand why they died, what are the causes, the mistakes made. What are the choices that brought them there. Each character who dies is a personal wound but also experience and awareness. Treasure it both for yourself but also for the whole group. If something didn't work, try to understand it together, without accusing or blaming but with the aware spirit that you can improve, all of you.
+>> **The death of the character**: Try to understand why they died, what are the causes, the mistakes made. What are the choices that brought them there. Each character who dies is a personal wound but also experience and awareness. Treasure it both for yourself but also for the whole group. If something didn' \*\*t work, try to understand it together, without accusing or blaming but with the aware spirit that you can improve, all of you.
 
 ### Optional - Recovery from 0 Hit Points
 
@@ -251,7 +252,7 @@ Any lost Ability Score points recover at a rate of 1 point per day, if not indic
 
 ### Natural Hit Point Recovery
 
-For each night of rest (at least 8 hours), you recover in Hit Points the value of Constitution * WP or MP (character's choice, with a minimum of HP equal to WP or MP).
+For each night of rest (at least 8 hours), you recover in Hit Points the value of Constitution * WP or MP (character' \*\*s choice, with a minimum of HP equal to WP or MP).
 
 ### Non-lethal Hit Point Recovery
 
@@ -262,6 +263,7 @@ Every hour you recover, with a minimum of 1 Hit Point, your Constitution value.
 Unless otherwise indicated, whenever a character takes damage that lowers Maximum Hit Points, in addition to lowering these, they must also subtract them from current Hit Points. A character, when healed, cannot exceed the current Maximum Hit Points.
 
 Every 8 hours of rest, within 24 hours, recovers 1d4 + Constitution in Maximum Hit Points, with a minimum of 1.
+
 ---
 
 ## Attack Roll and Defense
@@ -290,26 +292,26 @@ If the **Attack Roll** is equal to or higher than the Defense value, the opponen
 
 If the Attack Roll (AR) is lower than the Defense, then the opponent will have parried, dodged, avoided... The choice is left to the player (or Narrator); having avoided the attack, no wounds are taken.
 
-There are situations that can advantage Defense such as cover, hiding places, trenches, doors, companions of much larger size than one's own, invisibility... Consult the paragraphs related to Hiding and Cover to understand the advantage they can give.
+There are situations that can advantage Defense such as cover, hiding places, trenches, doors, companions of much larger size than one' \*\*s own, invisibility... Consult the paragraphs related to Hiding and Cover to understand the advantage they can give.
 
-There are occasions when it's not important to penetrate the defense and wound the opponent but simply to touch them.
+There are occasions when it' \*\*s not important to penetrate the defense and wound the opponent but simply to touch them.
 
 Other times the opponent is surprised and cannot fully defend themselves.
 
-If it's **sufficient to touch the opponent**, the Attack Roll has a +1d6 bonus since it's not necessary to deliver the blow but only to graze them.. In the manual, it's called a Touch Attack.
+If it' \*\*s **sufficient to touch the opponent**, the Attack Roll has a +1d6 bonus since it' \*\*s not necessary to deliver the blow but only to graze them.. In the manual, it' \*\*s called a Touch Attack.
 
-If **the opponent is surprised**, meaning they don't expect the attack, Defense and Reflex Saving Throw will have a -2 penalty. This is the value of **Surprise Defense**.
+If **the opponent is surprised**, meaning they don' \*\*t expect the attack, Defense and Reflex Saving Throw will have a -2 penalty. This is the value of **Surprise Defense**.
 
 **The Golden Rules also apply to the Attack Roll**. The d6s explode in case you roll 6 with the die, rolling 1 is bad (counts as zero), and relying on luck (i.e., removing 4 points between Weapon Proficiency and Strength or Dexterity to add 1d6 to the Attack Roll, not from bonuses given by Weapon Lists or Abilities or magic items).
 
 If modifiers and circumstances bring the inflicted damage to be zero or negative, you will still do 1 damage.
-This rule applies to the modifiers of the weapon damage which indeed cannot bring the total damage to be less than 1; if there are magical protections or damage reductions, this can become zero and therefore you won't wound the opponent (but if it becomes negative you don't heal them!).
+This rule applies to the modifiers of the weapon damage which indeed cannot bring the total damage to be less than 1; if there are magical protections or damage reductions, this can become zero and therefore you won' \*\*t wound the opponent (but if it becomes negative you don' \*\*t heal them!).
 
-When you make the Attack Roll, make sure you've counted all the modifiers known to you and remember that for every 6 rolled (in the 3d6 of the Attack Roll), you must roll another one and continue rolling as long as you continue to roll 6 with the die.
+When you make the Attack Roll, make sure you' \*\*ve counted all the modifiers known to you and remember that for every 6 rolled (in the 3d6 of the Attack Roll), you must roll another one and continue rolling as long as you continue to roll 6 with the die.
 
 You can **remove 4** or multiples from your attack to roll one more d6. The choice is to be made in the most desperate situations where only luck can resolve the duel. You remove the value from the Weapon Proficiency score or from Strength or Dexterity, not from scores given by Abilities, Weapon Lists, or magic bonuses.
 
-If you hit, for every margin of 8 above the opponent's Defense, the weapon deals additional damage, namely a Critical Hit. Roll only the weapon's damage die again, without any other modifiers.
+If you hit, for every margin of 8 above the opponent' \*\*s Defense, the weapon deals additional damage, namely a Critical Hit. Roll only the weapon' \*\*s damage die again, without any other modifiers.
 
 The basic rules of Skills also apply to the Attack Roll. Defense is a fixed value and as such uses the modifiers for fixed value checks.
 
@@ -329,11 +331,11 @@ If in the first 3 Attack Rolls you make three times 6, you will hit the opponent
 
 Whenever you have hit, you roll **additional damage of just the weapon** for every 8 over the Defense; this damage is also called **critical damage**. If you made two Critical Hits, it means you must roll 2 extra weapon dice, and have hit by +16/+23 range.
 
->> **Example Critical Hit**: Example: I roll 6 4 5, I roll an additional 6, I roll an additional 6, I roll an additional 4, total 31. The opponent's Defense is 15. For damage you roll the weapon's damage 3 times, once because I hit and twice because you hit with a margin of 16!
+>> **Example Critical Hit**: Example: I roll 6 4 5, I roll an additional 6, I roll an additional 6, I roll an additional 4, total 31. The opponent' \*\*s Defense is 15. For damage you roll the weapon' \*\*s damage 3 times, once because I hit and twice because you hit with a margin of 16!
 
 ## Exploding Damage
 
-Whenever you roll the maximum value on a weapon's damage die (for example, rolling an 8 on the classic d8 for a longsword), you reroll the die and add the new result (of the die only).
+Whenever you roll the maximum value on a weapon' \*\*s damage die (for example, rolling an 8 on the classic d8 for a longsword), you reroll the die and add the new result (of the die only).
 
 For weapons with multiple dice (example 2d4, the maximum value must be obtained as the sum of the two dice, i.e., 8). There is no damage explosion for weapons with maximum damage less than or equal to 6.
 
@@ -358,7 +360,7 @@ If the cumulative penalty to hit becomes greater than the Attack Roll it is no l
 
 Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even if with significant penalties.
 
->> **Multiple Attack Example**: For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I'm flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
+>> **Multiple Attack Example**: For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I' \*\*m flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
 
 Any dynamic and not *fixed* attack bonuses, e.g., +1d6, apply only to the first Attack Roll and not to the calculation of the bonus for determining the number of multiple attacks. In the example, the Attack Roll becomes 4d6+12, 3d6+7, and then 3d6+2.
 
@@ -400,7 +402,7 @@ At this point, Tups is 11 meters away from his opponent and decides to charge, t
 
 >> **Combat with Long Weapon...**: He charges the brigand, hitting him and getting right next to him. With his last Action, he decides to improve his Defense (Prepare Defense).
 
-The severely wounded brigand tries to hit him, hoping that his difficulty in using a long weapon at close range is offset by the penalties from Tups's charge. Tups is hit, and the brigand drops his spear and draws a short dagger, also going on the defensive.
+The severely wounded brigand tries to hit him, hoping that his difficulty in using a long weapon at close range is offset by the penalties from Tups' \*\*s charge. Tups is hit, and the brigand drops his spear and draws a short dagger, also going on the defensive.
 
 ## Double Weapon
 
@@ -419,11 +421,11 @@ These weapons are light and suitable for Two weapon Fighting.
 ## Fighting with Two Weapons
 
 Attacks made with the secondary weapon are considered multiple attacks.
-If you attack once, regardless of whether it's with the primary or secondary weapon, this will have the full bonus Attack Roll; other attacks will accumulate the -5 penalty to hit.
+If you attack once, regardless of whether it' \*\*s with the primary or secondary weapon, this will have the full bonus Attack Roll; other attacks will accumulate the -5 penalty to hit.
 
 The damage bonus given by Strength on the secondary weapon is halved. If the secondary weapon is not **Light**, the Attack Roll has an additional -3 penalty to hit (e.g., 0,-8,-10,-18...).
 
-It's possible to use the secondary weapon to improve your Defense by one point, but you cannot make attacks with that weapon.
+It' \*\*s possible to use the secondary weapon to improve your Defense by one point, but you cannot make attacks with that weapon.
 
 ## Charge
 
@@ -451,21 +453,21 @@ Splash weapons are those that *spread* their contents where they fall, such as f
 
 If the attack misses (by at least 5), roll a d8 and consult this diagram to understand where the vial has fallen:
 
-| \rowcolor{gray!20}8 | 1 | 2 |
+| 8 | 1 | 2 |
 | 7 | **X** | 3 |
 | --- | --- | --- |
-| \rowcolor{gray!20}6 | 5 | 4 |
+| 6 | 5 | 4 |
 | **0** | **X** is considered the target of the thrown object. **0** is the point of origin of the throw. |
 
 If the roll misses by 5 or more, roll 2d6 to determine along the direction indicated by the previous d8 how many meters it fell away from the target, i.e., count the meters from the target.
 
 For example, if with the d8 roll I get 5 and then rolling 2d6 I get 4, it means the vial fell to the right of the target at 4 meters.
 
-It's also possible that you've thrown the vial at your own feet (e.g., I roll 7 and then 6... I might have thrown it on a companion or behind me!).
+It' \*\*s also possible that you' \*\*ve thrown the vial at your own feet (e.g., I roll 7 and then 6... I might have thrown it on a companion or behind me!).
 
 ## Unprepared -- Caught by Surprise
 
-If a creature is caught by surprise, meaning it doesn't expect to be attacked, this first round should be considered a surprise round. Those who are surprised have a -2 penalty to Defense and Reflex Saving Throws.
+If a creature is caught by surprise, meaning it doesn' \*\*t expect to be attacked, this first round should be considered a surprise round. Those who are surprised have a -2 penalty to Defense and Reflex Saving Throws.
 
 You cannot use Actions or Reactions unless explicitly allowed; from the next round onwards, you can declare your initiative and act normally. The same considerations apply to opponents if they are surprised.
 
@@ -481,35 +483,35 @@ A spellcaster who casts a spell while in combat (has an opponent in melee or is 
 
 The best suggestion that can be given in managing the more chaotic combat situations is to think of these as a movie, evaluate the cinematic quality of the situation.
 
-It's not a question of miniatures, spaces, squares... it's a question of fun and visualization of the scene. Unorthodox solutions for unorthodox situations.
+It' \*\*s not a question of miniatures, spaces, squares... it' \*\*s a question of fun and visualization of the scene. Unorthodox solutions for unorthodox situations.
 
 Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the player has an advantage or disadvantage, and similarly to the opponent.
 
-| \rowcolor{gray!20}**Attacker** |  | **Defender** |
+| **Attacker** |  | **Defender** |
 | --- | --- | --- |
 | **Mod**. | *Situation* | *Situation* |
-| \rowcolor{gray!20}**-1** | Fatigued (1), Dim Light | Fatigued (1) |
+| **-1** | Fatigued (1), Dim Light | Fatigued (1) |
 | **-2** | Fatigued (2), Entangled | Fatigued (2), Grappled, Entangled, Surprised |
-| \rowcolor{gray!20}**-4** | Fatigued (4), Prone, Long Weapon at short distance, non-lethal attack with lethal weapon | Fatigued (4), Prone, Kneeling, Sitting, Restricted, Stunned, Climbing a wall, Restrained |
+| **-4** | Fatigued (4), Prone, Long Weapon at short distance, non-lethal attack with lethal weapon | Fatigued (4), Prone, Kneeling, Sitting, Restricted, Stunned, Climbing a wall, Restrained |
 | **-1d6** | Restricted, Frightened, Ranged Weapon against opponent in melee, Unfamiliar Weapon, Invisible but Detected target, Climbing a wall, Restrained | |
-| \rowcolor{gray!20}**+2** | Flanking, Elevated Position, Attacking from behind | Light Cover |
+| **+2** | Flanking, Elevated Position, Attacking from behind | Light Cover |
 | **+4** |  | Medium Cover |
-| \rowcolor{gray!20}**+1d6** | Invisible, Charge, Helpless opponent | |
+| **+1d6** | Invisible, Charge, Helpless opponent | |
 | **+8** |  | Full Cover |
 
->>> **Feel Free**: Try not to interrupt the game looking for the exact rule, let it flow, tell the players that for brevity you're handling the situation in a certain way; there will be time later to remember the situation and find the right rule. Constantly interrupting the game breaks the *pathos* of the situation.
+>>> **Feel Free**: Try not to interrupt the game looking for the exact rule, let it flow, tell the players that for brevity you' \*\*re handling the situation in a certain way; there will be time later to remember the situation and find the right rule. Constantly interrupting the game breaks the *pathos* of the situation.
 
-When -1d6 is written, it means that you roll one die less (or two if it's -2d6), similarly if there's +1d6 written, you roll one more d6 and add it.
+When -1d6 is written, it means that you roll one die less (or two if it' \*\*s -2d6), similarly if there' \*\*s +1d6 written, you roll one more d6 and add it.
 
 When the penalty is to Defense, consider each -1d6 as a -4 to Defense.
 
 As a general principle, in combat a light bonus is +1, medium +2, high +1d6 (or +4), a very high bonus is +2d6 (or +8), vice versa for penalties.
 
-The **positive modifiers indicated** in the *Table: Modifiers in attack or defense* are added starting from the largest and adding a +1 for each additional bonus present. If an opponent is above the character, behind them, invisible, and charging, they will have a bonus to hit of +1d6 (charge or invisibility) +1 because they're above, +1 because they're behind, +1 because they're charging.
+The **positive modifiers indicated** in the *Table: Modifiers in attack or defense* are added starting from the largest and adding a +1 for each additional bonus present. If an opponent is above the character, behind them, invisible, and charging, they will have a bonus to hit of +1d6 (charge or invisibility) +1 because they' \*\*re above, +1 because they' \*\*re behind, +1 because they' \*\*re charging.
 
 **Penalties** add up entirely among themselves. If the character is surprised and prone, they have a -6 to Defense.
 
->>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Narrator) of some monster; don't be rigid but dynamic and adapt to situations.
+>>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Narrator) of some monster; don' \*\*t be rigid but dynamic and adapt to situations.
 
 ## Other Actions and Situations
 
@@ -519,13 +521,13 @@ The **positive modifiers indicated** in the *Table: Modifiers in attack or defen
 
 Two weapons that will never be lacking to anyone are their own fists and kicks; with these weapons you are always trained and they are not considered improvised attacks.
 
-If you haven't taken the *Empty Hand* weapon list, a punch or kick will do 1d3 + Strength of non-lethal damage. Only with the Empty Hand Weapon List do you become a martial artist.
+If you haven' \*\*t taken the *Empty Hand* weapon list, a punch or kick will do 1d3 + Strength of non-lethal damage. Only with the Empty Hand Weapon List do you become a martial artist.
 
 ### Helping Another in Combat
 
 You can help a companion to attack or defend in melee, by distracting or interfering with the opponent. You can make a melee attack (1 Action) against an opponent who has already engaged in battle with one of your allies.
 
-You make an Attack Roll against the opponent's Defense with a 1d6 bonus. If the attack is successful, you do no damage but your companion gets a +1 bonus to Attack Roll against that opponent or a +1 bonus to Defense until the end of your next round against that opponent on the first attack. If the helper gets a Critical Hit, then the one being helped will have a +2 bonus.
+You make an Attack Roll against the opponent' \*\*s Defense with a 1d6 bonus. If the attack is successful, you do no damage but your companion gets a +1 bonus to Attack Roll against that opponent or a +1 bonus to Defense until the end of your next round against that opponent on the first attack. If the helper gets a Critical Hit, then the one being helped will have a +2 bonus.
 
 Multiple characters can help the same ally; bonuses of this type are cumulative (maximum 4 on medium size), provided the opponent is surrounded.
 
@@ -545,7 +547,7 @@ The attacker automatically hits and inflicts three Critical Hits.
 
 OBSS does not provide the possibility to make called shots with weapons or spells, unless specifically stated.
 
-When you hit a target, you hit it generally, without the possibility to specify whether it's to the head, leg, or elsewhere; the same concept applies in the case of hitting objects, e.g., if you aim at a door hinge, you hit the entire door. This does not prevent the Narrator from evaluating appropriate consequences for the action undertaken.
+When you hit a target, you hit it generally, without the possibility to specify whether it' \*\*s to the head, leg, or elsewhere; the same concept applies in the case of hitting objects, e.g., if you aim at a door hinge, you hit the entire door. This does not prevent the Narrator from evaluating appropriate consequences for the action undertaken.
 
 ### Non-lethal Damage
 
@@ -559,9 +561,9 @@ If you want to do non-lethal damage with a weapon not designed for non-lethal da
 
 ### Without Proficiency
 
-Using a weapon without the appropriate proficiency, meaning not having the Weapon List of the weapon's class, imposes a -1d6 penalty to the Attack Roll.
+Using a weapon without the appropriate proficiency, meaning not having the Weapon List of the weapon' \*\*s class, imposes a -1d6 penalty to the Attack Roll.
 
-You cannot use a weapon's Versatile capability if you don't know how to use it. Kicks and Punches or a Simple Weapon can be used without penalty even without specific proficiencies.
+You cannot use a weapon' \*\*s Versatile capability if you don' \*\*t know how to use it. Kicks and Punches or a Simple Weapon can be used without penalty even without specific proficiencies.
 
 ### Throwing Weapons
 
@@ -581,16 +583,16 @@ If two characters are around the same target but are not next to each other, the
 
 At most, there can be 4 characters around a medium-sized creature who get the flanking bonus. The type of bonus is chosen round by round; if not declared, it counts as +2 to the Attack Roll.
 
-If by drawing a hypothetical line connecting the two characters, this line crosses through the opponent's square, then there is a flanking situation.
+If by drawing a hypothetical line connecting the two characters, this line crosses through the opponent' \*\*s square, then there is a flanking situation.
 
 A creature can attack from behind if the opponent is not able to face it. Attacking from behind grants a +2 bonus to the Attack Roll. This does not stack with Flanking.
 
 **Example of flanking**
 
-| \rowcolor{gray!20}A | G | D |
+| A | G | D |
 | B | **X** | E |
 | --- | --- | --- |
-| \rowcolor{gray!20}C | H | F |
+| C | H | F |
 
 In this diagram, flanking is achieved by the pairs: A-F, B-E, C-D, G-H
 
@@ -630,7 +632,7 @@ They cannot use Movement Actions while taking aim.
 
 ### Ranged weapon against targets in combat
 
-In combat, it's not easy to aim at a target that is in combat with another creature.
+In combat, it' \*\*s not easy to aim at a target that is in combat with another creature.
 
 In addition to any penalties given by Cover (page ), there is an additional penalty of -2 to the Attack Roll.
 
@@ -663,17 +665,17 @@ A creature can use a weapon with the dimension of its own size or one grade smal
 
 If the weapon is of a size higher than what can be used with 2 hands, for example a Halberd (large weapon) for a small-sized creature, the penalty to the Attack Roll is -1d6. The same principle is valid for a two-handed greatsword of large size (2d8 damage) in the hands of a medium-sized creature.
 
-In the weapons table, the dimension is marked as S (small), M (medium), L (large), H (huge) and refers to a medium-sized creature. A *larger* version of a weapon increases the weapon's damage by one category (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6...).
+In the weapons table, the dimension is marked as S (small), M (medium), L (large), H (huge) and refers to a medium-sized creature. A *larger* version of a weapon increases the weapon' \*\*s damage by one category (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6...).
 
 Ex. a large longsword (+1 size) goes from 1d8 to 1d10 damage.
 
 ### Using a weapon with two hands
 
-A one-handed weapon that can (but doesn't have to) be used with two hands increases the damage die when used with two hands.
+A one-handed weapon that can (but doesn' \*\*t have to) be used with two hands increases the damage die when used with two hands.
 
 Ex. Longsword for a medium creature can cause 1d8 with one hand or 1d10 with two hands. A Short Sword cannot be wielded with two hands by a medium creature but can be held with two hands by a small creature.
 
-If the weapon must be held with two hands because it's too large for your size, this modifier is not considered (e.g., a two-handed greatsword for a medium-sized creature, or a longsword for a small creature).
+If the weapon must be held with two hands because it' \*\*s too large for your size, this modifier is not considered (e.g., a two-handed greatsword for a medium-sized creature, or a longsword for a small creature).
 
 The EDX value, if different from the maximum damage of the weapon, increases by 2 (the Katana will cause 2d6 damage and will have ED11) when used with two hands.
 
@@ -683,18 +685,18 @@ Fighting in conditions of reduced light presents difficulties summarized in this
 
 	
 
-| \rowcolor{gray!20}**Vision** | **Condition** | |
+| **Vision** | **Condition** | |
 | --- | --- |
 | Dim Light | Darkness |
 | Normal | -1 To Hit, -2 Awar. | Invis. (page ) |
-| \rowcolor{gray!20}Low-Light | Normal | Invis. (page ) |
+| Low-Light | Normal | Invis. (page ) |
 | Darkvision | Normal | -2 Awar. |
 
 See also Chapter Vision and Light (page ).
 
 ## Optional Combat Maneuvers
 
-These combat Actions are at the Narrator's discretion, who may grant them or not. **Each maneuver counts as an Attack Action** regarding the multi-attack penalties.
+These combat Actions are at the Narrator' \*\*s discretion, who may grant them or not. **Each maneuver counts as an Attack Action** regarding the multi-attack penalties.
 
 When these maneuvers are performed by opponents and the values for Attack Roll, Athletics, Deceive... are not specified, oppose the check with the Saving Throw indicated after the Action cost and the suggested modifiers (Size...).
 
@@ -727,7 +729,7 @@ It is an Athletics check opposed by a Fortitude Saving Throw with Strength. Whoe
 It costs 2 Actions (Fortitude) to make and maintain and to break free from the grapple. It is considered that whoever grapples is also Grappled and has at least one hand occupied in grappling.
 Moving a grappled creature requires Push an opponent.
 
-Each contestant can attack the other grappled with a small weapon or natural weapons; Defense has a -2 penalty and they are considered Distracted. Attacking a creature different from the one you're grappling has a -1d6 penalty to the Attack Roll.
+Each contestant can attack the other grappled with a small weapon or natural weapons; Defense has a -2 penalty and they are considered Distracted. Attacking a creature different from the one you' \*\*re grappling has a -1d6 penalty to the Attack Roll.
 
 ### Moving Through Enemies*
 
@@ -751,15 +753,15 @@ If the one attempting the maneuver fails and gets a Critical Failure, they are t
 ## Optional - Critical Hit Actions
 
 This Option allows combat to be less focused on damage and more on maneuvers and tactics.
-The player keeps track of the Critical Hits they roll but don't apply to damage, in sets of three rounds at a time, restarting the count at the end of the third round or when they use them and the count is at zero.
+The player keeps track of the Critical Hits they roll but don' \*\*t apply to damage, in sets of three rounds at a time, restarting the count at the end of the third round or when they use them and the count is at zero.
 
 Each round they can deduct one or more accumulated Critical Hits to perform Critical Actions. The use of Critical Actions must be against the opponent on whom the Critical Hits were made.
 
 The list proposes a catalog of Critical Actions for consumed Critical Hits. You cannot have more than 6 accumulated Critical Hits. Activating these Critical Actions costs a Reaction.
 
-Use this list as guidelines to stimulate the character to create their own combat style. It's important that character explain how perform the Critical Action.
+Use this list as guidelines to stimulate the character to create their own combat style. It' \*\*s important that character explain how perform the Critical Action.
 
-**Criticals** \hskip 0.5cm **Effect**
+**Criticals**  **Effect**
 
 - **Eye Attacks**
 
@@ -771,7 +773,7 @@ Use this list as guidelines to stimulate the character to create their own comba
 - **Weapon Attacks**
 
 - ***1***: Hit the weapon. The opponent makes a Fortitude Saving Throw DC 15, $ \pm 2 $ for weapon size difference, or drops the weapon
-- ***2***: Damaged weapon. The opponent's weapon inflicts one category of damage less
+- ***2***: Damaged weapon. The opponent' \*\*s weapon inflicts one category of damage less
 - ***3***: Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
 - ***4***: Disarm the opponent. The opponent drops their weapon
 - ***5***: Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
@@ -810,7 +812,7 @@ Use this list as guidelines to stimulate the character to create their own comba
 - ***5***: For 1d6 rounds, all your companions have +4 to Defense
 	
 
->>> **Critical Actions**: These Critical Actions can be described as taking advantage of the opponent's distraction, throwing dirt in their eyes, forcing them to move away with weapon blows...
+>>> **Critical Actions**: These Critical Actions can be described as taking advantage of the opponent' \*\*s distraction, throwing dirt in their eyes, forcing them to move away with weapon blows...
 
 > Honesty and Justice, Heroic Courage, Compassion, Kind Courtesy, Complete Sincerity, Honor, Duty and Loyalty (The seven principles of bushido)
 
@@ -833,7 +835,7 @@ Weapon Maneuvers are grouped by level, i.e., the minimum Weapon Proficiency scor
 - **Acrobatic Dodge** - Activ.: ***Missed*** with an ***odd***. *Effect*: +1 to Reflex Saving Throws until your next turn. *Critical*: +2 to Reflex Saving Throws.
 - **Feint and Reposition** - Activ.: ***Missed*** with an ***even***. *Effect*: Move 1 meter without provoking opportunity attacks. *Critical*: As above but move 2 meters.
 - **Distracting Strike** - Activ.: ***Missed***. *Effect*: +1 to Defense against the opponent until the end of the next round. *Critical*: The opponent considers the character as having light cover.
-- **Quick Interference** - Activ.: ***Missed*** with an ***odd***. *Effect*: The opponent reduces their movement by 1 meter in the next round. *Critical*: The opponent's next movement within the next round treats terrain as difficult.
+- **Quick Interference** - Activ.: ***Missed*** with an ***odd***. *Effect*: The opponent reduces their movement by 1 meter in the next round. *Critical*: The opponent' \*\*s next movement within the next round treats terrain as difficult.
 - **Tactical Opening** - Activ.: ***Missed*** with an ***even***. *Effect*: An ally gets +1 to their next Attack Roll against the opponent. *Critical*: The ally gets +2 to the Attack Roll.
 - **Level 6 Maneuvers**
 
@@ -862,7 +864,7 @@ Weapon Maneuvers are grouped by level, i.e., the minimum Weapon Proficiency scor
 - **Predictive Attack** - Activ.: ***Odd***. *Effect*: Next round the first attack made misses; if you hit with a subsequent attack, you inflict 2 additional critical hits. *Critical*: As above but 3 critical hits and you execute 1 less Action in the round.
 - **Powerful War Cry** - Activ.: ***Odd***. *Effect*: Allies within 9 meters get +1d6 to the Attack Roll until the end of your next round. *Critical*: As above but +2d6, and the character executes only one Action.
 - **Lethal Insight** - Activ.: ***Even***. *Effect*: The next successful attack by the end of the next round inflicts maximized critical hits. *Critical*: As above but compute 2 maximized critical hits, but you execute one less Action.
-- **Uncontainable Fury** - Activ.: ***Even***. *Effect*: Compare the Attack Roll with an adjacent opponent to see if you've hit them; if yes, also add a critical hit. *Critical*: Until the end of the next round, you have -4 to Defense, +1d6 to the Attack Roll, and each successful attack causes an additional critical hit.
+- **Uncontainable Fury** - Activ.: ***Even***. *Effect*: Compare the Attack Roll with an adjacent opponent to see if you' \*\*ve hit them; if yes, also add a critical hit. *Critical*: Until the end of the next round, you have -4 to Defense, +1d6 to the Attack Roll, and each successful attack causes an additional critical hit.
 	
 
 >>> **Enjoy the fumble!**: Invite the player to create their own *failure* style, make them rejoice in a *fumble*!
@@ -871,17 +873,17 @@ Weapon Maneuvers are grouped by level, i.e., the minimum Weapon Proficiency scor
 
 > - And you can find yourself another wife!
 
-- Yes, I can do that. But the trouble is she took my rifle and horse! It's a pity, she was so beautiful, I was attached to her. I gave her some whipping, but she didn't mind.
+- Yes, I can do that. But the trouble is she took my rifle and horse! It' \*\*s a pity, she was so beautiful, I was attached to her. I gave her some whipping, but she didn' \*\*t mind.
 
 - Who, your wife?
 
-- No, my mare. Finding another wife is easy, but I'll never find another mare like that one. (Stagecoach, 1939 film)
+- No, my mare. Finding another wife is easy, but I' \*\*ll never find another mare like that one. (Stagecoach, 1939 film)
 
 To command a mount, it is necessary to have the Ride skill; otherwise, it is only possible to give the direction of movement.
 
 A mount has 2 Actions, and they are normally used to move or to react and obey your commands.
 
-A mount acts in your round, and it's you who decides when it executes its Actions relative to yours. It doesn't roll initiative, it uses yours.
+A mount acts in your round, and it' \*\*s you who decides when it executes its Actions relative to yours. It doesn' \*\*t roll initiative, it uses yours.
 
 Attacks towards a character on a saurider (or mount in general), if not declared otherwise, target the rider and not the saurider.
 
@@ -905,9 +907,10 @@ You can only control a mount if it has been trained to accept a rider. War-train
 
 By spending 1 of your Actions, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
 
-If the mount is intelligent, it might move and act as it prefers, regardless of the rider's instructions. It might flee from combat, charge to attack and devour a severely wounded enemy, or act in some other way against the rider's will.
+If the mount is intelligent, it might move and act as it prefers, regardless of the rider' \*\*s instructions. It might flee from combat, charge to attack and devour a severely wounded enemy, or act in some other way against the rider' \*\*s will.
 
 > Artax galloped through the Swamp of Sadness, and with each step his hooves sank deeper. (Michael Ende, Neverending Story)
 
 The horse knows the way home even when the rider has lost the path. (Ursula K. Le Guin, The Tombs of Atuan)
+
 ---

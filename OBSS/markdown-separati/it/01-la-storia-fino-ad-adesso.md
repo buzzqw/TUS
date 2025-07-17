@@ -38,7 +38,7 @@ Questi nuovi esseri facevano scomparire, sprofondare, ribaltare; distruggevano i
 Le nazioni, come le conoscevamo, non esistevano più. Anche la natura si era trasformata, assumendo forme tra le più aliene immaginabili. Molte zone erano divenute deserti nucleari, inospitali e letali per chiunque... o quasi.
 
 Poi, tutte le entità, tranne Tàhil e i draghi, sparirono nel nulla per sei mesi.
-Trascorso quel tempo, i sogni dei pochi esseri rimasti cominciarono a essere invasi da visioni di altri \emph, altre entità.
+Trascorso quel tempo, i sogni dei pochi esseri rimasti cominciarono a essere invasi da visioni di altri esseri, altre entità.
 
 E arrivò così la seconda ondata dei *Patroni* come collettivamente si facevano chiamare. Per fortuna questi esseri si rivelarono, tutto sommato, più gentili e *umani*, o almeno qualcuno lo era. Bonificarono buona parte delle zone radioattive ed insegnarono a chi accettava i loro Tratti ad attingere alla loro energia per poter formulare delle vere, reali, concrete **magie**!
 Alcune entità crearono o richiamarono altre razze; vuoi per poter dominare gli umani, vuoi per poterli guidare, vuoi per aggiungere caos ed entropia al mondo.
@@ -79,7 +79,7 @@ Ora che siete pronti, è tempo di abbracciare il vostro destino e di scrivere la
 
 Andres Zanzani
 
-> D | D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono stati rimossi grazie alle tantissime persone di tutti i generi e tipi che ci hanno giocato.
+> D&D ha nelle proprie origini tratti misogini e razzisti che con il tempo sono stati rimossi grazie alle tantissime persone di tutti i generi e tipi che ci hanno giocato.
 OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è libero di approcciare argomenti controversi come meglio crede ma sempre nel rispetto di ogni giocatore e sensibilità. Non fate che OBSS sia motivo di litigio ma di unione e spirito fraterno, un gioco che unisca e mai divida. (Andres Zanzani)
 
 ---
@@ -191,7 +191,7 @@ I Tiri Salvezza riguardano i riflessi e lo schivare (Riflessi), resistere a vele
 
 **Uno porta male**: se tiri un 1 con il dato togli 1 dal risultato totale. Non per questo un 6 tirato diventa un 5, l'esplosione del 6 rimane.. solo che togli 1 al risultato finale. Detta diversamente 1 vale 0.
 
-> Il gioco di D | D non ha né vinti né vincitori, ha solo giocatori che amano esercitare la propria immaginazione. I giocatori ed il DM condividono la creazione di avventure in terre fantastiche dove abbondano gli eroi e la magia funziona davvero. In un certo senso, il gioco di D | D non ha regole, solo suggerimenti di regole. Nessuna regola è inviolata, in particolare se una regola nuova o modificata incoraggerà la creatività e l'immaginazione. L'importante è godersi l'avventura. (Tom Moldvay, 03/12/1980. E tutto quanto detto vale anche per OBSS! NdA)
+> Il gioco di D&D non ha né vinti né vincitori, ha solo giocatori che amano esercitare la propria immaginazione. I giocatori ed il DM condividono la creazione di avventure in terre fantastiche dove abbondano gli eroi e la magia funziona davvero. In un certo senso, il gioco di D&D non ha regole, solo suggerimenti di regole. Nessuna regola è inviolata, in particolare se una regola nuova o modificata incoraggerà la creatività e l'immaginazione. L'importante è godersi l'avventura. (Tom Moldvay, 03/12/1980. E tutto quanto detto vale anche per OBSS! NdA)
 
 Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso:
 
@@ -200,4 +200,5 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 >> **Informazioni per il Giocatore**: Box contenente indicazioni e chiarimenti per il Giocatore.
 
 >>> **Informazioni per il Narratore**: Box contenente indicazioni e suggerimenti per il Narratore.
+
 ---

@@ -32,12 +32,12 @@ Un personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per
 
 **Tabella: Equivalenza delle Monete**
 
-| \rowcolor{gray!20}**Moneta** | **MR** | **MA** | **ME** | **MO** | **MP** |
+| **Moneta** | **MR** | **MA** | **ME** | **MO** | **MP** |
 | --- | --- | --- | --- | --- | --- |
 | Rame | 1 | 1/10 | 1/50 | 1/100 | 1/1000 |
-| \rowcolor{gray!20}Argento | 10 | 1 | 1/5 | 1/10 | 1/100 |
+| Argento | 10 | 1 | 1/5 | 1/10 | 1/100 |
 | Electrum | 50 | 5 | 1 | 1/2 | 1/10 |
-| \rowcolor{gray!20}Oro | 100 | 10 | 2 | 1 | 1/10 |
+| Oro | 100 | 10 | 2 | 1 | 1/10 |
 | Platino | 1000 | 100 | 20 | 10 | 1 |
 
 Di solito pagamenti oltre le 100 monete d'oro avvengono in lingotti da 1, 2, 5 kilogrammi d'oro, equivalenti a 100, 200 e 500 monete d'oro o meglio ancora in gemme. In caso di somme ancora più cospicue è possibile che sia rilasciata una lettera di credito di qualche istituto bancario (ma valido in pochissime ed importanti città).
@@ -51,17 +51,18 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 	
 
-| \rowcolor{gray!20}**Costo** | **Oggetto** |
+| **Costo** | **Oggetto** |
+|---|---|
 | 1 mr | Frumento (0.5 kg) |
-| \rowcolor{gray!20}2 mr | Farina (0.5 kg) o pollo (1) |
+| 2 mr | Farina (0.5 kg) o pollo (1) |
 | 1 ma | Ferro (0.5 kg) |
-| \rowcolor{gray!20}1 mo | Cannella (0.5 kg) o capra |
+| 1 mo | Cannella (0.5 kg) o capra |
 | 2 mo | Zenzero o pepe (0.5 kg) o pecora (1) |
-| \rowcolor{gray!20}3 mo | Maiale (1) |
+| 3 mo | Maiale (1) |
 | 4 mo | Lino (1 m\textsuperscript |
-| \rowcolor{gray!20}5 mo | Sale o argento (0.5 kg) |
+| 5 mo | Sale o argento (0.5 kg) |
 | 10 mo | Seta (1 m) o mucca (1) |
-| \rowcolor{gray!20}15 mo | Zafferano(0.5 kg)/bue (1) |
+| 15 mo | Zafferano(0.5 kg)/bue (1) |
 
 Consultate anche il capitolo sull'Ingombro (pag.  in Movimento e Trasporto.
 

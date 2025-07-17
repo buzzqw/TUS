@@ -43,4 +43,5 @@ Figli di creature mannare hanno un 33\% di possibilità, per genitore mannaro, d
 
 La licantropia è una maledizione antica e potente e non è facile da rimuovere.
 Se ferito da un mannaro deve effettuare un Tiro Salvezza come descritto dalla descrizione del mostro. Se il Tiro Salvezza iniziale fallisce allora è necessario un Rimuovi Maledizione contrastato a DC 21 + livello della creatura stessa.
+
 ---

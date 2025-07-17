@@ -158,7 +158,7 @@ Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la tra
 
 La **prima volta** che prendi questa Abilità guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari ad un quarto della tua Saggezza, con un minimo di 1/4. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
-La **seconda volta** che prendi questa Abilità guadagni un Famiglio (pag. ).
+La **seconda volta** che prendi questa Abilità guadagni un Famiglio .
 
 ## Armato
 - **Requisito**:: Forza 3, Competenza Armi 1
@@ -365,7 +365,7 @@ L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre l
 
 Non dimentichi mai un nemico.
 
-Hai una istintiva capacità nel ricordare e valutare un nemico. Quando prendi questa Abilità puoi effettuare una prova di Riconoscere un Mostro (pag. ) utilizzando una Reazione.
+Hai una istintiva capacità nel ricordare e valutare un nemico. Quando prendi questa Abilità puoi effettuare una prova di Riconoscere un Mostro  utilizzando una Reazione.
 
 ## Creare Oggetti Magici
 - **Requisito**:: Competenza Magica 6
@@ -634,7 +634,7 @@ L'ombra ha Difesa pari a 10 + valore Tratto in comune con Tazher a più alto pun
 
 Usando 2 Azioni puoi evocarla nuovamente se dovesse essere uccisa.
 
-La tua ombra non può allontanarsi da te più della somma dei tratti in comune con Tazher in metri. Può essere usata per Condividere Incantesimi, Trasmettere Incantesimi a Contatto (ma usi la tua capacità di attacco), vedi anche Famiglio (pag. ).
+La tua ombra non può allontanarsi da te più della somma dei tratti in comune con Tazher in metri. Può essere usata per Condividere Incantesimi, Trasmettere Incantesimi a Contatto (ma usi la tua capacità di attacco), vedi anche Famiglio .
 
 Può essere usato come punto di lancio degli incantesimi.
 
@@ -1142,7 +1142,7 @@ Puoi tentare di colpire in mischia un avversario che **esca** o **attraversi** u
 - **Tiri Salvezza**:: +1 Riflessi, +1 Volontà
 - **Caratteristica**:: Forza o Destrezza
 
-La **prima volta** che prendi questa Abilità quando usi l'Azione per Preparare la Difesa (pag. ) questa aumenta di 1.
+La **prima volta** che prendi questa Abilità quando usi l'Azione per Preparare la Difesa  questa aumenta di 1.
 
 La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6 oppure Pugno Vuoto 4, usi una Azione Immediata per Preparare la Difesa.
 
@@ -1180,12 +1180,12 @@ E' la capacità di non essere rallentati in un ambiente ostile. E' necessario di
 
 	
 
-| \rowcolor{gray!20}**Ambiente** | **Ambiente** |
+| **Ambiente** | **Ambiente** |
 | --- | --- |
 | Giungla | Aquatico | Costale |
-| \rowcolor{gray!20}Palude | Collina | Foresta |
+| Palude | Collina | Foresta |
 | Pianura | Desertico |
-| \rowcolor{gray!20}Montagna | Ghiacciai | Tundra |
+| Montagna | Ghiacciai | Tundra |
 | Urbano | Sotterraneo |
 
 Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente o ci si specializza sullo stesso.
@@ -1699,7 +1699,7 @@ La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, n
 
 - Ogni volta che l'Abilità viene presa, oltre la prima, si devono selezionare due nuove Lista di Magia *opposta* e il livello massimo lanciabile di incantesimi per tutte le Liste di magia *opposte* diminuisce di 2.  La Lista di Magia Universale non è sceglibile tra le *opposte*.
 - L'Abilità *Un solo credo* non può essere presa assieme a: Figlio Unico, Magie Potenti, Specialista.
-- Se usi l'Abilità *Un solo credo* non puoi usare usare le Abilità di Lista (pag. ).
+- Se usi l'Abilità *Un solo credo* non puoi usare usare le Abilità di Lista .
 
 ## Volonta' Ferrea
 - **Requisito**:: Saggezza 0
@@ -1724,522 +1724,522 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 Per facilitare la transizione da chi viene da altri giochi di ruolo con classi sono qui suddivise le Abilità per le classi più canoniche. Sono chiaramente solo indicazioni, in OBSS il personaggio può essere costruito come meglio si preferisce e come la storia che vive lo sta istruendo.
 
-| \rowcolor{gray!20}	**Lv** | **Guerriero Tank** |  |  | **Abilità** |
+| 	**Lv** | **Guerriero Tank** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | La mia pelle - Seconda pelle |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Difesa pronta |
+| 2 | 2 | 0 | 2d6+6 | Difesa pronta |
 | 3 | 3 | 0 | 3d6+9 | Parata |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Pelle Coriacea |
+| 4 | 4 | 0 | 4d6+12 | Pelle Coriacea |
 | 5 | 5 | 0 | 5d6+15 | Opportunista |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Iniziativa migliorata |
+| 6 | 6 | 0 | 6d6+18 | Iniziativa migliorata |
 | 7 | 7 | 0 | 7d6+21 | Resistenza della pietra |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Seconda pelle (2°) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Robusto |
+| 10 | 10 | 0 | 10d6+30 | Robusto |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Pelle Coriacea (2°) |
+| 12 | 12 | 0 | 12d6+36 | Pelle Coriacea (2°) |
 | 13 | 13 | 0 | 13d6+39 | Volontà Ferrea |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Seconda pelle (3°) |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Duro a morire |
+| 16 | 16 | 0 | 16d6+48 | Duro a morire |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Riflessi fulminei |
+| 18 | 18 | 0 | 18d6+54 | Riflessi fulminei |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colosso |
+| 20 | 20 | 0 | 20d6+60 | Colosso |
 
 **Barbaro**
 
-| \rowcolor{gray!20}	**Lv** | **Barbaro** |  |  | **Abilità** |
+| 	**Lv** | **Barbaro** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Ferocia - Furia |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Colpi Poderosi |
+| 2 | 2 | 0 | 2d6+6 | Colpi Poderosi |
 | 3 | 3 | 0 | 3d6+9 | Proseguire |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Ferocia (2°) |
+| 4 | 4 | 0 | 4d6+12 | Ferocia (2°) |
 | 5 | 5 | 0 | 5d6+15 | Un braccio, un arma |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | La mia morte la tua morte |
+| 6 | 6 | 0 | 6d6+18 | La mia morte la tua morte |
 | 7 | 7 | 0 | 7d6+21 | Ferocia (3°) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Proseguire (2°) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Primo Sangue |
+| 10 | 10 | 0 | 10d6+30 | Primo Sangue |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
+| 12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
 | 13 | 13 | 0 | 13d6+39 | Un braccio, un arma (2°) |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Più sono grossi più fanno rumore quando cadono |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
+| 16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
+| 18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colosso |
+| 20 | 20 | 0 | 20d6+60 | Colosso |
 
 **Spadaccino**
 
-| \rowcolor{gray!20}	**Lv** | **Spadaccino** |  |  | **Abilità** |
+| 	**Lv** | **Spadaccino** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Danza della Lama |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Iniziativa migliorata |
+| 2 | 2 | 0 | 2d6+6 | Iniziativa migliorata |
 | 3 | 3 | 0 | 3d6+9 | Parata |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Estrazione rapida |
+| 4 | 4 | 0 | 4d6+12 | Estrazione rapida |
 | 5 | 5 | 0 | 5d6+15 | Iaijutsu |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Artista dell'Arma |
+| 6 | 6 | 0 | 6d6+18 | Artista dell'Arma |
 | 7 | 7 | 0 | 7d6+21 | Danza della Lama (2°) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Parata (2°) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
+| 10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu (2°) |
+| 12 | 12 | 0 | 12d6+36 | Iaijutsu (2°) |
 | 13 | 13 | 0 | 13d6+39 | Artista dell'Arma (2°) |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Danza della Lama (3°) |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Riflessi fulminei |
+| 16 | 16 | 0 | 16d6+48 | Riflessi fulminei |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Iaijutsu (3°) |
+| 18 | 18 | 0 | 18d6+54 | Iaijutsu (3°) |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Attacco Turbinante |
+| 20 | 20 | 0 | 20d6+60 | Attacco Turbinante |
 
 **Ladro Acrobata**
 
-| \rowcolor{gray!20}	**Lv** | **Ladro Acrobata** |  |  | **Abilità** |
+| 	**Lv** | **Ladro Acrobata** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Estrazione rapida - Passo Felpato |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Opportunista |
+| 2 | 2 | 0 | 2d6+6 | Opportunista |
 | 3 | 3 | 0 | 3d6+9 | Colpo Furtivo |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Schivare trappole |
+| 4 | 4 | 0 | 4d6+12 | Schivare trappole |
 | 5 | 5 | 0 | 5d6+15 | Occhio Clinico |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
+| 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
 | 7 | 7 | 0 | 7d6+21 | Percettivo |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Passo Felpato (2°) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
+| 10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
+| 12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
 | 13 | 13 | 0 | 13d6+39 | Schivare trappole (2°) |
-| \rowcolor{gray!20}14 | 14 | 0 | 14d6+42 | |
+| 14 | 14 | 0 | 14d6+42 | |
 | 15 | 15 | 0 | 15d6+45 | Colpo Furtivo (4°) |
-| \rowcolor{gray!20}16 | 16 | 0 | 16d6+48 | Toccata e fuga |
+| 16 | 16 | 0 | 16d6+48 | Toccata e fuga |
 | 17 | 17 | 0 | 17d6+51 | |
-| \rowcolor{gray!20}18 | 18 | 0 | 18d6+54 | Colpo Indebolente |
+| 18 | 18 | 0 | 18d6+54 | Colpo Indebolente |
 | 19 | 19 | 0 | 19d6+57 | |
-| \rowcolor{gray!20}20 | 20 | 0 | 20d6+60 | Colpo Paralizzante |
+| 20 | 20 | 0 | 20d6+60 | Colpo Paralizzante |
 
 **Assassino**
 
-| \rowcolor{gray!20}	**Lv** | **Assassino** |  |  | **Abilità** |
+| 	**Lv** | **Assassino** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Colpo Furtivo - Passo Felpato |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Estrazione rapida |
+| 2 | 2 | 0 | 2d6+6 | Estrazione rapida |
 | 3 | 3 | 0 | 3d6+9 | Opportunista |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
+| 4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
 | 5 | 5 | 0 | 5d6+15 | Schivare trappole |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
+| 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
 | 7 | 7 | 0 | 7d6+21 | Percettivo |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Passo Felpato (2°) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Occhio Clinico |
+| 10 | 10 | 0 | 10d6+30 | Occhio Clinico |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
+| 12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
 | 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
+| 14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Colpo Furtivo (4°) |
-| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Incantatore da Combattimento |
+| 16 | 15 | 2 | 16d6+45 | Incantatore da Combattimento |
 | 17 | 15 | 3 | 17d6+45 | |
-| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Colpo Indebolente |
+| 18 | 15 | 4 | 18d6+45 | Colpo Indebolente |
 | 19 | 15 | 5 | 19d6+45 | |
-| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Colpo Paralizzante |
+| 20 | 15 | 5 | 20d6+45 | Colpo Paralizzante |
 
 **Ranger Esploratore**
 
-| \rowcolor{gray!20}	**Lv** | **Ranger Esploratore** |  |  | **Abilità** |
+| 	**Lv** | **Ranger Esploratore** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Passo Sicuro - Tiro Preciso |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Segugio |
+| 2 | 2 | 0 | 2d6+6 | Segugio |
 | 3 | 3 | 0 | 3d6+9 | Occhio di Falco |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Passo rapido |
+| 4 | 4 | 0 | 4d6+12 | Passo rapido |
 | 5 | 5 | 0 | 5d6+15 | Uno con l'arco |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Precisino |
+| 6 | 6 | 0 | 6d6+18 | Precisino |
 | 7 | 7 | 0 | 7d6+21 | Passo Sicuro (specializzazione) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Senza Traccia |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Combattere alla Cieca |
+| 10 | 10 | 0 | 10d6+30 | Combattere alla Cieca |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Tiro Rapido |
+| 12 | 12 | 0 | 12d6+36 | Tiro Rapido |
 | 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
+| 14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Segugio (2°) |
-| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Distillare pozioni |
+| 16 | 15 | 2 | 16d6+45 | Distillare pozioni |
 | 17 | 15 | 3 | 17d6+45 | |
-| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Occhio di Falco (2°) |
+| 18 | 15 | 4 | 18d6+45 | Occhio di Falco (2°) |
 | 19 | 15 | 5 | 19d6+45 | |
-| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Uno con l'arco (2°) |
+| 20 | 15 | 5 | 20d6+45 | Uno con l'arco (2°) |
 
 **Ranger Bestiale**
 
-| \rowcolor{gray!20}	**Lv** | **Ranger Bestiale** |  |  | **Abilità** |
+| 	**Lv** | **Ranger Bestiale** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Animaletto / Famiglio - Passo Sicuro |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Segugio |
+| 2 | 2 | 0 | 2d6+6 | Segugio |
 | 3 | 2 | 1 | 3d6+6 | Adepto della Magia |
-| \rowcolor{gray!20}4 | 3 | 1 | 4d6+9 | Animaletto / Famiglio (2°) |
+| 4 | 3 | 1 | 4d6+9 | Animaletto / Famiglio (2°) |
 | 5 | 3 | 2 | 5d6+9 | Animalia |
-| \rowcolor{gray!20}6 | 4 | 2 | 6d6+12 | Tiro Preciso |
+| 6 | 4 | 2 | 6d6+12 | Tiro Preciso |
 | 7 | 4 | 3 | 7d6+12 | Figlia di Shayalia |
-| \rowcolor{gray!20}8 | 5 | 3 | 8d6+15 | |
+| 8 | 5 | 3 | 8d6+15 | |
 | 9 | 5 | 4 | 9d6+15 | Passo Sicuro (specializzazione) |
-| \rowcolor{gray!20}10 | 6 | 4 | 10d6+18 | Occhio di Falco |
+| 10 | 6 | 4 | 10d6+18 | Occhio di Falco |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 7 | 5 | 12d6+21 | Animalia (2°) |
+| 12 | 7 | 5 | 12d6+21 | Animalia (2°) |
 | 13 | 7 | 6 | 13d6+21 | Segugio (2°) |
-| \rowcolor{gray!20}14 | 8 | 6 | 14d6+24 | |
+| 14 | 8 | 6 | 14d6+24 | |
 | 15 | 8 | 7 | 15d6+24 | Figlia di Shayalia (2°) |
-| \rowcolor{gray!20}16 | 9 | 7 | 16d6+27 | Senza Traccia |
+| 16 | 9 | 7 | 16d6+27 | Senza Traccia |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 10 | 8 | 18d6+30 | Tiro Rapido |
+| 18 | 10 | 8 | 18d6+30 | Tiro Rapido |
 | 19 | 11 | 8 | 19d6+33 | |
-| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | Uno con l'arco |
+| 20 | 12 | 8 | 20d6+36 | Uno con l'arco |
 
 **Paladino Tradizionale**
 
-| \rowcolor{gray!20}	**Lv** | **Paladino Tradizionale** |  |  | **Abilità** |
+| 	**Lv** | **Paladino Tradizionale** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Adepto della Magia |
+| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Imposizione delle mani |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armatura del Devoto |
+| 4 | 2 | 2 | 4d6+6 | Armatura del Devoto |
 | 5 | 3 | 2 | 5d6+9 | Il Patrono è la mia Arma (2°) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Scacciare i non morti |
+| 6 | 3 | 3 | 6d6+9 | Scacciare i non morti |
 | 7 | 4 | 3 | 7d6+12 | Imposizione delle mani (2°) |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Lo scudo è mio amico |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
+| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
+| 12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
 | 13 | 7 | 6 | 13d6+21 | Potere del Patrono |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Il Patrono è la mia Arma (3°) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Imposizione delle mani (3°) |
+| 16 | 8 | 8 | 16d6+24 | Imposizione delle mani (3°) |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Incanalare Energia |
+| 18 | 9 | 9 | 18d6+27 | Incanalare Energia |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
+| 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
 
 **Paladino Templare**
 
-| \rowcolor{gray!20}	**Lv** | **Paladino Templare** |  |  | **Abilità** |
+| 	**Lv** | **Paladino Templare** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Questa è la mia arma! |
+| 2 | 2 | 0 | 2d6+6 | Questa è la mia arma! |
 | 3 | 3 | 0 | 3d6+9 | Seconda pelle |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | La mia pelle |
+| 4 | 4 | 0 | 4d6+12 | La mia pelle |
 | 5 | 5 | 0 | 5d6+15 | Il Patrono è la mia Arma (2°) |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Opportunista |
+| 6 | 6 | 0 | 6d6+18 | Opportunista |
 | 7 | 7 | 0 | 7d6+21 | Volontà Ferrea |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Resistenza della pietra |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Il Patrono è la mia Arma (3°) |
+| 10 | 10 | 0 | 10d6+30 | Il Patrono è la mia Arma (3°) |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Seconda pelle (2°) |
+| 12 | 12 | 0 | 12d6+36 | Seconda pelle (2°) |
 | 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| \rowcolor{gray!20}14 | 14 | 1 | 14d6+42 | |
+| 14 | 14 | 1 | 14d6+42 | |
 | 15 | 15 | 1 | 15d6+45 | Il Patrono è la mia Arma (4°) |
-| \rowcolor{gray!20}16 | 15 | 2 | 16d6+45 | Imposizione delle mani |
+| 16 | 15 | 2 | 16d6+45 | Imposizione delle mani |
 | 17 | 15 | 3 | 17d6+45 | |
-| \rowcolor{gray!20}18 | 15 | 4 | 18d6+45 | Il Patrono è la mia Arma (5°) |
+| 18 | 15 | 4 | 18d6+45 | Il Patrono è la mia Arma (5°) |
 | 19 | 15 | 5 | 19d6+45 | |
-| \rowcolor{gray!20}20 | 15 | 5 | 20d6+45 | Il Patrono è la mia Arma (6°) |
+| 20 | 15 | 5 | 20d6+45 | Il Patrono è la mia Arma (6°) |
 
 **Mago Accademico**
 
-| \rowcolor{gray!20}	**Lv** | **Mago Accademico** |  |  | **Abilità** |
+| 	**Lv** | **Mago Accademico** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 0 | 1 | 1d6 | Adepto della Magia - Tutt'uno con la magia |
-| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Sapiente |
+| 2 | 0 | 2 | 2d6 | Sapiente |
 | 3 | 0 | 3 | 3d6 | Prodigioso |
-| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Adepto della Magia (2°) |
+| 4 | 0 | 4 | 4d6 | Adepto della Magia (2°) |
 | 5 | 0 | 5 | 5d6 | Magie Potenti |
-| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Concentrato |
+| 6 | 0 | 6 | 6d6 | Concentrato |
 | 7 | 0 | 7 | 7d6 | Dattilografo |
-| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
+| 8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | Batteria Magica |
-| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Specialista |
+| 10 | 0 | 10 | 10d6 | Specialista |
 | 11 | 0 | 11 | 11d6 | |
-| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Creare Oggetti Magici |
+| 12 | 0 | 12 | 12d6 | Creare Oggetti Magici |
 | 13 | 0 | 13 | 13d6 | Prodigioso (2°) |
-| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
+| 14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Adepto della Magia (3°) |
-| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Concentrato (2°) |
+| 16 | 0 | 16 | 16d6 | Concentrato (2°) |
 | 17 | 0 | 17 | 17d6 | |
-| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
+| 18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
 | 19 | 0 | 19 | 19d6 | |
-| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Adepto della Magia (4°) |
+| 20 | 0 | 20 | 20d6 | Adepto della Magia (4°) |
 
 **Stregone**
 
-| \rowcolor{gray!20}	**Lv** | **Stregone** |  |  | **Abilità** |
+| 	**Lv** | **Stregone** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 0 | 1 | 1d6 | Adepto della Magia - Batteria Magica |
-| \rowcolor{gray!20}2 | 0 | 2 | 2d6 | Elementalista |
+| 2 | 0 | 2 | 2d6 | Elementalista |
 | 3 | 0 | 3 | 3d6 | Batteria Estesa |
-| \rowcolor{gray!20}4 | 0 | 4 | 4d6 | Concentrato |
+| 4 | 0 | 4 | 4d6 | Concentrato |
 | 5 | 0 | 5 | 5d6 | Magie Potenti |
-| \rowcolor{gray!20}6 | 0 | 6 | 6d6 | Dadi Truccati |
+| 6 | 0 | 6 | 6d6 | Dadi Truccati |
 | 7 | 0 | 7 | 7d6 | Elementalista (2°) |
-| \rowcolor{gray!20}8 | 0 | 8 | 8d6 | |
+| 8 | 0 | 8 | 8d6 | |
 | 9 | 0 | 9 | 9d6 | Un colpo un morto |
-| \rowcolor{gray!20}10 | 0 | 10 | 10d6 | Batteria Magica (2°) |
+| 10 | 0 | 10 | 10d6 | Batteria Magica (2°) |
 | 11 | 0 | 11 | 11d6 | |
-| \rowcolor{gray!20}12 | 0 | 12 | 12d6 | Dadi Truccati (2°) |
+| 12 | 0 | 12 | 12d6 | Dadi Truccati (2°) |
 | 13 | 0 | 13 | 13d6 | Concentrato (2°) |
-| \rowcolor{gray!20}14 | 0 | 14 | 14d6 | |
+| 14 | 0 | 14 | 14d6 | |
 | 15 | 0 | 15 | 15d6 | Adepto della Magia (2°) |
-| \rowcolor{gray!20}16 | 0 | 16 | 16d6 | Magie Potenti (2°) |
+| 16 | 0 | 16 | 16d6 | Magie Potenti (2°) |
 | 17 | 0 | 17 | 17d6 | |
-| \rowcolor{gray!20}18 | 0 | 18 | 18d6 | Incantatore Prudente |
+| 18 | 0 | 18 | 18d6 | Incantatore Prudente |
 | 19 | 0 | 19 | 19d6 | |
-| \rowcolor{gray!20}20 | 0 | 20 | 20d6 | Tutt'uno con la magia |
+| 20 | 0 | 20 | 20d6 | Tutt'uno con la magia |
 
 **Chierico Guaritore**
 
-| \rowcolor{gray!20}	**Lv** | **Chierico Guaritore** |  |  | **Abilità** |
+| 	**Lv** | **Chierico Guaritore** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Guaritore - Adepto della Magia |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
+| 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
 | 3 | 2 | 1 | 3d6+6 | Fedele |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Tutt'uno con la magia |
+| 4 | 2 | 2 | 4d6+6 | Tutt'uno con la magia |
 | 5 | 3 | 2 | 5d6+9 | Imposizione delle mani (2°) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Incanalare Energia |
+| 6 | 3 | 3 | 6d6+9 | Incanalare Energia |
 | 7 | 4 | 3 | 7d6+12 | Scacciare i non morti |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Guaritore (2°) oppure Adepto della Magia |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
+| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 5 | 6 | 11d6+15 | |
-| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Imposizione delle mani (3°) |
+| 12 | 5 | 7 | 12d6+15 | Imposizione delle mani (3°) |
 | 13 | 5 | 8 | 13d6+15 | Potere del Patrono |
-| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
+| 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Imposizione delle mani (4°) |
-| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Incanalare Energia (2°) |
+| 16 | 5 | 11 | 16d6+15 | Incanalare Energia (2°) |
 | 17 | 5 | 12 | 17d6+15 | |
-| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Imposizione delle mani (5°) |
+| 18 | 5 | 13 | 18d6+15 | Imposizione delle mani (5°) |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Imposizione delle mani (6°) |
+| 20 | 5 | 15 | 20d6+15 | Imposizione delle mani (6°) |
 
 **Chierico Guerriero**
 
-| \rowcolor{gray!20}	**Lv** | **Chierico Guerriero** |  |  | **Abilità** |
+| 	**Lv** | **Chierico Guerriero** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Adepto della Magia |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
+| 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
 | 3 | 2 | 1 | 3d6+6 | Armatura del Devoto |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Scacciare i non morti |
+| 4 | 2 | 2 | 4d6+6 | Scacciare i non morti |
 | 5 | 3 | 2 | 5d6+9 | Il Patrono è la mia Arma (2°) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Lo scudo è mio amico |
+| 6 | 3 | 3 | 6d6+9 | Lo scudo è mio amico |
 | 7 | 4 | 3 | 7d6+12 | Tutt'uno con la magia |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Imposizione delle mani (2°) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
+| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
+| 12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
 | 13 | 7 | 6 | 13d6+21 | Potere del Patrono |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Il Patrono è la mia Arma (3°) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Incanalare Energia |
+| 16 | 8 | 8 | 16d6+24 | Incanalare Energia |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Armatura del Devoto (3°) |
+| 18 | 9 | 9 | 18d6+27 | Armatura del Devoto (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
+| 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
 
 **Druido Naturalista**
 
-| \rowcolor{gray!20}	**Lv** | **Druido Naturalista** |  |  | **Abilità** |
+| 	**Lv** | **Druido Naturalista** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Figlia di Shayalia |
+| 2 | 1 | 1 | 2d6+3 | Figlia di Shayalia |
 | 3 | 2 | 1 | 3d6+6 | Passo Sicuro |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Elementalista |
+| 4 | 2 | 2 | 4d6+6 | Elementalista |
 | 5 | 3 | 2 | 5d6+9 | Animaletto / Famiglio |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Tutt'uno con la magia |
+| 6 | 3 | 3 | 6d6+9 | Tutt'uno con la magia |
 | 7 | 4 | 3 | 7d6+12 | Distillare pozioni (2°) |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Figlia di Shayalia (2°) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Concentrato |
+| 10 | 5 | 5 | 10d6+15 | Concentrato |
 | 11 | 5 | 6 | 11d6+15 | |
-| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Elementalista (2°) |
+| 12 | 5 | 7 | 12d6+15 | Elementalista (2°) |
 | 13 | 5 | 8 | 13d6+15 | Forma Elementale |
-| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
+| 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Animaletto / Famiglio (2°) |
-| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Figlia di Shayalia (3°) |
+| 16 | 5 | 11 | 16d6+15 | Figlia di Shayalia (3°) |
 | 17 | 5 | 12 | 17d6+15 | |
-| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Magie Potenti |
+| 18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Prodigioso |
+| 20 | 5 | 15 | 20d6+15 | Prodigioso |
 
 **Druido Mutaforma**
 
-| \rowcolor{gray!20}	**Lv** | **Druido Mutaforma** |  |  | **Abilità** |
+| 	**Lv** | **Druido Mutaforma** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Animalia |
+| 2 | 1 | 1 | 2d6+3 | Animalia |
 | 3 | 2 | 1 | 3d6+6 | Figlia di Shayalia |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Sangue Puro |
+| 4 | 2 | 2 | 4d6+6 | Sangue Puro |
 | 5 | 3 | 2 | 5d6+9 | Animalia (2°) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Forma Elementale |
+| 6 | 3 | 3 | 6d6+9 | Forma Elementale |
 | 7 | 4 | 3 | 7d6+12 | Passo Sicuro |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Sangue Puro (2°) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Animalia (3°) |
+| 10 | 5 | 5 | 10d6+15 | Animalia (3°) |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Figlia di Shayalia (2°) |
+| 12 | 6 | 6 | 12d6+18 | Figlia di Shayalia (2°) |
 | 13 | 7 | 6 | 13d6+21 | Forma Elementale (2°) |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Sangue Puro (3°) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Animalia (4°) |
+| 16 | 8 | 8 | 16d6+24 | Animalia (4°) |
 | 17 | 8 | 9 | 17d6+24 | |
-| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Figlia di Shayalia (3°) |
+| 18 | 8 | 10 | 18d6+24 | Figlia di Shayalia (3°) |
 | 19 | 8 | 11 | 19d6+24 | |
-| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Figlia di Shayalia (4°) |
+| 20 | 8 | 12 | 20d6+24 | Figlia di Shayalia (4°) |
 
 **Bardo Incantatore**
 
-| \rowcolor{gray!20}	**Lv** | **Bardo Incantatore** |  |  | **Abilità** |
+| 	**Lv** | **Bardo Incantatore** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Infondere Coraggio - Adepto della Magia |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Incantatore da Combattimento |
+| 2 | 1 | 1 | 2d6+3 | Incantatore da Combattimento |
 | 3 | 2 | 1 | 3d6+6 | Infondere Paura |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Esperto |
+| 4 | 2 | 2 | 4d6+6 | Esperto |
 | 5 | 3 | 2 | 5d6+9 | Infondere Coraggio (2°) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Litania versatile |
+| 6 | 3 | 3 | 6d6+9 | Litania versatile |
 | 7 | 4 | 3 | 7d6+12 | Concentrato |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Infondere Paura (2°) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Guerriero della Magia |
+| 10 | 5 | 5 | 10d6+15 | Guerriero della Magia |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Infondere Coraggio (3°) |
+| 12 | 6 | 6 | 12d6+18 | Infondere Coraggio (3°) |
 | 13 | 7 | 6 | 13d6+21 | Tutt'uno con la magia |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Litania versatile (2°) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Magie Potenti |
+| 16 | 8 | 8 | 16d6+24 | Magie Potenti |
 | 17 | 8 | 9 | 17d6+24 | |
-| \rowcolor{gray!20}18 | 8 | 10 | 18d6+24 | Infondere Energia Magica |
+| 18 | 8 | 10 | 18d6+24 | Infondere Energia Magica |
 | 19 | 8 | 11 | 19d6+24 | |
-| \rowcolor{gray!20}20 | 8 | 12 | 20d6+24 | Prodigioso |
+| 20 | 8 | 12 | 20d6+24 | Prodigioso |
 
 **Bardo della Lama**
 
-| \rowcolor{gray!20}	**Lv** | **Bardo della Lama** |  |  | **Abilità** |
+| 	**Lv** | **Bardo della Lama** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Danza della Lama - Infondere Coraggio |
-| \rowcolor{gray!20}2 | 2 | 0 | 2d6+6 | Arma Focalizzata |
+| 2 | 2 | 0 | 2d6+6 | Arma Focalizzata |
 | 3 | 3 | 0 | 3d6+9 | Tattico |
-| \rowcolor{gray!20}4 | 4 | 0 | 4d6+12 | Danza della Lama (2°) |
+| 4 | 4 | 0 | 4d6+12 | Danza della Lama (2°) |
 | 5 | 5 | 0 | 5d6+15 | Fare Infuriare |
-| \rowcolor{gray!20}6 | 6 | 0 | 6d6+18 | Danno Coordinato |
+| 6 | 6 | 0 | 6d6+18 | Danno Coordinato |
 | 7 | 7 | 0 | 7d6+21 | Danza della Lama (3°) |
-| \rowcolor{gray!20}8 | 8 | 0 | 8d6+24 | |
+| 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Infondere Coraggio (2°) |
-| \rowcolor{gray!20}10 | 10 | 0 | 10d6+30 | Attacco Turbinante |
+| 10 | 10 | 0 | 10d6+30 | Attacco Turbinante |
 | 11 | 11 | 0 | 11d6+33 | |
-| \rowcolor{gray!20}12 | 12 | 0 | 12d6+36 | Iaijutsu |
+| 12 | 12 | 0 | 12d6+36 | Iaijutsu |
 | 13 | 12 | 1 | 13d6+36 | Adepto della Magia |
-| \rowcolor{gray!20}14 | 12 | 2 | 14d6+36 | |
+| 14 | 12 | 2 | 14d6+36 | |
 | 15 | 12 | 3 | 15d6+36 | Danno Coordinato (2°) |
-| \rowcolor{gray!20}16 | 12 | 4 | 16d6+36 | Guerriero della Magia |
+| 16 | 12 | 4 | 16d6+36 | Guerriero della Magia |
 | 17 | 12 | 5 | 17d6+36 | |
-| \rowcolor{gray!20}18 | 12 | 6 | 18d6+36 | Infondere Energia Magica |
+| 18 | 12 | 6 | 18d6+36 | Infondere Energia Magica |
 | 19 | 12 | 7 | 19d6+36 | |
-| \rowcolor{gray!20}20 | 12 | 8 | 20d6+36 | Litania versatile |
+| 20 | 12 | 8 | 20d6+36 | Litania versatile |
 
 **Monaco Mistico**
 
-| \rowcolor{gray!20}	**Lv** | **Monaco Mistico** |  |  | **Abilità** |
+| 	**Lv** | **Monaco Mistico** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Gru d'Argento - Energia Psichica |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Pugno di Ferro |
+| 2 | 1 | 1 | 2d6+3 | Pugno di Ferro |
 | 3 | 2 | 1 | 3d6+6 | Colpo Psichico |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Armatura della Montagna Incantata |
+| 4 | 2 | 2 | 4d6+6 | Armatura della Montagna Incantata |
 | 5 | 3 | 2 | 5d6+9 | Gru d'Argento (2°) |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Pugno di Ferro (2°) |
+| 6 | 3 | 3 | 6d6+9 | Pugno di Ferro (2°) |
 | 7 | 4 | 3 | 7d6+12 | Passo rapido |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Colpo Psichico (2°) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Raggio Psichico |
+| 10 | 5 | 5 | 10d6+15 | Raggio Psichico |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Volontà Ferrea |
+| 12 | 6 | 6 | 12d6+18 | Volontà Ferrea |
 | 13 | 7 | 6 | 13d6+21 | Pugno di Ferro (3°) |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Armatura della Montagna Incantata (2°) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Tempesta di Furia |
+| 16 | 8 | 8 | 16d6+24 | Tempesta di Furia |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Gru d'Argento (3°) |
+| 18 | 9 | 9 | 18d6+27 | Gru d'Argento (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Ali della Fenice |
+| 20 | 10 | 10 | 20d6+30 | Ali della Fenice |
 
 **Devoto dell'occulto**
 
-| \rowcolor{gray!20}	**Lv** | **Devoto dell'occulto** |  |  | **Abilità** |
+| 	**Lv** | **Devoto dell'occulto** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Figlio di Tazher - Fedele |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Adepto della Magia |
+| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Il Patrono è con me |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Sifone Nero |
+| 4 | 2 | 2 | 4d6+6 | Sifone Nero |
 | 5 | 3 | 2 | 5d6+9 | Potere del Patrono |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Concentrato |
+| 6 | 3 | 3 | 6d6+9 | Concentrato |
 | 7 | 4 | 3 | 7d6+12 | Batteria Magica |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Il Patrono è con me (2°) |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Muro mentale |
+| 10 | 5 | 5 | 10d6+15 | Muro mentale |
 | 11 | 5 | 6 | 11d6+15 | |
-| \rowcolor{gray!20}12 | 5 | 7 | 12d6+15 | Creare Oggetti Magici |
+| 12 | 5 | 7 | 12d6+15 | Creare Oggetti Magici |
 | 13 | 5 | 8 | 13d6+15 | Fedele (2°) |
-| \rowcolor{gray!20}14 | 5 | 9 | 14d6+15 | |
+| 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Adepto della Magia (2°) |
-| \rowcolor{gray!20}16 | 5 | 11 | 16d6+15 | Il Patrono è con me (3°) |
+| 16 | 5 | 11 | 16d6+15 | Il Patrono è con me (3°) |
 | 17 | 5 | 12 | 17d6+15 | |
-| \rowcolor{gray!20}18 | 5 | 13 | 18d6+15 | Magie Potenti |
+| 18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
-| \rowcolor{gray!20}20 | 5 | 15 | 20d6+15 | Adepto della Magia (3°) |
+| 20 | 5 | 15 | 20d6+15 | Adepto della Magia (3°) |
 
 **Magus**
 
-| \rowcolor{gray!20}	**Lv** | **Magus** |  |  | **Abilità** |
+| 	**Lv** | **Magus** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Incantatore da Combattimento |
-| \rowcolor{gray!20}2 | 1 | 1 | 2d6+3 | Adepto della Magia |
+| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Guerriero della Magia |
-| \rowcolor{gray!20}4 | 2 | 2 | 4d6+6 | Infondere Energia Magica |
+| 4 | 2 | 2 | 4d6+6 | Infondere Energia Magica |
 | 5 | 3 | 2 | 5d6+9 | Radici magiche |
-| \rowcolor{gray!20}6 | 3 | 3 | 6d6+9 | Guerriero della Magia (2°) |
+| 6 | 3 | 3 | 6d6+9 | Guerriero della Magia (2°) |
 | 7 | 4 | 3 | 7d6+12 | Incantatore da Combattimento (2°) |
-| \rowcolor{gray!20}8 | 4 | 4 | 8d6+12 | |
+| 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Infondere Energia Magica Superiore |
-| \rowcolor{gray!20}10 | 5 | 5 | 10d6+15 | Un colpo un morto |
+| 10 | 5 | 5 | 10d6+15 | Un colpo un morto |
 | 11 | 6 | 5 | 11d6+18 | |
-| \rowcolor{gray!20}12 | 6 | 6 | 12d6+18 | Guerriero della Magia (3°) |
+| 12 | 6 | 6 | 12d6+18 | Guerriero della Magia (3°) |
 | 13 | 7 | 6 | 13d6+21 | Concentrato |
-| \rowcolor{gray!20}14 | 7 | 7 | 14d6+21 | |
+| 14 | 7 | 7 | 14d6+21 | |
 | 15 | 8 | 7 | 15d6+24 | Guerriero della Magia (4°) |
-| \rowcolor{gray!20}16 | 8 | 8 | 16d6+24 | Infondere Energia Magica Superiore (2°) |
+| 16 | 8 | 8 | 16d6+24 | Infondere Energia Magica Superiore (2°) |
 | 17 | 9 | 8 | 17d6+27 | |
-| \rowcolor{gray!20}18 | 9 | 9 | 18d6+27 | Incantatore da Combattimento (3°) |
+| 18 | 9 | 9 | 18d6+27 | Incantatore da Combattimento (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
-| \rowcolor{gray!20}20 | 10 | 10 | 20d6+30 | Adepto della Magia (2°) |
+| 20 | 10 | 10 | 20d6+30 | Adepto della Magia (2°) |
 
 ---

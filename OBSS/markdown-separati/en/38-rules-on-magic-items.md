@@ -88,7 +88,7 @@ To repair a magic item requires materials and time, equal to half the time and c
 
 ## Charges, Doses, and Multiple Uses
 
-I'll translate the text while preserving all LaTeX commands and formatting:
+I' \*\*ll translate the text while preserving all LaTeX commands and formatting:
 
 Many items, particularly wands and staves, have power limited to the number of charges they contain. Normally, items with charges never exceed a maximum of 20 charges (10 for staves). If similar items are found as a random part of a treasure, roll 1d10+10 to determine the remaining charges. If an item has a maximum number of charges different from 20, roll randomly to determine how many charges remain.
 
@@ -98,26 +98,26 @@ The prices listed refer to items at their maximum charges (when an item is creat
 
 Magic items *with charges* such as Wands and Staves have a number of uses, charges, meaning each time you draw on its power, you use a charge.
 
-To recharge a wand or staff, a spellcaster must infuse the same spell that they want to recharge by spending twice the Magic Points of the spell's cost and succeed on a Magic Check.
+To recharge a wand or staff, a spellcaster must infuse the same spell that they want to recharge by spending twice the Magic Points of the spell' \*\*s cost and succeed on a Magic Check.
 
 ## Acquiring Magic Items
 
-| \rowcolor{gray!20}**Community Size** | **Base Value** | **Common** | **Uncommon** | **Rare** |
+| **Community Size** | **Base Value** | **Common** | **Uncommon** | **Rare** |
 | --- | --- | --- | --- | --- |
 | Settlement | 20 gp | 1d2 items |  | |
-| \rowcolor{gray!20}Hamlet | 150 gp | 1d4 items |  | |
+| Hamlet | 150 gp | 1d4 items |  | |
 | Village | 300 gp | 1d6 items | 1d2 items | |
-| \rowcolor{gray!20}Small town | 700 gp | 1d4 items | 1d2 items | |
+| Small town | 700 gp | 1d4 items | 1d2 items | |
 | Large town | 1500 gp | 1d6 items | 1d4 items | 1d2 items |
-| \rowcolor{gray!20}Small city | 2500 gp | 2d4 items | 1d6 items | 1d4 items |
+| Small city | 2500 gp | 2d4 items | 1d6 items | 1d4 items |
 | Large city | 6000 gp | 3d4 items | 2d4 items | 1d6 items |
-| \rowcolor{gray!20}Metropolis | 12000 gp | {*} | 3d4 items | 2d4 items |
+| Metropolis | 12000 gp | {*} | 3d4 items | 2d4 items |
 
 {*} In a metropolis, almost all minor magic items can be found.
 
 Magic items are valuable, and most large cities have at least one or two suppliers of magic items, from simple potion vendors to blacksmiths specialized in forging magic swords. Obviously, not every item in this manual is available in every city.
 
-The following guidelines help Narrators determine which items are available in a specific community. They assume a campaign with an average level of magic. Some cities might deviate greatly from this baseline at the Narrator's discretion. The Narrator should keep a list of items available from each merchant and should occasionally replenish stocks with new acquisitions.
+The following guidelines help Narrators determine which items are available in a specific community. They assume a campaign with an average level of magic. Some cities might deviate greatly from this baseline at the Narrator' \*\*s discretion. The Narrator should keep a list of items available from each merchant and should occasionally replenish stocks with new acquisitions.
 
 The number and types of magic items available in a community depend on its size. Each community has a base value associated with it (see Table: Available Magic Items).
 
@@ -129,7 +129,7 @@ If the use of magic in the campaign is rare, halve the base value and the number
 
 Campaigns with abundant magic items might have communities with twice the established base value and available random magic items. Alternatively, all communities could be considered one size category larger for the purpose of determining available magic items. In a campaign with very common magic, all magic items can be purchased in a metropolis.
 
-Non-magical items and tools are generally available in a community of any size unless the item is very expensive, like full plate armor, or made of an unusual material, like an adamantine longsword. These items should follow the base value guideline to determine their availability, at the Narrator's discretion.
+Non-magical items and tools are generally available in a community of any size unless the item is very expensive, like full plate armor, or made of an unusual material, like an adamantine longsword. These items should follow the base value guideline to determine their availability, at the Narrator' \*\*s discretion.
 
 ## Artifacts of the old world
 
@@ -137,7 +137,8 @@ During adventures, players will find objects from the forgotten past. They may b
 
 Alternatively, they may be tools created in the last days of the first era when, having learned the rudiments of magic, some genius and Devotee managed to exploit technology with magic, managed to *magically* activate a technological apparatus.
 
-So let's not be surprised to find objects that can be recharged, even if for a short time, with *Shocking Grasp*, or functioning vehicles when struck by a *Lightning Bolt*.
+So let' \*\*s not be surprised to find objects that can be recharged, even if for a short time, with *Shocking Grasp*, or functioning vehicles when struck by a *Lightning Bolt*.
 
 These objects will be rare and precious, almost like a dose of still-active antibiotic. Feel free to create *technomagical* objects, taking inspiration from the modern world and science fiction to create amazing useful items for your adventure.
+
 ---

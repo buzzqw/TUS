@@ -1,6 +1,6 @@
 # Materiale per giocare
 
-Siete invitati a scaricare da GitHub **Old Bell School System** liberamente e senza vincoli se non quelli espressi dalla licenza.
+**Old Bell School System - OBSS - Fantasy Adventure Game**
 Il sito principale è https://github.com/buzzqw/TUS
 
 * **Manuale di OBSS**:

@@ -80,47 +80,47 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 
 	
 
-| \rowcolor{gray!20}**Cosa si fa** | **Azioni** |
+| **Cosa si fa** | **Azioni** |
 | --- | --- |
 | Eseguire un attacco | 1 |
-| \rowcolor{gray!20}Eseguire due attacchi | 2 |
+| Eseguire due attacchi | 2 |
 | Eseguire più di due attacchi | 3 |
-| \rowcolor{gray!20}Estrarre o Rinfoderare l'arma o scudo | 1 |
+| Estrarre o Rinfoderare l'arma o scudo | 1 |
 | Eseguire una Azione di Movimento | 1* |
-| \rowcolor{gray!20}Scatto | 1 |
+| Scatto | 1 |
 | Alzarsi da prono | 1 |
-| \rowcolor{gray!20}Aiutare qualcuno | R |
+| Aiutare qualcuno | R |
 | Eseguire prova su una competenza | 1* |
-| \rowcolor{gray!20}Riconoscere una creatura | 1 |
+| Riconoscere una creatura | 1 |
 | Nascondersi | 1 |
-| \rowcolor{gray!20}Salire o scendere dalla cavalcatura | 2 |
+| Salire o scendere dalla cavalcatura | 2 |
 | Sfondare una porta a spallate/calci | 1 |
-| \rowcolor{gray!20}Forzare porta con piede di porco | 2 |
+| Forzare porta con piede di porco | 2 |
 | Cercare qualcosa nello zaino | 2 |
-| \rowcolor{gray!20}{ Prendere qualcosa dalla cintura o di pronto} | 1 |
+| { Prendere qualcosa dalla cintura o di pronto} | 1 |
 | Usare un oggetto tenuto in mano | 1 |
-| \rowcolor{gray!20}Bere una pozione tenuta in mano | Imm. |
+| Bere una pozione tenuta in mano | Imm. |
 | Fare bere una pozione ad un altro | 2 |
-| \rowcolor{gray!20}Gettare un oggetto tenuto in mano | R |
+| Gettare un oggetto tenuto in mano | R |
 | Gettarsi a terra prono | R |
-| \rowcolor{gray!20}Lanciare un Incantesimo* | 2 |
+| Lanciare un Incantesimo* | 2 |
 | Concentrarsi su un Incantesimo | 1 |
-| \rowcolor{gray!20}Interrompere un proprio incantesimo | Imm. |
+| Interrompere un proprio incantesimo | Imm. |
 | Riconoscere un Incantesimo | R |
-| \rowcolor{gray!20}Usare un oggetto magico | 2 |
+| Usare un oggetto magico | 2 |
 | Scambiare un dialogo con qualcuno | 3* |
-| \rowcolor{gray!20}Scambiare poche battute con qualcuno | 0* |
+| Scambiare poche battute con qualcuno | 0* |
 | Preparare la Difesa | 1 |
-| \rowcolor{gray!20}Difesa Totale | 2 |
+| Difesa Totale | 2 |
 | Disingaggiare | 1 |
-| \rowcolor{gray!20}Colpo preciso | 2 |
+| Colpo preciso | 2 |
 | Disarmare | 2 |
-| \rowcolor{gray!20}Finta | 1 |
+| Finta | 1 |
 | Spingere un avversario | 2 |
-| \rowcolor{gray!20}Afferrare l'avversario | 2 |
+| Afferrare l'avversario | 2 |
 | Fare cadere l'avversario | 2 |
 
-**Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole (pag. ) per lanciare più incantesimi nel round.
+**Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole  per lanciare più incantesimi nel round.
 
 **Scambiare un dialogo con qualcuno***: Un dialogo può essere di pochi secondi se non di minuti. Il Narratore valuterà quanto questo dura.
 
@@ -185,6 +185,7 @@ Se non indicata nella scheda del avversario la **portata** è pari a metà dello
 >>> **Distanza in Combattimento**: Es. per una creatura armata di lancia la portata è 2 ovvero la distanza di mischia è 2 metri perché l'arma è lunga. Per uno gnomo armato di martello, o a mani nude, la distanza di mischia è 1 metro. Per creature particolarmente grandi (Enormi o più) con armi altrettanto grandi la portata viene indicata o si desume dalle dimensioni del mostro e dalla tipologia di arma.
 
 **La portata indica fino a che distanza puoi colpire in mischia.**
+
 ---
 
 ## Vita e Morte
@@ -195,7 +196,7 @@ Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocat
 
 Il danno da arma si calcola come somma del dado dell'arma, Forza (o Destrezza se indicato da Abilità) che sia positiva o negativa, bonus dati da Lista d'Armi, bonus dati Abilità, bonus dati dall'arma e bonus circostanziali.
 
-Quando una creatura raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero Indifeso ed Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione..) lo porterà cosciente ed ai Punti Ferita curati. Una prova di Pronto Soccorso (pag. ) (DC 12) potrà essere usata per riportarlo cosciente a 1 Punto Ferita.
+Quando una creatura raggiunge i 0 (zero) Punti Ferita si considera svenuto, ovvero Indifeso ed Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione..) lo porterà cosciente ed ai Punti Ferita curati. Una prova di Pronto Soccorso  (DC 12) potrà essere usata per riportarlo cosciente a 1 Punto Ferita.
 Se lasciato svenuto dopo un ora se non è successo qualcosa a mutare la situazione il personaggio può fare un Tiro Salvezza su Tempra a DC 15, se riesce torna a 1 Punto Ferita, se fallisce va a -1 e diventa morente.
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno) ed è svenuto e indifeso. Continuerà a perdere 1 Punto Ferita a round fiche il valore non raggiungerà il doppio della Costituzione +10 ed il personaggio morirà, se non viene curato.
@@ -214,7 +215,7 @@ Le **Condizionidi tipo mentale** quali Affascinato, Confuso ma non Dominato, ter
 
 Se un attacco o incantesimo porta il personaggio direttamente a -(10+COS*2), il personaggio muore senza possibilità di essere curato.
 
-Quando un personaggio torna a Punti Ferita positivi dopo che era andato negativo perde la metà dei Punti Magia rimanenti con una riduzione di almeno 10 Punti Magia e diviene ulteriormente **Affaticato** (pag. ).
+Quando un personaggio torna a Punti Ferita positivi dopo che era andato negativo perde la metà dei Punti Magia rimanenti con una riduzione di almeno 10 Punti Magia e diviene ulteriormente **Affaticato** .
 
 Quando un personaggio arriva a Punti Ferita negativi pari 10+doppio del suo punteggio di Costituzione é **morto** [-(10+(COS*2))].
 
@@ -260,6 +261,7 @@ Ogni ora si recupera, con un minimo di 1 Punto Ferita, il proprio valore di Cost
 Se non indicato diversamente ogni qual volta il personaggio subisce un danno che abbassa i Punti Ferita Massimi oltre ad abbassare questi deve anche sottrarli dai Punti Ferita attuali. Un personaggio quando curato non può superare i Punti Ferita Massimi attuali.
 
 Ogni 8 ore di riposo, nelle 24 ore, si recupera 1d4 + Costituzione in Punti Ferita Massimi, con un minimo di 1.
+
 ---
 
 ## Tiro per Colpire e Difesa
@@ -270,7 +272,7 @@ Il **Tiro per Colpire** è dato dall'insieme delle capacità combattive (Compete
 
 - **Armi da Mischia o Contatto**: l'attaccante deve effettuare un **Tiro per Colpire (TC)**= 3d6 + Competenza Armi + Forza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni..)
 - **Armi da Distanza**: l'attaccante deve effettuare un Tiro per Colpire (TC) = 3d6 + Competenza Armi + Destrezza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni..). Vale per archi, balestre, pugnali tirati, giavellotti...
-- **Incantesimo**: vedi Capitolo sulla Magia (pag. )
+- **Incantesimo**: vedi Capitolo sulla Magia 
 
 Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza Armi per avere un migliore punteggio di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
 
@@ -482,16 +484,16 @@ Quando la penalità è alla Difesa considerare ogni -1d6 come un -4 alla Difesa.
 
 In linea di principio in combattimento un bonus leggero è un +1, medio +2, alto +1d6 (o +4), un bonus molto alto è +2d6 (o +8), viceversa per le penalità.
 
-| \rowcolor{gray!20}**Attaccante** |  | **Difensore** |
+| **Attaccante** |  | **Difensore** |
 | --- | --- | --- |
 | **Mod**. | *Situazione* | *Situazione* |
-| \rowcolor{gray!20}**-1** | Affaticato (1), Luce fioca | Affaticato (1) |
+| **-1** | Affaticato (1), Luce fioca | Affaticato (1) |
 | **-2** | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
-| \rowcolor{gray!20}**-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
+| **-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
 | **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato | |
-| \rowcolor{gray!20}**+2** | Fiancheggia, Posizione Sopraelevata, Attacca al spalle | Copertura leggera |
+| **+2** | Fiancheggia, Posizione Sopraelevata, Attacca al spalle | Copertura leggera |
 | **+4** |  | Copertura media |
-| \rowcolor{gray!20}**+1d6** | Invisibile, Carica, avversario Indifeso | |
+| **+1d6** | Invisibile, Carica, avversario Indifeso | |
 | **+8** |  | Copertura completa |
 
 >>> **Non è tutto Regole**: Cercate di non interrompere il gioco cercando la regola precisa, lasciatelo fluire, dite ai giocatori che per brevità gestite la situazione in una certa maniera; ci sarà poi tempo per ricordare la situazione e trovare la regola giusta. Interrompere il gioco di continuo spezza il *pathos* della situazione.
@@ -614,7 +616,7 @@ Non può usare Azioni di Movimento mentre prende la mira.
 
 In combattimento non è facile mirare un obiettivo che è in combattimento con un altra creatura.
 
-Oltre le eventuali penalità date della Copertura (pag. ) si ha una penalità aggiuntiva di -2 al Tiro per Colpire.
+Oltre le eventuali penalità date della Copertura  si ha una penalità aggiuntiva di -2 al Tiro per Colpire.
 
 Es. Se voglio colpire un avversario coperto ed in combattimento con un mio compagno oltre alla penalità di -2 al Tiro per Colpire perché è in combattimento con qualcuno, questo avversario ha *copertura leggera* (+2 Difesa), se ho due creature in fila e poi l'avversario da colpire questo avrà da copertura +4 ed un ulteriore +2 alla Difesa perché combatte con qualcuno.
 Se sono 3 creature allora la *copertura sarà completa* (+8 Difesa, +2 perché combatte con un altro).
@@ -623,7 +625,7 @@ Se si mira ad un obiettivo che è in combattimento ed entrambi sono frontali al 
 
 In caso di Fallimento Critico nel Tiro per Colpire si colpisce casualmente una creatura che dava copertura o chi era a fianco dell'obbiettivo.
 
-Vedi anche Abilità Precisino (pag. ).
+Vedi anche Abilità Precisino .
 
 ### Usare un'arma da lancio sotto minaccia 
 
@@ -663,14 +665,14 @@ Combattere in condizioni di luminosità ridotta comporta delle difficoltà riass
 
 	
 
-| \rowcolor{gray!20}**Visione** | **Condizione** | |
+| **Visione** | **Condizione** | |
 | --- | --- |
 | Luce Fioca | Oscurità |
-| Normale | -1 TC, -2 Cons. | Invis. (pag. ) |
-| \rowcolor{gray!20}Crepuscolare | Normale | Invis. (pag. ) |
+| Normale | -1 TC, -2 Cons. | Invis.  |
+| Crepuscolare | Normale | Invis.  |
 | Scurovisione | Normale | -2 Cons. |
 
-Vedi anche Capitolo Visione e Luce (pag. ).
+Vedi anche Capitolo Visione e Luce .
 
 ## Manovre Opzionali in Combattimento
 
@@ -717,7 +719,7 @@ Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire
 
 Costa 1 Azione (Riflessi) la prova per attraversare oltre all'Azione di Movimento. Il terreno occupato dalla creatura ostile si considera difficile. Il terreno non si considera difficile solo nel caso in cui la creatura sia di due o più taglie inferiori. In caso di Successo Critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per attraversare.
 
-Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti (pag. ). Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
+Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti . Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
 Se il nemico ha l'Abilità Opportunista oltre ad ostacolare il passaggio può eseguire un attacco (usando una Reazione).
 
 ### Fare cadere un avversario* 

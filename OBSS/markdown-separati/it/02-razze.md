@@ -214,7 +214,7 @@ Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostitui
 
 ## Sornelian
 
-La genesi dei Sornelian è dovuta al Patrono Efrem (pag. ). Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
+La genesi dei Sornelian è dovuta al Patrono Efrem . Efrem decise che la natura doveva avere maggiore voce nelle questioni terrestri e stabilì che esistessero animali antropomorfi affinché riequilibrassero la strapotenza delle altre creature umanoidi.
 
 Un Sornelian ha una testa simile a quella di un animale antropomorfo ma il corpo è più simile ad un bipede umanoide. A seconda dell'animale il Sornelian potrebbe anche avere pelliccia, piume, squame ed artigli. Le dimensioni di un Sornelian dipendono molto dall'animale originario variando dalla taglia piccola a quella media. L'aspetto antropomorfo di un Sornelian è vario quanto sono vari gli animali a cui assomigliano.
 
@@ -248,11 +248,11 @@ Un Sornelian quasi mai nasce quale figlio di due Sornelian bensì è una spontan
 
 - *Sensi Eccellenti (udito, vista, olfatto...)* (cane, pipistrello, gufo). Hai un +2 di bonus alle prove di Consapevolezza basate sui sensi. Se scegli due volte questa capacità il bonus diventa +1d6.
 
-- *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma (pag. ), senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
+- *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma , senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
 
 ## Golian
 
-I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil (pag. ) e Gaya (pag. ) ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
+I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil  e Gaya  ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
 
 I Golian hanno Caratteristiche fisiche che ricordano i giganti delle loro linee familiari. Alcuni Golian hanno la pelle grigia o quasi marmorizzata come i giganti delle pietre, altri sprizzano scintille schioccando le dita come i giganti del fuoco, altri ancora hanno le pelle azzurra come i giganti del cielo.
 
@@ -286,7 +286,7 @@ I Golian hanno Caratteristiche fisiche che ricordano i giganti delle loro linee 
 
 ## Sulian
 
-L'origine dei Sulian non è chiara, alcuni li fanno discendere dagli spiriti elementali altre voci, meno insistenti, dicono che sono figli del Patrono Ledyal o Laydel (pag. ) a causa del loro mutevole aspetto e carattere.
+L'origine dei Sulian non è chiara, alcuni li fanno discendere dagli spiriti elementali altre voci, meno insistenti, dicono che sono figli del Patrono Ledyal o Laydel  a causa del loro mutevole aspetto e carattere.
 
 Nei Sulian scorre la potenza, l'energia e la vitalità degli elementi, possa essere un unico tipo oppure più elementi.
 
@@ -321,4 +321,5 @@ Fate nascere i più belli e completi personaggi possibili. Ogni personaggio è v
 >> **Nota sul Sesso dei personaggi**: Casomai foste così ottusi ribadisco che non c'è differenza di capacità o caratteristiche in base al sesso. Ogni giocatrice e giocatore è invitato a fare il personaggio del genere che preferisce.
 
 > Non dimenticare, nessun altro vede il mondo come lo vedi tu, quindi nessun altro può raccontare le storie che devi raccontare tu. (Ursula K. Le Guin)
+
 ---

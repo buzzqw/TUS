@@ -2,9 +2,9 @@
 
 > Chi dunque sa fare il bene e non lo compie, commette peccato. (Giacomo il Giusto 4.17, Lettera di Giacomo)
 
-E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
+> E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
 
-Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia)
+> Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia)
 
 In OBSS non c'è una netta distinzione tra bene e male, legge e caos, tra ciò che è giusto e ciò che è sbagliato.
 
@@ -45,8 +45,8 @@ Non è necessario credere in un Patrono per sentirne la vicinanza, esserne legat
 
 Dato che lo scopo di un Patrono è fare che i propri Tratti siano dominanti sugli altri, avere persone di alto livello e potere che siano così affini a lui tornerà utile nel giudizio dei 100 anni. Usate a vostro vantaggio i Tratti ed il legame che il Patrono instaurerà con voi.
 
-Per individuare il Patrono più affine, quello che vi darà i poteri, verificate il vostro Tratto a maggior valore sulla Tabella Collegamento Patrono - Tratto (pag. ) ed individuate il Patrono che quel Tratto maggiormente caratterizzante, in caso il Tratto fosse condiviso tra più Patroni verificate gli altri Tratti ed in base alla somiglianza scegliete il Patrono.
-Verificate poi in Cosmologia (pag. ) i poteri concessi dal Patrono. Questo controllo è opportuno farlo ad ogni aumento di valore di Tratto.
+Per individuare il Patrono più affine, quello che vi darà i poteri, verificate il vostro Tratto a maggior valore sulla Tabella Collegamento Patrono - Tratto  ed individuate il Patrono che quel Tratto maggiormente caratterizzante, in caso il Tratto fosse condiviso tra più Patroni verificate gli altri Tratti ed in base alla somiglianza scegliete il Patrono.
+Verificate poi in Cosmologia  i poteri concessi dal Patrono. Questo controllo è opportuno farlo ad ogni aumento di valore di Tratto.
 
 Si è Devoti con almeno 2 Tratti e Seguaci con almeno 1 Tratto in comune con il Patrono. Non si può essere contemporaneamente Seguace o Devoti di più Patroni.
 

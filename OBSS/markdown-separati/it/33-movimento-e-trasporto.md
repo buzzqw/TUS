@@ -26,20 +26,20 @@ Solo in situazioni di non combattimento la corsa triplica il movimento, ovvero q
 
 Questa tabella mostra i valori base di movimento a terra in situazioni di non combattimento.
 
-| \rowcolor{gray!20}**Tipo di movimento** | **Movimento** |  | |
-| --- | --- | --- |
-| \cmidrule(lr) | **6m** | **9m** | **12m** |
-| \rowcolor{gray!20}**Movimento (Tattico)** |  |  | |
+| **Tipo di movimento** | **Movimento** |  | |
+| --- | --- | --- |---|
+|  | **6m** | **9m** | **12m** |
+| **Movimento (Tattico)** |  |  | |
 | Camminare | 6m | 9m | 12m |
-| \rowcolor{gray!20}Correre (x2) | 12m | 18m | 24m |
+| Correre (x2) | 12m | 18m | 24m |
 | **Un minuto (Locale)** |  |  | |
-| \rowcolor{gray!20}Camminare | 36m | 54m | 72m |
+| Camminare | 36m | 54m | 72m |
 | Correre (x3) | 108m | 162m | 216m |
-| \rowcolor{gray!20}**Un'ora (Via Terra)** |  |  | |
+| **Un'ora (Via Terra)** |  |  | |
 | Camminare | 3km | 4km | 6km |
-| \rowcolor{gray!20}Correre (x3) | 9km | 12km | 18km |
+| Correre (x3) | 9km | 12km | 18km |
 | **Un giorno (Via Terra)** |  |  | |
-| \rowcolor{gray!20}Camminare | 24km | 32km | 54km |
+| Camminare | 24km | 32km | 54km |
 
 ## Movimento Tattico
 
@@ -64,7 +64,7 @@ Non applicate questa regola per attraversare terreni impraticabili o per muovers
 
 Non si può **Scattare** (Correre) su un terreno difficile, il giocatore può tentare una prova di Acrobatica a DC 20 per riuscire a correre ma non a caricare, se fallisce tratta il terreno come Difficile, se Fallisce Criticamente cade prono sul posto. 
 
-Non si può **Caricare** attraverso un terreno difficile a meno di avere l'Abilità Rinoceronte (pag. ).
+Non si può **Caricare** attraverso un terreno difficile a meno di avere l'Abilità Rinoceronte .
 
 Muoversi da prono, Nuotare o Strisciare è considerato terreno difficile, Arrampicarsi è doppiamente difficile.
 
@@ -154,24 +154,24 @@ Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferi
 
 ## Tabella: Cavalcature e Veicoli
 
-| \rowcolor{gray!20}**Cavalcatura o** | **Ingombro trasportato** | **Movimento** | **Movimento** |
+| **Cavalcatura o** | **Ingombro trasportato** | **Movimento** | **Movimento** |
 | --- | --- | --- | --- |
 | **Veicolo** | **(CdC)** | **All'ora** | **Al giorno** |
-| \rowcolor{gray!20}Cane da Galoppo | 30 | 6km | 36km |
+| Cane da Galoppo | 30 | 6km | 36km |
 | Saurovallo da Galoppo | 60 | 8km | 48km |
-| \rowcolor{gray!20}Saurovallo da Guerra | 80 | 7km | 42km |
+| Saurovallo da Guerra | 80 | 7km | 42km |
 | Saurovallo Nano | 30 | 5km | 30km |
-| \rowcolor{gray!20}Saurovallo da Tiro | 70 | 5km | 30km |
+| Saurovallo da Tiro | 70 | 5km | 30km |
 | Cammello | 50 | 8km | 48km |
-| \rowcolor{gray!20}Elefante | 160 | 6km | 36km |
+| Elefante | 160 | 6km | 36km |
 | **Imbarcazione** |  |  | |
-| \rowcolor{gray!20}Zattera o Chiatta (pertica o rimorchio) | 225 | 0.75km | 7.5km |
+| Zattera o Chiatta (pertica o rimorchio) | 225 | 0.75km | 7.5km |
 | Barcone a Remi** | 425 | 1.5km | 15km |
-| \rowcolor{gray!20}Barca a Remi** | 200 | 2.25km | 22.5km |
+| Barca a Remi** | 200 | 2.25km | 22.5km |
 | Nave a Vela | 800 | 3km | 72km |
-| \rowcolor{gray!20}Nave da Guerra (vele e remi) | 2200 | 3.5km | 90km |
+| Nave da Guerra (vele e remi) | 2200 | 3.5km | 90km |
 | Nave Lunga (vele e remi) | 600 | 5km | 108km |
-| \rowcolor{gray!20}Galea (remi e vele) | 3300 | 6km | 144km |
+| Galea (remi e vele) | 3300 | 6km | 144km |
 
 Una cavalcatura può portare in groppa una creatura solo se di taglia inferiore alla sua. Il movimento al giorno si intende per 6 ore di cavalcata, oltre queste ore la cavalcatura si sfianca richiedendo un giorno intero di riposo.
 
@@ -230,21 +230,22 @@ In caso più creature spingano o trainino un carro considerate come CdC quella p
 
 Nella **Tabella: CdC trasportato in base alla taglia** viene riportata la Capacità di Carico in base alla taglia. Al valore dato dalla taglia vanno sommati i valori di Forza e Costituzione.
 
-| \rowcolor{gray!20}**Taglia** | **Ing.** | **Taglia** | **Ing.** |
+| **Taglia** | **Ing.** | **Taglia** | **Ing.** |
 | --- | --- | --- | --- |
 | Piccolissima | 1/4 | Grande | 24 |
-| \rowcolor{gray!20}Minuta | 1 | Enorme | 36 |
+| Minuta | 1 | Enorme | 36 |
 | Minuscola | 3 | Mastodontica | 49 |
-| \rowcolor{gray!20}Piccola | 6 | Colossale | 77 |
+| Piccola | 6 | Colossale | 77 |
 | Media | 12 |  | Creature con 4 zampe o più possono trasportare carichi maggiori. |
 
 **Tabella: modificatori trasporto per creature con più zampe**
 
-| \rowcolor{gray!20}**Zampe Creatura** | **CdC** |
+| **Zampe Creatura** | **CdC** |
+|---|---|
 | 4 zampe | x2 |
-| \rowcolor{gray!20}6 zampe | x2.5 |
+| 6 zampe | x2.5 |
 | 8 zampe | x3 |
-| \rowcolor{gray!20}12 zampe | x4 |
+| 12 zampe | x4 |
 | ogni altre 2 zampe | +0.5 |
 
 Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabili a quelli nella Tabella: Cavalcature e Veicoli, pag. .
@@ -255,7 +256,7 @@ Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabil
 
 ### Nuotare
 
-Vedi Capito Ambiente per prove nuotare (pag. ) e combattimento sott'acqua (pag. ).
+Vedi Capito Ambiente per prove nuotare  e combattimento sott'acqua .
 
 ### Scalare
 
@@ -286,4 +287,5 @@ Una creatura volante che viene danneggiata in un singolo colpo della metà dei s
 ### Fluttuare
 
 Fluttuare è la capacità che consente di rimanere fluttuante nell'aria, all'altezza voluta, anche se non ci si muove o si è privi di sensi.
+
 ---

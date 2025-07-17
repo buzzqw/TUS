@@ -7,7 +7,7 @@ Queste sono le indicazioni su l'utilizzo degli oggetti magici.
 - Se hai più oggetti magici che concedono bonus allo stesso **Tiro Salvezza** si applicano solo i due con il bonus maggiore.
 - Se hai più oggetti magici che concedono bonus alla stessa **Caratteristica** allora si applica solo il bonus maggiore.
 - Un personaggio **non può indossare più di due anelli magici** altrimenti entrano in risonanza abbassando i Punti Ferita massimi di 1d6 (non riducibile o curabile) a round per ogni anello oltre il secondo.
-- Per **riconoscere un oggetto magico** vedi Riconoscere un oggetto magico (pag. ) e Oggetti Maledetti (pag. ).
+- Per **riconoscere un oggetto magico** vedi Riconoscere un oggetto magico  e Oggetti Maledetti .
 - Un **oggetto magico che manifesta incantesimi** non esegue alcuna Prova di Magia. Il **Tiro Salvezza** che impone, se non specificato, è pari a 12 + livello*2 dell'incantesimo che manifesta.
 - Per **Attivare delle capacità magiche** di un oggetto se non indicato diversamente  costa 2 Azioni.
 - Un oggetto magico che fornisce un **bonus (o penalità) statico** applica il suo valore anche se l'oggetto non è stato identificato, sarà il Narratore ad applicare silenziosamente questo bonus alla Difesa, Tiro per Colpire, Tiri Salvezza... informando il giocatore che percepisce come l'oggetto interagisca con la situazione.
@@ -24,7 +24,7 @@ Il bonus magico di un **arma può essere compreso** tirando di due critici in un
 
 ### Armature e Scudi
 
-**Abilità Speciali**: un'armatura o scudo con una capacità speciale deve avere almeno bonus di +1. Armature e Scudi non possono avere la stessa capacità speciale più di una volta. Vedi anche sezione Armatura, Scudi e Magia (pag. ).
+**Abilità Speciali**: un'armatura o scudo con una capacità speciale deve avere almeno bonus di +1. Armature e Scudi non possono avere la stessa capacità speciale più di una volta. Vedi anche sezione Armatura, Scudi e Magia .
 
 Un'*armatura* +1 abbassa di 1 la penalità di Competenza e di 1 metro la quella al movimento
 
@@ -100,18 +100,18 @@ Per ricaricare una bacchetta od un bastone un incantatore deve infondere lo stes
 
 ## Acquisire Oggetti Magici
 
-| \rowcolor{gray!20}**Dimensioni Comunità** | **Valore Base** | **Comune** | **Non Comune** | **Raro** |
+| **Dimensioni Comunità** | **Valore Base** | **Comune** | **Non Comune** | **Raro** |
 | --- | --- | --- | --- | --- |
 | Insediamento | 20 mo | 1d2 oggetti |  | |
-| \rowcolor{gray!20}Borgo | 150 mo | 1d4 oggetti |  | |
+| Borgo | 150 mo | 1d4 oggetti |  | |
 | Villaggio | 300 mo | 1d6 oggetti | 1d2 oggetti | |
-| \rowcolor{gray!20}Piccolo paese | 700 mo | 1d4 oggetti | 1d2 oggetti | |
+| Piccolo paese | 700 mo | 1d4 oggetti | 1d2 oggetti | |
 | Grande paese | 1500 mo | 1d6 oggetti | 1d4 oggetti | 1d2 oggetti |
-| \rowcolor{gray!20}Piccola città | 2500 mo | 2d4 oggetti | 1d6 oggetti | 1d4 oggetti |
+| Piccola città | 2500 mo | 2d4 oggetti | 1d6 oggetti | 1d4 oggetti |
 | Grande città | 6000 mo | 3d4 oggetti | 2d4 oggetti | 1d6 oggetti |
-| \rowcolor{gray!20}Metropoli | 12000 mo | {*} | 3d4 oggetti | 2d4 oggetti |
+| Metropoli | 12000 mo | * | 3d4 oggetti | 2d4 oggetti |
 
-{*} In una metropoli si trovano quasi tutti gli oggetti magici minori.
+* In una metropoli si trovano quasi tutti gli oggetti magici minori.
 
 Gli oggetti magici sono preziosi e la maggior parte delle grandi città ha almeno uno o due fornitori di oggetti magici, dal semplice venditore di pozioni ad un fabbro specializzato nel forgiare spade magiche. Ovviamente non ogni oggetto in questo manuale è disponibile in ogni città.
 
@@ -138,4 +138,5 @@ Potranno essere altrimenti strumenti creati negli ultimi giorni della prima era 
 Non stupiamoci allora di trovare oggetti che possano essere ricaricati, anche se per poco tempo, con *Stretta Folgorante*, o veicoli funzionanti se colpiti da un *Fulmine*.
 
 Questi oggetti saranno rari e preziosi, quasi come una dose di antibiotico ancora attiva. Sbizzarritevi nel creare oggetti *tecnomagici*, prendete ispirazione dal mondo moderno e dalla fantascienza per creare strabilianti oggetti utili alla vostra avventura.
+
 ---

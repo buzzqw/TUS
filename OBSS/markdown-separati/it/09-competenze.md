@@ -18,40 +18,40 @@ Nella scheda va segnata la Professione iniziale e le competenze acquisite, in ac
 
 **Tabella: Elenco delle Professioni e relative Competenze**
 
-| \rowcolor{gray!20}**Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
+| **Professione** | **1 punto** | **2 punti** | **2 punti** | **3 punti** |
 | --- | --- | --- | --- | --- |
 | **Accolito** | Occulto | Storia o Geografia | Arcana | Religione |
-| \rowcolor{gray!20}**Alchimista** | Valutare | Natura | Erboristeria | Arcana |
+| **Alchimista** | Valutare | Natura | Erboristeria | Arcana |
 | **Allevatore** | Sopravvivenza | Seguire tracce | Gestire animali | Natura |
-| \rowcolor{gray!20}**Incantatore** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
+| **Incantatore** | Storia e Geografia | Occulto | Miti e Leggende | Arcana |
 | **Araldo** | Tradizioni Locali | Araldica | Lingue | Diplomazia |
-| \rowcolor{gray!20}**Bibliotecario** | Natura e Geografia | Tradizioni locali | Religione e Arcana | Storia |
+| **Bibliotecario** | Natura e Geografia | Tradizioni locali | Religione e Arcana | Storia |
 | **Boscaiolo** | Usare corda | Seguire tracce | Natura | Sopravvivenza |
-| \rowcolor{gray!20}**Cacciatore** | Furtività | Seguire tracce | Sopravvivenza | Natura |
+| **Cacciatore** | Furtività | Seguire tracce | Sopravvivenza | Natura |
 | **Carovaniere** | Tradizioni locali | Gestire animali | Sopravvivenza | Cavalcare |
-| \rowcolor{gray!20}**Contadino** | Usare Corda | Erboristeria | Gestire Animali | Natura |
+| **Contadino** | Usare Corda | Erboristeria | Gestire Animali | Natura |
 | **Delinquente** | Sopravvivenza | Cavalcare | Valutare | Furtività |
-| \rowcolor{gray!20}**Erborista** | Miti e Leggende | Geografia | Natura | Erboristeria |
+| **Erborista** | Miti e Leggende | Geografia | Natura | Erboristeria |
 | **Fabbro** | Pronto Soccorso | Valutare | Atletica | Artigianato |
-| \rowcolor{gray!20}**Forestale** | Miti e Leggende | Erboristeria | Cavalcare | Natura |
+| **Forestale** | Miti e Leggende | Erboristeria | Cavalcare | Natura |
 | **Guardia** | Perc. Emozioni | Conoscenza Legge | Cavalcare | Intimidire |
-| \rowcolor{gray!20}**Guida** | Miti e Leggende | Dungeon | Natura | Geografia |
+| **Guida** | Miti e Leggende | Dungeon | Natura | Geografia |
 | **Leguleio** | Valutare | Ingannare | Perc. Emozioni | Legge |
-| \rowcolor{gray!20}**Locandiere** | Pronto soccorso | Valutare | Diplomazia | Perc. Emozioni |
+| **Locandiere** | Pronto soccorso | Valutare | Diplomazia | Perc. Emozioni |
 | **Mazziere** | Perc. Emozioni | Valutare | Intrattenere | Ingannare |
-| \rowcolor{gray!20}**Medico** | Miti e Leggende | Natura | Erboristeria | Pronto soccorso |
+| **Medico** | Miti e Leggende | Natura | Erboristeria | Pronto soccorso |
 | **Mercante** | Lingue | Tradizioni Locali | Ingannare | Valutare |
-| \rowcolor{gray!20}**Mercenario** | Perc. Emozioni | Acrobatica | Intimidire | Atletica |
+| **Mercenario** | Perc. Emozioni | Acrobatica | Intimidire | Atletica |
 | **Minatore** | Usare corde | Pronto soccorso | Valutare | Dungeon |
-| \rowcolor{gray!20}**Monaco** | Intrattenere | Pronto Soccorso | Natura | Religione |
+| **Monaco** | Intrattenere | Pronto Soccorso | Natura | Religione |
 | **Nomade** | Erboristeria | Gestire Animali | Natura | Sopravvivenza |
-| \rowcolor{gray!20}**Orafo** | Tradizioni locali | Mani di fata | Valutare | Falsificare |
+| **Orafo** | Tradizioni locali | Mani di fata | Valutare | Falsificare |
 | **Pescatore** | Usare corde | Nuotare | Sopravvivenza | Natura |
-| \rowcolor{gray!20}**Scriba** | Tradizioni Locali | Falsificare | Miti e Leggende | Lingue |
+| **Scriba** | Tradizioni Locali | Falsificare | Miti e Leggende | Lingue |
 | **Sensale** | Intrattenere | Tradizioni locali | Perc. Emozioni | Diplomazia |
-| \rowcolor{gray!20}**Soldato** | Nuotare | Gestire animali | Atletica | Cavalcare |
+| **Soldato** | Nuotare | Gestire animali | Atletica | Cavalcare |
 | **Tagliaborse** | Disattivare congegni | Artista della fuga | Furtività | Mani di fata |
-| \rowcolor{gray!20}**Teatrante** | Perc. Emozioni | Lingue | Acrobatica | Intrattenere |
+| **Teatrante** | Perc. Emozioni | Lingue | Acrobatica | Intrattenere |
 
 > Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti...(Richard de Bury)
 
@@ -77,16 +77,16 @@ Il giocatore **aumenta di 1 il punteggio di una Caratteristica che si colleghi a
 
 **Tabella: Elenco Competenze e relativa Caratteristica d'uso**
 
-| \rowcolor{gray!20}**Forza** | **Destrezza** | **Intelligenza** | **Saggezza** | **Carisma** |
+| **Forza** | **Destrezza** | **Intelligenza** | **Saggezza** | **Carisma** |
 | --- | --- | --- | --- | --- |
 | Arrampicarsi | Acrobatica | Arcana | Cavalcare | Diplomazia |
-| \rowcolor{gray!20}Atletica | Artista della fuga | Artigianato | *Consapevolezza* | Intrattenere |
+| Atletica | Artista della fuga | Artigianato | *Consapevolezza* | Intrattenere |
 | Intimidire | Furtività | Conoscenza | Gestire animali | Ingannare |
-| \rowcolor{gray!20}Nuotare | Mani di fata | Disattivare congegni | Natura | Tradizioni locali |
+| Nuotare | Mani di fata | Disattivare congegni | Natura | Tradizioni locali |
 | - | Usare corda | Erboristeria | Percepire Emozioni | - |
-| \rowcolor{gray!20}- | - | Falsificare | Pronto soccorso | - |
+| - | - | Falsificare | Pronto soccorso | - |
 | - | - | Valutare | Seguire tracce | - |
-| \rowcolor{gray!20}- | - | - | Sopravvivenza | - |
+| - | - | - | Sopravvivenza | - |
 
 La **Conoscenza** va esplicitata su quale argomento verte: Architettura ed Ingegneria, Dungeon, Geografia, Legge, Lingue (terrestri o meno), Miti e Leggende, Nobiltà ed Araldica, Occulto, Piani, Religione, Storia, Tecnologia Antica ...
 
@@ -114,7 +114,7 @@ Le Azioni necessarie alla prova possono variare a seconda della capacità del pe
 
 In ogni caso ricordate sempre di valutare con attenzione come il giocatore dichiara di svolgere le azioni per capirne la durata ed effetti.
 
-La Competenze con un * subiscono le penalità dovute all'armatura indossata (pag. ).
+La Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Acrobatica* (DES)**: Questa competenza serve per mantenere l'equilibrio su superfici strette o precarie, per tuffarsi, rotolare, fare capriole, salti mortali, superare degli ostacoli nonché cadere e non farsi male. 1 Azione.
 
@@ -128,7 +128,7 @@ La Competenze con un * subiscono le penalità dovute all'armatura indossata (pag
 
 **Atletica* (FOR)**: Con questa competenza si è esperti atleti, capaci di prodigiosi salti ed eccezionali prove di Forza. 1 Azione.
 
-**Cavalcare (SAG)**: Con questa competenza è possibile cavalcare in maniera professionale e dare comandi alla propria cavalcatura. Vedi Capitolo Cavalcare (pag. ) 1 Azione.
+**Cavalcare (SAG)**: Con questa competenza è possibile cavalcare in maniera professionale e dare comandi alla propria cavalcatura. Vedi Capitolo Cavalcare  1 Azione.
 
 **Consapevolezza (SAG)**: per cercare, accorgersi, notare. E' un qualcosa di attivo. 2 Azioni. **Usare 1 Azione impone una penalità -1d6 alla prova**.
 
@@ -234,7 +234,7 @@ Il **Tiro per Colpire per le armi da mischia** si risolve con una prova di Compe
 Il **Tiro per Colpire con armi da distanza** (archi, balestre, pugnali da lancio, giavellotti, sassi..) si risolve con una prova di Competenza Armi (**CA**) + **Destrezza** + bonus da Lista d'Armi + eventuali capacità, bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura + scudo + modificatori).
 
 Quando si assegna un punto ad **CA** è necessario precisare su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
-Controllare l'elenco Armi per Tipologia Omogenea (pag. ).
+Controllare l'elenco Armi per Tipologia Omogenea .
 
 Il personaggio può decidere di assegnare il suo punto ad una tipologia di armi che già conosce, migliorando così la sua capacità ed talento nell'uso od apprendere un altra tipologia di armi.
 

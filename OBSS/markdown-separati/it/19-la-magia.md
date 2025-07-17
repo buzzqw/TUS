@@ -108,7 +108,7 @@ Se scendi a zero o sotto gli zero Punti Ferita perdi la metà dei Punti Magia ri
 
 ### Lanciare Incantesimi in Armatura
 
-Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo è obbligatoria e viene modificata come indicato nella sezione delle armature (pag. ).
+Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e sbilancia i flussi. La Prova di Magia nel lancio dell'incantesimo è obbligatoria e viene modificata come indicato nella sezione delle armature .
 
 ### Opzionale - Incantesimi in Armatura
 
@@ -218,25 +218,27 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 
 **Tabella: Effetti Fallimento Critico magico**
 
-| \rowcolor{gray!20}**Dadi** | **Effetti** |
+| **Dadi** | **Effetti** |
+|3d6|Effetto|
+|---|---|
 | 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |
-| \rowcolor{gray!20}2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
+| 2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
 | 3 | Manifesti una modifica corporea minore |
-| \rowcolor{gray!20}4 | Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 6 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 3d10 di danni da forza non resistibili |
+| 4 | Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 6 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 3d10 di danni da forza non resistibili |
 | 5 | Per 3 round sei sotto l'influenza dell'incantesimo Confusione |
-| \rowcolor{gray!20}6 | Per 1 minuto non sei più in grado di concentrarti e parli in rima |
+| 6 | Per 1 minuto non sei più in grado di concentrarti e parli in rima |
 | 7 | Vieni teletrasportato di 3d10 metri in una direzione casuale |
-| \rowcolor{gray!20}8 | Diventi Invisibile e paralizzato per 6 round |
+| 8 | Diventi Invisibile e paralizzato per 6 round |
 | 9 | Solo tu vieni avvolto da una cortina di oscurità magica impenetrabile per 6 round |
-| \rowcolor{gray!20}10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
+| 10 | Non riesci a parlare bene, sei balbuziente. Ogni lancio di incantesimi ti costringe a superare una Prova di Magia. Durata 3 round |
 | 11 | Manifesti l'incantesimo Unto sotto i tuoi piedi |
-| \rowcolor{gray!20}12 | Il prossimo incantesimo che lanci ha effetti se possibile minimizzati |
+| 12 | Il prossimo incantesimo che lanci ha effetti se possibile minimizzati |
 | 13 | Il battito del tuo cuore è come il battito di un tamburo, si può sentire entro 36 metri |
-| \rowcolor{gray!20}14 | Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare |
+| 14 | Tutte le creature nel raggio di 36 metri sanno esattamente dove sei e cosa tentavi di fare |
 | 15 | Tutte le creature in una sfera di 9 metri di raggio centrata su di te subiscono 1d10 danni da Vuoto |
-| \rowcolor{gray!20}16 | Guadagni 2d6 Punti Magia |
+| 16 | Guadagni 2d6 Punti Magia |
 | 17 | Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri |
-| \rowcolor{gray!20}18 | Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili |
+| 18 | Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili |
 
 ## Modificare la Prova di Magia
 
@@ -263,13 +265,14 @@ I Punti Magia si recuperano tutti con 8 ore di riposo.
 
 **Tabella: Competenza Magica (CM) e Punti Magia (PM)**
 
-| \rowcolor{gray!20}**CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
+| **CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
+|---|---|---|---|---|---|
 | 1 | 4 | 8 | 28 | 15 | 53 |
-| \rowcolor{gray!20}2 | 7 | 9 | 32 | 16 | 56 |
+| 2 | 7 | 9 | 32 | 16 | 56 |
 | 3 | 11 | 10 | 35 | 17 | 60 |
-| \rowcolor{gray!20}4 | 14 | 11 | 39 | 18 | 63 |
+| 4 | 14 | 11 | 39 | 18 | 63 |
 | 5 | 18 | 12 | 42 | 19 | 67 |
-| \rowcolor{gray!20}6 | 21 | 13 | 46 | 20 | 70 |
+| 6 | 21 | 13 | 46 | 20 | 70 |
 | 7 | 25 | 14 | 49 | 20+ | prec.+ 3 |
 
 PM = (CM × 3) + (CM ÷ 2 arrotondato per eccesso) + Modificatore Caratteristica
@@ -536,7 +539,7 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 **5: Conoscere.** Puoi lanciare l'incantesimo Identificare con una Azione Immediata, senza usare Punti Magia.
 
-**Queste capacità non sono concesse a chi prende l'Abilità \hyperlink{Un solo credo**{Un solo credo (pag. ).
+**Queste capacità non sono concesse a chi prende l'Abilità Un solo credo .
 
 ## Circa OBSS e la dimensione degli incantesimi
 
@@ -547,4 +550,5 @@ Una Palla di Fuoco agisce in un raggio di 6 metri, ovvero *occupa* ($6*6*\pi$)\s
 A fare due conti la Palla di Fuoco dovrebbe avere un raggio di 4 metri per influenzare lo stesso numero di creature!
 
 Se questo fattore influisce troppo sul vostro gioco riducete della metà ($r-r/2$) i raggi delle esplosioni e le lunghezze dei coni.
+
 ---

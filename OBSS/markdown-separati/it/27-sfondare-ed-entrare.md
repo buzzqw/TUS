@@ -12,16 +12,16 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 **Tabella: Taglia e Difesa degli Oggetti - Colpire un Oggetto**
 
-| \rowcolor{gray!20}**Taglia** | **Mod. Difesa** | **Dimensioni** |
+| **Taglia** | **Mod. Difesa** | **Dimensioni** |
 | --- | --- | --- |
 | Colossale | -8 | 18m+ |
-| \rowcolor{gray!20}Mastodontica | -6 | 9-18m |
+| Mastodontica | -6 | 9-18m |
 | Enorme | -4 | 4-9m |
-| \rowcolor{gray!20}Grande | -2 | 2.4-4m |
+| Grande | -2 | 2.4-4m |
 | Media | +0 | 1.2-2.4m |
-| \rowcolor{gray!20}Piccola | +2 | 60-120cm |
+| Piccola | +2 | 60-120cm |
 | Minuscola | +4 | 30-60cm |
-| \rowcolor{gray!20}Minuta | +6 | 15-30cm |
+| Minuta | +6 | 15-30cm |
 | Piccolissima | +8 | 5-20cm |
 
 **Modificatore Difesa**
@@ -40,22 +40,22 @@ Vedi anche Tabella: Porte, pag.
 
 **Tabella: Durezza e Punti Ferita oggetti**
 
-| \rowcolor{gray!20}**Materiale** | **Dur.** | **PF** | **DC** | **Oggetti di Esempio** |
+| **Materiale** | **Dur.** | **PF** | **DC** | **Oggetti di Esempio** |
 | --- | --- | --- | --- | --- |
 | Carta, Vetro, Stoffa | 0 | 1 | 3 | Fogli di carta, vetro di finestra, stoffa leggera |
-| \rowcolor{gray!20}Vetro | 1 | 4 | 6 | Blocco di vetro, tavolo di vetro, vaso pesante |
+| Vetro | 1 | 4 | 6 | Blocco di vetro, tavolo di vetro, vaso pesante |
 | Stoffa pesante | 1 | 4 | 12 | Armatura di stoffa, giacca pesante, sacco, tenda |
-| \rowcolor{gray!20}Legno sottile | 3 | 12 | 14 | Sedia |
+| Legno sottile | 3 | 12 | 14 | Sedia |
 | Legno | 5 | 20 | 18 | Baule, tavolo |
-| \rowcolor{gray!20}Corda, Cuoio | 2 | 4 | 19 | Corda di canapa |
+| Corda, Cuoio | 2 | 4 | 19 | Corda di canapa |
 | Pietra sottile | 4 | 16 | 20 | Ardesia, mattonelle, baule leggero |
-| \rowcolor{gray!20}Struttura in legno | 10 | 40 | 20 | Muro di legno, forziere |
+| Struttura in legno | 10 | 40 | 20 | Muro di legno, forziere |
 | Cuoio rinforzato | 4 | 16 | 22 | Armatura di cuoio, sella, corda di canapa grossa |
-| \rowcolor{gray!20}Acciaio o ferro sottile | 5 | 20 | 23 | Corda di seta, scudo d'acciaio, spada corta |
+| Acciaio o ferro sottile | 5 | 20 | 23 | Corda di seta, scudo d'acciaio, spada corta |
 | Acciaio o ferro | 9 | 36 | 26 | Catena, Armatura di metallo, forziere rinforzato |
-| \rowcolor{gray!20}Struttura in pietra | 14 | 56 | 35 | Muro di pietra, spada lunga |
+| Struttura in pietra | 14 | 56 | 35 | Muro di pietra, spada lunga |
 | Pietra | 7 | 28 | 35 | Pietra per lastricato, statua |
-| \rowcolor{gray!20}Struttura in acciaio o ferro | 18 | 90 | 45 | Muro di piastre di ferro, spadone a due mani |
+| Struttura in acciaio o ferro | 18 | 90 | 45 | Muro di piastre di ferro, spadone a due mani |
 
 ## Danneggiare gli oggetti
 
@@ -92,12 +92,12 @@ Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità 
 
 	
 
-| \rowcolor{gray!20}**Taglia** | **Mod.** | **Taglia** | **Mod.** |
+| **Taglia** | **Mod.** | **Taglia** | **Mod.** |
 | --- | --- | --- | --- |
 | Piccolissima | -16 | Grande | +4 |
-| \rowcolor{gray!20}Minuta | -12 | Enorme | +8 |
+| Minuta | -12 | Enorme | +8 |
 | Minuscola | -8 | Mastodontica | +12 |
-| \rowcolor{gray!20}Piccola | -4 | Colossale | +16 |
+| Piccola | -4 | Colossale | +16 |
 | Media | +0 |  | Un **piede di porco** o un **ariete portatile** aumentano la probabilità del personaggio di sfondare una porta di +1d6. |
 
 ---

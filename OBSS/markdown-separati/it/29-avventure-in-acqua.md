@@ -44,6 +44,6 @@ Una creatura incapace di respirare sott'acqua spende tre round di trattenere il 
 
 Alcuni incantesimi potrebbero funzionare diversamente sott'acqua, a discrezione del Narratore.
 
-Vedi Capitolo Ambiente per le regole sul trattenere il respiro (pag. ).
+Vedi Capitolo Ambiente per le regole sul trattenere il respiro .
 
 ---

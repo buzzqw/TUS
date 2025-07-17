@@ -34,7 +34,7 @@ Parasites such as *ear seekers* or *rot grubs* cause parasitosis, a particular t
 
 *Ear Seekers (Challenge Rating 5)*
 
-Ear seekers are tiny white worms that live in rotting wood or other organic debris. They can be noticed with an Awareness check (DC 15). Otherwise, a living creature that rummages through their lair unwittingly transfers one or more ear seekers onto itself, which then seek a warm area on the creature's body, preferring the ear canal, and deposit 2d8 eggs before dying.
+Ear seekers are tiny white worms that live in rotting wood or other organic debris. They can be noticed with an Awareness check (DC 15). Otherwise, a living creature that rummages through their lair unwittingly transfers one or more ear seekers onto itself, which then seek a warm area on the creature' \*\*s body, preferring the ear canal, and deposit 2d8 eggs before dying.
 
 The eggs hatch 4d6 hours later, and the larvae devour the flesh around them. Upon the death of their host, the worms crawl out and seek a new one.
 
@@ -138,16 +138,17 @@ If the group is numerous, the guard shifts to watch and check the environment be
 
 This table indicates the duration of guard shifts and the total rest time of the group, assuming at least 8 hours of rest.
 
-| \rowcolor{gray!20}**Group** | **Shift** | **Total** |
+| **Group** | **Shift** | **Total** |
 | --- | --- | --- |
 | **members** | **Duration** | **Duration** |
-| \rowcolor{gray!20}2 | 8 h | 16 h |
+| 2 | 8 h | 16 h |
 | 3 | 4 h | 12 h |
-| \rowcolor{gray!20}4 | 2 h 30min. | 10 h 30min. |
+| 4 | 2 h 30min. | 10 h 30min. |
 | 5 | 2 h | 10 h |
-| \rowcolor{gray!20}6 | 1 h 30min. | 9 h 30min. |
+| 6 | 1 h 30min. | 9 h 30min. |
 
-A **sudden noise** grants an Awareness check at DC 15, or equal to the opponent's Stealth check +8, to wake up.
+A **sudden noise** grants an Awareness check at DC 15, or equal to the opponent' \*\*s Stealth check +8, to wake up.
+
 ---
 
 ## Adventures and Traps
@@ -170,19 +171,19 @@ Once the trap is activated, it performs the indicated effect: the character fall
 
 Usually, some elements of a trap are clearly visible upon careful inspection.
 
-The trap description specifies the checks and DCs required to detect it, disable it, or both. A character actively searching for a trap can attempt a **Survival** check against the trap's DC.
+The trap description specifies the checks and DCs required to detect it, disable it, or both. A character actively searching for a trap can attempt a **Survival** check against the trap' \*\*s DC.
 
-The Narrator can also compare the DC for detecting the trap against the characters' Survival score (at dice roll 8) to determine if a group member notices the trap. If adventurers notice the trap before activating it, they may attempt to disarm it, either permanently or long enough to allow them passage.
+The Narrator can also compare the DC for detecting the trap against the characters' \*\* Survival score (at dice roll 8) to determine if a group member notices the trap. If adventurers notice the trap before activating it, they may attempt to disarm it, either permanently or long enough to allow them passage.
 
-The Narrator might require a Disable Device check. If you don't have **thieves' tools** or adequate ones, you make the check with a -1d6 penalty. The Survival skill can also be used, albeit with a -1d6, to disable a trap, lock...; in this case, the duration of the operation equals 1 Action per DC of the trap.
+The Narrator might require a Disable Device check. If you don' \*\*t have **thieves' \*\* tools** or adequate ones, you make the check with a -1d6 penalty. The Survival skill can also be used, albeit with a -1d6, to disable a trap, lock...; in this case, the duration of the operation equals 1 Action per DC of the trap.
 
 If you want to temporarily disable a trap, add 6 to the difficulty. This will disable the trap for 2d4 minutes.
 
-A **magic trap can be disarmed** with a Disable Device check or an Arcana check, provided that the Arcana value is at least 1/5 of the trap's DC in addition to any other check indicated in the trap's description. The Arcana check, which can also be made by those who do not have Disable Device, has the same difficulty as the Disable Device check. The Dispel Magic spell has a chance to cancel most magic traps.index{Disable magic traps}. A Dispel Spell can cancel the magic part of a trap whose required Arcana DC is 3 or lower, if it requires 4 then the magic component is deactivated for 10 minutes. A Greater Dispel Magic can cancel the magic part of the trap whose required Arcana DC is 4 or lower, if it requires 5 then the magic component is disabled for 10 minutes. For each Spell Crit in the Spell Check, the required Arcana DC is raised by one.
+A **magic trap can be disarmed** with a Disable Device check or an Arcana check, provided that the Arcana value is at least 1/5 of the trap' \*\*s DC in addition to any other check indicated in the trap' \*\*s description. The Arcana check, which can also be made by those who do not have Disable Device, has the same difficulty as the Disable Device check. The Dispel Magic spell has a chance to cancel most magic traps.index{Disable magic traps}. A Dispel Spell can cancel the magic part of a trap whose required Arcana DC is 3 or lower, if it requires 4 then the magic component is deactivated for 10 minutes. A Greater Dispel Magic can cancel the magic part of the trap whose required Arcana DC is 4 or lower, if it requires 5 then the magic component is disabled for 10 minutes. For each Spell Crit in the Spell Check, the required Arcana DC is raised by one.
 
 If the check to disable or disarm the trap fails and you get a Critical Failure, the trap triggers.
 
-Usually, the trap description is clear enough to allow the Narrator to judge whether a character's actions succeed in detecting or disabling the trap.
+Usually, the trap description is clear enough to allow the Narrator to judge whether a character' \*\*s actions succeed in detecting or disabling the trap.
 
 Use common sense and base on the trap description to determine what happens. No trap design can anticipate every possible action that characters might attempt.
 
@@ -190,31 +191,32 @@ The Narrator should allow a character to discover a trap without having to make 
 
 Disabling traps can be a bit more complicated. Take, for example, a chest protected by a trap. If the chest is opened without pulling the two side handles, an internal mechanism fires a volley of poisoned needles at whoever is in front.
 
-After inspecting the chest and making some checks, the characters are still not sure if it's trapped. Instead of opening it directly, they point a shield in front of the chest and open it remotely with an iron rod. In this case, the trap activates, but the volley of needles hits the shield without hurting anyone.
+After inspecting the chest and making some checks, the characters are still not sure if it' \*\*s trapped. Instead of opening it directly, they point a shield in front of the chest and open it remotely with an iron rod. In this case, the trap activates, but the volley of needles hits the shield without hurting anyone.
 
 Traps are often designed with mechanisms that allow them to be disabled or bypassed.
 
 ### Effects of Traps
 
-The effects of traps can range from simple inconveniences to lethal. A trap's description specifies what happens when it is triggered.
-The attack bonus of a trap, the DC of the Saving Throw to resist its effects, and the damage it deals can vary based on the trap's deadliness.
+The effects of traps can range from simple inconveniences to lethal. A trap' \*\*s description specifies what happens when it is triggered.
+The attack bonus of a trap, the DC of the Saving Throw to resist its effects, and the damage it deals can vary based on the trap' \*\*s deadliness.
 
 Use the Trap Saving Throw DCs and Attack Bonus table and the Damage Severity by Level table as guidelines on the three levels of trap severity.
 
 **Table: Trap Saving Throw DCs and Attack Bonuses**
 
-| \rowcolor{gray!20}Trap Danger Level | Saving Throw DC | Attack Bonus |
+| Trap Danger Level | Saving Throw DC | Attack Bonus |
 | Minimal | 13-14 | +4 to +6 |
-| \rowcolor{gray!20}Dangerous | 16-20 | +8 to +10 |
+| Dangerous | 16-20 | +8 to +10 |
 | Deadly | 21-26 | +12 to +15 |
 
 **Table: Damage Severity by Level**
 
-| \rowcolor{gray!20}Character Level | Minimal | Dangerous | Deadly |
+| Character Level | Minimal | Dangerous | Deadly |
+|---|---|---|---|
 | 1st-4th | 1d10 | 2d10 | 4d10 |
-| \rowcolor{gray!20}5th-10th | 2d10 | 4d10 | 10d10 |
+| 5th-10th | 2d10 | 4d10 | 10d10 |
 | 11th-16th | 4d10 | 10d10 | 18d10 |
-| \rowcolor{gray!20}17th-20th | 10d10 | 18d10 | 24d10 |
+| 17th-20th | 10d10 | 18d10 | 24d10 |
 
 ### Example Traps
 
@@ -286,7 +288,7 @@ This trap uses a trip wire to release a net suspended from the ceiling.
 
 The trip wire is placed 7 centimeters from the ground and extends between two columns or trees. The net is hidden by cobwebs or foliage. The DC (Survival) to notice the trip wire and net is 15. A successful Disable Device check with DC 20 disables the trip wire.
 
-A character without thieves' tools can still attempt the check with -1d6 using a sharp weapon or tool. If the check fails, the trap is triggered.
+A character without thieves' \*\* tools can still attempt the check with -1d6 using a sharp weapon or tool. If the check fails, the trap is triggered.
 
 When the trap is triggered, the net is released, covering a 3-meter square area. All creatures in the area are trapped by the net and are restrained, while those who fail a Fortitude Saving Throw, with Strength modifier, with DC 13 also fall prone.
 
@@ -298,19 +300,19 @@ The net has a Defense of 10 and 20 Hit Points. Dealing 5 slashing damage to the 
 
 Mechanical trap
 
-When 10 or more kilograms are placed on the trap's pressure plate, a hidden trapdoor in the ceiling opens, releasing a 3-meter-diameter sphere made entirely of stone.
+When 10 or more kilograms are placed on the trap' \*\*s pressure plate, a hidden trapdoor in the ceiling opens, releasing a 3-meter-diameter sphere made entirely of stone.
 
 By succeeding on a DC 20 Survival check, a character can notice the trapdoor and pressure plate. If an examination of the floor is accompanied by a successful DC 20 Survival check, it will reveal the presence of the pressure plate through the difference in structure of the flooring that accommodates it. The same check performed while checking the ceiling will reveal the presence of a trapdoor. Wedging an iron spike or another object under the pressure plate will prevent the trap from triggering.
 
 Activation of the sphere causes all creatures present to roll for initiative. The sphere rolls initiative with a +8 bonus.
 
-During its round, the sphere moves 18 meters in a straight line. The sphere can move through a creature's space, and creatures can move through the space it occupies, treating it as difficult terrain.
+During its round, the sphere moves 18 meters in a straight line. The sphere can move through a creature' \*\*s space, and creatures can move through the space it occupies, treating it as difficult terrain.
 
-Whenever the sphere enters a creature's space or a creature enters its space while the sphere is rolling, the creature must succeed on a DC 15 Reflex Saving Throw or take 55 (10d10) bludgeoning damage and fall prone.
+Whenever the sphere enters a creature' \*\*s space or a creature enters its space while the sphere is rolling, the creature must succeed on a DC 15 Reflex Saving Throw or take 55 (10d10) bludgeoning damage and fall prone.
 
 The sphere stops when it hits a wall or similar barrier. It cannot turn corners, but skilled dungeon builders incorporate slight curves and curving turns in adjacent passages that allow the sphere to continue moving.
 
-With 2 Actions, a creature within 1 meter of the sphere can attempt to slow it down by succeeding on a DC 20 Fortitude Saving Throw with Strength. If the check succeeds, the sphere's speed is reduced by 3 meters. If the sphere's speed drops to 0, it stops moving and is no longer a threat.
+With 2 Actions, a creature within 1 meter of the sphere can attempt to slow it down by succeeding on a DC 20 Fortitude Saving Throw with Strength. If the check succeeds, the sphere' \*\*s speed is reduced by 3 meters. If the sphere' \*\*s speed drops to 0, it stops moving and is no longer a threat.
 
 **Collapsing Ceiling**
 
@@ -320,7 +322,7 @@ This trap uses a trip wire to collapse the supports holding up an unstable secti
 
 The trip wire is placed 7 centimeters from the ground and extends between the two supports. The DC (Survival) to notice the trip wire is 13. A successful Disable Device check with DC 20 disables the trip wire.
 
-A character without thieves' tools can still attempt the check with -1d6 using a sharp weapon or tool. If the check fails, the trap is triggered.
+A character without thieves' \*\* tools can still attempt the check with -1d6 using a sharp weapon or tool. If the check fails, the trap is triggered.
 
 Anyone inspecting the supports can easily deduce that they are merely resting in place. With an Action, the character can knock down a support and trigger the trap.
 
@@ -362,229 +364,229 @@ Here are additional traps for your enjoyment.
 
 **Activator**: whether it activates by contact or distance or through a spell like Alarm (for CR < 3), Arcane Eye (for CR between 3 and 10), or True Seeing (for CR above 10).
 
-**Reset (Ripr.)**: whether it's possible to reset the trap once triggered
+**Reset (Ripr.)**: whether it' \*\*s possible to reset the trap once triggered
 
 **Effect**: what the effect of the trap is
 
-| \rowcolor{gray!20}**CR:**  1 | **Poisoned Dart** |
+| **CR:**  1 | **Poisoned Dart** |
 | --- | --- |
 | **Type:** | Mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 13 |
+| **Survival:** | DC 13 |
 | **Dis. Dev.:** | DC 15 |
-| \rowcolor{gray!20}**Activator:** | Contact |
+| **Activator:** | Contact |
 | **Reset:** | None |
-| \rowcolor{gray!20}**Effect:** | Ranged attack 12 meters +10 (1d3 damage plus Fermented Lucos Slime, page ) |
-| \rowcolor{gray!20}**CR:** 1 | **Arrow** |
+| **Effect:** | Ranged attack 12 meters +10 (1d3 damage plus Fermented Lucos Slime, page ) |
+| **CR:** 1 | **Arrow** |
 | **Type:** | Mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 13 |
+| **Survival:** | DC 13 |
 | **Dis. Dev.:** | DC 15 |
-| \rowcolor{gray!20}**Activator:** | Contact |
+| **Activator:** | Contact |
 | **Reset:** | None |
-| \rowcolor{gray!20}**Effect:** | Ranged attack 12 meters +15 (1d8+3) |
-| \rowcolor{gray!20}**CR:** 1 | **Pit** |
+| **Effect:** | Ranged attack 12 meters +15 (1d8+3) |
+| **CR:** 1 | **Pit** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 14 |
+| **Survival:** | DC 14 |
 | **Dis. Dev.:** | DC 16 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | 3 meter deep pit (2d6 falling damage) |
-| \rowcolor{gray!20}**CR:** 1 | **Scything Blade** |
+| **Effect:** | 3 meter deep pit (2d6 falling damage) |
+| **CR:** 1 | **Scything Blade** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 13 |
+| **Survival:** | DC 13 |
 | **Dis. Dev.:** | DC 15 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | 2 melee attacks +10 (1d8+1) |
-| \rowcolor{gray!20}**CR:** 2 | **Spiked Pit** |
+| **Effect:** | 2 melee attacks +10 (1d8+1) |
+| **CR:** 2 | **Spiked Pit** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 16 |
+| **Survival:** | DC 16 |
 | **Dis. Dev.:** | DC 18 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | 3 meter deep pit + spikes (Melee attack +10, 1d4 spikes per target for 1d4+2 damage each) |
-| \rowcolor{gray!20}**CR:** 2 | **Scorching Wave** |
+| **Effect:** | 3 meter deep pit + spikes (Melee attack +10, 1d4 spikes per target for 1d4+2 damage each) |
+| **CR:** 2 | **Scorching Wave** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 16 |
+| **Survival:** | DC 16 |
 | **Dis. Dev.:** | DC 18/4 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | 5d4 fire damage |
-| \rowcolor{gray!20}**CR:** 2 | **Javelin** |
+| **Effect:** | 5d4 fire damage |
+| **CR:** 2 | **Javelin** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 15 |
+| **Survival:** | DC 15 |
 | **Dis. Dev.:** | DC 17 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | Ranged attack 12 meters +15 (2d6+6), within 6 meter radius |
-| \rowcolor{gray!20}**CR:**  2 | **Pit with Undead** |
+| **Effect:** | Ranged attack 12 meters +15 (2d6+6), within 6 meter radius |
+| **CR:**  2 | **Pit with Undead** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 14 |
+| **Survival:** | DC 14 |
 | **Dis. Dev.:** | DC 16 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | At the bottom of the pit (2d6 falling damage) there are two zombies |
-| \rowcolor{gray!20}**CR:** 3 | **Acid Arrow** |
+| **Effect:** | At the bottom of the pit (2d6 falling damage) there are two zombies |
+| **CR:** 3 | **Acid Arrow** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 18 |
+| **Survival:** | DC 18 |
 | **Dis. Dev.:** | DC 20/4 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | Ranged attack of 16 meters (4d4 acid damage for 4 rounds) |
-| \rowcolor{gray!20}**CR:** 3 | **Concealed Pit** |
+| **Effect:** | Ranged attack of 16 meters (4d4 acid damage for 4 rounds) |
+| **CR:** 3 | **Concealed Pit** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 19 |
+| **Survival:** | DC 19 |
 | **Dis. Dev.:** | DC 20 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | 3d6 falling damage |
-| \rowcolor{gray!20}**CR:** 4 | **Electric Arc** |
+| **Effect:** | 3d6 falling damage |
+| **CR:** 4 | **Electric Arc** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 21 |
+| **Survival:** | DC 21 |
 | **Dis. Dev.:** | DC 20/4 |
-| \rowcolor{gray!20}**Activator:** | contact |
+| **Activator:** | contact |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | Electric arc. 2 targets within 3 meters of each other, 5d6 electricity damage |
-| \rowcolor{gray!20}**CR:** 4 | **Wall Scythe** |
+| **Effect:** | Electric arc. 2 targets within 3 meters of each other, 5d6 electricity damage |
+| **CR:** 4 | **Wall Scythe** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 20 |
+| **Survival:** | DC 20 |
 | **Dis. Dev.:** | DC 18 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | automatic |
-| \rowcolor{gray!20}**Effect:** | three melee attacks +10 (2d8+3) |
-| \rowcolor{gray!20}**CR:** 5 | **Falling Block** |
+| **Effect:** | three melee attacks +10 (2d8+3) |
+| **CR:** 5 | **Falling Block** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 23 |
+| **Survival:** | DC 23 |
 | **Dis. Dev.:** | DC 22 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | Melee attack +15 (6d6) |
-| \rowcolor{gray!20}**CR:** 6 | **Fiery Blast** |
+| **Effect:** | Melee attack +15 (6d6) |
+| **CR:** 6 | **Fiery Blast** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 25 |
+| **Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 24/4 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | 3 meter cone, 8d6 fire damage |
-| \rowcolor{gray!20}**CR:** 7 | **Boiling Waters** |
+| **Effect:** | 3 meter cone, 8d6 fire damage |
+| **CR:** 7 | **Boiling Waters** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 25 |
+| **Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 20/4 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | 6 meter cone (spray of boiling water, 8d6 fire damage). |
-| \rowcolor{gray!20}**CR:** 8 | **Gas Trap** |
+| **Effect:** | 6 meter cone (spray of boiling water, 8d6 fire damage). |
+| **CR:** 8 | **Gas Trap** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 28 |
+| **Survival:** | DC 28 |
 | **Dis. Dev.:** | DC 26 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | repairable |
-| \rowcolor{gray!20}**Effect:** | Poisonous gas, 6 meter cube. Fortitude ST DC 17 or slowed 1/1 minute. |
-| \rowcolor{gray!20}**CR:** 9 | **Arrow Barrage** |
+| **Effect:** | Poisonous gas, 6 meter cube. Fortitude ST DC 17 or slowed 1/1 minute. |
+| **CR:** 9 | **Arrow Barrage** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 30 |
+| **Survival:** | DC 30 |
 | **Dis. Dev.:** | DC 27 |
-| \rowcolor{gray!20}**Activator:** | visual (Arcane Eye) |
+| **Activator:** | visual (Arcane Eye) |
 | **Reset:** | repairable |
-| \rowcolor{gray!20}**Effect:** | 6 arrows. Ranged attack +14 (1d8+1) |
-| \rowcolor{gray!20}**CR:** 8 | **Concealed Spiked Pit** |
+| **Effect:** | 6 arrows. Ranged attack +14 (1d8+1) |
+| **CR:** 8 | **Concealed Spiked Pit** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 29 |
+| **Survival:** | DC 29 |
 | **Dis. Dev.:** | DC 20 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | 15 m deep pit + spikes (Melee attack +9, 3 spikes per target, 1d6+5 damage each) |
-| \rowcolor{gray!20}**CR:** 9 | **Electric Floor** |
+| **Effect:** | 15 m deep pit + spikes (Melee attack +9, 3 spikes per target, 1d6+5 damage each) |
+| **CR:** 9 | **Electric Floor** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 30 |
+| **Survival:** | DC 30 |
 | **Dis. Dev.:** | DC 26/5 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | 6mx9m. 8d6 Electricity damage. |
-| \rowcolor{gray!20}**CR:** 10 | **Energy Drain** |
+| **Effect:** | 6mx9m. 8d6 Electricity damage. |
+| **CR:** 10 | **Energy Drain** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 34 |
+| **Survival:** | DC 34 |
 | **Dis. Dev.:** | DC 34/6 |
-| \rowcolor{gray!20}**Activator:** | visual (True Seeing) |
+| **Activator:** | visual (True Seeing) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | Ranged touch attack 18 meters +14 from Void, maximum Hit Points reduced by 10d4 + Fatigued. |
-| \rowcolor{gray!20}**CR:** 10 | **Room of Blades** |
+| **Effect:** | Ranged touch attack 18 meters +14 from Void, maximum Hit Points reduced by 10d4 + Fatigued. |
+| **CR:** 10 | **Room of Blades** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 25 |
+| **Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 20 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | repairable |
-| \rowcolor{gray!20}**Effect:** | Melee attack +15 (to all three attacks 3d8+3) |
-| \rowcolor{gray!20}**CR:** 11 | **Cone of Ice** |
+| **Effect:** | Melee attack +15 (to all three attacks 3d8+3) |
+| **CR:** 11 | **Cone of Ice** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 30 |
+| **Survival:** | DC 30 |
 | **Dis. Dev.:** | DC 30/6 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | like Cone of Cold dealing 9d6 damage. Reflex ST DC 22 to halve |
-| \rowcolor{gray!20}**CR:** 8 | **Crushing Walls** |
+| **Effect:** | like Cone of Cold dealing 9d6 damage. Reflex ST DC 22 to halve |
+| **CR:** 8 | **Crushing Walls** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 29 |
+| **Survival:** | DC 29 |
 | **Dis. Dev.:** | DC 25 |
-| \rowcolor{gray!20}**Activator:** | pressure plate |
+| **Activator:** | pressure plate |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | Walls close in 3 rounds. 4d10+10 crushing damage. Reflex DC 18 for half. |
-| \rowcolor{gray!20}**CR:** 9 | **Illusory Bridge** |
+| **Effect:** | Walls close in 3 rounds. 4d10+10 crushing damage. Reflex DC 18 for half. |
+| **CR:** 9 | **Illusory Bridge** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 31 |
+| **Survival:** | DC 31 |
 | **Dis. Dev.:** | DC 28 |
-| \rowcolor{gray!20}**Activator:** | touch |
+| **Activator:** | touch |
 | **Reset:** | automatic |
-| \rowcolor{gray!20}**Effect:** | Bridge disappears. 20m fall (6d6 damage). Will DC 19 to disbelieve. |
-| \rowcolor{gray!20}**CR:** 9 | **Teleport Maze** |
+| **Effect:** | Bridge disappears. 20m fall (6d6 damage). Will DC 19 to disbelieve. |
+| **CR:** 9 | **Teleport Maze** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 31 |
+| **Survival:** | DC 31 |
 | **Dis. Dev.:** | DC 29/5 |
-| \rowcolor{gray!20}**Activator:** | proximity (5m) |
+| **Activator:** | proximity (5m) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | Random teleport to trap room. Will DC 20 and confused 1d4 rounds. |
-| \rowcolor{gray!20}**CR:** 11 | **Poisoned Pit** |
+| **Effect:** | Random teleport to trap room. Will DC 20 and confused 1d4 rounds. |
+| **CR:** 11 | **Poisoned Pit** |
 | **Type:** | mechanical |
-| \rowcolor{gray!20}**Survival:** | DC 25 |
+| **Survival:** | DC 25 |
 | **Dis. Dev.:** | DC 20 |
-| \rowcolor{gray!20}**Activator:** | position |
+| **Activator:** | position |
 | **Reset:** | manual |
-| \rowcolor{gray!20}**Effect:** | Pit 6mx3m, 15 m deep + spikes (3 melee attacks +15 per target. 1d6+5 damage + poison 2d6 damage) |
-| \rowcolor{gray!20}**CR:** 13 | **Lightning Gallery** |
+| **Effect:** | Pit 6mx3m, 15 m deep + spikes (3 melee attacks +15 per target. 1d6+5 damage + poison 2d6 damage) |
+| **CR:** 13 | **Lightning Gallery** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 29 |
+| **Survival:** | DC 29 |
 | **Dis. Dev.:** | DC 29/5 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | like the spell Chain Lightning. DC 22. |
-| \rowcolor{gray!20}**CR:** 8 | **Flame Jet** |
+| **Effect:** | like the spell Chain Lightning. DC 22. |
+| **CR:** 8 | **Flame Jet** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 28 |
+| **Survival:** | DC 28 |
 | **Dis. Dev.:** | DC 24 |
-| \rowcolor{gray!20}**Activator:** | tripwire |
+| **Activator:** | tripwire |
 | **Reset:** | repairable |
-| \rowcolor{gray!20}**Effect:** | 9m cone of fire. 5d6 fire damage. Reflex DC 16 for half. |
-| \rowcolor{gray!20}**CR:** 15 | **Inferno of Fire** |
+| **Effect:** | 9m cone of fire. 5d6 fire damage. Reflex DC 16 for half. |
+| **CR:** 15 | **Inferno of Fire** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 31 |
+| **Survival:** | DC 31 |
 | **Dis. Dev.:** | DC 31/6 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | 60 fire damage. Reflex ST DC 23 to halve. |
-| \rowcolor{gray!20}**CR:** 16 | **Destruction** |
+| **Effect:** | 60 fire damage. Reflex ST DC 23 to halve. |
+| **CR:** 16 | **Destruction** |
 | **Type:** | N/A |
-| \rowcolor{gray!20}**Survival:** | DC 34 |
+| **Survival:** | DC 34 |
 | **Dis. Dev.:** | DC 34/6 |
-| \rowcolor{gray!20}**Activator:** | proximity (Alarm) |
+| **Activator:** | proximity (Alarm) |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | like the spell Disintegration with 1 Magic Critical. DC 24 |
+| **Effect:** | like the spell Disintegration with 1 Magic Critical. DC 24 |
 
-| \rowcolor{gray!20}**CR:** 19 | **Meteor Shower** |
+| **CR:** 19 | **Meteor Shower** |
 | **Type:** | magical |
-| \rowcolor{gray!20}**Survival:** | DC 34 |
+| **Survival:** | DC 34 |
 | **Dis. Dev.:** | DC 34/6 |
-| \rowcolor{gray!20}**Activator:** | visual |
+| **Activator:** | visual |
 | **Reset:** | none |
-| \rowcolor{gray!20}**Effect:** | like the spell Meteor Swarm. DC 28 |
+| **Effect:** | like the spell Meteor Swarm. DC 28 |
 
 >> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Narrator from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
 
@@ -596,11 +598,11 @@ Here are additional traps for your enjoyment.
 [*If he had used the pole, the trap would have been easily discovered*.]
 Do you proceed down the corridor?
 
-*Tups*: No, I'm suspicious. Can I see any cracks in the floor, maybe in a square shape?
+*Tups*: No, I' \*\*m suspicious. Can I see any cracks in the floor, maybe in a square shape?
 
-*Narrator*: No, there are millions of cracks, you can't see a pit that clearly [*the Narrator determines that the pit is well camouflaged and Tups has poor lighting to see well*]
+*Narrator*: No, there are millions of cracks, you can' \*\*t see a pit that clearly [*the Narrator determines that the pit is well camouflaged and Tups has poor lighting to see well*]
 
-*Tups*: Ok, I take my water flask from my backpack. I'm going to pour some water on the floor. Does it seem to seep into the floor at any point or reveal some pattern?
+*Tups*: Ok, I take my water flask from my backpack. I' \*\*m going to pour some water on the floor. Does it seem to seep into the floor at any point or reveal some pattern?
 
 *Narrator*: Yes, the water seems to flow around a square shape, slightly raised from the floor.
 
@@ -610,13 +612,14 @@ Do you proceed down the corridor?
 
 *Tups*: can I disable it?
 
-*Narrator*: how? [*The Narrator deliberately doesn't allow a check, but engages the player*]
+*Narrator*: how? [*The Narrator deliberately doesn' \*\*t allow a check, but engages the player*]
 
-*Tups*: I wedge my crowbar in so the mechanism doesn't open the trapdoor [*Tups doesn't ask to roll a die to figure out how to disarm it or disarm it directly, he explains to the Narrator how he does it and that's it*]
+*Tups*: I wedge my crowbar in so the mechanism doesn' \*\*t open the trapdoor [*Tups doesn' \*\*t ask to roll a die to figure out how to disarm it or disarm it directly, he explains to the Narrator how he does it and that' \*\*s it*]
 
 *Narrator*: you now cross the area safely and see that it opens onto a small room with two reinforced wooden doors... }
 
-Freely inspired by \href{https://friendorfoe.com/d/Old
+Freely inspired by https://friendorfoe.com/d/Old
 
->>> **Obvius traps**: A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player's ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they'll remember to retrieve that crowbar...!
+>>> **Obvius traps**: A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player' \*\*s ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they' \*\*ll remember to retrieve that crowbar...!
+
 ---

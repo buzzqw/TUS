@@ -6,62 +6,62 @@ La spada davvero buona è quella che rimane nel suo fodero. (Sanjuro)
 
 Usare un'Arma senza l'adeguata competenza impone un -1d6 al colpire
 
-La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed il tipo di danno (se da Taglio, Contundente o Perforante), la gittata, la Lista d'Arma appartenente e le caratteristiche speciali che può avere. Vedi anche \hyperref[sec:capacita-di-carico-e-trasporto-ingombro]{Capacità di Carico e Trasporto.}
+La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed il tipo di danno (se da Taglio, Contundente o Perforante), la gittata, la Lista d'Arma appartenente e le caratteristiche speciali che può avere. Vedi anche Capacità di Carico e Trasporto.
 
 **Tabella: Lista della Armi**
 
-| \rowcolor{gray!20}**Arma** | **Costo** | **Dim./Danno** | **Gittata, Lista, Speciale** |
+| **Arma** | **Costo** | **Dim./Danno** | **Gittata, Lista, Speciale** |
 | --- | --- | --- | --- |
 | Alabarda | 10 | G/1d10 P/T | **Lance**, **Aste**, Controcarica, Arma lunga, ED9 |
-| \rowcolor{gray!20}Arco corto composito | note* | M/Frecce | 20 metri, **Archi** |
+| Arco corto composito | note* | M/Frecce | 20 metri, **Archi** |
 | Arco corto | 30 | M/1d6 P | 15 metri, **Archi** |
-| \rowcolor{gray!20}Arco lungo composito | note* | G/Frecce | 36 metri, **Archi** |
+| Arco lungo composito | note* | G/Frecce | 36 metri, **Archi** |
 | Arco lungo | 75 | G/Frecce | 20 metri, **Archi** |
-| \rowcolor{gray!20}Ascia martello | 16 | M/1d6 T/C | **Scuri e Accette** |
+| Ascia martello | 16 | M/1d6 T/C | **Scuri e Accette** |
 | Ascia ad una mano | 6 | M/1d6 T | 6 metri, **Scuri e Accette**, **Armi da Lancio**, Versatile |
-| \rowcolor{gray!20}Ascia da battaglia | 10 | G/1d10 T | **Scuri e Accette** |
+| Ascia da battaglia | 10 | G/1d10 T | **Scuri e Accette** |
 | Balestra ad una mano | 100 | M/Dardi | 6 metri, **Balestre** |
-| \rowcolor{gray!20}Balestra leggera | 35 | P/Dardi | 15 metri, **Armi Semplici**, **Balestre** |
+| Balestra leggera | 35 | P/Dardi | 15 metri, **Armi Semplici**, **Balestre** |
 | Balestra pesante | 50 | G/Dardi | 30 metri, **Balestre** |
-| \rowcolor{gray!20}Bastone | 3 | M/1d6 C | **Armi Semplici**, Arma lunga, Versatile, Parata |
+| Bastone | 3 | M/1d6 C | **Armi Semplici**, Arma lunga, Versatile, Parata |
 | Catena chiodata | 25 | G/2d4 P | 3 metri, **Palle rotanti**, Arma lunga |
-| \rowcolor{gray!20}Estoc | 25 | G/1d8 P | **Spade**, Arma lunga, Parata |
+| Estoc | 25 | G/1d8 P | **Spade**, Arma lunga, Parata |
 | Falce | 18 | G/2d4 P/T | **Armi della Morte**, Arma lunga |
-| \rowcolor{gray!20}Falcetto | 6 | P/1d6 T | **Armi della Morte** |
+| Falcetto | 6 | P/1d6 T | **Armi della Morte** |
 | Falcione in asta | 12 | G/1d10 P/T | **Lance**, Controcarica, Arma lunga, ED9 |
-| \rowcolor{gray!20}Falcione | 75 | M/2d4 T | **Armi Aggraziate**, ED7 |
+| Falcione | 75 | M/2d4 T | **Armi Aggraziate**, ED7 |
 | Fionda | - | P/1d4 B | 10 metri, **Armi da lancio** |
-| \rowcolor{gray!20}Flagello doppio | 90 | G/1d10 C | **Palle Rotanti**, **Armi doppie** |
+| Flagello doppio | 90 | G/1d10 C | **Palle Rotanti**, **Armi doppie** |
 | Flagello pesante | 15 | G/1d10 C | **Palle Rotanti** |
-| \rowcolor{gray!20}Flagello | 8 | M/1d8 C | **Palle Rotanti**, **Rompi Cranio** |
+| Flagello | 8 | M/1d8 C | **Palle Rotanti**, **Rompi Cranio** |
 | Frusta | 1 | M/1d3 T | **Palle Rotanti**, Arma lunga |
-| \rowcolor{gray!20}Giavellotto | 1 | P/1d6 P | 12 metri, **Armi Semplici**, **Aste**, **Armi da Lancio** |
+| Giavellotto | 1 | P/1d6 P | 12 metri, **Armi Semplici**, **Aste**, **Armi da Lancio** |
 | Grande ascia doppia | 25 | G/1d10 T | **Scuri e Accette**, **Armi doppie** |
-| \rowcolor{gray!20}Guanto chiodato | 5 | P/1d4 P | **Armi da Stordimento**, non letale |
+| Guanto chiodato | 5 | P/1d4 P | **Armi da Stordimento**, non letale |
 | Katana | 300 | M/1d10 T | **Armi letali**, ED9 |
-| \rowcolor{gray!20}Lancia da fante | 2 | M/1d8 P | 3 metri, **Lance**, Arma lunga, Controcarica |
+| Lancia da fante | 2 | M/1d8 P | 3 metri, **Lance**, Arma lunga, Controcarica |
 | Lancia | 10 | G/1d10 P | **Lance**, Arma lunga, Controcarica |
-| \rowcolor{gray!20}Machete | 10 | M/1d6 T | **Armi letali** |
+| Machete | 10 | M/1d6 T | **Armi letali** |
 | Maglio da guerra | 7 | G/1d10 C | **Rompi Cranio** |
-| \rowcolor{gray!20}Manganello | 1 | P/1d6 C | **Armi da stordimento**, non letale |
+| Manganello | 1 | P/1d6 C | **Armi da stordimento**, non letale |
 | Martello da guerra | 5 | M/1d8 C/P | 6 metri, **Rompi Cranio** |
-| \rowcolor{gray!20}Mazza leggera | 3 | P/1d6 C/T | **Armi Semplici**, **Armi Leggere**, **Rompi Cranio** |
+| Mazza leggera | 3 | P/1d6 C/T | **Armi Semplici**, **Armi Leggere**, **Rompi Cranio** |
 | Mazza flangiata | 5 | M/1d8 C/T | **Rompi Cranio** |
-| \rowcolor{gray!20}Mazza chiodata | 6 | M 1d8 C/P | **Armi Semplici**, **Rompi Cranio** |
+| Mazza chiodata | 6 | M 1d8 C/P | **Armi Semplici**, **Rompi Cranio** |
 | Picca leggera | 4 | M/1d4 P | **Armi della morte** |
-| \rowcolor{gray!20}Picca pesante | 8 | G/1d6 P | **Armi della morte**, Arma lunga |
+| Picca pesante | 8 | G/1d6 P | **Armi della morte**, Arma lunga |
 | Pugnale | 2 | P/1d4 P | 6 metri, **Armi Semplici**, **Armi leggere**, **Armi da Lancio** |
-| \rowcolor{gray!20}Pugno/Calcio | note* | P/1d4 C | Versatile |
+| Pugno/Calcio | note* | P/1d4 C | Versatile |
 | Scimitarra | 15 | M/1d6 T | **Armi Leggere**, **Armi Aggraziate**, Versatile |
-| \rowcolor{gray!20}Spada corta | 10 | P/1d6 P | **Armi Leggere**, **Spade**, Versatile, Parata |
+| Spada corta | 10 | P/1d6 P | **Armi Leggere**, **Spade**, Versatile, Parata |
 | Spada lunga | 15 | M/1d8 T | **Spade**, Parata |
-| \rowcolor{gray!20}Spada a due lame | 100 | G/1d8 T | **Armi doppie**, **Spade**, Parata |
+| Spada a due lame | 100 | G/1d8 T | **Armi doppie**, **Spade**, Parata |
 | Spada bastarda | 35 | M/1d8 T | **Spade**, Parata, 1d8 ad una mano, 2d6 a 2 mani |
-| \rowcolor{gray!20}Spada larga | 12 | M/2d4 T | **Spade**, Parata, 2d4 ad una mano, 1d10 a 2 mani |
+| Spada larga | 12 | M/2d4 T | **Spade**, Parata, 2d4 ad una mano, 1d10 a 2 mani |
 | Spadone a due mani | 50 | G/2d6 T | **Spade**, Parata |
-| \rowcolor{gray!20}Stocco | 20 | P/1d6 P | **Armi Leggere**, **Armi Aggraziate**, Versatile |
+| Stocco | 20 | P/1d6 P | **Armi Leggere**, **Armi Aggraziate**, Versatile |
 | Tridente | 15 | M/1d6 P/T | 3 metri, **Aste**, **Armi da Lancio**, Arma Lunga, Controcarica |
-| \rowcolor{gray!20}Urgrosh | 18 | M/1d6 T/P | **Lance**, **Armi doppie** |
+| Urgrosh | 18 | M/1d6 T/P | **Lance**, **Armi doppie** |
 
 Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
 
@@ -69,14 +69,14 @@ Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Gra
 
 	
 
-| \rowcolor{gray!20}**Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
+| **Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
 | --- | --- | --- |
 | Dardi da balestra (una mano, leggera) | 10/1 mo | 1d6 P |
-| \rowcolor{gray!20}Dardi per balestra (pesante) | 3/1 mo | 1d10 P |
+| Dardi per balestra (pesante) | 3/1 mo | 1d10 P |
 | Frecce da caccia (Arco Corto, Arco Lungo) | 20/1 mo | 1d6 P |
-| \rowcolor{gray!20}Frecce da guerra (Arco Lungo) | 10/1 mo | 1d8 P |
+| Frecce da guerra (Arco Lungo) | 10/1 mo | 1d8 P |
 | Biglie di Marmo (fionde) | 15/1 mo | 1d4 B |
-| \rowcolor{gray!20}Sasso (fionde) | - | 1d2 B |
+| Sasso (fionde) | - | 1d2 B |
 
 Una **Faretra** (piena o vuota) di Proiettili (Frecce o Dardi) ha **Ingombro** 2.
 
@@ -114,7 +114,7 @@ Un **Proiettile che colpisce si considera distrutto**, se manca ha un 50\% (4-5-
 
 Un Proiettile magico somma i suoi bonus a quelli del lanciatore per determinare il Tiro per Colpire ed il Danno.
 
-La **Dimensione dell'Arma** è indicata come P (piccola), M (media), G (grande) ed è riferito ad una creatura media. \hyperref[armatroppogrande]{Vedi sezione Arma troppo grande}
+La **Dimensione dell'Arma** è indicata come P (piccola), M (media), G (grande) ed è riferito ad una creatura media. Vedi sezione Arma troppo grande
 
 Una **arma di dimensione superiore**  come ad esempio una Spada Lunga forgiata per un Ogre aumenta di una categoria il suo dado di danno.
 
@@ -203,27 +203,29 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 
 **Tira e somma 2d10, consulta la tabella**
 
-| \rowcolor{gray!20}**\#** | **Effetto** |
+| **\#** | **Effetto** |
+|---|---|
 | 2 | Il proiettile è difettoso, per fortuna non ci sono altri problemi. Costa una Azione togliere il proiettile inceppato. |
-| \rowcolor{gray!20}3 | Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato. |
+| 3 | Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato. |
 | 4 | L'aver mancato ti lascia esitante, perdi 1 Azione. |
 
-| \rowcolor{gray!20}**\#** | **Effetto** |
+| **\#** | **Effetto** |
+|---|---|
 | 5 | Il mirino è impreciso. Il prossimo colpo ha -2 al Tiro per Colpire. |
-| \rowcolor{gray!20}6 | Spari inavvertitamente due colpi/raffiche. Il secondo non colpisce nessuno e fa solo consumare proiettili. |
+| 6 | Spari inavvertitamente due colpi/raffiche. Il secondo non colpisce nessuno e fa solo consumare proiettili. |
 | 7 | L'arma non è adeguatamente lubrificata. Inserire il prossimo caricatore costa 1 round intero. |
-| \rowcolor{gray!20}8 | Il caricatore si sgancia/cade. Devi caricare un nuovo caricatore (2 Azioni) o recuperare e rimettere il precedente caricatore. |
+| 8 | Il caricatore si sgancia/cade. Devi caricare un nuovo caricatore (2 Azioni) o recuperare e rimettere il precedente caricatore. |
 | 9 | Il rinculo è così forte che il personaggio cade a terra prono. |
-| \rowcolor{gray!20}10 | Proiettile molto incastrato. Per liberare il colpo devi eseguire una prova di Artigianato DC 15, 1 round. |
+| 10 | Proiettile molto incastrato. Per liberare il colpo devi eseguire una prova di Artigianato DC 15, 1 round. |
 | 11 | L'arma si surriscalda e non può essere usata fino alla fine del prossimo round. |
-| \rowcolor{gray!20}12 | L'arma emette una fitta coltre di fumo attorno a te che fornisce copertura leggera verso te e da te verso gli altri. |
+| 12 | L'arma emette una fitta coltre di fumo attorno a te che fornisce copertura leggera verso te e da te verso gli altri. |
 | 13 | Parziale ostruzione della canna. Il prossimo colpo/raffica sparato fa metà danno. |
-| \rowcolor{gray!20}14 | Il grilletto si incastra. Costa 3 Azioni sparare il prossimo colpo/raffica. |
+| 14 | Il grilletto si incastra. Costa 3 Azioni sparare il prossimo colpo/raffica. |
 | 15 | Il rinculo è tale che ti cade l'arma per terra entro 1d4 metri di distanza. |
-| \rowcolor{gray!20}16 | Il proiettile è esploso nella canna. Per liberare il colpo devi eseguire una prova di Artigianato DC 17, 1d4 round. |
+| 16 | Il proiettile è esploso nella canna. Per liberare il colpo devi eseguire una prova di Artigianato DC 17, 1d4 round. |
 | 17 | Colpisci un altro. Il colpo prende una traiettoria non voluta e colpisci una creatura a caso nella direzione del colpo. |
-| \rowcolor{gray!20}18 | Il rumore è talmente forte che il personaggio è assordato per 1 minuto. |
+| 18 | Il rumore è talmente forte che il personaggio è assordato per 1 minuto. |
 | 19 | Il proiettile è esploso nella canna danneggiandola. È necessaria una prova di Artigianato DC 21 per ripristinare l'arma, 1 turno. |
-| \rowcolor{gray!20}20 | L'intero caricatore è esploso. Subisci danno come se metà dei proiettili rimasti nell'arma ti colpissero. L'arma e proiettili sono distrutti. |
+| 20 | L'intero caricatore è esploso. Subisci danno come se metà dei proiettili rimasti nell'arma ti colpissero. L'arma e proiettili sono distrutti. |
 
 ---

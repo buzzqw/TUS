@@ -10,13 +10,13 @@ From lifeless deserts to trap-filled dungeons, the environment helps define the 
 
 ### Vision and Light
 
->>> **Light and Darkness**: The different functioning of light sources aims to make exploration darker, more obscure and difficult, especially in caves and areas without light sources. No more groups casting Light every minute or shouting *Darkvision!*. Darkness helps imagination and raises the level of tension. Emphasize the crackling of the torch flame, the wavering and sometimes near-extinguishing due to sudden drafts. Make what's around the characters mysterious!
+>>> **Light and Darkness**: The different functioning of light sources aims to make exploration darker, more obscure and difficult, especially in caves and areas without light sources. No more groups casting Light every minute or shouting *Darkvision!*. Darkness helps imagination and raises the level of tension. Emphasize the crackling of the torch flame, the wavering and sometimes near-extinguishing due to sudden drafts. Make what' \*\*s around the characters mysterious!
 
 In a natural environment, lighting can take on different gradations, and these gradations help understand how far a creature can see.
 
 The gradations of light can be:
 
-- **Darkness**': pitch black, can be natural or magical
+- **Darkness**' \*\*: pitch black, can be natural or magical
 - **Dim Light / Poor Light / Shadows / Slightly Obscured**: little illumination, allows recognition of silhouettes
 - **Light**: intense light, brilliant light, full, sunny
 
@@ -30,20 +30,20 @@ Many spells and objects use *real game time* as duration, meaning that rounds or
 
 | **Light** | **Radius in meters** |  | **Duration** |
 | --- | --- | --- | --- |
-| \rowcolor{gray!20}**Source** | **Light** | **Dim Light** | |
+| **Source** | **Light** | **Dim Light** | |
 | Candle | - | 1 m | 1 hour |
-| \rowcolor{gray!20}Torch | 3 m | 6 m | 1 hour |
+| Torch | 3 m | 6 m | 1 hour |
 | Lantern | 6 m | 12 m | 3 hours |
 | **Spells** |  |  | |
-| \rowcolor{gray!20}Tear of Ljust | 1 m | - | 10 rounds |
+| Tear of Ljust | 1 m | - | 10 rounds |
 | Light | 3 m | 6 m | 30 min. |
-| \rowcolor{gray!20}Daylight | 6 m | 12 m | 1 hour |
+| Daylight | 6 m | 12 m | 1 hour |
 
 The duration indicated is expressed, when in minutes or hours, as real game time duration.
 
 >> **Twilight or Darkvision?**: The darkness that permeates the Earth is not just a lack of light but is alive and pulsing. Even though many of the new races should be able to see in the dark, this is not the case. Tazher and Calicante have made the darkness impenetrable for anyone.
 
-**Dim light** is the light beyond a light source. It's walking through a 3-meter corridor if it's only illuminated by light candles, it's a night with a full moon, it's a slightly obscured area.
+**Dim light** is the light beyond a light source. It' \*\*s walking through a 3-meter corridor if it' \*\*s only illuminated by light candles, it' \*\*s a night with a full moon, it' \*\*s a slightly obscured area.
 Generally speaking, a light source creates dim light in a radius twice that of normal light. **A creature in Dim Light has a -2 penalty to Awareness checks and a -1 penalty to Attack Rolls**.
 
 **Darkness**: it is the complete darkness without any light source. For creatures with normal vision, darkness is what exists beyond Dim light.
@@ -71,7 +71,7 @@ Blinded creatures lose their ability to inflict extra damage caused, for example
 
 Blinded creatures consider the terrain as difficult . They must make an Acrobatics check with DC 12 per Movement Action to move at normal speed. If the check fails, they fall prone. Blinded creatures cannot charge.
 
-A blinded creature, or one fighting against an invisible creature, can make an Awareness check with difficulty 20 (or 10+ the opponent's Stealth check if they don't want to be found) to detect the creature provided it is within 6 meters of the character.
+A blinded creature, or one fighting against an invisible creature, can make an Awareness check with difficulty 20 (or 10+ the opponent' \*\*s Stealth check if they don' \*\*t want to be found) to detect the creature provided it is within 6 meters of the character.
 
 A Blinded creature suffers a -2 penalty to Skill Checks based on Strength and Dexterity and automatically fails any Awareness check that depends on sight.
 
@@ -91,7 +91,7 @@ When Acrobatics reaches score 6, the reduction applies to falls within 9 meters,
 
 Falls onto soft surfaces (soft ground, mud, etc.) reduce damage by 3.
 
-A character ends a Movement Action with a fall, but only if they didn't take damage can they continue with the same Action, otherwise they must first get up from prone.
+A character ends a Movement Action with a fall, but only if they didn' \*\*t take damage can they continue with the same Action, otherwise they must first get up from prone.
 
 In a round of free fall, one falls 150 meters (50d6 or 150 damage), at the end of the first segment one falls 20 meters, then 80m, then 150m. A character cannot cast spells while falling, unless the fall is greater than or equal to 100 meters. You are Distracted while trying to cast a spell while falling.
 
@@ -105,7 +105,7 @@ Characters who voluntarily dive into water take no damage if they pass a Swim ch
 
 ### Effects of Acid
 
-Corrosive acids inflict 1d6 damage per round of exposure, except in the case of total immersion (such as in an acid bath) which inflicts 10d6 damage per round. An acid attack, such as that from a thrown vial or a monster's spit/breath, should be considered as one round of exposure.
+Corrosive acids inflict 1d6 damage per round of exposure, except in the case of total immersion (such as in an acid bath) which inflicts 10d6 damage per round. An acid attack, such as that from a thrown vial or a monster' \*\*s spit/breath, should be considered as one round of exposure.
 
 The vapors produced by most acids are equivalent to inhaled poisons. Those who approach a large mass of acid must make a Fortitude Saving Throw with DC 13 or suffer 1 temporary Constitution damage per round of exposure. This poison has no frequency, therefore a creature is safe if it moves away from the acid.
 
@@ -130,20 +130,20 @@ Just as characters take damage from falls greater than 3 meters, they also take 
 Objects that fall on characters inflict damage depending on their weight and the distance from which they fell.
 
 The **Table: Damage from Falling Objects** determines the amount of damage inflicted by an object based on its size. It is assumed that the object is made of a dense and heavy material, such as stone.
-Objects made of lighter materials might inflict half or less of the indicated damage, at the Narrator's discretion. For example, a Huge boulder hitting a character inflicts 6d6 damage, while a wooden cart might only inflict 3d6.
+Objects made of lighter materials might inflict half or less of the indicated damage, at the Narrator' \*\*s discretion. For example, a Huge boulder hitting a character inflicts 6d6 damage, while a wooden cart might only inflict 3d6.
 
 Additionally, if the object falls from a distance less than 3 meters, it inflicts half the indicated damage. If an object falls from a distance greater than 20 meters, it inflicts double damage. The falling object suffers the same amount of damage that it inflicts.
 
 **Table: Damage from Falling Objects**
 
-| \rowcolor{gray!20}**Object Size** | **Damage** |
+| **Object Size** | **Damage** |
 | --- | --- |
 | Tiny or Smaller | 1d6 |
-| \rowcolor{gray!20}Small | 2d6 |
+| Small | 2d6 |
 | Medium | 3d6 |
-| \rowcolor{gray!20}Large | 4d6 |
+| Large | 4d6 |
 | Huge | 6d6 |
-| \rowcolor{gray!20}Gargantuan | 8d6 |
+| Gargantuan | 8d6 |
 | Colossal | 10d6 |
 
 Dropping an object on a creature requires a ranged touch attack (see Touch Attack, p. ). These attacks usually have a range of 3 meters. If an object falls on a creature, the creature must make, if hit, a Reflex Saving Throw with DC 15 to halve the damage if it is aware of the falling object. Falling objects that are part of a trap use the trap rules instead of those described here.
@@ -159,12 +159,12 @@ The creature can always choose to take 10 on a Swim check, even if distracted or
 
 A spellcaster is considered Distracted if casting a spell while in water.
 
-If you don't have the Swim movement type, **moving in water** is considered ***difficult terrain***, so you move at half the speed indicated by movement.
+If you don' \*\*t have the Swim movement type, **moving in water** is considered ***difficult terrain***, so you move at half the speed indicated by movement.
 
 If the creature knows how to swim, no checks are needed to move normally in calm waters, except when it wants to *run* (DC 13) or the waters are choppy (DC 15) or stormy (DC 20).
 
-If the creature doesn't know how to swim, then it must make a Fortitude Saving Throw at DC 13 every round it wants to move; if the waters are choppy, the DC is 19, and if they are stormy, the DC is 24; if you want to *run*, the DC increases by 4.
-In case of failure, you don't move and have a -1 to the next check; in case of Critical Failure, the next check takes -4; penalties accumulate until you succeed in the check.
+If the creature doesn' \*\*t know how to swim, then it must make a Fortitude Saving Throw at DC 13 every round it wants to move; if the waters are choppy, the DC is 19, and if they are stormy, the DC is 24; if you want to *run*, the DC increases by 4.
+In case of failure, you don' \*\*t move and have a -1 to the next check; in case of Critical Failure, the next check takes -4; penalties accumulate until you succeed in the check.
 If the swim check fails, the creature suffers 1d6 lethal damage if the waters flow over rocks and depressions.
 
 When the cumulative penalties are 9 or more, you begin to sink and drown (see below).
@@ -195,7 +195,7 @@ Boiling water inflicts 1d6 damage from scalding, unless the character is complet
 
 Characters exposed to boiling oil, campfires, non-instantaneous magical fires may see their clothes, hair, or equipment catch fire. Spells specify if they are capable of starting a fire.
 
-Characters at risk of catching fire can make a Reflex Saving Throw with DC 15 to avoid this fate. If a character's clothes or hair catch fire, they immediately suffer 1d6 damage. For each subsequent round, the burning character must make another Reflex Saving Throw. Failure indicates that they suffer another 1d6 damage in that round. Success indicates that the fire has gone out (once they pass the Saving Throw, they are no longer on fire).
+Characters at risk of catching fire can make a Reflex Saving Throw with DC 15 to avoid this fate. If a character' \*\*s clothes or hair catch fire, they immediately suffer 1d6 damage. For each subsequent round, the burning character must make another Reflex Saving Throw. Failure indicates that they suffer another 1d6 damage in that round. Success indicates that the fire has gone out (once they pass the Saving Throw, they are no longer on fire).
 
 A character who catches fire can automatically extinguish the flames by jumping into enough water to put them out. If there are no large quantities of water available, rolling on the ground or smothering the flame with cloaks or similar can grant the character +1d6 to the Saving Throw.
 
@@ -232,11 +232,12 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 
 **Table: Random Weather**
 
-| \rowcolor{gray!20}**d\%** | **Weather** | **Cold Climate** | **Temperate Climate {***} | **Desert** |
+| **d\%** | **Weather** | **Cold Climate** | **Temperate Climate {***} | **Desert** |
+|---|---|---|---|---|
 | 01-70 | Normal | Cold, calm | Normal for the season {*}{*} | Hot, calm |
-| \rowcolor{gray!20}71-80 | Abnormal | Heat Wave (01-30) / Cold Snap (31-100) | Heat Wave (01-50) - Cold Snap (51-100) | Hot, windy |
+| 71-80 | Abnormal | Heat Wave (01-30) / Cold Snap (31-100) | Heat Wave (01-50) - Cold Snap (51-100) | Hot, windy |
 | 81-90 | Inclement | Precipitation (snow) | Precipitation normal for the season | Hot, windy |
-| \rowcolor{gray!20}91-99 | Storm | Snowstorm | Lightning Storm / Snowstorm | Dust storm |
+| 91-99 | Storm | Snowstorm | Lightning Storm / Snowstorm | Dust storm |
 | 100 | Powerful storm | Blizzard | Blizzard, sleet storm, hurricane, tornado | Downpour |
 
 * Temperate includes forests, hills, marshes, mountains, plains, and warm marine areas.
@@ -261,7 +262,7 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 
 **Storm** (Lightning/Snow/Dust): The wind is very strong (from 45 to 75 km/h) and visibility is reduced by three-quarters. Storms last 2d4-1 hours. See Storms, below, for further details.
 
-**Storm** (Blizzard/Sleet Storm/Hurricane/Tornado): The wind speed is greater than 75 km/h (see Table: Wind Effects). Additionally, blizzards are accompanied by heavy snowfall (1d3 \texttimes{} 30 cm), and hurricanes are accompanied by downpours. Blizzards last 1d6 hours, sleet storms 1d3 days. Hurricanes can last up to a week, but the major impact for characters will occur in a period between 24 and 48 hours, as the center of the storm moves into their area. Tornadoes are very short-lived (1d6 \texttimes{} 10 minutes), and usually form as part of a lightning storm.
+**Storm** (Blizzard/Sleet Storm/Hurricane/Tornado): The wind speed is greater than 75 km/h (see Table: Wind Effects). Additionally, blizzards are accompanied by heavy snowfall (1d3  30 cm), and hurricanes are accompanied by downpours. Blizzards last 1d6 hours, sleet storms 1d3 days. Hurricanes can last up to a week, but the major impact for characters will occur in a period between 24 and 48 hours, as the center of the storm moves into their area. Tornadoes are very short-lived (1d6  10 minutes), and usually form as part of a lightning storm.
 
 **Scorching**: Temperature between 30° and 43° C during the day and between 6 and 11 degrees less at night.
 
@@ -291,12 +292,12 @@ Storms are of three types.
 
 **Dust Storm (Challenge Rating 3)**
 
-these desert storms differ from other storms in that they have no precipitation. Instead, dust storms carry grains of sand that obscure vision, suffocate unprotected flames, and can even extinguish protected ones (50\% chance). Many dust storms are accompanied by very strong winds and leave behind a deposit of 1d6 \texttimes{} 2.5 centimeters of sand.
-There is also a 10\% chance of encountering large dust storms with windstorms (see Table: Wind Effects). These violent dust storms inflict 1d3 nonlethal damage per round to anyone caught outdoors without shelter and also pose the risk of suffocation (see Drowning, except that a character with a scarf or similar protection over their mouth and nose, does not begin to suffocate until after a number of rounds equal to 10 \texttimes{} their Constitution score). Large dust storms deposit (2d3-1) x 30 centimeters of sand.
+these desert storms differ from other storms in that they have no precipitation. Instead, dust storms carry grains of sand that obscure vision, suffocate unprotected flames, and can even extinguish protected ones (50\% chance). Many dust storms are accompanied by very strong winds and leave behind a deposit of 1d6  2.5 centimeters of sand.
+There is also a 10\% chance of encountering large dust storms with windstorms (see Table: Wind Effects). These violent dust storms inflict 1d3 nonlethal damage per round to anyone caught outdoors without shelter and also pose the risk of suffocation (see Drowning, except that a character with a scarf or similar protection over their mouth and nose, does not begin to suffocate until after a number of rounds equal to 10  their Constitution score). Large dust storms deposit (2d3-1) x 30 centimeters of sand.
 
 **Snowstorm**
 
-in addition to the winds and precipitation common to other storms, snowstorms deposit 1d6 \texttimes{} 2.5 centimeters of snow on the ground.
+in addition to the winds and precipitation common to other storms, snowstorms deposit 1d6  2.5 centimeters of snow on the ground.
 
 **Lightning Storm**
 
@@ -312,7 +313,7 @@ Although they have little or no precipitation, windstorms can cause extensive da
 
 **Blizzard**
 
-The combination of strong winds, heavy snow (usually 1d3 \texttimes{} 30 cm), and intense cold makes blizzards lethal to anyone who is not prepared for them.
+The combination of strong winds, heavy snow (usually 1d3  30 cm), and intense cold makes blizzards lethal to anyone who is not prepared for them.
 
 **Hurricane**
 
@@ -336,14 +337,14 @@ Winds can create whirlwinds of sand or dust, fuel large fires, capsize small boa
 
 **Table: Wind Effects Wind Force**
 
-| \rowcolor{gray!20}**Intensity** | **Speed** | **Ranged Attacks** |
+| **Intensity** | **Speed** | **Ranged Attacks** |
 | --- | --- | --- |
 | Light | 0-15km | |
-| \rowcolor{gray!20}Moderate | 16.5-30 km/h | |
+| Moderate | 16.5-30 km/h | |
 | Strong | 31.5-45 | -2 |
-| \rowcolor{gray!20}Very strong | 45.5-75km/h | -4 |
+| Very strong | 45.5-75km/h | -4 |
 | Windstorm | 76.5-111km/h | impossible |
-| \rowcolor{gray!20}Hurricane | 12-261km/h | impossible |
+| Hurricane | 12-261km/h | impossible |
 | Tornado | 262-450km/h | impossible |
 
 **Light Wind**
@@ -375,4 +376,5 @@ Extinguishes all flames. All ranged attacks are impossible (including those with
 Those who come into contact with the tornado are lifted from the ground and buffeted for 1d10 rounds, suffering 6d6 damage per round, before being violently expelled. The creature is expelled from a height of 1d6 meters per round of stay in the tornado.
 
 Although the rotational speed of a tornado can reach 450 km/h, the cone itself moves forward at an average of 45 km/h (about 75 meters per round). A tornado is capable of uprooting trees, destroying buildings, and causing other forms of similar devastation.
+
 ---

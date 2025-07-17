@@ -12,7 +12,7 @@ Anche gli incantesimi sono oggetti magici e come tali, se il Narratore permette,
 
 Un incantesimo costa in monete d'oro livello*livello*livello*80
 
-\oggettomagico{Accecante}
+### Accecante
 
 **Aura:** Invocazione moderata; **Costo:** 3000 mo
 
@@ -20,7 +20,7 @@ Un incantesimo costa in monete d'oro livello*livello*livello*80
 
 Uno **scudo** dotato di questo incantamento emana una luce accecante per un massimo di due volte al giorno su comando di chi lo impugna. Tutti coloro che si trovano entro 6 metri dallo scudo, eccetto chi lo impugna, devono superare un Tiro Salvezza su Riflessi con DC 14 o restano Accecati per 1d4 round.
 
-\oggettomagico{Accumula Incantesimi}
+### Accumula Incantesimi
 
 **Aura:** Invocazione forte e variabile; **Costo:** 3000 mo
 
@@ -34,19 +34,19 @@ L'arma rivela magicamente a chi la impugna il nome dell'incantesimo attualmente 
 
 Un'arma Accumula Incantesimi emette una forte aura della scuola Invocazione, più l'aura dell'incantesimo contenuto.
 
-\oggettomagico{Acqua purificatrice}
+### Acqua purificatrice
 
 **Rarità:** Raro; **Costo:** 500 mo
 
 questo **liquido** dolce può essere usato per purificare l'acqua (anche per desalinizzare quella di mare) e per trasformare veleni, acidi e altri liquidi nocivi in una bevanda potabile. Inoltre, l'acqua purificatrice neutralizza l'efficacia di ogni altra pozione. Questa pozione può trasformare fino a 1000 metri cubi di quasi tutti i liquidi a base d'acqua, ma solo 10 metri cubi di acido. Gli effetti sono permanenti e un liquido purificato non può essere deteriorato o contaminato di nuovo per un periodo di 5d4 round.
 
-\oggettomagico{Adamantio}
+### Adamantio
 
 **Rarità:** Non Comune; **Costo:** +700 mo
 
 Chi indossa questa **armatura** per il primo colpo critico del round diventa un colpo normale (ma non protegge dall'esplosione del danno).
 
-\oggettomagico{Adattiva}
+### Adattiva
 
 **Aura:** Trasmutazione debole; **Costo:** 1500 mo
 
@@ -54,7 +54,7 @@ Chi indossa questa **armatura** per il primo colpo critico del round diventa un 
 
 Questa capacità può essere aggiunta solo agli **archi** compositi. Un arco Adattivo reagisce alla forza di chi lo impugna, agendo come un arco con un bonus di Forza pari a quello di chi lo sta impugnando. Chi lo impugna può scoccare con un bonus di Forza inferiore (e causare meno danni) se lo desidera.
 
-\oggettomagico{Affilata}
+### Affilata
 
 **Aura:** Trasmutazione moderata; **Costo:** 5000 mo
 
@@ -62,13 +62,13 @@ Questa capacità può essere aggiunta solo agli **archi** compositi. Un arco Ada
 
 Questa capacità in caso di critico consente di contare il numero di 6 tirati aumentandolo di 1. Solo le **armi** da mischia taglienti o perforanti possono essere Affilate.
 
-\oggettomagico{Ali del Volo}
+### Ali del Volo
 
 **Rarità:** Leggendario; **Costo:** 54000 mo
 
 mentre indossi questo **Mantello**, puoi usare due azioni per pronunciare la sua parola di comando, trasformandola in un paio di ali da pipistrello o da uccello che spuntano dalla tua schiena per 1 ora o finché non ripeti la parola di comando con un'Azione. Le ali ti forniscono velocità di volo 18 metri. Quando scompaiono, non potrai più usarle fino all'alba del giorno dopo.
 
-\oggettomagico{Ammazza Draghi}
+### Ammazza Draghi
 
 **Aura:** Invocazione moderata; **Costo:** 8000 mo
 
@@ -76,7 +76,7 @@ mentre indossi questo **Mantello**, puoi usare due azioni per pronunciare la sua
 
 Quando colpisci un drago con quest'**arma**, il drago subisce 3d6 danni aggiuntivi del tipo dell'arma. Ai fini di quest'arma, drago è qualsiasi creatura del tipo drago.
 
-\oggettomagico{Ammazza Giganti}
+### Ammazza Giganti
 
 **Aura:** Invocazione moderata; **Costo:** 8000 mo
 
@@ -84,7 +84,7 @@ Quando colpisci un drago con quest'**arma**, il drago subisce 3d6 danni aggiunti
 
 Quando colpisci un gigante con quest'**arma**, il gigante subisce 2d6 danni aggiuntivi del tipo dell'arma e deve superare un Tiro Salvezza su Tempra con DC 18 o cadere prono. Ai fini di quest'arma, gigante è qualsiasi creatura del tipo gigante.
 
-\oggettomagico{Amorfa}
+### Amorfa
 
 **Aura:** Trasmutazione moderata; **Costo:** 2250 mo
 
@@ -92,13 +92,13 @@ Quando colpisci un gigante con quest'**arma**, il gigante subisce 2d6 danni aggi
 
 Una volta al giorno a comando, chi indossa l'**armatura** (insieme a qualsiasi equipaggiamento indossi) può assumere la forma di un liquido viscoso che è in grado di passare attraverso qualsiasi spazio nel quale potrebbe ragionevolmente scorrere del fango denso. Mentre si usa questa capacità, la propria velocità viene ridotta a 3 metri e si possono effettuare solo azioni di movimento. Si può assumere questa forma per 1 minuto o finché non si spende un'Azione di Movimento per tornare alla propria forma naturale. Un'armatura Amorfa deve essere fatta principalmente di cuoio, stoffa o altro materiale organico e flessibile.
 
-\oggettomagico{Ampolla delle maledizioni}
+### Ampolla delle maledizioni
 
 **Rarità:** Raro; **Costo:** 800 mo
 
 questo oggetto ha l'aspetto di una ampolla, bottiglia, caraffa, contenitore, fiasco, o brocca. Può contenere un liquido o emanare fumo. Quando l'**ampolla** viene stappata per la prima volta, tutte le creature entro 9 m vengono maledette.
 
-\oggettomagico{Ampolla di Ferro}
+### Ampolla di Ferro
 
 **Rarità:** Leggendario; **Costo:** 35000 mo
 
@@ -106,24 +106,25 @@ questa **bottiglia** di ferro ha un tappo di ottone. Puoi usare due azioni per p
 
 L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
 
-| \rowcolor{gray!20}**d100** | **Contiene** |
+| **d100** | **Contiene** |
+|---|---|
 | 1-50 | Vuota |
-| \rowcolor{gray!20}51-66 | Demone |
+| 51-66 | Demone |
 | 67 | Angelo Deva |
-| \rowcolor{gray!20}68-69 | Diavolo (superiore) |
+| 68-69 | Diavolo (superiore) |
 | 70-73 | Diavolo (inferiore) |
-| \rowcolor{gray!20}74-75 | Genio Djinni |
+| 74-75 | Genio Djinni |
 | 76-77 | Genio Efreeti |
-| \rowcolor{gray!20}78-83 | Elementale (qualsiasi) |
+| 78-83 | Elementale (qualsiasi) |
 | 84-86 | Persecutore invisibile |
-| \rowcolor{gray!20}87-90 | Megera notturna |
+| 87-90 | Megera notturna |
 | 91 | Angelo Planetar |
-| \rowcolor{gray!20}92-95 | Salamandra |
+| 92-95 | Salamandra |
 | 96 | Angelo Solar |
-| \rowcolor{gray!20}97-99 | Succube/Incubo |
+| 97-99 | Succube/Incubo |
 | 100 | La Topi |
 
-\oggettomagico{Amuleto Antiveleno}
+### Amuleto Antiveleno
 
 **Aura:** Necromantica moderata; **Costo:** 3000 mo
 
@@ -131,7 +132,7 @@ L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'a
 
 questa **gemma** appesa a una catenella d'argento è nera e lucida. Chi la indossa ha una +2 al Tiro Salvezza contro veleno.
 
-\oggettomagico{Amuleto Cicatrizzante}
+### Amuleto Cicatrizzante
 
 **Aura:** Necromantica forte; **Costo:** 25000 mo
 
@@ -139,7 +140,7 @@ questa **gemma** appesa a una catenella d'argento è nera e lucida. Chi la indos
 
 questa **gemma** appesa a una catenella d'oro è rossa e brillante. Chi la indossa recupera i Punti Ferita due volte più rapidamente del normale (anche Punti Ferita Massimi). L'amuleto impedisce di subire danni da Sanguinamento.
 
-\oggettomagico{Amuleto Contro la Possessione}
+### Amuleto Contro la Possessione
 
 **Aura:** Abiurativa forte; **Costo:** 32000 mo
 
@@ -147,11 +148,11 @@ questa **gemma** appesa a una catenella d'oro è rossa e brillante. Chi la indos
 
 il possessore di questo **amuleto** di rame diviene immune agli incantesimi di possessione e dominazione.
 
-\oggettomagico{Amuleto della Cancrena}
+### Amuleto della Cancrena
 
 questa **gemma** incisa appesa a una catenella sembra essere di scarso valore. Se un personaggio la tiene con se per più di 1 giorno, viene colpito da una terribile cancrena che gli fa perdere permanentemente 1 punto di Destrezza, Costituzione e Carisma alla settimana. La gemma (e la cancrena) possono essere neutralizzate solo da Rimuovi Maledizione e Rimuovi Malattia, seguiti da Guarigione o Desiderio. La cancrena può anche essere sconfitta macinando un amuleto della salute e spargendone la polvere sul personaggio afflitto
 
-\oggettomagico{Amuleto della Localizzazione inevitabile}
+### Amuleto della Localizzazione inevitabile
 
 **Aura:** Divinazione forte; **Costo:** 8000 mo
 
@@ -159,7 +160,7 @@ questa **gemma** incisa appesa a una catenella sembra essere di scarso valore. S
 
 questo **amuleto** maledetto ha l'apparenza di un amuleto dell'introvabilità. Al contrario, rende il possessore vulnerabile a questo tipo di magia. La probabilità di osservare il possessore e la durata di incantesimi usati per tale scopo raddoppiano.
 
-\oggettomagico{Amuleto della Resistenza Fisica}
+### Amuleto della Resistenza Fisica
 
 **Aura:** Abiurazione forte; **Costo:** 8000 mo
 
@@ -167,7 +168,7 @@ questo **amuleto** maledetto ha l'apparenza di un amuleto dell'introvabilità. A
 
 non mentre indossi questo **amuleto** hai un +2 ai Tiri Salvezza su Tempra.
 
-\oggettomagico{Amuleto di Protezione dalla Individuazione e Localizzazione}
+### Amuleto di Protezione dalla Individuazione e Localizzazione
 
 **Aura:** Abiurazione forte; **Costo:** 20000 mo
 
@@ -175,7 +176,7 @@ non mentre indossi questo **amuleto** hai un +2 ai Tiri Salvezza su Tempra.
 
 mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi essere preso come bersaglio da queste magie o percepito tramite sensori magici di scrutamento.
 
-\oggettomagico{Arma Anatema}
+### Arma Anatema
 
 **Aura:** Evocazione moderata; **Costo:** 3000 mo
 
@@ -183,21 +184,22 @@ mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi
 
 Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
 
-| \rowcolor{gray!20}d\% | Nemico prescelto |
+| d\% | Nemico prescelto |
+|---|---|
 | 01-05 | Aberrazioni |
-| \rowcolor{gray!20}06-09 | Bestie |
+| 06-09 | Bestie |
 | 10-16 | Costrutti |
-| \rowcolor{gray!20}17-22 | Draghi |
+| 17-22 | Draghi |
 | 23-27 | Fatati |
-| \rowcolor{gray!20}28-60 | Umanoidi (scegliere sottotipo) |
+| 28-60 | Umanoidi (scegliere sottotipo) |
 | 61-70 | Creature Magiche |
-| \rowcolor{gray!20}71-72 | Melme |
+| 71-72 | Melme |
 | 73-88 | Immondi |
-| \rowcolor{gray!20}89-90 | Piante |
+| 89-90 | Piante |
 | 91-98 | Non Morti |
-| \rowcolor{gray!20}99-100 | Insetti |
+| 99-100 | Insetti |
 
-\oggettomagico{Anello Accumula Incantesimi}
+### Anello Accumula Incantesimi
 
 **Rarità:** Raro; **Costo:** 24000 mo
 
@@ -207,7 +209,7 @@ Qualsiasi creatura può lanciare un incantesimo accumulato di livello da 1 a 5 s
 
 Per caricare l'incantesimo nell'anello l'incantatore deve mirare all'anello per farlo assorbire. Se l'anello non può contenere l'incantesimo, l'incantesimo si manifesta normalmente. Un incantesimo lanciato tramite questo anello non è più contenuto al suo interno e libera spazio per altri incantesimi.
 
-\oggettomagico{Anello d'Arma}
+### Anello d'Arma
 
 **Aura:** Ammaliamento moderato; **Costo:** 4000 mo
 
@@ -216,7 +218,7 @@ Per caricare l'incantesimo nell'anello l'incantatore deve mirare all'anello per 
 Un Anello d'**arma** può essere applicato solo ad armi da mischia. Quando inserito nell'elsa dell'arma il personaggio può due volte al giorno usare 1 Azione e fare diventare l'arma magica +1 per 10 round. Tale abilità non può essere attivata su oggetti che abbiano già un bonus magico.
 La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si conta nei limiti per indossare anelli.
 
-\oggettomagico{Anello d'Arma maggiore}
+### Anello d'Arma maggiore
 
 **Aura:** Abiurazione forte; **Costo:** 8000 mo
 
@@ -224,20 +226,21 @@ La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si con
 
 Un Anello d'**arma** maggiore può essere applicato solo ad armi da mischia ed ha un solo potere. Quando viene trovato è necessario tirare sulla tabella sottostante per determinare il tipo di talento che conferisce l'anello. L'anello d'arma non si conta nei limiti per indossare anelli. Un arma può avere un numero di Anelli d'Arma massimo pari al suo bonus magico.
 
-| \rowcolor{gray!20}**1d100** | **Talento** | **1d100** | **Talento** |
+| **1d100** | **Talento** | **1d100** | **Talento** |
+|---|---|---|---|
 | 1-6 | Maledetta -2 | 55-60 | Folgorante |
-| \rowcolor{gray!20}7-12 | Coraggiosa | 61-66 | Gelida |
+| 7-12 | Coraggiosa | 61-66 | Gelida |
 | 13-18 | Del Dolore | 67-72 | Lingua di fuoco |
-| \rowcolor{gray!20}19-24 | Perfida | 73-78 | Marina |
+| 19-24 | Perfida | 73-78 | Marina |
 | 25-30 | +3 | 79-84 | Mutaforma |
-| \rowcolor{gray!20}31-36 | Maledetta -1 | 85-90 | +2 |
+| 31-36 | Maledetta -1 | 85-90 | +2 |
 | 37-42 | Arma Titanica | 91-96 | Tonante |
-| \rowcolor{gray!20}43-48 | Caos | 97-100 | Trasformante |
+| 43-48 | Caos | 97-100 | Trasformante |
 | 49-54 | Corrosiva |  | |
 
 Quando inserito nell'elsa dell'**arma** il personaggio può due volte al giorno usare 1 Azione e aggiungere all'arma il talento tirato, per 10 round. Se l'arma non è almeno magica +1 diventa magica +1. La capacità dell'Anello d'Arma maggiore si ricarica all'alba.
 
-\oggettomagico{Anello degli Elementali del Fuoco}
+### Anello degli Elementali del Fuoco
 
 **Rarità:** Leggendario; **Costo:** 250000 mo
 
@@ -255,7 +258,7 @@ L'anello ha 5 cariche. Recupera 1d4 + 1 cariche ogni giorno all'alba.
 
 Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 
-\oggettomagico{Anello degli Elementali dell'Acqua}
+### Anello degli Elementali dell'Acqua
 
 **Rarità:** Leggendario; **Costo:** 250000 mo
 
@@ -271,7 +274,7 @@ Se aiuti a uccidere un elementale dell'acqua mentre indossi l'anello, ottieni ac
 
 L'anello ha 5 cariche. Recupera 1d4 + 1 cariche ogni giorno all'alba. Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 
-\oggettomagico{Anello degli Elementali dell'Aria}
+### Anello degli Elementali dell'Aria
 
 **Rarità:** Leggendario; **Costo:** 250000 mo
 
@@ -291,7 +294,7 @@ L'anello ha 5 cariche. Recupera 1d4 + 1 cariche ogni giorno all'alba.
 
 Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 
-\oggettomagico{Anello degli Elementali della Terra}
+### Anello degli Elementali della Terra
 
 **Rarità:** Leggendario; **Costo:** 250000 mo
 
@@ -311,43 +314,43 @@ L'anello ha 5 cariche. Recupera 1d4 + 1 cariche ogni giorno all'alba.
 
 Gli incantesimi lanciati tramite l'anello hanno DC del Tiro Salvezza 21.
 
-\oggettomagico{Anello dei Tre Desideri}
+### Anello dei Tre Desideri
 
 **Rarità:** Leggendario; **Costo:** 75000 mo
 
 mentre indossi quest'**anello**, puoi usare due azioni per spendere 1 delle sue 1d3 cariche per lanciare tramite esso l'incantesimo desiderio. L'anello perde la sua magia quando usi l'ultima carica.
 
-\oggettomagico{Scarfarotto del Calore}
+### Scarfarotto del Calore
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 mentre indossi questo **calzino**, hai resistenza ai danni da freddo. Inoltre, tu e tutto quello che indossi e trasporti siete immuni agli effetti delle temperature basse fino a -45° C.
 
-\oggettomagico{Anello del Controllo delle persone}
+### Anello del Controllo delle persone
 
 **Rarità:** Raro; **Costo:** 2500 mo
 
 questo **anello** conferisce a chi lo indossa la capacità di usare l'incantesimo *charme* una volta la giorno. L'effetto dura finché chi esercita il controllo non vi pone termine, passa 1 ora o l'incantesimo viene disperso.
 
-\oggettomagico{Anello del Controllo delle piante}
+### Anello del Controllo delle piante
 
 **Rarità:** Molto Raro; **Costo:** 5000 mo
 
 chi indossa questo **anello** può controllare le piante e le creature vegetali in un'area quadrata di 3x3 m entro una distanza di 18 metri. Anche se una pianta è immobile, essa si può spostare mentre è sotto l'effetto di questo anello. Il controllo dura fintanto che chi lo esercita mantiene una concentrazione totale, che impedisce ogni altra Azione.
 
-\oggettomagico{Anello del Nuoto}
+### Anello del Nuoto
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
 mentre indossi questo **anello**, hai velocità di nuoto pari al tuo Movimento.
 
-\oggettomagico{Anello del Salto}
+### Anello del Salto
 
 **Rarità:** Non Comune; **Costo:** 2500 mo
 
 mentre indossi questo **anello**, con due azioni puoi lanciare tramite esso l'incantesimo salto*saltare* a volontà, ma il bersaglio puoi essere solo tu.
 
-\oggettomagico{Anello dell'Ariete}
+### Anello dell'Ariete
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
@@ -359,7 +362,7 @@ In alternativa, puoi spendere da 1 a 3 cariche dell'anello, con due azioni per c
 
 Questo anello ha 3 cariche, e recupera 1 carica spesa ogni mattina all'alba.
 
-\oggettomagico{Anello dell'Evocazione dello Djinni}
+### Anello dell'Evocazione dello Djinni
 
 **Rarità:** Leggendario; **Costo:** 35000 mo
 
@@ -369,19 +372,19 @@ Finché resta evocato, lo djinni è amichevole verso di te e i tuoi compagni. Ob
 
 Dopo la partenza dello djinni, esso non potrà più essere evocato prima che siano passate 24 ore e se lo djinni muore l'anello perde la sua magia.
 
-\oggettomagico{Anello dell'Inganno}
+### Anello dell'Inganno
 
 **Rarità:** Raro
 
 chi indossa questo **anello** maledetto è convinto che abbia un potere scelto dal Narratore o determinato casualmente.
 
-\oggettomagico{Anello della Debolezza}
+### Anello della Debolezza
 
 **Rarità:** Raro
 
 una volta indossato, questo **anello** può essere rimosso solo da *Rimuovi Maledizione*. Il portatore perde un punto di Forza a round finché non si riduce a -3.
 
-\oggettomagico{Anello della Vista ai Raggi X}
+### Anello della Vista ai Raggi X
 
 **Rarità:** Comune; **Costo:** 6000 mo
 
@@ -389,7 +392,7 @@ mentre indossi questo **anello**, puoi usare due azioni per pronunciarne la paro
 
 Questa vista può penetrare 30 centimetri di pietra, 2,5 centimetri di metallo comune o fino a 90 centimetri di legno o terra. Le sostanze più dense bloccano la vista, così come un sottile foglio di piombo. Ogni qualvolta usi di nuovo l'anello prima di aver terminato una notte di riposo devi superare un Tiro Salvezza su Tempra con DC 18 o diventare affaticato.
 
-\oggettomagico{Anello delle Stelle Cadenti}
+### Anello delle Stelle Cadenti
 
 **Rarità:** Molto Raro; **Costo:** 14000 mo
 
@@ -404,31 +407,31 @@ Ogni sfera compare in uno spazio non occupato visibile entro 36 metri da te. La 
 
 *Stelle Cadenti*. Puoi spendere da 1 a 3 cariche con due azioni. Per ogni carica spesa, scagli una scintilla di luce dall'anello in un punto visibile entro 18 metri da te. Ogni creatura, in cubo di 3 metri di lato originante da quel punto, viene ricoperta di scintille e deve effettuare un Tiro Salvezza di Destrezza DC 15, subendo 5d4 danni da fuoco se lo fallisce, o la metà di questi danni se lo supera.
 
-\oggettomagico{Anello dello Scudo Mentale}
+### Anello dello Scudo Mentale
 
 **Rarità:** Non Comune; **Costo:** 16000 mo
 
 mentre indossi questo **anello**, sei immune alla magia che permette alle altre creature di leggere i tuoi pensieri, determinare se stai mentendo, conoscere i tuoi Tratti o apprendere che tipo di creatura sei. Le creature possono comunicare telepaticamente con te solo se glielo concedi.
 
-\oggettomagico{Anello di Caduta Piuma}
+### Anello di Caduta Piuma
 
 **Rarità:** Raro; **Costo:** 2000 mo
 
 se cadi da più di 1 metro e indossi questo **anello** si attiva in automatico l'incantesimo Caduta Piuma
 
-\oggettomagico{Anello di Camminare sull'Acqua}
+### Anello di Camminare sull'Acqua
 
 **Rarità:** Non Comune; **Costo:** 1500 mo
 
 mentre indossi questo **anello**, puoi stare in piedi o muoverti su qualsiasi superficie liquida come se fosse terreno solido.
 
-\oggettomagico{Anello di Elusione}
+### Anello di Elusione
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 mentre indossi questo **anello** e fallisci un Tiro Salvezza su Riflessi, puoi usare la tua Azione di Reazione per spendere 1 carica per ripetere il Tiro Salvezza che hai appena fallito. Questo anello ha 3 cariche, e recupera 1 carica spesa ogni mattina all'alba.
 
-\oggettomagico{Anello di Influenza sugli Animali}
+### Anello di Influenza sugli Animali
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
@@ -438,67 +441,68 @@ Mentre indossi questo **anello**, puoi usare due azioni per spendere 1 delle sue
 
 Questo anello ha 3 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Anello di Invisibilita'}
+### Anello di Invisibilita'
 
 **Rarità:** Molto Raro; **Costo:** 10000 mo
 
 mentre indossi quest'**anello**, puoi renderti invisibile con due azioni. Tutto ciò che indossi o trasporti diventa invisibile assieme a te. Resti invisibile finché l'anello non viene rimosso, attacchi o lanci un incantesimo, o finché non usi due azioni per tornare visibile. L'anello è usabile 3 volte al giorno.
 
-\oggettomagico{Anello di Liberta' di Azione}
+### Anello di Liberta' di Azione
 
 **Rarità:** Raro; **Costo:** 20000 mo
 
 mentre indossi questo **anello**, il terreno difficile non ti costa movimento aggiuntivo. Inoltre, la magia non può né ridurre la tua velocità né renderti paralizzato o intralciato.
 
-\oggettomagico{Anello di Protezione}
+### Anello di Protezione
 
 **Rarità:** Molto Raro; **Costo:** 5000 mo
 
 costo vario, rarità varia, mentre indossi questo **anello**, hai un bonus da +1 (5000 mo, raro), +2 (7500 mo, raro), +3 (12000mo, molto raro) alla Difesa e ai Tiri Salvezza.
 
-\oggettomagico{Anello di Resistenza}
+### Anello di Resistenza
 
 **Rarità:** Raro; **Costo:** 12000 mo
 
 mentre indossi questo **anello**, hai resistenza a un tipo di danno. La gemma incastonata nell'anello indica il tipo di danno, che viene scelto o determinato casualmente dal Narratore.
 
-| \rowcolor{gray!20}**d10** | **Tipo di Danno** | **Gemma** |
+| **d10** | **Tipo di Danno** | **Gemma** |
+|---|---|---|
 | 1 | Acido | Perla |
-| \rowcolor{gray!20}2 | Forza | Zaffiro |
+| 2 | Forza | Zaffiro |
 | 3 | Freddo | Tormalina |
-| \rowcolor{gray!20}4 | Fulmine | Citrino |
+| 4 | Fulmine | Citrino |
 | 5 | Fuoco | Granato |
-| \rowcolor{gray!20}6 | Vuoto | Giaietto |
+| 6 | Vuoto | Giaietto |
 | 7 | Energia Positiva | Giada |
-| \rowcolor{gray!20}8 | Luce | Topazio |
+| 8 | Luce | Topazio |
 | 9 | Suono | Spinello |
-| \rowcolor{gray!20}10 | Energia Negativa | Ardesia |
+| 10 | Energia Negativa | Ardesia |
 
-\oggettomagico{Anello di Rigenerazione}
+### Anello di Rigenerazione
 
 **Rarità:** Molto Raro; **Costo:** 12000 mo
 
 mentre indossi questo **anello**, recuperi 1d6 Punti Ferita ogni 10 minuti, purché ti rimanga almeno 1 Punto Ferita. Se perdi una parte del corpo, l'anello fa sì che la parte mancante ricresca e ritorni alla sua completa funzionalità in 1d6 + 1 giorni, purché per tutto il periodo ti rimanga sempre almeno 1 Punto Ferita.
 
-\oggettomagico{Anello di Telecinesi}
+### Anello di Telecinesi
 
 **Rarità:** Molto Raro; **Costo:** 80000 mo
 
 mentre indossi questo **anello**, puoi lanciare a volontà l'incantesimo *telecinesi*, ma puoi prendere come bersaglio solo oggetti che non siano indossati o trasportati.
 
-\oggettomagico{Anello Respingi Incantesimi}
+### Anello Respingi Incantesimi
 
 **Rarità:** Leggendario; **Costo:** 35000 mo
 
 mentre indossi quest'**anello**, hai +1d6 ai Tiri Salvezza contro qualsiasi incantesimo che prende come bersaglio solo te e non un'area di effetto. Inoltre, se fai un Successo Critico Salvezza e l'incantesimo ha livello 5 o più basso, l'incantesimo non ha effetto su di te e invece prende come bersaglio l'incantatore che ha lanciato l'incantesimo.
 
-\oggettomagico{Anfora elementale dell'acqua}
+### Anfora elementale dell'acqua
 
 **Rarità:** Raro; **Costo:** 2500 mo
 
 quest'**anfora** può essere usata per evocare e controllare un elementale dell'acqua in modo analogo all'incantesimo evoca elementale. È necessario preparare l'oggetto magico e condurre un rituale per un round prima dell'evocazione vera e propria, che richiede un round. Dopo che l'elementale è stato evocato, occorre mantenere la concentrazione per potergli impartire gli ordini. L'anfora è usabile una volta al giorno.
 
-\oggettomagico{Antiemorragica}
+### Antiemorragica
 
 **Aura:** di Cura moderata; **Costo:** 3000 mo
 
@@ -506,7 +510,7 @@ quest'**anfora** può essere usata per evocare e controllare un elementale dell'
 
 Un'**armatura** Antiemorragica aiuta a fermare la perdita di sangue dalle ferite di chi la indossa. Un'armatura Antiemorragica riduce i danni da Sanguinamento di 1 ogni fine round.
 
-\oggettomagico{Apparato del Granchio}
+### Apparato del Granchio
 
 **Rarità:** Leggendario; **Costo:** 15000 mo
 
@@ -540,7 +544,7 @@ Per essere usato come veicolo, l'apparato necessita un pilota. Quando lo sportel
 
 10: Sblocca e apre il portellone posteriore. Chiude e sigilla il portellone posteriore.
 
-\oggettomagico{Ariete}
+### Ariete
 
 **Aura:** Invocazione debole; **Costo:** 3000 mo
 
@@ -548,7 +552,7 @@ Per essere usato come veicolo, l'apparato necessita un pilota. Quando lo sportel
 
 Questi **scudi** sono molto solidi e spesso recano l'emblema di un ariete o un toro. Quando chi indossa uno scudo ariete effettua un attacco con lo scudo come parte di una Carica, il bonus alla Difesa dello scudo si applica ai Tiri per Colpire e per i danni. Questo non si cumula con nessun altro potenziamento che possegga lo scudo. Questa capacità non è applicabile agli scudi di tipo leggero.
 
-\oggettomagico{Arma magica}
+### Arma magica
 
 **Costo:** 1800 mo
 
@@ -556,7 +560,7 @@ Questi **scudi** sono molto solidi e spesso recano l'emblema di un ariete o un t
 
 Hai un bonus ai Tiri per Colpire e ai tiri di danno effettuati con quest'**arma**. Il bonus è determinato dalla rarità dell'arma. Alcune armi magiche possiedono delle ulteriori proprietà, come l'emettere luce.
 
-\oggettomagico{Armatura / Scudo Magico}
+### Armatura / Scudo Magico
 
 *Armatura (qualsiasi)* +1 2500 mo, +2 10000 mo, +3 18000 mo, +4 35000 mo, +5 80000 mo
 
@@ -564,7 +568,7 @@ Hai un bonus ai Tiri per Colpire e ai tiri di danno effettuati con quest'**arma*
 
 Mentre impugni questo **scudo**/**armatura**, hai un bonus alla Difesa determinato dal bonus magico dello scudo/armatura. Questo bonus è in aggiunta al normale bonus alla Difesa fornito dallo scudo/armatura.
 
-\oggettomagico{Armatura Demoniaca}
+### Armatura Demoniaca
 
 **Aura:** Evocazione forte; **Costo:** 5000 mo
 
@@ -572,50 +576,50 @@ Mentre impugni questo **scudo**/**armatura**, hai un bonus alla Difesa determina
 
 Mentre indossi l'**armatura** puoi comprendere e parlare l'Abissale. Inoltre, le manopole artigliate dell'armatura trasformano i colpi disarmati effettuati con le tue mani in armi magiche che infliggono danni taglienti, con un bonus di +1 ai Tiri per Colpire e ai tiri di danno e il d6 come dado di danno.
 
-\oggettomagico{Bacchetta Cerca metalli}
+### Bacchetta Cerca metalli
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 quando viene spesa una carica, la **bacchetta** punta nella direzione di qualunque massa metallica di almeno 100 kg che si trovi entro 6 metri. Chi impugna la bacchetta ha una percezione intuitiva del tipo di metallo individuato.
 
-\oggettomagico{Bacchetta dei Dardi Arcani}
+### Bacchetta dei Dardi Arcani
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni per spendere 1 o più delle sue cariche per lanciare tramite essa un Dardo arcano, come l'omonimo incantesimo. Ogni carica genera 1 dardo. La bacchetta ha 7 cariche. La bacchetta recupera 1d3+1 cariche spese all'alba.
 
-\oggettomagico{Bacchetta dei Fulmini}
+### Bacchetta dei Fulmini
 
 **Rarità:** Raro; **Costo:** 32000 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni per spendere 1 carica lanciare tramite essa l'incantesimo fulmine (DC del Tiro Salvezza 18).
 Questa bacchetta ha 7 cariche. La bacchetta recupera 1d3 + 1 cariche spese all'alba.
 
-\oggettomagico{Bacchetta dei Segreti}
+### Bacchetta dei Segreti
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni per spendere 1 carica e rilevare se porta segreta o trappola si trova entro 9 metri da te, la bacchetta pulsa e punta a quella più vicina a te. La bacchetta ha 3 cariche. La bacchetta recupera tutte le cariche spese all'alba.
 
-\oggettomagico{Bacchetta del Fuoco}
+### Bacchetta del Fuoco
 
 **Rarità:** Molto Raro; **Costo:** 18000 mo
 
 una **bacchetta** del fuoco produce diversi incantesimi e consuma 1 carica + livello dell'incantesimo manifestato. Gli incantesimi manifestabili sono: Onda rovente, piroesperto, palla di fuoco, muro di fuoco. Finché la bacchetta è tenuta in mano ogni 1 sui dadi per danno da fuoco che infligge viene considerato come 2. La bacchetta ha 7 cariche e ne recupera 1 all'alba.
 
-\oggettomagico{Bacchetta del Ghiaccio}
+### Bacchetta del Ghiaccio
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 una **bacchetta** del fuoco produce diversi incantesimi e consuma 1 carica + livello dell'incantesimo manifestato. Gli incantesimi manifestabili sono: Raggio di Gelo, Tempesta di Nevischio, tempesta di ghiaccio, cono di freddo. Finché la bacchetta è tenuta in mano ogni 1 sui dadi per danno da freddo che infligge viene considerato come 2. La bacchetta ha 7 cariche e ne recupera 1 all'alba.
 
-\oggettomagico{Bacchetta del Mago da Guerra}
+### Bacchetta del Mago da Guerra
 
 **Rarità:** Molto Raro; **Costo:** 25000 mo
 
 1500 / 5500 / 25000 mo, non comune (+1), raro (+2), o molto raro (+3), mentre impugni questa **bacchetta**, ottieni un bonus ai Tiri per Colpire con gli incantesimi determinato dalla rarità della bacchetta. Inoltre, ignori la copertura leggera quando effettui un attacco con incantesimo.
 
-\oggettomagico{Bacchetta del Vincolo}
+### Bacchetta del Vincolo
 
 **Rarità:** Raro; **Costo:** 10000 mo
 
@@ -623,49 +627,49 @@ questa **bacchetta** ha 7 cariche per le seguenti proprietà. La bacchetta recup
 
 *blocca mostri* (5 cariche) o *Blocca Persona* (2 cariche).
 
-\oggettomagico{Bacchetta dell'Individuazione del Magico}
+### Bacchetta dell'Individuazione del Magico
 
 **Rarità:** Non Comune; **Costo:** 1500 mo
 
 mentre impugni questa **bacchetta**, con due azioni puoi spendere 1 carica per lanciare tramite essa l'incantesimo individuazione del magico. Questa bacchetta ha 7 cariche, e recupera 1d3 cariche spese ogni mattina all'alba.
 
-\oggettomagico{Bacchetta dell'Individuazione delle porte segrete}
+### Bacchetta dell'Individuazione delle porte segrete
 
 **Rarità:** Non Comune; **Costo:** 300 mo
 
 questa **bacchetta** punta al passaggio segreto più vicino entro 6 metri. L'effetto consuma una carica delle 7 disponibili, ogni giorno all'alba si recuperano tutte le cariche.
 
-\oggettomagico{Bacchetta della Fuga Assistita}
+### Bacchetta della Fuga Assistita
 
 **Rarità:** Raro; **Costo:** 2000 mo
 
 mentre impugni questa **bacchetta**, puoi usare la Azione di Reazione e spendere 1 carica per ottenere +1d6 ai Tiri Salvezza che effettui per evitare di restare paralizzato o intralciato, o puoi spendere 1 carica per ottenere +1d6 su qualsiasi prova effettuata per sfuggire un tentativo di afferrare.
 
-\oggettomagico{Bacchetta della Luce}
+### Bacchetta della Luce
 
 **Rarità:** Raro; **Costo:** 3500 mo
 
 una **bacchetta** della luce manifesta diversi incantesimi e consuma 1 carica + livello dell'incantesimo manifestato. Gli incantesimi manifestabili sono: luci danzanti, luce, fiamma perenne, luce diurna. Infine, spendendo 5 cariche, il possessore può creare un raggio di intensa luce solare. La luce di colore giallo-dorato intenso, ha una gittata di 36 m, e forma una sfera di luce del diametro di 12 m. Chiunque si trovi nell'area di effetto viene accecato e stordito per 1 round se fallisce un Tiro Salvezza su Tempra DC 17. La sfera dorata ha un effetto devastante sui non morti, infliggendo 6d6 ferite da Luce senza possibilità di Tiro Salvezza. Questa bacchetta ha 7 cariche. La bacchetta recupera 2 cariche spese all'alba.
 
-\oggettomagico{Bacchetta della Metamorfosi}
+### Bacchetta della Metamorfosi
 
 **Rarità:** Molto Raro; **Costo:** 32000 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni per spendere 1 carica per lanciare tramite essa l'incantesimo metamorfosi (DC 18, Tiro Salvezza su Volontà). Questa bacchetta ha 3 cariche. La bacchetta recupera 1 carica spesa all'alba.
 
-\oggettomagico{Bacchetta della Negazione}
+### Bacchetta della Negazione
 
 **Rarità:** Molto Raro; **Costo:** 35000 mo
 
 questa **bacchetta** nega gli incantesimi o effetti simili prodotti da oggetti magici. Il possessore punta la bacchetta verso l'oggetto entro 36 metri, ed essa emana un raggio di colore grigio chiaro che colpisce il bersaglio. Il raggio annulla automaticamente le manifestazione di incantesimi o effetti simili di livello 3 o meno. Ciascun uso della bacchetta costa 1 carica ed essa può essere usata solo una volta per round. Questa bacchetta ha 3 cariche. La bacchetta recupera 1 carica ogni giorno all'alba.
 
-\oggettomagico{Bacchetta della Paralisi}
+### Bacchetta della Paralisi
 
 **Rarità:** Raro; **Costo:** 16000 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni per spendere 1 carica per far sì che un sottile raggio parta dalla sua punta verso una creatura visibile entro 18 metri da te. Il bersaglio deve superare un tiro Salvezza su Tempra con DC 17 o restare paralizzato per 1 minuto. Al termine di ciascun round del bersaglio, questi può effettuare un tiro Salvezza su Tempra DC 15, terminando l'effetto su di sé in caso lo superi. Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica spese all'alba.
 
-\oggettomagico{Bacchetta della Paura}
+### Bacchetta della Paura
 
 **Rarità:** Raro; **Costo:** 13000 mo
 
@@ -677,25 +681,25 @@ questa **bacchetta** ha 7 cariche per le seguenti proprietà. La bacchetta recup
 
 Inoltre non può effettuare reazioni. Come sua azione, la creatura può usare solo l'Azione Scattare o cercare di liberarsi da un effetto che le impedisca di muoversi. Se non può muoversi da nessuna parte, la creatura può usare l'Azione Difesa Totale. Al termine di ciascun suo round, la creatura può ripetere il Tiro Salvezza, terminando l'effetto su di sé in caso lo superi. Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica spese all'alba.
 cast
-\oggettomagico{Bacchetta della Ragnatela}
+### Bacchetta della Ragnatela
 
 **Rarità:** Non Comune; **Costo:** 8000 mo
 
 mentre la impugni la **bacchetta**, puoi usare due azioni per spendere 1 carica per lanciare tramite essa l'incantesimo ragnatela (DC del Tiro Salvezza 18). Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica spesa all'alba.
 
-\oggettomagico{Bacchetta delle Comodita'}
+### Bacchetta delle Comodita'
 
 **Rarità:** Comune; **Costo:** 300 mo
 
 Il possessore della **bacchetta** può spendere 1 carica per lanciare gli incantesimi servitore invisibile o cuoco invisibile o disco fluttuante. La bacchetta ha 7 cariche che sono recuperate all'alba.
 
-\oggettomagico{Bacchetta delle Illusioni}
+### Bacchetta delle Illusioni
 
 **Rarità:** Raro; **Costo:** 3000 mo
 
 chi impugna questa **bacchetta** può lanciare Immagine Maggiore (3), Immagine Silenziosa (1), Immagine Speculare (2). Ogni incantesimo costo un numero di cariche pari al livello +1. Mentre si concentra sull'effetto, il personaggio può solo muoversi a velocità dimezzata. Se viene colpito deve riuscire con successo in una Prova di Magia o l'illusione svanisce immediatamente.
 
-\oggettomagico{Bacchetta delle Meraviglie}
+### Bacchetta delle Meraviglie
 
 **Rarità:** Molto Raro; **Costo:** 25000 mo
 
@@ -705,68 +709,69 @@ Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'al
 
 Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta questa tabella.
 
-| \rowcolor{gray!20}**d100** | **Contenuti** |
+| **d100** | **Contenuti** |
+|---|---|
 | 01-05 | Lanci l'incantesimo Lentezza. |
-| \rowcolor{gray!20}06-10 | Lanci l'incantesimo Luminescenza. |
+| 06-10 | Lanci l'incantesimo Luminescenza. |
 | 11-15 | Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente. |
-| \rowcolor{gray!20}16-20 | Lanci l'incantesimo Folata di vento. |
+| 16-20 | Lanci l'incantesimo Folata di vento. |
 | 21-25 | Lanci l'incantesimo Individuazione dei pensieri sul bersaglio da te scelto. Se il tuo a bersaglio non è una creatura, subisci invece 1d6 danni. |
-| \rowcolor{gray!20}26-30 | Lanci l'incantesimo Nebbia Nauseante. |
+| 26-30 | Lanci l'incantesimo Nebbia Nauseante. |
 | 31-33 | Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round. |
-| \rowcolor{gray!20}34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
+| 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
 | Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto. |
-| \rowcolor{gray!20}37-46 | Lanci Fulmine. |
+| 37-46 | Lanci Fulmine. |
 | 47-49 | Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente e fornisce copertura totale. Le farfalle restano per 10 minuti. |
-| \rowcolor{gray!20}50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
+| 50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
 | 54-58 | Lanci l'incantesimo oscurità. |
-| \rowcolor{gray!20}59-62 | Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto. |
+| 59-62 | Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto. |
 | 63-65 | Un oggetto a scelta del Narratore scompare sul Piano Etereo. L'oggetto non deve essere né indossato né trasportato, deve essere entro 36 metri dal bersaglio, e non più grande di 3 metri in ciascuna dimensione. |
-| \rowcolor{gray!20}66-69 | Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre. |
+| 66-69 | Ti rimpicciolisci come se avessi lanciato su di te l'incantesimo ingrandire/ridurre. |
 | 70-79 | Lanci l'incantesimo Palla di fuoco. |
-| \rowcolor{gray!20}80-84 | Lanci l'incantesimo Invisibilità su di te. |
+| 80-84 | Lanci l'incantesimo Invisibilità su di te. |
 | 85-87 | Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore. |
-| \rowcolor{gray!20}88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
+| 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
 
-| \rowcolor{gray!20} | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
+|  | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
-| \rowcolor{gray!20}96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
+| 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
 
-| \rowcolor{gray!20}98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
+| 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
 
-\oggettomagico{Bacchetta delle Palle di Fuoco}
+### Bacchetta delle Palle di Fuoco
 
 **Rarità:** Raro; **Costo:** 32000 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni per spendere 1 carica per lanciare tramite essa l'incantesimo palla di fuoco (DC del Tiro Salvezza 18). Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica spesa all'alba.
 
-\oggettomagico{Bacchetta di Individ. dei Nemici}
+### Bacchetta di Individ. dei Nemici
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
 mentre impugni questa **bacchetta**, puoi usare due azioni e spendere 1 carica per pronunciarne la parola di comando. Per il minuto successivo, conosci in che direzione si trovi la creatura ostile più vicina entro 18 metri da te, ma non la distanza che vi separa. La bacchetta può percepire la presenza di creature ostili che siano eteree, invisibili, camuffate, o nascoste, oltre che di quelle in piena vista. L'effetto termina se smetti di impugnare la bacchetta. Questa bacchetta ha 7 cariche. La bacchetta recupera 2 cariche spese all'alba.
 
-\oggettomagico{Bacchetta Scopri trappole}
+### Bacchetta Scopri trappole
 
 **Rarità:** Non Comune; **Costo:** 400 mo
 
 questa **bacchetta** punta alla trappola più vicina entro 6 m. L'effetto consuma una carica. Questa bacchetta ha 7 cariche. La bacchetta recupera tutte le cariche spese all'alba.
 
-\oggettomagico{Bacinella dell'annegamento}
+### Bacinella dell'annegamento
 
 questa **bacinella** maledetta ha l'apparenza di un'anfora elementale dell'acqua. Tuttavia, invece di evocare un elementale, sprigiona un globo d'acqua che avvolge la testa del personaggio. Questi affoga in 2d4 round a meno che non riesca in un Tiro Salvezza Riflessi DC 19. L'acqua è "appiccicosa" e può essere rimossa solo con la magia (*Dissolvi magia* o *distruggere acqua*).
 
-\oggettomagico{Balestra dei Dardi Arcani}
+### Balestra dei Dardi Arcani
 
 questa **balestra** piccola ad una mano ha la capacità di manifestare un dardo magico.
 Spendendo 1 Azione è possibile sparare un dardo magico come se fosse un singolo Dardo arcano.
 
-\oggettomagico{Bandana dell'Intelligenza}
+### Bandana dell'Intelligenza
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
 mentre indossi questa **bandana** la tua Intelligenza è +4. La bandana non ha effetto se hai già Intelligenza è già +4 o più alta.
 
-\oggettomagico{Barca Pieghevole}
+### Barca Pieghevole
 
 **Rarità:** Raro; **Costo:** 12000 mo
 
@@ -776,7 +781,7 @@ La seconda parola di comando fa sì che la scatola si dispieghi in una nave lung
 
 La terza parola di comando fa sì che la barca pieghevole ritorni a piegarsi nella scatola, purché nessuna creatura sia a bordo. Qualsiasi oggetto a bordo che non possa entrare nella scatola resta fuori della scatola mentre questa si piega. Qualsiasi oggetto a bordo che possa entrare nella scatola, vi entra.
 
-\oggettomagico{Bastone degli Insetti Sciamanti}
+### Bastone degli Insetti Sciamanti
 
 **Rarità:** Raro; **Costo:** 160000 mo
 
@@ -786,7 +791,7 @@ questo **bastone** ha 10 cariche che puoi impiegare per usare le proprietà sott
 
 - *Nube di Insetti*. Mentre impugni questo bastone, puoi usare due azioni e spendere 1 carica per fa sì che uno sciame di insetti innocui si diffonda in un raggio di 9 metri intorno a te. Gli insetti rimangono per 10 minuti, rendendo l'area oscurata pesantemente per tutti tranne te. Lo sciame si muove assieme a te, rimanendo centrato su di te. Un vento di almeno 15 chilometri all'ora disperde lo sciame e termina l'effetto.
 
-\oggettomagico{Bastone dei Boschi}
+### Bastone dei Boschi
 
 **Rarità:** Raro; **Costo:** 44000 mo
 
@@ -797,7 +802,7 @@ Questo bastone ha 10 cariche per le seguenti proprietà. Recupera 1 cariche spes
 
 - *Forma d'Albero*. Puoi usare due azioni per piantare un'estremità del bastone su terreno fertile e spendere 1 carica per trasformare il bastone in un albero da frutto vigoroso. L'albero è alto 18 metri, con un tronco di 1 metro di diametro; in cima i suoi rami si estendono per 6 metri. L'albero sembra un albero normale ma irradia una debole aura di magia di trasmutazione, qualora sia bersaglio dell'incantesimo individuazione del magico. Mentre sei in contatto con l'albero e usi un'altra Azione per pronunciarne la parola di comando, riporti il bastone alla sua forma normale. Qualsiasi creatura sull'albero, cade quando questo si ritrasforma in bastone.
 
-\oggettomagico{Bastone dei Tuoni e Fulmini}
+### Bastone dei Tuoni e Fulmini
 
 **Rarità:** Molto Raro; **Costo:** 10000 mo
 
@@ -813,13 +818,13 @@ il **bastone** può essere impugnato come un bastone da combattimento magico che
 
 - *Tuoni e Fulmini*. Puoi usare due Azioni per usare le proprietà Colpo Fulminante e Rombo di Tuono assieme. Farlo non consuma l'uso giornaliero di quelle proprietà, ma solo l'uso di questa.
 
-\oggettomagico{Bastone del Colpire}
+### Bastone del Colpire
 
 **Rarità:** Molto Raro; **Costo:** 25000 mo
 
 questo **bastone** può essere impugnato come un bastone da combattimento magico che conferisce un bonus di +3 ai Tiri per Colpire e di danno effettuati con esso. Quando colpisci con un attacco da mischia facendo uso del bastone, puoi spendere fino a 3 delle sue cariche. Per ogni carica spesa, il bersaglio subisce 1d6 danni da forza aggiuntivi. Il bastone ha 10 cariche, e recupera 1 carica spese ogni giorno all'alba.
 
-\oggettomagico{Bastone del Fuoco}
+### Bastone del Fuoco
 
 **Rarità:** Molto Raro; **Costo:** 16000 mo
 
@@ -828,7 +833,7 @@ Inoltre, puoi usare due azioni per spendere 1 o più delle sue cariche per lanci
 
 Il bastone ha 10 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Bastone del Gelo}
+### Bastone del Gelo
 
 **Rarità:** Molto Raro; **Costo:** 26000 mo
 
@@ -839,7 +844,7 @@ Inoltre, puoi usare due azioni per spendere 1 o più delle sue cariche per lanci
 
 Il bastone ha 10 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Bastone del Pitone}
+### Bastone del Pitone
 
 **Rarità:** Non Comune; **Costo:** 2000 mo
 
@@ -847,7 +852,7 @@ puoi usare due azioni per pronunciare la parola di comando del **bastone** e sca
 
 Durante il tuo round puoi impartire ordini mentali al serpente finché si trova entro 18 metri da te e non sei inabile. Decidi tu quali azioni effettuerà il serpente e dove si muoverà durante il suo prossimo round, oppure puoi impartirgli un comando generico, come quello di attaccare i tuoi nemici o difendere un luogo. Se il serpente viene ridotto a 0 Punti Ferita, muore e ritorna alla sua forma di bastone. Poi, il bastone si frantuma ed è distrutto. Se il serpente si ritrasforma in forma di bastone prima di perdere tutti i suoi Punti Ferita, recupera tutti quelli persi.
 
-\oggettomagico{Bastone del Potere}
+### Bastone del Potere
 
 **Rarità:** Leggendario; **Costo:** 150000 mo
 
@@ -863,14 +868,15 @@ Hai il 50\% di probabilità di viaggiare istantaneamente in un piano di esistenz
 
 Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
-| \rowcolor{gray!20}**Distanza dall'origine** | **Danno** |
+| **Distanza dall'origine** | **Danno** |
+|---|---|
 | 3 metri o meno | 8 x cariche nel bastone |
-| \rowcolor{gray!20}Fino a 6 metri | 6 x cariche nel bastone |
+| Fino a 6 metri | 6 x cariche nel bastone |
 | Fino a 9 metri | 4 x cariche nel bastone |
 
 Nota: il Bastone dell'Archimago e del Potere sono simili, questo perché preparati da due acerrimi nemici che volevano creare il Bastone più potente.
 
-\oggettomagico{Bastone dell'Arcimago}
+### Bastone dell'Arcimago
 
 **Rarità:** Leggendario; **Costo:** 125000 mo
 
@@ -892,25 +898,25 @@ Un bastone dell'arcimago può essere usato per un colpo definitivo, il che richi
 
 Il personaggio che spezza il bastone ha il 50\% di probabilità di andare su un altro piano di esistenza, altrimenti il rilascio esplosivo di energia magica lo distrugge. Quando tutte le cariche sono state consumate, il bastone diviene un bastone +2. Se le cariche sono esaurite non può essere usato per un colpo definitivo.
 
-\oggettomagico{Bastone dell'Avvizzimento}
+### Bastone dell'Avvizzimento
 
 **Rarità:** Raro; **Costo:** 3000 mo
 
 il **bastone** può essere impugnato come un bastone da combattimento magico. Se colpisci, infligge danni come un normale bastone da combattimento, e puoi spendere 1 carica per infliggere 2d10 danni da Vuoto aggiuntivi al bersaglio. Inoltre, il bersaglio deve superare un Tiro Salvezza su Tempra con DC 18 o avere -1d6 per 1 ora a qualsiasi prova di Competenza o Tiro Salvezza che richieda Costituzione Questo bastone ha 3 cariche e recupera 1d3 cariche spese a mezzanotte.
 
-\oggettomagico{Bastone della Guarigione}
+### Bastone della Guarigione
 
 **Rarità:** Raro; **Costo:** 13000 mo
 
 mentre impugni il **bastone**, puoi usare due azioni per spendere 1 o più delle sue cariche per lanciare tramite esso uno dei seguenti incantesimi: Cura Ferite (1 carica), ristorare inferiore (2 cariche), rimuovi malattie (3 cariche). Questo bastone ha 10 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Bastone della Stregoneria}
+### Bastone della Stregoneria
 
 **Rarità:** Molto Raro; **Costo:** 85000 mo
 
 in combattimento, questo **bastone** funziona come un bastone +1. Può essere usato per lanciare evoca elementale, invisibilità, Passa Porta e ragnatela. Il bastone può essere usato come una bacchetta della paralisi. Ciascuno di questi poteri richiede una carica. E' possibile spezzare il bastone per produrre un "colpo finale", il cui effetto dipende dal numero di cariche residue. Il bastone esplode in una grande sfera di fiamme, colpendo tutte le creature entro 9 m (compreso il proprietario del bastone) e infliggendo 8 ferite per carica rimasta, Tiro Salvezza su Tempra DC 27 per dimezzare.
 
-\oggettomagico{Bastone dello Charme}
+### Bastone dello Charme
 
 **Rarità:** Raro; **Costo:** 12000 mo
 
@@ -922,11 +928,11 @@ Se riesci in un Tiro Salvezza contro un incantesimo di ammaliamento che prende c
 
 Il bastone ha 7 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Battaglio del Cannibalismo}
+### Battaglio del Cannibalismo
 
 questo **oggetto** sembra una Battaglio dell'apertura. Funziona come tale per il primo round di uso (ed ha 1d4x10 cariche per questo scopo). Tuttavia, al secondo tintinnio tutte le creature entro 18 m devono riuscire in un Tiro Salvezza su Volontà DC 21 o cadere preda di una fame vorace, attaccando il più vicino umanoide per ucciderlo e divorarlo. A round alterni è permesso un nuovo Tiro Salvezza. Se non sono presenti umanoidi, le creature affette attaccheranno le altre creature presenti.
 
-\oggettomagico{Battaglio dell'Apertura}
+### Battaglio dell'Apertura
 
 **Rarità:** Raro; **Costo:** 1500 mo
 
@@ -934,7 +940,7 @@ questo **tubo** metallico cavo misura circa 30 centimetri di lunghezza e pesa 0,
 
 Il battaglio può essere usato dieci volte. Dopo la decima, si spacca e diventa inutilizzabile.
 
-\oggettomagico{Borsa Conservante}
+### Borsa Conservante
 
 **Rarità:** Comune
 
@@ -948,7 +954,7 @@ Piazzare una borsa conservante all'interno dello spazio extradimensionale genera
 
 Alcuni incantatori preferiscono creare Bauli Conservanti, che funzionano nell'identico modo delle borse conservanti.
 
-\oggettomagico{Borsa Conservante Tipo I}
+### Borsa Conservante Tipo I
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
@@ -956,7 +962,7 @@ questo è il modello più piccolo delle **borse** conservanti. All'apparenza è 
 Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 20 cm ed una lunghezza superiore ai 50cm.
 La capacità massima è di 20 kg/Ingombro 7.
 
-\oggettomagico{Borsa Conservante Tipo II}
+### Borsa Conservante Tipo II
 
 **Rarità:** Non Comune; **Costo:** 1000 mo
 
@@ -964,21 +970,21 @@ questo è il modello medio delle **borse** conservanti. All'apparenza è un sacc
 Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 40 cm ed una lunghezza superiore ai 100cm.
 La capacità massima è di 100 kg/Ingombro 25.
 
-\oggettomagico{Borsa Conservante Tipo III}
+### Borsa Conservante Tipo III
 
 **Rarità:** Raro; **Costo:** 1500 mo
 
 all'apparenza è un **sacco** di 80 cm di diametro con una bocca larga circa altrettanto.
 Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 80 cm ed una lunghezza superiore ai 150cm. La capacità massima è di 200 kg/Ingombro 50.
 
-\oggettomagico{Borsa Conservante Tipo IV}
+### Borsa Conservante Tipo IV
 
 **Rarità:** Molto Raro; **Costo:** 5000 mo
 
 all'apparenza è un **saccone** di 120 cm di diametro con una bocca larga circa altrettanto.
 Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120 cm ed una lunghezza superiore ai 200cm. La capacità massima è di 300 kg/Ingombro 75.
 
-\oggettomagico{Borsa dei Fagioli}
+### Borsa dei Fagioli
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
@@ -988,29 +994,31 @@ Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggi
 
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
-| \rowcolor{gray!20}**d100** | **Effetto** |
+| **d100** | **Effetto** |
+|---|---|
 | 01 | Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari esegui un tiro Salvezza su Tempra con DC 18 o subire 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari ottiene 5d6 Punti Ferita temporanei per 1 ora. |
-| \rowcolor{gray!20}02-10 | Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round. |
+| 02-10 | Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round. |
 | 11-20 | Spunta un uomo albero. C'è una probabilità del 50\% che l'uomo albero sia malvagio e ti attacchi. |
-| \rowcolor{gray!20}21-30 | Una statua di pietra animata con le tue fattezze si leva dal terreno. Essa comincerà a minacciarti verbalmente. Se dovessi andartene e altre persone giungessero sul posto, la statua ti descriverebbe come il più pericoloso dei criminali e li esorterebbe ad cercarti e attaccarti. Se ti trovi sullo stesso piano di esistenza della statua, essa saprà sempre dove sei. Dopo 24 ore la statua diventerà inanimata. |
+| 21-30 | Una statua di pietra animata con le tue fattezze si leva dal terreno. Essa comincerà a minacciarti verbalmente. Se dovessi andartene e altre persone giungessero sul posto, la statua ti descriverebbe come il più pericoloso dei criminali e li esorterebbe ad cercarti e attaccarti. Se ti trovi sullo stesso piano di esistenza della statua, essa saprà sempre dove sei. Dopo 24 ore la statua diventerà inanimata. |
 | 31-40 | Un fuoco da campo che produce fiamme blu spunta dal terreno e brucia per 24 ore (o finché non viene spento). |
-| \rowcolor{gray!20}41-50 | Sputano 1d6 + 6 Fungo Stridente. |
+| 41-50 | Sputano 1d6 + 6 Fungo Stridente. |
 | 51-60 | Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. |
-| \rowcolor{gray!20}61-70 | Una bulette esce dal terreno e attacca. |
+| 61-70 | Una bulette esce dal terreno e attacca. |
 
-| \rowcolor{gray!20}**d100** | **Effetto** |
+| **d100** | **Effetto** |
+|---|---|
 | 71-80 | Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. |
-| \rowcolor{gray!20}81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
+| 81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
 | 91-99 | Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore. |
-| \rowcolor{gray!20}100 | Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
+| 100 | Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
 
-\oggettomagico{Borsa dell'Annullamento}
+### Borsa dell'Annullamento
 
 **Rarità:** Raro; **Costo:** 9000 mo
 
 questa **borsa** magica funziona come una borsa conservante per 1d6 giorni. Trascorso questo periodo, tutto il materiale al suo interno o nuovo materiale aggiunto è soggetto ad una trasformazione dipendente dalla sua natura. Pietre preziose diventano inutili sassi, e metalli preziosi si trasformano in metalli di minor valore tipo piombo. Gli oggetti magici perdono il loro potere senza alcun Tiro Salvezza e si trasformano in oggetti mondani del loro tipo. Solo oggetti magici estremamente potenti sono possibilmente immuni a questo effetto.
 
-\oggettomagico{Borsa Divorante}
+### Borsa Divorante
 
 **Rarità:** Raro; **Costo:** 2000 mo
 
@@ -1018,20 +1026,22 @@ la **borsa** appare come una borsa conservante. Quando una parte di una creatura
 
 Un'altra creatura può usare due azioni per afferrare la creatura all'interno della borsa e tirarla fuori, superando un Tiro Salvezza Tempra con Forza DC 25 (e sempre che non venga a sua volta trascinata dentro la borsa). La materia animale o vegetale posta dentro la borsa viene divorata ed è persa per sempre se inizia il proprio round all'interno della borsa.
 
-\oggettomagico{Bottiglia dell'Efreeti}
+### Bottiglia dell'Efreeti
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questa **bottiglia** di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
-| \rowcolor{gray!20}**3d6** | **Effetto** |
+| **3d6** | **Effetto** |
+|---|---|
 | 3-5 | L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia. |
-| \rowcolor{gray!20}6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
+| 6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
 
-| \rowcolor{gray!20}**3d6** | **Effetto** |
+| **3d6** | **Effetto** |
+|---|---|
 | 17-18 | L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia. |
 
-\oggettomagico{Bottiglia Fumante}
+### Bottiglia Fumante
 
 **Rarità:** Non Comune; **Costo:** 1200 mo
 
@@ -1039,7 +1049,7 @@ dalla bocca di questa **bottiglia** di ottone fuoriesce continuamente del fumo, 
 
 La nube persiste fino a quando la bottiglia resta aperta. Chiudere la bottiglia richiede che tu pronunci la sua parola di comando con due azioni. Una volta chiusa la bottiglia, la nube si disperde dopo 10 minuti. Un vento moderato (dai 15 ai 30 km/h) può disperdere il fumo in1 minuto, e un vento forte (più di 30 km/h) può disperderlo in 1 round.
 
-\oggettomagico{Bracciali dell'Arciere}
+### Bracciali dell'Arciere
 
 **Aura:** Trasmutazione debole; **Costo:** 3000 mo
 
@@ -1047,7 +1057,7 @@ La nube persiste fino a quando la bottiglia resta aperta. Chiudere la bottiglia 
 
 Mentre indossi questi **bracciali**, hai competenza con la Lista d'armi Archi, ottieni un bonus di +2 ai tiri di danno degli attacchi a distanza effettuati con queste armi.
 
-\oggettomagico{Bracciali della Difesa}
+### Bracciali della Difesa
 
 **Aura:** Abiurazione; **Costo:**  Costo +6000 mo, 15000 mo, 30000 mo, 45000 mo, 60000 mo.
 
@@ -1055,7 +1065,7 @@ Mentre indossi questi **bracciali**, hai competenza con la Lista d'armi Archi, o
 
 Mentre indossi questi **bracciali**, hai un bonus di +1, +2, +3, +4+, +5 alla tua Difesa se non indossi nessuna armatura e non usi nessuno scudo.
 
-\oggettomagico{Bracciali della Difesa Maggiore}
+### Bracciali della Difesa Maggiore
 
 **Aura:** Abiurazione;  **Costo:**  +12000 mo, 24000 mo, 36000 mo, 50000 mo, 75000 mo
 
@@ -1065,7 +1075,7 @@ Mentre indossi questi **bracciali**, hai un bonus di +1, +2, +3, +4+, +5 alla tu
 
 Questi **bracciali** funzionano come un armatura pur non essendo tali. Vieni avvolto in uno scudo magico invisibile che ti concede Difesa 15, 17, 19, 21, 23. La Difesa può essere aumentata con oggetti magici che migliorano la Difesa, tranne armature e scudi.
 
-\oggettomagico{Braciere del Comando degli Elementali del Fuoco}
+### Braciere del Comando degli Elementali del Fuoco
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
@@ -1073,11 +1083,11 @@ mentre il fuoco arde all'interno di questo **braciere** di ottone, puoi usare du
 
 Il braciere pesa 2,5 chili, ingombro 3.
 
-\oggettomagico{Braciere del Sonno maledetto}
+### Braciere del Sonno maledetto
 
 questo **braciere** ha l'apparenza di, e funziona come, un braciere del comando degli elementi del fuoco. Tuttavia, quando viene attivato, il fumo si addensa per 3 m di raggio intorno al braciere, inducendo a un sonno maledetto chiunque si trovi nell'area, a meno che non riesca in un Tiro Salvezza su Volontà DC 21. Un elementale del fuoco compare normalmente, ma è ostile ed attacca tutte le creature presenti. Creature soggette al sonno maledetto dormono indefinitamente fino a che non vengono uccise, a meno che non venga usato Rimuovi Maledizione.
 
-\oggettomagico{Brillante}
+### Brillante
 
 **Aura:** Invocazione moderata; **Costo:** 3750 mo
 
@@ -1087,7 +1097,7 @@ questo **braciere** ha l'apparenza di, e funziona come, un braciere del comando 
 
 Questa armatura va pulita almeno 1 volta al giorno o perde i poteri per una settimana.
 
-\oggettomagico{Brocca dell'Acqua Infinita}
+### Brocca dell'Acqua Infinita
 
 **Rarità:** Non Comune; **Costo:** 12000 mo
 
@@ -1099,13 +1109,13 @@ Questa armatura va pulita almeno 1 volta al giorno o perde i poteri per una sett
 
 Il bersaglio deve superare un Tiro Salvezza su Tempra con DC 15 o subire 1d4 danni contundenti e cadere prono. Invece di una creatura, puoi prendere come bersaglio un oggetto che non sia indossato o trasportato e che non pesi più di 100 chili. L'oggetto viene ribaltato o spinto 3 metri lontano da te.
 
-\oggettomagico{Brocca delle Pozioni}
+### Brocca delle Pozioni
 
 **Rarità:** Leggendaria; **Costo:** 18000 mo
 
 questa **brocca** di ceramica azzurra ha un tappo d'oro massiccio. La brocca contiene 1d4+1 pozioni magiche, ognuna delle quali può essere versata ogni 2 giorni. Le specifiche pozioni sono determinate a caso, rimangono le stesse nel tempo e devono essere versate sempre nello stesso ordine. Non tutte sono necessariamente benefiche.
 
-\oggettomagico{Buco Portatile}
+### Buco Portatile
 
 **Rarità:** Raro; **Costo:** 10000 mo
 
@@ -1115,7 +1125,7 @@ Puoi usare 1 round per chiudere un Buco portatile prendendo i margini del tessut
 
 Piazzare un buco portatile all'interno dello spazio extradimensionale creato da una borsa conservante, Vano portatile, uno zainetto pratico o simile oggetto distrugge istantaneamente entrambi gli oggetti e apre un portale verso il Piano Astrale. Il portale origina dal punto in cui un oggetto è stato piazzato all'interno dell'altro. Qualsiasi creatura entro 3 metri dal portale viene risucchiata al suo interno e depositata in un luogo casuale del Piano Astrale. Poi il portale si chiude. Il portale è a senso unico e non può essere riaperto.
 
-\oggettomagico{Candela di Invocazione}
+### Candela di Invocazione
 
 **Rarità:** Molto Raro; **Costo:** 8000 mo
 
@@ -1129,17 +1139,17 @@ Quando è accesa, la candela irradia luce fioca in un raggio di 9 metri. Qualsia
 
 In alternativa, quando accendi la candela per la prima volta, puoi lanciare l'incantesimo portale. Farlo distrugge la candela.
 
-\oggettomagico{Caos}
+### Caos
 
 **Arma** Maledetta. Questa capacità conferisce un bonus +2 agli attacchi, tuttavia, all'inizio della battaglia, fa sì che il portatore venga preso da una rabbia incontenibile. Il personaggio attaccherà la creatura più vicina, nemica o amica che sia, finché non ne resterà nessuna in vita entro 18 m. E' necessario l'incantesimo Rimuovi Maledizione per liberarsi dall'arma.
 
-\oggettomagico{Cappello del Camuffamento}
+### Cappello del Camuffamento
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 mentre indossi questo **cappello**, puoi usare due azioni per lanciare a volontà l'incantesimo *Camuffare Sé Stesso*. L'incantesimo termina quando il cappello viene rimosso.
 
-\oggettomagico{Ceppi Dimensionali}
+### Ceppi Dimensionali
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
@@ -1147,7 +1157,7 @@ puoi usare 2 Azioni per piazzare queste **manette** su di una creatura inabile. 
 
 Tu e qualsiasi creatura da te indicata quando fai uso dei ceppi potete usare due azioni per rimuoverli. Una volta ogni 30 giorni, la creatura legata può effettuare un Tiro Salvezza Tempra con Forza DC 40. Se la supera, la creatura si libera e distrugge i ceppi.
 
-\oggettomagico{Cerchietto dell'Esplosione}
+### Cerchietto dell'Esplosione
 
 **Aura:** Lista Fuoco; **Costo:** 1500 mo
 
@@ -1155,7 +1165,7 @@ Tu e qualsiasi creatura da te indicata quando fai uso dei ceppi potete usare due
 
 mentre indossi questo **cerchietto**, puoi usare due azioni, portando due dita sulla fronte, per lanciare tramite esso l'incantesimo Raggio Rovente. Il cerchietto non potrà essere usato di nuovo a questo modo fino alla prossima alba.
 
-\oggettomagico{Cintura dei Giganti}
+### Cintura dei Giganti
 
 **Rarità:** Molto Raro; **Costo:** 45000 mo
 
@@ -1163,15 +1173,15 @@ mentre indossi questo **cerchietto**, puoi usare due azioni, portando due dita s
 
 Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie di veri giganti. La cinta del gigante di pietra e la cinta del gigante del gelo appaiono diverse, ma hanno lo stesso effetto.
 
-| \rowcolor{gray!20}**Tipo di Gigante** | **Forza** | **Rarità** |
+| **Tipo di Gigante** | **Forza** | **Rarità** |
 | --- | --- | --- |
 | **Collina** | 5 | Raro |
-| \rowcolor{gray!20}**Pietra/del Gelo** | 6 | Molto raro |
+| **Pietra/del Gelo** | 6 | Molto raro |
 | **Fuoco** | 7 | Molto raro |
-| \rowcolor{gray!20}**Nuvole** | 8 | Leggendario |
+| **Nuvole** | 8 | Leggendario |
 | **Tempeste** | 9 | Leggendario |
 
-\oggettomagico{Cintura dei Nani}
+### Cintura dei Nani
 
 **Rarità:** Raro; **Costo:** 86000 mo
 
@@ -1187,13 +1197,13 @@ Se non sei un nano, ottieni i seguenti benefici aggiuntivi quando indossi questa
 
 - hai +2 ai Tiri Salvezza contro veleno e hai resistenza ai danni da veleno. Hai scurovisione con una gittata di 18 metri. Puoi parlare, leggere e scrivere in Nanico.
 
-\oggettomagico{Colla Suprema}
+### Colla Suprema
 
 **Rarità:** Non Comune; **Costo:** 400 mo
 
 questa **sostanza** bianco lattea e viscosa può formare un legame adesivo permanente tra qualsiasi due oggetti. Deve essere contenuto in una giara o ampolla che è stata ricoperta all'interno di olio di scivolosità. Quando viene trovata, il suo contenitore ne tiene 1d6 + 1 per 30 grammi. 30 grammi di colla possono coprire una superficie quadrata di 30 centimetri di lato. La colla ci mette 1 minuto per fissarsi. Una volta fissata la colla, il legame creato può essere spezzato solo dal solvente universale o l'olio della forma eterea, o tramite l'incantesimo desiderio.
 
-\oggettomagico{Collana del Rosario}
+### Collana del Rosario
 
 **Aura:** Lista Animali e Piante; **Costo:** 3000 mo
 
@@ -1203,15 +1213,16 @@ questa **collana** possiede 1d4 + 2 sfere magiche fatte di acquamarina, perla ne
 
 Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfera facente parte della collana. Una collana può avere più di una sfera dello stesso tipo. Per usarla, devi indossare la collana. Ogni sfera contiene un incantesimo che puoi lanciare con due azioni, con DC dell'Incantesimo pari a 12 + 2x Livello in caso di Tiro Salvezza. Una volta che l'incantesimo di una sfera magica è stato lanciato, non potrai usare di nuovo quella sfera fino all'alba successiva.
 
-| \rowcolor{gray!20}**3d6** | **Sfera di...** | **Incantesimo** |
+| **3d6** | **Sfera di...** | **Incantesimo** |
+|---|---|---|
 | 3-5 | Benedizione | Benedizione |
-| \rowcolor{gray!20}6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
+| 6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
 | 12-14 | Favore Divino | Ristorare superiore |
-| \rowcolor{gray!20}15-16 | Punire | Punizione marchiante |
+| 15-16 | Punire | Punizione marchiante |
 | 17 | Vento | Camminare nel vento |
-| \rowcolor{gray!20}18 | Convocare | Barriera di Lame |
+| 18 | Convocare | Barriera di Lame |
 
-\oggettomagico{Collana dell'Adattamento}
+### Collana dell'Adattamento
 
 **Aura:** Lista Aria; **Costo:** 1500 mo
 
@@ -1219,13 +1230,13 @@ Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfer
 
 mentre indossi questa **collana**, puoi respirare normalmente in qualsiasi ambiente che abbia aria e hai +1d6 ai Tiri Salvezza effettuati contro gas e vapori nocivi.
 
-\oggettomagico{Collana dell'Aria Salubre}
+### Collana dell'Aria Salubre
 
 **Rarità:** Non Comune; **Costo:** 2500 mo
 
 questa **collana** è una catena con un medaglione di platino. La magia della collana circonda chi la indossa con una bolla di aria pura, rendendolo immune agli effetti dei vapori e dei gas. La bolla consente di sopravvivere in un ambiente senz'aria per una settimana.
 
-\oggettomagico{Collana delle Palle di Fuoco}
+### Collana delle Palle di Fuoco
 
 **Aura:** Lista Animali e Piante; **Costo:** 500 mo * Palla di Fuoco
 
@@ -1233,7 +1244,7 @@ questa **collana** è una catena con un medaglione di platino. La magia della co
 
 da questa **collana** pendono 1d6 + 3 sfere. Puoi usare due azioni per staccare una sfera e lanciarla fino a 18 metri di distanza. Quando essa raggiunge il termine della sua traiettoria, la sfera detona come un incantesimo palla di fuoco (DC 18).
 
-\oggettomagico{Collana dello Strangolamento}
+### Collana dello Strangolamento
 
 **Aura:** Lista Animali e Piante; **Costo:** 3000 mo
 
@@ -1241,7 +1252,7 @@ da questa **collana** pendono 1d6 + 3 sfere. Puoi usare due azioni per staccare 
 
 questa **collana** sembra un gioiello di grande valore. Appena indossata, si stringe fulmineamente intorno al collo, infliggendo 6 danni a round. Non può essere rimossa in alcun modo se non con un Desiderio o Rimuovi Maledizione, rimanendo stretta al collo della sua vittima anche dopo la morte. La collana si allenterà solo quando la vittima sarà diventata uno scheletro, pronta per essere raccolta da un ignaro cacciatore di tesori.
 
-\oggettomagico{Coraggiosa}
+### Coraggiosa
 
 **Aura:** Ammaliamento debole; **Costo:** 3000 mo
 
@@ -1249,7 +1260,7 @@ questa **collana** sembra un gioiello di grande valore. Appena indossata, si str
 
 Questa capacità speciale può essere aggiunta solo a un'**arma** da mischia. Un'arma Coraggiosa fortifica il coraggio e il morale in battaglia di chi la indossa. Chi la impugna ottiene un Bonus ai Tiri Salvezza contro Paura pari al bonus dell'arma.
 
-\oggettomagico{Corda da Arrampicata}
+### Corda da Arrampicata
 
 **Rarità:** Non Comune; **Costo:** 2000 mo
 
@@ -1257,7 +1268,7 @@ questa **corda** di seta lunga 18 metri, pesa 1,5 chili, ingombro 1, e può sost
 
 La corda ha Difesa 20, Durezza 3 e 20 Punti Ferita. Recupera 1 punto ferita ogni 5 minuti finché ha almeno 1 punto ferita. Se la corda scende a 0 Punti Ferita, è distrutta.
 
-\oggettomagico{Corda dell'Intralciamento}
+### Corda dell'Intralciamento
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
@@ -1265,19 +1276,19 @@ questa **corda** è lunga 9 metri e pesa 1,5 chili, ingombro 1. Se tieni un'estr
 
 La corda ha Difesa 20 e 20 Punti Ferita. Recupera 1 punto ferita ogni 5 minuti finché ha almeno 1 punto ferita. se la corda scende a 0 Punti Ferita, è distrutta.
 
-\oggettomagico{Corda Strozzatrice}
+### Corda Strozzatrice
 
 **Rarità:** Raro
 
 questa **corda** magica, benché normale all'apparenza, può animarsi e aggredire chi cerca di usarla, stringendosi intorno al collo e cercando di strangolare la sua vittima. La corda strozzatrice è lunga abbastanza da poter strangolare fimo a 1d4 creature in un raggio di 3 m, infliggendo 2d6 ferite a round a ognuna di loro. E' necessario superare un Tiro Salvezza su Riflessi DC 19 per evitare di essere presi. La corda ha Difesa 22 e 25 Punti Ferita, ma solo chi non viene strangolato può attaccarla. Le vittime non possono liberarsi da sole in alcun modo, né lanciare incantesimi.
 
-\oggettomagico{Corno del Valhalla}
+### Corno del Valhalla
 
 **Rarità:** Raro; **Costo:** 6000 mo
 
 puoi usare due Azioni per suonare questo **corno**. Come risposta, entro 18 metri da te appaiono gli spiriti guerrieri di Asgard. Questi spiriti usano le statistiche dei berserker. Essi ritornano ad Asgard dopo 1 ora o quando scendono a 0 Punti Ferita. Una volta usato, il corno non potrà essere usato di nuovo prima che siano passati 7 giorni.
 
-\oggettomagico{Corno di Distruzione}
+### Corno di Distruzione
 
 **Rarità:** Raro; **Costo:** 750 mo
 
@@ -1285,7 +1296,7 @@ puoi usare due azioni per pronunciare la parola di comando del **corno** e poi s
 
 Ogni uso della magia del corno ha il 20\% di probabilità di farlo esplodere. L'esplosione infligge 10d6 danni da fuoco a chi lo suona e distrugge il corno.
 
-\oggettomagico{Corrosiva}
+### Corrosiva
 
 **Aura:** Lista di Terra moderata; **Costo:** 3000 mo
 
@@ -1293,7 +1304,7 @@ Ogni uso della magia del corno ha il 20\% di probabilità di farlo esplodere. L'
 
 Un'**arma** Corrosiva è coperta da uno strato di acido che infligge 1d6 danni aggiuntivi da acido quando colpisce il bersaglio. L'acido non danneggia chi la impugna.
 
-\oggettomagico{Cubo di Forza}
+### Cubo di Forza
 
 **Rarità:** Raro; **Costo:** 16000 mo
 
@@ -1305,33 +1316,34 @@ Se il tuo movimento fa sì che la barriera entri a contatto con un oggetto solid
 
 Il cubo perde cariche quando la barriera viene presa come bersaglio da certi incantesimi o entra a contatto con certi incantesimi o effetti di oggetti magici, come indicato nella tabella seguente.
 
-| \rowcolor{gray!20}**Incantesimo o Oggetto** | **Cariche Perse** |
+| **Incantesimo o Oggetto** | **Cariche Perse** |
 | --- | --- |
 | Dardo arcano (3 colpi) | 1 |
-| \rowcolor{gray!20}Disintegrazione | 1d12 |
+| Disintegrazione | 1d12 |
 | Muro di fuoco | 1d4 |
-| \rowcolor{gray!20}Passa Porta | 1d6 |
+| Passa Porta | 1d6 |
 | Spruzzo Prismatico | 3d6 |
 
 Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in cariche.
 
-| \rowcolor{gray!20}**Faccia** | **Costo** | **Effetto** |
+| **Faccia** | **Costo** | **Effetto** |
+|---|---|---|
 | 1 | 1 | Gas, vento e nebbia non possono penetrare la barriera |
-| \rowcolor{gray!20}2 | 2 | La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
+| 2 | 2 | La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
 | 3 | 3 | La materia vivente non può attraversare la barriera. |
-| \rowcolor{gray!20}4 | 4 | Gli effetti dell'incantesimo non possono attraversare la barriera. |
+| 4 | 4 | Gli effetti dell'incantesimo non possono attraversare la barriera. |
 | 5 | 5 | Nulla può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
-| \rowcolor{gray!20}6 | 0 | La barriera si disattiva. |
+| 6 | 0 | La barriera si disattiva. |
 
 Ogni attivazione dura un minuto.
 
-\oggettomagico{Cubo di protezione dal freddo}
+### Cubo di protezione dal freddo
 
 **Rarità:** Raro; **Costo:** 2500 mo
 
 questo **ciondolo** cubico si attiva e si disattiva premendone una faccia (Azione Immediata). Quando è attivato, emana un campo protettivo cubico con lo spigolo di 3 m (simile a quello di un cubo di forza ma dall'effetto diverso). La temperatura all'interno del campo protettivo si mantiene a 21 °C. Il campo assorbe tutti gli attacchi di freddo, negandoli completamente. Se nega più di 50 danni da freddo in un round (sia da un singolo attacco che da attacchi multipli), però, il campo magico collassa e non può essere riattivato per un'ora. Se il campo nega più di 100 ferite da freddo in un round, il cubo viene distrutto.
 
-\oggettomagico{Danzante}
+### Danzante
 
 **Aura:** Trasmutazione forte; **Costo:** 25000 mo
 
@@ -1343,7 +1355,7 @@ Rimane sempre accanto alla persona che l'ha liberata, anche se si sposta con mez
 
 Questa capacità può essere aggiunta solo ad armi da mischia.
 
-\oggettomagico{Del Dolore}
+### Del Dolore
 
 **Aura:** Invocazione moderata; **Costo:** 3000 mo
 
@@ -1351,7 +1363,7 @@ Questa capacità può essere aggiunta solo ad armi da mischia.
 
 Questa capacità può essere aggiunta solo ad **armi** da mischia. Quando un'arma del dolore colpisce un avversario, produce un lampo di Vuoto che riecheggia tra chi la impugna e il suo bersaglio. L'energia infligge 2d6 danni addizionali all'avversario e 1d6 danni a chi la impugna.
 
-\oggettomagico{Denegante}
+### Denegante
 
 **Aura:** Abiurazione forte; **Costo:** 25000 mo
 
@@ -1359,7 +1371,7 @@ Questa capacità può essere aggiunta solo ad **armi** da mischia. Quando un'arm
 
 Quando colui che indossa l'**armatura** è bersaglio di un Colpo Critico o Esplosione del danno effettuato con un'arma da mischia, può automaticamente negare questo Critico e renderlo un attacco normale. Questa capacità può essere applicata solo alle armature pesanti. L'abilità è usabile un numero di volte al giorno pari al bonus magico dell'armatura/scudo.
 
-\oggettomagico{Determinazione}
+### Determinazione
 
 **Aura:** Lista di Cura moderata; **Costo:** 15000 mo
 
@@ -1367,7 +1379,7 @@ Quando colui che indossa l'**armatura** è bersaglio di un Colpo Critico o Esplo
 
 Uno **scudo** o un'**armatura** concede la capacità di combattere in circostanze apparentemente impossibili. Una volta al giorno, quando il possessore raggiungere 0 o meno Punti Ferita, l'oggetto attiva automaticamente l'incantesimo Cure ferite 2.
 
-\oggettomagico{Difensiva}
+### Difensiva
 
 **Aura:** Abiurazione moderata; **Costo:** 3000 mo
 
@@ -1375,7 +1387,7 @@ Uno **scudo** o un'**armatura** concede la capacità di combattere in circostanz
 
 Un'**arma** Difensiva permette a chi la impugna di trasferire una parte o tutto il bonus dell'arma alla propria Difesa come un bonus cumulabile con eventuali altri bonus. Come Azione Immediata ad inizio del proprio round chi la impugna può scegliere di trasferire parte o tutto del bonus al colpire dell'arma come bonus alla Difesa e Tiri Salvezza. I punteggio dei bonus rimangono validi fino all'inizio del round successivo.
 
-\oggettomagico{Difesa dagli Incantesimi}
+### Difesa dagli Incantesimi
 
 **Aura:** Abiurazione forte; **Costo:** 5000 mo
 
@@ -1383,7 +1395,7 @@ Un'**arma** Difensiva permette a chi la impugna di trasferire una parte o tutto 
 
 Hai +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
-\oggettomagico{Distanza}
+### Distanza
 
 **Aura:** Divinazione moderata; **Costo:** 3000 mo
 
@@ -1391,7 +1403,7 @@ Hai +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
 Questa capacità speciale può essere aggiunta solo a **proiettili**. Un proiettile della Distanza ignora la penalità al colpire fino al triplo della gittata. Il costo si intendo per 20 proiettili.
 
-\oggettomagico{Distruttrice dei Giganti}
+### Distruttrice dei Giganti
 
 **Aura:** Invocazione forte; **Costo:** 16000 mo
 
@@ -1407,7 +1419,7 @@ Puoi spendere 1 carica ed effettuare un attacco con arma a distanza scagliandolo
 
 Il martello ha 5 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Distruzione}
+### Distruzione
 
 **Aura:** Evocazione forte; **Costo:** 6000 mo
 
@@ -1415,7 +1427,7 @@ Il martello ha 5 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
 Un'**arma** della Distruzione è la rovina di tutti i Non Morti. Ogni creatura Non Morta colpita in combattimento deve superare un Tiro Salvezza su Volontà con DC 14 o viene distrutta o subire 2d8 di danni aggiuntivi da Luce. Un'arma della Distruzione deve essere un'arma da mischia contundente.
 
-\oggettomagico{Elegante}
+### Elegante
 
 **Aura:** Illusione moderata; **Rarità:** Comune; **Costo:** 3000 mo
 
@@ -1423,25 +1435,25 @@ Un'**arma** della Distruzione è la rovina di tutti i Non Morti. Ogni creatura N
 
 Puoi usare due azioni per pronunciare la parola di comando per ottenere che l'**armatura** assuma l'aspetto di un comune abito o qualche altro tipo di armatura. Decidi tu l'aspetto, compreso il colore, lo stile e gli accessori, ma l'armatura / scudo mantiene il suo normale Ingombro e peso. L'aspetto illusorio dura finché non usi di nuovo questa proprietà o ti togli l'armatura.
 
-\oggettomagico{Elmo del Movimento subacqueo}
+### Elmo del Movimento subacqueo
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
 questo **elmo**, solitamente in pelle di pesce, conferisce la capacità di respirare sott'acqua, movimento Nuotare 18 metri, ecolocalizzazione 18 metri. Il potere è usabile per 6 ore al giorno e si ricarica all'alba.
 
-\oggettomagico{Elmo del Teletrasporto}
+### Elmo del Teletrasporto
 
 **Rarità:** Raro; **Costo:** 64000 mo
 
 mentre indossi questo **elmo**, puoi usare due azioni e spendere 1 carica per lanciare l'incantesimo teletrasporto tramite esso. L'elmo ha 3 cariche, e ne recupera 1 ogni mattina all'alba.
 
-\oggettomagico{Elmo della Comprensione dei Linguaggi}
+### Elmo della Comprensione dei Linguaggi
 
 **Rarità:** Comune; **Costo:** 600 mo
 
 mentre indossi questo **elmo**, puoi usare due azioni per lanciare a volontà tramite esso l'incantesimo comprendere linguaggi.
 
-\oggettomagico{Elmo della Lucentezza}
+### Elmo della Lucentezza
 
 **Rarità:** Leggendario; **Costo:** 75000 mo
 
@@ -1455,7 +1467,7 @@ Finché l'elmo possiede almeno un opale di fuoco, puoi usare due azioni e pronun
 
 Se stai indossando l'elmo e subisci danni da fuoco in seguito al Fallimento Critico di un Tiro Salvezza contro un incantesimo, l'elmo emette un fascio di luce tramite le gemme rimanenti. Ogni creatura entro 18 metri dall'elmo, a parte te, deve superare un Tiro Salvezza su Riflessi con DC 21 o venire colpita dal fascio, subendo danni di Luce uguali al numero di gemme nell'elmo x 5. Poi, le gemme e l'elmo vengono distrutti.
 
-\oggettomagico{Elmo della Telepatia}
+### Elmo della Telepatia
 
 **Rarità:** Raro; **Costo:** 12000 mo
 
@@ -1463,7 +1475,7 @@ mentre indossi questo **elmo**, puoi usare due azioni per lanciare tramite esso 
 
 Mentre ti concentri su di una creatura con individuazione dei pensieri, puoi usare due azioni per lanciare tramite l'elmo l'incantesimo suggestione (DC del Tiro Salvezza 13) su quella creatura. Una volta usata, la proprietà suggestione non potrà essere usata di nuovo fino alla prossima alba.
 
-\oggettomagico{Energia Luminosa}
+### Energia Luminosa
 
 **Aura:** Trasmutazione forte; **Costo:** 45000 mo
 
@@ -1477,7 +1489,7 @@ L'arma ha un bonus di +2 ai Tiri per Colpire e danno, infligge danni da Luce anz
 
 La lama luminosa della spada emette luce intensa in un raggio di 3 metri e luce fioca per 6 metri. La luce è luce solare. Finché la lama è attiva, puoi usare 1 Azione per espandere o ridurre il raggio della luce intensa e fioca fino ad 1 metro ciascuno, per 3 round.
 
-\oggettomagico{Faretra Efficiente}
+### Faretra Efficiente
 
 **Rarità:** Raro; **Costo:** 2500 mo
 
@@ -1485,7 +1497,7 @@ ciascuno dei tre compartimenti della **faretra** è collegato a uno spazio extra
 
 Il compartimento più piccolo può contenere fino a 60 frecce, dardi od oggetti simili. Il compartimento mediano può contenere fino a 18 giavellotti od oggetti simili. Il compartimento più lungo può contenere fino a 6 oggetti lunghi, come archi, bastoni da combattimento o lance. Puoi estrarre qualsiasi oggetto contenuto nella faretra come se lo stessi prendendo da una normale faretra o fodero.
 
-\oggettomagico{Fasce di Ferro del Vincolo}
+### Fasce di Ferro del Vincolo
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
@@ -1493,7 +1505,7 @@ questa **sfera** di ferro arrugginita misura 7,5 centimetri di diametro e pesa 5
 
 Una creatura, compresa quella intralciata, può usare due azioni per effettuare un Tiro Salvezza Tempra con Forza DC 25 per spezzare le fasce di ferro. Se la riesce, l'oggetto viene distrutto, e la creatura intralciata è libera. Se la prova fallisce, qualsiasi ulteriore tentativo effettuato dalla creatura fallisce automaticamente fino a quando non saranno trascorse 24 ore. Una volta che le fasce sono state usate non potranno più esserlo fino alla prossima alba.
 
-\oggettomagico{Felpa}
+### Felpa
 
 **Aura:** Trasmutazione forte; **Costo:** 6000 mo
 
@@ -1501,7 +1513,7 @@ Una creatura, compresa quella intralciata, può usare due azioni per effettuare 
 
 Un **armatura** con la capacità Felpa conta per quanto concerne le penalità di indossare ed ingombro come un armatura leggera. Il personaggio riesce a muoversi quasi senza difficoltà con questa armatura.
 
-\oggettomagico{Ferimento}
+### Ferimento
 
 **Aura:** Necromantica moderata; **Costo:** 6000 mo
 
@@ -1512,31 +1524,31 @@ Le creature sanguinanti subiscono il danno da Sanguinamento all'inizio del loro 
 
 Le creature immuni ai Colpi Critici sono immuni ai danni da Sanguinamento inflitti da quest'arma.
 
-\oggettomagico{Filatterio contro i non morti}
+### Filatterio contro i non morti
 
 **Rarità:** Comune; **Costo:** 1000 mo
 
 questo **oggetto** sacro permette di usare l'Abilità Scacciare non morti con un bonus di +2 alla somma dei Tratti in comune con il Patrono.
 
-\oggettomagico{Filatterio della giovinezza}
+### Filatterio della giovinezza
 
 **Rarità:** Leggendario; **Costo:** 10000 mo
 
 la striscia di **pergamena** di questo filatterio è di solito rinchiusa in un tubetto metallico da portare appeso al collo. Quando un personaggio lo indossa, la sua naturale velocità di invecchiamento diminuisce ed invecchia di 1 mese in un anno, mentre un eventuale invecchiamento magico è ridotto della metà.
 
-\oggettomagico{Filtro d'Amore}
+### Filtro d'Amore
 
 **Rarità:** Non Comune; **Costo:** 120 mo
 
 resterai Affascinato per 1 ora dalla prima creatura che vedrai entro 10 minuti da quando avrai bevuto questo **filtro**. Se la creatura è di una specie o genere da cui sei normalmente attratto, finché sei Affascinato la considererai il tuo unico e grande amore.
 
-\oggettomagico{Filtro Scopritesori}
+### Filtro Scopritesori
 
 **Rarità:** Raro; **Costo:** 500 mo
 
 chi beve questa **pozione** può percepire entro 72 metri i tesori che contengono metalli preziosi o gemme, purché abbiano un valore di almeno 50 monete d'oro. Si può percepire la direzione del tesoro, ma non la sua esatta distanza. Nessuna barriera non magica può impedire di percepire i tesori, tranne una lastra di piombo.
 
-\oggettomagico{Folgorante}
+### Folgorante
 
 **Aura:** Lista Aria; **Costo:** 3000 mo
 
@@ -1544,7 +1556,7 @@ chi beve questa **pozione** può percepire entro 72 metri i tesori che contengon
 
 A comando, un'**arma** Folgorante viene avvolta da elettricità crepitante che infligge 1d6 danni addizionali da elettricità per ogni colpo andato a segno. Quest'elettricità non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata, l'arma è immune ai danni da elettricità.
 
-\oggettomagico{Armatura della Forma Eterea}
+### Armatura della Forma Eterea
 
 **Aura:** Trasmutazione forte; **Costo:** 24500 mo
 
@@ -1552,7 +1564,7 @@ A comando, un'**arma** Folgorante viene avvolta da elettricità crepitante che i
 
 A comando, questa proprietà permette a chi indossa l'**armatura** di diventare Etereo (come per l'incantesimo Forma Eterea) una volta al giorno. Il personaggio può rimanere Etereo per quanto tempo desidera ma, una volta tornato alla normalità, per quel giorno non può più diventare Etereo.
 
-\oggettomagico{Fortezza Istantanea}
+### Fortezza Istantanea
 
 **Rarità:** Molto Raro; **Costo:** 75000 mo
 
@@ -1566,7 +1578,7 @@ La torre è fatta di adamantio, e la sua magia le impedisce di venir ribaltata. 
 
 Solo l'incantesimo desiderio può riparare la fortezza. Ciascun lancio di desiderio fa sì che il tetto, la porta o una delle pareti recuperi 50 Punti Ferita.
 
-\oggettomagico{Fortunata}
+### Fortunata
 
 **Aura:** Invocazione molto forte; **Costo:** 30000 mo
 
@@ -1578,13 +1590,13 @@ Finché hai addosso la **arma** ricevi anche un bonus di +1 ai Tiri Salvezza.
 
 - *Desiderio*. Mentre la impugni, puoi usare due azioni per spendere 1 carica e lanciare tramite essa l'incantesimo desiderio. Questa proprietà non può essere usata di nuovo fino alla prossima alba. La spada ha 1 carica e perde questa proprietà se finisce le cariche.
 
-\oggettomagico{Freccia localizzante}
+### Freccia localizzante
 
 **Rarità:** Non Comune; **Costo:** 400 mo
 
 questa **freccia** può essere usata fino ad 8 volte al giorno. Essa viene lanciata per aria, e quando atterra indica una direzione o un luogo desiderati. Possibili indicazioni includono l'uscita o l'ingresso più vicini, scale, passaggi, caverne e simili aree.
 
-\oggettomagico{Gelida}
+### Gelida
 
 **Aura:** Lista Acqua moderata; **Costo:** 3000 mo
 
@@ -1592,7 +1604,7 @@ questa **freccia** può essere usata fino ad 8 volte al giorno. Essa viene lanci
 
 A comando, un'**arma** Gelida viene avvolta da un gelo terribile che infligge 1d6 danni da freddo per ogni colpo andato a segno. Questo freddo non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata. L'arma è immune ai danni da freddo.
 
-\oggettomagico{Gemma della Luminosita'}
+### Gemma della Luminosita'
 
 **Aura:** Lista Fuoco; **Costo:** 5000 mo
 
@@ -1606,13 +1618,13 @@ questo **prisma** ha 50 cariche. Mentre lo impugni, puoi usare due azioni per pr
 
 Quando tutte le cariche della gemma sono state spese, la gemma diventa un comune gioiello del valore di 50 mo.
 
-\oggettomagico{Gemma della Vista}
+### Gemma della Vista
 
 **Rarità:** Molto Raro; **Costo:** 32000 mo
 
 con due azioni, puoi pronunciare la parola di comando della **gemma** e spendere 1 carica. Per i successivi 10 minuti, quando guardi attraverso la gemma possiedi la visione del vero fino a 36 metri di distanza. La gemma ha 3 cariche, e recupera 1 carica spese ogni giorno all'alba.
 
-\oggettomagico{Gemma Elementale}
+### Gemma Elementale
 
 **Aura:** Lista Elementi; **Costo:** 12000 mo
 
@@ -1620,18 +1632,18 @@ con due azioni, puoi pronunciare la parola di comando della **gemma** e spendere
 
 questa **gemma** contiene una scintilla di energia elementale. Quando usi due azioni per infrangere la gemma, questa evoca un elementale come se tu avessi lanciato l'incantesimo Evoca Elementale, e la magia della gemma svanisce. Il tipo di gemma determina l'elementale evocato dall'incantesimo.
 
-| \rowcolor{gray!20}**Gemma** | **Elementale evocato** |
+| **Gemma** | **Elementale evocato** |
 | --- | --- |
 | Corindone rosso | Elementale del fuoco |
-| \rowcolor{gray!20}Diamante giallo | Elementale della terra |
+| Diamante giallo | Elementale della terra |
 | Smeraldo | Elementale dell'acqua |
-| \rowcolor{gray!20}Zaffiro blu | Elementale dell'aria |
+| Zaffiro blu | Elementale dell'aria |
 
-\oggettomagico{Gioiello Attiramostri}
+### Gioiello Attiramostri
 
 questo **gioiello** magico è maledetto, il possessore attrae i mostri vaganti con il doppio della probabilità. I mostri, inoltre, lo inseguiranno al doppio della probabilità qualora egli fugga. Il gioiello non può essere abbandonato e riapparirà immediatamente sulla persona del possessore ogni volta che questi proverà a liberarsene. Solo Rimuovi Maledizione permetterà al possessore di lasciarsi indietro il gioiello.
 
-\oggettomagico{Gloriosa}
+### Gloriosa
 
 **Aura:** Invocazione moderata; **Costo:** 6000 mo
 
@@ -1641,35 +1653,35 @@ Un'**arma** Gloriosa illumina con una luce abbagliante pari a quella un incantes
 
 Quando un'arma Gloriosa effettua un Colpo Critico, il bersaglio è Accecato fino all'inizio del round successivo del possessore (Tempra DC 14 nega). Solo un'arma da mischia può avere la capacità Gloriosa.
 
-\oggettomagico{Guanti Afferra Proiettili}
+### Guanti Afferra Proiettili
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
 questi **quanti** sembrano quasi fondersi con la tua pelle quando li indossi. Quando un attacco con arma a distanza ti colpisce mentre li indossi, puoi usare una Azione di Reazione per ridurre il danno di 1d10 + Destrezza, purché tu abbia una mano libera. Se riduci il danno a 0 ed il proiettile è piccolo a sufficienza da essere tenuto in mano, puoi afferrarlo.
 
-\oggettomagico{Guanti del Nuoto e della Scalata}
+### Guanti del Nuoto e della Scalata
 
 **Rarità:** Non Comune; **Costo:** 2000 mo
 
 mentre indossi entrambi questi **guanti**, la scalata e il nuoto non ti costano movimento aggiuntivo. Inoltre, hai un bonus di +1d6 alle prove di Costituzione e Saggezza effettuate mentre scali o nuoti.
 
-\oggettomagico{Guanti del Potere orchesco}
+### Guanti del Potere orchesco
 
 **Rarità:** Raro; **Costo:** 9000 mo
 
 mentre indossi queste **manopole** la tua Forza è 4. I guanti non hanno effetto se la tua Forza è già 4 o più.
 
-\oggettomagico{Guanti della Destrezza}
+### Guanti della Destrezza
 
 **Costo:** 12000 mo
 
 rari, questi **guanti** impartiscono al possessore una Destrezza minima di +2 e nel caso abbia già un punteggio di +2 questa aumenta di 1 (fino ad un massimo +4). Inoltre il possessore acquisisce +1d6 nella Competenza Mani di Fata
 
-\oggettomagico{Guanti Maldestri}
+### Guanti Maldestri
 
 questi **guanti** possono essere di morbido cuoio o pesante materiale protettivo adatto per l'uso con armature. Nel primo caso sembrano essere guanti della destrezza. Nel secondo caso essi sembrano essere guanti del potere orchesco. Ad ogni prova i guanti sembrano avere le funzioni di cui sopra fino a quando chi li indossa non è sotto attacco o in una situazione di vita o di morte. In quel momento la maledizione si attiva. Il personaggio diviene maldestro, con una probabilità del 50\% ad ogni round di lasciar cadere un oggetto che tiene nelle mani. I guanti riducono la Destrezza di 2 punti. Una volta che la maledizione è attiva, i guanti possono essere rimossi soltanto con un incantesimo Rimuovi Maledizione od un desiderio.
 
-\oggettomagico{Guardiana}
+### Guardiana
 
 **Aura:** Abiurazione moderata; **Costo:** 3000 mo
 
@@ -1677,25 +1689,25 @@ questi **guanti** possono essere di morbido cuoio o pesante materiale protettivo
 
 Questa capacità può essere aggiunta solo ad **armi** da mischia. Un'arma Guardiana permette a chi la impugna di trasferire, come Azione Immediata, una parte o tutto il bonus dell'arma alla Difesa di una creatura a distanza di mischia. Il bonus ceduto perdura fino all'inizio del round successivo.
 
-\oggettomagico{Incensiere degli Elementali dell'Aria}
+### Incensiere degli Elementali dell'Aria
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
 mentre l'**incenso** brucia all'interno di questo incensiere, puoi usare due azioni per pronunciare la parola di comando del braciere ed evocare un elementale dell'aria, come se avessi lanciato l'incantesimo Evoca Elementale. L'incensiere non può di nuovo essere usato a questo modo fino alla prossima alba. Questo incensiere largo 15 centimetri e alto 30 centimetri assomiglia a un calice dalla copertura decorata. Pesa 0,5 chili, ingombro L.
 
-\oggettomagico{Incenso dell'Ossessione}
+### Incenso dell'Ossessione
 
 **Rarità:** Raro
 
 raro, del tutto simile all'**incenso** della meditazione, questo incenso dà a chi lo usa anche l'impressione del suo effetto, ma sarà sotto Confusione per 24 ore se fallisce un Tiro Salvezza su Volontà DC 23.
 
-\oggettomagico{Incenso della meditazione}
+### Incenso della meditazione
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 questo blocchetto d'**incenso** dal profumo dolce è indistinguibile dal normale incenso finché non viene acceso. Quando brucia, la sua particolare fragranza e il suo fumo chiaro sono riconoscibili con una prova di Arcana a DC 15. Dopo che un incantatore avrà trascorso 8 ore ripassando sul Tomo e meditando nei pressi di un blocchetto acceso il costo in Punti Magia degli incantesimi diminuirà di 1 punto per le successive 8 ore. Ogni blocchetto d'incenso brucia per 8 ore e l'effetto persiste per altre 8 ore. Di solito si trovano 2d4 blocchetti di incenso nella stessa custodia.
 
-\oggettomagico{Invulnerabilita'}
+### Invulnerabilita'
 
 **Aura:** Abiurazione forte; **Costo:** 15000 mo
 
@@ -1703,7 +1715,7 @@ questo blocchetto d'**incenso** dal profumo dolce è indistinguibile dal normale
 
 Questa **armatura** garantisce a chi la indossa una Riduzione del Danno di 5/magia.
 
-\oggettomagico{Irrintracciabile}
+### Irrintracciabile
 
 **Aura:** Trasmutazione debole; **Costo:** 3750 mo
 
@@ -1711,7 +1723,7 @@ Questa **armatura** garantisce a chi la indossa una Riduzione del Danno di 5/mag
 
 Un'**armatura** Irrintracciabile alleggerisce i passi di chi la indossa e ne camuffa l'aspetto. Le prove di Sopravvivenza per seguire le tracce del portatore subiscono penalità -4, e chi indossa l'armatura ottiene Bonus di +4 alle prove di Furtività. Soltanto le armature di cuoio o di pelle possono essere Irrintracciabili.
 
-\oggettomagico{Ladra delle Nove Vite}
+### Ladra delle Nove Vite
 
 **Aura:** Necromantica forte; **Costo:** 25000 mo
 
@@ -1721,7 +1733,7 @@ Ottieni un bonus di +2 ai Tiri per Colpire e danno effettuati con quest'**arma**
 
 La spada ha 1d8 + 1 cariche e perde 1 carica quando una creatura viene uccisa. Quando la spada non ha più cariche, perde questa proprietà.
 
-\oggettomagico{Lanterna della Rivelazione}
+### Lanterna della Rivelazione
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
@@ -1729,7 +1741,7 @@ mentre è accesa, questa **lanterna** brucia per 6 ore con 1 fiasca d'olio, irra
 
 Puoi usare due azioni per abbassare la copertura, riducendo la luce a fioca con un raggio di 1 metro.
 
-\oggettomagico{Lingua di fuoco}
+### Lingua di fuoco
 
 **Aura:** Lista di Fuoco; **Costo:** 3000 mo
 
@@ -1737,25 +1749,25 @@ Puoi usare due azioni per abbassare la copertura, riducendo la luce a fioca con 
 
 A comando, un'**arma** fiammeggiante viene avvolta da fiamme che infliggono 1d6 danni da fuoco per ogni colpo andato a segno. Questo fuoco non danneggia chi impugna l'arma. L'effetto rimane attivo finché non viene disattivato con un altro comando. L'arma è immune ai danni da fuoco.
 
-\oggettomagico{Mantella del Ciarlatano}
+### Mantella del Ciarlatano
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
 mentre indossi questa **mantella** che odora lievemente di zolfo, puoi usarla per lanciare l'incantesimo *porta dimensionale* con due azioni. La proprietà di questa mantella non può essere usata di nuovo fino all'alba. Quando scompari, ti lasci alle spalle una nube di fumo e riappari alla tua destinazione all'interno di una simile nube di fumo. Questo fumo oscura leggermente lo spazio che hai lasciato e quello dove riappari e si dissipa alla fine del tuo prossimo round. Un vento leggero o più forte disperde il fumo.
 
-\oggettomagico{Mantello degli Elfi}
+### Mantello degli Elfi
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 mentre indossi questo **Mantello** tirando su il cappuccio, le prove di Consapevolezza effettuate per notarti hanno -1d6, e hai +1d6 alle prove di Furtività effettuate per nasconderti. Tirare su o giù il cappuccio richiede due Azioni.
 
-\oggettomagico{Mantello del Pipistrello}
+### Mantello del Pipistrello
 
 **Rarità:** Raro; **Costo:** 6000 mo
 
 in aree di luce fioca o oscurità, puoi afferrare i bordi della **Mantello** con entrambe le mani e usarla per muoverti a velocità di volo 12 metri. Se dovessi smettere di tenere i bordi del Mantello mentre voli a questo modo, perdi la tua velocità di volo. Mentre indossi la Mantello in un'area di luce fioca o oscurità, puoi usare due Azioni per lanciare *metamorfosi* su di te, trasformandoti in un pipistrello. Quando sei in forma di pipistrello, mantieni i tuoi punteggi di Intelligenza, Saggezza e Carisma. La Mantello non può essere impiegata di nuovo in questo modo fino alla prossima alba.
 
-\oggettomagico{Mantello dell'Aracnide}
+### Mantello dell'Aracnide
 
 **Rarità:** Molto Raro; **Costo:** 8000 mo
 
@@ -1767,37 +1779,37 @@ mentre indossi questo elegante **abito** di seta nera intessuto con fili d'argen
 - Non puoi essere catturato da alcuna sorta di ragnatela e ti muovi attraverso le ragnatele come fossero terreno difficile.
 - Puoi usare due azioni per lanciare l'incantesimo *ragnatela* (DC del Tiro Salvezza 15). La ragnatela creata dall'incantesimo riempie il doppio della sua normale area. Una volta usata, questa proprietà della Mantello non può essere usata di nuovo fino alla prossima alba.
 
-\oggettomagico{Mantello della Manta}
+### Mantello della Manta
 
 **Rarità:** Non Comune; **Costo:** 6000 mo
 
 mentre indossi questa **Mantello** con il cappuccio tirato su, puoi respirare sott'acqua e hai velocità di nuoto 18 metri. Tirare su o giù il cappuccio richiede 2 Azioni.
 
-\oggettomagico{Mantello della Resistenza agli Incantesimi}
+### Mantello della Resistenza agli Incantesimi
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
 non comune, mentre indossi questo **mantello**, hai +1 ai Tiri Salvezza contro incantesimi.
 
-\oggettomagico{Mantello della velenosita'}
+### Mantello della velenosita'
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
 questo **mantello** è di solito fatto di lana, sebbene possa essere anche di pelle. L'indumento può essere manipolato senza pericolo, ma appena viene indossato causa 5d6 di danno da veleno. Ogni round successivo può essere fatto un Tiro Salvezza su Tempra DC 21 per ridurre ad 1d6 il danno. Il mantello può essere rimosso soltanto con un incantesimo *Rimuovi Maledizione* o *Desiderio*.
 
-\oggettomagico{Mantello di Distorsione}
+### Mantello di Distorsione
 
 **Rarità:** Raro; **Costo:** 60000 mo
 
 mentre indossi questo **mantello**, esso proietta un'illusione che ti fa apparire come se stessi in un punto vicino alla tua reale posizione, facendo sì che tutte le creature abbiano -1d6 ai Tiri per Colpire contro di te. Se subisci danni, la proprietà cessa di funzionare fino all'inizio del tuo prossimo round. Questa proprietà è soppressa mentre sei inabile, intralciato o altrimenti impossibilitato a muoverti.
 
-\oggettomagico{Mantello di Protezione}
+### Mantello di Protezione
 
 **Rarità:** Molto Raro; **Costo:** 3500 mo
 
 mentre indossi questa **mantello**, ottieni un bonus di +1 (non comune, 3500 mo),+2 (raro, 6000 mo),+3 (molto raro, 15000 mo) alla Difesa e ai Tiri Salvezza.
 
-\oggettomagico{Manuale dei Golem}
+### Manuale dei Golem
 
 **Rarità:** Molto Raro; **Costo:** 10000 mo
 
@@ -1807,31 +1819,32 @@ Per creare un golem, devi trascorrere il tempo sopra indicato, lavorando senza i
 
 Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.
 
-| \rowcolor{gray!20}3d6 | Golem | Tempo | Costo |
+| 3d6 | Golem | Tempo | Costo |
+|---|---|---|---|
 | 3-4 | Argilla | 30 giorni | 65000 mo |
-| \rowcolor{gray!20}5-16 | Carne | 60 giorni | 50000 mo |
+| 5-16 | Carne | 60 giorni | 50000 mo |
 | 17 | Ferro | 120 giorni | 100000 mo |
-| \rowcolor{gray!20}18 | Pietra | 90 giorni | 80000 mo |
+| 18 | Pietra | 90 giorni | 80000 mo |
 
-\oggettomagico{Manuale dell'Esercizio fisico}
+### Manuale dell'Esercizio fisico
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questo **tomo** funziona esattamente come il manuale della salute, ma conferisce al lettore un punto di Forza. La *versione maledetta* di questo manuale pur sembrando assolutamente identico a quello originale al termine delle 4 settimana fa perdere un punto di Forza.
 
-\oggettomagico{Manuale della Buona salute}
+### Manuale della Buona salute
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questo **tomo** contiene istruzioni per rafforzare il corpo e la salute. Per leggere il libro occorrono 24 ore in un minimo di 3 giorni. Le sue istruzioni andranno seguite per 4 settimane, al termine delle quali il lettore guadagnerà permanentemente un punto di Costituzione. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo. La *versione maledetta* di questo manuale pur sembrando assolutamente identico a quello originale al termine delle 4 settimana fa perdere un punto di Costituzione.
 
-\oggettomagico{Manuale della Velocita' di azione}
+### Manuale della Velocita' di azione
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questo **tomo** contiene esercizi per l'equilibrio e la coordinazione. Funziona come un manuale della buona salute, ma fa ottenere un punto di Destrezza. La *versione maledetta* di questo manuale pur sembrando assolutamente identico a quello originale al termina delle 4 settimana fa perdere un punto di Destrezza.
 
-\oggettomagico{Marina}
+### Marina
 
 **Aura:** Lista Acqua moderata; **Costo:** 3000 mo
 
@@ -1839,7 +1852,7 @@ questo **tomo** contiene esercizi per l'equilibrio e la coordinazione. Funziona 
 
 Questa capacità speciale può essere aggiunta solo ad **armi** da mischia. Un'arma Marina funziona tranquillamente negli ambienti acquatici. Con l'arma in mano, chi la impugna ottiene un bonus alle prove di Nuotare pari al doppio del bonus dell'arma.
 
-\oggettomagico{Mazza della Punizione}
+### Mazza della Punizione
 
 **Aura:** Invocazione forte; **Costo:** 7000 mo
 
@@ -1849,7 +1862,7 @@ Ottieni un ulteriore +3 al colpire e danno quando usi quest'**arma** per attacca
 
 Quando ottieni un critico al Tiro per Colpire con quest'arma, il bersaglio subisce un critico aggiuntivo, o 2 Tiri Critici aggiuntivi se è un costrutto. Se, dopo aver subito questi danni, a un costrutto restano 25 Punti Ferita o meno, viene distrutto.
 
-\oggettomagico{Mazzo delle Illusioni}
+### Mazzo delle Illusioni
 
 **Rarità:** Non Comune; **Costo:** 6500 mo
 
@@ -1860,43 +1873,43 @@ La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usar
 L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volontà con Intelligenza con DC 17. La creatura le apparirà quindi trasparente.
 L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare e quella carta non potrà più essere usata.
 
-| \rowcolor{gray!20}**Carta da Gioco** | **Illusione** |
+| **Carta da Gioco** | **Illusione** |
 | --- | --- |
 | Asso di cuori | Drago rosso |
-| \rowcolor{gray!20}Re di cuori | Cavaliere e quattro guardie |
+| Re di cuori | Cavaliere e quattro guardie |
 | Regina di cuori | Succube o incubo |
-| \rowcolor{gray!20}Fante di cuori | Druido |
+| Fante di cuori | Druido |
 | Dieci di cuori | Gigante delle nuvole |
-| \rowcolor{gray!20}Nove di cuori | Ettin |
+| Nove di cuori | Ettin |
 | Otto di cuori | Bugbear |
-| \rowcolor{gray!20}Due di cuori | Goblin |
+| Due di cuori | Goblin |
 | Asso di picche | Lich |
-| \rowcolor{gray!20}Re di picche | Sacerdote e due accoliti |
+| Re di picche | Sacerdote e due accoliti |
 | Regina di picche | Medusa |
-| \rowcolor{gray!20}Fante di picche | Veterano |
+| Fante di picche | Veterano |
 | Dieci di picche | Gigante del gelo |
-| \rowcolor{gray!20}Nove di picche | Troll |
+| Nove di picche | Troll |
 | Otto di picche | Hobgoblin |
-| \rowcolor{gray!20}Due di picche | Goblin |
+| Due di picche | Goblin |
 | Asso di quadri | Beholder |
-| \rowcolor{gray!20}Re di quadri | Arcimago e mago apprendista |
+| Re di quadri | Arcimago e mago apprendista |
 | Regina di quadri | Megera notturna |
-| \rowcolor{gray!20}Fante di quadri | Assassino |
+| Fante di quadri | Assassino |
 | Dieci di quadri | Gigante del fuoco |
-| \rowcolor{gray!20}Nove di quadri | Oni |
+| Nove di quadri | Oni |
 | Otto di quadri | Gnoll |
-| \rowcolor{gray!20}Due di quadri | Coboldo |
+| Due di quadri | Coboldo |
 | Asso di fiori | Golem di ferro |
-| \rowcolor{gray!20}Re di fiori | Capitano bandito e tre banditi |
+| Re di fiori | Capitano bandito e tre banditi |
 | Regina di fiori | Erinni |
-| \rowcolor{gray!20}Fante di fiori | Berserker |
+| Fante di fiori | Berserker |
 | Dieci di fiori | Gigante delle Colline |
-| \rowcolor{gray!20}Nove di fiori | Ogre |
+| Nove di fiori | Ogre |
 | Otto di fiori | Orco |
-| \rowcolor{gray!20}Due di fiori | Coboldo |
+| Due di fiori | Coboldo |
 | Jolly (2) | Tu (il proprietario del mazzo) |
 
-\oggettomagico{Mazzo delle Meraviglie}
+### Mazzo delle Meraviglie
 
 **Rarità:** Leggendario; **Costo:** 100000 mo
 
@@ -1906,32 +1919,32 @@ Prima di pescare una carta, devi dichiarare quante carte intendi pescare e poi p
 
 Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi il numero scelto di carte, il numero di carte rimanenti uscirà fuori dal mazzo spontaneamente e avrà effetto in contemporanea. Una volta estratta una carta, questa svanirà dall'esistenza. A meno che la carta non sia il Matto o il Buffone, la carta ricompare nel mazzo, rendendo possibile pescare due volte la stessa carta.
 
-| \rowcolor{gray!20}**Carta da Gioco** | **Carta** |
+| **Carta da Gioco** | **Carta** |
 | --- | --- |
 | Asso di quadri | Visir* |
-| \rowcolor{gray!20}Re di quadri | Sole |
+| Re di quadri | Sole |
 | Regina di quadri | Luna |
 
-| \rowcolor{gray!20}**Carta da Gioco** | **Carta** |
+| **Carta da Gioco** | **Carta** |
 | --- | --- |
 | Fante di quadri | Stella |
-| \rowcolor{gray!20}Due di quadri | Cometa* |
+| Due di quadri | Cometa* |
 | Asso di fiori | Artigli* |
-| \rowcolor{gray!20}Re di fiori | Vuoto |
+| Re di fiori | Vuoto |
 | Regina di fiori | Fiamme |
-| \rowcolor{gray!20}Fante di fiori | Teschio |
+| Fante di fiori | Teschio |
 | Due di fiori | Idiota |
-| \rowcolor{gray!20}Jolly | Giullare |
+| Jolly | Giullare |
 | Asso di cuori | Destino* |
-| \rowcolor{gray!20}Re di cuori | Trono |
+| Re di cuori | Trono |
 | Regina di cuori | Chiave |
-| \rowcolor{gray!20}Fante di cuori | Cavaliere |
+| Fante di cuori | Cavaliere |
 | Due di cuori | Gemma* |
-| \rowcolor{gray!20}Asso di picche | Prigione* |
+| Asso di picche | Prigione* |
 | Re di picche | Rovina |
-| \rowcolor{gray!20}Regina di picche | Eurialo |
+| Regina di picche | Eurialo |
 | Due di picche | Bilancia* |
-| \rowcolor{gray!20}Jolly | Matto* |
+| Jolly | Matto* |
 
 * Solo in mazzo da 22 **carte**
 
@@ -2024,25 +2037,25 @@ Il caprone del viaggio può diventare un caprone Grande con le stesse statistich
 
 *Leoni d'Oro* (Raro, 800 mo). Queste statuette d'oro di leoni sono sempre create a coppie. Puoi usare una o entrambe le miniature contemporaneamente. Ciascuna può diventare un leone per un massimo di 1 ora. Una volta usato uno dei leoni, questi non può essere usato di nuovo prima che siano passati 7 giorni.
 
-\oggettomagico{Medaglione dei Pensieri}
+### Medaglione dei Pensieri
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
 mentre indossi questo **medaglione**, puoi usare due azioni e spendere 1 carica per lanciare tramite esso l'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 15). Il medaglione ha 3 cariche, e recupera 1 carica spese ogni giorno all'alba.
 
-\oggettomagico{Medaglione della Caduta piuma}
+### Medaglione della Caduta piuma
 
 **Rarità:** Non Comune; **Costo:** 400 mo
 
 questo **medaglione** attiva in automatico l'incantesimo Caduta Piuma quando il possessore cade da una altezza di 2 metri o più.
 
-\oggettomagico{Mithral}
+### Mithral
 
 **Rarità:** Non Comune; **Costo:** 800 mo; **Rarità:** Rara
 
 **Armatura** media o pesante, ma non di pelle +800 mo oltre il prezzo base dell'armatura. Il mithral è un metallo leggero e flessibile. Un giaco di maglia o un pettorale di mithral possono essere indossati sotto abiti normali. Riduce di 1 la categoria di peso per determinare penalità alle prove di competenza di Base e Magia.
 
-\oggettomagico{Munizione dell'Uccisione}
+### Munizione dell'Uccisione
 
 **Rarità:** Molto Raro; **Costo:** 700 mo
 
@@ -2050,7 +2063,7 @@ se una creatura appartenente al tipo, razza o gruppo a cui la **freccia** dell'u
 
 Una volta che la freccia dell'uccisione è stata scoccata diventa una freccia non magica.
 
-\oggettomagico{Munizione Fantasma}
+### Munizione Fantasma
 
 **Aura:** Trasmutazione moderata
 
@@ -2060,7 +2073,7 @@ Questa capacità può essere conferita solo alle **munizioni**. Una munizione co
 
 Il prezzo si riferisce a 50 Munizioni Fantasma.
 
-\oggettomagico{Munizioni Infinite}
+### Munizioni Infinite
 
 **Aura:** Evocazione moderata; **Costo:** 6000 mo
 
@@ -2070,7 +2083,7 @@ Solo **archi** e **balestre** possono essere rese armi dalle Munizioni Infinite.
 
 A differenza di una normale munizione per arco o balestra, queste frecce e quadrelli vengono sempre distrutti quando scagliati.
 
-\oggettomagico{Mutaforma}
+### Mutaforma
 
 **Aura:** Illusione moderata; **Costo:** 2000 mo
 
@@ -2078,53 +2091,53 @@ A differenza di una normale munizione per arco o balestra, queste frecce e quadr
 
 Ad un'**arma** Mutaforma può essere comandato di mutare la sua forma e apparire come un altro oggetto di taglia simile. L'arma conserva tutte le sue proprietà (compreso il peso) anche quando è mascherata, ma non irradia magia. Solo Visione del Vero o altre magie simili rivelano la reale natura dell'arma trasformata. Dopo che un'arma Mutaforma è stata usata per attaccare, questa capacità speciale viene soppressa per 1 minuto.
 
-\oggettomagico{Occhi Affascinanti}
+### Occhi Affascinanti
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
 mentre indossi queste **lenti** di cristallo davanti agli occhi, puoi spendere 1 carica con due azioni per lanciare l'incantesimo *Charme su Persone* (DC del Tiro Salvezza 15) su di un umanoide entro 9 metri da te, purché tu e il bersaglio vi possiate vedere. Le lenti hanno 3 cariche e recuperano 1 carica di quelle spese ogni giorno all'alba.
 
-\oggettomagico{Occhi dell'Aquila}
+### Occhi dell'Aquila
 
 **Rarità:** Non Comune; **Costo:** 4500 mo
 
 mentre indossi queste **lenti** di cristallo davanti agli occhi, hai +1d6 alle prove di Consapevolezza basate sulla vista. In condizioni di visibilità limpida, puoi distinguere i dettagli anche di creature e oggetti molto distanti delle dimensioni di 50 centimetri.
 
-\oggettomagico{Occhi della pietrificazione}
+### Occhi della pietrificazione
 
 queste due **lenti** di cristallo magico si sovrappongono alle pupille degli occhi. Quando una creatura mette queste lenti, viene immediatamente pietrificata senza Tiro Salvezza. Circa un quarto di questi oggetti (probabilità del 25\%) consentono invece a chi le mette di pietrificare con lo sguardo, ma in questo caso le vittime hanno diritto a un Tiro Salvezza DC 17. Non è possibile combinare due tipi di lenti magiche.
 
-\oggettomagico{Occhi della Vista Dettagliata}
+### Occhi della Vista Dettagliata
 
 **Rarità:** Non Comune; **Costo:** 2500 mo
 
 mentre indossi queste **lenti** di cristallo davanti agli occhi, puoi vedere molto meglio del normale fino a una distanza di 30 centimetri. Hai +1d6 alle prove di Consapevolezza basata su vista mentre perlustri un'area o studi un oggetto a distanza ravvicinata.
 
-\oggettomagico{Occhiali da Notte}
+### Occhiali da Notte
 
 **Rarità:** Non Comune; **Costo:** 3500 mo
 
 mentre indossi queste **lenti** scure, possiedi la scurovisione, con una gittata di 9 metri. Se già possiedi la scurovisione, indossare questi occhiali ne aumenta la gittata di 18 metri.
 
-\oggettomagico{Olio di Affilatezza}
+### Olio di Affilatezza
 
 **Rarità:** Molto Raro; **Costo:** 3200 mo
 
 quest'**olio** può ricoprire un'arma tagliente o perforante o fino a 5 munizioni taglienti o perforanti. Applicare l'olio richiede 1 minuto. Per 1 ora, l'arma ricoperta dall'olio è magica e ha un bonus di +3 ai Tiri per Colpire e danno.
 
-\oggettomagico{Olio di Forma Eterea}
+### Olio di Forma Eterea
 
 **Rarità:** Raro; **Costo:** 2000 mo
 
 una dose di **olio** è sufficiente a ricoprire una creatura di taglia Media o inferiore, e l'equipaggiamento che indossa e trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. Dopodiché la creatura ottiene l'effetto dell'incantesimo forma eterea per 1 ora.
 
-\oggettomagico{Olio di Scivolosita'}
+### Olio di Scivolosita'
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 l'**olio** può coprire una creatura di taglia Media o inferiore, insieme a tutto l'equipaggiamento che indossa o trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. La creatura ottiene poi il beneficio dell'incantesimo libertà di movimento per 8 ore. In alternativa, con due azioni si può versare l'olio sul terreno, duplicando per 8 ore l'effetto dell'incantesimo unto su quell'area.
 
-\oggettomagico{Armatura d'Ombra}
+### Armatura d'Ombra
 
 **Aura:** Illusione debole; **Costo:** 1875 mo
 
@@ -2132,7 +2145,7 @@ l'**olio** può coprire una creatura di taglia Media o inferiore, insieme a tutt
 
 Quest'**armatura** rende chi la indossa sfocato ogni volta che tenta di nascondersi, fornendo bonus di +4 alle sue prove di Furtività per nascondersi. La penalità di armatura alla prova si applica normalmente.
 
-\oggettomagico{Ospitale}
+### Ospitale
 
 **Aura:** Lista Animali e Piante moderata; **Costo:** 3750 mo
 
@@ -2144,7 +2157,7 @@ Mentre è immagazzinato, l'animale dorme e non dà alcun beneficio (come il bonu
 
 Dato che l'animale immagazzinato dorme anziché essere in animazione sospesa (o persino in letargo), invecchia e ha fame al ritmo normale mentre è immagazzinato. Un'armatura o uno scudo Ospitale rilascia automaticamente un animale immagazzinato 24 ore dopo che vi è stato immagazzinato all'interno.
 
-\oggettomagico{Palla di Cristallo}
+### Palla di Cristallo
 
 **Rarità:** Molto Raro; **Costo:** 50000 mo
 
@@ -2156,19 +2169,19 @@ una tipica **palla** di cristallo ha il diametro di circa 15 centimetri. Mentre 
 
 *Palla di Cristallo di Visione del Vero*. Questa palla di cristallo è di circa 12 centimetri di diametro. Mentre la tocchi, puoi lanciare tramite di essa l'incantesimo scrutare (DC del Tiro Salvezza 21). Mentre scruti con questa palla di cristallo, hai visione del vero con un raggio di 36 metri centrato sul sensore dell'incantesimo.
 
-\oggettomagico{Palla di Cristallo ipnotica}
+### Palla di Cristallo ipnotica
 
 **Rarità:** Raro
 
 questo oggetto **maledetto** è indistinguibile da una normale Palla di cristallo. Tuttavia chiunque tenti di usare il dispositivo rimane affascinato per 1d6 turni, ed una suggestione telepatica viene impiantata nella sua mente se fallisce un Tiro Salvezza su Volontà DC 27. L'utilizzatore del dispositivo crede di aver visto la creatura o scena desiderata, ma in realtà è sotto l'influenza di un potente incantatore, o addirittura una potenza o essere da un altro piano di esistenza. Ad ogni uso ulteriore l'utilizzatore cade sempre più sotto l'influenza del controllore, come servo o come strumento. L'utilizzatore è sempre ignaro di essere soggiogato.
 
-\oggettomagico{Pantofole del Ragno}
+### Pantofole del Ragno
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 mentre indossi queste **scarpe** leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di movimento. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su terreno difficile, come pareti coperte da ghiaccio, da olio, macerie...
 
-\oggettomagico{Perfida}
+### Perfida
 
 **Aura:** Evocazione debole; **Costo:** 3000 mo
 
@@ -2176,49 +2189,49 @@ mentre indossi queste **scarpe** leggere, puoi muoverti verso l'alto, il basso, 
 
 Quando ottieni un Tiro Critico con quest'**arma** magica infliggi un Tiro Critico aggiuntivo.
 
-\oggettomagico{Pergamena contro gli elementali}
+### Pergamena contro gli elementali
 
 **Rarità:** Raro; **Costo:** 800 mo
 
 questa **pergamena** protegge da tutti gli elementali per 20 round, concedendo +4 alla Difesa e Tiri Salvezza contro attacchi o effetti prodotti dagli elementali.
 
-\oggettomagico{Pergamena contro i licantropi}
+### Pergamena contro i licantropi
 
 **Rarità:** Non Comune; **Costo:** 700 mo
 
 questa **pergamena** protegge da tutti i licantropi per 20 round, concedendo +4 alla Difesa e Tiri Salvezza contro attacchi o effetti prodotti dai licantropi.
 
-\oggettomagico{Pergamena contro i non morti}
+### Pergamena contro i non morti
 
 **Rarità:** Non Comune; **Costo:** 900 mo
 
 questa **pergamena** protegge da tutti i non morti per 20 round, concedendo +4 alla Difesa e Tiri Salvezza contro attacchi o effetti prodotti dai non morti.
 
-\oggettomagico{Pergamena degli Incantesimi}
+### Pergamena degli Incantesimi
 
 questa **pergamena** degli incantesimi riporta le parole di un singolo incantesimo, scritte in un codice mistico. Vedi Creare Pergamene, pag. .
 
 Lanciare l'incantesimo leggendolo da una pergamena richiede il normale tempo di lancio dell'incantesimo. Una volta che l'incantesimo è stato lanciato, le parole sulla pergamena svaniscono, e la pergamena viene ridotta in polvere. Se il lancio viene interrotto, la pergamena non si dissolve.
 
-\oggettomagico{Pergamena protettiva contro la magia}
+### Pergamena protettiva contro la magia
 
 **Rarità:** Raro; **Costo:** 1500 mo
 
 la **pergamena** lancia un incantesimo di Campo Anti-Magia.
 
-\oggettomagico{Perla del Potere}
+### Perla del Potere
 
 **Rarità:** Non Comune; **Costo:** 6000 mo
 
 mentre hai la **perla** con te, puoi usare due azioni per recuperare 1d4 Punti Magia. Una volta usata, la perla non potrà essere usata di nuovo fino alla prossima alba. Esistono varianti più potenti che fanno recuperare più punti.
 
-\oggettomagico{Perla della Saggezza}
+### Perla della Saggezza
 
 **Rarità:** Raro; **Costo:** 20000 mo
 
 questa **perla** magica dona un punto di Saggezza extra che la tiene con sé per 4 settimane. Trascorso questo tempo la perla dovrà essere sempre portata per non perderne i benefici. C'è un 5\% di probabilità che una perla sia maledetta e sortisca l'effetto opposto. In questo caso, dopo 4 settimane, l'effetto negativo è permanente e cancellabile solo da desiderio.
 
-\oggettomagico{Pietosa}
+### Pietosa
 
 **Aura:** Evocazione debole; **Costo:** 3000 mo
 
@@ -2228,7 +2241,7 @@ Tutto il danno inflitto dall'**arma** è temporaneo.
 
 A comando, come Azione Immediata, l'arma sopprime questa capacità fino a quando non le viene ordinato di riattivarla.
 
-\oggettomagico{Pietra Arcana}
+### Pietra Arcana
 
 **Rarità:** Molto Raro; **Costo:** 3000 mo
 
@@ -2257,29 +2270,29 @@ Una pietra ha Difesa 24, 10 Punti Ferita e resistenza a tutti i danni. Mentre or
 
 *Sostentamento* (raro, 3500 mo). Mentre orbita intorno alla tua testa non hai bisogno di mangiare né di bere.
 
-\oggettomagico{Pietra degli Elementali della Terra}
+### Pietra degli Elementali della Terra
 
 **Rarità:** Raro; **Costo:** 8000 mo
 
 se la **pietra** tocca terra, puoi usare due azioni per pronunciare la parola di comando ed evocare un elementale della terra, come se avessi lanciato l'incantesimo evocare elementali. La pietra non può di nuovo essere usata a questo modo, fino alla prossima alba. La pietra pesa 2,5 chili, ingombro 3.
 
-\oggettomagico{Pietra del Peso}
+### Pietra del Peso
 
 questo oggetto sembra un **sasso** nero liscio e lucido. Quando chi la porta è coinvolto in un combattimento o in una fuga, subisce improvvisamente gli effetti dell'incantesimo *lentezza*. Una volta presa, la pietra non può essere buttata via normalmente, poiché dopo poco tempo riappare magicamente sulla persona del possessore. Per liberarsi definitivamente della pietra occorre l'incantesimo Rimuovi Maledizione.
 
-\oggettomagico{Pietra della Buona Sorte}
+### Pietra della Buona Sorte
 
 **Rarità:** Non Comune; **Costo:** 4500 mo
 
 finché la **pietra** è con te, ottieni un bonus di +1 alle prove su competenze di base e ai Tiri Salvezza.
 
-\oggettomagico{Pietre parlanti}
+### Pietre parlanti
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
 queste due **pietre** vendute sempre a coppia permettono la comunicazione a distanza tra i loro utilizzatori. Non c'è limite di distanza o Piano. Le pietre possono essere usate per 10 minuti al giorno, poi vanno esposte alla luce solare per almeno 3 ore. Ingombro L.
 
-\oggettomagico{Piffero delle Fogne}
+### Piffero delle Fogne
 
 **Rarità:** Non Comune; **Costo:** 2000 mo
 
@@ -2289,13 +2302,13 @@ Ogni qualvolta uno sciame di ratti che non sia sotto il controllo di un'altra cr
 
 Se uno sciame amichevole all'inizio del round non può udire la musica del piffero, il tuo controllo su quello sciame termina, e lo sciame si comporta come farebbe normalmente e non può essere attirato nuovamente dalla musica del piffero per le successive 24 ore.
 
-\oggettomagico{Piffero dello Spavento}
+### Piffero dello Spavento
 
 **Rarità:** Non Comune; **Costo:** 6000 mo
 
 devi essere competente con gli strumenti a fiato per usare questo **piffero**. Puoi usare due azioni per suonarlo e spendere 1 carica per creare un suono incantevole e spettrale. Ogni creatura entro 9 metri da te e che ti oda suonare deve superare un Tiro Salvezza su Volontà con DC 21 o restare spaventata da te per 1 minuto. Se lo desideri, tutte le creature nell'area che non ti siano ostili possono superare automaticamente il loro Tiro Salvezza. Una creatura che fallisca il Tiro Salvezza può ripeterlo alla fine del suo round, terminando l'effetto su di sé in caso lo superi. Una creatura che superi il Tiro Salvezza è immune all'effetto di questo piffero per 24 ore. Il piffero ha 3 cariche e recupera 1 carica ogni giorno all'alba.
 
-\oggettomagico{Pigmenti delle Meraviglie}
+### Pigmenti delle Meraviglie
 
 **Rarità:** Molto Raro; **Costo:** 400 mo
 
@@ -2309,7 +2322,7 @@ Nulla di ciò che viene creato dai pigmenti può avere un valore superiore ai 25
 
 Se dipingi una forma di energia, come fuoco o fulmine, l'energia compare ma si dissipa non appena completi il dipinto, senza recare danni a niente.
 
-\oggettomagico{Piuma Arcana}
+### Piuma Arcana
 
 **Rarità:** variabile; **Costo:** 50 mo
 
@@ -2327,7 +2340,7 @@ questo minuscolo oggetto assomiglia a una **piuma**. Esistono diversi tipi di pi
 
 *Ventaglio*. Se ti trovi su di una barca o una nave, puoi usare due azioni per lanciare la piuma arcana fino a 3 metri in aria. La piuma svanisce e un gigantesco ventaglio compare al suo posto. Il ventaglio fluttua e crea un vento forte abbastanza da gonfiare le vele della nave, aumentandone la velocità di 7,5 chilometri all'ora per 8 ore. Puoi congedare il ventaglio con due azioni. 250 mo
 
-\oggettomagico{Polvere dell'Aridita'}
+### Polvere dell'Aridita'
 
 **Rarità:** Raro; **Costo:** 120 mo
 
@@ -2337,25 +2350,25 @@ Chiunque può usare due azioni per spaccare la pallina contro una superficie dur
 
 Un elementale composto principalmente d'acqua e che venga esposto a un pizzico di questa polvere, deve effettuare un tiro Salvezza su Tempra con DC 15, subendo 10d6 danni da Vuoto se lo fallisce, o la metà di questi danni se lo riesce.
 
-\oggettomagico{Polvere della Sparizione}
+### Polvere della Sparizione
 
 **Rarità:** Raro; **Costo:** 700 mo
 
 rinvenuta in piccoli sacchetti, questa **polverina** sembra sabbia molto sottile. In un sacchetto ce n'è a sufficienza per un uso. Quando usi due azioni per lanciare la polvere in aria, tu e ciascuna creatura e oggetto entro 3 metri da te diventate invisibili per 2d4 minuti. La durata è la stessa per tutti i soggetti e quando la magia prende effetto la polvere si consuma. Se una creatura sotto l'effetto della polvere attacca o lancia un incantesimo, l'invisibilità ha fine solo per quella creatura.
 
-\oggettomagico{Polvere dello Starnuto e del Soffocamento}
+### Polvere dello Starnuto e del Soffocamento
 
 **Rarità:** Non Comune; **Costo:** 480 mo
 
 trovata in piccoli contenitori, questa **polverina** sembra sabbia sottile. Appare simile alla polvere della sparizione e l'incantesimo identificare la rivela come tale. Ce n'è a sufficienza per un uso. Quando usi due azioni per lanciare una manciata di polvere in aria tu e tutte le creature che necessitano di respirare e si trovino entro 9 metri da te dovete superare un tiro Salvezza su Tempra con DC 17 o smettere di respirare, e iniziare a starnutire in maniera incontrollabile. Una creatura afflitta a questo modo è inabile e soffoca. Finché è cosciente, la creatura può ripetere il Tiro Salvezza alla fine di ciascun suo round, terminando l'effetto in caso lo superi. Anche l'incantesimo ristorare inferiore può terminare l'effetto che affligge la creatura.
 
-\oggettomagico{Polvere Rivelatrice}
+### Polvere Rivelatrice
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 questa polverina sottile sembra un **pulviscolo** metallico molto leggero. Una manciata di questa sostanza spruzzata in aria ricopre tutti gli oggetti in un raggio di 3 metri, rendendo ogni cosa visibile. Se viene spruzzata attraverso una cerbottana, la polvere riempie un cono lungo 6 metri e largo 1 metro all'estremità. La polvere annulla gli effetti di potere illusorio, del mantello distorcente, del mantello elfico e le capacità speciali di creature come i molossi instabili e le pantere distorcenti; l'effetto dura 2d10 turni. La polvere rivelatrice di solito viene conservata in piccoli sacchetti di seta o in tubetti cavi fatti d'osso; normalmente si trovano 5d10 dosi di polvere.
 
-\oggettomagico{Portale Cubico}
+### Portale Cubico
 
 **Rarità:** Leggendario; **Costo:** 40000 mo
 
@@ -2363,195 +2376,192 @@ questo **cubo** di 7,5 centimetri di spigolo irradia una palpabile energia magic
 
 Puoi usare due azioni per premere una faccia del cubo per lanciare tramite esso l'incantesimo portale, aprendo un passaggio verso il piano collegato a quella faccia. In alternativa, se usi due azioni per premere una faccia due volte, puoi spostarti di un piano (DC del Tiro Salvezza 17) tramite il cubo e trasportarne i bersagli al piano collegato a quella faccia. Il cubo ha 3 cariche. Ogni uso del cubo spende 1 carica. Il cubo recupera 1 carica spesa ogni giorno all'alba.
 
-\oggettomagico{Pozione dell'Inganno}
+### Pozione dell'Inganno
 
 **Rarità:** Rara; **Costo:** 500 mo
 
 questa **pozione** ha un nome quanto mai appropriato, poiché convince chi la beve di aver ingerito una pozione di un altro tipo. Per esempio, una finta "pozione di chiaraudienza" potrebbe far sentire a chi l'ha bevuta suoni che in realtà non esistono. Se più persone assaggiano questa pozione, c'è una probabilità del 90\% che concordino nel ritenerla dello stesso tipo.
 
-\oggettomagico{Pozione dell'invulnerabilita'}
+### Pozione dell'invulnerabilita'
 
 **Rarità:** Rara; **Costo:** 800 mo
 
 una **pozione** di invulnerabilità conferisce a chi la beve un bonus +2 ai Tiri Salvezza e un miglioramento di 2 punti la Difesa per 10 minuti.
 
-\oggettomagico{Pozione della Chiaraudienza animale}
+### Pozione della Chiaraudienza animale
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 non comune, questa **pozione** conferisce a chi la beve la facoltà di percepire i suoni attraverso le orecchie di un animale che si trovi in un raggio di 18 metri. Una barriera di piombo blocca questo effetto.
 
-\oggettomagico{Pozione della Chiaroveggenza animale}
+### Pozione della Chiaroveggenza animale
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 non comune,questa **pozione** conferisce a chi la beve la facoltà di vedere attraverso gli occhi di un animale che si trovi in un raggio di 18 metri. Una barriera di piombo blocca questo effetto.
 
-\oggettomagico{Pozione della Levitazione}
+### Pozione della Levitazione
 
 **Rarità:** Non Comune; **Costo:** 200 mo
 
 questa **pozione** ha lo stesso effetto dell'incantesimo levitazione.
 
-\oggettomagico{Pozione della Longevita'}
+### Pozione della Longevita'
 
 **Rarità:** Leggendaria; **Costo:** 15000 mo
 
 questa **pozione** fa ringiovanire di 1d12 anni. La giovinezza riguadagnata non annulla soltanto l'invecchiamento naturale, ma anche l'invecchiamento causato da effetti magici o creature. Esiste un pericolo nell'usare questa pozione, poiché ogni volta che si beve una pozione di longevità, c'è una probabilità cumulativa dell'1\% che tutti i benefici precedentemente guadagnati con pozioni di questo tipo siano annullati. Non è possibile consumare una dose parziale di questa pozione.
 
-\oggettomagico{Pozione della Metamorfosi}
+### Pozione della Metamorfosi
 
 **Rarità:** Rara; **Costo:** 2500 mo
 
 questa **pozione** conferisce un potere analogo all'incantesimo metamorfosi.
 
-\oggettomagico{Pozione di Amicizia con gli Animali}
+### Pozione di Amicizia con gli Animali
 
 **Rarità:** Non Comune; **Costo:** 200 mo
 
 quando bevi questa **pozione**, per 1 ora puoi lanciare a volontà l'incantesimo Amicizia con gli Animali (DC del Tiro Salvezza 15).
 
-\oggettomagico{Pozione di Arrampicata}
+### Pozione di Arrampicata
 
 **Rarità:** Comune; **Costo:** 250 mo
 
 quando bevi questa **pozione**, per 1 ora ottieni velocità di scalata pari alla tua velocità di movimento. Durante questo periodo hai +1d6 alle prove di Resistenza che compi per effettuare una scalata.
 
-\oggettomagico{Pozione di Controllo degli animali}
+### Pozione di Controllo degli animali
 
 **Rarità:** Rara; **Costo:** 1500 mo
 
 chiunque beva questa **posizione** è come avesse lanciato Dominare Bestie
 
-\oggettomagico{Pozione di Controllo dei draghi}
+### Pozione di Controllo dei draghi
 
 **Rarità:** Leggendaria; **Costo:** 5000 mo
 
 questa **pozione** conferisce un potere equivalente all'incantesimo dominare mostri su un singolo tipo di drago. E' possibile controllare un drago entro 18 metri per 5d4 round.
 
-\oggettomagico{Pozione di Controllo dei non morti}
+### Pozione di Controllo dei non morti
 
 **Rarità:** Rara; **Costo:** 2500 mo
 
 anche se normalmente i non morti sono immuni a questo tipo di effetti, questa **pozione** permette a chi la beve di influenzare fino a 4 non morti con GS 3 o meno (intelligenti o no) come se usasse l'incantesimo charme. La durata dell'effetto è di 5d4 round.
 
-\oggettomagico{Pozione di Controllo delle persone}
+### Pozione di Controllo delle persone
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 una volta ingerita, questa **pozione** conferisce a chi la beve un potere analogo all'incantesimo charme.
 
-\oggettomagico{Pozione di Controllo delle piante}
+### Pozione di Controllo delle piante
 
 **Rarità:** Rara; **Costo:** 1500 mo
 
 chi beve questa **pozione** è in grado di controllare tutte le piante e le creature vegetali (compresi i funghi) in un'area quadrata di 6x6 m ed entro una distanza di 27 metri. L'effetto dura 5d4 round. Le piante obbediscono secondo le loro possibilità (ad esempio, le liane possono attorcigliarsi e infittirsi, causando lentezza o impedimento alla vista). E' possibile dare ordini a creature vegetali senzienti, ma queste hanno diritto a un Tiro Salvezza su Volontà DC 19. Come per altri tipi di ammaliamento, non si può ordinare a una creatura controllata di farsi male da sola.
 
-\oggettomagico{Pozione di Crescita}
+### Pozione di Crescita
 
 **Rarità:** Raro; **Costo:** 300 mo
 
 quando bevi questa **pozione** per 1d4 ore ottieni l'effetto ingrandire o ridurre dell'incantesimo ingrandire (non richiede concentrazione).
 
-\oggettomagico{Pozione di Eroismo}
+### Pozione di Eroismo
 
 **Rarità:** Raro; **Costo:** 200 mo
 
 quando bevi questa **pozione**, ottieni 10 Punti Ferita temporanei che durano 1 ora. Per la stessa durata sei sotto l'effetto dell'incantesimo benedizione (non richiede concentrazione).
 
-\oggettomagico{Pozione di Forma Gassosa}
+### Pozione di Forma Gassosa
 
 **Rarità:** Raro; **Costo:** 1500 mo
 
 quando bevi questa **pozione**, per 1 ora o finché non terminerai l'effetto con due azioni ottieni l'effetto dell'incantesimo forma gassosa (non richiede concentrazione).
 
-\oggettomagico{Pozione di Forza dei Giganti}
+### Pozione di Forza dei Giganti
 
 **Rarità:** Molto Raro; **Costo:** 500 mo
 
 quando bevi questa **pozione**, per 1 ora il tuo punteggio di Forza cambia. Il tipo di gigante determina il punteggio (vedi la tabella seguente). La pozione non ha effetto se il tuo punteggio di Forza è pari o superiore al nuovo punteggio. La pozione della forza del gigante del gelo e la pozione della forza del gigante di pietra hanno lo stesso effetto.
 
- \setlength\itemsep{0em}
 - delle colline, Forza 5 500 mo
 - di pietra o del gelo, Forza 6 1000 mo
 - del fuoco, Forza 7 2000 mo
 - delle nuvole, Forza 8 5000 mo
 - delle tempeste, Forza 9 10000 mo
 
-\oggettomagico{Pozione di Guarigione}
+### Pozione di Guarigione
 
 **Rarità:** Non Comune; **Costo:** 50 mo
 
 quando bevi da **questa** pozione, recuperi un numero di Punti Ferita che varia a seconda della rarità della pozione di guarigione.
 
- \setlength\itemsep{0em}
 - **Comune**, Punti Ferita 1d8 + 1. Comune, 50 mo
 - **Potenziata**, Punti Ferita 3d8 +3. Non Comune, 125 mo
 - **Maggiore**, Punti Ferita 3d10 +30. Rara, 300 mo
 - **Suprema**, Punti Ferita 5d10 + 50. Molto Rara, 1500 mo
 
-\oggettomagico{Pozione di Invisibilita'}
+### Pozione di Invisibilita'
 
 **Rarità:** Molto Raro; **Costo:** 200 mo
 
 quando bevi questa **pozione**, per 1 ora diventi invisibile. Mentre sei invisibile, tutto ciò che trasporti o indossi resta anch'esso invisibile assieme a te. L'effetto ha termine qualora tu attacchi o lanci un incantesimo.
 
-\oggettomagico{Pozione di Lettura del Pensiero}
+### Pozione di Lettura del Pensiero
 
 **Rarità:** Raro; **Costo:** 200 mo
 
 quando bevi questa **pozione**, ottieni l'effetto dell'incantesimo individuazione dei pensieri (DC del Tiro Salvezza 15).
 
-\oggettomagico{Pozione di Resistenza}
+### Pozione di Resistenza
 
 **Rarità:** Non Comune; **Costo:** 300 mo
 
 quando bevi questa **pozione**, per 1 ora ottieni resistenza a un tipo di danno. Il Narratore sceglie il tipo di danno o lo determina casualmente (Acido, Freddo, Fuoco, Fulmine, Veleno, Suono, Luce, Vuoto)
 
-\oggettomagico{Pozione di Respirare Sott'Acqua}
+### Pozione di Respirare Sott'Acqua
 
 **Rarità:** Non Comune; **Costo:** 200 mo
 
 dopo aver bevuto questa **pozione**, puoi respirare sott'acqua per 1 ora.
 
-\oggettomagico{Pozione di Rimpicciolimento}
+### Pozione di Rimpicciolimento
 
 **Rarità:** Raro; **Costo:** 300 mo
 
 quando bevi questa **pozione** per 1d4 ore ottieni l'effetto ridurre dell'incantesimo  ridurre (non richiede concentrazione).
 
-\oggettomagico{Pozione di Veleno}
+### Pozione di Veleno
 
 **Rarità:** Non Comune; **Costo:** 35mo
 
 Sono presenti diversi tipi di **veleni**:
 
- \setlength\itemsep{0em}
 - **Indebolente**, DC 15 Tempra oppure -2 Tiri per Colpire e Tiri Salvezza per 1 minuto. Non comune, 35mo
 - **Indebolente potenziata**, DC 18 Tempra, -1d6 Tiri per Colpire e Tiri Salvezza per 1 Turno, 50 mo
 - **Veleno**, subisci 2d6+2 di danno. TS DC 15 Tempra. Non Comune, 30 mo
 - **Veleno potenziata**, subisci 2d8+4 di danno. TS DC 18 Tempra. Rara, 50 mo
 - **Veleno maggiore**, subisci 4d10+8 di danno. TS DC 24 Tempra. Molto Rara, 125 mo
 
-\oggettomagico{Pozione di Velocita'}
+### Pozione di Velocita'
 
 **Rarità:** Molto Raro; **Costo:** 400 mo
 
 quando bevi questa **pozione**, ottieni l'effetto dell'incantesimo *Velocità* per 1 minuto.
 
-\oggettomagico{Pozione di Volo}
+### Pozione di Volo
 
 **Rarità:** Molto Raro; **Costo:** 500 mo
 
 quando bevi questa **pozione**, per 10 minuti ottieni velocità di volo pari alla tua normale velocità di movimento e puoi fluttuare. Se la pozione ha termine mentre stai volando, cadi a meno che non possiedi qualche altro metodo per restare in aria.
 
-\oggettomagico{Pozzo dei Molti Mondi}
+### Pozzo dei Molti Mondi
 
 **Rarità:** Leggendario; **Costo:** 75000 mo
 
 questo elegante **tessuto** nero, soffice come la seta, è avvolto fino alle dimensioni di un fazzoletto. Si dispiega in un foglio circolare di 1,8 metri di diametro. Puoi usare due azioni per dispiegare e piazzare il pozzo dei molti mondi su di una superficie solida, su cui crea un portale bidirezionale verso un altro mondo o piano di esistenza. Ogni volta che l'oggetto apre un portale, il Narratore decide il posto a cui conduce. Puoi usare due azioni per chiudere un portale aperto afferrando i margini del tessuto e ripiegandoli. Una volta che un pozzo dei molti mondi ha aperto un portale, non potrà farlo di nuovo prima che siano passate 1d8 ore.
 
-\oggettomagico{Resistenza al Veleno}
+### Resistenza al Veleno
 
 **Aura:** Trasmutazione debole; **Costo:** 1125 mo
 
@@ -2559,7 +2569,7 @@ questo elegante **tessuto** nero, soffice come la seta, è avvolto fino alle dim
 
 Un'**armatura** o uno **scudo** con questa capacità speciale conferisce a chi lo indossa Bonus di +2 ai Tiri Salvezza contro il veleno.
 
-\oggettomagico{Resistenza all'Energia}
+### Resistenza all'Energia
 
 **Aura:** Abiurazione debole; **Costo:** 9000 mo
 
@@ -2567,7 +2577,7 @@ Un'**armatura** o uno **scudo** con questa capacità speciale conferisce a chi l
 
 Questo tipo di **armatura** o **scudo** protegge contro un tipo di energia (Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto) ed è decorata da disegni che raffigurano l'elemento dal quale protegge. L'armatura o lo scudo concedono Riduzione 6 ai danni di energia per attacco che verrebbero subiti normalmente da chi li indossa.
 
-\oggettomagico{Resistenza all'Energia Superiore}
+### Resistenza all'Energia Superiore
 
 **Aura:** Abiurazione moderata; **Costo:** 21000 mo
 
@@ -2575,19 +2585,19 @@ Questo tipo di **armatura** o **scudo** protegge contro un tipo di energia (Fuoc
 
 Questo tipo di **armatura** o **scudo** protegge contro un tipo di energia (Fuoco, Luce, Suono, Elettricità, Energia Positiva, Energia Negativa, Freddo, Vuoto) ed è decorata da disegni che raffigurano l'elemento dal quale protegge. L'armatura o lo scudo concedono Resistenza all'energia indicata.
 
-\oggettomagico{Rete Intralciante}
+### Rete Intralciante
 
 **Rarità:** Raro; **Costo:** 800 mo
 
 questa **rete** quadrata di 3 metri di lato può essere lanciata a un avversario per intralciarlo. La rete è molto resistente e occorre la forza di un gigante (DC 20) per strapparla a mani nude. La rete resiste anche ai tagli, e deve essere colpita con estrema precisione (Difesa 25, Punti Ferita 30) affinché ceda. La rete può anche essere appesa o messa sul terreno come una trappola, che si attiverà magicamente al comando del possessore.
 
-\oggettomagico{Rete Intrappolante}
+### Rete Intrappolante
 
 **Rarità:** Raro; **Costo:** 900 mo
 
 questa **rete** può essere usata solo sott'acqua, ma funziona esattamente come una rete intralciante in superficie, fluttuando se occorre fino a 9 m di distanza per avvinghiare un avversario.
 
-\oggettomagico{Ricercante}
+### Ricercante
 
 **Aura:** Divinazione forte; **Costo:** 3000 mo
 
@@ -2595,7 +2605,7 @@ questa **rete** può essere usata solo sott'acqua, ma funziona esattamente come 
 
 Questa capacità può essere aggiunta solo ad **armi a distanza**. Un arma Ricercante vira verso il suo bersaglio individuato, negando qualsiasi bonus dovuto alla copertura.
 
-\oggettomagico{Ritornante}
+### Ritornante
 
 **Aura:** Evocazione moderata; **Costo:** 3000 mo
 
@@ -2603,7 +2613,7 @@ Questa capacità può essere aggiunta solo ad **armi a distanza**. Un arma Ricer
 
 Un'**arma** Ritornante può teletrasportarsi nelle mani del suo possessore come Azione Immediata, anche se si trova in possesso di un'altra creatura. Questa capacità ha un raggio massimo di 30 metri e gli effetti che bloccano il teletrasporto impediscono il ritorno di un'arma Ritornante. Un'arma Ritornante deve essere in possesso di una creatura per almeno 24 ore perché questa capacità funzioni.
 
-\oggettomagico{Sacra}
+### Sacra
 
 **Aura:** Invocazione forte; **Rarità:** Rara; **Costo:** 10000 mo
 
@@ -2613,7 +2623,7 @@ Quando con essa colpisci un immondo o un non morto, quella creatura subisce 2d10
 
 Mentre impugni l'**arma** sguainata essa crea un'aura di 3 metri di raggio attorno a te. Tu e tutte le creature a te amichevoli all'interno dell'aura ottenete +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici generati da Seguaci o Devoti di altri Patroni. Se hai Tratti in comune con il Patrono 13 o più, il raggio dell'aura aumenta a 9 metri.
 
-\oggettomagico{Scaglie di Drago}
+### Scaglie di Drago
 
 **Aura:** Abiurazione moderata; **Costo:** 8000 mo; **Rarità:** Leggendaria
 
@@ -2625,11 +2635,11 @@ Mentre la indossi hai +1d6 ai Tiri Salvezza contro la Presenza Spaventosa e le a
 
 Inoltre, con due azioni puoi focalizzare i tuoi sensi per determinare magicamente la distanza e la direzione in cui si trovi il drago più vicino entro 45 chilometri che sia della stessa specie dell'armatura. Quest'azione speciale non può essere più usata fino alla prossima alba.
 
-\oggettomagico{Scarabeo della Morte}
+### Scarabeo della Morte
 
 questa **spilla** a forma di scarabeo sembra un semplice portafortuna. Tuttavia, se tenuto in mano per 1 round o portato per 1 Turno, si trasforma in un orrendo insetto carnivoro. Dotata di potenti mandibole, la famelica creatura penetra attraverso il cuoio e il tessuto, affondando nella carme e raggiungendo il cuore in 1 round. Dopo aver ucciso la sua vittima, la creatura riassume la forma di spilla. Solo il calore che viene dal contatto con un essere vivente può animare l'insetto mostruoso, quindi mettere la spilla in una scatola o in una teca è una precauzione sufficiente per evitare ogni pericolo.
 
-\oggettomagico{Scarabeo di Protezione}
+### Scarabeo di Protezione
 
 **Rarità:** Leggendario; **Costo:** 36000 mo
 
@@ -2639,15 +2649,15 @@ se tieni questo **medaglione** a forma di scarabeo tra le tue mani per 1 round, 
 
 - Lo scarabeo ha 12 cariche. Se fallisci un Tiro Salvezza contro un incantesimo di necromanzia o un effetto nocivo originante da una creatura non morta, puoi usare una Azione di Reazione per spendere 1 carica e trasformare il Tiro Salvezza fallito in un successo. Lo scarabeo si riduce in polvere ed è distrutto quando viene spesa la sua ultima carica.
 
-\oggettomagico{Scopa del Volo maledetto}
+### Scopa del Volo maledetto
 
 questa **scopa** magica sembra una scopa volante. Tuttavia, quando viene attivata, vola fino a 15 m di altezza o fino al soffitto (se più basso) e poi smette di funzionare, facendo precipitare chi la cavalca.
 
-\oggettomagico{Scopa dell'Attacco animato}
+### Scopa dell'Attacco animato
 
 questo oggetto è indistinguibile in apparenza da una **scopa** normale. A tutti i test risulta identica ad una scopa volante, fino vola a 6 metri d'altezza. Quando ciò avviene la scopa esegue una piroetta e fa cadere il suo pilota sulla testa da un'altezza di 1d4+5 x 30 cm (non viene inflitto danno da caduta poiché la distanza è inferiore a 3 m). La scopa quindi attacca la vittima, colpendola in viso con la spazzola e battendola con il manico. La scopa effettua due attacchi per round con ciascuna estremità (due attacchi con la spazzola e due col manico per un totale di quattro attacchi). La spazzola acceca la vittima per 1 round quando colpisce. Il manico infligge 1d3 ferite. La scopa ha Difesa 13, 18 Punti Ferita, e ha +4 al Tiro per Colpire.
 
-\oggettomagico{Scopa Volante}
+### Scopa Volante
 
 **Rarità:** Non Comune; **Costo:** 8000 mo
 
@@ -2655,7 +2665,7 @@ questa **scopa** di legno, del peso di circa 1,5 chili (ingombro 2), funziona co
 
 Pronunciando la parola di comando, nominando il posto e se vi sei familiare, puoi inviare la scopa da sola in un posto fino a 1,5 chilometri da te. La scopa tornerà da te quando pronuncerai un'altra parola di comando, purché si trovi ancora entro 1,5 chilometri da te.
 
-\oggettomagico{Scudo Animato}
+### Scudo Animato
 
 **Aura:** Trasmutazione forte; **Costo:** 6000 mo
 
@@ -2665,7 +2675,7 @@ Mentre impugni questo **scudo**, con due azioni puoi pronunciare una parola di c
 
 Lo scudo resta animato per 1 minuto, finché non usi due azioni per terminarne l'effetto, sei inabile o muori, a quel punto lo scudo cadrà a terra o tornerà nella tua mano se ne hai una libera.
 
-\oggettomagico{Scudo dell'Attrazione dei Proiettili}
+### Scudo dell'Attrazione dei Proiettili
 
 **Aura:** Trasmutazione forte; **Costo:** 2000 mo
 
@@ -2677,7 +2687,7 @@ Mentre impugni questo **scudo** apparentemente hai resistenza ai danni da parte 
 
 Togliersi lo scudo non pone fine alla maledizione (DC 28). Ogni qualvolta un attacco con arma a distanza viene effettuato contro un bersaglio entro 3 metri da te, la maledizione fa sì che diventi tu il bersaglio dell'attacco.
 
-\oggettomagico{Sfera dell'Annientamento}
+### Sfera dell'Annientamento
 
 **Rarità:** Leggendario; **Costo:** 250000 mo
 
@@ -2689,7 +2699,7 @@ La sfera resta immobile fino a quando qualcuno non la controlla. Se ti trovi ent
 
 Se tenti di controllare una sfera che si trova sotto il controllo di un'altra creatura, effettui una prova contrastata di arcana contro arcana dell'altra creatura. Il vincitore della contesa ottiene il controllo della sfera e può farla levitare come di norma.
 
-\oggettomagico{Soffio del Dragone}
+### Soffio del Dragone
 
 **Aura:** Invocazione debole; **Costo:** 2500 mo
 
@@ -2699,13 +2709,13 @@ Uno **scudo** con questa capacità speciale di solito è realizzato con le fauci
 
 A comando, 2 Azioni, chi lo indossa può consumare da 1 a 5 cariche dello scudo per fargli emettere un Soffio in un cono di 3 metri che infligge 1d4 danni da energia per carica consumata (Riflessi DC 13 dimezza). Questo danno è dello stesso tipo di energia legato allo scudo. Uno scudo non può avere più di una capacità Soffio del Dragone.
 
-\oggettomagico{Solvente Universale}
+### Solvente Universale
 
 **Rarità:** Leggendario; **Costo:** 300 mo
 
 questo **tubetto** contiene un liquido bianco con un forte odore di alcool. Puoi usare due azioni per versarne i contenuti su di una superficie a portata. Il liquido dissolve istantaneamente 1000 cm x cm di adesivo con cui entra in contatto, compresa la colla suprema.
 
-\oggettomagico{Specchio dell'Abilita' mentale}
+### Specchio dell'Abilita' mentale
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
@@ -2719,13 +2729,13 @@ questo oggetto sembra un normale **specchio** alto un metro e mezzo e largo 60 c
 
 - Una volta alla settimana, lo specchio può rispondere con precisione a una domanda riguardante una persona riflessa sulla sua superficie (un effetto simile all'incantesimo conoscenza delle leggende).
 
-\oggettomagico{Specchio della Duplicazione}
+### Specchio della Duplicazione
 
 **Rarità:** Leggendario
 
 leggendario, questo **specchio** è alto un pò più di un metro e largo un pò di meno. Quando una creatura si riflette sulla superficie dello specchio, la sua immagine riflessa (un duplicato identico in tutto e per tutto) esce per attaccare l'originale. Il duplicato ha tutto l'equipaggiamento e i poteri dell'originale, compresa la magia. Il duplicato sparisce immediatamente, assieme a tutti i suoi oggetti, alla morte sua o dell'originale.
 
-\oggettomagico{Specchio Intrappola Vita}
+### Specchio Intrappola Vita
 
 **Rarità:** Raro; **Costo:** 18000 mo
 
@@ -2743,95 +2753,95 @@ Mentre ti trovi entro 1 metro dallo specchio, puoi usare due azioni per pronunci
 
 In un modo simile, puoi usare due azioni per pronunciare una seconda parola di comando e liberare una delle creature intrappolate nello specchio. La creatura liberata compare, insieme a tutte le sue proprietà, nello spazio non occupato più vicino allo specchio e rivolta nella direzione opposta a esso.
 
-\oggettomagico{Spilla della Difesa}
+### Spilla della Difesa
 
 **Rarità:** Non Comune; **Costo:** 7500 mo
 
 la **spilla** può assorbire 101 danni da incantesimi di Forza, poi perde le sue proprietà magiche.
 
-\oggettomagico{Stivali Alati}
+### Stivali Alati
 
 **Rarità:** Raro; **Costo:** 15000 mo
 
 mentre indossi questi **stivali**, hai una velocità di volo pari alla tua velocità di movimento. Puoi usare questi stivali per volare per un massimo di 4 ore, tutte insieme o divise in brevi voli, ciascuno dei quali impiega un minimo di 1 minuto di durata. Se la durata termina mentre stai volando, scendi alla velocità di 9 metri per round finché non atterri. Gli stivali recuperano 2 ore di capacità di volo ogni alba.
 
-\oggettomagico{Stivali Danzanti}
+### Stivali Danzanti
 
 questi **stivali** maledetti funzionano come altri stivali magici. Tuttavia, quando il personaggio entra in combattimento o tenta di fuggire da un potenziale combattimento, egli viene affetto da un incantesimo danza irresistibile, senza possibilità di Tiro Salvezza. E' possibile rimuovere gli Stivali Danzanti con l'incantesimo Rimuovi Maledizione o Desiderio.
 
-\oggettomagico{Stivali degli Elfi}
+### Stivali degli Elfi
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
 mentre indossi questi **stivali**, i tuoi passi non emettono suoni, quale che sia la superficie che stai attraversando. Il muoverti silenziosamente non ti obbliga a trattare il terreno come difficile (ma potrebbe comunque esserlo).
 
-\oggettomagico{Stivali dell'Inverno}
+### Stivali dell'Inverno
 
 **Costo:** 10000 mo
 
 mentre indossi questi **stivali** hai resistenza ai danni da freddo, ignori il terreno difficile prodotto da neve o ghiaccio. Puoi tollerare le temperature fino ai -45° C senza bisogno di ulteriori protezioni. Se indossi abiti pesanti, puoi tollerare temperature fino a -75° C.
 
-\oggettomagico{Stivali della Corsa e del Salto}
+### Stivali della Corsa e del Salto
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 mentre indossi questi **stivali**, la tua velocità di movimento diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.
 
-\oggettomagico{Stivali della Levitazione}
+### Stivali della Levitazione
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 mentre indossi questi **stivali**, puoi usare a volontà due azioni per lanciare l'incantesimo levitazione su di te.
 
-\oggettomagico{Stivali della Velocita'}
+### Stivali della Velocita'
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 mentre indossi questi **stivali**, puoi usare una Reazione per ottenere un Azione di Movimento in più. La capacità è usabile per un massimo di 10 minuti al giorno. La capacità si ricarica all'alba.
 
-\oggettomagico{Talismano del Bene puro}
+### Talismano del Bene puro
 
 **Rarità:** Leggendario; **Costo:** 50000 mo
 
 un Devoto di Gradh o Sumkjr in possesso di questo oggetto può far sì che una voragine di fiamme appaia ai piedi di un Devoto di Calicante o Shayalia entro 30 m. La vittima viene inghiottita dal fuoco e precipita urlando verso il centro della Terra. Un talismano del bene puro ha 6 cariche e non può essere ricaricato. Se un Devoto di Calicante o Shayalia lo tocca subisce 6d6 ferite. Qualsiasi altro Devoto o Seguace non subisce alcun effetto. Il **Talismano** pulsa di luce entro 36 metri da un Devoto o Seguace di Calicante o Shayalia.
 
-\oggettomagico{Talismano del Male estremo}
+### Talismano del Male estremo
 
 **Rarità:** Leggendario; **Costo:** 50000 mo
 
 questo **talismano** funziona esattamente come il talismano del bene puro ma con i Patroni invertiti.
 
-\oggettomagico{Talismano della Protezione dal Veleno}
+### Talismano della Protezione dal Veleno
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 mentre indossi questo **pendente** i veleni non hanno alcun effetto su di te. Sei immune alla condizione avvelenato e hai immunità ai danni da veleno.
 
-\oggettomagico{Talismano della Salute}
+### Talismano della Salute
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 mentre indossi questo **pendente** sei immune alla possibilità di contrarre qualsiasi malattia. Se sei già infetto da una malattia, i suoi effetti vengono sospesi finché indossi questo pendente.
 
-\oggettomagico{Talismano della Sfera}
+### Talismano della Sfera
 
 **Rarità:** Leggendario; **Costo:** 75000 mo
 
 quando effettui una prova di Arcana per controllare una sfera dell'annientamento mentre stai impugnando questo **talismano** hai un bonus di 5. Inoltre, quando inizi il round con il controllo di una sfera dell'annientamento, puoi usare due azioni per farla levitare di 3 metri più un numero di metri aggiuntivi pari a 3 x il tuo valore di Intelligenza.
 
-\oggettomagico{Tamburi del Panico}
+### Tamburi del Panico
 
 **Rarità:** Non Comune; **Costo:** 1500 mo
 
 questi **tamburi** sono simili a timpani (piccoli strumenti a percussione facilmente trasportabili). Si trovano a coppie e hanno un aspetto poco appariscente. Se vengono suonati entrambi, tutte le creature entro 72 m (tranne quelle all'interno di un cerchio di 3 m centrato sui tamburi) vengono assalite da Paura e fuggono per 30 round alla massima velocità. È consentito un Tiro Salvezza su Volontà a DC 21 per salvarsi dagli effetti.
 
-\oggettomagico{Tamburi dello Stordimento}
+### Tamburi dello Stordimento
 
 **Rarità:** Raro
 
 questi due **tamburi** accoppiati somigliano ai tamburi del panico; quando vengono suonati entrambi, tutte le creature entro 3 m devono riuscire in un Tiro Salvezza su Tempra DC 21 essere stordite per 2d4 round. Tutte le creature entro 21 m sono immediatamente assordate. Gli incantesimi ristorare superiore, guarigione, rigenerazione o effetti simili possono curare la sordità.
 
-\oggettomagico{Tappeto Volante}
+### Tappeto Volante
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
@@ -2844,14 +2854,14 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 | **d100** | **Taglia** | **Capacità** | **Velocità** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Ing.)** | **di Volo** |
-| \rowcolor{gray!20}01--20 | 90 × 150 | 100 kg / 25 | 23 metri |
+| 01--20 | 90 × 150 | 100 kg / 25 | 23 metri |
 | 21--55 | 120 × 180 | 200 kg / 50 | 18 metri |
-| \rowcolor{gray!20}56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
+| 56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 metri |
 
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
 
-\oggettomagico{Arma Titanica}
+### Arma Titanica
 
 **Aura:** Trasmutazione moderata; **Costo:** 3000 mo
 
@@ -2859,7 +2869,7 @@ Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto
 
 Quest'**arma** gigante è lunga 3 m e pesa quasi 40 kg (8 Ingombro). Se usato come un'arma ha un bonus +2 al colpire e infligge 2 categorie di dado superiore di danno. Può essere usato anche per piantare rapidamente pali grossi come tronchi d'albero e per divellere con pochi colpi porte e cancelli. A causa della fatica nell'usarla non può essere brandita per più di 10 round al giorno.
 
-\oggettomagico{Armatura Titanica}
+### Armatura Titanica
 
 **Aura:** Trasmutazione moderata; **Costo:** 15000 mo
 
@@ -2867,7 +2877,7 @@ Quest'**arma** gigante è lunga 3 m e pesa quasi 40 kg (8 Ingombro). Se usato co
 
 Un'**armatura** con la proprietà Titanica è fuori misura, anche se l'effetto è solo esteriore e l'interno accoglie una creatura come di norma, senza necessitare modifiche. Una creatura che indossa un'armatura Titanica è considerata di una categoria di taglia superiore, questo anche al fine dell'uso di oggetti ed armi o dell'essere influenzati da attacchi speciali che dipendono dalla taglia, come Inghiottire e Travolgere.
 
-\oggettomagico{Tocco Fantasma}
+### Tocco Fantasma
 
 **Aura:** Evocazione moderata; **Costo:** 3000 mo
 
@@ -2875,25 +2885,25 @@ Un'**armatura** con la proprietà Titanica è fuori misura, anche se l'effetto �
 
 Un'**arma** del Tocco Fantasma infligge un danno critico aggiuntivo quando colpisce le creature con Movimento Incorporeo. Finché imbracci una arma Tocco Fantasma puoi vedere le creature invisibili.
 
-\oggettomagico{Tomo del Pensiero Limpido}
+### Tomo del Pensiero Limpido
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questo **libro** contiene esercizi di memoria e logica, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Intelligenza aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo.La *versione maledetta* di questo manuale pur sembrando assolutamente identico a quello originale fa perdere un punto di Intelligenza.
 
-\oggettomagico{Tomo dell'Autorita' e dell'Influenza}
+### Tomo dell'Autorita' e dell'Influenza
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questo **libro** contiene indicazioni su come influenzare e affascinare il prossimo, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Carisma aumenta di 1. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo. La *versione maledetta* di questo manuale pur sembrando assolutamente identico a quello originale fa perdere un punto di Carisma.
 
-\oggettomagico{Tomo della Comprensione}
+### Tomo della Comprensione
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
 questo **libro** contiene esercizi di intuizione e discernimento, e le sue parole sono soffuse di magia. Se trascorri 48 ore in un periodo di 6 giorni o meno a studiare i contenuti del libro e praticarne le indicazioni, il tuo punteggio di Saggezza aumenta di 1, e così fa il tuo punteggio massimo per quella caratteristica. Una volta letto il manuale perde la sua magia, per recuperarla dopo un secolo. La *versione maledetta* di questo manuale pur sembrando assolutamente identico a quello originale fa perdere un punto di Saggezza.
 
-\oggettomagico{Tonante}
+### Tonante
 
 **Aura:** Necromantica debole; **Costo:** 3000 mo
 
@@ -2901,7 +2911,7 @@ questo **libro** contiene esercizi di intuizione e discernimento, e le sue parol
 
 Un'**arma** Tonante crea un tremendo frastuono simile a quello di un tuono, quando mette a segno un Colpo Critico. L'energia sonora non danneggia chi tiene in mano l'arma e infligge 1d8 danni sonori addizionali per ogni Colpo Critico andato a segno. Chi è soggetto a un Colpo Critico da un'arma Tonante deve effettuare un Tiro Salvezza su Tempra con DC 14 o resta Sordo in modo permanente.
 
-\oggettomagico{Trasformante}
+### Trasformante
 
 **Aura:** Trasmutazione moderata; **Costo:** 5000 mo
 
@@ -2911,7 +2921,7 @@ Questa capacità si può aggiungere solo ad **armi** da mischia. Un'arma Trasfor
 
 L'arma conserva tutte le sue capacità, compresi bonus e capacità speciali dell'arma, ad eccezione di quelle proibite dalla sua nuova forma attuale. Se lasciata incustodita, l'arma ritorna alla sua forma originaria.
 
-\oggettomagico{Trovacose}
+### Trovacose
 
 **Aura:** Divinazione leggera; **Costo:** 1000 mo
 
@@ -2919,7 +2929,7 @@ L'arma conserva tutte le sue capacità, compresi bonus e capacità speciali dell
 
 Questa capacità concede a chi impugna quest'**arma** di lanciare l'incantesimo Localizza Oggetto una volta al giorno
 
-\oggettomagico{Tunica degli Occhi}
+### Tunica degli Occhi
 
 **Rarità:** Leggendario; **Costo:** 30000 mo
 
@@ -2935,7 +2945,7 @@ Gli occhi della vestaglia non possono essere chiusi o distolti, e mentre indossi
 
 L'incantesimo *luce* lanciato sulla vestaglia o l'incantesimo luce diurna lanciato entro 1 metro dalla vestaglia ti rendono accecato per 1 minuto. Al termine di ciascun tuo round, puoi effettuare un tiro Salvezza su Tempra (DC 15 per luce o DC 19 per luce diurna), ponendo fine alla condizione accecato in caso lo superi.
 
-\oggettomagico{Tunica degli Oggetti Utili}
+### Tunica degli Oggetti Utili
 
 **Rarità:** Non Comune; **Costo:** 300 mo
 
@@ -2947,36 +2957,38 @@ Inoltre, la vestaglia ha 4d4 altre toppe. Il Narratore sceglie le toppe o le det
 
 Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 toppe della vestaglia degli oggetti utili.
 
-| \rowcolor{gray!20}**d100** | **Effetto** |
+| **d100** | **Effetto** |
+|---|---|
 | 01-08 | Borsello con 100 mo. |
-| \rowcolor{gray!20}09-15 | Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo. |
+| 09-15 | Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo. |
 | 16-22 | Porta di ferro (larga e alta massimo 3 metri, sbarrata dal lato di tua scelta), che puoi piazzare su qualsiasi apertura a portata; si adatta per entrare nell'apertura, fissandosi e creando dei cardini. |
-| \rowcolor{gray!20}23-30 | 10 gemme del valore di 100 mo ciascuna. |
+| 23-30 | 10 gemme del valore di 100 mo ciascuna. |
 | 31-44 | Una scala di legno (8 metri). |
-| \rowcolor{gray!20}45-51 | Un Saurovallo da Galoppo con sacche da sella |
+| 45-51 | Un Saurovallo da Galoppo con sacche da sella |
 
-| \rowcolor{gray!20}**d100** | **Effetto** |
+| **d100** | **Effetto** |
+|---|---|
 | 52-59 | Fossa (un cubo di 3 metri di spigolo), che puoi piazzare sul terreno entro 3 metri da te. |
-| \rowcolor{gray!20}60-68 | 4 pozioni di guarigione. |
+| 60-68 | 4 pozioni di guarigione. |
 | 69-75 | Barca a remi (lunga 4 metri). |
-| \rowcolor{gray!20}76-83 | Pergamena degli incantesimi contenente un incantesimo di livello dal 1° al 3°. |
+| 76-83 | Pergamena degli incantesimi contenente un incantesimo di livello dal 1° al 3°. |
 | 84-90 | Due mastini. |
-| \rowcolor{gray!20}91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
+| 91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
 | 97-100 | Ariete portatile. |
 
-\oggettomagico{Tunica dei Colori Scintillanti}
+### Tunica dei Colori Scintillanti
 
 **Rarità:** Molto Raro; **Costo:** 6000 mo
 
 questa **vestaglia** ha 3 cariche, e recupera 1 carica spesa ogni giorno all'alba. Quando la indossi, puoi usare due azioni e spendere 1 carica per far sì che l'indumento produca una trama mutevole di colori abbaglianti fino al termine del tuo prossimo round. Durante questo periodo, la vestaglia emana luce intensa in un raggio di 9 metri e luce fioca per 18 metri. Le creature che ti vedono hanno -1d6 ai Tiri per Colpire contro di te. Inoltre, qualsiasi creatura sotto la luce intensa e che ti veda quando il potere della vestaglia viene attivato, deve superare un Tiri Salvezza su Volontà con DC 17 o restare stordita fino al termine dell'effetto.
 
-\oggettomagico{Tunica del Mimetismo}
+### Tunica del Mimetismo
 
 **Rarità:** Raro; **Costo:** 2500 mo
 
 quando indossa questa **tunica**, un personaggio capisce immediatamente il suo potere. Una tunica del mimetismo permette al personaggio di confondersi con l'ambiente circostante, qualunque esso sia, e di nascondersi. Ha +1d6 nelle prove di Furtività per nascondersi nelle ombre. Il possessore può assumere a volontà l'aspetto di un altro umanoide, come per l'incantesimo *Alterare se stesso* (Cambio Aspetto). In questo caso, gli amici del possessore e chi lo conosce molto bene sono istintivamente consci della sua vera identità.
 
-\oggettomagico{Tunica dell'Arcimago}
+### Tunica dell'Arcimago
 
 **Rarità:** Leggendario; **Costo:** 8000 mo
 
@@ -2986,37 +2998,37 @@ questo **abito** apparentemente normale può essere giallo (01-45 su 1d100), gri
 
 - +2 ai Tiri Salvezza contro incantesimi e oggetti magici
 
-\oggettomagico{Tunica dell'Indebolimento}
+### Tunica dell'Indebolimento
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 una **tunica** dell'indebolimento sembra un abito magico di un altro tipo. Appena un personaggio la indossa, la sua Forza e la sua Intelligenza scendono a -3 ed egli perde la capacità di lanciare incantesimi. La tunica può essere rimossa facilmente, ma per ripristinare gli attributi occorre *Rimuovi Maledizione* seguito da *guarigione*.
 
-\oggettomagico{Tunica delle Stelle}
+### Tunica delle Stelle
 
 **Rarità:** Raro; **Costo:** 60000 mo
 
 mentre indossi questa **vestaglia**, ottieni un bonus di +1 ai Tiri Salvezza. Sei stelle, posizionate sulla parte superiore frontale della vestaglia, sono più grosse delle altre. Mentre indossi questa vestaglia, puoi usare 1 Azione per estrarre una delle stelle e usarla per lanciare Dardo arcano (1d4+1). Ogni giorno al tramonto, la stella rimossa ricompare sulla vestaglia. Mentre indossi la vestaglia, puoi usare due azioni per entrare nel Piano Astrale assieme a tutto ciò che indossi o trasporti. Resterai lì fino a quando userai due azioni per ritornare al piano in cui ti trovavi prima. Ricompari nell'ultimo spazio da te occupato, o se quello spazio è occupato, nello spazio non occupato più vicino.
 
-\oggettomagico{Turibolo dell'Evocazione maledetta}
+### Turibolo dell'Evocazione maledetta
 
 **Rarità:** Raro
 
 questo **turibolo** ha l'aspetto di, e sembra funzionare come, un turibolo elementale dell'aria. Tuttavia, una volta acceso è impossibile spegnerlo per 1d4 round. In ciascun round un elementale dell'aria emerge ed attacca tutte le creature vicine.
 
-\oggettomagico{Turibolo Elementale dell'aria}
+### Turibolo Elementale dell'aria
 
 **Rarità:** Raro; **Costo:** 1500 mo
 
 questo **turibolo** può essere usato per evocare e controllare un elementale dell'aria in modo analogo all'incantesimo evoca elementale. È necessario preparare l'oggetto magico e condurre un rituale per un round prima dell'evocazione vera e propria, che richiede un round. Dopo che l'elementale è stato evocato, occorre mantenere la concentrazione per potergli impartire gli ordini.
 
-\oggettomagico{Unguento di Ljust}
+### Unguento di Ljust
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 questa **giara** di vetro, 7,5 centimetri di diametro, contiene 1d4 + 1 dosi di una densa mistura. La giara e i suoi contenuti pesano 250 grammi, ingombro 1. Con due azioni, si può inghiottire o applicare sulla pelle una dose di unguento. La creatura che lo riceve recupera 2d8 + 2 Punti Ferita, smette di essere avvelenata e viene curata da qualsiasi malattia.
 
-\oggettomagico{Vampira}
+### Vampira
 
 **Aura:** Necromantica moderata; **Costo:** 8000 mo
 
@@ -3024,7 +3036,7 @@ questa **giara** di vetro, 7,5 centimetri di diametro, contiene 1d4 + 1 dosi di 
 
 Quando attacchi una creatura con quest'**arma** magica e ottieni un critico al Tiro per Colpire, il bersaglio, a parte i costrutti e i non morti, subisce un danno critico aggiuntivo e chi imbraccia l'arma recupera 1d6 Punti Ferita.
 
-\oggettomagico{Vano Portatile}
+### Vano Portatile
 
 **Rarità:** Raro; **Costo:** 10000 mo
 
@@ -3036,7 +3048,7 @@ Se il Vano viene ripiegato, una creatura all'interno dello spazio dimensionale d
 
 Piazzare un Vano portatile all'interno dello spazio extradimensionale creato da una borsa conservante, uno zainetto pratico o simile oggetto distrugge istantaneamente entrambi gli oggetti e apre un portale verso il Piano Astrale. Qualsiasi creatura entro 3 metri dal portale viene risucchiata al suo interno e depositata in un luogo casuale del Piano Astrale. Poi il portale scompare.
 
-\oggettomagico{Arma della Velocita'}
+### Arma della Velocita'
 
 **Aura:** Trasmutazione moderata; **Costo:** 15000 mo
 
@@ -3044,32 +3056,32 @@ Piazzare un Vano portatile all'interno dello spazio extradimensionale creato da 
 
 Quando compie più attacchi (2 Azioni), chi impugna un'**arma** di Velocità può compiere un attacco addizionale con l'arma senza usare ulteriori Azioni. L'attacco aggiuntivo non ha le penalità degli attacchi multipli. Questa capacità non è cumulabile con incantesimi o effetti simili.
 
-\oggettomagico{Ventaglio Arcano}
+### Ventaglio Arcano
 
 **Rarità:** Non Comune; **Costo:** 1500 mo
 
 mentre impugni questo **ventaglio**, puoi usare due azioni per lanciare tramite esso l'incantesimo folata di vento (DC del Tiro Salvezza 15). Una volta usato, il ventaglio
 non dovrebbe essere usato di nuovo fino alla prossima alba. Ogni volta che venga usato prima di allora, c'è una probabilità cumulativa del 20\% che non funzioni e si rompa in inutili brandelli privi di magia.
 
-\oggettomagico{Verga del Colpo possente}
+### Verga del Colpo possente
 
 **Rarità:** Molto Rara; **Costo:** 30000 mo
 
 una **verga** del colpo possente infligge 1d8+3 ferite, e funziona come una mazza leggera magica +3. Quando la verga è usata contro i golem, consuma 1 carica per colpo inflitto, ed infligge 2d8+6 ferite. Si noti che quando la verga è usata come arma contro un golem un Tiro per Colpire Critico lo annienta istantaneamente. In aggiunta, questa verga infligge ferite addizionali a immondi e non morti. Quando si attaccano questi mostri, un Tiro per Colpire Critico causa il consumo di 1 carica, e la verga infligge il triplo delle ferite.
 
-\oggettomagico{Verga dell'Ammaliamento}
+### Verga dell'Ammaliamento
 
 **Rarità:** Raro; **Costo:** 28000 mo
 
 spendendo 1 carica, il possessore della **verga** può lanciare dominare bestie, con 2 cariche Dominare Persone e con 3 cariche dominare mostri.
 
-\oggettomagico{Verga dell'Assorbimento}
+### Verga dell'Assorbimento
 
 **Rarità:** Molto Raro; **Costo:** 50000 mo
 
 mentre impugni questa **verga**, puoi usare una Azione per assorbire un incantesimo che prenda come bersaglio solo te e privo di un'area di effetto. L'effetto dell'incantesimo assorbito è cancellato, e l'energia dell'incantesimo (non l'incantesimo stesso) viene assorbita dalla verga. Nel corso della sua esistenza la verga può assorbire e contenere fino ad una somma di 31 Livelli di incantesimi. Una volta che la verga ha assorbito 8 incantesimi (max livello 4), non ne potrà più assorbire. Se sei il bersaglio di un incantesimo che la verga non può contenere, la verga non ha alcun effetto sull'incantesimo. Quando prendi in mano la verga, sai quanti incantesimi la verga ha assorbito finora. Se sei un incantatore e impugni la verga, puoi convertire tutta l'energia contenuta per avere 10 Punti Magia in più.
 
-\oggettomagico{Verga della Forza Sovrana}
+### Verga della Forza Sovrana
 
 **Costo:** 50000 mo
 
@@ -3097,7 +3109,7 @@ leggendaria, questa **verga** ha una testa flangiata, e funziona come una mazza 
 
 Questa verga non può essere ricaricata. Quando le cariche finiscono rimane una
 
-\oggettomagico{Verga della Prontezza}
+### Verga della Prontezza
 
 **Rarità:** Molto Raro; **Costo:** 25000 mo
 
@@ -3109,7 +3121,7 @@ questa **verga** dalla testa flangiata ha le seguenti proprietà.
 
 *Aura Protettiva*. Con due azioni, puoi piantare l'estremità appuntita della verga nel terreno. A quel punto la testa della verga irradierà luce intensa in un raggio di 18 metri e luce fioca per 36 metri. All'interno di questa luce intensa, tu e qualsiasi creatura a te amichevole otterrete un bonus di +1 alla Difesa e ai Tiri Salvezza e potrete percepire la posizione di qualsiasi creatura invisibile ostile che si trovi anch'essa all'interno della luce intensa. La testa della verga smette di emettere luce e termina l'effetto dopo 10 minuti, o quando una creatura usa due azioni per estrarre la verga dal terreno. Questa proprietà non può essere usata di nuovo fino all'alba del giorno successivo.
 
-\oggettomagico{Verga della Sicurezza}
+### Verga della Sicurezza
 
 **Rarità:** Molto Raro; **Costo:** 90000 mo
 
@@ -3119,25 +3131,25 @@ Per ogni ora trascorsa in questo paradiso, un visitatore recupera Punti Ferita c
 
 Quando il tempo termina o usi due azioni per farlo terminare, tutti i visitatori ricompaiono nel luogo da loro occupato quando hai attivato la verga, o nello spazio non occupato più vicino a quello. La verga non potrà essere usata di nuovo prima che siano passati dieci giorni.
 
-\oggettomagico{Verga della Sovranita'}
+### Verga della Sovranita'
 
 **Rarità:** Raro; **Costo:** 16000 mo
 
 puoi usare due azioni e presentare la **verga** e richiedere obbedienza a ciascuna creatura visibile entro 36 metri da te di tua scelta. Ogni bersaglio deve superare un Tiri Salvezza su Volontà con DC 17 o restare Affascinato da te per 8 ore. Mentre è affascinata in questa maniera, la creatura ti considera un capo fidato. Se le viene recato danno da te o dai tuoi compagni, o le viene ordinato di fare qualcosa contrario alla sua natura, il bersaglio smetterà di essere affascinato in questa maniera. La verga non può essere usata di nuovo prima della prossima alba.
 
-\oggettomagico{Verga Inamovibile}
+### Verga Inamovibile
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
 questa **verga** di ferro piatta ha un pulsante a un'estremità. Puoi usare due azioni per premere il pulsante, che fa sì che la verga resti magicamente fissata sul posto. Fino a quando tu o un'altra creatura userete due azioni per premere di nuovo il pulsante, la verga non si muoverà, anche se dovesse sfidare la gravità. La verga può sostenere fino a 4000 chili di peso. Un peso maggiore fa sì che la verga si disattivi e cada. Una creatura può usare due azioni per effettuare un Tiro Salvezza Tempra con Forza DC 30, spostando la verga di 3 metri in caso di successo.
 
-\oggettomagico{Verga Tentacolare}
+### Verga Tentacolare
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 questa **verga** è un'arma magica che termina in tre tentacoli di cuoio. Mentre impugni la verga, puoi usare due azioni per dirigere ciascun tentacolo per attaccare una creatura visibile entro 3 metri da te. Ogni tentacolo effettua un Tiro per Colpire da mischia con un bonus di +9. Se colpisci, il tentacolo infligge 1d6 danni contundenti. Se colpisci un bersaglio con tutti e tre i tentacoli, esso deve effettuare un Tiro Salvezza su Tempra con DC 15. Se lo fallisce, la velocità della creatura è dimezzata, ha -1d6 ai Tiri Salvezza di Riflessi, e per 1 minuto non può usare le sue reazioni. Inoltre, durante ciascun suo round, egli può effettuare due azioni o due azioni ma non entrambe. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.
 
-\oggettomagico{Vorpal}
+### Vorpal
 
 **Aura:** Invocazione molto forte; **Costo:** 150000 mo
 
@@ -3149,7 +3161,7 @@ Una creatura è immune a questo effetto se è immune ai danni taglienti, non pos
 
 Una creatura del genere subisce invece 6d8 danni taglienti aggiuntivi dal colpo subito.
 
-\oggettomagico{Vulnerabilita'}
+### Vulnerabilita'
 
 **Aura:** Necromantica moderata; **Costo:** 3000 mo
 
@@ -3157,7 +3169,7 @@ Una creatura del genere subisce invece 6d8 danni taglienti aggiuntivi dal colpo 
 
 Mentre indossi questa **armatura**, hai resistenza a uno dei seguenti tipi di danno: contundente, perforante o tagliente. Il Narratore sceglie il tipo. L'armatura è maledetta, mentre sei maledetto, hai vulnerabilità a due dei tre tipi di danno associati con l'armatura (che non sia quello a cui hai resistenza).
 
-\oggettomagico{Zainetto Pratico}
+### Zainetto Pratico
 
 **Rarità:** Raro; **Costo:** 7000 mo
 
@@ -3170,21 +3182,22 @@ Lo zainetto ha alcune limitazioni. Se sovraccarico, o un oggetto affilato lo tag
 
 Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una borsa conservante, un buco portatile o un oggetto simile distrugge immediatamente entrambi gli oggetti e apre un portale verso il Piano Astrale. Il portale origina dal punto in cui gli oggetti sono stati posti l'uno dentro l'altro. Qualsiasi creatura entro 3 metri dal portale viene risucchiata attraverso di esso e trascinata in un luogo casuale del Piano Astrale. Poi il portale si chiude. Il portale è a senso unico e non può essere riaperto.
 
-\oggettomagico{Zappa dei Titani}
+### Zappa dei Titani
 
 **Rarità:** Non Comune; **Costo:** 2000 mo
 
 questo strumento sovradimensionato è lungo 3 m e pesante 120 kg (30 Ingombro), e può essere usato solo da un gigante (o da un personaggio ingrandito) per spostare grandi quantità di terriccio e costruire terrapieni (un cubo di 3 m per Turno). La **zappa** può anche essere usata per spaccare la pietra con grande rapidità. Se usata come un'arma ha un bonus +3 al colpire e infligge 5d6 ferite.
 
-\oggettomagico{Zoccoli della Velocita'}
+### Zoccoli della Velocita'
 
 **Rarità:** Raro; **Costo:** 5000 mo
 
 questi **zoccoli** di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un saurovallo o creatura simile, aumentano la velocità di movimento di quella creatura di 9 metri.
 
-\oggettomagico{Zoccoli dello Zefiro}
+### Zoccoli dello Zefiro
 
 **Rarità:** Molto Raro; **Costo:** 1500 mo
 
 questi **zoccoli** di ferro si trovano in set da quattro. Quando tutti e quattro gli zoccoli sono fissati a un saurovallo o creatura simile, permettono a quella creatura di muoversi normalmente, mentre fluttua a circa 10 centimetri dal terreno. Questo effetto vuol dire che la creatura può attraversare o passare sopra superfici non solide o instabili, come l'acqua o la lava. La creatura non lascia tracce e ignora il terreno difficile. Inoltre, la creatura può muoversi alla sua normale velocità per un massimo di 12 ore al giorno senza subire l'affaticamento a causa della marcia forzata.
+
 ---

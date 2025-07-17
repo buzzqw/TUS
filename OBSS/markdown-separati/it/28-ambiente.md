@@ -26,16 +26,16 @@ Molti incantesimi ed oggetti usano come durata il *tempo di gioco reale*, ovvero
 
 **Tabella: Fonti di luce**
 
-| \rowcolor{gray!20}**Fonte di Luce** | **Raggio (metri)** |  | **Durata** |
+| **Fonte di Luce** | **Raggio (metri)** |  | **Durata** |
 | --- | --- | --- | --- |
 | **Luce** | **Fioca** | |
 | Candela | - | 1 | 1 ora |
-| \rowcolor{gray!20}Torcia | 3 | 6 | 1 ora |
+| Torcia | 3 | 6 | 1 ora |
 | Lanterna | 6 | 12 | 3 ore |
 | **Incantesimi** |  |  | |
-| \rowcolor{gray!20}Lacrima di Ljust | 1 | - | 10 round |
+| Lacrima di Ljust | 1 | - | 10 round |
 | Luce | 3 | 6 | 30 min. |
-| \rowcolor{gray!20}Luce Diurna | 6 | 12 | 1 ora |
+| Luce Diurna | 6 | 12 | 1 ora |
 
 La durata indicata è espressa, quando in minuti o ore, come durata di tempo reale di gioco.
 
@@ -134,14 +134,14 @@ Inoltre, se l'oggetto cade da una distanza inferiore ai 3 metri, infligge la met
 
 **Tabella: Danno da Oggetti Cadenti**
 
-| \rowcolor{gray!20}**Taglia dell'Oggetto** | **Danno** |
+| **Taglia dell'Oggetto** | **Danno** |
 | --- | --- |
 | Minuscola o più Piccola | 1d6 |
-| \rowcolor{gray!20}Piccola | 2d6 |
+| Piccola | 2d6 |
 | Media | 3d6 |
-| \rowcolor{gray!20}Grande | 4d6 |
+| Grande | 4d6 |
 | Enorme | 6d6 |
-| \rowcolor{gray!20}Mastodontica | 8d6 |
+| Mastodontica | 8d6 |
 | Colossale | 10d6 |
 
 Lasciar cadere addosso ad una creatura un oggetto richiede un attacco a tocco a distanza (vedi Attacco a Tocco, pag. ). Questi attacchi hanno di solito una gittata di 3 metri. Se un oggetto cade su una creatura la creatura deve effettuare, se colpita, un Tiro Salvezza su Riflessi con DC 15 per dimezzare il danno se è consapevole dell'oggetto che sta cadendo. Gli oggetti cadenti che sono parte di una trappola usano le regole relative alle trappole invece che quelle qui descritte.
@@ -228,11 +228,11 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 **Tabella: Tempo Atmosferico Casuale**
 
-| \rowcolor{gray!20}**d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato {***} | **Deserto** |
-| 01-70 | Normale | Freddo, calmo | Normale per la stagione {*}{*} | Torrido, calmo |
-| \rowcolor{gray!20}71-80 | Anormale | Ondata di Caldo (01-30) / Ondata di Freddo (31-100) | Ondata di Caldo (01-50) - Ondata di Freddo (51-100) | Torrido, ventilato |
+| **d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato *** | **Deserto** |
+| 01-70 | Normale | Freddo, calmo | Normale per la stagione ** | Torrido, calmo |
+| 71-80 | Anormale | Ondata di Caldo (01-30) / Ondata di Freddo (31-100) | Ondata di Caldo (01-50) - Ondata di Freddo (51-100) | Torrido, ventilato |
 | 81-90 | Inclemente | Precipitazioni (neve) | Precipitazioni normali per la stagione | Torrido, ventilato |
-| \rowcolor{gray!20}91-99 | Tempesta | Tempesta di neve | Tempesta di fulmini / Tempesta di neve | Tempesta di polvere |
+| 91-99 | Tempesta | Tempesta di neve | Tempesta di fulmini / Tempesta di neve | Tempesta di polvere |
 | 100 | Tempesta violenta | Tormenta | Bufera, tormenta, uragano, tornado | Acquazzone |
 
 * Temperato comprende foreste, colline, paludi, montagne, pianure e zone marine calde.
@@ -257,7 +257,7 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 **Tempesta** (di Fulmini/di Neve/di Polvere): Il vento è molto forte (da 45 a 75 km/h) e la visibilità è ridotta di tre quarti. Le tempeste durano 2d4-1 ore. Vedi Tempeste, sotto, per ulteriori dettagli.
 
-**Tempesta** (Bufera/Tormenta/Uragano/Tornado): La velocità del vento è superiore ai 75 km/h (vedi Tabella: Effetti del Vento). Inoltre, le tormente sono accompagnate da pesanti nevicate (1d3 \texttimes{} 30 cm), e gli uragani sono accompagnati da acquazzoni. Le bufere durano 1d6 ore, le tormente 1d3 giorni. Gli uragani possono durare fino a una settimana, ma l'impatto maggiore per i personaggi avverrà in un periodo di tempo tra le 24 e le 48 ore, mentre il centro della tempesta si sposta nella loro zona. I tornado durano molto poco (1d6 \texttimes{} 10 minuti), e di solito si formano come parte di una tempesta di fulmini.
+**Tempesta** (Bufera/Tormenta/Uragano/Tornado): La velocità del vento è superiore ai 75 km/h (vedi Tabella: Effetti del Vento). Inoltre, le tormente sono accompagnate da pesanti nevicate (1d3  30 cm), e gli uragani sono accompagnati da acquazzoni. Le bufere durano 1d6 ore, le tormente 1d3 giorni. Gli uragani possono durare fino a una settimana, ma l'impatto maggiore per i personaggi avverrà in un periodo di tempo tra le 24 e le 48 ore, mentre il centro della tempesta si sposta nella loro zona. I tornado durano molto poco (1d6  10 minuti), e di solito si formano come parte di una tempesta di fulmini.
 
 **Torrido**: Temperatura tra i 30° e i 43° C durante il giorno e tra 6 e 11 gradi in meno di notte.
 
@@ -287,12 +287,12 @@ Le tempeste sono di tre tipi.
 
 **Tempesta di Polvere (grado di Sfida 3)**
 
-queste tempeste desertiche si differenziano dalle altre tempeste in quanto non hanno precipitazioni. Al contrario, le tempeste di polvere trasportano granelli di sabbia che oscurano la vista, soffocano le fiamme non protette e possono addirittura spegnere quelle protette (probabilità del 50\%). Molte tempeste di polvere sono accompagnate da venti molto forti e si lasciano alle spalle un deposito di 1d6 \texttimes{} 2.5 centimetri di sabbia.
-Esiste anche una probabilità del 10\% di incontrare grandi tempeste di polvere con bufere di vento (vedi Tabella: Effetti del Vento). Queste violente tempeste di polvere infliggono 1d3 danni non letali per round a chiunque venga sorpreso all'aperto senza riparo e pongono anche il rischio del soffocamento (vedi Annegamento, eccetto che un personaggio con una sciarpa o simile protezione sulla bocca e il naso, non inizia a soffocare se non dopo un numero di round pari 10 \texttimes{} il suo punteggio di Costituzione). Le grandi tempeste di polvere si depositano alle spalle (2d3-1) x 30 centimetri di sabbia.
+queste tempeste desertiche si differenziano dalle altre tempeste in quanto non hanno precipitazioni. Al contrario, le tempeste di polvere trasportano granelli di sabbia che oscurano la vista, soffocano le fiamme non protette e possono addirittura spegnere quelle protette (probabilità del 50\%). Molte tempeste di polvere sono accompagnate da venti molto forti e si lasciano alle spalle un deposito di 1d6  2.5 centimetri di sabbia.
+Esiste anche una probabilità del 10\% di incontrare grandi tempeste di polvere con bufere di vento (vedi Tabella: Effetti del Vento). Queste violente tempeste di polvere infliggono 1d3 danni non letali per round a chiunque venga sorpreso all'aperto senza riparo e pongono anche il rischio del soffocamento (vedi Annegamento, eccetto che un personaggio con una sciarpa o simile protezione sulla bocca e il naso, non inizia a soffocare se non dopo un numero di round pari 10  il suo punteggio di Costituzione). Le grandi tempeste di polvere si depositano alle spalle (2d3-1) x 30 centimetri di sabbia.
 
 **Tempesta di Neve**
 
-oltre ai venti e alle precipitazioni comuni alle altre tempeste, le tempeste di neve depositano 1d6 \texttimes{} 2.5 centimetri di neve sul terreno.
+oltre ai venti e alle precipitazioni comuni alle altre tempeste, le tempeste di neve depositano 1d6  2.5 centimetri di neve sul terreno.
 
 **Tempesta di Fulmini**
 
@@ -308,7 +308,7 @@ Sebbene abbiano poche o nessuna precipitazione, le bufere possono provocare dann
 
 **Tormenta**
 
-La combinazione di forti venti, neve fitta (di solito 1d3 \texttimes{} 30 cm) e freddo intenso rende le tormente letali per chiunque non vi sia preparato.
+La combinazione di forti venti, neve fitta (di solito 1d3  30 cm) e freddo intenso rende le tormente letali per chiunque non vi sia preparato.
 
 **Uragano**
 
@@ -332,16 +332,16 @@ I venti possono creare turbini di sabbia o polvere, alimentare grossi incendi, r
 
 **Tabella: Effetti del Vento Forza del Vento**
 
-| \rowcolor{gray!20}**Intensità** | **Velocità** | **Attacchi a** |
+| **Intensità** | **Velocità** | **Attacchi a** |
 | --- | --- | --- |
 |  | **Distanza** |
-| \rowcolor{gray!20}Leggero | 0-15km | |
+| Leggero | 0-15km | |
 | Moderato | 16,5-30 km/h | |
-| \rowcolor{gray!20}Forte | 31.5-45 | -2 |
+| Forte | 31.5-45 | -2 |
 | Molto forte | 45.5-75km/h | -4 |
-| \rowcolor{gray!20}Bufera | 76.5-111km/h | impossibile |
+| Bufera | 76.5-111km/h | impossibile |
 | Uragano | 12-261km/h | impossibile |
-| \rowcolor{gray!20}Tornado | 262-450km/h | impossibile |
+| Tornado | 262-450km/h | impossibile |
 
 **Vento Leggero**
 
@@ -372,4 +372,5 @@ Estingue tutte le fiamme. Tutti gli attacchi a distanza sono impossibili (compre
 Coloro che entrano in contatto con il tornado vengono sollevati da terra e sbatacchiati per 1d10 round, subendo 6d6 danni per round, prima di venirne espulsi violentemente. La creatura viene espulsa da un altezza di 1d6 metri per round di permanenza nel tornado.
 
 Sebbene la velocità rotatoria di un tornado possa raggiungere i 450 km/h, il cono stesso si muove in avanti ad una media di 45 km/h (circa 75 metri per ogni round). Un tornado è in grado di sradicare alberi, distruggere edifici e provocare altre forme di simile devastazione.
+
 ---

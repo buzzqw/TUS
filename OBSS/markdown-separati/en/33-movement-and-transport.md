@@ -1,6 +1,6 @@
 # Movement and Transport
 
-> My left foot works perfectly fine, but I still couldn't walk if I didn't have the right one! (Madagascar 3 - Europe's Most Wanted, Film)
+> My left foot works perfectly fine, but I still couldn' \*\*t walk if I didn' \*\*t have the right one! (Madagascar 3 - Europe' \*\*s Most Wanted, Film)
 
 When you can no longer run, walk fast; when you can no longer walk fast, walk; when you can no longer walk, use a cane; but never hold yourself back. (Mother Teresa of Calcutta)
 
@@ -26,20 +26,20 @@ Only in non-combat situations does running triple movement, i.e., when using Loc
 
 This table shows the base values of land movement in non-combat situations.
 
-| \rowcolor{gray!20}**Movement type** | **Movement** |  | |
-| --- | --- | --- |
-| \cmidrule(lr) | **6m** | **9m** | **12m** |
+| **Movement type** | **Movement** |  | |
+| --- | --- | --- |---|
+|  | **6m** | **9m** | **12m** |
 | **Movement (Tactical)** |  |  | |
-| \rowcolor{gray!20}Walking | 6m | 9m | 12m |
+| Walking | 6m | 9m | 12m |
 | Running (x2) | 12m | 18m | 24m |
 | **One minute (Local)** |  |  | |
-| \rowcolor{gray!20}Walking | 36m | 54m | 72m |
+| Walking | 36m | 54m | 72m |
 | Running (x3) | 108m | 162m | 216m |
 | **One hour (Overland)** |  |  | |
-| \rowcolor{gray!20}Walking | 3km | 4km | 6km |
+| Walking | 3km | 4km | 6km |
 | Running (x3) | 9km | 12km | 18km |
 | **One day (Overland)** |  |  | |
-| \rowcolor{gray!20}Walking | 24km | 32km | 54km |
+| Walking | 24km | 32km | 54km |
 
 ## Tactical Movement
 
@@ -54,9 +54,9 @@ A character can perform up to 3 Sprint Actions, i.e., runs for the entire round 
 
 ### Hindered Movement - Difficult Terrain
 
-Difficult terrain, snowy, icy, with rapid ascents and descents, full of debris or with obstacles or poor visibility can hinder movements. When movement is hindered, one moves at half speed, 2 Actions are needed to cover one's distance of 9 meters (if one is human without encumbrance..), or with a Move Action one covers only 4 meters.
+Difficult terrain, snowy, icy, with rapid ascents and descents, full of debris or with obstacles or poor visibility can hinder movements. When movement is hindered, one moves at half speed, 2 Actions are needed to cover one' \*\*s distance of 9 meters (if one is human without encumbrance..), or with a Move Action one covers only 4 meters.
 
-If there is more than one particular condition, add all applicable additional costs together, i.e., if a terrain is difficult and one moves on all fours, it means moving at a quarter of one's movement. 
+If there is more than one particular condition, add all applicable additional costs together, i.e., if a terrain is difficult and one moves on all fours, it means moving at a quarter of one' \*\*s movement. 
 
 In some situations, movement is so hindered that the distance that can be traveled per Action is minimal, in which case all 3 Actions can be used to move only 1 meter in any direction.
 
@@ -88,7 +88,7 @@ He could decide to (among various possibilities):
 - stay still without moving forward, let the companions in front of him act first.
 - remain confined and attack. 2 Actions remain.
 - push the companion (1 Action) into the previous square, making him become confined with another companion. 1 Action remains.
-- push the companion (1 Action) into the next square! making him pass through the enemy's square. 1 Action remains.
+- push the companion (1 Action) into the next square! making him pass through the enemy' \*\*s square. 1 Action remains.
 - go back (1 Action) to his initial square. 1 Action remains.
 - try to pass through the opponent (1 Action), but if he fails he would be confined with the companion, damaging both and would only have 1 other Action left
 \enditemize
@@ -156,28 +156,28 @@ A mount can be equipped with armor. Light armor will confer a +2 bonus to Defens
 
 ## Table: Mounts and Vehicles
 
-| \rowcolor{gray!20}**Mount or Vehicle** | **Transported Encumbrance** | **Movement** | **Movement** |
+| **Mount or Vehicle** | **Transported Encumbrance** | **Movement** | **Movement** |
 | --- | --- | --- | --- |
 | **(CdC)** | **Per hour** | **Per day** |
-| \rowcolor{gray!20}Galloping Dog | 30 | 6km | 36km |
+| Galloping Dog | 30 | 6km | 36km |
 | Galloping Saurovall | 60 | 8km | 48km |
-| \rowcolor{gray!20}War Saurovall | 80 | 7km | 42km |
+| War Saurovall | 80 | 7km | 42km |
 | Pony Saurovall | 30 | 5km | 30km |
-| \rowcolor{gray!20}Draft Saurovall | 70 | 5km | 30km |
+| Draft Saurovall | 70 | 5km | 30km |
 | Camel | 50 | 8km | 48km |
-| \rowcolor{gray!20}Elephant | 160 | 6km | 36km |
+| Elephant | 160 | 6km | 36km |
 | **Vessel** |  |  | |
-| \rowcolor{gray!20}Raft or Barge (pole or towing) | 225 | 0.75km | 7.5km |
+| Raft or Barge (pole or towing) | 225 | 0.75km | 7.5km |
 | Rowing Barge** | 425 | 1.5km | 15km |
-| \rowcolor{gray!20}Rowing Boat** | 200 | 2.25km | 22.5km |
+| Rowing Boat** | 200 | 2.25km | 22.5km |
 | Sailing Ship | 800 | 3km | 72km |
-| \rowcolor{gray!20}Warship (sails and oars) | 2200 | 3.5km | 90km |
+| Warship (sails and oars) | 2200 | 3.5km | 90km |
 | Longship (sails and oars) | 600 | 5km | 108km |
-| \rowcolor{gray!20}Galley (oars and sails) | 3300 | 6km | 144km |
+| Galley (oars and sails) | 3300 | 6km | 144km |
 
 A mount can carry a creature on its back only if it is of a size smaller than its own. The daily movement is intended for 6 hours of riding, beyond these hours the mount becomes exhausted requiring a full day of rest.
 
-Rafts, barges, and rowing barges are used on lakes and rivers. If following the current, add the speed of the current (usually 4.5 km/h) to the vessel's speed. In addition to being propelled with poles or oars for 10 hours, the vessel can also be carried by the current for another 14 hours, if someone is able to guide it, thus adding another 100 km in 24 hours. These vessels cannot be propelled by oars against a very strong current, but can be pulled upstream by draft animals on the shore.
+Rafts, barges, and rowing barges are used on lakes and rivers. If following the current, add the speed of the current (usually 4.5 km/h) to the vessel' \*\*s speed. In addition to being propelled with poles or oars for 10 hours, the vessel can also be carried by the current for another 14 hours, if someone is able to guide it, thus adding another 100 km in 24 hours. These vessels cannot be propelled by oars against a very strong current, but can be pulled upstream by draft animals on the shore.
 
 Rafts and Barges equipped for transport are small inns that allow a frugal meal of the daily catch and some fruit and vegetables brought from shore. There are no rooms for sleeping. To those who request it, for a small fee, mats are laid out and worn mattresses are unrolled, and if the climate makes it necessary, blankets are provided.
 
@@ -220,9 +220,9 @@ If the **CdC is doubled**, then one can no longer move due to the encumbrance of
 
 E.g. Tups is wearing a Ring Mail (encumbrance 4), a longsword (medium weapon, encumbrance 2), a mace (enc. 2), 18 light objects (enc. 1), a backpack (enc. 1), a tent (enc. 2), a lantern (enc 1). Total Encumbrance = 13.
 
-Tups is a Medium creature with Strength -1 and Constitution +0 (he's a bit frail and weak..) this gives him a Load Capacity of 12-1=11.
+Tups is a Medium creature with Strength -1 and Constitution +0 (he' \*\*s a bit frail and weak..) this gives him a Load Capacity of 12-1=11.
 
-Encumbrance is higher than Tups's CdC! He must be careful, it's better if he leaves the tent on his Saurovall...
+Encumbrance is higher than Tups' \*\*s CdC! He must be careful, it' \*\*s better if he leaves the tent on his Saurovall...
 
 If the load is placed on a cart, you can push it at full movement if within your CdC, at half movement if within twice the CdC, and at a quarter of the movement if within four times the CdC.
 
@@ -232,28 +232,29 @@ In case more creatures push or pull a cart, consider as CdC the highest one and 
 
 The **Table: CdC transported based on size** shows the Load Capacity based on size. The values of Strength and Constitution must be added to the value given by size.
 
-| \rowcolor{gray!20}**Size** | **Enc.** | **Size** | **Enc.** |
+| **Size** | **Enc.** | **Size** | **Enc.** |
 | --- | --- | --- | --- |
 | Fine | 1/4 | Large | 24 |
-| \rowcolor{gray!20}Diminutive | 1 | Huge | 36 |
+| Diminutive | 1 | Huge | 36 |
 | Tiny | 3 | Gargantuan | 49 |
-| \rowcolor{gray!20}Small | 6 | Colossal | 77 |
+| Small | 6 | Colossal | 77 |
 | Medium | 12 |  | Creatures with 4 or more legs can carry larger loads. |
 
 **Table: transport modifiers for creatures with multiple legs**
 
-| \rowcolor{gray!20}**Creature Legs** | **CdC** |
+| **Creature Legs** | **CdC** |
+|---|---|
 | 4 legs | x2 |
-| \rowcolor{gray!20}6 legs | x2.5 |
+| 6 legs | x2.5 |
 | 8 legs | x3 |
-| \rowcolor{gray!20}12 legs | x4 |
+| 12 legs | x4 |
 | every other 2 legs | +0.5 |
 
 These Tables are to be used for unusual animals not indicated or comparable to those in the Table: Mounts and Vehicles, page .
 
 ## Other Types of Movement
 
-> One of the problems concerns the speed of light and the difficulties involved in trying to exceed it. You can't exceed it. Nothing travels faster than the speed of light, with the possible exception of bad news, which follows its own specific laws. (Douglas Adams)
+> One of the problems concerns the speed of light and the difficulties involved in trying to exceed it. You can' \*\*t exceed it. Nothing travels faster than the speed of light, with the possible exception of bad news, which follows its own specific laws. (Douglas Adams)
 
 ### Swimming
 
@@ -273,7 +274,7 @@ If one does not have the **Climbing movement** type, it is considered as **doubl
 
 A creature with a Burrowing speed can dig tunnels through the earth, but not through rock unless the descriptive text says otherwise. Creatures cannot charge or run while burrowing.
 
-Most burrowing creatures do not leave tunnels that other creatures can use (either because the material they burrow through fills in the tunnel behind them or because they don't actually displace material when they burrow), see the individual creature's description for details.
+Most burrowing creatures do not leave tunnels that other creatures can use (either because the material they burrow through fills in the tunnel behind them or because they don' \*\*t actually displace material when they burrow), see the individual creature' \*\*s description for details.
 
 ### Walking - Land Speed
 
@@ -288,4 +289,5 @@ A flying creature that is damaged in a single blow by half of its maximum Hit Po
 ### Hovering
 
 Hovering (**Hover**) is the ability that allows one to remain floating in the air, at the desired height, even if one does not move or is unconscious.
+
 ---

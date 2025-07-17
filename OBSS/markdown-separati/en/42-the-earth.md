@@ -2,7 +2,7 @@
 
 > So the Earth is truly round. But I never imagined it was blue. Why do men who live on such a beautiful planet do nothing but fight among themselves? (Nadia - The Secret of Blue Water)
 
-The planet doesn't belong to us, we belong to it. We are passing through, it remains. (Pierre Rabhi)
+The planet doesn' \*\*t belong to us, we belong to it. We are passing through, it remains. (Pierre Rabhi)
 
 The Earth, meant as the planet itself, as we have known it, is now a faded memory.
 
@@ -25,7 +25,7 @@ The old ruins of cities are often receptacles of hordes of nefarious creatures t
 
 Few cities exceed 50,000 inhabitants. Each state has a capital that, by the mocking fate of Earth, is often destroyed or disappears. Law is often absent, and only that of the strongest prevails.
 
-Wide unexplored lands unfold where ancient remains of vanished civilizations are refuge for new inhabitants. There are layers upon layers of civilizations buried beneath one's feet with treasures, secrets, caverns, and protectors.
+Wide unexplored lands unfold where ancient remains of vanished civilizations are refuge for new inhabitants. There are layers upon layers of civilizations buried beneath one' \*\*s feet with treasures, secrets, caverns, and protectors.
 
 ## Society
 
@@ -46,7 +46,7 @@ Legends speak of entire regions swallowed underground, cities that from day to n
 
 ## Religions
 
-The *old* religions still exist. The Patrons do not wage war on you because you worship another Patron or God; it is not their purpose or interest. Religion has acquired a much more concrete and real role, with numerous extremists who go about prophesying the coming of other patrons, the true Gods. It is always very dangerous to manifest one's creed; you never know how others might react.
+The *old* religions still exist. The Patrons do not wage war on you because you worship another Patron or God; it is not their purpose or interest. Religion has acquired a much more concrete and real role, with numerous extremists who go about prophesying the coming of other patrons, the true Gods. It is always very dangerous to manifest one' \*\*s creed; you never know how others might react.
 
 Even Devotees or Followers themselves, if they publicly proclaim their Patrons, sometimes risk lynching; almost all users of magic are seen as people who have sold their soul to the *devil*. Trust is a precious asset that must be earned.
 
@@ -90,7 +90,7 @@ The Patrons will do everything to defeat and humiliate you, but remember well th
 
 In this immense desert lurk gigantic monsters. Some hidden under the sand use telluric sense to hunt their prey, others gigantic dinosaurs hunt any prey that may come along.
 
-Every creature in this desert is gigantic, monstrous, and disproportionate in appearance, almost as if born from someone's nightmare.
+Every creature in this desert is gigantic, monstrous, and disproportionate in appearance, almost as if born from someone' \*\*s nightmare.
 
 The same vegetation in the few oases present is enormous and hypertrophic. No creature born here can leave, no creature that dies here truly gives up its place. Legend has it that every *monster* in this desert is actually a creature that died here. Depending on the power of the creature, it is reborn as a more gigantic hungry monster.
 
@@ -112,13 +112,13 @@ The city also never appears in the same place but moves following a not-well-und
 
 The origin of this ancient and magical building is now forgotten; it is said that it was created to challenge a Patron, probably Gradh. The tower, with a square base of 20 meters on each side, is apparently 7 floors high. On each floor, whose map seems to be constantly changing, blue gorillas appear, absolutely brutal and with the intention of killing anyone in the tower. Once the last gorilla of the floor is defeated, the door leading to the stairs to the next floor opens and the characters can go up. On each floor, the gorillas become stronger, more resistant, and more intelligent.
 
-It is known that by the 4th floor, they also acquire magical powers. Characters who have entered can leave whenever they want; if they should die inside the tower, they will be automatically teleported outside, but alive at 1 Hit Point and extremely fatigued, without the most precious object they had on them at the time of death. There are no magic items inside the tower, at least on the known floors; the only thing the characters gain is experience for the battles they've fought. The current record is reaching the 7th floor. Will new heroes be able to reach the end (???) of the tower, and what rewards will there be for those who survive?
+It is known that by the 4th floor, they also acquire magical powers. Characters who have entered can leave whenever they want; if they should die inside the tower, they will be automatically teleported outside, but alive at 1 Hit Point and extremely fatigued, without the most precious object they had on them at the time of death. There are no magic items inside the tower, at least on the known floors; the only thing the characters gain is experience for the battles they' \*\*ve fought. The current record is reaching the 7th floor. Will new heroes be able to reach the end (???) of the tower, and what rewards will there be for those who survive?
 
 ### and the Earth?
 
 Our world exists and persists, despite every destruction and tragedy. As apocalyptic as the description so far may seem, some places are still almost intact, small corners of a forgotten paradise.
 
-You won't find a functioning industry or factory but rather a small business, a skilled craftsman, someone who carries on family traditions as best they can.
+You won' \*\*t find a functioning industry or factory but rather a small business, a skilled craftsman, someone who carries on family traditions as best they can.
 
 Many places, on the other hand, have been emptied, looted, partially destroyed, cities inhabited no longer by humans but by *something else*, subways that have become the new dungeons, forgotten catacombs that have returned to being places of refuge, cities buried by earthquakes yet still *inhabited*. The massive nuclear shelters, the powerful underground condominiums, have resisted yet had to share living spaces with those who have been mutated, changed.
 
@@ -132,7 +132,7 @@ And everywhere, Dragons! Innumerable, hungry, evil.
 
 ### The old States
 
-It is impossible in these few lines to describe to you how the entire planet has been *rewritten*. The magic of the Patrons is absolute and their will Law; let's not be surprised if what was the Sahara Desert is now the thickest and most lush jungle on the planet, known as the Garden of Shayalia.
+It is impossible in these few lines to describe to you how the entire planet has been *rewritten*. The magic of the Patrons is absolute and their will Law; let' \*\*s not be surprised if what was the Sahara Desert is now the thickest and most lush jungle on the planet, known as the Garden of Shayalia.
 Much of the eastern part of Russia, the one bordering the former states of Eastern Europe, has become the Empire of Ghouls, one of the most terrible places to live, if you are not devoted to Sixiser.
 
 Much of North America is a nuclear desert with the few populations that have taken refuge on the east and west coasts, hunted by bands of acid-spitting cannibalistic raiders and mutants.
@@ -150,7 +150,7 @@ Much of the lands between France and Germany have returned to a more primitive a
 The cold lands of northern Europe isolated themselves after their dead rose again. This time by the will of the people, help was sought from Krondal and Nedraf so that they could save them. Nedraf gave them the weapons and the experience to use them, Krondal, like a true madman, brought back the ancestral memories of a warrior past made of myths and Gods forgotten, or rather ignored, by most.
 Thus Krondal has recreated as his servants Aegir, Alfadur, Hel, Idhunn, Norne, not to mention the better-known Thor, Loki, Valkyries...
 
->>> **A world at feet**: Use real terrestrial physical geographic maps to help you with the environment. Look online for maps of ancient cities. You have at your disposal the greatest setting ever created; it's just a matter of populating it with the myths, legends, stories, and fantasy that are already around you.
+>>> **A world at feet**: Use real terrestrial physical geographic maps to help you with the environment. Look online for maps of ancient cities. You have at your disposal the greatest setting ever created; it' \*\*s just a matter of populating it with the myths, legends, stories, and fantasy that are already around you.
 
 Every city has its historical legends, discover them and play them together!
 
@@ -174,12 +174,13 @@ Each portal will lead you to a different place, fantastic as you intend it. Do y
 >>> **Settings**: Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
 Choose your setting, use Greyhawk, Dark Sun, Mystara, Midgard, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
 
-> First Chaos came to be, then broad-bosomed Gaia, the ever-sure foundation of all the deathless ones. Hesiod's Theogony
+> First Chaos came to be, then broad-bosomed Gaia, the ever-sure foundation of all the deathless ones. Hesiod' \*\*s Theogony
+
 ---
 
 ## The Calendar
 
-> I've often ended up on a calendar. But never for a specific date. (Marilyn Monroe)
+> I' \*\*ve often ended up on a calendar. But never for a specific date. (Marilyn Monroe)
 
 It all began on the thirteenth hour of the thirteenth day of the thirteenth month... We were there to discuss the printing errors in the calendars purchased by the school. (The Simpsons)}
 
@@ -213,7 +214,7 @@ These are the names of the months starting from what is defined as the beginning
 
 12°) Kartan (season: spring)
 
-*Raanant* is the month celebrated at the end of the Secular Cycle, every hundred years. It's a month of freedom from Patrons, from Laws, it's the month of catharsis and violence, of freedom and rebirth.
+*Raanant* is the month celebrated at the end of the Secular Cycle, every hundred years. It' \*\*s a month of freedom from Patrons, from Laws, it' \*\*s the month of catharsis and violence, of freedom and rebirth.
 
 A cycle of seven days, a week, is composed of days named:
 
@@ -242,6 +243,7 @@ The Devout and Followers believe that their spirit will reunite with the Patron,
 Others still believe that each spirit incarnates 4 times before being judged by the Patrons of Genesis and sent to the plane assigned to it.
 
 The truth is not for us to know.
+
 ---
 
 ## The Secular Cycles
@@ -250,7 +252,7 @@ The truth is not for us to know.
 
 And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while. (Revelation 20:1-3, apostle John)
 
-Myth says that every hundred years the Earth dies to be reborn again, more beautiful than before. It's not exactly like that, but it comes very close.
+Myth says that every hundred years the Earth dies to be reborn again, more beautiful than before. It' \*\*s not exactly like that, but it comes very close.
 
 It is known to few Atmos scholars that every century the recognized Patrons, from whom many draw their powers, disappear and give way, after exactly 1 year, to new Patrons.
 
@@ -280,7 +282,7 @@ It could be a new continent, a sea that opens between lands, new races, animals.
 
 Only the highest Devout of Atmos know this truth, just as they know that the Patrons of Genesis, after the victory, lie together for six months generating the new Patrons.
 
-Another truth, unfortunately unknown, is that our planet has been under the game of the Patrons for much longer than a century, and it is only by the desire of Ljust that we have no memory of all the previous cycles. The Patron of Light, to not make humanity lose hope, obtained that we forget the centuries of abuses caused by the continuous victories of Calicante's Patrons, from the destructions perpetrated by dragons, and maintain a feeble and vital hope in a world that can be more gentle and loving towards all its creatures.
+Another truth, unfortunately unknown, is that our planet has been under the game of the Patrons for much longer than a century, and it is only by the desire of Ljust that we have no memory of all the previous cycles. The Patron of Light, to not make humanity lose hope, obtained that we forget the centuries of abuses caused by the continuous victories of Calicante' \*\*s Patrons, from the destructions perpetrated by dragons, and maintain a feeble and vital hope in a world that can be more gentle and loving towards all its creatures.
 
 Traces of these past cycles can be found in the countless and otherwise unjustified dangers, dungeons, monsters, dragons, underground cities that fill every corner of the Earth.
 

@@ -4,11 +4,11 @@
 
 > - Doc... we just need a little bit of plutonium.
 
-- Oh, I'm sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it's a little hard to come by! (Back to the Future, Film 1985)
+- Oh, I' \*\*m sure that in 1985, plutonium is available in every corner drugstore, but in 1955, it' \*\*s a little hard to come by! (Back to the Future, Film 1985)
 
 ### Selling Treasures
 
-In the dungeons you'll explore, you'll have ample opportunities to find treasures, equipment, weapons, armor, and more. Usually, you can sell treasures and trinkets when you reach a town or other settlement, provided you can find buyers and merchants interested in your loot.
+In the dungeons you' \*\*ll explore, you' \*\*ll have ample opportunities to find treasures, equipment, weapons, armor, and more. Usually, you can sell treasures and trinkets when you reach a town or other settlement, provided you can find buyers and merchants interested in your loot.
 
 **Weapons, Armor, and Other Equipment **
 
@@ -16,7 +16,7 @@ As a general rule, undamaged weapons, armor, and other equipment sell for half t
 
 **Magic Items**
 
-Selling magic items is a problem. Finding someone who wants to buy a potion or scroll is not a great difficulty, but most items are beyond the reach of anyone's pockets except the richest nobles. Furthermore, apart from some common magic items, it is difficult to find magic items or spells for sale. The value of magic transcends simple currency and should always be treated with respect.
+Selling magic items is a problem. Finding someone who wants to buy a potion or scroll is not a great difficulty, but most items are beyond the reach of anyone' \*\*s pockets except the richest nobles. Furthermore, apart from some common magic items, it is difficult to find magic items or spells for sale. The value of magic transcends simple currency and should always be treated with respect.
 
 **Gems, Jewelry, and Art Objects**
 
@@ -29,6 +29,7 @@ On frontier lands, most transactions take place through barter. Many practical c
 **Perfect Tools**
 
 A perfect tool, in addition to costing 10 times as much as the normal version, grants a +1 to the check in which it is used.
+
 ---
 
 ### Adventuring Equipment
@@ -39,158 +40,158 @@ As a Narrator, always use common sense in requests, evaluate well the type of re
 
 Depending on the type of campaign, additional items such as firearms or alchemical items might be available.
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** |
+| **Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Abacus | 2 gp | L |
-| \rowcolor{gray!20}Alchemist's Fire (flask) | 20 gp | L |
-| Alchemist's lab | 200 gp | 5 |
-| \rowcolor{gray!20}Antitoxin (vial) | 50 gp | L |
-| Artisan's outfit | 1 gp | 1 |
-| \rowcolor{gray!20}Artisan's tools | 5 gp | 2 |
+| Alchemist' \*\*s Fire (flask) | 20 gp | L |
+| Alchemist' \*\*s lab | 200 gp | 5 |
+| Antitoxin (vial) | 50 gp | L |
+| Artisan' \*\*s outfit | 1 gp | 1 |
+| Artisan' \*\*s tools | 5 gp | 2 |
 | Backpack | 2 gp | 1 |
-| \rowcolor{gray!20}Bandolier | 3 gp | L |
+| Bandolier | 3 gp | L |
 | Barge | 3K gp | - |
-| \rowcolor{gray!20}Barrel (empty) | 2 gp | 4 |
+| Barrel (empty) | 2 gp | 4 |
 | Basket (empty) | 4 sp | 1 |
-| \rowcolor{gray!20}Bear trap | 5 gp | 3 |
+| Bear trap | 5 gp | 3 |
 | Bedroll | 1 sp | 1 |
-| \rowcolor{gray!20}Beer Mug | 5 cp | L |
+| Beer Mug | 5 cp | L |
 | Beer Pitcher | 2 sp | L |
-| \rowcolor{gray!20}Bell | 1 gp | -- |
+| Bell | 1 gp | -- |
 | Belt pouch | 2 gp | L |
-| \rowcolor{gray!20}Bit and bridle | 2 gp | 1 |
+| Bit and bridle | 2 gp | 1 |
 | Block and tackle | 20 gp | 2 |
-| \rowcolor{gray!20}Bread (loaf) | 2 cp | -- |
+| Bread (loaf) | 2 cp | -- |
 | Bucket (empty) | 5 sp | L |
-| \rowcolor{gray!20}Caltrops (20) | 1 sp | L |
+| Caltrops (20) | 1 sp | L |
 | Candle | 1 cp | -- |
-| \rowcolor{gray!20}Canvas (per sq. yd) | 1 sp | L |
+| Canvas (per sq. yd) | 1 sp | L |
 | Carriage | 300 gp | -- |
-| \rowcolor{gray!20}Cart | 15 gp | 10 |
+| Cart | 15 gp | 10 |
 | Ceramic carafe | 2 cp | L |
-| \rowcolor{gray!20}Ceramic mug | 2 cp | L |
+| Ceramic mug | 2 cp | L |
 | Ceramic pitcher(5L) | 2 cp | L |
-| \rowcolor{gray!20}Chain (10 ft) | 30 gp | 1 |
+| Chain (10 ft) | 30 gp | 1 |
 | Chalk (1 piece) | 1 cp | -- |
-| \rowcolor{gray!20}Cheese (1 piece) | 1 sp | -- |
+| Cheese (1 piece) | 1 sp | -- |
 | Chest | 5 gp | 4 |
-| \rowcolor{gray!20}Chest (empty) | 2 gp | 3 |
-| Climber's kit | 80 gp | 1 |
-| \rowcolor{gray!20}Common musical instrument | 5 gp | 2 |
+| Chest (empty) | 2 gp | 3 |
+| Climber' \*\*s kit | 80 gp | 1 |
+| Common musical instrument | 5 gp | 2 |
 | Component pouch | 25 gp | L |
-| \rowcolor{gray!20}Courtier's outfit | 30 gp | 1 |
+| Courtier' \*\*s outfit | 30 gp | 1 |
 | Crowbar | 2 gp | 1 |
-| \rowcolor{gray!20}Devotee's robes | 5 gp | 1 |
+| Devotee' \*\*s robes | 5 gp | 1 |
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** |
+| **Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Disguise kit | 50 gp | L |
-| \rowcolor{gray!20}Entertainer's outfit | 3 gp | 1 |
+| Entertainer' \*\*s outfit | 3 gp | 1 |
 | Exotic saddle | 60 gp | 3 |
-| \rowcolor{gray!20}Explorer's outfit | 10 gp | 1 |
+| Explorer' \*\*s outfit | 10 gp | 1 |
 | Feast (per person) | 10 gp | - |
-| \rowcolor{gray!20}Fine wine (bottle) | 10 gp | 1 |
+| Fine wine (bottle) | 10 gp | 1 |
 | Firewood (per day) | 1 cp | 4 |
-| \rowcolor{gray!20}Fishhook | 1 sp | - |
+| Fishhook | 1 sp | - |
 | Fishing net (7.5 ft) | 4 gp | 1 |
-| \rowcolor{gray!20}Fishing rod | 1 gp | 1 |
+| Fishing rod | 1 gp | 1 |
 | Galley | 30k gp | -- |
-| \rowcolor{gray!20}Glass bottle | 2 gp | L |
+| Glass bottle | 2 gp | L |
 | Grappling hook | 1 gp | 1 |
-| \rowcolor{gray!20}Hammer | 5 sp | 1 |
-| Healer's kit | 20 gp | 1 |
-| \rowcolor{gray!20}Healing Potion | 50 gp | L |
+| Hammer | 5 sp | 1 |
+| Healer' \*\*s kit | 20 gp | 1 |
+| Healing Potion | 50 gp | L |
 | Enhanced Healing Potion | 125 gp | L |
-| \rowcolor{gray!20}Hemp rope (50 ft) | 1 gp | 1 |
+| Hemp rope (50 ft) | 1 gp | 1 |
 | Holly and mistletoe |  | - |
-| \rowcolor{gray!20}Holy water (vial) | 25 gp | L |
+| Holy water (vial) | 25 gp | L |
 | Hourglass | 25 gp | -- |
-| \rowcolor{gray!20}House wine (pitcher) | 2 sp | 1 |
-| Hunter's lens | 100 gp | -- |
-| \rowcolor{gray!20}Ink (1 oz. vial) | 8 gp | -- |
+| House wine (pitcher) | 2 sp | 1 |
+| Hunter' \*\*s lens | 100 gp | -- |
+| Ink (1 oz. vial) | 8 gp | -- |
 | Ink vial or potion vial | 1 gp | L |
-| \rowcolor{gray!20}Inn, good (lodging) | 2 gp | -- |
+| Inn, good (lodging) | 2 gp | -- |
 | Inn, modest (lodging) | 5 sp | -- |
-| \rowcolor{gray!20}Inn, poor (lodging) | 1 sp | -- |
+| Inn, poor (lodging) | 1 sp | -- |
 | Iron pot | 8 sp | 1 |
-| \rowcolor{gray!20}Ladder (10 ft) | 2 sp | 3 |
+| Ladder (10 ft) | 2 sp | 3 |
 | Lamp oil | 1 sp | 1 |
-| \rowcolor{gray!20}Lantern | 1 gp | 2 |
+| Lantern | 1 gp | 2 |
 | Lantern, Bullseye | 12 gp | 1 |
-| \rowcolor{gray!20}Lantern, hooded | 7 gp | 1 |
+| Lantern, hooded | 7 gp | 1 |
 | Lock/padlock Average | 40 gp | -- |
-| \rowcolor{gray!20}Lock/padlock Simple | 20 gp | -- |
+| Lock/padlock Simple | 20 gp | -- |
 | Lock/padlock Superior | 150 gp | -- |
-| \rowcolor{gray!20}Longship | 10k gp | -- |
+| Longship | 10k gp | -- |
 | Manacles | 15 gp | L |
-| \rowcolor{gray!20}Maul | 1 gp | 2 |
+| Maul | 1 gp | 2 |
 | Meals (per day) Good | 5 sp | -- |
-| \rowcolor{gray!20}Meals (per day) Modest | 3 sp | -- |
+| Meals (per day) Modest | 3 sp | -- |
 | Meals (per day) Poor | 6 cp | -- |
-| \rowcolor{gray!20}Meat (1 piece) | 3 sp | L |
-| Merchant's scale | 2 gp | 1 |
-| \rowcolor{gray!20}Metal bearings (100) | 3 gp | 1 |
+| Meat (1 piece) | 3 sp | L |
+| Merchant' \*\*s scale | 2 gp | 1 |
+| Metal bearings (100) | 3 gp | 1 |
 | Military saddle | 50 gp | 3 |
-| \rowcolor{gray!20}Miner's pick | 3 gp | 2 |
-| Monk's outfit | 5 gp | 1 |
-| \rowcolor{gray!20}Noble's outfit | 75 gp | 2 |
+| Miner' \*\*s pick | 3 gp | 2 |
+| Monk' \*\*s outfit | 5 gp | 1 |
+| Noble' \*\*s outfit | 75 gp | 2 |
 | Oar | 2 gp | 2 |
-| \rowcolor{gray!20}Pack saddle | 15 gp | 2 |
+| Pack saddle | 15 gp | 2 |
 | Paper (sheet) | 4 sp | -- |
-| \rowcolor{gray!20}Parchment (sheet) | 2 sp | -- |
-| Peasant's outfit | 1 sp | 1 |
-| \rowcolor{gray!20}Perfume | 5 gp | L |
+| Parchment (sheet) | 2 sp | -- |
+| Peasant' \*\*s outfit | 1 sp | 1 |
+| Perfume | 5 gp | L |
 | Piton | 1 sp | L |
-| \rowcolor{gray!20}Plush toy | 2 sp | -- |
+| Plush toy | 2 sp | -- |
 | Pole (10 ft) | 5 cp | 2 |
-| \rowcolor{gray!20}Poison ring | +20 gp | - |
+| Poison ring | +20 gp | - |
 | Portable ram | 10 gp | 3 |
-| \rowcolor{gray!20}Potent Acid (vial) | 30 gp | L |
+| Potent Acid (vial) | 30 gp | L |
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** |
+| **Item** | **Cost** | **Enc.** |
 | --- | --- | --- |
 | Pouch | 5 sp | L |
-| \rowcolor{gray!20}Quill | 1 sp | -- |
+| Quill | 1 sp | -- |
 | Quiver | 3 gp | 1 |
-| \rowcolor{gray!20}Racing saddle | 30 gp | 2 |
+| Racing saddle | 30 gp | 2 |
 | Royal outfit | 200 gp | 3 |
-| \rowcolor{gray!20}Rowboat | 50 gp | 12 |
+| Rowboat | 50 gp | 12 |
 | Sack (empty) | 1 sp | L |
-| \rowcolor{gray!20}Saddlebags | 4 gp | 2 |
+| Saddlebags | 4 gp | 2 |
 | Sailing ship | 10k gp | -- |
-| \rowcolor{gray!20}Scholar's outfit | 5 gp | 1 |
+| Scholar' \*\*s outfit | 5 gp | 1 |
 | Scroll case | 1 gp | 1 |
-| \rowcolor{gray!20}Sealing wax | 1 gp | -- |
+| Sealing wax | 1 gp | -- |
 | Sewing needle | 5 sp | - |
-| \rowcolor{gray!20}Shovel or Spade | 1 gp | 1 |
+| Shovel or Spade | 1 gp | 1 |
 | Shovel or spade | 2 gp | 1 |
-| \rowcolor{gray!20}Signet ring | 5 gp | - |
+| Signet ring | 5 gp | - |
 | Silver holy symbol | 25 gp | L |
-| \rowcolor{gray!20}Sled | 20 gp | 3 |
+| Sled | 20 gp | 3 |
 | Sleeping bag | 3 gp | 2 |
-| \rowcolor{gray!20}Small metal mirror | 10 gp | L |
+| Small metal mirror | 10 gp | L |
 | Soap (per 1 lb) | 5 sp | -- |
-| \rowcolor{gray!20}Spider silk rope (50 ft) | 10 gp | L |
+| Spider silk rope (50 ft) | 10 gp | L |
 | Spyglass | 900 gp | 1 |
-| \rowcolor{gray!20}Stabling (per day) | 1 sp | -- |
+| Stabling (per day) | 1 sp | -- |
 | Staff | 2 gp | 1 |
-| \rowcolor{gray!20}Tarpaulin | 5 sp | 1 |
+| Tarpaulin | 5 sp | 1 |
 | Tent | 10 gp | 3 |
-| \rowcolor{gray!20}Thick hemp rope (50 ft) | 2 gp | 2 |
-| Thieves' tools | 30 gp | 1 |
-| \rowcolor{gray!20}Tinderbox | 5 sp | L |
+| Thick hemp rope (50 ft) | 2 gp | 2 |
+| Thieves' \*\* tools | 30 gp | 1 |
+| Tinderbox | 5 sp | L |
 | Torch | 1 sp | 1 |
-| \rowcolor{gray!20}Trail rations (per day) | 3 sp | L |
-| Traveler's outfit | 1 gp | 2 |
-| \rowcolor{gray!20}Vial (empty) | 3 cp | L |
+| Trail rations (per day) | 3 sp | L |
+| Traveler' \*\*s outfit | 1 gp | 2 |
+| Vial (empty) | 3 cp | L |
 | Wagon | 35 gp | -- |
-| \rowcolor{gray!20}Warship | 25k gp | -- |
+| Warship | 25k gp | -- |
 | Water clock | 900 gp | -- |
-| \rowcolor{gray!20}Waterskin | 1 gp | 2 |
+| Waterskin | 1 gp | 2 |
 | Whetstone | 2 cp | L |
-| \rowcolor{gray!20}Whistle | 8 sp | -- |
+| Whistle | 8 sp | -- |
 | Winter blanket | 5 sp | 1 |
-| \rowcolor{gray!20}Winter outfit | 8 gp | 2 |
+| Winter outfit | 8 gp | 2 |
 | Wooden holy symbol | 1 gp | L |
 
 > Any sufficiently advanced technology is indistinguishable from magic. (Arthur C. Clarke, from Profiles of the Future)
@@ -205,7 +206,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Poison ring**: +20 gp over the cost of the ring, this ring has a small compartment under the gem, usually used to contain poison. Opening and closing it requires an Action; doing so unnoticed requires a Sleight of Hand check with DC 15.
 
-**Antitoxin**. A creature that drinks this vial of liquid gains +1d6 on Saving Throws against poison for 1 hour. It doesn't provide any bonus to undead or constructs.
+**Antitoxin**. A creature that drinks this vial of liquid gains +1d6 on Saving Throws against poison for 1 hour. It doesn' \*\*t provide any bonus to undead or constructs.
 
 **Portable ram**. You can use a portable ram to break down doors with a +1d6 bonus. Another character can help you with the ram, giving you +2 on the check.
 
@@ -213,9 +214,9 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Bandolier**. This specialized belt for holding small items such as potions or scrolls is worn around the neck and holds up to 6 items. Drinking a potion contained in the Bandolier is an Immediate Action if another Action is used to extract it.
 
-**Metal Bearings**. As an Action, you can spill a single bag of these tiny metal bearings to cover a 3-meter square area. A creature moving across the covered area must succeed on a DC 13 Reflex Saving Throw or fall prone. A creature moving through the area at half speed doesn't need to make the Saving Throw.
+**Metal Bearings**. As an Action, you can spill a single bag of these tiny metal bearings to cover a 3-meter square area. A creature moving across the covered area must succeed on a DC 13 Reflex Saving Throw or fall prone. A creature moving through the area at half speed doesn' \*\*t need to make the Saving Throw.
 
-**Merchant's Scale**. A merchant's scale includes a small balance, a pan, and an assortment of weights up to 1 kilogram. With it, you can measure the exact weight of small objects, such as precious metals or goods, to help determine their value.
+**Merchant' \*\*s Scale**. A merchant' \*\*s scale includes a small balance, a pan, and an assortment of weights up to 1 kilogram. With it, you can measure the exact weight of small objects, such as precious metals or goods, to help determine their value.
 
 **Belt pouch**. This belt specialized for holding up to 4 small items such as potions or scrolls. Drinking a potion contained in the Belt pouch is an Immediate Action if another Action is used to extract it.
 
@@ -225,7 +226,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Candle**. For 1 hour of real game time, a candle casts dim light in a 1-meter radius.
 
-**Tarpaulin**. It's a treated coat to be water-repellent, allowing you to stay dry even in the rain.
+**Tarpaulin**. It' \*\*s a treated coat to be water-repellent, allowing you to stay dry even in the rain.
 
 **Spyglass**. Objects viewed through a spyglass are magnified to twice their size.
 
@@ -245,11 +246,11 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Arrows**. With the Ranger or Carpenter profession, it is possible to make 1d6 hunting arrows in one hour of work; a blacksmith with equipment can prepare 1d4 war arrows in 1 hour of work.
 
-**Healer's kit**. 20 gp.  This kit is a leather pouch containing bandages, salves, and splints. The kit can be used ten times. It grants a +2 bonus to First Aid checks.
+**Healer' \*\*s kit**. 20 gp.  This kit is a leather pouch containing bandages, salves, and splints. The kit can be used ten times. It grants a +2 bonus to First Aid checks.
 
 **Mess Kit**. 4 gp. This small tin box contains a bowl and simple utensils. The two parts of the box can be detached, and one side used as a cooking pot and the other as a plate or container.
 
-**Climber's Kit**. 8 gp. A climber's kit includes special pitons, boot tips, gloves, and a harness. You can anchor yourself using the climber's kit with an Action; when you do so, you can't fall more than 7 meters from the point where you anchored yourself, and you can't climb more than 7 meters away from that point without first undoing the anchor.
+**Climber' \*\*s Kit**. 8 gp. A climber' \*\*s kit includes special pitons, boot tips, gloves, and a harness. You can anchor yourself using the climber' \*\*s kit with an Action; when you do so, you can' \*\*t fall more than 7 meters from the point where you anchored yourself, and you can' \*\*t climb more than 7 meters away from that point without first undoing the anchor.
 
 **Lantern**. A Lantern casts bright light in a 3-meter radius and dim light for 6 meters. Once lit, it burns for 3 hours of real game time with one flask (0.5 liters) of lamp oil. A lantern is lit in one round only with Tinder and Flint or with another source of flame.
 
@@ -257,13 +258,13 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Hooded Lantern**. A hooded lantern casts light in a 6-meter radius and dim light for 6 meters. Once lit, it burns for 1 hour of real game time with one flask (0.5 liters) of oil. With an Action, you can lower the hood, reducing the light to dim with a 1-meter radius. A lantern is lit in one round only with Tinder and Flint or with another source of flame.
 
-**Hunter's Lens**\hypertarget{Hunter's lens}{Hunter's lens}: 100 gp, this complex lens is placed over one eye and occupies the eye slot when in use. When used with a ranged attack, it reduces the penalties from ranged attacks by 1d6. Objects within 9 meters become difficult to see, and you suffer a -1d6 penalty to Awareness checks based on sight and Attack Rolls.
+**Hunter' \*\*s Lens**Hunter' \*\*s lens: 100 gp, this complex lens is placed over one eye and occupies the eye slot when in use. When used with a ranged attack, it reduces the penalties from ranged attacks by 1d6. Objects within 9 meters become difficult to see, and you suffer a -1d6 penalty to Awareness checks based on sight and Attack Rolls.
 
 **Manacles**. These metal restraints can bind a Small or Medium creature. Breaking them requires succeeding on a Fortitude Saving Throw with Strength with DC 24. Each set of manacles comes with a key. Without the key, a creature can use Escape Artist or Disable Device to open the lock by succeeding on a DC 18 check. Manacles have 15 Hit Points and Hardness 3.
 
-**Lamp oil**. Usually purchased in a clay flask containing 0.5 liters. Used to refill lanterns. When used as an improvised weapon, see Alchemist's Fire, considering that the damage is 1d4.
+**Lamp oil**. Usually purchased in a clay flask containing 0.5 liters. Used to refill lanterns. When used as an improvised weapon, see Alchemist' \*\*s Fire, considering that the damage is 1d4.
 
-**Crowbar**. Using a crowbar gives +1d6 to Strength checks whenever the crowbar's leverage can be  applied.
+**Crowbar**. Using a crowbar gives +1d6 to Strength checks whenever the crowbar' \*\*s leverage can be  applied.
 
 **Healing Potion**. This generic healing potion allows you to recover 1d8+1 Hit Points. See also Generic potions p. .
 
@@ -279,7 +280,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Lock**. A key is provided with the lock. Without the key, a creature can pick this lock by succeeding on a Disable Device check with a DC that varies depending on the quality of the lock.
 
-**Holy Symbol**. A holy symbol is a representation of a Patron. It might be an amulet depicting a Patron's symbol, the same symbol carefully engraved or inlaid on an emblem or shield, or a tiny box containing a sacred relic.
+**Holy Symbol**. A holy symbol is a representation of a Patron. It might be an amulet depicting a Patron' \*\*s symbol, the same symbol carefully engraved or inlaid on an emblem or shield, or a tiny box containing a sacred relic.
 
 **Ear Plugs** 3 cp, made of cotton or waxed cork, ear plugs grant a +2 bonus to Saving Throws against effects that require hearing but impose a -4 penalty to Awareness checks based on hearing.
 
@@ -293,7 +294,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Bear Trap**. 12 gp, 2. You use two actions to set this trap, consisting of a toothed steel ring that snaps shut when a creature steps on the metal pressure plate in its center. The trap is fastened by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 15 Reflex Saving Throw or take 2d4 piercing damage and stop moving. A creature can use 2 actions to attempt a DC 15 Fortitude Saving Throw with Strength, and if they succeed, they free themselves or another creature within reach. Each failed attempt inflicts 1 piercing damage to the trapped creature.
 
-**Caltrops**. With an Action, you can spread a single bag of these tiny caltrops to cover a 1-meter square area. A creature moving across the covered area must succeed on a DC 15 Reflex Saving Throw or take 1 piercing damage. Until the creature regains at least 1 hit point, their walking speed is reduced by 3 meters. A creature moving through the area at half speed doesn't need to make the Saving Throw.
+**Caltrops**. With an Action, you can spread a single bag of these tiny caltrops to cover a 1-meter square area. A creature moving across the covered area must succeed on a DC 15 Reflex Saving Throw or take 1 piercing damage. Until the creature regains at least 1 hit point, their walking speed is reduced by 3 meters. A creature moving through the area at half speed doesn' \*\*t need to make the Saving Throw.
 
 **Basic Poison**. You can use the poison in this vial to coat one slashing or piercing weapon or up to three pieces of ammunition. Applying the poison takes an action. A creature hit by the poisoned weapon or ammunition must succeed on a DC 12 Fortitude Saving Throw or take 1d4 poison damage.
 Once applied, the poison retains potency for 1 minute before drying.
@@ -302,32 +303,32 @@ Once applied, the poison retains potency for 1 minute before drying.
 
 If the character chooses to purchase their starting equipment, they can purchase a kit at the indicated price, which is generally more convenient than purchasing individual items separately.
 
-**Adventurer's Kit (18 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, a bedroll, 10 days of rations, and a waterskin. The kit also includes 50 feet of hemp rope tied to the backpack.
+**Adventurer' \*\*s Kit (18 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, a bedroll, 10 days of rations, and a waterskin. The kit also includes 50 feet of hemp rope tied to the backpack.
 
-**Hunter's Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 60ft, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
+**Hunter' \*\*s Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 60ft, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
 
-**Diplomat's Kit (57 gp)**. Includes a chest, 2 map or scroll cases, a fine outfit, an ink bottle, a quill, a lantern, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
+**Diplomat' \*\*s Kit (57 gp)**. Includes a chest, 2 map or scroll cases, a fine outfit, an ink bottle, a quill, a lantern, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 
-**Devotee's Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 60ft, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
+**Devotee' \*\*s Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 60ft, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
 
-**Dungeon Explorer's Kit (24 gp)**: contains a set of basic tools for exploring ruins and abandoned cities including 2 candles, a crowbar, a piece of chalk, a hammer and 4 pitons, 60 feet of rope, a hooded lantern with 5 flasks of oil, 2 sacks, 2 torches, trail rations (for 3 days).
+**Dungeon Explorer' \*\*s Kit (24 gp)**: contains a set of basic tools for exploring ruins and abandoned cities including 2 candles, a crowbar, a piece of chalk, a hammer and 4 pitons, 60 feet of rope, a hooded lantern with 5 flasks of oil, 2 sacks, 2 torches, trail rations (for 3 days).
 
-**Entertainer's Kit (60 gp**). Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
+**Entertainer' \*\*s Kit (60 gp**). Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 
-**Burglar's Kit (24 gp)**. Includes a backpack, a bag with 1000 metal bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The kit also includes 50 feet of hemp rope tied to the backpack.
+**Burglar' \*\*s Kit (24 gp)**. Includes a backpack, a bag with 1000 metal bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The kit also includes 50 feet of hemp rope tied to the backpack.
 
-**Scholar's Kit (60 gp)**. Includes a backpack, a book of study, a bottle of ink, a quill, 10 sheets of parchment, a sand pouch, and a small knife.
+**Scholar' \*\*s Kit (60 gp)**. Includes a backpack, a book of study, a bottle of ink, a quill, 10 sheets of parchment, a sand pouch, and a small knife.
 
 ### Container Capacity
 
-| \rowcolor{gray!20}**Item** | **Capacity** | **CdC** | **Item** | **Capacity** | **CdC** |
+| **Item** | **Capacity** | **CdC** | **Item** | **Capacity** | **CdC** |
 | --- | --- | --- | --- | --- | --- |
 | Pouch | 1 cube with 30 cm edge/3 kg of equipment | 1 | Barrel | 160 liters of liquid, 4 cubes with 30 cm edge | 35 |
-| \rowcolor{gray!20}Mug | 0.5 liters | L | Bottle | 1 liter of liquid | L |
+| Mug | 0.5 liters | L | Bottle | 1 liter of liquid | L |
 | Bucket | 12 liters of liquid, 1 cube with 25 cm edge | 3 | Basket | 2 cubes with 30 cm edge/20 kg of equipment | 5 |
-| \rowcolor{gray!20}Sack | 1 cube with 30 cm edge/15 kg of equipment | 3 | Chest | 12 cubes with 30 cm edge/150 kg of equipment | 35 |
+| Sack | 1 cube with 30 cm edge/15 kg of equipment | 3 | Chest | 12 cubes with 30 cm edge/150 kg of equipment | 35 |
 | Vial | 120 ml of liquid | L | Waterskin | 2 liters of liquid | 1 |
-| \rowcolor{gray!20}Pitcher | 4 liters of liquid | 2 | Backpack | 2 cubes with 30 cm edge/30 kg of equipment | 6 |
+| Pitcher | 4 liters of liquid | 2 | Backpack | 2 cubes with 30 cm edge/30 kg of equipment | 6 |
 
 There is also a version of the Perfect Backpack (+100 gp) that grants a +2 to the transportable Encumbrance value.
 
@@ -337,31 +338,31 @@ The list of tools or implements presented helps characters perform checks relate
 
 Profession-related checks are usually calculated as 3d6+LV/2 + Wisdom.
 
-For example, a *Calligraphy* check is resolved with a Wisdom check; if the character has suitable tools (*Calligrapher's Supplies*) they get a +2 bonus to the check.
+For example, a *Calligraphy* check is resolved with a Wisdom check; if the character has suitable tools (*Calligrapher' \*\*s Supplies*) they get a +2 bonus to the check.
 
 If the character makes a check using specific tools or implements, they receive a +2 bonus.
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
+| **Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- | --- | --- | --- |
-| Thieves' Tools/Forgery kit | 25 gp | 1 | Herbalism kit | 5 gp | 1 |
-| \rowcolor{gray!20}Dice | 1 sp | - | Deck of Cards | 5 sp | - |
-| Poisoner's kit | 50 gp | 1 | Alchemist's supplies | 50 gp | 2 |
+| Thieves' \*\* Tools/Forgery kit | 25 gp | 1 | Herbalism kit | 5 gp | 1 |
+| Dice | 1 sp | - | Deck of Cards | 5 sp | - |
+| Poisoner' \*\*s kit | 50 gp | 1 | Alchemist' \*\*s supplies | 50 gp | 2 |
 
 | **Item** | **Cost** | **Enc.** | **Item** | **Cost** | **Enc.** |
 | --- | --- | --- | --- | --- | --- |
-| \rowcolor{gray!20}Calligrapher's supplies | 10 gp | 1 | Brewer's supplies | 20 gp | 2 |
-| Cobbler's tools | 5 gp | 2 | Cartographer's tools | 15 gp | 2 |
-| \rowcolor{gray!20}Leatherworker's tools | 5 gp | 2 | Mason's tools | 10 gp | 2 |
-| Smith's tools | 20 gp | 3 | Carpenter's tools | 8 gp | 2 |
-| \rowcolor{gray!20}Jeweler's tools | 25 gp | 1 | Woodcarver's tools | 1 gp | 2 |
-| Tinker's tools | 50 gp | 2 | Painter's supplies | 10 gp | 1 |
-| \rowcolor{gray!20}Glassblower's tools | 30 gp | 2 | Weaver's tools | 1 gp | 2 |
-| Potter's tools | 10 gp | 2 | Cook's utensils | 1 gp | 2 |
-| \rowcolor{gray!20}Navigator's tools | 25 gp | 2 | Lyre | 30 gp | 1 |
+| Calligrapher' \*\*s supplies | 10 gp | 1 | Brewer' \*\*s supplies | 20 gp | 2 |
+| Cobbler' \*\*s tools | 5 gp | 2 | Cartographer' \*\*s tools | 15 gp | 2 |
+| Leatherworker' \*\*s tools | 5 gp | 2 | Mason' \*\*s tools | 10 gp | 2 |
+| Smith' \*\*s tools | 20 gp | 3 | Carpenter' \*\*s tools | 8 gp | 2 |
+| Jeweler' \*\*s tools | 25 gp | 1 | Woodcarver' \*\*s tools | 1 gp | 2 |
+| Tinker' \*\*s tools | 50 gp | 2 | Painter' \*\*s supplies | 10 gp | 1 |
+| Glassblower' \*\*s tools | 30 gp | 2 | Weaver' \*\*s tools | 1 gp | 2 |
+| Potter' \*\*s tools | 10 gp | 2 | Cook' \*\*s utensils | 1 gp | 2 |
+| Navigator' \*\*s tools | 25 gp | 2 | Lyre | 30 gp | 1 |
 | Bagpipes | 30 gp | 1 | Horn | 3 gp | L |
-| \rowcolor{gray!20}Dulcimer | 25 gp | 2 | Flute | 2 gp | L |
+| Dulcimer | 25 gp | 2 | Flute | 2 gp | L |
 | Pan flute | 12 gp | L | Shawm | 1 gp | 2 |
-| \rowcolor{gray!20}Lute | 35 gp | 1 | Drum | 6 gp | 1 |
+| Lute | 35 gp | 1 | Drum | 6 gp | 1 |
 | Viol | 30 gp | 1 | Disguise kit | 25 gp | 1 |
 
 ### Mounts and Vehicles
@@ -378,52 +379,52 @@ To acquire such a mount, it is often necessary to steal an egg and raise the cre
 
 **Saddle**. A rider can strap into a military saddle to remain in place on an active mount during battle. A military saddle gives +1d6 to checks the character makes to stay in the saddle. A pack saddle is a saddle only suitable for allowing the mount to carry saddlebags. An exotic saddle is needed to ride an aquatic or flying creature.
 
-**Rowboats**. Barges and rowboats are typically used on lakes and rivers. If a boat is moving with the current, add the speed of the current (typically 4.5 km per hour) to its speed. Rowing upstream against a significant current isn't generally possible, but these vessels can be pulled upstream by beasts of burden from the shores. A rowboat weighs 50 kg (Encumbrance 15) should adventurers need to transport it over land.
+**Rowboats**. Barges and rowboats are typically used on lakes and rivers. If a boat is moving with the current, add the speed of the current (typically 4.5 km per hour) to its speed. Rowing upstream against a significant current isn' \*\*t generally possible, but these vessels can be pulled upstream by beasts of burden from the shores. A rowboat weighs 50 kg (Encumbrance 15) should adventurers need to transport it over land.
 
 **Table: Mounts and Other Animals**
 
-| \rowcolor{gray!20}**Mount** | **Cost** |
+| **Mount** | **Cost** |
 | --- | --- |
 | Camel | 50 gp |
-| \rowcolor{gray!20}Elephant | 500 gp |
+| Elephant | 500 gp |
 | Mastiff | 25 gp |
-| \rowcolor{gray!20}Racing Saurovall | 75 gp |
+| Racing Saurovall | 75 gp |
 | War Saurovall | 400 gp |
-| \rowcolor{gray!20}Draft Saurovall | 50 gp |
+| Draft Saurovall | 50 gp |
 | Pony Saurovall | 30 gp |
 
 **Tack and Harness and Drawn Vehicles**
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Weight** |
+| **Item** | **Cost** | **Weight** |
 | --- | --- | --- |
 | Barding | x4 | x2 |
-| \rowcolor{gray!20}Chariot | 250 gp | 50 kg |
+| Chariot | 250 gp | 50 kg |
 | Saddlebags | 4 gp | 4 kg |
-| \rowcolor{gray!20}Cart | 15 gp | 100 kg |
+| Cart | 15 gp | 100 kg |
 | Wagon | 35 gp | 200 kg |
-| \rowcolor{gray!20}Carriage | 300 gp | 300 kg |
+| Carriage | 300 gp | 300 kg |
 | Bit and Bridle | 2 gp | 0.5 kg |
-| \rowcolor{gray!20}Feed (per day) | 5 cp | 2 kg |
+| Feed (per day) | 5 cp | 2 kg |
 
 **Saddle**
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Weight** |
+| **Item** | **Cost** | **Weight** |
 | --- | --- | --- |
 | Pack | 15 gp | 7.5 kg |
-| \rowcolor{gray!20}Racing | 30 gp | 12.5 kg |
+| Racing | 30 gp | 12.5 kg |
 | Exotic | 60 gp | 20 kg |
-| \rowcolor{gray!20}Military | 50 gp | 15 kg |
+| Military | 50 gp | 15 kg |
 | Sled | 20 gp | 150 kg |
-| \rowcolor{gray!20}Stabling (per day) | 1 sp | **Watercraft** |
+| Stabling (per day) | 1 sp | **Watercraft** |
 
-| \rowcolor{gray!20}**Item** | **Cost** | **Speed** |
+| **Item** | **Cost** | **Speed** |
 | --- | --- | --- |
 | Rowboat | 50 gp | 2.25 km per hour |
-| \rowcolor{gray!20}Barge | 3000 gp | 1.5 km per hour |
+| Barge | 3000 gp | 1.5 km per hour |
 | Galley | 30000 gp | 6 km per hour |
-| \rowcolor{gray!20}Sailing ship | 10000 gp | 3 km per hour |
+| Sailing ship | 10000 gp | 3 km per hour |
 | Warship | 25000 gp | 3.75 km per hour |
-| \rowcolor{gray!20}Longship | 10000 gp | 4.5 km per hour |
+| Longship | 10000 gp | 4.5 km per hour |
 
 ### Services
 
@@ -434,14 +435,14 @@ A warrior might commission a blacksmith to forge a special sword.
 
 **Services**
 
-| \rowcolor{gray!20}**Service** | **Cost** |
+| **Service** | **Cost** |
 | --- | --- |
 | Carriage within a city | 5 cp/1 km |
-| \rowcolor{gray!20}Carriage between two towns | 1 sp/1 km |
+| Carriage between two towns | 1 sp/1 km |
 | Skilled Hireling | 2 gp per day |
-| \rowcolor{gray!20}Untrained Hireling | 5 sp per day |
+| Untrained Hireling | 5 sp per day |
 | Messenger | 5 cp/1.5 km |
-| \rowcolor{gray!20}Ship's passage | 1 sp/1.5 km |
+| Ship' \*\*s passage | 1 sp/1.5 km |
 | Entry toll | 5 cp/5 sp |
 
 ### Magical Services
@@ -464,11 +465,11 @@ Not all villages and towns have a spellcaster capable enough to manipulate magic
 
 **Smoke Stick** 20 gp, this wooden stick treated with an alchemical process instantly creates dense, opaque smoke when ignited. The smoke fills a 3-meter cube, except that the smoke is dispersed in 1 round by a moderate or stronger wind. The stick is consumed in 1 round and the smoke then dissipates naturally. All creatures in the affected area have total cover.
 
-**Alchemist's Coffee** 1 gp, very popular with young people, this is a brown crystalline powder. Mixed with water, it creates a bitter drink that cures the effects of a hangover. Single use. Work DC 15
+**Alchemist' \*\*s Coffee** 1 gp, very popular with young people, this is a brown crystalline powder. Mixed with water, it creates a bitter drink that cures the effects of a hangover. Single use. Work DC 15
 
 **Tanglefoot Bag** 50 gp, this round leather bag is filled with molasses, resin, or another sticky substance. When you throw the bag at a creature (as a ranged touch attack with a range of 3 meters), the bag bursts and the substance inside entangles the victim for 1 minute, becoming tough and elastic with exposure to air. It takes 3 Actions, even in different rounds, to break free.
 
-The substance doesn't work on creatures of Huge size or larger. A flying creature isn't stuck to the ground, but must succeed on a DC 15 Reflex Saving Throw or lose the ability to Fly (provided it uses wings to do so), falling to the ground. The tanglefoot bag doesn't work underwater.
+The substance doesn' \*\*t work on creatures of Huge size or larger. A flying creature isn' \*\*t stuck to the ground, but must succeed on a DC 15 Reflex Saving Throw or lose the ability to Fly (provided it uses wings to do so), falling to the ground. The tanglefoot bag doesn' \*\*t work underwater.
 
 **Bloodblock** 25 gp, this pink, sticky substance helps treat wounds. Using one dose grants a +4 bonus to First Aid checks. 4 Uses.
 
@@ -476,13 +477,13 @@ The substance doesn't work on creatures of Huge size or larger. A flying creatur
 
 **Smoke Pellet** 25 gp, this small clay sphere contains two alchemical substances separated by a thin barrier. When the sphere is broken, the substances combine and fill a melee area with a cloud of harmless blackish smoke. The smoke pellet works like a smoke stick, but the smoke remains for 1 round before dispersing. You can throw a smoke pellet as a touch attack with a range of 3 meters.
 
-**Alchemist's Fire** 20 gp, you can throw a flask of alchemist's fire as a splash weapon. Treat the attack as a ranged touch attack with an improvised weapon, with a range of 3 meters.
+**Alchemist' \*\*s Fire** 20 gp, you can throw a flask of alchemist' \*\*s fire as a splash weapon. Treat the attack as a ranged touch attack with an improvised weapon, with a range of 3 meters.
 
 A direct hit deals 1d6 fire damage. All creatures within melee range of where the flask landed take 1 fire damage as a splash effect. In the round following a direct hit, the victim takes an additional 1d6 fire damage. The victim can use 1 Action to attempt to extinguish the flames before taking this additional damage. A DC 15 Reflex Saving Throw is required to extinguish the flames. Using 2 Actions gives the character a +2 bonus to the Saving Throw. Diving into water or smothering the flames with magical means automatically extinguishes the flames.
 
 **Plaster of Paris**: 5 sp, this dry white powder, mixed with water, thickens within an hour to create a solid material. It can be used to create a cast of a footprint or bas-relief, fill holes or cracks in walls, or (if applied to a cloth covering) to set a broken bone. Hardened plaster has Hardness 1 and 5 Hit Points per 2.5 centimeters of thickness. A 2 kg jar of plaster can cover a melee radius to a depth of 2.5 centimeters, create five casts for the forearm or calf of a Medium-sized creature, or two complete casts for an arm or leg. Single use.
 
-**Liquid Ice** (vial) 40 gp, also known as *alchemist's ice*, this blue crystalline fluid begins to evaporate as soon as it's removed from its container. In the next 1d6 rounds, it can be used to freeze a liquid or cover an object with a thin layer of ice. You can also throw liquid ice as a splash weapon. A direct hit deals 1d6 cold damage, while creatures within melee range take 1 cold damage from the splash. The package contains 3 doses.
+**Liquid Ice** (vial) 40 gp, also known as *alchemist' \*\*s ice*, this blue crystalline fluid begins to evaporate as soon as it' \*\*s removed from its container. In the next 1d6 rounds, it can be used to freeze a liquid or cover an object with a thin layer of ice. You can also throw liquid ice as a splash weapon. A direct hit deals 1d6 cold damage, while creatures within melee range take 1 cold damage from the splash. The package contains 3 doses.
 
 **Alchemical Grease** 5 gp, each jar of this blackish substance can cover a Medium creature or two Small ones. Covering yourself with alchemical grease gives you a +4 bonus to wrestling checks and to escape grapples. The effect lasts for 4 hours or until the grease is washed off.
 
@@ -528,13 +529,13 @@ When the effect of the bitter aid wears off, your level of fatigue increases by 
 ### The Standard Backpack
 
 The Standard Backpack\textregistered \space is a list of items that I have noted over time, adding everything that I needed during adventures.
-Take it as a guide to understand what objects to have with you, don't mark them all down otherwise the Narrator will seriously start looking at the Encumbrance rules!
+Take it as a guide to understand what objects to have with you, don' \*\*t mark them all down otherwise the Narrator will seriously start looking at the Encumbrance rules!
 
-This is the content of the adventurer's backpack: belt, 3 candles, 6 torches, Tinderbox, 7 dry rations, 2-person tent, waterskin, rolled mattress, sleeping bag, tarpaulin, tent, 60 feet of rope, net, metal mirror, crowbar, compass, 3 lamp oil, ink, chalk, charcoal, hook, shovel, fishhook, rags, 2m metal cable, whistle, 6 empty potion vials, marbles, brass bell, 1kg of flour in a small bag, 3 wedges, 12 meters of metal chain, 2 manacles, 8 pitons, hammer, pulley, grappling hook, bandolier.
+This is the content of the adventurer' \*\*s backpack: belt, 3 candles, 6 torches, Tinderbox, 7 dry rations, 2-person tent, waterskin, rolled mattress, sleeping bag, tarpaulin, tent, 60 feet of rope, net, metal mirror, crowbar, compass, 3 lamp oil, ink, chalk, charcoal, hook, shovel, fishhook, rags, 2m metal cable, whistle, 6 empty potion vials, marbles, brass bell, 1kg of flour in a small bag, 3 wedges, 12 meters of metal chain, 2 manacles, 8 pitons, hammer, pulley, grappling hook, bandolier.
 
 ## Expenses and Lifestyle
 
-When they're not delving into the depths of the earth, exploring ruins for lost treasures, or waging war against the forces of encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, albeit different lifestyles come with different expenses.
+When they' \*\*re not delving into the depths of the earth, exploring ruins for lost treasures, or waging war against the forces of encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, albeit different lifestyles come with different expenses.
 
 To simplify daily expenses, the player can declare that they maintain a certain standard of living and subtract the expenses daily as a lump sum, without subtracting individual expenses incurred.
 
@@ -546,12 +547,12 @@ The choice of lifestyle can have consequences. A character who maintains a wealt
 
 	
 
-| \rowcolor{gray!20}**Lifestyle** | **Price** | **Lifestyle** | **Price** |
+| **Lifestyle** | **Price** | **Lifestyle** | **Price** |
 | --- | --- | --- | --- |
 | Wretched | - | Squalid | 1 sp |
-| \rowcolor{gray!20}Poor | 2 sp | Modest | 1 gp |
+| Poor | 2 sp | Modest | 1 gp |
 | Comfortable | 2 gp | Wealthy | 4 gp |
-| \rowcolor{gray!20}Aristocratic | 10+ gp | Royal | 50 gp+ |
+| Aristocratic | 10+ gp | Royal | 50 gp+ |
 
 ---
 
@@ -573,14 +574,14 @@ Armor and weapons can be crafted from materials that possess inherent special qu
 
 ### Livewood
 
-| \rowcolor{gray!20}**Item type** | **Cost modifier** |
+| **Item type** | **Cost modifier** |
 | --- | --- |
 | for Ammunition | +40 gp |
-| \rowcolor{gray!20}Weapon | +1000 gp |
+| Weapon | +1000 gp |
 | Light armor | +3000 gp |
-| \rowcolor{gray!20}Medium armor | +8000 gp |
+| Medium armor | +8000 gp |
 | Heavy armor | +12000 gp |
-| \rowcolor{gray!20}Shield | +600 gp |
+| Shield | +600 gp |
 | Other items | 3000 gp/kg |
 
 A livewood tree is characterized by wood that is particularly hard, comparable to steel. The origin of these trees remains a mystery to almost everyone. A livewood tree is a normal tree planted by a Devotee of Efrem or Shayalia that has been blessed by the Devotee.
@@ -591,14 +592,14 @@ Livewood has 35 Hit Points per 2.5 cm of thickness and Hardness 15.
 
 ### Adamantine
 
-| \rowcolor{gray!20}**Object Type** | **Cost Modifier** |
+| **Object Type** | **Cost Modifier** |
 | --- | --- |
 | for Ammunition | +60 gp |
-| \rowcolor{gray!20}Weapon | +1500 gp |
+| Weapon | +1500 gp |
 | Light armor | +5000 gp |
-| \rowcolor{gray!20}Medium armor | +10000 gp |
+| Medium armor | +10000 gp |
 | Heavy armor | +15000 gp |
-| \rowcolor{gray!20}Shield | +1000 gp |
+| Shield | +1000 gp |
 | Other objects | 5000 gp/kg |
 
 This extremely hard metal is found only in meteorites and contributes to the quality of a weapon or armor.
@@ -609,12 +610,12 @@ Weapons and armor normally made of steel and constructed with adamantine have on
 
 ### Alchemical Silver
 
-| \rowcolor{gray!20}**Object Type** | **Cost Modifier** |
+| **Object Type** | **Cost Modifier** |
 | --- | --- |
 | for Ammunition | +2 gp |
-| \rowcolor{gray!20}Light weapon | +20 gp |
+| Light weapon | +20 gp |
 | Medium weapon | +90 gp |
-| \rowcolor{gray!20}Heavy weapon | +180 gp |
+| Heavy weapon | +180 gp |
 | Shield | +100 gp |
 
 The alchemical silvering process can only be applied to metal weapons and does not work on special metals such as adamantine, cold iron, and mithral.
@@ -627,18 +628,18 @@ An alchemical silver weapon maintains the Hardness and Hit Points of the origina
 
 This iron is mined deep underground and is known for its effectiveness against demons and fey. It is forged at a lower temperature to preserve its delicate properties. Making weapons out of cold iron costs twice as much as their normal counterparts. Additionally, any magical enhancement costs an extra 2000 gp. This increase is applied the first time the item is enhanced, not once for each quality added.
 
-Objects without metal parts cannot be made of cold iron. An arrow could be made of cold iron but a club could not (unless it's entirely metal). A double weapon that is only half cold iron increases its cost by 50\%.
+Objects without metal parts cannot be made of cold iron. An arrow could be made of cold iron but a club could not (unless it' \*\*s entirely metal). A double weapon that is only half cold iron increases its cost by 50\%.
 
 Cold iron has 30 Hit Points per 2.5 cm of thickness and Hardness 10.
 
 ### Mithral
 
-| \rowcolor{gray!20}**Object Type** | **Cost Modifier** |
+| **Object Type** | **Cost Modifier** |
 | --- | --- |
 | Light armor | +1000 gp |
-| \rowcolor{gray!20}Medium armor | +4000 gp |
+| Medium armor | +4000 gp |
 | Heavy armor | +9000 gp |
-| \rowcolor{gray!20}Shield | +1000 gp |
+| Shield | +1000 gp |
 | Other objects | +1000 gp/kg |
 
 Mithral is a very rare, shimmering, silver-like metal, lighter than iron but just as hard. When worked like steel, it becomes a wonderful material for creating armor and occasionally for other objects. Most mithral armor is one category lighter and is more suitable for movement and other limitations. Heavy armors are treated as medium armors, and medium armors are treated as light, but light armors remain light.
@@ -664,4 +665,5 @@ Dragonhide Armor reduce Magic Check penalty by 4, proficiency penalties decrease
 Dragonhide armors cost 10 times an armor of that type, but do not require more time to be built. Dragon armor is never for sale.
 
 Dragonhide has 10 Hit Points per 2.5 cm of thickness and Hardness 10. Usually dragonhide is 1.25 to 2.5 cm thick.
+
 ---

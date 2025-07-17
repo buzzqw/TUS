@@ -92,7 +92,7 @@ Non è necessario che abbia giurato fedeltà ad un Patrono o che ne sia Seguace 
 Un Patrono è ben contento se le creature seguono i suoi dettami, Tratti, e dona a coloro che lo fanno dei piccoli poteri come riconoscimento per la fedeltà a lui riservata, volutamente o meno. I poteri indicati sotto *Tratti in Comune* sono cumulativi. Se non indicato diversamente i poteri sono usabili 1 volta al giorno e costano 2 Azioni.
 Quando è indicato un incantesimo questo viene manifestato senza Prove di Magia o penalità dovute ad armatura.
 
-Ogni **Patrono predilige uno o più forme energetiche**, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le *Liste Privilegiate* (pag. ), ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
+Ogni **Patrono predilige uno o più forme energetiche**, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le *Liste Privilegiate* , ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
 
 Le forme di Energia vengono distinte tra fonti positive, neutrali e negative, servono per inquadrare meglio il vostro padrone, pardon, il Patrono che servite.
 
@@ -100,7 +100,7 @@ Fate la somma delle energie, se positiva il Patrono si può considerare buono, s
 
 Nella descrizione del Patrono troverete anche la sua **manifestazione**, ovvero cosa accade quando un personaggio agisce in maniera particolarmente e significativamente consona ai Tratti seguiti dal Patrono. L'effetto è puramente scenico e di circostanza ma lascia sempre colpito chiunque lo possa osservare, solitamente garantisce un punto avanzamento in un Tratto collegato al Patrono. Non è necessario essere Devoto o Seguace, basta aver seguito in maniera particolarmente *epica* quel Tratto.
 
-E' presente anche l'indicazione dell'**arma preferita** dal Patrono. Non ci sono vantaggi nell'usarla, a meno di avere la specifica Abilità (pag. ), la scelta è puramente personale e lasciata alla devozione del personaggio.
+E' presente anche l'indicazione dell'**arma preferita** dal Patrono. Non ci sono vantaggi nell'usarla, a meno di avere la specifica Abilità , la scelta è puramente personale e lasciata alla devozione del personaggio.
 
 Sotto l'indicazione dell'arma preferita c'è l'indicazione della Regola  ovvero il comportamento che il Devoto deve cercare di rispettare.
 
@@ -118,12 +118,12 @@ Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti li
 
 **Tabella Energia - Elementi**
 
-| \rowcolor{gray!20}**Positivi** (+1) | **Neutrali** (0) | **Negativi** (-1) |
+| **Positivi** (+1) | **Neutrali** (0) | **Negativi** (-1) |
 | --- | --- | --- |
 | En. Positiva | Fuoco | En. Negativa |
-| \rowcolor{gray!20}Luce | Freddo | Vuoto |
+| Luce | Freddo | Vuoto |
 | Suono | |
-| \rowcolor{gray!20} | Elettricità | Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri. |
+|  | Elettricità | Nessun Patrono è completamente buono o completamente malvagio. Come la natura di un uomo è sfaccettata anche a seconda delle occasioni, così un Patrono potrà avere anomali slanci positivi o negativi. Ricordati che i Patroni sono Dei ma generati dalle emozioni e desideri. |
 
 ### Miracoli, Interventi e Prodigi
 
@@ -131,7 +131,6 @@ In un mondo dove le divinità sono così capricciose, volubili e assetati di dev
 
 Un favore chiesto ad un Patrono ha sempre un prezzo non ovvio ne scontato. Il Narratore deve valutare attentamente la supplica del personaggio e giudicare se la richiesta è pertinente con i Tratti del Patrono, in caso positivo tirare 1d100 e fare meno della metà del punteggio più alto di Tratto in comune con il Patrono. Oppure decidere autonomamente secondo il corso dell'avventura.
 
-\addcontentsline{toc}{subsection}{Elenco Patroni}
 
 ### Ljust
 
@@ -159,7 +158,6 @@ Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, 
 
 Le Allieve della Luce sono una gruppo segreto di Devote che per totale affinità con Ljust hanno intrapreso il difficile percorso del bene e dell'amore. E' tra i gruppi più antichi fondati sulla Terra. Le Allieve, 99 come numero massimo, ma purtroppo spesso meno numerose, sono Devote di Ljust e devono seguire gli 8 Passi della Luce
 
-\begin{enumerate}[leftmargin=*] 
 - Ama e proteggi con tutta te stessa, con totale e sincera dedizione chi hai attorno a te.
 - Non lasciare che la tua inazione generi sofferenza.
 - Si un punto di paragone. Fai che la tua Luce elevi le persone che hai intorno e possano vedere in te speranza, serenità, calma, protezione e sicurezza.
@@ -168,7 +166,6 @@ Le Allieve della Luce sono una gruppo segreto di Devote che per totale affinità
 - Non cercare altra Luce se non la tua e quella delle tue sorelle.
 - Sii luminosa ma non accecare chi è intorno a te.
 - Sii la differenza tra la disperazione e la speranza.
-\end{enumerate}
 
 Le Allieve hanno costruito un ballo armonioso trasformando in danza i passi della loro Regola.
 
@@ -749,7 +746,7 @@ I Devoti di Sixiser sono spesso negromanti circondati da non morti ed altre crea
 
 > Ogni uomo è colpevole di tutto il bene che non ha fatto. (Voltaire)
 
-Tutto ciò che non viene donato va perduto. (Dominique Lapierre)
+> Tutto ciò che non viene donato va perduto. (Dominique Lapierre)
 
 Patrono dell'Arcano di Luce. Sumkjr è bontà, correttezza, lealtà, giustizia, protezione.
 
@@ -788,7 +785,6 @@ Le Sette regole Luminose sono un insieme di norme e comportamenti tenuti, a vari
 
 I Devoti di Sumkjr devono seguirle tutte e 7, altri Devoti di altri Patroni, sempre positivi od almeno neutrali, seguono solo alcune di questi dettami, come regola per non cadere nelle braccia di Calicante.
 
-\begin{enumerate}[leftmargin=*] 
 - Proteggi i deboli e chi non sa difendersi dai soprusi
 - Ama la vita e proteggila
 - Combatti contro le ingiustizie e chi porta sofferenze e dolore
@@ -796,7 +792,6 @@ I Devoti di Sumkjr devono seguirle tutte e 7, altri Devoti di altri Patroni, sem
 - Onestà e Lealtà sono le tua fondamenta
 - Sei un maestro di virtù. Fa che gli altri possano prendere ispirazione dalle tue gesta
 - Non lasciare che la tua inazione generi sofferenza
-\end{enumerate}
 
 ### Tàhil
 
@@ -914,59 +909,60 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 
 I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizzante.
 
-**\hyperlink{gaya**{Gaya: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
+Gaya: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 
-**\hyperlink{calicante**{Calicante: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
+Calicante: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
 
-**\hyperlink{erondil**{Erondil: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
+Erondil: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 
-**\hyperlink{rezh**{Rezh: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
+Rezh: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
 
-**\hyperlink{sixiser**{Sixiser: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
+Sixiser: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
 
-**\hyperlink{cattalm**{Cattalm: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
+Cattalm: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 
-**\hyperlink{ljust**{Ljust: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
+Ljust: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
 
-**\hyperlink{gradh**{Gradh: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
+Gradh: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 
-**\hyperlink{nihar**{Nihar: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
+Nihar: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
 
-**\hyperlink{tazher**{Tazher: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
+Tazher: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
 
-**\hyperlink{shayalia**{Shayalia: Dissoluto, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
+Shayalia: Dissoluto, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
 
-**\hyperlink{ledyal**{Ledyal: Entusiasta, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
+Ledyal: Entusiasta, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
 
-**\hyperlink{nethergal**{Nethergal: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
+Nethergal: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
 
-**\hyperlink{sumkjr**{Sumkjr: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
+Sumkjr: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
 
-**\hyperlink{atmos**{Atmos: Indeciso, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
+Atmos: Indeciso, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
 
-**\hyperlink{krondal**{Krondal: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
+Krondal: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 
-**\hyperlink{belevon**{Belevon: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
+Belevon: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 
-**\hyperlink{orudjs**{Orudjs: Impulsivo, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
+Orudjs: Impulsivo, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
 
-**\hyperlink{efrem**{Efrem: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
+Efrem: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
 
-**\hyperlink{torbiorn**{Torbiorn: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
+Torbiorn: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 
-**\hyperlink{nedraf**{Nedraf: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
+Nedraf: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
 
-**\hyperlink{atherim**{Atherim: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
+Atherim: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
 
-**\hyperlink{thaft**{Thaft: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
+Thaft: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 
-**\hyperlink{lynx**{Lynx: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
+Lynx: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 
-**\hyperlink{orlaith**{Orlaith: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
+Orlaith: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 
-**\hyperlink{laydel**{Laydel: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
+Laydel: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 
-**\hyperlink{tahil**{Tàhil: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
+Tàhil: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
 > Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. Iliade, Omero.
+
 ---

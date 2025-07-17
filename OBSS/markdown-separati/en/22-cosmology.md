@@ -8,7 +8,7 @@ You believe that there is one God? You do well; even the demons believe and trem
 
 The deities, the Patrons, love to get their hands dirty, to participate in the affairs of the creatures who worship them, for them it is a continuous challenge to have more believers, adepts, and people more similar, in Traits, to them.
 
-The Patrons were created as \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the human soul, where everything is an excess. Like spirits released from Pandora's box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
+The Patrons were created as \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the human soul, where everything is an excess. Like spirits released from Pandora' \*\*s box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
 
 In the beginning was the void which contained everything within itself.
 
@@ -53,7 +53,7 @@ Atmos, concerned for the balance on Earth, channeled the primordial and divine e
 
 The first created by Atmos, with the help of Ljust, and the intervention of Calicante, was **Gradh**, Patron of Humanity (and all sentient races), the one who would defend Earth from external creatures and from other Patrons. Gradh embodies within himself the dualism of the two Patrons of Genesis, the innate instinct for protection, defense, and care typical of Ljust and the instinct for vengeance, violence, and fury of Calicante.
 
-He throws himself courageously into battles, attacks the enemy without fear, protects the weaker, defends life but is not afraid to travel the path of the most destructive vengeance against those who exploit and destroy lives without reason. Gradh loves to mingle among people and live with them, like them. He doesn't feel completely at ease in the pantheon with the other Patrons nor among common people, he is Human among Patrons and Patron among Humans. Passionate and gentle, he is the Patron who most cares about the fate of our planet and its creatures. Gradh is the Patron who protects us from the Patrons, perhaps the only true son of Earth and the Patrons of Genesis.
+He throws himself courageously into battles, attacks the enemy without fear, protects the weaker, defends life but is not afraid to travel the path of the most destructive vengeance against those who exploit and destroy lives without reason. Gradh loves to mingle among people and live with them, like them. He doesn' \*\*t feel completely at ease in the pantheon with the other Patrons nor among common people, he is Human among Patrons and Patron among Humans. Passionate and gentle, he is the Patron who most cares about the fate of our planet and its creatures. Gradh is the Patron who protects us from the Patrons, perhaps the only true son of Earth and the Patrons of Genesis.
 
 The tongues of divine energies were too intense, chaotic, and pure for Atmos to govern them alone to shape the Patrons. Using the raw power of the Patrons of Genesis, he created other Patrons, the second coming, each influenced differently by Calicante or Ljust. These Patrons turned out to be less perfect and divine than his intentions, more imperfect and *human* as they originated from the emotions, uncontrollable and pure, of the Patrons of Genesis. These new Patrons shape wills, found kingdoms, command in the shadows the pawns who dare to ask for their favors.
 
@@ -62,7 +62,7 @@ In this apparent calm, the Patrons perpetuate their interests, to become the str
 If a Patron acts in person or indiscriminately, he knows that he will trigger the reaction of Gradh or the intervention of Atmos, who will prevent him from an uncontrolled and massive use of his powers directly on Earth, as the very first Patrons did. This rarely stops them, and the same nature and all creatures are often influenced by the will of the Patrons.
 
 And this is how aberrations, ever-new diseases, cursed lands where nothing can grow, not to mention madnesses that often involve those who should protect citizens, are born more and more often.
-It's a hard life for the common man who must continuously face drought or floods, animal deaths, and irregular if not absurd weather, hordes of creatures coming from nowhere who only want to exterminate everyone.
+It' \*\*s a hard life for the common man who must continuously face drought or floods, animal deaths, and irregular if not absurd weather, hordes of creatures coming from nowhere who only want to exterminate everyone.
 
 At every step he must look around because he can never know who has sold his soul to a Patron to live one more day.
 
@@ -79,7 +79,7 @@ How the Freten managed to capture the First Son and subjugate him is still a mys
 
 Subotai: I pray to the four winds and you?
 
-Conan: I pray to Crom, but rarely... he doesn't listen. (Conan the Barbarian, 1982 film)
+Conan: I pray to Crom, but rarely... he doesn' \*\*t listen. (Conan the Barbarian, 1982 film)
 
 For as the body without the spirit is dead, so faith without works is dead also. (James The Just 2, 26. NdA Referring to the scores of Traits connected to the Patron...)
 
@@ -120,18 +120,18 @@ Nothing prevents a character from receiving more powers from different Patrons! 
 
 	
 
-| \rowcolor{gray!20}**Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
+| **Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
 | --- | --- | --- |
 | Positive En. | Fire | Negative En. |
-| \rowcolor{gray!20}Light | Cold | Void |
+| Light | Cold | Void |
 | Sound | |
-| \rowcolor{gray!20} | Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
+|  | Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
 
 ### Miracles, Interventions, and Prodigies
 
 In a world where deities are so capricious, fickle, and thirsty for devotees, it is in their interest to prove generous to those who can then spread their Traits.
 
-A favor asked of a Patron always has a price neither obvious nor predictable. The Narrator must carefully evaluate the character's plea and judge if the request is pertinent to the Patron's Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
+A favor asked of a Patron always has a price neither obvious nor predictable. The Narrator must carefully evaluate the character' \*\*s plea and judge if the request is pertinent to the Patron' \*\*s Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
 
 ### List of Patrons 
 
@@ -161,7 +161,6 @@ Ljust can only be chosen by a character with 4 Traits in common with her, fundam
 
 The Disciples of Light are a secret group of Devotees who, through total affinity with Ljust, have undertaken the difficult path of good and love. It is among the oldest groups founded on Earth. The Disciples, 99 as maximum number, but unfortunately often less numerous, are Devotees of Ljust and must follow the 8 Steps of Light.
 
-\begin{enumerate}[leftmargin=*] 
 - Love and protect with all of yourself, with total and sincere dedication those around you.
 - Do not let your inaction generate suffering.
 - Be a point of comparison. Make your Light elevate the people around you so they can see in you hope, serenity, calm, protection, and security.
@@ -170,7 +169,6 @@ The Disciples of Light are a secret group of Devotees who, through total affinit
 - Do not seek other Light if not your own and that of your sisters.
 - Be luminous but do not blind those around you.
 - Be the difference between despair and hope.
-\end{enumerate}
 
 The Disciples have built a harmonious dance transforming the steps of their Rule into dance.
 
@@ -230,7 +228,7 @@ Dressed in a soft brown robe and leather sandals, he moves among the infinite sh
 
 ### Lynx
 
-> People don't take trips, trips take people. (John Steinbeck)
+> People don' \*\*t take trips, trips take people. (John Steinbeck)
 
 Patron of the Portals, he can only be chosen by characters who have at least 3 Traits in common. He is the first Patron generated by Ljust and Calicante, created to protect the Earth from external attacks.
 
@@ -289,7 +287,7 @@ The Devotee of Gradh is proud and haughty, indomitable and protective, and sorro
 
 There is nothing hidden that will not be revealed, nor secret that will not be known. (Luke, 12, 1-7)
 
-The guardian Patron. Many see in Atherim's generous bosom a sign of voluptuousness and passion. They are enchanted by her voluptuous beauty and do not see the crystal eyes that instill fear in anyone who even thinks about approaching her.
+The guardian Patron. Many see in Atherim' \*\*s generous bosom a sign of voluptuousness and passion. They are enchanted by her voluptuous beauty and do not see the crystal eyes that instill fear in anyone who even thinks about approaching her.
 
 Atherim is the guardian of dreams and hopes, the one to whom to entrust, as to a mother, desires. She is the Patron of Children, Secrets, and Midwives.
 
@@ -297,11 +295,11 @@ With a cheerful smile and a good soul, she will always be ready to help you achi
 
 The Devotee of Atherim takes to heart those who have made a promise, punishes those who break them and those who reveal secrets. Many Devotees of Atherim are diplomats, notaries, and midwives.
 
-- **Symbol**: A gloved woman's hand holding a vial rich with flows
+- **Symbol**: A gloved woman' \*\*s hand holding a vial rich with flows
 - **Ability Score**: Wisdom
 - **Traits**: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain
 - **Manifestation**: a serene and calming silence falls around the caster
-- **Sum of Traits in common at 5 points**: You can add 1d6 to a Saving Throw after you've rolled it but before knowing if it succeeded or not. Once per day, as a Reaction.
+- **Sum of Traits in common at 5 points**: You can add 1d6 to a Saving Throw after you' \*\*ve rolled it but before knowing if it succeeded or not. Once per day, as a Reaction.
 - **Sum of Traits in common at 10 points**: You gain 30 temporary Hit Points. Duration 1 hour, once per day, as an Immediate Action.
 - **Sum of Traits in common at 15 points**: You can cast the spell Zone of Truth 3 times per day, with no Saving Throw.
 - **Sum of Traits in common at 20 points**: Any potion you drink has double the duration or effect if immediate.
@@ -319,7 +317,7 @@ No one has a memory good enough to be a perfect liar. (Abraham Lincoln)
 
 He is the Patron who best embodies lying and pretense for his own benefit. He loves only himself. He is a narcissist who surrounds himself only with people who indulge and flatter him. He abhors loneliness but at the same time hates being touched by someone.
 
-He is always looking for new things, wonderful objects that he exchanges and re-exchanges with other objects. He likes to discuss and bargain until he always gets what he wants at the cost of others' lives.
+He is always looking for new things, wonderful objects that he exchanges and re-exchanges with other objects. He likes to discuss and bargain until he always gets what he wants at the cost of others' \*\* lives.
 
 Belevon is a hideous and deformed Patron worshiped by abject creatures from the deepest caves, envious of what is possessed by others.
 
@@ -341,7 +339,7 @@ The Devotee of Belevon is well described as a lizardman surrounded by trinkets a
 
 ### Cattalm
 
-> It's not being angry that counts, it's being angry at the right things. I told her: look at it from the Darwinian perspective. Anger is meant to make you efficient. That's its function for survival. That's why you were given it. If it makes you inefficient, drop it like a hot potato. (Philip Roth)
+> It' \*\*s not being angry that counts, it' \*\*s being angry at the right things. I told her: look at it from the Darwinian perspective. Anger is meant to make you efficient. That' \*\*s its function for survival. That' \*\*s why you were given it. If it makes you inefficient, drop it like a hot potato. (Philip Roth)
 
 Generated directly by Calicante, as a response to the creation of Gradh by Ljust, he is pure destruction, chaos, and entropy. Cattalm has the sole purpose of destroying, bringing chaos and diseases, earthquakes, and floods.
 
@@ -461,7 +459,7 @@ But Gaya also has a much more subtle and violent side, a vein of evil madness th
 
 ### Krondal
 
-> Freedom, Sancho, is one of the most precious gifts that heaven has ever given to men; neither the treasures that the earth holds nor that the sea covers are to be compared to it; for freedom, as for honor, one can and must risk one's life. (Miguel de Cervantes)
+> Freedom, Sancho, is one of the most precious gifts that heaven has ever given to men; neither the treasures that the earth holds nor that the sea covers are to be compared to it; for freedom, as for honor, one can and must risk one' \*\*s life. (Miguel de Cervantes)
 
 Krondal the mad, Krondal the assassin, Krondal the savior.
 
@@ -478,7 +476,7 @@ A Devotee of Krondal is typically a bodyguard, a protector, a sheriff who is not
 - **Symbol**: A sword held vertically in front of oneself
 - **Ability Score**: Charisma
 - **Traits**: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
-- **Manifestation**: the Devotee's cloak or robe becomes clean and shiny
+- **Manifestation**: the Devotee' \*\*s cloak or robe becomes clean and shiny
 - **Sum of Traits in common at 5 points**: You curse your opponent. You cast once per day the spell Bestow Curse. DC 20 to resist.
 - **Sum of Traits in common at 10 points**: You do not want to be tied or handcuffed. Twice a day you can cast Freedom of Movement only on yourself.
 - **Sum of Traits in common at 15 points**: Your presence takes away sight from opponents. Designate up to 6 creatures within 9 meters, they must make a Fortitude Saving Throw at DC 30 or be blind only to you for 1d4 rounds.
@@ -514,15 +512,15 @@ Ledyal also has a twin sister, or perhaps another personality, or perhaps they a
 - **Advantage**: +1d6 to First Aid checks (Ledyal) or you are +4 ST against Fear (Laydel)
 - **Privileged Magic Lists**: Healing or Evocation
 - **Preferred Weapon**: Club/Spiked chain
-- **Rule**: Do not allow violence against a creature's gender
+- **Rule**: Do not allow violence against a creature' \*\*s gender
 
 ### Nethergal
 
-> Dreams are answers to questions we haven't yet figured out how to ask. (X-Files)
+> Dreams are answers to questions we haven' \*\*t yet figured out how to ask. (X-Files)
 
 An uninterpreted dream is like an unopened letter. (Talmud)
 
-The Messenger Patron. On the feather of a goose flies Nethergal's letter. Rapid, impetuous, direct, Nethergal is the messenger, the one to whom to entrust thoughts and writings. Sarcastic and logorrheic, she will curiously inquire about your purposes, ask you for information about the writings entrusted to her with explicit frankness, and will always have something to say about the message to be carried but will be equally direct and precise in delivering it.
+The Messenger Patron. On the feather of a goose flies Nethergal' \*\*s letter. Rapid, impetuous, direct, Nethergal is the messenger, the one to whom to entrust thoughts and writings. Sarcastic and logorrheic, she will curiously inquire about your purposes, ask you for information about the writings entrusted to her with explicit frankness, and will always have something to say about the message to be carried but will be equally direct and precise in delivering it.
 
 Nethergal is not just chatter and gossip, any text that is written she knows, there is no code or written secret that she does not know or cannot decipher.
 
@@ -550,7 +548,7 @@ Nethergal also has another role: she is the Patron of dreams and visions, she sh
 
 ### Nedraf
 
-> Do you really think he's fighting for anything besides his survival? (Matrix Revolutions, Film)
+> Do you really think he' \*\*s fighting for anything besides his survival? (Matrix Revolutions, Film)
 
 It matters not how strait the gate,
 
@@ -613,7 +611,7 @@ With thought alone, he convinces anyone of anything he wants. He adores the thea
 
 Where he dominates, chaos reigns where everyone is convinced of being in the right, and wars between clans feed his endless hunger.
 
-He pretends to listen to those around him but in reality, he is not interested in others' stories because his are always the best. He is a limitless coward and a liar always with some personal gain.
+He pretends to listen to those around him but in reality, he is not interested in others' \*\* stories because his are always the best. He is a limitless coward and a liar always with some personal gain.
 
 His Devotees are weak creatures, who need a master, a voice that constantly tells them what they need and what they want.
 
@@ -661,11 +659,11 @@ Beware of the Followers of Orlaith, vanity, vengeance, and intransigence make th
 
 > Greed, for lack of a better word, is good. Greed is right, greed works. Greed clarifies, cuts through, and captures the essence of the evolutionary spirit. Greed, in all of its forms; greed for life, for money, for love, knowledge has marked the upward surge of mankind. And greed, you mark my words, will not only save Teldar Paper, but that other malfunctioning corporation called the USA. (Gordon Gekko from the film Wall Street, 1987)
 
-The Patron who despises everything. Rezh loves, wants, touches, admires only her shiny and brilliant coins. They are never enough, no wealth is ever sufficient for her. Rezh, the greedy one, keeps everything for herself, does not know compassion, does not know charity, does not know sharing. Her hunger for money, for riches makes her prone to any baseness. She despises everything and everyone and judges everything and everyone following only her personal standard of judgment. In every coin, there is a bit of Rezh. In the oxidation of every coin, one can see Rezh's imprint.
+The Patron who despises everything. Rezh loves, wants, touches, admires only her shiny and brilliant coins. They are never enough, no wealth is ever sufficient for her. Rezh, the greedy one, keeps everything for herself, does not know compassion, does not know charity, does not know sharing. Her hunger for money, for riches makes her prone to any baseness. She despises everything and everyone and judges everything and everyone following only her personal standard of judgment. In every coin, there is a bit of Rezh. In the oxidation of every coin, one can see Rezh' \*\*s imprint.
 
 In the depths of the caves, the devotees of Rezh dig seeking treasures, desecrate catacombs, and hunt, hunt, and kill anyone who has something precious with them, even the best friend.
 
-Rezh took care to destroy in green flames any financial document that might exist before the coming of the Patrons. In a gesture that might seem of extreme generosity, she erased all people's debts.
+Rezh took care to destroy in green flames any financial document that might exist before the coming of the Patrons. In a gesture that might seem of extreme generosity, she erased all people' \*\*s debts.
 
 Among humans, the Devotees of Rezh become explorers, tomb raiders, people always looking for a treasure and one more coin.
 
@@ -721,9 +719,9 @@ Ljust, disgusted by the vision of such an explicitly evil Patron, instilled in S
 
 > The power that opposes fate is in fact a weakness. (Franz Kafka)
 
-Hush now, baby, baby, don't you cry,
+Hush now, baby, baby, don' \*\*t you cry,
 
-mama's gonna make all of your nightmares come true. (Mother, 1979 The Wall, Pink Floyd)
+mama' \*\*s gonna make all of your nightmares come true. (Mother, 1979 The Wall, Pink Floyd)
 
 The Patron who is indifferent to the present as he is totally, compulsively obsessed with the future and his destiny. In the most remote corners of the known worlds, it is told that Sixiser accumulates everything, indifferent to everything and everyone.
 
@@ -738,7 +736,7 @@ The Devotees of Sixiser are often necromancers surrounded by undead and other si
 - **Symbol**: A chest overflowing with everything that cannot be closed
 - **Ability Score**: Wisdom
 - **Traits**: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
-- **Manifestation**: two hands surrounding, as if to hide, the caster's head
+- **Manifestation**: two hands surrounding, as if to hide, the caster' \*\*s head
 - **Sum of Traits in common at 5 points**: you acquire low-light vision up to 9 meters, or 18 meters if already present.
 - **Sum of Traits in common at 10 points**: you see in darkness even magical within 9 meters. You automatically detect non-magical traps within 3 meters of you.
 - **Sum of Traits in common at 15 points**: By touching an object, you are able to understand all its magical and non-magical properties, even if it is cursed. 3 times per day.
@@ -792,7 +790,6 @@ The Seven Luminous Rules are a set of norms and behaviors followed, in various c
 
 The Devotees of Sumkjr must follow all 7, other Devotees of other Patrons, always positive or at least neutral, follow only some of these dictates, as a rule to avoid falling into the arms of Calicante.
 
-\begin{enumerate}[leftmargin=*] 
 - Protect the weak and those who cannot defend themselves from abuse
 - Love life and protect it
 - Fight against injustice and those who bring suffering and pain
@@ -800,7 +797,6 @@ The Devotees of Sumkjr must follow all 7, other Devotees of other Patrons, alway
 - Honesty and Loyalty are your foundations
 - You are a master of virtue. Let others take inspiration from your deeds
 - Do not let your inaction generate suffering
-\end{enumerate}
 
 ### Tàhil
 
@@ -810,7 +806,7 @@ The Patron who only craves to inflict pain. Tàhil is the incarnation of vengefu
 
 Tàhil was created when Calicante discovered the death of his first son, it was a creation of pure instinct and fury, of rage and desire for total destruction, of suffering and humiliation; nothing better than to create the Dragon.
 
-Tàhil has very few Devotees or Followers who declare themselves as such, but unlike all other Patrons, Tàhil doesn't care, he is the manifestation of pure hatred and that's enough for him.
+Tàhil has very few Devotees or Followers who declare themselves as such, but unlike all other Patrons, Tàhil doesn' \*\*t care, he is the manifestation of pure hatred and that' \*\*s enough for him.
 
 - **Symbol**: A swastika
 - **Ability Score**: Strength
@@ -819,7 +815,7 @@ Tàhil has very few Devotees or Followers who declare themselves as such, but un
 - **Sum of Traits in common at 5 points**: You can add 1d6 to an Attack Roll. Once per day, before making the Attack Roll, as an Immediate Action.
 - **Sum of Traits in common at 10 points**: Three times per day, before making the Attack Roll, you can declare to hit. Immediate Action
 - **Sum of Traits in common at 15 points**: One of your hits that lands causes at least one Critical Hit.
-- **Sum of Traits in common at 20 points**: The weapon's Critical die increases by one size.
+- **Sum of Traits in common at 20 points**: The weapon' \*\*s Critical die increases by one size.
 - **Energy/M**: Fire, Void
 - **Advantage**: Damage reduction from Light 10
 - **Privileged Magic Lists**: Enchantment
@@ -845,7 +841,7 @@ The human Devotee of Tazher is the thief, the assassin, the bandit, anyone who l
 - **Symbol**: The glint of the blade in the dark
 - **Ability Score**: Dexterity
 - **Traits**: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
-- **Manifestation**: the Devotee's shadow comes to life moving the weapon
+- **Manifestation**: the Devotee' \*\*s shadow comes to life moving the weapon
 - **Sum of Traits in common at 5 points** points: You gain +2 to Stealth checks.
 - **Sum of Traits in common at 10 points**: Your Darkvision becomes 6 meters.
 - **Sum of Traits in common at 15 points**: as long as you walk over shadows or in the dark (darkness) you are invisible. You can still be detected with light or divination spells.
@@ -918,59 +914,59 @@ Regardless of others, he enjoys exploiting the work of others and benefiting fro
 
 The Patrons are listed in alphabetical order by their most characteristic Trait.
 
-**\hyperlink{gaya**{Gaya: Altruistic, Kind, Suspicious, Cynical, Envious, Dishonest, Arrogant
+Gaya: Altruistic, Kind, Suspicious, Cynical, Envious, Dishonest, Arrogant
 
-**\hyperlink{calicante**{Calicante: Ambitious, Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy
+Calicante: Ambitious, Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy
 
-**\hyperlink{erondil**{Erondil: Arrogant, Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
+Erondil: Arrogant, Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
 
-**\hyperlink{rezh**{Rezh: Greedy, Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
+Rezh: Greedy, Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
 
-**\hyperlink{sixiser**{Sixiser: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
+Sixiser: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
 
-**\hyperlink{cattalm**{Cattalm: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
+Cattalm: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
 
-**\hyperlink{ljust**{Ljust: Compassionate, Stubborn, Brave, Extroverted, Altruistic, Loyal, Patient
+Ljust: Compassionate, Stubborn, Brave, Extroverted, Altruistic, Loyal, Patient
 
-**\hyperlink{gradh**{Gradh: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+Gradh: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 
-**\hyperlink{nihar**{Nihar: Curious, Brave, Compassionate, Vain, Envious, Greedy, Cruel
+Nihar: Curious, Brave, Compassionate, Vain, Envious, Greedy, Cruel
 
-**\hyperlink{tazher**{Tazher: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
+Tazher: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 
-**\hyperlink{shayalia**{Shayalia: Dissolute, Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
+Shayalia: Dissolute, Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
 
-**\hyperlink{ledyal**{Ledyal: Enthusiastic, Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
+Ledyal: Enthusiastic, Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
 
-**\hyperlink{nethergal**{Nethergal: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
+Nethergal: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
 
-**\hyperlink{sumkjr**{Sumkjr: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+Sumkjr: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 
-**\hyperlink{atmos**{Atmos: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
+Atmos: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
 
-**\hyperlink{krondal**{Krondal: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
+Krondal: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
 
-**\hyperlink{belevon**{Belevon: Envious, Ambitious, Dissolute, Dishonest, Compassionate, Patient, Altruistic
+Belevon: Envious, Ambitious, Dissolute, Dishonest, Compassionate, Patient, Altruistic
 
-**\hyperlink{orudjs**{Orudjs: Impulsive, Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
+Orudjs: Impulsive, Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
 
-**\hyperlink{efrem**{Efrem: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
+Efrem: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
 
-**\hyperlink{torbiorn**{Torbiorn: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
+Torbiorn: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 
-**\hyperlink{nedraf**{Nedraf: Patient, Vain, Brave, Uncompromising, Enthusiastic, Arrogant, Cynical
+Nedraf: Patient, Vain, Brave, Uncompromising, Enthusiastic, Arrogant, Cynical
 
-**\hyperlink{atherim**{Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain\
+Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain\
 
-**\hyperlink{thaft**{Thaft: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
+Thaft: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 
-**\hyperlink{lynx**{Lynx: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+Lynx: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 
-**\hyperlink{orlaith**{Orlaith: Vain, Uncompromising, Brave, Stubborn, Dissolute, Vindictive, Curious
+Orlaith: Vain, Uncompromising, Brave, Stubborn, Dissolute, Vindictive, Curious
 
-**\hyperlink{laydel**{Laydel: Vindictive, Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
+Laydel: Vindictive, Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
 
-**\hyperlink{tahil**{Tàhil: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
+Tàhil: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
 
 > The gods weave misfortunes for men, so that the generations to come will have something to sing about." Iliad, Homer
 

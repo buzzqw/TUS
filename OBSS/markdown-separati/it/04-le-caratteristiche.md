@@ -93,12 +93,12 @@ Un punteggio di -1 e giudicato debole, un -2 subnormale, un -3 severamente probl
 
 L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 
-| \rowcolor{gray!20}**Periodo** | **FOR** | **DES** | **COS** | **INT** | **SAG** |
+| **Periodo** | **FOR** | **DES** | **COS** | **INT** | **SAG** |
 | --- | --- | --- | --- | --- | --- |
 | Giovane |  |  | +1 |  | -1 |
-| \rowcolor{gray!20}Adulto |  |  |  |  | |
+| Adulto |  |  |  |  | |
 | Maturo |  |  | -1 |  | +1 |
-| \rowcolor{gray!20}Anziano | -2 | -1 | -1 | +1 | +1 |
+| Anziano | -2 | -1 | -1 | +1 | +1 |
 | Venerabile | -1 | -1 | -1 | -1 | +1 |
 
 I modificatori indicati si cumulano.
@@ -123,7 +123,7 @@ In ultimo ricordate che OBSS è un gioco di ruolo dove la morte del personaggio 
 
 Il giocatore tira 3d6 per ogni caratteristica ed in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire ad un'altra terzina. Per ogni caratteristica tirata controlla la somma dei dadi tirati con la **Tabella: Tiro Caratteristiche**.
 
-Il personaggio così generato acquisisce gratuitamente l'Abilita Duro a morire (pag. ).
+Il personaggio così generato acquisisce gratuitamente l'Abilita Duro a morire .
 
 ### Modalita' della Tradizione
 
@@ -137,11 +137,12 @@ Ogni giocatore distribuisce 4 punti tra le 6 Caratteristiche, ogni Caratteristic
 
 La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabella per determinare i valori effettivi della Caratteristiche.
 
-| \rowcolor{gray!20}**Val. tirato** | **Caratt.** | **Val. tirato** | **Caratt.** |
+| **Val. tirato** | **Caratt.** | **Val. tirato** | **Caratt.** |
+|---|---|---|---|
 | 3 (o meno) | -3 | 12-13-14 | +1 |
-| \rowcolor{gray!20}4-5 | -2 | 15-16-17 | +2 |
+| 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (o più) | +3 |
-| \rowcolor{gray!20}9-10-11 | +0 |  | |
+| 9-10-11 | +0 |  | |
 
 **Applicate i modificatori razziali!**
 

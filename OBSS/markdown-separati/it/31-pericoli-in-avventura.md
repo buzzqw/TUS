@@ -138,16 +138,17 @@ Se il gruppo è numeroso i turni di guardia per vegliare e controllare l'ambient
 
 In questa tabella vengono indicate la durata dei turni di guardia ed il tempo totale di riposo del gruppo, nell'ipotesi di riposare almeno 8 ore.
 
-| \rowcolor{gray!20}**Membri** | **Durata** | **Durata** |
+| **Membri** | **Durata** | **Durata** |
 | --- | --- | --- |
 | **del gruppo** | **del Turno** | **Totale** |
-| \rowcolor{gray!20}2 | 8 h | 16 h |
+| 2 | 8 h | 16 h |
 | 3 | 4 h | 12 h |
-| \rowcolor{gray!20}4 | 2 h e 30 min. | 10 h e 30 min. |
+| 4 | 2 h e 30 min. | 10 h e 30 min. |
 | 5 | 2 h | 10 h |
-| \rowcolor{gray!20}6 | 1 h e 30 min. | 9 h e 30 min. |
+| 6 | 1 h e 30 min. | 9 h e 30 min. |
 
 Un **rumore brusco** concede una prova di Consapevolezza a DC 15, oppure pari alla prova di Furtività +8 dell'avversario, per svegliarsi.
+
 ---
 
 ## Avventure e Trappole
@@ -200,18 +201,19 @@ Usare la tabella DC dei Tiri Salvezza e Bonus di Attacco delle Trappole e la tab
 
 **Tabella: DC dei Tiri Salvezza e Bonus di Attacco delle Trappole**
 
-| \rowcolor{gray!20}Pericolosità della Trappola | DC Tiro Salvezza | Bonus di Attacco |
+| Pericolosità della Trappola | DC Tiro Salvezza | Bonus di Attacco |
 | Minima | 13-14 | +4 a +6 |
-| \rowcolor{gray!20}Pericolosa | 16-20 | +8 a +10 |
+| Pericolosa | 16-20 | +8 a +10 |
 | Mortale | 21-26 | +12 a +15 |
 
 **Tabella: Gravità del Danno per Livello**
 
-| \rowcolor{gray!20}Livello PG | Minima | Pericolosa | Mortale |
+| Livello PG | Minima | Pericolosa | Mortale |
+|---|---|---|---|
 | 1°-4° | 1d10 | 2d10 | 4d10 |
-| \rowcolor{gray!20}5°-10° | 2d10 | 4d10 | 10d10 |
+| 5°-10° | 2d10 | 4d10 | 10d10 |
 | 11°-16° | 4d10 | 10d10 | 18d10 |
-| \rowcolor{gray!20}17°-20° | 10d10 | 18d10 | 24d10 |
+| 17°-20° | 10d10 | 18d10 | 24d10 |
 
 ### Trappole di Esempio
 **Ago Avvelenato**
@@ -362,217 +364,217 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 
 **Effetto**: quale è l'effetto della trappola
 
-| \rowcolor{gray!20}**GS:** 1 | **Dardo Avvelenato** |
+| **GS:** 1 | **Dardo Avvelenato** |
 | --- | --- |
 | **Tipo:** | Meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 13 |
+| **Sopravviv.:** | DC 13 |
 | **Dis. Cong.:** | DC 15 |
-| \rowcolor{gray!20}**Attivatore:** | Contatto |
+| **Attivatore:** | Contatto |
 | **Ripristino:** | Nessuno |
-| \rowcolor{gray!20}**Effetto:** | Attacco a distanza 12 metri +10 (1d3 di danno più Bava fermentata di Lucos, pag ) |
-| \rowcolor{gray!20}**GS:** 1 | **Freccia** |
+| **Effetto:** | Attacco a distanza 12 metri +10 (1d3 di danno più Bava fermentata di Lucos, pag ) |
+| **GS:** 1 | **Freccia** |
 | **Tipo:** | Meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 13 |
+| **Sopravviv.:** | DC 13 |
 | **Dis. Cong.:** | DC 15 |
-| \rowcolor{gray!20}**Attivatore:** | Contatto |
+| **Attivatore:** | Contatto |
 | **Ripristino:** | Nessuno |
-| \rowcolor{gray!20}**Effetto:** | Attacco a distanza 12 metri +15 (1d8+3) |
-| \rowcolor{gray!20}**GS:** 1 | **Fossa** |
+| **Effetto:** | Attacco a distanza 12 metri +15 (1d8+3) |
+| **GS:** 1 | **Fossa** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 14 |
+| **Sopravviv.:** | DC 14 |
 | **Dis. Cong.:** | DC 16 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | fossa profonda 3 metri (2d6 danni da caduta) |
-| \rowcolor{gray!20}**GS:** 1 | **Trancia Dita** |
+| **Effetto:** | fossa profonda 3 metri (2d6 danni da caduta) |
+| **GS:** 1 | **Trancia Dita** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}	**Sopravviv.:** | DC 17 |
+| 	**Sopravviv.:** | DC 17 |
 | **Dis. Cong.:** | DC 14 |
-| \rowcolor{gray!20}	**Attivatore:** | posizione |
+| 	**Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}	**Effetto:** | trancia la prima falange (1d8+1) |
-| \rowcolor{gray!20}**GS:**  1 | **Lama Falciante** |
+| 	**Effetto:** | trancia la prima falange (1d8+1) |
+| **GS:**  1 | **Lama Falciante** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 13 |
+| **Sopravviv.:** | DC 13 |
 | **Dis. Cong.:** | DC 15 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | 2 attacchi in mischia +10 (1d8+1) |
-| \rowcolor{gray!20} **GS:** 2 | **Fossa con Spuntoni** |
+| **Effetto:** | 2 attacchi in mischia +10 (1d8+1) |
+|  **GS:** 2 | **Fossa con Spuntoni** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 16 |
+| **Sopravviv.:** | DC 16 |
 | **Dis. Cong.:** | DC 18 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | fossa profonda 3 metri + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) |
-| \rowcolor{gray!20}  **GS:** 2 | **Onda rovente** |
+| **Effetto:** | fossa profonda 3 metri + spuntoni (Attacco in mischia +10, 1d4 spuntoni per bersaglio per 1d4+2 danni ciascuno) |
+|   **GS:** 2 | **Onda rovente** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 16 |
+| **Sopravviv.:** | DC 16 |
 | **Dis. Cong.:** | DC 18/4 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | 5d4 danni da fuoco |
-| \rowcolor{gray!20}**GS:** | 2**Giavellotto** |
+| **Effetto:** | 5d4 danni da fuoco |
+| **GS:** | 2**Giavellotto** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 15 |
+| **Sopravviv.:** | DC 15 |
 | **Dis. Cong.:** | DC 17 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | Attacco a distanza 12 metri +15 (2d6+6), entro raggio 6 metri |
-| \rowcolor{gray!20}**GS:** 2 | **Fossa con non morti** |
+| **Effetto:** | Attacco a distanza 12 metri +15 (2d6+6), entro raggio 6 metri |
+| **GS:** 2 | **Fossa con non morti** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 14 |
+| **Sopravviv.:** | DC 14 |
 | **Dis. Cong.:** | DC 16 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | Sul fondo della fossa (2d6 di danno da caduta) sono presenti due zombi |
-| \rowcolor{gray!20}**GS:**  3 | **Freccia Acida** |
+| **Effetto:** | Sul fondo della fossa (2d6 di danno da caduta) sono presenti due zombi |
+| **GS:**  3 | **Freccia Acida** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 18 |
+| **Sopravviv.:** | DC 18 |
 | **Dis. Cong.:** | DC 20/4 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | Attacco distanza di 16 metri (4d4 danni da acido per 4 round) |
-| \rowcolor{gray!20}**GS:** 3 | **Fossa Celata** |
+| **Effetto:** | Attacco distanza di 16 metri (4d4 danni da acido per 4 round) |
+| **GS:** 3 | **Fossa Celata** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 19 |
+| **Sopravviv.:** | DC 19 |
 | **Dis. Cong.:** | DC 20 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | 3d6 danni da caduta |
-| \rowcolor{gray!20}**GS:** 4 | **Arco Elettrico** |
+| **Effetto:** | 3d6 danni da caduta |
+| **GS:** 4 | **Arco Elettrico** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 21 |
+| **Sopravviv.:** | DC 21 |
 | **Dis. Cong.:** | DC 20/4 |
-| \rowcolor{gray!20}**Attivatore:** | contatto |
+| **Attivatore:** | contatto |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | Arco elettrico. 2 bersagli entro 3 metri tra loro, 5d6 danni da elettricità |
-| \rowcolor{gray!20}**GS:** 4 | **Falce a Parete** |
+| **Effetto:** | Arco elettrico. 2 bersagli entro 3 metri tra loro, 5d6 danni da elettricità |
+| **GS:** 4 | **Falce a Parete** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 20 |
+| **Sopravviv.:** | DC 20 |
 | **Dis. Cong.:** | DC 18 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | automatico |
-| \rowcolor{gray!20}**Effetto:** | tre attacchi in mischia +10 (2d8+3) |
-| \rowcolor{gray!20}**GS:** 5 | **Blocco in Caduta** |
+| **Effetto:** | tre attacchi in mischia +10 (2d8+3) |
+| **GS:** 5 | **Blocco in Caduta** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 23 |
+| **Sopravviv.:** | DC 23 |
 | **Dis. Cong.:** | DC 22 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | Attacco in mischia +15 (6d6) |
-| \rowcolor{gray!20}**GS:** 6 | **Colpo Infuocato** |
+| **Effetto:** | Attacco in mischia +15 (6d6) |
+| **GS:** 6 | **Colpo Infuocato** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
+| **Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 24/4 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | cono 3 metri, 8d6 danni da fuoco |
-| \rowcolor{gray!20}	**GS:** 6 | **Freccia Avvelenata** |
+| **Effetto:** | cono 3 metri, 8d6 danni da fuoco |
+| 	**GS:** 6 | **Freccia Avvelenata** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}	**Sopravviv.:** | DC 25 |
+| 	**Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20 |
-| \rowcolor{gray!20}	**Attivatore:** | posizione |
+| 	**Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}	**Effetto:** | 6 frecce, attacco a distanza 18 metri +10 (1d6 più 1d6 Veleno) |
-| \rowcolor{gray!20}**GS:** 7 | **Acque bollenti** |
+| 	**Effetto:** | 6 frecce, attacco a distanza 18 metri +10 (1d6 più 1d6 Veleno) |
+| **GS:** 7 | **Acque bollenti** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
+| **Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20/4 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | cono di 6 metri (spruzzo di acqua bollente, 8d6 danni da fuoco). |
-| \rowcolor{gray!20}**GS:** 8 | **Trappola a Gas** |
+| **Effetto:** | cono di 6 metri (spruzzo di acqua bollente, 8d6 danni da fuoco). |
+| **GS:** 8 | **Trappola a Gas** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 28 |
+| **Sopravviv.:** | DC 28 |
 | **Dis. Cong.:** | DC 26 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | riparabile |
-| \rowcolor{gray!20}**Effetto:** | Gas velenoso, cubo 6 metri di spigolo. TS Tempra DC 17 oppure rallentati 1/1 minuto. |
-| \rowcolor{gray!20}**GS:** 9 | **Raffica di Frecce** |
+| **Effetto:** | Gas velenoso, cubo 6 metri di spigolo. TS Tempra DC 17 oppure rallentati 1/1 minuto. |
+| **GS:** 9 | **Raffica di Frecce** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 30 |
+| **Sopravviv.:** | DC 30 |
 | **Dis. Cong.:** | DC 27 |
-| \rowcolor{gray!20}**Attivatore:** | visivo ( Occhio Arcano) |
+| **Attivatore:** | visivo ( Occhio Arcano) |
 | **Ripristino:** | riparabile |
-| \rowcolor{gray!20}**Effetto:** | 6 frecce. Attacco a distanza +14 (1d8+1) |
-| \rowcolor{gray!20}**GS:** 8 | **Fossa Celata con spuntoni** |
+| **Effetto:** | 6 frecce. Attacco a distanza +14 (1d8+1) |
+| **GS:** 8 | **Fossa Celata con spuntoni** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 29 |
+| **Sopravviv.:** | DC 29 |
 | **Dis. Cong.:** | DC 20 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | Fossa profonda 15 m + spuntoni (Attacco in mischia +9, 3 spuntoni per bersaglio, 1d6+5 danni ciascuno) |
-| \rowcolor{gray!20}**GS:** 9 | **Pavimento Elettrico** |
+| **Effetto:** | Fossa profonda 15 m + spuntoni (Attacco in mischia +9, 3 spuntoni per bersaglio, 1d6+5 danni ciascuno) |
+| **GS:** 9 | **Pavimento Elettrico** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 30 |
+| **Sopravviv.:** | DC 30 |
 | **Dis. Cong.:** | DC 26/5 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
-| \rowcolor{gray!20}**GS:** 9 | **Trasporto Trappola** |
+| **Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
+| **GS:** 9 | **Trasporto Trappola** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 31 |
+| **Sopravviv.:** | DC 31 |
 | **Dis. Cong.:** | DC 29/5 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | TS Volontà DC 20 o teletrasportati in una stanza e caso e confusi per 1d4 round. |
-| \rowcolor{gray!20}**GS:** 10 | **Risucchio di Energia** |
+| **Effetto:** | TS Volontà DC 20 o teletrasportati in una stanza e caso e confusi per 1d4 round. |
+| **GS:** 10 | **Risucchio di Energia** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 34 |
+| **Sopravviv.:** | DC 34 |
 | **Dis. Cong.:** | DC 34/6 |
-| \rowcolor{gray!20}**Attivatore:** | visivo (Visione del Vero) |
+| **Attivatore:** | visivo (Visione del Vero) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | Attacco di contatto a distanza 18 metri +14 da Vuoto, Punti Ferita max calano di 10d4 + Affaticato. |
-| \rowcolor{gray!20}**GS:** 10 | **Stanza delle Lame** |
+| **Effetto:** | Attacco di contatto a distanza 18 metri +14 da Vuoto, Punti Ferita max calano di 10d4 + Affaticato. |
+| **GS:** 10 | **Stanza delle Lame** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
+| **Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | riparabile |
-| \rowcolor{gray!20}**Effetto:** | Attacco in mischia +15 (a tutti tre attacchi 3d8+3) |
-| \rowcolor{gray!20}**GS:** 11 | **Cono di Ghiaccio** |
+| **Effetto:** | Attacco in mischia +15 (a tutti tre attacchi 3d8+3) |
+| **GS:** 11 | **Cono di Ghiaccio** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 30 |
+| **Sopravviv.:** | DC 30 |
 | **Dis. Cong.:** | DC 30/6 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | come Cono di Freddo da 9d6 danni. TS Riflessi DC 22 per dimezzare |
-| \rowcolor{gray!20}**GS:** 11 | **Fossa Avvelenata** |
+| **Effetto:** | come Cono di Freddo da 9d6 danni. TS Riflessi DC 22 per dimezzare |
+| **GS:** 11 | **Fossa Avvelenata** |
 | **Tipo:** | meccanico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 25 |
+| **Sopravviv.:** | DC 25 |
 | **Dis. Cong.:** | DC 20 |
-| \rowcolor{gray!20}**Attivatore:** | posizione |
+| **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| \rowcolor{gray!20}**Effetto:** | Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
-| \rowcolor{gray!20}**GS:** 13 | **Galleria dei Fulmini** |
+| **Effetto:** | Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
+| **GS:** 13 | **Galleria dei Fulmini** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 29 |
+| **Sopravviv.:** | DC 29 |
 | **Dis. Cong.:** | DC 29/5 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | come incantesimo Fulmine a catena. DC 22. |
-| \rowcolor{gray!20}**GS:** 15 | **Inferno di fuoco** |
+| **Effetto:** | come incantesimo Fulmine a catena. DC 22. |
+| **GS:** 15 | **Inferno di fuoco** |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 31 |
+| **Sopravviv.:** | DC 31 |
 | **Dis. Cong.:** | DC 31/6 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | 60 danni da fuoco. TS Riflessi DC 23 per dimezzare. |
-| \rowcolor{gray!20}**GS:** 16 | **Distruzione** |
+| **Effetto:** | 60 danni da fuoco. TS Riflessi DC 23 per dimezzare. |
+| **GS:** 16 | **Distruzione** |
 | **Tipo:** | N/A |
-| \rowcolor{gray!20}**Sopravviv.:** | DC 34 |
+| **Sopravviv.:** | DC 34 |
 | **Dis. Cong.:** | DC 34/6 |
-| \rowcolor{gray!20}**Attivatore:** | prossimità (Allarme) |
+| **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| \rowcolor{gray!20}**Effetto:** | come incantesimo Disintegrazione con 1 Critico Magico. DC 24 |
+| **Effetto:** | come incantesimo Disintegrazione con 1 Critico Magico. DC 24 |
 
-| \rowcolor{gray!20}	**GS:** 19 | **Pioggia di Meteore** |
+| 	**GS:** 19 | **Pioggia di Meteore** |
 | --- | --- |
 | **Tipo:** | magico |
-| \rowcolor{gray!20}	**Sopravviv.:** | DC 34 |
+| 	**Sopravviv.:** | DC 34 |
 | **Dis. Cong.:** | DC 34/6 |
-| \rowcolor{gray!20}	**Attivatore:** | visivo |
+| 	**Attivatore:** | visivo |
 | **Ripristino:** | nessuno |
 | **Effetto:** | come incantesimo Pioggia di Meteore. DC 28 |
 
@@ -606,7 +608,8 @@ Prosegui nel corridoio?
 
 *Narratore*: attraversi la zona adesso in sicurezza e vedi che si apre su una piccola stanza con due porte di legno rinforzato...
 
-Liberamente ispirato da \href{https://friendorfoe.com/d/Old
+Liberamente ispirato da https://friendorfoe.com/d/Old
 
 >>> **Trappole ovvie**: Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo... e magari prima o poi si ricorderanno di recuperare il piede di porco...!
+
 ---

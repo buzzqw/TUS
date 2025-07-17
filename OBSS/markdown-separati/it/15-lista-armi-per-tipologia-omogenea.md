@@ -119,7 +119,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 ## BalestreBalestra leggera, Balestra pesante, Balestra ad una mano
 
-- 4 punti: guadagni l'Abilità Tiro Rapido (pag. ).
+- 4 punti: guadagni l'Abilità Tiro Rapido .
 - 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
 - 7 punti: ogni Azione che dedichi a mirare, fino ad un massimo di 2, ti concede un +2 a colpire.
 - 9 punti: il primo Tiro Critico che esegui sull'avversario somma due colpi critici in aggiunta, non si cumula con il vantaggio al punto 5.
@@ -160,7 +160,7 @@ Il giocatore può anche decidere di fare danno non letale non incorrendo in alcu
 - 9 punti: colpo solitario. Usi tre Azioni per portare un solo colpo devastante, il colpo se va a segno somma 2 colpi critici aggiuntivi.
 - 11 punti: ottieni un bonus al colpire ed al danno pari al doppio della Caratteristica usata per determinare questo bonus.
 
-Consultate Vulnerabilità, Resistenza e Immunità (pag. ) per sapere quanto è magico il vostro colpo.
+Consultate Vulnerabilità, Resistenza e Immunità  per sapere quanto è magico il vostro colpo.
 
 ## Rompi Cranio Flagello, Maglio da guerra, Martello da guerra, Mazza Leggera, Mazza flangiata, Mazza chiodata
 
@@ -234,4 +234,5 @@ Questa suddivisione è sceglibile anche da chi non ha assegnato punti a Competen
 Quando un personaggio usa un arma presente in più Liste d'Armi conosciute può applicare per avversario una sola tecnica (una Lista d'Armi) di combattimento, non cumula i vantaggi anche di eventuali altre liste.
 
 Utilizzando 2 Azioni può concentrarsi e passare ad utilizzare i bonus derivanti dall'applicazione di una diversa Lista D'Armi.
+
 ---

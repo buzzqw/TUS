@@ -91,7 +91,7 @@ The most curious Gnomes often leave their communities, which are not closed to a
 
 A gnome forced to stay away from a natural environment suffers from the situation, becoming sad and apathetic; their need for nature is something physical and innate.
 
-Gnomes get along with anyone who loves nature and doesn't abuse it.
+Gnomes get along with anyone who loves nature and doesn' \*\*t abuse it.
 
 A dispute that actually matters very little to gnomes is about the shape of their ears. According to elves, gnomes from their world have pointed ears; according to dwarves, the gnomes they knew instead have small, round ears like them. The fact is that gnomes are born randomly with pointed or round ears and have enough common sense to ignore the shape. At least almost all of them..
 
@@ -144,7 +144,7 @@ Despite these obvious orcish traits, half-orcs are as varied as their human pare
 
 If within orcish tribes they must continually earn the respect of the *purebloods*, in human society it is no better. Mocked, ridiculed, excluded, and abandoned, half-orcs often find refuge in crime.
 
-Orcs were created directly by the Patron Cattalm with the help of Calicante. Much of their creator's chaotic and destructive tendency remains in the nature of half-orcs.
+Orcs were created directly by the Patron Cattalm with the help of Calicante. Much of their creator' \*\*s chaotic and destructive tendency remains in the nature of half-orcs.
 
 Half-orcs are continuous victims of prejudice.
 
@@ -190,9 +190,9 @@ The male Nibali is bald and has bright blue skin, the eyes are purple. Women hav
 
 ## Outcast
 
-Blessed or cursed, the Outcasts are not like us. An Outcast is the fruit of a corrupted union. If Patrons shouldn't act directly on Earth, or at least that's what Gradh tries to avoid, they often instead use their powers to create a lineage faithful to them.
+Blessed or cursed, the Outcasts are not like us. An Outcast is the fruit of a corrupted union. If Patrons shouldn' \*\*t act directly on Earth, or at least that' \*\*s what Gradh tries to avoid, they often instead use their powers to create a lineage faithful to them.
 
-An Outcast is faithful to their Patron and can't do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
+An Outcast is faithful to their Patron and can' \*\*t do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
 
 An Outcast is more robust and more intelligent. Unfortunately, their frenetic life is marked by a short duration. Usually, a human Outcast does not exceed 50 years of life.
 
@@ -276,7 +276,7 @@ Golians have physical characteristics that recall the giants of their family lin
 
 - *Fire giant*. Burning embers. When you hit a target in melee, you can inflict 1d10 fire damage to that target. Cost 1 Reaction.
 
-- *Frost giant*. Deep frost. When you hit a target in melee, you can inflict 1d6 cold damage and the creature's movement speed decreases by 3 meters until the end of your next round. Cost 1 Reaction.
+- *Frost giant*. Deep frost. When you hit a target in melee, you can inflict 1d6 cold damage and the creature' \*\*s movement speed decreases by 3 meters until the end of your next round. Cost 1 Reaction.
 
 - *Hill giant*. Furious blow. Roll an additional 1d6 when making an Attack Roll. Cost 1 Immediate Action to be declared before the Attack Roll.
 
@@ -315,10 +315,11 @@ The Sulian does not perform Magic Checks nor can they be considered Distracted w
 
 >> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Narrator) and describe it, frame it, feel it, and bring it to life as they please.
 
-Do not limit yourselves to the descriptions proposed here; they are meant to be just starting points. Don't feel restricted in your choices because the race description says this or that.
+Do not limit yourselves to the descriptions proposed here; they are meant to be just starting points. Don' \*\*t feel restricted in your choices because the race description says this or that.
 Create the most beautiful and complete characters possible. Each character is alive and is a person, and as such, will always be different from one another, each fantastic in their own way regardless of any race or prejudice.
 
 >> **Note on Character Sex**: In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
 
-> Don't forget no one else sees the world the way you do, so no one else can tell the stories that you have to tell. (Ursula K. Le Guin)
+> Don' \*\*t forget no one else sees the world the way you do, so no one else can tell the stories that you have to tell. (Ursula K. Le Guin)
+
 ---

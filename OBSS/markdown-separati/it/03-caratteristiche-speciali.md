@@ -6,7 +6,7 @@ Ogni creatura è speciale ed unica eppure ci sono esseri ancora più unici e spe
 
 ## Visione Crepuscolare
 
-Quello che per molti é oscurità per chi ha \hypertarget{visionecrepuscolare}{visione crepuscolare} é vedere bene purché ci sia una fonte minima di luce.
+Quello che per molti é oscurità per chi ha visione crepuscolare é vedere bene purché ci sia una fonte minima di luce.
 
 La visione crepuscolare è una visione a colori.
 Un incantatore dotato di visione crepuscolare può leggere una Pergamena fino a quando ha accanto come fonte di luce anche la più smorta delle candele.
@@ -64,4 +64,5 @@ Una creatura dotata di Senso Tellurico è sensibile alle vibrazioni del suolo e 
 Le Creature Acquatiche dotate di Senso Tellurico (ecolocalizzazione) possono percepire la posizione di creature in contatto con l'acqua.
 
 Il raggio della capacità è specificato nel testo descrittivo della creatura.
+
 ---

@@ -1,18 +1,18 @@
 # Adventures in Dungeons
 
-> \st Dungeon is user friendly. It's just very picky about who its friends are. (anonymous)
+> \st Dungeon is user friendly. It' \*\*s just very picky about who its friends are. (anonymous)
 
-The dungeon is tilted. The creatures are infuriated because they can't play marbles (Dungeon Keeper 2, Video game, 1999)
+The dungeon is tilted. The creatures are infuriated because they can' \*\*t play marbles (Dungeon Keeper 2, Video game, 1999)
 
 Of all the strange places an adventurer can explore, none is more lethal than a dungeon. These labyrinths, full of deadly traps, hungry monsters, and marvelous treasures, test every skill and ability of the characters. These rules can be applied to any type of dungeon, from a ship wreck to a vast complex of underground caves.
 
->>> **Dungeon!**: The dungeon, cave, catacomb, den, underground ecosystem... call it what you prefer, it's a cornerstone of adventure!
+>>> **Dungeon!**: The dungeon, cave, catacomb, den, underground ecosystem... call it what you prefer, it' \*\*s a cornerstone of adventure!
 
 | A dungeon is a recipe made of humidity, stench, stale air, dirt, mud, remains of creatures, traps, slimes, traps (be generous...), monsters, enemies, monsters (be generous!), darkness, sinister noises, fungi, creaks, yelps, screams, moans.. but also of fear, tension, thrill terror | horror, emphasis, anger, pain, disappointment and treasures!!! |
 
 Your dungeon is never just a cave. NEVER!
 
-Whether they're caves, dens, mines, grottos, lairs, caverns, the *Dungeons* often represent the focal center of adventure, exploration, and survival.
+Whether they' \*\*re caves, dens, mines, grottos, lairs, caverns, the *Dungeons* often represent the focal center of adventure, exploration, and survival.
 
 Characters will spend a lot of time in these environments, and the Narrator must be prepared and ready for the environment they will encounter.
 
@@ -63,7 +63,7 @@ The four basic types of dungeons are defined by their current state. Many dungeo
 
 **Structure in Ruins**: Once inhabited, this place is now abandoned (completely or partially) by its original creators and is occupied by other creatures. Many underground creatures search for abandoned underground constructions in which to establish their lairs. Any traps that may have existed have probably already been removed or triggered; wandering beasts may be found.
 
-**Occupied Structure**: This dungeon is still in use. Creatures (usually intelligent) still inhabit it, although they might not be the dungeon's creators. An occupied structure could be a home, a fortress, a temple, an active mine, a prison, a headquarters...
+**Occupied Structure**: This dungeon is still in use. Creatures (usually intelligent) still inhabit it, although they might not be the dungeon' \*\*s creators. An occupied structure could be a home, a fortress, a temple, an active mine, a prison, a headquarters...
 
 This type of dungeon is less likely to have traps or wandering beasts, and more likely to have organized guards, both on watch and patrol. Traps and wandering beasts that may be encountered are often under the control of the occupants. Occupied structures have furnishings suitable for the inhabitants, as well as decorations, food supplies, and means for the inhabitants to move about.
 
@@ -101,28 +101,28 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 
 **Table: Walls**
 
-| \rowcolor{gray!20}**Wall Type** | **Thickness** | **Break Through** | **Hardness** | **Hit Points** | **DC Climb** |
+| **Wall Type** | **Thickness** | **Break Through** | **Hardness** | **Hit Points** | **DC Climb** |
 | --- | --- | --- | --- | --- | --- |
 | Stone bricks | 30 cm | 35 | 8 | 90 | 20 |
-| \rowcolor{gray!20}Superior stone bricks | 30 cm | 35 | 8 | 120 | 25 |
+| Superior stone bricks | 30 cm | 35 | 8 | 120 | 25 |
 | Reinforced stone bricks | 30 | 45 | 8 | 180 | 20 |
-| \rowcolor{gray!20}Carved Stone | 90 | 50 | 8 | 540 | 25 |
+| Carved Stone | 90 | 50 | 8 | 540 | 25 |
 | Rough stone | 150 cm | 65 | 8 | 900 | 25 |
-| \rowcolor{gray!20}Iron | 7.5 cm | 30 | 10 | 90 | 25 |
+| Iron | 7.5 cm | 30 | 10 | 90 | 25 |
 | Paper | variable | 1 | -- | 1 | 30 |
-| \rowcolor{gray!20}Wood | 15 cm | 20 | 5 | 60 | 21 |
+| Wood | 15 cm | 20 | 5 | 60 | 21 |
 
 **Table: Digging a tunnel**
 
-| **Miner** | **Material to Dig (1 minute)** |  | |
+| **Miner** | **Material to Dig (1 minute)** |  |
 | --- | --- | --- |
-| \rowcolor{gray!20} | **Earth** | **SoftStone** | **Hard Stone** |
+|  | **Earth** | **SoftStone** | **Hard Stone** |
 | Human | 50 cm | 15 cm | 7 cm |
-| \rowcolor{gray!20}Gnome | 45 cm | 30 cm | 15 cm |
+| Gnome | 45 cm | 30 cm | 15 cm |
 | Dwarf/Orc | 55 cm | 45 cm | 20 cm |
-| \rowcolor{gray!20}Stone Giant | 3 m | 1.5 m | 75 cm |
+| Stone Giant | 3 m | 1.5 m | 75 cm |
 | Xorn | 6 m | 6 m | 6m |
-| \rowcolor{gray!20}Earth Elemental | 9 m | 9 m | 9 m |
+| Earth Elemental | 9 m | 9 m | 9 m |
 
 The distances dug indicated are assumed to be obtained with suitable tools such as shovels or pickaxes, otherwise reduce to one-third.
 
@@ -196,15 +196,15 @@ Doors inside dungeons are much more than simple entrances or exits. Often they c
 
 | **Door Type** | **Typical thickness** | **Hardness** | **Hit Points** | **DC to break down** | |
 | --- | --- | --- | --- | --- |
-| \rowcolor{gray!20} | **(cm)** |  |  | **Blocked** | **Locked** |
+|  | **(cm)** |  |  | **Blocked** | **Locked** |
 | Simple wood | 2.5 | 5 | 10 | 15 | 18 |
-| \rowcolor{gray!20}Good wood | 3.75 | 5 | 15 | 18 | 21 |
+| Good wood | 3.75 | 5 | 15 | 18 | 21 |
 | Strong wood | 5 | 5 | 20 | 25 | 28 |
-| \rowcolor{gray!20}Stone | 10 | 8 | 60 | 31 | 34 |
+| Stone | 10 | 8 | 60 | 31 | 34 |
 | Iron | 5 | 10 | 60 | 30 | 33 |
-| \rowcolor{gray!20}Wooden portcullis | 7.5 | 5 | 30 | 27 | 30 |
+| Wooden portcullis | 7.5 | 5 | 30 | 27 | 30 |
 | Iron portcullis | 5 | 10 | 60 | 28 | 31 |
-| \rowcolor{gray!20}Lock | - | 15 | 30 | - | - |
+| Lock | - | 15 | 30 | - | - |
 | Hinges | - | 10 | 30 | - | - |
 
 **Wooden Doors**: Built with thick planks nailed together, sometimes reinforced with iron bars (also placed to prevent warping from dungeon moisture), wooden doors are the most common type of door. Wooden doors vary in hardness: they can be simple, good, or sturdy. Simple doors (DC 15 to break down) are not designed to keep motivated attackers at bay.
@@ -237,11 +237,11 @@ Everyone, except the weakest characters, will be able to knock down a door with 
 
 Padlocks secure between two rings, one on the door and one on the wall. More complex locks, such as combination locks or puzzle locks, are usually built into the door itself.
 
-The DC to pick a lock with a Disable Device check often falls between 15 and 30, although there are locks with higher or lower DCs. A door may have more than one lock, each of which must be opened separately.. Picking a lock without thieves' tools incurs a -1d6 penalty to the check.
+The DC to pick a lock with a Disable Device check often falls between 15 and 30, although there are locks with higher or lower DCs. A door may have more than one lock, each of which must be opened separately.. Picking a lock without thieves' \*\* tools incurs a -1d6 penalty to the check.
 
-A Critical Failure in opening a door or padlock causes the thieves' tools to break.
+A Critical Failure in opening a door or padlock causes the thieves' \*\* tools to break.
 
-Locks are often equipped with traps, usually poisoned needles that spring out to prick the thief's fingers.
+Locks are often equipped with traps, usually poisoned needles that spring out to prick the thief' \*\*s fingers.
 
 ### Doors, passages and openings
 
@@ -255,7 +255,7 @@ Characters can attack the door and destroy it, leaving the bar hanging in the cl
 
 **Magical Seals**: Spells placed on a door can make crossing a door difficult.
 
-A door on which a magic lock has been cast is considered locked even if it doesn't physically have a lock. A spell that picks locks or dispels magic is needed, or a successful breaking check to pass through a door closed in this way.
+A door on which a magic lock has been cast is considered locked even if it doesn' \*\*t physically have a lock. A spell that picks locks or dispels magic is needed, or a successful breaking check to pass through a door closed in this way.
 
 **Hinges**: Most doors are equipped with hinges. Obviously sliding doors are not (these rather have grooves in the floor, which allow them to slide aside easily).
 
@@ -346,7 +346,8 @@ The room fills with water in 10 rounds. A Survival check at DC 15, combined with
 **Garrote, DC 14**: this trap can be very insidious. A magically sharpened wire is 1 meter from the ground, between one wall and the opposite one, and runs towards the players.
 A Reflex Saving Throw DC 14 is required or suffer 2d6 slashing damage.
 
-**Crushing door, DC 16**: this door, as soon as touched, rotates on central hinges and rotating hits the character (or characters if it's a large gate). It causes 1d6 bludgeoning damage and continues to rotate for 1d6 rounds.
+**Crushing door, DC 16**: this door, as soon as touched, rotates on central hinges and rotating hits the character (or characters if it' \*\*s a large gate). It causes 1d6 bludgeoning damage and continues to rotate for 1d6 rounds.
 
 **Finger Slicer, DC 14**: this trap is very subtle. It presents with a hole about 1 cm in diameter and 7 cm deep. Anything that touches the bottom will trigger the trap, causing 2d4 damage to the finger/object inserted. The blade might also be poisoned.
+
 ---

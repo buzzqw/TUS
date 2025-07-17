@@ -6,7 +6,7 @@ Per fare ciò che si vuole bisogna nascere re o stupidi. (*o Narratore*, NdA) (L
 
 "Non è compito del solo DM (*Narratore*) intrattenere i giocatori e assicurarsi che si divertano. Ogni persona che gioca è responsabile del divertimento del gioco di tutti. Tutti accelerano il gioco, aumentano il dramma, aiutano a stabilire quanto il gruppo si sente a suo agio nel gioco di ruolo e danno vita al mondo di gioco con la loro immaginazione. Tutti dovrebbero anche trattarsi reciprocamente con rispetto e considerazione: i litigi personali e le liti tra i personaggi ostacolano il divertimento.
 
-| Persone diverse hanno idee diverse su ciò che è divertente in D | D. Ricorda che il *modo giusto* di giocare a D | D è il modo in cui tu e i tuoi giocatori siete d'accordo e vi divertite. Se tutti si mettono al tavolo pronti a contribuire al gioco, tutti si divertono". (Dungeon Master Guide, 4ed) |
+| Persone diverse hanno idee diverse su ciò che è divertente in D&D. Ricorda che il *modo giusto* di giocare a D&D è il modo in cui tu e i tuoi giocatori siete d'accordo e vi divertite. Se tutti si mettono al tavolo pronti a contribuire al gioco, tutti si divertono". (Dungeon Master Guide, 4ed) |
 
 ## Il Narratore
 
@@ -55,17 +55,18 @@ Ogni qual volta il personaggio od il gruppo:
 
 **Tabella: Punti Esperienza per Livello**
 
-| \rowcolor{gray!20}**Livello** | **PX** | **Livello** | **PX** |
+| **Livello** | **PX** | **Livello** | **PX** |
+|---|---|---|---|
 | 1 | 0 | 11 | 300000 |
-| \rowcolor{gray!20}2 | 2000 | 12 | 390000 |
+| 2 | 2000 | 12 | 390000 |
 | 3 | 8000 | 13 | 490000 |
-| \rowcolor{gray!20}4 | 15000 | 14 | 600000 |
+| 4 | 15000 | 14 | 600000 |
 | 5 | 35000 | 15 | 740000 |
-| \rowcolor{gray!20}6 | 60000 | 16 | 890000 |
+| 6 | 60000 | 16 | 890000 |
 | 7 | 90000 | 17 | 1050000 |
-| \rowcolor{gray!20}8 | 120000 | 18 | 1250000 |
+| 8 | 120000 | 18 | 1250000 |
 | 9 | 170000 | 19 | 1470000 |
-| \rowcolor{gray!20}10 | 220000 | 20 | 1730000 |
+| 10 | 220000 | 20 | 1730000 |
 | + | prec*0.2 | - | - |
 
 Vi suggerisco anche di valutare queste azioni per premiare l'impegno del giocatore
@@ -119,17 +120,14 @@ Nel progettare un incontro di combattimento in primo luogo decidete che livello 
 
 **Tabella: Determinare gli Incontri**
 
-{\linewidth} % @{} removes extra padding
-	
-
-| \rowcolor{gray!20}**difficoltà** | **Grado di Sfida** |
+| **difficoltà** | **Grado di Sfida** |
 | --- | --- |
 | Facile | APL |
-| \rowcolor{gray!20}Media | APL +1 |
+| Media | APL +1 |
 | Alta | APL +2 |
-| \rowcolor{gray!20}Straordinaria | APL +3 |
+| Straordinaria | APL +3 |
 | Mortale | APL +4 |
-| \rowcolor{gray!20}Epica | APL +6 |
+| Epica | APL +6 |
 
 Si noti che questa guida di riferimento alla creazione di un incontro presuppone un gruppo di quattro o cinque personaggi. Se il vostro gruppo ha sei o più giocatori, aggiungete uno al loro livello medio. Se il vostro gruppo contiene tre o meno giocatori, sottraete uno dal loro livello medio. Per esempio, se il vostro gruppo consiste di sei giocatori, due di 5° livello e quattro di 7° livello, il APL è il 7° (38 livelli totali, diviso per sei giocatori, arrotondando all'intero più vicino, ed aggiungendo uno al risultato finale).
 
@@ -159,12 +157,12 @@ Partendo da un grado di Sfida stabilito (9) seguite questa tabella per stabilire
 
 **Tabella: Peso grado di Sfida per calcolo incontro**
 
-| \rowcolor{gray!20}**Fattore** | **\% Peso** | **Fattore** | **\% Peso** |
+| **Fattore** | **\% Peso** | **Fattore** | **\% Peso** |
 | --- | --- | --- | --- |
 | -6/-7 | 5 | -2 | 65 |
-| \rowcolor{gray!20}-5 | 10 | -1 | 80 |
+| -5 | 10 | -1 | 80 |
 | -4 | 20 | +0 | 100 |
-| \rowcolor{gray!20}-3 | 45 |  | |
+| -3 | 45 |  | |
 
 Per **Fattore** si intende la differenza tra il GS del mostro rispetto al Grado di Sfida scelto. Il Peso è la \% relativa che il mostro apporta per raggiungere l'obiettivo del 100\%.
 
@@ -250,17 +248,18 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 
 **Tabella: Ricchezza dei Personaggi per Livello**
 
-| \rowcolor{gray!20}**Livello** | **Ricchezza (mo)** | **Livello** | **Ricchezza (mo)** |
+| **Livello** | **Ricchezza (mo)** | **Livello** | **Ricchezza (mo)** |
+|---|---|---|---|
 | 1 | 100 | 11 | 13900 |
-| \rowcolor{gray!20}2 | 160 | 12 | 19900 |
+| 2 | 160 | 12 | 19900 |
 | 3 | 220 | 13 | 25900 |
-| \rowcolor{gray!20}4 | 340 | 14 | 37900 |
+| 4 | 340 | 14 | 37900 |
 | 5 | 530 | 15 | 49800 |
-| \rowcolor{gray!20}6 | 2030 | 16 | 67700 |
+| 6 | 2030 | 16 | 67700 |
 | 7 | 3660 | 17 | 85700 |
-| \rowcolor{gray!20}8 | 5780 | 18 | 142000 |
+| 8 | 5780 | 18 | 142000 |
 | 9 | 8100 | 19 | 253000 |
-| \rowcolor{gray!20}10 | 11000 | 20 | 365000 |
+| 10 | 11000 | 20 | 365000 |
 
 La **Tabella: Ricchezza dei Personaggi per Livello** per Livello indica la quantità di monete d'oro equivalenti in tesori ed oggetti che ogni personaggio dovrebbe avere ad un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
 
@@ -286,7 +285,7 @@ Il giocatore deve sempre impersonare il personaggio, immedesimarsi e partecipare
 
 Ci possono essere situazioni di contorno, gestite velocemente, che vengono fatte in terza persona, eppure ogni volta che si renda necessario giocare allora deve essere vero, fatto dal giocatore calandosi appieno nel personaggio.
 
-**Quando un giocatore interpreta bene e descrive l'azione che va a svolgere in maniera \textbf{partecipativa**, **coinvolgente**, **ispirata**, dategli un premio, concedete un bonus di +1 all'azione che sta svolgendo}
+**Quando un giocatore interpreta bene e descrive l'azione che va a svolgere in maniera partecipativa**, **coinvolgente**, **ispirata**, dategli un premio, concedete un bonus di +1 all'azione che sta svolgendo}
 
 Fatelo presente al giocatore che grazie alla sua interpretazione ha quel bonus.
 
@@ -325,7 +324,7 @@ Il Narratore potrebbe decidere di tracciare in questa maniera i soli consumabili
 
 ## Le avventure in OBSS  
 
-Suggerisco la lettura integrale dell'articolo: \href{https://lithyscaphe.blogspot.com/p/principia-apocrypha.html} {Principia Apocrypha}
+Suggerisco la lettura integrale dell'articolo: https://lithyscaphe.blogspot.com/p/principia-apocrypha.html} {Principia Apocrypha}
 
 https://lithyscaphe.blogspot.com/p/principia-apocrypha.html quello che segue è un sunto da me adattato e modificato delle linee guida che seguo quando masterizzo OBSS.
 
@@ -419,4 +418,5 @@ Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere q
 
 > {
 I problemi più complessi hanno soluzioni semplici e facili da comprendere ma sbagliate (Arthur Bloch).... ma se sono divertenti e piacciono a tutti allora usatele! (NdA)
+
 ---

@@ -4,17 +4,17 @@
 
 Every character has 6 Ability Scores (also called Statistics) that represent their basic attributes and constitute their potential talent and innate ability.
 
-Although it is not common for a character to make a check using only an Ability Score, the scores affect virtually every aspect of the character's capabilities and skills.
+Although it is not common for a character to make a check using only an Ability Score, the scores affect virtually every aspect of the character' \*\*s capabilities and skills.
 
 ## Description of Ability Scores
 
 The Ability Score is not everything in a character, much less in a monster.
 
-The most *instinctive* and aggressive monsters will probably have negative Intelligence scores, but this doesn't mean they are *stupid*, they simply act according to their natural patterns. At the same time, creatures with a low Constitution value aren't about to die but are just *fragile*.
+The most *instinctive* and aggressive monsters will probably have negative Intelligence scores, but this doesn' \*\*t mean they are *stupid*, they simply act according to their natural patterns. At the same time, creatures with a low Constitution value aren' \*\*t about to die but are just *fragile*.
 
 ### Strength
 
-> Oh, it is excellent to have a giant's strength, but it is tyrannous to use it like a giant! (William Shakespeare, Isabella: from "Measure for Measure", act II, scene II)
+> Oh, it is excellent to have a giant' \*\*s strength, but it is tyrannous to use it like a giant! (William Shakespeare, Isabella: from "Measure for Measure", act II, scene II)
 
 Strength measures physical power, athleticism, and the limits of brute force you can express. Strength applies to melee damage and for weapons thrown by hand.
 
@@ -26,7 +26,7 @@ A character with a Strength score of -5 is dead.
 
 ### Dexterity
 
-> Barking tires one out. Strength doesn't count for anything in life. Knowing how to dodge is what matters. (Daniel Pennac)
+> Barking tires one out. Strength doesn' \*\*t count for anything in life. Knowing how to dodge is what matters. (Daniel Pennac)
 
 Dexterity measures agility, reflexes, balance, and coordination; it determines Defense and Attack Rolls with Ranged Weapons.
 
@@ -61,7 +61,7 @@ A character with an Intelligence score of -5 is in a coma.
 
 Wisdom reflects your attunement to the world around you and represents insight, intuition, willpower, and common sense.
 
-A Wisdom check reflects an effort to interpret body language, understand someone's feelings, notice details in the environment, or treat an injured person.
+A Wisdom check reflects an effort to interpret body language, understand someone' \*\*s feelings, notice details in the environment, or treat an injured person.
 
 A character with a Wisdom score of -5 is incapable of rational thought and is unconscious.
 
@@ -69,7 +69,7 @@ A character with a Wisdom score of -5 is incapable of rational thought and is un
 
 > Kogami, do you know what charisma is?
 
-- The way I see it, it's an innate aptitude, like that of a hero or a leader.
+- The way I see it, it' \*\*s an innate aptitude, like that of a hero or a leader.
 
 - [...] The elements that identify charisma are three: the innate nature of heroes and prophets, the ability to instill well-being in others with your mere presence, and a culture that allows you to have a brilliant conversation on any subject. (Psycho-Pass)
 
@@ -79,7 +79,7 @@ A Charisma check might be required when you try to influence or entertain others
 
 The Charisma score influences the number of *guys* you know. See I know a guy.....
 
-Typical situations for using Charisma include attempts to deceive a guard, swindle a merchant, earn money through gambling, pass yourself off as someone else through a disguise, allay someone's suspicions with false reassurances, or maintain an impassive face while telling a blatant lie.
+Typical situations for using Charisma include attempts to deceive a guard, swindle a merchant, earn money through gambling, pass yourself off as someone else through a disguise, allay someone' \*\*s suspicions with false reassurances, or maintain an impassive face while telling a blatant lie.
 
 A character with a Charisma score of -5 is unconscious.
 
@@ -93,14 +93,14 @@ A score of -1 is considered weak, a -2 subnormal, a -3 severely problematic, a -
 
  
 
-The character's age affects physical and mental Ability Scores.
+The character' \*\*s age affects physical and mental Ability Scores.
 
-| \rowcolor{gray!20}**Period** | **STR** | **DEX** | **CON** | **INT** | **WIS** |
+| **Period** | **STR** | **DEX** | **CON** | **INT** | **WIS** |
 | --- | --- | --- | --- | --- | --- |
 | Young |  |  | +1 |  | -1 |
-| \rowcolor{gray!20}Adult |  |  |  |  | |
+| Adult |  |  |  |  | |
 | Mature |  |  | -1 |  | +1 |
-| \rowcolor{gray!20}Elderly | -2 | -1 | -1 | +1 | +1 |
+| Elderly | -2 | -1 | -1 | +1 | +1 |
 | Venerable | -1 | -1 | -1 | -1 | +1 |
 
 The indicated modifiers are cumulative.
@@ -115,7 +115,7 @@ Personally, I suggest the approach of the **Base Mode**. In OBSS, characters are
 
 The undoubted advantage of rolling values in order of characteristics is that it allows to mix up patterns and avoid *builds* made at the table.
 
-It's likely that you won't get the results you were hoping for, or that they might come in characteristics that don't interest you. That's fine. Change your mind, let yourself be inspired by the values obtained! Have fun with the new character, build something new and different, let yourself be surprised.
+It' \*\*s likely that you won' \*\*t get the results you were hoping for, or that they might come in characteristics that don' \*\*t interest you. That' \*\*s fine. Change your mind, let yourself be inspired by the values obtained! Have fun with the new character, build something new and different, let yourself be surprised.
 
 The **rolls for Ability Scores are executed in order**, so the first roll is for Strength, then for Dexterity, Constitution, Intelligence, Wisdom, and finally Charisma.
 
@@ -141,13 +141,14 @@ Each player distributes 4 points among the 6 Ability Scores, each Ability Score 
 
 The sum of the dice rolled for the Ability Scores is compared with this table to determine the actual values of the Ability Scores.
 
-| \rowcolor{gray!20}**Roll value** | **Ability** | **Roll value** | **Ability** |
+| **Roll value** | **Ability** | **Roll value** | **Ability** |
+|---|---|---|---|
 | 3 (or less) | -3 | 12-13-14 | +1 |
-| \rowcolor{gray!20}4-5 | -2 | 15-16-17 | +2 |
+| 4-5 | -2 | 15-16-17 | +2 |
 | 6-7-8 | -1 | 18 (or more) | +3 |
-| \rowcolor{gray!20}9-10-11 | +0 |  | **Remember to apply racial modifiers!** |
+| 9-10-11 | +0 |  | **Remember to apply racial modifiers!** |
 
->> **Let's Roll Ability Scores for Tups**: **First set**: \st,1,4,3 total 8. Strength is -1
+>> **Let' \*\*s Roll Ability Scores for Tups**: **First set**: \st,1,4,3 total 8. Strength is -1
 
 **Second**: 5,6,6 total 17. Dexterity is +2
 
@@ -171,9 +172,9 @@ To increase the Ability Score beyond 4, magic items or spells are necessary. The
 
 The increase in Characteristics immediately applies the modifier to Skill Checks, Saving Throws, Attack Rolls, Initiative, and Magic. The increase in intelligence affects the subsequent level in terms of the increase in acquired Skills.
 
->>> **Low Characteristics**: Players will still complain about the Ability Scores rolled, it's normal, especially less experienced players. Try to make them understand that they shouldn't limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
+>>> **Low Characteristics**: Players will still complain about the Ability Scores rolled, it' \*\*s normal, especially less experienced players. Try to make them understand that they shouldn' \*\*t limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
 
->> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it's not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
+>> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it' \*\*s not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
 
 > It is our choices that show who we truly are, far more than our abilities. Albus Dumbledore
 
