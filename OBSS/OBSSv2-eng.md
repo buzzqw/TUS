@@ -16821,9 +16821,6 @@ Note that this reference guide to creating an encounter assumes a group of four 
 
 **Table: Determining Encounters**
 
-{\linewidth} % @{} removes extra padding
-	
-
 | \rowcolor{gray!20}**difficulty** | **Challenge Rating** |
 | --- | --- |
 | Easy | APL |

@@ -12,6 +12,7 @@ sed -i 's/(pag\. )//g' OBSSv2.md
 sed -i 's/\\cmidrule(lr)//g' OBSSv2.md
 sed -i 's/\\rowcolor{gray!20}//g' OBSSv2.md
 sed -i 's/%box narratore//g' OBSSv2.md
+sed -i 's/\\mostro{\([^}]*\)}/\1/g' OBSSv2.md
 #sed -i 's/'\''\\*\\*/'\'' \\*\\*/g' OBSSv2.md
 sed -i '/| \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* | \*\*CM\*\* | \*\*PM\*\* |/a|---|---|---|---|---|---|' OBSSv2.md
 #sed -i 's/\\textbf//g' OBSSv2.md
@@ -129,7 +130,20 @@ sed -i '/| \*\*Vantaggio \/ Svantaggio\*\* | \*\*Prove\*\* | |/{n;s/| --- | --- 
 sed -i '/| A | G | D |/{n;n;s/| B | | E |/| B | **X**| E |/;}' OBSSv2.md
 sed -i 's/\\oggettomagico{\([^}]*\)}/### \1/g' OBSSv2.md
 sed -i 's/\\mostro{\([^}]*\)}/### \1/g' OBSSv2.md
+sed -i 's/\\autocite{jung1971}//g' OBSSv2.md
+sed -i 's/\\autocite{myers1995}//g' OBSSv2.md
+sed -i 's/\\hyperlink{Un solo credo\*\*{//g' OBSSv2.md
+sed -i 's/\\hypertarget{cadutapiuma}//g' OBSSv2.md
+sed -i 's/\\addcontentsline{toc}{subsection}{Elenco Patroni}//g' OBSSv2.md
+sed -i 's/\\hyperlink{[^}]*}{\([^}]*\)}/\1/g' OBSSv2.md
+sed -i 's/\\hyperref\[[^]]*\]{\([^}]*\)}/\1/g' OBSSv2.md
+sed -i 's/\\texttimes{}//g' OBSSv2.md
+sed -i 's/\\href{//g' OBSSv2.md
+sed -i 's/| {\\textwidth}{>{\\bfseries}l|> |//g' OBSSv2.md
+sed -i 's/}  %chiude {//g' OBSSv2.md
+sed -i 's/\*\*\\hyperlink{[^}]*\*\*{//g' OBSSv2.md
 
+sed -i 's/\\mostro{\([^}]*\)}/\1/g' OBSSv2-eng.md
 sed -i 's/\\rowcolor{gray!20}//g' OBSSv2-eng.md
 sed -i 's/\\cline{[^}]*}//g' OBSSv2-eng.md
 sed -i '/Old Bell School System/c**Old Bell School System - OBSS - Fantasy Adventure Game**' OBSSv2-eng.md
@@ -265,8 +279,18 @@ sed -i 's#| {\\textwidth}{|>{\\raggedright}l|c|c|c|c|} |#| **Profession** | **1p
 sed -i '/| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |/{N;N;s/| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |\n| --- | --- | --- | --- | --- | --- | --- |\n| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |/| \*\*Profession\*\* | \*\*1pt\*\* | \*\*2pts\*\* | \*\*2pts\*\* | \*\*3pts\*\* |\n| --- | --- | --- | --- | --- | --- | --- |/;}' OBSSv2-eng.md
 sed -i 's/\\oggettomagico{\([^}]*\)}/### \1/g' OBSSv2-eng.md
 sed -i 's/\\mostro{\([^}]*\)}/### \1/g' OBSSv2-eng.md
-
-
+sed -i 's/\\autocite{jung1971}//g' OBSSv2-eng.md
+sed -i 's/\\autocite{myers1995}//g' OBSSv2-eng.md
+sed -i 's/\\hyperlink{Un solo credo\*\*{//g' OBSSv2-eng.md
+sed -i 's/\\hypertarget{cadutapiuma}//g' OBSSv2-eng.md
+sed -i 's/\\hyperlink{[^}]*}{\([^}]*\)}/\1/g' OBSSv2-eng.md
+sed -i 's/\\hyperref\[[^]]*\]{\([^}]*\)}/\1/g' OBSSv2-eng.md
+sed -i 's/\\texttimes{}//g' OBSSv2-eng.md
+sed -i 's/\\href{//g' OBSSv2-eng.md
+sed -i 's/| {\\textwidth}{>{\\bfseries}l|> |//g' OBSSv2-eng.md
+sed -i 's/}  %chiude {//g' OBSSv2-eng.md
+sed -i 's/\*\*\\hyperlink{[^}]*\*\*{//g' OBSSv2-eng.md
+	
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2-eng.md > obtemp.md && mv obtemp.md OBSSv2-eng.md
 awk '/^$/{e++} !/^$/{e=0} e<=2' OBSSv2-eng.md > obtemp && mv obtemp OBSSv2-eng.md

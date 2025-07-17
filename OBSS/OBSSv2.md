@@ -13754,12 +13754,12 @@ Indossare e togliere armature è una operazione che richiede tempo ed attenzione
 | Scudo | 1 Azione | - | 1 Azione |
 | \rowcolor{gray!20}Imbottita, Cuoio, Cuoio rinforzata | 1 minuto | 3 round | - |
 | Giaco di Maglia | 1 minuto | 5 round | 5 round |
-| \rowcolor{gray!20}Scaglie, Anelli, Pettorale, Bande | 4 minuti | 1 minuto{*} | 1 minuto |
-| Mezza armatura, da Campo, Completa | 4 minuti{*}{*} | 4 minuti{*} | 1d4+1 minuti |
+| \rowcolor{gray!20}Scaglie, Anelli, Pettorale, Bande | 4 minuti | 1 minuto * | 1 minuto |
+| Mezza armatura, da Campo, Completa | 4 minuti ** | 4 minuti * | 1d4+1 minuti |
 
-{*} Se qualcuno aiuta, il tempo si dimezza. Un singolo personaggio che non sta facendo altro può aiutare uno o due personaggi adiacenti a lui. Due personaggi non possono aiutarsi l'un l'altro a indossare un'armatura contemporaneamente.
+* Se qualcuno aiuta, il tempo si dimezza. Un singolo personaggio che non sta facendo altro può aiutare uno o due personaggi adiacenti a lui. Due personaggi non possono aiutarsi l'un l'altro a indossare un'armatura contemporaneamente.
 
-{*}{*} Bisogna essere aiutati per indossare questa armatura. Senza aiuto è possibile indossarla solo in fretta.
+** Bisogna essere aiutati per indossare questa armatura. Senza aiuto è possibile indossarla solo in fretta.
 
 **Indossare un'armatura in fretta** implica una penalità di -1 alla Difesa fornita dall'Armatura ed una penalità aggiuntiva di +1 alle prove di Competenza di Base.
 ---
@@ -14765,8 +14765,8 @@ A volte il tempo atmosferico può giocare un ruolo importante nel corso di un'av
 
 **Tabella: Tempo Atmosferico Casuale**
 
-| \rowcolor{gray!20}**d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato {***} | **Deserto** |
-| 01-70 | Normale | Freddo, calmo | Normale per la stagione {*}{*} | Torrido, calmo |
+| \rowcolor{gray!20}**d\%** | **Meteo** | **Clima Freddo** | **Clima Temperato *** | **Deserto** |
+| 01-70 | Normale | Freddo, calmo | Normale per la stagione ** | Torrido, calmo |
 | \rowcolor{gray!20}71-80 | Anormale | Ondata di Caldo (01-30) / Ondata di Freddo (31-100) | Ondata di Caldo (01-50) - Ondata di Freddo (51-100) | Torrido, ventilato |
 | 81-90 | Inclemente | Precipitazioni (neve) | Precipitazioni normali per la stagione | Torrido, ventilato |
 | \rowcolor{gray!20}91-99 | Tempesta | Tempesta di neve | Tempesta di fulmini / Tempesta di neve | Tempesta di polvere |
@@ -16721,9 +16721,6 @@ Nel progettare un incontro di combattimento in primo luogo decidete che livello 
 **Determinare APL**: Determinate il livello medio dei personaggi: questo è il Livello Medio del Gruppo (APL in breve, Average Party Level). Dovreste arrotondate questo valore al numero intero più vicino (questa è una delle poche eccezioni alla regola dell'arrotondamento per difetto).
 
 **Tabella: Determinare gli Incontri**
-
-{\linewidth} % @{} removes extra padding
-	
 
 | \rowcolor{gray!20}**difficoltà** | **Grado di Sfida** |
 | --- | --- |
@@ -21108,9 +21105,9 @@ Per ricaricare una bacchetta od un bastone un incantatore deve infondere lo stes
 | Grande paese | 1500 mo | 1d6 oggetti | 1d4 oggetti | 1d2 oggetti |
 | \rowcolor{gray!20}Piccola città | 2500 mo | 2d4 oggetti | 1d6 oggetti | 1d4 oggetti |
 | Grande città | 6000 mo | 3d4 oggetti | 2d4 oggetti | 1d6 oggetti |
-| \rowcolor{gray!20}Metropoli | 12000 mo | {*} | 3d4 oggetti | 2d4 oggetti |
+| \rowcolor{gray!20}Metropoli | 12000 mo | * | 3d4 oggetti | 2d4 oggetti |
 
-{*} In una metropoli si trovano quasi tutti gli oggetti magici minori.
+* In una metropoli si trovano quasi tutti gli oggetti magici minori.
 
 Gli oggetti magici sono preziosi e la maggior parte delle grandi città ha almeno uno o due fornitori di oggetti magici, dal semplice venditore di pozioni ad un fabbro specializzato nel forgiare spade magiche. Ovviamente non ogni oggetto in questo manuale è disponibile in ogni città.
 
@@ -34361,7 +34358,7 @@ livello 8 (1 slot): *Scudo Mentale**
 
 livello 9 (1 slot): *Fermare il Tempo*
 
-L'arcimago esegue questi {*} incantesimi su di sé prima del combattimento.
+L'arcimago esegue questi * incantesimi su di sé prima del combattimento.
 
 **Azioni*Pugnale.** Attacco con Arma da Mischia o a Gittata*: +6 a colpire, portata 1 m o gittata 6m, un bersaglio.
 
