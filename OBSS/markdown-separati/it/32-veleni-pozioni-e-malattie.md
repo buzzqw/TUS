@@ -99,10 +99,11 @@ Per *trovare* gli ingredienti per preparare i **veleni** è necessario superare 
 
 Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessario superare con la prova di Erboristeria la Rarità indicata nella colonna *Rar.*
 
-**Tabella: Veleni. (costo in Monete d'Oro)**
+**Tabella: Veleni**
 
 | **Nome Veleno** | **Uso** | **Ins.** | **TS** | **Effetto (danno)** | **Costo** |
 | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  | **(mo)** |
 | Mistura Rossa | F | - | 13 | -1d6 TC/TS per 10 minuti | 10 |
 | Concentrato Viola | F | - | 15 | 2d6 Punti Ferita | 15 |
 | Grasso di Toporagno Viola | C | 1 r | 13 | 2d12 Punti Ferita | 15 |
@@ -123,7 +124,7 @@ Per *trovare* gli ingredienti per preparare le **pozioni naturali** è necessari
 | Veleno di Ottalm | F | - | 20 | Morte o -1d2 Costituzione permanente | 50 |
 | Bacche Azzurre di fosso | I | 1 T | 21 | -1d3 Intelligenza e Saggezza per 6 ore | 55 |
 | Erba puntuta rosa | I | 1 r | 22 | -1d6 Destrezza, per 1 ora | 60 |
-| Pelle di Rospo Azzurro | C | 10 r | 22 | Paralizzato per 1d6 turni | 60 |
+| Pelle di Rospo Azzurro | C | 1 T | 22 | Paralizzato per 1d6 turni | 60 |
 | Fegato di Toporagno Viola | I | 1 ora | 25 | 2d6 di danno a Saggezza e Intelligenza. Permanente | 75 |
 | Veleno di Serpe del Sangue | F | - | 25 | Paralisi per 1d6 ore -1d4 punti Forza per 7 giorni | 75 |
 | Sangue di Thrun | C | - | 26 | -1d3 Costituzione | 80 |
@@ -134,14 +135,15 @@ Il Tiro Salvezza è sempre su Tempra se non specificato diversamente
 
 I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non permanenti o indicato diversamente.
 
-**Tabella: Pozioni Naturali (costo in monete d'oro)**
+**Tabella: Pozioni Naturali**
 
 | **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  | **(mo)** |
 | Wickalim | I | 1 ora | 15 | Cura 2 Punti Ferita | 9 | 5 |
 | Darsirion | C | 1 r | 25 | Cura 1d4 Punti Ferita | 9 | 5 |
 | Harfy | C | I | 12 | -1 al sanguinamento | 10 | 3 |
-| Barannie | I | 10 r | 15 | Rimuove nausea | 11 | 3 |
+| Barannie | I | 1 T | 15 | Rimuove nausea | 11 | 3 |
 | Estratto radice Gisenosa | I | 3 T | 15 | Cura tosse e raffreddore | 11 | 3 |
 | Klagul | C | 1 T | 20 | Pulisce i denti | 11 | 2 |
 | Nelthalion | I | I | 15 | Fa vomitare | 11 | 1 |
@@ -149,7 +151,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 | Uovo di Urk | I | 1 T | 12 | 1 giorno di cibo | 12 | 1 |
 | Delrean Plus | I | 1 r | 18 | Allontana insetti per 3 giorni | 13 | 5 |
 | Corteccia di Aklent | I | 1 T | 10 | La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno | 13 | 1 |
-| Lievito Muschio Bianco | I | 10 r | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
+| Lievito Muschio Bianco | I | 1 T | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
 | Harfindar | I | 1 T | 15 | Fa abortire | 14 | 3 |
 | Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività | 15 | 8 |
 | Bacche di Ljust | I | 1 r | 16 | Preso la sera recuperi il doppio dei PF, minimo 4 | 15 | 10 |
@@ -175,7 +177,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 | Arksun | C | 1 T | 25 | Cura 1d6 PF a Turno per 3 turni | 24 | 75 |
 | Uscaboo | R | 1 T | 25 | Rimuove cecità | 25 | 125 |
 | Melandrir | I | 1 r | 15 | Concede un nuovo Tiro Salvezza per Malattie con +4 | 26 | 100 |
-| Gylvert | I | 10 r | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
+| Gylvert | I | 1 T | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
 | Callynthine | C | 1 ora | 24 | Rinsalda le fratture, cura 2d8+8 PF | 28 | 200 |
 | Gelfnus | I | 5 r | 28 | Cura 3d8+3 Punti Ferita, rende Affaticato | 28 | 150 |
 | Polline di Rosa Verde | R | 3 T | 25 | Recuperi 2d4 danni Intelligenza e Saggezza | 29 | 350 |
@@ -294,10 +296,11 @@ Il Narratore è libero di usare tutte le pozioni e veleni già elencate oppure u
 
 L'insorgenza è sempre immediata, la durata per le cure è immediata, per le altre è 10 minuti (quindi la pozione Rimuovi Veleno ti protegge per 1 Turno contro un veleno).
 
-**Tabella: delle pozioni generiche. Costo in Monete d'Oro.**
+**Tabella: delle pozioni generiche**
 
 | **Nome Pozione** | **Effetto** | **Costo** | **Appl.** |
 | --- | --- | --- | --- |
+|  |  | **(mo)** | |
 | Cura | cura 1d8+1 Punti Ferita | 50 | I |
 | Cura potenziata | cura 3d8+3 Punti Ferita | 125 | I |
 | Cura maggiore | cura 3d10+15 Punti Ferita | 300 | I |
@@ -313,14 +316,15 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 
 | **Nome** | **Uso** | **Ins.** | **DC** | **Effetto** | **Rar.** | **Costo** |
 | --- | --- | --- | --- | --- | --- | --- |
-| Foglie fermentate di Luside | I | 1 T | 17 | +4 Carisma ed Intelligenza per 1d4 ore | 17 | 5 mo |
-| Ferpillon | I | 1 r | 20 | Fa dormire per 24 ore | 15 | 50 mo |
-| Unto Grigio | I | 1 r | 24 | Contrasta DC 25 effetti Lista Ammaliamento | 19 | 80 mo |
-| Cenere di Arpasur | R | 1 r | 20 | Rimuove 2 livelli di affaticato | 16 | 10 mo |
-| Estratto alcolico di Melzaa | I | 1 r | 20 | +2 For, +2 Des, -2 Sag. Per 1d4 ore | 16 | 25 mo |
-| Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 mo |
-| Polline di Julnnaus | R | I | 20 | +3 Costituzione per 2 ore | 16 | 25 mo |
-| Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 mo |
+|  |  |  |  |  |  | **(mo)** |
+| Foglie fermentate di Luside | I | 1 T | 17 | +4 Carisma ed Intelligenza per 1d4 ore | 17 | 5 |
+| Ferpillon | I | 1 r | 20 | Fa dormire per 24 ore | 15 | 50 |
+| Unto Grigio | I | 1 r | 24 | Contrasta DC 25 effetti Lista Ammaliamento | 19 | 80 |
+| Cenere di Arpasur | R | 1 r | 20 | Rimuove 2 livelli di affaticato | 16 | 10 |
+| Estratto alcolico di Melzaa | I | 1 r | 20 | +2 For, +2 Des, -2 Sag. Per 1d4 ore | 16 | 25 |
+| Essenza profumata di Inut | R | I | 15 | +4 Destrezza per 1d8 ore | 16 | 15 |
+| Polline di Julnnaus | R | I | 20 | +3 Costituzione per 2 ore | 16 | 25 |
+| Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 |
 
 **L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità in base alla sensibilità dei giocatori**.
 

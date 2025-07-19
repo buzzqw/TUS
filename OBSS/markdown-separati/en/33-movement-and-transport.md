@@ -236,8 +236,8 @@ The **Table: CdC transported based on size** shows the Load Capacity based on si
 | --- | --- | --- | --- |
 | Fine | 1/4 | Large | 24 |
 | Diminutive | 1 | Huge | 36 |
-| Tiny | 3 | Gargantuan | 49 |
-| Small | 6 | Colossal | 77 |
+| Tiny | 3 | Gargantuan | 54 |
+| Small | 6 | Colossal | 81 |
 | Medium | 12 |  | Creatures with 4 or more legs can carry larger loads. |
 
 **Table: transport modifiers for creatures with multiple legs**

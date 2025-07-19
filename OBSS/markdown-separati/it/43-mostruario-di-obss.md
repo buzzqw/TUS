@@ -572,7 +572,7 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 | 114 | Affaticato: +1 livello di affaticamento |
 | 121 | Imbarazzo di stomaco: -4 a tutte le Azioni per 1 ore |
 | 122 | Dermatite violente: -2 alle Azioni che usano le mani per 1d4 ore |
-| 123 | Vesciche ai piedi: tutto il terreno è difficile per 1d10 minuti |
+| 123 | Vesciche ai piedi: tutto il terreno è difficile per 2d4 ore |
 | 124 | Terzo occhio: +2 alle Prove di Consapevolezza per 1d4 ore |
 
 ---

@@ -1231,12 +1231,6 @@ main() {
     optimize_pdfs
     convert_markdown
     
-    # Git operations
-    if ! git_operations; then
-        log_error "Operazioni Git fallite"
-        exit 1
-    fi
-    
     # Asset preparation
     prepare_assets
     
@@ -1244,6 +1238,12 @@ main() {
     update_wiki
     update_pages
     create_release
+    
+    # Git operations
+    if ! git_operations; then
+        log_error "Operazioni Git fallite"
+        exit 1
+    fi
     
     # Summary
     show_summary

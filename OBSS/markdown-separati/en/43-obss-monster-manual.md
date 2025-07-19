@@ -571,7 +571,7 @@ Roll 1d4 for the first digit and a d12 for the second digit. Cooking times can b
 | 114 | Fatigued: +1 fatigue level |
 | 121 | Stomach upset: -4 to all Actions for 1 hour |
 | 122 | Severe dermatitis: -2 to Actions using hands for 1d4 hours |
-| 123 | Foot blisters: all terrain is difficult for 1d10 minutes |
+| 123 | Foot blisters: all terrain is difficult for 2d4 hours |
 | 124 | Third eye: +2 to Awareness checks for 1d4 hours |
 
 ---

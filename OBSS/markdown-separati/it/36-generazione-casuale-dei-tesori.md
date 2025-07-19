@@ -431,10 +431,10 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | **3d6** | **Livello Incantesimo** |
 |---|---|
 | 3-9 | 1 |
-| 10-12 | 2 |
-| 13-16 | 3 |
-| 17 | 4 |
-| 18 | 5 |
+| 10-11 | 2 |
+| 12-15 | 3 |
+| 16 | 4 |
+| 17 | 5 |
 | 18 | 6 |
 
 | **Manuali, Tomi e Pergamene** | **3d6** |

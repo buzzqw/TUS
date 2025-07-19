@@ -110,7 +110,7 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 | Pietra grezza | 150 cm | 65 | 8 | 900 | 25 |
 | Ferro | 7.5 cm | 30 | 10 | 90 | 25 |
 | Carta | variabile | 1 | -- | 1 | 30 |
-| Legno | 15 cm | 20 | 5 | 60 | 21 |
+| Legno | 10 cm | 20 | 5 | 60 | 21 |
 
 **Tabella: Scavare un tunnel**
 
@@ -188,7 +188,7 @@ A volte le sporgenze hanno una ringhiera. In questi casi i personaggi ottengono 
 
 - **Bloccata / Incastrata**: DC per Sfondare (TS Tempra con Forza, +1d6 se viene usato un piede di porco). Sfondare una porta a spallate/calci costa 1 Azione, 2 Azioni se si usa un piede di porco.
 - **Chiusa a Chiave**: DC per Scassinare (prova di Disattivare Congegni).
-- **Non bloccata**: una porta non chiusa a chiave o bloccata richiede 1 Azione per aprirla oppure la si può aprire con l'Azione di Movimento usata per attraversarla.
+- **Non bloccata**: una porta non chiusa a chiave o bloccata richiede 1 Azione per aprirla oppure la si può aprire con l'Azione di Movimento usata per attraversarla, contando quel singolo quadretto come terreno difficile.
 
 Il **fallimento critico** in una prova di Forza (TS Tempra con Forza) significa essersi fatti male nella manovra di sfondamento. Finché non passano almeno 10 minuti non è più possibile sfondare una porta.
 

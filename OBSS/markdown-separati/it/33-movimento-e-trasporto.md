@@ -234,8 +234,8 @@ Nella **Tabella: CdC trasportato in base alla taglia** viene riportata la Capaci
 | --- | --- | --- | --- |
 | Piccolissima | 1/4 | Grande | 24 |
 | Minuta | 1 | Enorme | 36 |
-| Minuscola | 3 | Mastodontica | 49 |
-| Piccola | 6 | Colossale | 77 |
+| Minuscola | 3 | Mastodontica | 54 |
+| Piccola | 6 | Colossale | 81 |
 | Media | 12 |  | Creature con 4 zampe o più possono trasportare carichi maggiori. |
 
 **Tabella: modificatori trasporto per creature con più zampe**
@@ -266,7 +266,7 @@ Se una creatura con una velocità di Scalare tenta una scalata rapida (vedi sopr
 
 Una creatura con Velocità di Scalare non ha penalità alla Difesa durante la salita e non ha penalità ai Tiri per Colpire mentre attacca.
 
-Se non si ha il tipo di **movimento Scalare** si considera come **terreno doppiamente difficile**, e quindi ci si muove ad un quarto del del Movimento.
+Se non si ha questo tipo di **movimento** Scalare si considera come **terreno doppiamente difficile**, e quindi ci si muove ad un quarto del del Movimento.
 
 ### Scavare
 

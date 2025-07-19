@@ -431,10 +431,10 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | **3d6** | **Spell Level** |
 |---|---|
 | 3-9 | 1 |
-| 10-12 | 2 |
-| 13-16 | 3 |
-| 17 | 4 |
-| 18 | 5 |
+| 10-11 | 2 |
+| 12-15 | 3 |
+| 16 | 4 |
+| 17 | 5 |
 | 18 | 6 |
 
 | **Manuals, Tomes and Scrolls** | **3d6** |

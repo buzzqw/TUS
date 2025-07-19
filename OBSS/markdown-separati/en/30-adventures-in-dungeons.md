@@ -110,7 +110,7 @@ Sometimes brick walls (stones stacked one on top of another and held together wi
 | Rough stone | 150 cm | 65 | 8 | 900 | 25 |
 | Iron | 7.5 cm | 30 | 10 | 90 | 25 |
 | Paper | variable | 1 | -- | 1 | 30 |
-| Wood | 15 cm | 20 | 5 | 60 | 21 |
+| Wood | 10 cm | 20 | 5 | 60 | 21 |
 
 **Table: Digging a tunnel**
 
@@ -188,7 +188,7 @@ Sometimes ledges have a railing. In these cases, characters get a +1d6 bonus to 
 
 - **Blocked / Stuck**: DC to Break Down (Fortitude ST with Strength, +1d6 if a crowbar is used). Breaking down a door with shoulders/kicks costs 1 Action, 2 Actions if using a crowbar.
 - **Locked**: DC to Pick (Disable Device check).
-- **Not blocked**: a door that is not locked or blocked requires 1 Action to open or it can be opened with the Movement Action used to pass through it.
+- **Not blocked**: a door that is not locked or blocked requires 1 Action to open or it can be opened with the Movement Action used to pass through it considering the space oppede as difficult terrain.
 
 A **Critical Failure** in a Strength check (Fortitude ST with Strength) means having hurt oneself in the breaking attempt. Until at least 10 minutes pass, it is no longer possible to break down a door.
 
