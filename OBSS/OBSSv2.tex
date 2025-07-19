@@ -63,7 +63,7 @@ Ligatures=TeX
 \usepackage{amssymb,siunitx}
 
 % ========== PACCHETTI TABELLE ==========
-\usepackage{booktabs,multirow}
+\usepackage{booktabs,multirow,array}
 \usepackage{xltabular,tabularx}
 \usepackage{colortbl}
 \usepackage{hhline}
@@ -348,6 +348,10 @@ Ligatures=TeX
 	\vspace{-1mm}\noindent
 }
 
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}l}
+%\newcolumntype{L}{>{\raggedright\arraybackslash}p{5cm}}
+%\newcolumntype{L}{>{\raggedright\arraybackslash}l<{\hspace{0.5cm}}}
 
 
 % ========== SISTEMA TABELLE COLORATE ==========
@@ -20765,7 +20769,7 @@ Mattoni di pietra rinforzati & 30 & 45 & 8 & 180 & 20\\
 Pietra grezza & 150 cm & 65 & 8 & 900 & 25\\
 \rowcolor{gray!20}Ferro & 7.5 cm & 30 & 10& 90& 25\\
 Carta & variabile & 1 & --& 1 & 30\\
-\rowcolor{gray!20}Legno & 15 cm& 20 & 5 & 60& 21
+\rowcolor{gray!20}Legno & 10 cm& 20 & 5 & 60& 21
 \end{tabularx}
 
 \medskip
@@ -20868,7 +20872,7 @@ A volte le sporgenze hanno una ringhiera. In questi casi i personaggi ottengono 
 \noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Bloccata / Incastrata}: DC per Sfondare (TS Tempra con Forza, +1d6 se viene usato un piede di porco). Sfondare una porta a spallate/calci costa 1 Azione, 2 Azioni se si usa un piede di porco.\index{Azione Sfondare porte}\index{Azione Forzare porte}
 \item \textbf{Chiusa a Chiave}: DC per Scassinare (prova di Disattivare Congegni).
-\item \textbf{Non bloccata}: una porta non chiusa a chiave o bloccata richiede 1 Azione per aprirla oppure la si può aprire con l'Azione di Movimento usata per attraversarla.\index{Aprire una porta}
+\item \textbf{Non bloccata}: una porta non chiusa a chiave o bloccata richiede 1 Azione per aprirla oppure la si può aprire con l'Azione di Movimento usata per attraversarla, contando quel singolo quadretto come terreno difficile.\index{Aprire una porta}
 \end{itemize}
 
 \medskip
@@ -20991,7 +20995,7 @@ Le porte magiche sono apribili solo tramite comando specifico o annullando la ma
 In tal caso il Narratore potrebbe decidere di aumentare la prova di Disattivare Congegni di 10, portandola a 30 o più e potrebbe essere necessario avere qualche punto in Arcana.
 
 \begin{center}
-	\includegraphics[width=0.8\linewidth]{immagini/arcoserpenti.png}
+	\includegraphics[width=0.7\linewidth]{immagini/arcoserpenti.png}
 
 	\emph{Henry Justice Ford}
 \end{center}
@@ -21612,6 +21616,8 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
  \rowcolor{gray!20}\textbf{Effetto:} & 2 attacchi in mischia +10 (1d8+1)
 \end{tabularx}\\
 
+\medskip
+
 \noindent\begin{tabularx}{\linewidth}{p{2.3cm}X}
 \rowcolor{gray!20} \textbf{GS:} 2 & \textbf{Fossa con Spuntoni}\\
 	\textbf{Tipo:} & meccanico \\
@@ -22139,13 +22145,14 @@ Per \emph{trovare} gli ingredienti per preparare le \textbf{pozioni naturali} è
 	\includegraphics[height=0.25\linewidth]{immagini/poison.png}
 \end{center}
 
-\textbf{Tabella: Veleni. (costo in Monete d'Oro)}\index[Tabelle]{Tabella Veleni}\label{tabellaveleni}
+\textbf{Tabella: Veleni}\index[Tabelle]{Tabella Veleni}\label{tabellaveleni}
 
 \medskip
 
 	\noindent\begin{tabularx}{\linewidth}{lcccXc}
 	\toprule
  \rowcolor{gray!20}\textbf{Nome Veleno} & \textbf{Uso} & \textbf{Ins.} & \textbf{TS} & \textbf{Effetto (danno)} & \textbf{Costo}\\
+ \rowcolor{gray!20}&&&&&\textbf{(mo)}\\
 \toprule
 	Mistura Rossa \index{Mistura Rossa} & F& -& 13& -1d6 TC/TS per 10 minuti & 10\\
 
@@ -22187,7 +22194,7 @@ Per \emph{trovare} gli ingredienti per preparare le \textbf{pozioni naturali} è
 
 	Erba puntuta rosa \index{Erba puntuta rosa}& I& 1 r& 22& -1d6 Destrezza, per 1 ora& 60\\
 
- \rowcolor{gray!20}Pelle di Rospo Azzurro \index{Pelle di Rospo Azzurro}& C& 10 r & 22& Paralizzato per 1d6 turni& 60\\
+ \rowcolor{gray!20}Pelle di Rospo Azzurro \index{Pelle di Rospo Azzurro}& C& 1 T & 22& Paralizzato per 1d6 turni& 60\\
 
 	Fegato di Toporagno Viola \index{Fegato di Toporagno Viola} & I& 1 ora& 25& 2d6 di danno a Saggezza e Intelligenza. Permanente & 75 \\
 
@@ -22207,18 +22214,19 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 \medskip
 
-\textbf{Tabella: Pozioni Naturali (costo in monete d'oro)}\index[Tabelle]{Pozioni Naturali}\label{tabellapozioni}
+\textbf{Tabella: Pozioni Naturali}\index[Tabelle]{Pozioni Naturali}\label{tabellapozioni}
 
 \medskip
 
-\noindent\begin{xltabular}{\linewidth}{llllXll}
+\noindent\begin{xltabular}{\linewidth}{llllXcc}
 	\toprule
  \rowcolor{gray!20}\textbf{Nome}& \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Rar.} & \textbf{Costo} \\
+ \rowcolor{gray!20}&&&&&&\textbf{(mo)}\\
  	\toprule
 	Wickalim & I& 1 ora& 15& Cura 2 Punti Ferita& 9 & 5 \\
  \rowcolor{gray!20}Darsirion & C& 1 r & 25& Cura 1d4 Punti Ferita& 9 & 5 \\
 	Harfy & C& I & 12& -1 al sanguinamento& 10 & 3 \\
- \rowcolor{gray!20}Barannie & I& 10 r& 15& Rimuove nausea & 11 & 3 \\
+ \rowcolor{gray!20}Barannie & I& 1 T& 15& Rimuove nausea & 11 & 3 \\
 	Estratto radice Gisenosa & I& 3 T& 15& Cura tosse e raffreddore& 11 & 3\\
  \rowcolor{gray!20}Klagul & C& 1 T & 20& Pulisce i denti & 11 & 2 \\
 	Nelthalion & I& I& 15& Fa vomitare& 11 & 1\\
@@ -22226,7 +22234,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 	Uovo di Urk & I& 1 T & 12& 1 giorno di cibo& 12 & 1\\
  \rowcolor{gray!20}Delrean Plus & I& 1 r & 18& Allontana insetti per 3 giorni & 13 & 5\\
 	Corteccia di Aklent & I& 1 T & 10& La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno& 13 & 1\\
- \rowcolor{gray!20}Lievito Muschio Bianco & I& 10 r& 12& I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore & 14 & 1\\
+ \rowcolor{gray!20}Lievito Muschio Bianco & I& 1 T& 12& I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore & 14 & 1\\
 	Harfindar & I& 1 T & 15& Fa abortire& 14 & 3 \\
  \rowcolor{gray!20}Gusperboon & C& 1 r & 20& La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività & 15 & 8\\
 	Bacche di Ljust & I& 1 r & 16& Preso la sera recuperi il doppio dei PF, minimo 4 & 15 & 10 \\
@@ -22252,7 +22260,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 	Arksun & C& 1 T& 25& Cura 1d6 PF a Turno per 3 turni& 24 & 75 \\
  \rowcolor{gray!20}Uscaboo & R& 1 T & 25& Rimuove cecità& 25 & 125 \\
 	Melandrir & I& 1 r & 15& Concede un nuovo Tiro Salvezza per Malattie con +4& 26 & 100 \\
- \rowcolor{gray!20}Gylvert & I& 10 r& 25& Concede respirare sott'acqua per 4 ore & 27 & 3 \\
+ \rowcolor{gray!20}Gylvert & I& 1 T& 25& Concede respirare sott'acqua per 4 ore & 27 & 3 \\
 	Callynthine & C& 1 ora& 24& Rinsalda le fratture, cura 2d8+8 PF & 28 & 200\\
  \rowcolor{gray!20}Gelfnus & I& 5 r & 28& Cura 3d8+3 Punti Ferita, rende Affaticato & 28 & 150 \\
 	Polline di Rosa Verde & R& 3 T & 25& Recuperi 2d4 danni Intelligenza e Saggezza& 29 & 350 \\
@@ -22386,14 +22394,15 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 %\emph{Pianta di Mandragola}
 %\end{center}
 
-\textbf{Tabella: delle pozioni generiche. Costo in Monete d'Oro.}\index[Tabelle]{Tabella delle pozioni generiche}\label{pozionigeneriche}\hypertarget{pozionigeneriche}{}
+\textbf{Tabella: delle pozioni generiche}\index[Tabelle]{Tabella delle pozioni generiche}\label{pozionigeneriche}\hypertarget{pozionigeneriche}{}
 
 \medskip
 
 \noindent\begin{tabularx}{\linewidth}{lXcc}
 	\toprule
-\rowcolor{gray!20}\textbf{Nome Pozione}& \textbf{Effetto}&\textbf{Costo}& \textbf{Appl.}\\
-\toprule
+\rowcolor{gray!20}\textbf{Nome Pozione}& \textbf{Effetto}&\textbf{Costo}&\textbf{Appl.}\\
+\rowcolor{gray!20}&&\textbf{(mo)}&\\
+ \toprule
 Cura& cura 1d8+1 Punti Ferita & 50 & I\\
 \rowcolor{gray!20}Cura potenziata& cura 3d8+3 Punti Ferita & 125& I\\
 Cura maggiore& cura 3d10+15 Punti Ferita & 300& I\\
@@ -22414,17 +22423,18 @@ Rimuovi Veleno& concede un nuovo TS con +1d6 & 75 & I\\
 \noindent\begin{tabularx}{\linewidth}{lcccXcc}
 	\toprule
 \rowcolor{gray!20}\textbf{Nome}& \textbf{Uso} & \textbf{Ins.} & \textbf{DC} & \textbf{Effetto}& \textbf{Rar.} & \textbf{Costo} \\
+\rowcolor{gray!20}&&&&&&\textbf{(mo)}\\
 \toprule
-Foglie fermentate di Luside\index{Foglie fermentate di Luside}& I& 1 T& 17&+4 Carisma ed Intelligenza per 1d4 ore& 17 & 5 mo\\
-\rowcolor{gray!20}Ferpillon \index{Ferpillon}& I& 1 r & 20& Fa dormire per 24 ore& 15 & 50 mo \\
-Unto Grigio \index{Unto Grigio} & I& 1 r & 24& Contrasta DC 25 effetti Lista Ammaliamento& 19 & 80 mo\\
-\rowcolor{gray!20}Cenere di Arpasur \index{Cenere di Arpasur}& R& 1 r & 20& Rimuove 2 livelli di affaticato& 16 & 10 mo\\
+Foglie fermentate di Luside\index{Foglie fermentate di Luside}& I& 1 T& 17&+4 Carisma ed Intelligenza per 1d4 ore& 17 & 5\\
+\rowcolor{gray!20}Ferpillon \index{Ferpillon}& I& 1 r & 20& Fa dormire per 24 ore& 15 & 50 \\
+Unto Grigio \index{Unto Grigio} & I& 1 r & 24& Contrasta DC 25 effetti Lista Ammaliamento& 19 & 80\\
+\rowcolor{gray!20}Cenere di Arpasur \index{Cenere di Arpasur}& R& 1 r & 20& Rimuove 2 livelli di affaticato& 16 & 10\\
 %Carne secca di Toporagno Viola \index{Carne secca di Ragno Viola} & I& 1 round & 24& +4 Forza -4 Intelligenza (minimo -3) per 1 turno& SH7 & 30 \\
 %
-Estratto alcolico di Melzaa\index{Estratto alcolico di Melzaa}& I& 1 r & 20& +2 For, +2 Des, -2 Sag. Per 1d4 ore & 16 & 25 mo \\
-\rowcolor{gray!20}Essenza profumata di Inut\index{Essenza profumata do Inut} & R& I& 15& +4 Destrezza per 1d8 ore& 16 & 15 mo \\
-Polline di Julnnaus\index{Polline di Julnnaus} & R& I& 20& +3 Costituzione per 2 ore & 16 & 25 mo\\
-\rowcolor{gray!20}Polline del fiore di Erain \index{Polline del fiore di Erain} & R& 1 r& 20& +2 For, Int, Des, +3d6 PF temporanei per 1 ora& 17 & 75 mo\\
+Estratto alcolico di Melzaa\index{Estratto alcolico di Melzaa}& I& 1 r & 20& +2 For, +2 Des, -2 Sag. Per 1d4 ore & 16 & 25 \\
+\rowcolor{gray!20}Essenza profumata di Inut\index{Essenza profumata do Inut} & R& I& 15& +4 Destrezza per 1d8 ore& 16 & 15 \\
+Polline di Julnnaus\index{Polline di Julnnaus} & R& I& 20& +3 Costituzione per 2 ore & 16 & 25\\
+\rowcolor{gray!20}Polline del fiore di Erain \index{Polline del fiore di Erain} & R& 1 r& 20& +2 For, Int, Des, +3d6 PF temporanei per 1 ora& 17 & 75\\
 \end{tabularx}
 
 \begin{multicols}{2}
@@ -23847,11 +23857,13 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 		15 & Granato & 24 & Pietra Leggendaria\\
 \end{tabularx}
 
+\medskip
+
 \textbf{Tabella: tipologie di Gioielli}\index[Tabelle]{Tabella tipologie di Gioielli}
 
 \medskip
 
-{\small \begin{tabularx}{\linewidth}{X|l|X|l}
+\begin{tabularx}{\linewidth}{X|l|X|l}
 		\toprule
 \rowcolor{gray!20}\textbf{d100} & \textbf{Gioiello} & \textbf{d100} & \textbf{Gioiello}\\
 \toprule
@@ -23868,7 +23880,7 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 89-92 & Fermaglio& 96 & Scettro\\
 \rowcolor{gray!20}52    & Corona& 93-96 & Statuetta\\
 97-100 & Scrigno& 100 & Globo
-\end{tabularx}}
+\end{tabularx}
 
 \subsubsection{Capacità Speciali ed Oggetti Maledetti}
 
@@ -25405,9 +25417,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 \rowcolor{gray!20}& Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea.\\
 91-95 &Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi.\\
 \rowcolor{gray!20}96-97 &La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto.\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
-\rowcolor{gray!20}98-00 &Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie.\\
+98-00 &Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie.\\
 \end{tabularx}
 
 %\medskip
@@ -30031,7 +30041,7 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 \rowcolor{gray!20}114 & Affaticato: +1 livello di affaticamento\\
 121 & Imbarazzo di stomaco: -4 a tutte le Azioni per 1 ore\\
 \rowcolor{gray!20}122 & Dermatite violente: -2 alle Azioni che usano le mani per 1d4 ore\\
-123 & Vesciche ai piedi: tutto il terreno è difficile per 1d10 minuti\\
+123 & Vesciche ai piedi: tutto il terreno è difficile per 2d4 ore\\
 \rowcolor{gray!20}124 & Terzo occhio: +2 alle Prove di Consapevolezza per 1d4 ore\\
 \end{tabularx}
 

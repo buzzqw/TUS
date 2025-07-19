@@ -63,7 +63,7 @@ Ligatures=TeX
 \usepackage{amssymb,siunitx}
 
 % ========== PACCHETTI TABELLE ==========
-\usepackage{booktabs,multirow}
+\usepackage{booktabs,multirow,array}
 \usepackage{xltabular,tabularx}
 \usepackage{colortbl}
 \usepackage{hhline}
@@ -348,6 +348,10 @@ Ligatures=TeX
 	\vspace{-1mm}\noindent
 }
 
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}l}
+%\newcolumntype{L}{>{\raggedright\arraybackslash}p{5cm}}
+%\newcolumntype{L}{>{\raggedright\arraybackslash}l<{\hspace{0.5cm}}}
 
 
 % ========== SISTEMA TABELLE COLORATE ==========
