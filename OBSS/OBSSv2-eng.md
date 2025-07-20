@@ -6047,11 +6047,15 @@ E.g., MP=8, Magic Adept taken 4 times, (8+4)/2=6 level. E.g., MP=16 and Magic Ad
 If the spellcaster has an ability modifier for spells of 0, they cannot cast spells higher than the first level (see also the One with Magic Feat, pg. ).
 If the modifier is 3, the maximum castable level will be 6th level or 7th level in the two example cases.
 
+## Distracted - Problems in casting the spell
+
+If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must make a **Magic Check**.
+
 ## Magic Check
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
-The spellcaster rolls 3d6 + 1d6 for every two points of Magic Skill (rounded up) plus any bonuses, Abilities, or penality from having suffered critical rolls.
+The spellcaster rolls 3d6 + 1d6 for every three points of Magic Skill (rounded up) plus any bonuses, Abilities, or penality from having suffered critical rolls.
 
 The spellcaster can ignore one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
 
@@ -6060,10 +6064,6 @@ The Magic Check is considered passed if the roll is higher than 10 + Spell Level
 When required to pass or make a Magic Check, it is sufficient to not roll a Magical Critical Failure and pass the difficulty given by spell level. If required to achieve a Critical Success and the Magic Check does not achieve it, then any result obtained will be considered a Critical Failure.
 
 Magic Check as all check follow the Golden Rules, page .
-
-## Distracted - Problems in casting the spell
-
-If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must make a **Magic Check**.
 
 For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with additional 4 penality.. Any Critical Failures or Critical Successes are taken into account.
 

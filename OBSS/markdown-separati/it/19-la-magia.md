@@ -189,17 +189,17 @@ Negli esempi sopra se il modificatore di caratteristica per incantesimi è 3 il 
 
 Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco/minacciato mentre cerca di lanciare un incantesimo, **che non sia un Trucchetto**, deve effettuare una **Prova di Magia**.
 
-Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
-
 ## Prova di Magia
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un ***Prova di Magia*** e confidare nelle sue capacità.
 
-L'incantatore tira **3d6 + 1d6 ogni due punti di Competenza Magica** (arrotondato per eccesso) più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira **3d6 + 1d6 ogni tre punti di Competenza Magica** (arrotondato per eccesso) più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
 
 L'incantatore può **ignorare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
 
 La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
+
+Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente superare la difficoltà data dall'incantesimo e non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
