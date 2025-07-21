@@ -343,12 +343,12 @@ convert_markdown() {
     
     local converted=0
     
-    if Latex2MarkDown.sh "$FILE1"  >/dev/null 2>&1; then
+    if latex2markdown.sh "$FILE1"  >/dev/null 2>&1; then
         log_success "OBSSv2.md generato"
         ((converted++))
     fi
     
-    if Latex2MarkDown.sh "$FILE2" >/dev/null 2>&1; then
+    if latex2markdown.sh "$FILE2" >/dev/null 2>&1; then
         log_success "OBSSv2-eng.md generato"
         ((converted++))
     fi
