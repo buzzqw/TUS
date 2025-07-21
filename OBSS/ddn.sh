@@ -404,6 +404,7 @@ git_operations() {
     # Aggiungi file specifici
     [ -d "immagini" ] && git add immagini/ 2>/dev/null || true
     [ -d "$SECTIONS_DIR" ] && git add "$SECTIONS_DIR"/ 2>/dev/null || true
+	git add combat-quick-eng.pdf combat-quick-ita.pdf magia-quick-eng.pdf magia-quick-ita.pdf OBSS-Iniziativa.pdf OBSS-options.pdf OBSS-schema-arbiter-character-eng.pdf OBSS-schema-narratore-personaggi.pdf OBSS-utilita.pdf OBSS-utility.pdf OBSSv2.pdf	OBSSv2-eng.pdf OBSSv2-scheda.pdf OBSSv2-scheda-eng.pdf OBSSv2-scheda-v3.pdf screenv2.pdf screenv2-eng.pdf OBSSv2.md OBSSv2-eng.md markdown-separati/ CompileDROP.sh export_dati_mostri.py Latex2MarkDown.java latex2markdown.sh mostri_data.csv OBSS-options.tex OBSSv2.tex OBSSv2-eng.tex OBSSv2-scheda.ods OBSSv2-scheda-eng.ods OBSSv2-scheda-v3.ods obsv2_wiki_script.js pages.py screenv2.tex screenv2-eng.tex ddn.sh
     
     # Commit
     if git commit -am "$commit_msg" >/dev/null 2>&1; then
