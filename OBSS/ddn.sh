@@ -343,12 +343,12 @@ convert_markdown() {
     
     local converted=0
     
-    if java Latex2MarkDown "$FILE1" "OBSSv2.md" >/dev/null 2>&1; then
+    if sh Latex2MarkDown.sh "$FILE1"  >/dev/null 2>&1; then
         log_success "OBSSv2.md generato"
         ((converted++))
     fi
     
-    if java Latex2MarkDown "$FILE2" "OBSSv2-eng.md" >/dev/null 2>&1; then
+    if sh Latex2MarkDown.sh "$FILE2" >/dev/null 2>&1; then
         log_success "OBSSv2-eng.md generato"
         ((converted++))
     fi
