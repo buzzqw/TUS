@@ -48,7 +48,7 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 All Armors, except for Padded armor, force spellcasters to pass a Magic Check with an increased difficulty indicated in the table.
 
-Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6 +4 dice (because he has 9 points in Magic Skill), ignores 2 dice (because he has taken Magic Adept 4 times).
+Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6 +3 dice (because he has 9 points in Magic Proficiency), ignores 2 dice (because he has taken Magic Adept 4 times).
 
 The difficulty of the spell he casts, Lightning Bolt, is 10+ 2*3 (Spell level) +8 (additional difficulty from the armor).
 

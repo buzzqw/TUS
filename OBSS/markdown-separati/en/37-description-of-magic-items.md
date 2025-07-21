@@ -2043,7 +2043,7 @@ this **medallion** automatically activates the Feather Fall spell when the weare
 
 **Rarity:** Uncommon; **Cost:** 1000 gp; **Rarity:** Rare
 
-Light, Medium or heavy **armor**, but not leather +1000 gp over the base price of the armor. Mithral is a light and flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. Reduces weight category by 1 for determining penalties to Basic and Magic skill checks.
+Light, Medium or heavy **armor**, but not leather +1000 gp over the base price of the armor. Mithral is a light and flexible metal. A mithral chain shirt or breastplate can be worn under normal clothes. Reduces weight category by 1 for determining penalties to Basic and Magic Checks.
 
 ### Ammunition of Slaying
 

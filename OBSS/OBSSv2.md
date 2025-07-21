@@ -3104,10 +3104,10 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 - 1 punto: dimezzi il tempo necessario per indossare e togliere un'armatura
 - 2 punti: la Difesa concessa dall'armatura aumenta di 1 punto, dormire in armature medie non causa affaticamento. Diminuisci di 2 la penalità alla Prova di Magia.
-- 3 punti: la Penalità alla Competenza diminuisce di 1 punto, dormire in armature pesanti non causa affaticamento. Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
+- 3 punti: la penalità alla Competenza diminuisce di 1 punto, dormire in armature pesanti non causa affaticamento. Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
 - 4 punti: la penalità al Movimento diminuisce di 1 metro, il bonus di la Difesa concessa dell'armatura aumenta di 1 punto. Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
 - 5 punti: diminuisci di 1 i Tiri Critici subiti per attacco in mischia, la Penalità alla Competenza diminuiscono di 1 punto, la penalità al Movimento diminuisce di 1 metro. Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
-- 6 punti: la diminuzione del Tiro Critico subito si applica anche agli attacchi a distanza. annulli la Penalità alla Competenza ed al Movimento.Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
+- 6 punti: la diminuzione del Tiro Critico subito si applica anche agli attacchi a distanza. annulli la penalità alla Competenza ed al Movimento. Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
 - 7 punti: Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
 
 ## Armi Leggere Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale
@@ -3249,10 +3249,10 @@ La tua tecnica mescola efficacemente difesa e attacco. Puoi lanciare il tuo scud
 
 - 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti.
 - 2 punti: il bonus di Difesa quando usi lo scudo aumenta di 1 e ogni 4 volte che prendi questa Lista d'Armi (6,10,14,18..) Non usi Azioni per ripristinare lo scudo in Difesa dopo aver effettuato un attacco con lo stesso.
-- 3 punti: la penalità Competenza Magica data dallo scudo diminuisce di un 2
+- 3 punti: la penalità alla Prova di Magia data dallo scudo diminuisce di 2
 - 4 punti: la penalità al Tiro per Colpire diminuisce di 1.
 - 5 punti: aumenta di 1 la categoria di danno dello scudo ed ogni 4 punti ulteriori in lista (9,13,17..).
-- 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Puoi lanciare lo scudo entro 6m per difendere un compagno garantendogli +2 alla Difesa, da usare come Reazione. Lo scudo cade a terra dove hai difeso il compagno. Puoi lanciare il tuo scudo con una gittata di 9 metri. La penalità Competenza Magica data dallo scudo diminuisce di ulteriori 2.
+- 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Puoi lanciare lo scudo entro 6m per difendere un compagno garantendogli +2 alla Difesa, da usare come Reazione. Lo scudo cade a terra dove hai difeso il compagno. Puoi lanciare il tuo scudo con una gittata di 9 metri. La penalità Prova di Magia data dallo scudo diminuisce di ulteriori 2.
 - 12 punti: puoi lanciare il tuo scudo come fosse un arma con gittata 12 metri. Se colpisci ed ottieni un Tiro Critico nel lancio dello scudo questo torna nelle tue mani a fine round. Ogni alleato adiacente (entro 1 metro) a te ha un +2 Difesa.
 - 16 punti: se un avversario esegue almeno tue tiri per colpire mancandoti entrambi puoi effettuare come Reazione un attacco di scudo contro di lui.
 - 18 punti: lo scudo lanciato ha una gittata di 18 metri e torna nelle tue mani, se non impossibilitato. Questo ti permette di effettuare attacchi multipli anche da lancio con il medesimo scudo. Puoi lanciare lo scudo per difendere un compagno garantendogli +4 alla Difesa, da usare come Reazione. Lo scudo cade a terra dove hai difeso il compagno.
@@ -5927,13 +5927,15 @@ Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un ***Prova di Magia*** e confidare nelle sue capacità.
 
-L'incantatore tira **3d6 + 1d6 ogni tre punti di Competenza Magica** (arrotondato per eccesso) più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira **3d6 + 1d6 ogni tre punti di Competenza Magica** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
 
 L'incantatore può **ignorare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
 
 La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
 
 Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
+
+Il numero massimo di Successi Critici Magici fattibili è 3.
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente superare la difficoltà data dall'incantesimo e non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
