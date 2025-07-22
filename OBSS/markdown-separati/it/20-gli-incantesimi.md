@@ -6,11 +6,12 @@
 
 ### Aiuto
 
-* **Lista**: Cura, Necromanzia
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora per CM
+| **Lista**: | Cura, Necromanzia |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora per CM |
 
 Il tuo incantesimo aumenta la robustezza e risolutezza dei tuoi alleati. Scegli fino a tre creature a gittata, per la durata prendono 5 Punti Ferita Temporanei. Non è possibile ricevere più di un incantesimo Aiuto al giorno.
 
@@ -18,11 +19,12 @@ Il tuo incantesimo aumenta la robustezza e risolutezza dei tuoi alleati. Scegli 
 
 ### Allarme
 
-* **Lista**: Abiurazione
-* **Livello**: 1, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 9 metri
-* **Durata**: 2 ore per CM (massimo 24 ore)
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 9 metri |
+| **Durata**: | 2 ore per CM (massimo 24 ore) |
 
 Predisponi un allarme contro intrusioni indesiderate. Scegli una porta, una finestra o un'area a gittata che non sia più grande di un sfera di 3 metri di raggio. Fino al termine dell'incantesimo, sarai avvertito da un allarme ogni volta che una creatura di taglia Minuscola o superiore entri in contatto o acceda all'area protetta. Quando lanci l'incantesimo, puoi indicare delle creature che non faranno scattare l'allarme Scegli anche se l'allarme è udibile o solo mentale. Un allarme mentale, qualora ti trovi entro 1,5 chilometri dall'area protetta, ti avverte con un rumore nella tua mente. Il rumore è in grado di svegliarti se stai dormendo. Un allarme udibile produce il suono di una campanella per 10 secondi, udibile entro 18 metri.
 
@@ -30,11 +32,12 @@ Predisponi un allarme contro intrusioni indesiderate. Scegli una porta, una fine
 
 ### Allucinazione Mortale
 
-* **Lista**: Illusione
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Istantanea
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Attingi agli incubi di una creatura a gittata e che puoi vedere e crei una manifestazione illusoria delle sue più terrificanti paure, visibile solo per quella creatura. Il bersaglio deve effettuare un Tiro Salvezza su Volontà.
 
@@ -46,11 +49,12 @@ Se fallisce il Tiro Salvezza, il bersaglio è spaventato per 1 minuto e subisce 
 
 ### Alterare Sé Stesso
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto per CM
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto per CM |
 
 Assumi una forma diversa. Quando lanci questo incantesimo, scegli una della seguenti opzioni, l'effetto della quale permane per la durata dell'incantesimo. Per la durata dell'incantesimo puoi terminare un'opzione per ottenere i benefici di un'altra.
 
@@ -66,11 +70,12 @@ In qualsiasi momento della durata dell'incantesimo, puoi usare due Azioni per ca
 
 ### Amicizia con gli Animali
 
-* **Lista**: Animali e Piante
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 24 ore
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 24 ore |
 
 Questo incantesimo ti permette di convincere una bestia naturale che non vuoi arrecargli danno. Scegli una bestia a gittata che puoi vedere. Questa deve vederti e udirti. Se l'Intelligenza della bestia è 2 o più l'incantesimo fallisce. Altrimenti la bestia deve superare un Tiro Salvezza su Volontà o restare affascinata da te per la durata dell'incantesimo. Se tu o uno dei tuoi compagni danneggiate il bersaglio l'incantesimo ha termine.
 
@@ -78,11 +83,12 @@ Questo incantesimo ti permette di convincere una bestia naturale che non vuoi ar
 
 ### Anatema
 
-* **Lista**: Ammaliamento
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Fino a tre creature di tua scelta che puoi vedere, e che sono a gittata, devono effettuare un Tiro Salvezza su Volontà. Ogni bersaglio che fallisca questo Tiro Salvezza ed effettui un Tiro per Colpire o un Tiro Salvezza prima del termine dell'incantesimo ha un -1 di penalità.
 
@@ -90,11 +96,12 @@ Fino a tre creature di tua scelta che puoi vedere, e che sono a gittata, devono 
 
 ### Animale Messaggero
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 24 ore
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 24 ore |
 
 Tramite questo incantesimo, usi un animale per consegnare un messaggio. Scegli una bestia Minuscola a gittata e che puoi vedere, come uno scoiattolo, una ghiandaia o un pipistrello, che abbia un GS inferiore a 0. Specifichi un luogo, che devi aver visitato in passato, e un destinatario che corrisponda a una descrizione generica, come *un uomo o una donna che vesta l'uniforme della guardia cittadina* o *un nano dai capelli rossi che indossa una coppola*. Pronuncia anche un messaggio di massimo venticinque parole. La bestia bersaglio viaggia per la durata dell'incantesimo verso il luogo specificato, coprendo circa 75 chilometri in 24 ore per un messaggero volante, o 40 chilometri per gli altri animali. Quando il messaggero arriva a destinazione, consegna il messaggio alla creatura da te descritta, replicando il suono della tua voce. Il messaggero parla solo a una creatura corrispondente alla descrizione da te fornita. Se il messaggero non riesce a raggiungere la destinazione prima del termine dell'incantesimo, il messaggio è perduto, e la bestia ritorna verso il punto in cui hai lanciato l'incantesimo.
 
@@ -102,11 +109,12 @@ Tramite questo incantesimo, usi un animale per consegnare un messaggio. Scegli u
 
 ### Animare Morti
 
-* **Lista**: Necromanzia
-* **Livello**: 3, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 3 metri
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 3 metri |
+| **Durata**: | Istantanea |
 
 Questo incantesimo crea un servitore non morto. Scegli una pila di ossa o un cadavere di un umanoide Medio o Piccolo a gittata. Il tuo incantesimo imbeve il bersaglio di una nefanda parvenza di vita rianimandolo come creatura non morta. Il bersaglio diventa uno scheletro se scegli le ossa o uno zombi se scegli un cadavere. Durante ciascun tuo round, puoi usare un'Azione per comandare mentalmente qualsiasi creatura da te creata con questo incantesimo che si trovi entro 18 metri da te (se controlli più creature, puoi comandarle tutte o solo alcune di loro allo stesso momento, inviando lo stesso comando a tutte). Decidi quale azione la creatura svolgerà e dove si muoverà durante il suo prossimo round oppure inviale un comando generale come quello di stare di guardia a una particolare stanza o corridoio. Se non invii alcun comando, la creatura si limita a difendersi dalle creature ostili. Una volta ricevuto un ordine, la creatura continuerà a svolgerlo fino al suo compimento. La creatura è sotto il tuo controllo per 24 ore, dopodiché smetterà di eseguire i comandi che le impartirai. Per mantenere il controllo sulla creatura per altre 24 ore, devi lanciare di nuovo questo incantesimo su di essa prima del termine dell'attuale periodo di 24 ore. Questo impiego dell'incantesimo riafferma il tuo controllo su di un massimo di quattro creature che hai animato con questo incantesimo, piuttosto che animarne una nuova.
 
@@ -114,11 +122,12 @@ Questo incantesimo crea un servitore non morto. Scegli una pila di ossa o un cad
 
 ### Animare Oggetti
 
-* **Lista**: Trasmutazione
-* **Livello**: 5, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 36 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 36 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Gli oggetti prendono vita al tuo comando. Scegli fino a CM/2 oggetti non magici a gittata e che non siano indossati o trasportati. I bersagli Medi contano come due oggetti, i bersagli Grandi contano come quattro oggetti, i bersagli Enormi contano come otto oggetti. Non puoi animare oggetti di taglia più grossa di Enorme. Ogni bersaglio si anima e diventa una creatura sotto il tuo controllo fino al termine dell'incantesimo o finché non viene ridotto a 0 Punti Ferita.
 
@@ -154,21 +163,23 @@ Se comandi a un oggetto di attaccare, questo può effettuare un singolo attacco 
 
 ### Anti-Individuazione
 
-* **Lista**: Abiurazione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 8 ore
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 8 ore |
 
 Per la durata nascondi il bersaglio con cui sei stato in contatto dalla magia di divinazione. Il bersaglio può essere una creatura consenziente o un luogo o un oggetto che occupi uno spazio equivalente ad una sfera di 2 metri di raggio. Il bersaglio non può divenire bersaglio di alcuna magia di divinazione o essere percepito tramite sensi di scrutamento magici.
 
 ### Antipatia/Simpatia
 
-* **Lista**: Ammaliamento
-* **Livello**: 8, Raro
-* **Lancio**: 1 ora
-* **Gittata**: 18 metri
-* **Durata**: 10 giorni
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 1 ora |
+| **Gittata**: | 18 metri |
+| **Durata**: | 10 giorni |
 
 Questo incantesimo attrae o repelle delle creature di tua scelta. Prendi un bersaglio a gittata, che sia un oggetto Enorme o più piccolo o una creatura o un'area non più grande di una sfera di 30 metri di raggio. Poi specifica una specie di creature intelligenti, come i draghi rossi, i goblin o i vampiri. Investi il bersaglio di un'aura che attrae o respinge le creature specificate per la durata. Scegli antipatia o simpatia come effetto dell'aura.
 
@@ -180,11 +191,12 @@ Questo incantesimo attrae o repelle delle creature di tua scelta. Prendi un bers
 
 ### Arma Energetica
 
-* **Lista**: Aria, Acqua, Terra, Fuoco
-* **Livello**: 1, Molto Raro
-* **Lancio**: 1 Azione
-* **Gittata**: Contatto
-* **Durata**: 6 round, Concentrazione
+| **Lista**: | Aria, Acqua, Terra, Fuoco |
+| --- | --- |
+| **Livello**: | 1, Molto Raro |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Contatto |
+| **Durata**: | 6 round, Concentrazione |
 
 Lanci l'incantesimo a contatto di un'arma e questa acquisisce dei poteri a seconda della Lista di Magia dal quale hai lanciato l'incantesimo. L'arma si considera magica, come avesse un bonus di +1.
 Se Arma Energetica viene lanciato usando la Lista dell'*Aria* l'arma diviene percorsa da elettricità, in caso di *Acqua* l'arma diventa estremamente fredda, in caso di *Terra* dall'arma sgorga acido, in caso di *Fuoco* questa diventa fiammeggiante. Qualsiasi sia la Lista usata l'effetto è tale che l'arma causa 1d6 di danno aggiuntivo del tipo indicato per colpo andato a segno.
@@ -194,11 +206,12 @@ Un arma può avere solo un effetto di Arma Energetica attivo contemporaneamente.
 
 ### Arma Magica
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Contatto
-* **Durata**: 10 minuti
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Contatto |
+| **Durata**: | 10 minuti |
 
 Lanci l'incantesimo a contatto di un'arma non magica. Fino al termine dell'incantesimo, l'arma diventa un'arma magica con un bonus di +1 ai Tiri per Colpire e di danno.
 
@@ -206,11 +219,12 @@ Lanci l'incantesimo a contatto di un'arma non magica. Fino al termine dell'incan
 
 ### Arma Spirituale
 
-* **Lista**: Invocazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 3 minuti, Concentrazione
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 3 minuti, Concentrazione |
 
 In un punto nella gittata, crei un'arma spettrale fluttuante, che resta per la durata o finché non lanci di nuovo questo incantesimo. Quando lanci l'incantesimo, puoi effettuare un attacco da incantesimo in mischia contro una creatura entro 1 metro dall'arma con un bonus al colpire pari a Competenza Magica/4. Se colpisci, il bersaglio subisce danni da forza pari a 1d4 + il tuo modificatore di caratteristica per incantesimi da incantatore + Competenza Magica/4. Durante il tuo round, con una Azione, puoi spostare l'arma di 6 metri ed effettuare l'attacco contro una creatura entro 1 metro dall'arma. L'arma può assumere qualsiasi forma tu voglia, magari affine al Patrono. L'arma ha un equivalente bonus magico pari a Competenza Magica/4.
 
@@ -220,11 +234,12 @@ I bonus concessi da Competenza Magica/4 possono essere sostituiti dalla somma de
 
 ### Armatura Magica
 
-* **Lista**: Abiurazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 8 ore
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 8 ore |
 
 Lanci l'incantesimo a contatto di una creatura consenziente che non indossa un'armatura. Una forza magica protettiva circonda il bersaglio fino al termine dell'incantesimo. La Difesa naturale del bersaglio aumenta di 3 + Destrezza + 1/6 Competenza Magica. L'incantesimo termina se il bersaglio indossa un'armatura o interrompe l'incantesimo con un'Azione.
 
@@ -232,11 +247,12 @@ Lanci l'incantesimo a contatto di una creatura consenziente che non indossa un'a
 
 ### Artificio Druidico
 
-* **Lista**: Universale
-* **Livello**: 0, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Sussurrando agli spiriti della natura, crei, a gittata, uno dei seguenti effetti:
 
@@ -249,11 +265,12 @@ Questo incantesimo può essere lanciato solo da Seguaci o Devoti di Efrem, Erond
 
 ### Aura Magica dell'Arcanista
 
-* **Lista**: Illusione
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 24 ore
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 24 ore |
 
 Poni un'illusione su di una creatura od oggetto con cui sei in contatto, così che gli incantesimi di divinazione rivelino false informazioni su di esso. Il bersaglio può essere una creatura consenziente o un oggetto che non sia trasportato o indossato da un'altra creatura. Quando lanci questo incantesimo, scegli uno o entrambi i seguenti effetti. L'effetto permane per la durata. Se esegui questo incantesimo sulla stessa creatura od oggetto ogni giorno per 30 giorni, piazzando ogni volta lo stesso effetto, l'illusione permarrà finché non viene dissolta.
 
@@ -263,21 +280,23 @@ Poni un'illusione su di una creatura od oggetto con cui sei in contatto, così c
 
 ### Aura Sacra
 
-* **Lista**: Abiurazione
-* **Livello**: 8, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Concentrazione, 1 minuto
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 8, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, 1 minuto |
 
 Irradi da te luce divina che si raccoglie in una debole luminosità con raggio di 9 metri intorno a te. Quando lanci l'incantesimo, le creature da te scelte in questo raggio emanano luce fioca con un raggio di 1 metro e hanno +8 a tutti i Tiri Salvezza, mentre le altre creature hanno -8 sui Tiri per Colpire contro di loro fino al termine dell'incantesimo. Inoltre, quando un demone o non morto colpisce una creatura bersaglio con un attacco in mischia, l'aura risplende di una luce intensa e deve superare un Tiro Salvezza su Tempra o restare accecato fino al termine dell'incantesimo.
 
 ### Bacche Benefiche
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Incanti fino a 2d4 bacche nella tua mano che vengono infuse di magia per la durata. Una creatura può usare 1 Azione Immediata per mangiare una bacca. Mangiare una bacca ripristina 1 punto ferita e provvede nutrimento, ma non acqua, sufficiente per alimentare una creatura per un giorno. Solo la prima bacca è efficace nel giorno.
 
@@ -300,11 +319,12 @@ Per la durata, una particella di luce brillante risplende nella tua mano. Produc
 
 ### Banchetto degli Eroi
 
-* **Lista**: Evocazione
-* **Livello**: 6, Non Comune
-* **Lancio**: 10 minuti
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Crei un magnifico banchetto, comprensivo di cibi e bevande prelibate. Il banchetto viene consumato in 1 ora e scompare al termine di questo periodo, ma gli effetti benefici non si faranno sentire fino al termine dell'ora. Fino ad altre dodici creature possono
 partecipare al banchetto. Una creatura che partecipi al banchetto ottiene diversi benefici. La creatura viene guarita da tutte le malattie e i veleni non magici. Diventa immune al veleno e all'essere spaventata, ha +1d6 su tutti i Tiri Salvezza su Volontà e Tempra ed acquisisce 2010 Punti Ferita temporanei, questi benefici durano 24 ore.
@@ -313,11 +333,12 @@ partecipare al banchetto. Una creatura che partecipi al banchetto ottiene divers
 
 ### Barriera Antianimali
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 turno per CM
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 turno per CM |
 
 Barriera antianimali crea una barriera invisibile in grado di proteggere tutte le creature al suo interno, come se si trovassero dietro un muro, dagli attacchi degli animali, normali e giganti. La barriera, centrata sull'incantatore, ha un diametro di 6 metri.
 
@@ -325,11 +346,12 @@ Barriera antianimali crea una barriera invisibile in grado di proteggere tutte l
 
 ### Barriera di Lame
 
-* **Lista**: Invocazione
-* **Livello**: 6, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 10 minuti
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 6, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 10 minuti |
 
 Crei un muro verticale di lame rotanti fatte di energia magica, affilate come rasoi. Il muro compare a gittata e resta per la durata. Puoi creare un muro diritto lungo fino a 30 metri, alto 6 metri e spesso 1 metro, o un muro circolare di 18 metri massimo di diametro e spesso 1 metro. Il muro fornisce copertura completa alle creature dietro di esso e il suo spazio è terreno difficile.
 
@@ -339,11 +361,12 @@ Un incantatore che è ad una distanza di un metro dalla Barriera di Lame si cons
 
 ### Bastoni in Serpenti
 
-* **Lista**: Animali e Piante
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione fino ad 1 minuto
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione fino ad 1 minuto |
 
 Trasformi 1d4 bastoncini, +1 per ogni volta che hai preso Adepto della Magia, in serpenti velenosi. I serpenti agiscono, nel tuo round, sempre all'unisono e compiono la medesima Azione contro lo stesso avversario.
 
@@ -357,11 +380,12 @@ Con una Azione puoi comandare i serpenti di spostarsi fino a 6 metri.
 
 ### Beffa Crudele
 
-* **Lista**: Ammaliamento
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Scateni una serie di insulti avvolti da una subdola malia contro una creatura a gittata e che puoi vedere. Se il bersaglio ti può udire (sebbene non sia necessario che ti comprenda), deve superare un Tiro Salvezza su Volontà o subire 1d4 danni e avere -2 al prossimo Tiro per Colpire che effettuerà prima del termine del suo prossimo round.
 
@@ -371,11 +395,12 @@ Il danno dell'incantesimo aumenta di 1d4 quando raggiungi CM 5, CM 11 e CM 17, m
 
 ### Benedici Acqua
 
-* **Lista**: Universale
-* **Livello**: 2, Comune
-* **Lancio**: 10 Minuti
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 10 Minuti |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Benedici fino ad un litro di liquido, sufficiente a creare 5 boccette di Acqua santa.
 
@@ -385,11 +410,12 @@ Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 ### Benedizione
 
-* **Lista**: Universale
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Benedici fino a tre creature a gittata, scelte da te. I bersagli guadagnano +1 ai Tiri Salvezza e Tiro per Colpire.
 
@@ -399,11 +425,12 @@ più benedizioni, anche da Patroni diversi non si sommano. Devi essere un Seguac
 
 ### Benedizione della Vita
 
-* **Lista**: Cura
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto, Concentrazione
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto, Concentrazione |
 
 Questo incantesimo conferisce speranza e vitalità. Scegli fino a 6 creature a gittata. Per la durata, ciascun bersaglio ha +2 ai Tiri Salvezza su Volontà e recupera 1 Punto Ferita a round.
 
@@ -411,17 +438,25 @@ Questo incantesimo conferisce speranza e vitalità. Scegli fino a 6 creature a g
 
 ### Benedizione di Cattalm
 
-* **Lista**: Ammaliamento, Fuoco
-* **Livello**: 3, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Ammaliamento, Fuoco |
+| --- | --- |
+| **Livello**: | 3, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Invochi l'ira di Cattalm sul tuo avversario. La creatura bersaglio subisce 4d6 di danno da fuoco, deve effettuare un Tiro Salvezza su Volontà o subire alla prima successiva prova di competenza oppure Tiro per Colpire o Tiro Salvezza una penalità di -1d6 e l'incantatore aumenta di uno la sua riserva di Punti Fato.
 
 **Per ogni due Successo Critico Magico ottenuto** nella Prova di Magia puoi influenzare un'altra creatura.
 
 ### Benedizioni di Efrem
+
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora per CM |
 
 Scegli fino a CM creature consenzienti che puoi vedere entro gittata. Ogni bersaglio si trasforma in una Bestia, di taglia piccola, media o grande, di tua scelta che abbia un Grado di Sfida pari o inferiore a 4. Puoi scegliere una forma diversa per ogni bersaglio. Nei round successivi puoi usare 2 Azioni per trasformare di nuovo i bersagli.
 
@@ -435,17 +470,25 @@ L'incantesimo termina sulla creature se questa perde conoscenza.
 
 ### Benedizione di Ledyal
 
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, fino a 6 round |
+
 Un aura sacra si irradia da te. Qualsiasi creatura che incominci il round entro 9 metri da te viene curato di 1d6 Punti Ferita. Una creatura non viene curata per più di 3 round per incantesimo.
 
 **NOTA**: è necessario essere un Devoto o Seguace di Ledyal o Sumkjr per poter lanciare questo incantesimo.
 
 ### Benedizione Superiore
 
-* **Lista**: Invocazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 1 Minuto
-* **Gittata**: 18 metri
-* **Durata**: 1 ora
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 1 Minuto |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 ora |
 
 Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 1d6 ad un tiro prima di sapere se la prova (TC/TS/Prova) ha avuto successo o meno. Questo bonus può essere usato 2 volte nell'ora. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
@@ -453,11 +496,12 @@ Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 
 
 ### Benedizione Suprema
 
-* **Lista**: Invocazione
-* **Livello**: 3, Raro
-* **Lancio**: 1 Reazione
-* **Gittata**: 27 metri
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 1 Reazione |
+| **Gittata**: | 27 metri |
+| **Durata**: | Istantanea |
 
 Benedici una creatura a tua scelta. La creatura può ritirare due dadi di una singola prova prima di sapere se la prova ha avuto successo o meno. La creatura sceglie se prendere i nuovi tiri ottenuti o tenere i vecchi. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
@@ -465,11 +509,12 @@ Benedici una creatura a tua scelta. La creatura può ritirare due dadi di una si
 
 ### Blocca Mostri
 
-* **Lista**: Ammaliamento
-* **Livello**: 5, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 27 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | 1 minuto |
 
 Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà, o restare paralizzato per la durata. Questo incantesimo non ha effetto su non morti o costrutti. Al termine di ciascun suo round, il bersaglio può effettuare un altro Tiro Salvezza su Volontà. Se lo supera, per quel bersaglio l'incantesimo ha termine.
 
@@ -477,11 +522,12 @@ Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve superare un T
 
 ### Blocca Persona
 
-* **Lista**: Ammaliamento
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto |
 
 Scegli un umanoide a gittata e che puoi vedere. L'incantesimo non ha effetto su creature con GS 4 o più. Il bersaglio deve superare un Tiro Salvezza su Volontà o restare paralizzato per la durata.
 
@@ -489,11 +535,12 @@ Scegli un umanoide a gittata e che puoi vedere. L'incantesimo non ha effetto su 
 
 ### Blocca Persona Avanzato
 
-* **Lista**: Ammaliamento
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri, raggio 6 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri, raggio 6 metri |
+| **Durata**: | 1 minuto |
 
 Blocchi fino a 2d4 creature entro 18 metri da te in un raggio di 6 metri. L'incantesimo non ha effetto su creature con GS 6 o più. I bersagli devono superare un Tiro Salvezza su Volontà o restare paralizzati per la durata, il Tiro Salvezza può essere ripetuto quando subiscono degli attacchi.
 
@@ -501,11 +548,12 @@ Blocchi fino a 2d4 creature entro 18 metri da te in un raggio di 6 metri. L'inca
 
 ### Bocca Magica
 
-* **Lista**: Illusione
-* **Livello**: 2, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 9 metri
-* **Durata**: Fino a che dissolto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 9 metri |
+| **Durata**: | Fino a che dissolto |
 
 Impianti un messaggio in un oggetto a gittata, messaggio che viene pronunciato quando si soddisfa la condizione di attivazione. Scegli un oggetto che puoi vedere e che non sia indossato o trasportato da un'altra creatura. Poi pronuncia il messaggio che deve essere di 25 parole o meno ma può essere distribuito in un periodo di massimo 10 minuti. Infine determina la circostanza che attiverà l'incantesimo affinché questo trasmetta il tuo messaggio.
 
@@ -515,11 +563,12 @@ La circostanza di attivazione può essere generica o dettagliata quanto desideri
 
 ### Bolla vitale
 
-* **Lista**: Aria, Abiurazione
-* **Livello**: 4, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 9 metri
-* **Durata**: 1 ora per CM
+| **Lista**: | Aria, Abiurazione |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora per CM |
 
 Puoi creare fino a 6 bolle che circondano le creature da te designate.
 La durata totale è di 1 ora per punto in Competenza Magica suddivisa a piacimento tra le creature nelle bolle.
@@ -529,11 +578,12 @@ Bolla vitale non fornisce protezione dall'energia negativa o positiva (ad esempi
 
 ### Caduta Piuma
 
-* **Lista**: Aria
-* **Livello**: 1, Comune
-* **Lancio**: 1 Reazione, che effettui quando tu o una creatura entro 18 metri da te cade
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Reazione, che effettui quando tu o una creatura entro 18 metri da te cade |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto |
 
 Scegli fino a 2 creature a gittata. La velocità di discesa di una creatura che cade diminuisce a 18 metri per round fino al termine dell'incantesimo. Se la creatura atterra prima del termine dell'incantesimo, non subisce danni da caduta e può atterrare sui suoi piedi; per quella creatura l'incantesimo ha termine.
 
@@ -541,11 +591,12 @@ Scegli fino a 2 creature a gittata. La velocità di discesa di una creatura che 
 
 ### Calmare Emozioni
 
-* **Lista**: Ammaliamento
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Tenti di sopprimere le forti emozioni in un gruppo di persone. Ogni umanoide in una sfera di 6 metri di raggio centrata su di un punto a gittata da te scelto, deve effettuare un Tiro Salvezza su Volontà; se lo desidera, una creatura può scegliere di fallire questo Tiro Salvezza. Se una creatura fallisce il Tiro Salvezza, scegli uno di questi due effetti.
 
@@ -555,11 +606,12 @@ Tenti di sopprimere le forti emozioni in un gruppo di persone. Ogni umanoide in 
 
 ### Camminare nell'aria
 
-* **Lista**: Aria
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 Turno
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 Turno |
 
 Per la durata una creatura da te scelta a gittata, che puoi vedere, e consenziente può camminare nell'aria come se comminasse su solido terreno. Se una creatura è per aria quando l'effetto ha termine, la creatura scende 18 metri per round per un minuto dopo di che cade per la distanza rimanente.
 
@@ -567,31 +619,34 @@ Per la durata una creatura da te scelta a gittata, che puoi vedere, e consenzien
 
 ### Camminare nel Vento
 
-* **Lista**: Aria
-* **Livello**: 6, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 9 metri
-* **Durata**: 8 ore
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 9 metri |
+| **Durata**: | 8 ore |
 
 Per la durata, tu e fino ad altre dieci creature consenzienti a gittata, che puoi vedere, assumete forma gassosa, diventando nubi. Mentre è in forma di nube una creatura ha velocità di volo 90 metri e ha resistenza ai danni dalle armi non magiche. Ritornare alla forma normale o ritornare a nube richiede 1 minuto, durante il quale la creatura è inabile e non può muoversi. Se una creatura è in forma di nube e sta volando quando l'effetto ha termine, la creatura scende 18 metri per round al minuto finché non atterra, al sicuro. Se non riesce ad atterrare dopo 1 minuto, la creatura cadrà per la distanza rimanente.
 
 ### Camminare sull'Acqua
 
-* **Lista**: Acqua
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Questo incantesimo conferisce la capacità di muoversi attraverso superfici liquide (come acqua, acido, fango, neve, sabbie mobili o lava) come se fossero innocuo terreno solido (le creature che attraversano la lava fusa possono comunque subire danni dal calore o sciogliersi nell'acido). Fino a dieci creature consenzienti a gittata, e che puoi vedere, ricevono questa capacità per tutta la durata. Se il tuo bersaglio è immerso in un liquido, l'incantesimo riporta il bersaglio in superficie del liquido a una velocità di 9 metri per round.
 
 ### Charme su Persone
 
-* **Lista**: Ammaliamento
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Cerchi di affascinare un umanoide a gittata e che puoi vedere. Egli deve effettuare un Tiro Salvezza su Volontà e avrà +1d6 se sta combattendo contro di te o i tuoi alleati. Se fallisce il Tiro Salvezza è Affascinato da te fino al termine dell'incantesimo o finché tu o i tuoi alleati non gli facciate qualcosa di nocivo. La creatura affascinata ti considera un amichevole conoscente. Quando l'incantesimo termina la creatura è consapevole di essere stata affascinata da te. Ogni qual volta la creatura è minacciata da te o da un tuo amico può rifare il Tiro Salvezza con un bonus di +2.
 
@@ -599,11 +654,12 @@ Cerchi di affascinare un umanoide a gittata e che puoi vedere. Egli deve effettu
 
 ### Campo Anti-Magia
 
-* **Lista**: Abiurazione
-* **Livello**: 8, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (sfera di 3 metri di raggio)
-* **Durata**: Concentrazione, massimo 1 ora
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (sfera di 3 metri di raggio) |
+| **Durata**: | Concentrazione, massimo 1 ora |
 
 Vieni circondato da una sfera invisibile di anti-magia di 3 metri di raggio. Quest'area è separata dall'energia magica che permea la Terra. All'interno della sfera non si possono lanciare incantesimi, le creature richiamate scompaiono e anche gli oggetti magici diventano normali. Fino al termine dell'incantesimo la sfera si muove con te centrata su di te. Gli incantesimi e altri effetti magici, eccetto quelli creati da un artefatto o Patrono, sono soppressi all'interno della sfera né vi possono penetrare. Uno slot speso per lanciare un incantesimo soppresso è consumato. Mentre un effetto è soppresso non funziona ma il tempo che trascorre soppresso è conteggiato per la sua durata.
 
@@ -621,11 +677,12 @@ Vieni circondato da una sfera invisibile di anti-magia di 3 metri di raggio. Que
 
 ### Camuffare Sé Stesso
 
-* **Lista**: Illusione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Cambi il tuo aspetto, assieme a quello dei tuoi abiti, armatura, armi e altri oggetti che indossi, fino al termine dell'incantesimo o finché non impieghi un'Azione per interrompere l'incantesimo. Puoi apparire 30 centimetri più basso o più alto, magro, grasso o una via di mezzo. Non puoi modificare la tua conformazione fisica quindi devi adottare una forma che abbia la medesima distribuzione di arti. Per tutto il resto, l'illusione è limitata solo dalla tua fantasia.
 
@@ -633,11 +690,12 @@ I cambi apportati da questo incantesimo non sono in grado di sostenere un'ispezi
 
 ### Capanna
 
-* **Lista**: Invocazione
-* **Livello**: 3, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Personale (semisfera di 3 metri di raggio)
-* **Durata**: 8 ore
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Personale (semisfera di 3 metri di raggio) |
+| **Durata**: | 8 ore |
 
 Una mezza sfera di forza immobile del raggio di 3 metri si forma intorno e sopra di te, restando stazionaria per la durata. L'incantesimo termina se lasci l'area. Otto creature di taglia Media o inferiore possono entrare nella cupola insieme a te. L'incantesimo fallisce se l'area include una creatura più grande o più di nove creature. Le creature e gli oggetti all'interno della cupola, quando lanci questo incantesimo, la possono attraversare liberamente. Tutte le altre creature e oggetti devono effettuare un Tiro Salvezza su Tempra o sono impossibilitati dall'attraversarla per quel round. Incantesimi e altri effetti magici possono estendersi oltre la cupola o attraversarla se non sono Trucchetti. L'atmosfera all'interno dello spazio è confortevole e asciutta quale che sia il clima all'esterno.
 
@@ -647,11 +705,12 @@ Fino al termine dell'incantesimo puoi comandare che l'illuminazione interna sia 
 
 ### Caratteristica Potenziata
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: massimo 10 minuti
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | massimo 10 minuti |
 
 Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegli uno degli effetti seguenti; il bersaglio ottiene quell'effetto fino al termine dell'incantesimo.
 
@@ -668,11 +727,12 @@ Conferisci un potenziamento magico a una creatura con cui sei in contatto. Scegl
 
 ### Pietra in Carne
 
-* **Lista**: Terra
-* **Livello**: 6, Non Comune - Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Permanente
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 6, Non Comune - Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Permanente |
 
 Cerchi di trasformare in pietra una creatura a gittata che puoi vedere. Se il corpo del bersaglio è fatto di carne la creatura diventa Rallentata 1/6r e deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza diventa invece Rallentata 1/10 minuti e la sua carne comincia a indurirsi.
 La creatura che fallisce il Tiro Salvezza iniziale il round dopo deve effettuare un nuovo Tiro Salvezza su Tempra. Se supera il Tiro Salvezza con successo non ci sono ulteriori effetti. Se fallisce questo nuovo Tiro Salvezza viene trasformata in pietra e resta vittima della condizione pietrificato per la durata.
@@ -685,11 +745,12 @@ L'incantesimo *Pietra in Carne* fa tornare una creatura di carne purché non sia
 
 ### Cecità/Sordità
 
-* **Lista**: Necromanzia
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce il bersaglio è accecato o assordato (a tua scelta) per la durata.
 
@@ -697,11 +758,12 @@ Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi ve
 
 ### Cecità/Sordità Avanzata
 
-* **Lista**: Necromanzia
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti |
 
 Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi vedere. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, il bersaglio è accecato o assordato (a tua scelta) per la durata.
 
@@ -711,11 +773,12 @@ Puoi accecare o assordare un nemico. Scegli una creatura a gittata e che puoi ve
 
 ### Celare
 
-* **Lista**: Trasmutazione
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Fino a che dissolto
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Fino a che dissolto |
 
 Tramite questo incantesimo, una creatura consenziente o un oggetto può essere nascosto, impossibile da individuare per la durata. Eseguendo questo incantesimo ed entrando in contatto con un bersaglio questo diventa invisibile e non può essere preso come bersaglio dagli incantesimi di divinazione, né percepito da sensori di scrutamento creati da incantesimi di divinazione.
 
@@ -725,21 +788,23 @@ Puoi predisporre una condizione per cui l'incantesimo termini anticipatamente. L
 
 ### Cerchio d'Invisibilità
 
-* **Lista**: Illusione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Tocco
-* **Durata**: 1 minuto per CM
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Tocco |
+| **Durata**: | 1 minuto per CM |
 
 Questo incantesimo funziona come invisibilità, ma ha effetto su tutte le creature toccate dall'incantatore che in seguito restano entro 3 metri da lui. I soggetti che si allontanano oltre il cerchio d'invisibilità tornano immediatamente visibili o se rompono le condizioni per mantenere l'invisibilità.
 
 ### Cerchio Magico
 
-* **Lista**: Abiurazione
-* **Livello**: 3, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 3 metri
-* **Durata**: 1 ora
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 3 metri |
+| **Durata**: | 1 ora |
 
 Crei un cilindro di energia magica di 3 metri di raggio e alto 6 metri, centrato su di un punto del terreno a gittata e che puoi vedere. Rune luminose compaiono dovunque il cilindro si intersechi con il pavimento o altra superficie.
 
@@ -755,11 +820,12 @@ Scegli uno o più dei seguenti tipi di creature: celestiali, elementali, fatati,
 
 ### Cerchio di Morte
 
-* **Lista**: Invocazione
-* **Livello**: 6, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 6, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Una sfera di energia negativa del raggio di 18 metri, erutta in un punto a gittata. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra. La creatura subisce 8d6 danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -769,11 +835,12 @@ Una sfera di energia negativa del raggio di 18 metri, erutta in un punto a gitta
 
 ### Cerchio di Teletrasporto
 
-* **Lista**: Evocazione
-* **Livello**: 5, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 3 metri
-* **Durata**: 1 round
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 3 metri |
+| **Durata**: | 1 round |
 
 Mentre lanci l'incantesimo, tracci un cerchio di 3 metri di diametro sul pavimento, inscritto con sigilli che collegano il posto in cui ti trovi a un cerchio di teletrasporto permanente di tua scelta, di cui conosci la sequenza dei sigilli e che si trovi sullo stesso piano di esistenza in cui ti trovi tu. Un portale luminoso si apre all'interno del cerchio tracciato da te e resta aperto fino al termine del tuo prossimo round. Qualsiasi creatura che entri nel portale, riappare istantaneamente entro 1 metro dal cerchio di destinazione o nello spazio non occupato più vicino, se non può comparire entro 1 metro da esso.
 
@@ -787,11 +854,12 @@ Puoi creare un cerchio di teletrasporto permanente eseguendo questo incantesimo 
 
 ### Chiaroveggenza
 
-* **Lista**: Divinazione
-* **Livello**: 3, Comune
-* **Lancio**: 10 minuti
-* **Gittata**: 1,5 chilometri
-* **Durata**: Concentrazione, massimo 10 minuti
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 1,5 chilometri |
+| **Durata**: | Concentrazione, massimo 10 minuti |
 
 Crei un sensore invisibile in un luogo a te familiare e che sia a gittata (un luogo che hai già visitato o visto precedentemente) o in un luogo ovvio ma che non ti è familiare (come dietro una porta o un angolo, o in mezzo un boschetto di alberi). Il sensore rimane sul posto per la durata, e non può essere attaccato né altrimenti vi si può interagire. Quando lanci questo incantesimo, scegli se vedere o udire. Puoi usare il senso scelto tramite il sensore, come ti trovassi nel suo spazio. Con due azioni, puoi passare da udire a sentire e viceversa. Una creatura che può vedere il sensore (una creatura munita di Vedere l'invisibile o di visione del vero) lo percepisce come un orbe intangibile e luminoso delle dimensioni del tuo pugno.
 
@@ -799,11 +867,12 @@ Crei un sensore invisibile in un luogo a te familiare e che sia a gittata (un lu
 
 ### Chiudi Portale
 
-* **Lista**: Abiurazione
-* **Livello**: 2, Raro
-* **Lancio**: 1 Turno
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 1 Turno |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 L'incantatore si pone entro distanza da un Portale. Formulato l'incantesimo il Portale se ha una DC inferiore a quella dell'incantatore viene chiuso e scompare.
 
@@ -813,11 +882,12 @@ L'incantatore si pone entro distanza da un Portale. Formulato l'incantesimo il P
 
 ### Colpo Accurato
 
-* **Lista**: Divinazione
-* **Livello**: 0, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 round
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 round |
 
 Allunghi la mano e punti il dito verso un bersaglio a gittata. La tua magia ti conferisce una breve comprensione delle difese del bersaglio. Entro la fine del prossimo round ottieni +1d6 al primo Tiro per Colpire contro quel bersaglio.
 
@@ -825,10 +895,11 @@ Allunghi la mano e punti il dito verso un bersaglio a gittata. La tua magia ti c
 
 ### Colpo Accecante
 
-* **Lista**: Invocazione
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azioni
-* **Durata**: 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azioni |
+| **Durata**: | 1 minuto |
 
 Il bersaglio colpito dal colpo subisce 3d8 danni da Luce e deve superare il Tiro Salvezza su Tempra o diventare Accecato fino al termine dell'incantesimo. Alla fine di ciascuno dei suoi round, il bersaglio accecato ripete il Tiro Salvezza terminando l'incantesimo su se stesso in caso di successo.
 
@@ -836,11 +907,12 @@ Il bersaglio colpito dal colpo subisce 3d8 danni da Luce e deve superare il Tiro
 
 ### Colpo Infuocato
 
-* **Lista**: Fuoco
-* **Livello**: 5, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Una colonna verticale di fuoco divino scende dal cielo e si abbatte sul luogo da te specificato. Ogni creatura in un cilindro di 3 metri di raggio e alto 12 metri centrato su di un punto a gittata deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 8d6 danni da Luce se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -850,11 +922,12 @@ Una colonna verticale di fuoco divino scende dal cielo e si abbatte sul luogo da
 
 ### Colpo Fiammeggiante
 
-* **Lista**: Invocazione
-* **Livello**: 1, Raro
-* **Lancio**: 1 Azione
-* **Gittata**: personale
-* **Durata**: 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Raro |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | personale |
+| **Durata**: | 1 minuto |
 
 Tocchi un bersaglio, questo subisce 1d6 danni da Fuoco. Ogni round deve effettuare un Tiro Salvezza su Tempra o subire 1d6 di danno da fuoco, questo effetto termina dopo un minuto oppure quando il Tiro Salvezza riesce.
 
@@ -862,11 +935,12 @@ Tocchi un bersaglio, questo subisce 1d6 danni da Fuoco. Ogni round deve effettua
 
 ### Colpo Luccicante
 
-* **Lista**: Invocazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: personale
-* **Durata**: 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | personale |
+| **Durata**: | 1 minuto |
 
 Tocchi un bersaglio, questo subisce 2d6 danni da Luce e diventa visibile per tutta la durata dell'incantesimo. In aggiunta la creatura emana luce in 1 metro di raggio.
 
@@ -874,11 +948,12 @@ Tocchi un bersaglio, questo subisce 2d6 danni da Luce e diventa visibile per tut
 
 ### Comando
 
-* **Lista**: Ammaliamento
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 round
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 round |
 
 Pronunci un comando di una parola verso una creatura a gittata e che puoi vedere ed un gesto. Il bersaglio deve superare un Tiro Salvezza su Volontà o eseguire il comando entro il suo prossimo round. L'incantesimo non ha effetto se il bersaglio è non morto, se non capisce la tua lingua o se il tuo comando gli recherebbe danni.
 
@@ -894,11 +969,12 @@ Sono elencati alcuni tipici comandi e i loro effetti. Puoi dare comandi diversi 
 
 ### Conoscere i Tratti
 
-* **Lista**: Divinazione
-* **Livello**: 1, Leggendario
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 1, Leggendario |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Questo incantesimo permette di conoscere i Tratti di una creatura. Al soggetto è concesso un Tiro Salvezza su Volontà per resistere. Indipendentemente dal risultato del Tiro Salvezza la creatura sa di per certo chi ha formulato l'incantesimo.
 
@@ -906,11 +982,12 @@ Questo incantesimo permette di conoscere i Tratti di una creatura. Al soggetto �
 
 ### Comprensione dei Linguaggi
 
-* **Lista**: Divinazione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Per la durata, capisci il significato letterale di qualsiasi linguaggio parlato che ascolti.
 
@@ -920,11 +997,12 @@ Per la durata, capisci il significato letterale di qualsiasi linguaggio parlato 
 
 ### Comprensione degli Scritti
 
-* **Lista**: Divinazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Per la durata comprendi il significato letterale di qualsiasi linguaggio scritto non magico che vedi. Devi essere a contatto con la superficie su cui le parole sono scritte. Per leggere una pagina di testo impieghi 1 minuto. Questo incantesimo non decodifica i messaggi segreti in un testo o i glifi, come un sigillo arcano, che non faccia parte di un linguaggio scritto.
 
@@ -934,11 +1012,12 @@ Per la durata comprendi il significato letterale di qualsiasi linguaggio scritto
 
 ### Compulsione
 
-* **Lista**: Ammaliamento
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Le creature di tua scelta entro la gittata che puoi vedere e che ti possono sentire devono effettuare un Tiro Salvezza su Volontà. Un bersaglio supera automaticamente il Tiro Salvezza se non può essere Affascinato. Fino al termine dell'incantesimo puoi usare un'Azione durante ciascun tuo round per indicare una direzione orizzontale rispetto a te. Ogni bersaglio soggetto all'incantesimo deve usare quanto più possibile del suo movimento, durante il suo prossimo round, per muoversi in quella direzione. Il bersaglio non può effettuare nessun'altra Azione prima di muoversi. Dopo essersi mosso in questo modo il bersaglio può effettuare un altro Tiro Salvezza su Volontà per tentare di terminare l'effetto.
 
@@ -946,11 +1025,12 @@ Un bersaglio non può essere obbligato a muoversi dentro un pericolo palesemente
 
 ### Comunione
 
-* **Lista**: Divinazione
-* **Livello**: 5, Raro
-* **Lancio**: 1 minuto
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Comunichi con il tuo Patrono e gli poni fino a tre domande a cui si può dare risposta con un sì o un no. Devi porre le domande prima della fine dell'incantesimo. Riceverai la risposta corretta a ciascuna domanda. Le creature divine non sono necessariamente onniscienti, quindi potresti ricevere un *non è chiaro* come risposta a una domanda che riguarda informazioni non pertinenti alle conoscenze del Patrono. Nel caso in cui una risposta di una parola potrebbe essere fuorviante o contraria agli interessi del Patrono, il Narratore potrebbe invece dare una breve frase come risposta.
 
@@ -960,11 +1040,12 @@ Se lanci l'incantesimo due o più volte prima che sia sorta la nuova alba c'è u
 
 ### Comunione con la Natura
 
-* **Lista**: Divinazione
-* **Livello**: 5, Molto Raro
-* **Lancio**: 1 minuto
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 5, Molto Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Per un istante diventi tutt'uno con la natura e ottieni informazioni sul territorio circostante. In ambienti esterni, l'incantesimo ti fornisce informazioni sul territorio entro 5 chilometri da te. In grotte e altri ambienti naturali sotterranei, il raggio è limitato a 100 metri. L'incantesimo non funziona nei luoghi in cui la natura è stata soppiantata da costruzioni, come in sotterranei e paesi.
 
@@ -980,11 +1061,13 @@ Apprendi immediatamente informazioni su un massimo di tre argomenti a tua scelta
 **NOTA**: Se sei un Devoto di Efrem ottiene sempre almeno un Successo Critico Magico.
 
 ### Confusione
-- **Lista**:: Ammaliamento
-- **Livello**:: 4, Comune
-- **Lancio**:: 2 Azioni
-- **Gittata**:: 27 metri
-- **Durata**:: 1 minuto
+
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | 1 minuto |
 
 Questo incantesimo assale e piega la mente delle creature, generando illusioni e provocando azioni incontrollate. Quando lanci questo incantesimo ogni creatura, in una sfera di 3 metri di raggio centrata su di un punto da te scelto entro la gittata, deve superare un Tiro Salvezza su Volontà o subirne gli effetti. Un bersaglio soggetto all'incantesimo non può effettuare reazioni e deve tirare un d10 all'inizio di ciascun suo round per determinare il proprio comportamento per quel round.
 
@@ -1001,11 +1084,12 @@ Al termine di ciascun suo round, un bersaglio soggetto all'incantesimo può effe
 
 ### Confusione Contagiosa
 
-* **Lista**: Ammaliamento
-* **Livello**: 8, Molto raro
-* **Lancio**: 10 minuti
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 8, Molto raro |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Questo incantesimo assale e piega la mente delle creature, generando illusioni e provocando azioni incontrollate. Una volta formulato questo incantesimo hai poi un minuto per toccare la prima creatura. Questa creatura può fare un Tiro Salvezza su Volontà per annullare gli effetti.
 
@@ -1015,11 +1099,12 @@ Se l'incantatore non tocca entro un minuto una creatura allora sarà lui stesso 
 
 ### Cono di Freddo
 
-* **Lista**: Acqua
-* **Livello**: 5, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (cono di 18 metri)
-* **Durata**: Istantanea
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (cono di 18 metri) |
+| **Durata**: | Istantanea |
 
 Un'esplosione di aria fredda erutta dalle tue mani. Ogni creatura in un cono di 18 metri deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 8d8 danni da freddo se fallisce il Tiro Salvezza o la metà di questi danni se lo supera. Una creatura uccisa da questo incantesimo diventa una statua di ghiaccio fino a quando scongela.
 
@@ -1029,21 +1114,23 @@ Un'esplosione di aria fredda erutta dalle tue mani. Ogni creatura in un cono di 
 
 ### Conoscenza delle Leggende
 
-* **Lista**: Divinazione
-* **Livello**: 5, Comune
-* **Lancio**: 10 minuti
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Nomina o descrivi una persona, luogo od oggetto. L'incantesimo ti porta alla mente un breve riassunto delle conoscenze più importanti sull'argomento da te nominato. Se la cosa da te nominata non ha alcuna rilevanza leggendaria, non ottieni alcuna informazione. Maggiori informazioni hai sull'argomento, più precise e dettagliate saranno le informazioni che riceverai. L'informazione che riceverai sarà accurata, ma celata magari in linguaggio metaforico.
 
 ### Contagio
 
-* **Lista**: Necromanzia
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 7 giorni
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 7 giorni |
 
 Tramite il contatto puoi infliggere malattie. Effettua un attacco da mischia contro una creatura a portata. Se colpisci, infetti la creatura con una malattia a tua scelta tra quelle descritte di seguito. Al termine di ciascun round del bersaglio, esso deve effettuare un Tiro Salvezza su Tempra. Dopo aver fallito tre di questi Tiri Salvezza, gli effetti della malattia permangono per la durata e la creatura non effettua più Tiri Salvezza. Dopo aver superato tre di questi Tiri Salvezza la creatura recupera dalla malattia e l'incantesimo ha termine. Nel mentre che esegue i Tiri Salvezza la creatura subisce gli effetti della malattia.
 
@@ -1058,11 +1145,12 @@ Dato che questo incantesimo induce nel suo bersaglio una malattia naturale, qual
 
 ### Contingenza
 
-* **Lista**: Invocazione
-* **Livello**: 6, Non Comune
-* **Lancio**: 10 minuti
-* **Gittata**: Personale
-* **Durata**: 10 giorni
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Personale |
+| **Durata**: | 10 giorni |
 
 Scegli un incantesimo di Livello 4 o più basso che puoi lanciare, che abbia il tempo di lancio di 2 Azioni e che può avere te come bersaglio. Lanci quell'incantesimo (detto incantesimo contingente) come parte del lancio di contingenza, spendendo gli slot incantesimo di entrambi, ma senza che l'incantesimo contingente abbia effetto. Avrà invece effetto quando si avvererà una determinata circostanza. Descrivi questa circostanza mentre lanci i due incantesimi. Per esempio, contingenza lanciato assieme a respirare sott'acqua potrebbe stipulare che respirare sott'acqua entra in azione quando sei immerso nell'acqua o simile liquido.
 
@@ -1072,11 +1160,12 @@ L'incantesimo contingente ha effetto immediatamente dopo che la circostanza si v
 
 ### Controincantesimo
 
-* **Lista**: Abiurazione
-* **Livello**: 3, Comune
-* **Lancio**: 1 Reazione, che effettui quando vedi una creatura/oggetto entro 18 metri manifestare un incantesimo
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 1 Reazione, che effettui quando vedi una creatura/oggetto entro 18 metri manifestare un incantesimo |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Usi una Azione di Reazione per fare una prova di Arcana a DC 13. Se la prova riesce comprendi se puoi annullare l'effetto dell'incantesimo tramite Controincantesimo. L'incantesimo annullato deve essere di Livello 2 o più basso, indipendentemente che sia manifestato da un incantatore od oggetto. Ogni successo Critico magico o potenziamento ottenuto dall'incantesimo originale alza il livello dell'incantesimo di 1.
 
@@ -1084,10 +1173,11 @@ Usi una Azione di Reazione per fare una prova di Arcana a DC 13. Se la prova rie
 
 ### Controllare Acqua
 
-* **Lista**: Acqua
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 90 metri
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 90 metri |
 
 Fino al termine dell'incantesimo, controlli qualsiasi acqua libera all'interno dell'area che hai scelto fino a un cubo di 30 metri di spigolo. Quando lanci questo incantesimo puoi scegliere qualsiasi tra i seguenti effetti. Come Azione, durante il tuo round, puoi ripetere lo stesso effetto o sceglierne uno diverso.
 
@@ -1105,11 +1195,12 @@ Quando una creatura entra nel vortice per la prima volta durante un round o iniz
 
 ### Controllare Tempo Atmosferico
 
-* **Lista**: Acqua, Aria
-* **Livello**: 8, Molto Raro
-* **Lancio**: 10 minuti
-* **Gittata**: Personale (raggio di 1,5 chilometri)
-* **Durata**: Concentrazione, massimo 8 ore
+| **Lista**: | Acqua, Aria |
+| --- | --- |
+| **Livello**: | 8, Molto Raro |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Personale (raggio di 1,5 chilometri) |
+| **Durata**: | Concentrazione, massimo 8 ore |
 
 Per la durata, assumi il controllo del clima entro 7,5 chilometri da te. Per lanciare questo incantesimo devi essere all'esterno. Muoversi in un posto dove non hai la visuale aperta verso il cielo termina l'incantesimo anticipatamente. Quando lanci questo incantesimo, cambia le attuali condizioni climatiche determinate dal Narratore in base alla stagione e la latitudine. Puoi modificare le precipitazioni, la temperatura e il vento. Ci vogliono 1d4 x 10 minuti perché la nuova condizione prenda effetto. Una volta che la condizione avrà preso effetto, potrai cambiarla di nuovo. Quando l'incantesimo termina il clima tornerà gradualmente alla norma.
 
@@ -1157,11 +1248,12 @@ Quando cambi le condizioni climatiche, trova l'attuale condizione sulla seguente
 
 ### Costrizione
 
-* **Lista**: Ammaliamento
-* **Livello**: 5, Raro
-* **Lancio**: 1 minuto
-* **Gittata**: 18 metri
-* **Durata**: 30 giorni
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 18 metri |
+| **Durata**: | 30 giorni |
 
 Imponi un comando magico a una creatura a gittata che puoi vedere, obbligandolo ad adempiere un determinato compito o vietandole di svolgere un'azione o corso d'attività deciso da te. Se la creatura ti può capire, deve superare un Tiro Salvezza su Volontà o restare affascinata da te per la durata. Mentre la creatura è affascinata da te, subisce 3d10 danni ogni volta che agisce in maniera direttamente contraria alle tue istruzioni, ma non più di una volta al giorno. Una creatura che non ti può capire ignora gli effetti di questo incantesimo. Puoi dare qualsiasi comando di tua scelta, tranne un'attività che provocherebbe morte certa. Dovessi tu pronunciare un comando suicida, l'incantesimo avrebbe termine.
 
@@ -1171,11 +1263,12 @@ Puoi terminare l'incantesimo usando un'Azione. Anche Rimuovi Maledizione, Ristor
 
 ### Creare Cibo e Acqua
 
-* **Lista**: Evocazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Crei cibo e acqua in contenitori a gittata, sufficienti a sostenere fino a cinque umanoidi o 2 cavalcature per 24 ore. Il cibo è blando ma nutriente e marcisce dopo 24 ore se non viene consumato, come anche l'acqua.
 
@@ -1185,11 +1278,12 @@ Crei cibo e acqua in contenitori a gittata, sufficienti a sostenere fino a cinqu
 
 ### Creare Birra
 
-* **Lista**: Evocazione
-* **Livello**: 0, Raro
-* **Lancio**: variabile
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 0, Raro |
+| **Lancio**: | variabile |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Crei un boccale di birra, 0.5 litri. La qualità e tipologia di birra dipende dal lievito, malto e acqua usata.
 Maggiore è il tempo di lancio dell'incantesimo più viene alta la gradazione alcolica, con un tempo di lancio di due azioni la gradazione è di 4.3, se viene impiegata 1 Azione la birra generata è analcolica, ogni Azione spesa dopo le 2 aumenta la gradazione di 0.3 vol fino ad un massimo di 12.5 vol.
@@ -1199,11 +1293,12 @@ Dopo un ora la birra svanisce, quando consumata dopo un ora terminano anche even
 
 ### Creare o Distruggere Acqua
 
-* **Lista**: Acqua
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Crei o distruggi l'acqua.
 
@@ -1219,11 +1314,12 @@ L'acqua è potabile e disseta se bevuta entro un round dalla creazione.
 
 ### Creare Fossa
 
-* **Lista**: Invocazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 30 metri più 3 metri per livello
-* **Durata**: 1 round per CM
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 30 metri più 3 metri per livello |
+| **Durata**: | 1 round per CM |
 
 Crei una buca extradimensionale di 3 metri per 3 metri con una profondità di 3 metri per ogni due punti di CM fino ad un massimo di 9 metri. Devi creare la fossa su una superficie orizzontale di dimensioni sufficienti. Poiché si estende in un'altra dimensione, la fossa non ha peso e non sposta il materiale sottostante originale.
 
@@ -1235,11 +1331,12 @@ Le creature che cadono nella fossa subiscono danni da caduta normali. Le pareti 
 
 ### Creare Non Morti
 
-* **Lista**: Necromanzia
-* **Livello**: 6, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 3 metri
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 3 metri |
+| **Durata**: | Istantanea |
 
 Puoi lanciare questo incantesimo solo di notte. Scegli fino a tre cadaveri di umanoidi Medi o Piccoli a gittata. Ogni cadavere diventa un ghoul sotto il tuo controllo (il Narratore possiede le statistiche di gioco di queste creature). Durante il tuo round, con due Azioni, puoi comandare mentalmente una qualsiasi creatura da te animata con questo incantesimo, se la creatura si trova entro 36 metri da te (se controlli più creature, puoi comandarle tutte o solo una nello stesso momento impartendo lo stesso comando). Decidi tu quale azione effettuerà la creatura e dove si muoverà durante il suo prossimo round, oppure puoi impartire un comando generico, come quello di fare la guardia a una specifica stanza o corridoio. Se non impartisci comandi, le creature si limiteranno a difendersi dalle creature ostili. Una volta ricevuto un comando, la creatura continuerà a eseguirlo finché il compito sarà completo. La creatura è sotto il tuo controllo per 24 ore, dopodiché smetterà di rispondere ai comandi che gli impartisci. Per mantenere il controllo della creatura per altre 24 ore, devi lanciare questo incantesimo sulla creatura prima che l'attuale periodo di 24 ore abbia termine. Questo impiego dell'incantesimo riasserisce il tuo controllo su di un massimo di tre creature che hai animato con questo incantesimo, anziché animarne di nuove.
 
@@ -1247,11 +1344,12 @@ Puoi lanciare questo incantesimo solo di notte. Scegli fino a tre cadaveri di um
 
 ### Creazione
 
-* **Lista**: Illusione
-* **Livello**: 5, Raro
-* **Lancio**: 1 minuto
-* **Gittata**: 9 metri
-* **Durata**: Speciale
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 9 metri |
+| **Durata**: | Speciale |
 
 Afferri pezzi di materia d'ombra dal piano delle Ombre per creare, a gittata, oggetti non viventi di materia vegetale: beni morbidi, corda, legno o qualcosa di simile. Puoi usare questo incantesimo anche per creare oggetti minerali come pietra, cristallo o metallo. L'oggetto creato non può essere più grosso di un cubo di 1 metro di spigolo e l'oggetto deve essere di una forma e materiale che hai già visto in passato.
 
@@ -1273,22 +1371,24 @@ Usare qualsiasi materiale creato da questo incantesimo come componente materiale
 
 ### Crescita di Spuntoni
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: 10 minuti
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | 10 minuti |
 
 Il terreno in un raggio di 6 metri centrato su di un punto a gittata si contorce e genera spuntoni e spine molto acuminate. Per la durata, l'area diventa terreno difficile. Quando una creatura entra o si muove all'interno dell'area, subisce 2d4 danni per ogni 1 metro percorsi.
 La trasformazione del terreno è talmente ben camuffata da sembrare naturale. Qualsiasi creatura che non abbia visto l'area al momento del lancio dell'incantesimo deve effettuare una prova di Consapevolezza contro la DC del Tiro Salvezza dell'incantesimo, per riconoscere il pericolo rappresentato dal terreno prima di entrarvi.
 
 ### Crescita Vegetale
 
-* **Lista**: Animali e Piante
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni o 8 ore
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni o 8 ore |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Questo incantesimo incanala vitalità nei vegetali entro una specifica area. Esistono due usi possibili per questo incantesimo, che conferiscono benefici immediati o a lungo termine. Se lanci questo incantesimo impiegando 1 Azione, scegli un punto a gittata. Tutte i vegetali normali in un raggio di 30 metri centrato su quel punto diventano densi e folti. Una creatura che attraversa l'area quadruplica il costo del suo movimento.
 
@@ -1300,11 +1400,12 @@ Se lanci questo incantesimo nel corso di 8 ore, nutri la terra. Tutti i vegetali
 
 ### CTRLC+CTRLV
 
-* **Lista**: Universale
-* **Livello**: 1, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto per CM
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto per CM |
 
 Questo incantesimo permette di copiare un testo da una sorgente ad ud altra. In caso di sorgente non magica questa può essere un libro, una pergamena, delle rune su una lastra od un bastone. La destinazione che va appoggiata sulla sorgente andrà a copiare i simboli nella forma e dimensione fino alla sua capienza, per un massimo di 1 pagina (di destinazione) al minuto.
 
@@ -1312,11 +1413,12 @@ Se lo scritto è un incantesimo, quindi su un Tomo o Pergamena, devono essere co
 
 ### Cuoco Invisibile
 
-* **Lista**: Evocazione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 2 ore
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 2 ore |
 
 Questo incantesimo crea una forza quasi invisibile solo delimitata da una leggera aura (di colore a tua scelta) capace e competente nel cucinare. Assieme al cuoco si manifesta anche un set di pentole e padelle nonché stoviglie ed un piccolo fornello da campo.
 
@@ -1330,11 +1432,12 @@ Nessuna delle pentole, stoviglie o fuoco può essere usato fuorché dal cuoco in
 
 ### Cura Ferite
 
-* **Lista**: Acqua, Cura
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Acqua, Cura |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 La tua mano si riempie di energia positiva curativa, una creatura che tocchi recupera un numero di Punti Ferita uguale a 1d8 + modificatore di caratteristica per incantesimi. Questo incantesimo se usato su un non morto, Tiro per Colpire con incantesimo a tocco, lo danneggia dello stesso ammontare.
 
@@ -1356,11 +1459,12 @@ Spendendo il triplo dei Punti Magia puoi curare fino a 4 creature che si trovino
 
 ### Dardo arcano
 
-* **Lista**: Universale
-* **Livello**: 1, Comune
-* **Lancio**: 1 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 Turno, Concentrazione
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 Turno, Concentrazione |
 
 Crei un dardo luminoso di forza magica. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.
 
@@ -1376,11 +1480,12 @@ Per ogni Azione nel round dedicata al lancio dell'incantesimo oltre la prima man
 
 ### Dardo di Fuoco
 
-* **Lista**: Fuoco
-* **Livello**: 1, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 36 metri
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Scagli una scintilla infuocata a una creatura od oggetto a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci il bersaglio subisce 1d10 danni da fuoco. Un oggetto infiammabile colpito da questo incantesimo prende fuoco, se non è indossato o trasportato.
 
@@ -1390,11 +1495,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Dardo occulto
 
-* **Lista**: Invocazione
-* **Livello**: 1, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 36 metri
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Un fascio di energia crepitante si dirige verso una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce 1d8 danni da forza.
 
@@ -1404,11 +1510,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Dardo Tracciante
 
-* **Lista**: Invocazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 round
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 round |
 
 Un lampo di luce viaggia verso una creatura a gittata, scelta da te. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce 2d6 danni da Luce ed il prossimo Tiro per Colpire effettuato contro di lui prima del termine del tuo prossimo round ha +1d6 al TC, grazie alla mistica luce fioca che continuerà a brillare intorno al bersaglio fino ad allora.
 
@@ -1416,11 +1523,12 @@ Un lampo di luce viaggia verso una creatura a gittata, scelta da te. Effettua un
 
 ### Danza Irresistibile
 
-* **Lista**: Ammaliamento
-* **Livello**: 8, Leggendario
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 8, Leggendario |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Scegli una creatura a gittata e che puoi vedere. Il bersaglio comincia un comico balletto sul posto: agitando le gambe, battendo i piedi e saltellando per la durata. Le creature che non possono essere affascinate sono immuni a questo incantesimo.
 
@@ -1430,11 +1538,12 @@ Una creatura che balla deve usare 2 Azioni di Movimento per ballare senza lascia
 
 ### Desiderio
 
-* **Lista**: Evocazione
-* **Livello**: 9, Leggendario
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 9, Leggendario |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Desiderio è il più potente incantesimo che una creatura mortale possa lanciare. Semplicemente parlando ad alta voce e consumando le gemme tenute in mano, puoi modificare le stesse fondamenta della realtà a seconda dei tuoi bisogni.
 
@@ -1460,11 +1569,12 @@ Tira 1d100, se fai da 1 a 33\% tu non sarai mai più in grado di lanciare deside
 
 ### Desiderio limitato
 
-* **Lista**: Evocazione
-* **Livello**: 7, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 7, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 *Desiderio limitato* è un incantesimo estremamente potente e versatile, che permette all'incantatore di realizzare "quasi qualsiasi cosa".
 
@@ -1481,11 +1591,12 @@ Definisci i tuoi desideri quanto più possibile al Narratore. Il Narratore ha gr
 
 ### Destriero Fantasma
 
-* **Lista**: Illusione
-* **Livello**: 3, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Una creatura quasi reale simile a un saurovallo di taglia Grande, appare sul terreno in uno spazio non occupato di tua scelta e a gittata. Decidi tu l'aspetto della creatura, e questa compare equipaggiata di sella, morso e briglia. Qualsiasi equipaggiamento creato dall'incantesimo svanisce in una nuvola di fumo se viene portato a più di 3 metri di distanza dal destriero. Per la durata, tu o una creatura di tua scelta potete cavalcare il destriero. La creatura usa le statistiche del Saurovallo da Galoppo, eccetto che ha velocità 30 metri e può percorrere 15 chilometri in un'ora, o 20 chilometri ad andatura veloce. Quando l'incantesimo termina, il destriero inizia gradualmente a svanire, dando al fantino 1 minuto per smontare di sella. L'incantesimo termina se usi un'Azione per interromperlo o se il destriero subisce danni.
 
@@ -1493,11 +1604,12 @@ Una creatura quasi reale simile a un saurovallo di taglia Grande, appare sul ter
 
 ### Disco Fluttuante
 
-* **Lista**: Evocazione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 2 ora
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 2 ora |
 
 Questo incantesimo crea un piano di forza orizzontale leggermente concavo, perfettamente circolare, di 1 metro di diametro e 2,5 centimetri di spessore che fluttua a 1 metro da terra, in uno spazio non occupato di tua scelta a gittata e che puoi vedere. Il disco rimane attivo per la durata, e può sostenere 250 chili o 50 di Ingombro. Se gli viene poggiato sopra un peso superiore, l'incantesimo termina e tutto quello che vi si trova sopra cade a terra. Finché ti trovi entro 6 metri da esso, il disco è immobile. Se ti muovi più di 6 metri lontano da esso, il disco ti segue in modo da rimanere sempre a 6 metri da te. Può muoversi attraverso terreno disomogeneo, su e giù per le scale, pendenze e simili, ma non può superare cambi di altitudine di 3 o più metri. Per esempio, il disco non può attraversare un fossato profondo 3 metri, né potrebbe lasciare il fossato se fosse creato in fondo a esso. Il disco può essere afferrato dall'incantatore e spostato manualmente. Se ti allontani più di 30 metri dal disco (di solito perché non riesce ad aggirare un ostacolo nel seguirti) l'incantesimo termina.
 
@@ -1505,11 +1617,12 @@ Questo incantesimo crea un piano di forza orizzontale leggermente concavo, perfe
 
 ### Disintegrazione
 
-* **Lista**: Trasmutazione
-* **Livello**: 6, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Un sottile raggio verde parte dal tuo dito puntato verso un bersaglio a gittata e che puoi vedere. Il bersaglio può essere una creatura, un oggetto o una creazione di forza magica, come un muro creato da muro di forza. Una creatura bersaglio di questo incantesimo deve effettuare un Tiro Salvezza su Tempra. Il bersaglio subisce 10d6 + 40 danni da forza se fallisce il Tiro Salvezza, la metà del danno se riesce. Se questo danno riduce il bersaglio a 0 Punti Ferita, questi è disintegrato. Una creatura disintegrata e tutto quello che indossa e trasporta, eccetto gli oggetti magici, viene ridotta a un mucchietto di sottile polvere grigia. La creatura può essere riportata in vita solo tramite l'intervento di un Patrono.
 
@@ -1520,11 +1633,13 @@ Questo incantesimo disintegra automaticamente gli oggetti non magici o una creaz
 **Tiro Salvezza Successo/Fallimento Critico**: In caso di Fallimento Critico il danno raddoppia, in caso di Successo Critico il danno viene ulteriormente dimezzato
 
 ### Dissolvi Magie
-- **Lista**:: Abiurazione
-- **Livello**:: 3, Comune
-- **Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Durata**:: Istantanea
+
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 2 o più basso sul bersaglio ha fine.
 
@@ -1533,11 +1648,13 @@ Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrast
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 ### Dissolvi Magie Avanzato
-- **Lista**:: Abiurazione
-- **Livello**:: 5, Raro
-- **Lancio**:: 3 Azioni
-- **Gittata**:: 36 metri
-- **Durata**:: Istantanea
+
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 3 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 4 o più basso sul bersaglio ha fine.
 
@@ -1549,11 +1666,12 @@ Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
 ### Distruggere nonmorto
 
-* **Lista**: Cura
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Istantanea
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Scegli un nonmorto entro 36 metri. Un raggio luminoso si propaga dalla tua mano avvolgendo la creatura. Il nonmorto effettua un Tiro Salvezza su Tempra per dimezzare 4d12 danni da energia positiva.
 
@@ -1563,11 +1681,12 @@ Scegli un nonmorto entro 36 metri. Un raggio luminoso si propaga dalla tua mano 
 
 ### Dito
 
-* **Lista**: Ammaliamento
-* **Livello**: 0, Raro
-* **Lancio**: 1 Azione
-* **Gittata**: 18 metri
-* **Durata**: 3 round
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 0, Raro |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 18 metri |
+| **Durata**: | 3 round |
 
 Fai il dito (o pernacchia o gesto dell'ombrello) all'avversario che deve poterlo vedere.
 
@@ -1583,11 +1702,12 @@ Se fallisce il TS di 2 o 1, è punito, fino alla fine del prossimo round ha una 
 
 ### Dito della Morte
 
-* **Lista**: Necromanzia
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Invii una scarica di energia negativa a una creatura a gittata e che puoi vedere, provocandole profondo dolore. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Il bersaglio subisce 7d8 + 30 danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -1599,11 +1719,12 @@ Un umanoide ucciso da questo incantesimo si rianima come zombi sotto il tuo coma
 
 ### Divinazione
 
-* **Lista**: Divinazione
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 La tua magia e un'offerta votiva ti mettono in comunicazione con un Patrono o il servitore di un Patrono. Gli puoi porre una singola domanda in merito a uno specifico obiettivo, evento o attività che debba verificarsi entro 7 giorni. Il Narratore dà una risposta veritiera. La replica potrebbe essere una breve frase, una rima criptica o un presagio.
 
@@ -1615,11 +1736,12 @@ Se lanci l'incantesimo due o più volte prima di aver riposato almeno 8 ore, c'�
 
 ### Dominare Bestie
 
-* **Lista**: Ammaliamento, Animali e Piante
-* **Livello**: 4, Molto Raro - Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Ammaliamento, Animali e Piante |
+| --- | --- |
+| **Livello**: | 4, Molto Raro - Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Cerchi di affascinare una bestia a gittata che puoi vedere. Essa deve superare un Tiro Salvezza su Volontà o restare affascinata per la durata, ricevendo +1d6 al tiro se tu o i tuoi alleati la state combattendo.
 
@@ -1633,11 +1755,12 @@ Ogni volta che il bersaglio subisce danni, effettua un nuovo Tiro Salvezza su Vo
 
 ### Dominare Mostri
 
-* **Lista**: Ammaliamento
-* **Livello**: 8, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione, massimo 1 ora
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 8, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione, massimo 1 ora |
 
 Cerchi di affascinare una creatura a gittata che puoi vedere. Essa deve superare un Tiro Salvezza su Volontà o restare affascinata per la durata, ricevendo +1d6 al tiro se tu o i tuoi alleati la state combattendo.
 
@@ -1649,11 +1772,12 @@ Puoi impiegare due tua Azioni per assumere il totale e preciso controllo del ber
 
 ### Dominare Persone
 
-* **Lista**: Ammaliamento
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Cerchi di affascinare un umanoide a gittata che puoi vedere. Esso deve superare un Tiro Salvezza su Volontà o restare Affascinato per la durata, ricevendo +1d6 al tiro se tu o i tuoi alleati lo state combattendo.
 
@@ -1665,11 +1789,12 @@ Puoi impiegare 2 Azioni per assumere il totale e preciso controllo del bersaglio
 
 ### Eroismo
 
-* **Lista**: Ammaliamento
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Una creatura consenziente con cui sei in contatto vene infusa di coraggio. Fino al termine dell'incantesimo, la creatura è immune all'essere spaventata e all'inizio di ciascun suo round ottiene Punti Ferita temporanei pari al tuo valore di modificatore da incantesimo. Quando l'incantesimo ha termine il bersaglio perde tutti i Punti Ferita temporanei rimasti.
 
@@ -1677,11 +1802,12 @@ Una creatura consenziente con cui sei in contatto vene infusa di coraggio. Fino 
 
 ### Esilio
 
-* **Lista**: Abiurazione
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto |
 
 Cerchi di spedire una creatura a gittata e che puoi vedere in un altro piano di esistenza. Il bersaglio deve superare un Tiro Salvezza su Volontà o venire esiliato. Se il bersaglio è natio del piano di esistenza in cui ti trovi, esili il bersaglio in un semipiano innocuo. Mentre è lì, il bersaglio è inabile. Il bersaglio rimane lì fino al termine dell'incantesimo, quando riapparirà nello spazio che aveva lasciato o nello spazio non occupato più vicino, se il suo spazio originale adesso è occupato. Se il bersaglio è natio di un diverso piano di esistenza da quello in cui ti trovi, il bersaglio svanisce emettendo un lieve scoppio, tornando al suo piano natio. Se l'incantesimo termina prima che sia trascorso 1 minuto, il bersaglio riappare nello spazio che aveva lasciato o nello spazio non occupato più vicino, se il suo spazio originale è occupato.
 
@@ -1689,11 +1815,12 @@ Cerchi di spedire una creatura a gittata e che puoi vedere in un altro piano di 
 
 ### Esplosione Solare
 
-* **Lista**: Invocazione
-* **Livello**: 8, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Un'intensa luce solare illumina in un raggio di 18 metri centrato su di un punto a gittata, scelto da te. Tutte le creature all'interno della luce devono effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 12d6 danni da Luce e resta accecata per 1 minuto. Se lo supera, subisce la metà dei danni e non resta accecata dall'incantesimo. Non morti e melme hanno -8 a questo Tiro Salvezza. Una creatura accecata da questo incantesimo effettua un altro Tiro Salvezza su Tempra alla fine di ciascun suo round. Se supera il Tiro Salvezza, non è più accecata.
 
@@ -1705,11 +1832,12 @@ Nella sua area, questo incantesimo dissolve qualsiasi oscurità generata da un i
 
 ### Estasiare
 
-* **Lista**: Ammaliamento
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Intessi una serie di parole svianti, facendo sì che delle creature di tua scelta entro la gittata, che puoi vedere e possano sentirti, effettuino un Tiro Salvezza su Volontà. Qualsiasi creatura che non può restare affascinata supera il Tiro Salvezza automaticamente, e se tu o i tuoi compagni state combattendo una creatura, questa ha +1d6 al Tiro Salvezza. Se fallisce il Tiro Salvezza, il bersaglio ha -1d6 sulle prove di Consapevolezza effettuate per percepire una qualsiasi creatura diversa da te fino al termine dell'incantesimo o finché il bersaglio non può più sentirti.
 
@@ -1717,11 +1845,12 @@ L'incantesimo termina se sei reso inabile o non puoi più parlare.
 
 ### Evoca Animali
 
-* **Lista**: Animali e Piante
-* **Livello**: 3, Non Comune
-* **Lancio**: 3 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 Turno
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 3 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 Turno |
 
 Evochi spiriti magici che assumono l'aspetto di bestie e compaiono in spazi non occupati a gittata e che puoi vedere. Scegli una delle seguenti opzioni per determinare ciò che appare:
 
@@ -1738,11 +1867,12 @@ Le creature evocate sono amichevoli verso di te e i tuoi compagni e ubbidiscono 
 
 ### Evoca Cavalcatura
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 10 minuti
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Evochi uno spirito che assume la forma di una cavalcatura insolitamente intelligente, forte e leale, stabilendo un legame duraturo con esso. Apparendo in uno spazio a gittata, non occupato, il destriero assume la forma di tua scelta, come quella di un saurovallo da guerra, un saurovallo nano, un cammello, un alce o un mastino (il Narratore potrebbe darti la possibilità di evocare come destrieri anche altri tipi di animali). Il destriero ha le statistiche della forma scelta, sebbene sia di tipo celestiale, fatato o demone (a tua scelta) invece del suo normale tipo. Inoltre, se il tuo destriero ha Intelligenza -3 o meno, la sua Intelligenza diventa -2, e ottiene la capacità di comprendere un linguaggio a tua scelta tra quelli che sei in grado di parlare. Il tuo destriero serve da cavalcatura, sia in combattimento che fuori da esso, e possiedi un legame istintivo con esso, che vi permette di combattere come foste un unico insieme.
 
@@ -1754,11 +1884,12 @@ Non puoi avere più di un destriero legato da questo incantesimo alla volta. Con
 
 ### Evoca Elementale
 
-* **Lista**: Aria, Acqua, Terra, Fuoco
-* **Livello**: 5, Raro
-* **Lancio**: 1 minuto
-* **Gittata**: 27 metri
-* **Durata**: Concentrazione, 1 Turno
+| **Lista**: | Aria, Acqua, Terra, Fuoco |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 27 metri |
+| **Durata**: | Concentrazione, 1 Turno |
 
 Evochi un servitore elementale. Scegli un'area a gittata composta di acqua, aria, fuoco o terra e che riempia una sfera di 1 metro di raggio. Un elementale di grado di sfida 3 o minore appropriato all'area da te scelta compare in uno spazio non occupato entro 3 metri da essa. L'elementale sparisce quando scende a 0 Punti Ferita o l'incantesimo termina.
 
@@ -1768,11 +1899,12 @@ Ogni Lista di Magia può evocare solo il proprio Elementale specifico
 
 ### Evoca Elementali Minori
 
-* **Lista**: Aria, Acqua, Terra, Fuoco
-* **Livello**: 4, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: 27 metri
-* **Durata**: 1 Turno
+| **Lista**: | Aria, Acqua, Terra, Fuoco |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 27 metri |
+| **Durata**: | 1 Turno |
 
 Evochi degli elementali che compariranno in spazi non occupati a gittata e che puoi vedere. Scegli una della seguenti opzioni per decidere cosa appare:
 
@@ -1789,11 +1921,12 @@ Ogni Lista di Magia può evocare solo il proprio Elementale specifico. L'element
 
 ### Evocazioni Istantanee
 
-* **Lista**: Evocazione
-* **Livello**: 6, Raro
-* **Lancio**: 1 minuto
-* **Gittata**: Contatto
-* **Durata**: Fino a che dissolto
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Contatto |
+| **Durata**: | Fino a che dissolto |
 
 Entri a contatto con un oggetto del peso di 5 chili o meno e la cui dimensione più grossa non superi i 180 centimetri. L'incantesimo lascia un marchio sulla superficie dell'oggetto e ne incide invisibilmente il nome sullo zaffiro usato come componente materiale. Ogni volta che lanci questo incantesimo, devi usare uno zaffiro diverso.
 
@@ -1805,11 +1938,12 @@ Dissolvi magie, o un effetto simile applicato con successo allo zaffiro, termina
 
 ### Fabbricare
 
-* **Lista**: Trasmutazione
-* **Livello**: 4, Comune
-* **Lancio**: 10 minuti
-* **Gittata**: 36 metri
-* **Durata**: Istantanea
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Converti le materie prime in prodotti finiti dello stesso materiale. Per esempio, puoi fabbricare un piccolo ponte di legno da un cumulo di alberi, una corda da un mucchio di canapa, e abiti dal lino o la lana. Scegli le materie prima che puoi vedere a gittata. Puoi fabbricare un oggetto di taglia Grande o inferiore (contenuto in un cubo di 3 metri di spigolo, o otto cubi connessi di 1 metro di spigolo) data una sufficiente quantità di materie prime. Se stai lavorando con il metallo, la pietra o altre sostanze minerali, l'oggetto fabbricato non può essere più grande di taglia Media (contenuto in un singolo cubo di 1 metro di spigolo). La qualità degli oggetti creati da questo incantesimo è commisurata alla qualità delle materie prime.
 
@@ -1817,11 +1951,12 @@ Tramite questo incantesimo non si possono creare o trasmutare creature od oggett
 
 ### Fatale
 
-* **Lista**: Illusione
-* **Livello**: 9, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 9, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 minuto |
 
 Attingendo alle paure più intime di un gruppo di creature, crei delle creature illusorie nella loro mente, visibili solo a loro. Ogni creatura in una sfera di 9 metri di raggio centrata su di un punto a tua scelta nella gittata, deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura diventa spaventata per la durata L'illusione affonda nelle paure più intime della creatura, manifestando i suoi incubi peggiori come una implacabile minaccia. Alla fine di ciascun round della creatura spaventata, questa deve superare un Tiro Salvezza su Volontà o subire 4d10 danni da forza. Se supera il Tiro Salvezza, per quella creatura l'incantesimo ha termine.
 
@@ -1829,11 +1964,12 @@ Attingendo alle paure più intime di un gruppo di creature, crei delle creature 
 
 ### Favore Divino
 
-* **Lista**: Invocazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Le tue preghiere potenziano te e la tua arma. Fino al termine dell'incantesimo, quando colpisce, la tua arma infligge 1d4 danni da Luce aggiuntivi.
 
@@ -1841,11 +1977,12 @@ Le tue preghiere potenziano te e la tua arma. Fino al termine dell'incantesimo, 
 
 ### Ferire
 
-* **Lista**: Necromanzia
-* **Livello**: 6, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Scateni una malattia virulenta su di una creatura a gittata che puoi vedere. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Il bersaglio subisce 12d6 danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Se il bersaglio fallisce il Tiro Salvezza, i suoi Punti Ferita massimi sono ridotti per 1 ora di un ammontare uguale al danno da Vuoto subito. Qualsiasi effetto che rimuova una malattia permette ai Punti Ferita massimi del personaggio di poter tornare al valore normale prima che trascorra quel tempo.
 
@@ -1853,11 +1990,12 @@ Scateni una malattia virulenta su di una creatura a gittata che puoi vedere. Il 
 
 ### Fermare il Tempo
 
-* **Lista**: Trasmutazione
-* **Livello**: 9, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 9, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Fermi brevemente il flusso del tempo per tutti, tranne che per te. Il tempo non scorre per le altre creature, mentre tu effettui 1d4 + 1 round di fila, durante i quali puoi effettuare azioni e muoverti come sempre. Questo incantesimo termina se una delle azioni che usi durante questo periodo, o qualsiasi effetto che crei durante questo periodo, ha effetto su di una creatura diversa da te o su di un oggetto indossato o trasportato da qualcuno che non sia tu. Inoltre, l'incantesimo termina se ti muovi in un posto lontano più di 300 metri da quello in cui lo hai lanciato.
 
@@ -1865,21 +2003,23 @@ Fermi brevemente il flusso del tempo per tutti, tranne che per te. Il tempo non 
 
 ### Fiamma Perenne
 
-* **Lista**: Universale
-* **Livello**: 2, Leggendario
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 giorno
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 2, Leggendario |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 giorno |
 
 Una luminosità simile a quella prodotta da una torcia si sprigiona da un oggetto con cui sei in contatto. L'effetto sembra quello di una normale fiamma, ma non produce calore né necessita ossigeno. Una fiamma perenne può essere celata o nascosta ma non può essere smorzata né spenta.
 
 ### Fiamma Sacra
 
-* **Lista**: Universale
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Una luminosità simile a quella prodotta da una fiaccola discende su di una creatura a gittata che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Riflessi o subire 1d8 danni da Luce. Il bersaglio non riceve il beneficio della copertura per questo Tiro Salvezza.
 
@@ -1889,11 +2029,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando la somma dei Tratti in co
 
 ### Fiotto Acido
 
-* **Lista**: Evocazione
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Scagli una bolla di acido. Scegli una creatura a gittata o due creature a gittata che siano entro 1 metro l'una dall'altra. Il bersaglio deve superare un Tiro Salvezza su Riflessi o subire 1d6 danni da acido.
 
@@ -1903,11 +2044,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Folata di Vento
 
-* **Lista**: Aria
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (linea di 18 metri)
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (linea di 18 metri) |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Una linea di forte vento lunga 18 metri e larga 3 metri esplode partendo da te in una direzione a tua scelta, per la durata dell'incantesimo. Ogni creatura che inizia il suo round dentro la linea deve superare un Tiro Salvezza su Tempra o venire spinta lontano da te di 3 metri, seguendo la direzione della linea.
 
@@ -1919,11 +2061,12 @@ Un arma da lancio che attraversa una folata di vento ha il 50\% di mancare il be
 
 ### Forma Eterea
 
-* **Lista**: Trasmutazione
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Massimo 8 ore
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Massimo 8 ore |
 
 Entri nelle regioni di confine del Piano Etereo, nell'area che si sovrappone al tuo piano attuale. Resti sul Confine Etereo per la durata o finché non usi un'Azione per interrompere l'incantesimo. Se ti muovi verso l'alto o il basso, il costo del movimento è raddoppiato, se ti muovi invece orizzontalmente il movimento è raddoppiato per Azione di Movimento. Puoi vedere e udire il piano da cui provieni, ma tutto quello che si trova lì ti appare grigio, e non puoi vedere a più di 18 metri di distanza.
 
@@ -1935,11 +2078,12 @@ Ignori tutti gli oggetti e gli effetti che non sono sul Piano etereo, potendo co
 
 ### Forma Gassosa
 
-* **Lista**: Trasmutazione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Concentrazione, massimo 1 ora
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Concentrazione, massimo 1 ora |
 
 Trasformi una creatura consenziente insieme a tutto ciò che sta indossando e trasportando, in una nube vaporosa per la durata. L'incantesimo termina se la creatura scende a 0 Punti Ferita. Le creature incorporee ignorano questo effetto. Mentre è in questa forma, l'unico metodo di movimento del bersaglio è una velocità di volo 3 metri. Il bersaglio può entrare e occupare lo spazio di un'altra creatura. Il bersaglio ha resistenza ai danni non magici, e ha +1d6 ai Tiri Salvezza su Tempra e Riflessi. Il bersaglio può attraversare piccoli buchi, strettoie, e anche semplici fori, sebbene consideri i liquidi come superfici solide. Il bersaglio non può cadere e resta fluttuante nell'aria anche se stordito o altrimenti reso inabile.
 
@@ -1949,11 +2093,12 @@ Mentre è nella forma di una nube vaporosa, il bersaglio non può parlare né ma
 
 ### Frantumare
 
-* **Lista**: Invocazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Un forte rombo, molto intenso, erutta da un punto a gittata di tua scelta. Ogni creatura in una sfera di 3 metri di raggio centrata su quel punto deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 3d8 danni da suono se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Una creatura composta di materiale inorganico, come pietra, cristallo o metallo, ha -1d6 sul Tiro Salvezza. Un oggetto non magico che non è indossato né trasportato subisce anch'esso danni se si trova nell'area dell'incantesimo.
 
@@ -1963,11 +2108,12 @@ Un forte rombo, molto intenso, erutta da un punto a gittata di tua scelta. Ogni 
 
 ### Freccia Acida di Restser
 
-* **Lista**: Acqua, Terra
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 27 metri
-* **Durata**: Istantanea
+| **Lista**: | Acqua, Terra |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | Istantanea |
 
 Una freccia verde luminosa saetta verso un bersaglio a gittata ed esplode con uno spruzzo d'acido. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce immediatamente 4d4 danni da acido e 2d4 danni da acido al termine del suo prossimo round. Se manchi, la freccia spruzza il bersaglio di acido infliggendo la metà dei danni iniziali e non arrecando danni al termine del prossimo round del bersaglio.
 
@@ -1975,11 +2121,12 @@ Una freccia verde luminosa saetta verso un bersaglio a gittata ed esplode con un
 
 ### Fulmine
 
-* **Lista**: Aria
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (linea di 30 metri)
-* **Durata**: Istantanea
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (linea di 30 metri) |
+| **Durata**: | Istantanea |
 
 Esplodi un fulmine che forma una linea lunga 30 metri e larga 1 metro che parte da dove ti trovi in una direzione scelta da te. Ogni creatura sulla linea deve superare un Tiro Salvezza su Riflessi. La creatura subisce 8d6 danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 Il fulmine incendia gli oggetti infiammabili nell'area che non sono indossati o trasportati.
@@ -1992,11 +2139,12 @@ Il fulmine incendia gli oggetti infiammabili nell'area che non sono indossati o 
 
 ### Fulmine a catena
 
-* **Lista**: Aria
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Crei una saetta di elettricità che colpisce un bersaglio a gittata che puoi vedere scelto da te. Da questo si genera una ulteriore saetta che colpisce il più vicino bersaglio entro 6 metri. Il processo continua finché non sono state colpite 7 bersagli o non c'è più nessun nuovo avversario a distanza. Un bersaglio può essere una creatura o oggetto almeno di taglia piccola e può essere bersaglio di una sola saetta. Un bersaglio deve effettuare un Tiro Salvezza su Riflessi oppure subisce 8d6 danni da elettricità o la metà di questi danni se lo supera.
 
@@ -2006,11 +2154,12 @@ Crei una saetta di elettricità che colpisce un bersaglio a gittata che puoi ved
 
 ### Fuorviare
 
-* **Lista**: Illusione
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Diventi invisibile nello stesso momento in cui un tuo doppione illusorio compare nel posto in cui ti trovi. Il doppione resta per la durata dell'incantesimo, ma l'invisibilità termina se attacchi o lanci un incantesimo. Puoi usare 2 Azioni per far muovere il doppione illusorio fino al doppio della tua velocità e fargli compiere un gesto, parlare e comportarsi in qualsiasi maniera tu voglia.
 
@@ -2018,11 +2167,12 @@ Puoi vedere attraverso i suoi occhi e udire tramite le sue orecchie come se foss
 
 ### Gabbia di Forza
 
-* **Lista**: Invocazione
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 30 metri
-* **Durata**: 1 ora
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 30 metri |
+| **Durata**: | 1 ora |
 
 Una prigione cubica, immobile e invisibile, composta di forza magica compare intorno a un'area a gittata da te scelta. La prigione può essere una gabbia o una scatola solida, a tua scelta. Una prigione nella forma di una gabbia può avere 6 metri di lato ed essere composta da sbarre di 1,5 centimetri separate di 1,5 centimetri tra di loro e fornisce una copertura completa alle creature all'interno. Una prigione a forma di scatola può avere 3 metri di lato, creando una barriera solida che impedisce a qualsiasi materia di attraversarla e bloccando qualsiasi incantesimo lanciato dall'interno o l'esterno dell'area. Quando lanci questo incantesimo, qualsiasi creatura che è completamente all'interno della gabbia deve effettuare un Tiro Salvezza su Riflessi o rimanere intrappolata. Le creature solo parzialmente nell'area della gabbia, o quelle troppo grosse per entrarvi, vengono spinte via dal centro dell'area finché non ne sono completamente fuori.
 
@@ -2032,11 +2182,12 @@ Questo incantesimo non può essere dissolto da Dissolvi Magie ma solo con Dissol
 
 ### Giara Magica
 
-* **Lista**: Necromanzia
-* **Livello**: 6, Molto Raro
-* **Lancio**: 1 minuto
-* **Gittata**: Personale
-* **Durata**: Finché a che dissolto
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 6, Molto Raro |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Personale |
+| **Durata**: | Finché a che dissolto |
 
 Il tuo corpo entra in uno stato catatonico mentre la tua anima lo abbandona ed entra nel contenitore da te usato come componente materiale. Mentre la tua anima occupa il contenitore, sei consapevole dei tuoi dintorni come se fossi nello spazio del contenitore. Non puoi muoverti né usare reazioni. L'unica Azione che puoi effettuare è quella di proiettare la tua anima fino a 30 metri di distanza, fuori dal contenitore, ritornando al tuo corpo vivente (e terminando l'incantesimo) o cercando di possedere un corpo umanoide.
 
@@ -2052,11 +2203,12 @@ Se il contenitore viene distrutto o l'incantesimo termina, la tua anima ritorna 
 
 ### Glifo di Interdizione
 
-* **Lista**: Abiurazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Fino a che dissolto o attivato
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Fino a che dissolto o attivato |
 
 Quando lanci questo incantesimo, inscrivi un glifo che danneggia altre creature su di una superficie (come un tavolo o una sezione di pavimento o muro) o all'interno di un oggetto che può essere chiuso (come un libro, una pergamena o un forziere) per celare il glifo. Se scegli una superficie, il glifo può coprire un'area di superficie non maggiore di 3 metri di diametro. Se scegli un oggetto, quell'oggetto deve restare al suo posto; se l'oggetto viene spostato più di 3 metri dal punto in cui è stato lanciato l'incantesimo, il glifo è spezzato, e l'incantesimo termina senza essere stato attivato.
 
@@ -2080,11 +2232,12 @@ Non è possibile avere contemporaneamente più di CM/4 Glifi attivi contemporane
 
 ### Globo di Invulnerabilità
 
-* **Lista**: Abiurazione
-* **Livello**: 6, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (raggio di 3 metri)
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 6, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (raggio di 3 metri) |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Una barriera immobile e lievemente scintillante si erge in un raggio di 3 metri intorno a te e vi rimane per la durata.
 
@@ -2094,21 +2247,23 @@ Qualsiasi incantesimo di Livello 4 (ad esclusione di risultati superiori grazie 
 
 ### Goffaggine
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Raro
-* **Lancio**: 1 Azione
-* **Gittata**: 9 metri
-* **Durata**: 1 round per CM, Concentrazione
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 round per CM, Concentrazione |
 
 Il bersaglio effettua un Tiro Salvezza su Volontà con bonus Carisma, se fallisce ogni qual volta che effettua una Prova di Competenza, Tiro Salvezza o Tiro per Colpire conta sempre un 1 tirato in più per verificare i fallimenti critici.
 
 ### Gragnola di Ghiande di Kyrin
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 50 metri
-* **Durata**: 1 minuto per CM, Concentrazione
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 50 metri |
+| **Durata**: | 1 minuto per CM, Concentrazione |
 
 Incanti 9 ghiande di energia magica e queste incominciano a vorticare 30 centimetri sopra la tua spalla.
 Ogni round, spendendo 1 Azione, puoi lanciare fino a 5 ghiande contro uno o più bersagli.
@@ -2118,11 +2273,12 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 ### Gragnola di Ghiande Infuocate di Kyrin
 
-* **Lista**: Animali e Piante, Fuoco
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azione
-* **Gittata**: 50 metri
-* **Durata**: 1 minuto per CM, Concentrazione
+| **Lista**: | Animali e Piante, Fuoco |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azione |
+| **Gittata**: | 50 metri |
+| **Durata**: | 1 minuto per CM, Concentrazione |
 
 Incanti 9 ghiande di energia magica e queste incominciano a vorticare 30 centimetri sopra la tua spalla.
 Ogni round, spendendo 1 Azione, puoi lanciare fino a 5 ghiande contro uno o più bersagli.
@@ -2132,11 +2288,12 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 ### Gragnola di Limoni di Kyrin
 
-* **Lista**: Animali e Piante, Terra
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 30 metri
-* **Durata**: 1 round per CM, Concentrazione
+| **Lista**: | Animali e Piante, Terra |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 30 metri |
+| **Durata**: | 1 round per CM, Concentrazione |
 
 Incanti una boccetta con dentro almeno 9 gocce di limone.
 Ogni round, spendendo 1 Azione, puoi spruzzare fino a 2 gocce di limone, delle 9 totali, contro uno o più bersagli entro 30 metri.
@@ -2146,11 +2303,12 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 ### Gragnola di Marroni di Kyrin
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Molto Raro
-* **Lancio**: 1 Azione
-* **Gittata**: 60 metri
-* **Durata**: 1 minuto per CM, Concentrazione
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Molto Raro |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 60 metri |
+| **Durata**: | 1 minuto per CM, Concentrazione |
 
 Incanti 9 marroni di energia magica e queste incominciano a vorticare 60 centimetri sopra la tua spalla.
 Ogni round, spendendo 1 Azioni, puoi lanciare fino a 5 marroni contro uno o più bersagli.
@@ -2160,11 +2318,12 @@ Esegui un solo Tiro per Colpire con incantesimi da distanza e confronta il risul
 
 ### Grido di dolore
 
-* **Lista**: Necromanzia
-* **Livello**: 1, Raro
-* **Lancio**: 1 Reazione
-* **Gittata**: personale
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 1, Raro |
+| **Lancio**: | 1 Reazione |
+| **Gittata**: | personale |
+| **Durata**: | Istantanea |
 
 Come Azione di Reazione emetti un grido di dolore quando colpito in mischia. La creatura che ti ha colpito deve effettuare un Tiro Salvezza su Tempra o subito 2d4 di danno da Vuoto.
 
@@ -2172,11 +2331,12 @@ Come Azione di Reazione emetti un grido di dolore quando colpito in mischia. La 
 
 ### Guarigione
 
-* **Lista**: Cura
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Scegli una creatura a gittata e che puoi vedere. un'ondata di energia positiva curativa travolge la creatura, facendole recuperare 70 Punti Ferita. L'incantesimo prova anche a contrastare a qualsiasi cecità, sordità e malattia (anche magica) che affligga il bersaglio. Questo incantesimo causa 50 Punti Ferita di danno ad un non morto con un Tiro per Colpire con incantesimo a tocco.
 
@@ -2188,11 +2348,12 @@ Scegli una creatura a gittata e che puoi vedere. un'ondata di energia positiva c
 
 ### Guarigione di Massa
 
-* **Lista**: Cura
-* **Livello**: 9, Leggendario
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 9, Leggendario |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Un effluvio di energia guaritrice scorre da te verso le creature ferite che ti circondano. Ripristini fino a 700 Punti Ferita, divisi come preferisci tra qualsiasi creatura a gittata e che puoi vedere (con un massimo di 70 Punti Ferita a creatura). Le creature guarite da questo incantesimo sono curate anche di tutte le malattie e da qualsiasi effetto che le renda accecate o assordate. Questo incantesimo può infliggere fino a 120 Punti Ferita di danno ad un non morto. TS su Tempra per annullare l'effetto.
 
@@ -2202,21 +2363,23 @@ Se l'incantatore e creatura curata sono entrambi **Devoti** dello stesso Patrono
 
 ### Guida
 
-* **Lista**: Divinazione
-* **Livello**: 0, Comune
-* **Lancio**: 1 Reazione
-* **Gittata**: 3 metri
-* **Durata**: 1 Round
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Reazione |
+| **Gittata**: | 3 metri |
+| **Durata**: | 1 Round |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Una volta, prima che l'incantesimo termini, il bersaglio può tirare un d4 e sommare il risultato tirato a una prova di competenza a sua scelta. Può tirare il dado prima o dopo aver effettuato la prova di Competenza. L'incantesimo ha poi termine. Non è possibile lanciare Guida sulla stessa creatura ad intervalli inferiori ad 1 ora.
 
 ### Guscio Anti-Vita
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (raggio di 3 metri)
-* **Durata**: massimo 1 ora
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (raggio di 3 metri) |
+| **Durata**: | massimo 1 ora |
 
 Una barriera luminosa si estende fino a un raggio di 3 metri intorno a te, muovendosi con te e rimanendo centrata su di te, tenendo distanti le creature che non siano non morti o costrutti. La barriera permane per la durata.
 
@@ -2226,11 +2389,12 @@ La barriera impedisce a una creatura soggetta di attraversarla in alcun modo. Un
 
 ### Identificare
 
-* **Lista**: Universale
-* **Livello**: 1, Comune
-* **Lancio**: variabile
-* **Gittata**: Contatto
-* **Durata**: Variabile
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | variabile |
+| **Gittata**: | Contatto |
+| **Durata**: | Variabile |
 
 Scegli un oggetto con cui devi restare a contatto per tutto il lancio dell'incantesimo. Se si tratta di un oggetto magico o altro oggetto imbevuto di magia effettua una prova di Arcana, con un bonus di +2d6, come parte di lancio dell'incantesimo.
 
@@ -2244,11 +2408,12 @@ La prova di Arcana dura 10 minuti. Con punteggio Arcana 6 dura 5 minuti, con 12 
 
 ### Illusione Minore
 
-* **Lista**: Universale
-* **Livello**: 0, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Crei l'immagine di un oggetto o un suono a gittata per la durata dell'incantesimo. L'illusione ha termine se la interrompi con un'Azione o lanci di nuovo questo incantesimo.
 
@@ -2260,11 +2425,12 @@ Una creatura che usa 3 Azioni per esaminare il suono o l'immagine può determina
 
 ### Illusione Programmata
 
-* **Lista**: Illusione
-* **Livello**: 6, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Fino a che dissolto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Fino a che dissolto |
 
 Crei, a gittata, l'illusione di un oggetto, creatura o qualche altro fenomeno visibile che si attiva quando viene soddisfatta una specifica condizione. Fino ad allora l'illusione è impercettibile. Non può essere più grande di un cubo di 9 metri di spigolo, e decidi tu quando lanci l'incantesimo, come si comporti l'illusione e che suoni produca. L'esibizione programmata può durare fino a 5 minuti. Quando occorrono le condizioni da te specificate, l'illusione si manifesta e si comporta nel modo da te descritto. Una volta che l'illusione ha terminato la sua esibizione, scompare e rimane dormiente per 10 minuti. Dopo questo periodo, l'illusione può essere attivata di nuovo.
 
@@ -2274,11 +2440,12 @@ L'interazione fisica con l'immagine la rivela come illusione, dato che le cose l
 
 ### Immagine Maggiore
 
-* **Lista**: Illusione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Concentrazione, massimo 1 minuto per CM
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto per CM |
 
 Crei l'immagine di un oggetto, una creatura o qualche altro fenomeno visibile non più grande di un cubo di 6 metri di spigolo. L'immagine appare in un punto a gittata che puoi vedere e vi rimane per la durata dell'incantesimo. L'immagine sembra completamente reale, e comprende suoni, odori e la temperatura appropriata alla cosa raffigurata. Non puoi generare calore o freddo sufficiente a provocare danni, né un suono abbastanza forte da infliggere danno da suono o assordare una creatura, o un odore che possa far star male una creatura (come il fetore di un troglodita). Finché resti a gittata dell'illusione, puoi usare un'Azione per far muovere l'immagine in qualsiasi altro punto a gittata.
 
@@ -2290,11 +2457,12 @@ L'interazione fisica con l'immagine la rivela come illusione, dato che le cose v
 
 ### Immagine Proiettata
 
-* **Lista**: Illusione
-* **Livello**: 7, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 750 chilometri
-* **Durata**: 1 giorno
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 7, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 750 chilometri |
+| **Durata**: | 1 giorno |
 
 Crei una copia illusoria di te stesso che permane per la durata. La copia può apparire in qualsiasi luogo entro la gittata che tu abbia già visto, ignorando qualsiasi ostacolo frapposto. L'illusione riproduce il tuo aspetto e i tuoi rumori ma è intangibile. Se l'illusione subisce danni, scompare, e l'incantesimo ha termine.
 
@@ -2306,11 +2474,12 @@ L'interazione fisica con l'immagine la rivela come illusione, dato che le cose l
 
 ### Immagine Silenziosa
 
-* **Lista**: Illusione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Concentrazione, massimo 3 minuti per CM
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Concentrazione, massimo 3 minuti per CM |
 
 Crei l'immagine di un oggetto, una creatura o qualche altro fenomeno visibile non più grande di un cubo di 3 metri di spigolo. L'immagine appare in un punto a gittata che puoi vedere e resta per la durata dell'incantesimo. L'immagine è puramente visiva; non è accompagnata da suoni, odori o altri effetti sensoriali. Puoi usare un'Azione per far muovere l'immagine in qualsiasi altro punto a gittata. Quando l'immagine cambia posizione, puoi alterarne l'aspetto così che i suoi movimenti appaiano naturali. Per esempio, se crei l'immagine di una creatura e la muovi, puoi alterare l'immagine in modo che sembri camminare.
 
@@ -2318,11 +2487,12 @@ L'interazione fisica con l'immagine la rivela come illusione, dato che le cose v
 
 ### Immagine Speculare
 
-* **Lista**: Illusione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Nel tuo spazio compaiono 2d4 duplicati illusori di te stesso. Fino al termine dell'incantesimo, i duplicati si muovono con te e imitano le tue azioni, scambiandosi di posto in modo da rendere impossibile determinare quale sia l'immagine reale. Puoi usare 1 Azione per congedare i duplicati illusori.
 
@@ -2335,11 +2505,12 @@ Una creatura che non può vedere, o si affida a sensi diversi dalla vista (come 
 
 ### Imprigionare
 
-* **Lista**: Abiurazione
-* **Livello**: 9, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Fino a dissolvimento
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 9, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Fino a dissolvimento |
 
 Crei dei vincoli magici per bloccare una creatura a gittata e che puoi vedere. Il bersaglio deve superare un Tiro Salvezza su Volontà o essere avvinto dall'incantesimo; se lo supera, è immune all'incantesimo qualora lo lanci di nuovo. Mentre è soggetta a questo incantesimo, la creatura non ha bisogno di respirare, mangiare o bere e non invecchia. Gli incantesimi di divinazione non possono localizzare né percepire il bersaglio.
 
@@ -2359,11 +2530,12 @@ Puoi usare una particolare componente speciale per creare solo una prigione alla
 
 ### Inaridire
 
-* **Lista**: Necromanzia
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Energia necromantica avvolge una creatura di tua scelta a gittata e che puoi vedere, deprivandola di linfa e vitalità. Il bersaglio deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza il bersaglio subisce 8d8 danni da Vuoto, o la metà di questi danni se supera il Tiro Salvezza. L'incantesimo non ha effetto su non morti o costrutti.
 
@@ -2388,11 +2560,12 @@ L'incantesimo può penetrare la maggior parte delle barriere, ma è bloccato da 
 
 ### Individuazione delle Malattie e dei Veleni
 
-* **Lista**: Divinazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 round per CM
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 round per CM |
 
 Per la durata, percepisci la presenza e posizione di veleni, creature velenose e malattie entro 9 metri da te. Inoltre riesci a identificare il tipo di veleno, creatura velenosa o malattia. L'incantesimo può penetrare la maggior parte delle barriere, ma è bloccato da 30 centimetri di pietra, 2,5 centimetri di metallo comune, un sottile foglio di piombo o 1 metro di legno o terra.
 
@@ -2400,11 +2573,12 @@ Per la durata, percepisci la presenza e posizione di veleni, creature velenose e
 
 ### Individuazione dei Pensieri
 
-* **Lista**: Divinazione
-* **Livello**: 2, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Per la durata, puoi leggere i pensieri di certe creature. Quando lanci questo incantesimo e con altre due Azioni in ciascun round successivo sino al termine dell'incantesimo, puoi concentrare la tua mente su qualsiasi creatura che tu possa vedere e si trovi entro 9 metri da te. Se la creatura che hai scelto ha un punteggio di Intelligenza -3 o meno o non parla nessun linguaggio, la creatura ignora l'effetto.
 
@@ -2417,11 +2591,12 @@ Mentre hai attivo questo incantesimo per il lancio di altri incantesimo risulter
 
 ### Infliggi Ferite
 
-* **Lista**: Necromanzia
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Effettua un attacco in mischia con incantesimo contro una creatura a portata. Se colpisci, il bersaglio subisce 3d10 danni da Vuoto, Tiro Salvezza su Tempra per dimezzare.
 
@@ -2429,11 +2604,12 @@ Effettua un attacco in mischia con incantesimo contro una creatura a portata. Se
 
 ### Ingrandire/Ridurre
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Fai sì che una creatura od oggetto a gittata e che puoi vedere ingrandisca o rimpicciolisca per la durata dell'incantesimo. Scegli una creatura o un oggetto che non sia né indossato né trasportato. Se il bersaglio non è consenziente, può effettuare un Tiro Salvezza su Tempra, se lo supera, l'incantesimo non ha effetto. Se il bersaglio è una creatura, tutto ciò che sta indossando e trasportando cambia taglia assieme a essa. Qualsiasi oggetto lasciato cadere da una creatura soggetta a questo incantesimo ritorna subito alla sua taglia normale.
 
@@ -2444,11 +2620,12 @@ Fai sì che una creatura od oggetto a gittata e che puoi vedere ingrandisca o ri
 
 ### Insetto Gigante
 
-* **Lista**: Animali e Piante
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 10 minuti
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 10 minuti |
 
 Per la durata dell'incantesimo, trasformi fino a dieci centopiedi, tre ragni, cinque vespe o uno scorpione a gittata, in versioni giganti della loro forma naturale. Un centopiedi diventa un centopiedi gigante, un ragno diventa un ragno gigante, una vespa diventa una vespa gigante e uno scorpione diventa uno scorpione gigante. Ogni creatura obbedisce ai tuoi comandi vocali e, in combattimento, agisce in ciascun round durante il tuo round. Il Narratore possiede le statistiche di queste creature, e sarà sempre Il Narratore a risolvere le loro azioni e i loro movimenti. Una creatura resta nella sua forma gigante per la durata, finché non scende a 0 Punti Ferita, o finché non usi un'Azione per interrompere l'effetto su di essa.
 
@@ -2456,11 +2633,12 @@ Il Narratore può permetterti di scegliere bersagli differenti. Per esempio, se 
 
 ### Interdizione alla Morte
 
-* **Lista**: Necromanzia
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Lanci l'incantesimo a contatto con una creatura. Conferisci al bersaglio protezione dalla morte. La prima volta che il bersaglio dovesse scendere a 0 Punti Ferita in seguito al danno subito, il bersaglio scende invece a 1 punto ferita e l'incantesimo ha fine. Se l'incantesimo è ancora attivo quando il bersaglio è vittima di un effetto che lo ucciderebbe all'istante senza infliggere danni,quell'effetto viene invece negato sul bersaglio e l'incantesimo ha fine.
 
@@ -2468,11 +2646,12 @@ Lanci l'incantesimo a contatto con una creatura. Conferisci al bersaglio protezi
 
 ### Intermittenza
 
-* **Lista**: Trasmutazione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 round per CM
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 round per CM |
 
 Tira un 1d6 alla fine di ciascun tuo round per la durata di questo incantesimo. Se ottieni un numero dispari svanisci dal tuo attuale piano di esistenza e riappari sul Piano Etereo (l'incantesimo fallisce e il lancio è sprecato qualora tu fossi già su quel piano). All'inizio del tuo prossimo round, e quando l'incantesimo termina, qualora tu fossi sul Piano Etereo, ritorni in uno spazio non occupato di tua scelta e che puoi vedere, entro 3 metri dallo spazio da cui sei svanito. Se nessuno spazio non occupato è disponibile entro questa gittata, compari nello spazio non occupato più vicino (determinato casualmente se è disponibile più di uno spazio). Puoi interrompere l'incantesimo con un'Azione.
 
@@ -2480,11 +2659,12 @@ Mentre sei sul Piano Etereo, puoi vedere e udire il piano da cui provieni, che p
 
 ### Intralciare
 
-* **Lista**: Animali e Piante
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 27 metri
-* **Durata**: 1 minuto
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | 1 minuto |
 
 Rampicanti e rami stritolanti spuntano dal terreno in un quadrato di 6 metri di lato a partire da un punto a gittata. Per la durata, questi vegetali trasformano il terreno nell'area in terreno difficile.
 
@@ -2492,11 +2672,12 @@ Una creatura nell'area nel momento in cui lanci questo incantesimo deve superare
 
 ### Inversione della Gravità
 
-* **Lista**: Trasmutazione
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 30 metri
-* **Durata**: 1 minuto
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 30 metri |
+| **Durata**: | 1 minuto |
 
 Questo incantesimo inverte la gravità in un cilindro di raggio 15 metri, alto 30 metri, centrato in un punto a gittata. Quando lanci questo incantesimo, tutte le creature e gli oggetti che non sono in qualche modo ancorati al terreno cadono verso l'alto e raggiungono la cima dell'area. Una creatura può tentare un Tiro Salvezza su Riflessi per afferrare un oggetto fisso a portata, per evitare di cadere in questo modo, in caso lo superi.
 
@@ -2506,11 +2687,12 @@ Al termine della durata, gli oggetti e le creature colpite ricadono verso il bas
 
 ### Inviare
 
-* **Lista**: Invocazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Illimitata
-* **Durata**: 1 round
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Illimitata |
+| **Durata**: | 1 round |
 
 Invii un breve messaggio di 25 parole o meno a una creatura con cui sei familiare. La creatura sente il messaggio nella sua mente, ti riconosce come mittente e può risponderti in modo simile. L'incantesimo permette a creature con un punteggio di Intelligenza almeno di -2 di comprendere il significato del tuo messaggio anche se non comprende la tua lingua.
 
@@ -2522,11 +2704,12 @@ Puoi inviare il messaggio attraverso qualsiasi distanza e anche su altri piani d
 
 ### Invisibilità
 
-* **Lista**: Illusione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 minuto per CM
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto per CM |
 
 Lanci l'incantesimo a contatto di una creatura. Il bersaglio diventa invisibile fino alla fine dell'incantesimo. Qualsiasi cosa il bersaglio stia indossando o trasportando diventa invisibile finché resta sul bersaglio. L'incantesimo ha fine per il bersaglio che attacca od esegue un incantesimo.
 
@@ -2534,11 +2717,12 @@ Lanci l'incantesimo a contatto di una creatura. Il bersaglio diventa invisibile 
 
 ### Invisibilità Superiore
 
-* **Lista**: Illusione
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Lanci l'incantesimo a contatto di una creatura. Il bersaglio diventa invisibile fino alla fine dell'incantesimo. Qualsiasi cosa indossata o trasportata dal bersaglio diventa invisibile finché resta addosso al bersaglio.
 
@@ -2546,11 +2730,12 @@ Eseguire incantesimi o azioni di attacco non fa diventare visibile.
 
 ### Invocare il Fulmine
 
-* **Lista**: Aria
-* **Livello**: 3, Comune
-* **Lancio**: 1 round
-* **Gittata**: 36 metri
-* **Durata**: Concentrazione, massimo 10 minuti
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 1 round |
+| **Gittata**: | 36 metri |
+| **Durata**: | Concentrazione, massimo 10 minuti |
 
 Una nube di tempesta compare nella forma di un cilindro alto 3 metri con un raggio di 18 metri, centrato su di un punto che puoi vedere, 30 metri sopra di te. L'incantesimo fallisce automaticamente se non puoi vedere il punto nell'aria dove apparirà la nube di tempesta (per esempio, se sei in una stanza che non può accogliere la nube). Quando lanci l'incantesimo, scegli un punto che puoi vedere entro la gittata. Un fulmine si abbatterà dalla nuvola su quel punto. Ogni creatura entro 1 metro da quel punto deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 3d10 danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Durante ciascun tuo round fino al termine dell'incantesimo, puoi usare due Azioni per richiamare un altro fulmine in questo modo, prendendo come bersaglio lo stesso punto o uno diverso.
 
@@ -2560,11 +2745,12 @@ Se quando lanci questo incantesimo ti trovi all'esterno in condizioni di tempest
 
 ### Labirinto
 
-* **Lista**: Evocazione
-* **Livello**: 8, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: massimo 10 minuti
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | massimo 10 minuti |
 
 Bandisci una creatura a gittata e che puoi vedere in un semipiano labirintico. Il bersaglio rimane lì per la durata dell'incantesimo o finché non fugge dal labirinto. Il bersaglio può impiegare 3 Azioni per tentare di fuggire a partire dal secondo round. Quando lo fa, effettua un Tiro Salvezza su Volontà. Se la supera, fugge, e l'incantesimo termina (un minotauro o un demone goristro riescono automaticamente).
 
@@ -2574,11 +2760,12 @@ Quando l'incantesimo termina, il bersaglio riappare nello spazio che aveva lasci
 
 ### Lacrima di Laydel
 
-* **Lista**: Illusione
-* **Livello**: 2, Molto Raro/Comune
-* **Lancio**: 2 Azione/1 Azione
-* **Gittata**: 36 metri
-* **Durata**: Istantaneo
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Molto Raro/Comune |
+| **Lancio**: | 2 Azione/1 Azione |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantaneo |
 
 L'incantatore permea di magia una lacrima che getta contro l'avversario, è necessario un Tiro per Colpire con Incantesimi a distanza.
 La creatura subisce 1d6+2d6 di danno, per stabilire il tipo di danno consultare la tabella con i valori del primo d6 tirato.
@@ -2599,21 +2786,23 @@ Per un Devoto di Laydel questo incantesimo è Comune e ha un tempo di lancio di 
 
 ### Lacrima di Ljust
 
-* **Lista**: Universale
-* **Livello**: 0, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: 10 round
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | 10 round |
 
 L'incantatore permea di magia un piccolo oggetto che incomincia a brillare di luce. La luce si illumina il suo quadretto ed un ulteriore metro attorno, oltre non genera luce fioca. La durata dell'incantesimo è 10 round. L'incantatore può lanciare l'oggetto entro 18 metri e deve rimanere entro questa distanza. Non è possibile lanciare l'incantesimo più volte al giorno di quanti Punti Fato si possiedono.
 
 ### Lama Infuocata
 
-* **Lista**: Fuoco
-* **Livello**: 2, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: Concentrazione, massimo 10 minuti
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, massimo 10 minuti |
 
 Crei nella tua mano una lama infuocata. La lama è simile in dimensioni e forma a una scimitarra e rimane per la durata. Se lasci andare la lama, questa sparisce, ma ne puoi creare un'altra con un'Azione. Puoi usare 2 Azioni per effettuare un attacco in mischia con la lama infuocata. Se colpisci, il bersaglio subisce 3d6 danni da fuoco. La lama infuocata emana luce intensa in un raggio di 3 metri e luce fioca per 6 metri.
 
@@ -2621,11 +2810,12 @@ Crei nella tua mano una lama infuocata. La lama è simile in dimensioni e forma 
 
 ### Lanciafiamme
 
-* **Lista**: Fuoco
-* **Livello**: 2, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Una fiammella compare al termine del tubo di metallo che tieni nella mano. La fiamma resta lì per la durata dell'incantesimo e non danneggia né te né il tuo equipaggiamento. La fiamma produce luce intensa nel raggio di 1 metro e luce fioca nel raggio di 1 metro. L'incantesimo termina se lo interrompi con un'Azione o se lo lanci di nuovo.
 
@@ -2635,22 +2825,25 @@ Con un Tiro per Colpire con incantesimo a distanza e spendendo 1 Azione puoi all
 
 ### Legame Telepatico
 
-* **Lista**: Divinazione
-* **Livello**: 5, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Stabilisci un collegamento telepatico tra un massimo di otto creature consenzienti a gittata di tua scelta, collegando psichicamente ciascuna creatura alle altre per la durata dell'incantesimo. Le creature con punteggio di Intelligenza -3 o meno ignorano questo incantesimo. Fino al termine dell'incantesimo, i bersagli possono comunicare telepaticamente tramite questo legame, che condividano o meno un linguaggio comune. La comunicazione è possibile a qualsiasi distanza, ma non può estendersi su differenti piani di esistenza.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 1 ora.
 
 ### Lentezza
-- **Lista**:: Trasmutazione
-- **Livello**:: 3, Non Comune
-- **Lancio**:: 2 Azioni
-- **Gittata**:: 36 metri
-- **Durata**:: 1 minuto, Concentrazione
+
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 minuto, Concentrazione |
 
 Rallenti il metabolismo di massimo 2 più le volte che hai preso Adepto della Magia creature a tua scelta in un raggio di 3 metri a gittata. Al lancio dell'incantesimo ciascun bersaglio deve superare un Tiro Salvezza su Volontà od eseguire una Azione in meno a round per la durata dell'incantesimo.
 
@@ -2662,11 +2855,12 @@ Questo incantesimo contrasta ed è contrastato da Velocità.
 
 ### Lettura della terra di Kyrin
 
-* **Lista**: Terra
-* **Livello**: 2, Non Comune
-* **Lancio**: 1 Round
-* **Gittata**: Personale (raggio di 30 metri)
-* **Durata**: Istantanea
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 1 Round |
+| **Gittata**: | Personale (raggio di 30 metri) |
+| **Durata**: | Istantanea |
 
 Appoggi le mani sulla terra e formulato l'incantesimo hai una fugace visione dell'ambiente intorno a te nel raggio sferico di 30 metri.
 Riesci a percepire la posizione e relativa forma delle creature e delle strutture che poggiano a terra.
@@ -2675,11 +2869,12 @@ Riesci a percepire la posizione e relativa forma delle creature e delle struttur
 
 ### Levitazione
 
-* **Lista**: Aria
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 10 minuti
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 10 minuti |
 
 Una creatura o oggetto a gittata che puoi vedere, scelto da te, si alza verticalmente fino a 6 metri e rimane sospeso per la durata dell'incantesimo. L'incantesimo può levitare un bersaglio pesante fino a 250 chili. Una creatura non consenziente che superi un Tiro Salvezza su Tempra ignora l'effetto.
 
@@ -2691,11 +2886,12 @@ Mentre sei sotto l'influenza di questo incantesimo sei considerato Distratto nel
 
 ### Lettura del Magico
 
-* **Lista**: Universale
-* **Livello**: 1, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Contatto
-* **Durata**: 1 minuto, finché usato
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto, finché usato |
 
 L'incantatore conferisce la capacità di leggere una pergamena o una scritta magica ad un bersaglio. Per la durata di 1 minuto o finché usato una volta, quale venga prima, la creatura riesce automaticamente a comprendere una pergamena magica od a lanciare il contenuto della pergamena rispettando i criteri e regole di lancio incantesimi da pergamena.
 
@@ -2703,11 +2899,12 @@ L'incantatore conferisce la capacità di leggere una pergamena o una scritta mag
 
 ### Libertà di Movimento
 
-* **Lista**: Abiurazione
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la sua durata, il movimento del bersaglio ignora il terreno difficile naturale, mentre gli incantesimi o altri effetti magici non possono ridurre la sua velocità né far sì che il bersaglio sia paralizzato o intralciato se hanno un DC inferiore a quella dell'incantesimo stesso.
 
@@ -2717,11 +2914,12 @@ Il bersaglio può usare due Azioni per liberarsi automaticamente da qualsiasi re
 
 ### Lingue
 
-* **Lista**: Divinazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Questo incantesimo conferisce alla creatura con cui sei stato in contatto al momento del lancio dell'incantesimo la capacità di comprendere qualsiasi linguaggio parlata che ode. Inoltre, quando il bersaglio parla, qualsiasi creatura che conosca almeno un linguaggio e può udire il bersaglio, comprende ciò che dice.
 
@@ -2729,11 +2927,12 @@ Questo incantesimo conferisce alla creatura con cui sei stato in contatto al mom
 
 ### Localizza Animali e Piante
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Descrivi o nomina uno specifico tipo di bestia o vegetale. Concentrandoti sulla voce della natura nei tuoi dintorni, apprendi la direzione e la distanza dalla più vicina creatura o vegetale di quella specie, se ce ne sono entro 7,5 chilometri.
 
@@ -2741,11 +2940,12 @@ Descrivi o nomina uno specifico tipo di bestia o vegetale. Concentrandoti sulla 
 
 ### Localizza Creatura
 
-* **Lista**: Animali o Piante
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Concentrazione, massimo 1 ora
+| **Lista**: | Animali o Piante |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, massimo 1 ora |
 
 Descrivi o nomina una creatura che ti è familiare. Percepisci la direzione della posizione della creatura, purché quella creatura si trovi entro 300 metri da te. Se la creatura si muove, conosci anche la direzione del suo movimento.
 
@@ -2757,11 +2957,12 @@ Questo incantesimo non può localizzare una creatura se un flusso di acqua corre
 
 ### Localizza Oggetto
 
-* **Lista**: Divinazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Concentrazione, massimo 10 minuti
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, massimo 10 minuti |
 
 Descrivi o nomina un oggetto che ti è familiare. Percepisci la direzione della posizione dell'oggetto, purché quell'oggetto si trovi entro 300 metri da te. Se l'oggetto si muove, conosci anche la direzione del suo movimento.
 
@@ -2773,11 +2974,12 @@ Questo incantesimo non può localizzare un oggetto se qualsiasi spessore di piom
 
 ### Loquacità
 
-* **Lista**: Trasmutazione
-* **Livello**: 8, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Fino al termine dell'incantesimo, quando effettui una prova basata sul Carisma puoi rimpiazzare il numero tirato con 15. Inoltre, non importa quello che dici, la magia o l'analisi che determina se stai dicendo la verità indicherà sempre che sei onesto.
 
@@ -2785,11 +2987,12 @@ Fino al termine dell'incantesimo, quando effettui una prova basata sul Carisma p
 
 ### Luce
 
-* **Lista**: Universale
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 30 minuti di tempo reale di gioco
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 30 minuti di tempo reale di gioco |
 
 Lanci l'incantesimo a contatto di un oggetto che non sia più grosso di 3 metri in qualsiasi direzione. Fino al termine dell'incantesimo, l'oggetto irradia una luce intensa in un raggio di 3 metri e penombra per ulteriori 6 metri. La luce può essere di qualsiasi colore tu voglia. Coprire completamente l'oggetto con qualcosa di opaco blocca la luce. Se un oggetto bersaglio è tenuto o indossato da una creatura ostile, quella creatura deve superare un Tiro Salvezza su Riflessi per evitare l'incantesimo. Una creatura colpita dall'incantesimo deve effettuare un Tiro Salvezza su Tempra o rimanere accecato fino alla fine del round successivo. Non puoi avere attivo più di un incantesimo Luce alla volta, un lancio successivo spegne la precedente Luce.
 
@@ -2797,11 +3000,12 @@ Lanci l'incantesimo a contatto di un oggetto che non sia più grosso di 3 metri 
 
 ### Luce Diurna
 
-* **Lista**: Invocazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 ora di tempo reale di gioco
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 ora di tempo reale di gioco |
 
 Una sfera di luce con raggio 6 metri si espande da un punto a tua scelta entro la gittata. La sfera irradia luce intensa e luce fioca per ulteriori 12 metri. Se scegli un punto su di un oggetto che stai reggendo o che non è indossato o trasportato, la luce si irradia dall'oggetto e si muove con esso. Coprire completamente un oggetto con qualcosa di opaco, come un vaso o un elmo, blocca la luce. Se qualsiasi parte dell'area di questo incantesimo si sovrappone con l'area di oscurità creata da un incantesimo di livello 3 o più basso, l'incantesimo che ha creato l'oscurità viene dissolto. La luce creata si considera luce solare.
 
@@ -2809,11 +3013,12 @@ Una sfera di luce con raggio 6 metri si espande da un punto a tua scelta entro l
 
 ### Luci Danzanti
 
-* **Lista**: Invocazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti di tempo reale di gioco
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti di tempo reale di gioco |
 
 Crei, a gittata, fino a quattro luci delle dimensioni di una torcia, facendole apparire come torce, lanterne o sfere luminose che fluttuano nell'aria per la durata dell'incantesimo. Puoi anche combinare le quattro luci in un'unica forma luminosa vagamente umanoide di taglia Media. Qualsiasi forma scegli, ciascuna luce emette una luce fioca in un raggio di 3 metri. Come 1 Azione di Movimento durante il tuo round, puoi spostare le luci fino a 18 metri in un nuovo punto a gittata.
 
@@ -2823,21 +3028,23 @@ Una luce deve trovarsi entro 6 metri da un'altra luce creata con questo incantes
 
 ### Luminescenza
 
-* **Lista**: Invocazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto di tempo reale di gioco
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto di tempo reale di gioco |
 
 Tutti gli oggetti in una sfera di 3 metri di raggio a gittata vengono circondati da una luce blu, verde o viola (a tua scelta). Qualsiasi creatura nell'area quando l'incantesimo viene lanciato, viene anch'essa circondata dalla luce se fallisce un Tiro Salvezza su Riflessi. Per la durata dell'incantesimo, gli oggetti e le creature soggette emettono una luce fioca con raggio di 3 metri. Qualsiasi Tiro per Colpire contro una creatura od oggetto soggetto ha +2 se l'attaccante può vederlo e la creatura od oggetto non può beneficiare dell'invisibilità.
 
 ### Onda rovente
 
-* **Lista**: Fuoco
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (cono di 3 metri)
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (cono di 3 metri) |
+| **Durata**: | Istantanea |
 
 Tieni le mani chiuse davanti a te, una potente onda rovente si genera da ogni tuo pugno. Ogni creatura in un cono di 3 metri deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 1d4 di danno per Competenza Magica, fino ad un massimo di 5d4, danni da fuoco se fallisce il Tiro Salvezza, o la metà se lo supera. Il calore incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati.
 
@@ -2847,11 +3054,12 @@ Tieni le mani chiuse davanti a te, una potente onda rovente si genera da ogni tu
 
 ### Mano Arcana
 
-* **Lista**: Invocazione
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Concentrazione, 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Concentrazione, 1 minuto |
 
 Crei una mano Grande, composta di energia trasparente e luminosa, in uno spazio non occupato a gittata e che puoi vedere. La mano permane per la durata dell'incantesimo, e si muove al tuo comando, imitando i movimenti della tua mano.
 
@@ -2873,11 +3081,12 @@ Se vinci la contesa, la mano spinge il bersaglio di 1 metro più 1 metro per mod
 
 ### Mano Magica
 
-* **Lista**: Evocazione
-* **Livello**: 0, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1d4 round +1 per punto di Competenza Magica
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1d4 round +1 per punto di Competenza Magica |
 
 Una mano spettrale fluttuante compare in un punto a gittata, scelto da te. La mano resta per la durata dell'incantesimo o finché non viene interrotta con un'Azione. La mano svanisce se si dovesse trovare a più di 9 metri da te o se lanci nuovamente l'incantesimo.
 
@@ -2887,11 +3096,12 @@ Le Azioni necessarie a muovere ed usare la mano magica sono le stesse che useres
 
 ### Marchio Magico
 
-* **Lista**: Universale
-* **Livello**: 0, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Permanente
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Permanente |
 
 Questo incantesimo permette di iscrivere una personale runa o marchio su un oggetto. La scritta non può essere lunga più di 15 cm. La scritta può essere visibile od invisibile a seconda di come si decide al momento del lancio della magia.
 Un incantesimo di Individuazione del Magico o Lettura del magico mostra la scritta se invisibile.
@@ -2901,11 +3111,12 @@ Se la scritta è posta su una creatura questa scompare nel giro di un mese.
 
 ### Messaggio
 
-* **Lista**: Trasmutazione
-* **Livello**: 0, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 round
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 round |
 
 Punti il dito verso una creatura a gittata e sussurri un messaggio breve. Il bersaglio (e solo il bersaglio) ode il messaggio e può replicare con un sussurro che solo tu puoi udire.
 
@@ -2915,11 +3126,12 @@ Puoi lanciare questo incantesimo anche attraverso oggetti solidi, se sei familia
 
 ### Metamorfosi
 
-* **Lista**: Animali e Piante
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 ora
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 ora |
 
 Questo incantesimo trasforma una creatura a gittata, che puoi vedere, in una nuova forma. Una creatura non consenziente deve superare un Tiro Salvezza su Volontà per evitare l'effetto. I mutaforma superano automaticamente il Tiro Salvezza. L'incantesimo non ha effetto su di un bersaglio con 0 Punti Ferita.
 
@@ -2929,11 +3141,12 @@ La creatura è limitata nelle azioni che può svolgere dalla natura della sua nu
 
 ### Metamorfosi Pura
 
-* **Lista**: Animali e Piante
-* **Livello**: 9, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 9, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Scegli una creatura od oggetto non magico a gittata e che puoi vedere. L'incantesimo non ha effetto su di un bersaglio con 0 Punti Ferita. Trasformi la creatura in una creatura diversa, la creatura in un oggetto, o l'oggetto in una creatura (l'oggetto non deve essere indossato né trasportato da un'altra creatura). La trasformazione permane per la durata dell'incantesimo o finché il bersaglio non scende a 0 Punti Ferita o muore. Se ti concentri su questo incantesimo per l'intera durata, la trasformazione diventa permanente.
 
@@ -2948,11 +3161,12 @@ I mutaforma ignorano questo incantesimo. Una creatura non consenziente può effe
 
 ### Miraggio Arcano
 
-* **Lista**: Illusione
-* **Livello**: 7, Raro
-* **Lancio**: 10 minuti
-* **Gittata**: Vista
-* **Durata**: 10 giorni
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Vista |
+| **Durata**: | 10 giorni |
 
 Fai sì che un pezzo di terreno a gittata, in un'area quadrata fino a 1,5 chilometri, appaia, risuoni e odori come qualche altro tipo di terreno. La conformazione generale del terreno rimane tuttavia la stessa. Campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia.
 
@@ -2964,11 +3178,12 @@ L'illusione comprende elementi uditivi, visivi, tattili e olfattivi, così da po
 
 ### Modificare Memoria
 
-* **Lista**: Ammaliamento
-* **Livello**: 5, Molto Raro
-* **Lancio**: 3 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 5, Molto Raro |
+| **Lancio**: | 3 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Tenti di rimodellare i ricordi di un'altra creatura. Una creatura che puoi vedere deve effettuare un Tiro Salvezza su Volontà. Se la stai combattendo, la creatura ha +1d6 sul Tiro Salvezza. Se fallisce il Tiro Salvezza puoi agire sui ricordi del bersaglio in merito a un evento che abbia vissuto nelle ultime 24 ore e che non sia durato più di 10 minuti.
 
@@ -2983,11 +3198,12 @@ Il Narratore può giudicare un ricordo modificato troppo insensato perché abbia
 
 ### Morte Apparente
 
-* **Lista**: Necromanzia
-* **Livello**: 3, Non Comune
-* **Lancio**: 1 Reazione
-* **Gittata**: 18 metri
-* **Durata**: 6 round più 1 round per CM
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 1 Reazione |
+| **Gittata**: | 18 metri |
+| **Durata**: | 6 round più 1 round per CM |
 
 L'incantatore induce in sé stesso, o in una creatura consenziente, uno stato di paralisi totale che sembra identico alla morte, anche in caso di esame approfondito. Una creatura influenzata sente suoni e odori, ma non si può muovere ed è completamente priva di percezioni tattili; se il corpo viene danneggiato, non percepirà alcun fastidio, né avrà alcuna reazione fisica. Tutto il danno inflitto a una creatura in questo stato viene ridotto della metà; i veleni e gli attacchi che paralizzano o prosciugano la vita non fanno effetto prima della scadenza di questo incantesimo. È necessario un round, terminato l'incantesimo, prima che il corpo possa riprendere le sue normali funzioni vitali.
 
@@ -2995,21 +3211,23 @@ L'incantatore induce in sé stesso, o in una creatura consenziente, uno stato di
 
 ### Movimenti del Ragno
 
-* **Lista**: Animali o Piante
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 10 minuti
+| **Lista**: | Animali o Piante |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 10 minuti |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Fino al termine dell'incantesimo, la creatura ottiene la capacità di spostarsi verso l'alto, il basso e lungo superfici verticali o stando a testa in giù sul soffitto, tenendo le mani libere. Il bersaglio ottiene anche velocità di scalata pari alla sua velocità di movimento. La creatura soggetta all'incantesimo si considera Distratta nel lancio di altri incantesimi.
 
 ### Muovere il Terreno
 
-* **Lista**: Terra
-* **Livello**: 6, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Concentrazione, massimo 2 ore
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Concentrazione, massimo 2 ore |
 
 Scegli un'area sul terreno a gittata, non più grande di 12 metri di lato. Per la durata, puoi rimodellare terriccio, sabbia o argilla nell'area in qualsiasi modo tu voglia. Puoi innalzare o abbassare l'altitudine dell'area, creare o riempire un fossato, erigere o abbassare un muro, o formare un pilastro. La portata di questi cambiamenti non può eccedere metà della dimensione più grossa dell'area. Così, se operi su di un quadrato di 12 metri di lato, puoi creare un pilastro alto 6 metri, innalzare o abbassare l'altitudine del terreno di 6 metri, scavare un fossato profondo 6 metri, e così via. Ci vogliono 10 minuti per completare questi mutamenti. Al termine di ogni 10minuti trascorsi a concentrarsi sull'incantesimo, puoi scegliere una nuova area di terreno su cui operare.
 
@@ -3017,21 +3235,23 @@ Dato che la trasformazione del terreno avviene lentamente, le creature nell'area
 
 ### Muro di Forza
 
-* **Lista**: Invocazione
-* **Livello**: 5, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti |
 
 Un invisibile muro di forza si forma in un punto a gittata scelto da te. Il muro appare in qualsiasi orientamento da te desiderato, come una barriera orizzontale o verticale oppure angolata. Può fluttuare nell'aria o appoggiarsi su di una superficie solida. Puoi darle la forma di una cupola semisferica o di una sfera con un raggio massimo di 3 metri, oppure darle l'aspetto di una superficie piana composta da un massimo di dieci pannelli di 3 metri per 3 metri. Ogni pannello deve essere contiguo a un altro pannello. In qualsiasi forma, il muro ha uno spessore di 75 centimetri e resta per tutta la durata dell'incantesimo. Se il muro taglia uno spazio di una creatura, quando compare, la creatura viene spinta da un lato del muro (a tua discrezione). Nulla può attraversare fisicamente il muro, chiunque al di là del muro ha copertura completa. È immune a tutti i danni e non può essere dissolto da dissolvi magie. Tuttavia, il muro è distrutto all'istante dall'incantesimo disintegrazione. Il muro si estende anche sul Piano Etereo, impedendo ai viaggiatori eterei di attraversarlo.
 
 ### Muro di Fuoco
 
-* **Lista**: Fuoco
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 minuto
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 minuto |
 
 Crei un muro di fuoco su di una superficie solida a gittata. Puoi creare un muro lungo fino a 18 metri, alto fino a 6 metri e spesso 30 centimetri, o un muro circolare di 6 metri di diametro, 6 metri di altezza e 30 centimetri di spessore. Il muro è opaco e rimane per la durata dell'incantesimo.
 
@@ -3041,11 +3261,12 @@ Quando il muro appare, ogni creatura nella sua area deve effettuare un Tiro Salv
 
 ### Muro di Ghiaccio
 
-* **Lista**: Acqua
-* **Livello**: 6, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 6, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti |
 
 Crei un muro di ghiaccio su di una superficie solida a gittata. Puoi creare una cupola semisferica o una sfera con un raggio massimo di 3 metri, o puoi creare una superficie piana composta di un massimo di dieci panelli quadrati di 3 metri di lato. Ogni pannello deve essere contiguo ad almeno un altro pannello. In ogni forma, il muro è spesso 30 centimetri e rimane per la durata dell'incantesimo.
 
@@ -3057,11 +3278,12 @@ Il muro è un oggetto che può essere danneggiato e sfondato. Ogni sezione di 3 
 
 ### Muro di Pietra
 
-* **Lista**: Invocazione
-* **Livello**: 5, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 5, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti |
 
 Un muro di pietra solida non magico si forma in un punto a gittata, scelto da te. Il muro è spesso 15 centimetri ed è composto da 10 pannelli di 3 per 3 metri. Ogni pannello deve essere contiguo ad almeno un altro pannello. In alternativa, puoi creare pannelli 3 x 6 metri di soli 7,5 centimetri di spessore.
 
@@ -3073,11 +3295,12 @@ Se crei un muro non verticale del genere, più lungo di 6 metri, devi dimezzare 
 
 ### Muro Prismatico
 
-* **Lista**: Abiurazione
-* **Livello**: 9, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 10 minuti
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 9, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 10 minuti |
 
 Un piano di luci brillanti e multicolore forma un muro verticale opaco, largo fino a 27 metri, alto 9 metri e spesso 2,5 centimetri, centrato su di un punto a gittata e che puoi vedere. In alternativa, puoi modellare il muro in una sfera, fino a 9 metri di diametro, centrata su di un punto a gittata di tua scelta. Il muro resta fisso sul posto per la durata dell'incantesimo. Se posizioni il muro in modo che attraversi lo spazio occupato da una creatura, l'incantesimo fallisce e lo slot incantesimo sono sprecati. Il muro irradia luce intensa fino a una gittata di 18 metri e luce fioca per 36 metri. Tu e le creature indicate da te al momento del lancio dell'incantesimo potete attraversare e restare vicini al muro senza pericolo. Se un'altra creatura che può vedere il muro si muove entro 6 metri da esso o inizia lì il suo round, deve superare un Tiro Salvezza su Tempra o restare accecata per 1 minuto. Il muro consiste di sette strati, ognuno di un diverso colore. Quando una creatura cerca di immergersi o attraversare il muro, lo fa uno strato alla volta, attraverso tutti gli strati del muro. Mentre si immerge o attraversa ciascuno strato, la creatura deve superare un Tiro Salvezza su Riflessi o subire le proprietà di ciascuno strato, uno alla volta, come descritto di seguito.
 
@@ -3092,11 +3315,12 @@ Il muro può essere distrutto, uno strato alla volta, in ordine dal rosso al vio
 
 ### Muro di Spine
 
-* **Lista**: Animali e Piante
-* **Livello**: 6, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: massimo 10 minuti
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | massimo 10 minuti |
 
 Crei un muro di cespugli robusti, malleabili e impigliati, ricolmi di spine appuntite. Il muro compare a gittata su di una superficie solida e rimane per la durata dell'incantesimo. Il muro che puoi creare può essere lungo fino a 18 metri, alto fino a 3 metri, e spesso fino a 1 metro o un circolo che abbia un diametro di 6 metri e sia alto fino a 6 metri e spesso 1 metro. Il muro blocca la linea di visuale.
 
@@ -3106,11 +3330,12 @@ Quando il muro compare, ogni creatura nella sua area deve effettuare un Tiro Sal
 
 ### Muro di Vento
 
-* **Lista**: Aria
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 minuto
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 minuto |
 
 Un muro di forte vento si leva dal terreno in un punto a gittata di tua scelta. Puoi creare un muro lungo fino a 15 metri, alto 3 metri e spesso 30 centimetri. Puoi modellare il muro in qualsiasi maniera desideri purché componga un percorso continuo sul terreno. Il muro rimane per la durata dell'incantesimo. Quando il muro appare, ogni creatura all'interno della sua area deve effettuare un Tiro Salvezza su Tempra. Una creatura subisce 3d8 danni contundenti se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Il forte vento tiene lontana foschia, fumo e altri gas. Le creature volanti di taglia Piccola o minore non possono attraversare il muro. I materiali leggeri trascinati nel muro volano verso l'alto. Frecce, quadrelli e altre munizioni normali vengono deviati e mancano automaticamente il bersaglio (i macigni scagliati dai giganti e dalle macchine d'assedio, e munizioni simili, ne ignorano invece gli effetti). Le creature in forma gassosa non possono attraversarlo.
 
@@ -3118,11 +3343,12 @@ Un muro di forte vento si leva dal terreno in un punto a gittata di tua scelta. 
 
 ### Nube Incendiaria
 
-* **Lista**: Fuoco
-* **Livello**: 8, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: 1 minuto
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | 1 minuto |
 
 Una nube di fumo turbinante attraversata da lapilli incandescenti si forma in una sfera di 6 metri di raggio centrata su di un punto a gittata. La nube si propaga intorno agli angoli ed è in penombra. Rimane per la durata dell'incantesimo o finché un vento di velocità moderata o superiore (almeno 15 chilometri all'ora) non la disperde.
 
@@ -3132,21 +3358,23 @@ All'inizio di ciascun tuo round, la nube si muove di 3 metri lontano da te in un
 
 ### Nebbia Nauseante
 
-* **Lista**: Acqua, Aria
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 27 metri
-* **Durata**: 10 minuti
+| **Lista**: | Acqua, Aria |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | 10 minuti |
 
 Crei, in un punto a gittata, una sfera di 6 metri di raggio composta di un gas giallo e nauseabondo. La nebbia si propaga dietro gli angoli e la sua area è in penombra. La nebbia permane nell'aria per la durata. Ogni creatura che si trovi completamente all'interno della nebbia all'inizio del proprio round, deve effettuare un Tiro Salvezza su Tempra contro il veleno. Se il Tiro Salvezza fallisce, la creatura spende 2 Azioni di quel round a vomitare e barcollare. Le creature che non hanno bisogno di respirare o che sono immuni al veleno superano automaticamente il Tiro Salvezza. Un vento moderato (almeno 15 chilometri all'ora) disperde la nebbia dopo 4 round. Un vento forte (almeno 30 chilometri all'ora) lo disperde dopo 1 round.
 
 ### Nebbia mortale
 
-* **Lista**: Acqua
-* **Livello**: 5, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti |
 
 Crei una sfera di 6 metri di raggio formata da una nebbia velenosa giallo-verde centrata in un punto a gittata di tua scelta. La nebbia si propaga dietro gli angoli. Rimane per la durata dell'incantesimo o finché un forte vento non disperde la nebbia, terminando l'incantesimo. La sua area è in penombra. Quando una creatura entra nell'area dell'incantesimo per la prima volta in un round o inizia lì il suo round, quella creatura deve effettuare un Tiro Salvezza su Tempra. La creatura subisce 5d8 danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Le creature ne sono soggette anche se trattengono il respiro o non hanno bisogno di respirare. La nebbia si allontana di 3 metri da te all'inizio di ogni tuo round, spostandosi lungo la superficie del terreno. I vapori, essendo più pesanti dell'aria, tendono a scendere verso il basso, arrivando addirittura a insinuarsi nelle aperture.
 
@@ -3154,11 +3382,12 @@ Crei una sfera di 6 metri di raggio formata da una nebbia velenosa giallo-verde 
 
 ### Nube di Nebbia
 
-* **Lista**: Acqua, Aria
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 ora
+| **Lista**: | Acqua, Aria |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 ora |
 
 Crei una sfera di foschia del raggio di 6 metri centrata su di un punto a gittata. La sfera si propaga intorno agli angoli, e la sua area è in penombra. Rimane per la durata dell'incantesimo o finché un vento di velocità moderata o superiore (almeno 15 chilometri all'ora) non la disperde.
 
@@ -3166,11 +3395,12 @@ Crei una sfera di foschia del raggio di 6 metri centrata su di un punto a gittat
 
 ### Occhio Arcano
 
-* **Lista**: Divinazione
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Concentrazione, massimo 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Concentrazione, massimo 1 ora |
 
 Crei a gittata un occhio magico e invisibile, che fluttua nell'aria per la durata dell'incantesimo.
 
@@ -3178,11 +3408,12 @@ Ricevi mentalmente le informazioni visive dall'occhio, che ha vista normale e sc
 
 ### Onda Tonante
 
-* **Lista**: Aria
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Un'onda di forza tonante si proietta da te. Ogni creatura in una sfera di 2 metri di raggio che origina da te deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza una creatura subisce 2d8 danni da suono e viene allontana 3 metri da te. Se supera il Tiro Salvezza, la creatura subisce la metà dei danni e non viene allontanata. Gli oggetti non ancorati che sono totalmente all'interno dell'area vengono spinti 3 metri lontano da te dall'effetto dell'incantesimo. L'incantesimo produce un rimbombo tonante udibile fino a 90 metri.
 
@@ -3190,11 +3421,12 @@ Un'onda di forza tonante si proietta da te. Ogni creatura in una sfera di 2 metr
 
 ### Oscurità
 
-* **Lista**: Invocazione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 10 minuti
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 10 minuti |
 
 L'oscurità magica si propaga da un punto a gittata, scelto da te, per riempire una sfera di 3 metri di raggio per la durata dell'incantesimo. L'oscurità si propaga intorno agli angoli. Una creatura con scurovisione non può vedere in questa oscurità, e la luce non magica non può illuminarla.
 
@@ -3204,11 +3436,12 @@ Se qualsiasi parte dell'area di questo incantesimo si sovrappone con l'area di l
 
 ### Palla di fango di Eithne
 
-* **Lista**: Terra
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 24 metri
-* **Durata**: Istantanea
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 24 metri |
+| **Durata**: | Istantanea |
 
 L'incantatore mima il gesto di tirare un sasso con una fionda in direzione del bersaglio ed esegue un Tiro per Colpire con incantesimi a distanza.
 Se il Tiro per Colpire va a segno il bersaglio subisce 2d6 di danni contundenti e deve effettuare un Tiro Salvezza su Riflessi. Se il tiro salvezza fallisce il movimento del bersaglio diminuisce di 2 metri per 1 minuto.
@@ -3219,11 +3452,12 @@ Se il Tiro per Colpire va a segno il bersaglio subisce 2d6 di danni contundenti 
 
 ### Palla di Fuoco
 
-* **Lista**: Fuoco
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Un fascio di luce gialla parte dal tuo dito puntato verso un punto a gittata scelto da te e poi esplode con un boato roboante e si trasforma in lingua di fiamme.
 
@@ -3237,11 +3471,12 @@ Il fuoco si propaga ed occupa tutto il volume disponibile entro i 6 metri dal pu
 
 ### Palla di Fuoco Ritardata
 
-* **Lista**: Fuoco
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Concentrazione, 1 minuto
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Concentrazione, 1 minuto |
 
 Un fascio di luce gialla parte dal tuo dito puntato, per condensarsi per la durata dell'incantesimo nella forma di una pallina luminosa in un punto a gittata, scelto da te. Quando l'incantesimo termina, o perché la tua concentrazione è spezzata o perché decidi tu di porgli fine, la pallina esplode con un boato sommesso e si trasforma in un getto di fiamme che si propaga dietro gli angoli. Ogni creatura in una sfera di 6 metri di raggio centrata in quel punto deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce danni da fuoco pari al danno totale accumulato se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera. Il danno base dell'incantesimo è 12d6. Se al termine del tuo round la pallina non è ancora detonata, il danno aumenta di 1d6.
 
@@ -3255,11 +3490,12 @@ Il fuoco danneggia gli oggetti nell'area e incendia gli oggetti infiammabili che
 
 ### Parlare con gli Animali
 
-* **Lista**: Animali e Piante
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 10 minuti
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 10 minuti |
 
 Per la durata dell'incantesimo, ottieni la capacità di comprendere e comunicare verbalmente con le bestie. Il sapere e la consapevolezza di molte bestie sono limitati dal loro intelletto ma, come minimo, le bestie possono fornirti informazioni riguardo luoghi e mostri nelle vicinanze, compresi quelli che possono percepire o hanno percepito nei giorni passati. A discrezione del Narratore potresti riuscire a convincere una bestia a farti un piccolo favore.
 
@@ -3267,31 +3503,34 @@ Per la durata dell'incantesimo, ottieni la capacità di comprendere e comunicare
 
 ### Parlare con i Morti
 
-* **Lista**: Necromanzia
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 3 metri
-* **Durata**: 10 minuti
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 3 metri |
+| **Durata**: | 10 minuti |
 
 Conferisci un'apparenza di vita e Intelligenza a un cadavere a gittata, scelto da te, permettendogli di rispondere alle domande che gli poni. Il cadavere deve avere ancora una bocca e non può essere non morto. L'incantesimo fallisce se il cadavere è già stato bersaglio di questo incantesimo negli ultimi 10 giorni. Fino al termine dell'incantesimo, puoi porre al cadavere fino a cinque domande. Il cadavere conosce solo quello che già sapeva in vita, compresi i linguaggi parlati. Le risposte sono di solito brevi, criptiche o ripetitive, e il cadavere non è sotto nessun obbligo a darti risposte veritiere se gli sei ostile o ti riconosce come suo nemico. Questo incantesimo non riporta l'anima della creatura nel corpo, ma solo lo spirito che lo muove. Di conseguenza, il cadavere non può apprendere nuove informazioni, non capisce nulla di quello che è successo da quando è morto, e non può fare valutazioni su eventi futuri.
 
 ### Parlare con le Creature
 
-* **Lista**: Animali e Piante, Divinazione
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Animali e Piante, Divinazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Questo incantesimo è una versione più potente di parlare con gli animali, che consente di parlare con qualsiasi creatura entro la gittata, indipendentemente dalla sua natura o intelligenza (che deve essere maggiore di -5).
 
 ### Parlare con le Piante
 
-* **Lista**: Animali e piante
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (raggio di 9 metri)
-* **Durata**: 10 minuti
+| **Lista**: | Animali e piante |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (raggio di 9 metri) |
+| **Durata**: | 10 minuti |
 
 Infondi i vegetali entro 9 metri da te di capacità senziente e di limitata mobilità, dandole la capacità di comunicare con te ed eseguire dei semplici comandi. Puoi interrogare i vegetali in merito a eventi avvenuti nell'ultimo giorno nell'area dell'incantesimo, ottenendo informazioni sulle creature di passaggio, il clima e altro. Puoi anche trasformare il terreno difficile prodotto dalla crescita dei vegetali (come cespugli e fitto sottobosco) in terreno ordinario per la durata dell'incantesimo.
 
@@ -3301,11 +3540,12 @@ A discrezione del Narratore i vegetali potrebbero svolgere anche altri compiti p
 
 ### Parola Divina
 
-* **Lista**: Invocazione
-* **Livello**: 7, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 7, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Pronunci una parola divina, infusa del potere del tuo Patrono. Scegli un qualsiasi numero di creature a gittata e che puoi vedere. Ogni creatura che può udirti deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura subisce un effetto in base ai suoi attuali Punti Ferita:
 
@@ -3318,31 +3558,34 @@ Quali che siano i suoi attuali Punti Ferita, un celestiale, elementale, fatato o
 
 ### Parola del Potere Stordire
 
-* **Lista**: Ammaliamento
-* **Livello**: 8, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuti
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 8, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuti |
 
 Pronunci una parola di potere che può travolgere la mente di una creatura a gittata e che puoi vedere. Se il bersaglio ha 150 Punti Ferita o meno, è stordito per 2d4 round, altrimenti l'incantesimo non ha effetto.
 
 ### Parola del Potere Uccidere
 
-* **Lista**: Ammaliamento
-* **Livello**: 9, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 9, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Pronunci una parola di potere che costringe a morire all'istante una creatura a gittata che puoi vedere. Se la creatura che scegli ha 100 Punti Ferita o meno, muore. Altrimenti l'incantesimo non ha effetto.
 
 ### Parola del Ritiro
 
-* **Lista**: Evocazione
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 1 metro
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 1 metro |
+| **Durata**: | Istantanea |
 
 Te e fino a cinque creature consenzienti entro 1 metro da te vi teletrasportate istantaneamente in un luogo sicuro indicato precedentemente, detto santuario. Tu e tutte le creature teletrasportate con te, riapparite nello spazio non occupato più vicino al punto indicato quando hai preparato questo santuario (vedi sotto). Se lanci questo incantesimo senza aver prima preparato un santuario, l'incantesimo non ha effetto.
 
@@ -3352,11 +3595,12 @@ Devi indicare un santuario, che sia dedicato o fortemente collegato al tuo Patro
 
 ### Passa Porta
 
-* **Lista**: Terra
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 ora
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 ora |
 
 Per la durata dell'incantesimo, compare un passaggio in un punto a gittata che puoi vedere, su di una superficie di legno, muro o pietra (come una parete, un soffitto o un pavimento) scelta da te. Scegli le dimensioni dell'apertura: al massimo larga 1 metro, alta 2 metri e profonda 6 metri. Il passaggio non crea instabilità nella struttura che lo circonda.
 
@@ -3366,11 +3610,12 @@ Quando l'apertura sparisce, qualsiasi creatura od oggetto ancora nel passaggio c
 
 ### Passare Senza Tracce
 
-* **Lista**: Terra, Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Creatura toccata
-* **Durata**: 1 ora
+| **Lista**: | Terra, Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Creatura toccata |
+| **Durata**: | 1 ora |
 
 Per la durata dell'incantesimo la creatura toccata non lascia tracce sul terreno.
 
@@ -3378,11 +3623,12 @@ Per la durata dell'incantesimo la creatura toccata non lascia tracce sul terreno
 
 ### Passo Velato
 
-* **Lista**: Evocazione
-* **Livello**: 2, Raro
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Avvolto rapidamente da una foschia argentata, ti teletrasporti di massimo 9 metri in uno spazio non occupato che puoi vedere.
 
@@ -3392,11 +3638,12 @@ Avvolto rapidamente da una foschia argentata, ti teletrasporti di massimo 9 metr
 
 ### Passo Veloce
 
-* **Lista**: Trasmutazione
-* **Livello**: 1, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 1, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Il movimento di una creatura aumenta di 1 metro fino al termine dell'incantesimo.
 
@@ -3404,11 +3651,12 @@ Il movimento di una creatura aumenta di 1 metro fino al termine dell'incantesimo
 
 ### Paura
 
-* **Lista**: Illusione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (cono di 9 metri)
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (cono di 9 metri) |
+| **Durata**: | 1 minuto |
 
 Proietti un'immagine illusoria delle peggiori paure di una creatura. Ogni creatura in un cono di 9 metri deve superare un Tiro Salvezza su Volontà o far cadere qualsiasi cosa stia impugnando e restare Spaventata per la durata dell'incantesimo.
 
@@ -3416,21 +3664,23 @@ Mentre è spaventata da questo incantesimo, una creatura deve, durante ciascun s
 
 ### Pelle di Corteccia
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 La pelle del bersaglio con cui sei in contatto al momento del lancio dell'incantesimo diventa ruvida e dall'aspetto simile alla corteccia fino al termine dell'incantesimo e la Difesa naturale del bersaglio aumenta di 1 + 1/6 Competenza Magica indipendentemente dall'armatura che stia indossando.
 
 ### Pelle di Pietra
 
-* **Lista**: Terra
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Lanci l'incantesimo a contatto di una creatura consenziente, la cui pelle si tramuta in una sostanza dura come la pietra. Tira 1d4+metà del valore di CM, la somma risultante è le volte che un attacco con arma di mischia o distanza viene annullato (indipendentemente che di colpisca o meno).
 
@@ -3438,11 +3688,12 @@ Lanci l'incantesimo a contatto di una creatura consenziente, la cui pelle si tra
 
 ### Piaga degli Insetti
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 90 metri
-* **Durata**: 10 minuti
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 90 metri |
+| **Durata**: | 10 minuti |
 
 Uno sciame di locuste affamate riempie una sfera di 6 metri di raggio centrata in un punto a gittata scelto da te. La sfera si propaga intorno agli angoli. La sfera rimane per la durata dell'incantesimo, e la sua area è in penombra. L'area della sfera è terreno difficile.
 
@@ -3453,11 +3704,13 @@ Quando l'area appare, ogni creatura al suo interno deve effettuare un Tiro Salve
 ### Pietra in Fango
 
 ### Fango in Pietra
-- **Lista**:: Terra
-- **Livello**:: 5, Non Comune - Molto Raro
-- **Lancio**:: 2 Azioni
-- **Gittata**:: 45 metri
-- **Durata**:: Istantanea
+
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 5, Non Comune - Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Questo incantesimo trasforma qualsiasi tipo di roccia naturale in un eguale volume di fango. La pietra magica non viene influenzata dall'incantesimo. L'incantesimo ha effetto fino a 2 cubi di 3x3x3 metri. La profondità del fango creato non può superare i 3 metri. Le creature incapaci di Volare, levitare o allontanarsi in qualche modo dal fango affondano fino alla vita o fino al petto; le creatura sono intralciate ed il terreno diviene doppiamente difficile. Le creature abbastanza grandi da camminare sul fondo della pozza di fango possono guadare l'area come terreno difficile.
 
@@ -3472,22 +3725,25 @@ Se una creatura è nel fango al momento dell'incantesimo Fango in Pietra può ef
 
 ### Pietre Parlanti
 
-* **Lista**: Terra, Divinazione
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Tocco
-* **Durata**: 1 turno
+| **Lista**: | Terra, Divinazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Tocco |
+| **Durata**: | 1 turno |
 
 L'incantatore acquisisce la capacità di parlare con le pietre, le quali possono dire chi o cosa le abbia toccate e rivelare ciò che nascondono dietro o sotto di loro. Le pietre forniscono descrizioni accurate a richiesta, anche se potrebbero non fornire i dettagli desiderati in certe situazioni. L'incantatore può parlare con pietre sia naturali che lavorate.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia oppure può parlare con un altra pietra entro 18 metri dalla prima.
 
 ### Pioggia di Meteore
-- **Lista**:: Fuoco, Terra
-- **Livello**:: 9, Leggendario
-- **Lancio**:: 3 Azioni
-- **Gittata**:: 1,5 chilometri
-- **Durata**:: Istantanea
+
+| **Lista**: | Fuoco, Terra |
+| --- | --- |
+| **Livello**: | 9, Leggendario |
+| **Lancio**: | 3 Azioni |
+| **Gittata**: | 1,5 chilometri |
+| **Durata**: | Istantanea |
 
 4 meteoriti di fuoco si schiantano a terra in quattro punti differenti a gittata e che puoi vedere. Ogni meteorite colpisce in un raggio di 3 metri. Ogni creatura interessata deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 20d6 danni da fuoco e 20d6 danni contundenti se fallisce il Tiro Salvezza, o la metà di
 questi danni se lo supera. Una creatura se nell'area di più di un meteorite ne subisce gli effetti solo do uno.
@@ -3498,11 +3754,12 @@ questi danni se lo supera. Una creatura se nell'area di più di un meteorite ne 
 
 ### Piroesperto
 
-* **Lista**: Fuoco
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 L'incantatore sceglie un'area con un fuoco, di almeno 1 metro di spigolo, entro gittata che sia a lui direttamente visibile. Estinguendo le fiamme può creare fuochi d'artificio o fumo.
 
@@ -3511,21 +3768,23 @@ L'incantatore sceglie un'area con un fuoco, di almeno 1 metro di spigolo, entro 
 
 ### Polvere luccicante
 
-* **Lista**: Fuoco, Aria
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 round per CM
+| **Lista**: | Fuoco, Aria |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 round per CM |
 
 In una sfera di 3 metri di diametro chiunque si trovi viene ricoperto da polvere luccicante e luminosa. La nuvola delinea le creature presenti, anche quelle invisibili e chiunque permanga nell'area deve fare ad inizio round un Tiro Salvezza su Riflessi od essere accecata per il round. La polvere scompare naturalmente dopo la durata o se portata via da un vento anche leggero.
 
 ### Porta Dimensionale
 
-* **Lista**: Evocazione
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 150 metri
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 150 metri |
+| **Durata**: | Istantanea |
 
 Ti teletrasporti dalla tua attuale posizione in qualsiasi altro posto a gittata. Arrivi esattamente nel posto desiderato. Può essere un luogo che puoi vedere, uno che puoi visualizzare, o uno che puoi descrivere indicando distanza e direzione, come *30 metri verso il basso* o *90 metri in alto a nordovest con un angolo di 45 gradi*.
 
@@ -3537,11 +3796,12 @@ Se dovessi arrivare in un posto già occupato da un oggetto o creatura, tu e la 
 
 ### Preghiera
 
-* **Lista**: Invocazione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 round per livello, Concentrazione
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 round per livello, Concentrazione |
 
 Intoni un canto al tuo Patrono e ne invochi la benedizione. Le creature entro 9 metri da te prendono un +1 al Tiro per Colpire e Tiro Salvezza per tratto in comune con il Patrono.
 
@@ -3551,11 +3811,12 @@ Le creature con Tratti diversi dal Patrono prendono un -1 hai Tiri per Colpire e
 
 ### Preghiera di Guarigione
 
-* **Lista**: Cura
-* **Livello**: 2, Comune
-* **Lancio**: 10 minuti
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Fino a sei creature a gittata che puoi vedere, scelte da te, recuperano ciascuna Punti Ferita pari a 2d6 + il tuo modificatore di caratteristica per incantesimi. Questo incantesimo causa lo stesso ammontare di danno sui non morti.
 
@@ -3563,11 +3824,12 @@ Fino a sei creature a gittata che puoi vedere, scelte da te, recuperano ciascuna
 
 ### Presagio
 
-* **Lista**: Divinazione
-* **Livello**: 2, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Personale
-* **Durata**: Istantanea
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Personale |
+| **Durata**: | Istantanea |
 
 Gettando bastoncini intarsiati con gemme, facendo rotolare ossa di drago, impilando carte elaborate o impiegando qualche altro strumento di divinazione, ricevi un presagio da un'entità ultraterrena riguardo il risultato di uno specifico corso di azione che intendi intraprendere nei prossimi 30 minuti. Il Narratore sceglie tra i seguenti presagi:
 
@@ -3583,11 +3845,12 @@ L'incantesimo non tiene conto di ogni possibile circostanza che possa modificare
 
 ### Prestidigitazione
 
-* **Lista**: Universale
-* **Livello**: 0, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 3 metri
-* **Durata**: Massimo 1 ora
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 3 metri |
+| **Durata**: | Massimo 1 ora |
 
 Questo incantesimo è un trucco magico minore che gli incantatori novizi impiegano per fare pratica. Crei a gittata uno dei seguenti effetti magici:
 
@@ -3604,21 +3867,23 @@ Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti no
 
 ### Previsione
 
-* **Lista**: Divinazione
-* **Livello**: 9, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Contatto
-* **Durata**: 8 ore
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 9, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Contatto |
+| **Durata**: | 8 ore |
 
 Lanci l'incantesimo a contatto di una creatura consenziente per conferirle una limitata capacità di vedere nell'immediato futuro. Per la durata, il bersaglio non può essere sorpreso e ha +1d6 sui Tiri per Colpire, prove su competenze di base e Tiri Salvezza. Inoltre, sempre per la durata, le altre creature hanno -1d6 sui Tiri per Colpire contro il bersaglio. L'incantesimo ha immediatamente termine se lo lanci di nuovo prima che la sua durata abbia fine.
 
 ### Produrre Fiamma
 
-* **Lista**: Fuoco
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: 10 minuti
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | 10 minuti |
 
 Una fiammella compare nella tua mano. La fiammella resta lì per la durata dell'incantesimo e non danneggia né te né il tuo equipaggiamento. La fiamma produce luce fioca nel raggio di 1 metro. L'incantesimo termina se lo interrompi con un'Azione o se lo lanci di nuovo.
 
@@ -3630,17 +3895,25 @@ Il danno dell'incantesimo aumenta di 1d8 quando raggiungi CM 5, CM 11 e CM 17, m
 
 ### Profumo di Atherim
 
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 4, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, fino a 10 minuti |
+
 Un profumo si irradia da te in un raggio di 4 metri per tutta la durata. Mentre si trovano in questo profumo tu e i tuoi alleati avete Resistenza ai danni da veleno e +4 ai Tiri Salvezza per evitare o terminare effetti che includono le condizioni di Accecato, Affascinato, Assordato, Spaventato, Paralizzato, Avvelenato o Stordito.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia allarghi il raggio del profumo di 1 metro.
 
 ### Proibizione
 
-* **Lista**: Abiurazione
-* **Livello**: 6, Non Comune
-* **Lancio**: 10 minuti
-* **Gittata**: Contatto
-* **Durata**: 1 giorno
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 giorno |
 
 Crei una interdizione al viaggio magico che protegge fino a 4000 metri quadri di pavimento, fino a un'altezza di 9 metri dal suolo. Per la durata dell'incantesimo, le creature non possono teletrasportarsi nell'area o usare passaggi, come quello creato dall'incantesimo portale, per entrare nell'area. L'incantesimo protegge l'area dal viaggio planare, e quindi impedisce alle creature di accedere all'area tramite il Piano Astrale, il Piano Etereo od il Piano delle Ombre.
 
@@ -3652,11 +3925,12 @@ L'area dell'incantesimo non può sovrapporsi all'area di un altro incantesimo pr
 
 ### Protezione dall'Energia
 
-* **Lista**: Abiurazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 10 minuti
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 10 minuti |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ha resistenza a un tipo di danno scelto da te: acido, freddo, fuoco, fulmine o suono. Puoi sacrificare tutta la durata dell'incantesimo, terminandolo, per annullare completamente il danno subito da una fonte di energia.
 
@@ -3664,11 +3938,12 @@ Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'
 
 ### Protezione dall'Energia minore
 
-* **Lista**: Abiurazione
-* **Livello**: 1, Raro
-* **Lancio**: 1 Reazione
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 1, Raro |
+| **Lancio**: | 1 Reazione |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ha Riduzione al Danno dall'energia scelta pari a 5. Puoi sacrificare tutta la durata dell'incantesimo, terminandolo, per ridurre di 20 il danno subito da una fonte di energia (come se avessi Resistenza al Danno 20 da quella fonte di energia).
 
@@ -3676,11 +3951,12 @@ Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'
 
 ### Protezione dai Veleni
 
-* **Lista**: Abiurazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Per la durata dell'incantesimo, il bersaglio ha +1d6 ai Tiri Salvezza contro l'essere avvelenato, e ha resistenza al danno da veleno.
 
@@ -3688,11 +3964,12 @@ Per la durata dell'incantesimo, il bersaglio ha +1d6 ai Tiri Salvezza contro l'e
 
 ### Punizione Marchiante
 
-* **Lista**: Invocazione
-* **Livello**: 2, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 La prossima volta che colpisci una creatura con un attacco in mischia con arma nella durata dell'incantesimo, l'arma riluce di un bagliore magico mentre colpisci. L'attacco infligge 1d6 danni da Luce aggiuntivi al bersaglio, che diventa visibile qualora sia invisibile ed emette luce fioca in un raggio di 1 metro. Inoltre il bersaglio non può diventare invisibile fino al termine dell'incantesimo.
 
@@ -3700,21 +3977,23 @@ La prossima volta che colpisci una creatura con un attacco in mischia con arma n
 
 ### Purificare Cibo e Bevande
 
-* **Lista**: Animali e Piante
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 3 metri
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 3 metri |
+| **Durata**: | Istantanea |
 
 Tutti i cibi e le bevande non magiche in una sfera di 1 metro di raggio, centrata in un punto a gittata di tua scelta, vengono purificati e liberati da veleni e malattie. Un cibo in decomposizione viene ripulito e reso commestibile.
 
 ### Raggio di Gelo
 
-* **Lista**: Acqua
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Un fascio gelato di luce azzurra colpisce una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, egli subisce 1d8 danni da freddo, e la sua velocità è ridotta di 3 metri fino all'inizio del tuo prossimo round.
 
@@ -3724,11 +4003,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Raggio di Indebolimento
 
-* **Lista**: Necromanzia
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto |
 
 Un fascio nero di energia debilitante parte dal tuo dito diretto contro una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio, quando attacca con un arma che usa la Forza come modificatore, tirerà due volte per il danno prendendo il risultato inferiore fino al termine dell'incantesimo. Non si può essere influenzati da più di un Raggio di Indebolimento al giorno.
 
@@ -3736,11 +4016,12 @@ Un fascio nero di energia debilitante parte dal tuo dito diretto contro una crea
 
 ### Raggio mortale
 
-* **Lista**: Necromanzia
-* **Livello**: 2, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 6 metri
-* **Durata**: Istantaneo
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 6 metri |
+| **Durata**: | Istantaneo |
 
 Un fascio nero di energia crepitante parte dalle tue mani verso una creatura a gittata. Effettua un attacco a distanza con incantesimo contro il bersaglio. Indipendentemente dal fatto se colpisci o meno, il bersaglio deve effettuare un Tiro Salvezza su Tempra.
 
@@ -3754,11 +4035,12 @@ La condizione Affaticato della creatura aumenta di 1
 
 ### Raggio Rovente
 
-* **Lista**: Fuoco
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | Istantanea |
 
 Crei tre raggi di fuoco e li proietti verso tre bersagli a gittata. Puoi proiettarli contro lo stesso bersaglio o bersagli diversi. Effettua un attacco a distanza con incantesimo per ciascun raggio. Se colpisci, il bersaglio subisce 2d6 danni da fuoco.
 
@@ -3766,11 +4048,12 @@ Crei tre raggi di fuoco e li proietti verso tre bersagli a gittata. Puoi proiett
 
 ### Ragnatela
 
-* **Lista**: Animali e Piante
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 ora
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 ora |
 
 Evochi una spessa massa di tela densa e appiccicosa in un punto a gittata, scelto da te. Per la durata, la ragnatela riempie una sfera di 3 metri di raggio dal punto designato. La ragnatela è terreno difficile e rende quell'area oscurata leggermente.
 
@@ -3784,11 +4067,12 @@ La ragnatela è infiammabile e se esposta alle fiamme prende fuoco immediatament
 
 ### Randello Incantato
 
-* **Lista**: Animali e Piante
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Il legno di un randello o bastone da combattimento che stai impugnando viene infuso del potere della natura. Per la durata dell'incantesimo, usando quell'arma puoi usare la tua caratteristica da incantatore al posto della Forza per il danno e Tiri per Colpire, il dado di danno dell'arma diventa un d8. L'arma diventa anche magica, se già non lo è. L'incantesimo ha termine se lo lanci di nuovo o se lasci l'arma.
 
@@ -3796,11 +4080,12 @@ Il legno di un randello o bastone da combattimento che stai impugnando viene inf
 
 ### Reggia Meravigliosa
 
-* **Lista**: Evocazione
-* **Livello**: 7, Leggendario
-* **Lancio**: 1 minuto
-* **Gittata**: 90 metri
-* **Durata**: 24 ore
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 7, Leggendario |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | 90 metri |
+| **Durata**: | 24 ore |
 
 Entro la gittata, evochi un'abitazione extradimensionale che rimane per la durata dell'incantesimo. Scegli dove è posizionato il suo portone d'ingresso. Il portone d'ingresso emette una lieve luminosità ed è largo 1 metro per 3 metri di altezza. Tu e tutte le creature da te indicate quando hai lanciato l'incantesimo potete entrare nell'abitazione extradimensionale, fino a quando il portone resta aperto. Puoi aprire o chiudere il portone se ti trovi entro 9 metri da esso. Mentre è chiuso, il portone è invisibile.
 
@@ -3814,11 +4099,12 @@ Oltre il portone si trova un magnifico ingresso, oltre il quale si dipanano nume
 
 ### Regressione Mentale
 
-* **Lista**: Ammaliamento
-* **Livello**: 8, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 8, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Assalti la mente di una creatura a gittata e che puoi vedere, cercando di frammentarne l'intelletto e la personalità. Il bersaglio subisce 4d6 danni e deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, i punteggi di Intelligenza e Carisma della creatura scendono a -4. La creatura non può lanciare incantesimi, attivare oggetti magici, comprendere linguaggi, o comunicare in alcun modo comprensibile. La creatura può, tuttavia, identificare i suoi amici, seguirli e anche proteggerli. Dopo 30 giorni, la creatura può ripetere il Tiro Salvezza contro l'incantesimo. Se lo supera, l'incantesimo ha termine se fallisce l'effetto è permanete.
 
@@ -3826,11 +4112,12 @@ L'incantesimo può essere terminato entro i 30 giorni da ristorare superiore, gu
 
 ### Reincarnazione
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Raro
-* **Lancio**: 1 ora
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 1 ora |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Entri a contatto con un umanoide morto o un frammento di umanoide morto. Purché la creatura non sia morta da più di 10 giorni, l'incantesimo gli forma un nuovo corpo adulto e poi ne richiama l'anima affinché entri nel corpo. Se l'anima del bersaglio non è libera o consenziente a farlo, l'incantesimo fallisce.
 
@@ -3860,11 +4147,12 @@ Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
 ### Resistenza
 
-* **Lista**: Abiurazione
-* **Livello**: 0, Comune
-* **Lancio**: 1 Reazione
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Reazione |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Lanci l'incantesimo a contatto con una creatura consenziente. Una volta prima del termine dell'incantesimo, il bersaglio può tirare un 1d4 e sommare il risultato ottenuto a un Tiro Salvezza a sua scelta. Può tirare il dado prima o dopo aver effettuato il Tiro Salvezza. Poi l'incantesimo termina. Non si può ricevere l'incantesimo Resistenza ad intervalli inferiori ad 1 ora.
 
@@ -3872,11 +4160,12 @@ Lanci l'incantesimo a contatto con una creatura consenziente. Una volta prima de
 
 ### Respirare Sott'Acqua
 
-* **Lista**: Acqua, Aria
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 Ora per CM
+| **Lista**: | Acqua, Aria |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 Ora per CM |
 
 Puoi dividere equamente il totale della durata dell'incantesimo tra CM/2 creature consenzienti.
 
@@ -3886,22 +4175,25 @@ Questo incantesimo consente  alle creature selezionate entro gittata di respirar
 
 ### Rigenerazione
 
-* **Lista**: Trasmutazione
-* **Livello**: 7, Leggendario
-* **Lancio**: 1 minuto
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 7, Leggendario |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Lanci l'incantesimo a contatto di una creatura per stimolare la sua capacità di guarigione naturale. Il bersaglio recupera 4d8 + 15 Punti Ferita. Per la durata dell'incantesimo, il bersaglio recupera 10 Punti Ferita all'inizio di ciascun suo round. Le membra recise del corpo del bersaglio (dita, gambe, code e così via), se ne ha, vengono ripristinate in 2 minuti. Se hai la parte recisa e la tieni appoggiata al moncherino, l'incantesimo fa sì che l'arto si ricucia in 3 round col moncherino.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi i Punti Ferita recuperati per round.
 
 ### Rimuovi Malattia
-- **Lista**:: Cura
-- **Livello**:: 2, Comune
-- **Lancio**:: 1 turno
-- **Gittata**:: Contatto
-- **Durata**:: Istantanea
+
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 truno |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Puoi porre fine a una malattia naturale. In caso di malattie magiche la tua DC di incantesimo deve essere superiore alla DC della malattia.
 
@@ -3909,11 +4201,12 @@ Puoi porre fine a una malattia naturale. In caso di malattie magiche la tua DC d
 
 ### Rimuovi Maledizione
 
-* **Lista**: Abiurazione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Se l'oggetto o persona è stato maledetto tramite l'incantesimo Scagliare Maledizione, o comunque il Narratore decide che l'oggetto ha una maledizione particolare allora la DC di chi lancia Rimuovi Maledizione deve essere superiore a quella della Maledizione.
 
@@ -3923,22 +4216,25 @@ Sia che sia stato sufficiente lanciare l'incantesimo oppure sia stato lanciato c
 
 ### Rimuovi Paura
 
-* **Lista**: Abiurazione
-* **Livello**: 1, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Tocco
-* **Durata**: 2 turni
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Tocco |
+| **Durata**: | 2 turni |
 
 Questo incantesimo infonde coraggio nel soggetto e può rimuovere gli effetti della paura indotta magicamente permettendogli di fare un nuovo Tiro Salvezza. Il soggetto toccato riceve un bonus al Tiro Salvezza di +1 per volte che l'incantatore ha preso Adepto della Magia.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il soggetto prende un +2 al Tiro Salvezza.
 
 ### Rimuovi Veleno
-- **Lista**:: Acqua, Cura
-- **Livello**:: 3, Comune
-- **Lancio**:: 1 Round
-- **Gittata**:: Contatto
-- **Durata**:: Istantanea
+
+| **Lista**: | Acqua, Cura |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 1 Round |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Puoi porre fine ad un veleno naturale. In caso di veleni magici la tua DC di incantesimo deve essere superiore alla DC (o Tiro Salvezza) del veleno.
 
@@ -3946,11 +4242,12 @@ Puoi porre fine ad un veleno naturale. In caso di veleni magici la tua DC di inc
 
 ### Rinascita
 
-* **Lista**: Cura, Necromanzia
-* **Livello**: 3, Molto Raro
-* **Lancio**: 10 Minuti
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Cura, Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Molto Raro |
+| **Lancio**: | 10 Minuti |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Una creatura morta nell'ultimo minuto e con cui sei in contatto, ritorna in vita con 1 punto ferita e nessun Punto Magia. Questo incantesimo non può riportare in vita le persone morte di vecchiaia, né può ripristinare le parti del corpo mancanti.
 
@@ -3960,21 +4257,23 @@ La creatura riportata in vita deve effettuare un Tiro Salvezza su Tempra a DC 15
 
 ### Riparare
 
-* **Lista**: Terra
-* **Livello**: 0, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Questo incantesimo ripara una singola rottura o spaccatura in un oggetto con cui sei a contatto, come una catenella spezzata, due metà di una chiave rotta, un mantello lacerato, o un otre che perde. Purché la rottura o la spaccatura non sia più grande di 30 centimetri in qualsiasi dimensione, sei in grado di ripararle, senza lasciare traccia dei danni subiti. Questo incantesimo può riparare fisicamente un oggetto magico o un costrutto, ma non è in grado di ripristinare le funzioni magiche di questi oggetti.
 
 ### Riposo Inviolato
 
-* **Lista**: Necromanzia
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 10 giorni
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 10 giorni |
 
 Entri a contatto con un cadavere o altri resti. Per la durata, il bersaglio è protetto dalla putrefazione e non può diventare non morto.
 
@@ -3982,10 +4281,10 @@ Entri a contatto con un cadavere o altri resti. Per la durata, il bersaglio è p
 
 ### Risata Incontenibile
 
-* **Lista**: Ammaliamento
-* **Livello**: 1, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 2 Azioni |
 
 Una creatura a gittata di tua scelta e che puoi vedere percepisce tutto come tremendamente ilare e divertente, scoppiando in fragorose risate finché è soggetta a questo incantesimo. Il bersaglio deve superare un Tiro Salvezza su Volontà o cadere prono ed i round successivi perdere 1 Azione a round per ridere. Le creature con un punteggio di Intelligenza -2 o meno, ignorano l'effetto.
 
@@ -3993,11 +4292,12 @@ Al termine di ciascun suo round e ogni volta che subisce danni, il bersaglio pu�
 
 ### Riscaldare il Metallo
 
-* **Lista**: Fuoco
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto, Concentrazione
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto, Concentrazione |
 
 Scegli un manufatto di metallo, come un'arma di metallo o un'armatura di metallo media o pesante, a gittata e che puoi vedere. Fai sì che l'oggetto risplenda di rosso per il calore. Qualsiasi creatura in contatto fisico con l'oggetto subisce 1d8 danni da fuoco quando lanci questo incantesimo. Finché mantieni la Concentrazione infliggi nuovamente questo danno nel round.
 
@@ -4007,11 +4307,12 @@ Se una creatura sta impugnando o indossando l'oggetto e subisce danno da esso la
 
 ### Ristorare Inferiore
 
-* **Lista**: Cura
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Puoi porre fine a una condizione che affligge una creatura con cui sei a contatto. La condizione può essere **accecato**, **assordato** o **paralizzato**. Può ridurre di un grado il livello di **Affaticamento**. Si recupera 2d6 Punti Ferita Massimi persi, ma non aumentano i Punti Ferita attuali. Puoi recuperare 1 punto di Caratteristica perso non permanentemente.
 
@@ -4021,11 +4322,12 @@ In caso di condizioni magiche esegui una prova di contrastare  con la DC della c
 
 ### Ristorare Superiore
 
-* **Lista**: Cura
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Imbevi una creatura a contatto di energia positiva curativa per annullare un effetto debilitante, non è possibile usufruire di più di un Ristorare Superiore al giorno:
 
@@ -4040,11 +4342,12 @@ In caso di condizioni magiche esegui una prova di contrastare  con la DC della c
 
 ### Risveglio
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Raro
-* **Lancio**: 8 ore
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 8 ore |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Dopo aver trascorso il tempo di lancio a disegnare tracciati magici con una gemma preziosa, entri a contatto con una bestia o vegetale Enorme o di taglia inferiore. Il bersaglio deve essere privo di punteggio di Intelligenza o avere Intelligenza -3 o meno. Il bersaglio ottiene Intelligenza 0. Il bersaglio ottiene anche la capacità di parlare un linguaggio che conosci. Se il bersaglio è un vegetale, ottiene la capacità di muovere i suoi arti, radici, liane, rampicanti e così via, e ottiene sensi simili a quelli di un umano. Il Narratore sceglierà le statistiche appropriate al tipo di vegetale risvegliato, come le statistiche per il cespuglio risvegliato o l'albero risvegliato.
 
@@ -4054,11 +4357,12 @@ La bestia o vegetale risvegliato è Affascinato da te per 30 giorni o finché tu
 
 ### Ritirata Rapida
 
-* **Lista**: Trasmutazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: Concentrazione, 1 minuto
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, 1 minuto |
 
 Questo incantesimo ti permette di muoverti a un'andatura incredibile. Quando lanci questo incantesimo il tuo movimento aumenta di 2 metri per Azione di Movimento.
 
@@ -4066,21 +4370,23 @@ Questo incantesimo ti permette di muoverti a un'andatura incredibile. Quando lan
 
 ### Saltare
 
-* **Lista**: Aria
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 La distanza di salto della creatura con cui sei in contatto al momento del lancio è triplicata, rispetto al risultato ottenuto e senza limite di lunghezza/altezza, fino al termine dell'incantesimo.
 
 ### Santificare
 
-* **Lista**: Invocazione
-* **Livello**: 5, Raro
-* **Lancio**: 24 ore
-* **Gittata**: Contatto
-* **Durata**: Fino a che dissolto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 24 ore |
+| **Gittata**: | Contatto |
+| **Durata**: | Fino a che dissolto |
 
 Infondi l'area circostante a un punto con cui sei in contatto del potere del tuo Patrono. L'area può avere un raggio massimo di 18 metri, e l'incantesimo fallisce se include un'area già sotto l'effetto di un incantesimo santificare. L'area soggetta all'incantesimo genera i seguenti effetti.
 
@@ -4100,21 +4406,23 @@ Infondi l'area circostante a un punto con cui sei in contatto del potere del tuo
 
 ### Santuario
 
-* **Lista**: Abiurazione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Proteggi una creatura a gittata dagli attacchi. Fino al termine dell'incantesimo, qualsiasi creatura che prenda come bersaglio la creatura protetta con un attacco o incantesimo dannoso deve prima effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, l'attaccante deve scegliere un nuovo bersaglio o perdere l'attacco o l'incantesimo. Questo incantesimo non protegge la creatura protetta dagli effetti ad area, come lo scoppio di una palla di fuoco. Se la creatura protetta effettua un attacco o lancia un incantesimo che agisce su creature nemiche, l'incantesimo termina.
 
 ### Santuario Privato
 
-* **Lista**: Abiurazione
-* **Livello**: 4, Molto Raro
-* **Lancio**: 10 minuti
-* **Gittata**: 36 metri
-* **Durata**: 24 ore
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 4, Molto Raro |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 36 metri |
+| **Durata**: | 24 ore |
 
 Proteggi con la magia un'area. L'area è una sfera che può essere piccola fino a 1 metro di raggio o grande fino a 15 metri di raggio. L'incantesimo agisce fino al termine della durata o finché non usi un'Azione per interromperlo.
 
@@ -4134,11 +4442,12 @@ Lanciare questo incantesimo sullo stesso punto ogni giorno per un anno, rende l'
 
 ### Scagliare Maledizione
 
-* **Lista**: Necromanzia
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
@@ -4153,11 +4462,12 @@ L'incantesimo rimuovi maledizione (vedi descrizione) termina questo effetto. A d
 
 ### Scagliare Maledizione Minore
 
-* **Lista**: Universale
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 minuto
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 minuto |
 
 Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
@@ -4171,11 +4481,12 @@ L'incantesimo Rimuovi Maledizione termina questo effetto. A discrezione del Narr
 
 ### Scassinare
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Scegli un oggetto a gittata e che puoi vedere. L'oggetto può essere una porta, scatola, delle manette, una serratura o un altro oggetto che possieda un metodo comune o magico per prevenirne l'accesso.
 
@@ -4189,11 +4500,12 @@ Quando lanci questo incantesimo, un sonoro bussare, udibile fino a 90 metri di d
 
 ### Schiaffo di Cattalm
 
-* **Lista**: Evocazione
-* **Livello**: 1, Non Comune
-* **Lancio**: 1 Reazione, che puoi effettuare in risposta al danno arrecatoti da una creatura entro 18 metri da te che puoi vedere
-* **Gittata**: 18 metri
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 1, Non Comune |
+| **Lancio**: | 1 Reazione, che puoi effettuare in risposta al danno arrecatoti da una creatura entro 18 metri da te che puoi vedere |
+| **Gittata**: | 18 metri |
+| **Durata**: | Istantanea |
 
 Punti il dito, e la creatura che ti ha danneggiato viene schiaffeggiata da fuoco divina. La creatura deve effettuare un Tiro Salvezza su Riflessi e se fallisce subisce 2d10 danni da fuoco o la metà di questi danni se lo supera.
 
@@ -4201,11 +4513,12 @@ Punti il dito, e la creatura che ti ha danneggiato viene schiaffeggiata da fuoco
 
 ### Scolpire Pietra
 
-* **Lista**: Terra
-* **Livello**: 4, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 4, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Scolpisci in qualsiasi forma che si presti ai tuoi scopi un cubo di 3 metri di lato di pietra con cui sei a contatto.
 
@@ -4213,11 +4526,12 @@ Così, per esempio, potresti scolpire una grossa pietra in un'arma, idolo o fere
 
 ### Scopri il Percorso
 
-* **Lista**: Divinazione
-* **Livello**: 6, Non Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Personale
-* **Durata**: 1 giorno
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Personale |
+| **Durata**: | 1 giorno |
 
 Questo incantesimo ti permette di trovare la rotta fisica più breve e diretta verso uno specifico luogo fisso con cui hai familiarità ed è sullo stesso piano di esistenza. Se indichi una destinazione su di un altro piano di esistenza, una destinazione che si muove (come una fortezza mobile) o una destinazione non specifica (come *la tana di un drago verde*), l'incantesimo fallisce.
 
@@ -4227,11 +4541,12 @@ Per la durata dell'incantesimo, finché sei nello stesso piano di esistenza dell
 
 ### Scopri Piante
 
-* **Lista**: Divinazione
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 turno per CM
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 turno per CM |
 
 L'incantatore che lancia questo incantesimo è in grado di trovare una specifica pianta entro un cerchio del diametro di 3 metri per CM centrato sull'incantatore. L'incantatore può concentrarsi su un diverso tipo di pianta ogni round e può muoversi, dal momento che l'area di effetto si sposta con lui.
 
@@ -4239,11 +4554,12 @@ L'incantatore che lancia questo incantesimo è in grado di trovare una specifica
 
 ### Scopri Trappole
 
-* **Lista**: Divinazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti di tempo reale
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti di tempo reale |
 
 Per la durata dell'incantesimo avverti la presenza di qualsiasi trappola a gittata che sia nella tua linea di visuale. Una trappola, ai fini di questo incantesimo, comprende qualsiasi cosa che sia in grado di infliggere un effetto improvviso o inaspettato che tu possa considerare dannoso o indesiderabile e che è stato espressamente inteso come tale dal suo creatore. Di conseguenza, l'incantesimo percepirebbe un'area sotto l'incantesimo allarme, un glifo di interdizione, o una botola meccanica, ma non rivelerebbe una debolezza naturale del pavimento, un soffitto instabile o una buca nascosta.
 
@@ -4251,11 +4567,12 @@ La trappola viene evidenziata alla tua vista con un segno viola.
 
 ### Scrigno Segreto
 
-* **Lista**: Evocazione
-* **Livello**: 4, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 4, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Nascondi un forziere e tutti i suoi contenuti sul Piano Etereo. Quando lanci questo incantesimo devi essere in contatto con il forziere e la replica in miniatura che serve da componente materiale. Il forziere può contenere fino a 0,25 metri cubi di materiale non vivente (1 x metro x 50 centimetri x 50 centimetri). Mentre il forziere rimane sul Piano Etereo, puoi usare un'Azione per entrare in contatto con la replica e richiamare il forziere. Esso riapparirà in uno spazio non occupato sul terreno entro 1 metro da te. Puoi rispedire il forziere nel Piano Etereo, usando un'Azione ed entrando in contatto sia col forziere che con la replica.
 
@@ -4265,11 +4582,12 @@ L'effetto termina se l'incantesimo viene lanciato nuovamente, se la replica del 
 
 ### Scritto Illusorio
 
-* **Lista**: Illusione
-* **Livello**: 1, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Contatto
-* **Durata**: 10 giorni
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Contatto |
+| **Durata**: | 10 giorni |
 
 Scrivi su di una pergamena, un pezzo di carta o qualche altro materiale adatto a scrivere e lo infondi di una potente illusione che permane per la durata dell'incantesimo.
 
@@ -4279,11 +4597,12 @@ In caso l'incantesimo venisse dissolto, sia la scritta originale che l'illusione
 
 ### Scrutare
 
-* **Lista**: Divinazione
-* **Livello**: 5, Raro
-* **Lancio**: 10 minuti
-* **Gittata**: Personale
-* **Durata**: Concentrazione, massimo 10 minuti
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, massimo 10 minuti |
 
 Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo stesso piano di esistenza. Il bersaglio deve effettuare un Tiro Salvezza su Volontà, modificato da quanto bene conosci il bersaglio e la tua connessione fisica a esso. Se il bersaglio sa che stai lanciando l'incantesimo, può fallire volontariamente il Tiro Salvezza, in caso desiderasse essere osservato da
 te.
@@ -4308,11 +4627,12 @@ Invece di prendere come bersaglio una creatura, puoi scegliere come bersaglio de
 
 ### Scudo
 
-* **Lista**: Universale
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Personale
-* **Durata**: 1 round
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Personale |
+| **Durata**: | 1 round |
 
 Compare una barriera di forza magica invisibile a proteggerti. Fino all'inizio del tuo prossimo round hai un bonus di +1 alla Difesa e non subisci danno dal primo Dardo arcano e Dardo occulto che ti colpisce nel round.
 
@@ -4322,11 +4642,12 @@ Se lanciato spendendo 1 Punto Magia il bonus alla Difesa aumenta a +2, il tempo 
 
 ### Scudo di Fuoco
 
-* **Lista**: Fuoco, Acqua
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 10 minuti
+| **Lista**: | Fuoco, Acqua |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 10 minuti |
 
 Fiamme sottili e vaporose avvolgono il tuo corpo per la durata dell'incantesimo, emettendo luce intensa in un raggio di 3 metri e luce fioca per 6 metri. Puoi terminare l'incantesimo in anticipo, usando un'Azione per interromperlo.
 
@@ -4336,11 +4657,12 @@ Inoltre, ogni qualvolta una creatura entro 1 metro da te ti colpisce con un atta
 
 ### Scurovisione
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora di tempo reale di gioco
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora di tempo reale di gioco |
 
 Una creatura consenziente con cui sei in contatto ottiene la capacità di vedere al buio. Per la durata dell'incantesimo, quella creatura ha scurovisione fino a una gittata di 9 metri.
 
@@ -4348,11 +4670,12 @@ Una creatura consenziente con cui sei in contatto ottiene la capacità di vedere
 
 ### Segugio Fedele
 
-* **Lista**: Evocazione
-* **Livello**: 4, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 8 ore
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 4, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 8 ore |
 
 Puoi evocare un cane da guardia fantasma in uno spazio non occupato a gittata che puoi vedere dove rimarrà per la durata dell'incantesimo, finché non viene congedato con un'Azione, o finché non si allontanerà più di 30 metri da te.
 
@@ -4364,11 +4687,12 @@ Il bonus di attacco del segugio è uguale al tuo modificatore di caratteristica 
 
 ### Sembrare
 
-* **Lista**: Illusione
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 8 ore
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 8 ore |
 
 Questo incantesimo ti permette di cambiare l'aspetto di un qualsiasi numero di creature a gittata e che puoi vedere. Fornisci a ciascun bersaglio un nuovo aspetto illusorio. Una creatura non consenziente può effettuare un Tiro Salvezza su Volontà e, se lo supera, ignora l'incantesimo.
 
@@ -4379,11 +4703,12 @@ Se usi questo incantesimo per apparire più magro di quello che sei, la mano di 
 
 ### Serratura Magica
 
-* **Lista**: Abiurazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Fino a che dissolto
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Fino a che dissolto |
 
 Lanci l'incantesimo a contatto di una porta, finestra, portale, forziere o altro ingresso chiuso, e questo diventa chiuso a chiave per la durata. Tu e le creature che hai indicato, quando hai lanciato questo incantesimo, potete aprire l'oggetto normalmente. Puoi anche predisporre una parola d'ordine che, quando pronunciata entro 1 metro dall'oggetto, sopprime l'incantesimo per 1 minuto. Altrimenti l'apertura è invalicabile fino a che non viene distrutta o l''incantesimo è dissolto o soppresso. Lanciare scassinare sull'oggetto sopprime Serratura Magica per 10 minuti.
 
@@ -4393,11 +4718,12 @@ Mentre è soggetto a questo incantesimo, l'oggetto è più difficile da distrugg
 
 ### Servitore Invisibile
 
-* **Lista**: Evocazione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 ora
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 ora |
 
 Questo incantesimo crea una forza quasi invisibile solo delimitata da una leggera aura (di colore a tua scelta) che svolge dei semplici compiti al tuo comando, fino al termine dell'incantesimo. Il servitore si forma in uno spazio sul terreno non occupato, entro la gittata. Ha Difesa 10, 1 punto ferita, Forza 0 e non può attaccare. Se scende a 0 Punti Ferita, l'incantesimo ha termine.
 
@@ -4407,11 +4733,12 @@ Se comandi al servitore di svolgere un compito che lo farà muovere a più di 18
 
 ### Sfera Congelante
 
-* **Lista**: Acqua
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 90 metri
-* **Durata**: Istantanea
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 90 metri |
+| **Durata**: | Istantanea |
 
 Un globo gelido di energia fredda parte dalla punta delle tue dita verso un punto di tua scelta a gittata, dove esplode in una sfera di 18 metri di raggio. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Tempra. Se fallisce il Tiro Salvezza, una creatura subisce 10d6 danni da freddo. Se lo supera, subisce la metà di questi danni.
 
@@ -4425,11 +4752,12 @@ Se lo desideri, dopo aver completato l'incantesimo, puoi trattenerti dallo spara
 
 ### Sfera Infuocata
 
-* **Lista**: Fuoco
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto |
 
 Per la durata dell'incantesimo compare una sfera di 1 metro di diametro in uno spazio a gittata, scelto da te. Qualsiasi creatura che termini il suo round entro 1 metro dalla sfera deve effettuare un Tiro Salvezza su Riflessi. La creatura subisce 2d6 danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo supera.
 
@@ -4442,21 +4770,23 @@ Mentre hai questo incantesimo attivo sei Distratto nel lancio di altri incantesi
 
 ### Sfocatura
 
-* **Lista**: Illusione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Il tuo corpo diventa sfocato, indistinto e tremolante a chiunque ti veda. Per la durata dell'incantesimo, tutte le creature hanno ha -1d6 ai Tiri per Colpire contro di te. Gli attaccanti che non si affidano alla vista sono immuni a questo effetto, per esempio se hanno vista cieca o sono in grado di distinguere le illusioni, come per visione del vero.
 
 ### Sguardo Penetrante
 
-* **Lista**: Necromanzia
-* **Livello**: 6, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 6, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Per la durata dell'incantesimo i tuoi occhi si tramutano in un vuoto nero infuso di terribile potere. Una creatura a tua scelta entro 18 metri da te e che puoi vedere deve superare un Tiro Salvezza su Volontà o, per la durata, subire uno dei seguenti effetti di tua scelta. Durante ciascun tuo round, fino al termine dell'incantesimo, puoi usare due Azioni per prendere come bersaglio un'altra creatura, ma non puoi prendere di nuovo come bersaglio una creatura che abbia superato un Tiro Salvezza contro questo lancio di sguardo penetrante.
 
@@ -4466,11 +4796,12 @@ Per la durata dell'incantesimo i tuoi occhi si tramutano in un vuoto nero infuso
 
 ### Silenzio
 
-* **Lista**: Illusione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 10 minuti
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 10 minuti |
 
 Per la durata dell'incantesimo, nessun suono può essere creato all'interno o attraversare una sfera di 6 metri di raggio centrata su di un punto a gittata, scelto da te. Qualsiasi creatura o oggetto che si trovi completamente all'interno della sfera è immune al danno da suono e le creature che sono completamente al suo interno sono assordate. È estremamente difficile (vedi Tentare magie con impedimenti, pag.  ) lanciare un incantesimo che comprende una componente verbale mentre si è al suo interno. Lanciato su una creatura è concesso un Tiro Salvezza su Volontà per annullarne gli effetti.
 
@@ -4480,11 +4811,12 @@ Per la durata dell'incantesimo, nessun suono può essere creato all'interno o at
 
 ### Simbolo
 
-* **Lista**: Abiurazione
-* **Livello**: 7, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: Fino a che dissolto o attivato
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 7, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | Fino a che dissolto o attivato |
 
 Quando lanci questo incantesimo, inscrivi un glifo dannoso su di una superficie (come una sezione di pavimento, muro o un tavolo) o all'interno di un oggetto che può essere chiuso per nascondere il glifo (come un libro, una pergamena o un forziere). Se scegli una superficie, il glifo può coprire un'area di superficie non maggiore di 3 metri di diametro. Se scegli un oggetto,quell'oggetto deve restare al suo posto; se l'oggetto viene spostato più di 3 metri dal punto in cui è stato lanciato l'incantesimo, il glifo è spezzato, e l'incantesimo termina senza essere stato attivato.
 
@@ -4511,11 +4843,12 @@ Quando inscrivi il glifo scegli una delle opzioni seguenti come suo effetto. Una
 
 ### Sogno
 
-* **Lista**: Illusione
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Speciale
-* **Durata**: 8 ore
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Speciale |
+| **Durata**: | 8 ore |
 
 Questo incantesimo modella i sogni di una creatura. Scegli una creatura a te nota come bersaglio dell'incantesimo. Il bersaglio deve trovarsi sul tuo stesso piano di esistenza. Le creature che non dormono non possono essere soggette a questo incantesimo. Tu o una creatura consenziente con cui sei a contatto entrate in uno stato di trance, agendo da messaggero. Mentre è in trance, il messaggero è consapevole di ciò che lo circonda, ma non può effettuare azioni o muoversi.
 
@@ -4527,11 +4860,12 @@ Se possiedi una ciocca di capelli, delle unghie tagliate, o simile porzione del 
 
 ### Sonnellino
 
-* **Lista**: Ammaliamento
-* **Livello**: 2, Leggendario
-* **Lancio**: 1 round
-* **Gittata**: 6 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 2, Leggendario |
+| **Lancio**: | 1 round |
+| **Gittata**: | 6 metri |
+| **Durata**: | 1 minuto |
 
 Questo incantesimo permette all'incantatore di mettere a riposo per 1 ora fino ad 1 creatura per (Competenza Magica/6 + Adepto della Magia). La creatura deve essere consenziente.
 
@@ -4541,11 +4875,12 @@ Quest'ora di riposo è equivalente a 8 ore di riposo per quanto riguarda il recu
 
 ### Sonno
 
-* **Lista**: Ammaliamento
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 27 metri
-* **Durata**: 1 minuto
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | 1 minuto |
 
 In un raggio di 2 metri le creature devono fare un Tiro Salvezza su Volontà o cadere addormentate. Qualsiasi cosa danneggi le creature o le influenzi causa l'immediato scioglimento del sonno magico. Le creature con Grado di Sfida superiore a 3 non sono influenzate.
 
@@ -4553,21 +4888,23 @@ In un raggio di 2 metri le creature devono fare un Tiro Salvezza su Volontà o c
 
 ### Spada Arcana
 
-* **Lista**: Invocazione
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Per la durata dell'incantesimo, crei a gittata una fluttuante spada di forza. Quando la spada appare, effettui un attacco in mischia con modificatore CM + modificatore da incantesimo contro un bersaglio scelto da te entro 1 metro dalla spada. Se colpisci, il bersaglio subisce 4d10 danni da forza. Fino al termine dell'incantesimo,puoi usare un'Azione ogni tuo round per muovere la spada di 6 metri in un punto che puoi vedere e ripetere questo attacco contro lo stesso bersaglio o uno differente.
 
 ### Spruzzo Colorato
 
-* **Lista**: Illusione
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (cono di 3 metri)
-* **Durata**: 1 round
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (cono di 3 metri) |
+| **Durata**: | 1 round |
 
 Uno spruzzo di luci e colori erutta dalla tua mano. Le creature in un cono di 3 metri devono fare un Tiro Salvezza su Volontà.
 
@@ -4577,11 +4914,12 @@ Se il Tiro Salvezza riesce non si subisce alcun effetto, se fallisce la creatura
 
 ### Spruzzo Prismatico
 
-* **Lista**: Invocazione
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale (cono di 18 metri)
-* **Durata**: Istantanea
+| **Lista**: | Invocazione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale (cono di 18 metri) |
+| **Durata**: | Istantanea |
 
 Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un diverso colore e ha un potere e uno scopo diverso. Ogni creatura in un cono di 18 metri deve effettuare un Tiro Salvezza su Riflessi. Per ogni bersaglio, tirare un d8 per determinare quale sia il colore del raggio che lo ha colpito.
 
@@ -4596,11 +4934,12 @@ Otto raggi di luce multicolore partono dalla tua mano. Ogni raggio è di un dive
 
 ### Spruzzo Velenoso
 
-* **Lista**: Animali e Piante
-* **Livello**: 0, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 3 metri
-* **Durata**: Istantanea
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 0, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 3 metri |
+| **Durata**: | Istantanea |
 
 Stendi la mano verso una creatura a gittata e che puoi vedere, e proietti una nube di gas velenoso dal tuo palmo. La creatura deve superare un Tiro Salvezza su Tempra o subire 1d12 danni da veleno.
 
@@ -4610,11 +4949,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Statua
 
-* **Lista**: Terra, Trasmutazione
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Tocco
-* **Durata**: 1 ora per livello
+| **Lista**: | Terra, Trasmutazione |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Tocco |
+| **Durata**: | 1 ora per livello |
 
 Questo incantesimo trasforma l'incantatore o il soggetto consenziente in pietra, insieme a qualsiasi abito o oggetto trasportato. Il soggetto può vedere e percepire suoni e odori, ma non ha bisogno di mangiare o respirare. Il senso del tatto è limitato alle sensazioni percepibili dalla sostanza granitica di cui è composto il corpo del soggetto. Una scheggiatura è paragonabile a un semplice graffio, ma spezzare un braccio della statua equivale a una mutilazione. Il soggetto di statua può tornare allo stato normale e ridiventare di pietra tutte le volte che vuole durante la durata dell'incantesimo. La statua ha durezza 15 ed il doppio dei Punti Ferita della creatura originaria.
 
@@ -4622,11 +4962,12 @@ Questo incantesimo trasforma l'incantatore o il soggetto consenziente in pietra,
 
 ### Stretta Folgorante
 
-* **Lista**: Aria
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: Contatto
-* **Durata**: Istantanea
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | Contatto |
+| **Durata**: | Istantanea |
 
 Dalle tue mani saettano lampi che infliggono una scossa a una creatura con cui provi a entrare in contatto. Effettua un attacco in mischia con incantesimo contro il bersaglio. Hai +1d6 sul Tiro per Colpire se il bersaglio sta indossando un'armatura fatta di metallo. Se colpisci, il bersaglio subisce 1d8 danni da elettricità, e non può effettuare reazioni fino all'inizio del suo prossimo round.
 
@@ -4636,11 +4977,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Succo concentrato di Ribes di Kyrin
 
-* **Lista**: Animali e Piante, Terra
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Animali e Piante, Terra |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Estrai la linfa acida dai ribes e proietti una linea di spruzzo d'acido lunga 9 metri e larga 1 metro in una direzione a tua scelta. Ogni creatura nella linea deve superare un Tiro Salvezza su Riflessi o essere ricoperta di acido per la durata dell'incantesimo o finché una creatura non usa due Azioni per togliere via l'acido da sé o da un'altra creatura. Una creatura coperta dall'acido subisce 2d4 danni da acido all'inizio di ciascuno dei suoi round.
 
@@ -4648,11 +4990,12 @@ Estrai la linfa acida dai ribes e proietti una linea di spruzzo d'acido lunga 9 
 
 ### Suggestione
 
-* **Lista**: Ammaliamento
-* **Livello**: 2, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 8 ore
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 2, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 8 ore |
 
 Suggerisci un corso di attività (limitato a una o due frasi) e influenzi magicamente una creatura a gittata e che puoi vedere e udire e ti possa capire, scelta da te. Le creature che non possono essere affascinate sono immuni a questo effetto. La suggestione deve essere pronunciata in modo che il corso d'azione suoni ragionevole. Chiedere a una creatura di pugnalarsi,gettarsi su una lancia, darsi fuoco, o fare qualche altro atto palesemente dannoso nega automaticamente gli effetti dell'incantesimo.
 
@@ -4662,11 +5005,12 @@ Puoi anche specificare condizioni che attiveranno un'attività speciale per la d
 
 ### Suggestione di Massa
 
-* **Lista**: Ammaliamento
-* **Livello**: 6, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 24 ore
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 6, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 24 ore |
 
 Suggerisci un corso di attività (limitato a una o due frasi) e influenzi magicamente fino a dodici creature a gittata che puoi vedere e udire e ti possano capire, scelte da te. Le creature che non possono essere affascinate sono immuni a questo effetto. La suggestione deve essere pronunciata in modo che il corso d'azione suoni ragionevole. Chiedere a una creatura di pugnalarsi, gettarsi su di una lancia, darsi fuoco, o fare qualche altro atto palesemente dannoso nega automaticamente gli effetti dell'incantesimo.
 
@@ -4678,11 +5022,12 @@ Puoi anche specificare condizioni che attiveranno un'attività speciale per la d
 
 ### Taumaturgia
 
-* **Lista**: Universale
-* **Livello**: 0, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: Massimo 1 minuto
+| **Lista**: | Universale |
+| --- | --- |
+| **Livello**: | 0, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | Massimo 1 minuto |
 
 Manifesti a gittata una trucco minore, un segno di potere soprannaturale. Crei a gittata uno dei seguenti effetti magici:
 
@@ -4699,11 +5044,12 @@ Se lanci questo incantesimo più volte, puoi tenere attivi fino a tre effetti da
 
 ### Telecinesi
 
-* **Lista**: Trasmutazione
-* **Livello**: 5, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: Concentrazione, massimo 10 minuti
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 5, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | Concentrazione, massimo 10 minuti |
 
 Ottieni la capacità di muovere o manipolare creature o oggetti tramite il pensiero. Quando lanci questo incantesimo e con 2 Azioni durante ciascun round, puoi esercitare la tua volontà su di una creatura od oggetto a gittata e che puoi vedere, provocando l'effetto appropriato tra quelli seguenti. Puoi agire round dopo round sempre sullo stesso bersaglio, o sceglierne uno nuovo ogni volta. Se cambi bersaglio, il bersaglio precedente non è più soggetto all'incantesimo.
 
@@ -4719,11 +5065,12 @@ Puoi esercitare un controllo preciso sugli oggetti tramite la tua presa telecine
 
 ### Teletrasporto
 
-* **Lista**: Evocazione
-* **Livello**: 7, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 3 metri
-* **Durata**: Istantanea
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 7, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 3 metri |
+| **Durata**: | Istantanea |
 
 Questo incantesimo teletrasporta istantaneamente te e altre otto creature consenzienti (oppure un singolo oggetto) a gittata e che puoi vedere, scelte da te, in una destinazione di tua scelta. Se il bersaglio è un oggetto, deve poter entrare in una sfera di 2 metri di raggio e non può essere tenuto o trasportato da una creatura non consenziente.
 
@@ -4756,11 +5103,12 @@ Il Narratore tira un d100 e consulta la tabella.
 
 ### Tempesta di Fuoco
 
-* **Lista**: Fuoco
-* **Livello**: 7, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: Istantanea
+| **Lista**: | Fuoco |
+| --- | --- |
+| **Livello**: | 7, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | Istantanea |
 
 Una tempesta composta di fiamme roboanti compare in un punto a gittata, scelto da te. L'area della tempesta consiste di un massimo di dieci cubi di 3 metri di spigolo adiacenti, che puoi disporre come preferisci. Ogni cubo deve avere almeno una faccia adiacente a quella di un altro cubo. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce subisce 7d10 danni da fuoco, o la metà di questi danni se lo supera. Il fuoco danneggia gli oggetti nell'area e incendia gli oggetti infiammabili che non sono indossati o trasportati. Se lo desideri, la vita vegetale nell'area resta illesa dagli effetti di questo incantesimo.
 
@@ -4770,11 +5118,12 @@ Una tempesta composta di fiamme roboanti compare in un punto a gittata, scelto d
 
 ### Tempesta di Ghiaccio
 
-* **Lista**: Acqua, Aria
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 90 metri
-* **Durata**: Istantanea
+| **Lista**: | Acqua, Aria |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 90 metri |
+| **Durata**: | Istantanea |
 
 Una grandinata di ghiaccio si abbatte a terra in un cilindro di 6 metri di raggio e 12 metri di altezza centrato su di un punto a gittata. Ogni creatura nel cilindro deve effettuare un Tiro Salvezza su Riflessi. La creatura subisce 2d8 danni contundenti e 4d6 danni da freddo se fallisce il Tiro Salvezza, o la metà se lo supera. La grandine trasforma l'area di effetto della tempesta in terreno difficile fino al termine del tuo prossimo round.
 
@@ -4784,21 +5133,23 @@ Una grandinata di ghiaccio si abbatte a terra in un cilindro di 6 metri di raggi
 
 ### Tempesta di Nevischio
 
-* **Lista**: Acqua
-* **Livello**: 3, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 45 metri
-* **Durata**: 1 minuto
+| **Lista**: | Acqua |
+| --- | --- |
+| **Livello**: | 3, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 45 metri |
+| **Durata**: | 1 minuto |
 
 Fino al termine dell'incantesimo, pioggia gelida e nevischio si abbattono in un cilindro alto 6 metri e del raggio di 12 metri centrato in un punto da te scelto a gittata. L'area è in penombra, mentre le fiamme esposte vengono spente. Il terreno nell'area è coperto di ghiaccio scivoloso, rendendolo terreno difficile. Quando una creatura entra nell'area dell'incantesimo per la prima volta durante un round o inizia il suo round lì, deve effettuare un Tiro Salvezza su Riflessi. Se lo fallisce, cade prona. Se una creatura nell'area dell'incantesimo si sta concentrando, deve superare un Tiro Salvezza su Tempra contro la DC del Tiro Salvezza dell'incantesimo o perdere la concentrazione.
 
 ### Tentacoli Neri
 
-* **Lista**: Evocazione
-* **Livello**: 4, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 27 metri
-* **Durata**: 1 minuto
+| **Lista**: | Evocazione |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 27 metri |
+| **Durata**: | 1 minuto |
 
 Viscidi tentacoli d'ebano riempiono un quadrato di 6 metri di lato sul terreno, a gittata e che puoi vedere. Per la durata dell'incantesimo, questi tentacoli trasformano l'area in terreno difficile.
 
@@ -4806,11 +5157,12 @@ Quando una creatura entra nell'area soggetta per la prima volta in un round o co
 
 ### Terremoto
 
-* **Lista**: Terra
-* **Livello**: 8, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 150 metri
-* **Durata**: Concentrazione, massimo 1 minuto
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 8, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 150 metri |
+| **Durata**: | Concentrazione, massimo 1 minuto |
 
 Provochi un disturbo sismico in un punto sul terreno a gittata e che puoi vedere. Per la durata, un intenso tremore scuote il terreno in un cerchio di 30 metri di raggio centrato su quel punto e scuote le creature e le strutture in quell'area che sono a contatto del terreno.Il terreno nell'area diventa terreno difficile. Ogni creatura a terra che si sta concentrando deve effettuare un Tiro Salvezza su Tempra. Se lo fallisce, la sua concentrazione è infranta.
 
@@ -4822,11 +5174,12 @@ Una fenditura che si apre sotto una struttura la fa crollare immediatamente (ved
 
 ### Terreno Illusorio
 
-* **Lista**: Illusione
-* **Livello**: 4, Non Comune
-* **Lancio**: 10 minuti
-* **Gittata**: 90 metri
-* **Durata**: 24 ore
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 4, Non Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | 90 metri |
+| **Durata**: | 24 ore |
 
 Fai sì che un pezzo di terreno naturale a gittata, in un cubo di 150 metri di spigolo, appaia, risuoni e odori come qualche altro tipo di terreno naturale. Di conseguenza, campi aperti o una strada possono essere trasformati in un acquitrino, colline, un crepaccio o qualche altro tipo di terreno difficile o invalicabile. Un laghetto può essere trasformato in una radura erbosa, un precipizio in una lieve pendenza, un burrone cosparso di rocce in una strada ampia e liscia. Le strutture edificate, l'equipaggiamento e le creature all'interno dell'area non mutano d'aspetto.
 
@@ -4834,11 +5187,12 @@ Le peculiarità tattili del terreno sono immutate, così che le creature che ent
 
 ### Tocco Gelido
 
-* **Lista**: Necromanzia
-* **Livello**: 0, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 36 metri
-* **Durata**: 1 round
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 0, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 round |
 
 Crei una scheletrica mano spettrale nello spazio di una creatura a gittata. Effettua un attacco a distanza con incantesimo contro la creatura, per aggredirla con il gelo della morte. Se colpisci, il bersaglio subisce 1d8 danni da Vuoto, e non può recuperare Punti Ferita fino all'inizio del tuo prossimo round. Fino ad allora, la mano resterà serrata sul bersaglio. Se colpisci un bersaglio non morto, esso avrà anche -1d6 ai Tiri per Colpire contro di te fino alla fine del suo prossimo round.
 
@@ -4848,11 +5202,12 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 
 ### Tocco Vampirico
 
-* **Lista**: Necromanzia
-* **Livello**: 3, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 minuto
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 3, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 minuto |
 
 Il contatto con la tua mano avvolta dall'ombra può risucchiare la forza vitale altrui per curare le tue ferite. Ogni round puoi effettuare un attacco in mischia, 2 Azioni, con incantesimo contro una creatura a portata. Se colpisci, il bersaglio subisce 3d6 danni da Vuoto e tu recuperi un numero di Punti Ferita pari alla metà del danno da Vuoto che hai inflitto.
 
@@ -4864,21 +5219,23 @@ Mentre hai questo incantesimo attivo sei considerato Distratto per il lancio di 
 
 ### Trama Ipnotica
 
-* **Lista**: Illusione
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 36 metri
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 36 metri |
+| **Durata**: | 1 minuto |
 
 Crei a gittata una trama contorta di colori che si muove nell'aria all'interno di un cubo di 9 metri di spigolo. La trama appare per un momento e poi svanisce. Ogni creatura nell'area che veda la trama deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, una creatura rimane affascinata per la durata. Mentre è affascinata da questo incantesimo, la creatura è inabile e ha velocità 0. L'incantesimo termina per la creatura soggetta, qualora questa subisca danni o se qualcuno usa un'Azione per scuoterla dal suo stato confusionale.
 
 ### Trasformazione
 
-* **Lista**: Trasmutazione
-* **Livello**: 9, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 9, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Per la durata assumi la forma di una creatura differente. La nuova forma può essere quella di qualsiasi creatura il cui grado di sfida sia pari o inferiore alla tua CM/2+Adepto della magia. La creatura non può essere un costrutto o un non morto e devi averla vista almeno una volta. Ti trasformi in un esemplare medio di quella creatura, uno senza Abilità uniche. Puoi restare nella forma assunta fino al termine dell'incantesimo. Ti ritrasformi automaticamente se cadi privo di sensi, scendi a 0 Punti Ferita o muori. Le tue statistiche di gioco sono rimpiazzate dalle statistiche della creatura scelta, fatta accezione per i tuoi Tratti, e dei tuoi punteggi di Intelligenza, Saggezza e Carisma. Mantieni tutte le tue competenze nelle Abilità e i Tiri Salvezza, oltre a ottenere quelle della creatura. Se la creatura possiede le tue stesse competenze e il bonus indicato nelle sue statistiche è più alto del tuo, usa il bonus della creatura al posto del tuo. Non puoi usare nessuna Azione aggiuntiva o Azione da tana della nuova forma.
 
@@ -4894,11 +5251,12 @@ Nella durata dell'incantesimo, puoi usare due azioni per assumere una forma dive
 
 ### Trasformazione Furiosa di Restser
 
-* **Lista**: Trasmutazione
-* **Livello**: 6, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 round per CM
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 6, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 round per CM |
 
 Questo incantesimo permette ad un incantatore di convogliare le sue energie magiche per trasformarsi in un potente combattente.
 
@@ -4913,11 +5271,12 @@ Per tutta la durata dell'incantesimo l'incantatore non è più in grado di lanci
 
 ### Traslazione Arborea
 
-* **Lista**: Animali e Piante
-* **Livello**: 5, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: massimo 1 minuto
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 5, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | massimo 1 minuto |
 
 Ottieni la capacità di entrare in un albero e muoverti dal suo interno all'interno di un altro albero della stessa specie entro 150 metri. Entrambi gli alberi devono essere vivi e almeno della tua stessa taglia. Ogni Azione di Movimento ti permetti di entrare ed uscire da un nuovo albero.
 
@@ -4927,21 +5286,23 @@ Per la durata dell'incantesimo puoi usare questa capacità di trasporto una volt
 
 ### Trasporto Vegetale
 
-* **Lista**: Animali e Piante
-* **Livello**: 6, Molto Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: 3 metri
-* **Durata**: 1 round
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 6, Molto Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 3 metri |
+| **Durata**: | 1 round |
 
 Questo incantesimo crea un legame magico tra un vegetale inanimato di taglia Grande o maggiore a gittata e un altro vegetale, a qualsiasi distanza, sullo stesso piano di esistenza. Devi aver visto o essere entrato in contatto almeno una volta con il vegetale di destinazione. Per la durata dell'incantesimo, qualsiasi creatura può entrare nel vegetale bersaglio e uscire dal vegetale di destinazione usando 1 Azione di Movimento.
 
 ### Trucco della Corda
 
-* **Lista**: Trasmutazione
-* **Livello**: 2, Comune
-* **Lancio**: 1 minuto
-* **Gittata**: Contatto
-* **Durata**: 1 ora +1 Turno per CM
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 1 minuto |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora +1 Turno per CM |
 
 Entri a contatto con un pezzo di corda lungo fino a 18 metri. Un'estremità della corda si leva nell'aria finché la corda non pende perpendicolare al terreno. All'estremità opposta della corda, un'entrata invisibile si apre su di uno spazio extradimensionale che resta fino al termine dell'incantesimo
 
@@ -4955,11 +5316,12 @@ Al termine dell'incantesimo la corda usata scompare.
 
 ### Uno con la pietra
 
-* **Lista**: Terra
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 8 ore
+| **Lista**: | Terra |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 8 ore |
 
 Entri in un oggetto o superficie di pietra grossa abbastanza da contenere tutto il tuo corpo fondendoti con la pietra assieme a tutto l'equipaggiamento che trasporti per la durata.
 
@@ -4971,11 +5333,12 @@ I danni minori alla pietra non ti danneggiano, ma la sua parziale distruzione o 
 
 ### Unto
 
-* **Lista**: Animali e Piante
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 1 minuto
+| **Lista**: | Animali e Piante |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 1 minuto |
 
 Del grasso scivoloso ricopre il terreno in un quadrato di 3 metri di lato, centrato su di un punto a gittata, e lo trasforma in terreno difficile per la durata dell'incantesimo.
 
@@ -4983,21 +5346,23 @@ Quando compare il grasso, ciascun bersaglio che si trova in piedi nell'area deve
 
 ### Vedere l'invisibile
 
-* **Lista**: Divinazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Per la durata dell'incantesimo, vedi le creature e gli oggetti invisibili come se fossero visibili, e inoltre puoi vedere nel Piano Etereo. Le creature e gli oggetti eterei ti appaiono spettrali e trasparenti.
 
 ### Velocità
 
-* **Lista**: Trasmutazione
-* **Livello**: 3, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Trasmutazione |
+| --- | --- |
+| **Livello**: | 3, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Acceleri il metabolismo di massimo 2 più le volte che hai preso Adepto della Magia creature a tua scelta in un raggio di 3 metri a gittata. Fino al termine dell'incantesimo i bersagli possono eseguire una Azione aggiuntiva di Attacco, senza penalità di multiattacco, o di Movimento. L'Azione aggiuntiva può essere parte di un altra Azione.
 
@@ -5011,11 +5376,12 @@ Quando l'incantesimo termina, i bersagli sono Rallentati 2/1r mentre sono preda 
 
 ### Ventriloquio
 
-* **Lista**: Illusione
-* **Livello**: 1, Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 9 metri
-* **Durata**: 1 minuto
+| **Lista**: | Illusione |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 9 metri |
+| **Durata**: | 1 minuto |
 
 Puoi far sembrare che la tua voce (o qualsiasi suono che puoi normalmente produrre vocalmente) provenga da un altro luogo. Puoi parlare in qualsiasi lingua tu conosca. Chiunque senta il suono può tentare una prova di Consapevolezza contro la tua DC dell'incantesimo. In caso di successo, riconoscono che è illusorio, ma lo sentono comunque. Puoi interromperlo a volontà per la durata, senza azioni richieste.
 
@@ -5023,11 +5389,12 @@ Puoi far sembrare che la tua voce (o qualsiasi suono che puoi normalmente produr
 
 ### Vigilanza e Interdizione
 
-* **Lista**: Abiurazione
-* **Livello**: 6, Non Comune
-* **Lancio**: 10 minuti
-* **Gittata**: Contatto
-* **Durata**: 24 ore
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 6, Non Comune |
+| **Lancio**: | 10 minuti |
+| **Gittata**: | Contatto |
+| **Durata**: | 24 ore |
 
 Crei una interdizione che protegge fino a 225 metri quadri di pavimento (un'area quadrata di 15 metri di lato, o cento quadrati di 1 metro di lato o venticinque quadrati di 3 metri di lato). L'area interdetta può essere alta fino a 6 metri, e modellata come preferisci. Puoi interdire diversi piani di una roccaforte dividendo l'area tra di essi, purché tu possa camminare ininterrottamente in ogni area adiacente, mentre lanci l'incantesimo.
 
@@ -5053,41 +5420,45 @@ L'intera area interdetta irradia magia. Un incantesimo dissolvi magie lanciato c
 
 ### Vigore
 
-* **Lista**: Cura
-* **Livello**: 4, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 round per CM
+| **Lista**: | Cura |
+| --- | --- |
+| **Livello**: | 4, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 round per CM |
 
 La creatura influenzata da questo incantesimo recupera un livello di Affaticamento, acquisisce 3d6 Punti Ferita Temporanei. Può concentrare le energie per effettuare una Azione di Attacco senza penalità di multiattacco o eseguire una Azione di Movimento in più.
 
 ### Vincolo di Interdizione
 
-* **Lista**: Abiurazione
-* **Livello**: 2, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 2, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Lanci l'incantesimo a contatto di una creatura che vuoi proteggere. Crei una connessione mistica tra di te e il bersaglio fino al termine dell'incantesimo. Finché il bersaglio è entro 18 metri da te, ottiene un bonus di +1 alla Difesa e ai Tiri Salvezza e ha resistenza a tutti i danni. Inoltre, ogni volta che il bersaglio subisce danni, tu ne subisci la stessa quantità. L'incantesimo ha fine se scendi a 0 Punti Ferita o tu e il bersaglio vi allontanate più di 18 metri. Ha fine anche se lo lanci di nuovo sulla stessa creatura su cui è già in atto. Puoi interrompere l'incantesimo con un'Azione.
 
 ### Visione del Vero
 
-* **Lista**: Divinazione
-* **Livello**: 6, Raro
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 1 ora
+| **Lista**: | Divinazione |
+| --- | --- |
+| **Livello**: | 6, Raro |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 1 ora |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Il bersaglio riceve la capacità di vedere le cose come sono realmente. Per la durata dell'incantesimo, la creatura ha visione del vero, nota porte segrete nascoste dalla magia e può vedere nel Piano Etereo, fino a una gittata di 36 metri. Vedi anche Visione del Vero pag. .
 
 ### Vita Falsata
 
-* **Lista**: Necromanzia
-* **Livello**: 1, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Personale
-* **Durata**: 1 ora
+| **Lista**: | Necromanzia |
+| --- | --- |
+| **Livello**: | 1, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Personale |
+| **Durata**: | 1 ora |
 
 Potenziandoti con una parvenza necromantica di vitalità, ottieni 1d4 + 4 Punti Ferita temporanei per la durata.
 
@@ -5095,11 +5466,12 @@ Potenziandoti con una parvenza necromantica di vitalità, ottieni 1d4 + 4 Punti 
 
 ### Viticci Perforanti
 
-* **Lista**: Ammali e Piante
-* **Livello**: 0, Non Comune
-* **Lancio**: 1 Azione
-* **Gittata**: 9 metri
-* **Durata**: Istantanea
+| **Lista**: | Ammali e Piante |
+| --- | --- |
+| **Livello**: | 0, Non Comune |
+| **Lancio**: | 1 Azione |
+| **Gittata**: | 9 metri |
+| **Durata**: | Istantanea |
 
 Scateni dal palmo della tua mano 1 viticcio puntuto e spinato. Esegui un Tiro per Colpire a distanza con incantesimi sul bersaglio designato.
 Se il Tiro per Colpire ha successo il bersaglio subisce 1d4 Punti Ferita da danno da penetrazione.
@@ -5112,11 +5484,12 @@ Se spendi 1 Punto Magia nel lancio dell'incantesimo il viticcio diventa velenoso
 
 ### Volare
 
-* **Lista**: Aria
-* **Livello**: 3, Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 10 minuti
+| **Lista**: | Aria |
+| --- | --- |
+| **Livello**: | 3, Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 10 minuti |
 
 Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'incantesimo, il bersaglio ottiene velocità di volo 18 metri. Quando l'incantesimo ha fine, qualora sia ancora in aria, il bersaglio cade, a meno che non riesca a frenare la discesa.
 
@@ -5126,11 +5499,12 @@ Lanciare un incantesimo mentre si vola è più complesso, si è Distratti se non
 
 ### Scudo Mentale
 
-* **Lista**: Abiurazione
-* **Livello**: 8, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: Contatto
-* **Durata**: 24 ore
+| **Lista**: | Abiurazione |
+| --- | --- |
+| **Livello**: | 8, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | Contatto |
+| **Durata**: | 24 ore |
 
 Fino al termine dell'incantesimo, una creatura consenziente con cui sei in contatto durante il lancio è immune a qualsiasi effetto che ne percepirebbe le emozioni o leggerebbe i pensieri, incantesimi di divinazione e la condizione Affascinato. l'incantesimo nega anche gli incantesimi desiderio e altri incantesimi o effetti di simili potenza impiegati per
 influenzare la mente del bersaglio o per ottenere informazioni su di esso.
@@ -5139,11 +5513,12 @@ influenzare la mente del bersaglio o per ottenere informazioni su di esso.
 
 ### Zona di Verità
 
-* **Lista**: Ammaliamento
-* **Livello**: 2, Non Comune
-* **Lancio**: 2 Azioni
-* **Gittata**: 18 metri
-* **Durata**: 10 minuti
+| **Lista**: | Ammaliamento |
+| --- | --- |
+| **Livello**: | 2, Non Comune |
+| **Lancio**: | 2 Azioni |
+| **Gittata**: | 18 metri |
+| **Durata**: | 10 minuti |
 
 Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di raggio centrata su di un punto a gittata di tua scelta. Fino al termine dell'incantesimo, una creatura che entra nell'area dell'incantesimo per la prima volta durante un round, o inizia il suo round al suo interno, deve effettuare un Tiro Salvezza su Volontà. Se fallisce il Tiro Salvezza, la creatura non può pronunciare bugie deliberatamente mentre è nel raggio dell'incantesimo. Sei a conoscenza se una creatura ha superato o fallito il Tiro Salvezza. Una creatura soggetta all'incantesimo ne è consapevole e può quindi evitare di rispondere a domande a cui risponderebbe normalmente con una bugia. Questa creatura può dare risposte elusive purché rimanga entro i confini della verità.
 

@@ -20,16 +20,17 @@ Oskar Schindler: That' \*\*s what the emperors had. A man steals something, he' 
 
 (Schindler' \*\*s List, Film, 1993)
 
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4
-- **Hit Points**: 199,  **Defense:** 24,  **Initiative:** +4
-- **Movement**: 3 m, swim 12 m
-- **Saving Throws**: Fortitude +12, Reflex +9, Will +12
-- **Spells**: immune to Illusion spells below 2nd level
-- **Skills**: Awareness +10, History +12
-- **Senses**: Darkvision 36 m
-- **Languages**: Aquan, telepathy 36 m
-- **Challenge**: 10 (5900 XP)
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4 |
+| **Hit Points** | 199, **Defense:** 24, **Initiative:** +4 |
+| **Movement** | 3 m, swim 12 m |
+| **S. Throws** | Fortitude +12, Reflex +9, Will +12 |
+| **Spells** | immune to Illusion spells below 2nd level |
+| **Skills** | Awareness +10, History +12 |
+| **Senses** | Darkvision 36m |
+| **Languages** | Aquan, telepathy 36 m |
+| **Challenge** | 10 (5900 XP) |
 
 ***Amphibious.*** The aboleth can breathe air and water.
 
@@ -72,16 +73,18 @@ Organization: Solitary, pair, brood (3-6), or shoal (7-19)
 As their primitive appearance suggests, aboleths are among the oldest life forms in the world. An aboleth is 7 meters long and weighs about 3.2 tons. Aboleths dwell at the bottom of the seas in their vast cities, served by countless slaves.
 
 Adult Black Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3
-- **Hit Points**: 338,  **Defense:** 36,  **Initiative:** +2
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +22, Reflex +19, Will +18
-- **Skills**: Stealth +7, Awareness +11
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 338, **Defense:** 36, **Initiative:** +2 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +22, Reflex +19, Will +18 |
+| **Skills** | Stealth +7, Awareness +11 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Corrosive gases.*** The dragon emits corrosive gases in a 3-meter radius that deal 1d6 acid damage per round.
 
@@ -139,16 +142,18 @@ Organization: Solitary
 - Bestow Curse
 
 Adult Blue Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
-- **Hit Points**: 322,  **Defense:** 33,  **Initiative:** +3
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +22, Reflex +16, Will +18
-- **Skills**: Stealth +5, Perception +13
-- **Damage Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 322, **Defense:** 33, **Initiative:** +3 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +22, Reflex +16, Will +18 |
+| **Skills** | Stealth +5, Perception +13 |
+| **Dam. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 16 (15000 XP) |
 
 ***Electric discharge.*** the dragon emits magical electric discharges within a 3-meter radius that cause 1d6 lightning damage per round.
 
@@ -204,16 +209,18 @@ Organization: Solitary
 - Ice Storm
 
 Adult Brass Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3
-- **Hit Points**: 262,  **Defense:** 29,  **Initiative:** +2
-- **Movement**: 12 m, burrow 9 m, fly 24 m
-- **Saving Throws**: Fortitude +18, Reflex +13, Will +14
-- **Dmg. Imm.**: Fire
-- **Skills**: Stealth +5, Awareness +11, Deception +8, History +7
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 262, **Defense:** 29, **Initiative:** +2 |
+| **Movement** | 12 m, burrow 9 m, fly 24 m |
+| **S. Throws** | Fortitude +18, Reflex +13, Will +14 |
+| **Dmg. Imm.** | Fire |
+| **Skills** | Stealth +5, Awareness +11, Deception +8, History +7 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 13 (10000 XP) |
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -271,16 +278,18 @@ Organization: Solitary
 - Scrying
 
 Adult Bronze Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
-- **Hit Points**: 303,  **Defense:** 32,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +21, Reflex +15, Will +17
-- **Skills**: Stealth +5, Sense Motive +7, Awareness +12
-- **Dmg. Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 303, **Defense:** 32, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +21, Reflex +15, Will +17 |
+| **Skills** | Stealth +5, Sense Motive +7, Awareness +12 |
+| **Dmg. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 15 (13000 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -343,16 +352,18 @@ Organization: Solitary
 - Freedom of Movement
 
 Adult Copper Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
-- **Hit Points**: 281,  **Defense:** 31,  **Initiative:** +4
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +19, Reflex +15, Will +16
-- **Skills**: Stealth +6, Deception +8, Perception +12
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 14 (11,500 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3 |
+| **Hit Points** | 281, **Defense:** 31, **Initiative:** +4 |
+| **Movement** | 40 ft, climb 40 ft, fly 80 ft |
+| **S. Throws** | Fortitude +19, Reflex +15, Will +16 |
+| **Skills** | Stealth +6, Deception +8, Perception +12 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 120 ft, Blindsight 60 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 14 (11,500 XP) |
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -370,7 +381,7 @@ Adult Copper Dragon
 
 *Hit:* 17 (2d10 + 6) piercing damage.
 
-***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 27 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 36 m of the dragon and aware of it must succeed on a DC 27 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
@@ -410,16 +421,18 @@ Organization: Solitary
 - Fire Shield
 
 Adult Gold Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7
-- **Hit Points**: 344,  **Defense:** 36,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +24, Reflex +19, Will +19
-- **Skills**: Stealth +8, Sense Motive +8, Awareness +14, Deception +13
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7 |
+| **Hit Points** | 344, **Defense:** 36, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +24, Reflex +19, Will +19 |
+| **Skills** | Stealth +8, Sense Motive +8, Awareness +14, Deception +13 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Weakening aura.*** The dragon emits an aura in a 3-meter radius that causes Fatigued 1. Remaining in the aura does not increase the fatigue level.
 
@@ -485,16 +498,18 @@ Organization: Solitary
 - Black Tentacles
 
 Adult Green Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
-- **Hit Points**: 300,  **Defense:** 33,  **Initiative:** +4
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +20, Reflex +16, Will +17
-- **Skills**: Stealth +6, Deception +8, Sense Motive +7, Awareness +12
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3 |
+| **Hit Points** | 300, **Defense:** 33, **Initiative:** +4 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +20, Reflex +16, Will +17 |
+| **Skills** | Stealth +6, Deception +8, Sense Motive +7, Awareness +12 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 15 (13000 XP) |
 
 ***Mephitic air.*** The dragon emits magical gases in a 3-meter radius that deal 1d6 poison damage per round.
 
@@ -552,16 +567,18 @@ Organization: Solitary
 - Neutralize Poison
 
 Adult Red Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
-- **Hit Points**: 344,  **Defense:** 34,  **Initiative:** +3
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +24, Reflex +17, Will +18
-- **Skills**: Stealth +6, Awareness +13
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5 |
+| **Hit Points** | 344, **Defense:** 34, **Initiative:** +3 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +24, Reflex +17, Will +18 |
+| **Skills** | Stealth +6, Awareness +13 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Flame aura.*** The dragon emits magical heat in a 3-meter radius that deals 1d6 fire damage per round.
 
@@ -619,16 +636,18 @@ Organization: Solitary
 - Wall of Fire
 
 Adult Silver Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
-- **Hit Points**: 325,  **Defense:** 33,  **Initiative:** +3
-- **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +23, Reflex +16, Will +17
-- **Skills**: Arcana +8, Stealth +5, Awareness +11, History +8
-- **Dmg. Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5 |
+| **Hit Points** | 325, **Defense:** 33, **Initiative:** +3 |
+| **Movement** | 12 m, fly 24 m |
+| **S. Throws** | Fortitude +23, Reflex +16, Will +17 |
+| **Skills** | Arcana +8, Stealth +5, Awareness +11, History +8 |
+| **Dmg. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 16 (15000 XP) |
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -690,16 +709,18 @@ Organization: Solitary
 - Dream
 
 Adult White Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1
-- **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +2
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +19, Reflex +13, Will +14
-- **Skills**: Stealth +5, Perception +8
-- **Damage Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1 |
+| **Hit Points** | 264, **Defense:** 29, **Initiative:** +2 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +19, Reflex +13, Will +14 |
+| **Skills** | Stealth +5, Perception +8 |
+| **Dam. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 13 (10000 XP) |
 
 ***Frost aura.*** the dragon emits magical frost within a 3-meter radius that causes 1d6 cold damage per round.
 
@@ -755,16 +776,18 @@ Organization: Solitary
 - Sleet Storm
 
 Ancient Black Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4
-- **Hit Points**: 422,  **Defense:** 42,  **Initiative:** +3
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +28, Reflex +23, Will +23
-- **Skills**: Stealth +9, Awareness +16
-- **Damage Imm.**: Acid, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 422, **Defense:** 42, **Initiative:** +3 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +28, Reflex +23, Will +23 |
+| **Skills** | Stealth +9, Awareness +16 |
+| **Dam. Imm.** | Acid, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 21 (33000 XP) |
 
 ***Corrosive gases.*** The dragon emits corrosive gases in a 3-meter radius that deal 2d6 acid damage per round.
 
@@ -842,16 +865,18 @@ Black Dragons represent the Traits of selfishness and violence, hating every for
 Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead being to life despite all the constraints imposed by the Patrons.
 
 Ancient Blue Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
-- **Hit Points**: 465,  **Defense:** 42,  **Initiative:** +4
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +31, Reflex +23, Will +26
-- **Skills**: Stealth +7, Perception +17
-- **Damage Imm.**: Lightning, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5 |
+| **Hit Points** | 465, **Defense:** 42, **Initiative:** +4 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +31, Reflex +23, Will +26 |
+| **Skills** | Stealth +7, Perception +17 |
+| **Dam. Imm.** | Lightning, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 23 (50000 XP) |
 
 ***Electric discharge.*** the dragon emits magical electric discharges within a 3-meter radius that cause 2d6 lightning damage per round.
 
@@ -923,16 +948,18 @@ They don' \*\*t get along with purple dragons, which they despise for having cho
 - Ice Storm
 
 Ancient Brass Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4
-- **Hit Points**: 403,  **Defense:** 38,  **Initiative:** +3
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +27, Reflex +20, Will +22
-- **Dmg. Imm.**: Fire, +1 weapons
-- **Skills**: Awareness +14
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 20 (25000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 403, **Defense:** 38, **Initiative:** +3 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +27, Reflex +20, Will +22 |
+| **Dmg. Imm.** | Fire, +1 weapons |
+| **Skills** | Awareness +14 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 20 (25000 XP) |
 
 ***Soporific aura.*** The dragon emits a magical aura in a 3-meter radius that causes Slowed 1 or Fatigued 1, randomly for each creature.
 
@@ -992,16 +1019,18 @@ Organization: Solitary
 - Scrying
 
 Ancient Bronze Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
-- **Hit Points**: 446,  **Defense:** 41,  **Initiative:** +4
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +30, Reflex +22, Will +25
-- **Skills**: Stealth +7, Sense Motive +10, Awareness +17
-- **Dmg. Imm.**: Lightning, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 22 (41000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5 |
+| **Hit Points** | 446, **Defense:** 41, **Initiative:** +4 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +30, Reflex +22, Will +25 |
+| **Skills** | Stealth +7, Sense Motive +10, Awareness +17 |
+| **Dmg. Imm.** | Lightning, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 22 (41000 XP) |
 
 ***Repelling aura.*** The dragon emits an aura in a 3-meter radius that disturbs creatures. Each attack made suffers a penalty of 3 - attack distance.
 
@@ -1062,16 +1091,18 @@ Organization: Solitary
 - Freedom of Movement
 
 Ancient Copper Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
-- **Hit Points**: 422,  **Defense:** 41,  **Initiative:** +5
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +28, Reflex +22, Will +24
-- **Skills**: Stealth +8, Deception +11, Perception +17
-- **Damage Imm.**: Acid, +1 weapons
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4 |
+| **Hit Points** | 422, **Defense:** 41, **Initiative:** +5 |
+| **Movement** | 40 ft, climb 40 ft, fly 80 ft |
+| **S. Throws** | Fortitude +28, Reflex +22, Will +24 |
+| **Skills** | Stealth +8, Deception +11, Perception +17 |
+| **Dam. Imm.** | Acid, +1 weapons |
+| **Senses** | Darkvision 36 m, Blindsight 18 m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 21 (33000 XP) |
 
 ***Corrosive Gases.*** The dragon emits corrosive gases in a 10-foot radius that deal 2d6 acid damage per round.
 
@@ -1093,7 +1124,7 @@ Ancient Copper Dragon
 
 *Hit:* 19 (2d10 + 8) piercing damage.
 
-***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 34 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 36 m of the dragon and aware of it must succeed on a DC 34 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
@@ -1133,16 +1164,18 @@ Organization: Solitary
 - Fire Shield
 
 Ancient Gold Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9
-- **Hit Points**: 490,  **Defense:** 46,  **Initiative:** +4
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +33, Reflex +26, Will +27
-- **Skills**: Stealth +9, Sense Motive +10, Awareness +17, Deception +16
-- **Dmg. Imm.**: Fire, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 24 (62000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9 |
+| **Hit Points** | 490, **Defense:** 46, **Initiative:** +4 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +33, Reflex +26, Will +27 |
+| **Skills** | Stealth +9, Sense Motive +10, Awareness +17, Deception +16 |
+| **Dmg. Imm.** | Fire, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 24 (62000 XP) |
 
 ***Weakening aura.*** The dragon emits an aura in a 3-meter radius that causes Fatigued 2. Remaining in the aura does not increase the fatigue level.
 
@@ -1204,16 +1237,18 @@ Organization: Solitary
 - Black Tentacles
 
 Ancient Green Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
-- **Hit Points**: 441,  **Defense:** 42,  **Initiative:** +5
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +29, Reflex +23, Will +25
-- **Skills**: Stealth +8, Deception +11, Sense Motive +10, Awareness + 15
-- **Damage Imm.**: Poison, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 22 (41000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4 |
+| **Hit Points** | 441, **Defense:** 42, **Initiative:** +5 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +29, Reflex +23, Will +25 |
+| **Skills** | Stealth +8, Deception +11, Sense Motive +10, Awareness + 15 |
+| **Dam. Imm.** | Poison, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 22 (41000 XP) |
 
 ***Mephitic air.*** The dragon emits magical gases in a 3-meter radius that deal 2d6 poison damage per round.
 
@@ -1283,16 +1318,18 @@ Among the many dragons, the green one is perhaps the one that will talk to adven
 - Neutralize Poison
 
 Ancient Purple Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4
-- **Hit Points**: 428,  **Defense:** 44,  **Initiative:** +4
-- **Movement**: 12 m, burrow 24 m
-- **Saving Throws**: Fortitude +26, Reflex +25, Will +26
-- **Skills**: Dungeon Knowledge +8, Intimidation +11, Sense Motive +10, Awareness + 15
-- **Damage Imm.**: Sound, weapons +1
-- **Senses**: Darkvision 36 m, Tremorsense 72 m
-- **Languages**: Common, Draconic
-- **Challenge**: 22 (41000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4 |
+| **Hit Points** | 428, **Defense:** 44, **Initiative:** +4 |
+| **Movement** | 12 m, burrow 24 m |
+| **S. Throws** | Fortitude +26, Reflex +25, Will +26 |
+| **Skills** | Dungeon Knowledge +8, Intimidation +11, Sense Motive +10, Awareness + 15 |
+| **Dam. Imm.** | Sound, weapons +1 |
+| **Senses** | Darkvision 36 m, Tremorsense 72 m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 22 (41000 XP) |
 
 ***Explosive waves.*** The dragon emits sonic vibrations in a 3-meter radius that deal 2d6 sonic damage per round.
 
@@ -1359,16 +1396,18 @@ It is strong and courageous, arrogant but not brazen. It is not afraid to fight 
 - Stone Shape
 
 Ancient Red Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
-- **Hit Points**: 490,  **Defense:** 44,  **Initiative:** +4
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +33, Reflex +24, Will +26
-- **Skills**: Stealth +7, Awareness +16
-- **Damage Imm.**: Fire, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 24 (62000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6 |
+| **Hit Points** | 490, **Defense:** 44, **Initiative:** +4 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +33, Reflex +24, Will +26 |
+| **Skills** | Stealth +7, Awareness +16 |
+| **Dam. Imm.** | Fire, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 24 (62000 XP) |
 
 ***Flame aura.*** The dragon emits magical heat in a 3-meter radius that deals 2d6 fire damage per round.
 
@@ -1433,16 +1472,18 @@ They fight using their bulk, wings, bite, claws... basically everything they are
 - Wall of Fire
 
 Ancient Silver Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
-- **Hit Points**: 470,  **Defense:** 42,  **Initiative:** +4
-- **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +32, Reflex +23, Will +25
-- **Skills**: Arcana +11, Stealth +7, Awareness +16, History +11
-- **Damage Imm.**: Cold, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6 |
+| **Hit Points** | 470, **Defense:** 42, **Initiative:** +4 |
+| **Movement** | 12 m, fly 24 m |
+| **S. Throws** | Fortitude +32, Reflex +23, Will +25 |
+| **Skills** | Arcana +11, Stealth +7, Awareness +16, History +11 |
+| **Dam. Imm.** | Cold, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 23 (50000 XP) |
 
 ***Slowing aura.*** The dragon emits a magical aura in a 3-meter radius that causes Slowed 1.
 
@@ -1504,16 +1545,18 @@ Organization: Solitary
 - Dream
 
 Ancient White Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2
-- **Hit Points**: 407,  **Defense:** 38,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +28, Reflex +20, Will +21
-- **Skills**: Stealth +6, Perception +13
-- **Damage Imm.**: Cold, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 20 (25000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2 |
+| **Hit Points** | 407, **Defense:** 38, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +28, Reflex +20, Will +21 |
+| **Skills** | Stealth +6, Perception +13 |
+| **Dam. Imm.** | Cold, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 20 (25000 XP) |
 
 ***Frost aura.*** the dragon emits magical frost within a 3-meter radius that causes 2d6 cold damage per round.
 
@@ -1581,16 +1624,18 @@ Their lairs are icy caves in the mountains or dug into the most massive glaciers
 - Sleet Storm
 
 Ancient Yellow Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4
-- **Hit Points**: 465,  **Defense:** 43,  **Initiative:** +3
-- **Movement**: 12 m, burrow 24 m, climb 24, fly 12 m
-- **Saving Throws**: Fortitude +31, Reflex +24, Will +25
-- **Skills**: Stealth +7, Awareness +17
-- **Damage Imm.**: Fire, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 465, **Defense:** 43, **Initiative:** +3 |
+| **Movement** | 12 m, burrow 24 m, climb 24, fly 12 m |
+| **S. Throws** | Fortitude +31, Reflex +24, Will +25 |
+| **Skills** | Stealth +7, Awareness +17 |
+| **Dam. Imm.** | Fire, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 23 (50000 XP) |
 
 ***Searing heat.*** The dragon emits magical heat in a 3-meter radius that deals 2d6 fire damage per round.
 
@@ -1639,17 +1684,19 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 - Fire Shield
 
 Androsphinx
-- **Size/Type**: Large monstrosity, lawful
-- **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
-- **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +3
-- **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: Fortitude +22, Reflex +17, Will +21
-- **Skills**: Arcana +9, Religion +15
-- **Dmg. Imm.**: from non-magical weapons
-- **Immunities**: charmed, frightened
-- **Senses**: truesight 120 ft
-- **Languages**: Common, Sphinx
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Large monstrosity, lawful |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6 |
+| **Hit Points** | 338, **Defense:** 34, **Initiative:** +3 |
+| **Movement** | 40 ft, fly 60 ft |
+| **S. Throws** | Fortitude +22, Reflex +17, Will +21 |
+| **Skills** | Arcana +9, Religion +15 |
+| **Dmg. Imm.** | from non-magical weapons |
+| **Immunities** | charmed, frightened |
+| **Senses** | truesight 120 ft |
+| **Languages** | Common, Sphinx |
+| **Challenge** | 17 (18000 XP) |
 
 ***Magic Weapons.*** The sphinx' \*\*s weapon attacks are magical.
 
@@ -1696,7 +1743,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet of it.
+**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 36 m of it.
 
 ***Enraged:*** The Sphinx poses a riddle. The creature must answer, using all its actions and one answer per round, within 6 rounds. If it fails or doesn' \*\*t answer, it must make a Will Saving Throw at DC 31 or remain paralyzed. Each round it can try the Saving Throw again in an attempt to give an answer. Costs 1 Action.
 
@@ -1715,15 +1762,17 @@ Androsphinxes display a grumpy and spiteful facade toward strangers. They make n
 Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
 Animated Armor
-- **Size/Type**: Medium construct, unaligned
-- **Ability**: Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 25 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium construct, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 25 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 1 (200 XP) |
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
@@ -1736,13 +1785,15 @@ Animated Armor
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
 Ankheg
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
-- **Movement**: 9 m, burrow 3 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +0 |
+| **Movement** | 9 m, burrow 3 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -1763,14 +1814,16 @@ Ankhegs are burrowing monsters that prefer countryside areas due to the soft gro
 Some ankhegs are trainable and can become beasts of burden, although their unpredictable behavior makes them dangerous in civilized regions.
 
 Aquatic Man
-- **Size/Type**: Medium humanoid (aquatic man), neutral
-- **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 3 m, swim 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Awareness +2
-- **Languages**: Aquan, Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid (aquatic man), neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 3 m, swim 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Awareness +2 |
+| **Languages** | Aquan, Common |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Amphibious.*** The aquatic man can breathe air and water.
 
@@ -1789,14 +1842,16 @@ Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, 
 Physically, the Fish Men resemble their ancestors, with expressive foreheads, pale skin, dark hair, and purple eyes. They have three thin gills on their neck, but can pass for Humans for short periods, if they wish.
 
 Azer
-- **Size/Type**: Medium elemental, lawful
-- **Ability**: Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Damage Imm.**: Fire, Poison
-- **Languages**: Ignan
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium elemental, lawful |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Dam. Imm.** | Fire, Poison |
+| **Languages** | Ignan |
+| **Challenge** | 2 (450 XP) |
 
 ***Heated Weapons.*** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (already included in the attack).
 
@@ -1827,15 +1882,17 @@ In the legendary City of Brass live more than half a million Azer. Most of these
 To an untrained eye, the Azer appear impressively similar to each other. They are 1.2 meters tall but weigh 100 kg.
 
 B.O.C.
-- **Size/Type**: large monstrosity, evil
-- **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1
-- **Hit Points**: 88,  **Defense:** 20,  **Initiative:** +3
-- **Movement**: 13 m
-- **Saving Throws**: Fortitude +6, Reflex +7, Will +5
-- **Skills**: Stealth +8
-- **Senses**: Darkvision 20 m, Low-light Vision 18 m
-- **Languages**: Common, can only understand it
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 88, **Defense:** 20, **Initiative:** +3 |
+| **Movement** | 13 m |
+| **S. Throws** | Fortitude +6, Reflex +7, Will +5 |
+| **Skills** | Stealth +8 |
+| **Senses** | Darkvision 20 m, Low-light Vision 18 m |
+| **Languages** | Common, can only understand it |
+| **Challenge** | 4 (1100 XP) |
 
 **Actions*Multiattack.*** The B.O.C makes two claw attacks and one bite attack, or makes two attacks with its tentacles.
 
@@ -1868,17 +1925,19 @@ Organization: Solitary, pair, or pack (2d4)
 The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviously black in color. Fierce, insatiable, it kills for the pleasure of hunting. It usually operates in packs and is extremely loyal to the group.
 
 Balor
-- **Size/Type**: Huge demon, evil
-- **Ability**: Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6
-- **Hit Points**: 379,  **Defense:** 39,  **Initiative:** +5
-- **Movement**: 12 m, flight 24 m
-- **Saving Throws**: Fortitude +25, Reflex +21, Will +22
-- **Damage Resistance**: Cold, Lightning;
-- **Damage Immunity**: Fire, Poison, +1 weapons
-- **Vulnerability**: cold iron, Light
-- **Senses**: truesight 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 19 (22000 XP)
+
+| **Size/Type** | Huge demon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6 |
+| **Hit Points** | 379, **Defense:** 39, **Initiative:** +5 |
+| **Movement** | 12 m, flight 24 m |
+| **S. Throws** | Fortitude +25, Reflex +21, Will +22 |
+| **Damage Resistance** | Cold, Lightning; |
+| **Damage Immunity** | Fire, Poison, +1 weapons |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 19 (22000 XP) |
 
 ***Magic Weapons.*** The demon' \*\*s weapon attacks are magical.
 
@@ -1917,17 +1976,19 @@ In the Abyss, Balors are mostly in the service of demon lords, as generals or ca
 A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls can fuel the creation of a balor: unlike other demons, it often takes numerous souls of powerful evildoers to give birth to a new balor.
 
 Banshee
-- **Size/Type**: Medium undead, Arrogant, Vain
-- **Ability**: Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4
-- **Hit Points**: 87,  **Defense:** 22,  **Initiative:** +5
-- **Movement**: 0 m, fly 18 m, Hover
-- **Saving Throws**: Fortitude +4, Reflex +9, Will +5
-- **Damage Res.**: Acid, Electricity, Fire, Sound; +1 magic weapons
-- **Damage Imm.**: Void, Poison, Cold, nonmagical weapons
-- **Immunities**: charmed, grappled, restrained, paralyzed, petrified, prone, exhausted, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: Elvish, Common, Expiran
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium undead, Arrogant, Vain |
+| --- | --- |
+| **Ability** | Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4 |
+| **Hit Points** | 87, **Defense:** 22, **Initiative:** +5 |
+| **Movement** | 0 m, fly 18 m, Hover |
+| **S. Throws** | Fortitude +4, Reflex +9, Will +5 |
+| **Damage Res.** | Acid, Electricity, Fire, Sound; +1 magic weapons |
+| **Dam. Imm.** | Void, Poison, Cold, nonmagical weapons |
+| **Immunities** | charmed, grappled, restrained, paralyzed, petrified, prone, exhausted, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Elvish, Common, Expiran |
+| **Challenge** | 4 (1100 XP) |
 
 ***Detect Life***. The Banshee can sense the presence of creatures that are not undead or constructs within a range of 5 kilometers. It knows the general direction they are in, but not their exact location.
 
@@ -1958,13 +2019,15 @@ Organization: Solitary
 The Banshee is the enraged spirit of a woman who betrayed her loved ones or was herself betrayed. Driven mad with grief, the Banshee unleashes her vengeance on every living creature (innocent or guilty) with her dreadful touch and her deadly screams.
 
 Basilisk
-- **Size/Type**: Medium monstrosity, unaligned
-- **Ability**: Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2
-- **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 15, **Initiative:** -1 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Petrifying Gaze.*** If a creature starts its turn within 9 meters of the basilisk and the two can see each other, if the basilisk isn' \*\*t incapacitated, it can force the creature to make a Fortitude saving throw DC 14. If the creature fails the saving throw, it becomes Slowed 1. The creature must repeat the saving throw at the end of its next turn. If it succeeds, the effect ends. If it fails, the creature is petrified until freed by the *Greater Restoration* spell or other magic.
 
@@ -1999,17 +2062,19 @@ An adult basilisk is almost 3 meters long, half of which is occupied by the long
 For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk' \*\*s gaze, and sometimes sneak into the dens while the adult is hunting to feed on its young.
 
 Bearded Devil
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +5, Reflex +5, Will +3
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +5, Reflex +5, Will +3 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -2042,16 +2107,18 @@ Chosen warriors of the infernal legions, bearded devils, or barbazus, fight sava
 Barbazus love to make charging attacks with their glaives and try to maintain a distance of 3 meters between themselves and their opponents, so they can use their characteristic pole weapons with maximum efficiency. Standing upright, bearded devils are more than 1.8 meters tall (although the crouched position they keep in battle often makes them appear shorter) and weigh more than 100 kg.
 
 Behir
-- **Size/Type**: Huge monstrosity, evil
-- **Ability**: Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1
-- **Hit Points**: 221,  **Defense:** 29,  **Initiative:** +3
-- **Movement**: 15 m, climb 12 m
-- **Saving Throws**: Fortitude +15, Reflex +14, Will +13
-- **Skills**: Stealth +7
-- **Damage Imm.**: Electricity
-- **Senses**: Darkvision 27 m
-- **Languages**: Draconic
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Huge monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1 |
+| **Hit Points** | 221, **Defense:** 29, **Initiative:** +3 |
+| **Movement** | 15 m, climb 12 m |
+| **S. Throws** | Fortitude +15, Reflex +14, Will +13 |
+| **Skills** | Stealth +7 |
+| **Dam. Imm.** | Electricity |
+| **Senses** | Darkvision 27 m |
+| **Languages** | Draconic |
+| **Challenge** | 11 (7200 XP) |
 
 **Actions*Multiattack.*** The behir makes two attacks: one with its bite and one to constrict.
 
@@ -2084,16 +2151,18 @@ The behir is a territorial creature that crawls through sandy hills and desert r
 Despite its bestial fury, the behir is not necessarily evil and can be persuaded by intrepid negotiators. Behirs are often linked to blue dragons, but the nature of this connection is unknown. This bond creates resentment in behirs, making them ready to attack any dragon that enters their territory.
 
 Black Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m, climb 9 m, fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +4, Awareness +4
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m, climb 9 m, fly 18 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Awareness +4 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -2114,18 +2183,20 @@ Organization: Solitary
 See Ancient Black Dragon Description.
 
 Black Knight
-- **Size/Type**: Medium undead, Arrogant, Patient
-- **Ability**: Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3
-- **Hit Points**: 357,  **Defense:** 37,  **Initiative:** +1
-- **Movement**: 9 meters
-- **Saving Throws**: Fortitude +23, Reflex +19, Will +20
-- **Skills**: Intimidate +12, Religion +8, Planes Knowledge +8, Arcana Knowledge +5
-- **Damage Res.**: Cold, Electricity
-- **Damage Imm.**: Void, Poison; +1 weapons
-- **Immunities**: charmed, paralyzed, exhausted, frightened, bleeding
-- **Senses**: Darkvision 36 m
-- **Languages**: Common, Abyssal, Expiran
-- **Challenge**: 18 (20000 XP)
+
+| **Size/Type** | Medium undead, Arrogant, Patient |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 357, **Defense:** 37, **Initiative:** +1 |
+| **Movement** | 9 meters |
+| **S. Throws** | Fortitude +23, Reflex +19, Will +20 |
+| **Skills** | Intimidate +12, Religion +8, Planes Knowledge +8, Arcana Knowledge +5 |
+| **Damage Res.** | Cold, Electricity |
+| **Dam. Imm.** | Void, Poison; +1 weapons |
+| **Immunities** | charmed, paralyzed, exhausted, frightened, bleeding |
+| **Senses** | Darkvision 36m |
+| **Languages** | Common, Abyssal, Expiran |
+| **Challenge** | 18 (20000 XP) |
 
 ***Spells.*** The Black Knight has Magic Proficiency 7. Its spellcasting ability is Charisma. The Black Knight knows the following spells:
 
@@ -2162,15 +2233,17 @@ Organization: Solitary
 Damned to the depths of his soul, the Black Knight is the antithesis of the knight of Sumkjr, and often arises from the corruption of a knight of Sumkjr. A formidable adversary, cunning, tactical, he loves to behave and reason maliciously, like a person still alive. His tactic is to cast Fireball as soon as possible and then consume the victim with Branding Smite.
 
 Black Pudding
-- **Size/Type**: Large ooze, unaligned
-- **Ability**: Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5
-- **Hit Points**: 89,  **Defense:** 14,  **Initiative:** -3
-- **Movement**: 20 ft, climb 20 ft
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +3
-- **Damage Imm.**: Acid, Cold, Lightning, slashing, from critical
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 89, **Defense:** 14, **Initiative:** -3 |
+| **Movement** | 20 ft, climb 20 ft |
+| **S. Throws** | Fortitude +7, Reflex +3, Will +3 |
+| **Dam. Imm.** | Acid, Cold, Lightning, slashing, from critical |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 4 (1100 XP) |
 
 ***Amorphous.*** The black pudding can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -2199,16 +2272,18 @@ Organization: Solitary
 Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
 Blue Dragon Wyrmling
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +1
-- **Movement**: 9 m, burrow 5 meters, fly 18 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Skills**: Stealth +2, Perception +4
-- **Damage Imm.**: Lightning
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +1 |
+| **Movement** | 9 m, burrow 5 meters, fly 18 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Perception +4 |
+| **Dam. Imm.** | Lightning |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 3 (700 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -2227,17 +2302,19 @@ Organization: Solitary
 See Ancient Blue Dragon Description.
 
 Bone Bloom
-- **Size/Type**: Large undead, unaligned
-- **Ability**: Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3
-- **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +10, Reflex +8, Will +4
-- **Damage Imm.**: Poison
-- **Damage Res.**: piercing, slashing, Poison, from Light
-- **Immunities**: fatigued, bleeding, slowed, slow
-- **Senses**: Blindsight 18 m
-- **Languages**: understands Common, druidic, sylvan but cannot speak
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large undead, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3 |
+| **Hit Points** | 127, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +10, Reflex +8, Will +4 |
+| **Dam. Imm.** | Poison |
+| **Damage Res.** | piercing, slashing, Poison, from Light |
+| **Immunities** | fatigued, bleeding, slowed, slow |
+| **Senses** | Blindsight 18 m |
+| **Languages** | understands Common, druidic, sylvan but cannot speak |
+| **Challenge** | 6 (2300 XP) |
 
 ***One Foot in Nature.*** While Bone Bloom is in contact with the earth, it regenerates 6 Hit Points at the start of its round.
 
@@ -2268,18 +2345,20 @@ Organization: Solitary, groups (2d12)
 Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
 
 Bone Devil
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3
-- **Hit Points**: 184,  **Defense:** 27,  **Initiative:** +3
-- **Movement**: 12 m, flight 12 m
-- **Saving Throws**: Fortitude +13, Reflex +12, Will +11
-- **Skills**: Deception +7, Detect Emotions +6
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 184, **Defense:** 27, **Initiative:** +3 |
+| **Movement** | 12 m, flight 12 m |
+| **S. Throws** | Fortitude +13, Reflex +12, Will +11 |
+| **Skills** | Deception +7, Detect Emotions +6 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 9 (5000 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -2314,16 +2393,18 @@ Bone devils are inquisitors of the diabolical races, known for their passion for
 Bone devils often travel to the mortal plane to serve evil spellcasters, gathering valuable information. Standing 2.7 meters tall and weighing over 200 kg, with terrifying tails and wings, they are imposing and feared.
 
 Brain Eater
-- **Size/Type**: Small aberration, evil
-- **Ability**: Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3
-- **Hit Points**: 186,  **Defense:** 30,  **Initiative:** +6
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +14, Reflex +15, Will +9
-- **Damage Imm.**: Fire
-- **Immunities**: spells from Illusion and Charm magic lists
-- **Senses**: Blindsight 18 m
-- **Languages**: telepathy 50 m
-- **Challenge**: 9 (3900 XP)
+
+| **Size/Type** | Small aberration, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3 |
+| **Hit Points** | 186, **Defense:** 30, **Initiative:** +6 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +14, Reflex +15, Will +9 |
+| **Dam. Imm.** | Fire |
+| **Immunities** | spells from Illusion and Charm magic lists |
+| **Senses** | Blindsight 18 m |
+| **Languages** | telepathy 50 m |
+| **Challenge** | 9 (3900 XP) |
 
 ***Eyes of Magic.*** The Brain Eater has Detect Magic always active.
 
@@ -2368,16 +2449,18 @@ Solitary Brain Eaters often live in ruins or caves on the edges of civilized reg
 It is said that Shayalia' \*\*s garden is full of Brain Eaters. A Brain Eater is 90 cm long and weighs about 30 kg.
 
 Brass Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 30 ft, burrow 15 ft, fly 60 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Fire
-- **Skills**: Stealth +2, Perception +4
-- **Senses**: Darkvision 60 ft, Blindsight 10 ft
-- **Languages**: Draconic
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 30 ft, burrow 15 ft, fly 60 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Fire |
+| **Skills** | Stealth +2, Perception +4 |
+| **Senses** | Darkvision 60 ft, Blindsight 10 ft |
+| **Languages** | Draconic |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
 
@@ -2400,16 +2483,18 @@ Organization: Solitary
 Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
 
 Bronze Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Stealth +2, Awareness +4
-- **Dmg. Imm.**: Lightning
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Awareness +4 |
+| **Dmg. Imm.** | Lightning |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -2435,15 +2520,17 @@ Organization: Solitary
 Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate.
 
 Bugbear
-- **Size/Type**: Medium humanoid (goblinoid), Arrogant, Impulsive
-- **Ability**: Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +6, Survival +2
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid (goblinoid), Arrogant, Impulsive |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +6, Survival +2 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1 (200 XP) |
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
@@ -2472,14 +2559,16 @@ Bugbears do not form large settlements like goblins or nations like hobgoblins; 
 Bugbears, when they turn to religion, prefer deities of murder and violence, with various demon lords among the favorites. A typical bugbear is 2.1 meters tall and weighs 200 kg.
 
 Bulette
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3
-- **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 12 m, burrow 12 m
-- **Saving Throws**: Fortitude +10, Reflex +5, Will +5
-- **Skills**: Awareness +6
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 110, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 12 m, burrow 12 m |
+| **S. Throws** | Fortitude +10, Reflex +5, Will +5 |
+| **Skills** | Awareness +6 |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Standing Leap.*** A bulette can long jump up to 9 meters and high jump up to 5 m with or without a running start.
 
@@ -2510,14 +2599,16 @@ Bulettes are perfect machines for devouring and destroying bones, armor, and eve
 The bulette is a cunning fighter, and surprises enemies with impressive agility. One of its favorite tactics is to charge and leap onto prey, attacking with its razor-sharp claws. It is said that the flesh behind the beast' \*\*s dorsal ridge is particularly tender, and that those who wish or manage to wait for the fin to be raised in the heat of battle or mating can try to deliver a fatal blow to that spot, though most of those who have faced a land shark agree that the best way to win a fight with a bulette is to avoid it altogether.
 
 Centaur
-- **Size/Type**: Large monstrosity, good
-- **Ability**: Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +4, Reflex +4, Will +3
-- **Skills**: Athletics +6, Awareness +3, Survival +3
-- **Languages**: Elvish, Sylvan
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +4, Reflex +4, Will +3 |
+| **Skills** | Athletics +6, Awareness +3, Survival +3 |
+| **Languages** | Elvish, Sylvan |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the centaur moves at least 9 meters straight toward a target and hits with a pike attack during the same round, the target takes 10 (3d6) additional piercing damage.
 
@@ -2550,17 +2641,19 @@ Centaurs live an average of about 60 years. Distant from other races and in conf
 Legend has it that the Centaurs were supposed to explode like all equines, by the will of Calicante. Ljust, horrified by so much death, interceded with Calicante to leave these creatures alone. This rescue has led many Centaur tribes to be devoted to the Lady of Light, although others have preferred to dedicate their worship to Calicante in the hope that he will not kill them all in one night.
 
 Chain Devil
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2
-- **Hit Points**: 165,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +12, Reflex +10, Will +9
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 165, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +12, Reflex +10, Will +9 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 8 (3900 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -2593,17 +2686,19 @@ Organization: Solitary, pair, gang (3-6) or chain (7-20)
 Often classified by the uninitiated among the ranks of infernal devils, Chain Devils are not true devils. Although some are known to live in Hell, they exist outside the hierarchies established by the gods of the underworld and its archdevils, and can sometimes be found on other planes, particularly on the Plane of Shadows. Many suggest they are native to Hell that existed before the advent of the diabolic lineage, although others hypothesize they were brought to the plane by some sadistic power. Regardless of their origins, they wander the planes indulging their desire to cause and receive suffering, seeking pain through violent kidnappings and sadistic depravities.
 
 Champion Skeleton
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +3
-- **Dmg. Imm.**: Poison
-- **Dmg. Res.**: piercing, slashing, Electricity, Fire
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 60 ft
-- **Languages**: understands Expiran, but cannot speak
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +3 |
+| **Dmg. Imm.** | Poison |
+| **Dmg. Res.** | piercing, slashing, Electricity, Fire |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | understands Expiran, but cannot speak |
+| **Challenge** | 3 (700 XP) |
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
@@ -2612,15 +2707,17 @@ Champion Skeleton
 *Hit:* 12 (1d12 + 4) slashing damage.
 
 Chimera
-- **Size/Type**: Large monstrosity, Arrogant, Vain
-- **Ability**: Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0
-- **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +8
-- **Skills**: Awareness +8
-- **Senses**: Darkvision 18 m
-- **Languages**: understands Draconic but cannot speak
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large monstrosity, Arrogant, Vain |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0 |
+| **Hit Points** | 127, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +8 |
+| **Skills** | Awareness +8 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands Draconic but cannot speak |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When the fire breath is available, it can use the breath instead of its bite or horns.
 
@@ -2654,16 +2751,18 @@ Organization: Solitary, pair, pack (3-6) or flight (7-12)
 Chimeras prefer meat, but they can survive on vegetation if necessary (although when forced to do so, their mood worsens even further). The fact that they fly means they can carefully choose their prey, and they generally hunt in vast areas looking for easy targets. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds may make offerings to them. Conversely, they are intelligent and stubborn enough to make mediocre pets, and only a creature much more powerful than them can manage to subdue them. They can form equal partnerships with respectful humanoids or similar creatures, and also consent to being used as mounts. A pack of chimeras has a hierarchy similar to that of lions, with a dominant male that commands the group and most of the hunting done by the females. A solitary chimera can be a young solitary male or a female with cubs nearby.
 
 Chuul
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3
-- **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +0
-- **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +7, Reflex +4, Will +4
-- **Skills**: Awareness +4
-- **Damage Immunity**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: understands Deep Speech but cannot speak
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3 |
+| **Hit Points** | 89, **Defense:** 17, **Initiative:** +0 |
+| **Movement** | 9 m, swim 9 m |
+| **S. Throws** | Fortitude +7, Reflex +4, Will +4 |
+| **Skills** | Awareness +4 |
+| **Damage Immunity** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands Deep Speech but cannot speak |
+| **Challenge** | 4 (1100 XP) |
 
 ***Amphibious.*** The chuul can breathe air and water.
 
@@ -2694,16 +2793,18 @@ Chuuls are excellent swimmers, but prefer to attack land creatures or those accu
 Chuuls are surprisingly intelligent, and many engage in useless speculation about their origins and motivations. They speak a chirping and gurgling dialect of Common, but few of them are inclined to chat with those who are not of their race, and if there is a chuul society beyond the frantic mating period, no one has yet discovered it. Rather, the minds of chuuls seem devoted only to finding the perfect place to ambush and attack other intelligent creatures and how to decorate their elaborate lairs with trophies from their victims. Although chuuls seem uninterested in using tools, they have a compulsive need to collect those of their victims. A typical chuul is 2.3 meters tall and weighs 325 kg.
 
 Clay Golem
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5
-- **Hit Points**: 184,  **Defense:** 23,  **Initiative:** -1
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +13, Reflex +8, Will +8
-- **Damage Imm.**: Acid, Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 18 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5 |
+| **Hit Points** | 184, **Defense:** 23, **Initiative:** -1 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +13, Reflex +8, Will +8 |
+| **Dam. Imm.** | Acid, Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 9 (5000 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 8/- against non-magical weapons.
 
@@ -2745,15 +2846,17 @@ Clay golems don' \*\*t wear clothing, except for a treated leather or metal garm
 A clay golem can be sculpted from a single block of clay weighing at least 500 kilograms, treated with rare powders and oils worth 1,500 gp.
 
 Cloaker
-- **Size/Type**: Large aberration, chaotic
-- **Ability**: Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2
-- **Hit Points**: 160,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 3 m, fly 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.8cm{!}{Fortitude +9, Reflex +10, Will +9
-- **Skills**: Stealth +5
-- **Senses**: Darkvision 18 m
-- **Languages**: Deep Speech
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large aberration, chaotic |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2 |
+| **Hit Points** | 160, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 3 m, fly 12 m |
+| **S. Throws** | \resizebox{5.4cm{!}{Fortitude +9, Reflex +10, Will +9 |
+| **Skills** | Stealth +5 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Deep Speech |
+| **Challenge** | 8 (3900 XP) |
 
 ***False Appearance.*** While the cloaker remains motionless without exposing its underside, it is indistinguishable from a black leather cloak.
 
@@ -2796,14 +2899,16 @@ Resembling flying, hideously evil manta rays, cloakers are mysterious, paranoid 
 Their motivations are mysterious and confused, and they distrust even their own kind. Their strange shape allows them to be mistaken for cloaks, tapestries, or other common objects, and some stories tell of cloakers allying with other creatures, allowing themselves to be carried on their backs and contributing to their allies' \*\* protection for inscrutable reasons.
 
 Cloud Giant
-- **Size/Type**: Huge giant, good (50\%) or evil (50\%)
-- **Ability**: Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3
-- **Hit Points**: 187,  **Defense:** 24,  **Initiative:** +1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +15, Reflex +9, Will +12
-- **Skills**: Sense Motive +7
-- **Languages**: Common, Giant
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge giant, good (50\%) or evil (50\%) |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3 |
+| **Hit Points** | 187, **Defense:** 24, **Initiative:** +1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +15, Reflex +9, Will +12 |
+| **Skills** | Sense Motive +7 |
+| **Languages** | Common, Giant |
+| **Challenge** | 9 (5000 XP) |
 
 ***Innate Spellcasting.*** The giant' \*\*s spellcasting ability is Charisma. The giant can innately cast these spells, without needing material components:
 
@@ -2846,13 +2951,15 @@ Cloud giants can have unusually varied Traits; about half are good and half evil
 There are many legends that speak of magical cloud giant cities located among the clouds themselves, floating on the winds and circumnavigating the world. While cloud giants acknowledge that these are mostly fantasies, some claim to have seen them and have dedicated their entire existence to finding them.
 
 Cockatrice
-- **Size/Type**: Small monstrosity, unaligned
-- **Ability**: Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 6 m, flight 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 6 m, flight 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 **Actions*Bite.** Melee weapon attack*: +4 to hit, reach 1 m, one creature.
 
@@ -2873,16 +2980,18 @@ Although their diet consists primarily of seeds and petrified insects (which in 
 The cockatrice' \*\*s strange ability to turn other creatures to stone is its best defense, and its lair is invariably full of the remains of petrified enemies. Ironically, however, weasels and ferrets, the creatures most likely to end up in cockatrice nests to eat their eggs, seem completely immune to this effect. For unknown reasons, cockatrices are both terrified and furious with common roosters, and there is an equal chance they will flee or attack when a confrontation occurs.
 
 Copper Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 30 ft, climb 30 ft, fly 60 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3, Deception +3, Perception +4
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 30 ft, climb 30 ft, fly 60 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3, Deception +3, Perception +4 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 120 ft, Blindsight 60 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
 
@@ -2907,16 +3016,18 @@ This capricious dragon tries to hamper and frustrate its enemies during combat.
 > The great dragon, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him." John, Revelation 12:9
 
 Couatl
-- **Size/Type**: Medium celestial, good
-- **Ability**: Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4
-- **Hit Points**: 89,  **Defense:** 22,  **Initiative:** +5
-- **Movement**: 9 m, flight 9 m
-- **Saving Throws**: Fortitude +7, Reflex +9, Will +9
-- **Damage Resistance**: Light
-- **Damage Immunity**: from non-magical weapons
-- **Senses**: truesight 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium celestial, good |
+| --- | --- |
+| **Ability** | Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4 |
+| **Hit Points** | 89, **Defense:** 22, **Initiative:** +5 |
+| **Movement** | 9 m, flight 9 m |
+| **S. Throws** | Fortitude +7, Reflex +9, Will +9 |
+| **Damage Resistance** | Light |
+| **Damage Immunity** | from non-magical weapons |
+| **Senses** | truesight 36 m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 4 (1100 XP) |
 
 ***Magic Weapons.*** The couatl' \*\*s weapon attacks are magical.
 
@@ -2953,20 +3064,20 @@ Respected and admired for their wisdom and beauty, they seek to lead mortals on 
 They prefer the same foods as true snakes, such as mammals and birds, though they are known to devour evil humanoids. Because they prefer to spend time pursuing their goals rather than hunting, they appreciate offerings of food, particularly small boars and fowl. A couatl sometimes shows its appreciation to an adventurer or group that has rendered it a service by giving them 1d4 of its brightly colored feathers.
 
 Darklight
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2
-- **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Damage Res.**: from Void; from non-magical weapons or weapons that aren' \*\*t silvered
-- **Damage Imm.**: Poison
-- **Condition Imm.**: fatigued, bleeding
-- **Senses**: Darkvision, sees in magical darkness
-- **Languages**: Understands Common but doesn' \*\*t speak
-- **Challenge**: 4 (1100 XP)
 
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2 |
+| **Hit Points** | 88, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Damage Res.** | from Void; from non-magical weapons or weapons that aren' \*\*t silvered |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | fatigued, bleeding |
+| **Senses** | Darkvision, sees in magical darkness |
+| **Languages** | Understands Common but doesn' \*\*t speak |
+| **Challenge** | 4 (1100 XP) |
 | ***Invisible in Darkness.*** A Darklight is completely invisible while in darkness |
-| --- |
 | ***Undead Nature.*** Darklight doesn' \*\*t need air, food, drink, or sleep. |
 | ***Sensitivity to Light***. While in sunlight, Darklight has -1d6 to attack rolls |
 | **Multiattack** |
@@ -2988,14 +3099,16 @@ Usually, the Darklight hides in the darkness, waiting to touch the opponent and 
 When a Darklight is destroyed, it leaves its torch on the ground. This torch of pure darkness can cast the Darkness spell by touch three times a day; outside the hands of a Darklight, if exposed to sunlight, it is destroyed in 2d4 rounds.
 
 Darkmantle
-- **Size/Type**: Small monstrosity, unaligned
-- **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 3 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3
-- **Senses**: Blindsight 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 3 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3 |
+| **Senses** | Blindsight 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Echolocation.*** The darkmantle can' \*\*t use its blindsight while deafened.
 
@@ -3029,15 +3142,17 @@ Darkmantle prefer to live and hunt in caves and tunnels closer to the surface, a
 While Darkmantle and Cloaker look similar, they don' \*\*t belong to the same species, but legends tell of a common magical origin due, as often happens, to the will of two wizards to transform themselves first into cloaks... The hatred between the two monstrosities is total and overrides any other adversary present.
 
 Deep Gnome
-- **Size/Type**: Small humanoid (gnome), good
-- **Ability**: Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +2
-- **Senses**: Darkvision 36 m
-- **Languages**: Gnomish, Undercommon, Tremun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small humanoid (gnome), good |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +2 |
+| **Senses** | Darkvision 36m |
+| **Languages** | Gnomish, Undercommon, Tremun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Gnome Cunning.*** The gnome has +1d6 on Saving Throws against magic.
 
@@ -3069,19 +3184,21 @@ Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two
 Deep gnomes are a branch of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. Their skin is the color of rock, usually grey or brown. Males are bald and females have sparse grey hair.
 
 Demogorgon
-- **Size/Type**: Huge demon prince, evil
-- **Ability**: Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7
-- **Hit Points**: 524,  **Defense:** 48,  **Initiative:** +5
-- **Movement**: 15 meters, swim 9m
-- **Saving Throws**: Fortitude +34, Reflex +28, Will +29
-- **Skills**: all +15
-- **Damage Resistance**: Cold, Lightning, Fire
-- **Damage Immunity**: from Void, Poison; +2 weapons
-- **Immunities**: charmed, paralyzed, fatigued, frightened
-- **Vulnerability**: cold iron, Light
-- **Senses**: Truesight 40 m
-- **Languages**: all, telepathy 45 m
-- **Challenge**: 26 (90000 XP)
+
+| **Size/Type** | Huge demon prince, evil |
+| --- | --- |
+| **Ability** | Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7 |
+| **Hit Points** | 524, **Defense:** 48, **Initiative:** +5 |
+| **Movement** | 15 meters, swim 9m |
+| **S. Throws** | Fortitude +34, Reflex +28, Will +29 |
+| **Skills** | all +15 |
+| **Damage Resistance** | Cold, Lightning, Fire |
+| **Damage Immunity** | from Void, Poison; +2 weapons |
+| **Immunities** | charmed, paralyzed, fatigued, frightened |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Truesight 40 m |
+| **Languages** | all, telepathy 45 m |
+| **Challenge** | 26 (90000 XP) |
 
 ***Spells.*** Demogorgon has CM 20. His spellcasting ability is Strength. Demogorgon knows the following spells:
 
@@ -3134,17 +3251,19 @@ Organization: Unique
 Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon' \*\*s two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
 
 Deva Angel
-- **Size/Type**: Medium celestial, good
-- **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5
-- **Hit Points**: 203,  **Defense:** 29,  **Initiative:** +4
-- **Movement**: 9 m, fly 27 m
-- **Saving Throws**: Fortitude +14, Reflex +14, Will +15
-- **Skills**: Sense Emotion +9
-- **Damage Res.**: Light; nonmagical weapons
-- **Immunities**: charmed, exhausted, frightened
-- **Senses**: Darkvision 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Medium celestial, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5 |
+| **Hit Points** | 203, **Defense:** 29, **Initiative:** +4 |
+| **Movement** | 9 m, fly 27 m |
+| **S. Throws** | Fortitude +14, Reflex +14, Will +15 |
+| **Skills** | Sense Emotion +9 |
+| **Damage Res.** | Light; nonmagical weapons |
+| **Immunities** | charmed, exhausted, frightened |
+| **Senses** | Darkvision 36m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 10 (5900 XP) |
 
 ***Angelic Weapons.*** The deva' \*\*s weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 Light damage (included in the attack).
 
@@ -3179,15 +3298,17 @@ Organization: Solitary, pair, or squad (3-6)
 Deva movanics make up the ranks of the celestial armies' \*\* infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
 Djinni
-- **Size/Type**: Large elemental, good
-- **Ability**: Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5
-- **Hit Points**: 226,  **Defense:** 28,  **Initiative:** +2
-- **Movement**: 9 m, fly 27 m
-- **Saving Throws**: Fortitude +17, Reflex +13, Will +14
-- **Damage Imm.**: Electricity, Sound
-- **Senses**: Darkvision 36 m
-- **Languages**: Ictun
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large elemental, good |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5 |
+| **Hit Points** | 226, **Defense:** 28, **Initiative:** +2 |
+| **Movement** | 9 m, fly 27 m |
+| **S. Throws** | Fortitude +17, Reflex +13, Will +14 |
+| **Dam. Imm.** | Electricity, Sound |
+| **Senses** | Darkvision 36m |
+| **Languages** | Ictun |
+| **Challenge** | 11 (7200 XP) |
 
 ***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only the equipment the djinni was wearing or carrying.
 
@@ -3227,18 +3348,18 @@ Djinn disdain physical combat, preferring to use their magical powers and aerial
 Towards other Genies, Djinn get along with Janni and Marid. They are frequently at odds with the Shaitan, and are sworn enemies of the Efreet, despising these fierce Genies more than any other of the Genie Races. The conflict between the Efreet and the Djinn is so legendary that many spellcasters attempt (with varying degrees of success) to secure the service of a Djinni by promising help in the cause against their hated enemies.
 
 Dobi
-- **Size/Type**: Tiny fey, neutral
-- **Ability**: Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3
-- **Hit Points**: 15,  **Defense:** 11,  **Initiative:** -1
-- **Movement**: 3 m, Swim 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Twilight Vision 18 m
-- **Languages**: understands Common, but doesn' \*\*t speak it
-- **Damage Imm.**: to damage from non-magical weapons
-- **Challenge**: 0 (10 XP)
 
+| **Size/Type** | Tiny fey, neutral |
+| --- | --- |
+| **Ability** | Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3 |
+| **Hit Points** | 15, **Defense:** 11, **Initiative:** -1 |
+| **Movement** | 3 m, Swim 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Twilight Vision 18 m |
+| **Languages** | understands Common, but doesn' \*\*t speak it |
+| **Dam. Imm.** | to damage from non-magical weapons |
+| **Challenge** | 0 (10 XP) |
 | ***Dobi*** The Dobi sticks to you; to move it, you need to be gentle and ask it to move. |
-| --- |
 | ***Dobi Dobi Dobi*** When the Dobi takes more than 3 hit points of damage with a non-bludgeoning weapon, it splits into two smaller Dobis, each with the same amount of Hit Points remaining as the previous Dobi. |
 | **Actions** |
 | ***Dobi Dobi*** the Dobi projects an aura of Calm Emotions like the spell of the same name but no Saving Throw is allowed. The Dobi can influence only one creature at a time with its power. |
@@ -3252,16 +3373,18 @@ Organization: group
 From *Journey to the First World.* Novel by Federica Angeli
 
 Doppelganger
-- **Size/Type**: Medium monstrosity (shapechanger), neutral
-- **Ability**: Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2
-- **Hit Points**: 70,  **Defense:** 20,  **Initiative:** +4
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +5, Reflex +7, Will +4
-- **Skills**: Deception +6, Insight +3
-- **Immunities**: charmed
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium monstrosity (shapechanger), neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 70, **Defense:** 20, **Initiative:** +4 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +5, Reflex +7, Will +4 |
+| **Skills** | Deception +6, Insight +3 |
+| **Immunities** | charmed |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 3 (700 XP) |
 
 ***Shapechanger.*** The doppelganger can use an Action to change its form into that of a Small or Medium humanoid it has seen, or to return to its true form. Its statistics, except for size, are the same in all forms. Any equipment it is wearing or carrying doesn' \*\*t transform. Upon death it returns to its true form.
 
@@ -3356,14 +3479,16 @@ If it' \*\*s a Wyrmling Dragon, it has 1 random power, 2 if it' \*\*s Young or A
 (popular curses against Dragons)
 
 Dragon Turtle
-- **Size/Type**: Gargantuan dragon, neutral
-- **Ability**: Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1
-- **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +0
-- **Movement**: 6 m, swim 12 m
-- **Saving Throws**: Fortitude +22, Reflex +17, Will +18
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Gargantuan dragon, neutral |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1 |
+| **Hit Points** | 338, **Defense:** 34, **Initiative:** +0 |
+| **Movement** | 6 m, swim 12 m |
+| **S. Throws** | Fortitude +22, Reflex +17, Will +18 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Amphibious.*** The dragon turtle can breathe air and water.
 
@@ -3402,17 +3527,19 @@ Their shells vary in color, from brown and rusty red to blue-green with silver r
 They feed on large fish and seaweed, and don' \*\*t disdain passengers from sunken ships. Their shells can reach 5 meters in diameter, with a total length of 7 meters
 
 Dretch
-- **Size/Type**: Small demon, evil
-- **Ability**: Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Resistance**: Cold, Lightning, Fire
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: Darkvision 18 m
-- **Languages**: Abyssal, telepathy 18 m (works only with creatures that understand Abyssal)
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small demon, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Resistance** | Cold, Lightning, Fire |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Abyssal, telepathy 18 m (works only with creatures that understand Abyssal) |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Multiattack.*** The demon makes two attacks: one with its bite and one with its claws.
 
@@ -3445,15 +3572,17 @@ Unlike most demons, the dretch' \*\*s slovenly personality and disdain for prolo
 A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the souls of evil and indolent mortals: just a small fragment of soul is sufficient to give rise to such a horrifying birth. A single soul can often cause the appearance of a small army of dretches, and the sight of a horde of newly born dretches breaking free from the pulsating protomatter of the Abyss is both nauseating and terrifying.
 
 Drider
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
-- **Hit Points**: 127,  **Defense:** 23,  **Initiative:** +3
-- **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: Fortitude +10, Reflex +9, Will +8
-- **Skills**: Stealth +9, Perception +5
-- **Senses**: Darkvision 120 ft
-- **Languages**: Elvish, Undercommon
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1 |
+| **Hit Points** | 127, **Defense:** 23, **Initiative:** +3 |
+| **Movement** | 30 ft, climb 30 ft |
+| **S. Throws** | Fortitude +10, Reflex +9, Will +8 |
+| **Skills** | Stealth +9, Perception +5 |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Elvish, Undercommon |
+| **Challenge** | 6 (2300 XP) |
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
@@ -3497,15 +3626,17 @@ Organization: Solitary, pair, or group (3-8)
 Driders are sexually dimorphic. The spider-like lower body of a female drider is sleek and graceful, often resembling the body of a black widow, while the upper elven torso maintains its appealing curves and beautiful face (with the exception of the venomous sharp fangs). The lower body of a male drider is stocky like a tarantula, while the upper body has a lean physique and supports a horrible face that is more spider than elf, complete with fanged mandibles.
 
 Dryad
-- **Size/Type**: Medium fey, neutral
-- **Ability**: Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +5, Perception +4
-- **Senses**: Darkvision 60 ft
-- **Languages**: Elvish, Sylvan
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium fey, neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +5, Perception +4 |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Elvish, Sylvan |
+| **Challenge** | 1 (200 XP) |
 
 ***Tree Stride.*** Once on her turn, the dryad can use 1 Action to magically enter a living tree within her reach
 
@@ -3527,7 +3658,7 @@ and emerge from another living tree within 60 feet of the first tree, appearing 
 
 *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh
 
-***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Will Saving Throw or be charmed by the magic. The charmed creatures regard the dryad as a trusted friend to be heeded and protected. Although the target isn' \*\*t under the dryad' \*\*s control, it interprets the dryad' \*\*s requests or actions in the most favorable way it can.
+***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 9 m of her. If the target can see the dryad, it must succeed on a DC 14 Will Saving Throw or be charmed by the magic. The charmed creatures regard the dryad as a trusted friend to be heeded and protected. Although the target isn' \*\*t under the dryad' \*\*s control, it interprets the dryad' \*\*s requests or actions in the most favorable way it can.
 
 Each time the dryad or her allies damage the target, it can repeat the Saving Throw, ending the effect on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as an Immediate Action.
 
@@ -3548,14 +3679,16 @@ They are friendly with druids and rangers who aren' \*\*t evil, as they recogniz
 Dryads are benevolent guardians of trees, and although they aren' \*\*t violent by nature, they can impede and thwart threats to their homes or turn enemies into allies.
 
 Duergar
-- **Size/Type**: Medium humanoid (dwarf), evil
-- **Ability**: Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 25 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 120 ft
-- **Languages**: Dwarvish, Undercommon
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid (dwarf), evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 25 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Dwarvish, Undercommon |
+| **Challenge** | 1 (200 XP) |
 
 ***Duergar Resilience.*** The Duergar has +1d6 on Saving Throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
@@ -3584,16 +3717,18 @@ Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level a
 Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures with a terrible temper who hate intruders in their underground realms, but never more than Dwarves. They live in communities deep underground. They have dull gray skin, as if dirty with dust or ash, but this natural tone allows them to blend better in underground areas. They are a Race of slavers, but while they force non-Dwarf prisoners to do grueling work, they kill captured Dwarves without remorse. In combat, Duergar fire crossbows, and then switch to War Hammers a few rounds later. If outnumbered, or if there is an adequate danger (and space), a Duergar will use its Enlarge ability and attack.
 
 Dust Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +2
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Ictun, Tremun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +2 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ictun, Tremun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast *sleep* (spell Saving Throw DC 11), requiring no material components. Its innate spellcasting ability is Charisma.
 
@@ -3620,15 +3755,17 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Dust mephits are commonly found on the Plane of Air. These mephits are irritating and persistent.
 
 Efreeti
-- **Size/Type**: Large elemental, evil
-- **Ability**: Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3
-- **Hit Points**: 228,  **Defense:** 27,  **Initiative:** +3
-- **Movement**: 12 m, fly 18 m
-- **Saving Throws**: Fortitude +18, Reflex +12, Will +13
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 36 m
-- **Languages**: Ignan
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large elemental, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3 |
+| **Hit Points** | 228, **Defense:** 27, **Initiative:** +3 |
+| **Movement** | 12 m, fly 18 m |
+| **S. Throws** | Fortitude +18, Reflex +12, Will +13 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 36m |
+| **Languages** | Ignan |
+| **Challenge** | 11 (7200 XP) |
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates into a flash of fire and a puff of smoke, leaving behind only the equipment the efreeti was wearing or carrying.
 
@@ -3666,17 +3803,19 @@ The Efreet (singular Efreeti) are Genies from the Plane of Fire. They are 3.6 me
 Efreet have few allies among other Genies: they hate Djinn and attack them on sight, can' \*\*t stand Marid, and see Janni as weak and fragile. Efreet often cooperate well with Shaitan, yet even these alliances are temporary.
 
 Erinyes
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4
-- **Hit Points**: 240,  **Defense:** 31,  **Initiative:** +3
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +16, Reflex +15, Will +14
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: truesight 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 12 (8400 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4 |
+| **Hit Points** | 240, **Defense:** 31, **Initiative:** +3 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +16, Reflex +15, Will +14 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 12 (8400 XP) |
 
 ***Hellish Weapons.*** The erinyes' \*\*s weapon attacks are magical and deal an extra 13 (3d8) poison damage when they hit (already included in the attacks).
 
@@ -3713,14 +3852,16 @@ These beautiful and dark angels enhance their sensuality with scars and bruises,
 The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a span of over 3 meters. They are skilled at keeping enemies alive to prolong torment, and the most powerful can make suffering persist even after the subject' \*\*s death.
 
 Ettercap
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +4, Perception +3, Survival +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 30 ft, climb 30 ft |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Perception +3, Survival +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 2 (450 XP) |
 
 ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
 
@@ -3755,15 +3896,17 @@ Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
 
 Ettin
-- **Size/Type**: Large giant, evil
-- **Ability**: Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1
-- **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +4
-- **Skills**: Perception +4
-- **Senses**: tremorsense 60 ft
-- **Languages**: Giant, Goblin
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large giant, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 89, **Defense:** 16, **Initiative:** -1 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +7, Reflex +3, Will +4 |
+| **Skills** | Perception +4 |
+| **Senses** | tremorsense 60 ft |
+| **Languages** | Giant, Goblin |
+| **Challenge** | 4 (1100 XP) |
 
 ***Two Heads.*** The ettin has +1d6 on Perception checks and on Saving Throws against being blinded, charmed, deafened, unconscious, frightened, and stunned.
 
@@ -3797,16 +3940,18 @@ Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band
 They generally form reproductive pairs to raise offspring only for brief periods before each goes its own way. Young ettins mature rapidly, reaching adult size in one year, thus being able to fend for themselves.
 
 Explosive Roach
-- **Size/Type**: Small Elemental, neutral
-- **Ability**: Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 4 m, jump 9 m, burrow 2 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Damage Res.**: bludgeoning
-- **Damage Imm.**: Fire
-- **Immunities**: exhausted, frightened
-- **Senses**: Blindsight 5 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Small Elemental, neutral |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 4 m, jump 9 m, burrow 2 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Damage Res.** | bludgeoning |
+| **Dam. Imm.** | Fire |
+| **Immunities** | exhausted, frightened |
+| **Senses** | Blindsight 5 m |
+| **Challenge** | 2 (450 XP) |
 
 *Fire Detection*: The Explosive Roach can perceive fires within 100 meters, provided they are equal to or larger than a torch.
 
@@ -3839,14 +3984,16 @@ They are now common in caves near volcanoes or red dragon lairs, having adapted 
 In the nest where they dwell, there is at least one queen who commands the roaches, extremely larger and stronger. Explosive Roaches feed on coal, burnt wood, burnt carcasses. They are extremely fond of diamonds which, once burned, are true delicacies.
 
 Fire Giant
-- **Size/Type**: Huge giant, evil
-- **Ability**: Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1
-- **Hit Points**: 187,  **Defense:** 23,  **Initiative:** +0
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +15, Reflex +8, Will +11
-- **Skills**: Athletics +11, Awareness +6
-- **Languages**: Giant
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge giant, evil |
+| --- | --- |
+| **Ability** | Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1 |
+| **Hit Points** | 187, **Defense:** 23, **Initiative:** +0 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +15, Reflex +8, Will +11 |
+| **Skills** | Athletics +11, Awareness +6 |
+| **Languages** | Giant |
+| **Challenge** | 9 (5000 XP) |
 
 **Actions*Multiattack.*** The giant makes two attacks with its greatsword.
 
@@ -3882,16 +4029,18 @@ Fire giants wear clothing made of sturdy fabrics or leather in orange, yellow, b
 Fire giants prefer warm places: the hotter the better. They can be found in deserts, volcanoes, hot springs, and deep in the earth near lava vents. They live in castles, fortified settlements, or large caves, and the architecture of these places reflects their rigid and militaristic lifestyle, with officers residing in better quarters than their subordinates.
 
 Flameskull
-- **Size/Type**: Small undead, evil traits
-- **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: fly 10 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Res.**: from Void
-- **Damage Imm.**: Fire, Poison, from non-magical weapons
-- **Condition Imm.**: charmed, paralyzed, fatigued, frightened, bleeding
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (200 XP)
+
+| **Size/Type** | Small undead, evil traits |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | fly 10 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | from Void |
+| **Dam. Imm.** | Fire, Poison, from non-magical weapons |
+| **Condition Imm.** | charmed, paralyzed, fatigued, frightened, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (200 XP) |
 
 ***Spells.*** A Flameskull can cast the following spells innately.
 
@@ -3916,16 +4065,18 @@ Flameskulls are created from the corpses of spellcasters specialized in the Fire
 Used as guardians and torches, they often represent a first line of defense in dungeons.
 
 Flesh Golem
-- **Size/Type**: Medium construct, neutral
-- **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3
-- **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +4, Will +5
-- **Damage Imm.**: Electricity, Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 18 m
-- **Languages**: understands the languages of its creator but cannot
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium construct, neutral |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3 |
+| **Hit Points** | 109, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +4, Will +5 |
+| **Dam. Imm.** | Electricity, Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands the languages of its creator but cannot |
+| **Challenge** | 5 (1800 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 6/- against non-magical weapons.
 
@@ -3966,13 +4117,15 @@ A flesh golem does not speak, though it can emit a kind of hoarse growl. It walk
 Although many flesh golems are mindless, tales are told of exceptional golems that have somehow retained memories of their previous life. The head (and therefore the brain) of these flesh golems must be the right combination of freshness and (in the previous life) determination, but luck and chance also seem to be of absolute importance for intellect to be preserved during their creation. Certainly those who build flesh golems prefer to have mindless slaves rather than those endowed with a will of their own, consequently intelligent flesh golems are rare.
 
 Flesh Worms
-- **Size/Type**: tiny monstrosity, unaligned
-- **Ability**: Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4
-- **Hit Points**: 32,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 1 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: tremorsense 3 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | tiny monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 32, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 1 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | tremorsense 3 m |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Infest Flesh.*** These tiny creatures penetrate exposed flesh without making an Attack Roll as long as the flesh is exposed to contact with them.
 
@@ -3991,15 +4144,17 @@ Organization: groups 3d6
 Flesh worms are among the most feared parasites by adventurers. They are found in damp piles of leaves or rotting logs, in decomposing corpses, in turbid waters. Pale, slimy, equipped with very sharp teeth, just over 4 millimeters long, they penetrate exposed flesh very easily and perceive the heartbeat where they head. While they dig into the flesh, they can be perceived and even seen crawling under the skin.
 
 Flying Sword
-- **Size/Type**: Small construct, unaligned
-- **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 0 ft, fly 50 ft, Hover
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small construct, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 0 ft, fly 50 ft, Hover |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | blinded, charmed, deafened, paralyzed, petrified, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 1/4 (50 XP) |
 
 ***False Appearance.*** While the weapon remains motionless and is not flying, it is indistinguishable from a normal sword.
 
@@ -4010,14 +4165,16 @@ Flying Sword
 *Hit:* 5 (1d8 + 1) slashing damage.
 
 Frost Giant
-- **Size/Type**: Huge giant, evil
-- **Ability**: Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1
-- **Hit Points**: 167,  **Defense:** 21,  **Initiative:** -1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +13, Reflex +7, Will +8
-- **Skills**: Athletics +9
-- **Languages**: Giant
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Huge giant, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1 |
+| **Hit Points** | 167, **Defense:** 21, **Initiative:** -1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +13, Reflex +7, Will +8 |
+| **Skills** | Athletics +9 |
+| **Languages** | Giant |
+| **Challenge** | 8 (3900 XP) |
 
 **Actions*Multiattack.*** The giant makes two attacks with its greataxe.
 
@@ -4052,14 +4209,16 @@ Frost giants survive by hunting and raiding on their own, as they live in cold a
 Frost giants love taking prisoners and use them both as slaves and as raw material. Usually each group of frost giants keeps 1-2 humanoid slaves chained to a slave trainer: the meanest and cruelest of the group after the jarl. They also have a certain passion for monstrous pets: White Dragons and Winter Wolves are popular choices, but Remorhaz and Yeti can also be found in a frost giant' \*\*s lair.
 
 G.C.B.
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1
-- **Hit Points**: 205,  **Defense:** 26,  **Initiative:** +3
-- **Movement**: 9 m, burrow 9 m
-- **Saving Throws**: Fortitude +15, Reflex +11, Will +11
-- **Proficiencies**: Perception +10
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1 |
+| **Hit Points** | 205, **Defense:** 26, **Initiative:** +3 |
+| **Movement** | 9 m, burrow 9 m |
+| **S. Throws** | Fortitude +15, Reflex +11, Will +11 |
+| **Proficiencies** | Perception +10 |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Challenge** | 10 (5900 XP) |
 
 **Actions*Multiattack.*** The G.C.B. can attack with two claws or with its bite
 
@@ -4092,14 +4251,16 @@ The Great Chitinous Being, or G.C.B, is an insect with a vague humanoid appearan
 Probably the result of some transformation spell gone wrong, G.C.B.s are masters of the underground. Creatures endowed with real intelligence, they love elf flesh and fight in a tactical and careful manner.
 
 Gablin
-- **Size/Type**: Small fiend, evil
-- **Ability**: Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: understand Common but don' \*\*t speak it, Abyssal
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small fiend, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understand Common but don' \*\*t speak it, Abyssal |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Sunlight Sensitivity***. While in sunlight, the gablin has -1d6 to attack rolls as well as on Perception checks based on sight.
 
@@ -4128,14 +4289,16 @@ This method of procreation combined with their voracious hunger for blood and fl
 Although individually not particularly formidable, Gablins always move in groups, and if the group exceeds two dozen, there is almost always a Gablin Spellcaster or even a Gablin Champion leading them.
 
 Gablin Champion
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Abyssal
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Abyssal |
+| **Challenge** | 3 (700 XP) |
 
 **Actions*Heavy Club.** Melee Weapon Attack*: +6 to hit, reach 2 m, one target.
 
@@ -4155,14 +4318,16 @@ Gablin Champions are spontaneously generated when the number of Gablins present 
 They have no qualms about sending Gablins to slaughter or killing anything that breathes. Pervaded by the spirit of Cattalm, their purpose is always and only to destroy and kill.
 
 Gablin Paladin
-- **Size/Type**: Large fiend, evil
-- **Ability**: Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3
-- **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +8, Will +9
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Abyssal
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large fiend, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3 |
+| **Hit Points** | 126, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +9, Reflex +8, Will +9 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Abyssal |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The Gablin Paladin attacks with 2 bastard sword strikes.
 
@@ -4187,16 +4352,18 @@ Organization: leading an army of Gablins
 Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
 
 Gargoyle
-- **Size/Type**: Medium elemental, evil
-- **Ability**: Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Movement**: 9 m, fly 18 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Damage Res.**: Poison, from non-magical weapons or that aren' \*\*t adamantine
-- **Immunities**: petrified, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Tremun
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium elemental, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +0 |
+| **Movement** | 9 m, fly 18 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Damage Res.** | Poison, from non-magical weapons or that aren' \*\*t adamantine |
+| **Immunities** | petrified, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Tremun |
+| **Challenge** | 2 (450 XP) |
 
 ***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
@@ -4234,15 +4401,17 @@ The longer a tribe of gargoyles dwells in an area of buildings or ruins, the mor
 An unusual variant of the gargoyle does not dwell among buildings and ruins but beneath the waves of the sea. These creatures are known as kapoacinth; they have the same base statistics as normal gargoyles, except they have the aquatic subtype and their wings grant them a swimming speed of 12 meters (but are useless for flying). Kapoacinths inhabit shallow coastal regions where they can crawl out of the foam to hunt local residents. They are more likely to form swarms, as kapoacinths prefer group life to solitary existence.
 
 Gelatinous Cube
-- **Size/Type**: Large ooze, unaligned
-- **Ability**: Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5
-- **Hit Points**: 53,  **Defense:** 10,  **Initiative:** -4
-- **Movement**: 15 feet
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +3
-- **Damage Imm.**: non-magical slashing weapons, damage from
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 53, **Defense:** 10, **Initiative:** -4 |
+| **Movement** | 15 feet |
+| **S. Throws** | Fortitude +7, Reflex +3, Will +3 |
+| **Dam. Imm.** | non-magical slashing weapons, damage from |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 2 (450 XP) |
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but fall victim to the cube' \*\*s Engulf and have -1d6 to the Saving Throw.
 
@@ -4284,20 +4453,24 @@ Some sages believe these creatures evolved from Gray Oozes. Some beings use gela
 Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
 Generic Air Elemental
-- **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
-- **Ability**: Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6
-- **Hit Points**: (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex
-- **Movement**: 0 ft, fly CR*13 ft
-- **Saving Throws**: Fortitude CR+CON, Reflex CR+CR/5 + DEX, Will CR+WIS
-- **Damage Res.**: Electricity, Sound; nonmagical weapons
-- **Damage Imm.**: Poison
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 60 ft
-- **Languages**: Auran
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
+| --- | --- |
+| **Ability** | Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6 |
+| **Hit Points** | (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex |
+| **Movement** | 0 ft, fly CR*13 ft |
+| **S. Throws** | Fortitude CR+CON, Reflex CR+CR/5 + DEX, Will CR+WIS |
+| **Damage Res.** | Electricity, Sound; nonmagical weapons |
+| **Dam. Imm.** | Poison |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Auran |
+| **Challenge** | CR |
+
+|
+
 | ***Air Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
+| --- |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
@@ -4309,20 +4482,24 @@ Generic Air Elemental
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn' \*\*t flung away or knocked prone.
 
 Generic Earth Elemental
-- **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
-- **Ability**: Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6
-- **Hit Points**: (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, climb 30 ft, burrow 30 ft
-- **Saving Throws**: Fortitude CR+CON+CR/5, Reflex CR+DEX, Will CR+WIS
-- **Damage Res.**: nonmagical weapons
-- **Damage Imm.**: Poison, Sound
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: tremorsense 60 ft, Darkvision 60 ft
-- **Languages**: Terran
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
+| --- | --- |
+| **Ability** | Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6 |
+| **Hit Points** | (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex |
+| **Movement** | 30 ft, climb 30 ft, burrow 30 ft |
+| **S. Throws** | Fortitude CR+CON+CR/5, Reflex CR+DEX, Will CR+WIS |
+| **Damage Res.** | nonmagical weapons |
+| **Dam. Imm.** | Poison, Sound |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | tremorsense 60 ft, Darkvision 60 ft |
+| **Languages** | Terran |
+| **Challenge** | CR |
+
+|
+
 | ***Siege Monster.*** The elemental deals double damage to objects and structures. |
+| --- |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | ***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn' \*\*t disturb the material it moves through. |
 | **Actions** |
@@ -4333,20 +4510,24 @@ Generic Earth Elemental
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
 Generic Fire Elemental
-- **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
-- **Ability**: Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6
-- **Hit Points**: (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex
-- **Movement**: 50 ft
-- **Saving Throws**: Fortitude CR+CON, Reflex CR+DEX, Will CR+WIS
-- **Damage Res.**: nonmagical weapons
-- **Damage Imm.**: Fire, Poison
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 60 ft
-- **Languages**: Ignan
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
+| --- | --- |
+| **Ability** | Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6 |
+| **Hit Points** | (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex |
+| **Movement** | 50 ft |
+| **S. Throws** | Fortitude CR+CON, Reflex CR+DEX, Will CR+WIS |
+| **Damage Res.** | nonmagical weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Ignan |
+| **Challenge** | CR |
+
+|
+
 | ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
+| --- |
 | ***Illumination.*** The elemental sheds bright light in a CR*7-foot radius and dim light for an additional CR*13 feet. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | ***Water Susceptibility.*** The elemental takes 1 cold damage for every 5 feet it moves in water, or for every gallon of water splashed on it. |
@@ -4358,20 +4539,24 @@ Generic Fire Elemental
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
 Generic Water Elemental
-- **Size/Type**: Elemental
-- **Ability**: Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6
-- **Hit Points**: (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, swim CR*13 ft
-- **Saving Throws**: Fortitude CR+CR/5+CON, Reflex CR+DEX, Will CR+WIS
-- **Damage Res.**: Acid; nonmagical weapons
-- **Damage Imm.**: Poison
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 60 ft
-- **Languages**: Aquan
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | Elemental |
+| --- | --- |
+| **Ability** | Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6 |
+| **Hit Points** | (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex |
+| **Movement** | 30 ft, swim CR*13 ft |
+| **S. Throws** | Fortitude CR+CR/5+CON, Reflex CR+DEX, Will CR+WIS |
+| **Damage Res.** | Acid; nonmagical weapons |
+| **Dam. Imm.** | Poison |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Aquan |
+| **Challenge** | CR |
+
+|
+
 | ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn. |
+| --- |
 | ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
@@ -4384,17 +4569,19 @@ Generic Water Elemental
 The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the start of each of the elemental' \*\*s turns, each target grappled by it takes (1d6)*CR/2 bludgeoning damage. A creature within 10 feet of the elemental can pull a creature or object out of it by taking an Action to make a Strength Fortitude Saving Throw check with DC 2+CR*2.
 
 Ghast
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1
-- **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +5, Will +3
-- **Damage Res.**: from Void
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Expiran
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 51, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +5, Will +3 |
+| **Damage Res.** | from Void |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 2 (450 XP) |
 
 ***Stench.*** Any creature that starts its round within 1 meter of the ghast must succeed on a DC 14 Fortitude Saving Throw or be Nauseated (-1d6 to Attack Rolls, Saving Throws and Checks) until the beginning of its next round. If the creature succeeds on the Saving Throw, it is immune to the ghast' \*\*s Stench for the next 24 hours.
 
@@ -4423,16 +4610,18 @@ Organization: Solitary, group (2-4) or pack (7-12)
 Ghasts are Ghouls with a deeper connection to the Void. A ghast' \*\*s paralysis affects Elves as well. Ghasts roam in packs or command groups of common Ghouls. The stench of death and decay that surrounds these creatures is overwhelming.
 
 Ghost
-- **Size/Type**: Medium undead, any trait
-- **Ability**: Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3
-- **Hit Points**: 87,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 0 m, fly 12 m, Float
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +5
-- **Damage Res.**: Acid, Electricity, Fire, Sound, Poison; from non-magical weapons
-- **Immunities**: charmed, grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: any language known in life, Expiran
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium undead, any trait |
+| --- | --- |
+| **Ability** | Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3 |
+| **Hit Points** | 87, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 0 m, fly 12 m, Float |
+| **S. Throws** | Fortitude +4, Reflex +5, Will +5 |
+| **Damage Res.** | Acid, Electricity, Fire, Sound, Poison; from non-magical weapons |
+| **Immunities** | charmed, grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | any language known in life, Expiran |
+| **Challenge** | 4 (1100 XP) |
 
 ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its round inside an object.
 
@@ -4470,16 +4659,18 @@ When a ghost is created, it gains copies of the objects it particularly valued i
 The original objects are left behind, just like the ghost' \*\*s physical remains. If another creature wields the original, the incorporeal copy vanishes. This loss inevitably enrages the ghost, who will stop at nothing to return the object to where it originally lay (and regain its use).
 
 Ghoul
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Claws.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -4505,17 +4696,19 @@ Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewer
 Although many surface ghouls live primitively, rumors speak of ghoul cities deep underground ruled by priests worshiping ancient cruel deities or strange demon lords of hunger. These *civilized* ghouls are no less horrible in their eating habits, and indeed their concept of a well-set table for feasts is perhaps even more ghastly than the idea of a fresh meal pulled from a coffin.
 
 Ghoul, Black
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2
-- **Hit Points**: 125,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +8, Reflex +8, Will +7
-- **Damage Imm.**: Poison, from Void, from critical, bleeding,
-- **Immunities**: charmed, fatigued,
-- **Damage Res.**: non-magical weapons or silver
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Expiran
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2 |
+| **Hit Points** | 125, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +8, Reflex +8, Will +7 |
+| **Dam. Imm.** | Poison, from Void, from critical, bleeding, |
+| **Immunities** | charmed, fatigued, |
+| **Damage Res.** | non-magical weapons or silver |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 6 (2300 XP) |
 
 ***Nefarious Aura***: The Black Ghoul constantly emits an aura around itself that weakens the defenses of anyone except other ghouls. Every two rounds spent in the 12-meter radius aura around the Black Ghoul accumulates a -1 penalty to all Saving Throws; when moving away from the Black Ghoul, you recover 1 point per round.
 
@@ -4543,17 +4736,19 @@ Organization: Group (4-8) or pack (14-24)
 The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
 
 Ghoul, Mother
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2
-- **Hit Points**: 107,  **Defense:** 21,  **Initiative:** +3
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +7, Reflex +8, Will +6
-- **Damage Imm.**: Poison, Void, from critical, bleeding
-- **Immunities**: charmed, fatigued
-- **Damage Res.**: non-magical weapons
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Expiran
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2 |
+| **Hit Points** | 107, **Defense:** 21, **Initiative:** +3 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +7, Reflex +8, Will +6 |
+| **Dam. Imm.** | Poison, Void, from critical, bleeding |
+| **Immunities** | charmed, fatigued |
+| **Damage Res.** | non-magical weapons |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 5 (1800 XP) |
 
 **Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
@@ -4575,17 +4770,19 @@ Organization: Clan (7-12+)
 The Mother Ghoul is usually the head of a clan of ghouls that can reach even several dozen members. Respected and feared, she is usually among the most intelligent evolved ghouls and highly appreciated for her ability to transform the living into ghouls. Their tactic involves wounding rather than killing several people so that when they return home and then transform, they can attack and kill the entire village.
 
 Ghoul, Putrid
-- **Size/Type**: Large undead, evil
-- **Ability**: Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2
-- **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +7, Reflex +6, Will +4
-- **Damage Imm.**: Poison, bleeding, from critical, from Void
-- **Immunities**: charmed, fatigued
-- **Damage Res.**: non-magical weapons or silver
-- **Senses**: Darkvision 36 m
-- **Languages**: Common, Expiran
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large undead, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2 |
+| **Hit Points** | 89, **Defense:** 19, **Initiative:** +2 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +7, Reflex +6, Will +4 |
+| **Dam. Imm.** | Poison, bleeding, from critical, from Void |
+| **Immunities** | charmed, fatigued |
+| **Damage Res.** | non-magical weapons or silver |
+| **Senses** | Darkvision 36m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 4 (1100 XP) |
 
 ***Regeneration***. The Putrid Ghoul regenerates 5 Hit Points per round except when in full sunlight or has taken Light damage in the previous round. If the Putrid Ghoul is in a cemetery, it recovers 10 Hit Points per round.
 
@@ -4613,14 +4810,16 @@ Organization: Group (4-8) or pack (10-18)
 Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with negative energy and feeding on corpses of all kinds for centuries have made it larger, stronger and capable of inflicting and causing the most dangerous wounds.
 
 Gibbering Mouther
-- **Size/Type**: Medium aberration, neutral
-- **Ability**: Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2
-- **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
-- **Movement**: 3 m, swim 3 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Immunities**: prone
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium aberration, neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 52, **Defense:** 13, **Initiative:** -1 |
+| **Movement** | 3 m, swim 3 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Immunities** | prone |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Gibbering.*** As long as the mouther can see a creature and is not incapacitated, it babbles incoherent phrases. Each creature that starts its round within 6 meters of the mouther and can hear its gibbering must make a Will Saving Throw DC 12. On a failure, the creature can' \*\*t take reactions until the start of its next round and rolls a d8 to determine what it will do during its round. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no Action or Reaction and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach, or does nothing if it is unable to make such an attack.
 
@@ -4647,17 +4846,19 @@ Organization: Solitary
 Disgusting, nauseating, and hungry: these are the only words that appropriately describe the gibbering mouther. Repulsive beasts that hide in caves, sewers, and nightmares, mouthers have no other social, ecological, or religious purpose beyond their ability to drive those who listen to them mad. Some scholars believe that gibbering mouthers are a smaller variant of the much more dangerous shoggoth, while others theorize that it is a punishment of Orudjs inflicted on those who have offended her.
 
 Glabrezu
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3
-- **Hit Points**: 186,  **Defense:** 26,  **Initiative:** +4
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +14, Reflex +11, Will +12
-- **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: truesight 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3 |
+| **Hit Points** | 186, **Defense:** 26, **Initiative:** +4 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +14, Reflex +11, Will +12 |
+| **Damage Resistance** | Cold, Lightning, Fire; from non-magical weapons |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 9 (5000 XP) |
 
 ***Innate Spellcasting.*** The demon' \*\*s spellcasting ability is Intelligence. The demon can cast these spells innately, without requiring material components:
 
@@ -4697,18 +4898,22 @@ While the Succubus is a demon that lures its prey by exploiting its desires and 
 A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons originate from the souls of traitors, false witnesses, and subversives: souls of mortals who, in life, swore falsely or used betrayal and deception to ruin others' \*\* lives.
 
 Globule
-- **Size/Type**: Small aberration, evil
-- **Ability**: Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
-- **Movement**: fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 
-- **Damage Imm.**: from Void, Cold, Poison
+**Size/Type** | Small aberration, evil
+--- | ---
+**Ability** | Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3
+**Hit Points** | 33, **Defense:** 15, **Initiative:** +3
+**Movement** | fly 18 m
+**S. Throws** | Fortitude +3, Reflex +3, Will +3
+**Dam. Imm.** | from Void, Cold, Poison
 
-- **Immunities**: prone
-- **Senses**: Darkvision 36 m
-- **Languages**: understands Common but doesn' \*\*t speak it
-- **Challenge**: 1 (200 XP)
+|
+
+**Immunities** | prone
+--- | ---
+**Senses** | Darkvision 36m
+**Languages** | understands Common but doesn' \*\*t speak it
+**Challenge** | 1 (200 XP)
 
 **Bird Hatred** the Globule has +1d6 to Attack Rolls against birds. It attacks birds and flying creatures first
 
@@ -4735,14 +4940,16 @@ Globules are magical aberrations coming from some portal opened to the Beyond. C
 Intelligent and clever, they prefer to attack while staying airborne and wearing down the opponent until they are mortally fatigued. Once killed, all that remains of a Globule is a small star-shaped creature with a large central eye, completely white.
 
 Gnoll
-- **Size/Type**: Medium humanoid (gnoll), evil
-- **Ability**: Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Gnoll
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (gnoll), evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Gnoll |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Rampage.*** When the gnoll reduces a creature to 0 Hit Points with a melee attack during its own round, it can use a Reaction to move up to half its movement and make a bite attack.
 
@@ -4781,14 +4988,16 @@ During combat, gnolls use pack tactics and individual strategies. If confident o
 Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. They rarely master magic effectively.
 
 Goblin
-- **Size/Type**: Small humanoid (goblinoid), evil
-- **Ability**: Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small humanoid (goblinoid), evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Short Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -4814,16 +5023,18 @@ Goblins are very superstitious and view magic with a mixture of awe and fear. Ev
 Goblins are voracious and can eat enormous amounts of food. A goblin won' \*\*t refuse to eat anything except perhaps salad..
 
 Gold Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Skills**: Stealth +4, Awareness +4
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Skills** | Stealth +4, Awareness +4 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 3 (700 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -4848,15 +5059,17 @@ Organization: Solitary
 Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
 
 Gorgon
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2
-- **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +5, Will +6
-- **Skills**: Awareness +4
-- **Immunities**: Petrified
-- **Senses**: Darkvision 18 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 109, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +9, Reflex +5, Will +6 |
+| **Skills** | Awareness +4 |
+| **Immunities** | Petrified |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Trampling Charge.*** The gorgon charges a target. 2 Actions. If the target, within 18 meters, is hit by a Gore attack, it must also succeed on a Fortitude Saving Throw DC 18 or be knocked prone. If the target falls prone, the gorgon can make a hooves attack against it as an Immediate Action.
 
@@ -4887,15 +5100,17 @@ Gorgons derive their nourishment by consuming minerals, particularly the stone o
 Their meat is tough and muscular (once the armor is removed), and for those who taste it, it is quite nutritious. Many stone giant tribes believe that eating gorgon meat increases their natural armor. Powdered gorgon horn is worth 250 gp as an alternative material component for magic items and spells that act on Strength or Stone.
 
 Gray Ooze
-- **Size/Type**: Medium ooze, unaligned
-- **Ability**: Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4
-- **Hit Points**: 24,  **Defense:** 10,  **Initiative:** -2
-- **Movement**: 10 ft, climb 10 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Res.**: Acid, Cold, Fire
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 24, **Defense:** 10, **Initiative:** -2 |
+| **Movement** | 10 ft, climb 10 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | Acid, Cold, Fire |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Amorphous.*** The ooze can move through a space up to 1 inch wide without squeezing.
 
@@ -4924,16 +5139,18 @@ Crawling through cold swamps and misty wetlands or, sometimes, in underground pa
 Some sages believe that gray oozes are the result of a failed alchemical experiment, while others theorize that the first gray oozes spontaneously arose from a well of magical debris. Naturally, these theories that do not consider them living organisms, but rather the result of an unfortunate mixture of caustic fluids and magical residues, are ridiculed by those who live in areas infested by these creatures, which have no history of magical pollution.
 
 Green Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3, Awareness +4
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3, Awareness +4 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -4954,15 +5171,17 @@ Organization: Solitary
 See Ancient Green Dragon Description.
 
 Green Hag
-- **Size/Type**: Medium fey, evil
-- **Ability**: Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +5
-- **Skills**: Arcana +3, Stealth +3, Deception +4
-- **Senses**: Darkvision 60 ft
-- **Languages**: Common, Draconic, Sylvan
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium fey, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +5 |
+| **Skills** | Arcana +3, Stealth +3, Deception +4 |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Common, Draconic, Sylvan |
+| **Challenge** | 3 (700 XP) |
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -4994,13 +5213,15 @@ Organization: Solitary or coven (3 hags of any type)
 Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
 
 Grick
-- **Size/Type**: Medium monstrosity, neutral
-- **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m, climb 9 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +4
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium monstrosity, neutral |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m, climb 9 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Stone Camouflage.*** The grick has +1d6 on Stealth (Hiding) checks made to hide in rocky terrain.
 
@@ -5031,14 +5252,16 @@ Gricks are capable predators with weapon-resistant skin, making them particularl
 Gricks camouflage themselves thanks to their dark color and their ability to climb walls, remaining hidden until the moment of attack. When food is scarce, they may head to the surface in search of prey, but they prefer darkness and the safety of a roof over their heads, avoiding the open sky and seeking shelter under trees, low clouds, or buildings.
 
 Griffin
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m, fly 24 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Awareness +5
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m, fly 24 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Awareness +5 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Keen Sight.*** The griffin has +1d6 on Awareness checks based on sight.
 
@@ -5073,16 +5296,18 @@ Before a griffin can be ridden in combat, the creature must practice carrying th
 Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70 kg as a heavy load. An exotic saddle is needed to ride them.
 
 Grimlock
-- **Size/Type**: Medium humanoid (grimlock), evil
-- **Ability**: Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Athletics +5, Stealth +3, Awareness +3
-- **Immunities**: blinded
-- **Senses**: Blindsight 9 m or 3 m if deafened (blind beyond this radius)
-- **Languages**: Undercommon
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium humanoid (grimlock), evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Athletics +5, Stealth +3, Awareness +3 |
+| **Immunities** | blinded |
+| **Senses** | Blindsight 9 m or 3 m if deafened (blind beyond this radius) |
+| **Languages** | Undercommon |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Stone Camouflage.*** The grimlock has +1d6 on Stealth (Hiding) checks made to hide on rocky terrain.
 
@@ -5106,16 +5331,18 @@ Grimlock
 Grimlocks are blind and savage human-like creatures that inhabit the realm of the dark depths, where they organize into small tribal groups.
 
 Guardian Naga
-- **Size/Type**: Large monstrosity, good
-- **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
-- **Hit Points**: 201,  **Defense:** 29,  **Initiative:** +4
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +13, Reflex +14, Will +14
-- **Damage Imm.**: Poison
-- **Condition Imm.**: charmed
-- **Senses**: Darkvision 60 ft
-- **Languages**: Celestial, Common
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large monstrosity, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4 |
+| **Hit Points** | 201, **Defense:** 29, **Initiative:** +4 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +13, Reflex +14, Will +14 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | charmed |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Celestial, Common |
+| **Challenge** | 10 (5900 XP) |
 
 ***Spellcasting.*** The naga has MC 11. Its spellcasting ability is Wisdom (+8 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
@@ -5158,17 +5385,19 @@ Although they have a fierce appearance, with bright scales, cobra-like hoods, an
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
 Gynosphinx
-- **Size/Type**: Large monstrosity, lawful
-- **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
-- **Hit Points**: 219,  **Defense:** 28,  **Initiative:** +4
-- **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: Fortitude +14, Reflex +13, Will +15
-- **Skills**: Arcana +14, Religion +9, History +14
-- **Dmg. Res.**: from non-magical weapons
-- **Immunities**: charmed, frightened
-- **Senses**: truesight 120 ft
-- **Languages**: Common, Sphinx
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large monstrosity, lawful |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4 |
+| **Hit Points** | 219, **Defense:** 28, **Initiative:** +4 |
+| **Movement** | 40 ft, fly 60 ft |
+| **S. Throws** | Fortitude +14, Reflex +13, Will +15 |
+| **Skills** | Arcana +14, Religion +9, History +14 |
+| **Dmg. Res.** | from non-magical weapons |
+| **Immunities** | charmed, frightened |
+| **Senses** | truesight 120 ft |
+| **Languages** | Common, Sphinx |
+| **Challenge** | 11 (7200 XP) |
 
 ***Magic Weapons.*** The sphinx' \*\*s weapon attacks are magical.
 
@@ -5202,7 +5431,7 @@ The sphinx can take 3 legendary actions, chosen from the options below. Only one
 
 **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet.
+**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 36 m.
 
 **Ecology**
 
@@ -5224,13 +5453,15 @@ Although not great scholars in the traditional sense, sphinxes' \*\* great appre
 A typical sphinx is 10 feet long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
 Harpy
-- **Size/Type**: Medium monstrosity, Arrogant, Impulsive
-- **Ability**: Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 6 m, fly 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Languages**: Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium monstrosity, Arrogant, Impulsive |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 6 m, fly 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Languages** | Common |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Multiattack.*** The harpy makes two attacks: one with its talons and one with its club.
 
@@ -5267,16 +5498,18 @@ Harpies tend to wear trinkets and pendants stolen from their victims, as they lo
 Harpies are markedly different depending on the region where they live. Some resemble a mixture of vultures and women, while others bear the regal traits of hawks and falcons on their feathers. Rare broods of harpies, in isolated and tropical places in the world, also have colorful feathers like parrots.
 
 Hell Hound
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 50 ft
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
-- **Skills**: Perception +5
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 60 ft
-- **Languages**: understands Infernal but cannot speak
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 50 ft |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +4 |
+| **Skills** | Perception +5 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | understands Infernal but cannot speak |
+| **Challenge** | 3 (700 XP) |
 
 ***Keen Hearing and Smell.*** The hound has +1d6 on Perception checks based on hearing or smell.
 
@@ -5289,17 +5522,19 @@ Hell Hound
 ***Fire Breath (Recharge 5-6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a Reflex Saving Throw DC 14, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
 Hezrou
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1
-- **Hit Points**: 167,  **Defense:** 25,  **Initiative:** +5
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +13, Reflex +11, Will +9
-- **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1 |
+| **Hit Points** | 167, **Defense:** 25, **Initiative:** +5 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +13, Reflex +11, Will +9 |
+| **Damage Resistance** | Cold, Lightning, Fire; from non-magical weapons |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 8 (3900 XP) |
 
 ***Stench.*** Any creature that starts its turn within 3 meters of the demon must succeed on a Fortitude Saving Throw DC 21 or be poisoned, -1 Strength and Dexterity, until the start of its own turn. If it succeeds on the Saving Throw, the creature is immune to the demon' \*\*s stench for 24 hours.
 
@@ -5334,13 +5569,15 @@ The hezrou lives in the vast swamps, wetlands, and watercourses of the Abyss. It
 These monstrous and bestial creatures are born from the souls of evil mortals who have poisoned themselves, their relatives, or their environment, for example, drug addicts, assassins, and alchemists who didn' \*\*t care how their experiments poisoned the natural world.
 
 Hill Giant
-- **Size/Type**: Huge giant, evil
-- **Ability**: Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2
-- **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +4, Will +4
-- **Languages**: Giant
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge giant, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2 |
+| **Hit Points** | 109, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +9, Reflex +4, Will +4 |
+| **Languages** | Giant |
+| **Challenge** | 5 (1800 XP) |
 
 **Actions*Multiattack.*** The giant makes two attacks with its greatclub.
 
@@ -5371,13 +5608,15 @@ Hill giants are by nature nomadic and prefer to travel from place to place to ra
 Solitary and non-evil hill giants are quite rare, but they can sometimes be found in other humanoid societies, though they are almost never accepted in major cities or populated centers. They find their place as workers and soldiers in remote frontier towns, and often serve as rudimentary diplomats to negotiate with bands of marauding hill giants. Unfortunately, hill giants who abandon their racial lifestyle for civilization are mocked and often killed on sight by their nomadic brethren. However, these *civilized* hill giants can find their place in society and many have managed to live a peaceful and quiet existence.
 
 Hippogriff
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 12 m, fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Awareness +5
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 12 m, fly 18 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Awareness +5 |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Sight.*** The hippogriff has +1d6 on Awareness checks based on sight.
 
@@ -5412,14 +5651,16 @@ Breeding communities often offer rewards for capturing them as they can represen
 Hippogriffs are oviparous and their nest usually contains only one egg, which is worth 200 gp. A healthy young hippogriff is worth 500 gp, while a fully trained hippogriff as a mount can be worth up to 5000 gp. They can carry 90 kg as a light load, 180 kg as a medium load, and 270 kg as a heavy load, and require an exotic saddle to be ridden.
 
 Hisser
-- **Size/Type**: Large monstrosity, chaotic
-- **Ability**: Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 20 ft, climb 20 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Perception +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, chaotic |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 20 ft, climb 20 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Perception +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Multiattack.*** The Hisser can make two claw attacks or one tail strike.
 
@@ -5446,14 +5687,16 @@ Hissers, so called because of the noise their tail makes when swinging, are very
 Dark gray or brown in color, they prefer to hide in darkness and attack when hungry or to defend their territory. They try to keep their distance in combat, and if seriously injured, they escape by climbing the walls.
 
 Hobgoblin
-- **Size/Type**: Medium humanoid (goblinoid), evil
-- **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (goblinoid), evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Martial.*** Once per round, as a Reaction, the hobgoblin can deal 7 (2d6) extra damage to a creature it hits with a weapon attack, if that creature is within 1 meter of an ally of the hobgoblin that isn' \*\*t incapacitated.
 
@@ -5482,16 +5725,18 @@ Many Hobgoblin tribes combine the love of war with sharp intellect. They are fas
 Hobgoblins despise magic and distrust wizards. Their shamans, feared and respected, live on the edges of the tribe' \*\*s lair. Hobgoblins are about 1.7 meters tall and weigh 80 kg.
 
 Homunculus
-- **Size/Type**: Tiny construct, neutral
-- **Ability**: Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 6 m, flight 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: charmed
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Tiny construct, neutral |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 6 m, flight 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 0 (10 XP) |
 
 ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it perceives to its master, and the two can communicate telepathically.
 
@@ -5502,17 +5747,19 @@ Homunculus
 ***Master' \*\*s Conduit***: using 3 Actions, the homunculus becomes the conduit for the casting of a spell by its master.
 
 Horned Devil
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3
-- **Hit Points**: 224,  **Defense:** 29,  **Initiative:** +3
-- **Movement**: 6 m, flight 18 m
-- **Saving Throws**: Fortitude +16, Reflex +14, Will +14
-- **Damage Res.**: Cold;
-- **Damage Imm.**: Fire, Poison, weapons +1
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3 |
+| **Hit Points** | 224, **Defense:** 29, **Initiative:** +3 |
+| **Movement** | 6 m, flight 18 m |
+| **S. Throws** | Fortitude +16, Reflex +14, Will +14 |
+| **Damage Res.** | Cold; |
+| **Dam. Imm.** | Fire, Poison, weapons +1 |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 11 (7200 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -5557,15 +5804,17 @@ A typical horned devil reaches the considerable height of 2.7 meters, has wings 
 > The LORD said to Satan: "Where have you come from?" Satan answered the LORD: "From roaming through the earth and going back and forth in it". Job 1:6-12
 
 Hungry Coins
-- **Size/Type**: Tiny aberration, strongly evil
-- **Ability**: Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 3 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Awareness +3
-- **Damage Imm.**: Cold, Poison, Electricity, from Void
-- **Immunities**: charmed, petrified, frightened
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Tiny aberration, strongly evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 3 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Awareness +3 |
+| **Dam. Imm.** | Cold, Poison, Electricity, from Void |
+| **Immunities** | charmed, petrified, frightened |
+| **Challenge** | 1/2 (100 XP) |
 
 Hungry Coins always attack in groups of at least 8 coins, those held in hand for counting...
 
@@ -5592,14 +5841,16 @@ Voracious and hungry, they like to hide in piles of coins they feed on to absorb
 Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Legend has it that a Hungry Coin will not attack a Devotee of Rezh.
 
 Hydra
-- **Size/Type**: Huge monstrosity, unaligned
-- **Ability**: Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2
-- **Hit Points**: 167,  **Defense:** 23,  **Initiative:** +1
-- **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +13, Reflex +9, Will +8
-- **Skills**: Awareness +6
-- **Senses**: Darkvision 18 m
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Huge monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 167, **Defense:** 23, **Initiative:** +1 |
+| **Movement** | 9 m, swim 9 m |
+| **S. Throws** | Fortitude +13, Reflex +9, Will +8 |
+| **Skills** | Awareness +6 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 8 (3900 XP) |
 
 ***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has +1d6 on Saving Throws against being blinded, charmed, deafened, frightened, stunned, or unconscious.
 
@@ -5632,16 +5883,18 @@ Organization: Solitary
 The hydra is a multi-headed dragon, but stupid and with major digestive problems.
 
 Ice Devil
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4
-- **Hit Points**: 278,  **Defense:** 32,  **Initiative:** +4
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +18, Reflex +16, Will +16
-- **Damage Imm.**: Cold, Fire, Poison, weapons +1
-- **Vulnerabilities**: silver, Light
-- **Senses**: Blindsight 18 m, Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 14 (11500 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4 |
+| **Hit Points** | 278, **Defense:** 32, **Initiative:** +4 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +18, Reflex +16, Will +16 |
+| **Dam. Imm.** | Cold, Fire, Poison, weapons +1 |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Blindsight 18 m, Darkvision 36 m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 14 (11500 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -5688,16 +5941,18 @@ In combat, it sends its subordinates ahead, so it can assess the tactics, streng
 Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 
 Ice Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3, Awareness +2
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Ictun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3, Awareness +2 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Ictun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 
@@ -5726,16 +5981,18 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Ice mephits are commonly found on the Plane of Air. These mephits are aloof and cruel.
 
 Immortal Cursed
-- **Size/Type**: Medium aberration (human), tends to be insane
-- **Ability**: Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2
-- **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Skills**: Awareness +3, profession they had in life
-- **Damage Imm.**: Cold, Poison, Fire, from Void
-- **Immunities**: charmed, petrified, frightened
-- **Languages**: Common, Dwarven, Elvish
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium aberration (human), tends to be insane |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2 |
+| **Hit Points** | 88, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Skills** | Awareness +3, profession they had in life |
+| **Dam. Imm.** | Cold, Poison, Fire, from Void |
+| **Immunities** | charmed, petrified, frightened |
+| **Languages** | Common, Dwarven, Elvish |
+| **Challenge** | 4 (1100 XP) |
 
 ***Immortal*** The Immortal Cursed regenerates 1 Hit Point per round, except if it has taken acid damage. This allows it to regenerate limbs and return to life. Remove Curse at DC 30 instantly kills it.
 
@@ -5759,18 +6016,20 @@ The Immortal Cursed is a person cursed often by a Patron or by a powerful spellc
 With the purpose of getting finally killed, they throw themselves into every battle hoping that the opponent will be able to kill them once and for all.
 
 Imp
-- **Size/Type**: Tiny devil, shapechanger, evil
-- **Ability**: Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Movement**: 6 m, fly 12 m (6 m in rat form; 6 m, fly 18 m in raven form; 6 m, climb 6 m in spider form)
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +5, Deception +4, Insight +3
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Tiny devil, shapechanger, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Movement** | 6 m, fly 12 m (6 m in rat form; 6 m, fly 18 m in raven form; 6 m, climb 6 m in spider form) |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +5, Deception +4, Insight +3 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, Common |
+| **Challenge** | 1 (200 XP) |
 
 ***Shapechanger.*** The devil can use an Action to transform into a bestial form of rat, raven, or spider, or to return to its true form. Its statistics are the same in all forms, although attacks may vary for some of them. Any equipment it is wearing or carrying doesn' \*\*t transform. Upon death it returns to its true form.
 
@@ -5801,18 +6060,20 @@ Imps vary greatly in appearance, across a wide spectrum of bestial and grotesque
 Unlike other devils, imps are often found free and alone on the Material Plane, particularly after they have been summoned to serve as familiars and their masters have died (often, indirectly, because of the imp' \*\*s own machinations). Without any means to return home, these imps, free from any bonds with arcane masters, can become dangerous nuisances or even place themselves at the head of small tribes of bloodthirsty humanoids, such as Goblins or Kobolds.
 
 Invisible Stalker
-- **Size/Type**: Medium elemental, neutral
-- **Ability**: Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0
-- **Hit Points**: 125,  **Defense:** 24,  **Initiative:** +4
-- **Movement**: 15 m, flight 15 m, Hover
-- **Saving Throws**: Fortitude +8, Reflex +10, Will +8
-- **Skills**: Stealth +10, Awareness +8
-- **Damage Res.**: non-magical weapons
-- **Damage Imm.**: Poison
-- **Immunities**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Ictun, understands Common but doesn' \*\*t speak it
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium elemental, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0 |
+| **Hit Points** | 125, **Defense:** 24, **Initiative:** +4 |
+| **Movement** | 15 m, flight 15 m, Hover |
+| **S. Throws** | Fortitude +8, Reflex +10, Will +8 |
+| **Skills** | Stealth +10, Awareness +8 |
+| **Damage Res.** | non-magical weapons |
+| **Dam. Imm.** | Poison |
+| **Immunities** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ictun, understands Common but doesn' \*\*t speak it |
+| **Challenge** | 6 (2300 XP) |
 
 ***Faultless Tracker.*** The summoner assigns a prey to the stalker. The stalker knows the direction and distance to the prey as long as they are on the same plane of existence. The stalker also knows the location of its summoner.
 
@@ -5845,16 +6106,18 @@ Many invisible stalkers, however, consider these tasks as miserable requests fro
 Due to continuous summonings, many invisible stalkers are adverse to the inhabitants of the Material Plane. Those newly summoned to the mortal world know only the stories of their kind and maintain an open attitude toward those who summon them. Over time, or if they serve an evil master, they begin to form a negative opinion of these mortal creatures, which leads them to deflect instructions and harm their masters. For older invisible stalkers with more experience, the only thing that protects those who summoned them is the magic that binds them. These creatures always try to use inconsistencies in the formulation of their tasks and literal distortions in intentions to find a way to annoy, hurt, or even kill those who brought them to this plane.
 
 Iron Golem
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5
-- **Hit Points**: 319,  **Defense:** 32,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +21, Reflex +15, Will +16
-- **Damage Imm.**: Fire, Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 36 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5 |
+| **Hit Points** | 319, **Defense:** 32, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +21, Reflex +15, Will +16 |
+| **Dam. Imm.** | Fire, Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 16 (15000 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 12/- against non-magical weapons.
 
@@ -5902,14 +6165,16 @@ Although the practice of building iron golems has gradually fallen into disuse, 
 To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at least 10,000 gp.
 
 Kobold
-- **Size/Type**: Small humanoid (kobold), evil
-- **Ability**: Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Small humanoid (kobold), evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Sunlight Sensitivity***. While in sunlight, the kobold has -1d6 to attack rolls, as well as to Awareness checks based on sight.
 
@@ -5938,16 +6203,18 @@ The shade of kobolds varies even among brothers of the same clutch, ranging acro
 Kobolds have a weakness for silver but, being terrible miners, they prefer to prey on silver coins from adventurers and eat them like butter cookies. Kobolds can digest silver rather quickly, and the more they eat, the shinier their scales are and the healthier the kobolds appear.
 
 Kraken
-- **Size/Type**: Gargantuan monstrosity (titan), evil
-- **Ability**: Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5
-- **Hit Points**: 461,  **Defense:** 42,  **Initiative:** +6
-- **Movement**: 6 m, swim 18 m
-- **Saving Throws**: Fortitude +30, Reflex +23, Will +27
-- **Damage Imm.**: Electricity, +1 weapons
-- **Immunities**: paralyzed, frightened
-- **Senses**: truesight 36 m
-- **Languages**: understands Abyssal, Celestial, Infernal, and Druidic but cannot speak, telepathy 36 m
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan monstrosity (titan), evil |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5 |
+| **Hit Points** | 461, **Defense:** 42, **Initiative:** +6 |
+| **Movement** | 6 m, swim 18 m |
+| **S. Throws** | Fortitude +30, Reflex +23, Will +27 |
+| **Dam. Imm.** | Electricity, +1 weapons |
+| **Immunities** | paralyzed, frightened |
+| **Senses** | truesight 36 m |
+| **Languages** | understands Abyssal, Celestial, Infernal, and Druidic but cannot speak, telepathy 36 m |
+| **Challenge** | 23 (50000 XP) |
 
 ***Amphibious.*** The kraken can breathe air and water.
 
@@ -5994,15 +6261,17 @@ Many legends have arisen regarding the fact that it understands the druidic lang
 A kraken is almost 30 meters long and weighs 20,000 kg.
 
 Lamia
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3
-- **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +6
-- **Skills**: Stealth +3, Deception +7, Sense Emotion +4,
-- **Senses**: Darkvision 18 m
-- **Languages**: Abyssal, Common
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3 |
+| **Hit Points** | 88, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +6 |
+| **Skills** | Stealth +3, Deception +7, Sense Emotion +4, |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 4 (1100 XP) |
 
 ***Innate Spellcasting.*** The lamia' \*\*s innate spellcasting ability is Charisma. The lamia can innately cast the following spells, requiring no material components:
 
@@ -6041,18 +6310,20 @@ These creatures are attracted to ruined towers, abandoned cities, and forgotten 
 Lamias worship the elder females of their group, considering them leaders, mothers, and shamans, and bind themselves to them with fanatical reverence. Although they shun most religions, seeing them as the source of the curse that afflicts them, elder lamias claim to hear the whispers of the desert wind and to know the whims of the stars, thus guiding their people.
 
 Lemure
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 15,  **Defense:** 9,  **Initiative:** -3
-- **Movement**: 5 meters
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Res.**: Cold
-- **Damage Imm.**: Fire, Poison
-- **Immunities**: charmed, frightened
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: understands Infernal but cannot speak
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 15, **Defense:** 9, **Initiative:** -3 |
+| **Movement** | 5 meters |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | Cold |
+| **Dam. Imm.** | Fire, Poison |
+| **Immunities** | charmed, frightened |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands Infernal but cannot speak |
+| **Challenge** | 0 (10 XP) |
 
 ***Devilish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its Hit Points in 1d10 days unless it is killed by a creature with good traits on which the spell *bless* has been cast or its remains are sprinkled with Holy Water.
 
@@ -6077,17 +6348,19 @@ They play a vital role in Hell' \*\*s ecology. Damned souls are tormented for ce
 Greater devils can recognize the most corrupted lemures and transform them into true devils, ready to serve in the legions of the damned.
 
 Lich
-- **Size/Type**: Medium undead, evil traits
-- **Ability**: Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3
-- **Hit Points**: 405,  **Defense:** 43,  **Initiative:** +5
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +24, Reflex +24, Will +23
-- **Damage Res.**: Cold, Lightning, Necrotic
-- **Damage Imm.**: Poison; non-magical weapons
-- **Immunities**: charmed, paralyzed, fatigued, frightened, bleeding
-- **Senses**: truesight 36 m
-- **Languages**: Common plus five other languages, Expiran
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Medium undead, evil traits |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3 |
+| **Hit Points** | 405, **Defense:** 43, **Initiative:** +5 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +24, Reflex +24, Will +23 |
+| **Damage Res.** | Cold, Lightning, Necrotic |
+| **Dam. Imm.** | Poison; non-magical weapons |
+| **Immunities** | charmed, paralyzed, fatigued, frightened, bleeding |
+| **Senses** | truesight 36 m |
+| **Languages** | Common plus five other languages, Expiran |
+| **Challenge** | 21 (33000 XP) |
 
 ***Spellcasting.*** The lich has CM 18. Its spellcasting ability is Intelligence. The lich knows the following spells:
 
@@ -6154,14 +6427,16 @@ Few creatures are more feared than liches. Apex of Necromantic arts, the lich is
 There are also extremely rare good Liches, but as the saying goes, they are rarer than a Roc' \*\*s tooth.
 
 Lizardfolk
-- **Size/Type**: Medium humanoid (lizardfolk), neutral
-- **Ability**: Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +3, Survival +5
-- **Languages**: Draconic
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (lizardfolk), neutral |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 9 m, swim 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +3, Survival +5 |
+| **Languages** | Draconic |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
@@ -6200,16 +6475,18 @@ Though generally neutral, lizardfolk' \*\*s standoffish nature, their strenuous 
 The lizardfolk presented here live in swampy environments. Lizardfolk tribes can live just as well in other environments, but as speed they gain Climb 5 meters instead of Swim.
 
 Lootdead
-- **Size/Type**: Large construct, undead, unaligned
-- **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5
-- **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +4
-- **Dmg. Imm.**: Poison
-- **Immunities**: charmed, fatigued, paralyzed, petrified, bleeding, diseases
-- **Senses**: Darkvision 100 ft
-- **Languages**: understands all languages of its creator but cannot speak
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large construct, undead, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5 |
+| **Hit Points** | 127, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +4 |
+| **Dmg. Imm.** | Poison |
+| **Immunities** | charmed, fatigued, paralyzed, petrified, bleeding, diseases |
+| **Senses** | Darkvision 100 ft |
+| **Languages** | understands all languages of its creator but cannot speak |
+| **Challenge** | 6 (2300 XP) |
 
 ***Damage Reduction.*** The Lootdead has hardness 6/- against non-magical weapons.
 
@@ -6249,19 +6526,22 @@ The large central eye, perhaps once belonging to a humanoid, allows the controll
 Usually a Lootdead is always accompanied by several guardians (other creatures under the controller' \*\*s command) that help in *dealing with* any still active *resistance*.
 
 Magma Man
-- **Size/Type**: Small elemental, chaotic
-- **Ability**: Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 
-| - **Damage Res.**: from non-magical weapons |
-| --- |
+| **Size/Type** | Small elemental, chaotic |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | from non-magical weapons |
 
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 18 m
-- **Languages**: Ignan
-- **Challenge**: 1/2 (100 XP)
+|
+
+| **Dam. Imm.** | Fire |
+| --- | --- |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ignan |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Fiery Illumination.*** As an Immediate Action, the magma man can ignite or extinguish its flames. While the flame is lit, the magma man sheds bright light in a 3-meter radius and dim light for 6 meters.
 
@@ -6290,16 +6570,18 @@ Proud of their magma lakes, each lake has a different purpose: baths, cooking, o
 At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense composition.
 
 Magma Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Ignan, Tremun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ignan, Tremun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary pool of magma.
 
@@ -6328,14 +6610,16 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Magma mephits are commonly found on the Plane of Fire. These mephits are stupid brutes.
 
 Manticore
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1
-- **Hit Points**: 70,  **Defense:** 19,  **Initiative:** +3
-- **Movement**: 9 m, fly 15 m
-- **Saving Throws**: Fortitude +6, Reflex +6, Will +4
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 70, **Defense:** 19, **Initiative:** +3 |
+| **Movement** | 9 m, fly 15 m |
+| **S. Throws** | Fortitude +6, Reflex +6, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 3 (700 XP) |
 
 ***Tail Spike Regrowth.*** The manticore has twenty-four tail spikes. Used spikes regrow at dawn.
 
@@ -6369,17 +6653,19 @@ Manticores eat any kind of meat, even carrion, but they prefer human flesh and r
 Although manticores are similar to magical creations, they have long been counted among natural species. Curiously, manticores seem strangely fertile and can crossbreed with numerous other similarly-shaped species, including Lions, Tigers, Lamias, Sphinxes, and Chimeras.
 
 Marilith
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5
-- **Hit Points**: 319,  **Defense:** 38,  **Initiative:** +5
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +21, Reflex +21, Will +19
-- **Damage Resistance**: Cold, Lightning, Fire
-- **Damage Immunity**: Poison, +1 weapons
-- **Vulnerability**: cold iron, Light
-- **Senses**: truesight 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5 |
+| **Hit Points** | 319, **Defense:** 38, **Initiative:** +5 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +21, Reflex +21, Will +19 |
+| **Damage Resistance** | Cold, Lightning, Fire |
+| **Damage Immunity** | Poison, +1 weapons |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 16 (15000 XP) |
 
 ***Magic Weapons.*** The demon' \*\*s weapon attacks are magical.
 
@@ -6420,15 +6706,17 @@ Sovereigns of demonic hordes and queens of abyssal nations, the fearsome marilit
 A marilith is 1.8 to 2.7 meters tall, 6 meters long from head to tail, and weighs 2000 kg. Only the most arrogant and proud evil souls, usually those of cruel sovereigns, sadistic generals, and particularly violent warlords, can cause the birth of a marilith.
 
 Medusa
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2
-- **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +8, Will +7
-- **Skills**: Stealth +5, Deception +5, Insight +4
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2 |
+| **Hit Points** | 126, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +8, Will +7 |
+| **Skills** | Stealth +5, Deception +5, Insight +4 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 6 (2300 XP) |
 
 ***Petrifying Gaze.*** If a creature starts its round within 9 meters of a medusa and can see the medusa' \*\*s eyes, the medusa, if it isn' \*\*t incapacitated and can see the creature, can force it to make a Fortitude Saving Throw DC 19. If the creature critically fails the Saving Throw, it is instantly petrified, otherwise it is Slowed 1/1 minute. Subsequent gazes and failed Saving Throws lead to an increase in the Slowed condition. When the creature becomes Slowed 3, it turns to stone. The creature can return to flesh if the spell Flesh to Stone is cast within 1 month of petrification.
 
@@ -6467,19 +6755,21 @@ Accustomed to hiding, urban medusas are generally thieves, while those from wild
 All medusas are female. Rarely, a medusa decides to take a male humanoid as a companion, generally with the help of a Love Potion or similar magic, and they always take care not to petrify their prisoner, unless they have grown bored with his company.
 
 Topi, La
-- **Size/Type**: Tiny fey, indifferent. Patron
-- **Ability**: Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10
-- **Hit Points**: 15,  **Defense:** 16,  **Initiative:** +6
-- **Movement**: 6 m, fly 18 m, hover
-- **Saving Throws**: Fortitude +30, Reflex +34, Will +30
-- **Skills**: all +20
-- **Immunities**: to damage from weapons with magical bonus less than +6
-- **Immunities**: to any effect, damage, condition La Topi doesn' \*\*t like
-- **Immunities**: to any magic La Topi doesn' \*\*t want to be affected by
-- **Immunities**: to suffering any type of critical hit
-- **Senses**: Tremorsense 60, Darkvision 60 m, Truesight 60 m
-- **Languages**: all
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Tiny fey, indifferent. Patron |
+| --- | --- |
+| **Ability** | Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10 |
+| **Hit Points** | 15, **Defense:** 16, **Initiative:** +6 |
+| **Movement** | 6 m, fly 18 m, hover |
+| **S. Throws** | Fortitude +30, Reflex +34, Will +30 |
+| **Skills** | all +20 |
+| **Immunities** | to damage from weapons with magical bonus less than +6 |
+| **Immunities** | to any effect, damage, condition La Topi doesn' \*\*t like |
+| **Immunities** | to any magic La Topi doesn' \*\*t want to be affected by |
+| **Immunities** | to suffering any type of critical hit |
+| **Senses** | Tremorsense 60, Darkvision 60 m, Truesight 60 m |
+| **Languages** | all |
+| **Challenge** | 0 (10 XP) |
 
 ***She Is La Topi*** La Topi has +3d6 (or +18) whenever she needs to roll dice or count a value.
 
@@ -6506,16 +6796,18 @@ Organization: Solitary
 She might be mistaken for a small white mouse, but La Topi is much more. Clever, intelligent, beautiful, she loves going to the market and buying handbags.
 
 Mimic
-- **Size/Type**: Medium monstrosity (shapechanger), neutral
-- **Ability**: Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 15 feet
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Stealth +5
-- **Damage Imm.**: Acid
-- **Condition Imm.**: prone
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium monstrosity (shapechanger), neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 15 feet |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Stealth +5 |
+| **Dam. Imm.** | Acid |
+| **Condition Imm.** | prone |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 2 (450 XP) |
 
 ***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is grappled by it (escape DC 18). The mimic doesn' \*\*t consider itself Grappled when it grapples something.
 
@@ -6549,15 +6841,17 @@ Although mimics are not intrinsically evil, some sages suggest that they attack 
 A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs about 900 pounds. Legends and stories tell of larger mimics, with the ability to take the form of houses, ships, or entire underground complexes that they garnish with treasures (both real and fake) to lure their unsuspecting food inside.
 
 Minotaur
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +6, Reflex +3, Will +6
-- **Skills**: Perception +7
-- **Senses**: Darkvision 60 ft
-- **Languages**: Abyssal
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +0 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +6, Reflex +3, Will +6 |
+| **Skills** | Perception +7 |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Abyssal |
+| **Challenge** | 3 (700 XP) |
 
 ***Charge.*** If the minotaur moves at least 10 feet toward a target and hits it with a gore attack during the same round, the target takes 9 (2d8) extra piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be pushed up to 10 feet away and knocked prone. 1 Action.
 
@@ -6590,17 +6884,19 @@ Minotaurs can serve more powerful monsters or evil creatures, hunting and eating
 Minotaurs are straightforward fighters, using their horns to horribly gore nearby creatures at the beginning of combat.
 
 Mummy
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1
-- **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
-- **Movement**: 20 ft
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Damage Res.**: from non-magical weapons
-- **Damage Imm.**: from Void, Poison
-- **Condition Imm.**: charmed, paralyzed, exhausted, frightened, bleeding
-- **Senses**: Darkvision 60 ft
-- **Languages**: the languages it knew in life
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1 |
+| **Hit Points** | 70, **Defense:** 15, **Initiative:** -1 |
+| **Movement** | 20 ft |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Damage Res.** | from non-magical weapons |
+| **Dam. Imm.** | from Void, Poison |
+| **Condition Imm.** | charmed, paralyzed, exhausted, frightened, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 3 (700 XP) |
 
 ***Undead Nature.*** A mummy doesn' \*\*t need air, food, drink, or sleep.
 
@@ -6613,17 +6909,19 @@ Mummy
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 15 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
 Mummy Lord
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
-- **Hit Points**: 294,  **Defense:** 32,  **Initiative:** +0
-- **Movement**: 20 ft
-- **Saving Throws**: Fortitude +18, Reflex +15, Will +19
-- **Skills**: Religion +5, History +5
-- **Damage Imm.**: from Void, Poison; +1 weapons
-- **Condition Imm.**: charmed, paralyzed, exhausted, frightened
-- **Senses**: Darkvision 60 ft
-- **Languages**: the languages it knew in life
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3 |
+| **Hit Points** | 294, **Defense:** 32, **Initiative:** +0 |
+| **Movement** | 20 ft |
+| **S. Throws** | Fortitude +18, Reflex +15, Will +19 |
+| **Skills** | Religion +5, History +5 |
+| **Dam. Imm.** | from Void, Poison; +1 weapons |
+| **Condition Imm.** | charmed, paralyzed, exhausted, frightened |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 15 (13000 XP) |
 
 ***Mummy Lord' \*\*s Heart.*** As part of the ritual that creates a mummy lord, the creature' \*\*s heart and viscera are removed from the body and placed in sealed containers. These containers are usually made of stone or ceramic, engraved or painted with religious hieroglyphics.
 
@@ -6689,17 +6987,19 @@ Organization: Solitary, Group (3-6) or Mausoleum (7-12)
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less common. In some ancient lands, such blasphemous techniques have been refined through centuries of ceremony and countless deaths, resulting in mummies of terrible power. On rare occasions, if the deceased was of high rank and excessive wickedness, they might undergo such elaborate rituals, rising from the tomb as a fearsome mummy lord. Similarly, a ruler known for malice or who died in a moment of great anger might present themselves spontaneously as a vengeful despot. Regardless of the exact circumstances of its resurrection, a mummy lord retains the abilities it had in life, becoming a creature consumed by the desire to restore its dominion and rule over both the living and the dead.
 
 Nalfeshnee
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2
-- **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +4
-- **Movement**: 6 m, flight 9 m
-- **Saving Throws**: Fortitude +19, Reflex +13, Will +14
-- **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2 |
+| **Hit Points** | 264, **Defense:** 29, **Initiative:** +4 |
+| **Movement** | 6 m, flight 9 m |
+| **S. Throws** | Fortitude +19, Reflex +13, Will +14 |
+| **Damage Resistance** | Cold, Lightning, Fire; from non-magical weapons |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 13 (10000 XP) |
 
 ***Magic Resistance.*** The demon has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -6741,16 +7041,18 @@ Few demons understand the internal mechanics that govern the Abyss as well as na
 Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls of greedy or lustful evil mortals, particularly those who have ruled over empires of slavery, theft, banditry, and other even more violent vices.
 
 Night Hag
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3
-- **Hit Points**: 108,  **Defense:** 20,  **Initiative:** +3
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +8, Reflex +7, Will +7
-- **Skills**: Stealth +6, Deception +7, Insight +6
-- **Damage Res.**: Cold, Fire; from non-magical or non-silvered weapons
-- **Senses**: Darkvision 120 ft
-- **Languages**: Abyssal, Common, Infernal, Druidic
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3 |
+| **Hit Points** | 108, **Defense:** 20, **Initiative:** +3 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +8, Reflex +7, Will +7 |
+| **Skills** | Stealth +6, Deception +7, Insight +6 |
+| **Damage Res.** | Cold, Fire; from non-magical or non-silvered weapons |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Abyssal, Common, Infernal, Druidic |
+| **Challenge** | 5 (1800 XP) |
 
 ***Innate Spellcasting.*** The hag' \*\*s innate spellcasting ability is Charisma (DC 14 for spell Saving Throws). The hag can innately cast the following spells without requiring material components:
 
@@ -6771,17 +7073,19 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 ***Change Shape.*** The hag can magically transform into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn' \*\*t transformed. She reverts to her true form when she dies.
 
 Nightmare Steed
-- **Size/Type**: Large fiend, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 18 m, flight 24 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +4
-- **Damage Imm.**: Fire
-- **Skills**: Awareness +6
-- **Vulnerabilities**: Light
-- **Senses**: Darkvision 36 m
-- **Languages**: understands Abyssal, Common, and Infernal but can' \*\*t speak
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large fiend, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 18 m, flight 24 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +4 |
+| **Dam. Imm.** | Fire |
+| **Skills** | Awareness +6 |
+| **Vulnerabilities** | Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands Abyssal, Common, and Infernal but can' \*\*t speak |
+| **Challenge** | 3 (700 XP) |
 
 ***Confer Fire Resistance.*** The nightmare steed can confer resistance to fire damage to anyone riding it.
 
@@ -6806,16 +7110,18 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 > Hell is empty, all the devils are here. (William Shakespeare, The Tempest)
 
 Ochre Jelly
-- **Size/Type**: Large ooze, unaligned
-- **Ability**: Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5
-- **Hit Points**: 51,  **Defense:** 12,  **Initiative:** -2
-- **Movement**: 10 ft, climb 10 ft
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Damage Res.**: Acid
-- **Damage Imm.**: Lightning, slashing
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5 |
+| **Hit Points** | 51, **Defense:** 12, **Initiative:** -2 |
+| **Movement** | 10 ft, climb 10 ft |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Damage Res.** | Acid |
+| **Dam. Imm.** | Lightning, slashing |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 2 (450 XP) |
 
 ***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -6849,14 +7155,16 @@ Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 fe
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
 Ogre
-- **Size/Type**: Large giant, sadistic evil
-- **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2
-- **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Giant
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large giant, sadistic evil |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2 |
+| **Hit Points** | 52, **Defense:** 13, **Initiative:** -1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Giant |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Greatclub.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
@@ -6894,16 +7202,18 @@ Their great strength and lack of imagination make them particularly suitable for
 An adult ogre is about 3 meters tall and weighs about 325 kg.
 
 Ogre Zombie
-- **Size/Type**: Large undead, evil
-- **Ability**: Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3
-- **Hit Points**: 52,  **Defense:** 12,  **Initiative:** -2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: understands Common and Giant but cannot speak
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3 |
+| **Hit Points** | 52, **Defense:** 12, **Initiative:** -2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands Common and Giant but cannot speak |
+| **Challenge** | 2 (450 XP) |
 
 ***Undead Nature.*** The zombie doesn' \*\*t need air, food, drink, or sleep.
 
@@ -6916,15 +7226,17 @@ Ogre Zombie
 **Treasure Category**: None
 
 Oni
-- **Size/Type**: Large giant, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2
-- **Hit Points**: 145,  **Defense:** 21,  **Initiative:** +2
-- **Movement**: 9 m, flight 9 m
-- **Saving Throws**: Fortitude +10, Reflex +7, Will +8
-- **Skills**: Arcana +5, Deception +8
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Giant
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large giant, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2 |
+| **Hit Points** | 145, **Defense:** 21, **Initiative:** +2 |
+| **Movement** | 9 m, flight 9 m |
+| **S. Throws** | Fortitude +10, Reflex +7, Will +8 |
+| **Skills** | Arcana +5, Deception +8 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Giant |
+| **Challenge** | 7 (2900 XP) |
 
 ***Magic Weapons.*** The oni' \*\*s weapon attacks are magical.
 
@@ -6953,15 +7265,17 @@ At will: *Invisibility, Darkness*
 ***Enraged:*** the Oni is overtaken by murderous fury; until the end of combat, its Claw attacks cause Bleeding 2/10.
 
 Orckin
-- **Size/Type**: Medium humanoid (orc), chaotic
-- **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Intimidate +1
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (orc), chaotic |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Intimidate +1 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1/2 (100 XP) |
 
 **Actions*Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -6984,15 +7298,17 @@ The experiment was a moderate success with orcs founding kingdoms and conquering
 An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characteristic is the face and the pig-like nose in particular. Orcs and humans can produce offspring.
 
 Orc
-- **Size/Type**: Medium humanoid (orc), evil
-- **Ability**: Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Intimidate +2
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1 (100 XP)
+
+| **Size/Type** | Medium humanoid (orc), evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Intimidate +2 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1 (100 XP) |
 
 ***Aggressive.*** As an Immediate Action, the orc can move up to half its movement toward a hostile creature that it can see.
 
@@ -7021,19 +7337,21 @@ An adult male orc is 2 meters tall and weighs about 115 kg. Orcs and humans can 
 While the common saying is that orcs were created by Cattalm to destroy and bring chaos, it is also true that they are often victims of prejudice and summary judgments. Not all orcs are alike, and not just physically; individual orcs, if not entire tribes, live their existence in a normal, civilized manner, yet in no state in the world are there penalties for killing an orc.
 
 Orcus
-- **Size/Type**: Huge demon prince, evil
-- **Ability**: Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7
-- **Hit Points**: 519,  **Defense:** 48,  **Initiative:** +5
-- **Movement**: 15 meters, fly 15 meters
-- **Saving Throws**: Fortitude +33, Reflex +28, Will +31
-- **Skills**: all +13
-- **Damage Res.**: Cold, Electricity, Fire
-- **Damage Imm.**: Void, Poison; weapons +2
-- **Immunities**: charmed, paralyzed, fatigued, frightened
-- **Vulnerabilities**: Light
-- **Senses**: Truesight 40 m
-- **Languages**: all, telepathy 45 m
-- **Challenge**: 26 (90000 XP)
+
+| **Size/Type** | Huge demon prince, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7 |
+| **Hit Points** | 519, **Defense:** 48, **Initiative:** +5 |
+| **Movement** | 15 meters, fly 15 meters |
+| **S. Throws** | Fortitude +33, Reflex +28, Will +31 |
+| **Skills** | all +13 |
+| **Damage Res.** | Cold, Electricity, Fire |
+| **Dam. Imm.** | Void, Poison; weapons +2 |
+| **Immunities** | charmed, paralyzed, fatigued, frightened |
+| **Vulnerabilities** | Light |
+| **Senses** | Truesight 40 m |
+| **Languages** | all, telepathy 45 m |
+| **Challenge** | 26 (90000 XP) |
 
 ***Spells.*** Orcus has MC 17, DC 30. His spellcasting ability is Charisma. Orcus knows the following spells:
 
@@ -7080,16 +7398,18 @@ Organization: Unique
 Orcus is the Demon Prince of the undead. He prefers the company and service of the undead. He wishes to see all life disappear and transform into a gigantic necropolis of undead under his command. Orcus has the head and legs of a goat, horns similar to a ram' \*\*s, a bloated body, bat wings, and a long tail.
 
 Otyugh
-- **Size/Type**: Large aberration, neutral
-- **Ability**: Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2
-- **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +3
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +5, Will +6
-- **Damage Imm.**: Poison
-- **Immunities**: diseases
-- **Senses**: Darkvision 36 m
-- **Languages**: Otyugh, Elvish, Dwarven
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large aberration, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2 |
+| **Hit Points** | 109, **Defense:** 18, **Initiative:** +3 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +5, Will +6 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | diseases |
+| **Senses** | Darkvision 36m |
+| **Languages** | Otyugh, Elvish, Dwarven |
+| **Challenge** | 5 (1800 XP) |
 
 ***Limited Telepathy.*** The otyugh can magically transmit simple messages and images to any creature within 36 meters of it that can understand a language. This form of telepathy doesn' \*\*t allow the receiving creature to telepathically respond.
 
@@ -7126,13 +7446,15 @@ The thing that most races find terrifying about otyughs is not their diet or the
 An otyugh, by eating the excrement or part of a creature, can understand what disease or poison afflicts it.
 
 Owlbear
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +4
-- **Senses**: Darkvision 18 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Keen Smell and Sight.*** The Owlbear has +1d6 on Awareness checks based on smell or sight.
 
@@ -7172,14 +7494,16 @@ Although it is almost impossible to tame them due to their wild nature, Owlbears
 This Owlbear is present in arctic regions or snowy mountains. Unlike the normal Owlbear, it is more robust and strong. It has 85 Hit Points, +10 to hit, 21 claw damage +1 Bleeding, 15 beak damage. CR 4
 
 Panoptikhan
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2
-- **Hit Points**: 235,  **Defense:** 29,  **Initiative:** +3
-- **Movement**: 1 m, flight 10 meters, hover
-- **Saving Throws**: Fortitude +14, Reflex +13, Will +14
-- **Senses**: Darkvision 36 m, truesight 18m
-- **Languages**: telepathy 50 m
-- **Challenge**: 12 (8400 XP)
+
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2 |
+| **Hit Points** | 235, **Defense:** 29, **Initiative:** +3 |
+| **Movement** | 1 m, flight 10 meters, hover |
+| **S. Throws** | Fortitude +14, Reflex +13, Will +14 |
+| **Senses** | Darkvision 36 m, truesight 18m |
+| **Languages** | telepathy 50 m |
+| **Challenge** | 12 (8400 XP) |
 
 ***Magic Resistance.*** The panoptikhan has +1d6 on Saving Throws against spells and other magical effects.
 
@@ -7228,14 +7552,16 @@ Unfortunately, arrogance, pride, and the desire to be the center of attention ha
 Panoptikhans have a very long life, on the order of a thousand years, but there are also creatures that have more than doubled this limit. Panoptikhans increase in size with age, as does the number of eyes. The statistics reported here refer to an adult specimen about 300 years old.
 
 Pegasus
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 18 m, flight 27 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
-- **Skills**: Awareness +6
-- **Languages**: understands Celestial, Common, Elvish, and Sylvan but cannot speak
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 18 m, flight 27 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +4 |
+| **Skills** | Awareness +6 |
+| **Languages** | understands Celestial, Common, Elvish, and Sylvan but cannot speak |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -7265,16 +7591,18 @@ In some pegasi, the blood of an ancestor who was a heroic stallion is still stro
 Pegasi and Unicorns were saved from Calicante' \*\*s fury towards *horses* only by Ljust' \*\*s express intercession.
 
 Phoenix
-- **Size/Type**: Gargantuan celestial, Brave, Protective, Good
-- **Ability**: Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6
-- **Hit Points**: 300,  **Defense:** 38,  **Initiative:** +6
-- **Movement**: 9 m, fly 27 m (good)
-- **Saving Throws**: Fortitude +20, Reflex +21, Will +21
-- **Damage Imm.**: Fire, Light, Poison, +1 weapons
-- **Immunities**: grappled, restrained, paralyzed, petrified, prone, unconscious, fatigued, bleeding
-- **Senses**: Darkvision 18 m, Twilight Vision 18 m
-- **Languages**: Ictun, Celestial, Common, Ignan
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Gargantuan celestial, Brave, Protective, Good |
+| --- | --- |
+| **Ability** | Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6 |
+| **Hit Points** | 300, **Defense:** 38, **Initiative:** +6 |
+| **Movement** | 9 m, fly 27 m (good) |
+| **S. Throws** | Fortitude +20, Reflex +21, Will +21 |
+| **Dam. Imm.** | Fire, Light, Poison, +1 weapons |
+| **Immunities** | grappled, restrained, paralyzed, petrified, prone, unconscious, fatigued, bleeding |
+| **Senses** | Darkvision 18 m, Twilight Vision 18 m |
+| **Languages** | Ictun, Celestial, Common, Ignan |
+| **Challenge** | 15 (13000 XP) |
 
 ***Light Awareness.*** The Phoenix always has the following spells active *Detect Magic, Detect Disease and Poison, See Invisibility*
 
@@ -7322,17 +7650,19 @@ Legend has it that Phoenixes are the companion birds of Ljust; they are certainl
 Legend says that phoenixes are generated when a Knight of Sumkjir or a Disciple of Light makes the ultimate sacrifice.
 
 Pit Fiend
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7
-- **Hit Points**: 403,  **Defense:** 40,  **Initiative:** +6
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +27, Reflex +22, Will +24
-- **Damage Res.**: Cold;
-- **Damage Imm.**: Fire, Poison, weapons +2
-- **Vulnerabilities**: Light
-- **Senses**: truesight 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 20 (25000 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7 |
+| **Hit Points** | 403, **Defense:** 40, **Initiative:** +6 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +27, Reflex +22, Will +24 |
+| **Damage Res.** | Cold; |
+| **Dam. Imm.** | Fire, Poison, weapons +2 |
+| **Vulnerabilities** | Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 20 (25000 XP) |
 
 ***Magic Weapon.*** The pit fiend' \*\*s weapon attacks are magical.
 
@@ -7379,17 +7709,19 @@ Pit fiends are powerful infernal rulers, generals of Hell' \*\*s armies, and adv
 Pit fiends gather armies, transforming lemures into true devils and aim to conquer vulnerable demiplanes and mortal worlds. They obey the infernal hierarchy but can depose unworthy masters. Only the most powerful spellcasters dare to summon them, risking eternal damnation.
 
 Planetar Angel
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7
-- **Hit Points**: 325,  **Defense:** 38,  **Initiative:** +5
-- **Movement**: 12 m, fly 36 m
-- **Saving Throws**: Fortitude +23, Reflex +21, Will +22
-- **Skills**: Awareness +13
-- **Damage Res.**: Light;
-- **Immunities**: charmed, exhausted, frightened, +1 weapons
-- **Senses**: truesight 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7 |
+| **Hit Points** | 325, **Defense:** 38, **Initiative:** +5 |
+| **Movement** | 12 m, fly 36 m |
+| **S. Throws** | Fortitude +23, Reflex +21, Will +22 |
+| **Skills** | Awareness +13 |
+| **Damage Res.** | Light; |
+| **Immunities** | charmed, exhausted, frightened, +1 weapons |
+| **Senses** | truesight 36 m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 16 (15000 XP) |
 
 ***Angelic Weapons.*** The planetar' \*\*s weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 5d8 Light damage (already indicated in the attack).
 
@@ -7430,13 +7762,15 @@ Organization: Solitary or pair
 Planetars are the generals of celestial armies dedicated to destroying evil. A planetar is typically 2.7 meters tall and weighs about 250 kg. They are excellent diplomats, but against fiends they prefer war rather than negotiating peace.
 
 Plesiosaur
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 6 m, swim 12 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Stealth +4, Perception +3
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 6 m, swim 12 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Perception +3 |
+| **Challenge** | 2 (450 XP) |
 
 ***Hold Breath.*** The plesiosaur can hold its breath for 1 hour.
 
@@ -7455,15 +7789,17 @@ Organization: Solitary, pair or pack (3-6)
 The plesiosaur is a long-necked aquatic reptile. Although technically not a dinosaur, this creature and its kind are often found hunting in lakes and oceans where dinosaurs are commonly found.
 
 Pseudodragon
-- **Size/Type**: Tiny dragon, good
-- **Ability**: Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 5 meters, flight 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +3
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: understands Common and Draconic but doesn' \*\*t speak
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Tiny dragon, good |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 5 meters, flight 18 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +3 |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | understands Common and Draconic but doesn' \*\*t speak |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Magic Resistance.*** The pseudodragon has +1d6 on Saving Throws against spells and other magical effects.
 
@@ -7494,13 +7830,15 @@ Pseudodragons are carnivores and eat insects, rodents, small birds, and snakes, 
 Upon reaching adulthood, a pseudodragon' \*\*s body is 30 centimeters long with a 60-centimeter tail, and weighs about 3.5 kg. A pseudodragon' \*\*s eggs are as large as chicken eggs, but of leather-like consistency and mottled brown, and females lay them in groups of 2-5 each spring. A nest of pseudodragons (which constitute a family group, and are not born from the same clutch of eggs) usually consists of a pair of adults and several nearly adult young.
 
 Purple Worm
-- **Size/Type**: Gargantuan monstrosity, unaligned
-- **Ability**: Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3
-- **Hit Points**: 303,  **Defense:** 30,  **Initiative:** -2
-- **Movement**: 15 m, burrow 9 m
-- **Saving Throws**: Fortitude +21, Reflex +13, Will +14
-- **Senses**: Blindsight 9 m, tremorsense 18 m
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Gargantuan monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3 |
+| **Hit Points** | 303, **Defense:** 30, **Initiative:** -2 |
+| **Movement** | 15 m, burrow 9 m |
+| **S. Throws** | Fortitude +21, Reflex +13, Will +14 |
+| **Senses** | Blindsight 9 m, tremorsense 18 m |
+| **Challenge** | 15 (13000 XP) |
 
 ***Tunnel Digger.*** The worm can burrow through solid rock at half the burrowing speed and leaves a 3-meter-diameter tunnel in its wake.
 
@@ -7535,18 +7873,20 @@ While searching for living creatures to devour, purple worms also swallow an eno
 A purple worm generally claims a large underground cavern as its lair, and although it returns there to rest and digest food, it spends most of its time seeking prey, digging through the endless darkness or sliding along pre-existing tunnels in constant search of food to satiate its immense hunger. Although almost devoid of intellect, purple worms are rarely stupid. They are widespread as guardians among those who can control them magically or have a room in their lair large enough to accommodate them.
 
 Quasit
-- **Size/Type**: Tiny demon, shapechanger, evil
-- **Ability**: Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Movement**: 12 m (3 m, flight 12 m in bat form; 12 m, climb 12 m in centipede form; 12 m, swim 12 m in toad form)
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +5
-- **Damage Res.**: Cold, Electricity, Fire; from non-magical weapons
-- **Damage Imm.**: Poison
-- **Vulnerabilities**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Tiny demon, shapechanger, evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Movement** | 12 m (3 m, flight 12 m in bat form; 12 m, climb 12 m in centipede form; 12 m, swim 12 m in toad form) |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +5 |
+| **Damage Res.** | Cold, Electricity, Fire; from non-magical weapons |
+| **Dam. Imm.** | Poison |
+| **Vulnerabilities** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 1 (200 XP) |
 
 ***Shapechanger.*** The demon can use an Action to transform into a bestial form of bat, centipede, or toad, or to return to its true form. Its statistics are the same in all forms, although attacks may vary for some of them. Any equipment it is wearing or carrying is not transformed. It returns to its true form upon death.
 
@@ -7575,16 +7915,18 @@ Unique among the demonic hordes, quasits are not born from the souls of deceased
 Newly created quasits come to life directly in the Material Plane, where they become familiars and, as long as they are subject to the will of their master, they hate and despise them, since they can perceive the pulsing of their soul and know they could aspire to something more. A quasit serves, yet observes and watches for mistakes that could cost its master' \*\*s life, or better, that allow it to turn against its own master. Upon the death of its master, the quasit often decides to remain in the Material Plane in search of other ways to amuse itself, usually settling in an urban area where there are many individuals to torment.
 
 Rakshasa
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5
-- **Hit Points**: 259,  **Defense:** 32,  **Initiative:** +3
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +17, Reflex +16, Will +16
-- **Skills**: Deception +10, Sense Emotions +8
-- **Damage Imm.**: bludgeoning, +1 weapons
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Infernal
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5 |
+| **Hit Points** | 259, **Defense:** 32, **Initiative:** +3 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +17, Reflex +16, Will +16 |
+| **Skills** | Deception +10, Sense Emotions +8 |
+| **Dam. Imm.** | bludgeoning, +1 weapons |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Infernal |
+| **Challenge** | 13 (10000 XP) |
 
 ***Limited Magic Immunity.*** The rakshasa is immune to effects or detection by spells of level 6 or lower unless it wishes to be subject to them. It has +1d6 on Saving Throws against all other spells and magical effects.
 
@@ -7620,16 +7962,18 @@ Rakshasas despise religions; they recognize the power of the gods, but see thems
 A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
 Red Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 9 m, climb 9 m, fly 18 m
-- **Saving Throws**: Fortitude +7, Reflex +4, Will +4
-- **Skills**: Stealth +2, Awareness +4
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 89, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 9 m, climb 9 m, fly 18 m |
+| **S. Throws** | Fortitude +7, Reflex +4, Will +4 |
+| **Skills** | Stealth +2, Awareness +4 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 4 (1100 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
@@ -7647,13 +7991,15 @@ Organization: Solitary
 See Ancient Red Dragon Description.
 
 Remorhaz
-- **Size/Type**: Huge monstrosity, unaligned
-- **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
-- **Hit Points**: 224,  **Defense:** 27,  **Initiative:** +1
-- **Movement**: 30 ft, burrow 20 ft
-- **Saving Throws**: Fortitude +16, Reflex +12, Will +11
-- **Senses**: Darkvision 60 ft, tremorsense 60 ft
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Huge monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3 |
+| **Hit Points** | 224, **Defense:** 27, **Initiative:** +1 |
+| **Movement** | 30 ft, burrow 20 ft |
+| **S. Throws** | Fortitude +16, Reflex +12, Will +11 |
+| **Senses** | Darkvision 60 ft, tremorsense 60 ft |
+| **Challenge** | 11 (7200 XP) |
 
 ***Heated Body.*** A creature that comes into contact with the remorhaz or hits it with a melee attack while within 3 feet of it takes 10 (3d6) fire damage.
 
@@ -7682,15 +8028,17 @@ In a world of ice and snow, remohrazes are particularly feared for the terrible 
 Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 feet in length and weighs 11,000 pounds.
 
 Rug of Smothering
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 3 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: blinded, charmed, deafened, paralyzed, petrified, frightened
-- **Senses**: Blindsight 18 m (blind beyond this radius)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 3 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | blinded, charmed, deafened, paralyzed, petrified, frightened |
+| **Senses** | Blindsight 18 m (blind beyond this radius) |
+| **Challenge** | 2 (450 XP) |
 
 ***False Appearance.*** While the rug remains motionless, it is indistinguishable from a normal rug.
 
@@ -7703,15 +8051,17 @@ Rug of Smothering
 *Hit:* The creature is grappled (DC 14 to escape). Until the grapple ends, the target is blinded and at risk of suffocating, but the rug can' \*\*t smother another target. Also, at the start of each of the target' \*\*s turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
 Rust Monster
-- **Size/Type**: Medium Monstrosity, unaligned
-- **Ability**: Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 1/2 (100 XP)
 
-***Iron Scent.*** The rust monster can pinpoint, by scent, the exact location of ferrous metals within 120 feet.
+| **Size/Type** | Medium Monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 1/2 (100 XP) |
+
+***Iron Scent.*** The rust monster can pinpoint, by scent, the exact location of ferrous metals within 36 m.
 
 ***Rust Metal.*** Any nonmagical weapon made of metal that hits the rust monster corrodes after dealing damage. Nonmagical ammunition made of metal that hits the rust monster is considered destroyed after inflicting damage.
 
@@ -7741,21 +8091,23 @@ Although not inherently violent, their insatiable hunger drives them to charge a
 Fortunately, it' \*\*s often possible to escape the attention of a rust monster by throwing it a dense metal object, such as a shield, and running in the opposite direction. Those who frequent areas infested by rust monsters quickly learn to carry wooden or stone weapons.
 
 Sahuagin
-- **Size/Type**: Medium humanoid (sahuagin), evil
-- **Ability**: Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +1
-- **Movement**: 30 ft, swim 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Perception +5
-- **Senses**: Darkvision 120 ft
-- **Languages**: Sahuagin
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (sahuagin), evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +1 |
+| **Movement** | 30 ft, swim 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Perception +5 |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Sahuagin |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Limited Amphibiousness.*** The sahuagin can breathe air and water, but must be submerged at least once every 4 hours to avoid suffocating.
 
 ***Blood Frenzy.*** The sahuagin has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
 
-***Shark Telepathy***. The sahuagin can magically command any shark within 120 feet of itself, using a limited form of telepathy.
+***Shark Telepathy***. The sahuagin can magically command any shark within 36 m of itself, using a limited form of telepathy.
 
 **Actions*Multiattack.*** The sahuagin can make two melee attacks: one with its bite and one with its claws or spear.
 
@@ -7787,15 +8139,17 @@ Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous ocean
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don' \*\*t appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
 Salamander
-- **Size/Type**: Large elemental, evil
-- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
-- **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +7, Reflex +7, Will +5
-- **Dmg. Res.**: from non-magical weapons
-- **Senses**: Darkvision 60 ft
-- **Languages**: Ignan
-- **Challenge**: 5 (1800 XP)
+
+**Size/Type** | Large elemental, evil
+--- | ---
+**Ability** | Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
+**Hit Points** | 107, **Defense:** 20, **Initiative:** +2
+**Movement** | 30 ft
+**S. Throws** | Fortitude +7, Reflex +7, Will +5
+**Dmg. Res.** | from non-magical weapons
+**Senses** | Darkvision 60 ft
+**Languages** | Ignan
+**Challenge** | 5 (1800 XP)
 
 ***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (already included in the attack).
 
@@ -7813,7 +8167,7 @@ Salamander
 
 **Reaction: *Opportunity Attack***: the salamander makes an attack against a creature that moves through or out of its 3-foot reach.
 
-***Enraged:*** the Salamander concentrates its flames in a ranged attack. A creature within 30 feet must make a Reflex Saving Throw DC 18 to halve the damage. The creature is hit by a globe of flames that causes 4d6 fire damage. Costs 2 Actions.
+***Enraged:*** the Salamander concentrates its flames in a ranged attack. A creature within 9 m must make a Reflex Saving Throw DC 18 to halve the damage. The creature is hit by a globe of flames that causes 4d6 fire damage. Costs 2 Actions.
 
 **Ecology**
 
@@ -7833,14 +8187,16 @@ Salamanders are often summoned to the Material Plane to serve as guardians or, m
 Living in such extreme areas, Salamanders possess only treasures that withstand high temperatures, such as Swords, Armor, jewelry, Rods, and other objects that have a high melting point. Salamander society is cruel and based on power and the ability to subjugate those inferior to them. Beings inferior to Salamanders who cause problems face a slow and painful death.
 
 Satyr
-- **Size/Type**: Medium fey, chaotic
-- **Ability**: Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2
-- **Hit Points**: 24,  **Defense:** 15,  **Initiative:** +3
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +5, Perform +6, Perception +2
-- **Languages**: Common, Elvish, Sylvan
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium fey, chaotic |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 24, **Defense:** 15, **Initiative:** +3 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +5, Perform +6, Perception +2 |
+| **Languages** | Common, Elvish, Sylvan |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Magic Resistance.*** The satyr has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -7873,15 +8229,17 @@ Besides constantly flirting, satyrs often serve as guardians of their forests, a
 Children born from these encounters are always full-blooded satyrs and are generally taken away by their unrestrained fathers immediately after birth.
 
 Scourger
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 3 m, climb 3 m
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +8
-- **Proficiencies**: Stealth +5, Perception +6
-- **Senses**: Darkvision 18 m
-- **Languages**: common, ancient languages (Latin, Greek, Celtic...)
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 3 m, climb 3 m |
+| **S. Throws** | Fortitude +8, Reflex +4, Will +8 |
+| **Proficiencies** | Stealth +5, Perception +6 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | common, ancient languages (Latin, Greek, Celtic...) |
+| **Challenge** | 5 (1800 XP) |
 
 ***False Appearance.*** When the scourger remains motionless, it is indistinguishable from a normal rock formation, such as a stalagmite.
 
@@ -7922,14 +8280,16 @@ Despite its alien and monstrous form, the scourger is one of the most intelligen
 A scourger is 2.7 meters tall and weighs 1,100 kg.
 
 Sea Hag
-- **Size/Type**: Medium fey, evil
-- **Ability**: Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1
-- **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 9 m, swim 12 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Common, Giant
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium fey, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1 |
+| **Hit Points** | 52, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 9 m, swim 12 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Common, Giant |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -7962,17 +8322,19 @@ Sea hags prefer to live near the shoreline where fishing boats and merchant ship
 Sea hags form covens similar to those of other hags, but their aquatic nature generally leads them to refrain from forming mixed covens. In cases where a Green Hag lives along the coast (often in a brackish swamp or coastal marsh), a coven is formed by two sea hags who respect the Green Hag as mother and leader. Very commonly, a coven of sea hags consists of a group of particularly friendly and close sea hags.
 
 Shadow
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4 (+6 in dim light or darkness)
-- **Damage Res.**: Acid, Cold, Electricity, Fire, Sound; non-magical weapons
-- **Damage Imm.**: Void, Poison
-- **Immunities**: grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding
-- **Senses**: Darkvision 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4 (+6 in dim light or darkness) |
+| **Damage Res.** | Acid, Cold, Electricity, Fire, Sound; non-magical weapons |
+| **Dam. Imm.** | Void, Poison |
+| **Immunities** | grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Amorphous.*** The shadow can move through a space as narrow as 3 centimeters without squeezing.
 
@@ -8003,17 +8365,19 @@ Organization: Solitary, pair, group (3-6) or swarm (7-12)
 The evil shadow moves along the border between the darkness of the shadows and the harsh truth of light. The shadow prefers to haunt the ruins that civilization leaves behind, where it hunts living creatures foolish enough to stumble into its territory. The shadow is a horrible undead, and as such has no apparent purposes or motivations beyond sucking life force and vitality from living beings.
 
 Shambling Mound
-- **Size/Type**: Large plant, unaligned
-- **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 6 m, swim 6 m
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
-- **Skills**: Stealth +2
-- **Damage Resistance**: Cold, Fire
-- **Damage Immunity**: Lightning
-- **Immunities**: blinded, deafened, fatigued
-- **Senses**: Blindsight 18 m (blind beyond this radius)
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large plant, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 6 m, swim 6 m |
+| **S. Throws** | Fortitude +8, Reflex +4, Will +5 |
+| **Skills** | Stealth +2 |
+| **Damage Resistance** | Cold, Fire |
+| **Damage Immunity** | Lightning |
+| **Immunities** | blinded, deafened, fatigued |
+| **Senses** | Blindsight 18 m (blind beyond this radius) |
+| **Challenge** | 5 (1800 XP) |
 
 ***Lightning Absorption.*** Whenever the shambling mound takes lightning damage, it takes no damage and regains a number of Hit Points equal to the lightning damage dealt.
 
@@ -8044,16 +8408,18 @@ Shambling mounds are incredibly stealthy in their natural environment. They blen
 Shambling mounds usually lead a nomadic and solitary existence in deep forests and fetid swamps but can also be found underground, amid groves of fungi. Disturbing rumors speak of groups of shambling mounds gathering around large mounds in the depths of jungles and swamps, often during violent lightning storms. The reason for this behavior is unknown, and many sages wonder if there isn' \*\*t some dark and alien purpose behind it.
 
 Shield Guardian
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4
-- **Hit Points**: 146,  **Defense:** 20,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +11, Reflex +6, Will +7
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, paralyzed, fatigued, frightened
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: understands commands given in any language but cannot speak
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4 |
+| **Hit Points** | 146, **Defense:** 20, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +11, Reflex +6, Will +7 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, paralyzed, fatigued, frightened |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | understands commands given in any language but cannot speak |
+| **Challenge** | 7 (2900 XP) |
 
 ***Spell Storing.*** A spellcaster who wears the shield guardian' \*\*s amulet can cause the guardian to store a spell of 4th level or lower. To do so, the spellcaster must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer of the amulet or when a predefined situation arises set by the spellcaster, the guardian casts the stored spell with all parameters set by the original caster, requiring no components. When the spell is cast or any new spell is stored, any previously stored spell is lost.
 
@@ -8072,14 +8438,16 @@ Shield Guardian
 **Reaction: *Shield.*** When a creature attacks the wearer of the guardian' \*\*s amulet, the guardian grants a +2 bonus to its Defense, if within 1 meter of its controller.
 
 Shrieking Fungus
-- **Size/Type**: Medium plant, unaligned
-- **Ability**: Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5
-- **Hit Points**: 15,  **Defense:** 7,  **Initiative:** -5
-- **Movement**: 0 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Immunities**: blinded, deafened, frightened
-- **Senses**: Blindsight 9 m (blind beyond this range)
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium plant, unaligned |
+| --- | --- |
+| **Ability** | Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 15, **Defense:** 7, **Initiative:** -5 |
+| **Movement** | 0 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Immunities** | blinded, deafened, frightened |
+| **Senses** | Blindsight 9 m (blind beyond this range) |
+| **Challenge** | 0 (10 XP) |
 
 ***False Appearance.*** While the shrieking fungus remains motionless, it is indistinguishable from a normal fungus.
 
@@ -8098,18 +8466,20 @@ A shrieking fungus is about 50 cm tall, with a broad brown cap. Once it has emit
 It is said that cooks of the depths specialize in cooking these mushrooms into exquisite dishes. The most skilled ones can even manage not to deflate the cap.
 
 Silku
-- **Size/Type**: Medium demon, evil
-- **Ability**: Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Stealth +2, Deception +5
-- **Damage Res.**: Cold, Electricity; from non-magical or non-silvered weapons
-- **Damage Imm.**: Poison
-- **Vulnerabilities**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, Common
-- **Challenge**: 2 (200 XP)
+
+| **Size/Type** | Medium demon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Stealth +2, Deception +5 |
+| **Damage Res.** | Cold, Electricity; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Poison |
+| **Vulnerabilities** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 2 (200 XP) |
 
 ***Magic Resistance.*** The demon has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -8135,16 +8505,18 @@ I widened my eyes and stepped back, as terror took hold of me. Their faces weren
 From *The Guardian of Falkonia*, novel by Federica Angeli
 
 Silver Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 9 m, fly 18 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Skills**: Stealth +2, Awareness +4
-- **Dmg. Imm.**: Cold
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 9 m, fly 18 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Awareness +4 |
+| **Dmg. Imm.** | Cold |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -8167,17 +8539,19 @@ Organization: Solitary
 Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
 
 Skeleton
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Dmg. Res.**: piercing, slashing
-- **Dmg. Imm.**: Poison
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 60 ft
-- **Languages**: understands all languages it knew in life but cannot speak
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dmg. Res.** | piercing, slashing |
+| **Dmg. Imm.** | Poison |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | understands all languages it knew in life but cannot speak |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
@@ -8198,17 +8572,19 @@ Organization: Any
 Skeletons are animated bones of the dead, brought to unlife by sacrilegious magic. For the most part, skeletons are mindless automatons.
 
 Solar Angel
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10
-- **Hit Points**: 426,  **Defense:** 46,  **Initiative:** +7
-- **Movement**: 15 m, fly 45 m
-- **Saving Throws**: Fortitude +29, Reflex +27, Will +28
-- **Skills**: Awareness +16
-- **Damage Res.**: Light; Fire, Cold, Electricity
-- **Immunities**: charmed, poisoned, exhausted, frightened, +2 weapons
-- **Senses**: truesight 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10 |
+| **Hit Points** | 426, **Defense:** 46, **Initiative:** +7 |
+| **Movement** | 15 m, fly 45 m |
+| **S. Throws** | Fortitude +29, Reflex +27, Will +28 |
+| **Skills** | Awareness +16 |
+| **Damage Res.** | Light; Fire, Cold, Electricity |
+| **Immunities** | charmed, poisoned, exhausted, frightened, +2 weapons |
+| **Senses** | truesight 36 m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 21 (33000 XP) |
 
 ***Angelic Weapons.*** The solar' \*\*s weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 6d8 Light damage (already included in the attack).
 
@@ -8265,17 +8641,19 @@ Solars who spend time on the Material Plane can influence human bloodlines, crea
 Respected by all angels, solars sometimes command armies against the legions of Hell and the hordes of the Abyss.
 
 Specter
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 0 ft, fly 50 ft, hover
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +8,Perception +3
-- **Dmg. Res.**: Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons
-- **Immunities**: charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained
-- **Senses**: Darkvision 60 ft
-- **Languages**: Expiran
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 0 ft, fly 50 ft, hover |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +8,Perception +3 |
+| **Dmg. Res.** | Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons |
+| **Immunities** | charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Expiran |
+| **Challenge** | 1 (200 XP) |
 
 **Incorporeal Movement**. The specter can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) damage if it ends its turn inside an object.
 
@@ -8298,17 +8676,19 @@ Specters are evil undead that hate sunlight and living beings. Their genesis is 
 A specter closely resembles how it was in life and can be easily recognized by those who knew the individual or had seen its face in paintings or drawings.
 
 Spined Devil
-- **Size/Type**: Small devil, evil
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 6 m, flight 12 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +4
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Small devil, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 6 m, flight 12 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +4 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -8345,16 +8725,18 @@ Spined Devils are collectors and organizers. If left to act freely, these devils
 Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lean, muscular bodies appear larger due to the constantly growing spikes that protrude from their bodies, sharp as blades.
 
 Spirit Naga
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
-- **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +10, Reflex +11, Will +10
-- **Damage Imm.**: Poison
-- **Condition Imm.**: charmed
-- **Senses**: Darkvision 60 ft
-- **Languages**: Abyssal, Common
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3 |
+| **Hit Points** | 162, **Defense:** 25, **Initiative:** +3 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +10, Reflex +11, Will +10 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | charmed |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 8 (3900 XP) |
 
 ***Spellcasting.*** The naga has MC 10. Its spellcasting ability is Intelligence (+6 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
@@ -8379,14 +8761,16 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 **Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
 
 Sprite
-- **Size/Type**: Tiny fey, good
-- **Ability**: Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Movement**: 10 ft, fly 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3
-- **Languages**: Common, Elvish, Sylvan
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Tiny fey, good |
+| --- | --- |
+| **Ability** | Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 16, **Initiative:** +4 |
+| **Movement** | 10 ft, fly 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3 |
+| **Languages** | Common, Elvish, Sylvan |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Longsword.** Melee Weapon Attack*: +3 to hit,
 
@@ -8414,15 +8798,17 @@ In many ways, sprites are more primitive than most fey. They appreciate the comp
 Although sprites themselves have an uncultivated and wild nature, they have a healthy curiosity for all things with innate magic. They are particularly attracted to places of great latent magical power, such as the ruins of ancient temples. This curiosity also makes them unusually suited to the role of familiars. A chaotic 5th-level spellcaster can obtain a sprite as a familiar if they have the Familiar Feat.
 
 Steam Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Ignan
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Ignan |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast *Blur*, requiring no material components. Its innate spellcasting ability is Charisma.
 
@@ -8449,13 +8835,15 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Steam mephits are commonly found on the Plane of Fire. These mephits are insolent and contemptuous.
 
 Stirge
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Movement**: 10 ft, fly 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Movement** | 10 ft, fly 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 1/8 (25 XP) |
 
 **Actions*Blood Drain.** Melee Weapon Attack*: +3 to hit, reach 3 ft, one creature.
 
@@ -8479,15 +8867,17 @@ More similar to mammals than insects, stirges take flight with their four fleshy
 Stirges are usually about 12 inches long, with a wingspan of about twice that, and weigh less than 1 pound. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
 
 Stone Giant
-- **Size/Type**: Huge giant, neutral
-- **Ability**: Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1
-- **Hit Points**: 148,  **Defense:** 23,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +12, Reflex +9, Will +8
-- **Skills**: Athletics +12
-- **Senses**: Darkvision 18 m
-- **Languages**: Giant
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Huge giant, neutral |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1 |
+| **Hit Points** | 148, **Defense:** 23, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +12, Reflex +9, Will +8 |
+| **Skills** | Athletics +12 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Giant |
+| **Challenge** | 7 (2900 XP) |
 
 ***Stone Camouflage.*** The giant has +1d6 on Stealth (Hiding) checks made to hide in rocky terrain.
 
@@ -8527,16 +8917,18 @@ Stone giants prefer to live in huge caves on rocky peaks. They rarely live more 
 Older stone giants tend to move away from the tribe for long periods, to live in solitude somewhere or attempting to fit into other humanoid civilizations. After decades of self-imposed exile, those who return are known as Stone Giants Elders.
 
 Stone Golem
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5
-- **Hit Points**: 205,  **Defense:** 24,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +15, Reflex +9, Will +10
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 36 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5 |
+| **Hit Points** | 205, **Defense:** 24, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +15, Reflex +9, Will +10 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 10 (5900 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 10/- against non-magical weapons.
 
@@ -8576,16 +8968,18 @@ There are numerous variants of Stone Golems, depending on the materials they are
 The body of a stone golem is carved from a single block of hard stone, such as granite, weighing at least 1,500 kg. The stone must be of exceptional quality, and cost 5000 gp.
 
 Storm Giant
-- **Size/Type**: Huge giant, good
-- **Ability**: Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4
-- **Hit Points**: 262,  **Defense:** 31,  **Initiative:** +3
-- **Movement**: 15 m, swim 15 m
-- **Saving Throws**: Fortitude +18, Reflex +15, Will +17
-- **Skills**: Arcana +8, Athletics +14, History +8
-- **Damage Res.**: Cold
-- **Damage Imm.**: Lightning, Thunder
-- **Languages**: Common, Giant
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Huge giant, good |
+| --- | --- |
+| **Ability** | Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4 |
+| **Hit Points** | 262, **Defense:** 31, **Initiative:** +3 |
+| **Movement** | 15 m, swim 15 m |
+| **S. Throws** | Fortitude +18, Reflex +15, Will +17 |
+| **Skills** | Arcana +8, Athletics +14, History +8 |
+| **Damage Res.** | Cold |
+| **Dam. Imm.** | Lightning, Thunder |
+| **Languages** | Common, Giant |
+| **Challenge** | 13 (10000 XP) |
 
 ***Amphibious.*** The giant can breathe air and water.
 
@@ -8630,17 +9024,19 @@ As their name suggests, they are prone to violent mood swings. Storm giants are 
 Storm giants live in beautiful towers, castles, or in walled settlements and love to cultivate the land. They own huge well-tended gardens and manage hundreds of acres of crops per group. They often employ other humanoids, such as Elves or Humans, as support to run their immense farms. A storm giant enclave often takes responsibility for the security of an entire island or coastline.
 
 Succubus
-- **Size/Type**: Medium demon, evil
-- **Ability**: Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5
-- **Hit Points**: 87,  **Defense:** 20,  **Initiative:** +3
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +5, Reflex +7, Will +5
-- **Skills**: Stealth +5, Detect Emotions +5, Awareness +5, Deception +9
-- **Damage Res.**: Cold, Electricity, Fire, Poison; from non-magical weapons
-- **Senses**: Darkvision 18 m
-- **Vulnerabilities**: cold iron, Light
-- **Languages**: Abyssal, Common, Infernal, telepathy 18 m
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium demon, evil |
+| --- | --- |
+| **Ability** | Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5 |
+| **Hit Points** | 87, **Defense:** 20, **Initiative:** +3 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +5, Reflex +7, Will +5 |
+| **Skills** | Stealth +5, Detect Emotions +5, Awareness +5, Deception +9 |
+| **Damage Res.** | Cold, Electricity, Fire, Poison; from non-magical weapons |
+| **Senses** | Darkvision 18 m |
+| **Vulnerabilities** | cold iron, Light |
+| **Languages** | Abyssal, Common, Infernal, telepathy 18 m |
+| **Challenge** | 4 (1100 XP) |
 
 ***Telepathic Bond.*** The fiend ignores range restrictions of its telepathy when communicating with a creature it has charmed. The two don' \*\*t even need to be on the same plane of existence.
 
@@ -8669,15 +9065,17 @@ Organization: Solitary, pair, or harem (3-12)
 Among the demonic hordes, a succubus can often reach very high levels of power, using her manipulations and sensual charm, and many demonic wars rage because of the subtle machinations of these creatures. A succubus originates from the souls of particularly libidinous and greedy evil mortals.
 
 Tarrasque
-- **Size/Type**: Colossal monstrosity, unaligned
-- **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
-- **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +0
-- **Movement**: 80 ft
-- **Saving Throws**: Fortitude +40, Reflex +30, Will +30
-- **Dmg. Imm.**: Fire, Poison, Electricity; +2 weapons
-- **Immunities**: charmed, paralyzed, frightened, fatigued
-- **Senses**: Blindsight 120 ft
-- **Challenge**: 30 (155000 XP)
+
+| **Size/Type** | Colossal monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 615, **Defense:** 52, **Initiative:** +0 |
+| **Movement** | 80 ft |
+| **S. Throws** | Fortitude +40, Reflex +30, Will +30 |
+| **Dmg. Imm.** | Fire, Poison, Electricity; +2 weapons |
+| **Immunities** | charmed, paralyzed, frightened, fatigued |
+| **Senses** | Blindsight 120 ft |
+| **Challenge** | 30 (155000 XP) |
 
 ***Reflective Carapace.*** Each time the Tarrasque is targeted by a *Arcane dart or Lightning Bolt* spell, it is ignored and reflected at the origin. For other line spells, or spells that require a ranged attack roll, roll a d6. On a 1-5, the Tarrasque ignores it. On a 6, the Tarrasque ignores it, and the effect is reflected at the caster as if it originated from the Tarrasque, turning the caster into the target.
 
@@ -8738,13 +9136,15 @@ Though not particularly intelligent, the Tarrasque is smart enough to understand
 Legend says that the Tarrasque is Cattalm' \*\*s pet.
 
 Tentacled Crawler Worm
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3
-- **Hit Points**: 89,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 9 m, climb 9 m
-- **Saving Throws**: Fortitude +7, Reflex +5, Will +5
-- **Senses**: Darkvision 18 m
-- **Challenge**: 4 (1000 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 89, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 9 m, climb 9 m |
+| **S. Throws** | Fortitude +7, Reflex +5, Will +5 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 4 (1000 XP) |
 
 ***Spider Climb.*** The Tentacled Crawler Worm can climb difficult surfaces, including upside down on ceilings, without needing to make a skill check.
 
@@ -8775,14 +9175,16 @@ They are voracious creatures that don' \*\*t miss an opportunity to hunt and dev
 The origins of the Tentacled Crawler Worms are rather speculative; some hypothesize that a spellcaster tried, as usual, critically failing, to transform into a Purple Worm; others firmly believe that Shayalia' \*\*s gardens needed more fertilization, and so the Patron transformed ordinary earthworms into these terrifying creatures to devour and digest buried corpses.
 
 Tree Man (Arborom)
-- **Size/Type**: Huge plant, good
-- **Ability**: Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1
-- **Hit Points**: 186,  **Defense:** 23,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +14, Reflex +8, Will +12
-- **Damage Res.**: bludgeoning, piercing
-- **Languages**: Common, Druidic, Elvish, Sylvan
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge plant, good |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1 |
+| **Hit Points** | 186, **Defense:** 23, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +14, Reflex +8, Will +12 |
+| **Damage Res.** | bludgeoning, piercing |
+| **Languages** | Common, Druidic, Elvish, Sylvan |
+| **Challenge** | 9 (5000 XP) |
 
 ***False Appearance.*** While the tree man remains motionless, it is indistinguishable from a normal tree.
 
@@ -8821,12 +9223,14 @@ A typical Arborom is 9 meters tall, with a trunk 60 centimeters in diameter, and
 Arboroms are said to be created by the will of Efrem.
 
 Triceratops
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +8, Reflex +4, Will +5 |
+| **Challenge** | 5 (1800 XP) |
 
 ***Trampling Charge.*** If the triceratops moves at least 6 meters straight toward a creature and then hits it with a gore attack during the same round, the target must succeed on a DC 19 Fortitude Saving Throw or be knocked prone. If the target is prone, the triceratops can make a stomp attack against it as an Immediate Action.
 
@@ -8851,14 +9255,16 @@ Organization: Solitary, pair or herd (5-8)
 The triceratops is an irascible and stubborn herbivore. A typical triceratops is 9 meters long and weighs 10000 kg.
 
 Troll
-- **Size/Type**: Large giant, evil
-- **Ability**: Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2
-- **Hit Points**: 110,  **Defense:** 19,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +4
-- **Senses**: Darkvision 18 m
-- **Languages**: Giant
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large giant, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2 |
+| **Hit Points** | 110, **Defense:** 19, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Giant |
+| **Challenge** | 5 (1800 XP) |
 
 ***Keen Smell.*** The troll has +1d6 to Awareness checks based on smell.
 
@@ -8891,12 +9297,14 @@ Despite their ferocity, trolls are extraordinarily tender and gentle toward thei
 It is universally known that trolls can naturally mutate, temporarily acquiring the most peculiar characteristics of the creatures they feed on. You have no idea how funny a Pegasustroll can be...
 
 Tyrannosaurus
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1
-- **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +0
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +12, Reflex +8, Will +9
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 165, **Defense:** 22, **Initiative:** +0 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +12, Reflex +8, Will +9 |
+| **Challenge** | 8 (3900 XP) |
 
 **Actions*Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It cannot make both attacks against the same target.
 
@@ -8927,17 +9335,19 @@ Organization: Solitary, pair or pack (3-6)
 The tyrannosaurus is a primary predator that measures 12 meters in length and weighs 7000 kg.
 
 Tàhil
-- **Size/Type**: Colossal dragon, Patron
-- **Ability**: Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9
-- **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +8
-- **Movement**: 65 feet, fly 65 feet
-- **Saving Throws**: Fortitude +40, Reflex +30, Will +38
-- **Skills**: all +18
-- **Damage Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
-- **Immune**: charmed, paralyzed, fatigued, frightened
-- **Senses**: Darkvision 200 ft, True Seeing 135 ft
-- **Languages**: all
-- **Challenge**: 30 (155000 XP)
+
+| **Size/Type** | Colossal dragon, Patron |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9 |
+| **Hit Points** | 615, **Defense:** 52, **Initiative:** +8 |
+| **Movement** | 65 feet, fly 65 feet |
+| **S. Throws** | Fortitude +40, Reflex +30, Will +38 |
+| **Skills** | all +18 |
+| **Dam. Imm.** | Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons |
+| **Immune** | charmed, paralyzed, fatigued, frightened |
+| **Senses** | Darkvision 200 ft, True Seeing 135 ft |
+| **Languages** | all |
+| **Challenge** | 30 (155000 XP) |
 
 ***Destructive Aura.*** The dragon emits within a 20-foot radius an aura that causes 1 cumulative force damage per round of exposure. The damage resets after 1 hour away.
 
@@ -8998,16 +9408,18 @@ Organization: Unique
 Tàhil is the embodied Patron of Dragons. Nothing can withstand his fury, madness, rage, and destruction. Tàhil is a gargantuan creature with 7 dragon heads, each colored differently, each representing a color of a Dragon. See the Cosmology chapter for details of his history.
 
 Unicorn
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3
-- **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +7, Reflex +7, Will +8
-- **Damage Imm.**: Poison
-- **Condition Imm.**: charmed, paralyzed
-- **Senses**: Darkvision 18 m
-- **Languages**: Celestial, Elvish, Sylvan, telepathy 18 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3 |
+| **Hit Points** | 107, **Defense:** 20, **Initiative:** +2 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +7, Reflex +7, Will +8 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | charmed, paralyzed |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Celestial, Elvish, Sylvan, telepathy 18 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Magic Weapons.*** The unicorn' \*\*s weapon attacks are magical.
 
@@ -9058,17 +9470,19 @@ Unicorns are intelligent and solitary creatures that inhabit forests, appearing 
 The unicorn' \*\*s horn is the source of its magical powers, and evil creatures place great value on these horns for their dark rituals and healing potions. On rare occasions, unicorns whose partner has been killed choose virtuous young women as substitutes, allowing them to ride them and become their guardians for life.
 
 Vampire
-- **Size/Type**: Medium undead (shapechanger), evil
-- **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4
-- **Hit Points**: 259,  **Defense:** 33,  **Initiative:** +4
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +17, Reflex +17, Will +15
-- **Skills**: Stealth +9, Awareness +17
-- **Damage Imm.**: from Void; Poison, from non-magical weapons
-- **Condition Imm.**: charmed, deafened, bleeding
-- **Senses**: Darkvision 36 m
-- **Languages**: the languages it knew in life, Expiran
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Medium undead (shapechanger), evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 259, **Defense:** 33, **Initiative:** +4 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +17, Reflex +17, Will +15 |
+| **Skills** | Stealth +9, Awareness +17 |
+| **Dam. Imm.** | from Void; Poison, from non-magical weapons |
+| **Condition Imm.** | charmed, deafened, bleeding |
+| **Senses** | Darkvision 36m |
+| **Languages** | the languages it knew in life, Expiran |
+| **Challenge** | 13 (10000 XP) |
 
 ***Shapechanger.*** If the vampire isn' \*\*t in sunlight or running water, it can use an Action to transform into a Tiny bat, a Medium mist, or back to its true form.
 
@@ -9138,16 +9552,18 @@ Organization: Solitary or family (vampire plus 2-8 Spawn)
 Vampires are undead humanoid creatures that feed on the blood of the living. They look very similar to when they were alive, often becoming more attractive, although some appear harsh and feral instead.
 
 Vampire Spawn
-- **Size/Type**: Medium undead, evil
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +9, Will +6
-- **Ability**: Str 3 Dex 3 Con 3 Int 0 Wis 0 Cha 1
-- **Hit Points**: 126,  **Defense:** 23,  **Initiative:** +3
-- **Skills**: Stealth +6
-- **Damage Res.**: from Void; from non-magical weapons
-- **Senses**: Darkvision 18 m
-- **Languages**: the languages it knew in life
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +9, Will +6 |
+| **Ability** | Str 3 Dex 3 Con 3 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 126, **Defense:** 23, **Initiative:** +3 |
+| **Skills** | Stealth +6 |
+| **Damage Res.** | from Void; from non-magical weapons |
+| **Senses** | Darkvision 18 m |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 6 (2300 XP) |
 
 ***Vampire Spawn Weaknesses.*** The Vampire Spawn has the following flaws:
 
@@ -9188,14 +9604,16 @@ Organization: Solitary, pair, group (3-6) or mob (7-12)
 A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
 Violet Fungus
-- **Size/Type**: Medium plant, unaligned
-- **Ability**: Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5
-- **Hit Points**: 19,  **Defense:** 7,  **Initiative:** -5
-- **Movement**: 2 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Immunities**: blinded, deafened, frightened
-- **Senses**: Blindsight 9 m (blind beyond this range)
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium plant, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 19, **Defense:** 7, **Initiative:** -5 |
+| **Movement** | 2 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Immunities** | blinded, deafened, frightened |
+| **Senses** | Blindsight 9 m (blind beyond this range) |
+| **Challenge** | 1/4 (50 XP) |
 
 ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from a normal fungus.
 
@@ -9224,17 +9642,19 @@ Some species of Shrieking Boletes have an appearance quite similar to that of vi
 A violet fungus is 1.2 meters tall and weighs 25 kg.
 
 Vrock
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1
-- **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m, flight 18 m
-- **Saving Throws**: Fortitude +10, Reflex +8, Will +7
-- **Damage Res.**: Cold, Electricity, Fire; from non-magical weapons
-- **Damage Imm.**: Poison
-- **Vulnerabilities**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1 |
+| **Hit Points** | 127, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m, flight 18 m |
+| **S. Throws** | Fortitude +10, Reflex +8, Will +7 |
+| **Damage Res.** | Cold, Electricity, Fire; from non-magical weapons |
+| **Dam. Imm.** | Poison |
+| **Vulnerabilities** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 6 (2300 XP) |
 
 ***Magic Resistance.*** The demon has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -9268,14 +9688,16 @@ Organization: Solitary, pair, or band (3-10)
 A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually originate from the souls of evil mortals filled with hatred and anger, particularly those who were professional criminals, mercenaries, or assassins.
 
 Wall Crawler Horror
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Movement**: 9 m, climb 9 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +4
-- **Senses**: Darkvision 3 m, Blindsight 18 m
-- **Languages**: Wall Crawler Horror
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +0 |
+| **Movement** | 9 m, climb 9 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +4 |
+| **Senses** | Darkvision 3 m, Blindsight 18 m |
+| **Languages** | Wall Crawler Horror |
+| **Challenge** | 3 (700 XP) |
 
 ***Radar Sense.*** The Wall Crawler Horror can' \*\*t use blindsight if it is deafened.
 
@@ -9306,16 +9728,18 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 *Solidarity Clans*. The hooked horrors live in vast family groups or clans. Each clan is ruled by the oldest female, who usually places her mate in charge of the clan' \*\*s hunters. The Wall Crawler Horrors lay their eggs in a central, well-defended area of the caverns used as a lair.
 
 Warhorse Skeleton
-- **Size/Type**: Large undead, evil
-- **Ability**: Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 60 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Dmg. Res.**: piercing, slashing
-- **Dmg. Imm.**: Poison
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 60 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dmg. Res.** | piercing, slashing |
+| **Dmg. Imm.** | Poison |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
@@ -9324,15 +9748,17 @@ Warhorse Skeleton
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
 Werebear
-- **Size/Type**: Medium humanoid (human, shapechanger), good
-- **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1
-- **Hit Points**: 108,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 9 m (12 m, climb 9 m in bear form or hybrid form)
-- **Saving Throws**: Fortitude +8, Reflex +5, Will +6
-- **Skills**: Awareness +7
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Languages**: Common (can' \*\*t speak in bear form)
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), good |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1 |
+| **Hit Points** | 108, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 9 m (12 m, climb 9 m in bear form or hybrid form) |
+| **S. Throws** | Fortitude +8, Reflex +5, Will +6 |
+| **Skills** | Awareness +7 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Languages** | Common (can' \*\*t speak in bear form) |
+| **Challenge** | 5 (1800 XP) |
 
 ***Shapechanger.*** The werebear can use one Action to transform into a bear-humanoid hybrid or into a bear, or back into its true form, which is humanoid. Its statistics, other than its Defense, are the same in all forms. Any equipment it is wearing or carrying isn' \*\*t transformed. It reverts to its true form when it dies.
 
@@ -9363,14 +9789,16 @@ Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizz
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with rough features and dark eyes. They have red, brown, or black hair and appear accustomed to a life of hard work. Though the most benign of the lycanthropes, they are avoided by most normal people, who fear their animal transformation. For the most part they live in isolated woodland areas or in small family units of their own kind. They avoid confronting strangers, but they don' \*\*t hesitate if they must drive evil humanoids from their territories.
 
 Wereboar
-- **Size/Type**: Medium humanoid, shapechanger, evil
-- **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1
-- **Hit Points**: 88,  **Defense:** 17,  **Initiative:** +0
-- **Movement**: 9 m (12 m in boar form)
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +4
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Languages**: Common (can' \*\*t speak in boar form)
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium humanoid, shapechanger, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 88, **Defense:** 17, **Initiative:** +0 |
+| **Movement** | 9 m (12 m in boar form) |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +4 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Languages** | Common (can' \*\*t speak in boar form) |
+| **Challenge** | 4 (1100 XP) |
 
 ***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 5 meters straight toward a target and then hits it with its tusks attack during the same round, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be knocked prone. 1 Action.
 
@@ -9399,16 +9827,18 @@ Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars)
 In their humanoid forms, wereboars tend to be stocky, with upturned noses, bristly hair, and prominent tusks. They have red, brown, or black hair, but some are also blond, gray-haired, or bald. Males usually can' \*\*t grow beards. Because they are stubborn and aggressive, they have small communities of their own kind and don' \*\*t mix with non-lycanthropes: they usually live in small farms that look absolutely normal. They tend to have large families and many children.
 
 Wererat
-- **Size/Type**: Medium humanoid (human, shapechanger), evil
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +4, Awareness +2
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Senses**: Darkvision 18 m (rat form only)
-- **Languages**: Common (can' \*\*t speak in rat form)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Awareness +2 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Senses** | Darkvision 18 m (rat form only) |
+| **Languages** | Common (can' \*\*t speak in rat form) |
+| **Challenge** | 2 (450 XP) |
 
 ***Shapechanger.*** The wererat can use one Action to transform into a rat-humanoid hybrid or into a rat, or back into its true form, which is humanoid. Its statistics, other than its Defense, are the same in all forms. Any equipment it is wearing or carrying isn' \*\*t transformed. It reverts to its true form when it dies.
 
@@ -9439,16 +9869,18 @@ Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats)
 Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitchy movements. Males often have thin, scraggly mustaches.
 
 Weretiger
-- **Size/Type**: Medium humanoid (human, shapechanger), neutral
-- **Ability**: Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0
-- **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
-- **Movement**: 9 m (12 m in tiger form)
-- **Saving Throws**: Fortitude +7, Reflex +6, Will +5
-- **Skills**: Stealth +4, Awareness +5
-- **Damage Imm.**: from non-magical weapons that aren' \*\*t silvered
-- **Senses**: Darkvision 18 m
-- **Languages**: Common (can' \*\*t speak in tiger form)
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 89, **Defense:** 19, **Initiative:** +2 |
+| **Movement** | 9 m (12 m in tiger form) |
+| **S. Throws** | Fortitude +7, Reflex +6, Will +5 |
+| **Skills** | Stealth +4, Awareness +5 |
+| **Dam. Imm.** | from non-magical weapons that aren' \*\*t silvered |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common (can' \*\*t speak in tiger form) |
+| **Challenge** | 4 (1100 XP) |
 
 ***Pounce.*** If the weretiger moves at least 5 meters straight toward a creature and then hits it with a claw attack during the same round, that target must succeed on a Fortitude Saving Throw DC 16 or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as an Immediate Action.
 
@@ -9488,15 +9920,17 @@ Organization: Solitary or pair
 Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbones, and brown or red hair, or white, black, or blue-gray. Their movements are careful and graceful, and those who observe them might mistake them for an excellent pickpocket, a graceful dancer, or a skilled courtesan.
 
 Werewolf
-- **Size/Type**: Medium humanoid (human, shapechanger), evil
-- **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 9 m (12 m in wolf form)
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Stealth +3, Awareness +4
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Languages**: Common (can' \*\*t speak in wolf form)
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 9 m (12 m in wolf form) |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Stealth +3, Awareness +4 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Languages** | Common (can' \*\*t speak in wolf form) |
+| **Challenge** | 3 (700 XP) |
 
 ***Shapechanger.*** The werewolf can use one Action to transform into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its Defense, are the same in all forms. Any equipment it is wearing or carrying isn' \*\*t transformed. It reverts to its true form when it dies.
 
@@ -9527,16 +9961,18 @@ Organization: Solitary, pair or pack (3-6)
 In human form, werewolves look like normal people, though some tend to have feral features and wild hair. Eyebrows that grow together, an index finger longer than the middle finger, and strange birthmarks on the palm of the hand are all commonly accepted signs that a person is in fact a werewolf. Of course, these telltale signs aren' \*\*t always accurate, as these physical traits exist in normal people as well, but in areas where werewolves are a common problem, such traits may be considered damning regardless.
 
 White Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Stealth +2, Perception +4
-- **Damage Imm.**: Cold
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +0 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Perception +4 |
+| **Dam. Imm.** | Cold |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 3 m, one target.
 
@@ -9555,18 +9991,20 @@ Organization: Solitary
 See Ancient White Dragon description.
 
 Wight
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +4
-- **Skills**: Stealth +4, Awareness +3
-- **Damage Res.**: Void; non-magical or non-silver weapons
-- **Damage Imm.**: Poison
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: languages it knew in life, Expiran
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +4 |
+| **Skills** | Stealth +4, Awareness +3 |
+| **Damage Res.** | Void; non-magical or non-silver weapons |
+| **Dam. Imm.** | Poison |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | languages it knew in life, Expiran |
+| **Challenge** | 3 (700 XP) |
 
 ***Undead Nature.*** The wight doesn' \*\*t need air, food, drink, or sleep.
 
@@ -9601,16 +10039,18 @@ Wights are humanoids raised as undead due to necromancy, a violent death, or an 
 Being undead, wights have no need to breathe, so they can sometimes be found underwater, although they are not particularly skilled swimmers unless they originated from swimming creatures such as aquatic elves and merfolk. Underwater, wights prefer low-ceiling caverns where their poor swimming abilities are not a limitation.
 
 Will-o' \*\*-Wisp
-- **Size/Type**: Tiny undead, evil
-- **Ability**: Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0
-- **Hit Points**: 51,  **Defense:** 23,  **Initiative:** +9
-- **Movement**: 0 m, fly 15 m, Float
-- **Saving Throws**: Fortitude +3, Reflex +11, Will +4
-- **Damage Res.**: Acid, Poison, Cold, Fire, Void, Sound; weapons that aren' \*\*t magical
-- **Immunities**: grappled, restrained, paralyzed, unconscious, prone, fatigued, bleeding
-- **Senses**: Darkvision 36 m
-- **Languages**: the languages it knew in life
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Tiny undead, evil |
+| --- | --- |
+| **Ability** | Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0 |
+| **Hit Points** | 51, **Defense:** 23, **Initiative:** +9 |
+| **Movement** | 0 m, fly 15 m, Float |
+| **S. Throws** | Fortitude +3, Reflex +11, Will +4 |
+| **Damage Res.** | Acid, Poison, Cold, Fire, Void, Sound; weapons that aren' \*\*t magical |
+| **Immunities** | grappled, restrained, paralyzed, unconscious, prone, fatigued, bleeding |
+| **Senses** | Darkvision 36m |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 2 (450 XP) |
 
 ***Consume Life.*** As an Immediate Action, the will-o' \*\*-wisp can target one creature it can see within 1 meter of it that has 0 Hit Points or fewer and is still alive. The target must succeed on a Fortitude Saving Throw DC 12 against this magic or die. If the target dies, the will-o' \*\*-wisp regains 10 (3d6) Hit Points.
 
@@ -9648,15 +10088,17 @@ Despite being denigrated by the majority of sentient creatures, will-o' \*\*-wis
 Will-o' \*\*-wisps have no age and are de facto immortal, unless they die a violent death; the oldest will-o' \*\*-wisps can be excellent repositories of knowledge from the past, although convincing one of these cruel creatures to cooperate can be quite complicated.
 
 Wise Owlbear
-- **Size/Type**: Large monstrosity, neutral
-- **Ability**: Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +6
-- **Skills**: Awareness +9
-- **Senses**: Darkvision 18 m
-- **Languages**: understands and reads the following: Common, Druidic, Celestial, Infernal, Dwarven, Elvish, Orcish, Giant, Expiran, Elemental languages
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +6 |
+| **Skills** | Awareness +9 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands and reads the following: Common, Druidic, Celestial, Infernal, Dwarven, Elvish, Orcish, Giant, Expiran, Elemental languages |
+| **Challenge** | 3 (700 XP) |
 
 ***Keen Smell and Sight.*** The wise Owlbear has +1d6 on Awareness checks based on smell or sight.
 
@@ -9694,17 +10136,19 @@ Training a Wise Owlbear is much easier than an Owlbear, but the high intelligenc
 The Mage Hand spell is usually used to flip through the most delicate tomes and to write, albeit extremely slowly.
 
 Wraith
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2
-- **Hit Points**: 108,  **Defense:** 21,  **Initiative:** +3
-- **Movement**: 0 m, fly 18 m, Hover
-- **Saving Throws**: Fortitude +8, Reflex +8, Will +7
-- **Damage Res.**: Acid, Cold, Electricity, Fire, Sound; non-magical or non-silver weapons
-- **Damage Imm.**: Void, Poison
-- **Immunities**: charmed, grappled, entangled, paralyzed, petrified, prone, fatigued, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: languages it knew in life, Expiran
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2 |
+| **Hit Points** | 108, **Defense:** 21, **Initiative:** +3 |
+| **Movement** | 0 m, fly 18 m, Hover |
+| **S. Throws** | Fortitude +8, Reflex +8, Will +7 |
+| **Damage Res.** | Acid, Cold, Electricity, Fire, Sound; non-magical or non-silver weapons |
+| **Dam. Imm.** | Void, Poison |
+| **Immunities** | charmed, grappled, entangled, paralyzed, petrified, prone, fatigued, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | languages it knew in life, Expiran |
+| **Challenge** | 5 (1800 XP) |
 
 ***Incorporeal Movement.*** The wraith can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its round inside an object.
 
@@ -9733,13 +10177,15 @@ Organization: Solitary, pair, group (3-6), or pack (7-12)
 Wraiths are creatures born of evil and darkness. They detest light and living creatures, having lost most of their connection to their previous life.
 
 Wyvern
-- **Size/Type**: Large dragon, unaligned
-- **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2
-- **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 6 m, fly 24 m
-- **Saving Throws**: Fortitude +9, Reflex +6, Will +7
-- **Senses**: Darkvision 18 m
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large dragon, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2 |
+| **Hit Points** | 126, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 6 m, fly 24 m |
+| **S. Throws** | Fortitude +9, Reflex +6, Will +7 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The wyvern can make two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one of the other attacks.
 
@@ -9778,16 +10224,18 @@ Although constantly hungry and inclined to attack, a wyvern can be made friendly
 A wyvern is about 4.8 meters long, with the tail alone accounting for about half of the length. A wyvern weighs on average 1000 kg.
 
 Xorn
-- **Size/Type**: Medium elemental, neutral
-- **Ability**: Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0
-- **Hit Points**: 111,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 6 m, burrow 6 m
-- **Saving Throws**: Fortitude +11, Reflex +5, Will +5
-- **Skills**: Stealth +3, Awareness +6
-- **Damage Res.**: piercing and slashing from non-magical weapons or weapons that aren' \*\*t adamantine
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Languages**: Tremun
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium elemental, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 111, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 6 m, burrow 6 m |
+| **S. Throws** | Fortitude +11, Reflex +5, Will +5 |
+| **Skills** | Stealth +3, Awareness +6 |
+| **Damage Res.** | piercing and slashing from non-magical weapons or weapons that aren' \*\*t adamantine |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Languages** | Tremun |
+| **Challenge** | 5 (1800 XP) |
 
 ***Stone Camouflage.*** The xorn has +1d6 on Stealth (Hiding) checks made to hide in rocky terrain.
 
@@ -9822,16 +10270,18 @@ The treasure that a xorn carries or hides in its lair consists of a snack it has
 Xorns are not very religious, but those among them who find faith are usually devoted to Efrem (although it is rare, if not unlikely, for xorns to have Animal Companions, since they cannot follow them through rock, and instead choose the Earth domain). Bard and Cleric xorns are not unknown: Bards usually choose Entertainer (singing), and Clerics invariably have the Elemental Bloodline (earth).
 
 Young Black Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 145,  **Defense:** 23,  **Initiative:** +2
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +10, Reflex +9, Will +7
-- **Skills**: Stealth +5, Awareness +6
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 145, **Defense:** 23, **Initiative:** +2 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +10, Reflex +9, Will +7 |
+| **Skills** | Stealth +5, Awareness +6 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 7 (2900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -9865,16 +10315,18 @@ Organization: Solitary
 - Bestow Curse
 
 Young Blue Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
-- **Hit Points**: 184,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm{!}{Fortitude +13, Reflex +9, Will +10
-- **Skills**: Stealth +4, Perception +9
-- **Damage Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 184, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +13, Reflex +9, Will +10 |
+| **Skills** | Stealth +4, Perception +9 |
+| **Dam. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 9 (5000 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -9906,16 +10358,18 @@ Organization: Solitary
 - Ice Storm
 
 Young Brass Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +1
-- **Movement**: 40 ft, burrow 20 ft, fly 80 ft
-- **Saving Throws**: Fortitude +9, Reflex +6, Will +6
-- **Damage Imm.**: Fire
-- **Skills**: Stealth +3, Perception +6, Deception +5
-- **Senses**: Darkvision 60 ft, Blindsight 10 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 126, **Defense:** 20, **Initiative:** +1 |
+| **Movement** | 40 ft, burrow 20 ft, fly 80 ft |
+| **S. Throws** | Fortitude +9, Reflex +6, Will +6 |
+| **Dam. Imm.** | Fire |
+| **Skills** | Stealth +3, Perception +6, Deception +5 |
+| **Senses** | Darkvision 60 ft, Blindsight 10 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -9949,16 +10403,18 @@ Organization: Solitary
 - Scrying
 
 Young Bronze Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
-- **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +12, Reflex +8, Will +9
-- **Skills**: Stealth +3, Sense Motive +4, Awareness +7
-- **Dmg. Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 165, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +12, Reflex +8, Will +9 |
+| **Skills** | Stealth +3, Sense Motive +4, Awareness +7 |
+| **Dmg. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 8 (3900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -9995,16 +10451,18 @@ Organization: Solitary
 - Freedom of Movement
 
 Young Copper Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
-- **Hit Points**: 145,  **Defense:** 22,  **Initiative:** +3
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +10, Reflex +8, Will +8
-- **Skills**: Stealth +4, Deception +5, Perception +7
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2 |
+| **Hit Points** | 145, **Defense:** 22, **Initiative:** +3 |
+| **Movement** | 40 ft, climb 40 ft, fly 80 ft |
+| **S. Throws** | Fortitude +10, Reflex +8, Will +8 |
+| **Skills** | Stealth +4, Deception +5, Perception +7 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 120 ft, Blindsight 60 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 7 (2900 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -10040,16 +10498,18 @@ Organization: Solitary
 - Fire Shield
 
 Young Gold Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5
-- **Hit Points**: 205,  **Defense:** 27,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +15, Reflex +12, Will +11
-- **Skills**: Stealth +6, Sense Motive +5, Awareness +9, Deception +9
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5 |
+| **Hit Points** | 205, **Defense:** 27, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +15, Reflex +12, Will +11 |
+| **Skills** | Stealth +6, Sense Motive +5, Awareness +9, Deception +9 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 10 (5900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -10087,16 +10547,18 @@ Organization: Solitary
 - Black Tentacles
 
 Young Green Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
-- **Hit Points**: 163,  **Defense:** 23,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +11, Reflex +9, Will +9
-- **Skills**: Stealth +4, Deception +5, Awareness +7
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2 |
+| **Hit Points** | 163, **Defense:** 23, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +11, Reflex +9, Will +9 |
+| **Skills** | Stealth +4, Deception +5, Awareness +7 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 8 (3900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -10130,16 +10592,18 @@ Organization: Solitary
 - Neutralize Poison
 
 Young Red Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
-- **Hit Points**: 205,  **Defense:** 25,  **Initiative:** +2
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +15, Reflex +10, Will +10
-- **Skills**: Stealth +4, Awareness +8
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4 |
+| **Hit Points** | 205, **Defense:** 25, **Initiative:** +2 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +15, Reflex +10, Will +10 |
+| **Skills** | Stealth +4, Awareness +8 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 10 (5900 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -10172,16 +10636,18 @@ Organization: Solitary
 - Wall of Fire
 
 Young Silver Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
-- **Hit Points**: 186,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +14, Reflex +9, Will +9
-- **Skills**: Arcana +6, Stealth +4, Awareness +8, History +6
-- **Dmg. Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4 |
+| **Hit Points** | 186, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 12 m, fly 24 m |
+| **S. Throws** | Fortitude +14, Reflex +9, Will +9 |
+| **Skills** | Arcana +6, Stealth +4, Awareness +8, History +6 |
+| **Dmg. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 9 (5000 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -10217,16 +10683,18 @@ Organization: Solitary
 - Dream
 
 Young White Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1
-- **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +6
-- **Skills**: Stealth +3, Perception +6
-- **Damage Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1 |
+| **Hit Points** | 127, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +6 |
+| **Skills** | Stealth +3, Perception +6 |
+| **Dam. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 6 (2300 XP) |
 
 ***Ice Walk.*** The dragon can move and climb on icy surfaces without needing to make basic skill checks. Additionally, difficult terrain composed of ice or snow does not cost it extra movement.
 
@@ -10258,16 +10726,18 @@ Organization: Solitary
 - Sleet Storm
 
 Zombie
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3
-- **Hit Points**: 19,  **Defense:** 10,  **Initiative:** -2
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: understands all languages it spoke in life but cannot speak
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3 |
+| **Hit Points** | 19, **Defense:** 10, **Initiative:** -2 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands all languages it spoke in life but cannot speak |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Undead Nature.*** The zombie doesn' \*\*t need air, food, drink, or sleep.
 
@@ -10298,12 +10768,14 @@ Although they are able to follow orders, zombies are often set free with the ord
 This appendix contains the statistics of various animals, parasites, and other creatures. The statistics are organized in alphabetical order.
 
 Ape
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 **Actions*Multiattack.*** The ape makes two fist attacks.
 
@@ -10316,12 +10788,14 @@ Ape
 *Hit:* 6 (1d6 + 3) bludgeoning damage.
 
 Armored Bear
-- **Size/Type**: Huge beast, corrupted by Cattalm
-- **Ability**: Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1
-- **Hit Points**: 90,  **Defense:** 19,  **Initiative:** +2
-- **Saving Throws**: Fortitude +8, Reflex +6, Will +5
-- **Movement**: 12 m, swim 9 m
-- **Challenge**: 4 (450 XP)
+
+| **Size/Type** | Huge beast, corrupted by Cattalm |
+| --- | --- |
+| **Ability** | Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1 |
+| **Hit Points** | 90, **Defense:** 19, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +8, Reflex +6, Will +5 |
+| **Movement** | 12 m, swim 9 m |
+| **Challenge** | 4 (450 XP) |
 
 ***Keen Smell.*** The bear has +1d6 to Awareness checks based on smell.
 
@@ -10336,17 +10810,19 @@ Armored Bear
 *Hit:* 20 (3d8 + 10) piercing damage.
 
 Awakened Tree
-- **Size/Type**: Huge plant, unaligned
-- **Ability**: Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2
-- **Hit Points**: 51,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Vul. to Damage**: Fire
-- **Res. to Damage**: bludgeoning, piercing
-- **Skills**: History +2
-- **Senses**: Darkvision 18 m
-- **Languages**: one language known by its creator
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Huge plant, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2 |
+| **Hit Points** | 51, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Vul. to Damage** | Fire |
+| **Res. to Damage** | bludgeoning, piercing |
+| **Skills** | History +2 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | one language known by its creator |
+| **Challenge** | 2 (450 XP) |
 
 ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.
 
@@ -10355,24 +10831,28 @@ Awakened Tree
 *Hit:* 14 (3d6 + 4) bludgeoning damage.
 
 Axe Beak
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Beak.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) slashing damage.
 
 Baboon
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Pack Tactics.*** The baboon has +1d6 on attack rolls against a creature if at least one of the baboon' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -10381,12 +10861,15 @@ Baboon
 *Hit:* 1 (1d4 - 1) piercing damage.
 
 Badger
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 20 ft, burrow 5 ft
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 20 ft, burrow 5 ft |
+| **Challenge** | 0(10 XP) |
+
 \
 
 ***Keen Smell.*** The badger has +1d6 to Awareness checks that rely on smell.
@@ -10396,12 +10879,14 @@ Badger
 *Hit:* 1 piercing damage.
 
 Black Bear
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m, climb 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Keen Smell.*** The bear has +1d6 to Awareness checks based on smell.
 
@@ -10416,13 +10901,15 @@ Black Bear
 *Hit:* 6 (1d6 + 3) piercing damage.
 
 Blink Dog
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
-- **Vul. to Damage**: cold iron
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 15, **Initiative:** +3 |
+| **Vul. to Damage** | cold iron |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Keen Hearing and Smell.*** The dog has +1d6 on Awareness checks based on hearing or smell.
 
@@ -10433,12 +10920,14 @@ Blink Dog
 ***Teleport (Recharge 4-6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 12 meters to an unoccupied space it can see. Before or after teleporting, the dog can make a bite attack.
 
 Blood Hawk
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Pack Tactics.*** The hawk has +1d6 on attack rolls against a creature if at least one of the hawk' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -10449,12 +10938,14 @@ Blood Hawk
 *Hit:* 4 (1d4 + 2) piercing damage.
 
 Boar
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Charge.*** If the boar moves at least 6 meters straight toward a target and then hits it with a tusk attack in the same round, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
@@ -10465,12 +10956,14 @@ Boar
 *Hit:* 4 (1d6 + 1) slashing damage.
 
 Brown Bear
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 12 m, climb 9 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 9 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Smell.*** The bear has +1d6 on Awareness checks based on smell.
 
@@ -10485,12 +10978,14 @@ Brown Bear
 *Hit:* 8 (1d8 + 4) piercing damage.
 
 Cat
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m, climb 9 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 9 m |
+| **Challenge** | 0(10 XP) |
 
 ***Keen Smell.*** The cat has +1d6 on Awareness checks based on smell.
 
@@ -10499,12 +10994,14 @@ Cat
 *Hit:* 1 slashing damage.
 
 Constrictor Snake
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, swim 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, swim 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
@@ -10515,12 +11012,14 @@ Constrictor Snake
 *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (DC 14 to escape). Until this grapple ends, the creature is restrained, and the snake can' \*\*t constrict another target.
 
 Crocodile
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, swim 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, swim 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Hold Breath.*** The crocodile can hold its breath for 15 minutes.
 
@@ -10529,12 +11028,14 @@ Crocodile
 *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (DC 12 to escape). Until the grapple ends, the crocodile can' \*\*t use its bite against another target.
 
 Death Dog
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Two-Headed.*** The dog has +1d6 on Awareness checks and on Saving Throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
@@ -10545,24 +11046,28 @@ Death Dog
 *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Fortitude Saving Throw against disease or become diseased. The disease has no effect for 24 hours and can be removed by any magic that cures disease. After each 24 hours, the creature must repeat the Saving Throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
 Deer
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3
-- **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3 |
+| **Hit Points** | 15, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 0 (10 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +2 to hit, reach 1 m, one target.
 
 *Hit:* 2 (1d4) piercing damage.
 
 Dire Wolf (Metawolf)
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Hearing and Smell.*** The wolf has +1d6 on Awareness checks based on hearing or smell.
 
@@ -10573,12 +11078,14 @@ Dire Wolf (Metawolf)
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
 Eagle
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Keen Sight.*** The eagle has +1d6 on Awareness checks based on sight.
 
@@ -10587,12 +11094,14 @@ Eagle
 *Hit:* 4 (1d4 + 2) slashing damage.
 
 Elephant
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2
-- **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +4
-- **Movement**: 12 m
-- **Challenge**: 4 (1000 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 89, **Defense:** 16, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +7, Reflex +3, Will +4 |
+| **Movement** | 12 m |
+| **Challenge** | 4 (1000 XP) |
 
 ***Trampling Charge.*** If the elephant moves at least 6 meters straight toward a creature and then hits it with a gore attack on the same round, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the elephant can make a stomp attack against it as an Immediate Action.
 
@@ -10605,12 +11114,14 @@ Elephant
 *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
 Elk
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Charge.*** If the elk moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -10623,12 +11134,14 @@ Elk
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 Flying Snake
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3
-- **Hit Points**: 17,  **Defense:** 16,  **Initiative:** +4
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft, fly 60 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 17, **Defense:** 16, **Initiative:** +4 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 30 ft, swim 30 ft, fly 60 ft |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Flyby.*** The snake doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -10637,12 +11150,14 @@ Flying Snake
 *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
 Frog
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4
-- **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, swim 6 m
-- **Challenge**: 0(0 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 15, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, swim 6 m |
+| **Challenge** | 0(0 XP) |
 
 ***Amphibious.*** The frog can breathe air and water.
 
@@ -10651,12 +11166,14 @@ Frog
 A **frog** has no attacks. It feeds on small insects and typically lives near marshes, in trees, or underground.
 
 Giant Ape
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2
-- **Hit Points**: 146,  **Defense:** 23,  **Initiative:** +2
-- **Saving Throws**: Fortitude +11, Reflex +9, Will +8
-- **Movement**: 12 m, climb 12 m
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 146, **Defense:** 23, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +11, Reflex +9, Will +8 |
+| **Movement** | 12 m, climb 12 m |
+| **Challenge** | 7 (2900 XP) |
 
 **Actions*Multiattack.*** The ape makes two fist attacks.
 
@@ -10669,12 +11186,15 @@ Giant Ape
 *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
 Giant Badger
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, burrow 10 ft
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 30 ft, burrow 10 ft |
+| **Challenge** | 1/4 (50 XP) |
+
 \
 
 ***Keen Smell.*** The badger has +1d6 to Awareness checks that rely on smell.
@@ -10690,12 +11210,14 @@ Giant Badger
 *Hit:* 4 (1d6 + 1) piercing damage.
 
 Giant Boar
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the boar moves at least 6 meters straight toward a target and then hits it with a tusk attack in the same round, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -10706,12 +11228,14 @@ Giant Boar
 *Hit:* 10 (2d6 + 3) slashing damage.
 
 Giant Constrictor Snake
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 30 ft, swim 30 ft |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 10 ft, one creature.
 
@@ -10722,12 +11246,14 @@ Giant Constrictor Snake
 *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the creature is restrained, and the snake cannot constrict another target.
 
 Giant Crab
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, swim 9 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, swim 9 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Amphibious.*** The crab can breathe air and water.
 
@@ -10736,12 +11262,14 @@ Giant Crab
 *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (DC 11 to escape). The crab has two claws, each of which can grapple only one target.
 
 Giant Crocodile
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
-- **Movement**: 9 m, swim 15 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +8, Reflex +4, Will +5 |
+| **Movement** | 9 m, swim 15 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Hold Breath.*** The crocodile can hold its breath for 30 minutes.
 
@@ -10756,13 +11284,15 @@ Giant Crocodile
 *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the crocodile can' \*\*t use its bite against another target.
 
 Giant Eagle
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Movement**: 3 m, flight 24 m
-- **Languages**: Giant Eagle, understands Common and Ictun but can' \*\*t speak them
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0 |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Movement** | 3 m, flight 24 m |
+| **Languages** | Giant Eagle, understands Common and Ictun but can' \*\*t speak them |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Sight.*** The eagle has +1d6 on Awareness checks based on sight.
 
@@ -10777,12 +11307,14 @@ Giant Eagle
 *Hit:* 10 (2d6 + 3) slashing damage.
 
 Giant Elk
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +4
-- **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0 |
+| **S. Throws** | Fortitude +4, Reflex +5, Will +4 |
+| **Hit Points** | 51, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the elk moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Fortitude Saving Throw or be knocked prone.
 
@@ -10795,12 +11327,14 @@ Giant Elk
 *Hit:* 22 (4d4 + 4) bludgeoning damage.
 
 Giant Fire Beetle
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 0(10 XP) |
 
 ***Illumination.*** The beetle sheds bright light in a 3-meter radius and dim light for an additional 6 meters.
 
@@ -10809,12 +11343,14 @@ Giant Fire Beetle
 *Hit:* 2 (1d6 - 1) slashing damage.
 
 Giant Froggy
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, swim 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, swim 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Amphibious.*** The frog can breathe air and water.
 
@@ -10827,12 +11363,14 @@ Giant Froggy
 ***Swallow.*** The frog makes a bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, has total cover against attacks and other effects outside the frog, and takes 5 (2d4) acid damage at the start of each of the frog' \*\*s turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 1 meter of movement, exiting prone.
 
 Giant Frog
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, swim 12 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, swim 12 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Amphibious.*** The toad can breathe air and water.
 
@@ -10849,12 +11387,14 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 Giant Goat
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Charge.*** If the goat moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -10865,12 +11405,14 @@ Giant Goat
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 Giant Hyena
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Rampage.*** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take an Immediate Action to move up to half its movement and make a bite attack.
 
@@ -10879,12 +11421,14 @@ Giant Hyena
 *Hit:* 10 (2d6 + 3) piercing damage.
 
 Giant Lizard
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -10899,12 +11443,14 @@ Some giant lizards have one or both of the following traits.
 ***Hold Breath.*** The lizard can hold its breath for 15 minutes. (A lizard with this trait also has a swimming speed of 9 meters.)
 
 Giant Owl
-- **Size/Type**: Large beast, neutral
-- **Ability**: Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 1 m, flight 18 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, neutral |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 1 m, flight 18 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Flyby.*** The owl doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -10915,24 +11461,28 @@ Giant Owl
 *Hit:* 8 (2d6 + 1) piercing damage.
 
 Giant Poisonous Snake
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 16, **Initiative:** +4 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 30 ft, swim 30 ft |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 10 ft, one target.
 
 *Hit:* 6 (1d4 + 4) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 Giant Rat
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Keen Smell.*** The rat has +1d6 to Awareness checks based on smell.
 
@@ -10951,12 +11501,14 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 *Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or contract a disease. Until the disease is cured, Fortitude Saving Throw DC 12 every 24 hours, the target can' \*\*t regain hit points except by magical means, and the target' \*\*s hit point maximum decreases by 3 (1d6) every 24 hours. If the target' \*\*s hit point maximum drops to 0 as a result of this disease, the target dies.
 
 Giant Scorpion
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Movement**: 12 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 3 (700 XP) |
 
 **Actions*Multiattack.*** The scorpion makes three attacks: two with its claws and one with its sting.
 
@@ -10969,12 +11521,14 @@ Giant Scorpion
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
 Giant Sea Horse
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 m, swim 12 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 m, swim 12 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Charge.*** If the sea horse moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
@@ -10985,12 +11539,15 @@ Giant Sea Horse
 *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
 Giant Shark
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3
-- **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
-- **Saving Throws**: Fortitude +10, Reflex +5, Will +5
-- **Movement**: 0 ft, swim 50 ft
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3 |
+| **Hit Points** | 110, **Defense:** 18, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +10, Reflex +5, Will +5 |
+| **Movement** | 0 ft, swim 50 ft |
+| **Challenge** | 5 (1800 XP) |
+
 \
 
 ***Blood Frenzy.*** The shark has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
@@ -11002,12 +11559,14 @@ Giant Shark
 *Hit:* 22 (3d10 + 6) piercing damage.
 
 Giant Spider
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -11026,12 +11585,14 @@ Giant Spider
 *Hit:* The target is restrained by webbing. As an Action, the restrained target can make a Fortitude Saving Throw with Strength DC 12 and, on a success, break free. The webbing can also be attacked and destroyed (AC 10; Hit Points 5; vulnerability to fire damage; immunity to bludgeoning and poison damage).
 
 Giant Vulture
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Keen Sight and Smell.*** The vulture has +1d6 on Awareness checks based on sight or smell.
 
@@ -11048,12 +11609,15 @@ Giant Vulture
 *Hit:* 9 (2d6 + 2) slashing damage.
 
 Giant Wasp
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 50 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 10 ft, fly 50 ft |
+| **Challenge** | 1/2 (100 XP) |
+
 \
 
 **Actions*Sting.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
@@ -11061,12 +11625,14 @@ Giant Wasp
 *Hit:* 5 (1d6 + 2) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining Hit Points, and is paralyzed while poisoned in this way.
 
 Giant Weasel
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Keen Hearing and Smell.*** The weasel has +1d6 on Awareness checks based on hearing or smell.
 
@@ -11075,12 +11641,14 @@ Giant Weasel
 *Hit:* 5 (1d4 + 3) piercing damage.
 
 Giant Wolf Spider
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m, climb 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -11093,12 +11661,14 @@ Giant Wolf Spider
 *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a Fortitude Saving Throw DC 11, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 Goat
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Charge.*** If the goat moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Fortitude Saving Throw or be knocked prone.
 
@@ -11109,12 +11679,14 @@ Goat
 *Hit:* 3 (1d4 + 1) bludgeoning damage.
 
 Hawk
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2
-- **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2 |
+| **Hit Points** | 15, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 0(10 XP) |
 
 ***Keen Sight.*** The hawk has +1d6 on Awareness checks based on sight.
 
@@ -11123,12 +11695,14 @@ Hawk
 *Hit:* 1 slashing damage.
 
 Hunter Shark
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Movement** | 0 ft, swim 40 ft |
+| **Challenge** | 2 (450 XP) |
 
 ***Blood Frenzy.*** The shark has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
 
@@ -11139,12 +11713,14 @@ Hunter Shark
 *Hit:* 13 (2d8 + 4) piercing damage.
 
 Hyena
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 15, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 0(10 XP) |
 
 ***Pack Tactics.*** The hyena has +1d6 on attack rolls against a creature if at least one of the hyena' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -11153,12 +11729,14 @@ Hyena
 *Hit:* 3 (1d6) piercing damage.
 
 Jackal
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Pack Tactics.*** The jackal has +1d6 to attack rolls against a creature if at least one of the jackal' \*\*s allies is within 1 meter of the creature and that ally isn' \*\*t incapacitated.
 
@@ -11169,12 +11747,14 @@ Jackal
 *Hit:* 1 (1d4 - 1) piercing damage.
 
 Killer Whale (Orca)
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 69,  **Defense:** 16,  **Initiative:** +0
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +4
-- **Movement**: 0 m, swim 18 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 69, **Defense:** 16, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +4 |
+| **Movement** | 0 m, swim 18 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Echolocation.*** The whale can' \*\*t use its blindsight while deafened.
 
@@ -11187,12 +11767,14 @@ Killer Whale (Orca)
 *Hit:* 21 (5d6 + 4) piercing damage.
 
 Lion
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Pounce.*** If the lion moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same round, that target must succeed on a DC 13 Fortitude Saving Throw or be knocked prone. If the target is prone, the lion can make a bite attack against it as an Immediate Action.
 
@@ -11211,12 +11793,14 @@ Lion
 *Hit:* 7 (1d8 + 3) piercing damage.
 
 Mammoth
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2
-- **Hit Points**: 129,  **Defense:** 19,  **Initiative:** -1
-- **Saving Throws**: Fortitude +11, Reflex +5, Will +6
-- **Movement**: 12 m
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 129, **Defense:** 19, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +11, Reflex +5, Will +6 |
+| **Movement** | 12 m |
+| **Challenge** | 6 (2300 XP) |
 
 ***Trampling Charge.*** If the mammoth moves at least 6 meters straight toward a creature and then hits it with a gore attack on the same round, that target must succeed on a DC 18 Fortitude Saving Throw or be knocked prone. If the target is prone, the mammoth can make a stomp attack against it as an Immediate Action.
 
@@ -11229,12 +11813,14 @@ Mammoth
 *Hit:* 29 (4d10 + 7) bludgeoning damage.
 
 Mastiff
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Keen Hearing and Smell.*** The mastiff has +1d6 on Awareness checks based on hearing or smell.
 
@@ -11243,13 +11829,15 @@ Mastiff
 *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
 Monkey
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Skills**: Acrobatics +6, Awareness +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Skills** | Acrobatics +6, Awareness +3 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Scratch.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
@@ -11260,12 +11848,14 @@ Monkey
 *Hit:* 2 (1d4) piercing damage.
 
 Owl
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 1 m, flight 18 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 1 m, flight 18 m |
+| **Challenge** | 0(10 XP) |
 
 ***Flyby.*** The owl doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -11276,12 +11866,14 @@ Owl
 *Hit:* 1 slashing damage.
 
 Panther
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m, climb 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m, climb 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Pounce.*** If the panther moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same round, that target must succeed on a DC 12 Fortitude Saving Throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as an Immediate Action.
 
@@ -11296,12 +11888,14 @@ Panther
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 Phase Spider
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2
-- **Hit Points**: 69,  **Defense:** 18,  **Initiative:** +2
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 69, **Defense:** 18, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +4, Reflex +5, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -11314,12 +11908,14 @@ Phase Spider
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 Piranha
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4
-- **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 m, swim 12 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 15, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 m, swim 12 m |
+| **Challenge** | 0(10 XP) |
 
 ***Blood Frenzy.*** The piranha has +1d6 on melee attack rolls against any creature that doesn' \*\*t have all its hit points.
 
@@ -11330,24 +11926,28 @@ Piranha
 *Hit:* 1 piercing damage.
 
 Poisonous Snake
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, swim 30 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 30 ft, swim 30 ft |
+| **Challenge** | 1/8 (25 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
 
 *Hit:* 1 piercing damage and the target must make a DC 10 Fortitude Saving Throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
 Polar Bear
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 12 m, swim 9 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 12 m, swim 9 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Keen Smell.*** The bear has +1d6 to Awareness checks based on smell.
 
@@ -11362,12 +11962,14 @@ Polar Bear
 *Hit:* 9 (1d8 + 5) piercing damage.
 
 Rat
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m |
+| **Challenge** | 0(10 XP) |
 
 ***Keen Smell.*** The rat has +1d6 to Awareness checks based on smell.
 
@@ -11376,12 +11978,14 @@ Rat
 *Hit:* 1 piercing damage.
 
 Raven
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 15 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 15 m |
+| **Challenge** | 0(10 XP) |
 
 ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a child crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Survival check DC 10.
 
@@ -11390,12 +11994,15 @@ Raven
 *Hit:* 1 piercing damage.
 
 Reef Shark
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 ft, swim 40 ft |
+| **Challenge** | 1/2 (100 XP) |
+
 \
 
 ***Water Breathing.*** The shark can breathe only underwater.
@@ -11407,12 +12014,14 @@ Reef Shark
 *Hit:* 6 (1d8 + 2) piercing damage.
 
 Rhinoceros
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 51,  **Defense:** 13,  **Initiative:** -1
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 13, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the rhinoceros moves at least 6 meters straight toward a target and then hits it with a gore attack during the same round, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be knocked prone.
 
@@ -11421,12 +12030,15 @@ Rhinoceros
 *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
 Saber-Toothed Tiger
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Saving Throws**: Fortitude +4, Reflex +4, Will +3
-- **Movement**: 40 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +4, Reflex +4, Will +3 |
+| **Movement** | 40 ft |
+| **Challenge** | 2 (450 XP) |
+
 \
 
 ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
@@ -11442,46 +12054,54 @@ Saber-Toothed Tiger
 *Hit:* 10 (1d10 + 5) piercing damage.
 
 Saurovall, Draft
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 9 (2d4 + 4) bludgeoning damage.
 
 Saurovall, Pony
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 17, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/8 (25 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
 Saurovall, Riding
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 18 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 18 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 Saurovall, War
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Trampling Charge.*** If the Saurovall moves at least 6 meters straight toward a target and then hits it with a hooves attack during the same round, the target must succeed on a Fortitude Saving Throw DC 14 or be knocked prone. If the target is prone, the Saurovall can make another hooves attack against it as an Immediate Action.
 
@@ -11502,24 +12122,28 @@ He also created a smaller, dwarf version that could adapt to carrying creatures 
 Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost displeasure!
 
 Scorpion
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m |
+| **Challenge** | 0(10 XP) |
 
 **Actions*Sting.** Melee Weapon Attack*: +2 to hit, reach 1 m, one creature.
 
 *Hit:* 1 piercing damage, and the target must make a Fortitude Saving Throw DC 9, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
 Spider
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 0(10 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -11532,12 +12156,15 @@ Spider
 *Hit:* 1 piercing damage, and the target must succeed on a Fortitude Saving Throw 9 or take 2 (1d4) poison damage.
 
 Stirgy
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 40 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 10 ft, fly 40 ft |
+| **Challenge** | 1/8 (25 XP) |
+
 \
 
 **Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
@@ -11547,13 +12174,15 @@ Stirgy
 The stirge can detach itself by spending 1 Action. It does so automatically after it has drained 10 Hit Points of blood from the target or the target dies. A creature, including the target, can use an Action to detach the stirge.
 
 Swarm of Bats
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 m, fly 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 m, fly 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Echolocation.*** The swarm can' \*\*t use its blindsight while deafened.
 
@@ -11566,13 +12195,15 @@ Swarm of Bats
 *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Centipedes
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -11581,13 +12212,15 @@ Swarm of Centipedes
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes but stabilized remains poisoned for 1 hour, even after regaining hit points, and remains paralyzed by the poison during this period.
 
 Swarm of Piranhas
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4
-- **Hit Points**: 32,  **Defense:** 16,  **Initiative:** +3
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 0 m, swim 12 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 32, **Defense:** 16, **Initiative:** +3 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 0 m, swim 12 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Blood Frenzy.*** The swarm has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its hit points.
 
@@ -11600,13 +12233,15 @@ Swarm of Piranhas
 *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Poisonous Snakes
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 16, **Initiative:** +4 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -11615,13 +12250,15 @@ Swarm of Poisonous Snakes
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer, and the target must make a Fortitude Saving Throw DC 10, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
 Swarm of Rats
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Keen Smell.*** The swarm has +1d6 to Awareness checks based on smell.
 
@@ -11638,13 +12275,15 @@ Swarm of Rats
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Ravens
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, fly 15 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, fly 15 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -11653,13 +12292,15 @@ Swarm of Ravens
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Spiders
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Web Walker.*** The swarm ignores movement restrictions caused by webbing.
 
@@ -11674,12 +12315,14 @@ Swarm of Spiders
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Wasps
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 1m, fly 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 1m, fly 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -11688,12 +12331,15 @@ Swarm of Wasps
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Tiger
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 40 ft
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 40 ft |
+| **Challenge** | 1 (200 XP) |
+
 \
 
 ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
@@ -11709,12 +12355,14 @@ Tiger
 *Hit:* 8 (1d10 + 3) piercing damage.
 
 Vulture
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 15 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 15 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Keen Sight and Smell.*** The vulture has +1d6 on Awareness checks based on sight or smell.
 
@@ -11725,13 +12373,15 @@ Vulture
 *Hit:* 2 (1d4) piercing damage.
 
 Swarm of Insects
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -11740,12 +12390,14 @@ Swarm of Insects
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Winter Wolf
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
-- **Movement**: 15 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +5, Reflex +4, Will +4 |
+| **Movement** | 15 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Snow Camouflage.*** The wolf has +1d6 on Stealth (Hiding) checks made to hide in snowy terrain.
 
@@ -11760,12 +12412,14 @@ Winter Wolf
 ***Cold Breath (Recharge 5-6).*** The wolf exhales a blast of freezing wind in a 5-meter cone. Each creature in that area must make a DC 15 Reflex Saving Throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
 Wolf
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Keen Hearing and Smell.*** The wolf has +1d6 on Awareness checks based on hearing or smell.
 
@@ -11776,12 +12430,15 @@ Wolf
 *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
 Worg
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 50 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 50 ft |
+| **Challenge** | 1/2 (100 XP) |
+
 \
 
 ***Keen Hearing and Smell.*** The worg has +1d6 in Awareness checks that rely on hearing or smell.
@@ -11813,12 +12470,14 @@ Some example magic items are described later in this document.
 Fighters are individuals who earn a living by putting their sword in service to an individual or an ideal.
 
 Guard
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 Guards include members of the city watch, sentinels in a citadel or fortified town, and the bodyguards of nobles and merchants.
 
@@ -11827,14 +12486,16 @@ Guards include members of the city watch, sentinels in a citadel or fortified to
 *Hit:* 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 Veteran
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Skills**: Athletics +5
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Skills** | Athletics +5 |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 3 (700 XP) |
 
 Warriors who have survived long, earning a great reputation as expert and skilled fighters.
 
@@ -11853,12 +12514,14 @@ Warriors who have survived long, earning a great reputation as expert and skille
 *Hit:* 6 (1d10 + 1) piercing damage.
 
 Knight
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 3 (700 XP) |
 
 Knights are fighters who swear allegiance to rulers, religious orders, and noble causes. The knight' \*\*s Trait determines how far they are willing to honor their oath.
 
@@ -11882,14 +12545,16 @@ This category includes individuals who keep the world running, performing the ne
 new territories are explored.
 
 Noble
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Skills**: Sense Emotions +4, Deception +5
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: two languages of your choice
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Skills** | Sense Emotions +4, Deception +5 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 1/8 (25 XP) |
 
 Nobles command the population by virtue of birthright or accumulated wealth. Among them are also courtiers who crowd the courts of the rich and powerful.
 
@@ -11900,13 +12565,15 @@ Nobles command the population by virtue of birthright or accumulated wealth. Amo
 **Reactions*Parry.*** The noble adds 2 to its Defense against a melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
 Commoner
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0
-- **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 17, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -11919,13 +12586,15 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 Criminals are individuals who live on the edge of legality, making their living by engaging in activities often considered illegal and immoral.
 
 Bandit/Pirate
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 Whether they are men of the street or the sea (pirates), these individuals make their living by preying on others.
 
@@ -11938,13 +12607,15 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 *Hit:* 5 (1d8 + 1) slashing damage.
 
 Spy
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: two languages of your choice
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 1 (200 XP) |
 
 A spy is an individual trained in gathering secrets for someone, or sometimes to sell them to the highest bidder.
 
@@ -11963,14 +12634,16 @@ A spy is an individual trained in gathering secrets for someone, or sometimes to
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 Bandit Captain or Pirate
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2
-- **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
-- **Skills**: Athletics +4, Deception +4
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +3
-- **Movement**: 9 m
-- **Languages**:  two languages of your choice
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2 |
+| **Hit Points** | 51, **Defense:** 17, **Initiative:** +3 |
+| **Skills** | Athletics +4, Deception +4 |
+| **S. Throws** | Fortitude +4, Reflex +5, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 2 (450 XP) |
 
 Whether living on land or at sea, this is an individual with a great personality who manages to keep in line the rabble that responds to their orders.
 
@@ -11987,14 +12660,16 @@ Whether living on land or at sea, this is an individual with a great personality
 **Reactions*Parry.*** The captain adds 2 to their Defense against a melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
 
 Assassin
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0
-- **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
-- **Skills**: Acrobatics +6, Stealth +9, Deception +3
-- **Saving Throws**: Fortitude +10, Reflex +11, Will +8
-- **Movement**: 9 m
-- **Languages**: Common plus two other languages
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0 |
+| **Hit Points** | 162, **Defense:** 25, **Initiative:** +3 |
+| **Skills** | Acrobatics +6, Stealth +9, Deception +3 |
+| **S. Throws** | Fortitude +10, Reflex +11, Will +8 |
+| **Movement** | 9 m |
+| **Languages** | Common plus two other languages |
+| **Challenge** | 8 (3900 XP) |
 
 Solitary or members of a guild, assassins are paid to eliminate, often silently and discreetly, rivals and enemies of their employers.
 
@@ -12021,14 +12696,16 @@ Solitary or members of a guild, assassins are paid to eliminate, often silently 
 The wizard spends their life studying and practicing magic.
 
 Adventuring Wizard
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
-- **Skills**: Arcana +5, History +5
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: four languages of your choice
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +3 |
+| **Skills** | Arcana +5, History +5 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | four languages of your choice |
+| **Challenge** | 1 (200 XP) |
 
 A novice Wizard who has successfully completed their first adventures and has begun to establish a reputation as a noble or infamous adventurer.
 
@@ -12045,14 +12722,16 @@ level 2 (3 slots): *Hold Person, Misty Step*
 *Hit:* 3 (1d8 - 1) bludgeoning damage.
 
 Great Wizard
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0
-- **Hit Points**: 122,  **Defense:** 22,  **Initiative:** +3
-- **Skills**: Arcana +6, History +6
-- **Saving Throws**: Fortitude +6, Reflex +8, Will +7
-- **Movement**: 9 m
-- **Languages**: four languages of your choice
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0 |
+| **Hit Points** | 122, **Defense:** 22, **Initiative:** +3 |
+| **Skills** | Arcana +6, History +6 |
+| **S. Throws** | Fortitude +6, Reflex +8, Will +7 |
+| **Movement** | 9 m |
+| **Languages** | four languages of your choice |
+| **Challenge** | 6 (2300 XP) |
 
 A Wizard who has established a fair reputation in the territory and who attracts students from all around.
 
@@ -12077,14 +12756,16 @@ level 5 (1 slot): *Cone of Cold*
 **Reaction: *Opportunistic Spell***: the wizard reacts to an attack by casting a cantrip.
 
 Archmage
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3
-- **Hit Points**: 233,  **Defense:** 30,  **Initiative:** +5
-- **Skills**: Arcana +13, History +13
-- **Saving Throws**: Fortitude +13, Reflex +14, Will +14
-- **Movement**: 9 m
-- **Languages**: six languages of your choice
-- **Challenge**: 12 (8400 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3 |
+| **Hit Points** | 233, **Defense:** 30, **Initiative:** +5 |
+| **Skills** | Arcana +13, History +13 |
+| **S. Throws** | Fortitude +13, Reflex +14, Will +14 |
+| **Movement** | 9 m |
+| **Languages** | six languages of your choice |
+| **Challenge** | 12 (8400 XP) |
 
 A very powerful (and also very old) wizard who studies the secrets of the multiverse.
 
@@ -12125,14 +12806,16 @@ The archmage casts these {*} spells on itself before combat.
 Priests are devoted to a deity or faith who take care of imparting divine teachings to their flock.
 
 Cultist
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Skills**: Deception +2, Religion +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Skills** | Deception +2, Religion +2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 Cultists swear allegiance to dark powers, and in their beliefs and practices often show signs of madness.
 
@@ -12143,14 +12826,16 @@ Cultists swear allegiance to dark powers, and in their beliefs and practices oft
 *Hit:* 4 (1d6 + 1) slashing damage.
 
 Acolyte
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Skills**: First Aid +4, Religion +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Skills** | First Aid +4, Religion +2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/4 (50 XP) |
 
 Acolytes are members of the minor clergy, usually reporting to a higher-ranking priest. They perform various functions in a temple and are granted by their deity the ability to cast minor spells.
 
@@ -12165,14 +12850,16 @@ level 1 (3 slots): *Bless, Cure Wounds, Sanctuary*
 *Hit:* 2 (1d4) bludgeoning damage.
 
 Cult leader
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Skills**: Deception +4, Religion +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common and one other language
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Skills** | Deception +4, Religion +2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common and one other language |
+| **Challenge** | 1 (200 XP) |
 
 They are the leaders of a cult, who use their charisma and dogmas to influence the weak-willed.
 
@@ -12193,13 +12880,15 @@ level 2 (3 slots): *Spiritual Weapon, Hold Person*
 *Hit:* 4 (1d4 + 2) piercing damage.
 
 High Priest
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +5
-- **Movement**: 7 m
-- **Languages**: two languages of your choice
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +5 |
+| **Movement** | 7 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 2 (450 XP) |
 
 They are individuals in command of a temple or other sacred place and who have several acolytes at their disposal.
 
@@ -12224,13 +12913,15 @@ level 3 (2 slots): *Dispel Magic*
 These individuals live on the fringes of civilization, sometimes rarely coming into contact with it. Uncomfortable within walls and in civilized lands, they are in their element when they can move through the wilderness.
 
 Berserker
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1
-- **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1 |
+| **Hit Points** | 52, **Defense:** 15, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 2 (450 XP) |
 
 Coming from wild lands, unpredictable berserkers gather in war bands and are always looking for conflicts to fight in.
 
@@ -12241,13 +12932,15 @@ Coming from wild lands, unpredictable berserkers gather in war bands and are alw
 *Hit:* 9 (1d12 + 3) slashing damage.
 
 Tribal Warrior
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1
-- **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1 |
+| **Hit Points** | 17, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 They are the defenders of tribes living on the fringes of civilization.
 
@@ -12258,14 +12951,16 @@ They are the defenders of tribes living on the fringes of civilization.
 *Hit:* 4 (1d6 + 1) piercing damage
 
 Druid
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Skills**: First Aid +4, Nature +3, Awareness +4
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +4
-- **Movement**: 9 m
-- **Languages**: Druidic plus two other languages
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Skills** | First Aid +4, Nature +3, Awareness +4 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +4 |
+| **Movement** | 9 m |
+| **Languages** | Druidic plus two other languages |
+| **Challenge** | 2 (450 XP) |
 
 Druids protect the natural world from monsters and the advance of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance. They are usually devoted to Efrem or Shayalia.
 
@@ -12282,14 +12977,16 @@ level 2 (3 slots): *Animal Messenger, Barkskin*
 *Hit:* 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with *Shillelagh* or if wielded with two hands.
 
 Scout
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Skills**: Stealth +6, Nature +4, Awareness +5, Survival +5
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Skills** | Stealth +6, Nature +4, Awareness +5, Survival +5 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/2 (100 XP) |
 
 Skilled hunters and trackers.
 

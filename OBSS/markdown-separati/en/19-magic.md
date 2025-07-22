@@ -186,7 +186,7 @@ If the modifier is 3, the maximum castable level will be 6th level or 7th level 
 
 ## Distracted - Problems in casting the spell
 
-If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must make a **Magic Check**.
+If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must pass a **Magic Check**.
 
 ## Magic Check
 

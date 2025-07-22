@@ -187,7 +187,7 @@ Negli esempi sopra se il modificatore di caratteristica per incantesimi è 3 il 
 
 ## Distratto - Problemi nel lancio dell'incantesimo
 
-Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco/minacciato mentre cerca di lanciare un incantesimo, **che non sia un Trucchetto**, deve effettuare una **Prova di Magia**.
+Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco/minacciato mentre cerca di lanciare un incantesimo, **che non sia un Trucchetto**, deve superare una **Prova di Magia**.
 
 ## Prova di Magia
 

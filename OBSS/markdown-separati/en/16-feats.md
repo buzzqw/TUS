@@ -40,9 +40,13 @@ Remember to also mark the bonuses related to Saving Throws. Typically, a concret
 ## List of Feats
 
 ## Accelerated Healing
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution
+
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution |
 
 Your natural healing processes are extremely efficient. The abilities stack.
 
@@ -53,9 +57,13 @@ The **second time**, requirement Constitution 1, that you take this Feat, at the
 The **third time**, requirement Constitution 2, that you take this Feat, after a night' \*\*s rest you recover double the Hit Points.
 
 ## Animalia
-- **Requirement**:: Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2.
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2. |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 You gain the ability to transform into a known creature. Cost 2 Actions.
 
@@ -130,27 +138,39 @@ From the new form, you acquire characteristics and abilities, such as senses, mo
 When you are transformed, you can channel your Magic Points to improve the transformation; for each Magic Point used, you get a +1 to Attack Roll, damage with attacks, Defense, and Saving Throws. This ability must be declared at the beginning of the round as an Immediate Action that lasts until the beginning of your next round. You cannot use more Magic Points at once than the number of times you have taken the Animalia Feat.
 
 ## Archer on sauromount
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Wisdom |
 
 The penalty for shooting arrows from a sauromount decreases by 2 each time you take this Feat.
 
 The standard penalties are -4 and -6 depending on whether you trot (movement x2) or gallop (movement x3)
 
 ## Armed
-- **Requirement**:: Strength 3, Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Strength 3, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Strength or Constitution |
 
 The **first time** you take this Feat, when you use a weapon that is too large for your size, the attack penalty becomes -2.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 6, you have no penalty when using a weapon one size larger than your own.
 
 ## Armor of the Devoted
-- **Requirement**:: Single Trait value in common with Patron 4, being a Devotee or Follower
-- **Saving Throws**:: +2 Will, +1 Reflex
-- **Ability Score**:: Constitution or Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Single Trait value in common with Patron 4, being a Devotee or Follower |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Reflex |
+| **Ability Score**: | Constitution or Ability modifier for spells |
 
 The **first time** you take this Ability, constant training with your armor reduces the Magic Check penalty by 2 when wearing light armor.
 
@@ -161,9 +181,13 @@ The **third time** you take this Ability, single Trait 8 requirement, wearing li
 The **fourth time** you take this Ability, single Trait 12 requirement, Magic Checks for wearing armor are only mandatory if you wear heavy armor and you reduce the penalty by 12.
 
 ## Armor of the Enchanted Mountain
-- **Requirement**:: Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Wisdom |
 
 Constant training in spirit and body allows you to harden your skin and make it more difficult to wound. To benefit from these bonuses, you must not wear armor or shields or items that improve Defense. The listed capabilities do not stack with the Silver Crane Feat.
 
@@ -178,9 +202,13 @@ The **fourth time** you take this Feat, requirement Empty Fist 8, you acquire da
 The **fifth time** you take this Feat, requirement Empty Fist 13, you acquire damage reduction (DR) of 5/-
 
 ## Arrow Called, Arrow Delivered
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 It' \*\*s just a matter of a moment before you light up!
 
@@ -189,18 +217,26 @@ You can shoot 1 arrow/bolt, once per day, as a Reaction, without penalties to hi
 The bow/crossbow must already be in hand.
 
 ## Black Siphon
-- **Requirement**:: Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 When you cast a spell that has instantaneous duration and causes damage to Hit Points to one or more subjects, by increasing by half (rounded up) the Magic Points used in the spell, you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
 
 The casting time of the spell increases to 3 Actions.
 
 ## Blade Dance
-- **Requirement**:: Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Charisma or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Charisma or Dexterity |
 
 The **first time** you take this Feat, when using Graceful Weapons, you can replace only the damage given by Strength in melee attacks with half the value of Charisma or Dexterity.
 
@@ -211,9 +247,13 @@ The **third time**, requirement Graceful Weapons 7, Entertain 5, you take this F
 The second and third advantages are not cumulative.
 
 ## Blind Fighting
-- **Requirement**:: Awareness 2
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Awareness 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Wisdom |
 
 The **first time** you take this Feat, an opponent with light cover gets no bonus to Defense, with medium cover has a +2 to Defense, with full cover has a +6 to Defense.
 
@@ -228,18 +268,26 @@ The penalty to Attack Roll against invisible creatures is -2.
 *Zatoichi level*, the **third time** you take this Feat, requirement Awareness 5, in melee an invisible creature has no advantage against you nor do you have a penalty against it.
 
 ## Blockhead
-- **Requirement**:: Crossbow List 4
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Crossbow List 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Dexterity or Intelligence |
 
 You can impart a deadly effect to your projectiles.
 
 Your crossbow bolt increases by one damage size.
 
 ## Bloodhound
-- **Requirement**:: Intelligence 1, Wisdom 1, Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Intelligence
+
+pX}
+
+| **Requirement**: | Intelligence 1, Wisdom 1, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Intelligence |
 
 You have a natural talent for tracking people
 
@@ -252,9 +300,13 @@ The **third** time you take this Feat, requirement Weapon Proficiency 16, Wisdom
 The bonus can be used for Attack Rolls, Saving Throws caused by the opponent, and Basic skill checks, but not for damage.
 
 ## Brew Potions
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Wisdom or Intelligence
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Wisdom or Intelligence |
 
 You are more than competent in brewing potions.
 
@@ -263,18 +315,26 @@ The **first time** you take this Feat, you gain a bonus of +1d6 on Herbalism Kno
 The **second time** you take this Feat, the time to prepare potions/poisons is halved and in case of Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
 
 ## Cautious Caster
-- **Requirement**:: Magic Proficiency 8
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic Proficiency 8 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 When a hostile creature enters a space within 1 meter of you for the first time, you can use a Reaction to cast a cantrip, within 2 Actions, without enhancements or Magic Check.
 
 This Feat does not affect the fact that you are still Distracted in casting a subsequent spell.
 
 ## Channel Energy
-- **Requirement**:: Laying on Hands, Magic Proficiency 1, Common Traits 4
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Constitution
+
+pX}
+
+| **Requirement**: | Laying on Hands, Magic Proficiency 1, Common Traits 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Constitution |
 
 You are able to use the energy of Laying on Hands to create an energy aura around you.
 Through Laying on Hands, you create an instantaneous aura within a radius of 3 meters around you that heals or harms 5 Hit Points to all creatures present for every 2 uses consumed.
@@ -284,16 +344,24 @@ Each time you take this Feat, beyond the first, you increase the radius by 1 met
 The energy comes from your body and influences yourself and the creatures around you. Reflex Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom to avoid the effect.  2 Actions.
 
 ## Clinical Eye
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Strength
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Strength |
 
 You are able to do critical damage to creatures normally immune to criticals.
 
 ## Colossus
-- **Requirement**:: Constitution 1
-- **Saving Throws**:: +3 Fortitude
-- **Ability Score**:: Constitution or Strength
+
+pX}
+
+| **Requirement**: | Constitution 1 |
+| --- | --- |
+| **Sav. Throws**: | +3 Fortitude |
+| **Ability Score**: | Constitution or Strength |
 
 Perhaps once you were frail and weak, now you are a mountain of muscle.
 
@@ -308,9 +376,13 @@ The bonuses are cumulative and retroactive to previous levels, except for the in
 The **fourth time**, requisite Constitution 3, you take this Feat, you increase by one size (S > M > L).
 
 ## Combat Caster
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, when you are Distracted you can ignore one die in the Magic Check.
 
@@ -321,9 +393,13 @@ The **third time**, requirement Magic Proficiency 12, that you take this Feat, w
 This Feat can be used in the Magic Check required by Warrior of Magic. The indicated capabilities are cumulative.
 
 ## Coordinated Damage
-- **Requirement**:: Weapon Proficiency 6, Wisdom 2
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Charisma or Intelligence
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 6, Wisdom 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Charisma or Intelligence |
 
 Your experience in managing allies allows you to maximize the effectiveness of attacks.
 
@@ -334,9 +410,13 @@ The **second time** you take this Feat, requirement Weapon Proficiency 8, Intell
 The Attack Rolls must hit in order to apply the damage to the other opponent.
 
 ## Create Magic Items
-- **Requirement**:: Magic Proficiency 6
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, through this Feat the spellcaster is able to infuse a spell up to level 3 into a magic item.
 
@@ -347,16 +427,24 @@ The **third time** you take this Feat, requirement Magic Proficiency 16, the spe
 The **fourth time** you take this Feat, requirement Magic Proficiency 18, the spellcaster is able to infuse a spell up to level 9 into a magic item.
 
 ## Dancing Scourge
-- **Requirement**:: Weapon Proficiency 1, using a weapon from the Rolling Balls list
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, using a weapon from the Rolling Balls list |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 When you use your weapon from the Rolling Balls list, you have a bonus of +1 to Attack Roll and +1 to Defense.
 
 ## Daredevil
-- **Requirement**:: Weapon Proficiency +2, Dexterity 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency +2, Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Constitution |
 
 You like to throw yourself into the fray, especially if there are dangers! The bonuses are cumulative.
 
@@ -365,9 +453,13 @@ The **first time** you take this Feat, you have a +1 to Attack Roll in melee and
 The **second time** you take this Feat, you have a +2 to Attack Roll in melee and to Defense if you are in melee with 2 or more opponents.
 
 ## Daughter of Shayalia
-- **Requirement**:: Devotee or Follower of Shayalia
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Ability modifier for spells or Charisma
+
+pX}
+
+| **Requirement**: | Devotee or Follower of Shayalia |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Ability modifier for spells or Charisma |
 
 You have a deep and instinctive connection with the natural world.
 
@@ -380,32 +472,48 @@ The **third time** you take this Feat, requirement sum of common Traits 12, you 
 The **fourth time** you take this Feat, requirement Animalia taken 4 times, you can transform using Animalia into any creature as long as it is not a fiend or dragon.
 
 ## Deadly Strike
-- **Requirement**:: Weapon Proficiency 5
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Strength
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Strength |
 
 Make the Attack Roll with a penalty of -1d6; if you hit, you cause 2 critical damages. Subsequent Attack Rolls start at -10 to hit.
 
 ## Debilitating Strike
-- **Requirement**:: Sneak Attack 3, Weapon Proficiency 12
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Intelligence or Dexterity
+
+pX}
+
+| **Requirement**: | Sneak Attack 3, Weapon Proficiency 12 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Intelligence or Dexterity |
 
 Debilitating Strike is an advanced form of sneak attack. Each Debilitating Strike lowers Strength or Dexterity (player' \*\*s choice) by how many times you have taken Sneak Attack.
 
 The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Roll. You cause the additional damage of the Sneak Attack or the loss of ability points.
 
 ## Decipher Magical Writings
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Wisdom
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 Has a bonus of +1d6 in understanding the content of a scroll and in casting the spell contained. The bonus also applies to the check to copy a spell into your Book of Magic.
 
 ## Defend Mount
-- **Requirement**:: Ride 1
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Ride 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 Whenever your mount is hit, you can make a Ride check to negate the hit.
 
@@ -414,16 +522,24 @@ Your Ride check must be greater than the opponent' \*\*s Attack Roll.
 This Feat can only be used once per round, for a single attack, and costs the Reaction.
 
 ## Double Portion
-- **Requirement**:: Two weapon Fighting, Weapon Proficiency 4
-- **Saving Throws**:: +2 Fortitude, +1 Reflex
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Two weapon Fighting, Weapon Proficiency 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Reflex |
+| **Ability Score**: | Strength or Constitution |
 
 Constant training with two weapons allows you to apply the damage bonus due to Strength fully to the off-hand weapon as well.
 
 ## Elemental Form
-- **Requirement**:: Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Constitution
+
+pX}
+
+| **Requirement**: | Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Constitution |
 
 When you transform with the Animalia Feat, choose an element from the learned spells present in an Elemental Magic List.
 
@@ -436,9 +552,13 @@ The **third time** you take this Feat, requirement Magic Proficiency 14, your at
 If you are a Devotee or Follower of Gaya or Erondil, it is not necessary to transform into an animal; the damage type applies to your melee attacks.
 
 ## Elementalist
-- **Requirement**:: Magic Proficiency 3, At least 4 spells from Elemental Magic List
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Constitution
+
+pX}
+
+| **Requirement**: | Magic Proficiency 3, At least 4 spells from Elemental Magic List |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Constitution |
 
 The **first time** you take this Feat, choose a type of Elemental Energy: Fire, Electricity, Cold, Sound.
 
@@ -448,9 +568,13 @@ The casting time of the spell increases by 1 Action; if the total casting time e
 The **second time** you take this Feat, requirement Magic Proficiency 6, choose a new type of Energy. When making the substitution, you can choose between the available energy types. You no longer have the penalty to the spell' \*\*s casting time.
 
 ## Expert
-- **Requirement**:: Related ability score at least -1
-- **Saving Throws**:: +1 to two Saving Throws of your choice.
-- **Ability Score**:: choice
+
+pX}
+
+| **Requirement**: | Related ability score at least -1 |
+| --- | --- |
+| **Sav. Throws**: | +1 to two Saving Throws of your choice. |
+| **Ability Score**: | choice |
 
 You are an expert in a subject.
 
@@ -467,27 +591,39 @@ The bonuses are cumulative if always referring to the same Skill.
 Not usable on Awareness (see Perceptive, page ).
 
 ## Extended Battery
-- **Requirement**:: Magic Proficiency 1, Magic Adept
-- **Saving Throws**:: + 1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Magic Adept |
+| --- | --- |
+| **Sav. Throws**: | + 1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells |
 
 You can better withstand the stress of casting spells.
 
 When you make a Magic Check and achieve at least one Critical Magic Success, the cost of the spell decreases by one point, with a minimum cost of 1.
 
 ## Eyes of Magic
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Charisma
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Charisma |
 
 The **first time** you take this Feat, if you can see it, you also know if it' \*\*s magical. It costs one Action to activate magical sight and lasts one round.
 
 The **second time**, requirement Magic Proficiency 1, that you take the Feat, activating magical sight costs a Reaction.
 
 ## Faithful
-- **Requirement**:: Magic Proficiency 1, Sum of common Traits 2, being a Devotee
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Wisdom
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Sum of common Traits 2, being a Devotee |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 Your connection with the Patron is strong and energetic. You increase your Magic Points by 3 points.
 
@@ -496,9 +632,13 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 This Feat does not stack with the Magic Battery Feat.
 
 ## Fast Step
-- **Requirement**:: Dexterity 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Constitution
+
+pX}
+
+| **Requirement**: | Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Constitution |
 
 Your step is naturally quick.
 If you have movement 6m, you step at movement 7m; if you have movement 9m, you step at movement 10m.
@@ -506,18 +646,26 @@ If you have movement 6m, you step at movement 7m; if you have movement 9m, you s
 Each additional **two times** you take the Feat, your movement increases by 1 meter per Movement Action, up to a maximum of +3 meters per round.
 
 ## Feign Death
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +1 Will, +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 As a Reaction Action, you are able to fall to the ground (collapse!) dead. Only a First Aid check DC 20 can reveal that you are alive.
 
 The effect lasts at most 2 minutes. Feigning death cannot be repeated at intervals of less than 10 minutes apart.
 
 ## Ferocity
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Strength
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Strength |
 
 Your rage is such that it temporarily defeats death.
 
@@ -534,39 +682,59 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 11, you c
 The player can choose only one level of Ferocity to use in the encounter (2, 3, 4).
 
 ## First Blood
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Intelligence or Charisma
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Intelligence or Charisma |
 
 The first Attack Roll of the day has a bonus of +1d6 and causes a critical hit if it hits.
 
 ## Focused
-- **Requirement**:: Magic Proficiency 2
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells |
 
 Choose a Magic List; the DC of your spells' \*\* Saving Throws in that list increases by 1.
 
 This Feat can be taken multiple times on the same Magic List or on other lists, and the total must be equal to or less than MP/4.
 
 ## Focused Weapon
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Strength or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Strength or Dexterity |
 
 Choose a weapon in a Weapon List you know. You gain a +1 to Initiative and Attack Roll when using this weapon.
 
 ## Forged in Fury
-- **Requirement**:: Weapon Proficiency 5
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Strength or Constitution |
 
 When you make a critical hit with a melee attack is considered that you have hit by a margin 2 more for counting critical hit.
 
 ## Fury
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Your fighting style is represented by blind murderous rage.
 
@@ -575,16 +743,24 @@ Add +1d6 to damage for each successful melee attack and your opponents gain +1d6
 You can decide to activate this Feat round by round. It costs 1 Immediate Action and lasts until the beginning of your next round.
 
 ## Hard to Kill
-- **Requirement**:: -
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | - |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Wisdom |
 
 You are particularly stubborn about not wanting to die. The character increases by 3 Hit Points the tolerance before dying, meaning they die at 13+CON*2.
 
 ## Hawk Eye
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, projectiles, arrows, or darts launched between the first and second range increment have no penalty to the Attack Roll.
 
@@ -593,9 +769,13 @@ The **second time** you take this Feat, the penalty for shots within the third r
 The **third time** you take this Feat, you are able to extend your shot even further and take it to a fifth increment with a -12 penalty to hit. You have no penalties within the first 3 increments while you have -6 to hit between the third and fourth increment.
 
 ## Healer
-- **Requirement**:: Wisdom 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom
+
+pX}
+
+| **Requirement**: | Wisdom 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom |
 
 You have a natural talent for healing people.
 
@@ -604,23 +784,35 @@ The **first time** you take this Feat, you have +4 on First Aid checks.
 The **second time** you take this Feat, requirement sum of traits in common with Patron Ledyal 8, every time you use a healing spell you recover 1 Hit Point and the healed creature gains +1d6 Hit Points more.
 
 ## Hit and Run
-- **Requirement**:: Dexterity 1, Weapon Proficiency 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Dexterity 1, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 If in the round you execute at least one attack, these have a base penalty of -5, and you can perform an additional Movement Action. It is not possible to execute more than one bonus Movement Action in this way. It costs an Immediate Action.
 
 ## I said FALL!
-- **Requirement**:: Weapon Proficiency 4
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 If you hit an opponent 3 times within 2 rounds, they must make a Fortitude Saving Throw with a DC equal to the Attack Roll of the last attack or fall prone. The Saving Throw has a 1d6 modifier for each size difference.
 
 ## Iaijutsu
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Intelligence or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Intelligence or Dexterity |
 
 The **first time** you take this Feat, you take a step of one meter, attack once, and return to where you were, all in less than the blink of an eye.
 
@@ -631,24 +823,36 @@ The **third time**, requirement WP 12, that you take this Feat, you can move you
 Consumes two Actions.
 
 ## Improved Initiative
-- **Requirement**:: Intelligence or Dexterity 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Intelligence or Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 Increase initiative by +1. This Feat can be taken up to 2 times and the bonus is cumulative.
 
 ## Improvise
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 Any object that might be defined as an improvised weapon is not improvised for you.
 You do not suffer penalties to hit when using an improvised weapon. You gain a +1 to damage when using an improvised weapon.
 
 ## Infuriate
-- **Requirement**:: Weapon Proficiency 2 and Charisma or Strength 2
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Strength or Charisma
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 and Charisma or Strength 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Strength or Charisma |
 
 You spend 2 Actions defaming and railing against an opponent.
 
@@ -657,9 +861,13 @@ The target must make an opposed Will Saving Throw check against your Entertain o
 The opponent may not understand your language but must have Intelligence equal to -2 or higher.
 
 ## Infuse Magical Energy
-- **Requirement**:: Weapon Proficiency 1, Magic Proficiency 2
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 You know how to manipulate magical energies instinctively and infuse them into weapons. It costs 1 Action to infuse magic into the weapon.
 
@@ -672,9 +880,13 @@ The **second time** you take this Feat, requirement Magic Proficiency 4, you can
 The **third time** you take this Feat, requirement Magic Proficiency 8, you can use six Magic Points and a weapon you come into contact with becomes a +3 weapon for 6 rounds; if it' \*\*s already enchanted, it acquires an additional bonus of +2 up to a maximum of +4.
 
 ## Infuse Superior Magical Energy
-- **Requirement**:: Weapon Proficiency 4, Magic Proficiency 6
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 4, Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 You know how to infuse the weapon with magical energy to make it acquire fantastic capabilities.
 
@@ -691,9 +903,13 @@ The **third time** you take this Feat, using three Magic Points per round, you c
 The abilities are not cumulative; you must choose which to apply round by round.
 
 ## Inspire Courage
-- **Requirement**:: Charisma 2, Entertain 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+
+pX}
+
+| **Requirement**: | Charisma 2, Entertain 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 Through your performance - singing, dancing, oratory, or artistic in general - you are able to inspire courage in companions who can hear or see you, within a radius of 6 meters.
 
@@ -710,9 +926,13 @@ You can maintain the Feat for a number of rounds, even non-consecutive, equal to
 Creatures must continue to see/hear your performance to remain influenced.
 
 ## Instill Fear
-- **Requirement**:: Charisma 2
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Constitution
+
+pX}
+
+| **Requirement**: | Charisma 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Constitution |
 
 Through your performance - singing, dancing, oratory... you are able to Instill Fear in opponents who can hear you, within a radius of 6 meters.
 
@@ -727,18 +947,26 @@ The opponent is allowed a Will Saving Throw DC equal to 10+CHA+Entertain score. 
 Activating, maintaining, or changing the effect of the Feat requires 2 Actions and lasts until the beginning of your next round. You can maintain the Feat for a number of rounds, even non-consecutive, equal to Entertain score x 3 per day. Creatures must continue to see/hear the performance to remain influenced.
 
 ## Instinctive Knowledge
-- **Requirement**:: Knowledge 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Intelligence
+
+pX}
+
+| **Requirement**: | Knowledge 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Intelligence |
 
 You never forget an enemy.
 
 You have an instinctive ability to remember and evaluate an enemy. When you take this Feat, you can make a Recognizing a Monster check (page ) using a Reaction.
 
 ## Iron Fist
-- **Requirement**:: Empty Fist List 3
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Dexterity
+
+pX}
+
+| **Requirement**: | Empty Fist List 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Dexterity |
 
 Your unarmed combat technique is extremely precise and powerful.
 
@@ -757,9 +985,13 @@ The **sixth time** you take this Feat, Requirement Empty Fist 18. Damage +2, Att
 The indicated bonuses are cumulative.
 
 ## Iron Will
-- **Requirement**:: Wisdom 0
-- **Saving Throws**:: none
-- **Ability Score**:: Wisdom or Charisma
+
+pX}
+
+| **Requirement**: | Wisdom 0 |
+| --- | --- |
+| **Sav. Throws**: | none |
+| **Ability Score**: | Wisdom or Charisma |
 
 Over time, you have trained your will to resist any weakness and fear.
 
@@ -768,9 +1000,13 @@ The **first time** you take this Feat, you gain a +2 bonus to Will Saving Throws
 The **fourth time** you take this Feat, you can decide to automatically succeed on a Will Saving Throw once per day before having rolled the dice.
 
 ## Juggler
-- **Requirement**:: Dexterity 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Charisma
+
+pX}
+
+| **Requirement**: | Dexterity 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Charisma |
 
 You have a natural talent for handling objects.
 
@@ -780,9 +1016,12 @@ You can throw a second dagger as an Immediate Action following an Attack action 
 
 ## Laying on Hands
 
-- **Requirement**:: Magic Proficiency 1, Common Traits 3, being Devoted or Follower
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Common Traits 3, being Devoted or Follower |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 If your Traits are in common with a positive Patron, you can channel healing energy (healing/damaging effect on undead), if they are in common with a neutral or evil Patron, you can channel negative energy (damaging/healing effect on undead).
 
@@ -814,9 +1053,12 @@ Fortitude Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom 
 
 ## Lightning Reflexes
 
-- **Requirement**:: Dexterity 1
-- **Saving Throws**:: none
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | none |
+| **Ability Score**: | Dexterity or Intelligence |
 
 Over time you have trained your reflexes to dodge and anticipate any obstacle. The bonus is cumulative, +2 the **first time**, +1 the **second**, +1 the **third** to Reflex Saving Throws.
 
@@ -824,9 +1066,12 @@ The **fourth time** you take this Feat, you can automatically succeed on a Refle
 
 ## Loaded Dice
 
-- **Requirement**:: Magic Proficiency 6
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Wisdom or Charisma
+pX}
+
+| **Requirement**: | Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Wisdom or Charisma |
 
 The **first time** you take this Feat, you can increase by 1, up to a value of 6, one die in the Magic Check.
 
@@ -834,9 +1079,12 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 
 ## Lucky
 
-- **Requirement**:: none
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Charisma or Dexterity
+pX}
+
+| **Requirement**: | none |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Charisma or Dexterity |
 
 Once per day, you can make the Narrator reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
 
@@ -844,9 +1092,12 @@ This Feat can be declared even after the dice have been rolled.
 
 ## Magic Adept
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 to two Saving Throws of your choice.
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 to two Saving Throws of your choice. |
+| **Ability Score**: | Ability modifier for spells |
 
 Through this Feat you deepen your ability to cast spells.
 
@@ -858,9 +1109,12 @@ This Feat can be taken multiple times as long as it is less than MP/2.
 
 ## Magic Battery
 
-- **Requirement**:: Magic Proficiency 3
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 You have a particular connection with the magic that permeates the Earth.
 
@@ -870,25 +1124,34 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 
 ## Magical Roots
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 While you are affected by one of your spells, using an Action your weapon gains a +1 to hit and damage and is considered a magic weapon until the end of the round.
 
 ## Mental Wall
 
-- **Requirement**:: Wisdom +1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Wisdom
+pX}
+
+| **Requirement**: | Wisdom +1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 Your mind is trained against those who want to influence it. Each time you take this Feat, you gain +1 to Saving Throws against spells from the Enchantment Magic List.
 
 ## Mighty Blows
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Strength or Constitution |
 
 Your style emphasizes powerful blows.
 
@@ -896,10 +1159,12 @@ You gain a +1 to damage with a Weapon List.
 
 ## My Death Your Death
 
-- **Requirement**:: Weapon Proficiency 1, Strength 1
+pX}
 
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Charisma or Strength
+| **Requirement**: | Weapon Proficiency 1, Strength 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Charisma or Strength |
 
 For each single opponent in combat, you can make the first hit of the encounter cause additional damage equal to twice your Weapon Proficiency. The opponent gains a bonus to Attack Roll and damage equal to the value of your Weapon Proficiency on the first Attack Roll made before the end of the next round.
 
@@ -907,17 +1172,23 @@ The Feat must be declared before the Attack Roll and lasts until the beginning o
 
 ## My Head is Harder
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Your weapon, present in the Skull Crusher Weapons List, does +2 damage
 
 ## My Skin
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +3 Fortitude
-- **Ability Score**:: Constitution or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +3 Fortitude |
+| **Ability Score**: | Constitution or Strength |
 
 You have an almost symbiotic relationship with your armor.
 
@@ -927,9 +1198,12 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, the De
 
 ## One Arm, One Weapon
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Choose a Weapon List. The Strength damage applied by weapons from that list increases by 1.
 
@@ -939,9 +1213,12 @@ If you take this Feat **4 times** on the same Weapon List, the damage bonus is r
 
 ## One Belief
 
-- **Requirement**:: Magic Proficiency 2
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 The character dedicates their life to the study and perfection of a single Magic List.
 
@@ -967,17 +1244,23 @@ The **sixth time** you take this Feat, requirement Magic Proficiency 20, in the 
 
 ## One Body, One Mind, One Spirit
 
-- **Requirement**:: none
-- **Saving Throws**::  +1 of choice
-- **Ability Score**:: none
+pX}
+
+| **Requirement**: | none |
+| --- | --- |
+| **Sav. Throws**: | +1 of choice |
+| **Ability Score**: | none |
 
 Assign one point to Weapon Proficiency or Magic Proficiency. This Feat can be taken at most 2 times.
 
 ## One Hit One Kill
 
-- **Requirement**:: Magic Proficiency 1, Magic Adept 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Magic Adept 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, you gain a +1 to Attack Rolls for spells that require an Attack Roll.
 
@@ -985,17 +1268,23 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 
 ## One with Magic
 
-- **Requirement**:: Magic Adept
-- **Saving Throws**:: +1 in two Saving Throws of your choice
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Adept |
+| --- | --- |
+| **Sav. Throws**: | +1 in two Saving Throws of your choice |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your modifier spell score has a +1 to the value for determining spell effects, Magic Points, know spell, and maximum level of castable spell.
 
 ## One with the Bow
 
-- **Requirement**:: Weapon Proficiency 4
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 4 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Constitution |
 
 Despite the name, this Feat applies to all weapons that launch projectiles.
 
@@ -1005,9 +1294,12 @@ The **second time** you take this Feat, Dexterity 3 and Weapon Proficiency 7, th
 
 ## Only Child
 
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Wisdom
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 The **first time** you take this Feat, choose a Magic List and two Cantrips from this list. You can cast these two Cantrips without a Magic Check even if you are being Distracted or with armor limitations.
 
@@ -1023,25 +1315,34 @@ Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cas
 
 ## Opportunist
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Intelligence or Dexterity
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Intelligence or Dexterity |
 
 You can attempt to hit an opponent in melee who **exits** or **crosses** a melee area that you threaten or who **uses a throwing weapon** in your melee area or **formulates a spell**. The Feat is usable as a Reaction. This attack is also called an opportunity attack.
 
 ## Paralyzing Strike
 
-- **Requirement**:: Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Strength or Dexterity
+pX}
+
+| **Requirement**: | Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Strength or Dexterity |
 
 You dedicate 2 Actions per Round, for 5 rounds, to studying an opponent you can threaten. In the sixth round, using 2 Actions, you deliver a melee or ranged attack. The opponent must make a Fortitude Saving Throw with DC equal to the Attack Roll or remain paralyzed for 3d6 rounds. The creature must not be 2 sizes larger than you.
 
 ## Parry
 
-- **Requirement**:: Weapon Proficiency 3 or Empty Fist 2
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Strength or Dexterity
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 or Empty Fist 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Strength or Dexterity |
 
 The **first time** you take this Feat, when you use the Action to Prepare Defense (p. ), this increases by 1.
 
@@ -1053,9 +1354,12 @@ Using the Parry Feat must be declared in your round and remains active until the
 
 ## Perceptive
 
-- **Requirement**:: Wisdom 0
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Intelligence
+pX}
+
+| **Requirement**: | Wisdom 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Intelligence |
 
 Your Awareness and attention to detail is above average.
 
@@ -1063,9 +1367,12 @@ Take a +1 bonus to Awareness checks. This Feat can be taken a maximum of 3 times
 
 ## Perfectionist
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Charisma |
 
 The **first time** you take this Feat, when you throw a projectile, you decrease the Cover penalty by 2.
 
@@ -1073,10 +1380,12 @@ The **second time** you take this Feat, Weapon Proficiency 4, reduce the Cover p
 
 ## Pet / Familiar
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Will, +1 Fortitude
+pX}
 
-- **Ability Score**:: Intelligence or Ability modifier for spells
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Intelligence or Ability modifier for spells |
 
 The **first time** you take this Feat, you gain a natural animal. This pet has a Challenge Rating equal to one-quarter of your Wisdom, with a minimum of 1/4. You can teach basic actions to your animal and have it perform simple tasks.
 
@@ -1084,9 +1393,12 @@ The **second time** you take this Feat, you gain a Familiar (page ).
 
 ## Phoenix Wings
 
-- **Requirement**:: Empty Fist List 3, Silver Crane 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Empty Fist List 3, Silver Crane 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 Your fighting style emphasizes long-range strikes such as punches and flying kicks.
 
@@ -1097,9 +1409,13 @@ The **second time** you take this Feat, requirement Empty Fist List 6, Silver Cr
 The **third time** you take this Feat, requirement Empty Fist List 12, Silver Crane 4, Iron Fist 2, your melee reach becomes 4 meters.
 
 ## Immunity to Poisons
-- **Requirement**:: Constitution 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | Constitution 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Wisdom |
 
 The **first time** you take this Feat, the body gets used to poisons, the character gains a +2 Saving Throw against poisons.
 
@@ -1109,17 +1425,23 @@ The **third time** you have a +1d6 to Saving Throws against magical poisons and 
 
 ## Polyglot
 
-- **Requirement**:: at least Intelligence -1, at character creation
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Intelligence or Charisma
+pX}
+
+| **Requirement**: | at least Intelligence -1, at character creation |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Intelligence or Charisma |
 
 You have an extraordinary ability to learn languages. For each point assigned to Language Knowledge, you know two additional languages.
 
 ## Power of the Patron
 
-- **Requirement**:: Sum of Common Traits with the Patron 1, being Devoted
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Sum of Common Traits with the Patron 1, being Devoted |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your faith in the Patron knows no limits or crashes of trust.
 
@@ -1129,9 +1451,12 @@ If all three checks succeed, it is likely that there will be a Manifestation of 
 
 ## Powerful Fist
 
-- **Requirement**:: Empty Fist List 3
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Empty Fist List 3 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Consumes 2 Actions. Make a single Attack Roll with -5 penalty.
 If you hit, in addition to the damage and a critical hit, the opponent, who must be at most two sizes larger than you, must make a Fortitude Saving Throw with DC equal to your Attack Roll or be pushed 3 meters in a direction of your choice.
@@ -1140,9 +1465,12 @@ If they critically fail the Saving Throw, they suffer an additional critical hit
 
 ## Powerful Magics
 
-- **Requirement**:: Magic Proficiency 5
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your spells are extraordinarily effective.
 
@@ -1150,18 +1478,25 @@ Choose a Magic List, gain +1d6 to the Magic Check when casting spells from this 
 
 ## Precise Shot
 
-- **Requirement**:: Dexterity 3, Weapon Proficiency 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Dexterity 3, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 At close range, you know how to hit where it hurts.
 
 You gain +1 to Attack Roll and damage with thrown weapons when the target is within 9 meters.
 
 ## Press On
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Dexterity |
 
 The **first time** you take this Feat, if you eliminate an opponent with your last Attack Action in melee, you can make a bonus attack action.
 
@@ -1175,9 +1510,12 @@ Each bonus attack beyond the first suffers a cumulative penalty: -2 to hit and -
 
 ## Prodigious
 
-- **Requirement**:: Magic Proficiency 3
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Ability modifier for spells |
 
 Your mind has no boundaries. You can learn two spells present in your Magic Tome, always respecting the limits of the maximum level of castable spells.
 
@@ -1185,9 +1523,12 @@ This Feat can be taken multiple times and the total must be equal to or less tha
 
 ## Psychic Energy
 
-- **Requirement**:: Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Charisma
+pX}
+
+| **Requirement**: | Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Charisma |
 
 After years of training, meditation, and workshops at Panda Barbat, you are able to gather your Chi Energy.
 
@@ -1199,9 +1540,12 @@ You recover 1 Chi point every 10 minutes in which the character does not perform
 
 ## Psychic Ray
 
-- **Requirement**:: Psychic Strike, Wisdom 3, Weapon Proficiency 5
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Dexterity
+pX}
+
+| **Requirement**: | Psychic Strike, Wisdom 3, Weapon Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Dexterity |
 
 The **first time** you take this Feat, you can make a ranged attack within 9 meters using Psychic Energy. The Touch Attack causes 1d6 force damage per Psychic point spent focused on damage.
 
@@ -1211,9 +1555,12 @@ The **second time** you take this Feat, requirement Wisdom 3, Weapon Proficiency
 
 ## Psychic Strike
 
-- **Requirement**:: Psychic Energy, Dexterity 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Strength
+pX}
+
+| **Requirement**: | Psychic Energy, Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Strength |
 
 The **first time** you take this Feat, you concentrate your Chi in your hands. You can concentrate a number of Chi points equal to your Wisdom.
 
@@ -1229,9 +1576,12 @@ The **fourth time** you take this Feat, Weapon Proficiency 7, Wisdom 4, if the A
 
 ## Pure Blood
 
-- **Requirement**:: Animalia, Devotee of Efrem or Shayalia
-- **Saving Throws**:: +1 Will, +2 Fortitude
-- **Ability Score**:: Ability modifier for spells or Constitution
+pX}
+
+| **Requirement**: | Animalia, Devotee of Efrem or Shayalia |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +2 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Constitution |
 
 The **first time** you take this Feat, each of your attacks when transformed with Animalia causes 1 additional damage and is considered a +1 magic attack. By concentrating on your step, you can leave the footprints of an animal you can transform into and the terrain is considered doubly difficult.
 
@@ -1243,9 +1593,12 @@ The second and third abilities are cumulative.
 
 ## Quick
 
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Strength |
 
 The **first time** you take this Feat, when an ally executes a critical roll, you can, using a reaction, make an Attack Roll, with a penalty of -1d6, against the same opponent provided it is also in melee with you.
 
@@ -1253,9 +1606,12 @@ The **second time** you take this Feat, Weapon Proficiency 6, you gain a reactio
 
 ## Quick Draw
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, you can draw a weapon that is not large for you at the cost of an Immediate Action.
 
@@ -1265,9 +1621,12 @@ The **third time** you take this Feat, you can put away your current weapon and 
 
 ## Rapid Shot
 
-- **Requirement**:: Dexterity 3, Precise Shot, Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Dexterity 3, Precise Shot, Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 You have no rival in the precision with which you hurl your projectiles.
 
@@ -1279,17 +1638,23 @@ The first shot has a normal Attack Roll, the second has a -4, the third a -8...
 
 ## Reach
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Will, +2 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +2 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 You use an Action in conjunction with your Attack Action in melee to increase the reach of your strike by 1 meter.
 
 ## Ready Defense
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 You are always vigilant and attentive when your life is at risk.
 
@@ -1297,9 +1662,12 @@ You have a +2 to Defense against opportunity attacks, attacks from behind, or fr
 
 ## Recovery
 
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution |
 
 Your body spontaneously produces caffeine!
 
@@ -1307,9 +1675,12 @@ You take half the time to recover from the Fatigued condition.
 
 ## Retaliation
 
-- **Requirement**:: Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 Seeing your friends injured fills you with rage.
 
@@ -1321,9 +1692,12 @@ You can take this Feat **up to 3 times**, each time the bonus to Attack Roll and
 
 ## Rhino
 
-- **Requirement**:: Constitution 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 Your charge is destructive! Behind you, you leave only a trail of rubble and nothing can stop you.
 
@@ -1335,9 +1709,12 @@ The **third time** you take this Feat, you have hardened your skin so much that 
 
 ## Robust
 
-- **Requirement**:: Constitution -1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution -1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 The **first time** you take this Feat, your Hit Points increase by 3.
 
@@ -1347,25 +1724,34 @@ The bonuses are cumulative and retroactive to previous levels.
 
 ## Scholar
 
-- **Requirement**:: Magic Proficiency 1, only at character creation
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 1, only at character creation |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your interest in and connection with magic is unparalleled. You can know 4 additional spells (while respecting the maximum level constraints that can be copied into your Tome).
 
 ## Scribe
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Dexterity
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Dexterity |
 
 You are extremely quick in copying new spells into your Book of Magic. The time to copy a spell changes from 1 hour to 30 minutes per page (a spell occupies a number of pages equal to its level). The cost in inks changes from 10 gp per page to 5 gp per page.
 
 ## Second Skin
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Strength |
 
 The constant use of armor allows you to wear it without particular penalties.
 
@@ -1377,17 +1763,23 @@ The **third time** you take this Feat, requirement Weapon Proficiency 11, the pe
 
 ## Shoot and Scoot
 
-- **Requirement**:: Crossbow List 3
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Crossbow List 3 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Charisma |
 
 While performing a Movement Action, you can reduce the loading time of your crossbow by 1 Action. In the case of Light or one-handed Crossbows, you can reload them while moving; in the case of heavy Crossbows, you reduce the loading time by 1 Action.
 
 ## Silver Crane
 
-- **Requirement**:: Empty Fist List 2, Dexterity 1
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Empty Fist List 2, Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 To benefit from these bonuses, you must not wear armor or shields or magical items that improve Defense. The listed abilities cannot be cumulated with the Armor of the Enchanted Mountain Feat.
 
@@ -1405,9 +1797,12 @@ The bonuses are active even if you are not fighting.
 
 ## Sneak Attack
 
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, when the opponent is surprised (see page ) with a melee weapon, if the first attack of combat hits, it causes an additional critical damage.
 
@@ -1419,9 +1814,12 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 12, you c
 
 ## Silent Step
 
-- **Requirement**:: Stealth 1
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Stealth 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Wisdom |
 
 Your step is naturally silent.
 
@@ -1431,9 +1829,12 @@ The **second time** you take this Feat, requirement Dexterity 3, Stealth 8, you 
 
 ## Son of Tazher
 
-- **Requirement**:: Devotee or Follower of Tazher, sum of common traits 10
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Devotee or Follower of Tazher, sum of common traits 10 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Wisdom |
 
 When you take this Feat, your shadow becomes the equivalent of an Invisible Servant.
 The shadow has Defense equal to 10 + highest value Trait in common with Tazher, Saving Throws equal to yours, Hit Points equal to the sum of traits in common with Tazher.
@@ -1448,9 +1849,12 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 
 ## Specialist
 
-- **Requirement**:: Magic Proficiency 3
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Choose a spell you know; the Magic Points spent to cast this spell decrease by 1, with a minimun cost of one.
 
@@ -1458,9 +1862,12 @@ This Feat can be taken multiple times on different spells each time.
 
 ## Spring
 
-- **Requirement**:: Strength 0
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Strength 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 The **first time** you take this Feat, you can ignore the requirement of 3 meters of running start before a jump.
 
@@ -1468,9 +1875,12 @@ The **second time** you take this Feat, when you make a check to jump long or hi
 
 ## Stay Down!
 
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 The **first time** you take this Feat, when your attack causes two critical hits on an opponent, the force of the blow is such as to make them prone. The opponent must make a Fortitude Saving Throw (DC equal to the last Attack Roll with the weapon that caused the last critical hit) or fall prone. The Feat works on creatures of size equal to or smaller than the character.
 
@@ -1480,9 +1890,12 @@ The **third time** you take this Feat, you can also affect creatures two sizes l
 
 ## Stone Resilience
 
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: none
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | none |
+| **Ability Score**: | Constitution or Wisdom |
 
 Over time, you have trained your Constitution to withstand impacts, transformations, poisons, and anything else that might try to modify your body.
 
@@ -1492,9 +1905,12 @@ The **fourth time** you take this Feat, you can automatically succeed on a Forti
 
 ## Storm of Fury
 
-- **Requirement**:: Empty Fist List 7, Dexterity 1, Strength 1
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Empty Fist List 7, Dexterity 1, Strength 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Strength |
 
 When you use this Feat, you can declare that you are using the Storm of Fury as your only Action (3 Actions).
 
@@ -1502,9 +1918,12 @@ You make a single Attack Roll with -1d6, and if you hit with your natural attack
 
 ## Sure Step
 
-- **Requirement**:: Wisdom 1
-- **Saving Throws**:: +2 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Constitution
+pX}
+
+| **Requirement**: | Wisdom 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Constitution |
 
 It is the ability to not be slowed down in a hostile environment. It is necessary to declare on which environment you take the Feat. In these environments, natural terrain is not difficult. As long as you move in the chosen environment, you have a +1 to Survival checks.
 
@@ -1532,9 +1951,12 @@ The **second time** you take this Feat on the same terrain, specializing, you ac
 
 ## Tactician
 
-- **Requirement**:: Weapon Proficiency 1, Intelligence 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Intelligence or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, Intelligence 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Intelligence or Charisma |
 
 You have an almost instinctive ability to manage and predict the outcome of combats. Using this Feat costs 1 Action.
 
@@ -1550,17 +1972,23 @@ The **second time** you take this Feat, requirement Intelligence 2, Weapon Profi
 
 ## The Bigger They Are, The Harder They Fall
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 When you attack a creature at least 2 sizes larger than you, you do +1 additional damage for every 2 Weapon Proficiency points. If it' \*\*s only one size larger, add 1 more damage for every 3 Weapon Proficiency points.
 
 ## The Patron is my Weapon
 
-- **Requirement**:: Sum of Common Traits with the Patron 1, being Followers
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Sum of Common Traits with the Patron 1, being Followers |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 You have no penalty to hit with the Patron' \*\*s weapon if you are not proficient in its Weapon List.
 
@@ -1578,9 +2006,12 @@ The **sixth time** you take this Feat, requirement sum of Common Traits with the
 
 ## The Patron is with me
 
-- **Requirement**:: Devoted, Sum of Common Traits with the Patron 2
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Devoted, Sum of Common Traits with the Patron 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, once per day you can reroll a die rolled in the Magic Check for casting a spell.
 
@@ -1592,9 +2023,12 @@ This Feat can be declared even after the dice are rolled. Any new value obtained
 
 ## The Shield is my Friend
 
-- **Requirement**:: Weapon Proficiency 1, Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Constitution |
 
 Your *friend* is always by your side.
 
@@ -1606,17 +2040,23 @@ The **third time** you take this Ability, constant training with the shield allo
 
 ## This is my Dagger
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Charisma |
 
 When you do critical damage with your dagger, you add an additional critical hit. The Feat is usable once per opponent and is automatically applied to the first critical hit made.
 
 ## This is my Weapon!
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 The **first time** you take this Feat, each time you hit the same opponent, starting from the second round, you do additional damage (Max +1 per combat round, even if you hit it multiple times in the round) up to a maximum of +5. The first time you miss the opponent in the round, the bonus returns to +0. The bonus can be maintained on only one opponent at a time.
 
@@ -1624,9 +2064,12 @@ The **second time** you take this Feat, Weapon Proficiency 5, you can miss your 
 
 ## Tough Hide
 
-- **Requirement**:: Constitution 2
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 The **first time** you take this Feat, your skin is extremely resistant. You take 1 less damage when hit by cutting weapons.
 
@@ -1640,17 +2083,23 @@ The bonuses are cumulative.
 
 ## Trackless
 
-- **Requirement**:: Sure Step
-- **Saving Throws**:: +2 Will, +1 Reflex
-- **Ability Score**:: Wisdom or Dexterity
+pX}
+
+| **Requirement**: | Sure Step |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Reflex |
+| **Ability Score**: | Wisdom or Dexterity |
 
 The ability to leave no footprints in the chosen environment. Each time you take this Feat, you can choose a different environment (see the Sure Step Feat) for which you have taken the Feat. The difficulty of the Track check to follow you increases by 10.
 
 ## Trap Dodging
 
-- **Requirement**:: Dexterity 2
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Dexterity 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, you gain a +1d6 bonus to the Saving Throw to avoid the effect of traps.
 
@@ -1660,9 +2109,12 @@ You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Savi
 
 ## Truly Evil Person
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 When you want, you know how to be bad.
 
@@ -1672,9 +2124,12 @@ The Feat must be declared before knowing the outcome of the Attack Roll. Costs o
 
 ## Turn Undead
 
-- **Requirement**:: Common Traits sum 2, be a Devotee or Follower
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+pX}
+
+| **Requirement**: | Common Traits sum 2, be a Devotee or Follower |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 By concentrating on the power of your Patron, you channel positive energy and drive away or destroy the undead.
 
@@ -1696,9 +2151,12 @@ A Devotee of Thaft gets +1d6 to Divine Power.
 
 ## Two weapon Fighting
 
-- **Requirement**:: Dexterity 2, Strength 1, Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Dexterity 2, Strength 1, Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 The **first time** you take this Feat, constant and continuous training allows you to reduce the multi-attack penalty given by attacking with the off-hand weapon. When you attack with the off-hand weapon, you accumulate a hit penalty of -4 instead of -5 if the weapon is light.
 
@@ -1712,9 +2170,12 @@ The **third time**, the first attack made with the off-hand weapon does not accu
 
 ## Uncanny Dodge
 
-- **Requirement**:: Dexterity 3
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Dexterity 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 The **first time** you take this Feat, as a Reaction to an opponent' \*\*s attack Action, you can add +1 to your Defense. You can use this Feat up to 3 times per day.
 
@@ -1726,17 +2187,23 @@ You can use this Feat even after knowing by how much you were hit.
 
 ## Unlucky
 
-- **Requirement**:: Lucky, at least 6 points in the sum of Traits
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: an ability score of choice
+pX}
+
+| **Requirement**: | Lucky, at least 6 points in the sum of Traits |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | an ability score of choice |
 
 Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
 
 ## Versatile Litany
 
-- **Requirement**:: Entertain Proficiency 6
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Charisma or Dexterity
+pX}
+
+| **Requirement**: | Entertain Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Charisma or Dexterity |
 
 Through your performance, you can decide to inspire courage or fear in creatures within 9 meters of you.
 
@@ -1752,9 +2219,12 @@ The **second time** you take this Feat, you can exclude from the effect a number
 
 ## Warrior of Magic
 
-- **Requirement**:: Weapon Proficiency 2, Magic Proficiency 2
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Ability modifier for spells or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 2, Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Ability modifier for spells or Strength |
 
 You follow neither just the path of magic nor that of the sword; your style embraces both in a slash of pure magic.
 
@@ -1770,9 +2240,12 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 ## Weapon Artist
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 Choose a Weapon List; with these weapons, you get a +1 to hit.
 
@@ -1782,9 +2255,12 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 
 ## Whirlwind Attack
 
-- **Requirement**:: Weapon Proficiency 12, Entertain 3
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 12, Entertain 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Charisma |
 
 The **first time** you take this Feat, using 3 Actions, you can perform a single attack (with a penalty of 1d6 to the Attack Roll) against all opponents in melee around you.
 

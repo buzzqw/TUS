@@ -3399,9 +3399,13 @@ Remember to also mark the bonuses related to Saving Throws. Typically, a concret
 ## List of Feats
 
 ## Accelerated Healing
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution
+
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution |
 
 Your natural healing processes are extremely efficient. The abilities stack.
 
@@ -3412,9 +3416,13 @@ The **second time**, requirement Constitution 1, that you take this Feat, at the
 The **third time**, requirement Constitution 2, that you take this Feat, after a night' \*\*s rest you recover double the Hit Points.
 
 ## Animalia
-- **Requirement**:: Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2.
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2. |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 You gain the ability to transform into a known creature. Cost 2 Actions.
 
@@ -3489,27 +3497,39 @@ From the new form, you acquire characteristics and abilities, such as senses, mo
 When you are transformed, you can channel your Magic Points to improve the transformation; for each Magic Point used, you get a +1 to Attack Roll, damage with attacks, Defense, and Saving Throws. This ability must be declared at the beginning of the round as an Immediate Action that lasts until the beginning of your next round. You cannot use more Magic Points at once than the number of times you have taken the Animalia Feat.
 
 ## Archer on sauromount
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Wisdom |
 
 The penalty for shooting arrows from a sauromount decreases by 2 each time you take this Feat.
 
 The standard penalties are -4 and -6 depending on whether you trot (movement x2) or gallop (movement x3)
 
 ## Armed
-- **Requirement**:: Strength 3, Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Strength 3, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Strength or Constitution |
 
 The **first time** you take this Feat, when you use a weapon that is too large for your size, the attack penalty becomes -2.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 6, you have no penalty when using a weapon one size larger than your own.
 
 ## Armor of the Devoted
-- **Requirement**:: Single Trait value in common with Patron 4, being a Devotee or Follower
-- **Saving Throws**:: +2 Will, +1 Reflex
-- **Ability Score**:: Constitution or Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Single Trait value in common with Patron 4, being a Devotee or Follower |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Reflex |
+| **Ability Score**: | Constitution or Ability modifier for spells |
 
 The **first time** you take this Ability, constant training with your armor reduces the Magic Check penalty by 2 when wearing light armor.
 
@@ -3520,9 +3540,13 @@ The **third time** you take this Ability, single Trait 8 requirement, wearing li
 The **fourth time** you take this Ability, single Trait 12 requirement, Magic Checks for wearing armor are only mandatory if you wear heavy armor and you reduce the penalty by 12.
 
 ## Armor of the Enchanted Mountain
-- **Requirement**:: Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Wisdom |
 
 Constant training in spirit and body allows you to harden your skin and make it more difficult to wound. To benefit from these bonuses, you must not wear armor or shields or items that improve Defense. The listed capabilities do not stack with the Silver Crane Feat.
 
@@ -3537,9 +3561,13 @@ The **fourth time** you take this Feat, requirement Empty Fist 8, you acquire da
 The **fifth time** you take this Feat, requirement Empty Fist 13, you acquire damage reduction (DR) of 5/-
 
 ## Arrow Called, Arrow Delivered
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 It' \*\*s just a matter of a moment before you light up!
 
@@ -3548,18 +3576,26 @@ You can shoot 1 arrow/bolt, once per day, as a Reaction, without penalties to hi
 The bow/crossbow must already be in hand.
 
 ## Black Siphon
-- **Requirement**:: Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 When you cast a spell that has instantaneous duration and causes damage to Hit Points to one or more subjects, by increasing by half (rounded up) the Magic Points used in the spell, you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
 
 The casting time of the spell increases to 3 Actions.
 
 ## Blade Dance
-- **Requirement**:: Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Charisma or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Charisma or Dexterity |
 
 The **first time** you take this Feat, when using Graceful Weapons, you can replace only the damage given by Strength in melee attacks with half the value of Charisma or Dexterity.
 
@@ -3570,9 +3606,13 @@ The **third time**, requirement Graceful Weapons 7, Entertain 5, you take this F
 The second and third advantages are not cumulative.
 
 ## Blind Fighting
-- **Requirement**:: Awareness 2
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Awareness 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Wisdom |
 
 The **first time** you take this Feat, an opponent with light cover gets no bonus to Defense, with medium cover has a +2 to Defense, with full cover has a +6 to Defense.
 
@@ -3587,18 +3627,26 @@ The penalty to Attack Roll against invisible creatures is -2.
 *Zatoichi level*, the **third time** you take this Feat, requirement Awareness 5, in melee an invisible creature has no advantage against you nor do you have a penalty against it.
 
 ## Blockhead
-- **Requirement**:: Crossbow List 4
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Crossbow List 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Dexterity or Intelligence |
 
 You can impart a deadly effect to your projectiles.
 
 Your crossbow bolt increases by one damage size.
 
 ## Bloodhound
-- **Requirement**:: Intelligence 1, Wisdom 1, Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Intelligence
+
+pX}
+
+| **Requirement**: | Intelligence 1, Wisdom 1, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Intelligence |
 
 You have a natural talent for tracking people
 
@@ -3611,9 +3659,13 @@ The **third** time you take this Feat, requirement Weapon Proficiency 16, Wisdom
 The bonus can be used for Attack Rolls, Saving Throws caused by the opponent, and Basic skill checks, but not for damage.
 
 ## Brew Potions
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Wisdom or Intelligence
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Wisdom or Intelligence |
 
 You are more than competent in brewing potions.
 
@@ -3622,18 +3674,26 @@ The **first time** you take this Feat, you gain a bonus of +1d6 on Herbalism Kno
 The **second time** you take this Feat, the time to prepare potions/poisons is halved and in case of Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
 
 ## Cautious Caster
-- **Requirement**:: Magic Proficiency 8
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic Proficiency 8 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 When a hostile creature enters a space within 1 meter of you for the first time, you can use a Reaction to cast a cantrip, within 2 Actions, without enhancements or Magic Check.
 
 This Feat does not affect the fact that you are still Distracted in casting a subsequent spell.
 
 ## Channel Energy
-- **Requirement**:: Laying on Hands, Magic Proficiency 1, Common Traits 4
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Constitution
+
+pX}
+
+| **Requirement**: | Laying on Hands, Magic Proficiency 1, Common Traits 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Constitution |
 
 You are able to use the energy of Laying on Hands to create an energy aura around you.
 Through Laying on Hands, you create an instantaneous aura within a radius of 3 meters around you that heals or harms 5 Hit Points to all creatures present for every 2 uses consumed.
@@ -3643,16 +3703,24 @@ Each time you take this Feat, beyond the first, you increase the radius by 1 met
 The energy comes from your body and influences yourself and the creatures around you. Reflex Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom to avoid the effect.  2 Actions.
 
 ## Clinical Eye
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Strength
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Strength |
 
 You are able to do critical damage to creatures normally immune to criticals.
 
 ## Colossus
-- **Requirement**:: Constitution 1
-- **Saving Throws**:: +3 Fortitude
-- **Ability Score**:: Constitution or Strength
+
+pX}
+
+| **Requirement**: | Constitution 1 |
+| --- | --- |
+| **Sav. Throws**: | +3 Fortitude |
+| **Ability Score**: | Constitution or Strength |
 
 Perhaps once you were frail and weak, now you are a mountain of muscle.
 
@@ -3667,9 +3735,13 @@ The bonuses are cumulative and retroactive to previous levels, except for the in
 The **fourth time**, requisite Constitution 3, you take this Feat, you increase by one size (S > M > L).
 
 ## Combat Caster
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, when you are Distracted you can ignore one die in the Magic Check.
 
@@ -3680,9 +3752,13 @@ The **third time**, requirement Magic Proficiency 12, that you take this Feat, w
 This Feat can be used in the Magic Check required by Warrior of Magic. The indicated capabilities are cumulative.
 
 ## Coordinated Damage
-- **Requirement**:: Weapon Proficiency 6, Wisdom 2
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Charisma or Intelligence
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 6, Wisdom 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Charisma or Intelligence |
 
 Your experience in managing allies allows you to maximize the effectiveness of attacks.
 
@@ -3693,9 +3769,13 @@ The **second time** you take this Feat, requirement Weapon Proficiency 8, Intell
 The Attack Rolls must hit in order to apply the damage to the other opponent.
 
 ## Create Magic Items
-- **Requirement**:: Magic Proficiency 6
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, through this Feat the spellcaster is able to infuse a spell up to level 3 into a magic item.
 
@@ -3706,16 +3786,24 @@ The **third time** you take this Feat, requirement Magic Proficiency 16, the spe
 The **fourth time** you take this Feat, requirement Magic Proficiency 18, the spellcaster is able to infuse a spell up to level 9 into a magic item.
 
 ## Dancing Scourge
-- **Requirement**:: Weapon Proficiency 1, using a weapon from the Rolling Balls list
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, using a weapon from the Rolling Balls list |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 When you use your weapon from the Rolling Balls list, you have a bonus of +1 to Attack Roll and +1 to Defense.
 
 ## Daredevil
-- **Requirement**:: Weapon Proficiency +2, Dexterity 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency +2, Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Constitution |
 
 You like to throw yourself into the fray, especially if there are dangers! The bonuses are cumulative.
 
@@ -3724,9 +3812,13 @@ The **first time** you take this Feat, you have a +1 to Attack Roll in melee and
 The **second time** you take this Feat, you have a +2 to Attack Roll in melee and to Defense if you are in melee with 2 or more opponents.
 
 ## Daughter of Shayalia
-- **Requirement**:: Devotee or Follower of Shayalia
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Ability modifier for spells or Charisma
+
+pX}
+
+| **Requirement**: | Devotee or Follower of Shayalia |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Ability modifier for spells or Charisma |
 
 You have a deep and instinctive connection with the natural world.
 
@@ -3739,32 +3831,48 @@ The **third time** you take this Feat, requirement sum of common Traits 12, you 
 The **fourth time** you take this Feat, requirement Animalia taken 4 times, you can transform using Animalia into any creature as long as it is not a fiend or dragon.
 
 ## Deadly Strike
-- **Requirement**:: Weapon Proficiency 5
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Strength
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Strength |
 
 Make the Attack Roll with a penalty of -1d6; if you hit, you cause 2 critical damages. Subsequent Attack Rolls start at -10 to hit.
 
 ## Debilitating Strike
-- **Requirement**:: Sneak Attack 3, Weapon Proficiency 12
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Intelligence or Dexterity
+
+pX}
+
+| **Requirement**: | Sneak Attack 3, Weapon Proficiency 12 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Intelligence or Dexterity |
 
 Debilitating Strike is an advanced form of sneak attack. Each Debilitating Strike lowers Strength or Dexterity (player' \*\*s choice) by how many times you have taken Sneak Attack.
 
 The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Roll. You cause the additional damage of the Sneak Attack or the loss of ability points.
 
 ## Decipher Magical Writings
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Wisdom
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 Has a bonus of +1d6 in understanding the content of a scroll and in casting the spell contained. The bonus also applies to the check to copy a spell into your Book of Magic.
 
 ## Defend Mount
-- **Requirement**:: Ride 1
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Ride 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 Whenever your mount is hit, you can make a Ride check to negate the hit.
 
@@ -3773,16 +3881,24 @@ Your Ride check must be greater than the opponent' \*\*s Attack Roll.
 This Feat can only be used once per round, for a single attack, and costs the Reaction.
 
 ## Double Portion
-- **Requirement**:: Two weapon Fighting, Weapon Proficiency 4
-- **Saving Throws**:: +2 Fortitude, +1 Reflex
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Two weapon Fighting, Weapon Proficiency 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Reflex |
+| **Ability Score**: | Strength or Constitution |
 
 Constant training with two weapons allows you to apply the damage bonus due to Strength fully to the off-hand weapon as well.
 
 ## Elemental Form
-- **Requirement**:: Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Constitution
+
+pX}
+
+| **Requirement**: | Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Constitution |
 
 When you transform with the Animalia Feat, choose an element from the learned spells present in an Elemental Magic List.
 
@@ -3795,9 +3911,13 @@ The **third time** you take this Feat, requirement Magic Proficiency 14, your at
 If you are a Devotee or Follower of Gaya or Erondil, it is not necessary to transform into an animal; the damage type applies to your melee attacks.
 
 ## Elementalist
-- **Requirement**:: Magic Proficiency 3, At least 4 spells from Elemental Magic List
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Constitution
+
+pX}
+
+| **Requirement**: | Magic Proficiency 3, At least 4 spells from Elemental Magic List |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Constitution |
 
 The **first time** you take this Feat, choose a type of Elemental Energy: Fire, Electricity, Cold, Sound.
 
@@ -3807,9 +3927,13 @@ The casting time of the spell increases by 1 Action; if the total casting time e
 The **second time** you take this Feat, requirement Magic Proficiency 6, choose a new type of Energy. When making the substitution, you can choose between the available energy types. You no longer have the penalty to the spell' \*\*s casting time.
 
 ## Expert
-- **Requirement**:: Related ability score at least -1
-- **Saving Throws**:: +1 to two Saving Throws of your choice.
-- **Ability Score**:: choice
+
+pX}
+
+| **Requirement**: | Related ability score at least -1 |
+| --- | --- |
+| **Sav. Throws**: | +1 to two Saving Throws of your choice. |
+| **Ability Score**: | choice |
 
 You are an expert in a subject.
 
@@ -3826,27 +3950,39 @@ The bonuses are cumulative if always referring to the same Skill.
 Not usable on Awareness (see Perceptive, page ).
 
 ## Extended Battery
-- **Requirement**:: Magic Proficiency 1, Magic Adept
-- **Saving Throws**:: + 1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Magic Adept |
+| --- | --- |
+| **Sav. Throws**: | + 1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells |
 
 You can better withstand the stress of casting spells.
 
 When you make a Magic Check and achieve at least one Critical Magic Success, the cost of the spell decreases by one point, with a minimum cost of 1.
 
 ## Eyes of Magic
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Charisma
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Charisma |
 
 The **first time** you take this Feat, if you can see it, you also know if it' \*\*s magical. It costs one Action to activate magical sight and lasts one round.
 
 The **second time**, requirement Magic Proficiency 1, that you take the Feat, activating magical sight costs a Reaction.
 
 ## Faithful
-- **Requirement**:: Magic Proficiency 1, Sum of common Traits 2, being a Devotee
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Wisdom
+
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Sum of common Traits 2, being a Devotee |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 Your connection with the Patron is strong and energetic. You increase your Magic Points by 3 points.
 
@@ -3855,9 +3991,13 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 This Feat does not stack with the Magic Battery Feat.
 
 ## Fast Step
-- **Requirement**:: Dexterity 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Constitution
+
+pX}
+
+| **Requirement**: | Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Constitution |
 
 Your step is naturally quick.
 If you have movement 6m, you step at movement 7m; if you have movement 9m, you step at movement 10m.
@@ -3865,18 +4005,26 @@ If you have movement 6m, you step at movement 7m; if you have movement 9m, you s
 Each additional **two times** you take the Feat, your movement increases by 1 meter per Movement Action, up to a maximum of +3 meters per round.
 
 ## Feign Death
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +1 Will, +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 As a Reaction Action, you are able to fall to the ground (collapse!) dead. Only a First Aid check DC 20 can reveal that you are alive.
 
 The effect lasts at most 2 minutes. Feigning death cannot be repeated at intervals of less than 10 minutes apart.
 
 ## Ferocity
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Strength
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Strength |
 
 Your rage is such that it temporarily defeats death.
 
@@ -3893,39 +4041,59 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 11, you c
 The player can choose only one level of Ferocity to use in the encounter (2, 3, 4).
 
 ## First Blood
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Intelligence or Charisma
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Intelligence or Charisma |
 
 The first Attack Roll of the day has a bonus of +1d6 and causes a critical hit if it hits.
 
 ## Focused
-- **Requirement**:: Magic Proficiency 2
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells
+
+pX}
+
+| **Requirement**: | Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells |
 
 Choose a Magic List; the DC of your spells' \*\* Saving Throws in that list increases by 1.
 
 This Feat can be taken multiple times on the same Magic List or on other lists, and the total must be equal to or less than MP/4.
 
 ## Focused Weapon
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Strength or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Strength or Dexterity |
 
 Choose a weapon in a Weapon List you know. You gain a +1 to Initiative and Attack Roll when using this weapon.
 
 ## Forged in Fury
-- **Requirement**:: Weapon Proficiency 5
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Strength or Constitution |
 
 When you make a critical hit with a melee attack is considered that you have hit by a margin 2 more for counting critical hit.
 
 ## Fury
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Your fighting style is represented by blind murderous rage.
 
@@ -3934,16 +4102,24 @@ Add +1d6 to damage for each successful melee attack and your opponents gain +1d6
 You can decide to activate this Feat round by round. It costs 1 Immediate Action and lasts until the beginning of your next round.
 
 ## Hard to Kill
-- **Requirement**:: -
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | - |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Wisdom |
 
 You are particularly stubborn about not wanting to die. The character increases by 3 Hit Points the tolerance before dying, meaning they die at 13+CON*2.
 
 ## Hawk Eye
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, projectiles, arrows, or darts launched between the first and second range increment have no penalty to the Attack Roll.
 
@@ -3952,9 +4128,13 @@ The **second time** you take this Feat, the penalty for shots within the third r
 The **third time** you take this Feat, you are able to extend your shot even further and take it to a fifth increment with a -12 penalty to hit. You have no penalties within the first 3 increments while you have -6 to hit between the third and fourth increment.
 
 ## Healer
-- **Requirement**:: Wisdom 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom
+
+pX}
+
+| **Requirement**: | Wisdom 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom |
 
 You have a natural talent for healing people.
 
@@ -3963,23 +4143,35 @@ The **first time** you take this Feat, you have +4 on First Aid checks.
 The **second time** you take this Feat, requirement sum of traits in common with Patron Ledyal 8, every time you use a healing spell you recover 1 Hit Point and the healed creature gains +1d6 Hit Points more.
 
 ## Hit and Run
-- **Requirement**:: Dexterity 1, Weapon Proficiency 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Dexterity 1, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 If in the round you execute at least one attack, these have a base penalty of -5, and you can perform an additional Movement Action. It is not possible to execute more than one bonus Movement Action in this way. It costs an Immediate Action.
 
 ## I said FALL!
-- **Requirement**:: Weapon Proficiency 4
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 4 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 If you hit an opponent 3 times within 2 rounds, they must make a Fortitude Saving Throw with a DC equal to the Attack Roll of the last attack or fall prone. The Saving Throw has a 1d6 modifier for each size difference.
 
 ## Iaijutsu
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Intelligence or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Intelligence or Dexterity |
 
 The **first time** you take this Feat, you take a step of one meter, attack once, and return to where you were, all in less than the blink of an eye.
 
@@ -3990,24 +4182,36 @@ The **third time**, requirement WP 12, that you take this Feat, you can move you
 Consumes two Actions.
 
 ## Improved Initiative
-- **Requirement**:: Intelligence or Dexterity 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+
+pX}
+
+| **Requirement**: | Intelligence or Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 Increase initiative by +1. This Feat can be taken up to 2 times and the bonus is cumulative.
 
 ## Improvise
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 Any object that might be defined as an improvised weapon is not improvised for you.
 You do not suffer penalties to hit when using an improvised weapon. You gain a +1 to damage when using an improvised weapon.
 
 ## Infuriate
-- **Requirement**:: Weapon Proficiency 2 and Charisma or Strength 2
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Strength or Charisma
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 and Charisma or Strength 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Strength or Charisma |
 
 You spend 2 Actions defaming and railing against an opponent.
 
@@ -4016,9 +4220,13 @@ The target must make an opposed Will Saving Throw check against your Entertain o
 The opponent may not understand your language but must have Intelligence equal to -2 or higher.
 
 ## Infuse Magical Energy
-- **Requirement**:: Weapon Proficiency 1, Magic Proficiency 2
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 You know how to manipulate magical energies instinctively and infuse them into weapons. It costs 1 Action to infuse magic into the weapon.
 
@@ -4031,9 +4239,13 @@ The **second time** you take this Feat, requirement Magic Proficiency 4, you can
 The **third time** you take this Feat, requirement Magic Proficiency 8, you can use six Magic Points and a weapon you come into contact with becomes a +3 weapon for 6 rounds; if it' \*\*s already enchanted, it acquires an additional bonus of +2 up to a maximum of +4.
 
 ## Infuse Superior Magical Energy
-- **Requirement**:: Weapon Proficiency 4, Magic Proficiency 6
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 4, Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 You know how to infuse the weapon with magical energy to make it acquire fantastic capabilities.
 
@@ -4050,9 +4262,13 @@ The **third time** you take this Feat, using three Magic Points per round, you c
 The abilities are not cumulative; you must choose which to apply round by round.
 
 ## Inspire Courage
-- **Requirement**:: Charisma 2, Entertain 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+
+pX}
+
+| **Requirement**: | Charisma 2, Entertain 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 Through your performance - singing, dancing, oratory, or artistic in general - you are able to inspire courage in companions who can hear or see you, within a radius of 6 meters.
 
@@ -4069,9 +4285,13 @@ You can maintain the Feat for a number of rounds, even non-consecutive, equal to
 Creatures must continue to see/hear your performance to remain influenced.
 
 ## Instill Fear
-- **Requirement**:: Charisma 2
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Constitution
+
+pX}
+
+| **Requirement**: | Charisma 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Constitution |
 
 Through your performance - singing, dancing, oratory... you are able to Instill Fear in opponents who can hear you, within a radius of 6 meters.
 
@@ -4086,18 +4306,26 @@ The opponent is allowed a Will Saving Throw DC equal to 10+CHA+Entertain score. 
 Activating, maintaining, or changing the effect of the Feat requires 2 Actions and lasts until the beginning of your next round. You can maintain the Feat for a number of rounds, even non-consecutive, equal to Entertain score x 3 per day. Creatures must continue to see/hear the performance to remain influenced.
 
 ## Instinctive Knowledge
-- **Requirement**:: Knowledge 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Intelligence
+
+pX}
+
+| **Requirement**: | Knowledge 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Intelligence |
 
 You never forget an enemy.
 
 You have an instinctive ability to remember and evaluate an enemy. When you take this Feat, you can make a Recognizing a Monster check (page ) using a Reaction.
 
 ## Iron Fist
-- **Requirement**:: Empty Fist List 3
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Dexterity
+
+pX}
+
+| **Requirement**: | Empty Fist List 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Dexterity |
 
 Your unarmed combat technique is extremely precise and powerful.
 
@@ -4116,9 +4344,13 @@ The **sixth time** you take this Feat, Requirement Empty Fist 18. Damage +2, Att
 The indicated bonuses are cumulative.
 
 ## Iron Will
-- **Requirement**:: Wisdom 0
-- **Saving Throws**:: none
-- **Ability Score**:: Wisdom or Charisma
+
+pX}
+
+| **Requirement**: | Wisdom 0 |
+| --- | --- |
+| **Sav. Throws**: | none |
+| **Ability Score**: | Wisdom or Charisma |
 
 Over time, you have trained your will to resist any weakness and fear.
 
@@ -4127,9 +4359,13 @@ The **first time** you take this Feat, you gain a +2 bonus to Will Saving Throws
 The **fourth time** you take this Feat, you can decide to automatically succeed on a Will Saving Throw once per day before having rolled the dice.
 
 ## Juggler
-- **Requirement**:: Dexterity 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Charisma
+
+pX}
+
+| **Requirement**: | Dexterity 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Charisma |
 
 You have a natural talent for handling objects.
 
@@ -4139,9 +4375,12 @@ You can throw a second dagger as an Immediate Action following an Attack action 
 
 ## Laying on Hands
 
-- **Requirement**:: Magic Proficiency 1, Common Traits 3, being Devoted or Follower
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Common Traits 3, being Devoted or Follower |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 If your Traits are in common with a positive Patron, you can channel healing energy (healing/damaging effect on undead), if they are in common with a neutral or evil Patron, you can channel negative energy (damaging/healing effect on undead).
 
@@ -4173,9 +4412,12 @@ Fortitude Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom 
 
 ## Lightning Reflexes
 
-- **Requirement**:: Dexterity 1
-- **Saving Throws**:: none
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | none |
+| **Ability Score**: | Dexterity or Intelligence |
 
 Over time you have trained your reflexes to dodge and anticipate any obstacle. The bonus is cumulative, +2 the **first time**, +1 the **second**, +1 the **third** to Reflex Saving Throws.
 
@@ -4183,9 +4425,12 @@ The **fourth time** you take this Feat, you can automatically succeed on a Refle
 
 ## Loaded Dice
 
-- **Requirement**:: Magic Proficiency 6
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Wisdom or Charisma
+pX}
+
+| **Requirement**: | Magic Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Wisdom or Charisma |
 
 The **first time** you take this Feat, you can increase by 1, up to a value of 6, one die in the Magic Check.
 
@@ -4193,9 +4438,12 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 
 ## Lucky
 
-- **Requirement**:: none
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Charisma or Dexterity
+pX}
+
+| **Requirement**: | none |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Charisma or Dexterity |
 
 Once per day, you can make the Narrator reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
 
@@ -4203,9 +4451,12 @@ This Feat can be declared even after the dice have been rolled.
 
 ## Magic Adept
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 to two Saving Throws of your choice.
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 to two Saving Throws of your choice. |
+| **Ability Score**: | Ability modifier for spells |
 
 Through this Feat you deepen your ability to cast spells.
 
@@ -4217,9 +4468,12 @@ This Feat can be taken multiple times as long as it is less than MP/2.
 
 ## Magic Battery
 
-- **Requirement**:: Magic Proficiency 3
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 You have a particular connection with the magic that permeates the Earth.
 
@@ -4229,25 +4483,34 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 
 ## Magical Roots
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 While you are affected by one of your spells, using an Action your weapon gains a +1 to hit and damage and is considered a magic weapon until the end of the round.
 
 ## Mental Wall
 
-- **Requirement**:: Wisdom +1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells or Wisdom
+pX}
+
+| **Requirement**: | Wisdom +1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 Your mind is trained against those who want to influence it. Each time you take this Feat, you gain +1 to Saving Throws against spells from the Enchantment Magic List.
 
 ## Mighty Blows
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Strength or Constitution |
 
 Your style emphasizes powerful blows.
 
@@ -4255,10 +4518,12 @@ You gain a +1 to damage with a Weapon List.
 
 ## My Death Your Death
 
-- **Requirement**:: Weapon Proficiency 1, Strength 1
+pX}
 
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Charisma or Strength
+| **Requirement**: | Weapon Proficiency 1, Strength 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Charisma or Strength |
 
 For each single opponent in combat, you can make the first hit of the encounter cause additional damage equal to twice your Weapon Proficiency. The opponent gains a bonus to Attack Roll and damage equal to the value of your Weapon Proficiency on the first Attack Roll made before the end of the next round.
 
@@ -4266,17 +4531,23 @@ The Feat must be declared before the Attack Roll and lasts until the beginning o
 
 ## My Head is Harder
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Your weapon, present in the Skull Crusher Weapons List, does +2 damage
 
 ## My Skin
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +3 Fortitude
-- **Ability Score**:: Constitution or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +3 Fortitude |
+| **Ability Score**: | Constitution or Strength |
 
 You have an almost symbiotic relationship with your armor.
 
@@ -4286,9 +4557,12 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, the De
 
 ## One Arm, One Weapon
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Choose a Weapon List. The Strength damage applied by weapons from that list increases by 1.
 
@@ -4298,9 +4572,12 @@ If you take this Feat **4 times** on the same Weapon List, the damage bonus is r
 
 ## One Belief
 
-- **Requirement**:: Magic Proficiency 2
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 The character dedicates their life to the study and perfection of a single Magic List.
 
@@ -4326,17 +4603,23 @@ The **sixth time** you take this Feat, requirement Magic Proficiency 20, in the 
 
 ## One Body, One Mind, One Spirit
 
-- **Requirement**:: none
-- **Saving Throws**::  +1 of choice
-- **Ability Score**:: none
+pX}
+
+| **Requirement**: | none |
+| --- | --- |
+| **Sav. Throws**: | +1 of choice |
+| **Ability Score**: | none |
 
 Assign one point to Weapon Proficiency or Magic Proficiency. This Feat can be taken at most 2 times.
 
 ## One Hit One Kill
 
-- **Requirement**:: Magic Proficiency 1, Magic Adept 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 1, Magic Adept 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, you gain a +1 to Attack Rolls for spells that require an Attack Roll.
 
@@ -4344,17 +4627,23 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 
 ## One with Magic
 
-- **Requirement**:: Magic Adept
-- **Saving Throws**:: +1 in two Saving Throws of your choice
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Adept |
+| --- | --- |
+| **Sav. Throws**: | +1 in two Saving Throws of your choice |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your modifier spell score has a +1 to the value for determining spell effects, Magic Points, know spell, and maximum level of castable spell.
 
 ## One with the Bow
 
-- **Requirement**:: Weapon Proficiency 4
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 4 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Constitution |
 
 Despite the name, this Feat applies to all weapons that launch projectiles.
 
@@ -4364,9 +4653,12 @@ The **second time** you take this Feat, Dexterity 3 and Weapon Proficiency 7, th
 
 ## Only Child
 
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Wisdom
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Wisdom |
 
 The **first time** you take this Feat, choose a Magic List and two Cantrips from this list. You can cast these two Cantrips without a Magic Check even if you are being Distracted or with armor limitations.
 
@@ -4382,25 +4674,34 @@ Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cas
 
 ## Opportunist
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Intelligence or Dexterity
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Intelligence or Dexterity |
 
 You can attempt to hit an opponent in melee who **exits** or **crosses** a melee area that you threaten or who **uses a throwing weapon** in your melee area or **formulates a spell**. The Feat is usable as a Reaction. This attack is also called an opportunity attack.
 
 ## Paralyzing Strike
 
-- **Requirement**:: Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Strength or Dexterity
+pX}
+
+| **Requirement**: | Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Strength or Dexterity |
 
 You dedicate 2 Actions per Round, for 5 rounds, to studying an opponent you can threaten. In the sixth round, using 2 Actions, you deliver a melee or ranged attack. The opponent must make a Fortitude Saving Throw with DC equal to the Attack Roll or remain paralyzed for 3d6 rounds. The creature must not be 2 sizes larger than you.
 
 ## Parry
 
-- **Requirement**:: Weapon Proficiency 3 or Empty Fist 2
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Strength or Dexterity
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 or Empty Fist 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Strength or Dexterity |
 
 The **first time** you take this Feat, when you use the Action to Prepare Defense (p. ), this increases by 1.
 
@@ -4412,9 +4713,12 @@ Using the Parry Feat must be declared in your round and remains active until the
 
 ## Perceptive
 
-- **Requirement**:: Wisdom 0
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Intelligence
+pX}
+
+| **Requirement**: | Wisdom 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Intelligence |
 
 Your Awareness and attention to detail is above average.
 
@@ -4422,9 +4726,12 @@ Take a +1 bonus to Awareness checks. This Feat can be taken a maximum of 3 times
 
 ## Perfectionist
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Charisma |
 
 The **first time** you take this Feat, when you throw a projectile, you decrease the Cover penalty by 2.
 
@@ -4432,10 +4739,12 @@ The **second time** you take this Feat, Weapon Proficiency 4, reduce the Cover p
 
 ## Pet / Familiar
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Will, +1 Fortitude
+pX}
 
-- **Ability Score**:: Intelligence or Ability modifier for spells
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Intelligence or Ability modifier for spells |
 
 The **first time** you take this Feat, you gain a natural animal. This pet has a Challenge Rating equal to one-quarter of your Wisdom, with a minimum of 1/4. You can teach basic actions to your animal and have it perform simple tasks.
 
@@ -4443,9 +4752,12 @@ The **second time** you take this Feat, you gain a Familiar (page ).
 
 ## Phoenix Wings
 
-- **Requirement**:: Empty Fist List 3, Silver Crane 1
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Empty Fist List 3, Silver Crane 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 Your fighting style emphasizes long-range strikes such as punches and flying kicks.
 
@@ -4456,9 +4768,13 @@ The **second time** you take this Feat, requirement Empty Fist List 6, Silver Cr
 The **third time** you take this Feat, requirement Empty Fist List 12, Silver Crane 4, Iron Fist 2, your melee reach becomes 4 meters.
 
 ## Immunity to Poisons
-- **Requirement**:: Constitution 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Constitution or Wisdom
+
+pX}
+
+| **Requirement**: | Constitution 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Constitution or Wisdom |
 
 The **first time** you take this Feat, the body gets used to poisons, the character gains a +2 Saving Throw against poisons.
 
@@ -4468,17 +4784,23 @@ The **third time** you have a +1d6 to Saving Throws against magical poisons and 
 
 ## Polyglot
 
-- **Requirement**:: at least Intelligence -1, at character creation
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Intelligence or Charisma
+pX}
+
+| **Requirement**: | at least Intelligence -1, at character creation |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Intelligence or Charisma |
 
 You have an extraordinary ability to learn languages. For each point assigned to Language Knowledge, you know two additional languages.
 
 ## Power of the Patron
 
-- **Requirement**:: Sum of Common Traits with the Patron 1, being Devoted
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Sum of Common Traits with the Patron 1, being Devoted |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your faith in the Patron knows no limits or crashes of trust.
 
@@ -4488,9 +4810,12 @@ If all three checks succeed, it is likely that there will be a Manifestation of 
 
 ## Powerful Fist
 
-- **Requirement**:: Empty Fist List 3
-- **Saving Throws**:: +1 Fortitude, +2 Will
-- **Ability Score**:: Strength or Constitution
+pX}
+
+| **Requirement**: | Empty Fist List 3 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +2 Will |
+| **Ability Score**: | Strength or Constitution |
 
 Consumes 2 Actions. Make a single Attack Roll with -5 penalty.
 If you hit, in addition to the damage and a critical hit, the opponent, who must be at most two sizes larger than you, must make a Fortitude Saving Throw with DC equal to your Attack Roll or be pushed 3 meters in a direction of your choice.
@@ -4499,9 +4824,12 @@ If they critically fail the Saving Throw, they suffer an additional critical hit
 
 ## Powerful Magics
 
-- **Requirement**:: Magic Proficiency 5
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your spells are extraordinarily effective.
 
@@ -4509,18 +4837,25 @@ Choose a Magic List, gain +1d6 to the Magic Check when casting spells from this 
 
 ## Precise Shot
 
-- **Requirement**:: Dexterity 3, Weapon Proficiency 1
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Dexterity 3, Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 At close range, you know how to hit where it hurts.
 
 You gain +1 to Attack Roll and damage with thrown weapons when the target is within 9 meters.
 
 ## Press On
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Strength or Dexterity
+
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Dexterity |
 
 The **first time** you take this Feat, if you eliminate an opponent with your last Attack Action in melee, you can make a bonus attack action.
 
@@ -4534,9 +4869,12 @@ Each bonus attack beyond the first suffers a cumulative penalty: -2 to hit and -
 
 ## Prodigious
 
-- **Requirement**:: Magic Proficiency 3
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Ability modifier for spells
+pX}
+
+| **Requirement**: | Magic Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Ability modifier for spells |
 
 Your mind has no boundaries. You can learn two spells present in your Magic Tome, always respecting the limits of the maximum level of castable spells.
 
@@ -4544,9 +4882,12 @@ This Feat can be taken multiple times and the total must be equal to or less tha
 
 ## Psychic Energy
 
-- **Requirement**:: Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Charisma
+pX}
+
+| **Requirement**: | Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Charisma |
 
 After years of training, meditation, and workshops at Panda Barbat, you are able to gather your Chi Energy.
 
@@ -4558,9 +4899,12 @@ You recover 1 Chi point every 10 minutes in which the character does not perform
 
 ## Psychic Ray
 
-- **Requirement**:: Psychic Strike, Wisdom 3, Weapon Proficiency 5
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Wisdom or Dexterity
+pX}
+
+| **Requirement**: | Psychic Strike, Wisdom 3, Weapon Proficiency 5 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Wisdom or Dexterity |
 
 The **first time** you take this Feat, you can make a ranged attack within 9 meters using Psychic Energy. The Touch Attack causes 1d6 force damage per Psychic point spent focused on damage.
 
@@ -4570,9 +4914,12 @@ The **second time** you take this Feat, requirement Wisdom 3, Weapon Proficiency
 
 ## Psychic Strike
 
-- **Requirement**:: Psychic Energy, Dexterity 1
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Wisdom or Strength
+pX}
+
+| **Requirement**: | Psychic Energy, Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Wisdom or Strength |
 
 The **first time** you take this Feat, you concentrate your Chi in your hands. You can concentrate a number of Chi points equal to your Wisdom.
 
@@ -4588,9 +4935,12 @@ The **fourth time** you take this Feat, Weapon Proficiency 7, Wisdom 4, if the A
 
 ## Pure Blood
 
-- **Requirement**:: Animalia, Devotee of Efrem or Shayalia
-- **Saving Throws**:: +1 Will, +2 Fortitude
-- **Ability Score**:: Ability modifier for spells or Constitution
+pX}
+
+| **Requirement**: | Animalia, Devotee of Efrem or Shayalia |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +2 Fortitude |
+| **Ability Score**: | Ability modifier for spells or Constitution |
 
 The **first time** you take this Feat, each of your attacks when transformed with Animalia causes 1 additional damage and is considered a +1 magic attack. By concentrating on your step, you can leave the footprints of an animal you can transform into and the terrain is considered doubly difficult.
 
@@ -4602,9 +4952,12 @@ The second and third abilities are cumulative.
 
 ## Quick
 
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Strength |
 
 The **first time** you take this Feat, when an ally executes a critical roll, you can, using a reaction, make an Attack Roll, with a penalty of -1d6, against the same opponent provided it is also in melee with you.
 
@@ -4612,9 +4965,12 @@ The **second time** you take this Feat, Weapon Proficiency 6, you gain a reactio
 
 ## Quick Draw
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, you can draw a weapon that is not large for you at the cost of an Immediate Action.
 
@@ -4624,9 +4980,12 @@ The **third time** you take this Feat, you can put away your current weapon and 
 
 ## Rapid Shot
 
-- **Requirement**:: Dexterity 3, Precise Shot, Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Dexterity 3, Precise Shot, Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 You have no rival in the precision with which you hurl your projectiles.
 
@@ -4638,17 +4997,23 @@ The first shot has a normal Attack Roll, the second has a -4, the third a -8...
 
 ## Reach
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Will, +2 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +2 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 You use an Action in conjunction with your Attack Action in melee to increase the reach of your strike by 1 meter.
 
 ## Ready Defense
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Intelligence |
 
 You are always vigilant and attentive when your life is at risk.
 
@@ -4656,9 +5021,12 @@ You have a +2 to Defense against opportunity attacks, attacks from behind, or fr
 
 ## Recovery
 
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution |
 
 Your body spontaneously produces caffeine!
 
@@ -4666,9 +5034,12 @@ You take half the time to recover from the Fatigued condition.
 
 ## Retaliation
 
-- **Requirement**:: Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 Seeing your friends injured fills you with rage.
 
@@ -4680,9 +5051,12 @@ You can take this Feat **up to 3 times**, each time the bonus to Attack Roll and
 
 ## Rhino
 
-- **Requirement**:: Constitution 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 Your charge is destructive! Behind you, you leave only a trail of rubble and nothing can stop you.
 
@@ -4694,9 +5068,12 @@ The **third time** you take this Feat, you have hardened your skin so much that 
 
 ## Robust
 
-- **Requirement**:: Constitution -1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution -1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 The **first time** you take this Feat, your Hit Points increase by 3.
 
@@ -4706,25 +5083,34 @@ The bonuses are cumulative and retroactive to previous levels.
 
 ## Scholar
 
-- **Requirement**:: Magic Proficiency 1, only at character creation
-- **Saving Throws**:: +2 Will
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 1, only at character creation |
+| --- | --- |
+| **Sav. Throws**: | +2 Will |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Your interest in and connection with magic is unparalleled. You can know 4 additional spells (while respecting the maximum level constraints that can be copied into your Tome).
 
 ## Scribe
 
-- **Requirement**:: Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Ability modifier for spells or Dexterity
+pX}
+
+| **Requirement**: | Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Ability modifier for spells or Dexterity |
 
 You are extremely quick in copying new spells into your Book of Magic. The time to copy a spell changes from 1 hour to 30 minutes per page (a spell occupies a number of pages equal to its level). The cost in inks changes from 10 gp per page to 5 gp per page.
 
 ## Second Skin
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Strength |
 
 The constant use of armor allows you to wear it without particular penalties.
 
@@ -4736,17 +5122,23 @@ The **third time** you take this Feat, requirement Weapon Proficiency 11, the pe
 
 ## Shoot and Scoot
 
-- **Requirement**:: Crossbow List 3
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Crossbow List 3 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Charisma |
 
 While performing a Movement Action, you can reduce the loading time of your crossbow by 1 Action. In the case of Light or one-handed Crossbows, you can reload them while moving; in the case of heavy Crossbows, you reduce the loading time by 1 Action.
 
 ## Silver Crane
 
-- **Requirement**:: Empty Fist List 2, Dexterity 1
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Empty Fist List 2, Dexterity 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 To benefit from these bonuses, you must not wear armor or shields or magical items that improve Defense. The listed abilities cannot be cumulated with the Armor of the Enchanted Mountain Feat.
 
@@ -4764,9 +5156,12 @@ The bonuses are active even if you are not fighting.
 
 ## Sneak Attack
 
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, when the opponent is surprised (see page ) with a melee weapon, if the first attack of combat hits, it causes an additional critical damage.
 
@@ -4778,9 +5173,12 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 12, you c
 
 ## Silent Step
 
-- **Requirement**:: Stealth 1
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Stealth 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Wisdom |
 
 Your step is naturally silent.
 
@@ -4790,9 +5188,12 @@ The **second time** you take this Feat, requirement Dexterity 3, Stealth 8, you 
 
 ## Son of Tazher
 
-- **Requirement**:: Devotee or Follower of Tazher, sum of common traits 10
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Devotee or Follower of Tazher, sum of common traits 10 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Wisdom |
 
 When you take this Feat, your shadow becomes the equivalent of an Invisible Servant.
 The shadow has Defense equal to 10 + highest value Trait in common with Tazher, Saving Throws equal to yours, Hit Points equal to the sum of traits in common with Tazher.
@@ -4807,9 +5208,12 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 
 ## Specialist
 
-- **Requirement**:: Magic Proficiency 3
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Magic Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 Choose a spell you know; the Magic Points spent to cast this spell decrease by 1, with a minimun cost of one.
 
@@ -4817,9 +5221,12 @@ This Feat can be taken multiple times on different spells each time.
 
 ## Spring
 
-- **Requirement**:: Strength 0
-- **Saving Throws**:: +1 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Strength 0 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 The **first time** you take this Feat, you can ignore the requirement of 3 meters of running start before a jump.
 
@@ -4827,9 +5234,12 @@ The **second time** you take this Feat, when you make a check to jump long or hi
 
 ## Stay Down!
 
-- **Requirement**:: Weapon Proficiency 3
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 The **first time** you take this Feat, when your attack causes two critical hits on an opponent, the force of the blow is such as to make them prone. The opponent must make a Fortitude Saving Throw (DC equal to the last Attack Roll with the weapon that caused the last critical hit) or fall prone. The Feat works on creatures of size equal to or smaller than the character.
 
@@ -4839,9 +5249,12 @@ The **third time** you take this Feat, you can also affect creatures two sizes l
 
 ## Stone Resilience
 
-- **Requirement**:: Constitution 0
-- **Saving Throws**:: none
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution 0 |
+| --- | --- |
+| **Sav. Throws**: | none |
+| **Ability Score**: | Constitution or Wisdom |
 
 Over time, you have trained your Constitution to withstand impacts, transformations, poisons, and anything else that might try to modify your body.
 
@@ -4851,9 +5264,12 @@ The **fourth time** you take this Feat, you can automatically succeed on a Forti
 
 ## Storm of Fury
 
-- **Requirement**:: Empty Fist List 7, Dexterity 1, Strength 1
-- **Saving Throws**:: +2 Reflex, +1 Will
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Empty Fist List 7, Dexterity 1, Strength 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Will |
+| **Ability Score**: | Dexterity or Strength |
 
 When you use this Feat, you can declare that you are using the Storm of Fury as your only Action (3 Actions).
 
@@ -4861,9 +5277,12 @@ You make a single Attack Roll with -1d6, and if you hit with your natural attack
 
 ## Sure Step
 
-- **Requirement**:: Wisdom 1
-- **Saving Throws**:: +2 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Constitution
+pX}
+
+| **Requirement**: | Wisdom 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Constitution |
 
 It is the ability to not be slowed down in a hostile environment. It is necessary to declare on which environment you take the Feat. In these environments, natural terrain is not difficult. As long as you move in the chosen environment, you have a +1 to Survival checks.
 
@@ -4891,9 +5310,12 @@ The **second time** you take this Feat on the same terrain, specializing, you ac
 
 ## Tactician
 
-- **Requirement**:: Weapon Proficiency 1, Intelligence 1
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: Intelligence or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, Intelligence 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | Intelligence or Charisma |
 
 You have an almost instinctive ability to manage and predict the outcome of combats. Using this Feat costs 1 Action.
 
@@ -4909,17 +5331,23 @@ The **second time** you take this Feat, requirement Intelligence 2, Weapon Profi
 
 ## The Bigger They Are, The Harder They Fall
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 When you attack a creature at least 2 sizes larger than you, you do +1 additional damage for every 2 Weapon Proficiency points. If it' \*\*s only one size larger, add 1 more damage for every 3 Weapon Proficiency points.
 
 ## The Patron is my Weapon
 
-- **Requirement**:: Sum of Common Traits with the Patron 1, being Followers
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Sum of Common Traits with the Patron 1, being Followers |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 You have no penalty to hit with the Patron' \*\*s weapon if you are not proficient in its Weapon List.
 
@@ -4937,9 +5365,12 @@ The **sixth time** you take this Feat, requirement sum of Common Traits with the
 
 ## The Patron is with me
 
-- **Requirement**:: Devoted, Sum of Common Traits with the Patron 2
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Ability modifier for spells or choice
+pX}
+
+| **Requirement**: | Devoted, Sum of Common Traits with the Patron 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Ability modifier for spells or choice |
 
 The **first time** you take this Feat, once per day you can reroll a die rolled in the Magic Check for casting a spell.
 
@@ -4951,9 +5382,12 @@ This Feat can be declared even after the dice are rolled. Any new value obtained
 
 ## The Shield is my Friend
 
-- **Requirement**:: Weapon Proficiency 1, Magic Proficiency 1
-- **Saving Throws**:: +1 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Constitution
+pX}
+
+| **Requirement**: | Weapon Proficiency 1, Magic Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Constitution |
 
 Your *friend* is always by your side.
 
@@ -4965,17 +5399,23 @@ The **third time** you take this Ability, constant training with the shield allo
 
 ## This is my Dagger
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Reflex
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Reflex |
+| **Ability Score**: | Dexterity or Charisma |
 
 When you do critical damage with your dagger, you add an additional critical hit. The Feat is usable once per opponent and is automatically applied to the first critical hit made.
 
 ## This is my Weapon!
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +2 Fortitude, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 The **first time** you take this Feat, each time you hit the same opponent, starting from the second round, you do additional damage (Max +1 per combat round, even if you hit it multiple times in the round) up to a maximum of +5. The first time you miss the opponent in the round, the bonus returns to +0. The bonus can be maintained on only one opponent at a time.
 
@@ -4983,9 +5423,12 @@ The **second time** you take this Feat, Weapon Proficiency 5, you can miss your 
 
 ## Tough Hide
 
-- **Requirement**:: Constitution 2
-- **Saving Throws**:: +2 Fortitude
-- **Ability Score**:: Constitution or Wisdom
+pX}
+
+| **Requirement**: | Constitution 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Fortitude |
+| **Ability Score**: | Constitution or Wisdom |
 
 The **first time** you take this Feat, your skin is extremely resistant. You take 1 less damage when hit by cutting weapons.
 
@@ -4999,17 +5442,23 @@ The bonuses are cumulative.
 
 ## Trackless
 
-- **Requirement**:: Sure Step
-- **Saving Throws**:: +2 Will, +1 Reflex
-- **Ability Score**:: Wisdom or Dexterity
+pX}
+
+| **Requirement**: | Sure Step |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Reflex |
+| **Ability Score**: | Wisdom or Dexterity |
 
 The ability to leave no footprints in the chosen environment. Each time you take this Feat, you can choose a different environment (see the Sure Step Feat) for which you have taken the Feat. The difficulty of the Track check to follow you increases by 10.
 
 ## Trap Dodging
 
-- **Requirement**:: Dexterity 2
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Intelligence
+pX}
+
+| **Requirement**: | Dexterity 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Intelligence |
 
 The **first time** you take this Feat, you gain a +1d6 bonus to the Saving Throw to avoid the effect of traps.
 
@@ -5019,9 +5468,12 @@ You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Savi
 
 ## Truly Evil Person
 
-- **Requirement**:: Weapon Proficiency 1
-- **Saving Throws**:: +1 Reflex, +1 Will
-- **Ability Score**:: Strength or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 1 |
+| --- | --- |
+| **Sav. Throws**: | +1 Reflex, +1 Will |
+| **Ability Score**: | Strength or Charisma |
 
 When you want, you know how to be bad.
 
@@ -5031,9 +5483,12 @@ The Feat must be declared before knowing the outcome of the Attack Roll. Costs o
 
 ## Turn Undead
 
-- **Requirement**:: Common Traits sum 2, be a Devotee or Follower
-- **Saving Throws**:: +2 Will, +1 Fortitude
-- **Ability Score**:: Charisma or Wisdom
+pX}
+
+| **Requirement**: | Common Traits sum 2, be a Devotee or Follower |
+| --- | --- |
+| **Sav. Throws**: | +2 Will, +1 Fortitude |
+| **Ability Score**: | Charisma or Wisdom |
 
 By concentrating on the power of your Patron, you channel positive energy and drive away or destroy the undead.
 
@@ -5055,9 +5510,12 @@ A Devotee of Thaft gets +1d6 to Divine Power.
 
 ## Two weapon Fighting
 
-- **Requirement**:: Dexterity 2, Strength 1, Weapon Proficiency 2
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Dexterity 2, Strength 1, Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 The **first time** you take this Feat, constant and continuous training allows you to reduce the multi-attack penalty given by attacking with the off-hand weapon. When you attack with the off-hand weapon, you accumulate a hit penalty of -4 instead of -5 if the weapon is light.
 
@@ -5071,9 +5529,12 @@ The **third time**, the first attack made with the off-hand weapon does not accu
 
 ## Uncanny Dodge
 
-- **Requirement**:: Dexterity 3
-- **Saving Throws**:: +2 Reflex
-- **Ability Score**:: Dexterity or Wisdom
+pX}
+
+| **Requirement**: | Dexterity 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex |
+| **Ability Score**: | Dexterity or Wisdom |
 
 The **first time** you take this Feat, as a Reaction to an opponent' \*\*s attack Action, you can add +1 to your Defense. You can use this Feat up to 3 times per day.
 
@@ -5085,17 +5546,23 @@ You can use this Feat even after knowing by how much you were hit.
 
 ## Unlucky
 
-- **Requirement**:: Lucky, at least 6 points in the sum of Traits
-- **Saving Throws**:: +1 Fortitude, +1 Will
-- **Ability Score**:: an ability score of choice
+pX}
+
+| **Requirement**: | Lucky, at least 6 points in the sum of Traits |
+| --- | --- |
+| **Sav. Throws**: | +1 Fortitude, +1 Will |
+| **Ability Score**: | an ability score of choice |
 
 Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
 
 ## Versatile Litany
 
-- **Requirement**:: Entertain Proficiency 6
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Charisma or Dexterity
+pX}
+
+| **Requirement**: | Entertain Proficiency 6 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Charisma or Dexterity |
 
 Through your performance, you can decide to inspire courage or fear in creatures within 9 meters of you.
 
@@ -5111,9 +5578,12 @@ The **second time** you take this Feat, you can exclude from the effect a number
 
 ## Warrior of Magic
 
-- **Requirement**:: Weapon Proficiency 2, Magic Proficiency 2
-- **Saving Throws**:: +1 Will, +1 Reflex
-- **Ability Score**:: Ability modifier for spells or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 2, Magic Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Reflex |
+| **Ability Score**: | Ability modifier for spells or Strength |
 
 You follow neither just the path of magic nor that of the sword; your style embraces both in a slash of pure magic.
 
@@ -5129,9 +5599,12 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 ## Weapon Artist
 
-- **Requirement**:: Weapon Proficiency 2
-- **Saving Throws**:: +1 Will, +1 Fortitude
-- **Ability Score**:: Dexterity or Strength
+pX}
+
+| **Requirement**: | Weapon Proficiency 2 |
+| --- | --- |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Dexterity or Strength |
 
 Choose a Weapon List; with these weapons, you get a +1 to hit.
 
@@ -5141,9 +5614,12 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 
 ## Whirlwind Attack
 
-- **Requirement**:: Weapon Proficiency 12, Entertain 3
-- **Saving Throws**:: +2 Reflex, +1 Fortitude
-- **Ability Score**:: Dexterity or Charisma
+pX}
+
+| **Requirement**: | Weapon Proficiency 12, Entertain 3 |
+| --- | --- |
+| **Sav. Throws**: | +2 Reflex, +1 Fortitude |
+| **Ability Score**: | Dexterity or Charisma |
 
 The **first time** you take this Feat, using 3 Actions, you can perform a single attack (with a penalty of 1d6 to the Attack Roll) against all opponents in melee around you.
 
@@ -6425,11 +6901,12 @@ If this factor influences your game too much, reduce the radii of explosions and
 
 ### Acid Splash
 
-* **Magic List**: Conjuration
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You hurl a bubble of acid. Choose one creature within range, or two creatures within range that are within 1 meter of each other. The target must succeed on a Reflex Saving Throw or take 1d6 acid damage.
 
@@ -6439,11 +6916,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Aid
 
-* **Magic List**: Healing, Necromancy
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 hour per Magic Proficiency
+| **List**: | Healing, Necromancy |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour per Magic Proficiency |
 
 Your spell increases the robustness and resolve of your allies. Choose up to three creatures within range; for the duration they gain 5 Temporary Hit Points. A creature cannot receive more than one Aid spell per day.
 
@@ -6451,11 +6929,12 @@ Your spell increases the robustness and resolve of your allies. Choose up to thr
 
 ### Air Walk
 
-* **Magic List**: Air
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 Turn
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 Turn |
 
 For the duration, a willing creature of your choice within range, that you can see, can walk on air as if it were walking on solid ground. If a creature is in the air when the effect ends, the creature descends 18 meters per round for one minute after which it falls for the remaining distance.
 
@@ -6463,11 +6942,12 @@ For the duration, a willing creature of your choice within range, that you can s
 
 ### Alarm
 
-* **Magic List**: Abjuration
-* **Level**: 1, Common
-* **Casting Time**: 1 minute
-* **Range**: 9 meters
-* **Duration**: 2 hours per Magic Proficiency (maximum 24 hours)
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 minute |
+| **Range**: | 9 meters |
+| **Duration**: | 2 hours per Magic Proficiency (maximum 24 hours) |
 
 You set an alarm against unwanted intrusion. Choose a door, a window, or an area within range that is no larger than a 3-meter-radius sphere. Until the spell ends, an alarm alerts you whenever a Tiny or larger creature touches or enters the warded area. When you cast the spell, you can designate creatures that won' \*\*t set off the alarm. You also decide whether the alarm is mental or audible. A mental alarm alerts you with a ping in your mind if you are within 1.5 kilometers of the warded area. This ping awakens you if you are sleeping. An audible alarm produces the sound of a hand bell for 10 seconds that can be heard within 18 meters.
 
@@ -6475,11 +6955,12 @@ You set an alarm against unwanted intrusion. Choose a door, a window, or an area
 
 ### Alter Self
 
-* **Magic List**: Transmutation
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute per Magic Proficiency
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute per Magic Proficiency |
 
 You assume a different form. When you cast this spell, choose one of the following options, the effect of which lasts for the duration of the spell. While the spell lasts, you can end one option as an action to gain the benefits of a different one.
 
@@ -6495,11 +6976,12 @@ At any time for the duration of the spell, you can use two Actions to change you
 
 ### Animal Barrier
 
-* **Magic List**: Animals and Plants
-* **Level**: 5, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 turn per MP
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 turn per MP |
 
 Animal Barrier creates an invisible barrier capable of protecting all creatures within it, as if they were behind a wall, from attacks by animals, both normal and giant. The barrier, centered on the caster, has a diameter of 6 meters.
 
@@ -6507,11 +6989,12 @@ Animal Barrier creates an invisible barrier capable of protecting all creatures 
 
 ### Animal Friendship
 
-* **Magic List**: Animals and Plants
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 24 hours
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 24 hours |
 
 This spell lets you convince a natural beast that you mean it no harm. Choose a beast that you can see within range. The beast must see and hear you. If the beast' \*\*s Intelligence is 2 or higher, the spell fails. Otherwise, the beast must succeed on a Will Saving Throw or be charmed by you for the spell' \*\*s duration. If you or one of your companions harms the target, the spell ends.
 
@@ -6519,11 +7002,12 @@ This spell lets you convince a natural beast that you mean it no harm. Choose a 
 
 ### Animal Messenger
 
-* **Magic List**: Animals and Plants
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 24 hours
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 24 hours |
 
 By means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat, with a CR lower than 0. You specify a location, which you must have visited before, and a recipient who matches a general description, such as *a man or woman wearing the guard' \*\*s uniform* or *a red-haired dwarf wearing a pointed hat*. You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 75 kilometers per 24 hours for a flying messenger, or 40 kilometers for other animals. When the messenger arrives, it delivers your message to the creature that you described, replicating the sound of your voice. The messenger speaks only to a creature matching the description you gave. If the messenger doesn' \*\*t reach its destination before the spell ends, the message is lost, and the beast makes its way back to where you cast this spell.
 
@@ -6531,11 +7015,12 @@ By means of this spell, you use an animal to deliver a message. Choose a Tiny be
 
 ### Animate Dead
 
-* **Magic List**: Necromancy
-* **Level**: 3, Common
-* **Casting Time**: 1 minute
-* **Range**: 3 meters
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 1 minute |
+| **Range**: | 3 meters |
+| **Duration**: | Instantaneous |
 
 This spell creates an undead servant. Choose a pile of bones or a corpse of a Medium or Small humanoid within range. Your spell imbues the target with a foul mimicry of life, raising it as an undead creature. The target becomes a skeleton if you chose bones or a zombie if you chose a corpse. On each of your turns, you can use an action to mentally command any creature you made with this spell if the creature is within 18 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you' \*\*ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on it again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 
@@ -6543,11 +7028,12 @@ This spell creates an undead servant. Choose a pile of bones or a corpse of a Me
 
 ### Animate Objects
 
-* **Magic List**: Transmutation
-* **Level**: 5, Common
-* **Casting Time**: 1 minute
-* **Range**: 36 meters
-* **Duration**: Concentration, maximum 1 minute
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 1 minute |
+| **Range**: | 36 meters |
+| **Duration**: | Concentration, maximum 1 minute |
 
 Objects come to life at your command. Choose up to MP/2 nonmagical objects within range that are not being worn or carried. Medium targets count as two objects, Large targets count as four objects, Huge targets count as eight objects. You can' \*\*t animate objects larger than Huge. Each target animates and becomes a creature under your control until the spell ends or until reduced to 0 Hit Points.
 
@@ -6561,11 +7047,12 @@ If you issue no commands, the creature only defends itself against hostile creat
 
 ### Anti-Magic Field
 
-* **Magic List**: Abjuration
-* **Level**: 8, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self (3-meter radius sphere)
-* **Duration**: Concentration, up to 1 hour
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self (3-meter radius sphere) |
+| **Duration**: | Concentration, up to 1 hour |
 
 You are surrounded by an invisible sphere of anti-magic with a 3-meter radius. This area is divorced from the magical energy that suffuses the Earth. Within the sphere, spells can' \*\*t be cast, summoned creatures disappear, and even magic items become mundane. Until the spell ends, the sphere moves with you, centered on you. Spells and other magical effects, except those created by an artifact or Patron, are suppressed in the sphere and can' \*\*t protrude into it. A slot expended to cast a suppressed spell is consumed. While an effect is suppressed, it doesn' \*\*t function, but the time it spends suppressed counts against its duration.
 
@@ -6583,11 +7070,12 @@ You are surrounded by an invisible sphere of anti-magic with a 3-meter radius. T
 
 ### Antilife Shell
 
-* **Magic List**: Animals and Plants
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Personal (3-meter radius)
-* **Duration**: up to 1 hour
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Personal (3-meter radius) |
+| **Duration**: | up to 1 hour |
 
 A glowing barrier extends out from you to a radius of 3 meters and moves with you, remaining centered on you and keeping creatures other than undead and constructs at bay. The barrier lasts for the duration.
 
@@ -6597,11 +7085,12 @@ The barrier prevents an affected creature from passing through it in any way. An
 
 ### Antipathy/Sympathy
 
-* **Magic List**: Enchantment
-* **Level**: 8, Rare
-* **Casting Time**: 1 hour
-* **Range**: 18 meters
-* **Duration**: 10 days
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 1 hour |
+| **Range**: | 18 meters |
+| **Duration**: | 10 days |
 
 This spell attracts or repels creatures of your choice. You target something within range, either a Huge or smaller object or creature or an area that is no larger than a 30-meter-radius sphere. Then specify a kind of intelligent creature, such as red dragons, goblins, or vampires. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose antipathy or sympathy as the aura' \*\*s effect.
 
@@ -6613,11 +7102,12 @@ This spell attracts or repels creatures of your choice. You target something wit
 
 ### Apparent Death
 
-* **Magic List**: Necromancy
-* **Level**: 3, Uncommon
-* **Casting Time**: 1 Reaction
-* **Range**: 18 meters
-* **Duration**: 6 rounds plus 1 round per MP
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 1 Reaction |
+| **Range**: | 18 meters |
+| **Duration**: | 6 rounds plus 1 round per MP |
 
 The caster induces in themselves, or in a willing creature, a state of total paralysis that appears identical to death, even under close examination. An affected creature can hear sounds and smell odors, but cannot move and is completely devoid of tactile sensations; if the body is damaged, it will perceive no discomfort, nor will it have any physical reaction. All damage inflicted on a creature in this state is reduced by half; poisons and attacks that paralyze or drain life have no effect before this spell expires. One round is required, after the spell ends, before the body can resume its normal vital functions.
 
@@ -6625,11 +7115,12 @@ The caster induces in themselves, or in a willing creature, a state of total par
 
 ### Arcane dart
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: 1 Action
-* **Range**: 36 meters
-* **Duration**: 1 Turn, Concentration
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Action |
+| **Range**: | 36 meters |
+| **Duration**: | 1 Turn, Concentration |
 
 You create a glowing dart of magical force. The dart strikes a creature within range that you can see, chosen by you. A dart inflicts 1d4 + 1 force damage to its target, and you can direct them to hit one or more creatures.
 
@@ -6645,11 +7136,12 @@ For each Action spent in the round dedicated to casting the spell beyond the fir
 
 ### Arcane Eye
 
-* **Magic List**: Divination
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Concentration, up to 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Concentration, up to 1 hour |
 
 You create an invisible, magical eye within range that hovers in the air for the duration.
 
@@ -6657,11 +7149,12 @@ You mentally receive visual information from the eye, which has normal vision an
 
 ### Arcane Hand
 
-* **Magic List**: Evocation
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Concentration, 1 minute
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Concentration, 1 minute |
 
 You create a Large hand made of transparent, luminous energy in an unoccupied space within range that you can see. The hand persists for the spell' \*\*s duration and moves at your command, mimicking the movements of your hand.
 
@@ -6681,11 +7174,12 @@ When you cast the spell and as 2 Actions on your subsequent turns, you can move 
 
 ### Arcane Lock
 
-* **Magic List**: Abjuration
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Until dispelled
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Until dispelled |
 
 You cast the spell on a closed door, window, gate, chest, or other entrance, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 1 meter of the object, suppresses the spell for 1 minute. Otherwise, the entrance is impassable until it is destroyed or the spell is dispelled or suppressed. Casting knock on the object suppresses Arcane Lock for 10 minutes.
 
@@ -6695,11 +7189,12 @@ While affected by this spell, the object is more difficult to break or force ope
 
 ### Arcane Mark
 
-* **Magic List**: Universal
-* **Level**: 0, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Permanent
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Permanent |
 
 This spell allows you to inscribe a personal rune or mark on an object. The writing can be no more than 15 cm long. The writing can be visible or invisible as decided at the time of casting.
 Detect Magic or Read Magic spells reveal the writing if invisible.
@@ -6709,11 +7204,12 @@ If the writing is placed on a creature, it fades within a month.
 
 ### Arcane Mirage
 
-* **Magic List**: Illusion
-* **Level**: 7, Rare
-* **Casting Time**: 10 minutes
-* **Range**: Sight
-* **Duration**: 10 days
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 10 minutes |
+| **Range**: | Sight |
+| **Duration**: | 10 days |
 
 You make a piece of terrain in an area up to 1.5 kilometers square within range look, sound, and smell like some other sort of terrain. The terrain' \*\*s general shape remains the same, however. Open fields or a road could be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road.
 
@@ -6725,21 +7221,23 @@ The illusion includes audible, visual, tactile, and olfactory elements, so it ca
 
 ### Arcane Sword
 
-* **Magic List**: Evocation
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration, up to 1 minute |
 
 For the duration of the spell, you create a floating sword of force at range. When the sword appears, you make a melee attack with a modifier of MP + spell modifier against a target of your choice within 1 meter of the sword. On a hit, the target takes 4d10 force damage. Until the spell ends, you can use an Action each round to move the sword up to 6 meters to a point you can see and repeat this attack against the same target or a different one.
 
 ### Arcanist' \*\*s Magic Aura
 
-* **Magic List**: Illusion
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 24 hours
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 24 hours |
 
 You place an illusion on a creature or an object you touch so that divination spells reveal false information about it. The target can be a willing creature or an object that isn' \*\*t being carried or worn by another creature. When you cast this spell, choose one or both of the following effects. The effect lasts for the duration. If you cast this spell on the same creature or object every day for 30 days, placing the same effect on it each time, the illusion lasts until it is dispelled.
 
@@ -6749,11 +7247,12 @@ You place an illusion on a creature or an object you touch so that divination sp
 
 ### Augury
 
-* **Spell List**: Divination
-* **Level**: 2, Common
-* **Casting Time**: 1 minute
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 minute |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divination tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The Narrator chooses from the following possible omens:
 
@@ -6769,17 +7268,25 @@ The spell doesn' \*\*t take into account every possible circumstance that might 
 
 ### Aura of Purity
 
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 4, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Concentration, up to 10 minutes |
+
 A fragrance radiates from you in a 13-foot radius for the duration. While in this fragrance, you and your allies have Resistance to poison damage and +4 to Saving Throws to avoid or end effects that include the conditions of Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned.
 
 **For each Magic Critical Success** obtained in the Magic Check, you expand the radius of the fragrance by 3 feet.
 
 ### Awaken
 
-* **Magic List**: Animals and Plants
-* **Level**: 5, Rare
-* **Casting Time**: 8 hours
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 8 hours |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 After spending the casting time tracing magical pathways with a precious gem, you touch a Huge or smaller beast or plant. The target must have no Intelligence score or an Intelligence of -3 or less. The target gains an Intelligence of 0. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human' \*\*s. The Narrator will choose appropriate statistics for the type of awakened plant, such as the statistics for the awakened shrub or the awakened tree.
 
@@ -6789,11 +7296,12 @@ The awakened beast or plant is Charmed by you for 30 days or until you or your c
 
 ### Bane
 
-* **Magic List**: Enchantment
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends get a -1 penalty.
 
@@ -6801,11 +7309,12 @@ Up to three creatures of your choice that you can see within range must make a W
 
 ### Banishment
 
-* **Magic List**: Abjuration
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 minute
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute |
 
 You attempt to send a creature that you can see within range to another plane of existence. The target must succeed on a Will Saving Throw or be banished. If the target is native to the plane of existence you' \*\*re on, you banish the target to a harmless demiplane. While there, the target is incapacitated. The target remains there until the spell ends, at which point the target reappears in the space it left or in the nearest unoccupied space if that space is occupied. If the target is native to a different plane of existence than the one you' \*\*re on, the target vanishes with a faint popping noise, returning to its home plane. If the spell ends before 1 minute has passed, the target reappears in the space it left or in the nearest unoccupied space if its original space is occupied.
 
@@ -6813,21 +7322,23 @@ You attempt to send a creature that you can see within range to another plane of
 
 ### Barkskin
 
-* **Spell List**: Animals and Plants
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 The skin of the target you are touching when you cast this spell becomes rough and bark-like until the spell ends, and the target' \*\*s natural Defense increases by 1 + 1/6 Magic Proficiency regardless of the armor being worn.
 
 ### Bestow Curse
 
-* **Magic List**: Necromancy
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 A creature you touch must succeed on a Will Saving Throw or be cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
@@ -6842,11 +7353,12 @@ The remove curse spell (see description) ends this effect. At the Narrator' \*\*
 
 ### Black Tentacles
 
-* **Magic List**: Conjuration
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: 1 minute
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | 1 minute |
 
 Squirming, ebony tentacles fill a 6-meter square on ground that you can see within range. For the duration, these tentacles turn the ground in the area into difficult terrain.
 
@@ -6854,11 +7366,12 @@ When a creature enters the affected area for the first time on a turn or starts 
 
 ### Blade Barrier
 
-* **Magic List**: Conjuration
-* **Level**: 6, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 10 minutes
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 6, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 10 minutes |
 
 You create a vertical wall of whirling, razor-sharp blades made of magical energy. The wall appears within range and lasts for the duration. You can make a straight wall up to 30 meters long, 6 meters high, and 1 meter thick, or a ringed wall up to 18 meters in diameter, 6 meters high, and 1 meter thick. The wall provides total cover to creatures behind it, and its space is difficult terrain.
 
@@ -6868,11 +7381,12 @@ A spellcaster who is within one meter of the Blade Barrier is considered Distrac
 
 ### Bless
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You bless up to three creatures of your choice within range. Targets gain +1 to Saving Throws and Attack Rolls.
 
@@ -6882,11 +7396,12 @@ Multiple blessings, even from different Patrons, do not stack. You must be a Fol
 
 ### Bless Water
 
-* **Magic List**: Universal
-* **Level**: 2, Common
-* **Casting Time**: 10 Minutes
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 10 Minutes |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You bless up to one liter of liquid, enough to create 5 vials of Holy Water.
 
@@ -6896,11 +7411,12 @@ You must be a Follower or Devotee to cast this spell.
 
 ### Blessing of Life
 
-* **Magic List**: Healing
-* **Level**: 3, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute, Concentration
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute, Concentration |
 
 This spell bestows hope and vitality. Choose up to 6 creatures within range. For the duration, each target has +2 to Will Saving Throws and recovers 1 Hit Point per round.
 
@@ -6908,11 +7424,12 @@ This spell bestows hope and vitality. Choose up to 6 creatures within range. For
 
 ### Blight
 
-* **Magic List**: Necromancy
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 Necromantic energy washes over a creature of your choice that you can see within range, draining moisture and vitality from it. The target must make a Fortitude Saving Throw. If it fails the Saving Throw, the target takes 8d8 necrotic damage, or half as much damage if it succeeds. This spell has no effect on undead or constructs.
 
@@ -6924,10 +7441,11 @@ If the target is a nonmagical plant that isn' \*\*t a creature, such as a tree o
 
 ### Blinding Smite
 
-* **Magic List**: Evocation
-* **Level**: 3, Rare
-* **Casting Time**: 2 Actions
-* **Duration**: 1 minute
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Actions |
+| **Duration**: | 1 minute |
 
 The target hit by the strike takes 3d8 Light damage and must succeed on a Fortitude Saving Throw or become Blinded until the spell ends. At the end of each of its turns, the blinded target can make a Saving Throw, ending the spell on itself on a success.
 
@@ -6935,11 +7453,12 @@ The target hit by the strike takes 3d8 Light damage and must succeed on a Fortit
 
 ### Blindness/Deafness
 
-* **Magic List**: Necromancy
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You can blind or deafen an enemy. Choose one creature that you can see within range. The target must make a Fortitude Saving Throw. If it fails, the target is either blinded or deafened (your choice) for the duration.
 
@@ -6947,11 +7466,12 @@ You can blind or deafen an enemy. Choose one creature that you can see within ra
 
 ### Blink
 
-* **Magic List**: Transmutation
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 round per Magic Proficiency
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 round per Magic Proficiency |
 
 Roll a d6 at the end of each of your turns for the duration of this spell. On an odd number, you vanish from your current plane of existence and appear in the Ethereal Plane (the spell fails and the casting is wasted if you were already on that plane). At the start of your next turn, and when the spell ends if you are on the Ethereal Plane, you return to an unoccupied space of your choice that you can see within 3 meters of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (randomly determined if more than one space is available). You can dismiss the spell as an Action.
 
@@ -6959,21 +7479,23 @@ While on the Ethereal Plane, you can see and hear the plane you originated from,
 
 ### Blur
 
-* **Magic List**: Illusion
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | 1 minute |
 
 Your body becomes blurred, shifting and wavering to anyone who can see you. For the duration of the spell, all creatures have -1d6 to Attack Rolls against you. Attackers that don' \*\*t rely on sight are immune to this effect, for example if they have blindsight or are able to distinguish illusions, as with truesight.
 
 ### Branding Smite
 
-* **Spell List**: Invocation
-* **Level**: 2, Common
-* **Casting Time**: 1 Action
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Invocation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 Action |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 The next time you hit a creature with a melee weapon attack during the spell' \*\*s duration, the weapon gleams with a magical glow as you strike. The attack deals an extra 1d6 radiant damage to the target, which becomes visible if it' \*\*s invisible and emits dim light in a 3-foot radius. Additionally, the target can' \*\*t become invisible until the spell ends.
 
@@ -6981,11 +7503,12 @@ The next time you hit a creature with a melee weapon attack during the spell' \*
 
 ### Burning Wave
 
-* **Magic List**: Fire
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal (3-meter cone)
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal (3-meter cone) |
+| **Duration**: | Instantaneous |
 
 You hold your hands closed in front of you, a powerful burning wave generates from each of your fists. Each creature in a 3-meter cone must make a Reflex Saving Throw. A creature takes 1d4 fire damage per Magic Proficiency point, up to a maximum of 5d4, on a failed save, or half as much damage on a successful one. The heat ignites flammable objects in the area that aren' \*\*t being worn or carried.
 
@@ -6995,11 +7518,12 @@ You hold your hands closed in front of you, a powerful burning wave generates fr
 
 ### Call Lightning
 
-* **Magic List**: Air
-* **Level**: 3, Common
-* **Casting Time**: 1 round
-* **Range**: 36 meters
-* **Duration**: Concentration, maximum 10 minutes
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 1 round |
+| **Range**: | 36 meters |
+| **Duration**: | Concentration, maximum 10 minutes |
 
 A storm cloud appears in the shape of a cylinder that is 3 meters tall with a 18-meter radius, centered on a point you can see 30 meters above you. The spell fails automatically if you can' \*\*t see a point in the air where the storm cloud could appear (for example, if you' \*\*re in a room that can' \*\*t accommodate the cloud). When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 1 meter of that point must make a Reflex Saving Throw. A creature takes 3d10 lightning damage on a failed Saving Throw, or half as much damage on a successful one. On each of your turns until the spell ends, you can use two Actions to call down lightning in this way again, targeting the same point or a different one.
 
@@ -7009,11 +7533,12 @@ If you are outdoors in stormy conditions when you cast this spell, the spell giv
 
 ### Calm Emotions
 
-* **Magic List**: Enchantment
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration, up to 1 minute |
 
 You attempt to suppress strong emotions in a group of people. Each humanoid in a 6-meter radius sphere centered on a point you choose within range must make a Will Saving Throw; a creature can choose to fail this Saving Throw if it wishes. If a creature fails the Saving Throw, choose one of these two effects.
 
@@ -7023,11 +7548,12 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 ### Catnap
 
-* **Magic List**: Enchantment
-* **Level**: 2, Legendary
-* **Casting Time**: 1 round
-* **Range**: 6 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 2, Legendary |
+| **Time**: | 1 round |
+| **Range**: | 6 meters |
+| **Duration**: | 1 minute |
 
 This spell allows the caster to put to rest for 1 hour up to 1 creature per (Magic Proficiency/6 + Magic Adept). The creature must be willing.
 
@@ -7037,11 +7563,12 @@ This hour of rest is equivalent to 8 hours of rest for the purpose of recovering
 
 ### Cattalm' \*\*s Blessing
 
-* **Magic List**: Enchantment, Fire
-* **Level**: 3, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Enchantment, Fire |
+| --- | --- |
+| **Level**: | 3, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You invoke Cattalm' \*\*s wrath upon your adversary. The target creature takes 4d6 fire damage and must make a Will Saving Throw or suffer a -1d6 penalty to their next skill check, Attack Roll, or Saving Throw, and the caster increases their Fate Points pool by one.
 
@@ -7049,11 +7576,12 @@ You invoke Cattalm' \*\*s wrath upon your adversary. The target creature takes 4
 
 ### Cattalm' \*\*s Slap
 
-* **Magic List**: Evocation
-* **Level**: 1, Uncommon
-* **Casting Time**: 1 Reaction, which you can take in response to damage dealt to you by a creature within 18 meters of you that you can see
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 1 Reaction, which you can take in response to damage dealt to you by a creature within 18 meters of you that you can see |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You point your finger, and the creature that harmed you is slapped by divine fire. The creature must make a Reflex Saving Throw and if it fails, it takes 2d10 fire damage, or half as much damage if it succeeds.
 
@@ -7061,11 +7589,12 @@ You point your finger, and the creature that harmed you is slapped by divine fir
 
 ### Chain Lightning
 
-* **Magic List**: Air
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: Instantaneous
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | Instantaneous |
 
 You create a bolt of lightning that strikes a target of your choice within range that you can see. From this target, another bolt strikes the nearest target within 6 meters. The process continues until 7 targets have been hit or there are no more new opponents in range. A target can be a creature or object of at least small size and can be targeted by only one bolt. A target must make a Reflex Saving Throw or take 8d6 lightning damage, or half as much on a successful save.
 
@@ -7075,11 +7604,12 @@ You create a bolt of lightning that strikes a target of your choice within range
 
 ### Charm Person
 
-* **Magic List**: Enchantment
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 You attempt to charm a humanoid you can see within range. It must make a Will Saving Throw, and has +1d6 if it is fighting against you or your allies. If it fails the Saving Throw, it is Charmed by you until the spell ends or until you or your allies do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you. Whenever the creature is threatened by you or one of your friends, it can remake the Saving Throw with a +2 bonus.
 
@@ -7087,11 +7617,12 @@ You attempt to charm a humanoid you can see within range. It must make a Will Sa
 
 ### Chill Touch
 
-* **Magic List**: Necromancy
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: 36 meters
-* **Duration**: 1 round
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | 36 meters |
+| **Duration**: | 1 round |
 
 You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of death. On a hit, the target takes 1d8 necrotic damage, and it can' \*\*t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has -1d6 to Attack Rolls against you until the end of its next turn.
 
@@ -7101,11 +7632,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Circle of Death
 
-* **Magic List**: Evocation
-* **Level**: 6, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 6, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | Instantaneous |
 
 A sphere of negative energy with an 18-meter radius erupts from a point within range. Each creature in that area must make a Fortitude Saving Throw. A creature takes 8d6 Void damage on a failed save, or half as much damage on a successful one.
 
@@ -7115,11 +7647,12 @@ A sphere of negative energy with an 18-meter radius erupts from a point within r
 
 ### Circle of Invisibility
 
-* **Magic List**: Illusion
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute per Magic Proficiency
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute per Magic Proficiency |
 
 This spell works like invisibility, but affects all creatures touched by the caster who subsequently remain within 3 meters of them. Subjects who move beyond the circle of invisibility immediately become visible.
 
@@ -7127,11 +7660,12 @@ This spell works like invisibility, but affects all creatures touched by the cas
 
 ### Clairvoyance
 
-* **Magic List**: Divination
-* **Level**: 3, Common
-* **Casting Time**: 10 minutes
-* **Range**: 1.5 kilometers
-* **Duration**: Concentration, up to 10 minutes
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 10 minutes |
+| **Range**: | 1.5 kilometers |
+| **Duration**: | Concentration, up to 10 minutes |
 
 You create an invisible sensor within range in a location familiar to you (a place you have visited or seen before) or in an obvious location that is unfamiliar to you (such as behind a door, around a corner, or in the middle of a grove of trees). The sensor remains in place for the duration, and cannot be attacked or otherwise interacted with. When you cast the spell, you choose seeing or hearing. You can use the chosen sense through the sensor as if you were in its space. As two actions, you can switch between seeing and hearing. A creature that can see the sensor (such as a creature benefiting from See Invisibility or truesight) perceives it as a luminous, intangible orb about the size of your fist.
 
@@ -7139,11 +7673,12 @@ You create an invisible sensor within range in a location familiar to you (a pla
 
 ### Close Portal
 
-* **Magic List**: Abjuration
-* **Level**: 2, Rare
-* **Casting Time**: 1 Turn
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 1 Turn |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 The caster positions themselves within range of a Portal. Once the spell is cast, if the Portal has a DC lower than that of the caster, it closes and disappears.
 
@@ -7153,11 +7688,12 @@ The caster positions themselves within range of a Portal. Once the spell is cast
 
 ### Cloudkill
 
-* **Magic List**: Water
-* **Level**: 5, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes |
 
 You create a 6-meter-radius sphere of poisonous, yellow-green fog centered on a point you choose within range. The fog spreads around corners. It lasts for the duration or until strong wind disperses the fog, ending the spell. Its area is heavily obscured. When a creature enters the spell' \*\*s area for the first time on a turn or starts its turn there, that creature must make a Fortitude Saving Throw. The creature takes 5d8 poison damage on a failed save, or half as much damage on a successful one. Creatures are affected even if they hold their breath or don' \*\*t need to breathe. The fog moves 3 meters away from you at the start of each of your turns, rolling along the surface of the ground. The vapors, being heavier than air, sink to the lowest level of the land, even pouring down openings.
 
@@ -7165,21 +7701,23 @@ You create a 6-meter-radius sphere of poisonous, yellow-green fog centered on a 
 
 ### Clumsiness
 
-* **Magic List**: Transmutation
-* **Level**: 2, Rare
-* **Casting Time**: 1 Action
-* **Range**: 9 meters
-* **Duration**: 1 round per Magic Proficiency, Concentration
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 1 Action |
+| **Range**: | 9 meters |
+| **Duration**: | 1 round per Magic Proficiency, Concentration |
 
 The target makes a Will Saving Throw with Charisma bonus. If they fail, whenever they make a Proficiency Check, Saving Throw, or Attack Roll, they always count one additional rolled 1 when checking for critical failures.
 
 ### Color Spray
 
-* **Magic List**: Illusion
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self (3-meter cone)
-* **Duration**: 1 round
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self (3-meter cone) |
+| **Duration**: | 1 round |
 
 A spray of lights and colors erupts from your hand. Creatures in a 3-meter cone must make a Will Saving Throw.
 
@@ -7189,11 +7727,12 @@ If the Saving Throw succeeds, there is no effect; if it fails, the creature is c
 
 ### Command
 
-* **Magic List**: Enchantment
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 round
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 round |
 
 You speak a one-word command to a creature you can see within range and make a gesture. The target must succeed on a Will Saving Throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn' \*\*t understand your language, or if your command would cause it harm.
 
@@ -7209,11 +7748,12 @@ Some typical commands and their effects follow. You might issue a command other 
 
 ### Commune
 
-* **Magic List**: Divination
-* **Level**: 5, Rare
-* **Casting Time**: 1 minute
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 1 minute |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 You communicate with your Patron and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren' \*\*t necessarily omniscient, so you might receive an *unclear* as an answer if a question pertains to information that lies beyond the Patron' \*\*s knowledge. In a case where a one-word answer could be misleading or contrary to the Patron' \*\*s interests, the Narrator might offer a short phrase as an answer instead.
 
@@ -7223,11 +7763,12 @@ If you cast the spell two or more times before the next dawn, there is a cumulat
 
 ### Commune with Nature
 
-* **Magic List**: Divination
-* **Level**: 5, Very Rare
-* **Casting Time**: 1 minute
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 5, Very Rare |
+| **Time**: | 1 minute |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 For an instant, you become one with nature and gain knowledge of the surrounding territory. In outdoor environments, the spell gives you knowledge of the land within 5 kilometers of you. In caves and other natural underground settings, the radius is limited to 100 meters. The spell doesn' \*\*t function where nature has been replaced by construction, such as in dungeons and towns.
 
@@ -7244,11 +7785,12 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 
 ### Comprehend Languages
 
-* **Magic List**: Divination
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 hour |
 
 For the duration, you understand the literal meaning of any spoken language that you hear.
 
@@ -7258,11 +7800,12 @@ For the duration, you understand the literal meaning of any spoken language that
 
 ### Comprehend Writings
 
-* **Magic List**: Divination
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 hour |
 
 For the duration, you understand the literal meaning of any non-magical written language that you see. You must touch the surface on which the words are written. It takes about 1 minute to read one page of text. This spell doesn' \*\*t decode secret messages in a text or glyphs, such as an arcane sigil, that aren' \*\*t part of a written language.
 
@@ -7272,11 +7815,12 @@ For the duration, you understand the literal meaning of any non-magical written 
 
 ### Compulsion
 
-* **Magic List**: Enchantment
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Concentration, up to 1 minute |
 
 Creatures of your choice within range that you can see and that can hear you must make a Will Saving Throw. A target automatically succeeds on this saving throw if it can' \*\*t be Charmed. Until the spell ends, you can use an Action on each of your turns to designate a direction that is horizontal to you. Each affected target must use as much of its movement as possible to move in that direction on its next turn. The target can' \*\*t take any other Action before moving. After moving in this way, the target can make another Will Saving Throw to try to end the effect.
 
@@ -7284,11 +7828,12 @@ A target isn' \*\*t compelled to move into an obviously deadly hazard, such as a
 
 ### Concentrated Kyrin Currant Juice
 
-* **Magic List**: Animals and Plants, Earth
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Animals and Plants, Earth |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You extract the acidic sap from the currants and project a line of acid spray 9 meters long and 1 meter wide in a direction of your choice. Each creature in the line must succeed on a Reflex Saving Throw or be covered with acid for the duration of the spell or until a creature uses two Actions to wipe the acid off itself or another creature. A creature covered with acid takes 2d4 acid damage at the start of each of its turns.
 
@@ -7296,11 +7841,12 @@ You extract the acidic sap from the currants and project a line of acid spray 9 
 
 ### Cone of Cold
 
-* **Magic List**: Water
-* **Level**: 5, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self (18-meter cone)
-* **Duration**: Instantaneous
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self (18-meter cone) |
+| **Duration**: | Instantaneous |
 
 A blast of cold air erupts from your hands. Each creature in a 18-meter cone must make a Fortitude Saving Throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
@@ -7310,11 +7856,12 @@ A blast of cold air erupts from your hands. Each creature in a 18-meter cone mus
 
 ### Confusion
 
-* **Magic List**: Enchantment
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | 1 minute |
 
 This spell assaults and twists creatures' \*\* minds, spawning illusions and causing uncontrolled actions. When you cast this spell, each creature in a 3-meter radius sphere centered on a point you choose within range must make a Will Saving Throw. A target that fails its saving throw can' \*\*t take reactions and must roll a d10 at the start of each of its turns to determine its behavior for that turn.
 
@@ -7331,11 +7878,12 @@ At the end of each of its turns, an affected target can make a Will Saving Throw
 
 ### Conjure Animals
 
-* **Magic List**: Animals and Plants
-* **Level**: 3, Uncommon
-* **Casting Time**: 3 Actions
-* **Range**: 18 meters
-* **Duration**: 1 Turn
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 3 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 Turn |
 
 You summon magical spirits that take the appearance of beasts and appear in unoccupied spaces within range that you can see. Choose one of the following options to determine what appears:
 
@@ -7352,11 +7900,12 @@ The summoned creatures are friendly to you and your companions and obey to the b
 
 ### Conjure Elemental
 
-* **Magic List**: Air, Water, Earth, Fire
-* **Level**: 5, Rare
-* **Casting Time**: 1 minute
-* **Range**: 27 meters
-* **Duration**: Concentration, 1 Turn
+| **List**: | Air, Water, Earth, Fire |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 1 minute |
+| **Range**: | 27 meters |
+| **Duration**: | Concentration, 1 Turn |
 
 You summon an elemental servant. Choose an area within range composed of water, air, fire, or earth that fills a 1-meter-radius sphere. An elemental of challenge rating 3 or lower appropriate to the area you chose appears in an unoccupied space within 3 meters of it. The elemental disappears when it drops to 0 Hit Points or the spell ends.
 
@@ -7366,11 +7915,12 @@ Each Magic List can only summon its specific Elemental
 
 ### Conjure Minor Elementals
 
-* **Magic List**: Air, Water, Earth, Fire
-* **Level**: 4, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: 27 meters
-* **Duration**: 1 Turn
+| **List**: | Air, Water, Earth, Fire |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | 27 meters |
+| **Duration**: | 1 Turn |
 
 You summon elementals that appear in unoccupied spaces within range that you can see. Choose one of the following options to decide what appears:
 
@@ -7387,11 +7937,12 @@ Each Magic List can only summon its specific Elemental. The elemental is friendl
 
 ### Conjure Mount
 
-* **Magic List**: Animals and Plants
-* **Level**: 2, Common
-* **Casting Time**: 10 minutes
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 10 minutes |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Narrator might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
 
@@ -7403,11 +7954,12 @@ You can' \*\*t have more than one mount bound by this spell at a time. As an Act
 
 ### Contagion
 
-* **Magic List**: Necromancy
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 7 days
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 7 days |
 
 Your touch inflicts disease. Make a melee attack against a creature within your reach. If you hit, you infect the creature with a disease of your choice from any of those described below. At the end of each of the target' \*\*s turns, it must make a Fortitude Saving Throw. After failing three of these Saving Throws, the disease' \*\*s effects last for the duration, and the creature stops making these saves. After succeeding on three of these Saving Throws, the creature recovers from the disease, and the spell ends. While making Saving Throws, the creature suffers the effects of the disease.
 
@@ -7422,11 +7974,12 @@ Since this spell induces a natural disease in its target, any effect that remove
 
 ### Contagious Confusion
 
-* **Magic List**: Enchantment
-* **Level**: 8, Very Rare
-* **Casting Time**: 10 minutes
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 8, Very Rare |
+| **Time**: | 10 minutes |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 This spell assaults and twists creatures' \*\* minds, spawning illusions and causing uncontrolled actions. Once this spell is cast, you then have one minute to touch the first creature. This creature can make a Will Saving Throw to negate the effects.
 
@@ -7436,11 +7989,12 @@ If the caster does not touch a creature within one minute, then the caster thems
 
 ### Contingency
 
-* **Magic List**: Evocation
-* **Level**: 6, Uncommon
-* **Casting Time**: 10 minutes
-* **Range**: Self
-* **Duration**: 10 days
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 10 minutes |
+| **Range**: | Self |
+| **Duration**: | 10 days |
 
 Choose a spell of 4th level or lower that you can cast, that has a casting time of 2 Actions, and that can target you. You cast that spell—called the contingent spell—as part of casting contingency, expending spell slots for both, but the contingent spell doesn' \*\*t come into effect. Instead, it takes effect when a certain circumstance occurs. You describe that circumstance when you cast the two spells. For example, a contingency cast with water breathing might stipulate that water breathing comes into effect when you are immersed in water or a similar liquid.
 
@@ -7450,21 +8004,23 @@ The contingent spell takes effect immediately after the circumstance is met for 
 
 ### Continual Flame
 
-* **Magic List**: Universal
-* **Level**: 2, Legendary
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 day
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 2, Legendary |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 day |
 
 A flame, equivalent to a torch' \*\*s brightness, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn' \*\*t use oxygen. A continual flame can be covered or hidden but cannot be smothered or quenched.
 
 ### Control Water
 
-* **Magic List**: Water
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 90 meters
-* **Duration**: Concentration, up to 10 minutes
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 90 meters |
+| **Duration**: | Concentration, up to 10 minutes |
 
 Until the spell ends, you control any free water inside the chosen area up to a 30-meter cube. When you cast this spell, you can choose any of the following effects. As an Action on your turn, you can repeat the same effect or choose a different one.
 
@@ -7482,11 +8038,12 @@ When a creature enters the vortex for the first time on a round or starts its tu
 
 ### Control Weather
 
-* **Magic List**: Water, Air
-* **Level**: 8, Very Rare
-* **Casting Time**: 10 minutes
-* **Range**: Self (1.5 kilometer radius)
-* **Duration**: Concentration, up to 8 hours
+| **List**: | Water, Air |
+| --- | --- |
+| **Level**: | 8, Very Rare |
+| **Time**: | 10 minutes |
+| **Range**: | Self (1.5 kilometer radius) |
+| **Duration**: | Concentration, up to 8 hours |
 
 For the duration, you take control of the weather within 7.5 kilometers of you. You must be outdoors to cast this spell. Moving to a place where you don' \*\*t have a clear path to the sky ends the spell early. When you cast this spell, you change the current weather conditions, which are determined by the Narrator based on season and latitude. You can modify the precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once the conditions have taken effect, you can change them again. When the spell ends, the weather gradually returns to normal.
 
@@ -7534,11 +8091,12 @@ When you change the weather conditions, find the current conditions on the follo
 
 ### Counterspell
 
-* **Magic List**: Abjuration
-* **Level**: 3, Common
-* **Casting Time**: 1 Reaction, which you take when you see a creature/object within 18 meters manifesting a spell
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 1 Reaction, which you take when you see a creature/object within 18 meters manifesting a spell |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You use a Reaction Action to make an Arcana check at DC 13. If the check succeeds, you understand if you can cancel the spell' \*\*s effect with Counterspell. The spell canceled must be of Level 2 or lower, regardless of whether it is manifested by a caster or object. Each Magic Critical Success or enhancement obtained from the original spell raises the level of the spell by 1.
 
@@ -7546,11 +8104,12 @@ You use a Reaction Action to make an Arcana check at DC 13. If the check succeed
 
 ### Create Beer
 
-* **Magic List**: Conjuration
-* **Level**: 0, Rare
-* **Casting Time**: variable
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 0, Rare |
+| **Time**: | variable |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 You create a mug of beer, 0.5 liters. The quality and type of beer depends on the yeast, malt, and water used.
 The longer the casting time of the spell, the higher the alcohol content. With a casting time of two actions, the alcohol content is 4.3 vol. If you spend 1 Action, the generated beer is non-alcoholic. Each Action spent after the first 2 increases the alcohol content by 0.3 vol up to a maximum of 12.5 vol.
@@ -7560,11 +8119,12 @@ After one hour, the beer vanishes. When consumed after an hour, any alcoholic ef
 
 ### Create Food and Water
 
-* **Magic List**: Conjuration
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 You create food and water in containers within range, enough to sustain up to five humanoids or 2 mounts for 24 hours. The food is bland but nourishing and spoils after 24 hours if not consumed, as does the water.
 
@@ -7574,11 +8134,12 @@ You create food and water in containers within range, enough to sustain up to fi
 
 ### Create Pit
 
-* **Magic List**: Conjuration
-* **Level**: 2, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: 30 meters plus 3 meters per level
-* **Duration**: 1 round plus 1 round per MP
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | 30 meters plus 3 meters per level |
+| **Duration**: | 1 round plus 1 round per MP |
 
 You create an extradimensional hole 3 meters by 3 meters with a depth of 3 meters for every two points of MP up to a maximum of 9 meters. You must create the pit on a horizontal surface of sufficient size. Since it extends into another dimension, the pit has no weight and does not displace the original underlying material.
 
@@ -7590,11 +8151,12 @@ Creatures that fall into the pit take normal falling damage. The smooth rocky wa
 
 ### Create or Destroy Water
 
-* **Magic List**: Water
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 You either create or destroy water.
 
@@ -7610,11 +8172,12 @@ The water is potable and quenches thirst if consumed within one round of creatio
 
 ### Create Undead
 
-* **Magic List**: Necromancy
-* **Level**: 6, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 3 meters
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 3 meters |
+| **Duration**: | Instantaneous |
 
 You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control (the Narrator has the game statistics for these creatures). During your turn, with two Actions, you can mentally command any creature you animated with this spell if the creature is within 36 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a specific chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow that order until its task is complete. The creature is under your control for 24 hours, after which it stops obeying commands you issue. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
@@ -7622,11 +8185,12 @@ You can cast this spell only at night. Choose up to three corpses of Medium or S
 
 ### Creation
 
-* **Magic List**: Illusion
-* **Level**: 5, Rare
-* **Casting Time**: 1 minute
-* **Range**: 9 meters
-* **Duration**: Special
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 1 minute |
+| **Range**: | 9 meters |
+| **Duration**: | Special |
 
 You pull wisps of shadow material from the Plane of Shadow to create, within range, nonliving objects of vegetable matter: soft goods, rope, wood, or something similar. You can also use this spell to create mineral objects such as stone, crystal, or metal. The object created must be no larger than a 1-meter cube, and the object must be of a form and material that you have seen before.
 
@@ -7646,11 +8210,12 @@ Using any material created by this spell as a material component of another spel
 
 ### Cry of Pain
 
-* **Magic List**: Necromancy
-* **Level**: 1, Rare
-* **Casting Time**: 1 Reaction
-* **Range**: personal
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 1, Rare |
+| **Time**: | 1 Reaction |
+| **Range**: | personal |
+| **Duration**: | Instantaneous |
 
 As a Reaction, you emit a cry of pain when hit in melee. The creature that hit you must make a Fortitude Saving Throw or immediately take 2d4 Void damage.
 
@@ -7658,11 +8223,12 @@ As a Reaction, you emit a cry of pain when hit in melee. The creature that hit y
 
 ### CTRLC+CTRLV
 
-* **Magic List**: Universal
-* **Level**: 1, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute per Magic Proficiency
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute per Magic Proficiency |
 
 This spell allows you to copy text from one source to another. For non-magical sources, this can be a book, a scroll, runes on a slab or a staff. The destination, which must be placed on the source, will copy the symbols in form and size up to its capacity, for a maximum of 1 page (of the destination) per minute.
 
@@ -7670,11 +8236,12 @@ If the writing is a spell, such as in a Tome or Scroll, the rules and limitation
 
 ### Cure Wounds
 
-* **Magic List**: Water, Healing
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Water, Healing |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 Your hand fills with healing positive energy, and a creature you touch regains a number of Hit Points equal to 1d8 + your spellcasting ability modifier. This spell, when used on an undead, requires a touch attack roll, and damages it by the same amount.
 
@@ -7696,11 +8263,12 @@ By spending triple the Magic Points, you can heal up to 4 creatures within 6 met
 
 ### Dancing Lights
 
-* **Magic List**: Evocation
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes of real game time
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes of real game time |
 
 You create up to four torch-sized lights within range, making them appear as torches, lanterns, or glowing orbs that hover in the air for the duration. You can also combine the four lights into one glowing vaguely humanoid form of Medium size. Regardless of the form you choose, each light sheds dim light in a 3-meter radius. As a Movement Action during your turn, you can move the lights up to 18 meters to a new point within range.
 
@@ -7710,11 +8278,12 @@ A light must be within 6 meters of another light created by this spell, and a li
 
 ### Darkness
 
-* **Magic List**: Evocation
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 10 minutes
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 10 minutes |
 
 Magical darkness spreads from a point you choose within range to fill a 3-meter-radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can' \*\*t see through this darkness, and nonmagical light can' \*\*t illuminate it.
 
@@ -7724,11 +8293,12 @@ If any of this spell' \*\*s area overlaps with an area of light created by a spe
 
 ### Darkvision
 
-* **Magic List**: Transmutation
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour of real game time
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour of real game time |
 
 A willing creature you touch gains the ability to see in the dark. For the duration of the spell, that creature has darkvision out to a range of 9 meters.
 
@@ -7736,11 +8306,12 @@ A willing creature you touch gains the ability to see in the dark. For the durat
 
 ### Daylight
 
-* **Magic List**: Evocation
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 hour of real game time
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 hour of real game time |
 
 A sphere of light with a 6-meter radius expands from a point of your choice within range. The sphere radiates bright light and dim light for an additional 12 meters. If you choose a point on an object you are holding or one that is not worn or carried, the light emanates from the object and moves with it. Completely covering the object with something opaque, such as a bowl or a helmet, blocks the light. If any part of this spell' \*\*s area overlaps with an area of darkness created by a spell of level 3 or lower, the spell that created the darkness is dispelled. The light created is considered sunlight.
 
@@ -7748,11 +8319,12 @@ A sphere of light with a 6-meter radius expands from a point of your choice with
 
 ### Death Ray
 
-* **Spell List**: Necromancy
-* **Level**: 2, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 20 feet
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 20 feet |
+| **Duration**: | Instantaneous |
 
 A black beam of crackling energy shoots from your hands toward a creature within range. Make a ranged spell attack against the target. Regardless of whether you hit or miss, the target must make a Fortitude Saving Throw.
 
@@ -7766,11 +8338,12 @@ The creature' \*\*s Fatigued condition increases by 1.
 
 ### Death Ward
 
-* **Magic List**: Necromancy
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 You cast the spell by touching a creature. You give the target protection from death. The first time the target would drop to 0 Hit Points as a result of taking damage, the target instead drops to 1 hit point, and the spell ends. If the spell is still in effect when the target is subjected to an effect that would kill it instantaneously without dealing damage, that effect is instead negated against the target, and the spell ends.
 
@@ -7778,11 +8351,12 @@ You cast the spell by touching a creature. You give the target protection from d
 
 ### Delayed Blast Fireball
 
-* **Magic List**: Fire
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: Concentration, 1 minute
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | Concentration, 1 minute |
 
 A beam of yellow light flashes from your pointing finger, then condenses to linger at a chosen point within range for the duration as a glowing bead. When the spell ends, either because your concentration is broken or because you decide to end it, the bead blossoms with a low roar into a flame tongue that spreads around corners. Each creature in a 6-meter-radius sphere centered on that point must make a Reflex Saving Throw. A creature takes fire damage equal to the total accumulated damage on a failed save, or half as much damage on a successful one. The spell' \*\*s base damage is 12d6. If at the end of your turn the bead has not yet detonated, the damage increases by 1d6.
 
@@ -7796,11 +8370,12 @@ The fire damages objects in the area and ignites flammable objects that aren' \*
 
 ### Destroy Undead
 
-* **Magic List**: Healing
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 Choose an undead within 36 meters. A luminous ray extends from your hand, enveloping the creature. The undead makes a Fortitude Saving Throw to halve 4d12 positive energy damage.
 
@@ -7810,11 +8385,12 @@ Choose an undead within 36 meters. A luminous ray extends from your hand, envelo
 
 ### Detect Magic
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1d4 +1 rounds per Magic Proficiency
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1d4 +1 rounds per Magic Proficiency |
 
 For the duration, you sense the presence of magic within 9 meters of you. You can use 1 Action to see a faint aura around any visible creature or object in the area that bears magic. With two Actions, you also learn its Magic List, if it has one.
 
@@ -7824,11 +8400,12 @@ The spell can penetrate most barriers, but it is blocked by 30 centimeters of st
 
 ### Detect Plants
 
-* **Magic List**: Divination
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 turn per MP
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 turn per MP |
 
 The caster who casts this spell is able to find a specific plant within a circle with a diameter of 3 meters per MP centered on the caster. The caster can concentrate on a different type of plant each round and can move, since the area of effect moves with them.
 
@@ -7836,11 +8413,12 @@ The caster who casts this spell is able to find a specific plant within a circle
 
 ### Detect Poison and Disease
 
-* **Magic List**: Divination
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 round per Magic Proficiency
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 round per Magic Proficiency |
 
 For the duration, you can sense the presence and location of poisons, poisonous creatures, and diseases within 9 meters of you. You also identify the kind of poison, poisonous creature, or disease. The spell can penetrate most barriers, but it is blocked by 30 centimeters of stone, 2.5 centimeters of common metal, a thin sheet of lead, or 1 meter of wood or dirt.
 
@@ -7848,11 +8426,12 @@ For the duration, you can sense the presence and location of poisons, poisonous 
 
 ### Detect Thoughts
 
-* **Magic List**: Divination
-* **Level**: 2, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 For the duration, you can read the thoughts of certain creatures. When you cast this spell and with two more Actions in each round until the spell ends, you can focus your mind on any creature that you can see within 9 meters of you. If the creature you chose has an Intelligence score of -3 or lower or doesn' \*\*t speak any language, the creature is unaffected.
 
@@ -7865,11 +8444,12 @@ While you have this spell active, you will be Distracted when casting other spel
 
 ### Dimension Door
 
-* **Spell List**: Conjuration
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 500 feet
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 500 feet |
+| **Duration**: | Instantaneous |
 
 You teleport yourself from your current location to any other spot within range. You arrive at exactly the desired location. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as *100 feet down* or *300 feet up to the northwest at a 45-degree angle*.
 
@@ -7881,11 +8461,12 @@ If you would arrive in a place already occupied by an object or a creature, you 
 
 ### Disguise Self
 
-* **Magic List**: Illusion
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 hour
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 hour |
 
 You change your appearance, along with the appearance of your clothes, armor, weapons, and other belongings on your person, until the spell ends or until you use an Action to dismiss it. You can appear 30 centimeters shorter or taller, thin, fat, or in between. You can' \*\*t change your body type, so you must adopt a form that has the same basic arrangement of limbs. Otherwise, the extent of the illusion is up to your imagination.
 
@@ -7893,11 +8474,12 @@ The changes created by this spell fail to hold up to physical inspection. For ex
 
 ### Disintegrate
 
-* **Magic List**: Transmutation
-* **Level**: 6, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 A thin green ray springs from your pointing finger to a target within range that you can see. The target can be a creature, an object, or a creation of magical force, such as a wall created by wall of force. A creature targeted by this spell must make a Fortitude Saving Throw. The target takes 10d6 + 40 force damage on a failed save, or half as much damage on a successful one. If this damage reduces the target to 0 Hit Points, it is disintegrated. A disintegrated creature and everything it is wearing and carrying, except magic items, are reduced to a pile of fine gray dust. The creature can be restored to life only through the intervention of a Patron.
 
@@ -7909,11 +8491,12 @@ This spell automatically disintegrates a nonmagical object or a creation of magi
 
 ### Dispel Magic
 
-* **Magic List**: Abjuration
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 Choose a creature, object, or magical effect within range. Any spell of level 2 or lower on the target ends.
 
@@ -7923,11 +8506,12 @@ A permanent magical effect is temporarily suppressed for 10 minutes.
 
 ### Divination
 
-* **Magic List**: Divination
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 Your magic and an offering put you in contact with a Patron or a Patron' \*\*s servant. You can ask a single question concerning a specific goal, event, or activity to occur within 7 days. The Narrator offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
 
@@ -7939,11 +8523,12 @@ If you cast the spell two or more times before finishing at least an 8-hour rest
 
 ### Divine Favor
 
-* **Magic List**: Invocation
-* **Level**: 1, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: Personal
-* **Duration**: 1 minute
+| **List**: | Invocation |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | Personal |
+| **Duration**: | 1 minute |
 
 Your prayers empower you and your weapon. Until the spell ends, when it hits, your weapon deals an additional 1d4 Light damage.
 
@@ -7951,11 +8536,12 @@ Your prayers empower you and your weapon. Until the spell ends, when it hits, yo
 
 ### Divine Word
 
-* **Spell List**: Invocation
-* **Level**: 7, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 30 feet
-* **Duration**: Instantaneous
+| **List**: | Invocation |
+| --- | --- |
+| **Level**: | 7, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 m |
+| **Duration**: | Instantaneous |
 
 You utter a divine word, infused with your Patron' \*\*s power. Choose any number of creatures within range that you can see. Each creature that can hear you must make a Will Saving Throw. If it fails the Saving Throw, the creature suffers an effect based on its current Hit Points:
 
@@ -7968,11 +8554,12 @@ Regardless of its current Hit Points, a celestial, elemental, fey, or fiend that
 
 ### Dominate Beast
 
-* **Magic List**: Enchantment, Animals and Plants
-* **Level**: 4, Very Rare - Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Enchantment, Animals and Plants |
+| --- | --- |
+| **Level**: | 4, Very Rare - Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration, up to 1 minute |
 
 You attempt to charm a beast within range that you can see. It must succeed on a Will Saving Throw or be charmed for the duration, gaining +1d6 to the roll if you or your allies are fighting it.
 
@@ -7986,11 +8573,12 @@ Each time the target takes damage, it makes a new Will Saving Throw against the 
 
 ### Dominate Monster
 
-* **Magic List**: Enchantment
-* **Level**: 8, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration, up to 1 hour
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 8, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration, up to 1 hour |
 
 You attempt to charm a creature within range that you can see. It must succeed on a Will Saving Throw or be charmed for the duration, gaining +1d6 to the roll if you or your allies are fighting it.
 
@@ -8002,11 +8590,12 @@ You can use two of your Actions to take total and precise control of the target.
 
 ### Dominate Person
 
-* **Magic List**: Enchantment
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration, up to 1 minute |
 
 You attempt to charm a humanoid within range that you can see. It must succeed on a Will Saving Throw or be Charmed for the duration, gaining +1d6 to the roll if you or your allies are fighting it.
 
@@ -8018,11 +8607,12 @@ You can use 2 Actions to take total and precise control of the target. Until the
 
 ### Dream
 
-* **Magic List**: Illusion
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Special
-* **Duration**: 8 hours
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Special |
+| **Duration**: | 8 hours |
 
 This spell shapes the dreams of a creature. Choose a creature known to you as the target of this spell. The target must be on the same plane of existence as you. Creatures that don' \*\*t sleep can' \*\*t be targeted by this spell. You, or a willing creature you touch, enter a trance state, acting as a messenger. While in the trance, the messenger is aware of their surroundings, but can' \*\*t take actions or move.
 
@@ -8034,11 +8624,12 @@ If you have a body part, lock of hair, clipping from a nail, or similar portion 
 
 ### Druidcraft
 
-* **Magic List**: Universal
-* **Level**: 0, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 Whispering to the spirits of nature, you create, within range, one of the following effects:
 
@@ -8051,11 +8642,12 @@ This spell can only be cast by Followers or Devotees of Efrem, Erondil, Gaya, Sh
 
 ### Earthquake
 
-* **Magic List**: Earth
-* **Level**: 8, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 150 meters
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 8, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 150 meters |
+| **Duration**: | Concentration, up to 1 minute |
 
 You create a seismic disturbance at a point on the ground that you can see within range. For the duration, an intense tremor rips through the ground in a 30-meter-radius circle centered on that point and shakes creatures and structures in contact with the ground in that area. The ground in the area becomes difficult terrain. Each creature on the ground that is concentrating must make a Fortitude Saving Throw. On a failed save, the creature' \*\*s concentration is broken.
 
@@ -8066,6 +8658,13 @@ This spell can have additional effects depending on the terrain in the area, as 
 Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each round until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the height of the structure must make a Reflex Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble. It must then use 2 actions succeeding an Athletics check DC 20 to free itself. The GM might adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes only half the damage and doesn' \*\*t fall prone or become buried.
 
 ### Efrem' \*\*s Blessings
+
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour per MP |
 
 Choose up to MP willing creatures that you can see within range. Each target transforms into a Beast of small, medium, or large size of your choice with a Challenge Rating of 4 or lower. You can choose a different form for each target. In subsequent rounds, you can use 2 Actions to transform the targets again.
 
@@ -8079,11 +8678,12 @@ The spell ends on a creature if it falls unconscious.
 
 ### Eithne' \*\*s Mud Ball
 
-* **Magic List**: Earth
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 24 meters
-* **Duration**: Instantaneous
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 24 meters |
+| **Duration**: | Instantaneous |
 
 The caster mimics the gesture of throwing a stone with a sling toward the target and makes a ranged spell Attack Roll.
 If the Attack Roll hits, the target takes 2d6 bludgeoning damage and must make a Reflex Saving Throw. If the saving throw fails, the target' \*\*s movement is reduced by 2 meters for 1 minute.
@@ -8094,11 +8694,12 @@ If the Attack Roll hits, the target takes 2d6 bludgeoning damage and must make a
 
 ### Eldritch Blast
 
-* **Magic List**: Evocation
-* **Level**: 1, Common
-* **Casting Time**: 1 Action
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Action |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 A beam of crackling energy streaks toward a creature within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 force damage.
 
@@ -8108,11 +8709,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Elemental Weapon
 
-* **Magic List**: Air, Water, Earth, Fire
-* **Level**: 1, Very Rare
-* **Casting Time**: 1 Action
-* **Range**: Touch
-* **Duration**: 6 rounds, Concentration
+| **List**: | Air, Water, Earth, Fire |
+| --- | --- |
+| **Level**: | 1, Very Rare |
+| **Time**: | 1 Action |
+| **Range**: | Touch |
+| **Duration**: | 6 rounds, Concentration |
 
 You cast the spell while touching a weapon, and it acquires powers based on the Magic List from which you cast the spell. The weapon is considered magical, as if it had a +1 bonus.
 If Elemental Weapon is cast using the *Air* List, the weapon becomes charged with electricity; with *Water*, the weapon becomes extremely cold; with *Earth*, acid flows from the weapon; with *Fire*, it becomes flaming. Whatever List is used, the effect makes the weapon deal an additional 1d6 damage of the indicated type per successful hit.
@@ -8122,11 +8724,12 @@ A weapon can only have one Elemental Weapon effect active at a time.
 
 ### Enhanced Ability
 
-* **Magic List**: Transmutation
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: up to 10 minutes
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | up to 10 minutes |
 
 You bestow a magical enhancement upon a creature that you touch. Choose one of the following effects; the target gains that effect until the spell ends.
 
@@ -8141,11 +8744,12 @@ You bestow a magical enhancement upon a creature that you touch. Choose one of t
 
 ### Enlarge/Reduce
 
-* **Magic List**: Transmutation
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You cause a creature or an object you can see within range to grow larger or smaller for the duration of the spell. Choose a creature or an object that is neither worn nor carried. If the target is unwilling, it can make a Fortitude Saving Throw. On a success, the spell has no effect.
 
@@ -8158,11 +8762,12 @@ If the target is a creature, everything it is wearing and carrying changes size 
 
 ### Entangle
 
-* **Magic List**: Animals and Plants
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: 1 minute
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | 1 minute |
 
 Grasping weeds and vines sprout from the ground in a 6-meter square starting from a point within range. For the duration, these plants turn the ground in the area into difficult terrain.
 
@@ -8170,11 +8775,12 @@ A creature in the area when you cast this spell must succeed on a Fortitude Savi
 
 ### Enthrall
 
-* **Magic List**: Enchantment
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 You weave a string of confusing words, causing creatures of your choice within range that you can see and who can hear you to make a Will Saving Throw. Any creature that cannot be charmed automatically succeeds on the Saving Throw, and if you or your companions are fighting a creature, it has +1d6 on the Saving Throw. If it fails the Saving Throw, the target has -1d6 on Awareness checks made to perceive any creature other than you until the spell ends or until the target can no longer hear you.
 
@@ -8182,11 +8788,12 @@ The spell ends if you are incapacitated or can no longer speak.
 
 ### Etherealness
 
-* **Magic List**: Transmutation
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: Up to 8 hours
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | Up to 8 hours |
 
 You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Ethereal Border for the duration or until you use an Action to dismiss the spell. If you move up or down, the cost of movement is doubled; if you move horizontally, the movement is doubled per Movement Action. You can see and hear the plane you originated from, but everything there looks gray, and you can' \*\*t see more than 18 meters away.
 
@@ -8198,11 +8805,12 @@ You ignore all objects and effects not on the Ethereal Plane, allowing you to mo
 
 ### Expeditious Retreat
 
-* **Magic List**: Transmutation
-* **Level**: 1, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: Personal
-* **Duration**: Concentration, 1 minute
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | Personal |
+| **Duration**: | Concentration, 1 minute |
 
 This spell allows you to move at an incredible pace. When you cast this spell, your movement increases by 2 meters per Movement Action.
 
@@ -8210,11 +8818,12 @@ This spell allows you to move at an incredible pace. When you cast this spell, y
 
 ### Eyebite
 
-* **Magic List**: Necromancy
-* **Level**: 6, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: Concentration, maximum 1 minute
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 6, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | Concentration, maximum 1 minute |
 
 For the duration of the spell, your eyes turn into a black void infused with dreadful power. A creature of your choice within 18 meters of you that you can see must succeed on a Will Saving Throw or, for the duration, suffer one of the following effects of your choice. During each of your turns, until the spell ends, you can use two Actions to target another creature, but you can' \*\*t target a creature again that has succeeded on a Saving Throw against this casting of eyebite.
 
@@ -8224,11 +8833,12 @@ For the duration of the spell, your eyes turn into a black void infused with dre
 
 ### Fabricate
 
-* **Magic List**: Transmutation
-* **Level**: 4, Common
-* **Casting Time**: 10 minutes
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 10 minutes |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 You convert raw materials into finished products of the same material. For example, you can fabricate a small wooden bridge from a pile of trees, a rope from a heap of hemp, and clothes from linen or wool. Choose raw materials that you can see within range. You can fabricate a Large or smaller object (contained within a 3-meter cube, or eight connected 1-meter cubes) given a sufficient quantity of raw materials. If you are working with metal, stone, or other mineral substances, the fabricated object can be no larger than Medium (contained within a single 1-meter cube). The quality of objects created by this spell is commensurate with the quality of the raw materials.
 
@@ -8236,11 +8846,12 @@ Creatures or magic items can' \*\*t be created or transmuted by this spell. Addi
 
 ### Faithful Hound
 
-* **Magic List**: Evocation
-* **Level**: 4, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 8 hours
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 4, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 8 hours |
 
 You can conjure a phantom watchdog in an unoccupied space that you can see within range, where it remains for the duration of the spell, until it is dismissed with an Action, or until it moves more than 30 meters away from you.
 
@@ -8252,11 +8863,12 @@ The hound' \*\*s attack bonus equals your spellcasting ability modifier + PM. If
 
 ### False Life
 
-* **Magic List**: Necromancy
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: 1 hour
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | 1 hour |
 
 Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary Hit Points for the duration.
 
@@ -8264,11 +8876,12 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 
 ### Fear
 
-* **Spell List**: Illusion
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self (30-foot cone)
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self (30-foot cone) |
+| **Duration**: | 1 minute |
 
 You project an illusory image of a creature' \*\*s worst fears. Each creature in a 30-foot cone must succeed on a Will Saving Throw or drop whatever it is holding and become Frightened for the duration of the spell.
 
@@ -8276,11 +8889,12 @@ While frightened by this spell, a creature must, during each of its turns, move 
 
 ### Feather Fall
 
-* **Magic List**: Air
-* **Level**: 1, Common
-* **Casting Time**: 1 Reaction, which you take when you or a creature within 18 meters of you falls
-* **Range**: 18 meters
-* **Duration**: 1 minute
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Reaction, which you take when you or a creature within 18 meters of you falls |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute |
 
 Choose up to 2 creatures within range. A falling creature' \*\*s rate of descent slows to 18 meters per round until the spell ends. If the creature lands before the spell ends, it takes no falling damage and can land on its feet, and the spell ends for that creature.
 
@@ -8288,11 +8902,12 @@ Choose up to 2 creatures within range. A falling creature' \*\*s rate of descent
 
 ### Feeblemind
 
-* **Spell List**: Enchantment
-* **Level**: 8, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 150 feet
-* **Duration**: Instantaneous
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 150 feet |
+| **Duration**: | Instantaneous |
 
 You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 damage and must make a Will Saving Throw. On a failed save, the creature' \*\*s Intelligence and Charisma scores drop to -4. The creature can' \*\*t cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them. After 30 days, the creature can repeat the Saving Throw against the spell. If it succeeds, the spell ends; if it fails, the effect is permanent.
 
@@ -8300,11 +8915,12 @@ The spell can be ended within 30 days by greater restoration, heal, or wish.
 
 ### Find the Path
 
-* **Magic List**: Divination
-* **Level**: 6, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: Personal
-* **Duration**: 1 day
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | Personal |
+| **Duration**: | 1 day |
 
 This spell allows you to find the shortest, most direct physical route to a specific fixed location that you are familiar with on the same plane of existence. If you specify a destination on another plane of existence, a destination that moves (such as a mobile fortress), or a non-specific destination (such as *a green dragon' \*\*s lair*), the spell fails.
 
@@ -8314,11 +8930,12 @@ For the duration of the spell, as long as you are on the same plane of existence
 
 ### Find Traps
 
-* **Magic List**: Divination
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes of real time
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes of real time |
 
 For the duration of the spell, you sense the presence of any trap within range that is within your line of sight. A trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you might consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area under the alarm spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden pit.
 
@@ -8326,11 +8943,12 @@ The trap is highlighted to your sight with a purple mark.
 
 ### Finger
 
-* **Magic List**: Enchantment
-* **Level**: 0, Rare
-* **Casting Time**: 1 Action
-* **Range**: 18 meters
-* **Duration**: 3 rounds
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 0, Rare |
+| **Time**: | 1 Action |
+| **Range**: | 18 meters |
+| **Duration**: | 3 rounds |
 
 You give the finger (or a raspberry or obscene gesture) to an opponent who must be able to see it.
 
@@ -8346,11 +8964,12 @@ If they fail the save by 1 or 2, they are punished. Until the end of the next ro
 
 ### Finger of Death
 
-* **Magic List**: Necromancy
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You send a surge of negative energy to a creature within range that you can see, causing it intense pain. The target must make a Fortitude Saving Throw. The target takes 7d8 + 30 Void damage on a failed save, or half as much damage on a successful one.
 
@@ -8362,11 +8981,12 @@ A humanoid killed by this spell rises as a zombie under your permanent command a
 
 ### Fire Bolt
 
-* **Magic List**: Fire
-* **Level**: 1, Common
-* **Casting Time**: 1 Action
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Action |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 You hurl a fiery spark at a creature or object within range. Make a ranged spell attack against the target. If you hit, the target takes 1d10 fire damage. A flammable object hit by this spell catches fire if it isn' \*\*t being worn or carried.
 
@@ -8376,11 +8996,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Fire Master
 
-* **Spell List**: Fire
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 60 feet
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 60 feet |
+| **Duration**: | Instantaneous |
 
 The caster chooses an area with a fire, at least 3 feet across, within range that is directly visible to them. By extinguishing the flames, they can create fireworks or smoke.
 
@@ -8389,11 +9010,12 @@ The caster chooses an area with a fire, at least 3 feet across, within range tha
 
 ### Fire Shield
 
-* **Magic List**: Fire, Water
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: 10 minutes
+| **List**: | Fire, Water |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | 10 minutes |
 
 Thin and wispy flames surround your body for the duration of the spell, emitting bright light in a 3-meter radius and dim light for 6 meters. You can end the spell early by using an Action to dismiss it.
 
@@ -8403,11 +9025,12 @@ In addition, whenever a creature within 1 meter of you hits you with a melee att
 
 ### Fire Storm
 
-* **Magic List**: Fire
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | Instantaneous |
 
 A storm made up of sheets of roaring flame appears at a point of your choice within range. The area of the storm consists of up to ten 3-meter cubes, which you can arrange as you wish. Each cube must have at least one face adjacent to the face of another cube. Each creature in the area must make a Reflex Saving Throw. It takes 7d10 fire damage on a failed save, or half as much damage on a successful one. The fire damages objects in the area and ignites flammable objects that aren' \*\*t being worn or carried. If you choose, plant life in the area is unaffected by this spell.
 
@@ -8417,11 +9040,12 @@ A storm made up of sheets of roaring flame appears at a point of your choice wit
 
 ### Fireball
 
-* **Magic List**: Fire
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | Instantaneous |
 
 A bright streak flashes from your pointing finger to a point of your choice within range and then blossoms with a low roar into a flame tongue.
 
@@ -8435,11 +9059,12 @@ The fire spreads around corners and fills the entire 6-meter-radius volume from 
 
 ### Flame Blade
 
-* **Magic List**: Fire
-* **Level**: 2, Common
-* **Casting Time**: 1 Action
-* **Range**: Self
-* **Duration**: Concentration, maximum 10 minutes
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 Action |
+| **Range**: | Self |
+| **Duration**: | Concentration, maximum 10 minutes |
 
 You create a flaming blade in your hand. The blade is similar in size and shape to a scimitar and it lasts for the duration. If you let go of the blade, it disappears, but you can create one again as an Action. You can use 2 Actions to make a melee attack with the flaming blade. On a hit, the target takes 3d6 fire damage. The flaming blade sheds bright light in a 3-meter radius and dim light for 6 meters.
 
@@ -8447,11 +9072,12 @@ You create a flaming blade in your hand. The blade is similar in size and shape 
 
 ### Flame Strike
 
-* **Magic List**: Fire
-* **Level**: 5, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 A vertical column of divine fire roars down from the heavens and strikes at a location you specify. Each creature in a 3-meter radius, 12-meter high cylinder centered on a point within range must make a Reflex Saving Throw. A creature takes 8d6 Light damage on a failed save, or half as much damage on a successful one.
 
@@ -8461,11 +9087,12 @@ A vertical column of divine fire roars down from the heavens and strikes at a lo
 
 ### Flamethrower
 
-* **Magic List**: Fire
-* **Level**: 2, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 A small flame appears at the end of the metal tube you hold in your hand. The flame remains there for the duration of the spell and doesn' \*\*t harm you or your equipment. The flame produces bright light in a 1-meter radius and dim light in a 1-meter radius. The spell ends if you dismiss it as an Action or if you cast it again.
 
@@ -8475,11 +9102,12 @@ With a ranged spell Attack Roll and spending 1 Action, you can extend the flame 
 
 ### Flaming Sphere
 
-* **Magic List**: Fire
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 minute
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute |
 
 For the duration of the spell, a sphere 1 meter in diameter appears in a space within range chosen by you. Any creature that ends its turn within 1 meter of the sphere must make a Reflex Saving Throw. The creature takes 2d6 fire damage if it fails the Saving Throw, or half as much damage if it succeeds.
 
@@ -8494,11 +9122,12 @@ While you have this spell active, you are Distracted when casting other spells.
 
 ### Stone to Flesh - Flesh to Stone
 
-* **Magic List**: Earth
-* **Level**: 6, Uncommon - Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Permanent
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 6, Uncommon - Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Permanent |
 
 You attempt to turn a creature within range that you can see to stone. If the target' \*\*s body is made of flesh, the creature becomes Slowed 1/6r and must make a Fortitude Saving Throw. If it fails the Saving Throw, it becomes Slowed 1/10 minutes instead, and its flesh begins to harden.
 The creature that fails the initial Saving Throw must make another Fortitude Saving Throw the next round. If it succeeds on this Saving Throw, there are no further effects. If it fails this new Saving Throw, it is transformed into stone and remains petrified for the duration.
@@ -8511,11 +9140,12 @@ The *Stone to Flesh* spell restores a creature to flesh provided it hasn' \*\*t 
 
 ### Floating Disk
 
-* **Magic List**: Conjuration
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 2 hours
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 2 hours |
 
 This spell creates a horizontal, slightly concave, circular plane of force, 1 meter in diameter and 2.5 centimeters thick, that floats 1 meter above the ground in an unoccupied space of your choice that you can see within range. The disk remains stationary for the duration, and can support up to 250 kilograms or 50 points of Encumbrance. If more weight is placed on it, the spell ends, and everything on the disk falls to the ground. As long as you are within 6 meters of it, the disk is immobile. If you move more than 6 meters from it, the disk follows you so that it remains within 6 meters of you. It can move across uneven terrain, up or down stairs, slopes and the like, but it can' \*\*t cross elevation changes of 3 or more meters. For example, the disk can' \*\*t move across a 3-meter-deep pit, nor could it leave such a pit if created at the bottom. If you move more than 30 meters from the disk (typically because it can' \*\*t move around an obstacle to follow you), the spell ends.
 
@@ -8523,11 +9153,12 @@ This spell creates a horizontal, slightly concave, circular plane of force, 1 me
 
 ### Fly
 
-* **Magic List**: Air
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 10 minutes
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 10 minutes |
 
 You cast the spell by touching a willing creature. For the duration of the spell, the target gains a flying speed of 18 meters. When the spell ends, if the target is still aloft, it falls, unless it can stop the fall.
 
@@ -8537,11 +9168,12 @@ Casting a spell while flying is more complex, you are Distracted if you fail a F
 
 ### Fog Cloud
 
-* **Magic List**: Water, Air
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 hour
+| **List**: | Water, Air |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 hour |
 
 You create a 6-meter-radius sphere of fog centered on a point within range. The sphere spreads around corners, and its area is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 15 kilometers per hour) disperses it.
 
@@ -8549,13 +9181,14 @@ You create a 6-meter-radius sphere of fog centered on a point within range. The 
 
 ### Forbiddance
 
-* **Spell List**: Abjuration
-* **Level**: 6, Uncommon
-* **Casting Time**: 10 minutes
-* **Range**: Touch
-* **Duration**: 1 day
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 10 minutes |
+| **Range**: | Touch |
+| **Duration**: | 1 day |
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 30 feet above the floor. For the duration, creatures can' \*\*t teleport into the area or use portals, such as that created by the gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, or the Plane of Shadow.
+You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 9 m above the floor. For the duration, creatures can' \*\*t teleport into the area or use portals, such as that created by the gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, or the Plane of Shadow.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell' \*\*s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or void damage (your choice, when you cast this spell).
 
@@ -8565,11 +9198,12 @@ The spell' \*\*s area can' \*\*t overlap with the area of another forbiddance sp
 
 ### Forcecage
 
-* **Magic List**: Invocation
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 30 meters
-* **Duration**: 1 hour
+| **List**: | Invocation |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 30 meters |
+| **Duration**: | 1 hour |
 
 An immobile, invisible, cube-shaped prison composed of magical force appears around an area you choose within range. The prison can be a cage or a solid box, as you choose. A prison in the shape of a cage can be up to 6 meters on a side, made of 1.5-centimeter diameter bars spaced 1.5 centimeters apart, and provides complete cover to creatures inside. A prison in the shape of a box can be up to 3 meters on a side, creating a solid barrier that prevents any matter from passing through it and blocking any spells cast into or out of the area. When you cast this spell, any creature that is completely inside the cage' \*\*s area must make a Reflex Saving Throw or be trapped. Creatures only partially within the area of the cage, or those too large to fit inside, are pushed away from the center of the area until they are completely outside the area.
 
@@ -8579,21 +9213,23 @@ This spell can' \*\*t be dispelled by Dispel Magic but only with Greater Dispel 
 
 ### Foresight
 
-* **Spell List**: Divination
-* **Level**: 9, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: Touch
-* **Duration**: 8 hours
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 9, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | Touch |
+| **Duration**: | 8 hours |
 
 You touch a willing creature to grant it a limited ability to see into the immediate future. For the duration, the target can' \*\*t be surprised and has +1d6 on Attack Rolls, basic skill checks, and Saving Throws. Additionally, for the duration, other creatures have -1d6 on Attack Rolls against the target. The spell immediately ends if you cast it again before its duration ends.
 
 ### Freedom of Movement
 
-* **Magic List**: Abjuration
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 You cast the spell by touching a willing creature. For the duration, the target' \*\*s movement ignores natural difficult terrain, while spells or other magical effects cannot reduce its speed or cause the target to be paralyzed or restrained if they have a DC lower than that of the spell itself.
 
@@ -8603,11 +9239,12 @@ The target can use two Actions to automatically free itself from any nonmagical 
 
 ### Freezing Sphere
 
-* **Magic List**: Water
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 90 meters
-* **Duration**: Instantaneous
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 90 meters |
+| **Duration**: | Instantaneous |
 
 A frigid globe of cold energy streaks from your fingertips to a point of your choice within range, where it explodes in an 18-meter-radius sphere. Each creature in the area must make a Fortitude Saving Throw. On a failed save, a creature takes 10d6 cold damage. On a successful save, it takes half as much damage.
 
@@ -8621,11 +9258,12 @@ If you wish, after completing the spell, you can refrain from firing the globe. 
 
 ### Gaseous Form
 
-* **Magic List**: Transmutation
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Concentration, up to 1 hour
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Concentration, up to 1 hour |
 
 You transform a willing creature you touch, along with everything it' \*\*s wearing and carrying, into a misty cloud for the duration. The spell ends if the creature drops to 0 Hit Points. Incorporeal creatures aren' \*\*t affected by this effect. While in this form, the target' \*\*s only method of movement is a flying speed of 3 meters. The target can enter and occupy the space of another creature. The target has resistance to nonmagical damage, and has +1d6 on Fortitude and Reflex Saving Throws. The target can pass through small holes, narrow openings, and even mere cracks, though it treats liquids as though they were solid surfaces. The target can' \*\*t fall and remains hovering in the air even when stunned or otherwise incapacitated.
 
@@ -8635,11 +9273,12 @@ While in the form of a misty cloud, the target can' \*\*t talk or manipulate obj
 
 ### Geas
 
-* **Magic List**: Enchantment
-* **Level**: 5, Rare
-* **Casting Time**: 1 minute
-* **Range**: 18 meters
-* **Duration**: 30 days
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 1 minute |
+| **Range**: | 18 meters |
+| **Duration**: | 30 days |
 
 You place a magical command on a creature within range that you can see, forcing it to carry out a specific task or forbidding it from performing an action or activity you decide. If the creature can understand you, it must succeed on a Will Saving Throw or become charmed by you for the duration. While the creature is charmed by you, it takes 3d10 damage each time it acts in a manner directly counter to your instructions, but no more than once per day. A creature that can' \*\*t understand you ignores the effect of this spell. You can issue any command of your choice, except for an activity that would result in certain death. Should you issue a suicidal command, the spell ends.
 
@@ -8649,11 +9288,12 @@ You can end the spell with an Action. Remove Curse, Greater Restoration, or Wish
 
 ### Gentle Repose
 
-* **Magic List**: Necromancy
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 10 days
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 10 days |
 
 You touch a corpse or other remains. For the duration, the target is protected from decay and cannot become undead.
 
@@ -8661,11 +9301,12 @@ You touch a corpse or other remains. For the duration, the target is protected f
 
 ### Giant Insect
 
-* **Magic List**: Animals and Plants
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 10 minutes
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 10 minutes |
 
 For the duration of the spell, you transform up to ten centipedes, three spiders, five wasps, or one scorpion within range into giant versions of their natural forms. A centipede becomes a giant centipede, a spider becomes a giant spider, a wasp becomes a giant wasp, and a scorpion becomes a giant scorpion. Each creature obeys your verbal commands, and in combat, they act on your turn. The DM has the statistics for these creatures and resolves their actions and movement. A creature remains in its giant size for the duration, until it drops to 0 Hit Points, or until you use an Action to dismiss the effect on it.
 
@@ -8673,11 +9314,12 @@ The DM might allow you to choose different targets. For example, if you transfor
 
 ### Glibness
 
-* **Magic List**: Transmutation
-* **Level**: 8, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 hour
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 hour |
 
 Until the spell ends, when you make a Charisma-based check, you can replace the number rolled with 15. Additionally, no matter what you say, magic or analysis that would determine if you are telling the truth always indicates you are being honest.
 
@@ -8685,21 +9327,23 @@ Until the spell ends, when you make a Charisma-based check, you can replace the 
 
 ### Glitterdust
 
-* **Spell List**: Fire, Air
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 120 feet
-* **Duration**: 1 round per Magic Proficiency
+| **List**: | Fire, Air |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 m |
+| **Duration**: | 1 round per Magic Proficiency |
 
 In a 10-foot diameter sphere, anyone inside is covered with bright, glittering dust. The cloud outlines creatures within it, including invisible ones, and anyone who remains in the area must make a Reflex Saving Throw at the start of their turn or be blinded for the round. The dust naturally disappears after the duration or if blown away by even a light wind.
 
 ### Globe of Invulnerability
 
-* **Magic List**: Abjuration
-* **Level**: 6, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal (3-meter radius)
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 6, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal (3-meter radius) |
+| **Duration**: | Concentration, up to 1 minute |
 
 An immobile, faintly shimmering barrier springs into existence in a 3-meter radius around you and remains for the duration.
 
@@ -8709,11 +9353,12 @@ Any spell of Level 4 (excluding higher results due to magic criticals) or lower 
 
 ### Glyph of Warding
 
-* **Magic List**: Abjuration
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Until dispelled or triggered
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Until dispelled or triggered |
 
 When you cast this spell, you inscribe a glyph that harms other creatures on a surface (such as a table or a section of floor or wall) or within an object that can be closed (such as a book, a scroll, or a treasure chest) to conceal the glyph. If you choose a surface, the glyph can cover an area no larger than 3 meters in diameter. If you choose an object, that object must remain in place; if the object is moved more than 3 meters from where you cast this spell, the glyph is broken, and the spell ends without being triggered.
 
@@ -8737,11 +9382,12 @@ It is not possible to have more than MP/4 Glyphs active simultaneously.
 
 ### Goodberry
 
-* **Magic List**: Animals and Plants
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You enchant up to 2d4 berries in your hand, which are infused with magic for the duration. A creature can use 1 Immediate Action to eat a berry. Eating a berry restores 1 hit point and provides nourishment, but not water, sufficient to sustain a creature for one day. Only the first berry is effective in a day.
 
@@ -8751,11 +9397,12 @@ The berries lose their potency if they are not consumed within 8 hours of the ca
 
 ### Grease
 
-* **Magic List**: Animals and Plants
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 minute
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute |
 
 Slippery grease covers the ground in a 3-meter square centered on a point within range, turning it into difficult terrain for the duration.
 
@@ -8763,11 +9410,12 @@ When the grease appears, each target standing in the area must succeed on a Refl
 
 ### Greater Blessing
 
-* **Magic List**: Conjuration
-* **Level**: 2, Uncommon
-* **Casting Time**: 1 Minute
-* **Range**: 18 meters
-* **Duration**: 1 hour
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 1 Minute |
+| **Range**: | 18 meters |
+| **Duration**: | 1 hour |
 
 You bless a creature of your choice. Within the duration, the creature can add 1d6 to a roll before knowing whether the check (AR/ST/Check) was successful or not. This bonus can be used twice in the hour. You must be a Follower or Devotee to cast this spell.
 
@@ -8775,11 +9423,12 @@ You bless a creature of your choice. Within the duration, the creature can add 1
 
 ### Greater Blindness/Deafness
 
-* **Magic List**: Necromancy
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes |
 
 You can blind or deafen an enemy. Choose one creature that you can see within range. The target must make a Fortitude Saving Throw. If it fails, the target is either blinded or deafened (your choice) for the duration.
 
@@ -8789,11 +9438,12 @@ You can blind or deafen an enemy. Choose one creature that you can see within ra
 
 ### Greater Dispel Magic
 
-* **Magic List**: Abjuration
-* **Level**: 5, Rare
-* **Casting Time**: 3 Actions
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 3 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 Choose a creature, object, or magical effect within range. Any spell of level 4 or lower on the target ends.
 
@@ -8805,11 +9455,12 @@ A permanent magical effect is temporarily suppressed for 10 minutes.
 
 ### Greater Hold Person
 
-* **Magic List**: Enchantment
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters, radius 6 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters, radius 6 meters |
+| **Duration**: | 1 minute |
 
 You hold up to 2d4 creatures within 18 meters of you in a 6-meter radius. The spell has no effect on creatures with CR 6 or higher. The targets must succeed on a Will Saving Throw or be paralyzed for the duration; the Saving Throw can be repeated when they are attacked.
 
@@ -8817,11 +9468,12 @@ You hold up to 2d4 creatures within 18 meters of you in a 6-meter radius. The sp
 
 ### Greater Invisibility
 
-* **Magic List**: Illusion
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 You cast the spell by touching a creature. The target becomes invisible until the spell ends. Anything the target is wearing or carrying becomes invisible as long as it remains on the target.
 
@@ -8829,11 +9481,12 @@ Casting spells or attack actions does not make the target visible.
 
 ### Greater Restoration
 
-* **Magic List**: Healing
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You imbue a creature you touch with positive healing energy to dispel a debilitating effect. It is not possible to benefit from more than one Greater Restoration per day:
 
@@ -8848,11 +9501,12 @@ In case of magical conditions, perform a counterspell check (p. ) against the co
 
 ### Guards and Wards
 
-* **Magic List**: Abjuration
-* **Level**: 6, Uncommon
-* **Casting Time**: 10 minutes
-* **Range**: Touch
-* **Duration**: 24 hours
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 10 minutes |
+| **Range**: | Touch |
+| **Duration**: | 24 hours |
 
 You create a ward that protects up to 225 square meters of floor space (a 15-meter square area, or one hundred 1-meter squares or twenty-five 3-meter squares). The warded area can be up to 6 meters tall, and shaped as you desire. You can ward several floor levels of a stronghold by dividing the area among them, as long as you can walk into each contiguous area while you are casting the spell.
 
@@ -8878,21 +9532,23 @@ The whole warded area radiates magic. A dispel magic cast on a specific effect, 
 
 ### Guidance
 
-* **Magic List**: Divination
-* **Level**: 0, Common
-* **Casting Time**: 1 Reaction
-* **Range**: 3 meters
-* **Duration**: 1 Round
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Reaction |
+| **Range**: | 3 meters |
+| **Duration**: | 1 Round |
 
 You cast the spell by touching a willing creature. Once before the spell ends, the target can roll a d4 and add the result to one ability check of its choice. It can roll the die before or after making the ability check. The spell then ends. It is not possible to cast Guidance on the same creature at intervals of less than 1 hour.
 
 ### Guiding Bolt
 
-* **Magic List**: Evocation
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 round
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 round |
 
 A flash of light streaks toward a creature of your choice within range. Make a ranged spell attack against the target. If you hit, the target takes 2d6 Light damage, and the next Attack Roll made against it before the end of your next turn has +1d6 to the Attack Roll, thanks to the mystical dim light that continues to shine around the target until then.
 
@@ -8900,11 +9556,12 @@ A flash of light streaks toward a creature of your choice within range. Make a r
 
 ### Gust of Wind
 
-* **Magic List**: Air
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal (18-meter line)
-* **Duration**: Concentration, up to 1 minute
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal (18-meter line) |
+| **Duration**: | Concentration, up to 1 minute |
 
 A line of strong wind 18 meters long and 3 meters wide blasts from you in a direction you choose for the spell' \*\*s duration. Each creature that starts its turn in the line must succeed on a Fortitude Saving Throw or be pushed 3 meters away from you in a direction following the line.
 
@@ -8916,11 +9573,12 @@ A thrown weapon that passes through a gust of wind has a 50\% chance of missing 
 
 ### Hallow
 
-* **Magic List**: Evocation
-* **Level**: 5, Rare
-* **Casting Time**: 24 hours
-* **Range**: Touch
-* **Duration**: Until dispelled
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 24 hours |
+| **Range**: | Touch |
+| **Duration**: | Until dispelled |
 
 You infuse the area surrounding a point you touch with the power of your Patron. The area can have a maximum radius of 18 meters, and the spell fails if it includes an area already under the effect of a hallow spell. The area subject to the spell generates the following effects.
 
@@ -8940,11 +9598,12 @@ You infuse the area surrounding a point you touch with the power of your Patron.
 
 ### Hallucinatory Terrain
 
-* **Magic List**: Illusion
-* **Level**: 4, Uncommon
-* **Casting Time**: 10 minutes
-* **Range**: 90 meters
-* **Duration**: 24 hours
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 10 minutes |
+| **Range**: | 90 meters |
+| **Duration**: | 24 hours |
 
 You make natural terrain in a 150-meter cube within range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren' \*\*t changed in appearance.
 
@@ -8952,11 +9611,12 @@ The tactile characteristics of the terrain are unchanged, so creatures entering 
 
 ### Harm
 
-* **Magic List**: Necromancy
-* **Level**: 6, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You unleash a virulent disease on a creature within range that you can see. The target must make a Fortitude Saving Throw. The target takes 12d6 Void damage on a failed save, or half as much damage on a successful one. If the target fails the save, its hit point maximum is reduced for 1 hour by an amount equal to the Void damage it took. Any effect that removes a disease allows the target' \*\*s hit point maximum to return to normal before that time passes.
 
@@ -8964,11 +9624,12 @@ You unleash a virulent disease on a creature within range that you can see. The 
 
 ### Haste
 
-* **Magic List**: Transmutation
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You accelerate the metabolism of up to 2 plus the number of times you' \*\*ve taken Magic Adept creatures of your choice within a 3-meter radius at range. Until the end of the spell, the targets can perform an additional Attack Action, without multiattack penalties, or a Movement Action. The additional Action can be part of another Action.
 
@@ -8982,11 +9643,12 @@ When the spell ends, the targets are Slowed 2/1r while they suffer from a sudden
 
 ### Heal
 
-* **Magic List**: Healing
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 Choose a creature within range that you can see. A surge of positive healing energy washes through the creature, causing it to regain 70 Hit Points. The spell also attempts to counterspell any blindness, deafness, and disease (even magical) affecting the target. This spell deals 50 Hit Points of damage to an undead with a touch spell Attack Roll.
 
@@ -8998,11 +9660,12 @@ Choose a creature within range that you can see. A surge of positive healing ene
 
 ### Heat Metal
 
-* **Magic List**: Fire
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 minute, Concentration
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute, Concentration |
 
 Choose a manufactured metal object, such as a metal weapon or a medium or heavy metal armor, within range and that you can see. You cause the object to glow red-hot with heat. Any creature in physical contact with the object takes 1d8 fire damage when you cast this spell. While maintaining Concentration, you inflict this damage again in the round.
 
@@ -9012,11 +9675,12 @@ If a creature is holding or wearing the object and takes damage from it, the cre
 
 ### Heroes' \*\* Feast
 
-* **Magic List**: Evocation
-* **Level**: 6, Uncommon
-* **Casting Time**: 10 minutes
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 10 minutes |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, but the beneficial effects don' \*\*t set in until the hour is over. Up to twelve creatures can partake of the feast. A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poisons, becomes immune to poison and being frightened, gets +1d6 on all Will and Fortitude Saving Throws, and gains 2d10 temporary Hit Points; these benefits last for 24 hours.
 
@@ -9024,11 +9688,12 @@ You bring forth a great feast, including magnificent food and drink. The feast t
 
 ### Heroism
 
-* **Magic List**: Enchantment
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 A willing creature you touch is imbued with bravery. Until the spell ends, the creature is immune to being frightened and gains temporary Hit Points equal to your spellcasting ability modifier at the start of each of its turns. When the spell ends, the target loses any remaining temporary Hit Points.
 
@@ -9036,10 +9701,10 @@ A willing creature you touch is imbued with bravery. Until the spell ends, the c
 
 ### Hideous Laughter
 
-* **Magic List**: Enchantment
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
 
 A creature within range of your choice that you can see perceives everything as hilariously funny and bursts into loud laughter as long as it is affected by this spell. The target must succeed on a Will Saving Throw or fall prone and lose 1 Action per round in subsequent rounds to laugh. Creatures with an Intelligence score of -2 or less ignore the effect.
 
@@ -9047,11 +9712,12 @@ At the end of each of its turns and each time it takes damage, the target can ma
 
 ### Hold Monster
 
-* **Magic List**: Enchantment
-* **Level**: 5, Common
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | 1 minute |
 
 Choose a creature that you can see within range. The target must succeed on a Will Saving Throw or be paralyzed for the duration. This spell has no effect on undead or constructs. At the end of each of its turns, the target can make another Will Saving Throw. On a success, the spell ends on the target.
 
@@ -9059,11 +9725,12 @@ Choose a creature that you can see within range. The target must succeed on a Wi
 
 ### Hold Person
 
-* **Magic List**: Enchantment
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute |
 
 Choose a humanoid that you can see within range. The spell has no effect on creatures with CR 4 or higher. The target must succeed on a Will Saving Throw or be paralyzed for the duration.
 
@@ -9071,31 +9738,34 @@ Choose a humanoid that you can see within range. The spell has no effect on crea
 
 ### Holy Aura
 
-* **Magic List**: Abjuration
-* **Level**: 8, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Concentration, 1 minute
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 8, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Concentration, 1 minute |
 
 Divine light washes out from you and coalesces in a soft radiance in a 9-meter radius around you. When you cast the spell, creatures of your choice in this radius emit dim light in a 1-meter radius and have +8 to all Saving Throws, while other creatures have -8 to Attack Rolls against them until the spell ends. In addition, when a fiend or undead hits a target creature with a melee attack, the aura flashes with brilliant light and the attacker must succeed on a Fortitude Saving Throw or be blinded until the spell ends.
 
 ### Hypnotic Pattern
 
-* **Magic List**: Illusion
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 minute |
 
 You create a twisting pattern of colors that weaves through the air inside a 9-meter cube within range. The pattern appears for a moment and then vanishes. Each creature in the area who sees the pattern must make a Will Saving Throw. On a failed save, the creature becomes charmed for the duration. While charmed by this spell, the creature is incapacitated and has a speed of 0. The spell ends for an affected creature if it takes any damage or if someone uses an Action to shake the creature out of its stupor.
 
 ### Ice Storm
 
-* **Magic List**: Water, Air
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 90 meters
-* **Duration**: Instantaneous
+| **List**: | Water, Air |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 90 meters |
+| **Duration**: | Instantaneous |
 
 A hail of rock-hard ice pounds to the ground in a 6-meter-radius, 12-meter-high cylinder centered on a point within range. Each creature in the cylinder must make a Reflex Saving Throw. A creature takes 2d8 bludgeoning damage and 4d6 cold damage on a failed save, or half as much damage on a successful one. Hailstones turn the storm' \*\*s area of effect into difficult terrain until the end of your next turn.
 
@@ -9105,11 +9775,12 @@ A hail of rock-hard ice pounds to the ground in a 6-meter-radius, 12-meter-high 
 
 ### Identify
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: variable
-* **Range**: Touch
-* **Duration**: Variable
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | variable |
+| **Range**: | Touch |
+| **Duration**: | Variable |
 
 Choose an object that you must remain in contact with throughout the casting of the spell. If it is a magic item or another object imbued with magic, make an Arcana check, with a bonus of +2d6, as part of casting the spell.
 
@@ -9123,11 +9794,12 @@ The Arcana check takes 10 minutes. With an Arcana score of 6, it takes 5 minutes
 
 ### Illusory Script
 
-* **Magic List**: Illusion
-* **Level**: 1, Common
-* **Casting Time**: 1 minute
-* **Range**: Touch
-* **Duration**: 10 days
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 minute |
+| **Range**: | Touch |
+| **Duration**: | 10 days |
 
 You write on a parchment, a piece of paper, or some other suitable writing material and imbue it with a powerful illusion that lasts for the duration of the spell.
 
@@ -9137,11 +9809,12 @@ Should the spell be dispelled, both the original writing and the illusion disapp
 
 ### Imprisonment
 
-* **Magic List**: Abjuration
-* **Level**: 9, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Until dispelled
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 9, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Until dispelled |
 
 You create magical restraints to hold a creature within range that you can see. The target must succeed on a Will Saving Throw or be bound by the spell; if it succeeds, it is immune to this spell if you cast it again. While affected by this spell, the creature doesn' \*\*t need to breathe, eat, or drink, and it doesn' \*\*t age. Divination spells can' \*\*t locate or perceive the target.
 
@@ -9161,11 +9834,12 @@ You can use a particular special component to create only one prison at a time. 
 
 ### Incendiary Cloud
 
-* **Magic List**: Fire
-* **Level**: 8, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: 1 minute
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | 1 minute |
 
 A swirling cloud of smoke shot through with white-hot embers appears in a 6-meter-radius sphere centered on a point within range. The cloud spreads around corners and is heavily obscured. It lasts for the duration or until a wind of moderate or greater speed (at least 15 kilometers per hour) disperses it.
 
@@ -9175,11 +9849,12 @@ At the start of each of your turns, the cloud moves 3 meters directly away from 
 
 ### Inflict Wounds
 
-* **Magic List**: Necromancy
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 Make a melee spell attack against a creature within reach. On a hit, the target takes 3d10 necrotic damage, Fortitude Saving Throw for half damage.
 
@@ -9187,11 +9862,12 @@ Make a melee spell attack against a creature within reach. On a hit, the target 
 
 ### Insect Plague
 
-* **Spell List**: Animals and Plants
-* **Level**: 5, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 300 feet
-* **Duration**: 10 minutes
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 300 feet |
+| **Duration**: | 10 minutes |
 
 A swarm of hungry locusts fills a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration of the spell, and its area is lightly obscured. The sphere' \*\*s area is difficult terrain.
 
@@ -9201,11 +9877,12 @@ When the area appears, each creature in it must make a Fortitude Saving Throw. A
 
 ### Instant Summons
 
-* **Magic List**: Conjuration
-* **Level**: 6, Rare
-* **Casting Time**: 1 minute
-* **Range**: Touch
-* **Duration**: Until dispelled
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 1 minute |
+| **Range**: | Touch |
+| **Duration**: | Until dispelled |
 
 You touch an object weighing 5 pounds or less whose largest dimension is no more than 180 centimeters. The spell leaves a mark on the object' \*\*s surface and invisibly inscribes its name on the sapphire used as the material component. Each time you cast this spell, you must use a different sapphire.
 
@@ -9217,11 +9894,12 @@ Dispel magic or a similar effect successfully applied to the sapphire ends the e
 
 ### Invisibility
 
-* **Magic List**: Illusion
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute per Magic Proficiency
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute per Magic Proficiency |
 
 You cast the spell by touching a creature. The target becomes invisible until the spell ends. Anything the target is wearing or carrying becomes invisible as long as it is on the target. The spell ends for a target that attacks or casts a spell.
 
@@ -9229,11 +9907,12 @@ You cast the spell by touching a creature. The target becomes invisible until th
 
 ### Invisible Cook
 
-* **Magic List**: Conjuration
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 2 hours
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 2 hours |
 
 This spell creates an almost invisible force only delimited by a slight aura (of a color of your choice) capable and skilled in cooking. Along with the cook, a set of pots and pans, as well as dishes and a small camp stove, also manifest.
 
@@ -9247,11 +9926,12 @@ None of the pots, dishes, or fire can be used except by the invisible cook.
 
 ### Irresistible Dance
 
-* **Magic List**: Enchantment
-* **Level**: 8, Legendary
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 8, Legendary |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 Choose a creature within range that you can see. The target begins a comic dance in place: shuffling, tapping its feet, and capering for the duration. Creatures that can' \*\*t be charmed are immune to this spell.
 
@@ -9261,21 +9941,23 @@ A dancing creature must use 2 Movement Actions to dance without leaving its spac
 
 ### Jump
 
-* **Magic List**: Air
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 The jump distance of the creature you touch when casting is tripled, compared to the result obtained and without limit of length/height, until the end of the spell.
 
 ### Knock
 
-* **Magic List**: Transmutation
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 Choose an object within range that you can see. The object can be a door, box, shackles, a lock, or another object that has a common or magical method to prevent access.
 
@@ -9289,11 +9971,12 @@ When you cast this spell, a loud knock, audible from up to 90 meters away, emana
 
 ### Know Traits
 
-* **Magic List**: Divination
-* **Level**: 1, Legendary
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 1, Legendary |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 This spell allows you to know the Traits of a creature. The subject is allowed a Will Saving Throw to resist. Regardless of the result of the Saving Throw, the creature knows for certain who cast the spell.
 
@@ -9301,11 +9984,12 @@ This spell allows you to know the Traits of a creature. The subject is allowed a
 
 ### Kyrin' \*\*s Acorn Barrage
 
-* **Magic List**: Animals and Plants
-* **Level**: 2, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: 50 meters
-* **Duration**: 1 minute per Magic Proficiency, Concentration
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | 50 meters |
+| **Duration**: | 1 minute per Magic Proficiency, Concentration |
 
 You enchant 9 acorns with magical energy and they begin to swirl 30 centimeters above your shoulder.
 Each round, by spending 1 Action, you can throw up to 5 acorns at one or more targets.
@@ -9315,11 +9999,12 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 
 ### Kyrin' \*\*s Chestnut Barrage
 
-* **Magic List**: Animals and Plants
-* **Level**: 5, Very Rare
-* **Casting Time**: 1 Action
-* **Range**: 60 meters
-* **Duration**: 1 minute per Magic Proficiency, Concentration
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Very Rare |
+| **Time**: | 1 Action |
+| **Range**: | 60 meters |
+| **Duration**: | 1 minute per Magic Proficiency, Concentration |
 
 You enchant 9 chestnuts with magical energy and they begin to swirl 60 centimeters above your shoulder.
 Each round, by spending 1 Actions, you can throw up to 5 chestnuts at one or more targets.
@@ -9329,11 +10014,12 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 
 ### Kyrin' \*\*s Earth Reading
 
-* **Magic List**: Earth
-* **Level**: 2, Uncommon
-* **Casting Time**: 1 Round
-* **Range**: Self (30-meter radius)
-* **Duration**: Instantaneous
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 1 Round |
+| **Range**: | Self (30-meter radius) |
+| **Duration**: | Instantaneous |
 
 You place your hands on the ground and once the spell is formulated, you have a fleeting vision of the environment around you within a 30-meter spherical radius.
 You can perceive the position and relative shape of creatures and structures that are in contact with the ground.
@@ -9342,11 +10028,12 @@ You can perceive the position and relative shape of creatures and structures tha
 
 ### Kyrin' \*\*s Flaming Acorn Barrage
 
-* **Magic List**: Animals and Plants, Fire
-* **Level**: 3, Rare
-* **Casting Time**: 2 Action
-* **Range**: 50 meters
-* **Duration**: 1 minute per Magic Proficiency, Concentration
+| **List**: | Animals and Plants, Fire |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Action |
+| **Range**: | 50 meters |
+| **Duration**: | 1 minute per Magic Proficiency, Concentration |
 
 You enchant 9 acorns with magical energy and they begin to swirl 30 centimeters above your shoulder.
 Each round, by spending 1 Action, you can throw up to 5 acorns at one or more targets.
@@ -9356,11 +10043,12 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 
 ### Kyrin' \*\*s Lemon Barrage
 
-* **Magic List**: Animals and Plants, Earth
-* **Level**: 3, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 30 meters
-* **Duration**: 1 round per Magic Proficiency, Concentration
+| **List**: | Animals and Plants, Earth |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 30 meters |
+| **Duration**: | 1 round per Magic Proficiency, Concentration |
 
 You enchant a vial containing at least 9 drops of lemon.
 Each round, by spending 1 Action, you can spray up to 2 drops of lemon, out of the 9 total, at one or more targets within 30 meters.
@@ -9370,11 +10058,12 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 
 ### Laydel' \*\*s Tear
 
-* **Magic List**: Illusion
-* **Level**: 2, Very Rare/Common
-* **Casting Time**: 2 Actions/1 Action
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Very Rare/Common |
+| **Time**: | 2 Actions/1 Action |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 The caster imbues a tear with magic and throws it against the opponent, requiring a ranged spell Attack Roll.
 The creature takes 1d6+2d6 damage; to determine the damage type, consult the table with the values of the first d6 rolled.
@@ -9395,27 +10084,36 @@ For a Devotee of Laydel, this spell is Common and has a casting time of 1 Action
 
 ### Ledyal' \*\*s Blessing
 
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Concentration, up to 6 rounds |
+
 A sacred aura radiates from you. Any creature that starts its turn within 9 meters of you is healed for 1d6 Hit Points. A creature cannot be healed for more than 3 rounds per spell.
 
 **NOTE**: You must be a Devotee or Follower of Ledyal or Sumkjr to cast this spell.
 
 ### Legend Lore
 
-* **Magic List**: Divination
-* **Level**: 5, Common
-* **Casting Time**: 10 minutes
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 10 minutes |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 Name or describe a person, place, or object. The spell brings to your mind a brief summary of the significant lore about the thing you named. If the thing you named isn' \*\*t of legendary importance, you gain no information. The more information you already have about the thing, the more precise and detailed the information you receive will be. The information you learn is accurate but might be hidden in figurative language.
 
 ### Lesser Bestow Curse
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 A creature you touch must succeed on a Will Saving Throw or be cursed for the duration of the spell. When you cast this spell, choose the nature of the curse from the following options:
 
@@ -9429,11 +10127,12 @@ The Remove Curse spell ends this effect. At the Narrator' \*\*s discretion, you 
 
 ### Lesser Protection from Energy
 
-* **Spell List**: Abjuration
-* **Level**: 1, Rare
-* **Casting Time**: 1 Reaction
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 1, Rare |
+| **Time**: | 1 Reaction |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 You cast the spell by touching a willing creature. For the duration of the spell, the target has Damage Reduction from the chosen energy equal to 5. You can sacrifice the entire duration of the spell, ending it, to reduce damage taken from one source of energy by 20 (as if you had Damage Resistance 20 from that energy source).
 
@@ -9441,11 +10140,12 @@ You cast the spell by touching a willing creature. For the duration of the spell
 
 ### Lesser Restoration
 
-* **Magic List**: Healing
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You can end one condition afflicting a creature you touch. The condition can be **blinded**, **deafened**, or **paralyzed**. It can reduce the level of **Fatigue** by one degree. It recovers 2d6 lost Maximum Hit Points, but does not increase current Hit Points. You can recover 1 point of non-permanently lost Ability Score.
 
@@ -9455,11 +10155,12 @@ In case of magical conditions, perform a counterspell check (p. ) against the co
 
 ### Levitate
 
-* **Magic List**: Air
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 10 minutes
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 10 minutes |
 
 A creature or object of your choice that you can see within range rises vertically up to 6 meters and remains suspended there for the duration. The spell can levitate a target that weighs up to 250 kilograms. An unwilling creature that succeeds on a Fortitude Saving Throw is unaffected.
 
@@ -9471,11 +10172,12 @@ While you are under the influence of this spell, you are considered Distracted w
 
 ### Life Bubble
 
-* **Magic List**: Air, Abjuration
-* **Level**: 4, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: 9 meters
-* **Duration**: 1 hour per Magic Proficiency
+| **List**: | Air, Abjuration |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour per Magic Proficiency |
 
 You can create up to 6 bubbles that surround creatures you designate.
 The total duration is 1 hour per point in Magic Proficiency, distributed as you wish among the creatures in the bubbles.
@@ -9485,11 +10187,12 @@ Life Bubble doesn' \*\*t provide protection from negative or positive energy (su
 
 ### Light
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 30 minutes of real game time
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 30 minutes of real game time |
 
 You cast the spell by touching an object that is no larger than 3 meters in any dimension. Until the spell ends, the object sheds bright light in a 3-meter radius and dim light for an additional 6 meters. The light can be any color you choose. Completely covering the object with something opaque blocks the light. If the target object is held or worn by a hostile creature, that creature must succeed on a Reflex Saving Throw to avoid the spell. A creature hit by the spell must make a Fortitude Saving Throw or be blinded until the end of the next round. You cannot have more than one Light spell active at a time; a subsequent casting extinguishes the previous Light.
 
@@ -9497,11 +10200,12 @@ You cast the spell by touching an object that is no larger than 3 meters in any 
 
 ### Lightning Bolt
 
-* **Magic List**: Air
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal (30-meter line)
-* **Duration**: Instantaneous
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal (30-meter line) |
+| **Duration**: | Instantaneous |
 
 You release a lightning bolt that forms a line 30 meters long and 1 meter wide that extends from you in a direction you choose. Each creature on the line must make a Reflex Saving Throw. The creature takes 8d6 lightning damage on a failed save, or half as much damage on a successful one.
 The lightning ignites flammable objects in the area that aren' \*\*t being worn or carried.
@@ -9514,11 +10218,12 @@ The lightning ignites flammable objects in the area that aren' \*\*t being worn 
 
 ### Limited Wish
 
-* **Magic List**: Evocation
-* **Level**: 7, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 7, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | Instantaneous |
 
 *Limited Wish* is an extremely powerful and versatile spell that allows the caster to accomplish "almost anything".
 The basic use of this spell is to replicate the effect of any other spell of 7th level or lower. You don' \*\*t need to meet any of the spell' \*\*s requirements, including expensive material components. The spell simply takes effect.
@@ -9533,21 +10238,23 @@ State your wish to the Narrator as precisely as possible. The Game Master has gr
 
 ### Ljust' \*\*s Tear
 
-* **Magic List**: Universal
-* **Level**: 0, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: Self
-* **Duration**: 10 rounds
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | Self |
+| **Duration**: | 10 rounds |
 
 The caster imbues a small object with magic that begins to glow with light. The light illuminates its square and an additional meter around it, beyond that it doesn' \*\*t generate dim light. The duration of the spell is 10 rounds. The caster can throw the object within 18 meters and must remain within this distance. It is not possible to cast the spell more times per day than the number of Fate Points you possess.
 
 ### Locate Animals or Plants
 
-* **Magic List**: Animals and Plants
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 Describe or name a specific kind of beast or plant. Concentrating on the voice of nature in your surroundings, you learn the direction and distance to the nearest creature or plant of that kind, if any are within 7.5 kilometers.
 
@@ -9555,11 +10262,12 @@ Describe or name a specific kind of beast or plant. Concentrating on the voice o
 
 ### Locate Creature
 
-* **Magic List**: Animal or Plant
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Concentration, maximum 1 hour
+| **List**: | Animal or Plant |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Concentration, maximum 1 hour |
 
 Describe or name a creature that is familiar to you. You sense the direction to the creature' \*\*s location, as long as that creature is within 300 meters of you. If the creature is moving, you know the direction of its movement.
 
@@ -9571,11 +10279,12 @@ This spell can' \*\*t locate a creature if running water at least 3 meters wide 
 
 ### Locate Object
 
-* **Magic List**: Divination
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Concentration, maximum 10 minutes
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Concentration, maximum 10 minutes |
 
 Describe or name an object that is familiar to you. You sense the direction to the object' \*\*s location, as long as that object is within 300 meters of you. If the object is in motion, you know the direction of its movement.
 
@@ -9587,11 +10296,12 @@ This spell can' \*\*t locate an object if any thickness of lead, even a thin she
 
 ### Longstrider
 
-* **Spell List**: Transmutation
-* **Level**: 1, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 1, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 A creature' \*\*s movement increases by 3 feet until the end of the spell.
 
@@ -9599,21 +10309,23 @@ A creature' \*\*s movement increases by 3 feet until the end of the spell.
 
 ### Luminescence
 
-* **Magic List**: Evocation
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 minute of real game time
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 minute of real game time |
 
 All objects in a 3-meter radius sphere within range are outlined in blue, green, or violet light (your choice). Any creature in the area when the spell is cast is also outlined in light if it fails a Reflex Saving Throw. For the duration, objects and affected creatures give off dim light in a 3-meter radius. Any Attack Roll against an affected creature or object has a +2 bonus if the attacker can see it, and the creature or object can' \*\*t benefit from being invisible.
 
 ### Mage Armor
 
-* **Magic List**: Abjuration
-* **Level**: 1, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 8 hours
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 1, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 8 hours |
 
 You touch a willing creature who isn' \*\*t wearing armor. A protective magical force surrounds the target until the spell ends. The target' \*\*s natural Defense increases by 3 + Dexterity + 1/6 Magic Proficiency. The spell ends if the target dons armor or dismisses the spell as an action.
 
@@ -9621,11 +10333,12 @@ You touch a willing creature who isn' \*\*t wearing armor. A protective magical 
 
 ### Mage Hand
 
-* **Magic List**: Conjuration
-* **Level**: 0, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1d4 rounds +1 per Magic Proficiency point
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1d4 rounds +1 per Magic Proficiency point |
 
 A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration or until it is disrupted with an Action. The hand vanishes if it is ever more than 9 meters away from you or if you cast this spell again.
 
@@ -9635,11 +10348,12 @@ The Actions required to move and use the mage hand are the same you would use to
 
 ### Magic Circle
 
-* **Magic List**: Abjuration
-* **Level**: 3, Common
-* **Casting Time**: 1 minute
-* **Range**: 3 meters
-* **Duration**: 1 hour
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 1 minute |
+| **Range**: | 3 meters |
+| **Duration**: | 1 hour |
 
 You create a 3-meter-radius, 6-meter-tall cylinder of magical energy centered on a point on the ground that you can see within range. Glowing runes appear wherever the cylinder intersects with the floor or other surface.
 
@@ -9655,11 +10369,12 @@ Choose one or more of the following types of creatures: celestials, elementals, 
 
 ### Magic Jar
 
-* **Magic List**: Necromancy
-* **Level**: 6, Very Rare
-* **Casting Time**: 1 minute
-* **Range**: Personal
-* **Duration**: Until dispelled
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 6, Very Rare |
+| **Time**: | 1 minute |
+| **Range**: | Personal |
+| **Duration**: | Until dispelled |
 
 Your body falls into a catatonic state as your soul leaves it and enters the container you used as a material component. While your soul occupies the container, you are aware of your surroundings as if you were in the container' \*\*s space. You can' \*\*t move or use reactions. The only action you can take is to project your soul up to 30 meters out of the container, returning to your living body (ending the spell) or attempting to possess a humanoid body.
 
@@ -9675,11 +10390,12 @@ If the container is destroyed or the spell ends, your soul immediately returns t
 
 ### Magic Mouth
 
-* **Magic List**: Illusion
-* **Level**: 2, Common
-* **Casting Time**: 1 minute
-* **Range**: 9 meters
-* **Duration**: Until dispelled
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 minute |
+| **Range**: | 9 meters |
+| **Duration**: | Until dispelled |
 
 You implant a message within an object in range, a message that is uttered when a trigger condition is met. Choose an object that you can see and that isn' \*\*t being worn or carried by another creature. Then speak the message, which must be 25 words or less, though it can be delivered over as long as 10 minutes. Finally, determine the circumstance that will trigger the spell to deliver your message.
 
@@ -9689,11 +10405,12 @@ The triggering circumstance can be as general or as detailed as you like, though
 
 ### Magic Weapon
 
-* **Magic List**: Transmutation
-* **Level**: 2, Common
-* **Casting Time**: 1 Action
-* **Range**: Touch
-* **Duration**: 10 minutes
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 Action |
+| **Range**: | Touch |
+| **Duration**: | 10 minutes |
 
 You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic weapon with a +1 bonus to Attack Rolls and damage rolls.
 
@@ -9701,13 +10418,14 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 
 ### Magnificent Mansion
 
-* **Spell List**: Conjuration
-* **Level**: 7, Legendary
-* **Casting Time**: 1 minute
-* **Range**: 300 feet
-* **Duration**: 24 hours
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 7, Legendary |
+| **Time**: | 1 minute |
+| **Range**: | 300 feet |
+| **Duration**: | 24 hours |
 
-Within range, you conjure an extradimensional dwelling that remains for the duration of the spell. You choose where its entrance is located. The entrance is a shimmering doorway 5 feet wide by 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 30 feet of it. While closed, the portal is invisible.
+Within range, you conjure an extradimensional dwelling that remains for the duration of the spell. You choose where its entrance is located. The entrance is a shimmering doorway 5 feet wide by 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 9 m of it. While closed, the portal is invisible.
 
 Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm. You can create as many floors as you like, but the space can' \*\*t exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can' \*\*t attack or take any action that would directly harm another creature. Thus, the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can' \*\*t leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
@@ -9719,11 +10437,12 @@ Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmo
 
 ### Major Image
 
-* **Magic List**: Illusion
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Concentration, maximum 1 minute per Magic Proficiency
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Concentration, maximum 1 minute per Magic Proficiency |
 
 You create the image of an object, a creature, or some other visible phenomenon no larger than a 6-meter-sided cube. The image appears at a point within range that you can see and remains for the duration of the spell. The image appears completely real, including sounds, smells, and temperature appropriate to the thing depicted. You can' \*\*t generate enough heat or cold to cause damage, nor a sound loud enough to deal sonic damage or deafen a creature, or an odor that might sicken a creature (like the stench of a troglodyte). While you remain within range of the illusion, you can use an Action to move the image to any other point within range.
 
@@ -9735,11 +10454,12 @@ Physical interaction with the image reveals it to be an illusion, since things p
 
 ### Mass Heal
 
-* **Magic List**: Healing
-* **Level**: 9, Legendary
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 9, Legendary |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 A flood of healing energy flows from you into injured creatures around you. You restore up to 700 Hit Points, divided as you choose among any creatures within range that you can see (with a maximum of 70 Hit Points per creature). Creatures healed by this spell are also cured of all diseases and any effect making them blinded or deafened. This spell can inflict up to 120 Hit Points of damage to an undead. Fortitude ST to negate the effect.
 
@@ -9749,11 +10469,12 @@ If the caster and healed creature are both **Devotees** of the same Patron, the 
 
 ### Mass Suggestion
 
-* **Magic List**: Enchantment
-* **Level**: 6, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 24 hours
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 6, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 24 hours |
 
 You suggest a course of activity (limited to a sentence or two) and magically influence up to twelve creatures within range that you can see and hear and that can understand you, chosen by you. Creatures that can' \*\*t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking a creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
 
@@ -9765,11 +10486,12 @@ You can also specify conditions that will trigger a special activity during the 
 
 ### Maze
 
-* **Magic List**: Conjuration
-* **Level**: 8, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: maximum 10 minutes
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | maximum 10 minutes |
 
 You banish a creature that you can see within range into a labyrinthine demiplane. The target remains there for the duration of the spell or until it escapes the maze. The target can use 3 Actions to attempt to escape after the second round. When it does so, it makes a Will Saving Throw. If it succeeds, it escapes, and the spell ends (a minotaur or goristro demon automatically succeeds).
 
@@ -9779,11 +10501,12 @@ When the spell ends, the target reappears in the space it had left or, if that s
 
 ### Meld into Stone
 
-* **Magic List**: Earth
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 8 hours
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 8 hours |
 
 You step into a stone object or surface large enough to fully contain your body, merging yourself with the stone along with all the equipment you carry for the duration.
 
@@ -9795,21 +10518,23 @@ Minor damage to the stone doesn' \*\*t harm you, but its partial destruction or 
 
 ### Mending
 
-* **Magic List**: Earth
-* **Level**: 0, Common
-* **Casting Time**: 1 minute
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 minute |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 This spell repairs a single break or tear in an object you touch, such as a broken chain, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 30 centimeters in any dimension, you mend it, leaving no trace of the former damage. This spell can physically repair a magic item or construct, but can' \*\*t restore magic functions to these objects.
 
 ### Message
 
-* **Magic List**: Transmutation
-* **Level**: 0, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 round
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 round |
 
 You point your finger toward a creature within range and whisper a short message. The target (and only the target) hears the message and can reply with a whisper that only you can hear.
 
@@ -9817,7 +10542,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 **For each Critical Magic Success** obtained in the Magic Check, the spell lasts 1 additional round.
 
-Meteor Swarm
+### Meteor Swarm
 - **Magic List**:: Fire, Earth
 - **Level**:: 9, Legendary
 - **Casting Time**:: 3 Actions
@@ -9833,11 +10558,12 @@ these damages if it succeeds. A creature caught in the area of more than one met
 
 ### Mind Blank
 
-* **Magic List**: Abjuration
-* **Level**: 8, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 24 hours
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 8, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 24 hours |
 
 Until the spell ends, one willing creature you touch is immune to any effect that would sense its emotions or read its thoughts, divination spells, and the Charmed condition. The spell also foils wish spells and spells or effects of similar power used to affect the target' \*\*s mind or to gain information about it.
 
@@ -9845,11 +10571,12 @@ Until the spell ends, one willing creature you touch is immune to any effect tha
 
 ### Minor Illusion
 
-* **Magic List**: Universal
-* **Level**: 0, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You create the image of an object or a sound within range that lasts for the duration. The illusion ends if you dismiss it as an Action or cast this spell again.
 
@@ -9861,11 +10588,12 @@ A creature that uses 3 Actions to examine the sound or image can determine that 
 
 ### Mirror Image
 
-* **Magic List**: Illusion
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 In your space, 2d4 illusory duplicates of yourself appear. Until the end of the spell, the duplicates move with you and mimic your actions, changing places with each other so it' \*\*s impossible to determine which is the real image. You can use 1 Action to dismiss the illusory duplicates.
 
@@ -9878,11 +10606,12 @@ A creature that cannot see, or relies on senses other than sight (such as blinds
 
 ### Mislead
 
-* **Magic List**: Illusion
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: 1 hour
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | 1 hour |
 
 You become invisible at the same moment that an illusory double of you appears where you are standing. The double lasts for the duration of the spell, but the invisibility ends if you attack or cast a spell. You can use 2 Actions to move your illusory double up to twice your speed and make it gesture, speak, and behave in any way you choose.
 
@@ -9890,13 +10619,14 @@ You can see through its eyes and hear through its ears as if you were in its spa
 
 ### Misty Step
 
-* **Spell List**: Conjuration
-* **Level**: 2, Rare
-* **Casting Time**: 1 Action
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 1 Action |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
-Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied space that you can see.
+Briefly surrounded by silvery mist, you teleport up to 9 m to an unoccupied space that you can see.
 
 **If you achieve two Magic Critical Successes** in the Magic Check, you can switch places with a willing creature.
 
@@ -9904,11 +10634,12 @@ Briefly surrounded by silvery mist, you teleport up to 30 feet to an unoccupied 
 
 ### Modify Memory
 
-* **Magic List**: Enchantment
-* **Level**: 5, Very Rare
-* **Casting Time**: 3 Actions
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 5, Very Rare |
+| **Time**: | 3 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 You attempt to reshape another creature' \*\*s memories. A creature that you can see must make a Will Saving Throw. If you are fighting the creature, it has +1d6 on the Saving Throw. On a failed save, you can act on the target' \*\*s memories of an event that it experienced within the last 24 hours and that lasted no more than 10 minutes.
 
@@ -9923,11 +10654,12 @@ The Narrator may deem a modified memory too nonsensical to affect a creature in 
 
 ### Move Earth
 
-* **Magic List**: Earth
-* **Level**: 6, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Concentration, up to 2 hours
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Concentration, up to 2 hours |
 
 Choose an area of terrain no larger than 12 meters on a side within range. For the duration, you can reshape dirt, sand, or clay in the area in any manner you choose. You can raise or lower the area' \*\*s elevation, create or fill in a trench, erect or flatten a wall, or form a pillar. The extent of such changes can' \*\*t exceed half the area' \*\*s largest dimension. So, if you affect a 12-meter square, you can create a pillar up to 6 meters high, raise or lower the square' \*\*s elevation by up to 6 meters, dig a trench up to 6 meters deep, and so on. It takes 10 minutes to complete these changes. At the end of every 10 minutes spent concentrating on the spell, you can choose a new area of terrain to affect.
 
@@ -9935,21 +10667,23 @@ Because the terrain' \*\*s transformation occurs slowly, creatures in the area u
 
 ### Nondetection
 
-* **Magic List**: Abjuration
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 8 hours
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 8 hours |
 
 For the duration, you hide the target that you touch from divination magic. The target can be a willing creature or a place or an object no larger than a 2-meter-radius sphere. The target can' \*\*t be targeted by any divination magic or perceived through magical scrying sensors.
 
 ### Pass without Trace
 
-* **Spell List**: Earth, Animals and Plants
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Earth, Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 For the duration of the spell, the touched creature leaves no tracks on the ground.
 
@@ -9957,11 +10691,12 @@ For the duration of the spell, the touched creature leaves no tracks on the grou
 
 ### Passwall
 
-* **Spell List**: Earth
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 30 feet
-* **Duration**: 1 hour
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 m |
+| **Duration**: | 1 hour |
 
 For the duration of the spell, a passage appears at a point within range that you can see, on a wooden, wall or stone surface (such as a wall, ceiling, or floor) of your choice. Choose the opening' \*\*s dimensions: up to 3 feet wide, 6 feet tall, and 20 feet deep. The passage doesn' \*\*t create instability in the structure surrounding it.
 
@@ -9971,11 +10706,12 @@ When the opening disappears, any creature or object still in the passage created
 
 ### Phantasmal Killer
 
-* **Magic List**: Illusion
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Instantaneous
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Instantaneous |
 
 You tap into the nightmares of a creature you can see within range and create an illusory manifestation of its worst fears, visible only to that creature. The target must make a Will Saving Throw.
 
@@ -9987,11 +10723,12 @@ On a failed saving throw, the target is frightened for 1 minute and takes 4d10 d
 
 ### Phantom Steed
 
-* **Magic List**: Illusion
-* **Level**: 3, Common
-* **Casting Time**: 1 minute
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 1 minute |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 A Large quasi-real, Saurovall-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature' \*\*s appearance, and it appears with a saddle, bit, and bridle. Any equipment created by the spell vanishes in a puff of smoke if it is carried more than 3 meters away from the steed. For the duration, you or a creature of your choice can ride the steed. The creature uses the statistics for a Riding Saurovall, except it has a speed of 30 meters and can travel 15 kilometers in an hour, or 20 kilometers at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an Action to dismiss it or if the steed takes damage.
 
@@ -9999,11 +10736,12 @@ A Large quasi-real, Saurovall-like creature appears on the ground in an unoccupi
 
 ### Piercing Tendrils
 
-* **Magic List**: Animals and Plants
-* **Level**: 0, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: 9 meters
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 0, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | 9 meters |
+| **Duration**: | Instantaneous |
 
 You unleash 1 sharp and thorny tendril from your palm. Make a ranged Attack Roll with spells against the designated target.
 If the Attack Roll succeeds, the target takes 1d4 Hit Points of piercing damage.
@@ -10016,11 +10754,12 @@ If you spend 1 Magic Point in casting the spell, the tendril becomes poisonous a
 
 ### Plant Growth
 
-* **Magic List**: Animals and Plants
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions or 8 hours
-* **Range**: 45 meters
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions or 8 hours |
+| **Range**: | 45 meters |
+| **Duration**: | Instantaneous |
 
 This spell channels vitality into plants within a specific area. There are two possible uses for this spell, granting either immediate or long-term benefits. If you cast this spell using 1 Action, choose a point within range. All normal plants in a 30-meter radius centered on that point become thick and overgrown. A creature moving through the area must spend four times the normal movement cost.
 
@@ -10032,11 +10771,12 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a 750-me
 
 ### Poison Spray
 
-* **Magic List**: Animals and Plants
-* **Level**: 0, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: 3 meters
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 0, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | 3 meters |
+| **Duration**: | Instantaneous |
 
 You extend your hand toward a creature within range that you can see, and project a puff of noxious gas from your palm. The creature must succeed on a Fortitude Saving Throw or take 1d12 poison damage.
 
@@ -10046,11 +10786,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Polymorph
 
-* **Magic List**: Animals and Plants
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 hour
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 hour |
 
 This spell transforms a creature within range that you can see into a new form. An unwilling creature must succeed on a Will Saving Throw to avoid the effect. Shapechangers automatically succeed on this Saving Throw. The spell has no effect on a target with 0 Hit Points.
 
@@ -10060,31 +10801,34 @@ The creature is limited in the actions it can perform by the nature of its new f
 
 ### Power Word Kill
 
-* **Spell List**: Enchantment
-* **Level**: 9, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 60 feet
-* **Duration**: Instantaneous
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 9, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 60 feet |
+| **Duration**: | Instantaneous |
 
 You utter a word of power that forces one creature you can see within range to die instantly. If the creature you choose has 100 Hit Points or fewer, it dies. Otherwise, the spell has no effect.
 
 ### Power Word Stun
 
-* **Spell List**: Enchantment
-* **Level**: 8, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 60 feet
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 8, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 60 feet |
+| **Duration**: | 1 minute |
 
 You speak a word of power that can overwhelm the mind of one creature you can see within range. If the target has 150 Hit Points or fewer, it is stunned for 2d4 rounds. Otherwise, the spell has no effect.
 
 ### Prayer
 
-* **Magic List**: Evocation
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 round per level, Concentration
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 round per level, Concentration |
 
 You intone a chant to your Patron and invoke their blessing. Creatures within 9 meters of you gain a +1 to Attack Rolls and Saving Throws for each trait in common with the Patron.
 
@@ -10094,11 +10838,12 @@ Creatures with Traits different from the Patron take a -1 to Attack Rolls and Sa
 
 ### Prayer of Healing
 
-* **Spell List**: Healing
-* **Level**: 2, Common
-* **Casting Time**: 10 minutes
-* **Range**: 30 feet
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 10 minutes |
+| **Range**: | 9 m |
+| **Duration**: | Instantaneous |
 
 Up to six creatures within range that you can see, chosen by you, each regain Hit Points equal to 2d6 + your spellcasting ability modifier. This spell deals the same amount of damage to undead.
 
@@ -10106,11 +10851,12 @@ Up to six creatures within range that you can see, chosen by you, each regain Hi
 
 ### Prestidigitation
 
-* **Spell List**: Universal
-* **Level**: 0, Common
-* **Casting Time**: 2 Actions
-* **Range**: 10 feet
-* **Duration**: Up to 1 hour
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 10 feet |
+| **Duration**: | Up to 1 hour |
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
@@ -10127,11 +10873,12 @@ If you cast this spell multiple times, you can have up to three non-instantaneou
 
 ### Prismatic Spray
 
-* **Magic List**: Evocation
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self (18-meter cone)
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self (18-meter cone) |
+| **Duration**: | Instantaneous |
 
 Eight multicolored rays of light flash from your hand. Each ray is a different color and has a different power and purpose. Each creature in an 18-meter cone must make a Reflex Saving Throw. For each target, roll a d8 to determine which color ray affects it.
 
@@ -10146,11 +10893,12 @@ Eight multicolored rays of light flash from your hand. Each ray is a different c
 
 ### Prismatic Wall
 
-* **Magic List**: Abjuration
-* **Level**: 9, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 10 minutes
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 9, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 10 minutes |
 
 A shimmering, multicolored plane of light forms a vertical opaque wall - up to 27 meters long, 9 meters high, and 2.5 centimeters thick - centered on a point you can see within range. Alternatively, you can shape the wall into a sphere up to 9 meters in diameter centered on a point you choose within range. The wall remains in place for the duration. If you position the wall so that it passes through a space occupied by a creature, the spell fails, and your spellcasting slot is wasted. The wall sheds bright light out to a range of 18 meters and dim light for an additional 36 meters. You and creatures you designate at the time you cast the spell can pass through and remain near the wall without harm. If another creature that can see the wall moves within 6 meters of it or starts its turn there, the creature must succeed on a Fortitude Saving Throw or become blinded for 1 minute. The wall consists of seven layers, each with a different color. When a creature attempts to reach into or pass through the wall, it does so one layer at a time through all the wall' \*\*s layers. As it passes or reaches through each layer, the creature must make a Reflex Saving Throw or be affected by that layer' \*\*s properties as described below.
 
@@ -10165,11 +10913,12 @@ The wall can be destroyed, one layer at a time, in order from red to violet, by 
 
 ### Private Sanctum
 
-* **Magic List**: Abjuration
-* **Level**: 4, Very Rare
-* **Casting Time**: 10 minutes
-* **Range**: 36 meters
-* **Duration**: 24 hours
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 4, Very Rare |
+| **Time**: | 10 minutes |
+| **Range**: | 36 meters |
+| **Duration**: | 24 hours |
 
 You magically secure an area. The area is a sphere that can be as small as 1 meter in radius or as large as 15 meters in radius. The spell works until the end of the duration or until you use an Action to interrupt it.
 
@@ -10189,15 +10938,16 @@ Casting this spell on the same spot every day for a year makes the effect perman
 
 ### Produce Flame
 
-* **Spell List**: Fire
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: Self
-* **Duration**: 10 minutes
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | Self |
+| **Duration**: | 10 minutes |
 
 A flame appears in your hand. The flame remains there for the duration of the spell and harms neither you nor your equipment. The flame sheds dim light in a 3-foot radius. The spell ends if you dismiss it as an Action or if you cast it again.
 
-You can also use the flame to attack, though doing so ends the spell. When you cast this spell, or as an Action on a subsequent turn, you can hurl the flame at a creature within 30 feet of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
+You can also use the flame to attack, though doing so ends the spell. When you cast this spell, or as an Action on a subsequent turn, you can hurl the flame at a creature within 9 m of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
 The spell' \*\*s damage increases by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points. You also need to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
@@ -10205,11 +10955,12 @@ The spell' \*\*s damage increases by 1d8 when you reach MP 5, MP 11, and MP 17, 
 
 ### Programmed Illusion
 
-* **Magic List**: Illusion
-* **Level**: 6, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Until dispelled
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Until dispelled |
 
 You create, at range, the illusion of an object, creature, or some other visible phenomenon that activates when a specific condition is met. Until then, the illusion is imperceptible. It can' \*\*t be larger than a 9-meter-sided cube, and you decide, when you cast the spell, how the illusion behaves and what sounds it makes. The programmed display can last up to 5 minutes. When the conditions you specified occur, the illusion manifests and behaves in the way you described. Once the illusion has completed its performance, it disappears and remains dormant for 10 minutes. After this period, the illusion can be activated again.
 
@@ -10219,11 +10970,12 @@ Physical interaction with the image reveals it to be an illusion, since things p
 
 ### Project Image
 
-* **Magic List**: Illusion
-* **Level**: 7, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 750 kilometers
-* **Duration**: 1 day
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 7, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 750 kilometers |
+| **Duration**: | 1 day |
 
 You create an illusory copy of yourself that lasts for the duration. The copy can appear at any place within range that you have seen before, ignoring any obstacles in between. The illusion reproduces your appearance and sounds but is intangible. If the illusion takes damage, it disappears, and the spell ends.
 
@@ -10235,11 +10987,12 @@ Physical interaction with the image reveals it to be an illusion, since things p
 
 ### Protection from Energy
 
-* **Spell List**: Abjuration
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 10 minutes
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 10 minutes |
 
 You cast the spell by touching a willing creature. For the duration of the spell, the target has resistance to one damage type of your choice: acid, cold, fire, lightning, or thunder. You can sacrifice the entire duration of the spell, ending it, to completely nullify damage taken from one source of energy.
 
@@ -10247,11 +11000,12 @@ You cast the spell by touching a willing creature. For the duration of the spell
 
 ### Protection from Poison
 
-* **Spell List**: Abjuration
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 For the duration of the spell, the target has +1d6 to Saving Throws against being poisoned, and has resistance to poison damage.
 
@@ -10259,21 +11013,23 @@ For the duration of the spell, the target has +1d6 to Saving Throws against bein
 
 ### Purify Food and Drink
 
-* **Spell List**: Animals and Plants
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 10 feet
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 10 feet |
+| **Duration**: | Instantaneous |
 
 All nonmagical food and drink within a 3-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease. Rotting food is cleansed and made edible.
 
 ### Ray of Enfeeblement
 
-* **Spell List**: Necromancy
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 60 feet
-* **Duration**: 1 minute
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 60 feet |
+| **Duration**: | 1 minute |
 
 A black beam of debilitating energy shoots from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target, when attacking with a weapon that uses Strength as a modifier, will roll twice for damage taking the lower result until the end of the spell. A creature cannot be affected by more than one Ray of Enfeeblement per day.
 
@@ -10281,11 +11037,12 @@ A black beam of debilitating energy shoots from your finger toward a creature wi
 
 ### Ray of Frost
 
-* **Spell List**: Water
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: 60 feet
-* **Duration**: Instantaneous
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | 60 feet |
+| **Duration**: | Instantaneous |
 
 A frigid beam of blue light strikes a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
 
@@ -10295,11 +11052,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Read Magic
 
-* **Magic List**: Universal
-* **Level**: 1, Common
-* **Casting Time**: 1 Action
-* **Range**: Touch
-* **Duration**: 1 minute, until used
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Action |
+| **Range**: | Touch |
+| **Duration**: | 1 minute, until used |
 
 The caster grants the ability to read a scroll or magical writing to a target. For the duration of 1 minute or until used once, whichever comes first, the creature automatically understands a magic scroll or can cast the contents of the scroll respecting the criteria and rules for casting spells from a scroll.
 
@@ -10307,11 +11065,12 @@ The caster grants the ability to read a scroll or magical writing to a target. F
 
 ### Regenerate
 
-* **Spell List**: Transmutation
-* **Level**: 7, Legendary
-* **Casting Time**: 1 minute
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 7, Legendary |
+| **Time**: | 1 minute |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 You touch a creature to stimulate its natural healing ability. The target regains 4d8 + 15 Hit Points. For the duration of the spell, the target regains 10 Hit Points at the start of each of its turns. The target' \*\*s severed body members (fingers, legs, tails, and so on), if any, are restored in 2 minutes. If you have the severed part and hold it to the stump, the spell causes the limb to reattach to the stump in 3 rounds.
 
@@ -10319,11 +11078,12 @@ You touch a creature to stimulate its natural healing ability. The target regain
 
 ### Reincarnate
 
-* **Spell List**: Animals and Plants
-* **Level**: 5, Rare
-* **Casting Time**: 1 hour
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 1 hour |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target' \*\*s soul isn' \*\*t free or willing to do so, the spell fails.
 
@@ -10353,11 +11113,12 @@ It is not possible to reincarnate as a gnome unless you were previously a gnome.
 
 ### Remove Curse
 
-* **Magic List**: Abjuration
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 If the object or person was cursed through the Bestow Curse spell, or if the Narrator decides that the object has a particular curse, then the DC of the caster of Remove Curse must be higher than that of the Curse.
 
@@ -10367,11 +11128,12 @@ Whether it was sufficient to cast the spell or it was cast with a Magic Check, t
 
 ### Remove Disease
 
-* **Spell List**: Healing
-* **Level**: 2, Common
-* **Casting Time**: 1 turn
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 turn |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You can end a natural disease. In the case of magical diseases, your spell DC must be higher than the DC of the disease.
 
@@ -10379,11 +11141,12 @@ You can end a natural disease. In the case of magical diseases, your spell DC mu
 
 ### Remove Fear
 
-* **Magic List**: Abjuration
-* **Level**: 1, Common
-* **Casting Time**: 1 Action
-* **Range**: Touch
-* **Duration**: 2 turns
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Action |
+| **Range**: | Touch |
+| **Duration**: | 2 turns |
 
 This spell instills courage in the subject and can remove the effects of magically induced fear, allowing them to make a new Saving Throw. The touched subject receives a bonus to the Saving Throw of +1 for each time the caster has taken Magic Adept.
 
@@ -10391,11 +11154,12 @@ This spell instills courage in the subject and can remove the effects of magical
 
 ### Remove Poison
 
-* **Magic List**: Water, Healing
-* **Level**: 3, Common
-* **Casting Time**: 1 Round
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Water, Healing |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 1 Round |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You can end a natural poison. In the case of magical poisons, your spell DC must be higher than the DC (or Saving Throw) of the poison.
 
@@ -10403,11 +11167,12 @@ You can end a natural poison. In the case of magical poisons, your spell DC must
 
 ### Resistance
 
-* **Spell List**: Abjuration
-* **Level**: 0, Common
-* **Casting Time**: 1 Reaction
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Reaction |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You touch a willing creature. Once before the spell ends, the target can roll a 1d4 and add the number rolled to one Saving Throw of its choice. It can roll the die before or after making the Saving Throw. The spell then ends. A creature cannot receive the Resistance spell at intervals less than 1 hour.
 
@@ -10415,11 +11180,12 @@ You touch a willing creature. Once before the spell ends, the target can roll a 
 
 ### Restser' \*\*s Acid Arrow
 
-* **Magic List**: Water, Earth
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: Instantaneous
+| **List**: | Water, Earth |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | Instantaneous |
 
 A glowing green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. If you hit, the target immediately takes 4d4 acid damage and 2d4 acid damage at the end of its next turn. If you miss, the arrow splashes the target with acid dealing half the initial damage and no damage at the end of its next turn.
 
@@ -10427,11 +11193,12 @@ A glowing green arrow streaks toward a target within range and bursts in a spray
 
 ### Restser' \*\*s Furious Transformation
 
-* **Magic List**: Transmutation
-* **Level**: 6, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 round per Magic Proficiency
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 6, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 round per Magic Proficiency |
 
 This spell allows a spellcaster to channel their magical energies to transform into a powerful fighter.
 
@@ -10446,11 +11213,12 @@ For the entire duration of the spell, the caster is no longer able to cast spell
 
 ### Reverse Gravity
 
-* **Magic List**: Transmutation
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 30 meters
-* **Duration**: 1 minute
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 30 meters |
+| **Duration**: | 1 minute |
 
 This spell reverses gravity in a cylinder with a 15-meter radius, 30 meters high, centered on a point within range. When you cast this spell, all creatures and objects that aren' \*\*t somehow anchored to the ground fall upward and reach the top of the area. A creature can attempt a Reflex Saving Throw to grab onto a fixed object within reach, to avoid falling in this way, provided it succeeds.
 
@@ -10460,11 +11228,12 @@ At the end of the duration, affected objects and creatures fall back down.
 
 ### Revivify
 
-* **Magic List**: Healing, Necromancy
-* **Level**: 3, Very Rare
-* **Casting Time**: 10 Minutes
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Healing, Necromancy |
+| --- | --- |
+| **Level**: | 3, Very Rare |
+| **Time**: | 10 Minutes |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 A creature dead within the last minute and that you are in contact with returns to life with 1 hit point and no Magic Points. This spell cannot bring back to life people who died of old age, nor can it restore missing body parts.
 
@@ -10474,11 +11243,12 @@ The creature brought back to life must make a Fortitude Saving Throw at DC 15 or
 
 ### Rope Trick
 
-* **Magic List**: Transmutation
-* **Level**: 2, Common
-* **Casting Time**: 1 minute
-* **Range**: Touch
-* **Duration**: 1 hour +1 Turn per Magic Proficiency
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 1 minute |
+| **Range**: | Touch |
+| **Duration**: | 1 hour +1 Turn per Magic Proficiency |
 
 You touch a length of rope that is up to 18 meters long. One end of the rope then rises into the air until the whole rope hangs perpendicular to the ground. At the upper end of the rope, an invisible entrance opens to an extradimensional space that lasts until the spell ends.
 
@@ -10492,11 +11262,12 @@ At the end of the spell, the rope used disappears.
 
 ### Sacred Flame
 
-* **Magic List**: Universal
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Reflex Saving Throw or take 1d8 Light damage. The target gains no benefit from cover for this Saving Throw.
 
@@ -10506,21 +11277,23 @@ You can increase the spell' \*\*s damage by 1d8 when the sum of the Traits in co
 
 ### Sanctuary
 
-* **Magic List**: Abjuration
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You protect a creature within range from attacks. Until the spell ends, any creature that targets the protected creature with an attack or harmful spell must first make a Will Saving Throw. On a failed Saving Throw, the attacker must choose a new target or lose the attack or spell. This spell doesn' \*\*t protect the warded creature from area effects, such as the explosion of a fireball. If the protected creature makes an attack or casts a spell that affects enemy creatures, the spell ends.
 
 ### Scorching Ray
 
-* **Spell List**: Fire
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 120 feet
-* **Duration**: Instantaneous
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 m |
+| **Duration**: | Instantaneous |
 
 You create three rays of fire and project them at targets within range. You can project them at the same target or different targets. Make a ranged spell attack for each ray. On a hit, the target takes 2d6 fire damage.
 
@@ -10528,11 +11301,12 @@ You create three rays of fire and project them at targets within range. You can 
 
 ### Scrying
 
-* **Magic List**: Divination
-* **Level**: 5, Rare
-* **Casting Time**: 10 minutes
-* **Range**: Personal
-* **Duration**: Concentration, maximum 10 minutes
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 10 minutes |
+| **Range**: | Personal |
+| **Duration**: | Concentration, maximum 10 minutes |
 
 You can see and hear a particular creature of your choice that is on the same plane of existence as you. The target must make a Will Saving Throw, modified by how well you know the target and what kind of physical connection you have to it. If the target knows you' \*\*re casting this spell, it can fail the Saving Throw voluntarily if it wishes to be observed by you.
 
@@ -10558,11 +11332,12 @@ Instead of targeting a creature, you can choose to target a place you have seen 
 
 ### Searing Smite
 
-* **Magic List**: Evocation
-* **Level**: 1, Rare
-* **Casting Time**: 1 Action
-* **Range**: personal
-* **Duration**: 1 minute
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Rare |
+| **Time**: | 1 Action |
+| **Range**: | personal |
+| **Duration**: | 1 minute |
 
 You touch a target, which takes 1d6 Fire damage. Each round it must make a Fortitude Saving Throw or take 1d6 Fire damage; this effect ends after one minute or when the Saving Throw succeeds.
 
@@ -10570,11 +11345,12 @@ You touch a target, which takes 1d6 Fire damage. Each round it must make a Forti
 
 ### Secret Chest
 
-* **Magic List**: Evocation
-* **Level**: 4, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 4, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You hide a chest and all its contents on the Ethereal Plane. When you cast this spell, you must be touching both the chest and the miniature replica that serves as a material component. The chest can contain up to 0.25 cubic meters of non-living material (1 x meter x 50 centimeters x 50 centimeters). While the chest remains on the Ethereal Plane, you can use an Action to touch the replica and recall the chest. It reappears in an unoccupied space on the ground within 1 meter of you. You can send the chest back to the Ethereal Plane by using an Action and touching both the chest and the replica.
 
@@ -10584,21 +11360,23 @@ The effect ends if the spell is cast again, if the replica of the chest is destr
 
 ### See Invisibility
 
-* **Magic List**: Divination
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | 1 hour |
 
 For the duration of the spell, you see invisible creatures and objects as if they were visible, and you can also see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
 ### Seeming
 
-* **Magic List**: Illusion
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 8 hours
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 8 hours |
 
 This spell allows you to change the appearance of any number of creatures within range that you can see. You give each target a new, illusory appearance. An unwilling creature can make a Will Saving Throw, and if it succeeds, it ignores the spell.
 
@@ -10609,11 +11387,12 @@ If you use this spell to appear thinner than you are, the hand of a person who r
 
 ### Sending
 
-* **Magic List**: Evocation
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Unlimited
-* **Duration**: 1 round
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Unlimited |
+| **Duration**: | 1 round |
 
 You send a short message of 25 words or less to a creature with which you are familiar. The creature hears the message in its mind, recognizes you as the sender, and can answer in a similar manner. The spell enables creatures with an Intelligence score of at least -2 to understand the meaning of your message even if they don' \*\*t understand your language.
 
@@ -10625,11 +11404,12 @@ You can send the message across any distance and even to other planes of existen
 
 ### Sequester
 
-* **Magic List**: Transmutation
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Until dispelled
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Until dispelled |
 
 By means of this spell, a willing creature or an object can be hidden, rendered impossible to detect for the duration. When you cast the spell and touch a target, it becomes invisible and cannot be targeted by divination spells, nor perceived through scrying sensors created by divination spells.
 
@@ -10639,11 +11419,12 @@ You can set a condition for the spell to end early. The condition can be anythin
 
 ### Shapechange
 
-* **Magic List**: Transmutation
-* **Level**: 9, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 hour
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 9, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 hour |
 
 For the duration, you assume the form of a different creature. The new form can be of any creature with a challenge rating equal to or less than your MP/2+Magic Adept. The creature can' \*\*t be a construct or an undead, and you must have seen the creature at least once. You transform into an average example of that creature, one without any unique abilities. Your game statistics are replaced by the statistics of the chosen creature, though you retain your Traits and your Intelligence, Wisdom, and Charisma scores. You retain all of your skill proficiencies and Saving Throws, plus gain those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature' \*\*s bonus instead of yours. You can' \*\*t use any Legendary Actions or Lair Actions of the new form.
 
@@ -10659,11 +11440,12 @@ During the spell' \*\*s duration, you can use two actions to assume a different 
 
 ### Shatter
 
-* **Magic List**: Invocation
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Invocation |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 A sudden loud ringing noise, very intense, erupts from a point of your choice within range. Each creature in a 3-meter-radius sphere centered on that point must make a Fortitude Saving Throw. A creature takes 3d8 sound damage on a failed save, or half as much damage on a successful one. A creature made of inorganic material such as stone, crystal, or metal has -1d6 on this Saving Throw. A nonmagical object that isn' \*\*t being worn or carried also takes damage if it' \*\*s in the spell' \*\*s area.
 
@@ -10673,11 +11455,12 @@ A sudden loud ringing noise, very intense, erupts from a point of your choice wi
 
 ### Shield
 
-* **Magic List**: Universal
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: Personal
-* **Duration**: 1 round
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | Personal |
+| **Duration**: | 1 round |
 
 An invisible barrier of magical force appears to protect you. Until the beginning of your next round, you have a +1 bonus to Defense and take no damage from the first Arcane dart and Eldritch Blast that hits you in the round.
 
@@ -10687,11 +11470,12 @@ If cast by spending 1 Magic Point, the Defense bonus increases to +2, and the ca
 
 ### Shillelagh
 
-* **Spell List**: Animals and Plants
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: Touch
-* **Duration**: 1 minute
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | Touch |
+| **Duration**: | 1 minute |
 
 The wood of a club or quarterstaff you are holding is imbued with nature' \*\*s power. For the duration of the spell, using that weapon you can use your spellcasting ability instead of Strength for Attack Rolls and damage rolls in melee, and the weapon' \*\*s damage die becomes a d8. The weapon also becomes magical, if it isn' \*\*t already. The spell ends if you cast it again or if you let go of the weapon.
 
@@ -10699,11 +11483,12 @@ The wood of a club or quarterstaff you are holding is imbued with nature' \*\*s 
 
 ### Shimmering Smite
 
-* **Magic List**: Evocation
-* **Level**: 2, Uncommon
-* **Casting Time**: 1 Action
-* **Range**: personal
-* **Duration**: 1 minute
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 1 Action |
+| **Range**: | personal |
+| **Duration**: | 1 minute |
 
 You touch a target, which takes 2d6 Light damage and becomes visible for the duration of the spell. Additionally, the creature sheds light in a 1-meter radius.
 
@@ -10711,11 +11496,12 @@ You touch a target, which takes 2d6 Light damage and becomes visible for the dur
 
 ### Shocking Grasp
 
-* **Magic List**: Air
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have +1d6 on the Attack Roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can' \*\*t take reactions until the start of its next turn.
 
@@ -10725,11 +11511,12 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 
 ### Silence
 
-* **Magic List**: Illusion
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes |
 
 For the duration of the spell, no sound can be created within or pass through a 6-meter-radius sphere centered on a point of your choice within range. Any creature or object entirely inside the sphere is immune to sonic damage, and creatures entirely within it are deafened. It is extremely difficult (see Casting spells with impediments, p. ) to cast a spell that includes a verbal component while inside it. When cast on a creature, a Will Saving Throw is allowed to negate the effects.
 
@@ -10739,11 +11526,12 @@ For the duration of the spell, no sound can be created within or pass through a 
 
 ### Silent Image
 
-* **Magic List**: Illusion
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: Concentration, maximum 3 minutes per Magic Proficiency
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | Concentration, maximum 3 minutes per Magic Proficiency |
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 3-meter-sided cube. The image appears at a point you can see within range and lasts for the duration of the spell. The image is purely visual; it isn' \*\*t accompanied by sound, smell, or other sensory effects. You can use an Action to move the image to any point within range. When the image changes position, you can alter its appearance so that its movements appear natural. For example, if you create an image of a creature and move it, you can alter the image so that it appears to be walking.
 
@@ -10751,11 +11539,12 @@ Physical interaction with the image reveals it to be an illusion, since things p
 
 ### Sleep
 
-* **Magic List**: Enchantment
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: 1 minute
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | 1 minute |
 
 In a 2-meter radius, creatures must make a Will Saving Throw or fall asleep. Anything that damages or affects the creatures causes the magical sleep to immediately break. Creatures with a Challenge Rating higher than 3 are not affected.
 
@@ -10763,15 +11552,16 @@ In a 2-meter radius, creatures must make a Will Saving Throw or fall asleep. Any
 
 ### Sleet Storm
 
-* **Magic List**: Water
-* **Level**: 3, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: 1 minute
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 3, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | 1 minute |
 
 Until the spell ends, freezing rain and sleet fall in a 6-meter-tall cylinder with a 12-meter radius centered on a point you choose within range. The area is heavily obscured, and exposed flames in the area are doused. The ground in the area is covered with slick ice, making it difficult terrain. When a creature enters the spell' \*\*s area for the first time on a turn or starts its turn there, it must make a Reflex Saving Throw. On a failed save, it falls prone. If a creature in the spell' \*\*s area is concentrating, it must make a successful Fortitude Saving Throw against your spell save DC or lose concentration.
 
-Slow
+### Slow
 - **Magic List**:: Transmutation
 - **Level**:: 3, Uncommon
 - **Casting Time**:: 2 Actions
@@ -10788,11 +11578,12 @@ This spell counters and is countered by Haste.
 
 ### Speak with Animals
 
-* **Magic List**: Animals and Plants
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: 10 minutes
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | 10 minutes |
 
 For the duration, you gain the ability to comprehend and verbally communicate with beasts. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including those they can perceive or have perceived within the past day. At the Narrator' \*\*s discretion, you might be able to persuade a beast to perform a small favor for you.
 
@@ -10800,33 +11591,36 @@ For the duration, you gain the ability to comprehend and verbally communicate wi
 
 ### Speak with Creatures
 
-* **Magic List**: Animals and Plants, Divination
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Animals and Plants, Divination |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 This spell is a more powerful version of speak with animals, which allows you to speak with any creature within range, regardless of its nature or intelligence (which must be greater than -5).
 
 ### Speak with Dead
 
-* **Magic List**: Necromancy
-* **Level**: 3, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 3 meters
-* **Duration**: 10 minutes
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 3 meters |
+| **Duration**: | 10 minutes |
 
 You give the semblance of life and Intelligence to a corpse at range, chosen by you, allowing it to answer questions you pose. The corpse must still have a mouth and cannot be undead. The spell fails if the corpse has already been targeted by this spell in the last 10 days. Until the spell ends, you can ask the corpse up to five questions. The corpse knows only what it knew in life, including the languages it spoke. The answers are usually brief, cryptic, or repetitive, and the corpse is under no obligation to give truthful answers if you are hostile or it recognizes you as an enemy. This spell does not return the creature' \*\*s soul to the body, only the spirit that animates it. Therefore, the corpse cannot learn new information, does not understand anything that has happened since it died, and cannot make judgments about future events.
 
 ### Speak with Plants
 
-* **Spell List**: Animals and Plants
-* **Level**: 3, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self (30-foot radius)
-* **Duration**: 10 minutes
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self (30-foot radius) |
+| **Duration**: | 10 minutes |
 
-You imbue plants within 30 feet of you with sentience and limited mobility, giving them the ability to communicate with you and follow simple commands. You can question plants about events that occurred in the spell' \*\*s area within the last day, gaining information about creatures that have passed, weather, and other circumstances. You can also transform difficult terrain caused by plant growth (such as bushes and thick underbrush) into ordinary terrain for the duration of the spell.
+You imbue plants within 9 m of you with sentience and limited mobility, giving them the ability to communicate with you and follow simple commands. You can question plants about events that occurred in the spell' \*\*s area within the last day, gaining information about creatures that have passed, weather, and other circumstances. You can also transform difficult terrain caused by plant growth (such as bushes and thick underbrush) into ordinary terrain for the duration of the spell.
 
 Alternatively, you can transform normal terrain where plants are present into difficult terrain that remains for the duration of the spell, causing vines and branches to hinder pursuers, for example.
 
@@ -10834,32 +11628,35 @@ At the Narrator' \*\*s discretion, the plants might perform other tasks on your 
 
 ### Spider Climb
 
-* **Magic List**: Animal or Plant
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 10 minutes
+| **List**: | Animal or Plant |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 10 minutes |
 
 You cast this spell by touching a willing creature. Until the spell ends, the creature gains the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving its hands free. The target also gains a climbing speed equal to its walking speed. The creature affected by the spell is considered Distracted when casting other spells.
 
 ### Spike Growth
 
-* **Magic List**: Aninal and Plants
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: 10 minutes
+| **List**: | Aninal and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | 10 minutes |
 
 The ground in a 6-meter radius centered on a point within range twists and sprouts hard spikes and thorns. For the duration, the area becomes difficult terrain. When a creature enters or moves within the area, it takes 2d4 damage for every 1 meter it travels.
 The transformation of the ground is camouflaged to appear natural. Any creature that hasn' \*\*t seen the area when the spell was cast must make an Awareness check against the spell' \*\*s Saving Throw DC to recognize the terrain' \*\*s danger before entering it.
 
 ### Spiritual Weapon
 
-* **Magic List**: Conjuration
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 3 minutes, Concentration
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 3 minutes, Concentration |
 
 You create a floating, spectral weapon within range that lasts for the duration or until you cast this spell again. When you cast the spell, you can make a melee spell attack against a creature within 1 meter of the weapon with an attack bonus equal to Magic Proficiency/4. On a hit, the target takes force damage equal to 1d4 + your spellcasting ability modifier + Magic Proficiency/4. During your turn, as an Action, you can move the weapon up to 6 meters and repeat the attack against a creature within 1 meter of it. The weapon can take whatever form you choose, perhaps matching your Patron. The weapon has an equivalent magic bonus equal to Magic Proficiency/4.
 
@@ -10869,11 +11666,12 @@ The bonuses provided by Magic Proficiency/4 can be replaced by the sum of Traits
 
 ### Sticks to Snakes
 
-* **Magic List**: Animals and Plants
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration up to 1 minute
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration up to 1 minute |
 
 You transform 1d4 sticks, +1 for each time you' \*\*ve taken Magic Adept, into venomous snakes. The snakes act, on your turn, always in unison and perform the same Action against the same opponent.
 
@@ -10887,27 +11685,29 @@ With an Action, you can command the snakes to move up to 6 meters.
 
 ### Stinking Cloud
 
-* **Magic List**: Water, Air
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 27 meters
-* **Duration**: 10 minutes
+| **List**: | Water, Air |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 27 meters |
+| **Duration**: | 10 minutes |
 
 You create a 6-meter-radius sphere of yellow, nauseating gas centered on a point within range. The cloud spreads around corners, and its area is heavily obscured. The cloud lingers in the air for the duration. Each creature that is completely within the cloud at the start of its turn must make a Fortitude Saving Throw against poison. On a failed save, the creature spends 2 Actions of that turn retching and reeling. Creatures that don' \*\*t need to breathe or are immune to poison automatically succeed on this saving throw. A moderate wind (at least 15 kilometers per hour) disperses the cloud after 4 rounds. A strong wind (at least 30 kilometers per hour) disperses it after 1 round.
 
 ### Stone Shape
 
-* **Magic List**: Earth
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Instantaneous
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Instantaneous |
 
 You shape a 3-meter cube of stone that you touch into any form that suits your purpose.
 
 So, for example, you could shape a large stone into a weapon, idol, or coffin, or make a passage through a wall. You could also shape a stone door or its frame to seal the door. The object you create can have up to two hinges and a latch, but finer mechanical detail isn' \*\*t possible.
 
-Stone to Mud - Mud to Stone
+### Stone to Mud - Mud to Stone
 - **Spell List**:: Earth
 - **Level**:: 5, Uncommon - Very Rare
 - **Casting Time**:: 2 Actions
@@ -10927,11 +11727,12 @@ If a creature is in the mud when the Mud to Stone spell is cast, it can make a R
 
 ### Stoneskin
 
-* **Spell List**: Earth
-* **Level**: 4, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Earth |
+| --- | --- |
+| **Level**: | 4, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 You cast the spell by touching a willing creature, whose skin turns into a substance as hard as stone. Roll 1d4+half your MP value; the resulting sum is the number of times a melee or ranged weapon attack is nullified (regardless of whether it hits or not).
 
@@ -10939,11 +11740,12 @@ You cast the spell by touching a willing creature, whose skin turns into a subst
 
 ### Stone Tell
 
-* **Magic List**: Earth, Divination
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 turn
+| **List**: | Earth, Divination |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 turn |
 
 The caster gains the ability to speak with stones, which can tell who or what has touched them and reveal what they hide behind or beneath them. The stones provide accurate descriptions on request, though they might not provide the desired details in certain situations. The caster can speak with both natural and worked stones.
 
@@ -10951,11 +11753,12 @@ The caster gains the ability to speak with stones, which can tell who or what ha
 
 ### Statue
 
-* **Magic List**: Earth, Transmutation
-* **Level**: 7, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour per level
+| **List**: | Earth, Transmutation |
+| --- | --- |
+| **Level**: | 7, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour per level |
 
 This spell transforms the caster or a willing subject into stone, along with any clothing or objects carried. The subject can see and perceive sounds and smells, but does not need to eat or breathe. The sense of touch is limited to sensations perceivable by the granitic substance of which the subject' \*\*s body is composed. A chip is comparable to a simple scratch, but breaking an arm of the statue is equivalent to mutilation. The statue subject can return to normal state and become stone again as many times as desired during the spell' \*\*s duration. The statue has hardness 15 and double the Hit Points of the original creature.
 
@@ -10963,11 +11766,12 @@ This spell transforms the caster or a willing subject into stone, along with any
 
 ### Suggestion
 
-* **Magic List**: Enchantment
-* **Level**: 2, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 8 hours
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 2, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 8 hours |
 
 You suggest a course of activity (limited to a sentence or two) and magically influence a creature within range that you can see and hear and that can understand you, chosen by you. Creatures that can' \*\*t be charmed are immune to this effect. The suggestion must be worded in such a manner as to make the course of action sound reasonable. Asking the creature to stab itself, throw itself onto a spear, immolate itself, or do some other obviously harmful act automatically negates the effect of the spell.
 
@@ -10975,7 +11779,7 @@ The target must make a Will Saving Throw. On a failed save, it follows the cours
 
 You can also specify conditions that will trigger a special activity during the duration. For example, you might suggest that a knight give her warhorse to the first beggar she meets. If the condition isn' \*\*t met before the spell expires, the activity isn' \*\*t performed. If you or any of your companions damage the target, the spell ends.
 
-Sunbeam
+### Sunbeam
 - **Magic List**:: Conjuration
 - **Level**:: 6, Uncommon
 - **Casting Time**:: 2 Actions
@@ -10990,11 +11794,12 @@ For the duration, a mote of brilliant radiance shines in your hand. It sheds bri
 
 ### Sunburst
 
-* **Magic List**: Evocation
-* **Level**: 8, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 45 meters
-* **Duration**: Instantaneous
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 8, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 45 meters |
+| **Duration**: | Instantaneous |
 
 Brilliant sunlight illuminates in a 18-meter radius centered on a point you choose within range. All creatures in the bright light must make a Fortitude Saving Throw. On a failed save, a creature takes 12d6 Light damage and is blinded for 1 minute. On a successful save, it takes half as much damage and isn' \*\*t blinded by this spell. Undead and oozes have -8 on this Saving Throw. A creature blinded by this spell makes another Fortitude Saving Throw at the end of each of its turns. On a successful save, it is no longer blinded.
 
@@ -11006,11 +11811,12 @@ This spell dispels any darkness in its area that was created by a spell.
 
 ### Supreme Blessing
 
-* **Magic List**: Conjuration
-* **Level**: 3, Rare
-* **Casting Time**: 1 Reaction
-* **Range**: 27 meters
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 1 Reaction |
+| **Range**: | 27 meters |
+| **Duration**: | Instantaneous |
 
 You bless a creature of your choice. The creature can reroll two dice from a single check before knowing whether the check was successful or not. The creature chooses whether to take the new rolls or keep the old ones. You must be a Follower or Devotee to cast this spell.
 
@@ -11018,11 +11824,12 @@ You bless a creature of your choice. The creature can reroll two dice from a sin
 
 ### Symbol
 
-* **Magic List**: Abjuration
-* **Level**: 7, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: Until dispelled or triggered
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 7, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | Until dispelled or triggered |
 
 When you cast this spell, you inscribe a harmful glyph on a surface (such as a section of floor, wall, or table) or within an object that can be closed to conceal the glyph (such as a book, scroll, or treasure chest). If you choose a surface, the glyph can cover an area no larger than 3 meters in diameter. If you choose an object, that object must remain in place; if the object is moved more than 3 meters from where the spell was cast, the glyph is broken, and the spell ends without being triggered.
 
@@ -11049,11 +11856,12 @@ When you inscribe the glyph, choose one of the following options as its effect. 
 
 ### Telekinesis
 
-* **Magic List**: Transmutation
-* **Level**: 5, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: Concentration, up to 10 minutes
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | Concentration, up to 10 minutes |
 
 You gain the ability to move or manipulate creatures or objects by thought. When you cast the spell, and with 2 Actions during each round, you can exert your will on a creature or object within range that you can see, causing the appropriate effect below. You can act on the same target round after round, or choose a new one each time. If you change targets, the previous target is no longer affected by the spell.
 
@@ -11069,11 +11877,12 @@ You can exert fine control on objects with your telekinetic grip, such as manipu
 
 ### Telepathic Bond
 
-* **Magic List**: Divination
-* **Level**: 5, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 You establish a telepathic link among up to eight willing creatures of your choice within range, psychically linking each creature to all the others for the duration. Creatures with Intelligence scores of -3 or less aren' \*\*t affected by this spell. Until the spell ends, the targets can communicate telepathically through the bond whether or not they have a common language. The communication is possible at any distance, though it can' \*\*t extend to other planes of existence.
 
@@ -11081,11 +11890,12 @@ You establish a telepathic link among up to eight willing creatures of your choi
 
 ### Teleport
 
-* **Magic List**: Conjuration
-* **Level**: 7, Common
-* **Casting Time**: 2 Actions
-* **Range**: 3 meters
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 7, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 3 meters |
+| **Duration**: | Instantaneous |
 
 This spell instantly teleports you and up to eight willing creatures (or a single object) within range that you can see, chosen by you, to a destination of your choice. If you target an object, it must be able to fit entirely inside a 2-meter-radius sphere, and it can' \*\*t be held or carried by an unwilling creature.
 
@@ -11116,11 +11926,12 @@ The GM rolls d100 and consults the table.
 
 ### Teleportation Circle
 
-* **Magic List**: Conjuration
-* **Level**: 5, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: 3 meters
-* **Duration**: 1 round
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 5, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | 3 meters |
+| **Duration**: | 1 round |
 
 As you cast the spell, you draw a 3-meter-diameter circle on the ground inscribed with sigils that link your location to a permanent teleportation circle of your choice whose sigil sequence you know and that is on the same plane of existence as you. A shimmering portal opens within the circle you drew and remains open until the end of your next round. Any creature that enters the portal instantly appears within 1 meter of the destination circle or in the nearest unoccupied space if that space is occupied.
 
@@ -11134,11 +11945,12 @@ You can create a permanent teleportation circle by casting this spell in the sam
 
 ### Thaumaturgy
 
-* **Magic List**: Universal
-* **Level**: 0, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: Up to 1 minute
+| **List**: | Universal |
+| --- | --- |
+| **Level**: | 0, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | Up to 1 minute |
 
 You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:
 
@@ -11155,11 +11967,12 @@ If you cast this spell multiple times, you can have up to three of its 1-minute 
 
 ### Thunderwave
 
-* **Magic List**: Air
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: Instantaneous
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | Instantaneous |
 
 A wave of thunderous force sweeps out from you. Each creature in a 2-meter-radius sphere originating from you must make a Fortitude Saving Throw. On a failed save, a creature takes 2d8 thunder damage and is pushed 3 meters away from you. On a successful save, the creature takes half as much damage and isn' \*\*t pushed. Unanchored objects that are completely within the area of effect are automatically pushed 3 meters away from you by the spell' \*\*s effect. The spell emits a thunderous boom audible out to 90 meters.
 
@@ -11167,11 +11980,12 @@ A wave of thunderous force sweeps out from you. Each creature in a 2-meter-radiu
 
 ### Time Stop
 
-* **Magic List**: Transmutation
-* **Level**: 9, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: Personal
-* **Duration**: Instantaneous
+| **List**: | Transmutation |
+| --- | --- |
+| **Level**: | 9, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Personal |
+| **Duration**: | Instantaneous |
 
 You briefly stop the flow of time for everyone but yourself. Time doesn' \*\*t flow for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal. This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 300 meters from where you cast it.
 
@@ -11179,11 +11993,12 @@ You briefly stop the flow of time for everyone but yourself. Time doesn' \*\*t f
 
 ### Tiny Hut
 
-* **Magic List**: Evocation
-* **Level**: 3, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: Self (3-meter radius hemisphere)
-* **Duration**: 8 hours
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | Self (3-meter radius hemisphere) |
+| **Duration**: | 8 hours |
 
 An immobile half-sphere of force, 3 meters in radius, forms around and above you, remaining stationary for the duration. The spell ends if you leave the area. Eight Medium or smaller creatures can fit inside the dome with you. The spell fails if its area includes a larger creature or more than nine creatures. Creatures and objects within the dome when you cast this spell can move through it freely. All other creatures and objects must make a Fortitude Saving Throw or are unable to pass through it for that round. Spells and other magical effects can extend beyond the dome or pass through it if they aren' \*\*t Cantrips. The atmosphere inside the space is comfortable and dry, regardless of the weather outside.
 
@@ -11193,11 +12008,12 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 
 ### Tongues
 
-* **Magic List**: Divination
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 This spell grants the creature with which you were in contact at the time of casting the ability to understand any spoken language that it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
@@ -11205,21 +12021,23 @@ This spell grants the creature with which you were in contact at the time of cas
 
 ### Transport via Plants
 
-* **Magic List**: Animals and Plants, Earth
-* **Level**: 6, Very Rare
-* **Casting Time**: 2 Actions
-* **Range**: 3 meters
-* **Duration**: 1 round
+| **List**: | Animals and Plants, Earth |
+| --- | --- |
+| **Level**: | 6, Very Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 3 meters |
+| **Duration**: | 1 round |
 
 This spell creates a magical link between an inanimate plant of Large size or larger within range and another plant, at any distance, on the same plane of existence. You must have seen or touched the destination plant at least once before. For the duration of the spell, any creature can step into the target plant and exit from the destination plant by using 1 Movement Action.
 
 ### Tree Stride
 
-* **Magic List**: Animals and Plants
-* **Level**: 5, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: up to 1 minute
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 5, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | up to 1 minute |
 
 You gain the ability to enter a tree and move from inside it to inside another tree of the same species within 150 meters. Both trees must be living and at least of your size. Each Movement Action allows you to enter and exit a new tree.
 
@@ -11229,11 +12047,12 @@ For the duration of the spell, you can use this transportation ability once per 
 
 ### True Polymorph
 
-* **Magic List**: Animals and Plants
-* **Level**: 9, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 9, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 Choose one creature or nonmagical object within range and that you can see. The spell has no effect on a target with 0 Hit Points. You transform the creature into a different creature, the creature into an object, or the object into a creature (the object must not be worn or carried by another creature). The transformation lasts for the duration of the spell, or until the target drops to 0 Hit Points or dies. If you concentrate on this spell for the entire duration, the transformation becomes permanent.
 
@@ -11248,21 +12067,23 @@ Shapechangers ignore this spell. An unwilling creature can make a Will Saving Th
 
 ### True Seeing
 
-* **Magic List**: Divination
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 You cast the spell by touching a willing creature. The target gains the ability to see things as they actually are. For the duration of the spell, the creature has true sight, notices secret doors hidden by magic, and can see into the Ethereal Plane, out to a range of 36 meters. See also True Seeing p. .
 
 ### True Strike
 
-* **Magic List**: Divination
-* **Level**: 0, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 round
+| **List**: | Divination |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 round |
 
 You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target' \*\*s defenses. By the end of your next round, you gain +1d6 to your first Attack Roll against that target.
 
@@ -11270,11 +12091,12 @@ You extend your hand and point a finger at a target in range. Your magic grants 
 
 ### Unseen Servant
 
-* **Magic List**: Evocation
-* **Level**: 1, Common
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 1 hour
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 1 hour |
 
 This spell creates an almost invisible force only delimited by a slight aura (of a color of your choice) that performs simple tasks at your command until the end of the spell. The servant forms in an unoccupied space on the ground within range. It has Defense 10, 1 hit point, Strength 0, and cannot attack. If it drops to 0 Hit Points, the spell ends.
 
@@ -11284,11 +12106,12 @@ If you command the servant to perform a task that would move it more than 18 met
 
 ### Vampiric Touch
 
-* **Magic List**: Necromancy
-* **Level**: 3, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: 1 minute
+| **List**: | Necromancy |
+| --- | --- |
+| **Level**: | 3, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | 1 minute |
 
 The touch of your shadow-wreathed hand can siphon life force from others to heal your wounds. Each round you can make a melee spell attack, 2 Actions, against a creature within reach. On a hit, the target takes 3d6 necrotic damage, and you regain hit points equal to half the necrotic damage you deal.
 
@@ -11300,11 +12123,12 @@ While you have this spell active, you are considered Distracted for the casting 
 
 ### Ventriloquism
 
-* **Magic List**: Illusion
-* **Level**: 1, Common
-* **Casting Time**: 1 Action
-* **Range**: 9 meters
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 1, Common |
+| **Time**: | 1 Action |
+| **Range**: | 9 meters |
+| **Duration**: | 1 minute |
 
 You can make your voice (or any sound you can normally make vocally) seem to issue from somewhere else. You can speak in any language you know. Anyone who hears the sound can attempt an Awareness check against your spell DC. On a success, they recognize it as illusory, but still hear it. You can dismiss it at will for the duration, no action required.
 
@@ -11312,11 +12136,12 @@ You can make your voice (or any sound you can normally make vocally) seem to iss
 
 ### Vicious Mockery
 
-* **Magic List**: Enchantment
-* **Level**: 0, Common
-* **Casting Time**: 1 Action
-* **Range**: 18 meters
-* **Duration**: Instantaneous
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 0, Common |
+| **Time**: | 1 Action |
+| **Range**: | 18 meters |
+| **Duration**: | Instantaneous |
 
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Will Saving Throw or take 1d4 damage and have -2 to the next Attack Roll it makes before the end of its next turn.
 
@@ -11326,21 +12151,23 @@ The spell' \*\*s damage increases by 1d4 when you reach MP 5, MP 11, and MP 17, 
 
 ### Vigor
 
-* **Magic List**: Healing
-* **Level**: 4, Rare
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 round per Magic Proficiency
+| **List**: | Healing |
+| --- | --- |
+| **Level**: | 4, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 round per Magic Proficiency |
 
 The creature affected by this spell recovers one level of Exhaustion, gains 3d6 Temporary Hit Points. It can focus its energies to perform an Attack Action without multiattack penalties or perform an extra Movement Action.
 
 ### Wall of Fire
 
-* **Magic List**: Fire
-* **Level**: 4, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 minute
+| **List**: | Fire |
+| --- | --- |
+| **Level**: | 4, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 minute |
 
 You create a wall of fire on a solid surface within range. You can make the wall up to 18 meters long, 6 meters high, and 30 centimeters thick, or a ringed wall up to 6 meters in diameter, 6 meters high, and 30 centimeters thick. The wall is opaque and lasts for the duration.
 
@@ -11350,21 +12177,23 @@ When the wall appears, each creature within its area must make a Reflex Saving T
 
 ### Wall of Force
 
-* **Magic List**: Evocation
-* **Level**: 5, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes |
 
 An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can float in the air or rest on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 3 meters, or you can shape a flat surface made up of ten 3-meter-by-3-meter panels. Each panel must be contiguous with another panel. In any form, the wall is 75 centimeters thick. If the wall cuts through a creature' \*\*s space when it appears, the creature is pushed to one side of the wall (your choice). Nothing can physically pass through the wall, anyone beyond the wall has total cover. It is immune to all damage and can' \*\*t be dispelled by dispel magic. However, the wall is destroyed instantly by a disintegrate spell. The wall also extends into the Ethereal Plane, blocking ethereal travel through it.
 
 ### Wall of Ice
 
-* **Magic List**: Water
-* **Level**: 6, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 6, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes |
 
 You create a wall of ice on a solid surface within range. You can form it into a hemispherical dome or a sphere with a radius of up to 3 meters, or you can shape a flat surface made up of ten 3-meter-square panels. Each panel must be contiguous with another panel. In any form, the wall is 30 centimeters thick and lasts for the duration.
 
@@ -11376,11 +12205,12 @@ The wall is an object that can be damaged and breached. Each 3-meter section has
 
 ### Wall of Stone
 
-* **Magic List**: Evocation
-* **Level**: 5, Common
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 10 minutes
+| **List**: | Evocation |
+| --- | --- |
+| **Level**: | 5, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 10 minutes |
 
 A nonmagical wall of solid stone springs into existence at a point you choose within range. The wall is 15 centimeters thick and is composed of ten 3 x 3 meter panels. Each panel must be contiguous with at least one other panel. Alternatively, you can create 3 x 6 meter panels that are only 7.5 centimeters thick.
 
@@ -11392,11 +12222,12 @@ If you create a non-vertical wall like this that spans more than 6 meters, you m
 
 ### Wall of Thorns
 
-* **Magic List**: Animals and Plants
-* **Level**: 6, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: up to 10 minutes
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | up to 10 minutes |
 
 You create a wall of tough, pliable, tangled brush bristling with needle-sharp thorns. The wall appears within range on a solid surface and lasts for the duration. The wall you create can be up to 18 meters long, 3 meters high, and 1 meter thick or a circle that has a 6-meter diameter and is up to 6 meters high and 1 meter thick. The wall blocks line of sight.
 
@@ -11406,21 +12237,23 @@ When the wall appears, each creature within its area must make a Reflex Saving T
 
 ### Warding Bond
 
-* **Magic List**: Abjuration
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: Touch
-* **Duration**: 1 hour
+| **List**: | Abjuration |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | Touch |
+| **Duration**: | 1 hour |
 
 You cast the spell by touching a creature you wish to protect. You create a mystical connection between yourself and the target until the spell ends. While the target is within 18 meters of you, it gains a +1 bonus to Defense and Saving Throws, and it has resistance to all damage. Also, each time it takes damage, you take the same amount of damage. The spell ends if you drop to 0 Hit Points or if you and the target become separated by more than 18 meters. It also ends if the spell is cast again on either of the connected creatures. You can dismiss the spell as an Action.
 
 ### Water Breathing
 
-* **Spell List**: Water, Air
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 30 feet
-* **Duration**: 1 Hour per Magic Proficiency
+| **List**: | Water, Air |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 m |
+| **Duration**: | 1 Hour per Magic Proficiency |
 
 You can divide the total duration of the spell equally among MP/2 willing creatures.
 
@@ -11430,21 +12263,23 @@ This spell allows the selected creatures within range to breathe underwater for 
 
 ### Water Walk
 
-* **Magic List**: Water
-* **Level**: 3, Common
-* **Casting Time**: 2 Actions
-* **Range**: 9 meters
-* **Duration**: 1 hour
+| **List**: | Water |
+| --- | --- |
+| **Level**: | 3, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 9 meters |
+| **Duration**: | 1 hour |
 
 This spell grants the ability to move across any liquid surface (such as water, acid, mud, snow, quicksand, or lava) as if it were harmless solid ground (creatures crossing molten lava can still take damage from the heat or melt in acid). Up to ten willing creatures you can see within range receive this ability for the duration. If your target is submerged in a liquid, the spell carries the target to the surface of the liquid at a rate of 9 meters per round.
 
 ### Web
 
-* **Spell List**: Animals and Plants
-* **Level**: 2, Common
-* **Casting Time**: 2 Actions
-* **Range**: 60 feet
-* **Duration**: 1 hour
+| **List**: | Animals and Plants |
+| --- | --- |
+| **Level**: | 2, Common |
+| **Time**: | 2 Actions |
+| **Range**: | 60 feet |
+| **Duration**: | 1 hour |
 
 You conjure a mass of thick, sticky webbing at a point of your choice within range. For the duration, the webs fill a 10-foot-radius sphere from the designated point. The webs are difficult terrain and lightly obscure their area.
 
@@ -11458,11 +12293,12 @@ The webs are flammable and if exposed to flames they immediately catch fire and 
 
 ### Weird
 
-* **Magic List**: Illusion
-* **Level**: 9, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 minute
+| **List**: | Illusion |
+| --- | --- |
+| **Level**: | 9, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 minute |
 
 Drawing on the deepest fears of a group of creatures, you create illusory creatures in their minds, visible only to them. Each creature in a 9-meter-radius sphere centered on a point of your choice within range must make a Will Saving Throw. If it fails the Saving Throw, the creature becomes frightened for the duration. The illusion feeds on the creature' \*\*s deepest fears, manifesting its worst nightmares as an implacable threat. At the end of each of the frightened creature' \*\*s turns, it must succeed on a Will Saving Throw or take 4d10 force damage. If it succeeds on the Saving Throw, the spell ends for that creature.
 
@@ -11470,21 +12306,23 @@ Drawing on the deepest fears of a group of creatures, you create illusory creatu
 
 ### Wind Walk
 
-* **Magic List**: Air
-* **Level**: 6, Uncommon
-* **Casting Time**: 1 minute
-* **Range**: 9 meters
-* **Duration**: 8 hours
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 6, Uncommon |
+| **Time**: | 1 minute |
+| **Range**: | 9 meters |
+| **Duration**: | 8 hours |
 
 For the duration, you and up to ten other willing creatures you can see within range assume a gaseous form, becoming clouds. While in the form of a cloud, a creature has a flying speed of 90 meters and has resistance to damage from nonmagical weapons. Returning to normal form or returning to cloud form takes 1 minute, during which time the creature is incapacitated and can' \*\*t move. If a creature is in cloud form and flying when the effect ends, the creature descends 18 meters per round for one minute until it lands, safely. If it can' \*\*t land after 1 minute, the creature will fall the remaining distance.
 
 ### Wind Wall
 
-* **Magic List**: Air
-* **Level**: 3, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 36 meters
-* **Duration**: 1 minute
+| **List**: | Air |
+| --- | --- |
+| **Level**: | 3, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 36 meters |
+| **Duration**: | 1 minute |
 
 A wall of strong wind rises from the ground at a point you choose within range. You can make the wall up to 15 meters long, 3 meters high, and 30 centimeters thick. You can shape the wall in any way you choose so long as it makes one continuous path along the ground. The wall lasts for the duration. When the wall appears, each creature within its area must make a Fortitude Saving Throw. A creature takes 3d8 bludgeoning damage on a failed save, or half as much damage on a successful one. The strong wind keeps fog, smoke, and other gases at bay. Flying creatures of Small size or smaller cannot pass through the wall. Loose materials carried by the wind are blown upward. Arrows, bolts, and other ordinary projectiles are deflected and automatically miss their targets (boulders hurled by giants or siege engines, and similar projectiles, are unaffected). Creatures in gaseous form can' \*\*t pass through it.
 
@@ -11492,11 +12330,12 @@ A wall of strong wind rises from the ground at a point you choose within range. 
 
 ### Wish
 
-* **Magic List**: Conjuration
-* **Level**: 9, Legendary
-* **Casting Time**: 2 Actions
-* **Range**: Self
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 9, Legendary |
+| **Time**: | 2 Actions |
+| **Range**: | Self |
+| **Duration**: | Instantaneous |
 
 Wish is the mightiest spell a mortal creature can cast. By simply speaking aloud and consuming gems held in your hand, you can alter the very foundations of reality to suit your needs.
 
@@ -11522,11 +12361,12 @@ Roll 1d100. On a roll of 1-33\%, you can never cast wish again due to the stress
 
 ### Word of Retreat
 
-* **Spell List**: Conjuration
-* **Level**: 6, Rare
-* **Casting Time**: 2 Actions
-* **Range**: 3 feet
-* **Duration**: Instantaneous
+| **List**: | Conjuration |
+| --- | --- |
+| **Level**: | 6, Rare |
+| **Time**: | 2 Actions |
+| **Range**: | 3 feet |
+| **Duration**: | Instantaneous |
 
 You and up to five willing creatures within 3 feet of you instantly teleport to a previously designated sanctuary. You and all teleported creatures reappear in the nearest unoccupied space to the point you designated when you prepared this sanctuary (see below). If you cast this spell without having previously prepared a sanctuary, the spell has no effect.
 
@@ -11536,11 +12376,12 @@ You must designate a sanctuary that is dedicated to or strongly linked to your P
 
 ### Zone of Truth
 
-* **Magic List**: Enchantment
-* **Level**: 2, Uncommon
-* **Casting Time**: 2 Actions
-* **Range**: 18 meters
-* **Duration**: 10 minutes
+| **List**: | Enchantment |
+| --- | --- |
+| **Level**: | 2, Uncommon |
+| **Time**: | 2 Actions |
+| **Range**: | 18 meters |
+| **Duration**: | 10 minutes |
 
 You create a magical zone that guards against deception in a 3-meter radius sphere centered on a point of your choice within range. Until the spell ends, a creature that enters the spell' \*\*s area for the first time on a turn or starts its turn there must make a Will Saving Throw. On a failed save, a creature can' \*\*t speak deliberate lies while in the radius. You know whether each creature succeeds or fails on its Saving Throw. An affected creature is aware of the spell and can thus avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive in its answers as long as it remains within the boundaries of the truth.
 
@@ -22625,16 +23466,17 @@ Oskar Schindler: That' \*\*s what the emperors had. A man steals something, he' 
 
 (Schindler' \*\*s List, Film, 1993)
 
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4
-- **Hit Points**: 199,  **Defense:** 24,  **Initiative:** +4
-- **Movement**: 3 m, swim 12 m
-- **Saving Throws**: Fortitude +12, Reflex +9, Will +12
-- **Spells**: immune to Illusion spells below 2nd level
-- **Skills**: Awareness +10, History +12
-- **Senses**: Darkvision 36 m
-- **Languages**: Aquan, telepathy 36 m
-- **Challenge**: 10 (5900 XP)
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 2 Int 4 Wis 2 Cha 4 |
+| **Hit Points** | 199, **Defense:** 24, **Initiative:** +4 |
+| **Movement** | 3 m, swim 12 m |
+| **S. Throws** | Fortitude +12, Reflex +9, Will +12 |
+| **Spells** | immune to Illusion spells below 2nd level |
+| **Skills** | Awareness +10, History +12 |
+| **Senses** | Darkvision 36m |
+| **Languages** | Aquan, telepathy 36 m |
+| **Challenge** | 10 (5900 XP) |
 
 ***Amphibious.*** The aboleth can breathe air and water.
 
@@ -22677,16 +23519,18 @@ Organization: Solitary, pair, brood (3-6), or shoal (7-19)
 As their primitive appearance suggests, aboleths are among the oldest life forms in the world. An aboleth is 7 meters long and weighs about 3.2 tons. Aboleths dwell at the bottom of the seas in their vast cities, served by countless slaves.
 
 Adult Black Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3
-- **Hit Points**: 338,  **Defense:** 36,  **Initiative:** +2
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +22, Reflex +19, Will +18
-- **Skills**: Stealth +7, Awareness +11
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 5 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 338, **Defense:** 36, **Initiative:** +2 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +22, Reflex +19, Will +18 |
+| **Skills** | Stealth +7, Awareness +11 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Corrosive gases.*** The dragon emits corrosive gases in a 3-meter radius that deal 1d6 acid damage per round.
 
@@ -22744,16 +23588,18 @@ Organization: Solitary
 - Bestow Curse
 
 Adult Blue Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
-- **Hit Points**: 322,  **Defense:** 33,  **Initiative:** +3
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +22, Reflex +16, Will +18
-- **Skills**: Stealth +5, Perception +13
-- **Damage Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 322, **Defense:** 33, **Initiative:** +3 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +22, Reflex +16, Will +18 |
+| **Skills** | Stealth +5, Perception +13 |
+| **Dam. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 16 (15000 XP) |
 
 ***Electric discharge.*** the dragon emits magical electric discharges within a 3-meter radius that cause 1d6 lightning damage per round.
 
@@ -22809,16 +23655,18 @@ Organization: Solitary
 - Ice Storm
 
 Adult Brass Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3
-- **Hit Points**: 262,  **Defense:** 29,  **Initiative:** +2
-- **Movement**: 12 m, burrow 9 m, fly 24 m
-- **Saving Throws**: Fortitude +18, Reflex +13, Will +14
-- **Dmg. Imm.**: Fire
-- **Skills**: Stealth +5, Awareness +11, Deception +8, History +7
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 262, **Defense:** 29, **Initiative:** +2 |
+| **Movement** | 12 m, burrow 9 m, fly 24 m |
+| **S. Throws** | Fortitude +18, Reflex +13, Will +14 |
+| **Dmg. Imm.** | Fire |
+| **Skills** | Stealth +5, Awareness +11, Deception +8, History +7 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 13 (10000 XP) |
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -22876,16 +23724,18 @@ Organization: Solitary
 - Scrying
 
 Adult Bronze Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4
-- **Hit Points**: 303,  **Defense:** 32,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +21, Reflex +15, Will +17
-- **Skills**: Stealth +5, Sense Motive +7, Awareness +12
-- **Dmg. Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 6 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 303, **Defense:** 32, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +21, Reflex +15, Will +17 |
+| **Skills** | Stealth +5, Sense Motive +7, Awareness +12 |
+| **Dmg. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 15 (13000 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -22948,16 +23798,18 @@ Organization: Solitary
 - Freedom of Movement
 
 Adult Copper Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
-- **Hit Points**: 281,  **Defense:** 31,  **Initiative:** +4
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +19, Reflex +15, Will +16
-- **Skills**: Stealth +6, Deception +8, Perception +12
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 14 (11,500 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3 |
+| **Hit Points** | 281, **Defense:** 31, **Initiative:** +4 |
+| **Movement** | 40 ft, climb 40 ft, fly 80 ft |
+| **S. Throws** | Fortitude +19, Reflex +15, Will +16 |
+| **Skills** | Stealth +6, Deception +8, Perception +12 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 120 ft, Blindsight 60 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 14 (11,500 XP) |
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -22975,7 +23827,7 @@ Adult Copper Dragon
 
 *Hit:* 17 (2d10 + 6) piercing damage.
 
-***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 27 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 36 m of the dragon and aware of it must succeed on a DC 27 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
@@ -23015,16 +23867,18 @@ Organization: Solitary
 - Fire Shield
 
 Adult Gold Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7
-- **Hit Points**: 344,  **Defense:** 36,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +24, Reflex +19, Will +19
-- **Skills**: Stealth +8, Sense Motive +8, Awareness +14, Deception +13
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 7 |
+| **Hit Points** | 344, **Defense:** 36, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +24, Reflex +19, Will +19 |
+| **Skills** | Stealth +8, Sense Motive +8, Awareness +14, Deception +13 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Weakening aura.*** The dragon emits an aura in a 3-meter radius that causes Fatigued 1. Remaining in the aura does not increase the fatigue level.
 
@@ -23090,16 +23944,18 @@ Organization: Solitary
 - Black Tentacles
 
 Adult Green Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
-- **Hit Points**: 300,  **Defense:** 33,  **Initiative:** +4
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +20, Reflex +16, Will +17
-- **Skills**: Stealth +6, Deception +8, Sense Motive +7, Awareness +12
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3 |
+| **Hit Points** | 300, **Defense:** 33, **Initiative:** +4 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +20, Reflex +16, Will +17 |
+| **Skills** | Stealth +6, Deception +8, Sense Motive +7, Awareness +12 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 15 (13000 XP) |
 
 ***Mephitic air.*** The dragon emits magical gases in a 3-meter radius that deal 1d6 poison damage per round.
 
@@ -23157,16 +24013,18 @@ Organization: Solitary
 - Neutralize Poison
 
 Adult Red Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
-- **Hit Points**: 344,  **Defense:** 34,  **Initiative:** +3
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +24, Reflex +17, Will +18
-- **Skills**: Stealth +6, Awareness +13
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5 |
+| **Hit Points** | 344, **Defense:** 34, **Initiative:** +3 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +24, Reflex +17, Will +18 |
+| **Skills** | Stealth +6, Awareness +13 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Flame aura.*** The dragon emits magical heat in a 3-meter radius that deals 1d6 fire damage per round.
 
@@ -23224,16 +24082,18 @@ Organization: Solitary
 - Wall of Fire
 
 Adult Silver Dragon
-- **Size/Type**: Huge dragon, good
-- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5
-- **Hit Points**: 325,  **Defense:** 33,  **Initiative:** +3
-- **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +23, Reflex +16, Will +17
-- **Skills**: Arcana +8, Stealth +5, Awareness +11, History +8
-- **Dmg. Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Huge dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 7 Int 3 Wis 1 Cha 5 |
+| **Hit Points** | 325, **Defense:** 33, **Initiative:** +3 |
+| **Movement** | 12 m, fly 24 m |
+| **S. Throws** | Fortitude +23, Reflex +16, Will +17 |
+| **Skills** | Arcana +8, Stealth +5, Awareness +11, History +8 |
+| **Dmg. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 16 (15000 XP) |
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -23295,16 +24155,18 @@ Organization: Solitary
 - Dream
 
 Adult White Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1
-- **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +2
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +19, Reflex +13, Will +14
-- **Skills**: Stealth +5, Perception +8
-- **Damage Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 6 Int 2 Wis 1 Cha 1 |
+| **Hit Points** | 264, **Defense:** 29, **Initiative:** +2 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +19, Reflex +13, Will +14 |
+| **Skills** | Stealth +5, Perception +8 |
+| **Dam. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 13 (10000 XP) |
 
 ***Frost aura.*** the dragon emits magical frost within a 3-meter radius that causes 1d6 cold damage per round.
 
@@ -23360,16 +24222,18 @@ Organization: Solitary
 - Sleet Storm
 
 Ancient Black Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4
-- **Hit Points**: 422,  **Defense:** 42,  **Initiative:** +3
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +28, Reflex +23, Will +23
-- **Skills**: Stealth +9, Awareness +16
-- **Damage Imm.**: Acid, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 422, **Defense:** 42, **Initiative:** +3 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +28, Reflex +23, Will +23 |
+| **Skills** | Stealth +9, Awareness +16 |
+| **Dam. Imm.** | Acid, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 21 (33000 XP) |
 
 ***Corrosive gases.*** The dragon emits corrosive gases in a 3-meter radius that deal 2d6 acid damage per round.
 
@@ -23447,16 +24311,18 @@ Black Dragons represent the Traits of selfishness and violence, hating every for
 Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead being to life despite all the constraints imposed by the Patrons.
 
 Ancient Blue Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
-- **Hit Points**: 465,  **Defense:** 42,  **Initiative:** +4
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +31, Reflex +23, Will +26
-- **Skills**: Stealth +7, Perception +17
-- **Damage Imm.**: Lightning, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5 |
+| **Hit Points** | 465, **Defense:** 42, **Initiative:** +4 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +31, Reflex +23, Will +26 |
+| **Skills** | Stealth +7, Perception +17 |
+| **Dam. Imm.** | Lightning, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 23 (50000 XP) |
 
 ***Electric discharge.*** the dragon emits magical electric discharges within a 3-meter radius that cause 2d6 lightning damage per round.
 
@@ -23528,16 +24394,18 @@ They don' \*\*t get along with purple dragons, which they despise for having cho
 - Ice Storm
 
 Ancient Brass Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4
-- **Hit Points**: 403,  **Defense:** 38,  **Initiative:** +3
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: Fortitude +27, Reflex +20, Will +22
-- **Dmg. Imm.**: Fire, +1 weapons
-- **Skills**: Awareness +14
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 20 (25000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 7 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 403, **Defense:** 38, **Initiative:** +3 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +27, Reflex +20, Will +22 |
+| **Dmg. Imm.** | Fire, +1 weapons |
+| **Skills** | Awareness +14 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 20 (25000 XP) |
 
 ***Soporific aura.*** The dragon emits a magical aura in a 3-meter radius that causes Slowed 1 or Fatigued 1, randomly for each creature.
 
@@ -23597,16 +24465,18 @@ Organization: Solitary
 - Scrying
 
 Ancient Bronze Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5
-- **Hit Points**: 446,  **Defense:** 41,  **Initiative:** +4
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +30, Reflex +22, Will +25
-- **Skills**: Stealth +7, Sense Motive +10, Awareness +17
-- **Dmg. Imm.**: Lightning, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 22 (41000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 9 Dex 0 Con 8 Int 4 Wis 3 Cha 5 |
+| **Hit Points** | 446, **Defense:** 41, **Initiative:** +4 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +30, Reflex +22, Will +25 |
+| **Skills** | Stealth +7, Sense Motive +10, Awareness +17 |
+| **Dmg. Imm.** | Lightning, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 22 (41000 XP) |
 
 ***Repelling aura.*** The dragon emits an aura in a 3-meter radius that disturbs creatures. Each attack made suffers a penalty of 3 - attack distance.
 
@@ -23667,16 +24537,18 @@ Organization: Solitary
 - Freedom of Movement
 
 Ancient Copper Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
-- **Hit Points**: 422,  **Defense:** 41,  **Initiative:** +5
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +28, Reflex +22, Will +24
-- **Skills**: Stealth +8, Deception +11, Perception +17
-- **Damage Imm.**: Acid, +1 weapons
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4 |
+| **Hit Points** | 422, **Defense:** 41, **Initiative:** +5 |
+| **Movement** | 40 ft, climb 40 ft, fly 80 ft |
+| **S. Throws** | Fortitude +28, Reflex +22, Will +24 |
+| **Skills** | Stealth +8, Deception +11, Perception +17 |
+| **Dam. Imm.** | Acid, +1 weapons |
+| **Senses** | Darkvision 36 m, Blindsight 18 m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 21 (33000 XP) |
 
 ***Corrosive Gases.*** The dragon emits corrosive gases in a 10-foot radius that deal 2d6 acid damage per round.
 
@@ -23698,7 +24570,7 @@ Ancient Copper Dragon
 
 *Hit:* 19 (2d10 + 8) piercing damage.
 
-***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 120 feet of the dragon and aware of it must succeed on a DC 34 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
+***Frightful Presence.*** Each creature of the dragon' \*\*s choice that is within 36 m of the dragon and aware of it must succeed on a DC 34 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
@@ -23738,16 +24610,18 @@ Organization: Solitary
 - Fire Shield
 
 Ancient Gold Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9
-- **Hit Points**: 490,  **Defense:** 46,  **Initiative:** +4
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +33, Reflex +26, Will +27
-- **Skills**: Stealth +9, Sense Motive +10, Awareness +17, Deception +16
-- **Dmg. Imm.**: Fire, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 24 (62000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 10 Dex 2 Con 9 Int 4 Wis 3 Cha 9 |
+| **Hit Points** | 490, **Defense:** 46, **Initiative:** +4 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +33, Reflex +26, Will +27 |
+| **Skills** | Stealth +9, Sense Motive +10, Awareness +17, Deception +16 |
+| **Dmg. Imm.** | Fire, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 24 (62000 XP) |
 
 ***Weakening aura.*** The dragon emits an aura in a 3-meter radius that causes Fatigued 2. Remaining in the aura does not increase the fatigue level.
 
@@ -23809,16 +24683,18 @@ Organization: Solitary
 - Black Tentacles
 
 Ancient Green Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
-- **Hit Points**: 441,  **Defense:** 42,  **Initiative:** +5
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +29, Reflex +23, Will +25
-- **Skills**: Stealth +8, Deception +11, Sense Motive +10, Awareness + 15
-- **Damage Imm.**: Poison, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 22 (41000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4 |
+| **Hit Points** | 441, **Defense:** 42, **Initiative:** +5 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +29, Reflex +23, Will +25 |
+| **Skills** | Stealth +8, Deception +11, Sense Motive +10, Awareness + 15 |
+| **Dam. Imm.** | Poison, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 22 (41000 XP) |
 
 ***Mephitic air.*** The dragon emits magical gases in a 3-meter radius that deal 2d6 poison damage per round.
 
@@ -23888,16 +24764,18 @@ Among the many dragons, the green one is perhaps the one that will talk to adven
 - Neutralize Poison
 
 Ancient Purple Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4
-- **Hit Points**: 428,  **Defense:** 44,  **Initiative:** +4
-- **Movement**: 12 m, burrow 24 m
-- **Saving Throws**: Fortitude +26, Reflex +25, Will +26
-- **Skills**: Dungeon Knowledge +8, Intimidation +11, Sense Motive +10, Awareness + 15
-- **Damage Imm.**: Sound, weapons +1
-- **Senses**: Darkvision 36 m, Tremorsense 72 m
-- **Languages**: Common, Draconic
-- **Challenge**: 22 (41000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 3 Con 4 Int 4 Wis 4 Cha 4 |
+| **Hit Points** | 428, **Defense:** 44, **Initiative:** +4 |
+| **Movement** | 12 m, burrow 24 m |
+| **S. Throws** | Fortitude +26, Reflex +25, Will +26 |
+| **Skills** | Dungeon Knowledge +8, Intimidation +11, Sense Motive +10, Awareness + 15 |
+| **Dam. Imm.** | Sound, weapons +1 |
+| **Senses** | Darkvision 36 m, Tremorsense 72 m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 22 (41000 XP) |
 
 ***Explosive waves.*** The dragon emits sonic vibrations in a 3-meter radius that deal 2d6 sonic damage per round.
 
@@ -23964,16 +24842,18 @@ It is strong and courageous, arrogant but not brazen. It is not afraid to fight 
 - Stone Shape
 
 Ancient Red Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
-- **Hit Points**: 490,  **Defense:** 44,  **Initiative:** +4
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +33, Reflex +24, Will +26
-- **Skills**: Stealth +7, Awareness +16
-- **Damage Imm.**: Fire, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 24 (62000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6 |
+| **Hit Points** | 490, **Defense:** 44, **Initiative:** +4 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +33, Reflex +24, Will +26 |
+| **Skills** | Stealth +7, Awareness +16 |
+| **Dam. Imm.** | Fire, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 24 (62000 XP) |
 
 ***Flame aura.*** The dragon emits magical heat in a 3-meter radius that deals 2d6 fire damage per round.
 
@@ -24038,16 +24918,18 @@ They fight using their bulk, wings, bite, claws... basically everything they are
 - Wall of Fire
 
 Ancient Silver Dragon
-- **Size/Type**: Gargantuan dragon, good
-- **Ability**: Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6
-- **Hit Points**: 470,  **Defense:** 42,  **Initiative:** +4
-- **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +32, Reflex +23, Will +25
-- **Skills**: Arcana +11, Stealth +7, Awareness +16, History +11
-- **Damage Imm.**: Cold, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan dragon, good |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 9 Int 4 Wis 2 Cha 6 |
+| **Hit Points** | 470, **Defense:** 42, **Initiative:** +4 |
+| **Movement** | 12 m, fly 24 m |
+| **S. Throws** | Fortitude +32, Reflex +23, Will +25 |
+| **Skills** | Arcana +11, Stealth +7, Awareness +16, History +11 |
+| **Dam. Imm.** | Cold, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 23 (50000 XP) |
 
 ***Slowing aura.*** The dragon emits a magical aura in a 3-meter radius that causes Slowed 1.
 
@@ -24109,16 +24991,18 @@ Organization: Solitary
 - Dream
 
 Ancient White Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2
-- **Hit Points**: 407,  **Defense:** 38,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +28, Reflex +20, Will +21
-- **Skills**: Stealth +6, Perception +13
-- **Damage Imm.**: Cold, +1 weapons
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 20 (25000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 8 Int 3 Wis 1 Cha 2 |
+| **Hit Points** | 407, **Defense:** 38, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +28, Reflex +20, Will +21 |
+| **Skills** | Stealth +6, Perception +13 |
+| **Dam. Imm.** | Cold, +1 weapons |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 20 (25000 XP) |
 
 ***Frost aura.*** the dragon emits magical frost within a 3-meter radius that causes 2d6 cold damage per round.
 
@@ -24186,16 +25070,18 @@ Their lairs are icy caves in the mountains or dug into the most massive glaciers
 - Sleet Storm
 
 Ancient Yellow Dragon
-- **Size/Type**: Gargantuan dragon, evil
-- **Ability**: Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4
-- **Hit Points**: 465,  **Defense:** 43,  **Initiative:** +3
-- **Movement**: 12 m, burrow 24 m, climb 24, fly 12 m
-- **Saving Throws**: Fortitude +31, Reflex +24, Will +25
-- **Skills**: Stealth +7, Awareness +17
-- **Damage Imm.**: Fire, weapons +1
-- **Senses**: Darkvision 36 m, Blindsight 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan dragon, evil |
+| --- | --- |
+| **Ability** | Str 10 Dex 1 Con 8 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 465, **Defense:** 43, **Initiative:** +3 |
+| **Movement** | 12 m, burrow 24 m, climb 24, fly 12 m |
+| **S. Throws** | Fortitude +31, Reflex +24, Will +25 |
+| **Skills** | Stealth +7, Awareness +17 |
+| **Dam. Imm.** | Fire, weapons +1 |
+| **Senses** | Darkvision 36m, Blindsight 18m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 23 (50000 XP) |
 
 ***Searing heat.*** The dragon emits magical heat in a 3-meter radius that deals 2d6 fire damage per round.
 
@@ -24244,17 +25130,19 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 - Fire Shield
 
 Androsphinx
-- **Size/Type**: Large monstrosity, lawful
-- **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
-- **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +3
-- **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: Fortitude +22, Reflex +17, Will +21
-- **Skills**: Arcana +9, Religion +15
-- **Dmg. Imm.**: from non-magical weapons
-- **Immunities**: charmed, frightened
-- **Senses**: truesight 120 ft
-- **Languages**: Common, Sphinx
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Large monstrosity, lawful |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6 |
+| **Hit Points** | 338, **Defense:** 34, **Initiative:** +3 |
+| **Movement** | 40 ft, fly 60 ft |
+| **S. Throws** | Fortitude +22, Reflex +17, Will +21 |
+| **Skills** | Arcana +9, Religion +15 |
+| **Dmg. Imm.** | from non-magical weapons |
+| **Immunities** | charmed, frightened |
+| **Senses** | truesight 120 ft |
+| **Languages** | Common, Sphinx |
+| **Challenge** | 17 (18000 XP) |
 
 ***Magic Weapons.*** The sphinx' \*\*s weapon attacks are magical.
 
@@ -24301,7 +25189,7 @@ The sphinx can take 3 legendary actions, choosing from the options below. Only o
 
 **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet of it.
+**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 36 m of it.
 
 ***Enraged:*** The Sphinx poses a riddle. The creature must answer, using all its actions and one answer per round, within 6 rounds. If it fails or doesn' \*\*t answer, it must make a Will Saving Throw at DC 31 or remain paralyzed. Each round it can try the Saving Throw again in an attempt to give an answer. Costs 1 Action.
 
@@ -24320,15 +25208,17 @@ Androsphinxes display a grumpy and spiteful facade toward strangers. They make n
 Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
 Animated Armor
-- **Size/Type**: Medium construct, unaligned
-- **Ability**: Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 25 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium construct, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 25 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 1 (200 XP) |
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
@@ -24341,13 +25231,15 @@ Animated Armor
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
 Ankheg
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
-- **Movement**: 9 m, burrow 3 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -5 Wis 1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +0 |
+| **Movement** | 9 m, burrow 3 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -24368,14 +25260,16 @@ Ankhegs are burrowing monsters that prefer countryside areas due to the soft gro
 Some ankhegs are trainable and can become beasts of burden, although their unpredictable behavior makes them dangerous in civilized regions.
 
 Aquatic Man
-- **Size/Type**: Medium humanoid (aquatic man), neutral
-- **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 3 m, swim 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Awareness +2
-- **Languages**: Aquan, Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid (aquatic man), neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 3 m, swim 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Awareness +2 |
+| **Languages** | Aquan, Common |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Amphibious.*** The aquatic man can breathe air and water.
 
@@ -24394,14 +25288,16 @@ Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, 
 Physically, the Fish Men resemble their ancestors, with expressive foreheads, pale skin, dark hair, and purple eyes. They have three thin gills on their neck, but can pass for Humans for short periods, if they wish.
 
 Azer
-- **Size/Type**: Medium elemental, lawful
-- **Ability**: Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Damage Imm.**: Fire, Poison
-- **Languages**: Ignan
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium elemental, lawful |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 1 Wis 1 Cha 0 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Dam. Imm.** | Fire, Poison |
+| **Languages** | Ignan |
+| **Challenge** | 2 (450 XP) |
 
 ***Heated Weapons.*** When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (already included in the attack).
 
@@ -24432,15 +25328,17 @@ In the legendary City of Brass live more than half a million Azer. Most of these
 To an untrained eye, the Azer appear impressively similar to each other. They are 1.2 meters tall but weigh 100 kg.
 
 B.O.C.
-- **Size/Type**: large monstrosity, evil
-- **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1
-- **Hit Points**: 88,  **Defense:** 20,  **Initiative:** +3
-- **Movement**: 13 m
-- **Saving Throws**: Fortitude +6, Reflex +7, Will +5
-- **Skills**: Stealth +8
-- **Senses**: Darkvision 20 m, Low-light Vision 18 m
-- **Languages**: Common, can only understand it
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 2 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 88, **Defense:** 20, **Initiative:** +3 |
+| **Movement** | 13 m |
+| **S. Throws** | Fortitude +6, Reflex +7, Will +5 |
+| **Skills** | Stealth +8 |
+| **Senses** | Darkvision 20 m, Low-light Vision 18 m |
+| **Languages** | Common, can only understand it |
+| **Challenge** | 4 (1100 XP) |
 
 **Actions*Multiattack.*** The B.O.C makes two claw attacks and one bite attack, or makes two attacks with its tentacles.
 
@@ -24473,17 +25371,19 @@ Organization: Solitary, pair, or pack (2d4)
 The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviously black in color. Fierce, insatiable, it kills for the pleasure of hunting. It usually operates in packs and is extremely loyal to the group.
 
 Balor
-- **Size/Type**: Huge demon, evil
-- **Ability**: Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6
-- **Hit Points**: 379,  **Defense:** 39,  **Initiative:** +5
-- **Movement**: 12 m, flight 24 m
-- **Saving Throws**: Fortitude +25, Reflex +21, Will +22
-- **Damage Resistance**: Cold, Lightning;
-- **Damage Immunity**: Fire, Poison, +1 weapons
-- **Vulnerability**: cold iron, Light
-- **Senses**: truesight 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 19 (22000 XP)
+
+| **Size/Type** | Huge demon, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 6 Int 5 Wis 3 Cha 6 |
+| **Hit Points** | 379, **Defense:** 39, **Initiative:** +5 |
+| **Movement** | 12 m, flight 24 m |
+| **S. Throws** | Fortitude +25, Reflex +21, Will +22 |
+| **Damage Resistance** | Cold, Lightning; |
+| **Damage Immunity** | Fire, Poison, +1 weapons |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 19 (22000 XP) |
 
 ***Magic Weapons.*** The demon' \*\*s weapon attacks are magical.
 
@@ -24522,17 +25422,19 @@ In the Abyss, Balors are mostly in the service of demon lords, as generals or ca
 A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls can fuel the creation of a balor: unlike other demons, it often takes numerous souls of powerful evildoers to give birth to a new balor.
 
 Banshee
-- **Size/Type**: Medium undead, Arrogant, Vain
-- **Ability**: Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4
-- **Hit Points**: 87,  **Defense:** 22,  **Initiative:** +5
-- **Movement**: 0 m, fly 18 m, Hover
-- **Saving Throws**: Fortitude +4, Reflex +9, Will +5
-- **Damage Res.**: Acid, Electricity, Fire, Sound; +1 magic weapons
-- **Damage Imm.**: Void, Poison, Cold, nonmagical weapons
-- **Immunities**: charmed, grappled, restrained, paralyzed, petrified, prone, exhausted, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: Elvish, Common, Expiran
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium undead, Arrogant, Vain |
+| --- | --- |
+| **Ability** | Str -5 Dex 5 Con 0 Int 1 Wis 1 Cha 4 |
+| **Hit Points** | 87, **Defense:** 22, **Initiative:** +5 |
+| **Movement** | 0 m, fly 18 m, Hover |
+| **S. Throws** | Fortitude +4, Reflex +9, Will +5 |
+| **Damage Res.** | Acid, Electricity, Fire, Sound; +1 magic weapons |
+| **Dam. Imm.** | Void, Poison, Cold, nonmagical weapons |
+| **Immunities** | charmed, grappled, restrained, paralyzed, petrified, prone, exhausted, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Elvish, Common, Expiran |
+| **Challenge** | 4 (1100 XP) |
 
 ***Detect Life***. The Banshee can sense the presence of creatures that are not undead or constructs within a range of 5 kilometers. It knows the general direction they are in, but not their exact location.
 
@@ -24563,13 +25465,15 @@ Organization: Solitary
 The Banshee is the enraged spirit of a woman who betrayed her loved ones or was herself betrayed. Driven mad with grief, the Banshee unleashes her vengeance on every living creature (innocent or guilty) with her dreadful touch and her deadly screams.
 
 Basilisk
-- **Size/Type**: Medium monstrosity, unaligned
-- **Ability**: Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2
-- **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex -1 Con 2 Int -4 Wis -1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 15, **Initiative:** -1 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Petrifying Gaze.*** If a creature starts its turn within 9 meters of the basilisk and the two can see each other, if the basilisk isn' \*\*t incapacitated, it can force the creature to make a Fortitude saving throw DC 14. If the creature fails the saving throw, it becomes Slowed 1. The creature must repeat the saving throw at the end of its next turn. If it succeeds, the effect ends. If it fails, the creature is petrified until freed by the *Greater Restoration* spell or other magic.
 
@@ -24604,17 +25508,19 @@ An adult basilisk is almost 3 meters long, half of which is occupied by the long
 For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk' \*\*s gaze, and sometimes sneak into the dens while the adult is hunting to feed on its young.
 
 Bearded Devil
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +5, Reflex +5, Will +3
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -1 Wis 0 Cha 0 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +5, Reflex +5, Will +3 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -24647,16 +25553,18 @@ Chosen warriors of the infernal legions, bearded devils, or barbazus, fight sava
 Barbazus love to make charging attacks with their glaives and try to maintain a distance of 3 meters between themselves and their opponents, so they can use their characteristic pole weapons with maximum efficiency. Standing upright, bearded devils are more than 1.8 meters tall (although the crouched position they keep in battle often makes them appear shorter) and weigh more than 100 kg.
 
 Behir
-- **Size/Type**: Huge monstrosity, evil
-- **Ability**: Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1
-- **Hit Points**: 221,  **Defense:** 29,  **Initiative:** +3
-- **Movement**: 15 m, climb 12 m
-- **Saving Throws**: Fortitude +15, Reflex +14, Will +13
-- **Skills**: Stealth +7
-- **Damage Imm.**: Electricity
-- **Senses**: Darkvision 27 m
-- **Languages**: Draconic
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Huge monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 3 Con 4 Int -2 Wis 2 Cha 1 |
+| **Hit Points** | 221, **Defense:** 29, **Initiative:** +3 |
+| **Movement** | 15 m, climb 12 m |
+| **S. Throws** | Fortitude +15, Reflex +14, Will +13 |
+| **Skills** | Stealth +7 |
+| **Dam. Imm.** | Electricity |
+| **Senses** | Darkvision 27 m |
+| **Languages** | Draconic |
+| **Challenge** | 11 (7200 XP) |
 
 **Actions*Multiattack.*** The behir makes two attacks: one with its bite and one to constrict.
 
@@ -24689,16 +25597,18 @@ The behir is a territorial creature that crawls through sandy hills and desert r
 Despite its bestial fury, the behir is not necessarily evil and can be persuaded by intrepid negotiators. Behirs are often linked to blue dragons, but the nature of this connection is unknown. This bond creates resentment in behirs, making them ready to attack any dragon that enters their territory.
 
 Black Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m, climb 9 m, fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +4, Awareness +4
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m, climb 9 m, fly 18 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Awareness +4 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -24719,18 +25629,20 @@ Organization: Solitary
 See Ancient Black Dragon Description.
 
 Black Knight
-- **Size/Type**: Medium undead, Arrogant, Patient
-- **Ability**: Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3
-- **Hit Points**: 357,  **Defense:** 37,  **Initiative:** +1
-- **Movement**: 9 meters
-- **Saving Throws**: Fortitude +23, Reflex +19, Will +20
-- **Skills**: Intimidate +12, Religion +8, Planes Knowledge +8, Arcana Knowledge +5
-- **Damage Res.**: Cold, Electricity
-- **Damage Imm.**: Void, Poison; +1 weapons
-- **Immunities**: charmed, paralyzed, exhausted, frightened, bleeding
-- **Senses**: Darkvision 36 m
-- **Languages**: Common, Abyssal, Expiran
-- **Challenge**: 18 (20000 XP)
+
+| **Size/Type** | Medium undead, Arrogant, Patient |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 5 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 357, **Defense:** 37, **Initiative:** +1 |
+| **Movement** | 9 meters |
+| **S. Throws** | Fortitude +23, Reflex +19, Will +20 |
+| **Skills** | Intimidate +12, Religion +8, Planes Knowledge +8, Arcana Knowledge +5 |
+| **Damage Res.** | Cold, Electricity |
+| **Dam. Imm.** | Void, Poison; +1 weapons |
+| **Immunities** | charmed, paralyzed, exhausted, frightened, bleeding |
+| **Senses** | Darkvision 36m |
+| **Languages** | Common, Abyssal, Expiran |
+| **Challenge** | 18 (20000 XP) |
 
 ***Spells.*** The Black Knight has Magic Proficiency 7. Its spellcasting ability is Charisma. The Black Knight knows the following spells:
 
@@ -24767,15 +25679,17 @@ Organization: Solitary
 Damned to the depths of his soul, the Black Knight is the antithesis of the knight of Sumkjr, and often arises from the corruption of a knight of Sumkjr. A formidable adversary, cunning, tactical, he loves to behave and reason maliciously, like a person still alive. His tactic is to cast Fireball as soon as possible and then consume the victim with Branding Smite.
 
 Black Pudding
-- **Size/Type**: Large ooze, unaligned
-- **Ability**: Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5
-- **Hit Points**: 89,  **Defense:** 14,  **Initiative:** -3
-- **Movement**: 20 ft, climb 20 ft
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +3
-- **Damage Imm.**: Acid, Cold, Lightning, slashing, from critical
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 89, **Defense:** 14, **Initiative:** -3 |
+| **Movement** | 20 ft, climb 20 ft |
+| **S. Throws** | Fortitude +7, Reflex +3, Will +3 |
+| **Dam. Imm.** | Acid, Cold, Lightning, slashing, from critical |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 4 (1100 XP) |
 
 ***Amorphous.*** The black pudding can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -24804,16 +25718,18 @@ Organization: Solitary
 Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
 Blue Dragon Wyrmling
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +1
-- **Movement**: 9 m, burrow 5 meters, fly 18 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Skills**: Stealth +2, Perception +4
-- **Damage Imm.**: Lightning
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +1 |
+| **Movement** | 9 m, burrow 5 meters, fly 18 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Perception +4 |
+| **Dam. Imm.** | Lightning |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 3 (700 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -24832,17 +25748,19 @@ Organization: Solitary
 See Ancient Blue Dragon Description.
 
 Bone Bloom
-- **Size/Type**: Large undead, unaligned
-- **Ability**: Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3
-- **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +10, Reflex +8, Will +4
-- **Damage Imm.**: Poison
-- **Damage Res.**: piercing, slashing, Poison, from Light
-- **Immunities**: fatigued, bleeding, slowed, slow
-- **Senses**: Blindsight 18 m
-- **Languages**: understands Common, druidic, sylvan but cannot speak
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large undead, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 4 Int -2 Wis -2 Cha -3 |
+| **Hit Points** | 127, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +10, Reflex +8, Will +4 |
+| **Dam. Imm.** | Poison |
+| **Damage Res.** | piercing, slashing, Poison, from Light |
+| **Immunities** | fatigued, bleeding, slowed, slow |
+| **Senses** | Blindsight 18 m |
+| **Languages** | understands Common, druidic, sylvan but cannot speak |
+| **Challenge** | 6 (2300 XP) |
 
 ***One Foot in Nature.*** While Bone Bloom is in contact with the earth, it regenerates 6 Hit Points at the start of its round.
 
@@ -24873,18 +25791,20 @@ Organization: Solitary, groups (2d12)
 Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
 
 Bone Devil
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3
-- **Hit Points**: 184,  **Defense:** 27,  **Initiative:** +3
-- **Movement**: 12 m, flight 12 m
-- **Saving Throws**: Fortitude +13, Reflex +12, Will +11
-- **Skills**: Deception +7, Detect Emotions +6
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 4 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 184, **Defense:** 27, **Initiative:** +3 |
+| **Movement** | 12 m, flight 12 m |
+| **S. Throws** | Fortitude +13, Reflex +12, Will +11 |
+| **Skills** | Deception +7, Detect Emotions +6 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 9 (5000 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -24919,16 +25839,18 @@ Bone devils are inquisitors of the diabolical races, known for their passion for
 Bone devils often travel to the mortal plane to serve evil spellcasters, gathering valuable information. Standing 2.7 meters tall and weighing over 200 kg, with terrifying tails and wings, they are imposing and feared.
 
 Brain Eater
-- **Size/Type**: Small aberration, evil
-- **Ability**: Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3
-- **Hit Points**: 186,  **Defense:** 30,  **Initiative:** +6
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +14, Reflex +15, Will +9
-- **Damage Imm.**: Fire
-- **Immunities**: spells from Illusion and Charm magic lists
-- **Senses**: Blindsight 18 m
-- **Languages**: telepathy 50 m
-- **Challenge**: 9 (3900 XP)
+
+| **Size/Type** | Small aberration, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 6 Con 5 Int 3 Wis 0 Cha 3 |
+| **Hit Points** | 186, **Defense:** 30, **Initiative:** +6 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +14, Reflex +15, Will +9 |
+| **Dam. Imm.** | Fire |
+| **Immunities** | spells from Illusion and Charm magic lists |
+| **Senses** | Blindsight 18 m |
+| **Languages** | telepathy 50 m |
+| **Challenge** | 9 (3900 XP) |
 
 ***Eyes of Magic.*** The Brain Eater has Detect Magic always active.
 
@@ -24973,16 +25895,18 @@ Solitary Brain Eaters often live in ruins or caves on the edges of civilized reg
 It is said that Shayalia' \*\*s garden is full of Brain Eaters. A Brain Eater is 90 cm long and weighs about 30 kg.
 
 Brass Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 30 ft, burrow 15 ft, fly 60 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Fire
-- **Skills**: Stealth +2, Perception +4
-- **Senses**: Darkvision 60 ft, Blindsight 10 ft
-- **Languages**: Draconic
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 30 ft, burrow 15 ft, fly 60 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Fire |
+| **Skills** | Stealth +2, Perception +4 |
+| **Senses** | Darkvision 60 ft, Blindsight 10 ft |
+| **Languages** | Draconic |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
 
@@ -25005,16 +25929,18 @@ Organization: Solitary
 Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
 
 Bronze Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Stealth +2, Awareness +4
-- **Dmg. Imm.**: Lightning
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Awareness +4 |
+| **Dmg. Imm.** | Lightning |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -25040,15 +25966,17 @@ Organization: Solitary
 Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate.
 
 Bugbear
-- **Size/Type**: Medium humanoid (goblinoid), Arrogant, Impulsive
-- **Ability**: Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +6, Survival +2
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid (goblinoid), Arrogant, Impulsive |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -1 Wis 0 Cha -1 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +6, Survival +2 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1 (200 XP) |
 
 ***Surprise Attack.*** If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
@@ -25077,14 +26005,16 @@ Bugbears do not form large settlements like goblins or nations like hobgoblins; 
 Bugbears, when they turn to religion, prefer deities of murder and violence, with various demon lords among the favorites. A typical bugbear is 2.1 meters tall and weighs 200 kg.
 
 Bulette
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3
-- **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 12 m, burrow 12 m
-- **Saving Throws**: Fortitude +10, Reflex +5, Will +5
-- **Skills**: Awareness +6
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 5 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 110, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 12 m, burrow 12 m |
+| **S. Throws** | Fortitude +10, Reflex +5, Will +5 |
+| **Skills** | Awareness +6 |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Standing Leap.*** A bulette can long jump up to 9 meters and high jump up to 5 m with or without a running start.
 
@@ -25115,14 +26045,16 @@ Bulettes are perfect machines for devouring and destroying bones, armor, and eve
 The bulette is a cunning fighter, and surprises enemies with impressive agility. One of its favorite tactics is to charge and leap onto prey, attacking with its razor-sharp claws. It is said that the flesh behind the beast' \*\*s dorsal ridge is particularly tender, and that those who wish or manage to wait for the fin to be raised in the heat of battle or mating can try to deliver a fatal blow to that spot, though most of those who have faced a land shark agree that the best way to win a fight with a bulette is to avoid it altogether.
 
 Centaur
-- **Size/Type**: Large monstrosity, good
-- **Ability**: Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +4, Reflex +4, Will +3
-- **Skills**: Athletics +6, Awareness +3, Survival +3
-- **Languages**: Elvish, Sylvan
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int -1 Wis 1 Cha 0 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +4, Reflex +4, Will +3 |
+| **Skills** | Athletics +6, Awareness +3, Survival +3 |
+| **Languages** | Elvish, Sylvan |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the centaur moves at least 9 meters straight toward a target and hits with a pike attack during the same round, the target takes 10 (3d6) additional piercing damage.
 
@@ -25155,17 +26087,19 @@ Centaurs live an average of about 60 years. Distant from other races and in conf
 Legend has it that the Centaurs were supposed to explode like all equines, by the will of Calicante. Ljust, horrified by so much death, interceded with Calicante to leave these creatures alone. This rescue has led many Centaur tribes to be devoted to the Lady of Light, although others have preferred to dedicate their worship to Calicante in the hope that he will not kill them all in one night.
 
 Chain Devil
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2
-- **Hit Points**: 165,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +12, Reflex +10, Will +9
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 4 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 165, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +12, Reflex +10, Will +9 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 8 (3900 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -25198,17 +26132,19 @@ Organization: Solitary, pair, gang (3-6) or chain (7-20)
 Often classified by the uninitiated among the ranks of infernal devils, Chain Devils are not true devils. Although some are known to live in Hell, they exist outside the hierarchies established by the gods of the underworld and its archdevils, and can sometimes be found on other planes, particularly on the Plane of Shadows. Many suggest they are native to Hell that existed before the advent of the diabolic lineage, although others hypothesize they were brought to the plane by some sadistic power. Regardless of their origins, they wander the planes indulging their desire to cause and receive suffering, seeking pain through violent kidnappings and sadistic depravities.
 
 Champion Skeleton
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +3
-- **Dmg. Imm.**: Poison
-- **Dmg. Res.**: piercing, slashing, Electricity, Fire
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 60 ft
-- **Languages**: understands Expiran, but cannot speak
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +3 |
+| **Dmg. Imm.** | Poison |
+| **Dmg. Res.** | piercing, slashing, Electricity, Fire |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | understands Expiran, but cannot speak |
+| **Challenge** | 3 (700 XP) |
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
@@ -25217,15 +26153,17 @@ Champion Skeleton
 *Hit:* 12 (1d12 + 4) slashing damage.
 
 Chimera
-- **Size/Type**: Large monstrosity, Arrogant, Vain
-- **Ability**: Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0
-- **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +8
-- **Skills**: Awareness +8
-- **Senses**: Darkvision 18 m
-- **Languages**: understands Draconic but cannot speak
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large monstrosity, Arrogant, Vain |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 4 Int -4 Wis 2 Cha 0 |
+| **Hit Points** | 127, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +8 |
+| **Skills** | Awareness +8 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands Draconic but cannot speak |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When the fire breath is available, it can use the breath instead of its bite or horns.
 
@@ -25259,16 +26197,18 @@ Organization: Solitary, pair, pack (3-6) or flight (7-12)
 Chimeras prefer meat, but they can survive on vegetation if necessary (although when forced to do so, their mood worsens even further). The fact that they fly means they can carefully choose their prey, and they generally hunt in vast areas looking for easy targets. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds may make offerings to them. Conversely, they are intelligent and stubborn enough to make mediocre pets, and only a creature much more powerful than them can manage to subdue them. They can form equal partnerships with respectful humanoids or similar creatures, and also consent to being used as mounts. A pack of chimeras has a hierarchy similar to that of lions, with a dominant male that commands the group and most of the hunting done by the females. A solitary chimera can be a young solitary male or a female with cubs nearby.
 
 Chuul
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3
-- **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +0
-- **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +7, Reflex +4, Will +4
-- **Skills**: Awareness +4
-- **Damage Immunity**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: understands Deep Speech but cannot speak
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -3 Wis 0 Cha -3 |
+| **Hit Points** | 89, **Defense:** 17, **Initiative:** +0 |
+| **Movement** | 9 m, swim 9 m |
+| **S. Throws** | Fortitude +7, Reflex +4, Will +4 |
+| **Skills** | Awareness +4 |
+| **Damage Immunity** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands Deep Speech but cannot speak |
+| **Challenge** | 4 (1100 XP) |
 
 ***Amphibious.*** The chuul can breathe air and water.
 
@@ -25299,16 +26239,18 @@ Chuuls are excellent swimmers, but prefer to attack land creatures or those accu
 Chuuls are surprisingly intelligent, and many engage in useless speculation about their origins and motivations. They speak a chirping and gurgling dialect of Common, but few of them are inclined to chat with those who are not of their race, and if there is a chuul society beyond the frantic mating period, no one has yet discovered it. Rather, the minds of chuuls seem devoted only to finding the perfect place to ambush and attack other intelligent creatures and how to decorate their elaborate lairs with trophies from their victims. Although chuuls seem uninterested in using tools, they have a compulsive need to collect those of their victims. A typical chuul is 2.3 meters tall and weighs 325 kg.
 
 Clay Golem
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5
-- **Hit Points**: 184,  **Defense:** 23,  **Initiative:** -1
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +13, Reflex +8, Will +8
-- **Damage Imm.**: Acid, Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 18 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 4 Int -4 Wis -1 Cha -5 |
+| **Hit Points** | 184, **Defense:** 23, **Initiative:** -1 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +13, Reflex +8, Will +8 |
+| **Dam. Imm.** | Acid, Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 9 (5000 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 8/- against non-magical weapons.
 
@@ -25350,15 +26292,17 @@ Clay golems don' \*\*t wear clothing, except for a treated leather or metal garm
 A clay golem can be sculpted from a single block of clay weighing at least 500 kilograms, treated with rare powders and oils worth 1,500 gp.
 
 Cloaker
-- **Size/Type**: Large aberration, chaotic
-- **Ability**: Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2
-- **Hit Points**: 160,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 3 m, fly 12 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.8cm{!}{Fortitude +9, Reflex +10, Will +9
-- **Skills**: Stealth +5
-- **Senses**: Darkvision 18 m
-- **Languages**: Deep Speech
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large aberration, chaotic |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2 |
+| **Hit Points** | 160, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 3 m, fly 12 m |
+| **S. Throws** | \resizebox{5.4cm{!}{Fortitude +9, Reflex +10, Will +9 |
+| **Skills** | Stealth +5 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Deep Speech |
+| **Challenge** | 8 (3900 XP) |
 
 ***False Appearance.*** While the cloaker remains motionless without exposing its underside, it is indistinguishable from a black leather cloak.
 
@@ -25401,14 +26345,16 @@ Resembling flying, hideously evil manta rays, cloakers are mysterious, paranoid 
 Their motivations are mysterious and confused, and they distrust even their own kind. Their strange shape allows them to be mistaken for cloaks, tapestries, or other common objects, and some stories tell of cloakers allying with other creatures, allowing themselves to be carried on their backs and contributing to their allies' \*\* protection for inscrutable reasons.
 
 Cloud Giant
-- **Size/Type**: Huge giant, good (50\%) or evil (50\%)
-- **Ability**: Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3
-- **Hit Points**: 187,  **Defense:** 24,  **Initiative:** +1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +15, Reflex +9, Will +12
-- **Skills**: Sense Motive +7
-- **Languages**: Common, Giant
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge giant, good (50\%) or evil (50\%) |
+| --- | --- |
+| **Ability** | Str 8 Dex 0 Con 6 Int 1 Wis 3 Cha 3 |
+| **Hit Points** | 187, **Defense:** 24, **Initiative:** +1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +15, Reflex +9, Will +12 |
+| **Skills** | Sense Motive +7 |
+| **Languages** | Common, Giant |
+| **Challenge** | 9 (5000 XP) |
 
 ***Innate Spellcasting.*** The giant' \*\*s spellcasting ability is Charisma. The giant can innately cast these spells, without needing material components:
 
@@ -25451,13 +26397,15 @@ Cloud giants can have unusually varied Traits; about half are good and half evil
 There are many legends that speak of magical cloud giant cities located among the clouds themselves, floating on the winds and circumnavigating the world. While cloud giants acknowledge that these are mostly fantasies, some claim to have seen them and have dedicated their entire existence to finding them.
 
 Cockatrice
-- **Size/Type**: Small monstrosity, unaligned
-- **Ability**: Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 6 m, flight 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 1 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 6 m, flight 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 **Actions*Bite.** Melee weapon attack*: +4 to hit, reach 1 m, one creature.
 
@@ -25478,16 +26426,18 @@ Although their diet consists primarily of seeds and petrified insects (which in 
 The cockatrice' \*\*s strange ability to turn other creatures to stone is its best defense, and its lair is invariably full of the remains of petrified enemies. Ironically, however, weasels and ferrets, the creatures most likely to end up in cockatrice nests to eat their eggs, seem completely immune to this effect. For unknown reasons, cockatrices are both terrified and furious with common roosters, and there is an equal chance they will flee or attack when a confrontation occurs.
 
 Copper Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 30 ft, climb 30 ft, fly 60 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3, Deception +3, Perception +4
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 30 ft, climb 30 ft, fly 60 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3, Deception +3, Perception +4 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 120 ft, Blindsight 60 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
 
@@ -25512,16 +26462,18 @@ This capricious dragon tries to hamper and frustrate its enemies during combat.
 > The great dragon, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him." John, Revelation 12:9
 
 Couatl
-- **Size/Type**: Medium celestial, good
-- **Ability**: Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4
-- **Hit Points**: 89,  **Defense:** 22,  **Initiative:** +5
-- **Movement**: 9 m, flight 9 m
-- **Saving Throws**: Fortitude +7, Reflex +9, Will +9
-- **Damage Resistance**: Light
-- **Damage Immunity**: from non-magical weapons
-- **Senses**: truesight 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium celestial, good |
+| --- | --- |
+| **Ability** | Str 3 Dex 5 Con 3 Int 4 Wis 5 Cha 4 |
+| **Hit Points** | 89, **Defense:** 22, **Initiative:** +5 |
+| **Movement** | 9 m, flight 9 m |
+| **S. Throws** | Fortitude +7, Reflex +9, Will +9 |
+| **Damage Resistance** | Light |
+| **Damage Immunity** | from non-magical weapons |
+| **Senses** | truesight 36 m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 4 (1100 XP) |
 
 ***Magic Weapons.*** The couatl' \*\*s weapon attacks are magical.
 
@@ -25558,20 +26510,20 @@ Respected and admired for their wisdom and beauty, they seek to lead mortals on 
 They prefer the same foods as true snakes, such as mammals and birds, though they are known to devour evil humanoids. Because they prefer to spend time pursuing their goals rather than hunting, they appreciate offerings of food, particularly small boars and fowl. A couatl sometimes shows its appreciation to an adventurer or group that has rendered it a service by giving them 1d4 of its brightly colored feathers.
 
 Darklight
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2
-- **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Damage Res.**: from Void; from non-magical weapons or weapons that aren' \*\*t silvered
-- **Damage Imm.**: Poison
-- **Condition Imm.**: fatigued, bleeding
-- **Senses**: Darkvision, sees in magical darkness
-- **Languages**: Understands Common but doesn' \*\*t speak
-- **Challenge**: 4 (1100 XP)
 
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 0 Wis -1 Cha -2 |
+| **Hit Points** | 88, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Damage Res.** | from Void; from non-magical weapons or weapons that aren' \*\*t silvered |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | fatigued, bleeding |
+| **Senses** | Darkvision, sees in magical darkness |
+| **Languages** | Understands Common but doesn' \*\*t speak |
+| **Challenge** | 4 (1100 XP) |
 | ***Invisible in Darkness.*** A Darklight is completely invisible while in darkness |
-| --- |
 | ***Undead Nature.*** Darklight doesn' \*\*t need air, food, drink, or sleep. |
 | ***Sensitivity to Light***. While in sunlight, Darklight has -1d6 to attack rolls |
 | **Multiattack** |
@@ -25593,14 +26545,16 @@ Usually, the Darklight hides in the darkness, waiting to touch the opponent and 
 When a Darklight is destroyed, it leaves its torch on the ground. This torch of pure darkness can cast the Darkness spell by touch three times a day; outside the hands of a Darklight, if exposed to sunlight, it is destroyed in 2d4 rounds.
 
 Darkmantle
-- **Size/Type**: Small monstrosity, unaligned
-- **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 3 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3
-- **Senses**: Blindsight 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 3 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3 |
+| **Senses** | Blindsight 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Echolocation.*** The darkmantle can' \*\*t use its blindsight while deafened.
 
@@ -25634,15 +26588,17 @@ Darkmantle prefer to live and hunt in caves and tunnels closer to the surface, a
 While Darkmantle and Cloaker look similar, they don' \*\*t belong to the same species, but legends tell of a common magical origin due, as often happens, to the will of two wizards to transform themselves first into cloaks... The hatred between the two monstrosities is total and overrides any other adversary present.
 
 Deep Gnome
-- **Size/Type**: Small humanoid (gnome), good
-- **Ability**: Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +2
-- **Senses**: Darkvision 36 m
-- **Languages**: Gnomish, Undercommon, Tremun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small humanoid (gnome), good |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 2 Int 1 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +2 |
+| **Senses** | Darkvision 36m |
+| **Languages** | Gnomish, Undercommon, Tremun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Gnome Cunning.*** The gnome has +1d6 on Saving Throws against magic.
 
@@ -25674,19 +26630,21 @@ Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two
 Deep gnomes are a branch of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. Their skin is the color of rock, usually grey or brown. Males are bald and females have sparse grey hair.
 
 Demogorgon
-- **Size/Type**: Huge demon prince, evil
-- **Ability**: Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7
-- **Hit Points**: 524,  **Defense:** 48,  **Initiative:** +5
-- **Movement**: 15 meters, swim 9m
-- **Saving Throws**: Fortitude +34, Reflex +28, Will +29
-- **Skills**: all +15
-- **Damage Resistance**: Cold, Lightning, Fire
-- **Damage Immunity**: from Void, Poison; +2 weapons
-- **Immunities**: charmed, paralyzed, fatigued, frightened
-- **Vulnerability**: cold iron, Light
-- **Senses**: Truesight 40 m
-- **Languages**: all, telepathy 45 m
-- **Challenge**: 26 (90000 XP)
+
+| **Size/Type** | Huge demon prince, evil |
+| --- | --- |
+| **Ability** | Str 9 Dex 2 Con 8 Int 5 Wis 3 Cha 7 |
+| **Hit Points** | 524, **Defense:** 48, **Initiative:** +5 |
+| **Movement** | 15 meters, swim 9m |
+| **S. Throws** | Fortitude +34, Reflex +28, Will +29 |
+| **Skills** | all +15 |
+| **Damage Resistance** | Cold, Lightning, Fire |
+| **Damage Immunity** | from Void, Poison; +2 weapons |
+| **Immunities** | charmed, paralyzed, fatigued, frightened |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Truesight 40 m |
+| **Languages** | all, telepathy 45 m |
+| **Challenge** | 26 (90000 XP) |
 
 ***Spells.*** Demogorgon has CM 20. His spellcasting ability is Strength. Demogorgon knows the following spells:
 
@@ -25739,17 +26697,19 @@ Organization: Unique
 Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon' \*\*s two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
 
 Deva Angel
-- **Size/Type**: Medium celestial, good
-- **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5
-- **Hit Points**: 203,  **Defense:** 29,  **Initiative:** +4
-- **Movement**: 9 m, fly 27 m
-- **Saving Throws**: Fortitude +14, Reflex +14, Will +15
-- **Skills**: Sense Emotion +9
-- **Damage Res.**: Light; nonmagical weapons
-- **Immunities**: charmed, exhausted, frightened
-- **Senses**: Darkvision 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Medium celestial, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 4 Con 4 Int 3 Wis 5 Cha 5 |
+| **Hit Points** | 203, **Defense:** 29, **Initiative:** +4 |
+| **Movement** | 9 m, fly 27 m |
+| **S. Throws** | Fortitude +14, Reflex +14, Will +15 |
+| **Skills** | Sense Emotion +9 |
+| **Damage Res.** | Light; nonmagical weapons |
+| **Immunities** | charmed, exhausted, frightened |
+| **Senses** | Darkvision 36m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 10 (5900 XP) |
 
 ***Angelic Weapons.*** The deva' \*\*s weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 Light damage (included in the attack).
 
@@ -25784,15 +26744,17 @@ Organization: Solitary, pair, or squad (3-6)
 Deva movanics make up the ranks of the celestial armies' \*\* infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
 Djinni
-- **Size/Type**: Large elemental, good
-- **Ability**: Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5
-- **Hit Points**: 226,  **Defense:** 28,  **Initiative:** +2
-- **Movement**: 9 m, fly 27 m
-- **Saving Throws**: Fortitude +17, Reflex +13, Will +14
-- **Damage Imm.**: Electricity, Sound
-- **Senses**: Darkvision 36 m
-- **Languages**: Ictun
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large elemental, good |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 6 Int 2 Wis 3 Cha 5 |
+| **Hit Points** | 226, **Defense:** 28, **Initiative:** +2 |
+| **Movement** | 9 m, fly 27 m |
+| **S. Throws** | Fortitude +17, Reflex +13, Will +14 |
+| **Dam. Imm.** | Electricity, Sound |
+| **Senses** | Darkvision 36m |
+| **Languages** | Ictun |
+| **Challenge** | 11 (7200 XP) |
 
 ***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only the equipment the djinni was wearing or carrying.
 
@@ -25832,18 +26794,18 @@ Djinn disdain physical combat, preferring to use their magical powers and aerial
 Towards other Genies, Djinn get along with Janni and Marid. They are frequently at odds with the Shaitan, and are sworn enemies of the Efreet, despising these fierce Genies more than any other of the Genie Races. The conflict between the Efreet and the Djinn is so legendary that many spellcasters attempt (with varying degrees of success) to secure the service of a Djinni by promising help in the cause against their hated enemies.
 
 Dobi
-- **Size/Type**: Tiny fey, neutral
-- **Ability**: Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3
-- **Hit Points**: 15,  **Defense:** 11,  **Initiative:** -1
-- **Movement**: 3 m, Swim 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Twilight Vision 18 m
-- **Languages**: understands Common, but doesn' \*\*t speak it
-- **Damage Imm.**: to damage from non-magical weapons
-- **Challenge**: 0 (10 XP)
 
+| **Size/Type** | Tiny fey, neutral |
+| --- | --- |
+| **Ability** | Str -3 Dex -1 Con 2 Int -2 Wis 1 Cha 3 |
+| **Hit Points** | 15, **Defense:** 11, **Initiative:** -1 |
+| **Movement** | 3 m, Swim 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Twilight Vision 18 m |
+| **Languages** | understands Common, but doesn' \*\*t speak it |
+| **Dam. Imm.** | to damage from non-magical weapons |
+| **Challenge** | 0 (10 XP) |
 | ***Dobi*** The Dobi sticks to you; to move it, you need to be gentle and ask it to move. |
-| --- |
 | ***Dobi Dobi Dobi*** When the Dobi takes more than 3 hit points of damage with a non-bludgeoning weapon, it splits into two smaller Dobis, each with the same amount of Hit Points remaining as the previous Dobi. |
 | **Actions** |
 | ***Dobi Dobi*** the Dobi projects an aura of Calm Emotions like the spell of the same name but no Saving Throw is allowed. The Dobi can influence only one creature at a time with its power. |
@@ -25857,16 +26819,18 @@ Organization: group
 From *Journey to the First World.* Novel by Federica Angeli
 
 Doppelganger
-- **Size/Type**: Medium monstrosity (shapechanger), neutral
-- **Ability**: Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2
-- **Hit Points**: 70,  **Defense:** 20,  **Initiative:** +4
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +5, Reflex +7, Will +4
-- **Skills**: Deception +6, Insight +3
-- **Immunities**: charmed
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium monstrosity (shapechanger), neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex 4 Con 2 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 70, **Defense:** 20, **Initiative:** +4 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +5, Reflex +7, Will +4 |
+| **Skills** | Deception +6, Insight +3 |
+| **Immunities** | charmed |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 3 (700 XP) |
 
 ***Shapechanger.*** The doppelganger can use an Action to change its form into that of a Small or Medium humanoid it has seen, or to return to its true form. Its statistics, except for size, are the same in all forms. Any equipment it is wearing or carrying doesn' \*\*t transform. Upon death it returns to its true form.
 
@@ -25961,14 +26925,16 @@ If it' \*\*s a Wyrmling Dragon, it has 1 random power, 2 if it' \*\*s Young or A
 (popular curses against Dragons)
 
 Dragon Turtle
-- **Size/Type**: Gargantuan dragon, neutral
-- **Ability**: Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1
-- **Hit Points**: 338,  **Defense:** 34,  **Initiative:** +0
-- **Movement**: 6 m, swim 12 m
-- **Saving Throws**: Fortitude +22, Reflex +17, Will +18
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Draconic
-- **Challenge**: 17 (18000 XP)
+
+| **Size/Type** | Gargantuan dragon, neutral |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 5 Int 0 Wis 1 Cha 1 |
+| **Hit Points** | 338, **Defense:** 34, **Initiative:** +0 |
+| **Movement** | 6 m, swim 12 m |
+| **S. Throws** | Fortitude +22, Reflex +17, Will +18 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Draconic |
+| **Challenge** | 17 (18000 XP) |
 
 ***Amphibious.*** The dragon turtle can breathe air and water.
 
@@ -26007,17 +26973,19 @@ Their shells vary in color, from brown and rusty red to blue-green with silver r
 They feed on large fish and seaweed, and don' \*\*t disdain passengers from sunken ships. Their shells can reach 5 meters in diameter, with a total length of 7 meters
 
 Dretch
-- **Size/Type**: Small demon, evil
-- **Ability**: Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Resistance**: Cold, Lightning, Fire
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: Darkvision 18 m
-- **Languages**: Abyssal, telepathy 18 m (works only with creatures that understand Abyssal)
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small demon, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 1 Int -3 Wis -1 Cha -4 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Resistance** | Cold, Lightning, Fire |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Abyssal, telepathy 18 m (works only with creatures that understand Abyssal) |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Multiattack.*** The demon makes two attacks: one with its bite and one with its claws.
 
@@ -26050,15 +27018,17 @@ Unlike most demons, the dretch' \*\*s slovenly personality and disdain for prolo
 A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the souls of evil and indolent mortals: just a small fragment of soul is sufficient to give rise to such a horrifying birth. A single soul can often cause the appearance of a small army of dretches, and the sight of a horde of newly born dretches breaking free from the pulsating protomatter of the Abyss is both nauseating and terrifying.
 
 Drider
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
-- **Hit Points**: 127,  **Defense:** 23,  **Initiative:** +3
-- **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: Fortitude +10, Reflex +9, Will +8
-- **Skills**: Stealth +9, Perception +5
-- **Senses**: Darkvision 120 ft
-- **Languages**: Elvish, Undercommon
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1 |
+| **Hit Points** | 127, **Defense:** 23, **Initiative:** +3 |
+| **Movement** | 30 ft, climb 30 ft |
+| **S. Throws** | Fortitude +10, Reflex +9, Will +8 |
+| **Skills** | Stealth +9, Perception +5 |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Elvish, Undercommon |
+| **Challenge** | 6 (2300 XP) |
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
@@ -26102,15 +27072,17 @@ Organization: Solitary, pair, or group (3-8)
 Driders are sexually dimorphic. The spider-like lower body of a female drider is sleek and graceful, often resembling the body of a black widow, while the upper elven torso maintains its appealing curves and beautiful face (with the exception of the venomous sharp fangs). The lower body of a male drider is stocky like a tarantula, while the upper body has a lean physique and supports a horrible face that is more spider than elf, complete with fanged mandibles.
 
 Dryad
-- **Size/Type**: Medium fey, neutral
-- **Ability**: Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +5, Perception +4
-- **Senses**: Darkvision 60 ft
-- **Languages**: Elvish, Sylvan
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium fey, neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +5, Perception +4 |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Elvish, Sylvan |
+| **Challenge** | 1 (200 XP) |
 
 ***Tree Stride.*** Once on her turn, the dryad can use 1 Action to magically enter a living tree within her reach
 
@@ -26132,7 +27104,7 @@ and emerge from another living tree within 60 feet of the first tree, appearing 
 
 *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh
 
-***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Will Saving Throw or be charmed by the magic. The charmed creatures regard the dryad as a trusted friend to be heeded and protected. Although the target isn' \*\*t under the dryad' \*\*s control, it interprets the dryad' \*\*s requests or actions in the most favorable way it can.
+***Fey Charm.*** The dryad targets one humanoid or beast that she can see within 9 m of her. If the target can see the dryad, it must succeed on a DC 14 Will Saving Throw or be charmed by the magic. The charmed creatures regard the dryad as a trusted friend to be heeded and protected. Although the target isn' \*\*t under the dryad' \*\*s control, it interprets the dryad' \*\*s requests or actions in the most favorable way it can.
 
 Each time the dryad or her allies damage the target, it can repeat the Saving Throw, ending the effect on a success. Otherwise, the effect lasts 24 hours or until the dryad dies, is on a different plane of existence from the target, or ends the effect as an Immediate Action.
 
@@ -26153,14 +27125,16 @@ They are friendly with druids and rangers who aren' \*\*t evil, as they recogniz
 Dryads are benevolent guardians of trees, and although they aren' \*\*t violent by nature, they can impede and thwart threats to their homes or turn enemies into allies.
 
 Duergar
-- **Size/Type**: Medium humanoid (dwarf), evil
-- **Ability**: Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 25 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 120 ft
-- **Languages**: Dwarvish, Undercommon
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid (dwarf), evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 25 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Dwarvish, Undercommon |
+| **Challenge** | 1 (200 XP) |
 
 ***Duergar Resilience.*** The Duergar has +1d6 on Saving Throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
@@ -26189,16 +27163,18 @@ Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level a
 Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures with a terrible temper who hate intruders in their underground realms, but never more than Dwarves. They live in communities deep underground. They have dull gray skin, as if dirty with dust or ash, but this natural tone allows them to blend better in underground areas. They are a Race of slavers, but while they force non-Dwarf prisoners to do grueling work, they kill captured Dwarves without remorse. In combat, Duergar fire crossbows, and then switch to War Hammers a few rounds later. If outnumbered, or if there is an adequate danger (and space), a Duergar will use its Enlarge ability and attack.
 
 Dust Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +2
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Ictun, Tremun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int -1 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +2 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ictun, Tremun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast *sleep* (spell Saving Throw DC 11), requiring no material components. Its innate spellcasting ability is Charisma.
 
@@ -26225,15 +27201,17 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Dust mephits are commonly found on the Plane of Air. These mephits are irritating and persistent.
 
 Efreeti
-- **Size/Type**: Large elemental, evil
-- **Ability**: Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3
-- **Hit Points**: 228,  **Defense:** 27,  **Initiative:** +3
-- **Movement**: 12 m, fly 18 m
-- **Saving Throws**: Fortitude +18, Reflex +12, Will +13
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 36 m
-- **Languages**: Ignan
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large elemental, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 7 Int 3 Wis 2 Cha 3 |
+| **Hit Points** | 228, **Defense:** 27, **Initiative:** +3 |
+| **Movement** | 12 m, fly 18 m |
+| **S. Throws** | Fortitude +18, Reflex +12, Will +13 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 36m |
+| **Languages** | Ignan |
+| **Challenge** | 11 (7200 XP) |
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates into a flash of fire and a puff of smoke, leaving behind only the equipment the efreeti was wearing or carrying.
 
@@ -26271,17 +27249,19 @@ The Efreet (singular Efreeti) are Genies from the Plane of Fire. They are 3.6 me
 Efreet have few allies among other Genies: they hate Djinn and attack them on sight, can' \*\*t stand Marid, and see Janni as weak and fragile. Efreet often cooperate well with Shaitan, yet even these alliances are temporary.
 
 Erinyes
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4
-- **Hit Points**: 240,  **Defense:** 31,  **Initiative:** +3
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +16, Reflex +15, Will +14
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: truesight 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 12 (8400 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 4 Int 2 Wis 2 Cha 4 |
+| **Hit Points** | 240, **Defense:** 31, **Initiative:** +3 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +16, Reflex +15, Will +14 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 12 (8400 XP) |
 
 ***Hellish Weapons.*** The erinyes' \*\*s weapon attacks are magical and deal an extra 13 (3d8) poison damage when they hit (already included in the attacks).
 
@@ -26318,14 +27298,16 @@ These beautiful and dark angels enhance their sensuality with scars and bruises,
 The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a span of over 3 meters. They are skilled at keeping enemies alive to prolong torment, and the most powerful can make suffering persist even after the subject' \*\*s death.
 
 Ettercap
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 30 ft, climb 30 ft
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +4, Perception +3, Survival +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 30 ft, climb 30 ft |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Perception +3, Survival +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 2 (450 XP) |
 
 ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
 
@@ -26360,15 +27342,17 @@ Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
 
 Ettin
-- **Size/Type**: Large giant, evil
-- **Ability**: Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1
-- **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +4
-- **Skills**: Perception +4
-- **Senses**: tremorsense 60 ft
-- **Languages**: Giant, Goblin
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large giant, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 89, **Defense:** 16, **Initiative:** -1 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +7, Reflex +3, Will +4 |
+| **Skills** | Perception +4 |
+| **Senses** | tremorsense 60 ft |
+| **Languages** | Giant, Goblin |
+| **Challenge** | 4 (1100 XP) |
 
 ***Two Heads.*** The ettin has +1d6 on Perception checks and on Saving Throws against being blinded, charmed, deafened, unconscious, frightened, and stunned.
 
@@ -26402,16 +27386,18 @@ Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band
 They generally form reproductive pairs to raise offspring only for brief periods before each goes its own way. Young ettins mature rapidly, reaching adult size in one year, thus being able to fend for themselves.
 
 Explosive Roach
-- **Size/Type**: Small Elemental, neutral
-- **Ability**: Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 4 m, jump 9 m, burrow 2 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Damage Res.**: bludgeoning
-- **Damage Imm.**: Fire
-- **Immunities**: exhausted, frightened
-- **Senses**: Blindsight 5 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Small Elemental, neutral |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -5 Wis -1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 4 m, jump 9 m, burrow 2 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Damage Res.** | bludgeoning |
+| **Dam. Imm.** | Fire |
+| **Immunities** | exhausted, frightened |
+| **Senses** | Blindsight 5 m |
+| **Challenge** | 2 (450 XP) |
 
 *Fire Detection*: The Explosive Roach can perceive fires within 100 meters, provided they are equal to or larger than a torch.
 
@@ -26444,14 +27430,16 @@ They are now common in caves near volcanoes or red dragon lairs, having adapted 
 In the nest where they dwell, there is at least one queen who commands the roaches, extremely larger and stronger. Explosive Roaches feed on coal, burnt wood, burnt carcasses. They are extremely fond of diamonds which, once burned, are true delicacies.
 
 Fire Giant
-- **Size/Type**: Huge giant, evil
-- **Ability**: Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1
-- **Hit Points**: 187,  **Defense:** 23,  **Initiative:** +0
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +15, Reflex +8, Will +11
-- **Skills**: Athletics +11, Awareness +6
-- **Languages**: Giant
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge giant, evil |
+| --- | --- |
+| **Ability** | Str 7 Dex -1 Con 6 Int 0 Wis 2 Cha 1 |
+| **Hit Points** | 187, **Defense:** 23, **Initiative:** +0 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +15, Reflex +8, Will +11 |
+| **Skills** | Athletics +11, Awareness +6 |
+| **Languages** | Giant |
+| **Challenge** | 9 (5000 XP) |
 
 **Actions*Multiattack.*** The giant makes two attacks with its greatsword.
 
@@ -26487,16 +27475,18 @@ Fire giants wear clothing made of sturdy fabrics or leather in orange, yellow, b
 Fire giants prefer warm places: the hotter the better. They can be found in deserts, volcanoes, hot springs, and deep in the earth near lava vents. They live in castles, fortified settlements, or large caves, and the architecture of these places reflects their rigid and militaristic lifestyle, with officers residing in better quarters than their subordinates.
 
 Flameskull
-- **Size/Type**: Small undead, evil traits
-- **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: fly 10 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Res.**: from Void
-- **Damage Imm.**: Fire, Poison, from non-magical weapons
-- **Condition Imm.**: charmed, paralyzed, fatigued, frightened, bleeding
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (200 XP)
+
+| **Size/Type** | Small undead, evil traits |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 1 Wis 0 Cha 0 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | fly 10 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | from Void |
+| **Dam. Imm.** | Fire, Poison, from non-magical weapons |
+| **Condition Imm.** | charmed, paralyzed, fatigued, frightened, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (200 XP) |
 
 ***Spells.*** A Flameskull can cast the following spells innately.
 
@@ -26521,16 +27511,18 @@ Flameskulls are created from the corpses of spellcasters specialized in the Fire
 Used as guardians and torches, they often represent a first line of defense in dungeons.
 
 Flesh Golem
-- **Size/Type**: Medium construct, neutral
-- **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3
-- **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +4, Will +5
-- **Damage Imm.**: Electricity, Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 18 m
-- **Languages**: understands the languages of its creator but cannot
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium construct, neutral |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -3 |
+| **Hit Points** | 109, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +4, Will +5 |
+| **Dam. Imm.** | Electricity, Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands the languages of its creator but cannot |
+| **Challenge** | 5 (1800 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 6/- against non-magical weapons.
 
@@ -26571,13 +27563,15 @@ A flesh golem does not speak, though it can emit a kind of hoarse growl. It walk
 Although many flesh golems are mindless, tales are told of exceptional golems that have somehow retained memories of their previous life. The head (and therefore the brain) of these flesh golems must be the right combination of freshness and (in the previous life) determination, but luck and chance also seem to be of absolute importance for intellect to be preserved during their creation. Certainly those who build flesh golems prefer to have mindless slaves rather than those endowed with a will of their own, consequently intelligent flesh golems are rare.
 
 Flesh Worms
-- **Size/Type**: tiny monstrosity, unaligned
-- **Ability**: Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4
-- **Hit Points**: 32,  **Defense:** 13,  **Initiative:** +0
-- **Movement**: 1 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: tremorsense 3 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | tiny monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 0 Con -2 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 32, **Defense:** 13, **Initiative:** +0 |
+| **Movement** | 1 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | tremorsense 3 m |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Infest Flesh.*** These tiny creatures penetrate exposed flesh without making an Attack Roll as long as the flesh is exposed to contact with them.
 
@@ -26596,15 +27590,17 @@ Organization: groups 3d6
 Flesh worms are among the most feared parasites by adventurers. They are found in damp piles of leaves or rotting logs, in decomposing corpses, in turbid waters. Pale, slimy, equipped with very sharp teeth, just over 4 millimeters long, they penetrate exposed flesh very easily and perceive the heartbeat where they head. While they dig into the flesh, they can be perceived and even seen crawling under the skin.
 
 Flying Sword
-- **Size/Type**: Small construct, unaligned
-- **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 0 ft, fly 50 ft, Hover
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small construct, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 0 ft, fly 50 ft, Hover |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | blinded, charmed, deafened, paralyzed, petrified, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 1/4 (50 XP) |
 
 ***False Appearance.*** While the weapon remains motionless and is not flying, it is indistinguishable from a normal sword.
 
@@ -26615,14 +27611,16 @@ Flying Sword
 *Hit:* 5 (1d8 + 1) slashing damage.
 
 Frost Giant
-- **Size/Type**: Huge giant, evil
-- **Ability**: Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1
-- **Hit Points**: 167,  **Defense:** 21,  **Initiative:** -1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +13, Reflex +7, Will +8
-- **Skills**: Athletics +9
-- **Languages**: Giant
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Huge giant, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 5 Int -1 Wis 0 Cha 1 |
+| **Hit Points** | 167, **Defense:** 21, **Initiative:** -1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +13, Reflex +7, Will +8 |
+| **Skills** | Athletics +9 |
+| **Languages** | Giant |
+| **Challenge** | 8 (3900 XP) |
 
 **Actions*Multiattack.*** The giant makes two attacks with its greataxe.
 
@@ -26657,14 +27655,16 @@ Frost giants survive by hunting and raiding on their own, as they live in cold a
 Frost giants love taking prisoners and use them both as slaves and as raw material. Usually each group of frost giants keeps 1-2 humanoid slaves chained to a slave trainer: the meanest and cruelest of the group after the jarl. They also have a certain passion for monstrous pets: White Dragons and Winter Wolves are popular choices, but Remorhaz and Yeti can also be found in a frost giant' \*\*s lair.
 
 G.C.B.
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1
-- **Hit Points**: 205,  **Defense:** 26,  **Initiative:** +3
-- **Movement**: 9 m, burrow 9 m
-- **Saving Throws**: Fortitude +15, Reflex +11, Will +11
-- **Proficiencies**: Perception +10
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 1 Con 5 Int 3 Wis 1 Cha -1 |
+| **Hit Points** | 205, **Defense:** 26, **Initiative:** +3 |
+| **Movement** | 9 m, burrow 9 m |
+| **S. Throws** | Fortitude +15, Reflex +11, Will +11 |
+| **Proficiencies** | Perception +10 |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Challenge** | 10 (5900 XP) |
 
 **Actions*Multiattack.*** The G.C.B. can attack with two claws or with its bite
 
@@ -26697,14 +27697,16 @@ The Great Chitinous Being, or G.C.B, is an insect with a vague humanoid appearan
 Probably the result of some transformation spell gone wrong, G.C.B.s are masters of the underground. Creatures endowed with real intelligence, they love elf flesh and fight in a tactical and careful manner.
 
 Gablin
-- **Size/Type**: Small fiend, evil
-- **Ability**: Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: understand Common but don' \*\*t speak it, Abyssal
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small fiend, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -2 Wis -1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understand Common but don' \*\*t speak it, Abyssal |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Sunlight Sensitivity***. While in sunlight, the gablin has -1d6 to attack rolls as well as on Perception checks based on sight.
 
@@ -26733,14 +27735,16 @@ This method of procreation combined with their voracious hunger for blood and fl
 Although individually not particularly formidable, Gablins always move in groups, and if the group exceeds two dozen, there is almost always a Gablin Spellcaster or even a Gablin Champion leading them.
 
 Gablin Champion
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Abyssal
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha -1 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Abyssal |
+| **Challenge** | 3 (700 XP) |
 
 **Actions*Heavy Club.** Melee Weapon Attack*: +6 to hit, reach 2 m, one target.
 
@@ -26760,14 +27764,16 @@ Gablin Champions are spontaneously generated when the number of Gablins present 
 They have no qualms about sending Gablins to slaughter or killing anything that breathes. Pervaded by the spirit of Cattalm, their purpose is always and only to destroy and kill.
 
 Gablin Paladin
-- **Size/Type**: Large fiend, evil
-- **Ability**: Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3
-- **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +8, Will +9
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Abyssal
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large fiend, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 3 Int 2 Wis 3 Cha 3 |
+| **Hit Points** | 126, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +9, Reflex +8, Will +9 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Abyssal |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The Gablin Paladin attacks with 2 bastard sword strikes.
 
@@ -26792,16 +27798,18 @@ Organization: leading an army of Gablins
 Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
 
 Gargoyle
-- **Size/Type**: Medium elemental, evil
-- **Ability**: Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Movement**: 9 m, fly 18 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Damage Res.**: Poison, from non-magical weapons or that aren' \*\*t adamantine
-- **Immunities**: petrified, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Tremun
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium elemental, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 3 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +0 |
+| **Movement** | 9 m, fly 18 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Damage Res.** | Poison, from non-magical weapons or that aren' \*\*t adamantine |
+| **Immunities** | petrified, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Tremun |
+| **Challenge** | 2 (450 XP) |
 
 ***False Appearance.*** While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
@@ -26839,15 +27847,17 @@ The longer a tribe of gargoyles dwells in an area of buildings or ruins, the mor
 An unusual variant of the gargoyle does not dwell among buildings and ruins but beneath the waves of the sea. These creatures are known as kapoacinth; they have the same base statistics as normal gargoyles, except they have the aquatic subtype and their wings grant them a swimming speed of 12 meters (but are useless for flying). Kapoacinths inhabit shallow coastal regions where they can crawl out of the foam to hunt local residents. They are more likely to form swarms, as kapoacinths prefer group life to solitary existence.
 
 Gelatinous Cube
-- **Size/Type**: Large ooze, unaligned
-- **Ability**: Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5
-- **Hit Points**: 53,  **Defense:** 10,  **Initiative:** -4
-- **Movement**: 15 feet
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +3
-- **Damage Imm.**: non-magical slashing weapons, damage from
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 53, **Defense:** 10, **Initiative:** -4 |
+| **Movement** | 15 feet |
+| **S. Throws** | Fortitude +7, Reflex +3, Will +3 |
+| **Dam. Imm.** | non-magical slashing weapons, damage from |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 2 (450 XP) |
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but fall victim to the cube' \*\*s Engulf and have -1d6 to the Saving Throw.
 
@@ -26889,20 +27899,24 @@ Some sages believe these creatures evolved from Gray Oozes. Some beings use gela
 Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
 Generic Air Elemental
-- **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
-- **Ability**: Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6
-- **Hit Points**: (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex
-- **Movement**: 0 ft, fly CR*13 ft
-- **Saving Throws**: Fortitude CR+CON, Reflex CR+CR/5 + DEX, Will CR+WIS
-- **Damage Res.**: Electricity, Sound; nonmagical weapons
-- **Damage Imm.**: Poison
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 60 ft
-- **Languages**: Auran
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
+| --- | --- |
+| **Ability** | Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6 |
+| **Hit Points** | (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex |
+| **Movement** | 0 ft, fly CR*13 ft |
+| **S. Throws** | Fortitude CR+CON, Reflex CR+CR/5 + DEX, Will CR+WIS |
+| **Damage Res.** | Electricity, Sound; nonmagical weapons |
+| **Dam. Imm.** | Poison |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Auran |
+| **Challenge** | CR |
+
+|
+
 | ***Air Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
+| --- |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
@@ -26914,20 +27928,24 @@ Generic Air Elemental
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn' \*\*t flung away or knocked prone.
 
 Generic Earth Elemental
-- **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
-- **Ability**: Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6
-- **Hit Points**: (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, climb 30 ft, burrow 30 ft
-- **Saving Throws**: Fortitude CR+CON+CR/5, Reflex CR+DEX, Will CR+WIS
-- **Damage Res.**: nonmagical weapons
-- **Damage Imm.**: Poison, Sound
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: tremorsense 60 ft, Darkvision 60 ft
-- **Languages**: Terran
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
+| --- | --- |
+| **Ability** | Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6 |
+| **Hit Points** | (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex |
+| **Movement** | 30 ft, climb 30 ft, burrow 30 ft |
+| **S. Throws** | Fortitude CR+CON+CR/5, Reflex CR+DEX, Will CR+WIS |
+| **Damage Res.** | nonmagical weapons |
+| **Dam. Imm.** | Poison, Sound |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | tremorsense 60 ft, Darkvision 60 ft |
+| **Languages** | Terran |
+| **Challenge** | CR |
+
+|
+
 | ***Siege Monster.*** The elemental deals double damage to objects and structures. |
+| --- |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | ***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn' \*\*t disturb the material it moves through. |
 | **Actions** |
@@ -26938,20 +27956,24 @@ Generic Earth Elemental
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
 Generic Fire Elemental
-- **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
-- **Ability**: Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6
-- **Hit Points**: (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex
-- **Movement**: 50 ft
-- **Saving Throws**: Fortitude CR+CON, Reflex CR+DEX, Will CR+WIS
-- **Damage Res.**: nonmagical weapons
-- **Damage Imm.**: Fire, Poison
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 60 ft
-- **Languages**: Ignan
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
+| --- | --- |
+| **Ability** | Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6 |
+| **Hit Points** | (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex |
+| **Movement** | 50 ft |
+| **S. Throws** | Fortitude CR+CON, Reflex CR+DEX, Will CR+WIS |
+| **Damage Res.** | nonmagical weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Ignan |
+| **Challenge** | CR |
+
+|
+
 | ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
+| --- |
 | ***Illumination.*** The elemental sheds bright light in a CR*7-foot radius and dim light for an additional CR*13 feet. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | ***Water Susceptibility.*** The elemental takes 1 cold damage for every 5 feet it moves in water, or for every gallon of water splashed on it. |
@@ -26963,20 +27985,24 @@ Generic Fire Elemental
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
 Generic Water Elemental
-- **Size/Type**: Elemental
-- **Ability**: Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6
-- **Hit Points**: (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, swim CR*13 ft
-- **Saving Throws**: Fortitude CR+CR/5+CON, Reflex CR+DEX, Will CR+WIS
-- **Damage Res.**: Acid; nonmagical weapons
-- **Damage Imm.**: Poison
-- **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 60 ft
-- **Languages**: Aquan
 
-| - **Challenge**: CR |
-| --- |
+| **Size/Type** | Elemental |
+| --- | --- |
+| **Ability** | Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6 |
+| **Hit Points** | (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex |
+| **Movement** | 30 ft, swim CR*13 ft |
+| **S. Throws** | Fortitude CR+CR/5+CON, Reflex CR+DEX, Will CR+WIS |
+| **Damage Res.** | Acid; nonmagical weapons |
+| **Dam. Imm.** | Poison |
+| **Immune** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Aquan |
+| **Challenge** | CR |
+
+|
+
 | ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn. |
+| --- |
 | ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
@@ -26989,17 +28015,19 @@ Generic Water Elemental
 The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the start of each of the elemental' \*\*s turns, each target grappled by it takes (1d6)*CR/2 bludgeoning damage. A creature within 10 feet of the elemental can pull a creature or object out of it by taking an Action to make a Strength Fortitude Saving Throw check with DC 2+CR*2.
 
 Ghast
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1
-- **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +5, Will +3
-- **Damage Res.**: from Void
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Expiran
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 0 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 51, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +5, Will +3 |
+| **Damage Res.** | from Void |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 2 (450 XP) |
 
 ***Stench.*** Any creature that starts its round within 1 meter of the ghast must succeed on a DC 14 Fortitude Saving Throw or be Nauseated (-1d6 to Attack Rolls, Saving Throws and Checks) until the beginning of its next round. If the creature succeeds on the Saving Throw, it is immune to the ghast' \*\*s Stench for the next 24 hours.
 
@@ -27028,16 +28056,18 @@ Organization: Solitary, group (2-4) or pack (7-12)
 Ghasts are Ghouls with a deeper connection to the Void. A ghast' \*\*s paralysis affects Elves as well. Ghasts roam in packs or command groups of common Ghouls. The stench of death and decay that surrounds these creatures is overwhelming.
 
 Ghost
-- **Size/Type**: Medium undead, any trait
-- **Ability**: Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3
-- **Hit Points**: 87,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 0 m, fly 12 m, Float
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +5
-- **Damage Res.**: Acid, Electricity, Fire, Sound, Poison; from non-magical weapons
-- **Immunities**: charmed, grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: any language known in life, Expiran
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium undead, any trait |
+| --- | --- |
+| **Ability** | Str -2 Dex 1 Con 0 Int 0 Wis 1 Cha 3 |
+| **Hit Points** | 87, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 0 m, fly 12 m, Float |
+| **S. Throws** | Fortitude +4, Reflex +5, Will +5 |
+| **Damage Res.** | Acid, Electricity, Fire, Sound, Poison; from non-magical weapons |
+| **Immunities** | charmed, grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | any language known in life, Expiran |
+| **Challenge** | 4 (1100 XP) |
 
 ***Incorporeal Movement.*** The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its round inside an object.
 
@@ -27075,16 +28105,18 @@ When a ghost is created, it gains copies of the objects it particularly valued i
 The original objects are left behind, just like the ghost' \*\*s physical remains. If another creature wields the original, the incorporeal copy vanishes. This loss inevitably enrages the ghost, who will stop at nothing to return the object to where it originally lay (and regain its use).
 
 Ghoul
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Claws.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -27110,17 +28142,19 @@ Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewer
 Although many surface ghouls live primitively, rumors speak of ghoul cities deep underground ruled by priests worshiping ancient cruel deities or strange demon lords of hunger. These *civilized* ghouls are no less horrible in their eating habits, and indeed their concept of a well-set table for feasts is perhaps even more ghastly than the idea of a fresh meal pulled from a coffin.
 
 Ghoul, Black
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2
-- **Hit Points**: 125,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +8, Reflex +8, Will +7
-- **Damage Imm.**: Poison, from Void, from critical, bleeding,
-- **Immunities**: charmed, fatigued,
-- **Damage Res.**: non-magical weapons or silver
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Expiran
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int 0 Wis 1 Cha -2 |
+| **Hit Points** | 125, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +8, Reflex +8, Will +7 |
+| **Dam. Imm.** | Poison, from Void, from critical, bleeding, |
+| **Immunities** | charmed, fatigued, |
+| **Damage Res.** | non-magical weapons or silver |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 6 (2300 XP) |
 
 ***Nefarious Aura***: The Black Ghoul constantly emits an aura around itself that weakens the defenses of anyone except other ghouls. Every two rounds spent in the 12-meter radius aura around the Black Ghoul accumulates a -1 penalty to all Saving Throws; when moving away from the Black Ghoul, you recover 1 point per round.
 
@@ -27148,17 +28182,19 @@ Organization: Group (4-8) or pack (14-24)
 The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
 
 Ghoul, Mother
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2
-- **Hit Points**: 107,  **Defense:** 21,  **Initiative:** +3
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +7, Reflex +8, Will +6
-- **Damage Imm.**: Poison, Void, from critical, bleeding
-- **Immunities**: charmed, fatigued
-- **Damage Res.**: non-magical weapons
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Expiran
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 2 Int 2 Wis 1 Cha 2 |
+| **Hit Points** | 107, **Defense:** 21, **Initiative:** +3 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +7, Reflex +8, Will +6 |
+| **Dam. Imm.** | Poison, Void, from critical, bleeding |
+| **Immunities** | charmed, fatigued |
+| **Damage Res.** | non-magical weapons |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 5 (1800 XP) |
 
 **Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
@@ -27180,17 +28216,19 @@ Organization: Clan (7-12+)
 The Mother Ghoul is usually the head of a clan of ghouls that can reach even several dozen members. Respected and feared, she is usually among the most intelligent evolved ghouls and highly appreciated for her ability to transform the living into ghouls. Their tactic involves wounding rather than killing several people so that when they return home and then transform, they can attack and kill the entire village.
 
 Ghoul, Putrid
-- **Size/Type**: Large undead, evil
-- **Ability**: Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2
-- **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +7, Reflex +6, Will +4
-- **Damage Imm.**: Poison, bleeding, from critical, from Void
-- **Immunities**: charmed, fatigued
-- **Damage Res.**: non-magical weapons or silver
-- **Senses**: Darkvision 36 m
-- **Languages**: Common, Expiran
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large undead, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 3 Int -1 Wis 0 Cha -2 |
+| **Hit Points** | 89, **Defense:** 19, **Initiative:** +2 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +7, Reflex +6, Will +4 |
+| **Dam. Imm.** | Poison, bleeding, from critical, from Void |
+| **Immunities** | charmed, fatigued |
+| **Damage Res.** | non-magical weapons or silver |
+| **Senses** | Darkvision 36m |
+| **Languages** | Common, Expiran |
+| **Challenge** | 4 (1100 XP) |
 
 ***Regeneration***. The Putrid Ghoul regenerates 5 Hit Points per round except when in full sunlight or has taken Light damage in the previous round. If the Putrid Ghoul is in a cemetery, it recovers 10 Hit Points per round.
 
@@ -27218,14 +28256,16 @@ Organization: Group (4-8) or pack (10-18)
 Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with negative energy and feeding on corpses of all kinds for centuries have made it larger, stronger and capable of inflicting and causing the most dangerous wounds.
 
 Gibbering Mouther
-- **Size/Type**: Medium aberration, neutral
-- **Ability**: Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2
-- **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
-- **Movement**: 3 m, swim 3 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Immunities**: prone
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium aberration, neutral |
+| --- | --- |
+| **Ability** | Str 0 Dex -1 Con 3 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 52, **Defense:** 13, **Initiative:** -1 |
+| **Movement** | 3 m, swim 3 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Immunities** | prone |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Gibbering.*** As long as the mouther can see a creature and is not incapacitated, it babbles incoherent phrases. Each creature that starts its round within 6 meters of the mouther and can hear its gibbering must make a Will Saving Throw DC 12. On a failure, the creature can' \*\*t take reactions until the start of its next round and rolls a d8 to determine what it will do during its round. On a 1 to 4, the creature does nothing. On a 5 or 6, the creature takes no Action or Reaction and uses all its movement to move in a randomly determined direction. On a 7 or 8, the creature makes a melee attack against a randomly determined creature within its reach, or does nothing if it is unable to make such an attack.
 
@@ -27252,17 +28292,19 @@ Organization: Solitary
 Disgusting, nauseating, and hungry: these are the only words that appropriately describe the gibbering mouther. Repulsive beasts that hide in caves, sewers, and nightmares, mouthers have no other social, ecological, or religious purpose beyond their ability to drive those who listen to them mad. Some scholars believe that gibbering mouthers are a smaller variant of the much more dangerous shoggoth, while others theorize that it is a punishment of Orudjs inflicted on those who have offended her.
 
 Glabrezu
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3
-- **Hit Points**: 186,  **Defense:** 26,  **Initiative:** +4
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +14, Reflex +11, Will +12
-- **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: truesight 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 5 Int 4 Wis 3 Cha 3 |
+| **Hit Points** | 186, **Defense:** 26, **Initiative:** +4 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +14, Reflex +11, Will +12 |
+| **Damage Resistance** | Cold, Lightning, Fire; from non-magical weapons |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 9 (5000 XP) |
 
 ***Innate Spellcasting.*** The demon' \*\*s spellcasting ability is Intelligence. The demon can cast these spells innately, without requiring material components:
 
@@ -27302,18 +28344,22 @@ While the Succubus is a demon that lures its prey by exploiting its desires and 
 A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons originate from the souls of traitors, false witnesses, and subversives: souls of mortals who, in life, swore falsely or used betrayal and deception to ruin others' \*\* lives.
 
 Globule
-- **Size/Type**: Small aberration, evil
-- **Ability**: Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
-- **Movement**: fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 
-- **Damage Imm.**: from Void, Cold, Poison
+**Size/Type** | Small aberration, evil
+--- | ---
+**Ability** | Str -2 Dex 2 Con 0 Int 3 Wis 1 Cha 3
+**Hit Points** | 33, **Defense:** 15, **Initiative:** +3
+**Movement** | fly 18 m
+**S. Throws** | Fortitude +3, Reflex +3, Will +3
+**Dam. Imm.** | from Void, Cold, Poison
 
-- **Immunities**: prone
-- **Senses**: Darkvision 36 m
-- **Languages**: understands Common but doesn' \*\*t speak it
-- **Challenge**: 1 (200 XP)
+|
+
+**Immunities** | prone
+--- | ---
+**Senses** | Darkvision 36m
+**Languages** | understands Common but doesn' \*\*t speak it
+**Challenge** | 1 (200 XP)
 
 **Bird Hatred** the Globule has +1d6 to Attack Rolls against birds. It attacks birds and flying creatures first
 
@@ -27340,14 +28386,16 @@ Globules are magical aberrations coming from some portal opened to the Beyond. C
 Intelligent and clever, they prefer to attack while staying airborne and wearing down the opponent until they are mortally fatigued. Once killed, all that remains of a Globule is a small star-shaped creature with a large central eye, completely white.
 
 Gnoll
-- **Size/Type**: Medium humanoid (gnoll), evil
-- **Ability**: Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Gnoll
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (gnoll), evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 0 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Gnoll |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Rampage.*** When the gnoll reduces a creature to 0 Hit Points with a melee attack during its own round, it can use a Reaction to move up to half its movement and make a bite attack.
 
@@ -27386,14 +28434,16 @@ During combat, gnolls use pack tactics and individual strategies. If confident o
 Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. They rarely master magic effectively.
 
 Goblin
-- **Size/Type**: Small humanoid (goblinoid), evil
-- **Ability**: Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small humanoid (goblinoid), evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 1 Int -1 Wis -2 Cha -1 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Short Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -27419,16 +28469,18 @@ Goblins are very superstitious and view magic with a mixture of awe and fear. Ev
 Goblins are voracious and can eat enormous amounts of food. A goblin won' \*\*t refuse to eat anything except perhaps salad..
 
 Gold Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Skills**: Stealth +4, Awareness +4
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 2 Wis 0 Cha 3 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Skills** | Stealth +4, Awareness +4 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 3 (700 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -27453,15 +28505,17 @@ Organization: Solitary
 Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
 
 Gorgon
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2
-- **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +5, Will +6
-- **Skills**: Awareness +4
-- **Immunities**: Petrified
-- **Senses**: Darkvision 18 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 109, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +9, Reflex +5, Will +6 |
+| **Skills** | Awareness +4 |
+| **Immunities** | Petrified |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Trampling Charge.*** The gorgon charges a target. 2 Actions. If the target, within 18 meters, is hit by a Gore attack, it must also succeed on a Fortitude Saving Throw DC 18 or be knocked prone. If the target falls prone, the gorgon can make a hooves attack against it as an Immediate Action.
 
@@ -27492,15 +28546,17 @@ Gorgons derive their nourishment by consuming minerals, particularly the stone o
 Their meat is tough and muscular (once the armor is removed), and for those who taste it, it is quite nutritious. Many stone giant tribes believe that eating gorgon meat increases their natural armor. Powdered gorgon horn is worth 250 gp as an alternative material component for magic items and spells that act on Strength or Stone.
 
 Gray Ooze
-- **Size/Type**: Medium ooze, unaligned
-- **Ability**: Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4
-- **Hit Points**: 24,  **Defense:** 10,  **Initiative:** -2
-- **Movement**: 10 ft, climb 10 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Res.**: Acid, Cold, Fire
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 24, **Defense:** 10, **Initiative:** -2 |
+| **Movement** | 10 ft, climb 10 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | Acid, Cold, Fire |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Amorphous.*** The ooze can move through a space up to 1 inch wide without squeezing.
 
@@ -27529,16 +28585,18 @@ Crawling through cold swamps and misty wetlands or, sometimes, in underground pa
 Some sages believe that gray oozes are the result of a failed alchemical experiment, while others theorize that the first gray oozes spontaneously arose from a well of magical debris. Naturally, these theories that do not consider them living organisms, but rather the result of an unfortunate mixture of caustic fluids and magical residues, are ridiculed by those who live in areas infested by these creatures, which have no history of magical pollution.
 
 Green Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3, Awareness +4
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3, Awareness +4 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -27559,15 +28617,17 @@ Organization: Solitary
 See Ancient Green Dragon Description.
 
 Green Hag
-- **Size/Type**: Medium fey, evil
-- **Ability**: Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +5
-- **Skills**: Arcana +3, Stealth +3, Deception +4
-- **Senses**: Darkvision 60 ft
-- **Languages**: Common, Draconic, Sylvan
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium fey, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +5 |
+| **Skills** | Arcana +3, Stealth +3, Deception +4 |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Common, Draconic, Sylvan |
+| **Challenge** | 3 (700 XP) |
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -27599,13 +28659,15 @@ Organization: Solitary or coven (3 hags of any type)
 Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
 
 Grick
-- **Size/Type**: Medium monstrosity, neutral
-- **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m, climb 9 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +4
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium monstrosity, neutral |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -3 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m, climb 9 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Stone Camouflage.*** The grick has +1d6 on Stealth (Hiding) checks made to hide in rocky terrain.
 
@@ -27636,14 +28698,16 @@ Gricks are capable predators with weapon-resistant skin, making them particularl
 Gricks camouflage themselves thanks to their dark color and their ability to climb walls, remaining hidden until the moment of attack. When food is scarce, they may head to the surface in search of prey, but they prefer darkness and the safety of a roof over their heads, avoiding the open sky and seeking shelter under trees, low clouds, or buildings.
 
 Griffin
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m, fly 24 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Awareness +5
-- **Senses**: Darkvision 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int -3 Wis 1 Cha 0 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m, fly 24 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Awareness +5 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Keen Sight.*** The griffin has +1d6 on Awareness checks based on sight.
 
@@ -27678,16 +28742,18 @@ Before a griffin can be ridden in combat, the creature must practice carrying th
 Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70 kg as a heavy load. An exotic saddle is needed to ride them.
 
 Grimlock
-- **Size/Type**: Medium humanoid (grimlock), evil
-- **Ability**: Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Athletics +5, Stealth +3, Awareness +3
-- **Immunities**: blinded
-- **Senses**: Blindsight 9 m or 3 m if deafened (blind beyond this radius)
-- **Languages**: Undercommon
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium humanoid (grimlock), evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -1 Wis -1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Athletics +5, Stealth +3, Awareness +3 |
+| **Immunities** | blinded |
+| **Senses** | Blindsight 9 m or 3 m if deafened (blind beyond this radius) |
+| **Languages** | Undercommon |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Stone Camouflage.*** The grimlock has +1d6 on Stealth (Hiding) checks made to hide on rocky terrain.
 
@@ -27711,16 +28777,18 @@ Grimlock
 Grimlocks are blind and savage human-like creatures that inhabit the realm of the dark depths, where they organize into small tribal groups.
 
 Guardian Naga
-- **Size/Type**: Large monstrosity, good
-- **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
-- **Hit Points**: 201,  **Defense:** 29,  **Initiative:** +4
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +13, Reflex +14, Will +14
-- **Damage Imm.**: Poison
-- **Condition Imm.**: charmed
-- **Senses**: Darkvision 60 ft
-- **Languages**: Celestial, Common
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large monstrosity, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4 |
+| **Hit Points** | 201, **Defense:** 29, **Initiative:** +4 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +13, Reflex +14, Will +14 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | charmed |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Celestial, Common |
+| **Challenge** | 10 (5900 XP) |
 
 ***Spellcasting.*** The naga has MC 11. Its spellcasting ability is Wisdom (+8 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
@@ -27763,17 +28831,19 @@ Although they have a fierce appearance, with bright scales, cobra-like hoods, an
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
 Gynosphinx
-- **Size/Type**: Large monstrosity, lawful
-- **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
-- **Hit Points**: 219,  **Defense:** 28,  **Initiative:** +4
-- **Movement**: 40 ft, fly 60 ft
-- **Saving Throws**: Fortitude +14, Reflex +13, Will +15
-- **Skills**: Arcana +14, Religion +9, History +14
-- **Dmg. Res.**: from non-magical weapons
-- **Immunities**: charmed, frightened
-- **Senses**: truesight 120 ft
-- **Languages**: Common, Sphinx
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large monstrosity, lawful |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4 |
+| **Hit Points** | 219, **Defense:** 28, **Initiative:** +4 |
+| **Movement** | 40 ft, fly 60 ft |
+| **S. Throws** | Fortitude +14, Reflex +13, Will +15 |
+| **Skills** | Arcana +14, Religion +9, History +14 |
+| **Dmg. Res.** | from non-magical weapons |
+| **Immunities** | charmed, frightened |
+| **Senses** | truesight 120 ft |
+| **Languages** | Common, Sphinx |
+| **Challenge** | 11 (7200 XP) |
 
 ***Magic Weapons.*** The sphinx' \*\*s weapon attacks are magical.
 
@@ -27807,7 +28877,7 @@ The sphinx can take 3 legendary actions, chosen from the options below. Only one
 
 **Cast a Spell (Costs 3 Actions).** The sphinx casts a spell from its list of prepared spells, using a spell slot as normal.
 
-**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 120 feet.
+**Teleport (Costs 2 Actions).** The sphinx magically teleports, along with any equipment it is wearing or carrying, to an unoccupied space it can see within 36 m.
 
 **Ecology**
 
@@ -27829,13 +28899,15 @@ Although not great scholars in the traditional sense, sphinxes' \*\* great appre
 A typical sphinx is 10 feet long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
 Harpy
-- **Size/Type**: Medium monstrosity, Arrogant, Impulsive
-- **Ability**: Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 6 m, fly 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Languages**: Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium monstrosity, Arrogant, Impulsive |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int -2 Wis 0 Cha 1 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 6 m, fly 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Languages** | Common |
+| **Challenge** | 1 (200 XP) |
 
 **Actions*Multiattack.*** The harpy makes two attacks: one with its talons and one with its club.
 
@@ -27872,16 +28944,18 @@ Harpies tend to wear trinkets and pendants stolen from their victims, as they lo
 Harpies are markedly different depending on the region where they live. Some resemble a mixture of vultures and women, while others bear the regal traits of hawks and falcons on their feathers. Rare broods of harpies, in isolated and tropical places in the world, also have colorful feathers like parrots.
 
 Hell Hound
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 50 ft
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
-- **Skills**: Perception +5
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 60 ft
-- **Languages**: understands Infernal but cannot speak
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 50 ft |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +4 |
+| **Skills** | Perception +5 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | understands Infernal but cannot speak |
+| **Challenge** | 3 (700 XP) |
 
 ***Keen Hearing and Smell.*** The hound has +1d6 on Perception checks based on hearing or smell.
 
@@ -27894,17 +28968,19 @@ Hell Hound
 ***Fire Breath (Recharge 5-6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a Reflex Saving Throw DC 14, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
 Hezrou
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1
-- **Hit Points**: 167,  **Defense:** 25,  **Initiative:** +5
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +13, Reflex +11, Will +9
-- **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 5 Int 5 Wis 1 Cha 1 |
+| **Hit Points** | 167, **Defense:** 25, **Initiative:** +5 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +13, Reflex +11, Will +9 |
+| **Damage Resistance** | Cold, Lightning, Fire; from non-magical weapons |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 8 (3900 XP) |
 
 ***Stench.*** Any creature that starts its turn within 3 meters of the demon must succeed on a Fortitude Saving Throw DC 21 or be poisoned, -1 Strength and Dexterity, until the start of its own turn. If it succeeds on the Saving Throw, the creature is immune to the demon' \*\*s stench for 24 hours.
 
@@ -27939,13 +29015,15 @@ The hezrou lives in the vast swamps, wetlands, and watercourses of the Abyss. It
 These monstrous and bestial creatures are born from the souls of evil mortals who have poisoned themselves, their relatives, or their environment, for example, drug addicts, assassins, and alchemists who didn' \*\*t care how their experiments poisoned the natural world.
 
 Hill Giant
-- **Size/Type**: Huge giant, evil
-- **Ability**: Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2
-- **Hit Points**: 109,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +9, Reflex +4, Will +4
-- **Languages**: Giant
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge giant, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 4 Int -3 Wis -1 Cha -2 |
+| **Hit Points** | 109, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +9, Reflex +4, Will +4 |
+| **Languages** | Giant |
+| **Challenge** | 5 (1800 XP) |
 
 **Actions*Multiattack.*** The giant makes two attacks with its greatclub.
 
@@ -27976,13 +29054,15 @@ Hill giants are by nature nomadic and prefer to travel from place to place to ra
 Solitary and non-evil hill giants are quite rare, but they can sometimes be found in other humanoid societies, though they are almost never accepted in major cities or populated centers. They find their place as workers and soldiers in remote frontier towns, and often serve as rudimentary diplomats to negotiate with bands of marauding hill giants. Unfortunately, hill giants who abandon their racial lifestyle for civilization are mocked and often killed on sight by their nomadic brethren. However, these *civilized* hill giants can find their place in society and many have managed to live a peaceful and quiet existence.
 
 Hippogriff
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 12 m, fly 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Awareness +5
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 12 m, fly 18 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Awareness +5 |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Sight.*** The hippogriff has +1d6 on Awareness checks based on sight.
 
@@ -28017,14 +29097,16 @@ Breeding communities often offer rewards for capturing them as they can represen
 Hippogriffs are oviparous and their nest usually contains only one egg, which is worth 200 gp. A healthy young hippogriff is worth 500 gp, while a fully trained hippogriff as a mount can be worth up to 5000 gp. They can carry 90 kg as a light load, 180 kg as a medium load, and 270 kg as a heavy load, and require an exotic saddle to be ridden.
 
 Hisser
-- **Size/Type**: Large monstrosity, chaotic
-- **Ability**: Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 20 ft, climb 20 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Perception +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large monstrosity, chaotic |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 20 ft, climb 20 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Perception +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Multiattack.*** The Hisser can make two claw attacks or one tail strike.
 
@@ -28051,14 +29133,16 @@ Hissers, so called because of the noise their tail makes when swinging, are very
 Dark gray or brown in color, they prefer to hide in darkness and attack when hungry or to defend their territory. They try to keep their distance in combat, and if seriously injured, they escape by climbing the walls.
 
 Hobgoblin
-- **Size/Type**: Medium humanoid (goblinoid), evil
-- **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (goblinoid), evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Martial.*** Once per round, as a Reaction, the hobgoblin can deal 7 (2d6) extra damage to a creature it hits with a weapon attack, if that creature is within 1 meter of an ally of the hobgoblin that isn' \*\*t incapacitated.
 
@@ -28087,16 +29171,18 @@ Many Hobgoblin tribes combine the love of war with sharp intellect. They are fas
 Hobgoblins despise magic and distrust wizards. Their shamans, feared and respected, live on the edges of the tribe' \*\*s lair. Hobgoblins are about 1.7 meters tall and weigh 80 kg.
 
 Homunculus
-- **Size/Type**: Tiny construct, neutral
-- **Ability**: Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 6 m, flight 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: charmed
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Tiny construct, neutral |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int 0 Wis 0 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 6 m, flight 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 0 (10 XP) |
 
 ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it perceives to its master, and the two can communicate telepathically.
 
@@ -28107,17 +29193,19 @@ Homunculus
 ***Master' \*\*s Conduit***: using 3 Actions, the homunculus becomes the conduit for the casting of a spell by its master.
 
 Horned Devil
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3
-- **Hit Points**: 224,  **Defense:** 29,  **Initiative:** +3
-- **Movement**: 6 m, flight 18 m
-- **Saving Throws**: Fortitude +16, Reflex +14, Will +14
-- **Damage Res.**: Cold;
-- **Damage Imm.**: Fire, Poison, weapons +1
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 3 Con 5 Int 1 Wis 3 Cha 3 |
+| **Hit Points** | 224, **Defense:** 29, **Initiative:** +3 |
+| **Movement** | 6 m, flight 18 m |
+| **S. Throws** | Fortitude +16, Reflex +14, Will +14 |
+| **Damage Res.** | Cold; |
+| **Dam. Imm.** | Fire, Poison, weapons +1 |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 11 (7200 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -28162,15 +29250,17 @@ A typical horned devil reaches the considerable height of 2.7 meters, has wings 
 > The LORD said to Satan: "Where have you come from?" Satan answered the LORD: "From roaming through the earth and going back and forth in it". Job 1:6-12
 
 Hungry Coins
-- **Size/Type**: Tiny aberration, strongly evil
-- **Ability**: Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 3 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Awareness +3
-- **Damage Imm.**: Cold, Poison, Electricity, from Void
-- **Immunities**: charmed, petrified, frightened
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Tiny aberration, strongly evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 1 Con 3 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 3 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Awareness +3 |
+| **Dam. Imm.** | Cold, Poison, Electricity, from Void |
+| **Immunities** | charmed, petrified, frightened |
+| **Challenge** | 1/2 (100 XP) |
 
 Hungry Coins always attack in groups of at least 8 coins, those held in hand for counting...
 
@@ -28197,14 +29287,16 @@ Voracious and hungry, they like to hide in piles of coins they feed on to absorb
 Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Legend has it that a Hungry Coin will not attack a Devotee of Rezh.
 
 Hydra
-- **Size/Type**: Huge monstrosity, unaligned
-- **Ability**: Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2
-- **Hit Points**: 167,  **Defense:** 23,  **Initiative:** +1
-- **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +13, Reflex +9, Will +8
-- **Skills**: Awareness +6
-- **Senses**: Darkvision 18 m
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Huge monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 5 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 167, **Defense:** 23, **Initiative:** +1 |
+| **Movement** | 9 m, swim 9 m |
+| **S. Throws** | Fortitude +13, Reflex +9, Will +8 |
+| **Skills** | Awareness +6 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 8 (3900 XP) |
 
 ***Multiple Heads.*** The hydra has five heads. While it has more than one head, the hydra has +1d6 on Saving Throws against being blinded, charmed, deafened, frightened, stunned, or unconscious.
 
@@ -28237,16 +29329,18 @@ Organization: Solitary
 The hydra is a multi-headed dragon, but stupid and with major digestive problems.
 
 Ice Devil
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4
-- **Hit Points**: 278,  **Defense:** 32,  **Initiative:** +4
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +18, Reflex +16, Will +16
-- **Damage Imm.**: Cold, Fire, Poison, weapons +1
-- **Vulnerabilities**: silver, Light
-- **Senses**: Blindsight 18 m, Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 14 (11500 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 2 Con 4 Int 4 Wis 2 Cha 4 |
+| **Hit Points** | 278, **Defense:** 32, **Initiative:** +4 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +18, Reflex +16, Will +16 |
+| **Dam. Imm.** | Cold, Fire, Poison, weapons +1 |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Blindsight 18 m, Darkvision 36 m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 14 (11500 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -28293,16 +29387,18 @@ In combat, it sends its subordinates ahead, so it can assess the tactics, streng
 Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 
 Ice Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3, Awareness +2
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Ictun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 1 Con 0 Int -1 Wis 0 Cha 1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3, Awareness +2 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Ictun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary shard of ice.
 
@@ -28331,16 +29427,18 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Ice mephits are commonly found on the Plane of Air. These mephits are aloof and cruel.
 
 Immortal Cursed
-- **Size/Type**: Medium aberration (human), tends to be insane
-- **Ability**: Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2
-- **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +3
-- **Skills**: Awareness +3, profession they had in life
-- **Damage Imm.**: Cold, Poison, Fire, from Void
-- **Immunities**: charmed, petrified, frightened
-- **Languages**: Common, Dwarven, Elvish
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium aberration (human), tends to be insane |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int -1 Wis -2 Cha -2 |
+| **Hit Points** | 88, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +3 |
+| **Skills** | Awareness +3, profession they had in life |
+| **Dam. Imm.** | Cold, Poison, Fire, from Void |
+| **Immunities** | charmed, petrified, frightened |
+| **Languages** | Common, Dwarven, Elvish |
+| **Challenge** | 4 (1100 XP) |
 
 ***Immortal*** The Immortal Cursed regenerates 1 Hit Point per round, except if it has taken acid damage. This allows it to regenerate limbs and return to life. Remove Curse at DC 30 instantly kills it.
 
@@ -28364,18 +29462,20 @@ The Immortal Cursed is a person cursed often by a Patron or by a powerful spellc
 With the purpose of getting finally killed, they throw themselves into every battle hoping that the opponent will be able to kill them once and for all.
 
 Imp
-- **Size/Type**: Tiny devil, shapechanger, evil
-- **Ability**: Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Movement**: 6 m, fly 12 m (6 m in rat form; 6 m, fly 18 m in raven form; 6 m, climb 6 m in spider form)
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +5, Deception +4, Insight +3
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Tiny devil, shapechanger, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 3 Con 1 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Movement** | 6 m, fly 12 m (6 m in rat form; 6 m, fly 18 m in raven form; 6 m, climb 6 m in spider form) |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +5, Deception +4, Insight +3 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, Common |
+| **Challenge** | 1 (200 XP) |
 
 ***Shapechanger.*** The devil can use an Action to transform into a bestial form of rat, raven, or spider, or to return to its true form. Its statistics are the same in all forms, although attacks may vary for some of them. Any equipment it is wearing or carrying doesn' \*\*t transform. Upon death it returns to its true form.
 
@@ -28406,18 +29506,20 @@ Imps vary greatly in appearance, across a wide spectrum of bestial and grotesque
 Unlike other devils, imps are often found free and alone on the Material Plane, particularly after they have been summoned to serve as familiars and their masters have died (often, indirectly, because of the imp' \*\*s own machinations). Without any means to return home, these imps, free from any bonds with arcane masters, can become dangerous nuisances or even place themselves at the head of small tribes of bloodthirsty humanoids, such as Goblins or Kobolds.
 
 Invisible Stalker
-- **Size/Type**: Medium elemental, neutral
-- **Ability**: Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0
-- **Hit Points**: 125,  **Defense:** 24,  **Initiative:** +4
-- **Movement**: 15 m, flight 15 m, Hover
-- **Saving Throws**: Fortitude +8, Reflex +10, Will +8
-- **Skills**: Stealth +10, Awareness +8
-- **Damage Res.**: non-magical weapons
-- **Damage Imm.**: Poison
-- **Immunities**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: Darkvision 18 m
-- **Languages**: Ictun, understands Common but doesn' \*\*t speak it
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium elemental, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 4 Con 2 Int 0 Wis 2 Cha 0 |
+| **Hit Points** | 125, **Defense:** 24, **Initiative:** +4 |
+| **Movement** | 15 m, flight 15 m, Hover |
+| **S. Throws** | Fortitude +8, Reflex +10, Will +8 |
+| **Skills** | Stealth +10, Awareness +8 |
+| **Damage Res.** | non-magical weapons |
+| **Dam. Imm.** | Poison |
+| **Immunities** | grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ictun, understands Common but doesn' \*\*t speak it |
+| **Challenge** | 6 (2300 XP) |
 
 ***Faultless Tracker.*** The summoner assigns a prey to the stalker. The stalker knows the direction and distance to the prey as long as they are on the same plane of existence. The stalker also knows the location of its summoner.
 
@@ -28450,16 +29552,18 @@ Many invisible stalkers, however, consider these tasks as miserable requests fro
 Due to continuous summonings, many invisible stalkers are adverse to the inhabitants of the Material Plane. Those newly summoned to the mortal world know only the stories of their kind and maintain an open attitude toward those who summon them. Over time, or if they serve an evil master, they begin to form a negative opinion of these mortal creatures, which leads them to deflect instructions and harm their masters. For older invisible stalkers with more experience, the only thing that protects those who summoned them is the magic that binds them. These creatures always try to use inconsistencies in the formulation of their tasks and literal distortions in intentions to find a way to annoy, hurt, or even kill those who brought them to this plane.
 
 Iron Golem
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5
-- **Hit Points**: 319,  **Defense:** 32,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +21, Reflex +15, Will +16
-- **Damage Imm.**: Fire, Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 36 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -5 |
+| **Hit Points** | 319, **Defense:** 32, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +21, Reflex +15, Will +16 |
+| **Dam. Imm.** | Fire, Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 16 (15000 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 12/- against non-magical weapons.
 
@@ -28507,14 +29611,16 @@ Although the practice of building iron golems has gradually fallen into disuse, 
 To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at least 10,000 gp.
 
 Kobold
-- **Size/Type**: Small humanoid (kobold), evil
-- **Ability**: Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Draconic
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Small humanoid (kobold), evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con -1 Int -1 Wis -2 Cha -1 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Sunlight Sensitivity***. While in sunlight, the kobold has -1d6 to attack rolls, as well as to Awareness checks based on sight.
 
@@ -28543,16 +29649,18 @@ The shade of kobolds varies even among brothers of the same clutch, ranging acro
 Kobolds have a weakness for silver but, being terrible miners, they prefer to prey on silver coins from adventurers and eat them like butter cookies. Kobolds can digest silver rather quickly, and the more they eat, the shinier their scales are and the healthier the kobolds appear.
 
 Kraken
-- **Size/Type**: Gargantuan monstrosity (titan), evil
-- **Ability**: Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5
-- **Hit Points**: 461,  **Defense:** 42,  **Initiative:** +6
-- **Movement**: 6 m, swim 18 m
-- **Saving Throws**: Fortitude +30, Reflex +23, Will +27
-- **Damage Imm.**: Electricity, +1 weapons
-- **Immunities**: paralyzed, frightened
-- **Senses**: truesight 36 m
-- **Languages**: understands Abyssal, Celestial, Infernal, and Druidic but cannot speak, telepathy 36 m
-- **Challenge**: 23 (50000 XP)
+
+| **Size/Type** | Gargantuan monstrosity (titan), evil |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 7 Int 6 Wis 4 Cha 5 |
+| **Hit Points** | 461, **Defense:** 42, **Initiative:** +6 |
+| **Movement** | 6 m, swim 18 m |
+| **S. Throws** | Fortitude +30, Reflex +23, Will +27 |
+| **Dam. Imm.** | Electricity, +1 weapons |
+| **Immunities** | paralyzed, frightened |
+| **Senses** | truesight 36 m |
+| **Languages** | understands Abyssal, Celestial, Infernal, and Druidic but cannot speak, telepathy 36 m |
+| **Challenge** | 23 (50000 XP) |
 
 ***Amphibious.*** The kraken can breathe air and water.
 
@@ -28599,15 +29707,17 @@ Many legends have arisen regarding the fact that it understands the druidic lang
 A kraken is almost 30 meters long and weighs 20,000 kg.
 
 Lamia
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3
-- **Hit Points**: 88,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +6
-- **Skills**: Stealth +3, Deception +7, Sense Emotion +4,
-- **Senses**: Darkvision 18 m
-- **Languages**: Abyssal, Common
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 2 Wis 2 Cha 3 |
+| **Hit Points** | 88, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +6 |
+| **Skills** | Stealth +3, Deception +7, Sense Emotion +4, |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 4 (1100 XP) |
 
 ***Innate Spellcasting.*** The lamia' \*\*s innate spellcasting ability is Charisma. The lamia can innately cast the following spells, requiring no material components:
 
@@ -28646,18 +29756,20 @@ These creatures are attracted to ruined towers, abandoned cities, and forgotten 
 Lamias worship the elder females of their group, considering them leaders, mothers, and shamans, and bind themselves to them with fanatical reverence. Although they shun most religions, seeing them as the source of the curse that afflicts them, elder lamias claim to hear the whispers of the desert wind and to know the whims of the stars, thus guiding their people.
 
 Lemure
-- **Size/Type**: Medium devil, evil
-- **Ability**: Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 15,  **Defense:** 9,  **Initiative:** -3
-- **Movement**: 5 meters
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Res.**: Cold
-- **Damage Imm.**: Fire, Poison
-- **Immunities**: charmed, frightened
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: understands Infernal but cannot speak
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium devil, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex -3 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 15, **Defense:** 9, **Initiative:** -3 |
+| **Movement** | 5 meters |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | Cold |
+| **Dam. Imm.** | Fire, Poison |
+| **Immunities** | charmed, frightened |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands Infernal but cannot speak |
+| **Challenge** | 0 (10 XP) |
 
 ***Devilish Rejuvenation.*** A lemure that dies in the Nine Hells comes back to life with all its Hit Points in 1d10 days unless it is killed by a creature with good traits on which the spell *bless* has been cast or its remains are sprinkled with Holy Water.
 
@@ -28682,17 +29794,19 @@ They play a vital role in Hell' \*\*s ecology. Damned souls are tormented for ce
 Greater devils can recognize the most corrupted lemures and transform them into true devils, ready to serve in the legions of the damned.
 
 Lich
-- **Size/Type**: Medium undead, evil traits
-- **Ability**: Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3
-- **Hit Points**: 405,  **Defense:** 43,  **Initiative:** +5
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +24, Reflex +24, Will +23
-- **Damage Res.**: Cold, Lightning, Necrotic
-- **Damage Imm.**: Poison; non-magical weapons
-- **Immunities**: charmed, paralyzed, fatigued, frightened, bleeding
-- **Senses**: truesight 36 m
-- **Languages**: Common plus five other languages, Expiran
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Medium undead, evil traits |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 3 Int 5 Wis 2 Cha 3 |
+| **Hit Points** | 405, **Defense:** 43, **Initiative:** +5 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +24, Reflex +24, Will +23 |
+| **Damage Res.** | Cold, Lightning, Necrotic |
+| **Dam. Imm.** | Poison; non-magical weapons |
+| **Immunities** | charmed, paralyzed, fatigued, frightened, bleeding |
+| **Senses** | truesight 36 m |
+| **Languages** | Common plus five other languages, Expiran |
+| **Challenge** | 21 (33000 XP) |
 
 ***Spellcasting.*** The lich has CM 18. Its spellcasting ability is Intelligence. The lich knows the following spells:
 
@@ -28759,14 +29873,16 @@ Few creatures are more feared than liches. Apex of Necromantic arts, the lich is
 There are also extremely rare good Liches, but as the saying goes, they are rarer than a Roc' \*\*s tooth.
 
 Lizardfolk
-- **Size/Type**: Medium humanoid (lizardfolk), neutral
-- **Ability**: Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 9 m, swim 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +3, Survival +5
-- **Languages**: Draconic
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (lizardfolk), neutral |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 9 m, swim 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +3, Survival +5 |
+| **Languages** | Draconic |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
@@ -28805,16 +29921,18 @@ Though generally neutral, lizardfolk' \*\*s standoffish nature, their strenuous 
 The lizardfolk presented here live in swampy environments. Lizardfolk tribes can live just as well in other environments, but as speed they gain Climb 5 meters instead of Swim.
 
 Lootdead
-- **Size/Type**: Large construct, undead, unaligned
-- **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5
-- **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +4
-- **Dmg. Imm.**: Poison
-- **Immunities**: charmed, fatigued, paralyzed, petrified, bleeding, diseases
-- **Senses**: Darkvision 100 ft
-- **Languages**: understands all languages of its creator but cannot speak
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large construct, undead, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5 |
+| **Hit Points** | 127, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +4 |
+| **Dmg. Imm.** | Poison |
+| **Immunities** | charmed, fatigued, paralyzed, petrified, bleeding, diseases |
+| **Senses** | Darkvision 100 ft |
+| **Languages** | understands all languages of its creator but cannot speak |
+| **Challenge** | 6 (2300 XP) |
 
 ***Damage Reduction.*** The Lootdead has hardness 6/- against non-magical weapons.
 
@@ -28854,19 +29972,22 @@ The large central eye, perhaps once belonging to a humanoid, allows the controll
 Usually a Lootdead is always accompanied by several guardians (other creatures under the controller' \*\*s command) that help in *dealing with* any still active *resistance*.
 
 Magma Man
-- **Size/Type**: Small elemental, chaotic
-- **Ability**: Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 
-| - **Damage Res.**: from non-magical weapons |
-| --- |
+| **Size/Type** | Small elemental, chaotic |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 1 Int -1 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Damage Res.** | from non-magical weapons |
 
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 18 m
-- **Languages**: Ignan
-- **Challenge**: 1/2 (100 XP)
+|
+
+| **Dam. Imm.** | Fire |
+| --- | --- |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ignan |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Fiery Illumination.*** As an Immediate Action, the magma man can ignite or extinguish its flames. While the flame is lit, the magma man sheds bright light in a 3-meter radius and dim light for 6 meters.
 
@@ -28895,16 +30016,18 @@ Proud of their magma lakes, each lake has a different purpose: baths, cooking, o
 At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense composition.
 
 Magma Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +3
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Ignan, Tremun
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -1 Dex 1 Con 1 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +3 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Ignan, Tremun |
+| **Challenge** | 1/2 (100 XP) |
 
 ***False Appearance.*** While the mephit remains motionless, it is indistinguishable from an ordinary pool of magma.
 
@@ -28933,14 +30056,16 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Magma mephits are commonly found on the Plane of Fire. These mephits are stupid brutes.
 
 Manticore
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1
-- **Hit Points**: 70,  **Defense:** 19,  **Initiative:** +3
-- **Movement**: 9 m, fly 15 m
-- **Saving Throws**: Fortitude +6, Reflex +6, Will +4
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 3 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 70, **Defense:** 19, **Initiative:** +3 |
+| **Movement** | 9 m, fly 15 m |
+| **S. Throws** | Fortitude +6, Reflex +6, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 3 (700 XP) |
 
 ***Tail Spike Regrowth.*** The manticore has twenty-four tail spikes. Used spikes regrow at dawn.
 
@@ -28974,17 +30099,19 @@ Manticores eat any kind of meat, even carrion, but they prefer human flesh and r
 Although manticores are similar to magical creations, they have long been counted among natural species. Curiously, manticores seem strangely fertile and can crossbreed with numerous other similarly-shaped species, including Lions, Tigers, Lamias, Sphinxes, and Chimeras.
 
 Marilith
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5
-- **Hit Points**: 319,  **Defense:** 38,  **Initiative:** +5
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +21, Reflex +21, Will +19
-- **Damage Resistance**: Cold, Lightning, Fire
-- **Damage Immunity**: Poison, +1 weapons
-- **Vulnerability**: cold iron, Light
-- **Senses**: truesight 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 5 Con 5 Int 4 Wis 3 Cha 5 |
+| **Hit Points** | 319, **Defense:** 38, **Initiative:** +5 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +21, Reflex +21, Will +19 |
+| **Damage Resistance** | Cold, Lightning, Fire |
+| **Damage Immunity** | Poison, +1 weapons |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 16 (15000 XP) |
 
 ***Magic Weapons.*** The demon' \*\*s weapon attacks are magical.
 
@@ -29025,15 +30152,17 @@ Sovereigns of demonic hordes and queens of abyssal nations, the fearsome marilit
 A marilith is 1.8 to 2.7 meters tall, 6 meters long from head to tail, and weighs 2000 kg. Only the most arrogant and proud evil souls, usually those of cruel sovereigns, sadistic generals, and particularly violent warlords, can cause the birth of a marilith.
 
 Medusa
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2
-- **Hit Points**: 126,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +8, Will +7
-- **Skills**: Stealth +5, Deception +5, Insight +4
-- **Senses**: Darkvision 18 m
-- **Languages**: Common
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 3 Int 1 Wis 1 Cha 2 |
+| **Hit Points** | 126, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +8, Will +7 |
+| **Skills** | Stealth +5, Deception +5, Insight +4 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common |
+| **Challenge** | 6 (2300 XP) |
 
 ***Petrifying Gaze.*** If a creature starts its round within 9 meters of a medusa and can see the medusa' \*\*s eyes, the medusa, if it isn' \*\*t incapacitated and can see the creature, can force it to make a Fortitude Saving Throw DC 19. If the creature critically fails the Saving Throw, it is instantly petrified, otherwise it is Slowed 1/1 minute. Subsequent gazes and failed Saving Throws lead to an increase in the Slowed condition. When the creature becomes Slowed 3, it turns to stone. The creature can return to flesh if the spell Flesh to Stone is cast within 1 month of petrification.
 
@@ -29072,19 +30201,21 @@ Accustomed to hiding, urban medusas are generally thieves, while those from wild
 All medusas are female. Rarely, a medusa decides to take a male humanoid as a companion, generally with the help of a Love Potion or similar magic, and they always take care not to petrify their prisoner, unless they have grown bored with his company.
 
 Topi, La
-- **Size/Type**: Tiny fey, indifferent. Patron
-- **Ability**: Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10
-- **Hit Points**: 15,  **Defense:** 16,  **Initiative:** +6
-- **Movement**: 6 m, fly 18 m, hover
-- **Saving Throws**: Fortitude +30, Reflex +34, Will +30
-- **Skills**: all +20
-- **Immunities**: to damage from weapons with magical bonus less than +6
-- **Immunities**: to any effect, damage, condition La Topi doesn' \*\*t like
-- **Immunities**: to any magic La Topi doesn' \*\*t want to be affected by
-- **Immunities**: to suffering any type of critical hit
-- **Senses**: Tremorsense 60, Darkvision 60 m, Truesight 60 m
-- **Languages**: all
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Tiny fey, indifferent. Patron |
+| --- | --- |
+| **Ability** | Str -1 Dex 4 Con 0 Int 6 Wis 1 Cha 10 |
+| **Hit Points** | 15, **Defense:** 16, **Initiative:** +6 |
+| **Movement** | 6 m, fly 18 m, hover |
+| **S. Throws** | Fortitude +30, Reflex +34, Will +30 |
+| **Skills** | all +20 |
+| **Immunities** | to damage from weapons with magical bonus less than +6 |
+| **Immunities** | to any effect, damage, condition La Topi doesn' \*\*t like |
+| **Immunities** | to any magic La Topi doesn' \*\*t want to be affected by |
+| **Immunities** | to suffering any type of critical hit |
+| **Senses** | Tremorsense 60, Darkvision 60 m, Truesight 60 m |
+| **Languages** | all |
+| **Challenge** | 0 (10 XP) |
 
 ***She Is La Topi*** La Topi has +3d6 (or +18) whenever she needs to roll dice or count a value.
 
@@ -29111,16 +30242,18 @@ Organization: Solitary
 She might be mistaken for a small white mouse, but La Topi is much more. Clever, intelligent, beautiful, she loves going to the market and buying handbags.
 
 Mimic
-- **Size/Type**: Medium monstrosity (shapechanger), neutral
-- **Ability**: Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 15 feet
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Stealth +5
-- **Damage Imm.**: Acid
-- **Condition Imm.**: prone
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium monstrosity (shapechanger), neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 15 feet |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Stealth +5 |
+| **Dam. Imm.** | Acid |
+| **Condition Imm.** | prone |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 2 (450 XP) |
 
 ***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is grappled by it (escape DC 18). The mimic doesn' \*\*t consider itself Grappled when it grapples something.
 
@@ -29154,15 +30287,17 @@ Although mimics are not intrinsically evil, some sages suggest that they attack 
 A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs about 900 pounds. Legends and stories tell of larger mimics, with the ability to take the form of houses, ships, or entire underground complexes that they garnish with treasures (both real and fake) to lure their unsuspecting food inside.
 
 Minotaur
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +6, Reflex +3, Will +6
-- **Skills**: Perception +7
-- **Senses**: Darkvision 60 ft
-- **Languages**: Abyssal
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +0 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +6, Reflex +3, Will +6 |
+| **Skills** | Perception +7 |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Abyssal |
+| **Challenge** | 3 (700 XP) |
 
 ***Charge.*** If the minotaur moves at least 10 feet toward a target and hits it with a gore attack during the same round, the target takes 9 (2d8) extra piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be pushed up to 10 feet away and knocked prone. 1 Action.
 
@@ -29195,17 +30330,19 @@ Minotaurs can serve more powerful monsters or evil creatures, hunting and eating
 Minotaurs are straightforward fighters, using their horns to horribly gore nearby creatures at the beginning of combat.
 
 Mummy
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1
-- **Hit Points**: 70,  **Defense:** 15,  **Initiative:** -1
-- **Movement**: 20 ft
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Damage Res.**: from non-magical weapons
-- **Damage Imm.**: from Void, Poison
-- **Condition Imm.**: charmed, paralyzed, exhausted, frightened, bleeding
-- **Senses**: Darkvision 60 ft
-- **Languages**: the languages it knew in life
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1 |
+| **Hit Points** | 70, **Defense:** 15, **Initiative:** -1 |
+| **Movement** | 20 ft |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Damage Res.** | from non-magical weapons |
+| **Dam. Imm.** | from Void, Poison |
+| **Condition Imm.** | charmed, paralyzed, exhausted, frightened, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 3 (700 XP) |
 
 ***Undead Nature.*** A mummy doesn' \*\*t need air, food, drink, or sleep.
 
@@ -29218,17 +30355,19 @@ Mummy
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 15 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
 Mummy Lord
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
-- **Hit Points**: 294,  **Defense:** 32,  **Initiative:** +0
-- **Movement**: 20 ft
-- **Saving Throws**: Fortitude +18, Reflex +15, Will +19
-- **Skills**: Religion +5, History +5
-- **Damage Imm.**: from Void, Poison; +1 weapons
-- **Condition Imm.**: charmed, paralyzed, exhausted, frightened
-- **Senses**: Darkvision 60 ft
-- **Languages**: the languages it knew in life
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3 |
+| **Hit Points** | 294, **Defense:** 32, **Initiative:** +0 |
+| **Movement** | 20 ft |
+| **S. Throws** | Fortitude +18, Reflex +15, Will +19 |
+| **Skills** | Religion +5, History +5 |
+| **Dam. Imm.** | from Void, Poison; +1 weapons |
+| **Condition Imm.** | charmed, paralyzed, exhausted, frightened |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 15 (13000 XP) |
 
 ***Mummy Lord' \*\*s Heart.*** As part of the ritual that creates a mummy lord, the creature' \*\*s heart and viscera are removed from the body and placed in sealed containers. These containers are usually made of stone or ceramic, engraved or painted with religious hieroglyphics.
 
@@ -29294,17 +30433,19 @@ Organization: Solitary, Group (3-6) or Mausoleum (7-12)
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less common. In some ancient lands, such blasphemous techniques have been refined through centuries of ceremony and countless deaths, resulting in mummies of terrible power. On rare occasions, if the deceased was of high rank and excessive wickedness, they might undergo such elaborate rituals, rising from the tomb as a fearsome mummy lord. Similarly, a ruler known for malice or who died in a moment of great anger might present themselves spontaneously as a vengeful despot. Regardless of the exact circumstances of its resurrection, a mummy lord retains the abilities it had in life, becoming a creature consumed by the desire to restore its dominion and rule over both the living and the dead.
 
 Nalfeshnee
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2
-- **Hit Points**: 264,  **Defense:** 29,  **Initiative:** +4
-- **Movement**: 6 m, flight 9 m
-- **Saving Throws**: Fortitude +19, Reflex +13, Will +14
-- **Damage Resistance**: Cold, Lightning, Fire; from non-magical weapons
-- **Damage Immunity**: Poison
-- **Vulnerability**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 6 Int 4 Wis 1 Cha 2 |
+| **Hit Points** | 264, **Defense:** 29, **Initiative:** +4 |
+| **Movement** | 6 m, flight 9 m |
+| **S. Throws** | Fortitude +19, Reflex +13, Will +14 |
+| **Damage Resistance** | Cold, Lightning, Fire; from non-magical weapons |
+| **Damage Immunity** | Poison |
+| **Vulnerability** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 13 (10000 XP) |
 
 ***Magic Resistance.*** The demon has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -29346,16 +30487,18 @@ Few demons understand the internal mechanics that govern the Abyss as well as na
 Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls of greedy or lustful evil mortals, particularly those who have ruled over empires of slavery, theft, banditry, and other even more violent vices.
 
 Night Hag
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3
-- **Hit Points**: 108,  **Defense:** 20,  **Initiative:** +3
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +8, Reflex +7, Will +7
-- **Skills**: Stealth +6, Deception +7, Insight +6
-- **Damage Res.**: Cold, Fire; from non-magical or non-silvered weapons
-- **Senses**: Darkvision 120 ft
-- **Languages**: Abyssal, Common, Infernal, Druidic
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3 |
+| **Hit Points** | 108, **Defense:** 20, **Initiative:** +3 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +8, Reflex +7, Will +7 |
+| **Skills** | Stealth +6, Deception +7, Insight +6 |
+| **Damage Res.** | Cold, Fire; from non-magical or non-silvered weapons |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Abyssal, Common, Infernal, Druidic |
+| **Challenge** | 5 (1800 XP) |
 
 ***Innate Spellcasting.*** The hag' \*\*s innate spellcasting ability is Charisma (DC 14 for spell Saving Throws). The hag can innately cast the following spells without requiring material components:
 
@@ -29376,17 +30519,19 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 ***Change Shape.*** The hag can magically transform into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn' \*\*t transformed. She reverts to her true form when she dies.
 
 Nightmare Steed
-- **Size/Type**: Large fiend, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 18 m, flight 24 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +4
-- **Damage Imm.**: Fire
-- **Skills**: Awareness +6
-- **Vulnerabilities**: Light
-- **Senses**: Darkvision 36 m
-- **Languages**: understands Abyssal, Common, and Infernal but can' \*\*t speak
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large fiend, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 18 m, flight 24 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +4 |
+| **Dam. Imm.** | Fire |
+| **Skills** | Awareness +6 |
+| **Vulnerabilities** | Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands Abyssal, Common, and Infernal but can' \*\*t speak |
+| **Challenge** | 3 (700 XP) |
 
 ***Confer Fire Resistance.*** The nightmare steed can confer resistance to fire damage to anyone riding it.
 
@@ -29411,16 +30556,18 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 > Hell is empty, all the devils are here. (William Shakespeare, The Tempest)
 
 Ochre Jelly
-- **Size/Type**: Large ooze, unaligned
-- **Ability**: Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5
-- **Hit Points**: 51,  **Defense:** 12,  **Initiative:** -2
-- **Movement**: 10 ft, climb 10 ft
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Damage Res.**: Acid
-- **Damage Imm.**: Lightning, slashing
-- **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large ooze, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5 |
+| **Hit Points** | 51, **Defense:** 12, **Initiative:** -2 |
+| **Movement** | 10 ft, climb 10 ft |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Damage Res.** | Acid |
+| **Dam. Imm.** | Lightning, slashing |
+| **Condition Imm.** | blinded, charmed, deafened, prone, exhausted, frightened |
+| **Senses** | Blindsight 60 ft (blind beyond this radius) |
+| **Challenge** | 2 (450 XP) |
 
 ***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -29454,14 +30601,16 @@ Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 fe
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
 Ogre
-- **Size/Type**: Large giant, sadistic evil
-- **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2
-- **Hit Points**: 52,  **Defense:** 13,  **Initiative:** -1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Giant
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large giant, sadistic evil |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 3 Int -3 Wis -2 Cha -2 |
+| **Hit Points** | 52, **Defense:** 13, **Initiative:** -1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Giant |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Greatclub.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
@@ -29499,16 +30648,18 @@ Their great strength and lack of imagination make them particularly suitable for
 An adult ogre is about 3 meters tall and weighs about 325 kg.
 
 Ogre Zombie
-- **Size/Type**: Large undead, evil
-- **Ability**: Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3
-- **Hit Points**: 52,  **Defense:** 12,  **Initiative:** -2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: understands Common and Giant but cannot speak
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex -2 Con 4 Int -4 Wis -2 Cha -3 |
+| **Hit Points** | 52, **Defense:** 12, **Initiative:** -2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands Common and Giant but cannot speak |
+| **Challenge** | 2 (450 XP) |
 
 ***Undead Nature.*** The zombie doesn' \*\*t need air, food, drink, or sleep.
 
@@ -29521,15 +30672,17 @@ Ogre Zombie
 **Treasure Category**: None
 
 Oni
-- **Size/Type**: Large giant, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2
-- **Hit Points**: 145,  **Defense:** 21,  **Initiative:** +2
-- **Movement**: 9 m, flight 9 m
-- **Saving Throws**: Fortitude +10, Reflex +7, Will +8
-- **Skills**: Arcana +5, Deception +8
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Giant
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large giant, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 2 Wis 1 Cha 2 |
+| **Hit Points** | 145, **Defense:** 21, **Initiative:** +2 |
+| **Movement** | 9 m, flight 9 m |
+| **S. Throws** | Fortitude +10, Reflex +7, Will +8 |
+| **Skills** | Arcana +5, Deception +8 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Giant |
+| **Challenge** | 7 (2900 XP) |
 
 ***Magic Weapons.*** The oni' \*\*s weapon attacks are magical.
 
@@ -29558,15 +30711,17 @@ At will: *Invisibility, Darkness*
 ***Enraged:*** the Oni is overtaken by murderous fury; until the end of combat, its Claw attacks cause Bleeding 2/10.
 
 Orckin
-- **Size/Type**: Medium humanoid (orc), chaotic
-- **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Intimidate +1
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (orc), chaotic |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Intimidate +1 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1/2 (100 XP) |
 
 **Actions*Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -29589,15 +30744,17 @@ The experiment was a moderate success with orcs founding kingdoms and conquering
 An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characteristic is the face and the pig-like nose in particular. Orcs and humans can produce offspring.
 
 Orc
-- **Size/Type**: Medium humanoid (orc), evil
-- **Ability**: Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Intimidate +2
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Goblin
-- **Challenge**: 1 (100 XP)
+
+| **Size/Type** | Medium humanoid (orc), evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 3 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Intimidate +2 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Goblin |
+| **Challenge** | 1 (100 XP) |
 
 ***Aggressive.*** As an Immediate Action, the orc can move up to half its movement toward a hostile creature that it can see.
 
@@ -29626,19 +30783,21 @@ An adult male orc is 2 meters tall and weighs about 115 kg. Orcs and humans can 
 While the common saying is that orcs were created by Cattalm to destroy and bring chaos, it is also true that they are often victims of prejudice and summary judgments. Not all orcs are alike, and not just physically; individual orcs, if not entire tribes, live their existence in a normal, civilized manner, yet in no state in the world are there penalties for killing an orc.
 
 Orcus
-- **Size/Type**: Huge demon prince, evil
-- **Ability**: Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7
-- **Hit Points**: 519,  **Defense:** 48,  **Initiative:** +5
-- **Movement**: 15 meters, fly 15 meters
-- **Saving Throws**: Fortitude +33, Reflex +28, Will +31
-- **Skills**: all +13
-- **Damage Res.**: Cold, Electricity, Fire
-- **Damage Imm.**: Void, Poison; weapons +2
-- **Immunities**: charmed, paralyzed, fatigued, frightened
-- **Vulnerabilities**: Light
-- **Senses**: Truesight 40 m
-- **Languages**: all, telepathy 45 m
-- **Challenge**: 26 (90000 XP)
+
+| **Size/Type** | Huge demon prince, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 5 Wis 5 Cha 7 |
+| **Hit Points** | 519, **Defense:** 48, **Initiative:** +5 |
+| **Movement** | 15 meters, fly 15 meters |
+| **S. Throws** | Fortitude +33, Reflex +28, Will +31 |
+| **Skills** | all +13 |
+| **Damage Res.** | Cold, Electricity, Fire |
+| **Dam. Imm.** | Void, Poison; weapons +2 |
+| **Immunities** | charmed, paralyzed, fatigued, frightened |
+| **Vulnerabilities** | Light |
+| **Senses** | Truesight 40 m |
+| **Languages** | all, telepathy 45 m |
+| **Challenge** | 26 (90000 XP) |
 
 ***Spells.*** Orcus has MC 17, DC 30. His spellcasting ability is Charisma. Orcus knows the following spells:
 
@@ -29685,16 +30844,18 @@ Organization: Unique
 Orcus is the Demon Prince of the undead. He prefers the company and service of the undead. He wishes to see all life disappear and transform into a gigantic necropolis of undead under his command. Orcus has the head and legs of a goat, horns similar to a ram' \*\*s, a bloated body, bat wings, and a long tail.
 
 Otyugh
-- **Size/Type**: Large aberration, neutral
-- **Ability**: Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2
-- **Hit Points**: 109,  **Defense:** 18,  **Initiative:** +3
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +5, Will +6
-- **Damage Imm.**: Poison
-- **Immunities**: diseases
-- **Senses**: Darkvision 36 m
-- **Languages**: Otyugh, Elvish, Dwarven
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large aberration, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 4 Int 3 Wis 1 Cha -2 |
+| **Hit Points** | 109, **Defense:** 18, **Initiative:** +3 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +5, Will +6 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | diseases |
+| **Senses** | Darkvision 36m |
+| **Languages** | Otyugh, Elvish, Dwarven |
+| **Challenge** | 5 (1800 XP) |
 
 ***Limited Telepathy.*** The otyugh can magically transmit simple messages and images to any creature within 36 meters of it that can understand a language. This form of telepathy doesn' \*\*t allow the receiving creature to telepathically respond.
 
@@ -29731,13 +30892,15 @@ The thing that most races find terrifying about otyughs is not their diet or the
 An otyugh, by eating the excrement or part of a creature, can understand what disease or poison afflicts it.
 
 Owlbear
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +4
-- **Senses**: Darkvision 18 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 3 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Keen Smell and Sight.*** The Owlbear has +1d6 on Awareness checks based on smell or sight.
 
@@ -29777,14 +30940,16 @@ Although it is almost impossible to tame them due to their wild nature, Owlbears
 This Owlbear is present in arctic regions or snowy mountains. Unlike the normal Owlbear, it is more robust and strong. It has 85 Hit Points, +10 to hit, 21 claw damage +1 Bleeding, 15 beak damage. CR 4
 
 Panoptikhan
-- **Size/Type**: Large aberration, evil
-- **Ability**: Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2
-- **Hit Points**: 235,  **Defense:** 29,  **Initiative:** +3
-- **Movement**: 1 m, flight 10 meters, hover
-- **Saving Throws**: Fortitude +14, Reflex +13, Will +14
-- **Senses**: Darkvision 36 m, truesight 18m
-- **Languages**: telepathy 50 m
-- **Challenge**: 12 (8400 XP)
+
+| **Size/Type** | Large aberration, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 2 Int 3 Wis 2 Cha 2 |
+| **Hit Points** | 235, **Defense:** 29, **Initiative:** +3 |
+| **Movement** | 1 m, flight 10 meters, hover |
+| **S. Throws** | Fortitude +14, Reflex +13, Will +14 |
+| **Senses** | Darkvision 36 m, truesight 18m |
+| **Languages** | telepathy 50 m |
+| **Challenge** | 12 (8400 XP) |
 
 ***Magic Resistance.*** The panoptikhan has +1d6 on Saving Throws against spells and other magical effects.
 
@@ -29833,14 +30998,16 @@ Unfortunately, arrogance, pride, and the desire to be the center of attention ha
 Panoptikhans have a very long life, on the order of a thousand years, but there are also creatures that have more than doubled this limit. Panoptikhans increase in size with age, as does the number of eyes. The statistics reported here refer to an adult specimen about 300 years old.
 
 Pegasus
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 18 m, flight 27 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
-- **Skills**: Awareness +6
-- **Languages**: understands Celestial, Common, Elvish, and Sylvan but cannot speak
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 0 Wis 2 Cha 1 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 18 m, flight 27 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +4 |
+| **Skills** | Awareness +6 |
+| **Languages** | understands Celestial, Common, Elvish, and Sylvan but cannot speak |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -29870,16 +31037,18 @@ In some pegasi, the blood of an ancestor who was a heroic stallion is still stro
 Pegasi and Unicorns were saved from Calicante' \*\*s fury towards *horses* only by Ljust' \*\*s express intercession.
 
 Phoenix
-- **Size/Type**: Gargantuan celestial, Brave, Protective, Good
-- **Ability**: Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6
-- **Hit Points**: 300,  **Defense:** 38,  **Initiative:** +6
-- **Movement**: 9 m, fly 27 m (good)
-- **Saving Throws**: Fortitude +20, Reflex +21, Will +21
-- **Damage Imm.**: Fire, Light, Poison, +1 weapons
-- **Immunities**: grappled, restrained, paralyzed, petrified, prone, unconscious, fatigued, bleeding
-- **Senses**: Darkvision 18 m, Twilight Vision 18 m
-- **Languages**: Ictun, Celestial, Common, Ignan
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Gargantuan celestial, Brave, Protective, Good |
+| --- | --- |
+| **Ability** | Str 8 Dex 6 Con 5 Int 5 Wis 6 Cha 6 |
+| **Hit Points** | 300, **Defense:** 38, **Initiative:** +6 |
+| **Movement** | 9 m, fly 27 m (good) |
+| **S. Throws** | Fortitude +20, Reflex +21, Will +21 |
+| **Dam. Imm.** | Fire, Light, Poison, +1 weapons |
+| **Immunities** | grappled, restrained, paralyzed, petrified, prone, unconscious, fatigued, bleeding |
+| **Senses** | Darkvision 18 m, Twilight Vision 18 m |
+| **Languages** | Ictun, Celestial, Common, Ignan |
+| **Challenge** | 15 (13000 XP) |
 
 ***Light Awareness.*** The Phoenix always has the following spells active *Detect Magic, Detect Disease and Poison, See Invisibility*
 
@@ -29927,17 +31096,19 @@ Legend has it that Phoenixes are the companion birds of Ljust; they are certainl
 Legend says that phoenixes are generated when a Knight of Sumkjir or a Disciple of Light makes the ultimate sacrifice.
 
 Pit Fiend
-- **Size/Type**: Large devil, evil
-- **Ability**: Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7
-- **Hit Points**: 403,  **Defense:** 40,  **Initiative:** +6
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +27, Reflex +22, Will +24
-- **Damage Res.**: Cold;
-- **Damage Imm.**: Fire, Poison, weapons +2
-- **Vulnerabilities**: Light
-- **Senses**: truesight 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 20 (25000 XP)
+
+| **Size/Type** | Large devil, evil |
+| --- | --- |
+| **Ability** | Str 8 Dex 2 Con 7 Int 6 Wis 4 Cha 7 |
+| **Hit Points** | 403, **Defense:** 40, **Initiative:** +6 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +27, Reflex +22, Will +24 |
+| **Damage Res.** | Cold; |
+| **Dam. Imm.** | Fire, Poison, weapons +2 |
+| **Vulnerabilities** | Light |
+| **Senses** | truesight 36 m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 20 (25000 XP) |
 
 ***Magic Weapon.*** The pit fiend' \*\*s weapon attacks are magical.
 
@@ -29984,17 +31155,19 @@ Pit fiends are powerful infernal rulers, generals of Hell' \*\*s armies, and adv
 Pit fiends gather armies, transforming lemures into true devils and aim to conquer vulnerable demiplanes and mortal worlds. They obey the infernal hierarchy but can depose unworthy masters. Only the most powerful spellcasters dare to summon them, risking eternal damnation.
 
 Planetar Angel
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7
-- **Hit Points**: 325,  **Defense:** 38,  **Initiative:** +5
-- **Movement**: 12 m, fly 36 m
-- **Saving Throws**: Fortitude +23, Reflex +21, Will +22
-- **Skills**: Awareness +13
-- **Damage Res.**: Light;
-- **Immunities**: charmed, exhausted, frightened, +1 weapons
-- **Senses**: truesight 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 16 (15000 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 7 Dex 5 Con 7 Int 4 Wis 6 Cha 7 |
+| **Hit Points** | 325, **Defense:** 38, **Initiative:** +5 |
+| **Movement** | 12 m, fly 36 m |
+| **S. Throws** | Fortitude +23, Reflex +21, Will +22 |
+| **Skills** | Awareness +13 |
+| **Damage Res.** | Light; |
+| **Immunities** | charmed, exhausted, frightened, +1 weapons |
+| **Senses** | truesight 36 m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 16 (15000 XP) |
 
 ***Angelic Weapons.*** The planetar' \*\*s weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 5d8 Light damage (already indicated in the attack).
 
@@ -30035,13 +31208,15 @@ Organization: Solitary or pair
 Planetars are the generals of celestial armies dedicated to destroying evil. A planetar is typically 2.7 meters tall and weighs about 250 kg. They are excellent diplomats, but against fiends they prefer war rather than negotiating peace.
 
 Plesiosaur
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 6 m, swim 12 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Stealth +4, Perception +3
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 6 m, swim 12 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Perception +3 |
+| **Challenge** | 2 (450 XP) |
 
 ***Hold Breath.*** The plesiosaur can hold its breath for 1 hour.
 
@@ -30060,15 +31235,17 @@ Organization: Solitary, pair or pack (3-6)
 The plesiosaur is a long-necked aquatic reptile. Although technically not a dinosaur, this creature and its kind are often found hunting in lakes and oceans where dinosaurs are commonly found.
 
 Pseudodragon
-- **Size/Type**: Tiny dragon, good
-- **Ability**: Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 5 meters, flight 18 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4, Awareness +3
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: understands Common and Draconic but doesn' \*\*t speak
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Tiny dragon, good |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 1 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 5 meters, flight 18 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4, Awareness +3 |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | understands Common and Draconic but doesn' \*\*t speak |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Magic Resistance.*** The pseudodragon has +1d6 on Saving Throws against spells and other magical effects.
 
@@ -30099,13 +31276,15 @@ Pseudodragons are carnivores and eat insects, rodents, small birds, and snakes, 
 Upon reaching adulthood, a pseudodragon' \*\*s body is 30 centimeters long with a 60-centimeter tail, and weighs about 3.5 kg. A pseudodragon' \*\*s eggs are as large as chicken eggs, but of leather-like consistency and mottled brown, and females lay them in groups of 2-5 each spring. A nest of pseudodragons (which constitute a family group, and are not born from the same clutch of eggs) usually consists of a pair of adults and several nearly adult young.
 
 Purple Worm
-- **Size/Type**: Gargantuan monstrosity, unaligned
-- **Ability**: Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3
-- **Hit Points**: 303,  **Defense:** 30,  **Initiative:** -2
-- **Movement**: 15 m, burrow 9 m
-- **Saving Throws**: Fortitude +21, Reflex +13, Will +14
-- **Senses**: Blindsight 9 m, tremorsense 18 m
-- **Challenge**: 15 (13000 XP)
+
+| **Size/Type** | Gargantuan monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 9 Dex -2 Con 6 Int -5 Wis -1 Cha -3 |
+| **Hit Points** | 303, **Defense:** 30, **Initiative:** -2 |
+| **Movement** | 15 m, burrow 9 m |
+| **S. Throws** | Fortitude +21, Reflex +13, Will +14 |
+| **Senses** | Blindsight 9 m, tremorsense 18 m |
+| **Challenge** | 15 (13000 XP) |
 
 ***Tunnel Digger.*** The worm can burrow through solid rock at half the burrowing speed and leaves a 3-meter-diameter tunnel in its wake.
 
@@ -30140,18 +31319,20 @@ While searching for living creatures to devour, purple worms also swallow an eno
 A purple worm generally claims a large underground cavern as its lair, and although it returns there to rest and digest food, it spends most of its time seeking prey, digging through the endless darkness or sliding along pre-existing tunnels in constant search of food to satiate its immense hunger. Although almost devoid of intellect, purple worms are rarely stupid. They are widespread as guardians among those who can control them magically or have a room in their lair large enough to accommodate them.
 
 Quasit
-- **Size/Type**: Tiny demon, shapechanger, evil
-- **Ability**: Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Movement**: 12 m (3 m, flight 12 m in bat form; 12 m, climb 12 m in centipede form; 12 m, swim 12 m in toad form)
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +5
-- **Damage Res.**: Cold, Electricity, Fire; from non-magical weapons
-- **Damage Imm.**: Poison
-- **Vulnerabilities**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, Common
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Tiny demon, shapechanger, evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con 0 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Movement** | 12 m (3 m, flight 12 m in bat form; 12 m, climb 12 m in centipede form; 12 m, swim 12 m in toad form) |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +5 |
+| **Damage Res.** | Cold, Electricity, Fire; from non-magical weapons |
+| **Dam. Imm.** | Poison |
+| **Vulnerabilities** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 1 (200 XP) |
 
 ***Shapechanger.*** The demon can use an Action to transform into a bestial form of bat, centipede, or toad, or to return to its true form. Its statistics are the same in all forms, although attacks may vary for some of them. Any equipment it is wearing or carrying is not transformed. It returns to its true form upon death.
 
@@ -30180,16 +31361,18 @@ Unique among the demonic hordes, quasits are not born from the souls of deceased
 Newly created quasits come to life directly in the Material Plane, where they become familiars and, as long as they are subject to the will of their master, they hate and despise them, since they can perceive the pulsing of their soul and know they could aspire to something more. A quasit serves, yet observes and watches for mistakes that could cost its master' \*\*s life, or better, that allow it to turn against its own master. Upon the death of its master, the quasit often decides to remain in the Material Plane in search of other ways to amuse itself, usually settling in an urban area where there are many individuals to torment.
 
 Rakshasa
-- **Size/Type**: Medium fiend, evil
-- **Ability**: Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5
-- **Hit Points**: 259,  **Defense:** 32,  **Initiative:** +3
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +17, Reflex +16, Will +16
-- **Skills**: Deception +10, Sense Emotions +8
-- **Damage Imm.**: bludgeoning, +1 weapons
-- **Senses**: Darkvision 18 m
-- **Languages**: Common, Infernal
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Medium fiend, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 3 Con 4 Int 1 Wis 3 Cha 5 |
+| **Hit Points** | 259, **Defense:** 32, **Initiative:** +3 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +17, Reflex +16, Will +16 |
+| **Skills** | Deception +10, Sense Emotions +8 |
+| **Dam. Imm.** | bludgeoning, +1 weapons |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common, Infernal |
+| **Challenge** | 13 (10000 XP) |
 
 ***Limited Magic Immunity.*** The rakshasa is immune to effects or detection by spells of level 6 or lower unless it wishes to be subject to them. It has +1d6 on Saving Throws against all other spells and magical effects.
 
@@ -30225,16 +31408,18 @@ Rakshasas despise religions; they recognize the power of the gods, but see thems
 A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
 Red Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 89,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 9 m, climb 9 m, fly 18 m
-- **Saving Throws**: Fortitude +7, Reflex +4, Will +4
-- **Skills**: Stealth +2, Awareness +4
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 89, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 9 m, climb 9 m, fly 18 m |
+| **S. Throws** | Fortitude +7, Reflex +4, Will +4 |
+| **Skills** | Stealth +2, Awareness +4 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 4 (1100 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
@@ -30252,13 +31437,15 @@ Organization: Solitary
 See Ancient Red Dragon Description.
 
 Remorhaz
-- **Size/Type**: Huge monstrosity, unaligned
-- **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
-- **Hit Points**: 224,  **Defense:** 27,  **Initiative:** +1
-- **Movement**: 30 ft, burrow 20 ft
-- **Saving Throws**: Fortitude +16, Reflex +12, Will +11
-- **Senses**: Darkvision 60 ft, tremorsense 60 ft
-- **Challenge**: 11 (7200 XP)
+
+| **Size/Type** | Huge monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3 |
+| **Hit Points** | 224, **Defense:** 27, **Initiative:** +1 |
+| **Movement** | 30 ft, burrow 20 ft |
+| **S. Throws** | Fortitude +16, Reflex +12, Will +11 |
+| **Senses** | Darkvision 60 ft, tremorsense 60 ft |
+| **Challenge** | 11 (7200 XP) |
 
 ***Heated Body.*** A creature that comes into contact with the remorhaz or hits it with a melee attack while within 3 feet of it takes 10 (3d6) fire damage.
 
@@ -30287,15 +31474,17 @@ In a world of ice and snow, remohrazes are particularly feared for the terrible 
 Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 feet in length and weighs 11,000 pounds.
 
 Rug of Smothering
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 3 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: blinded, charmed, deafened, paralyzed, petrified, frightened
-- **Senses**: Blindsight 18 m (blind beyond this radius)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 0 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 3 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | blinded, charmed, deafened, paralyzed, petrified, frightened |
+| **Senses** | Blindsight 18 m (blind beyond this radius) |
+| **Challenge** | 2 (450 XP) |
 
 ***False Appearance.*** While the rug remains motionless, it is indistinguishable from a normal rug.
 
@@ -30308,15 +31497,17 @@ Rug of Smothering
 *Hit:* The creature is grappled (DC 14 to escape). Until the grapple ends, the target is blinded and at risk of suffocating, but the rug can' \*\*t smother another target. Also, at the start of each of the target' \*\*s turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
 Rust Monster
-- **Size/Type**: Medium Monstrosity, unaligned
-- **Ability**: Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 1/2 (100 XP)
 
-***Iron Scent.*** The rust monster can pinpoint, by scent, the exact location of ferrous metals within 120 feet.
+| **Size/Type** | Medium Monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 1/2 (100 XP) |
+
+***Iron Scent.*** The rust monster can pinpoint, by scent, the exact location of ferrous metals within 36 m.
 
 ***Rust Metal.*** Any nonmagical weapon made of metal that hits the rust monster corrodes after dealing damage. Nonmagical ammunition made of metal that hits the rust monster is considered destroyed after inflicting damage.
 
@@ -30346,21 +31537,23 @@ Although not inherently violent, their insatiable hunger drives them to charge a
 Fortunately, it' \*\*s often possible to escape the attention of a rust monster by throwing it a dense metal object, such as a shield, and running in the opposite direction. Those who frequent areas infested by rust monsters quickly learn to carry wooden or stone weapons.
 
 Sahuagin
-- **Size/Type**: Medium humanoid (sahuagin), evil
-- **Ability**: Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +1
-- **Movement**: 30 ft, swim 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Perception +5
-- **Senses**: Darkvision 120 ft
-- **Languages**: Sahuagin
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid (sahuagin), evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +1 |
+| **Movement** | 30 ft, swim 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Perception +5 |
+| **Senses** | Darkvision 120 ft |
+| **Languages** | Sahuagin |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Limited Amphibiousness.*** The sahuagin can breathe air and water, but must be submerged at least once every 4 hours to avoid suffocating.
 
 ***Blood Frenzy.*** The sahuagin has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
 
-***Shark Telepathy***. The sahuagin can magically command any shark within 120 feet of itself, using a limited form of telepathy.
+***Shark Telepathy***. The sahuagin can magically command any shark within 36 m of itself, using a limited form of telepathy.
 
 **Actions*Multiattack.*** The sahuagin can make two melee attacks: one with its bite and one with its claws or spear.
 
@@ -30392,15 +31585,17 @@ Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous ocean
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don' \*\*t appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
 Salamander
-- **Size/Type**: Large elemental, evil
-- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
-- **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +7, Reflex +7, Will +5
-- **Dmg. Res.**: from non-magical weapons
-- **Senses**: Darkvision 60 ft
-- **Languages**: Ignan
-- **Challenge**: 5 (1800 XP)
+
+**Size/Type** | Large elemental, evil
+--- | ---
+**Ability** | Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
+**Hit Points** | 107, **Defense:** 20, **Initiative:** +2
+**Movement** | 30 ft
+**S. Throws** | Fortitude +7, Reflex +7, Will +5
+**Dmg. Res.** | from non-magical weapons
+**Senses** | Darkvision 60 ft
+**Languages** | Ignan
+**Challenge** | 5 (1800 XP)
 
 ***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (already included in the attack).
 
@@ -30418,7 +31613,7 @@ Salamander
 
 **Reaction: *Opportunity Attack***: the salamander makes an attack against a creature that moves through or out of its 3-foot reach.
 
-***Enraged:*** the Salamander concentrates its flames in a ranged attack. A creature within 30 feet must make a Reflex Saving Throw DC 18 to halve the damage. The creature is hit by a globe of flames that causes 4d6 fire damage. Costs 2 Actions.
+***Enraged:*** the Salamander concentrates its flames in a ranged attack. A creature within 9 m must make a Reflex Saving Throw DC 18 to halve the damage. The creature is hit by a globe of flames that causes 4d6 fire damage. Costs 2 Actions.
 
 **Ecology**
 
@@ -30438,14 +31633,16 @@ Salamanders are often summoned to the Material Plane to serve as guardians or, m
 Living in such extreme areas, Salamanders possess only treasures that withstand high temperatures, such as Swords, Armor, jewelry, Rods, and other objects that have a high melting point. Salamander society is cruel and based on power and the ability to subjugate those inferior to them. Beings inferior to Salamanders who cause problems face a slow and painful death.
 
 Satyr
-- **Size/Type**: Medium fey, chaotic
-- **Ability**: Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2
-- **Hit Points**: 24,  **Defense:** 15,  **Initiative:** +3
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +5, Perform +6, Perception +2
-- **Languages**: Common, Elvish, Sylvan
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium fey, chaotic |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 24, **Defense:** 15, **Initiative:** +3 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +5, Perform +6, Perception +2 |
+| **Languages** | Common, Elvish, Sylvan |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Magic Resistance.*** The satyr has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -30478,15 +31675,17 @@ Besides constantly flirting, satyrs often serve as guardians of their forests, a
 Children born from these encounters are always full-blooded satyrs and are generally taken away by their unrestrained fathers immediately after birth.
 
 Scourger
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 3 m, climb 3 m
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +8
-- **Proficiencies**: Stealth +5, Perception +6
-- **Senses**: Darkvision 18 m
-- **Languages**: common, ancient languages (Latin, Greek, Celtic...)
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 3 Int 3 Wis 3 Cha -2 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 3 m, climb 3 m |
+| **S. Throws** | Fortitude +8, Reflex +4, Will +8 |
+| **Proficiencies** | Stealth +5, Perception +6 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | common, ancient languages (Latin, Greek, Celtic...) |
+| **Challenge** | 5 (1800 XP) |
 
 ***False Appearance.*** When the scourger remains motionless, it is indistinguishable from a normal rock formation, such as a stalagmite.
 
@@ -30527,14 +31726,16 @@ Despite its alien and monstrous form, the scourger is one of the most intelligen
 A scourger is 2.7 meters tall and weighs 1,100 kg.
 
 Sea Hag
-- **Size/Type**: Medium fey, evil
-- **Ability**: Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1
-- **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
-- **Movement**: 9 m, swim 12 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Common, Giant
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium fey, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 3 Int 1 Wis 1 Cha 1 |
+| **Hit Points** | 52, **Defense:** 15, **Initiative:** +1 |
+| **Movement** | 9 m, swim 12 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Common, Giant |
+| **Challenge** | 2 (450 XP) |
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -30567,17 +31768,19 @@ Sea hags prefer to live near the shoreline where fishing boats and merchant ship
 Sea hags form covens similar to those of other hags, but their aquatic nature generally leads them to refrain from forming mixed covens. In cases where a Green Hag lives along the coast (often in a brackish swamp or coastal marsh), a coven is formed by two sea hags who respect the Green Hag as mother and leader. Very commonly, a coven of sea hags consists of a group of particularly friendly and close sea hags.
 
 Shadow
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +4 (+6 in dim light or darkness)
-- **Damage Res.**: Acid, Cold, Electricity, Fire, Sound; non-magical weapons
-- **Damage Imm.**: Void, Poison
-- **Immunities**: grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding
-- **Senses**: Darkvision 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 1 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +4 (+6 in dim light or darkness) |
+| **Damage Res.** | Acid, Cold, Electricity, Fire, Sound; non-magical weapons |
+| **Dam. Imm.** | Void, Poison |
+| **Immunities** | grappled, restrained, paralyzed, petrified, prone, fatigued, frightened, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Amorphous.*** The shadow can move through a space as narrow as 3 centimeters without squeezing.
 
@@ -30608,17 +31811,19 @@ Organization: Solitary, pair, group (3-6) or swarm (7-12)
 The evil shadow moves along the border between the darkness of the shadows and the harsh truth of light. The shadow prefers to haunt the ruins that civilization leaves behind, where it hunts living creatures foolish enough to stumble into its territory. The shadow is a horrible undead, and as such has no apparent purposes or motivations beyond sucking life force and vitality from living beings.
 
 Shambling Mound
-- **Size/Type**: Large plant, unaligned
-- **Ability**: Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 6 m, swim 6 m
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
-- **Skills**: Stealth +2
-- **Damage Resistance**: Cold, Fire
-- **Damage Immunity**: Lightning
-- **Immunities**: blinded, deafened, fatigued
-- **Senses**: Blindsight 18 m (blind beyond this radius)
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large plant, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 3 Int -3 Wis 0 Cha -3 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 6 m, swim 6 m |
+| **S. Throws** | Fortitude +8, Reflex +4, Will +5 |
+| **Skills** | Stealth +2 |
+| **Damage Resistance** | Cold, Fire |
+| **Damage Immunity** | Lightning |
+| **Immunities** | blinded, deafened, fatigued |
+| **Senses** | Blindsight 18 m (blind beyond this radius) |
+| **Challenge** | 5 (1800 XP) |
 
 ***Lightning Absorption.*** Whenever the shambling mound takes lightning damage, it takes no damage and regains a number of Hit Points equal to the lightning damage dealt.
 
@@ -30649,16 +31854,18 @@ Shambling mounds are incredibly stealthy in their natural environment. They blen
 Shambling mounds usually lead a nomadic and solitary existence in deep forests and fetid swamps but can also be found underground, amid groves of fungi. Disturbing rumors speak of groups of shambling mounds gathering around large mounds in the depths of jungles and swamps, often during violent lightning storms. The reason for this behavior is unknown, and many sages wonder if there isn' \*\*t some dark and alien purpose behind it.
 
 Shield Guardian
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4
-- **Hit Points**: 146,  **Defense:** 20,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +11, Reflex +6, Will +7
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, paralyzed, fatigued, frightened
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: understands commands given in any language but cannot speak
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex -1 Con 4 Int -2 Wis 0 Cha -4 |
+| **Hit Points** | 146, **Defense:** 20, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +11, Reflex +6, Will +7 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, paralyzed, fatigued, frightened |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | understands commands given in any language but cannot speak |
+| **Challenge** | 7 (2900 XP) |
 
 ***Spell Storing.*** A spellcaster who wears the shield guardian' \*\*s amulet can cause the guardian to store a spell of 4th level or lower. To do so, the spellcaster must cast the spell on the guardian. The spell has no effect but is stored within the guardian. When commanded to do so by the wearer of the amulet or when a predefined situation arises set by the spellcaster, the guardian casts the stored spell with all parameters set by the original caster, requiring no components. When the spell is cast or any new spell is stored, any previously stored spell is lost.
 
@@ -30677,14 +31884,16 @@ Shield Guardian
 **Reaction: *Shield.*** When a creature attacks the wearer of the guardian' \*\*s amulet, the guardian grants a +2 bonus to its Defense, if within 1 meter of its controller.
 
 Shrieking Fungus
-- **Size/Type**: Medium plant, unaligned
-- **Ability**: Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5
-- **Hit Points**: 15,  **Defense:** 7,  **Initiative:** -5
-- **Movement**: 0 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Immunities**: blinded, deafened, frightened
-- **Senses**: Blindsight 9 m (blind beyond this range)
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium plant, unaligned |
+| --- | --- |
+| **Ability** | Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 15, **Defense:** 7, **Initiative:** -5 |
+| **Movement** | 0 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Immunities** | blinded, deafened, frightened |
+| **Senses** | Blindsight 9 m (blind beyond this range) |
+| **Challenge** | 0 (10 XP) |
 
 ***False Appearance.*** While the shrieking fungus remains motionless, it is indistinguishable from a normal fungus.
 
@@ -30703,18 +31912,20 @@ A shrieking fungus is about 50 cm tall, with a broad brown cap. Once it has emit
 It is said that cooks of the depths specialize in cooking these mushrooms into exquisite dishes. The most skilled ones can even manage not to deflate the cap.
 
 Silku
-- **Size/Type**: Medium demon, evil
-- **Ability**: Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 52,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Stealth +2, Deception +5
-- **Damage Res.**: Cold, Electricity; from non-magical or non-silvered weapons
-- **Damage Imm.**: Poison
-- **Vulnerabilities**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, Common
-- **Challenge**: 2 (200 XP)
+
+| **Size/Type** | Medium demon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 52, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Stealth +2, Deception +5 |
+| **Damage Res.** | Cold, Electricity; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Poison |
+| **Vulnerabilities** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 2 (200 XP) |
 
 ***Magic Resistance.*** The demon has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -30740,16 +31951,18 @@ I widened my eyes and stepped back, as terror took hold of me. Their faces weren
 From *The Guardian of Falkonia*, novel by Federica Angeli
 
 Silver Dragon Wyrmling
-- **Size/Type**: Medium dragon, good
-- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +1
-- **Movement**: 9 m, fly 18 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Skills**: Stealth +2, Awareness +4
-- **Dmg. Imm.**: Cold
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +1 |
+| **Movement** | 9 m, fly 18 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Awareness +4 |
+| **Dmg. Imm.** | Cold |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -30772,17 +31985,19 @@ Organization: Solitary
 Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
 
 Skeleton
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 30 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Dmg. Res.**: piercing, slashing
-- **Dmg. Imm.**: Poison
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 60 ft
-- **Languages**: understands all languages it knew in life but cannot speak
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 30 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dmg. Res.** | piercing, slashing |
+| **Dmg. Imm.** | Poison |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | understands all languages it knew in life but cannot speak |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
@@ -30803,17 +32018,19 @@ Organization: Any
 Skeletons are animated bones of the dead, brought to unlife by sacrilegious magic. For the most part, skeletons are mindless automatons.
 
 Solar Angel
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10
-- **Hit Points**: 426,  **Defense:** 46,  **Initiative:** +7
-- **Movement**: 15 m, fly 45 m
-- **Saving Throws**: Fortitude +29, Reflex +27, Will +28
-- **Skills**: Awareness +16
-- **Damage Res.**: Light; Fire, Cold, Electricity
-- **Immunities**: charmed, poisoned, exhausted, frightened, +2 weapons
-- **Senses**: truesight 36 m
-- **Languages**: all, telepathy 36 m
-- **Challenge**: 21 (33000 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 8 Dex 6 Con 8 Int 7 Wis 7 Cha 10 |
+| **Hit Points** | 426, **Defense:** 46, **Initiative:** +7 |
+| **Movement** | 15 m, fly 45 m |
+| **S. Throws** | Fortitude +29, Reflex +27, Will +28 |
+| **Skills** | Awareness +16 |
+| **Damage Res.** | Light; Fire, Cold, Electricity |
+| **Immunities** | charmed, poisoned, exhausted, frightened, +2 weapons |
+| **Senses** | truesight 36 m |
+| **Languages** | all, telepathy 36 m |
+| **Challenge** | 21 (33000 XP) |
 
 ***Angelic Weapons.*** The solar' \*\*s weapon attacks are magical. When it hits with any weapon, the weapon deals an extra 6d8 Light damage (already included in the attack).
 
@@ -30870,17 +32087,19 @@ Solars who spend time on the Material Plane can influence human bloodlines, crea
 Respected by all angels, solars sometimes command armies against the legions of Hell and the hordes of the Abyss.
 
 Specter
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Movement**: 0 ft, fly 50 ft, hover
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Skills**: Stealth +8,Perception +3
-- **Dmg. Res.**: Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons
-- **Immunities**: charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained
-- **Senses**: Darkvision 60 ft
-- **Languages**: Expiran
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Movement** | 0 ft, fly 50 ft, hover |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Skills** | Stealth +8,Perception +3 |
+| **Dmg. Res.** | Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons |
+| **Immunities** | charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Expiran |
+| **Challenge** | 1 (200 XP) |
 
 **Incorporeal Movement**. The specter can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) damage if it ends its turn inside an object.
 
@@ -30903,17 +32122,19 @@ Specters are evil undead that hate sunlight and living beings. Their genesis is 
 A specter closely resembles how it was in life and can be easily recognized by those who knew the individual or had seen its face in paintings or drawings.
 
 Spined Devil
-- **Size/Type**: Small devil, evil
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 6 m, flight 12 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +4
-- **Damage Res.**: Cold; from non-magical or non-silvered weapons
-- **Damage Imm.**: Fire, Poison
-- **Vulnerabilities**: silver, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Infernal, telepathy 36 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Small devil, evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 2 Cha -1 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 6 m, flight 12 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +4 |
+| **Damage Res.** | Cold; from non-magical or non-silvered weapons |
+| **Dam. Imm.** | Fire, Poison |
+| **Vulnerabilities** | silver, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Infernal, telepathy 36 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Magic Resistance.*** The devil has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -30950,16 +32171,18 @@ Spined Devils are collectors and organizers. If left to act freely, these devils
 Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lean, muscular bodies appear larger due to the constantly growing spikes that protrude from their bodies, sharp as blades.
 
 Spirit Naga
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
-- **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
-- **Movement**: 40 ft
-- **Saving Throws**: Fortitude +10, Reflex +11, Will +10
-- **Damage Imm.**: Poison
-- **Condition Imm.**: charmed
-- **Senses**: Darkvision 60 ft
-- **Languages**: Abyssal, Common
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3 |
+| **Hit Points** | 162, **Defense:** 25, **Initiative:** +3 |
+| **Movement** | 40 ft |
+| **S. Throws** | Fortitude +10, Reflex +11, Will +10 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | charmed |
+| **Senses** | Darkvision 60 ft |
+| **Languages** | Abyssal, Common |
+| **Challenge** | 8 (3900 XP) |
 
 ***Spellcasting.*** The naga has MC 10. Its spellcasting ability is Intelligence (+6 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
@@ -30984,14 +32207,16 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 **Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
 
 Sprite
-- **Size/Type**: Tiny fey, good
-- **Ability**: Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Movement**: 10 ft, fly 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3
-- **Languages**: Common, Elvish, Sylvan
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Tiny fey, good |
+| --- | --- |
+| **Ability** | Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 16, **Initiative:** +4 |
+| **Movement** | 10 ft, fly 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3 |
+| **Languages** | Common, Elvish, Sylvan |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Longsword.** Melee Weapon Attack*: +3 to hit,
 
@@ -31019,15 +32244,17 @@ In many ways, sprites are more primitive than most fey. They appreciate the comp
 Although sprites themselves have an uncultivated and wild nature, they have a healthy curiosity for all things with innate magic. They are particularly attracted to places of great latent magical power, such as the ruins of ancient temples. This curiosity also makes them unusually suited to the role of familiars. A chaotic 5th-level spellcaster can obtain a sprite as a familiar if they have the Familiar Feat.
 
 Steam Mephit
-- **Size/Type**: Small elemental, evil
-- **Ability**: Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 9 m, fly 9 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 18 m
-- **Languages**: Aquan, Ignan
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small elemental, evil |
+| --- | --- |
+| **Ability** | Str -3 Dex 0 Con 0 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 9 m, fly 9 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Aquan, Ignan |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Innate Spellcasting (1/Day).*** The mephit can innately cast *Blur*, requiring no material components. Its innate spellcasting ability is Charisma.
 
@@ -31054,13 +32281,15 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 Steam mephits are commonly found on the Plane of Fire. These mephits are insolent and contemptuous.
 
 Stirge
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Movement**: 10 ft, fly 40 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Movement** | 10 ft, fly 40 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 1/8 (25 XP) |
 
 **Actions*Blood Drain.** Melee Weapon Attack*: +3 to hit, reach 3 ft, one creature.
 
@@ -31084,15 +32313,17 @@ More similar to mammals than insects, stirges take flight with their four fleshy
 Stirges are usually about 12 inches long, with a wingspan of about twice that, and weigh less than 1 pound. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
 
 Stone Giant
-- **Size/Type**: Huge giant, neutral
-- **Ability**: Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1
-- **Hit Points**: 148,  **Defense:** 23,  **Initiative:** +2
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +12, Reflex +9, Will +8
-- **Skills**: Athletics +12
-- **Senses**: Darkvision 18 m
-- **Languages**: Giant
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Huge giant, neutral |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 5 Int 0 Wis 1 Cha -1 |
+| **Hit Points** | 148, **Defense:** 23, **Initiative:** +2 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +12, Reflex +9, Will +8 |
+| **Skills** | Athletics +12 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Giant |
+| **Challenge** | 7 (2900 XP) |
 
 ***Stone Camouflage.*** The giant has +1d6 on Stealth (Hiding) checks made to hide in rocky terrain.
 
@@ -31132,16 +32363,18 @@ Stone giants prefer to live in huge caves on rocky peaks. They rarely live more 
 Older stone giants tend to move away from the tribe for long periods, to live in solitude somewhere or attempting to fit into other humanoid civilizations. After decades of self-imposed exile, those who return are known as Stone Giants Elders.
 
 Stone Golem
-- **Size/Type**: Large construct, unaligned
-- **Ability**: Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5
-- **Hit Points**: 205,  **Defense:** 24,  **Initiative:** -1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +15, Reflex +9, Will +10
-- **Damage Imm.**: Poison
-- **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
-- **Senses**: Darkvision 36 m
-- **Languages**: understands the languages of its creator but cannot speak
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large construct, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 5 Int -4 Wis 0 Cha -5 |
+| **Hit Points** | 205, **Defense:** 24, **Initiative:** -1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +15, Reflex +9, Will +10 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | charmed, paralyzed, petrified, fatigued, frightened |
+| **Senses** | Darkvision 36m |
+| **Languages** | understands the languages of its creator but cannot speak |
+| **Challenge** | 10 (5900 XP) |
 
 ***Damage Reduction.*** The clay golem has hardness 10/- against non-magical weapons.
 
@@ -31181,16 +32414,18 @@ There are numerous variants of Stone Golems, depending on the materials they are
 The body of a stone golem is carved from a single block of hard stone, such as granite, weighing at least 1,500 kg. The stone must be of exceptional quality, and cost 5000 gp.
 
 Storm Giant
-- **Size/Type**: Huge giant, good
-- **Ability**: Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4
-- **Hit Points**: 262,  **Defense:** 31,  **Initiative:** +3
-- **Movement**: 15 m, swim 15 m
-- **Saving Throws**: Fortitude +18, Reflex +15, Will +17
-- **Skills**: Arcana +8, Athletics +14, History +8
-- **Damage Res.**: Cold
-- **Damage Imm.**: Lightning, Thunder
-- **Languages**: Common, Giant
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Huge giant, good |
+| --- | --- |
+| **Ability** | Str 9 Dex 2 Con 5 Int 3 Wis 4 Cha 4 |
+| **Hit Points** | 262, **Defense:** 31, **Initiative:** +3 |
+| **Movement** | 15 m, swim 15 m |
+| **S. Throws** | Fortitude +18, Reflex +15, Will +17 |
+| **Skills** | Arcana +8, Athletics +14, History +8 |
+| **Damage Res.** | Cold |
+| **Dam. Imm.** | Lightning, Thunder |
+| **Languages** | Common, Giant |
+| **Challenge** | 13 (10000 XP) |
 
 ***Amphibious.*** The giant can breathe air and water.
 
@@ -31235,17 +32470,19 @@ As their name suggests, they are prone to violent mood swings. Storm giants are 
 Storm giants live in beautiful towers, castles, or in walled settlements and love to cultivate the land. They own huge well-tended gardens and manage hundreds of acres of crops per group. They often employ other humanoids, such as Elves or Humans, as support to run their immense farms. A storm giant enclave often takes responsibility for the security of an entire island or coastline.
 
 Succubus
-- **Size/Type**: Medium demon, evil
-- **Ability**: Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5
-- **Hit Points**: 87,  **Defense:** 20,  **Initiative:** +3
-- **Movement**: 9 m, flight 18 m
-- **Saving Throws**: Fortitude +5, Reflex +7, Will +5
-- **Skills**: Stealth +5, Detect Emotions +5, Awareness +5, Deception +9
-- **Damage Res.**: Cold, Electricity, Fire, Poison; from non-magical weapons
-- **Senses**: Darkvision 18 m
-- **Vulnerabilities**: cold iron, Light
-- **Languages**: Abyssal, Common, Infernal, telepathy 18 m
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium demon, evil |
+| --- | --- |
+| **Ability** | Str -1 Dex 3 Con 1 Int 2 Wis 1 Cha 5 |
+| **Hit Points** | 87, **Defense:** 20, **Initiative:** +3 |
+| **Movement** | 9 m, flight 18 m |
+| **S. Throws** | Fortitude +5, Reflex +7, Will +5 |
+| **Skills** | Stealth +5, Detect Emotions +5, Awareness +5, Deception +9 |
+| **Damage Res.** | Cold, Electricity, Fire, Poison; from non-magical weapons |
+| **Senses** | Darkvision 18 m |
+| **Vulnerabilities** | cold iron, Light |
+| **Languages** | Abyssal, Common, Infernal, telepathy 18 m |
+| **Challenge** | 4 (1100 XP) |
 
 ***Telepathic Bond.*** The fiend ignores range restrictions of its telepathy when communicating with a creature it has charmed. The two don' \*\*t even need to be on the same plane of existence.
 
@@ -31274,15 +32511,17 @@ Organization: Solitary, pair, or harem (3-12)
 Among the demonic hordes, a succubus can often reach very high levels of power, using her manipulations and sensual charm, and many demonic wars rage because of the subtle machinations of these creatures. A succubus originates from the souls of particularly libidinous and greedy evil mortals.
 
 Tarrasque
-- **Size/Type**: Colossal monstrosity, unaligned
-- **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
-- **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +0
-- **Movement**: 80 ft
-- **Saving Throws**: Fortitude +40, Reflex +30, Will +30
-- **Dmg. Imm.**: Fire, Poison, Electricity; +2 weapons
-- **Immunities**: charmed, paralyzed, frightened, fatigued
-- **Senses**: Blindsight 120 ft
-- **Challenge**: 30 (155000 XP)
+
+| **Size/Type** | Colossal monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0 |
+| **Hit Points** | 615, **Defense:** 52, **Initiative:** +0 |
+| **Movement** | 80 ft |
+| **S. Throws** | Fortitude +40, Reflex +30, Will +30 |
+| **Dmg. Imm.** | Fire, Poison, Electricity; +2 weapons |
+| **Immunities** | charmed, paralyzed, frightened, fatigued |
+| **Senses** | Blindsight 120 ft |
+| **Challenge** | 30 (155000 XP) |
 
 ***Reflective Carapace.*** Each time the Tarrasque is targeted by a *Arcane dart or Lightning Bolt* spell, it is ignored and reflected at the origin. For other line spells, or spells that require a ranged attack roll, roll a d6. On a 1-5, the Tarrasque ignores it. On a 6, the Tarrasque ignores it, and the effect is reflected at the caster as if it originated from the Tarrasque, turning the caster into the target.
 
@@ -31343,13 +32582,15 @@ Though not particularly intelligent, the Tarrasque is smart enough to understand
 Legend says that the Tarrasque is Cattalm' \*\*s pet.
 
 Tentacled Crawler Worm
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3
-- **Hit Points**: 89,  **Defense:** 18,  **Initiative:** +1
-- **Movement**: 9 m, climb 9 m
-- **Saving Throws**: Fortitude +7, Reflex +5, Will +5
-- **Senses**: Darkvision 18 m
-- **Challenge**: 4 (1000 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 89, **Defense:** 18, **Initiative:** +1 |
+| **Movement** | 9 m, climb 9 m |
+| **S. Throws** | Fortitude +7, Reflex +5, Will +5 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 4 (1000 XP) |
 
 ***Spider Climb.*** The Tentacled Crawler Worm can climb difficult surfaces, including upside down on ceilings, without needing to make a skill check.
 
@@ -31380,14 +32621,16 @@ They are voracious creatures that don' \*\*t miss an opportunity to hunt and dev
 The origins of the Tentacled Crawler Worms are rather speculative; some hypothesize that a spellcaster tried, as usual, critically failing, to transform into a Purple Worm; others firmly believe that Shayalia' \*\*s gardens needed more fertilization, and so the Patron transformed ordinary earthworms into these terrifying creatures to devour and digest buried corpses.
 
 Tree Man (Arborom)
-- **Size/Type**: Huge plant, good
-- **Ability**: Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1
-- **Hit Points**: 186,  **Defense:** 23,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +14, Reflex +8, Will +12
-- **Damage Res.**: bludgeoning, piercing
-- **Languages**: Common, Druidic, Elvish, Sylvan
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge plant, good |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 5 Int 1 Wis 3 Cha 1 |
+| **Hit Points** | 186, **Defense:** 23, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +14, Reflex +8, Will +12 |
+| **Damage Res.** | bludgeoning, piercing |
+| **Languages** | Common, Druidic, Elvish, Sylvan |
+| **Challenge** | 9 (5000 XP) |
 
 ***False Appearance.*** While the tree man remains motionless, it is indistinguishable from a normal tree.
 
@@ -31426,12 +32669,14 @@ A typical Arborom is 9 meters tall, with a trunk 60 centimeters in diameter, and
 Arboroms are said to be created by the will of Efrem.
 
 Triceratops
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** -1 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +8, Reflex +4, Will +5 |
+| **Challenge** | 5 (1800 XP) |
 
 ***Trampling Charge.*** If the triceratops moves at least 6 meters straight toward a creature and then hits it with a gore attack during the same round, the target must succeed on a DC 19 Fortitude Saving Throw or be knocked prone. If the target is prone, the triceratops can make a stomp attack against it as an Immediate Action.
 
@@ -31456,14 +32701,16 @@ Organization: Solitary, pair or herd (5-8)
 The triceratops is an irascible and stubborn herbivore. A typical triceratops is 9 meters long and weighs 10000 kg.
 
 Troll
-- **Size/Type**: Large giant, evil
-- **Ability**: Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2
-- **Hit Points**: 110,  **Defense:** 19,  **Initiative:** +1
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +4
-- **Senses**: Darkvision 18 m
-- **Languages**: Giant
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large giant, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 1 Con 5 Int -2 Wis -1 Cha -2 |
+| **Hit Points** | 110, **Defense:** 19, **Initiative:** +1 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +4 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Giant |
+| **Challenge** | 5 (1800 XP) |
 
 ***Keen Smell.*** The troll has +1d6 to Awareness checks based on smell.
 
@@ -31496,12 +32743,14 @@ Despite their ferocity, trolls are extraordinarily tender and gentle toward thei
 It is universally known that trolls can naturally mutate, temporarily acquiring the most peculiar characteristics of the creatures they feed on. You have no idea how funny a Pegasustroll can be...
 
 Tyrannosaurus
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1
-- **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +0
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +12, Reflex +8, Will +9
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex 0 Con 4 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 165, **Defense:** 22, **Initiative:** +0 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +12, Reflex +8, Will +9 |
+| **Challenge** | 8 (3900 XP) |
 
 **Actions*Multiattack.*** The tyrannosaurus makes two attacks: one with its bite and one with its tail. It cannot make both attacks against the same target.
 
@@ -31532,17 +32781,19 @@ Organization: Solitary, pair or pack (3-6)
 The tyrannosaurus is a primary predator that measures 12 meters in length and weighs 7000 kg.
 
 Tàhil
-- **Size/Type**: Colossal dragon, Patron
-- **Ability**: Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9
-- **Hit Points**: 615,  **Defense:** 52,  **Initiative:** +8
-- **Movement**: 65 feet, fly 65 feet
-- **Saving Throws**: Fortitude +40, Reflex +30, Will +38
-- **Skills**: all +18
-- **Damage Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
-- **Immune**: charmed, paralyzed, fatigued, frightened
-- **Senses**: Darkvision 200 ft, True Seeing 135 ft
-- **Languages**: all
-- **Challenge**: 30 (155000 XP)
+
+| **Size/Type** | Colossal dragon, Patron |
+| --- | --- |
+| **Ability** | Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9 |
+| **Hit Points** | 615, **Defense:** 52, **Initiative:** +8 |
+| **Movement** | 65 feet, fly 65 feet |
+| **S. Throws** | Fortitude +40, Reflex +30, Will +38 |
+| **Skills** | all +18 |
+| **Dam. Imm.** | Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons |
+| **Immune** | charmed, paralyzed, fatigued, frightened |
+| **Senses** | Darkvision 200 ft, True Seeing 135 ft |
+| **Languages** | all |
+| **Challenge** | 30 (155000 XP) |
 
 ***Destructive Aura.*** The dragon emits within a 20-foot radius an aura that causes 1 cumulative force damage per round of exposure. The damage resets after 1 hour away.
 
@@ -31603,16 +32854,18 @@ Organization: Unique
 Tàhil is the embodied Patron of Dragons. Nothing can withstand his fury, madness, rage, and destruction. Tàhil is a gargantuan creature with 7 dragon heads, each colored differently, each representing a color of a Dragon. See the Cosmology chapter for details of his history.
 
 Unicorn
-- **Size/Type**: Large celestial, good
-- **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3
-- **Hit Points**: 107,  **Defense:** 20,  **Initiative:** +2
-- **Movement**: 15 m
-- **Saving Throws**: Fortitude +7, Reflex +7, Will +8
-- **Damage Imm.**: Poison
-- **Condition Imm.**: charmed, paralyzed
-- **Senses**: Darkvision 18 m
-- **Languages**: Celestial, Elvish, Sylvan, telepathy 18 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Large celestial, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int 0 Wis 3 Cha 3 |
+| **Hit Points** | 107, **Defense:** 20, **Initiative:** +2 |
+| **Movement** | 15 m |
+| **S. Throws** | Fortitude +7, Reflex +7, Will +8 |
+| **Dam. Imm.** | Poison |
+| **Condition Imm.** | charmed, paralyzed |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Celestial, Elvish, Sylvan, telepathy 18 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Magic Weapons.*** The unicorn' \*\*s weapon attacks are magical.
 
@@ -31663,17 +32916,19 @@ Unicorns are intelligent and solitary creatures that inhabit forests, appearing 
 The unicorn' \*\*s horn is the source of its magical powers, and evil creatures place great value on these horns for their dark rituals and healing potions. On rare occasions, unicorns whose partner has been killed choose virtuous young women as substitutes, allowing them to ride them and become their guardians for life.
 
 Vampire
-- **Size/Type**: Medium undead (shapechanger), evil
-- **Ability**: Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4
-- **Hit Points**: 259,  **Defense:** 33,  **Initiative:** +4
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +17, Reflex +17, Will +15
-- **Skills**: Stealth +9, Awareness +17
-- **Damage Imm.**: from Void; Poison, from non-magical weapons
-- **Condition Imm.**: charmed, deafened, bleeding
-- **Senses**: Darkvision 36 m
-- **Languages**: the languages it knew in life, Expiran
-- **Challenge**: 13 (10000 XP)
+
+| **Size/Type** | Medium undead (shapechanger), evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 4 Con 4 Int 3 Wis 2 Cha 4 |
+| **Hit Points** | 259, **Defense:** 33, **Initiative:** +4 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +17, Reflex +17, Will +15 |
+| **Skills** | Stealth +9, Awareness +17 |
+| **Dam. Imm.** | from Void; Poison, from non-magical weapons |
+| **Condition Imm.** | charmed, deafened, bleeding |
+| **Senses** | Darkvision 36m |
+| **Languages** | the languages it knew in life, Expiran |
+| **Challenge** | 13 (10000 XP) |
 
 ***Shapechanger.*** If the vampire isn' \*\*t in sunlight or running water, it can use an Action to transform into a Tiny bat, a Medium mist, or back to its true form.
 
@@ -31743,16 +32998,18 @@ Organization: Solitary or family (vampire plus 2-8 Spawn)
 Vampires are undead humanoid creatures that feed on the blood of the living. They look very similar to when they were alive, often becoming more attractive, although some appear harsh and feral instead.
 
 Vampire Spawn
-- **Size/Type**: Medium undead, evil
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +9, Reflex +9, Will +6
-- **Ability**: Str 3 Dex 3 Con 3 Int 0 Wis 0 Cha 1
-- **Hit Points**: 126,  **Defense:** 23,  **Initiative:** +3
-- **Skills**: Stealth +6
-- **Damage Res.**: from Void; from non-magical weapons
-- **Senses**: Darkvision 18 m
-- **Languages**: the languages it knew in life
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +9, Reflex +9, Will +6 |
+| **Ability** | Str 3 Dex 3 Con 3 Int 0 Wis 0 Cha 1 |
+| **Hit Points** | 126, **Defense:** 23, **Initiative:** +3 |
+| **Skills** | Stealth +6 |
+| **Damage Res.** | from Void; from non-magical weapons |
+| **Senses** | Darkvision 18 m |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 6 (2300 XP) |
 
 ***Vampire Spawn Weaknesses.*** The Vampire Spawn has the following flaws:
 
@@ -31793,14 +33050,16 @@ Organization: Solitary, pair, group (3-6) or mob (7-12)
 A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
 Violet Fungus
-- **Size/Type**: Medium plant, unaligned
-- **Ability**: Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5
-- **Hit Points**: 19,  **Defense:** 7,  **Initiative:** -5
-- **Movement**: 2 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Immunities**: blinded, deafened, frightened
-- **Senses**: Blindsight 9 m (blind beyond this range)
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium plant, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex -5 Con 0 Int -5 Wis -4 Cha -5 |
+| **Hit Points** | 19, **Defense:** 7, **Initiative:** -5 |
+| **Movement** | 2 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Immunities** | blinded, deafened, frightened |
+| **Senses** | Blindsight 9 m (blind beyond this range) |
+| **Challenge** | 1/4 (50 XP) |
 
 ***False Appearance.*** While the violet fungus remains motionless, it is indistinguishable from a normal fungus.
 
@@ -31829,17 +33088,19 @@ Some species of Shrieking Boletes have an appearance quite similar to that of vi
 A violet fungus is 1.2 meters tall and weighs 25 kg.
 
 Vrock
-- **Size/Type**: Large demon, evil
-- **Ability**: Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1
-- **Hit Points**: 127,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m, flight 18 m
-- **Saving Throws**: Fortitude +10, Reflex +8, Will +7
-- **Damage Res.**: Cold, Electricity, Fire; from non-magical weapons
-- **Damage Imm.**: Poison
-- **Vulnerabilities**: cold iron, Light
-- **Senses**: Darkvision 36 m
-- **Languages**: Abyssal, telepathy 36 m
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large demon, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 4 Int -1 Wis 1 Cha -1 |
+| **Hit Points** | 127, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m, flight 18 m |
+| **S. Throws** | Fortitude +10, Reflex +8, Will +7 |
+| **Damage Res.** | Cold, Electricity, Fire; from non-magical weapons |
+| **Dam. Imm.** | Poison |
+| **Vulnerabilities** | cold iron, Light |
+| **Senses** | Darkvision 36m |
+| **Languages** | Abyssal, telepathy 36 m |
+| **Challenge** | 6 (2300 XP) |
 
 ***Magic Resistance.*** The demon has +1d6 to Saving Throws against spells and other magical effects.
 
@@ -31873,14 +33134,16 @@ Organization: Solitary, pair, or band (3-10)
 A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually originate from the souls of evil mortals filled with hatred and anger, particularly those who were professional criminals, mercenaries, or assassins.
 
 Wall Crawler Horror
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Movement**: 9 m, climb 9 m
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +4
-- **Senses**: Darkvision 3 m, Blindsight 18 m
-- **Languages**: Wall Crawler Horror
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +0 |
+| **Movement** | 9 m, climb 9 m |
+| **S. Throws** | Fortitude +5, Reflex +3, Will +4 |
+| **Senses** | Darkvision 3 m, Blindsight 18 m |
+| **Languages** | Wall Crawler Horror |
+| **Challenge** | 3 (700 XP) |
 
 ***Radar Sense.*** The Wall Crawler Horror can' \*\*t use blindsight if it is deafened.
 
@@ -31911,16 +33174,18 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 *Solidarity Clans*. The hooked horrors live in vast family groups or clans. Each clan is ruled by the oldest female, who usually places her mate in charge of the clan' \*\*s hunters. The Wall Crawler Horrors lay their eggs in a central, well-defended area of the caverns used as a lair.
 
 Warhorse Skeleton
-- **Size/Type**: Large undead, evil
-- **Ability**: Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Movement**: 60 ft
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Dmg. Res.**: piercing, slashing
-- **Dmg. Imm.**: Poison
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 60 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large undead, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Movement** | 60 ft |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dmg. Res.** | piercing, slashing |
+| **Dmg. Imm.** | Poison |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 60 ft |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
@@ -31929,15 +33194,17 @@ Warhorse Skeleton
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
 Werebear
-- **Size/Type**: Medium humanoid (human, shapechanger), good
-- **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1
-- **Hit Points**: 108,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 9 m (12 m, climb 9 m in bear form or hybrid form)
-- **Saving Throws**: Fortitude +8, Reflex +5, Will +6
-- **Skills**: Awareness +7
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Languages**: Common (can' \*\*t speak in bear form)
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), good |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 0 Wis 1 Cha 1 |
+| **Hit Points** | 108, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 9 m (12 m, climb 9 m in bear form or hybrid form) |
+| **S. Throws** | Fortitude +8, Reflex +5, Will +6 |
+| **Skills** | Awareness +7 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Languages** | Common (can' \*\*t speak in bear form) |
+| **Challenge** | 5 (1800 XP) |
 
 ***Shapechanger.*** The werebear can use one Action to transform into a bear-humanoid hybrid or into a bear, or back into its true form, which is humanoid. Its statistics, other than its Defense, are the same in all forms. Any equipment it is wearing or carrying isn' \*\*t transformed. It reverts to its true form when it dies.
 
@@ -31968,14 +33235,16 @@ Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizz
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with rough features and dark eyes. They have red, brown, or black hair and appear accustomed to a life of hard work. Though the most benign of the lycanthropes, they are avoided by most normal people, who fear their animal transformation. For the most part they live in isolated woodland areas or in small family units of their own kind. They avoid confronting strangers, but they don' \*\*t hesitate if they must drive evil humanoids from their territories.
 
 Wereboar
-- **Size/Type**: Medium humanoid, shapechanger, evil
-- **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1
-- **Hit Points**: 88,  **Defense:** 17,  **Initiative:** +0
-- **Movement**: 9 m (12 m in boar form)
-- **Saving Throws**: Fortitude +6, Reflex +4, Will +4
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Languages**: Common (can' \*\*t speak in boar form)
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium humanoid, shapechanger, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 88, **Defense:** 17, **Initiative:** +0 |
+| **Movement** | 9 m (12 m in boar form) |
+| **S. Throws** | Fortitude +6, Reflex +4, Will +4 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Languages** | Common (can' \*\*t speak in boar form) |
+| **Challenge** | 4 (1100 XP) |
 
 ***Charge (Boar or Hybrid Form Only).*** If the wereboar moves at least 5 meters straight toward a target and then hits it with its tusks attack during the same round, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be knocked prone. 1 Action.
 
@@ -32004,16 +33273,18 @@ Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars)
 In their humanoid forms, wereboars tend to be stocky, with upturned noses, bristly hair, and prominent tusks. They have red, brown, or black hair, but some are also blond, gray-haired, or bald. Males usually can' \*\*t grow beards. Because they are stubborn and aggressive, they have small communities of their own kind and don' \*\*t mix with non-lycanthropes: they usually live in small farms that look absolutely normal. They tend to have large families and many children.
 
 Wererat
-- **Size/Type**: Medium humanoid (human, shapechanger), evil
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Skills**: Stealth +4, Awareness +2
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Senses**: Darkvision 18 m (rat form only)
-- **Languages**: Common (can' \*\*t speak in rat form)
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), evil |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 0 Cha -1 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Skills** | Stealth +4, Awareness +2 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Senses** | Darkvision 18 m (rat form only) |
+| **Languages** | Common (can' \*\*t speak in rat form) |
+| **Challenge** | 2 (450 XP) |
 
 ***Shapechanger.*** The wererat can use one Action to transform into a rat-humanoid hybrid or into a rat, or back into its true form, which is humanoid. Its statistics, other than its Defense, are the same in all forms. Any equipment it is wearing or carrying isn' \*\*t transformed. It reverts to its true form when it dies.
 
@@ -32044,16 +33315,18 @@ Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats)
 Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitchy movements. Males often have thin, scraggly mustaches.
 
 Weretiger
-- **Size/Type**: Medium humanoid (human, shapechanger), neutral
-- **Ability**: Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0
-- **Hit Points**: 89,  **Defense:** 19,  **Initiative:** +2
-- **Movement**: 9 m (12 m in tiger form)
-- **Saving Throws**: Fortitude +7, Reflex +6, Will +5
-- **Skills**: Stealth +4, Awareness +5
-- **Damage Imm.**: from non-magical weapons that aren' \*\*t silvered
-- **Senses**: Darkvision 18 m
-- **Languages**: Common (can' \*\*t speak in tiger form)
-- **Challenge**: 4 (1100 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 3 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 89, **Defense:** 19, **Initiative:** +2 |
+| **Movement** | 9 m (12 m in tiger form) |
+| **S. Throws** | Fortitude +7, Reflex +6, Will +5 |
+| **Skills** | Stealth +4, Awareness +5 |
+| **Dam. Imm.** | from non-magical weapons that aren' \*\*t silvered |
+| **Senses** | Darkvision 18 m |
+| **Languages** | Common (can' \*\*t speak in tiger form) |
+| **Challenge** | 4 (1100 XP) |
 
 ***Pounce.*** If the weretiger moves at least 5 meters straight toward a creature and then hits it with a claw attack during the same round, that target must succeed on a Fortitude Saving Throw DC 16 or be knocked prone. If the target is prone, the weretiger can make one bite attack against it as an Immediate Action.
 
@@ -32093,15 +33366,17 @@ Organization: Solitary or pair
 Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbones, and brown or red hair, or white, black, or blue-gray. Their movements are careful and graceful, and those who observe them might mistake them for an excellent pickpocket, a graceful dancer, or a skilled courtesan.
 
 Werewolf
-- **Size/Type**: Medium humanoid (human, shapechanger), evil
-- **Ability**: Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Movement**: 9 m (12 m in wolf form)
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Skills**: Stealth +3, Awareness +4
-- **Damage Imm.**: from non-magical weapons or those that aren' \*\*t silvered
-- **Languages**: Common (can' \*\*t speak in wolf form)
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium humanoid (human, shapechanger), evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 2 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Movement** | 9 m (12 m in wolf form) |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Skills** | Stealth +3, Awareness +4 |
+| **Dam. Imm.** | from non-magical weapons or those that aren' \*\*t silvered |
+| **Languages** | Common (can' \*\*t speak in wolf form) |
+| **Challenge** | 3 (700 XP) |
 
 ***Shapechanger.*** The werewolf can use one Action to transform into a wolf-humanoid hybrid or into a wolf, or back into its true form, which is humanoid. Its statistics, other than its Defense, are the same in all forms. Any equipment it is wearing or carrying isn' \*\*t transformed. It reverts to its true form when it dies.
 
@@ -32132,16 +33407,18 @@ Organization: Solitary, pair or pack (3-6)
 In human form, werewolves look like normal people, though some tend to have feral features and wild hair. Eyebrows that grow together, an index finger longer than the middle finger, and strange birthmarks on the palm of the hand are all commonly accepted signs that a person is in fact a werewolf. Of course, these telltale signs aren' \*\*t always accurate, as these physical traits exist in normal people as well, but in areas where werewolves are a common problem, such traits may be considered damning regardless.
 
 White Dragon Wyrmling
-- **Size/Type**: Medium dragon, evil
-- **Ability**: Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +0
-- **Movement**: 9 m, swim 9 m, fly 18 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Skills**: Stealth +2, Perception +4
-- **Damage Imm.**: Cold
-- **Senses**: Darkvision 18 m, Blindsight 3 m
-- **Languages**: Draconic
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium dragon, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 2 Int -3 Wis 0 Cha 0 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +0 |
+| **Movement** | 9 m, swim 9 m, fly 18 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Skills** | Stealth +2, Perception +4 |
+| **Dam. Imm.** | Cold |
+| **Senses** | Darkvision 18 m, Blindsight 3 m |
+| **Languages** | Draconic |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 3 m, one target.
 
@@ -32160,18 +33437,20 @@ Organization: Solitary
 See Ancient White Dragon description.
 
 Wight
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2
-- **Hit Points**: 70,  **Defense:** 18,  **Initiative:** +2
-- **Movement**: 9 m
-- **Saving Throws**: Fortitude +6, Reflex +5, Will +4
-- **Skills**: Stealth +4, Awareness +3
-- **Damage Res.**: Void; non-magical or non-silver weapons
-- **Damage Imm.**: Poison
-- **Immunities**: fatigued, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: languages it knew in life, Expiran
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 3 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 70, **Defense:** 18, **Initiative:** +2 |
+| **Movement** | 9 m |
+| **S. Throws** | Fortitude +6, Reflex +5, Will +4 |
+| **Skills** | Stealth +4, Awareness +3 |
+| **Damage Res.** | Void; non-magical or non-silver weapons |
+| **Dam. Imm.** | Poison |
+| **Immunities** | fatigued, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | languages it knew in life, Expiran |
+| **Challenge** | 3 (700 XP) |
 
 ***Undead Nature.*** The wight doesn' \*\*t need air, food, drink, or sleep.
 
@@ -32206,16 +33485,18 @@ Wights are humanoids raised as undead due to necromancy, a violent death, or an 
 Being undead, wights have no need to breathe, so they can sometimes be found underwater, although they are not particularly skilled swimmers unless they originated from swimming creatures such as aquatic elves and merfolk. Underwater, wights prefer low-ceiling caverns where their poor swimming abilities are not a limitation.
 
 Will-o' \*\*-Wisp
-- **Size/Type**: Tiny undead, evil
-- **Ability**: Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0
-- **Hit Points**: 51,  **Defense:** 23,  **Initiative:** +9
-- **Movement**: 0 m, fly 15 m, Float
-- **Saving Throws**: Fortitude +3, Reflex +11, Will +4
-- **Damage Res.**: Acid, Poison, Cold, Fire, Void, Sound; weapons that aren' \*\*t magical
-- **Immunities**: grappled, restrained, paralyzed, unconscious, prone, fatigued, bleeding
-- **Senses**: Darkvision 36 m
-- **Languages**: the languages it knew in life
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Tiny undead, evil |
+| --- | --- |
+| **Ability** | Str -5 Dex 9 Con 0 Int 1 Wis 2 Cha 0 |
+| **Hit Points** | 51, **Defense:** 23, **Initiative:** +9 |
+| **Movement** | 0 m, fly 15 m, Float |
+| **S. Throws** | Fortitude +3, Reflex +11, Will +4 |
+| **Damage Res.** | Acid, Poison, Cold, Fire, Void, Sound; weapons that aren' \*\*t magical |
+| **Immunities** | grappled, restrained, paralyzed, unconscious, prone, fatigued, bleeding |
+| **Senses** | Darkvision 36m |
+| **Languages** | the languages it knew in life |
+| **Challenge** | 2 (450 XP) |
 
 ***Consume Life.*** As an Immediate Action, the will-o' \*\*-wisp can target one creature it can see within 1 meter of it that has 0 Hit Points or fewer and is still alive. The target must succeed on a Fortitude Saving Throw DC 12 against this magic or die. If the target dies, the will-o' \*\*-wisp regains 10 (3d6) Hit Points.
 
@@ -32253,15 +33534,17 @@ Despite being denigrated by the majority of sentient creatures, will-o' \*\*-wis
 Will-o' \*\*-wisps have no age and are de facto immortal, unless they die a violent death; the oldest will-o' \*\*-wisps can be excellent repositories of knowledge from the past, although convincing one of these cruel creatures to cooperate can be quite complicated.
 
 Wise Owlbear
-- **Size/Type**: Large monstrosity, neutral
-- **Ability**: Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 12 m
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +6
-- **Skills**: Awareness +9
-- **Senses**: Darkvision 18 m
-- **Languages**: understands and reads the following: Common, Druidic, Celestial, Infernal, Dwarven, Elvish, Orcish, Giant, Expiran, Elemental languages
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 3 Wis 3 Cha 1 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 12 m |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +6 |
+| **Skills** | Awareness +9 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands and reads the following: Common, Druidic, Celestial, Infernal, Dwarven, Elvish, Orcish, Giant, Expiran, Elemental languages |
+| **Challenge** | 3 (700 XP) |
 
 ***Keen Smell and Sight.*** The wise Owlbear has +1d6 on Awareness checks based on smell or sight.
 
@@ -32299,17 +33582,19 @@ Training a Wise Owlbear is much easier than an Owlbear, but the high intelligenc
 The Mage Hand spell is usually used to flip through the most delicate tomes and to write, albeit extremely slowly.
 
 Wraith
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2
-- **Hit Points**: 108,  **Defense:** 21,  **Initiative:** +3
-- **Movement**: 0 m, fly 18 m, Hover
-- **Saving Throws**: Fortitude +8, Reflex +8, Will +7
-- **Damage Res.**: Acid, Cold, Electricity, Fire, Sound; non-magical or non-silver weapons
-- **Damage Imm.**: Void, Poison
-- **Immunities**: charmed, grappled, entangled, paralyzed, petrified, prone, fatigued, bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: languages it knew in life, Expiran
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str -2 Dex 3 Con 3 Int 1 Wis 2 Cha 2 |
+| **Hit Points** | 108, **Defense:** 21, **Initiative:** +3 |
+| **Movement** | 0 m, fly 18 m, Hover |
+| **S. Throws** | Fortitude +8, Reflex +8, Will +7 |
+| **Damage Res.** | Acid, Cold, Electricity, Fire, Sound; non-magical or non-silver weapons |
+| **Dam. Imm.** | Void, Poison |
+| **Immunities** | charmed, grappled, entangled, paralyzed, petrified, prone, fatigued, bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | languages it knew in life, Expiran |
+| **Challenge** | 5 (1800 XP) |
 
 ***Incorporeal Movement.*** The wraith can move through creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its round inside an object.
 
@@ -32338,13 +33623,15 @@ Organization: Solitary, pair, group (3-6), or pack (7-12)
 Wraiths are creatures born of evil and darkness. They detest light and living creatures, having lost most of their connection to their previous life.
 
 Wyvern
-- **Size/Type**: Large dragon, unaligned
-- **Ability**: Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2
-- **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 6 m, fly 24 m
-- **Saving Throws**: Fortitude +9, Reflex +6, Will +7
-- **Senses**: Darkvision 18 m
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large dragon, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -3 Wis 1 Cha -2 |
+| **Hit Points** | 126, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 6 m, fly 24 m |
+| **S. Throws** | Fortitude +9, Reflex +6, Will +7 |
+| **Senses** | Darkvision 18 m |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The wyvern can make two attacks: one with its bite and one with its stinger. While flying, it can use its claws in place of one of the other attacks.
 
@@ -32383,16 +33670,18 @@ Although constantly hungry and inclined to attack, a wyvern can be made friendly
 A wyvern is about 4.8 meters long, with the tail alone accounting for about half of the length. A wyvern weighs on average 1000 kg.
 
 Xorn
-- **Size/Type**: Medium elemental, neutral
-- **Ability**: Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0
-- **Hit Points**: 111,  **Defense:** 18,  **Initiative:** +0
-- **Movement**: 6 m, burrow 6 m
-- **Saving Throws**: Fortitude +11, Reflex +5, Will +5
-- **Skills**: Stealth +3, Awareness +6
-- **Damage Res.**: piercing and slashing from non-magical weapons or weapons that aren' \*\*t adamantine
-- **Senses**: Darkvision 18 m, tremorsense 18 m
-- **Languages**: Tremun
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Medium elemental, neutral |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 6 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 111, **Defense:** 18, **Initiative:** +0 |
+| **Movement** | 6 m, burrow 6 m |
+| **S. Throws** | Fortitude +11, Reflex +5, Will +5 |
+| **Skills** | Stealth +3, Awareness +6 |
+| **Damage Res.** | piercing and slashing from non-magical weapons or weapons that aren' \*\*t adamantine |
+| **Senses** | Darkvision 18 m, tremorsense 18 m |
+| **Languages** | Tremun |
+| **Challenge** | 5 (1800 XP) |
 
 ***Stone Camouflage.*** The xorn has +1d6 on Stealth (Hiding) checks made to hide in rocky terrain.
 
@@ -32427,16 +33716,18 @@ The treasure that a xorn carries or hides in its lair consists of a snack it has
 Xorns are not very religious, but those among them who find faith are usually devoted to Efrem (although it is rare, if not unlikely, for xorns to have Animal Companions, since they cannot follow them through rock, and instead choose the Earth domain). Bard and Cleric xorns are not unknown: Bards usually choose Entertainer (singing), and Clerics invariably have the Elemental Bloodline (earth).
 
 Young Black Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 145,  **Defense:** 23,  **Initiative:** +2
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +10, Reflex +9, Will +7
-- **Skills**: Stealth +5, Awareness +6
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 145, **Defense:** 23, **Initiative:** +2 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +10, Reflex +9, Will +7 |
+| **Skills** | Stealth +5, Awareness +6 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 7 (2900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -32470,16 +33761,18 @@ Organization: Solitary
 - Bestow Curse
 
 Young Blue Dragon
-- **Size/Type**: Huge dragon, evil
-- **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
-- **Hit Points**: 184,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 12 m, burrow 12 m, fly 24 m
-- **Saving Throws**: \resizebox{0.5\linewidth+1.3cm{!}{Fortitude +13, Reflex +9, Will +10
-- **Skills**: Stealth +4, Perception +9
-- **Damage Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Huge dragon, evil |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 184, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 12 m, burrow 12 m, fly 24 m |
+| **S. Throws** | Fortitude +13, Reflex +9, Will +10 |
+| **Skills** | Stealth +4, Perception +9 |
+| **Dam. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 9 (5000 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -32511,16 +33804,18 @@ Organization: Solitary
 - Ice Storm
 
 Young Brass Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
-- **Hit Points**: 126,  **Defense:** 20,  **Initiative:** +1
-- **Movement**: 40 ft, burrow 20 ft, fly 80 ft
-- **Saving Throws**: Fortitude +9, Reflex +6, Will +6
-- **Damage Imm.**: Fire
-- **Skills**: Stealth +3, Perception +6, Deception +5
-- **Senses**: Darkvision 60 ft, Blindsight 10 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2 |
+| **Hit Points** | 126, **Defense:** 20, **Initiative:** +1 |
+| **Movement** | 40 ft, burrow 20 ft, fly 80 ft |
+| **S. Throws** | Fortitude +9, Reflex +6, Will +6 |
+| **Dam. Imm.** | Fire |
+| **Skills** | Stealth +3, Perception +6, Deception +5 |
+| **Senses** | Darkvision 60 ft, Blindsight 10 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 6 (2300 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -32554,16 +33849,18 @@ Organization: Solitary
 - Scrying
 
 Young Bronze Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3
-- **Hit Points**: 165,  **Defense:** 22,  **Initiative:** +2
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +12, Reflex +8, Will +9
-- **Skills**: Stealth +3, Sense Motive +4, Awareness +7
-- **Dmg. Imm.**: Lightning
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 4 Int 2 Wis 1 Cha 3 |
+| **Hit Points** | 165, **Defense:** 22, **Initiative:** +2 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +12, Reflex +8, Will +9 |
+| **Skills** | Stealth +3, Sense Motive +4, Awareness +7 |
+| **Dmg. Imm.** | Lightning |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 8 (3900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -32600,16 +33897,18 @@ Organization: Solitary
 - Freedom of Movement
 
 Young Copper Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
-- **Hit Points**: 145,  **Defense:** 22,  **Initiative:** +3
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
-- **Saving Throws**: Fortitude +10, Reflex +8, Will +8
-- **Skills**: Stealth +4, Deception +5, Perception +7
-- **Damage Imm.**: Acid
-- **Senses**: Darkvision 120 ft, Blindsight 60 ft
-- **Languages**: Common, Draconic
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2 |
+| **Hit Points** | 145, **Defense:** 22, **Initiative:** +3 |
+| **Movement** | 40 ft, climb 40 ft, fly 80 ft |
+| **S. Throws** | Fortitude +10, Reflex +8, Will +8 |
+| **Skills** | Stealth +4, Deception +5, Perception +7 |
+| **Dam. Imm.** | Acid |
+| **Senses** | Darkvision 120 ft, Blindsight 60 ft |
+| **Languages** | Common, Draconic |
+| **Challenge** | 7 (2900 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -32645,16 +33944,18 @@ Organization: Solitary
 - Fire Shield
 
 Young Gold Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5
-- **Hit Points**: 205,  **Defense:** 27,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +15, Reflex +12, Will +11
-- **Skills**: Stealth +6, Sense Motive +5, Awareness +9, Deception +9
-- **Dmg. Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 5 Int 3 Wis 1 Cha 5 |
+| **Hit Points** | 205, **Defense:** 27, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +15, Reflex +12, Will +11 |
+| **Skills** | Stealth +6, Sense Motive +5, Awareness +9, Deception +9 |
+| **Dmg. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 10 (5900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -32692,16 +33993,18 @@ Organization: Solitary
 - Black Tentacles
 
 Young Green Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
-- **Hit Points**: 163,  **Defense:** 23,  **Initiative:** +3
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +11, Reflex +9, Will +9
-- **Skills**: Stealth +4, Deception +5, Awareness +7
-- **Damage Imm.**: Poison
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2 |
+| **Hit Points** | 163, **Defense:** 23, **Initiative:** +3 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +11, Reflex +9, Will +9 |
+| **Skills** | Stealth +4, Deception +5, Awareness +7 |
+| **Dam. Imm.** | Poison |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 8 (3900 XP) |
 
 ***Amphibious.*** The dragon can breathe air and water.
 
@@ -32735,16 +34038,18 @@ Organization: Solitary
 - Neutralize Poison
 
 Young Red Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
-- **Hit Points**: 205,  **Defense:** 25,  **Initiative:** +2
-- **Movement**: 12 m, climb 12 m, fly 24 m
-- **Saving Throws**: Fortitude +15, Reflex +10, Will +10
-- **Skills**: Stealth +4, Awareness +8
-- **Damage Imm.**: Fire
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 10 (5900 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4 |
+| **Hit Points** | 205, **Defense:** 25, **Initiative:** +2 |
+| **Movement** | 12 m, climb 12 m, fly 24 m |
+| **S. Throws** | Fortitude +15, Reflex +10, Will +10 |
+| **Skills** | Stealth +4, Awareness +8 |
+| **Dam. Imm.** | Fire |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 10 (5900 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -32777,16 +34082,18 @@ Organization: Solitary
 - Wall of Fire
 
 Young Silver Dragon
-- **Size/Type**: Large dragon, good
-- **Ability**: Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4
-- **Hit Points**: 186,  **Defense:** 24,  **Initiative:** +2
-- **Movement**: 12 m, fly 24 m
-- **Saving Throws**: Fortitude +14, Reflex +9, Will +9
-- **Skills**: Arcana +6, Stealth +4, Awareness +8, History +6
-- **Dmg. Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 9 (5000 XP)
+
+| **Size/Type** | Large dragon, good |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int 2 Wis 0 Cha 4 |
+| **Hit Points** | 186, **Defense:** 24, **Initiative:** +2 |
+| **Movement** | 12 m, fly 24 m |
+| **S. Throws** | Fortitude +14, Reflex +9, Will +9 |
+| **Skills** | Arcana +6, Stealth +4, Awareness +8, History +6 |
+| **Dmg. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 9 (5000 XP) |
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
@@ -32822,16 +34129,18 @@ Organization: Solitary
 - Dream
 
 Young White Dragon
-- **Size/Type**: Large dragon, evil
-- **Ability**: Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1
-- **Hit Points**: 127,  **Defense:** 20,  **Initiative:** +0
-- **Movement**: 12 m, swim 12 m, fly 24 m
-- **Saving Throws**: Fortitude +10, Reflex +6, Will +6
-- **Skills**: Stealth +3, Perception +6
-- **Damage Imm.**: Cold
-- **Senses**: Darkvision 36 m, Blindsight 9 m
-- **Languages**: Common, Draconic
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Large dragon, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 4 Int -2 Wis 0 Cha 1 |
+| **Hit Points** | 127, **Defense:** 20, **Initiative:** +0 |
+| **Movement** | 12 m, swim 12 m, fly 24 m |
+| **S. Throws** | Fortitude +10, Reflex +6, Will +6 |
+| **Skills** | Stealth +3, Perception +6 |
+| **Dam. Imm.** | Cold |
+| **Senses** | Darkvision 36m, Blindsight 9m |
+| **Languages** | Common, Draconic |
+| **Challenge** | 6 (2300 XP) |
 
 ***Ice Walk.*** The dragon can move and climb on icy surfaces without needing to make basic skill checks. Additionally, difficult terrain composed of ice or snow does not cost it extra movement.
 
@@ -32863,16 +34172,18 @@ Organization: Solitary
 - Sleet Storm
 
 Zombie
-- **Size/Type**: Medium undead, evil
-- **Ability**: Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3
-- **Hit Points**: 19,  **Defense:** 10,  **Initiative:** -2
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Damage Imm.**: Poison
-- **Immunities**: bleeding
-- **Senses**: Darkvision 18 m
-- **Languages**: understands all languages it spoke in life but cannot speak
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium undead, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex -2 Con 3 Int -4 Wis -2 Cha -3 |
+| **Hit Points** | 19, **Defense:** 10, **Initiative:** -2 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Dam. Imm.** | Poison |
+| **Immunities** | bleeding |
+| **Senses** | Darkvision 18 m |
+| **Languages** | understands all languages it spoke in life but cannot speak |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Undead Nature.*** The zombie doesn' \*\*t need air, food, drink, or sleep.
 
@@ -32903,12 +34214,14 @@ Although they are able to follow orders, zombies are often set free with the ord
 This appendix contains the statistics of various animals, parasites, and other creatures. The statistics are organized in alphabetical order.
 
 Ape
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 **Actions*Multiattack.*** The ape makes two fist attacks.
 
@@ -32921,12 +34234,14 @@ Ape
 *Hit:* 6 (1d6 + 3) bludgeoning damage.
 
 Armored Bear
-- **Size/Type**: Huge beast, corrupted by Cattalm
-- **Ability**: Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1
-- **Hit Points**: 90,  **Defense:** 19,  **Initiative:** +2
-- **Saving Throws**: Fortitude +8, Reflex +6, Will +5
-- **Movement**: 12 m, swim 9 m
-- **Challenge**: 4 (450 XP)
+
+| **Size/Type** | Huge beast, corrupted by Cattalm |
+| --- | --- |
+| **Ability** | Str 7 Dex 2 Con 4 Int 1 Wis 1 Cha 1 |
+| **Hit Points** | 90, **Defense:** 19, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +8, Reflex +6, Will +5 |
+| **Movement** | 12 m, swim 9 m |
+| **Challenge** | 4 (450 XP) |
 
 ***Keen Smell.*** The bear has +1d6 to Awareness checks based on smell.
 
@@ -32941,17 +34256,19 @@ Armored Bear
 *Hit:* 20 (3d8 + 10) piercing damage.
 
 Awakened Tree
-- **Size/Type**: Huge plant, unaligned
-- **Ability**: Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2
-- **Hit Points**: 51,  **Defense:** 12,  **Initiative:** +0
-- **Movement**: 6 m
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Vul. to Damage**: Fire
-- **Res. to Damage**: bludgeoning, piercing
-- **Skills**: History +2
-- **Senses**: Darkvision 18 m
-- **Languages**: one language known by its creator
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Huge plant, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex -2 Con 2 Int 0 Wis 0 Cha -2 |
+| **Hit Points** | 51, **Defense:** 12, **Initiative:** +0 |
+| **Movement** | 6 m |
+| **S. Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Vul. to Damage** | Fire |
+| **Res. to Damage** | bludgeoning, piercing |
+| **Skills** | History +2 |
+| **Senses** | Darkvision 18 m |
+| **Languages** | one language known by its creator |
+| **Challenge** | 2 (450 XP) |
 
 ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal tree.
 
@@ -32960,24 +34277,28 @@ Awakened Tree
 *Hit:* 14 (3d6 + 4) bludgeoning damage.
 
 Axe Beak
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Beak.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) slashing damage.
 
 Baboon
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int -3 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Pack Tactics.*** The baboon has +1d6 on attack rolls against a creature if at least one of the baboon' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -32986,12 +34307,15 @@ Baboon
 *Hit:* 1 (1d4 - 1) piercing damage.
 
 Badger
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 20 ft, burrow 5 ft
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 20 ft, burrow 5 ft |
+| **Challenge** | 0(10 XP) |
+
 \
 
 ***Keen Smell.*** The badger has +1d6 to Awareness checks that rely on smell.
@@ -33001,12 +34325,14 @@ Badger
 *Hit:* 1 piercing damage.
 
 Black Bear
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m, climb 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Keen Smell.*** The bear has +1d6 to Awareness checks based on smell.
 
@@ -33021,13 +34347,15 @@ Black Bear
 *Hit:* 6 (1d6 + 3) piercing damage.
 
 Blink Dog
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
-- **Vul. to Damage**: cold iron
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con 1 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 15, **Initiative:** +3 |
+| **Vul. to Damage** | cold iron |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Keen Hearing and Smell.*** The dog has +1d6 on Awareness checks based on hearing or smell.
 
@@ -33038,12 +34366,14 @@ Blink Dog
 ***Teleport (Recharge 4-6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 12 meters to an unoccupied space it can see. Before or after teleporting, the dog can make a bite attack.
 
 Blood Hawk
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -3 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Pack Tactics.*** The hawk has +1d6 on attack rolls against a creature if at least one of the hawk' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -33054,12 +34384,14 @@ Blood Hawk
 *Hit:* 4 (1d4 + 2) piercing damage.
 
 Boar
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 1 Int -4 Wis -1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Charge.*** If the boar moves at least 6 meters straight toward a target and then hits it with a tusk attack in the same round, the target takes an extra 3 (1d6) slashing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
@@ -33070,12 +34402,14 @@ Boar
 *Hit:* 4 (1d6 + 1) slashing damage.
 
 Brown Bear
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 13,  **Initiative:** +0
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 12 m, climb 9 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 3 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 13, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 9 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Smell.*** The bear has +1d6 on Awareness checks based on smell.
 
@@ -33090,12 +34424,14 @@ Brown Bear
 *Hit:* 8 (1d8 + 4) piercing damage.
 
 Cat
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m, climb 9 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 2 Con 0 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 9 m |
+| **Challenge** | 0(10 XP) |
 
 ***Keen Smell.*** The cat has +1d6 on Awareness checks based on smell.
 
@@ -33104,12 +34440,14 @@ Cat
 *Hit:* 1 slashing damage.
 
 Constrictor Snake
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, swim 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, swim 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
@@ -33120,12 +34458,14 @@ Constrictor Snake
 *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (DC 14 to escape). Until this grapple ends, the creature is restrained, and the snake can' \*\*t constrict another target.
 
 Crocodile
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, swim 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, swim 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Hold Breath.*** The crocodile can hold its breath for 15 minutes.
 
@@ -33134,12 +34474,14 @@ Crocodile
 *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (DC 12 to escape). Until the grapple ends, the crocodile can' \*\*t use its bite against another target.
 
 Death Dog
-- **Size/Type**: Medium monstrosity, evil
-- **Ability**: Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Two-Headed.*** The dog has +1d6 on Awareness checks and on Saving Throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
@@ -33150,24 +34492,28 @@ Death Dog
 *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Fortitude Saving Throw against disease or become diseased. The disease has no effect for 24 hours and can be removed by any magic that cures disease. After each 24 hours, the creature must repeat the Saving Throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
 Deer
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3
-- **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 0 Int -4 Wis 2 Cha -3 |
+| **Hit Points** | 15, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 0 (10 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +2 to hit, reach 1 m, one target.
 
 *Hit:* 2 (1d4) piercing damage.
 
 Dire Wolf (Metawolf)
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Hearing and Smell.*** The wolf has +1d6 on Awareness checks based on hearing or smell.
 
@@ -33178,12 +34524,14 @@ Dire Wolf (Metawolf)
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
 Eagle
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 0 Int -4 Wis 2 Cha -2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Keen Sight.*** The eagle has +1d6 on Awareness checks based on sight.
 
@@ -33192,12 +34540,14 @@ Eagle
 *Hit:* 4 (1d4 + 2) slashing damage.
 
 Elephant
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2
-- **Hit Points**: 89,  **Defense:** 16,  **Initiative:** -1
-- **Saving Throws**: Fortitude +7, Reflex +3, Will +4
-- **Movement**: 12 m
-- **Challenge**: 4 (1000 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex -1 Con 3 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 89, **Defense:** 16, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +7, Reflex +3, Will +4 |
+| **Movement** | 12 m |
+| **Challenge** | 4 (1000 XP) |
 
 ***Trampling Charge.*** If the elephant moves at least 6 meters straight toward a creature and then hits it with a gore attack on the same round, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the elephant can make a stomp attack against it as an Immediate Action.
 
@@ -33210,12 +34560,14 @@ Elephant
 *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
 Elk
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Charge.*** If the elk moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -33228,12 +34580,14 @@ Elk
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 Flying Snake
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3
-- **Hit Points**: 17,  **Defense:** 16,  **Initiative:** +4
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft, fly 60 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 17, **Defense:** 16, **Initiative:** +4 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 30 ft, swim 30 ft, fly 60 ft |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Flyby.*** The snake doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -33242,12 +34596,14 @@ Flying Snake
 *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
 Frog
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4
-- **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, swim 6 m
-- **Challenge**: 0(0 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -5 Dex 1 Con -1 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 15, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, swim 6 m |
+| **Challenge** | 0(0 XP) |
 
 ***Amphibious.*** The frog can breathe air and water.
 
@@ -33256,12 +34612,14 @@ Frog
 A **frog** has no attacks. It feeds on small insects and typically lives near marshes, in trees, or underground.
 
 Giant Ape
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2
-- **Hit Points**: 146,  **Defense:** 23,  **Initiative:** +2
-- **Saving Throws**: Fortitude +11, Reflex +9, Will +8
-- **Movement**: 12 m, climb 12 m
-- **Challenge**: 7 (2900 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex 2 Con 4 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 146, **Defense:** 23, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +11, Reflex +9, Will +8 |
+| **Movement** | 12 m, climb 12 m |
+| **Challenge** | 7 (2900 XP) |
 
 **Actions*Multiattack.*** The ape makes two fist attacks.
 
@@ -33274,12 +34632,15 @@ Giant Ape
 *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
 Giant Badger
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, burrow 10 ft
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 30 ft, burrow 10 ft |
+| **Challenge** | 1/4 (50 XP) |
+
 \
 
 ***Keen Smell.*** The badger has +1d6 to Awareness checks that rely on smell.
@@ -33295,12 +34656,14 @@ Giant Badger
 *Hit:* 4 (1d6 + 1) piercing damage.
 
 Giant Boar
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 3 Int -4 Wis -2 Cha -3 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the boar moves at least 6 meters straight toward a target and then hits it with a tusk attack in the same round, the target takes an extra 7 (2d6) slashing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -33311,12 +34674,14 @@ Giant Boar
 *Hit:* 10 (2d6 + 3) slashing damage.
 
 Giant Constrictor Snake
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 30 ft, swim 30 ft |
+| **Challenge** | 2 (450 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 10 ft, one creature.
 
@@ -33327,12 +34692,14 @@ Giant Constrictor Snake
 *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the creature is restrained, and the snake cannot constrict another target.
 
 Giant Crab
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, swim 9 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, swim 9 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Amphibious.*** The crab can breathe air and water.
 
@@ -33341,12 +34708,14 @@ Giant Crab
 *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (DC 11 to escape). The crab has two claws, each of which can grapple only one target.
 
 Giant Crocodile
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2
-- **Hit Points**: 108,  **Defense:** 17,  **Initiative:** -1
-- **Saving Throws**: Fortitude +8, Reflex +4, Will +5
-- **Movement**: 9 m, swim 15 m
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 3 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 108, **Defense:** 17, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +8, Reflex +4, Will +5 |
+| **Movement** | 9 m, swim 15 m |
+| **Challenge** | 5 (1800 XP) |
 
 ***Hold Breath.*** The crocodile can hold its breath for 30 minutes.
 
@@ -33361,13 +34730,15 @@ Giant Crocodile
 *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the crocodile can' \*\*t use its bite against another target.
 
 Giant Eagle
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Movement**: 3 m, flight 24 m
-- **Languages**: Giant Eagle, understands Common and Ictun but can' \*\*t speak them
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 3 Con 1 Int -1 Wis 2 Cha 0 |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Movement** | 3 m, flight 24 m |
+| **Languages** | Giant Eagle, understands Common and Ictun but can' \*\*t speak them |
+| **Challenge** | 1 (200 XP) |
 
 ***Keen Sight.*** The eagle has +1d6 on Awareness checks based on sight.
 
@@ -33382,12 +34753,14 @@ Giant Eagle
 *Hit:* 10 (2d6 + 3) slashing damage.
 
 Giant Elk
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +4
-- **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
-- **Movement**: 18 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 3 Con 2 Int -2 Wis 2 Cha 0 |
+| **S. Throws** | Fortitude +4, Reflex +5, Will +4 |
+| **Hit Points** | 51, **Defense:** 17, **Initiative:** +3 |
+| **Movement** | 18 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the elk moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 14 Fortitude Saving Throw or be knocked prone.
 
@@ -33400,12 +34773,14 @@ Giant Elk
 *Hit:* 22 (4d4 + 4) bludgeoning damage.
 
 Giant Fire Beetle
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 0 Con 1 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 0(10 XP) |
 
 ***Illumination.*** The beetle sheds bright light in a 3-meter radius and dim light for an additional 6 meters.
 
@@ -33414,12 +34789,14 @@ Giant Fire Beetle
 *Hit:* 2 (1d6 - 1) slashing damage.
 
 Giant Froggy
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, swim 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 0 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, swim 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Amphibious.*** The frog can breathe air and water.
 
@@ -33432,12 +34809,14 @@ Giant Froggy
 ***Swallow.*** The frog makes a bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, has total cover against attacks and other effects outside the frog, and takes 5 (2d4) acid damage at the start of each of the frog' \*\*s turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 1 meter of movement, exiting prone.
 
 Giant Frog
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4
-- **Hit Points**: 33,  **Defense:** 14,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, swim 12 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 33, **Defense:** 14, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, swim 12 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Amphibious.*** The toad can breathe air and water.
 
@@ -33454,12 +34833,14 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 Giant Goat
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Charge.*** If the goat moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 5 (2d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -33470,12 +34851,14 @@ Giant Goat
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
 Giant Hyena
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Rampage.*** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take an Immediate Action to move up to half its movement and make a bite attack.
 
@@ -33484,12 +34867,14 @@ Giant Hyena
 *Hit:* 10 (2d6 + 3) piercing damage.
 
 Giant Lizard
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 19,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 19, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
@@ -33504,12 +34889,14 @@ Some giant lizards have one or both of the following traits.
 ***Hold Breath.*** The lizard can hold its breath for 15 minutes. (A lizard with this trait also has a swimming speed of 9 meters.)
 
 Giant Owl
-- **Size/Type**: Large beast, neutral
-- **Ability**: Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 1 m, flight 18 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, neutral |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -1 Wis 1 Cha 0 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 1 m, flight 18 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Flyby.*** The owl doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -33520,24 +34907,28 @@ Giant Owl
 *Hit:* 8 (2d6 + 1) piercing damage.
 
 Giant Poisonous Snake
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 16, **Initiative:** +4 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 30 ft, swim 30 ft |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 10 ft, one target.
 
 *Hit:* 6 (1d4 + 4) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
 Giant Rat
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con 0 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Keen Smell.*** The rat has +1d6 to Awareness checks based on smell.
 
@@ -33556,12 +34947,14 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 *Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or contract a disease. Until the disease is cured, Fortitude Saving Throw DC 12 every 24 hours, the target can' \*\*t regain hit points except by magical means, and the target' \*\*s hit point maximum decreases by 3 (1d6) every 24 hours. If the target' \*\*s hit point maximum drops to 0 as a result of this disease, the target dies.
 
 Giant Scorpion
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Movement**: 12 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 2 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 3 (700 XP) |
 
 **Actions*Multiattack.*** The scorpion makes three attacks: two with its claws and one with its sting.
 
@@ -33574,12 +34967,14 @@ Giant Scorpion
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
 Giant Sea Horse
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 m, swim 12 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 0 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 m, swim 12 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Charge.*** If the sea horse moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 7 (2d6) bludgeoning damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
@@ -33590,12 +34985,15 @@ Giant Sea Horse
 *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
 Giant Shark
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3
-- **Hit Points**: 110,  **Defense:** 18,  **Initiative:** +0
-- **Saving Throws**: Fortitude +10, Reflex +5, Will +5
-- **Movement**: 0 ft, swim 50 ft
-- **Challenge**: 5 (1800 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3 |
+| **Hit Points** | 110, **Defense:** 18, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +10, Reflex +5, Will +5 |
+| **Movement** | 0 ft, swim 50 ft |
+| **Challenge** | 5 (1800 XP) |
+
 \
 
 ***Blood Frenzy.*** The shark has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
@@ -33607,12 +35005,14 @@ Giant Shark
 *Hit:* 22 (3d10 + 6) piercing damage.
 
 Giant Spider
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 33,  **Defense:** 16,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 3 Con 1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 33, **Defense:** 16, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -33631,12 +35031,14 @@ Giant Spider
 *Hit:* The target is restrained by webbing. As an Action, the restrained target can make a Fortitude Saving Throw with Strength DC 12 and, on a success, break free. The webbing can also be attacked and destroyed (AC 10; Hit Points 5; vulnerability to fire damage; immunity to bludgeoning and poison damage).
 
 Giant Vulture
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 2 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Keen Sight and Smell.*** The vulture has +1d6 on Awareness checks based on sight or smell.
 
@@ -33653,12 +35055,15 @@ Giant Vulture
 *Hit:* 9 (2d6 + 2) slashing damage.
 
 Giant Wasp
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 50 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 10 ft, fly 50 ft |
+| **Challenge** | 1/2 (100 XP) |
+
 \
 
 **Actions*Sting.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
@@ -33666,12 +35071,14 @@ Giant Wasp
 *Hit:* 5 (1d6 + 2) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining Hit Points, and is paralyzed while poisoned in this way.
 
 Giant Weasel
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 0 Int -3 Wis 1 Cha -3 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Keen Hearing and Smell.*** The weasel has +1d6 on Awareness checks based on hearing or smell.
 
@@ -33680,12 +35087,14 @@ Giant Weasel
 *Hit:* 5 (1d4 + 3) piercing damage.
 
 Giant Wolf Spider
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 19,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m, climb 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m, climb 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -33698,12 +35107,14 @@ Giant Wolf Spider
 *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a Fortitude Saving Throw DC 11, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 Goat
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 0 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Charge.*** If the goat moves at least 6 meters straight toward a target and then hits it with a ram attack in the same round, the target takes an extra 2 (1d4) bludgeoning damage. If the target is a creature, it must succeed on a DC 10 Fortitude Saving Throw or be knocked prone.
 
@@ -33714,12 +35125,14 @@ Goat
 *Hit:* 3 (1d4 + 1) bludgeoning damage.
 
 Hawk
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2
-- **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 18 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con -1 Int -4 Wis 2 Cha -2 |
+| **Hit Points** | 15, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 18 m |
+| **Challenge** | 0(10 XP) |
 
 ***Keen Sight.*** The hawk has +1d6 on Awareness checks based on sight.
 
@@ -33728,12 +35141,14 @@ Hawk
 *Hit:* 1 slashing damage.
 
 Hunter Shark
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Movement** | 0 ft, swim 40 ft |
+| **Challenge** | 2 (450 XP) |
 
 ***Blood Frenzy.*** The shark has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
 
@@ -33744,12 +35159,14 @@ Hunter Shark
 *Hit:* 13 (2d8 + 4) piercing damage.
 
 Hyena
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 15, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 0(10 XP) |
 
 ***Pack Tactics.*** The hyena has +1d6 on attack rolls against a creature if at least one of the hyena' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -33758,12 +35175,14 @@ Hyena
 *Hit:* 3 (1d6) piercing damage.
 
 Jackal
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Pack Tactics.*** The jackal has +1d6 to attack rolls against a creature if at least one of the jackal' \*\*s allies is within 1 meter of the creature and that ally isn' \*\*t incapacitated.
 
@@ -33774,12 +35193,14 @@ Jackal
 *Hit:* 1 (1d4 - 1) piercing damage.
 
 Killer Whale (Orca)
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 69,  **Defense:** 16,  **Initiative:** +0
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +4
-- **Movement**: 0 m, swim 18 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 69, **Defense:** 16, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +4 |
+| **Movement** | 0 m, swim 18 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Echolocation.*** The whale can' \*\*t use its blindsight while deafened.
 
@@ -33792,12 +35213,14 @@ Killer Whale (Orca)
 *Hit:* 21 (5d6 + 4) piercing damage.
 
 Lion
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 1 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Pounce.*** If the lion moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same round, that target must succeed on a DC 13 Fortitude Saving Throw or be knocked prone. If the target is prone, the lion can make a bite attack against it as an Immediate Action.
 
@@ -33816,12 +35239,14 @@ Lion
 *Hit:* 7 (1d8 + 3) piercing damage.
 
 Mammoth
-- **Size/Type**: Huge beast, unaligned
-- **Ability**: Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2
-- **Hit Points**: 129,  **Defense:** 19,  **Initiative:** -1
-- **Saving Throws**: Fortitude +11, Reflex +5, Will +6
-- **Movement**: 12 m
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Huge beast, unaligned |
+| --- | --- |
+| **Ability** | Str 7 Dex -1 Con 5 Int -4 Wis 0 Cha -2 |
+| **Hit Points** | 129, **Defense:** 19, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +11, Reflex +5, Will +6 |
+| **Movement** | 12 m |
+| **Challenge** | 6 (2300 XP) |
 
 ***Trampling Charge.*** If the mammoth moves at least 6 meters straight toward a creature and then hits it with a gore attack on the same round, that target must succeed on a DC 18 Fortitude Saving Throw or be knocked prone. If the target is prone, the mammoth can make a stomp attack against it as an Immediate Action.
 
@@ -33834,12 +35259,14 @@ Mammoth
 *Hit:* 29 (4d10 + 7) bludgeoning damage.
 
 Mastiff
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 17,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 17, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/8 (25 XP) |
 
 ***Keen Hearing and Smell.*** The mastiff has +1d6 on Awareness checks based on hearing or smell.
 
@@ -33848,13 +35275,15 @@ Mastiff
 *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
 Monkey
-- **Size/Type**: Small beast, unaligned
-- **Ability**: Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Skills**: Acrobatics +6, Awareness +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Small beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int -3 Wis 1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Skills** | Acrobatics +6, Awareness +3 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Scratch.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
@@ -33865,12 +35294,14 @@ Monkey
 *Hit:* 2 (1d4) piercing damage.
 
 Owl
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 1 m, flight 18 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con -1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 1 m, flight 18 m |
+| **Challenge** | 0(10 XP) |
 
 ***Flyby.*** The owl doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -33881,12 +35312,14 @@ Owl
 *Hit:* 1 slashing damage.
 
 Panther
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 15 m, climb 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 0 Int -4 Wis 2 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 15 m, climb 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Pounce.*** If the panther moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same round, that target must succeed on a DC 12 Fortitude Saving Throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as an Immediate Action.
 
@@ -33901,12 +35334,14 @@ Panther
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 Phase Spider
-- **Size/Type**: Large monstrosity, unaligned
-- **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2
-- **Hit Points**: 69,  **Defense:** 18,  **Initiative:** +2
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +3
-- **Movement**: 9 m, climb 9 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 2 Con 1 Int -2 Wis 0 Cha -2 |
+| **Hit Points** | 69, **Defense:** 18, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +4, Reflex +5, Will +3 |
+| **Movement** | 9 m, climb 9 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -33919,12 +35354,14 @@ Phase Spider
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
 Piranha
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4
-- **Hit Points**: 15,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 m, swim 12 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 3 Con -1 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 15, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 m, swim 12 m |
+| **Challenge** | 0(10 XP) |
 
 ***Blood Frenzy.*** The piranha has +1d6 on melee attack rolls against any creature that doesn' \*\*t have all its hit points.
 
@@ -33935,24 +35372,28 @@ Piranha
 *Hit:* 1 piercing damage.
 
 Poisonous Snake
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, swim 30 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 30 ft, swim 30 ft |
+| **Challenge** | 1/8 (25 XP) |
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
 
 *Hit:* 1 piercing damage and the target must make a DC 10 Fortitude Saving Throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
 Polar Bear
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2
-- **Hit Points**: 52,  **Defense:** 14,  **Initiative:** +0
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 12 m, swim 9 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex 0 Con 3 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 52, **Defense:** 14, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 12 m, swim 9 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Keen Smell.*** The bear has +1d6 to Awareness checks based on smell.
 
@@ -33967,12 +35408,14 @@ Polar Bear
 *Hit:* 9 (1d8 + 5) piercing damage.
 
 Rat
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 0 Con -1 Int -4 Wis 0 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m |
+| **Challenge** | 0(10 XP) |
 
 ***Keen Smell.*** The rat has +1d6 to Awareness checks based on smell.
 
@@ -33981,12 +35424,14 @@ Rat
 *Hit:* 1 piercing damage.
 
 Raven
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 15 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 2 Con -1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 15 m |
+| **Challenge** | 0(10 XP) |
 
 ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a child crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Survival check DC 10.
 
@@ -33995,12 +35440,15 @@ Raven
 *Hit:* 1 piercing damage.
 
 Reef Shark
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 ft, swim 40 ft |
+| **Challenge** | 1/2 (100 XP) |
+
 \
 
 ***Water Breathing.*** The shark can breathe only underwater.
@@ -34012,12 +35460,14 @@ Reef Shark
 *Hit:* 6 (1d8 + 2) piercing damage.
 
 Rhinoceros
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2
-- **Hit Points**: 51,  **Defense:** 13,  **Initiative:** -1
-- **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 5 Dex -1 Con 2 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 51, **Defense:** 13, **Initiative:** -1 |
+| **Saving Throws** | Fortitude +4, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 2 (450 XP) |
 
 ***Charge.*** If the rhinoceros moves at least 6 meters straight toward a target and then hits it with a gore attack during the same round, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be knocked prone.
 
@@ -34026,12 +35476,15 @@ Rhinoceros
 *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
 Saber-Toothed Tiger
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0
-- **Hit Points**: 51,  **Defense:** 16,  **Initiative:** +2
-- **Saving Throws**: Fortitude +4, Reflex +4, Will +3
-- **Movement**: 40 ft
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0 |
+| **Hit Points** | 51, **Defense:** 16, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +4, Reflex +4, Will +3 |
+| **Movement** | 40 ft |
+| **Challenge** | 2 (450 XP) |
+
 \
 
 ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
@@ -34047,46 +35500,54 @@ Saber-Toothed Tiger
 *Hit:* 10 (1d10 + 5) piercing damage.
 
 Saurovall, Draft
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 0 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 9 (2d4 + 4) bludgeoning damage.
 
 Saurovall, Pony
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 Dex 0 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 17, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/8 (25 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
 Saurovall, Riding
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 18 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 1 Int -3 Wis 0 Cha -2 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 18 m |
+| **Challenge** | 1/4 (50 XP) |
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 Saurovall, War
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 18 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 1 Int -2 Wis 1 Cha -2 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 18 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Trampling Charge.*** If the Saurovall moves at least 6 meters straight toward a target and then hits it with a hooves attack during the same round, the target must succeed on a Fortitude Saving Throw DC 14 or be knocked prone. If the target is prone, the Saurovall can make another hooves attack against it as an Immediate Action.
 
@@ -34107,24 +35568,28 @@ He also created a smaller, dwarf version that could adapt to carrying creatures 
 Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost displeasure!
 
 Scorpion
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 0 Con -1 Int -5 Wis -1 Cha -4 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m |
+| **Challenge** | 0(10 XP) |
 
 **Actions*Sting.** Melee Weapon Attack*: +2 to hit, reach 1 m, one creature.
 
 *Hit:* 1 piercing damage, and the target must make a Fortitude Saving Throw DC 9, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
 Spider
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4
-- **Hit Points**: 15,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 0(10 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str 2 (-5) Dex 2 Con -1 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 15, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 0(10 XP) |
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -34137,12 +35602,15 @@ Spider
 *Hit:* 1 piercing damage, and the target must succeed on a Fortitude Saving Throw 9 or take 2 (1d4) poison damage.
 
 Stirgy
-- **Size/Type**: Tiny beast, unaligned
-- **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
-- **Hit Points**: 17,  **Defense:** 15,  **Initiative:** +3
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 40 ft
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Tiny beast, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2 |
+| **Hit Points** | 17, **Defense:** 15, **Initiative:** +3 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 10 ft, fly 40 ft |
+| **Challenge** | 1/8 (25 XP) |
+
 \
 
 **Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
@@ -34152,13 +35620,15 @@ Stirgy
 The stirge can detach itself by spending 1 Action. It does so automatically after it has drained 10 Hit Points of blood from the target or the target dies. A creature, including the target, can use an Action to detach the stirge.
 
 Swarm of Bats
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 m, fly 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -3 Dex 2 Con 0 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 0 m, fly 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Echolocation.*** The swarm can' \*\*t use its blindsight while deafened.
 
@@ -34171,13 +35641,15 @@ Swarm of Bats
 *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Centipedes
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -34186,13 +35658,15 @@ Swarm of Centipedes
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes but stabilized remains poisoned for 1 hour, even after regaining hit points, and remains paralyzed by the poison during this period.
 
 Swarm of Piranhas
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4
-- **Hit Points**: 32,  **Defense:** 16,  **Initiative:** +3
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 0 m, swim 12 m
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 3 Con -1 Int -5 Wis -2 Cha -4 |
+| **Hit Points** | 32, **Defense:** 16, **Initiative:** +3 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 0 m, swim 12 m |
+| **Challenge** | 1 (200 XP) |
 
 ***Blood Frenzy.*** The swarm has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its hit points.
 
@@ -34205,13 +35679,15 @@ Swarm of Piranhas
 *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Poisonous Snakes
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 16,  **Initiative:** +4
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 4 Con 0 Int -5 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 16, **Initiative:** +4 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +4, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -34220,13 +35696,15 @@ Swarm of Poisonous Snakes
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer, and the target must make a Fortitude Saving Throw DC 10, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
 Swarm of Rats
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 0 Con -1 Int -4 Wis 0 Cha -4 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Keen Smell.*** The swarm has +1d6 to Awareness checks based on smell.
 
@@ -34243,13 +35721,15 @@ Swarm of Rats
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Ravens
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, fly 15 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 2 Con -1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, fly 15 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -34258,13 +35738,15 @@ Swarm of Ravens
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Spiders
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Web Walker.*** The swarm ignores movement restrictions caused by webbing.
 
@@ -34279,12 +35761,14 @@ Swarm of Spiders
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Swarm of Wasps
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 1m, fly 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -1 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 1m, fly 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -34293,12 +35777,15 @@ Swarm of Wasps
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Tiger
-- **Size/Type**: Large beast, unaligned
-- **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 40 ft
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Large beast, unaligned |
+| --- | --- |
+| **Ability** | Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 40 ft |
+| **Challenge** | 1 (200 XP) |
+
 \
 
 ***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
@@ -34314,12 +35801,14 @@ Tiger
 *Hit:* 8 (1d10 + 3) piercing damage.
 
 Vulture
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3
-- **Hit Points**: 15,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 3 m, flight 15 m
-- **Challenge**: 0 (10 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str -2 Dex 0 Con 1 Int -4 Wis 1 Cha -3 |
+| **Hit Points** | 15, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 3 m, flight 15 m |
+| **Challenge** | 0 (10 XP) |
 
 ***Keen Sight and Smell.*** The vulture has +1d6 on Awareness checks based on sight or smell.
 
@@ -34330,13 +35819,15 @@ Vulture
 *Hit:* 2 (1d4) piercing damage.
 
 Swarm of Insects
-- **Size/Type**: Medium swarm of Tiny beasts, unaligned
-- **Ability**: Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Damage Resistances**: bludgeoning, piercing, slashing
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 6 m, climb 6 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium swarm of Tiny beasts, unaligned |
+| --- | --- |
+| **Ability** | Str -4 Dex 1 Con 0 Int -5 Wis -2 Cha -5 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Damage Resistances** | bludgeoning, piercing, slashing |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 6 m, climb 6 m |
+| **Challenge** | 1/2 (100 XP) |
 
 ***Swarm.*** The swarm can occupy another creature' \*\*s space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can' \*\*t regain hit points or gain temporary hit points.
 
@@ -34345,12 +35836,14 @@ Swarm of Insects
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
 Winter Wolf
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +4
-- **Movement**: 15 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 4 Dex 1 Con 2 Int -2 Wis 1 Cha -1 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +5, Reflex +4, Will +4 |
+| **Movement** | 15 m |
+| **Challenge** | 3 (700 XP) |
 
 ***Snow Camouflage.*** The wolf has +1d6 on Stealth (Hiding) checks made to hide in snowy terrain.
 
@@ -34365,12 +35858,14 @@ Winter Wolf
 ***Cold Breath (Recharge 5-6).*** The wolf exhales a blast of freezing wind in a 5-meter cone. Each creature in that area must make a DC 15 Reflex Saving Throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
 Wolf
-- **Size/Type**: Medium beast, unaligned
-- **Ability**: Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2
-- **Hit Points**: 19,  **Defense:** 14,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 12 m
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium beast, unaligned |
+| --- | --- |
+| **Ability** | Str 1 Dex 2 Con 1 Int -4 Wis 1 Cha -2 |
+| **Hit Points** | 19, **Defense:** 14, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 12 m |
+| **Challenge** | 1/4 (50 XP) |
 
 ***Keen Hearing and Smell.*** The wolf has +1d6 on Awareness checks based on hearing or smell.
 
@@ -34381,12 +35876,15 @@ Wolf
 *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
 Worg
-- **Size/Type**: Large monstrosity, evil
-- **Ability**: Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 50 ft
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Large monstrosity, evil |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 50 ft |
+| **Challenge** | 1/2 (100 XP) |
+
 \
 
 ***Keen Hearing and Smell.*** The worg has +1d6 in Awareness checks that rely on hearing or smell.
@@ -34418,12 +35916,14 @@ Some example magic items are described later in this document.
 Fighters are individuals who earn a living by putting their sword in service to an individual or an ideal.
 
 Guard
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0
-- **Hit Points**: 24,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 1 Dex 1 Con 1 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 24, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 1/2 (100 XP) |
 
 Guards include members of the city watch, sentinels in a citadel or fortified town, and the bodyguards of nobles and merchants.
 
@@ -34432,14 +35932,16 @@ Guards include members of the city watch, sentinels in a citadel or fortified to
 *Hit:* 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
 Veteran
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0
-- **Hit Points**: 70,  **Defense:** 17,  **Initiative:** +1
-- **Skills**: Athletics +5
-- **Saving Throws**: Fortitude +5, Reflex +4, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 2 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 70, **Defense:** 17, **Initiative:** +1 |
+| **Skills** | Athletics +5 |
+| **S. Throws** | Fortitude +5, Reflex +4, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 3 (700 XP) |
 
 Warriors who have survived long, earning a great reputation as expert and skilled fighters.
 
@@ -34458,12 +35960,14 @@ Warriors who have survived long, earning a great reputation as expert and skille
 *Hit:* 6 (1d10 + 1) piercing damage.
 
 Knight
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2
-- **Hit Points**: 70,  **Defense:** 16,  **Initiative:** +0
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Challenge**: 3 (700 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 3 Dex 0 Con 2 Int 0 Wis 0 Cha 2 |
+| **Hit Points** | 70, **Defense:** 16, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Challenge** | 3 (700 XP) |
 
 Knights are fighters who swear allegiance to rulers, religious orders, and noble causes. The knight' \*\*s Trait determines how far they are willing to honor their oath.
 
@@ -34487,14 +35991,16 @@ This category includes individuals who keep the world running, performing the ne
 new territories are explored.
 
 Noble
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Skills**: Sense Emotions +4, Deception +5
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: two languages of your choice
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 0 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Skills** | Sense Emotions +4, Deception +5 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 1/8 (25 XP) |
 
 Nobles command the population by virtue of birthright or accumulated wealth. Among them are also courtiers who crowd the courts of the rich and powerful.
 
@@ -34505,13 +36011,15 @@ Nobles command the population by virtue of birthright or accumulated wealth. Amo
 **Reactions*Parry.*** The noble adds 2 to its Defense against a melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
 Commoner
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0
-- **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 0 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 17, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisans, and hermits.
 
@@ -34524,13 +36032,15 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 Criminals are individuals who live on the edge of legality, making their living by engaging in activities often considered illegal and immoral.
 
 Bandit/Pirate
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 Whether they are men of the street or the sea (pirates), these individuals make their living by preying on others.
 
@@ -34543,13 +36053,15 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 *Hit:* 5 (1d8 + 1) slashing damage.
 
 Spy
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: two languages of your choice
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 0 Int 1 Wis 2 Cha 3 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 1 (200 XP) |
 
 A spy is an individual trained in gathering secrets for someone, or sometimes to sell them to the highest bidder.
 
@@ -34568,14 +36080,16 @@ A spy is an individual trained in gathering secrets for someone, or sometimes to
 *Hit:* 5 (1d6 + 2) piercing damage.
 
 Bandit Captain or Pirate
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2
-- **Hit Points**: 51,  **Defense:** 17,  **Initiative:** +3
-- **Skills**: Athletics +4, Deception +4
-- **Saving Throws**: Fortitude +4, Reflex +5, Will +3
-- **Movement**: 9 m
-- **Languages**:  two languages of your choice
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 2 Dex 3 Con 2 Int 2 Wis 0 Cha 2 |
+| **Hit Points** | 51, **Defense:** 17, **Initiative:** +3 |
+| **Skills** | Athletics +4, Deception +4 |
+| **S. Throws** | Fortitude +4, Reflex +5, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 2 (450 XP) |
 
 Whether living on land or at sea, this is an individual with a great personality who manages to keep in line the rabble that responds to their orders.
 
@@ -34592,14 +36106,16 @@ Whether living on land or at sea, this is an individual with a great personality
 **Reactions*Parry.*** The captain adds 2 to their Defense against a melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
 
 Assassin
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0
-- **Hit Points**: 162,  **Defense:** 25,  **Initiative:** +3
-- **Skills**: Acrobatics +6, Stealth +9, Deception +3
-- **Saving Throws**: Fortitude +10, Reflex +11, Will +8
-- **Movement**: 9 m
-- **Languages**: Common plus two other languages
-- **Challenge**: 8 (3900 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 3 Con 2 Int 1 Wis 0 Cha 0 |
+| **Hit Points** | 162, **Defense:** 25, **Initiative:** +3 |
+| **Skills** | Acrobatics +6, Stealth +9, Deception +3 |
+| **S. Throws** | Fortitude +10, Reflex +11, Will +8 |
+| **Movement** | 9 m |
+| **Languages** | Common plus two other languages |
+| **Challenge** | 8 (3900 XP) |
 
 Solitary or members of a guild, assassins are paid to eliminate, often silently and discreetly, rivals and enemies of their employers.
 
@@ -34626,14 +36142,16 @@ Solitary or members of a guild, assassins are paid to eliminate, often silently 
 The wizard spends their life studying and practicing magic.
 
 Adventuring Wizard
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +3
-- **Skills**: Arcana +5, History +5
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: four languages of your choice
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int 2 Wis 1 Cha 0 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +3 |
+| **Skills** | Arcana +5, History +5 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | four languages of your choice |
+| **Challenge** | 1 (200 XP) |
 
 A novice Wizard who has successfully completed their first adventures and has begun to establish a reputation as a noble or infamous adventurer.
 
@@ -34650,14 +36168,16 @@ level 2 (3 slots): *Hold Person, Misty Step*
 *Hit:* 3 (1d8 - 1) bludgeoning damage.
 
 Great Wizard
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0
-- **Hit Points**: 122,  **Defense:** 22,  **Initiative:** +3
-- **Skills**: Arcana +6, History +6
-- **Saving Throws**: Fortitude +6, Reflex +8, Will +7
-- **Movement**: 9 m
-- **Languages**: four languages of your choice
-- **Challenge**: 6 (2300 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str -1 Dex 2 Con 0 Int 3 Wis 1 Cha 0 |
+| **Hit Points** | 122, **Defense:** 22, **Initiative:** +3 |
+| **Skills** | Arcana +6, History +6 |
+| **S. Throws** | Fortitude +6, Reflex +8, Will +7 |
+| **Movement** | 9 m |
+| **Languages** | four languages of your choice |
+| **Challenge** | 6 (2300 XP) |
 
 A Wizard who has established a fair reputation in the territory and who attracts students from all around.
 
@@ -34682,14 +36202,16 @@ level 5 (1 slot): *Cone of Cold*
 **Reaction: *Opportunistic Spell***: the wizard reacts to an attack by casting a cantrip.
 
 Archmage
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3
-- **Hit Points**: 233,  **Defense:** 30,  **Initiative:** +5
-- **Skills**: Arcana +13, History +13
-- **Saving Throws**: Fortitude +13, Reflex +14, Will +14
-- **Movement**: 9 m
-- **Languages**: six languages of your choice
-- **Challenge**: 12 (8400 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 5 Wis 2 Cha 3 |
+| **Hit Points** | 233, **Defense:** 30, **Initiative:** +5 |
+| **Skills** | Arcana +13, History +13 |
+| **S. Throws** | Fortitude +13, Reflex +14, Will +14 |
+| **Movement** | 9 m |
+| **Languages** | six languages of your choice |
+| **Challenge** | 12 (8400 XP) |
 
 A very powerful (and also very old) wizard who studies the secrets of the multiverse.
 
@@ -34730,14 +36252,16 @@ The archmage casts these {*} spells on itself before combat.
 Priests are devoted to a deity or faith who take care of imparting divine teachings to their flock.
 
 Cultist
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0
-- **Hit Points**: 17,  **Defense:** 13,  **Initiative:** +1
-- **Skills**: Deception +2, Religion +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 0 Int 0 Wis 0 Cha 0 |
+| **Hit Points** | 17, **Defense:** 13, **Initiative:** +1 |
+| **Skills** | Deception +2, Religion +2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 Cultists swear allegiance to dark powers, and in their beliefs and practices often show signs of madness.
 
@@ -34748,14 +36272,16 @@ Cultists swear allegiance to dark powers, and in their beliefs and practices oft
 *Hit:* 4 (1d6 + 1) slashing damage.
 
 Acolyte
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0
-- **Hit Points**: 19,  **Defense:** 12,  **Initiative:** +0
-- **Skills**: First Aid +4, Religion +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/4 (50 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 0 Int 0 Wis 2 Cha 0 |
+| **Hit Points** | 19, **Defense:** 12, **Initiative:** +0 |
+| **Skills** | First Aid +4, Religion +2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/4 (50 XP) |
 
 Acolytes are members of the minor clergy, usually reporting to a higher-ranking priest. They perform various functions in a temple and are granted by their deity the ability to cast minor spells.
 
@@ -34770,14 +36296,16 @@ level 1 (3 slots): *Bless, Cure Wounds, Sanctuary*
 *Hit:* 2 (1d4) bludgeoning damage.
 
 Cult leader
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2
-- **Hit Points**: 33,  **Defense:** 15,  **Initiative:** +2
-- **Skills**: Deception +4, Religion +2
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common and one other language
-- **Challenge**: 1 (200 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 2 |
+| **Hit Points** | 33, **Defense:** 15, **Initiative:** +2 |
+| **Skills** | Deception +4, Religion +2 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common and one other language |
+| **Challenge** | 1 (200 XP) |
 
 They are the leaders of a cult, who use their charisma and dogmas to influence the weak-willed.
 
@@ -34798,13 +36326,15 @@ level 2 (3 slots): *Spiritual Weapon, Hold Person*
 *Hit:* 4 (1d4 + 2) piercing damage.
 
 High Priest
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1
-- **Hit Points**: 51,  **Defense:** 14,  **Initiative:** +1
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +5
-- **Movement**: 7 m
-- **Languages**: two languages of your choice
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 0 Con 1 Int 1 Wis 3 Cha 1 |
+| **Hit Points** | 51, **Defense:** 14, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +5 |
+| **Movement** | 7 m |
+| **Languages** | two languages of your choice |
+| **Challenge** | 2 (450 XP) |
 
 They are individuals in command of a temple or other sacred place and who have several acolytes at their disposal.
 
@@ -34829,13 +36359,15 @@ level 3 (2 slots): *Dispel Magic*
 These individuals live on the fringes of civilization, sometimes rarely coming into contact with it. Uncomfortable within walls and in civilized lands, they are in their element when they can move through the wilderness.
 
 Berserker
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1
-- **Hit Points**: 52,  **Defense:** 15,  **Initiative:** +1
-- **Saving Throws**: Fortitude +5, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 3 Dex 1 Con 3 Int -1 Wis 0 Cha -1 |
+| **Hit Points** | 52, **Defense:** 15, **Initiative:** +1 |
+| **Saving Throws** | Fortitude +5, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 2 (450 XP) |
 
 Coming from wild lands, unpredictable berserkers gather in war bands and are always looking for conflicts to fight in.
 
@@ -34846,13 +36378,15 @@ Coming from wild lands, unpredictable berserkers gather in war bands and are alw
 *Hit:* 9 (1d12 + 3) slashing damage.
 
 Tribal Warrior
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1
-- **Hit Points**: 17,  **Defense:** 12,  **Initiative:** +0
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/8 (25 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 1 Dex 0 Con 1 Int -1 Wis 0 Cha -1 |
+| **Hit Points** | 17, **Defense:** 12, **Initiative:** +0 |
+| **Saving Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/8 (25 XP) |
 
 They are the defenders of tribes living on the fringes of civilization.
 
@@ -34863,14 +36397,16 @@ They are the defenders of tribes living on the fringes of civilization.
 *Hit:* 4 (1d6 + 1) piercing damage
 
 Druid
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0
-- **Hit Points**: 51,  **Defense:** 15,  **Initiative:** +1
-- **Skills**: First Aid +4, Nature +3, Awareness +4
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +4
-- **Movement**: 9 m
-- **Languages**: Druidic plus two other languages
-- **Challenge**: 2 (450 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 1 Con 1 Int 1 Wis 2 Cha 0 |
+| **Hit Points** | 51, **Defense:** 15, **Initiative:** +1 |
+| **Skills** | First Aid +4, Nature +3, Awareness +4 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +4 |
+| **Movement** | 9 m |
+| **Languages** | Druidic plus two other languages |
+| **Challenge** | 2 (450 XP) |
 
 Druids protect the natural world from monsters and the advance of civilization. Some are tribal shamans who heal the sick, pray to animal spirits, and provide spiritual guidance. They are usually devoted to Efrem or Shayalia.
 
@@ -34887,14 +36423,16 @@ level 2 (3 slots): *Animal Messenger, Barkskin*
 *Hit:* 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with *Shillelagh* or if wielded with two hands.
 
 Scout
-- **Size/Type**: Medium humanoid, any Trait
-- **Ability**: Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0
-- **Hit Points**: 24,  **Defense:** 14,  **Initiative:** +2
-- **Skills**: Stealth +6, Nature +4, Awareness +5, Survival +5
-- **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 9 m
-- **Languages**: Common
-- **Challenge**: 1/2 (100 XP)
+
+| **Size/Type** | Medium humanoid, any Trait |
+| --- | --- |
+| **Ability** | Str 0 Dex 2 Con 1 Int 0 Wis 1 Cha 0 |
+| **Hit Points** | 24, **Defense:** 14, **Initiative:** +2 |
+| **Skills** | Stealth +6, Nature +4, Awareness +5, Survival +5 |
+| **S. Throws** | Fortitude +3, Reflex +3, Will +3 |
+| **Movement** | 9 m |
+| **Languages** | Common |
+| **Challenge** | 1/2 (100 XP) |
 
 Skilled hunters and trackers.
 

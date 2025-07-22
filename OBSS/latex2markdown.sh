@@ -142,6 +142,9 @@ sed -i 's/\\href{//g' OBSSv2.md
 sed -i 's/| {\\textwidth}{>{\\bfseries}l|> |//g' OBSSv2.md
 sed -i 's/}  %chiude {//g' OBSSv2.md
 sed -i 's/\*\*\\hyperlink{[^}]*\*\*{//g' OBSSv2.md
+sed -i 's/pX}//g' OBSSv2.md
+
+
 
 sed -i 's/\\mostro{\([^}]*\)}/\1/g' OBSSv2-eng.md
 sed -i 's/\\rowcolor{gray!20}//g' OBSSv2-eng.md
