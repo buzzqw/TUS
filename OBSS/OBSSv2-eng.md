@@ -3400,7 +3400,6 @@ Remember to also mark the bonuses related to Saving Throws. Typically, a concret
 
 ## Accelerated Healing
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -3417,7 +3416,6 @@ The **third time**, requirement Constitution 2, that you take this Feat, after a
 
 ## Animalia
 
-pX}
 
 | **Requirement**: | Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2. |
 | --- | --- |
@@ -3498,7 +3496,6 @@ When you are transformed, you can channel your Magic Points to improve the trans
 
 ## Archer on sauromount
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -3511,7 +3508,6 @@ The standard penalties are -4 and -6 depending on whether you trot (movement x2)
 
 ## Armed
 
-pX}
 
 | **Requirement**: | Strength 3, Weapon Proficiency 1 |
 | --- | --- |
@@ -3524,7 +3520,6 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, you ha
 
 ## Armor of the Devoted
 
-pX}
 
 | **Requirement**: | Single Trait value in common with Patron 4, being a Devotee or Follower |
 | --- | --- |
@@ -3541,7 +3536,6 @@ The **fourth time** you take this Ability, single Trait 12 requirement, Magic Ch
 
 ## Armor of the Enchanted Mountain
 
-pX}
 
 | **Requirement**: | Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1 |
 | --- | --- |
@@ -3562,7 +3556,6 @@ The **fifth time** you take this Feat, requirement Empty Fist 13, you acquire da
 
 ## Arrow Called, Arrow Delivered
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -3577,7 +3570,6 @@ The bow/crossbow must already be in hand.
 
 ## Black Siphon
 
-pX}
 
 | **Requirement**: | Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points |
 | --- | --- |
@@ -3590,7 +3582,6 @@ The casting time of the spell increases to 3 Actions.
 
 ## Blade Dance
 
-pX}
 
 | **Requirement**: | Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1 |
 | --- | --- |
@@ -3607,7 +3598,6 @@ The second and third advantages are not cumulative.
 
 ## Blind Fighting
 
-pX}
 
 | **Requirement**: | Awareness 2 |
 | --- | --- |
@@ -3628,7 +3618,6 @@ The penalty to Attack Roll against invisible creatures is -2.
 
 ## Blockhead
 
-pX}
 
 | **Requirement**: | Crossbow List 4 |
 | --- | --- |
@@ -3641,7 +3630,6 @@ Your crossbow bolt increases by one damage size.
 
 ## Bloodhound
 
-pX}
 
 | **Requirement**: | Intelligence 1, Wisdom 1, Weapon Proficiency 1 |
 | --- | --- |
@@ -3660,7 +3648,6 @@ The bonus can be used for Attack Rolls, Saving Throws caused by the opponent, an
 
 ## Brew Potions
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -3675,7 +3662,6 @@ The **second time** you take this Feat, the time to prepare potions/poisons is h
 
 ## Cautious Caster
 
-pX}
 
 | **Requirement**: | Magic Proficiency 8 |
 | --- | --- |
@@ -3688,7 +3674,6 @@ This Feat does not affect the fact that you are still Distracted in casting a su
 
 ## Channel Energy
 
-pX}
 
 | **Requirement**: | Laying on Hands, Magic Proficiency 1, Common Traits 4 |
 | --- | --- |
@@ -3704,7 +3689,6 @@ The energy comes from your body and influences yourself and the creatures around
 
 ## Clinical Eye
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -3715,7 +3699,6 @@ You are able to do critical damage to creatures normally immune to criticals.
 
 ## Colossus
 
-pX}
 
 | **Requirement**: | Constitution 1 |
 | --- | --- |
@@ -3736,7 +3719,6 @@ The **fourth time**, requisite Constitution 3, you take this Feat, you increase 
 
 ## Combat Caster
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -3753,7 +3735,6 @@ This Feat can be used in the Magic Check required by Warrior of Magic. The indic
 
 ## Coordinated Damage
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 6, Wisdom 2 |
 | --- | --- |
@@ -3770,7 +3751,6 @@ The Attack Rolls must hit in order to apply the damage to the other opponent.
 
 ## Create Magic Items
 
-pX}
 
 | **Requirement**: | Magic Proficiency 6 |
 | --- | --- |
@@ -3787,7 +3767,6 @@ The **fourth time** you take this Feat, requirement Magic Proficiency 18, the sp
 
 ## Dancing Scourge
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, using a weapon from the Rolling Balls list |
 | --- | --- |
@@ -3798,7 +3777,6 @@ When you use your weapon from the Rolling Balls list, you have a bonus of +1 to 
 
 ## Daredevil
 
-pX}
 
 | **Requirement**: | Weapon Proficiency +2, Dexterity 1 |
 | --- | --- |
@@ -3813,7 +3791,6 @@ The **second time** you take this Feat, you have a +2 to Attack Roll in melee an
 
 ## Daughter of Shayalia
 
-pX}
 
 | **Requirement**: | Devotee or Follower of Shayalia |
 | --- | --- |
@@ -3832,7 +3809,6 @@ The **fourth time** you take this Feat, requirement Animalia taken 4 times, you 
 
 ## Deadly Strike
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 5 |
 | --- | --- |
@@ -3843,7 +3819,6 @@ Make the Attack Roll with a penalty of -1d6; if you hit, you cause 2 critical da
 
 ## Debilitating Strike
 
-pX}
 
 | **Requirement**: | Sneak Attack 3, Weapon Proficiency 12 |
 | --- | --- |
@@ -3856,7 +3831,6 @@ The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Rol
 
 ## Decipher Magical Writings
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -3867,7 +3841,6 @@ Has a bonus of +1d6 in understanding the content of a scroll and in casting the 
 
 ## Defend Mount
 
-pX}
 
 | **Requirement**: | Ride 1 |
 | --- | --- |
@@ -3882,7 +3855,6 @@ This Feat can only be used once per round, for a single attack, and costs the Re
 
 ## Double Portion
 
-pX}
 
 | **Requirement**: | Two weapon Fighting, Weapon Proficiency 4 |
 | --- | --- |
@@ -3893,7 +3865,6 @@ Constant training with two weapons allows you to apply the damage bonus due to S
 
 ## Elemental Form
 
-pX}
 
 | **Requirement**: | Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6 |
 | --- | --- |
@@ -3912,7 +3883,6 @@ If you are a Devotee or Follower of Gaya or Erondil, it is not necessary to tran
 
 ## Elementalist
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3, At least 4 spells from Elemental Magic List |
 | --- | --- |
@@ -3928,7 +3898,6 @@ The **second time** you take this Feat, requirement Magic Proficiency 6, choose 
 
 ## Expert
 
-pX}
 
 | **Requirement**: | Related ability score at least -1 |
 | --- | --- |
@@ -3951,7 +3920,6 @@ Not usable on Awareness (see Perceptive, page ).
 
 ## Extended Battery
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Magic Adept |
 | --- | --- |
@@ -3964,7 +3932,6 @@ When you make a Magic Check and achieve at least one Critical Magic Success, the
 
 ## Eyes of Magic
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -3977,7 +3944,6 @@ The **second time**, requirement Magic Proficiency 1, that you take the Feat, ac
 
 ## Faithful
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Sum of common Traits 2, being a Devotee |
 | --- | --- |
@@ -3992,7 +3958,6 @@ This Feat does not stack with the Magic Battery Feat.
 
 ## Fast Step
 
-pX}
 
 | **Requirement**: | Dexterity 1 |
 | --- | --- |
@@ -4006,7 +3971,6 @@ Each additional **two times** you take the Feat, your movement increases by 1 me
 
 ## Feign Death
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -4019,7 +3983,6 @@ The effect lasts at most 2 minutes. Feigning death cannot be repeated at interva
 
 ## Ferocity
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4042,7 +4005,6 @@ The player can choose only one level of Ferocity to use in the encounter (2, 3, 
 
 ## First Blood
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4053,7 +4015,6 @@ The first Attack Roll of the day has a bonus of +1d6 and causes a critical hit i
 
 ## Focused
 
-pX}
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |
@@ -4066,7 +4027,6 @@ This Feat can be taken multiple times on the same Magic List or on other lists, 
 
 ## Focused Weapon
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4077,7 +4037,6 @@ Choose a weapon in a Weapon List you know. You gain a +1 to Initiative and Attac
 
 ## Forged in Fury
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 5 |
 | --- | --- |
@@ -4088,7 +4047,6 @@ When you make a critical hit with a melee attack is considered that you have hit
 
 ## Fury
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4103,7 +4061,6 @@ You can decide to activate this Feat round by round. It costs 1 Immediate Action
 
 ## Hard to Kill
 
-pX}
 
 | **Requirement**: | - |
 | --- | --- |
@@ -4114,7 +4071,6 @@ You are particularly stubborn about not wanting to die. The character increases 
 
 ## Hawk Eye
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -4129,7 +4085,6 @@ The **third time** you take this Feat, you are able to extend your shot even fur
 
 ## Healer
 
-pX}
 
 | **Requirement**: | Wisdom 1 |
 | --- | --- |
@@ -4144,7 +4099,6 @@ The **second time** you take this Feat, requirement sum of traits in common with
 
 ## Hit and Run
 
-pX}
 
 | **Requirement**: | Dexterity 1, Weapon Proficiency 1 |
 | --- | --- |
@@ -4155,7 +4109,6 @@ If in the round you execute at least one attack, these have a base penalty of -5
 
 ## I said FALL!
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 4 |
 | --- | --- |
@@ -4166,7 +4119,6 @@ If you hit an opponent 3 times within 2 rounds, they must make a Fortitude Savin
 
 ## Iaijutsu
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -4183,7 +4135,6 @@ Consumes two Actions.
 
 ## Improved Initiative
 
-pX}
 
 | **Requirement**: | Intelligence or Dexterity 1 |
 | --- | --- |
@@ -4194,7 +4145,6 @@ Increase initiative by +1. This Feat can be taken up to 2 times and the bonus is
 
 ## Improvise
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4206,7 +4156,6 @@ You do not suffer penalties to hit when using an improvised weapon. You gain a +
 
 ## Infuriate
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 and Charisma or Strength 2 |
 | --- | --- |
@@ -4221,7 +4170,6 @@ The opponent may not understand your language but must have Intelligence equal t
 
 ## Infuse Magical Energy
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Magic Proficiency 2 |
 | --- | --- |
@@ -4240,7 +4188,6 @@ The **third time** you take this Feat, requirement Magic Proficiency 8, you can 
 
 ## Infuse Superior Magical Energy
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 4, Magic Proficiency 6 |
 | --- | --- |
@@ -4263,7 +4210,6 @@ The abilities are not cumulative; you must choose which to apply round by round.
 
 ## Inspire Courage
 
-pX}
 
 | **Requirement**: | Charisma 2, Entertain 1 |
 | --- | --- |
@@ -4286,7 +4232,6 @@ Creatures must continue to see/hear your performance to remain influenced.
 
 ## Instill Fear
 
-pX}
 
 | **Requirement**: | Charisma 2 |
 | --- | --- |
@@ -4307,7 +4252,6 @@ Activating, maintaining, or changing the effect of the Feat requires 2 Actions a
 
 ## Instinctive Knowledge
 
-pX}
 
 | **Requirement**: | Knowledge 1 |
 | --- | --- |
@@ -4320,7 +4264,6 @@ You have an instinctive ability to remember and evaluate an enemy. When you take
 
 ## Iron Fist
 
-pX}
 
 | **Requirement**: | Empty Fist List 3 |
 | --- | --- |
@@ -4345,7 +4288,6 @@ The indicated bonuses are cumulative.
 
 ## Iron Will
 
-pX}
 
 | **Requirement**: | Wisdom 0 |
 | --- | --- |
@@ -4360,7 +4302,6 @@ The **fourth time** you take this Feat, you can decide to automatically succeed 
 
 ## Juggler
 
-pX}
 
 | **Requirement**: | Dexterity 2 |
 | --- | --- |
@@ -4375,7 +4316,6 @@ You can throw a second dagger as an Immediate Action following an Attack action 
 
 ## Laying on Hands
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Common Traits 3, being Devoted or Follower |
 | --- | --- |
@@ -4412,7 +4352,6 @@ Fortitude Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom 
 
 ## Lightning Reflexes
 
-pX}
 
 | **Requirement**: | Dexterity 1 |
 | --- | --- |
@@ -4425,7 +4364,6 @@ The **fourth time** you take this Feat, you can automatically succeed on a Refle
 
 ## Loaded Dice
 
-pX}
 
 | **Requirement**: | Magic Proficiency 6 |
 | --- | --- |
@@ -4438,7 +4376,6 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 
 ## Lucky
 
-pX}
 
 | **Requirement**: | none |
 | --- | --- |
@@ -4451,7 +4388,6 @@ This Feat can be declared even after the dice have been rolled.
 
 ## Magic Adept
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -4468,7 +4404,6 @@ This Feat can be taken multiple times as long as it is less than MP/2.
 
 ## Magic Battery
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3 |
 | --- | --- |
@@ -4483,7 +4418,6 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 
 ## Magical Roots
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -4494,7 +4428,6 @@ While you are affected by one of your spells, using an Action your weapon gains 
 
 ## Mental Wall
 
-pX}
 
 | **Requirement**: | Wisdom +1 |
 | --- | --- |
@@ -4505,7 +4438,6 @@ Your mind is trained against those who want to influence it. Each time you take 
 
 ## Mighty Blows
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4518,7 +4450,6 @@ You gain a +1 to damage with a Weapon List.
 
 ## My Death Your Death
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Strength 1 |
 | --- | --- |
@@ -4531,7 +4462,6 @@ The Feat must be declared before the Attack Roll and lasts until the beginning o
 
 ## My Head is Harder
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4542,7 +4472,6 @@ Your weapon, present in the Skull Crusher Weapons List, does +2 damage
 
 ## My Skin
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4557,7 +4486,6 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, the De
 
 ## One Arm, One Weapon
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -4572,7 +4500,6 @@ If you take this Feat **4 times** on the same Weapon List, the damage bonus is r
 
 ## One Belief
 
-pX}
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |
@@ -4603,7 +4530,6 @@ The **sixth time** you take this Feat, requirement Magic Proficiency 20, in the 
 
 ## One Body, One Mind, One Spirit
 
-pX}
 
 | **Requirement**: | none |
 | --- | --- |
@@ -4614,7 +4540,6 @@ Assign one point to Weapon Proficiency or Magic Proficiency. This Feat can be ta
 
 ## One Hit One Kill
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Magic Adept 1 |
 | --- | --- |
@@ -4627,7 +4552,6 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 
 ## One with Magic
 
-pX}
 
 | **Requirement**: | Magic Adept |
 | --- | --- |
@@ -4638,7 +4562,6 @@ Your modifier spell score has a +1 to the value for determining spell effects, M
 
 ## One with the Bow
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 4 |
 | --- | --- |
@@ -4653,7 +4576,6 @@ The **second time** you take this Feat, Dexterity 3 and Weapon Proficiency 7, th
 
 ## Only Child
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -4674,7 +4596,6 @@ Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cas
 
 ## Opportunist
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -4685,7 +4606,6 @@ You can attempt to hit an opponent in melee who **exits** or **crosses** a melee
 
 ## Paralyzing Strike
 
-pX}
 
 | **Requirement**: | Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18 |
 | --- | --- |
@@ -4696,7 +4616,6 @@ You dedicate 2 Actions per Round, for 5 rounds, to studying an opponent you can 
 
 ## Parry
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 or Empty Fist 2 |
 | --- | --- |
@@ -4713,7 +4632,6 @@ Using the Parry Feat must be declared in your round and remains active until the
 
 ## Perceptive
 
-pX}
 
 | **Requirement**: | Wisdom 0 |
 | --- | --- |
@@ -4726,7 +4644,6 @@ Take a +1 bonus to Awareness checks. This Feat can be taken a maximum of 3 times
 
 ## Perfectionist
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -4739,7 +4656,6 @@ The **second time** you take this Feat, Weapon Proficiency 4, reduce the Cover p
 
 ## Pet / Familiar
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -4752,7 +4668,6 @@ The **second time** you take this Feat, you gain a Familiar (page ).
 
 ## Phoenix Wings
 
-pX}
 
 | **Requirement**: | Empty Fist List 3, Silver Crane 1 |
 | --- | --- |
@@ -4769,7 +4684,6 @@ The **third time** you take this Feat, requirement Empty Fist List 12, Silver Cr
 
 ## Immunity to Poisons
 
-pX}
 
 | **Requirement**: | Constitution 1 |
 | --- | --- |
@@ -4784,7 +4698,6 @@ The **third time** you have a +1d6 to Saving Throws against magical poisons and 
 
 ## Polyglot
 
-pX}
 
 | **Requirement**: | at least Intelligence -1, at character creation |
 | --- | --- |
@@ -4795,7 +4708,6 @@ You have an extraordinary ability to learn languages. For each point assigned to
 
 ## Power of the Patron
 
-pX}
 
 | **Requirement**: | Sum of Common Traits with the Patron 1, being Devoted |
 | --- | --- |
@@ -4810,7 +4722,6 @@ If all three checks succeed, it is likely that there will be a Manifestation of 
 
 ## Powerful Fist
 
-pX}
 
 | **Requirement**: | Empty Fist List 3 |
 | --- | --- |
@@ -4824,7 +4735,6 @@ If they critically fail the Saving Throw, they suffer an additional critical hit
 
 ## Powerful Magics
 
-pX}
 
 | **Requirement**: | Magic Proficiency 5 |
 | --- | --- |
@@ -4837,7 +4747,6 @@ Choose a Magic List, gain +1d6 to the Magic Check when casting spells from this 
 
 ## Precise Shot
 
-pX}
 
 | **Requirement**: | Dexterity 3, Weapon Proficiency 1 |
 | --- | --- |
@@ -4850,7 +4759,6 @@ You gain +1 to Attack Roll and damage with thrown weapons when the target is wit
 
 ## Press On
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4869,7 +4777,6 @@ Each bonus attack beyond the first suffers a cumulative penalty: -2 to hit and -
 
 ## Prodigious
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3 |
 | --- | --- |
@@ -4882,7 +4789,6 @@ This Feat can be taken multiple times and the total must be equal to or less tha
 
 ## Psychic Energy
 
-pX}
 
 | **Requirement**: | Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1 |
 | --- | --- |
@@ -4899,7 +4805,6 @@ You recover 1 Chi point every 10 minutes in which the character does not perform
 
 ## Psychic Ray
 
-pX}
 
 | **Requirement**: | Psychic Strike, Wisdom 3, Weapon Proficiency 5 |
 | --- | --- |
@@ -4914,7 +4819,6 @@ The **second time** you take this Feat, requirement Wisdom 3, Weapon Proficiency
 
 ## Psychic Strike
 
-pX}
 
 | **Requirement**: | Psychic Energy, Dexterity 1 |
 | --- | --- |
@@ -4935,7 +4839,6 @@ The **fourth time** you take this Feat, Weapon Proficiency 7, Wisdom 4, if the A
 
 ## Pure Blood
 
-pX}
 
 | **Requirement**: | Animalia, Devotee of Efrem or Shayalia |
 | --- | --- |
@@ -4952,7 +4855,6 @@ The second and third abilities are cumulative.
 
 ## Quick
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -4965,7 +4867,6 @@ The **second time** you take this Feat, Weapon Proficiency 6, you gain a reactio
 
 ## Quick Draw
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -4980,7 +4881,6 @@ The **third time** you take this Feat, you can put away your current weapon and 
 
 ## Rapid Shot
 
-pX}
 
 | **Requirement**: | Dexterity 3, Precise Shot, Weapon Proficiency 2 |
 | --- | --- |
@@ -4997,7 +4897,6 @@ The first shot has a normal Attack Roll, the second has a -4, the third a -8...
 
 ## Reach
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -5008,7 +4907,6 @@ You use an Action in conjunction with your Attack Action in melee to increase th
 
 ## Ready Defense
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -5021,7 +4919,6 @@ You have a +2 to Defense against opportunity attacks, attacks from behind, or fr
 
 ## Recovery
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -5034,7 +4931,6 @@ You take half the time to recover from the Fatigued condition.
 
 ## Retaliation
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr |
 | --- | --- |
@@ -5051,7 +4947,6 @@ You can take this Feat **up to 3 times**, each time the bonus to Attack Roll and
 
 ## Rhino
 
-pX}
 
 | **Requirement**: | Constitution 1 |
 | --- | --- |
@@ -5068,7 +4963,6 @@ The **third time** you take this Feat, you have hardened your skin so much that 
 
 ## Robust
 
-pX}
 
 | **Requirement**: | Constitution -1 |
 | --- | --- |
@@ -5083,7 +4977,6 @@ The bonuses are cumulative and retroactive to previous levels.
 
 ## Scholar
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, only at character creation |
 | --- | --- |
@@ -5094,7 +4987,6 @@ Your interest in and connection with magic is unparalleled. You can know 4 addit
 
 ## Scribe
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -5105,7 +4997,6 @@ You are extremely quick in copying new spells into your Book of Magic. The time 
 
 ## Second Skin
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -5122,7 +5013,6 @@ The **third time** you take this Feat, requirement Weapon Proficiency 11, the pe
 
 ## Shoot and Scoot
 
-pX}
 
 | **Requirement**: | Crossbow List 3 |
 | --- | --- |
@@ -5133,7 +5023,6 @@ While performing a Movement Action, you can reduce the loading time of your cros
 
 ## Silver Crane
 
-pX}
 
 | **Requirement**: | Empty Fist List 2, Dexterity 1 |
 | --- | --- |
@@ -5156,7 +5045,6 @@ The bonuses are active even if you are not fighting.
 
 ## Sneak Attack
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -5173,7 +5061,6 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 12, you c
 
 ## Silent Step
 
-pX}
 
 | **Requirement**: | Stealth 1 |
 | --- | --- |
@@ -5188,7 +5075,6 @@ The **second time** you take this Feat, requirement Dexterity 3, Stealth 8, you 
 
 ## Son of Tazher
 
-pX}
 
 | **Requirement**: | Devotee or Follower of Tazher, sum of common traits 10 |
 | --- | --- |
@@ -5208,7 +5094,6 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 
 ## Specialist
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3 |
 | --- | --- |
@@ -5221,7 +5106,6 @@ This Feat can be taken multiple times on different spells each time.
 
 ## Spring
 
-pX}
 
 | **Requirement**: | Strength 0 |
 | --- | --- |
@@ -5234,7 +5118,6 @@ The **second time** you take this Feat, when you make a check to jump long or hi
 
 ## Stay Down!
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -5249,7 +5132,6 @@ The **third time** you take this Feat, you can also affect creatures two sizes l
 
 ## Stone Resilience
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -5264,7 +5146,6 @@ The **fourth time** you take this Feat, you can automatically succeed on a Forti
 
 ## Storm of Fury
 
-pX}
 
 | **Requirement**: | Empty Fist List 7, Dexterity 1, Strength 1 |
 | --- | --- |
@@ -5277,7 +5158,6 @@ You make a single Attack Roll with -1d6, and if you hit with your natural attack
 
 ## Sure Step
 
-pX}
 
 | **Requirement**: | Wisdom 1 |
 | --- | --- |
@@ -5310,7 +5190,6 @@ The **second time** you take this Feat on the same terrain, specializing, you ac
 
 ## Tactician
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Intelligence 1 |
 | --- | --- |
@@ -5331,7 +5210,6 @@ The **second time** you take this Feat, requirement Intelligence 2, Weapon Profi
 
 ## The Bigger They Are, The Harder They Fall
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -5342,7 +5220,6 @@ When you attack a creature at least 2 sizes larger than you, you do +1 additiona
 
 ## The Patron is my Weapon
 
-pX}
 
 | **Requirement**: | Sum of Common Traits with the Patron 1, being Followers |
 | --- | --- |
@@ -5365,7 +5242,6 @@ The **sixth time** you take this Feat, requirement sum of Common Traits with the
 
 ## The Patron is with me
 
-pX}
 
 | **Requirement**: | Devoted, Sum of Common Traits with the Patron 2 |
 | --- | --- |
@@ -5382,7 +5258,6 @@ This Feat can be declared even after the dice are rolled. Any new value obtained
 
 ## The Shield is my Friend
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Magic Proficiency 1 |
 | --- | --- |
@@ -5399,7 +5274,6 @@ The **third time** you take this Ability, constant training with the shield allo
 
 ## This is my Dagger
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -5410,7 +5284,6 @@ When you do critical damage with your dagger, you add an additional critical hit
 
 ## This is my Weapon!
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -5423,7 +5296,6 @@ The **second time** you take this Feat, Weapon Proficiency 5, you can miss your 
 
 ## Tough Hide
 
-pX}
 
 | **Requirement**: | Constitution 2 |
 | --- | --- |
@@ -5442,7 +5314,6 @@ The bonuses are cumulative.
 
 ## Trackless
 
-pX}
 
 | **Requirement**: | Sure Step |
 | --- | --- |
@@ -5453,7 +5324,6 @@ The ability to leave no footprints in the chosen environment. Each time you take
 
 ## Trap Dodging
 
-pX}
 
 | **Requirement**: | Dexterity 2 |
 | --- | --- |
@@ -5468,7 +5338,6 @@ You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Savi
 
 ## Truly Evil Person
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -5483,7 +5352,6 @@ The Feat must be declared before knowing the outcome of the Attack Roll. Costs o
 
 ## Turn Undead
 
-pX}
 
 | **Requirement**: | Common Traits sum 2, be a Devotee or Follower |
 | --- | --- |
@@ -5510,7 +5378,6 @@ A Devotee of Thaft gets +1d6 to Divine Power.
 
 ## Two weapon Fighting
 
-pX}
 
 | **Requirement**: | Dexterity 2, Strength 1, Weapon Proficiency 2 |
 | --- | --- |
@@ -5529,7 +5396,6 @@ The **third time**, the first attack made with the off-hand weapon does not accu
 
 ## Uncanny Dodge
 
-pX}
 
 | **Requirement**: | Dexterity 3 |
 | --- | --- |
@@ -5546,7 +5412,6 @@ You can use this Feat even after knowing by how much you were hit.
 
 ## Unlucky
 
-pX}
 
 | **Requirement**: | Lucky, at least 6 points in the sum of Traits |
 | --- | --- |
@@ -5557,7 +5422,6 @@ Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill 
 
 ## Versatile Litany
 
-pX}
 
 | **Requirement**: | Entertain Proficiency 6 |
 | --- | --- |
@@ -5578,7 +5442,6 @@ The **second time** you take this Feat, you can exclude from the effect a number
 
 ## Warrior of Magic
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2, Magic Proficiency 2 |
 | --- | --- |
@@ -5599,7 +5462,6 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 ## Weapon Artist
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -5614,7 +5476,6 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 
 ## Whirlwind Attack
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 12, Entertain 3 |
 | --- | --- |
@@ -23518,7 +23379,7 @@ Organization: Solitary, pair, brood (3-6), or shoal (7-19)
 
 As their primitive appearance suggests, aboleths are among the oldest life forms in the world. An aboleth is 7 meters long and weighs about 3.2 tons. Aboleths dwell at the bottom of the seas in their vast cities, served by countless slaves.
 
-Adult Black Dragon
+### Adult Black Dragon
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -23587,7 +23448,7 @@ Organization: Solitary
 
 - Bestow Curse
 
-Adult Blue Dragon
+### Adult Blue Dragon
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -23654,7 +23515,7 @@ Organization: Solitary
 
 - Ice Storm
 
-Adult Brass Dragon
+### Adult Brass Dragon
 
 | **Size/Type** | Huge dragon, good |
 | --- | --- |
@@ -23723,7 +23584,7 @@ Organization: Solitary
 
 - Scrying
 
-Adult Bronze Dragon
+### Adult Bronze Dragon
 
 | **Size/Type** | Huge dragon, good |
 | --- | --- |
@@ -23797,7 +23658,7 @@ Organization: Solitary
 
 - Freedom of Movement
 
-Adult Copper Dragon
+### Adult Copper Dragon
 
 | **Size/Type** | Huge dragon, good |
 | --- | --- |
@@ -23866,7 +23727,7 @@ Organization: Solitary
 
 - Fire Shield
 
-Adult Gold Dragon
+### Adult Gold Dragon
 
 | **Size/Type** | Huge dragon, good |
 | --- | --- |
@@ -23943,7 +23804,7 @@ Organization: Solitary
 
 - Black Tentacles
 
-Adult Green Dragon
+### Adult Green Dragon
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -24012,7 +23873,7 @@ Organization: Solitary
 
 - Neutralize Poison
 
-Adult Red Dragon
+### Adult Red Dragon
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -24081,7 +23942,7 @@ Organization: Solitary
 
 - Wall of Fire
 
-Adult Silver Dragon
+### Adult Silver Dragon
 
 | **Size/Type** | Huge dragon, good |
 | --- | --- |
@@ -24154,7 +24015,7 @@ Organization: Solitary
 
 - Dream
 
-Adult White Dragon
+### Adult White Dragon
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -24221,7 +24082,7 @@ Organization: Solitary
 
 - Sleet Storm
 
-Ancient Black Dragon
+### Ancient Black Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -24310,7 +24171,7 @@ Black Dragons represent the Traits of selfishness and violence, hating every for
 
 Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead being to life despite all the constraints imposed by the Patrons.
 
-Ancient Blue Dragon
+### Ancient Blue Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -24393,7 +24254,7 @@ They don' \*\*t get along with purple dragons, which they despise for having cho
 
 - Ice Storm
 
-Ancient Brass Dragon
+### Ancient Brass Dragon
 
 | **Size/Type** | Gargantuan dragon, good |
 | --- | --- |
@@ -24464,7 +24325,7 @@ Organization: Solitary
 
 - Scrying
 
-Ancient Bronze Dragon
+### Ancient Bronze Dragon
 
 | **Size/Type** | Gargantuan dragon, good |
 | --- | --- |
@@ -24536,7 +24397,7 @@ Organization: Solitary
 
 - Freedom of Movement
 
-Ancient Copper Dragon
+### Ancient Copper Dragon
 
 | **Size/Type** | Gargantuan dragon, good |
 | --- | --- |
@@ -24609,7 +24470,7 @@ Organization: Solitary
 
 - Fire Shield
 
-Ancient Gold Dragon
+### Ancient Gold Dragon
 
 | **Size/Type** | Gargantuan dragon, good |
 | --- | --- |
@@ -24682,7 +24543,7 @@ Organization: Solitary
 
 - Black Tentacles
 
-Ancient Green Dragon
+### Ancient Green Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -24763,7 +24624,7 @@ Among the many dragons, the green one is perhaps the one that will talk to adven
 
 - Neutralize Poison
 
-Ancient Purple Dragon
+### Ancient Purple Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -24841,7 +24702,7 @@ It is strong and courageous, arrogant but not brazen. It is not afraid to fight 
 
 - Stone Shape
 
-Ancient Red Dragon
+### Ancient Red Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -24917,7 +24778,7 @@ They fight using their bulk, wings, bite, claws... basically everything they are
 
 - Wall of Fire
 
-Ancient Silver Dragon
+### Ancient Silver Dragon
 
 | **Size/Type** | Gargantuan dragon, good |
 | --- | --- |
@@ -24990,7 +24851,7 @@ Organization: Solitary
 
 - Dream
 
-Ancient White Dragon
+### Ancient White Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -25069,7 +24930,7 @@ Their lairs are icy caves in the mountains or dug into the most massive glaciers
 
 - Sleet Storm
 
-Ancient Yellow Dragon
+### Ancient Yellow Dragon
 
 | **Size/Type** | Gargantuan dragon, evil |
 | --- | --- |
@@ -25129,7 +24990,7 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 
 - Fire Shield
 
-Androsphinx
+### Androsphinx
 
 | **Size/Type** | Large monstrosity, lawful |
 | --- | --- |
@@ -25207,7 +25068,7 @@ Androsphinxes display a grumpy and spiteful facade toward strangers. They make n
 
 Androsphinxes are 12 feet tall and weigh 1,100 pounds.
 
-Animated Armor
+### Animated Armor
 
 | **Size/Type** | Medium construct, unaligned |
 | --- | --- |
@@ -25230,7 +25091,7 @@ Animated Armor
 
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
-Ankheg
+### Ankheg
 
 | **Size/Type** | Large monstrosity, unaligned |
 | --- | --- |
@@ -25259,7 +25120,7 @@ Ankhegs are burrowing monsters that prefer countryside areas due to the soft gro
 
 Some ankhegs are trainable and can become beasts of burden, although their unpredictable behavior makes them dangerous in civilized regions.
 
-Aquatic Man
+### Aquatic Man
 
 | **Size/Type** | Medium humanoid (aquatic man), neutral |
 | --- | --- |
@@ -25287,7 +25148,7 @@ Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, 
 
 Physically, the Fish Men resemble their ancestors, with expressive foreheads, pale skin, dark hair, and purple eyes. They have three thin gills on their neck, but can pass for Humans for short periods, if they wish.
 
-Azer
+### Azer
 
 | **Size/Type** | Medium elemental, lawful |
 | --- | --- |
@@ -25327,7 +25188,7 @@ In the legendary City of Brass live more than half a million Azer. Most of these
 
 To an untrained eye, the Azer appear impressively similar to each other. They are 1.2 meters tall but weigh 100 kg.
 
-B.O.C.
+### B.O.C.
 
 | **Size/Type** | large monstrosity, evil |
 | --- | --- |
@@ -25370,7 +25231,7 @@ Organization: Solitary, pair, or pack (2d4)
 
 The Black Ops Cat, better known as B.O.C., is a large predatory feline, obviously black in color. Fierce, insatiable, it kills for the pleasure of hunting. It usually operates in packs and is extremely loyal to the group.
 
-Balor
+### Balor
 
 | **Size/Type** | Huge demon, evil |
 | --- | --- |
@@ -25421,7 +25282,7 @@ In the Abyss, Balors are mostly in the service of demon lords, as generals or ca
 
 A Balor is 4.2 meters tall and weighs 2,250 kg. Only the most cruel mortal souls can fuel the creation of a balor: unlike other demons, it often takes numerous souls of powerful evildoers to give birth to a new balor.
 
-Banshee
+### Banshee
 
 | **Size/Type** | Medium undead, Arrogant, Vain |
 | --- | --- |
@@ -25464,7 +25325,7 @@ Organization: Solitary
 
 The Banshee is the enraged spirit of a woman who betrayed her loved ones or was herself betrayed. Driven mad with grief, the Banshee unleashes her vengeance on every living creature (innocent or guilty) with her dreadful touch and her deadly screams.
 
-Basilisk
+### Basilisk
 
 | **Size/Type** | Medium monstrosity, unaligned |
 | --- | --- |
@@ -25507,7 +25368,7 @@ An adult basilisk is almost 3 meters long, half of which is occupied by the long
 
 For unknown reasons, weasels, ferrets, and small mice are immune to the basilisk' \*\*s gaze, and sometimes sneak into the dens while the adult is hunting to feed on its young.
 
-Bearded Devil
+### Bearded Devil
 
 | **Size/Type** | Medium devil, evil |
 | --- | --- |
@@ -25552,7 +25413,7 @@ Chosen warriors of the infernal legions, bearded devils, or barbazus, fight sava
 
 Barbazus love to make charging attacks with their glaives and try to maintain a distance of 3 meters between themselves and their opponents, so they can use their characteristic pole weapons with maximum efficiency. Standing upright, bearded devils are more than 1.8 meters tall (although the crouched position they keep in battle often makes them appear shorter) and weigh more than 100 kg.
 
-Behir
+### Behir
 
 | **Size/Type** | Huge monstrosity, evil |
 | --- | --- |
@@ -25596,7 +25457,7 @@ The behir is a territorial creature that crawls through sandy hills and desert r
 
 Despite its bestial fury, the behir is not necessarily evil and can be persuaded by intrepid negotiators. Behirs are often linked to blue dragons, but the nature of this connection is unknown. This bond creates resentment in behirs, making them ready to attack any dragon that enters their territory.
 
-Black Dragon Wyrmling
+### Black Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, evil |
 | --- | --- |
@@ -25628,7 +25489,7 @@ Organization: Solitary
 
 See Ancient Black Dragon Description.
 
-Black Knight
+### Black Knight
 
 | **Size/Type** | Medium undead, Arrogant, Patient |
 | --- | --- |
@@ -25678,7 +25539,7 @@ Organization: Solitary
 
 Damned to the depths of his soul, the Black Knight is the antithesis of the knight of Sumkjr, and often arises from the corruption of a knight of Sumkjr. A formidable adversary, cunning, tactical, he loves to behave and reason maliciously, like a person still alive. His tactic is to cast Fireball as soon as possible and then consume the victim with Branding Smite.
 
-Black Pudding
+### Black Pudding
 
 | **Size/Type** | Large ooze, unaligned |
 | --- | --- |
@@ -25717,7 +25578,7 @@ Organization: Solitary
 
 Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
-Blue Dragon Wyrmling
+### Blue Dragon Wyrmling
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -25747,7 +25608,7 @@ Organization: Solitary
 
 See Ancient Blue Dragon Description.
 
-Bone Bloom
+### Bone Bloom
 
 | **Size/Type** | Large undead, unaligned |
 | --- | --- |
@@ -25790,7 +25651,7 @@ Organization: Solitary, groups (2d12)
 
 Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
 
-Bone Devil
+### Bone Devil
 
 | **Size/Type** | Large devil, evil |
 | --- | --- |
@@ -25838,7 +25699,7 @@ Bone devils are inquisitors of the diabolical races, known for their passion for
 
 Bone devils often travel to the mortal plane to serve evil spellcasters, gathering valuable information. Standing 2.7 meters tall and weighing over 200 kg, with terrifying tails and wings, they are imposing and feared.
 
-Brain Eater
+### Brain Eater
 
 | **Size/Type** | Small aberration, evil |
 | --- | --- |
@@ -25894,7 +25755,7 @@ Solitary Brain Eaters often live in ruins or caves on the edges of civilized reg
 
 It is said that Shayalia' \*\*s garden is full of Brain Eaters. A Brain Eater is 90 cm long and weighs about 30 kg.
 
-Brass Dragon Wyrmling
+### Brass Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, good |
 | --- | --- |
@@ -25928,7 +25789,7 @@ Organization: Solitary
 
 Excellent conversationalists, brass dragons prefer to talk rather than fight. Brass dragons make their lairs near humanoid settlements, where they can hear the latest news and gossip.
 
-Bronze Dragon Wyrmling
+### Bronze Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, good |
 | --- | --- |
@@ -25965,7 +25826,7 @@ Organization: Solitary
 
 Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate.
 
-Bugbear
+### Bugbear
 
 | **Size/Type** | Medium humanoid (goblinoid), Arrogant, Impulsive |
 | --- | --- |
@@ -26004,7 +25865,7 @@ Bugbears do not form large settlements like goblins or nations like hobgoblins; 
 
 Bugbears, when they turn to religion, prefer deities of murder and violence, with various demon lords among the favorites. A typical bugbear is 2.1 meters tall and weighs 200 kg.
 
-Bulette
+### Bulette
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -26044,7 +25905,7 @@ Bulettes are perfect machines for devouring and destroying bones, armor, and eve
 
 The bulette is a cunning fighter, and surprises enemies with impressive agility. One of its favorite tactics is to charge and leap onto prey, attacking with its razor-sharp claws. It is said that the flesh behind the beast' \*\*s dorsal ridge is particularly tender, and that those who wish or manage to wait for the fin to be raised in the heat of battle or mating can try to deliver a fatal blow to that spot, though most of those who have faced a land shark agree that the best way to win a fight with a bulette is to avoid it altogether.
 
-Centaur
+### Centaur
 
 | **Size/Type** | Large monstrosity, good |
 | --- | --- |
@@ -26086,7 +25947,7 @@ Centaurs live an average of about 60 years. Distant from other races and in conf
 
 Legend has it that the Centaurs were supposed to explode like all equines, by the will of Calicante. Ljust, horrified by so much death, interceded with Calicante to leave these creatures alone. This rescue has led many Centaur tribes to be devoted to the Lady of Light, although others have preferred to dedicate their worship to Calicante in the hope that he will not kill them all in one night.
 
-Chain Devil
+### Chain Devil
 
 | **Size/Type** | Medium devil, evil |
 | --- | --- |
@@ -26131,7 +25992,7 @@ Organization: Solitary, pair, gang (3-6) or chain (7-20)
 
 Often classified by the uninitiated among the ranks of infernal devils, Chain Devils are not true devils. Although some are known to live in Hell, they exist outside the hierarchies established by the gods of the underworld and its archdevils, and can sometimes be found on other planes, particularly on the Plane of Shadows. Many suggest they are native to Hell that existed before the advent of the diabolic lineage, although others hypothesize they were brought to the plane by some sadistic power. Regardless of their origins, they wander the planes indulging their desire to cause and receive suffering, seeking pain through violent kidnappings and sadistic depravities.
 
-Champion Skeleton
+### Champion Skeleton
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -26152,7 +26013,7 @@ Champion Skeleton
 
 *Hit:* 12 (1d12 + 4) slashing damage.
 
-Chimera
+### Chimera
 
 | **Size/Type** | Large monstrosity, Arrogant, Vain |
 | --- | --- |
@@ -26196,7 +26057,7 @@ Organization: Solitary, pair, pack (3-6) or flight (7-12)
 
 Chimeras prefer meat, but they can survive on vegetation if necessary (although when forced to do so, their mood worsens even further). The fact that they fly means they can carefully choose their prey, and they generally hunt in vast areas looking for easy targets. They are too stupid and belligerent to acquire followers, though sometimes a tribe of kobolds may make offerings to them. Conversely, they are intelligent and stubborn enough to make mediocre pets, and only a creature much more powerful than them can manage to subdue them. They can form equal partnerships with respectful humanoids or similar creatures, and also consent to being used as mounts. A pack of chimeras has a hierarchy similar to that of lions, with a dominant male that commands the group and most of the hunting done by the females. A solitary chimera can be a young solitary male or a female with cubs nearby.
 
-Chuul
+### Chuul
 
 | **Size/Type** | Large aberration, evil |
 | --- | --- |
@@ -26238,7 +26099,7 @@ Chuuls are excellent swimmers, but prefer to attack land creatures or those accu
 
 Chuuls are surprisingly intelligent, and many engage in useless speculation about their origins and motivations. They speak a chirping and gurgling dialect of Common, but few of them are inclined to chat with those who are not of their race, and if there is a chuul society beyond the frantic mating period, no one has yet discovered it. Rather, the minds of chuuls seem devoted only to finding the perfect place to ambush and attack other intelligent creatures and how to decorate their elaborate lairs with trophies from their victims. Although chuuls seem uninterested in using tools, they have a compulsive need to collect those of their victims. A typical chuul is 2.3 meters tall and weighs 325 kg.
 
-Clay Golem
+### Clay Golem
 
 | **Size/Type** | Large construct, unaligned |
 | --- | --- |
@@ -26291,7 +26152,7 @@ Clay golems don' \*\*t wear clothing, except for a treated leather or metal garm
 **Construction**
 A clay golem can be sculpted from a single block of clay weighing at least 500 kilograms, treated with rare powders and oils worth 1,500 gp.
 
-Cloaker
+### Cloaker
 
 | **Size/Type** | Large aberration, chaotic |
 | --- | --- |
@@ -26344,7 +26205,7 @@ Resembling flying, hideously evil manta rays, cloakers are mysterious, paranoid 
 
 Their motivations are mysterious and confused, and they distrust even their own kind. Their strange shape allows them to be mistaken for cloaks, tapestries, or other common objects, and some stories tell of cloakers allying with other creatures, allowing themselves to be carried on their backs and contributing to their allies' \*\* protection for inscrutable reasons.
 
-Cloud Giant
+### Cloud Giant
 
 | **Size/Type** | Huge giant, good (50\%) or evil (50\%) |
 | --- | --- |
@@ -26396,7 +26257,7 @@ Cloud giants can have unusually varied Traits; about half are good and half evil
 
 There are many legends that speak of magical cloud giant cities located among the clouds themselves, floating on the winds and circumnavigating the world. While cloud giants acknowledge that these are mostly fantasies, some claim to have seen them and have dedicated their entire existence to finding them.
 
-Cockatrice
+### Cockatrice
 
 | **Size/Type** | Small monstrosity, unaligned |
 | --- | --- |
@@ -26425,7 +26286,7 @@ Although their diet consists primarily of seeds and petrified insects (which in 
 
 The cockatrice' \*\*s strange ability to turn other creatures to stone is its best defense, and its lair is invariably full of the remains of petrified enemies. Ironically, however, weasels and ferrets, the creatures most likely to end up in cockatrice nests to eat their eggs, seem completely immune to this effect. For unknown reasons, cockatrices are both terrified and furious with common roosters, and there is an equal chance they will flee or attack when a confrontation occurs.
 
-Copper Dragon Wyrmling
+### Copper Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, good |
 | --- | --- |
@@ -26461,7 +26322,7 @@ This capricious dragon tries to hamper and frustrate its enemies during combat.
 
 > The great dragon, that old serpent, called the Devil, and Satan, which deceiveth the whole world: he was cast out into the earth, and his angels were cast out with him." John, Revelation 12:9
 
-Couatl
+### Couatl
 
 | **Size/Type** | Medium celestial, good |
 | --- | --- |
@@ -26509,7 +26370,7 @@ Respected and admired for their wisdom and beauty, they seek to lead mortals on 
 
 They prefer the same foods as true snakes, such as mammals and birds, though they are known to devour evil humanoids. Because they prefer to spend time pursuing their goals rather than hunting, they appreciate offerings of food, particularly small boars and fowl. A couatl sometimes shows its appreciation to an adventurer or group that has rendered it a service by giving them 1d4 of its brightly colored feathers.
 
-Darklight
+### Darklight
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -26544,7 +26405,7 @@ Usually, the Darklight hides in the darkness, waiting to touch the opponent and 
 
 When a Darklight is destroyed, it leaves its torch on the ground. This torch of pure darkness can cast the Darkness spell by touch three times a day; outside the hands of a Darklight, if exposed to sunlight, it is destroyed in 2d4 rounds.
 
-Darkmantle
+### Darkmantle
 
 | **Size/Type** | Small monstrosity, unaligned |
 | --- | --- |
@@ -26587,7 +26448,7 @@ Darkmantle prefer to live and hunt in caves and tunnels closer to the surface, a
 
 While Darkmantle and Cloaker look similar, they don' \*\*t belong to the same species, but legends tell of a common magical origin due, as often happens, to the will of two wizards to transform themselves first into cloaks... The hatred between the two monstrosities is total and overrides any other adversary present.
 
-Deep Gnome
+### Deep Gnome
 
 | **Size/Type** | Small humanoid (gnome), good |
 | --- | --- |
@@ -26629,7 +26490,7 @@ Organization: Solitary, company (2-4), squad (5-20 plus 1 leader 3rd-6th and two
 
 Deep gnomes are a branch of the gnome race. They dwell underground in hidden cities, safe from dark elves and other subterranean races. Their skin is the color of rock, usually grey or brown. Males are bald and females have sparse grey hair.
 
-Demogorgon
+### Demogorgon
 
 | **Size/Type** | Huge demon prince, evil |
 | --- | --- |
@@ -26696,7 +26557,7 @@ Organization: Unique
 
 Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon' \*\*s two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
 
-Deva Angel
+### Deva Angel
 
 | **Size/Type** | Medium celestial, good |
 | --- | --- |
@@ -26743,7 +26604,7 @@ Organization: Solitary, pair, or squad (3-6)
 
 Deva movanics make up the ranks of the celestial armies' \*\* infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
-Djinni
+### Djinni
 
 | **Size/Type** | Large elemental, good |
 | --- | --- |
@@ -26793,7 +26654,7 @@ Djinn disdain physical combat, preferring to use their magical powers and aerial
 
 Towards other Genies, Djinn get along with Janni and Marid. They are frequently at odds with the Shaitan, and are sworn enemies of the Efreet, despising these fierce Genies more than any other of the Genie Races. The conflict between the Efreet and the Djinn is so legendary that many spellcasters attempt (with varying degrees of success) to secure the service of a Djinni by promising help in the cause against their hated enemies.
 
-Dobi
+### Dobi
 
 | **Size/Type** | Tiny fey, neutral |
 | --- | --- |
@@ -26818,7 +26679,7 @@ Organization: group
 
 From *Journey to the First World.* Novel by Federica Angeli
 
-Doppelganger
+### Doppelganger
 
 | **Size/Type** | Medium monstrosity (shapechanger), neutral |
 | --- | --- |
@@ -26924,7 +26785,7 @@ If it' \*\*s a Wyrmling Dragon, it has 1 random power, 2 if it' \*\*s Young or A
 
 (popular curses against Dragons)
 
-Dragon Turtle
+### Dragon Turtle
 
 | **Size/Type** | Gargantuan dragon, neutral |
 | --- | --- |
@@ -26972,7 +26833,7 @@ Their shells vary in color, from brown and rusty red to blue-green with silver r
 
 They feed on large fish and seaweed, and don' \*\*t disdain passengers from sunken ships. Their shells can reach 5 meters in diameter, with a total length of 7 meters
 
-Dretch
+### Dretch
 
 | **Size/Type** | Small demon, evil |
 | --- | --- |
@@ -27017,7 +26878,7 @@ Unlike most demons, the dretch' \*\*s slovenly personality and disdain for prolo
 
 A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the souls of evil and indolent mortals: just a small fragment of soul is sufficient to give rise to such a horrifying birth. A single soul can often cause the appearance of a small army of dretches, and the sight of a horde of newly born dretches breaking free from the pulsating protomatter of the Abyss is both nauseating and terrifying.
 
-Drider
+### Drider
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -27071,7 +26932,7 @@ Organization: Solitary, pair, or group (3-8)
 
 Driders are sexually dimorphic. The spider-like lower body of a female drider is sleek and graceful, often resembling the body of a black widow, while the upper elven torso maintains its appealing curves and beautiful face (with the exception of the venomous sharp fangs). The lower body of a male drider is stocky like a tarantula, while the upper body has a lean physique and supports a horrible face that is more spider than elf, complete with fanged mandibles.
 
-Dryad
+### Dryad
 
 | **Size/Type** | Medium fey, neutral |
 | --- | --- |
@@ -27124,7 +26985,7 @@ Dryads are nature spirits who love secluded woodlands away from humanoids in nee
 They are friendly with druids and rangers who aren' \*\*t evil, as they recognize their empathy or respect for nature.
 Dryads are benevolent guardians of trees, and although they aren' \*\*t violent by nature, they can impede and thwart threats to their homes or turn enemies into allies.
 
-Duergar
+### Duergar
 
 | **Size/Type** | Medium humanoid (dwarf), evil |
 | --- | --- |
@@ -27162,7 +27023,7 @@ Organization: solitary, group (2-5), squad (6-12 plus 3 sergeants of 3rd level a
 
 Distant relatives of Dwarves, darker and more misshapen, Duergar are creatures with a terrible temper who hate intruders in their underground realms, but never more than Dwarves. They live in communities deep underground. They have dull gray skin, as if dirty with dust or ash, but this natural tone allows them to blend better in underground areas. They are a Race of slavers, but while they force non-Dwarf prisoners to do grueling work, they kill captured Dwarves without remorse. In combat, Duergar fire crossbows, and then switch to War Hammers a few rounds later. If outnumbered, or if there is an adequate danger (and space), a Duergar will use its Enlarge ability and attack.
 
-Dust Mephit
+### Dust Mephit
 
 | **Size/Type** | Small elemental, evil |
 | --- | --- |
@@ -27200,7 +27061,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Dust mephits are commonly found on the Plane of Air. These mephits are irritating and persistent.
 
-Efreeti
+### Efreeti
 
 | **Size/Type** | Large elemental, evil |
 | --- | --- |
@@ -27248,7 +27109,7 @@ The Efreet (singular Efreeti) are Genies from the Plane of Fire. They are 3.6 me
 
 Efreet have few allies among other Genies: they hate Djinn and attack them on sight, can' \*\*t stand Marid, and see Janni as weak and fragile. Efreet often cooperate well with Shaitan, yet even these alliances are temporary.
 
-Erinyes
+### Erinyes
 
 | **Size/Type** | Medium devil, evil |
 | --- | --- |
@@ -27297,7 +27158,7 @@ These beautiful and dark angels enhance their sensuality with scars and bruises,
 
 The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a span of over 3 meters. They are skilled at keeping enemies alive to prolong torment, and the most powerful can make suffering persist even after the subject' \*\*s death.
 
-Ettercap
+### Ettercap
 
 | **Size/Type** | Medium monstrosity, evil |
 | --- | --- |
@@ -27341,7 +27202,7 @@ Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
 
-Ettin
+### Ettin
 
 | **Size/Type** | Large giant, evil |
 | --- | --- |
@@ -27385,7 +27246,7 @@ Organization: Solitary, pair, group (3-6), troop (1-2 plus 1-2 Brown Bears, band
 
 They generally form reproductive pairs to raise offspring only for brief periods before each goes its own way. Young ettins mature rapidly, reaching adult size in one year, thus being able to fend for themselves.
 
-Explosive Roach
+### Explosive Roach
 
 | **Size/Type** | Small Elemental, neutral |
 | --- | --- |
@@ -27429,7 +27290,7 @@ They are now common in caves near volcanoes or red dragon lairs, having adapted 
 
 In the nest where they dwell, there is at least one queen who commands the roaches, extremely larger and stronger. Explosive Roaches feed on coal, burnt wood, burnt carcasses. They are extremely fond of diamonds which, once burned, are true delicacies.
 
-Fire Giant
+### Fire Giant
 
 | **Size/Type** | Huge giant, evil |
 | --- | --- |
@@ -27474,7 +27335,7 @@ Fire giants wear clothing made of sturdy fabrics or leather in orange, yellow, b
 
 Fire giants prefer warm places: the hotter the better. They can be found in deserts, volcanoes, hot springs, and deep in the earth near lava vents. They live in castles, fortified settlements, or large caves, and the architecture of these places reflects their rigid and militaristic lifestyle, with officers residing in better quarters than their subordinates.
 
-Flameskull
+### Flameskull
 
 | **Size/Type** | Small undead, evil traits |
 | --- | --- |
@@ -27510,7 +27371,7 @@ Flameskulls are created from the corpses of spellcasters specialized in the Fire
 
 Used as guardians and torches, they often represent a first line of defense in dungeons.
 
-Flesh Golem
+### Flesh Golem
 
 | **Size/Type** | Medium construct, neutral |
 | --- | --- |
@@ -27562,7 +27423,7 @@ A flesh golem does not speak, though it can emit a kind of hoarse growl. It walk
 
 Although many flesh golems are mindless, tales are told of exceptional golems that have somehow retained memories of their previous life. The head (and therefore the brain) of these flesh golems must be the right combination of freshness and (in the previous life) determination, but luck and chance also seem to be of absolute importance for intellect to be preserved during their creation. Certainly those who build flesh golems prefer to have mindless slaves rather than those endowed with a will of their own, consequently intelligent flesh golems are rare.
 
-Flesh Worms
+### Flesh Worms
 
 | **Size/Type** | tiny monstrosity, unaligned |
 | --- | --- |
@@ -27589,7 +27450,7 @@ Organization: groups 3d6
 
 Flesh worms are among the most feared parasites by adventurers. They are found in damp piles of leaves or rotting logs, in decomposing corpses, in turbid waters. Pale, slimy, equipped with very sharp teeth, just over 4 millimeters long, they penetrate exposed flesh very easily and perceive the heartbeat where they head. While they dig into the flesh, they can be perceived and even seen crawling under the skin.
 
-Flying Sword
+### Flying Sword
 
 | **Size/Type** | Small construct, unaligned |
 | --- | --- |
@@ -27610,7 +27471,7 @@ Flying Sword
 
 *Hit:* 5 (1d8 + 1) slashing damage.
 
-Frost Giant
+### Frost Giant
 
 | **Size/Type** | Huge giant, evil |
 | --- | --- |
@@ -27654,7 +27515,7 @@ Frost giants survive by hunting and raiding on their own, as they live in cold a
 
 Frost giants love taking prisoners and use them both as slaves and as raw material. Usually each group of frost giants keeps 1-2 humanoid slaves chained to a slave trainer: the meanest and cruelest of the group after the jarl. They also have a certain passion for monstrous pets: White Dragons and Winter Wolves are popular choices, but Remorhaz and Yeti can also be found in a frost giant' \*\*s lair.
 
-G.C.B.
+### G.C.B.
 
 | **Size/Type** | Large aberration, evil |
 | --- | --- |
@@ -27696,7 +27557,7 @@ The Great Chitinous Being, or G.C.B, is an insect with a vague humanoid appearan
 
 Probably the result of some transformation spell gone wrong, G.C.B.s are masters of the underground. Creatures endowed with real intelligence, they love elf flesh and fight in a tactical and careful manner.
 
-Gablin
+### Gablin
 
 | **Size/Type** | Small fiend, evil |
 | --- | --- |
@@ -27734,7 +27595,7 @@ Usually, gestation lasts only 3 weeks, during which women are tortured to streng
 This method of procreation combined with their voracious hunger for blood and flesh makes them among the most hated and feared creatures.
 Although individually not particularly formidable, Gablins always move in groups, and if the group exceeds two dozen, there is almost always a Gablin Spellcaster or even a Gablin Champion leading them.
 
-Gablin Champion
+### Gablin Champion
 
 | **Size/Type** | Medium fiend, evil |
 | --- | --- |
@@ -27763,7 +27624,7 @@ Organization: leading a group of Gablins
 Gablin Champions are spontaneously generated when the number of Gablins present reaches 20 units. Enormously larger, stronger, and more intelligent than a Gablin, the Champions are the leaders of the group, those who plan battles and confrontations.
 They have no qualms about sending Gablins to slaughter or killing anything that breathes. Pervaded by the spirit of Cattalm, their purpose is always and only to destroy and kill.
 
-Gablin Paladin
+### Gablin Paladin
 
 | **Size/Type** | Large fiend, evil |
 | --- | --- |
@@ -27797,7 +27658,7 @@ Organization: leading an army of Gablins
 
 Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
 
-Gargoyle
+### Gargoyle
 
 | **Size/Type** | Medium elemental, evil |
 | --- | --- |
@@ -27846,7 +27707,7 @@ The longer a tribe of gargoyles dwells in an area of buildings or ruins, the mor
 
 An unusual variant of the gargoyle does not dwell among buildings and ruins but beneath the waves of the sea. These creatures are known as kapoacinth; they have the same base statistics as normal gargoyles, except they have the aquatic subtype and their wings grant them a swimming speed of 12 meters (but are useless for flying). Kapoacinths inhabit shallow coastal regions where they can crawl out of the foam to hunt local residents. They are more likely to form swarms, as kapoacinths prefer group life to solitary existence.
 
-Gelatinous Cube
+### Gelatinous Cube
 
 | **Size/Type** | Large ooze, unaligned |
 | --- | --- |
@@ -27898,7 +27759,7 @@ Some sages believe these creatures evolved from Gray Oozes. Some beings use gela
 
 Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
-Generic Air Elemental
+### Generic Air Elemental
 
 | **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
 | --- | --- |
@@ -27927,7 +27788,7 @@ Generic Air Elemental
 ***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn' \*\*t flung away or knocked prone.
 
-Generic Earth Elemental
+### Generic Earth Elemental
 
 | **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
 | --- | --- |
@@ -27955,7 +27816,7 @@ Generic Earth Elemental
 
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
-Generic Fire Elemental
+### Generic Fire Elemental
 
 | **Size/Type** | CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal) |
 | --- | --- |
@@ -27984,7 +27845,7 @@ Generic Fire Elemental
 
 **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
 
-Generic Water Elemental
+### Generic Water Elemental
 
 | **Size/Type** | Elemental |
 | --- | --- |
@@ -28014,7 +27875,7 @@ Generic Water Elemental
 
 The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the start of each of the elemental' \*\*s turns, each target grappled by it takes (1d6)*CR/2 bludgeoning damage. A creature within 10 feet of the elemental can pull a creature or object out of it by taking an Action to make a Strength Fortitude Saving Throw check with DC 2+CR*2.
 
-Ghast
+### Ghast
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -28055,7 +27916,7 @@ Organization: Solitary, group (2-4) or pack (7-12)
 
 Ghasts are Ghouls with a deeper connection to the Void. A ghast' \*\*s paralysis affects Elves as well. Ghasts roam in packs or command groups of common Ghouls. The stench of death and decay that surrounds these creatures is overwhelming.
 
-Ghost
+### Ghost
 
 | **Size/Type** | Medium undead, any trait |
 | --- | --- |
@@ -28104,7 +27965,7 @@ When a ghost is created, it gains copies of the objects it particularly valued i
 
 The original objects are left behind, just like the ghost' \*\*s physical remains. If another creature wields the original, the incorporeal copy vanishes. This loss inevitably enrages the ghost, who will stop at nothing to return the object to where it originally lay (and regain its use).
 
-Ghoul
+### Ghoul
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -28141,7 +28002,7 @@ Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewer
 
 Although many surface ghouls live primitively, rumors speak of ghoul cities deep underground ruled by priests worshiping ancient cruel deities or strange demon lords of hunger. These *civilized* ghouls are no less horrible in their eating habits, and indeed their concept of a well-set table for feasts is perhaps even more ghastly than the idea of a fresh meal pulled from a coffin.
 
-Ghoul, Black
+### Ghoul, Black
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -28181,7 +28042,7 @@ Organization: Group (4-8) or pack (14-24)
 
 The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
 
-Ghoul, Mother
+### Ghoul, Mother
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -28215,7 +28076,7 @@ Organization: Clan (7-12+)
 
 The Mother Ghoul is usually the head of a clan of ghouls that can reach even several dozen members. Respected and feared, she is usually among the most intelligent evolved ghouls and highly appreciated for her ability to transform the living into ghouls. Their tactic involves wounding rather than killing several people so that when they return home and then transform, they can attack and kill the entire village.
 
-Ghoul, Putrid
+### Ghoul, Putrid
 
 | **Size/Type** | Large undead, evil |
 | --- | --- |
@@ -28255,7 +28116,7 @@ Organization: Group (4-8) or pack (10-18)
 
 Putrid Ghouls are one of the many evolutions of Ghouls. Continuous contact with negative energy and feeding on corpses of all kinds for centuries have made it larger, stronger and capable of inflicting and causing the most dangerous wounds.
 
-Gibbering Mouther
+### Gibbering Mouther
 
 | **Size/Type** | Medium aberration, neutral |
 | --- | --- |
@@ -28291,7 +28152,7 @@ Organization: Solitary
 
 Disgusting, nauseating, and hungry: these are the only words that appropriately describe the gibbering mouther. Repulsive beasts that hide in caves, sewers, and nightmares, mouthers have no other social, ecological, or religious purpose beyond their ability to drive those who listen to them mad. Some scholars believe that gibbering mouthers are a smaller variant of the much more dangerous shoggoth, while others theorize that it is a punishment of Orudjs inflicted on those who have offended her.
 
-Glabrezu
+### Glabrezu
 
 | **Size/Type** | Large demon, evil |
 | --- | --- |
@@ -28343,7 +28204,7 @@ While the Succubus is a demon that lures its prey by exploiting its desires and 
 
 A glabrezu is 5.3 meters tall and weighs just over 3000 kg. These wicked demons originate from the souls of traitors, false witnesses, and subversives: souls of mortals who, in life, swore falsely or used betrayal and deception to ruin others' \*\* lives.
 
-Globule
+### Globule
 
 **Size/Type** | Small aberration, evil
 --- | ---
@@ -28385,7 +28246,7 @@ Organization: Solitary, groups 2d4
 Globules are magical aberrations coming from some portal opened to the Beyond. Creatures of cold and void, they look like small stars that only yearn to suck the life out of creatures they encounter.
 Intelligent and clever, they prefer to attack while staying airborne and wearing down the opponent until they are mortally fatigued. Once killed, all that remains of a Globule is a small star-shaped creature with a large central eye, completely white.
 
-Gnoll
+### Gnoll
 
 | **Size/Type** | Medium humanoid (gnoll), evil |
 | --- | --- |
@@ -28433,7 +28294,7 @@ During combat, gnolls use pack tactics and individual strategies. If confident o
 
 Gnoll leaders have ranger skills, and some are devoted to voracious Patrons. They rarely master magic effectively.
 
-Goblin
+### Goblin
 
 | **Size/Type** | Small humanoid (goblinoid), evil |
 | --- | --- |
@@ -28468,7 +28329,7 @@ Goblins are very superstitious and view magic with a mixture of awe and fear. Ev
 
 Goblins are voracious and can eat enormous amounts of food. A goblin won' \*\*t refuse to eat anything except perhaps salad..
 
-Gold Dragon Wyrmling
+### Gold Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, good |
 | --- | --- |
@@ -28504,7 +28365,7 @@ Organization: Solitary
 
 Gold dragons are the epitome of virtue. Other dragons of Ljust revere them as agents of divine powers and exemplary members of the draconic race, and often seek them for advice or aid.
 
-Gorgon
+### Gorgon
 
 | **Size/Type** | Large monstrosity, unaligned |
 | --- | --- |
@@ -28545,7 +28406,7 @@ Gorgons derive their nourishment by consuming minerals, particularly the stone o
 
 Their meat is tough and muscular (once the armor is removed), and for those who taste it, it is quite nutritious. Many stone giant tribes believe that eating gorgon meat increases their natural armor. Powdered gorgon horn is worth 250 gp as an alternative material component for magic items and spells that act on Strength or Stone.
 
-Gray Ooze
+### Gray Ooze
 
 | **Size/Type** | Medium ooze, unaligned |
 | --- | --- |
@@ -28584,7 +28445,7 @@ Crawling through cold swamps and misty wetlands or, sometimes, in underground pa
 
 Some sages believe that gray oozes are the result of a failed alchemical experiment, while others theorize that the first gray oozes spontaneously arose from a well of magical debris. Naturally, these theories that do not consider them living organisms, but rather the result of an unfortunate mixture of caustic fluids and magical residues, are ridiculed by those who live in areas infested by these creatures, which have no history of magical pollution.
 
-Green Dragon Wyrmling
+### Green Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, evil |
 | --- | --- |
@@ -28616,7 +28477,7 @@ Organization: Solitary
 
 See Ancient Green Dragon Description.
 
-Green Hag
+### Green Hag
 
 | **Size/Type** | Medium fey, evil |
 | --- | --- |
@@ -28658,7 +28519,7 @@ Organization: Solitary or coven (3 hags of any type)
 
 Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
 
-Grick
+### Grick
 
 | **Size/Type** | Medium monstrosity, neutral |
 | --- | --- |
@@ -28697,7 +28558,7 @@ Gricks are capable predators with weapon-resistant skin, making them particularl
 
 Gricks camouflage themselves thanks to their dark color and their ability to climb walls, remaining hidden until the moment of attack. When food is scarce, they may head to the surface in search of prey, but they prefer darkness and the safety of a roof over their heads, avoiding the open sky and seeking shelter under trees, low clouds, or buildings.
 
-Griffin
+### Griffin
 
 | **Size/Type** | Large monstrosity, unaligned |
 | --- | --- |
@@ -28741,7 +28602,7 @@ Before a griffin can be ridden in combat, the creature must practice carrying th
 
 Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70 kg as a heavy load. An exotic saddle is needed to ride them.
 
-Grimlock
+### Grimlock
 
 | **Size/Type** | Medium humanoid (grimlock), evil |
 | --- | --- |
@@ -28776,7 +28637,7 @@ Grimlock
 
 Grimlocks are blind and savage human-like creatures that inhabit the realm of the dark depths, where they organize into small tribal groups.
 
-Guardian Naga
+### Guardian Naga
 
 | **Size/Type** | Large monstrosity, good |
 | --- | --- |
@@ -28830,7 +28691,7 @@ Although they have a fierce appearance, with bright scales, cobra-like hoods, an
 
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
-Gynosphinx
+### Gynosphinx
 
 | **Size/Type** | Large monstrosity, lawful |
 | --- | --- |
@@ -28898,7 +28759,7 @@ Although not great scholars in the traditional sense, sphinxes' \*\* great appre
 
 A typical sphinx is 10 feet long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
-Harpy
+### Harpy
 
 | **Size/Type** | Medium monstrosity, Arrogant, Impulsive |
 | --- | --- |
@@ -28943,7 +28804,7 @@ Harpies tend to wear trinkets and pendants stolen from their victims, as they lo
 
 Harpies are markedly different depending on the region where they live. Some resemble a mixture of vultures and women, while others bear the regal traits of hawks and falcons on their feathers. Rare broods of harpies, in isolated and tropical places in the world, also have colorful feathers like parrots.
 
-Hell Hound
+### Hell Hound
 
 | **Size/Type** | Medium fiend, evil |
 | --- | --- |
@@ -28967,7 +28828,7 @@ Hell Hound
 
 ***Fire Breath (Recharge 5-6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a Reflex Saving Throw DC 14, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
-Hezrou
+### Hezrou
 
 | **Size/Type** | Large demon, evil |
 | --- | --- |
@@ -29014,7 +28875,7 @@ The hezrou lives in the vast swamps, wetlands, and watercourses of the Abyss. It
 
 These monstrous and bestial creatures are born from the souls of evil mortals who have poisoned themselves, their relatives, or their environment, for example, drug addicts, assassins, and alchemists who didn' \*\*t care how their experiments poisoned the natural world.
 
-Hill Giant
+### Hill Giant
 
 | **Size/Type** | Huge giant, evil |
 | --- | --- |
@@ -29053,7 +28914,7 @@ Hill giants are by nature nomadic and prefer to travel from place to place to ra
 
 Solitary and non-evil hill giants are quite rare, but they can sometimes be found in other humanoid societies, though they are almost never accepted in major cities or populated centers. They find their place as workers and soldiers in remote frontier towns, and often serve as rudimentary diplomats to negotiate with bands of marauding hill giants. Unfortunately, hill giants who abandon their racial lifestyle for civilization are mocked and often killed on sight by their nomadic brethren. However, these *civilized* hill giants can find their place in society and many have managed to live a peaceful and quiet existence.
 
-Hippogriff
+### Hippogriff
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -29096,7 +28957,7 @@ Breeding communities often offer rewards for capturing them as they can represen
 
 Hippogriffs are oviparous and their nest usually contains only one egg, which is worth 200 gp. A healthy young hippogriff is worth 500 gp, while a fully trained hippogriff as a mount can be worth up to 5000 gp. They can carry 90 kg as a light load, 180 kg as a medium load, and 270 kg as a heavy load, and require an exotic saddle to be ridden.
 
-Hisser
+### Hisser
 
 | **Size/Type** | Large monstrosity, chaotic |
 | --- | --- |
@@ -29132,7 +28993,7 @@ Hissers, so called because of the noise their tail makes when swinging, are very
 
 Dark gray or brown in color, they prefer to hide in darkness and attack when hungry or to defend their territory. They try to keep their distance in combat, and if seriously injured, they escape by climbing the walls.
 
-Hobgoblin
+### Hobgoblin
 
 | **Size/Type** | Medium humanoid (goblinoid), evil |
 | --- | --- |
@@ -29170,7 +29031,7 @@ Many Hobgoblin tribes combine the love of war with sharp intellect. They are fas
 
 Hobgoblins despise magic and distrust wizards. Their shamans, feared and respected, live on the edges of the tribe' \*\*s lair. Hobgoblins are about 1.7 meters tall and weigh 80 kg.
 
-Homunculus
+### Homunculus
 
 | **Size/Type** | Tiny construct, neutral |
 | --- | --- |
@@ -29192,7 +29053,7 @@ Homunculus
 
 ***Master' \*\*s Conduit***: using 3 Actions, the homunculus becomes the conduit for the casting of a spell by its master.
 
-Horned Devil
+### Horned Devil
 
 | **Size/Type** | Large devil, evil |
 | --- | --- |
@@ -29249,7 +29110,7 @@ A typical horned devil reaches the considerable height of 2.7 meters, has wings 
 
 > The LORD said to Satan: "Where have you come from?" Satan answered the LORD: "From roaming through the earth and going back and forth in it". Job 1:6-12
 
-Hungry Coins
+### Hungry Coins
 
 | **Size/Type** | Tiny aberration, strongly evil |
 | --- | --- |
@@ -29286,7 +29147,7 @@ The Hungry Coin is indistinguishable from a normal coin until observed very care
 Voracious and hungry, they like to hide in piles of coins they feed on to absorb the metals that give them the and appearance of ordinary coins. They always attack in groups, usually waiting for someone to hold them for counting. For every 10 Hungry Coins, if *emptied and melted down*, it' \*\*s possible to obtain enough metal for a real coin.
 Hungry Coins made of Gold or Platinum are usually sturdier and even hungrier. Legend has it that a Hungry Coin will not attack a Devotee of Rezh.
 
-Hydra
+### Hydra
 
 | **Size/Type** | Huge monstrosity, unaligned |
 | --- | --- |
@@ -29328,7 +29189,7 @@ Organization: Solitary
 
 The hydra is a multi-headed dragon, but stupid and with major digestive problems.
 
-Ice Devil
+### Ice Devil
 
 | **Size/Type** | Large devil, evil |
 | --- | --- |
@@ -29386,7 +29247,7 @@ In combat, it sends its subordinates ahead, so it can assess the tactics, streng
 
 Ice Devils are 3.6 meters tall and weigh approximately 350 kg.
 
-Ice Mephit
+### Ice Mephit
 
 | **Size/Type** | Small elemental, evil |
 | --- | --- |
@@ -29426,7 +29287,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Ice mephits are commonly found on the Plane of Air. These mephits are aloof and cruel.
 
-Immortal Cursed
+### Immortal Cursed
 
 | **Size/Type** | Medium aberration (human), tends to be insane |
 | --- | --- |
@@ -29461,7 +29322,7 @@ Organization: Solitary
 The Immortal Cursed is a person cursed often by a Patron or by a powerful spellcaster with the curse of insane immortal life. The curse breaks the person' \*\*s balance and they find themselves wandering without purpose or goal. Occasionally they remember who they were and then continue searching for whoever cursed them.
 With the purpose of getting finally killed, they throw themselves into every battle hoping that the opponent will be able to kill them once and for all.
 
-Imp
+### Imp
 
 | **Size/Type** | Tiny devil, shapechanger, evil |
 | --- | --- |
@@ -29505,7 +29366,7 @@ Imps vary greatly in appearance, across a wide spectrum of bestial and grotesque
 
 Unlike other devils, imps are often found free and alone on the Material Plane, particularly after they have been summoned to serve as familiars and their masters have died (often, indirectly, because of the imp' \*\*s own machinations). Without any means to return home, these imps, free from any bonds with arcane masters, can become dangerous nuisances or even place themselves at the head of small tribes of bloodthirsty humanoids, such as Goblins or Kobolds.
 
-Invisible Stalker
+### Invisible Stalker
 
 | **Size/Type** | Medium elemental, neutral |
 | --- | --- |
@@ -29551,7 +29412,7 @@ Many invisible stalkers, however, consider these tasks as miserable requests fro
 
 Due to continuous summonings, many invisible stalkers are adverse to the inhabitants of the Material Plane. Those newly summoned to the mortal world know only the stories of their kind and maintain an open attitude toward those who summon them. Over time, or if they serve an evil master, they begin to form a negative opinion of these mortal creatures, which leads them to deflect instructions and harm their masters. For older invisible stalkers with more experience, the only thing that protects those who summoned them is the magic that binds them. These creatures always try to use inconsistencies in the formulation of their tasks and literal distortions in intentions to find a way to annoy, hurt, or even kill those who brought them to this plane.
 
-Iron Golem
+### Iron Golem
 
 | **Size/Type** | Large construct, unaligned |
 | --- | --- |
@@ -29610,7 +29471,7 @@ Although the practice of building iron golems has gradually fallen into disuse, 
 **Construction**
 To build an iron golem requires 2,500 kg of iron, fused with rare dyes worth at least 10,000 gp.
 
-Kobold
+### Kobold
 
 | **Size/Type** | Small humanoid (kobold), evil |
 | --- | --- |
@@ -29648,7 +29509,7 @@ The shade of kobolds varies even among brothers of the same clutch, ranging acro
 
 Kobolds have a weakness for silver but, being terrible miners, they prefer to prey on silver coins from adventurers and eat them like butter cookies. Kobolds can digest silver rather quickly, and the more they eat, the shinier their scales are and the healthier the kobolds appear.
 
-Kraken
+### Kraken
 
 | **Size/Type** | Gargantuan monstrosity (titan), evil |
 | --- | --- |
@@ -29706,7 +29567,7 @@ Many legends have arisen regarding the fact that it understands the druidic lang
 
 A kraken is almost 30 meters long and weighs 20,000 kg.
 
-Lamia
+### Lamia
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -29755,7 +29616,7 @@ These creatures are attracted to ruined towers, abandoned cities, and forgotten 
 
 Lamias worship the elder females of their group, considering them leaders, mothers, and shamans, and bind themselves to them with fanatical reverence. Although they shun most religions, seeing them as the source of the curse that afflicts them, elder lamias claim to hear the whispers of the desert wind and to know the whims of the stars, thus guiding their people.
 
-Lemure
+### Lemure
 
 | **Size/Type** | Medium devil, evil |
 | --- | --- |
@@ -29793,7 +29654,7 @@ They play a vital role in Hell' \*\*s ecology. Damned souls are tormented for ce
 
 Greater devils can recognize the most corrupted lemures and transform them into true devils, ready to serve in the legions of the damned.
 
-Lich
+### Lich
 
 | **Size/Type** | Medium undead, evil traits |
 | --- | --- |
@@ -29872,7 +29733,7 @@ Few creatures are more feared than liches. Apex of Necromantic arts, the lich is
 
 There are also extremely rare good Liches, but as the saying goes, they are rarer than a Roc' \*\*s tooth.
 
-Lizardfolk
+### Lizardfolk
 
 | **Size/Type** | Medium humanoid (lizardfolk), neutral |
 | --- | --- |
@@ -29920,7 +29781,7 @@ Though generally neutral, lizardfolk' \*\*s standoffish nature, their strenuous 
 
 The lizardfolk presented here live in swampy environments. Lizardfolk tribes can live just as well in other environments, but as speed they gain Climb 5 meters instead of Swim.
 
-Lootdead
+### Lootdead
 
 | **Size/Type** | Large construct, undead, unaligned |
 | --- | --- |
@@ -29971,7 +29832,7 @@ The large central eye, perhaps once belonging to a humanoid, allows the controll
 
 Usually a Lootdead is always accompanied by several guardians (other creatures under the controller' \*\*s command) that help in *dealing with* any still active *resistance*.
 
-Magma Man
+### Magma Man
 
 | **Size/Type** | Small elemental, chaotic |
 | --- | --- |
@@ -30015,7 +29876,7 @@ Proud of their magma lakes, each lake has a different purpose: baths, cooking, o
 
 At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense composition.
 
-Magma Mephit
+### Magma Mephit
 
 | **Size/Type** | Small elemental, evil |
 | --- | --- |
@@ -30055,7 +29916,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Magma mephits are commonly found on the Plane of Fire. These mephits are stupid brutes.
 
-Manticore
+### Manticore
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -30098,7 +29959,7 @@ Manticores eat any kind of meat, even carrion, but they prefer human flesh and r
 
 Although manticores are similar to magical creations, they have long been counted among natural species. Curiously, manticores seem strangely fertile and can crossbreed with numerous other similarly-shaped species, including Lions, Tigers, Lamias, Sphinxes, and Chimeras.
 
-Marilith
+### Marilith
 
 | **Size/Type** | Large demon, evil |
 | --- | --- |
@@ -30151,7 +30012,7 @@ Sovereigns of demonic hordes and queens of abyssal nations, the fearsome marilit
 
 A marilith is 1.8 to 2.7 meters tall, 6 meters long from head to tail, and weighs 2000 kg. Only the most arrogant and proud evil souls, usually those of cruel sovereigns, sadistic generals, and particularly violent warlords, can cause the birth of a marilith.
 
-Medusa
+### Medusa
 
 | **Size/Type** | Medium monstrosity, evil |
 | --- | --- |
@@ -30200,7 +30061,7 @@ Accustomed to hiding, urban medusas are generally thieves, while those from wild
 
 All medusas are female. Rarely, a medusa decides to take a male humanoid as a companion, generally with the help of a Love Potion or similar magic, and they always take care not to petrify their prisoner, unless they have grown bored with his company.
 
-Topi, La
+### Topi, La
 
 | **Size/Type** | Tiny fey, indifferent. Patron |
 | --- | --- |
@@ -30241,7 +30102,7 @@ Organization: Solitary
 
 She might be mistaken for a small white mouse, but La Topi is much more. Clever, intelligent, beautiful, she loves going to the market and buying handbags.
 
-Mimic
+### Mimic
 
 | **Size/Type** | Medium monstrosity (shapechanger), neutral |
 | --- | --- |
@@ -30286,7 +30147,7 @@ Although mimics are not intrinsically evil, some sages suggest that they attack 
 
 A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs about 900 pounds. Legends and stories tell of larger mimics, with the ability to take the form of houses, ships, or entire underground complexes that they garnish with treasures (both real and fake) to lure their unsuspecting food inside.
 
-Minotaur
+### Minotaur
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -30329,7 +30190,7 @@ Minotaurs can serve more powerful monsters or evil creatures, hunting and eating
 
 Minotaurs are straightforward fighters, using their horns to horribly gore nearby creatures at the beginning of combat.
 
-Mummy
+### Mummy
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -30354,7 +30215,7 @@ Mummy
 
 ***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 15 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
-Mummy Lord
+### Mummy Lord
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -30432,7 +30293,7 @@ Organization: Solitary, Group (3-6) or Mausoleum (7-12)
 
 Many cultures practice the sacred art of mummification, though the sinister magical techniques used to imbue corpses with undead vitality are far less common. In some ancient lands, such blasphemous techniques have been refined through centuries of ceremony and countless deaths, resulting in mummies of terrible power. On rare occasions, if the deceased was of high rank and excessive wickedness, they might undergo such elaborate rituals, rising from the tomb as a fearsome mummy lord. Similarly, a ruler known for malice or who died in a moment of great anger might present themselves spontaneously as a vengeful despot. Regardless of the exact circumstances of its resurrection, a mummy lord retains the abilities it had in life, becoming a creature consumed by the desire to restore its dominion and rule over both the living and the dead.
 
-Nalfeshnee
+### Nalfeshnee
 
 | **Size/Type** | Large demon, evil |
 | --- | --- |
@@ -30486,7 +30347,7 @@ Few demons understand the internal mechanics that govern the Abyss as well as na
 
 Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls of greedy or lustful evil mortals, particularly those who have ruled over empires of slavery, theft, banditry, and other even more violent vices.
 
-Night Hag
+### Night Hag
 
 | **Size/Type** | Medium fiend, evil |
 | --- | --- |
@@ -30518,7 +30379,7 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 ***Change Shape.*** The hag can magically transform into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn' \*\*t transformed. She reverts to her true form when she dies.
 
-Nightmare Steed
+### Nightmare Steed
 
 | **Size/Type** | Large fiend, evil |
 | --- | --- |
@@ -30555,7 +30416,7 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 
 > Hell is empty, all the devils are here. (William Shakespeare, The Tempest)
 
-Ochre Jelly
+### Ochre Jelly
 
 | **Size/Type** | Large ooze, unaligned |
 | --- | --- |
@@ -30600,7 +30461,7 @@ Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 fe
 
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
-Ogre
+### Ogre
 
 | **Size/Type** | Large giant, sadistic evil |
 | --- | --- |
@@ -30647,7 +30508,7 @@ Their great strength and lack of imagination make them particularly suitable for
 
 An adult ogre is about 3 meters tall and weighs about 325 kg.
 
-Ogre Zombie
+### Ogre Zombie
 
 | **Size/Type** | Large undead, evil |
 | --- | --- |
@@ -30671,7 +30532,7 @@ Ogre Zombie
 
 **Treasure Category**: None
 
-Oni
+### Oni
 
 | **Size/Type** | Large giant, evil |
 | --- | --- |
@@ -30710,7 +30571,7 @@ At will: *Invisibility, Darkness*
 
 ***Enraged:*** the Oni is overtaken by murderous fury; until the end of combat, its Claw attacks cause Bleeding 2/10.
 
-Orckin
+### Orckin
 
 | **Size/Type** | Medium humanoid (orc), chaotic |
 | --- | --- |
@@ -30743,7 +30604,7 @@ Orcs are a race created by Cattalm as an experiment to verify whether a more int
 The experiment was a moderate success with orcs founding kingdoms and conquering several regions. The chaotic drive over time, acculturation, becoming sedentary, and the evolution of society has led orcs increasingly away from Cattalm' \*\*s coils, although it doesn' \*\*t remove the fact that many barbaric aspects have remained in the traditional culture.
 An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characteristic is the face and the pig-like nose in particular. Orcs and humans can produce offspring.
 
-Orc
+### Orc
 
 | **Size/Type** | Medium humanoid (orc), evil |
 | --- | --- |
@@ -30782,7 +30643,7 @@ An adult male orc is 2 meters tall and weighs about 115 kg. Orcs and humans can 
 
 While the common saying is that orcs were created by Cattalm to destroy and bring chaos, it is also true that they are often victims of prejudice and summary judgments. Not all orcs are alike, and not just physically; individual orcs, if not entire tribes, live their existence in a normal, civilized manner, yet in no state in the world are there penalties for killing an orc.
 
-Orcus
+### Orcus
 
 | **Size/Type** | Huge demon prince, evil |
 | --- | --- |
@@ -30843,7 +30704,7 @@ Organization: Unique
 
 Orcus is the Demon Prince of the undead. He prefers the company and service of the undead. He wishes to see all life disappear and transform into a gigantic necropolis of undead under his command. Orcus has the head and legs of a goat, horns similar to a ram' \*\*s, a bloated body, bat wings, and a long tail.
 
-Otyugh
+### Otyugh
 
 | **Size/Type** | Large aberration, neutral |
 | --- | --- |
@@ -30891,7 +30752,7 @@ The thing that most races find terrifying about otyughs is not their diet or the
 
 An otyugh, by eating the excrement or part of a creature, can understand what disease or poison afflicts it.
 
-Owlbear
+### Owlbear
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -30939,7 +30800,7 @@ Although it is almost impossible to tame them due to their wild nature, Owlbears
 
 This Owlbear is present in arctic regions or snowy mountains. Unlike the normal Owlbear, it is more robust and strong. It has 85 Hit Points, +10 to hit, 21 claw damage +1 Bleeding, 15 beak damage. CR 4
 
-Panoptikhan
+### Panoptikhan
 
 | **Size/Type** | Large aberration, evil |
 | --- | --- |
@@ -30997,7 +30858,7 @@ Unfortunately, arrogance, pride, and the desire to be the center of attention ha
 
 Panoptikhans have a very long life, on the order of a thousand years, but there are also creatures that have more than doubled this limit. Panoptikhans increase in size with age, as does the number of eyes. The statistics reported here refer to an adult specimen about 300 years old.
 
-Pegasus
+### Pegasus
 
 | **Size/Type** | Large celestial, good |
 | --- | --- |
@@ -31036,7 +30897,7 @@ In some pegasi, the blood of an ancestor who was a heroic stallion is still stro
 
 Pegasi and Unicorns were saved from Calicante' \*\*s fury towards *horses* only by Ljust' \*\*s express intercession.
 
-Phoenix
+### Phoenix
 
 | **Size/Type** | Gargantuan celestial, Brave, Protective, Good |
 | --- | --- |
@@ -31095,7 +30956,7 @@ Legend has it that Phoenixes are the companion birds of Ljust; they are certainl
 
 Legend says that phoenixes are generated when a Knight of Sumkjir or a Disciple of Light makes the ultimate sacrifice.
 
-Pit Fiend
+### Pit Fiend
 
 | **Size/Type** | Large devil, evil |
 | --- | --- |
@@ -31154,7 +31015,7 @@ Pit fiends are powerful infernal rulers, generals of Hell' \*\*s armies, and adv
 
 Pit fiends gather armies, transforming lemures into true devils and aim to conquer vulnerable demiplanes and mortal worlds. They obey the infernal hierarchy but can depose unworthy masters. Only the most powerful spellcasters dare to summon them, risking eternal damnation.
 
-Planetar Angel
+### Planetar Angel
 
 | **Size/Type** | Large celestial, good |
 | --- | --- |
@@ -31207,7 +31068,7 @@ Organization: Solitary or pair
 
 Planetars are the generals of celestial armies dedicated to destroying evil. A planetar is typically 2.7 meters tall and weighs about 250 kg. They are excellent diplomats, but against fiends they prefer war rather than negotiating peace.
 
-Plesiosaur
+### Plesiosaur
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -31234,7 +31095,7 @@ Organization: Solitary, pair or pack (3-6)
 
 The plesiosaur is a long-necked aquatic reptile. Although technically not a dinosaur, this creature and its kind are often found hunting in lakes and oceans where dinosaurs are commonly found.
 
-Pseudodragon
+### Pseudodragon
 
 | **Size/Type** | Tiny dragon, good |
 | --- | --- |
@@ -31275,7 +31136,7 @@ Pseudodragons are carnivores and eat insects, rodents, small birds, and snakes, 
 
 Upon reaching adulthood, a pseudodragon' \*\*s body is 30 centimeters long with a 60-centimeter tail, and weighs about 3.5 kg. A pseudodragon' \*\*s eggs are as large as chicken eggs, but of leather-like consistency and mottled brown, and females lay them in groups of 2-5 each spring. A nest of pseudodragons (which constitute a family group, and are not born from the same clutch of eggs) usually consists of a pair of adults and several nearly adult young.
 
-Purple Worm
+### Purple Worm
 
 | **Size/Type** | Gargantuan monstrosity, unaligned |
 | --- | --- |
@@ -31318,7 +31179,7 @@ While searching for living creatures to devour, purple worms also swallow an eno
 
 A purple worm generally claims a large underground cavern as its lair, and although it returns there to rest and digest food, it spends most of its time seeking prey, digging through the endless darkness or sliding along pre-existing tunnels in constant search of food to satiate its immense hunger. Although almost devoid of intellect, purple worms are rarely stupid. They are widespread as guardians among those who can control them magically or have a room in their lair large enough to accommodate them.
 
-Quasit
+### Quasit
 
 | **Size/Type** | Tiny demon, shapechanger, evil |
 | --- | --- |
@@ -31360,7 +31221,7 @@ Unique among the demonic hordes, quasits are not born from the souls of deceased
 
 Newly created quasits come to life directly in the Material Plane, where they become familiars and, as long as they are subject to the will of their master, they hate and despise them, since they can perceive the pulsing of their soul and know they could aspire to something more. A quasit serves, yet observes and watches for mistakes that could cost its master' \*\*s life, or better, that allow it to turn against its own master. Upon the death of its master, the quasit often decides to remain in the Material Plane in search of other ways to amuse itself, usually settling in an urban area where there are many individuals to torment.
 
-Rakshasa
+### Rakshasa
 
 | **Size/Type** | Medium fiend, evil |
 | --- | --- |
@@ -31407,7 +31268,7 @@ Rakshasas despise religions; they recognize the power of the gods, but see thems
 
 A rakshasa is 5.9 feet tall and weighs 198 pounds.
 
-Red Dragon Wyrmling
+### Red Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, evil |
 | --- | --- |
@@ -31436,7 +31297,7 @@ Organization: Solitary
 
 See Ancient Red Dragon Description.
 
-Remorhaz
+### Remorhaz
 
 | **Size/Type** | Huge monstrosity, unaligned |
 | --- | --- |
@@ -31473,7 +31334,7 @@ In a world of ice and snow, remohrazes are particularly feared for the terrible 
 
 Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 feet in length and weighs 11,000 pounds.
 
-Rug of Smothering
+### Rug of Smothering
 
 | **Size/Type** | Large construct, unaligned |
 | --- | --- |
@@ -31496,7 +31357,7 @@ Rug of Smothering
 
 *Hit:* The creature is grappled (DC 14 to escape). Until the grapple ends, the target is blinded and at risk of suffocating, but the rug can' \*\*t smother another target. Also, at the start of each of the target' \*\*s turns, the target takes 10 (2d6 + 3) bludgeoning damage.
 
-Rust Monster
+### Rust Monster
 
 | **Size/Type** | Medium Monstrosity, unaligned |
 | --- | --- |
@@ -31536,7 +31397,7 @@ Although not inherently violent, their insatiable hunger drives them to charge a
 
 Fortunately, it' \*\*s often possible to escape the attention of a rust monster by throwing it a dense metal object, such as a shield, and running in the opposite direction. Those who frequent areas infested by rust monsters quickly learn to carry wooden or stone weapons.
 
-Sahuagin
+### Sahuagin
 
 | **Size/Type** | Medium humanoid (sahuagin), evil |
 | --- | --- |
@@ -31584,7 +31445,7 @@ Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous ocean
 
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don' \*\*t appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
-Salamander
+### Salamander
 
 **Size/Type** | Large elemental, evil
 --- | ---
@@ -31632,7 +31493,7 @@ Salamanders are often summoned to the Material Plane to serve as guardians or, m
 
 Living in such extreme areas, Salamanders possess only treasures that withstand high temperatures, such as Swords, Armor, jewelry, Rods, and other objects that have a high melting point. Salamander society is cruel and based on power and the ability to subjugate those inferior to them. Beings inferior to Salamanders who cause problems face a slow and painful death.
 
-Satyr
+### Satyr
 
 | **Size/Type** | Medium fey, chaotic |
 | --- | --- |
@@ -31674,7 +31535,7 @@ Besides constantly flirting, satyrs often serve as guardians of their forests, a
 
 Children born from these encounters are always full-blooded satyrs and are generally taken away by their unrestrained fathers immediately after birth.
 
-Scourger
+### Scourger
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -31725,7 +31586,7 @@ The scourger is an ambush hunter. Capable of modifying the coloration and shape 
 Despite its alien and monstrous form, the scourger is one of the most intelligent inhabitants of the underground. They do not form vast societies (although they often live together with other underground creatures such as Brain Eaters, with whom they sometimes ally), but often gather in small groups. Particularly interested in the philosophy of life and death, and the more subtle aspects of the world' \*\*s most sinister and cruel religions, a scourger can talk or discuss for hours with those it initially simply tried to eat. Some stories tell of particularly gifted orators and philosophers who were kept for days or even years as pets or conversation companions by groups of scourgers; in the end, however, if they don' \*\*t manage to escape, the scourgers' \*\* appetite eventually gets the better of their curious intelligence, especially in cases where these pets consistently outperform the wit and patience of their keepers.
 A scourger is 2.7 meters tall and weighs 1,100 kg.
 
-Sea Hag
+### Sea Hag
 
 | **Size/Type** | Medium fey, evil |
 | --- | --- |
@@ -31767,7 +31628,7 @@ Sea hags prefer to live near the shoreline where fishing boats and merchant ship
 
 Sea hags form covens similar to those of other hags, but their aquatic nature generally leads them to refrain from forming mixed covens. In cases where a Green Hag lives along the coast (often in a brackish swamp or coastal marsh), a coven is formed by two sea hags who respect the Green Hag as mother and leader. Very commonly, a coven of sea hags consists of a group of particularly friendly and close sea hags.
 
-Shadow
+### Shadow
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -31810,7 +31671,7 @@ Organization: Solitary, pair, group (3-6) or swarm (7-12)
 
 The evil shadow moves along the border between the darkness of the shadows and the harsh truth of light. The shadow prefers to haunt the ruins that civilization leaves behind, where it hunts living creatures foolish enough to stumble into its territory. The shadow is a horrible undead, and as such has no apparent purposes or motivations beyond sucking life force and vitality from living beings.
 
-Shambling Mound
+### Shambling Mound
 
 | **Size/Type** | Large plant, unaligned |
 | --- | --- |
@@ -31853,7 +31714,7 @@ Shambling mounds are incredibly stealthy in their natural environment. They blen
 
 Shambling mounds usually lead a nomadic and solitary existence in deep forests and fetid swamps but can also be found underground, amid groves of fungi. Disturbing rumors speak of groups of shambling mounds gathering around large mounds in the depths of jungles and swamps, often during violent lightning storms. The reason for this behavior is unknown, and many sages wonder if there isn' \*\*t some dark and alien purpose behind it.
 
-Shield Guardian
+### Shield Guardian
 
 | **Size/Type** | Large construct, unaligned |
 | --- | --- |
@@ -31883,7 +31744,7 @@ Shield Guardian
 
 **Reaction: *Shield.*** When a creature attacks the wearer of the guardian' \*\*s amulet, the guardian grants a +2 bonus to its Defense, if within 1 meter of its controller.
 
-Shrieking Fungus
+### Shrieking Fungus
 
 | **Size/Type** | Medium plant, unaligned |
 | --- | --- |
@@ -31911,7 +31772,7 @@ A shrieking fungus is about 50 cm tall, with a broad brown cap. Once it has emit
 
 It is said that cooks of the depths specialize in cooking these mushrooms into exquisite dishes. The most skilled ones can even manage not to deflate the cap.
 
-Silku
+### Silku
 
 | **Size/Type** | Medium demon, evil |
 | --- | --- |
@@ -31950,7 +31811,7 @@ I widened my eyes and stepped back, as terror took hold of me. Their faces weren
 
 From *The Guardian of Falkonia*, novel by Federica Angeli
 
-Silver Dragon Wyrmling
+### Silver Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, good |
 | --- | --- |
@@ -31984,7 +31845,7 @@ Organization: Solitary
 
 Among all dragons, silver dragons are the most courageous, and adhere to a chivalric code that requires them to help the weak, defeat evil, and behave honorably.
 
-Skeleton
+### Skeleton
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -32017,7 +31878,7 @@ Organization: Any
 
 Skeletons are animated bones of the dead, brought to unlife by sacrilegious magic. For the most part, skeletons are mindless automatons.
 
-Solar Angel
+### Solar Angel
 
 | **Size/Type** | Large celestial, good |
 | --- | --- |
@@ -32086,7 +31947,7 @@ Solars who spend time on the Material Plane can influence human bloodlines, crea
 
 Respected by all angels, solars sometimes command armies against the legions of Hell and the hordes of the Abyss.
 
-Specter
+### Specter
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -32121,7 +31982,7 @@ Specters are evil undead that hate sunlight and living beings. Their genesis is 
 
 A specter closely resembles how it was in life and can be easily recognized by those who knew the individual or had seen its face in paintings or drawings.
 
-Spined Devil
+### Spined Devil
 
 | **Size/Type** | Small devil, evil |
 | --- | --- |
@@ -32170,7 +32031,7 @@ Sentinels of the vaults of Hell, jailers of the blackest souls, and living weapo
 Spined Devils are collectors and organizers. If left to act freely, these devils' \*\* hideouts often display the impaled trophies of old victims.
 Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lean, muscular bodies appear larger due to the constantly growing spikes that protrude from their bodies, sharp as blades.
 
-Spirit Naga
+### Spirit Naga
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -32206,7 +32067,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 **Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
 
-Sprite
+### Sprite
 
 | **Size/Type** | Tiny fey, good |
 | --- | --- |
@@ -32243,7 +32104,7 @@ In many ways, sprites are more primitive than most fey. They appreciate the comp
 
 Although sprites themselves have an uncultivated and wild nature, they have a healthy curiosity for all things with innate magic. They are particularly attracted to places of great latent magical power, such as the ruins of ancient temples. This curiosity also makes them unusually suited to the role of familiars. A chaotic 5th-level spellcaster can obtain a sprite as a familiar if they have the Familiar Feat.
 
-Steam Mephit
+### Steam Mephit
 
 | **Size/Type** | Small elemental, evil |
 | --- | --- |
@@ -32280,7 +32141,7 @@ Mephits are the servants of powerful elemental creatures. The key sites and loca
 
 Steam mephits are commonly found on the Plane of Fire. These mephits are insolent and contemptuous.
 
-Stirge
+### Stirge
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -32312,7 +32173,7 @@ More similar to mammals than insects, stirges take flight with their four fleshy
 
 Stirges are usually about 12 inches long, with a wingspan of about twice that, and weigh less than 1 pound. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
 
-Stone Giant
+### Stone Giant
 
 | **Size/Type** | Huge giant, neutral |
 | --- | --- |
@@ -32362,7 +32223,7 @@ Stone giants prefer to live in huge caves on rocky peaks. They rarely live more 
 
 Older stone giants tend to move away from the tribe for long periods, to live in solitude somewhere or attempting to fit into other humanoid civilizations. After decades of self-imposed exile, those who return are known as Stone Giants Elders.
 
-Stone Golem
+### Stone Golem
 
 | **Size/Type** | Large construct, unaligned |
 | --- | --- |
@@ -32413,7 +32274,7 @@ There are numerous variants of Stone Golems, depending on the materials they are
 **Construction**
 The body of a stone golem is carved from a single block of hard stone, such as granite, weighing at least 1,500 kg. The stone must be of exceptional quality, and cost 5000 gp.
 
-Storm Giant
+### Storm Giant
 
 | **Size/Type** | Huge giant, good |
 | --- | --- |
@@ -32469,7 +32330,7 @@ As their name suggests, they are prone to violent mood swings. Storm giants are 
 
 Storm giants live in beautiful towers, castles, or in walled settlements and love to cultivate the land. They own huge well-tended gardens and manage hundreds of acres of crops per group. They often employ other humanoids, such as Elves or Humans, as support to run their immense farms. A storm giant enclave often takes responsibility for the security of an entire island or coastline.
 
-Succubus
+### Succubus
 
 | **Size/Type** | Medium demon, evil |
 | --- | --- |
@@ -32510,7 +32371,7 @@ Organization: Solitary, pair, or harem (3-12)
 
 Among the demonic hordes, a succubus can often reach very high levels of power, using her manipulations and sensual charm, and many demonic wars rage because of the subtle machinations of these creatures. A succubus originates from the souls of particularly libidinous and greedy evil mortals.
 
-Tarrasque
+### Tarrasque
 
 | **Size/Type** | Colossal monstrosity, unaligned |
 | --- | --- |
@@ -32581,7 +32442,7 @@ Though not particularly intelligent, the Tarrasque is smart enough to understand
 
 Legend says that the Tarrasque is Cattalm' \*\*s pet.
 
-Tentacled Crawler Worm
+### Tentacled Crawler Worm
 
 | **Size/Type** | Large monstrosity, unaligned |
 | --- | --- |
@@ -32620,7 +32481,7 @@ They are voracious creatures that don' \*\*t miss an opportunity to hunt and dev
 
 The origins of the Tentacled Crawler Worms are rather speculative; some hypothesize that a spellcaster tried, as usual, critically failing, to transform into a Purple Worm; others firmly believe that Shayalia' \*\*s gardens needed more fertilization, and so the Patron transformed ordinary earthworms into these terrifying creatures to devour and digest buried corpses.
 
-Tree Man (Arborom)
+### Tree Man (Arborom)
 
 | **Size/Type** | Huge plant, good |
 | --- | --- |
@@ -32668,7 +32529,7 @@ A typical Arborom is 9 meters tall, with a trunk 60 centimeters in diameter, and
 
 Arboroms are said to be created by the will of Efrem.
 
-Triceratops
+### Triceratops
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -32700,7 +32561,7 @@ Organization: Solitary, pair or herd (5-8)
 
 The triceratops is an irascible and stubborn herbivore. A typical triceratops is 9 meters long and weighs 10000 kg.
 
-Troll
+### Troll
 
 | **Size/Type** | Large giant, evil |
 | --- | --- |
@@ -32742,7 +32603,7 @@ Despite their ferocity, trolls are extraordinarily tender and gentle toward thei
 
 It is universally known that trolls can naturally mutate, temporarily acquiring the most peculiar characteristics of the creatures they feed on. You have no idea how funny a Pegasustroll can be...
 
-Tyrannosaurus
+### Tyrannosaurus
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -32780,7 +32641,7 @@ Organization: Solitary, pair or pack (3-6)
 
 The tyrannosaurus is a primary predator that measures 12 meters in length and weighs 7000 kg.
 
-Tàhil
+### Tàhil
 
 | **Size/Type** | Colossal dragon, Patron |
 | --- | --- |
@@ -32853,7 +32714,7 @@ Organization: Unique
 
 Tàhil is the embodied Patron of Dragons. Nothing can withstand his fury, madness, rage, and destruction. Tàhil is a gargantuan creature with 7 dragon heads, each colored differently, each representing a color of a Dragon. See the Cosmology chapter for details of his history.
 
-Unicorn
+### Unicorn
 
 | **Size/Type** | Large celestial, good |
 | --- | --- |
@@ -32915,7 +32776,7 @@ Unicorns are intelligent and solitary creatures that inhabit forests, appearing 
 
 The unicorn' \*\*s horn is the source of its magical powers, and evil creatures place great value on these horns for their dark rituals and healing potions. On rare occasions, unicorns whose partner has been killed choose virtuous young women as substitutes, allowing them to ride them and become their guardians for life.
 
-Vampire
+### Vampire
 
 | **Size/Type** | Medium undead (shapechanger), evil |
 | --- | --- |
@@ -32997,7 +32858,7 @@ Organization: Solitary or family (vampire plus 2-8 Spawn)
 
 Vampires are undead humanoid creatures that feed on the blood of the living. They look very similar to when they were alive, often becoming more attractive, although some appear harsh and feral instead.
 
-Vampire Spawn
+### Vampire Spawn
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -33049,7 +32910,7 @@ Organization: Solitary, pair, group (3-6) or mob (7-12)
 
 A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
-Violet Fungus
+### Violet Fungus
 
 | **Size/Type** | Medium plant, unaligned |
 | --- | --- |
@@ -33087,7 +32948,7 @@ Some species of Shrieking Boletes have an appearance quite similar to that of vi
 
 A violet fungus is 1.2 meters tall and weighs 25 kg.
 
-Vrock
+### Vrock
 
 | **Size/Type** | Large demon, evil |
 | --- | --- |
@@ -33133,7 +32994,7 @@ Organization: Solitary, pair, or band (3-10)
 
 A typical vrock is 2.3 meters tall and weighs 200 kg. These creatures usually originate from the souls of evil mortals filled with hatred and anger, particularly those who were professional criminals, mercenaries, or assassins.
 
-Wall Crawler Horror
+### Wall Crawler Horror
 
 | **Size/Type** | Large monstrosity, unaligned |
 | --- | --- |
@@ -33173,7 +33034,7 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 
 *Solidarity Clans*. The hooked horrors live in vast family groups or clans. Each clan is ruled by the oldest female, who usually places her mate in charge of the clan' \*\*s hunters. The Wall Crawler Horrors lay their eggs in a central, well-defended area of the caverns used as a lair.
 
-Warhorse Skeleton
+### Warhorse Skeleton
 
 | **Size/Type** | Large undead, evil |
 | --- | --- |
@@ -33193,7 +33054,7 @@ Warhorse Skeleton
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-Werebear
+### Werebear
 
 | **Size/Type** | Medium humanoid (human, shapechanger), good |
 | --- | --- |
@@ -33234,7 +33095,7 @@ Organization: Solitary, pair, family (3-6) or troop (3-6 plus 1-4 Black or Grizz
 
 In their humanoid forms, werebears tend to be muscular and broad-shouldered, with rough features and dark eyes. They have red, brown, or black hair and appear accustomed to a life of hard work. Though the most benign of the lycanthropes, they are avoided by most normal people, who fear their animal transformation. For the most part they live in isolated woodland areas or in small family units of their own kind. They avoid confronting strangers, but they don' \*\*t hesitate if they must drive evil humanoids from their territories.
 
-Wereboar
+### Wereboar
 
 | **Size/Type** | Medium humanoid, shapechanger, evil |
 | --- | --- |
@@ -33272,7 +33133,7 @@ Organization: Solitary, pair, family (3-8) or troop (3-8 plus 1-4 Boars)
 
 In their humanoid forms, wereboars tend to be stocky, with upturned noses, bristly hair, and prominent tusks. They have red, brown, or black hair, but some are also blond, gray-haired, or bald. Males usually can' \*\*t grow beards. Because they are stubborn and aggressive, they have small communities of their own kind and don' \*\*t mix with non-lycanthropes: they usually live in small farms that look absolutely normal. They tend to have large families and many children.
 
-Wererat
+### Wererat
 
 | **Size/Type** | Medium humanoid (human, shapechanger), evil |
 | --- | --- |
@@ -33314,7 +33175,7 @@ Organization: Solitary, pair, pack (5-10) or guild (11-30 plus 5-12 Cruel Rats)
 
 Natural wererats are short, wiry, and muscular, with quick, sharp eyes and twitchy movements. Males often have thin, scraggly mustaches.
 
-Weretiger
+### Weretiger
 
 | **Size/Type** | Medium humanoid (human, shapechanger), neutral |
 | --- | --- |
@@ -33365,7 +33226,7 @@ Organization: Solitary or pair
 
 Weretigers in humanoid form have large eyes, elongated noses, prominent cheekbones, and brown or red hair, or white, black, or blue-gray. Their movements are careful and graceful, and those who observe them might mistake them for an excellent pickpocket, a graceful dancer, or a skilled courtesan.
 
-Werewolf
+### Werewolf
 
 | **Size/Type** | Medium humanoid (human, shapechanger), evil |
 | --- | --- |
@@ -33406,7 +33267,7 @@ Organization: Solitary, pair or pack (3-6)
 
 In human form, werewolves look like normal people, though some tend to have feral features and wild hair. Eyebrows that grow together, an index finger longer than the middle finger, and strange birthmarks on the palm of the hand are all commonly accepted signs that a person is in fact a werewolf. Of course, these telltale signs aren' \*\*t always accurate, as these physical traits exist in normal people as well, but in areas where werewolves are a common problem, such traits may be considered damning regardless.
 
-White Dragon Wyrmling
+### White Dragon Wyrmling
 
 | **Size/Type** | Medium dragon, evil |
 | --- | --- |
@@ -33436,7 +33297,7 @@ Organization: Solitary
 
 See Ancient White Dragon description.
 
-Wight
+### Wight
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -33484,7 +33345,7 @@ Wights are humanoids raised as undead due to necromancy, a violent death, or an 
 
 Being undead, wights have no need to breathe, so they can sometimes be found underwater, although they are not particularly skilled swimmers unless they originated from swimming creatures such as aquatic elves and merfolk. Underwater, wights prefer low-ceiling caverns where their poor swimming abilities are not a limitation.
 
-Will-o' \*\*-Wisp
+### Will-o' \*\*-Wisp
 
 | **Size/Type** | Tiny undead, evil |
 | --- | --- |
@@ -33533,7 +33394,7 @@ Despite being denigrated by the majority of sentient creatures, will-o' \*\*-wis
 
 Will-o' \*\*-wisps have no age and are de facto immortal, unless they die a violent death; the oldest will-o' \*\*-wisps can be excellent repositories of knowledge from the past, although convincing one of these cruel creatures to cooperate can be quite complicated.
 
-Wise Owlbear
+### Wise Owlbear
 
 | **Size/Type** | Large monstrosity, neutral |
 | --- | --- |
@@ -33581,7 +33442,7 @@ Training a Wise Owlbear is much easier than an Owlbear, but the high intelligenc
 
 The Mage Hand spell is usually used to flip through the most delicate tomes and to write, albeit extremely slowly.
 
-Wraith
+### Wraith
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -33622,7 +33483,7 @@ Organization: Solitary, pair, group (3-6), or pack (7-12)
 
 Wraiths are creatures born of evil and darkness. They detest light and living creatures, having lost most of their connection to their previous life.
 
-Wyvern
+### Wyvern
 
 | **Size/Type** | Large dragon, unaligned |
 | --- | --- |
@@ -33669,7 +33530,7 @@ Although constantly hungry and inclined to attack, a wyvern can be made friendly
 
 A wyvern is about 4.8 meters long, with the tail alone accounting for about half of the length. A wyvern weighs on average 1000 kg.
 
-Xorn
+### Xorn
 
 | **Size/Type** | Medium elemental, neutral |
 | --- | --- |
@@ -33715,7 +33576,7 @@ The treasure that a xorn carries or hides in its lair consists of a snack it has
 
 Xorns are not very religious, but those among them who find faith are usually devoted to Efrem (although it is rare, if not unlikely, for xorns to have Animal Companions, since they cannot follow them through rock, and instead choose the Earth domain). Bard and Cleric xorns are not unknown: Bards usually choose Entertainer (singing), and Clerics invariably have the Elemental Bloodline (earth).
 
-Young Black Dragon
+### Young Black Dragon
 
 | **Size/Type** | Large dragon, evil |
 | --- | --- |
@@ -33760,7 +33621,7 @@ Organization: Solitary
 
 - Bestow Curse
 
-Young Blue Dragon
+### Young Blue Dragon
 
 | **Size/Type** | Huge dragon, evil |
 | --- | --- |
@@ -33803,7 +33664,7 @@ Organization: Solitary
 
 - Ice Storm
 
-Young Brass Dragon
+### Young Brass Dragon
 
 | **Size/Type** | Large dragon, good |
 | --- | --- |
@@ -33848,7 +33709,7 @@ Organization: Solitary
 
 - Scrying
 
-Young Bronze Dragon
+### Young Bronze Dragon
 
 | **Size/Type** | Large dragon, good |
 | --- | --- |
@@ -33896,7 +33757,7 @@ Organization: Solitary
 
 - Freedom of Movement
 
-Young Copper Dragon
+### Young Copper Dragon
 
 | **Size/Type** | Large dragon, good |
 | --- | --- |
@@ -33943,7 +33804,7 @@ Organization: Solitary
 
 - Fire Shield
 
-Young Gold Dragon
+### Young Gold Dragon
 
 | **Size/Type** | Large dragon, good |
 | --- | --- |
@@ -33992,7 +33853,7 @@ Organization: Solitary
 
 - Black Tentacles
 
-Young Green Dragon
+### Young Green Dragon
 
 | **Size/Type** | Large dragon, evil |
 | --- | --- |
@@ -34037,7 +33898,7 @@ Organization: Solitary
 
 - Neutralize Poison
 
-Young Red Dragon
+### Young Red Dragon
 
 | **Size/Type** | Large dragon, evil |
 | --- | --- |
@@ -34081,7 +33942,7 @@ Organization: Solitary
 
 - Wall of Fire
 
-Young Silver Dragon
+### Young Silver Dragon
 
 | **Size/Type** | Large dragon, good |
 | --- | --- |
@@ -34128,7 +33989,7 @@ Organization: Solitary
 
 - Dream
 
-Young White Dragon
+### Young White Dragon
 
 | **Size/Type** | Large dragon, evil |
 | --- | --- |
@@ -34171,7 +34032,7 @@ Organization: Solitary
 
 - Sleet Storm
 
-Zombie
+### Zombie
 
 | **Size/Type** | Medium undead, evil |
 | --- | --- |
@@ -34213,7 +34074,7 @@ Although they are able to follow orders, zombies are often set free with the ord
 
 This appendix contains the statistics of various animals, parasites, and other creatures. The statistics are organized in alphabetical order.
 
-Ape
+### Ape
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34233,7 +34094,7 @@ Ape
 
 *Hit:* 6 (1d6 + 3) bludgeoning damage.
 
-Armored Bear
+### Armored Bear
 
 | **Size/Type** | Huge beast, corrupted by Cattalm |
 | --- | --- |
@@ -34255,7 +34116,7 @@ Armored Bear
 
 *Hit:* 20 (3d8 + 10) piercing damage.
 
-Awakened Tree
+### Awakened Tree
 
 | **Size/Type** | Huge plant, unaligned |
 | --- | --- |
@@ -34276,7 +34137,7 @@ Awakened Tree
 
 *Hit:* 14 (3d6 + 4) bludgeoning damage.
 
-Axe Beak
+### Axe Beak
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34290,7 +34151,7 @@ Axe Beak
 
 *Hit:* 6 (1d8 + 2) slashing damage.
 
-Baboon
+### Baboon
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -34306,7 +34167,7 @@ Baboon
 
 *Hit:* 1 (1d4 - 1) piercing damage.
 
-Badger
+### Badger
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -34324,7 +34185,7 @@ Badger
 
 *Hit:* 1 piercing damage.
 
-Black Bear
+### Black Bear
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34346,7 +34207,7 @@ Black Bear
 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
-Blink Dog
+### Blink Dog
 
 | **Size/Type** | Medium monstrosity, evil |
 | --- | --- |
@@ -34365,7 +34226,7 @@ Blink Dog
 
 ***Teleport (Recharge 4-6).*** The dog magically teleports, along with any equipment it is wearing or carrying, up to 12 meters to an unoccupied space it can see. Before or after teleporting, the dog can make a bite attack.
 
-Blood Hawk
+### Blood Hawk
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -34383,7 +34244,7 @@ Blood Hawk
 
 *Hit:* 4 (1d4 + 2) piercing damage.
 
-Boar
+### Boar
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34401,7 +34262,7 @@ Boar
 
 *Hit:* 4 (1d6 + 1) slashing damage.
 
-Brown Bear
+### Brown Bear
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34423,7 +34284,7 @@ Brown Bear
 
 *Hit:* 8 (1d8 + 4) piercing damage.
 
-Cat
+### Cat
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -34439,7 +34300,7 @@ Cat
 
 *Hit:* 1 slashing damage.
 
-Constrictor Snake
+### Constrictor Snake
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34457,7 +34318,7 @@ Constrictor Snake
 
 *Hit:* 6 (1d8 + 2) bludgeoning damage, and the target is grappled (DC 14 to escape). Until this grapple ends, the creature is restrained, and the snake can' \*\*t constrict another target.
 
-Crocodile
+### Crocodile
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34473,7 +34334,7 @@ Crocodile
 
 *Hit:* 7 (1d10 + 2) piercing damage, and the target is grappled (DC 12 to escape). Until the grapple ends, the crocodile can' \*\*t use its bite against another target.
 
-Death Dog
+### Death Dog
 
 | **Size/Type** | Medium monstrosity, evil |
 | --- | --- |
@@ -34491,7 +34352,7 @@ Death Dog
 
 *Hit:* 5 (1d6 + 2) piercing damage. If the target is a creature, it must succeed on a DC 12 Fortitude Saving Throw against disease or become diseased. The disease has no effect for 24 hours and can be removed by any magic that cures disease. After each 24 hours, the creature must repeat the Saving Throw, reducing its hit point maximum by 5 (1d10) on a failure. This reduction lasts until the disease is cured. The creature dies if the disease reduces its hit point maximum to 0.
 
-Deer
+### Deer
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34505,7 +34366,7 @@ Deer
 
 *Hit:* 2 (1d4) piercing damage.
 
-Dire Wolf (Metawolf)
+### Dire Wolf (Metawolf)
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34523,7 +34384,7 @@ Dire Wolf (Metawolf)
 
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
-Eagle
+### Eagle
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -34539,7 +34400,7 @@ Eagle
 
 *Hit:* 4 (1d4 + 2) slashing damage.
 
-Elephant
+### Elephant
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -34559,7 +34420,7 @@ Elephant
 
 *Hit:* 22 (3d10 + 6) bludgeoning damage.
 
-Elk
+### Elk
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34579,7 +34440,7 @@ Elk
 
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-Flying Snake
+### Flying Snake
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -34595,7 +34456,7 @@ Flying Snake
 
 *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
-Frog
+### Frog
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -34611,7 +34472,7 @@ Frog
 
 A **frog** has no attacks. It feeds on small insects and typically lives near marshes, in trees, or underground.
 
-Giant Ape
+### Giant Ape
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -34631,7 +34492,7 @@ Giant Ape
 
 *Hit:* 30 (7d6 + 6) bludgeoning damage.
 
-Giant Badger
+### Giant Badger
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34655,7 +34516,7 @@ Giant Badger
 
 *Hit:* 4 (1d6 + 1) piercing damage.
 
-Giant Boar
+### Giant Boar
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34673,7 +34534,7 @@ Giant Boar
 
 *Hit:* 10 (2d6 + 3) slashing damage.
 
-Giant Constrictor Snake
+### Giant Constrictor Snake
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -34691,7 +34552,7 @@ Giant Constrictor Snake
 
 *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the creature is restrained, and the snake cannot constrict another target.
 
-Giant Crab
+### Giant Crab
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34707,7 +34568,7 @@ Giant Crab
 
 *Hit:* 4 (1d6 + 1) bludgeoning damage, and the target is grappled (DC 11 to escape). The crab has two claws, each of which can grapple only one target.
 
-Giant Crocodile
+### Giant Crocodile
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -34729,7 +34590,7 @@ Giant Crocodile
 
 *Hit:* 21 (3d10 + 5) piercing damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the crocodile can' \*\*t use its bite against another target.
 
-Giant Eagle
+### Giant Eagle
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34752,7 +34613,7 @@ Giant Eagle
 
 *Hit:* 10 (2d6 + 3) slashing damage.
 
-Giant Elk
+### Giant Elk
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -34772,7 +34633,7 @@ Giant Elk
 
 *Hit:* 22 (4d4 + 4) bludgeoning damage.
 
-Giant Fire Beetle
+### Giant Fire Beetle
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -34788,7 +34649,7 @@ Giant Fire Beetle
 
 *Hit:* 2 (1d6 - 1) slashing damage.
 
-Giant Froggy
+### Giant Froggy
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34808,7 +34669,7 @@ Giant Froggy
 
 ***Swallow.*** The frog makes a bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, has total cover against attacks and other effects outside the frog, and takes 5 (2d4) acid damage at the start of each of the frog' \*\*s turns. The frog can have only one target swallowed at a time. If the frog dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 1 meter of movement, exiting prone.
 
-Giant Frog
+### Giant Frog
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34832,7 +34693,7 @@ If the toad dies, a swallowed creature is no longer restrained by it and can esc
 
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-Giant Goat
+### Giant Goat
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34850,7 +34711,7 @@ Giant Goat
 
 *Hit:* 8 (2d4 + 3) bludgeoning damage.
 
-Giant Hyena
+### Giant Hyena
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34866,7 +34727,7 @@ Giant Hyena
 
 *Hit:* 10 (2d6 + 3) piercing damage.
 
-Giant Lizard
+### Giant Lizard
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34888,7 +34749,7 @@ Some giant lizards have one or both of the following traits.
 
 ***Hold Breath.*** The lizard can hold its breath for 15 minutes. (A lizard with this trait also has a swimming speed of 9 meters.)
 
-Giant Owl
+### Giant Owl
 
 | **Size/Type** | Large beast, neutral |
 | --- | --- |
@@ -34906,7 +34767,7 @@ Giant Owl
 
 *Hit:* 8 (2d6 + 1) piercing damage.
 
-Giant Poisonous Snake
+### Giant Poisonous Snake
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -34920,7 +34781,7 @@ Giant Poisonous Snake
 
 *Hit:* 6 (1d4 + 4) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-Giant Rat
+### Giant Rat
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -34946,7 +34807,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or contract a disease. Until the disease is cured, Fortitude Saving Throw DC 12 every 24 hours, the target can' \*\*t regain hit points except by magical means, and the target' \*\*s hit point maximum decreases by 3 (1d6) every 24 hours. If the target' \*\*s hit point maximum drops to 0 as a result of this disease, the target dies.
 
-Giant Scorpion
+### Giant Scorpion
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34966,7 +34827,7 @@ Giant Scorpion
 
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.
 
-Giant Sea Horse
+### Giant Sea Horse
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -34984,7 +34845,7 @@ Giant Sea Horse
 
 *Hit:* 4 (1d6 + 1) bludgeoning damage.
 
-Giant Shark
+### Giant Shark
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -35004,7 +34865,7 @@ Giant Shark
 
 *Hit:* 22 (3d10 + 6) piercing damage.
 
-Giant Spider
+### Giant Spider
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35030,7 +34891,7 @@ Giant Spider
 
 *Hit:* The target is restrained by webbing. As an Action, the restrained target can make a Fortitude Saving Throw with Strength DC 12 and, on a success, break free. The webbing can also be attacked and destroyed (AC 10; Hit Points 5; vulnerability to fire damage; immunity to bludgeoning and poison damage).
 
-Giant Vulture
+### Giant Vulture
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35054,7 +34915,7 @@ Giant Vulture
 
 *Hit:* 9 (2d6 + 2) slashing damage.
 
-Giant Wasp
+### Giant Wasp
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35070,7 +34931,7 @@ Giant Wasp
 
 *Hit:* 5 (1d6 + 2) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining Hit Points, and is paralyzed while poisoned in this way.
 
-Giant Weasel
+### Giant Weasel
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35086,7 +34947,7 @@ Giant Weasel
 
 *Hit:* 5 (1d4 + 3) piercing damage.
 
-Giant Wolf Spider
+### Giant Wolf Spider
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35106,7 +34967,7 @@ Giant Wolf Spider
 
 *Hit:* 4 (1d6 + 1) piercing damage, and the target must make a Fortitude Saving Throw DC 11, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-Goat
+### Goat
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35124,7 +34985,7 @@ Goat
 
 *Hit:* 3 (1d4 + 1) bludgeoning damage.
 
-Hawk
+### Hawk
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35140,7 +35001,7 @@ Hawk
 
 *Hit:* 1 slashing damage.
 
-Hunter Shark
+### Hunter Shark
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35158,7 +35019,7 @@ Hunter Shark
 
 *Hit:* 13 (2d8 + 4) piercing damage.
 
-Hyena
+### Hyena
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35174,7 +35035,7 @@ Hyena
 
 *Hit:* 3 (1d6) piercing damage.
 
-Jackal
+### Jackal
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -35192,7 +35053,7 @@ Jackal
 
 *Hit:* 1 (1d4 - 1) piercing damage.
 
-Killer Whale (Orca)
+### Killer Whale (Orca)
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -35212,7 +35073,7 @@ Killer Whale (Orca)
 
 *Hit:* 21 (5d6 + 4) piercing damage.
 
-Lion
+### Lion
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35238,7 +35099,7 @@ Lion
 
 *Hit:* 7 (1d8 + 3) piercing damage.
 
-Mammoth
+### Mammoth
 
 | **Size/Type** | Huge beast, unaligned |
 | --- | --- |
@@ -35258,7 +35119,7 @@ Mammoth
 
 *Hit:* 29 (4d10 + 7) bludgeoning damage.
 
-Mastiff
+### Mastiff
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35274,7 +35135,7 @@ Mastiff
 
 *Hit:* 4 (1d6 + 1) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
-Monkey
+### Monkey
 
 | **Size/Type** | Small beast, unaligned |
 | --- | --- |
@@ -35293,7 +35154,7 @@ Monkey
 
 *Hit:* 2 (1d4) piercing damage.
 
-Owl
+### Owl
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35311,7 +35172,7 @@ Owl
 
 *Hit:* 1 slashing damage.
 
-Panther
+### Panther
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35333,7 +35194,7 @@ Panther
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-Phase Spider
+### Phase Spider
 
 | **Size/Type** | Large monstrosity, unaligned |
 | --- | --- |
@@ -35353,7 +35214,7 @@ Phase Spider
 
 *Hit:* 7 (1d10 + 2) piercing damage, and the target must make a Fortitude Saving Throw DC 14, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 
-Piranha
+### Piranha
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35371,7 +35232,7 @@ Piranha
 
 *Hit:* 1 piercing damage.
 
-Poisonous Snake
+### Poisonous Snake
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35385,7 +35246,7 @@ Poisonous Snake
 
 *Hit:* 1 piercing damage and the target must make a DC 10 Fortitude Saving Throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
-Polar Bear
+### Polar Bear
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35407,7 +35268,7 @@ Polar Bear
 
 *Hit:* 9 (1d8 + 5) piercing damage.
 
-Rat
+### Rat
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35423,7 +35284,7 @@ Rat
 
 *Hit:* 1 piercing damage.
 
-Raven
+### Raven
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35439,7 +35300,7 @@ Raven
 
 *Hit:* 1 piercing damage.
 
-Reef Shark
+### Reef Shark
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35459,7 +35320,7 @@ Reef Shark
 
 *Hit:* 6 (1d8 + 2) piercing damage.
 
-Rhinoceros
+### Rhinoceros
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35475,7 +35336,7 @@ Rhinoceros
 
 *Hit:* 14 (2d8 + 5) bludgeoning damage.
 
-Saber-Toothed Tiger
+### Saber-Toothed Tiger
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35499,7 +35360,7 @@ Saber-Toothed Tiger
 
 *Hit:* 10 (1d10 + 5) piercing damage.
 
-Saurovall, Draft
+### Saurovall, Draft
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35513,7 +35374,7 @@ Saurovall, Draft
 
 *Hit:* 9 (2d4 + 4) bludgeoning damage.
 
-Saurovall, Pony
+### Saurovall, Pony
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35527,7 +35388,7 @@ Saurovall, Pony
 
 *Hit:* 7 (2d4 + 2) bludgeoning damage.
 
-Saurovall, Riding
+### Saurovall, Riding
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35539,7 +35400,7 @@ Saurovall, Riding
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
-Saurovall, War
+### Saurovall, War
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35567,7 +35428,7 @@ He also created a smaller, dwarf version that could adapt to carrying creatures 
 
 Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost displeasure!
 
-Scorpion
+### Scorpion
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35581,7 +35442,7 @@ Scorpion
 
 *Hit:* 1 piercing damage, and the target must make a Fortitude Saving Throw DC 9, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.
 
-Spider
+### Spider
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35601,7 +35462,7 @@ Spider
 
 *Hit:* 1 piercing damage, and the target must succeed on a Fortitude Saving Throw 9 or take 2 (1d4) poison damage.
 
-Stirgy
+### Stirgy
 
 | **Size/Type** | Tiny beast, unaligned |
 | --- | --- |
@@ -35619,7 +35480,7 @@ Stirgy
 
 The stirge can detach itself by spending 1 Action. It does so automatically after it has drained 10 Hit Points of blood from the target or the target dies. A creature, including the target, can use an Action to detach the stirge.
 
-Swarm of Bats
+### Swarm of Bats
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35640,7 +35501,7 @@ Swarm of Bats
 
 *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.
 
-Swarm of Centipedes
+### Swarm of Centipedes
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35657,7 +35518,7 @@ Swarm of Centipedes
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer. A creature reduced to 0 hit points by a swarm of centipedes but stabilized remains poisoned for 1 hour, even after regaining hit points, and remains paralyzed by the poison during this period.
 
-Swarm of Piranhas
+### Swarm of Piranhas
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35678,7 +35539,7 @@ Swarm of Piranhas
 
 *Hit:* 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
 
-Swarm of Poisonous Snakes
+### Swarm of Poisonous Snakes
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35695,7 +35556,7 @@ Swarm of Poisonous Snakes
 
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer, and the target must make a Fortitude Saving Throw DC 10, taking 14 (4d6) poison damage on a failed save, or half as much damage on a successful one.
 
-Swarm of Rats
+### Swarm of Rats
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35720,7 +35581,7 @@ Swarm of Rats
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-Swarm of Ravens
+### Swarm of Ravens
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35737,7 +35598,7 @@ Swarm of Ravens
 
 *Hit:* 7 (2d6) piercing damage, or 3 (1d6) piercing damage if the swarm has half of its hit points or fewer.
 
-Swarm of Spiders
+### Swarm of Spiders
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35760,7 +35621,7 @@ Swarm of Spiders
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-Swarm of Wasps
+### Swarm of Wasps
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35776,7 +35637,7 @@ Swarm of Wasps
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-Tiger
+### Tiger
 
 | **Size/Type** | Large beast, unaligned |
 | --- | --- |
@@ -35800,7 +35661,7 @@ Tiger
 
 *Hit:* 8 (1d10 + 3) piercing damage.
 
-Vulture
+### Vulture
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35818,7 +35679,7 @@ Vulture
 
 *Hit:* 2 (1d4) piercing damage.
 
-Swarm of Insects
+### Swarm of Insects
 
 | **Size/Type** | Medium swarm of Tiny beasts, unaligned |
 | --- | --- |
@@ -35835,7 +35696,7 @@ Swarm of Insects
 
 *Hit:* 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
 
-Winter Wolf
+### Winter Wolf
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -35857,7 +35718,7 @@ Winter Wolf
 
 ***Cold Breath (Recharge 5-6).*** The wolf exhales a blast of freezing wind in a 5-meter cone. Each creature in that area must make a DC 15 Reflex Saving Throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
 
-Wolf
+### Wolf
 
 | **Size/Type** | Medium beast, unaligned |
 | --- | --- |
@@ -35875,7 +35736,7 @@ Wolf
 
 *Hit:* 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Fortitude Saving Throw or be knocked prone.
 
-Worg
+### Worg
 
 | **Size/Type** | Large monstrosity, evil |
 | --- | --- |
@@ -35915,7 +35776,7 @@ Some example magic items are described later in this document.
 
 Fighters are individuals who earn a living by putting their sword in service to an individual or an ideal.
 
-Guard
+### Guard
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -35931,7 +35792,7 @@ Guards include members of the city watch, sentinels in a citadel or fortified to
 
 *Hit:* 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-Veteran
+### Veteran
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -35959,7 +35820,7 @@ Warriors who have survived long, earning a great reputation as expert and skille
 
 *Hit:* 6 (1d10 + 1) piercing damage.
 
-Knight
+### Knight
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -35990,7 +35851,7 @@ Knights are fighters who swear allegiance to rulers, religious orders, and noble
 This category includes individuals who keep the world running, performing the necessary tasks to ensure that fields are cultivated, cities are administered, food is grown and
 new territories are explored.
 
-Noble
+### Noble
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36010,7 +35871,7 @@ Nobles command the population by virtue of birthright or accumulated wealth. Amo
 
 **Reactions*Parry.*** The noble adds 2 to its Defense against a melee attack that would hit it. To do so, the noble must see the attacker and be wielding a melee weapon.
 
-Commoner
+### Commoner
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36031,7 +35892,7 @@ Commoners include peasants, serfs, slaves, servants, pilgrims, merchants, artisa
 
 Criminals are individuals who live on the edge of legality, making their living by engaging in activities often considered illegal and immoral.
 
-Bandit/Pirate
+### Bandit/Pirate
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36052,7 +35913,7 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 
 *Hit:* 5 (1d8 + 1) slashing damage.
 
-Spy
+### Spy
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36079,7 +35940,7 @@ A spy is an individual trained in gathering secrets for someone, or sometimes to
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-Bandit Captain or Pirate
+### Bandit Captain or Pirate
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36105,7 +35966,7 @@ Whether living on land or at sea, this is an individual with a great personality
 
 **Reactions*Parry.*** The captain adds 2 to their Defense against a melee attack that would hit them. To do so, the captain must see the attacker and be wielding a melee weapon.
 
-Assassin
+### Assassin
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36141,7 +36002,7 @@ Solitary or members of a guild, assassins are paid to eliminate, often silently 
 
 The wizard spends their life studying and practicing magic.
 
-Adventuring Wizard
+### Adventuring Wizard
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36167,7 +36028,7 @@ level 2 (3 slots): *Hold Person, Misty Step*
 
 *Hit:* 3 (1d8 - 1) bludgeoning damage.
 
-Great Wizard
+### Great Wizard
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36201,7 +36062,7 @@ level 5 (1 slot): *Cone of Cold*
 
 **Reaction: *Opportunistic Spell***: the wizard reacts to an attack by casting a cantrip.
 
-Archmage
+### Archmage
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36251,7 +36112,7 @@ The archmage casts these {*} spells on itself before combat.
 
 Priests are devoted to a deity or faith who take care of imparting divine teachings to their flock.
 
-Cultist
+### Cultist
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36271,7 +36132,7 @@ Cultists swear allegiance to dark powers, and in their beliefs and practices oft
 
 *Hit:* 4 (1d6 + 1) slashing damage.
 
-Acolyte
+### Acolyte
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36295,7 +36156,7 @@ level 1 (3 slots): *Bless, Cure Wounds, Sanctuary*
 
 *Hit:* 2 (1d4) bludgeoning damage.
 
-Cult leader
+### Cult leader
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36325,7 +36186,7 @@ level 2 (3 slots): *Spiritual Weapon, Hold Person*
 
 *Hit:* 4 (1d4 + 2) piercing damage.
 
-High Priest
+### High Priest
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36358,7 +36219,7 @@ level 3 (2 slots): *Dispel Magic*
 
 These individuals live on the fringes of civilization, sometimes rarely coming into contact with it. Uncomfortable within walls and in civilized lands, they are in their element when they can move through the wilderness.
 
-Berserker
+### Berserker
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36377,7 +36238,7 @@ Coming from wild lands, unpredictable berserkers gather in war bands and are alw
 
 *Hit:* 9 (1d12 + 3) slashing damage.
 
-Tribal Warrior
+### Tribal Warrior
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36396,7 +36257,7 @@ They are the defenders of tribes living on the fringes of civilization.
 
 *Hit:* 4 (1d6 + 1) piercing damage
 
-Druid
+### Druid
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |
@@ -36422,7 +36283,7 @@ level 2 (3 slots): *Animal Messenger, Barkskin*
 
 *Hit:* 3 (1d6) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with *Shillelagh* or if wielded with two hands.
 
-Scout
+### Scout
 
 | **Size/Type** | Medium humanoid, any Trait |
 | --- | --- |

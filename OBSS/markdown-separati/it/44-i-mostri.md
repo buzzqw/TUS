@@ -74,7 +74,7 @@ Organizzazione: Solitario, coppia, nidiata (3-6) o branco (7-19)
 
 Come suggerisce il loro aspetto primitivo gli aboleth sono fra le più antiche forme di vita al mondo. Un aboleth è lungo 7 metri e pesa circa 3,2 tonnellate. Gli aboleth abitano in fondo ai mari nelle loro enormi città, serviti da innumerevoli schiavi.
 
-Angelo Deva
+### Angelo Deva
 
 | **Taglia/Tipo** | Media celestiale, buono |
 | --- | --- |
@@ -121,7 +121,7 @@ Organizzazione: Solitario, coppia, o squadriglia (3-6)
 
 I deva movanici compongono i ranghi della fanteria delle armate celesti, sebbene trascorrano la maggior parte del loro tempo pattugliando il Piano Positivo, quello Negativo e quello Materiale. Sul Piano Positivo sorvegliano le anime buone erranti. Sul Piano Negativo combattono i non morti e altri strani esseri che cacciano nel famelico vuoto. Le loro rare volte sul Piano Materiale hanno solitamente lo scopo di portare aiuto a potenti mortali, quando un grande pericolo minaccia di far cadere nelle mani del male un intero regno.
 
-Angelo Planetar
+### Angelo Planetar
 
 | **Taglia/Tipo** | Grande celestiale, buono |
 | --- | --- |
@@ -174,7 +174,7 @@ Organizzazione: Solitario o coppia
 
 I planetar sono i generali delle armate celestiali volti alla distruzione del male. Un planetar è di norma alto 2,7 metri e pesa circa 250 kg. Sono ottimi diplomatici, ma contro gli immondi preferiscono la guerra piuttosto che negoziare una pace.
 
-Angelo Solar
+### Angelo Solar
 
 | **Taglia/Tipo** | Grande celestiale, buono |
 | --- | --- |
@@ -243,7 +243,7 @@ I solar che passano tempo sul Piano Materiale possono influenzare linee di sangu
 
 Rispettati da tutti gli angeli, i solar a volte comandano armate contro le legioni dell'Inferno e le orde dell'Abisso.
 
-Ankheg
+### Ankheg
 
 | **Taglia/Tipo** | Grande mostruosità, disallineato |
 | --- | --- |
@@ -272,7 +272,7 @@ Gli ankheg sono mostri scavatori che prediligono le campagne per via del terreno
 
 Alcuni ankheg sono addestrabili e possono diventare animali da carico, sebbene il loro comportamento imprevedibile li renda pericolosi nelle regioni civilizzate.
 
-Arpia
+### Arpia
 
 | **Taglia/Tipo** | Media mostruosità, Arrogante, Impulsivo |
 | --- | --- |
@@ -317,7 +317,7 @@ Le arpie tendono ad indossare ninnoli e ciondoli rubati alle loro vittime, perch
 
 Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alcune assomigliano ad una mescolanza di avvoltoi e donne, mentre altri portano sulle penne i tratti regali di falchi e falconi. Rare nidiate di arpie, in luoghi isolati e tropicali del mondo, hanno anche piume colorate come i pappagalli.
 
-Azer
+### Azer
 
 | **Taglia/Tipo** | Media elementale, legale |
 | --- | --- |
@@ -357,7 +357,7 @@ Nella leggendaria Città d'Ottone abitano più di mezzo milione di Azer. La magg
 
 A un occhio non allenato gli Azer si somigliano tra loro in modo impressionante. Sono alti 1,2 metri ma pesano 100 kg.
 
-Banshee
+### Banshee
 
 | **Taglia/Tipo** | Media non morto, Arrogante, Vanitoso |
 | --- | --- |
@@ -400,7 +400,7 @@ Organizzazione: Solitario
 
 La Banshee è lo spirito infuriato di una donna che ha tradito i propri cari o è stata a sua volta tradita. Impazzita per il dolore, la Banshee riversa la propria vendetta su ogni creatura vivente (innocente o colpevole) con il suo temibile tocco e le sue grida mortali.
 
-Basilisco
+### Basilisco
 
 | **Taglia/Tipo** | Media mostruosità, disallineato |
 | --- | --- |
@@ -443,7 +443,7 @@ Un basilisco adulto è lungo quasi 3 metri, di cui la metà occupata dalla lunga
 
 Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del basilisco, e a volte si intrufolano nelle tane mentre l'adulto è a caccia per cibarsi dei suoi piccoli.
 
-Behir
+### Behir
 
 | **Taglia/Tipo** | Enorme mostruosità, malvagio |
 | --- | --- |
@@ -487,7 +487,7 @@ Il behir è una creatura territoriale che striscia per le colline sabbiose e le 
 
 Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e può essere convinto da negoziatori intrepidi. I behir sono spesso legati ai draghi blu, ma la natura di questo legame è sconosciuta. Questo legame suscita rancore nei behir, rendendoli pronti ad attaccare qualunque drago entri nel loro territorio.
 
-Blatta Esplosiva
+### Blatta Esplosiva
 
 | **Taglia/Tipo** | Piccolo Elementale, neutrale |
 | --- | --- |
@@ -531,7 +531,7 @@ Sono ormai comuni nella caverne prossime a vulcani o tane di drago rosso essendo
 
 Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremamente più grossa e forte. Le Blatte Esplosive si nutrono di carbone, legni bruciati, carcasse bruciate. Sono estremamente golosi di diamanti che una volta bruciati sono delle vere e proprie leccornie.
 
-B.O.C.
+### B.O.C.
 
 | **Taglia/Tipo** | grande mostruosità, malvagio |
 | --- | --- |
@@ -574,7 +574,7 @@ Organizzazione: Solitario, coppia oppure branco (2d4)
 
 Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovviamente di colore nero. Feroce, insaziabile, uccide per il gusto di cacciare. Agisce solitamente in branco ed è estremamente fedele al gruppo.
 
-Bugbear
+### Bugbear
 
 | **Taglia/Tipo** | Media umanoide (goblinoide), Arrogante, Impulsivo |
 | --- | --- |
@@ -613,7 +613,7 @@ I bugbear non formano grandi insediamenti come i goblin o nazioni come gli hobgo
 
 I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omicidio e della violenza, con i vari signori dei demoni tra i preferiti. Un tipico bugbear è alto 2,1 metro e pesa 200 kg.
 
-Bulette
+### Bulette
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -653,7 +653,7 @@ I bulette sono macchine perfette per divorare e distruggere ossa, armature e anc
 
 Il bulette è un combattente astuto, e sorprende i nemici con agilità impressionante. Una delle sue tattiche preferite è lanciarsi alla carica e balzare sulla preda attaccando con i suoi artigli affilati come rasoi. Si dice che la carne dietro la cresta dorsale della bestia sia particolarmente tenera, e che quanti vogliano o riescano ad attendere che la pinna venga sollevata nella concitazione del combattimento o dell'accoppiamento possano tentare di sferrare un colpo mortale in quel punto, anche se la maggior parte di quelli che hanno affrontato uno squalo terrestre concordano sul fatto che il miglior modo per vincere un combattimento con un bulette sia evitarlo del tutto.
 
-Cavaliere Nero
+### Cavaliere Nero
 
 | **Taglia/Tipo** | Media non morto, Arrogante, Paziente |
 | --- | --- |
@@ -703,7 +703,7 @@ Organizzazione: Solitario
 
 Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cavaliere di Sumkjr, anzi spesso nasce dalla corruzione di un cavaliere di Sumkjr. Avversario temibile, furbo, tattico, adora comportarsi e ragionare malignamente, come una persona ancora viva. La sua tattica è di lanciare la Palla di Fuoco il prima possibile per poi consumare la vittima con Punizione marchiante.
 
-Centauro
+### Centauro
 
 | **Taglia/Tipo** | Grande mostruosità, buono |
 | --- | --- |
@@ -745,7 +745,7 @@ I centauri vivono in media circa 60 anni. Distanti dalle altre razze e in confli
 
 La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per volere di Calicante. Ljust inorridita da tanta morte intercesse su Calicante perché lasciasse stare queste creature. Questo salvataggio ha portato molti tribù di Centauri ad essere devoti della Signora della Luce, anche se altri hanno preferito invece dedicare il loro culto a Calicante nella speranza che non li uccida tutti in una notte.
 
-Chimera
+### Chimera
 
 | **Taglia/Tipo** | Grande mostruosità, Arrogante, Vanitoso |
 | --- | --- |
@@ -789,7 +789,7 @@ Organizzazione: Solitario, coppia, branco (3-6) o stormo (7-12)
 
 Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessario (anche se quando sono costrette a farlo il loro umore peggiora ulteriormente). Il fatto che volino significa che possono scegliere con attenzione le loro prede, e generalmente cacciano in vaste aree cercando quelle facili. Sono troppo stupide e belligeranti per acquisire seguaci, anche se a volte una tribù di coboldi può far loro delle offerte. Al contrario, sono abbastanza intelligenti e caparbie da essere mediocri animali domestici, e solo una creatura molto più potente di loro può riuscire a sottometterle. Possono formare collaborazioni paritarie con umanoidi rispettosi o creature simili, e acconsentono anche ad essere usate come cavalcature. Un branco di chimere ha una gerarchia simile a quella dei leoni, con un maschio dominante che comanda il gruppo e la maggior parte delle cacce svolte dalle femmine. Una chimera solitaria può essere un giovane maschio solitario o una femmina con i cuccioli nelle vicinanze.
 
-Chuul
+### Chuul
 
 | **Taglia/Tipo** | Grande aberrazione, malvagio |
 | --- | --- |
@@ -831,7 +831,7 @@ I chuul sono eccellenti nuotatori, ma preferiscono attaccare le creature terrest
 
 I chuul sono sorprendentemente intelligenti e molti si impegnano in inutili speculazioni sulle loro origini e motivazioni. Parlano un cinguettante e gorgogliante dialetto del Comune, ma pochi di essi sono inclini a chiacchierare con quanti non siano della loro razza, e se esiste una società chuul al di fuori del frenetico periodo degli amori, nessuno lo ha ancora scoperto. Al contrario, le menti dei chuul sembrano dedite solo alla ricerca del luogo perfetto in cui tendere un'imboscata per attaccare altre creature intelligenti e a come decorare le loro elaborate tane con trofei delle loro vittime. Anche se i chuul sembrano non interessati all'utilizzo di utensili, hanno un bisogno compulsivo di collezionare quelli delle loro vittime. Un tipico chuul è alto 2,3 metri e pesa 325 kg.
 
-Coboldo
+### Coboldo
 
 | **Taglia/Tipo** | Piccola umanoide (coboldo), malvagio |
 | --- | --- |
@@ -869,7 +869,7 @@ La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spazian
 
 I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare dalle monete d'argento gli avventurieri e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose ed i coboldi sembrano sani.
 
-Cockatrice
+### Cockatrice
 
 | **Taglia/Tipo** | Piccola mostruosità, disallineato |
 | --- | --- |
@@ -898,7 +898,7 @@ Anche se la loro dieta consiste principalmente di semi e insetti pietrificati (c
 
 La strana capacità della cockatrice di trasformare le altre creature in pietra è la sua miglior difesa e la sua tana è invariabilmente piena di resti dei nemici pietrificati. Per ironia della sorte, tuttavia, donnole e furetti, le creature che più probabilmente finiscono nei nidi delle cockatrici per mangiarne le uova, sembrano completamente immuni a questo effetto. Per ragioni sconosciute, le cockatrici sono sia terrorizzate che furiose con i galli comuni e c'è la stessa probabilità che fuggano o attacchino quando avviene un confronto.
 
-Couatl
+### Couatl
 
 | **Taglia/Tipo** | Media celestiale, buono |
 | --- | --- |
@@ -946,7 +946,7 @@ Rispettati ed ammirati per la loro saggezza e bellezza, cercano di portare i mor
 
 Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, anche se è noto che divorano gli umanoidi malvagi. Poiché preferiscono passare il tempo a perseguire i loro intenti anziché cacciare, apprezzano le offerte di cibo, in particolare piccoli cinghiali e volatili. Un couatl talvolta mostra il suo apprezzamento a un avventuriero o a un gruppo che gli ha reso un servizio donandogli 1d4 delle sue brillanti piume colorate.
 
-Cumulo Strisciante
+### Cumulo Strisciante
 
 | **Taglia/Tipo** | Grande pianta, disallineato |
 | --- | --- |
@@ -989,7 +989,7 @@ I cumuli striscianti sono incredibilmente furtivi nel loro ambiente naturale. Si
 
 Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in profonde foreste e fetide paludi ma possono essere trovati anche sottoterra, in mezzo a boschetti di funghi. Voci preoccupanti parlano di gruppi di cumuli striscianti che si radunano intorno a grandi tumuli nelle profondità di giungle e paludi, spesso durante violente tempeste di fulmini. Il motivo di questo comportamento è sconosciuto, e molti saggi si chiedono se dietro non ci sia uno scopo oscuro ed alieno.
 
-Balor
+### Balor
 
 | **Taglia/Tipo** | Enorme demone, malvagio |
 | --- | --- |
@@ -1040,7 +1040,7 @@ Nell'Abisso, i Balor sono per lo più al servizio dei signori dei demoni, in qua
 
 Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli possono alimentare la creazione di un balor: a differenza degli altri demoni, spesso occorrono numerose anime di potenti malvagi per far nascere un nuovo balor.
 
-Demogorgone
+### Demogorgone
 
 | **Taglia/Tipo** | Enorme principe demone, malvagio |
 | --- | --- |
@@ -1107,7 +1107,7 @@ Organizzazione: Unico
 
 Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 5 metri. Appare come un rettiloide bipede con due teste da babbuino, i colli sono lunghi e serpentini come le braccia tentacolari. Le due teste di Demogorgone sono hanno personalità distinte che si detestano. Spesso tentano di dominarsi a vicenda e molte delle storie che riguardano il Demogorgone trattano proprio su come una o l'altra testa cechi di dominare il tutto. Tra il Demogorgone ed Orcus c'è una forte rivalità.
 
-Dretch
+### Dretch
 
 | **Taglia/Tipo** | Piccolo demone, malvagio |
 | --- | --- |
@@ -1152,7 +1152,7 @@ A differenza della maggior parte dei demoni, la sciatta personalità del dretch 
 
 Un dretch è alto 1,2 metri e pesa 90 kg. I dretch solitamente si formano dalle anime di mortali malvagi ed indolenti: è sufficiente solo un piccolo frammento di anima per dare origine ad una nascita così orripilante. Una sola anima spesso può causare l'apparizione di una piccola armata di dretch e la vista di un'orda di dretch appena nati che si liberano dalla protomateria pulsante dell'Abisso è al contempo nauseante e terrificante.
 
-Glabrezu
+### Glabrezu
 
 | **Taglia/Tipo** | Grande demone, malvagio |
 | --- | --- |
@@ -1204,7 +1204,7 @@ Mentre la Succube è un demone che adesca la sua preda sfruttandone i desideri e
 
 Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni si originano dalle anime dei traditori, dei falsi e dei sovversivi: anime di mortali che, in vita, giurarono il falso o utilizzarono il tradimento e l'inganno per rovinare le vite altrui.
 
-Hezrou
+### Hezrou
 
 **Taglia/Tipo** | Grande demone, malvagio
 --- | ---
@@ -1250,7 +1250,7 @@ L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. E' a s
 
 Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che hanno avvelenato se stessi, i loro parenti o il loro ambiente, ad esempio, drogati, assassini ed alchimisti che non si sono preoccupati di come i loro esperimenti avvelenassero il mondo naturale.
 
-Marilith
+### Marilith
 
 | **Taglia/Tipo** | Grande demone, malvagio |
 | --- | --- |
@@ -1303,7 +1303,7 @@ Sovrane di orde demoniache e regine di nazioni abissali, le temibili marilith se
 
 Una marilith è alta da 1,8 a 2,7 metri, lunga 6 metri dalla testa alla punta della coda, e pesa 2000 kg. Solo le anime malvagie più arroganti ed orgogliose, solitamente quelle di crudeli sovrani, sadici generali e signori della guerra particolarmente violenti, possono causare la nascita di una marilith.
 
-Nalfeshnee
+### Nalfeshnee
 
 | **Taglia/Tipo** | Grande demone, malvagio |
 | --- | --- |
@@ -1357,7 +1357,7 @@ Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso 
 
 I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malvagi mortali avari o bramosi, in particolare di coloro che hanno regnato su imperi di schiavitù, furto, brigantaggio e altri vizi ancora più violenti.
 
-Orcus
+### Orcus
 
 | **Taglia/Tipo** | Enorme principe demone, malvagio |
 | --- | --- |
@@ -1418,7 +1418,7 @@ Organizzazione: Unico
 
 Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei non morti. Desidera vedere scomparire tutta la vita e questa trasformarsi tutta in una gigantesca necropoli di non morti sotto il suo comando. Orcus ha la testa e le gambe da capra, corna simili a montoni, un corpo gonfio, ali da pipistrello e una lunga coda.
 
-Silku
+### Silku
 
 | **Taglia/Tipo** | Media demone, malvagio |
 | --- | --- |
@@ -1457,7 +1457,7 @@ Sgranai gli occhi e indietreggiai di un passo, mentre il terrore si impadroniva 
 
 Da *Il Guardiano di Falkonia*, romanzo di Federica Angeli
 
-Quasit
+### Quasit
 
 | **Taglia/Tipo** | Minuscola demone, mutaforma, malvagio |
 | --- | --- |
@@ -1499,7 +1499,7 @@ Unici tra le orde demoniache, i quasit non nascono dalle anime di malvagi mortal
 
 I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove diventano famigli e, finché sono soggetti alla volontà del loro padrone, lo odiano e disprezzano, dal momento che possono percepire il pulsare delle sua anima e sanno che potrebbero aspirare a qualcosa di più. Un quasit serve, eppure osserva e vigila nell'attesa di errori che possano costare la vita al suo signore, o meglio, che gli consentano di rivoltarsi contro il proprio padrone. Alla morte del proprio padrone il quasit spesso decide di rimanere nel Piano Materiale in cerca di altri modi per divertirsi, solitamente insediandosi in un'area urbana dove ci sono molti individui da tormentare.
 
-Succube
+### Succube
 
 | **Taglia/Tipo** | Media demone, malvagio |
 | --- | --- |
@@ -1540,7 +1540,7 @@ Organizzazione: Solitario, coppia o harem (3-12)
 
 Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di potere, utilizzando le sue manipolazioni ed il suo fascino sensuale, e molte guerre demoniache imperversano a causa delle subdole macchinazioni di queste creature. Una succube si origina dalle anime di malvagi mortali particolarmente libidinosi ed avidi.
 
-Vrock
+### Vrock
 
 | **Taglia/Tipo** | Grande demone, malvagio |
 | --- | --- |
@@ -1586,7 +1586,7 @@ Organizzazione: Solitario, coppia o banda (3-10)
 
 Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si originano dalle anime di malvagi mortali colmi di odio e di collera, in particolare coloro che erano criminali professionisti, mercenari o assassini.
 
-Destriero dell'Incubo
+### Destriero dell'Incubo
 
 | **Taglia/Tipo** | Grande immondo, malvagio |
 | --- | --- |
@@ -1623,7 +1623,7 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 
 > L'inferno è vuoto, tutti i diavoli sono qui. (William Shakespeare, La Tempesta)
 
-Diavolo Barbuto
+### Diavolo Barbuto
 
 | **Taglia/Tipo** | Media diavolo, malvagio |
 | --- | --- |
@@ -1668,7 +1668,7 @@ Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combatto
 
 I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro ed i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.
 
-Diavolo delle Catene
+### Diavolo delle Catene
 
 | **Taglia/Tipo** | Media diavolo, malvagio |
 | --- | --- |
@@ -1713,7 +1713,7 @@ Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20)
 
 Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
 
-Diavolo Cornuto
+### Diavolo Cornuto
 
 | **Taglia/Tipo** | Grande diavolo, malvagio |
 | --- | --- |
@@ -1770,7 +1770,7 @@ Un diavolo cornuto tipico raggiunge la ragguardevole altezza di 2,7 metri, è do
 
 > Il SIGNORE disse a Satana: "Da dove vieni?" Satana rispose al SIGNORE: "Dal percorrere la terra e dal passeggiare per essa". Giobbe 1,6-12
 
-Diavolo della Fossa
+### Diavolo della Fossa
 
 | **Taglia/Tipo** | Grande diavolo, malvagio |
 | --- | --- |
@@ -1829,7 +1829,7 @@ I diavoli della fossa sono potenti sovrani infernali, generali delle armate dell
 
 I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e puntano a conquistare semipiani e mondi mortali vulnerabili. Obbediscono alla gerarchia infernale ma possono deporre padroni indegni. Solo i più potenti incantatori osano evocarli rischiando la dannazione eterna.
 
-Diavolo del Ghiaccio
+### Diavolo del Ghiaccio
 
 | **Taglia/Tipo** | Grande diavolo, malvagio |
 | --- | --- |
@@ -1887,7 +1887,7 @@ In combattimento manda avanti i suoi sottoposti, così da poter valutare le tatt
 
 I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 
-Diavolo d'Ossa
+### Diavolo d'Ossa
 
 | **Taglia/Tipo** | Grande diavolo, malvagio |
 | --- | --- |
@@ -1935,7 +1935,7 @@ I diavoli d'ossa sono inquisitori delle razze diaboliche, noti per la loro passi
 
 I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi incantatori, recuperando informazioni preziose. Alti 2,7 metri e pesanti oltre 200 kg, con coda e ali terrificanti, sono imponenti e temuti.
 
-Diavolo Spinoso
+### Diavolo Spinoso
 
 | **Taglia/Tipo** | Piccola diavolo, malvagio |
 | --- | --- |
@@ -1984,7 +1984,7 @@ Sentinelle delle volte dell'Inferno, carcerieri delle anime più nere e armi viv
 I Diavoli Spinoso sono collezionisti ed organizzatori. Se lasciati agire liberamente, nei nascondigli di questi diavoli spesso fanno mostra i trofei trafitti di vecchie vittime.
 La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, sebbene i loro corpi asciutti e muscolosi sembrino più grossi per via degli spuntoni in continua crescita che fuoriescono dai loro corpi, taglienti come lame.
 
-Erinni
+### Erinni
 
 | **Taglia/Tipo** | Media diavolo, malvagio |
 | --- | --- |
@@ -2033,7 +2033,7 @@ Questi angeli bellissimi e oscuri accrescono la loro sensualità con cicatrici e
 
 Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertura di oltre 3 metri. Sono abili nel mantenere i nemici in vita per prolungare il tormento, e le più potenti possono far perdurare le sofferenze anche dopo la morte del soggetto.
 
-Imp
+### Imp
 
 | **Taglia/Tipo** | Minuscola diavolo, mutaforma, malvagio |
 | --- | --- |
@@ -2077,7 +2077,7 @@ Gli imp variano molto in aspetto, in un ampio spettro di tratti bestiali e grott
 
 Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel Piano Materiale, in particolare dopo che sono stati evocati per servire come famigli ed i loro padroni sono morti (spesso, indirettamente, a causa delle macchinazioni dell'imp stesso). Senza alcun mezzo per poter fare ritorno a casa questi imp, liberi da ogni legame con padroni arcani, possono diventare pericolosi seccatori o persino porsi a capo di piccole tribù di sanguinosi umanoidi, quali Gablin o Coboldi.
 
-Lemure
+### Lemure
 
 | **Taglia/Tipo** | Media diavolo, malvagio |
 | --- | --- |
@@ -2115,7 +2115,7 @@ Essi rivestono un ruolo vitale nell'ecologia dell'Inferno. Le anime dannate veng
 
 I diavoli maggiori possono riconoscere i lemure più corrotti e trasformarli in veri diavoli, pronti a servire nelle legioni dei dannati.
 
-Plesiosauro
+### Plesiosauro
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -2142,7 +2142,7 @@ Organizzazione: Solitario, coppia o branco (3-6)
 
 Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non sia un dinosauro, questa creatura ed i suoi simili si trovano spesso a cacciare in laghi ed oceani nei quali è facile trovare dei dinosauri.
 
-Tirannosauro
+### Tirannosauro
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -2180,7 +2180,7 @@ Organizzazione: Solitario, coppia o branco (3-6)
 
 Il tirannosauro è un predatore primario che misura 12 metri di lunghezza e pesa 7000 kg.
 
-Triceratopo
+### Triceratopo
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -2212,7 +2212,7 @@ Organizzazione: Solitario, coppia o branco (5-8)
 
 Il triceratopo è un erbivoro irascibile e caparbio. Un tipico triceratopo è lungo 9 metri e pesa 10000 kg.
 
-Divora Cervelli
+### Divora Cervelli
 
 | **Taglia/Tipo** | Piccola aberrazione, malvagio |
 | --- | --- |
@@ -2268,7 +2268,7 @@ I Divora Cervelli solitari spesso vivono in rovine o caverne ai margini delle re
 
 Si dice che il giardino di Shayalia sia pieno di Divora Cervelli. Un Divora Cervelli è lungo 90 cm e pesa circa 30 kg.
 
-Dobi
+### Dobi
 
 | **Taglia/Tipo** | Minuscola fatata, neutrale |
 | --- | --- |
@@ -2293,7 +2293,7 @@ Organizzazione: gruppo
 
 Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 
-Doppelganger
+### Doppelganger
 
 | **Taglia/Tipo** | Media mostruosità (mutaforma), neutrale |
 | --- | --- |
@@ -2402,7 +2402,7 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 
 **Draghi di Tàhil**
 
-Drago Bianco Antico
+### Drago Bianco Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -2481,7 +2481,7 @@ Le loro tane sono caverne ghiacciate nelle montagne o scavate nei ghiacciai più
 
 - Tempesta di Nevischio
 
-Drago Bianco Adulto
+### Drago Bianco Adulto
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -2548,7 +2548,7 @@ Organizzazione: Solitario
 
 - Tempesta di Nevischio
 
-Drago Bianco Giovane
+### Drago Bianco Giovane
 
 | **Taglia/Tipo** | Grande drago, malvagio |
 | --- | --- |
@@ -2591,7 +2591,7 @@ Organizzazione: Solitario
 
 - Tempesta di Nevischio
 
-Drago Bianco Cucciolo
+### Drago Bianco Cucciolo
 
 | **Taglia/Tipo** | Media drago, malvagio |
 | --- | --- |
@@ -2621,7 +2621,7 @@ Organizzazione: Solitario
 
 Vedi descrizione Drago Bianco Antico.
 
-Drago Blu Antico
+### Drago Blu Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -2704,7 +2704,7 @@ Non vanno d'accordo con i draghi viola che disprezzano per la scelta di aver rin
 
 - Tempesta di Ghiaccio
 
-Drago Blu Adulto
+### Drago Blu Adulto
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -2771,7 +2771,7 @@ Organizzazione: Solitario
 
 - Tempesta di Ghiaccio
 
-Drago Blu Giovane
+### Drago Blu Giovane
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -2814,7 +2814,7 @@ Organizzazione: Solitario
 
 - Tempesta di Ghiaccio
 
-Drago Blu Cucciolo
+### Drago Blu Cucciolo
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -2844,7 +2844,7 @@ Organizzazione: Solitario
 
 Vedi Descrizione Drago Blu Antico.
 
-Drago Giallo Antico
+### Drago Giallo Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -2904,7 +2904,7 @@ Il Drago Giallo pur se intelligente è una macchina di morte e difficilmente sce
 
 - Scudo di Fuoco
 
-Drago Nero Antico
+### Drago Nero Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -2993,7 +2993,7 @@ Il Drago Nero rappresentano i Tratti dell'egoismo e violenza odiando ogni forma 
 
 Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vita un morto a discapito di tutti i vincoli imposti dai Patroni.
 
-Drago Nero Adulto
+### Drago Nero Adulto
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -3062,7 +3062,7 @@ Organizzazione: Solitario
 
 - Scagliare Maledizione
 
-Drago Nero Giovane
+### Drago Nero Giovane
 
 | **Taglia/Tipo** | Grande drago, malvagio |
 | --- | --- |
@@ -3107,7 +3107,7 @@ Organizzazione: Solitario
 
 - Scagliare Maledizione
 
-Drago Nero Cucciolo
+### Drago Nero Cucciolo
 
 | **Taglia/Tipo** | Media drago, malvagio |
 | --- | --- |
@@ -3139,7 +3139,7 @@ Organizzazione: Solitario
 
 Vedi Descrizione Drago Nero Antico.
 
-Drago Porpora Antico
+### Drago Porpora Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -3217,7 +3217,7 @@ E' forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se
 
 - Scolpire Pietra
 
-Drago Rosso Antico
+### Drago Rosso Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -3293,7 +3293,7 @@ Combattono sfruttando la loro mole, le ali, il morso artigli.. insomma tutto ci�
 
 - Muro di Fuoco
 
-Drago Rosso Adulto
+### Drago Rosso Adulto
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -3362,7 +3362,7 @@ Organizzazione: Solitario
 
 - Muro di Fuoco
 
-Drago Rosso Giovane
+### Drago Rosso Giovane
 
 | **Taglia/Tipo** | Grande drago, malvagio |
 | --- | --- |
@@ -3406,7 +3406,7 @@ Organizzazione: Solitario
 
 - Muro di Fuoco
 
-Drago Rosso Cucciolo
+### Drago Rosso Cucciolo
 
 | **Taglia/Tipo** | Media drago, malvagio |
 | --- | --- |
@@ -3435,7 +3435,7 @@ Organizzazione: Solitario
 
 Vedi Descrizione Drago Rosso Antico.
 
-Drago Verde Antico
+### Drago Verde Antico
 
 | **Taglia/Tipo** | Mastodontica drago, malvagio |
 | --- | --- |
@@ -3516,7 +3516,7 @@ Tra i tanti draghi quello verde è forse quello che farà parlare gli avventurie
 
 - Rimuovi Veleno
 
-Drago Verde Adulto
+### Drago Verde Adulto
 
 | **Taglia/Tipo** | Enorme drago, malvagio |
 | --- | --- |
@@ -3585,7 +3585,7 @@ Organizzazione: Solitario
 
 - Rimuovi Veleno
 
-Drago Verde Giovane
+### Drago Verde Giovane
 
 | **Taglia/Tipo** | Grande drago, malvagio |
 | --- | --- |
@@ -3630,7 +3630,7 @@ Organizzazione: Solitario
 
 - Rimuovi Veleno
 
-Drago Verde Cucciolo
+### Drago Verde Cucciolo
 
 | **Taglia/Tipo** | Media drago, malvagio |
 | --- | --- |
@@ -3667,7 +3667,7 @@ Vedi Descrizione Drago Verde Antico.
 Pochissimi draghi buoni o di Ljust come vengono chiamati, sono presenti nella Terra.
 Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
-Drago di Argento Antico
+### Drago di Argento Antico
 
 | **Taglia/Tipo** | Mastodontica drago, buono |
 | --- | --- |
@@ -3740,7 +3740,7 @@ Organizzazione: Solitario
 
 - Sogno
 
-Drago di Argento Adulto
+### Drago di Argento Adulto
 
 | **Taglia/Tipo** | Enorme drago, buono |
 | --- | --- |
@@ -3813,7 +3813,7 @@ Organizzazione: Solitario
 
 - Sogno
 
-Drago di Argento Giovane
+### Drago di Argento Giovane
 
 | **Taglia/Tipo** | Grande drago, buono |
 | --- | --- |
@@ -3860,7 +3860,7 @@ Organizzazione: Solitario
 
 - Sogno
 
-Drago di Argento Cucciolo
+### Drago di Argento Cucciolo
 
 | **Taglia/Tipo** | Media drago, buono |
 | --- | --- |
@@ -3894,7 +3894,7 @@ Organizzazione: Solitario
 
 Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
 
-Drago di Bronzo Antico
+### Drago di Bronzo Antico
 
 | **Taglia/Tipo** | Mastodontica drago, buono |
 | --- | --- |
@@ -3966,7 +3966,7 @@ Organizzazione: Solitario
 
 - Libertà di Movimento
 
-Drago di Bronzo Adulto
+### Drago di Bronzo Adulto
 
 | **Taglia/Tipo** | Enorme drago, buono |
 | --- | --- |
@@ -4040,7 +4040,7 @@ Organizzazione: Solitario
 
 - Libertà di Movimento
 
-Drago di Bronzo Giovane
+### Drago di Bronzo Giovane
 
 | **Taglia/Tipo** | Grande drago, buono |
 | --- | --- |
@@ -4088,7 +4088,7 @@ Organizzazione: Solitario
 
 - Libertà di Movimento
 
-Drago di Bronzo Cucciolo
+### Drago di Bronzo Cucciolo
 
 | **Taglia/Tipo** | Media drago, buono |
 | --- | --- |
@@ -4125,7 +4125,7 @@ Organizzazione: Solitario
 
 I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se causa e ricompensa sono giuste e adeguate.
 
-Drago d'Oro Antico
+### Drago d'Oro Antico
 
 | **Taglia/Tipo** | Mastodontica drago, buono |
 | --- | --- |
@@ -4198,7 +4198,7 @@ Organizzazione: Solitario
 
 - Tentacoli Neri
 
-Drago d'Oro Adulto
+### Drago d'Oro Adulto
 
 | **Taglia/Tipo** | Enorme drago, buono |
 | --- | --- |
@@ -4275,7 +4275,7 @@ Organizzazione: Solitario
 
 - Tentacoli Neri
 
-Drago d'Oro Giovane
+### Drago d'Oro Giovane
 
 | **Taglia/Tipo** | Grande drago, buono |
 | --- | --- |
@@ -4324,7 +4324,7 @@ Organizzazione: Solitario
 
 - Tentacoli Neri
 
-Drago d'Oro Cucciolo
+### Drago d'Oro Cucciolo
 
 | **Taglia/Tipo** | Media drago, buono |
 | --- | --- |
@@ -4360,7 +4360,7 @@ Organizzazione: Solitario
 
 I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveriscono come agenti delle potenze divine e membri esemplari della razza draconica, e spesso li cercano per consigli o aiuto.
 
-Drago di Ottone Antico
+### Drago di Ottone Antico
 
 | **Taglia/Tipo** | Mastodontica drago, buono |
 | --- | --- |
@@ -4431,7 +4431,7 @@ Organizzazione: Solitario
 
 - Scrutare
 
-Drago d'Ottone Adulto
+### Drago d'Ottone Adulto
 
 | **Taglia/Tipo** | Enorme drago, buono |
 | --- | --- |
@@ -4500,7 +4500,7 @@ Organizzazione: Solitario
 
 - Scrutare
 
-Drago d'Ottone Giovane
+### Drago d'Ottone Giovane
 
 | **Taglia/Tipo** | Grande drago, buono |
 | --- | --- |
@@ -4545,7 +4545,7 @@ Organizzazione: Solitario
 
 - Scrutare
 
-Drago di Ottone Cucciolo
+### Drago di Ottone Cucciolo
 
 | **Taglia/Tipo** | Media drago, buono |
 | --- | --- |
@@ -4579,7 +4579,7 @@ Organizzazione: Solitario
 
 Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combattere. I draghi d'ottone fanno la tana vicino agli insediamenti umanoidi, dove possono udire le notizie e i pettegolezzi più recenti.
 
-Drago di Rame Antico
+### Drago di Rame Antico
 
 | **Taglia/Tipo** | Mastodontica drago, buono |
 | --- | --- |
@@ -4652,7 +4652,7 @@ Organizzazione: Solitario
 
 - Scudo di Fuoco
 
-Drago di Rame Adulto
+### Drago di Rame Adulto
 
 | **Taglia/Tipo** | Enorme drago, buono |
 | --- | --- |
@@ -4721,7 +4721,7 @@ Organizzazione: Solitario
 
 - Scudo di Fuoco
 
-Drago di Rame Giovane
+### Drago di Rame Giovane
 
 | **Taglia/Tipo** | Grande drago, buono |
 | --- | --- |
@@ -4768,7 +4768,7 @@ Organizzazione: Solitario
 
 - Scudo di Fuoco
 
-Drago di Rame Cucciolo
+### Drago di Rame Cucciolo
 
 | **Taglia/Tipo** | Media drago, buono |
 | --- | --- |
@@ -4804,7 +4804,7 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 
 > Il gran dragone, il serpente antico, che è chiamato diavolo e Satana, il seduttore di tutto il mondo, fu gettato giù; fu gettato sulla terra, e con lui furono gettati anche i suoi angeli." Giovanni, Apocalisse 12:9
 
-Tàhil
+### Tàhil
 
 | **Taglia/Tipo** | Colossale drago, Patrono |
 | --- | --- |
@@ -4877,7 +4877,7 @@ Organizzazione: Unico
 
 Tàhil è il Patrono dei Draghi incarnato. Nulla resiste alla sua furia, follia, rabbia e distruzione. Tàhil è una mastodontica creatura con 7 teste di drago, ognuna colorata in modo diverso, ognuna a rappresentare un colore di un Drago. Vedi capitolo sulla Cosmologia per i dettagli della sua storia.
 
-Drider
+### Drider
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -4931,7 +4931,7 @@ Organizzazione: Solitario, coppia o gruppo (3-8)
 
 I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di un drider femmina è lucente ed aggraziata, spesso simile al corpo di una vedova nera, mentre il busto superiore di elfo mantiene le sue curve allettanti e il bel viso (con l'eccezione delle venefiche zanne acuminate). La parte inferiore del corpo di un drider maschio è tozza come una tarantola, mentre quella superiore ha un fisico asciutto e supporta un'orrenda faccia più da ragno che da elfo, completa di mandibole zannute.
 
-Driade
+### Driade
 
 | **Taglia/Tipo** | Media fatato, neutrale |
 | --- | --- |
@@ -4984,7 +4984,7 @@ Le driadi sono spiriti della natura che amano i boschi appartati lontani dagli u
 Sono amichevoli con druidi e guardiaboschi non malvagi, dato che riconoscono la loro empatia o il loro rispetto per la natura.
 Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di natura, possono bloccare e sventare le minacce alle loro dimore o trasformare i nemici in alleati.
 
-Elementale dell'Acqua Generico
+### Elementale dell'Acqua Generico
 
 | **Taglia/Tipo** | Elementale |
 | --- | --- |
@@ -5016,7 +5016,7 @@ Elementale dell'Acqua Generico
 | --- |
 | L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2. |
 
-Elementale dell'Aria Generico
+### Elementale dell'Aria Generico
 
 | **Taglia/Tipo** | GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale) |
 | --- | --- |
@@ -5046,7 +5046,7 @@ Elementale dell'Aria Generico
 ***Turbine (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
 
-Elementale del Fuoco Generico
+### Elementale del Fuoco Generico
 
 | **Taglia/Tipo** | GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale) |
 | --- | --- |
@@ -5079,7 +5079,7 @@ Elementale del Fuoco Generico
 
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
-Elementale della Terra Generico
+### Elementale della Terra Generico
 
 | **Taglia/Tipo** | GS/3 (Piccola, Media, Grande, Enorme, Mastodontico, Colossale) |
 | --- | --- |
@@ -5108,7 +5108,7 @@ Elementale della Terra Generico
 
 **Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
-Ettercap
+### Ettercap
 
 | **Taglia/Tipo** | Media mostruosità, malvagio |
 | --- | --- |
@@ -5152,7 +5152,7 @@ Organizzazione: solitario, coppia o nido (3-6 più 2-8 ragni giganti)
 
 Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemico di estrarre le armi. Un ettercap attacca con artigli e morsi velenosi. In genere evita la mischia con gli avversari che possono ancora muoversi e fugge se si liberano.
 
-Ettin
+### Ettin
 
 | **Taglia/Tipo** | Grande gigante, malvagio |
 | --- | --- |
@@ -5196,7 +5196,7 @@ Organizzazione: Solitario, coppia, gruppo (3-6), truppa (1-2 più 1-2 Orsi Bruni
 
 In genere formano delle coppie riproduttive per allevare la prole solo per brevi periodi prima di riprendere ognuno la propria strada. I giovani ettin maturano rapidamente, raggiungendo la taglia adulta in un anno, potendo così provvedere a se stessi.
 
-Fantasma
+### Fantasma
 
 | **Taglia/Tipo** | Media non morto, qualsiasi tratto |
 | --- | --- |
@@ -5245,7 +5245,7 @@ Quando viene creato un fantasma, questi ottiene le copie degli oggetti a cui in 
 
 Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche del fantasma. Se un'altra creatura impugna l'originale, la copia incorporea svanisce. Questa perdita fa inevitabilmente infuriare il fantasma, che non si ferma davanti a nulla per riportare l'oggetto nel posto in cui giaceva originariamente (e riguadagnarne l'utilizzo).
 
-Fauci Gorgoglianti
+### Fauci Gorgoglianti
 
 | **Taglia/Tipo** | Media aberrazione, neutrale |
 | --- | --- |
@@ -5281,7 +5281,7 @@ Organizzazione: Solitario
 
 Disgustosa, nauseante e affamata: queste sono le uniche parole che descrivono in modo appropriato la fauce gorgogliante. Bestie ripugnanti che si nascondono nelle grotte, nelle fogne e negli incubi, le fauci non hanno altro senso sociale, ecologico o religioso diverso dalla loro capacità di far impazzire coloro che le ascoltano. Alcuni studiosi credono che le fauci gorgoglianti siano una variante più piccola del molto più pericoloso shoggoth, mentre altri teorizzano che sia una punizione di Orudjs inflitta a coloro che l'hanno offesa.
 
-Fenice
+### Fenice
 
 | **Taglia/Tipo** | Mastodontica celestiale, Coraggioso, Protettivo, Buono |
 | --- | --- |
@@ -5340,7 +5340,7 @@ La leggenda narra che le Fenici siano gli uccelli da compagnia di Ljust, sicuram
 
 La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o un Allieva della Luce compia l'estremo sacrificio.
 
-Fioritura Ossea
+### Fioritura Ossea
 
 | **Taglia/Tipo** | Grande non morto, non allineato |
 | --- | --- |
@@ -5383,7 +5383,7 @@ Organizzazione: Solitario, gruppi (2d12)
 
 Le Fioriture Ossee sono creature morte nel fitto della foresta per i più disparati motivi. La Natura non volendo sprecare nulla anima la creatura per farne suo difensore. A prima vista una Fioritura Ossea non è diverso da un tronco coperto di licheni colorati, piccoli funghi e manto erboso tanto è uno con la natura.
 
-Fungo Stridente
+### Fungo Stridente
 
 | **Taglia/Tipo** | Media pianta, disallineato |
 | --- | --- |
@@ -5411,7 +5411,7 @@ Un fungo stridente è alto circa 50 cm, dall'ampio cappello marrone. Una volta e
 
 Si racconta di cuochi delle profondità specializzati nel cuocere questi funghi in pietanze sopraffine. I più bravi riescono anche a non fare sgonfiare il cappello.
 
-Fungo Violetto
+### Fungo Violetto
 
 | **Taglia/Tipo** | Media pianta, disallineato |
 | --- | --- |
@@ -5449,7 +5449,7 @@ Alcune specie di Boleto Stridente hanno un aspetto piuttosto simile a quello dei
 
 Un fungo viola è alto 1,2 metri e pesa 25 kg.
 
-Fuoco Fatuo
+### Fuoco Fatuo
 
 | **Taglia/Tipo** | Minuscola non morto, malvagio |
 | --- | --- |
@@ -5498,7 +5498,7 @@ Nonostante siano denigrati dalla maggioranza delle creature senzienti, i fuochi 
 
 I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano di morte violenta; i fuochi fatui più antichi possono essere ottimi depositari di conoscenze del passato, sebbene convincere una di queste crudeli creature a cooperare possa essere piuttosto complicato.
 
-Fustigatore
+### Fustigatore
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -5549,7 +5549,7 @@ Il fustigatore è un cacciatore da agguato. Capace di modificare la colorazione 
 Nonostante la sua forma aliena e mostruosa, il fustigatore è uno degli abitanti più intelligenti del sottosuolo. Non formano vaste società (anche se spesso si trovano a vivere insieme ad altre creature del sottosuolo come i Divora Cervelli, con cui a volte si alleano), ma spesso si aggregano in piccoli gruppi. Particolarmente interessato alla filosofia della vita e della morte, e agli aspetti più sottili delle religioni più sinistre e crudeli del mondo, un fustigatore può parlare o discutere per ore con quelli che inizialmente aveva semplicemente cercato di mangiare. Alcune storie parlano di oratori e filosofi particolarmente dotati che sono stati tenuti per giorni o anche anni come animali domestici o compagni di conversazione da gruppi di fustigatori; alla fine, però, se non riescono a scappare, l'appetito dei fustigatori finisce per avere la meglio sulla loro curiosa intelligenza, specialmente nei casi in cui questi animali da compagnia superano costantemente l'arguzia e la pazienza dei loro guardiani.
 Un fustigatore è alto 2,7 metri e pesa 1.100 kg.
 
-Gablin
+### Gablin
 
 | **Taglia/Tipo** | Piccolo immondo, malvagio |
 | --- | --- |
@@ -5587,7 +5587,7 @@ Solitamente la gestazione dura solo 3 settimane durante le quali le donne vengon
 Questo metodo di procreazione unita alla loro voracia famelica di sangue e carne ne fanno tra le creature più odiate e temute.
 Anche se singolarmente non sono particolarmente temibili i Gablin si muovono sempre in gruppo e se questo supera le due dozzine allora c'è quasi sempre un Gablin Incantatore o addirittura un Campione Gablin a guidarli.
 
-Campione Gablin
+### Campione Gablin
 
 | **Taglia/Tipo** | Media immondo, malvagio |
 | --- | --- |
@@ -5616,7 +5616,7 @@ Organizzazione: a capo di un gruppo di Gablin
 I Campioni Gablin vengono generati spontaneamente quando il numero di Gablin presente raggiunge le 20 unità. Enormemente più grossi, più forti ed intelligenti di un Gablin i Campioni sono i leader del gruppo, coloro che pianificano le battaglie e gli scontri.
 Non hanno remore a mandare al massacro i Gablin o ad uccidere qualsiasi cosa che respiri. Pervasi dello spirito di Cattalm il loro scopo è sempre e solo distruggere ed uccidere.
 
-Paladino Gablin
+### Paladino Gablin
 
 | **Taglia/Tipo** | Grande immondo, malvagio |
 | --- | --- |
@@ -5650,7 +5650,7 @@ Organizzazione: a capo di un armata di Gablin
 
 I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti di Cattalm. Evocati da più potenti seguaci di Cattalm possono da soli guidare centinaia di Gablin e grazia al loro acume preparare accurati piani e portare scompiglio e distruzione in intere regioni.
 
-Gargoyle
+### Gargoyle
 
 | **Taglia/Tipo** | Media elementale, malvagio |
 | --- | --- |
@@ -5699,7 +5699,7 @@ più a lungo una tribù di gargoyle dimora in un'area di edifici o rovine, più 
 
 Un'insolita variante del gargoyle non abita tra edifici e rovine ma sotto le onde del mare. Queste creature sono note come kapoacinth; hanno le stesse statistiche base dei gargoyle normali, eccetto che hanno il sottotipo acquatico e le loro ali gli garantiscono una velocità di nuotare di 12 metri (ma sono inutili per volare). I kapoacinth abitano nelle regioni costiere poco profonde dove possono strisciare fuori dalla spuma per dare la caccia ai residenti della zona. È più probabile che formino stormi, poiché i kapoacinth preferiscono la vita di gruppo a quella solitaria.
 
-G.E.C.
+### G.E.C.
 
 | **Taglia/Tipo** | Grande aberrazione, malvagio |
 | --- | --- |
@@ -5741,7 +5741,7 @@ Il Grande Essere Chitinoso, o G.E.C, è un insetto dal vago aspetto umanoide di 
 
 Probabilmente frutto di una qualche incantesimo di trasformazione andato a male i G.E.C. sono padroni del sottosuolo. Creature dotate di una reale intelligenza amano la carne di elfo e combattono in maniera tattica ed accorta.
 
-Djinni
+### Djinni
 
 | **Taglia/Tipo** | Grande elementale, buono |
 | --- | --- |
@@ -5791,7 +5791,7 @@ I Djinn disdegnano il Combattimento fisico, preferendo usare i loro poteri Magic
 
 Verso gli altri Geni, i Djinn vanno d'accordo con gli Janni e i Marid. Sono frequentemente in contrasto con gli Shaitan, e sono nemici giurati degli Efreeti, disprezzando questi Geni feroci più di qualsiasi altra delle Razze di Geni. Il conflitto tra gli Efreeti e i Djinn è così leggendario che molti incantatori tentano (con vari gradi di successo) di assicurarsi il servizio di un Djinni promettendogli aiuto nella causa contro gli odiati nemici.
 
-Efreeti
+### Efreeti
 
 | **Taglia/Tipo** | Grande elementale, malvagio |
 | --- | --- |
@@ -5839,7 +5839,7 @@ Gli Efreet (singolare Efreeti) sono Geni provenienti dal Piano del Fuoco. Sono a
 
 Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni e li attaccano a vista, non sopportano i Marid e vedono i Janni come deboli e fragili. Gli Efreet spesso cooperano bene con gli Shaitan, eppure anche queste alleanze sono temporanee.
 
-Ghast
+### Ghast
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -5880,7 +5880,7 @@ Organizzazione: Solitario, gruppo (2-4) o branco (7-12)
 
 I ghast sono Ghoul con un legame più profondo con il Vuoto. La paralisi di un ghast ha effetto anche sugli Elfi. I ghast si aggirano in branchi o comandano gruppi di Ghoul comuni. Il fetore di morte e putrefazione che circonda queste creature è travolgente.
 
-Ghoul
+### Ghoul
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -5917,7 +5917,7 @@ I ghoul si appostano ai margini della civilizzazione (dentro o nei pressi dei ci
 
 Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano di città di ghoul nelle profondità del sottosuolo comandate da sacerdoti che adorano antiche divinità crudeli o strani signori dei demoni della fame. Questi ghoul *civilizzati* non sono meno orribili nelle loro abitudini alimentari, e in effetti il loro concetto di tavola ben imbandita per banchetti è forse anche più orrendo dell'idea di un pasto fresco prelevato da una bara.
 
-Ghoul, Nero
+### Ghoul, Nero
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -5957,7 +5957,7 @@ Organizzazione: Gruppo (4-8) o branco (14-24)
 
 Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a capo di un gruppo almeno un ghoul putrescente di circa 18 ghoul.
 
-Ghoul, Madre
+### Ghoul, Madre
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -5991,7 +5991,7 @@ Organizzazione: Clan (7-12+)
 
 La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere anche diverse decine di membri. Rispettata e temuta è solitamente tra i ghoul evoluti più intelligenti e molto apprezzata per la sua capacità di poter trasformare in ghoul i viventi. La loro tattica prevede di ferire e non uccidere diverse persone così che tornate a casa e poi trasformati possano attaccare ed uccidere tutto il villaggio.
 
-Ghoul, putrescente
+### Ghoul, putrescente
 
 | **Taglia/Tipo** | Grande non morto, malvagio |
 | --- | --- |
@@ -6031,7 +6031,7 @@ Organizzazione: Gruppo (4-8) o branco (10-18)
 
 I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto continuo con l'energia negativa ed il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
 
-Gigante delle Colline
+### Gigante delle Colline
 
 | **Taglia/Tipo** | Enorme gigante, malvagio |
 | --- | --- |
@@ -6070,7 +6070,7 @@ I giganti di Collina sono per natura nomadi e preferiscono viaggiare da un luogo
 
 I giganti di Collina solitari e non malvagi sono molto rari, ma li si può trovare qualche volta in altre società umanoidi, anche se non sono quasi mai accettati nelle città principali o nei centri popolati. Si trovano a proprio agio come lavoratori e soldati nelle remote città di frontiera, e spesso fungono da rudimentali diplomatici per negoziare con le bande di giganti di Collina razziatori. Sfortunatamente, i giganti di Collina che abbandonano il proprio stile di vita razziale per la civiltà vengono derisi e spesso uccisi a vista dai loro fratelli nomadi. Tuttavia, questi giganti di Collina *civilizzati* possono trovare il proprio posto nella società e molti sono riusciti a vivere un'esistenza pacifica e tranquilla.
 
-Gigante del Fuoco
+### Gigante del Fuoco
 
 | **Taglia/Tipo** | Enorme gigante, malvagio |
 | --- | --- |
@@ -6115,7 +6115,7 @@ I giganti del fuoco indossano abiti di tessuti robusti o di pelle di color aranc
 
 I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si possono trovare nei deserti, nei vulcani, nelle fonti termali e nelle profondità della terra nei pressi di camini lavici. Vivono in castelli, insediamenti fortificati o grandi caverne, e l'architettura di questi luoghi riflette il loro stile di vita rigido e militaristico, con gli ufficiali che abitano in alloggi migliori di quelli dei loro sottoposti.
 
-Gigante del Gelo
+### Gigante del Gelo
 
 | **Taglia/Tipo** | Enorme gigante, malvagio |
 | --- | --- |
@@ -6159,7 +6159,7 @@ I giganti del gelo sopravvivono cacciando e razziando da soli, dato che vivono i
 
 I giganti del gelo amano prendere prigionieri e li usano sia come schiavi che come materia prima. Di solito ogni gruppo di giganti del gelo tiene 1-2 schiavi umanoidi incatenati ad un addestratore di schiavi: il più meschino e crudele del gruppo dopo lo jarl. Hanno anche una certa passione per gli animali domestici mostruosi: Draghi Bianchi e Lupi Invernali sono scelte popolari, ma nella tana di un gigante del gelo si possono trovare anche Remorhaz e Yeti.
 
-Gigante delle Nuvole
+### Gigante delle Nuvole
 
 | **Taglia/Tipo** | Enorme gigante, buono (50\%) o malvagio (50\%) |
 | --- | --- |
@@ -6211,7 +6211,7 @@ I giganti delle nuvole possono avere Tratti insolitamente vari; circa metà sono
 
 Sono molte le leggende che parlano di magiche città dei giganti delle nuvole situate tra le nuvole stesse, che fluttuano sui venti e circumnavigano il mondo. Mentre i giganti delle nuvole riconoscono che si tratta per lo più di fantasie, alcuni sostengono di averle viste e hanno dedicato la loro intera esistenza a ritrovarle.
 
-Gigante di Pietra
+### Gigante di Pietra
 
 | **Taglia/Tipo** | Enorme gigante, neutrale |
 | --- | --- |
@@ -6261,7 +6261,7 @@ I giganti di Pietra preferiscono vivere in enormi caverne sulle cime rocciose. R
 
 I giganti di Pietra più vecchi tendono ad allontanarsi dalla tribù per molto tempo, per vivere in solitudine da qualche parte o tentando di inserirsi in altre civiltà umanoidi. Dopo decadi di esilio auto imposto, chi fa ritorno è noto come Gigante delle Rocce Anziano.
 
-Gigante delle Tempeste
+### Gigante delle Tempeste
 
 | **Taglia/Tipo** | Enorme gigante, buono |
 | --- | --- |
@@ -6317,7 +6317,7 @@ Come suggerisce il loro nome, sono inclini a violenti sbalzi di umore. I giganti
 
 I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti da mura e amano coltivare la terra. Possiedono enormi giardini ben curati e gestiscono centinaia di acri di coltivazioni per gruppo. Spesso impiegano altri umanoidi, come Elfi o Umani, come supporto per condurre le loro immense fattorie. Una enclave di giganti delle tempeste spesso si assume la responsabilità della sicurezza di un'intera isola o linea di costa.
 
-Gnoll
+### Gnoll
 
 | **Taglia/Tipo** | Media umanoide (gnoll), malvagio |
 | --- | --- |
@@ -6365,7 +6365,7 @@ Durante il combattimento, gli gnoll usano tattiche di branco e strategie individ
 
 I capi gnoll hanno competenze da guardiaboschi, e alcuni sono devoti a famelici Patroni. Difficilmente padroneggiano la magia in modo efficace.
 
-Gnomo delle Profondità
+### Gnomo delle Profondità
 
 | **Taglia/Tipo** | Piccola umanoide (gnomo), buono |
 | --- | --- |
@@ -6407,7 +6407,7 @@ Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e 
 
 I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi.
 
-Globulo
+### Globulo
 
 | **Taglia/Tipo** | Piccola aberrazione, malvagio |
 | --- | --- |
@@ -6449,7 +6449,7 @@ Organizzazione: Solitario, gruppi 2d4
 I Globuli sono aberrazioni magiche provenienti da qualche portale aperto verso l'Oltre. Creature di freddo e vuoto sembrano delle piccole stelle che anelano solo di risucchiare la vita della creature incontrate.
 Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è mortalmente affaticato. Una volta ucciso di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
 
-Goblin
+### Goblin
 
 | **Taglia/Tipo** | Piccola umanoide (goblinoide), malvagio |
 | --- | --- |
@@ -6484,7 +6484,7 @@ I goblin sono molto superstiziosi, e vedono la magia con un misto di timore reve
 
 I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin non rinuncia a mangiare nulla tranne forse l'insalata..
 
-Golem di Argilla
+### Golem di Argilla
 
 | **Taglia/Tipo** | Grande costrutto, disallineato |
 | --- | --- |
@@ -6537,7 +6537,7 @@ I golem di argilla non indossano abiti, eccezion fatta per un indumento di cuoio
 **Costruzione**
 Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla del peso minimo di 500 chili, trattato con polveri e oli rari per il valore di 1,500 mo.
 
-Golem di Carne
+### Golem di Carne
 
 | **Taglia/Tipo** | Media costrutto, neutrale |
 | --- | --- |
@@ -6589,7 +6589,7 @@ Un golem di carne non parla, anche se può emettere una specie di ringhio rauco.
 
 Anche se molti golem di carne sono privi di ragione, si narra di golem eccezionali che in qualche modo hanno mantenuto i ricordi della vita precedente. La testa (e quindi il cervello) di questi golem di carne deve essere la giusta combinazione di freschezza e (nella vita precedente) decisione, ma di assoluta importanza sembrano essere anche la fortuna e il caso affinché durante la loro creazione si conservi l'intelletto. Certamente quelli che costruiscono golem di carne preferiscono avere schiavi privi di intelletto piuttosto che dotati di una propria volontà, di conseguenza i golem di carne intelligenti sono rari.
 
-Golem di Ferro
+### Golem di Ferro
 
 | **Taglia/Tipo** | Grande costrutto, disallineato |
 | --- | --- |
@@ -6648,7 +6648,7 @@ Anche se la pratica della costruzione di golem di ferro è gradualmente caduta i
 **Costruzione**
 Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture rare del valore minimo di 10000 mo.
 
-Golem di Pietra
+### Golem di Pietra
 
 | **Taglia/Tipo** | Grande costrutto, disallineato |
 | --- | --- |
@@ -6699,7 +6699,7 @@ Esistono numerose varianti dei Golem di Pietra, a seconda del materiali di cui s
 **Costruzione**
 Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura, come il granito, del peso di almeno 1.500 kg. La pietra deve essere di qualità eccezionale, e costare 5000 mo.
 
-Gorgone
+### Gorgone
 
 | **Taglia/Tipo** | Grande mostruosità, disallineato |
 | --- | --- |
@@ -6740,7 +6740,7 @@ Le gorgoni ricavano il loro nutrimento consumando minerali, in particolare la pi
 
 La loro carne è dura e muscolosa (una volta che viene rimossa l'armatura), e per coloro che la assaggiano è abbastanza nutriente. Molte tribù di giganti della pietra credono che mangiare la carne di gorgone aumenti la loro armatura naturale. Le corna di gorgone polverizzate valgono 250 mo come componente materiale alternativo per gli oggetti magici ed incantesimi che agiscono sulla Forza o Pietra.
 
-Grick
+### Grick
 
 | **Taglia/Tipo** | Media mostruosità, neutrale |
 | --- | --- |
@@ -6779,7 +6779,7 @@ I grick sono predatori capaci con una pelle resistente alle armi, rendendoli par
 
 I grick si mimetizzano grazie al loro colore scuro e alla capacità di scalare i muri, rimanendo nascosti fino al momento di attaccare. Quando il cibo scarseggia, possono dirigersi verso la superficie in cerca di prede, ma preferiscono le tenebre e la sicurezza di un tetto sopra la testa, evitando il cielo aperto e cercando rifugio sotto alberi, nuvole basse o edifici.
 
-Grifone
+### Grifone
 
 | **Taglia/Tipo** | Grande mostruosità, disallineato |
 | --- | --- |
@@ -6823,7 +6823,7 @@ Prima di poter cavalcare un grifone in combattimento, la creatura deve fare prat
 
 I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come carico medio e 70 come carico pesante. È necessaria una sella esotica per cavalcarli.
 
-Grimlock
+### Grimlock
 
 | **Taglia/Tipo** | Media umanoide (grimlock), malvagio |
 | --- | --- |
@@ -6858,7 +6858,7 @@ Grimlock
 
 I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle terre oscure di profondità, dove si organizzano in piccoli gruppi tribali.
 
-Guardiano Protettore
+### Guardiano Protettore
 
 | **Taglia/Tipo** | Grande costrutto, disallineato |
 | --- | --- |
@@ -6888,7 +6888,7 @@ Guardiano Protettore
 
 **Reazione: *Scudo.*** Quando una creatura attacca chi indossa l'amuleto del guardiano, il guardiano conferisce un bonus di +2 alla sua Difesa, se entro 1 metro dal suo controllore.
 
-Hobgoblin
+### Hobgoblin
 
 | **Taglia/Tipo** | Media umanoide (goblinoide), malvagio |
 | --- | --- |
@@ -6926,7 +6926,7 @@ Molte tribù Hobgoblin combinano l'amore per la guerra con l'intelletto acuto. S
 
 Gli Hobgoblin disprezzano la magia e diffidano dei maghi. I loro sciamani, temuti e rispettati, vivono ai margini del covo della tribù. Gli Hobgoblin sono alti circa 1.7 metri e pesano 80 kg.
 
-Idra
+### Idra
 
 | **Taglia/Tipo** | Enorme mostruosità, disallineato |
 | --- | --- |
@@ -6968,7 +6968,7 @@ Organizzazione: Solitario
 
 L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 
-Ippogrifo
+### Ippogrifo
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -7011,7 +7011,7 @@ Le comunità di allevatori offrono spesso ricompense per catturarli poiché poss
 
 Gli ippogrifi sono ovipari e il loro nido contiene solitamente un solo uovo, che vale 200 mo. Un giovane ippogrifo in salute vale 500 mo, mentre un ippogrifo completamente addestrato come cavalcatura può valere fino a 5000 mo. Possono trasportare 90 kg come carico leggero, 180 kg come carico medio e 270 kg come carico pesante, e necessitano di una sella esotica per essere cavalcati.
 
-Kraken
+### Kraken
 
 | **Taglia/Tipo** | Mastodontica mostruosità (titano), malvagio |
 | --- | --- |
@@ -7069,7 +7069,7 @@ Molte leggende sono sorte in merito al fatto che comprenda il linguaggio druidic
 
 Un kraken è lungo quasi 30 metri e pesa 20000 kg.
 
-Lamia
+### Lamia
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -7118,7 +7118,7 @@ Queste creature sono attratte da torrioni in rovina, città abbandonate e monume
 
 Le lamie venerano le femmine anziane del loro gruppo, considerandole capi, madri e sciamane, e si legano a loro con fanatica reverenza. Anche se rifuggono la maggior parte delle religioni, vedendole come la fonte della maledizione che le affligge, le lamie anziane affermano di udire i sussurri del vento del deserto e di conoscere i capricci delle stelle, guidando così il loro popolo.
 
-Lich
+### Lich
 
 | **Taglia/Tipo** | Media non morto, tratti malvagi |
 | --- | --- |
@@ -7197,7 +7197,7 @@ Poche creature sono più temute dei lich. Apice delle arti Necromantiche, il lic
 
 Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un dente di Roc.
 
-Lucertoloide
+### Lucertoloide
 
 | **Taglia/Tipo** | Media umanoide (lucertoloide), neutrale |
 | --- | --- |
@@ -7245,7 +7245,7 @@ Anche se generalmente sono neutrali, il comportamento scostante dei lucertoloidi
 
 I lucertoloidi presentati qui vivono in ambienti paludosi. Le tribù lucertoloidi possono vivere altrettanto bene in altri ambienti, ma come velocità ottengono Scalare 5 metri al posto di Nuotare.
 
-Maledetto immortale
+### Maledetto immortale
 
 | **Taglia/Tipo** | Media aberrazione (umano), tendenzialmente folle |
 | --- | --- |
@@ -7280,7 +7280,7 @@ Organizzazione: Solitario
 Il Maledetto immortale è una persona maledetta spesso da un Patrono o da una potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricordano chi erano ed allora proseguono nella ricerca di chi li ha maledetti.
 Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando che l'avversario sia in grado di ucciderlo una volta per tutte.
 
-Monete affamate
+### Monete affamate
 - **Taglia/Tipo**: Minuscola aberrazione, fortemente malvagia
 - **Caratt.**: For -3 Des 1 Cos 3 Int -2 Sag 0 Car -1
 - **Punti Ferita**: 24,  **Difesa:** 13,  **Iniziativa:** +1
@@ -7315,7 +7315,7 @@ La Moneta affamata non è distinguibile da una normale moneta finché non osserv
 Voraci ed affamate amano nascondersi nelle pile di monete di cui si nutrono per assorbire i metalli che gli conferiscono poi il *guscio* e l'aspetto di ordinarie monete. Attaccano sempre in gruppo, solitamente aspettando che qualcuno le tenga in mano per contarle. Ogni 10 Monete affamate, se *svuotate e fuse*, è possibile ricavare abbastanza metallo per una vera moneta.
 Monete affamate di Oro o Platino sono solitamente più robuste ed ancora più affamate. Dice la leggenda che una Moneta affamata non attaccherà un Devoto di Rezh.
 
-Cinghiale Mannaro
+### Cinghiale Mannaro
 
 | **Taglia/Tipo** | Media umanoide , mutaforma, malvagio |
 | --- | --- |
@@ -7353,7 +7353,7 @@ Organizzazione: Solitario, coppia, famiglia (3-8) o truppa (3-8 più 1-4 Cinghia
 
 Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi all'insù, pelo ispido e incisivi prominenti. Hanno capelli rossi, castani o neri ma alcuni sono anche biondi, canuti o calvi. Hanno di norma peluria sul labbro superiore e i maschi di solito non riescono a far crescere la barba. Poiché sono testardi e aggressivi hanno piccole comunità di loro simili e non si mischiano ai non licantropi: di solito vivono in piccole fattorie dall'aspetto assolutamente normale. Tendono ad avere grandi famiglie e molti figli.
 
-Lupo Mannaro
+### Lupo Mannaro
 
 | **Taglia/Tipo** | Media umanoide (umano, mutaforma), malvagio |
 | --- | --- |
@@ -7394,7 +7394,7 @@ Organizzazione: Solitario, coppia o branco (3-6)
 
 Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni tendono ad avere un aspetto ferino e capelli ribelli. Sopracciglia che crescono unendosi, dito indice più lungo del medio e strane voglie sul palmo della mano sono tutti segni comunemente accettati che una persona sia in realtà un lupo mannaro. Naturalmente, questi segni rivelatori non sono sempre accurati, perché questi tratti fisici esistono anche nelle persone normali, ma nelle zone dove i lupi mannari sono un problema comune, questi tratti possono essere considerati schiaccianti a prescindere.
 
-Orso Mannaro
+### Orso Mannaro
 
 | **Taglia/Tipo** | Media umanoide (umano, mutaforma), buono |
 | --- | --- |
@@ -7435,7 +7435,7 @@ Organizzazione: Solitario, coppia, famiglia (3-6) o truppa (3-6 più 1-4 orsi Ne
 
 Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spalle larghe, tratti aspri e occhi scuri. Hanno capelli rossi, castani o neri e sembrano abituati a una vita di duro lavoro. Anche se i più benigni fra i licantropi, sono evitati dalla maggior parte delle persone normali, che temono la loro trasformazione animalesca. Per la maggior parte vivono in zone boschive isolate o in piccole unità familiari della loro stessa specie. Evitano di affrontare gli stranieri, ma non esitano se devono scacciare umanoidi malvagi dai loro territori.
 
-Ratto Mannaro
+### Ratto Mannaro
 
 | **Taglia/Tipo** | Media umanoide (umano, mutaforma), malvagio |
 | --- | --- |
@@ -7477,7 +7477,7 @@ Organizzazione: Solitario, coppia, branco (5-10) o gilda (11-30 più 5-12 Ratti 
 
 I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e vispi, e hanno movimenti nervosi. I maschi spesso hanno sottili baffi striminziti.
 
-Tigre Mannara
+### Tigre Mannara
 
 | **Taglia/Tipo** | Media umanoide (umano, mutaforma), neutrale |
 | --- | --- |
@@ -7528,7 +7528,7 @@ Organizzazione: Solitario o coppia
 
 Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sporgenti e capelli castani o rossi, oppure bianchi, neri o grigio-blu. I loro movimenti sono attenti e aggraziati, e chi li guarda potrebbe scambiarli per un ottimo tagliaborse, un danzatore aggraziato o un'abile cortigiana.
 
-Manticora
+### Manticora
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -7571,7 +7571,7 @@ Le manticore mangiano qualsiasi tipo di carne, anche quella delle carogne, ma pr
 
 Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annoverate tra le specie naturali. Curiosamente, le manticore sembrano stranamente feconde e possono incrociarsi con numerose altre specie dalla forma simile, inclusi Leoni, Tigri, Lamie, Sfingi e Chimere.
 
-Manto Assassino
+### Manto Assassino
 
 | **Taglia/Tipo** | Grande aberrazione, caotico |
 | --- | --- |
@@ -7624,7 +7624,7 @@ Simili a mante volanti orribilmente malvagie, i manti assassini sono creature mi
 
 Le loro motivazioni sono misteriose e confuse, e diffidano perfino dei loro simili. La strana forma permette loro di essere scambiati per mantelli, arazzi o altri oggetti comuni, e alcune storie narrano di manti assassini che si alleano con altre creature, facendosi trasportare sulla loro schiena e contribuendo alla protezione dei loro alleati per ragioni imperscrutabili.
 
-Mantoscuro
+### Mantoscuro
 
 | **Taglia/Tipo** | Piccola mostruosità, disallineato |
 | --- | --- |
@@ -7667,7 +7667,7 @@ I mantoscuro preferiscono vivere e cacciare nelle caverne e nei cunicoli più vi
 
 Mantooscuro e Manto Assassino per quanto simili non appartengono alla stessa specie ma leggende narrano di una origine magica comune dovuta, come spesso capita, alla volontà di due maghi di trasformasi per primi in cappe... L'odio tra le due mostruosità è totale e prevarica ogni altro avversario presente.
 
-Medusa
+### Medusa
 
 | **Taglia/Tipo** | Media mostruosità, malvagio |
 | --- | --- |
@@ -7716,7 +7716,7 @@ Avvezze a nascondersi, le meduse cittadine generalmente sono ladre, mentre quell
 
 Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschio umanoide come compagno, generalmente grazie all'aiuto di una Elisir d'Amore o qualche magia simile, ed hanno sempre cura di non pietrificare il loro prigioniero, a meno che non si siano annoiate della sua compagnia.
 
-Mefito di Ghiaccio
+### Mefito di Ghiaccio
 
 | **Taglia/Tipo** | Piccola elementale, malvagio |
 | --- | --- |
@@ -7757,7 +7757,7 @@ I mephit sono i servitori di potenti creature elementali. I siti e le locazioni 
 
 I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit sono distanti e crudeli.
 
-Mefito di Magma
+### Mefito di Magma
 
 | **Taglia/Tipo** | Piccola elementale, malvagio |
 | --- | --- |
@@ -7797,7 +7797,7 @@ I mephit sono i servitori di potenti creature elementali. I siti e le locazioni 
 
 I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit sono stupidi bruti.
 
-Mefito di Polvere
+### Mefito di Polvere
 
 | **Taglia/Tipo** | Piccola elementale, malvagio |
 | --- | --- |
@@ -7835,7 +7835,7 @@ I mephit sono i servitori di potenti creature elementali. I siti e le locazioni 
 
 I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit sono irritanti ed insistenti.
 
-Mefito di Vapore
+### Mefito di Vapore
 
 | **Taglia/Tipo** | Piccola elementale, malvagio |
 | --- | --- |
@@ -7872,7 +7872,7 @@ I mephit sono i servitori di potenti creature elementali. I siti e le locazioni 
 
 I mephit del vapore comunemente si trovano sul Piano del Fuoco. Questi mephit sono insolenti e sprezzanti.
 
-Megera Marina
+### Megera Marina
 
 | **Taglia/Tipo** | Media fatato, malvagio |
 | --- | --- |
@@ -7914,7 +7914,7 @@ Le megere marine preferiscono vivere vicino alla riva dove i pescherecci e i mer
 
 Le megere marine formano congreghe simili a quelle delle altre megere, ma la loro natura acquatica generalmente le spinge ad astenersi dal formare congreghe miste. Nel caso in cui una Megera Verde abiti lungo la costa (spesso in una palude salmastra o in una palude costiera), una congrega è formata da due megere marine che rispettano la Megera Verde come madre e capo. Molto comunemente, una congrega di megere marine consiste in un gruppo di megere marine particolarmente amiche e vicine.
 
-Megera Notturna
+### Megera Notturna
 
 | **Taglia/Tipo** | Media immondo, malvagio |
 | --- | --- |
@@ -7946,7 +7946,7 @@ A volontà: *Dardo arcano, Individuazione del Magico* 2/giorno ciascuno: *Raggio
 
 ***Mutare Forma.*** La megera può trasformarsi magicamente in una femmina umanoide di taglia Piccola o Media, o tornare alla sua vera forma. Le sue statistiche sono le stesse in qualsiasi forma. Tutto l'equipaggiamento che stava trasportando o indossando non viene trasformato. Alla morte ritorna alla sua vera forma.
 
-Megera Verde
+### Megera Verde
 
 | **Taglia/Tipo** | Media fatato, malvagio |
 | --- | --- |
@@ -7988,7 +7988,7 @@ Organizzazione: Solitario o congrega (3 megere di qualsiasi tipo)
 
 Terrificanti vecchie rugose che frequentano ripugnanti paludi e foreste intricate, le megere verdi nutrono un odio intenso per tutto ciò che è bello e puro. Facendo uso delle loro svariate capacità illusorie, queste vegliarde si dilettano nell'uccidere gli innocenti, nello sconvolgere gli animi nobili e nell'avvilire i cuori puri. Amano utilizzare Camuffare Se Stesso per assumere le forme di giovani e attraenti ragazze così da sedurre e strappare giovani uomini ai loro affetti e parenti, e corrompere nobili e onesti cittadini con ogni sorta di depravazione e scandalo. Alcune megere verdi preferiscono rivelare la loro reale natura ai loro amati in un momento attentamente architettato per spingere l'uomo alla pazzia per l'orrore e la vergogna. Altre prolungano il loro amoreggiamento e fanno di tutto per rovinare completamente la vita degli uomini da loro sedotti prima di mostrare loro la verità. Infine, i più fortunati di questi sventurati finiscono per essere divorati dalla megera verde loro amante: per gli sfortunati, il destino finale può essere molto peggiore, dato che la crudele fantasia della megera verde è immensa. Una tipica megera verde è alta tra 1,5 e 1,8 metri e pesa poco meno di 80 kg.
 
-Ameba Paglierina
+### Ameba Paglierina
 
 | **Taglia/Tipo** | Grande melma, disallineato |
 | --- | --- |
@@ -8033,7 +8033,7 @@ L'Ameba Paglierina sono alte circa 15 centimetri, hanno un diametro che può arr
 
 Anche se la tipica Ameba Paglierina ha le statistiche qui presentate, nelle profondità della terra questi predatori possono raggiungere dimensioni mostruose.
 
-Cubo Gelatinoso
+### Cubo Gelatinoso
 
 | **Taglia/Tipo** | Grande melma, disallineato |
 | --- | --- |
@@ -8085,7 +8085,7 @@ Alcuni saggi credono che queste creature si siano evolute delle Melme Grigie. Al
 
 I cubi gelatinosi in genere hanno uno spigolo di 3 metri e pesano più di 7.500 kg, sebbene alcuni esploratori sotterranei affermino che nel sottosuolo esistano esemplari più grandi. In zone in cui il cibo abbonda, i cubi gelatinosi possono vivere per centinaia, se non migliaia, di anni. Tuttavia, se viene a mancare la materia organica per più di 6 mesi, un cubo gelatinoso comincia a deperire, e le sue pareti iniziano a colare, disfacendosi rapidamente in muco liquido finché l'intero corpo non collassa e scompare completamente.
 
-Melma Grigia
+### Melma Grigia
 
 | **Taglia/Tipo** | Media melma, disallineato |
 | --- | --- |
@@ -8124,7 +8124,7 @@ Strisciando attraverso le fredde paludi e gli acquitrini nebbiosi o, a volte in 
 
 Alcuni saggi credono che le melme grigie siano il risultato di un esperimento alchemico fallito, mentre altri teorizzano che le prime melme grigie siano nate spontaneamente da un pozzo di detriti magici. Naturalmente, queste teorie che non le considerano organismi viventi, bensì il risultato di una sfortunata mistura di fluidi caustici e residui magici, sono derisi da chi vive nelle zone infestate da queste creature, che non hanno una storia di inquinamento magico.
 
-Protoplasma Nero
+### Protoplasma Nero
 
 | **Taglia/Tipo** | Grande melma, disallineato |
 | --- | --- |
@@ -8163,7 +8163,7 @@ Organizzazione: Solitario
 
 I protoplasmi neri sono gli spazzini del mondo sotterraneo, costantemente alla ricerca di cibo. Possono percepire corpi organici o metallici nel raggio di 18 metri e attaccano in modo istintivo tali oggetti o esseri finché non li dissolvono, o finché la melma non viene uccisa. Un protoplasma nero si riproduce staccando un pezzo del proprio corpo e formando un nuovo protoplasma più piccolo che raggiunge l'età adulta nel giro di un mese. Alcune tra le creature più intelligenti nel mondo sotterraneo usano i protoplasmi neri per smaltire in modo naturale la spazzatura, creando cave di pietra atte ad ospitare il protoplasma, per poi gettarvi i rifiuti organici o i nemici.
 
-Mimic
+### Mimic
 
 | **Taglia/Tipo** | Media mostruosità (mutaforma), neutrale |
 | --- | --- |
@@ -8208,7 +8208,7 @@ Anche se i mimic non sono intrinsecamente malvagi, alcuni saggi suggeriscono che
 
 Un tipico mimic ha un volume di 2 metri cubi (1 m per 1 m per 2 m) e pesa circa 450 kg. Leggende e storie parlano di mimic di taglie maggiori, con la capacità di assumere la forma di case, navi o interi complessi sotterranei che guarniscono con dei tesori (sia veri che falsi) per attirare al loro interno il loro ignaro cibo.
 
-Minotauro
+### Minotauro
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -8251,7 +8251,7 @@ I minotauri possono servire mostri o creature malvagie più potenti, cacciando e
 
 I minotauri sono combattenti diretti, usando le loro corna per incornare orribilmente le creature vicine all'inizio del combattimento.
 
-Mummia
+### Mummia
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -8276,7 +8276,7 @@ Mummia
 
 ***Occhiata Temibile.*** La mummia prende a bersaglio una creatura che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio può vedere la mummia deve riuscire un Tiro Salvezza su Volontà DC 15 contro questa magia o restare spaventato fino al termine del prossimo round della mummia. Se il bersaglio fallisce il Tiro Salvezza in maniera critica è anche paralizzato per la stessa durata. Un bersaglio che riesca il Tiro Salvezza è immune all'Occhiata Terribile di tutte le mummie (ma non delle mummie sovrane) per le successive 24 ore.
 
-Mummia Sovrana
+### Mummia Sovrana
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -8354,7 +8354,7 @@ Organizzazione: Solitario, Gruppo (3-6) o Mausoleo (7-12)
 
 Molte culture praticano l'arte sacra della mummificazione, anche se le sinistre tecniche magiche utilizzate per infondere ai cadaveri la vitalità dei non morti sono molto meno comuni. In alcune terre antiche, tali tecniche blasfeme sono state affinate attraverso secoli di cerimonie e innumerevoli morti, risultando in mummie di terribile potere. In rare occasioni, se il defunto era di rango elevato ed eccessiva malvagità, poteva sottoporsi a rituali così elaborati, risorgendo dalla tomba come un temibile signore mummia. Allo stesso modo, un sovrano noto per la sua malizia o morto in un momento di grande rabbia potrebbe presentarsi spontaneamente come un despota vendicativo. Indipendentemente dalle circostanze esatte della sua risurrezione, una mummia sovrana conserva le capacità che aveva in vita, diventando una creatura consumata dal desiderio di ripristinare il suo dominio e governare sia i vivi che i morti.
 
-Naga Guardiano
+### Naga Guardiano
 
 | **Taglia/Tipo** | Grande mostruosità, buono |
 | --- | --- |
@@ -8408,7 +8408,7 @@ Sebbene abbiano un aspetto feroce, con scaglie brillanti, cappucci simili a quel
 
 Mentre alcuni naga guardiani aderiscono a pratiche esotiche di divinità antiche o dimenticate, altri sono semplicemente attratti da siti dalla spiccata bellezza naturale, quali templi su imponenti cascate, pinnacoli naturali e cime di montagne, custodendoli con il massimo della reverenza e del senso del dovere. Spesso questi naga si uniscono a fedi ancora attive, servendo come protettori di santuari o antichi tesori. Una coppia di naga può stabilirsi nei pressi di un sito che ritengono meritevole di protezione, covandovi una nidiata e crescendovi la prole. Quando i giovani raggiungono l'età adulta, possono scegliere di partire per cercare la propria casa o rimanere a proteggere la zona sorvegliata dai loro genitori. A volte, un naga guardiano che custodisce delle rovine od un tempio è solo l'ultimo di una successione di sentinelle che si sono avvicendate nel corso dei secoli. Queste sentinelle spesso prendono lo stesso nome dei loro predecessori sembrando un unico individuo eccezionalmente longevo.
 
-Naga Spirituale
+### Naga Spirituale
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -8444,7 +8444,7 @@ livello 5 (2 slot): *Dominare Persone*
 
 **Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-Nano Oscuro
+### Nano Oscuro
 
 | **Taglia/Tipo** | Media umanoide (nano), malvagio |
 | --- | --- |
@@ -8483,7 +8483,7 @@ Organizzazione: solitario, gruppo (2-5), squadra (6-12 più 3 sergenti di 3° li
 
 Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal pessimo carattere che odiano gli intrusi nei loro reami sotterranei, ma mai più dei Nani. Vivono in comunità nelle profondità del sottosuolo. Hanno pelle grigio opaco, come fosse sporca di polvere o cenere, ma questa tonalità naturale permette di mimetizzarsi meglio nelle zone sotterranee. Sono una Razza di schiavisti, ma mentre costringono i prigionieri non Nani a lavori massacranti, uccidono senza remore i Nani catturati. In combattimento, i Nani Oscuro tirano di balestra, e poi passano al Martello da Guerra qualche round dopo. Se in inferiorità numerica, o se c'è un pericolo (e spazio) adeguato, un Nano Oscuro userà la sua capacità Ingrandire ed attaccherà.
 
-Armatura Animata
+### Armatura Animata
 
 | **Taglia/Tipo** | Media costrutto, disallineato |
 | --- | --- |
@@ -8506,7 +8506,7 @@ Armatura Animata
 
 *Colpisce:* 5 (1d6 + 2) danni contundenti.
 
-Spada Volante
+### Spada Volante
 
 | **Taglia/Tipo** | Piccola costrutto, disallineato |
 | --- | --- |
@@ -8527,7 +8527,7 @@ Spada Volante
 
 *Colpisce:* 5 (1d8 + 1) danni taglienti.
 
-Tappeto del Soffocamento
+### Tappeto del Soffocamento
 
 | **Taglia/Tipo** | Grande costrutto, disallineato |
 | --- | --- |
@@ -8550,7 +8550,7 @@ Tappeto del Soffocamento
 
 *Colpisce:* La creatura è afferrata (DC 14 per fuggire). Fino al termine dell'afferrare, il bersaglio è accecato e rischia di soffocare, ma il tappeto non può soffocare un altro bersaglio. Inoltre, all'inizio di ciascun round del bersaglio, il bersaglio subisce 10 (2d6 + 3) danni contundenti.
 
-Ogre
+### Ogre
 
 | **Taglia/Tipo** | Grande gigante, sadico malvagio |
 | --- | --- |
@@ -8597,7 +8597,7 @@ La grande forza e la mancanza di immaginazione li rendono particolarmente adatti
 
 Un ogre adulto è alto sui 3 metri e pesa circa 325 kg.
 
-Ombra
+### Ombra
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -8640,7 +8640,7 @@ Organizzazione: Solitario, coppia, gruppo (3-6) o sciame (7-12)
 
 La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura verità della luce. L'ombra preferisce infestare le rovine che la civiltà si lascia alle spalle, dove dà la caccia alle creature viventi tanto sciocche da incappare nel suo territorio. L'ombra è un orribile non morto, e come tale non ha scopi o motivazioni apparenti oltre a risucchiare forza vitale e vitalità dagli esseri viventi.
 
-Omuncolo
+### Omuncolo
 
 | **Taglia/Tipo** | Minuscola costrutto, neutrale |
 | --- | --- |
@@ -8662,7 +8662,7 @@ Omuncolo
 
 ***Tramite del Padrone***: usando 3 Azioni l'omuncolo diventa il tramite del lancio di un incantesimo del padrone.
 
-Oni
+### Oni
 
 | **Taglia/Tipo** | Grande gigante, malvagio |
 | --- | --- |
@@ -8701,7 +8701,7 @@ A volontà: *Invisibilità, Oscurità*
 
 ***Arrabbiato:*** l'Oni viene pervaso da una furia assassina, fino alla fine del combattimento i suoi attacchi con Artiglio causano Sanguinamento 2/10.
 
-Orchetto
+### Orchetto
 
 | **Taglia/Tipo** | Media umanoide (orco), caotico |
 | --- | --- |
@@ -8734,7 +8734,7 @@ Gli orchetti sono una razza creata da Cattalm come esperimento con lo scopo di v
 L'esperimento è stato un discreto successo con gli orchetti che hanno fondato regni e conquistato diverse regioni. La spinta caotica con il passare del tempo, l'acculturamento, il diventare stanziali e l'evoluzione della società ha portato gli orchetti sempre più fuori dalle spire di Cattalm, anche se non toglie che molti aspetti barbari sono rimasti nella cultura tradizionale.
 Un orchetti maschio adulto è alto 1,6 metri e pesa circa 60 kg. Caratteristica peculiare è il volto ed il naso in particolar modo da maiale. Gli orchetti e gli umani possono generare figli.
 
-Orco
+### Orco
 
 | **Taglia/Tipo** | Media umanoide (orco), malvagio |
 | --- | --- |
@@ -8773,7 +8773,7 @@ Un orco maschio adulto è alto 2 metri e pesa circa 115 kg. Gli orchi e gli uman
 
 Per quanto la vulgata dica che gli orchi siano stati creati da Cattalm per distruggere e portare caos è anche vero che molto spesso sono vittima di pregiudizi e giudizi sommari. Non tutti gli orchi sono uguali e non solo fisicamente, singoli orchi se non intere tribù vivono in maniera normale, civilizzata la loro esistenza eppure in nessun stato del mondo sono previste pene per chi uccide un orco.
 
-Orrore Arrampicamuri
+### Orrore Arrampicamuri
 
 | **Taglia/Tipo** | Grande mostruosità, disallineato |
 | --- | --- |
@@ -8813,7 +8813,7 @@ Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici
 
 *Clan Solidali*. Gli orrori uncinati vivono in vasti gruppi familiari o clan. Ogni clan è retto dalla femmina più anziana, che solitamente pone il suo compagno a capo dei cacciatori del clan. Gli Orrore Arrampicamuri depongono le uova in un'area centrale e ben difesa delle caverne usate come tana.
 
-Orsogufo
+### Orsogufo
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -8861,7 +8861,7 @@ Anche se è pressoché impossibile addomesticarli a causa della loro natura selv
 
 Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differenza del normale Orsogufo è più robusto e forte. Ha 85 Punti Ferita, +10 al colpire, 21 di danno ad artiglio +1 da Sanguinamento, 15 di danno con becco. GS 4
 
-Orsogufo Saggio
+### Orsogufo Saggio
 
 | **Taglia/Tipo** | Grande mostruosità, neutrale |
 | --- | --- |
@@ -8909,7 +8909,7 @@ Addestrare un Orsogufo saggio è molto più facile di un Orsogufo ma l'alta inte
 
 L'incantesimo Mano Magica è solitamente usato per sfogliare i tomi più delicati e per scrivere, anche se con estrema lentezza.
 
-Otyugh
+### Otyugh
 
 | **Taglia/Tipo** | Grande aberrazione, neutrale |
 | --- | --- |
@@ -8957,7 +8957,7 @@ La cosa che la maggior parte delle razze trova terrificante degli otyugh non è 
 
 Un otyugh mangiando gli escrementi o parte di una creatura può capire quale malattia o veleno la affligge.
 
-Panoptikhan
+### Panoptikhan
 
 | **Taglia/Tipo** | Grande aberrazione, malvagio |
 | --- | --- |
@@ -9015,7 +9015,7 @@ Purtroppo l'arroganza, la superbia, il desiderio di essere al centro dell'attenz
 
 I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultano anche creature che hanno più che raddoppiato questo limite. I Panoptikhan aumentano di taglia con l'età e così il numero di occhi. Le statistiche qui riportate sono riferite ad un esemplare di età adulta di circa 300 anni.
 
-Pegaso
+### Pegaso
 
 | **Taglia/Tipo** | Grande celestiale, buono |
 | --- | --- |
@@ -9054,7 +9054,7 @@ In alcuni pegasi il sangue di un antenato che era un eroico stallone è ancora f
 
 Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli* solo per espresse intercessione di Ljust.
 
-Persecutore Invisibile
+### Persecutore Invisibile
 
 | **Taglia/Tipo** | Media elementale, neutrale |
 | --- | --- |
@@ -9100,7 +9100,7 @@ Molti cacciatori invisibili però considerano questi compiti come misere richies
 
 A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abitanti del Piano Materiale. Quelli appena evocati nel mondo mortale conoscono solo le storie dei loro simili e mantengono un atteggiamento aperto nei riguardi di chi li richiama. Col tempo, o se servono un padrone malvagio, iniziano a farsi un'opinione negativa di queste creature mortali, che li porta a sviare le istruzioni e a danneggiare i loro padroni. Per i cacciatori invisibili più vecchi e con più esperienza, l'unica cosa che protegge chi li ha evocati è la magia che li lega. Queste creature tentano sempre di usare le incoerenze nella formulazione dei loro compiti e le distorsioni letterali nelle intenzioni per trovare un modo per infastidire, ferire o addirittura uccidere chi li ha portati su questo piano.
 
-Pseudodrago
+### Pseudodrago
 
 | **Taglia/Tipo** | Minuscola drago, buono |
 | --- | --- |
@@ -9141,7 +9141,7 @@ Gli pseudodraghi sono carnivori e mangiano insetti, roditori, uccellini e serpen
 
 Raggiunta l'età adulta, il corpo di uno pseudodrago è lungo 30 centimetri con una coda di 60 centimetri, e pesa circa 3,5 kg. Le uova di uno pseudodrago sono grandi come quelle di gallina, ma di consistenza simile al cuoio e macchiate di marrone, e le femmine le depongono in gruppi di 2-5 ogni primavera. Un nido di pseudodraghi (che costituiscono un gruppo familiare, e non sono nati dallo stesso gruppo di uova) di solito consiste di una coppia di adulti e diversi cuccioli quasi adulti.
 
-Rakshasa
+### Rakshasa
 
 | **Taglia/Tipo** | Media immondo, malvagio |
 | --- | --- |
@@ -9188,7 +9188,7 @@ I rakshasa disprezzano le religioni; riconoscono il potere degli dei, ma si vedo
 
 Un rakshasa è alto 1,8 metri e pesa 90 kg.
 
-Razziamorti
+### Razziamorti
 
 | **Taglia/Tipo** | Grande costrutto, non morto, non allineato |
 | --- | --- |
@@ -9239,7 +9239,7 @@ Il grosso occhio centrale, forse una volta appartenuto ad un umanoide permette a
 
 Solitamente un Razziamorto è sempre accompagnato da diversi guardiani (altre creature al comando del controllore) che lo aiutano nel *sistemare* eventuali *resistenze* ancora attive.
 
-Remorhaz
+### Remorhaz
 
 | **Taglia/Tipo** | Enorme mostruosità, disallineato |
 | --- | --- |
@@ -9276,7 +9276,7 @@ In un mondo di ghiaccio e neve, i remorhaz sono particolarmente temuti per il te
 
 Intelligenti nonostante l'apparenza, i remorhaz capiscono il linguaggio dei Giganti e spesso formano alleanze con loro. I Giganti del Gelo li usano come armi contro i nemici, mentre altri giganti li sfruttano come forge viventi. Un remorhaz misura 7 metri di lunghezza e pesa 5000 kg.
 
-Rugginofago
+### Rugginofago
 
 | **Taglia/Tipo** | Media Mostruosità, disallineato |
 | --- | --- |
@@ -9316,7 +9316,7 @@ Sebbene non siano intrinsecamente violenti, la loro insaziabile fame li spinge a
 
 Fortunatamente, è spesso possibile sfuggire alle attenzioni di un rugginofago lanciandogli un oggetto di metallo denso, come uno scudo, e correndo nella direzione opposta. Chi frequenta aree infestate dai rugginofagi impara presto a portare con sé armi di legno o pietra.
 
-Sahuagin
+### Sahuagin
 
 | **Taglia/Tipo** | Media umanoide (sahuagin), malvagio |
 | --- | --- |
@@ -9364,7 +9364,7 @@ Famelici e crudeli, i sahuagin sono, sfortunatamente, tra le razze oceaniche pi�
 
 I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge quasi sempre ai ranghi nobiliari o di comando nella società. La mutazione sahuagin più comune consiste in un paio di braccia extra (che concedono due attacchi addizionali con gli artigli o la possibilità di maneggiare più armi). Alcuni parlano dei rari malenti sahuagin che non sembrano uomini squalo ma elfi acquatici, malgrado condividano la sete di sangue e la natura crudele dei loro simili. I malenti spesso servono come spie o assassini i governanti sahuagin, ma si narra di intere tribù composte di malenti in remote zone del mare.
 
-Salamandra
+### Salamandra
 
 **Taglia/Tipo** | Grande elementale, malvagio
 --- | ---
@@ -9412,7 +9412,7 @@ Le Salamandre sono spesso evocate nel Piano Materiale per servire come guardiani
 
 Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono alle alte temperature, come Spade, Armature, gioielli, Verghe e altri oggetti che hanno un alto punto di fusione. La società delle Salamandre è crudele e basata sul potere e sulla capacità di soggiogare chi è inferiore a loro. Gli esseri inferiori alle Salamandre che causano problemi affrontano una morte lenta e dolorosa.
 
-Satiro
+### Satiro
 
 | **Taglia/Tipo** | Media fatato, caotico |
 | --- | --- |
@@ -9454,7 +9454,7 @@ Oltre ad amoreggiare costantemente, i satiri spesso fungono da guardiani delle l
 
 I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono generalmente portati via dai loro sfrenati padri subito dopo la nascita.
 
-Scheletro
+### Scheletro
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -9487,7 +9487,7 @@ Organizzazione: Qualsiasi
 
 Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrileghe. Per la maggior parte, gli scheletri sono automi privi di volontà.
 
-Scheletro Campione
+### Scheletro Campione
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -9508,7 +9508,7 @@ Scheletro Campione
 
 *Colpisce:* 12 (1d12 + 4) danni taglienti.
 
-Scheletro di Saurovallo da Guerra
+### Scheletro di Saurovallo da Guerra
 
 | **Taglia/Tipo** | Grande non morto, malvagio |
 | --- | --- |
@@ -9528,7 +9528,7 @@ Scheletro di Saurovallo da Guerra
 
 *Colpisce:* 11 (2d6 + 4) danni contundenti.
 
-Segugio Infernale
+### Segugio Infernale
 
 | **Taglia/Tipo** | Media immondo, malvagio |
 | --- | --- |
@@ -9552,7 +9552,7 @@ Segugio Infernale
 
 ***Soffio Infuocato (Ricarica 5-6).*** Il segugio esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 14, e subire 21 (6d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Androsfinge
+### Androsfinge
 
 | **Taglia/Tipo** | Grande mostruosità, legale |
 | --- | --- |
@@ -9630,7 +9630,7 @@ Le androsfingi ostentano una facciata scorbutica e astiosa nei confronti degli s
 
 Le androsfingi sono alte 3,6 metri e pesano 500 kg.
 
-Ginosfinge
+### Ginosfinge
 
 | **Taglia/Tipo** | Grande mostruosità, legale |
 | --- | --- |
@@ -9698,7 +9698,7 @@ Pur non essendo grandi studiose in senso tradizionale, il grande apprezzamento d
 
 Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali possono tenerle in aria per lunghi periodi di tempo, sono delle volatrici scarse, e preferiscono atterrare prima di iniziare a combattere, attaccando con i loro poderosi artigli. Nonostante siano estremamente territoriali, le sfingi tendono ad avvisare gli intrusi varie volte prima di attaccare.
 
-Sibilante
+### Sibilante
 
 | **Taglia/Tipo** | Grande mostruosità, caotico |
 | --- | --- |
@@ -9734,7 +9734,7 @@ I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi è
 
 Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed attaccare quando affamati o per difendere il loro territorio. Cercano di tenere le distanze in combattimento e se gravemente feriti scappano arrampicandosi sulle pareti.
 
-Spettro
+### Spettro
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -9769,7 +9769,7 @@ Gli spettri sono non morti malvagi che odiano la luce del sole e gli esseri vive
 
 Uno spettro assomiglia molto a come era in vita e può essere facilmente riconosciuto da coloro che conoscevano l’individuo o ne avevano visto il volto nei dipinti o nei disegni.
 
-Spiritello
+### Spiritello
 
 | **Taglia/Tipo** | Minuscola fatato, buono |
 | --- | --- |
@@ -9806,7 +9806,7 @@ Sotto molti aspetti gli spiritelli sono più primitivi della maggior parte dei f
 
 Sebbene gli spiritelli di per sé abbiano una natura incolta e selvaggia, hanno una sana curiosità per tutte le cose dotate di magia innata. Sono particolarmente attratti dai luoghi di grande potere magico latente, quali le rovine di antichi templi. Questa curiosità li rende anche insolitamente adatti al ruolo di famigli. Un incantatore caotico di 5° livello può ottenere uno spiritello come famiglio se ha l'Abilità Famiglio.
 
-Strige (Uccello Stigeo)
+### Strige (Uccello Stigeo)
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -9838,7 +9838,7 @@ più simili ai mammiferi che agli insetti, gli strige si alzano in volo con le l
 
 Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di circa il doppio, e pesano meno di 0,5 kg. Sono color rosso ruggine o marrone rossastro, ed hanno il ventre color giallo sporco, ma quelli che non si sono nutriti adeguatamente sono di colore rosa pallido.
 
-Tarrasque
+### Tarrasque
 
 | **Taglia/Tipo** | Colossale mostruosità, disallineato |
 | --- | --- |
@@ -9909,7 +9909,7 @@ Pur non particolarmente intelligente, il Tarrasque è abbastanza intelligente da
 
 La leggenda dice che il Tarrasque sia l'animale da compagnia di Cattalm.
 
-Teschio Fiammeggiante
+### Teschio Fiammeggiante
 
 | **Taglia/Tipo** | Piccolo non morto, Tratti malvagi |
 | --- | --- |
@@ -9945,7 +9945,7 @@ I Teschi Fiammeggianti sono creati dai cadaveri degli incantatori specializzati 
 
 Usati come custodi e torce rappresentano spesso una prima linea di difesa nei dungeon.
 
-Testuggine Dragona
+### Testuggine Dragona
 
 | **Taglia/Tipo** | Mastodontica drago, neutrale |
 | --- | --- |
@@ -9993,7 +9993,7 @@ Il loro guscio varia di colore, da marrone e rosso ruggine a verde-blu con rifle
 
 Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle navi affondate. I loro gusci possono raggiungere i 5 metri di diametro, con una lunghezza totale di 7 metri
 
-Topi, La
+### Topi, La
 
 | **Taglia/Tipo** | Minuscola fatata, indifferente. Patrono |
 | --- | --- |
@@ -10034,7 +10034,7 @@ Organizzazione: Solitario
 
 Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima adora andare al mercato e comprare borsette.
 
-Torciascura
+### Torciascura
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -10069,7 +10069,7 @@ Solitamente il Torciascura si nasconde nell'oscurità aspettando di toccare l'av
 
 Un Torciascura quando viene distrutto lascia a terra la sua torcia. Questa torcia, di pura oscurità può lanciare l'incantesimo Oscurità a tocco tre volte al giorno, fuori dalle mani di un Torciascura se esposta alla luce del sole si distrugge in 2d4 round.
 
-Troll
+### Troll
 
 | **Taglia/Tipo** | Grande gigante, malvagio |
 | --- | --- |
@@ -10111,7 +10111,7 @@ Nonostante la loro ferocia, i troll sono straordinariamente teneri e gentili ver
 
 E' universalmente conosciuto che i troll possono naturalmente mutare acquisendo per brevi periodi le caratteristiche più peculiari delle creature di cui si nutrono. Non avete idea di quanto può essere buffo un Pegasutroll...
 
-Uomo Acquatico
+### Uomo Acquatico
 
 | **Taglia/Tipo** | Media umanoide (uomo acquatico), neutrale |
 | --- | --- |
@@ -10139,7 +10139,7 @@ Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenete di 3° li
 
 Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive, pelle pallida, capelli scuri e occhi porpora. Hanno tre sottili branchie sul collo, ma possono passare per Umani per brevi periodi, se lo desiderano.
 
-Uomo Albero (Arborom)
+### Uomo Albero (Arborom)
 
 | **Taglia/Tipo** | Enorme pianta, buono |
 | --- | --- |
@@ -10187,7 +10187,7 @@ Un tipico Arborom è alto 9 metri, con un tronco del diametro di 60 centimetri, 
 
 Gli Arborom si dice che siano creati per volere di Efrem.
 
-Uomo Magma
+### Uomo Magma
 
 | **Taglia/Tipo** | Piccola elementale, caotico |
 | --- | --- |
@@ -10231,7 +10231,7 @@ Orgogliosi dei loro laghi di magma, ogni lago ha un diverso scopo: bagni, cottur
 
 Alla maturità, gli Ignim sono alti 1,2 metri e pesano 150 kg grazie alla loro densa composizione.
 
-Unicorno
+### Unicorno
 
 | **Taglia/Tipo** | Grande celestiale, buono |
 | --- | --- |
@@ -10295,7 +10295,7 @@ Gli unicorni sono creature intelligenti e solitarie che abitano le foreste, appa
 
 Il corno dell'unicorno è la fonte dei suoi poteri magici, e le creature malvagie danno grande valore a questi corni per i loro riti oscuri e pozioni di guarigione. In rare occasioni, gli unicorni il cui partner è stato ucciso scelgono giovani donne virtuose come sostituti, permettendo loro di cavalcarli e diventare loro guardiani per tutta la vita.
 
-Vampiro
+### Vampiro
 
 | **Taglia/Tipo** | Media non morto (mutaforma), malvagio |
 | --- | --- |
@@ -10378,7 +10378,7 @@ Organizzazione: Solitario o famiglia (vampiro più 2-8 Progenie)
 
 I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi. Hanno un aspetto molto simile a quando erano in vita, diventando spesso più attraenti, sebbene alcuni appaiano invece duri e ferini.
 
-Progenie Vampirica
+### Progenie Vampirica
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -10430,7 +10430,7 @@ Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12)
 
 Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa appena un vampiro uccide una creatura appropriata usando il morso.
 
-Vermi delle carne
+### Vermi delle carne
 
 | **Taglia/Tipo** | minuscola mostruosità, disallineato |
 | --- | --- |
@@ -10457,7 +10457,7 @@ Organizzazione: gruppi 3d6
 
 I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trovano nei cumuli umidi di foglie o tronchi marci, nei cadaveri in putrefazione, nell acque torbide. Pallidi, viscidi, dotati di affilatissimi denti, lunghi poco più di 4 millimetri penetrano nella carne esposta in maniera facilissima e percepiscono il battito del cuore dove si dirigono. Mentre scavano nelle carni si possono percepire ed anche vedere strisciare sottopelle.
 
-Verme Purpureo
+### Verme Purpureo
 
 | **Taglia/Tipo** | Mastodontica mostruosità, disallineato |
 | --- | --- |
@@ -10500,7 +10500,7 @@ Mentre vanno in cerca di creature viventi per divorarle, i vermi purpurei ingoia
 
 Un verme purpureo generalmente reclama una grande caverna sotterranea come sua tana, e anche se vi torna per riposare e digerire il cibo, passa la maggior parte del suo tempo in cerca di preda, scavando attraverso l'oscurità senza fine o scivolando lungo tunnel preesistenti alla costante ricerca di cibo per saziare la sua immensa fame. Sebbene quasi privi di intelletto, i vermi purpurei raramente sono stupidi. Sono diffusi come guardiani fra chi riesce a controllarli magicamente o hanno nel loro covo una stanza abbastanza grande da ospitarli.
 
-Verme Strisciante Tentacolato
+### Verme Strisciante Tentacolato
 
 | **Taglia/Tipo** | Grande mostruosità, disallineato |
 | --- | --- |
@@ -10539,7 +10539,7 @@ Sono creature fameliche che non perdono occasione per cacciare e divorare o cons
 
 Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni ipotizzano che un incantatore abbia provato, come al solito, fallendo criticamente, a trasformarsi in un Verme Purpureo, altri credono fermamente che i giardini di Shayalia avessero bisogni di maggiore concimazione e così la Patrona trasformò dei normali lombrichi in queste terrificanti creature perché divorassero e digerissero i cadaveri seppelliti.
 
-Viverna
+### Viverna
 
 | **Taglia/Tipo** | Grande drago, disallineato |
 | --- | --- |
@@ -10586,7 +10586,7 @@ Seppur costantemente affamate ed inclini ad attaccare, una viverna può essere r
 
 Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà della lunghezza. Una viverna pesa in media 1000 kg.
 
-Wight
+### Wight
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -10634,7 +10634,7 @@ I wight sono umanoidi risorti come non morti a causa della necromanzia, di una m
 
 Essendo non morti, i wight non hanno bisogno di respirare, così a volte si possono trovare sott'acqua, sebbene non siano nuotatori particolarmente abili a meno che non siano originati da creature nuotatrici quali elfi acquatici e marinidi. Sott'acqua i wight preferiscono le caverne dal soffitto basso dove le loro scarse capacità di nuoto non sono una limitazione.
 
-Wraith
+### Wraith
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -10675,7 +10675,7 @@ Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12)
 
 I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le creature viventi, avendo perduto la maggior parte del legame con la loro vita precedente.
 
-Xorn
+### Xorn
 
 | **Taglia/Tipo** | Media elementale, neutrale |
 | --- | --- |
@@ -10721,7 +10721,7 @@ Il tesoro che uno xorn porta con sé o nasconde nella sua tana consiste in uno s
 
 Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono solitamente devoti a Efrem (anche se è raro, se non improbabile, che gli xorn abbiano Compagni Animali, dato che non possono seguirli nella roccia, e scelgono invece il dominio della Terra). Bardi e Devoti xorn non sono sconosciuti: i Bardi scelgono di solito Intrattenere (canto), e gli Devoti hanno invariabilmente la Stirpe Elementale (terra).
 
-Zombi
+### Zombi
 
 | **Taglia/Tipo** | Media non morto, malvagio |
 | --- | --- |
@@ -10759,7 +10759,7 @@ Gli zombi sono automi senza mente e non possono fare altro che seguire gli ordin
 
 Sebbene siano in grado di seguire gli ordini, gli zombi vengono spesso lasciati liberi con l'ordine di uccidere tutte le creature viventi. Spesso vengono incontrati in branchi che infestano le terre frequentate dai viventi, in cerca di preda. La maggior parte degli zombi viene creata attraverso Animare Morti. Simili zombi sono sempre standard, a meno che il creatore lanci anche Velocità o Rimuovi Paralisi per creare Zombi Rapidi o Contagio per creare Zombi Infetti.
 
-Zombi Ogre
+### Zombi Ogre
 
 | **Taglia/Tipo** | Grande non morto, malvagio |
 | --- | --- |
@@ -10788,7 +10788,7 @@ Zombi Ogre
 Questa appendice contiene le statistiche di vari animali, parassiti e
 altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
-Albero Risvegliato
+### Albero Risvegliato
 
 | **Taglia/Tipo** | Enorme pianta, disallineato |
 | --- | --- |
@@ -10809,7 +10809,7 @@ Albero Risvegliato
 
 *Colpisce:* 14 (3d6 + 4) danni contundenti.
 
-Alce
+### Alce
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -10829,7 +10829,7 @@ Alce
 
 *Colpisce:* 8 (2d4 + 3) danni contundenti.
 
-Alce Gigante
+### Alce Gigante
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -10849,7 +10849,7 @@ Alce Gigante
 
 *Colpisce:* 22 (4d4 + 4) danni contundenti.
 
-Aquila
+### Aquila
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -10865,7 +10865,7 @@ Aquila
 
 *Colpisce:* 4 (1d4 + 2) danni taglienti.
 
-Aquila Gigante
+### Aquila Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -10888,7 +10888,7 @@ Aquila Gigante
 
 *Colpisce:* 10 (2d6 + 3) danni taglienti.
 
-Avvoltoio
+### Avvoltoio
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -10906,7 +10906,7 @@ Avvoltoio
 
 *Colpisce:* 2 (1d4) danni perforanti.
 
-Avvoltoio Gigante
+### Avvoltoio Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -10930,7 +10930,7 @@ Avvoltoio Gigante
 
 *Colpisce:* 9 (2d6 + 2) danni taglienti.
 
-Babbuino
+### Babbuino
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -10946,7 +10946,7 @@ Babbuino
 
 *Colpisce:* 1 (1d4 - 1) danni perforanti.
 
-Balena Assassina (Orca)
+### Balena Assassina (Orca)
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -10966,7 +10966,7 @@ Balena Assassina (Orca)
 
 *Colpisce:* 21 (5d6 + 4) danni perforanti.
 
-Becco d'Ascia
+### Becco d'Ascia
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -10980,7 +10980,7 @@ Becco d'Ascia
 
 *Colpisce:* 6 (1d8 + 2) danni taglienti.
 
-Cane della Morte
+### Cane della Morte
 
 | **Taglia/Tipo** | Media mostruosità, malvagio |
 | --- | --- |
@@ -10998,7 +10998,7 @@ Cane della Morte
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 12 contro la malattia o restare malato finché la malattia non viene curata. Dopo ogni 24 ore, la creatura deve ripetere il Tiro Salvezza, riducendo i suoi Punti Ferita massimi di 5 (1d10) in caso di fallimento. Questa riduzione perdura finché la malattia non viene curata. La creatura muore se la malattia riduce i suoi Punti Ferita massimi a 0.
 
-Cane Intermittente
+### Cane Intermittente
 
 | **Taglia/Tipo** | Media mostruosità, malvagio |
 | --- | --- |
@@ -11017,7 +11017,7 @@ Cane Intermittente
 
 ***Teletrasporto (Ricarica 4-6).*** Il cane si teletrasporta magicamente, insieme a qualsiasi cosa stia indossando o trasportando, fino a 12 metri in uno spazio non occupato che possa vedere. Prima o dopo il teletrasporto, il cane può effettuare un attacco di morso.
 
-Caprone
+### Caprone
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11035,7 +11035,7 @@ Caprone
 
 *Colpisce:* 3 (1d4 + 1) danni contundenti.
 
-Caprone Gigante
+### Caprone Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11053,7 +11053,7 @@ Caprone Gigante
 
 *Colpisce:* 8 (2d4 + 3) danni contundenti.
 
-Cavallo Marino Gigante
+### Cavallo Marino Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11071,7 +11071,7 @@ Cavallo Marino Gigante
 
 *Colpisce:* 4 (1d6 + 1) danni contundenti.
 
-Cervo
+### Cervo
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11085,7 +11085,7 @@ Cervo
 
 *Colpisce:* 2 (1d4) danni perforanti.
 
-Cinghiale
+### Cinghiale
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11103,7 +11103,7 @@ Cinghiale
 
 *Colpisce:* 4 (1d6 + 1) danni taglienti.
 
-Cinghiale Gigante
+### Cinghiale Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11121,7 +11121,7 @@ Cinghiale Gigante
 
 *Colpisce:* 10 (2d6 + 3) danni taglienti.
 
-Coccodrillo
+### Coccodrillo
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11137,7 +11137,7 @@ Coccodrillo
 
 *Colpisce:* 7 (1d10 + 2) danni perforanti, e il bersaglio è afferrato (DC 12 per fuggire). Fino al termine dell'afferrare il coccodrillo non può usare il morso contro un altro bersaglio.
 
-Coccodrillo Gigante
+### Coccodrillo Gigante
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -11159,7 +11159,7 @@ Coccodrillo Gigante
 
 *Colpisce:* 21 (3d10 + 5) danni perforanti, e il bersaglio è afferrato (DC 16 per fuggire). Fino al termine dell'afferrare il coccodrillo non può usare il morso contro un altro bersaglio.
 
-Corvo
+### Corvo
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11175,7 +11175,7 @@ Corvo
 
 *Colpisce:* 1 danno perforante.
 
-Donnola Gigante
+### Donnola Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11191,7 +11191,7 @@ Donnola Gigante
 
 *Colpisce:* 5 (1d4 + 3) danni perforanti.
 
-Elefante
+### Elefante
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -11211,7 +11211,7 @@ Elefante
 
 *Colpisce:* 22 (3d10 + 6) danni contundenti.
 
-Falco
+### Falco
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11227,7 +11227,7 @@ Falco
 
 *Colpisce:* 1 danno tagliente.
 
-Falco di Sangue
+### Falco di Sangue
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -11245,7 +11245,7 @@ Falco di Sangue
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti.
 
-Pirana
+### Pirana
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11263,7 +11263,7 @@ Pirana
 
 *Colpisce:* 1 danno perforante.
 
-Gatto
+### Gatto
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11279,7 +11279,7 @@ Gatto
 
 *Colpisce:* 1 danno tagliente.
 
-Granchio Gigante
+### Granchio Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11295,7 +11295,7 @@ Granchio Gigante
 
 *Colpisce:* 4 (1d6 + 1) danni contundenti e il bersaglio è afferrato (DC 11 per fuggire). Il granchio ha due chele, ciascuna delle quali può afferrare un solo bersaglio.
 
-Gufo
+### Gufo
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11313,7 +11313,7 @@ Gufo
 
 *Colpisce:* 1 danno tagliente.
 
-Gufo Gigante
+### Gufo Gigante
 
 | **Taglia/Tipo** | Grande bestia, neutrale |
 | --- | --- |
@@ -11331,7 +11331,7 @@ Gufo Gigante
 
 *Colpisce:* 8 (2d6 + 1) danni perforanti.
 
-Iena
+### Iena
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11347,7 +11347,7 @@ Iena
 
 *Colpisce:* 3 (1d6) danni perforanti.
 
-Iena Gigante
+### Iena Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11363,7 +11363,7 @@ Iena Gigante
 
 *Colpisce:* 10 (2d6 + 3) danni perforanti.
 
-Leone
+### Leone
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11389,7 +11389,7 @@ Leone
 
 *Colpisce:* 7 (1d8 + 3) danni perforanti.
 
-Lucertola Gigante
+### Lucertola Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11411,7 +11411,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ***Trattenere il Fiato.*** La lucertola può trattenere il fiato per 15 minuti. (Una lucertola con questo tratto possiede anche velocità di nuoto 9 metri).
 
-Lupo
+### Lupo
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11429,7 +11429,7 @@ Lupo
 
 *Colpisce:* 7 (2d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prona.
 
-Dinolupo (Metalupo)
+### Dinolupo (Metalupo)
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11447,7 +11447,7 @@ Dinolupo (Metalupo)
 
 *Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prona.
 
-Lupo Invernale
+### Lupo Invernale
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -11469,7 +11469,7 @@ Lupo Invernale
 
 ***Soffio Gelido (Ricarica 5-6).*** Il lupo esala un'esplosione di vento gelido in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 15, e subire 18 (4d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Mammut
+### Mammut
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -11489,7 +11489,7 @@ Mammut
 
 *Colpisce:* 29 (4d10 + 7) danni contundenti.
 
-Mastino
+### Mastino
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11505,7 +11505,7 @@ Mastino
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prono.
 
-Orso Bruno
+### Orso Bruno
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11527,7 +11527,7 @@ Orso Bruno
 
 *Colpisce:* 8 (1d8 + 4) danni perforanti.
 
-Orso Nero
+### Orso Nero
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11549,7 +11549,7 @@ Orso Nero
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
-Orso Polare
+### Orso Polare
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11571,7 +11571,7 @@ Orso Polare
 
 *Colpisce:* 9 (1d8 + 5) danni perforanti.
 
-Orso Corazzato
+### Orso Corazzato
 
 | **Taglia/Tipo** | Enorme bestia, corrotta da Cattalm |
 | --- | --- |
@@ -11593,7 +11593,7 @@ Orso Corazzato
 
 *Colpisce:* 20 (3d8 + 10) danni perforanti.
 
-Pantera
+### Pantera
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11615,7 +11615,7 @@ Pantera
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-Ragno
+### Ragno
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11635,7 +11635,7 @@ Ragno
 
 *Colpisce:* 1 danno perforante e il bersaglio deve riuscire un Tiro Salvezza su Tempra 9 o subire 2 (1d4) danni da veleno.
 
-Ragno Fase
+### Ragno Fase
 
 | **Taglia/Tipo** | Grande mostruosità, disallineato |
 | --- | --- |
@@ -11655,7 +11655,7 @@ Ragno Fase
 
 *Colpisce:* 7 (1d10 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 14, e subire 18 (4d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questo danno se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
-Ragno Gigante
+### Ragno Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11681,7 +11681,7 @@ Ragno Gigante
 
 *Colpisce:* Il bersaglio è intralciato dalla ragnatela. Con un'Azione, il bersaglio intralciato può effettuare un Tiro Salvezza Tempra con Forza DC 12 e, in caso di successo, spezzare la tela. La ragnatela può essere anche attaccata e distrutta (CA 10; Punti Ferita 5; vulnerabilità al danno da fuoco; immunità ai danni contundenti e da veleno).
 
-Ragno Lupo Gigante
+### Ragno Lupo Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11701,7 +11701,7 @@ Ragno Lupo Gigante
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 7 (2d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
-Rana
+### Rana
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11717,7 +11717,7 @@ Rana
 
 Una **rana** è sprovvista di attacchi. Si nutre di piccoli insetti e di solito vive in prossimità di acquitrini, dentro gli alberi o sottoterra.
 
-Rana Gigante
+### Rana Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11737,7 +11737,7 @@ Rana Gigante
 
 ***Inghiottire.*** La rana effettua una attacco di morso contro un bersaglio di taglia Piccola o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno della rana, e subisce 5 (2d4) danni da acido all'inizio di ciascun round della rana. La rana può inghiottire solo un bersaglio alla volta. Se la rana muore, una creatura inghiottita non è più intralciata da essa e può uscire dal cadavere utilizzando 1 metro di movimento, uscendo prona.
 
-Ratto
+### Ratto
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -11753,7 +11753,7 @@ Ratto
 
 *Colpisce:* 1 danno perforante.
 
-Ratto Gigante
+### Ratto Gigante
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -11779,7 +11779,7 @@ Alcuni ratti giganti recano una terribile malattia che diffondono tramite il mor
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 10 o contrarre una malattia. Fino a che la malattia non viene curata, TS Tempra DC 12 ogni 24 ore, il bersaglio non può recuperare Punti Ferita eccetto tramite metodi magici e i Punti Ferita massimi del bersaglio diminuiscono di 3 (1d6) ogni 24 ore. Se i Punti Ferita massimi del bersaglio scendono a 0 come risultato della malattia, il bersaglio muore.
 
-Rinoceronte lanoso
+### Rinoceronte lanoso
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11795,7 +11795,7 @@ Rinoceronte lanoso
 
 *Colpisce:* 14 (2d8 + 5) danni contundenti.
 
-Rospo Gigante
+### Rospo Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11819,7 +11819,7 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 *Colpisce:* 8 (2d4 + 3) danni contundenti.
 
-Saurovallo da Galoppo
+### Saurovallo da Galoppo
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11831,7 +11831,7 @@ Saurovallo da Galoppo
 
 **Azioni*Zoccoli.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-Saurovallo da Guerra
+### Saurovallo da Guerra
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11847,7 +11847,7 @@ Saurovallo da Guerra
 
 *Colpisce:* 11 (2d6 + 4) danni contundenti.
 
-Saurovallo da Tiro
+### Saurovallo da Tiro
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -11873,7 +11873,7 @@ Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a
 
 Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
-Saurovallo nano
+### Saurovallo nano
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -11887,7 +11887,7 @@ Saurovallo nano
 
 *Colpisce:* 7 (2d4 + 2) danni contundenti.
 
-Scarabeo di Fuoco Gigante
+### Scarabeo di Fuoco Gigante
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -11903,7 +11903,7 @@ Scarabeo di Fuoco Gigante
 
 *Colpisce:* 2 (1d6 - 1) danni taglienti.
 
-Sciacallo
+### Sciacallo
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -11921,7 +11921,7 @@ Sciacallo
 
 *Colpisce:* 1 (1d4 - 1) danni perforanti.
 
-Sciame di Centopiedi
+### Sciame di Centopiedi
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -11938,7 +11938,7 @@ Sciame di Centopiedi
 
 *Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita. Una creatura ridotta a 0 Punti Ferita da uno sciame di centopiedi ma stabile resta avvelenata per 1 ora, anche dopo aver recuperato i Punti Ferita, e rimane paralizzata dal veleno durante questo periodo.
 
-Sciame di Corvi
+### Sciame di Corvi
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -11955,7 +11955,7 @@ Sciame di Corvi
 
 *Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Sciame di Pirana
+### Sciame di Pirana
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -11976,7 +11976,7 @@ Sciame di Pirana
 
 *Colpisce:* 14 (4d6) danni perforanti, o 7 (2d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Sciame di Insetti
+### Sciame di Insetti
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -11993,7 +11993,7 @@ Sciame di Insetti
 
 *Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Sciame di Pipistrelli
+### Sciame di Pipistrelli
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -12014,7 +12014,7 @@ Sciame di Pipistrelli
 
 *Colpisce:* 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Sciame di Ragni
+### Sciame di Ragni
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -12037,7 +12037,7 @@ Sciame di Ragni
 
 *Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Sciame di Ratti
+### Sciame di Ratti
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -12062,7 +12062,7 @@ Sciame di Ratti
 
 *Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Sciame di Serpenti Velenosi
+### Sciame di Serpenti Velenosi
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -12079,7 +12079,7 @@ Sciame di Serpenti Velenosi
 
 *Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 10, e subire 14 (4d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Sciame di Vespe
+### Sciame di Vespe
 
 | **Taglia/Tipo** | Media sciame di Minuscole bestie, disallineato |
 | --- | --- |
@@ -12095,7 +12095,7 @@ Sciame di Vespe
 
 *Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
 
-Scimmia
+### Scimmia
 
 | **Taglia/Tipo** | Piccola bestia, disallineato |
 | --- | --- |
@@ -12114,7 +12114,7 @@ Scimmia
 
 *Colpisce:* 2 (1d4) danni perforanti.
 
-Scimmione
+### Scimmione
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -12134,7 +12134,7 @@ Scimmione
 
 *Colpisce:* 6 (1d6 + 3) danni contundenti.
 
-Scimmione Gigante
+### Scimmione Gigante
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -12154,7 +12154,7 @@ Scimmione Gigante
 
 *Colpisce:* 30 (7d6 + 6) danni contundenti.
 
-Scorpione
+### Scorpione
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -12168,7 +12168,7 @@ Scorpione
 
 *Colpisce:* 1 danno perforante e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 9, e subire 4 (1d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Scorpione Gigante
+### Scorpione Gigante
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -12188,7 +12188,7 @@ Scorpione Gigante
 
 *Colpisce:* 7 (1d10 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 14, e subire 22 (4d10) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Serpente Costrittore
+### Serpente Costrittore
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -12206,7 +12206,7 @@ Serpente Costrittore
 
 *Colpisce:* 6 (1d8 + 2) danni contundenti, e il bersaglio è afferrato (DC 14 per fuggire). Fino al termine dell'afferrare, la creatura è intralciata, e il serpente non può stritolare un altro bersaglio.
 
-Serpente Costrittore Gigante
+### Serpente Costrittore Gigante
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -12224,7 +12224,7 @@ Serpente Costrittore Gigante
 
 *Colpisce:* 13 (2d8 + 4) danni contundenti, e il bersaglio è afferrato (DC 16 per fuggire). Fino al termine dell'afferrare, la creatura è intralciata, e il serpente non può stritolare un altro bersaglio.
 
-Serpente Velenoso
+### Serpente Velenoso
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -12238,7 +12238,7 @@ Serpente Velenoso
 
 *Colpisce:* 1 danno perforante e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 10, e subire 5 (2d4) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Serpente Velenoso Gigante
+### Serpente Velenoso Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -12252,7 +12252,7 @@ Serpente Velenoso Gigante
 
 *Colpisce:* 6 (1d4 + 4) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 10 (3d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-Serpente Volante
+### Serpente Volante
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -12268,7 +12268,7 @@ Serpente Volante
 
 *Colpisce:* 1 danno perforante più 7 (3d4) danni da veleno.
 
-Squalo Cacciatore
+### Squalo Cacciatore
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -12286,7 +12286,7 @@ Squalo Cacciatore
 
 *Colpisce:* 13 (2d8 + 4) danni perforanti.
 
-Squalo Corallino
+### Squalo Corallino
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -12304,7 +12304,7 @@ Squalo Corallino
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
-Squalo Gigante
+### Squalo Gigante
 
 | **Taglia/Tipo** | Enorme bestia, disallineato |
 | --- | --- |
@@ -12324,7 +12324,7 @@ in mischia contro qualsiasi creatura che non sia al massimo dei Punti Ferita.
 
 *Colpisce:* 22 (3d10 + 6) danni perforanti.
 
-Strige
+### Strige
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -12340,7 +12340,7 @@ Strige
 
 Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver risucchiato 10 Punti Ferita dal bersaglio o alla morte del bersaglio. Una creatura, compreso il bersaglio, può usare una Azione per staccare lo strige.
 
-Tasso
+### Tasso
 
 | **Taglia/Tipo** | Minuscola bestia, disallineato |
 | --- | --- |
@@ -12356,7 +12356,7 @@ Tasso
 
 *Colpisce:* 1 danno perforante.
 
-Tasso Gigante
+### Tasso Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -12378,7 +12378,7 @@ Tasso Gigante
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti.
 
-Tigre
+### Tigre
 
 | **Taglia/Tipo** | Grande bestia, disallineato |
 | --- | --- |
@@ -12400,7 +12400,7 @@ Tigre
 
 *Colpisce:* 8 (1d10 + 3) danni perforanti.
 
-Tigre dai Denti a Sciabola
+### Tigre dai Denti a Sciabola
 - **Taglia/Tipo**: Grande bestia, disallineato
 - **Caratt.**: For 4 Des 2 Cos 2 Int -3 Sag 1 Car 0
 - **Punti Ferita**: 51,  **Difesa:** 16,  **Iniziativa:** +2
@@ -12420,7 +12420,7 @@ Tigre dai Denti a Sciabola
 
 *Colpisce:* 10 (1d10 + 5) danni perforanti.
 
-Vespa Gigante
+### Vespa Gigante
 
 | **Taglia/Tipo** | Media bestia, disallineato |
 | --- | --- |
@@ -12434,7 +12434,7 @@ Vespa Gigante
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 10 (3d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
-Worg
+### Worg
 
 | **Taglia/Tipo** | Grande mostruosità, malvagio |
 | --- | --- |
@@ -12471,7 +12471,7 @@ Alcuni oggetti magici di esempio sono descritti più avanti in questo documento.
 
 I combattenti sono individui che si guadagnano da vivere mettendo la loro spada al servizio di un individuo o un ideale.
 
-Guardia
+### Guardia
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12487,7 +12487,7 @@ Le guardie comprendono membri della ronda cittadina, sentinelle di una cittadell
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti o 5 (1d8 + 1) danni perforanti se impiegata con due mani per effettuare un attacco da mischia.
 
-Veterano
+### Veterano
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12515,7 +12515,7 @@ Guerrieri sopravvissuti a lungo, guadagnandosi una grande fama di esperti e abil
 
 *Colpisce:* 6 (1d10 + 1) danni perforanti.
 
-Cavaliere
+### Cavaliere
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12546,7 +12546,7 @@ I cavalieri sono combattenti che giurano fedeltà a sovrani, ordini religiosi, e
 In questa categoria rientrano quegli individui che si occupano di mandare avanti il mondo, svolgendo le mansioni necessarie affinché i campi vengano coltivati, le città amministrate, il cibo coltivato e
 nuovi territori esplorati.
 
-Nobile
+### Nobile
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12566,7 +12566,7 @@ I nobili comandano sulla popolazione, in virtù di un diritto di nascita o per l
 
 **Reazioni*Parata.*** Il nobile somma 2 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo, il nobile deve vedere l'attaccante e impugnare un'arma da mischia.
 
-Popolano
+### Popolano
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12587,7 +12587,7 @@ I popolani comprendono contadini, servi, schiavi, servitori, pellegrini, mercant
 
 I criminali sono individui che vivono al margine della legalità, procurandosi il pane svolgendo attività spesso considerate illecite e immorali.
 
-Bandito/Pirata
+### Bandito/Pirata
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12608,7 +12608,7 @@ Che siano uomini di strada o di mare (pirati) costoro guadagnano da vivere depre
 
 *Colpisce:* 5 (1d8 + 1) danni taglienti.
 
-Spia
+### Spia
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12635,7 +12635,7 @@ Una spia è un individuo addestramento nel reperire segreti per conto di qualcun
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-Capitano dei Banditi o Pirata
+### Capitano dei Banditi o Pirata
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12661,7 +12661,7 @@ Che viva in terra o in mare, è un individuo munito di una grande personalità c
 
 **Reazioni*Parata.*** Il capitano somma 2 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo, il capitano deve vedere l'attaccante e impugnare un'arma da mischia.
 
-Assassino
+### Assassino
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12697,7 +12697,7 @@ Solitari o membri di una gilda, gli assassini sono pagati per eliminare, spesso 
 
 Il mago trascorre la vita nello studio e la pratica della magia.
 
-Mago Avventuriero
+### Mago Avventuriero
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12723,7 +12723,7 @@ livello 2 (3 slot): *Blocca Persona, Passo Velato*
 
 *Colpisce:* 3 (1d8 - 1) danni contundenti.
 
-Grande Mago
+### Grande Mago
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12757,7 +12757,7 @@ livello 5 (1 slot): *Cono di Freddo*
 
 **Reazione: *Incantesimo opportunistico***: il mago reagisce ad un attacco subito lanciando un trucchetto.
 
-Arcimago
+### Arcimago
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12807,7 +12807,7 @@ L'arcimago esegue questi * incantesimi su di sé prima del combattimento.
 
 I sacerdoti sono devoti di una divinità o una fede che si prendono cura di impartire gli insegnamenti divini al loro gregge.
 
-Cultista
+### Cultista
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12827,7 +12827,7 @@ I cultisti giurano fedeltà ai poteri oscuri, e nelle loro credenze e pratiche m
 
 *Colpisce:* 4 (1d6 + 1) danni taglienti.
 
-Accolito
+### Accolito
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12851,7 +12851,7 @@ livello 1 (3 slot): *Benedizione, Cura Ferite, Santuario*
 
 *Colpisce:* 2 (1d4) danni contundenti.
 
-Cultista capo
+### Cultista capo
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12881,7 +12881,7 @@ livello 2 (3 slot): *Arma Spirituale, Blocca Persona*
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti.
 
-Gran Sacerdote
+### Gran Sacerdote
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12914,7 +12914,7 @@ livello 3 (2 slot): *Dissolvi Magie*
 
 Questi individui vivono ai margini della civiltà, a volte entrandovi raramente in contatto. A disagio tra le mura e nelle terre civilizzate, si trovano nel loro ambiente quando possono muoversi tra le terre selvagge.
 
-Berserker
+### Berserker
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12933,7 +12933,7 @@ Provenienti da terre selvagge, gli imprevedibili berserker si radunano in compag
 
 *Colpisce:* 9 (1d12 + 3) danni taglienti.
 
-Combattente Tribale
+### Combattente Tribale
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12952,7 +12952,7 @@ Sono i difensori delle tribù che vivono ai margini della civiltà.
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti
 
-Druido
+### Druido
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |
@@ -12978,7 +12978,7 @@ livello 2 (3 slot): *Animale Messaggero, Pelle di Corteccia*
 
 *Colpisce:* 3 (1d6) danni contundenti, o 6 (1d8 + 2) danni contundenti con *Randello Incantato* o se impugnato con due mani.
 
-Esploratore
+### Esploratore
 
 | **Taglia/Tipo** | Media umanoide, qualsiasi Tratto |
 | --- | --- |

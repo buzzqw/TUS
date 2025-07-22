@@ -41,7 +41,6 @@ Remember to also mark the bonuses related to Saving Throws. Typically, a concret
 
 ## Accelerated Healing
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -58,7 +57,6 @@ The **third time**, requirement Constitution 2, that you take this Feat, after a
 
 ## Animalia
 
-pX}
 
 | **Requirement**: | Follower or Devotee of Efrem or Shayalia, Magic Proficiency 2. |
 | --- | --- |
@@ -139,7 +137,6 @@ When you are transformed, you can channel your Magic Points to improve the trans
 
 ## Archer on sauromount
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -152,7 +149,6 @@ The standard penalties are -4 and -6 depending on whether you trot (movement x2)
 
 ## Armed
 
-pX}
 
 | **Requirement**: | Strength 3, Weapon Proficiency 1 |
 | --- | --- |
@@ -165,7 +161,6 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, you ha
 
 ## Armor of the Devoted
 
-pX}
 
 | **Requirement**: | Single Trait value in common with Patron 4, being a Devotee or Follower |
 | --- | --- |
@@ -182,7 +177,6 @@ The **fourth time** you take this Ability, single Trait 12 requirement, Magic Ch
 
 ## Armor of the Enchanted Mountain
 
-pX}
 
 | **Requirement**: | Empty Fist weapon list 1, Weapon Proficiency 1, Constitution 2, Wisdom 1 |
 | --- | --- |
@@ -203,7 +197,6 @@ The **fifth time** you take this Feat, requirement Empty Fist 13, you acquire da
 
 ## Arrow Called, Arrow Delivered
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -218,7 +211,6 @@ The bow/crossbow must already be in hand.
 
 ## Black Siphon
 
-pX}
 
 | **Requirement**: | Magic proficiency 6, Follower or Devotee of Tazher, 6 common Trait points |
 | --- | --- |
@@ -231,7 +223,6 @@ The casting time of the spell increases to 3 Actions.
 
 ## Blade Dance
 
-pX}
 
 | **Requirement**: | Weapon List: Graceful Weapons at 2, Dexterity or Charisma 1, Entertain 1 |
 | --- | --- |
@@ -248,7 +239,6 @@ The second and third advantages are not cumulative.
 
 ## Blind Fighting
 
-pX}
 
 | **Requirement**: | Awareness 2 |
 | --- | --- |
@@ -269,7 +259,6 @@ The penalty to Attack Roll against invisible creatures is -2.
 
 ## Blockhead
 
-pX}
 
 | **Requirement**: | Crossbow List 4 |
 | --- | --- |
@@ -282,7 +271,6 @@ Your crossbow bolt increases by one damage size.
 
 ## Bloodhound
 
-pX}
 
 | **Requirement**: | Intelligence 1, Wisdom 1, Weapon Proficiency 1 |
 | --- | --- |
@@ -301,7 +289,6 @@ The bonus can be used for Attack Rolls, Saving Throws caused by the opponent, an
 
 ## Brew Potions
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -316,7 +303,6 @@ The **second time** you take this Feat, the time to prepare potions/poisons is h
 
 ## Cautious Caster
 
-pX}
 
 | **Requirement**: | Magic Proficiency 8 |
 | --- | --- |
@@ -329,7 +315,6 @@ This Feat does not affect the fact that you are still Distracted in casting a su
 
 ## Channel Energy
 
-pX}
 
 | **Requirement**: | Laying on Hands, Magic Proficiency 1, Common Traits 4 |
 | --- | --- |
@@ -345,7 +330,6 @@ The energy comes from your body and influences yourself and the creatures around
 
 ## Clinical Eye
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -356,7 +340,6 @@ You are able to do critical damage to creatures normally immune to criticals.
 
 ## Colossus
 
-pX}
 
 | **Requirement**: | Constitution 1 |
 | --- | --- |
@@ -377,7 +360,6 @@ The **fourth time**, requisite Constitution 3, you take this Feat, you increase 
 
 ## Combat Caster
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -394,7 +376,6 @@ This Feat can be used in the Magic Check required by Warrior of Magic. The indic
 
 ## Coordinated Damage
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 6, Wisdom 2 |
 | --- | --- |
@@ -411,7 +392,6 @@ The Attack Rolls must hit in order to apply the damage to the other opponent.
 
 ## Create Magic Items
 
-pX}
 
 | **Requirement**: | Magic Proficiency 6 |
 | --- | --- |
@@ -428,7 +408,6 @@ The **fourth time** you take this Feat, requirement Magic Proficiency 18, the sp
 
 ## Dancing Scourge
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, using a weapon from the Rolling Balls list |
 | --- | --- |
@@ -439,7 +418,6 @@ When you use your weapon from the Rolling Balls list, you have a bonus of +1 to 
 
 ## Daredevil
 
-pX}
 
 | **Requirement**: | Weapon Proficiency +2, Dexterity 1 |
 | --- | --- |
@@ -454,7 +432,6 @@ The **second time** you take this Feat, you have a +2 to Attack Roll in melee an
 
 ## Daughter of Shayalia
 
-pX}
 
 | **Requirement**: | Devotee or Follower of Shayalia |
 | --- | --- |
@@ -473,7 +450,6 @@ The **fourth time** you take this Feat, requirement Animalia taken 4 times, you 
 
 ## Deadly Strike
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 5 |
 | --- | --- |
@@ -484,7 +460,6 @@ Make the Attack Roll with a penalty of -1d6; if you hit, you cause 2 critical da
 
 ## Debilitating Strike
 
-pX}
 
 | **Requirement**: | Sneak Attack 3, Weapon Proficiency 12 |
 | --- | --- |
@@ -497,7 +472,6 @@ The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Rol
 
 ## Decipher Magical Writings
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -508,7 +482,6 @@ Has a bonus of +1d6 in understanding the content of a scroll and in casting the 
 
 ## Defend Mount
 
-pX}
 
 | **Requirement**: | Ride 1 |
 | --- | --- |
@@ -523,7 +496,6 @@ This Feat can only be used once per round, for a single attack, and costs the Re
 
 ## Double Portion
 
-pX}
 
 | **Requirement**: | Two weapon Fighting, Weapon Proficiency 4 |
 | --- | --- |
@@ -534,7 +506,6 @@ Constant training with two weapons allows you to apply the damage bonus due to S
 
 ## Elemental Form
 
-pX}
 
 | **Requirement**: | Follower or Devotee of Erondil, Gaya, Efrem, or Shayalia. At least 3 spells from 2 different Elemental Magic Lists, Magic Proficiency 6 |
 | --- | --- |
@@ -553,7 +524,6 @@ If you are a Devotee or Follower of Gaya or Erondil, it is not necessary to tran
 
 ## Elementalist
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3, At least 4 spells from Elemental Magic List |
 | --- | --- |
@@ -569,7 +539,6 @@ The **second time** you take this Feat, requirement Magic Proficiency 6, choose 
 
 ## Expert
 
-pX}
 
 | **Requirement**: | Related ability score at least -1 |
 | --- | --- |
@@ -592,7 +561,6 @@ Not usable on Awareness (see Perceptive, page ).
 
 ## Extended Battery
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Magic Adept |
 | --- | --- |
@@ -605,7 +573,6 @@ When you make a Magic Check and achieve at least one Critical Magic Success, the
 
 ## Eyes of Magic
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -618,7 +585,6 @@ The **second time**, requirement Magic Proficiency 1, that you take the Feat, ac
 
 ## Faithful
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Sum of common Traits 2, being a Devotee |
 | --- | --- |
@@ -633,7 +599,6 @@ This Feat does not stack with the Magic Battery Feat.
 
 ## Fast Step
 
-pX}
 
 | **Requirement**: | Dexterity 1 |
 | --- | --- |
@@ -647,7 +612,6 @@ Each additional **two times** you take the Feat, your movement increases by 1 me
 
 ## Feign Death
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -660,7 +624,6 @@ The effect lasts at most 2 minutes. Feigning death cannot be repeated at interva
 
 ## Ferocity
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -683,7 +646,6 @@ The player can choose only one level of Ferocity to use in the encounter (2, 3, 
 
 ## First Blood
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -694,7 +656,6 @@ The first Attack Roll of the day has a bonus of +1d6 and causes a critical hit i
 
 ## Focused
 
-pX}
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |
@@ -707,7 +668,6 @@ This Feat can be taken multiple times on the same Magic List or on other lists, 
 
 ## Focused Weapon
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -718,7 +678,6 @@ Choose a weapon in a Weapon List you know. You gain a +1 to Initiative and Attac
 
 ## Forged in Fury
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 5 |
 | --- | --- |
@@ -729,7 +688,6 @@ When you make a critical hit with a melee attack is considered that you have hit
 
 ## Fury
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -744,7 +702,6 @@ You can decide to activate this Feat round by round. It costs 1 Immediate Action
 
 ## Hard to Kill
 
-pX}
 
 | **Requirement**: | - |
 | --- | --- |
@@ -755,7 +712,6 @@ You are particularly stubborn about not wanting to die. The character increases 
 
 ## Hawk Eye
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -770,7 +726,6 @@ The **third time** you take this Feat, you are able to extend your shot even fur
 
 ## Healer
 
-pX}
 
 | **Requirement**: | Wisdom 1 |
 | --- | --- |
@@ -785,7 +740,6 @@ The **second time** you take this Feat, requirement sum of traits in common with
 
 ## Hit and Run
 
-pX}
 
 | **Requirement**: | Dexterity 1, Weapon Proficiency 1 |
 | --- | --- |
@@ -796,7 +750,6 @@ If in the round you execute at least one attack, these have a base penalty of -5
 
 ## I said FALL!
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 4 |
 | --- | --- |
@@ -807,7 +760,6 @@ If you hit an opponent 3 times within 2 rounds, they must make a Fortitude Savin
 
 ## Iaijutsu
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -824,7 +776,6 @@ Consumes two Actions.
 
 ## Improved Initiative
 
-pX}
 
 | **Requirement**: | Intelligence or Dexterity 1 |
 | --- | --- |
@@ -835,7 +786,6 @@ Increase initiative by +1. This Feat can be taken up to 2 times and the bonus is
 
 ## Improvise
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -847,7 +797,6 @@ You do not suffer penalties to hit when using an improvised weapon. You gain a +
 
 ## Infuriate
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 and Charisma or Strength 2 |
 | --- | --- |
@@ -862,7 +811,6 @@ The opponent may not understand your language but must have Intelligence equal t
 
 ## Infuse Magical Energy
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Magic Proficiency 2 |
 | --- | --- |
@@ -881,7 +829,6 @@ The **third time** you take this Feat, requirement Magic Proficiency 8, you can 
 
 ## Infuse Superior Magical Energy
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 4, Magic Proficiency 6 |
 | --- | --- |
@@ -904,7 +851,6 @@ The abilities are not cumulative; you must choose which to apply round by round.
 
 ## Inspire Courage
 
-pX}
 
 | **Requirement**: | Charisma 2, Entertain 1 |
 | --- | --- |
@@ -927,7 +873,6 @@ Creatures must continue to see/hear your performance to remain influenced.
 
 ## Instill Fear
 
-pX}
 
 | **Requirement**: | Charisma 2 |
 | --- | --- |
@@ -948,7 +893,6 @@ Activating, maintaining, or changing the effect of the Feat requires 2 Actions a
 
 ## Instinctive Knowledge
 
-pX}
 
 | **Requirement**: | Knowledge 1 |
 | --- | --- |
@@ -961,7 +905,6 @@ You have an instinctive ability to remember and evaluate an enemy. When you take
 
 ## Iron Fist
 
-pX}
 
 | **Requirement**: | Empty Fist List 3 |
 | --- | --- |
@@ -986,7 +929,6 @@ The indicated bonuses are cumulative.
 
 ## Iron Will
 
-pX}
 
 | **Requirement**: | Wisdom 0 |
 | --- | --- |
@@ -1001,7 +943,6 @@ The **fourth time** you take this Feat, you can decide to automatically succeed 
 
 ## Juggler
 
-pX}
 
 | **Requirement**: | Dexterity 2 |
 | --- | --- |
@@ -1016,7 +957,6 @@ You can throw a second dagger as an Immediate Action following an Attack action 
 
 ## Laying on Hands
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Common Traits 3, being Devoted or Follower |
 | --- | --- |
@@ -1053,7 +993,6 @@ Fortitude Saving Throw DC 10 + sum of Traits in common with the Patron + Wisdom 
 
 ## Lightning Reflexes
 
-pX}
 
 | **Requirement**: | Dexterity 1 |
 | --- | --- |
@@ -1066,7 +1005,6 @@ The **fourth time** you take this Feat, you can automatically succeed on a Refle
 
 ## Loaded Dice
 
-pX}
 
 | **Requirement**: | Magic Proficiency 6 |
 | --- | --- |
@@ -1079,7 +1017,6 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 
 ## Lucky
 
-pX}
 
 | **Requirement**: | none |
 | --- | --- |
@@ -1092,7 +1029,6 @@ This Feat can be declared even after the dice have been rolled.
 
 ## Magic Adept
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -1109,7 +1045,6 @@ This Feat can be taken multiple times as long as it is less than MP/2.
 
 ## Magic Battery
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3 |
 | --- | --- |
@@ -1124,7 +1059,6 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 
 ## Magical Roots
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -1135,7 +1069,6 @@ While you are affected by one of your spells, using an Action your weapon gains 
 
 ## Mental Wall
 
-pX}
 
 | **Requirement**: | Wisdom +1 |
 | --- | --- |
@@ -1146,7 +1079,6 @@ Your mind is trained against those who want to influence it. Each time you take 
 
 ## Mighty Blows
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1159,7 +1091,6 @@ You gain a +1 to damage with a Weapon List.
 
 ## My Death Your Death
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Strength 1 |
 | --- | --- |
@@ -1172,7 +1103,6 @@ The Feat must be declared before the Attack Roll and lasts until the beginning o
 
 ## My Head is Harder
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1183,7 +1113,6 @@ Your weapon, present in the Skull Crusher Weapons List, does +2 damage
 
 ## My Skin
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1198,7 +1127,6 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, the De
 
 ## One Arm, One Weapon
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -1213,7 +1141,6 @@ If you take this Feat **4 times** on the same Weapon List, the damage bonus is r
 
 ## One Belief
 
-pX}
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |
@@ -1244,7 +1171,6 @@ The **sixth time** you take this Feat, requirement Magic Proficiency 20, in the 
 
 ## One Body, One Mind, One Spirit
 
-pX}
 
 | **Requirement**: | none |
 | --- | --- |
@@ -1255,7 +1181,6 @@ Assign one point to Weapon Proficiency or Magic Proficiency. This Feat can be ta
 
 ## One Hit One Kill
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, Magic Adept 1 |
 | --- | --- |
@@ -1268,7 +1193,6 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 
 ## One with Magic
 
-pX}
 
 | **Requirement**: | Magic Adept |
 | --- | --- |
@@ -1279,7 +1203,6 @@ Your modifier spell score has a +1 to the value for determining spell effects, M
 
 ## One with the Bow
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 4 |
 | --- | --- |
@@ -1294,7 +1217,6 @@ The **second time** you take this Feat, Dexterity 3 and Weapon Proficiency 7, th
 
 ## Only Child
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -1315,7 +1237,6 @@ Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cas
 
 ## Opportunist
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -1326,7 +1247,6 @@ You can attempt to hit an opponent in melee who **exits** or **crosses** a melee
 
 ## Paralyzing Strike
 
-pX}
 
 | **Requirement**: | Debilitating Strike, Sneak Attack 4, Weapon Proficiency 18 |
 | --- | --- |
@@ -1337,7 +1257,6 @@ You dedicate 2 Actions per Round, for 5 rounds, to studying an opponent you can 
 
 ## Parry
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 or Empty Fist 2 |
 | --- | --- |
@@ -1354,7 +1273,6 @@ Using the Parry Feat must be declared in your round and remains active until the
 
 ## Perceptive
 
-pX}
 
 | **Requirement**: | Wisdom 0 |
 | --- | --- |
@@ -1367,7 +1285,6 @@ Take a +1 bonus to Awareness checks. This Feat can be taken a maximum of 3 times
 
 ## Perfectionist
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -1380,7 +1297,6 @@ The **second time** you take this Feat, Weapon Proficiency 4, reduce the Cover p
 
 ## Pet / Familiar
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -1393,7 +1309,6 @@ The **second time** you take this Feat, you gain a Familiar (page ).
 
 ## Phoenix Wings
 
-pX}
 
 | **Requirement**: | Empty Fist List 3, Silver Crane 1 |
 | --- | --- |
@@ -1410,7 +1325,6 @@ The **third time** you take this Feat, requirement Empty Fist List 12, Silver Cr
 
 ## Immunity to Poisons
 
-pX}
 
 | **Requirement**: | Constitution 1 |
 | --- | --- |
@@ -1425,7 +1339,6 @@ The **third time** you have a +1d6 to Saving Throws against magical poisons and 
 
 ## Polyglot
 
-pX}
 
 | **Requirement**: | at least Intelligence -1, at character creation |
 | --- | --- |
@@ -1436,7 +1349,6 @@ You have an extraordinary ability to learn languages. For each point assigned to
 
 ## Power of the Patron
 
-pX}
 
 | **Requirement**: | Sum of Common Traits with the Patron 1, being Devoted |
 | --- | --- |
@@ -1451,7 +1363,6 @@ If all three checks succeed, it is likely that there will be a Manifestation of 
 
 ## Powerful Fist
 
-pX}
 
 | **Requirement**: | Empty Fist List 3 |
 | --- | --- |
@@ -1465,7 +1376,6 @@ If they critically fail the Saving Throw, they suffer an additional critical hit
 
 ## Powerful Magics
 
-pX}
 
 | **Requirement**: | Magic Proficiency 5 |
 | --- | --- |
@@ -1478,7 +1388,6 @@ Choose a Magic List, gain +1d6 to the Magic Check when casting spells from this 
 
 ## Precise Shot
 
-pX}
 
 | **Requirement**: | Dexterity 3, Weapon Proficiency 1 |
 | --- | --- |
@@ -1491,7 +1400,6 @@ You gain +1 to Attack Roll and damage with thrown weapons when the target is wit
 
 ## Press On
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1510,7 +1418,6 @@ Each bonus attack beyond the first suffers a cumulative penalty: -2 to hit and -
 
 ## Prodigious
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3 |
 | --- | --- |
@@ -1523,7 +1430,6 @@ This Feat can be taken multiple times and the total must be equal to or less tha
 
 ## Psychic Energy
 
-pX}
 
 | **Requirement**: | Strength 1, Wisdom 2, Weapon Proficiency 1, Magic Proficiency 1 |
 | --- | --- |
@@ -1540,7 +1446,6 @@ You recover 1 Chi point every 10 minutes in which the character does not perform
 
 ## Psychic Ray
 
-pX}
 
 | **Requirement**: | Psychic Strike, Wisdom 3, Weapon Proficiency 5 |
 | --- | --- |
@@ -1555,7 +1460,6 @@ The **second time** you take this Feat, requirement Wisdom 3, Weapon Proficiency
 
 ## Psychic Strike
 
-pX}
 
 | **Requirement**: | Psychic Energy, Dexterity 1 |
 | --- | --- |
@@ -1576,7 +1480,6 @@ The **fourth time** you take this Feat, Weapon Proficiency 7, Wisdom 4, if the A
 
 ## Pure Blood
 
-pX}
 
 | **Requirement**: | Animalia, Devotee of Efrem or Shayalia |
 | --- | --- |
@@ -1593,7 +1496,6 @@ The second and third abilities are cumulative.
 
 ## Quick
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -1606,7 +1508,6 @@ The **second time** you take this Feat, Weapon Proficiency 6, you gain a reactio
 
 ## Quick Draw
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1621,7 +1522,6 @@ The **third time** you take this Feat, you can put away your current weapon and 
 
 ## Rapid Shot
 
-pX}
 
 | **Requirement**: | Dexterity 3, Precise Shot, Weapon Proficiency 2 |
 | --- | --- |
@@ -1638,7 +1538,6 @@ The first shot has a normal Attack Roll, the second has a -4, the third a -8...
 
 ## Reach
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -1649,7 +1548,6 @@ You use an Action in conjunction with your Attack Action in melee to increase th
 
 ## Ready Defense
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -1662,7 +1560,6 @@ You have a +2 to Defense against opportunity attacks, attacks from behind, or fr
 
 ## Recovery
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -1675,7 +1572,6 @@ You take half the time to recover from the Fatigued condition.
 
 ## Retaliation
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, at least Follower of Gradh or Nedraf or Orlaith or Sumkjr |
 | --- | --- |
@@ -1692,7 +1588,6 @@ You can take this Feat **up to 3 times**, each time the bonus to Attack Roll and
 
 ## Rhino
 
-pX}
 
 | **Requirement**: | Constitution 1 |
 | --- | --- |
@@ -1709,7 +1604,6 @@ The **third time** you take this Feat, you have hardened your skin so much that 
 
 ## Robust
 
-pX}
 
 | **Requirement**: | Constitution -1 |
 | --- | --- |
@@ -1724,7 +1618,6 @@ The bonuses are cumulative and retroactive to previous levels.
 
 ## Scholar
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1, only at character creation |
 | --- | --- |
@@ -1735,7 +1628,6 @@ Your interest in and connection with magic is unparalleled. You can know 4 addit
 
 ## Scribe
 
-pX}
 
 | **Requirement**: | Magic Proficiency 1 |
 | --- | --- |
@@ -1746,7 +1638,6 @@ You are extremely quick in copying new spells into your Book of Magic. The time 
 
 ## Second Skin
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1763,7 +1654,6 @@ The **third time** you take this Feat, requirement Weapon Proficiency 11, the pe
 
 ## Shoot and Scoot
 
-pX}
 
 | **Requirement**: | Crossbow List 3 |
 | --- | --- |
@@ -1774,7 +1664,6 @@ While performing a Movement Action, you can reduce the loading time of your cros
 
 ## Silver Crane
 
-pX}
 
 | **Requirement**: | Empty Fist List 2, Dexterity 1 |
 | --- | --- |
@@ -1797,7 +1686,6 @@ The bonuses are active even if you are not fighting.
 
 ## Sneak Attack
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -1814,7 +1702,6 @@ The **fourth time** you take this Feat, requirement Weapon Proficiency 12, you c
 
 ## Silent Step
 
-pX}
 
 | **Requirement**: | Stealth 1 |
 | --- | --- |
@@ -1829,7 +1716,6 @@ The **second time** you take this Feat, requirement Dexterity 3, Stealth 8, you 
 
 ## Son of Tazher
 
-pX}
 
 | **Requirement**: | Devotee or Follower of Tazher, sum of common traits 10 |
 | --- | --- |
@@ -1849,7 +1735,6 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 
 ## Specialist
 
-pX}
 
 | **Requirement**: | Magic Proficiency 3 |
 | --- | --- |
@@ -1862,7 +1747,6 @@ This Feat can be taken multiple times on different spells each time.
 
 ## Spring
 
-pX}
 
 | **Requirement**: | Strength 0 |
 | --- | --- |
@@ -1875,7 +1759,6 @@ The **second time** you take this Feat, when you make a check to jump long or hi
 
 ## Stay Down!
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 3 |
 | --- | --- |
@@ -1890,7 +1773,6 @@ The **third time** you take this Feat, you can also affect creatures two sizes l
 
 ## Stone Resilience
 
-pX}
 
 | **Requirement**: | Constitution 0 |
 | --- | --- |
@@ -1905,7 +1787,6 @@ The **fourth time** you take this Feat, you can automatically succeed on a Forti
 
 ## Storm of Fury
 
-pX}
 
 | **Requirement**: | Empty Fist List 7, Dexterity 1, Strength 1 |
 | --- | --- |
@@ -1918,7 +1799,6 @@ You make a single Attack Roll with -1d6, and if you hit with your natural attack
 
 ## Sure Step
 
-pX}
 
 | **Requirement**: | Wisdom 1 |
 | --- | --- |
@@ -1951,7 +1831,6 @@ The **second time** you take this Feat on the same terrain, specializing, you ac
 
 ## Tactician
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Intelligence 1 |
 | --- | --- |
@@ -1972,7 +1851,6 @@ The **second time** you take this Feat, requirement Intelligence 2, Weapon Profi
 
 ## The Bigger They Are, The Harder They Fall
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -1983,7 +1861,6 @@ When you attack a creature at least 2 sizes larger than you, you do +1 additiona
 
 ## The Patron is my Weapon
 
-pX}
 
 | **Requirement**: | Sum of Common Traits with the Patron 1, being Followers |
 | --- | --- |
@@ -2006,7 +1883,6 @@ The **sixth time** you take this Feat, requirement sum of Common Traits with the
 
 ## The Patron is with me
 
-pX}
 
 | **Requirement**: | Devoted, Sum of Common Traits with the Patron 2 |
 | --- | --- |
@@ -2023,7 +1899,6 @@ This Feat can be declared even after the dice are rolled. Any new value obtained
 
 ## The Shield is my Friend
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1, Magic Proficiency 1 |
 | --- | --- |
@@ -2040,7 +1915,6 @@ The **third time** you take this Ability, constant training with the shield allo
 
 ## This is my Dagger
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -2051,7 +1925,6 @@ When you do critical damage with your dagger, you add an additional critical hit
 
 ## This is my Weapon!
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -2064,7 +1937,6 @@ The **second time** you take this Feat, Weapon Proficiency 5, you can miss your 
 
 ## Tough Hide
 
-pX}
 
 | **Requirement**: | Constitution 2 |
 | --- | --- |
@@ -2083,7 +1955,6 @@ The bonuses are cumulative.
 
 ## Trackless
 
-pX}
 
 | **Requirement**: | Sure Step |
 | --- | --- |
@@ -2094,7 +1965,6 @@ The ability to leave no footprints in the chosen environment. Each time you take
 
 ## Trap Dodging
 
-pX}
 
 | **Requirement**: | Dexterity 2 |
 | --- | --- |
@@ -2109,7 +1979,6 @@ You can also use this Feat, using a Reaction, to avoid Sneak Attack (Reflex Savi
 
 ## Truly Evil Person
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 1 |
 | --- | --- |
@@ -2124,7 +1993,6 @@ The Feat must be declared before knowing the outcome of the Attack Roll. Costs o
 
 ## Turn Undead
 
-pX}
 
 | **Requirement**: | Common Traits sum 2, be a Devotee or Follower |
 | --- | --- |
@@ -2151,7 +2019,6 @@ A Devotee of Thaft gets +1d6 to Divine Power.
 
 ## Two weapon Fighting
 
-pX}
 
 | **Requirement**: | Dexterity 2, Strength 1, Weapon Proficiency 2 |
 | --- | --- |
@@ -2170,7 +2037,6 @@ The **third time**, the first attack made with the off-hand weapon does not accu
 
 ## Uncanny Dodge
 
-pX}
 
 | **Requirement**: | Dexterity 3 |
 | --- | --- |
@@ -2187,7 +2053,6 @@ You can use this Feat even after knowing by how much you were hit.
 
 ## Unlucky
 
-pX}
 
 | **Requirement**: | Lucky, at least 6 points in the sum of Traits |
 | --- | --- |
@@ -2198,7 +2063,6 @@ Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill 
 
 ## Versatile Litany
 
-pX}
 
 | **Requirement**: | Entertain Proficiency 6 |
 | --- | --- |
@@ -2219,7 +2083,6 @@ The **second time** you take this Feat, you can exclude from the effect a number
 
 ## Warrior of Magic
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2, Magic Proficiency 2 |
 | --- | --- |
@@ -2240,7 +2103,6 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 ## Weapon Artist
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 2 |
 | --- | --- |
@@ -2255,7 +2117,6 @@ If you take this Feat **4 times** on the same Weapon List, the bonuses to hit ar
 
 ## Whirlwind Attack
 
-pX}
 
 | **Requirement**: | Weapon Proficiency 12, Entertain 3 |
 | --- | --- |
