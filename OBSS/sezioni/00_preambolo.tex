@@ -358,6 +358,17 @@ Ligatures=TeX
 \newcommand{\obsscurrentcolor}{Coral}
 \newcommand{\obsssetcolor}[1]{\renewcommand{\obsscurrentcolor}{#1}}
 
+% per resizedown
+\newlength{\mytemptextwidth}
+\newcommand{\resizedown}[2]{%
+	\settowidth{\mytemptextwidth}{#2}%
+	\ifdim\mytemptextwidth>#1%
+	\resizebox{#1}{!}{#2}%
+	\else%
+	#2%
+	\fi%
+}
+
 % Comandi per cambiare colore
 \newcommand{\obssgrey}{\obsssetcolor{SlateGray}}
 \newcommand{\obsspurple}{\obsssetcolor{Mauve}}

@@ -20,13 +20,11 @@ E' possibile cambiare una Abilità scelta, rispettando comunque i requisiti, ria
 
 Le capacità fornite dalle Abilità se non descritto diversamente sono cumulative o se si tratta dello stesso bonus si applica quello maggiore. Se non esplicitato una Abilità non può essere presa più volte.
 
-## Tiri Salvezza ed Abilita'
+## Come leggere le Abilità
 
-Ogni Abilità, tranne se diversamente indicato, concede dei bonus ai Tiri Salvezza che si cumulano tra loro, anche quando si prende più volte la stessa Abilità.
+Ogni Abilità ha presente una riga di **Requisito**, una di **Tiri Salvezza** ed una di **Caratteristica**.
 
-Quando scegliete un'Abilità fate anche caso a quali Tiri Salvezza aumenta!
-
-## Caratteristiche ed Abilita'
+I Requisiti sono ciò che il personaggio già deve avere prima di poter prendere quest'Abilità, i Tiri Salvezza indicano quali e con che punteggio i Tiri Salvezza aumentano quando si prende l'Abilità. ed infine
 
 Ogni Abilità ha segnato una nota tipo ***Caratteristica*** con a fianco l'indicazione di una o più Caratteristiche. Nella scheda segnate che Caratteristica, 1 sola, decidete di potenziare con quell'Abilità così che ogni 4 potenziamenti alla medesima Caratteristica potete aumentare di 1, entro il limite di 4 + modificatori razziali, il punteggio della Caratteristica in questione.
 
@@ -40,7 +38,6 @@ Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una 
 ## Elenco Abilità
 
 ## Adepto della Magia
-
 
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
@@ -57,7 +54,6 @@ L'Abilità è prendibile più volte purché sia inferiore a CM/2.
 
 ## Ali della Fenice
 
-
 | **Requisito**: | Lista Pugno Vuoto 3, Gru d'Argento 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -73,7 +69,6 @@ Le **terza volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 12, G
 
 ## Allungo
 
-
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Volontà, +2 Tempra |
@@ -82,7 +77,6 @@ Le **terza volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 12, G
 Usi una Azione in concomitanza alla tua Azione di Attacco in mischia per aumentare la portata di 1 metro con il tuo colpo.
 
 ## Animalia
-
 
 | **Requisito**: | Seguace o Devoto di Efrem oppure Shayalia, Competenza Magica 2. |
 | --- | --- |
@@ -165,7 +159,6 @@ Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la tra
 
 ## Animaletto / Famiglio
 
-
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Volontà, +1 Tempra |
@@ -177,7 +170,6 @@ La **seconda volta** che prendi questa Abilità guadagni un Famiglio .
 
 ## Armato
 
-
 | **Requisito**: | Forza 3, Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra |
@@ -188,7 +180,6 @@ La **prima volta** che prendi questa Abilità quando usi un arma di una taglia t
 La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6, non hai penalità nell'usare un arma di una taglia superiore.
 
 ## Armatura del Devoto
-
 
 | **Requisito**: | Valore singolo Tratto in comune con il Patrono 4, essere Devoto o Seguace |
 | --- | --- |
@@ -204,7 +195,6 @@ La **terza volta** che si prende questa Abilità, requisito singolo Tratto 8, il
 La **quarta volta** che si prende l'Abilità, requisito singolo Tratto 12, la Prova di Magia per indossare armature è obbligatoria solo se indossi armature pesanti e riduci la penalità di 12.
 
 ## Armatura della Montagna Incantata
-
 
 | **Requisito**: | Lista armi Pugno Vuoto 1, Competenza Armi 1, Costituzione 2, Saggezza 1 |
 | --- | --- |
@@ -225,7 +215,6 @@ La **quinta volta** che prendi questa Abilità, requisito Pugno Vuoto 13, acquis
 
 ## Arciere su saurovallo
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
@@ -237,7 +226,6 @@ Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galo
 
 ## Arma Focalizzata
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
@@ -246,7 +234,6 @@ Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galo
 Scegli un arma in una Lista d'Armi che conosci. Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi questa arma.
 
 ## Artista dell'Arma
-
 
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
@@ -261,7 +248,6 @@ Se prendi **4 volte** questa Abilità sulla stessa Lista d'Armi i bonus al colpi
 
 ## Attacco Turbinante
 
-
 | **Requisito**: | Competenza Armi 12, Intrattenere 3 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -272,7 +258,6 @@ La **prima volta** che prendi questa Abilità usando 3 Azioni puoi eseguire un s
 La **seconda volta** che prendi questa Abilità, Competenza Armi 15, Intrattenere 5, non hai la penalità al Tiro per Colpire.
 
 ## Batteria Magica
-
 
 | **Requisito**: | Competenza Magica 3 |
 | --- | --- |
@@ -287,7 +272,6 @@ L'Abilità può essere presa più volte ed il totale deve essere pari o inferior
 
 ## Batteria Estesa
 
-
 | **Requisito**: | Competenza Magica 1, Adepto della Magia |
 | --- | --- |
 | **Tiri Salvezza**: | + 1 Tempra, +1 Volontà |
@@ -298,7 +282,6 @@ Riesci a sopportare meglio lo stress di lanciare incantesimi.
 Quando effettui una Prova di Magia e riesci in almeno un Successo Critico Magico il costo dell'incantesimo diminuisce di un punto, con un costo minimo di 1.
 
 ## Colosso
-
 
 | **Requisito**: | Costituzione 1 |
 | --- | --- |
@@ -319,7 +302,6 @@ La **quarta volta**, requisito Costituzione 3, che prendi questa Abilità aument
 
 ## Colpo Furtivo
 
-
 | **Requisito**: | Competenza Armi 3 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -335,7 +317,6 @@ La **quarta** che si prende questa Abilità, requisito Competenza Armi 12, causi
 
 ## Colpo Indebolente
 
-
 | **Requisito**: | Colpo furtivo 3, Competenza Armi 12 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -347,7 +328,6 @@ All'avversario è concesso un Tiro Salvezza Tempra con DC pari al Tiro per Colpi
 
 ## Colpo Mortale
 
-
 | **Requisito**: | Competenza Armi 5 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -357,7 +337,6 @@ Esegui il Tiro per Colpire con penalità di -1d6, se colpisci causi 2 danni crit
 
 ## Colpo Paralizzante
 
-
 | **Requisito**: | Colpo Indebolente, Colpo furtivo 4, Competenza Armi 18 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -366,7 +345,6 @@ Esegui il Tiro per Colpire con penalità di -1d6, se colpisci causi 2 danni crit
 Dedichi 2 Azioni a Round, per 5 round, a studiare un avversario che puoi minacciare. Nel sesto round utilizzando 2 Azioni porti un attacco in mischia o da distanza. L'avversario deve effettuare un Tiro Salvezza su Tempra con DC pari al Tiro per Compire o rimanere paralizzato per 3d6 round. La creatura non deve essere di 2 taglie più grande della tua.
 
 ## Colpi Poderosi
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -378,7 +356,6 @@ Il tuo stile enfatizza colpi poderosi.
 Guadagni un +1 al danno con una Lista d'Arma.
 
 ## Combattere alla Cieca
-
 
 | **Requisito**: | Consapevolezza 2 |
 | --- | --- |
@@ -399,7 +376,6 @@ La penalità al Tiro per Colpire contro creature invisibili è -2.
 
 ## Combattimento con due armi
 
-
 | **Requisito**: | Destrezza 2, Forza 1, Competenza Armi 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -417,7 +393,6 @@ La **terza volta** il primo attacco effettuato con l'arma secondaria non cumula 
 
 ## Concentrato
 
-
 | **Requisito**: | Competenza Magica 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -429,7 +404,6 @@ L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre l
 
 ## Conoscenza istintiva
 
-
 | **Requisito**: | Conoscenza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -440,7 +414,6 @@ Non dimentichi mai un nemico.
 Hai una istintiva capacità nel ricordare e valutare un nemico. Quando prendi questa Abilità puoi effettuare una prova di Riconoscere un Mostro  utilizzando una Reazione.
 
 ## Creare Oggetti Magici
-
 
 | **Requisito**: | Competenza Magica 6 |
 | --- | --- |
@@ -457,7 +430,6 @@ Le **quarta volta** che prendi questa Abilità, requisito Competenza Magica 18, 
 
 ## Dadi Truccati
 
-
 | **Requisito**: | Competenza Magica 6 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
@@ -468,7 +440,6 @@ La **prima volta** che prendi questa Abilità puoi aumentare di 1, entro il valo
 La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 12, puoi aumentare di 1, entro il valore di 6, un ulteriore dado nella Prova di Magia.
 
 ## Danno Coordinato
-
 
 | **Requisito**: | Competenza Armi 6, Saggezza 2 |
 | --- | --- |
@@ -485,7 +456,6 @@ E' necessario che i Tiri per Colpire vadano a segno per poter applicare il danno
 
 ## Danza della Lama
 
-
 | **Requisito**: | Lista d'Armi: Armi Aggraziate a 2, Destrezza o Carisma 1, Intrattenere 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -501,7 +471,6 @@ Il secondo e terzo vantaggio non sono cumulativi.
 
 ## Daredevil
 
-
 | **Requisito**: | Competenza Armi +2, Destrezza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -515,7 +484,6 @@ La **seconda volta** che prendi questa Abilità hai un +2 al Tiro per Colpire in
 
 ## Dattilografo
 
-
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -525,7 +493,6 @@ Sei estremamente rapido nel copiare nuovi incantesimi sul tuo Tomo della Magia. 
 
 ## Decifrare scritti magici
 
-
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -534,7 +501,6 @@ Sei estremamente rapido nel copiare nuovi incantesimi sul tuo Tomo della Magia. 
 Ha un bonus di +1d6 nel comprendere il contenuto di una pergamena e nel lanciare l'incantesimo contenuto. Il bonus si applica anche alla prova per copiare un incantesimo sul proprio Tomo della magia.
 
 ## Difendere Cavalcatura
-
 
 | **Requisito**: | Cavalcare 1 |
 | --- | --- |
@@ -549,7 +515,6 @@ L'Abilità è utilizzabile solo una volta per round, per un solo attacco, costa 
 
 ## Difesa pronta
 
-
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -560,7 +525,6 @@ Sei sempre vigile ed attento quando rischi la vita.
 Hai un +2 alla Difesa contro gli attacchi di opportunità, alle spalle, o da fiancheggiato.
 
 ## Distillare pozioni
-
 
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
@@ -575,7 +539,6 @@ La **seconda volta** che prendi l'Abilità il tempo per preparare le pozioni/vel
 
 ## Doppia porzione
 
-
 | **Requisito**: | Combattimento con due armi, Competenza Armi 4 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Riflessi |
@@ -585,7 +548,6 @@ Il costante allenamento con due armi ti permette di applicare il bonus al danno 
 
 ## Duro a morire
 
-
 | **Requisito**: | - |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -594,7 +556,6 @@ Il costante allenamento con due armi ti permette di applicare il bonus al danno 
 Sei particolarmente ostinato nel non volere morire. Il personaggio aumenta di 3 Punti Ferita la tolleranza prima di morire, ovvero muore a 13+COS*2.
 
 ## Energia Psichica
-
 
 | **Requisito**: | Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magica 1 |
 | --- | --- |
@@ -610,7 +571,6 @@ La **seconda volta** che prendi questa Abilità, requisito Forza 1, Saggezza 2, 
 Recuperi 1 punto Chi ogni 10 minuti in cui il personaggio non effettua attività impegnative.
 
 ## Colpo Psichico
-
 
 | **Requisito**: | Energia Psichica, Destrezza 1 |
 | --- | --- |
@@ -631,7 +591,6 @@ La **quarta volta** che prendi questa Abilità, Competenza Armi 7, Saggezza 4, s
 
 ## Raggio Psichico
 
-
 | **Requisito**: | Colpo Psichico, Saggezza 3, Competenza Armi 5 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -644,7 +603,6 @@ E' possibile focalizzare uno o più punti Psichici per aumentare la distanza ogn
 La **seconda volta** che prendi questa Abilità requisito Saggezza 3, Competenza Armi 9, puoi utilizzare fino a doppio del tuo punteggio in Saggezza per potenziare il Raggio Psichico.
 
 ## Elementalista
-
 
 | **Requisito**: | Competenza Magia 3, Almeno 4 incantesimi da Lista di Magia Elementale |
 | --- | --- |
@@ -659,7 +617,6 @@ Il tempo di lancio dell'incantesimo aumenta di 1 Azione, se il tempo totale di l
 La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, scegli un nuovo tipo di Energia. Quando effettui la sostituzione puoi scegliere tra i tipi di energia a disposizione. Non hai più la penalità al tempo di lancio dell'incantesimo.
 
 ## Esperto
-
 
 | **Requisito**: | Caratteristica collegata almeno a -1 |
 | --- | --- |
@@ -682,7 +639,6 @@ Non è usabile su Consapevolezza (vedi Percettivo, pag. ).
 
 ## Estrazione rapida
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Riflessi, +1 Volontà |
@@ -695,7 +651,6 @@ La **seconda volta** che prendi questa Abilità puoi riporre l'arma attuale ed e
 La **terza volta** che prendi questa Abilità puoi riporre l'arma attuale ed estrarne un'altra come Azione Immediata.
 
 ## Fare Infuriare
-
 
 | **Requisito**: | Competenza Armi 2 e Carisma o Forza 2 |
 | --- | --- |
@@ -710,7 +665,6 @@ L'avversario può non comprendere la tua lingua ma deve avere Intelligenza pari 
 
 ## Fedele
 
-
 | **Requisito**: | Competenza Magica 1, Somma valore Tratti in comune 2, essere Devoto |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -723,7 +677,6 @@ L'Abilità può essere presa più volte ed il totale deve essere pari o inferior
 Questa Abilità non si cumula con l'Abilità Batteria Magica.
 
 ## Ferocia
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -746,7 +699,6 @@ Il giocatore può scegliere un solo grado di Ferocia da usare nello scontro (2, 
 
 ## Figlia di Shayalia
 
-
 | **Requisito**: | Devoto o Seguace di Shayalia |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +2 Volontà |
@@ -763,7 +715,6 @@ La **terza volta** che prendi questa Abilità, requisito somma Tratti in comune 
 La **quarta volta** che prendi questa Abilità, requisito Animalia preso 4 volte, puoi trasformati usando Animalia, in qualsiasi creatura purché non sia un immondo o drago.
 
 ## Figlio di Tazher
-
 
 | **Requisito**: | Devoto o Seguace di Tazher, somma tratti comuni 10 |
 | --- | --- |
@@ -782,7 +733,6 @@ Può essere usato come punto di lancio degli incantesimi.
 Non puoi avere Famigli. Non puoi interagire con la tua Ombra se non ci sono le condizione per esserci un ombra.
 
 ## Figlio Unico
-
 
 | **Requisito**: | Costituzione 0 |
 | --- | --- |
@@ -803,7 +753,6 @@ Le Abilità 2, 3, 4 possono essere prese più volte. Gli incantesimi di primo li
 
 ## Finta Morte
 
-
 | **Requisito**: | Costituzione 0 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Volontà, +2 Tempra |
@@ -815,7 +764,6 @@ L'effetto dura al massimo 2 minuti. La finta morte non è ripetibile in interval
 
 ## Flagello Danzante
 
-
 | **Requisito**: | Competenza Armi 1, usare un arma della Lista Palle rotanti |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -825,7 +773,6 @@ Quando usi la tua arma della lista Palle Rotanti hai un bonus di +1 al Tiro per 
 
 ## Forgiato nella furia
 
-
 | **Requisito**: | Competenza Armi 5 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
@@ -834,7 +781,6 @@ Quando usi la tua arma della lista Palle Rotanti hai un bonus di +1 al Tiro per 
 Quando effettui un tiro critico con un attacco in mischia considera di aver colpito con un margine ulteriore di +2, per la verifica di ulteriori critici.
 
 ## Fortunato
-
 
 | **Requisito**: | nessuno |
 | --- | --- |
@@ -846,7 +792,6 @@ Una volta al giorno puoi fare ritirare 1d6 di una prova (Tiri per Colpire, Prove
 L'Abilità può essere dichiarata anche dopo il tiro dei dadi.
 
 ## Forma Elementale
-
 
 | **Requisito**: | Seguace o Devoto di Erondil, Gaya, Efrem oppure Shayalia. Almeno 3 incantesimi da 2 Liste di Magia Elementare diverse, Competenza Magica 6 |
 | --- | --- |
@@ -865,7 +810,6 @@ Se sei un Devoto o Seguace di Gaya o Erondil non è necessario trasformarsi in a
 
 ## Freccia chiamata, freccia consegnata
 
-
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -878,7 +822,6 @@ Puoi tirare 1 freccia/dardo, una volta al giorno, come Reazione, senza penalità
 L'arco/balestra deve già essere in mano.
 
 ## Furia
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -893,7 +836,6 @@ Puoi decidere di attivare questa Abilità round per round. Costa 1 Azione Immedi
 
 ## Giocoliere
 
-
 | **Requisito**: | Destrezza 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -906,7 +848,6 @@ Qualsiasi prova di Acrobatica che coinvolga il maneggiare oggetti o l'equilibrio
 Puoi lanciare un secondo pugnale come Azione Immediata in seguito all'Azione di attacco di lancio di un pugnale, questo pugnale ha un -3 al Tiro per Colpire e non cumula penalità al multiattacco.
 
 ## Guerriero della Magia
-
 
 | **Requisito**: | Competenza Armi 2, Competenza Magica 2 |
 | --- | --- |
@@ -926,7 +867,6 @@ La **quarta volta** che prendi questa Abilità non è necessario più effettuare
 Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità ed il tempo di lancio dell'incantesimo non può essere superiore alle 2 Azioni.
 
 ## Gru d'Argento
-
 
 | **Requisito**: | Lista Pugno Vuoto 2, Destrezza 1 |
 | --- | --- |
@@ -949,7 +889,6 @@ I bonus sono attivi anche se non stai combattendo.
 
 ## Guarigione accelerata
 
-
 | **Requisito**: | Costituzione 0 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
@@ -965,7 +904,6 @@ La **terza volta**, requisito Costituzione 2, che prendi questa Abilità dopo un
 
 ## Guaritore
 
-
 | **Requisito**: | Saggezza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -979,7 +917,6 @@ La **seconda volta** che prendi questa Abilità, requisito somma tratti comuni c
 
 ## Ho detto CADI!
 
-
 | **Requisito**: | Competenza Armi 4 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
@@ -988,7 +925,6 @@ La **seconda volta** che prendi questa Abilità, requisito somma tratti comuni c
 Se colpisci 3 volte entro 2 round un avversario questo deve fare una Tiro Salvezza su Tempra con DC pari al Tiro per Colpire dell'ultimo attacco o cadere prono. Il Tiro Salvezza ha 1d6 di modificatore per taglia di differenza.
 
 ## Il Patrono e' con me
-
 
 | **Requisito**: | Devoto, Somma Tratti comuni con il Patrono 2 |
 | --- | --- |
@@ -1004,7 +940,6 @@ La **terza volta** che prendi questa Abilità, requisito somma Tratti comuni con
 L'Abilità può essere dichiarata anche dopo il lancio dei dadi. Qualsiasi nuovo valore ottenuto con il nuovo tiro va tenuto o si usa nuovamente questa Abilità.
 
 ## Il Patrono è la mia Arma
-
 
 | **Requisito**: | Somma Tratti comuni con il Patrono 1, essere Seguaci |
 | --- | --- |
@@ -1027,7 +962,6 @@ La **sesta volta** che prendi questa Abilità, requisito somma Tratti comuni con
 
 ## Iaijutsu
 
-
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -1043,7 +977,6 @@ Consumi due Azioni.
 
 ## Improvvisare
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
@@ -1053,7 +986,6 @@ Qualsiasi oggetto che possa definirsi un arma improvvisata per te non è improvv
 Non soffri di penalità al colpire quando usi un arma improvvisata. Ottieni un +1 al danno quando usi un arma improvvisata.
 
 ## Incantatore da Combattimento
-
 
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
@@ -1070,7 +1002,6 @@ Questa Abilità si può usare nella Prova di Magia richiesta da Guerriero della 
 
 ## Incantatore Prudente
 
-
 | **Requisito**: | Competenza Magica 8 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -1081,7 +1012,6 @@ Quando una creatura ostile entra per la prima volta in uno spazio entro 1 metro 
 Questa Abilità non influisce su fatto che si è comunque Distratti nel lancio di un successivo incantesimo.
 
 ## Immunita' ai veleni
-
 
 | **Requisito**: | Costituzione 1 |
 | --- | --- |
@@ -1095,7 +1025,6 @@ La **seconda volta** che prendi l'Abilità divieni immune ai veleni naturali. No
 La **terza volta** hai un +1d6 ai Tiro Salvezza ai veleni magici e subire gli effetti di fumi tossici (ma puoi sempre soffocare).
 
 ## Imposizione delle mani
-
 
 | **Requisito**: | Competenza Magica 1, Tratti comuni 3, essere Devoto o Seguace |
 | --- | --- |
@@ -1132,7 +1061,6 @@ Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza
 
 ## Incanalare Energia
 
-
 | **Requisito**: | Imposizione delle mani, Competenza Magica 1, Tratti comuni 4 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -1146,7 +1074,6 @@ Ogni volta che prendi questa Abilità, oltre la prima, aumenti il raggio di 1 me
 L'energia proviene dal tuo corpo ed influenza te stesso e le creature intorno a te. Tiro Salvezza su Riflessi DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto.  2 Azioni.
 
 ## Infondere Coraggio
-
 
 | **Requisito**: | Carisma 2, Intrattenere 1 |
 | --- | --- |
@@ -1169,7 +1096,6 @@ Le creature per rimanere influenzate devono continuare a vedere/sentire la tua e
 
 ## Infondere Energia Magica
 
-
 | **Requisito**: | Competenza Armi 1, Competenza Magica 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
@@ -1186,7 +1112,6 @@ La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 4, 
 La **terza volta** che prendi questa Abilità, requisito Competenza Magica 8, puoi usare sei Punti Magia ed un arma con cui vieni a contatto diventa un arma +3 per 6 round, se è già incantata acquisisce un bonus ulteriore di +2 fino ad un massimo di +4.
 
 ## Infondere Energia Magica Superiore
-
 
 | **Requisito**: | Competenza Armi 4, Competenza Magica 6 |
 | --- | --- |
@@ -1209,7 +1134,6 @@ Le Abilità non sono cumulative, devi scegliere quale applicare round per round.
 
 ## Infondere Paura
 
-
 | **Requisito**: | Carisma 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -1229,7 +1153,6 @@ Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni e dura fi
 
 ## Iniziativa migliorata
 
-
 | **Requisito**: | Intelligenza o Destrezza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -1238,7 +1161,6 @@ Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni e dura fi
 Aumenti l'iniziativa di +1. L'Abilità può essere presa fino a 2 volte ed il bonus si cumula.
 
 ## La mia pelle
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1253,7 +1175,6 @@ La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6, la
 
 ## La mia morte la tua morte
 
-
 | **Requisito**: | Competenza Armi 1, Forza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
@@ -1265,7 +1186,6 @@ L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del p
 
 ## La mia Testa e' piu' Dura
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -1274,7 +1194,6 @@ L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del p
 La tua arma, presente nella Lista Armi Rompi Cranio, fa +2 danni
 
 ## Lesto
-
 
 | **Requisito**: | Competenza Armi 3 |
 | --- | --- |
@@ -1286,7 +1205,6 @@ La **prima volta** che prendi questa Abilità quando un alleato esegue un tiro c
 La **seconda volta** che prendi questa Abilità, Competenza Armi 6, guadagni una reazione da poter usare solo per l'Abilità Lesto.
 
 ## Litania versatile
-
 
 | **Requisito**: | Competenza Intrattenere 6 |
 | --- | --- |
@@ -1307,7 +1225,6 @@ La **seconda volta** che prendi questa Abilità puoi escludere dall'effetto un n
 
 ## Lo scudo e' mio amico
 
-
 | **Requisito**: | Competenza Armi 1, Competenza Magica 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
@@ -1323,7 +1240,6 @@ La **terza volta** che prendi questa Abilità il costante allenamento con lo scu
 
 ## Magie Potenti
 
-
 | **Requisito**: | Competenza Magica 5 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà |
@@ -1334,7 +1250,6 @@ Le tue magie sono straordinariamente efficaci.
 Scegli una Liste di Magia, ottieni un +1d6 alla Prova di Magia nel lancio di incantesimi da questa Lista. L'Abilità può essere presa più volte ma il totale deve essere inferiore od uguale a CM/4.
 
 ## Molla
-
 
 | **Requisito**: | Forza 0 |
 | --- | --- |
@@ -1347,7 +1262,6 @@ La **seconda volta** che prendi questa Abilità quando effettui una prova per sa
 
 ## Muro mentale
 
-
 | **Requisito**: | Saggezza +1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -1356,7 +1270,6 @@ La **seconda volta** che prendi questa Abilità quando effettui una prova per sa
 La tua mente è addestrata contro chi vuole influenzarla. Ogni volta che prendi questa Abilità guadagni +1 ai Tiri Salvezza contro gli incantesimi della Lista di Magia di Ammaliamento.
 
 ## Occhi della magia
-
 
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
@@ -1369,7 +1282,6 @@ La **seconda volta**, requisito Competenza Magica 1, che prendi l'Abilità attiv
 
 ## Occhio Clinico
 
-
 | **Requisito**: | Competenza Armi 3 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -1378,7 +1290,6 @@ La **seconda volta**, requisito Competenza Magica 1, che prendi l'Abilità attiv
 Sei in grado di fare danno critico a creature normalmente immuni ai critici.
 
 ## Occhio di Falco
-
 
 | **Requisito**: | Competenza Armi 3 |
 | --- | --- |
@@ -1393,7 +1304,6 @@ La **terza volta** che prendi questa Abilità sei in grado di estendere ancora d
 
 ## Opportunista
 
-
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -1402,7 +1312,6 @@ La **terza volta** che prendi questa Abilità sei in grado di estendere ancora d
 Puoi tentare di colpire in mischia un avversario che **esca** o **attraversi** un area di mischia che tu minacci oppure che **usi un arma da lancio** nella tua area di mischia o **formuli un incantesimo**. L'Abilità è usabile come Reazione. Questo attacco viene anche chiamato attacco di opportunità.
 
 ## Parata
-
 
 | **Requisito**: | Competenza Armi 3 oppure Pugno Vuoto 2 |
 | --- | --- |
@@ -1419,7 +1328,6 @@ Usare l'Abilità Parata deve essere dichiarata nel proprio round e rimane attiva
 
 ## Passo Felpato
 
-
 | **Requisito**: | Furtività 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
@@ -1433,7 +1341,6 @@ La **seconda volta** che prendi questa Abilità, requisito Destrezza 3, Furtivit
 
 ## Passo rapido
 
-
 | **Requisito**: | Destrezza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -1445,7 +1352,6 @@ Se hai movimento 6m passi a movimento 7m, se hai movimento 9m passi a movimento 
 Ogni ulteriori **due volte** che prendi l'Abilità il tuo movimento aumenta di 1 metro per Azione di Movimento, fino ad un massimo di +3 metri a round.
 
 ## Passo Sicuro
-
 
 | **Requisito**: | Saggezza 1 |
 | --- | --- |
@@ -1478,7 +1384,6 @@ Le **seconda volta** che prendi questa Abilità sul medesimo terreno, specializz
 
 ## Pelle Coriacea
 
-
 | **Requisito**: | Costituzione 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra |
@@ -1496,7 +1401,6 @@ I bonus sono cumulativi.
 
 ## Percettivo
 
-
 | **Requisito**: | Saggezza 0 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Riflessi, +1 Volontà |
@@ -1507,7 +1411,6 @@ La tua Consapevolezza e attenzione ai particolari è sopra la media.
 Prendi un bonus di +1 alla prove di Consapevolezza. L'Abilità può essere presa massimo 3 volte.
 
 ## Persona veramente malvagia
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1522,7 +1425,6 @@ L'Abilità deve essere dichiarata prima di sapere l'esito del Tiro per Colpire. 
 
 ## Piu' sono grossi piu' fanno rumore quando cadono
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
@@ -1532,7 +1434,6 @@ Quando attacchi una creatura di almeno 2 taglie più grosse di te fai +1 danno a
 
 ## Poliglotta
 
-
 | **Requisito**: | almeno Intelligenza -1, alla creazione del personaggio |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà |
@@ -1541,7 +1442,6 @@ Quando attacchi una creatura di almeno 2 taglie più grosse di te fai +1 danno a
 Hai una straordinaria capacità di imparare le lingue. Per ogni punto attribuito a Conoscenza Lingue conosci due lingue in più.
 
 ## Potere del Patrono
-
 
 | **Requisito**: | Somma Tratti comuni con il Patrono 1, essere Devoto |
 | --- | --- |
@@ -1556,7 +1456,6 @@ Se riescono tutte e tre le prove è probabile che si sia una Manifestazione del 
 
 ## Primo Sangue
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -1565,7 +1464,6 @@ Se riescono tutte e tre le prove è probabile che si sia una Manifestazione del 
 Il primo Tiro per Colpire nel giorno ha un bonus di +1d6 e causa un tiro critico se colpisce.
 
 ## Precisino
-
 
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
@@ -1578,7 +1476,6 @@ La **seconda volta** che prendi questa Abilità, Competenza Armi 4, riduci la pe
 
 ## Prodigioso
 
-
 | **Requisito**: | Competenza Magica 3 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà |
@@ -1589,7 +1486,6 @@ La tua mente non ha confini. Puoi apprendere due incantesimi presenti sul tuo To
 L'Abilità può essere presa più volte ed il totale deve essere pari o inferiore a CM/4.
 
 ## Proseguire
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1607,7 +1503,6 @@ La **seconda volta**, requisiti Proseguire, Competenza Armi 6, se con l'attacco 
 Ogni attacco bonus oltre il primo subisce una penalità cumulativa: -2 al colpire e -1 al danno.
 
 ## Pugno di Ferro
-
 
 | **Requisito**: | Lista Pugno Vuoto 3 |
 | --- | --- |
@@ -1632,7 +1527,6 @@ I bonus indicati sono cumulativi.
 
 ## Pugno Potente
 
-
 | **Requisito**: | Lista Pugno Vuoto 3 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +2 Volontà |
@@ -1645,7 +1539,6 @@ Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno criti
 
 ## Questo e' il mio pugnale
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Riflessi |
@@ -1654,7 +1547,6 @@ Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno criti
 Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
 
 ## Questa e' la mia arma!
-
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1667,7 +1559,6 @@ La **seconda volta** che prendi questa Abilità, Competenza Armi 5, puoi mancare
 
 ## Radici magiche
 
-
 | **Requisito**: | Competenza Magica 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
@@ -1676,7 +1567,6 @@ La **seconda volta** che prendi questa Abilità, Competenza Armi 5, puoi mancare
 Finché sei influenzato da un tuo incantesimo, utilizzando un'Azione la tua arma guadagna un +1 al colpire ed al danno e si considera un'arma magica fino alla fine del round.
 
 ## Rappresaglia
-
 
 | **Requisito**: | Competenza Armi 1, almeno Seguace di Gradh o Nedraf o Orlaith o Sumkjr |
 | --- | --- |
@@ -1693,7 +1583,6 @@ Puoi prendere questa Abilità **fino a 3 volte**, ogni volta il bonus al Tiro pe
 
 ## Recupero
 
-
 | **Requisito**: | Costituzione 0 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra |
@@ -1704,7 +1593,6 @@ Il tuo corpo produce spontaneamente caffeina!
 Impieghi la metà del tempo per recuperare dalle condizioni Affaticato.
 
 ## Resistenza della pietra
-
 
 | **Requisito**: | Costituzione 0 |
 | --- | --- |
@@ -1719,7 +1607,6 @@ La **quarta volta** che prendi questa Abilità puoi decidere di riuscire automat
 
 ## Riflessi fulminei
 
-
 | **Requisito**: | Destrezza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | nessuno |
@@ -1730,7 +1617,6 @@ Nel tempo hai allenato i tuoi riflessi a schivare e prevedere qualsiasi ostacolo
 La **quarta volta** che prendi questa Abilità puoi decidere di riuscire automaticamente in un Tiro Salvezza su Riflessi una volta al giorno come Reazione. Deve essere dichiarata e non fa tirare il Tiro Salvezza.
 
 ## Rinoceronte
-
 
 | **Requisito**: | Costituzione 1 |
 | --- | --- |
@@ -1747,7 +1633,6 @@ La **terza volta** che prendi questa Abilità hai indurito la tua pelle talmente
 
 ## Robusto
 
-
 | **Requisito**: | Costituzione -1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra |
@@ -1760,7 +1645,6 @@ La **seconda volta** che prendi questa Abilità aumenti di 1 i Punti Ferita pres
 I bonus sono cumulativi e retroattivi ai livelli precedenti.
 
 ## Sangue Puro
-
 
 | **Requisito**: | Animalia, Devoto di Efrem oppure Shayalia |
 | --- | --- |
@@ -1777,7 +1661,6 @@ Le Abilità due e tre sono cumulative.
 
 ## Sapiente
 
-
 | **Requisito**: | Competenza Magica 1, solo alla creazione del personaggio |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà |
@@ -1786,7 +1669,6 @@ Le Abilità due e tre sono cumulative.
 Il tuo interesse e connessione con la magia non ha eguali. Puoi conoscere 4 incantesimi in più (pur rispettando i vincoli di massimo livello copiabile sul Tomo).
 
 ## Scacciare i non morti
-
 
 | **Requisito**: | Somma Tratti comune 2, essere Devoto o Seguace |
 | --- | --- |
@@ -1813,7 +1695,6 @@ Un Devoto di Thaft ottiene +1d6 al Potere Divino.
 
 ## Schivare trappole
 
-
 | **Requisito**: | Destrezza 2 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
@@ -1826,7 +1707,6 @@ La **seconda volta** che prendi l'Abilità, requisito Competenza Armi 5, anche s
 E' anche possibile usare questa Abilità, usa una Reazione, per evitare Attacco furtivo (TS Riflessi superiore a Tiro Colpire avversario).
 
 ## Schivata prodigiosa
-
 
 | **Requisito**: | Destrezza 3 |
 | --- | --- |
@@ -1843,7 +1723,6 @@ Puoi usare l'Abilità anche dopo che si è saputo di quanto si è stati colpiti.
 
 ## Seconda pelle
 
-
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra |
@@ -1858,7 +1737,6 @@ La **seconda volta** che si prende questa Abilità, requisito Competenza Armi 6,
 La **terza volta** che si prende questa Abilità, requisito Competenza Armi 11, la penalità alle prove di competenza diminuisce di ulteriori 1. La penalità al movimento diminuisce di un ulteriore 1 metro. Puoi dormire in armature pesanti senza essere affaticato.
 
 ## Segugio
-
 
 | **Requisito**: | Intelligenza 1, Saggezza 1, Competenza Armi 1 |
 | --- | --- |
@@ -1877,7 +1755,6 @@ Il bonus può essere usato al Tiro per Colpire, Tiri Salvezza causati dall'avver
 
 ## Senza Traccia
 
-
 | **Requisito**: | Passo Sicuro |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Volontà, +1 Riflessi |
@@ -1886,7 +1763,6 @@ Il bonus può essere usato al Tiro per Colpire, Tiri Salvezza causati dall'avver
 La capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro di cui hai preso l'Abilità. La difficoltà della prova di Seguire Tracce per inseguirti aumentata di 10.
 
 ## Sifone Nero
-
 
 | **Requisito**: | Competenza magia 6, Seguace o Devoto di Tazher, punti Tratto in comune 6 |
 | --- | --- |
@@ -1899,7 +1775,6 @@ Il tempo di lancio dell'incantesimo aumenta a 3 Azioni.
 
 ## Sfortunato
 
-
 | **Requisito**: | Fortunato, almeno 6 punti nella somma dei Tratti |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
@@ -1909,7 +1784,6 @@ Una volta al giorno puoi trasformare un 6 tirato dal Narratore (Tiri per Colpire
 
 ## Spara e Scappa
 
-
 | **Requisito**: | Lista Balestre 3 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
@@ -1918,7 +1792,6 @@ Una volta al giorno puoi trasformare un 6 tirato dal Narratore (Tiri per Colpire
 Mentre esegui una Azione di Movimento puoi ridurre di 1 Azione il tempo di caricamento della tua balestra. In caso di Balestre Leggere od a una mano puoi puoi quindi ricaricarla mentre ti muovi, in caso di Balestre pesanti riduci di 1 Azione il tempo di caricamento.
 
 ## Specialista
-
 
 | **Requisito**: | Competenza Magica 3 |
 | --- | --- |
@@ -1930,7 +1803,6 @@ Scegli un incantesimo che conosci, i Punti Magia spesi per lanciare questo incan
 L'Abilità può essere presa più volte su incantesimi ogni volta diversi.
 
 ## Stai giu'!
-
 
 | **Requisito**: | Competenza Armi 3 |
 | --- | --- |
@@ -1944,7 +1816,6 @@ La **seconda volta** che prendi l'Abilità puoi influenzare anche creature di un
 La **terza volta** che prendi l'Abilità puoi influenzare anche creature di due taglie superiori. Il grado 3 non è cumulabile con il grado 2.
 
 ## Tattico
-
 
 | **Requisito**: | Competenza Armi 1, Intelligenza 1 |
 | --- | --- |
@@ -1965,7 +1836,6 @@ La **seconda volta** che prendi questa Abilità, requisito Intelligenza 2, Compe
 
 ## Tempesta di Furia
 
-
 | **Requisito**: | Lista Pugno Vuoto 7, Destrezza 1, Forza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
@@ -1976,7 +1846,6 @@ Quando usi questa Abilità puoi dichiarare di usare la Tempesta di Furia come tu
 Fai un unico Tiro per Colpire con -1d6 e se colpisci con il tuo attacco naturale causi un numero di danno critico pari a Lista Pugno Vuoto/4.
 
 ## Testa cava
-
 
 | **Requisito**: | Lista Balestre 4 |
 | --- | --- |
@@ -1989,7 +1858,6 @@ Il tuo dardo da balestra aumenta di una taglia di danno.
 
 ## Tiro Preciso
 
-
 | **Requisito**: | Destrezza 3, Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -2000,7 +1868,6 @@ Da vicino sai colpire dove fa male.
 Guadagni +1 al Tiro per Colpire ed al danno, con armi da lancio quando il bersaglio è entro 9 metri.
 
 ## Tiro Rapido
-
 
 | **Requisito**: | Destrezza 3, Tiro Preciso, Competenza Armi 2 |
 | --- | --- |
@@ -2017,7 +1884,6 @@ Il primo colpo ha un Tiro per Colpire normale, il secondo ha un -4, il terzo un 
 
 ## Toccata e fuga
 
-
 | **Requisito**: | Destrezza 1, Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -2027,7 +1893,6 @@ Se nel round esegui almeno un attacco questi hanno una penalità base di -5 e pu
 
 ## Tutt'uno con la magia
 
-
 | **Requisito**: | Adepto della Magia |
 | --- | --- |
 | **Tiri Salvezza**: | +1 in due Tiri Salvezza a propria scelta |
@@ -2036,7 +1901,6 @@ Se nel round esegui almeno un attacco questi hanno una penalità base di -5 e pu
 Il tuo modificatore di caratteristica per incantesimi ha un +1 al valore per determinare gli effetti dell'incantesimo, Punti Magia, incantesimi conosciuti e livello massimo di incantesimo lanciabile.
 
 ## Un braccio, un arma
-
 
 | **Requisito**: | Competenza Armi 2 |
 | --- | --- |
@@ -2051,7 +1915,6 @@ Se prendi **4 volte** questa Abilità sulla stessa Lista d'Armi il bonus al dann
 
 ## Un colpo un morto
 
-
 | **Requisito**: | Competenza Magica 1, Adepto della Magia 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Riflessi |
@@ -2063,7 +1926,6 @@ La **seconda volta** il bonus al Tiro per Colpire per Incantesimi diventa +1 per
 
 ## Un solo corpo, una sola mente, un solo spirito
 
-
 | **Requisito**: | nessuno |
 | --- | --- |
 | **Tiri Salvezza**: | +1 a scelta |
@@ -2072,7 +1934,6 @@ La **seconda volta** il bonus al Tiro per Colpire per Incantesimi diventa +1 per
 Assegnate un punto a Competenza Armi oppure Competenza Magica. Questa Abilità può essere presa al massimo 2 volte.
 
 ## Uno con l'arco
-
 
 | **Requisito**: | Competenza Armi 4 |
 | --- | --- |
@@ -2086,7 +1947,6 @@ La **prima volta** che prendi questa Abilità la penalità per scagliare proiett
 La **seconda volta** che prendi questa Abilità, Destrezza 3 e Competenza Armi 7, le penalità vengono annullate.
 
 ## Un solo credo
-
 
 | **Requisito**: | Competenza Magica 2 |
 | --- | --- |
@@ -2116,7 +1976,6 @@ La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, n
 - Se usi l'Abilità *Un solo credo* non puoi usare usare le Abilità di Lista .
 
 ## Volonta' Ferrea
-
 
 | **Requisito**: | Saggezza 0 |
 | --- | --- |

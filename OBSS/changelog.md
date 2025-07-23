@@ -926,7 +926,7 @@ aggiornata versione POD 2025/07/16
 
 aggiornata versione POD 2025/07/20
 
-1.0.6 aggiornata la prova di magia, corretti riferimento a prova di magia in liste d'armi scudi ed armature, il numero massimo di critici magici ottenibili dalla prova di magia è 3, rivisto layout incantesimi-mostri-abilita',
+1.0.6 aggiornata la prova di magia, corretti riferimento a prova di magia in liste d'armi scudi ed armature, il numero massimo di critici magici ottenibili dalla prova di magia è 3, rivisto layout incantesimi-mostri-abilita', migliorato layout,
 
 
 > valutare:
