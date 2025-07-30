@@ -290,7 +290,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Torch**. A torch burns for **1 hour of real game time**, providing light in a 3-meter radius and dim light for 6 meters. If you make an Attack Roll with a lit torch, improvised weapon, and hit, you deal 1d6 damage plus 1 additional fire damage but consume 10 minutes of its duration.
 
-2 Actions are required using Tinderbox to light a Torch, 1 Action if you light it from another already lit fire, otherwise a Survival check at DC 17 is required and it takes 1 minute.
+2 Actions are required using Tinderbox to light a Torch, 1 Action if you light it from another already lit fire, otherwise a Survival check at DC 17 is required and it takes 1 minute.. Three torch united will make a bonfire lasting 8 hours while shred light in 3 meter radius.
 
 **Bear Trap**. 12 gp, 2. You use two actions to set this trap, consisting of a toothed steel ring that snaps shut when a creature steps on the metal pressure plate in its center. The trap is fastened by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 15 Reflex Saving Throw or take 2d4 piercing damage and stop moving. A creature can use 2 actions to attempt a DC 15 Fortitude Saving Throw with Strength, and if they succeed, they free themselves or another creature within reach. Each failed attempt inflicts 1 piercing damage to the trapped creature.
 

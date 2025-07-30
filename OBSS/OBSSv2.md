@@ -14731,7 +14731,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 **Torcia**. Una torcia brucia per **1 ora di tempo di gioco reale**, fornendo luce in un raggio di 3 metri e luce fioca per 6 metri. Se effettui un Tiro per Colpire con una torcia accesa, arma improvvisata, e colpisci, infliggi 1d6 di danno più 1 danno da fuoco aggiuntivo ma consumi 10 minuti della sua durata.
 
-Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Azione se la accendi tramite un altro fuoco già acceso, altrimenti è necessaria una prova di Sopravvivenza a DC 17 e ci si impiega 1 minuto.
+Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Azione se la accendi tramite un altro fuoco già acceso, altrimenti è necessaria una prova di Sopravvivenza a DC 17 e ci si impiega 1 minuto.. Tre torce unite in una unica posso fare un fuoco da campo che brucia per 8 ore ed emette luce in un raggio di 3 metri.
 
 **Trappola da Caccia**. 12 mo, 2. Usi due azioni per disporre questa trappola, formata da un anello d'acciaio seghettato, che scatta quando una creatura calpesta la piastra metallica al centro di essa. La trappola è fissata tramite una catena pesante a un oggetto immobile, come un albero o uno spuntone conficcato nel terreno. Una creatura che calpesti la piastra deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1d4 danni perforanti e interrompere il movimento. Una creatura può usare 2 azioni per superare un Tiro Salvezza Tempra con Forza con DC 15, e se la riesce si libera o libera un'altra creatura a portata. Ogni tentativo fallito infligge 1 danno perforante alla creatura intrappolata.
 
