@@ -176,7 +176,7 @@ Nel Mostruario sono indicate le dimensioni e relativi spazi occupati dalle creat
 
 Per **distanza di Tocco**  si intende una distanza che permette il toccare l'avversario, quindi non più di un metro per creature di taglia media senza armi lunghe o con portata. La distanza di tocco è distanza di mischia qualora non si usino armi lunghe.
 
-Per **distanza di Mischia**  si intende una distanza che permette il combattimento corpo a corpo (entro 1 metro attorno al personaggio, oppure entro 2 metri in caso di arma lunga).
+Per **distanza di Mischia**  si intende una distanza che permette il combattimento corpo a corpo data la lunghezza della propria arma. L'area che può essere colpita attorno al personaggio viene chiamata anche **area di minaccia** (solitamente entro 1 metro attorno al personaggio, oppure entro 2 metri in caso di arma lunga).
 
 Nei mostri questa distanza è indicata dalla portata, per le armi da lancio è chiamata gittata.
 
@@ -715,12 +715,12 @@ Ogni contendente può attaccare l'altro afferrato con un arma piccola o armi nat
 
 Un personaggio può **attraversare** ma non sostare in **una zona occupata** da una creatura senza essere **ristretti**.
 
-Per attraversare il terreno dove c'è una creatura ostile è necessario eseguire una Prova Contrapposta su Atletica o Acrobatica contro Tiro Salvezza su Riflessi della creatura al quale si vuole **attraversare** il terreno, per ogni creatura attraversata oltre la prima la difficoltà aumenta di +2.
+Per attraversare il terreno, dove c'è una creatura ostile o che è in portata di attacco dalla creatura ostile che si passa a fianco, è necessario eseguire una Prova Contrapposta su Atletica o Acrobatica contro Tiro Salvezza su Riflessi della creatura al quale si vuole **attraversare** il terreno, ogni creatura attraversata oltre la prima cumula una difficoltà di +2.
 
-Costa 1 Azione (Riflessi) la prova per attraversare oltre all'Azione di Movimento. Il terreno occupato dalla creatura ostile si considera difficile. Il terreno non si considera difficile solo nel caso in cui la creatura sia di due o più taglie inferiori. In caso di Successo Critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per attraversare.
+Costa 1 Azione (Riflessi) la prova per attraversare, indipendentemente dal numero di creature, oltre all'Azione di Movimento. Il terreno occupato o minacciato dalla creatura ostile si considera difficile. Il terreno non si considera difficile solo nel caso in cui la creatura sia di due o più taglie inferiori. In caso di Successo Critico nella prova di Atletica o Acrobatica non si consuma l'Azione usata per Attraversare i nemici ma solo quella di movimento.
 
 Se si fallisce si rimane ne quadretto immediatamente precedente al nemico, con il rischio di essere ristretti . Si considera terminata sia l'Azione di Movimento che quella di oltrepassare.
-Se il nemico ha l'Abilità Opportunista oltre ad ostacolare il passaggio può eseguire un attacco (usando una Reazione).
+Se il nemico ha l'Abilità Opportunista oltre ad ostacolare il passaggio può eseguire un attacco, usando una Reazione.
 
 ### Fare cadere un avversario* 
 

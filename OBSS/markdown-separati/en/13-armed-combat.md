@@ -176,7 +176,7 @@ In the Monster Manual, the dimensions and relative spaces occupied by creatures 
 
 By **Touch distance**  we mean a distance that allows touching the opponent, so no more than one meter for medium-sized creatures without long weapons or with reach. Touch distance is melee distance if long weapons are not used.
 
-By **Melee distance**  we mean a distance that allows hand-to-hand combat (within 1 meter around the character, or within 2 meters in case of a long weapon).
+By **Melee distance**  we mean a distance that allows hand-to-hand combat. The area that can be hit around the character is also called the **threat area** (usually within 1 meter around the character, or within 2 meters in the case of a long weapon).
 
 In monsters, this distance is indicated by reach; for throwing weapons, it' \*\*s called range.
 
@@ -735,9 +735,9 @@ Each contestant can attack the other grappled with a small weapon or natural wea
 
 A character can **move through** but not stop in **a zone occupied** by a creature without being **restricted**.
 
-To move through the terrain where there is a hostile creature, it is necessary to perform an Opposed Check of Athletics or Acrobatics against a Reflex Saving Throw of the creature through whose terrain you want to **pass**; for each creature passed beyond the first, the difficulty increases by +2.
+To move through the terrain where there is a hostile creature or that is in the reach of attack by the hostile creature that you pass alongside, it is necessary to perform an Opposed Check of Athletics or Acrobatics against a Reflex Saving Throw of the creature through whose terrain you want to **pass**; each creature passed beyond the first, the difficulty increases by +2.
 
-It costs 1 Action (Reflex) for the check to pass through in addition to the Move Action. The terrain occupied by the hostile creature is considered difficult. The terrain is not considered difficult only if the creature is two or more size categories smaller. A Critical Success on the Athletics or Acrobatics check does not use up the action used to cross.
+It costs 1 Action (Reflex), regardless of the number of creatures, for the check to pass through in addition to the Move Action. The terrain occupied by the hostile creature is considered difficult. The terrain is not considered difficult only if the creature is two or more size categories smaller. In case of Critical Success on the Athletics or Acrobatics check the action used to move through  enemies is not consumed but only that of movement.
 
 If you fail, you remain in the square immediately preceding the enemy, with the risk of being restricted (page ). Both the Movement Action and the one to pass through are considered terminated.
 If the enemy has the Opportunist Feat, besides hindering the passage, they can make an attack (using a Reaction).
