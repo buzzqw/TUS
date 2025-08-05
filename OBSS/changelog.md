@@ -930,7 +930,7 @@ aggiornata versione POD 2025/07/20
 
 aggiornata versione POD 2025/07/23
 
-1.0.7 note su come fare un fuoco da campo, chiarimenti su attraversare zone occupate da nemici, chiarimenti su area di minaccia,
+1.0.7 note su come fare un fuoco da campo, chiarimenti su attraversare zone occupate da nemici, chiarimenti su area di minaccia, ottimizzato indice,
 
 
 > valutare:
