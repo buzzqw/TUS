@@ -71,3 +71,19 @@ Buon Divertimento e Buon Gioco!
 Andres
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)  [![Github All Releases](https://img.shields.io/github/downloads/buzzqw/TUS/total.svg)]() 
+
+---
+
+Some random pages from manual
+
+![_imma-415](https://github.com/user-attachments/assets/48c9977a-2b35-4d98-8c67-55c9249e016b)
+![_imma-215](https://github.com/user-attachments/assets/6213cc7d-34bd-4175-835c-738e352ddc58)
+![_imma-122](https://github.com/user-attachments/assets/f9af327e-bdbf-4094-a7f0-49e9d05c6940)
+![_imma-085](https://github.com/user-attachments/assets/5a4f26ec-6ca5-4553-afd4-76131d3fb22b)
+![_imma-057](https://github.com/user-attachments/assets/a5eb3f23-d237-4ed8-b2fb-944dd4587402)
+![_imma-054](https://github.com/user-attachments/assets/b0a0da02-a8ee-4119-8ff7-6262e9c10d7d)
+![_imma-047](https://github.com/user-attachments/assets/61715c9a-86c8-419f-ae7d-5c9d8774f88f)
+![_imma-046](https://github.com/user-attachments/assets/6dc8f88c-66b5-4770-b0c1-b608d579e247)
+
+
+
