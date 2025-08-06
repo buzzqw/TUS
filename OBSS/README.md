@@ -80,10 +80,10 @@ Some random pages from manual
 ![_imma-215](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-215.jpg)
 ![_imma-122](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-122.jpg)
 ![_imma-085](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-085.jpg)
-![_imma-057](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-057.jpg)
 ![_imma-054](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-054.jpg)
-![_imma-047](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-047.jpg)
+![_imma-057](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-057.jpg)
 ![_imma-046](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-046.jpg)
+![_imma-047](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-047.jpg)
 
 
 
