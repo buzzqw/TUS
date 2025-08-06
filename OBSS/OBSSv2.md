@@ -1878,7 +1878,7 @@ Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi 
 | --- | --- |
 | Movimento solo dimezzato | -2d6 |
 | Superficie scivolosa | +4 |
-| { Parete grezza con appigli, mattoni sporgenti} | +12 |
+| {\resizedown} | +12 |
 | Un albero, una corda senza nodi | +15 |
 | Un muro con pochi mattoni sporgenti | +20 |
 | Un muro con pochissimi appigli | +25 |
@@ -2165,7 +2165,7 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 | Sfondare una porta a spallate/calci | 1 |
 | Forzare porta con piede di porco | 2 |
 | Cercare qualcosa nello zaino | 2 |
-| { Prendere qualcosa dalla cintura o di pronto} | 1 |
+| \resizedown | 1 |
 | Usare un oggetto tenuto in mano | 1 |
 | Bere una pozione tenuta in mano | Imm. |
 | Fare bere una pozione ad un altro | 2 |
@@ -25415,6 +25415,17 @@ Ambiente: Paludi
 Organizzazione: gruppo
 | **Categoria Tesoro**: Accidentale |
 | **Descrizione** |
+
+"..Smossi le foglie dell'acquitrino e vidi a terra una strana palla di pelo, di circa dieci centimetri di diametro, di colore chiaro. Incuriosito lo raccolsi, accarezzando il suo pelo soffice e lo scrutai con attenzione. Sembrava non avere arti o segni di possedere un muso con occhi, orecchie, bocca, ma non appena lo accarezzai la palla vibrò, emettendo uno squittio.
+
+Finalmente scorsi due occhietti neri e vispi aprirsi in tutto quel pelo e poi due orecchiette tonde spuntare, quindi due zampette corte ma robuste, adatte al salto, appoggiate a terra e altre due, sempre corte ma dotate di ben cinque dita ognuna, a mezza altezza.
+
+- Dobi! - rispose l'animaletto, esprimendo una sorta di gioia ed entusiasmo. - Dobi dobi! -.
+
+- Che carino! - esclamai, accarezzandolo. Era l'animaletto più tenero che avessi mai visto. - Ora però ti rimetto giù -.
+
+- Dobi - rispose la palla di pelo.
+Portai a terra la mano, ma l'animale non si mosse. Provai a staccarmelo dalla mano, ma rimase appiccicato all'altra. Lo presi con due dita, tirando forte e lo appoggiai veloce a terra, ma subito mi saltò sul piede e vi rimase attaccato. Dovetti attraversare l'acquitrino con il dobi attaccato al piede, senza contare gli altri quattro che trovai avvinghiati all'armatura."
 
 Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 

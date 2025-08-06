@@ -2156,7 +2156,7 @@ The character who executes an Attack Action and Casts a Spell in the same round 
 | Break down a door with shoulder/kicks | 1 |
 | Force a door with a crowbar | 2 |
 | Search for something in a backpack | 2 |
-| { Take something from belt or readily available} | 1 |
+| \resizedown | 1 |
 | Use an item held in hand | 1 |
 | Drink a potion held in hand | Imm. |
 | Give a potion to someone else | 2 |
