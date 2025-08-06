@@ -932,6 +932,10 @@ aggiornata versione POD 2025/07/23
 
 1.0.7 note su come fare un fuoco da campo, chiarimenti su attraversare zone occupate da nemici, chiarimenti su area di minaccia, ottimizzato indice, migliorato colore titoletti, aggiunte immagini di esempio libro, ottimizzato uso \small
 
+aggiornata versione POD 2025/08/06
+
+1.0.8
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
