@@ -35,3 +35,18 @@ Trovi il materiale in [pages](https://buzzqw.github.io/OBSS-Pages/) o in [Wiki](
 
 Andres Zanzani
 
+---
+
+
+Some random pages from OBSS manual
+
+![_imma-415](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-415.jpg)
+![_imma-215](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-215.jpg)
+![_imma-122](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-122.jpg)
+![_imma-085](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-085.jpg)
+![_imma-054](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-054.jpg)
+![_imma-057](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-057.jpg)
+![_imma-046](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-046.jpg)
+![_imma-047](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-047.jpg)
+
+
