@@ -164,7 +164,7 @@ Come Umano \hyperlinkdiversoDiverso, Tups prende +1 in Costituzione e +1 in Inte
 
 ## Aumentare le Caratteristiche
 
-Le Abilità hanno tutte segnate due ***Caratteristiche Potenziata***, quando segnate l'Abilità nella scheda sceglietene una sola. Ogni 4 Abilità che potenziano la medesima Caratteristica questa aumenta di 1 il suo valore.
+Le Abilità hanno tutte segnato un elemento ***Caratteristica***: quando segnate l'Abilità nella scheda scegliete una sola delle Caratteristiche indicate. Ogni 4 Abilità che potenziano la medesima Caratteristica questa aumenta di 1 il suo valore.
 
 Per aumentare la Caratteristica oltre a 4 sono necessari oggetti magici o incantesimi. L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costituzione, andando a ripercuotersi sui Punti Ferita massimi.
 

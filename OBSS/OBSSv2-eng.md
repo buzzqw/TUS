@@ -2,17 +2,15 @@
 
 ---
 
-Dedicated to the only Woman I' \*\*ve ever loved, the one who accompanies me in my dreams every day
-
-Never give up on your desires, persevere until you make them real.
-
-> Do not fear the unknown, face it with respect.
-
----
-
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall' \*\*Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
 **Old Bell School System - OBSS - Fantasy Adventure Game**
+
+---
+
+Dedicated to the only Woman I' \*\*ve ever loved, the one who accompanies me in my dreams every day
+
+Never give up on your desires, persevere until you make them real.
 
 ---
 
@@ -462,6 +460,10 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 - *Excellent Senses (hearing, sight, smell...)* (dog, bat, owl). You have a +2 bonus to Awareness checks based on senses. If you choose this capability twice, the bonus becomes +1d6.
 
 - *Flying* (bat, eagle, owl, raven). You have rudimentary wings. When you fall from at least 3 meters, you can use a Reaction to glide and land safely, like the Feather Fall spell (page ), without suffering fall damage. When you perform a Long Jump or High Jump check, you roll 1d6 more. If you choose this capability twice, you can fly for (MP+WP)/3 minutes, at minimum intervals of 1 minute, per day.
+
+### Evolving Advantages
+
+The Sornelian character can use a Feat taken when leveling up to take the evolution of the Advantage already taken or, if consistent with the animal, another Advantage.
 
 ## Golian
 

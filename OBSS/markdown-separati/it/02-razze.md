@@ -250,6 +250,10 @@ Un Sornelian quasi mai nasce quale figlio di due Sornelian bensì è una spontan
 
 - *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma , senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
 
+### Migliorare i Vantaggi
+
+Il personaggio Sornelian può utilizzare una Abilità presa al passaggio di Livello per prendere l'evoluzione del Vantaggio già preso o se coerente con l'animale un altro Vantaggio.
+
 ## Golian
 
 I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil  e Gaya  ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.

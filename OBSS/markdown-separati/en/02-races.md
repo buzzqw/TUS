@@ -250,6 +250,10 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 
 - *Flying* (bat, eagle, owl, raven). You have rudimentary wings. When you fall from at least 3 meters, you can use a Reaction to glide and land safely, like the Feather Fall spell (page ), without suffering fall damage. When you perform a Long Jump or High Jump check, you roll 1d6 more. If you choose this capability twice, you can fly for (MP+WP)/3 minutes, at minimum intervals of 1 minute, per day.
 
+### Evolving Advantages
+
+The Sornelian character can use a Feat taken when leveling up to take the evolution of the Advantage already taken or, if consistent with the animal, another Advantage.
+
 ## Golian
 
 The Golians, like the Sornelians, descend from the will of the Patrons Erondil (page ) and Gaya (page ), that is, from the desire to have creatures that could represent the majestic giants, their little children.

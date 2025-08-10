@@ -78,8 +78,6 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 
 **Tabella: Azioni per Round**
 
-	
-
 | **Cosa si fa** | **Azioni** |
 | --- | --- |
 | Eseguire un attacco | 1 |
@@ -97,7 +95,7 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 | Sfondare una porta a spallate/calci | 1 |
 | Forzare porta con piede di porco | 2 |
 | Cercare qualcosa nello zaino | 2 |
-| { Prendere qualcosa dalla cintura o di pronto} | 1 |
+| Prendere qualcosa dalla cintura o di pronto | 1 |
 | Usare un oggetto tenuto in mano | 1 |
 | Bere una pozione tenuta in mano | Imm. |
 | Fare bere una pozione ad un altro | 2 |
@@ -109,7 +107,7 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 | Riconoscere un Incantesimo | R |
 | Usare un oggetto magico | 2 |
 | Scambiare un dialogo con qualcuno | 3* |
-| Scambiare poche battute con qualcuno | 0* |
+| Scambiare poche battute | 0* |
 | Preparare la Difesa | 1 |
 | Difesa Totale | 2 |
 | Disingaggiare | 1 |

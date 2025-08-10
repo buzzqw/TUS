@@ -2,17 +2,15 @@
 
 ---
 
-Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni
-
-Mai rinunciare ai tuoi desideri, persevera fino a renderli reali.
-
-> Non temere l'ignoto, affrontalo con rispetto.
-
----
-
 **Playtesting**: Federica Angeli, Simona Bissi, Fabrizio Bonetti, Francesco Converso, Carlo Dall'Ara, Lucia Dolcini, Michele Faedi, Dario Galassi, Micaela Gramellini, Stefano Mannino, Samuele Mazzotti, Emanuele Pezzi, Leonardo Pezzi, Gian Luca Fava, Nicola Ricottone, Marco Valmori, Edoardo Zanzani, Isotta Zanzani, SicuramenteNonMirko,
 
 **Old Bell School System - OBSS - Fantasy Adventure Game**
+
+---
+
+Dedicato all'unica Donna mai amata, colei che ogni giorno mi accompagna nei sogni
+
+Mai rinunciare ai tuoi desideri, persevera fino a renderli reali.
 
 ---
 
@@ -479,6 +477,10 @@ Un Sornelian quasi mai nasce quale figlio di due Sornelian bensì è una spontan
 
 - *Volante* (pipistrello, aquila, gufo, corvo). Hai ali rudimentali. Quando cadi da almeno 3 metri puoi usare una Reazione per planare ed atterrare in sicurezza, come incantesimo Caduta Piuma , senza subire danni da caduta. Quando esegui una prova di Salto in Lungo o in Alto tiri 1d6 in più. Se scegli due volte questa capacità puoi volare per (CM+CA)/3 minuti, ad intervalli minimi di 1 minuto, al giorno.
 
+### Migliorare i Vantaggi
+
+Il personaggio Sornelian può utilizzare una Abilità presa al passaggio di Livello per prendere l'evoluzione del Vantaggio già preso o se coerente con l'animale un altro Vantaggio.
+
 ## Golian
 
 I Golian, al pari dei Sornelian, discendono dalla volontà dei Patroni Erondil  e Gaya  ovvero dal desiderio di avere delle creature che potessero rappresentare i maestosi giganti, i loro piccoli figli.
@@ -788,7 +790,7 @@ Come Umano \hyperlinkdiversoDiverso, Tups prende +1 in Costituzione e +1 in Inte
 
 ## Aumentare le Caratteristiche
 
-Le Abilità hanno tutte segnate due ***Caratteristiche Potenziata***, quando segnate l'Abilità nella scheda sceglietene una sola. Ogni 4 Abilità che potenziano la medesima Caratteristica questa aumenta di 1 il suo valore.
+Le Abilità hanno tutte segnato un elemento ***Caratteristica***: quando segnate l'Abilità nella scheda scegliete una sola delle Caratteristiche indicate. Ogni 4 Abilità che potenziano la medesima Caratteristica questa aumenta di 1 il suo valore.
 
 Per aumentare la Caratteristica oltre a 4 sono necessari oggetti magici o incantesimi. L'aumento di Caratteristica ha effetto retroattivo solo per gli aumenti di Costituzione, andando a ripercuotersi sui Punti Ferita massimi.
 

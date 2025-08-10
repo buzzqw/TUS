@@ -224,7 +224,7 @@ Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi 
 | --- | --- |
 | Movimento solo dimezzato | -2d6 |
 | Superficie scivolosa | +4 |
-| { Parete grezza con appigli, mattoni sporgenti} | +12 |
+| {\resizedown} | +12 |
 | Un albero, una corda senza nodi | +15 |
 | Un muro con pochi mattoni sporgenti | +20 |
 | Un muro con pochissimi appigli | +25 |
