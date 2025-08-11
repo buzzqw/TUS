@@ -46,3 +46,32 @@ OBSS/temp/OBSSv2-mon-perc.fdb_latexmk
 OBSS/temp/OBSSv2-noimage.fdb_latexmk
 OBSS/out
 OBSS/.idea
+Dark Catacomb/backup/
+OBSS/backup/
+Dark Catacomb/dadi.md
+Dark Catacomb/dice_probability_latex.pdf
+Dark Catacomb/dice_probability_latex.tex
+Dark Catacomb/dice2.pdf
+Dark Catacomb/dice2.tex
+OBSS/biblio.sh
+OBSS/caricagit-lavoro-chiedi.sh
+OBSS/caricagit-lavoro.sh
+OBSS/clean-compile.sh
+OBSS/clean.sh
+OBSS/convertim2.sh
+OBSS/document.pdf
+OBSS/document.tex
+OBSS/latex_spell_converter.py
+OBSS/OBSSv2_old_gold.tex
+OBSS/OBSSv2-blx.bib
+OBSS/OBSSv2-eng (copia 1).tex
+OBSS/OBSSv2-eng_old_gold.tex
+OBSS/OBSSv2-eng-blx.bib
+OBSS/OBSSv2-eng-provadimagiadadi.tex
+OBSS/OBSSv2-provadimagiadadi.tex
+OBSS/optpdf.sh
+OBSS/pages (copia 1).py
+OBSS/preambolo-con-sfondo-footer.tex
+OBSS/pulisci.sh
+OBSS/texstudio-AppImage.sh
+OBSS/texstudio-deb.sh
