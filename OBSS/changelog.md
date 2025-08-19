@@ -934,7 +934,7 @@ aggiornata versione POD 2025/07/23
 
 aggiornata versione POD 2025/08/06
 
-1.0.8 migliorato layout, piccoli chiarimenti a migliorare una caratteristica, aggiunte regoleper migliorare vantaggi sornelian,
+1.0.8 migliorato layout, piccoli chiarimenti a migliorare una caratteristica, aggiunte regoleper migliorare vantaggi sornelian, migliorie al layout,
 
 
 > valutare:
