@@ -203,9 +203,9 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 > Example of a box containing a quotation or motivational phrase
 
->> **Information for the Player**: Box containing indications and clarifications for the Player.
+>> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$
 
->>> **Information for the Narrator**: Box containing indications and suggestions for the Narrator
+>>> **Information for the Narrator**: Box containing indications and suggestions for the Narrator. Recognizable by the icon
 
 ---
 
@@ -18492,8 +18492,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 ### Manuals, Tomes and Scrolls
 
-| **3d6** | **Scroll Rarity** | **Pages on Scroll** |
-|---|---|---|
+| **3d6** | **Scroll Rarity** | **Spells on Scroll** |
 | 3-11 | Common | 1d4 |
 | 12-13 | UnCommon | 1d6 |
 | 14-16 | Rare | 1d8 |

@@ -219,9 +219,9 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 > Esempio di box contenente una citazione o frase motivazionale
 
->> **Informazioni per il Giocatore**: Box contenente indicazioni e chiarimenti per il Giocatore.
+>> **Informazioni per il Giocatore**: Box contenente indicazioni e chiarimenti per il Giocatore. Riconoscibile dall'icona $\dagger$
 
->>> **Informazioni per il Narratore**: Box contenente indicazioni e suggerimenti per il Narratore.
+>>> **Informazioni per il Narratore**: Box contenente indicazioni e suggerimenti per il Narratore. Riconoscibile dalla icona {
 
 ---
 
@@ -5486,7 +5486,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 
 **Paladino Tradizionale**
 
-| 	**Lv** | **Paladino Tradizionale** |  |  | **Abilità** |
+| 	**Lv** | **Paladino Trad.** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
@@ -11174,14 +11174,14 @@ In caso l'incantesimo venisse dissolto, sia la scritta originale che l'illusione
 Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo stesso piano di esistenza. Il bersaglio deve effettuare un Tiro Salvezza su Volontà, modificato da quanto bene conosci il bersaglio e la tua connessione fisica a esso. Se il bersaglio sa che stai lanciando l'incantesimo, può fallire volontariamente il Tiro Salvezza, in caso desiderasse essere osservato da
 te.
 
+	
+
 | **Conoscenza** | **Mod. al TS** |
 | --- | --- |
 | Ne hai sentito parlare | +4 |
 | Hai incontrato il bersaglio | +0 |
 | Conosci bene il bersaglio | -4 |
-
 | **Connessione** | **Mod. TS** |
-| --- | --- |
 | Descrizione o immagine | -2 |
 | Proprietà o indumento | -4 |
 | Parte del corpo (capelli...) | -10 |
@@ -13763,7 +13763,10 @@ Calicante, preso dall'orrore alla vista di un Patrono così fatto, lo privò del
 - **Somma dei Tratti in comune a 2 punti** punti: Il tocco della tua spada é vita. Una creatura toccata con la tua arma recupera 3d6 Punti Ferita. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 7 punti**: La tua Volontà é più forte del metallo. Guadagni un +2 ai Tiri Salvezza su Volontà
 - **Somma dei Tratti in comune a 11 punti**: Puoi lanciare l'incantesimo Cono di Freddo, 40 danni da Elettricità. DC 25 per dimezzare. Una volta al giorno. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 15 punti**: Sacrifichi la tua vita per portare in vita una creatura morta da non più di 1 settimana. Una volta. Costo 3 Azioni.
+
+| - **Somma dei Tratti in comune a 15 punti**: Sacrifichi la tua vita per portare in vita una creatura morta da non più di 1 settimana. Una volta. Costo 3 Azioni. |
+| --- |
+
 **Nota**: Sumkjr è l'unico Patrono a concedere benefici per una somma Tratti minore del normale
 - **Energia/B**: Energia Positiva, Elettricità
 - **Vantaggio**: +1 a tutti i Tiri Salvezza
@@ -13955,7 +13958,7 @@ Laydel: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arro
 
 Tàhil: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
-> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. Iliade, Omero.
+> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare.(Iliade, Omero)
 
 ---
 
@@ -14009,8 +14012,6 @@ I mercanti di solito scambiano merci anche senza l'uso di monete.
 Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono descritte nella tabella.
 
 **Tabella: Esempi altre ricchezze**
-
-	
 
 | **Costo** | **Oggetto** |
 |---|---|
@@ -14097,8 +14098,6 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
 
 **Tabella: Lista dei proiettili - Archi - Balestre - Fionde**
-
-	
 
 | **Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
 | --- | --- | --- |
@@ -14519,7 +14518,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 | **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
-| Boccetta di inchiostro o pozione | 1 mo | L |
+| Boccetta di inchiostro | 1 mo | L |
 | Borsa | 5 ma | L |
 | Alchimista (laboratorio) | 200 mo | 5 |
 | Borsa da cintura | 1 mo | L |
@@ -18348,7 +18347,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 ### Manuali, Tomi e Pergamene
 
-| **3d6** | **Rarita' Pergamena** | **Pagine della Pergamena** |
+| **3d6** | **Rarita' Pergamena** | **Inc. sulla Pergamena** |
 | 3-11 | Comune | 1d4 |
 | 12-13 | Non Comune | 1d6 |
 | 14-16 | Rara | 1d8 |
@@ -22518,7 +22517,7 @@ Questi i nomi dei mesi a partire da quello che si definisce inizio anno:
 
 12°) Kartan (stagione: primavera)
 
-*Raanant* è il mese che si festeggia alla fine del Ciclo secolare, ogni cento anni. E' un mese di libertà dai Patroni, dalle Leggi, è il mese della catarsi e della violenza, della libertà e della rinascita.
+*Raanant* è il mese che si festeggia alla fine del Ciclo secolare, ogni cento anni. E' un mese di libertà dai Patroni, dalle Leggi, è il mese della catarsi e della violenza, della libertà e della rinascita. Al termine del mese si passa a Ianas.
 
 Un ciclo di sette giorni, settimana, è composta da giorni di nome:
 
