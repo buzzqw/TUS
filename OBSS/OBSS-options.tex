@@ -1,163 +1,412 @@
 \documentclass[a4paper,twoside,openany]{book}
-\usepackage{quoting}
-\usepackage{tcolorbox}
-\usepackage{tikz}
-\usetikzlibrary{shadows}
-\usepackage{multicol}
-\usepackage{tocloft}
-\usepackage{lmodern}
-\usepackage{caption}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{setspace}
-\usepackage[a4paper]{geometry}
-\geometry{verbose,tmargin=2cm,bmargin=2cm,lmargin=2cm,rmargin=2cm} %std
-\setcounter{secnumdepth}{-1}
-\usepackage{booktabs}
-\usepackage{url}
+
+% ========== CONFIGURAZIONE GEOMETRIA ==========
+\usepackage[a4paper,margin=2cm]{geometry}
+
+% ========== PACCHETTI LINGUISTICI E CODIFICA ==========
 \usepackage[italian]{babel}
+\usepackage[italian=guillemets]{csquotes}
+\usepackage{hyphenat}
+\hyphenation{
+	mate-mati-ca
+	re-cu-pe-ra-re
+	com-pe-ten-za
+	intel-li-gen-za
+	cara-tte-ri-sti-che
+	abi-li-tà
+	in-can-te-si-mo
+	at-tac-co
+	di-fe-sa
+	per-so-nag-gio
+	av-ven-tu-ra
+	espe-rien-za
+	equi-pag-gia-men-to
+}
+
+% ========== PACCHETTI GRAFICI E COLORI ==========
+\usepackage{xcolor}
+
+% Definizione colori del tema OBSS
+\definecolor{OBSSnavyblue}{RGB}{0,0,128}
+\definecolor{OBSSprussia}{RGB}{0, 49, 83}
+\definecolor{OBSSblue}{RGB}{30,84,131}
+\definecolor{OBSSgold}{RGB}{255,215,0}
+\definecolor{OBSSpurple}{RGB}{88,57,131}
+\definecolor{lightgray}{gray}{0.95}
+\definecolor{LightCyan}{RGB}{0,191,255}
+\definecolor{SlateGray}{RGB}{112,128,144}
+\definecolor{Lavender}{RGB}{230,230,250}
+\definecolor{Coral}{RGB}{255,127,80}
+\definecolor{Tan}{RGB}{210,180,140}
+\definecolor{LightGreen}{RGB}{34,139,34}
+\definecolor{Mauve}{RGB}{221,160,221}
+
+% ========== PACCHETTI TIPOGRAFICI ==========
+\usepackage{fontspec}
+\setmainfont{AtkinsonHyperlegibleNext-Regular.ttf}[
+Path=./fonts/,
+BoldFont=AtkinsonHyperlegibleNext-Bold.ttf,
+ItalicFont=AtkinsonHyperlegibleNext-RegularItalic.ttf,
+BoldItalicFont=AtkinsonHyperlegibleNext-BoldItalic.ttf,
+Ligatures=TeX
+]
+
+\usepackage{microtype}
+% microtype migliora la qualità tipografica
+
+% ========== PACCHETTI LAYOUT E SPAZIATURA ==========
 \usepackage{setspace}
-\usepackage{graphicx}
-\usepackage{amssymb}
-\usepackage{makeidx}
-\usepackage{multirow}
-%\usepackage[allfiguresdraft]{draftfigure} %senza figure, deve rimanere alla riga 24
-\usepackage{titlesec}
-\usepackage[unicode=true, bookmarks=true, pdftitle={OBSS}, pdfsubject={Gioco di Ruolo per Avventure Incredibili}, pdfauthor={Andres Zanzani}, breaklinks=false,pdfborder={0 0 1},backref=section,colorlinks=false]
-{hyperref}
-\hypersetup{colorlinks=true,linkcolor=blue,pdfcreator={LaTeX}}
-\usepackage{bookmark}
-\usepackage{yfonts}
-\usepackage{lettrine}
-\usepackage{calligra}
 \usepackage{ragged2e}
+\usepackage{quoting,enumitem}
+
+% ========== PACCHETTI MATEMATICI E SCIENTIFICI ==========
+\usepackage{amssymb,siunitx}
+
+% ========== PACCHETTI TABELLE ==========
+\usepackage{booktabs,multirow,array}
+\usepackage{xltabular,tabularx}
+\usepackage{colortbl}
+\usepackage{hhline,lettrine}
+\usepackage{multicol,array}
+
+% ========== PACCHETTI GRAFICI E FIGURE ==========
+\usepackage{graphics,adjustbox,svg}
+\usepackage{caption}
 \usepackage{wrapfig}
-\usepackage{fancyhdr}
+\usepackage{tikz}
+\usetikzlibrary{shadows,shapes.misc,calc}
+
+% ========== PACCHETTI BOX E CORNICI ==========
 \usepackage{tcolorbox}
-\tcbuselibrary{skins}
+\tcbuselibrary{skins,breakable,theorems}
+\usepackage[framemethod=TikZ]{mdframed}
+
+% ========== PACCHETTI BIBLIOGRAFIA E INDICI ==========
+\usepackage[backend=bibtex]{biblatex}
+\addbibresource{bibliografia.bib}
+\usepackage{makeidx,imakeidx}
+
+% ========== PACCHETTI VARI ==========
+\usepackage{soul}
+\usepackage{pdfpages}
+\usepackage{etoolbox}
+\usepackage[absolute,overlay]{textpos}
+\usepackage{url}
+\def\UrlBreaks{\do\/\do-\do_\do.\do:\do=\do&}
+\usepackage{varioref}
+\usepackage{fontawesome5}
+
+
+% ========== CONFIGURAZIONI GENERALI ==========
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{3}
+\raggedbottom
+\sloppy
+\DeclareMathSizes{11}{11}{8}{6}
+
+% Configurazione XeTeX per l'italiano
+\XeTeXlinebreaklocale "it"
+\XeTeXlinebreakskip = 0pt plus 1pt
+
+% ========== CONFIGURAZIONE TCOLORBOX ==========
 \tcbset{colback=brown!10, fonttitle=\scshape}
-\usepackage{imakeidx}
-\usepackage{cancel}
+
+% ========== CONFIGURAZIONE INDICI ==========
+% Macro per contare le occorrenze negli indici
 \def\CountIndexOccurrences#1{%
-	\expandafter\newcount\csname #1\endcsname%
 	\expandafter\newcount\csname #1\endcsname%
 	\def\indexentry##1##2{\expandafter\advance\csname #1\endcsname 1}%
 	\IfFileExists{#1.idx}{\input{#1.idx}}{}%
 }
+
+% Inizializzazione contatori indici
 \CountIndexOccurrences{OBSSv2}
 \CountIndexOccurrences{Incantesimi}
 \CountIndexOccurrences{Mostruario}
 \CountIndexOccurrences{Tabelle}
 \CountIndexOccurrences{OggettiMagici}
+\CountIndexOccurrences{Abilita}
+
+% Macro per visualizzare il totale delle voci
 \def\TotalBox#1{\vfill%
 	\fbox{Ci sono \expandafter\the\csname #1\endcsname\ voci in questo indice}\par}
-\makeindex[columns=4, title=Indice Analitico, intoc=true]
-\makeindex[columns=3, name=Tabelle, title=Lista delle Tabelle, intoc=true]
-\makeindex[columns=4, name=Incantesimi, title=Lista degli Incantesimi, intoc=true]
-\makeindex[columns=4, name=Mostruario, title=Lista dei Mostri, intoc=true]
-\makeindex[columns=3, name=OggettiMagici, title=Lista degli Oggetti Magici, intoc=true]
-\usetikzlibrary{shapes.misc,calc}
-\definecolor{lightgray}{gray}{0.95}
-\usetikzlibrary{shapes.misc,calc}
-\definecolor{lightgray}{gray}{0.95}
+
+% Creazione degli indici
+\makeindex[columns=1, title=Indice Analitico, intoc=true]
+\makeindex[columns=1, name=Tabelle, title=Elenco delle Tabelle, intoc=true]
+\makeindex[columns=1, name=Incantesimi, title=Elenco degli Incantesimi, intoc=true]
+\makeindex[columns=1, name=Mostruario, title=Elenco dei Mostri, intoc=true]
+\makeindex[columns=1, name=OggettiMagici, title=Elenco degli Oggetti Magici, intoc=true]
+\makeindex[columns=1, name=Abilita, title=Elenco delle Abilità, intoc=true]
+
+% ========== CONFIGURAZIONE INTESTAZIONI ==========
+
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\leftmark}
-\fancyhead[RE,LO]{}
 \fancyfoot[C]{\thepage}
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\usepackage{GoudyIn}
+
 \fancypagestyle{plain}{%
-	%% Clear all headers and footers
 	\fancyhf{}
-	%% Right headers on odd pages
 	\fancyhead[RO]{%
 		\rotatebox{90}{
 			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
+				\node[
+				fill=lightgray,
+				text=black,
 				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-21mm, text height=0.4cm]
-				at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
+				inner ysep=12pt,
+				inner xsep=20pt,
+				rounded rectangle,
+				anchor=east,
+				minimum width=7cm,
+				xshift=-60mm,
+				yshift=-21mm,
+				text height=0.4cm
+				] at ($ (current page.north east) + (-1cm,-0cm) + (-4*\thesection cm,0cm) $)
 				{\sffamily\itshape\small\nouppercase{\leftmark}};
 			\end{tikzpicture}
 		}
 	}
-	%% Left headers on even pages
 	\fancyhead[LE]{%
 		\rotatebox{90}{
 			\begin{tikzpicture}[overlay,remember picture]
-				\node[fill=lightgray,text=black,
+				\node[
+				fill=lightgray,
+				text=black,
 				font=\footnotesize,
-				inner ysep=12pt, inner xsep=20pt,
-				rounded rectangle,anchor=east,minimum width=7cm,
-				xshift=-60mm,yshift=-4mm, text height=0.4cm]
-				at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
+				inner ysep=12pt,
+				inner xsep=20pt,
+				rounded rectangle,
+				anchor=east,
+				minimum width=7cm,
+				xshift=-60mm,
+				yshift=-4mm,
+				text height=0.4cm
+				] at ($ (current page.north west) + (1cm,0cm) + (-4*\thesection cm,0cm) $)
 				{\sffamily\itshape\small\nouppercase{\leftmark}};
 			\end{tikzpicture}
-	} }
+		}
+	}
 	\renewcommand{\headrulewidth}{0pt}
 	\renewcommand{\footrulewidth}{0pt}
+	\fancyfoot[C]{\thepage}
 }
 \pagestyle{plain}
-\fancyfoot[C]{\thepage}
-\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
-\usepackage{xltabular}
-\usepackage{tabularx}
-\usepackage{pdfpages}
-\usepackage{hyperref}
-\usepackage[absolute,overlay]{textpos}
-\usepackage{etoolbox}
-\usepackage{soul}
-\raggedbottom
-\usepackage{array}
-\usepackage{longtable}
-\newcolumntype{k}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
-\newcolumntype{D}[1]{>{\centering}m{#1}}
-\newcolumntype{M}[1]{>{\centering\arraybackslash}m{#1}}
+
+% ----- DEFINIZIONI PER MARGINI -----
 \def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
 \let\endchangemargin=\endlist
-\setcounter{tocdepth}{3}
-\newtcolorbox{narratore}{
-	enhanced, % enable advanced settings
-	%left = 3mm,
-	%width=0.45\textwidth,
-	left = 9mm, % pushes text away from the left edge by 10mm
-	sharp corners, % disables rounded corners
-	rounded corners = southeast, % "round" the bottom right corner
-	arc is angular, % make the "round" corner an angle
-	arc = 3mm, % controls corner cut
-	boxrule=0.6pt, % sets box line thickness
-	underlay={%
-		\path[fill=black] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle
-		\path[draw=black,shorten <=-0.05mm,shorten >=-0.05mm] ([yshift=3mm]interior.south east)--++(-0.4,-0.1)--++(0.1,-0.2); % triangle edge
-		\path[fill=gray!50!black,draw=none] (interior.south west) rectangle node[brown!10]{\Huge\bfseries ?!} ([xshift=8mm]interior.north west);
+
+% ========== CONFIGURAZIONE TITOLI ==========
+\usepackage{titlesec}
+
+\titleformat{\chapter}[display]
+{\normalfont\Huge\bfseries\sffamily\color{OBSSnavyblue}}
+{\textcolor{OBSSnavyblue}{\chaptertitlename\ \thechapter}}
+{2ex}
+{\centering}
+
+\titleformat{\section}
+{\normalfont\Large\bfseries\sffamily\color{OBSSnavyblue}}
+{\thesection}
+{1em}
+{}
+[\textcolor{OBSSgold}{\titlerule[0.8pt]}]
+
+\titleformat{\subsection}
+{\normalfont\large\bfseries\sffamily\color{OBSSnavyblue}}
+{\thesubsection}
+{1em}
+{}
+
+\titlespacing{\chapter}{0pt}{0pt}{20pt}
+\titlespacing{\section}{0pt}{10pt}{5pt}
+\titlespacing{\subsection}{0pt}{8pt}{4pt}
+\titlespacing{\subsubsection}{0pt}{6pt}{3pt}
+
+% ========== AMBIENTI PERSONALIZZATI ==========
+\newtcolorbox{narratore}[1][Narratore]{
+	enhanced,
+	colback=OBSSblue!8,
+	colframe=OBSSblue,
+	boxrule=1.2pt,
+	arc=4mm,
+	drop shadow={shadow xshift=1mm, shadow yshift=-1mm, opacity=0.4, shadow scale=1.05},
+	title={\textbf{\textcolor{white}{\large \faBook} #1}},
+	fonttitle=\sffamily\bfseries\large,
+	colbacktitle=OBSSblue,
+	coltitle=white,
+	attach boxed title to top left={yshift=-2.5mm, xshift=3mm},
+	boxed title style={boxrule=0pt, colframe=white, arc=4mm,
+		drop shadow={shadow xshift=0.3mm, shadow yshift=-0.3mm, opacity=0.2}
 	},
-	drop fuzzy shadow }
+	left=3mm, right=3mm, top=4mm, bottom=2mm,
+	before skip=\baselineskip, after skip=\baselineskip,
+}
+
+\newtcolorbox{giocatore}[1][Giocatore]{
+	enhanced,
+	breakable,
+	colback=OBSSpurple!8,
+	colframe=OBSSpurple,
+	boxrule=1.2pt,
+	arc=4mm,
+	drop shadow={shadow xshift=1mm, shadow yshift=-1mm, opacity=0.4, shadow scale=1.05},
+	title={\textbf{\textcolor{white}{\large $\dagger$} #1}},
+	fonttitle=\sffamily\bfseries\large,
+	colbacktitle=OBSSpurple,
+	coltitle=white,
+	attach boxed title to top left={yshift=-2.5mm, xshift=3mm},
+	boxed title style={boxrule=0pt, colframe=white, arc=4mm,
+		drop shadow={shadow xshift=0.3mm, shadow yshift=-0.3mm, opacity=0.2}
+	},
+	left=3mm, right=3mm, top=4mm, bottom=2mm,
+	before skip=\baselineskip, after skip=\baselineskip,
+}
 
 \newtcolorbox{enfasi}{
 	enhanced,
-	arc=5pt,
-	boxrule=0.3pt
+	colback=OBSSgold!8,
+	colframe=OBSSgold,
+	boxrule=1.2pt,
+	arc=4mm,
+	drop shadow={shadow xshift=0.3mm, shadow yshift=-0.3mm, opacity=0.2},
+	left=3mm, right=3mm, top=2mm, bottom=2mm,
+	before upper={\hyphenpenalty=10000\exhyphenpenalty=10000},
+	before skip=\baselineskip, after skip=\baselineskip,
 }
 
-\usepackage{zref-savepos,graphicx}
-\newcommand{\filltopageendgraphics}[2][]{%\filltopageendgraphics[width=.5\linewidth]{image-a}
-	\par
-	\zsaveposy{top-\thepage}% Mark (baseline of) top of image
-	\vfill
-	\zsaveposy{bottom-\thepage}% Mark (baseline of) bottom of image
-	\smash{\includegraphics[keepaspectratio=true,height=\dimexpr\zposy{top-\thepage}sp-\zposy{bottom-\thepage}sp\relax,#1]{#2}}%
-	\par
+% ========== COMANDI PERSONALIZZATI ==========
+\newcommand{\OBSSseparator}{%
+	\begin{center}%
+		\begin{tikzpicture}%
+			\draw[OBSSgold, line width=1pt] (-2,0) -- (-0.5,0);%
+			\node[circle, fill=OBSSgold, minimum size=4mm] at (0,0) {};%
+			\draw[OBSSgold, line width=1pt] (0.5,0) -- (2,0);%
+		\end{tikzpicture}%
+	\end{center}%
 }
-\usepackage{listings}
-\usepackage{enumitem} %oppure \setlength{\leftmargini}{1.25em} % default 2.5em
-\usepackage[framemethod=TikZ]{mdframed}
-%\usepackage{garamondx} %\usepackage{tgpagella}%\usepackage{lmodern} %\usepackage{gentium}
-\usepackage{charter}
+
+\newcommand{\FatePoint}{\textcolor{OBSSgold}{$\bullet$}}
+\newcommand{\FatePoints}[1]{%
+	\textcolor{OBSSgold}{%
+		\foreach \n in {1,...,#1}{$\bullet$\,}%
+	}%
+}
+
+%\NewDocumentCommand{\feat}{m}{
+	%	\noindent\rule{\linewidth}{2pt}
+	%	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
+	%	\vspace{-5.5mm}
+	%	\begin{tcolorbox}[
+		%%		colback=OBSSgold!12, colframe=OBSSgold,
+		%		boxrule=1.5pt, arc=3pt, boxsep=1pt,
+		%		left=6pt, right=6pt, top=3pt, bottom=3pt
+		%		]
+		%		\centering\textbf{\textcolor{OBSSgold!80!black}{#1}}
+		%	\end{tcolorbox}
+	%	\pdfbookmark[3]{#1}{#1}
+	%	\vspace{1mm}\noindent
+	%}
+
+\NewDocumentCommand{\feat}{m}{
+	\noindent\rule{\linewidth}{2pt}
+	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
+	\vspace{-5.5mm}
+	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
+	\pdfbookmark[3]{#1}{#1}
+	\vspace{-1mm}\noindent
+}
+
+\NewDocumentCommand{\incantesimo}{m}{
+	\noindent\rule{\linewidth}{2pt}
+	\index[Incantesimi]{#1}\hypertarget{#1}{}\label{#1}
+	\vspace{-5.5mm}
+	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
+	\pdfbookmark[3]{#1}{#1}
+	\vspace{-1mm}\noindent
+}
+
+\NewDocumentCommand{\mostro}{m}{
+	\noindent\rule{\linewidth}{2pt}
+	\index[Mostruario]{#1}\hypertarget{#1}{}\label{#1}
+	\vspace{-5.5mm}
+	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
+	\pdfbookmark[3]{#1}{#1}
+	\vspace{-1mm}\noindent
+}
+
+\NewDocumentCommand{\oggettomagico}{m}{
+	\noindent\rule{\linewidth}{2pt}
+	\index[OggettiMagici]{#1}\hypertarget{#1}{}\label{#1}
+	\vspace{-5.5mm}
+	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
+	\pdfbookmark[3]{#1}{#1}
+	\vspace{-1mm}\noindent
+}
+
+
+\newcolumntype{L}{>{\raggedright\arraybackslash}l}
+%\newcolumntype{L}{>{\raggedright\arraybackslash}p{5cm}}
+%\newcolumntype{L}{>{\raggedright\arraybackslash}l<{\hspace{0.5cm}}}
+
+
+% ========== SISTEMA TABELLE COLORATE ==========
+\newcommand{\obsscurrentcolor}{Coral}
+\newcommand{\obsssetcolor}[1]{\renewcommand{\obsscurrentcolor}{#1}}
+
+% per resizedown
+\newlength{\mytemptextwidth}
+\newcommand{\resizedown}[2]{%
+	\settowidth{\mytemptextwidth}{#2}%
+	\ifdim\mytemptextwidth>#1%
+	\resizebox{#1}{!}{#2}%
+	\else%
+	#2%
+	\fi%
+}
+
+% Comandi per cambiare colore
+\newcommand{\obssgrey}{\obsssetcolor{SlateGray}}
+\newcommand{\obsspurple}{\obsssetcolor{Mauve}}
+\newcommand{\obssblue}{\obsssetcolor{LightCyan}}
+\newcommand{\obssgreen}{\obsssetcolor{LightGreen}}
+\newcommand{\obsscoral}{\obsssetcolor{Coral}}
+
+
+% ========== HYPERREF E BOOKMARK ==========
+% Importante: hyperref deve essere caricato per ultimo (quasi)
+\usepackage[
+unicode,
+pdfencoding=auto,
+bookmarks=true,
+colorlinks=true,
+linkcolor=OBSSblue,
+citecolor=OBSSpurple,
+urlcolor=OBSSblue,
+filecolor=OBSSblue,
+anchorcolor=OBSSblue,
+pdftitle={OBSS - Old Bell School System},
+pdfsubject={Gioco di Ruolo Fantasy},
+pdfauthor={Andres Zanzani},
+pdfkeywords={GDR, Fantasy, Gioco di Ruolo, OBSS},
+pdfcreator={XeLaTeX},
+pdfproducer={TexStudio on Debian},
+pdfborder={0 0 0},
+breaklinks=true,
+bookmarksopenlevel=1,
+bookmarksnumbered=true,
+bookmarksopen=true
+]{hyperref}
+
+
+\usepackage{bookmark}
+% bookmark deve essere caricato dopo hyperref
+
+% ========== INIZIO DOCUMENTO ==========
 
 
 \begin{document}
@@ -501,6 +750,119 @@ Galea& 2& 200  & +8& 27 & +4  & 6d6+24 & 60  & 200/250+200\\
 \end{center}
 
 \pagebreak
+
+
+\section{Opzionale - Variante Iniziativa}\index{Opzionale - Variante Iniziativa}\hypertarget{varianteiniziativa}{}\label{varianteiniziativa}
+
+Questa variante dell'iniziativa vuole stimolare la diversificazione delle azioni in base alla situazioni che si vanno ad affrontare volta per volta.
+
+L'iniziativa è un valore che si computa round per round in base alle Azioni che si eseguono. Ad inizio round c'è la dichiarazioni delle Azioni che si vogliono intraprendere, partendo da chi ha Destrezza o Intelligenza più bassa.
+
+Si possono usare fino a 10 Punti Azione (PA) a Round. \textbf{Chi usa meno Punti Azione agisce per primo}
+
+A parità di PA usati agisce per primo chi ha Destrezza od Intelligenza più alta, a parità l'avversario, in caso di compagni ci si mette d'accordo.
+
+Nella tabella sottostante sono indicate alcune azioni tipiche e relativi costi.
+
+\medskip
+
+\noindent\begin{tabularx}{1\linewidth}{Xc}
+	\toprule
+	\rowcolor{gray!20}\textbf{Cosa si fa} & \textbf{PA}\\
+	\toprule
+	% COMBATTIMENTO - ATTACCHI
+	Attaccare con arma leggera/mani nude& 3\\
+	\rowcolor{gray!20}Attaccare con arma media/da tiro& 4\\
+	Attaccare con arma grande& 5\\
+	\rowcolor{gray!20}Effettuare una manovra di combattimento & 5\\
+	\midrule
+	% MOVIMENTO
+	Movimento/Scatto (x2 mov.) entro 2m/3m (per mov. 6m/9m) &1\\
+	%	\rowcolor{gray!20}Scatto (doppio movimento) & 1\\
+	\rowcolor{gray!20}Gettarsi a terra prono& R\\
+	Alzarsi da prono& 3\\
+	\rowcolor{gray!20}Disingaggiare & 3\\
+	\midrule
+	% ARMI E EQUIPAGGIAMENTO
+	Estrarre o rinfoderare l'arma o scudo& 3\\
+	\rowcolor{gray!20}Prendere qualcosa dalla cintura o di pronto& 2\\
+	Usare un oggetto tenuto in mano& 2\\
+	\rowcolor{gray!20}Cercare qualcosa nello zaino& 8\\
+	Gettare un oggetto tenuto in mano& R\\
+	\midrule
+	% CAVALCATURE
+	\rowcolor{gray!20}Salire o scendere dalla cavalcatura& 4\\
+	\midrule
+	% PORTE E OSTACOLI
+	Sfondare una porta a spallate/calci& 5\\
+	\rowcolor{gray!20}Forzare porta con piede di porco& 6\\
+	\midrule
+	% COMPETENZE E ABILITÀ
+	Aiutare qualcuno& 4\\
+	\rowcolor{gray!20}Eseguire prova su una competenza& 6\\
+	Riconoscere una creatura& 2\\
+	\rowcolor{gray!20}Nascondersi& 5\\
+	\midrule
+	% POZIONI
+	Bere una pozione tenuta in mano& 1\\
+	\rowcolor{gray!20}Bere una pozione tenuta alla cintura& 3\\
+	Fare bere una pozione ad un altro & 5\\
+	\midrule
+	% MAGIA
+	\rowcolor{gray!20}Lanciare un incantesimo& *\\
+	Concentrarsi su un incantesimo& 2\\
+	\rowcolor{gray!20}Interrompere un proprio incantesimo & 1\\
+	Riconoscere un incantesimo& 2\\
+	\rowcolor{gray!20}Usare un oggetto magico& 6\\
+	\midrule
+	% COMUNICAZIONE
+	Scambiare poche battute& 0\\
+	\rowcolor{gray!20}Scambiare un dialogo con qualcuno& *\\
+	\midrule
+	% TATTICHE DIFENSIVE
+	Preparare la difesa & 3\\
+	\rowcolor{gray!20}Difesa totale & 4\\
+	\midrule
+	% MANOVRE SPECIALI
+	Colpo preciso & 5\\
+	\rowcolor{gray!20}Disarmare & 5\\
+	Finta & 3\\
+	\rowcolor{gray!20}Spingere un avversario & 4\\
+	Afferrare l'avversario & 5\\
+	\rowcolor{gray!20}Fare cadere l'avversario & 4\\
+	\midrule
+	Caricare (movimento + attacco)& 6\\
+	%	\rowcolor{gray!20}Attacco totale (sacrifica difesa per + attacchi)& 8\\
+	%	Ritirata combattuta& 6\\
+	%	\rowcolor{gray!20}Cambiare postura di combattimento& 2\\
+	%	Puntare con arma da tiro& 2\\
+	%	\rowcolor{gray!20}Ricaricare arma da tiro (balestra/arco)& 4\\
+	Applicare veleno all'arma& 7\\
+	%	\rowcolor{gray!20}Curare ferite base (primo soccorso)& 9\\
+	Esaminare un oggetto/meccanismo& 5\\
+	\rowcolor{gray!20}Attivare trappola/meccanismo& 6\\
+	\bottomrule
+\end{tabularx}
+
+\vspace{0.5cm}
+
+\noindent\textbf{Legenda:}
+\begin{itemize}
+	\item \textbf{0 Azioni:} Azioni immediate o reazioni
+	\item \textbf{2 Azione:} Azioni semplici e rapide
+	\item \textbf{3 Azioni:} Azioni standard
+	\item \textbf{5 Azioni:} Azioni complesse
+	\item \textbf{6 Azioni:} Azioni molto complesse
+	\item \textbf{8 Azioni:} Azioni estremamente elaborate e lunghe
+\end{itemize}
+
+\medskip
+
+- Gli Incantesimi costano 1 PA per Livello dell'incantesimo
+
+- L'incantesimo \textbf{Velocità} sottrae 4 Punti Azione al totale di Punti Azione usate. L'incantesimo \textbf{Lentezza} aggiunge 4 Punti Azione al totale usato sempre fino ad un massimo di 10 PA per round.
+
+Lo spostarsi, il decidere che arma usare od incantesimo determinano non solo quando si agisce ma la tattica che si vuole perseguire. La collaborazione tra i personaggi diventa fondamentale e non rallenta il flusso delle azioni.
 
 \section{Avventure in Citta'}\index{Città}
 
