@@ -4607,14 +4607,14 @@ In caso l'incantesimo venisse dissolto, sia la scritta originale che l'illusione
 Puoi vedere e udire una particolare creatura a tua scelta che si trovi sul tuo stesso piano di esistenza. Il bersaglio deve effettuare un Tiro Salvezza su Volontà, modificato da quanto bene conosci il bersaglio e la tua connessione fisica a esso. Se il bersaglio sa che stai lanciando l'incantesimo, può fallire volontariamente il Tiro Salvezza, in caso desiderasse essere osservato da
 te.
 
+	
+
 | **Conoscenza** | **Mod. al TS** |
 | --- | --- |
 | Ne hai sentito parlare | +4 |
 | Hai incontrato il bersaglio | +0 |
 | Conosci bene il bersaglio | -4 |
-
 | **Connessione** | **Mod. TS** |
-| --- | --- |
 | Descrizione o immagine | -2 |
 | Proprietà o indumento | -4 |
 | Parte del corpo (capelli...) | -10 |

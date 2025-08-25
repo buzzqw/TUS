@@ -1139,35 +1139,35 @@ This Feat can be taken multiple times, with at least WP 5,9,13.
 
 If you take this Feat **4 times** on the same Weapon List, the damage bonus is reduced to +2, but you roll damage twice and choose the better result. It does not apply to damage explosion or critical damage.
 
-## One Belief
-
+## One belief
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |
-| **Sav. Throws**: | +1 Will, +1 Fortitude |
-| **Ability Score**: | Ability modifier for spells |
+| **Saving Throws**: | +1 Will, +1 Fortitude |
+| **Ability**: | Ability Modifier for Spells |
 
-The character dedicates their life to the study and perfection of a single Magic List.
+You dedicate your life to the study and perfection of a single Spell List.
 
-The **first time** you take this Feat, you must choose a *preferred* Magic List and 3 *opposed* ones.
+The **first time** you take this Feat, you must choose one *favorite* and three *opposite* Spell Lists.
 
-In the *preferred* list, the casting cost of spells decreases by 1, with a minimum cost of 1. For the 3 *opposed* Magic Lists, the casting cost of spells increases by 1.
+On the *favored* list, the casting cost of spells decreases by 1, maintaining a minimum cost of 1. For the 3 *opposite* Spell Lists, the casting cost of spells increases by 1.
 
-The **second time** you take this Feat, requirement Magic Proficiency 6, in the *preferred* Magic List, Magic Checks are made with an additional 1d6, and you can discard 1 die from it.
+The **second time** you take this Feat, Magic Proficiency requirement 6, on the *favored* Spell List, Magic Checks are made with an additional +4, and you can discard 1 die from the list.
 
-The **third time** you take this Feat, requirement Magic Proficiency 11, in the *preferred* Magic List, when you make a Magic Check, you count one more 6 than what you rolled.
+The **third time** you take this Feat, Magic Proficiency requirement 11, on the *favored* Spell List, when you make a Magic Check, you count +8 more than the number rolled.
 
-The **fourth time** you take this Feat, requirement Magic Proficiency 14, in the *preferred* Magic List, you can reroll a Magic Check once in case of Critical Failure.
+The **fourth time** you take this Feat, Magic Proficiency requirement 14, on the *favored* Spell List, you can reroll the Magic Check once on a critical failure.
 
-The **fifth time** you take this Feat, requirement Magic Proficiency 17, in the *preferred* Magic List, whenever you need to roll a Magic Check, you can choose not to roll and consider that you made a Critical Magic Success.
+The fifth time you take this skill, Magic Proficiency requirement 17, from the favored spell list, whenever you roll a magic check, you can skip the roll and count as having made two magical critical successes.
 
-The **sixth time** you take this Feat, requirement Magic Proficiency 20, in the *preferred* Magic List, spells below 4th level do not cost Magic Points in the base formulation.
+The sixth time you take this skill, Magic Proficiency requirement 20, from the favored spell list, spells lower than 4th level do not cost Magic Points in their basic formulation.
 
 **Rules**:
 
-- Each time the Feat is taken, after the first, you must select two new *opposed* Magic Lists, and the maximum level of castable spells for all *opposed* Magic Lists decreases by 2. The Universal Magic List cannot be chosen among the *opposed* ones.
-- The *One Belief* Feat cannot be taken together with: Only Child, Powerful Magics, Specialist.
-- If you use the *One Belief* Feat, you cannot use the List Abilities (page ).
+- Each time the Ability is taken, after the first, two new *opposite* Spell Lists must be selected, and the casting cost for spells from these lists increases by 1. The Universal Spell List cannot be chosen from the *opposite* lists.
+- The *One Faith* Ability cannot be taken together with: Only Child, Potent Spells, Specialist.
+- If you use the *One Belief* skill, you cannot use the List Skills (page ).
+- All abilities listed in the skill are cumulative.
 
 ## One Body, One Mind, One Spirit
 

@@ -145,7 +145,25 @@ Ligatures=TeX
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\leftmark}
-\fancyfoot[C]{\thepage}
+
+% Piè di pagina decorativo con tikz
+\fancyfoot[C]{
+	\begin{tikzpicture}[baseline=-0.5ex]
+		% Linea sinistra
+		\draw[thick] (-4,0) -- (-1.2,0);
+		% Ornamenti sinistri
+		\draw[thick] (-1.2,0) .. controls (-1,0.15) and (-0.8,0.15) .. (-0.6,0);
+		\draw[thick] (-1,0) .. controls (-0.8,-0.15) and (-0.6,-0.15) .. (-0.4,0);
+		% Cerchio con numero
+		\node[circle, draw, thick, minimum size=0.8cm, fill=white] at (0,0) {\textbf{\thepage}};
+		% Ornamenti destri
+		\draw[thick] (0.4,0) .. controls (0.6,0.15) and (0.8,0.15) .. (1,0);
+		\draw[thick] (0.6,0) .. controls (0.8,-0.15) and (1,-0.15) .. (1.2,0);
+		% Linea destra
+		\draw[thick] (1.2,0) -- (4,0);
+	\end{tikzpicture}
+}
+
 \renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
 \fancypagestyle{plain}{%
@@ -192,7 +210,24 @@ Ligatures=TeX
 	}
 	\renewcommand{\headrulewidth}{0pt}
 	\renewcommand{\footrulewidth}{0pt}
-	\fancyfoot[C]{\thepage}
+
+	% Stesso piè di pagina decorativo anche per il pagestyle plain
+	\fancyfoot[C]{
+		\begin{tikzpicture}[baseline=-0.5ex]
+			% Linea sinistra
+			\draw[thick] (-4,0) -- (-1.2,0);
+			% Ornamenti sinistri
+			\draw[thick] (-1.2,0) .. controls (-1,0.15) and (-0.8,0.15) .. (-0.6,0);
+			\draw[thick] (-1,0) .. controls (-0.8,-0.15) and (-0.6,-0.15) .. (-0.4,0);
+			% Cerchio con numero
+			\node[circle, draw, thick, minimum size=0.8cm, fill=white] at (0,0) {\textbf{\thepage}};
+			% Ornamenti destri
+			\draw[thick] (0.4,0) .. controls (0.6,0.15) and (0.8,0.15) .. (1,0);
+			\draw[thick] (0.6,0) .. controls (0.8,-0.15) and (1,-0.15) .. (1.2,0);
+			% Linea destra
+			\draw[thick] (1.2,0) -- (4,0);
+		\end{tikzpicture}
+	}
 }
 \pagestyle{plain}
 

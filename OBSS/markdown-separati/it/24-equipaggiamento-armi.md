@@ -67,8 +67,6 @@ Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Gra
 
 **Tabella: Lista dei proiettili - Archi - Balestre - Fionde**
 
-	
-
 | **Nome Proiettile** | **Numero di colpi/Costo (mo)** | **Danno / Tipo** |
 | --- | --- | --- |
 | Dardi da balestra (una mano, leggera) | 10/1 mo | 1d6 P |

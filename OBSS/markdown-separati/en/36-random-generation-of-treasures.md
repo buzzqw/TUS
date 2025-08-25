@@ -420,8 +420,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 ### Manuals, Tomes and Scrolls
 
-| **3d6** | **Scroll Rarity** | **Pages on Scroll** |
-|---|---|---|
+| **3d6** | **Scroll Rarity** | **Spells on Scroll** |
 | 3-11 | Common | 1d4 |
 | 12-13 | UnCommon | 1d6 |
 | 14-16 | Rare | 1d8 |

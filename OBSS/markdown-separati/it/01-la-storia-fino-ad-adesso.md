@@ -197,8 +197,8 @@ Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso
 
 > Esempio di box contenente una citazione o frase motivazionale
 
->> **Informazioni per il Giocatore**: Box contenente indicazioni e chiarimenti per il Giocatore.
+>> **Informazioni per il Giocatore**: Box contenente indicazioni e chiarimenti per il Giocatore. Riconoscibile dall'icona $\dagger$
 
->>> **Informazioni per il Narratore**: Box contenente indicazioni e suggerimenti per il Narratore.
+>>> **Informazioni per il Narratore**: Box contenente indicazioni e suggerimenti per il Narratore. Riconoscibile dalla icona {
 
 ---

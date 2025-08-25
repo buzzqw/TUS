@@ -771,7 +771,10 @@ Calicante, preso dall'orrore alla vista di un Patrono così fatto, lo privò del
 - **Somma dei Tratti in comune a 2 punti** punti: Il tocco della tua spada é vita. Una creatura toccata con la tua arma recupera 3d6 Punti Ferita. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 7 punti**: La tua Volontà é più forte del metallo. Guadagni un +2 ai Tiri Salvezza su Volontà
 - **Somma dei Tratti in comune a 11 punti**: Puoi lanciare l'incantesimo Cono di Freddo, 40 danni da Elettricità. DC 25 per dimezzare. Una volta al giorno. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 15 punti**: Sacrifichi la tua vita per portare in vita una creatura morta da non più di 1 settimana. Una volta. Costo 3 Azioni.
+
+| - **Somma dei Tratti in comune a 15 punti**: Sacrifichi la tua vita per portare in vita una creatura morta da non più di 1 settimana. Una volta. Costo 3 Azioni. |
+| --- |
+
 **Nota**: Sumkjr è l'unico Patrono a concedere benefici per una somma Tratti minore del normale
 - **Energia/B**: Energia Positiva, Elettricità
 - **Vantaggio**: +1 a tutti i Tiri Salvezza
@@ -963,6 +966,6 @@ Laydel: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arro
 
 Tàhil: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
-> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. Iliade, Omero.
+> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare.(Iliade, Omero)
 
 ---

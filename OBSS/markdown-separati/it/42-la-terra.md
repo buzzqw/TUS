@@ -215,7 +215,7 @@ Questi i nomi dei mesi a partire da quello che si definisce inizio anno:
 
 12°) Kartan (stagione: primavera)
 
-*Raanant* è il mese che si festeggia alla fine del Ciclo secolare, ogni cento anni. E' un mese di libertà dai Patroni, dalle Leggi, è il mese della catarsi e della violenza, della libertà e della rinascita.
+*Raanant* è il mese che si festeggia alla fine del Ciclo secolare, ogni cento anni. E' un mese di libertà dai Patroni, dalle Leggi, è il mese della catarsi e della violenza, della libertà e della rinascita. Al termine del mese si passa a Ianas.
 
 Un ciclo di sette giorni, settimana, è composta da giorni di nome:
 

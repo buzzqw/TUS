@@ -81,7 +81,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 | **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
-| Boccetta di inchiostro o pozione | 1 mo | L |
+| Boccetta di inchiostro | 1 mo | L |
 | Borsa | 5 ma | L |
 | Alchimista (laboratorio) | 200 mo | 5 |
 | Borsa da cintura | 1 mo | L |

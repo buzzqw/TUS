@@ -49,8 +49,6 @@ Per farsi un'idea delle transazioni commerciali, alcune merci di scambio sono de
 
 **Tabella: Esempi altre ricchezze**
 
-	
-
 | **Costo** | **Oggetto** |
 |---|---|
 | 1 mr | Frumento (0.5 kg) |

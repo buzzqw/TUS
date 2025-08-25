@@ -1959,21 +1959,22 @@ La **prima volta** che prendi questa Abilità devi scegliere una Lista di Magia 
 
 Nella lista *preferita* il costo di lancio degli incantesimi diminuisce di 1 rimanendo un costo minimo di 1. Per le 3 Liste di Magia *opposte* il costo di lancio degli incantesimi aumenta di 1.
 
-La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia *preferita* le Prove di Magia vengono effettuate con 1d6 aggiuntivo e puoi scartare 1 dado dalla stessa.
+La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia *preferita* le Prove di Magia vengono effettuate con +4 aggiuntivo e puoi scartare 1 dado dalla stessa.
 
-La **terza volta** che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia *preferita* quando fai una Prova di Magia conti un 6 in più rispetto a quanti tirati.
+La **terza volta** che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia *preferita* quando fai una Prova di Magia conti un +8 in più rispetto a quanti tirati.
 
 La **quarta volta** che prendi questa Abilità, requisito Competenza Magica 14, nella Lista di Magia *preferita* puoi ritirare una volta la Prova di Magia in caso di fallimento critico.
 
-La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogni qual volta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto un Successo Critico Magico.
+La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogni qual volta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successo Critico Magico.
 
 La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, nella Lista di Magia *preferita* gli incantesimi inferiori al 4 livello non costano Punti Magia nella formulazione base.
 
 **Regole**:
 
-- Ogni volta che l'Abilità viene presa, oltre la prima, si devono selezionare due nuove Lista di Magia *opposta* e il livello massimo lanciabile di incantesimi per tutte le Liste di magia *opposte* diminuisce di 2.  La Lista di Magia Universale non è sceglibile tra le *opposte*.
+- Ogni volta che l'Abilità viene presa, oltre la prima, si devono selezionare due nuove Liste di Magia *opposta* ed il costo di lancio per gli incantesimi di queste liste aumenta di 1.  La Lista di Magia Universale non è sceglibile tra le *opposte*.
 - L'Abilità *Un solo credo* non può essere presa assieme a: Figlio Unico, Magie Potenti, Specialista.
 - Se usi l'Abilità *Un solo credo* non puoi usare usare le Abilità di Lista .
+- Tutte le capacità elencate nell'Abilità sono cumulative.
 
 ## Volonta' Ferrea
 
@@ -2182,7 +2183,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 
 **Paladino Tradizionale**
 
-| 	**Lv** | **Paladino Tradizionale** |  |  | **Abilità** |
+| 	**Lv** | **Paladino Trad.** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
