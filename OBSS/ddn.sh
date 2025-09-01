@@ -15,6 +15,9 @@ IFS=$'\n\t'
 # CONFIGURAZIONE
 #==============================================================================
 
+sed -i '/\\usepackage\[draft\]{graphicx}/d' OBSSv2.tex
+
+
 SCRIPT_VERSION="4.3"
 SCRIPT_START_TIME=$(date +%s)
 
@@ -1248,6 +1251,8 @@ main() {
     
     # Summary
     show_summary
+    
+    sed -i '/\\documentclass/a\\\usepackage[draft]{graphicx}' OBSSv2.tex*
 }
 
 update_existing_release() {
