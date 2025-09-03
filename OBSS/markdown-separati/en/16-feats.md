@@ -1139,7 +1139,7 @@ This Feat can be taken multiple times, with at least WP 5,9,13.
 
 If you take this Feat **4 times** on the same Weapon List, the damage bonus is reduced to +2, but you roll damage twice and choose the better result. It does not apply to damage explosion or critical damage.
 
-## One belief
+## One Belief
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |

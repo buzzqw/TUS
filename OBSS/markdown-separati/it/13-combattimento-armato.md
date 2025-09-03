@@ -680,7 +680,7 @@ Quando queste manovre sono fatte dagli avversari e non sono segnati i valori di 
 
 ### Disarmare*
 
-fai una Prova Contrapposta di Competenza Armi + Destrezza o Forza (3d6+CA+For o Des).
+fai una Prova Contrapposta di Competenza Armi + Destrezza o Forza (3d6+CA+For o Des). Colui che usa un arma più grande dell'altro ottiene un +2 alla prova per grado di dimensione di differenza.
 
 Se chi tenta la manovra non riesce e ottiene un Fallimento Critico è lui che perde l'arma. Costa 2 Azioni (Riflessi).
 
@@ -698,7 +698,7 @@ Chi vince può spingere o tirare l'avversario fino a 0.5 metri nella direzione c
 
 Se si vuole *lanciare* l'avversario il movimento è di 0.3 metri per successo ottenuto.
 
-Se chi tenta la manovra non riesce e ottiene un fallimento critico, l'avversario usando una Reazione, può spostarlo secondo le regole di sopra. Costa 2 Azioni (Tempra).
+Se chi tenta la manovra non riesce e ottiene un fallimento critico, l'avversario usando una Reazione, può spostarlo secondo le regole di sopra. Costa 1 Azione (Tempra).
 
 ### Afferrare un avversario*
 
@@ -726,7 +726,7 @@ Se il nemico ha l'Abilità Opportunista oltre ad ostacolare il passaggio può es
 
 Per ogni gamba/zampa in più il contendente ottiene un bonus di +1 alla prova e ottiene un +1d6 per differenza di Taglia.
 
-Se chi tenta la manovra non riesce e ottiene un Fallimento Critico è lui che cade. Costa 2 Azioni (Tempra).
+Se chi tenta la manovra non riesce e ottiene un Fallimento Critico è lui che cade. Costa 1 Azione (Tempra).
 
 ## Opzionale - Azioni Tiro Critico
 

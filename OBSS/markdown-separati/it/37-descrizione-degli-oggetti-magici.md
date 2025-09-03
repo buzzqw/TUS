@@ -1301,7 +1301,7 @@ Ogni uso della magia del corno ha il 20\% di probabilità di farlo esplodere. L'
 
 **Requisiti:** Creare Oggetti Magici, Freccia Acida di Restser
 
-Un'**arma** Corrosiva è coperta da uno strato di acido che infligge 1d6 danni aggiuntivi da acido quando colpisce il bersaglio. L'acido non danneggia chi la impugna.
+Un'**arma** Corrosiva è coperta da uno strato di acido che infligge 1d6 danni aggiuntivi da acido quando colpisce il bersaglio. L'acido dell'arma non danneggia chi la impugna.
 
 ### Cubo di Forza
 
