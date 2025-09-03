@@ -2765,7 +2765,7 @@ When these maneuvers are performed by opponents and the values for Attack Roll, 
 
 ### Disarm*
 
-Make an Opposed Check of Weapon Proficiency + Dexterity or Strength (3d6+WP+Str or Dex).
+Make an Opposed Check of Weapon Proficiency + Dexterity or Strength (3d6+WP+Str or Dex). The one who uses a larger weapon than the other gets a +2 to the test by degree of difference in weapon' \*\*s size.
 
 If the one attempting the maneuver fails and gets a Critical Failure, they are the one who loses their weapon. Costs 2 Actions (Reflex).
 
@@ -2783,7 +2783,7 @@ The winner can push or pull the opponent up to 0.5 meters in the direction they 
 
 If you want to *throw* the opponent, the movement is 0.3 meters for each success obtained.
 
-If the one attempting the maneuver fails and gets a Critical Failure, the opponent, using a Reaction, can move them according to the rules above. Costs 2 Actions (Fortitude).
+If the one attempting the maneuver fails and gets a Critical Failure, the opponent, using a Reaction, can move them according to the rules above. Costs 1 Action (Fortitude).
 
 ### Grapple an opponent*
 
@@ -2811,7 +2811,7 @@ It is an Athletics check opposed by a Fortitude Saving Throw with Strength to ma
 
 For each additional leg/paw, the contestant gets a +1 bonus to the check and gets a +1d6 for size difference.
 
-If the one attempting the maneuver fails and gets a Critical Failure, they are the one who falls. Costs 2 Actions (Fortitude).
+If the one attempting the maneuver fails and gets a Critical Failure, they are the one who falls. Costs 1 Action (Fortitude).
 
 ## Optional - Critical Hit Actions
 

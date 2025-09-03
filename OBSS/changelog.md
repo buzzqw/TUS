@@ -934,7 +934,11 @@ aggiornata versione POD 2025/07/23
 
 aggiornata versione POD 2025/08/06
 
-1.0.8 migliorato layout, piccoli chiarimenti a migliorare una caratteristica, aggiunte regoleper migliorare vantaggi sornelian, migliorie al layout, migliorie alle tabelle, chiarimenti su 13esimo mese, aggiornato file di opzioni con metodo alternativo alla iniziativa, aggiornata abilita' una sola fede, aggiornato stile numerazione fondo pagina,
+1.0.8 migliorato layout, piccoli chiarimenti a migliorare una caratteristica, aggiunte regoleper migliorare vantaggi sornelian, migliorie al layout, migliorie alle tabelle, chiarimenti su 13esimo mese, aggiornato file di opzioni con metodo alternativo alla iniziativa, aggiornata abilita' una sola fede, aggiornato stile numerazione fondo pagina
+
+aggiornata versione POD 2025/009/01
+
+1.0.9 spingere-fare cadere costa 1 azione, chiarimenti su disarmare,
 
 
 > valutare:
