@@ -68,9 +68,9 @@
 \setlength{\columnsep}{8pt}
 
 \begin{document}
-	
+
 	\begin{multicols}{4}
-		
+
 		% COMBAT SEQUENCE
 		\begin{mainsection}{📋 COMBAT SEQUENCE}
 			\begin{center}
@@ -79,20 +79,20 @@
 					\node[draw, rectangle, fill=orange!20, text width=5cm, text centered, font=\normalsize, below of=init] (decl) {2. Declaration\\From fastest};
 					\node[draw, rectangle, fill=blue!20, text width=5cm, text centered, font=\normalsize, below of=decl] (res) {3. Resolution\\Actions};
 					\node[draw, rectangle, fill=gray!20, text width=5cm, text centered, font=\normalsize, below of=res] (next) {4. Next\\Round};
-					
+
 					\draw[->] (init) -- (decl);
 					\draw[->] (decl) -- (res);
 					\draw[->] (res) -- (next);
 				\end{tikzpicture}
 			\end{center}
-			
+
 			\textbf{Critical Initiative:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item If +8: +1 Reaction/Immediate
 				\item If +16: +1 total Action
 			\end{itemize}
 		\end{mainsection}
-		
+
 		% ACTIONS PER ROUND
 		\begin{mainsection}{⚡ ACTIONS PER ROUND}
 			\begin{formula}
@@ -102,24 +102,24 @@
 				• 1 Reaction Action\\
 				• Unlimited Free Actions
 			\end{formula}
-			
+
 			\textbf{Action Order:} Any, logically coherent
-			
+
 			\textbf{Interruptions:} Only Reactions and Immediate can interrupt
 		\end{mainsection}
-		
+
 		% ATTACK ROLLS
 		\begin{mainsection}{🎯 ATTACK ROLLS}
 			\begin{formula}
 				\textbf{Melee:}\\
 				3d6 + BAB + STR + List + Skill + Magic + Circumstances
 			\end{formula}
-			
+
 			\begin{formula}
 				\textbf{Ranged:}\\
 				3d6 + BAB + DEX + List + Skill + Magic + Circumstances
 			\end{formula}
-			
+
 			\textbf{Golden Rules:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item \highlight{6 = Explodes} (roll again)
@@ -129,13 +129,13 @@
 				\item \highlight{3 times 6 = Always hits}
 			\end{itemize}
 		\end{mainsection}
-		
+
 		% DEFENSE
 		\begin{mainsection}{🛡️ DEFENSE}
 			\begin{formula}
 				10 + DEX + Shield + Armor + Magic + Skill + Circumstances
 			\end{formula}
-			
+
 			\begin{tabular}{@{}ll@{}}
 				\toprule
 				\textbf{Situation} & \textbf{Modifier} \\
@@ -151,23 +151,23 @@
 				\bottomrule
 			\end{tabular}
 		\end{mainsection}
-		
+
 		\columnbreak
-		
+
 		% DAMAGE AND CRITICALS
 		\begin{mainsection}{💥 DAMAGE AND CRITICALS}
 			\begin{formula}
 				\textbf{Base Damage:}\\
 				Weapon Die + STR + List + Skill + Magic
 			\end{formula}
-			
+
 			\textbf{Critical Roll:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item \critical{Each +8 beyond Defense} = +1 Critical
 				\item Roll additional weapon die (base die only)
 				\item Does not stack with damage explosion
 			\end{itemize}
-			
+
 			\textbf{Damage Explosion:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item Maximum die value: Reroll and add
@@ -175,10 +175,10 @@
 				\item EDX: Explodes on X or higher
 				\item Does not explode recursively
 			\end{itemize}
-			
+
 			\textbf{Minimum Damage:} Always at least 1 (after reductions)
 		\end{mainsection}
-		
+
 		% MULTIPLE ATTACKS
 		\begin{mainsection}{⚔️ MULTIPLE ATTACKS}
 			\begin{tabular}{@{}cc@{}}
@@ -191,7 +191,7 @@
 				4 & -15 \\
 				\bottomrule
 			\end{tabular}
-			
+
 			\textbf{Two Weapons:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item Off-hand weapon = Multiple attack
@@ -199,11 +199,11 @@
 				\item If not Light: \critical{-3 additional}
 				\item Can use for +1 Defense (no attacks)
 			\end{itemize}
-			
+
 			\textbf{Low Level Option:}\\
 			BAB < 6: -4 on both instead of progression
 		\end{mainsection}
-		
+
 		% MOVEMENT
 		\begin{mainsection}{🏃 MOVEMENT AND DISTANCES}
 			\begin{tabular}{@{}p{2cm}p{1cm}p{2.5cm}@{}}
@@ -216,14 +216,14 @@
 				Diagonal & - & 1m/square \\
 				\bottomrule
 			\end{tabular}
-			
+
 			\textbf{Running Penalties:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item \critical{-1d6 Attack Roll}
 				\item \critical{-4 Defense} (until next round)
 				\item Distracted for spells
 			\end{itemize}
-			
+
 			\textbf{Distances:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item \textbf{Touch:} ≤ 1m (without long weapons)
@@ -231,9 +231,9 @@
 				\item \textbf{Reach:} Half Size occupied
 			\end{itemize}
 		\end{mainsection}
-		
+
 		\columnbreak
-		
+
 		% MAIN ACTIONS
 		\begin{mainsection}{📜 MAIN ACTIONS}
 			{\small
@@ -267,7 +267,7 @@
 				\end{tabular}
 			}
 		\end{mainsection}
-		
+
 		% SPECIAL MANEUVERS
 		\begin{mainsection}{🤺 SPECIAL MANEUVERS}
 			\begin{tabular}{@{}p{1.7cm}p{0.8cm}p{3cm}@{}}
@@ -276,22 +276,22 @@
 				\midrule
 				Disarm & 2 & BAB+STR/DEX vs BAB+STR/DEX \\
 				Feint & 1 & BAB+Bluff vs BAB+Sense \\
-				Bull Rush & 2 & Athletics vs Fort ST+STR \\
+				Push & 1 & Athletics vs Fort ST+STR \\
 				Grapple & 2 & Athletics vs Fort ST+STR \\
-				Trip & 2 & Athletics vs Fort ST+STR \\
+				Trip & 1 & Athletics vs Fort ST+STR \\
 				Overrun & 1 & Athl/Acrob. vs Ref ST \\
 				\bottomrule
 			\end{tabular}
-			
+
 			\textbf{Size Modifiers:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item +1d6 per size advantage
 				\item -1d6 per size disadvantage
 			\end{itemize}
-			
+
 			\textbf{Critical Failure:} You suffer the effect
 		\end{mainsection}
-		
+
 		% RANGED WEAPONS
 		\begin{mainsection}{🏹 RANGED WEAPONS}
 			\begin{tabular}{@{}lc@{}}
@@ -305,14 +305,14 @@
 			\end{tabular}
 			\medskip
 			\textbf{Under Threat:} -1d6 AR for ranged weapons
-			
+
 			\textbf{Against Target in Combat:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item -2 additional AR
 				\item Cover from other creatures
 				\item Critical failure: hit randomly
 			\end{itemize}
-			
+
 			\textbf{Strength to Damage:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item Composite bows: Yes
@@ -321,9 +321,9 @@
 				\item Thrown weapons: Yes
 			\end{itemize}
 		\end{mainsection}
-		
+
 		\columnbreak
-		
+
 		% SITUATIONAL MODIFIERS
 		\begin{mainsection}{🎲 SITUATIONAL MODIFIERS}
 			\textbf{ATTACKER}
@@ -350,9 +350,9 @@
 				Nonlethal Attack & -4 \\
 				\bottomrule
 			\end{tabular}
-			
+
 			\vspace{2mm}
-			
+
 			\textbf{DEFENDER}
 			\begin{tabular}{@{}p{3.5cm}c@{}}
 				\toprule
@@ -372,7 +372,7 @@
 				\bottomrule
 			\end{tabular}
 		\end{mainsection}
-		
+
 		% CONDITIONS AND STATES
 		\begin{mainsection}{😵 COMMON CONDITIONS}
 			\begin{tabular}{@{}p{2.2cm}p{3.4cm}@{}}
@@ -396,7 +396,7 @@
 				\bottomrule
 			\end{tabular}
 		\end{mainsection}
-		
+
 		% LIFE AND DEATH
 		\begin{mainsection}{💀 LIFE AND DEATH}
 			\begin{formula}
@@ -406,21 +406,21 @@
 				• \critical{HP < 0}: Dying (-1 HP/round)\\
 				• \critical{HP <= -(10+CON×2)}: Dead
 			\end{formula}
-			
+
 			\textbf{Recovery from 0 HP:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item Magical healing = Heal HP
 				\item First Aid DC 12 = 1 HP
 				\item After 1h: Fort ST DC 15 = 1 HP or -1 HP
 			\end{itemize}
-			
+
 			\textbf{Recovery from Dying:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item First Aid DC (12+neg HP) = 0 HP
 				\item Difficulty +2 per successive attempt
 				\item Magical healing = 1 HP
 			\end{itemize}
-			
+
 			\textbf{Natural Recovery:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item 8h rest: CON×BAB or CON×CL HP
@@ -428,28 +428,28 @@
 				\item Max HP: 1d4+CON per rest
 			\end{itemize}
 		\end{mainsection}
-		
+
 		% QUICK RULES
 		\begin{mainsection}{⚡ QUICK RULES}
 			\textbf{Long Weapons:} 2m reach, -4 AR under 2m
-			
+
 			\textbf{Versatile Weapons:} DEX instead STR for AR
-			
+
 			\textbf{Set vs Charge:} Ready vs charge (Reaction), then free attack with -1d6
-			
+
 			\medskip
-			
+
 			\textbf{Time:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item 1 Round = 10 seconds
 				\item 1 Minute = 6 rounds
 				\item 1 Turn = 10 minutes
 			\end{itemize}
-			
+
 			\textbf{Reactivation:} "1/day" items/abilities recharge at dawn
-			
+
 			\medskip
-			
+
 			\textbf{Mounts:}
 			\begin{itemize}[noitemsep,leftmargin=8pt]
 				\item 2 Actions, uses your initiative
@@ -457,9 +457,9 @@
 				\item +2 AR from higher ground
 			\end{itemize}
 		\end{mainsection}
-		
+
 	\end{multicols}
-	
+
 	% ATTACK FLOWCHART (bottom section)
 	\begin{center}
 		\begin{tcolorbox}[enhanced,colback=gray!10,colframe=red,title=🎯 ATTACK RESOLUTION FLOWCHART,fonttitle=\bfseries]
@@ -472,7 +472,7 @@
 				\node[draw, rectangle, fill=green!30, text width=2cm, align=center, right=of hit] (damage) {Apply\\Damage};
 				\node[draw, diamond, fill=orange!30, text width=2cm, align=center, right=of damage] (crit) {Margin\\$\geq$ 8?};
 				\node[draw, rectangle, fill=red!30, text width=2cm, align=center, below right=of crit] (critdmg) {Critical\\Damage!};
-				
+
 				\draw[->] (start) -- (roll);
 				\draw[->] (roll) -- (compare);
 				\draw[->] (compare) -- node[above] {No} (miss);
@@ -485,5 +485,5 @@
 			\end{tikzpicture}
 		\end{tcolorbox}
 	\end{center}
-	
+
 \end{document}
