@@ -2177,9 +2177,9 @@ The character who executes an Attack Action and Casts a Spell in the same round 
 | Precise Strike | 2 |
 | Disarm | 2 |
 | Feint | 1 |
-| Push an opponent | 2 |
+| Push an opponent | 1 |
 | Grapple an opponent | 2 |
-| Trip an opponent | 2 |
+| Trip an opponent | 1 |
 
 During the Movement Action, it is possible to **Draw a Weapon** or Shield or **Sheathe a Weapon** or Shield.
 

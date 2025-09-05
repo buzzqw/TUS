@@ -2184,9 +2184,9 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o Scudo o **Rinfo
 | Colpo preciso | 2 |
 | Disarmare | 2 |
 | Finta | 1 |
-| Spingere un avversario | 2 |
+| Spingere un avversario | 1 |
 | Afferrare l'avversario | 2 |
-| Fare cadere l'avversario | 2 |
+| Fare cadere l'avversario | 1 |
 
 **Lanciare un Incantesimo***: solitamente sono necessarie 2 Azioni. Nella descrizione dell'incantesimo è indicato il numero di Azioni necessarie. Nel capitolo della Magia sono specificate le regole  per lanciare più incantesimi nel round.
 
@@ -2672,7 +2672,7 @@ Il personaggio usando 1 Azione si sposta di 1 metro e non causa attacchi di oppo
 
 ### Colpo Preciso 
 
-Il personaggio usando 2 Azioni effettua un solo attacco in mischia. Su questo singolo attacco ottiene un bonus di +1d4 al Tiro per Colpire.
+Il personaggio usando 2 Azioni effettua un attacco in mischia. Su questo singolo attacco ottiene un bonus di +1d4 al Tiro per Colpire.
 
 ### Prendere la Mira (cecchino) 
 
