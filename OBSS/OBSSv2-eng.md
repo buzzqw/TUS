@@ -4527,7 +4527,7 @@ The sixth time you take this skill, Magic Proficiency requirement 20, from the f
 
 - Each time the Ability is taken, after the first, two new *opposite* Spell Lists must be selected, and the casting cost for spells from these lists increases by 1. The Universal Spell List cannot be chosen from the *opposite* lists.
 - The *One Faith* Ability cannot be taken together with: Only Child, Potent Spells, Specialist.
-- If you use the *One Belief* skill, you cannot use the List Skills (page ).
+- If you use the *One Belief* skill, you cannot use the List Magical Ability (page ).
 - All abilities listed in the skill are cumulative.
 
 ## One Body, One Mind, One Spirit
