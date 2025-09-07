@@ -143,6 +143,8 @@ sed -i 's/| {\\textwidth}{>{\\bfseries}l|> |//g' OBSSv2.md
 sed -i 's/}  %chiude {//g' OBSSv2.md
 sed -i 's/\*\*\\hyperlink{[^}]*\*\*{//g' OBSSv2.md
 sed -i 's/pX}//g' OBSSv2.md
+sed -i '/\\definecolor{blue}{RGB}{0,0,139}/d' OBSSv2.md
+sed -i '/\\definecolor{darkgreen}{RGB}{0,100,0}/d' OBSSv2.md
 
 
 
@@ -294,6 +296,8 @@ sed -i 's/| {\\textwidth}{>{\\bfseries}l|> |//g' OBSSv2-eng.md
 sed -i 's/}  %chiude {//g' OBSSv2-eng.md
 sed -i 's/\*\*\\hyperlink{[^}]*\*\*{//g' OBSSv2-eng.md
 sed -i 's/pX}//g' OBSSv2-eng.md
+sed -i '/\\definecolor{blue}{RGB}{0,0,139}/d' OBSSv2-eng.md
+sed -i '/\\definecolor{darkgreen}{RGB}{0,100,0}/d' OBSSv2-eng.md
 	
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2.md > obtemp.md && mv obtemp.md OBSSv2.md
 awk '/^---$/ {if (prev_line != "" && prev_line !~ /^[[:space:]]*$/) print ""; print $0; next} {print $0; prev_line = $0}' OBSSv2-eng.md > obtemp.md && mv obtemp.md OBSSv2-eng.md
