@@ -1997,6 +1997,152 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 ---
 
+	# Albero Competenza Armi (CA)
+
+	\definecolor{blue}{RGB}{0,0,139}
+	\definecolor{darkgreen}{RGB}{0,100,0}
+
+	
+	
+
+	## COMPETENZA ARMI
+
+| **CA 1:** Arma Focalizzata, Colpi Poderosi, Estrazione rapida, Ferocia, Flagello Danzante (Lista Palle rotanti), Furia, Improvvisare, La mia pelle, La mia morte la tua morte (Forza 1), La mia Testa è più Dura, Persona veramente malvagia, Più sono grossi più fanno rumore quando cadono, Primo Sangue, Proseguire, Questa è la mia arma!, Questo è il mio pugnale, Rappresaglia (Seguace), Seconda pelle, Tiro Preciso (Destrezza 3), Toccata e fuga (Destrezza 1), Arciere su saurovallo, Armato (Forza 3), Segugio (Intelligenza 1, Saggezza 1), Tattico (Intelligenza 1) |
+| --- |
+| **CA 2:** Allungo, Artista dell'Arma, Combattimento con due armi (Destrezza 2, Forza 1), Daredevil (Destrezza 1), Difesa pronta, Fare Infuriare (Carisma o Forza 2), Freccia chiamata freccia consegnata, Iaijutsu, Opportunista, Precisino, Tiro Rapido (Destrezza 3, Tiro Preciso), Un braccio un arma |
+| **CA 3:** Colpo Furtivo, Lesto, Occhio Clinico, Occhio di Falco, Parata, Spara e Scappa (Lista Balestre 3), Stai giù! |
+| **CA 4:** Doppia porzione (Combattimento con due armi), Ho detto CADI!, Testa cava (Lista Balestre 4), Uno con l'arco, Ferocia (2), Precisino (2), Schivata prodigiosa (2) |
+| **CA 5:** Colpo Mortale, Forgiato nella furia, Questa è la mia arma! (2), Schivare trappole (2) |
+| **CA 6:** Danno Coordinato (Saggezza 2), Lesto (2), Proseguire (2), Armato (2), Colpo Furtivo (2), La mia pelle (2), Iaijutsu (2), Parata (2), Seconda pelle (2), Tattico (2, Intelligenza 2) |
+| **CA 7:** Ferocia (3), Uno con l'arco (2, Destrezza 3) |
+| **CA 8:** Danno Coordinato (2, Intelligenza 2), Schivata prodigiosa (3, Destrezza 4) |
+| **CA 9:** Parata (3), Artista dell'Arma (2), Un braccio un arma (2) |
+| **CA 10:** Colpo Furtivo (3), Segugio (2, Saggezza 2) |
+| **CA 11:** Ferocia (4), Seconda pelle (3) |
+| **CA 12:** Attacco Turbinante (Intrattenere 3), Colpo Indebolente (Colpo furtivo 3), Combattimento con due armi (2, Destrezza 3), Colpo Furtivo (4), Iaijutsu (3), Pelle Coriacea (3, Costituzione 3) |
+| **CA 13:** Artista dell'Arma (3), Un braccio un arma (3) |
+| **CA 15:** Attacco Turbinante (2, Intrattenere 5) |
+| **CA 16:** Segugio (3, Saggezza 3), Pelle Coriacea (4) |
+| **CA 18:** Colpo Paralizzante (Colpo Indebolente, Colpo furtivo 4), Combattimento con due armi (3) |
+
+## COMPETENZA MAGICA
+
+| **CM 1:** Adepto della Magia (ripetibile CM/2), Animaletto/Famiglio, Dattilografo, Decifrare scritti magici, Distillare pozioni, Incantatore da Combattimento, Occhi della magia, Radici magiche, Sapiente (solo creazione), Batteria Estesa (Adepto della Magia), Un colpo un morto (Adepto della Magia), Tutt'uno con la magia (Adepto della Magia), Fedele (Devoto, Tratti 2+, ripetibile Tratti/3), Imposizione delle mani (Devoto/Seguace, Tratti 3+), Il Patrono è con me (Devoto, Tratti 2+), Il Patrono è la mia Arma (Seguaci, Tratti 1+), Scacciare i non morti (Devoto/Seguace, Tratti 2+), Potere del Patrono (Devoto, Tratti 1+), Figlio Unico (Costituzione 0), Incanalare Energia (Imposizione delle mani, Tratti 4+) |
+| --- |
+| **CM 2:** Concentrato (ripetibile CM/4), Un solo credo, Animalia (1) - Bestie (Seguace/Devoto Efrem/Shayalia), Sangue Puro (Animalia, Devoto Efrem/Shayalia) |
+| **CM 3:** Batteria Magica (ripetibile CM/3), Elementalista, Prodigioso (ripetibile CM/4), Specialista (ripetibile), Figlio Unico (2, Tratto comune 3) |
+| **CM 4:** Animalia (2) - Piante e Melme, Imposizione delle mani (2, Tratti 4), Infondere Energia Magica (2) |
+| **CM 5:** Magie Potenti (ripetibile CM/4), Il Patrono è la mia Arma (2, Tratti 5, CA 1), Figlio Unico (3, Tratto comune 5) |
+| **CM 6:** Creare Oggetti Magici - livello 3, Dadi Truccati, Sifone Nero (Seguace/Devoto Tazher, Tratti 6), Elementalista (2), Il Patrono è con me (2, Tratti 6), Imposizione delle mani (3, Tratti 6), Un solo credo (2), Incantatore da Combattimento (2), Figlia di Shayalia (2, Tratti comuni 6), Forma Elementale (Seguace/Devoto, 3 incantesimi 2 Liste Elementali) |
+| **CM 7:** Infondere Energia Magica Superiore (2) |
+| **CM 8:** Incantatore Prudente, Infondere Energia Magica (3), Imposizione delle mani (4, Tratti 8), Sangue Puro (2), Armatura del Devoto (3, Tratto singolo 8) |
+| **CM 9:** Figlio Unico (4, Tratto comune 9) |
+| **CM 10:** Animalia (3) - Elementali, Imposizione delle mani (5, Tratti 10), Il Patrono è la mia Arma (3, Tratti 10, CA 4), Il Patrono è la mia Arma (4, Tratti 10, CA 5) |
+| **CM 11:** Forma Elementale (2), Un solo credo (3) |
+| **CM 12:** Creare Oggetti Magici (2) - livello 5, Dadi Truccati (2), Il Patrono è con me (3, Tratti 12), Imposizione delle mani (6, Tratti 12), Incantatore da Combattimento (3), Sangue Puro (3), Figlia di Shayalia (3, Tratti comuni 12), Armatura del Devoto (4, Tratto singolo 12) |
+| **CM 13:** Il Patrono è la mia Arma (5, Tratti 13, CA 6) |
+| **CM 14:** Forma Elementale (3), Un solo credo (4) |
+| **CM 16:** Creare Oggetti Magici (3) - livello 8, Animalia (4) - Mostruosità, Il Patrono è la mia Arma (6, Tratti 16) |
+| **CM 17:** Un solo credo (5) |
+| **CM 18:** Creare Oggetti Magici (4) - livello 9 |
+| **CM 20:** Un solo credo (6) |
+
+## ABILITÀ MISTE (CA + CM)
+
+| **CA 1, CM 1:** Lo scudo è mio amico, Energia Psichica, Armatura della Montagna Incantata (Lista Pugno Vuoto 1, Costituzione 2, Saggezza 1) |
+| --- |
+| **CA 1, CM 2:** Infondere Energia Magica |
+| **CA 2, CM 2:** Guerriero della Magia |
+| **CA 3, CM 3:** Guerriero della Magia (2) |
+| **CA 4, CM 4:** Energia Psichica (2) |
+| **CA 4, CM 6:** Infondere Energia Magica Superiore |
+| **CA 6, CM 9:** Guerriero della Magia (3) |
+| **CA 9, CM 12:** Guerriero della Magia (4) |
+
+**Catene derivate (richiedono abilità precedenti):**
+- Colpo Psichico (da Energia Psichica, Destrezza 1): livelli con CA 2, CA 3, CA 7 (Saggezza 4)
+- Raggio Psichico (da Colpo Psichico, Saggezza 3): livelli con CA 5, CA 9
+	
+
+	## PATRONI SPECIFICI
+
+| **Armatura del Devoto:** Tratto singolo 4 (livello 1), Tratto singolo 6 (livello 2), Tratto singolo 8 (livello 3), Tratto singolo 12 (livello 4), essere Devoto o Seguace |
+| --- |
+| **Figlia di Shayalia:** Devoto/Seguace Shayalia (livello 1), Tratti comuni 6 (livello 2), Tratti comuni 12 (livello 3), Animalia preso 4 volte (livello 4) |
+| **Figlio di Tazher:** Devoto/Seguace Tazher, Tratti 10 |
+
+## LISTE D'ARMI SPECIFICHE
+
+	**Lista Pugno Vuoto:**
+- Armatura della Montagna Incantata (PV 1, CA 1, Costituzione 2, Saggezza 1): 5 livelli progressivi (PV 5, 7, 8, 13)
+- Gru d'Argento (PV 2, Destrezza 1): 5 livelli progressivi (PV 4, 9+Des2, 11, 13+Des3)
+- Ali della Fenice (PV 3, Gru d'Argento 1): 3 livelli progressivi (PV 6+Gru3+PF1, PV 12+Gru4+PF2)
+- Pugno di Ferro (PV 3): 6 livelli progressivi (PV 6, 9, 12, 15, 18)
+- Pugno Potente (PV 3)
+- Tempesta di Furia (PV 7, Destrezza 1, Forza 1)
+- Parata (CA 3 oppure PV 2): livelli con CA 6/PV 4, CA 9/PV 6
+	
+
+	**Lista Armi Aggraziate:**
+- Danza della Lama (AA 2, Destrezza/Carisma 1, Intrattenere 1): 3 livelli progressivi (AA 4+Int3, AA 7+Int5)
+	
+
+	**Lista Balestre:**
+- Spara e Scappa (Balestre 3)
+- Testa cava (Balestre 4)
+	
+
+	**Lista Palle Rotanti:**
+- Flagello Danzante (CA 1, Lista Palle Rotanti)
+	
+
+	## ABILITÀ SENZA REQUISITI CA/CM
+
+	## Caratteristiche Fisiche
+
+| **Costituzione -1:** Robusto (2 livelli) |
+| --- |
+| **Costituzione 0:** Finta Morte, Guarigione accelerata (3 livelli), Recupero, Resistenza della pietra (4 livelli) |
+| **Costituzione 1:** Colosso (4 livelli), Immunità ai veleni (3 livelli), Rinoceronte (3 livelli) |
+| **Costituzione 2:** Pelle Coriacea (4 livelli, poi serve CA) |
+| **Destrezza 1:** Riflessi fulminei (4 livelli), Iniziativa migliorata (2 volte), Passo rapido (ripetibile) |
+| **Destrezza 2:** Giocoliere |
+| **Destrezza 3:** Schivare trappole (2 livelli, poi serve CA 5) |
+| **Forza 0:** Molla (2 livelli) |
+
+## Caratteristiche Mentali
+
+| **Saggezza 0:** Percettivo (max 3 volte), Volontà Ferrea (4 livelli) |
+| --- |
+| **Saggezza 1:** Guaritore (2 livelli), Muro mentale (ripetibile), Passo Sicuro (2 livelli + Senza Traccia) |
+| **Intelligenza -1:** Poliglotta (solo creazione) |
+
+## Competenze Specifiche
+
+| **Caratteristica -1:** Esperto (4 livelli) |
+| --- |
+| **Consapevolezza 2:** Combattere alla Cieca (3 livelli: Cons 2, 3, 5) |
+| **Conoscenza 1:** Conoscenza istintiva |
+| **Cavalcare 1:** Difendere Cavalcatura |
+| **Carisma 2:** Infondere Coraggio (Intrattenere 1), Infondere Paura |
+| **Intrattenere 4:** Infondere Coraggio (2), Infondere Paura (2) |
+| **Intrattenere 6:** Litania versatile (2 livelli) |
+| **Intrattenere 12:** Infondere Coraggio (3), Infondere Paura (3) |
+| **Furtività 1:** Passo Felpato (2 livelli: Fur1, poi Des3+Fur8) |
+| **Tratti Ledyal 8:** Guaritore (2) |
+
+## Senza Prerequisiti
+
+| Duro a morire, Fortunato, Un solo corpo una sola mente un solo spirito (max 2 volte) |
+
+## Prerequisiti Speciali
+
+| **Fortunato + 6 punti Tratti:** Sfortunato |
+| --- |
+| **Passo Sicuro:** Senza Traccia (per ogni ambiente) |
+
+---
+
 ## Raggruppamento Abilita' per Stile
 
 Per facilitare la transizione da chi viene da altri giochi di ruolo con classi sono qui suddivise le Abilità per le classi più canoniche. Sono chiaramente solo indicazioni, in OBSS il personaggio può essere costruito come meglio si preferisce e come la storia che vive lo sta istruendo.

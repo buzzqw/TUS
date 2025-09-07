@@ -5496,6 +5496,148 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 ---
 
+\definecolor{blue}{RGB}{0,0,139}
+
+	
+
+	# WEAPON PROFICIENCY
+
+| **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Rolling Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
+| --- |
+| **WP 2:** Reach, Weapon Artist, Two weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
+| **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
+| **WP 4:** Double Portion (Two weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
+| **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2) |
+| **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Second Skin (2), Tactician (2, Intelligence 2) |
+| **WP 7:** Ferocity (3), One with the Bow (2, Dexterity 3) |
+| **WP 8:** Coordinated Damage (2, Intelligence 2), Uncanny Dodge (3, Dexterity 4) |
+| **WP 9:** Parry (3), Weapon Artist (2), One Arm One Weapon (2) |
+| **WP 10:** Sneak Attack (3), Bloodhound (2, Wisdom 2) |
+| **WP 11:** Ferocity (4), Second Skin (3) |
+| **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
+| **WP 13:** Weapon Artist (3), One Arm One Weapon (3) |
+| **WP 15:** Whirlwind Attack (2, Entertain 5) |
+| **WP 16:** Bloodhound (3, Wisdom 3), Tough Hide (4) |
+| **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two weapon Fighting (3) |
+
+# MAGIC PROFICIENCY
+
+| **MP 1:** Magic Adept (repeatable MP/2), Pet/Familiar, Scribe, Decipher Magical Writings, Brew Potions, Combat Caster, Eyes of Magic, Magical Roots, Scholar (creation only), Extended Battery (Magic Adept), One Hit One Kill (Magic Adept), One with Magic (Magic Adept), Faithful (Devotee, Traits 2+, repeatable Traits/3), Laying on Hands (Devotee/Follower, Traits 3+), The Patron is with me (Devotee, Traits 2+), The Patron is my Weapon (Followers, Traits 1+), Turn Undead (Devotee/Follower, Traits 2+), Power of the Patron (Devotee, Traits 1+), Only Child (Constitution 0), Channel Energy (Laying on Hands, Traits 4+) |
+| --- |
+| **MP 2:** Focused (repeatable MP/4), One Belief, Animalia (1) - Beasts (Follower/Devotee Efrem/Shayalia), Pure Blood (Animalia, Devotee Efrem/Shayalia) |
+| **MP 3:** Magic Battery (repeatable MP/3), Elementalist, Prodigious (repeatable MP/4), Specialist (repeatable), Only Child (2, Common Trait 3) |
+| **MP 4:** Animalia (2) - Plants and Oozes, Laying on Hands (2, Traits 4), Infuse Magical Energy (2) |
+| **MP 5:** Powerful Magics (repeatable MP/4), The Patron is my Weapon (2, Traits 5, WP 1), Only Child (3, Common Trait 5) |
+| **MP 6:** Create Magic Items - level 3, Loaded Dice, Black Siphon (Follower/Devotee Tazher, Traits 6), Elementalist (2), The Patron is with me (2, Traits 6), Laying on Hands (3, Traits 6), One Belief (2), Combat Caster (2), Daughter of Shayalia (2, Common Traits 6), Elemental Form (Follower/Devotee, 3 spells 2 Elemental Lists) |
+| **MP 7:** Infuse Superior Magical Energy (2) |
+| **MP 8:** Cautious Caster, Infuse Magical Energy (3), Laying on Hands (4, Traits 8), Pure Blood (2), Armor of the Devoted (3, Single Trait 8) |
+| **MP 9:** Only Child (4, Common Trait 9) |
+| **MP 10:** Animalia (3) - Elementals, Laying on Hands (5, Traits 10), The Patron is my Weapon (3, Traits 10, WP 4), The Patron is my Weapon (4, Traits 10, WP 5) |
+| **MP 11:** Elemental Form (2), One Belief (3) |
+| **MP 12:** Create Magic Items (2) - level 5, Loaded Dice (2), The Patron is with me (3, Traits 12), Laying on Hands (6, Traits 12), Combat Caster (3), Pure Blood (3), Daughter of Shayalia (3, Common Traits 12), Armor of the Devoted (4, Single Trait 12) |
+| **MP 13:** The Patron is my Weapon (5, Traits 13, WP 6) |
+| **MP 14:** Elemental Form (3), One Belief (4) |
+| **MP 16:** Create Magic Items (3) - level 8, Animalia (4) - Monstrosities, The Patron is my Weapon (6, Traits 16) |
+| **MP 17:** One Belief (5) |
+| **MP 18:** Create Magic Items (4) - level 9 |
+| **MP 20:** One Belief (6) |
+
+# MIXED ABILITIES (WP + MP)
+
+| **WP 1, MP 1:** The Shield is my Friend, Psychic Energy, Armor of the Enchanted Mountain (Empty Fist list 1, Constitution 2, Wisdom 1) |
+| --- |
+| **WP 1, MP 2:** Infuse Magical Energy |
+| **WP 2, MP 2:** Warrior of Magic |
+| **WP 3, MP 3:** Warrior of Magic (2) |
+| **WP 4, MP 4:** Psychic Energy (2) |
+| **WP 4, MP 6:** Infuse Superior Magical Energy |
+| **WP 6, MP 9:** Warrior of Magic (3) |
+| **WP 9, MP 12:** Warrior of Magic (4) |
+
+**Derived chains (require previous abilities):**
+- Psychic Strike (from Psychic Energy, Dexterity 1): levels with WP 2→3→7 (Wisdom 4)
+- Psychic Ray (from Psychic Strike, Wisdom 3): levels with WP 5→9
+	
+
+	# SPECIFIC PATRONS
+
+| **Armor of the Devoted:** Single Trait 4 (level 1), Single Trait 6 (level 2), Single Trait 8 (level 3), Single Trait 12 (level 4), being Devotee or Follower |
+| --- |
+| **Daughter of Shayalia:** Devotee/Follower Shayalia (level 1), Common Traits 6 (level 2), Common Traits 12 (level 3), Animalia taken 4 times (level 4) |
+| **Son of Tazher:** Devotee/Follower Tazher, Traits 10 |
+
+# SPECIFIC WEAPON LISTS
+
+	**Empty Fist List:**
+- Armor of the Enchanted Mountain (EF 1, WP 1, Constitution 2, Wisdom 1): 5 progressive levels (EF 5, 7, 8, 13)
+- Silver Crane (EF 2, Dexterity 1): 5 progressive levels (EF 4, 9+Dex2, 11, 13+Dex3)
+- Phoenix Wings (EF 3, Silver Crane 1): 3 progressive levels (EF 6+SC3+IF1, EF 12+SC4+IF2)
+- Iron Fist (EF 3): 6 progressive levels (EF 6, 9, 12, 15, 18)
+- Powerful Fist (EF 3)
+- Storm of Fury (EF 7, Dexterity 1, Strength 1)
+- Parry (WP 3 or EF 2): levels with WP 6/EF 4, WP 9/EF 6
+	
+
+	**Graceful Weapons List:**
+- Blade Dance (GW 2, Dexterity/Charisma 1, Entertain 1): 3 progressive levels (GW 4+Ent3, GW 7+Ent5)
+	
+
+	**Crossbow List:**
+- Shoot and Scoot (Crossbow 3)
+- Blockhead (Crossbow 4)
+	
+
+	**Rolling Balls List:**
+- Dancing Scourge (WP 1, Rolling Balls list)
+	
+
+	# ABILITIES WITHOUT WP/MP REQUIREMENTS
+
+	## Physical Characteristics
+
+| **Constitution -1:** Robust (2 levels) |
+| --- |
+| **Constitution 0:** Feign Death, Accelerated Healing (3 levels), Recovery, Stone Resilience (4 levels) |
+| **Constitution 1:** Colossus (4 levels), Immunity to Poisons (3 levels), Rhino (3 levels) |
+| **Constitution 2:** Tough Hide (4 levels, then requires WP) |
+| **Dexterity 1:** Lightning Reflexes (4 levels), Improved Initiative (2 times), Fast Step (repeatable) |
+| **Dexterity 2:** Juggler |
+| **Dexterity 3:** Trap Dodging (2 levels, then requires WP 5) |
+| **Strength 0:** Spring (2 levels) |
+
+## Mental Characteristics
+
+| **Wisdom 0:** Perceptive (max 3 times), Iron Will (4 levels) |
+| --- |
+| **Wisdom 1:** Healer (2 levels), Mental Wall (repeatable), Sure Step (2 levels + Trackless) |
+| **Intelligence -1:** Polyglot (creation only) |
+
+## Specific Skills
+
+| **Characteristic -1:** Expert (4 levels) |
+| --- |
+| **Awareness 2:** Blind Fighting (3 levels: Awareness 2, 3, 5) |
+| **Knowledge 1:** Instinctive Knowledge |
+| **Ride 1:** Defend Mount |
+| **Charisma 2:** Inspire Courage (Entertain 1), Instill Fear |
+| **Entertain 4:** Inspire Courage (2), Instill Fear (2) |
+| **Entertain 6:** Versatile Litany (2 levels) |
+| **Entertain 12:** Inspire Courage (3), Instill Fear (3) |
+| **Stealth 1:** Silent Step (2 levels: Stealth 1, then Dexterity 3+Stealth 8) |
+| **Ledyal Traits 8:** Healer (2) |
+
+## No Prerequisites
+
+| Hard to Kill, Lucky, One Body One Mind One Spirit (max 2 times) |
+
+## Special Prerequisites
+
+| **Lucky + 6 Trait points:** Unlucky |
+| --- |
+| **Sure Step:** Trackless (for each environment) |
+
+---
+
 ## Feat Grouping by Style
 
 To facilitate the transition for those coming from other role-playing games with classes, the Feats are divided here for the most canonical classes. These are clearly just guidelines; in OBSS, the character can be built as preferred and as the story they live is instructing them.

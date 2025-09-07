@@ -938,7 +938,7 @@ aggiornata versione POD 2025/08/06
 
 aggiornata versione POD 2025/009/01
 
-1.0.9 spingere-fare cadere costa 1 azione, chiarimenti su disarmare, aggiunto calendario a screen
+1.0.9 spingere-fare cadere costa 1 azione, chiarimenti su disarmare, aggiunto calendario a screen, aggiunto elenco abilita' per competenza richiesta,
 
 
 > valutare:
