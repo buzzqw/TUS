@@ -5303,8 +5303,6 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 	# Albero Competenza Armi (CA)
 
-	\definecolor{blue}{RGB}{0,0,139}
-	\definecolor{darkgreen}{RGB}{0,100,0}
 
 	
 	

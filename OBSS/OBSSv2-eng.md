@@ -5496,7 +5496,6 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 ---
 
-\definecolor{blue}{RGB}{0,0,139}
 
 	
 
