@@ -5227,7 +5227,7 @@ Grimlocks are blind and savage human-like creatures that inhabit the realm of th
 - **Languages**: Celestial, Common
 - **Challenge**: 10 (5900 XP)
 
-***Spellcasting.*** The naga has MC 11. Its spellcasting ability is Wisdom (+8 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
+***Spellcasting.*** The naga has MP 11. Its spellcasting ability is Wisdom (+8 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
 Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 
@@ -6776,7 +6776,7 @@ As long as its shriveled heart remains intact, the mummy lord can' \*\*t be perm
 
 The mummy lord' \*\*s heart has Defense 5, 25 hit points, and immunity to all damage except Light.
 
-***Spellcasting.*** The mummy has MC 10. Its spellcasting ability is Wisdom. The mummy has the following spells prepared: Cantrips (at will): *Sacred Flame, Thaumaturgy*
+***Spellcasting.*** The mummy has MP 10. Its spellcasting ability is Wisdom. The mummy has the following spells prepared: Cantrips (at will): *Sacred Flame, Thaumaturgy*
 
 1st level (4 slots): *Command, Guiding Bolt*
 
@@ -7189,7 +7189,7 @@ While the common saying is that orcs were created by Cattalm to destroy and brin
 - **Languages**: all, telepathy 45 m
 - **Challenge**: 26 (90000 XP)
 
-***Spells.*** Orcus has MC 17, DC 30. His spellcasting ability is Charisma. Orcus knows the following spells:
+***Spells.*** Orcus has MP 17, DC 30. His spellcasting ability is Charisma. Orcus knows the following spells:
 
 At will: Detect Magic, Chill Touch
 
@@ -7346,7 +7346,7 @@ This Owlbear is present in arctic regions or snowy mountains. Unlike the normal 
 
 *Hit:* 6 (1d6 + 3) slashing piercing damage.
 
-***The All-Seeing One***. The Panoptikhan can activate one of its eyed tentacles (2 Actions). The Panoptikhan has MC 14.
+***The All-Seeing One***. The Panoptikhan can activate one of its eyed tentacles (2 Actions). The Panoptikhan has MP 14.
 
 *The Freezing One*: the eye targets a creature within 18 meters, on which a Ray of Frost is activated. 8d8 cold damage, Reflex Saving Throw DC 25 to completely avoid the hit.
 
@@ -8542,7 +8542,7 @@ Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lea
 - **Languages**: Abyssal, Common
 - **Challenge**: 8 (3900 XP)
 
-***Spellcasting.*** The naga has MC 10. Its spellcasting ability is Intelligence (+6 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
+***Spellcasting.*** The naga has MP 10. Its spellcasting ability is Intelligence (+6 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
 Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
