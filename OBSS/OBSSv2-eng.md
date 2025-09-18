@@ -5499,10 +5499,11 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 	
 
-	# WEAPON PROFICIENCY
+	## Tree of Feats
 
-| **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Rolling Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
+| **{Weapon Proficiency**} |
 | --- |
+| **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Rolling Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
 | **WP 2:** Reach, Weapon Artist, Two weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
 | **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
 | **WP 4:** Double Portion (Two weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
@@ -5518,11 +5519,8 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **WP 15:** Whirlwind Attack (2, Entertain 5) |
 | **WP 16:** Bloodhound (3, Wisdom 3), Tough Hide (4) |
 | **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two weapon Fighting (3) |
-
-# MAGIC PROFICIENCY
-
+| **{Magic Proficiency**} |
 | **MP 1:** Magic Adept (repeatable MP/2), Pet/Familiar, Scribe, Decipher Magical Writings, Brew Potions, Combat Caster, Eyes of Magic, Magical Roots, Scholar (creation only), Extended Battery (Magic Adept), One Hit One Kill (Magic Adept), One with Magic (Magic Adept), Faithful (Devotee, Traits 2+, repeatable Traits/3), Laying on Hands (Devotee/Follower, Traits 3+), The Patron is with me (Devotee, Traits 2+), The Patron is my Weapon (Followers, Traits 1+), Turn Undead (Devotee/Follower, Traits 2+), Power of the Patron (Devotee, Traits 1+), Only Child (Constitution 0), Channel Energy (Laying on Hands, Traits 4+) |
-| --- |
 | **MP 2:** Focused (repeatable MP/4), One Belief, Animalia (1) - Beasts (Follower/Devotee Efrem/Shayalia), Pure Blood (Animalia, Devotee Efrem/Shayalia) |
 | **MP 3:** Magic Battery (repeatable MP/3), Elementalist, Prodigious (repeatable MP/4), Specialist (repeatable), Only Child (2, Common Trait 3) |
 | **MP 4:** Animalia (2) - Plants and Oozes, Laying on Hands (2, Traits 4), Infuse Magical Energy (2) |
@@ -5540,11 +5538,8 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **MP 17:** One Belief (5) |
 | **MP 18:** Create Magic Items (4) - level 9 |
 | **MP 20:** One Belief (6) |
-
-# MIXED ABILITIES (WP + MP)
-
+| **{Mixed Feat (WP/MP)**} |
 | **WP 1, MP 1:** The Shield is my Friend, Psychic Energy, Armor of the Enchanted Mountain (Empty Fist list 1, Constitution 2, Wisdom 1) |
-| --- |
 | **WP 1, MP 2:** Infuse Magical Energy |
 | **WP 2, MP 2:** Warrior of Magic |
 | **WP 3, MP 3:** Warrior of Magic (2) |
@@ -5558,16 +5553,14 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 - Psychic Ray (from Psychic Strike, Wisdom 3): levels with WP 5→9
 	
 
-	# SPECIFIC PATRONS
-
-| **Armor of the Devoted:** Single Trait 4 (level 1), Single Trait 6 (level 2), Single Trait 8 (level 3), Single Trait 12 (level 4), being Devotee or Follower |
+| **{With Patron**} |
 | --- |
+| **Armor of the Devoted:** Single Trait 4 (level 1), Single Trait 6 (level 2), Single Trait 8 (level 3), Single Trait 12 (level 4), being Devotee or Follower |
 | **Daughter of Shayalia:** Devotee/Follower Shayalia (level 1), Common Traits 6 (level 2), Common Traits 12 (level 3), Animalia taken 4 times (level 4) |
 | **Son of Tazher:** Devotee/Follower Tazher, Traits 10 |
+| **{Specific Weapon List**} |
 
-# SPECIFIC WEAPON LISTS
-
-	**Empty Fist List:**
+**Empty Fist List:**
 - Armor of the Enchanted Mountain (EF 1, WP 1, Constitution 2, Wisdom 1): 5 progressive levels (EF 5, 7, 8, 13)
 - Silver Crane (EF 2, Dexterity 1): 5 progressive levels (EF 4, 9+Dex2, 11, 13+Dex3)
 - Phoenix Wings (EF 3, Silver Crane 1): 3 progressive levels (EF 6+SC3+IF1, EF 12+SC4+IF2)
@@ -5590,12 +5583,10 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 - Dancing Scourge (WP 1, Rolling Balls list)
 	
 
-	# ABILITIES WITHOUT WP/MP REQUIREMENTS
-
-	## Physical Characteristics
-
-| **Constitution -1:** Robust (2 levels) |
+| **{Feat without WP/CM requisite**} |
 | --- |
+| **Physical Characteristics** |
+| **Constitution -1:** Robust (2 levels) |
 | **Constitution 0:** Feign Death, Accelerated Healing (3 levels), Recovery, Stone Resilience (4 levels) |
 | **Constitution 1:** Colossus (4 levels), Immunity to Poisons (3 levels), Rhino (3 levels) |
 | **Constitution 2:** Tough Hide (4 levels, then requires WP) |
@@ -5603,18 +5594,12 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **Dexterity 2:** Juggler |
 | **Dexterity 3:** Trap Dodging (2 levels, then requires WP 5) |
 | **Strength 0:** Spring (2 levels) |
-
-## Mental Characteristics
-
+| **Mental Characteristics** |
 | **Wisdom 0:** Perceptive (max 3 times), Iron Will (4 levels) |
-| --- |
 | **Wisdom 1:** Healer (2 levels), Mental Wall (repeatable), Sure Step (2 levels + Trackless) |
 | **Intelligence -1:** Polyglot (creation only) |
-
-## Specific Skills
-
+| **Specific Skills** |
 | **Characteristic -1:** Expert (4 levels) |
-| --- |
 | **Awareness 2:** Blind Fighting (3 levels: Awareness 2, 3, 5) |
 | **Knowledge 1:** Instinctive Knowledge |
 | **Ride 1:** Defend Mount |
@@ -5624,15 +5609,10 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **Entertain 12:** Inspire Courage (3), Instill Fear (3) |
 | **Stealth 1:** Silent Step (2 levels: Stealth 1, then Dexterity 3+Stealth 8) |
 | **Ledyal Traits 8:** Healer (2) |
-
-## No Prerequisites
-
+| **No Prerequisites** |
 | Hard to Kill, Lucky, One Body One Mind One Spirit (max 2 times) |
-
-## Special Prerequisites
-
+| **Special Prerequisites** |
 | **Lucky + 6 Trait points:** Unlucky |
-| --- |
 | **Sure Step:** Trackless (for each environment) |
 
 ---
@@ -5643,7 +5623,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Tank Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | My Skin - Second Skin |
 | 2 | 2 | 0 | 2d6+6 | Ready Defense |
 | 3 | 3 | 0 | 3d6+9 | Parry |
@@ -5669,7 +5649,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Barbarian** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Ferocity - Fury |
 | 2 | 2 | 0 | 2d6+6 | Mighty Blows |
 | 3 | 3 | 0 | 3d6+9 | Press On |
@@ -5695,7 +5675,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Duelist Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Focused Weapon - Blade Dance |
 | 2 | 2 | 0 | 2d6+6 | Improved Initiative |
 | 3 | 3 | 0 | 3d6+9 | Parry |
@@ -5721,7 +5701,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Acrobat Rogue** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Quick Draw - Silent Step |
 | 2 | 2 | 0 | 2d6+6 | Opportunist |
 | 3 | 3 | 0 | 3d6+9 | Sneak Attack |
@@ -5747,7 +5727,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Assassin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Sneak Attack - Silent Step |
 | 2 | 2 | 0 | 2d6+6 | Quick Draw |
 | 3 | 3 | 0 | 3d6+9 | Opportunist |
@@ -5773,7 +5753,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Explorer Ranger** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Sure Step - Precise Shot |
 | 2 | 2 | 0 | 2d6+6 | Bloodhound |
 | 3 | 3 | 0 | 3d6+9 | Hawk Eye |
@@ -5799,7 +5779,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Beast Ranger** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Pet / Familiar - Sure Step |
 | 2 | 2 | 0 | 2d6+6 | Bloodhound |
 | 3 | 2 | 1 | 3d6+6 | Magic Adept |
@@ -5825,7 +5805,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Traditional Paladin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Retaliation |
 | 2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | Laying on Hands |
@@ -5851,7 +5831,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Templar Paladin** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Retaliation |
 | 2 | 2 | 0 | 2d6+6 | This is my Weapon! |
 | 3 | 3 | 0 | 3d6+9 | Second Skin |
@@ -5877,7 +5857,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Academic Wizard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 0 | 1 | 1d6 | Magic Adept - One with Magic |
 | 2 | 0 | 2 | 2d6 | Scholar |
 | 3 | 0 | 3 | 3d6 | Prodigious |
@@ -5903,7 +5883,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Sorcerer** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 0 | 1 | 1d6 | Magic Adept - Magic Battery |
 | 2 | 0 | 2 | 2d6 | Elementalist |
 | 3 | 0 | 3 | 3d6 | Extended Battery |
@@ -5929,7 +5909,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Healer Cleric** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Healer - Magic Adept |
 | 2 | 1 | 1 | 2d6+3 | Laying on Hands |
 | 3 | 2 | 1 | 3d6+6 | Faithful |
@@ -5955,7 +5935,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Warrior Cleric** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | The Patron is my Weapon - Magic Adept |
 | 2 | 1 | 1 | 2d6+3 | Laying on Hands |
 | 3 | 2 | 1 | 3d6+6 | Armor of the Devoted |
@@ -5981,7 +5961,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Naturalist Druid** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Brew Potions - Magic Adept |
 | 2 | 1 | 1 | 2d6+3 | Daughter of Shayalia |
 | 3 | 2 | 1 | 3d6+6 | Sure Step |
@@ -6007,7 +5987,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Shapeshifter Druid** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Brew Potions - Magic Adept |
 | 2 | 1 | 1 | 2d6+3 | Animalia |
 | 3 | 2 | 1 | 3d6+6 | Daughter of Shayalia |
@@ -6033,7 +6013,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Enchanter Bard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Inspire Courage - Magic Adept |
 | 2 | 1 | 1 | 2d6+3 | Combat Caster |
 | 3 | 2 | 1 | 3d6+6 | Instill Fear |
@@ -6059,7 +6039,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Blade Bard** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Blade Dance - Inspire Courage |
 | 2 | 2 | 0 | 2d6+6 | Focused Weapon |
 | 3 | 3 | 0 | 3d6+9 | Tactician |
@@ -6085,7 +6065,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Mystic Monk** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Silver Crane - Psychic Energy |
 | 2 | 1 | 1 | 2d6+3 | Iron Fist |
 | 3 | 2 | 1 | 3d6+6 | Psychic Strike |
@@ -6111,7 +6091,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 		**Lv** | **Devote** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Son of Tazher - Faithful |
 | 2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | The Patron is with me |
@@ -6137,7 +6117,7 @@ To facilitate the transition for those coming from other role-playing games with
 
 | 	**Lv** | **Spellsword Magus** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
-| **WC** | **MC** | **HP** | |
+| **WC** | **MP** | **HP** | |
 | 1 | 1 | 0 | 1d6+3 | Focused Weapon - Combat Caster |
 | 2 | 1 | 1 | 2d6+3 | Magic Adept |
 | 3 | 2 | 1 | 3d6+6 | Warrior of Magic |
@@ -28676,7 +28656,7 @@ Grimlocks are blind and savage human-like creatures that inhabit the realm of th
 - **Languages**: Celestial, Common
 - **Challenge**: 10 (5900 XP)
 
-***Spellcasting.*** The naga has MC 11. Its spellcasting ability is Wisdom (+8 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
+***Spellcasting.*** The naga has MP 11. Its spellcasting ability is Wisdom (+8 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
 Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 
@@ -30225,7 +30205,7 @@ As long as its shriveled heart remains intact, the mummy lord can' \*\*t be perm
 
 The mummy lord' \*\*s heart has Defense 5, 25 hit points, and immunity to all damage except Light.
 
-***Spellcasting.*** The mummy has MC 10. Its spellcasting ability is Wisdom. The mummy has the following spells prepared: Cantrips (at will): *Sacred Flame, Thaumaturgy*
+***Spellcasting.*** The mummy has MP 10. Its spellcasting ability is Wisdom. The mummy has the following spells prepared: Cantrips (at will): *Sacred Flame, Thaumaturgy*
 
 1st level (4 slots): *Command, Guiding Bolt*
 
@@ -30638,7 +30618,7 @@ While the common saying is that orcs were created by Cattalm to destroy and brin
 - **Languages**: all, telepathy 45 m
 - **Challenge**: 26 (90000 XP)
 
-***Spells.*** Orcus has MC 17, DC 30. His spellcasting ability is Charisma. Orcus knows the following spells:
+***Spells.*** Orcus has MP 17, DC 30. His spellcasting ability is Charisma. Orcus knows the following spells:
 
 At will: Detect Magic, Chill Touch
 
@@ -30795,7 +30775,7 @@ This Owlbear is present in arctic regions or snowy mountains. Unlike the normal 
 
 *Hit:* 6 (1d6 + 3) slashing piercing damage.
 
-***The All-Seeing One***. The Panoptikhan can activate one of its eyed tentacles (2 Actions). The Panoptikhan has MC 14.
+***The All-Seeing One***. The Panoptikhan can activate one of its eyed tentacles (2 Actions). The Panoptikhan has MP 14.
 
 *The Freezing One*: the eye targets a creature within 18 meters, on which a Ray of Frost is activated. 8d8 cold damage, Reflex Saving Throw DC 25 to completely avoid the hit.
 
@@ -31991,7 +31971,7 @@ Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lea
 - **Languages**: Abyssal, Common
 - **Challenge**: 8 (3900 XP)
 
-***Spellcasting.*** The naga has MC 10. Its spellcasting ability is Intelligence (+6 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
+***Spellcasting.*** The naga has MP 10. Its spellcasting ability is Intelligence (+6 to hit with spell attacks), and it requires only verbal components to cast its spells. The naga has the following spells prepared:
 
 Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 

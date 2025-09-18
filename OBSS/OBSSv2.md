@@ -5301,16 +5301,15 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 ---
 
-	# Albero Competenza Armi (CA)
+	## Albero Abilità
 
 
 	
 	
 
-	## COMPETENZA ARMI
-
-| **CA 1:** Arma Focalizzata, Colpi Poderosi, Estrazione rapida, Ferocia, Flagello Danzante (Lista Palle rotanti), Furia, Improvvisare, La mia pelle, La mia morte la tua morte (Forza 1), La mia Testa è più Dura, Persona veramente malvagia, Più sono grossi più fanno rumore quando cadono, Primo Sangue, Proseguire, Questa è la mia arma!, Questo è il mio pugnale, Rappresaglia (Seguace), Seconda pelle, Tiro Preciso (Destrezza 3), Toccata e fuga (Destrezza 1), Arciere su saurovallo, Armato (Forza 3), Segugio (Intelligenza 1, Saggezza 1), Tattico (Intelligenza 1) |
+| **{Competenza Armi**} |
 | --- |
+| **CA 1:** Arma Focalizzata, Colpi Poderosi, Estrazione rapida, Ferocia, Flagello Danzante (Lista Palle rotanti), Furia, Improvvisare, La mia pelle, La mia morte la tua morte (Forza 1), La mia Testa è più Dura, Persona veramente malvagia, Più sono grossi più fanno rumore quando cadono, Primo Sangue, Proseguire, Questa è la mia arma!, Questo è il mio pugnale, Rappresaglia (Seguace), Seconda pelle, Tiro Preciso (Destrezza 3), Toccata e fuga (Destrezza 1), Arciere su saurovallo, Armato (Forza 3), Segugio (Intelligenza 1, Saggezza 1), Tattico (Intelligenza 1) |
 | **CA 2:** Allungo, Artista dell'Arma, Combattimento con due armi (Destrezza 2, Forza 1), Daredevil (Destrezza 1), Difesa pronta, Fare Infuriare (Carisma o Forza 2), Freccia chiamata freccia consegnata, Iaijutsu, Opportunista, Precisino, Tiro Rapido (Destrezza 3, Tiro Preciso), Un braccio un arma |
 | **CA 3:** Colpo Furtivo, Lesto, Occhio Clinico, Occhio di Falco, Parata, Spara e Scappa (Lista Balestre 3), Stai giù! |
 | **CA 4:** Doppia porzione (Combattimento con due armi), Ho detto CADI!, Testa cava (Lista Balestre 4), Uno con l'arco, Ferocia (2), Precisino (2), Schivata prodigiosa (2) |
@@ -5326,11 +5325,8 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 | **CA 15:** Attacco Turbinante (2, Intrattenere 5) |
 | **CA 16:** Segugio (3, Saggezza 3), Pelle Coriacea (4) |
 | **CA 18:** Colpo Paralizzante (Colpo Indebolente, Colpo furtivo 4), Combattimento con due armi (3) |
-
-## COMPETENZA MAGICA
-
+| **{Competenza Magica**} |
 | **CM 1:** Adepto della Magia (ripetibile CM/2), Animaletto/Famiglio, Dattilografo, Decifrare scritti magici, Distillare pozioni, Incantatore da Combattimento, Occhi della magia, Radici magiche, Sapiente (solo creazione), Batteria Estesa (Adepto della Magia), Un colpo un morto (Adepto della Magia), Tutt'uno con la magia (Adepto della Magia), Fedele (Devoto, Tratti 2+, ripetibile Tratti/3), Imposizione delle mani (Devoto/Seguace, Tratti 3+), Il Patrono è con me (Devoto, Tratti 2+), Il Patrono è la mia Arma (Seguaci, Tratti 1+), Scacciare i non morti (Devoto/Seguace, Tratti 2+), Potere del Patrono (Devoto, Tratti 1+), Figlio Unico (Costituzione 0), Incanalare Energia (Imposizione delle mani, Tratti 4+) |
-| --- |
 | **CM 2:** Concentrato (ripetibile CM/4), Un solo credo, Animalia (1) - Bestie (Seguace/Devoto Efrem/Shayalia), Sangue Puro (Animalia, Devoto Efrem/Shayalia) |
 | **CM 3:** Batteria Magica (ripetibile CM/3), Elementalista, Prodigioso (ripetibile CM/4), Specialista (ripetibile), Figlio Unico (2, Tratto comune 3) |
 | **CM 4:** Animalia (2) - Piante e Melme, Imposizione delle mani (2, Tratti 4), Infondere Energia Magica (2) |
@@ -5348,11 +5344,8 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 | **CM 17:** Un solo credo (5) |
 | **CM 18:** Creare Oggetti Magici (4) - livello 9 |
 | **CM 20:** Un solo credo (6) |
-
-## ABILITÀ MISTE (CA + CM)
-
+| **{Abilità miste (CA/CM)**} |
 | **CA 1, CM 1:** Lo scudo è mio amico, Energia Psichica, Armatura della Montagna Incantata (Lista Pugno Vuoto 1, Costituzione 2, Saggezza 1) |
-| --- |
 | **CA 1, CM 2:** Infondere Energia Magica |
 | **CA 2, CM 2:** Guerriero della Magia |
 | **CA 3, CM 3:** Guerriero della Magia (2) |
@@ -5366,16 +5359,14 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 - Raggio Psichico (da Colpo Psichico, Saggezza 3): livelli con CA 5, CA 9
 	
 
-	## PATRONI SPECIFICI
-
-| **Armatura del Devoto:** Tratto singolo 4 (livello 1), Tratto singolo 6 (livello 2), Tratto singolo 8 (livello 3), Tratto singolo 12 (livello 4), essere Devoto o Seguace |
+| **{Patroni**} |
 | --- |
+| **Armatura del Devoto:** Tratto singolo 4 (livello 1), Tratto singolo 6 (livello 2), Tratto singolo 8 (livello 3), Tratto singolo 12 (livello 4), essere Devoto o Seguace |
 | **Figlia di Shayalia:** Devoto/Seguace Shayalia (livello 1), Tratti comuni 6 (livello 2), Tratti comuni 12 (livello 3), Animalia preso 4 volte (livello 4) |
 | **Figlio di Tazher:** Devoto/Seguace Tazher, Tratti 10 |
+| **{Liste d'armi specifiche**} |
 
-## LISTE D'ARMI SPECIFICHE
-
-	**Lista Pugno Vuoto:**
+**Lista Pugno Vuoto:**
 - Armatura della Montagna Incantata (PV 1, CA 1, Costituzione 2, Saggezza 1): 5 livelli progressivi (PV 5, 7, 8, 13)
 - Gru d'Argento (PV 2, Destrezza 1): 5 livelli progressivi (PV 4, 9+Des2, 11, 13+Des3)
 - Ali della Fenice (PV 3, Gru d'Argento 1): 3 livelli progressivi (PV 6+Gru3+PF1, PV 12+Gru4+PF2)
@@ -5398,9 +5389,10 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 - Flagello Danzante (CA 1, Lista Palle Rotanti)
 	
 
-	## ABILITÀ SENZA REQUISITI CA/CM
+| **{Senza requisiti di CA/CM**} |
+| --- |
 
-	## Caratteristiche Fisiche
+**Caratteristiche Fisiche**
 
 | **Costituzione -1:** Robusto (2 livelli) |
 | --- |
@@ -5412,14 +5404,14 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 | **Destrezza 3:** Schivare trappole (2 livelli, poi serve CA 5) |
 | **Forza 0:** Molla (2 livelli) |
 
-## Caratteristiche Mentali
+**Caratteristiche Mentali**
 
 | **Saggezza 0:** Percettivo (max 3 volte), Volontà Ferrea (4 livelli) |
 | --- |
 | **Saggezza 1:** Guaritore (2 livelli), Muro mentale (ripetibile), Passo Sicuro (2 livelli + Senza Traccia) |
 | **Intelligenza -1:** Poliglotta (solo creazione) |
 
-## Competenze Specifiche
+**Competenze Specifiche**
 
 | **Caratteristica -1:** Esperto (4 livelli) |
 | --- |
@@ -5433,11 +5425,11 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 | **Furtività 1:** Passo Felpato (2 livelli: Fur1, poi Des3+Fur8) |
 | **Tratti Ledyal 8:** Guaritore (2) |
 
-## Senza Prerequisiti
+**Senza Prerequisiti**
 
 | Duro a morire, Fortunato, Un solo corpo una sola mente un solo spirito (max 2 volte) |
 
-## Prerequisiti Speciali
+**Prerequisiti Speciali**
 
 | **Fortunato + 6 punti Tratti:** Sfortunato |
 | --- |
@@ -5448,6 +5440,200 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 ## Raggruppamento Abilita' per Stile
 
 Per facilitare la transizione da chi viene da altri giochi di ruolo con classi sono qui suddivise le Abilità per le classi più canoniche. Sono chiaramente solo indicazioni, in OBSS il personaggio può essere costruito come meglio si preferisce e come la storia che vive lo sta istruendo.
+
+### Guerriero
+
+| Allungo *(CA 2)* |
+| Arma Focalizzata *(CA 1)* |
+| Armato *(For 3, CA 1/6)* |
+| Artista dell'Arma *(CA 2/9/13)* |
+| Attacco Turbinante *(CA 12, Int 3 / CA 15, Int 5)* |
+| Colosso *(Cos 3)* |
+| Colpi Poderosi *(CA 1)* |
+| Colpo Mortale *(CA 5)* |
+| Combattere alla Cieca *(Nessun requisito)* |
+| Combattimento con due armi *(Des 2, For 1, CA 2/12/18)* |
+| Conoscenza istintiva *(Nessun requisito)* |
+| Daredevil *(CA 2, Des 1)* |
+| Difesa pronta *(CA 2)* |
+| Duro a morire *(Cos 2)* |
+| Ferocia *(CA 1/7/11)* |
+| Flagello Danzante *(CA 1, Lista Palle rotanti)* |
+| Forgiato nella furia *(CA 5)* |
+| Furia *(CA 1)* |
+| Ho detto CADI! *(CA 4)* |
+| Iaijutsu *(CA 2/6/12)* |
+| Iniziativa migliorata *(Nessun requisito)* |
+| La mia Testa e' più Dura *(CA 1)* |
+| La mia morte la tua morte *(CA 1, For 1)* |
+| La mia pelle *(CA 1/6)* |
+| Lesto *(CA 3/6)* |
+| Parata *(CA 3/6/9 o PV 2/4/6)* |
+| Pelle Coriacea *(CA 12, Cos 3 / CA 16)* |
+| Persona veramente malvagia *(CA 1)* |
+| Piu' sono grossi piu' fanno rumore quando cadono *(CA 1)* |
+| Primo Sangue *(CA 1)* |
+| Proseguire *(CA 1/6)* |
+| Questa è la mia arma! *(CA 1/5)* |
+| Recupero *(Cos 1)* |
+| Resistenza della pietra *(Nessun requisito)* |
+| Riflessi fulminei *(Nessun requisito)* |
+| Rinoceronte *(Cos 3)* |
+| Robusto *(Nessun requisito)* |
+| Seconda pelle *(CA 1/6/11)* |
+| Stai giù! *(CA 3)* |
+| Un braccio, un arma *(CA 2/9/13)* |
+| Volonta' Ferrea *(Sag 2)* |
+
+### Ladro
+
+| Colpo Furtivo *(CA 3/6/10/12)* |
+| Colpo Indebolente *(Colpo furtivo 3, CA 12)* |
+| Colpo Paralizzante *(Colpo Indebolente, CA 18)* |
+| Estrazione rapida *(CA 1)* |
+| Difesa pronta *(CA 2)* |
+| Fare Infuriare *(CA 2, Car/For 2)* |
+| Freccia chiamata, freccia consegnata *(CA 2)* |
+| Giocoliere *(Des 2)* |
+| Improvvisare *(CA 1)* |
+| Lesto *(CA 3/6)* |
+| Occhio Clinico *(CA 3)* |
+| Opportunista *(CA 2)* |
+| Passo Felpato *(Des 1)* |
+| Percettivo *(Sag 1)* |
+| Questo e' il mio pugnale *(CA 1)* |
+| Schivare trappole *(CA 5)* |
+| Schivata prodigiosa *(CA 4/8, Des 4)* |
+| Toccata e fuga *(Des 1, CA 1)* |
+
+### Paladino
+
+| Armatura del Devoto *(Devoto, Tratti 3+)* |
+| Il Patrono è la mia Arma *(Seguace, Tratti 1+, CM 1)* |
+| Imposizione delle mani *(Devoto/Seguace, Tratti 3+, CM 1)* |
+| Incanalare Energia *(Imposizione delle mani, Tratti 4+, CM 1)* |
+| Lo scudo è mio amico *(CA 1, CM 1)* |
+| Muro mentale *(Sag 2)* |
+| Rappresaglia *(CA 1, Seguace Patrono)* |
+
+### Bardo
+
+| Dadi Truccati *(CM 6)* |
+| Danno Coordinato *(CA 6, Sag 2 / CA 8, Int 2)* |
+| Danza della Lama *(CA 1, Des 3)* |
+| Esperto *(Nessun requisito)* |
+| Fare Infuriare *(CA 2, Car/For 2)* |
+| Figlio Unico *(Cos 0, CM 1)* |
+| Fortunato *(Car 1)* |
+| Guerriero della Magia *(CA 2, CM 2 / CA 3, CM 3 / CA 6, CM 9)* |
+| Incantatore da Combattimento *(CM 1/6/12)* |
+| Infondere Coraggio *(Car 2)* |
+| Infondere Energia Magica *(CA 1, CM 2/4/8)* |
+| Infondere Energia Magica Superiore *(CA 4, CM 6/7)* |
+| Infondere Paura *(Car 1)* |
+| Litania versatile *(Car 3)* |
+| Poliglotta *(Int 1)* |
+| Radici magiche *(CM 1)* |
+| Tattico *(CA 1, Int 1 / CA 6, Int 2)* |
+| Sfortunato *(Car -1)* |
+
+### Ranger
+
+| Combattimento con due armi *(Des 2, For 1, CA 2/12/18)* |
+| Conoscenza istintiva *(Nessun requisito)* |
+| Difendere Cavalcatura *(CA 1)* |
+| Doppia porzione *(Combattimento con due armi, CA 4)* |
+| Freccia chiamata, freccia consegnata *(CA 2)* |
+| Occhio di Falco *(CA 3)* |
+| Passo Sicuro *(Nessun requisito)* |
+| Passo rapido *(Des 2)* |
+| Precisino *(CA 2/4)* |
+| Piu' sono grossi piu' fanno rumore quando cadono *(CA 1)* |
+| Segugio *(Int 1, Sag 1, CA 1/10/16)* |
+| Senza Traccia *(Des 1)* |
+| Spara e Scappa *(Des 3)* |
+| Testa cava *(Des 4)* |
+| Tiro Preciso *(Des 3, CA 1)* |
+| Tiro Rapido *(Des 3, Tiro Preciso, CA 2)* |
+| Uno con l'arco *(CA 4 / Des 3, CA 7)* |
+
+### Druido
+
+| Adepto della Magia *(CM 1, ripetibile CM/2)* |
+| Animalia *(CM 2, Seguace/Devoto Efrem/Shayalia)* |
+| Distillare pozioni *(CM 1)* |
+| Elementalista *(CM 3, 4+ incantesimi da Lista di Magia Elementale)* |
+| Figlia di Shayalia *(Devoto Shayalia, Tratti 5+, CM 3)* |
+| Forma Elementale *(Seguace/Devoto Erondil/Gaya/Efrem/Shayalia, 3+ incantesimi da 2 Liste Elementari diverse, CM 6)* |
+| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
+| Sangue Puro *(Animalia, Devoto Efrem/Shayalia)* |
+
+### Chierico
+
+| Adepto della Magia *(CM 1, ripetibile CM/2)* |
+| Armatura del Devoto *(Devoto, Tratti 3+)* |
+| Dattilografo *(CM 1)* |
+| Fedele *(CM 1, Tratti 2+, Devoto, ripetibile Tratti/3)* |
+| Guaritore *(Sag 2)* |
+| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
+| Il Patrono è la mia Arma *(Seguace, Tratti 1+, CM 1)* |
+| Imposizione delle mani *(Devoto/Seguace, Tratti 3+, CM 1)* |
+| Incanalare Energia *(Imposizione delle mani, Tratti 4+, CM 1)* |
+| Potere del Patrono *(Devoto, Tratti 1+, CM 1)* |
+| Scacciare i non morti *(Devoto/Seguace, Tratti 2+, CM 1)* |
+| Specialista *(CM 3, ripetibile CM/4)* |
+| Tutt'uno con la magia *(Adepto della Magia, CM 1)* |
+
+### Mago/Stregone
+
+| Adepto della Magia *(CM 1, ripetibile CM/2)* |
+| Animaletto / Famiglio *(CM 1)* |
+| Batteria Magica *(CM 3, ripetibile CM/3)* |
+| Batteria Estesa *(CM 1, Adepto della Magia)* |
+| Concentrato *(CM 2, ripetibile CM/4)* |
+| Creare Oggetti Magici *(CM 6)* |
+| Dadi Truccati *(CM 6)* |
+| Dattilografo *(CM 1)* |
+| Decifrare scritti magici *(CM 1)* |
+| Elementalista *(CM 3, 4+ incantesimi da Lista di Magia Elementale)* |
+| Figlio di Tazher *(Devoto Tazher, Tratti 5+, CM 3)* |
+| Incantatore Prudente *(CM 8)* |
+| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
+| Magie Potenti *(CM 5)* |
+| Occhi della magia *(CM 1)* |
+| Prodigioso *(CM 3, ripetibile CM/4)* |
+| Robusto *(Nessun requisito)* |
+| Sapiente *(CM 1, solo creazione)* |
+| Sifone Nero *(CM 6, Seguace/Devoto Tazher, Tratti 6)* |
+| Specialista *(CM 3, ripetibile CM/4)* |
+| Tutt'uno con la magia *(Adepto della Magia, CM 1)* |
+| Un colpo un morto *(CM 1, Adepto della Magia)* |
+| Un solo credo *(CM 2)* |
+
+### Monaco
+
+| Ali della Fenice *(PV 4)* |
+| Armatura della Montagna Incantata *(PV 1, CA 1, Cos 2, Sag 1)* |
+| Colpo Psichico *(Energia Psichica, Des 1/Sag 3, CA 2/3)* |
+| Energia Psichica *(For 1, Sag 2, CA 1, CM 1 / CA 4, CM 4)* |
+| Finta Morte *(PV 3)* |
+| Gru d'Argento *(PV 2)* |
+| Immunita' ai veleni *(PV 5)* |
+| Molla *(PV 1)* |
+| Colosso *(Cos 3)* |
+| Muro mentale *(Sag 2)* |
+| Passo rapido *(Des 2)* |
+| Pugno di Ferro *(PV 3)* |
+| Pugno Potente *(PV 2)* |
+| Raggio Psichico *(Colpo Psichico, Sag 3, CA 5/9)* |
+| Tempesta di Furia *(PV 6)* |
+| Volonta' Ferrea *(Sag 2)* |
+
+---
+
+## Esempi di costruzione del personaggio
+
+Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy, prendeteli come uno spunto per costruire i vostri personaggi. Ricordate di aggiungere il valore della Costituzione per livello ai Punti Ferita.
 
 | 	**Lv** | **Guerriero Tank** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
@@ -5472,11 +5658,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 18 | 0 | 18d6+54 | Riflessi fulminei |
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | Colosso |
-
-**Barbaro**
-
 | 	**Lv** | **Barbaro** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Ferocia - Furia |
 | 2 | 2 | 0 | 2d6+6 | Colpi Poderosi |
@@ -5492,17 +5674,13 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
 | 13 | 13 | 0 | 13d6+39 | Un braccio, un arma (2°) |
 | 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Più sono grossi più fanno rumore quando cadono |
+| 15 | 15 | 0 | 15d6+45 | Piu' sono grossi piu' fanno rumore quando cadono |
 | 16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
 | 17 | 17 | 0 | 17d6+51 | |
 | 18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | Colosso |
-
-**Spadaccino**
-
 | 	**Lv** | **Spadaccino** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Danza della Lama |
 | 2 | 2 | 0 | 2d6+6 | Iniziativa migliorata |
@@ -5524,11 +5702,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 18 | 0 | 18d6+54 | Iaijutsu (3°) |
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | Attacco Turbinante |
-
-**Ladro Acrobata**
-
 | 	**Lv** | **Ladro Acrobata** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Estrazione rapida - Passo Felpato |
 | 2 | 2 | 0 | 2d6+6 | Opportunista |
@@ -5550,16 +5724,12 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 18 | 0 | 18d6+54 | Colpo Indebolente |
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | Colpo Paralizzante |
-
-**Assassino**
-
 | 	**Lv** | **Assassino** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Colpo Furtivo - Passo Felpato |
 | 2 | 2 | 0 | 2d6+6 | Estrazione rapida |
 | 3 | 3 | 0 | 3d6+9 | Opportunista |
-| 4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
+| 4 | 4 | 0 | 4d6+12 | Questo e' il mio pugnale |
 | 5 | 5 | 0 | 5d6+15 | Schivare trappole |
 | 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
 | 7 | 7 | 0 | 7d6+21 | Percettivo |
@@ -5576,11 +5746,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 15 | 4 | 18d6+45 | Colpo Indebolente |
 | 19 | 15 | 5 | 19d6+45 | |
 | 20 | 15 | 5 | 20d6+45 | Colpo Paralizzante |
-
-**Ranger Esploratore**
-
 | 	**Lv** | **Ranger Esploratore** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Passo Sicuro - Tiro Preciso |
 | 2 | 2 | 0 | 2d6+6 | Segugio |
@@ -5588,7 +5754,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 4 | 4 | 0 | 4d6+12 | Passo rapido |
 | 5 | 5 | 0 | 5d6+15 | Uno con l'arco |
 | 6 | 6 | 0 | 6d6+18 | Precisino |
-| 7 | 7 | 0 | 7d6+21 | Passo Sicuro (specializzazione) |
+| 7 | 7 | 0 | 7d6+21 | Passo Sicuro |
 | 8 | 8 | 0 | 8d6+24 | |
 | 9 | 9 | 0 | 9d6+27 | Senza Traccia |
 | 10 | 10 | 0 | 10d6+30 | Combattere alla Cieca |
@@ -5602,11 +5768,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 15 | 4 | 18d6+45 | Occhio di Falco (2°) |
 | 19 | 15 | 5 | 19d6+45 | |
 | 20 | 15 | 5 | 20d6+45 | Uno con l'arco (2°) |
-
-**Ranger Bestiale**
-
 | 	**Lv** | **Ranger Bestiale** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Animaletto / Famiglio - Passo Sicuro |
 | 2 | 2 | 0 | 2d6+6 | Segugio |
@@ -5616,7 +5778,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 6 | 4 | 2 | 6d6+12 | Tiro Preciso |
 | 7 | 4 | 3 | 7d6+12 | Figlia di Shayalia |
 | 8 | 5 | 3 | 8d6+15 | |
-| 9 | 5 | 4 | 9d6+15 | Passo Sicuro (specializzazione) |
+| 9 | 5 | 4 | 9d6+15 | Passo Sicuro |
 | 10 | 6 | 4 | 10d6+18 | Occhio di Falco |
 | 11 | 6 | 5 | 11d6+18 | |
 | 12 | 7 | 5 | 12d6+21 | Animalia (2°) |
@@ -5628,11 +5790,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 10 | 8 | 18d6+30 | Tiro Rapido |
 | 19 | 11 | 8 | 19d6+33 | |
 | 20 | 12 | 8 | 20d6+36 | Uno con l'arco |
-
-**Paladino Tradizionale**
-
 | 	**Lv** | **Paladino Trad.** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
 | 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
@@ -5654,11 +5812,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 9 | 9 | 18d6+27 | Incanalare Energia |
 | 19 | 10 | 9 | 19d6+30 | |
 | 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
-
-**Paladino Templare**
-
-| 	**Lv** | **Paladino Templare** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
+| 	**Lv** | **Pal. Templare** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
 | 2 | 2 | 0 | 2d6+6 | Questa è la mia arma! |
@@ -5680,11 +5834,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 15 | 4 | 18d6+45 | Il Patrono è la mia Arma (5°) |
 | 19 | 15 | 5 | 19d6+45 | |
 | 20 | 15 | 5 | 20d6+45 | Il Patrono è la mia Arma (6°) |
-
-**Mago Accademico**
-
 | 	**Lv** | **Mago Accademico** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 0 | 1 | 1d6 | Adepto della Magia - Tutt'uno con la magia |
 | 2 | 0 | 2 | 2d6 | Sapiente |
@@ -5706,11 +5856,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
 | 19 | 0 | 19 | 19d6 | |
 | 20 | 0 | 20 | 20d6 | Adepto della Magia (4°) |
-
-**Stregone**
-
 | 	**Lv** | **Stregone** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 0 | 1 | 1d6 | Adepto della Magia - Batteria Magica |
 | 2 | 0 | 2 | 2d6 | Elementalista |
@@ -5732,11 +5878,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 0 | 18 | 18d6 | Incantatore Prudente |
 | 19 | 0 | 19 | 19d6 | |
 | 20 | 0 | 20 | 20d6 | Tutt'uno con la magia |
-
-**Chierico Guaritore**
-
 | 	**Lv** | **Chierico Guaritore** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Guaritore - Adepto della Magia |
 | 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
@@ -5758,11 +5900,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 5 | 13 | 18d6+15 | Imposizione delle mani (5°) |
 | 19 | 5 | 14 | 19d6+15 | |
 | 20 | 5 | 15 | 20d6+15 | Imposizione delle mani (6°) |
-
-**Chierico Guerriero**
-
 | 	**Lv** | **Chierico Guerriero** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Adepto della Magia |
 | 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
@@ -5784,11 +5922,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 9 | 9 | 18d6+27 | Armatura del Devoto (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
 | 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
-
-**Druido Naturalista**
-
 | 	**Lv** | **Druido Naturalista** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
 | 2 | 1 | 1 | 2d6+3 | Figlia di Shayalia |
@@ -5810,11 +5944,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
 | 20 | 5 | 15 | 20d6+15 | Prodigioso |
-
-**Druido Mutaforma**
-
 | 	**Lv** | **Druido Mutaforma** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
 | 2 | 1 | 1 | 2d6+3 | Animalia |
@@ -5836,11 +5966,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 8 | 10 | 18d6+24 | Figlia di Shayalia (3°) |
 | 19 | 8 | 11 | 19d6+24 | |
 | 20 | 8 | 12 | 20d6+24 | Figlia di Shayalia (4°) |
-
-**Bardo Incantatore**
-
 | 	**Lv** | **Bardo Incantatore** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Infondere Coraggio - Adepto della Magia |
 | 2 | 1 | 1 | 2d6+3 | Incantatore da Combattimento |
@@ -5862,11 +5988,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 8 | 10 | 18d6+24 | Infondere Energia Magica |
 | 19 | 8 | 11 | 19d6+24 | |
 | 20 | 8 | 12 | 20d6+24 | Prodigioso |
-
-**Bardo della Lama**
-
 | 	**Lv** | **Bardo della Lama** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Danza della Lama - Infondere Coraggio |
 | 2 | 2 | 0 | 2d6+6 | Arma Focalizzata |
@@ -5888,11 +6010,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 12 | 6 | 18d6+36 | Infondere Energia Magica |
 | 19 | 12 | 7 | 19d6+36 | |
 | 20 | 12 | 8 | 20d6+36 | Litania versatile |
-
-**Monaco Mistico**
-
 | 	**Lv** | **Monaco Mistico** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Gru d'Argento - Energia Psichica |
 | 2 | 1 | 1 | 2d6+3 | Pugno di Ferro |
@@ -5914,24 +6032,20 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 9 | 9 | 18d6+27 | Gru d'Argento (3°) |
 | 19 | 10 | 9 | 19d6+30 | |
 | 20 | 10 | 10 | 20d6+30 | Ali della Fenice |
-
-**Devoto dell'occulto**
-
 | 	**Lv** | **Devoto dell'occulto** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Figlio di Tazher - Fedele |
 | 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
 | 3 | 2 | 1 | 3d6+6 | Il Patrono è con me |
-| 4 | 2 | 2 | 4d6+6 | Sifone Nero |
+| 4 | 2 | 2 | 4d6+6 | Batteria Magica |
 | 5 | 3 | 2 | 5d6+9 | Potere del Patrono |
 | 6 | 3 | 3 | 6d6+9 | Concentrato |
-| 7 | 4 | 3 | 7d6+12 | Batteria Magica |
+| 7 | 4 | 3 | 7d6+12 | Creare Oggetti Magici |
 | 8 | 4 | 4 | 8d6+12 | |
 | 9 | 5 | 4 | 9d6+15 | Il Patrono è con me (2°) |
 | 10 | 5 | 5 | 10d6+15 | Muro mentale |
 | 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Creare Oggetti Magici |
+| 12 | 5 | 7 | 12d6+15 | Sifone Nero |
 | 13 | 5 | 8 | 13d6+15 | Fedele (2°) |
 | 14 | 5 | 9 | 14d6+15 | |
 | 15 | 5 | 10 | 15d6+15 | Adepto della Magia (2°) |
@@ -5940,11 +6054,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | 18 | 5 | 13 | 18d6+15 | Magie Potenti |
 | 19 | 5 | 14 | 19d6+15 | |
 | 20 | 5 | 15 | 20d6+15 | Adepto della Magia (3°) |
-
-**Magus**
-
 | 	**Lv** | **Magus** |  |  | **Abilità** |
-| --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
 | 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Incantatore da Combattimento |
 | 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
