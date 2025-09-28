@@ -942,6 +942,8 @@ aggiornata versione POD 2025/09/01
 
 aggiornata versione POD 2025/09/18
 
+1.0.10 aggiornata prova di magia
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.

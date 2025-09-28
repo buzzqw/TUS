@@ -193,9 +193,9 @@ Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un ***Prova di Magia*** e confidare nelle sue capacità.
 
-L'incantatore tira **3d6 + 1d6 ogni tre punti di Competenza Magica** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira **3d6 + 1d6 ogni tre punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
 
-L'incantatore può **ignorare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
+L'incantatore può **ritirare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
 
 La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
 

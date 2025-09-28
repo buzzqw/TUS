@@ -192,9 +192,9 @@ If the spellcaster is **Distracted**, tries to hide the casting of magic, is imp
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
-The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency plus any bonuses, Abilities, or penality from having suffered critical rolls.
+The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penality from having suffered critical rolls.
 
-The spellcaster can ignore one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
+The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
 
 The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
