@@ -13,9 +13,9 @@ Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessi
 
 ### Note
 
-Per me OBSS va giocato in maniera schietta, senza troppi pensieri e cervellotici progetti. OBSS non è fatto per uccidere i personaggi ma allo stesso modo non ne agevola la sopravvivenza, tutto sta al Narratore a decidere come si gioca. E' nel Narratore, nello stile dei giocatori e l'interesse del gruppo la chiave di gioco, OBSS vuole offrire il framework, gli strumenti, per giocare l'avventura.
+Per me OBSS va giocato in maniera schietta, senza troppi pensieri e cervellotici progetti. OBSS non è fatto per uccidere i personaggi ma allo stesso modo non ne agevola la sopravvivenza, tutto sta al Narratore a decidere come si gioca. È nel Narratore, nello stile dei giocatori e l'interesse del gruppo la chiave di gioco, OBSS vuole offrire il framework, gli strumenti, per giocare l'avventura.
 
-Cercate di enfatizzare le scene, siate anche teatrali nelle descrizioni, togliete la patina al gioco pulito e politically correct. Rimane sempre il vostro mondo, il vostro tavolo ed il vostro gioco, cercate di dare quell'immersività che spesso nei sistemi più moderni si è un pò persa.
+Cercate di enfatizzare le scene, siate anche teatrali nelle descrizioni, togliete la patina al gioco pulito e politically correct. Rimane sempre il vostro mondo, il vostro tavolo ed il vostro gioco, cercate di dare quell'immersività che spesso nei sistemi più moderni si è un po' persa.
 Quando c'è un combattimento fate che sia tale! Deve sentirsi il clangore delle armi, il cozzare sulle armature, l'ozono nell'aria causato dal fulmine, le bruciature crepitanti delle palle di fuoco. Fate che i giocatori apprezzino le possibilità offerte dal sistema e si possano divertire a cercare come effettuare la prova migliore.
 
 Scegliete voi se i personaggi sono canaglie che cercano solo di sopravvivere e accumulare tesori oppure dare un taglio più classico o epico all'avventura. OBSS si sposa che entrambe le scelte, specialmente utilizzando qualche Opzione rispetto ad un altra.
@@ -29,7 +29,7 @@ Potrebbero esserci delle difficoltà nel creare il gruppo, capita purtroppo. Cer
 
 Per questo vi suggerisco sempre di fare la così detta Sessione Zero , dove come Narratore andrete a delineare a grandi linee quali sono i cardini dell'avventura, cosa vi aspettate dai personaggi, quali sono le regole di base e di morale da seguire. Non c'è nulla di peggio di un gruppo di personaggi slegati dove ognuno vuole fare qualcosa di diverso e non gli interessa l'*obiettivo comune*.
 
-E' molto importante capire cosa piace ai giocatori, ogni persona e gruppo vuole un certo stile di gioco ed è corretto cercare di accontentarli. Se il gruppo vuole avventure politiche, drama romantici cercate di fargli trovare soddisfazione nel mentre dell'avventura. Se invece preferiscono più combattere allora non lesinate scontri purché coerenti con l'avventura stessa.
+È molto importante capire cosa piace ai giocatori, ogni persona e gruppo vuole un certo stile di gioco ed è corretto cercare di accontentarli. Se il gruppo vuole avventure politiche, drama romantici cercate di fargli trovare soddisfazione nel mentre dell'avventura. Se invece preferiscono più combattere allora non lesinate scontri purché coerenti con l'avventura stessa.
 
 Fate capire che dovete funzionare come insieme di giocatori e personaggi per poter giocare al meglio e divertirvi tutti ed avere maggiori possibilità di sopravvivenza. Nessun giocatore deve essere sopra gli altri, solo il Narratore ha l'ultima parola.
 

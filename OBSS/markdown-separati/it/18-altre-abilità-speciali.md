@@ -49,7 +49,7 @@ La Resistenza alla Magia non può essere abbassata neanche dalla creatura che la
 
 ## Immunita' al danno
 
-E' estremamente raro ma ci sono creature o effetti magici che rendono immune ad una forma di danno, possa essere fisica (danno da arma..) o magica (le varie forme di energia).
+È estremamente raro ma ci sono creature o effetti magici che rendono immune ad una forma di danno, possa essere fisica (danno da arma..) o magica (le varie forme di energia).
 
 Una creatura immune ad una forma di danno non subisce danno da quell'attacco. Una creatura che ha invece la capacità di avere i propri danni irresistibili, ovvero che non possono essere ridotti da resistenza, penetrerà solo in parte l'immunità della creatura rendendola soltanto resistente a quel danno.
 
@@ -67,7 +67,7 @@ Un creatura con una Vulnerabilità al Fuoco raddoppia tutto il danno subito poi 
 
 ## Paura
 
-Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con l'effetto di Paura. Una creatura dotata di Paura non può sopprimerne l'aura se questa è innata tranne che sia descritto diversamente. E' sempre segnata la difficoltà con cui fare il Tiro Salvezza su Volontà. Una creatura immune alla Paura non può essere spaventata sia che la sorgente sia naturale che magica.
+Incantesimi, Oggetti Magici e certe creature possono influenzare i personaggi con l'effetto di Paura. Una creatura dotata di Paura non può sopprimerne l'aura se questa è innata tranne che sia descritto diversamente. È sempre segnata la difficoltà con cui fare il Tiro Salvezza su Volontà. Una creatura immune alla Paura non può essere spaventata sia che la sorgente sia naturale che magica.
 
 **Spaventato**
 

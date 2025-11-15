@@ -1,6 +1,6 @@
 # I Mostri
 
->>> **Un pò di mostri...**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzione negative.
+>>> **Un po' di mostri...**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzione negative.
 
 Creature più civilizzate avranno una loro condotta etica e morale individuale, anche all'interno di uno stesso gruppo di avversari c'è chi potrebbe essere più nemico o semplicemente indifferente.
 
@@ -16,7 +16,7 @@ Oskar Schindler: Ci temono perché abbiamo il potere di uccidere arbitrariamente
 
 Amon Goth: è questo il potere?
 
-Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene portato davanti all'imperatore e si lascia cadere per terra tremante, implora per avere pietà. E' conscio che sta per andarsene. E l'imperatore lo perdona, invece. Quell'uomo, immeritevole, lo lascia libero.
+Oskar Schindler: L'avevano gli imperatori questo. Un uomo ruba qualcosa, viene portato davanti all'imperatore e si lascia cadere per terra tremante, implora per avere pietà. È conscio che sta per andarsene. E l'imperatore lo perdona, invece. Quell'uomo, immeritevole, lo lascia libero.
 
 (Schindler's list - La lista di Schindler, Film, 1993)
 
@@ -1067,7 +1067,7 @@ livello 4 (1 slot): *Immagine Proiettata, Regressione Mentale*
 
 **Azioni Aggiuntive**
 
-Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un altra creatura.
+Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
 
 **Coda.** Il Demogorgone attacca con la coda. +19 to al colpire, portata 5 metri, un obiettivo. Se colpisce 31 Punti Ferita di danni contundenti più 4d6 danni da Vuoto
 
@@ -1219,7 +1219,7 @@ Organizzazione: Solitario o banda (2-4)
 | **Categoria Tesoro**: W |
 | **Descrizione** |
 
-L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. E' a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso su flora, causando mutazioni e rendendo maleodoranti e dal sapore salmastro le acque. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.
+L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. È a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso su flora, causando mutazioni e rendendo maleodoranti e dal sapore salmastro le acque. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.
 
 Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che hanno avvelenato se stessi, i loro parenti o il loro ambiente, ad esempio, drogati, assassini ed alchimisti che non si sono preoccupati di come i loro esperimenti avvelenassero il mondo naturale.
 
@@ -1309,7 +1309,7 @@ Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, ter
 
 Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa la creatura è immune all'Aureola di Orrore del demone per le successive 24 ore.
 
-***Teletrasporto.*** Il demone si teletrasporta, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere fino a 36 metri di distanza. E' una Azione di Movimento.
+***Teletrasporto.*** Il demone si teletrasporta, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere fino a 36 metri di distanza. È una Azione di Movimento.
 
 **Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
@@ -1372,7 +1372,7 @@ livello 9 (1 slot): *Fermare il Tempo*
 
 **Azioni Aggiuntive**
 
-Il Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un altra creatura.
+Il Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
 
 **Coda.** Il Orcus attacca con la coda. +19 to al colpire, portata 5 metri, un obiettivo. Se colpisce 21 (3d8 + 8) danni contundenti + 18 (4d8) da Veleno
 
@@ -1409,7 +1409,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 
 *Colpisce:* 6 (1d6 + 3) danni taglienti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o subire 5 (2d4) danni da veleno
 
-***Cambiare aspetto (a volontà).*** Il Silku può apparire come un umanoide di taglia media a suo piacimento. E' necessario una prova di Consapevolezza DC 16 per percepire il vero aspetto. 2 Azioni
+***Cambiare aspetto (a volontà).*** Il Silku può apparire come un umanoide di taglia media a suo piacimento. È necessario una prova di Consapevolezza DC 16 per percepire il vero aspetto. 2 Azioni
 
 ***Rigenerazione.*** Il Silku rigenera 2 PF alla fine del suo round a meno che non sia stato ferito con acido o fuoco, l'effetto è attivo anche se il Silku ha Punti Ferita negativi.
 
@@ -2429,7 +2429,7 @@ Non hanno penalità di movimento su questi terreni.
 
 Sfruttano il loro naturale camuffamento per aggredire e catturare le prede, sono ottimi cacciatori, molto intelligenti nello sfruttare l'ambiente.
 
-Poco inclini alla magia sanno però soffiare schegge di ghiaccio molto più frequentemente di altri draghi. E' immune gli attacchi basati sul freddo e ghiaccio.
+Poco inclini alla magia sanno però soffiare schegge di ghiaccio molto più frequentemente di altri draghi. È immune gli attacchi basati sul freddo e ghiaccio.
 
 Le loro tane sono caverne ghiacciate nelle montagne o scavate nei ghiacciai più massicci.
 
@@ -3154,7 +3154,7 @@ Un Drago Porpora è molto protettivo con le sue creature, con chi gli porta da m
 
 Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente crescono. Hanno un potentissimo attacco sonico che spesso crea crolli nelle caverne, crolli che sono completamente indifferente a lui.
 
-E' forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se pensa di vincere. Porta sempre la battaglia sottoterra dove può creare fosse per fare precipitare i nemici o scappare se necessario.
+È forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se pensa di vincere. Porta sempre la battaglia sottoterra dove può creare fosse per fare precipitare i nemici o scappare se necessario.
 
 | Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra, è immune al danno ed effetti sonori. |
 | **Incantesimi** |
@@ -4768,7 +4768,7 @@ A volontà: Parola Divina
 
 **Azioni Aggiuntive**
 
-Il Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un altra creatura. Tàhil può cambiare il colore della sua testa per accedere ai poteri degli altri tipi di drago. Le azioni dipendono dalla testa scelta.
+Il Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura. Tàhil può cambiare il colore della sua testa per accedere ai poteri degli altri tipi di drago. Le azioni dipendono dalla testa scelta.
 
 **Attacco con Artiglio.**: +19, portata 6 metri, un obiettivo. Se colpisce 32 (4d10 + 10, 3 da Sanguinamento) danno da taglio più 14 (4d6) danni da acido (testa Nera) oppure Elettricità (testa Blu) oppure da Veleno (testa Verde) oppure da Fuoco (testa Rossa) oppure da Freddo (testa Bianca) oppure da Fuoco (testa Gialla) oppure da Suono (testa Viola)
 
@@ -5256,7 +5256,7 @@ La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o 
 
 ***Un piede nella Natura.*** finché Fioritura Ossea è a contatto con la terra rigenera all'inizio del suo round 6 Punti Ferita.
 
-***Uno nella Natura.*** finché Fioritura Ossea è in un ambiente naturale e non si muove attacca di sorpresa se non notato. E' richiesta una prova di Consapevolezza 21 per notarlo.
+***Uno nella Natura.*** finché Fioritura Ossea è in un ambiente naturale e non si muove attacca di sorpresa se non notato. È richiesta una prova di Consapevolezza 21 per notarlo.
 
 ***Natura Non Morta.*** Fioritura Ossea non necessita aria, cibo, bevande o sonno.
 
@@ -5613,7 +5613,7 @@ Un'insolita variante del gargoyle non abita tra edifici e rovine ma sotto le ond
 
 **Visione Offuscata:** è un effetto da Veleno, TS Volontà DC 18 oppure fino alla fine del round successivo il bersaglio ha -1d6 al Tiro per Colpire.
 
-***Sguardo.*** E' sufficiente guardare il G.E.C. per essere affetti da Confusione, come omonimo incantesimo. Per resistere è necessario effettuare un Tiro Salvezza su Volontà a DC 22. Ogni round è possibile ripetere il Tiro Salvezza per resistere all'effetto.
+***Sguardo.*** È sufficiente guardare il G.E.C. per essere affetti da Confusione, come omonimo incantesimo. Per resistere è necessario effettuare un Tiro Salvezza su Volontà a DC 22. Ogni round è possibile ripetere il Tiro Salvezza per resistere all'effetto.
 
 Combattere senza guardare il G.E.C. impone -1d6 al Tiro per Colpire.
 
@@ -5858,7 +5858,7 @@ Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a cap
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 12 (2d6 + 6) danni taglienti, 2 danno da Sanguinamento. Se il bersaglio è una creatura diverso da un non morto, deve riuscire un Tiro Salvezza su Tempra DC 17 o restare paralizzata per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza. Se la creatura fallisce il TS allora è vittima della maledizione del Ghoul. Entro 1d3+1 giorni si trasformerà in un Ghoul. E' necessario un Scacciare Maledizioni DC 19 entro la trasformazione per evitare la trasformazione.
+*Colpisce:* 12 (2d6 + 6) danni taglienti, 2 danno da Sanguinamento. Se il bersaglio è una creatura diverso da un non morto, deve riuscire un Tiro Salvezza su Tempra DC 17 o restare paralizzata per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza. Se la creatura fallisce il TS allora è vittima della maledizione del Ghoul. Entro 1d3+1 giorni si trasformerà in un Ghoul. È necessario un Scacciare Maledizioni DC 19 entro la trasformazione per evitare la trasformazione.
 
 ***Morso.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, una creatura.
 
@@ -7135,7 +7135,7 @@ Organizzazione: Solitario
 Il Maledetto immortale è una persona maledetta spesso da un Patrono o da una potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricordano chi erano ed allora proseguono nella ricerca di chi li ha maledetti.
 Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando che l'avversario sia in grado di ucciderlo una volta per tutte.
 
-### Monete affamate
+### Cinghiale Mannaro
 
 - **Taglia/Tipo**: Media umanoide , mutaforma, malvagio
 - **Caratt.**: \resizedown{For 3 Des 0 Cos 2 Int 0 Sag 0 Car -1}
@@ -9765,7 +9765,7 @@ Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle n
 - **Linguaggi**: tutti
 - **Sfida**: 0 (10 PX)
 
-***E' La Topi*** La Topi ha +3d6 (oppure +18) ogni volta che deve tirare dei dadi o contare un valore.
+***È La Topi*** La Topi ha +3d6 (oppure +18) ogni volta che deve tirare dei dadi o contare un valore.
 
 ***Ha ragione!*** Qualsiasi attacco effettuato dalla Topi è considerato magico +6 e non è resistibile o rigenerabile o curabile nelle prime 24 ore.
 
@@ -9864,7 +9864,7 @@ L'appetito di un troll e le sue capacità rigenerative lo rendono un combattente
 
 Nonostante la loro ferocia, i troll sono straordinariamente teneri e gentili verso i loro piccoli. I troll femmina lavorano in gruppo, passando molto tempo ad insegnare ai cuccioli come cacciare e difendersi prima di mandarli a cercare un proprio territorio. Un troll maschio vive un'esistenza solitaria, incontrando brevemente le femmine solo per accoppiarsi. Tutti i troll trascorrono il loro tempo a cercare cibo, dato che devono consumarne enormi quantità ogni giorno o muoiono di fame. Per questo, la maggior parte dei troll si crea un proprio territorio di caccia che viene spesso difeso combattendo con i rivali. Simili scontri sono di solito non letali, ma i troll conoscono bene le proprie debolezze, sfruttandole per uccidere l'avversario nei periodi di magra.
 
-E' universalmente conosciuto che i troll possono naturalmente mutare acquisendo per brevi periodi le caratteristiche più peculiari delle creature di cui si nutrono. Non avete idea di quanto può essere buffo un Pegasutroll...
+È universalmente conosciuto che i troll possono naturalmente mutare acquisendo per brevi periodi le caratteristiche più peculiari delle creature di cui si nutrono. Non avete idea di quanto può essere buffo un Pegasutroll...
 
 ### Uomo Acquatico
 
@@ -10202,7 +10202,7 @@ Organizzazione: gruppi 3d6
 | **Categoria Tesoro**: Nessuno |
 | **Descrizione** |
 
-I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trovano nei cumuli umidi di foglie o tronchi marci, nei cadaveri in putrefazione, nell acque torbide. Pallidi, viscidi, dotati di affilatissimi denti, lunghi poco più di 4 millimetri penetrano nella carne esposta in maniera facilissima e percepiscono il battito del cuore dove si dirigono. Mentre scavano nelle carni si possono percepire ed anche vedere strisciare sottopelle.
+I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trovano nei cumuli umidi di foglie o tronchi marci, nei cadaveri in putrefazione, nelle acque torbide. Pallidi, viscidi, dotati di affilatissimi denti, lunghi poco più di 4 millimetri penetrano nella carne esposta in maniera facilissima e percepiscono il battito del cuore dove si dirigono. Mentre scavano nelle carni si possono percepire ed anche vedere strisciare sottopelle.
 
 ### Verme Purpureo
 
@@ -10284,6 +10284,32 @@ Sono creature fameliche che non perdono occasione per cacciare e divorare o cons
 
 Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni ipotizzano che un incantatore abbia provato, come al solito, fallendo criticamente, a trasformarsi in un Verme Purpureo, altri credono fermamente che i giardini di Shayalia avessero bisogni di maggiore concimazione e così la Patrona trasformò dei normali lombrichi in queste terrificanti creature perché divorassero e digerissero i cadaveri seppelliti.
 
+### Vespa Gigante
+
+- **Taglia/Tipo**: Media bestia, senza allineamento
+- **Caratt.**: \resizedown{For 0 Des 2 Cos 0 Int -5 Sag 0 Car -4}
+- **Punti Ferita**: \resizedown{13 (3d8), **Difesa:** 12, **Iniziativa:** +2}
+- **Movimento**: 3 m, volo 15 m
+- **Sensi**: \resizedown{Percezione Passiva 10}
+- **Linguaggi**: 
+
+---
+- **Sfida**: 1/2 (100 PX)
+
+**Azioni*Pungiglione.** Attacco con arma da mischia*: +4 a colpire, portata 1,5 m, una creatura.
+
+*Colpisce:* 5 (1d6 + 2) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza su Tempra CD 11, subendo 10 (3d6) danni da veleno in caso di fallimento, o la metà dei danni in caso di successo. Se il veleno riduce i Punti Ferita del bersaglio a 0, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato Punti Ferita, ed è paralizzato finché rimane avvelenato in questo modo.
+
+| **Ecologia** |
+| --- |
+Ambiente: Foreste, Colline, Pianure
+
+Organizzazione: Solitaria o sciame (2-5)
+| **Categoria Tesoro**: Nessuno |
+| **Descrizione** |
+
+Le vespe giganti sono insetti predatori aggressivi che costruiscono nidi di carta nelle zone boscose. Sono lunghe circa 1,5 metri e cacciano in piccoli gruppi, usando il loro pungiglione velenoso per paralizzare le prede che poi portano al nido per nutrire le larve. Attaccano senza esitazione qualsiasi creatura che si avvicini troppo al loro nido, e il loro veleno è potente abbastanza da paralizzare anche creature di taglia umana.
+
 ### Viverna
 
 - **Taglia/Tipo**: Grande drago, disallineato
@@ -10310,7 +10336,7 @@ Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni 
 
 **Reazione: *Attacco d'opportunità***: la viverna nero effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-***Arrabbiato:*** la Viverna punta la coda in direzione del nemico e genera un cono di 3 metri di veleno. E' possibile eseguire un Tiro Salvezza su Riflessi DC 21 per dimezzare i 7d8 di danno da veleno.
+***Arrabbiato:*** la Viverna punta la coda in direzione del nemico e genera un cono di 3 metri di veleno. È possibile eseguire un Tiro Salvezza su Riflessi DC 21 per dimezzare i 7d8 di danno da veleno.
 
 | **Ecologia** |
 | --- |
@@ -12476,7 +12502,7 @@ livello 1 (3 slot): *Benedizione, Cura Ferite, Santuario*
 - **Comp.**: Ingannare +4, Religione +2
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 9 m
-- **Linguaggi**: Comune ed un altra lingua
+- **Linguaggi**: Comune ed un'altra lingua
 - **Sfida**: 1 (200 PX)
 
 Sono i capi di un culto, che usano il proprio carisma e i propri dogmi per influenzare i deboli di volontà.
@@ -12800,7 +12826,7 @@ Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
 | Affaticato 5 | Svenuto | 6h |
 | Affaticato 6 | Morte | -- |
 
-Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo un altra ora passa ad Affaticato, purché non subisca ulteriori affaticamenti.
+Dopo 8 ore di riposo una creatura passa da Affaticato 3 ad Affaticato 2 e dopo un'altra ora passa ad Affaticato, purché non subisca ulteriori affaticamenti.
 
 **Afferrato**: Una creatura afferrata non può muoversi ma può provare a Spingere. Deve usare due Azioni per liberarsi, vedi sezione combattimento Afferrare un avversario.
 
@@ -12862,7 +12888,7 @@ Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa
 **Impreparato / Sorpreso**:
 Una creatura sorpresa / impreparata ha una penalità di -2 a Difesa ed ai Tiri Salvezza su Riflessi. Non potrà reagire, non userà Azioni o Reazioni se non esplicitamente permesse; dal round successivo potrà dichiarare l'iniziativa ed agire normalmente.
 
-**Inabile**: Una creatura inabile non può effettuare azioni o reazioni. E' Impreparata (-4 a Difesa ed ai Tiri Salvezza su Riflessi)
+**Inabile**: Una creatura inabile non può effettuare azioni o reazioni. È Impreparata (-4 a Difesa ed ai Tiri Salvezza su Riflessi)
 
 **In Lotta**: Una creatura in lotta è trattenuta da una creatura, da una trappola o da un effetto. Vedi **Afferrato**.
 
@@ -12883,7 +12909,7 @@ Un personaggio intralciato che cerca di lanciare un incantesimo si considera Dis
 **Invisibile**: Le creature invisibili non sono percepibili dalla vista.
 Chi attacca una creatura per lei invisibile ha un -1d6 al Tiro per Colpire, la creatura invisibile che attacca una creatura che non la vede ha +1d6 al Tiro per Colpire.
 
-**Morente** : Un personaggio morente ha -1 Punti Ferita. E' indifeso. Ogni round perde 1 punto ferita finché muore o viene curato. Vedi **IndifesoNauseato**: Se la penalità non è già espressa una creatura nauseata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenze.
+**Morente** : Un personaggio morente ha -1 Punti Ferita. È indifeso. Ogni round perde 1 punto ferita finché muore o viene curato. Vedi **IndifesoNauseato**: Se la penalità non è già espressa una creatura nauseata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenze.
 
 **Morto**: L'anima del personaggio abbandona permanentemente il suo corpo. I personaggi morti non possono beneficiare delle cure normali o magiche, e non possono essere riportati in vita da un incantesimo. Solo un Patrono ha sufficiente potere per riportare l'anima nel corpo e riportare in vita la creatura. La Scuola di Necromanzia ha incantesimi per rianimare un corpo come non morto.
 

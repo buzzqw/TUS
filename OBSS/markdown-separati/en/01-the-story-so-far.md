@@ -75,7 +75,7 @@ Now that you are ready, it' \*\*s time to embrace your destiny and write your le
 
 Andres Zanzani
 
-> D&D has in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
+> D&D had in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
 OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don' \*\*t let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
 
 ---
@@ -86,7 +86,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll to the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
 
-**Ability scores**:   also abbreviated as characteristic or statistics. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
+**Ability scores**:   also abbreviated as characteristic or statistics. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
 
 **Action**:  it is what is done in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... in each round you can take 3 Actions. An Action lasts about 3 seconds.
 
@@ -94,7 +94,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Bonus**: any modifier due to external, environmental, magical, circumstantial factors, or as decided by the Narrator is a bonus or penalty to be applied to the dice roll or difficulty in the check.
 
-**Casting Spells under attack, threat, distraction..**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, then they must make a Magic Check.
+**Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, then they must make a Magic Check.
 
 **Check/Test**: a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
@@ -102,7 +102,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Critical Success/Critical Failure in Magic test** : in case the player passes the Magic Check with criticals. The Critical Success in Magic test leads to spectacular modifications in the spell, vice versa bad things could happen to the spellcaster.
 
-**Damage Reduction (DR)**:   some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. The damage is reducted after all resistance and saving throws.
+**Damage Reduction (DR)**:   some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. The damage is reduced after all resistance and saving throws.
 
 **Defense**: Defense means the total value obtained from 10 + Shield + Armor + Dexterity + various and any bonuses. It represents the ability to not be hit and not be wounded. An enemy with high Defense could be extremely agile and have a *thick skin* extremely resistant to injury.
 
@@ -124,7 +124,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Hit Points (Hit Points)**: indicate the vital energy, resistance, the luck in resisting the creature' \*\*s wounds. As long as the creature has 1 hit point, it will fight at its best, without problems (but it might also decide to run away rather than die!). At each level passage, you gain a certain number of Hit Points, established by the rules. Each wound is subtracted from this accumulation of energies, and when 0 (zero) Hit Points is reached, you faint, unable to act.
 
-If you are further injured and the Hit Points drop to 10+double the value of Constitution, then you die.
+If you are further injured and the Hit Points drop to 10 + twice the value of Constitution, then you die.
 
 **Initiative**: it is a Dexterity or Intelligence check. It establishes the order of actions in combat. Who has the highest score in the check acts first.
 
@@ -147,7 +147,7 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 **NPC**: non-player character. These are particular characters, important or not, that the Narrator keeps to lead the adventure.
 
-**One brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn' \*\*t mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
+**Rolling a one brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn' \*\*t mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
 
 **Optional**: in OBSS there are various Optional rules to diversify and personalize the game. Talk about it during Session Zero and decide what style to give to your OBSS.
 

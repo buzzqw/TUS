@@ -11,10 +11,10 @@ E se fosse alle nostre spalle e neanche l'abbiamo notato ?
 
 Se l'obiettivo è noto che ci sia ma è occultato in qualche maniera allora si dice che ha **copertura**.
 
-- Se l'obiettivo **ha più della metà** (ma non totale) della superficie **visibile** allora la copertura si definisce **leggera**, ovvero ha +2 alla Difesa. Può essere il caso di una creatura dietro un altra creatura della medesima taglia o di 1 taglia più grande.
+- Se l'obiettivo **ha più della metà** (ma non totale) della superficie **visibile** allora la copertura si definisce **leggera**, ovvero ha +2 alla Difesa. Può essere il caso di una creatura dietro un'altra creatura della medesima taglia o di 1 taglia più grande.
 
 Può essere il caso di un arciere in piedi dietro un muretto di 1 metro.
-- Se l'obiettivo ha **meno della metà** (ma almeno un terzo) della superficie **visibile** allora la copertura si definisce **media**, ovvero ha +4 alla Difesa. Può essere il caso di una creatura dietro un altra creatura di 2 taglie più grande.
+- Se l'obiettivo ha **meno della metà** (ma almeno un terzo) della superficie **visibile** allora la copertura si definisce **media**, ovvero ha +4 alla Difesa. Può essere il caso di una creatura dietro un'altra creatura di 2 taglie più grande.
 
 Può essere il caso di un nemico armato di balestra che si sporge quel tanto per tenere appoggiata la balestra al muretto e sparare (petto, spalle, braccia e testa visibili).
 - Se l'obiettivo si sa dove è ma **si nasconde completamente** affacciandosi solo per controllare o tirare una freccia ogni tanto, dietro ad un muro, finestra, porta, tavolo, una creatura più grande di lui (almeno 3 taglie).. allora la copertura si definisce **completa**, ovvero ha +8 alla Difesa.
@@ -64,7 +64,7 @@ A seconda della distanza della creatura invisibile o di ciò che questa ha fatto
 | Un compagno che lo vede ti indirizza | -4 |
 | Ha corso o caricato | -8 |
 | Usa Furtività | prova+10 |
-| E' ferma e non fa rumori | +4 |
+| È ferma e non fa rumori | +4 |
 | Per ogni metro oltre i 6 metri | +2 |
 | Ha copertura Legg./Media/Compl. | +4/8/12 |
 

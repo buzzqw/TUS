@@ -54,7 +54,7 @@ Sei capace di scatenare l'inferno con la magia. La difficoltà (DC) di ogni tuo 
 
 **Requisiti suggeriti**: una vita dedicata a nascondersi e sorprendere i nemici
 
-Tre volte al giorno puoi teletrasportati sull'ombra di un altra creatura che sia entro 30 metri. Costo 1 Reazione.
+Tre volte al giorno puoi teletrasportati sull'ombra di un'altra creatura che sia entro 30 metri. Costo 1 Reazione.
 
 ### La Madre
 

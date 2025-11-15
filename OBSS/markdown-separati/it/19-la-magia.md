@@ -100,7 +100,7 @@ Ogni incantesimo prevede che l'incantatore abbia le mani libere e possa parlare.
 
 La maggior parte degli incantesimi richiede di intonare parole mistiche e gesticolare in maniera particolare. Le parole ed i gesti, il ritmo, la cadenza e risonanza permettono la sintonia con il Patrono che fornisce la magia.
 
-E' possibile consumare oggetti al momento di lancio dell'incantesimo come offerta al proprio Patrono, o quello che sovraintende la Lista di Magia dell'incantesimo, per ottenere vantaggi. A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ di modificatore.
+È possibile consumare oggetti al momento di lancio dell'incantesimo come offerta al proprio Patrono, o quello che sovraintende la Lista di Magia dell'incantesimo, per ottenere vantaggi. A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ di modificatore.
 
 ### Recuperare da morente
 
@@ -112,7 +112,7 @@ Data la concentrazione mentale e i gesti precisi richiesti l'armatura distrae e 
 
 ### Opzionale - Incantesimi in Armatura
 
-E' proposta questa opzione per gestire gli incantatori in armatura:
+È proposta questa opzione per gestire gli incantatori in armatura:
 
 - Questa opzione prevede tutti gli incantesimi lanciati dall'incantatore diventino con Gittata a Contatto, ovvero scaricabili solo tramite la mano dell'incantatore. Non sono richieste Prove di Magia per il fatto di portare l'armatura.
 
@@ -348,7 +348,7 @@ Quando l'incantesimo ti dice di fare un *Tiro per colpire con incantesimo* oppur
 
 Questo Tiro per Colpire, che sia in mischia od a distanza, è effettuato con 3d6 + **Competenza Magica** + **Modificatore di caratteristica per incantesimi** + **Abilità** e **modificatori vari**.
 
-E' anche possibile che sia richiesto un **Tiro per Colpire con incantesimo a tocco** ovvero l'attacco viene effettuato con un bonus di +1d6, come per Attacco a Tocco.
+È anche possibile che sia richiesto un **Tiro per Colpire con incantesimo a tocco** ovvero l'attacco viene effettuato con un bonus di +1d6, come per Attacco a Tocco.
 
 Tiro per Colpire con incantesimo o con arma cumulano le penalità dell'attacco multiplo.
 
@@ -371,7 +371,7 @@ Se è il personaggio a dover resistere ad una magia il Narratore non ti dirà di
 
 >> **Tups lancia Dardo Tracciante!**: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
 
-E' anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di Successo o Fallimento Critico del Tiro Salvezza.
+È anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di Successo o Fallimento Critico del Tiro Salvezza.
 
 Per i **mostri** o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la **DC del Tiro Salvezza è pari alla 12 + 2 x livello dell'incantesimo + Intelligenza o modificatore di incantesimi indicato**.
 
@@ -419,7 +419,7 @@ La creatura evocata comprende i comandi che gli vengono dati al meglio delle sue
 
 ## Tentare più Magie nello stesso round
 
-E' possibile lanciare più magie nel round purché il tempo totale di lancio non superi le Azioni a disposizione e si superi una Prova di Magia al lancio del secondo incantesimo. più incantesimi che richiedano il Tiro per Colpire o attaccare con un arma e lanciare un incantesimo cumulano le penalità del multiattacco.
+È possibile lanciare più magie nel round purché il tempo totale di lancio non superi le Azioni a disposizione e si superi una Prova di Magia al lancio del secondo incantesimo. più incantesimi che richiedano il Tiro per Colpire o attaccare con un arma e lanciare un incantesimo cumulano le penalità del multiattacco.
 
 ## Alterare le Magie
 

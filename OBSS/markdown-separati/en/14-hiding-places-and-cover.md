@@ -53,7 +53,7 @@ Even if you are invisible, that doesn' \*\*t mean you can' \*\*t be perceived di
 
 A blinded creature, or one fighting against an invisible creature, or fighting in complete darkness without darkvision, can make a Awareness check, 1 Action, at difficulty 20, or 2 Actions at Difficulty 15, to **detect** a creature if it is within 6 meters of them.
 
-The Awareness check can be made at the same time as the Movement Action to approach the creature at difficulty base of DC 25.
+The Awareness check can be made at the same time as the Movement Action to approach the creature at a base difficulty of DC 25.
 
 Depending on the distance of the invisible creature or what it did in the previous round, there are various modifiers to the Awareness check to detect it.
 

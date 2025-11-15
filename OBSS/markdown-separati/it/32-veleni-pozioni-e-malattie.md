@@ -54,7 +54,7 @@ Se si viene esposti a veleni diversi è necessario effettuare un Tiro Salvezza p
 
 Applicare il veleno ad un'arma o ad una munizione richiede 1 Azione.
 
-Ogni volta che un personaggio applica o prepara un veleno per l'uso deve effettuare una Prova di Erboristeria (DC 11) e se ottiene un fallimento e' entrato in contatto con il veleno e ne subisce gli effetti. Se la prova fallisce criticamente ha anche consumato una intera dose del veleno.
+Ogni volta che un personaggio applica o prepara un veleno per l'uso deve effettuare una Prova di Erboristeria (DC 11) e se ottiene un fallimento è entrato in contatto con il veleno e ne subisce gli effetti. Se la prova fallisce criticamente ha anche consumato una intera dose del veleno.
 
 Ogni volta che un personaggio attacca con un'arma avvelenata, se esegue un Fallimento Critico con il Tiro per Colpire esegue un nuovo Tiro per Colpire e se si *colpisce* allora si espone agli effetti del veleno. Ciò consuma il veleno sull'arma.
 
@@ -326,9 +326,9 @@ L'insorgenza è sempre immediata, la durata per le cure è immediata, per le alt
 | Polline di Julnnaus | R | I | 20 | +3 Costituzione per 2 ore | 16 | 25 |
 | Polline del fiore di Erain | R | 1 r | 20 | +2 For, Int, Des, +3d6 PF temporanei per 1 ora | 17 | 75 |
 
-**L'utilizzo delle droghe è completamente opzionale. E' il Narratore a decidere la loro presenza e disponibilità in base alla sensibilità dei giocatori**.
+**L'utilizzo delle droghe è completamente opzionale. È il Narratore a decidere la loro presenza e disponibilità in base alla sensibilità dei giocatori**.
 
-Le droghe danno dipendenza. Terminato l'effetto è necessario effettuare un Tiro Salvezza su Volontà a difficoltà 15 o prenderne un altra dose entro 24 ore, il successivo Tiro Salvezza avrà difficoltà +1 e così via.
+Le droghe danno dipendenza. Terminato l'effetto è necessario effettuare un Tiro Salvezza su Volontà a difficoltà 15 o prenderne un'altra dose entro 24 ore, il successivo Tiro Salvezza avrà difficoltà +1 e così via.
 
 Se il Tiro Salvezza riesce è comunque necessario effettuarne uno nuovo il giorno dopo con le stesse conseguenze.
 

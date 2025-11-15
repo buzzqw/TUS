@@ -8,7 +8,7 @@ Although it is not common for a character to make a check using only an Ability 
 
 ## Description of Ability Scores
 
-The Ability Score is not everything in a character, much less in a monster.
+Ability Scores are not everything in a character, and even less so in a monster.
 
 The most *instinctive* and aggressive monsters will probably have negative Intelligence scores, but this doesn' \*\*t mean they are *stupid*, they simply act according to their natural patterns. At the same time, creatures with a low Constitution value aren' \*\*t about to die but are just *fragile*.
 
@@ -48,7 +48,7 @@ A character with Constitution -5 no longer has control of their body and is dead
 
 > Strength without intelligence collapses under its own weight. (Horace)
 
-Intelligence measures mental acuity, accuracy of memories, and the ability to reason.
+Intelligence measures mental acuity, memory accuracy, and the ability to reason.
 An Intelligence check comes into play when you need to rely on logic, knowledge, memory, or deductive abilities.
 
 Your Intelligence checks measure your ability to recall information about spells, magic items, esoteric symbols, magical traditions, the planes of existence, and the inhabitants of those planes. Rummaging through ancient scrolls in search of a fragment of knowledge might require an Intelligence check.
@@ -109,9 +109,9 @@ The indicated modifiers are cumulative.
 
  
 
-Ability Scores have an important but not fundamental role. The player must understand that a low score does not mean having a terrible character, but rather they will have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
+Ability Scores have an important but not fundamental role. The player must understand that a low score does not mean they have a terrible character, but rather they will have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
 
-Personally, I suggest the approach of the **Base Mode**. In OBSS, characters are not heroes, they are not the chosen ones who stand up as defenders of the planet. The characters are normal people often involved, despite themselves, in situations at the limit if not beyond survival.
+Personally, I suggest the approach of the **Base Mode**. In OBSS, characters are not heroes, they are not the chosen ones, who stand up as defenders of the planet. The characters are normal people often involved, despite themselves, in situations at the limit if not beyond survival.
 
 The undoubted advantage of rolling values in order of characteristics is that it allows to mix up patterns and avoid *builds* made at the table.
 
@@ -125,7 +125,7 @@ Lastly, remember that OBSS is a role-playing game where character death happens,
 
 ### Base Mode
 
-The player rolls 3d6 for each ability score and in order, can reroll a single 1 rolled per set (3d6). Then rolls a seventh set that can replace another set. For each ability score rolled, check the sum of the dice rolled with the **Table: Ability Score Roll**.
+The player rolls 3d6 for each ability score and in order, can reroll one die that shows a 1 per set (3d6). Then rolls a seventh set that can replace another set. For each ability score rolled, check the sum of the dice rolled with the **Table: Ability Score Roll**.
 
 The character thus generated gets the Feat Hard to Kill (page ) for free.
 

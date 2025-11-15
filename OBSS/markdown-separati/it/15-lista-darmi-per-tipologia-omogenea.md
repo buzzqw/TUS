@@ -1,4 +1,4 @@
-# Lista Armi per Tipologia Omogenea
+# Lista d'Armi per Tipologia Omogenea
 
 > La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}
 
@@ -6,7 +6,7 @@ Ogni qual volta si assegna un punto a Competenza Armi si può decidere se contin
 
 Nella scheda segnatevi a quale Lista d'Armi assegnate il punto di Competenza Armi.
 
-Per riassegnare un punto di Competenza Armi in un altra lista sono necessari almeno 4 ore di allenamento per 4 mesi.
+Per riassegnare un punto di Competenza Armi in un'altra lista sono necessari almeno 4 ore di allenamento per 4 mesi.
 
 Usare un arma senza l'adeguata competenza impone un -1d6 al Tiro per Colpire.
 
@@ -29,7 +29,7 @@ I vantaggi indicati sono cumulativi se non indicato diversamente.
 - 4 punti: aggiungi il valore di Forza al danno, anche se l'arco non è composito. Su un arco corto puoi aggiungere fino a +1 di danno, su un arco lungo fino a +2 di danno.
 - 5 punti: riduci di 6 la penalità per tirare oltre la gittata standard.
 - 7 punti: la tua maestria nell'utilizzo dell'arco in combattimento è tale che non subisci nessuna penalità nel lanciare frecce a nemici con copertura leggera.
-- 9 punti: ti e' possibile con il primo Tiro per Colpire che esegui nel round scagliare due frecce. Il Tiro per Colpire parte da una penalità di -5.
+- 9 punti: ti è possibile con il primo Tiro per Colpire che esegui nel round scagliare due frecce. Il Tiro per Colpire parte da una penalità di -5.
 - 11 punti: riduci di 6 la penalità per tirare oltre la gittata standard.
 - 16 punti: la prima freccia che colpisce nel round aggiunge un danno critico.
 
@@ -94,7 +94,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 - 4 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +1 al colpire e un +1 ai danni.
 - 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
-- 7 punti: la tua abilità ti permette di non avere tempi morti dopo il lancio di un arma puoi istantaneamente estrarne un altra senza consumare azioni.
+- 7 punti: la tua abilità ti permette di non avere tempi morti dopo il lancio di un arma puoi istantaneamente estrarne un'altra senza consumare azioni.
 - 9 punti: il primo Tiro per Colpire scaglia 2 armi.
 - 11 punti: riduci di 6 la penalità alla gittata oltre lo standard.
 - 16 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +4 al colpire e un +4 ai danni.

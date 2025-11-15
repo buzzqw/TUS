@@ -41,7 +41,7 @@ La durata indicata è espressa, quando in minuti o ore, come durata di tempo rea
 
 >> **Visione Crepuscolare e Scurovisione ?**: L'oscurità che permea la Terra non è solo mancanza di luce ma è viva e pulsante. Anche se molte delle nuove razze dovrebbero vedere al buio così non è. Tazher e Calicante hanno reso impenetrabile l'oscurità per chiunque.
 
-La **Luce fioca** è la luce oltre una fonte di luce. E' il passare in un corridoio di 3 metri se è illuminato solo da leggere candele, è una notte di luna piena, è una zona oscurata leggermente.
+La **Luce fioca** è la luce oltre una fonte di luce. È il passare in un corridoio di 3 metri se è illuminato solo da leggere candele, è una notte di luna piena, è una zona oscurata leggermente.
 In linea di massima una fonte di luce crea luce fioca in un raggio doppio rispetto al raggio di luce normale. **Una creatura in Luce Fioca ha un -2 alle prove di Consapevolezza ed un -1 ai Tiri per Colpire**.
 
 **Oscurità**: è il buio più completo senza alcuna fonte di luce. Per creature con visione normale l'oscurità è ciò che c'è oltre la Luce fioca.

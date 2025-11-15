@@ -4,7 +4,7 @@
 
 Hit Points represent the character' \*\*s vital energy but also the skill, luck, the character' \*\*s ability to resist and fight. As long as the character/opponent has at least 1 Hit Point (HP), they will fight and struggle to the best of their abilities.
 
-- Each character starts with 8 Hit Points at the first level + Constitution score.
+- Each character starts with 8 Hit Points at first level + Constitution score.
 - At each level beyond the first, they gain 1d6 Hit Points + Constitution score. If the die roll is lower than Constitution, they can take the Constitution value as the result.
 - Each point taken in Weapon Proficiency increases the Hit Points gained by 3. Further Feats can increase Hit Points.
 

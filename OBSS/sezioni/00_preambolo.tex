@@ -25,6 +25,8 @@
 
 % ========== PACCHETTI GRAFICI E COLORI ==========
 \usepackage{xcolor}
+\usepackage{xstring}
+
 
 % Definizione colori del tema OBSS
 \definecolor{OBSSnavyblue}{RGB}{0,0,128}
@@ -332,54 +334,79 @@ Ligatures=TeX
 	}%
 }
 
-%\NewDocumentCommand{\feat}{m}{
-%	\noindent\rule{\linewidth}{2pt}
-%	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
-%	\vspace{-5.5mm}
-%	\begin{tcolorbox}[
-%%		colback=OBSSgold!12, colframe=OBSSgold,
-%		boxrule=1.5pt, arc=3pt, boxsep=1pt,
-%		left=6pt, right=6pt, top=3pt, bottom=3pt
-%		]
-%		\centering\textbf{\textcolor{OBSSgold!80!black}{#1}}
-%	\end{tcolorbox}
-%	\pdfbookmark[3]{#1}{#1}
-%	\vspace{1mm}\noindent
-%}
 
 \NewDocumentCommand{\feat}{m}{
 	\noindent\rule{\linewidth}{2pt}
-	\index[Abilita]{#1}\hypertarget{#1}{}\label{#1}
+	\index[Abilita]{#1}
+	\hypertarget{#1}{}
+	\StrSubstitute{#1}{à}{a'}[\tempspell]%
+	\StrSubstitute{\tempspell}{è}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{é}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ì}{i'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ò}{o'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ù}{u'}[\tempspell]%
+	\hypertarget{\tempspell}{}%
+	\label{#1}
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
-	\pdfbookmark[3]{#1}{#1}
+	\pdfbookmark[3]{\tempspell}{\tempspell}%
 	\vspace{-1mm}\noindent
 }
+
 
 \NewDocumentCommand{\incantesimo}{m}{
 	\noindent\rule{\linewidth}{2pt}
-	\index[Incantesimi]{#1}\hypertarget{#1}{}\label{#1}
+	\index[Incantesimi]{#1}
+	\hypertarget{#1}{}
+	\StrSubstitute{#1}{à}{a'}[\tempspell]%
+	\StrSubstitute{\tempspell}{è}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{é}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ì}{i'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ò}{o'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ù}{u'}[\tempspell]%
+	\hypertarget{inc:\tempspell}{}%
+	\label{#1}
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
-	\pdfbookmark[3]{#1}{#1}
+	\pdfbookmark[3]{\tempspell}{inc:\tempspell}%
 	\vspace{-1mm}\noindent
 }
+
 
 \NewDocumentCommand{\mostro}{m}{
 	\noindent\rule{\linewidth}{2pt}
-	\index[Mostruario]{#1}\hypertarget{#1}{}\label{#1}
+	\index[Mostruario]{#1}
+	\hypertarget{#1}{}
+	\StrSubstitute{#1}{à}{a'}[\tempspell]%
+	\StrSubstitute{\tempspell}{è}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{é}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ì}{i'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ò}{o'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ù}{u'}[\tempspell]%
+	\hypertarget{\tempspell}{}%
+	\label{#1}
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
-	\pdfbookmark[3]{#1}{#1}
+	\pdfbookmark[3]{\tempspell}{\tempspell}%
 	\vspace{-1mm}\noindent
 }
 
+
 \NewDocumentCommand{\oggettomagico}{m}{
 	\noindent\rule{\linewidth}{2pt}
-	\index[OggettiMagici]{#1}\hypertarget{#1}{}\label{#1}
+	\index[OggettiMagici]{#1}
+	\hypertarget{#1}{}
+	\StrSubstitute{#1}{à}{a'}[\tempspell]%
+	\StrSubstitute{\tempspell}{è}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{é}{e'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ì}{i'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ò}{o'}[\tempspell]%
+	\StrSubstitute{\tempspell}{ù}{u'}[\tempspell]%
+	\hypertarget{\tempspell}{}%
+	\label{#1}
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
-	\pdfbookmark[3]{#1}{#1}
+	\pdfbookmark[3]{\tempspell}{\tempspell}%
 	\vspace{-1mm}\noindent
 }
 

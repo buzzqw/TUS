@@ -36,7 +36,7 @@ Un personaggio con un punteggio di Destrezza pari a -5 è incapace di muoversi e
 
 ### Costituzione
 
-> Un pò di salute ogni tanto è il miglior rimedio per l'ammalato. (Friedrich Nietzsche)
+> Un po' di salute ogni tanto è il miglior rimedio per l'ammalato. (Friedrich Nietzsche)
 
 La Costituzione misura la salute, il vigore e la forza vitale nonché la resistenza agli sforzi.
 
@@ -111,7 +111,7 @@ Personalmente suggerisco l'approccio della **Modalità Base**. In OBSS i persona
 
 L'indubbio vantaggio di tirare i valori in ordine delle Caratteristiche è che permette di scombinare gli schemi ed evitare *build* fatte a tavolino.
 
-E' probabile che non vengano i risultati che speravate od addirittura siano venuti in Caratteristiche che non vi interessavano. Va bene così. Cambiate idea, fatevi ispirare dai valori ottenuti! Divertitevi con il nuovo personaggio, costruite qualcosa di nuovo e diverso, lasciatevi stupire.
+È probabile che non vengano i risultati che speravate od addirittura siano venuti in Caratteristiche che non vi interessavano. Va bene così. Cambiate idea, fatevi ispirare dai valori ottenuti! Divertitevi con il nuovo personaggio, costruite qualcosa di nuovo e diverso, lasciatevi stupire.
 
 I **tiri per le Caratteristiche sono eseguiti in ordine**, quindi il primo tiro è per la Forza, poi per la Destrezza, Costituzione, Intelligenza, Saggezza ed infine Carisma.
 

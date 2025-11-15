@@ -29,7 +29,7 @@ In OBSS i Punti Esperienza che prendono i personaggi servono a determinare il li
 I personaggi prenderanno Punti Esperienza in base ai mostri sconfitti ma anche ad altri fattori quali obiettivi, idee, azioni particolari, difficoltà superate.. ma anche tesori recuperati!
 
 Il suggerimento principale è premiare i personaggi che più si sono impegnati per il gruppo, quelli che maggiormente hanno contribuito al buon esito dell'avventura e della sessione. I Punti Esperienza non misurano solo il successo ma anche la partecipazione al gioco.
-E' quindi possibile avere personaggi con Punti Esperienza diversi e potenzialmente anche livelli diversi.
+È quindi possibile avere personaggi con Punti Esperienza diversi e potenzialmente anche livelli diversi.
 
 I Punti Esperienza che assegna la sconfitta di un mostro sono indicati nel Mostruario es. Sfida 13 (10000 PX). Questi Punti Esperienza vanno divisi tra tutti i personaggi che hanno partecipato allo scontro in qualsiasi maniera.
 
@@ -100,7 +100,7 @@ OBSS si rifà ai principi dell'OSR e come tale la fase di esplorazione e combatt
 
 ## Incontri
 
-Un incontro è un momento di tensione e speranza, paura e sfida. E' l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
+Un incontro è un momento di tensione e speranza, paura e sfida. È l'occasione di mostrare e manifestare le proprie capacità e di lavorare come gruppo.
 
 Un incontro non è l'occasione per fare sfoggio del proprio potere assoluto, sia come Narratore, che come Giocatore. Il Narratore saprà \st educare il giocatore che vuole essere oltre il gruppo e non parte di esso.
 
@@ -108,7 +108,7 @@ Troverete nelle pagine seguenti le istruzioni per creare delle sfide facili, med
 
 Attraverso gli strumenti forniti dal manuale e dalla vostra esperienza con il gruppo saprete quale livello la sfida propone e ne valuterete sia l'impatto come punti esperienza che come ricompense.
 
-Un incontro è un evento che mette i personaggi di fronte ad un problema specifico che devono risolvere. Molti sono combattimenti con i mostri o i PNG ostili, ma ce ne sono altri tipi: un corridoio irto di trappole, un'interazione politica con un re sospettoso, un passaggio pericoloso sopra un ponticello di corda traballante, un argomento scomodo con un PNG amichevole che ritiene che un personaggio lo abbia tradito, o qualsiasi cosa che aggiunga un pò di drammaticità al gioco.
+Un incontro è un evento che mette i personaggi di fronte ad un problema specifico che devono risolvere. Molti sono combattimenti con i mostri o i PNG ostili, ma ce ne sono altri tipi: un corridoio irto di trappole, un'interazione politica con un re sospettoso, un passaggio pericoloso sopra un ponticello di corda traballante, un argomento scomodo con un PNG amichevole che ritiene che un personaggio lo abbia tradito, o qualsiasi cosa che aggiunga un po' di drammaticità al gioco.
 
 Rompicapi, sfide interpretative e prove di competenza sono i metodi classici per la risoluzione degli incontri. Gli incontri più complessi da costruire e bilanciare saranno gli incontri di combattimento. Fidatevi del vostro istinto e dei suggerimenti forniti in OBSS.
 
@@ -135,7 +135,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 ### Quanti scontri affrontare
 
-Non c'è una risposta unica. E' a vostra scelta, il sistema trova un suo equilibrio tra i 3 ed i 5 scontri al giorno. Ovvio che non devono essere tutti a difficoltà Alta!.
+Non c'è una risposta unica. È a vostra scelta, il sistema trova un suo equilibrio tra i 3 ed i 5 scontri al giorno. Ovvio che non devono essere tutti a difficoltà Alta!.
 
 Gli scontri sono alla fine una gestione di risorse da usare contro un nemico. Queste risorse sono i Punti Ferita, gli incantesimi, le pozioni, pergamene ed oggetti consumabili posseduti.
 
@@ -188,9 +188,9 @@ Un problema a cui potreste andare incontro è che lo scontro si risolve troppo v
 
 Se i giocatori si aspettano pochi incontri è probabile che useranno le loro migliori risorse ed opzioni subito ad inizio combattimento andando così a sconfiggere velocemente i nemici, in questo caso prendeteli di sorpresa con ondate successivi di nemici.
 
-E' possibile che ci siano troppi pochi nemici e quindi anche se questi sono *forti* canalizzando su di loro tutti gli attacchi risultano facile preda dei personaggi, in questo caso dei gregari o l'impedire di riposare e quindi recuperare Punti Magie ed Punti Ferita sarà di aiuto.
+È possibile che ci siano troppi pochi nemici e quindi anche se questi sono *forti* canalizzando su di loro tutti gli attacchi risultano facile preda dei personaggi, in questo caso dei gregari o l'impedire di riposare e quindi recuperare Punti Magie ed Punti Ferita sarà di aiuto.
 
-E' ovviamente possibile che lo scontro non sia tarato bene ed effettivamente abbiate bilanciato l'incontro perché sia troppo facile, questo è il caso più facile da risolvere, l'esperienza vi insegnerà a meglio costruire gli incontri vuoi aggiungendo o sostituendo gli avversari.
+È ovviamente possibile che lo scontro non sia tarato bene ed effettivamente abbiate bilanciato l'incontro perché sia troppo facile, questo è il caso più facile da risolvere, l'esperienza vi insegnerà a meglio costruire gli incontri vuoi aggiungendo o sostituendo gli avversari.
 
 Ricordate che i *mostri* possono anche loro eseguire Azioni come Spingere, Afferrare, Buttare a terra, Fiancheggiare, non limitatevi nelle scelte.
 
@@ -242,7 +242,7 @@ Occorre prestare attenzione ad assegnare ai PNG questo equipaggiamento supplemen
 
 ### Assegnare i PX
 
-I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertendosi,completando l'avventura ed arraffando tesori: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbero interrompere il flusso del gioco. E' più facile assegnare i punti esperienza alla fine di una sessione di gioco (o più sessioni) che permetta ai personaggi di riflettere su quanto accaduto. Il giocatore può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
+I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertendosi,completando l'avventura ed arraffando tesori: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbero interrompere il flusso del gioco. È più facile assegnare i punti esperienza alla fine di una sessione di gioco (o più sessioni) che permetta ai personaggi di riflettere su quanto accaduto. Il giocatore può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
 
 ## Ricchezza dei Personaggi per Livello
 
@@ -277,9 +277,9 @@ Il tizio potrebbe essere un commerciante che gli deve un favore, se non un ladro
 
 ## Recitare
 
-Un gioco di ruolo non è un semplice tirare dadi, è un incontro di pensieri, opinioni, sfide, lotte. E' un gioco catartico, liberatorio, evolutivo ed istruttivo.
+Un gioco di ruolo non è un semplice tirare dadi, è un incontro di pensieri, opinioni, sfide, lotte. È un gioco catartico, liberatorio, evolutivo ed istruttivo.
 
-E' giusto che ci sia combattimento, lotta, sangue paura ed azione, allo stesso modo deve esserci la possibilità di giocare i propri personaggi con i loro svantaggi, vantaggi, poteri e storie e anche drammi personali.
+È giusto che ci sia combattimento, lotta, sangue paura ed azione, allo stesso modo deve esserci la possibilità di giocare i propri personaggi con i loro svantaggi, vantaggi, poteri e storie e anche drammi personali.
 
 Il giocatore deve sempre impersonare il personaggio, immedesimarsi e partecipare attivamente.
 
@@ -343,12 +343,12 @@ Non farti limitare dall'avventura, dal sistema, dall'elenco dei mostri, sentiti 
 
 Allo stesso tempo se ti serve una regola e non la trovi usa il buon senso, è sicuramente la scelta giusta in quel momento.
 
-Rispetta i dadi ed i risultati ottenuti, come capiteranno ai giocatori capiteranno risultati particolari anche a te. E' giusto così.
+Rispetta i dadi ed i risultati ottenuti, come capiteranno ai giocatori capiteranno risultati particolari anche a te. È giusto così.
 - Non devi salvare il *culo* ai personaggi. Non sei il loro amico ne il loro nemico. Il tuo ruolo è di raccontare storie che nascono dalle storie dei personaggi, dalle loro azioni ed inazioni.
 - Abbozza la storia, scrivi le parti centrali o da leggere ai giocatori ma non farti dominare o vincolare da quello che ti aspetti. Spesso e volentieri i giocatori ti stupiranno, meglio sapere dove si muovono e cosa hanno intorno per poter reagire sempre puntualmente.
 
 Sono i giocatori a dare la direzione all'avventura e tu a dipanarla.
-- Apprezza il caso e crea situazioni diverse dove i giocatori possono scegliere strade diverse o intrecciarne di nuove. E' la tua fortuna avere dei giocatori creativi che sanno sorprenderti.
+- Apprezza il caso e crea situazioni diverse dove i giocatori possono scegliere strade diverse o intrecciarne di nuove. È la tua fortuna avere dei giocatori creativi che sanno sorprenderti.
 - Non costringere nessuno a fare qualcosa, lascia sbagliare i giocatori, lascia che paghino le loro scelte. Non devi ostacolarli ne devi imbeccarli per una direzioni. Richiede da parte tua una immaginazione e capacità di adattamento non indifferente, ma sicuramente l'avventura ed il divertimento ne gioverà.
 - I personaggi sono esploratori, per definizione. Focalizza sull'esplorazione, più si esplora più si creano situazioni, più si creano agganci nell'avventura, più si conoscono altri png più ci sono zone da esplorare.
 

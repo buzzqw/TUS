@@ -215,13 +215,13 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 **Attrezzatura da Pesca**. Questo kit comprende un'asta di legno, filo di seta, taglierino di legno, ami d'acciaio, peso di piombo, esche di velluto e un retino.
 
-**Bandoliera**. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Bere una pozione contenuta nella Bandoliera è una Azione Immediata se viene usata un altra Azione per estrarla.
+**Bandoliera**. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Bere una pozione contenuta nella Bandoliera è una Azione Immediata se viene usata un'altra Azione per estrarla.
 
 **Biglie di Metallo**. Con un'Azione, puoi spargere una singola borsa di queste minuscole biglie di metallo per coprire un quadrato di 3 metri di lato. Una creatura che attraversa l'area coperta deve superare un Tiro Salvezza su Riflessi con DC 13 o cadere prona. Una creatura che attraversa l'area a metà velocità non deve effettuare il Tiro Salvezza.
 
 **Bilancia da Mercante**. Una bilancia da mercante include un piccolo bilanciere, un piatto, e un assortimento di pesi fino a 1 chilo. Con essa, puoi misurare il peso esatto di piccoli oggetti, come metalli preziosi o merci, per aiutarti a determinarne il valore.
 
-**Cintura porta oggetti**. Questa cintura specializzata per contenere fino a 4 piccoli oggetti quali pozioni o pergamene. Bere una pozione contenuta nella Cintura porta oggetti è una Azione Immediata se viene usata un altra Azione per estrarla.
+**Cintura porta oggetti**. Questa cintura specializzata per contenere fino a 4 piccoli oggetti quali pozioni o pergamene. Bere una pozione contenuta nella Cintura porta oggetti è una Azione Immediata se viene usata un'altra Azione per estrarla.
 
 **Borsa dei Componenti**. Una borsa dei componenti è un piccolo borsello da cinta di cuoio impermeabile munito di compartimenti contenenti tutte le componenti materiali e altri oggetti speciali di cui hai bisogno per lanciare i tuoi incantesimi, eccetto per quelle componenti che hanno un costo specifico o sono materiali particolari.
 
@@ -229,7 +229,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 **Candela**. Per 1 ora di tempo reale di gioco, una candela proietta luce fioca in un raggio di 1 metro.
 
-**Cerata**. E' un mantello trattato per essere idrorepellente, ti permette di rimanere asciutto anche sotto la pioggia.
+**Cerata**. È un mantello trattato per essere idrorepellente, ti permette di rimanere asciutto anche sotto la pioggia.
 
 **Cannocchiale**. Gli oggetti osservati tramite un cannocchiale sono ingranditi al doppio delle loro dimensioni.
 
@@ -376,7 +376,7 @@ Per entrare in possesso di una cavalcatura del genere spesso è necessario rubar
 
 **Bardatura**. Una bardatura è un'armatura concepita per proteggere la testa, il collo, il petto e il corpo di un animale. Ogni tipo di armatura elencato nella tabella Armature di questo capitolo può essere acquistata come bardatura. Il costo è pari al quadruplo dell'armatura equivalente fabbricata per gli umanoidi, mentre il peso è pari al doppio, in caso di animali di taglia grande. Vedi anche Bardature da Cavalcatura, pag. .
 
-**Sella**. Un cavalcatore può agganciarsi a una sella militare per rimanere al suo posto su una cavalcatura attiva, nel corso di una battaglia. Una sella militare conferisce +1d6 alle prove che il personaggio effettua per rimanere in sella. Una sella da carico è una sella solo adatta a permettere il trasporto di bisacce alla cavalcatura. E' necessaria una sella esotica per cavalcare una creatura acquatica o volante.
+**Sella**. Un cavalcatore può agganciarsi a una sella militare per rimanere al suo posto su una cavalcatura attiva, nel corso di una battaglia. Una sella militare conferisce +1d6 alle prove che il personaggio effettua per rimanere in sella. Una sella da carico è una sella solo adatta a permettere il trasporto di bisacce alla cavalcatura. È necessaria una sella esotica per cavalcare una creatura acquatica o volante.
 
 **Imbarcazioni a Remi**. I barconi e le barche a remi sono solitamente usati sui laghi e sui fiumi. Se un'imbarcazione segue la corrente, si aggiunge la velocità della corrente (solitamente 4,5 km all'ora) alla sua velocità. In genere non è possibile remare controcorrente se la corrente ha un'intensità rilevante, ma è possibile far risalire un corso d'acqua a queste imbarcazioni portandole a riva e facendole trainare da una o più bestie da soma. Una barca a remi pesa 50 kg (Ingombro 15) qualora gli avventurieri debbano trasportarla via terra.
 
@@ -472,9 +472,9 @@ La sostanza non agisce su creature di taglia Enorme o superiore. Una creatura vo
 
 **Fermasangue** 25 mo, questa sostanza rosa e appiccicosa aiuta a curare le ferite. Utilizzarne una dose concede Bonus +4 alle prove di Pronto Soccorso. 4 Usi.
 
-**Fiasco Alcalino** 15 mo, questo fiasco di liquidi caustici reagisce con gli acidi naturali delle melme. E' possibile lanciare un fiasco alcalino come arma a spargimento con gittata 3 metri. Contro le creature non melme un fiasco alcalino funziona come un'Ampolla d'acido. Contro le melme e altre creature acide il fiasco alcalino infligge i danni raddoppiati indicati da Ampolla d'Acido.
+**Fiasco Alcalino** 15 mo, questo fiasco di liquidi caustici reagisce con gli acidi naturali delle melme. È possibile lanciare un fiasco alcalino come arma a spargimento con gittata 3 metri. Contro le creature non melme un fiasco alcalino funziona come un'Ampolla d'acido. Contro le melme e altre creature acide il fiasco alcalino infligge i danni raddoppiati indicati da Ampolla d'Acido.
 
-**Fumogeno** 25 mo, questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. E' possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri.
+**Fumogeno** 25 mo, questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. È possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri.
 
 **Fuoco dell'Alchimista** 20 mo, si può lanciare un'ampolla di fuoco dell'alchimista come arma a spargimento. Si consideri l'attacco come un attacco di contatto a distanza con arma improvvisata, con gittata 3 metri.
 
@@ -482,7 +482,7 @@ Il colpo diretto provoca 1d6 danni da fuoco. Tutte le creature entro raggio di m
 
 **Gesso per Calchi**: 5 ma, questa polvere bianca e secca, mischiata con l'acqua, si addensa nel giro di un'ora per creare un materiale solido. Può essere utilizzato per creare un calco di un'orma o di un bassorilievo, riempire buchi o crepe nei muri o (se applicato ad una copertura di stoffa) per fermare un osso rotto. Il gesso indurito ha Durezza 1 e 5 Punti Ferita ogni 2.5 centimetri di spessore. Un vaso di 2 kg di gesso può coprire un raggio di mischia per la profondità di 2.5 centimetri, creare cinque ingessature per l'avambraccio o il polpaccio di una creatura di taglia Media o due ingessature complete per braccio o gamba. Monodose.
 
-**Ghiaccio Liquido** (fiala) 40 mo, detto anche *ghiaccio dell'alchimista*, questo fluido blu cristallino inizia ad evaporare appena tolto dal contenitore. Nei successivi 1d6 round è possibile utilizzarlo per congelare un liquido o coprire un oggetto con un sottile strato di ghiaccio. E' possibile anche lanciare il ghiaccio liquido come arma a spargimento. Un colpo diretto infligge 1d6 danni da freddo, mentre le creature entro raggio di mischia subiscono 1 danno da freddo per lo spargimento. La confezione contiene 3 dosi.
+**Ghiaccio Liquido** (fiala) 40 mo, detto anche *ghiaccio dell'alchimista*, questo fluido blu cristallino inizia ad evaporare appena tolto dal contenitore. Nei successivi 1d6 round è possibile utilizzarlo per congelare un liquido o coprire un oggetto con un sottile strato di ghiaccio. È possibile anche lanciare il ghiaccio liquido come arma a spargimento. Un colpo diretto infligge 1d6 danni da freddo, mentre le creature entro raggio di mischia subiscono 1 danno da freddo per lo spargimento. La confezione contiene 3 dosi.
 
 **Grasso Alchemico** 5 mo, ogni vaso di questa sostanza nerastra può coprire una creatura Media o due Piccole. Coprendosi di grasso alchemico si ottiene Bonus +4 alle prove di sfuggire alle prese. L'effetto dura 4 ore o finché si lava via il grasso.
 
@@ -557,7 +557,7 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 ### Lavorare in città
 
-Durante le pause tra un avventura ed un altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
+Durante le pause tra un avventura ed un'altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
 
 I personaggi effettuano una prova al giorno della loro competenza professionale (es Artigianato oppure Erboristeria od Intrattenere...) in base al successo guadagneranno o meno.
 

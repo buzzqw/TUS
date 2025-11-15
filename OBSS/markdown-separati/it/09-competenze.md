@@ -120,7 +120,7 @@ La Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Arcana (INT)**: Con questa competenza si è esperti di magia e di incantesimi, di oggetti magici è si è grado di identificare gli incantesimi che vengono lanciati. 1 Azione.
 
-**Arrampicarsi* (FOR)**: Con questa competenza si possono scalare superfici verticali, dalle mura cittadine alle pareti rocciose. E' legata all'Azione di Movimento. Con 8 punti il movimento di Scalare è solo dimezzato.
+**Arrampicarsi* (FOR)**: Con questa competenza si possono scalare superfici verticali, dalle mura cittadine alle pareti rocciose. È legata all'Azione di Movimento. Con 8 punti il movimento di Scalare è solo dimezzato.
 
 **Artigianato (INT)**: si esplicita su una capacità costruttiva, permette costruire l'oggetto dell'artigianato e di giudicare e valutare un lavoro nell'ambito della competenza.
 
@@ -130,7 +130,7 @@ La Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Cavalcare (SAG)**: Con questa competenza è possibile cavalcare in maniera professionale e dare comandi alla propria cavalcatura. Vedi Capitolo Cavalcare  1 Azione.
 
-**Consapevolezza (SAG)**: per cercare, accorgersi, notare. E' un qualcosa di attivo. 2 Azioni. **Usare 1 Azione impone una penalità -1d6 alla prova**.
+**Consapevolezza (SAG)**: per cercare, accorgersi, notare. È un qualcosa di attivo. 2 Azioni. **Usare 1 Azione impone una penalità -1d6 alla prova**.
 
 **Conoscenza di Architettura ed Ingegneria (INT)**: Sei un esperto costruttore e sai valutare la struttura delle costruzioni. Sai anche riconoscere stili architettonici e creare progetti d'interno e d'arredo. 1 Azione.
 
@@ -168,7 +168,7 @@ La Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Ingannare (CAR)**: La competenza Ingannare può essere usata per Raggirare (dicendo quindi fandonie) o Persuadere (adattando la verità) al fine di convincere delle proprie parole l'interessato. Costo variabile.
 
-**Intrattenere (CAR)**: Con questa competenza si è esperti in una espressione artistica, dal canto alla recitazione, dal ballo a suonare strumenti musicali. E' necessario specificare la forma di intrattenimento. Costo variabile.
+**Intrattenere (CAR)**: Con questa competenza si è esperti in una espressione artistica, dal canto alla recitazione, dal ballo a suonare strumenti musicali. È necessario specificare la forma di intrattenimento. Costo variabile.
 
 **Mani di fata* (DES)**: Con questa competenza si può borseggiare, estrarre un'arma nascosta, oppure compiere altre azioni senza essere notati(ad esempio barare a carte). 1 Azione.
 
@@ -186,7 +186,7 @@ La Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Sopravvivenza (SAG)**: Con questa competenza si può sopravvivere e orientarsi nelle terre selvagge. La competenza è usata anche per cercare attivamente trappole e fosse. 1 minuto per cercare trappole in 3x3 metri, con punteggio 6 costa 3 round, con punteggio di 12 costa 1 round, con punteggio 18 costa 1 Azione.
 
-**Tradizioni locali (CAR)**: Con questa competenza si hanno conoscenze degli abitanti (più noti), costumi, leggende, leggi, personalità, tradizioni. E' necessario specificare una regione geografica dove è applicabile la conoscenza. 1 Azione.
+**Tradizioni locali (CAR)**: Con questa competenza si hanno conoscenze degli abitanti (più noti), costumi, leggende, leggi, personalità, tradizioni. È necessario specificare una regione geografica dove è applicabile la conoscenza. 1 Azione.
 
 **Usare corda (DES)**: Con questa competenza si è esperti in legacci e nodi per fissare e bloccare oggetti o persone. 2 Azioni.
 
@@ -223,7 +223,7 @@ Il **Tiro Salvezza su Riflessi** indica quanto si è agili e pronti per evitare 
 Quando viene chiesto un Tiro Salvezza significa fare una prova sulla Competenza Attiva richiesta, possa essere Volontà, Tempra o Riflessi.
 La prova si andrà ad eseguire tirando 3d6 + valore della Competenza Attiva richiesta ovvero il punteggio nel Tiro Salvezza su Volontà, Riflessi o Tempra + il valore della Caratteristica collegata alla tipologia Competenza Attiva (Saggezza, Destrezza o Costituzione) + Abilità + bonus magici (oggetti che influenzano il Tiro Salvezza) e modificatori vari presenti.
 
->> **Tiri Salvezza non standard**: E' possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma. Sarà il Narratore a dirvi quando si applica un modificatore diverso.
+>> **Tiri Salvezza non standard**: È possibile che vengano richiesti dei Tiri Salvezza con modificatori diversi, ovvero un Tiro Salvezza su Tempra con modificatore Forza oppure un Tiro Salvezza su Volontà con modificatore Carisma. Sarà il Narratore a dirvi quando si applica un modificatore diverso.
 
 ### Competenza Armi
 
@@ -236,7 +236,7 @@ Il **Tiro per Colpire con armi da distanza** (archi, balestre, pugnali da lancio
 Quando si assegna un punto ad **CA** è necessario precisare su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
 Controllare l'elenco Armi per Tipologia Omogenea .
 
-Il personaggio può decidere di assegnare il suo punto ad una tipologia di armi che già conosce, migliorando così la sua capacità ed talento nell'uso od apprendere un altra tipologia di armi.
+Il personaggio può decidere di assegnare il suo punto ad una tipologia di armi che già conosce, migliorando così la sua capacità ed talento nell'uso od apprendere un'altra tipologia di armi.
 
 più è alto il punteggio in una tipologia d'armi più facilmente può usufruire di vantaggi con le armi della stessa, ma conoscerà meno armi.
 
@@ -272,7 +272,7 @@ Il valore di Competenza Magica stabilisce insieme all'Abilità Adepto della Magi
 
 Il punto di Competenza Magica, a differenza di quello di Competenza Armi, non è necessario dichiararlo su una Lista di Magia, Patrono o altro. Il punto si *trasforma* in grezzo potere magico.
 
-E' necessario avere almeno 1 punto in Competenza Magica se si vuole essere degli usufruitori di magia, se si vuole conoscere il come funziona la magia e la connessione di questa con i Patroni.
+È necessario avere almeno 1 punto in Competenza Magica se si vuole essere degli usufruitori di magia, se si vuole conoscere il come funziona la magia e la connessione di questa con i Patroni.
 
 Non è strettamente necessario mettere sempre il punto di Competenza Attiva in Competenza Magia se si vuole fare un incantatore, anzi, qualche punto in Competenza Armi serve anche al mago più bravo se vuole sapere *mirare e colpire* un avversario con qualcosa di diverso da un incantesimo.
 

@@ -97,13 +97,13 @@ When instead it is marked **Weapon**, **Armor**, **Rod**, **Staff**, **Ring**...
 | 45-58 | Light Energy |
 | 59-72 | Thief of Nine Lives |
 | 73-86 | Ghost Touch |
-| 87-100 | Weapon Speed |
+| 87-100 | Speed |
 
 **Table: Special Ability Weapons Type 2**
 
 | **1d100** | **Special Ability Weapons Type 2** |
-| 1-25 | of pain |
-| 26-50 | Mace of Punishment |
+| 1-25 | Of Pain |
+| 26-50 | Mace of Smiting |
 | 51-75 | Greater Weapon Ring |
 | 76-100 | Weapon Ring |
 
@@ -135,17 +135,17 @@ When instead it is marked **Weapon**, **Armor**, **Rod**, **Staff**, **Ring**...
 
 | **1d100** | **Special Ability Armor/Shields Type 1** |
 |---|---|
-| 11-15 | Archer' \*\*s Bracers |
+| 11-15 | Bracers of Archery |
 | 16-20 | Bracers of Defense |
 | 21-25 | Bracers of Greater Defense |
-| 36-40 | Defense from Spells |
+| 36-40 | Spell Defense |
 | 51-55 | Poison Resistance |
 | 56-60 | Energy Resistance |
-| 61-65 | Superior Energy Resistance |
+| 61-65 | Greater Energy Resistance |
 | 71-75 | Dragon Scales |
 | 76-80 | Animated Shield |
 | 81-85 | Shield of Projectile Attraction |
-| 86-90 | Dragon' \*\*s Breath |
+| 86-90 | Dragon Breath |
 | 91-95 | Ghost Touch |
 | 96-100 | Cursed |
 
@@ -170,19 +170,19 @@ When instead it is marked **Weapon**, **Armor**, **Rod**, **Staff**, **Ring**...
 
 | **1d100** | **Amulets, Necklaces and Jewelry Type 1** |
 |---|---|
-| 1-8 | Anti-poison Amulet |
+| 1-8 | Amulet of Poison Resistance |
 | 8-12 | Gangrene Amulet |
-| 12-18 | Healing Amulet |
+| 12-18 | Amulet of Health |
 | 19-26 | Amulet Against Possession |
 | 27-34 | Amulet of Inevitable Location |
 | 35 | Amulet of the Planes |
 | 36-42 | Amulet of Protection from Detection and Location |
 | 42-46 | Amulet of Physical Resistance |
-| 47-53 | Circlet of Explosion |
+| 47-53 | Circlet of Blasting |
 | 53-60 | Necklace of Adaptation |
 | 61-70 | Necklace of Strangulation |
 | 71-77 | Necklace of Fireballs |
-| 78-83 | Rosary Necklace |
+| 78-83 | Necklace of Prayer Beads |
 | 84-90 | Scarab of Death |
 | 91-100 | Scarab of Protection |
 
@@ -190,12 +190,12 @@ When instead it is marked **Weapon**, **Armor**, **Rod**, **Staff**, **Ring**...
 |---|---|
 | 1-7 | Elemental Gem |
 | 8-13 | Gem of Brightness |
-| 9-16 | Gem of Sight |
+| 9-16 | Gem of Seeing |
 | 17-26 | Monster-attracting Jewel |
 | 27-33 | Medallion of Thoughts |
-| 34-41 | Medallion of Feather Fall |
+| 34-41 | Ring of Feather Fall |
 | 42-49 | Pearl of Wisdom |
-| 50-57 | Brooch of Defense |
+| 50-57 | Bracers of Defense |
 | 58-60 | Talisman of Pure Good |
 | 61-62 | Talisman of Ultimate Evil |
 | 63-70 | Talisman of Protection from Poison |
@@ -207,23 +207,23 @@ When instead it is marked **Weapon**, **Armor**, **Rod**, **Staff**, **Ring**...
 
 | **1d100** | **Belts, Helmets, Boots and Gloves** |
 |---|---|
-| 1-3 | Belt of Giants |
-| 3-6 | Belt of Dwarves |
+| 1-3 | Belt of Giant Strength |
+| 3-6 | Belt of Dwarvenkind |
 | 6-11 | Helm of Comprehending Languages |
 | 12 | Helm of Brilliance |
-| 13-17 | Helm of Underwater Movement |
+| 13-17 | Helm of Underwater Action |
 | 18-22 | Helm of Telepathy |
 | 23-26 | Helm of Teleportation |
 | 27-31 | Gloves of Missile Snaring |
-| 31-35 | Gloves of Orcish Power |
+| 31-35 | Gauntlets of Ogre Power |
 | 36-41 | Gloves of Swimming and Climbing |
 | 41-46 | Gloves of Dexterity |
-| 47-52 | Gauntlets of Fumbling |
+| 47-52 | Fumbling Gloves |
 | 53-58 | Slippers of Spider Climbing |
 | 59-63 | Winged Boots |
-| 64-66 | Boots of Running and Jumping |
-| 67-77 | Boots of the Elves |
-| 78-83 | Boots of Winter |
+| 64-66 | Boots of Striding and Springing |
+| 67-77 | Boots of Elvenkind |
+| 78-83 | Boots of the Winterlands |
 | 84-90 | Boots of Levitation |
 | 91-95 | Boots of Speed |
 | 96-100 | Dancing Boots |
@@ -241,7 +241,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 | **1d100** | **Wand** |
 |---|---|
-| 1-5 | Metal Detection Wand |
+| 1-5 | Wand of Metal Detection |
 | 6-10 | Wand of Arcane darts |
 | 11-15 | Wand of Comfort |
 | 16-20 | Wand of Lightning |
@@ -257,7 +257,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 55-60 | Wand of Fireballs |
 | 61-65 | Wand of Paralysis |
 | 66-70 | Wand of Fear |
-| 71-75 | Trap Detection Wand |
+| 71-75 | Wand of Trap Detection |
 | 76-80 | Wand of Secrets |
 | 81-85 | Wand of Web |
 | 86-90 | Wand of Binding |
@@ -285,10 +285,10 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 | **1d100** | **Rod** |
 |---|---|
-| 1-10 | Rod of Enchantment |
+| 1-10 | Rod of Lordly Might |
 | 11-20 | Rod of Absorption |
 | 21-30 | Immovable Rod |
-| 31-41 | Rod of Mighty Strikes |
+| 31-41 | Rod of Mighty Striking |
 | 42-50 | Rod of Lordly Might |
 | 51-60 | Rod of Alertness |
 | 61-70 | Rod of Security |
@@ -331,13 +331,13 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 50-55 | Potion of Plant Control |
 | 56-66 | Potion of Invulnerability |
 | 67-77 | Potion of Mind Reading |
-| 78-85 | Poison Potion |
+| 78-85 | Potion of Poison |
 | 86-95 | Greater Healing Potion |
 | 96-100 | Enhanced Poison Potion |
 
 | **1d100** | **Potion Type 3** |
 |---|---|
-| 1-13 | Love Philter |
+| 1-13 | Love Potion |
 | 14-27 | Treasure Finding Philter |
 | 28-40 | Oil of Sharpness |
 | 41-53 | Oil of Etherealness |
@@ -357,14 +357,14 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 |---|---|
 | 1-5 | Spell Storing Ring |
 | 6-13 | Ring of the Ram |
-| 14-21 | Ring of Feather Falling |
+| 14-21 | Ring of Feather Fall |
 | 22-28 | Ring of Water Walking |
 | 29-35 | Ring of Warmth |
 | 36-41 | Ring of Weakness |
 | 42-47 | Ring of Evasion |
 | 48-50 | Ring of Animal Influence |
 | 51-55 | Ring of Deception |
-| 56-61 | Ring of Freedom of Action |
+| 56-61 | Ring of Free Action |
 | 61-67 | Ring of Swimming |
 | 68-77 | Ring of Protection |
 | 76-84 | Ring of Resistance |
@@ -375,41 +375,41 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 |---|---|
 | 1-8 | Ring of Person Control |
 | 9-17 | Ring of Plant Control |
-| 18-23 | Ring of Water Elementals |
-| 24-29 | Ring of Air Elementals |
-| 31-36 | Ring of Fire Elementals |
-| 37-42 | Ring of Earth Elementals |
+| 18-23 | Ring of Water Elemental Command |
+| 24-29 | Ring of Air Elemental Command |
+| 31-36 | Ring of Fire Elemental Command |
+| 37-42 | Ring of Earth Elemental Command |
 | 43-48 | Ring of Evasion |
-| 49-56 | Spell Turning Ring |
+| 49-56 | Ring of Spell Turning |
 | 57-65 | Ring of Invisibility |
 | 66-75 | Ring of Regeneration |
 | 76-83 | Ring of Mind Shielding |
 | 84-90 | Ring of Shooting Stars |
 | 91-92 | Ring of Three Wishes |
 | 92-96 | Ring of Three Wishes (depleted) |
-| 97-100 | Ring of X-Ray Vision |
+| 97-100 | Ring of X-ray Vision |
 
 ### Hats, Cloaks, Glasses, Robes
 
 
 | **1d100** | **Hats, Cloaks, Glasses, Robes** |
 |---|---|
-| 1-3 | Bandana of Intelligence |
+| 1-3 | Headband of Intellect |
 | 4-10 | Hat of Disguise |
 | 11-17 | Cloak of Arachnida |
 | 18-23 | Cloak of the Charlatan |
 | 24-29 | Cloak of Displacement |
-| 30-40 | Cloak of the Elves |
+| 30-40 | Cloak of Elvenkind |
 | 41-45 | Cloak of the Manta Ray |
 | 46-50 | Cloak of the Bat |
 | 51-57 | Cloak of Protection |
 | 58-62 | Cloak of Spell Resistance |
-| 63-68 | Cloak of Poison |
-| 69-72 | Eyes of Petrification |
-| 73-75 | Charming Eyes |
+| 63-68 | Cloak of poisonousness |
+| 69-72 | Eyes of petrification |
+| 73-75 | Eyes of Charming |
 | 76-77 | Eyes of the Eagle |
 | 78-80 | Eyes of Minute Seeing |
-| 80-82 | Night Vision Glasses |
+| 80-82 | Goggles of Night |
 | 83-86 | Robe of Camouflage |
 | 87 | Robe of the Archmage |
 | 88 | Robe of Scintillating Colors |
@@ -446,7 +446,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 |---|---|
 | 3-12 | Empty manual |
 | 13 | Manual of Golems |
-| 14 | Manual of Good Health |
+| 14 | Manual of Bodily Health |
 | 15 | Manual of Quickness of Action |
 | 16 | Manual of Physical Exercise |
 | 17 | Cursed Manual of Good Health |
@@ -455,7 +455,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | **3d6** | **Tomes** |
 |---|---|
 | 3-12 | Empty tome |
-| 13 | Tome of Authority and Influence |
+| 13 | Tome of Leadership and Influence |
 | 14 | Tome of Understanding |
 | 15 | Tome of Clear Thought |
 | 16 | Cursed Tome of Authority and Influence |
@@ -483,7 +483,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 35-43 | Efficient Quiver |
 | 44-48 | Locator Arrow |
 | 49-52 | Crossbow of Arcane Bolts |
-| 53-57 | Lantern of Revelation |
+| 53-57 | Lantern of Revealing |
 | 58-60 | Scroll against elementals |
 | 61-63 | Scroll against undead |
 | 63-65 | Necklace of Fresh Air |
@@ -499,10 +499,10 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 | **1d100** | **Miscellaneous magic items 2** |
 |---|---|
-| 1-8 | Brazier of Fire Elementals |
+| 1-8 | Brazier of Commanding Fire Elementals |
 | 9-17 | Cursed Brazier of Sleep |
 | 18-23 | Cube of Cold Protection |
-| 24-29 | Censer of Air Elementals |
+| 24-29 | Censer of Controlling Air Elementals |
 | 30-34 | Incense of Meditation |
 | 35-43 | Entangling Net |
 | 44-52 | Trapping Net |
@@ -514,7 +514,7 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 74-76 | Cursed Broom of Flight |
 | 77-84 | Speaking Stones |
 | 85-88 | Mirror of Duplication |
-| 89-90 | Life Trapping Mirror |
+| 89-90 | Mirror of Life Trapping |
 | 91-94 | Horn of Valhalla |
 | 95-98 | Flying Carpet |
 | 99-100 | Mattock of the Titans |
@@ -523,15 +523,15 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 
 | **1d100** | **Miscellaneous magic items 3** |
 |---|---|
-| 1-15 | Bag of Annihilation |
+| 1-15 | Bag of Devouring |
 | 16-25 | Decanter of Endless Water |
 | 26-35 | Dimensional Shackles |
 | 36-46 | Sovereign Glue |
-| 47-56 | Revealing Dust |
+| 47-56 | Dust of Appearance |
 | 57-68 | Dust of Disappearance |
 | 69-70 | Hypnotic Crystal Ball |
 | 71-81 | Dust of Sneezing and Choking |
-| 82-90 | Arcane Stone |
+| 82-90 | Ioun Stone |
 | 91-96 | Stone of Weight |
 | 97-100 | Arcane Fan |
 
@@ -545,14 +545,14 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 29-37 | Portable Hole |
 | 38-43 | Rope of Entanglement |
 | 44-50 | Strangling Rope |
-| 51-55 | Horn of Destruction |
+| 51-55 | Horn of Blasting |
 | 56-60 | Cube of Force |
 | 61-64 | Iron Bands of Binding |
 | 65-73 | Incense of Obsession |
 | 74-82 | Deck of Illusions |
-| 83-84 | Stone of Earth Elementals |
+| 83-84 | Stone of Earth Elemental Control |
 | 85-91 | Pipes of Haunting |
-| 92-94 | Arcane Feather |
+| 92-94 | Quaal' \*\*s Feather Token |
 | 95-96 | Drums of Panic |
 | 97-98 | Drums of Stunning |
 | 99-100 | Censer of Cursed Summoning |
@@ -574,8 +574,8 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 32-35 | Candle of Invocation |
 | 36-39 | Phylactery of Youth |
 | 40-42 | Instant Fortress |
-| 43-45 | Deck of Wonder |
-| 46-50 | Miniature of Wondrous Power |
+| 43-45 | Wand of Wonder |
+| 46-50 | Figurine of Wondrous Power |
 | 51-55 | Ammunition of Slaying |
 | 56-60 | Crystal Ball |
 | 61-67 | Pipes of the Sewers |
@@ -585,8 +585,8 @@ Roll 1d8 to determine if you find a Wand or Staff or Rod.
 | 87-89 | Mirror of Mental Prowess |
 | 90-91 | Sphere of Annihilation |
 | 92-94 | Elemental Air Censer |
-| 95-96 | Portable Chamber |
+| 95-96 | Portable Hole |
 | 97-98 | Horseshoes of Speed |
-| 99-100 | Horseshoes of Zephyr |
+| 99-100 | Horseshoes of a Zephyr |
 
 ---

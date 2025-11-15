@@ -13,9 +13,9 @@ I racconti si fanno molto confusi a questo punto, di fatto l'*Omniessenza* era e
 
 Nel punto dove una volta sorgeva la sede della Freten si aprì una breccia simile a un portale: una colossale fiamma divisa in due lingue di fuoco di colore diverso.
 
-Da questa fiamma uscì un mastodontico *drago rosso* le cui scaglie erano impenetrabili a qualsiasi arma umana. Tàhil, questo il suo nome, nelle prime 24 ore distrusse quello ciò che restava della costa orientale degli Stati Uniti.
+Da questa fiamma uscì un mastodontico *drago rosso* le cui scaglie erano impenetrabili a qualsiasi arma umana. Tàhil, questo il suo nome, nelle prime 24 ore distrusse quello che restava della costa orientale degli Stati Uniti.
 
-All'alba del secondo giorno una mistica energia avvolse Tàhil e questo mutò in un drago a molte teste di colori diversi. Nel suo petto apparì un'altra breccia ed a ogni passo una moltitudine di altri draghi, per fortuna *leggermente* più piccoli incominciò ad uscire.
+All'alba del secondo giorno una mistica energia avvolse Tàhil e questo mutò in un drago a molte teste di colori diversi. Nel suo petto apparì un'altra breccia ed a ogni passo una moltitudine di altri draghi, per fortuna *leggermente* più piccoli cominciarono ad uscire.
 
 All'alba del terzo giorno Tàhil pronunciò l'Editto della Dimenticanza, un'onda magica che fuse i componenti di ogni apparato elettrico e cancellò ogni dato. Il sapere stesso divenne un enigma, le parole dei libri si mescolarono in un caos incomprensibile.
 
@@ -43,7 +43,7 @@ Trascorso quel tempo, i sogni dei pochi esseri rimasti cominciarono a essere inv
 E arrivò così la seconda ondata dei *Patroni* come collettivamente si facevano chiamare. Per fortuna questi esseri si rivelarono, tutto sommato, più gentili e *umani*, o almeno qualcuno lo era. Bonificarono buona parte delle zone radioattive ed insegnarono a chi accettava i loro Tratti ad attingere alla loro energia per poter formulare delle vere, reali, concrete **magie**!
 Alcune entità crearono o richiamarono altre razze; vuoi per poter dominare gli umani, vuoi per poterli guidare, vuoi per aggiungere caos ed entropia al mondo.
 
-Sono passati poco più di cento anni dalla seconda venuta eppure tanto è bastato perché La nostra Terra tornasse ad un medioevo di fantastiche origini.
+Sono passati poco più di cento anni dalla seconda venuta eppure tanto è bastato perché la nostra Terra tornasse ad un medioevo di fantastiche origini.
 
 Molti dei Patroni più oscuri hanno aperto portali verso regni dell'incubo se non demoniaci, altri hanno attinto dal folklore locale per divertirsi con la nostra sofferenza e morte. Come divinità i Patroni camminano sulla Terra con il solo scopo di avere più persone che le adorino, che seguano i loro insegnamenti, che abbiano i loro Tratti.
 
@@ -59,7 +59,7 @@ Il Narratore è l’architetto di questo mondo: colui che plasma la realtà e te
 Spetta a lui presentarvi le sfide, descrivere i luoghi, dare vita ai personaggi non giocanti e interpretare le conseguenze delle vostre azioni.
 
 In OBSS, la collaborazione tra giocatori e Narratore è fondamentale per creare un’esperienza di gioco coinvolgente e indimenticabile.
-La vera regola che il Narratore deve ricordare è che qualsiasi regola sia usata finché fa divertire tutti è quella giusta!.
+La vera regola che il Narratore deve ricordare è che qualsiasi regola sia usata finché fa divertire tutti è quella giusta!
 
 La sopravvivenza è la legge fondamentale di questo mondo. In OBSS, non ci sono garanzie di successo e ogni passo potrebbe essere l'ultimo. Ma è proprio in questa lotta per la sopravvivenza che si forgiano i veri eroi. Attraverso le vostre azioni, la vostra astuzia e il vostro coraggio potrete reclamare la Legge del Premio, guadagnando esperienza, ricchezze e la possibilità di influenzare il corso degli eventi.
 
@@ -86,7 +86,7 @@ OBSS vuole continuare nel solco di un gioco inclusivo e libero. Ogni gruppo è l
 
 ## Termini Comuni
 
-Ti elenco un pò di termini e concetti che troverai ripetuti più volte nel libro.
+Ti elenco un po' di termini e concetti che troverai ripetuti più volte nel libro.
 
 **Arrotondamenti**: sempre per difetto se non esplicitato diversamente ma con un minimo di 1. Es. 7/2 = 3, 9/4=2, 1/2=1
 
@@ -126,7 +126,7 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
 **Devoto**: un personaggio che si é legato ad un Patrono ed ha almeno 2 Tratti in comune.
 
-**Seguace**: un personaggio che si è legato ad un Patrono con 1 Tratti in comune
+**Seguace**: un personaggio che si è legato ad un Patrono con 1 Tratto in comune
 
 **Esplosione del 6**: quando, esegui il Tiro per Colpire, Tiro Salvezza, Prova di Competenza, Prova di Magia, Iniziativa (leggi le specifiche nel capitolo dedicato) o comunque ogni volta che viene indicato che vale l'esplosione del 6 significa che per ogni dado tirato che ha fatto 6 va segnato e ritirato il dado. Il risultato del nuovo tiro va anche lui sommato e se si fa un 6 si continua a ritirare finché si continua a fare 6.
 
@@ -138,8 +138,8 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
 **Incantatore, Mago:** indica un qualsiasi usufruitore di magia a qualsiasi titolo.
 
-**Mischia**: con mischia si intende il combattimento di contatto, corpo a corpo, spada a spada, ovvero quando il tuo personaggio combatte con un arma che abbia non abbia gittata (arco, balestre, fionde...) contro un avversario.
-Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere con la sua arma non da tiro. Una creatura di grandi dimensioni (o con un arma lunga) potrebbe essere in mischia con il personaggio ma non viceversa.
+**Mischia**: con mischia si intende il combattimento di contatto, corpo a corpo, spada a spada, ovvero quando il tuo personaggio combatte con un'arma che non abbia gittata (arco, balestre, fionde...) contro un avversario.
+Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere con la sua arma non da tiro. Una creatura di grandi dimensioni (o con un'arma lunga) potrebbe essere in mischia con il personaggio ma non viceversa.
 
 **Movimento**: il movimento rappresenta la capacità di spostarsi. Una Azione di Movimento rappresenta lo spostarsi del personaggio, più è alto il valore di Movimento più metri una creatura può muoversi.
 

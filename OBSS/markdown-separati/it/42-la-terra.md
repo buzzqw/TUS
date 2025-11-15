@@ -46,7 +46,7 @@ Le leggende parlano di intere regioni inghiottite sottoterra, città che dal gio
 
 ## Le Religioni
 
-Le *vecchie* religioni esistono ancora. I Patroni non ti fanno guerra perché adori un altro Patrono o Dio, non è il loro scopo o interesse. La religione ha acquisito un ruolo molto più concreto e reale, con numerosi estremisti che vanno profetizzando la venuta di altri patroni, dei veri Dei. E' sempre molto pericoloso manifestare il proprio credo, non sai mai come potrebbero reagire gli altri.
+Le *vecchie* religioni esistono ancora. I Patroni non ti fanno guerra perché adori un altro Patrono o Dio, non è il loro scopo o interesse. La religione ha acquisito un ruolo molto più concreto e reale, con numerosi estremisti che vanno profetizzando la venuta di altri patroni, dei veri Dei. È sempre molto pericoloso manifestare il proprio credo, non sai mai come potrebbero reagire gli altri.
 
 Le stessi Devoti o Seguaci se pubblicamente declamano i loro Patroni rischiano a volte il linciaggio, quasi tutti gli usufruitori di magia vengono visti come persone che hanno venduto l'anima al *diavolo*. La fiducia è un bene prezioso che va guadagnato.
 
@@ -112,7 +112,7 @@ La città oltretutto non appare mai nello stesso posto ma si sposta seguendo uno
 
 L'origine di questo antico e magico edificio è ormai dimenticata, si dice che fosse stata creata per sfidare un Patrono, probabilmente Gradh. La torre, a base quadrata di 20 metri di lato è apparentemente alta 7 piani. In ogni piano, la cui mappa sembra essere costantemente mutevole, appaiono dei gorilla blu, assolutamente brutali e con l'intenzione di uccidere chiunque sia nella torre. Una volta sconfitto l'ultimo gorilla del piano la porta che conduce alle scale per il piano successivo si apre e i personaggi possono salire. Ad ogni piano i gorilla diventano più forti, resistenti e più intelligenti.
 
-E' noto che già al 4 piano acquisiscano anche poteri magici. I personaggi entrati possono uscire quando vogliono, se dovessero morire all'interno della torre verranno automaticamente teletrasporati fuori, ma vivi ad 1 Punto Ferita ed estremamente affaticati, senza l'oggetto più prezioso che avevano addosso al momento della morte. Non ci sono oggetti magici all'interno della torre, almeno nei piani noti, l'unica cosa che i personaggi guadagnano è esperienza per i combattimenti fatti. L'attuale record è stato raggiungere il 7 piano. Riusciranno dei nuovi eroi ad arrivare alla fine (???) della torre, e che premi ci saranno per chi sopravvive?
+È noto che già al 4 piano acquisiscano anche poteri magici. I personaggi entrati possono uscire quando vogliono, se dovessero morire all'interno della torre verranno automaticamente teletrasporati fuori, ma vivi ad 1 Punto Ferita ed estremamente affaticati, senza l'oggetto più prezioso che avevano addosso al momento della morte. Non ci sono oggetti magici all'interno della torre, almeno nei piani noti, l'unica cosa che i personaggi guadagnano è esperienza per i combattimenti fatti. L'attuale record è stato raggiungere il 7 piano. Riusciranno dei nuovi eroi ad arrivare alla fine (???) della torre, e che premi ci saranno per chi sopravvive?
 
 ### e la Terra ?
 
@@ -132,7 +132,7 @@ E ovunque, Draghi! Innumerevoli, affamati, cattivi.
 
 ### I vecchi Stati
 
-E' impossibile in queste poche righe descrivervi come tutto il pianeta sia stato *riscritto*. La magia dei Patroni è assoluta ed il loro volere Legge, non stupiamoci se quello che era il Deserto del Sahara adesso è la più fitta e lussureggiante jungla del pianeta, conosciuta come Giardino di Shayalia.
+È impossibile in queste poche righe descrivervi come tutto il pianeta sia stato *riscritto*. La magia dei Patroni è assoluta ed il loro volere Legge, non stupiamoci se quello che era il Deserto del Sahara adesso è la più fitta e lussureggiante jungla del pianeta, conosciuta come Giardino di Shayalia.
 Buona parte della zona est della Russia, quella ai confini con gli ex stati dell'est Europa è diventa l'Impero dei Ghoul, uno dei luoghi più terribili dove vivere, se non si è devoti di Sixiser.
 
 Molto del Nord America è un deserto nucleare con le poche popolazioni che si sono rifugiate nelle coste est ed ovest, cacciati da bande di predoni cannibali e mutati sputa acido.
@@ -215,7 +215,7 @@ Questi i nomi dei mesi a partire da quello che si definisce inizio anno:
 
 12°) Kartan (stagione: primavera)
 
-*Raanant* è il mese che si festeggia alla fine del Ciclo secolare, ogni cento anni. E' un mese di libertà dai Patroni, dalle Leggi, è il mese della catarsi e della violenza, della libertà e della rinascita. Al termine del mese si passa a Ianas.
+*Raanant* è il mese che si festeggia alla fine del Ciclo secolare, ogni cento anni. È un mese di libertà dai Patroni, dalle Leggi, è il mese della catarsi e della violenza, della libertà e della rinascita. Al termine del mese si passa a Ianas.
 
 Un ciclo di sette giorni, settimana, è composta da giorni di nome:
 
@@ -251,11 +251,11 @@ Quale sia la verità non è dato saperlo.
 
 > Vidi poi un angelo che scendeva dal cielo con la chiave dell'Abisso e una gran catena in mano.
 
-Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni; lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un pò di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
+Afferrò il dragone, il serpente antico - cioè il diavolo, satana - e lo incatenò per mille anni; lo gettò nell'Abisso, ve lo rinchiuse e ne sigillò la porta sopra di lui, perché non seducesse più le nazioni, fino al compimento dei mille anni. Dopo questi dovrà essere sciolto per un po' di tempo. (Apocalisse 20,1-3, apostolo Giovanni)
 
 Dice il mito che ogni cento anni la Terra muoia per rinascere nuovamente, più bella di prima. Non è proprio così ma ci si avvicina molto.
 
-E' noto a pochi eruditi di Atmos che ogni secolo i Patroni riconosciuti, e da cui molti traggono i poteri, scompaiano e lascino il posto, dopo esattamente 1 anno a nuovi Patroni.
+È noto a pochi eruditi di Atmos che ogni secolo i Patroni riconosciuti, e da cui molti traggono i poteri, scompaiano e lascino il posto, dopo esattamente 1 anno a nuovi Patroni.
 
 Improvvisamente gli incantesimi cessano di funzionare, solo gli oggetti magici che possono assorbire e conservare la magia funzionano (come ad esempio una Pozione, una Armatura o Arma se non un Anello od un Bastone che abbia delle cariche, ma non oggetti che si ricaricano automaticamente come le Verghe), neanche i Devoti o Seguaci hanno più accesso a nessun incantesimo.
 
@@ -267,9 +267,9 @@ Questo è quello che successe alla fine della prima venuta, con la sola differen
 
 Ogni nuovo Patrono, in base ai Tratti che comanda, avvicina un Seguace o Devoto e cerca di convincerlo ad accettarlo come nuovo Patrono. Gli incantatori solo al termine dell'anno potranno usare gli incantesimi, indipendentemente che seguano un Patrono o meno.
 
-E' un periodo estremamente turbolento ed agitato dove scoppiano guerre e vendette approfittando dell'assenza della magia. Per molti è un periodi di puro odio e violenza dove vengono sfogati gli istinti più bassi sapendo poi che non si sarà giudicati da nessun Patrono.
+È un periodo estremamente turbolento ed agitato dove scoppiano guerre e vendette approfittando dell'assenza della magia. Per molti è un periodi di puro odio e violenza dove vengono sfogati gli istinti più bassi sapendo poi che non si sarà giudicati da nessun Patrono.
 
-La verità è che ogni cento anni i Patroni delle Genesi giudicano i loro figli, i Patroni, valutando chi ha fatto meglio e chi peggio. E' una sfida tra Calicante ed Ljust a chi ha, tramite i Patroni, ottenuto più Seguaci e Devoti.
+La verità è che ogni cento anni i Patroni delle Genesi giudicano i loro figli, i Patroni, valutando chi ha fatto meglio e chi peggio. È una sfida tra Calicante ed Ljust a chi ha, tramite i Patroni, ottenuto più Seguaci e Devoti.
 
 Il Patrono che più di tutti si è dimostrato capace di conquistare più persone rimarrà anche nel secolo successivo, questo sarà il Vincitore ed i suoi credenti ne canteranno per altri cento anni la gloria e la potenza.
 
@@ -279,7 +279,7 @@ Ovvio che il Patrono stesso potrebbe soddisfarlo ma la gioia di obbligare l'altr
 
 a fare qualcosa che detesta è superiore a ogni cosa. Ed è per questo che ogni cento anni succede l'impossibile, oltre alla nascita di nuovi Patroni.
 
-Può essere un nuovo continente, un mare che si apre tra le terre, nuove razze, animali... qualcosa di imponente cambia per tutti i terrestri. E' un periodo di sconvolgimenti globali.
+Può essere un nuovo continente, un mare che si apre tra le terre, nuove razze, animali... qualcosa di imponente cambia per tutti i terrestri. È un periodo di sconvolgimenti globali.
 
 Solo i sommi Devoti di Atmos conoscono questa verità come conoscono che i Patroni della Genesi dopo la vittoria giacciono insieme per sei mesi generando i nuovi Patroni.
 

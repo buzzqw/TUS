@@ -64,7 +64,7 @@ A creature under the effects of a poison, even if not manifested, has the Poison
 
 ## Removing poison
 
-The spell Remove Poison (page ) performs a counteract check against the poison, and thus the poisoned condition.
+The spell Neutralize Poison (page ) performs a counteract check against the poison, and thus the poisoned condition.
 
 If the DC of the poison is not expressed, then it is considered sufficient to simply cast the spell to nullify its effects.
 
@@ -297,7 +297,7 @@ p
 
 The Narrator is free to use all the potions and poisons already listed or use ready-to-use generic potions. The table shows the costs and effects of these generic potions.
 
-The onset is always immediate, the duration for healing is immediate, for others it is 10 minutes (so the Remove Poison potion protects you for 1 Turn against a poison).
+The onset is always immediate, the duration for healing is immediate, for others it is 10 minutes (so the Neutralize Poison potion protects you for 1 Turn against a poison).
 
 **Table: of generic potions. Cost in Gold Coins.**
 
@@ -311,7 +311,7 @@ The onset is always immediate, the duration for healing is immediate, for others
 | Poison | 2d6+2 damage. DC 15 Fortitude ST to halve | 30 | I/F |
 | Enhanced Poison | 2d8+4 damage. DC 18 Fortitude ST to halve | 50 | F |
 | Greater Poison | 4d10+8 damage. DC 24 Fortitude ST to halve | 125 | F |
-| Remove Poison | grants a new ST with +1d6 | 75 | I |
+| Neutralize Poison | grants a new ST with +1d6 | 75 | I |
 | Generic Potion* | see Creating Potions (page ) | Lv*Lv*50 | I |
 
 ## Optional - Drugs

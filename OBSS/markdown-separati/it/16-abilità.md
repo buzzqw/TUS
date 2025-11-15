@@ -4,11 +4,11 @@
 
 Le Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità hanno sempre un effetto pratico.
 
-Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, vanno scelte con attenzione e cura. E' scegliendo le Abilità che si stabilisce lo stile e capacità del personaggio, se lo si vuole più guerriero o mago o curatore... o qualsivoglia combinazione e *unicità*.
+Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, vanno scelte con attenzione e cura. È scegliendo le Abilità che si stabilisce lo stile e capacità del personaggio, se lo si vuole più guerriero o mago o curatore... o qualsivoglia combinazione e *unicità*.
 
 **Al primo livello si prendono due Abilità**. Successivamente si prende una Abilità ai livelli 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 15, 16, 18, 20. Questa può essere un'Abilità già conosciuta oppure una nuova Abilità appresa durante le avventure.
 
-E' possibile che siano indicati dei Requisiti sotto il nome dell'Abilità, in questo caso vanno rispettati per prendere l'Abilità in oggetto.
+È possibile che siano indicati dei Requisiti sotto il nome dell'Abilità, in questo caso vanno rispettati per prendere l'Abilità in oggetto.
 Eventuali requisiti successivi vengono indicati volta per volta.
 
 Non prendete le Abilità in base al potere, forza, combinazione con altre ma perché in linea con la storia del personaggio.
@@ -16,7 +16,7 @@ Scegliere un'accozzaglia di Abilità solo perché forti non rende un personaggio
 
 **Le Abilità devono essere prese in base al percorso evolutivo del personaggio, in base a quanto vissuto ed appreso durante le avventure.**
 
-E' possibile cambiare una Abilità scelta, rispettando comunque i requisiti, riaddestrandosi per almeno una settimana per 4 ore al giorno con qualcuno che abbia la nuova Abilità.
+È possibile cambiare una Abilità scelta, rispettando comunque i requisiti, riaddestrandosi per almeno una settimana per 4 ore al giorno con qualcuno che abbia la nuova Abilità.
 
 Le capacità fornite dalle Abilità se non descritto diversamente sono cumulative o se si tratta dello stesso bonus si applica quello maggiore. Se non esplicitato una Abilità non può essere presa più volte.
 
@@ -196,7 +196,7 @@ La **quarta volta** che si prende l'Abilità, requisito singolo Tratto 12, la Pr
 
 ## Armatura della Montagna Incantata
 
-| **Requisito**: | Lista armi Pugno Vuoto 1, Competenza Armi 1, Costituzione 2, Saggezza 1 |
+| **Requisito**: | Lista d'Armi Pugno Vuoto 1, Competenza Armi 1, Costituzione 2, Saggezza 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
 | **Caratteristica**: | Costituzione o Saggezza |
@@ -452,7 +452,7 @@ La **prima volta** che prendi questa Abilità puoi coordinare gli attacchi di du
 
 La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 8, Intelligenza 2, puoi coordinare e scambiare il danno di tre alleati purché in distanza di mischia tra loro. Costo 2 Azioni.
 
-E' necessario che i Tiri per Colpire vadano a segno per poter applicare il danno all'altro avversario.
+È necessario che i Tiri per Colpire vadano a segno per poter applicare il danno all'altro avversario.
 
 ## Danza della Lama
 
@@ -598,7 +598,7 @@ La **quarta volta** che prendi questa Abilità, Competenza Armi 7, Saggezza 4, s
 
 La **prima volta** che prendi questa Abilità puoi effettuare un attacco a distanza entro 9 metri usando l'Energia Psichica. L'Attacco, a Tocco, causa 1d6 di danno da forza per punto Psichico speso focalizzato sul danno.
 
-E' possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri. Non puoi usare un numero di punti Chi totali (per distanza e e danno) superiore alla Saggezza.
+È possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri. Non puoi usare un numero di punti Chi totali (per distanza e e danno) superiore alla Saggezza.
 
 La **seconda volta** che prendi questa Abilità requisito Saggezza 3, Competenza Armi 9, puoi utilizzare fino a doppio del tuo punteggio in Saggezza per potenziare il Raggio Psichico.
 
@@ -815,7 +815,7 @@ Se sei un Devoto o Seguace di Gaya o Erondil non è necessario trasformarsi in a
 | **Tiri Salvezza**: | +2 Riflessi |
 | **Caratteristica**: | Destrezza o Intelligenza |
 
-E' questione di un attimo perché ti accenda!
+È questione di un attimo perché ti accenda!
 
 Puoi tirare 1 freccia/dardo, una volta al giorno, come Reazione, senza penalità al colpire date dal multiattacco.
 
@@ -924,7 +924,7 @@ La **seconda volta** che prendi questa Abilità, requisito somma tratti comuni c
 
 Se colpisci 3 volte entro 2 round un avversario questo deve fare una Tiro Salvezza su Tempra con DC pari al Tiro per Colpire dell'ultimo attacco o cadere prono. Il Tiro Salvezza ha 1d6 di modificatore per taglia di differenza.
 
-## Il Patrono e' con me
+## Il Patrono è con me
 
 | **Requisito**: | Devoto, Somma Tratti comuni con il Patrono 2 |
 | --- | --- |
@@ -1184,14 +1184,14 @@ Per ogni singolo avversario in combattimento puoi fare che il primo colpo a segn
 
 L'Abilità va dichiarato prima del Tiro per Colpire e dura fino all'inizio del prossimo round.
 
-## La mia Testa e' piu' Dura
+## La mia Testa è più Dura
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
 | **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
 | **Caratteristica**: | Forza o Costituzione |
 
-La tua arma, presente nella Lista Armi Rompi Cranio, fa +2 danni
+La tua arma, presente nella Lista d'Armi Rompi Cranio, fa +2 danni
 
 ## Lesto
 
@@ -1223,7 +1223,7 @@ Le creature per rimanere influenzate devono continuare a vedere/sentire la perfo
 
 La **seconda volta** che prendi questa Abilità puoi escludere dall'effetto un numero di creature fino al punteggio di Carisma
 
-## Lo scudo e' mio amico
+## Lo scudo è mio amico
 
 | **Requisito**: | Competenza Armi 1, Competenza Magica 1 |
 | --- | --- |
@@ -1358,7 +1358,7 @@ Ogni ulteriori **due volte** che prendi l'Abilità il tuo movimento aumenta di 1
 | **Tiri Salvezza**: | +2 Tempra, +1 Riflessi |
 | **Caratteristica**: | Destrezza o Costituzione |
 
-E' la capacità di non essere rallentati in un ambiente ostile. E' necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Sopravvivenza.
+È la capacità di non essere rallentati in un ambiente ostile. È necessario dichiarare su quale ambiente si prende l'Abilità. In questi ambienti il terreno naturale non è difficile. Finché ci si muove nell'ambiente scelto si ha un +1 alle prove di Sopravvivenza.
 
 	
 
@@ -1423,7 +1423,7 @@ CA/4 volte al giorno aggiungi il tuo valore di Competenza Armi al danno di un si
 
 L'Abilità deve essere dichiarata prima di sapere l'esito del Tiro per Colpire. Costa una Azione.
 
-## Piu' sono grossi piu' fanno rumore quando cadono
+## Piu' sono grossi più fanno rumore quando cadono
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1537,7 +1537,7 @@ Se colpisci, oltre al danno ed un danno critico, l'avversario che deve essere ma
 
 Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno critico.
 
-## Questo e' il mio pugnale
+## Questo è il mio pugnale
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1546,7 +1546,7 @@ Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno criti
 
 Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
 
-## Questa e' la mia arma!
+## Questa è la mia arma!
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1704,7 +1704,7 @@ La **prima volta** che prendi l'Abilità ottieni un bonus di +1d6 al Tiro Salvez
 
 La **seconda volta** che prendi l'Abilità, requisito Competenza Armi 5, anche se la trappola non concede Tiro Salvezza la tua naturale propensione ad evitare i danni ti concede un Tiro Salvezza su Riflessi per dimezzare i danni.
 
-E' anche possibile usare questa Abilità, usa una Reazione, per evitare Attacco furtivo (TS Riflessi superiore a Tiro Colpire avversario).
+È anche possibile usare questa Abilità, usa una Reazione, per evitare Attacco furtivo (TS Riflessi superiore a Tiro Colpire avversario).
 
 ## Schivata prodigiosa
 
@@ -1802,7 +1802,7 @@ Scegli un incantesimo che conosci, i Punti Magia spesi per lanciare questo incan
 
 L'Abilità può essere presa più volte su incantesimi ogni volta diversi.
 
-## Stai giu'!
+## Stai giù!
 
 | **Requisito**: | Competenza Armi 3 |
 | --- | --- |
@@ -1965,7 +1965,7 @@ La **terza volta** che prendi questa Abilità, requisito Competenza Magica 11, n
 
 La **quarta volta** che prendi questa Abilità, requisito Competenza Magica 14, nella Lista di Magia *preferita* puoi ritirare una volta la Prova di Magia in caso di fallimento critico.
 
-La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogni qual volta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successo Critico Magico.
+La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogni qual volta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successi Critici Magici.
 
 La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, nella Lista di Magia *preferita* gli incantesimi inferiori al 4 livello non costano Punti Magia nella formulazione base.
 
@@ -2072,7 +2072,7 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 - Parata (CA 3 oppure PV 2): livelli con CA 6/PV 4, CA 9/PV 6
 	
 
-	**Lista Armi Aggraziate:**
+	**Lista d'Armi Aggraziate:**
 - Danza della Lama (AA 2, Destrezza/Carisma 1, Intrattenere 1): 3 livelli progressivi (AA 4+Int3, AA 7+Int5)
 	
 
@@ -2160,14 +2160,14 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Ho detto CADI! *(CA 4)* |
 | Iaijutsu *(CA 2/6/12)* |
 | Iniziativa migliorata *(Nessun requisito)* |
-| La mia Testa e' più Dura *(CA 1)* |
+| La mia Testa è più Dura *(CA 1)* |
 | La mia morte la tua morte *(CA 1, For 1)* |
 | La mia pelle *(CA 1/6)* |
 | Lesto *(CA 3/6)* |
 | Parata *(CA 3/6/9 o PV 2/4/6)* |
 | Pelle Coriacea *(CA 12, Cos 3 / CA 16)* |
 | Persona veramente malvagia *(CA 1)* |
-| Piu' sono grossi piu' fanno rumore quando cadono *(CA 1)* |
+| Piu' sono grossi più fanno rumore quando cadono *(CA 1)* |
 | Primo Sangue *(CA 1)* |
 | Proseguire *(CA 1/6)* |
 | Questa è la mia arma! *(CA 1/5)* |
@@ -2197,7 +2197,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Opportunista *(CA 2)* |
 | Passo Felpato *(Des 1)* |
 | Percettivo *(Sag 1)* |
-| Questo e' il mio pugnale *(CA 1)* |
+| Questo è il mio pugnale *(CA 1)* |
 | Schivare trappole *(CA 5)* |
 | Schivata prodigiosa *(CA 4/8, Des 4)* |
 | Toccata e fuga *(Des 1, CA 1)* |
@@ -2244,7 +2244,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Passo Sicuro *(Nessun requisito)* |
 | Passo rapido *(Des 2)* |
 | Precisino *(CA 2/4)* |
-| Piu' sono grossi piu' fanno rumore quando cadono *(CA 1)* |
+| Piu' sono grossi più fanno rumore quando cadono *(CA 1)* |
 | Segugio *(Int 1, Sag 1, CA 1/10/16)* |
 | Senza Traccia *(Des 1)* |
 | Spara e Scappa *(Des 3)* |
@@ -2370,7 +2370,7 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 | 12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
 | 13 | 13 | 0 | 13d6+39 | Un braccio, un arma (2°) |
 | 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Piu' sono grossi piu' fanno rumore quando cadono |
+| 15 | 15 | 0 | 15d6+45 | Piu' sono grossi più fanno rumore quando cadono |
 | 16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
 | 17 | 17 | 0 | 17d6+51 | |
 | 18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
@@ -2425,7 +2425,7 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 | 1 | 1 | 0 | 1d6+3 | Colpo Furtivo - Passo Felpato |
 | 2 | 2 | 0 | 2d6+6 | Estrazione rapida |
 | 3 | 3 | 0 | 3d6+9 | Opportunista |
-| 4 | 4 | 0 | 4d6+12 | Questo e' il mio pugnale |
+| 4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
 | 5 | 5 | 0 | 5d6+15 | Schivare trappole |
 | 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
 | 7 | 7 | 0 | 7d6+21 | Percettivo |

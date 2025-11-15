@@ -1,6 +1,6 @@
 # Feats
 
-> Martyrdom is the only way for a man to become famous if he has no ability (George Bernard Shaw, The Devil' \*\*s Disciple)}
+> "Martyrdom is the only way for a man to become famous if he has no ability." (George Bernard Shaw, The Devil' \*\*s Disciple)}
 
 Feats are peculiar abilities, the result of training or special gifts. Feats always have a practical effect.
 
@@ -53,7 +53,7 @@ The **first time** you take this Feat, after a night' \*\*s rest you recover 1d6
 
 The **second time**, requirement Constitution 1, that you take this Feat, at the end of each of your rounds you reduce the Bleeding condition by 1.
 
-The **third time**, requirement Constitution 2, that you take this Feat, after a night' \*\*s rest you recover double the Hit Points.
+The **third time**, requirement Constitution 2, you take this Feat, after a night' \*\*s rest you recover double the Hit Points.
 
 ## Animalia
 
@@ -167,13 +167,13 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, you ha
 | **Sav. Throws**: | +2 Will, +1 Reflex |
 | **Ability Score**: | Constitution or Ability modifier for spells |
 
-The **first time** you take this Ability, constant training with your armor reduces the Magic Check penalty by 2 when wearing light armor.
+The **first time** you take this Feat, constant training with your armor reduces the Magic Check penalty by 2 when wearing light armor.
 
-The **second time** you take this Ability, single Trait 6 requirement, you reduce the Magic Check penalty by 4 when wearing medium armor.
+The **second time** you take this Feat, single Trait 6 requirement, you reduce the Magic Check penalty by 4 when wearing medium armor.
 
-The **third time** you take this Ability, single Trait 8 requirement, wearing light armor doesn' \*\*t require you to make Magic Checks, you reduce the penalty for medium armor by 6 and reduce the penalty for heavy armor by 8.
+The **third time** you take this Feat, single Trait 8 requirement, wearing light armor doesn' \*\*t require you to make Magic Checks, you reduce the penalty for medium armor by 6 and reduce the penalty for heavy armor by 8.
 
-The **fourth time** you take this Ability, single Trait 12 requirement, Magic Checks for wearing armor are only mandatory if you wear heavy armor and you reduce the penalty by 12.
+The **fourth time** you take this Feat, single Trait 12 requirement, Magic Checks for wearing armor are only mandatory if you wear heavy armor and you reduce the penalty by 12.
 
 ## Armor of the Enchanted Mountain
 
@@ -217,7 +217,7 @@ The bow/crossbow must already be in hand.
 | **Sav. Throws**: | +1 Fortitude, +2 Will |
 | **Ability Score**: | Ability modifier for spells or choice |
 
-When you cast a spell that has instantaneous duration and causes damage to Hit Points to one or more subjects, by increasing by half (rounded up) the Magic Points used in the spell, you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
+When you cast a spell that has instantaneous duration and causes damage to Hit Points to one or more subjects, by increasing the Magic Points used in the spell by half (rounded up), you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
 
 The casting time of the spell increases to 3 Actions.
 
@@ -249,7 +249,7 @@ The **first time** you take this Feat, an opponent with light cover gets no bonu
 
 An invisible attacker in melee gains no advantage to hit the character in melee.
 
-The **second time** you take this Feat, requirement Awareness 3, you further reduce the Defense bonus by two from creatures with full cover.
+The **second time** you take this Feat, requirement Awareness 3, you further reduce the Defense bonus by 2 from creatures with full cover.
 
 There is no need to make Acrobatics checks to move at full speed while Blinded.
 
@@ -348,7 +348,7 @@ You are able to do critical damage to creatures normally immune to criticals.
 
 Perhaps once you were frail and weak, now you are a mountain of muscle.
 
-The **first time** you take this Feat, when you take this Feat you increase Hit Points by 1d6.
+The **first time** you take this Feat, you increase Hit Points by 1d6.
 
 The **second time** you take this Feat, you increase Hit Points taken per level by 1.
 
@@ -356,7 +356,7 @@ The **third time** you take this Feat, you increase the die size for rolling Hit
 
 The bonuses are cumulative and retroactive to previous levels, except for the increase in the die for determining HP.
 
-The **fourth time**, requisite Constitution 3, you take this Feat, you increase by one size (S > M > L).
+The **fourth time**, requirement Constitution 3, you take this Feat, you increase by one size (S > M > L).
 
 ## Combat Caster
 
@@ -409,12 +409,12 @@ The **fourth time** you take this Feat, requirement Magic Proficiency 18, the sp
 ## Dancing Scourge
 
 
-| **Requirement**: | Weapon Proficiency 1, using a weapon from the Rolling Balls list |
+| **Requirement**: | Weapon Proficiency 1, using a weapon from the Spinning Balls list |
 | --- | --- |
 | **Sav. Throws**: | +1 Fortitude, +1 Will |
 | **Ability Score**: | Strength or Charisma |
 
-When you use your weapon from the Rolling Balls list, you have a bonus of +1 to Attack Roll and +1 to Defense.
+When you use your weapon from the Spinning Balls list, you have a bonus of +1 to Attack Roll and +1 to Defense.
 
 ## Daredevil
 
@@ -478,7 +478,7 @@ The opponent is allowed a Fortitude Saving Throw with DC equal to the Attack Rol
 | **Sav. Throws**: | +1 Fortitude, +1 Will |
 | **Ability Score**: | Ability modifier for spells or Wisdom |
 
-Has a bonus of +1d6 in understanding the content of a scroll and in casting the spell contained. The bonus also applies to the check to copy a spell into your Book of Magic.
+You have a bonus of +1d6 in understanding the content of a scroll and in casting the spell contained. The bonus also applies to the check to copy a spell into your Book of Magic.
 
 ## Defend Mount
 
@@ -684,7 +684,7 @@ Choose a weapon in a Weapon List you know. You gain a +1 to Initiative and Attac
 | **Sav. Throws**: | +1 Fortitude, +1 Reflex |
 | **Ability Score**: | Strength or Constitution |
 
-When you make a critical hit with a melee attack is considered that you have hit by a margin 2 more for counting critical hit.
+When you make a critical hit with a melee attack, it is considered that you have hit by a margin of 2 more for counting critical hits.
 
 ## Fury
 
@@ -1013,7 +1013,7 @@ The **fourth time** you take this Feat, you can automatically succeed on a Refle
 
 The **first time** you take this Feat, you can increase by 1, up to a value of 6, one die in the Magic Check.
 
-The **second time** you take this Feat, requirement Magic Proficiency 12, you can increase by 1, up to a value of, an additional die in the Magic Check.
+The **second time** you take this Feat, requirement Magic Proficiency 12, you can increase by 1, up to a value of 6, an additional die in the Magic Check.
 
 ## Lucky
 
@@ -1143,8 +1143,8 @@ If you take this Feat **4 times** on the same Weapon List, the damage bonus is r
 
 | **Requirement**: | Magic Proficiency 2 |
 | --- | --- |
-| **Saving Throws**: | +1 Will, +1 Fortitude |
-| **Ability**: | Ability Modifier for Spells |
+| **Sav. Throws**: | +1 Will, +1 Fortitude |
+| **Ability Score**: | Ability modifier for spells |
 
 You dedicate your life to the study and perfection of a single Spell List.
 
@@ -1158,16 +1158,16 @@ The **third time** you take this Feat, Magic Proficiency requirement 11, on the 
 
 The **fourth time** you take this Feat, Magic Proficiency requirement 14, on the *favored* Spell List, you can reroll the Magic Check once on a critical failure.
 
-The fifth time you take this skill, Magic Proficiency requirement 17, from the favored spell list, whenever you roll a magic check, you can skip the roll and count as having made two magical critical successes.
+The **fifth time** you take this Feat, Magic Proficiency requirement 17, on the *favored* Spell List, whenever you make a Magic Check, you can skip the roll and count as having made two Critical Magic Successes.
 
-The sixth time you take this skill, Magic Proficiency requirement 20, from the favored spell list, spells lower than 4th level do not cost Magic Points in their basic formulation.
+The **sixth time** you take this Feat, Magic Proficiency requirement 20, on the *favored* Spell List, spells lower than 4th level do not cost Magic Points in their basic formulation.
 
 **Rules**:
 
 - Each time the Ability is taken, after the first, two new *opposite* Spell Lists must be selected, and the casting cost for spells from these lists increases by 1. The Universal Spell List cannot be chosen from the *opposite* lists.
 - The *One Faith* Ability cannot be taken together with: Only Child, Potent Spells, Specialist.
-- If you use the *One Belief* skill, you cannot use the List Magical Ability (page ).
-- All abilities listed in the skill are cumulative.
+- If you use the *One Belief* Feat, you cannot use the List Magical Ability (page ).
+- All abilities listed in the Feat are cumulative.
 
 ## One Body, One Mind, One Spirit
 
@@ -1355,7 +1355,7 @@ You have an extraordinary ability to learn languages. For each point assigned to
 | **Sav. Throws**: | +1 Fortitude, +2 Will |
 | **Ability Score**: | Ability modifier for spells or choice |
 
-Your faith in the Patron knows no limits or crashes of trust.
+Your faith in the Patron knows no limits or lapses of trust.
 
 Once a day for a single check, as a Reaction before making the check, use as a unique positive modifier the sum of Common Traits with the Patron. You can use this Feat on Saving Throws, Attack Rolls, and skill checks.
 
@@ -1741,7 +1741,7 @@ You cannot have Familiars. You cannot interact with your Shadow if there are no 
 | **Sav. Throws**: | +2 Fortitude |
 | **Ability Score**: | Ability modifier for spells or choice |
 
-Choose a spell you know; the Magic Points spent to cast this spell decrease by 1, with a minimun cost of one.
+Choose a spell you know; the Magic Points spent to cast this spell decrease by 1, with a minimum cost of one.
 
 This Feat can be taken multiple times on different spells each time.
 
@@ -1907,11 +1907,11 @@ This Feat can be declared even after the dice are rolled. Any new value obtained
 
 Your *friend* is always by your side.
 
-The **first time** you take this Ability, constant training with the shield allows you to use light shields without penalty to Magic Checks.
+The **first time** you take this Feat, constant training with the shield allows you to use light shields without penalty to Magic Checks.
 
-The **second time** you take this Ability, constant training with the shield allows you to use medium shields reducing the Magic Check penalty by 2.
+The **second time** you take this Feat, constant training with the shield allows you to use medium shields reducing the Magic Check penalty by 2.
 
-The **third time** you take this Ability, constant training with the shield allows you to use medium shields without penalty to Magic Checks and reducing it by 2 when using heavy shields.
+The **third time** you take this Feat, constant training with the shield allows you to use medium shields without penalty to Magic Checks and reducing it by 2 when using heavy shields.
 
 ## This is my Dagger
 
@@ -2127,7 +2127,7 @@ The **first time** you take this Feat, using 3 Actions, you can perform a single
 
 The **second time** you take this Feat, Weapon Proficiency 15, Entertain 5, you have no penalty to the Attack Roll.
 
-> Excellence is not an act, but a habit. (Nicomachean Ethics, Aristotele)
+> Excellence is not an act, but a habit. (Nicomachean Ethics, Aristotle)
 
 To have great power is not to know how to use it wisely. (Earthsea, Ursula K. Le Guin)
 
@@ -2142,7 +2142,7 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 | **{Weapon Proficiency**} |
 | --- |
-| **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Rolling Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
+| **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Spinning Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
 | **WP 2:** Reach, Weapon Artist, Two weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
 | **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
 | **WP 4:** Double Portion (Two weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
@@ -2218,8 +2218,8 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 - Blockhead (Crossbow 4)
 	
 
-	**Rolling Balls List:**
-- Dancing Scourge (WP 1, Rolling Balls list)
+	**Spinning Balls List:**
+- Dancing Scourge (WP 1, Spinning Balls list)
 	
 
 | **{Feat without WP/CM requisite**} |
@@ -2284,7 +2284,7 @@ To facilitate the transition for those coming from other role-playing games with
 | 19 | 19 | 0 | 19d6+57 | |
 | 20 | 20 | 0 | 20d6+60 | Colossus |
 
-**Babarian**
+**Barbarian**
 
 | 	**Lv** | **Barbarian** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
@@ -2726,7 +2726,7 @@ To facilitate the transition for those coming from other role-playing games with
 | 19 | 10 | 9 | 19d6+30 | |
 | 20 | 10 | 10 | 20d6+30 | Phoenix Wings |
 
-**Devote**
+**Devotee**
 
 | 		**Lv** | **Devote** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |
@@ -2750,7 +2750,7 @@ To facilitate the transition for those coming from other role-playing games with
 | 17 | 5 | 12 | 17d6+15 | |
 | 18 | 5 | 13 | 18d6+15 | Powerful Magics |
 | 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Magic Adept (3nd) |
+| 20 | 5 | 15 | 20d6+15 | Magic Adept (3rd) |
 
 **Spellsword Magus**
 

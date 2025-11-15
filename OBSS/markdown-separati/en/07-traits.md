@@ -8,13 +8,13 @@ Est Sularus Oth Mithas. ("My honor is my life", Oath of the Knights of Solamnia)
 
 In OBSS there is no clear distinction between good and evil, law and chaos, between what is right and what is wrong.
 
-In OBSS there are Traits, aspects and characterial nuances that **contribute** to the character' \*\*s background, help the player to roleplay better, and can provide those guidelines to interpret the character they wanted to create more correctly.
+In OBSS there are Traits, aspects and character nuances that **contribute** to the character' \*\*s background, help the player to roleplay better, and can provide those guidelines to interpret the character they wanted to create more correctly.
 
 A Trait is a detail that helps to better frame the character, outlines the main characteristics giving it different nuances.
 
 **Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices.
 
->> **Choosing Traits**: Traits are not the character, they don' \*\*t block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don' \*\*t be rigid but use Traits to give you suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character, they don' \*\*t block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don' \*\*t be rigid, but use Traits to give you suggestions from which to draw inspiration.
 
 Traits have no positive or negative connotation, they only serve to frame the character and understand which Patron is more interested in the character. They don' \*\*t want to define whether you are good or bad, everyone has their own morals regardless of the Traits possessed.
 
@@ -77,7 +77,7 @@ Each Trait is briefly described in its general meaning. The character is free to
 - **Loyal**: Faithful and reliable towards friends and loved ones.
 - **Patient**: Able to wait without getting irritated or losing calm.
 - **Cautious**: Carefully considers difficult or dangerous situations.
-- **Suspicious**: You are convinced that everyone has an interest in harming you.
+- **Suspicious**: You believe that everyone wants to harm you.
 - **Stubborn**: Determined and persistent in achieving your goals, despite difficulties.
 - **Vain**: You are certain of your exceptional qualities, abilities, and appearance.
 - **Vindictive**: Seeks to punish those who have wronged them, often disproportionately.

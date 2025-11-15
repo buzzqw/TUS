@@ -370,7 +370,7 @@ The player can declare to make attacks on different targets. Each attack can be 
 
 Thrown weapons, or ranged weapons, are all weapons with a range, meaning they can be thrown or shoot projectiles. The main ranged weapons are bows, crossbows, slings, but also daggers, javelins, or spears when they are thrown.
 
-The damage bonus from Strength automatically applies to slings, daggers, javelins... essentially all weapons that are thrown with strenght. Bows apply this bonus only if they are composite, crossbows never apply it.
+The damage bonus from Strength automatically applies to slings, daggers, javelins... essentially all weapons that are thrown with strength. Bows apply this bonus only if they are composite, crossbows never apply it.
 
 Dexterity only modifies the Attack Roll.
 

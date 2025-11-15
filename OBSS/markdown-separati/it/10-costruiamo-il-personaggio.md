@@ -24,7 +24,7 @@ Per creare un personaggio prova rispondere a queste domande, potranno aiutarti a
 
 - I tre difetti ed i tre pregi principali del personaggio
 
-E' cresciuto in famiglia, in un clan, vagabondo, per strada.. cosa l'ha portato e che scelte ha fatto per arrivare fino ad adesso ?
+È cresciuto in famiglia, in un clan, vagabondo, per strada.. cosa l'ha portato e che scelte ha fatto per arrivare fino ad adesso ?
 
 Quale è il suo stile di combattimento e strategia tipica ? Magia, Spada, dalle retrovie.. incitare i compagni.. scappare...
 
@@ -34,20 +34,20 @@ Ricorda sempre che questo è un mondo crudele, pieno di rischi, trappole e mostr
 
 Per incominciare leggi il capitolo sulle Razze ed individua quella del tuo personaggio.
 
-Recupera un pò di d6 e tira!
+Recupera un po' di d6 e tira!
 
 Consulta il capitolo delle Caratteristiche per capire quanto sei stato fortunato .
 
 E se i valori delle Caratteristiche non sono venuti come che ti aspettavi allora lasciati guidare dal caos e crea qualcosa di diverso ma ugualmente divertente e magnifico.
 
-Se hai Intelligenza pari o superiore a 2 scegli un altra lingua  parlata/scritta oltre al Comune, se hai 3 puoi sceglierne 2 di lingue in più.
+Se hai Intelligenza pari o superiore a 2 scegli un'altra lingua  parlata/scritta oltre al Comune, se hai 3 puoi sceglierne 2 di lingue in più.
 
-Scegli al Professione del personaggio, le Competenze Base vengono assegnata in base a questa. Sceglila con attenzione e cura, oltre alle competenze previste dalla Professione scelta ne puoi prendere una quinta data dal tuo background oppure aumentare di uno il punteggio in una già presa.
+Scegli la Professione del personaggio, le Competenze Base vengono assegnata in base a questa. Sceglila con attenzione e cura, oltre alle competenze previste dalla Professione scelta ne puoi prendere una quinta data dal tuo background oppure aumentare di uno il punteggio in una già presa.
 In base al background e professione scelta aumenti una caratteristica di 1, fino ad un massimo di 4 + modificatore razziale.
 
 Passa alle Competenze Attive: qui hai 1 punto  da distribuire tra Competenza Armi e Competenza Magica.
 
-La Competenza Armi ti aiuta nel colpire meglio. La Competenza Magica è l'unica cosa che ti permette di usare la magia. Ricorda anche che i punti in Competenze Armi vanno dichiarati a quale Lista Armi  sono stati applicati.
+La Competenza Armi ti aiuta nel colpire meglio. La Competenza Magica è l'unica cosa che ti permette di usare la magia. Ricorda anche che i punti in Competenze Armi vanno dichiarati a quale Lista d'Armi  sono stati applicati.
 
 Se non hai punti in Competenza Armi puoi usare solo le armi semplici  senza incorrere in penalità al Tiro per Colpire e non potrai usare armature medie o pesanti.
 
@@ -102,7 +102,7 @@ Ogni qual volta il Narratore ti conferma il passaggio di livello sono da compier
 - Aggiornate la seconda parte della scheda in base al nuovo punteggio di Competenza Magica
 
 Come avrete notato i punteggi delle Competenze sono ridotti, si prendono pochi punti da distribuire alla volta.
-Come giocatori avete l'opportunità di prediligere un approccio specializzato ovvero *puntare* su poche e specifiche Competenze oppure diluire i punti su più competenze per sapere un pò di tutto e non avere penalità nelle prove (la prova si fa solo con 2d6 + Caratteristica se non avete punti nella Competenza).
+Come giocatori avete l'opportunità di prediligere un approccio specializzato ovvero *puntare* su poche e specifiche Competenze oppure diluire i punti su più competenze per sapere un po' di tutto e non avere penalità nelle prove (la prova si fa solo con 2d6 + Caratteristica se non avete punti nella Competenza).
 
 Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi concede un bonus di +2 alle prove di Competenze.
 
@@ -123,7 +123,7 @@ Vado matto per i piani ben riusciti! (Colonnello John *Hannibal* Smith, A-Team)
 - Improvvisare, adattarsi e raggiungere lo scopo! (Tom Highway - Gunny, Film). Oppure come alcune mie giocatrici preferivano *Improvvisare, **Ingannare** e raggiungere lo scopo*.
 - Vivi appieno il tuo personaggio. Amplifica la sua storia porta nel presente il suo passato. Aiuta i compagni a conoscerti ed il Narratore a imbastire storie migliori intorno alle vostre storie.
 - Una cosa che non potrà mai portarti via nessuno è l'essere eroico, intelligente, risoluto, caparbio, cocciuto ma non stupido.
-- Descrivi in maniera realistica ciò che fai, aiuterai il Narratore e i compagni intorno a te. E' sicuramente meglio che dire *faccio una prova di Consapevolezza*. Esaltati nel descrivere le azioni più importanti, il Narratore ne terrà conto.
+- Descrivi in maniera realistica ciò che fai, aiuterai il Narratore e i compagni intorno a te. È sicuramente meglio che dire *faccio una prova di Consapevolezza*. Esaltati nel descrivere le azioni più importanti, il Narratore ne terrà conto.
 - Ricorda sempre che maggiore è il pericolo maggiore è l'esperienza maturata. più è profondo il dungeon maggiore saranno i tesori e l'esperienza acquisita!
 - Lo scopo è divertirsi, fare divertire ed assaporare la sfida. Non creare un personaggio che sia contro gli altri personaggi o dia sempre fastidio e problemi. Media il tuo desiderio con le necessità del gruppo, perché sempre e **solo come gruppo** sopravviverete e mai solo come singolo.
 - Pensa prima di agire, ma non farti aspettare dagli altri. Usa il tempo tra i tuoi round per pianificare come agire al meglio.

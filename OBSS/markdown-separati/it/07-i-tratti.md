@@ -2,7 +2,7 @@
 
 > Chi dunque sa fare il bene e non lo compie, commette peccato. (Giacomo il Giusto 4.17, Lettera di Giacomo)
 
-> E' un diritto naturale saziarsi l'anima con la vendetta. (Attila)
+È un diritto naturale saziarsi l'anima con la vendetta. (Attila)
 
 > Est Sularus Oth Mithas. ("Il mio onore è la mia vita", Giuramento dei Cavalieri di Solamnia)
 
@@ -38,7 +38,7 @@ All'aumentare del valore della somma dei Tratti comuni con il Patrono il persona
 
 - A **'5'** punti si può incominciare a sentire la presenza di un Patrono
 - A **'10'** punti si sente la vicinanza di un Patrono
-- A **'15'** punti si è legati ad Patrono
+- A **'15'** punti si è legati ad un Patrono
 - A **'20'** punti si è un campione del Patrono
 
 Non è necessario credere in un Patrono per sentirne la vicinanza, esserne legati o campione, semplicemente è la propria natura (i propri Tratti) che è affine al Patrono, che lo si voglia o meno. I poteri si prendono solo dal Patrono che ha somma tratti più alta rispetto agli altri.
@@ -78,7 +78,7 @@ Ogni Tratto è brevemente descritto nel suo significato generico. Il personaggio
 - **Leale**: Fedele e affidabile nei confronti degli amici e delle persone care.
 - **Paziente**: Capace di aspettare senza irritarsi o perdere la calma.
 - **Prudente**: Pondera attentamente le situazioni difficili o pericolose.
-- **Sospettoso**: Sei convito che tutti abbiano interesse a danneggiarti.
+- **Sospettoso**: Sei convinto che tutti abbiano interesse a danneggiarti.
 - **Testardo**: Determinato e persistente nel raggiungere i propri obiettivi, nonostante le difficoltà.
 - **Vanitoso**: Sei certo delle tue eccezionali qualità, capacità ed aspetto.
 - **Vendicativo**: Cerca di punire chi gli ha fatto un torto, spesso in modo sproporzionato.

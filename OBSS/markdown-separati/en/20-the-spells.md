@@ -380,9 +380,9 @@ The spell doesn' \*\*t take into account every possible circumstance that might 
 | **Range**: | Self |
 | **Duration**: | Concentration, up to 10 minutes |
 
-A fragrance radiates from you in a 13-foot radius for the duration. While in this fragrance, you and your allies have Resistance to poison damage and +4 to Saving Throws to avoid or end effects that include the conditions of Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned.
+A fragrance radiates from you in a 13-meter radius for the duration. While in this fragrance, you and your allies have Resistance to poison damage and +4 to Saving Throws to avoid or end effects that include the conditions of Blinded, Charmed, Deafened, Frightened, Paralyzed, Poisoned, or Stunned.
 
-**For each Magic Critical Success** obtained in the Magic Check, you expand the radius of the fragrance by 3 feet.
+**For each Magic Critical Success** obtained in the Magic Check, you expand the radius of the fragrance by 3 meters.
 
 ### Awaken
 
@@ -602,7 +602,7 @@ Your body becomes blurred, shifting and wavering to anyone who can see you. For 
 | **Range**: | Self |
 | **Duration**: | 1 minute |
 
-The next time you hit a creature with a melee weapon attack during the spell' \*\*s duration, the weapon gleams with a magical glow as you strike. The attack deals an extra 1d6 radiant damage to the target, which becomes visible if it' \*\*s invisible and emits dim light in a 3-foot radius. Additionally, the target can' \*\*t become invisible until the spell ends.
+The next time you hit a creature with a melee weapon attack during the spell' \*\*s duration, the weapon gleams with a magical glow as you strike. The attack deals an extra 1d6 radiant damage to the target, which becomes visible if it' \*\*s invisible and emits dim light in a 3-meter radius. Additionally, the target can' \*\*t become invisible until the spell ends.
 
 **For each Magic Critical Success** obtained in the Magic Check, the additional damage increases by 1d6.
 
@@ -1137,7 +1137,7 @@ The water level remains elevated until the spell ends or you choose a different 
 
 - *Redirect Flow*. You cause flowing water in the area to move in a direction of your choice, even if the water has to flow over obstacles, up walls, or in other unlikely directions. The water in the area moves as you direct it, but once it moves beyond the spell' \*\*s area, it resumes its flow based on the terrain conditions. The water continues to move in the direction you chose until the spell ends or you choose a different effect.
 
-- *Whirlpool*. This effect requires a body of water at least 15 feet square and 7 feet deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 1 foot wide at the base, up to 15 feet wide at the top, and 7 feet tall. Any creature or object in the water and within 7 feet of the vortex is pulled 3 feet toward it. A creature can swim away from the vortex by making a Swim check against the spell' \*\*s Saving Throw DC.
+- *Whirlpool*. This effect requires a body of water at least 15 meters square and 7 meters deep. You cause a whirlpool to form in the center of the area. The whirlpool forms a vortex that is 1 meter wide at the base, up to 15 meters wide at the top, and 7 meters tall. Any creature or object in the water and within 7 meters of the vortex is pulled 3 meters toward it. A creature can swim away from the vortex by making a Swim check against the spell' \*\*s Saving Throw DC.
 
 When a creature enters the vortex for the first time on a round or starts its turn there, it must make a Fortitude Saving Throw. On a failed save, the creature takes 2d8 bludgeoning damage and is caught in the vortex until the spell ends. On a successful save, the creature takes half damage, and isn' \*\*t caught in the vortex. A creature caught in the vortex can use 3 Actions to try to swim away from the vortex as described above, but has -4 to its Swim checks to do so. The first time each round an object enters the vortex, the object takes 2d8 bludgeoning damage; this damage occurs each round the object remains in the vortex.
 
@@ -1428,7 +1428,7 @@ A sphere of light with a 6-meter radius expands from a point of your choice with
 | --- | --- |
 | **Level**: | 2, Rare |
 | **Time**: | 2 Actions |
-| **Range**: | 20 feet |
+| **Range**: | 20 meters |
 | **Duration**: | Instantaneous |
 
 A black beam of crackling energy shoots from your hands toward a creature within range. Make a ranged spell attack against the target. Regardless of whether you hit or miss, the target must make a Fortitude Saving Throw.
@@ -1553,12 +1553,12 @@ While you have this spell active, you will be Distracted when casting other spel
 | --- | --- |
 | **Level**: | 4, Common |
 | **Time**: | 2 Actions |
-| **Range**: | 500 feet |
+| **Range**: | 500 meters |
 | **Duration**: | Instantaneous |
 
-You teleport yourself from your current location to any other spot within range. You arrive at exactly the desired location. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as *100 feet down* or *300 feet up to the northwest at a 45-degree angle*.
+You teleport yourself from your current location to any other spot within range. You arrive at exactly the desired location. It can be a place you can see, one you can visualize, or one you can describe by stating distance and direction, such as *100 meters down* or *300 meters up to the northwest at a 45-degree angle*.
 
-You can bring along objects as long as their weight doesn' \*\*t exceed your Encumbrance capacity. You can also bring one willing creature of your size or smaller with equipment up to the limit of its carrying capacity. The creature must be within 3 feet of you when you cast this spell.
+You can bring along objects as long as their weight doesn' \*\*t exceed your Encumbrance capacity. You can also bring one willing creature of your size or smaller with equipment up to the limit of its carrying capacity. The creature must be within 3 meters of you when you cast this spell.
 
 If you would arrive in a place already occupied by an object or a creature, you and any creature traveling with you each take 4d6 force damage, and the spell fails to teleport you.
 
@@ -1985,10 +1985,10 @@ Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 tempo
 | --- | --- |
 | **Level**: | 3, Uncommon |
 | **Time**: | 2 Actions |
-| **Range**: | Self (30-foot cone) |
+| **Range**: | Self (30-meter cone) |
 | **Duration**: | 1 minute |
 
-You project an illusory image of a creature' \*\*s worst fears. Each creature in a 30-foot cone must succeed on a Will Saving Throw or drop whatever it is holding and become Frightened for the duration of the spell.
+You project an illusory image of a creature' \*\*s worst fears. Each creature in a 30-meter cone must succeed on a Will Saving Throw or drop whatever it is holding and become Frightened for the duration of the spell.
 
 While frightened by this spell, a creature must, during each of its turns, move away from you via the safest route unless there is nowhere to move. If the creature ends its turn in a place where it doesn' \*\*t see you, it can make a Will Saving Throw. On a successful save, the spell ends for that creature.
 
@@ -2011,7 +2011,7 @@ Choose up to 2 creatures within range. A falling creature' \*\*s rate of descent
 | --- | --- |
 | **Level**: | 8, Rare |
 | **Time**: | 2 Actions |
-| **Range**: | 150 feet |
+| **Range**: | 150 meters |
 | **Duration**: | Instantaneous |
 
 You blast the mind of a creature that you can see within range, attempting to shatter its intellect and personality. The target takes 4d6 damage and must make a Will Saving Throw. On a failed save, the creature' \*\*s Intelligence and Charisma scores drop to -4. The creature can' \*\*t cast spells, activate magic items, understand language, or communicate in any intelligible way. The creature can, however, identify its friends, follow them, and even protect them. After 30 days, the creature can repeat the Saving Throw against the spell. If it succeeds, the spell ends; if it fails, the effect is permanent.
@@ -2105,13 +2105,13 @@ You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and 
 | --- | --- |
 | **Level**: | 2, Uncommon |
 | **Time**: | 2 Actions |
-| **Range**: | 60 feet |
+| **Range**: | 60 meters |
 | **Duration**: | Instantaneous |
 
-The caster chooses an area with a fire, at least 3 feet across, within range that is directly visible to them. By extinguishing the flames, they can create fireworks or smoke.
+The caster chooses an area with a fire, at least 3 meters across, within range that is directly visible to them. By extinguishing the flames, they can create fireworks or smoke.
 
-- *Fireworks*. The target fire explodes in a brilliant display of flames and colors. Each creature within 10 feet of the target must succeed on a Fortitude Saving Throw or be blinded until the end of the next round.
-- *Smoke*. Thick black smoke billows from the target fire and spreads in a 20-foot radius, moving around corners. The smoke area is heavily obscured and provides medium cover. The smoke persists for 1 minute or until a strong wind disperses it.
+- *Fireworks*. The target fire explodes in a brilliant display of flames and colors. Each creature within 10 meters of the target must succeed on a Fortitude Saving Throw or be blinded until the end of the next round.
+- *Smoke*. Thick black smoke billows from the target fire and spreads in a 20-meter radius, moving around corners. The smoke area is heavily obscured and provides medium cover. The smoke persists for 1 minute or until a strong wind disperses it.
 
 ### Fire Shield
 
@@ -2293,7 +2293,7 @@ You create a 6-meter-radius sphere of fog centered on a point within range. The 
 | **Range**: | Touch |
 | **Duration**: | 1 day |
 
-You create a ward against magical travel that protects up to 40,000 square feet of floor space to a height of 9 m above the floor. For the duration, creatures can' \*\*t teleport into the area or use portals, such as that created by the gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, or the Plane of Shadow.
+You create a ward against magical travel that protects up to 3,700 square meters of floor space to a height of 9 m above the floor. For the duration, creatures can' \*\*t teleport into the area or use portals, such as that created by the gate spell, to enter the area. The spell proofs the area against planar travel, and therefore prevents creatures from accessing the area by way of the Astral Plane, Ethereal Plane, or the Plane of Shadow.
 
 In addition, the spell damages types of creatures that you choose when you cast it. Choose one or more of the following: celestials, elementals, fey, fiends, and undead. When a chosen creature enters the spell' \*\*s area for the first time on a turn or starts its turn there, the creature takes 5d10 radiant or void damage (your choice, when you cast this spell).
 
@@ -2439,7 +2439,7 @@ Until the spell ends, when you make a Charisma-based check, you can replace the 
 | **Range**: | 36 m |
 | **Duration**: | 1 round per Magic Proficiency |
 
-In a 10-foot diameter sphere, anyone inside is covered with bright, glittering dust. The cloud outlines creatures within it, including invisible ones, and anyone who remains in the area must make a Reflex Saving Throw at the start of their turn or be blinded for the round. The dust naturally disappears after the duration or if blown away by even a light wind.
+In a 10-meter diameter sphere, anyone inside is covered with bright, glittering dust. The cloud outlines creatures within it, including invisible ones, and anyone who remains in the area must make a Reflex Saving Throw at the start of their turn or be blinded for the round. The dust naturally disappears after the duration or if blown away by even a light wind.
 
 ### Globe of Invulnerability
 
@@ -2971,10 +2971,10 @@ Make a melee spell attack against a creature within reach. On a hit, the target 
 | --- | --- |
 | **Level**: | 5, Rare |
 | **Time**: | 2 Actions |
-| **Range**: | 300 feet |
+| **Range**: | 300 meters |
 | **Duration**: | 10 minutes |
 
-A swarm of hungry locusts fills a 20-foot-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration of the spell, and its area is lightly obscured. The sphere' \*\*s area is difficult terrain.
+A swarm of hungry locusts fills a 20-meter-radius sphere centered on a point you choose within range. The sphere spreads around corners. The sphere remains for the duration of the spell, and its area is lightly obscured. The sphere' \*\*s area is difficult terrain.
 
 When the area appears, each creature in it must make a Fortitude Saving Throw. A creature takes 4d10 damage on a failed save, or half as much damage on a successful one. A creature must also make this saving throw when it enters the spell' \*\*s area for the first time on a turn or ends its turn there.
 
@@ -3112,8 +3112,8 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 | **Duration**: | 1 minute per Magic Proficiency, Concentration |
 
 You enchant 9 chestnuts with magical energy and they begin to swirl 60 centimeters above your shoulder.
-Each round, by spending 1 Actions, you can throw up to 5 chestnuts at one or more targets.
-Make a single ranged spell Attack Roll and compare the result with the Defense of each target regardless of the number of acorns you throw at them. Each acorn, if it hits, deals 2d8+4 bludgeoning damage
+Each round, by spending 1 Action, you can throw up to 5 chestnuts at one or more targets.
+Make a single ranged spell Attack Roll and compare the result with the Defense of each target regardless of the number of chestnuts you throw at them. Each chestnut, if it hits, deals 2d8+4 bludgeoning damage
 
 **For each Magic Critical Success** obtained in the Magic Check, you can enchant two more chestnuts.
 
@@ -3136,7 +3136,7 @@ You can perceive the position and relative shape of creatures and structures tha
 | **List**: | Animals and Plants, Fire |
 | --- | --- |
 | **Level**: | 3, Rare |
-| **Time**: | 2 Action |
+| **Time**: | 2 Actions |
 | **Range**: | 50 meters |
 | **Duration**: | 1 minute per Magic Proficiency, Concentration |
 
@@ -3157,7 +3157,7 @@ Make a single ranged spell Attack Roll and compare the result with the Defense o
 
 You enchant a vial containing at least 9 drops of lemon.
 Each round, by spending 1 Action, you can spray up to 2 drops of lemon, out of the 9 total, at one or more targets within 30 meters.
-Make a single ranged spell Attack Roll and compare the result with the Defense of each target regardless of the number of acorns you throw at them. Each drop, if it hits, deals 1d6+1 acid damage.
+Make a single ranged spell Attack Roll and compare the result with the Defense of each target regardless of the number of drops you throw at them. Each drop, if it hits, deals 1d6+1 acid damage.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can create two more lemon drops.
 
@@ -3408,7 +3408,7 @@ This spell can' \*\*t locate an object if any thickness of lead, even a thin she
 | **Range**: | Touch |
 | **Duration**: | 1 hour |
 
-A creature' \*\*s movement increases by 3 feet until the end of the spell.
+A creature' \*\*s movement increases by 3 meters until the end of the spell.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can target an additional creature.
 
@@ -3527,12 +3527,12 @@ You touch a nonmagical weapon. Until the spell ends, that weapon becomes a magic
 | --- | --- |
 | **Level**: | 7, Legendary |
 | **Time**: | 1 minute |
-| **Range**: | 300 feet |
+| **Range**: | 300 meters |
 | **Duration**: | 24 hours |
 
-Within range, you conjure an extradimensional dwelling that remains for the duration of the spell. You choose where its entrance is located. The entrance is a shimmering doorway 5 feet wide by 10 feet tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 9 m of it. While closed, the portal is invisible.
+Within range, you conjure an extradimensional dwelling that remains for the duration of the spell. You choose where its entrance is located. The entrance is a shimmering doorway 5 meters wide by 10 meters tall. You and any creature you designate when you cast the spell can enter the extradimensional dwelling as long as the portal remains open. You can open or close the portal if you are within 9 m of it. While closed, the portal is invisible.
 
-Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm. You can create as many floors as you like, but the space can' \*\*t exceed 50 cubes, each cube being 10 feet on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can' \*\*t attack or take any action that would directly harm another creature. Thus, the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can' \*\*t leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
+Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmosphere is clean, fresh, and warm. You can create as many floors as you like, but the space can' \*\*t exceed 50 cubes, each cube being 10 meters on each side. The place is furnished and decorated as you choose. It contains sufficient food to serve a nine-course banquet for up to 100 people. A staff of 100 near-transparent servants attends all who enter. You decide the visual appearance of these servants and their attire. They are completely obedient to your orders. Each servant can perform any task a normal human servant could perform, but they can' \*\*t attack or take any action that would directly harm another creature. Thus, the servants can fetch things, clean, mend, fold clothes, light fires, serve food, pour wine, and so on. The servants can go anywhere in the mansion but can' \*\*t leave it. Furnishings and other objects created by this spell dissipate into smoke if removed from the mansion. When the spell ends, any creatures inside the extradimensional space are expelled into the open spaces nearest to the entrance.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration doubles or you remove one month from the count to make it permanent.
 
@@ -3803,7 +3803,7 @@ For the duration of the spell, the touched creature leaves no tracks on the grou
 | **Range**: | 9 m |
 | **Duration**: | 1 hour |
 
-For the duration of the spell, a passage appears at a point within range that you can see, on a wooden, wall or stone surface (such as a wall, ceiling, or floor) of your choice. Choose the opening' \*\*s dimensions: up to 3 feet wide, 6 feet tall, and 20 feet deep. The passage doesn' \*\*t create instability in the structure surrounding it.
+For the duration of the spell, a passage appears at a point within range that you can see, on a wooden, wall or stone surface (such as a wall, ceiling, or floor) of your choice. Choose the opening' \*\*s dimensions: up to 3 meters wide, 6 meters tall, and 20 meters deep. The passage doesn' \*\*t create instability in the structure surrounding it.
 
 When the opening disappears, any creature or object still in the passage created by the spell is safely ejected to the nearest unoccupied space next to the surface where you cast the spell.
 
@@ -3851,7 +3851,7 @@ A Large quasi-real, Saurovall-like creature appears on the ground in an unoccupi
 You unleash 1 sharp and thorny tendril from your palm. Make a ranged Attack Roll with spells against the designated target.
 If the Attack Roll succeeds, the target takes 1d4 Hit Points of piercing damage.
 
-Each additional Action you dedicate to casting the spell, you can choose to manifest an additional tendril, each one requiring a successfull Attack Roll, or increase the range of a created tendril by 9 meters.
+Each additional Action you dedicate to casting the spell, you can choose to manifest an additional tendril, each one requiring a successful Attack Roll, or increase the range of a created tendril by 9 meters.
 
 If you spend 1 Magic Point in casting the spell, the tendril becomes poisonous and if it hits causes 2 additional Poison damage.
 
@@ -3910,7 +3910,7 @@ The creature is limited in the actions it can perform by the nature of its new f
 | --- | --- |
 | **Level**: | 9, Rare |
 | **Time**: | 2 Actions |
-| **Range**: | 60 feet |
+| **Range**: | 60 meters |
 | **Duration**: | Instantaneous |
 
 You utter a word of power that forces one creature you can see within range to die instantly. If the creature you choose has 100 Hit Points or fewer, it dies. Otherwise, the spell has no effect.
@@ -3921,7 +3921,7 @@ You utter a word of power that forces one creature you can see within range to d
 | --- | --- |
 | **Level**: | 8, Uncommon |
 | **Time**: | 2 Actions |
-| **Range**: | 60 feet |
+| **Range**: | 60 meters |
 | **Duration**: | 1 minute |
 
 You speak a word of power that can overwhelm the mind of one creature you can see within range. If the target has 150 Hit Points or fewer, it is stunned for 2d4 rounds. Otherwise, the spell has no effect.
@@ -3960,15 +3960,15 @@ Up to six creatures within range that you can see, chosen by you, each regain Hi
 | --- | --- |
 | **Level**: | 0, Common |
 | **Time**: | 2 Actions |
-| **Range**: | 10 feet |
+| **Range**: | 10 meters |
 | **Duration**: | Up to 1 hour |
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, a faint musical note, or an odd odor.
 - You instantaneously light or snuff out a candle, a torch, or a small campfire.
-- You instantaneously clean or soil an object no larger than 1 foot on a side.
-- You chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.
+- You instantaneously clean or soil an object no larger than 1 meter on a side.
+- You chill, warm, or flavor up to 1 cubic meter of nonliving material for 1 hour.
 - You make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.
 - You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
@@ -4050,7 +4050,7 @@ Casting this spell on the same spot every day for a year makes the effect perman
 | **Range**: | Self |
 | **Duration**: | 10 minutes |
 
-A flame appears in your hand. The flame remains there for the duration of the spell and harms neither you nor your equipment. The flame sheds dim light in a 3-foot radius. The spell ends if you dismiss it as an Action or if you cast it again.
+A flame appears in your hand. The flame remains there for the duration of the spell and harms neither you nor your equipment. The flame sheds dim light in a 3-meter radius. The spell ends if you dismiss it as an Action or if you cast it again.
 
 You can also use the flame to attack, though doing so ends the spell. When you cast this spell, or as an Action on a subsequent turn, you can hurl the flame at a creature within 9 m of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
@@ -4122,10 +4122,10 @@ For the duration of the spell, the target has +1d6 to Saving Throws against bein
 | --- | --- |
 | **Level**: | 1, Common |
 | **Time**: | 2 Actions |
-| **Range**: | 10 feet |
+| **Range**: | 10 meters |
 | **Duration**: | Instantaneous |
 
-All nonmagical food and drink within a 3-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease. Rotting food is cleansed and made edible.
+All nonmagical food and drink within a 3-meter-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease. Rotting food is cleansed and made edible.
 
 ### Ray of Enfeeblement
 
@@ -4133,7 +4133,7 @@ All nonmagical food and drink within a 3-foot-radius sphere centered on a point 
 | --- | --- |
 | **Level**: | 1, Common |
 | **Time**: | 2 Actions |
-| **Range**: | 60 feet |
+| **Range**: | 60 meters |
 | **Duration**: | 1 minute |
 
 A black beam of debilitating energy shoots from your finger toward a creature within range. Make a ranged spell attack against the target. On a hit, the target, when attacking with a weapon that uses Strength as a modifier, will roll twice for damage taking the lower result until the end of the spell. A creature cannot be affected by more than one Ray of Enfeeblement per day.
@@ -4146,10 +4146,10 @@ A black beam of debilitating energy shoots from your finger toward a creature wi
 | --- | --- |
 | **Level**: | 0, Common |
 | **Time**: | 1 Action |
-| **Range**: | 60 feet |
+| **Range**: | 60 meters |
 | **Duration**: | Instantaneous |
 
-A frigid beam of blue light strikes a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn.
+A frigid beam of blue light strikes a creature within range. Make a ranged spell attack against the target. On a hit, it takes 1d8 cold damage, and its speed is reduced by 10 meters until the start of your next turn.
 
 You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 2 Magic Points. You also need to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
@@ -4257,7 +4257,7 @@ This spell instills courage in the subject and can remove the effects of magical
 
 **For each Magic Critical Success** obtained in the Magic Check, the subject gains a +2 to the Saving Throw.
 
-### Remove Poison
+### Neutralize Poison
 
 | **List**: | Water, Healing |
 | --- | --- |
@@ -4722,7 +4722,7 @@ You give the semblance of life and Intelligence to a corpse at range, chosen by 
 | --- | --- |
 | **Level**: | 3, Rare |
 | **Time**: | 2 Actions |
-| **Range**: | Self (30-foot radius) |
+| **Range**: | Self (30-meter radius) |
 | **Duration**: | 10 minutes |
 
 You imbue plants within 9 m of you with sentience and limited mobility, giving them the ability to communicate with you and follow simple commands. You can question plants about events that occurred in the spell' \*\*s area within the last day, gaining information about creatures that have passed, weather, and other circumstances. You can also transform difficult terrain caused by plant growth (such as bushes and thick underbrush) into ordinary terrain for the duration of the spell.
@@ -4744,7 +4744,7 @@ You cast this spell by touching a willing creature. Until the spell ends, the cr
 
 ### Spike Growth
 
-| **List**: | Aninal and Plants |
+| **List**: | Animal and Plants |
 | --- | --- |
 | **Level**: | 2, Common |
 | **Time**: | 2 Actions |
@@ -4816,19 +4816,19 @@ So, for example, you could shape a large stone into a weapon, idol, or coffin, o
 - **Spell List**:: Earth
 - **Level**:: 5, Uncommon - Very Rare
 - **Casting Time**:: 2 Actions
-- **Range**:: 150 feet
+- **Range**:: 150 meters
 - **Duration**:: Instantaneous
 
-This spell transforms any type of natural rock into an equal volume of mud. Magical stone is not affected by the spell. The spell affects up to 2 cubes of 10x10x10 feet. The depth of mud created cannot exceed 10 feet. Creatures unable to fly, levitate, or otherwise free themselves from the mud sink up to their waist or chest; such creatures are restrained and the terrain becomes doubly difficult. Creatures large enough to walk on the bottom of the mud pool can wade through the area as difficult terrain.
+This spell transforms any type of natural rock into an equal volume of mud. Magical stone is not affected by the spell. The spell affects up to 2 cubes of 10x10x10 meters. The depth of mud created cannot exceed 10 meters. Creatures unable to fly, levitate, or otherwise free themselves from the mud sink up to their waist or chest; such creatures are restrained and the terrain becomes doubly difficult. Creatures large enough to walk on the bottom of the mud pool can wade through the area as difficult terrain.
 
-If Stone to Mud is cast on the ceiling of a cave or tunnel, the mud falls to the floor and spreads out in a pool 3 feet deep. The falling mud and the resulting landslide inflict 8d6 bludgeoning damage to anyone caught directly beneath the area if they don' \*\*t halve the damage with a Reflex Saving Throw.
+If Stone to Mud is cast on the ceiling of a cave or tunnel, the mud falls to the floor and spreads out in a pool 3 meters deep. The falling mud and the resulting landslide inflict 8d6 bludgeoning damage to anyone caught directly beneath the area if they don' \*\*t halve the damage with a Reflex Saving Throw.
 
 Castles and large stone buildings are generally immune to the effects of the spell, as Stone to Mud doesn' \*\*t reach deep enough to undermine the foundations. However, smaller buildings often rest on foundations shallow enough to be damaged or even destroyed by the spell' \*\*s effects.
 
 The mud remains until a Dispel Magic or Mud to Stone spell is successfully used, which restores its substance, but not necessarily its form. Natural evaporation turns the mud into normal ground over several days depending on exposure to sun, wind, and natural drying.
 If a creature is in the mud when the Mud to Stone spell is cast, it can make a Reflex Saving Throw to free itself; otherwise, a Fortitude Saving Throw with Strength at DC 26 is required or 30 damage is taken to break the stone.
 
-**For each Magic Critical Success** obtained in the Magic Check, you affect an additional 10x10x10 foot cube.
+**For each Magic Critical Success** obtained in the Magic Check, you affect an additional 10x10x10 meter cube.
 
 ### Stoneskin
 
@@ -5383,12 +5383,12 @@ This spell grants the ability to move across any liquid surface (such as water, 
 | --- | --- |
 | **Level**: | 2, Common |
 | **Time**: | 2 Actions |
-| **Range**: | 60 feet |
+| **Range**: | 60 meters |
 | **Duration**: | 1 hour |
 
-You conjure a mass of thick, sticky webbing at a point of your choice within range. For the duration, the webs fill a 10-foot-radius sphere from the designated point. The webs are difficult terrain and lightly obscure their area.
+You conjure a mass of thick, sticky webbing at a point of your choice within range. For the duration, the webs fill a 10-meter-radius sphere from the designated point. The webs are difficult terrain and lightly obscure their area.
 
-If the webs aren' \*\*t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 3 feet.
+If the webs aren' \*\*t anchored between two solid masses (such as walls or trees) or layered across a floor, wall, or ceiling, the conjured web collapses on itself, and the spell ends at the start of your next turn. Webs layered over a flat surface have a depth of 3 meters.
 
 Each creature that starts its turn in the webs or that enters them during its turn must make a Reflex Saving Throw. On a failure, the creature is restrained as long as it remains in the webs or until it breaks free.
 
@@ -5470,10 +5470,10 @@ Roll 1d100. On a roll of 1-33\%, you can never cast wish again due to the stress
 | --- | --- |
 | **Level**: | 6, Rare |
 | **Time**: | 2 Actions |
-| **Range**: | 3 feet |
+| **Range**: | 3 meters |
 | **Duration**: | Instantaneous |
 
-You and up to five willing creatures within 3 feet of you instantly teleport to a previously designated sanctuary. You and all teleported creatures reappear in the nearest unoccupied space to the point you designated when you prepared this sanctuary (see below). If you cast this spell without having previously prepared a sanctuary, the spell has no effect.
+You and up to five willing creatures within 3 meters of you instantly teleport to a previously designated sanctuary. You and all teleported creatures reappear in the nearest unoccupied space to the point you designated when you prepared this sanctuary (see below). If you cast this spell without having previously prepared a sanctuary, the spell has no effect.
 
 You must designate a sanctuary that is dedicated to or strongly linked to your Patron. If you attempt to cast the spell to bring you to an area that is not dedicated to your Patron, the spell has no effect.
 
@@ -5757,7 +5757,7 @@ Next to each spell is indicated the Rarity and level of the spell.
 | Remove Disease, Common, 2 |
 | Blessing of Life, Rare, 3 |
 | Destroy Undead, Uncommon, 3 |
-| Remove Poison, Common, 3 |
+| Neutralize Poison, Common, 3 |
 | Revivify, Very Rare, 3 |
 | Vigor, Rare, 4 |
 | Greater Restoration, Uncommon, 5 |
@@ -5860,7 +5860,7 @@ Next to each spell is indicated the Rarity and level of the spell.
 | Elemental Weapon, Very Rare, 1 |
 | Fog Cloud, Common, 1 |
 | Restser' \*\*s Acid Arrow, Common, 2 |
-| Remove Poison, Common, 3 |
+| Neutralize Poison, Common, 3 |
 | Sleet Storm, Very Rare, 3 |
 | Stinking Cloud, Uncommon, 3 |
 | Water Breathing, Common, 3 |
@@ -6097,7 +6097,7 @@ Listed are spells in order by level and alphabetically. See Chapter Magic Item G
 | Prayer, Uncommon, 3 |
 | Protection from Energy, Common, 3 |
 | Remove Curse, Common, 3 |
-| Remove Poison, Common, 3 |
+| Neutralize Poison, Common, 3 |
 | Revivify, Very Rare, 3 |
 | Sending, Common, 3 |
 | Sleet Storm, Very Rare, 3 |

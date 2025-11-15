@@ -31,7 +31,7 @@ Lascia che questo vecchio ti dia un paio di consigli giovane avventuriero!
 
 - A volte le armi e la forza bruta non bastano. Se non hai compagni che possono lanciare incantesimi assicurati di avere sempre la possibilità di appiccare un fuoco.
 
-- Scappa. E' sempre una opzione valida se hai modo e vedi che la situazione non promette niente di buono.
+- Scappa. È sempre una opzione valida se hai modo e vedi che la situazione non promette niente di buono.
 
 - Organizzati! non entrare nel dungeon a testa bassa senza mai fermarti tranne quando sei morto! Riposati, esplora, controlla l'ambiente e quando sei sicuro e stai meglio prosegui! anche i tuoi nemici si organizzano e si riposano intanto, stai attento!
 
@@ -200,7 +200,7 @@ Una creatura immune alle armi non magiche o +1 ma vulnerabile al ferro freddo o 
 
 Inoltre, certe creature sono immuni a determinate condizioni. Se un mostro è immune ad un effetto di gioco che non viene considerato danno o condizione, possiede invece un tratto speciale.
 
-Nella tabella sottostante viene indicato quale incantamento magico dell'arma è necessario per superare l'immunità indicata. E' anche indicato il punteggio minimo di Competenza Armi nel caso si colpisca con calci e pugni.
+Nella tabella sottostante viene indicato quale incantamento magico dell'arma è necessario per superare l'immunità indicata. È anche indicato il punteggio minimo di Competenza Armi nel caso si colpisca con calci e pugni.
 
 In caso di personaggio con Lista d'Armi **Pugno Vuoto** si controlla quanto volte si è presa la lista.
 
@@ -321,7 +321,7 @@ Come per l'Attacco normale i mostri non cumulano le penalità del Multiattacco e
 
 Altre *Azioni di Attacco* elencate sotto Multiattacco ma non facente parte di quelle elencate nella descrizione del Multiattacco costano 1 Azione se non descritto diversamente e non cumulano le penalità del Multiattacco.
 
-Ad esempio il lancio del Sasso per il Gigante delle Colline costa 1 Azione perché e' un *Attacco* e non fa parte delle Azioni elencate nel Multiattacco.
+Ad esempio il lancio del Sasso per il Gigante delle Colline costa 1 Azione perché è un *Attacco* e non fa parte delle Azioni elencate nel Multiattacco.
 
 Il Soffio infuocato di una Chimera non ha l'attributo *Attacco* e quindi costa 2 Azioni.
 
@@ -465,7 +465,7 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 
 ## Opzionale - Cosa farci con i mostri
 
-Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anche una occasione di ingegno e divertimento. Il suggerimento principale e' di evitare descrizione sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4/5 porzioni.
+Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anche una occasione di ingegno e divertimento. Il suggerimento principale è di evitare descrizione sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4/5 porzioni.
 
 **Tabella: 1d4-12 Parti Anatomiche dei Mostri**
 

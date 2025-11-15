@@ -90,7 +90,7 @@ A monster doesn' \*\*t have to be killed to get its Experience Points, it' \*\*s
 
 As far as possible, every session should include a part of role-playing, a part of exploration, three parts of combat (even many more than three), a part of rest.
 
->>> **Milestone**: It is clear that nothing prevents you from setting up a level progression based on fixed points (miQuickne) during the adventure. Your table, your rules!
+>>> **Milestone**: It is clear that nothing prevents you from setting up a level progression based on fixed points (milestone) during the adventure. Your table, your rules!
 
 >>> **Gold per XP**: It may seem anachronistic when there is already the sixth edition of the most famous role-playing game in development to reward characters based on the gold taken from monsters.
 

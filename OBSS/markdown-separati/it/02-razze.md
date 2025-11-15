@@ -12,7 +12,7 @@ Sono le creature a rendere il pianeta vitale e ricco, ognuna nutre, apporta, arr
 Gli umani con il loro desiderio di scoperte, potere, gloria e violenza e capacità riproduttiva erano la razza dominante, tutta la Terra si piegava al suo volere. Finché non ci fu la venuta.
 E gli umani diventarono la specie da cacciare ed uccidere, il dettato ricevuto dai primi Patroni era chiaro e assoluto, sterminare gli umani che avevano ucciso il primogenito.
 
-E' impossibile sapere quanti umani sono sopravvissuti nel mondo, calcoli molto approssimativi li contano sotto i 500 milioni.
+È impossibile sapere quanti umani sono sopravvissuti nel mondo, calcoli molto approssimativi li contano sotto i 500 milioni.
 
 **Modificatori razziali**: +1 ad una caratteristica a piacere
 
@@ -131,14 +131,14 @@ I mezzelfi comprendono la solitudine e sanno che il carattere spesso è più un 
 
 **Linguaggi**: Comune, Elfico
 
-**Vantaggio**: Una Abilità aggiuntiva a scelta.
+**Vantaggio**: un'abilità aggiuntiva a scelta.
 
 ## Mezzorco
 
 Agli occhi delle culture civilizzate, i mezzorchi sono delle mostruosità, il risultato di perversione e violenza e raramente sono il risultato di unioni amorose, come tali solitamente sono costretti a crescere velocemente e duramente, lottando continuamente per proteggersi o farsi un nome. Alcuni mezzorchi trascorrono le loro intere vite a dimostrare agli orchi purosangue che sono feroci quanto loro.
 
-I mezzorchi sono alti in media 1.9 metri, con fisico potente e pelle verdastra o grigia. Ai maschi i canini crescono spesso piuttosto lunghi fino a sporgere dalle loro bocche e queste *zanne*, unite ad una fronte a volte ampia e le orecchie un pò a punta, danno loro quel noto aspetto *bestiale*.
-Le femmine hanno i tratti orcheschi molto meno marcati e sono considerate selvagge e *facili* da parte dei maschi umani che le mancano del rispetto dovuto.
+I mezzorchi sono alti in media 1.9 metri, con fisico potente e pelle verdastra o grigia. Ai maschi i canini crescono spesso piuttosto lunghi fino a sporgere dalle loro bocche e queste *zanne*, unite ad una fronte a volte ampia e le orecchie un po' a punta, danno loro quel noto aspetto *bestiale*.
+Le femmine hanno i tratti orcheschi molto meno marcati e sono considerate selvagge e *facili* da parte dei maschi umani che le mancano di rispetto dovuto.
 
 A dispetto di questi ovvi tratti orcheschi, i mezzorchi sono tanto variegati quanto i loro genitori umani.
 
@@ -158,13 +158,13 @@ I mezzorchi sono continue vittime di pregiudizi.
 
 **Linguaggi**: Comune, Orchesco
 
-**Vantaggio**: Una Abilità aggiuntiva a scelta.
+**Vantaggio**: un'abilità aggiuntiva a scelta.
 
 ## Nibali
 
 I Nibali sono una razza creata magicamente per essere schiava ai primi Patroni.
 
-La leggenda dice che un antico Patrono, partendo da una coppia di umani (dopo che a migliaia erano morti atrocemente nei precedenti esperimenti) riuscì a creare manipolando con la magia, un razza più robusta, più forte, più intelligente ed allo stesso tempo più docile e disciplinata con pregio che ogni figlio generato sarebbe stato assolutamente identico fisicamente al padre o alla madre.
+La leggenda dice che un antico Patrono, partendo da una coppia di umani (dopo che a migliaia erano morti atrocemente nei precedenti esperimenti) riuscì a creare manipolando con la magia, una razza più robusta, più forte, più intelligente ed allo stesso tempo più docile e disciplinata con pregio che ogni figlio generato sarebbe stato assolutamente identico fisicamente al padre o alla madre.
 
 Quando i primi Patroni sono andati via i Nibali hanno continuato a prosperare ed usufruendo di quanto avevano già creato nella fredda tundra.
 
@@ -198,7 +198,7 @@ Un Diverso è più robusto e più intelligente. Purtroppo la loro vita frenetica
 
 Un Diverso è marchiato, da qualche parte sul suo corpo c'è il simbolo, una voglia, del suo Patrono. Molti Diversi hanno 3 o più cerchi concentrici dorati sul polso sinistro che possono indicare il Patrono (o Patroni in rarissimi casi) di cui sono *figli*.
 
-Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostituiti i modificatori razziali con quelli del Diverso ed l'aspettativa di vita viene dimezzata. Rimangono validi i vantaggi razziali originali e si aggiunge quello Speciale del Diverso.
+Diverso è un attributo che può essere data a qualsiasi razza. Vengono sostituiti i modificatori razziali con quelli del Diverso e l'aspettativa di vita viene dimezzata. Rimangono validi i vantaggi razziali originali e si aggiunge quello Speciale del Diverso.
 
 **Modificatori razziali**: +1 a due Caratteristiche a scelta
 
@@ -306,7 +306,7 @@ I Sulian sono molto simili agli umani ma nei loro occhi e spesso sulla loro pell
 
 **Linguaggi**: Comune. Possono comprendere il linguaggio elementale della loro linea di sangue ma non sanno parlarlo.
 
-**Vantaggi**: Ogni Sulian discende da una linea o più linee elementali e da questa ereditano poteri e capacità uniche. Al primo punto di CA o CM assegnato e poi ogni ottavo punto assegnato totale (CM+CA=1,8,16...), il Sulian potenzia la sua linea di sangue elementale e selezione un potere oppure sblocca un altra linea elementale presente in lui per scegliere poteri diversi.
+**Vantaggi**: Ogni Sulian discende da una linea o più linee elementali e da questa ereditano poteri e capacità uniche. Al primo punto di CA o CM assegnato e poi ogni ottavo punto assegnato totale (CM+CA=1,8,16...), il Sulian potenzia la sua linea di sangue elementale e selezione un potere oppure sblocca un'altra linea elementale presente in lui per scegliere poteri diversi.
 
 Il potere indicato è usabile (CM+CA)/3 al giorno.
 

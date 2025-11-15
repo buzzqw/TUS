@@ -1,12 +1,12 @@
 # Weapon Lists by Homogeneous Type
 
-> Strength lies not in a Sword, but in the arms of a brave man. (The Legend of Zelda: Twilight Princess)}
+> "Strength lies not in a Sword, but in the arms of a brave man." (The Legend of Zelda: Twilight Princess)}
 
 Each time you assign a point to Weapon Proficiency, you can decide whether to continue perfecting a Weapon List you already know or learn a new one. If you do not declare its use, it is assigned to the Simple Weapons List.
 
 On your character sheet, note which Weapon List you assign the Weapon Proficiency point to.
 
-To reassign a Weapon Proficiency point to another list requires at least 4 hours of training for 4 months.
+To reassign a Weapon Proficiency point to another list requires training for at least 4 hours per day for 4 months.
 
 Using a weapon without adequate proficiency imposes a -1d6 penalty to the Attack Roll.
 
@@ -28,7 +28,7 @@ The advantages indicated are cumulative unless otherwise specified.
 
  Longbow, Shortbow, Composite Longbow, Composite Shortbow
 
-- 4 points: add your Strength value to damage, even if the bow is not composite. On a shortbow, you can add up to +1 damage, on a longbow up to +2 damage.
+- 4 points: add your Strength modifier to damage, even if the bow is not composite. On a shortbow, you can add up to +1 damage, on a longbow up to +2 damage.
 - 5 points: reduce the penalty for shooting beyond standard range by 6.
 - 7 points: your mastery in using the bow in combat is such that you suffer no penalty when shooting arrows at enemies with light cover.
 - 9 points: it is possible with your first Attack Roll of the round to shoot two arrows. The Attack Roll starts with a -5 penalty.
@@ -47,7 +47,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 - 4 points: the Movement penalty decreases by 1 meter, the Defense bonus granted by armor increases by 1 point. Decrease the Magic Check penalty by an additional 2.
 - 5 points: decrease Critical Hits suffered from melee attacks by 1, the Skill Penalty decreases by 1 point, the Movement penalty decreases by 1 meter. Decrease the Magic Check penalty by an additional 2.
 - 6 points: the Critical Hit reduction also applies to ranged attacks. You negate the Skill Penalty and Movement penalty. Decrease the Magic Check penalty by an additional 2.
-- 7 points: Decrease the Magic Check penalty by an additional 2.
+- 7 points: decrease the Magic Check penalty by an additional 2.
 
 ## Light Weapons
 
@@ -56,7 +56,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 - 4 points: you can use Dexterity instead of Strength in the Attack Roll.
 - 5 points: you can draw the weapon as part of the Movement Action.
 - 7 points: you can draw the weapon as an Immediate Action.
-- 9 points: increase the weapon' \*\*s damage die by one step. If the damage die becomes 8 or more, the weapon acquires EDX on the maximum value of the die.
+- 9 points: increase the weapon' \*\*s damage die by one step. If the damage die becomes d8 or more, the weapon acquires EDX on the maximum value of the die.
 - 11 points: increase the weapon' \*\*s damage die by one step. The EDX is reduced by 1.
 - 16 points: using a Reaction, you get +4 to Defense against melee attacks. If you avoid the attack, you can make a counter-attack.
 
@@ -100,7 +100,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 - 4 points: an unaware opponent, if hit with these weapons (during the surprise round), must make a Fortitude Saving Throw DC 15 or be Slowed 1/1r.
 - 5 points: for each Critical Hit, the opponent must make a Fortitude Saving Throw at DC 13 or be slowed 1/1r.
 - 7 points: double your Strength damage bonus. The Saving Throw for the ability at 4 points becomes 19.
-- 9 points: the difficulty of the ability at point 4 becomes 19
+- 9 points: increase your stunning weapon' \*\*s damage die by one step.
 - 11 points: your stunning weapon does 1d6 more non-lethal damage. The Saving Throw for the ability at 4 points becomes 23
 - 16 points: each time you hit an opponent with a critical damage, a companion in melee with that opponent can use a Reaction to make an attack against them.
 
@@ -176,7 +176,7 @@ Halberd, Urgrosh, Footman' \*\*s Lance, Polearm Scythe, Lance
 
 You have trained your body to become the ultimate weapon. You are trained in using kicks and punches in an effective and lethal manner.
 
-The Empty Hand List does not benefit from Critical Hit, except for the advantage taken at 9 points.
+The Empty Hand List does not benefit from Critical Hits, except for the advantage taken at 9 points.
 
 **Empty Hand**: Each time you take this proficiency, the damage increases following this progression: 1d6 (list taken 2 times), 1d8 (3), 2d6 (5), 2d8 (7), 2d10 (9), 3d6 (11), 3d8 (13), 3d10 (15), 4d6 (17).
 
@@ -214,7 +214,7 @@ You have no penalty to hit with the shield; for you, the shield is not an improv
 
 Your technique effectively mixes defense and attack. You can throw your shield with a range of 6 meters.
 
-- 1 point: you are proficient in all types of shields. You do not have the Strength 1 limit constraint on Heavy Shields.
+- 1 point: you are proficient in all types of shields. You ignore the Strength 1 minimum requirement for Heavy Shields.
 - 2 points: the Defense bonus when using the shield increases by 1, and every 4 times you take this Weapon List (6,10,14,18..), you don' \*\*t use Actions to restore the shield in Defense after making an attack with it.
 - 3 points: the Magic Check penalty given by the shield decreases by 2
 - 4 points: the Attack Roll penalty decreases by 1.

@@ -17,7 +17,7 @@
 - [Combattimento Sociale](12-combattimento-sociale.md)
 - [Combattimento Armato](13-combattimento-armato.md)
 - [Nascondigli e coperture](14-nascondigli-e-coperture.md)
-- [Lista Armi per Tipologia Omogenea](15-lista-armi-per-tipologia-omogenea.md)
+- [Lista d'Armi per Tipologia Omogenea](15-lista-darmi-per-tipologia-omogenea.md)
 - [Abilità](16-abilità.md)
 - [Famiglio](17-famiglio.md)
 - [Altre Abilità Speciali](18-altre-abilità-speciali.md)

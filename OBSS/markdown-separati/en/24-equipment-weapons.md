@@ -24,17 +24,17 @@ The table presents the name of the weapon, its cost in gold coins, the damage an
 | Light crossbow | 35 | S/Bolts | 15 meters, **Simple Weapons**, **Crossbows** |
 | Heavy crossbow | 50 | L/Bolts | 30 meters, **Crossbows** |
 | Staff | 3 | M/1d6 B | **Simple Weapons**, Reach weapon, Versatile, Parry |
-| Spiked chain | 25 | L/2d4 P | 3 meters, **Rotating Balls**, Reach weapon |
+| Spiked chain | 25 | L/2d4 P | 3 meters, **Spinning Balls**, Reach weapon |
 | Estoc | 25 | L/1d8 P | **Swords**, Reach weapon, Parry |
 | Scythe | 18 | L/2d4 P/S | **Weapons of Death**, Reach weapon |
 | Sickle | 6 | S/1d6 S | **Weapons of Death** |
 | Glaive | 12 | L/1d10 P/S | **Spears**, Brace, Reach weapon, ED9 |
 | Falchion | 75 | M/2d4 S | **Graceful Weapons**, ED7 |
 | Sling | - | S/1d4 B | 10 meters, **Throwing weapons** |
-| Double flail | 90 | L/1d10 B | **Rotating Balls**, **Double weapons** |
-| Heavy flail | 15 | L/1d10 B | **Rotating Balls** |
-| Flail | 8 | M/1d8 B | **Rotating Balls**, **Skull Crushers** |
-| Whip | 1 | M/1d3 S | **Rotating Balls**, Reach weapon |
+| Double flail | 90 | L/1d10 B | **Spinning Balls**, **Double weapons** |
+| Heavy flail | 15 | L/1d10 B | **Spinning Balls** |
+| Flail | 8 | M/1d8 B | **Spinning Balls**, **Skull Crushers** |
+| Whip | 1 | M/1d3 S | **Spinning Balls**, Reach weapon |
 | Javelin | 1 | S/1d6 P | 12 meters, **Simple Weapons**, **Polearms**, **Throwing Weapons** |
 | Great double axe | 25 | L/1d10 S | **Axes and Hatchets**, **Double weapons** |
 | Spiked gauntlet | 5 | S/1d4 P | **Stunning Weapons**, nonlethal |

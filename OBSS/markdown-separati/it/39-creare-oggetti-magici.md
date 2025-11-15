@@ -16,7 +16,7 @@ Conoscere l'incantesimo (o averlo a disposizione tramite Pergamena) che si appli
 
 Gli oggetti magici hanno come componente base l'applicazione di un incantesimo nell'oggetto stesso.
 
-E' importante valutare la rarità dell'incantesimo per che viene usato per determinare il costo dell'oggetto.
+È importante valutare la rarità dell'incantesimo per che viene usato per determinare il costo dell'oggetto.
 
 I **costi** riportati per la creazione dei vari tipi di oggetti sono riferiti all'utilizzo di un incantesimo con **rarità** comune. Se la rarità è Non comune moltiplicare il prezzo x1.5, se è Raro x2, Molto Raro x5, Leggendario x10.
 
@@ -31,7 +31,7 @@ L'anello deve avere un valore intrinseco pari almeno a 100mo*somma dei livelli d
 
 Un anello può ospitare un incantesimo di livello 9 o se più incantesimi il massimo livello è 7.
 
-E' anche possibile inserire un incantesimo ad attivazione, in questo caso consultare i costi delle Verghe.
+È anche possibile inserire un incantesimo ad attivazione, in questo caso consultare i costi delle Verghe.
 
 Forgiare un anello richiede 1 giorno per ogni 500 mo del prezzo base. In caso di più incantesimi i costi e tempi si sommano.
 

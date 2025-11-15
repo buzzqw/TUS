@@ -12,7 +12,7 @@ La forma **ibrida**, a parte le ovvie trasformazioni fisiche, concede:
 - Aumenta di una taglia se il tipo di mannaro è più grande della taglia della creatura originaria
 - Le Caratteristiche fisiche e Difesa aumentano di 2.
 - Il Tiro Salvezza su Volontà aumenta di 1.
-- Può attaccare con artiglio o morso causando 1d6 + Forza. Usa la Lista Armi Accette e Scuri ed è competente nell'arma.
+- Può attaccare con artiglio o morso causando 1d6 + Forza. Usa la Lista d'Armi Accette e Scuri ed è competente nell'arma.
 - Acquisisce il doppio del livello in Punti Ferita temporanei indipendentemente dall'aumento di Costituzione.
 - Acquisisce i sensi riportati dalla versione mannara della creatura.
 - Ottiene +2d6 ad interagire con gli animali della sua forma mannara.

@@ -160,6 +160,14 @@ questa **gemma** incisa appesa a una catenella sembra essere di scarso valore. S
 
 questo **amuleto** maledetto ha l'apparenza di un amuleto dell'introvabilità. Al contrario, rende il possessore vulnerabile a questo tipo di magia. La probabilità di osservare il possessore e la durata di incantesimi usati per tale scopo raddoppiano.
 
+### Amuleto dei Piani
+
+**Aura:** Invocazione molto forte; **Costo:** 60000 mo
+
+**Requisiti:** Creare Oggetti Magici 4, Spostamento Planare; **Rarità:** Molto Raro
+
+mentre indossi questo **amuleto** puoi usare due azioni per nominare una destinazione in un altro piano di esistenza. Fai una prova di Intelligenza (Arcana) DC 15. Se hai successo, tu e fino a otto creature consenzienti entro 1.5 metri vieni trasportati in quella destinazione. Se fallisci la prova, tu e ogni creatura entro 1.5 metri venite trasportati in una destinazione casuale. Tira un d100: 1-60 ti trasporta in un luogo casuale sul piano nominato, 61-100 ti trasporta in un piano determinato casualmente. L'amuleto non può essere usato nuovamente fino alla prossima alba.
+
 ### Amuleto della Resistenza Fisica
 
 **Aura:** Abiurazione forte; **Costo:** 8000 mo
@@ -441,7 +449,7 @@ Mentre indossi questo **anello**, puoi usare due azioni per spendere 1 delle sue
 
 Questo anello ha 3 cariche, e recupera 1 carica spesa ogni giorno all'alba.
 
-### Anello di Invisibilita'
+### Anello di Invisibilità
 
 **Rarità:** Molto Raro; **Costo:** 10000 mo
 
@@ -551,6 +559,22 @@ Per essere usato come veicolo, l'apparato necessita un pilota. Quando lo sportel
 **Requisiti:** Creare Oggetti Magici 2,
 
 Questi **scudi** sono molto solidi e spesso recano l'emblema di un ariete o un toro. Quando chi indossa uno scudo ariete effettua un attacco con lo scudo come parte di una Carica, il bonus alla Difesa dello scudo si applica ai Tiri per Colpire e per i danni. Questo non si cumula con nessun altro potenziamento che possegga lo scudo. Questa capacità non è applicabile agli scudi di tipo leggero.
+
+### Arma maledetta
+
+**Aura:** Trasmutazione debole; **Costo:** variabile
+
+**Rarità:** Non Comune
+
+questa **arma** appare come un'arma magica con bonus al Tiro per Colpire e ai danni. Tuttavia, una volta impugnata in combattimento, la sua vera natura si rivela: impone una penalità al colpire ed ai danni. Questa maledizione persiste finché l'arma non viene rimossa tramite l'incantesimo Rimuovi Maledizione. L'arma non può essere lasciata o scartata volontariamente.
+
+### Armatura maledetta
+
+**Aura:** Abiurazione debole; **Costo:** variabile
+
+**Rarità:** Non Comune
+
+questa **armatura** sembra un'armatura magica che conferisce bonus alla Difesa. Tuttavia, una volta indossata, la sua vera natura si manifesta: impone una penalità alla Difesa invece di un bonus. L'armatura si attacca al corpo del portatore e non può essere rimossa senza l'uso dell'incantesimo Rimuovi Maledizione. Indossare l'armatura maledetta può anche causare altri effetti negativi a discrezione del Narratore.
 
 ### Arma magica
 
@@ -687,7 +711,7 @@ cast
 
 mentre la impugni la **bacchetta**, puoi usare due azioni per spendere 1 carica per lanciare tramite essa l'incantesimo ragnatela (DC del Tiro Salvezza 18). Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica spesa all'alba.
 
-### Bacchetta delle Comodita'
+### Bacchetta delle Comodità
 
 **Rarità:** Comune; **Costo:** 300 mo
 
@@ -722,6 +746,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto. |
 | 37-46 | Lanci Fulmine. |
 | 47-49 | Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente e fornisce copertura totale. Le farfalle restano per 10 minuti. |
+
 | 50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
 | 54-58 | Lanci l'incantesimo oscurità. |
 | 59-62 | Erba folta spunta in un raggio di 18 metri intorno al bersaglio.Se vi è già dell'erba, questa cresce di dieci volte e resta così per 1 minuto. |
@@ -731,10 +756,10 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 80-84 | Lanci l'incantesimo Invisibilità su di te. |
 | 85-87 | Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore. |
 | 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
-
 |  | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
 | 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
+
 | 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
 
 ### Bacchetta delle Palle di Fuoco
@@ -913,7 +938,7 @@ mentre impugni il **bastone**, puoi usare due azioni per spendere 1 o più delle
 
 **Rarità:** Molto Raro; **Costo:** 85000 mo
 
-in combattimento, questo **bastone** funziona come un bastone +1. Può essere usato per lanciare evoca elementale, invisibilità, Passa Porta e ragnatela. Il bastone può essere usato come una bacchetta della paralisi. Ciascuno di questi poteri richiede una carica. E' possibile spezzare il bastone per produrre un "colpo finale", il cui effetto dipende dal numero di cariche residue. Il bastone esplode in una grande sfera di fiamme, colpendo tutte le creature entro 9 m (compreso il proprietario del bastone) e infliggendo 8 ferite per carica rimasta, Tiro Salvezza su Tempra DC 27 per dimezzare.
+in combattimento, questo **bastone** funziona come un bastone +1. Può essere usato per lanciare evoca elementale, invisibilità, Passa Porta e ragnatela. Il bastone può essere usato come una bacchetta della paralisi. Ciascuno di questi poteri richiede una carica. È possibile spezzare il bastone per produrre un "colpo finale", il cui effetto dipende dal numero di cariche residue. Il bastone esplode in una grande sfera di fiamme, colpendo tutte le creature entro 9 m (compreso il proprietario del bastone) e infliggendo 8 ferite per carica rimasta, Tiro Salvezza su Tempra DC 27 per dimezzare.
 
 ### Bastone dello Charme
 
@@ -1003,12 +1028,13 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 | 41-50 | Sputano 1d6 + 6 Fungo Stridente. |
 | 51-60 | Compaiono 1d4 + 8 rospi fucsia. Ogniqualvolta un rospo viene toccato, si trasforma in un mostro di taglia Grande o inferiore a scelta del Narratore. Il mostro resta per 1 minuto e poi scompare in un sbuffo di fumo fucsia. |
 | 61-70 | Una bulette esce dal terreno e attacca. |
-
-| **d100** | **Effetto** |
-|---|---|
 | 71-80 | Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. |
 | 81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
 | 91-99 | Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore. |
+
+| **d100** | **Effetto** |
+|---|---|
+| --- | --- |
 | 100 | Un enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
 
 ### Borsa dell'Annullamento
@@ -1140,7 +1166,7 @@ In alternativa, quando accendi la candela per la prima volta, puoi lanciare l'in
 
 ### Caos
 
-**Arma** Maledetta. Questa capacità conferisce un bonus +2 agli attacchi, tuttavia, all'inizio della battaglia, fa sì che il portatore venga preso da una rabbia incontenibile. Il personaggio attaccherà la creatura più vicina, nemica o amica che sia, finché non ne resterà nessuna in vita entro 18 m. E' necessario l'incantesimo Rimuovi Maledizione per liberarsi dall'arma.
+**Arma** Maledetta. Questa capacità conferisce un bonus +2 agli attacchi, tuttavia, all'inizio della battaglia, fa sì che il portatore venga preso da una rabbia incontenibile. Il personaggio attaccherà la creatura più vicina, nemica o amica che sia, finché non ne resterà nessuna in vita entro 18 m. È necessario l'incantesimo Rimuovi Maledizione per liberarsi dall'arma.
 
 ### Cappello del Camuffamento
 
@@ -1279,7 +1305,7 @@ La corda ha Difesa 20 e 20 Punti Ferita. Recupera 1 punto ferita ogni 5 minuti f
 
 **Rarità:** Raro
 
-questa **corda** magica, benché normale all'apparenza, può animarsi e aggredire chi cerca di usarla, stringendosi intorno al collo e cercando di strangolare la sua vittima. La corda strozzatrice è lunga abbastanza da poter strangolare fimo a 1d4 creature in un raggio di 3 m, infliggendo 2d6 ferite a round a ognuna di loro. E' necessario superare un Tiro Salvezza su Riflessi DC 19 per evitare di essere presi. La corda ha Difesa 22 e 25 Punti Ferita, ma solo chi non viene strangolato può attaccarla. Le vittime non possono liberarsi da sole in alcun modo, né lanciare incantesimi.
+questa **corda** magica, benché normale all'apparenza, può animarsi e aggredire chi cerca di usarla, stringendosi intorno al collo e cercando di strangolare la sua vittima. La corda strozzatrice è lunga abbastanza da poter strangolare fimo a 1d4 creature in un raggio di 3 m, infliggendo 2d6 ferite a round a ognuna di loro. È necessario superare un Tiro Salvezza su Riflessi DC 19 per evitare di essere presi. La corda ha Difesa 22 e 25 Punti Ferita, ma solo chi non viene strangolato può attaccarla. Le vittime non possono liberarsi da sole in alcun modo, né lanciare incantesimi.
 
 ### Corno del Valhalla
 
@@ -1603,7 +1629,7 @@ questa **freccia** può essere usata fino ad 8 volte al giorno. Essa viene lanci
 
 A comando, un'**arma** Gelida viene avvolta da un gelo terribile che infligge 1d6 danni da freddo per ogni colpo andato a segno. Questo freddo non danneggia chi impugna l'arma. L'effetto rimane sempre attivo finché l'arma è sguainata. L'arma è immune ai danni da freddo.
 
-### Gemma della Luminosita'
+### Gemma della Luminosità
 
 **Aura:** Lista Fuoco; **Costo:** 5000 mo
 
@@ -1706,7 +1732,7 @@ raro, del tutto simile all'**incenso** della meditazione, questo incenso dà a c
 
 questo blocchetto d'**incenso** dal profumo dolce è indistinguibile dal normale incenso finché non viene acceso. Quando brucia, la sua particolare fragranza e il suo fumo chiaro sono riconoscibili con una prova di Arcana a DC 15. Dopo che un incantatore avrà trascorso 8 ore ripassando sul Tomo e meditando nei pressi di un blocchetto acceso il costo in Punti Magia degli incantesimi diminuirà di 1 punto per le successive 8 ore. Ogni blocchetto d'incenso brucia per 8 ore e l'effetto persiste per altre 8 ore. Di solito si trovano 2d4 blocchetti di incenso nella stessa custodia.
 
-### Invulnerabilita'
+### Invulnerabilità
 
 **Aura:** Abiurazione forte; **Costo:** 15000 mo
 
@@ -1790,7 +1816,7 @@ mentre indossi questa **Mantello** con il cappuccio tirato su, puoi respirare so
 
 non comune, mentre indossi questo **mantello**, hai +1 ai Tiri Salvezza contro incantesimi.
 
-### Mantello della velenosita'
+### Mantello della velenosità
 
 **Rarità:** Raro; **Costo:** 4000 mo
 
@@ -1956,7 +1982,7 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 - **Eurialo**: Il volto di medusa raffigurato sulla carta maledice il personaggio. Finché è maledetto in questo modo, il personaggio subisce una penalità di 2 ai tiri salvezza. Solo un Patrono o la magia della carta Destino può porre fine a questa maledizione.
 - **Fiamme**: Il personaggio si inimica un potente diavolo, che desidera condurlo alla rovina e corromperà la sua vita in ogni modo. Questa ostilità dura finché uno dei due tra il personaggio e il diavolo muore.
 - **Gemma**: Ai piedi del personaggio appaiono venticinque gemme del valore di 2000 mo ognuna o cinquanta gemme del valore di 1000 mo ognuna.
-- **Giullare**: Il personaggio ottiene abbastanza Punti Esperienza per passare di livello oppure può pescare un altra carta oltre al numero dichiarato di carte da pescare.
+- **Giullare**: Il personaggio ottiene abbastanza Punti Esperienza per passare di livello oppure può pescare un'altra carta oltre al numero dichiarato di carte da pescare.
 - **Idiota**: Il punteggio di Intelligenza del personaggio si riduce permanentemente di 1d2 + 1 (fino a un punteggio minimo di -4). Il personaggio può pescare un’altra carta oltre al numero dichiarato di carte da pescare.
 - **Ladro**: Un PNG a scelta del Narratore diventa ostile nei confronti del personaggio. L'identità del nuovo nemico è ignota al personaggio finché lo stesso PNG o qualcun altro non la rivela. Solo un incantesimo desiderio o un intervento divino possono annullare l’ostilità del PNG.
 - **Luna**: Il personaggio ottiene la capacità di lanciare l'incantesimo desiderio per 1d3 volte.
@@ -1965,7 +1991,7 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 - **Rovina**: Ogni forma di ricchezza trasportata o posseduta dal personaggio, ad eccezione degli oggetti magici, va perduta. Le proprietà trasportabili svaniscono. Le attività commerciali, gli edifici e le terre possedute vanno perdute nel modo che richiede l'alterazione della realtà più limitata. Tutti i documenti che potrebbero dimostrare il possesso delle proprietà perdute a causa della carta svaniscono a loro volta.
 - **Sole**: Ottieni abbastanza Punti Esperienza per passare di livello e un oggetto meraviglioso, determinato dal Narratore, compare tra le tue mani.
 - **Stella**: Un punteggio di caratteristica del personaggio aumenta di 2. Il nuovo punteggio può essere superiore a 5, ma non a 7.
-- **Teschio**: Il personaggio evoca una manifestazione della morte: uno spettrale scheletro umanoide avvolto in una veste nera stracciata e armato di una falce spettrale. Lo scheletro appare in uno spazio a scelta del Narratore entro 3 metri dal personaggio e lo attacca, intimando agli altri presenti di non immischiarsi nel combattimento. La manifestazione combatte finché non uccide il personaggio o non scende a 0 punti ferita nel qual caso scompare. Se qualcuno tenta di aiutare il personaggio, evoca a sua volta un altra manifestazione della morte. Una creatura uccisa da una manifestazione della morte non può essere riportata in vita.
+- **Teschio**: Il personaggio evoca una manifestazione della morte: uno spettrale scheletro umanoide avvolto in una veste nera stracciata e armato di una falce spettrale. Lo scheletro appare in uno spazio a scelta del Narratore entro 3 metri dal personaggio e lo attacca, intimando agli altri presenti di non immischiarsi nel combattimento. La manifestazione combatte finché non uccide il personaggio o non scende a 0 punti ferita nel qual caso scompare. Se qualcuno tenta di aiutare il personaggio, evoca a sua volta un'altra manifestazione della morte. Una creatura uccisa da una manifestazione della morte non può essere riportata in vita.
 - **Trono**: Il personaggio ottiene competenza nella competenza Ingannare e il suo bonus alle prove di Ingannare raddoppia. Inoltre, il personaggio diventa il legittimo proprietario di un piccolo castello situato da qualche parte nel mondo. Tuttavia, il castello è infestato da mostri e il personaggio dovrà scacciarli prima di poterlo rivendicare come suo.
 - **Visir**: In qualunque momento desideri, entro un anno da quando pesca questa carta, il personaggio può porre una domanda mentre medita e ottenere mentalmente una risposta veritiera a quella domanda. Oltre alle informazioni la risposta lo aiuta a comprendere come risolvere.
 - **Vuoto**: Questa carta nera è foriera di sventura. L'anima del personaggio viene strappata dal corpo e rinchiusa in un oggetto situato in un luogo scelto dal Narratore. Tale luogo è protetto da uno o più potenti guardiani. Finché l’anima del personaggio è intrappolata in questo modo, il suo corpo è incapacitato. Un incantesimo desiderio non può riportare l’anima del personaggio nel corpo, ma può rivelare il luogo in cui si trova l’oggetto che la custodisce. Il personaggio non pesca altre carte.
@@ -2130,7 +2156,7 @@ quest'**olio** può ricoprire un'arma tagliente o perforante o fino a 5 munizion
 
 una dose di **olio** è sufficiente a ricoprire una creatura di taglia Media o inferiore, e l'equipaggiamento che indossa e trasporta (è necessaria un'ulteriore fiala per ogni categoria di taglia sopra la Media). Applicare l'olio richiede 10 minuti. Dopodiché la creatura ottiene l'effetto dell'incantesimo forma eterea per 1 ora.
 
-### Olio di Scivolosita'
+### Olio di Scivolosità
 
 **Rarità:** Non Comune; **Costo:** 500 mo
 
@@ -2339,7 +2365,7 @@ questo minuscolo oggetto assomiglia a una **piuma**. Esistono diversi tipi di pi
 
 *Ventaglio*. Se ti trovi su di una barca o una nave, puoi usare due azioni per lanciare la piuma arcana fino a 3 metri in aria. La piuma svanisce e un gigantesco ventaglio compare al suo posto. Il ventaglio fluttua e crea un vento forte abbastanza da gonfiare le vele della nave, aumentandone la velocità di 7,5 chilometri all'ora per 8 ore. Puoi congedare il ventaglio con due azioni. 250 mo
 
-### Polvere dell'Aridita'
+### Polvere dell'Aridità
 
 **Rarità:** Raro; **Costo:** 120 mo
 
@@ -2381,7 +2407,7 @@ Puoi usare due azioni per premere una faccia del cubo per lanciare tramite esso 
 
 questa **pozione** ha un nome quanto mai appropriato, poiché convince chi la beve di aver ingerito una pozione di un altro tipo. Per esempio, una finta "pozione di chiaraudienza" potrebbe far sentire a chi l'ha bevuta suoni che in realtà non esistono. Se più persone assaggiano questa pozione, c'è una probabilità del 90\% che concordino nel ritenerla dello stesso tipo.
 
-### Pozione dell'invulnerabilita'
+### Pozione dell'invulnerabilità
 
 **Rarità:** Rara; **Costo:** 800 mo
 
@@ -2405,7 +2431,7 @@ non comune,questa **pozione** conferisce a chi la beve la facoltà di vedere att
 
 questa **pozione** ha lo stesso effetto dell'incantesimo levitazione.
 
-### Pozione della Longevita'
+### Pozione della Longevità
 
 **Rarità:** Leggendaria; **Costo:** 15000 mo
 
@@ -2439,7 +2465,7 @@ chiunque beva questa **posizione** è come avesse lanciato Dominare Bestie
 
 **Rarità:** Leggendaria; **Costo:** 5000 mo
 
-questa **pozione** conferisce un potere equivalente all'incantesimo dominare mostri su un singolo tipo di drago. E' possibile controllare un drago entro 18 metri per 5d4 round.
+questa **pozione** conferisce un potere equivalente all'incantesimo dominare mostri su un singolo tipo di drago. È possibile controllare un drago entro 18 metri per 5d4 round.
 
 ### Pozione di Controllo dei non morti
 
@@ -2457,7 +2483,7 @@ una volta ingerita, questa **pozione** conferisce a chi la beve un potere analog
 
 **Rarità:** Rara; **Costo:** 1500 mo
 
-chi beve questa **pozione** è in grado di controllare tutte le piante e le creature vegetali (compresi i funghi) in un'area quadrata di 6x6 m ed entro una distanza di 27 metri. L'effetto dura 5d4 round. Le piante obbediscono secondo le loro possibilità (ad esempio, le liane possono attorcigliarsi e infittirsi, causando lentezza o impedimento alla vista). E' possibile dare ordini a creature vegetali senzienti, ma queste hanno diritto a un Tiro Salvezza su Volontà DC 19. Come per altri tipi di ammaliamento, non si può ordinare a una creatura controllata di farsi male da sola.
+chi beve questa **pozione** è in grado di controllare tutte le piante e le creature vegetali (compresi i funghi) in un'area quadrata di 6x6 m ed entro una distanza di 27 metri. L'effetto dura 5d4 round. Le piante obbediscono secondo le loro possibilità (ad esempio, le liane possono attorcigliarsi e infittirsi, causando lentezza o impedimento alla vista). È possibile dare ordini a creature vegetali senzienti, ma queste hanno diritto a un Tiro Salvezza su Volontà DC 19. Come per altri tipi di ammaliamento, non si può ordinare a una creatura controllata di farsi male da sola.
 
 ### Pozione di Crescita
 
@@ -2500,7 +2526,7 @@ quando bevi da **questa** pozione, recuperi un numero di Punti Ferita che varia 
 - **Maggiore**, Punti Ferita 3d10 +30. Rara, 300 mo
 - **Suprema**, Punti Ferita 5d10 + 50. Molto Rara, 1500 mo
 
-### Pozione di Invisibilita'
+### Pozione di Invisibilità
 
 **Rarità:** Molto Raro; **Costo:** 200 mo
 
@@ -2542,7 +2568,7 @@ Sono presenti diversi tipi di **veleni**:
 - **Veleno potenziata**, subisci 2d8+4 di danno. TS DC 18 Tempra. Rara, 50 mo
 - **Veleno maggiore**, subisci 4d10+8 di danno. TS DC 24 Tempra. Molto Rara, 125 mo
 
-### Pozione di Velocita'
+### Pozione di Velocità
 
 **Rarità:** Molto Raro; **Costo:** 400 mo
 
@@ -2732,7 +2758,7 @@ questo oggetto sembra un normale **specchio** alto un metro e mezzo e largo 60 c
 
 **Rarità:** Leggendario
 
-leggendario, questo **specchio** è alto un pò più di un metro e largo un pò di meno. Quando una creatura si riflette sulla superficie dello specchio, la sua immagine riflessa (un duplicato identico in tutto e per tutto) esce per attaccare l'originale. Il duplicato ha tutto l'equipaggiamento e i poteri dell'originale, compresa la magia. Il duplicato sparisce immediatamente, assieme a tutti i suoi oggetti, alla morte sua o dell'originale.
+leggendario, questo **specchio** è alto un po' più di un metro e largo un po' di meno. Quando una creatura si riflette sulla superficie dello specchio, la sua immagine riflessa (un duplicato identico in tutto e per tutto) esce per attaccare l'originale. Il duplicato ha tutto l'equipaggiamento e i poteri dell'originale, compresa la magia. Il duplicato sparisce immediatamente, assieme a tutti i suoi oggetti, alla morte sua o dell'originale.
 
 ### Specchio Intrappola Vita
 
@@ -2766,7 +2792,7 @@ mentre indossi questi **stivali**, hai una velocità di volo pari alla tua veloc
 
 ### Stivali Danzanti
 
-questi **stivali** maledetti funzionano come altri stivali magici. Tuttavia, quando il personaggio entra in combattimento o tenta di fuggire da un potenziale combattimento, egli viene affetto da un incantesimo danza irresistibile, senza possibilità di Tiro Salvezza. E' possibile rimuovere gli Stivali Danzanti con l'incantesimo Rimuovi Maledizione o Desiderio.
+questi **stivali** maledetti funzionano come altri stivali magici. Tuttavia, quando il personaggio entra in combattimento o tenta di fuggire da un potenziale combattimento, egli viene affetto da un incantesimo danza irresistibile, senza possibilità di Tiro Salvezza. È possibile rimuovere gli Stivali Danzanti con l'incantesimo Rimuovi Maledizione o Desiderio.
 
 ### Stivali degli Elfi
 
@@ -2792,10 +2818,10 @@ mentre indossi questi **stivali**, la tua velocità di movimento diventa 9 metri
 
 mentre indossi questi **stivali**, puoi usare a volontà due azioni per lanciare l'incantesimo levitazione su di te.
 
-### Stivali della Velocita'
+### Stivali della Velocità
 
 **Rarità:** Raro; **Costo:** 5000 mo
-
+/home/andres/Scaricati/OBSS-QuickStart.tex
 mentre indossi questi **stivali**, puoi usare una Reazione per ottenere un Azione di Movimento in più. La capacità è usabile per un massimo di 10 minuti al giorno. La capacità si ricarica all'alba.
 
 ### Talismano del Bene puro
@@ -3047,7 +3073,7 @@ Se il Vano viene ripiegato, una creatura all'interno dello spazio dimensionale d
 
 Piazzare un Vano portatile all'interno dello spazio extradimensionale creato da una borsa conservante, uno zainetto pratico o simile oggetto distrugge istantaneamente entrambi gli oggetti e apre un portale verso il Piano Astrale. Qualsiasi creatura entro 3 metri dal portale viene risucchiata al suo interno e depositata in un luogo casuale del Piano Astrale. Poi il portale scompare.
 
-### Arma della Velocita'
+### Arma della Velocità
 
 **Aura:** Trasmutazione moderata; **Costo:** 15000 mo
 
@@ -3130,7 +3156,7 @@ Per ogni ora trascorsa in questo paradiso, un visitatore recupera Punti Ferita c
 
 Quando il tempo termina o usi due azioni per farlo terminare, tutti i visitatori ricompaiono nel luogo da loro occupato quando hai attivato la verga, o nello spazio non occupato più vicino a quello. La verga non potrà essere usata di nuovo prima che siano passati dieci giorni.
 
-### Verga della Sovranita'
+### Verga della Sovranità
 
 **Rarità:** Raro; **Costo:** 16000 mo
 
@@ -3160,7 +3186,7 @@ Una creatura è immune a questo effetto se è immune ai danni taglienti, non pos
 
 Una creatura del genere subisce invece 6d8 danni taglienti aggiuntivi dal colpo subito.
 
-### Vulnerabilita'
+### Vulnerabilità
 
 **Aura:** Necromantica moderata; **Costo:** 3000 mo
 
@@ -3187,7 +3213,7 @@ Piazzare lo zainetto all'interno dello spazio extradimensionale creato da una bo
 
 questo strumento sovradimensionato è lungo 3 m e pesante 120 kg (30 Ingombro), e può essere usato solo da un gigante (o da un personaggio ingrandito) per spostare grandi quantità di terriccio e costruire terrapieni (un cubo di 3 m per Turno). La **zappa** può anche essere usata per spaccare la pietra con grande rapidità. Se usata come un'arma ha un bonus +3 al colpire e infligge 5d6 ferite.
 
-### Zoccoli della Velocita'
+### Zoccoli della Velocità
 
 **Rarità:** Raro; **Costo:** 5000 mo
 

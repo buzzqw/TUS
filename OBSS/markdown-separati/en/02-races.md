@@ -9,7 +9,7 @@ It is the creatures that make the planet vital and rich, each one nourishes, con
 
 ## Humans
 
-Humans, with their desire for discovery, power, glory and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until the coming.
+Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until the coming.
 And humans became the species to hunt and kill, the dictate received from the first Patrons was clear and absolute, exterminate the humans who had killed the firstborn.
 
 It is impossible to know how many humans have survived in the world, very approximate calculations count them under 500 million.
@@ -28,7 +28,7 @@ It is impossible to know how many humans have survived in the world, very approx
 
 ## Elves
 
-Elves are the race brought directly by the Patron of Genesis Calicante to bring dissoluteness, terror, pain, and perdition to Earth.
+Elves are the race brought directly by Calicante, the Patron of Genesis, to bring dissoluteness, terror, pain, and perdition to Earth.
 
 Forcibly deported from distant worlds made of chaos, war, and pain, after their Legions of Terror raged for over a century on our planet, further reducing the few remaining humans, the Lady of Light Ljust intervened directly to instill a spark of charity in their soulless bodies.
 
@@ -55,7 +55,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 Dwarves are a stoic and severe race accustomed to the purest communism, without a true concept of property but of pure commonality of goods according to the idea that every dwarf works for the community and not for himself.
 
-Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate beards with various kinds of clasps and intricate braids, likewise bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sex is free and socialist.
+Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sex is free and socialist.
 
 Dwarves are guided by honor, tradition, and communism. They are often seen as gruff, but have a strong sense of friendship and justice, respecting those who work hard and commit to the community and the group.
 
@@ -150,7 +150,7 @@ Half-orcs are continuous victims of prejudice.
 
 **Racial modifiers**: +2 Strength -1 Charisma
 
-**Physical characteristics**: height 160-210 cm, 60 - 140 kg, life expectancy 70 years (50 + 5d10 years)
+**Physical characteristics**: height 160-210 cm, 60-140 kg, life expectancy 70 years (50 + 5d10 years)
 
 **Size**: Medium
 
@@ -166,7 +166,7 @@ The Nibali are a race magically created to be slaves to the first Patrons.
 
 Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create by manipulating with magic, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
 
-When the first Patrons left, the Nibali continued to prosper and taking advantage of what they had already created in the cold tundra.
+When the first Patrons left, the Nibali continued to prosper, making use of what had already been created in the cold tundra.
 
 For many, the extreme efficiency and dedication of the Nibali is odious, a yoke that leaves no room for personal freedoms; for the Nibali, it is just a natural way to progress.
 
@@ -174,11 +174,11 @@ All Nibali are equal to each other of the same sex, but the fact that they canno
 
 For a Nibali, rules and laws must promote peace and freedom, they must be fair, and those who maintain them must be understanding and wise. For a Nibali, freedom is not doing what you want but the right to do what you must.
 
-The male Nibali is bald and has bright blue skin, the eyes are purple. Women have amber skin, chestnut hair with blonde highlights, green eyes.
+The male Nibali is bald and has bright blue skin, the eyes are purple. Female Nibali have amber skin, chestnut hair with blonde highlights, green eyes.
 
-**Racial modifiers:** +1 Constitution, +1 Intelligence, - 1 Wisdom
+**Racial modifiers:** +1 Constitution, +1 Intelligence, -1 Wisdom
 
-**Physical characteristics**: height 183cm males, 170cm females, 50 - 120 kg, life expectancy 130 years
+**Physical characteristics**: height 183 cm males, 170 cm females, 50 - 120 kg, life expectancy 130 years
 
 **Size**: Medium
 
@@ -190,13 +190,13 @@ The male Nibali is bald and has bright blue skin, the eyes are purple. Women hav
 
 ## Outcast
 
-Blessed or cursed, the Outcasts are not like us. An Outcast is the fruit of a corrupted union. If Patrons shouldn' \*\*t act directly on Earth, or at least that' \*\*s what Gradh tries to avoid, they often instead use their powers to create a lineage faithful to them.
+Blessed or cursed, the Outcasts are not like us. An Outcast is the result of a corrupted union. If Patrons shouldn' \*\*t act directly on Earth, or at least that' \*\*s what Gradh tries to avoid, they often instead use their powers to create a lineage faithful to them.
 
-An Outcast is faithful to their Patron and can' \*\*t do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
+An Outcast is faithful to their Patron and cannot do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
 
 An Outcast is more robust and more intelligent. Unfortunately, their frenetic life is marked by a short duration. Usually, a human Outcast does not exceed 50 years of life.
 
-An Outcast is marked, somewhere on their body is the symbol, a birthmark, of their Patron. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of whom they are *children*.
+An Outcast is marked, somewhere on their body is the symbol, a birthmark, of their Patron. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of which they are *children*.
 
 Outcast is an attribute that can be given to any race. The racial modifiers are replaced with those of the Outcast, and the life expectancy is halved. The original racial advantages remain valid, and the Special advantage of the Outcast is added.
 
@@ -214,7 +214,7 @@ Outcast is an attribute that can be given to any race. The racial modifiers are 
 
 ## Sornelian
 
-The genesis of the Sornelian is due to the Patron Efrem (page ). Efrem decided that nature should have a greater voice in terrestrial matters and established that anthropomorphic animals should exist in order to rebalance the overwhelming power of other humanoid creatures.
+The genesis of the Sornelian is due to the Patron Efrem (page ). Efrem decided that nature should have a greater voice in terrestrial matters and established that anthropomorphic animals should exist to rebalance the overwhelming power of other humanoid creatures.
 
 A Sornelian has a head similar to that of an anthropomorphic animal but the body is more similar to a humanoid biped. Depending on the animal, the Sornelian might also have fur, feathers, scales, and claws. The dimensions of a Sornelian depend very much on the original animal, varying from small to medium size. The anthropomorphic aspect of a Sornelian is as varied as the animals they resemble.
 
@@ -306,7 +306,7 @@ The Sulian are very similar to humans, but in their eyes and often on their skin
 
 **Languages**: Common. They can understand the elemental language of their bloodline but cannot speak it.
 
-**Advantages**: Each Sulian descends from one or more elemental lines and inherits unique powers and abilities from them. At the first point of WP or MP assigned and then every eighth total point assigned (MP+WP=1,8,16...), the Sulian strengthens their elemental bloodline and selects a power or unlocks another elemental line present in them to choose different powers.
+**Advantages**: Each Sulian descends from one or more elemental lines and inherits unique powers and abilities from them. At the first point of WP or MP assigned and then every eighth total point assigned (MP+WP=1, 8, 16...), the Sulian strengthens their elemental bloodline and selects a power or unlocks another elemental line present in them to choose different powers.
 
 The indicated power can be used (MP+WP)/3 times per day.
 

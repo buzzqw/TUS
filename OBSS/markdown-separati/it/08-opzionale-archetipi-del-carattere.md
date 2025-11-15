@@ -223,7 +223,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 | Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
 | Nethergal | L'Araldo, L'Esploratore, Il Mago |
 | Nedraf | L'Eroe, L'Esploratore, L'Alleato |
-| Nihar | Il Giullare, L'Esploratore, Il Giullare |
+| Nihar | Il Giullare, L'Esploratore |
 | Orudjs | Il Mutaforma, Il Giullare, L'Amante |
 | Orlaith | Il Guardiano della Soglia, Il Sovrano, L'Eroe |
 | Rezh | Il Tiranno, L'Ombra, Il Mutaforma |

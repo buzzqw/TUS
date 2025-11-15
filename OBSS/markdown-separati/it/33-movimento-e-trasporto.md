@@ -70,7 +70,7 @@ Muoversi da prono, Nuotare o Strisciare è considerato terreno difficile, Arramp
 
 Il terreno dove sono presenti dei corpi di creature si considera difficile. 
 
->> **Tups nel cunicolo**: Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. E' alla quarta posizione.
+>> **Tups nel cunicolo**: Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. È alla quarta posizione.
 
 Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando una Azione di Movimento ***attraversa*** i 3 compagni che ha davanti rimanendo **ristretto** con il primo della fila.
 
@@ -94,7 +94,7 @@ Una creatura di taglia superiore a media può condividere i propri quadretti sol
 Es. un mostro di taglia Grande può condividere il suo spazio solo con una creatura di taglia Piccola o inferiore, se fosse Enorme potrebbe condividerlo con una creatura di taglia Media o inferiore.
 
 ### Scambiarsi di posto
-Un personaggio a contatto con un altra creatura può usare **una Azione** per **scambiarsi di posto** con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
+Un personaggio a contatto con un'altra creatura può usare **una Azione** per **scambiarsi di posto** con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
 
 >>> **Amici fastidiosi**: Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli.
 
@@ -177,7 +177,7 @@ Una cavalcatura può portare in groppa una creatura solo se di taglia inferiore 
 
 Zattere, chiatte e barconi sono usati su laghi e fiumi. Se seguono la corrente, sommare la velocità della corrente (di solito 4,5 km/h) alla velocità dell'imbarcazione. Oltre a essere spinta con pertiche o remi per 10 ore, l'imbarcazione può anche essere trasportata dalla corrente per altre 14 ore, se qualcuno è in grado di guidarla, e quindi si aggiungono altri 100 km nelle 24 ore. Queste imbarcazioni non possono essere spinte a remi contro una corrente molto forte, ma possono essere tirate controcorrente da animali da soma sulla riva.
 
-Le Zattere e Chiatte attrezzate per il trasporto sono delle piccole locande che permettono un pasto frugale del pescato giornaliero ed un pò di frutta e verdura portata da riva. Non ci sono stanze per dormire. A chi ne fa richiesta, dietro un piccolo compenso, vengono stese delle stuoie e srotolati vissuti materassi e se il clima lo rende necessario vengono fornite coperte.
+Le Zattere e Chiatte attrezzate per il trasporto sono delle piccole locande che permettono un pasto frugale del pescato giornaliero ed un po' di frutta e verdura portata da riva. Non ci sono stanze per dormire. A chi ne fa richiesta, dietro un piccolo compenso, vengono stese delle stuoie e srotolati vissuti materassi e se il clima lo rende necessario vengono fornite coperte.
 
 La guida della Zattera o Chiatta avviene su turni di 8 ore giornalieri, per permettere anche la continua navigazione. Quando è notte la navigazione si ferma o prosegue con la sola forza della corrente se non impetuosa e non ci sono pericoli noti. Pagando un sovrapprezzo è possibile navigare anche sulle 24 ore.
 
@@ -218,9 +218,9 @@ Se la CdC **viene doppiata** allora non ci si può più muovere per l'ingombro d
 
 Es. Tups ha indosso una Armatura ad Anelli (ingombro 4), una spada lunga (arma media, ingombro 2), una mazza chiodata (ing. 2), 18 oggetti leggeri (ing. 1), uno zaino (ing. 1), una tenda (ing. 2), una lanterna (ing 1). Totale Ingombro = 13.
 
-Tups è una creatura Media con Forza -1 e Costituzione +0 (è un pò gracile e debole..) questo gli concede una Capacità di Carico di 12-1=11.
+Tups è una creatura Media con Forza -1 e Costituzione +0 (è un po' gracile e debole..) questo gli concede una Capacità di Carico di 12-1=11.
 
-Il peso trasportato da Tups è superiore alla sua CdC ! E' meglio se lascia la tenda sul suo saurovallo...
+Il peso trasportato da Tups è superiore alla sua CdC ! È meglio se lascia la tenda sul suo saurovallo...
 
 Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro la tua CdC, a metà movimento se entro il doppio della CdC ed ad un quarto del movimento se entro il quadruplo della CdC.
 
@@ -256,7 +256,7 @@ Queste Tabelle sono da usare per gli animali insoliti non indicati o assimilabil
 
 ### Nuotare
 
-Vedi Capito Ambiente per prove nuotare  e combattimento sott'acqua .
+Vedi Capitolo Ambiente per prove nuotare  e combattimento sott'acqua .
 
 ### Scalare
 
@@ -266,7 +266,7 @@ Se una creatura con una velocità di Scalare tenta una scalata rapida (vedi sopr
 
 Una creatura con Velocità di Scalare non ha penalità alla Difesa durante la salita e non ha penalità ai Tiri per Colpire mentre attacca.
 
-Se non si ha questo tipo di **movimento** Scalare si considera come **terreno doppiamente difficile**, e quindi ci si muove ad un quarto del del Movimento.
+Se non si ha questo tipo di **movimento** Scalare si considera come **terreno doppiamente difficile**, e quindi ci si muove ad un quarto del Movimento.
 
 ### Scavare
 

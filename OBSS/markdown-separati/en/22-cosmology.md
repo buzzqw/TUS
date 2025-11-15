@@ -433,7 +433,7 @@ And swells my throat, you, divine most equalizing,
 
 you, earth and life until the last ray shines, I sing. (Song at Sunset, Walt Whitman)
 
-Patron of Water and Fire, in the depths of the earth, where water and lava meet, Gaya enjoys painting. She loves to surround herself with flows of fire and water almost creating a dance among them. She adores the sounds of nature, the crashing of waves on rocks, the falling of raindrops on cobbQuicknes, the babbling of a crackling fire.
+Patron of Water and Fire, in the depths of the earth, where water and lava meet, Gaya enjoys painting. She loves to surround herself with flows of fire and water almost creating a dance among them. She adores the sounds of nature, the crashing of waves on rocks, the falling of raindrops on cobblestones, the babbling of a crackling fire.
 
 She paints by mixing hot and cold. Crystalline and impetuous water with intriguing and ardent fire. Jealous of beauty and the arts, she keeps all her works safe in an almost maniacal order and protected. Like a true artist, she uses the elements to make the wonders of nature shine. Gaya is the painter of sunsets and storms.
 

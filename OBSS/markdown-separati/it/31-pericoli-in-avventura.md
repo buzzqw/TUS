@@ -87,7 +87,7 @@ In aree ricche di cristalli, le creature che vi passano attraverso devono supera
 
 Le strane energie del mondo sotterraneo possono caricare pietre e vene di minerali con potenti campi magnetici, creando un pericolo per chi porta o indossa metalli ferrosi. Tutti gli oggetti di ferro o acciaio portate entro raggio di 3 metri dal minerale sono trascinate verso di esso.
 
-Ogni creatura che abbia più di 4 di ingombro in metallo viene inesorabilmente attirato verso il minerale magnetico. E' concesso un Tiro Salvezza su Tempra con modificatore Forza a DC 25 per non avvicinarsi o riuscire a staccarsi dalla grossa calamita.
+Ogni creatura che abbia più di 4 di ingombro in metallo viene inesorabilmente attirato verso il minerale magnetico. È concesso un Tiro Salvezza su Tempra con modificatore Forza a DC 25 per non avvicinarsi o riuscire a staccarsi dalla grossa calamita.
 
 **Pozzo Maledetto (grado di Sfida 3)**
 
@@ -187,7 +187,7 @@ Usate il buon senso e basatevi sulla descrizione della trappola per determinare 
 
 Il Narratore dovrebbe consentire a un personaggio di scoprire una trappola senza dover effettuare prove di competenza, se le sue azioni o la descrizione di ciò che fa rivelano chiaramente la presenza della trappola.
 
-Disattivare le trappole può essere un pò più complicato. Prendiamo, ad esempio, un forziere protetto da una trappola. Se il forziere viene aperto senza tirare le due maniglie laterali, un meccanismo interno spara una raffica di aghi avvelenati verso chiunque si trovi di fronte.
+Disattivare le trappole può essere un po' più complicato. Prendiamo, ad esempio, un forziere protetto da una trappola. Se il forziere viene aperto senza tirare le due maniglie laterali, un meccanismo interno spara una raffica di aghi avvelenati verso chiunque si trovi di fronte.
 
 Dopo aver ispezionato il forziere e fatto qualche prova, i personaggi non sono ancora sicuri che sia trappolato. Invece di aprirlo direttamente, puntano uno scudo davanti al forziere e lo aprono a distanza con un'asta di ferro. In questo caso, la trappola si attiva, ma la raffica di aghi colpisce lo scudo senza ferire nessuno.
 
@@ -414,7 +414,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
 | **Effetto:** | 5d4 danni da fuoco |
-| **GS:** | 2**Giavellotto** |
+| **GS:** 2 | **Giavellotto** |
 | **Tipo:** | meccanico |
 | **Sopravviv.:** | DC 15 |
 | **Dis. Cong.:** | DC 17 |
@@ -592,7 +592,7 @@ Prosegui nel corridoio?
 
 *Narratore*: No, ci sono milioni di crepe, non riesci a vedere una fossa così chiaramente [*il Narratore valuta che la fossa è ben mimetizzata e Tups ha scarsa illuminazione per vedere bene*]
 
-*Tups*: Ok, prendo la mia fiasca d'acqua dallo zaino. Vado a versare un pò d'acqua sul pavimento. Sembra infilarsi nel pavimento in qualche punto o rivelare qualche forma di trama ?
+*Tups*: Ok, prendo la mia fiasca d'acqua dallo zaino. Vado a versare un po' d'acqua sul pavimento. Sembra infilarsi nel pavimento in qualche punto o rivelare qualche forma di trama ?
 
 *Narratore*: Si, l'acqua sembra convogliare intorno ad una forma quadrata, leggermente rialzata sul pavimento.
 

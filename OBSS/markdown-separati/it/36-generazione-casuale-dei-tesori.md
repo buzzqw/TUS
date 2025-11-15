@@ -99,7 +99,7 @@ Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anel
 | 45-58 | Energia Luminosa |
 | 59-72 | Ladra delle Nove Vite |
 | 73-86 | Tocco Fantasma |
-| 87-100 | Arma della Velocita' |
+| 87-100 | Arma della Velocità |
 
 **Tabella: Capacità Speciale Armi Tipo 2**
 
@@ -191,7 +191,7 @@ Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anel
 | **1d100** | **Amuleti, Collane e Gioielli Tipo 2** |
 |---|---|
 | 1-7 | Gemma Elementale |
-| 8-13 | Gemma della Luminosita' |
+| 8-13 | Gemma della Luminosità |
 | 9-16 | Gemma della Vista |
 | 17-26 | Gioiello Attiramostri |
 | 27-33 | Medaglione dei Pensieri |
@@ -227,7 +227,7 @@ Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anel
 | 67-77 | Stivali degli Elfi |
 | 78-83 | Stivali dell'Inverno |
 | 84-90 | Stivali della Levitazione |
-| 91-95 | Stivali della Velocita' |
+| 91-95 | Stivali della Velocità |
 | 96-100 | Stivali Danzanti |
 
 ### Bacchette, Bastoni e Verghe
@@ -245,7 +245,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 |---|---|
 | 1-5 | Bacchetta Cerca metalli |
 | 6-10 | Bacchetta dei Dardi Arcani |
-| 11-15 | Bacchetta delle Comodita' |
+| 11-15 | Bacchetta delle Comodità |
 | 16-20 | Bacchetta dei Fulmini |
 | 21-25 | Bacchetta del Fuoco |
 | 26-30 | Bacchetta del Ghiaccio |
@@ -294,7 +294,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 42-50 | Verga della Forza Sovrana |
 | 51-60 | Verga della Prontezza |
 | 61-70 | Verga della Sicurezza |
-| 71-80 | Verga della Sovranita' |
+| 71-80 | Verga della Sovranità |
 | 81-90 | Verga Tentacolare |
 | 91-100 | Verga Maledetta |
 
@@ -314,12 +314,12 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 30-35 | Pozione di Forza dei Giganti |
 | 36-46 | Pozione di Guarigione |
 | 47-53 | Pozione dell'Inganno |
-| 54-64 | Pozione di Invisibilita' |
+| 54-64 | Pozione di Invisibilità |
 | 65-74 | Pozione della Levitazione |
 | 77-78 | Pozione di Resistenza |
 | 79-84 | Pozione di Respirare Sott'Acqua |
 | 84-90 | Pozione di Rimpicciolimento |
-| 91-95 | Pozione di Velocita' |
+| 91-95 | Pozione di Velocità |
 | 96-100 | Pozione di Volo |
 
 | **1d100** | **Pozione Tipo 2** |
@@ -331,7 +331,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 34-38 | Pozione di Controllo dei non morti |
 | 39-49 | Pozione di Controllo delle persone |
 | 50-55 | Pozione di Controllo delle piante |
-| 56-66 | Pozione dell'invulnerabilita' |
+| 56-66 | Pozione dell'invulnerabilità |
 | 67-77 | Pozione di Lettura del Pensiero |
 | 78-85 | Pozione di Veleno |
 | 86-95 | Pozione di Cura Maggiore |
@@ -343,9 +343,9 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 14-27 | Filtro Scopritesori |
 | 28-40 | Olio di Affilatezza |
 | 41-53 | Olio di Forma Eterea |
-| 54-66 | Olio di Scivolosita' |
+| 54-66 | Olio di Scivolosità |
 | 67-79 | Pozione di Amicizia con gli Animali |
-| 80-85 | Pozione della Longevita' |
+| 80-85 | Pozione della Longevità |
 | 86-95 | Pozione della Metamorfosi |
 | 96-100 | Pozione di Veleno Maggiore |
 
@@ -361,7 +361,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 6-13 | Anello dell'Ariete |
 | 14-21 | Anello di Caduta Piuma |
 | 22-28 | Anello di Camminare sull'Acqua |
-| 29-35 | Anello del Calore |
+| 29-35 | Scarfarotto del Calore |
 | 36-41 | Anello della Debolezza |
 | 42-47 | Anello di Elusione |
 | 48-50 | Anello di Influenza sugli Animali |
@@ -383,7 +383,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 37-42 | Anello degli Elementali della Terra |
 | 43-48 | Anello di Elusione |
 | 49-56 | Anello Respingi Incantesimi |
-| 57-65 | Anello di Invisibilita' |
+| 57-65 | Anello di Invisibilità |
 | 66-75 | Anello di Rigenerazione |
 | 76-83 | Anello dello Scudo Mentale |
 | 84-90 | Anello delle Stelle Cadenti |
@@ -405,7 +405,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 46-50 | Mantello del Pipistrello |
 | 51-57 | Mantello di Protezione |
 | 58-62 | Mantello della Resistenza agli Incantesimi |
-| 63-68 | Mantello della velenosita' |
+| 63-68 | Mantello della velenosità |
 | 69-72 | Occhi della pietrificazione |
 | 73-75 | Occhi Affascinanti |
 | 76-77 | Occhi dell'Aquila |
@@ -490,7 +490,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 70-73 | Pietra della Buona Sorte |
 | 74-80 | Filatterio contro i non morti |
 | 81-83 | Solvente Universale |
-| 84-89 | Polvere dell'Aridita' |
+| 84-89 | Polvere dell'Aridità |
 | 90-94 | Unguento di Ljust |
 | 95-100 | Zainetto Pratico |
 
@@ -585,7 +585,7 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 | 90-91 | Sfera dell'Annientamento |
 | 92-94 | Turibolo Elementale dell'aria |
 | 95-96 | Vano Portatile |
-| 97-98 | Zoccoli della Velocita' |
+| 97-98 | Zoccoli della Velocità |
 | 99-100 | Zoccoli dello Zefiro |
 
 ---

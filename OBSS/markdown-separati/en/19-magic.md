@@ -112,7 +112,7 @@ Each spell requires the caster to have his hands free and be able to speak.
 
 Most spells require character to intone mystical words and gesticulate in a particular way. The words and gestures, the rhythm, the cadence and resonance allow the attunement with the Patron who provides the magic.
 
-It is possible to offer items at the time of casting the spell as an offering to the own Patron, or Patron who oversees the Magic List, to obtain advantages. Depending on the emph{preciousness} and emph{story} of the item offered, at the discretion of the Arbiter, the Magic Check can take $pm2d6$ modifier.
+It is possible to offer items at the time of casting the spell as an offering to the own Patron, or Patron who oversees the Magic List, to obtain advantages. Depending on the *preciousness* and *story* of the item offered, at the discretion of the Arbiter, the Magic Check can take $\pm 2d6$ modifier.
 
 ### Recovering from dying
 
@@ -192,7 +192,7 @@ If the spellcaster is **Distracted**, tries to hide the casting of magic, is imp
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
-The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penality from having suffered critical rolls.
+The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penalty from having suffered critical rolls.
 
 The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
 
@@ -291,7 +291,7 @@ The casting time of a spell empowered in this manner increases by 1 Action.
 
 E.g., Haste, I want it to have 2 magic criticals, I pay 3 Magic Points to cast it, plus 3 for the first Magic Critical Success plus 4 for the second Magic Critical Success, and possibly 5 for a third Magic Critical Success. All Magic Points used are always paid regardless of the result of the Magic Check.
 
-You cannot spend more than half of your current Magic Points to empower a spell, you cannot achive more Auto Magic success then the ability modifier for spells.
+You cannot spend more than half of your current Magic Points to empower a spell, you cannot achieve more Auto Magic successes than the ability modifier for spells.
 
 ## Optional - The true cost of Magic
 
@@ -374,7 +374,7 @@ For **monsters** or anyway for a spell casting given by innate magical abilities
 
 Several spells interact with other effects by canceling or modifying them. When it is written that a spell **counters** or is **countered** by another, it is necessary to verify the DC of the spells or effects to make sure which effect dominates over the other.
 
-For example, the Slow spell counters Haste, Remove Curse counters curses, Remove Poison counters poisons...
+For example, the Slow spell counters Haste, Remove Curse counters curses, Neutralize Poison counters poisons...
 
 The **own counterspell value** is computed with a check of 3d6 + MP + ability modifier for spells + times that Magic Adept has been taken. + 1 for each Magic Critical Success obtained in the Magic Check.
 

@@ -2,7 +2,7 @@
 
 This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , these are 21 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
 
-Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory to the archetype' \*\*s core nature. Additionally are listed which Patrons share at least two Traits (and thus being a Devotee) with each archetype, suggesting natural spiritual affinities.
+Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory to the archetype' \*\*s core nature. Also listed are which Patrons share at least two Traits (and thus being a Devotee) with each archetype, suggesting natural spiritual affinities.
 - Choose an archetype that appeals to you or fits your character concept
 - Consider adopting at least 2-3 of the recommended Traits for that archetype
 - Avoid the incompatible Traits unless you' \*\*re specifically aiming to create internal conflict

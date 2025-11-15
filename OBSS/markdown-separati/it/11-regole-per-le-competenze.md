@@ -121,7 +121,7 @@ Ogni qual volta la **Prova** o **Prova Contrapposta** riguarda una **Caratterist
 | Costituzione | Tempra |
 | Intelligenza, Saggezza, Carisma | Volontà |
 
-E' possibile che siano chieste Prove Contrapposte con indicato modificatori diversi. Quelli riportati nella tabella sopra sono esempi di utilizzo tipici. E' possibile fare un prova contrapposta di Forza, facendo un Tiro Salvezza su Tempra e sommando il punteggio di Forza per capire chi vince in una gara di sollevamento pesi.
+È possibile che siano chieste Prove Contrapposte con indicato modificatori diversi. Quelli riportati nella tabella sopra sono esempi di utilizzo tipici. È possibile fare un prova contrapposta di Forza, facendo un Tiro Salvezza su Tempra e sommando il punteggio di Forza per capire chi vince in una gara di sollevamento pesi.
 
 ### Prove di Caratteristica non Contrapposte
 
@@ -218,7 +218,7 @@ Vedi paragrafo Cadute  per i dettagli su come usare Acrobatica quando si cade.
 
 ### Arrampicarsi/Scalare* 
 
-Arrampicarsi, scalari o scendere da una superficie impervia equivale a muoversi in un **terreno doppiamente difficile**.
+Arrampicarsi, scalare o scendere da una superficie impervia equivale a muoversi in un **terreno doppiamente difficile**.
 
 | **Esempio di Superficie** | **DC** |
 | --- | --- |
@@ -330,7 +330,7 @@ DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +
 
 Sopravvivenza può essere usata al posto di **Disattivare Congegni** con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
 
-Ogni tre punti ottenuti nella prova di Sopravvivenza oltre la DC (solitamente 13) il personaggio è in grado di **procacciare cibo** per se stesso ed un altra persona purché si trovi in un ambiente capace di sostenere la vita.
+Ogni tre punti ottenuti nella prova di Sopravvivenza oltre la DC (solitamente 13) il personaggio è in grado di **procacciare cibo** per se stesso ed un'altra persona purché si trovi in un ambiente capace di sostenere la vita.
 
 Si può usare per cercare trappole: 1 minuto per cercare trappole in 3x3 metri, con punteggio 6 costa 3 round, con punteggio di 12 costa 1 round, con punteggio 18 costa 1 Azione.
 
@@ -347,7 +347,7 @@ Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o 
 
 ### Linguaggi
 
-Nel mondo ci sono le vecchie lingue umane, usate solo negli antichi tomi ed in comunità isolate e c'è la lingua Comune costruita dall'insieme dei vecchi idiomi terrestri e comprensibile più o meno a chiunque. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un altra lingua.
+Nel mondo ci sono le vecchie lingue umane, usate solo negli antichi tomi ed in comunità isolate e c'è la lingua Comune costruita dall'insieme dei vecchi idiomi terrestri e comprensibile più o meno a chiunque. Ogni personaggio che abbia almeno Intelligenza -2 parla il linguaggio della propria cultura, con 0 lo scrive. Per ogni punto pari o superiore a 2 parla e scrive un'altra lingua che sarà scelta alla creazione del personaggio. Per ogni punto speso nella Competenza Conoscenza Lingua parla e scrive un'altra lingua.
 
 Le lingue segnate con un * possono essere parlate solo da creature appartenenti a quella specie o gruppo culturale.
 

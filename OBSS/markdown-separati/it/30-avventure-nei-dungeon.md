@@ -73,7 +73,7 @@ Alcuni dungeon sono parzialmente occupati e parzialmente vuoti o in rovina. In q
 
 **Riparo Sicuro**: Quando qualcuno vuole proteggere una cosa, spesso la seppellisce sottoterra. Che l'oggetto che vuole proteggere sia un favoloso tesoro, un artefatto proibito o il cadavere di un uomo importante, questi oggetti di valore vengono posti all'interno di un dungeon e circondati da barriere, trappole e guardiani.
 
-Il dungeon del tipo riparo sicuro è quello che avrà più trappole e meno bestie erranti. E' normalmente costruito in base alla funzionalità piuttosto che all'aspetto, anche se a volte viene decorato con statue e pareti dipinte, specie per le tombe di personaggi importanti.
+Il dungeon del tipo riparo sicuro è quello che avrà più trappole e meno bestie erranti. È normalmente costruito in base alla funzionalità piuttosto che all'aspetto, anche se a volte viene decorato con statue e pareti dipinte, specie per le tombe di personaggi importanti.
 
 A volte, però, una sala del tesoro o una cripta vengono costruite in modo da ospitare guardiani viventi. Il problema con questa strategia è che occorre tenere in vita le creature tra un tentativo di intrusione e un altro. La magia è di solito la soluzione migliore per rifornire di cibo e acqua queste creature. I costruttori di tombe e sepolcri, di solito, pongono non morti e costrutti, che non hanno bisogno di sostentamento o di riposo, a protezione dei loro dungeon. Le trappole magiche possono attaccare gli intrusi convocando mostri nel dungeon che scompaiono quando terminano il loro compito.
 
@@ -126,7 +126,7 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 
 Le distanze scavate indicate si presume che siano ottenute con strumenti idonei come vanghe o picconi, altrimenti ridurre ad un terzo.
 
-**Pareti in Mattoni di pietra**: Il tipo più comune di parete per un dungeon, le pareti in pietre di solito sono spesse almeno 30 centimetri. Spesso queste antiche pareti presentano fori e fessure, all'interno dei quali possono annidarsi fanghiglie e piccole creature, che aspettano lì le loro prede. Le pareti di mattone di pietra sono in grado di bloccare tutti i rumori, tranne quelli più forti. E' necessaria una prova di Arrampicarsi con DC 20 per muoversi lungo una parete in mattoni.
+**Pareti in Mattoni di pietra**: Il tipo più comune di parete per un dungeon, le pareti in pietre di solito sono spesse almeno 30 centimetri. Spesso queste antiche pareti presentano fori e fessure, all'interno dei quali possono annidarsi fanghiglie e piccole creature, che aspettano lì le loro prede. Le pareti di mattone di pietra sono in grado di bloccare tutti i rumori, tranne quelli più forti. È necessaria una prova di Arrampicarsi con DC 20 per muoversi lungo una parete in mattoni.
 
 **Pareti in Mattoni in Pietra di Qualità Superiore**: Queste pareti sono spesso abbellite da dipinti, bassorilievi o altre decorazioni. Le pareti in mattoni di qualità superiore non sono più difficili da danneggiare delle normali pareti in mattoni, ma sono più difficili da Arrampicarsi (DC 25).
 
@@ -136,7 +136,7 @@ Le distanze scavate indicate si presume che siano ottenute con strumenti idonei 
 
 **Pareti di Pietra Grezza**: Queste superfici sono irregolari e raramente piatte. Di solito sono bagnate o perlomeno umide, in quanto le caverne naturali sono in genere il prodotto di infiltrazioni d'acqua. Quando una parete di questo tipo da un altro lato, la parete è di solito spessa almeno 150 centimetri.
 
-E' necessaria una prova di Arrampicarsi con DC 15 per muoversi lungo una parete di pietra grezza.
+È necessaria una prova di Arrampicarsi con DC 15 per muoversi lungo una parete di pietra grezza.
 
 **Pareti di Ferro**: Queste pareti sono poste all'interno dei dungeon intorno a luoghi importanti come le sale del tesoro.
 
@@ -162,7 +162,7 @@ Così come per le pareti, esistono molti tipi di pavimenti per dungeon.
 
 **Pavimento di Pietra Liscia**: Pavimenti lisci, perfetti e a volte anche levigati si trovano solo nei dungeon creati da costruttori capaci e attenti.
 
-**Pavimento di Pietra Naturale**: Il pavimento di una caverna naturale è irregolare quanto le pareti. E' difficile che queste caverne presentino ampie superfici piane; è più probabile che i loro pavimenti siano disposti su più livelli.
+**Pavimento di Pietra Naturale**: Il pavimento di una caverna naturale è irregolare quanto le pareti. È difficile che queste caverne presentino ampie superfici piane; è più probabile che i loro pavimenti siano disposti su più livelli.
 
 Alcune superfici potrebbero variare in elevazione di appena 30 centimetri, cosicché lo spostamento da un punto all'altro non sia più difficile del salire un gradino di una scala, ma in certi punti il pavimento potrebbe scendere o salire di oltre 1.5 metri, obbligando il personaggio a una prova di Arrampicarsi (pag ) per spostarsi da una superficie a un'altra.
 
@@ -257,7 +257,7 @@ I personaggi possono attaccare la porta e distruggerla, lasciando la sbarra appe
 
 **Sigilli Magici**: Incantesimi messi su una porta possono rendere ostico l'attraversamento di una porta.
 
-Una porta su cui è stato lanciato un blocco magico si considera chiusa anche se non ha fisicamente una serratura. E' necessario un incantesimo che scassina o dissolve le magie oppure una prova riuscita di sfondare per oltrepassare una porta chiusa in questo modo.
+Una porta su cui è stato lanciato un blocco magico si considera chiusa anche se non ha fisicamente una serratura. È necessario un incantesimo che scassina o dissolve le magie oppure una prova riuscita di sfondare per oltrepassare una porta chiusa in questo modo.
 
 **Cardini**: La maggior parte delle porte è dotata di cardini. Ovviamente le porte scorrevoli non lo sono (queste sono piuttosto dotate di solchi sul pavimento, che permettono loro di scorrere a lato con facilità).
 
@@ -348,7 +348,7 @@ La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, co
 **Fossa, DC 15**: il personaggio disattento farà crollare una sezione di 3m x 3m di pavimento su una fossa. Questa può essere una semplice fossa (1d6 di danno da caduta), con spuntoni (1d6+2d4), con acido (1d6 per round), con non morti...
 
 **Garrotte, DC 14**: questa trappola può essere molto insidiosa. Un filo affilato magicamente è a 1 metro da terra, tra una parete e quella opposta e scorre verso i giocatori.
-E' necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da taglio.
+È necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da taglio.
 
 **Porta schiacciante, DC 16**: questa porta appena toccata rotea su dei cardini centrali e roteando picchia il personaggio (o personaggi se un grande portone). Causa 1d6 di danni contundenti e continua a roteare per 1d6 round.
 

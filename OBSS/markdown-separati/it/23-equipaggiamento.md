@@ -26,7 +26,7 @@ A volte, però, in mezzo ai tesori compaiono monete insolite appartenute agli an
 
 Una moneta comune pesa circa dieci grammi cosicché cinquanta monete pesano mezzo chilo.
 
-Un personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per acquistare gli elementi di base: qualche arma, un'armatura di seconda mano (quella meno costosa) ed un pò di attrezzatura varia. **Al primo livello** i personaggi hanno monete ed equipaggiamento per un totale di **circa 100 mo**.
+Un personaggio che inizia a giocare generalmente ha monete d'oro sufficienti per acquistare gli elementi di base: qualche arma, un'armatura di seconda mano (quella meno costosa) ed un po' di attrezzatura varia. **Al primo livello** i personaggi hanno monete ed equipaggiamento per un totale di **circa 100 mo**.
 
 ### Monete
 

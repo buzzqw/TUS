@@ -2,7 +2,7 @@
 
 > If fate is against us, too bad for it. (motto of the 1st "Tuscania" Carabinieri Parachute Regiment)
 
-Each character has a number of Fate Points equal to (20 - Level)/5, rounded to the nearest integer, with a minimum of 1. Fate Points reset and are counted per game session.
+Each character has a number of Fate Points equal to (20 - Level)/5, rounded down, with a minimum of 1. Fate Points reset and are counted per game session.
 You recover one Fate Point each time you roll at least three 1s in a check.
 
 It doesn' \*\*t cost Actions to use a Fate Point and can be used to:

@@ -31,7 +31,7 @@ Nelle pagine seguenti troverete le regole e tabelle per attribuire i tesori ai n
 
 **Monete**: Le monete in un tesoro possono essere di rame, argento, oro e platino: quelle d'argento e d'oro sono le più comuni, ma potete decidere diversamente. Per le monete ed il loro valore di cambio andate all'Equipaggiamento.
 
-Le monete in possesso di mostri e creature selvagge non saranno certo fior di conio e saranno probabilmente segnate da morsi o bave appiccicose. Monete invece trovate nei tesori o in fondo a qualche tana potrebbero essere di altri regni, se non mondi.. ed in quel caso quello che li fa valere è lo stretto valore metallurgico. 10 grammi di oro sono sempre 10 grammi di oro anche se su una faccia della moneta c'è un fiore ed in un altra un castello.
+Le monete in possesso di mostri e creature selvagge non saranno certo fior di conio e saranno probabilmente segnate da morsi o bave appiccicose. Monete invece trovate nei tesori o in fondo a qualche tana potrebbero essere di altri regni, se non mondi.. ed in quel caso quello che li fa valere è lo stretto valore metallurgico. 10 grammi di oro sono sempre 10 grammi di oro anche se su una faccia della moneta c'è un fiore ed in un'altra un castello.
 
 Usate la Tabella Valore delle gemme  per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
 
@@ -61,7 +61,7 @@ Diversamente delle gemme, molti di questi oggetti hanno valori stabiliti, ma pot
 
 >>> **Attenzione ai tesori**: Non esagerate mai con i tesori, specialmente quelli magici. Un tesoro non deve diventare un abitudine. Un conto possono essere le monete, gemme e consumabili un conto sono i veri tesori, quelli magici, particolari, unici.
 
-Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, altrimenti gli verrà a noia il rischiare la vita per nuovi tesori ed oggetti. Quando fate trovare un oggetto magico ragionate sempre in prospettiva. E' vero che può essere bello vedere i giocatori felici per quello che hanno trovato ma poi sarete costretti l'avventura successiva a dare qualcosa di ancora più potente.
+Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, altrimenti gli verrà a noia il rischiare la vita per nuovi tesori ed oggetti. Quando fate trovare un oggetto magico ragionate sempre in prospettiva. È vero che può essere bello vedere i giocatori felici per quello che hanno trovato ma poi sarete costretti l'avventura successiva a dare qualcosa di ancora più potente.
 
 **Monili Preziosi** (500 mo o più): I monili preziosi sono realizzati in oro, mithral, platino, o simili metalli rari. Tali oggetti comprendono i tipi di monili normali più scettri, pendenti ed altri grandi oggetti.
 
@@ -77,7 +77,7 @@ Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, a
 
 Naturalmente, la scoperta di un Oggetto Magico è il vero premio per qualsiasi avventuriero. Fate attenzione a collocare gli Oggetti Magici in un tesoro: è molto più soddisfacente per molti giocatori trovare un oggetto magico piuttosto che comprarlo.
 
-Anche se in genere dovreste collocare gli oggetti con attenta riflessione sui loro probabili effetti sulla vostra campagna, può essere divertente generare gli oggetti magici in un tesoro a caso. Fate attenzione, comunque! è facile, con un pò di fortuna (o sfortuna) dei dadi gonfiare il vostro gioco con troppo tesoro o privarlo dello stesso. Il collocamento di oggetti magici casuali dovrebbe essere temperato sempre dal buon senso del Narratore.
+Anche se in genere dovreste collocare gli oggetti con attenta riflessione sui loro probabili effetti sulla vostra campagna, può essere divertente generare gli oggetti magici in un tesoro a caso. Fate attenzione, comunque! è facile, con un po' di fortuna (o sfortuna) dei dadi gonfiare il vostro gioco con troppo tesoro o privarlo dello stesso. Il collocamento di oggetti magici casuali dovrebbe essere temperato sempre dal buon senso del Narratore.
 
 Anche gli incantesimi sono veri e propri tesori e premi al pari di oggetti magici. Valutate con attenzione quali possono essere trovati. Ricordate che una abilità magica non è un incantesimo copiabile, solo quelli presenti nei tomi, pergamene e quant'altro appositamente creato per essere un ricettacolo di incantesimi è idoneo alla copia.
 

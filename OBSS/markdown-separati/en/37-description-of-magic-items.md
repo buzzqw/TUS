@@ -128,7 +128,7 @@ The *identify* spell reveals that a creature is inside the flask, but the only w
 
 **Aura:** Moderate necromancy; **Cost:** 3000 gp
 
-**Requirements:** Create Magic Items, Remove Poison; **Rarity:** Rare
+**Requirements:** Create Magic Items, Neutralize Poison; **Rarity:** Rare
 
 this **gem** hanging from a silver chain is black and shiny. The wearer has a +2 to Saving Throws against poison.
 
@@ -151,6 +151,14 @@ the bearer of this copper **amulet** becomes immune to possession and domination
 ### Amulet of Gangrene
 
 this engraved **gem** hanging from a chain appears to be of little value. If a character keeps it for more than 1 day, they are struck by a terrible gangrene that causes them to permanently lose 1 point of Dexterity, Constitution, and Charisma per week. The gem (and gangrene) can only be neutralized by Remove Curse and Remove Disease, followed by Healing or Wish. The gangrene can also be defeated by grinding an amulet of health and sprinkling the powder on the afflicted character.
+
+### Amulet of Health
+
+**Aura:** Moderate transmutation; **Cost:** 8000 gp
+
+**Requirements:** Create Magic Items 2, Bear' \*\*s Endurance; **Rarity:** Rare
+
+while wearing this **amulet**, your Constitution score becomes 19. This amulet has no effect on you if your Constitution is already 19 or higher.
 
 ### Amulet of Inevitable Location
 
@@ -175,6 +183,14 @@ while wearing this **amulet** you have a +2 to Fortitude Saving Throws.
 **Requirements:** Create Magic Items 3, Mental Shield; **Rarity:** Rare
 
 while wearing this **amulet** you are hidden from divination magic. You cannot be targeted by these magics or perceived through magical scrying sensors.
+
+### Amulet of the Planes
+
+**Aura:** Strong conjuration; **Cost:** 160000 gp
+
+**Requirements:** Create Magic Items 3, Plane Shift; **Rarity:** Very Rare
+
+while wearing this **amulet**, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the Plane Shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.
 
 ### Weapon Bane
 
@@ -594,6 +610,12 @@ when a charge is spent, the **wand** points in the direction of any metal mass o
 
 while holding this **wand**, you can use two actions to spend 1 or more of its charges to cast Arcane dart through it, as the eponymous spell. Each charge generates 1 dart. The wand has 7 charges. The wand regains 1d3+1 spent charges at dawn.
 
+### Wand of Comfort
+
+**Rarity:** Uncommon; **Cost:** 2500 gp
+
+while holding this **wand**, you can use two actions to spend 1 charge to touch a creature and remove one of the following conditions: frightened, charmed, or poisoned. The wand can also suppress pain, granting the target advantage on their next Constitution Saving Throw made within 1 hour. The wand has 7 charges and regains 1d6+1 spent charges each day at dawn.
+
 ### Wand of Lightning
 
 **Rarity:** Rare; **Cost:** 32000 gp
@@ -617,7 +639,7 @@ a **wand** of fire produces various spells and consumes 1 charge + level of the 
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
-a **wand** of fire produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Ray of Frost, Sleet Storm, ice storm, cone of cold. As long as the wand is held in hand, any 1s on the dice for cold damage it inflicts is considered as 2. The wand has 7 charges and recovers 1 at dawn.
+a **wand** of ice produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Ray of Frost, Sleet Storm, ice storm, cone of cold. As long as the wand is held in hand, any 1s on the dice for cold damage it inflicts is considered as 2. The wand has 7 charges and recovers 1 at dawn.
 
 ### Wand of the War Mage
 
@@ -928,7 +950,7 @@ If you succeed on a Saving Throw against an enchantment spell that targets only 
 
 The staff has 7 charges, and regains 1 expended charge daily at dawn.
 
-### Clapper of Cannibalism
+### Chime of Cannibalism
 
 this **object** appears to be a Clapper of Opening. It functions as such for the first round of use (and has 1d4×10 charges for this purpose). However, on the second ringing all creatures within 18 m must succeed on a Will Saving Throw DC 21 or fall prey to a voracious hunger, attacking the nearest humanoid to kill and devour it. A new Saving Throw is allowed on alternate rounds. If no humanoids are present, affected creatures will attack other creatures present.
 
@@ -1116,6 +1138,12 @@ This armor must be cleaned at least once a day or it loses its powers for a week
 
 this blue ceramic **jug** has a solid gold stopper. The jug contains 1d4+1 magic potions, each of which can be poured every 2 days. The specific potions are determined randomly, remain the same over time, and must always be poured in the same order. Not all are necessarily beneficial.
 
+### Decanter of Potions
+
+**Rarity:** Rare; **Cost:** 15000 gp
+
+this ornate crystal **decanter** weighs 2 pounds and appears to contain swirling colored liquids. Once per day at dawn, the decanter produces one random healing potion. You can use two actions to open the stopper and pour out the potion. Roll 1d6 to determine the potion type: 1-3 produces a Healing Potion (2d4+2 HP), 4-5 produces a Greater Healing Potion (4d4+4 HP), 6 produces a Superior Healing Potion (8d4+8 HP). The potion must be consumed or stored within 24 hours or it evaporates. The decanter can only hold one potion at a time.
+
 ### Candle of Invocation
 
 **Rarity:** Very Rare; **Cost:** 8000 gp
@@ -1194,7 +1222,7 @@ If you aren' \*\*t a dwarf, you gain the following additional benefits while wea
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
-this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 1d6 + 1 ounces. One ounce of the glue can cover a 1-foot square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
+this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 1d6 + 1 ounces. One ounce of the glue can cover a 1-meter square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
 
 ### Necklace of Prayer Beads
 
@@ -1335,6 +1363,12 @@ Each activation lasts one minute.
 **Rarity:** Rare; **Cost:** 2500 gp
 
 this cubic **pendant** is activated and deactivated by pressing one face (Immediate Action). When activated, it emanates a cubic protective field with a 3 m edge (similar to that of a force cube but with a different effect). The temperature inside the protective field is maintained at 21 °C. The field absorbs all cold attacks, completely negating them. If it negates more than 50 cold damage in one round (either from a single attack or multiple attacks), however, the magic field collapses and cannot be reactivated for an hour. If the field negates more than 100 cold damage in one round, the cube is destroyed.
+
+### Fire Extinguisher
+
+**Rarity:** Uncommon; **Cost:** 4500 gp
+
+this brass **cylinder** weighs 10 pounds and is covered with arcane runes. As two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
 
 ### Dancing
 
@@ -1533,7 +1567,7 @@ the **parchment** strip of this phylactery is usually enclosed in a small metal 
 
 you will be Charmed for 1 hour by the first creature you see within 10 minutes after drinking this **potion**. If the creature is of a species or gender you would normally be attracted to, you consider it your true love while you are Charmed.
 
-### Treasure Finding Potion
+### Treasure Finding Philter
 
 **Rarity:** Rare; **Cost:** 500 gp
 
@@ -2801,7 +2835,7 @@ a Devotee of Gradh or Sumkjr in possession of this item can cause a chasm of fla
 
 this **talisman** works exactly like the talisman of pure good but with the Patrons reversed.
 
-### Talisman of Poison Protection
+### Talisman of Protection from Poison
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
@@ -2977,6 +3011,12 @@ this **robe** has 3 charges, and regains 1 expended charge each day at dawn. Whi
 **Rarity:** Rare; **Cost:** 2500 gp
 
 when wearing this **robe**, a character immediately understands its power. A robe of blending allows the character to blend into the surroundings, whatever they may be, and to hide. You have +1d6 on Stealth checks to hide in shadows. The wearer can take on the appearance of another humanoid at will, as with the *Alter Self* spell (Change Appearance). In this case, the wearer' \*\*s friends and those who know them very well are instinctively aware of their true identity.
+
+### Robe of Camouflage
+
+**Rarity:** Uncommon; **Cost:** 3500 gp
+
+this **robe** has a shifting pattern that blends with the surrounding environment. While wearing this robe with its hood up, you have advantage on Dexterity (Stealth) checks made to hide, as the robe' \*\*s color shifts to camouflage you. Wisdom (Perception) checks made to see you have disadvantage. Pulling the hood up or down requires 2 Actions.
 
 ### Robe of the Archmage
 
@@ -3172,7 +3212,7 @@ The haversack has a few limitations. If overloaded, or if a sharp object cuts it
 
 Placing the haversack inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 3 meters of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way and cannot be reopened.
 
-### Hoe of the Titans
+### Mattock of the Titans
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 

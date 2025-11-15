@@ -29,7 +29,7 @@ If an ability ignores damage resistance, it will bypass the resistance even if I
 
 Certain creatures or Abilities confer the supernatural ability to resist damage from certain types of weapons or up to a certain amount (per attack).
 
-It usually takes the value of XX/ZZ, meaning how much damage (XX) is ignored if not attacked with (ZZ). Ignoring damage also means that effects connected to the attack do not work, such as poisons on the weapon. The damage is reducted after resistance and saving throws.
+It usually takes the value of XX/ZZ, meaning how much damage (XX) is ignored if not attacked with (ZZ). Ignoring damage also means that effects connected to the attack do not work, such as poisons on the weapon. The damage is reduced after resistance and saving throws.
 
 Certain weapons, particularly magical ones, can ignore DR 
 

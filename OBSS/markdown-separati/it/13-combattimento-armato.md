@@ -58,10 +58,10 @@ Le Azioni possono essere eseguite nell'ordine preferito.
 
 Nella tabella sottostante sono indicate le Azioni principali che un personaggio può fare, sono linee guida da seguire. Nel capitolo dedicato al combattimento e degli esempi d'uso delle competenze vengono elencate altre Azioni ed i loro costi relativi in Azioni.
 
-**Una Azione non può essere interrotta da un altra Azione, ma può essere seguita da una Azione di Reazione o da una Azione Immediata**. 
+**Una Azione non può essere interrotta da un'altra Azione, ma può essere seguita da una Azione di Reazione o da una Azione Immediata**. 
 Se un personaggio vuole fare più attacchi spostandosi nel campo di battaglia può usare una Azione per eseguire un attacco, usare una Azione di Movimento per spostarsi fino a tutto il suo movimento a disposizione, ed usare un ultima Azione di attacco per eseguire un ultimo singolo attacco, questo secondo attacco conta come attacco multiplo con le relative penalità.
 
-E' possibile **ritardare** una o più Azioni per aspettare lo svolgersi delle scene. Il personaggio che ritarda una sua Azione agisce per primo tra i soggetti che agiscono in quel valore di iniziativa, nei successivi round continuerà ad agire nel nuovo ordine di iniziativa. In questa maniera il giocatore ritarda volontariamente la sua iniziativa per inserirsi nell'ordine delle iniziative in un altro posto.
+È possibile **ritardare** una o più Azioni per aspettare lo svolgersi delle scene. Il personaggio che ritarda una sua Azione agisce per primo tra i soggetti che agiscono in quel valore di iniziativa, nei successivi round continuerà ad agire nel nuovo ordine di iniziativa. In questa maniera il giocatore ritarda volontariamente la sua iniziativa per inserirsi nell'ordine delle iniziative in un altro posto.
 
 Un giocatore che dichiara di aspettare una certa situazione per poter agire equivale ad eseguire una o più **Azioni Preparate**. In questo caso il personaggio (o nemico) agisce **dopo** l'Azione scatenante con le sue Azioni ma rimane nel suo ordine di iniziativa al termine del round.
 
@@ -130,7 +130,7 @@ Una Azione di **Reazione (R)** può essere eseguita liberamente anche fuori dal 
 
 Una Azione **Immediata (Imm.)** può essere eseguita liberamente nel proprio round, primo o dopo la propria Azione. Una Azione Immediata è solitamente concessa da particolari Abilità.
 
-E' possibile, se non descritto specificatamente nell'Abilità, eseguire solo una Azione Immediata ed una Azione di Reazione per round.
+È possibile, se non descritto specificatamente nell'Abilità, eseguire solo una Azione Immediata ed una Azione di Reazione per round.
 
 Questo **elenco non è completo**, prendetelo come linee guida per stabilire il peso delle decisioni ed azioni dei personaggi. Una Azione dura circa 3 secondi.
 
@@ -154,7 +154,7 @@ Una creatura o personaggio potrebbe anche decidere di spostarsi più velocemente
 
 L'Azione di Scatto è una Azione di Movimento particolare, consiste nel correre per quell'Azione.
 Se si esegue un'Azione di **Scatto** si raddoppiano i metri percorsi (2x9 metri per un umano), per un nano (Movimento 6m) significa fare 12 metri, in una Azione.
-E' anche possibile fare più Azioni di Scatto, fino a 3 in un round, ovvero correre per 6 volte il proprio movimento.
+È anche possibile fare più Azioni di Scatto, fino a 3 in un round, ovvero correre per 6 volte il proprio movimento.
 
 Il personaggio che fa una Azione di Scatto corre ed ha una penalità di 1d6 nel Tiro per Colpire, la Difesa diminuisce di 4 fino all'inizio del suo round successivo e si considera Distratto per il lancio di incantesimi.
 
@@ -323,7 +323,7 @@ Se nei primi 3 Tiri per Colpire fai tre volte 6 prenderai l'avversario indipende
 
 ## Tiro Critico
 
-Ogni qual volta hai colpito, tiri un **danno aggiuntivo della sola arma** per ogni margine di 8 che hai superato la Difesa con il tuto Tiro per Colpire, questo danno viene anche chiamato **danno critico**. Se hai fatto due Tiri Critici vuole dire che devi tirare 2 dadi di arma in più e che hai colpito con un margine tra +16 e +23!
+Ogni qual volta hai colpito, tiri un **danno aggiuntivo della sola arma** per ogni margine di 8 che hai superato la Difesa con il tutto Tiro per Colpire, questo danno viene anche chiamato **danno critico**. Se hai fatto due Tiri Critici vuole dire che devi tirare 2 dadi di arma in più e che hai colpito con un margine tra +16 e +23!
 
 >> **Esempio Tiro Critico**: Es tiro 6 4 5, tiro in aggiunta 6, tiro in aggiunta un 6, tiro in aggiunta 4, totale 31. La Difesa dell'avversario è 15. Come danno tiri 3 volte il danno dell'arma, una volta perché ho colpito ed due perché l'hai colpito con un margine di 16!.
 
@@ -418,13 +418,17 @@ Se attacco una prima volta, indipendente che sia con l'arma primaria o secondari
 
 Il bonus al danno dato dalla Forza sull'arma secondaria viene dimezzato. Se l'arma secondaria non è **Leggera** il Tiro per Colpire ha un ulteriore -3 al colpire (es. 0,-8,-10,-18..).
 
-E' possibile usare l'arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi con quell'arma.
+*Nota: Il -3 si applica solo agli attacchi effettuati con l'arma secondaria. Nell'esempio, 0 è il primo attacco (arma primaria), -8 è il secondo attacco (arma secondaria: -5 per attacco multiplo -3 per arma non leggera), -10 è il terzo attacco (arma primaria), -18 è il quarto attacco (arma secondaria: -15 per attacco multiplo -3 per arma non leggera).*
+
+È possibile usare l'arma secondaria per migliorare la Difesa di un punto ma non si possono fare attacchi con quell'arma.
 
 ## Carica 
 
 l'avversario deve essere entro 2 Azioni di movimento (18 o 12 metri solitamente) ed a non meno di 3 metri, il terreno non deve essere difficile (vedi anche Abilità Rinoceronte, pag. ). Si deve correre fino ad essere a distanza di mischia.
 
 Si ottiene un +1d6 a Tiro per Colpire, -4 alla Difesa fino all'inizio del proprio round successivo, l'attacco successivo al primo prende un -10 al colpire ed un eventuale successivo -15, 20...
+
+*Nota: La progressione degli attacchi durante la carica (+1d6, -10, -15, -20...) è diversa dagli attacchi multipli standard (0, -5, -10, -15...). Questa differenza è intenzionale: effettuare un secondo attacco dopo una carica è più difficile rispetto ad attacchi multipli normali.*
 
 Il movimento ed attacco costa 2 Azioni. Non si considerano altre penalità per avere corso oltre quelli indicati.
 
@@ -450,7 +454,7 @@ In caso l'attacco manchi (di almeno 5) tirare un d8 e consultare questo schema p
 
 Ad esempio con il tiro del d8 faccio 5 e poi tirando 2d6 faccio 4, significa che la boccetta è caduta a destra del bersaglio a 4 metri.
 
-E' anche possibile che ci si sia tirati sui piedi la boccetta (es faccio 7 e poi 6.. potrei averla tirata addosso ad un compagno o dietro di me!).
+È anche possibile che ci si sia tirati sui piedi la boccetta (es faccio 7 e poi 6.. potrei averla tirata addosso ad un compagno o dietro di me!).
 
 ## Impreparato -- Colti di Sorpresa
 
@@ -612,7 +616,7 @@ Non può usare Azioni di Movimento mentre prende la mira.
 
 ### Arma da lancio contro obiettivi in combattimento 
 
-In combattimento non è facile mirare un obiettivo che è in combattimento con un altra creatura.
+In combattimento non è facile mirare un obiettivo che è in combattimento con un'altra creatura.
 
 Oltre le eventuali penalità date della Copertura  si ha una penalità aggiuntiva di -2 al Tiro per Colpire.
 
@@ -739,7 +743,7 @@ Ogni round può *usare* uno o più Tiri Critici accumulati per eseguire Azioni C
 L'elenco propone l'elenco delle Azioni Critiche di Tiri Critici consumati. Non si possono avere più di 6 Tiri Critici accumulati per singolo round.
 L'attivazione di queste Azioni Critiche costa una Reazione se non indicato diversamente.
 
-Usate questi esempi come delle linee guida per stimolare il personaggio a creare un suo stile di combattimento. E' importante che il personaggio descriva come attiva l'Azione Critica.
+Usate questi esempi come delle linee guida per stimolare il personaggio a creare un suo stile di combattimento. È importante che il personaggio descriva come attiva l'Azione Critica.
 
 **Critici** \hskip 0.5cm **Effetto**
 

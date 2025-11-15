@@ -73,7 +73,7 @@ At character creation, the player can decide to take a +1 to an already known Sk
 
 The character acquires a Skill at score 1 for each point of Intelligence greater than 2, and loses 1 point in a Skill for each point of Intelligence less than 0.
 
-The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuuild as a hobby, it could also be Strength.
+The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuild as a hobby, it could also be Strength.
 
 >> **Profession ???**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
 
@@ -92,7 +92,7 @@ The player **increases by 1 the score of an Ability Score that connects to the P
 |  | Appraise | Track | |
 |  |  |  | Survival | |
 
-**Knowledge** must be specified on which subject it covers: Architecture and Engineering, Dungeon, Geography, Law, Languages (terrestrial or not), Myths and Legends, Nobility and Heraldry, Occult, Planes, Religion, History, Ancient Technology...
+The **Knowledge** skill must specify which subject it covers: Architecture and Engineering, Dungeon, Geography, Law, Languages (terrestrial or not), Myths and Legends, Nobility and Heraldry, Occult, Planes, Religion, History, Ancient Technology...
 
 At each **level after the first**, distribute a number of points equal to half the Intelligence score +1, $[(Int/2)+1]$, with a minimum of 1 point, among the skills already known or perfected in the adventure or newly learned.
 
@@ -122,7 +122,7 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Acrobatics* (DEX)**: This skill is used to maintain balance on narrow or precarious surfaces, to dive, roll, do somersaults, backflips, overcome obstacles, and fall without getting hurt. 1 Action.
 
-**Appraise (INT)**: With this skill, you know how to estimate the monetary value of an object. The difficulty is based on the rarity of the object, DC 12 + 2 common, 4 uncommon, 8 rare, 12 very rare, 16 legendary. 1 Action every 5 of DC. With 6 points the time is 1 Action every 10 of DC, with score 12 it is 1 Action every 20 DC. 
+**Appraise (INT)**: With this skill, you know how to estimate the monetary value of an object. The difficulty is based on the rarity of the object, DC 12 + 2 common, 4 uncommon, 8 rare, 12 very rare, 16 legendary. 1 Action for every 5 points of DC. With 6 points the time is 1 Action for every 10 points of DC, with score 12 it is 1 Action for every 20 points of DC. 
 
 **Athletics* (STR)**: With this skill, you are an expert athlete, capable of prodigious jumps and exceptional tests of Strength. 1 Action.
 
@@ -166,9 +166,9 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Forgery (INT)**: With this skill, you know how to forge and recognize as false art objects, maps, signatures... Variable cost.
 
-**Handle Animals (WIS)**: With this skill, it is possible to train and tame animals. 1 minute every 5 of DC. With 6 points the time is 1 minute every 10 of DC, with 12 it is 1 minute every 15 DC.
+**Handle Animals (WIS)**: With this skill, it is possible to train and tame animals. 1 minute for every 5 points of DC. With 6 points the time is 1 minute for every 10 points of DC, with 12 it is 1 minute for every 15 points of DC.
 
-**Herbalism (INT)**: With this skill, you have knowledge of how to recognize and prepare natural potions and poisons. The score applies to attempts to brew potions. Recognize natural Potions 1 Action every 10 of DC. With 6 points the time is 1 Action every 15 of DC, with 12 points it is 1 Action every 20 DC.
+**Herbalism (INT)**: With this skill, you have knowledge of how to recognize and prepare natural potions and poisons. The score applies to attempts to brew potions. Recognize natural Potions 1 Action for every 10 points of DC. With 6 points the time is 1 Action for every 15 points of DC, with 12 points it is 1 Action for every 20 points of DC.
 
 **Intimidate (STR)**: Intimidate is based on the physical approach to convince the interested party. 1 Action.
 
@@ -188,11 +188,11 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Stealth* (DEX)**: With this skill, you are able to move without causing noise or hide in the shadows. 1 Action.
 
-**Survival (WIS)**: With this skill, you can survive and orient yourself in the wilderness. The skill is also used to actively search for traps and pits. 1 minute to search for traps in 3x3 meters, with score 6 costs 3 rounds, with score of 12 costs 1 round, with score 18 costs 1 Action.
+**Survival (WIS)**: With this skill, you can survive and orient yourself in the wilderness. The skill is also used to actively search for traps and pits. 1 minute to search for traps in a 3x3 meter area, with score 6 costs 3 rounds, with score of 12 costs 1 round, with score 18 costs 1 Action.
 
 **Swim* (STR)**: With this skill, you are able to swim, even in stormy waters. Without the skill, you know how to float in calm waters. Linked to the Movement Action.
 
-**Track (WIS)**: With this skill, you know how to follow tracks left in the environment. 1 Action every 10 of DC. With 6 points the time is 1 Action every 15 of DC, with 12 points it is 1 Action every 20 DC.
+**Track (WIS)**: With this skill, you know how to follow tracks left in the environment. 1 Action for every 10 points of DC. With 6 points the time is 1 Action for every 15 points of DC, with 12 points it is 1 Action for every 20 points of DC.
 
 **Use Rope (DEX)**: With this skill, you are expert in bindings and knots to fix and block objects or people. 2 Actions.
 
@@ -278,7 +278,7 @@ The Magic Proficiency point, unlike the Weapon Proficiency one, does not need to
 
 It is necessary to have at least 1 point in Magic Proficiency if you want to be a user of magic, if you want to know how magic works and its connection with Patrons.
 
-It is not strictly necessary to always put the Active Proficiency point in Magic Proficiency if you want to be a spellcaster; indeed, some points in Weapon Proficiency are also useful for the most skilled mage if they want to know how to *aim and hit* an opponent with something other then a spell.
+It is not strictly necessary to always put the Active Proficiency point in Magic Proficiency if you want to be a spellcaster; indeed, some points in Weapon Proficiency are also useful for the most skilled mage if they want to know how to *aim and hit* an opponent with something other than a spell.
 
 A Magic Proficiency score of 14 and having taken Magic Adept 4 times, with a 4 in the ability score modifier for spells, is sufficient to be able to cast maximum level spells. MP 9 and Magic Adept taken three times can guarantee you sixth level spells.
 

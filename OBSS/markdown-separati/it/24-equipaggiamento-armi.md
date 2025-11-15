@@ -148,7 +148,7 @@ In questo caso essendo le penalità superiori ai 3d6 il personaggio non tira dad
 
 ### Le armi antiche
 
-E' possibile trovare ancora delle armi antiche funzionanti, armi che dopo 100 anni ancora possono essere usate.
+È possibile trovare ancora delle armi antiche funzionanti, armi che dopo 100 anni ancora possono essere usate.
 
 La maggior parte delle armi da fuoco dopo un lasso di tempo così lungo richiedono pezzi di ricambio ed una continua manutenzione. Questi pezzi di ricambio sono molto rari da trovare integri ed ancora più difficile è trovare un artigiano che sappia farli.
 

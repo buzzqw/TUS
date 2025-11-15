@@ -200,7 +200,7 @@ Organization: Solitary
 | See Ancient Blue Dragon Description. |
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
-| - Deadly Fog |
+| - Cloudkill |
 | - Call Lightning |
 
 - Ice Storm
@@ -238,15 +238,15 @@ Organization: Solitary
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Fiery Breath.* The dragon exhales fire in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 26 Reflex Saving Throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
+*Fiery Breath.* The dragon exhales fire in a 60-meter line that is 5 meters wide. Each creature in that line must make a DC 26 Reflex Saving Throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
 
-*Sleep Breath.* The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 26 Fortitude Saving Throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
+*Sleep Breath.* The dragon exhales sleep gas in a 60-meter cone. Each creature in that area must succeed on a DC 26 Fortitude Saving Throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
 
 **Additional Actions**
 
 The dragon can take 3 Additional Actions, choosing from the options below. It can use only one Additional Action option at a time and only at the end of another creature' \*\*s turn. The dragon regains spent Additional Actions at the start of its turn.
 
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 26 Reflex Saving Throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 meters of the dragon must succeed on a DC 26 Reflex Saving Throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 **Tail Attack.** The dragon makes a tail attack.
 
@@ -367,7 +367,7 @@ Organization: Solitary
 
 *Hit:* 13 (2d6 + 6) slashing damage, 1 Bleeding damage.
 
-***Tail.** Melee Weapon Attack*: +13 to hit, reach 15 feet, one target.
+***Tail.** Melee Weapon Attack*: +13 to hit, reach 15 meters, one target.
 
 *Hit:* 15 (2d8 + 6) bludgeoning damage.
 
@@ -379,15 +379,15 @@ Organization: Solitary
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Acid Breath.* The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 27 Reflex Saving Throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+*Acid Breath.* The dragon exhales acid in a 60-meter line that is 5 meters wide. Each creature in that line must make a DC 27 Reflex Saving Throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
-*Slowing Breath.* The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 27 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
+*Slowing Breath.* The dragon exhales gas in a 90-meter cone. Each creature in that area must succeed on a DC 27 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
 **Additional Actions**
 
 The dragon can take 3 Additional Actions, choosing from the options below. It can use only one Additional Action option at a time and only at the end of another creature' \*\*s turn. The dragon regains spent Additional Actions at the start of its turn.
 
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 27 Reflex Saving Throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 10 meters of the dragon must succeed on a DC 27 Reflex Saving Throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 **Tail Attack.** The dragon makes a tail attack.
 
@@ -554,7 +554,7 @@ Organization: Solitary
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
 | - Anti-Life Shell |
-| - Locate Animals and Plants |
+| - Locate Animals or Plants |
 
 - Neutralize Poison
 
@@ -929,7 +929,7 @@ They don' \*\*t get along with purple dragons, which they despise for having cho
 | **Spells** |
 | --- |
 | This Dragon' \*\*s preferred spells are: |
-| - Deadly Fog |
+| - Cloudkill |
 | - Call Lightning |
 
 - Ice Storm
@@ -1088,7 +1088,7 @@ Organization: Solitary
 - **Languages**: Common, Draconic
 - **Challenge**: 21 (33000 XP)
 
-***Corrosive Gases.*** The dragon emits corrosive gases in a 10-foot radius that deal 2d6 acid damage per round.
+***Corrosive Gases.*** The dragon emits corrosive gases in a 10-meter radius that deal 2d6 acid damage per round.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -1104,7 +1104,7 @@ Organization: Solitary
 
 *Hit:* 17 (2d8 + 8) bludgeoning damage.
 
-***Bite.** Melee Weapon Attack*: +16 to hit, reach 15 feet, one target.
+***Bite.** Melee Weapon Attack*: +16 to hit, reach 15 meters, one target.
 
 *Hit:* 19 (2d10 + 8) piercing damage.
 
@@ -1112,9 +1112,9 @@ Organization: Solitary
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Acid Breath.* The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 34 Reflex Saving Throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
+*Acid Breath.* The dragon exhales acid in a 90-meter line that is 10 meters wide. Each creature in that line must make a DC 34 Reflex Saving Throw, taking 63 (14d8) acid damage on a failed save, or half as much damage on a successful one.
 
-*Slowing Breath.* The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 34 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
+*Slowing Breath.* The dragon exhales gas in a 90-meter cone. Each creature in that area must succeed on a DC 34 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
 ***Change Shape.*** The dragon can magically polymorph into a humanoid or beast that has a challenge rating no higher than its own, or back into its true form. It reverts to its true form if it dies. Any equipment it is wearing or carrying is absorbed or worn by the new form (the dragon' \*\*s choice).
 
@@ -1126,7 +1126,7 @@ are otherwise replaced by those of the new form, except any Additional Actions o
 
 The dragon can take 3 Additional Actions, choosing from the options below. It can use only one Additional Action option at a time and only at the end of another creature' \*\*s turn. The dragon regains spent Additional Actions at the start of its turn.
 
-**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 feet of the dragon must succeed on a DC 34 Reflex Saving Throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
+**Wing Attack (Costs 2 Actions).** The dragon beats its wings. Each creature within 15 meters of the dragon must succeed on a DC 34 Reflex Saving Throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
 
 **Tail Attack.** The dragon makes a tail attack.
 
@@ -1295,7 +1295,7 @@ Among the many dragons, the green one is perhaps the one that will talk to adven
 | --- |
 | This Dragon' \*\*s preferred spells are: |
 | - Anti-Life Shell |
-| - Locate Animals and Plants |
+| - Locate Animals or Plants |
 
 - Neutralize Poison
 
@@ -1701,7 +1701,7 @@ Cantrips (at will): *Sacred Flame, Thaumaturgy*
 
 *Hit:* 17 (2d6 + 10) slashing damage, 1 Bleeding damage.
 
-***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder, and the effect is different, as detailed below. Each creature within 500 feet of the sphinx and able to hear the roar must make a saving throw.
+***Roar (3/Day).*** The sphinx emits a magical roar. Each time it roars before finishing a long rest, the roar is louder, and the effect is different, as detailed below. Each creature within 500 meters of the sphinx and able to hear the roar must make a saving throw.
 
 **First Roar.** Each creature that fails a Will Saving Throw DC 30 is frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -1709,7 +1709,7 @@ Cantrips (at will): *Sacred Flame, Thaumaturgy*
 
 **Third Roar.** Each creature makes a Fortitude Saving Throw DC 30. On a failed save, a creature takes 44 (8d10) thunder damage and is knocked prone. On a successful save, the creature takes half as much damage and isn' \*\*t knocked prone.
 
-**Reaction: *Opportunity Attack***: the sphinx makes a Claw attack against a creature that moves through or out of its 3-foot reach.
+**Reaction: *Opportunity Attack***: the sphinx makes a Claw attack against a creature that moves through or out of its 3-meter reach.
 
 **Legendary Actions**
 
@@ -1735,7 +1735,7 @@ Androsphinxes, the most powerful of common sphinxes, believe they represent all 
 
 Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an appeal to treat. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
 
-Androsphinxes are 12 feet tall and weigh 1,100 pounds.
+Androsphinxes are 12 meters tall and weigh 1,100 pounds.
 
 ### Animated Armor
 
@@ -1808,7 +1808,7 @@ Some ankhegs are trainable and can become beasts of burden, although their unpre
 | --- |
 Environment: Temperate oceans
 
-Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant, company (11-60 plus 3 3rd-level lieutenants, 2 5th-level commanders, 1 7th-level commodore and 3-12 Squids
+Organization: Solitary, patrol (2-6), band (6-10 plus one 3rd-level lieutenant), company (11-60 plus 3 3rd-level lieutenants, 2 5th-level commanders, 1 7th-level commodore and 3-12 Squids)
 | **Treasure Category**: NPC Equipment (Trident, Light Crossbow with 10 Bolts, N) |
 | **Description** |
 
@@ -2210,7 +2210,7 @@ Damned to the depths of his soul, the Black Knight is the antithesis of the knig
 
 ***Amorphous.*** The black pudding can move through a space as narrow as 1 inch wide without squeezing.
 
-***Corrosive Form.*** A creature that touches the pudding or hits it with a melee attack while within 5 feet of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If the penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
+***Corrosive Form.*** A creature that touches the pudding or hits it with a melee attack while within 5 meters of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If the penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
 The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
@@ -2232,7 +2232,7 @@ Organization: Solitary
 | **Treasure Category**: None |
 | **Description** |
 
-Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 feet and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
+Black puddings are the scavengers of the underground world, constantly searching for food. They can sense organic or metallic bodies within 60 meters and instinctively attack such objects or beings until they dissolve them, or until the ooze is killed. A black pudding reproduces by breaking off a piece of its body and forming a smaller new pudding that reaches adulthood within a month. Some of the more intelligent creatures in the underground world use black puddings for natural garbage disposal, creating stone cavities designed to house the pudding, and then throwing in organic waste or enemies.
 
 ### Blue Dragon Wyrmling
 
@@ -2426,9 +2426,9 @@ It is said that Shayalia' \*\*s garden is full of Brain Eaters. A Brain Eater is
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Fiery Breath.* The dragon exhales fire in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Reflex Saving Throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
+*Fiery Breath.* The dragon exhales fire in a 20-meter line that is 5 meters wide. Each creature in that line must make a DC 12 Reflex Saving Throw, taking 14 (4d6) fire damage on a failed save, or half as much damage on a successful one.
 
-*Sleep Breath.* The dragon exhales sleep gas in a 15-foot cone. Each creature in that area must succeed on a DC 12 Fortitude Saving Throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
+*Sleep Breath.* The dragon exhales sleep gas in a 15-meter cone. Each creature in that area must succeed on a DC 12 Fortitude Saving Throw or fall unconscious for 1 minute. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
 
 | **Ecology** |
 | --- |
@@ -2800,7 +2800,7 @@ A clay golem can be sculpted from a single block of clay weighing at least 500 k
 - **Ability**: Str 3 Dex 2 Con 1 Int 1 Wis 1 Cha 2
 - **Hit Points**: \resizedown{{{160, **Defense:** 24, **Initiative:** +2}
 - **Movement**: 3 m, fly 12 m
-- **S. Throws**: \resizedown{{{{Fortitude +9, Reflex +10, Will +9
+- **S. Throws**: \resizedown{{Fortitude +9, Reflex +10, Will +9
 - **Skills**: Stealth +5
 - **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Deep Speech
@@ -2944,9 +2944,9 @@ The cockatrice' \*\*s strange ability to turn other creatures to stone is its be
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Acid Breath.* The dragon exhales acid in a 20-foot line that is 5 feet wide. Each creature in that line must make a DC 12 Reflex Saving Throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
+*Acid Breath.* The dragon exhales acid in a 20-meter line that is 5 meters wide. Each creature in that line must make a DC 12 Reflex Saving Throw, taking 18 (4d8) acid damage on a failed save, or half as much damage on a successful one.
 
-*Slowing Breath.* The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 12 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
+*Slowing Breath.* The dragon exhales gas in a 90-meter cone. Each creature in that area must succeed on a DC 12 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
 | **Ecology** |
 | --- |
@@ -3576,7 +3576,7 @@ Driders are sexually dimorphic. The spider-like lower body of a female drider is
 
 ***Tree Stride.*** Once on her turn, the dryad can use 1 Action to magically enter a living tree within her reach
 
-and emerge from another living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
+and emerge from another living tree within 60 meters of the first tree, appearing in an unoccupied space within 5 meters of the second tree. Both trees must be Large or bigger.
 
 ***Innate Spellcasting.*** The dryad' \*\*s innate spellcasting ability is Charisma (DC 14 for spells' \*\* Saving Throws). The dryad can innately cast the following spells, requiring no material components. At will:
 
@@ -3821,7 +3821,7 @@ Environment: Temperate Forests
 Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 | **Treasure Category**: C |
 | **Description** |
-| Ettercaps are humanoids usually 6 feet tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
+| Ettercaps are humanoids usually 6 meters tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
 | Ettercaps are known for building cunning traps made of webs and other natural materials, which they use to catch prey. They build web shelters among the highest branches of trees away from other ground predators, and use monstrous spiders as sentries and guardians. |
 
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
@@ -4191,7 +4191,7 @@ Probably the result of some transformation spell gone wrong, G.C.B.s are masters
 
 ***Bite.** Melee Weapon Attack*: +5 to hit, touch, one target.
 
-*Hit:* 3 (1d1 + 2) piercing damage.
+*Hit:* 3 (1d4 + 2) piercing damage.
 
 | **Ecology** |
 | --- |
@@ -4323,7 +4323,7 @@ An unusual variant of the gargoyle does not dwell among buildings and ruins but 
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 2 Dex -4 Con 5 Int -5 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{53, **Defense:** 10, **Initiative:** -4}
-- **Movement**: 15 feet
+- **Movement**: 15 meters
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +3}
 - **Dam. Imm.**: non-magical slashing weapons, damage from
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
@@ -4334,7 +4334,7 @@ An unusual variant of the gargoyle does not dwell among buildings and ruins but 
 
 Creatures inside the cube are visible but have total cover.
 
-A creature within 5 feet of the cube can take an Action to pull a creature or object out of the cube. Doing so requires a successful Athletics check DC 14, and the creature making the attempt takes 10 (3d6) acid damage.
+A creature within 5 meters of the cube can take an Action to pull a creature or object out of the cube. Doing so requires a successful Athletics check DC 14, and the creature making the attempt takes 10 (3d6) acid damage.
 
 The cube can hold only one Large creature or up to four Medium or smaller creatures at a time.
 
@@ -4348,11 +4348,11 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 ***Engulf.*** The cube moves up to its speed. While doing so, it can enter the space of a Large or smaller creature. Whenever the cube enters a creature' \*\*s space, the creature must make a Reflex Saving Throw DC 13.
 
-If the Saving Throw succeeds, the creature can choose to be pushed back or to the side 5 feet. A creature that chooses not to be pushed takes the consequences of a failed Saving Throw.
+If the Saving Throw succeeds, the creature can choose to be pushed back or to the side 5 meters. A creature that chooses not to be pushed takes the consequences of a failed Saving Throw.
 
 If the Saving Throw fails, the cube enters the creature' \*\*s space, the creature takes 10 (3d6) acid damage and is engulfed. The engulfed creature can' \*\*t breathe, is restrained, and takes 21 (6d6) acid damage at the start of the cube' \*\*s turn. When the cube moves, the engulfed creature moves with it.
 
-An engulfed creature can try to escape by taking an Action to make a Fortitude Saving Throw with Strength DC 14. If it succeeds, the creature escapes and enters a space of its choice within 5 feet of the cube.
+An engulfed creature can try to escape by taking an Action to make a Fortitude Saving Throw with Strength DC 14. If it succeeds, the creature escapes and enters a space of its choice within 5 meters of the cube.
 
 **Ecology**
 
@@ -4367,7 +4367,7 @@ Among the most unusual and peculiar dungeon predators, gelatinous cubes spend th
 
 Some sages believe these creatures evolved from Gray Oozes. Some beings use gelatinous cubes as guardians of dungeons and underground fortifications, trapping these immense creatures in massive metal crates and transporting them with powers or magic to their final guard post. They are particularly effective waste disposal mechanisms; a tribe may trap a gelatinous cube in a pit or another area it cannot climb, using it as a dump or even as a deadly trap, depending on the ingenuity of the creatures that captured it.
 
-Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
+Gelatinous cubes typically have a 10-meter edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
 ### Generic Air Elemental
 
@@ -4388,11 +4388,11 @@ Gelatinous cubes typically have a 10-foot edge and weigh more than 16,500 pounds
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
-| ***Slam.** Melee Weapon Attack*: +CR/2+STR to hit, reach CR/3 feet, one target. |
+| ***Slam.** Melee Weapon Attack*: +CR/2+STR to hit, reach CR/3 meters, one target. |
 | *Hit:* 1d6*CR/3 bludgeoning damage. |
-| **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach. |
+| **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-meter reach. |
 
-***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 feet it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
+***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 meters it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn' \*\*t flung away or knocked prone.
 
 ### Generic Earth Elemental
@@ -4415,10 +4415,10 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 | ***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn' \*\*t disturb the material it moves through. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
-| ***Slam.** Melee Weapon Attack*: +CR to hit, reach CR/6 feet, one target. |
+| ***Slam.** Melee Weapon Attack*: +CR to hit, reach CR/6 meters, one target. |
 | *Hit:* CR*3 bludgeoning damage. |
 
-**Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
+**Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-meter reach.
 
 ### Generic Fire Elemental
 
@@ -4435,16 +4435,16 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 
 | - **Challenge**: CR |
 | --- |
-| ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
-| ***Illumination.*** The elemental sheds bright light in a CR*7-foot radius and dim light for an additional CR*13 feet. |
+| ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 meters of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
+| ***Illumination.*** The elemental sheds bright light in a CR*7-meter radius and dim light for an additional CR*13 meters. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
-| ***Water Susceptibility.*** The elemental takes 1 cold damage for every 5 feet it moves in water, or for every gallon of water splashed on it. |
+| ***Water Susceptibility.*** The elemental takes 1 cold damage for every 5 meters it moves in water, or for every gallon of water splashed on it. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two touch attacks. |
-| ***Slam.** Melee Weapon Attack*: +CR/2+STR to hit, reach CR/3 feet, one target. |
+| ***Slam.** Melee Weapon Attack*: +CR/2+STR to hit, reach CR/3 meters, one target. |
 | *Hit:* CR*2 fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an Action to douse the fire, the target takes CR fire damage at the start of each of its turns. |
 
-**Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach.
+**Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-meter reach.
 
 ### Generic Water Elemental
 
@@ -4461,17 +4461,17 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 
 | - **Challenge**: CR |
 | --- |
-| ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn. |
+| ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 meters until the end of its next turn. |
 | ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
-| ***Slam.** Melee Weapon Attack*: +CR/2+STR to hit, reach CR/3 feet, one target. |
+| ***Slam.** Melee Weapon Attack*: +CR/2+STR to hit, reach CR/3 meters, one target. |
 | *Hit:* CR*1d8 bludgeoning damage. |
-| **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-foot reach. |
+| **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-meter reach. |
 | ***Whelm (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR+CR/5 Fortitude Saving Throw. On a failure, a target takes (1d8+1)*CR/2 bludgeoning damage. If it is of size CR/3 >=4, the target is also grappled (CR*2 DC to escape). Until this grapple ends, the target can' \*\*t breathe unless it can breathe water. If the Saving Throw is successful, the target is pushed out of the elemental' \*\*s space. |
 
-The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the start of each of the elemental' \*\*s turns, each target grappled by it takes (1d6)*CR/2 bludgeoning damage. A creature within 10 feet of the elemental can pull a creature or object out of it by taking an Action to make a Strength Fortitude Saving Throw check with DC 2+CR*2.
+The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the start of each of the elemental' \*\*s turns, each target grappled by it takes (1d6)*CR/2 bludgeoning damage. A creature within 10 meters of the elemental can pull a creature or object out of it by taking an Action to make a Strength Fortitude Saving Throw check with DC 2+CR*2.
 
 ### Ghast
 
@@ -4604,8 +4604,8 @@ Although many surface ghouls live primitively, rumors speak of ghoul cities deep
 - **Hit Points**: \resizedown{{{125, **Defense:** 22, **Initiative:** +2}
 - **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +8, Reflex +8, Will +7}
-- **Dam. Imm.**: Poison, from Void, from critical, bleeding,
-- **Immunities**: charmed, fatigued,
+- **Dam. Imm.**: Poison, Void, Critical, Bleeding
+- **Immunities**: charmed, fatigued
 - **Damage Res.**: non-magical weapons or silver
 - **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Common, Expiran
@@ -4912,7 +4912,7 @@ Goblins prefer to live in caves, dense forests, and when available in abandoned 
 
 Goblins are very superstitious and view magic with a mixture of awe and fear. Everything they don' \*\*t understand is magic to them, which leads them to be extremely suspicious of everything and to destroy everything, since what they don' \*\*t understand must be destroyed.
 
-Goblins are voracious and can eat enormous amounts of food. A goblin won' \*\*t refuse to eat anything except perhaps salad..
+Goblins are voracious and can eat enormous amounts of food. A goblin won' \*\*t refuse to eat anything except perhaps salad.
 
 ### Gold Dragon Wyrmling
 
@@ -5097,7 +5097,7 @@ Organization: Solitary or coven (3 hags of any type)
 | --- |
 | **Description** |
 
-Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 feet tall and weighs just under 175 pounds.
+Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 meters tall and weighs just under 175 pounds.
 
 ### Grick
 
@@ -5195,7 +5195,7 @@ Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70
 
 ***Stone Camouflage.*** The grimlock has +1d6 on Stealth (Hiding) checks made to hide on rocky terrain.
 
-***Blind Senses.*** The grimlock can' \*\*t use its blindsight while deafened and can' \*\*t smell.
+***Blind Senses.*** The grimlock can' \*\*t use its blindsight while deafened and unable to smell.
 
 ***Keen Hearing and Smell.*** The grimlock has +1d6 on Awareness checks based on hearing or smell.
 
@@ -5253,7 +5253,7 @@ Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 
 *Hit:* The target must make a Fortitude Saving Throw DC 23, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
-**Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
+**Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-meter reach.
 
 | **Ecology** |
 | --- |
@@ -5263,7 +5263,7 @@ Organization: Solitary, pair, or nest (3-6)
 | **Treasure Category**: R |
 | **Description** |
 
-Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 feet and weighs approximately 375 pounds.
+Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 meters and weighs approximately 375 pounds.
 
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
@@ -5303,7 +5303,7 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
-**Reaction: *Opportunity Attack***: the sphinx makes a Claw attack against a creature that moves through or out of its 3-foot reach.
+**Reaction: *Opportunity Attack***: the sphinx makes a Claw attack against a creature that moves through or out of its 3-meter reach.
 
 **Legendary Actions**
 
@@ -5332,7 +5332,7 @@ Sphinxes love complicated riddles and enigmas, and treasure unusual facts and ar
 
 Although not great scholars in the traditional sense, sphinxes' \*\* great appreciation for riddles leads them to conduct research in a wide variety of subjects, often making them a valuable source of information, especially when they use their magical abilities. They are usually happy to have contact with other races, and regularly offer material goods in exchange for information or new and interesting riddles. They are excellent guardians of temples, tombs, and other important places, as long as they are adequately entertained. Sphinxes place great importance on politeness, but can be capricious: they may altruistically decide to share their latest riddles with travelers but don' \*\*t think twice about devouring them if they don' \*\*t pay enough attention or provide any useful clues to their solution.
 
-A typical sphinx is 10 feet long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
+A typical sphinx is 10 meters long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
 ### Harpy
 
@@ -5393,13 +5393,13 @@ Harpies are markedly different depending on the region where they live. Some res
 
 ***Keen Hearing and Smell.*** The hound has +1d6 on Perception checks based on hearing or smell.
 
-***Pack Tactics.*** The hound has +1d6 to attack rolls against a creature if at least one of the hound' \*\*s allies is within 3 feet of the creature and the ally isn' \*\*t incapacitated.
+***Pack Tactics.*** The hound has +1d6 to attack rolls against a creature if at least one of the hound' \*\*s allies is within 3 meters of the creature and the ally isn' \*\*t incapacitated.
 
 **Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 3 ft, one target.
 
 *Hit:* 7 (1d6 + 3) piercing damage plus 7 (2d6) fire damage.
 
-***Fire Breath (Recharge 5-6).*** The hound exhales fire in a 15-foot cone. Each creature in that area must make a Reflex Saving Throw DC 14, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
+***Fire Breath (Recharge 5-6).*** The hound exhales fire in a 15-meter cone. Each creature in that area must make a Reflex Saving Throw DC 14, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.
 
 ### Hezrou
 
@@ -5544,7 +5544,7 @@ Hippogriffs are oviparous and their nest usually contains only one egg, which is
 
 *Hit:* 6 (1d8+2) slashing damage.
 
-***Tail Whip***: The Hisser swings its long tail, +5 to hit, reach 10 feet, one target.
+***Tail Whip***: The Hisser swings its long tail, +5 to hit, reach 10 meters, one target.
 
 *Hit:* 11 (2d8+2) bludgeoning damage and 7 (2d6) slashing damage. Any armor or shield is damaged, lowering the opponent' \*\*s Defense by 1. The damage to the armor is not considered permanent.
 
@@ -5558,7 +5558,7 @@ Organization: Solitary, pair, or nest (2-4)
 | **Treasure Category**: Incidental |
 | **Description** |
 
-Hissers, so called because of the noise their tail makes when swinging, are very peculiar creatures. At first glance, they resemble a crocodile, about 16 feet long with 13 feet of tail, but they have 8 legs and a short, flattened snout. The extremely robust tail ends with a kind of hook that the Hisser uses to strike, kill, and grab enemies almost as if it were an additional limb.
+Hissers, so called because of the noise their tail makes when swinging, are very peculiar creatures. At first glance, they resemble a crocodile, about 16 meters long with 13 meters of tail, but they have 8 legs and a short, flattened snout. The extremely robust tail ends with a kind of hook that the Hisser uses to strike, kill, and grab enemies almost as if it were an additional limb.
 
 Dark gray or brown in color, they prefer to hide in darkness and attack when hungry or to defend their territory. They try to keep their distance in combat, and if seriously injured, they escape by climbing the walls.
 
@@ -5800,7 +5800,7 @@ The wall lasts for 1 minute or until the devil is incapacitated or dies. The wal
 | --- |
 Environment: Any (Hell)
 
-Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils
+Organization: Solitary, squad (2-3), council (4-10) or contingent (1-3 ice devils, 2-6 horned devils and 1-4 bone devils)
 | **Treasure Category**: Icy Spear +1, R |
 | **Description** |
 
@@ -6360,11 +6360,11 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 
 **Actions*Multiattack.*** The Lootdead attacks with two claws or attacks with one claw and uses its Paralyzing Eye.
 
-***Claw.*** +8 to hit, reach 3 feet
+***Claw.*** +8 to hit, reach 3 meters
 
 *Hit*: 16 (2d10 + 5) bludgeoning damage
 
-***Paralyzing Eye***: the affected creature, within 60 feet, must make a Fortitude Saving Throw at DC 18 or remain paralyzed for 2d4 rounds.
+***Paralyzing Eye***: the affected creature, within 60 meters, must make a Fortitude Saving Throw at DC 18 or remain paralyzed for 2d4 rounds.
 
 ***Sad Turtle***: with an Athletics check DC 24 it is possible to flip the lootdead upside down, preventing it from flipping back on its own. In this circumstance, the lootdead has -1d6 to all Attack Rolls.
 
@@ -6377,7 +6377,7 @@ Organization: 1-2 Lootdeads, 1d4+1 guardians
 | **Description** |
 
 Lootdeads are special undead constructed from various cadaver pieces and iron parts to resemble a kind of large armored crab.
-The back, completely metallic, serves as a container for treasures that the Lootdead finds. The claws, varying in number between 6 and 8, are just over three feet long and have the characteristic of each leaving a different imprint, being assembled from different metal pieces and bodies.
+The back, completely metallic, serves as a container for treasures that the Lootdead finds. The claws, varying in number between 6 and 8, are just over one meter long and have the characteristic of each leaving a different imprint, being assembled from different metal pieces and bodies.
 
 The large central eye, perhaps once belonging to a humanoid, allows the controller and builder of the Lootdead to see and command it. The purpose of a Lootdead is to explore, usually a system of caves or paths, in search of the remains of past raiders and adventurers to seize their magic items and treasures.
 
@@ -6570,7 +6570,7 @@ A marilith is 1.8 to 2.7 meters tall, 6 meters long from head to tail, and weigh
 - **Languages**: Common
 - **Challenge**: 6 (2300 XP)
 
-***Petrifying Gaze.*** If a creature starts its round within 9 meters of a medusa and can see the medusa' \*\*s eyes, the medusa, if it isn' \*\*t incapacitated and can see the creature, can force it to make a Fortitude Saving Throw DC 19. If the creature critically fails the Saving Throw, it is instantly petrified, otherwise it is Slowed 1/1 minute. Subsequent gazes and failed Saving Throws lead to an increase in the Slowed condition. When the creature becomes Slowed 3, it turns to stone. The creature can return to flesh if the spell Flesh to Stone is cast within 1 month of petrification.
+***Petrifying Gaze.*** If a creature starts its round within 9 meters of a medusa and can see the medusa' \*\*s eyes, the medusa, if it isn' \*\*t incapacitated and can see the creature, can force it to make a Fortitude Saving Throw DC 19. If the creature critically fails the Saving Throw, it is instantly petrified, otherwise it is Slowed 1/1 minute. Subsequent gazes and failed Saving Throws lead to an increase in the Slowed condition. When the creature becomes Slowed 3, it turns to stone. The creature can return to flesh if the spell Stone to Flesh is cast within 1 month of petrification.
 
 A creature fighting the Medusa trying to avoid its gaze has -1d6 to Attack Rolls.
 
@@ -6651,7 +6651,7 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 - **Size/Type**: Medium monstrosity (shapechanger), neutral
 - **Ability**: Str 3 Dex 1 Con 2 Int -2 Wis 1 Cha -1
 - **Hit Points**: \resizedown{{{51, **Defense:** 15, **Initiative:** +1}
-- **Movement**: 15 feet
+- **Movement**: 15 meters
 - **S. Throws**: \resizedown{{{Fortitude +4, Reflex +3, Will +3}
 - **Skills**: Stealth +5
 - **Dam. Imm.**: Acid
@@ -6688,7 +6688,7 @@ Mimics are believed to be the result of an alchemist' \*\*s attempt to bring an 
 
 Although mimics are not intrinsically evil, some sages suggest that they attack men and other intelligent creatures more for amusement than for sustenance. The desire to deceive others is part of their being, and their surprise attacks represent the culmination of this desire.
 
-A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs about 900 pounds. Legends and stories tell of larger mimics, with the ability to take the form of houses, ships, or entire underground complexes that they garnish with treasures (both real and fake) to lure their unsuspecting food inside.
+A typical mimic has a volume of 0.2 cubic meters (1 m by 1 m by 0.2 m) and weighs about 400 kg. Legends and stories tell of larger mimics, with the ability to take the form of houses, ships, or entire underground complexes that they garnish with treasures (both real and fake) to lure their unsuspecting food inside.
 
 ### Minotaur
 
@@ -6702,7 +6702,7 @@ A typical mimic has a volume of 7 cubic feet (3 ft by 3 ft by 7 ft) and weighs a
 - **Languages**: Abyssal
 - **Challenge**: 3 (700 XP)
 
-***Charge.*** If the minotaur moves at least 10 feet toward a target and hits it with a gore attack during the same round, the target takes 9 (2d8) extra piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be pushed up to 10 feet away and knocked prone. 1 Action.
+***Charge.*** If the minotaur moves at least 10 meters toward a target and hits it with a gore attack during the same round, the target takes 9 (2d8) extra piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be pushed up to 10 meters away and knocked prone. 1 Action.
 
 ***Reckless.*** At the start of its turn, the minotaur can gain +1d6 on all melee weapon attack rolls during that turn, but attack rolls against it have +1d6 until the start of its next turn.
 
@@ -6754,7 +6754,7 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 
 *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) Void damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be cursed with mummy rot. The cursed target can' \*\*t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse with the curse in effect. If the curse reduces the target' \*\*s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or similar magic.
 
-***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 15 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+***Dreadful Glare.*** The mummy targets one creature it can see within 60 meters of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 15 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
 ### Mummy Lord
 
@@ -6794,7 +6794,7 @@ The mummy lord' \*\*s heart has Defense 5, 25 hit points, and immunity to all da
 
 ***Magic Resistance.*** The mummy lord has +1d6 to Saving Throws against spells or other magical effects.
 
-***Rejuvenation.*** A mummy lord forms a new body within 24 hours if its heart remains intact, regaining all its hit points and becoming active again. The new body appears within 5 feet of the mummy lord' \*\*s heart.
+***Rejuvenation.*** A mummy lord forms a new body within 24 hours if its heart remains intact, regaining all its hit points and becoming active again. The new body appears within 5 meters of the mummy lord' \*\*s heart.
 
 **Actions*Multiattack.*** The mummy can use its Dreadful Glare and make one rotting fist attack, or 2 Rotting Fist attacks.
 
@@ -6802,9 +6802,9 @@ The mummy lord' \*\*s heart has Defense 5, 25 hit points, and immunity to all da
 
 *Hit:* 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) Void damage. If the target is a creature, it must succeed on a Fortitude Saving Throw 28 or be cursed with mummy rot. The cursed target can' \*\*t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse with the curse in effect. If the curse reduces the target' \*\*s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or similar magic.
 
-***Dreadful Glare.*** The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 28 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
+***Dreadful Glare.*** The mummy targets one creature it can see within 60 meters of it. If the target can see the mummy, it must succeed on a Will Saving Throw DC 28 against this magic or become frightened until the end of the mummy' \*\*s next turn. If the target critically fails the Saving Throw, it is also paralyzed for the same duration. A target that succeeds on the Saving Throw is immune to the Dreadful Glare of all mummies (but not mummy lords) for the next 24 hours.
 
-**Reaction: *Opportunity Attack***: the mummy lord makes a rotting fist attack against a creature that moves through or leaves its 5-foot reach.
+**Reaction: *Opportunity Attack***: the mummy lord makes a rotting fist attack against a creature that moves through or leaves its 5-meter reach.
 
 **Legendary Actions**
 
@@ -6812,15 +6812,15 @@ The mummy lord can take 3 Legendary Actions, choosing from the options below. It
 
 ***Attack.*** The mummy lord makes one rotting fist attack or uses its Dreadful Glare.
 
-***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can' \*\*t regain hit points until the end of the mummy lord' \*\*s next turn.
+***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 60 meters of the mummy lord, including ones behind barriers and around corners, can' \*\*t regain hit points until the end of the mummy lord' \*\*s next turn.
 
-***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each creature, excluding undead, within 10 feet of the mummy lord that can hear this magical utterance must succeed on a Fortitude Saving Throw DC 28 or be stunned until the end of the mummy lord' \*\*s next turn.
+***Blasphemous Word (Costs 2 Actions).*** The mummy lord utters a blasphemous word. Each creature, excluding undead, within 10 meters of the mummy lord that can hear this magical utterance must succeed on a Fortitude Saving Throw DC 28 or be stunned until the end of the mummy lord' \*\*s next turn.
 
-***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 feet of the mummy lord must succeed on a Fortitude Saving Throw DC 28 or be blinded until the end of the creature' \*\*s next turn.
+***Blinding Dust.*** Blinding dust and sand swirls magically around the mummy lord. Each creature within 5 meters of the mummy lord must succeed on a Fortitude Saving Throw DC 28 or be blinded until the end of the creature' \*\*s next turn.
 
-***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can' \*\*t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remains in its possession.
+***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 meters, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can' \*\*t be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remains in its possession.
 
-***Enraged:*** The Mummy lord hungers for life. It channels the energy of death and destruction in a 40-foot radius around itself. Each creature must succeed on a Fortitude Saving Throw at DC 26 to halve the damage or take 22 damage. The Mummy regains all Hit Points lost by other creatures.
+***Enraged:*** The Mummy lord hungers for life. It channels the energy of death and destruction in a 40-meter radius around itself. Each creature must succeed on a Fortitude Saving Throw at DC 26 to halve the damage or take 22 damage. The Mummy regains all Hit Points lost by other creatures.
 
 **Ecology**
 
@@ -6911,7 +6911,7 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 ***Etherealness.*** The hag magically enters the Ethereal Plane from the Material Plane, or vice versa.
 
-**Reaction: *Opportunity Attack***: the hag makes an attack against a creature that moves through or leaves her 5-foot reach.
+**Reaction: *Opportunity Attack***: the hag makes an attack against a creature that moves through or leaves her 5-meter reach.
 
 ***Nightmare Haunting (1/Day).*** While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. A *Magic Circle* spell cast on the target prevents this contact. As long as the contact persists, the target has horrible visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target' \*\*s hit point maximum to 0, the target dies, and if the target was evil, its soul is trapped in the hag' \*\*s *soul bag*. The reduction to the target' \*\*s hit point maximum lasts until removed by the *Greater Restoration* spell or similar magic.
 
@@ -6992,7 +6992,7 @@ The highly specialized acid of the Ochre Jelly dissolves only flesh. This discov
 
 An ancient and forgotten collection of notes describes a unique funeral ritual practiced in distant lands. Rather than cremating the deceased, bodies were enclosed in stone sarcophagi along with an Ochre Jelly that slowly dissolved the flesh. The resulting jelly was then transferred to an urn accompanied by a bronze plaque bearing the name of the deceased. This method preserved the objects buried with the body, quickly reduced to a gleaming skeleton, and it was believed that the deceased' \*\*s vital essence continued to inhabit the jelly.
 
-Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 feet and weigh about 2,800 pounds. In combat, they gather themselves up and produce long, moist pseudopods to strike and grab anything that moves.
+Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 meters and weigh about 2,800 pounds. In combat, they gather themselves up and produce long, moist pseudopods to strike and grab anything that moves.
 
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
@@ -7783,7 +7783,7 @@ When it doesn' \*\*t have another form, the rakshasa appears as a humanoid with 
 
 Rakshasas despise religions; they recognize the power of the gods, but see themselves as the only beings worthy of worship by mortal races. Devout rakshasas are therefore quite rare. Although rakshasas are outsiders, they are also creatures of the Material Plane, and some believe that the first rakshasas chose this exile instead of some other role offered to them by a long-forgotten god. Although generally solitary, it is not uncommon to find large families of rakshasas working together to cause the downfall of a mortal civilization from within, through the succession of many generations.
 
-A rakshasa is 5.9 feet tall and weighs 198 pounds.
+A rakshasa is 5.9 meters tall and weighs 198 pounds.
 
 ### Red Dragon Wyrmling
 
@@ -7823,7 +7823,7 @@ See Ancient Red Dragon Description.
 - **Senses**: \resizedown{Darkvision 60 ft, tremorsense 60 ft}
 - **Challenge**: 11 (7200 XP)
 
-***Heated Body.*** A creature that comes into contact with the remorhaz or hits it with a melee attack while within 3 feet of it takes 10 (3d6) fire damage.
+***Heated Body.*** A creature that comes into contact with the remorhaz or hits it with a melee attack while within 3 meters of it takes 10 (3d6) fire damage.
 
 **Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 10 ft, one target.
 
@@ -7831,11 +7831,11 @@ See Ancient Red Dragon Description.
 
 ***Swallow.*** The remorhaz makes a bite attack against a Medium or smaller target it is grappling. If the attack hits, the target takes the bite damage and is swallowed, and the grapple ends. The swallowed target is blinded and restrained, has total cover against attacks and other effects outside the remorhaz, and takes 21 (6d6) acid damage at the start of each of the remorhaz' \*\*s turns.
 
-If the remorhaz takes 30 or more damage in a single round from a creature inside it, the remorhaz must succeed on a Fortitude Saving Throw DC 24 at the end of that round or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 2 Actions and exiting prone.
+If the remorhaz takes 30 or more damage in a single round from a creature inside it, the remorhaz must succeed on a Fortitude Saving Throw DC 24 at the end of that round or regurgitate all swallowed creatures, which fall prone in a space within 10 meters of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 2 Actions and exiting prone.
 
 ***Ferocious.*** As an Action, the remorhaz drives its successful Bite even deeper, causing an additional 3d6 piercing damage. 1 Action.
 
-***Enraged:*** The Remorhaz heats its body even more until the end of combat, increasing to 18 (6d6) the fire damage for anyone within 3 feet.
+***Enraged:*** The Remorhaz heats its body even more until the end of combat, increasing to 18 (6d6) the fire damage for anyone within 3 meters.
 
 | **Ecology** |
 | --- |
@@ -7847,7 +7847,7 @@ Organization: Solitary
 
 In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remohrazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
 
-Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 feet in length and weighs 11,000 pounds.
+Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 11,000 pounds.
 
 ### Rug of Smothering
 
@@ -7889,7 +7889,7 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 
 *Hit:* 5 (1d8 + 1) piercing damage.
 
-***Antennae.*** The rust monster corrodes nonmagical ferrous metal objects it can see within 3 feet of it. If the object isn' \*\*t being worn or carried, the rust monster' \*\*s touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a Reflex Saving Throw DC 13 to avoid the rust monster' \*\*s touch.
+***Antennae.*** The rust monster corrodes nonmagical ferrous metal objects it can see within 3 meters of it. If the object isn' \*\*t being worn or carried, the rust monster' \*\*s touch destroys a 1-meter cube of it. If the object is being worn or carried by a creature, the creature can make a Reflex Saving Throw DC 13 to avoid the rust monster' \*\*s touch.
 
 If the object touched is metal armor or a metal shield being worn or carried, it takes a permanent and cumulative -2 penalty to the Defense it provides. Armor reduced to a Defense of 0 or shields that drop to a +0 bonus are destroyed. If the object touched is a metal weapon being held by someone, it rusts as described in the Rust Metal trait.
 
@@ -7902,7 +7902,7 @@ Organization: Solitary, pair, or nest (3-10)
 | --- |
 | **Description** |
 
-Of all the terrifying beasts an explorer might encounter underground, the rust monster is the one that aims for the adventurer' \*\*s treasure. About three feet long and weighing at least 220 pounds, the rust monster resembles a crustacean, and its alien nutritional process makes it even more frightening.
+Of all the terrifying beasts an explorer might encounter underground, the rust monster is the one that aims for the adventurer' \*\*s treasure. About one meter long and weighing at least 100 kg, the rust monster resembles a crustacean, and its alien nutritional process makes it even more frightening.
 
 Rust monsters devour metal objects, preferring iron and steel, but also easily consuming mithral, adamantine, and enchanted metals. Any metal touched by their antennae or armored skin corrodes and reduces to powder in seconds, making them feared by adventurers and dwarf miners.
 
@@ -7953,7 +7953,7 @@ Organization: Solitary, pair, team (5-8), patrol (11-20 plus 1 lieutenant of 3rd
 
 **Description**
 
-Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 feet tall and weighs about 275 pounds.
+Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 meters tall and weighs about 275 pounds.
 
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don' \*\*t appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
@@ -7971,7 +7971,7 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 
 ***Heated Weapons.*** Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (already included in the attack).
 
-***Heated Body.*** A creature that comes into contact with the salamander or hits it with a melee attack while within 3 feet of it takes 7 (2d6) fire damage.
+***Heated Body.*** A creature that comes into contact with the salamander or hits it with a melee attack while within 3 meters of it takes 7 (2d6) fire damage.
 
 **Actions*Multiattack.*** The salamander makes two attacks: one with its spear and one with its tail.
 
@@ -7983,7 +7983,7 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 
 *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 +4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
-**Reaction: *Opportunity Attack***: the salamander makes an attack against a creature that moves through or out of its 3-foot reach.
+**Reaction: *Opportunity Attack***: the salamander makes an attack against a creature that moves through or out of its 3-meter reach.
 
 ***Enraged:*** the Salamander concentrates its flames in a ranged attack. A creature within 9 m must make a Reflex Saving Throw DC 18 to halve the damage. The creature is hit by a globe of flames that causes 4d6 fire damage. Costs 2 Actions.
 
@@ -8249,7 +8249,7 @@ Shambling mounds usually lead a nomadic and solitary existence in deep forests a
 
 **Reaction: *Shield.*** When a creature attacks the wearer of the guardian' \*\*s amulet, the guardian grants a +2 bonus to its Defense, if within 1 meter of its controller.
 
-### Shrieking Fungus
+### Shrieking Mushroom
 
 - **Size/Type**: Medium plant, unaligned
 - **Ability**: Str -5 Dex -5 Con 0 Int -5 Wis -4 Cha -5
@@ -8562,7 +8562,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 *Hit:* 7 (1d8 + 4) piercing damage, and the target must make a Fortitude Saving Throw DC 20, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
-**Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-foot reach.
+**Reaction: *Opportunity Attack***: the naga makes a spitting attack against a creature that moves through or leaves its 10-meter reach.
 
 ### Sprite
 
@@ -9130,7 +9130,7 @@ The tyrannosaurus is a primary predator that measures 12 meters in length and we
 - **Size/Type**: Colossal dragon, Patron
 - **Ability**: Str 10 Dex 0 Con 10 Int 8 Wis 8 Cha 9
 - **Hit Points**: \resizedown{{{615, **Defense:** 52, **Initiative:** +8}
-- **Movement**: 65 feet, fly 65 feet
+- **Movement**: 65 meters, fly 65 meters
 - **S. Throws**: \resizedown{{{Fortitude +40, Reflex +30, Will +38}
 - **Skills**: all +18
 - **Dam. Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
@@ -9139,7 +9139,7 @@ The tyrannosaurus is a primary predator that measures 12 meters in length and we
 - **Languages**: all
 - **Challenge**: 30 (155000 XP)
 
-***Destructive Aura.*** The dragon emits within a 20-foot radius an aura that causes 1 cumulative force damage per round of exposure. The damage resets after 1 hour away.
+***Destructive Aura.*** The dragon emits within a 20-meter radius an aura that causes 1 cumulative force damage per round of exposure. The damage resets after 1 hour away.
 
 **Immortal on Earth.** When Tàhil' \*\*s body is killed on Earth, it reforms in 3d6 days in the lair made by Calicante.
 
@@ -9161,31 +9161,31 @@ At will: Divine Word
 
 ***Regeneration.*** Tàhil regenerates 30 Hit Points at the start of its turn
 
-**Actions*Multiattack.*** Tàhil can use its Frightful Presence or make 3 attacks (2 with claws and one with the tail) or just one with the bite. Claw +30, reach 15 feet. Tail +19 reach 25 feet. Bite +19, reach 20 feet. All of Tàhil' \*\*s attacks are considered magical +5.
+**Actions*Multiattack.*** Tàhil can use its Frightful Presence or make 3 attacks (2 with claws and one with the tail) or just one with the bite. Claw +30, reach 15 meters. Tail +19 reach 25 meters. Bite +19, reach 20 meters. All of Tàhil' \*\*s attacks are considered magical +5.
 
 *Hit:* Claw, 24 (4d6 +10, 5/40 Bleeding damage) slashing. Tail, 28 (4d8 +10) bludgeoning. Bite 48 (8d6 +10) slashing. If it hits with a margin of 10 with the bite, it severs the creature' \*\*s body in half unless it succeeds on a DC 30 Fortitude Saving Throw.
 
-***Frightful Presence*** Each creature that can see Tàhil and is within 265 feet must make a DC 45 Will Saving Throw or be Frightened for 1 minute. Each round the creature can make the Saving Throw, if it succeeds it is immune to Tàhil' \*\*s Frightful Presence for the next 24 hours.
+***Frightful Presence*** Each creature that can see Tàhil and is within 265 meters must make a DC 45 Will Saving Throw or be Frightened for 1 minute. Each round the creature can make the Saving Throw, if it succeeds it is immune to Tàhil' \*\*s Frightful Presence for the next 24 hours.
 
 **Additional Actions**
 
 Tàhil can take 3 additional actions, chosen from those below and one per round only at the end of another creature' \*\*s turn. Tàhil can change the color of its head to access the powers of other types of dragons. The actions depend on the chosen head.
 
-**Claw Attack.**: +19, reach 20 feet, one target. If it hits 32 (4d10 + 10, 3 Bleeding damage) slashing damage plus 14 (4d6) acid damage (Black head) or Electricity damage (Blue head) or Poison damage (Green head) or Fire damage (Red head) or Cold damage (White head) or Fire damage (Yellow head) or Sound damage (Purple head)
+**Claw Attack.**: +19, reach 20 meters, one target. If it hits 32 (4d10 + 10, 3 Bleeding damage) slashing damage plus 14 (4d6) acid damage (Black head) or Electricity damage (Blue head) or Poison damage (Green head) or Fire damage (Red head) or Cold damage (White head) or Fire damage (Yellow head) or Sound damage (Purple head)
 
-**Black Head.**: Costs 2 Additional Actions, Tàhil breathes Acid in a 135-foot cone. Reflex Saving Throw DC 40 or take 68 (15d8) acid damage or half on a successful save.
+**Black Head.**: Costs 2 Additional Actions, Tàhil breathes Acid in a 135-meter cone. Reflex Saving Throw DC 40 or take 68 (15d8) acid damage or half on a successful save.
 
-**Blue Head.**: Costs 2 Additional Actions, Tàhil breathes Electricity in a 135-foot cone. Reflex Saving Throw DC 40 or take 88 (16d10) electricity damage or half on a successful save.
+**Blue Head.**: Costs 2 Additional Actions, Tàhil breathes Electricity in a 135-meter cone. Reflex Saving Throw DC 40 or take 88 (16d10) electricity damage or half on a successful save.
 
-**Green Head.**: Costs 2 Additional Actions, Tàhil breathes Poison in a 100-foot cone. Reflex Saving Throw DC 40 or take 77 (22d6) poison damage or half on a successful save.
+**Green Head.**: Costs 2 Additional Actions, Tàhil breathes Poison in a 100-meter cone. Reflex Saving Throw DC 40 or take 77 (22d6) poison damage or half on a successful save.
 
-**Red Head.**: Costs 2 Additional Actions, Tàhil breathes Fire in a 100-foot cone. Reflex Saving Throw DC 40 or take 91 (26d6) fire damage or half on a successful save.
+**Red Head.**: Costs 2 Additional Actions, Tàhil breathes Fire in a 100-meter cone. Reflex Saving Throw DC 40 or take 91 (26d6) fire damage or half on a successful save.
 
-**White Head.**: Costs 2 Additional Actions, Tàhil breathes Ice in a 100-foot cone. Reflex Saving Throw DC 40 or take 72 (16d8) cold damage or half on a successful save.
+**White Head.**: Costs 2 Additional Actions, Tàhil breathes Ice in a 100-meter cone. Reflex Saving Throw DC 40 or take 72 (16d8) cold damage or half on a successful save.
 
-**Purple Head.**: Costs 2 Additional Actions, Tàhil breathes Sound in a 100-foot cone. Reflex Saving Throw DC 40 or take 90 (18d8) sound damage or half on a successful save.
+**Purple Head.**: Costs 2 Additional Actions, Tàhil breathes Sound in a 100-meter cone. Reflex Saving Throw DC 40 or take 90 (18d8) sound damage or half on a successful save.
 
-**Yellow Head.**: Costs 2 Additional Actions, Tàhil breathes hot sand in a 200-foot cone. Reflex Saving Throw DC 40 or take 72 (16d8) fire damage or half on a successful save.
+**Yellow Head.**: Costs 2 Additional Actions, Tàhil breathes hot sand in a 200-meter cone. Reflex Saving Throw DC 40 or take 72 (16d8) fire damage or half on a successful save.
 
 | **Ecology** |
 | --- |
@@ -10121,7 +10121,7 @@ Organization: Solitary
 | See Ancient Blue Dragon Description. |
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
-| - Deadly Fog |
+| - Cloudkill |
 | - Call Lightning |
 
 - Ice Storm
@@ -10151,9 +10151,9 @@ Organization: Solitary
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Fiery Breath.* The dragon exhales fire in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Reflex Saving Throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
+*Fiery Breath.* The dragon exhales fire in a 40-meter line that is 5 meters wide. Each creature in that line must make a DC 18 Reflex Saving Throw, taking 42 (12d6) fire damage on a failed save, or half as much damage on a successful one.
 
-*Sleep Breath.* The dragon exhales sleep gas in a 30-foot cone. Each creature in that area must succeed on a DC 18 Fortitude Saving Throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
+*Sleep Breath.* The dragon exhales sleep gas in a 30-meter cone. Each creature in that area must succeed on a DC 18 Fortitude Saving Throw or fall unconscious for 5 minutes. This effect ends for a creature if the creature takes damage or someone uses an Action to wake it.
 
 | **Ecology** |
 | --- |
@@ -10242,9 +10242,9 @@ Organization: Solitary
 
 ***Breath Weapon (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-*Acid Breath.* The dragon exhales acid in a 40-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Reflex Saving Throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
+*Acid Breath.* The dragon exhales acid in a 40-meter line that is 5 meters wide. Each creature in that line must make a DC 19 Reflex Saving Throw, taking 40 (9d8) acid damage on a failed save, or half as much damage on a successful one.
 
-*Slowing Breath.* The dragon exhales gas in a 90-foot cone. Each creature in that area must succeed on a DC 19 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
+*Slowing Breath.* The dragon exhales gas in a 90-meter cone. Each creature in that area must succeed on a DC 19 Fortitude Saving Throw. On a failed save, the creature has one less Action per round and its speed is halved. These effects last for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
 ***Enraged:*** The Young Copper Dragon recharges one of its two breaths. Cost 1 Action.
 
@@ -10351,7 +10351,7 @@ Organization: Solitary
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
 | - Anti-Life Shell |
-| - Locate Animals and Plants |
+| - Locate Animals or Plants |
 
 - Neutralize Poison
 
@@ -10622,7 +10622,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 - **Hit Points**: \resizedown{{{15, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 20 ft, burrow 5 ft
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 \
 
@@ -10733,7 +10733,7 @@ This appendix contains the statistics of various animals, parasites, and other c
 - **Hit Points**: \resizedown{{{15, **Defense:** 14, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 12 m, climb 9 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Keen Smell.*** The cat has +1d6 on Awareness checks based on smell.
 
@@ -11063,7 +11063,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 - **Hit Points**: \resizedown{{{15, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 9 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Illumination.*** The beetle sheds bright light in a 3-meter radius and dim light for an additional 6 meters.
 
@@ -11397,7 +11397,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Hit Points**: \resizedown{{{15, **Defense:** 15, **Initiative:** +3}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 18 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Keen Sight.*** The hawk has +1d6 on Awareness checks based on sight.
 
@@ -11429,7 +11429,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Hit Points**: \resizedown{{{15, **Defense:** 13, **Initiative:** +1}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 15 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Pack Tactics.*** The hyena has +1d6 on attack rolls against a creature if at least one of the hyena' \*\*s allies is within 1 meter of the creature and the ally isn' \*\*t incapacitated.
 
@@ -11557,7 +11557,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Hit Points**: \resizedown{{{15, **Defense:** 13, **Initiative:** +1}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 1 m, flight 18 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Flyby.*** The owl doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
@@ -11614,7 +11614,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Hit Points**: \resizedown{{{15, **Defense:** 15, **Initiative:** +3}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 0 m, swim 12 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Blood Frenzy.*** The piranha has +1d6 on melee attack rolls against any creature that doesn' \*\*t have all its hit points.
 
@@ -11665,7 +11665,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Hit Points**: \resizedown{{{15, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Keen Smell.*** The rat has +1d6 to Awareness checks based on smell.
 
@@ -11680,7 +11680,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Hit Points**: \resizedown{{{15, **Defense:** 14, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m, flight 15 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Mimicry.*** The raven can mimic simple sounds it has heard, such as a person whispering, a child crying, or an animal chittering. A creature that hears the sounds can tell they are imitations with a successful Survival check DC 10.
 
@@ -11701,7 +11701,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-***Pack Tactics.*** The shark has +1d6 to an attack roll against a creature if at least one of the shark' \*\*s allies is within 5 feet of the creature and the ally isn' \*\*t incapacitated.
+***Pack Tactics.*** The shark has +1d6 to an attack roll against a creature if at least one of the shark' \*\*s allies is within 5 meters of the creature and the ally isn' \*\*t incapacitated.
 
 **Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
 
@@ -11733,7 +11733,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 \
 
-***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
+***Pounce.*** If the tiger moves at least 20 meters straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
 
 ***Keen Smell.*** The tiger has +1d6 to Awareness checks that rely on smell.
 
@@ -11816,7 +11816,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost
 - **Hit Points**: \resizedown{{{15, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 3 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 **Actions*Sting.** Melee Weapon Attack*: +2 to hit, reach 1 m, one creature.
 
@@ -11829,7 +11829,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost
 - **Hit Points**: \resizedown{{{15, **Defense:** 14, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
 - **Movement**: 6 m, climb 6 m
-- **Challenge**: 0(10 XP)
+- **Challenge**: 0 (10 XP)
 
 ***Web Walker.*** The spider ignores movement restrictions caused by webbing.
 
@@ -11847,10 +11847,8 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost
 - **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: \resizedown{{{17, **Defense:** 15, **Initiative:** +3}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 40 ft
+- **Movement**: 3 m, fly 12 m
 - **Challenge**: 1/8 (25 XP)
-
-\
 
 **Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
 
@@ -12013,20 +12011,18 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 - **Ability**: Str 3 Dex 2 Con 2 Int -4 Wis 1 Cha -1
 - **Hit Points**: \resizedown{{{33, **Defense:** 15, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **Challenge**: 1 (200 XP)
 
-\
-
-***Pounce.*** If the tiger moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
+***Pounce.*** If the tiger moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
 
 ***Keen Smell.*** The tiger has +1d6 to Awareness checks that rely on smell.
 
-**Actions*Claw.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Claw.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 8 (1d10 + 3) piercing damage.
 
@@ -12107,14 +12103,12 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 - **Ability**: Str 3 Dex 1 Con 1 Int -2 Wis 0 Cha -1
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 50 ft
+- **Movement**: 15 m
 - **Challenge**: 1/2 (100 XP)
-
-\
 
 ***Keen Hearing and Smell.*** The worg has +1d6 in Awareness checks that rely on hearing or smell.
 
-**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 10 (2d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Fortitude Saving Throw or be knocked prone.
 
@@ -12269,7 +12263,7 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 
 ***Light Crossbow.** Ranged Weapon Attack*: +3 to hit, range 24m, one target.
 
-*Hit:* 5 (1d8 + 1) slashing damage.
+*Hit:* 5 (1d8 + 1) piercing damage.
 
 ### Spy
 
@@ -12283,7 +12277,7 @@ Whether they are men of the street or the sea (pirates), these individuals make 
 
 A spy is an individual trained in gathering secrets for someone, or sometimes to sell them to the highest bidder.
 
-***Sneak Attack (1/Turn).*** The spy deals 7 (2d6) extra damage when it hits a target with a weapon attack and has +1d6 on the attack roll, or when the target is within 1 meter of an ally of the assassin who isn' \*\*t incapacitated and the assassin doesn' \*\*t have -1d6 on the attack roll.
+***Sneak Attack (1/Turn).*** The spy deals 7 (2d6) extra damage when it hits a target with a weapon attack and has +1d6 on the attack roll, or when the target is within 1 meter of an ally of the spy who isn' \*\*t incapacitated and the spy doesn' \*\*t have -1d6 on the attack roll.
 
 ***Cunning Action.*** During each of its turns, the spy can use an Immediate Action to take the Disengage, Hide, or Dash action.
 
@@ -12519,7 +12513,7 @@ level 1 (3 slots): *Bless, Cure Wounds, Sanctuary*
 
 They are the leaders of a cult, who use their charisma and dogmas to influence the weak-willed.
 
-***Spells.*** The priest has MP 4. Its spellcasting ability is Wisdom (+3 to hit with spell attacks). The priest has prepared the following spells:
+***Spells.*** The cult leader has MP 4. Its spellcasting ability is Wisdom (+3 to hit with spell attacks). The cult leader has prepared the following spells:
 
 Cantrips (at will): *Sacred Flame, Light, Thaumaturgy*
 
@@ -12649,7 +12643,7 @@ Skilled hunters and trackers.
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Longbow.** Melee Weapon Attack*: +4 to hit, range 45m, one target.
+***Longbow.** Ranged Weapon Attack*: +4 to hit, range 45m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage.
 
@@ -12825,7 +12819,7 @@ The Oozekin template gives the creature a *gelatinous* and fluid appearance
 
 ## Monster List by Challenge Rating
 
-| **Conditions** | **Penality** | **Recovery** |
+| **Conditions** | **Penalty** | **Recovery** |
 | --- | --- | --- |
 | Fatigued | 1 | 1h |
 | Fatigued 2 | 2 | 1h |

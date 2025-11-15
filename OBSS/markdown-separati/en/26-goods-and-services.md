@@ -238,7 +238,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Colony of Flesh-Eating Beetles**: 3 gp, this glass jar contains carnivorous flesh-eating beetles. The beetles must be fed at least 125 grams of meat daily or they will die. When released onto a dead organism, they devour its flesh in 1d4 days, leaving only bones. Flesh-eating beetles eat only dead flesh and cannot harm living creatures. Once released, the beetles cannot be put back into the jar.
 
-**Rope**. A rope, usually 60 feet long, is made of hemp, has 2 Hit Points, and can be broken by succeeding on a Fortitude Saving Throw with Strength with DC 19. The thick version has 6 Hit Points, DC 22.
+**Rope**. A rope, usually 60 meters long, is made of hemp, has 2 Hit Points, and can be broken by succeeding on a Fortitude Saving Throw with Strength with DC 19. The thick version has 6 Hit Points, DC 22.
 
 **Spider Silk Rope** (50 ft): 10 gp, this spider silk rope has 8 Hit Points and can be broken with a Fortitude Saving Throw with Strength with DC 23.
 
@@ -303,7 +303,7 @@ Once applied, the poison retains potency for 1 minute before drying.
 
 If the character chooses to purchase their starting equipment, they can purchase a kit at the indicated price, which is generally more convenient than purchasing individual items separately.
 
-**Adventurer' \*\*s Kit (18 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, a bedroll, 10 days of rations, and a waterskin. The kit also includes 50 feet of hemp rope tied to the backpack.
+**Adventurer' \*\*s Kit (18 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, a bedroll, 10 days of rations, and a waterskin. The kit also includes 50 meters of hemp rope tied to the backpack.
 
 **Hunter' \*\*s Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 60ft, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
 
@@ -311,11 +311,11 @@ If the character chooses to purchase their starting equipment, they can purchase
 
 **Devotee' \*\*s Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 60ft, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
 
-**Dungeon Explorer' \*\*s Kit (24 gp)**: contains a set of basic tools for exploring ruins and abandoned cities including 2 candles, a crowbar, a piece of chalk, a hammer and 4 pitons, 60 feet of rope, a hooded lantern with 5 flasks of oil, 2 sacks, 2 torches, trail rations (for 3 days).
+**Dungeon Explorer' \*\*s Kit (24 gp)**: contains a set of basic tools for exploring ruins and abandoned cities including 2 candles, a crowbar, a piece of chalk, a hammer and 4 pitons, 60 meters of rope, a hooded lantern with 5 flasks of oil, 2 sacks, 2 torches, trail rations (for 3 days).
 
 **Entertainer' \*\*s Kit (60 gp**). Includes a backpack, a bedroll, 2 costumes, 5 candles, 5 days of rations, a waterskin, and a disguise kit.
 
-**Burglar' \*\*s Kit (24 gp)**. Includes a backpack, a bag with 1000 metal bearings, 10 feet of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The kit also includes 50 feet of hemp rope tied to the backpack.
+**Burglar' \*\*s Kit (24 gp)**. Includes a backpack, a bag with 1000 metal bearings, 10 meters of string, a bell, 5 candles, a crowbar, a hammer, 10 pitons, a hooded lantern, 2 flasks of oil, 5 days of rations, a tinderbox, and a waterskin. The kit also includes 50 meters of hemp rope tied to the backpack.
 
 **Scholar' \*\*s Kit (60 gp)**. Includes a backpack, a book of study, a bottle of ink, a quill, 10 sheets of parchment, a sand pouch, and a small knife.
 
@@ -531,7 +531,7 @@ When the effect of the bitter aid wears off, your level of fatigue increases by 
 The Standard Backpack\textregistered \space is a list of items that I have noted over time, adding everything that I needed during adventures.
 Take it as a guide to understand what objects to have with you, don' \*\*t mark them all down otherwise the Narrator will seriously start looking at the Encumbrance rules!
 
-This is the content of the adventurer' \*\*s backpack: belt, 3 candles, 6 torches, Tinderbox, 7 dry rations, 2-person tent, waterskin, rolled mattress, sleeping bag, tarpaulin, tent, 60 feet of rope, net, metal mirror, crowbar, compass, 3 lamp oil, ink, chalk, charcoal, hook, shovel, fishhook, rags, 2m metal cable, whistle, 6 empty potion vials, marbles, brass bell, 1kg of flour in a small bag, 3 wedges, 12 meters of metal chain, 2 manacles, 8 pitons, hammer, pulley, grappling hook, bandolier.
+This is the content of the adventurer' \*\*s backpack: belt, 3 candles, 6 torches, Tinderbox, 7 dry rations, 2-person tent, waterskin, rolled mattress, sleeping bag, tarpaulin, tent, 60 meters of rope, net, metal mirror, crowbar, compass, 3 lamp oil, ink, chalk, charcoal, hook, shovel, fishhook, rags, 2m metal cable, whistle, 6 empty potion vials, marbles, brass bell, 1kg of flour in a small bag, 3 wedges, 12 meters of metal chain, 2 manacles, 8 pitons, hammer, pulley, grappling hook, bandolier.
 
 ## Expenses and Lifestyle
 

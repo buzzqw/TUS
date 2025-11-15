@@ -12,7 +12,7 @@ Deciphering an ancient writing may be a walk in the park for an expert linguist,
 
 And don' \*\*t be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Narrator to introduce facts, clues, and new adventures.
 
->>> **Now alwayes Check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It' \*\*s not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
+>>> **Not always a check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It' \*\*s not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
 
 It will make the game more dynamic and all players will participate in the situation and collaborate by declaring what and how they act. Always use common sense and save dice rolls! Rolling a die means creating the possibility of failure!
 
