@@ -10988,7 +10988,7 @@ Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
 | **Lista**: | Necromanzia |
 | --- | --- |
-| **Livello**: | 7, Molto Raro |
+| **Livello**: | 7, Leggendario |
 | **Lancio**: | 1 ora |
 | **Gittata**: | Contatto |
 | **Durata**: | Istantanea |
@@ -10997,9 +10997,11 @@ Entri a contatto con una creatura morta da non più di un secolo, che non sia mo
 
 Questo incantesimo chiude tutte le ferite mortali e ripristina ogni parte del corpo mancante. Tuttavia, riportare la creatura in vita impone un pesante tributo: la creatura subisce una penalità di -4 a tutti i Tiri di Attacco, i Tiri Salvezza e le prove di Competenza. Ogni volta che la creatura completa un riposo lungo, la penalità si riduce di 1 finché non scompare.
 
-L'incantesimo non può riportare in vita le creature che sono morte di vecchiaia, né può creare una nuova anima se l'originale non è libera o non è consenziente a tornare. Solo i Devoti di altissimo livello e punteggio Tratti o creature con potere simile a quello dei Patroni possono lanciare questo incantesimo.
+L'incantesimo non può riportare in vita le creature che sono morte di vecchiaia, né può creare una nuova anima se l'originale non è libera o non è consenziente a tornare.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la creatura resuscitata non subisce alcuna penalità, oppure può essere riportata in vita anche se morta da più tempo (fino a 1000 anni per critico).
+
+**NOTA**: solo un Patrono o un incantatore di altissimo livello e punteggio Tratti possono lanciare questo incantesimo.
 
 ### Resistenza
 
@@ -11757,7 +11759,7 @@ Per la durata dell'incantesimo, crei a gittata una fluttuante spada di forza. Qu
 
 | **Lista**: | Invocazione |
 | --- | --- |
-| **Livello**: | 7, Raro |
+| **Livello**: | 7, Leggendario |
 | **Lancio**: | 1 Azione |
 | **Gittata**: | Tocco |
 | **Durata**: | Istantanea |

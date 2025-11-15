@@ -4162,7 +4162,7 @@ Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
 | **Lista**: | Necromanzia |
 | --- | --- |
-| **Livello**: | 7, Molto Raro |
+| **Livello**: | 7, Leggendario |
 | **Lancio**: | 1 ora |
 | **Gittata**: | Contatto |
 | **Durata**: | Istantanea |
@@ -4171,9 +4171,11 @@ Entri a contatto con una creatura morta da non più di un secolo, che non sia mo
 
 Questo incantesimo chiude tutte le ferite mortali e ripristina ogni parte del corpo mancante. Tuttavia, riportare la creatura in vita impone un pesante tributo: la creatura subisce una penalità di -4 a tutti i Tiri di Attacco, i Tiri Salvezza e le prove di Competenza. Ogni volta che la creatura completa un riposo lungo, la penalità si riduce di 1 finché non scompare.
 
-L'incantesimo non può riportare in vita le creature che sono morte di vecchiaia, né può creare una nuova anima se l'originale non è libera o non è consenziente a tornare. Solo i Devoti di un Patrono o creature con potere simile a quello dei Patroni possono lanciare questo incantesimo.
+L'incantesimo non può riportare in vita le creature che sono morte di vecchiaia, né può creare una nuova anima se l'originale non è libera o non è consenziente a tornare.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la creatura resuscitata non subisce alcuna penalità, oppure può essere riportata in vita anche se morta da più tempo (fino a 1000 anni per critico).
+
+**NOTA**: solo un Patrono o un incantatore di altissimo livello e punteggio Tratti possono lanciare questo incantesimo.
 
 ### Resistenza
 
@@ -4931,19 +4933,21 @@ Per la durata dell'incantesimo, crei a gittata una fluttuante spada di forza. Qu
 
 | **Lista**: | Invocazione |
 | --- | --- |
-| **Livello**: | 7, Raro |
+| **Livello**: | 7, Leggendario |
 | **Lancio**: | 1 Azione |
 | **Gittata**: | Tocco |
 | **Durata**: | Istantanea |
 | **Materiale**: | Una bacchetta di metallo biforcuta armonizzata al piano di destinazione (valore 250 mo) |
 
-Tu e fino a otto creature consenzienti che si tengono per mano in cerchio venite trasportati verso un piano di esistenza diverso. Puoi specificare una destinazione generale, come la Città d'Ottone sul Piano Elementale del Fuoco o il palazzo di Dispater nel secondo livello dei Nove Inferi, e apparirai in quel luogo o nelle vicinanze a discrezione del GM.
+Tu e fino a otto creature consenzienti che si tengono per mano in cerchio venite trasportati verso un piano di esistenza diverso. Puoi specificare una destinazione generale, come la Città di Bronzo o Il Colosseo Aureo.
 
 In alternativa, se conosci la sequenza di simboli di un cerchio di teletrasporto su un altro piano di esistenza, questo incantesimo può portarti a quel cerchio. Se il cerchio di teletrasporto è troppo piccolo per contenere tutte le creature che hai trasportato, quelle in eccesso appaiono nei luoghi liberi più vicini al cerchio.
 
 Puoi usare questo incantesimo per esiliare una creatura non consenziente su un altro piano. Scegli una creatura a gittata ed effettua un attacco in mischia con incantesimo contro di essa. Se colpisci, la creatura deve superare un Tiro Salvezza su Tempra o essere trasportata in un luogo casuale sul piano di esistenza che specifichi. Una creatura così trasportata deve trovare il proprio modo per tornare al tuo piano attuale di esistenza.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi trasportare due creature aggiuntive o aumentare la precisione dell'arrivo.
+
+**NOTA**: questo incantesimo e' monitorato da Lynx che darà attivamente la caccia a qualsiasi incantatore abusi dei viaggi planari.
 
 ### Spruzzo Colorato
 
