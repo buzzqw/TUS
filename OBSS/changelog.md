@@ -944,6 +944,8 @@ aggiornata versione POD 2025/09/18
 
 1.0.10 aggiornata prova di magia
 
+1.0.11 numerosi correzioni di battitura, aggiornate tabelle per determinare rarita' pergamene ed incantesimi,
+
 
 > valutare:
 - adepto della magia e' una abilita' tassa. valutare diversificazione con altre abilita'.
