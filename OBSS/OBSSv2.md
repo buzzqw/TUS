@@ -18658,21 +18658,20 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 ### Manuali, Tomi e Pergamene
 
-| **3d6** | **Rarita' Pergamena** | **Inc. sulla Pergamena** |
-| 3-11 | Comune | 1d4 |
-| 12-13 | Non Comune | 1d6 |
-| 14-16 | Rara | 1d8 |
-| 17 | Molto Rara | 1d10 |
-| 18 | Leggendaria | 2d6 |
+| **4d6** | **Rarita' Pergamena** | **Inc. sulla Pergamena** |
+| 4-14 | Comune | 1d4 |
+| 15-18 | Non Comune | 1d6 |
+| 19-22 | Rara | 1d8 |
+| 23 | Molto Rara | 1d10 |
+| 24 | Leggendaria | 2d6 |
 
-| **3d6** | **Livello Incantesimo** |
-|---|---|
-| 3-9 | 1 |
-| 10-11 | 2 |
-| 12-15 | 3 |
-| 16 | 4 |
-| 17 | 5 |
-| 18 | 6 |
+| **4d6** | **Livello Incantesimo** |
+| 4-12 | 1 |
+| 13-16 | 2 |
+| 17-21 | 3 |
+| 22 | 4 |
+| 23 | 5 |
+| 24 | 6 |
 
 | **Manuali, Tomi e Pergamene** | **3d6** |
 | 3-14 | Pergamene |
