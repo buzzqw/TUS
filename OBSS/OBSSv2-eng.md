@@ -76,8 +76,8 @@ Welcome to **OBSS**, a world where the ordinary blends with the incredible, wher
 
 Prepare to face unexpected challenges, forge fragile alliances, and fight for survival in a chaotic and dangerous world.
 
-The Narrator is the architect of this world, the one who shapes reality and weaves the threads of the story. They will present you with challenges, describe places, bring non-player characters to life, and interpret the consequences of your actions. In OBSS, collaboration between players and Narrator is essential to create an engaging and unforgettable gaming experience.
-The true rule that the Narrator must remember is that whatever rule is used, as long as it makes everyone have fun, is the right one!
+The Game Master is the architect of this world, the one who shapes reality and weaves the threads of the story. They will present you with challenges, describe places, bring non-player characters to life, and interpret the consequences of your actions. In OBSS, collaboration between players and Game Master is essential to create an engaging and unforgettable gaming experience.
+The true rule that the Game Master must remember is that whatever rule is used, as long as it makes everyone have fun, is the right one!
 
 Survival is the fundamental law of this world. In OBSS, there are no guarantees of success, and every step could be the last. But it is precisely in this struggle for survival that true heroes are forged. Through your actions, your cunning, and your courage, you can claim the Law of Reward, gaining experience, wealth, and the opportunity to influence the course of events.
 
@@ -108,13 +108,13 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll to the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
 
-**Ability scores**:   also abbreviated as characteristic or statistics. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
+**Ability scores**:   also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
 
-**Action**:  it is what is done in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... in each round you can take 3 Actions. An Action lasts about 3 seconds.
+**Action**:  An Action represents what a character does in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... in each round you can take 3 Actions. An Action lasts about 3 seconds.
 
 **Attack Roll (AR)**: is an Attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by weapon list...) against Defense (armor + shield + Feats + magic...). The Attack Roll can be melee (that is, for creatures close to your weapon, at melee distance) or ranged (for bows, crossbows, but also thrown daggers..). Read the combat chapter carefully.
 
-**Bonus**: any modifier due to external, environmental, magical, circumstantial factors, or as decided by the Narrator is a bonus or penalty to be applied to the dice roll or difficulty in the check.
+**Bonus**: any modifier due to external, environmental, magical, circumstantial factors, or as decided by the Game Master is a bonus or penalty to be applied to the dice roll or difficulty in the check.
 
 **Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, then they must make a Magic Check.
 
@@ -165,17 +165,17 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 **Movement**: movement represents the ability to move around. A Movement Action represents the character moving. The higher the Movement value, the more meters a creature can move.
 
-**Narrator**: is the person who leads the adventure, establishes the rules, and controls the elements of the story. The duty of every Narrator is to entertain, be fair, and use common sense. The Narrator has the final word in every matter.
+**Narrator**: is the person who leads the adventure, establishes the rules, and controls the elements of the story. The duty of every Game Master is to entertain, be fair, and use common sense. The Game Master has the final word in every matter.
 
-**NPC**: non-player character. These are particular characters, important or not, that the Narrator keeps to lead the adventure.
+**NPC**: non-player character. These are particular characters, important or not, that the Game Master keeps to lead the adventure.
 
-**Rolling a one brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn' \*\*t mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
+**Rolling a one brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn' \*\*t mean a rolled 6 becomes a 5, the exploding 6s still apply.. just subtract 1 from the final result. Said differently, 1 is worth 0.
 
 **Optional**: in OBSS there are various Optional rules to diversify and personalize the game. Talk about it during Session Zero and decide what style to give to your OBSS.
 
 **Patron**: or deity. The Patron is a superior being who can grant powers and guarantee advantages.
 
-**Penalty/Malus** : like bonuses, penalties or maluses are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
+**Penalty/Malus** : like bonuses, penalties are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
 
 , if not specified otherwise, always sum up together.
 
@@ -205,7 +205,7 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 >> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$
 
->>> **Information for the Narrator**: Box containing indications and suggestions for the Narrator. Recognizable by the icon
+>>> **Information for the Narrator**: Box containing indications and suggestions for the Game Master. Recognizable by the icon
 
 ---
 
@@ -215,15 +215,15 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change. (Leon C. Megginson)
 
-Earth is a multifaceted world rich in diversity, cultural, natural, and of creatures.
-It is the creatures that make the planet vital and rich, each one nourishes, contributes, enriches the knowledge of all others.
+Earth is a multifaceted world rich in cultural and natural diversity, teeming with creatures.
+It is the creatures that make the planet vital and rich, each one nourishes, contributes to, and enriches the knowledge of all others.
 
 ## Humans
 
-Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until the coming.
+Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until their coming.
 And humans became the species to hunt and kill, the dictate received from the first Patrons was clear and absolute, exterminate the humans who had killed the firstborn.
 
-It is impossible to know how many humans have survived in the world, very approximate calculations count them under 500 million.
+It is impossible to know how many humans have survived in the world, rough estimates place their number at under 500 million.
 
 **Racial modifiers**: +1 to one ability score of your choice
 
@@ -266,7 +266,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 Dwarves are a stoic and severe race accustomed to the purest communism, without a true concept of property but of pure commonality of goods according to the idea that every dwarf works for the community and not for himself.
 
-Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sex is free and socialist.
+Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
 
 Dwarves are guided by honor, tradition, and communism. They are often seen as gruff, but have a strong sense of friendship and justice, respecting those who work hard and commit to the community and the group.
 
@@ -292,7 +292,7 @@ Gnomes are beings of small size but rich in energy and life. Gnomes are the race
 
 In a short time, thanks to their innate curiosity, tenacity, and inventiveness, they have managed to create populous and rich cities, almost always within virgin forests.
 
-Gnomes are deeply connected to nature, their relationship is almost symbiotic, a Gnome will never give up the sight of a tree and building with what nature provides.
+Gnomes are deeply connected to nature, their relationship is almost symbiotic, a Gnome will never forgo the sight of trees and always builds with what nature provides.
 
 Gnomes have a deep respect for nature, the environment, and animals; their perfectly functional and modern cities are built and carved into the forest, never destroying it and indeed enriching it.
 
@@ -325,7 +325,7 @@ For an elf, there is nothing more impure than a half-elf. No half-elf is born by
 There are also rare half-elves born from romantic relationships. Although usually of short duration, even by human standards, these secret encounters usually lead to the birth of half-elves, a race that descends from two cultures but is heir to neither. Half-elves can reproduce among themselves, but even these *pure-blooded* half-elves are seen as bastards by elves.
 
 Many elves see in a half-elf the betrayal of the original mission, the destruction of creation.
-Very few see a gesture of love and gift to an increasingly ugly world.
+Very few see it as a gesture of love and a gift to an increasingly ugly world.
 They are usually seen by other creatures as murderers like elves regardless of whether their blood has been touched by Calicante or not.
 
 Half-elves are shorter than humans but taller than elves. They inherit the slender build and attractive features of their elven lineage, but their skin color is normally dictated by their human part. Their eyes tend to be similar to those of humans in shape, but present an exotic range of colors from amber to purple to emerald green and dark blue.
@@ -349,7 +349,7 @@ Half-elves understand loneliness and know that character is often more a product
 In the eyes of civilized cultures, half-orcs are monstrosities, the result of perversion and violence, and rarely are they the result of loving unions; as such, they are usually forced to grow up quickly and harshly, constantly fighting to protect themselves or make a name for themselves. Some half-orcs spend their entire lives proving to pureblooded orcs that they are as fierce as they are.
 
 Half-orcs are on average 1.9 meters tall, with a powerful physique and greenish or gray skin. In males, the canines often grow rather long until they protrude from their mouths, and these *tusks*, combined with a sometimes broad forehead and slightly pointed ears, give them that noted *bestial* appearance.
-Females have much less pronounced orcish traits and are considered wild and *easy* by human males who lack the due respect.
+Females have much less pronounced orcish traits and are considered wild and *easy* by human males who show them no respect.
 
 Despite these obvious orcish traits, half-orcs are as varied as their human parents.
 
@@ -375,7 +375,7 @@ Half-orcs are continuous victims of prejudice.
 
 The Nibali are a race magically created to be slaves to the first Patrons.
 
-Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create by manipulating with magic, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
+Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create through magical manipulation, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
 
 When the first Patrons left, the Nibali continued to prosper, making use of what had already been created in the cold tundra.
 
@@ -405,9 +405,9 @@ Blessed or cursed, the Outcasts are not like us. An Outcast is the result of a c
 
 An Outcast is faithful to their Patron and cannot do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
 
-An Outcast is more robust and more intelligent. Unfortunately, their frenetic life is marked by a short duration. Usually, a human Outcast does not exceed 50 years of life.
+An Outcast is more robust and more intelligent. Unfortunately, they live short, frenetic lives. Usually, a human Outcast does not exceed 50 years.
 
-An Outcast is marked, somewhere on their body is the symbol, a birthmark, of their Patron. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of which they are *children*.
+An Outcast is marked, the symbol is somewhere on their body, a birthmark, of their Patron. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of which they are *children*.
 
 Outcast is an attribute that can be given to any race. The racial modifiers are replaced with those of the Outcast, and the life expectancy is halved. The original racial advantages remain valid, and the Special advantage of the Outcast is added.
 
@@ -425,11 +425,11 @@ Outcast is an attribute that can be given to any race. The racial modifiers are 
 
 ## Sornelian
 
-The genesis of the Sornelian is due to the Patron Efrem (page ). Efrem decided that nature should have a greater voice in terrestrial matters and established that anthropomorphic animals should exist to rebalance the overwhelming power of other humanoid creatures.
+The Sornelians were created by the Patron Efrem (page ). Efrem decided that nature should have a greater voice in terrestrial matters and established that anthropomorphic animals should exist to rebalance the overwhelming power of other humanoid creatures.
 
 A Sornelian has a head similar to that of an anthropomorphic animal but the body is more similar to a humanoid biped. Depending on the animal, the Sornelian might also have fur, feathers, scales, and claws. The dimensions of a Sornelian depend very much on the original animal, varying from small to medium size. The anthropomorphic aspect of a Sornelian is as varied as the animals they resemble.
 
-A Sornelian almost never is born as the child of two Sornelians but is a spontaneous *mutation* in the womb of a couple of humanoids, such as dwarves, elves, or humans.
+A Sornelian is almost never born as the child of two Sornelians but is a spontaneous *mutation* in the womb of a couple of humanoids, such as dwarves, elves, or humans.
 
 **Racial modifiers**: +1 to an Ability Score of choice
 
@@ -439,7 +439,7 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 
 **Speed**: 6 meters
 
-**Languages**: Common. Gets +1d6 to checks to interact with animals of their bloodline.
+**Languages**: Common. They get +1d6 to checks to interact with animals of their bloodline.
 
 **Advantages**: At creation, the player chooses 2 capabilities from those listed that best characterize their Sornelian. Some example animals are indicated in parentheses.
 
@@ -447,7 +447,7 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 
 - *Runner* (deer, greyhound, saurovallum, velociraptor). Increase your Movement speed by 3 meters. If you choose this capability twice, your Movement becomes 12 meters.
 
-- *Nocturnal creature* (cat, lizard, bat, owl). You have twilight vision 9 meters. If you choose this capability twice, twilight vision reaches up to 18 meters.
+- *Nocturnal creature* (cat, lizard, bat, owl). You have twilight vision up to 9 meters. If you choose this capability twice, twilight vision reaches up to 18 meters.
 
 - *Swimmer* (crocodile, dolphin, frog, shark). You can hold your breath for up to 1 Turn per point of Constitution, minimum 1, you have a swimming speed equal to half your Movement. You have Damage Reduction from cold equal to 4. If you choose this capability twice, you have rudimentary gills that allow you to breathe underwater, and the cold damage reduction becomes 10.
 
@@ -528,12 +528,12 @@ The Sulian does not perform Magic Checks nor can they be considered Distracted w
 
 - *Elemental Resistance*: through this power, the Sulian acquires Resistance to the chosen element.
 
->> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Narrator) and describe it, frame it, feel it, and bring it to life as they please.
+>> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Game Master) and describe it, frame it, feel it, and bring it to life as they please.
 
 Do not limit yourselves to the descriptions proposed here; they are meant to be just starting points. Don' \*\*t feel restricted in your choices because the race description says this or that.
 Create the most beautiful and complete characters possible. Each character is alive and is a person, and as such, will always be different from one another, each fantastic in their own way regardless of any race or prejudice.
 
->> **Note on Character Sex**: In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
+>> **Note on Character Sex**: To be clear, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
 
 > Don' \*\*t forget no one else sees the world the way you do, so no one else can tell the stories that you have to tell. (Ursula K. Le Guin)
 
@@ -541,13 +541,13 @@ Create the most beautiful and complete characters possible. Each character is al
 
 # Special Characteristics
 
-> It' \*\*s not enough to have eyes to see (anonymous)
+> Having eyes is not enough to see (anonymous)
 
 Every creature is special and unique, yet there are beings even more unique and special for their characteristics. These are the peculiarities of some of them.
 
 ## Twilight Vision
 
-What is darkness for many is seeing well for those with twilight vision as long as there is a minimal source of light.
+What many see as darkness, they see clearly for those with twilight vision as long as there is a minimal source of light.
 
 Twilight vision is color vision.
 A spellcaster with twilight vision can read a Scroll as long as there is even a dim candle as a light source nearby.
@@ -566,7 +566,7 @@ Making a Survival check to look for traps or a visual-only Awareness check takes
 
 ## Scent
 
-This special quality allows a creature to use its sense of smell to detect hidden or approaching enemies and to follow tracks. Creatures with scent can identify familiar smells by smell just as humans do with sight.
+This special quality allows a creature to use its sense of smell to detect hidden or approaching enemies and to follow tracks. Creatures with scent can recognize familiar scents just as humans do with sight.
 
 The creature can detect creatures within 6 meters by smell. If the opponent is downwind, the range increases to 18 meters; if upwind, the range decreases to a distance of 3 meters.
 Stronger odors, such as smoke, garbage, or decomposing bodies, can be detected at twice the range indicated above.
@@ -631,7 +631,7 @@ Strength measures physical power, athleticism, and the limits of brute force you
 
 A Strength check can be used for any attempt to lift, push, pull, or break something, to push your body into a space, or any other application of brute force.
 
-A monster with Strength -4 is not about to die, it simply has very little strength (imagine giving a Strength value to a mouse or a squirrel if not a small spider..)
+A monster with Strength -4 is not about to die, it simply has very little strength (imagine giving a Strength value to a mouse or a squirrel such as a mouse, squirrel, or small spider)
 
 A character with a Strength score of -5 is dead.
 
@@ -698,7 +698,7 @@ A character with a Charisma score of -5 is unconscious.
 
 Each Ability Score generally ranges from 0 to 3, a good Ability Score is 1, 2 is excellent, 0 is "normal", 3 is considered *exceptional*.
 
-A score of -1 is considered weak, a -2 subnormal, a -3 severely problematic, a -4 leads to almost non-use of the ability, a -5 is appropriate for someone who should just stay in bed (if not already in a coffin).
+A score of -1 is considered weak, a -2 very weak, a -3 severely problematic, a -4 leads to almost non-use of the ability, a -5 is appropriate for someone who should just stay in bed (if not already in a coffin).
 
 ### Optional - Character Age
 
@@ -720,11 +720,11 @@ The indicated modifiers are cumulative.
 
  
 
-Ability Scores have an important but not fundamental role. The player must understand that a low score does not mean they have a terrible character, but rather they will have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
+Ability Scores have an important but not everything. The player must understand that a low score does not mean they have a terrible character, but rather they will have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
 
 Personally, I suggest the approach of the **Base Mode**. In OBSS, characters are not heroes, they are not the chosen ones, who stand up as defenders of the planet. The characters are normal people often involved, despite themselves, in situations at the limit if not beyond survival.
 
-The undoubted advantage of rolling values in order of characteristics is that it allows to mix up patterns and avoid *builds* made at the table.
+The clear advantage of rolling values in order of characteristics is that it allows to mix up patterns and avoid *builds* made at the table.
 
 It' \*\*s likely that you won' \*\*t get the results you were hoping for, or that they might come in characteristics that don' \*\*t interest you. That' \*\*s fine. Change your mind, let yourself be inspired by the values obtained! Have fun with the new character, build something new and different, let yourself be surprised.
 
@@ -744,7 +744,7 @@ The character thus generated gets the Feat Hard to Kill (page ) for free.
 
 Each player rolls 4d6 6 times and adds the best 3 results each time. The result obtained is checked with the **Table: Ability Score Roll** and assigned to the Ability Scores as desired.
 
-### Optional Mode (for cowards!)
+### Optional Mode (Point Buy)
 
 Each player distributes 4 points among the 6 Ability Scores, each Ability Score must have a minimum score of -1 and a maximum of 2 before racial modifiers.
 
@@ -785,7 +785,7 @@ The increase in Characteristics immediately applies the modifier to Skill Checks
 
 >>> **Low Characteristics**: Players will still complain about the Ability Scores rolled, it' \*\*s normal, especially less experienced players. Try to make them understand that they shouldn' \*\*t limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
 
->> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it' \*\*s not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
+>> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it' \*\*s not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Game Master rewards players who describe and excel in what the character does!
 
 > It is our choices that show who we truly are, far more than our abilities. Albus Dumbledore
 
@@ -842,7 +842,7 @@ A system to add tension is to manage a set of Fate Points shared between charact
 
 Place a container, a small bowl, in the center of the table with a number of d6 equal to the number of characters. Each player is free to take one die at a time and use it as if they were Fate Points.
 
-The dice used by the players are then moved to another container that the Narrator, always at most one at a time per opponent, will use to *their benefit*. Once the Narrator has used the die, they put it back in the players' \*\* container.
+The dice used by the players are then moved to another container that the Game Master, always at most one at a time per opponent, will use to *their benefit*. Once the Game Master has used the die, they put it back in the players' \*\* container.
 
 ---
 
@@ -868,17 +868,17 @@ Traits have no positive or negative connotation, they only serve to frame the ch
 
 **At the first level, choose a Trait that is more characteristic for the character, this will have value 1, the other 4 Traits will have value 0.**
 
-With the passing of time and adventures, Traits will increase in value or may be replaced, in concert between Narrator and player based on how it' \*\*s played, by other Traits. **The higher a Trait value, the more present and permeating it is in the character' \*\*s choices**.
+With the passing of time and adventures, Traits will increase in value or may be replaced, in concert between Game Master and player based on how it' \*\*s played, by other Traits. **The higher a Trait value, the more present and permeating it is in the character' \*\*s choices**.
 
-During the adventures, the Narrator, following particular scenes and recitation, may increase by one point, or a fraction of a point, a character' \*\*s Trait.
+During the adventures, the Game Master, following particular scenes and recitation, may increase by one point, or a fraction of a point, a character' \*\*s Trait.
 
-For example, following a particular situation and adventure climax, the Narrator might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
+For example, following a particular situation and adventure climax, the Game Master might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
 
-While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Talk to the Narrator, they will know how to prepare situations and adventures that will help you understand how to evolve the character and possibly change the chosen Traits.
+While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Talk to the Game Master, they will know how to prepare situations and adventures that will help you understand how to evolve the character and possibly change the chosen Traits.
 
 In the character sheet, you will find **checks** to put next to the Traits, these are marked following actions suitable to increase the value of the Trait; once 10 checks are reached, the Trait will increase by 1 point and you will start marking a new set of ten.
 
-It will be the Narrator during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
+It will be the Game Master during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
 
 Every particularly important action where the character has followed a Trait brings the character closer to the **Patron** competent for that Trait.
 
@@ -897,7 +897,7 @@ To identify the most similar Patron, the one' \*\*s that will give you power, ch
 
 One is a Devotee with at least 2 Traits and a Follower with at least 1 Trait in common with the Patron. One cannot be simultaneously a Follower or Devotee of multiple Patrons.
 
-The Narrator is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
+The Game Master is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
 
 **Traits List**
 
@@ -1137,7 +1137,7 @@ Characters rarely embody a single archetype throughout their entire journey. Rat
 - **The Leadership Evolution:** Ally > Hero > Mentor > Ruler
 - **The Spiritual Awakening:** Everyman > Threshold Guardian > Hermit > Magician > Creator
 
-Each transition between archetypes represents a significant character development moment, often accompanied by the gaining or losing of specific Traits and potentially a shift in Patron affinity. Narrators and players can use these archetypal cycles to plan meaningful character arcs.
+Each transition between archetypes represents a significant character development moment, often accompanied by the gaining or losing of specific Traits and potentially a shift in Patron affinity. Game Masters and players can use these archetypal cycles to plan meaningful character arcs.
 
 ## Patron Affinities and Archetypal Resonances
 
@@ -1191,7 +1191,7 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 - Use Patron interventions to highlight or challenge a character' \*\*s archetypal nature
 - Design campaign arcs that follow classic archetypal cycles
 
->>> **Narratore**: This archetypal system provides another layer of depth to character creation and development, bridging psychological theory with the game' \*\*s existing systems of Traits and Patrons. By understanding these archetypal patterns, players and Narrator can create more coherent, psychologically consistent characters and stories.
+>>> **Narratore**: This archetypal system provides another layer of depth to character creation and development, bridging psychological theory with the game' \*\*s existing systems of Traits and Patrons. By understanding these archetypal patterns, players and Game Master can create more coherent, psychologically consistent characters and stories.
 
 **Rather than restricting creativity, these archetypes serve as useful frameworks and guidelines that can be embraced, subverted, or transformed throughout a character' \*\*s journey**. The integration of Traits and Patron affinities with archetypal patterns creates a rich tapestry of possibilities for character development and storytelling.
 
@@ -1213,7 +1213,7 @@ Each character has an initial Profession, a life and work path that has led them
 
 Some Professions and their related skills are listed; the character acquires these skills with the score indicated in the table.
 
-In the character sheet, the initial Profession and acquired skills should be marked; in agreement with the Narrator, it is possible to select different skills and also create different professions!
+In the character sheet, the initial Profession and acquired skills should be marked; in agreement with the Game Master, it is possible to select different skills and also create different professions!
 
 **Table: List of Professions and related Skills**
 
@@ -1256,7 +1256,7 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
-A profession does not express itself in just 4 skills, but these are the ones that will come into use most during adventures; the Narrator will be helped by your profession to understand how your character can solve situations and how they will interact with other characters.
+A profession does not express itself in just 4 skills, but these are the ones that will come into use most during adventures; the Game Master will be helped by your profession to understand how your character can solve situations and how they will interact with other characters.
 
 Below is the **Table list of skills** from which to choose for any new professions or customizations.
 
@@ -1264,7 +1264,7 @@ Below is the **Table list of skills** from which to choose for any new professio
 
 For each new profession you create, associate 4 skills taken from the **Table: List of Skills and Related Ability Score for Use**. One skill will start with a score of 1, two skills will start with a score of 2, and the most specific and professional one will start with a score of 3.
 
-In agreement with the Narrator, it is also possible to change the order of Skills for Professions already listed, making the character more capable in some skills rather than others.
+In agreement with the Game Master, it is also possible to change the order of Skills for Professions already listed, making the character more capable in some skills rather than others.
 
 ### Skills, Intelligence, and Character Background
 
@@ -1331,9 +1331,9 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Climb* (STR)**: With this skill, you can scale vertical surfaces, from city walls to rock faces. It is related to the Movement Action. With 8 points the Climbing movement is only halved.
 
-**Craft (INT)**: it is specified on a constructive ability, allows to build the object of the craft and to judge and evaluate work in the area of competence.
+**Craft (INT)**: it is specify a particular craft or trade, allows to build the object of the craft and to judge and evaluate work in the area of competence.
 
-**Deceive (CHA)**: The Deceive skill can be used to Bamboozle (telling tall tales) or Persuade (adapting the truth) in order to convince the interested party of your words. Variable cost.
+**Deceive (CHA)**: The Deceive skill can be used to bamboozle others (by telling tall tales) or mislead them (adapting the truth) in order to convince the interested party of your words. Variable cost.
 
 **Diplomacy (CHA)**: With this skill, you can resolve disputes and gather valuable information and rumors from people. The skill is also used to negotiate effectively with the right etiquette and conduct suitable for the controversial situation. Variable cost.
 
@@ -1353,7 +1353,7 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Knowledge of Geography (INT)**: With this skill, you have knowledge of climate, population, terrains, territories, nations, and borders. 1 Action.
 
-**Knowledge of Law (INT)**: With this skill, you know the Law of a region. You are expert in knowing norms and loopholes. You know how to cite cases and you know other pettifoggers and judges. 2 Actions.
+**Knowledge of Law (INT)**: With this skill, you know the Law of a region. You are expert in knowing norms and loopholes. You know how to cite cases and you know other lawyers and judges. 2 Actions.
 
 **Knowledge of Languages (INT)**: Each point in this skill allows you to learn a new written and spoken language. A good Languages score helps to understand unknown languages and make yourself understood. It is also used to understand complex texts. Variable cost.
 
@@ -1371,7 +1371,7 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Intimidate (STR)**: Intimidate is based on the physical approach to convince the interested party. 1 Action.
 
-**Local Traditions (CHA)**: With this skill, you have knowledge of the inhabitants (most known), customs, legends, laws, personalities, traditions. It is necessary to specify a geographical region where the knowledge is applicable. 1 Action.
+**Local Traditions (CHA)**: With this skill, you have knowledge of the area' \*\*s inhabitants (the most prominent ones), customs, legends, laws, personalities, traditions. It is necessary to specify a geographical region where the knowledge is applicable. 1 Action.
 
 **Nature (WIS)**: With this skill, you have knowledge of Animals, Fey, seasons and cycles, weather, plants. 1 Action.
 
@@ -1426,7 +1426,7 @@ The **Reflex Saving Throw** indicates how agile and ready you are to avoid obsta
 When a Saving Throw is requested, it means making a check on the required Active Proficiency, whether it' \*\*s Will, Fortitude, or Reflex.
 The check is performed by rolling 3d6 + the value of the required Active Proficiency, which is the score in the Will, Reflex, or Fortitude Saving Throw + the value of the Ability Score linked to the Active Proficiency type (Wisdom, Dexterity, or Constitution) + Feats + magical bonuses (items that affect the Saving Throw) and various modifiers present.
 
-It' \*\*s possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Narrator will tell you when a different modifier applies.
+It' \*\*s possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Game Master will tell you when a different modifier applies.
 
 ### Weapon Proficiency
 
@@ -1483,7 +1483,7 @@ A Magic Proficiency score of 14 and having taken Magic Adept 4 times, with a 4 i
 
 ### Optional - Feats as Active Proficiencies
 
-The Narrator may grant, at the player' \*\*s request, the ability to use the Active Proficiency point not to increase Magic or Weapon Proficiency, but to select a new Feat, respecting the requirements.
+The Game Master may grant, at the player' \*\*s request, the ability to use the Active Proficiency point not to increase Magic or Weapon Proficiency, but to select a new Feat, respecting the requirements.
 
 ### Base and Active Proficiency Scores
 
@@ -1509,9 +1509,9 @@ Each point attributed to Base Proficiencies or Weapon or Magic Proficiency allow
 
 > Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armor yourself in it, and it will never be used to hurt you. (Tyrion Lannister)
 
-OBSS is a hard, dangerous, deadly system but also rich in satisfaction. Your characters are not heroes, they are not chosen ones. They are unfortunate individuals who find themselves in endeavors where perhaps they will survive, and it will be at the expense of some companion. It' \*\*s not you who chooses the adventure, but it' \*\*s the adventure that impetuously drags you in. Be strong, brave, clever but not reckless.
+OBSS is a hard, dangerous, deadly system but also rich in satisfaction. Your characters are not heroes, they are not chosen ones. They are ordinary individuals who find themselves in endeavors where perhaps they will survive, and it will be at the expense of some companion. It' \*\*s not you who chooses the adventure, but it' \*\*s the adventure that impetuously drags you in. Be strong, brave, clever but not reckless.
 
-Survive and claim the Law of the Prize and you will see that as you level up, you will acquire extraordinary skills and abilities! *Spes ultima dea*!
+Survive and claim the your rewards and you will see that as you level up, you will acquire extraordinary skills and abilities! *Spes ultima dea*!
 
 First of all, prepare the character sheet in front of you and a sheet where you can take notes.
 
@@ -1564,7 +1564,7 @@ At this point, choose the Traits (p. ). Do it carefully, you are building your c
 
 In the character sheet, in the Traits box, where there is the Patron column, write the Patron that connects you to that Trait, regardless of whether you have chosen it or not.
 
-Finally, remember that a *Dissolute* and *Loyal* character sounds good in a story where they are the only protagonist, but here you play in a **group**. Don' \*\*t take Traits in obvious opposition to others or play like a *jerk*, otherwise the character will naturally be pushed away by other characters and by the Narrator.
+Finally, remember that a *Dissolute* and *Loyal* character sounds good in a story where they are the only protagonist, but here you play in a **group**. Don' \*\*t take Traits in obvious opposition to others or play like a *jerk*, otherwise the character will naturally be pushed away by other characters and by the Game Master.
 
 If you' \*\*ve put points in Magic Proficiency, also consider taking the Magic Adept Feat to enhance your magic (and *learn* an additional spell!).
 
@@ -1579,18 +1579,18 @@ It' \*\*s the Feats you choose that increase the Saving Throws score. Remember t
 Choose your equipment (p. ), armor (p. ), weapons (p. ), backpack, two torches, some food rations... a stuffed animal... whatever seems essential for the adventure.
 Then update the part of the sheet related to Defense by marking what bonus your armor and shield give you. Remember that you start with 100 gp, spend them carefully!
 
-Get into the role, allow yourself to play this extraordinary character. If you ever get tired of playing it and want to try something different, talk to the Narrator, they will know how to advise you and suggest the best path.
+Get into the role, allow yourself to play this extraordinary character. If you ever get tired of playing it and want to try something different, talk to the Game Master, they will know how to advise you and suggest the best path.
 You have the advantage that in OBSS classes don' \*\*t exist, the character grows, evolves, and learns based on what you do and experience. You can prepare your *build* in advance but you will never have the certainty that your character will evolve as you thought. Let it live and grow!
 
-Finally, remember the Law of the Prize. This world is fierce, often evil, and even more so will want to kill you, yet for those who survive there is the Law of the Prize, a law that not even the Patrons can violate. The Law is rather simple in its basic concept *To those who survive go the treasures and glory*.
+Finally, remember the your rewards. This world is fierce, often evil, and even more so will want to kill you, yet for those who survive there is the your rewards, a law that not even the Patrons can violate. The Law is rather simple in its basic concept *To those who survive go the treasures and glory*.
 
->>> **Narratore**: ***Dysfunctional characters***: the Narrator may grant, based on the type of campaign, that if the created character has all Ability Score values at 0 or less, it can be created again.
+>>> **Narratore**: ***Dysfunctional characters***: the Game Master may grant, based on the type of campaign, that if the created character has all Ability Score values at 0 or less, it can be created again.
 
 ## Leveling Up
 
 > But there are some things you can' \*\*t understand by thinking. You have to experience them. (The Neverending Story, Michael Ende)
 
-Every time the Narrator confirms your level advancement, several operations must be performed to update the character sheet.
+Every time the Game Master confirms your level advancement, several operations must be performed to update the character sheet.
 
 - First of all, take the sheet, pencil and eraser, and dice (at least the d6)
 - Update the Experience Points
@@ -1603,7 +1603,7 @@ Every time the Narrator confirms your level advancement, several operations must
 - Update the Attack Roll score based on the new Weapon Proficiency value, Feats, bonuses given by the Weapon List
 - Distribute (Int/2)+1, with a minimum of 1 point, among the Base Proficiencies (p. ) known or learned during adventures. Verify the Awareness score.
 - Update the Fate Points score $(20-level)/5$, rounded to the nearest integer
-- Increase the Traits score as the Narrator will tell you. Verify if you have reached a sufficient score to acquire powers related to Traits
+- Increase the Traits score as the Game Master will tell you. Verify if you have reached a sufficient score to acquire powers related to Traits
 - Verify based on the new Magic Proficiency score and the Magic Adept Feat the maximum spell level (p. ) that can be cast and the Magic Points available (p. )
 - If you have increased Magic Proficiency, learn 1 new spell from the Magic Tome or you can learn two Cantrips (Level 0 Spells)
 - Update the second part of the sheet based on the new Magic Proficiency score
@@ -1627,16 +1627,16 @@ I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)
 
 - Every combat is potentially lethal. Decide with reason and approach it with care. Learn to run away, don' \*\*t be afraid to survive.
 - Not everything is on the character sheet. A character' \*\*s sheet is its perimeter but does not define what it can or cannot do. Rack your brains and be creative, alternative, curious but not suicidal or reckless.
-- Not everything is solved with a dice roll. Ask the right questions, talk with your companions, and describe carefully what you intend to do. The Narrator rewards accurate descriptions. Describing how and what you do can avoid having to make a check!
+- Not everything is solved with a dice roll. Ask the right questions, talk with your companions, and describe carefully what you intend to do. The Game Master rewards accurate descriptions. Describing how and what you do can avoid having to make a check!
 - Low ability scores are just low ability scores and not the character. Use proficiencies, Feats, make sure to roll as few dice as possible to solve problems.
 - Improvise, adapt, and overcome! (Tom Highway - Gunny, Movie). Or as some of my players preferred *Improvise, **Deceive**, and overcome*.
-- Live your character fully. Amplify their story, bring their past into the present. Help your companions to know you and the Narrator to build better stories around your stories.
+- Live your character fully. Amplify their story, bring their past into the present. Help your companions to know you and the Game Master to build better stories around your stories.
 - One thing that no one can ever take away from you is being heroic, intelligent, resolute, determined, stubborn but not stupid.
-- Describe realistically what you do, it will help the Narrator and your companions around you. It' \*\*s certainly better than saying *I make an Awareness check*. Exalt yourself in describing the most important actions, the Narrator will take it into account.
+- Describe realistically what you do, it will help the Game Master and your companions around you. It' \*\*s certainly better than saying *I make an Awareness check*. Exalt yourself in describing the most important actions, the Game Master will take it into account.
 - Always remember that the greater the danger, the greater the experience gained. The deeper the dungeon, the greater the treasures and experience acquired!
 - The goal is to have fun, make others have fun, and savor the challenge. Don' \*\*t create a character that is against other characters or always causes trouble and problems. Mediate your desire with the needs of the group, because always and **only as a group** will you survive and never as an individual.
 - Think before you act, but don' \*\*t keep others waiting. Use the time between your rounds to plan how to act best.
-- If you have difficulty understanding or imagining something, ask the Narrator for more information and clarification, they will be happy to provide it.
+- If you have difficulty understanding or imagining something, ask the Game Master for more information and clarification, they will be happy to provide it.
 - Embrace failure. Failing with style is much better than a boring victory.
 - Make sure your character is always concerned with something more than just their life.
 - Don' \*\*t be afraid to argue with other characters, but always make sure not to get personal with the players.
@@ -1647,7 +1647,7 @@ I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)
 
 > The law should be brief, so that the inexperienced may more easily remember it. (Lucius Annaeus Seneca)
 
-Checks, for Proficiencies or Ability Scores, are performed by rolling 3d6, adding to the dice result the score of the Proficiency (base or active) and the linked Ability Score and any magic bonuses and circumstance or Feat bonuses, the result obtained must be communicated to the Narrator, who will compare it with the difficulty (DC) of the check.
+Checks, for Proficiencies or Ability Scores, are performed by rolling 3d6, adding to the dice result the score of the Proficiency (base or active) and the linked Ability Score and any magic bonuses and circumstance or Feat bonuses, the result obtained must be communicated to the Game Master, who will compare it with the difficulty (DC) of the check.
 
 When you need to establish a difficulty, start by thinking that the check should be related to a *normal* person. Don' \*\*t think *if I had to do it then the check would be impossible*, *if Arsène Lupin does the check it' \*\*s very easy*. Start from the assumption that the difficulty must include all circumstantial elements in itself.
 
@@ -1655,7 +1655,7 @@ Think if it' \*\*s raining, there' \*\*s little light, the character is running,
 
 Deciphering an ancient writing may be a walk in the park for an expert linguist, but for a *normal person* who has no idea what might be in front of them, the check is simply impossible. This *impossible* is your DC, the difficulty of the check.
 
-And don' \*\*t be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Narrator to introduce facts, clues, and new adventures.
+And don' \*\*t be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Game Master to introduce facts, clues, and new adventures.
 
 >>> **Not always a check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It' \*\*s not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
 
@@ -1667,7 +1667,7 @@ When -1d6 is written, it means that you roll one die less (or two if it' \*\*s -
 
 The table below serves to relate the difficulty to the minimum ability needed to succeed in the check with an average roll (a score of 10 rolling 3d6). Use these indications to get an idea of the difficulty scales.
 
-The Narrator won' \*\*t tell you make a check at difficulty 10, but will say that the check doesn' \*\*t present elements of particular difficulty.
+The Game Master won' \*\*t tell you make a check at difficulty 10, but will say that the check doesn' \*\*t present elements of particular difficulty.
 
 **Table: Difficulty Class**
 
@@ -1683,7 +1683,7 @@ The Narrator won' \*\*t tell you make a check at difficulty 10, but will say tha
 | 35 | Almost impossible | Amazing |
 | 40 | Impossible | Epic |
 
-If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Narrator who will compare it with the difficulty (DC).
+If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Game Master who will compare it with the difficulty (DC).
 
 ## The Golden Rules
 
@@ -1702,7 +1702,7 @@ Use the **Golden Rules** to your advantage! Dare, try, risk when the situation a
 
 ## Succeeding or Failing the Test
 
-The check is passed when rolling 3d6 and adding the relevant Skill and Characteristic as well as various modifiers, the result is equal to or greater than the DC set by the Narrator.
+The check is passed when rolling 3d6 and adding the relevant Skill and Characteristic as well as various modifiers, the result is equal to or greater than the DC set by the Game Master.
 If the result is lower than the difficulty, the test is failed.
 
 A test can be repeated as long as the conditions that allow the test to be repeated do not change.
@@ -1713,11 +1713,11 @@ A test can be repeated as long as the conditions that allow the test to be repea
 
 If check is passed by at least 8 points above the established difficulty, then considers it a Critical Success.
 
-The Narrator may decide to give more information, grant a bonus to subsequent actions (+1)... anything that can enhance how easily the test was passed..
-Conversely, if the test fails by at least 8 points, the Narrator could describe how miserably the test failed and how the poor result influences the Action and subsequent ones.
+The Game Master may decide to give more information, grant a bonus to subsequent actions (+1)... anything that can enhance how easily the test was passed..
+Conversely, if the test fails by at least 8 points, the Game Master could describe how miserably the test failed and how the poor result influences the Action and subsequent ones.
 
 For every 8 points above or below the established difficulty, one Critical Success or Critical Failure is counted. When the manual speaks of 2 Critical Successes, it means passing the test by at least 16 points.
-At the Narrator' \*\*s discretion, a critically failed test cannot be repeated by the same character.
+At the Game Master' \*\*s discretion, a critically failed test cannot be repeated by the same character.
 
 Consider how competent a character is in order to avoid any check with a foregone conclusion.
 
@@ -1739,7 +1739,7 @@ There are situations where the character must make an Opposed Check against an o
 
 In this case, the character makes the indicated check whose **difficulty (DC) is equal to 10** + the Ability Score + Proficiency or Saving Throw (as indicated by the check) + contingent modifiers (bonuses/penalties).
 
-Whoever gets the higher value wins; in case of a tie, the one with the higher value in the Proficiency wins, then in the Ability Score, and finally the eventual *opponent*. 
+Whoever gets the higher value wins; if there is a tie, the one with the higher value in the Proficiency wins, then in the Ability Score, and finally the eventual *opponent*. 
 
 **Some examples of Opposed Checks**
 - - **Deceiving someone**: Deception Vs Sense Motive
@@ -1772,7 +1772,7 @@ Some checks may be indicated as *Make a Dexterity check at DC 20* without indica
 
 ### Checks against a static DC
 
-When the Check is opposed to a *static opponent*, that is, not a creature endowed with Ability Scores and Proficiencies, but to a lock, a jump to be made... then the check is performed by comparing 3d6 + the interested Ability Score + the most suitable Active Proficiency (ST/MP/WP) or Base Proficiency (Disable Device, Athletics...) against the difficulty (**DC**) established by the Narrator.
+When the Check is opposed to a *static opponent*, that is, not a creature endowed with Ability Scores and Proficiencies, but to a lock, a jump to be made... then the check is performed by comparing 3d6 + the interested Ability Score + the most suitable Active Proficiency (ST/MP/WP) or Base Proficiency (Disable Device, Athletics...) against the difficulty (**DC**) established by the Game Master.
 
 > Audentes fortuna iuvat (*Fortune favors the bold*, Virgil)
 
@@ -1816,7 +1816,7 @@ The player may request to make the check even if the result is certain.
 
 **If time becomes a factor not to be considered**, that is, the character has at least 1 hour to think and work and has no penalties or risk, consider having rolled 18 (but there is no dice explosion or Critical Success even if the total is 18).
 
-If you want to take these values, ask the Narrator, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
+If you want to take these values, ask the Game Master, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
 
 >>> **Good lecture**: I recommend everyone to read the excellent article by Lorenzo Bertini \hrefhttps://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20Elogio del 10 e del 20 for a critical and intelligent examination of success and failure in checks.
 
@@ -1828,7 +1828,7 @@ Multiple characters can help the same character; bonuses of this type are cumula
 
 **In the case of checks based on Proficiencies, the helper must have assigned at least one point in the Proficiency involved**.
 
-The Narrator will evaluate the possibility that more than one character provides help considering spaces, ways, and times (it' \*\*s not easy to help someone thread a needle).
+The Game Master will evaluate the possibility that more than one character provides help considering spaces, ways, and times (it' \*\*s not easy to help someone thread a needle).
 
 If the check to help fails critically, the one who was supposed to be helped has a -1 penalty in the check.
 
@@ -1852,7 +1852,7 @@ There are situations where the group must make a proficiency check but the resul
 
 ## Examples of Proficiency Checks
 
-**Atypical Checks**. The player is encouraged to find uses, solutions, and approaches that go beyond the most obvious checks. Be creative and describe to the Narrator the wonderful action you want to perform and how to do it! The Narrator will determine based on your action description what to check and how difficult it might be.
+**Atypical Checks**. The player is encouraged to find uses, solutions, and approaches that go beyond the most obvious checks. Be creative and describe to the Game Master the wonderful action you want to perform and how to do it! The Game Master will determine based on your action description what to check and how difficult it might be.
 
 Skills that have a * next to their name, like **Acrobatics*** have check penalties due to the armor worn.
 
@@ -1867,7 +1867,7 @@ See paragraph Falls (page ) for details on how to use Acrobatics when falling.
 DC 12 + rarity factor of item. Common +0, Uncommon +2, Rare +6, Very Rare +10, Legendary +16. 3 Actions
 
 ### Arcana - Identify a magic item 
-For identifying a magical object and its capabilities requires an **Arcana** check with difficulty 20 to get general indications about powers and areas of use, only with a result of at least 25 in the check can you learn its details, magic bonuses and charges. **10 minutes**. With an Arcana score of 6 it takes 5 minutes, with 12 it takes 1 minute, with Arcana 18 it takes 1 Round to perform the check.
+Identifying a magical object and its capabilities requires an **Arcana** check with difficulty 20 to get general indications about powers and areas of use, only with a result of at least 25 in the check can you learn its details, magic bonuses and charges. **10 minutes**. With an Arcana score of 6 it takes 5 minutes, with 12 it takes 1 minute, with Arcana 18 it takes 1 Round to perform the check.
 
 ### Arcana - Identify a spell  
 while being cast is an **Arcana** check with DC equal to 10 + spell level. It costs a **Reaction**. If done together with casting a Counterspell it doesn' \*\*t cost a Reaction.
@@ -1888,7 +1888,7 @@ Performing a standing Jump costs 1 Action. A Jump performed within half of your 
 
 Climbing, scaling, or descending from a rough surface is equivalent to moving through **doubly difficult terrain**. 
 
-In case of failure of the check, the Action is consumed without moving. If you get a Critical Failure in check, you lose your grip and can make a Reflex Saving Throw at the same difficulty to grab onto something; if you also fail the Saving Throw, you fall all the way down.
+If the check fails, the Action is consumed without moving. If you get a Critical Failure in check, you lose your grip and can make a Reflex Saving Throw at the same difficulty to grab onto something; if you also fail the Saving Throw, you fall all the way down.
 
 The indicated modifiers are cumulative.
 
@@ -1949,7 +1949,7 @@ is a **Handle Animal** check with DC 12+2*CR of the animal. It takes 1 minute pe
 
 ### Languages
 
-In the world there are old human languages, used only in ancient tomes and in isolated communities, and there is the Common language built from the collection of old terrestrial idioms and more or less comprehensible to anyone. Every character who has at least Intelligence -2 speaks the language of their own culture, with 0 they write it. For every point equal to or greater than 2, they speak and write another language that will be chosen at character creation. For every point spent in the Knowledge Language Skill, they speak and write another language.
+In the world there are old human languages, used only in ancient tomes and in isolated communities, and there is the Common language built from the collection of old terrestrial idioms and comprehensible to most people. Every character who has at least Intelligence -2 speaks the language of their own culture, with 0 they write it. For every point equal to or greater than 2, they speak and write another language that will be chosen at character creation. For every point spent in the Knowledge Language Skill, they speak and write another language.
 
 Languages marked with a * can only be spoken by creatures belonging to that species or cultural group.
 
@@ -2015,7 +2015,7 @@ To the **Base Difficulty of 15**, the following modifiers apply:
 | Poor visibility | DC +2 |
 | Tries to conceal tracks | DC +4 |
 
->> **Checks Checks and more Checks!**: To be cynical, a role-playing game is all about checks, whether you' \*\*re trying to make a jump, hit someone, avoid a trap or a spell...!
+>> **Checks Checks and more Checks!**: At its core, a role-playing game is all about checks, whether you' \*\*re trying to make a jump, hit someone, avoid a trap or a spell...!
 You need to be smarter and wiser. Checks can often be avoided or approached with advantage. Play with wit, use your imagination, be creative!
 
 ---
@@ -2024,7 +2024,7 @@ You need to be smarter and wiser. Checks can often be avoided or approached with
 
 > To formulate dialectics clearly, one must consider it, without regard to objective truth (which is the object of logic), simply as the art of obtaining reason, which will certainly be easier if one objectively has reason. (Arthur Schopenhauer)
 
-Social Combat refers to the attempt by characters to convince, force, or deceive NPCs or creatures controlled by the Narrator to do or say things they wouldn' \*\*t want to.
+Social Combat refers to the attempt by characters to convince, force, or deceive NPCs or creatures controlled by the Game Master to do or say things they wouldn' \*\*t want to.
 
 It may happen that players try to bribe a guard, obtain information diplomatically or through intimidation, get higher pay, deceive a merchant, or more simply whenever the "confrontation" or "conflict" is not through weapons but with words.
 
@@ -2032,25 +2032,25 @@ Although social combat may involve a multitude of situations, what all checks ha
 
 , not through weapons but by trying to *convince* the opponent.
 
-In these situations, two distinct approaches can be followed: on one hand, the Narrator evaluates the result based on what the players say; on the other, this system sets up rules as if it were a combat to establish who wins in the final test.
+In these situations, two distinct approaches can be followed: on one hand, the Game Master evaluates the result based on what the players say; on the other, this system sets up rules as if it were a combat to establish who wins in the final test.
 
-Each Narrator chooses the approach they prefer; let' \*\*s say that based on experience with the system and role-playing games in general, they might prefer one system or the other. For a neutral approach, using rules might be more appropriate.
+Each Game Master chooses the approach they prefer; let' \*\*s say that based on experience with the system and role-playing games in general, they might prefer one system or the other. For a neutral approach, using rules might be more appropriate.
 
 Depending on whether the player uses more or less coercive methods, the opponent will resist accordingly.
 The player will perform an Opposed Check of Intimidate, Diplomacy, or Deception, and the opponent will try to resist with a Will Saving Throw with Charisma bonus.
 If one must resist coercion based on threats, counter with a Will Saving Throw with Strength bonus.
 
-The Narrator, based on the NPC' \*\*s level, will determine how many consecutive successes are needed to convince them. As a general rule, 1 + 1 success for every two levels of the NPC is required. The number of successes can be modified based on convictions, promises, pacts, interpersonal relationships that the opponent has regarding the situation.
+The Game Master, based on the NPC' \*\*s level, will determine how many consecutive successes are needed to convince them. As a general rule, 1 + 1 success for every two levels of the NPC is required. The number of successes can be modified based on convictions, promises, pacts, interpersonal relationships that the opponent has regarding the situation.
 
-If all checks are won, the *combat* will be won and the information or request will be obtained. In case of Critical Success it count two successes.
+If all checks are won, the *combat* will be won and the information or request will be obtained. In case of Critical Success it counts as two successes.
 
-In case of failure of the check, it can be retried with a -1 penalty if the consequences of failure don' \*\*t lead to a subsequent scene.
+If the check fails, it can be retried with a -1 penalty if the consequences of failure don' \*\*t lead to a subsequent scene.
 
-If the failure is critical, then not only is the check failed, but it will not be possible to make further attempts and the opponent will become even less friendly. Most likely, the Narrator will decide the evolution of the situation based on the original request and scene.
+If the failure is critical, then not only is the check failed, but it will not be possible to make further attempts and the opponent will become even less friendly. Most likely, the Game Master will decide the evolution of the situation based on the original request and scene.
 
 In case of Intimidation, most likely the player' \*\*s target will become hostile; in case of Deception, it' \*\*s possible that feeling deceived they will lie or say nothing. In case of Diplomacy, silence or a courteous refusal is more likely.
 
-The Narrator should use these checks, whether positive or negative, to evolve the scene and enrich the adventure.
+The Game Master should use these checks, whether positive or negative, to evolve the scene and enrich the adventure.
 
 If there' \*\*s information you don' \*\*t want to give, set a higher difficulty.
 Remember that characters trust the result obtained, and if you start giving false information, they will no longer be able to trust the checks made.
@@ -2095,7 +2095,7 @@ Whoever has the highest initiative between players and enemies starts first, fol
 
 From fastest to slowest there is the resolution of Actions.
 
-The Narrator will ask the fastest, the one with the highest initiative, to declare their Actions and act, then proceed to ask and have the other players and enemies act.
+The Game Master will ask the fastest, the one with the highest initiative, to declare their Actions and act, then proceed to ask and have the other players and enemies act.
 
 In this way, the choice of action occurs when it' \*\*s the player' \*\*s round, who can act based on Actions and resolutions that have already taken place.
 
@@ -2185,7 +2185,7 @@ During the Movement Action, it is possible to **Draw a Weapon** or Shield or **S
 
 **Cast a Spell***: usually 2 Actions are needed. The number of necessary Actions is indicated in the spell description. In the Magic chapter, the rules (page ) for casting multiple spells in a round are specified.
 
-**Exchange a dialogue with someone***: A dialogue can be just a few seconds or minutes. The Narrator will evaluate how long it lasts.
+**Exchange a dialogue with someone***: A dialogue can be just a few seconds or minutes. The Game Master will evaluate how long it lasts.
 
 **Exchange a few lines with someone***: As long as they are truly few lines or a glance, it doesn' \*\*t consume Actions; if it becomes more articulated, then it uses Actions. The goal is not to interrupt the flow of Actions with a dense dialogue but still allow interaction between characters.
 
@@ -2353,7 +2353,7 @@ Each Attack Roll is compared to Defense.
 
 If the **Attack Roll** is equal to or higher than the Defense value, the opponent has been hit and the damage of the wound will be determined, given by the weapon die + Strength score and other factors such as magic bonuses, Weapon List, and Abilities.
 
-If the Attack Roll (AR) is lower than the Defense, then the opponent will have parried, dodged, avoided... The choice is left to the player (or Narrator); having avoided the attack, no wounds are taken.
+If the Attack Roll (AR) is lower than the Defense, then the opponent will have parried, dodged, avoided... The choice is left to the player (or Game Master); having avoided the attack, no wounds are taken.
 
 There are situations that can advantage Defense such as cover, hiding places, trenches, doors, companions of much larger size than one' \*\*s own, invisibility... Consult the paragraphs related to Hiding and Cover to understand the advantage they can give.
 
@@ -2384,11 +2384,11 @@ The basic rules of Skills also apply to the Attack Roll. Defense is a fixed valu
 
 If you rolled three times 1, you missed, regardless of the final result.
 
-If you rolled three 1s, you missed, regardless of the final result. The Narrator might also decide that bad things happen... (for example, see Attack Roll Failure Table, page )
+If you rolled three 1s, you missed, regardless of the final result. The Game Master might also decide that bad things happen... (for example, see Attack Roll Failure Table, page )
 
 ## Rolling 3 times 6
 
-If in the first 3 Attack Rolls you make three times 6, you will hit the opponent regardless of the final result of the Attack Roll. In addition to having the certainty of having made a Critical Hit, the Narrator might decide to apply some further descriptive (or effective) effect. And remember to keep rolling those magnificent dice in the hope of making 6 again!
+If in the first 3 Attack Rolls you make three times 6, you will hit the opponent regardless of the final result of the Attack Roll. In addition to having the certainty of having made a Critical Hit, the Game Master might decide to apply some further descriptive (or effective) effect. And remember to keep rolling those magnificent dice in the hope of making 6 again!
 
 ## Critical Hit
 
@@ -2574,7 +2574,7 @@ The **positive modifiers indicated** in the *Table: Modifiers in attack or defen
 
 **Penalties** add up entirely among themselves. If the character is surprised and prone, they have a -6 to Defense.
 
->>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Narrator) of some monster; don' \*\*t be rigid but dynamic and adapt to situations.
+>>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Game Master) of some monster; don' \*\*t be rigid but dynamic and adapt to situations.
 
 ## Other Actions and Situations
 
@@ -2610,7 +2610,7 @@ The attacker automatically hits and inflicts three Critical Hits.
 
 OBSS does not provide the possibility to make called shots with weapons or spells, unless specifically stated.
 
-When you hit a target, you hit it generally, without the possibility to specify whether it' \*\*s to the head, leg, or elsewhere; the same concept applies in the case of hitting objects, e.g., if you aim at a door hinge, you hit the entire door. This does not prevent the Narrator from evaluating appropriate consequences for the action undertaken.
+When you hit a target, you hit it generally, without the possibility to specify whether it' \*\*s to the head, leg, or elsewhere; the same concept applies in the case of hitting objects, e.g., if you aim at a door hinge, you hit the entire door. This does not prevent the Game Master from evaluating appropriate consequences for the action undertaken.
 
 ### Non-lethal Damage
 
@@ -2759,7 +2759,7 @@ See also Chapter Vision and Light (page ).
 
 ## Optional Combat Maneuvers
 
-These combat Actions are at the Narrator' \*\*s discretion, who may grant them or not. **Each maneuver counts as an Attack Action** regarding the multi-attack penalties.
+These combat Actions are at the Game Master' \*\*s discretion, who may grant them or not. **Each maneuver counts as an Attack Action** regarding the multi-attack penalties.
 
 When these maneuvers are performed by opponents and the values for Attack Roll, Athletics, Deceive... are not specified, oppose the check with the Saving Throw indicated after the Action cost and the suggested modifiers (Size...).
 
@@ -3660,7 +3660,7 @@ You are more than competent in brewing potions.
 
 The **first time** you take this Feat, you gain a bonus of +1d6 on Herbalism Knowledge, distilling, creating potions, and natural poisons.
 
-The **second time** you take this Feat, the time to prepare potions/poisons is halved and in case of Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
+The **second time** you take this Feat, the time to prepare potions/poisons is halved and on a Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
 
 ## Cautious Caster
 
@@ -4384,7 +4384,7 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 | **Sav. Throws**: | +1 Fortitude, +1 Reflex |
 | **Ability Score**: | Charisma or Dexterity |
 
-Once per day, you can make the Narrator reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
+Once per day, you can make the Game Master reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
 
 This Feat can be declared even after the dice have been rolled.
 
@@ -5420,7 +5420,7 @@ You can use this Feat even after knowing by how much you were hit.
 | **Sav. Throws**: | +1 Fortitude, +1 Will |
 | **Ability Score**: | an ability score of choice |
 
-Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
+Once per day, you can transform a 6 rolled by the Game Master (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
 
 ## Versatile Litany
 
@@ -6473,13 +6473,13 @@ A fireball that is generated in a 9x9 m room will take a good part of it, and in
 
 ### Spell Rarity
 
-Spells indicate the Rarity, which is how likely it is to find this spell or how well-known it might be. Rarity depends not only on the level of the spell itself—obviously more powerful spells are also rarer—but also on how widely they are spread and known. The Narrator will use this 3d6 scale to evaluate what can be found more easily: % Common (1-75\%) - Uncommon (76-93\%) - Rare (94-97\%) - Very Rare (98-99\%) - Legendary (100\%).
+Spells indicate the Rarity, which is how likely it is to find this spell or how well-known it might be. Rarity depends not only on the level of the spell itself—obviously more powerful spells are also rarer—but also on how widely they are spread and known. The Game Master will use this 3d6 scale to evaluate what can be found more easily: % Common (1-75\%) - Uncommon (76-93\%) - Rare (94-97\%) - Very Rare (98-99\%) - Legendary (100\%).
 
 Common (1-14) - Uncommon (15) - Rare (16) - Very Rare (17) - Legendary (18).
 
 ### Combining Magical Effects
 
-The effects of different spells add up as long as their duration overlaps. The effects of the same spell or spells that give the same bonus cast multiple times on the same target do not combine. Instead, the most powerful spell among those cast,the highest level one, and in case of a tie, the one that obtained more Magic Criticals, will apply as long as the durations overlap.
+The effects of different spells add up as long as their duration overlaps. The effects of the same spell or spells that give the same bonus cast multiple times on the same target do not combine. Instead, the most powerful spell among those cast,the highest level one, and if there is a tie, the one that obtained more Magic Criticals, will apply as long as the durations overlap.
 
 In the case of instantaneous spells, the effects act individually if they occur in the same initiative segment. E.g., If I am hit by a lightning bolt at initiative segment 4 and then by another lightning bolt at initiative segment 8, I will make two distinct Saving Throws with relative damage management; if they were in the same initiative segment, I would only suffer the more powerful one (see above).
 
@@ -6680,7 +6680,7 @@ This DC is used to measure the *strength and effectiveness* of the spell when co
 
 In the description of the spell, it is written whether a Saving Throw is necessary and which to perform.
 
-If it is the character who must resist a spell, the Narrator will not tell you to make a Saving Throw at difficulty 18, it is he who compares your roll with the difficulty, he can tell you that the test is complex, difficult, or easy...
+If it is the character who must resist a spell, the Game Master will not tell you to make a Saving Throw at difficulty 18, it is he who compares your roll with the difficulty, he can tell you that the test is complex, difficult, or easy...
 
 >> **Tups casts Arcane dart!**: Tups, who has Intelligence 4, Magic Proficiency 6, and has taken Magic Adept 2 times, casts the \hyperlinkGuiding BoltArcane dart spell. The difficulty (DC) of the Reflex Saving Throw will be equal to 10 + 6 (MP) + 4 (ability modifier for spell, Intelligence) + 2 (has taken Magic Adept 2 times), that is 10+6+4+2 = 22 to halve the damage. If he had made a Magic Check and this had a magic Critical Success, the DC would have become 23.
 
@@ -6689,7 +6689,7 @@ If it is the character who must resist a spell, the Narrator will not tell you t
 - If in the Saving Throw you roll 3 ones, you have failed the roll, regardless of the total, and you obtain a **Critical Saving Failure**.
 - If the Saving Throw fails by a margin of 8, and by every 8 failed you obtain a **Critical Saving Failure**.
 
-It is also possible that in the description of the spell is reported what happens in case of Critical Success or Critical Failure of the Saving Throw.
+It is also possible that in the description of the spell is reported what happens on a Critical Success or Critical Failure of the Saving Throw.
 
 For **monsters** or anyway for a spell casting given by innate magical abilities, if not specified the **DC of the Saving Throw is equal to 12 + 2 x level of the spell + Intelligence or indicated spell modifier**.
 
@@ -6757,7 +6757,7 @@ The spellcaster can modify spells in various ways. These possibilities add versa
 
 The possibilities granted by Altering Spells are cumulative with each other.
 
-**Minor modifications**  to the manifestation of the spell can be agreed with the Narrator for a cost of additional Magic Points or with a successful Magic Check.
+**Minor modifications**  to the manifestation of the spell can be agreed with the Game Master for a cost of additional Magic Points or with a successful Magic Check.
 
 ## Attempting Spells with impediments
 
@@ -6789,7 +6789,7 @@ The damage caused by **Void** is half cold and half negative energy, any protect
 
 Being Immune or having a Resistance to Light or Void does not make one immune or resistant in turn to Fire/Positive Energy or Cold/Negative Energy damage.
 
-Only **negative energy** damages the living and heals the undead, only **positive energy** damages the undead but does not heal the living (at the Narrator' \*\*s discretion, exposure for one round could be equivalent to a Lesser Restoration spell), see also Plane descriptions. A target takes full damage from Light or Void if it has no inherent resistances.
+Only **negative energy** damages the living and heals the undead, only **positive energy** damages the undead but does not heal the living (at the Game Master' \*\*s discretion, exposure for one round could be equivalent to a Lesser Restoration spell), see also Plane descriptions. A target takes full damage from Light or Void if it has no inherent resistances.
 
 A special case is **Curative positive energy** which heals the living and damages the undead. This energy is that of Laying on Hands, Channeling energy, and Cure spells.
 
@@ -7238,7 +7238,7 @@ You place an illusion on a creature or an object you touch so that divination sp
 | **Range**: | Self |
 | **Duration**: | Instantaneous |
 
-By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divination tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The Narrator chooses from the following possible omens:
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divination tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The Game Master chooses from the following possible omens:
 
 - Weal, for good results
 
@@ -7248,7 +7248,7 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 - Nothing, for results that aren' \*\*t especially good or bad
 
-The spell doesn' \*\*t take into account every possible circumstance that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally. If you cast the spell two or more times before the new sun has risen, there is a cumulative 25\% chance for each casting after the first that you get a random reading. The Narrator makes this roll in secret.
+The spell doesn' \*\*t take into account every possible circumstance that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally. If you cast the spell two or more times before the new sun has risen, there is a cumulative 25\% chance for each casting after the first that you get a random reading. The Game Master makes this roll in secret.
 
 ### Aura of Purity
 
@@ -7272,7 +7272,7 @@ A fragrance radiates from you in a 13-meter radius for the duration. While in th
 | **Range**: | Touch |
 | **Duration**: | Instantaneous |
 
-After spending the casting time tracing magical pathways with a precious gem, you touch a Huge or smaller beast or plant. The target must have no Intelligence score or an Intelligence of -3 or less. The target gains an Intelligence of 0. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human' \*\*s. The Narrator will choose appropriate statistics for the type of awakened plant, such as the statistics for the awakened shrub or the awakened tree.
+After spending the casting time tracing magical pathways with a precious gem, you touch a Huge or smaller beast or plant. The target must have no Intelligence score or an Intelligence of -3 or less. The target gains an Intelligence of 0. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human' \*\*s. The Game Master will choose appropriate statistics for the type of awakened plant, such as the statistics for the awakened shrub or the awakened tree.
 
 The awakened beast or plant is Charmed by you for 30 days or until you or your companions harm it. When the Charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
@@ -7331,7 +7331,7 @@ A creature you touch must succeed on a Will Saving Throw or be cursed for the du
 - While cursed, the target must make a Will Saving Throw at the start of each of its turns. If it fails, it wastes 1 Action of that turn doing nothing.
 - While the target is cursed, your attacks and spells deal an extra 1d8 Void damage against it.
 
-The remove curse spell (see description) ends this effect. At the Narrator' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Narrator has final judgment on the effect of a curse.
+The remove curse spell (see description) ends this effect. At the Game Master' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Game Master has final judgment on the effect of a curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, you double the duration. If you obtain 3 Critical Successes, the duration is permanent.
 
@@ -7528,7 +7528,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 *Soothe*. You can suppress any effect causing the target to be Charmed or frightened. When this spell ends, any suppressed effects resume, provided that their duration has not expired in the meantime.
 
-*Indifference*. You can make a target indifferent about a creature of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it sees any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the Narrator determines otherwise.
+*Indifference*. You can make a target indifferent about a creature of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it sees any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the Game Master determines otherwise.
 
 ### Catnap
 
@@ -7584,7 +7584,7 @@ You create a bolt of lightning that strikes a target of your choice within range
 
 **For each Magic Critical Success** obtained in the Magic Check, the bolt extends to three additional targets.
 
-**Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Saving Throw Critical Success/Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Charm Person
 
@@ -7627,7 +7627,7 @@ A sphere of negative energy with an 18-meter radius erupts from a point within r
 
 **For each Magic Critical Success** obtained in the Magic Check the damage increases by 4d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage doubles; on a Critical Success, the damage is reduced to one quarter.
 
 ### Circle of Invisibility
 
@@ -7720,7 +7720,7 @@ If the Saving Throw succeeds, there is no effect; if it fails, the creature is c
 
 You speak a one-word command to a creature you can see within range and make a gesture. The target must succeed on a Will Saving Throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn' \*\*t understand your language, or if your command would cause it harm.
 
-Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the Narrator determines how the target behaves. If the target can' \*\*t follow your command, the spell ends.
+Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the Game Master determines how the target behaves. If the target can' \*\*t follow your command, the spell ends.
 
 - *Approach*. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 meter of you.
 - *Halt*. The target doesn' \*\*t move and takes no actions. A flying creature stays aloft, provided that it' \*\*s able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
@@ -7739,9 +7739,9 @@ Some typical commands and their effects follow. You might issue a command other 
 | **Range**: | Self |
 | **Duration**: | 1 minute |
 
-You communicate with your Patron and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren' \*\*t necessarily omniscient, so you might receive an *unclear* as an answer if a question pertains to information that lies beyond the Patron' \*\*s knowledge. In a case where a one-word answer could be misleading or contrary to the Patron' \*\*s interests, the Narrator might offer a short phrase as an answer instead.
+You communicate with your Patron and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren' \*\*t necessarily omniscient, so you might receive an *unclear* as an answer if a question pertains to information that lies beyond the Patron' \*\*s knowledge. In a case where a one-word answer could be misleading or contrary to the Patron' \*\*s interests, the Game Master might offer a short phrase as an answer instead.
 
-If you cast the spell two or more times before the next dawn, there is a cumulative 25\% chance for each casting after the first that you get no answer. The Narrator makes this roll in secret.
+If you cast the spell two or more times before the next dawn, there is a cumulative 25\% chance for each casting after the first that you get no answer. The Game Master makes this roll in secret.
 
 **NOTE:** you must be at least a Follower to be able to cast this spell.
 
@@ -7836,7 +7836,7 @@ A blast of cold air erupts from your hands. Each creature in a 18-meter cone mus
 
 **For each Magic Critical Success** obtained in the Magic Check the damage increases by 4d8.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage doubles; on a Critical Success, the damage is reduced to one quarter.
 
 ### Confusion
 
@@ -7928,7 +7928,7 @@ Each Magic List can only summon its specific Elemental. The elemental is friendl
 | **Range**: | 9 meters |
 | **Duration**: | 1 hour |
 
-You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Narrator might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
+You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Game Master might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
 
 When the mount drops to 0 Hit Points, it disappears, leaving behind no physical form. You can dismiss the mount at any time as an Action, causing it to disappear. In either case, casting this spell again summons the same mount, restored to its maximum Hit Points.
 
@@ -8029,7 +8029,7 @@ When a creature enters the vortex for the first time on a round or starts its tu
 | **Range**: | Self (1.5 kilometer radius) |
 | **Duration**: | Concentration, up to 8 hours |
 
-For the duration, you take control of the weather within 7.5 kilometers of you. You must be outdoors to cast this spell. Moving to a place where you don' \*\*t have a clear path to the sky ends the spell early. When you cast this spell, you change the current weather conditions, which are determined by the Narrator based on season and latitude. You can modify the precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once the conditions have taken effect, you can change them again. When the spell ends, the weather gradually returns to normal.
+For the duration, you take control of the weather within 7.5 kilometers of you. You must be outdoors to cast this spell. Moving to a place where you don' \*\*t have a clear path to the sky ends the spell early. When you cast this spell, you change the current weather conditions, which are determined by the Game Master based on season and latitude. You can modify the precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once the conditions have taken effect, you can change them again. When the spell ends, the weather gradually returns to normal.
 
 When you change the weather conditions, find the current conditions on the following table and change them by one stage, up or down. When changing wind, you can change its direction as well.
 
@@ -8163,7 +8163,7 @@ The water is potable and quenches thirst if consumed within one round of creatio
 | **Range**: | 3 meters |
 | **Duration**: | Instantaneous |
 
-You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control (the Narrator has the game statistics for these creatures). During your turn, with two Actions, you can mentally command any creature you animated with this spell if the creature is within 36 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a specific chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow that order until its task is complete. The creature is under your control for 24 hours, after which it stops obeying commands you issue. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
+You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control (the Game Master has the game statistics for these creatures). During your turn, with two Actions, you can mentally command any creature you animated with this spell if the creature is within 36 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a specific chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow that order until its task is complete. The creature is under your control for 24 hours, after which it stops obeying commands you issue. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
 **If you get a Magic Critical** in the Magic Check, you can reanimate or reassert control over four ghouls. With two Criticals, you can animate or reassert control over five ghouls or two ghasts or wights. With three Criticals, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
@@ -8497,11 +8497,11 @@ A permanent magical effect is temporarily suppressed for 10 minutes.
 | **Range**: | Self |
 | **Duration**: | Instantaneous |
 
-Your magic and an offering put you in contact with a Patron or a Patron' \*\*s servant. You can ask a single question concerning a specific goal, event, or activity to occur within 7 days. The Narrator offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
+Your magic and an offering put you in contact with a Patron or a Patron' \*\*s servant. You can ask a single question concerning a specific goal, event, or activity to occur within 7 days. The Game Master offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
 
 The spell doesn' \*\*t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally.
 
-If you cast the spell two or more times before finishing at least an 8-hour rest, there is a cumulative 25\% chance for each casting after the first that you get a false reading. The Narrator makes this roll in secret.
+If you cast the spell two or more times before finishing at least an 8-hour rest, there is a cumulative 25\% chance for each casting after the first that you get a false reading. The Game Master makes this roll in secret.
 
 **NOTE**: The spell must be cast by at least one Follower
 
@@ -9020,7 +9020,7 @@ A storm made up of sheets of roaring flame appears at a point of your choice wit
 
 **For each Magic Critical Success** obtained in the Magic Check, you increase the area by one 3-meter cube.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Fireball
 
@@ -9067,7 +9067,7 @@ A vertical column of divine fire roars down from the heavens and strikes at a lo
 
 **For each Magic Critical Success** obtained in the Magic Check the Light damage increases by 4d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage doubles; on a Critical Success, the damage is reduced to one quarter.
 
 ### Flamethrower
 
@@ -9238,7 +9238,7 @@ If you wish, after completing the spell, you can refrain from firing the globe. 
 
 **For each Critical Magical Success** obtained in the Magic Check, the damage increases by 5d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved.
 
 ### Gaseous Form
 
@@ -9418,7 +9418,7 @@ You can blind or deafen an enemy. Choose one creature that you can see within ra
 
 **For each Magic Critical Success** obtained in the Magic Check you can target an additional creature.
 
-**Critical Failure Saving Throw**: in case of Critical Failure, the effect is permanent.
+**Critical Failure Saving Throw**: on a Critical Failure, the effect is permanent.
 
 ### Greater Dispel Magic
 
@@ -9568,7 +9568,7 @@ You infuse the area surrounding a point you touch with the power of your Patron.
 
 *First*, celestials, elementals, fey, fiends, and undead cannot enter the area, nor can such a creature charm, frighten, or possess others within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering this area. You can exclude one or more of these types of creatures from this effect.
 
-*Second*, you can bind an additional effect to the area. Choose the effect from the list below, or choose one presented to you by the Narrator. Some of these effects apply to creatures in the area; you can decide whether the effects apply to all creatures, Devotees or Followers of a specific Patron, or creatures of a specific type, such as orcs or trolls. When a creature subject to the spell enters this area for the first time during a round or begins its turn here, it must make a Will Saving Throw. If it succeeds, the creature ignores the additional effect until it leaves the area.
+*Second*, you can bind an additional effect to the area. Choose the effect from the list below, or choose one presented to you by the Game Master. Some of these effects apply to creatures in the area; you can decide whether the effects apply to all creatures, Devotees or Followers of a specific Patron, or creatures of a specific type, such as orcs or trolls. When a creature subject to the spell enters this area for the first time during a round or begins its turn here, it must make a Will Saving Throw. If it succeeds, the creature ignores the additional effect until it leaves the area.
 
 - *Courage*. Affected creatures cannot be frightened while remaining in this area. Extradimensional Interference. Affected creatures cannot move or travel using teleportation or by other extradimensional or interplanar means.
 - *Tongues*. Affected creatures can communicate with any other creature in the area, even if they don' \*\*t share a common language.
@@ -9755,7 +9755,7 @@ A hail of rock-hard ice pounds to the ground in a 6-meter-radius, 12-meter-high 
 
 **For each Magic Critical Success** obtained in the Magic Check, the bludgeoning damage increases by 2d8 and the cold damage by 2d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Identify
 
@@ -10105,7 +10105,7 @@ A creature you touch must succeed on a Will Saving Throw or be cursed for the du
 - While cursed, the target has -2 to Attack Rolls against you.
 - While cursed, the target must make a Will Saving Throw at the start of each of its turns. If it fails, it wastes 1 Action of that turn doing nothing.
 
-The Remove Curse spell ends this effect. At the Narrator' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Narrator has final judgment on the effect of a curse.
+The Remove Curse spell ends this effect. At the Game Master' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Game Master has final judgment on the effect of a curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, choose another creature within 6 meters of the first.
 
@@ -10198,7 +10198,7 @@ The lightning ignites flammable objects in the area that aren' \*\*t being worn 
 
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 4d6.
 
-**Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Saving Throw Critical Success/Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Limited Wish
 
@@ -10218,7 +10218,7 @@ Alternatively, you can create one of the following effects of your choice:
 - You grant up to 5 creatures that you can see resistance to a damage type of your choice for 8 hours.
 - You grant up to 4 creatures that you can see immunity to a single spell or other magical effect for 8 hours. For example, you could make yourself and all your companions immune to a lich' \*\*s life drain attack.
 
-State your wish to the Narrator as precisely as possible. The Game Master has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. The spell could simply fail, the effect you desire could only be partly achieved, or you could suffer some unforeseen consequence as a result of how you worded the wish.
+State your wish to the Game Master as precisely as possible. The Game Master has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. The spell could simply fail, the effect you desire could only be partly achieved, or you could suffer some unforeseen consequence as a result of how you worded the wish.
 
 ### Ljust' \*\*s Tear
 
@@ -10536,7 +10536,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 4 meteors of fire crash to the ground at four different points within range that you can see. Each meteor hits within a 3-meter radius. Each creature in the area must make a Reflex Saving Throw. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half of
 these damages if it succeeds. A creature caught in the area of more than one meteor is affected by only one.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved.
 
 **Every 3 criticals obtained** in the Magic Check, you hurl another meteor.
 
@@ -10632,7 +10632,7 @@ The modified memories take hold when the spell ends.
 
 A modified memory doesn' \*\*t necessarily affect how a creature behaves, particularly if the memories contradict the creature' \*\*s natural inclinations, Traits, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, like a bad dream.
 
-The Narrator may deem a modified memory too nonsensical to affect a creature in any significant way. A remove curse or greater restoration spell cast on the target restores the creature' \*\*s true memories.
+The Game Master may deem a modified memory too nonsensical to affect a creature in any significant way. A remove curse or greater restoration spell cast on the target restores the creature' \*\*s true memories.
 
 **With one Critical Magic Success** obtained in the Magic Check, you can alter the memories of a target regarding an event that occurred up to 7 days ago. With two, up to 30 days ago; with three, up to 1 year ago. With 4 Critical Magic Successes, at any point in the creature' \*\*s past.
 
@@ -11071,7 +11071,7 @@ You touch a creature to stimulate its natural healing ability. The target regain
 
 You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target' \*\*s soul isn' \*\*t free or willing to do so, the spell fails.
 
-The magic fashions a new body, which likely causes a change in the creature' \*\*s race. The Narrator rolls a d10 and consults the following table to determine what form the creature takes when restored to life, or the Narrator may choose the form.
+The magic fashions a new body, which likely causes a change in the creature' \*\*s race. The Game Master rolls a d10 and consults the following table to determine what form the creature takes when restored to life, or the Game Master may choose the form.
 
 	
 
@@ -11104,7 +11104,7 @@ It is not possible to reincarnate as a gnome unless you were previously a gnome.
 | **Range**: | Touch |
 | **Duration**: | Instantaneous |
 
-If the object or person was cursed through the Bestow Curse spell, or if the Narrator decides that the object has a particular curse, then the DC of the caster of Remove Curse must be higher than that of the Curse.
+If the object or person was cursed through the Bestow Curse spell, or if the Game Master decides that the object has a particular curse, then the DC of the caster of Remove Curse must be higher than that of the Curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, you can heal one more person or consider a +4 to overcome the DC of the curse.
 
@@ -11223,7 +11223,7 @@ A creature dead within the last minute and that you are in contact with returns 
 
 The creature brought back to life must make a Fortitude Saving Throw at DC 15 or, due to the trauma suffered, does not come back to life; if it comes back to life, it is Fatigued 3.
 
-**NOTE**: at the Narrator' \*\*s discretion, this might be the only spell granted to bring a creature back to life, otherwise the rule that only a Patron can bring back to life applies.
+**NOTE**: at the Game Master' \*\*s discretion, this might be the only spell granted to bring a creature back to life, otherwise the rule that only a Patron can bring back to life applies.
 
 ### Rope Trick
 
@@ -11435,7 +11435,7 @@ A sudden loud ringing noise, very intense, erupts from a point of your choice wi
 
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 2d6.
 
-**Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Saving Throw Critical Success/Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Shield
 
@@ -11558,7 +11558,7 @@ This spell counters and is countered by Haste.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can affect one additional creature.
 
-**Critical Saving Throw Failure**: In case of Critical Failure, you are slowed by an additional Action.
+**Critical Saving Throw Failure**: On a Critical Failure, you are slowed by an additional Action.
 
 ### Speak with Animals
 
@@ -11569,7 +11569,7 @@ This spell counters and is countered by Haste.
 | **Range**: | Personal |
 | **Duration**: | 10 minutes |
 
-For the duration, you gain the ability to comprehend and verbally communicate with beasts. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including those they can perceive or have perceived within the past day. At the Narrator' \*\*s discretion, you might be able to persuade a beast to perform a small favor for you.
+For the duration, you gain the ability to comprehend and verbally communicate with beasts. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including those they can perceive or have perceived within the past day. At the Game Master' \*\*s discretion, you might be able to persuade a beast to perform a small favor for you.
 
 **For each Critical Magic Success** obtained in the Magic Check, the duration doubles.
 
@@ -11608,7 +11608,7 @@ You imbue plants within 9 m of you with sentience and limited mobility, giving t
 
 Alternatively, you can transform normal terrain where plants are present into difficult terrain that remains for the duration of the spell, causing vines and branches to hinder pursuers, for example.
 
-At the Narrator' \*\*s discretion, the plants might perform other tasks on your behalf. The spell doesn' \*\*t enable plants to uproot themselves and move around, but they can freely move branches, stems, and stalks. If a plant creature is in the area, you can communicate with it as if you shared a common language, but you don' \*\*t gain any magical ability to influence it. This spell can cause plants created by the entangle spell to release a restrained creature.
+At the Game Master' \*\*s discretion, the plants might perform other tasks on your behalf. The spell doesn' \*\*t enable plants to uproot themselves and move around, but they can freely move branches, stems, and stalks. If a plant creature is in the area, you can communicate with it as if you shared a common language, but you don' \*\*t gain any magical ability to influence it. This spell can cause plants created by the entangle spell to release a restrained creature.
 
 ### Spider Climb
 
@@ -11921,7 +11921,7 @@ As you cast the spell, you draw a 3-meter-diameter circle on the ground inscribe
 
 Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle has a unique sigil sequence—a string of magical runes arranged in a particular pattern.
 
-When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the Narrator. You can learn additional sigil sequences during your adventures. You can commit a sigil sequence to memory after studying it for at least 1 minute.
+When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the Game Master. You can learn additional sigil sequences during your adventures. You can commit a sigil sequence to memory after studying it for at least 1 minute.
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
@@ -12045,7 +12045,7 @@ Shapechangers ignore this spell. An unwilling creature can make a Will Saving Th
 - *Creature into Creature*. If you turn a creature into another kind of creature, the new form can be any species you choose whose challenge rating is equal to or less than your Magic Proficiency score (or sum of common Traits if Devotee of Shayalia). The target' \*\*s game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its Traits and personality.
 
 	The target retains the same Hit Points and regains 1d12 Hit Points in its new form. When it reverts to its normal form, the creature returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 or less Hit Points in the new form, it reverts back to normal and any excess damage carries over to its normal form. The creature is limited in the actions it can perform by the nature of its new form, and it can' \*\*t speak, cast spells, or take any other action that requires hands or speech, unless the new form is capable of such actions. The target' \*\*s equipment merges into the new form. The creature can' \*\*t activate, use, wield, or otherwise benefit from any of its equipment.
-- *Object into Creature.* You can turn an object into any kind of creature, as long as the creature' \*\*s size is no larger than the object' \*\*s size and the creature' \*\*s challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on your turns. You decide what actions it takes and how it moves. The Narrator has the creature' \*\*s statistics and resolves all of its actions and movement.
+- *Object into Creature.* You can turn an object into any kind of creature, as long as the creature' \*\*s size is no larger than the object' \*\*s size and the creature' \*\*s challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on your turns. You decide what actions it takes and how it moves. The Game Master has the creature' \*\*s statistics and resolves all of its actions and movement.
 	If the spell becomes permanent, you lose control of the creature. It might remain friendly to you, depending on how you have treated it.
 - *Creature into Object*. If you turn a creature into an object, it transforms along with anything it is wearing and carrying. The creature' \*\*s statistics become those of the object, and, after the spell ends and the creature returns to its normal form, it has no memory of the time spent in object form.
 
@@ -12333,7 +12333,7 @@ Alternatively, you can create one of the following effects of your choice:
 - You grant up to ten creatures that you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich' \*\*s life drain attack.
 - You undo any recent event by forcing a reroll of any roll made within the last round (including your last round). Reality reshapes itself to accommodate the new result. You can make the new roll have +2d6 or -2d6, and you can choose whether to use the original roll or the new roll. You might also be able to achieve something beyond the examples given above.
 
-State your wishes as precisely as possible to the Narrator. The Narrator has great latitude in ruling what occurs in such instances; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence, depending on how you worded the wish. The stress of casting this spell to produce any effect other than duplicating another spell weakens you.
+State your wishes as precisely as possible to the Game Master. The Game Master has great latitude in ruling what occurs in such instances; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence, depending on how you worded the wish. The stress of casting this spell to produce any effect other than duplicating another spell weakens you.
 
 After enduring the stress, each time you cast a spell until you finish a long rest, you take 1d10 Void damage per level/2 of the spell cast. This damage can' \*\*t be reduced or prevented in any way. Additionally, your Constitution drops to -3, if it isn' \*\*t -3 or lower already, for 2d4 days.
 
@@ -13339,7 +13339,7 @@ The acquired abilities linked to the Traits in common are independent of being a
 
 Nothing prevents a character from receiving more powers from different Patrons! At high levels when the character has a high score in the various Traits he possesses, this will happen frequently. 
 
->>> **Your game your fun**: The Narrator can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
+>>> **Your game your fun**: The Game Master can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
 
 **Energy - Elements Table**
 
@@ -13356,7 +13356,7 @@ Nothing prevents a character from receiving more powers from different Patrons! 
 
 In a world where deities are so capricious, fickle, and thirsty for devotees, it is in their interest to prove generous to those who can then spread their Traits.
 
-A favor asked of a Patron always has a price neither obvious nor predictable. The Narrator must carefully evaluate the character' \*\*s plea and judge if the request is pertinent to the Patron' \*\*s Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
+A favor asked of a Patron always has a price neither obvious nor predictable. The Game Master must carefully evaluate the character' \*\*s plea and judge if the request is pertinent to the Patron' \*\*s Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
 
 ### List of Patrons 
 
@@ -13395,7 +13395,7 @@ The Disciples of Light are a secret group of Devotees who, through total affinit
 - Be luminous but do not blind those around you.
 - Be the difference between despair and hope.
 
-The Disciples have built a harmonious dance transforming the steps of their Rule into dance.
+The Disciples have built a harmonious dance transforming the steps of their Rule into movement.
 
 There are also Disciples of another kind, rare but historically ascertained.
 
@@ -13425,7 +13425,7 @@ Calicante can only be chosen by characters who have 4 Traits in common with him.
 
 > What is time then? If no one asks me, I know; if I want to explain it to someone who asks me, I no longer know. (Augustine of Hippo)
 
-The guardian of Time and the Clock Tower, as he initiated time and the creation of new Patrons, so will he stop the challenge between them, and the surviving Patrons will be judged, their works evaluated, and Ljust or Calicante will benefit from them. Like a challenge from a single copper coin, new Patrons, new ideals will be created, and we, small creatures, will see new civilizations and flourishing kingdoms born. The story is little known, only the few Devotees of Atmos, scribes and scholars of the Time library, know the secret and the flow of time and the race; the others, ignorant, will live their time with a master surely guided by a Patron.
+The guardian of Time and the Clock Tower, as he initiated time and the creation of new Patrons, so will he stop the challenge between them, and the surviving Patrons will be judged, their works evaluated, and Ljust or Calicante will benefit from them. Like the flip of a coin, new Patrons, new ideals will be created, and we, small creatures, will see new civilizations and flourishing kingdoms born. The story is little known, only the few Devotees of Atmos, scribes and scholars of the Time library, know the secret and the flow of time and the race; the others, ignorant, will live their time with a master surely guided by a Patron.
 
 Atmos, the Patron of Time, is the keeper of history, the one who keeps track of the infinite and multiple worlds that have been created.
 
@@ -13753,7 +13753,7 @@ The Devotee of Nethergal is a fine linguist, an expert in riddles and puzzles, a
 
 A Devotee of Nethergal is a master, a language professor at a College, a learned expert in a thousand subjects, probably vain and sometimes arrogant if challenged on her subjects.
 
-Nethergal knows the location of every document and is probably the key to understanding what happened to the Freten. Very few know that Nethergal was one of the Patrons of the first coming, the one in charge of destroying communication infrastructures, the one who encrypted the contents of electronic archives in the greatest ransoware in history.
+Nethergal knows the location of every document and is probably the key to understanding what happened to the Freten. Very few know that Nethergal was one of the Patrons of the first coming, the one in charge of destroying communication infrastructures, the one who encrypted the contents of electronic archives in the greatest ransomware in history.
 
 Nethergal also has another role: she is the Patron of dreams and visions, she shares this task with Sixiser who instead dominates nightmares.
 
@@ -14133,7 +14133,7 @@ Regardless of others, he enjoys exploiting the work of others and benefiting fro
 - **Preferred Weapon**: One-handed Axe
 - **Rule**: Do not be sloppy, poorly dressed or untidy.
 
->>> **Personalizing our game**: In agreement with the Narrator, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
+>>> **Personalizing our game**: In agreement with the Game Master, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
 
 ### Patron - Trait List
 
@@ -14435,7 +14435,7 @@ The weapons you can find working are revolvers, shotguns, semi-automatic rifles,
 - **Magazine**: 4 bullets
 - **Range**: 6 meter cone
 - **Damage**: 2d8 (P) damage
-- **Rules**: creatures in the cone can make a Reflex Saving Throw against your Attack Roll. In case of Success or Critical Success, the damage is halved; in case of Critical Failure, the damage is doubled. In case of Failure, the damage is normal.
+- **Rules**: creatures in the cone can make a Reflex Saving Throw against your Attack Roll. On a Success or Critical Success, the damage is halved; on a Critical Failure, the damage is doubled. On a Failure, the damage is normal.
 - **Semi-automatic Rifle**:
 - **Actions**: 1 Action for 3 shots fired
 - **Magazine**: 21 bullets
@@ -14507,7 +14507,7 @@ Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with z
 
 Armor helps to not be hit (raises Defense) and penalizes Magic Checks and Basic proficiency checks and movement.
 
-The Proficiency Penalty is the penalty applied to Basic proficiency checks influenced by the weight and Encumbrance of the armor. Different, specific, or magical armors have different scores; this table serves as a guideline for the Narrator.
+The Proficiency Penalty is the penalty applied to Basic proficiency checks influenced by the weight and Encumbrance of the armor. Different, specific, or magical armors have different scores; this table serves as a guideline for the Game Master.
 
 ### Armor Table
 
@@ -14700,7 +14700,7 @@ Selling magic items is a problem. Finding someone who wants to buy a potion or s
 
 **Gems, Jewelry, and Art Objects**
 
-These items are easier to exchange, and you can decide to exchange them for money or use them as currency in transactions. In the case of exceptionally valuable treasures, the Narrator might require that you first find a buyer in a large town or even a larger community. A gem is always exchanged at its full value and not at half like equipment.
+These items are easier to exchange, and you can decide to exchange them for money or use them as currency in transactions. In the case of exceptionally valuable treasures, the Game Master might require that you first find a buyer in a large town or even a larger community. A gem is always exchanged at its full value and not at half like equipment.
 
 **Goods**
 
@@ -14716,7 +14716,7 @@ A perfect tool, in addition to costing 10 times as much as the normal version, g
 
 This is a brief and non-exhaustive list of equipment that your characters might be interested in buying. The list is certainly not exhaustive or complete but can provide you with guidelines on prices.
 
-As a Narrator, always use common sense in requests, evaluate well the type of request, the necessity of the object, the place where it is purchased, and how it is purchased.
+As a Game Master, always use common sense in requests, evaluate well the type of request, the necessity of the object, the place where it is purchased, and how it is purchased.
 
 Depending on the type of campaign, additional items such as firearms or alchemical items might be available.
 
@@ -15209,7 +15209,7 @@ When the effect of the bitter aid wears off, your level of fatigue increases by 
 ### The Standard Backpack
 
 The Standard Backpack\textregistered \space is a list of items that I have noted over time, adding everything that I needed during adventures.
-Take it as a guide to understand what objects to have with you, don' \*\*t mark them all down otherwise the Narrator will seriously start looking at the Encumbrance rules!
+Take it as a guide to understand what objects to have with you, don' \*\*t mark them all down otherwise the Game Master will seriously start looking at the Encumbrance rules!
 
 This is the content of the adventurer' \*\*s backpack: belt, 3 candles, 6 torches, Tinderbox, 7 dry rations, 2-person tent, waterskin, rolled mattress, sleeping bag, tarpaulin, tent, 60 meters of rope, net, metal mirror, crowbar, compass, 3 lamp oil, ink, chalk, charcoal, hook, shovel, fishhook, rags, 2m metal cable, whistle, 6 empty potion vials, marbles, brass bell, 1kg of flour in a small bag, 3 wedges, 12 meters of metal chain, 2 manacles, 8 pitons, hammer, pulley, grappling hook, bandolier.
 
@@ -15511,7 +15511,7 @@ A **blind character** or one fighting in darkness (and cannot see in darkness) h
 - A creature with **Low-Light Vision** sees without problems up to the distance, as a circular radius around the light source, indicated in Dim light, or indicated by the race if smaller, beyond is darkness.
 - A creature with **Darkvision**  sees, within the radius indicated by its Darkvision, in normal light and dim light conditions without problems, while in darkness it has -2 Awareness and to Survival for spotting traps. Darkvision is a black and white vision.
 
->> **Note on light sources**: You will have noticed or will soon notice that magical light sources work differently, often lasting much less or generating little light. This is due to the will of a Patron and as such only a Patron can nullify its effects (or the Narrator!).
+>> **Note on light sources**: You will have noticed or will soon notice that magical light sources work differently, often lasting much less or generating little light. This is because of a Patron' \*\*s will and as such only a Patron can nullify its effects (or the Game Master!).
 
 ### Darkness
 
@@ -15584,7 +15584,7 @@ Just as characters take damage from falls greater than 3 meters, they also take 
 Objects that fall on characters inflict damage depending on their weight and the distance from which they fell.
 
 The **Table: Damage from Falling Objects** determines the amount of damage inflicted by an object based on its size. It is assumed that the object is made of a dense and heavy material, such as stone.
-Objects made of lighter materials might inflict half or less of the indicated damage, at the Narrator' \*\*s discretion. For example, a Huge boulder hitting a character inflicts 6d6 damage, while a wooden cart might only inflict 3d6.
+Objects made of lighter materials might inflict half or less of the indicated damage, at the Game Master' \*\*s discretion. For example, a Huge boulder hitting a character inflicts 6d6 damage, while a wooden cart might only inflict 3d6.
 
 Additionally, if the object falls from a distance less than 3 meters, it inflicts half the indicated damage. If an object falls from a distance greater than 20 meters, it inflicts double damage. The falling object suffers the same amount of damage that it inflicts.
 
@@ -15618,7 +15618,7 @@ If you don' \*\*t have the Swim movement type, **moving in water** is considered
 If the creature knows how to swim, no checks are needed to move normally in calm waters, except when it wants to *run* (DC 13) or the waters are choppy (DC 15) or stormy (DC 20).
 
 If the creature doesn' \*\*t know how to swim, then it must make a Fortitude Saving Throw at DC 13 every round it wants to move; if the waters are choppy, the DC is 19, and if they are stormy, the DC is 24; if you want to *run*, the DC increases by 4.
-In case of failure, you don' \*\*t move and have a -1 to the next check; in case of Critical Failure, the next check takes -4; penalties accumulate until you succeed in the check.
+In case of failure, you don' \*\*t move and have a -1 to the next check; on a Critical Failure, the next check takes -4; penalties accumulate until you succeed in the check.
 If the swim check fails, the creature suffers 1d6 lethal damage if the waters flow over rocks and depressions.
 
 When the cumulative penalties are 9 or more, you begin to sink and drown (see below).
@@ -15657,7 +15657,7 @@ A character who catches fire can automatically extinguish the flames by jumping 
 | **Effects of Lava** |
 | --- |
 
-Lava or magma inflicts 2d6 damage per round of exposure, except in case of total immersion (such as when a character falls into the crater of an active volcano), which inflicts 20d6 damage per round (plus any falling damage and maybe finds a ring..).
+Lava or magma inflicts 2d6 damage per round of exposure, except in the case of total immersion (such as when a character falls into the crater of an active volcano), which inflicts 20d6 damage per round (plus any falling damage and maybe finds a ring..).
 
 The damage caused by magma continues for 1d3 rounds after the end of exposure, but this additional damage is only half of that inflicted during the last round of actual contact (20/10/5). An Immunity or Resistance to fire also serves as resistance to lava or magma. However, creatures Immune or Resistant to Fire might drown if immersed in lava (see Drowning).
 
@@ -15881,7 +15881,7 @@ Casting spells underwater can be difficult for those who cannot breathe underwat
 
 A creature unable to breathe underwater spends three rounds of holding its breath to cast a spell with Verbal components.
 
-Some spells might work differently underwater, at the Narrator' \*\*s discretion.
+Some spells might work differently underwater, at the Game Master' \*\*s discretion.
 
 See Environment Chapter for the rules on holding breath (p. ).
 
@@ -15903,7 +15903,7 @@ Your dungeon is never just a cave. NEVER!
 
 Whether they' \*\*re caves, dens, mines, grottos, lairs, caverns, the *Dungeons* often represent the focal center of adventure, exploration, and survival.
 
-Characters will spend a lot of time in these environments, and the Narrator must be prepared and ready for the environment they will encounter.
+Characters will spend a lot of time in these environments, and the Game Master must be prepared and ready for the environment they will encounter.
 
 When preparing a cave, it is necessary to think intelligently about the type of cave and the creatures that will be encountered; every cave is a complex ecosystem.
 Putting a group of lizardfolk without thinking about what they eat, where they sleep, what kind of organization they have is dangerous, not to mention inserting a chimera.
@@ -16170,7 +16170,7 @@ A builder might place a secret door very low near the floor or very high on a wa
 
 **Magical Doors** Enchanted by the original builder, a door may address explorers inviting them not to proceed. It might be protected from damage, with increased Hardness or more Hit Points, as well as an improved Saving Throw bonus. A magical door might not lead to the space behind it, but actually be a portal to a very distant place or even to another plane of existence. Other magical doors might need a password or special keys to open.
 Magical doors can only be opened through a specific command or by nullifying the magic that pervades them, very few have a lock.
-In such a case, the Narrator might decide to increase the Disable Device check by 10, bringing it to 30 or more, and it might be necessary to have some points in Arcana.
+In such a case, the Game Master might decide to increase the Disable Device check by 10, bringing it to 30 or more, and it might be necessary to have some points in Arcana.
 
 **Portcullises**: These special doors are made with rods of iron or thick reinforced wood that descend from a recess in the upper part of an arch. Sometimes a portcullis has horizontal bars forming a grid, other times not. Usually raised with a winch or similar machinery, portcullises can be dropped quickly, and the bars end in spikes to discourage anyone from passing underneath (or from trying to cross them in a rush while they descend). Once down, a portcullis closes, unless it is so large that no normal person would be able to lift it. In any case, lifting a typical portcullis requires a Fortitude Saving Throw with Strength with DC 25.
 
@@ -16416,9 +16416,9 @@ Usually, some elements of a trap are clearly visible upon careful inspection.
 
 The trap description specifies the checks and DCs required to detect it, disable it, or both. A character actively searching for a trap can attempt a **Survival** check against the trap' \*\*s DC.
 
-The Narrator can also compare the DC for detecting the trap against the characters' \*\* Survival score (at dice roll 8) to determine if a group member notices the trap. If adventurers notice the trap before activating it, they may attempt to disarm it, either permanently or long enough to allow them passage.
+The Game Master can also compare the DC for detecting the trap against the characters' \*\* Survival score (at dice roll 8) to determine if a group member notices the trap. If adventurers notice the trap before activating it, they may attempt to disarm it, either permanently or long enough to allow them passage.
 
-The Narrator might require a Disable Device check. If you don' \*\*t have **thieves' \*\* tools** or adequate ones, you make the check with a -1d6 penalty. The Survival skill can also be used, albeit with a -1d6, to disable a trap, lock...; in this case, the duration of the operation equals 1 Action per DC of the trap.
+The Game Master might require a Disable Device check. If you don' \*\*t have **thieves' \*\* tools** or adequate ones, you make the check with a -1d6 penalty. The Survival skill can also be used, albeit with a -1d6, to disable a trap, lock...; in this case, the duration of the operation equals 1 Action per DC of the trap.
 
 If you want to temporarily disable a trap, add 6 to the difficulty. This will disable the trap for 2d4 minutes.
 
@@ -16426,11 +16426,11 @@ A **magic trap can be disarmed** with a Disable Device check or an Arcana check,
 
 If the check to disable or disarm the trap fails and you get a Critical Failure, the trap triggers.
 
-Usually, the trap description is clear enough to allow the Narrator to judge whether a character' \*\*s actions succeed in detecting or disabling the trap.
+Usually, the trap description is clear enough to allow the Game Master to judge whether a character' \*\*s actions succeed in detecting or disabling the trap.
 
 Use common sense and base on the trap description to determine what happens. No trap design can anticipate every possible action that characters might attempt.
 
-The Narrator should allow a character to discover a trap without having to make skill checks if their actions or description of what they do clearly reveal the presence of the trap.
+The Game Master should allow a character to discover a trap without having to make skill checks if their actions or description of what they do clearly reveal the presence of the trap.
 
 Disabling traps can be a bit more complicated. Take, for example, a chest protected by a trap. If the chest is opened without pulling the two side handles, an internal mechanism fires a volley of poisoned needles at whoever is in front.
 
@@ -16831,7 +16831,7 @@ Here are additional traps for your enjoyment.
 | **Reset:** | none |
 | **Effect:** | like the spell Meteor Swarm. DC 28 |
 
->> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Narrator from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
+>> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Game Master from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
 
 *Narrator*: a 3-meter wide corridor leads north, into darkness.
 
@@ -16843,7 +16843,7 @@ Do you proceed down the corridor?
 
 *Tups*: No, I' \*\*m suspicious. Can I see any cracks in the floor, maybe in a square shape?
 
-*Narrator*: No, there are millions of cracks, you can' \*\*t see a pit that clearly [*the Narrator determines that the pit is well camouflaged and Tups has poor lighting to see well*]
+*Narrator*: No, there are millions of cracks, you can' \*\*t see a pit that clearly [*the Game Master determines that the pit is well camouflaged and Tups has poor lighting to see well*]
 
 *Tups*: Ok, I take my water flask from my backpack. I' \*\*m going to pour some water on the floor. Does it seem to seep into the floor at any point or reveal some pattern?
 
@@ -16855,9 +16855,9 @@ Do you proceed down the corridor?
 
 *Tups*: can I disable it?
 
-*Narrator*: how? [*The Narrator deliberately doesn' \*\*t allow a check, but engages the player*]
+*Narrator*: how? [*The Game Master deliberately doesn' \*\*t allow a check, but engages the player*]
 
-*Tups*: I wedge my crowbar in so the mechanism doesn' \*\*t open the trapdoor [*Tups doesn' \*\*t ask to roll a die to figure out how to disarm it or disarm it directly, he explains to the Narrator how he does it and that' \*\*s it*]
+*Tups*: I wedge my crowbar in so the mechanism doesn' \*\*t open the trapdoor [*Tups doesn' \*\*t ask to roll a die to figure out how to disarm it or disarm it directly, he explains to the Game Master how he does it and that' \*\*s it*]
 
 *Narrator*: you now cross the area safely and see that it opens onto a small room with two reinforced wooden doors... }
 
@@ -17164,7 +17164,7 @@ p
 
 ## Generic Potions
 
-The Narrator is free to use all the potions and poisons already listed or use ready-to-use generic potions. The table shows the costs and effects of these generic potions.
+The Game Master is free to use all the potions and poisons already listed or use ready-to-use generic potions. The table shows the costs and effects of these generic potions.
 
 The onset is always immediate, the duration for healing is immediate, for others it is 10 minutes (so the Neutralize Poison potion protects you for 1 Turn against a poison).
 
@@ -17196,7 +17196,7 @@ The onset is always immediate, the duration for healing is immediate, for others
 | Julnnaus Pollen | R | I | 20 | +3 Constitution for 2 hours | 16 | 25 gc |
 | Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
 
-**The use of drugs is completely optional. It is the Narrator who decides their presence and availability based on the sensitivity of the players**.
+**The use of drugs is completely optional. It is the Game Master who decides their presence and availability based on the sensitivity of the players**.
 
 Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken within 24 hours, the subsequent Saving Throw will have difficulty +1 and so on.
 
@@ -17212,7 +17212,7 @@ A creature can drink a number of tankards of beer or shots of liquor equal to it
 
 Higher proof beers or liquors impose a higher modifier on the Saving Throw.
 
-The Narrator can decide to manage a *tipsy* creature only through *roleplaying*.
+The Game Master can decide to manage a *tipsy* creature only through *roleplaying*.
 
 ## Diseases
 
@@ -17399,7 +17399,7 @@ The forced march can be maintained for a number of days equal to the Constitutio
 
 **Terrain**
 
-The terrain on which you travel affects how much distance is covered in an hour or a day. Depending on the environment, climate, road quality, the Narrator can evaluate that movement can be normal, reduced by a third, reduced by half, or so impervious and difficult as to reduce it to a quarter of the total possible movement.
+The terrain on which you travel affects how much distance is covered in an hour or a day. Depending on the environment, climate, road quality, the Game Master can evaluate that movement can be normal, reduced by a third, reduced by half, or so impervious and difficult as to reduce it to a quarter of the total possible movement.
 
 **Mounted Movement**
 
@@ -17559,9 +17559,9 @@ To do what one wants, one must be born a king or a fool. (*or Narrator*, NdA) (L
 
 ## The Narrator
 
-While the player plays a character in an adventure, the Narrator is the one who manages it. He certainly has much more work, but creating an entire world for his friends to explore can be very satisfying.
+While the player plays a character in an adventure, the Game Master is the one who manages it. He certainly has much more work, but creating an entire world for his friends to explore can be very satisfying.
 
-The role of the Narrator is not easy but grants enormous privileges. Seeing your friends play, have fun, go crazy over doubts, riddles, and situations created by you gives a lot of fun and moments of true conviviality.
+The role of the Game Master is not easy but grants enormous privileges. Seeing your friends play, have fun, go crazy over doubts, riddles, and situations created by you gives a lot of fun and moments of true conviviality.
 
 Your role is that of the great orchestrator, planner, or even landscaper if you prefer, with a few simple brushstrokes you outline the structure and then the players will add details and situations.
 
@@ -17653,7 +17653,7 @@ OBSS refers to the principles of OSR and as such the exploration and combat phas
 
 An encounter is a moment of tension and hope, fear and challenge. It' \*\*s the opportunity to show and manifest one' \*\*s abilities and to work as a group.
 
-An encounter is not the occasion to show off one' \*\*s absolute power, either as a Narrator or as a Player. The Narrator will know how to \st educate the player who wants to be beyond the group and not part of it.
+An encounter is not the occasion to show off one' \*\*s absolute power, either as a Game Master or as a Player. The Game Master will know how to \st educate the player who wants to be beyond the group and not part of it.
 
 In the following pages, you will find instructions for creating easy, medium, high, extraordinary, deadly, and epic challenges.
 
@@ -17763,11 +17763,11 @@ Organize the enemies so that:
 - make the attack not seem like an attack
 - play with cleverness and don' \*\*t let yourself get demoralized.
 
-And in any case, always remember: it' \*\*s not a battle between Narrator and Players! The goal is to create memorable moments!!!
+And in any case, always remember: it' \*\*s not a battle between Game Master and Players! The goal is to create memorable moments!!!
 
 ### Adding NPCs
 
-A creature that has levels, Feats, skills, that could be a character but is managed by the Narrator is considered an NPC. These creatures can play a very important role and should not be used as simple monsters. Give them depth and you' \*\*ll create unforgettable figures.
+A creature that has levels, Feats, skills, that could be a character but is managed by the Game Master is considered an NPC. These creatures can play a very important role and should not be used as simple monsters. Give them depth and you' \*\*ll create unforgettable figures.
 
 ### Ad Hoc Challenge Rating Modifications
 
@@ -17822,7 +17822,7 @@ For a balanced method, characters created after 1st level should spend 25\% of t
 
 ## I know a guy...
 
-To facilitate the spirit of adventure and not leave characters incapable or indecisive in acting, allow them to know a certain number of NPCs equal to their Charisma score +1. The player can declare at any time that they know this NPC and must keep track of them. These NPCs can be *leveraged* when characters find themselves in difficult situations, danger, or simply in need of support. The character who appeals to *I know a guy...* must adequately describe the subject and the relationship between them. The Narrator will adapt the situation to include this character to the best of their ability.
+To facilitate the spirit of adventure and not leave characters incapable or indecisive in acting, allow them to know a certain number of NPCs equal to their Charisma score +1. The player can declare at any time that they know this NPC and must keep track of them. These NPCs can be *leveraged* when characters find themselves in difficult situations, danger, or simply in need of support. The character who appeals to *I know a guy...* must adequately describe the subject and the relationship between them. The Game Master will adapt the situation to include this character to the best of their ability.
 
 The guy could be a merchant who owes them a favor, if not a thief or a bureaucrat. Characters are encouraged not to invent friendships or favors from overly important characters.
 
@@ -17871,7 +17871,7 @@ The next time they will roll a 1d10 instead of 1d12, and then 1d8 and then 1d6, 
 
 On the character sheet, next to those resources, mark the die to use for the next roll.
 
-The Narrator might decide to track only common consumables in this manner and not premium ones.
+The Game Master might decide to track only common consumables in this manner and not premium ones.
 
 ## Adventures in OBSS
 
@@ -17887,9 +17887,9 @@ For me, OSR is not random encounter tables and chaotic randomization nor a speci
 
 If the method may not appeal to you, use what you prefer; personally, over the decades, I have learned to appreciate and see appreciated the spontaneity and naturalness that the tenets of OSR bring to the game.
 
-**These are basic rules for the Narrator that I suggest for conducting adventures.**
+**These are basic rules for the Game Master that I suggest for conducting adventures.**
 
-- You are the Narrator, yours are the Rules, yours is the World.
+- You are the Game Master, yours are the Rules, yours is the World.
 
 Don' \*\*t let yourself be limited by the adventure, the system, the monster list, always feel free to modify and adapt based on the needs of the adventure and the group
 - Remember to be fair and correct. Improvise, adapt as much as you want but be consistent. If you establish a rule (or a modification to a rule) follow it through.
@@ -17942,9 +17942,9 @@ Session Zero serves to establish what and how you will play, what the main chara
 
 To start well as a group of players, it' \*\*s important to know each other personally and have trust and respect for others. You don' \*\*t have to tell everything about yourself, but at least passions, interests, curiosities, what at least initially serves to create trust.
 
-I suggest that Narrators establish clear rules for good gameplay. Unfortunately, experience teaches that we are all different people with different styles, perspectives, and expectations. Getting to know each other also serves this purpose, to understand if your character can be well together with others and to understand if your person and personality is in some way similar or not to other people.
+I suggest that Game Masters establish clear rules for good gameplay. Unfortunately, experience teaches that we are all different people with different styles, perspectives, and expectations. Getting to know each other also serves this purpose, to understand if your character can be well together with others and to understand if your person and personality is in some way similar or not to other people.
 
-**Before beginning, it is appropriate for the Narrator to clarify what the essential rules are at their table**. Examples of rules can be:
+**Before beginning, it is appropriate for the Game Master to clarify what the essential rules are at their table**. Examples of rules can be:
 
 - That each player **knows** the part of the rulebook they will most use (combat, magic, patrons...).
 - Respects the **limits** of others. Each person has a different sensitivity to certain topics (rape, slavery, racism, violence...); it is fundamental to clarify together what limits should never be crossed.
@@ -17958,7 +17958,7 @@ I suggest that Narrators establish clear rules for good gameplay. Unfortunately,
 - Establish the optional rules and make sure they are clear to everyone.
 - Indicate the list or type of Traits accepted and if there are limits in the choice of Patrons.
 - Encourage the creation of characters with shared backgrounds so that the group is already cohesive at formation.
-- As a Narrator, you must understand the degree of knowledge of the system by the players and if necessary, when needed, take time to explain the rules.
+- As a Game Master, you must understand the degree of knowledge of the system by the players and if necessary, when needed, take time to explain the rules.
 
 **Other useful indications concern**:
 
@@ -18007,7 +18007,7 @@ In the following pages, you will find the rules and tables for attributing treas
 
 **Coins**: The coins in a treasure can be copper, silver, gold, and platinum: silver and gold ones are the most common, but you can decide differently. For coins and their exchange value, go to Equipment.
 
-Coins in the possession of monsters and wild creatures will certainly not be mint condition and will probably be marked by bites or sticky slimes. Coins found in treasures or at the bottom of some lair might be from other kingdoms, if not worlds... and in that case, what makes them valuable is the strict metallurgical value. 10 grams of gold are always 10 grams of gold even if on one face of the coin there is a flower and on another a castle.
+Coins in the possession of monsters and wild creatures will certainly not be mint condition and will probably bear bite marks or sticky slimes. Coins found in treasures or at the bottom of some lair might be from other kingdoms, if not worlds... and in that case, what makes them valuable is the strict metallurgical value. 10 grams of gold are always 10 grams of gold even if on one face of the coin there is a flower and on another a castle.
 
 Use the Table Value of gems (p. ) to determine the value of the gems found. Here the gems are listed by value.
 
@@ -18053,7 +18053,7 @@ Respecting the Law of Reward does not mean filling the characters' \*\* pockets,
 
 Of course, the discovery of a Magic Item is the real prize for any adventurer. Be careful when placing Magic Items in a treasure: it is much more satisfying for many players to find a magic item rather than buy it.
 
-Although you should generally place items with careful reflection on their likely effects on your campaign, it can be fun to generate magic items in a treasure at random. Be careful, though! It' \*\*s easy, with a bit of luck (or misfortune) of the dice to inflate your game with too much treasure or deprive it of the same. The placement of random magic items should always be tempered by the Narrator' \*\*s good sense.
+Although you should generally place items with careful reflection on their likely effects on your campaign, it can be fun to generate magic items in a treasure at random. Be careful, though! It' \*\*s easy, with a bit of luck (or misfortune) of the dice to inflate your game with too much treasure or deprive it of the same. The placement of random magic items should always be tempered by the Game Master' \*\*s good sense.
 
 Spells are also real treasures and prizes on par with magic items. Carefully evaluate which ones can be found. Remember that a magic ability is not a copyable spell; only those present in tomes, scrolls, and other specifically created to be a receptacle of spells are suitable for copying.
 
@@ -18067,7 +18067,7 @@ Magic Treasures can be found by characters in three ways:
 
 - **bought** (!!!)
 
-Whatever the situation, the Narrator must always pay attention to the magic items that the characters *will find*.
+Whatever the situation, the Game Master must always pay attention to the magic items that the characters *will find*.
 
 Magic Treasures should be inserted, if on enemies or in dungeons, with parsimony and reasoning; try to resist the temptation to be generous with the characters because they will easily get used to it and you will hardly be able to recover the situation.
 
@@ -18132,7 +18132,7 @@ In the century that has passed, part of the knowledge to create magic items has 
 
 > Treasure is any movable thing of value, hidden or buried, of which no one can prove to be the owner. (Italian Civil Code)
 
-As a Narrator, take advantage of the knowledge that an elderly elven wizard might have, to involve the characters in adventures to recover rare ingredients, legendary spells, mythical objects... and learn such an ancient and different culture.
+As a Game Master, take advantage of the knowledge that an elderly elven wizard might have, to involve the characters in adventures to recover rare ingredients, legendary spells, mythical objects... and learn such an ancient and different culture.
 
 Also use the mythical objects of Earth culture; surely a Patron had fun creating them only to get bored with them a moment later and throw them into the bowels of some cave.
 
@@ -18195,7 +18195,7 @@ When the treasure is indicated by multiple letters, the creature possesses both 
 
 > {Like any unrequited love, that for things also eventually takes its toll. (Adolfo Bioy Casares)
 
-The Narrator in preparing the adventure can position the magic items they prefer, as needed, and in pure OSR style rely on random generation.
+The Game Master in preparing the adventure can position the magic items they prefer, as needed, and in pure OSR style rely on random generation.
 
 The exclusively random approach is not always suggested, the results could overwhelm the adventure if not the entire campaign!
 Yet finding a dragon-slaying sword at the first level, rest assured it will generate endless adventures for the characters!
@@ -18204,7 +18204,7 @@ Yet finding a dragon-slaying sword at the first level, rest assured it will gene
 
 ### Value of Gems and Jewelry
 
-When Gems or Jewelry are found, the Narrator must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
+When Gems or Jewelry are found, the Game Master must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
 
 | **3d6** | **Gem (gp)** | **Jewelry (dp)** |
 | 3 | 10 | 1d4*10 |
@@ -18794,7 +18794,7 @@ Generally speaking, a Common item, the only one that might be easily found in a 
 
 Items with a bonus greater than +2, or Legendary ones, are never purchased; they must be found through an epic adventure.
 
-Spells are also magic items and as such, if the Narrator allows, can be purchased (horror! there is nothing more beautiful than finding a new spell among the treasures of an adventure).
+Spells are also magic items and as such, if the Game Master allows, can be purchased (horror! there is nothing more beautiful than finding a new spell among the treasures of an adventure).
 
 A spell costs in gold pieces level * level * level * 80
 
@@ -18846,7 +18846,7 @@ This ability can only be added to composite **bows**. An Adaptive bow reacts to 
 
 **Requirements:** Create Magic Items 2, Earth List
 
-This ability in case of a critical allows counting the number of 6s rolled, increasing it by 1. Only piercing or slashing **weapons** can be Keen.
+This ability on a critical allows counting the number of 6s rolled, increasing it by 1. Only piercing or slashing **weapons** can be Keen.
 
 ### Wings of Flying
 
@@ -18890,7 +18890,7 @@ this object looks like a flask, bottle, jug, container, decanter, or pitcher. It
 
 this **bottle** of iron has a brass stopper. You can use two actions to speak the command word of the flask, targeting a creature that you can see within 18 meters of you. If the target is native to a plane of existence other than the one you' \*\*re on, it must succeed on a Will Saving Throw with DC 21 or be trapped in the flask. If the target has already been trapped in the flask, it gets +1d6 to the Saving Throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn' \*\*t need to breathe, eat, or sleep, and doesn' \*\*t age. You can use two actions to remove the flask' \*\*s stopper and release the creature within. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give it no commands or give it a command that would result in its death, it will defend itself but take no other actions. At the end of the duration, the creature acts according to its normal behavior.
 
-The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Narrator or determined randomly.
+The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Game Master or determined randomly.
 
 | **d100** | **Contains** |
 |---|---|
@@ -19184,7 +19184,7 @@ After the djinni departs, it cannot be summoned again before 24 hours have passe
 
 **Rarity:** Rare
 
-the wearer of this cursed **ring** is convinced that it has a power chosen by the Narrator or determined randomly.
+the wearer of this cursed **ring** is convinced that it has a power chosen by the Game Master or determined randomly.
 
 ### Ring of Weakness
 
@@ -19271,7 +19271,7 @@ various cost, various rarity, while wearing this **ring**, you have a bonus of +
 
 **Rarity:** Rare; **Cost:** 12000 gp
 
-while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Narrator.
+while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Game Master.
 
 | **d10** | **Damage Type** | **Gem** |
 |---|---|---|
@@ -19513,7 +19513,7 @@ whoever wields this **wand** can cast Major Image (3), Silent Image (1), Mirror 
 
 **Rarity:** Very Rare; **Cost:** 25000 gp
 
-while wielding this **wand**, you can spend 1 charge with two actions and choose a target within 36 meters of you. The target can be a creature, an object, or a point in space. The Narrator decides or randomly determines what happens when you use the wand. Spells cast through the wand have a Saving Throw DC of 18. If the spell normally has a range expressed in meters, the range becomes 36 meters if it isn' \*\*t already. If an effect covers an area, you must center the spell on the target and include it. If an effect can act on as many possible subjects, the Narrator randomly determines who is affected.
+while wielding this **wand**, you can spend 1 charge with two actions and choose a target within 36 meters of you. The target can be a creature, an object, or a point in space. The Game Master decides or randomly determines what happens when you use the wand. Spells cast through the wand have a Saving Throw DC of 18. If the spell normally has a range expressed in meters, the range becomes 36 meters if it isn' \*\*t already. If an effect covers an area, you must center the spell on the target and include it. If an effect can act on as many possible subjects, the Game Master randomly determines who is affected.
 
 This wand has 7 charges. The wand recovers 1 charge every day at dawn.
 
@@ -19536,7 +19536,7 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 54-58 | You cast the darkness spell. |
 | 59-62 | Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute. |
 
-| 63-65 | An object chosen by the Narrator disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
+| 63-65 | An object chosen by the Game Master disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
 | 66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
 | 70-79 | You cast the Fireball spell. |
 | 80-84 | You cast the Invisibility spell on yourself. |
@@ -19800,23 +19800,23 @@ inside this **bag** are 3d4 dry beans. The bag weighs 250 grams plus 125 grams f
 
 If you dump the bag' \*\*s contents on the ground, the beans explode in a 3-meter radius. Each creature in the area, including you, must make a Reflex Saving Throw with DC 18, taking 5d4 fire damage on a failed save, or half as much damage on a successful one.
 
-The fire ignites flammable objects in the area that aren' \*\*t being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Narrator chooses the effect or determines it randomly.
+The fire ignites flammable objects in the area that aren' \*\*t being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Game Master chooses the effect or determines it randomly.
 
 | **d100** | **Effect** |
 |---|---|
 | 01 | 5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour. |
-| 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator' \*\*s choice) 9 meters into the air for 1d12 rounds. |
+| 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Game Master' \*\*s choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There' \*\*s a 50\% chance that the treant is evil and attacks you. |
 | 21-30 | An animated stone statue with your features rises from the ground. It will begin to verbally threaten you. If you leave and other people come to the spot, the statue will describe you as the most dangerous criminal and urge them to find and attack you. If you are on the same plane of existence as the statue, it will always know where you are. After 24 hours the statue will become inanimate. |
 | 31-40 | A campfire with blue flames springs up from the ground and burns for 24 hours (or until it is extinguished). |
 | 41-50 | 1d6 + 6 Shrieking Mushroom sprout. |
-| 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Narrator. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
+| 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Game Master. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
 | 61-70 | A bulette bursts out of the ground and attacks. |
 | 71-80 | A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. |
-| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly in case of a tie; if it fails, it takes 10d6 force damage. |
+| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly if there is a tie; if it fails, it takes 10d6 force damage. |
 
-| 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator' \*\*s choice. |
-| 100 | A giant beanstalk grows on the spot, rising to a height of the Narrator' \*\*s choice. The top leads wherever the Narrator wishes, be it to a cloud giant' \*\*s castle or another plane of existence. |
+| 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Game Master' \*\*s choice. |
+| 100 | A giant beanstalk grows on the spot, rising to a height of the Game Master' \*\*s choice. The top leads wherever the Game Master wishes, be it to a cloud giant' \*\*s castle or another plane of existence. |
 
 ### Bag of Negation
 
@@ -19836,7 +19836,7 @@ Another creature can use two actions to reach into the bag and pull out the crea
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
-this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Narrator randomly determines what happens.
+this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Game Master randomly determines what happens.
 
 | **3d6** | **Effect** |
 |---|---|
@@ -19936,7 +19936,7 @@ this ornate crystal **decanter** weighs 2 pounds and appears to contain swirling
 
 this long, slender **candle** is dedicated to a Patron and shares its Traits. The candle' \*\*s Traits can be identified through a 1-hour ritual of placing it alongside the candle.
 
-The Narrator chooses the Patron and its associated Traits or determines it randomly.
+The Game Master chooses the Patron and its associated Traits or determines it randomly.
 
 The magic of the candle activates when the candle is lit with two actions. After burning for 4 hours, the candle is destroyed. You can decide to extinguish it early to reuse it later. Deduct the time remaining before the candle is extinguished in 1-minute increments to determine how long the candle has burned.
 
@@ -20018,7 +20018,7 @@ this milky-white, viscous **substance** can form a permanent adhesive bond betwe
 
 this **necklace** has 1d4 + 2 magic beads made of aquamarine, black pearl, or topaz. It also has many nonmagical beads made of stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
 
-There are six types of magic beads. The Narrator decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level in case of a Saving Throw. Once a magic bead' \*\*s spell is cast, that bead can' \*\*t be used again until the next dawn.
+There are six types of magic beads. The Game Master decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level if a Saving Throw is required. Once a magic bead' \*\*s spell is cast, that bead can' \*\*t be used again until the next dawn.
 
 | **3d6** | **Bead of...** | **Spell** |
 |---|---|---|
@@ -20626,7 +20626,7 @@ while wearing this **cloak**, you gain a bonus of +1 (uncommon, 3500 gp), +2 (ra
 
 **Rarity:** Very Rare; **Cost:** 10000 gp
 
-this **tome** contains information and spells necessary to make a particular type of golem. The Narrator chooses the type of golem that can be constructed or determines it randomly. To decipher and use the manual, you must have at least Magic Proficiency 10. A creature that can' \*\*t use the manual of golems and attempts to read it takes 6d6 force damage.
+this **tome** contains information and spells necessary to make a particular type of golem. The Game Master chooses the type of golem that can be constructed or determines it randomly. To decipher and use the manual, you must have at least Magic Proficiency 10. A creature that can' \*\*t use the manual of golems and attempts to read it takes 6d6 force damage.
 
 To create a golem, you must spend the time indicated above, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase the necessary materials.
 
@@ -20681,7 +20681,7 @@ When you score a critical hit with this weapon, the target takes an additional c
 
 **Rarity:** Uncommon; **Cost:** 6500 gp
 
-this **box** contains a set of parchment cards. A full deck contains 34 cards, each depicting a different creature. The creatures depicted are left to the Narrator' \*\*s discretion. Usually decks found around are missing 3d6-3 cards.
+this **box** contains a set of parchment cards. A full deck contains 34 cards, each depicting a different creature. The creatures depicted are left to the Game Master' \*\*s discretion. Usually decks found around are missing 3d6-3 cards.
 
 The deck' \*\*s magic works only if the cards are drawn at random (you can use a normal deck of playing cards modified to simulate the deck of illusions). You can use two actions to draw a card from the deck and throw it to a point on the ground within 9 meters of you.
 
@@ -20768,17 +20768,17 @@ You must draw each card within 1 hour of the previous draw. If you don' \*\*t dr
 - **Gem**: Twenty-five gems worth 2,000 gp each or fifty gems worth 1,000 gp each appear at the character' \*\*s feet.
 - **Jester**: The character gains enough Experience Points to gain a level or can draw another card beyond the declared number of cards to draw.
 - **Idiot**: The character' \*\*s Intelligence score is permanently reduced by 1d2 + 1 (to a minimum score of -4). The character can draw an additional card beyond the declared number of cards to draw.
-- **Thief**: An NPC chosen by the Narrator becomes hostile toward the character. The identity of the new enemy is unknown to the character until the NPC or someone else reveals it. Only a wish spell or divine intervention can end the NPC' \*\*s hostility.
+- **Thief**: An NPC chosen by the Game Master becomes hostile toward the character. The identity of the new enemy is unknown to the character until the NPC or someone else reveals it. Only a wish spell or divine intervention can end the NPC' \*\*s hostility.
 - **Moon**: The character gains the ability to cast the wish spell 1d3 times.
 - **Fool**: The character loses a level, discards this card, and draws another card from the deck; drawing both cards counts as one draw from the declared number of cards to draw.
 - **Prison**: The character vanishes and is trapped in a state of suspended animation in an extradimensional sphere. Everything the character was wearing and carrying remains behind in the space they occupied when they disappeared. The character remains imprisoned until found and removed from the sphere. The character can' \*\*t be located by any divination magic, but a wish spell can reveal the location of the prison. The character draws no more cards.
 - **Ruin**: Every form of wealth carried or owned by the character, other than magic items, is lost. Portable property vanishes. Businesses, buildings, and lands owned are lost in the way that causes the minimum alteration of reality. Any documents that might prove ownership of the property lost due to the card vanish as well.
-- **Sun**: You gain enough Experience Points to gain a level and a wondrous item, determined by the Narrator, appears in your hands.
+- **Sun**: You gain enough Experience Points to gain a level and a wondrous item, determined by the Game Master, appears in your hands.
 - **Star**: One of the character' \*\*s ability scores increases by 2. The new score can exceed 5, but not 7.
-- **Skull**: The character summons a manifestation of death: a spectral humanoid skeleton wrapped in a tattered black robe and armed with a spectral scythe. The skeleton appears in a space chosen by the Narrator within 3 meters of the character and attacks them, warning others not to interfere with the combat. The manifestation fights until it kills the character or drops to 0 hit points, at which point it disappears. If someone tries to help the character, they summon their own manifestation of death. A creature slain by a manifestation of death can' \*\*t be brought back to life.
+- **Skull**: The character summons a manifestation of death: a spectral humanoid skeleton wrapped in a tattered black robe and armed with a spectral scythe. The skeleton appears in a space chosen by the Game Master within 3 meters of the character and attacks them, warning others not to interfere with the combat. The manifestation fights until it kills the character or drops to 0 hit points, at which point it disappears. If someone tries to help the character, they summon their own manifestation of death. A creature slain by a manifestation of death can' \*\*t be brought back to life.
 - **Throne**: The character gains proficiency in the Deceive skill and their bonus to Deceive checks doubles. Additionally, the character becomes the rightful owner of a small castle located somewhere in the world. However, the castle is infested with monsters, and the character must clear them out before claiming it as their own.
 - **Vizier**: At any time within one year of drawing this card, the character can ask a question while meditating and mentally receive a truthful answer to that question. Besides information, the answer helps the character understand how to solve.
-- **Void**: This black card is an ill omen. The character' \*\*s soul is torn from their body and confined in an object in a place chosen by the Narrator. Such place is guarded by one or more powerful guardians. While the character' \*\*s soul is trapped this way, their body is incapacitated. A wish spell can' \*\*t restore the character' \*\*s soul to their body, but can reveal the location of the object that holds it. The character draws no more cards.
+- **Void**: This black card is an ill omen. The character' \*\*s soul is torn from their body and confined in an object in a place chosen by the Game Master. Such place is guarded by one or more powerful guardians. While the character' \*\*s soul is trapped this way, their body is incapacitated. A wish spell can' \*\*t restore the character' \*\*s soul to their body, but can reveal the location of the object that holds it. The character draws no more cards.
 
 *Manifestation of Death*
 
@@ -21106,7 +21106,7 @@ these two **stones**, always sold as a pair, allow communication at a distance b
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
-you must be proficient with wind instruments to use these **pipes**. While you are using the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them. While playing the pipes, you can use two actions to spend 1 to 3 charges, calling forth one swarm of rats per charge spent, provided that there are enough rats within 750 meters of you to be called in this manner (at the Narrator' \*\*s discretion). If there aren' \*\*t enough rats to form a swarm, the charge is wasted. The summoned swarms move toward the music by the shortest possible route, but are not otherwise under your control. The pipes have 3 charges and regain 1 charge daily at dawn.
+you must be proficient with wind instruments to use these **pipes**. While you are using the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them. While playing the pipes, you can use two actions to spend 1 to 3 charges, calling forth one swarm of rats per charge spent, provided that there are enough rats within 750 meters of you to be called in this manner (at the Game Master' \*\*s discretion). If there aren' \*\*t enough rats to form a swarm, the charge is wasted. The summoned swarms move toward the music by the shortest possible route, but are not otherwise under your control. The pipes have 3 charges and regain 1 charge daily at dawn.
 
 Whenever a swarm of rats that is not under another creature' \*\*s control comes within 9 meters of you while you are playing the pipes, you can make an Entertain check contested by the swarm' \*\*s Will. If you lose the contest, the swarm behaves as it normally would and can' \*\*t be swayed by the pipes' \*\* music for the next 24 hours. If you win the contest, the swarm is charmed by the pipes' \*\* music and becomes friendly to you and your companions for as long as you continue to play the pipes as two actions each round. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions.
 
@@ -21136,7 +21136,7 @@ If you paint a form of energy such as fire or lightning, the energy appears but 
 
 **Rarity:** variable; **Cost:** 50 gp
 
-this tiny object resembles a **feather**. Different types of feather tokens exist, each with a single-use effect. The Narrator chooses the kind of token.
+this tiny object resembles a **feather**. Different types of feather tokens exist, each with a single-use effect. The Game Master chooses the kind of token.
 
 *Tree*. You must be outdoors to use this token. You can use two actions to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs up. The tree is 18 meters tall and has a trunk 1 meter in diameter. The tree' \*\*s branches at the top spread out in a 6-meter radius. 50 gp
 
@@ -21182,7 +21182,7 @@ this fine powder resembles a very light metallic **dust**. A handful of this sub
 
 **Rarity:** Legendary; **Cost:** 40000 gp
 
-this **cube** of 7.5 centimeters on a side radiates palpable magical energy. The six faces of the cube are each linked to a different plane of existence, one of which is the Material Plane. The other faces are linked to planes determined by the Narrator.
+this **cube** of 7.5 centimeters on a side radiates palpable magical energy. The six faces of the cube are each linked to a different plane of existence, one of which is the Material Plane. The other faces are linked to planes determined by the Game Master.
 
 You can use two actions to press one face of the cube to cast the gate spell with it, opening a portal to the plane linked to that face. Alternatively, if you use two actions to press one face twice, you can plane shift (DC 17 Saving Throw) with the cube and transport its targets to the plane linked to that face. The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1 expended charge daily at dawn.
 
@@ -21327,7 +21327,7 @@ when you drink this **potion**, you gain the effect of the detect thoughts spell
 
 **Rarity:** Uncommon; **Cost:** 300 gp
 
-when you drink this **potion**, for 1 hour you gain resistance to one type of damage. The Narrator chooses the type of damage or determines it randomly (Acid, Cold, Fire, Lightning, Poison, Sound, Light, Void)
+when you drink this **potion**, for 1 hour you gain resistance to one type of damage. The Game Master chooses the type of damage or determines it randomly (Acid, Cold, Fire, Lightning, Poison, Sound, Light, Void)
 
 ### Potion of Water Breathing
 
@@ -21369,7 +21369,7 @@ when you drink this **potion**, for 10 minutes you gain a flying speed equal to 
 
 **Rarity:** Legendary; **Cost:** 75000 gp
 
-this elegant black **cloth**, soft as silk, is folded to the size of a handkerchief. It unfolds into a circular sheet 1.8 meters in diameter. You can use two actions to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the Narrator decides where it leads. You can use two actions to close an open portal by grabbing the edges of the cloth and folding it up. Once a well of many worlds has opened a portal, it can' \*\*t do so again for 1d8 hours.
+this elegant black **cloth**, soft as silk, is folded to the size of a handkerchief. It unfolds into a circular sheet 1.8 meters in diameter. You can use two actions to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the Game Master decides where it leads. You can use two actions to close an open portal by grabbing the edges of the cloth and folding it up. Once a well of many worlds has opened a portal, it can' \*\*t do so again for 1d8 hours.
 
 ### Poison Resistance
 
@@ -21657,7 +21657,7 @@ these two paired **drums** resemble the drums of panic; when both are played, al
 
 you can speak the **carpet' \*\*s** command word as two actions to make the carpet hover and fly. It moves according to your spoken directions, as long as you are within 9 meters of it.
 
-There are four sizes of flying carpet. The Narrator chooses the carpet' \*\*s size or determines it randomly.
+There are four sizes of flying carpet. The Game Master chooses the carpet' \*\*s size or determines it randomly.
 
 	
 
@@ -21763,7 +21763,7 @@ while wearing this **robe** with patches of various shapes and colors, you can u
 
 3-meter pole, Hemp rope (15 meters, coiled), Bull' \*\*s-eye lantern (filled and lit), Dagger, Sack, Steel mirror.
 
-In addition, the robe has 4d4 other patches. The Narrator chooses the patches or determines them randomly, selecting from properties totally different from those already present.
+In addition, the robe has 4d4 other patches. The Game Master chooses the patches or determines them randomly, selecting from properties totally different from those already present.
 
 Roll a d100 on the following table to discover the properties of the other 4d4 patches on the robe of useful items.
 
@@ -21973,7 +21973,7 @@ this **rod** is a magic weapon that ends in three leather tentacles. While holdi
 
 Although being a +1 magic **weapon**, it is considered a +5 magic weapon for evaluating immunities and bonuses to Attack Roll and damage. In addition, the weapon ignores resistance to slashing damage. When you attack a creature that has at least one head with this weapon and get at least 2 Critical Hits, you cut off one of the creature' \*\*s heads. The creature dies if it can' \*\*t survive without the lost head.
 
-A creature is immune to this effect if it is immune to slashing damage, doesn' \*\*t have or need a head, or the Narrator decides that the creature is too big for its head to be cut off with this weapon.
+A creature is immune to this effect if it is immune to slashing damage, doesn' \*\*t have or need a head, or the Game Master decides that the creature is too big for its head to be cut off with this weapon.
 
 Such a creature instead takes 6d8 extra slashing damage from the hit.
 
@@ -21983,7 +21983,7 @@ Such a creature instead takes 6d8 extra slashing damage from the hit.
 
 **Requirements:** Create Magic Items, Bestow Curse; **Rarity:** Rare
 
-While wearing this **armor**, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The Narrator chooses the type. The armor is cursed, while you are cursed, you have vulnerability to two of the three damage types associated with the armor (that isn' \*\*t the one to which you have resistance).
+While wearing this **armor**, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The Game Master chooses the type. The armor is cursed, while you are cursed, you have vulnerability to two of the three damage types associated with the armor (that isn' \*\*t the one to which you have resistance).
 
 ### Handy Haversack
 
@@ -22030,7 +22030,7 @@ These are the guidelines on the use of magic items.
 - To **identify a magic item** see Identifying a magic item (p. ) and Cursed Items (p. ).
 - A **magic item that manifests spells** does not make any Magic Check. The **Saving Throw** it imposes, if not specified, is equal to 12 + level*2 of the spell it manifests.
 - To **Activate magical abilities** of an item, unless otherwise indicated, costs 2 Actions.
-- A magic item that provides a **static bonus (or penalty)** applies its value even if the item has not been identified; the Narrator will silently apply this bonus to Defense, Attack Roll, Saving Throws... informing the player that they perceive how the item interacts with the situation.
+- A magic item that provides a **static bonus (or penalty)** applies its value even if the item has not been identified; the Game Master will silently apply this bonus to Defense, Attack Roll, Saving Throws... informing the player that they perceive how the item interacts with the situation.
 - A magic item that has daily uses recharges at dawn of the day following use.
 - Wands, Staves, Scrolls (not Isy), Rods can only be used by characters who have a MP score equal to the highest level of spell that can be cast from the item.
 - If you spend the last charge of a wand, roll 1d6; if you get a 1, the wand crumbles to dust and is destroyed
@@ -22137,7 +22137,7 @@ To recharge a wand or staff, a spellcaster must infuse the same spell that they 
 
 Magic items are valuable, and most large cities have at least one or two suppliers of magic items, from simple potion vendors to blacksmiths specialized in forging magic swords. Obviously, not every item in this manual is available in every city.
 
-The following guidelines help Narrators determine which items are available in a specific community. They assume a campaign with an average level of magic. Some cities might deviate greatly from this baseline at the Narrator' \*\*s discretion. The Narrator should keep a list of items available from each merchant and should occasionally replenish stocks with new acquisitions.
+The following guidelines help Game Masters determine which items are available in a specific community. They assume a campaign with an average level of magic. Some cities might deviate greatly from this baseline at the Game Master' \*\*s discretion. The Game Master should keep a list of items available from each merchant and should occasionally replenish stocks with new acquisitions.
 
 The number and types of magic items available in a community depend on its size. Each community has a base value associated with it (see Table: Available Magic Items).
 
@@ -22145,11 +22145,11 @@ There is a 75\% chance that any item of that value or less can be easily found f
 
 After determining the number of items available in each category, consult the Random Generation of Magic Items chapter to determine the type of each item (potion, scroll, ring, weapon, etc.) before moving on to the specific tables to establish the exact item. Reroll each time the items do not fit the base value of the community.
 
-If the use of magic in the campaign is rare, halve the base value and the number of items in each community. In campaigns with extremely rare or no magic, there might not be any magic items for sale at all. Narrators running this type of campaign should provide adjustments to the challenges faced by the characters given the lack of magic items.
+If the use of magic in the campaign is rare, halve the base value and the number of items in each community. In campaigns with extremely rare or no magic, there might not be any magic items for sale at all. Game Masters running this type of campaign should provide adjustments to the challenges faced by the characters given the lack of magic items.
 
 Campaigns with abundant magic items might have communities with twice the established base value and available random magic items. Alternatively, all communities could be considered one size category larger for the purpose of determining available magic items. In a campaign with very common magic, all magic items can be purchased in a metropolis.
 
-Non-magical items and tools are generally available in a community of any size unless the item is very expensive, like full plate armor, or made of an unusual material, like an adamantine longsword. These items should follow the base value guideline to determine their availability, at the Narrator' \*\*s discretion.
+Non-magical items and tools are generally available in a community of any size unless the item is very expensive, like full plate armor, or made of an unusual material, like an adamantine longsword. These items should follow the base value guideline to determine their availability, at the Game Master' \*\*s discretion.
 
 ## Artifacts of the old world
 
@@ -22173,7 +22173,7 @@ The **DC**, based on the indicated skill, to create an item is 15 +2*Spell level
 
 Knowing the spell (or having it available through a Scroll) that is applied to the item is a requirement for every magic item created. The work days indicated cannot be divided into less than 6 hours per day dedicated to creation.
 
->>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Narrator, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
+>>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Game Master, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
 
 ### Modifiers to the cost of magic items
 
@@ -22264,7 +22264,7 @@ To create a staff, a character needs a supply of materials, the most obvious of 
 
 Staves are always fully charged, 10 charges, at the time of creation.
 
-A Staff can contain a maximum spell level of 8, or in case of different spells the maximum level is 6.
+A Staff can contain a maximum spell level of 8, or if using different spells the maximum level is 6.
 
 Creating a staff requires 1 day for every 500 gp of the base price.
 
@@ -22284,16 +22284,16 @@ If a scroll includes multiple spells, the cost is equal to the sum of the variou
 
 The spellcaster must know the spells they insert into the scroll. To prepare a scroll, 30 minutes of work per spell level present is required.
 
-An ISY scroll can contain spells of level 3 at maximum, while a normal scroll can contain a maximum spell level of 9, in case of multiple spells the maximum level is 8.
+An ISY scroll can contain spells of level 3 at maximum, while a normal scroll can contain a maximum spell level of 9, if using multiple spells the maximum level is 8.
 
 To read a scroll, it is necessary:
 
-**in case of ISY SCROLLS**:
+**for ISY SCROLLS**:
 
 - to understand the content, an Intelligence (or Arcana if known) check at difficulty DC 10 is sufficient
 - to be able to read and cast the spell of the scroll, an Intelligence (or Arcana if known) check at difficulty 12 is required.
 
-**in case of normal scrolls**:
+**for normal scrolls**:
 
 - to understand the content, an Arcana check at difficulty 15 is required
 - to be able to read and cast the spell of the scroll, an Arcana check at difficulty 11+Spell Level is required and the spell must have a level equal to the maximum castable +2
@@ -22314,7 +22314,7 @@ The production cost of the Potion is equal to level*level*40; a Potion with Invi
 
 To create a potion, a character needs a horizontal work surface and some containers to mix liquids along with a heat source to boil the infusion.
 
-A Potion can normally contain a maximum spell level of 3. At the Narrator' \*\*s discretion, potions of higher level might be possible at the price of level*level*level*20 gp.
+A Potion can normally contain a maximum spell level of 3. At the Game Master' \*\*s discretion, potions of higher level might be possible at the price of level*level*level*20 gp.
 
 All ingredients and materials for preparing a potion must be fresh and never used.
 
@@ -22364,7 +22364,7 @@ Cursed items are magic items with a potentially negative influence on the charac
 
 Cursed items are almost never intentionally created; rather, they are the result of poor workmanship, inexperienced craftsmen, or the lack of adequate components or broken pacts with some Patron.
 
-The Narrator can request an Arcana check with a DC equal to 10+days spent building the magic item in case of particularly complex items or if there were problematic situations in creation, and if the check fails, roll on the following table to determine the type of curse the item possesses.
+The Game Master can request an Arcana check with a DC equal to 10+days spent building the magic item for particularly complex items or if there were problematic situations in creation, and if the check fails, roll on the following table to determine the type of curse the item possesses.
 
 A curse can also manifest as a result of negative or extreme emotional influences involving an object.
 
@@ -22397,7 +22397,7 @@ These items can only be removed after the Remove Curse spell is cast on the char
 
 The Dispel Magic spell is useless for removing a curse; only a Greater Dispel Magic with 3 Critical Magic Successes may be sufficient.
 
-If the item was cursed through the Bestow Curse spell, or if the Narrator decides that the item has a particular curse, then a counterspell check (p. ) must be made between the one casting Remove Curse and the DC of the item' \*\*s curse.
+If the item was cursed through the Bestow Curse spell, or if the Game Master decides that the item has a particular curse, then a counterspell check (p. ) must be made between the one casting Remove Curse and the DC of the item' \*\*s curse.
 
 If the counterspell check succeeds, then the item can be removed in the next round, and the curse remains and strikes again if the item is used/worn another time.
 
@@ -22407,7 +22407,7 @@ If the DC of the curse is not indicated, casting the Remove Curse spell is suffi
 
 ## Common Effects of Cursed Items
 
-The most common effects of cursed items are the following; the Narrator can invent new particular effects for specific cursed items.
+The most common effects of cursed items are the following; the Game Master can invent new particular effects for specific cursed items.
 
 ### Deception
 
@@ -22491,7 +22491,7 @@ Items that have drawbacks usually have positive effects on those who use them, b
 
 Unless otherwise indicated, drawbacks remain active for as long as the item remains in the character' \*\*s possession. The DC of the Saving Throw to avoid these effects is equal to 10 + DC of the curse (if you have not established the difficulty, set the Saving Throw, usually on Will, at DC 25)
 
->>> **Curses**: The list is an example to randomly generate effects on the item' \*\*s owner. Take inspiration and be creative! However, don' \*\*t make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
+>>> **Curses**: The list is an example to randomly generate effects on the item' \*\*s owner. Take inspiration and be creative! However, don' \*\*t make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Game Master
 
 ---
 
@@ -22643,7 +22643,7 @@ The remains of magnificent cities of the past still stand, and these often becom
 
 The underground, whether caves, catacombs, or infinite tunnels, if not true underground cities, exists throughout the Earth, an imperishable memory, stratified and re-stratified, of its history. There is never an end to how deep one can go; there is always something else below that is even more magnificent and dangerous.
 
-Legends speak of entire regions swallowed underground, cities that from day to night disappeared in a cloud of dust. Everywhere there are accesses to the depths where treasures and riches are fabled, where the Law of the Prize awaits those who dare to take up the challenge.
+Legends speak of entire regions swallowed underground, cities that from day to night disappeared in a cloud of dust. Everywhere there are accesses to the depths where treasures and riches are fabled, where the your rewards awaits those who dare to take up the challenge.
 
 ## Religions
 
@@ -22683,7 +22683,7 @@ The Earth can no longer be said to be explored; the same area can change from on
 
 It will be hordes of hungry goblins in the maze of the depths of the city, it will be barbaric hordes devoted to Cattalm to kill and kidnap offspring, it will be kingdoms of ghouls that have sprung from nowhere wanting to eat everything and everyone, it will be famines and plagues that can only be solved by finding ancient artifacts, it could be ancient cities that have sprung from an imprint of Cattalm, putrid expanding swamps full of monsters...
 
-The Patrons will do everything to defeat and humiliate you, but remember well that the Law of the Prize is superior even to them!
+The Patrons will do everything to defeat and humiliate you, but remember well that the your rewards is superior even to them!
 
 ## Notable new places on Earth
 
@@ -22773,7 +22773,7 @@ You can invent a thousand and one adventures behind the Portals; each is a possi
 Each portal will lead you to a different place, fantastic as you intend it. Do you want an adventure in a primitive world, set in modern society, on a planet somewhere? Use the portal to open the doors of your imagination. The characters themselves might not be *earthly* and seek a way to return home...
 
 >>> **Settings**: Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
-Choose your setting, use Greyhawk, Dark Sun, Mystara, Midgard, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
+Choose your setting, use Greyhawk, Dark Sun, Mystara, Midgard, whatever you prefer. You are the Game Master, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
 
 > First Chaos came to be, then broad-bosomed Gaia, the ever-sure foundation of all the deathless ones. Hesiod' \*\*s Theogony
 
@@ -23027,7 +23027,7 @@ It will happen that players will ask you ***how the monster is doing***; I sugge
 
 ### Bloodied
 
-At the Narrator' \*\*s discretion, a creature that has lost at least 50\% of its total Hit Points triggers a fury that allows it special actions.
+At the Game Master' \*\*s discretion, a creature that has lost at least 50\% of its total Hit Points triggers a fury that allows it special actions.
 Monsters with Challenge Rating 5 or more may have a **Bloodied** card. The Bloodied ability can be used once per encounter at the cost, if not otherwise noted, of 1 Action.
 
 Particularly fierce and powerful creatures might have more Bloodied notes, and both, respecting any conditions noted, can be activated.
@@ -23303,7 +23303,7 @@ See also Table: Treasure Values for Encounter (pg. ).
 - **Dragon**
 	Known for their precious treasures, dragons often rest on piles of coins, gems, magic items, and expensive items.
 - **Outsider**
-	Outsiders are among the most diverse creatures and, consequently, can possess any type of treasure, either on them or hidden in their shelters. The Narrator should evaluate each individual creature to determine the type of treasure most suitable for each outsider.
+	Outsiders are among the most diverse creatures and, consequently, can possess any type of treasure, either on them or hidden in their shelters. The Game Master should evaluate each individual creature to determine the type of treasure most suitable for each outsider.
 - **Fey**
 	Fey value beautiful and magical objects. They have little regard for coins and goods.
 - **Ooze - Parasite - Plant**
@@ -24380,7 +24380,7 @@ Blue Dragons live among the clouds, flying (and levitating) among storms.
 
 Blue Dragons have a serpentine, elongated and elegant appearance, with long horns pointing backward.
 
-A Blue Dragon' \*\*s face is less marked by wrinkles and remains smooth.
+A Blue Dragon' \*\*s face has fewer wrinkles and remains smooth.
 They are the only dragons that have no wings yet fly better than any other dragon.
 
 Their magical but natural flying ability combined with the fact that they feed on electricity makes them primarily flying creatures that almost never come down to earth (and never touch the ground, considering it impure and dirty!), preferring to remain among the clouds, especially among the darkest and most energy-laden ones to feed.
@@ -25202,7 +25202,7 @@ Organization: Solitary
 
 Androsphinxes, the most powerful of common sphinxes, believe they represent all that is worthy and noble in their species and act as if the weight of the entire world rested on their good example. They look at Criosphinxes with paternalistic condescension, Hieracosphinxes with ill-concealed disgust, and Gynosphinxes as the only other sphinxes worthy of their time.
 
-Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an appeal to treat. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
+Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an offer to negotiate. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
 
 Androsphinxes are 12 meters tall and weigh 1,100 pounds.
 
@@ -25490,7 +25490,7 @@ The basilisk, often called the *King of Serpents*, is an eight-legged reptile wi
 
 Basilisks live in almost all dry environments, from forests to deserts, and their skin tends to reflect their surrounding environment.
 
-They tend to use caves, dens, or other sheltered areas as refuges. These refuges are often marked by statues depicting people and animals in natural poses, which are actually the petrified remains of unfortunates who encountered a basilisk.
+They tend to use caves, dens, or other sheltered areas as refuges. These refuges are often marked with statues depicting people and animals in natural poses, which are actually the petrified remains of unfortunates who encountered a basilisk.
 
 Basilisks have the ability to consume petrified creatures. When not waiting for small mammals, birds, or reptiles that make up their diet, basilisks spend their time sleeping in their dens. Those who are brave enough to capture basilisks or hide treasure near them discover that these beings can serve as custodians or guard dogs.
 
@@ -29251,7 +29251,7 @@ The hydra is a multi-headed dragon, but stupid and with major digestive problems
 
 ***Ice Spear.** Melee weapon attack*: +12 to hit, reach 3 m, one target.
 
-*Hits:* 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 26 Fortitude Saving Throw, or have its speed reduced by 3 meters for 1 minute; during each of its turns it can take only an Action or an Immediate Action, but not both; it cannot take reactions. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself in case of success.
+*Hits:* 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 26 Fortitude Saving Throw, or have its speed reduced by 3 meters for 1 minute; during each of its turns it can take only an Action or an Immediate Action, but not both; it cannot take reactions. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Bite.** Melee weapon attack*: +12 to hit, reach 1 m, one target.
 
@@ -30783,7 +30783,7 @@ An otyugh, by eating the excrement or part of a creature, can understand what di
 
 The origins of the Owlbear are a subject of debate among scholars of monstrous creatures. Most of them agree that it was a Wizard, in the past, who created the first specimen by combining a bear with a giant owl; perhaps as an experiment on some crazy concept of the nature of life, but more likely because of his complete madness. Whatever the original purpose of such a crazy creation as the Owlbear, the creature began to reproduce, and has become one of the best-known predators of wooded areas.
 
-Owlbears are savage predators, known for their bad temper, aggression, and ferocity. They tend to attack everything that moves in front of them, even if it shows no bellicose intentions. Many scholars who have encountered these creatures in the wilderness have noted that they always have bloodshot eyes that rotate all around just before an attack. This is generally seen as a sign of madness, suggesting that all Owlbears are born with a pathological need to fight and kill, but more realistic researchers believe it is due to the structure of their acute eyes.
+Owlbears are savage predators, known for their bad temper, aggression, and ferocity. They tend to attack everything that moves in front of them, even if it shows no bellicose intentions. Many scholars who have encountered these creatures in the wilderness have noted that they always have bloodshot eyes that rotate all around just before an attack. This is generally seen as a sign of madness, suggesting that all Owlbears are born with a pathological need to fight and kill, but more realistic researchers believe it' \*\*s because of the structure of their acute eyes.
 
 Owlbears inhabit the innermost and most hidden areas of the woods, and prepare their lairs inside intricate forests or dark and deep caves. They can hunt both day and night, depending on the habits of the prey that populate the territories surrounding their lair.
 
@@ -36311,7 +36311,7 @@ The condition applies to both the grappled creature and the grappler.
 
 **Deafened**: A deafened character cannot hear. They automatically fail all Awareness checks based on sound and are considered Distracted when casting spells with at least verbal components.
 
-Characters who remain deafened for long periods may become accustomed to these penalties and overcome some of them, at the Narrator' \*\*s discretion.
+Characters who remain deafened for long periods may become accustomed to these penalties and overcome some of them, at the Game Master' \*\*s discretion.
 
 **Poisoned**: any subject under the influence of a poison or potion is considered poisoned, regardless of whether it is already producing effects or has yet to produce them given the onset time. A creature immune to Poison damage cannot have the Poisoned condition.
 
@@ -36657,7 +36657,7 @@ https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
-* **Narrator' \*\*s Screen**:
+* **Game Master' \*\*s Screen**:
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2-eng.pdf
@@ -36700,7 +36700,7 @@ Before any use of OBSS or parts of it, please contact me. The translation of OBS
 
 # My Options
 
-I am also a Narrator, and while I built OBSS based on my preferences, there are some Options that make the game more *unique* that I like to make available to the characters.
+I am also a Game Master, and while I built OBSS based on my preferences, there are some Options that make the game more *unique* that I like to make available to the characters.
 
 At my gaming table, I usually propose these Options, to be decided in Session Zero:
 
