@@ -2,6 +2,44 @@ import re
 import csv
 import datetime
 
+
+def clean_latex(text):
+    r"""Rimuove i comandi LaTeX mantenendo il testo contenuto."""
+    # Per i collegamenti interessa soltanto il testo visualizzato, non il link.
+    text = re.sub(r'\\(?:hyperlink|href)\{[^{}]*\}\{([^{}]*)\}', r'\1', text)
+    text = re.sub(r'\\(?:begin|end)\{[^{}]*\}', '', text)
+    text = re.sub(r'\\includegraphics(?:\[[^]]*\])?\{[^{}]*\}', '', text)
+    text = re.sub(r'\\(?:resizedown|resizebox)\{[^{}]*\}(?:\{!\})?\{', '', text)
+
+    # Ripete la sostituzione per gestire comandi annidati, ad esempio
+    # \emph{\textbf{Nome}}.
+    while True:
+        text, replacements = re.subn(r'\\[a-zA-Z]+\{([^{}]*)\}', r'\1', text)
+        if replacements == 0:
+            break
+
+    text = re.sub(r'\\[a-zA-Z]+', '', text)
+    text = text.replace('\\\\', ' ')
+    text = text.replace('{', '').replace('}', '')
+    return ' '.join(text.split()).strip()
+
+
+def extract_emphasized_blocks(text):
+    r"""Estrae blocchi del tipo \emph{\textbf{Nome.}} descrizione."""
+    marker = re.compile(r'\\emph\{\\textbf\{([^{}]+)\}')
+    matches = list(marker.finditer(text))
+    blocks = []
+
+    for index, match in enumerate(matches):
+        start = match.end()
+        if text[start:start + 1] == '}':
+            start += 1
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        blocks.append((match.group(1).strip(), text[start:end]))
+
+    return blocks
+
+
 def parse_tex_file(tex_file):
     with open(tex_file, 'r', encoding='utf-8') as f:
         content = f.read()
@@ -24,108 +62,71 @@ def parse_tex_file(tex_file):
         for line in lines:
             line = line.strip()
 
-            # Estrai Taglia/Tipo
-            if '\\item[\\textbf{Taglia/Tipo:}]' in line:
-                tipo_match = re.search(r'\\item\[\\textbf{Taglia/Tipo:}\]\s*(.*)', line)
-                if tipo_match:
-                    current_monster['Tipo'] = tipo_match.group(1).strip()
+            item_match = re.search(r'\\item\[\\textbf\{([^}]+)\}\]\s*(.*)', line)
+            if not item_match:
+                continue
 
-            # Estrai le caratteristiche - gestisce sia il formato normale che quello con \resizebox
-            elif '\\item[\\textbf{Caratt.:}]' in line:
-                if '\\resizebox' in line:
-                    caratt_match = re.search(r'\\resizebox{[^}]+}{!}{For\s+(-?\d+)\s+Des\s+(-?\d+)\s+Cos\s+(-?\d+)\s+Int\s+(-?\d+)\s+Sag\s+(-?\d+)\s+Car\s+(-?\d+)}', line)
-                else:
-                    caratt_match = re.search(r'\\item\[\\textbf{Caratt.:}\]\s*For\s+(-?\d+)\s+Des\s+(-?\d+)\s+Cos\s+(-?\d+)\s+Int\s+(-?\d+)\s+Sag\s+(-?\d+)\s+Car\s+(-?\d+)', line)
-                
+            label = item_match.group(1).rstrip(':').strip()
+            value = clean_latex(item_match.group(2))
+
+            if label == 'Taglia/Tipo':
+                current_monster['Tipo'] = value
+            elif label == 'Caratt.':
+                caratt_match = re.search(
+                    r'For\s+(\S+)(?:\s+\([^)]*\))?\s+'
+                    r'Des\s+(\S+)(?:\s+\([^)]*\))?\s+'
+                    r'Cos\s+(\S+)(?:\s+\([^)]*\))?\s+'
+                    r'Int\s+(\S+)(?:\s+\([^)]*\))?\s+'
+                    r'Sag\s+(\S+)(?:\s+\([^)]*\))?\s+'
+                    r'Car\s+(\S+)(?:\s+\([^)]*\))?', value)
                 if caratt_match:
-                    current_monster['For'] = caratt_match.group(1)
-                    current_monster['Des'] = caratt_match.group(2)
-                    current_monster['Cos'] = caratt_match.group(3)
-                    current_monster['Int'] = caratt_match.group(4)
-                    current_monster['Sag'] = caratt_match.group(5)
-                    current_monster['Car'] = caratt_match.group(6)
-
-            # Estrai Punti Ferita, Difesa e Iniziativa
-            elif '\\item[\\textbf{Punti Ferita:}]' in line:
-                pf_match = re.search(r'\\item\[\\textbf{Punti Ferita:}\]\s*(\d+),\s*\\textbf{Difesa:}\s*(\d+),\s*\\textbf{Iniziativa:}\s*([+-]?\d+)', line)
+                    for field, field_value in zip(
+                            ('For', 'Des', 'Cos', 'Int', 'Sag', 'Car'),
+                            caratt_match.groups()):
+                        current_monster[field] = field_value
+            elif label == 'Punti Ferita':
+                pf_match = re.search(
+                    r'(.+?),\s*Difesa:\s*([^,]+),\s*Iniziativa:\s*([^,]+)',
+                    value)
                 if pf_match:
-                    current_monster['PF'] = pf_match.group(1)
-                    current_monster['Difesa'] = pf_match.group(2)
-                    current_monster['Iniziativa'] = pf_match.group(3)
-
-            # Estrai Movimento
-            elif '\\item[\\textbf{Movimento:}]' in line:
-                movimento_match = re.search(r'\\item\[\\textbf{Movimento:}\]\s*(.*)', line)
-                if movimento_match:
-                    current_monster['Movimento'] = movimento_match.group(1).strip()
-
-            # Estrai Tiri Salvezza - gestisce sia formato normale che \resizebox
-            elif '\\item[\\textbf{Tiri Salvez.:}]' in line or '\\item[\\textbf{Tiri Salvezza:}]' in line:
-                if '\\resizebox' in line:
-                    # Gestisce i \resizebox annidati
-                    ts_match = re.search(r'Tempra\s+([+-]?\d+),\s*Riflessi\s+([+-]?\d+),\s*Volontà\s+([+-]?\d+)', line)
-                else:
-                    ts_match = re.search(r'\\item\[\\textbf{Tiri Salve[zZ][^:]*:\]\s*Tempra\s+([+-]?\d+),\s*Riflessi\s+([+-]?\d+),\s*Volontà\s+([+-]?\d+)', line)
-                
+                    pf_value = pf_match.group(1).strip()
+                    numeric_pf = re.match(r'\d+', pf_value)
+                    current_monster['PF'] = numeric_pf.group(0) if numeric_pf else pf_value
+                    current_monster['Difesa'] = pf_match.group(2).strip()
+                    current_monster['Iniziativa'] = pf_match.group(3).strip()
+            elif label == 'Movimento':
+                current_monster['Movimento'] = value
+            elif label in ('Tiri Salvez.', 'Tiri Salvezza'):
+                ts_match = re.search(
+                    r'Tempra\s+(.+?),\s*Riflessi\s+(.+?),\s*Volontà\s+(.+)$',
+                    value)
                 if ts_match:
-                    current_monster['TS_Tempra'] = ts_match.group(1)
-                    current_monster['TS_Riflessi'] = ts_match.group(2)
-                    current_monster['TS_Volonta'] = ts_match.group(3)
-
-            # Estrai Competenze (nuovo campo)
-            elif '\\item[\\textbf{Comp.:}]' in line or '\\item[\\textbf{Competenze:}]' in line:
-                comp_match = re.search(r'\\item\[\\textbf{Comp[^:]*:\]\s*(.*)', line)
-                if comp_match:
-                    current_monster['Competenze'] = comp_match.group(1).strip()
-
-            # Estrai Incantesimi (nuovo campo per gestire incantesimi innati)
-            elif '\\item[\\textbf{Incant.:}]' in line:
-                incant_match = re.search(r'\\item\[\\textbf{Incant\.:\]\s*(.*)', line)
-                if incant_match:
-                    current_monster['Incantesimi_Innati'] = incant_match.group(1).strip()
-
-            # Estrai Resistenza Danni
-            elif '\\item[\\textbf{Res. Danni:}]' in line:
-                res_match = re.search(r'\\item\[\\textbf{Res. Danni:}\]\s*(.*)', line)
-                if res_match:
-                    current_monster['Res_Danni'] = res_match.group(1).strip()
-
-            # Estrai Immunità Danni
-            elif '\\item[\\textbf{Imm. Danni:}]' in line:
-                imm_match = re.search(r'\\item\[\\textbf{Imm. Danni:}\]\s*(.*)', line)
-                if imm_match:
-                    current_monster['Imm_Danni'] = imm_match.group(1).strip()
-
-            # Estrai Immunità
-            elif '\\item[\\textbf{Immunità:}]' in line:
-                immunita_match = re.search(r'\\item\[\\textbf{Immunità:}\]\s*(.*)', line)
-                if immunita_match:
-                    current_monster['Immunita'] = immunita_match.group(1).strip()
-
-            # Estrai Vulnerabilità (nuovo campo)
-            elif '\\item[\\textbf{Vulnerabilità:}]' in line:
-                vuln_match = re.search(r'\\item\[\\textbf{Vulnerabilità:}\]\s*(.*)', line)
-                if vuln_match:
-                    current_monster['Vulnerabilita'] = vuln_match.group(1).strip()
-
-            # Estrai Sensi
-            elif '\\item[\\textbf{Sensi:}]' in line:
-                sensi_match = re.search(r'\\item\[\\textbf{Sensi:}\]\s*(.*)', line)
-                if sensi_match:
-                    current_monster['Sensi'] = sensi_match.group(1).strip()
-
-            # Estrai Linguaggi
-            elif '\\item[\\textbf{Linguaggi:}]' in line:
-                linguaggi_match = re.search(r'\\item\[\\textbf{Linguaggi:}\]\s*(.*)', line)
-                if linguaggi_match:
-                    current_monster['Linguaggi'] = linguaggi_match.group(1).strip()
-
-            # Estrai Sfida e PX
-            elif '\\item[\\textbf{Sfida:}]' in line:
-                sfida_match = re.search(r'\\item\[\\textbf{Sfida:}\]\s*([\d/]+)\s*\((\d+)\s*PX\)', line)
+                    current_monster['TS_Tempra'] = ts_match.group(1).strip()
+                    current_monster['TS_Riflessi'] = ts_match.group(2).strip()
+                    current_monster['TS_Volonta'] = ts_match.group(3).strip()
+            elif label in ('Comp.', 'Competenze'):
+                current_monster['Competenze'] = value
+            elif label == 'Incant.':
+                current_monster['Incantesimi_Innati'] = value
+            elif label == 'Res. Danni':
+                current_monster['Res_Danni'] = value
+            elif label == 'Imm. Danni':
+                current_monster['Imm_Danni'] = value
+            elif label == 'Immunità':
+                current_monster['Immunita'] = value
+            elif label == 'Vulnerabilità':
+                current_monster['Vulnerabilita'] = value
+            elif label == 'Sensi':
+                current_monster['Sensi'] = value
+            elif label == 'Linguaggi':
+                current_monster['Linguaggi'] = value
+            elif label == 'Sfida':
+                sfida_match = re.search(r'(.+?)\s*\(([\d.]+)\s*PX\)', value)
                 if sfida_match:
-                    current_monster['Sfida'] = sfida_match.group(1)
-                    current_monster['PX'] = sfida_match.group(2)
+                    current_monster['Sfida'] = sfida_match.group(1).strip()
+                    current_monster['PX'] = sfida_match.group(2).replace('.', '')
+                elif value:
+                    current_monster['Sfida'] = value
 
         # Estrai informazioni dalla sezione Ecologia (dopo la descrizione delle azioni)
         ecology_section = re.search(r'\\textbf{Ecologia}\\\\(.*?)(?=\\textbf{Descrizione}|\\mostro\{|$)', block, re.DOTALL)
@@ -147,48 +148,73 @@ def parse_tex_file(tex_file):
             if tesoro_match:
                 current_monster['Categoria_Tesoro'] = tesoro_match.group(1).strip()
 
-        # Estrai abilità speciali (tra description e Azioni)
+        # Estrai abilità speciali e sezioni nominate prima delle Azioni.
         abilities_section = re.search(r'\\end{description}(.*?)\\textbf{Azioni}', block, re.DOTALL)
         if abilities_section:
             abilities_text = abilities_section.group(1)
-            # Estrai le singole abilità speciali marcate con \emph{\textbf{
             special_abilities = []
-            ability_matches = re.finditer(r'\\emph\{\\textbf\{([^}]+)\}\}[^\\]*([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{Azioni\}|$)', abilities_text, re.DOTALL)
-            for ability_match in ability_matches:
-                ability_name = ability_match.group(1)
-                ability_desc = ability_match.group(2).strip()
-                ability_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', ability_desc)
-                ability_clean = ' '.join(ability_clean.split())
-                if ability_clean:
+            for ability_name, ability_desc in extract_emphasized_blocks(abilities_text):
+                ability_name = ability_name.rstrip('.').strip()
+                ability_clean = clean_latex(ability_desc)
+                if not ability_clean:
+                    continue
+                if ability_name.startswith('Incantesimi Innati'):
+                    current_monster['Incantesimi_Innati'] = clean_latex(
+                        f"{current_monster.get('Incantesimi_Innati', '')} {ability_clean}")
+                elif ability_name == 'Incantesimi':
+                    current_monster['Incantesimi'] = ability_clean[:800]
+                elif ability_name in ('Resistenza Leggendaria', 'Presenza Spaventosa',
+                                      'Aura Speciale', 'Costruzione'):
+                    current_monster[ability_name.replace(' ', '_')] = ability_clean[:400]
+                elif ability_name != 'Arrabbiato:':
                     special_abilities.append(f"{ability_name}: {ability_clean}")
             
             if special_abilities:
                 current_monster['Abilita_Speciali'] = '; '.join(special_abilities)[:800]
 
         # Estrai azioni (tra \textbf{Azioni} e \textbf{Ecologia} o altra sezione)
-        actions_section = re.search(r'\\textbf{Azioni}(.*?)(?=\\textbf{Ecologia}|\\textbf{Reazione}|\\textbf{Azioni Aggiuntive}|\\mostro\{|$)', block, re.DOTALL)
+        actions_section = re.search(
+            r'\\textbf\{Azioni\}(.*?)(?=\\textbf\{Ecologia\}|'
+            r'\\textbf\{Azioni Aggiuntive\}|\\mostro\{|$)',
+            block, re.DOTALL)
         if actions_section:
             actions_text = actions_section.group(1)
-            # Estrai le singole azioni
             action_list = []
-            action_matches = re.finditer(r'\\emph\{\\textbf\{([^}]+)\}\}[^\\]*([^\\]*?)(?=\\emph\{\\textbf\{|\\textbf\{|$)', actions_text, re.DOTALL)
-            for action_match in action_matches:
-                action_name = action_match.group(1).replace('.', '')  # Rimuovi punti dai nomi
-                action_desc = action_match.group(2).strip()
-                action_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', action_desc)
-                action_clean = ' '.join(action_clean.split())
+            for action_name, action_desc in extract_emphasized_blocks(actions_text):
+                action_name = action_name.rstrip('.').strip()
+                if action_name.startswith('Arrabbiato:'):
+                    continue
+                action_desc = re.sub(
+                    r'\\textbf\{Reazione:\s*\\emph\{[^{}]+\}\}\s*:?.*?(?='
+                    r'\\emph\{\\textbf\{|$)',
+                    '', action_desc, flags=re.DOTALL)
+                action_clean = clean_latex(action_desc)
                 if action_clean:
                     action_list.append(f"{action_name}: {action_clean}")
             
             if action_list:
                 current_monster['Azioni'] = '; '.join(action_list)[:1000]
 
+        # Estrai reazioni eventualmente presenti prima di Ecologia.
+        reaction_matches = re.finditer(
+            r'\\textbf\{Reazione:\s*\\emph\{([^{}]+)\}\}\s*:?(.*?)(?='
+            r'\\textbf\{Reazione:|\\emph\{\\textbf\{|\\textbf\{Ecologia\}|'
+            r'\\mostro\{|$)',
+            block, re.DOTALL)
+        reaction_list = []
+        for reaction_match in reaction_matches:
+            reaction_name = reaction_match.group(1).strip()
+            reaction_desc = clean_latex(reaction_match.group(2))
+            if reaction_desc:
+                reaction_list.append(f"{reaction_name}: {reaction_desc}")
+        if reaction_list:
+            current_monster['Reazioni'] = '; '.join(reaction_list)[:800]
+
         # Estrai azioni aggiuntive
         additional_actions = re.search(r'\\textbf{Azioni Aggiuntive}(.*?)(?=\\textbf{Ecologia}|\\mostro\{|$)', block, re.DOTALL)
         if additional_actions:
             add_actions_text = additional_actions.group(1)
-            add_actions_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', add_actions_text)
-            add_actions_clean = ' '.join(add_actions_clean.split())
+            add_actions_clean = clean_latex(add_actions_text)
             if add_actions_clean.strip():
                 current_monster['Azioni_Aggiuntive'] = add_actions_clean.strip()[:400]
 
@@ -196,8 +222,7 @@ def parse_tex_file(tex_file):
         angry_section = re.search(r'\\emph\{\\textbf{Arrabbiato:}\}(.*?)(?=\\textbf{Ecologia}|\\mostro\{|$)', block, re.DOTALL)
         if angry_section:
             angry_text = angry_section.group(1)
-            angry_clean = re.sub(r'\\[a-zA-Z]+\{[^}]*\}|\\[a-zA-Z]+', '', angry_text)
-            angry_clean = ' '.join(angry_clean.split())
+            angry_clean = clean_latex(angry_text)
             if angry_clean.strip():
                 current_monster['Arrabbiato'] = angry_clean.strip()[:300]
 
