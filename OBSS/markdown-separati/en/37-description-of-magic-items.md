@@ -8,7 +8,7 @@ Generally speaking, a Common item, the only one that might be easily found in a 
 
 Items with a bonus greater than +2, or Legendary ones, are never purchased; they must be found through an epic adventure.
 
-Spells are also magic items and as such, if the Narrator allows, can be purchased (horror! there is nothing more beautiful than finding a new spell among the treasures of an adventure).
+Spells are also magic items and as such, if the Game Master allows, can be purchased (horror! there is nothing more beautiful than finding a new spell among the treasures of an adventure).
 
 A spell costs in gold pieces level * level * level * 80
 
@@ -60,7 +60,7 @@ This ability can only be added to composite **bows**. An Adaptive bow reacts to 
 
 **Requirements:** Create Magic Items 2, Earth List
 
-This ability in case of a critical allows counting the number of 6s rolled, increasing it by 1. Only piercing or slashing **weapons** can be Keen.
+This ability on a critical allows counting the number of 6s rolled, increasing it by 1. Only piercing or slashing **weapons** can be Keen.
 
 ### Wings of Flying
 
@@ -104,7 +104,7 @@ this object looks like a flask, bottle, jug, container, decanter, or pitcher. It
 
 this **bottle** of iron has a brass stopper. You can use two actions to speak the command word of the flask, targeting a creature that you can see within 18 meters of you. If the target is native to a plane of existence other than the one you' \*\*re on, it must succeed on a Will Saving Throw with DC 21 or be trapped in the flask. If the target has already been trapped in the flask, it gets +1d6 to the Saving Throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn' \*\*t need to breathe, eat, or sleep, and doesn' \*\*t age. You can use two actions to remove the flask' \*\*s stopper and release the creature within. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give it no commands or give it a command that would result in its death, it will defend itself but take no other actions. At the end of the duration, the creature acts according to its normal behavior.
 
-The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Narrator or determined randomly.
+The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Game Master or determined randomly.
 
 | **d100** | **Contains** |
 |---|---|
@@ -243,7 +243,7 @@ The Weapon Ring' \*\*s ability recharges at dawn. The weapon ring does not count
 
 **Requirements:** Create Magic Items 2, Magic Aura
 
-A Greater Weapon **ring** can only be applied to melee weapons and has only one power. When found, it is necessary to roll on the table below to determine the type of feat that the ring confers. The weapon ring does not count against the limits for wearing rings. A weapon can' \*\*t hold more Weapon Ring then its magical bonus.
+A Greater Weapon **ring** can only be applied to melee weapons and has only one power. When found, it is necessary to roll on the table below to determine the type of feat that the ring confers. The weapon ring does not count against the limits for wearing rings. A weapon can' \*\*t hold more Weapon Ring than its magical bonus.
 
 | **1d100** | **Feat** | **1d100** | **Feat** |
 |---|---|---|---|
@@ -398,7 +398,7 @@ After the djinni departs, it cannot be summoned again before 24 hours have passe
 
 **Rarity:** Rare
 
-the wearer of this cursed **ring** is convinced that it has a power chosen by the Narrator or determined randomly.
+the wearer of this cursed **ring** is convinced that it has a power chosen by the Game Master or determined randomly.
 
 ### Ring of Weakness
 
@@ -485,7 +485,7 @@ various cost, various rarity, while wearing this **ring**, you have a bonus of +
 
 **Rarity:** Rare; **Cost:** 12000 gp
 
-while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Narrator.
+while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Game Master.
 
 | **d10** | **Damage Type** | **Gem** |
 |---|---|---|
@@ -633,13 +633,13 @@ while holding this **wand**, you can use two actions to spend 1 charge and detec
 
 **Rarity:** Very Rare; **Cost:** 18000 gp
 
-a **wand** of fire produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Heat wave, pyrotechnics, fireball, wall of fire. As long as the wand is held in hand, any 1s on the dice for fire damage it inflicts is considered as 2. The wand has 7 charges and recovers 1 at dawn.
+a **wand** of fire produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Heat wave, pyrotechnics, fireball, wall of fire. As long as the wand is held in hand, any 1s on the dice for fire damage it inflicts are considered as 2. The wand has 7 charges and recovers 1 at dawn.
 
 ### Wand of Ice
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
-a **wand** of ice produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Ray of Frost, Sleet Storm, ice storm, cone of cold. As long as the wand is held in hand, any 1s on the dice for cold damage it inflicts is considered as 2. The wand has 7 charges and recovers 1 at dawn.
+a **wand** of ice produces various spells and consumes 1 charge + level of the manifested spell. The spells that can be manifested are: Ray of Frost, Sleet Storm, ice storm, cone of cold. As long as the wand is held in hand, any 1s on the dice for cold damage it inflicts are considered as 2. The wand has 7 charges and recovers 1 at dawn.
 
 ### Wand of the War Mage
 
@@ -727,7 +727,7 @@ whoever wields this **wand** can cast Major Image (3), Silent Image (1), Mirror 
 
 **Rarity:** Very Rare; **Cost:** 25000 gp
 
-while wielding this **wand**, you can spend 1 charge with two actions and choose a target within 36 meters of you. The target can be a creature, an object, or a point in space. The Narrator decides or randomly determines what happens when you use the wand. Spells cast through the wand have a Saving Throw DC of 18. If the spell normally has a range expressed in meters, the range becomes 36 meters if it isn' \*\*t already. If an effect covers an area, you must center the spell on the target and include it. If an effect can act on as many possible subjects, the Narrator randomly determines who is affected.
+while wielding this **wand**, you can spend 1 charge with two actions and choose a target within 36 meters of you. The target can be a creature, an object, or a point in space. The Game Master decides or randomly determines what happens when you use the wand. Spells cast through the wand have a Saving Throw DC of 18. If the spell normally has a range expressed in meters, the range becomes 36 meters if it isn' \*\*t already. If an effect covers an area, you must center the spell on the target and include it. If an effect can act on as many subjects as possible, the Game Master randomly determines who is affected.
 
 This wand has 7 charges. The wand recovers 1 charge every day at dawn.
 
@@ -750,7 +750,7 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 54-58 | You cast the darkness spell. |
 | 59-62 | Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute. |
 
-| 63-65 | An object chosen by the Narrator disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
+| 63-65 | An object chosen by the Game Master disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
 | 66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
 | 70-79 | You cast the Fireball spell. |
 | 80-84 | You cast the Invisibility spell on yourself. |
@@ -872,7 +872,7 @@ The staff has 10 charges, and regains 1 expended charge daily at dawn.
 
 you can use two actions to speak the command word of the **staff** and throw it on the ground within 3 meters of you. The staff becomes a giant constrictor snake under your control and acts on its own initiative count. By using two actions to speak the command word again, you return the staff to its normal form in the space formerly occupied by the snake.
 
-On your round, you can mentally command the snake as long as it is within 18 meters of you and you aren' \*\*t incapacitated. You decide what actions the snake will take and where it will move during its next round, or you can issue it a general command, such as to attack your enemies or guard a location. If the snake is reduced to 0 Hit Points, it dies and reverts to its staff form. The staff is then destroyed. If the snake reverts to staff form before losing all its Hit Points, it regains all lost ones.
+On your round, you can mentally command the snake as long as it is within 18 meters of you and you aren' \*\*t incapacitated. You decide what actions the snake will take and where it will move during its next round, or you can issue it a general command, such as attacking your enemies or guarding a location. If the snake is reduced to 0 Hit Points, it dies and reverts to its staff form. The staff is then destroyed. If the snake reverts to staff form before losing all its Hit Points, it regains all lost ones.
 
 ### Staff of Power
 
@@ -968,7 +968,7 @@ The chime can be used ten times. After the tenth use, it cracks and becomes unus
 
 There are different types of Bags of Holding and they all share the ability to hold much more than they should given their dimensions.
 
-Bags of Holding are divided into 4 types (Type I, II, III; IV) depending on their storage capacity.
+Bags of Holding are divided into 4 types (Type I, II, III, IV) depending on their storage capacity.
 
 If the bag is overloaded, pierced, or torn, the bag breaks and is destroyed, and its contents are scattered across the Astral Plane. If the bag is turned inside out, its contents are expelled, unharmed, but the bag must be put right side out before it can be used again. Breathing creatures placed in the bag can survive for a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which they begin to suffocate.
 
@@ -1014,23 +1014,23 @@ inside this **bag** are 3d4 dry beans. The bag weighs 250 grams plus 125 grams f
 
 If you dump the bag' \*\*s contents on the ground, the beans explode in a 3-meter radius. Each creature in the area, including you, must make a Reflex Saving Throw with DC 18, taking 5d4 fire damage on a failed save, or half as much damage on a successful one.
 
-The fire ignites flammable objects in the area that aren' \*\*t being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Narrator chooses the effect or determines it randomly.
+The fire ignites flammable objects in the area that aren' \*\*t being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Game Master chooses the effect or determines it randomly.
 
 | **d100** | **Effect** |
 |---|---|
 | 01 | 5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour. |
-| 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Narrator' \*\*s choice) 9 meters into the air for 1d12 rounds. |
+| 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Game Master' \*\*s choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There' \*\*s a 50\% chance that the treant is evil and attacks you. |
 | 21-30 | An animated stone statue with your features rises from the ground. It will begin to verbally threaten you. If you leave and other people come to the spot, the statue will describe you as the most dangerous criminal and urge them to find and attack you. If you are on the same plane of existence as the statue, it will always know where you are. After 24 hours the statue will become inanimate. |
 | 31-40 | A campfire with blue flames springs up from the ground and burns for 24 hours (or until it is extinguished). |
 | 41-50 | 1d6 + 6 Shrieking Mushroom sprout. |
-| 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Narrator. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
+| 51-60 | 1d4 + 8 pink toads appear. Whenever a toad is touched, it transforms into a monster of Large size or smaller chosen by the Game Master. The monster remains for 1 minute and then disappears in a puff of pink smoke. |
 | 61-70 | A bulette bursts out of the ground and attacks. |
 | 71-80 | A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. |
-| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly in case of a tie; if it fails, it takes 10d6 force damage. |
+| 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly if there is a tie; if it fails, it takes 10d6 force damage. |
 
-| 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Narrator' \*\*s choice. |
-| 100 | A giant beanstalk grows on the spot, rising to a height of the Narrator' \*\*s choice. The top leads wherever the Narrator wishes, be it to a cloud giant' \*\*s castle or another plane of existence. |
+| 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Game Master' \*\*s choice. |
+| 100 | A giant beanstalk grows on the spot, rising to a height of the Game Master' \*\*s choice. The top leads wherever the Game Master wishes, be it to a cloud giant' \*\*s castle or another plane of existence. |
 
 ### Bag of Negation
 
@@ -1050,7 +1050,7 @@ Another creature can use two actions to reach into the bag and pull out the crea
 
 **Rarity:** Very Rare; **Cost:** 15000 gp
 
-this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Narrator randomly determines what happens.
+this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Game Master randomly determines what happens.
 
 | **3d6** | **Effect** |
 |---|---|
@@ -1068,7 +1068,7 @@ this painted brass **bottle** weighs 500 grams. When you use two actions to remo
 
 **Rarity:** Uncommon; **Cost:** 1200 gp
 
-smoke continually pours from the mouth of this brass **bottle**, which is stoppered by a lead plug. The bottle weighs 500 grams. When you use two actions to remove the plug, a cloud of thick smoke spreads out in a 18-meter radius from the bottle. The area of the cloud is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 3 meters until it reaches the maximum radius of 36 meters.
+smoke continually pours from the mouth of this brass **bottle**, which is stoppered by a lead plug. The bottle weighs 500 grams. When you use two actions to remove the plug, a cloud of thick smoke spreads out in an 18-meter radius from the bottle. The area of the cloud is heavily obscured. Each minute the bottle remains open and within the cloud, the radius increases by 3 meters until it reaches the maximum radius of 36 meters.
 
 The cloud persists as long as the bottle remains open. Closing the bottle requires you to speak its command word with two actions. Once the bottle is closed, the cloud disperses after 10 minutes. A moderate wind (15 to 30 km/h) can disperse the smoke in 1 minute, and a strong wind (more than 30 km/h) can disperse it in 1 round.
 
@@ -1108,7 +1108,7 @@ The brazier weighs 2.5 kilograms, encumbrance 3.
 
 ### Brazier of Cursed Sleep
 
-this **brazier** has the appearance of, and functions as, a brazier of commanding fire elementals. However, when activated, the smoke thickens within a 3 m radius around the brazier, inducing a cursed sleep on anyone in the area, unless they succeed on a Will Saving Throw DC 21. A fire elemental appears normally, but it is hostile and attacks all creatures present. Creatures subject to the cursed sleep sleep indefinitely until they are killed, unless Remove Curse is used.
+this **brazier** has the appearance of, and functions as, a brazier of commanding fire elementals. However, when activated, the smoke thickens within a 3 m radius around the brazier, inducing a cursed sleep on anyone in the area, unless they succeed on a Will Saving Throw DC 21. A fire elemental appears normally, but it is hostile and attacks all creatures present. Creatures subject to the cursed sleep slumber indefinitely until they are killed, unless Remove Curse is used.
 
 ### Brilliant
 
@@ -1150,7 +1150,7 @@ this ornate crystal **decanter** weighs 2 pounds and appears to contain swirling
 
 this long, slender **candle** is dedicated to a Patron and shares its Traits. The candle' \*\*s Traits can be identified through a 1-hour ritual of placing it alongside the candle.
 
-The Narrator chooses the Patron and its associated Traits or determines it randomly.
+The Game Master chooses the Patron and its associated Traits or determines it randomly.
 
 The magic of the candle activates when the candle is lit with two actions. After burning for 4 hours, the candle is destroyed. You can decide to extinguish it early to reuse it later. Deduct the time remaining before the candle is extinguished in 1-minute increments to determine how long the candle has burned.
 
@@ -1232,7 +1232,7 @@ this milky-white, viscous **substance** can form a permanent adhesive bond betwe
 
 this **necklace** has 1d4 + 2 magic beads made of aquamarine, black pearl, or topaz. It also has many nonmagical beads made of stones such as amber, bloodstone, citrine, coral, jade, pearl, or quartz. If a magic bead is removed from the necklace, that bead loses its magic.
 
-There are six types of magic beads. The Narrator decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level in case of a Saving Throw. Once a magic bead' \*\*s spell is cast, that bead can' \*\*t be used again until the next dawn.
+There are six types of magic beads. The Game Master decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level if a Saving Throw is required. Once a magic bead' \*\*s spell is cast, that bead can' \*\*t be used again until the next dawn.
 
 | **3d6** | **Bead of...** | **Spell** |
 |---|---|---|
@@ -1368,7 +1368,7 @@ this cubic **pendant** is activated and deactivated by pressing one face (Immedi
 
 **Rarity:** Uncommon; **Cost:** 4500 gp
 
-this brass **cylinder** weighs 10 pounds and is covered with arcane runes. As two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
+this brass **cylinder** weighs 10 pounds and is covered with arcane runes. With two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
 
 ### Dancing
 
@@ -1840,7 +1840,7 @@ while wearing this **cloak**, you gain a bonus of +1 (uncommon, 3500 gp), +2 (ra
 
 **Rarity:** Very Rare; **Cost:** 10000 gp
 
-this **tome** contains information and spells necessary to make a particular type of golem. The Narrator chooses the type of golem that can be constructed or determines it randomly. To decipher and use the manual, you must have at least Magic Proficiency 10. A creature that can' \*\*t use the manual of golems and attempts to read it takes 6d6 force damage.
+this **tome** contains information and spells necessary to make a particular type of golem. The Game Master chooses the type of golem that can be constructed or determines it randomly. To decipher and use the manual, you must have at least Magic Proficiency 10. A creature that can' \*\*t use the manual of golems and attempts to read it takes 6d6 force damage.
 
 To create a golem, you must spend the time indicated above, working without interruption with the manual at hand and resting no more than 8 hours per day. You must also pay the specified cost to purchase the necessary materials.
 
@@ -1895,7 +1895,7 @@ When you score a critical hit with this weapon, the target takes an additional c
 
 **Rarity:** Uncommon; **Cost:** 6500 gp
 
-this **box** contains a set of parchment cards. A full deck contains 34 cards, each depicting a different creature. The creatures depicted are left to the Narrator' \*\*s discretion. Usually decks found around are missing 3d6-3 cards.
+this **box** contains a set of parchment cards. A full deck contains 34 cards, each depicting a different creature. The creatures depicted are left to the Game Master' \*\*s discretion. Usually decks found around are missing 3d6-3 cards.
 
 The deck' \*\*s magic works only if the cards are drawn at random (you can use a normal deck of playing cards modified to simulate the deck of illusions). You can use two actions to draw a card from the deck and throw it to a point on the ground within 9 meters of you.
 
@@ -1982,17 +1982,17 @@ You must draw each card within 1 hour of the previous draw. If you don' \*\*t dr
 - **Gem**: Twenty-five gems worth 2,000 gp each or fifty gems worth 1,000 gp each appear at the character' \*\*s feet.
 - **Jester**: The character gains enough Experience Points to gain a level or can draw another card beyond the declared number of cards to draw.
 - **Idiot**: The character' \*\*s Intelligence score is permanently reduced by 1d2 + 1 (to a minimum score of -4). The character can draw an additional card beyond the declared number of cards to draw.
-- **Thief**: An NPC chosen by the Narrator becomes hostile toward the character. The identity of the new enemy is unknown to the character until the NPC or someone else reveals it. Only a wish spell or divine intervention can end the NPC' \*\*s hostility.
+- **Thief**: An NPC chosen by the Game Master becomes hostile toward the character. The identity of the new enemy is unknown to the character until the NPC or someone else reveals it. Only a wish spell or divine intervention can end the NPC' \*\*s hostility.
 - **Moon**: The character gains the ability to cast the wish spell 1d3 times.
 - **Fool**: The character loses a level, discards this card, and draws another card from the deck; drawing both cards counts as one draw from the declared number of cards to draw.
 - **Prison**: The character vanishes and is trapped in a state of suspended animation in an extradimensional sphere. Everything the character was wearing and carrying remains behind in the space they occupied when they disappeared. The character remains imprisoned until found and removed from the sphere. The character can' \*\*t be located by any divination magic, but a wish spell can reveal the location of the prison. The character draws no more cards.
 - **Ruin**: Every form of wealth carried or owned by the character, other than magic items, is lost. Portable property vanishes. Businesses, buildings, and lands owned are lost in the way that causes the minimum alteration of reality. Any documents that might prove ownership of the property lost due to the card vanish as well.
-- **Sun**: You gain enough Experience Points to gain a level and a wondrous item, determined by the Narrator, appears in your hands.
+- **Sun**: You gain enough Experience Points to gain a level and a wondrous item, determined by the Game Master, appears in your hands.
 - **Star**: One of the character' \*\*s ability scores increases by 2. The new score can exceed 5, but not 7.
-- **Skull**: The character summons a manifestation of death: a spectral humanoid skeleton wrapped in a tattered black robe and armed with a spectral scythe. The skeleton appears in a space chosen by the Narrator within 3 meters of the character and attacks them, warning others not to interfere with the combat. The manifestation fights until it kills the character or drops to 0 hit points, at which point it disappears. If someone tries to help the character, they summon their own manifestation of death. A creature slain by a manifestation of death can' \*\*t be brought back to life.
+- **Skull**: The character summons a manifestation of death: a spectral humanoid skeleton wrapped in a tattered black robe and armed with a spectral scythe. The skeleton appears in a space chosen by the Game Master within 3 meters of the character and attacks them, warning others not to interfere with the combat. The manifestation fights until it kills the character or drops to 0 hit points, at which point it disappears. If someone tries to help the character, they summon their own manifestation of death. A creature slain by a manifestation of death can' \*\*t be brought back to life.
 - **Throne**: The character gains proficiency in the Deceive skill and their bonus to Deceive checks doubles. Additionally, the character becomes the rightful owner of a small castle located somewhere in the world. However, the castle is infested with monsters, and the character must clear them out before claiming it as their own.
-- **Vizier**: At any time within one year of drawing this card, the character can ask a question while meditating and mentally receive a truthful answer to that question. Besides information, the answer helps the character understand how to solve.
-- **Void**: This black card is an ill omen. The character' \*\*s soul is torn from their body and confined in an object in a place chosen by the Narrator. Such place is guarded by one or more powerful guardians. While the character' \*\*s soul is trapped this way, their body is incapacitated. A wish spell can' \*\*t restore the character' \*\*s soul to their body, but can reveal the location of the object that holds it. The character draws no more cards.
+- **Vizier**: At any time within one year of drawing this card, the character can ask a question while meditating and mentally receive a truthful answer to that question. Besides information, the answer helps the character understand how to solve it.
+- **Void**: This black card is an ill omen. The character' \*\*s soul is torn from their body and confined in an object in a place chosen by the Game Master. Such a place is guarded by one or more powerful guardians. While the character' \*\*s soul is trapped this way, their body is incapacitated. A wish spell can' \*\*t restore the character' \*\*s soul to their body, but can reveal the location of the object that holds it. The character draws no more cards.
 
 *Manifestation of Death*
 
@@ -2320,7 +2320,7 @@ these two **stones**, always sold as a pair, allow communication at a distance b
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
-you must be proficient with wind instruments to use these **pipes**. While you are using the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them. While playing the pipes, you can use two actions to spend 1 to 3 charges, calling forth one swarm of rats per charge spent, provided that there are enough rats within 750 meters of you to be called in this manner (at the Narrator' \*\*s discretion). If there aren' \*\*t enough rats to form a swarm, the charge is wasted. The summoned swarms move toward the music by the shortest possible route, but are not otherwise under your control. The pipes have 3 charges and regain 1 charge daily at dawn.
+you must be proficient with wind instruments to use these **pipes**. While you are using the pipes, ordinary rats and giant rats are indifferent toward you and will not attack you unless you threaten or harm them. While playing the pipes, you can use two actions to spend 1 to 3 charges, calling forth one swarm of rats per charge spent, provided that there are enough rats within 750 meters of you to be called in this manner (at the Game Master' \*\*s discretion). If there aren' \*\*t enough rats to form a swarm, the charge is wasted. The summoned swarms move toward the music by the shortest possible route, but are not otherwise under your control. The pipes have 3 charges and regain 1 charge daily at dawn.
 
 Whenever a swarm of rats that is not under another creature' \*\*s control comes within 9 meters of you while you are playing the pipes, you can make an Entertain check contested by the swarm' \*\*s Will. If you lose the contest, the swarm behaves as it normally would and can' \*\*t be swayed by the pipes' \*\* music for the next 24 hours. If you win the contest, the swarm is charmed by the pipes' \*\* music and becomes friendly to you and your companions for as long as you continue to play the pipes as two actions each round. A friendly swarm obeys your commands. If you issue no commands to a friendly swarm, it defends itself but otherwise takes no actions.
 
@@ -2350,7 +2350,7 @@ If you paint a form of energy such as fire or lightning, the energy appears but 
 
 **Rarity:** variable; **Cost:** 50 gp
 
-this tiny object resembles a **feather**. Different types of feather tokens exist, each with a single-use effect. The Narrator chooses the kind of token.
+this tiny object resembles a **feather**. Different types of feather tokens exist, each with a single-use effect. The Game Master chooses the kind of token.
 
 *Tree*. You must be outdoors to use this token. You can use two actions to touch it to an unoccupied space on the ground. The token disappears, and in its place a nonmagical oak tree springs up. The tree is 18 meters tall and has a trunk 1 meter in diameter. The tree' \*\*s branches at the top spread out in a 6-meter radius. 50 gp
 
@@ -2384,7 +2384,7 @@ found in small pouches, this **powder** looks like very fine sand. A pouch conta
 
 **Rarity:** Uncommon; **Cost:** 480 gp
 
-found in small containers, this **powder** looks like fine sand. It appears similar to dust of disappearance, and the identify spell reveals it as such. There' \*\*s enough for one use. When you use two actions to throw a handful of the dust into the air, you and all creatures that need to breathe and are within 9 meters of you must succeed on a Fortitude Saving Throw with DC 17 or stop breathing, and begin to sneeze uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, the creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. The lesser restoration spell can also end the effect on a creature.
+found in small containers, this **powder** looks like fine sand. It appears similar to dust of disappearance, and the identify spell reveals it as such. There' \*\*s enough for one use. When you use two actions to throw a handful of the dust into the air, you and all creatures that need to breathe and are within 9 meters of you must succeed on a Fortitude Saving Throw with DC 17 or stop breathing and begin to sneeze uncontrollably. A creature affected in this way is incapacitated and suffocating. As long as it is conscious, the creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. The lesser restoration spell can also end the effect on a creature.
 
 ### Dust of Appearance
 
@@ -2396,7 +2396,7 @@ this fine powder resembles a very light metallic **dust**. A handful of this sub
 
 **Rarity:** Legendary; **Cost:** 40000 gp
 
-this **cube** of 7.5 centimeters on a side radiates palpable magical energy. The six faces of the cube are each linked to a different plane of existence, one of which is the Material Plane. The other faces are linked to planes determined by the Narrator.
+this **cube** of 7.5 centimeters on a side radiates palpable magical energy. The six faces of the cube are each linked to a different plane of existence, one of which is the Material Plane. The other faces are linked to planes determined by the Game Master.
 
 You can use two actions to press one face of the cube to cast the gate spell with it, opening a portal to the plane linked to that face. Alternatively, if you use two actions to press one face twice, you can plane shift (DC 17 Saving Throw) with the cube and transport its targets to the plane linked to that face. The cube has 3 charges. Each use of the cube expends 1 charge. The cube regains 1 expended charge daily at dawn.
 
@@ -2458,7 +2458,7 @@ when you drink this **potion**, for 1 hour you gain a climbing speed equal to yo
 
 **Rarity:** Rare; **Cost:** 1500 gp
 
-anyone who drinks this **potion** is as if they had cast Dominate Beast
+anyone who drinks this **potion** acts as if they had cast Dominate Beast
 
 ### Potion of Dragon Control
 
@@ -2541,7 +2541,7 @@ when you drink this **potion**, you gain the effect of the detect thoughts spell
 
 **Rarity:** Uncommon; **Cost:** 300 gp
 
-when you drink this **potion**, for 1 hour you gain resistance to one type of damage. The Narrator chooses the type of damage or determines it randomly (Acid, Cold, Fire, Lightning, Poison, Sound, Light, Void)
+when you drink this **potion**, for 1 hour you gain resistance to one type of damage. The Game Master chooses the type of damage or determines it randomly (Acid, Cold, Fire, Lightning, Poison, Sound, Light, Void)
 
 ### Potion of Water Breathing
 
@@ -2583,7 +2583,7 @@ when you drink this **potion**, for 10 minutes you gain a flying speed equal to 
 
 **Rarity:** Legendary; **Cost:** 75000 gp
 
-this elegant black **cloth**, soft as silk, is folded to the size of a handkerchief. It unfolds into a circular sheet 1.8 meters in diameter. You can use two actions to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the Narrator decides where it leads. You can use two actions to close an open portal by grabbing the edges of the cloth and folding it up. Once a well of many worlds has opened a portal, it can' \*\*t do so again for 1d8 hours.
+this elegant black **cloth**, soft as silk, is folded to the size of a handkerchief. It unfolds into a circular sheet 1.8 meters in diameter. You can use two actions to unfold and place the well of many worlds on a solid surface, whereupon it creates a two-way portal to another world or plane of existence. Each time the item opens a portal, the Game Master decides where it leads. You can use two actions to close an open portal by grabbing the edges of the cloth and folding it up. Once a well of many worlds has opened a portal, it can' \*\*t do so again for 1d8 hours.
 
 ### Poison Resistance
 
@@ -2687,7 +2687,7 @@ this object is indistinguishable in appearance from a normal **broom**. In all t
 
 this wooden **broom**, weighing about 1.5 kilograms (encumbrance 2), functions as a normal broom until you sit on it and speak the command word. It then begins to hover beneath you and can be ridden in the air. It has a flying speed of 15 meters. It can carry up to 200 kilograms, but its flying speed becomes 9 meters if it carries more than 100 kilograms. When you land, the broom stops hovering.
 
-By speaking the command word, naming the location and if you are familiar with it, you can send the broom alone to a location up to 1.5 kilometers away from you. The broom will return to you when you speak another command word, provided it is still within 1.5 kilometers of you.
+By speaking the command word and naming the location, if you are familiar with it, you can send the broom alone to a location up to 1.5 kilometers away from you. The broom will return to you when you speak another command word, provided it is still within 1.5 kilometers of you.
 
 ### Animated Shield
 
@@ -2749,7 +2749,7 @@ this object appears to be a normal **mirror** one and a half meters tall and 60 
 
 - See other places as with a crystal ball, with the ability to see into other planes, provided they are sufficiently familiar to the observer.
 
-- Create a portal to visit other places. The owner must first visualize the location, then physically enter the mirror, alone or with desired companions. The mirror will create an invisible portal on the other side, through which the owner, or anyone who can detect it, can pass through.
+- Create a portal to visit other places. The owner must first visualize the location, then physically enter the mirror, alone or with desired companions. The mirror will create an invisible portal on the other side, through which the owner, or anyone who can detect it, can pass.
 
 - Once a week, the mirror can accurately answer a question about a person reflected on its surface (an effect similar to the legend lore spell).
 
@@ -2803,7 +2803,7 @@ while you wear these **boots**, your steps make no sound, regardless of the surf
 
 **Cost:** 10000 gp
 
-while you wear these **boots** you have resistance to cold damage, ignore difficult terrain created by snow or ice. You can tolerate temperatures as low as -45°C without requiring additional protection. If you wear heavy clothing, you can tolerate temperatures as low as -75°C.
+while you wear these **boots** you have resistance to cold damage and ignore difficult terrain created by snow or ice. You can tolerate temperatures as low as -45°C without requiring additional protection. If you wear heavy clothing, you can tolerate temperatures as low as -75°C.
 
 ### Boots of Striding and Springing
 
@@ -2871,7 +2871,7 @@ these two paired **drums** resemble the drums of panic; when both are played, al
 
 you can speak the **carpet' \*\*s** command word as two actions to make the carpet hover and fly. It moves according to your spoken directions, as long as you are within 9 meters of it.
 
-There are four sizes of flying carpet. The Narrator chooses the carpet' \*\*s size or determines it randomly.
+There are four sizes of flying carpet. The Game Master chooses the carpet' \*\*s size or determines it randomly.
 
 	
 
@@ -2977,7 +2977,7 @@ while wearing this **robe** with patches of various shapes and colors, you can u
 
 3-meter pole, Hemp rope (15 meters, coiled), Bull' \*\*s-eye lantern (filled and lit), Dagger, Sack, Steel mirror.
 
-In addition, the robe has 4d4 other patches. The Narrator chooses the patches or determines them randomly, selecting from properties totally different from those already present.
+In addition, the robe has 4d4 other patches. The Game Master chooses the patches or determines them randomly, selecting from properties totally different from those already present.
 
 Roll a d100 on the following table to discover the properties of the other 4d4 patches on the robe of useful items.
 
@@ -3084,7 +3084,7 @@ Placing a Portable Hole inside the extradimensional space created by a bag of ho
 
 **Requirements:** Create Magic Items 2, Speed
 
-When making multiple attacks (2 Actions), the wielder of a Speed **weapon** can make an additional attack with the weapon without using Action. The additional attack does not have the penalties for multiple attacks. This ability does not stack with similar spells or effects.
+When making multiple attacks (2 Actions), the wielder of a Speed **weapon** can make an additional attack with the weapon without using an Action. The additional attack does not have the penalties for multiple attacks. This ability does not stack with similar spells or effects.
 
 ### Arcane Fan
 
@@ -3131,13 +3131,13 @@ legendary, this **rod** has a flanged head, and functions as a magic mace that g
 
 - If you push *button 6*, the rod assumes or remains in its normal form and indicates magnetic north (nothing happens if this function is used in areas without a magnetic north). The rod also gives you an approximate knowledge of your depth underground and your height above sea level.
 
-*Drain Life*. When you hit a creature with a melee attack using the rod, you can force the target to make a Fortitude Saving Throw with DC 21. On a failed save, the target takes an additional 4d6 Void damage and they are removed from its hit point maximum, and you regain a number of hit points equal to half the Void damage dealt. Once used, this property can' \*\*t be used again until the next dawn.
+*Drain Life*. When you hit a creature with a melee attack using the rod, you can force the target to make a Fortitude Saving Throw with DC 21. On a failed save, the target takes an additional 4d6 Void damage and it is removed from its hit point maximum, and you regain a number of hit points equal to half the Void damage dealt. Once used, this property can' \*\*t be used again until the next dawn.
 
 **Paralyze**. When you hit a creature with a melee attack using the rod, you can force the target to make a Fortitude Saving Throw with DC 21. On a failed save, the target is paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. Once used, this property can' \*\*t be used again until the next dawn.
 
 *Terrify*. While holding the rod, you can use two actions to force each creature you can see within 9 meters of you to make a Will Saving Throw with DC 21. On a failed save, a target is frightened of you for 1 minute. A frightened target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. Once used, this property can' \*\*t be used again until the next dawn.
 
-This rod cannot be recharged. When the charges run out, it remains a
+This rod cannot be recharged. When the charges run out, it remains a nonmagical rod.
 
 ### Rod of Alertness
 
@@ -3149,7 +3149,7 @@ this **rod** with a flanged head has the following properties.
 
 *Spells*. While holding this rod, you can use two actions to cast one of the following spells from it: Detect Magic, Detect Poison and Disease, or See Invisibility.
 
-*Protective Aura*. With two actions, you can plant the end of the rod in the ground. At that point, the rod' \*\*s head emits bright light in a 18-meter radius and dim light for 36 meters. While in this bright light, you and any friendly creature gain a +1 bonus to Defense and Saving Throws and can sense the location of any invisible hostile creature that is also in the bright light. The rod' \*\*s head stops glowing and the effect ends after 10 minutes, or when a creature uses two actions to pull the rod from the ground. This property can' \*\*t be used again until the next dawn.
+*Protective Aura*. With two actions, you can plant the end of the rod in the ground. At that point, the rod' \*\*s head emits bright light in an 18-meter radius and dim light for 36 meters. While in this bright light, you and any friendly creature gain a +1 bonus to Defense and Saving Throws and can sense the location of any invisible hostile creature that is also in the bright light. The rod' \*\*s head stops glowing and the effect ends after 10 minutes, or when a creature uses two actions to pull the rod from the ground. This property can' \*\*t be used again until the next dawn.
 
 ### Rod of Security
 
@@ -3177,7 +3177,7 @@ this flat iron **rod** has a button on one end. You can use two actions to press
 
 **Rarity:** Rare; **Cost:** 5000 gp
 
-this **rod** is a magic weapon that ends in three leather tentacles. While holding the rod, you can use two actions to direct each tentacle to attack a visible creature within 3 meters of you. Each tentacle makes a melee Attack Roll with a +9 bonus. On a hit, the tentacle deals 1d6 bludgeoning damage. If you hit a target with all three tentacles, it must make a Fortitude Saving Throw with DC 15. On a failed save, the creature' \*\*s speed is halved, it has -1d6 to Reflex Saving Throws, and for 1 minute it cannot use its reactions. Moreover, during each of its turns, it can take either two actions or two actions but not both. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
+this **rod** is a magic weapon that ends in three leather tentacles. While holding the rod, you can use two actions to direct each tentacle to attack a visible creature within 3 meters of you. Each tentacle makes a melee Attack Roll with a +9 bonus. On a hit, the tentacle deals 1d6 bludgeoning damage. If you hit a target with all three tentacles, it must make a Fortitude Saving Throw with DC 15. On a failed save, the creature' \*\*s speed is halved, it has -1d6 to Reflex Saving Throws, and for 1 minute it cannot use its reactions. Moreover, during each of its turns, it can take either one action or two actions but not both. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 ### Vorpal
 
@@ -3187,7 +3187,7 @@ this **rod** is a magic weapon that ends in three leather tentacles. While holdi
 
 Although being a +1 magic **weapon**, it is considered a +5 magic weapon for evaluating immunities and bonuses to Attack Roll and damage. In addition, the weapon ignores resistance to slashing damage. When you attack a creature that has at least one head with this weapon and get at least 2 Critical Hits, you cut off one of the creature' \*\*s heads. The creature dies if it can' \*\*t survive without the lost head.
 
-A creature is immune to this effect if it is immune to slashing damage, doesn' \*\*t have or need a head, or the Narrator decides that the creature is too big for its head to be cut off with this weapon.
+A creature is immune to this effect if it is immune to slashing damage, doesn' \*\*t have or need a head, or the Game Master decides that the creature is too big for its head to be cut off with this weapon.
 
 Such a creature instead takes 6d8 extra slashing damage from the hit.
 
@@ -3197,7 +3197,7 @@ Such a creature instead takes 6d8 extra slashing damage from the hit.
 
 **Requirements:** Create Magic Items, Bestow Curse; **Rarity:** Rare
 
-While wearing this **armor**, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The Narrator chooses the type. The armor is cursed, while you are cursed, you have vulnerability to two of the three damage types associated with the armor (that isn' \*\*t the one to which you have resistance).
+While wearing this **armor**, you have resistance to one of the following damage types: bludgeoning, piercing, or slashing. The Game Master chooses the type. The armor is cursed; while you are cursed, you have vulnerability to two of the three damage types associated with the armor (that isn' \*\*t the one to which you have resistance).
 
 ### Handy Haversack
 
@@ -3208,7 +3208,7 @@ The two side pouches function as two Type I Bags of Holding, the large central p
 
 Placing an item inside the haversack follows the normal rules for interacting with objects. Retrieving an item from the haversack requires the use of two actions. When you search for an item in the haversack, it is always magically on top of the pile of items it contains.
 
-The haversack has a few limitations. If overloaded, or if a sharp object cuts it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always reappears somewhere in the multiverse. If the haversack is turned inside out, its contents are expelled, unharmed, and the haversack must be put right before it can be used again. If a breathing creature is placed inside the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
+The haversack has a few limitations. If overloaded, or if a sharp object cuts it or tears it, the haversack ruptures and is destroyed. If the haversack is destroyed, its contents are lost forever, although an artifact always reappears somewhere in the multiverse. If the haversack is turned inside out, its contents are expelled, unharmed, and the haversack must be put right side out before it can be used again. If a breathing creature is placed inside the haversack, the creature can survive for up to 10 minutes, after which time it begins to suffocate.
 
 Placing the haversack inside an extradimensional space created by a bag of holding, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 3 meters of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way and cannot be reopened.
 

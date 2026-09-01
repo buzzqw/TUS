@@ -18,11 +18,11 @@ Manifestate come due lingue di una fiamma unica Ljust e Calicante sono la fonte 
 
 Ljust l'energia positiva, il calore, la luce, la vita e sintropia; Calicante, l'energia negativa, gelido odio, distruzione, morte ed entropia.
 
-**Ljust** è la rappresentazione di ciò che luce ed vita portano sempre con se. Rappresenta la purezza del sentimento d'amore, la protezione della vita, il rispetto per l'altro, la curiosità per il nuovo, la voglia di migliorarsi sempre, la forza di combattere con coraggio e valore per il bene comune. È la spinta vitale al cambiamento, il caos che evolve ma non distrugge.
+**Ljust** è la rappresentazione di ciò che luce e vita portano sempre con sé. Rappresenta la purezza del sentimento d'amore, la protezione della vita, il rispetto per l'altro, la curiosità per il nuovo, la voglia di migliorarsi sempre, la forza di combattere con coraggio e valore per il bene comune. È la spinta vitale al cambiamento, il caos che evolve ma non distrugge.
 
 **Calicante** è la rappresentazione del buio, dell'odio, della rabbia e violenza. Calicante è vendetta e fredda distruzione, non c'è interesse in alcuna forma di vita piuttosto le usa, le sfrutta e solo in certi casi ne subisce la presenza. Ama sadicamente la sofferenza. È l'entropia che annienta e annichilisce e trova piacere nel farlo.
 
-**Atmos** è il testimone, colui che segna il passaggio del tempo e trascrive ogni accadimento sulla Terra e trai Patroni della Genesi. Una entità nata dalla creazione perché prevenisse la distruzione assoluta. Vigila e trascrive quanto fanno i Patroni della Genesi, le divinità che hanno generato il creato.
+**Atmos** è il testimone, colui che segna il passaggio del tempo e trascrive ogni accadimento sulla Terra e tra i Patroni della Genesi. Una entità nata dalla creazione perché prevenisse la distruzione assoluta. Vigila e trascrive quanto fanno i Patroni della Genesi, le divinità che hanno generato il creato.
 
 Un quarto essere fu presente, il cui nome non ci è mai giunto, ma che conosciamo come *Ominiessenza*, colui che era il primo nato dai Patroni della Genesi.
 
@@ -31,7 +31,7 @@ Catturato, fatto a pezzi, collegato a macchine per poter attingere alla sua eter
 
 Quando il primo reattore della Frenten venne collegato si aprì una *frattura* e fu così che i Patroni della Genesi scoprirono cosa era accaduto e l'ira di Calicante fu immensa e totale.
 
-La sua volontà e furia fu talmente soverchiante che Ljust non poté intervenire immediatamente, non poté impedire la morte indiscriminata di innocenti e la quasi distruzione di un interno mondo.
+La sua volontà e furia fu talmente soverchiante che Ljust non poté intervenire immediatamente, non poté impedire la morte indiscriminata di innocenti e la quasi distruzione di un intero mondo.
 
 Cosa successe in quell'anno lo possiamo ancora vedere nelle macerie e distruzione rimaste sulla Terra.
 
@@ -41,9 +41,9 @@ La morte del primo Patrono aveva creato numerosi squarci, fratture, nella realt�
 
 Ljust e Calicante decisero di fare di questo nostro mondo, la Terra, il loro spazio di gioco e qui decisero di fare divertire la loro futura progenie, i Patroni.
 
-Decisero di comune accordo di generare un Patrono che sovrintendesse a questi Portali. Crearono un Patrono che fosse capace di percepire, aprire e bloccarli Così venne creato **Lynx**, il Guardiano dei Portali.
+Decisero di comune accordo di generare un Patrono che sovrintendesse a questi Portali. Crearono un Patrono che fosse capace di percepire, aprire e bloccarli. Così venne creato **Lynx**, il Guardiano dei Portali.
 
-Lynx sovrintende al vuoto cosmico, all'accesso ai Piani, ai portali che con l'avvicendarsi di caos e ordine, di bene e male, di luce e tenebra stanno sempre più creando fratture al confine esistente la la Terra e l'Oltre.
+Lynx sovrintende al vuoto cosmico, all'accesso ai Piani, ai portali che con l'avvicendarsi di caos e ordine, di bene e male, di luce e tenebra stanno sempre più creando fratture al confine esistente tra la Terra e l'Oltre.
 
 Lynx li percepisce, li sente, sa dove si stanno generando o spegnendo, con il passare del tempo infatti alcuni di questi Portali sono divenuti stabili e definitivi, altri invece continuano a generarsi casualmente e sempre in modo totalmente ignoto rimangono attivi o si esauriscono. Viaggiando di continuo nel non luogo Lynx chiude i portali più grandi ma per uno che ne chiude un altro si apre. Lynx ha privato le Liste di Magia da molti degli incantesimi che agiscono sui piani, per proteggere la Terra ed i futuri Patroni dalle minacce esterne.
 
@@ -53,7 +53,7 @@ Atmos, preoccupato per l'equilibrio sulla Terra, incanalò le energie primordial
 
 Il primo creato da Atmos, con l'aiuto di Ljust, e l'intervento di Calicante, fu **Gradh**, Patrono dell'Umanità (e di tutte le razze senzienti), colui che avrebbe difeso la Terra dalle creature esterne e dagli altri Patroni. Gradh racchiude in sé il dualismo dei due Patroni della Genesi, l'istinto innato alla protezione, alla difesa ed alla cura propri di Ljust e l'istinto di vendetta, violenza e furia di Calicante.
 
-Si getta con coraggio nelle battaglie, attacca il nemico senza paura, protegge il più debole, difende la vita ma non teme di percorrere la strada della vendetta più distruttiva verso chi sfrutta e distrugge vite senza motivo. Gradh ama calarsi fra la gente e vivere con loro, come loro. Non si sente totalmente a suo agio nel pantheon con gli altri Patroni ne fra la gente comune, lui è Umano tra i Patroni e Patrono tra gli Umani. Passionale e gentile è il Patrono che maggiormente ha a cuore le sorti del nostro pianeta e delle sue creature. Gradh è il Patrono che ci protegge dai Patroni, forse l'unico vero figlio della Terra e dei Patroni della Genesi.
+Si getta con coraggio nelle battaglie, attacca il nemico senza paura, protegge il più debole, difende la vita ma non teme di percorrere la strada della vendetta più distruttiva verso chi sfrutta e distrugge vite senza motivo. Gradh ama calarsi fra la gente e vivere con loro, come loro. Non si sente totalmente a suo agio nel pantheon con gli altri Patroni né fra la gente comune, lui è Umano tra i Patroni e Patrono tra gli Umani. Passionale e gentile è il Patrono che maggiormente ha a cuore le sorti del nostro pianeta e delle sue creature. Gradh è il Patrono che ci protegge dai Patroni, forse l'unico vero figlio della Terra e dei Patroni della Genesi.
 
 Le lingue di energie divine erano troppo intense, caotiche e pure perché Atmos potesse governarle per plasmare da solo i Patroni. Usando il grezzo potere dei Patroni della Genesi creò altri Patroni, la seconda venuta, ognuno influenzato in maniera diversa da Calicante o Ljust. Questi Patroni risultarono meno perfetti e divini rispetto alle sue intenzioni, più imperfetti ed *umani* in quanto originati dalle emozioni, incontrollabili e pure dei Patroni della Genesi. Questi nuovi Patroni plasmano le volontà, fondano regni, comandano nell'ombra le pedine che osano chiedere i loro favori.
 
@@ -83,9 +83,9 @@ Conan: Io prego Crom, ma solo raramente... lui non ascolta. (Conan il Barbaro, f
 
 Infatti, come il corpo senza lo spirito è morto, così anche la fede senza le opere è morta. (Giacomo Il Giusto 2, 26. NdA Riferendosi ai punteggi dei Tratti collegati al Patrono...)
 
-Le creature tutte, anche chi non usa la magia possono sentire l'influenza di questi Poteri, di questi Patroni.
+Le creature tutte, anche chi non usa la magia può sentire l'influenza di questi Poteri, di questi Patroni.
 
-Ogni personaggio per il suo modo di essere (giocare) e comportarsi ha almeno un Tratto in comune con un Patrono e nel corso delle avventure e sua evoluzione matura e potenzia queste convinzioni potrà sentire maggiormente l'influsso ed effetti di un Patrono.
+Ogni personaggio per il suo modo di essere (giocare) e comportarsi ha almeno un Tratto in comune con un Patrono e nel corso delle avventure e della sua evoluzione matura e potenzia queste convinzioni potrà sentire maggiormente l'influsso e gli effetti di un Patrono.
 
 Non è necessario che abbia giurato fedeltà ad un Patrono o che ne sia Seguace o Devoto, sentirà comunque l'influenza del Patrono e riceverà dei doni da esso.
 
@@ -98,7 +98,7 @@ Le forme di Energia vengono distinte tra fonti positive, neutrali e negative, se
 
 Fate la somma delle energie, se positiva il Patrono si può considerare buono, se a valore zero il Patrono è neutrale, se a valore negativo il Patrono è malvagio, per comodità nella lista delle forme di energia è indicato se il Patrono è **B**uono, **N**eutrale o **M**alvagio.
 
-Nella descrizione del Patrono troverete anche la sua **manifestazione**, ovvero cosa accade quando un personaggio agisce in maniera particolarmente e significativamente consona ai Tratti seguiti dal Patrono. L'effetto è puramente scenico e di circostanza ma lascia sempre colpito chiunque lo possa osservare, solitamente garantisce un punto avanzamento in un Tratto collegato al Patrono. Non è necessario essere Devoto o Seguace, basta aver seguito in maniera particolarmente *epica* quel Tratto.
+Nella descrizione del Patrono troverete anche la sua **manifestazione**, ovvero cosa accade quando un personaggio agisce in maniera particolarmente e significativamente consona ai Tratti seguiti dal Patrono. L'effetto è puramente scenico e di circostanza ma lascia sempre colpito chiunque lo possa osservare, solitamente garantisce un punto di avanzamento in un Tratto collegato al Patrono. Non è necessario essere Devoto o Seguace, basta aver seguito in maniera particolarmente *epica* quel Tratto.
 
 È presente anche l'indicazione dell'**arma preferita** dal Patrono. Non ci sono vantaggi nell'usarla, a meno di avere la specifica Abilità , la scelta è puramente personale e lasciata alla devozione del personaggio.
 
@@ -127,9 +127,9 @@ Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti li
 
 ### Miracoli, Interventi e Prodigi
 
-In un mondo dove le divinità sono così capricciose, volubili e assetati di devoti fa loro gioco dimostrarsi generosi con coloro che possono poi diffondere i loro Tratti.
+In un mondo dove le divinità sono così capricciose, volubili e assetate di devoti fa loro gioco dimostrarsi generosi con coloro che possono poi diffondere i loro Tratti.
 
-Un favore chiesto ad un Patrono ha sempre un prezzo non ovvio ne scontato. Il Narratore deve valutare attentamente la supplica del personaggio e giudicare se la richiesta è pertinente con i Tratti del Patrono, in caso positivo tirare 1d100 e fare meno della metà del punteggio più alto di Tratto in comune con il Patrono. Oppure decidere autonomamente secondo il corso dell'avventura.
+Un favore chiesto ad un Patrono ha sempre un prezzo non ovvio né scontato. Il Narratore deve valutare attentamente la supplica del personaggio e giudicare se la richiesta è pertinente con i Tratti del Patrono, in caso positivo tirare 1d100 e fare meno della metà del punteggio più alto di Tratto in comune con il Patrono. Oppure decidere autonomamente secondo il corso dell'avventura.
 
 
 ### Ljust
@@ -146,7 +146,7 @@ Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, 
 - **Manifestazione**: luce dorata inonda l'incantatore.
 - **Somma dei Tratti in comune a 5 punti**: puoi lanciare l'incantesimo Luce come Reazione, 3 volte al giorno
 - **Somma dei Tratti in comune a 10 punti**: guadagni un +2 ai Tiri Salvezza su Tempra
-- **Somma dei Tratti in comune a 15 punti**: una armatura di luce ti protegge, guadagni un +2 a tutti i Tiri Salvezza e Difesa, l'effetto è permanente.
+- **Somma dei Tratti in comune a 15 punti**: un'armatura di luce ti protegge, guadagni un +2 a tutti i Tiri Salvezza e Difesa, l'effetto è permanente.
 - **Somma dei Tratti in comune a 20 punti**: puoi lanciare l'incantesimo Bagliore Solare. 1 volta al giorno.
 - **Energia/B** (Seguace/Devoto): Energia Positiva, Luce
 - **Vantaggio** (Devoto): Ogni volta che fai una Cura magica curi un Punto Ferita in più.
@@ -156,13 +156,13 @@ Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, 
 
 **Gli 8 Passi delle Allieve**
 
-Le Allieve della Luce sono una gruppo segreto di Devote che per totale affinità con Ljust hanno intrapreso il difficile percorso del bene e dell'amore. È tra i gruppi più antichi fondati sulla Terra. Le Allieve, 99 come numero massimo, ma purtroppo spesso meno numerose, sono Devote di Ljust e devono seguire gli 8 Passi della Luce
+Le Allieve della Luce sono un gruppo segreto di Devote che per totale affinità con Ljust hanno intrapreso il difficile percorso del bene e dell'amore. È tra i gruppi più antichi fondati sulla Terra. Le Allieve, 99 come numero massimo, ma purtroppo spesso meno numerose, sono Devote di Ljust e devono seguire gli 8 Passi della Luce
 
 - Ama e proteggi con tutta te stessa, con totale e sincera dedizione chi hai attorno a te.
 - Non lasciare che la tua inazione generi sofferenza.
-- Si un punto di paragone. Fai che la tua Luce elevi le persone che hai intorno e possano vedere in te speranza, serenità, calma, protezione e sicurezza.
-- Usa l'intelligenza, la furbizia e l'arguzia. Si lungimirante e risoluta nell'azione.
-- La tua opera è per il bene comune. Fa che la tua Luce sia sempre alta ed intensa.
+- Sii un punto di paragone. Fai che la tua Luce elevi le persone che hai intorno e possano vedere in te speranza, serenità, calma, protezione e sicurezza.
+- Usa l'intelligenza, la furbizia e l'arguzia. Sii lungimirante e risoluta nell'azione.
+- La tua opera è per il bene comune. Fai che la tua Luce sia sempre alta ed intensa.
 - Non cercare altra Luce se non la tua e quella delle tue sorelle.
 - Sii luminosa ma non accecare chi è intorno a te.
 - Sii la differenza tra la disperazione e la speranza.
@@ -175,7 +175,7 @@ Esistono anche Allieve di altro genere, rari ma storicamente accertati.
 
 > La superstizione è la religione degli spiriti deboli. (Edmund Burke)
 
-È oscuro, gelido e arrabbiato. Racchiude in sé odio, violenza, distruzione, vendetta e perenne insoddisfazione. Raccoglie la personalità capricciosa e scontenta di un bambino, la noia violenta e sadica di un giovane uomo, la forza distruttiva di un uragano e la rabbia di un combattente che non ha più nulla da perdere. Calicante solo con la presenza mette a disagio, ti fa sentire in pericolo, affascina ma con le armi della paura e della incostanza.
+È oscuro, gelido e arrabbiato. Racchiude in sé odio, violenza, distruzione, vendetta e perenne insoddisfazione. Raccoglie la personalità capricciosa e scontenta di un bambino, la noia violenta e sadica di un giovane uomo, la forza distruttiva di un uragano e la rabbia di un combattente che non ha più nulla da perdere. Calicante solo con la presenza mette a disagio, ti fa sentire in pericolo, affascina ma con le armi della paura e dell'incostanza.
 
 Calicante può essere scelto solo dai personaggi che hanno 4 Tratti in comune con lui. I suoi Devoti sono i migliori assassini, sua professione più affine. Coloro che mostrano il maggiore sprezzo del pericolo e della vita altrui. I suoi prediletti sono coloro che sono temuti, odiati, coloro che sono violenti e crudeli ma mortalmente efficienti e decisivi in ogni situazione di combattimento.
 
@@ -199,7 +199,7 @@ Calicante può essere scelto solo dai personaggi che hanno 4 Tratti in comune co
 
 Il custode del Tempo e della Torre dell'Orologio, come ha avviato il tempo e la creazione dei nuovi Patroni così fermerà la sfida fra loro ed i Patroni sopravvissuti saranno giudicati, le loro opere valutate e Ljust o Calicante ne trarranno giovamento. Come una sfida da una singola moneta di rame nuovi Patroni, nuovi ideali saranno creati e noi, piccole creature vedremo nascere nuove civiltà e regni fiorenti. La storia è poco nota, solo i pochi Devoti di Atmos, scribi e studiosi della biblioteca del Tempo, conoscono il segreto e lo scorrere del tempo e della gara, gli altri, ignoranti, vivranno il loro tempo con un padrone sicuramente guidato da un Patrono.
 
-Atmos, il Patrono del Tempo è il custode della storia, è colui che tiene traccia degli infiniti e più mondi che sono stati creati.
+Atmos, il Patrono del Tempo è il custode della storia, è colui che tiene traccia degli infiniti mondi che sono stati creati.
 
 Atmos ha il potere unico e riservato solo a lui di poter bandire dal creato un Patrono qualora questo diventasse troppo forte e minacciasse Calicante e Ljust. Atmos ha già usato questo potere in passato. Atmos sia per la sua natura totalmente neutrale sia per il suo ruolo non si è mai schierato.
 
@@ -216,7 +216,7 @@ Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti 
 - **Somma dei Tratti in comune a 5 punti**: Conosci sempre la data esatta e l'ora.
 - **Somma dei Tratti in comune a 10 punti**: Hai una intuizione innata per la conoscenza. Hai +1d6 alle prove di Conoscenza
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Globo di Invulnerabilità, 1 volta al giorno.
-- **Somma dei Tratti in comune a 20 punti**: Ogni qual volta che devi fare una prova di Arcana puoi prendere il 18 come prendessi 10
+- **Somma dei Tratti in comune a 20 punti**: Ogni qual volta che devi fare una prova di Arcana puoi prendere il 18 come se prendessi 10
 - **Energia/N**: Suono, Freddo
 - **Vantaggio**: Sai sempre che ora è
 - **Liste Magia Privilegiate**: Divinazione, Abiurazione
@@ -237,7 +237,7 @@ I suoi Devoti sono i viaggiatori per eccellenza, coloro che presidiano e protegg
 - **Caratteristica**: Destrezza o Intelligenza
 - **Tratti**: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 - **Manifestazione**: come se il panorama non avesse più orizzonte
-- **Somma dei Tratti in comune a 5 punti** punti: Una volta al giorno puoi eseguire una Azione di Movimento in più
+- **Somma dei Tratti in comune a 5 punti**: Una volta al giorno puoi eseguire una Azione di Movimento in più
 - **Somma dei Tratti in comune a 10 punti**: Puoi lanciare Porta Dimensionale una volta al giorno
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Esilio, 1 volta al giorno, DC 30.
 - **Somma dei Tratti in comune a 20 punti**: Puoi teletrasportarti per 500km al giorno (anche più teletrasporti o teletrasportati purché la somma totale non superi 500km)
@@ -256,11 +256,11 @@ Il primo Patrono creato da Atmos sotto la guida di Ljust e l'influenza di Calica
 Gradh racchiude in sé l'istinto innato alla protezione, alla difesa ed alla cura propri di Ljust. Gradh è quanto di più simile e profondamente legato a Ljust sia stato generato. Lui è equilibrio, razionalità ed empatia.
 Dove vi è difesa, cura e protezione vi è Gradh.
 
-Ma Calicante non poteva permettere la creazione di un Patrono totalmente votato ad Ljust e così infuse in Gradh la freddezza della vendetta e la furia della rabbia. Ecco che allora Gradh nell'atto di difendere l'umanità, spesso la deve in primis proteggere da sé stesso.
+Ma Calicante non poteva permettere la creazione di un Patrono totalmente votato a Ljust e così infuse in Gradh la freddezza della vendetta e la furia della rabbia. Ecco che allora Gradh nell'atto di difendere l'umanità, spesso la deve in primis proteggere da sé stesso.
 
-Gradh non ama sfidare apertamente Cattalm perché sa che farebbe esattamente il suo gioco, ecco che con astuzia cerca di attirarlo nel suo terreno di gioco, dove nessuna vita sarà in pericolo e lì da sfoggio a della sua superiorità strategica e di combattimento.
+Gradh non ama sfidare apertamente Cattalm perché sa che farebbe esattamente il suo gioco, ecco che con astuzia cerca di attirarlo nel suo terreno di gioco, dove nessuna vita sarà in pericolo e lì dà sfoggio della sua superiorità strategica e di combattimento.
 
-Passionale e freddo è forse il Patrono più umano del pantheon attuale. Il suo sguardo carismatico e protettivo può divenire freddo e tagliente quando è preda della furia della battaglia o della vendetta. Gradh ama studiare il mondo attorno a sé e passare inosservato. Spesso si nasconde fra la gente e *vive* la sua vita umana, ma non si lascia avvicinare veramente da nessuno. Gradh attira a sé con la stessa facilità con cui lui allontana da se.
+Passionale e freddo è forse il Patrono più umano del pantheon attuale. Il suo sguardo carismatico e protettivo può divenire freddo e tagliente quando è preda della furia della battaglia o della vendetta. Gradh ama studiare il mondo attorno a sé e passare inosservato. Spesso si nasconde fra la gente e *vive* la sua vita umana, ma non si lascia avvicinare veramente da nessuno. Gradh attira a sé con la stessa facilità con cui lui allontana da sé.
 
 Il Devoto di Gradh è fiero ed orgoglioso, indomito e protettivo, ed addolorato, perché per quanto si sforzi di portare equilibrio e pace il male continua sempre a prosperare.
 
@@ -269,8 +269,8 @@ Il Devoto di Gradh è fiero ed orgoglioso, indomito e protettivo, ed addolorato,
 - **Tratti**: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 - **Manifestazione**: due spire una nera come ombra ed una lucente come scintilla circondano la tua arma intrecciandosi
 - **Somma dei Tratti in comune a 5 punti** punti: Puoi lanciare l'incantesimo Cura Ferite da 3 Punti Magia, ma ti causa 1d6 di danno. 1 volta al giorno
-- **Somma dei Tratti in comune a 10 punti**: Per 10 minuti consecutivi hai un bonus di +1d6 Tiro Salvezza su Riflessi e Tempra. Una volta al giorno.
-- **Somma dei Tratti in comune a 15 punti**: Emani un aura che concede a tutti i tuoi compagni entro raggio 3 metri un +2 Tiri Salvezza. Una volta al giorno, per 30 minuti consecutivi
+- **Somma dei Tratti in comune a 10 punti**: Per 10 minuti consecutivi hai un bonus di +1d6 ai Tiri Salvezza su Riflessi e Tempra. Una volta al giorno.
+- **Somma dei Tratti in comune a 15 punti**: Emani un aura che concede a tutti i tuoi compagni entro raggio 3 metri un +2 ai Tiri Salvezza. Una volta al giorno, per 30 minuti consecutivi
 - **Somma dei Tratti in comune a 20 punti**: Lanci l'incantesimo Palla di Fuoco. L'incantesimo causa 60 di danno da energia negativa. DC 25 Riflessi per dimezzare. 2 volte al giorno
 - **Energia/N**: Energia Positiva - Energia Negativa
 - **Vantaggio**: +2 Consapevolezza
@@ -299,7 +299,7 @@ Il Devoto di Atherim si prende a cuore coloro che hanno fatto una promessa, puni
 - **Somma dei Tratti in comune a 5 punti**: Puoi aggiungere 1d6 ad un Tiro salvezza dopo averlo tirato ma prima di sapere se ha avuto successo o meno. Una volta al giorno, come Reazione.
 - **Somma dei Tratti in comune a 10 punti**: Guadagni 30 Punti Ferita temporanei. Durata 1 ora, una volta al giorno, come Azione Immediata.
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Zona di Verità 3 volte al giorno, senza Tiro Salvezza.
-- **Somma dei Tratti in comune a 20 punti**: Ogni pozione che bevi ha il doppio come durata o effetto se immediata.
+- **Somma dei Tratti in comune a 20 punti**: Ogni pozione che bevi ha il doppio di durata o effetto se immediata.
 - **Energia/B**: Energia Positiva, Elettricità
 - **Vantaggio**: Riduci il Sanguinamento di 1 a fine round
 - **Liste Magia Privilegiate**: Ammaliamento
@@ -324,7 +324,7 @@ Il Devoto di Belevon è ben descritto da un uomo lucertola circondato da chincag
 - **Caratteristica**: Intelligenza
 - **Tratti**: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 - **Manifestazione**: come se le sbarre dorate di una gabbia si intrecciassero attorno all'incantatore
-- **Somma dei Tratti in comune a 5 punti** punti: Puoi lanciare l'incantesimo Prestidigitazione, 3 volte al giorno.
+- **Somma dei Tratti in comune a 5 punti**: Puoi lanciare l'incantesimo Prestidigitazione, 3 volte al giorno.
 - **Somma dei Tratti in comune a 10 punti**: Acquisisci la capacità lanciare l'incantesimo Immagine Maggiore una volta al giorno.
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Allucinazione Mortale. 1 volta al giorno
 - **Somma dei Tratti in comune a 20 punti**: Toccando un oggetto vieni a conoscenza per sommi capi della storia di chi l'ha creato. Una volta al giorno. Costa 3 Azioni.
@@ -354,9 +354,9 @@ Ogni qual volta succede una calamità si suole dire che *Cattalm ha battuto il p
 - **Caratteristica**: Forza
 - **Tratti**: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 - **Manifestazione**: il rombo del tuono
-- **Somma dei Tratti in comune a 5 punti** punti: Attraverso le tue armi indebolisci l'avversario designato. A seguito di un colpo critico puoi aumentare di un livello l'affaticamento. Una volta al giorno come Reazione.
+- **Somma dei Tratti in comune a 5 punti**: Attraverso le tue armi indebolisci l'avversario designato. A seguito di un colpo critico puoi aumentare di un livello l'affaticamento. Una volta al giorno come Reazione.
 - **Somma dei Tratti in comune a 10 punti**: Il tuo tocco imputridisce cibo (fino a 50kg/Ingombro 10) e acqua (un cubo con uno spigolo di 10 m). Una volta al giorno
-- **Somma dei Tratti in comune a 15 punti**: Il tuo sguardo accieca di collera. Lanci l'incantesimo Confusione, ma l'unico risultato possibile è che i target attaccano dei soggetti a caso. DC 25. 1 volta al giorno
+- **Somma dei Tratti in comune a 15 punti**: Il tuo sguardo acceca di collera. Lanci l'incantesimo Confusione, ma l'unico risultato possibile è che i target attaccano dei soggetti a caso. DC 25. 1 volta al giorno
 - **Somma dei Tratti in comune a 20 punti**: Lanci l'incantesimo Cono di Freddo 60 di danno, ma il danno è da Vuoto. DC 25. Una volta al giorno
 - **Energia/M**: Energia Negativa, Vuoto
 - **Vantaggio**: aumenta di 10 i PF necessari ad ucciderti
@@ -372,7 +372,7 @@ Ogni qual volta succede una calamità si suole dire che *Cattalm ha battuto il p
 
 Efrem si prefigge di difendere la Natura dalla contaminazione dell'uomo, da questa specie infestante che distrugge tutto ciò che incontra.
 
-I Devoti di Efrem. chiamati anche druidi, sono legati maggiormente all'elemento naturale. Manipolano la magia principalmente elementale e si difendono o attaccano usando anche animali e creature naturali. Si dice che i più potenti costringano anche i Draghi alla ubbidienza.
+I Devoti di Efrem, chiamati anche druidi, sono legati maggiormente all'elemento naturale. Manipolano la magia principalmente elementale e si difendono o attaccano usando anche animali e creature naturali. Si dice che i più potenti costringano anche i Draghi all'ubbidienza.
 
 I Devoti di Efrem hanno l'obiettivo supremo di proteggere gli animali e le piante, i luoghi e tutto ciò che è naturale e non artificiale. Solitamente solitario e scontroso non riesce a capire il perché dell'odio che, dal suo punto di vista, l'uomo scarica sulla Terra.
 
@@ -384,13 +384,13 @@ Nelle terre più desolate, nelle regioni più naturali i Devoti di Efrem costrui
 - **Caratteristica**: Costituzione
 - **Tratti**: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
 - **Manifestazione**: spire di foglie avvolgono l'arma
-- **Somma dei Tratti in comune a 5 punti** punti: Il tuo tocco rende docili gli animali non magici. Tiro Salvezza su Volontà 20 per resistere. 3 volte al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 5 punti**: Il tuo tocco rende docili gli animali non magici. Tiro Salvezza su Volontà 20 per resistere. 3 volte al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 10 punti**: Guadagni un +1d6 a tutte le prove di Sopravvivenza che si effettuano in un ambiente naturale.
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Bacche Benefiche 1 volta al giorno. Ogni bacca cura 1d6 Punti Ferita e rimuove le malattie o veleni non magici.
 - **Somma dei Tratti in comune a 20 punti**: Il tuo tocco è quello del padrone. Puoi ammansire creature anche magiche come Aberrazioni o Draghi che tocchi. Tiro Salvezza su Volontà DC 30. Una volta al giorno. Costo 2 Azioni
 - **Energia/N**: Elettricità, Suono
 - **Vantaggio**: +1d6 a Gestire Animali
-- **Liste Magia Privilegiate**: Animali e Piante ed una Liste Magia Elementale.
+- **Liste Magia Privilegiate**: Animali e Piante ed una Lista Magia Elementale.
 - **Arma Preferita**: Bastone
 - **Regola**: La Natura è sempre la tua prima scelta
 
@@ -438,13 +438,13 @@ I Devoti di Gaya sono artisti volubili e sopra le righe. Sono coloro che ricrean
 
 Ma Gaya ha anche un lato molto più subdolo e violento, una vena di follia malvagia che adora portare distruzione con fiamme e acqua. Nelle profondità delle caverne creature affini all'acqua od al fuoco adorano Gaya e uccidono chiunque non sia d'accordo con loro.
 
->>> **Gaia ed Erondil**: **Gaia** ed **Erondil** sono come le due facce della stessa medaglia e sovraintendono agli elementi, Gaia acqua e fuoco ed Erondil Aria e Terra; agiscono come espressione diretta dei Patroni maggiori, sono piccole manifestazione del loro immenso potere.
+>>> **Gaia ed Erondil**: **Gaia** ed **Erondil** sono come le due facce della stessa medaglia e sovraintendono agli elementi, Gaia acqua e fuoco ed Erondil Aria e Terra; agiscono come espressione diretta dei Patroni maggiori, sono piccole manifestazioni del loro immenso potere.
 
 - **Simbolo**: un pennello sul cielo
 - **Caratteristica**: Intelligenza
 - **Tratti**: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
-- **Manifestazione**: spire di fuoco e acqua avvolgono all'incantatore
-- **Somma dei Tratti in comune a 5 punti** punti: Puoi creare fino a 5 litri di acqua o 1 litro di liquore di buona qualità. Una volta al giorno. Costo 2 Azioni.
+- **Manifestazione**: spire di fuoco e acqua avvolgono l'incantatore
+- **Somma dei Tratti in comune a 5 punti**: Puoi creare fino a 5 litri di acqua o 1 litro di liquore di buona qualità. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 10 punti**: Il tuo metabolismo non teme il freddo. Resisti al Danno magico da freddo e sei immune a quello naturale.
 - **Somma dei Tratti in comune a 15 punti**: Puoi respirare sott'acqua come respiri l'aria. Resisti al danno da fuoco non magico
 - **Somma dei Tratti in comune a 20 punti**: Generi una pioggia di fuoco. Lanci l'incantesimo Colpo Infuocato, DC 25 una volta al giorno. Resisti il danno da fuoco magico.
@@ -466,7 +466,7 @@ Krondal abbraccia lo spirito anarchico e libero nella maniera più assoluta. Tut
 
 Il suo motto è *Nessuno conosce Nessuno* perché non puoi sapere il futuro e quello che ti aspetta.
 
-Krondal nutre un profondo rispetto per la libertà e non può criticare le scelte, estreme o meno che vengano fatte, eppure per suo dettato divino perseguita intransigente per portare giustizia.
+Krondal nutre un profondo rispetto per la libertà e non può criticare le scelte, estreme o meno che vengano fatte, eppure per suo dettato divino persegue intransigente per portare giustizia.
 
 Un Devoto di Krondal è tipicamente una guardia del corpo, un protettore, lo sceriffo al quale non interessano i motivi della scelta ma che sa giudicare le azioni compiute.
 
@@ -474,10 +474,10 @@ Un Devoto di Krondal è tipicamente una guardia del corpo, un protettore, lo sce
 - **Caratteristica**: Carisma
 - **Tratti**: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 - **Manifestazione**: il mantello o veste del Devoto diventa pulito e lucente
-- **Somma dei Tratti in comune a 5 punti** punti: Maledici il tuo avversario. Lanci una volta al giorno l'incantesimo Scagliare Maledizione. DC 20 per resistere.
+- **Somma dei Tratti in comune a 5 punti**: Maledici il tuo avversario. Lanci una volta al giorno l'incantesimo Scagliare Maledizione. DC 20 per resistere.
 - **Somma dei Tratti in comune a 10 punti**: Non vuoi essere legato o ammanettato. Due volte al giorno puoi lanciare solo su te stesso Libertà di Movimento.
 - **Somma dei Tratti in comune a 15 punti**: La tua presenza toglie la vista agli avversari. Designa fino a 6 creature entro 9 metri, queste devono fare un Tiro Salvezza Tempra a DC 30 o essere ciechi solo nei tuoi confronti per 1d4 round.
-- **Somma dei Tratti in comune a 20 punti**: La tua arma è più efficace contro i nemici. Ogni creatura colpita deve fare un Tiro Salvezza Volontà DC 20 o rimanere paralizzata per 3 round. Una volta che la creatura riesce nel Tiro Salvezza non può essere più influenzata per le successive 24 ore. Una volta la giorno, attivare l'abilità costa 1 Azione e dura 1 minuto.
+- **Somma dei Tratti in comune a 20 punti**: La tua arma è più efficace contro i nemici. Ogni creatura colpita deve fare un Tiro Salvezza Volontà DC 20 o rimanere paralizzata per 3 round. Una volta che la creatura riesce nel Tiro Salvezza non può essere più influenzata per le successive 24 ore. Una volta al giorno, attivare l'abilità costa 1 Azione e dura 1 minuto.
 - **Energia/B**: Energia Positiva, Fuoco
 - **Vantaggio**: +2 TS su Tempra
 - **Liste Magia Privilegiate**: Abiurazione
@@ -500,11 +500,11 @@ Ledyal ha anche una sorella gemella, o forse un'altra personalità, o forse sono
 - **Tratti Laydel**: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 - **Manifestazione**: come se un mantello di farfalle avvolgesse il Devoto
 - **Somma dei Tratti in comune a 5 punti** punti: Il tuo tocco è vita/attacco. 3 volte al giorno puoi toccare una creatura vivente e curarla/causare 1d6 Punti Ferita. Costo 2 Azioni (comprende anche l'Azione di tocco)
-- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco è pace. Puoi lanciare 2 volta al giorno l'incantesimo Santuario.
+- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco è pace. Puoi lanciare 2 volte al giorno l'incantesimo Santuario.
 - **Somma dei Tratti in comune a 15 punti**: La tua aura protegge i tuoi compagni. Entro raggio 6 metri i tuoi compagni hanno un +4 alla Difesa ed un +2 ai Tiri Salvezza. Durata 10 minuti consecutivi, una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Irradi una sfera curativa intorno a te. Ogni creatura nel raggio di 6 metri viene curata di 60 Punti Ferita. Una volta al giorno. In caso di Laydel l'effetto è opposto. Costo 2 Azioni
 - **Energia/B**: Energia Positiva, Elettricità
-- **Vantaggio**: +1d6 alle prove di Pronto Soccorso (Ledyal) oppure sei +4 TS contro Paura (Laydel)
+- **Vantaggio**: +1d6 alle prove di Pronto Soccorso (Ledyal) oppure hai +4 TS contro Paura (Laydel)
 - **Liste Magia Privilegiate**: Cura o Invocazione
 - **Arma Preferita**: Manganello/Catena chiodata
 - **Regola**: Non permettere violenze contro il genere di una creatura
@@ -523,17 +523,17 @@ Il Devoto di Nethergal è un fine linguista, un esperto di indovinelli e rebus, 
 
 Un Devoto di Nethergal è un maestro, una professoressa di lingue di un Collegio, un dotto esperto di mille argomenti, probabilmente vanitoso e qualche volta arrogante se sfidato sulle sue materie.
 
-Nethergal conosce la locazione di ogni documento ed è probabilmente la chiave per comprendere cosa successe alla Freten. Pochissimi sanno che Nethergal era uno dei Patroni della prima venuta, quella incaricata di distruggere le infrastrutture di comunicazione, colei che cifrò i contenuti degli archivi elettronici nel più grande ransoware della storia.
+Nethergal conosce la locazione di ogni documento ed è probabilmente la chiave per comprendere cosa successe alla Freten. Pochissimi sanno che Nethergal era uno dei Patroni della prima venuta, quella incaricata di distruggere le infrastrutture di comunicazione, colei che cifrò i contenuti degli archivi elettronici nel più grande ransomware della storia.
 
-Nethergal ha anche un altro ruolo è il Patrono dei sogni e delle visioni, divide questo compito con Sixiser che invece domina gli incubi.
+Nethergal ha anche un altro ruolo: è il Patrono dei sogni e delle visioni, divide questo compito con Sixiser che invece domina gli incubi.
 
 - **Simbolo**: una piuma bianca cangiante
 - **Caratteristica**: Destrezza
-- **Tratti**: Estroverso, Curioseffettuareo, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
-- **Manifestazione**: cascata di piume, un oca in volo
-- **Somma dei Tratti in comune a 5 punti** punti: Puoi inviare un messaggio di massimo 144 caratteri ad un soggetto che puoi vedere entro 50 metri senza essere udito/visto. Una volta all'ora. Costo 1 Azione. Il soggetto deve comprendere la lingua usata.
+- **Tratti**: Estroverso, Curioso, Effettuareo, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
+- **Manifestazione**: cascata di piume, un'oca in volo
+- **Somma dei Tratti in comune a 5 punti**: Puoi inviare un messaggio di massimo 144 caratteri ad un soggetto che puoi vedere entro 50 metri senza essere udito/visto. Una volta all'ora. Costo 1 Azione. Il soggetto deve comprendere la lingua usata.
 - **Somma dei Tratti in comune a 10 punti**: Mettendo la mano su un libro ne apprendi il contenuto come se lo avessi letto. Un libro a settimana. Perdi le conoscenze così acquisite dopo una settimana. Tempo 1 round. La lingua scritta del tomo deve essere nota.
-- **Somma dei Tratti in comune a 15 punti**: Puoi volare, come omonimo incantesimo, 1 ora al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 15 punti**: Puoi volare, come l'omonimo incantesimo, 1 ora al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Comprendi ogni scritto che non sia magico o codificato.
 - **Energia/N**: Elettricità, Suono
 - **Vantaggio**: sai sempre dove è il nord magnetico
@@ -562,9 +562,9 @@ Molti capitani di ventura e ufficiali al comando sono Devoti di Nedraf. Il Devot
 - **Caratteristica**: Costituzione
 - **Tratti**: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
 - **Manifestazione**: si spande nell'aria odore di sangue e metallo
-- **Somma dei Tratti in comune a 5 punti** punti: Puoi portare armature leggere senza penalità alla Prova di Magia
+- **Somma dei Tratti in comune a 5 punti**: Puoi portare armature leggere senza penalità alla Prova di Magia
 - **Somma dei Tratti in comune a 10 punti**: Acquisisci un punto bonus su una Lista d'Armi. Può essere nota o meno
-- **Somma dei Tratti in comune a 15 punti**: Puoi portare armature medie senza penalità alla Prova di Magia ed Destrezza
+- **Somma dei Tratti in comune a 15 punti**: Puoi portare armature medie senza penalità alla Prova di Magia e Destrezza
 - **Somma dei Tratti in comune a 20 punti**: Acquisisci un punto bonus su una Lista d'Armi. Può essere nota o meno
 - **Energia/B**: Energia positiva, Suono
 - **Vantaggio**: recuperi il doppio di PF quando riposi
@@ -584,8 +584,8 @@ Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espr
 - **Caratteristica**: Intelligenza
 - **Tratti**: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
 - **Manifestazione**: il suono di un brindisi o lo stappare di una bottiglia
-- **Somma dei Tratti in comune a 5 punti** punti: Puoi trasformare l'acqua in vino. Un litro al giorno. Costo 2 Azioni. 2 volte al giorno.
-- **Somma dei Tratti in comune a 10 punti**: Una Azione Immediata, ottieni un bonus di +2d6 ad una prova di Competenza in quel round. 3 volta al giorno.
+- **Somma dei Tratti in comune a 5 punti**: Puoi trasformare l'acqua in vino. Un litro al giorno. Costo 2 Azioni. 2 volte al giorno.
+- **Somma dei Tratti in comune a 10 punti**: Una Azione Immediata, ottieni un bonus di +2d6 ad una prova di Competenza in quel round. 3 volte al giorno.
 - **Somma dei Tratti in comune a 15 punti**: La tua arma leggera causa sempre un danno critico quando colpisci. Il bonus è sempre attivo.
 - **Somma dei Tratti in comune a 20 punti**: I manicaretti che prepari sono buonissimi. Chiunque si sazi con una pietanza da te preparata recupera 2d6 Punti Ferita e viene curato dai veleni anche magici. Max 6 persone al giorno. 0.5 ore di preparazione per persona.
 - **Energia/B**: Energia Positiva, Fuoco
@@ -600,7 +600,7 @@ Ha le sembianze di un piccolo uomo, dai vestiti sfarzosi e ricercati e dall'espr
 
 Orudjs striscia nelle profondità delle caverne, circondato da gemme, tesori, servitori zelanti.
 
-Descritto come una melma informe da chi ha percepito una parvenza della forma, Orudjs è Patrono della illusione e della finzione.
+Descritto come una melma informe da chi ha percepito una parvenza della forma, Orudjs è Patrono dell'illusione e della finzione.
 
 Con il solo pensiero convince chiunque di qualsiasi cosa voglia. Adora il teatro per ciò che per lui è, la rappresentazione della falsità, l'essere tante persone ed in realtà nessuna.
 
@@ -640,7 +640,7 @@ Attenti ai Seguaci di Orlaith, vanità, vendetta ed intransigenza li rendono odi
 - **Caratteristica**: Forza
 - **Tratti**: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 - **Manifestazione**: l'immagine di una stadera, sbilanciata.
-- **Somma dei Tratti in comune a 5 punti** punti: Richiami a te 1 mastino che obbedisce ai tuoi comandi. Durata 1 minuto. Una volta al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 5 punti**: Richiami a te 1 mastino che obbedisce ai tuoi comandi. Durata 1 minuto. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 10 punti**: Un paio di manette si manifesta attorno ai polsi della creatura (massimo taglia grande) entro 27 metri. Tiro Salvezza Riflessi DC 25 per annullare. Costo 2 Azioni. Una volta al giorno. Forza/Artista della Fuga DC 20 per liberarsi.
 - **Somma dei Tratti in comune a 15 punti**: Crei un raggio di Luce lungo 27 metri e largo pochi centimetri. Ogni creatura attraversata subisce 8d6 di danno, DC 25 Riflessi per dimezzare. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Il tuo udito è solo per la verità. Intorno a te per 3 metri, te compreso, è sempre attiva Zona di Verità.
@@ -654,11 +654,11 @@ Attenti ai Seguaci di Orlaith, vanità, vendetta ed intransigenza li rendono odi
 
 > L'avidità, non trovo una parola migliore, è valida, l'avidità è giusta, l'avidità funziona, l'avidità chiarifica, penetra e cattura l'essenza dello spirito evolutivo. L'avidità in tutte le sue forme: l'avidità di vita, di amore, di sapere, di denaro, ha improntato lo slancio in avanti di tutta l'umanità. E l'avidità, ascoltatemi bene, non salverà solamente la Teldar Carta, ma anche l'altra disfunzionante società che ha nome America. (Gordon Gekko dal film Wall Street, 1987)
 
-Il Patrono che disprezza tutto. Rezh ama, vuole, tocca, rimira solo le sue monete lucide e brillanti. Non sono mai abbastanza, nessuna ricchezza è mai sufficiente per lei. Rezh, l'avara tiene tutto per se, non conosce compassione, non conosce carità, non conosce condivisione. La sua fame di denaro, di ricchezze la rende prona a qualsiasi bassezza. Disprezza tutto e tutti e giudica tutto e tutti seguendo solo il suo personale metro di giudizio. In ogni moneta c'è un po' di Rezh. Nella ossidatura di ogni moneta si può vedere l'impronta di Rezh.
+Il Patrono che disprezza tutto. Rezh ama, vuole, tocca, rimira solo le sue monete lucide e brillanti. Non sono mai abbastanza, nessuna ricchezza è mai sufficiente per lei. Rezh, l'avara tiene tutto per sé, non conosce compassione, non conosce carità, non conosce condivisione. La sua fame di denaro, di ricchezze la rende prona a qualsiasi bassezza. Disprezza tutto e tutti e giudica tutto e tutti seguendo solo il suo personale metro di giudizio. In ogni moneta c'è un po' di Rezh. Nell'ossidatura di ogni moneta si può vedere l'impronta di Rezh.
 
-Nelle profondità delle caverne i devoti di Rezh scavano cercando tesori, profanano catacombe e cacciano, cacciano ed uccidono chiunque abbia con se qualcosa di prezioso, anche il migliore amico.
+Nelle profondità delle caverne i devoti di Rezh scavano cercando tesori, profanano catacombe e cacciano, cacciano ed uccidono chiunque abbia con sé qualcosa di prezioso, anche il migliore amico.
 
-Rezh si è preoccupata di distruggere in verdi fiamme qualsiasi documento finanziario potesse esistere prima della venuta dei Patroni. In un gesto che può sembrare di estrema generosità ha cancellato tutti i debite delle persone.
+Rezh si è preoccupata di distruggere in verdi fiamme qualsiasi documento finanziario potesse esistere prima della venuta dei Patroni. In un gesto che può sembrare di estrema generosità ha cancellato tutti i debiti delle persone.
 
 Tra gli umani i Devoti di Rezh diventano esploratori, tombaroli, persone sempre alla ricerca di un tesoro e di una moneta in più.
 
@@ -666,12 +666,12 @@ Tra gli umani i Devoti di Rezh diventano esploratori, tombaroli, persone sempre 
 - **Caratteristica**: Intelligenza
 - **Tratti**: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
 - **Manifestazione**: un rumore di monete che cadono avvolge l'incantatore
-- **Somma dei Tratti in comune a 5 punti** punti: Sei un esperto di monete e gemme, nessun falsario può ingannarti. +1d6 alle prove di Consapevolezza e Conoscenza relative.
+- **Somma dei Tratti in comune a 5 punti**: Sei un esperto di monete e gemme, nessun falsario può ingannarti. +1d6 alle prove di Consapevolezza e Conoscenza relative.
 - **Somma dei Tratti in comune a 10 punti**: Usi le gemme come ricettacoli. Puoi scaricare un incantesimo di 3 livello o inferiore in una gemma, che deve avere valore minimo di 10mo x livello dell'incantesimo. La gemma conserva l'incantesimo per 6 ore. Per attivare la gemma usi 2 azioni e viene eseguito l'incantesimo che contiene consumando la gemma.
 - **Somma dei Tratti in comune a 15 punti**: Puoi tirare fuori dalle tasche 1 moneta d'oro ogni volta che vuoi. Max 10 mo al giorno. Costo 1 Azione.
 - **Somma dei Tratti in comune a 20 punti**: La tua armatura viene coperta da scintillio dorato e di gemme. Guadagni +4 alla Difesa e +2d6 Tiro Salvezza Tempra per 1 ora. Costo 2 Azioni, una volta al giorno.
 - **Energia/M**: Vuoto, Elettricità
-- **Vantaggio**: quando trovi un tesoro aumentane il valore del 1\%
+- **Vantaggio**: quando trovi un tesoro aumentane il valore dell'1\%
 - **Liste Magia Privilegiate**: Abiurazione
 - **Arma Preferita**: Falcetto
 - **Regola**: Non lasciare un tesoro incustodito
@@ -682,7 +682,7 @@ Tra gli umani i Devoti di Rezh diventano esploratori, tombaroli, persone sempre 
 
 Nulla di grande al mondo è stato compiuto senza passione. (Georg Wilhelm Friedrich Hegel)
 
-Patrono dell'Arcano di Tenebra. Shayalia è l'anima oscura della perdizione, del tradimento, della lussuria più sordida e peccaminosa. Adora i bordelli. Le piace l'odore acre del sudore, la pelle lucida di oli e profumi. Le passioni, le vendette che li si consumano, la distruzione fisica e morale che in quei luoghi viene perpetrata è la sua vita.
+Patrono dell'Arcano di Tenebra. Shayalia è l'anima oscura della perdizione, del tradimento, della lussuria più sordida e peccaminosa. Adora i bordelli. Le piace l'odore acre del sudore, la pelle lucida di oli e profumi. Le passioni, le vendette che vi si consumano, la distruzione fisica e morale che in quei luoghi viene perpetrata è la sua vita.
 
 Shayalia è una donna, spesso sola, che gode e vive i piaceri più fisici. Vive di vendette lungamente e ben dettagliatamente progettate. Vendicativa ed amorale, non giudica con metro di giudizio umano, il suo godere non è neppure lontanamente comprensibile. Shayalia è quanto di più vicino a Calicante sia stato creato. Sono le passioni, le pulsioni, i liquidi umorali che la fanno inebriare.
 
@@ -706,7 +706,7 @@ Ljust disgustata dalla visione di un Patrono del genere instillò in Shayalia l'
 - **Somma dei Tratti in comune a 20 punti**: Il tuo tocco è vita per la natura. Puoi curare animali e piante magiche. Sei immune ai veleni naturali. +1d6 Conoscenza Natura.
 - **Energia/M**: Vuoto, Elettricità
 - **Vantaggio**: +4 TS contro Veleni
-- **Liste Magia Privilegiate**: Illusione oppure Animali e Piante ed una Liste Magia Elementale
+- **Liste Magia Privilegiate**: Illusione oppure Animali e Piante ed una Lista Magia Elementale
 - **Arma Preferita**: Frusta
 - **Regola**: Non rinunciare ad umiliare
 
@@ -720,7 +720,7 @@ mamma realizzerà tutti i tuoi incubi. (Mother, 1979 The Wall, Pink Floyd)
 
 Il Patrono che è indifferente al presente in quanto totalmente, compulsivamente ossessionato dal futuro e dal suo destino. Negli angoli più remoti dei mondi conosciuti si narra che Sixiser accumuli di tutto, indifferente a tutto e tutti.
 
-Terrorizzato dal futuro che vede, da una ipotetica fine di sé e del tutto vive una vita di ritiro, spirituale e fisico. Si priva volontariamente di tutto il necessario. Ma allo stesso accumula qualunque oggetto incroci la sua strada nella speranza di un ritorno.
+Terrorizzato dal futuro che vede, da un'ipotetica fine di sé e del tutto vive una vita di ritiro, spirituale e fisico. Si priva volontariamente di tutto il necessario. Ma allo stesso accumula qualunque oggetto incroci la sua strada nella speranza di un ritorno.
 
 È paranoico e non si fida di nessuno. Usa i suoi poteri di divinazione per conoscere e scrutare tutti.
 
@@ -732,10 +732,10 @@ I Devoti di Sixiser sono spesso negromanti circondati da non morti ed altre crea
 - **Caratteristica**: Saggezza
 - **Tratti**: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
 - **Manifestazione**: due mani che circondano, come a nascondere, la testa dell'incantatore
-- **Somma dei Tratti in comune a 5 punti** punti: acquisisci la visione crepuscolare fino 9 metri, o 18 metri se già presente.
+- **Somma dei Tratti in comune a 5 punti** punti: acquisisci la visione crepuscolare fino a 9 metri, o 18 metri se già presente.
 - **Somma dei Tratti in comune a 10 punti**: vedi nell'oscurità anche magica entro 9 metri. Individui automaticamente le trappole non magiche entro 3 metri da te.
 - **Somma dei Tratti in comune a 15 punti**: Toccando un oggetto sei in grado di capirne tutte le proprietà magiche e non, anche se è maledetto. 3 volte al giorno.
-- **Somma dei Tratti in comune a 20 punti**: Sei in grado di animare una creatura morta da non più di un giorno come non morto da 1 grado di Sfida (tipo zombi/scheletro a secondo dello stato). Una volta al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 20 punti**: Sei in grado di animare una creatura morta da non più di un giorno come non morto da 1 grado di Sfida (tipo zombi/scheletro a seconda dello stato). Una volta al giorno. Costo 2 Azioni.
 - **Energia/M**: Elettricità, Energia Negativa
 - **Vantaggio**: immune alle malattie naturali
 - **Liste Magia Privilegiate**: Necromanzia
@@ -768,14 +768,14 @@ Calicante, preso dall'orrore alla vista di un Patrono così fatto, lo privò del
 - **Caratteristica**: Carisma
 - **Tratti**: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
 - **Manifestazione**: il Devoto è avvolto da un mantello di broccato dorato
-- **Somma dei Tratti in comune a 2 punti** punti: Il tocco della tua spada é vita. Una creatura toccata con la tua arma recupera 3d6 Punti Ferita. Una volta al giorno. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 7 punti**: La tua Volontà é più forte del metallo. Guadagni un +2 ai Tiri Salvezza su Volontà
+- **Somma dei Tratti in comune a 2 punti**: Il tocco della tua spada è vita. Una creatura toccata con la tua arma recupera 3d6 Punti Ferita. Una volta al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 7 punti**: La tua Volontà è più forte del metallo. Guadagni un +2 ai Tiri Salvezza su Volontà
 - **Somma dei Tratti in comune a 11 punti**: Puoi lanciare l'incantesimo Cono di Freddo, 40 danni da Elettricità. DC 25 per dimezzare. Una volta al giorno. Costo 2 Azioni.
 
 | - **Somma dei Tratti in comune a 15 punti**: Sacrifichi la tua vita per portare in vita una creatura morta da non più di 1 settimana. Una volta. Costo 3 Azioni. |
 | --- |
 
-**Nota**: Sumkjr è l'unico Patrono a concedere benefici per una somma Tratti minore del normale
+**Nota**: Sumkjr è l'unico Patrono a concedere benefici per una somma di Tratti minore del normale
 - **Energia/B**: Energia Positiva, Elettricità
 - **Vantaggio**: +1 a tutti i Tiri Salvezza
 - **Liste Magia Privilegiate**: Cura
@@ -786,14 +786,14 @@ Calicante, preso dall'orrore alla vista di un Patrono così fatto, lo privò del
 
 Le Sette regole Luminose sono un insieme di norme e comportamenti tenuti, a vario titolo, dai Devoti che vogliono seguire la strada della Luce di Ljust.
 
-I Devoti di Sumkjr devono seguirle tutte e 7, altri Devoti di altri Patroni, sempre positivi od almeno neutrali, seguono solo alcune di questi dettami, come regola per non cadere nelle braccia di Calicante.
+I Devoti di Sumkjr devono seguirle tutte e 7, altri Devoti di altri Patroni, sempre positivi od almeno neutrali, seguono solo alcuni di questi dettami, come regola per non cadere nelle braccia di Calicante.
 
 - Proteggi i deboli e chi non sa difendersi dai soprusi
 - Ama la vita e proteggila
 - Combatti contro le ingiustizie e chi porta sofferenze e dolore
 - Lenisci le ferite ed i dolori. Placa gli animi e favorisci la pace ed armonia
-- Onestà e Lealtà sono le tua fondamenta
-- Sei un maestro di virtù. Fa che gli altri possano prendere ispirazione dalle tue gesta
+- Onestà e Lealtà sono le tue fondamenta
+- Sei un maestro di virtù. Fai che gli altri possano prendere ispirazione dalle tue gesta
 - Non lasciare che la tua inazione generi sofferenza
 
 ### Tàhil
@@ -832,7 +832,7 @@ Vive di oscurità e sangue. Le ombre sono le sue amiche e la tenebra il suo mant
 
 Si circonda di assassini, mercenari, chiunque uccida senza provare sentimenti. Nelle profondità del sottosuolo nutre i suoi adepti di dolore, sangue e morte.
 
-Ljust inorridita da tanto odio e nichilismo instillò nel Patrono il rispetto per i morti. Un Devono si Tazher non si accanirà contro un defunto ne violerà il suo cadavere. Molti cacciatori di non morti sono devoti di Tazher.
+Ljust inorridita da tanto odio e nichilismo instillò nel Patrono il rispetto per i morti. Un Devoto di Tazher non si accanirà contro un defunto né violerà il suo cadavere. Molti cacciatori di non morti sono devoti di Tazher.
 
 L'umano Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per l'oscurità ed il proprio tornaconto. Un Devoto di Tazher è estremamente pericoloso in combattimento.
 
@@ -840,7 +840,7 @@ L'umano Devoto di Tazher è il ladro, l'assassino, il bandito, chiunque viva per
 - **Caratteristica**: Destrezza
 - **Tratti**: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
 - **Manifestazione**: l'ombra del Devoto prende vita muovendo l'arma
-- **Somma dei Tratti in comune a 5 punti** punti: Guadagni +2 alle prove di Furtività.
+- **Somma dei Tratti in comune a 5 punti**: Guadagni +2 alle prove di Furtività.
 - **Somma dei Tratti in comune a 10 punti**: La tua Scurovisione diventa di 6 metri.
 - **Somma dei Tratti in comune a 15 punti**: finché cammini sopra delle ombre o al buio (oscurità) sei invisibile. Puoi essere comunque rilevato con la luce o incantesimi di divinazione.
 - **Somma dei Tratti in comune a 20 punti**: L'oscurità non è più un problema. Vedi nell'oscurità anche magica come se fosse giorno. Quando sei in un ambiente in piena luce sei abbagliato con un -2 al Tiro per Colpire.
@@ -868,7 +868,7 @@ Thaft è stato plasmato da Atmos.
 - **Caratteristica**: Saggezza
 - **Tratti**: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 - **Manifestazione**: si sente il pianto di un bambino appena nato o il sospiro della morte
-- **Somma dei Tratti in comune a 5 punti** punti: Il tuo tocco è letale per i non morti. Un tuo tocco infligge 2d6 di danno ad un non morto. Costo 2 Azioni compreso il tocco. Fino a 3 volte al giorno.
+- **Somma dei Tratti in comune a 5 punti**: Il tuo tocco è letale per i non morti. Un tuo tocco infligge 2d6 di danno ad un non morto. Costo 2 Azioni compreso il tocco. Fino a 3 volte al giorno.
 - **Somma dei Tratti in comune a 10 punti**: Il tuo tocco lenisce. Una volta al giorno puoi rimuovere Cecità o Sordità. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 15 punti**: Un non morto, con GS inferiore alla somma dei tuoi Tratti in comune, deve effettuare un Tiro Salvezza Tempra DC 30 o essere distrutto se toccato dalla tua mano. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Uccidi la creatura toccata. Tiro Salvezza su Volontà DC 30 o morte. Una volta alla settimana. Costo 2 Azioni.
@@ -886,9 +886,9 @@ Il Patrono che meglio incarna il concetto *non è mai abbastanza*. Alto, bello c
 
 Nulla è mai abbastanza per lui. Nessuno è mai alla sua altezza. Ed eccolo che con arroganza e ironia va a modificare tutto il modificabile per poter placare questa profonda insoddisfazione. Qualora il risultato finale raggiunto non lo soddisfi, e accade molto spesso, ecco che prende il sopravvento il suo cinismo e distrugge tutto senza curarsi della sofferenza che sta arrecando a chi gli sta attorno.
 
-Nelle lande abbandonate il Devoto di Torbiorn è il Tiranno dal pugno di ferro che agisce solo per proprio desiderio e piacere senza curarsi di nessun'altro.
+Nelle lande abbandonate il Devoto di Torbiorn è il Tiranno dal pugno di ferro che agisce solo per proprio desiderio e piacere senza curarsi di nessun altro.
 
-Il Devoto di Torbiorn è il tipico aristocratico ricco e svogliato,colui che cerca sempre la strada più facile e meno rischiosa.
+Il Devoto di Torbiorn è il tipico aristocratico ricco e svogliato, colui che cerca sempre la strada più facile e meno rischiosa.
 
 Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovamento.
 
@@ -896,8 +896,8 @@ Incurante degli altri si diverte nello sfruttare i lavori altrui e trarne giovam
 - **Caratteristica**: Carisma
 - **Tratti**: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 - **Manifestazione**: schegge di specchio rotto tutto intorno al Devoto come un turbine
-- **Somma dei Tratti in comune a 5 punti** punti: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione. 3 volte al giorno.
-- **Somma dei Tratti in comune a 10 punti**: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.
+- **Somma dei Tratti in comune a 5 punti**: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione. 3 volte al giorno.
+- **Somma dei Tratti in comune a 10 punti**: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno subisce -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.
 - **Somma dei Tratti in comune a 15 punti**: Fissando l'obiettivo negli occhi lo costringi a fermarsi. Il soggetto non può eseguire Azioni di Movimento. Tiro Salvezza su Volontà DC 30. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Dalle tue dita partono dei viticci che pungono fino a 10 avversari. Ogni viticcio, lungo fino a 18 metri causa 2d6 di danno, Tiro Salvezza Riflessi DC 25 per dimezzare. Costo 2 Azioni.
 - **Energia/N**: Fuoco, Suono
@@ -966,6 +966,6 @@ Laydel: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arro
 
 Tàhil: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
-> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare.(Iliade, Omero)
+> Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. (Iliade, Omero)
 
 ---

@@ -15,7 +15,7 @@
 
 You hurl a bubble of acid. Choose one creature within range, or two creatures within range that are within 1 meter of each other. The target must succeed on a Reflex Saving Throw or take 1d6 acid damage.
 
-You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points, and it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
+You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Point, and it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
 **For each Magic Critical Success obtained** in the Magic Check, you hurl one more acid bubble within range.
 
@@ -359,7 +359,7 @@ You place an illusion on a creature or an object you touch so that divination sp
 | **Range**: | Self |
 | **Duration**: | Instantaneous |
 
-By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divination tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The Narrator chooses from the following possible omens:
+By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or employing some other divination tool, you receive an omen from an otherworldly entity about the results of a specific course of action that you plan to take within the next 30 minutes. The Game Master chooses from the following possible omens:
 
 - Weal, for good results
 
@@ -369,7 +369,7 @@ By casting gem-inlaid sticks, rolling dragon bones, laying out ornate cards, or 
 
 - Nothing, for results that aren' \*\*t especially good or bad
 
-The spell doesn' \*\*t take into account every possible circumstance that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally. If you cast the spell two or more times before the new sun has risen, there is a cumulative 25\% chance for each casting after the first that you get a random reading. The Narrator makes this roll in secret.
+The spell doesn' \*\*t take into account every possible circumstance that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally. If you cast the spell two or more times before the new sun has risen, there is a cumulative 25\% chance for each casting after the first that you get a random reading. The Game Master makes this roll in secret.
 
 ### Aura of Purity
 
@@ -393,7 +393,7 @@ A fragrance radiates from you in a 13-meter radius for the duration. While in th
 | **Range**: | Touch |
 | **Duration**: | Instantaneous |
 
-After spending the casting time tracing magical pathways with a precious gem, you touch a Huge or smaller beast or plant. The target must have no Intelligence score or an Intelligence of -3 or less. The target gains an Intelligence of 0. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human' \*\*s. The Narrator will choose appropriate statistics for the type of awakened plant, such as the statistics for the awakened shrub or the awakened tree.
+After spending the casting time tracing magical pathways with a precious gem, you touch a Huge or smaller beast or plant. The target must have no Intelligence score or an Intelligence of -3 or less. The target gains an Intelligence of 0. The target also gains the ability to speak one language you know. If the target is a plant, it gains the ability to move its limbs, roots, vines, creepers, and so forth, and it gains senses similar to a human' \*\*s. The Game Master will choose appropriate statistics for the type of awakened plant, such as the statistics for the awakened shrub or the awakened tree.
 
 The awakened beast or plant is Charmed by you for 30 days or until you or your companions harm it. When the Charmed condition ends, the awakened creature chooses whether to remain friendly to you, based on how you treated it while it was charmed.
 
@@ -408,7 +408,7 @@ The awakened beast or plant is Charmed by you for 30 days or until you or your c
 | **Range**: | 9 meters |
 | **Duration**: | 1 minute |
 
-Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends get a -1 penalty.
+Up to three creatures of your choice that you can see within range must make a Will Saving Throw. Whenever a target that fails this saving throw makes an Attack Roll or a Saving Throw before the spell ends gets a -1 penalty.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can target an additional creature.
 
@@ -452,7 +452,7 @@ A creature you touch must succeed on a Will Saving Throw or be cursed for the du
 - While cursed, the target must make a Will Saving Throw at the start of each of its turns. If it fails, it wastes 1 Action of that turn doing nothing.
 - While the target is cursed, your attacks and spells deal an extra 1d8 Void damage against it.
 
-The remove curse spell (see description) ends this effect. At the Narrator' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Narrator has final judgment on the effect of a curse.
+The remove curse spell (see description) ends this effect. At the Game Master' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Game Master has final judgment on the effect of a curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, you double the duration. If you obtain 3 Critical Successes, the duration is permanent.
 
@@ -525,7 +525,7 @@ You must be a Follower or Devotee to cast this spell.
 
 This spell bestows hope and vitality. Choose up to 6 creatures within range. For the duration, each target has +2 to Will Saving Throws and recovers 1 Hit Point per round.
 
-**If you obtain 2 Magic Critical Success and are a Devotee or Follower of a good Patron**, each round the chosen creatures recover 2 additional Hit Points.
+**If you obtain 2 Magic Critical Successes and are a Devotee or Follower of a good Patron**, each round the chosen creatures recover 2 additional Hit Points.
 
 ### Blight
 
@@ -615,7 +615,7 @@ The next time you hit a creature with a melee weapon attack during the spell' \*
 | **Range**: | Personal (3-meter cone) |
 | **Duration**: | Instantaneous |
 
-You hold your hands closed in front of you, a powerful burning wave generates from each of your fists. Each creature in a 3-meter cone must make a Reflex Saving Throw. A creature takes 1d4 fire damage per Magic Proficiency point, up to a maximum of 5d4, on a failed save, or half as much damage on a successful one. The heat ignites flammable objects in the area that aren' \*\*t being worn or carried.
+You hold your hands closed in front of you, and a powerful burning wave generates from each of your fists. Each creature in a 3-meter cone must make a Reflex Saving Throw. A creature takes 1d4 fire damage per Magic Proficiency point, up to a maximum of 5d4, on a failed save, or half as much damage on a successful one. The heat ignites flammable objects in the area that aren' \*\*t being worn or carried.
 
 **For each Critical Magic Success** obtained in the Magic Check, the damage increases by 2d4.
 
@@ -630,7 +630,7 @@ You hold your hands closed in front of you, a powerful burning wave generates fr
 | **Range**: | 36 meters |
 | **Duration**: | Concentration, maximum 10 minutes |
 
-A storm cloud appears in the shape of a cylinder that is 3 meters tall with a 18-meter radius, centered on a point you can see 30 meters above you. The spell fails automatically if you can' \*\*t see a point in the air where the storm cloud could appear (for example, if you' \*\*re in a room that can' \*\*t accommodate the cloud). When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 1 meter of that point must make a Reflex Saving Throw. A creature takes 3d10 lightning damage on a failed Saving Throw, or half as much damage on a successful one. On each of your turns until the spell ends, you can use two Actions to call down lightning in this way again, targeting the same point or a different one.
+A storm cloud appears in the shape of a cylinder that is 3 meters tall with an 18-meter radius, centered on a point you can see 30 meters above you. The spell fails automatically if you can' \*\*t see a point in the air where the storm cloud could appear (for example, if you' \*\*re in a room that can' \*\*t accommodate the cloud). When you cast the spell, choose a point you can see within range. A bolt of lightning flashes down from the cloud to that point. Each creature within 1 meter of that point must make a Reflex Saving Throw. A creature takes 3d10 lightning damage on a failed Saving Throw, or half as much damage on a successful one. On each of your turns until the spell ends, you can use two Actions to call down lightning in this way again, targeting the same point or a different one.
 
 If you are outdoors in stormy conditions when you cast this spell, the spell gives you control over the existing storm instead of creating a new one. Under such conditions, the spell' \*\*s damage increases by 1d10.
 
@@ -649,7 +649,7 @@ You attempt to suppress strong emotions in a group of people. Each humanoid in a
 
 *Soothe*. You can suppress any effect causing the target to be Charmed or frightened. When this spell ends, any suppressed effects resume, provided that their duration has not expired in the meantime.
 
-*Indifference*. You can make a target indifferent about a creature of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it sees any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the Narrator determines otherwise.
+*Indifference*. You can make a target indifferent about a creature of your choice that it is hostile toward. This indifference ends if the target is attacked or harmed by a spell or if it sees any of its friends being harmed. When the spell ends, the creature becomes hostile again, unless the Game Master determines otherwise.
 
 ### Catnap
 
@@ -677,7 +677,7 @@ This hour of rest is equivalent to 8 hours of rest for the purpose of recovering
 
 You invoke Cattalm' \*\*s wrath upon your adversary. The target creature takes 4d6 fire damage and must make a Will Saving Throw or suffer a -1d6 penalty to their next skill check, Attack Roll, or Saving Throw, and the caster increases their Fate Points pool by one.
 
-**For every two Magic Critical Success obtained** in the Magic Check, you can affect another creature.
+**For every two Magic Critical Successes obtained** in the Magic Check, you can affect another creature.
 
 ### Cattalm' \*\*s Slap
 
@@ -705,7 +705,7 @@ You create a bolt of lightning that strikes a target of your choice within range
 
 **For each Magic Critical Success** obtained in the Magic Check, the bolt extends to three additional targets.
 
-**Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Saving Throw Critical Success/Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Charm Person
 
@@ -731,7 +731,7 @@ You attempt to charm a humanoid you can see within range. It must make a Will Sa
 
 You create a ghostly, skeletal hand in the space of a creature within range. Make a ranged spell attack against the creature to assail it with the chill of death. On a hit, the target takes 1d8 necrotic damage, and it can' \*\*t regain hit points until the start of your next turn. Until then, the hand clings to the target. If you hit an undead target, it also has -1d6 to Attack Rolls against you until the end of its next turn.
 
-You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
+You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Point; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
 **For every two Magic Critical Successes obtained** in the Magic Check, you create an additional skeletal hand that must attack a different creature within range.
 
@@ -748,7 +748,7 @@ A sphere of negative energy with an 18-meter radius erupts from a point within r
 
 **For each Magic Critical Success** obtained in the Magic Check the damage increases by 4d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage doubles; on a Critical Success, the damage is reduced to one quarter.
 
 ### Circle of Invisibility
 
@@ -841,7 +841,7 @@ If the Saving Throw succeeds, there is no effect; if it fails, the creature is c
 
 You speak a one-word command to a creature you can see within range and make a gesture. The target must succeed on a Will Saving Throw or follow the command on its next turn. The spell has no effect if the target is undead, if it doesn' \*\*t understand your language, or if your command would cause it harm.
 
-Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the Narrator determines how the target behaves. If the target can' \*\*t follow your command, the spell ends.
+Some typical commands and their effects follow. You might issue a command other than one described here. If you do so, the Game Master determines how the target behaves. If the target can' \*\*t follow your command, the spell ends.
 
 - *Approach*. The target moves toward you by the shortest and most direct route, ending its turn if it moves within 1 meter of you.
 - *Halt*. The target doesn' \*\*t move and takes no actions. A flying creature stays aloft, provided that it' \*\*s able to do so. If it must move to stay aloft, it flies the minimum distance needed to remain in the air.
@@ -860,9 +860,9 @@ Some typical commands and their effects follow. You might issue a command other 
 | **Range**: | Self |
 | **Duration**: | 1 minute |
 
-You communicate with your Patron and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren' \*\*t necessarily omniscient, so you might receive an *unclear* as an answer if a question pertains to information that lies beyond the Patron' \*\*s knowledge. In a case where a one-word answer could be misleading or contrary to the Patron' \*\*s interests, the Narrator might offer a short phrase as an answer instead.
+You communicate with your Patron and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question. Divine beings aren' \*\*t necessarily omniscient, so you might receive an *unclear* as an answer if a question pertains to information that lies beyond the Patron' \*\*s knowledge. In a case where a one-word answer could be misleading or contrary to the Patron' \*\*s interests, the Game Master might offer a short phrase as an answer instead.
 
-If you cast the spell two or more times before the next dawn, there is a cumulative 25\% chance for each casting after the first that you get no answer. The Narrator makes this roll in secret.
+If you cast the spell two or more times before the next dawn, there is a cumulative 25\% chance for each casting after the first that you get no answer. The Game Master makes this roll in secret.
 
 **NOTE:** you must be at least a Follower to be able to cast this spell.
 
@@ -895,13 +895,13 @@ You instantly gain knowledge of up to three facts of your choice about any of th
 | **Level**: | 1, Common |
 | **Time**: | 2 Actions |
 | **Range**: | Self |
-| **Duration**: | 1 hour |
+| **Duration**: | 1 hour per Magic Proficiency |
 
 For the duration, you understand the literal meaning of any spoken language that you hear.
 
 **For each Magic Critical Success** obtained in the Magic Check the duration doubles. With three Critical Successes you are also able to read.
 
-**NOTE**: if you are a Devotee of Nethergal, the spell lasts 2 hours.
+**NOTE**: if you are a Devotee of Nethergal, the spell lasts 2 hours per Magic Proficiency.
 
 ### Comprehend Writings
 
@@ -953,11 +953,11 @@ You extract the acidic sap from the currants and project a line of acid spray 9 
 | **Range**: | Self (18-meter cone) |
 | **Duration**: | Instantaneous |
 
-A blast of cold air erupts from your hands. Each creature in a 18-meter cone must make a Fortitude Saving Throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
+A blast of cold air erupts from your hands. Each creature in an 18-meter cone must make a Fortitude Saving Throw. A creature takes 8d8 cold damage on a failed save, or half as much damage on a successful one. A creature killed by this spell becomes a frozen statue until it thaws.
 
 **For each Magic Critical Success** obtained in the Magic Check the damage increases by 4d8.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage doubles; on a Critical Success, the damage is reduced to one quarter.
 
 ### Confusion
 
@@ -1049,7 +1049,7 @@ Each Magic List can only summon its specific Elemental. The elemental is friendl
 | **Range**: | 9 meters |
 | **Duration**: | 1 hour |
 
-You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Narrator might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
+You summon a spirit that takes the form of an unusually intelligent, strong, and loyal mount, establishing a lasting bond with it. Appearing in an unoccupied space within range, the mount takes a form of your choice, such as a war Saurovall, a pony Saurovall, a camel, an elk, or a mastiff (the Game Master might allow you to summon other animals as mounts as well). The mount has the statistics of the chosen form, although it is of the celestial, fey, or fiend type (your choice) instead of its normal type. Additionally, if your mount has Intelligence -3 or less, its Intelligence becomes -2, and it gains the ability to understand one language of your choice that you can speak. Your mount serves as a mount both in combat and out of it, and you have an instinctive bond with it that allows you to fight as a single unit.
 
 When the mount drops to 0 Hit Points, it disappears, leaving behind no physical form. You can dismiss the mount at any time as an Action, causing it to disappear. In either case, casting this spell again summons the same mount, restored to its maximum Hit Points.
 
@@ -1150,7 +1150,7 @@ When a creature enters the vortex for the first time on a round or starts its tu
 | **Range**: | Self (1.5 kilometer radius) |
 | **Duration**: | Concentration, up to 8 hours |
 
-For the duration, you take control of the weather within 7.5 kilometers of you. You must be outdoors to cast this spell. Moving to a place where you don' \*\*t have a clear path to the sky ends the spell early. When you cast this spell, you change the current weather conditions, which are determined by the Narrator based on season and latitude. You can modify the precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once the conditions have taken effect, you can change them again. When the spell ends, the weather gradually returns to normal.
+For the duration, you take control of the weather within 7.5 kilometers of you. You must be outdoors to cast this spell. Moving to a place where you don' \*\*t have a clear path to the sky ends the spell early. When you cast this spell, you change the current weather conditions, which are determined by the Game Master based on season and latitude. You can modify the precipitation, temperature, and wind. It takes 1d4 × 10 minutes for the new conditions to take effect. Once the conditions have taken effect, you can change them again. When the spell ends, the weather gradually returns to normal.
 
 When you change the weather conditions, find the current conditions on the following table and change them by one stage, up or down. When changing wind, you can change its direction as well.
 
@@ -1284,7 +1284,7 @@ The water is potable and quenches thirst if consumed within one round of creatio
 | **Range**: | 3 meters |
 | **Duration**: | Instantaneous |
 
-You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control (the Narrator has the game statistics for these creatures). During your turn, with two Actions, you can mentally command any creature you animated with this spell if the creature is within 36 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a specific chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow that order until its task is complete. The creature is under your control for 24 hours, after which it stops obeying commands you issue. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
+You can cast this spell only at night. Choose up to three corpses of Medium or Small humanoids within range. Each corpse becomes a ghoul under your control (the Game Master has the game statistics for these creatures). During your turn, with two Actions, you can mentally command any creature you animated with this spell if the creature is within 36 meters of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). You decide what action the creature will take and where it will move during its next turn, or you can issue a general command, such as to guard a specific chamber or corridor. If you issue no commands, the creature only defends itself against hostile creatures. Once given an order, the creature continues to follow that order until its task is complete. The creature is under your control for 24 hours, after which it stops obeying commands you issue. To maintain control of the creature for another 24 hours, you must cast this spell on the creature before the current 24-hour period ends. This use of the spell reasserts your control over up to three creatures you have animated with this spell, rather than animating new ones.
 
 **If you get a Magic Critical** in the Magic Check, you can reanimate or reassert control over four ghouls. With two Criticals, you can animate or reassert control over five ghouls or two ghasts or wights. With three Criticals, you can animate or reassert control over six ghouls, three ghasts or wights, or two mummies.
 
@@ -1403,7 +1403,7 @@ If any of this spell' \*\*s area overlaps with an area of light created by a spe
 | **Level**: | 2, Common |
 | **Time**: | 2 Actions |
 | **Range**: | Touch |
-| **Duration**: | 1 hour of real game time |
+| **Duration**: | 1 hour per Magic Proficiency of real game time |
 
 A willing creature you touch gains the ability to see in the dark. For the duration of the spell, that creature has darkvision out to a range of 9 meters.
 
@@ -1618,11 +1618,11 @@ A permanent magical effect is temporarily suppressed for 10 minutes.
 | **Range**: | Self |
 | **Duration**: | Instantaneous |
 
-Your magic and an offering put you in contact with a Patron or a Patron' \*\*s servant. You can ask a single question concerning a specific goal, event, or activity to occur within 7 days. The Narrator offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
+Your magic and an offering put you in contact with a Patron or a Patron' \*\*s servant. You can ask a single question concerning a specific goal, event, or activity to occur within 7 days. The Game Master offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
 
 The spell doesn' \*\*t take into account any possible circumstances that might change the outcome, such as the casting of additional spells or the loss or arrival of an ally.
 
-If you cast the spell two or more times before finishing at least an 8-hour rest, there is a cumulative 25\% chance for each casting after the first that you get a false reading. The Narrator makes this roll in secret.
+If you cast the spell two or more times before finishing at least an 8-hour rest, there is a cumulative 25\% chance for each casting after the first that you get a false reading. The Game Master makes this roll in secret.
 
 **NOTE**: The spell must be cast by at least one Follower
 
@@ -1760,7 +1760,7 @@ When you cast this spell and at the end of each round you spend concentrating on
 
 This spell can have additional effects depending on the terrain in the area, as determined by the GM. Fissures. At the start of the round after you cast the spell, fissures open throughout the spell' \*\*s area. A total of 1d6 fissures open in locations chosen by the GM. Each is 1d10 × 3 meters deep, 3 meters wide, and extends from one edge of the spell' \*\*s area to the opposite side. A creature standing on a spot where a fissure opens must succeed on a Reflex Saving Throw or fall in. A creature that successfully saves moves aside as the fissure opens. A fissure that opens beneath a structure causes it to automatically collapse (see below).
 
-Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each round until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the height of the structure must make a Reflex Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble. It must then use 2 actions succeeding an Athletics check DC 20 to free itself. The GM might adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes only half the damage and doesn' \*\*t fall prone or become buried.
+Structures. The tremor deals 50 bludgeoning damage to any structure in contact with the ground in the area when you cast the spell and at the end of each round until the spell ends. If a structure drops to 0 hit points, it collapses and potentially damages nearby creatures. A creature within half the height of the structure must make a Reflex Saving Throw. On a failed save, the creature takes 5d6 bludgeoning damage, is knocked prone, and is buried in the rubble. It must then use 2 Actions, succeeding on an Athletics check (DC 20), to free itself. The GM might adjust the DC higher or lower, depending on the nature of the rubble. On a successful save, the creature takes only half the damage and doesn' \*\*t fall prone or become buried.
 
 ### Efrem' \*\*s Blessings
 
@@ -1825,7 +1825,7 @@ You cast the spell while touching a weapon, and it acquires powers based on the 
 If Elemental Weapon is cast using the *Air* List, the weapon becomes charged with electricity; with *Water*, the weapon becomes extremely cold; with *Earth*, acid flows from the weapon; with *Fire*, it becomes flaming. Whatever List is used, the effect makes the weapon deal an additional 1d6 damage of the indicated type per successful hit.
 A weapon can only have one Elemental Weapon effect active at a time.
 
-**For every two Magic Critical Success obtained** in the Magic Check, the damage increases by +1d6.
+**For every two Magic Critical Successes obtained** in the Magic Check, the damage increases by +1d6.
 
 ### Enhanced Ability
 
@@ -1902,7 +1902,7 @@ The spell ends if you are incapacitated or can no longer speak.
 
 You step into the border regions of the Ethereal Plane, in the area where it overlaps with your current plane. You remain in the Ethereal Border for the duration or until you use an Action to dismiss the spell. If you move up or down, the cost of movement is doubled; if you move horizontally, the movement is doubled per Movement Action. You can see and hear the plane you originated from, but everything there looks gray, and you can' \*\*t see more than 18 meters away.
 
-While on the Ethereal Plane, you can only interact with other creatures on that plane. Creatures that aren' \*\*t on the Ethereal Plane can' \*\*t perceive you nor interact with you, unless a special ability or magic gives them the ability to do so.
+While on the Ethereal Plane, you can only interact with other creatures on that plane. Creatures that aren' \*\*t on the Ethereal Plane can' \*\*t perceive you or interact with you, unless a special ability or magic gives them the ability to do so.
 
 You ignore all objects and effects not on the Ethereal Plane, allowing you to move through objects you perceive on the plane you originated from. When the spell ends, you immediately return to the plane you originated from in the spot you currently occupy. If you occupy the same space as a solid object or creature when this happens, you are immediately moved to the nearest unoccupied space that you can occupy and take 6 force damage for each meter you are moved (or fraction thereof). This spell has no effect if you cast it while you are already on the Ethereal Plane or on a plane that doesn' \*\*t border it, such as one of the Outer Planes.
 
@@ -2141,7 +2141,7 @@ A storm made up of sheets of roaring flame appears at a point of your choice wit
 
 **For each Magic Critical Success** obtained in the Magic Check, you increase the area by one 3-meter cube.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Fireball
 
@@ -2188,7 +2188,7 @@ A vertical column of divine fire roars down from the heavens and strikes at a lo
 
 **For each Magic Critical Success** obtained in the Magic Check the Light damage increases by 4d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage doubles; in case of Critical Success, the damage is reduced to one quarter.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage doubles; on a Critical Success, the damage is reduced to one quarter.
 
 ### Flamethrower
 
@@ -2263,13 +2263,13 @@ This spell creates a horizontal, slightly concave, circular plane of force, 1 me
 | **Level**: | 3, Common |
 | **Time**: | 2 Actions |
 | **Range**: | Touch |
-| **Duration**: | 10 minutes |
+| **Duration**: | 10 minutes per Magic Proficiency, maximum 1 hour |
 
 You cast the spell by touching a willing creature. For the duration of the spell, the target gains a flying speed of 18 meters. When the spell ends, if the target is still aloft, it falls, unless it can stop the fall.
 
-Casting a spell while flying is more complex, you are Distracted if you fail a Fly check at DC 11.
+Casting a spell while flying is more complex; you are Distracted if you fail a Fly check at DC 11.
 
-**For each Magic Critical Success** obtained in the Magic Check, you can target an additional creature or increase the duration by 10 minutes.
+**For each Magic Critical Success** obtained in the Magic Check, you can target an additional creature or increase the duration by 10 minutes, up to a maximum of 1 hour.
 
 ### Fog Cloud
 
@@ -2359,7 +2359,7 @@ If you wish, after completing the spell, you can refrain from firing the globe. 
 
 **For each Critical Magical Success** obtained in the Magic Check, the damage increases by 5d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved.
 
 ### Gaseous Form
 
@@ -2539,7 +2539,7 @@ You can blind or deafen an enemy. Choose one creature that you can see within ra
 
 **For each Magic Critical Success** obtained in the Magic Check you can target an additional creature.
 
-**Critical Failure Saving Throw**: in case of Critical Failure, the effect is permanent.
+**Critical Failure Saving Throw**: on a Critical Failure, the effect is permanent.
 
 ### Greater Dispel Magic
 
@@ -2599,8 +2599,6 @@ You imbue a creature you touch with positive healing energy to dispel a debilita
 - You restore 2 points to one of the target' \*\*s statistics. You recover 1 point if the loss was permanent.
 - Maximum Hit Points return to their normal value, but current Hit Points do not increase.
 - You are able to reduce Fatigue conditions by two degrees.
-
-It is not possible to benefit from more than one Greater Restoration per day.
 
 In case of magical conditions, perform a counterspell check (p. ) against the condition' \*\*s DC.
 
@@ -2689,7 +2687,7 @@ You infuse the area surrounding a point you touch with the power of your Patron.
 
 *First*, celestials, elementals, fey, fiends, and undead cannot enter the area, nor can such a creature charm, frighten, or possess others within it. Any creature charmed, frightened, or possessed by such a creature is no longer charmed, frightened, or possessed upon entering this area. You can exclude one or more of these types of creatures from this effect.
 
-*Second*, you can bind an additional effect to the area. Choose the effect from the list below, or choose one presented to you by the Narrator. Some of these effects apply to creatures in the area; you can decide whether the effects apply to all creatures, Devotees or Followers of a specific Patron, or creatures of a specific type, such as orcs or trolls. When a creature subject to the spell enters this area for the first time during a round or begins its turn here, it must make a Will Saving Throw. If it succeeds, the creature ignores the additional effect until it leaves the area.
+*Second*, you can bind an additional effect to the area. Choose the effect from the list below, or choose one presented to you by the Game Master. Some of these effects apply to creatures in the area; you can decide whether the effects apply to all creatures, Devotees or Followers of a specific Patron, or creatures of a specific type, such as orcs or trolls. When a creature subject to the spell enters this area for the first time during a round or begins its turn here, it must make a Will Saving Throw. If it succeeds, the creature ignores the additional effect until it leaves the area.
 
 - *Courage*. Affected creatures cannot be frightened while remaining in this area. Extradimensional Interference. Affected creatures cannot move or travel using teleportation or by other extradimensional or interplanar means.
 - *Tongues*. Affected creatures can communicate with any other creature in the area, even if they don' \*\*t share a common language.
@@ -2712,7 +2710,7 @@ You infuse the area surrounding a point you touch with the power of your Patron.
 
 You make natural terrain in a 150-meter cube within range look, sound, and smell like some other sort of natural terrain. Thus, open fields or a road can be made to resemble a swamp, hill, crevasse, or some other difficult or impassable terrain. A pond can be made to seem like a grassy meadow, a precipice like a gentle slope, or a rock-strewn gully like a wide and smooth road. Manufactured structures, equipment, and creatures within the area aren' \*\*t changed in appearance.
 
-The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn' \*\*t obvious by touch, a creature carefully examining the illusion can attempt an Awareness check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is, sees it as a vague image superimposed on the terrain.
+The tactile characteristics of the terrain are unchanged, so creatures entering the area are likely to see through the illusion. If the difference isn' \*\*t obvious by touch, a creature carefully examining the illusion can attempt an Awareness check against your spell save DC to disbelieve it. A creature who discerns the illusion for what it is sees it as a vague image superimposed on the terrain.
 
 ### Harm
 
@@ -2736,7 +2734,7 @@ You unleash a virulent disease on a creature within range that you can see. The 
 | **Range**: | 9 meters |
 | **Duration**: | 1 minute |
 
-You accelerate the metabolism of up to 2 plus the number of times you' \*\*ve taken Magic Adept creatures of your choice within a 3-meter radius at range. Until the end of the spell, the targets can perform an additional Attack Action, without multiattack penalties, or a Movement Action. The additional Action can be part of another Action.
+You accelerate the metabolism of up to 2 plus the number of times you' \*\*ve taken Magic Adept, creatures of your choice within a 3-meter radius at range. Until the end of the spell, the targets can perform an additional Attack Action, without multiattack penalties, or a Movement Action. The additional Action can be part of another Action.
 
 This spell counters and is countered by Slow.
 
@@ -2772,7 +2770,7 @@ Choose a creature within range that you can see. A surge of positive healing ene
 | **Range**: | 18 meters |
 | **Duration**: | 1 minute, Concentration |
 
-Choose a manufactured metal object, such as a metal weapon or a medium or heavy metal armor, within range and that you can see. You cause the object to glow red-hot with heat. Any creature in physical contact with the object takes 1d8 fire damage when you cast this spell. While maintaining Concentration, you inflict this damage again in the round.
+Choose a manufactured metal object, such as a metal weapon or medium or heavy metal armor, within range and that you can see. You cause the object to glow red-hot with heat. Any creature in physical contact with the object takes 1d8 fire damage when you cast this spell. While maintaining Concentration, you inflict this damage again in the round.
 
 If a creature is holding or wearing the object and takes damage from it, the creature must succeed on a Fortitude Saving Throw or drop the object if it can. If it doesn' \*\*t drop the object, it has -2 to Attack Rolls and basic skill checks until the start of its next turn. If the object is more than 18 meters away from the caster, the spell doesn' \*\*t end but the object stops being red-hot.
 
@@ -2789,7 +2787,7 @@ If a creature is holding or wearing the object and takes damage from it, the cre
 
 You bring forth a great feast, including magnificent food and drink. The feast takes 1 hour to consume and disappears at the end of that time, but the beneficial effects don' \*\*t set in until the hour is over. Up to twelve creatures can partake of the feast. A creature that partakes of the feast gains several benefits. The creature is cured of all diseases and poisons, becomes immune to poison and being frightened, gets +1d6 on all Will and Fortitude Saving Throws, and gains 2d10 temporary Hit Points; these benefits last for 24 hours.
 
-**In case of two Magic Critical Success obtained** in the Magic Check, the bowl is not consumed.
+**In case of two Magic Critical Successes obtained** in the Magic Check, the bowl is not consumed.
 
 ### Heroism
 
@@ -2876,7 +2874,7 @@ A hail of rock-hard ice pounds to the ground in a 6-meter-radius, 12-meter-high 
 
 **For each Magic Critical Success** obtained in the Magic Check, the bludgeoning damage increases by 2d8 and the cold damage by 2d6.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Identify
 
@@ -2961,7 +2959,7 @@ At the start of each of your turns, the cloud moves 3 meters directly away from 
 | **Range**: | Touch |
 | **Duration**: | Instantaneous |
 
-Make a melee spell attack against a creature within reach. On a hit, the target takes 3d10 necrotic damage, Fortitude Saving Throw for half damage.
+Make a melee spell attack against a creature within reach. On a hit, the target takes 3d10 necrotic damage, with a Fortitude Saving Throw for half damage.
 
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 2d8.
 
@@ -3068,7 +3066,7 @@ Choose an object within range that you can see. The object can be a door, box, s
 
 A target that is closed by a common lock or that is blocked or barred becomes open, unlocked, or unbarred. If the object has multiple locks, only one of them is opened.
 
-If you choose a target that is held shut with Arcane Lock (or similar), perform a counterspell check between the two DCs. If Knock is more effective than Arcane Lock, then the closing spell is canceled; otherwise, Knock has had no effect.
+If you choose a target that is held shut with Arcane Lock (or similar), perform a counterspell check between the two DCs. If Knock is more effective than Arcane Lock, then the closing spell is canceled; otherwise, Knock has no effect.
 
 When you cast this spell, a loud knock, audible from up to 90 meters away, emanates from the target object.
 
@@ -3226,7 +3224,7 @@ A creature you touch must succeed on a Will Saving Throw or be cursed for the du
 - While cursed, the target has -2 to Attack Rolls against you.
 - While cursed, the target must make a Will Saving Throw at the start of each of its turns. If it fails, it wastes 1 Action of that turn doing nothing.
 
-The Remove Curse spell ends this effect. At the Narrator' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Narrator has final judgment on the effect of a curse.
+The Remove Curse spell ends this effect. At the Game Master' \*\*s discretion, you may choose a curse with a different effect, but it should not be more powerful than those described above. The Game Master has final judgment on the effect of a curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, choose another creature within 6 meters of the first.
 
@@ -3319,7 +3317,7 @@ The lightning ignites flammable objects in the area that aren' \*\*t being worn 
 
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 4d6.
 
-**Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Saving Throw Critical Success/Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Limited Wish
 
@@ -3339,7 +3337,7 @@ Alternatively, you can create one of the following effects of your choice:
 - You grant up to 5 creatures that you can see resistance to a damage type of your choice for 8 hours.
 - You grant up to 4 creatures that you can see immunity to a single spell or other magical effect for 8 hours. For example, you could make yourself and all your companions immune to a lich' \*\*s life drain attack.
 
-State your wish to the Narrator as precisely as possible. The Game Master has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. The spell could simply fail, the effect you desire could only be partly achieved, or you could suffer some unforeseen consequence as a result of how you worded the wish.
+State your wish to the Game Master as precisely as possible. The Game Master has great latitude in ruling what occurs in such an instance; the greater the wish, the greater the likelihood that something goes wrong. The spell could simply fail, the effect you desire could only be partly achieved, or you could suffer some unforeseen consequence as a result of how you worded the wish.
 
 ### Ljust' \*\*s Tear
 
@@ -3350,7 +3348,7 @@ State your wish to the Narrator as precisely as possible. The Game Master has gr
 | **Range**: | Self |
 | **Duration**: | 10 rounds |
 
-The caster imbues a small object with magic that begins to glow with light. The light illuminates its square and an additional meter around it, beyond that it doesn' \*\*t generate dim light. The duration of the spell is 10 rounds. The caster can throw the object within 18 meters and must remain within this distance. It is not possible to cast the spell more times per day than the number of Fate Points you possess.
+The caster imbues a small object with magic that begins to glow with light. The light illuminates its square and an additional meter around it; beyond that, it doesn' \*\*t generate dim light. The duration of the spell is 10 rounds. The caster can throw the object within 18 meters and must remain within this distance. It is not possible to cast the spell more times per day than the number of Fate Points you possess.
 
 ### Locate Animals or Plants
 
@@ -3538,8 +3536,6 @@ Beyond the portal is a magnificent foyer with numerous chambers beyond. The atmo
 
 **NOTE**: The spell cast for a year every day in the same place becomes permanent.
 
-**For each Magic Critical Success** obtained in the Magic Check, the duration doubles or you remove one month from the count to make it permanent.
-
 ### Major Image
 
 | **List**: | Illusion |
@@ -3657,7 +3653,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 4 meteors of fire crash to the ground at four different points within range that you can see. Each meteor hits within a 3-meter radius. Each creature in the area must make a Reflex Saving Throw. A creature takes 20d6 fire damage and 20d6 bludgeoning damage on a failed save, or half of
 these damages if it succeeds. A creature caught in the area of more than one meteor is affected by only one.
 
-**Critical Success/Failure Saving Throw**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved.
+**Critical Success/Failure Saving Throw**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved.
 
 **Every 3 criticals obtained** in the Magic Check, you hurl another meteor.
 
@@ -3753,7 +3749,7 @@ The modified memories take hold when the spell ends.
 
 A modified memory doesn' \*\*t necessarily affect how a creature behaves, particularly if the memories contradict the creature' \*\*s natural inclinations, Traits, or beliefs. An illogical modified memory, such as implanting a memory of how much the creature enjoyed dousing itself in acid, is dismissed, like a bad dream.
 
-The Narrator may deem a modified memory too nonsensical to affect a creature in any significant way. A remove curse or greater restoration spell cast on the target restores the creature' \*\*s true memories.
+The Game Master may deem a modified memory too nonsensical to affect a creature in any significant way. A remove curse or greater restoration spell cast on the target restores the creature' \*\*s true memories.
 
 **With one Critical Magic Success** obtained in the Magic Check, you can alter the memories of a target regarding an event that occurred up to 7 days ago. With two, up to 30 days ago; with three, up to 1 year ago. With 4 Critical Magic Successes, at any point in the creature' \*\*s past.
 
@@ -3788,7 +3784,7 @@ For the duration, you hide the target that you touch from divination magic. The 
 | **Level**: | 2, Common |
 | **Time**: | 2 Actions |
 | **Range**: | Touch |
-| **Duration**: | 1 hour |
+| **Duration**: | 1 hour per Magic Proficiency |
 
 For the duration of the spell, the touched creature leaves no tracks on the ground.
 
@@ -3803,7 +3799,7 @@ For the duration of the spell, the touched creature leaves no tracks on the grou
 | **Range**: | 9 m |
 | **Duration**: | 1 hour |
 
-For the duration of the spell, a passage appears at a point within range that you can see, on a wooden, wall or stone surface (such as a wall, ceiling, or floor) of your choice. Choose the opening' \*\*s dimensions: up to 3 meters wide, 6 meters tall, and 20 meters deep. The passage doesn' \*\*t create instability in the structure surrounding it.
+For the duration of the spell, a passage appears at a point within range that you can see, on a wooden, wall, or stone surface (such as a wall, ceiling, or floor) of your choice. Choose the opening' \*\*s dimensions: up to 3 meters wide, 6 meters tall, and 20 meters deep. The passage doesn' \*\*t create instability in the structure surrounding it.
 
 When the opening disappears, any creature or object still in the passage created by the spell is safely ejected to the nearest unoccupied space next to the surface where you cast the spell.
 
@@ -3833,11 +3829,11 @@ On a failed saving throw, the target is frightened for 1 minute and takes 4d10 d
 | **Level**: | 3, Common |
 | **Time**: | 1 minute |
 | **Range**: | 9 meters |
-| **Duration**: | 1 hour |
+| **Duration**: | 1 hour per Magic Proficiency, maximum 24 hours |
 
 A Large quasi-real, Saurovall-like creature appears on the ground in an unoccupied space of your choice within range. You decide the creature' \*\*s appearance, and it appears with a saddle, bit, and bridle. Any equipment created by the spell vanishes in a puff of smoke if it is carried more than 3 meters away from the steed. For the duration, you or a creature of your choice can ride the steed. The creature uses the statistics for a Riding Saurovall, except it has a speed of 30 meters and can travel 15 kilometers in an hour, or 20 kilometers at a fast pace. When the spell ends, the steed gradually fades, giving the rider 1 minute to dismount. The spell ends if you use an Action to dismiss it or if the steed takes damage.
 
-**For each Magic Critical Success** obtained in the Magic Check, the duration increases by one hour or you create one additional mount.
+**For each Magic Critical Success** obtained in the Magic Check, the duration increases by one hour, up to a maximum of 24 hours, or you create one additional mount.
 
 ### Piercing Tendrils
 
@@ -3851,7 +3847,7 @@ A Large quasi-real, Saurovall-like creature appears on the ground in an unoccupi
 You unleash 1 sharp and thorny tendril from your palm. Make a ranged Attack Roll with spells against the designated target.
 If the Attack Roll succeeds, the target takes 1d4 Hit Points of piercing damage.
 
-Each additional Action you dedicate to casting the spell, you can choose to manifest an additional tendril, each one requiring a successful Attack Roll, or increase the range of a created tendril by 9 meters.
+For each additional Action you dedicate to casting the spell, you can choose to manifest an additional tendril, each one requiring a successful Attack Roll, or increase the range of a created tendril by 9 meters.
 
 If you spend 1 Magic Point in casting the spell, the tendril becomes poisonous and if it hits causes 2 additional Poison damage.
 
@@ -3885,7 +3881,7 @@ If you cast this spell over 8 hours, you enrich the land. All plants in a 750-me
 
 You extend your hand toward a creature within range that you can see, and project a puff of noxious gas from your palm. The creature must succeed on a Fortitude Saving Throw or take 1d12 poison damage.
 
-You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
+You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Point; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
 **For every two Magic Critical Successes obtained** in the Magic Check, you affect another creature within range.
 
@@ -3933,7 +3929,7 @@ You speak a word of power that can overwhelm the mind of one creature you can se
 | **Level**: | 3, Uncommon |
 | **Time**: | 2 Actions |
 | **Range**: | Self |
-| **Duration**: | 1 round per level, Concentration |
+| **Duration**: | 3 rounds + 1 round per 3 Magic Proficiency, maximum 10 rounds, Concentration |
 
 You intone a chant to your Patron and invoke their blessing. Creatures within 9 meters of you gain a +1 to Attack Rolls and Saving Throws for each trait in common with the Patron.
 
@@ -4054,7 +4050,7 @@ A flame appears in your hand. The flame remains there for the duration of the sp
 
 You can also use the flame to attack, though doing so ends the spell. When you cast this spell, or as an Action on a subsequent turn, you can hurl the flame at a creature within 9 m of you. Make a ranged spell attack. On a hit, the target takes 1d8 fire damage.
 
-The spell' \*\*s damage increases by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points. You also need to have taken Magic Adept a number of times equal to the enhancements you want to apply.
+The spell' \*\*s damage increases by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Point. You also need to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can attack one additional creature without ending the spell.
 
@@ -4192,7 +4188,7 @@ You touch a creature to stimulate its natural healing ability. The target regain
 
 You touch a dead humanoid or a piece of a dead humanoid. Provided that the creature has been dead no longer than 10 days, the spell forms a new adult body for it and then calls the soul to enter that body. If the target' \*\*s soul isn' \*\*t free or willing to do so, the spell fails.
 
-The magic fashions a new body, which likely causes a change in the creature' \*\*s race. The Narrator rolls a d10 and consults the following table to determine what form the creature takes when restored to life, or the Narrator may choose the form.
+The magic fashions a new body, which likely causes a change in the creature' \*\*s race. The Game Master rolls a d10 and consults the following table to determine what form the creature takes when restored to life, or the Game Master may choose the form.
 
 	
 
@@ -4225,7 +4221,7 @@ It is not possible to reincarnate as a gnome unless you were previously a gnome.
 | **Range**: | Touch |
 | **Duration**: | Instantaneous |
 
-If the object or person was cursed through the Bestow Curse spell, or if the Narrator decides that the object has a particular curse, then the DC of the caster of Remove Curse must be higher than that of the Curse.
+If the object or person was cursed through the Bestow Curse spell, or if the Game Master decides that the object has a particular curse, then the DC of the caster of Remove Curse must be higher than that of the Curse.
 
 **For each Critical Magical Success** obtained in the Magic Check, you can heal one more person or consider a +4 to overcome the DC of the curse.
 
@@ -4344,7 +4340,7 @@ A creature dead within the last minute and that you are in contact with returns 
 
 The creature brought back to life must make a Fortitude Saving Throw at DC 15 or, due to the trauma suffered, does not come back to life; if it comes back to life, it is Fatigued 3.
 
-**NOTE**: at the Narrator' \*\*s discretion, this might be the only spell granted to bring a creature back to life, otherwise the rule that only a Patron can bring back to life applies.
+**NOTE**: at the Game Master' \*\*s discretion, this might be the only spell granted to bring a creature back to life, otherwise the rule that only a Patron can bring back to life applies.
 
 ### Rope Trick
 
@@ -4376,7 +4372,7 @@ At the end of the spell, the rope used disappears.
 
 Flame-like radiance descends on a creature that you can see within range. The target must succeed on a Reflex Saving Throw or take 1d8 Light damage. The target gains no benefit from cover for this Saving Throw.
 
-You can increase the spell' \*\*s damage by 1d8 when the sum of the Traits in common with the Patron reaches 5, 11, and 17, but it costs 2 Actions to cast it empowered and 1 Magic Points.
+You can increase the spell' \*\*s damage by 1d8 when the sum of the Traits in common with the Patron reaches 5, 11, and 17, but it costs 2 Actions to cast it empowered and 1 Magic Point.
 
 **For each Magic Critical Success obtained** in the Magic Check, one more flame descends that must hit a different target within range.
 
@@ -4457,7 +4453,7 @@ You touch a target, which takes 1d6 Fire damage. Each round it must make a Forti
 | **Range**: | Touch |
 | **Duration**: | Instantaneous |
 
-You hide a chest and all its contents on the Ethereal Plane. When you cast this spell, you must be touching both the chest and the miniature replica that serves as a material component. The chest can contain up to 0.25 cubic meters of non-living material (1 x meter x 50 centimeters x 50 centimeters). While the chest remains on the Ethereal Plane, you can use an Action to touch the replica and recall the chest. It reappears in an unoccupied space on the ground within 1 meter of you. You can send the chest back to the Ethereal Plane by using an Action and touching both the chest and the replica.
+You hide a chest and all its contents on the Ethereal Plane. When you cast this spell, you must be touching both the chest and the miniature replica that serves as a material component. The chest can contain up to 0.25 cubic meters of non-living material (1 meter x 50 centimeters x 50 centimeters). While the chest remains on the Ethereal Plane, you can use an Action to touch the replica and recall the chest. It reappears in an unoccupied space on the ground within 1 meter of you. You can send the chest back to the Ethereal Plane by using an Action and touching both the chest and the replica.
 
 After 60 days, there is a cumulative 5\% chance per day that the spell' \*\*s effect will end.
 
@@ -4470,7 +4466,7 @@ The effect ends if the spell is cast again, if the replica of the chest is destr
 | **Level**: | 2, Common |
 | **Time**: | 2 Actions |
 | **Range**: | Personal |
-| **Duration**: | 1 hour |
+| **Duration**: | 1 hour per Magic Proficiency |
 
 For the duration of the spell, you see invisible creatures and objects as if they were visible, and you can also see into the Ethereal Plane. Ethereal creatures and objects appear ghostly and translucent.
 
@@ -4556,7 +4552,7 @@ A sudden loud ringing noise, very intense, erupts from a point of your choice wi
 
 **For each Magic Critical Success** obtained in the Magic Check, the damage increases by 2d6.
 
-**Saving Throw Critical Success/Failure**: In case of Critical Failure, the damage is doubled; in case of Critical Success, the damage is further halved
+**Saving Throw Critical Success/Failure**: On a Critical Failure, the damage is doubled; on a Critical Success, the damage is further halved
 
 ### Shield
 
@@ -4610,7 +4606,7 @@ You touch a target, which takes 2d6 Light damage and becomes visible for the dur
 
 Lightning springs from your hand to deliver a shock to a creature you try to touch. Make a melee spell attack against the target. You have +1d6 on the Attack Roll if the target is wearing armor made of metal. On a hit, the target takes 1d8 lightning damage, and it can' \*\*t take reactions until the start of its next turn.
 
-You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
+You can increase the spell' \*\*s damage by 1d8 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Point; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
 **For each Magic Critical Success obtained**, the spell *can jump* to another enemy creature within 1 meter of the initial one or add 1d6 additional damage.
 
@@ -4673,13 +4669,13 @@ Until the spell ends, freezing rain and sleet fall in a 6-meter-tall cylinder wi
 - **Range**:: 36 meters
 - **Duration**:: 1 minute, Concentration
 
-You alter the metabolism of up to 2 plus the number of times you' \*\*ve taken Magic Adept creatures of your choice in a 3-meter radius within range. When you cast the spell, each target must succeed on a Will Saving Throw or perform one fewer Action per round for the duration of the spell.
+You alter the metabolism of up to 2 plus the number of times you' \*\*ve taken Magic Adept, creatures of your choice in a 3-meter radius within range. When you cast the spell, each target must succeed on a Will Saving Throw or perform one fewer Action per round for the duration of the spell.
 
 This spell counters and is countered by Haste.
 
 **For each Magic Critical Success** obtained in the Magic Check, you can affect one additional creature.
 
-**Critical Saving Throw Failure**: In case of Critical Failure, you are slowed by an additional Action.
+**Critical Saving Throw Failure**: On a Critical Failure, you are slowed by an additional Action.
 
 ### Speak with Animals
 
@@ -4690,7 +4686,7 @@ This spell counters and is countered by Haste.
 | **Range**: | Personal |
 | **Duration**: | 10 minutes |
 
-For the duration, you gain the ability to comprehend and verbally communicate with beasts. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including those they can perceive or have perceived within the past day. At the Narrator' \*\*s discretion, you might be able to persuade a beast to perform a small favor for you.
+For the duration, you gain the ability to comprehend and verbally communicate with beasts. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including those they can perceive or have perceived within the past day. At the Game Master' \*\*s discretion, you might be able to persuade a beast to perform a small favor for you.
 
 **For each Critical Magic Success** obtained in the Magic Check, the duration doubles.
 
@@ -4729,7 +4725,7 @@ You imbue plants within 9 m of you with sentience and limited mobility, giving t
 
 Alternatively, you can transform normal terrain where plants are present into difficult terrain that remains for the duration of the spell, causing vines and branches to hinder pursuers, for example.
 
-At the Narrator' \*\*s discretion, the plants might perform other tasks on your behalf. The spell doesn' \*\*t enable plants to uproot themselves and move around, but they can freely move branches, stems, and stalks. If a plant creature is in the area, you can communicate with it as if you shared a common language, but you don' \*\*t gain any magical ability to influence it. This spell can cause plants created by the entangle spell to release a restrained creature.
+At the Game Master' \*\*s discretion, the plants might perform other tasks on your behalf. The spell doesn' \*\*t enable plants to uproot themselves and move around, but they can freely move branches, stems, and stalks. If a plant creature is in the area, you can communicate with it as if you shared a common language, but you don' \*\*t gain any magical ability to influence it. This spell can cause plants created by the entangle spell to release a restrained creature.
 
 ### Spider Climb
 
@@ -4780,7 +4776,7 @@ The bonuses provided by Magic Proficiency/4 can be replaced by the sum of Traits
 
 You transform 1d4 sticks, +1 for each time you' \*\*ve taken Magic Adept, into venomous snakes. The snakes act, on your turn, always in unison and perform the same Action against the same opponent.
 
-These snakes, considered tiny objects, have Defense 13, 10 Hit Points, all Saving Throws at 5. If they drop below 0 Hit Points, they turn back into sticks but broken.
+These snakes, considered tiny objects, have Defense 13, 10 Hit Points, all Saving Throws at 5. If they drop below 0 Hit Points, they turn back into broken sticks.
 
 With an Action, you can command the snakes to attack. Make an attack roll as a melee spell attack for each Snake against a creature within 1 meter of them. Each snake that hits causes 1 piercing damage and forces a Fortitude Saving Throw at DC 14; if the Saving Throw fails, the creature takes 2d4 poison damage or half on a success.
 
@@ -4863,11 +4859,11 @@ The caster gains the ability to speak with stones, which can tell who or what ha
 | **Level**: | 7, Rare |
 | **Time**: | 2 Actions |
 | **Range**: | Touch |
-| **Duration**: | 1 hour per level |
+| **Duration**: | 1 hour per Magic Proficiency, maximum 24 hours |
 
 This spell transforms the caster or a willing subject into stone, along with any clothing or objects carried. The subject can see and perceive sounds and smells, but does not need to eat or breathe. The sense of touch is limited to sensations perceivable by the granitic substance of which the subject' \*\*s body is composed. A chip is comparable to a simple scratch, but breaking an arm of the statue is equivalent to mutilation. The statue subject can return to normal state and become stone again as many times as desired during the spell' \*\*s duration. The statue has hardness 15 and double the Hit Points of the original creature.
 
-**For each Magic Critical Success** obtained in the Magic Check, you double the duration or affect another creature.
+**For each Magic Critical Success** obtained in the Magic Check, you double the duration, up to a maximum of 24 hours, or affect another creature.
 
 ### Suggestion
 
@@ -4895,7 +4891,7 @@ A beam of brilliant light flashes out from your hand in a 1-meter-wide, 18-meter
 
 For the duration, a mote of brilliant radiance shines in your hand. It sheds bright light in a 9-meter radius and dim light for an additional 9 meters. This light is sunlight.
 
-**In case of two Magic Critical Success obtained**, the spell ends after the first beam but the line is 6 meters wide, 108 meters long, and the Light damage becomes 12d8.
+**In case of two Magic Critical Successes obtained**, the spell ends after the first beam but the line is 6 meters wide, 108 meters long, and the Light damage becomes 12d8.
 
 ### Sunburst
 
@@ -4938,7 +4934,7 @@ You bless a creature of your choice. The creature can reroll two dice from a sin
 
 When you cast this spell, you inscribe a harmful glyph on a surface (such as a section of floor, wall, or table) or within an object that can be closed to conceal the glyph (such as a book, scroll, or treasure chest). If you choose a surface, the glyph can cover an area no larger than 3 meters in diameter. If you choose an object, that object must remain in place; if the object is moved more than 3 meters from where the spell was cast, the glyph is broken, and the spell ends without being triggered.
 
-The glyph is nearly invisible and can be found with a Survival check against your spell Saving Throw DC.
+The glyph is nearly invisible and can be found with a Survival check against your spell' \*\*s Saving Throw DC.
 
 You decide what triggers the glyph when you cast the spell.
 
@@ -4948,7 +4944,7 @@ For glyphs inscribed on an object, typical triggers include opening the object, 
 
 You can further refine the trigger so the spell activates only under certain circumstances or according to physical characteristics (such as height or weight) or creature kind (for example, the ward could be set to affect hags or shapeshifters). You can also set conditions for avoiding the glyph' \*\*s activation, such as speaking a password.
 
-When you inscribe the glyph, choose one of the following options as its effect. Once triggered, the glyph glows, filling a 18-meter-radius sphere with dim light for 10 minutes, after which the spell ends. Each creature in the sphere when the glyph activates becomes a target of its effect, as does a creature that enters the sphere for the first time on a turn or ends its turn there.
+When you inscribe the glyph, choose one of the following options as its effect. Once triggered, the glyph glows, filling an 18-meter-radius sphere with dim light for 10 minutes, after which the spell ends. Each creature in the sphere when the glyph activates becomes a target of its effect, as does a creature that enters the sphere for the first time on a turn or ends its turn there.
 
 - *Death*. Each target must make a Fortitude Saving Throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful one.
 - *Discord*. Each target must make a Fortitude Saving Throw. On a failed save, a target begins to quarrel and argue with another creature for 1 minute. During this time, it is incapable of meaningful communication and has -1d6 to Attack Rolls and ability checks.
@@ -5042,7 +5038,7 @@ As you cast the spell, you draw a 3-meter-diameter circle on the ground inscribe
 
 Many major temples, guilds, and other important places have permanent teleportation circles inscribed somewhere within their confines. Each such circle has a unique sigil sequence—a string of magical runes arranged in a particular pattern.
 
-When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the Narrator. You can learn additional sigil sequences during your adventures. You can commit a sigil sequence to memory after studying it for at least 1 minute.
+When you first gain the ability to cast this spell, you learn the sigil sequences for two destinations on the Material Plane, determined by the Game Master. You can learn additional sigil sequences during your adventures. You can commit a sigil sequence to memory after studying it for at least 1 minute.
 
 You can create a permanent teleportation circle by casting this spell in the same location every day for one year. You need not use the circle to teleport when you cast the spell in this way.
 
@@ -5092,7 +5088,7 @@ A wave of thunderous force sweeps out from you. Each creature in a 2-meter-radiu
 | **Range**: | Personal |
 | **Duration**: | Instantaneous |
 
-You briefly stop the flow of time for everyone but yourself. Time doesn' \*\*t flow for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal. This spell ends if one of the actions you use during this period, or any effects that you create during this period, affects a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 300 meters from where you cast it.
+You briefly stop the flow of time for everyone but yourself. Time doesn' \*\*t flow for other creatures, while you take 1d4 + 1 turns in a row, during which you can use actions and move as normal. This spell ends if one of the actions you use during this period, or any effects that you create during this period, affect a creature other than you or an object being worn or carried by someone other than you. In addition, the spell ends if you move to a place more than 300 meters from where you cast it.
 
 **For each Magic Critical Success** obtained in the Magic Check, the duration increases by 1 round. In case of two Magic Critical Successes, you can exclude one other creature from the stopping of time.
 
@@ -5118,7 +5114,7 @@ Until the spell ends, you can command the interior to become dimly lit or dark. 
 | **Level**: | 3, Common |
 | **Time**: | 2 Actions |
 | **Range**: | Touch |
-| **Duration**: | 1 hour |
+| **Duration**: | 1 hour per Magic Proficiency |
 
 This spell grants the creature with which you were in contact at the time of casting the ability to understand any spoken language that it hears. Moreover, when the target speaks, any creature that knows at least one language and can hear the target understands what it says.
 
@@ -5166,7 +5162,7 @@ Shapechangers ignore this spell. An unwilling creature can make a Will Saving Th
 - *Creature into Creature*. If you turn a creature into another kind of creature, the new form can be any species you choose whose challenge rating is equal to or less than your Magic Proficiency score (or sum of common Traits if Devotee of Shayalia). The target' \*\*s game statistics, including mental ability scores, are replaced by the statistics of the new form. It retains its Traits and personality.
 
 	The target retains the same Hit Points and regains 1d12 Hit Points in its new form. When it reverts to its normal form, the creature returns to the number of Hit Points it had before it transformed. If it reverts as a result of dropping to 0 or less Hit Points in the new form, it reverts back to normal and any excess damage carries over to its normal form. The creature is limited in the actions it can perform by the nature of its new form, and it can' \*\*t speak, cast spells, or take any other action that requires hands or speech, unless the new form is capable of such actions. The target' \*\*s equipment merges into the new form. The creature can' \*\*t activate, use, wield, or otherwise benefit from any of its equipment.
-- *Object into Creature.* You can turn an object into any kind of creature, as long as the creature' \*\*s size is no larger than the object' \*\*s size and the creature' \*\*s challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on your turns. You decide what actions it takes and how it moves. The Narrator has the creature' \*\*s statistics and resolves all of its actions and movement.
+- *Object into Creature.* You can turn an object into any kind of creature, as long as the creature' \*\*s size is no larger than the object' \*\*s size and the creature' \*\*s challenge rating is 9 or lower. The creature is friendly to you and your companions. It acts on your turns. You decide what actions it takes and how it moves. The Game Master has the creature' \*\*s statistics and resolves all of its actions and movement.
 	If the spell becomes permanent, you lose control of the creature. It might remain friendly to you, depending on how you have treated it.
 - *Creature into Object*. If you turn a creature into an object, it transforms along with anything it is wearing and carrying. The creature' \*\*s statistics become those of the object, and, after the spell ends and the creature returns to its normal form, it has no memory of the time spent in object form.
 
@@ -5250,9 +5246,9 @@ You can make your voice (or any sound you can normally make vocally) seem to iss
 
 You unleash a string of insults laced with subtle enchantments at a creature you can see within range. If the target can hear you (though it need not understand you), it must succeed on a Will Saving Throw or take 1d4 damage and have -2 to the next Attack Roll it makes before the end of its next turn.
 
-The spell' \*\*s damage increases by 1d4 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Points; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
+The spell' \*\*s damage increases by 1d4 when you reach MP 5, MP 11, and MP 17, but it costs 2 Actions to cast it empowered and 1 Magic Point; it is also necessary to have taken Magic Adept a number of times equal to the enhancements you want to apply.
 
-**Every 2 Magic Critical Success obtained** in the Magic Check affects another creature.
+**Every 2 Magic Critical Successes obtained** in the Magic Check affects another creature.
 
 ### Vigor
 
@@ -5289,7 +5285,7 @@ When the wall appears, each creature within its area must make a Reflex Saving T
 | **Range**: | 36 meters |
 | **Duration**: | 10 minutes |
 
-An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can float in the air or rest on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 3 meters, or you can shape a flat surface made up of ten 3-meter-by-3-meter panels. Each panel must be contiguous with another panel. In any form, the wall is 75 centimeters thick. If the wall cuts through a creature' \*\*s space when it appears, the creature is pushed to one side of the wall (your choice). Nothing can physically pass through the wall, anyone beyond the wall has total cover. It is immune to all damage and can' \*\*t be dispelled by dispel magic. However, the wall is destroyed instantly by a disintegrate spell. The wall also extends into the Ethereal Plane, blocking ethereal travel through it.
+An invisible wall of force springs into existence at a point you choose within range. The wall appears in any orientation you choose, as a horizontal or vertical barrier or at an angle. It can float in the air or rest on a solid surface. You can form it into a hemispherical dome or a sphere with a radius of up to 3 meters, or you can shape a flat surface made up of ten 3-meter-by-3-meter panels. Each panel must be contiguous with another panel. In any form, the wall is 75 centimeters thick. If the wall cuts through a creature' \*\*s space when it appears, the creature is pushed to one side of the wall (your choice). Nothing can physically pass through the wall; anyone beyond the wall has total cover. It is immune to all damage and can' \*\*t be dispelled by dispel magic. However, the wall is destroyed instantly by a disintegrate spell. The wall also extends into the Ethereal Plane, blocking ethereal travel through it.
 
 ### Wall of Ice
 
@@ -5454,7 +5450,7 @@ Alternatively, you can create one of the following effects of your choice:
 - You grant up to ten creatures that you can see immunity to a single spell or other magical effect for 8 hours. For instance, you could make yourself and all your companions immune to a lich' \*\*s life drain attack.
 - You undo any recent event by forcing a reroll of any roll made within the last round (including your last round). Reality reshapes itself to accommodate the new result. You can make the new roll have +2d6 or -2d6, and you can choose whether to use the original roll or the new roll. You might also be able to achieve something beyond the examples given above.
 
-State your wishes as precisely as possible to the Narrator. The Narrator has great latitude in ruling what occurs in such instances; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence, depending on how you worded the wish. The stress of casting this spell to produce any effect other than duplicating another spell weakens you.
+State your wishes as precisely as possible to the Game Master. The Game Master has great latitude in ruling what occurs in such instances; the greater the wish, the greater the likelihood that something goes wrong. This spell might simply fail, the effect you desire might only be partly achieved, or you might suffer some unforeseen consequence, depending on how you worded the wish. The stress of casting this spell to produce any effect other than duplicating another spell weakens you.
 
 After enduring the stress, each time you cast a spell until you finish a long rest, you take 1d10 Void damage per level/2 of the spell cast. This damage can' \*\*t be reduced or prevented in any way. Additionally, your Constitution drops to -3, if it isn' \*\*t -3 or lower already, for 2d4 days.
 

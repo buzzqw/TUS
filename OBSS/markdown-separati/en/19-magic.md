@@ -16,9 +16,9 @@ A spell is a manifestation of a Patron' \*\*s power. Each spell is the fruit of 
 
 Your character must have invested a point in Magic Proficiency.
 
-Magic Proficiency allows you to have more Magic Points, more known spells, and thanks to the Magic Adept Feat, to make your spells harder to resist. A high Magic Proficiency score along with the Magic Adept Feat allows you to access higher level spells.
+Magic Proficiency allows you to have more Magic Points, to know more spells, and, thanks to the Magic Adept Feat, to make your spells harder to resist. A high Magic Proficiency score along with the Magic Adept Feat allows you to access higher level spells.
 
-Don' \*\*t forget to look for ancient tomes and scrolls! Spells are a rare and precious commodity, don' \*\*t miss the opportunity to find new ones and copy them into your Book of Magic.
+Don' \*\*t forget to look for ancient tomes and scrolls! Spells are a rare and precious commodity; don' \*\*t miss the opportunity to find new ones and copy them into your Book of Magic.
 
 ## The characteristics of spells
 
@@ -56,7 +56,7 @@ The Lists presented here are those codified and taught in the few schools of mag
 Magic Lists help describe spells; they don' \*\*t have their own rules, although some rules may refer to these lists.
 
 - *Abjuration* concerns spells of a protective nature, although it also contains some for aggressive use. These spells create magical barriers, negate harmful effects, or banish creatures to other planes of existence.
-- *Water* are spells that act on the water and cold element and to a minimal extent also on healing.
+- *Water* is a Magic List that contains spells that act on the water and cold element and to a minimal extent also on healing.
 - *Air* concerns spells that manipulate and use air and also electricity.
 - *Enchantment* concerns spells that act on the minds of others, influencing or controlling their behavior. These spells can make enemies consider the caster a friend or even control another creature like a puppet.
 - *Animals and Plants* these are spells that act on animals and plants, natural or magical.
@@ -95,7 +95,7 @@ This rule is proposed for managing casters in armor:
 
 The duration of a spell is the length of time for which it persists. Duration can be expressed in rounds, minutes, hours, or even years. Some spells specify that their effects last until the spell is dispelled or destroyed. A **spell can be interrupted by its own caster as an Immediate Action**.
 
-If a magic critical doubles the duration, it always refers to the initial duration. E.g. if the duration is 2 hours, after the first doubling it becomes 4 hours, with the second it becomes 6 hours, then 8 hours..
+If a magic critical doubles the duration, it always refers to the initial duration. E.g., if the duration is 2 hours, after the first doubling it becomes 4 hours; with the second, it becomes 6 hours; then 8 hours...
 
 - *Instantaneous*
 
@@ -110,9 +110,9 @@ Normal activities, such as moving and attacking, do not interfere with concentra
 
 Each spell requires the caster to have his hands free and be able to speak.
 
-Most spells require character to intone mystical words and gesticulate in a particular way. The words and gestures, the rhythm, the cadence and resonance allow the attunement with the Patron who provides the magic.
+Most spells require the character to intone mystical words and gesticulate in a particular way. The words and gestures, the rhythm, the cadence and resonance allow the attunement with the Patron who provides the magic.
 
-It is possible to offer items at the time of casting the spell as an offering to the own Patron, or Patron who oversees the Magic List, to obtain advantages. Depending on the *preciousness* and *story* of the item offered, at the discretion of the Arbiter, the Magic Check can take $\pm 2d6$ modifier.
+It is possible to offer items at the time of casting the spell as an offering to your own Patron, or the Patron who oversees the Magic List, to obtain advantages. Depending on the *preciousness* and *story* of the item offered, at the discretion of the Arbiter, the Magic Check can take $\pm 2d6$ modifier.
 
 ### Recovering from dying
 
@@ -150,13 +150,13 @@ A fireball that is generated in a 9x9 m room will take a good part of it, and in
 
 ### Spell Rarity
 
-Spells indicate the Rarity, which is how likely it is to find this spell or how well-known it might be. Rarity depends not only on the level of the spell itself—obviously more powerful spells are also rarer—but also on how widely they are spread and known. The Narrator will use this 3d6 scale to evaluate what can be found more easily: % Common (1-75\%) - Uncommon (76-93\%) - Rare (94-97\%) - Very Rare (98-99\%) - Legendary (100\%).
+Spells indicate the Rarity, which is how likely it is to find this spell or how well-known it might be. Rarity depends not only on the level of the spell itself—obviously more powerful spells are also rarer—but also on how widely they are spread and known. The Game Master will use this 3d6 scale to evaluate what can be found more easily: % Common (1-75\%) - Uncommon (76-93\%) - Rare (94-97\%) - Very Rare (98-99\%) - Legendary (100\%).
 
 Common (1-14) - Uncommon (15) - Rare (16) - Very Rare (17) - Legendary (18).
 
 ### Combining Magical Effects
 
-The effects of different spells add up as long as their duration overlaps. The effects of the same spell or spells that give the same bonus cast multiple times on the same target do not combine. Instead, the most powerful spell among those cast,the highest level one, and in case of a tie, the one that obtained more Magic Criticals, will apply as long as the durations overlap.
+The effects of different spells add up as long as their duration overlaps. The effects of the same spell or spells that give the same bonus cast multiple times on the same target do not combine. Instead, the most powerful spell among those cast, the highest level one, and if there is a tie, the one that obtained more Magic Criticals, will apply as long as the durations overlap.
 
 In the case of instantaneous spells, the effects act individually if they occur in the same initiative segment. E.g., If I am hit by a lightning bolt at initiative segment 4 and then by another lightning bolt at initiative segment 8, I will make two distinct Saving Throws with relative damage management; if they were in the same initiative segment, I would only suffer the more powerful one (see above).
 
@@ -165,7 +165,7 @@ In the case of instantaneous spells, the effects act individually if they occur 
 - When casting their first spell, the spellcaster chooses whether to use Intelligence as the modifier for their Magic Proficiency check, or if they are a Devotee, they can choose the Ability Score indicated by their Patron. Once the choice is made, it cannot be changed.
 
 This modifier is called the **ability modifier for spells**.
-- When the character assigns the first point of Magic Proficiency, they **know** (are present) in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
+- When the character assigns the first point of Magic Proficiency, there **are present** in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
 - Each day, after resting, the character **learns** from his Tome of Magic a number of spells equal to Magic Proficiency/2 (minimum 1) + spell ability modifier + Magic Adept.
 - When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about Magic Adept).
 - The number of spells that can be cast daily depends on the caster' \*\*s capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
@@ -194,7 +194,7 @@ Casting a spell is not always sufficient; many times it is necessary for it to w
 
 The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penalty from having suffered critical rolls.
 
-The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept. This for evade possibility of rolling three 1.
+The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept. This is to avoid the possibility of rolling three 1s.
 
 The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
@@ -202,9 +202,9 @@ Maximum number of Magical Critical Success per spell is 3.
 
 When required to pass or make a Magic Check, it is sufficient to not roll a Magical Critical Failure and pass the difficulty given by spell level. If required to achieve a Critical Success and the Magic Check does not achieve it, then any result obtained will be considered a Critical Failure.
 
-Magic Check as all check follow the Golden Rules, page .
+Magic Checks, like all checks, follow the Golden Rules, page .
 
-For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with additional 4 penality.. Any Critical Failures or Critical Successes are taken into account.
+For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with an additional 4 penalty.. Any Critical Failures or Critical Successes are taken into account.
 
 >>> **Partecipate**: Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
 
@@ -278,7 +278,7 @@ Especially at lower levels, it can be very frustrating not having learned a spel
 
 The spellcaster can cast a spell that is present in their Spellbook and is within the 3rd level and within the maximum castable spell level, by extending the casting time to 1 hour per Magic Point cost. In the case of a spell cast in this way, no Magic Points are used, but it is necessary to pass a Magic Check at the end of the formulation.
 
->> **Daring the Magic Check**: The Magic Check is an important and integral part of the magic system, use it to your advantage. Magic Points allow you to modify the Check, exploit these possibilities.
+>> **Daring the Magic Check**: The Magic Check is an important and integral part of the magic system, use it to your advantage. Magic Points allow you to modify the Check; exploit these possibilities.
 
 There is always a certain danger... but what is Magic without risks!
 
@@ -291,7 +291,7 @@ The casting time of a spell empowered in this manner increases by 1 Action.
 
 E.g., Haste, I want it to have 2 magic criticals, I pay 3 Magic Points to cast it, plus 3 for the first Magic Critical Success plus 4 for the second Magic Critical Success, and possibly 5 for a third Magic Critical Success. All Magic Points used are always paid regardless of the result of the Magic Check.
 
-You cannot spend more than half of your current Magic Points to empower a spell, you cannot achieve more Auto Magic successes than the ability modifier for spells.
+You cannot spend more than half of your current Magic Points to empower a spell; you cannot achieve more Auto Magic successes than the ability modifier for spells.
 
 ## Optional - The true cost of Magic
 
@@ -304,12 +304,12 @@ The magic system can become unbalanced by always abusing the same spells. To lim
 
 If Patrons are the source of magic, it is only the application of ancient rites and formulas that allows this raw energy to manifest in a form and expression that we call a spell.
 
-Every user of magic has one or more **Spellbooks**; don' \*\*t just think of a large ancient tome bound in leather, different cultures have developed over time the ability to inscribe spell runes on cards, staves, stone slabs, tattoos... make your choice when you create the character.
+Every user of magic has one or more **Spellbooks**; don' \*\*t just think of a large ancient tome bound in leather; different cultures have developed over time the ability to inscribe spell runes on cards, staves, stone slabs, tattoos... make your choice when you create the character.
 This choice will not prevent you from copying spells from differently made **Spellbooks**; it will always be easy for you (Arcana check DC 12) to recognize if you are facing a Spellbook of some kind.
 
 A new character with Magic Proficiency 1 will have a Spellbook with a certain list of spells. In this Spellbook are present a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells also equal to the same modifier, with a minimum of 4.
 
-Each spell occupies a number of pages in the Spellbook equal to its level, with a minimum of one, **copying a page of spell** takes 1 hour of work and 10 gp of precious inks.
+Each spell occupies a number of pages in the Spellbook equal to its level, with a minimum of one; **copying a page of a spell** takes 1 hour of work and 10 gp of precious inks.
 
 A Spellbook (book) costs 5 gp per page.
 
@@ -333,7 +333,7 @@ The character who wants to cast spells must review the ancient formulas in their
 
 If the spellcaster has not reviewed the spells after having rested at least 6 hours, they must pass a Magic Check for each spell formulated until they have reviewed.
 
-The spellcaster can also study spells from multiple Spellbooks..
+The spellcaster can also study spells from multiple Spellbooks...
 
 ## Attack Roll with Magic
 
@@ -357,16 +357,16 @@ This DC is used to measure the *strength and effectiveness* of the spell when co
 
 In the description of the spell, it is written whether a Saving Throw is necessary and which to perform.
 
-If it is the character who must resist a spell, the Narrator will not tell you to make a Saving Throw at difficulty 18, it is he who compares your roll with the difficulty, he can tell you that the test is complex, difficult, or easy...
+If it is the character who must resist a spell, the Game Master will not tell you to make a Saving Throw at difficulty 18, it is he who compares your roll with the difficulty, and he can tell you that the test is complex, difficult, or easy...
 
 >> **Tups casts Arcane dart!**: Tups, who has Intelligence 4, Magic Proficiency 6, and has taken Magic Adept 2 times, casts the \hyperlinkGuiding BoltArcane dart spell. The difficulty (DC) of the Reflex Saving Throw will be equal to 10 + 6 (MP) + 4 (ability modifier for spell, Intelligence) + 2 (has taken Magic Adept 2 times), that is 10+6+4+2 = 22 to halve the damage. If he had made a Magic Check and this had a magic Critical Success, the DC would have become 23.
 
 - If in the Saving Throw you roll 3 sixes, you have managed to pass it, regardless of the total, and you obtain a **Critical Saving Success**.
 - If the Saving Throw succeeds by a margin of 8 you obtain a **Critical Saving Success**.
 - If in the Saving Throw you roll 3 ones, you have failed the roll, regardless of the total, and you obtain a **Critical Saving Failure**.
-- If the Saving Throw fails by a margin of 8, and by every 8 failed you obtain a **Critical Saving Failure**.
+- If the Saving Throw fails by a margin of 8, and for every additional 8 by which it fails you obtain a **Critical Saving Failure**.
 
-It is also possible that in the description of the spell is reported what happens in case of Critical Success or Critical Failure of the Saving Throw.
+It is also possible that in the description of the spell is reported what happens on a Critical Success or Critical Failure of the Saving Throw.
 
 For **monsters** or anyway for a spell casting given by innate magical abilities, if not specified the **DC of the Saving Throw is equal to 12 + 2 x level of the spell + Intelligence or indicated spell modifier**.
 
@@ -376,7 +376,7 @@ Several spells interact with other effects by canceling or modifying them. When 
 
 For example, the Slow spell counters Haste, Remove Curse counters curses, Neutralize Poison counters poisons...
 
-The **own counterspell value** is computed with a check of 3d6 + MP + ability modifier for spells + times that Magic Adept has been taken. + 1 for each Magic Critical Success obtained in the Magic Check.
+Your **own counterspell value** is computed with a check of 3d6 + MP + ability modifier for spells + times that Magic Adept has been taken. + 1 for each Magic Critical Success obtained in the Magic Check.
 
 The counterspell value is **compared** with the DC of the magical effect to be countered.
 
@@ -434,7 +434,7 @@ The spellcaster can modify spells in various ways. These possibilities add versa
 
 The possibilities granted by Altering Spells are cumulative with each other.
 
-**Minor modifications**  to the manifestation of the spell can be agreed with the Narrator for a cost of additional Magic Points or with a successful Magic Check.
+**Minor modifications**  to the manifestation of the spell can be agreed with the Game Master for a cost of additional Magic Points or with a successful Magic Check.
 
 ## Attempting Spells with impediments
 
@@ -462,11 +462,11 @@ If a Natural Creature has magical powers, then it is also considered a Magical C
 
 The damage caused by **Light** is half fire and half positive energy, meaning a resistance to fire or positive energy applies only to half of the damage caused by the attack.
 
-The damage caused by **Void** is half cold and half negative energy, any protections apply to the respective half of the damage.
+The damage caused by **Void** is half cold and half negative energy; any protections apply to the respective half of the damage.
 
 Being Immune or having a Resistance to Light or Void does not make one immune or resistant in turn to Fire/Positive Energy or Cold/Negative Energy damage.
 
-Only **negative energy** damages the living and heals the undead, only **positive energy** damages the undead but does not heal the living (at the Narrator' \*\*s discretion, exposure for one round could be equivalent to a Lesser Restoration spell), see also Plane descriptions. A target takes full damage from Light or Void if it has no inherent resistances.
+Only **negative energy** damages the living and heals the undead, only **positive energy** damages the undead but does not heal the living (at the Game Master' \*\*s discretion, exposure for one round could be equivalent to a Lesser Restoration spell), see also Plane descriptions. A target takes full damage from Light or Void if it has no inherent resistances.
 
 A special case is **Curative positive energy** which heals the living and damages the undead. This energy is that of Laying on Hands, Channeling energy, and Cure spells.
 

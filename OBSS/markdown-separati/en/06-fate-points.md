@@ -21,6 +21,6 @@ A system to add tension is to manage a set of Fate Points shared between charact
 
 Place a container, a small bowl, in the center of the table with a number of d6 equal to the number of characters. Each player is free to take one die at a time and use it as if they were Fate Points.
 
-The dice used by the players are then moved to another container that the Narrator, always at most one at a time per opponent, will use to *their benefit*. Once the Narrator has used the die, they put it back in the players' \*\* container.
+The dice used by the players are then moved to another container that the Game Master, always at most one at a time per opponent, will use to *their benefit*. Once the Game Master has used the die, they put it back in the players' \*\* container.
 
 ---

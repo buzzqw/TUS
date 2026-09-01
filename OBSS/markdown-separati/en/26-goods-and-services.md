@@ -20,7 +20,7 @@ Selling magic items is a problem. Finding someone who wants to buy a potion or s
 
 **Gems, Jewelry, and Art Objects**
 
-These items are easier to exchange, and you can decide to exchange them for money or use them as currency in transactions. In the case of exceptionally valuable treasures, the Narrator might require that you first find a buyer in a large town or even a larger community. A gem is always exchanged at its full value and not at half like equipment.
+These items are easier to exchange, and you can decide to exchange them for money or use them as currency in transactions. In the case of exceptionally valuable treasures, the Game Master might require that you first find a buyer in a large town or even a larger community. A gem is always exchanged at its full value and not at half like equipment.
 
 **Goods**
 
@@ -36,7 +36,7 @@ A perfect tool, in addition to costing 10 times as much as the normal version, g
 
 This is a brief and non-exhaustive list of equipment that your characters might be interested in buying. The list is certainly not exhaustive or complete but can provide you with guidelines on prices.
 
-As a Narrator, always use common sense in requests, evaluate well the type of request, the necessity of the object, the place where it is purchased, and how it is purchased.
+As a Game Master, always use common sense in requests, evaluate well the type of request, the necessity of the object, the place where it is purchased, and how it is purchased.
 
 Depending on the type of campaign, additional items such as firearms or alchemical items might be available.
 
@@ -218,7 +218,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Merchant' \*\*s Scale**. A merchant' \*\*s scale includes a small balance, a pan, and an assortment of weights up to 1 kilogram. With it, you can measure the exact weight of small objects, such as precious metals or goods, to help determine their value.
 
-**Belt pouch**. This belt specialized for holding up to 4 small items such as potions or scrolls. Drinking a potion contained in the Belt pouch is an Immediate Action if another Action is used to extract it.
+**Belt pouch**. This belt is specialized for holding up to 4 small items such as potions or scrolls. Drinking a potion contained in the Belt pouch is an Immediate Action if another Action is used to extract it.
 
 **Component pouch**. A component pouch is a small, waterproof leather belt pouch with compartments containing all the material components and other special items you need to cast your spells, except for those components that have a specific cost or are particularly rare materials.
 
@@ -290,7 +290,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Torch**. A torch burns for **1 hour of real game time**, providing light in a 3-meter radius and dim light for 6 meters. If you make an Attack Roll with a lit torch, improvised weapon, and hit, you deal 1d6 damage plus 1 additional fire damage but consume 10 minutes of its duration.
 
-2 Actions are required using Tinderbox to light a Torch, 1 Action if you light it from another already lit fire, otherwise a Survival check at DC 17 is required and it takes 1 minute.. Three torch united will make a bonfire lasting 8 hours while shred light in 3 meter radius.
+2 Actions are required using Tinderbox to light a Torch, 1 Action if you light it from another already lit fire, otherwise a Survival check at DC 17 is required and it takes 1 minute.. Three torches united will make a bonfire lasting 8 hours, shedding light in a 3-meter radius.
 
 **Bear Trap**. 12 gp, 2. You use two actions to set this trap, consisting of a toothed steel ring that snaps shut when a creature steps on the metal pressure plate in its center. The trap is fastened by a heavy chain to an immobile object, such as a tree or a spike driven into the ground. A creature that steps on the plate must succeed on a DC 15 Reflex Saving Throw or take 2d4 piercing damage and stop moving. A creature can use 2 actions to attempt a DC 15 Fortitude Saving Throw with Strength, and if they succeed, they free themselves or another creature within reach. Each failed attempt inflicts 1 piercing damage to the trapped creature.
 
@@ -529,13 +529,13 @@ When the effect of the bitter aid wears off, your level of fatigue increases by 
 ### The Standard Backpack
 
 The Standard Backpack\textregistered \space is a list of items that I have noted over time, adding everything that I needed during adventures.
-Take it as a guide to understand what objects to have with you, don' \*\*t mark them all down otherwise the Narrator will seriously start looking at the Encumbrance rules!
+Take it as a guide to understand what objects to have with you, don' \*\*t mark them all down otherwise the Game Master will seriously start looking at the Encumbrance rules!
 
 This is the content of the adventurer' \*\*s backpack: belt, 3 candles, 6 torches, Tinderbox, 7 dry rations, 2-person tent, waterskin, rolled mattress, sleeping bag, tarpaulin, tent, 60 meters of rope, net, metal mirror, crowbar, compass, 3 lamp oil, ink, chalk, charcoal, hook, shovel, fishhook, rags, 2m metal cable, whistle, 6 empty potion vials, marbles, brass bell, 1kg of flour in a small bag, 3 wedges, 12 meters of metal chain, 2 manacles, 8 pitons, hammer, pulley, grappling hook, bandolier.
 
 ## Expenses and Lifestyle
 
-When they' \*\*re not delving into the depths of the earth, exploring ruins for lost treasures, or waging war against the forces of encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, albeit different lifestyles come with different expenses.
+When they' \*\*re not delving into the depths of the earth, exploring ruins for lost treasures, or waging war against the forces of encroaching darkness, adventurers face more mundane realities. Even in a fantastical world, people require basic necessities such as shelter, sustenance, and clothing. These things cost money, although different lifestyles come with different expenses.
 
 To simplify daily expenses, the player can declare that they maintain a certain standard of living and subtract the expenses daily as a lump sum, without subtracting individual expenses incurred.
 
@@ -660,7 +660,7 @@ Dragonhide armor or shields cannot be purchased; it is always necessary to bring
 In any case, there is always enough hide to produce a light or heavy shield in addition to the armor, provided the dragon is at least Large.
 If the dragonhide comes from a Dragon that has immunity to a type of energy, the armor is also immune to that type of energy, although it does not confer any protection to the wearer. If the shield or armor is later given the ability to protect the wearer from a specific type of energy, the cost of this enhancement is reduced by 25\%.
 
-Dragonhide Armor reduce Magic Check penalty by 4, proficiency penalties decrease by 1 (to a minimum of 0), and movement penalties decrease by 1 meter.
+Dragonhide Armor reduces Magic Check penalty by 4, proficiency penalties decrease by 1 (to a minimum of 0), and movement penalties decrease by 1 meter.
 
 Dragonhide armors cost 10 times an armor of that type, but do not require more time to be built. Dragon armor is never for sale.
 

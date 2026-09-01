@@ -28,7 +28,7 @@ Sulle terre di confine, la maggior parte delle transazioni avvengono tramite bar
 
 **Attrezzature Perfette**
 
-Un attrezzo perfetto oltre a costare 10 volte tanto la versione normale, concede un +1 alla prova in cui si utilizza.
+Un attrezzo perfetto, oltre a costare 10 volte tanto la versione normale, concede un +1 alla prova in cui si utilizza.
 
 ---
 
@@ -38,7 +38,7 @@ Questo è un breve e non esaustivo elenco di equipaggiamento che i vostri person
 
 Come Narratore usate sempre il buon senso nelle richieste valutate bene la tipologia di richiesta, la necessità dell'oggetto, il luogo dove si compra e come lo si compra.
 
-In base alla tipologia di compagna potrebbero essere disponibili ulteriori oggetti quali armi da fuoco o alchemici.
+In base alla tipologia di campagna potrebbero essere disponibili ulteriori oggetti quali armi da fuoco o alchemici.
 
 | **Oggetto** | **Costo** | **Ing.** |
 | --- | --- | --- |
@@ -215,13 +215,13 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 **Attrezzatura da Pesca**. Questo kit comprende un'asta di legno, filo di seta, taglierino di legno, ami d'acciaio, peso di piombo, esche di velluto e un retino.
 
-**Bandoliera**. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Bere una pozione contenuta nella Bandoliera è una Azione Immediata se viene usata un'altra Azione per estrarla.
+**Bandoliera**. Questa cintura specializzata per contenere piccoli oggetti quali pozioni o pergamene si porta al collo e porta fino a 6 oggetti. Bere una pozione contenuta nella Bandoliera è un'Azione Immediata se viene usata un'altra Azione per estrarla.
 
 **Biglie di Metallo**. Con un'Azione, puoi spargere una singola borsa di queste minuscole biglie di metallo per coprire un quadrato di 3 metri di lato. Una creatura che attraversa l'area coperta deve superare un Tiro Salvezza su Riflessi con DC 13 o cadere prona. Una creatura che attraversa l'area a metà velocità non deve effettuare il Tiro Salvezza.
 
 **Bilancia da Mercante**. Una bilancia da mercante include un piccolo bilanciere, un piatto, e un assortimento di pesi fino a 1 chilo. Con essa, puoi misurare il peso esatto di piccoli oggetti, come metalli preziosi o merci, per aiutarti a determinarne il valore.
 
-**Cintura porta oggetti**. Questa cintura specializzata per contenere fino a 4 piccoli oggetti quali pozioni o pergamene. Bere una pozione contenuta nella Cintura porta oggetti è una Azione Immediata se viene usata un'altra Azione per estrarla.
+**Cintura porta oggetti**. Questa cintura specializzata per contenere fino a 4 piccoli oggetti quali pozioni o pergamene. Bere una pozione contenuta nella Cintura porta oggetti è un'Azione Immediata se viene usata un'altra Azione per estrarla.
 
 **Borsa dei Componenti**. Una borsa dei componenti è un piccolo borsello da cinta di cuoio impermeabile munito di compartimenti contenenti tutte le componenti materiali e altri oggetti speciali di cui hai bisogno per lanciare i tuoi incantesimi, eccetto per quelle componenti che hanno un costo specifico o sono materiali particolari.
 
@@ -247,25 +247,25 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 **Faretra**. 3 mo, una faretra può contenere fino a 12 frecce o dardi.
 
-**Frecce**. Con la Professione Guardiaboschi o Falegname è possibile fare 1d6 frecce da caccia in un ora di lavoro, un fabbro con l'attrezzatura può preparare 1d4 frecce da guerra in 1 ora di lavoro.
+**Frecce**. Con la Professione Guardiaboschi o Falegname è possibile fare 1d6 frecce da caccia in un'ora di lavoro, un fabbro con l'attrezzatura può preparare 1d4 frecce da guerra in 1 ora di lavoro.
 
 **Borsa da Guaritore**. 20 mo.  Questo kit è una borsa di cuoio contenente bende, unguenti e stecche. Il kit può essere usato dieci volte. Concede un +2 alle prove di Pronto Soccorso.
 
-**Kit da Pranzo**. 4 mo. Questa piccola scatola di latta contiene una ciotola e delle semplici posate. Le due parti della scatola possono essere staccate, e un lato impiegato come pentola per cucinare e l'altro come piatto o contenitore
+**Kit da Pranzo**. 4 mo. Questa piccola scatola di latta contiene una ciotola e delle semplici posate. Le due parti della scatola possono essere staccate, e un lato impiegato come pentola per cucinare e l'altro come piatto o contenitore.
 
 **Kit da Scalatore**. 8 mo. Un kit da scalatore comprende chiodi speciali, punte per stivali, guanti e un'imbracatura. Puoi ancorarti usando il kit da scalatore con un'Azione; quando lo fai, non puoi cadere per più di 7 metri dal punto in cui ti sei ancorato, e non puoi arrampicarti a più di 7 metri di distanza dal punto a cui ti sei ancorato senza prima disfare l'ancora.
 
-**Lanterna**. Una Lanterna proietta luce intensa in un raggio di 3 metri e luce fioca per 6 metri. Una volta accesa, brucia per 3 ore di tempo reale di gioco con un'ampolla (0,5 litri) d'olio da lanterna. Una lanterna si accende in un round solo con Esca e Acciarino oppure con una altra fonte di fiamma.
+**Lanterna**. Una Lanterna proietta luce intensa in un raggio di 3 metri e luce fioca per 6 metri. Una volta accesa, brucia per 3 ore di tempo reale di gioco con un'ampolla (0,5 litri) d'olio da lanterna. Una lanterna si accende in un round solo con Esca e Acciarino oppure con un'altra fonte di fiamma.
 
-**Lanterna a Lente Sporgente**. Una lanterna a lente sporgente proietta luce in un cono di 3 metri e luce fioca per 9 metri. Una volta accesa brucia per 3 di tempo reale di gioco ore con un'ampolla (0,5 litri) d'olio.Una lanterna si accende in un round solo con Esca e Acciarino oppure con una altra fonte di fiamma.
+**Lanterna a Lente Sporgente**. Una lanterna a lente sporgente proietta luce in un cono di 3 metri e luce fioca per 9 metri. Una volta accesa brucia per 3 ore di tempo reale di gioco con un'ampolla (0,5 litri) d'olio. Una lanterna si accende in un round solo con Esca e Acciarino oppure con un'altra fonte di fiamma.
 
-**Lanterna Schermabile**. Una lanterna schermabile proietta luce in un raggio di 6 metri e luce fioca per 6 metri. Una volta accesa brucia per 1 ora di tempo reale di gioco con un'ampolla (0,5 litri) d'olio. Con un'Azione, puoi abbassare la schermatura, riducendo la luce a fioca con un raggio di 1 metro. Una lanterna si accende in un round solo con Esca e Acciarino oppure con una altra fonte di fiamma.
+**Lanterna Schermabile**. Una lanterna schermabile proietta luce in un raggio di 6 metri e luce fioca per 6 metri. Una volta accesa brucia per 1 ora di tempo reale di gioco con un'ampolla (0,5 litri) d'olio. Con un'Azione, puoi abbassare la schermatura, riducendo la luce a fioca con un raggio di 1 metro. Una lanterna si accende in un round solo con Esca e Acciarino oppure con un'altra fonte di fiamma.
 
 **Lente del Cacciatore**: 100 mo, questa complessa lente viene posta su un occhio e occupa lo slot occhi quando è in uso. Quando la si utilizza con un attacco a distanza, si riduce di 1d6 le penalità da attacchi a distanza. Gli oggetti entro 9 metri diventano difficili da vedere, e si subisce penalità -1d6 alle prove di Consapevolezza basate sulla vista e Tiri per Colpire.
 
 **Manette**. Questi strumenti di metallo possono imprigionare una creatura Piccola o Media. Per romperle bisogna superare un Tiro Salvezza Tempra con Forza con DC 24. Ogni set di manette è fornito di una chiave. Senza la chiave, una creatura può usare Artista della Fuga o Disattivare Congegni per aprire la serratura superando una prova DC 18. Le manette hanno 15 Punti Ferita e Durezza 3
 
-**Olio da lanterna**. Di solito si compra in un'ampolla d'argilla che contiene 0,5 litri. Si usa per ricaricare le lanterne, Usata come arma improvvisata vedere il Fuoco dell'Alchimista, considerando che il danno è 1d4.
+**Olio da lanterna**. Di solito si compra in un'ampolla d'argilla che contiene 0,5 litri. Si usa per ricaricare le lanterne. Usata come arma improvvisata, vedi il Fuoco dell'Alchimista, considerando che il danno è 1d4.
 
 **Piede di porco**. Utilizzare un piede di porco dà +1d6 alle prove di Forza ogni volta si possa applicare la leva del piede di porco.
 
@@ -293,7 +293,7 @@ In base alla tipologia di compagna potrebbero essere disponibili ulteriori ogget
 
 **Torcia**. Una torcia brucia per **1 ora di tempo di gioco reale**, fornendo luce in un raggio di 3 metri e luce fioca per 6 metri. Se effettui un Tiro per Colpire con una torcia accesa, arma improvvisata, e colpisci, infliggi 1d6 di danno più 1 danno da fuoco aggiuntivo ma consumi 10 minuti della sua durata.
 
-Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Azione se la accendi tramite un altro fuoco già acceso, altrimenti è necessaria una prova di Sopravvivenza a DC 17 e ci si impiega 1 minuto.. Tre torce unite in una unica posso fare un fuoco da campo che brucia per 8 ore ed emette luce in un raggio di 3 metri.
+Sono necessarie 2 Azioni usando Esca ed Acciarino per accendere una Torcia, 1 Azione se la accendi tramite un altro fuoco già acceso, altrimenti è necessaria una prova di Sopravvivenza a DC 17 e ci si impiega 1 minuto.. Tre torce unite in un'unica possono fare un fuoco da campo che brucia per 8 ore ed emette luce in un raggio di 3 metri.
 
 **Trappola da Caccia**. 12 mo, 2. Usi due azioni per disporre questa trappola, formata da un anello d'acciaio seghettato, che scatta quando una creatura calpesta la piastra metallica al centro di essa. La trappola è fissata tramite una catena pesante a un oggetto immobile, come un albero o uno spuntone conficcato nel terreno. Una creatura che calpesti la piastra deve superare un Tiro Salvezza su Riflessi con DC 15 o subire 1d4 danni perforanti e interrompere il movimento. Una creatura può usare 2 azioni per superare un Tiro Salvezza Tempra con Forza con DC 15, e se la riesce si libera o libera un'altra creatura a portata. Ogni tentativo fallito infligge 1 danno perforante alla creatura intrappolata.
 
@@ -313,9 +313,9 @@ Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può
 
 **Dotazione da Devoto (30 mo)**: contiene Esca ed Acciarino, una borsa da cintura, una Borsa per Componenti di Incantesimi, candele (10), corda 18m, un giaciglio, una pentola di ferro, un otre, razioni da viaggio (per 5 giorni), sapone, un simbolo sacro di legno, un testo sacro economico, torce (10) e uno zaino.
 
-**Dotazione da Esploratore di caverne (24 mo)**: contiene un insieme di attrezzi di base per esplorare rovine e città abbandonate include 2 candele, un piede di porco, un gessetto, un martello e 4 Chiodi da Rocciatore, 18 metri di corda, una lanterna schermabile con 5 ampolle d'olio, 2 sacchi, 2 torce, razioni da viaggio (per 3 giorni)
+**Dotazione da Esploratore di caverne (24 mo)**: contiene un insieme di attrezzi di base per esplorare rovine e città abbandonate. Include 2 candele, un piede di porco, un gessetto, un martello e 4 Chiodi da Rocciatore, 18 metri di corda, una lanterna schermabile con 5 ampolle d'olio, 2 sacchi, 2 torce, razioni da viaggio (per 3 giorni)
 
-**Dotazione da Intrattenitore (60 mo**). Include uno zaino, un giaciglio, 2 costumi, 5 candele, 5 razioni giornaliere, un otre e trucchi per il camuffamento.
+**Dotazione da Intrattenitore (60 mo)**. Include uno zaino, un giaciglio, 2 costumi, 5 candele, 5 razioni giornaliere, un otre e trucchi per il camuffamento.
 
 **Dotazione da Scassinatore (24 mo)**. Include uno zaino, un sacchetto con 1000 sfere metalliche, 3 metri di spago, una campanella, 5 candele, un piede di porco, un martello, 10 chiodi da rocciatore, una lanterna schermabile, 2 ampolle di olio, 5 razioni giornaliere, Esca ed Acciarino e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
 
@@ -452,19 +452,19 @@ Questo è il costo per avere un incantatore che manipola la magia, più eventual
 
 Se l'incantesimo ha conseguenze pericolose, l'incantatore deve ricevere delle prove certe che il personaggio ha la possibilità di pagare e che non mancherà di farlo nel caso queste conseguenze si verifichino (sempre che accetti di lanciare l'incantesimo richiesto, cosa nient'affatto sicura). Quando si tratta di incantesimi che trasportano il personaggio e l'incantatore lungo una distanza, è necessario pagare l'incantesimo due volte anche se il personaggio non desidera tornare indietro con l'incantatore.
 
-Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipolare la magia. Come regola generale, è necessario spostarsi almeno in un piccolo paese per essere abbastanza sicuri di trovare un incantatore. In un piccolo paese si potrebbe trovare un incantatore in grado di lanciare incantesimi a livello 2, in un grande paese quelli a livello 3, una piccola città per quelli a livello 5, in una grande città per quelli di livello 6, in una metropoli per quelli di livello 8. Nemmeno in una metropoli si è certi di trovare un incantatore capaci di lanciare magie con livello 9 o più.
+Non tutti i villaggi e i paesi hanno un incantatore abbastanza capace a manipolare la magia. Come regola generale, è necessario spostarsi almeno in un piccolo paese per essere abbastanza sicuri di trovare un incantatore. In un piccolo paese si potrebbe trovare un incantatore in grado di lanciare incantesimi a livello 2, in un grande paese quelli a livello 3, una piccola città per quelli a livello 5, in una grande città per quelli di livello 6, in una metropoli per quelli di livello 8. Nemmeno in una metropoli si è certi di trovare un incantatore capace di lanciare magie con livello 9 o più.
 
 ### Oggetti e Sostanze Speciali
 
 **Antiemetico** 25 mo, questo liquido verde dolce e saporito crea un senso di calore e conforto. Lo sciroppo protegge lo stomaco e lo rende più resistente. Per 1 ora dopo averlo bevuto si ottiene Bonus +4 ai Tiri Salvezza per resistere agli effetti che rendono Nauseati o contro i veleni da Ingestione.
 
-**Antibiotico** (fiala) 50 mo, bevendo una fiala di questo liquido bianco latte dal pessimo sapore si ottiene Bonus +4 ai Tiri Salvezza contro le Malattie, effettuati nell'ora successiva. Se già infetti, si possono effettuare due Tiro Salvezza per resistere alla Malattia in quella determinata giornata (senza il bonus +4) e tenere il risultato migliore. Monodose.
+**Antibiotico** (fiala) 50 mo, bevendo una fiala di questo liquido bianco latte dal pessimo sapore si ottiene Bonus +4 ai Tiri Salvezza contro le Malattie, effettuati nell'ora successiva. Se già infetti, si possono effettuare due Tiri Salvezza per resistere alla Malattia in quella determinata giornata (senza il bonus +4) e tenere il risultato migliore. Monodose.
 
 **Antitossina** (boccetta) 50 mo, se si beve l'antitossina, si ottiene Bonus +4 a tutti i Tiri Salvezza su Tempra contro Veleni per 1 ora. Monodose.
 
-**Bastone del Fumo** 20 mo, questo bastone di legno trattato con procedimento alchemico crea istantaneamente un denso fumo opaco quando viene infiammato. Il fumo riempie un cubo con spigolo di 3 metri, tranne che il fumo viene dissipato in 1 round da un vento moderato o più intenso. Il bastone si consuma in 1 round e il fumo si dissolve poi naturalmente. Tutte le creature nell'area influenzata hanno copertura totale.
+**Bastone del Fumo** 20 mo, questo bastone di legno trattato con procedimento alchemico crea istantaneamente un denso fumo opaco quando viene infiammato. Il fumo riempie un cubo con spigolo di 3 metri, a meno che il fumo non venga dissipato in 1 round da un vento moderato o più intenso. Il bastone si consuma in 1 round e il fumo si dissolve poi naturalmente. Tutte le creature nell'area influenzata hanno copertura totale.
 
-**Caffettone dell'Alchimista** 1 mo, molto amata dai giovani si tratta di una polvere cristallina bruna. Mischiata con l'acqua crea una bevanda amara che cura gli effetti della sbornia. Monodose. Lavoro DC 15
+**Caffettone dell'Alchimista** 1 mo, molto amato dai giovani, si tratta di una polvere cristallina bruna. Mischiata con l'acqua crea una bevanda amara che cura gli effetti della sbornia. Monodose. Lavoro DC 15
 
 **Borsa dell'Impedimento** 50 mo, questa borsa di cuoio rotonda è piena di melassa, resina o altra sostanza appiccicosa. Quando si scaglia la borsa contro una creatura (come attacco di contatto a distanza con gittata 3 metri), la borsa si apre e la sostanza contenuta invischia ed intralcia la vittima per 1 minuto, diventando resistente ed elastica con l'esposizione all'aria. Sono necessarie 3 Azioni, anche in round diversi, per liberarsi.
 
@@ -474,7 +474,7 @@ La sostanza non agisce su creature di taglia Enorme o superiore. Una creatura vo
 
 **Fiasco Alcalino** 15 mo, questo fiasco di liquidi caustici reagisce con gli acidi naturali delle melme. È possibile lanciare un fiasco alcalino come arma a spargimento con gittata 3 metri. Contro le creature non melme un fiasco alcalino funziona come un'Ampolla d'acido. Contro le melme e altre creature acide il fiasco alcalino infligge i danni raddoppiati indicati da Ampolla d'Acido.
 
-**Fumogeno** 25 mo, questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. È possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri.
+**Fumogeno** 25 mo, questa piccola sfera di argilla contiene due sostanze alchemiche separate da una sottile barriera. Quando si rompe la sfera, le sostanze si uniscono e riempiono un'area di mischia con una nuvola di fumo nerastro e innocuo. Il fumogeno funziona come un bastone del fumo, ma il fumo rimane per 1 round prima di disperdersi. È possibile lanciare un fumogeno come attacco di contatto con gittata 3 metri.
 
 **Fuoco dell'Alchimista** 20 mo, si può lanciare un'ampolla di fuoco dell'alchimista come arma a spargimento. Si consideri l'attacco come un attacco di contatto a distanza con arma improvvisata, con gittata 3 metri.
 
@@ -499,21 +499,21 @@ La piastra viene venduta avvolta in un panno pesante per evitare esposizioni acc
 
 **Solvente Universale** (fiala) 20 mo, questa gelatina viola ribollente divora gli adesivi. Ogni fiala può coprire un quadretto di 1 metro. Distrugge i normali adesivi (come la pece, la resina o la colla) in 1 round, ma richiede 1d4+1 round per dissolvere adesivi più potenti (borse dell'impedimento, ragnatele, ecc.). Non ha effetti sugli adesivi magici.
 
-**Tizzone Ardente** 1 mo, la sostanza alchemica sulla punta di questo piccolo bastone di legno si infiamma quando viene sfregata contro una superficie ruvida. Creare una fiamma con un tizzone ardente è molto più rapido che crearla con Esca ed Acciarino (o lente d'ingrandimento) e esca. Accendere una torcia con un tizzone ardente costa 1 Azione (invece che 2 Azioni) e per accendere qualsiasi altro fuoco occorre almeno 3 Azioni. Monouso.
+**Tizzone Ardente** 1 mo, la sostanza alchemica sulla punta di questo piccolo bastone di legno si infiamma quando viene sfregata contro una superficie ruvida. Creare una fiamma con un tizzone ardente è molto più rapido che crearla con Esca ed Acciarino (o lente d'ingrandimento) ed esca. Accendere una torcia con un tizzone ardente costa 1 Azione (invece che 2 Azioni) e per accendere qualsiasi altro fuoco occorre almeno 3 Azioni. Monouso.
 
 ### Attrezzature Alchemiche
 
 **Cartina tornasole** 1 mo, questo pezzo di carta può aiutare a identificare i liquidi. Il suo colore cambia a seconda di tratti come acidità, salinità e magia. Consumare un foglio conferisce Bonus +2 alle prove di Lavoro (alchimia) o Arcano per identificare Pozioni o altri liquidi.
 
-**Inchiostro Esplosivo** (fiala) 40 mo, questo inchiostro infuso alchemicamente aiuta ad assicurarsi che un messaggio segreto venga distrutto dopo essere stato letto. Se la luce colpisce l'inchiostro dopo che quest'ultimo si è asciugato, le sostanze chimiche lo fanno bruciare spontaneamente nel giro di 1 minuto
+**Inchiostro Esplosivo** (fiala) 40 mo, questo inchiostro infuso alchemicamente aiuta ad assicurarsi che un messaggio segreto venga distrutto dopo essere stato letto. Se la luce colpisce l'inchiostro dopo che quest'ultimo si è asciugato, le sostanze chimiche lo fanno bruciare spontaneamente nel giro di 1 minuto.
 Questa combustione è di piccole dimensioni: non è abbastanza significativa da dar fuoco ad altro che alla carta. L'inchiostro usato su altri materiali come pietra o legno semplicemente svanisce, non lasciando alcuna traccia della scrittura.
 Una fiala di questo inchiostro ne contiene abbastanza da scrivere 10 brevi messaggi di non più di 50 parole ciascuno.
 
 **Pastiglia ai propoli** 50 mo, questa caramella ricoperta di miele è fatta di reagenti calmanti. Se mangiata, ha bisogno di 1 round per iniziare ad avere effetto, dopodiché conferisce Bonus +2 alle prove di Intrattenere per 1 ora. 3 caramelle.
 
-**Sassolini luminosi** 50 mo, questi piccoli sassolini bianchi sono trattati alchemicamente in modo che emanino una luce tenue quando sfreganti gli uni contro gli altri. La luminescenza è fioca, appena sufficiente a illuminare la pietra. La durata è di 8 ore. 10 sassolini.
+**Sassolini luminosi** 50 mo, questi piccoli sassolini bianchi sono trattati alchemicamente in modo che emanino una luce tenue quando sfregati gli uni contro gli altri. La luminescenza è fioca, appena sufficiente a illuminare la pietra. La durata è di 8 ore. 10 sassolini.
 
-**Rivela Traccie** 30 mo, quando sparsa per terra, questa sottilissima polvere blu chiaro rivela le tracce di qualsiasi creatura o individuo che sia passato nell'area nelle ultime 48 ore.
+**Rivela Tracce** 30 mo, quando sparsa per terra, questa sottilissima polvere blu chiaro rivela le tracce di qualsiasi creatura o individuo che sia passato nell'area nelle ultime 48 ore.
 La polvere fornisce anche Bonus +8 alle prove di Sopravvivenza per individuare le tracce. Una singola applicazione può coprire un'area di 3 metri. La polvere tracciante viene venduta in piccole borse di cuoio che contengono 10 applicazioni ciascuna.
 
 ### Rimedi Alchemici
@@ -530,11 +530,11 @@ Quando l'effetto dell'aiuto amaro si esaurisce si aumenta di 1 grado il livello 
 Lo Zaino Standard\textregistered \space è una lista di oggetti che ho segnato nel tempo andando ad aggiungere ogni cosa che nel corso delle avventure mi era servito.
 Prendetela come spunto per capire che oggetti avere dietro, non segnateveli tutti altrimenti il Narratore incomincerà seriamente a guardare le regole dell'Ingombro!
 
-Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, Esca ed Acciarino, 7 razioni secche, tenda da 2 persone, otre per l'acqua, materasso arrotolato, sacco a pelo, cerata, tenda, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 olio da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2m, fischietto, 6 fiale da pozione vuote, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino, bandoliera.
+Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, Esca ed Acciarino, 7 razioni secche, tenda da 2 persone, otre per l'acqua, materasso arrotolato, sacco a pelo, cerata, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 oli da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2m, fischietto, 6 fiale da pozione vuote, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino, bandoliera.
 
 ## Spese e Stile di Vita
 
-Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un modo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo e certi stili di vita costano più di altri.
+Quando non si calano nelle viscere della terra, non esplorano rovine in cerca di tesori perduti o non muovono guerra alle forze dell'oscurità incombente, anche gli avventurieri devono pensare ai bisogni più comuni. Anche in un mondo fantastico, la gente deve soddisfare bisogni basilari come un vitto, alloggio e vestiario. Tutto questo ha un costo e certi stili di vita costano più di altri.
 
 Per semplificare le spese giornaliere il giocatore può dichiarare di tenere un certo tenore di vita e sottrarre giornalmente le spese in un unicum, senza sottrarre le singole spese effettuate.
 
@@ -557,9 +557,9 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 ### Lavorare in città
 
-Durante le pause tra un avventura ed un'altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
+Durante le pause tra un'avventura ed un'altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
 
-I personaggi effettuano una prova al giorno della loro competenza professionale (es Artigianato oppure Erboristeria od Intrattenere...) in base al successo guadagneranno o meno.
+I personaggi effettuano una prova al giorno della loro competenza professionale (es Artigianato oppure Erboristeria od Intrattenere...) in base al successo, guadagneranno o meno.
 
 La prova di professione eseguitela con 3d6+Saggezza+1/2 livello, se questa ottiene un valore superiore a 15 allora il personaggio ha ottenuto un compenso. Sottraete alla prova effettuata 15 ed elevate al quadrato questa differenza, saranno le monete d'argento guadagnate nel giorno ( ($(15-Prova)^2$) ).
 
@@ -583,7 +583,7 @@ Le armature e le armi si possono costruire con materiali che possiedono delle in
 | Scudo | +600 mo |
 | Altri oggetti | 3000 mo/kg |
 
-Un albero di acciaio vivente si caratterizza dal un legno particolarmente duro alla stregua dell'acciaio. L'origine di questi alberi rimane un mistero per quasi tutti. Un albero di acciaio vivente è un normale albero piantato da un Devoto di Efrem o Shayalia che è stato dal Devoto benedetto.
+Un albero di acciaio vivente si caratterizza da un legno particolarmente duro alla stregua dell'acciaio. L'origine di questi alberi rimane un mistero per quasi tutti. Un albero di acciaio vivente è un normale albero piantato da un Devoto di Efrem o Shayalia che è stato dal Devoto benedetto.
 
 Le armature e gli scudi di acciaio vivente sono formalmente di legno ma hanno le medesime caratteristiche dell'adamantio. Questo particolare legno è il preferito da chi combatte e vive per la natura. Non è facile individuare un albero di acciaio vivente per un non esperto ed anche per questo è estremamente raro trovarlo grezzo, al più è possibile trovare armi o armature già fatte.
 
@@ -603,7 +603,7 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualità di un'arma o di un'armatura.
 
-Le armi e le munizioni in adamantio hanno Bonus di +1 ai Tiri per Colpire e la penalità date dall'armatura (Penalità Competenze e Prove di Magia) viene diminuita di 1 rispetto ad una normale armatura del suo stesso tipo. Gli oggetti senza parti metalliche non possono essere costruiti con l'adamantio. Una freccia può essere in adamantio, ma un bastone ferrato no.
+Le armi e le munizioni in adamantio hanno Bonus di +1 ai Tiri per Colpire e la penalità data dall'armatura (Penalità Competenze e Prove di Magia) viene diminuita di 1 rispetto ad una normale armatura del suo stesso tipo. Gli oggetti senza parti metalliche non possono essere costruiti con l'adamantio. Una freccia può essere in adamantio, ma un bastone ferrato no.
 
 Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un terzo dei Punti Ferita in più del normale. L'adamantio ha 40 Punti Ferita per 2,5 cm di spessore e Durezza 20.
 
@@ -643,25 +643,25 @@ Il ferro freddo ha 30 Punti Ferita per 2,5 cm di spessore e Durezza 10.
 
 Il mithral è un metallo molto raro, luccicante, simile all'argento, più leggero del ferro ma altrettanto duro. Quando viene lavorato come l'acciaio, diventa un meraviglioso materiale con cui creare armature e occasionalmente anche per altri oggetti. La maggior parte delle armature in mithral è più leggera di una categoria ed è più agevole per il movimento e le altre limitazioni. Le armature pesanti sono trattate come armature medie, e le armature medie sono trattate come leggere, ma le armature leggere restano leggere.
 
-Questa diminuzione non si applica alla competenza necessaria per indossare l'armatura in questione, un armatura pesante in mithril richiede comunque Competenza Armi 3. Occorre essere competenti nel tipo di armatura appropriato, altrimenti si incorre nelle relative penalità come di norma.
+Questa diminuzione non si applica alla competenza necessaria per indossare l'armatura in questione, un'armatura pesante in mithril richiede comunque Competenza Armi 3. Occorre essere competenti nel tipo di armatura appropriato, altrimenti si incorre nelle relative penalità come di norma.
 
-Le Prova di Magia per armature e scudi in mithral diminuiscono di 2 (rimanendo comunque necessaria la prova) e la penalità alla prove competenza diminuiscono di 2 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
+Le Prove di Magia per armature e scudi in mithral diminuiscono di 2 (rimanendo comunque necessaria la prova) e le penalità alle prove di competenza diminuiscono di 2 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
 
 Il mithral ha 30 Punti Ferita per ogni 2,5 cm di spessore e Durezza 15.
 
 ### Pelle di Drago
 
 I fabbricanti di armature possono lavorare le pelli dei draghi per produrre armature o scudi.
-Un drago fornisce scaglie sufficiente per una singola armatura completa, equivalente ad una armatura pesante, per una creatura di una taglia più piccola del drago, oppure due armature medie per una creatura di due taglie più piccole o 4 armature leggere per creature di 3 taglie più piccole.
+Un drago fornisce scaglie sufficienti per una singola armatura completa, equivalente ad un'armatura pesante, per una creatura di una taglia più piccola del drago, oppure due armature medie per una creatura di due taglie più piccole o 4 armature leggere per creature di 3 taglie più piccole.
 
-Un armatura o scudo in pelle di Drago non si compra, è sempre necessario portare la materia prima, possibilmente non viva, all'artigiano che si preoccuperà di costruire l'armatura.
+Un'armatura o scudo in pelle di Drago non si compra, è sempre necessario portare la materia prima, possibilmente non viva, all'artigiano che si preoccuperà di costruire l'armatura.
 
 In ogni caso, c'è sempre pelle sufficiente per produrre uno scudo leggero o pesante in aggiunta all'armatura, purché il drago sia almeno Grande.
 Se la pelle di drago proviene da un Drago che ha immunità ad un tipo di energia, anche l'armatura è immune a quel tipo di energia, sebbene non conferisca alcuna protezione a chi la indossa. Se allo scudo o all'armatura viene conferita in seguito la capacità di proteggere chi la indossa da un tipo di energia specifico, il costo di questo potenziamento viene ridotto del 25\%.
 
-Un Armatura in Pelle di Drago riduce la penalità alla Prova di Magia di 4 quando lanci un  incantesimo, la penalità alla Competenze diminuiscono di 1 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
+Un'Armatura in Pelle di Drago riduce la penalità alla Prova di Magia di 4 quando lanci un  incantesimo, le penalità alle Competenze diminuiscono di 1 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
 
-Le armature di pelle di drago costano 10 volte un'armatura di quel tipo, ma non richiedono più tempo per essere costruite. Un armatura di drago non è mai in vendita.
+Le armature di pelle di drago costano 10 volte un'armatura di quel tipo, ma non richiedono più tempo per essere costruite. Un'armatura di drago non è mai in vendita.
 
 La pelle di drago ha 10 Punti Ferita per 2,5 cm di spessore e Durezza 10. Solitamente la pelle di drago è spessa da 1,25 a 2,5 cm.
 

@@ -31,7 +31,7 @@ In the following pages, you will find the rules and tables for attributing treas
 
 **Coins**: The coins in a treasure can be copper, silver, gold, and platinum: silver and gold ones are the most common, but you can decide differently. For coins and their exchange value, go to Equipment.
 
-Coins in the possession of monsters and wild creatures will certainly not be mint condition and will probably be marked by bites or sticky slimes. Coins found in treasures or at the bottom of some lair might be from other kingdoms, if not worlds... and in that case, what makes them valuable is the strict metallurgical value. 10 grams of gold are always 10 grams of gold even if on one face of the coin there is a flower and on another a castle.
+Coins in the possession of monsters and wild creatures will certainly not be in mint condition and will probably bear bite marks or sticky slimes. Coins found in treasures or at the bottom of some lair might be from other kingdoms, if not worlds... and in that case, what makes them valuable is the strict metallurgical value. 10 grams of gold are always 10 grams of gold even if on one face of the coin there is a flower and on another a castle.
 
 Use the Table Value of gems (p. ) to determine the value of the gems found. Here the gems are listed by value.
 
@@ -77,7 +77,7 @@ Respecting the Law of Reward does not mean filling the characters' \*\* pockets,
 
 Of course, the discovery of a Magic Item is the real prize for any adventurer. Be careful when placing Magic Items in a treasure: it is much more satisfying for many players to find a magic item rather than buy it.
 
-Although you should generally place items with careful reflection on their likely effects on your campaign, it can be fun to generate magic items in a treasure at random. Be careful, though! It' \*\*s easy, with a bit of luck (or misfortune) of the dice to inflate your game with too much treasure or deprive it of the same. The placement of random magic items should always be tempered by the Narrator' \*\*s good sense.
+Although you should generally place items with careful reflection on their likely effects on your campaign, it can be fun to generate magic items in a treasure at random. Be careful, though! It' \*\*s easy, with a bit of luck (or misfortune) of the dice to inflate your game with too much treasure or deprive it of the same. The placement of random magic items should always be tempered by the Game Master' \*\*s good sense.
 
 Spells are also real treasures and prizes on par with magic items. Carefully evaluate which ones can be found. Remember that a magic ability is not a copyable spell; only those present in tomes, scrolls, and other specifically created to be a receptacle of spells are suitable for copying.
 
@@ -91,11 +91,11 @@ Magic Treasures can be found by characters in three ways:
 
 - **bought** (!!!)
 
-Whatever the situation, the Narrator must always pay attention to the magic items that the characters *will find*.
+Whatever the situation, the Game Master must always pay attention to the magic items that the characters *will find*.
 
 Magic Treasures should be inserted, if on enemies or in dungeons, with parsimony and reasoning; try to resist the temptation to be generous with the characters because they will easily get used to it and you will hardly be able to recover the situation.
 
-Even more necessary is that magic items, especially the more powerful ones, cannot be bought like *vile* common objects. Don' \*\*t skimp on Healing Potions or small magic trinkets that have their utility, yet the most wonderful objects (from the +2 sword onwards...) must be found, whoever currently possesses that object must be confronted, otherwise the purpose of the adventure and the danger wanes.
+Even more necessary is that magic items, especially the more powerful ones, cannot be bought like *vile* common objects. Don' \*\*t skimp on Healing Potions or small magic trinkets that have their utility, yet the most wonderful objects (from the +2 sword onwards...) must be found, whoever currently possesses that object must be confronted, otherwise the purpose of the adventure and the danger wane.
 
 In case you prefer an established and balanced distribution, follow the indications below.
 
@@ -156,7 +156,7 @@ In the century that has passed, part of the knowledge to create magic items has 
 
 > Treasure is any movable thing of value, hidden or buried, of which no one can prove to be the owner. (Italian Civil Code)
 
-As a Narrator, take advantage of the knowledge that an elderly elven wizard might have, to involve the characters in adventures to recover rare ingredients, legendary spells, mythical objects... and learn such an ancient and different culture.
+As a Game Master, take advantage of the knowledge that an elderly elven wizard might have, to involve the characters in adventures to recover rare ingredients, legendary spells, mythical objects... and learn such an ancient and different culture.
 
 Also use the mythical objects of Earth culture; surely a Patron had fun creating them only to get bored with them a moment later and throw them into the bowels of some cave.
 

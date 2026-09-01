@@ -10,13 +10,13 @@ La **DC**, basata sulla competenza indicata, per creare un oggetto è 15 +2*Live
 
 Conoscere l'incantesimo (o averlo a disposizione tramite Pergamena) che si applica all'oggetto è un requisito di ogni oggetto magico che si crea. I giorni di lavoro indicati non possono essere frazionati in meno di 6 ore al giorno dedicate alla creazione.
 
->>> **Creare oggetti magici**: La creazione di oggetti magici può rompere gli equilibri del gioco. Un personaggio con risorse abbondanti e tempo può arrivare a creare oggetti che spezzano gli equilibri dell'avventura. Suggerisco siano gli NPC, i personaggi non giocanti in gestione al Narratore, a creare gli oggetti più meravigliosi. Allo stesso tempo la vendita di oggetti di valore sopra le 2000mo dovrebbe essere il più limitata possibile.
+>>> **Creare oggetti magici**: La creazione di oggetti magici può rompere gli equilibri del gioco. Un personaggio con risorse abbondanti e tempo può arrivare a creare oggetti che spezzano gli equilibri dell'avventura. Suggerisco siano gli NPC, i personaggi non giocanti in gestione al Narratore, a creare gli oggetti più meravigliosi. Allo stesso tempo la vendita di oggetti di valore sopra le 2000mo dovrebbe essere più limitata possibile.
 
 ### Modificatori al costo degli oggetti magici
 
 Gli oggetti magici hanno come componente base l'applicazione di un incantesimo nell'oggetto stesso.
 
-È importante valutare la rarità dell'incantesimo per che viene usato per determinare il costo dell'oggetto.
+È importante valutare la rarità dell'incantesimo che viene usato per determinare il costo dell'oggetto.
 
 I **costi** riportati per la creazione dei vari tipi di oggetti sono riferiti all'utilizzo di un incantesimo con **rarità** comune. Se la rarità è Non comune moltiplicare il prezzo x1.5, se è Raro x2, Molto Raro x5, Leggendario x10.
 
@@ -45,7 +45,7 @@ Se i prerequisiti per la creazione dell'armatura comprendono degli incantesimi, 
 
 Il costo di produzione di un'armatura magica +1 costa 2050 mo, +2 7500 mo, +3 12000 mo, +4 25000 mo, +5 45000 mo più il prezzo dell'armatura stessa.
 
-Infondere un incantesimo in una armatura ha un costo come se si andasse a creare un anello con quell'incantesimo.
+Infondere un incantesimo in un'armatura ha un costo come se si andasse a creare un anello con quell'incantesimo.
 
 Creare armature/scudi magiche richiede un giorno per ogni 1000 mo del valore del prezzo base.
 
@@ -63,11 +63,11 @@ Nel momento della creazione, l'incantatore deve decidere se l'arma emana luce o 
 
 Creare armi doppie viene considerato analogo a creare due armi per quanto riguarda il costo, il tempo e le Capacità Speciali.
 
-Il costo di produzione di un Arma +1 è 1200 mo, +2 4000 mo, +3 11000 mo, +4 25000 mo, +5 45000 mo più il prezzo dell'arma (influente solo se è di un qualche materiale raro o prezioso).
+Il costo di produzione di un'Arma +1 è 1200 mo, +2 4000 mo, +3 11000 mo, +4 25000 mo, +5 45000 mo più il prezzo dell'arma (influente solo se è di un qualche materiale raro o prezioso).
 
 Il costo di produzione di una Freccia +1 è 20 mo, +2 75 mo, +3 325 mo. Incantamenti più potenti sono estremamente rari.
 
-Infondere un incantesimo in un arma ha un costo come se si andasse a creare un anello con quell'incantesimo, se continuativo, altrimenti se mono uso come una pozione.
+Infondere un incantesimo in un'arma ha un costo come se si andasse a creare un anello con quell'incantesimo, se continuativo, altrimenti se mono uso come una pozione.
 
 Creare un'arma magica richiede una giornata per ogni 1000 mo del valore del prezzo base.
 
@@ -77,7 +77,7 @@ Creare un'arma magica richiede una giornata per ogni 1000 mo del valore del prez
 
 Il costo di produzione della Bacchetta è pari a livello*livello*400, una Bacchetta con Invisibilità costa 2*2*400=1600 mo
 
-Una bacchetta è un oggetto magico che conserva in se un incantesimo caricato in precedenza.
+Una bacchetta è un oggetto magico che conserva in sé un incantesimo caricato in precedenza.
 
 Una Bacchetta può contenere come massimo livello di incantesimo 5.
 
@@ -95,7 +95,7 @@ Creare una bacchetta richiede 1 giorno per ogni 500 mo del valore del prezzo bas
 
 Il costo di produzione del Bastone è pari a livello*livello*600, un Bastone con Invisibilità costa 2*2*600=2400 mo
 
-Un Bastone è un oggetto magico dove si caricano una o più incantesimi.
+Un Bastone è un oggetto magico dove si caricano uno o più incantesimi.
 
 Quando un bastone viene attivato è possibile usare un incantesimo alla volta.
 
@@ -103,7 +103,7 @@ Per creare un bastone un personaggio ha bisogno di una provvista di materiali di
 
 I bastoni sono sempre pienamente carichi, 10 cariche, all'atto della creazione.
 
-Una Bastone può contenere come massimo livello di incantesimo 8, o in caso di diversi incantesimi il massimo livello è il 6.
+Un Bastone può contenere come massimo livello di incantesimo 8, o in caso di diversi incantesimi il massimo livello è il 6.
 
 Creare un bastone richiede 1 giorno per ogni 500 mo del prezzo base.
 
@@ -119,7 +119,7 @@ Le pergamene facili hanno un costo di produzione pari a livello*livello*rarità 
 
 Le pergamene normali, non facili, hanno un costo di produzione pari a livello*livello*rarità dell'incantesimo*40 mo
 
-Se una pergamena include più incantesimi il costo è pari alla somma dei vari incantesimi. Su una pergamena ISY SCROLL non possono esserci incantesimi da pergamena normali e vice versa.
+Se una pergamena include più incantesimi il costo è pari alla somma dei vari incantesimi. Su una pergamena ISY SCROLL non possono esserci incantesimi da pergamene normali e vice versa.
 
 L'incantatore deve conoscere gli incantesimi che inserisce nella pergamena. Per preparare una pergamena è necessario 30 minuti di lavoro per livello di incantesimo presente.
 
@@ -143,7 +143,7 @@ Il **tempo di lancio** di un incantesimo da una pergamena è pari al tempo di la
 
 Una pergamena quando viene usata o copiata si distrugge.
 
-**Nota**: un Tomo della Magia è equivalente ad un insieme di pergamene normali. Un personaggio in situazione disperate può leggere la pagina dell'incantesimo dal Tomo della Magia e manifestare la magia come se fosse da una pergamena. Le pagine contenenti l'incantesimo si polverizzeranno e l'incantatore dovrà trovare una sorgente da dove copiare nuovamente l'incantesimo su Tomo. Non può ricopiare sul Tomo lo stesso l'incantesimo perché l'ha appreso. 
+**Nota**: un Tomo della Magia è equivalente ad un insieme di pergamene normali. Un personaggio in situazione disperata può leggere la pagina dell'incantesimo dal Tomo della Magia e manifestare la magia come se fosse da una pergamena. Le pagine contenenti l'incantesimo si polverizzeranno e l'incantatore dovrà trovare una sorgente da dove copiare nuovamente l'incantesimo su Tomo. Non può ricopiare sul Tomo lo stesso incantesimo perché l'ha appreso. 
 
 ## Creare Pozioni
 
@@ -173,7 +173,7 @@ Una verga è in grado di lanciare 1 volta al giorno il proprio incantesimo.
 
 Moltiplicare il costo per 4 se è in grado di lanciarla 2 volte, moltiplicare per 8 se è in grado di lanciarla 3 volte al giorno.
 
-Si può anche lanciare una volta in più nel giorno l'incantesimo contenuta nella verga, dopo di che la verga si distrugge.
+Si può anche lanciare una volta in più nel giorno l'incantesimo contenuto nella verga, dopo di che la verga si distrugge.
 
 Una Verga può contenere come massimo livello di incantesimo 3.
 
@@ -185,7 +185,7 @@ Creare una verga richiede 1 giorno per ogni 500 mo del prezzo base.
 
 ## Aggiungere Nuove Capacità
 
-A volte la mancanza di fondi o tempo rende impossibile realizzare l'oggetto magico voluto ma fortunatamente è possibile potenziare o modificare un oggetto magico creato. Solo il tempo, l'oro ed i vari prerequisiti richiesti dalla nuova capacità che si vuole aggiungere all'oggetto magico pongono delle restrizione sul tipo di poteri addizionali che uno può infondere.
+A volte la mancanza di fondi o tempo rende impossibile realizzare l'oggetto magico voluto ma fortunatamente è possibile potenziare o modificare un oggetto magico creato. Solo il tempo, l'oro ed i vari prerequisiti richiesti dalla nuova capacità che si vuole aggiungere all'oggetto magico pongono delle restrizioni sul tipo di poteri addizionali che uno può infondere.
 
 Il costo per aggiungere capacità addizionali ad un oggetto è lo stesso che se l'oggetto non fosse magico, meno il valore dell'oggetto originale. Quindi una spada lunga +1 può diventare una spada lunga vorpal +2 e il costo della creazione è uguale a quello di una spada lunga vorpal +2 meno il costo di una spada lunga +1.
 

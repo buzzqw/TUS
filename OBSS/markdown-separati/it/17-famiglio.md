@@ -42,7 +42,7 @@ Utilizzare le statistiche base di una creatura della specie del famiglio, apport
 
 **Attacchi**: Utilizzare la Competenza Armi del padrone se più alta. Utilizzare il modificatore di Destrezza o Forza del famiglio, quale dei due sia più alto per calcolare il bonus di attacco del famiglio con gli Attacchi Naturali. Il danno è uguale a quello di una normale creatura della specie del famiglio. Il famiglio agisce nel round del padrone.
 
-**Difesa**: il famiglio ha una Difesa pari a quello dell'animale standard più un bonus dovuto alla Competenza Magica del padrone. Vedi tabella Abilità del Famiglio.
+**Difesa**: il famiglio ha una Difesa pari a quella dell'animale standard più un bonus dovuto alla Competenza Magica del padrone. Vedi tabella Abilità del Famiglio.
 
 **Tiro Salvezza**: Per ogni Tiro Salvezza, utilizzare i Tiri Salvezza del famiglio o quelli del padrone quali siano i migliori. Il famiglio applica i suoi valori di Caratteristica come bonus ai Tiri Salvezza e non prende nessuno dei bonus che il suo padrone può avere.
 

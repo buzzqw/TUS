@@ -4,7 +4,7 @@ Le creature mannare sono umanoidi condannati a trasformarsi in animali o in ibri
 
 ## La forma ibrida
 
-Dopo la prima mutazione completa la creatura acquisisce la capacità di trasformarsi a volere nella creatura mannara di forma ibrida.
+Dopo la prima mutazione completa la creatura acquisisce la capacità di trasformarsi a volontà nella creatura mannara di forma ibrida.
 
 La forma **ibrida**, a parte le ovvie trasformazioni fisiche, concede:
 
@@ -33,7 +33,7 @@ Al sorgere della luna piena, dalle 22.00 alle 06.00, la creatura si trasforma ne
 
 La creatura può resistere con un Tiro Salvezza su Tempra con DC pari a 15 + livello della creatura stessa. La trasformazione impiega 1 minuto e tornare in forma originale lascia Affaticato 2.
 
-Solo dopo essersi trasformato in un mannaro completo sarà possibile attivare la trasformazione in forma ibrida a volere, usando 2 Azioni.
+Solo dopo essersi trasformato in un mannaro completo sarà possibile attivare la trasformazione in forma ibrida a volontà, usando 2 Azioni.
 
 La creatura maledetta dalla licantropia da un altro mannaro tramite ferita acquisisce la capacità di trasformarsi spontaneamente in mannaro completo solo dopo 1 anno dalla prima trasformazione, solo di notte e con luna presente.
 

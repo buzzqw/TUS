@@ -6,7 +6,7 @@ Mentre i personaggi avanzano di livello anche la quantità di tesori che traspor
 
 Alcuni tesori li avranno i mostri (vedi sotto), altri saranno dispersi e nascosti nel dungeon ed altri ancora saranno sul fondo di trappole e tunnel nascosti.
 
-Come distribuire un tesoro è una faccenda importante. I tesori non devono essere sbattuti in faccia ai personaggi, ne tanto meno nascosti che non è possibile trovarli.
+Come distribuire un tesoro è una faccenda importante. I tesori non devono essere sbattuti in faccia ai personaggi, né tanto meno nascosti che non è possibile trovarli.
 
 Un consiglio è fare in modo che i tesori (oggetti e monete) trovati nei dungeon siano distribuiti secondo questo criterio:
 
@@ -19,7 +19,7 @@ Questo stimolerà i giocatori a continuare l'esplorazione, affrontare i mostri e
 Animali, Vegetali, Costrutti, Non Morti non intelligenti, Melme e trappole sono ottimi *incontri con poco tesoro*.
 In alternativa, se i personaggi affrontano un certo numero di creature con poco o nessun tesoro, dovrebbero avere l'occasione di ottenere un certo numero di oggetti di valore più significativo nell'immediato futuro per compensare lo squilibrio.
 
-Come regola generale, i personaggi non dovrebbero possedere alcun oggetto magico di valore superiore alla metà della ricchezza totale del personaggio, pertanto controllate bene prima di ricompensare i personaggi con oggetti molti costosi.
+Come regola generale, i personaggi non dovrebbero possedere alcun oggetto magico di valore superiore alla metà della ricchezza totale del personaggio, pertanto controllate bene prima di ricompensare i personaggi con oggetti molto costosi.
 
 ## Costruire un Bottino
 
@@ -31,7 +31,7 @@ Nelle pagine seguenti troverete le regole e tabelle per attribuire i tesori ai n
 
 **Monete**: Le monete in un tesoro possono essere di rame, argento, oro e platino: quelle d'argento e d'oro sono le più comuni, ma potete decidere diversamente. Per le monete ed il loro valore di cambio andate all'Equipaggiamento.
 
-Le monete in possesso di mostri e creature selvagge non saranno certo fior di conio e saranno probabilmente segnate da morsi o bave appiccicose. Monete invece trovate nei tesori o in fondo a qualche tana potrebbero essere di altri regni, se non mondi.. ed in quel caso quello che li fa valere è lo stretto valore metallurgico. 10 grammi di oro sono sempre 10 grammi di oro anche se su una faccia della moneta c'è un fiore ed in un'altra un castello.
+Le monete in possesso di mostri e creature selvagge non saranno certo fior di conio e saranno probabilmente segnate da morsi o bave appiccicose. Monete invece trovate nei tesori o in fondo a qualche tana potrebbero essere di altri regni, se non mondi.. ed in quel caso quello che le fa valere è lo stretto valore metallurgico. 10 grammi di oro sono sempre 10 grammi di oro anche se su una faccia della moneta c'è un fiore ed in un'altra un castello.
 
 Usate la Tabella Valore delle gemme  per determinare il valore delle gemme trovate. Qui sono elencate le gemme per valore.
 
@@ -47,9 +47,9 @@ Usate la Tabella Valore delle gemme  per determinare il valore delle gemme trova
 
 **Gioielli** (1000 mo): smeraldo; opale bianco, nero, o di fuoco; zaffiro blu; corindone giallo fuoco o vermiglio; zaffiro a stella blu o nero; tanzanite.
 
-**Gioielli Eccezionali** (5000 mo o più): smeraldo verde brillante, diamante, giacinto, rubino, miele topetto cristallino.
+**Gioielli Eccezionali** (5000 mo o più): smeraldo verde brillante, diamante, giacinto, rubino, miele topazio cristallino.
 
-**Tesori non Magici** Questa categoria include monili, abiti raffinati, merci, oggetti alchemici, oggetti perfetti e altri.
+**Tesori non Magici**. Questa categoria include monili, abiti raffinati, merci, oggetti alchemici, oggetti perfetti e altri.
 
 Diversamente delle gemme, molti di questi oggetti hanno valori stabiliti, ma potete sempre aumentare il valore dell'oggetto decorandolo con pietre preziose o con fatture particolarmente artistiche.
 
@@ -59,9 +59,9 @@ Diversamente delle gemme, molti di questi oggetti hanno valori stabiliti, ma pot
 
 **Monili Normali** (100-500 mo): La maggior parte dei monili è realizzata con argento, oro, giada, o corallo, e decorata spesso con gemme semi preziose o pietre preziose di qualità media. I monili normali comprendono tutti i tipi di monili minori più bracciali, collane e spille.
 
->>> **Attenzione ai tesori**: Non esagerate mai con i tesori, specialmente quelli magici. Un tesoro non deve diventare un abitudine. Un conto possono essere le monete, gemme e consumabili un conto sono i veri tesori, quelli magici, particolari, unici.
+>>> **Attenzione ai tesori**: Non esagerate mai con i tesori, specialmente quelli magici. Un tesoro non deve diventare un'abitudine. Un conto possono essere le monete, gemme e consumabili un conto sono i veri tesori, quelli magici, particolari, unici.
 
-Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, altrimenti gli verrà a noia il rischiare la vita per nuovi tesori ed oggetti. Quando fate trovare un oggetto magico ragionate sempre in prospettiva. È vero che può essere bello vedere i giocatori felici per quello che hanno trovato ma poi sarete costretti l'avventura successiva a dare qualcosa di ancora più potente.
+Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, altrimenti gli verrà a noia il rischiare la vita per nuovi tesori ed oggetti. Quando fate trovare un oggetto magico ragionate sempre in prospettiva. È vero che può essere bello vedere i giocatori felici per quello che hanno trovato ma poi sarete costretti nell'avventura successiva a dare qualcosa di ancora più potente.
 
 **Monili Preziosi** (500 mo o più): I monili preziosi sono realizzati in oro, mithral, platino, o simili metalli rari. Tali oggetti comprendono i tipi di monili normali più scettri, pendenti ed altri grandi oggetti.
 
@@ -71,15 +71,15 @@ Rispettare la Legge del Premio non significa riempire le tasche ai personaggi, a
 
 **Mappe del Tesoro e Oggetti d'Informazione** (variabili): Gli oggetti come mappe del tesoro, documenti legali di navi e case, liste di informatori o dei turni di guardia, parole d'accesso, e simili possono essere divertenti oggetti da trovare in un tesoro: potete stabilire il valore di questi oggetti come volete e possono essere di doppia utilità in quanto possono generare idee per nuove avventure.
 
-**Tesori Accidentali**: sono i tesori che la creatura ha con se o nella tana per puro caso o perché non voluti. Possono essere i resti *non digeriti* di un lauto pasto o qualcosa che ha attirato l'attenzione della creatura. Un tesoro accidentale  va valutato caso per caso a seconda dell'ambiente e creatura che lo possiede.
+**Tesori Accidentali**: sono i tesori che la creatura ha con sé o nella tana per puro caso o perché non voluti. Possono essere i resti *non digeriti* di un lauto pasto o qualcosa che ha attirato l'attenzione della creatura. Un tesoro accidentale  va valutato caso per caso a seconda dell'ambiente e creatura che lo possiede.
 
 ## Oggetti Magici
 
 Naturalmente, la scoperta di un Oggetto Magico è il vero premio per qualsiasi avventuriero. Fate attenzione a collocare gli Oggetti Magici in un tesoro: è molto più soddisfacente per molti giocatori trovare un oggetto magico piuttosto che comprarlo.
 
-Anche se in genere dovreste collocare gli oggetti con attenta riflessione sui loro probabili effetti sulla vostra campagna, può essere divertente generare gli oggetti magici in un tesoro a caso. Fate attenzione, comunque! è facile, con un po' di fortuna (o sfortuna) dei dadi gonfiare il vostro gioco con troppo tesoro o privarlo dello stesso. Il collocamento di oggetti magici casuali dovrebbe essere temperato sempre dal buon senso del Narratore.
+Anche se in genere dovreste collocare gli oggetti con attenta riflessione sui loro probabili effetti sulla vostra campagna, può essere divertente generare gli oggetti magici in un tesoro a caso. Fate attenzione, comunque! È facile, con un po' di fortuna (o sfortuna) dei dadi gonfiare il vostro gioco con troppo tesoro o privarlo dello stesso. Il collocamento di oggetti magici casuali dovrebbe essere temperato sempre dal buon senso del Narratore.
 
-Anche gli incantesimi sono veri e propri tesori e premi al pari di oggetti magici. Valutate con attenzione quali possono essere trovati. Ricordate che una abilità magica non è un incantesimo copiabile, solo quelli presenti nei tomi, pergamene e quant'altro appositamente creato per essere un ricettacolo di incantesimi è idoneo alla copia.
+Anche gli incantesimi sono veri e propri tesori e premi al pari di oggetti magici. Valutate con attenzione quali possono essere trovati. Ricordate che una abilità magica non è un incantesimo copiabile, solo quelli presenti nei tomi, pergamene e quant'altro appositamente creato per essere un ricettacolo di incantesimi sono idonei alla copia.
 
 ### Tesori Magici
 
@@ -138,7 +138,7 @@ Furono costruite innumerevoli sistemi, ambienti, strutture, città sotterranee l
 
 Per renderle infine più sicure, se mai fosse stato necessario, nella zona più profonda ed inaccessibile crearono quello che viene chiamato il *cuore del dungeon* una frattura, un portale costruito specificatamente per rimpinguare le orde di mostri che ci abitano. Questi portali sono da estirpare e chiudere se si vuole che i mostri terminino e si possa veramente ricominciare a costruire un nuovo mondo.
 
-Se i dungeon più piccoli (quelli entro 5, 6 piani) hanno un solo *cuore* quelli più ampi e profondi ne hanno molti di più, ed ogni volta protetti da creature più forti e difficili da sconfiggere.
+Se i dungeon più piccoli (quelli entro 5, 6 piani) hanno un solo *cuore*, quelli più ampi e profondi ne hanno molti di più, ed ogni volta protetti da creature più forti e difficili da sconfiggere.
 
 > Tesoro è qualunque cosa mobile di pregio, nascosta o sotterrata, di cui nessuno può provare d'essere proprietario. (Codice civile italiano)
 
@@ -150,13 +150,13 @@ Queste creature sono state portate con il loro bagaglio di conoscenze ed oggetti
 
 Hanno poi attinto alla tradizione, folklore, letteratura ed incubi, non solo nostri, per creare gli oggetti più straordinari e unici e seminarli nelle profondità del pianeta in quelle che dovevano diventare le loro dimore.
 
-Questi oggetti sono nelle profondità e custoditi dalle aberrazioni evocati dai Patroni, come sempre più si scende in profondità più c'è possibilità di trovare qualcosa, perché quella che è per noi la Legge del Premio, per i primi Patroni è il modo di nascondere i preziosi, nelle profondità delle loro *case*.
+Questi oggetti sono nelle profondità e custoditi dalle aberrazioni evocate dai Patroni, come sempre più si scende in profondità più c'è possibilità di trovare qualcosa, perché quella che è per noi la Legge del Premio, per i primi Patroni è il modo di nascondere i preziosi, nelle profondità delle loro *case*.
 
 Le nuove razze, a differenza degli umani, possedevano già le conoscenze per creare questi oggetti unici e hanno continuato a produrli.
 
 Nel secolo che è passato parte della conoscenza per creare gli oggetti magici è stata appresa da Elfi, Nani e Gnomi ed in parte dai Patroni stessi. Gli umani hanno incominciato a costruire loro stessi oggetti fantastici anche se alcuni dei tesori più preziosi rimangono nelle terrorizzanti gotiche cattedrali e città elfiche o nelle miniere infinite che sono le case dei nani.
 
-Come Narratore approfittate della conoscenza che può avere un anziano mago elfo, per coinvolgere i personaggi in avventure per recuperare rari ingredienti, leggendari incantesimi, oggetti mitici.. ed imparare una coltura così antica e diversa.
+Come Narratore approfittate della conoscenza che può avere un anziano mago elfo, per coinvolgere i personaggi in avventure per recuperare rari ingredienti, leggendari incantesimi, oggetti mitici.. ed imparare una cultura così antica e diversa.
 
 Usate anche gli oggetti mitici della cultura terrestre, sicuramente un Patrono si è divertito a crearli per poi annoiarsene qualche attimo dopo ed averlo gettato nelle viscere di qualche caverna.
 
@@ -166,9 +166,9 @@ Ogni mostro ha assegnato una **Categoria Tesoro** (CT), questa categoria indica 
 
 Quando è indicata una percentuale significa che è necessario fare uguale o meno con il d100 per trovare il tesoro indicato. Quando è indicato +1 *oggetto* allora significa che indipendentemente dal tiro percentuale fatto ci sarà almeno 1 oggetto, pozione o pergamena, del tipo indicato.
 
-Es. una creatura è segnata come *Tesoro CT* **F** significa che nella sua tana, nascondiglio, ci sarà il 10\% di trovare 3d6 monete l'argento, il 40\% di trovare 1d6 monete d'oro ed 5 volte il 30\% di trovare un oggetto magici che non siano armi.
+Es. una creatura è segnata come *Tesoro CT* **F** significa che nella sua tana, nascondiglio, ci sarà il 10\% di trovare 3d6 monete d'argento, il 40\% di trovare 1d6 monete d'oro ed 5 volte il 30\% di trovare un oggetto magico che non siano armi.
 
-Consultate poi la Tabella Tipologia Oggetto magico  per tirare e scoprire quale oggetti magici aveva la creatura.
+Consultate poi la Tabella Tipologia Oggetto magico  per tirare e scoprire quali oggetti magici aveva la creatura.
 
 
 	

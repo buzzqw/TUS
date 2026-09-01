@@ -33,7 +33,7 @@ At the rise of the full moon, from 10:00 PM to 06:00 AM, the creature transforms
 
 The creature can resist with a Fortitude Saving Throw with DC equal to 15 + level of the creature itself. The transformation takes 1 minute and returning to original form leaves Fatigued 2.
 
-Only after having transformed at last one time $ $into a complete were-creature will it be possible to activate the transformation into hybrid form at will, using 2 Actions.
+Only after transforming at least once into a complete were-creature can the character activate the transformation into hybrid form at will, using 2 Actions.
 
 The creature cursed by lycanthropy from another were-creature through wound acquires the ability to transform spontaneously into a complete were-creature only after 1 year from the first transformation, only at night and with the moon present.
 

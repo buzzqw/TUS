@@ -55,7 +55,7 @@ Whenever the charmed target takes damage, the target can repeat the saving throw
 
 The aboleth can take 3 bonus actions, chosen from the options below. It can use only one bonus action option at the end of another creature' \*\*s turn. The aboleth regains expended bonus actions at the start of its turn.
 
-**Detect.** The aboleth makes a Awareness check.
+**Detect.** The aboleth makes an Awareness check.
 
 **Psychic Drain (Costs 2 Actions).** One creature charmed by the aboleth takes 10 (3d6) damage, and the aboleth regains hit points equal to the damage the creature takes.
 
@@ -106,7 +106,7 @@ As their primitive appearance suggests, aboleths are among the oldest life forms
 
 ***Frightful Presence.*** Each creature of the dragon' \*\*s choice within 36 meters of it and aware of its presence must succeed on a DC 30 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
-***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 18-meter line that is 1 meter wide. Each creature in that area must make a DC 30 Reflex Saving Throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
+***Acid Breath (Recharge 5-6).*** The dragon exhales acid in an 18-meter line that is 1 meter wide. Each creature in that area must make a DC 30 Reflex Saving Throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
 **Additional Actions**
 
@@ -152,7 +152,7 @@ Organization: Solitary
 - **Languages**: Common, Draconic
 - **Challenge**: 16 (15000 XP)
 
-***Electric discharge.*** the dragon emits magical electric discharges within a 3-meter radius that cause 1d6 lightning damage per round.
+***Electric discharge.*** The dragon emits magical electric discharges within a 3-meter radius that cause 1d6 lightning damage per round.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -339,7 +339,7 @@ Environment: Temperate Coastal Areas
 Organization: Solitary
 | **Treasure Category**: E |
 | **Description** |
-| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
+| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate. |
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
 | - Globe of Invulnerability |
@@ -525,7 +525,7 @@ Organization: Solitary
 
 ***Frightful Presence.*** Each creature of the dragon' \*\*s choice within 36 meters of it and aware of its presence must succeed on a DC 28 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
-***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in a 18-meter cone. Each creature in that area must make a DC 28 Fortitude Saving Throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
+***Poison Breath (Recharge 5-6).*** The dragon exhales poisonous gas in an 18-meter cone. Each creature in that area must make a DC 28 Fortitude Saving Throw, taking 56 (16d6) poison damage on a failed save, or half as much damage on a successful one.
 
 **Additional Actions**
 
@@ -591,7 +591,7 @@ Organization: Solitary
 
 ***Frightful Presence.*** Each creature of the dragon' \*\*s choice within 36 meters of it and aware of its presence must succeed on a DC 30 Will Saving Throw or become frightened for 1 minute. A creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success. If a creature' \*\*s Saving Throw is successful or the effect ends for it, the creature is immune to the dragon' \*\*s Frightful Presence for the next 24 hours.
 
-***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 18-meter cone. Each creature in that area must make a DC 30 Reflex Saving Throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
+***Fire Breath (Recharge 5-6).*** The dragon exhales fire in an 18-meter cone. Each creature in that area must make a DC 30 Reflex Saving Throw, taking 63 (18d6) fire damage on a failed save, or half as much damage on a successful one.
 
 **Additional Actions**
 
@@ -711,7 +711,7 @@ Organization: Solitary
 - **Languages**: Common, Draconic
 - **Challenge**: 13 (10000 XP)
 
-***Frost aura.*** the dragon emits magical frost within a 3-meter radius that causes 1d6 cold damage per round.
+***Frost aura.*** The dragon emits magical frost within a 3-meter radius that causes 1d6 cold damage per round.
 
 ***Ice Walk.*** The dragon can move and climb on icy surfaces without needing to make basic skill checks. Additionally, difficult terrain composed of ice or snow does not cost it extra movement.
 
@@ -865,7 +865,7 @@ Yes indeed, the Black Dragon is the only creature on Earth that can bring a dead
 - **Languages**: Common, Draconic
 - **Challenge**: 23 (50000 XP)
 
-***Electric discharge.*** the dragon emits magical electric discharges within a 3-meter radius that cause 2d6 lightning damage per round.
+***Electric discharge.*** The dragon emits magical electric discharges within a 3-meter radius that cause 2d6 lightning damage per round.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a Saving Throw, it can choose to succeed instead.
 
@@ -911,7 +911,7 @@ Blue Dragons live among the clouds, flying (and levitating) among storms.
 
 Blue Dragons have a serpentine, elongated and elegant appearance, with long horns pointing backward.
 
-A Blue Dragon' \*\*s face is less marked by wrinkles and remains smooth.
+A Blue Dragon' \*\*s face has fewer wrinkles and remains smooth.
 They are the only dragons that have no wings yet fly better than any other dragon.
 
 Their magical but natural flying ability combined with the fact that they feed on electricity makes them primarily flying creatures that almost never come down to earth (and never touch the ground, considering it impure and dirty!), preferring to remain among the clouds, especially among the darkest and most energy-laden ones to feed.
@@ -925,7 +925,7 @@ Usually, you never find a single nest, but entire plateaus dominated by dozens o
 
 They don' \*\*t get along with purple dragons, which they despise for having chosen to give up flying to live underground.
 
-| Blue Dragons have +1d6 in Magic Checks and can ignore one die rolled in the check with the Air List and is immune to electricity. |
+| Blue Dragons have +1d6 in Magic Checks and can ignore one die rolled in the check with the Air List and are immune to electricity. |
 | **Spells** |
 | --- |
 | This Dragon' \*\*s preferred spells are: |
@@ -1068,7 +1068,7 @@ Environment: Temperate Coastal Areas
 Organization: Solitary
 | **Treasure Category**: H |
 | **Description** |
-| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
+| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate. |
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
 | - Globe of Invulnerability |
@@ -1363,7 +1363,7 @@ A Purple Dragon is very territorial and will establish a perimeter (about 5 km r
 
 A Purple Dragon is very protective of its creatures, those who bring it food and offer it treasures.
 
-With a stocky appearance, they have fine, long teeth and enormous claws that continuously grow. They have a very powerful sonic attack that often causes cave-ins, which are completely indifferent to them.
+With a stocky appearance, they have fine, long teeth and enormous claws that continuously grow. They have a very powerful sonic attack that often causes cave-ins, to which they are completely indifferent.
 
 It is strong and courageous, arrogant but not brazen. It is not afraid to fight if it thinks it can win. It always takes the battle underground where it can create pits to make enemies fall or escape if necessary.
 
@@ -1536,7 +1536,7 @@ Organization: Solitary
 - **Languages**: Common, Draconic
 - **Challenge**: 20 (25000 XP)
 
-***Frost aura.*** the dragon emits magical frost within a 3-meter radius that causes 2d6 cold damage per round.
+***Frost aura.*** The dragon emits magical frost within a 3-meter radius that causes 2d6 cold damage per round.
 
 ***Ice Walk.*** The dragon can move and climb on icy surfaces without needing to make basic skill checks. Additionally, difficult terrain composed of ice or snow does not cost it extra movement.
 
@@ -1588,11 +1588,11 @@ They have no movement penalties on these terrains.
 
 They use their natural camouflage to attack and capture prey, are excellent hunters, very intelligent in exploiting the environment.
 
-Not much inclined to magic, they can however breathe ice shards much more frequently than other dragons. It is immune to cold and ice-based attacks.
+Not much inclined to magic, they can however breathe ice shards much more frequently than other dragons. They are immune to cold and ice-based attacks.
 
 Their lairs are icy caves in the mountains or dug into the most massive glaciers.
 
-| White Dragons have +1d6 in Magic Checks and can ignore one die rolled in the check with the Water List and is immune to cold. |
+| White Dragons have +1d6 in Magic Checks and can ignore one die rolled in the check with the Water List and are immune to cold. |
 | **Spells** |
 | --- |
 | This Dragon' \*\*s preferred spells are: |
@@ -1733,7 +1733,7 @@ Organization: Solitary
 
 Androsphinxes, the most powerful of common sphinxes, believe they represent all that is worthy and noble in their species and act as if the weight of the entire world rested on their good example. They look at Criosphinxes with paternalistic condescension, Hieracosphinxes with ill-concealed disgust, and Gynosphinxes as the only other sphinxes worthy of their time.
 
-Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an appeal to treat. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
+Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an offer to negotiate. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
 
 Androsphinxes are 12 meters tall and weigh 1,100 pounds.
 
@@ -2021,7 +2021,7 @@ The basilisk, often called the *King of Serpents*, is an eight-legged reptile wi
 
 Basilisks live in almost all dry environments, from forests to deserts, and their skin tends to reflect their surrounding environment.
 
-They tend to use caves, dens, or other sheltered areas as refuges. These refuges are often marked by statues depicting people and animals in natural poses, which are actually the petrified remains of unfortunates who encountered a basilisk.
+They tend to use caves, dens, or other sheltered areas as refuges. These refuges are often marked with statues depicting people and animals in natural poses, which are actually the petrified remains of unfortunates who encountered a basilisk.
 
 Basilisks have the ability to consume petrified creatures. When not waiting for small mammals, birds, or reptiles that make up their diet, basilisks spend their time sleeping in their dens. Those who are brave enough to capture basilisks or hide treasure near them discover that these beings can serve as custodians or guard dogs.
 
@@ -2172,7 +2172,7 @@ level 3 (3 slots): *Counterspell, Dispel Magic, Fireball*
 
 level 4 (3 slots): *Banishment, Branding Smite (with 1 automatic magic critical, Void damage)*
 
-***Undead Nature.*** The Black Knight doesn' \*\*t need air, food, drinks, or sleep.
+***Undead Nature.*** The Black Knight doesn' \*\*t need air, food, drink, or sleep.
 
 ***Legendary Resistance (1/Day).*** If the Black Knight fails a Saving Throw, he can choose to succeed instead.
 
@@ -2303,7 +2303,7 @@ Organization: Solitary, groups (2d12)
 | **Treasure Category**: Incidental |
 | **Description** |
 
-Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so one is it with nature.
+Bone Blooms are creatures that died in the depths of the forest for various reasons. Nature, not wanting to waste anything, animates the creature to make it its defender. At first glance, a Bone Bloom is not different from a trunk covered with colorful lichens, small mushrooms, and grassy mantle, so it is one with nature.
 
 ### Bone Devil
 
@@ -2752,7 +2752,7 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 - **Dam. Imm.**: Acid, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 18 m}
-- **Languages**: understands the languages of its creator but cannot speak
+- **Languages**: understands the languages of its creator but cannot speak speak
 - **Challenge**: 9 (5000 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 8/- against non-magical weapons.
@@ -2873,7 +2873,7 @@ At will: *Detect Magic, Light, Fog Cloud*
 
 *Hit:* 21 (3d8 + 8) piercing damage.
 
-***Wide Swing.** Melee Weapon Attack*: +11 to hit, reach 3 meters, with a single attack can hit two creatures in melee close to each other.
+***Wide Swing.** Melee Weapon Attack*: +11 to hit, reach 3 meters, with a single attack it can hit two creatures in melee close to each other.
 
 ***Rock.** Ranged Weapon Attack*: +11 to hit, range 18m, one target.
 
@@ -3064,7 +3064,7 @@ When a Darklight is destroyed, it leaves its torch on the ground. This torch of 
 
 While attached to the target, the darkmantle can attack no other creature except the target but has +1d6 to its attack rolls. The darkmantle' \*\*s speed becomes 0 and it can' \*\*t benefit from any bonus to its speed, moving with the target.
 
-A creature can detach the darkmantle with an Action and succeeding on a Fortitude Saving Throw with Strength DC 13. During its turn, the darkmantle can detach itself from the target by using 1 Movement Action.
+A creature can detach the darkmantle by taking an Action and succeeding on a Fortitude Saving Throw with Strength DC 13. During its turn, the darkmantle can detach itself from the target by using 1 Movement Action.
 
 ***Darkness Aura (1/Day).*** A magical darkness spreads from the darkmantle in a 5-meter radius, moving with it and spreading around corners. The darkness lasts as long as the darkmantle maintains concentration, up to 10 minutes (as if concentrating on a spell). Darkvision can' \*\*t penetrate this darkness, and no natural light can illuminate it. If any of the darkness overlaps with an area of light created by a spell of 2nd level or lower, the spell creating the light is dispelled.
 
@@ -3150,7 +3150,7 @@ level 3 (4 slots): *Dispel Magic, Fear, Telekinesis*
 
 level 4 (1 slot): *Projected Image, Feeblemind*
 
-***Demonic Nature.*** Demogorgon doesn' \*\*t need air, food, drinks, or sleep.
+***Demonic Nature.*** Demogorgon doesn' \*\*t need air, food, drink, or sleep.
 
 ***Legendary Resistance (3/Day).*** If Demogorgon fails a Saving Throw, he can choose to succeed instead.
 
@@ -3190,7 +3190,7 @@ Organization: Unique
 | **Treasure**: R, S, T, V |
 | **Description** |
 
-Demogorgon is a huge demon, prince of the abyss and madness about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon' \*\*s two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
+Demogorgon is a huge demon, prince of the abyss and madness, about 5 meters tall. He appears as a reptilian biped with two baboon heads, the necks are long and serpentine like the tentacular arms. Demogorgon' \*\*s two heads have distinct personalities that detest each other. They often try to dominate each other and many of the stories about Demogorgon deal precisely with how one or the other head tries to dominate the whole. There is a strong rivalry between Demogorgon and Orcus.
 
 ### Deva Angel
 
@@ -3236,7 +3236,7 @@ Organization: Solitary, pair, or squad (3-6)
 | **Treasure Category**: (Flaming Greatsword +1, other treasure) |
 | **Description** |
 
-Deva movanics make up the ranks of the celestial armies' \*\* infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
+Devas make up the ranks of the celestial armies' \*\* infantry, though they spend most of their time patrolling the Positive Plane, the Negative Plane, and the Material Plane. On the Positive Plane, they watch over wandering good souls. On the Negative Plane, they fight undead and other strange beings that hunt in the hungry void. Their rare times on the Material Plane are usually to bring aid to powerful mortals when a great danger threatens to plunge an entire realm into the hands of evil.
 
 ### Djinni
 
@@ -3360,9 +3360,9 @@ Each Dragon has full access to all spells of a specific magic list depending on 
 
 This access is granted by Tàhil or Ljust depending on whether they are dragons faithful to one or the other.
 
-And it is from this distinction that dragons are divided between Dragons of Tàhil and of Ljust. The former represent in various forms and degrees Chaos, destruction, violence, and death, while the Dragons of Ljust are the emblem of good, just, correct, protective. While the dragons of Tàhil are usually also defined as chromatic, those of Ljust are defined as metallic.
+And it is from this distinction that dragons are divided between Dragons of Tàhil and of Ljust. The former represent in various forms and degrees Chaos, destruction, violence, and death, while the Dragons of Ljust are the emblem of goodness, justice, correctness, and protection. While the dragons of Tàhil are usually also defined as chromatic, those of Ljust are defined as metallic.
 
-The Dragons of Ljust are transport errors, perhaps because Tàhil' \*\*s portal opened while an evil dragon was fighting a good dragon.
+The Dragons of Ljust arrived by a transport error, perhaps because Tàhil' \*\*s portal opened while an evil dragon was fighting a good dragon.
 
 **Failing the Saving Throw** against a dragon' \*\*s breath in a critical manner doubles the damage taken, while succeeding in a critical manner does not further halve the damage received.
 
@@ -3448,7 +3448,7 @@ If it' \*\*s a Wyrmling Dragon, it has 1 random power, 2 if it' \*\*s Young or A
 
 *Hit:* 40 (6d12 + 4) bludgeoning damage
 
-***Steam Breath (Recharge 5-6).*** The dragon turtle exhales hot steam in a 18-meter cone. Each creature in that area must make a DC 31 Fortitude Saving Throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn' \*\*t provide resistance against this damage.
+***Steam Breath (Recharge 5-6).*** The dragon turtle exhales hot steam in an 18-meter cone. Each creature in that area must make a DC 31 Fortitude Saving Throw, taking 52 (15d6) fire damage on a failed save, or half as much damage on a successful one. Being underwater doesn' \*\*t provide resistance against this damage.
 
 **Ecology**
 
@@ -3629,7 +3629,7 @@ Dryads are benevolent guardians of trees, and although they aren' \*\*t violent 
 
 ***Sunlight Sensitivity***. While in sunlight, the Duergar has -1d6 on attack rolls, as well as on Perception checks that rely on sight.
 
-**Actions*Enlarge (Recharges after a 1 hour).*** For 1 minute, the Duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the Duergar is Large, doubles the damage dice of its Strength-based weapon attacks (included in the attacks), and has +1d6 on Strength checks and Strength Saving Throws. If the Duergar lacks the room to become Large, it attains the maximum size possible in the space available.
+**Actions*Enlarge (Recharges after 1 hour).*** For 1 minute, the Duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the Duergar is Large, doubles the damage dice of its Strength-based weapon attacks (included in the attacks), and has +1d6 on Strength checks and Strength Saving Throws. If the Duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
 ***War Pick.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
 
@@ -3639,7 +3639,7 @@ Dryads are benevolent guardians of trees, and although they aren' \*\*t violent 
 
 *Hit:* 5 (1d6 + 2) piercing damage or 9 (2d6 + 2) piercing damage when enlarged.
 
-***Invisibility (Recharges after a 1 hour).*** The Duergar magically turns invisible for up to 1 hour or until it attacks, casts a spell, uses Enlarge, or its concentration is broken. Any equipment the Duergar wears or carries becomes invisible with it.
+***Invisibility (Recharges after 1 hour).*** The Duergar magically turns invisible for up to 1 hour or until it attacks, casts a spell, uses Enlarge, or its concentration is broken. Any equipment the Duergar wears or carries becomes invisible with it.
 
 | **Ecology** |
 | --- |
@@ -3910,7 +3910,7 @@ Explosive Roaches are native creatures between the elemental plane of fire and e
 Proportioned like a common roach but about 40 cm long and weighing about 4 kg, it is a creature completely devoid of intellect, acting only on pure instinct.
 They are now common in caves near volcanoes or red dragon lairs, having adapted to living on Earth.
 
-In the nest where they dwell, there is at least one queen who commands the roaches, extremely larger and stronger. Explosive Roaches feed on coal, burnt wood, burnt carcasses. They are extremely fond of diamonds which, once burned, are true delicacies.
+In the nest where they dwell, there is at least one queen who commands the roaches, much larger and stronger. Explosive Roaches feed on coal, burnt wood, burnt carcasses. They are extremely fond of diamonds which, once burned, are true delicacies.
 
 ### Fire Giant
 
@@ -3929,7 +3929,7 @@ In the nest where they dwell, there is at least one queen who commands the roach
 
 *Hit:* 28 (6d6 + 7) slashing damage.
 
-***Wide Swing.** Melee Weapon Attack*: +11 to hit, reach 3 meters, with a single attack can hit two creatures in melee close to each other.
+***Wide Swing.** Melee Weapon Attack*: +11 to hit, reach 3 meters, with a single attack it can hit two creatures in melee close to each other.
 
 ***Rock.** Ranged Weapon Attack*: +10 to hit, range 18m, one target.
 
@@ -4001,7 +4001,7 @@ Used as guardians and torches, they often represent a first line of defense in d
 - **Dam. Imm.**: Electricity, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 18 m}
-- **Languages**: understands the languages of its creator but cannot
+- **Languages**: understands the languages of its creator but cannot speak
 - **Challenge**: 5 (1800 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 6/- against non-magical weapons.
@@ -4105,7 +4105,7 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 
 *Hit:* 25 (3d12 + 6) slashing damage.
 
-***Wide Swing.** Melee Weapon Attack*: +10 to hit, reach 3 meters, with a single attack can hit two creatures in melee close to each other.
+***Wide Swing.** Melee Weapon Attack*: +10 to hit, reach 3 meters, with a single attack it can hit two creatures in melee close to each other.
 
 ***Rock.** Ranged Weapon Attack*: +9 to hit, range 18m, one target.
 
@@ -4268,7 +4268,7 @@ Organization: leading an army of Gablins
 | **Treasure Category**: Field Plate, Bastard Sword +1, S |
 | **Description** |
 
-Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and bring havoc and destruction to entire regions.
+Gablin Paladins are among the most powerful gablins known, the true elect of Cattalm. Summoned by more powerful followers of Cattalm, they can alone lead hundreds of Gablins and, thanks to their acumen, prepare accurate plans and wreak havoc and destruction on entire regions.
 
 ### Gargoyle
 
@@ -4493,7 +4493,7 @@ The elemental can grapple one creature of CR/3 size or 2 of CR/2 size or. At the
 
 **Actions*Claws.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
-*Hit:* 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 14 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds the Saving Throw.
+*Hit:* 10 (2d6 + 3) slashing damage. If the target is a creature other than an undead, it must succeed on a DC 14 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds on the Saving Throw.
 
 ***Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one creature.
 
@@ -4576,7 +4576,7 @@ The original objects are left behind, just like the ghost' \*\*s physical remain
 
 **Actions*Claws.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
-*Hit:* 7 (2d4 + 2) slashing damage, 1 Bleeding damage. If the target is a creature other than an elf or undead, it must succeed on a DC 13 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds the Saving Throw.
+*Hit:* 7 (2d4 + 2) slashing damage, 1 Bleeding damage. If the target is a creature other than an elf or undead, it must succeed on a DC 13 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds on the Saving Throw.
 
 ***Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
@@ -4615,7 +4615,7 @@ Although many surface ghouls live primitively, rumors speak of ghoul cities deep
 
 **Actions*Claws.** Melee Weapon Attack*: +8 to hit, reach 1 m, one target.
 
-*Hit:* 15 (2d10 + 4) slashing damage, 2 Bleeding damage. If the target is a creature other than an elf or undead, it must succeed on a DC 17 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds the Saving Throw.
+*Hit:* 15 (2d10 + 4) slashing damage, 2 Bleeding damage. If the target is a creature other than an elf or undead, it must succeed on a DC 17 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds on the Saving Throw.
 
 ***Bite.** Melee Weapon Attack*: +9 to hit, reach 1 m, one creature.
 
@@ -4634,7 +4634,7 @@ Organization: Group (4-8) or pack (14-24)
 | --- |
 | **Description** |
 
-The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of at least one putrid ghoul of about 18 ghouls.
+The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typically in charge of a group of about 18 ghouls, including at least one putrid ghoul.
 
 ### Ghoul, Mother
 
@@ -4652,7 +4652,7 @@ The Black Ghoul represents one of the elite evolutionary forms of Ghouls. Typica
 
 **Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
-*Hit:* 12 (2d6 + 6) slashing damage, 2 Bleeding damage. If the target is a creature other than an undead, it must succeed on a DC 17 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds the Saving Throw. If the creature fails the Saving Throw, then it is victim of the Ghoul curse. Within 1d3+1 days it will transform into a Ghoul. A Remove Curse DC 19 is necessary within the transformation to avoid the transformation.
+*Hit:* 12 (2d6 + 6) slashing damage, 2 Bleeding damage. If the target is a creature other than an undead, it must succeed on a DC 17 Fortitude Saving Throw or be paralyzed for 1 minute. The target can repeat the Saving Throw at the end of each of its rounds, ending the effect if it succeeds on the Saving Throw. If the creature fails the Saving Throw, then it is a victim of the Ghoul curse. Within 1d3+1 days it will transform into a Ghoul. A Remove Curse DC 19 is necessary within the transformation to avoid the transformation.
 
 ***Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one creature.
 
@@ -4683,7 +4683,7 @@ The Mother Ghoul is usually the head of a clan of ghouls that can reach even sev
 - **Languages**: Common, Expiran
 - **Challenge**: 4 (1100 XP)
 
-***Regeneration***. The Putrid Ghoul regenerates 5 Hit Points per round except when in full sunlight or has taken Light damage in the previous round. If the Putrid Ghoul is in a cemetery, it recovers 10 Hit Points per round.
+***Regeneration***. The Putrid Ghoul regenerates 5 Hit Points per round except when in full sunlight or when it has taken Light damage in the previous round. If the Putrid Ghoul is in a cemetery, it recovers 10 Hit Points per round.
 
 **Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 2 m, one target.
 
@@ -4695,7 +4695,7 @@ The Mother Ghoul is usually the head of a clan of ghouls that can reach even sev
 
 **Reaction: *Opportunity Attack***: The Putrid Ghoul makes an attack against a creature that moves through or out of its 1-meter reach.
 
-***Aura of Suffering.***: The Putrid Ghoul emits an aura of 6 meters around him, every ghoul attack that hits automatically causes critical damage. Activating this aura costs 2 Actions and lasts until the beginning of the next round.
+***Aura of Suffering.***: The Putrid Ghoul emits a 6-meter aura around it; every ghoul attack that hits automatically causes critical damage. Activating this aura costs 2 Actions and lasts until the beginning of the next round.
 
 **Ecology**
 
@@ -4872,7 +4872,7 @@ Organization: Solitary, pair, hunting party (2-5 and 1-2 Hyenas), band (10-100 a
 
 Gnolls are large, stocky humanoids that resemble hyenas not only in appearance but also in behavior. They often keep hyenas as companion animals and reflect many of their behaviors. Though skilled hunters, they prefer to steal or scavenge carcasses rather than hunt prey.
 
-This laziness leads them to procure slaves of every species to dig dens, gather supplies and water, and even hunt for them. Non-gnoll or hyena creatures become meals or slaves, depending on the tribe' \*\*s temperament. Even fallen companions can become food, unless they are honored with a brief prayer or cooked whole if died from disease.
+This laziness leads them to procure slaves of every species to dig dens, gather supplies and water, and even hunt for them. Non-gnoll or hyena creatures become meals or slaves, depending on the tribe' \*\*s temperament. Even fallen companions can become food, unless they are honored with a brief prayer or cooked whole if they died from disease.
 
 More civilized gnolls don' \*\*t eat prisoners but keep them as slaves to defend or improve the den or trade them with other tribes. Gnolls appreciate combat only when they are in superior numbers. They avoid combat unless it' \*\*s to obtain a carcass or ambush for a hearty meal, preferring to flee when victory seems unreachable.
 
@@ -5023,7 +5023,7 @@ Organization: Solitary
 | **Treasure Category**: None |
 | **Description** |
 
-Crawling through cold swamps and misty wetlands or, sometimes, in underground passages and caverns, gray oozes consume any organic material they encounter. Although lacking intelligence, the gray ooze presents numerous problems due to its transparency. Even though it cannot easily climb walls or swim, its habit of hiding in mud often along marshy shores or remaining motionless in innocent-looking puddles on the gray floor of a dungeon, makes it very difficult to notice and avoid.
+Crawling through cold swamps and misty wetlands or, sometimes, in underground passages and caverns, gray oozes consume any organic material they encounter. Although lacking intelligence, the gray ooze presents numerous problems due to its transparency. Even though it cannot easily climb walls or swim, its habit of hiding in mud often along marshy shores or remaining motionless in innocent-looking puddles on the gray floor of a dungeon makes it very difficult to notice and avoid.
 
 Some sages believe that gray oozes are the result of a failed alchemical experiment, while others theorize that the first gray oozes spontaneously arose from a well of magical debris. Naturally, these theories that do not consider them living organisms, but rather the result of an unfortunate mixture of caustic fluids and magical residues, are ridiculed by those who live in areas infested by these creatures, which have no history of magical pollution.
 
@@ -5176,7 +5176,7 @@ Although they can be trained as mounts, griffins do not have an innate affinity 
 
 Griffins mate for life and seek revenge for years if a mate or child is killed. This loyalty makes them ideal mounts and treasure guardians, despite the danger inherent in trading captured griffins and stolen eggs. The eggs are worth up to 2000 gp each and young live ones up to 3000. However, buying or forcibly taming these creatures is considered slavery by good deities. Earning their spontaneous loyalty is a difficult but safer task.
 
-Before a griffin can be ridden in combat, the creature must practice carrying the weight of its rider. A griffin must have a friendly attitude toward the trainer (with an Handle animals, Diplomacy, or Intimidate check), and 6 weeks of practice with a successful Handle animals check with DC 20 are needed to get it used to the load. Trained griffins can know all tricks and learn new commands.
+Before a griffin can be ridden in combat, the creature must practice carrying the weight of its rider. A griffin must have a friendly attitude toward the trainer (with a Handle animals, Diplomacy, or Intimidate check), and 6 weeks of practice with a successful Handle animals check with DC 20 are needed to get it used to the load. Trained griffins can know all tricks and learn new commands.
 
 Griffins can carry up to 25 Encuber as a light load, 50 as a medium load, and 70 kg as a heavy load. An exotic saddle is needed to ride them.
 
@@ -5356,7 +5356,7 @@ A typical sphinx is 10 meters long and weighs about 880 pounds. Although their w
 
 ***Hungry Winds** (2 Actions)*: The harpy uses the wind to draw its prey closer. A target within 6 meters must make a Fortitude saving throw DC 12 or be pulled next to the harpy. If the target has been lifted off the ground and cannot fly, it then falls normally.
 
-***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 90 meters of the harpy that can hear the song must succeed on a Will saving throw DC 13 or be charmed until the song ends. The harpy must take a Immediate Action during its next turn to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
+***Luring Song.*** The harpy sings a magical melody. Every humanoid and giant within 90 meters of the harpy that can hear the song must succeed on a Will saving throw DC 13 or be charmed until the song ends. The harpy must take an Immediate Action during its next turn to continue singing. It can stop singing at any time. The song ends if the harpy is incapacitated.
 
 While charmed by the harpy, a target is incapacitated and ignores the songs of other harpies. If the charmed target is more than 1 meter from the harpy, the target must move on its turn toward the harpy by the most direct route. Before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the harpy, the target can repeat the saving throw. A creature can repeat the saving throw at the end of each of its turns. If a saving throw is successful, the effect ends on that target.
 
@@ -5463,7 +5463,7 @@ These monstrous and bestial creatures are born from the souls of evil mortals wh
 
 *Hit:* 18 (3d8 + 5) bludgeoning damage.
 
-***Wide Swing.** Melee Weapon Attack*: +7 to hit, reach 3 meters, with a single attack can hit two creatures in melee close to each other.
+***Wide Swing.** Melee Weapon Attack*: +7 to hit, reach 3 meters, with a single attack it can hit two creatures in melee close to each other.
 
 ***Rock.** Ranged Weapon Attack*: +5 to hit, range 18m, one target.
 
@@ -5479,7 +5479,7 @@ Organization: Solitary, group (2-5), band (6-8), raiding party (9-12 plus 1d4 Di
 
 Hill giants have skin that ranges from light tan to reddish brown, with brown or black hair, and eyes of the same color. They wear multiple layers of crudely tanned hides with the fur still attached. They rarely wash or repair their clothing, preferring to simply add new layers as the old ones wear out. Adults are about 3 meters tall and weigh roughly 550 kg. Hill giants can live up to 200 years, though they rarely reach this age.
 
-Hill giants prefer to fight from high ridges and outcroppings, where they can strike opponents with rocks and boulders, thus limiting their personal risk. They love to make overrun attacks against smaller creatures at the beginning of combat, and only after take up positions and begin to swing their massive clubs.
+Hill giants prefer to fight from high ridges and outcroppings, where they can strike opponents with rocks and boulders, thus limiting their personal risk. They love to make overrun attacks against smaller creatures at the beginning of combat, and only afterward take up positions and begin to swing their massive clubs.
 
 Hill giants are by nature nomadic and prefer to travel from place to place to raid and pillage. Though they are most comfortable in temperate climates, they don' \*\*t mind traveling far from their preferred environment if raiding is abundant and prosperous. They are, overall, very selfish creatures, who rarely enter battles they are not sure they will win. Hill giants are known for pushing each other forward if they must confront formidable opponents and do not hesitate to sacrifice a companion to save their own skin. Wandering bands of hill giants are common in temperate hills, and their constant aggression makes them one of the most feared dangers in this environment.
 
@@ -5609,7 +5609,7 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 - **Dam. Imm.**: Poison
 - **Immunities**: charmed
 - **Senses**: \resizedown{Darkvision 18 m, Blindsight 3 m}
-- **Languages**: understands the languages of its creator but cannot speak
+- **Languages**: understands the languages of its creator but cannot speak speak
 - **Challenge**: 0 (10 XP)
 
 ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it perceives to its master, and the two can communicate telepathically.
@@ -5782,7 +5782,7 @@ The hydra is a multi-headed dragon, but stupid and with major digestive problems
 
 ***Ice Spear.** Melee weapon attack*: +12 to hit, reach 3 m, one target.
 
-*Hits:* 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 26 Fortitude Saving Throw, or have its speed reduced by 3 meters for 1 minute; during each of its turns it can take only an Action or an Immediate Action, but not both; it cannot take reactions. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself in case of success.
+*Hits:* 14 (2d8 + 5) piercing damage plus 10 (3d6) cold damage. If the target is a creature, it must succeed on a DC 26 Fortitude Saving Throw, or have its speed reduced by 3 meters for 1 minute; during each of its turns it can take only an Action or an Immediate Action, but not both; it cannot take reactions. The target can repeat the Saving Throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Bite.** Melee weapon attack*: +12 to hit, reach 1 m, one target.
 
@@ -5969,7 +5969,7 @@ Native to the Plane of Air, these creatures move through the world following ass
 
 Many invisible stalkers, however, consider these tasks as miserable requests from mortals. If assigned a particularly complex or unpleasant task, an invisible stalker will seek to find a loophole if the instruction is poorly formulated. For example, Wizards who summon an invisible stalker with the instruction "protect me from danger" might be escorted to a distant hiding place, or even taken to the Plane of Air.
 
-Due to continuous summonings, many invisible stalkers are adverse to the inhabitants of the Material Plane. Those newly summoned to the mortal world know only the stories of their kind and maintain an open attitude toward those who summon them. Over time, or if they serve an evil master, they begin to form a negative opinion of these mortal creatures, which leads them to deflect instructions and harm their masters. For older invisible stalkers with more experience, the only thing that protects those who summoned them is the magic that binds them. These creatures always try to use inconsistencies in the formulation of their tasks and literal distortions in intentions to find a way to annoy, hurt, or even kill those who brought them to this plane.
+Due to continuous summonings, many invisible stalkers are averse to the inhabitants of the Material Plane. Those newly summoned to the mortal world know only the stories of their kind and maintain an open attitude toward those who summon them. Over time, or if they serve an evil master, they begin to form a negative opinion of these mortal creatures, which leads them to deflect instructions and harm their masters. For older invisible stalkers with more experience, the only thing that protects those who summoned them is the magic that binds them. These creatures always try to use inconsistencies in the formulation of their tasks and literal distortions in intentions to find a way to annoy, hurt, or even kill those who brought them to this plane.
 
 ### Iron Golem
 
@@ -5981,7 +5981,7 @@ Due to continuous summonings, many invisible stalkers are adverse to the inhabit
 - **Dam. Imm.**: Fire, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 36m}
-- **Languages**: understands the languages of its creator but cannot speak
+- **Languages**: understands the languages of its creator but cannot speak speak
 - **Challenge**: 16 (15000 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 12/- against non-magical weapons.
@@ -6117,7 +6117,7 @@ Organization: Solitary
 | **Treasure Category**: 2 H |
 | **Description** |
 
-The legendary kraken is one of the sailors' \*\* greatest fears, because it is a whale-sized creature, can strike from the depths without being seen, can command the winds and weather conditions necessary for the ship to move, and possesses the cruel intellect of most of the most ruthless and creative criminals in the world. Some believe that krakens are divine punishment, while others consider them the true lords of the depths, who consider air-breathing races nothing but cattle.
+The legendary kraken is one of the sailors' \*\* greatest fears, because it is a whale-sized creature, can strike from the depths without being seen, can command the winds and weather conditions necessary for the ship to move, and possesses the cruel intellect of the most ruthless and creative criminals in the world. Some believe that krakens are divine punishment, while others consider them the true lords of the depths, who consider air-breathing races nothing but cattle.
 
 Many legends have arisen regarding the fact that it understands the druidic language.
 
@@ -6331,7 +6331,7 @@ Most lizardfolk stand from 1.8 to 2.1 meters tall and weigh from 100 to 125 kg, 
 
 Though generally neutral, lizardfolk' \*\*s standoffish nature, their strenuous rejection of the *gifts* of civilization, and their legendary ferocity in battle cause them to be misjudged by most humanoids. These traits stem from good reasons, however, as their low reproduction rate is unmatched among warm-blooded humanoids, and if tribes didn' \*\*t defend their swampy territories to the last breath they' \*\*d soon find themselves overwhelmed by mammalian hordes. As for their propensity to consume the bodies of dead friends and enemies alike, practical lizardfolk are quick to point out that life is hard in the swamp, and nothing should go to waste.
 
-The lizardfolk presented here live in swampy environments. Lizardfolk tribes can live just as well in other environments, but as speed they gain Climb 5 meters instead of Swim.
+The lizardfolk presented here live in swampy environments. Lizardfolk tribes can live just as well in other environments, but for their speed they gain Climb 5 meters instead of Swim.
 
 ### Lootdead
 
@@ -6417,11 +6417,11 @@ Organization: Solitary or band (2-8)
 
 Lava men, known as Ignim, inhabit the Plane of Fire but sometimes slip into the Material Plane through elemental cracks. These cracks form in places of strong heat, such as volcanoes or underground magma rivers, or in areas of intense magic. Often, they unintentionally set fire to nearby flammable objects.
 
-Although not brave, Ignim are formidable enemies for those without resistance to their intense heat. Their touch incinerates clothing and steel weapons risk becoming slag upon contact. In the Plane of Fire, Ignim find strength in numbers, populating settlements dotted with magma lakes and geysers of molten rock.
+Although not brave, Ignim are formidable enemies for those without resistance to their intense heat. Their touch incinerates clothing, and steel weapons risk becoming slag upon contact. In the Plane of Fire, Ignim find strength in numbers, populating settlements dotted with magma lakes and geysers of molten rock.
 
 Paranoid and distrustful, the Ignim fear the larger inhabitants of the Plane of Fire and overwhelm intruders with questions. If the answers don' \*\*t satisfy them, they try to dispose of the creatures as quickly as possible, even throwing them into lakes of liquid rock.
 
-Proud of their magma lakes, each lake has a different purpose: baths, cooking, or relaxation. The Ignim add minerals and salts to the lakes to suit their purposes. Cooking lakes, sometimes called "killer lakes," are hotter, while those for relaxation are usually darker.
+Proud of their magma lakes, the Ignim give each lake a different purpose: baths, cooking, or relaxation. The Ignim add minerals and salts to the lakes to suit their purposes. Cooking lakes, sometimes called "killer lakes," are hotter, while those for relaxation are usually darker.
 
 At maturity, the Ignim are 1.2 meters tall and weigh 150 kg due to their dense composition.
 
@@ -7131,8 +7131,8 @@ Organization: solitary, group (2-4), squad (11-20 plus 2 sergeants of 3rd level 
 | **Treasure Category**: NPC Equipment (Studded Leather Armor, Sword, 4 Javelins, M) |
 | **Description** |
 
-Orcs are a race created by Cattalm as an experiment to verify whether a more intelligent but equally ferocious creature than ogres could be dominant.
-The experiment was a moderate success with orcs founding kingdoms and conquering several regions. The chaotic drive over time, acculturation, becoming sedentary, and the evolution of society has led orcs increasingly away from Cattalm' \*\*s coils, although it doesn' \*\*t remove the fact that many barbaric aspects have remained in the traditional culture.
+Orcs are a race created by Cattalm as an experiment to verify whether a creature more intelligent than ogres but equally ferocious could be dominant.
+The experiment was a moderate success with orcs founding kingdoms and conquering several regions. The chaotic drive over time, acculturation, becoming sedentary, and the evolution of society have led orcs increasingly away from Cattalm' \*\*s coils, although it doesn' \*\*t remove the fact that many barbaric aspects have remained in the traditional culture.
 An adult male orc is 1.6 meters tall and weighs about 60 kg. A peculiar characteristic is the face and the pig-like nose in particular. Orcs and humans can produce offspring.
 
 ### Orc
@@ -7314,7 +7314,7 @@ An otyugh, by eating the excrement or part of a creature, can understand what di
 
 The origins of the Owlbear are a subject of debate among scholars of monstrous creatures. Most of them agree that it was a Wizard, in the past, who created the first specimen by combining a bear with a giant owl; perhaps as an experiment on some crazy concept of the nature of life, but more likely because of his complete madness. Whatever the original purpose of such a crazy creation as the Owlbear, the creature began to reproduce, and has become one of the best-known predators of wooded areas.
 
-Owlbears are savage predators, known for their bad temper, aggression, and ferocity. They tend to attack everything that moves in front of them, even if it shows no bellicose intentions. Many scholars who have encountered these creatures in the wilderness have noted that they always have bloodshot eyes that rotate all around just before an attack. This is generally seen as a sign of madness, suggesting that all Owlbears are born with a pathological need to fight and kill, but more realistic researchers believe it is due to the structure of their acute eyes.
+Owlbears are savage predators, known for their bad temper, aggression, and ferocity. They tend to attack everything that moves in front of them, even if it shows no bellicose intentions. Many scholars who have encountered these creatures in the wilderness have noted that they always have bloodshot eyes that rotate all around just before an attack. This is generally seen as a sign of madness, suggesting that all Owlbears are born with a pathological need to fight and kill, but more realistic researchers believe it' \*\*s because of the structure of their acute eyes.
 
 Owlbears inhabit the innermost and most hidden areas of the woods, and prepare their lairs inside intricate forests or dark and deep caves. They can hunt both day and night, depending on the habits of the prey that populate the territories surrounding their lair.
 
@@ -7325,7 +7325,7 @@ Although it is almost impossible to tame them due to their wild nature, Owlbears
 | ***Variant***: **Polar Owlbear** |
 | --- |
 
-This Owlbear is present in arctic regions or snowy mountains. Unlike the normal Owlbear, it is more robust and strong. It has 85 Hit Points, +10 to hit, 21 claw damage +1 Bleeding, 15 beak damage. CR 4
+This Owlbear is present in arctic regions or snowy mountains. Unlike the normal Owlbear, it is more robust and stronger. It has 85 Hit Points, +10 to hit, 21 claw damage +1 Bleeding, 15 beak damage. CR 4
 
 ### Panoptikhan
 
@@ -7733,7 +7733,7 @@ Organization: Solitary or swarm (2-12)
 | **Treasure Category**: None |
 | **Description** |
 
-The quasit is perhaps the least powerful demon, but it is not among the least respected: even quasits consider themselves superior to the hordes of Dretch and, true to their nature, the Dretch lack the courage or incentive to prove them wrong. The primary role in life of a quasit is that of a familiar in service to a spellcaster, but those quasits that escape this humiliating servitude acquire a will of their own and are much more dangerous. A typical quasit is 45 centimeters tall and weighs only 4 kg.
+The quasit is perhaps the least powerful demon, but it is not among the least respected: even quasits consider themselves superior to the hordes of Dretch, and, true to their nature, the Dretch lack the courage or incentive to prove them wrong. The primary role in life of a quasit is that of a familiar in service to a spellcaster, but those quasits that escape this humiliating servitude acquire a will of their own and are much more dangerous. A typical quasit is 45 centimeters tall and weighs only 4 kg.
 
 Unique among the demonic hordes, quasits are not born from the souls of deceased evil mortals, but from living souls: when a spellcaster seeks to summon a quasit as a familiar, their soul touches the Abyss and it reacts, creating a quasit from its matter connected to the spellcaster' \*\*s soul and generating a powerful bond between the two.
 
@@ -7845,7 +7845,7 @@ Organization: Solitary
 | **Treasure Category**: None |
 | **Description** |
 
-In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remohrazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
+In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remorhazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
 
 Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 11,000 pounds.
 
@@ -8130,7 +8130,7 @@ Organization: solitary or coven (3 hags of any kind)
 | **Treasure Category**: R (C) |
 | **Description** |
 
-These wicked, monstrous hags possess terrifying traits that few dare to gaze upon, they take pleasure in the discord and death of sailors, and torment seafarers with inescapable calamities. Sea hags always have a terrible appearance and, despite their voracious nature, they are generally emaciated creatures that seem about to starve to death. They are 1.8 meters tall and weigh 75 kg.
+These wicked, monstrous hags possess terrifying traits that few dare to gaze upon. They take pleasure in the discord and death of sailors, and torment seafarers with inescapable calamities. Sea hags always have a terrible appearance and, despite their voracious nature, they are generally emaciated creatures that seem about to starve to death. They are 1.8 meters tall and weigh 75 kg.
 
 Sea hags prefer to live near the shoreline where fishing boats and merchant ships are more common, and away from urban areas so that their actions do not attract too much attention from potential enemies, although it is not unusual for a brave or greedy sea hag to settle in a port city or at the mouth of a deep river.
 
@@ -8526,7 +8526,7 @@ Organization: Solitary, pair, group (3-5) or platoon (6-11)
 | **Description** |
 
 Sentinels of the vaults of Hell, jailers of the blackest souls, and living weapons of the infernal forges. A Spined Devil loves to feel warm blood on its spines and prefers to throw itself into the fray when given the opportunity to fight.
-Spined Devils are collectors and organizers. If left to act freely, these devils' \*\* hideouts often display the impaled trophies of old victims.
+Spined Devils are collectors and organizers. If left to act freely, these devils often display the impaled trophies of old victims in their hideouts.
 Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lean, muscular bodies appear larger due to the constantly growing spikes that protrude from their bodies, sharp as blades.
 
 ### Spirit Naga
@@ -8596,7 +8596,7 @@ Sprites gather in groups in the depths of woodland regions, united in the cause 
 
 A sprite' \*\*s body is naturally luminous, although the creature can vary the color and intensity of the light emitted from its body as it wishes. Immediately after its death, a sprite' \*\*s body dissolves into a shimmering mist. Sprites are the smallest of the fey, standing just over 9 inches tall and rarely weighing more than 2 pounds.
 
-In many ways, sprites are more primitive than most fey. They appreciate the company of their own kind, but tend to distrust other fey and assume that any humanoid or creature they haven' \*\*t expressly chosen to protect wants to harm them. Even animals are usually considered dangerous by them. The reason for this mistrust is largely due to the tiny size of these creatures, which makes them easy prey for predators. Therefore, a sprite' \*\*s initial reaction to danger is to flee: it typically uses its magical abilities to slow down or distract pursuers, and then relies on its flying speed and size to escape.
+In many ways, sprites are more primitive than most fey. They appreciate the company of their own kind, but tend to distrust other fey and assume that any humanoid or creature they haven' \*\*t expressly chosen to protect wants to harm them. Even animals are usually considered dangerous by them. This mistrust is largely due to the tiny size of these creatures, which makes them easy prey for predators. Therefore, a sprite' \*\*s initial reaction to danger is to flee: it typically uses its magical abilities to slow down or distract pursuers, and then relies on its flying speed and size to escape.
 
 Although sprites themselves have an uncultivated and wild nature, they have a healthy curiosity for all things with innate magic. They are particularly attracted to places of great latent magical power, such as the ruins of ancient temples. This curiosity also makes them unusually suited to the role of familiars. A chaotic 5th-level spellcaster can obtain a sprite as a familiar if they have the Familiar Feat.
 
@@ -8687,7 +8687,7 @@ Stirges are usually about 12 inches long, with a wingspan of about twice that, a
 
 *Hit:* 19 (3d8 + 6) bludgeoning damage.
 
-***Wide Swing.** Melee Weapon Attack*: +9 to hit, reach 3 meters, with a single attack can hit two creatures in melee close to each other.
+***Wide Swing.** Melee Weapon Attack*: +9 to hit, reach 3 meters, with a single attack it can hit two creatures in melee close to each other.
 
 ***Rock.** Ranged Weapon Attack*: +8 to hit, range 18m, one target.
 
@@ -8714,7 +8714,7 @@ Stone giants fight at range if possible, but if they cannot avoid melee, they us
 
 Stone giants prefer to live in huge caves on rocky peaks. They rarely live more than a few days' \*\* journey from other bands of stone giants and raise shared herds of goats and other livestock.
 
-Older stone giants tend to move away from the tribe for long periods, to live in solitude somewhere or attempting to fit into other humanoid civilizations. After decades of self-imposed exile, those who return are known as Stone Giants Elders.
+Older stone giants tend to move away from the tribe for long periods, to live in solitude somewhere or to attempt to fit into other humanoid civilizations. After decades of self-imposed exile, those who return are known as Stone Giants Elders.
 
 ### Stone Golem
 
@@ -8726,7 +8726,7 @@ Older stone giants tend to move away from the tribe for long periods, to live in
 - **Dam. Imm.**: Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 36m}
-- **Languages**: understands the languages of its creator but cannot speak
+- **Languages**: understands the languages of its creator but cannot speak speak
 - **Challenge**: 10 (5900 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 10/- against non-magical weapons.
@@ -8757,11 +8757,11 @@ Organization: Solitary or group (2-4)
 | **Treasure Category**: None |
 | **Description** |
 
-A stone golem has a humanoid body made of stone, often stylized to suit its creator. For example, it can be sculpted to appear wearing armor, with special symbols carved on the breastplate, or have designs inlaid in the stone of its limbs. The head is often carved to look like a helmet or the head of some beast. Although it may be sculpted with a shield or a stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.
+A stone golem has a humanoid body made of stone, often stylized to suit its creator. For example, it can be sculpted to appear wearing armor, with special symbols carved on the breastplate, or to have designs inlaid in the stone of its limbs. The head is often carved to look like a helmet or the head of some beast. Although it may be sculpted with a shield or a stone weapon such as a sword, these aesthetic choices do not affect its combat abilities.
 
 Like most golems, a stone golem cannot speak and emits no sound other than that of stone rubbing against stone when it moves. A stone golem stands 2.7 meters tall and weighs about 1000 kg.
 
-There are numerous variants of Stone Golems, depending on the materials they are made of but also as expressions of elemental spirits, that is, it is possible for an elemental spirit to inhabit a rock (or gem) and define its appearance and animate it as its own body.
+There are numerous variants of Stone Golems, depending on the materials they are made of but also on the elemental spirits that inhabit them, that is, it is possible for an elemental spirit to inhabit a rock (or gem) and define its appearance and animate it as its own body.
 
 **Construction**
 The body of a stone golem is carved from a single block of hard stone, such as granite, weighing at least 1,500 kg. The stone must be of exceptional quality, and cost 5000 gp.
@@ -8793,7 +8793,7 @@ At will: *Feather Fall, detect magic,* *levitation, Light*
 
 *Hit:* 30 (6d6 + 9) slashing damage.
 
-***Wide Swing.** Melee Weapon Attack*: +12 to hit, reach 3 meters, with a single attack can hit two creatures in melee close to each other.
+***Wide Swing.** Melee Weapon Attack*: +12 to hit, reach 3 meters, with a single attack it can hit two creatures in melee close to each other.
 
 ***Rock.** Ranged Weapon Attack*: +11 to hit, range 18m, one target.
 
@@ -9232,7 +9232,7 @@ At will: *Druidcraft*, *Pass Without Trace*
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
-***Teleport (1/Day).*** The unicorn can magically teleport itself and up to three willing visible creatures within 1 meter of it, along with all equipment they are wearing or carrying, to a familiar location to the unicorn, which is a maximum of 1.5 kilometers away.
+***Teleport (1/Day).*** The unicorn can magically teleport itself and up to three willing visible creatures within 1 meter of it, along with all equipment they are wearing or carrying, to a location familiar to the unicorn, which is a maximum of 1.5 kilometers away.
 
 ***Healing Touch (3/Day).*** The unicorn touches another creature with its horn. The target magically regains 11 (2d8 + 2) Hit Points. In addition, the touch removes all diseases and neutralizes all poisons afflicting the target.
 
@@ -9388,7 +9388,7 @@ Organization: Solitary, pair, group (3-6) or mob (7-12)
 | **Treasure Category**: M |
 | **Description** |
 
-A Vampire can decide to create a vampire spawn from a victim rather than a full vampire only when using its ability to create spawn on a humanoid creature. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
+A Vampire can decide, when using its ability to create spawn on a humanoid creature, to create a vampire spawn rather than a full vampire from a victim. This decision must be made as soon as a vampire kills an appropriate creature using its bite.
 
 ### Violet Fungus
 
@@ -9905,7 +9905,7 @@ Usually, the Wise Owlbear loves to surround itself with books and adores the com
 Usually weaker and more fragile than their close relative, they are still formidable beings in combat.
 Preferably, a Wise Owlbear does not attack except in defense and seeks the most tactical and useful approach possible. A characteristic trait of Wise Owlbears is a red scarf worn around the absent neck. Killing a Wise Owlbear is an affront to the Devotees and Followers of Nethergal; it has also happened that the Patron himself has taken away the ability to communicate from those who have committed atrocities against his favorite creatures.
 
-Training a Wise Owlbear is much easier than an Owlbear, but the high intelligence of the creature will push it to have an equal relationship or as a familiar rather.
+Training a Wise Owlbear is much easier than training an Owlbear, but the high intelligence of the creature will push it to have an equal relationship or as a familiar rather.
 
 The Mage Hand spell is usually used to flip through the most delicate tomes and to write, albeit extremely slowly.
 
@@ -10210,7 +10210,7 @@ Environment: Temperate Coastal Areas
 Organization: Solitary
 | **Treasure Category**: D |
 | **Description** |
-| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate |
+| Bronze dragons are known to ally with travelers and adventurers if the cause and reward are just and adequate. |
 | **Spells** |
 | This Dragon' \*\*s preferred spells are: |
 | - Globe of Invulnerability |
@@ -11219,7 +11219,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ***Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
-*Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or contract a disease. Until the disease is cured, Fortitude Saving Throw DC 12 every 24 hours, the target can' \*\*t regain hit points except by magical means, and the target' \*\*s hit point maximum decreases by 3 (1d6) every 24 hours. If the target' \*\*s hit point maximum drops to 0 as a result of this disease, the target dies.
+*Hit:* 4 (1d4 + 2) piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or contract a disease. Until the disease is cured, the target must make a Fortitude Saving Throw DC 12 every 24 hours; the target can' \*\*t regain hit points except by magical means, and the target' \*\*s hit point maximum decreases by 3 (1d6) every 24 hours. If the target' \*\*s hit point maximum drops to 0 as a result of this disease, the target dies.
 
 ### Giant Scorpion
 
@@ -11801,7 +11801,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
 
-Nethergal, rather shocked by the loss of a useful animal for carrying messages and rideable over long distances, and lacking the power to create a new creature from nothing, turned to Efrem and Orlaith. She asked Efrem to identify an animal that could be robust, fast, and suitable for riding, while asking Orlaith to instill obedience and courage in it.
+Nethergal, rather shocked by the loss of a useful animal for carrying messages and riding over long distances, and lacking the power to create a new creature from nothing, turned to Efrem and Orlaith. She asked Efrem to identify an animal that could be robust, fast, and suitable for riding, while asking Orlaith to instill obedience and courage in it.
 
 Efrem, knowing that Torbiorn had brought millions of his beloved dinosaurs to the planet, chose the Parasaurolophus and, with Orlaith' \*\*s support, made it more compact, small, tame, herbivorous: perfect for riding.
 
@@ -12106,7 +12106,7 @@ The stirge can detach itself by spending 1 Action. It does so automatically afte
 - **Movement**: 15 m
 - **Challenge**: 1/2 (100 XP)
 
-***Keen Hearing and Smell.*** The worg has +1d6 in Awareness checks that rely on hearing or smell.
+***Keen Hearing and Smell.*** The worg has +1d6 on Awareness checks that rely on hearing or smell.
 
 **Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
@@ -12456,7 +12456,7 @@ The archmage casts these {*} spells on itself before combat.
 
 **Priests**
 
-Priests are devoted to a deity or faith who take care of imparting divine teachings to their flock.
+Priests are devoted to a deity or faith and take care of imparting divine teachings to their flock.
 
 ### Cultist
 
@@ -12539,7 +12539,7 @@ level 2 (3 slots): *Spiritual Weapon, Hold Person*
 - **Languages**: two languages of your choice
 - **Challenge**: 2 (450 XP)
 
-They are individuals in command of a temple or other sacred place and who have several acolytes at their disposal.
+They are individuals in command of a temple or other sacred place who have several acolytes at their disposal.
 
 ***Divine Eminence.*** As an Immediate Action, the priest can spend a spell slot to cause its melee weapon attack to deal an extra 10 (3d6) Light damage. The benefit lasts until the end of the round.
 
@@ -12591,7 +12591,7 @@ Coming from wild lands, unpredictable berserkers gather in war bands and are alw
 
 They are the defenders of tribes living on the fringes of civilization.
 
-***Pack Tactics.*** The tribal warrior has +1d6 on attack rolls against a creature if at least one of the fighter' \*\*s allies is within 1 meter of the creature and that ally isn' \*\*t incapacitated.
+***Pack Tactics.*** The tribal warrior has +1d6 on attack rolls against a creature if at least one of the tribal warrior' \*\*s allies is within 1 meter of the creature and that ally isn' \*\*t incapacitated.
 
 **Actions*Spear.** Melee or Ranged Weapon Attack*: +3 to hit, reach 1 m or range 6m, one target.
 
@@ -12842,7 +12842,7 @@ The condition applies to both the grappled creature and the grappler.
 
 **Deafened**: A deafened character cannot hear. They automatically fail all Awareness checks based on sound and are considered Distracted when casting spells with at least verbal components.
 
-Characters who remain deafened for long periods may become accustomed to these penalties and overcome some of them, at the Narrator' \*\*s discretion.
+Characters who remain deafened for long periods may become accustomed to these penalties and overcome some of them, at the Game Master' \*\*s discretion.
 
 **Poisoned**: any subject under the influence of a poison or potion is considered poisoned, regardless of whether it is already producing effects or has yet to produce them given the onset time. A creature immune to Poison damage cannot have the Poisoned condition.
 
@@ -12923,7 +12923,7 @@ The space occupied by a paralyzed (or dead) creature is considered difficult ter
 
 **Loss of Ability score points**: when Ability scores decrease, remember to subtract any Hit Points (1 per point of Constitution lost per level), lower Saving Throws (Dexterity, Constitution, Wisdom), Attack Rolls (Strength and Dexterity), **Defense:** (Defense). If not indicated as permanent, you recover 1 point of all Ability scores per day of rest.
 
-**Petrified**: A petrified character has been transformed into stone and is senseless and **Helpless**, and is considered an object.
+**Petrified**:  A petrified character has been transformed into stone, is senseless and **Helpless**, and is considered an object.
 
 If a petrified character cracks or breaks, but the broken pieces are joined to the body when it returns to flesh, the character is not injured or damaged. If the petrified body of the character is incomplete when it is transformed back into flesh, the body remains incomplete and might have some permanent loss of Hit Points and/or other impairments.
 
@@ -12952,7 +12952,7 @@ When you are prone, you can crawl. The terrain is considered difficult and you a
 
 **Broken**: The broken condition has the following effects, depending on the object:
 
-- If the object is a weapon, all attacks made with the object suffer a -2 penalty to Attack Rolls and damage. Such weapons score a Critical Hit only with 3 sixes and inflict at most only 1 times the additional damage.
+- If the object is a weapon, all attacks made with the object suffer a -2 penalty to Attack Rolls and damage. Such weapons score a Critical Hit only with 3 sixes and inflict at most only 1 time the additional damage.
 
 - If the object is armor or a shield, the bonus it grants to Defense is halved, rounding up. Broken armor doubles the armor check penalty to Skill Checks.
 

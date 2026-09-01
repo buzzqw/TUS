@@ -46,7 +46,7 @@ Casting spells underwater can be difficult for those who cannot breathe underwat
 
 A creature unable to breathe underwater spends three rounds of holding its breath to cast a spell with Verbal components.
 
-Some spells might work differently underwater, at the Narrator' \*\*s discretion.
+Some spells might work differently underwater, at the Game Master' \*\*s discretion.
 
 See Environment Chapter for the rules on holding breath (p. ).
 

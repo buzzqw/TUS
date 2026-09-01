@@ -166,7 +166,7 @@ The weapons you can find working are revolvers, shotguns, semi-automatic rifles,
 - **Magazine**: 4 bullets
 - **Range**: 6 meter cone
 - **Damage**: 2d8 (P) damage
-- **Rules**: creatures in the cone can make a Reflex Saving Throw against your Attack Roll. In case of Success or Critical Success, the damage is halved; in case of Critical Failure, the damage is doubled. In case of Failure, the damage is normal.
+- **Rules**: creatures in the cone can make a Reflex Saving Throw against your Attack Roll. On a Success or Critical Success, the damage is halved; on a Critical Failure, the damage is doubled. On a Failure, the damage is normal.
 - **Semi-automatic Rifle**:
 - **Actions**: 1 Action for 3 shots fired
 - **Magazine**: 21 bullets

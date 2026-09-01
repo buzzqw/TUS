@@ -54,7 +54,7 @@ A character can perform up to 3 Sprint Actions, i.e., runs for the entire round 
 
 ### Hindered Movement - Difficult Terrain
 
-Difficult terrain, snowy, icy, with rapid ascents and descents, full of debris or with obstacles or poor visibility can hinder movements. When movement is hindered, one moves at half speed, 2 Actions are needed to cover one' \*\*s distance of 9 meters (if one is human without encumbrance..), or with a Move Action one covers only 4 meters.
+Difficult terrain, whether snowy, icy, full of debris, or obstructed by rapid ascents, descents, or poor visibility, can hinder movement. When movement is hindered, a character moves at half speed: 2 Actions are needed to cover 9 meters (if the character is human and unencumbered...), or a Move Action covers only 4 meters.
 
 If there is more than one particular condition, add all applicable additional costs together, i.e., if a terrain is difficult and one moves on all fours, it means moving at a quarter of one' \*\*s movement. 
 
@@ -97,7 +97,7 @@ He could decide to (among various possibilities):
 
 A character in contact with another creature can use **one Action** to **exchange places** with it. If the creature is hostile, an Athletic Check opposed to a Fortitude Saving Throw is required to succeed in exchanging places. For each size difference, whoever has the larger one takes a +1d6 bonus to the check. It costs a Reaction to the friendly creature.
 
->>> **Always in the path..**: If you want a crude realism then it is also difficult terrain to pass through areas where there are friendly creatures.
+>>> **Always on the path...**: If you want crude realism, it is also difficult terrain to pass through areas where there are friendly creatures.
 
 ### Being confined with someone
 
@@ -144,7 +144,7 @@ The forced march can be maintained for a number of days equal to the Constitutio
 
 **Terrain**
 
-The terrain on which you travel affects how much distance is covered in an hour or a day. Depending on the environment, climate, road quality, the Narrator can evaluate that movement can be normal, reduced by a third, reduced by half, or so impervious and difficult as to reduce it to a quarter of the total possible movement.
+The terrain on which you travel affects how much distance is covered in an hour or a day. Depending on the environment, climate, road quality, the Game Master can evaluate that movement can be normal, reduced by a third, reduced by half, or so impervious and difficult as to reduce it to a quarter of the total possible movement.
 
 **Mounted Movement**
 
@@ -197,12 +197,12 @@ If the pursuit takes place in an open area where there is no way to hide or make
 
 ### Weight and Encumbrance
 
-Carrying treasures, dragon pieces, complete armor not to mention disproportionate weapons or battering rams, pulleys, and hoists, make movement difficult.
+Carrying treasures, dragon pieces, complete armor - not to mention disproportionate weapons or battering rams, pulleys, and hoists - makes movement difficult.
 
 When evaluating the weight carried, also consider the encumbrance!
 Carrying a 12-meter x 6-meter roll of silk is not a demanding physical activity, it will be a few kilos, but the encumbrance is such that it does not allow further load.
 
-There can be light but extremely bulky objects (hollow logs, silk carpets..) or small but very heavy ones (mercury spheres, gold-woven clothes), for all these objects the weight value must be reasoned also in function of the encumbrance.
+There can be light but extremely bulky objects (hollow logs, silk carpets...) or small but very heavy ones (mercury spheres, gold-woven clothes). For all these objects, the weight value must also be assessed in terms of encumbrance.
 
 Each object has its own Encumbrance value, generally **every 3 kg has 1 as an Encumbrance factor**. This value can also become 5kg if the object is easily transportable. The Encumbrance values of objects are added together to give the total load carried which is compared with the Load Capacity of the creature.
 
@@ -214,13 +214,13 @@ The Load Capacity (CdC) of a creature is given by the **sum of Size, Strength, a
 
 The Size of a creature grants a bonus to **CdC** (Load Capacity) equal to 6 if Small, 12 if Medium, 24 if Large. The Encumbrance of a creature if dragged by weight is equal to half its Load Capacity, given by size, plus its encumbrance. If carried by weight, the CdC will be equal to the Encumbrance the creature has.
 
-When the total **CdC is exceeded**, then moving and performing skill checks based on Dexterity becomes problematic. One becomes encumbered terrein is considered difficult and skill checks based on Dexterity have a -3 penalty.
+When the total **CdC is exceeded**, moving and performing skill checks based on Dexterity becomes problematic. One becomes encumbered, the terrain is considered difficult, and Dexterity-based skill checks have a -3 penalty.
 
 If the **CdC is doubled**, then one can no longer move due to the encumbrance of the weights carried.
 
 E.g. Tups is wearing a Ring Mail (encumbrance 4), a longsword (medium weapon, encumbrance 2), a mace (enc. 2), 18 light objects (enc. 1), a backpack (enc. 1), a tent (enc. 2), a lantern (enc 1). Total Encumbrance = 13.
 
-Tups is a Medium creature with Strength -1 and Constitution +0 (he' \*\*s a bit frail and weak..) this gives him a Load Capacity of 12-1=11.
+Tups is a Medium creature with Strength -1 and Constitution +0 (he' \*\*s a bit frail and weak...), giving him a Load Capacity of 12-1=11.
 
 Encumbrance is higher than Tups' \*\*s CdC! He must be careful, it' \*\*s better if he leaves the tent on his Saurovall...
 

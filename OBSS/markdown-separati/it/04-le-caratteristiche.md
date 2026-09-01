@@ -8,9 +8,9 @@ Anche se non è comune che un personaggio effettui una prova usando soltanto una
 
 ## Descrizione delle Caratteristiche
 
-Il punteggio delle Caratteristiche non è tutto in un personaggio ne tanto meno in un mostro.
+Il punteggio delle Caratteristiche non è tutto in un personaggio né, tanto meno, in un mostro.
 
-I mostri più *istintivi* ed aggressivi avranno probabilmente punteggi negativi di Intelligenza, ma non per questo sono *stupidi*, semplicemente agiscono in base ai loro schemi naturali. Allo stesso tempo creature con basso valore di Costituzione non staranno per morire ma sono solo *fragili*.
+I mostri più *istintivi* e aggressivi avranno probabilmente punteggi negativi di Intelligenza, ma non per questo sono *stupidi*: semplicemente agiscono in base ai loro schemi naturali. Allo stesso modo, le creature con un basso valore di Costituzione non stanno per morire, ma sono solo *fragili*.
 
 ### Forza
 
@@ -59,7 +59,7 @@ Un personaggio con un punteggio di Intelligenza pari a -5 è in stato di coma.
 
 > La forza non deriva dalla capacità fisica. Deriva da una volontà indomita. (Mahatma Gandhi)
 
-La Saggezza riflette la tua sintonia con il mondo circostante e rappresenta la perspicacia, l'intuito, la forza di volontà ed il buon senso.
+La Saggezza riflette la tua sintonia con il mondo circostante e rappresenta la perspicacia, l'intuito, la forza di volontà e il buon senso.
 
 Una prova di Saggezza riflette uno sforzo per interpretare il linguaggio corporeo, comprendere i sentimenti di qualcuno, notare dettagli dell'ambiente o curare una persona ferita.
 
@@ -77,7 +77,7 @@ Il Carisma misura la tua capacità di interagire efficacemente con il prossimo. 
 
 Una prova di Carisma può essere richiesta quando cerchi di influenzare o intrattenere altre persone, quando cerchi di fare impressione o raccontare una menzogna, o quando devi barcamenarti in una complicata situazione sociale.
 
-Il punteggio di Carisma influenza il numero di *tizi* che conosci. Vedi Io conosco un tizio.....
+Il punteggio di Carisma influenza il numero di *tizi* che conosci. Vedi Io conosco un tizio....
 
 Tipiche situazioni di utilizzo del Carisma includono tentativi di raggirare una guardia, truffare un mercante, guadagnare soldi al gioco d'azzardo, farsi passare per qualcun altro grazie a un travestimento, fugare i sospetti di qualcuno con false rassicurazioni o mantenere un volto imperturbabile mentre si racconta una lampante menzogna.
 
@@ -85,11 +85,11 @@ Un personaggio con un punteggio di Carisma pari a -5 è privo di sensi.
 
 ### Leggere i punteggi delle Caratteristiche
 
-Ogni punteggio di Caratteristica in genere va da 0 a 3, un punteggio di Caratteristica buono è 1, 2 è ottima, 0 è "normale", 3 è giudicato *eccezionale*.
+Ogni punteggio di Caratteristica in genere va da 0 a 3: un punteggio di 1 è buono, 2 è ottimo, 0 è "normale" e 3 è giudicato *eccezionale*.
 
-Un punteggio di -1 e giudicato debole, un -2 subnormale, un -3 severamente problematico, un -4 porta quasi ad un non utilizzo della caratteristica, un -5 è opportuno che stia nel letto e basta (se non è già in una bara).
+Un punteggio di -1 è giudicato debole, -2 subnormale, -3 severamente problematico, -4 porta quasi al non utilizzo della caratteristica e -5 indica che è opportuno stare a letto e basta (se non si è già in una bara).
 
-### Opzionale - Eta' del personaggio 
+### Opzionale - Età del personaggio 
 
 L'età del personaggio influisce sulle Caratteristiche fisiche e mentali.
 
@@ -117,25 +117,25 @@ I **tiri per le Caratteristiche sono eseguiti in ordine**, quindi il primo tiro 
 
 In ultimo ricordate che OBSS è un gioco di ruolo dove la morte del personaggio capita, anche più spesso che in altri Giochi di Ruolo. Create dei validi e concreti personaggi e lasciate che sia l'avventura a forgiare i dettagli.
 
-***I modificatori razziali o di background non possono alzare o abbassare i punteggio oltre +4/-4***.
+***I modificatori razziali o di background non possono alzare o abbassare i punteggi oltre +4/-4***.
 
-### Modalita' base
+### Modalità base
 
 Il giocatore tira 3d6 per ogni caratteristica ed in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire ad un'altra terzina. Per ogni caratteristica tirata controlla la somma dei dadi tirati con la **Tabella: Tiro Caratteristiche**.
 
-Il personaggio così generato acquisisce gratuitamente l'Abilita Duro a morire .
+Il personaggio così generato acquisisce gratuitamente l'Abilità Duro a morire .
 
-### Modalita' della Tradizione
+### Modalità della Tradizione
 
 Ogni giocatore tira 4d6 per 6 volte e somma i migliori 3 risultati ogni volta. Il risultato ottenuto viene controllato con la **Tabella: Tiro delle Caratteristiche** ed assegnato alle Caratteristiche a piacere.
 
-### Modalita' opzionale (per i codardi!)
+### Modalità opzionale (per i codardi!)
 
 Ogni giocatore distribuisce 4 punti tra le 6 Caratteristiche, ogni Caratteristica deve avere come minimo un punteggio di -1 e come massimo 2 prima dei modificatori razziali.
 
 ### Tabella: Tiro delle Caratteristiche
 
-La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabella per determinare i valori effettivi della Caratteristiche.
+La somma dei dadi tirati per le Caratteristiche va confrontata con questa tabella per determinare i valori effettivi delle Caratteristiche.
 
 | **Val. tirato** | **Caratt.** | **Val. tirato** | **Caratt.** |
 |---|---|---|---|
@@ -170,9 +170,9 @@ Per aumentare la Caratteristica oltre a 4 sono necessari oggetti magici o incant
 
 L'aumento di Caratteristica applica immediatamente il modificatore alle Prove di Competenza, Tiri Salvezza, Tiri per Colpire, Iniziativa e Magia. L'aumento dell'intelligenza si ripercuote nel successivo livello per quanto riguarda l'aumento delle Competenze acquisite.
 
->>> **Non è tutto nelle Caratteristiche**: I giocatori comunque si lamenteranno delle Caratteristiche tirate, è normale, specialmente i giocatori più inesperti. Cercate di fargli capire che non deve limitarsi a guardare le Caratteristiche ma vedere l'insieme generale del personaggio. Suggeritegli Abilità che possano aiutarlo a sopperire ai valori delle Caratteristiche.
+>>> **Non è tutto nelle Caratteristiche**: I giocatori comunque si lamenteranno delle Caratteristiche tirate: è normale, specialmente per i giocatori più inesperti. Cercate di far loro capire che non devono limitarsi a guardare le Caratteristiche, ma devono vedere l'insieme generale del personaggio. Suggerite loro Abilità che possano aiutarli a sopperire ai valori delle Caratteristiche.
 
->> **Il Personaggio fa schifo!**: Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi.. insomma tutto ciò che vi può fare risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
+>> **Il Personaggio fa schifo!**: Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi... insomma, tutto ciò che vi può aiutare a risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
 
 > Sono le nostre scelte che mostrano chi siamo veramente, molto più delle nostre capacità. (Albus Silente)
 

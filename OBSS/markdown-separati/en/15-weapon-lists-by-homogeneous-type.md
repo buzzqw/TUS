@@ -128,7 +128,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 
 ## Polearms
 
-Javelin, Trident, Halberd
+ Javelin, Trident, Halberd
 
 - 4 points: if you make at least one critical hit with the Attack Roll, you can leave the weapon in the opponent' \*\*s body, penalizing them with a -1 Dexterity. The weapon when removed causes one critical damage.
 - 5 points: you can make an opportunity attack against opponents who cross your melee zone using a Reaction.
@@ -139,7 +139,7 @@ Javelin, Trident, Halberd
 
 ## Crossbows
 
-Light Crossbow, Heavy Crossbow, One-handed Crossbow
+ Light Crossbow, Heavy Crossbow, One-handed Crossbow
 
 - 4 points: gain the Rapid Shot Feat (page ).
 - 5 points: the first Critical Hit you execute on the opponent adds an additional critical hit.
@@ -150,7 +150,7 @@ Light Crossbow, Heavy Crossbow, One-handed Crossbow
 
 ## Lances
 
-Halberd, Urgrosh, Footman' \*\*s Lance, Polearm Scythe, Lance
+ Halberd, Urgrosh, Footman' \*\*s Lance, Polearm Scythe, Lance
 
 - 4 points: used against a charge or in a charge, provided it has the Countercharge ability, the additional critical damage does maximum value.
 - 5 points: you can also use it against opponents at a distance of 1 meter without penalty.
@@ -192,7 +192,7 @@ Consult Vulnerability, Resistance, and Immunity (page ) to find out how magical 
 
 ## Skull Crushers
 
-Flail, War Maul, War Hammer, Light Mace, Flanged Mace, Spiked Mace
+ Flail, War Maul, War Hammer, Light Mace, Flanged Mace, Spiked Mace
 
 - 4 points: you have become so skilled that you can control the force of your blows; you can do non-lethal damage without penalty to hit.
 
@@ -215,11 +215,11 @@ You have no penalty to hit with the shield; for you, the shield is not an improv
 Your technique effectively mixes defense and attack. You can throw your shield with a range of 6 meters.
 
 - 1 point: you are proficient in all types of shields. You ignore the Strength 1 minimum requirement for Heavy Shields.
-- 2 points: the Defense bonus when using the shield increases by 1, and every 4 times you take this Weapon List (6,10,14,18..), you don' \*\*t use Actions to restore the shield in Defense after making an attack with it.
+- 2 points: the Defense bonus when using the shield increases by 1, and every 4 times you take this Weapon List (6,10,14,18...), you don' \*\*t use Actions to restore the shield in Defense after making an attack with it.
 - 3 points: the Magic Check penalty given by the shield decreases by 2
 - 4 points: the Attack Roll penalty decreases by 1.
-- 5 points: increase the shield' \*\*s damage category by 1 and every additional 4 points in the list (9,13,17..).
-- 8 points: each ally adjacent (within 1 meter) to you has a +1 Defense. You can throw the shield to defend a companion, giving them +2 to Defense, to be used as a Reaction. The shield falls to the ground where you defended your companion. You can throw your shield with a range of 9 meters. The Magic Check penalty given by the shield decreases by additional 2.
+- 5 points: increase the shield' \*\*s damage category by 1 and every additional 4 points in the list (9,13,17...).
+- 8 points: each ally adjacent (within 1 meter) to you has a +1 Defense. You can throw the shield to defend a companion, giving them +2 to Defense, to be used as a Reaction. The shield falls to the ground where you defended your companion. You can throw your shield with a range of 9 meters. The Magic Check penalty given by the shield decreases by an additional 2.
 - 12 points: you can throw your shield as a weapon with a range of 12 meters. If you hit and get a Critical Hit when throwing the shield, it returns to your hands at the end of the round. Each ally adjacent (within 1 meter) to you has a +2 Defense.
 - 16 points: if an opponent makes at least two attack rolls and misses you both times, you can make a shield attack against them as a Reaction.
 - 18 points: the thrown shield has a range of 18 meters and returns to your hands, if not prevented. This allows you to make multiple attacks even from a throw with the same shield. You can throw the shield to defend a companion, giving them +4 to Defense, to be used as a Reaction. The shield falls to the ground where you defended your companion.

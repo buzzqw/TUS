@@ -20,7 +20,7 @@ Strength measures physical power, athleticism, and the limits of brute force you
 
 A Strength check can be used for any attempt to lift, push, pull, or break something, to push your body into a space, or any other application of brute force.
 
-A monster with Strength -4 is not about to die, it simply has very little strength (imagine giving a Strength value to a mouse or a squirrel if not a small spider..)
+A monster with Strength -4 is not about to die; it simply has very little strength. Imagine giving a Strength value to a mouse, squirrel, or small spider.
 
 A character with a Strength score of -5 is dead.
 
@@ -73,11 +73,11 @@ A character with a Wisdom score of -5 is incapable of rational thought and is un
 
 - [...] The elements that identify charisma are three: the innate nature of heroes and prophets, the ability to instill well-being in others with your mere presence, and a culture that allows you to have a brilliant conversation on any subject. (Psycho-Pass)
 
-Charisma measures your ability to interact effectively with others. It includes factors such as confidence and eloquence, can represent a charming or commanding personality.
+Charisma measures your ability to interact effectively with others. It includes factors such as confidence and eloquence and can represent a charming or commanding personality.
 
 A Charisma check might be required when you try to influence or entertain others, when you try to make an impression or tell a lie, or when you need to navigate a complex social situation.
 
-The Charisma score influences the number of *guys* you know. See I know a guy.....
+The Charisma score influences the number of *guys* you know. See I know a guy....
 
 Typical situations for using Charisma include attempts to deceive a guard, swindle a merchant, earn money through gambling, pass yourself off as someone else through a disguise, allay someone' \*\*s suspicions with false reassurances, or maintain an impassive face while telling a blatant lie.
 
@@ -85,9 +85,9 @@ A character with a Charisma score of -5 is unconscious.
 
 ### Reading Ability Scores
 
-Each Ability Score generally ranges from 0 to 3, a good Ability Score is 1, 2 is excellent, 0 is "normal", 3 is considered *exceptional*.
+Each Ability Score generally ranges from 0 to 3. A score of 1 is good, 2 is excellent, 0 is "normal", and 3 is considered *exceptional*.
 
-A score of -1 is considered weak, a -2 subnormal, a -3 severely problematic, a -4 leads to almost non-use of the ability, a -5 is appropriate for someone who should just stay in bed (if not already in a coffin).
+A score of -1 is considered weak, a -2 very weak, a -3 severely problematic, a -4 leads to almost non-use of the ability, a -5 is appropriate for someone who should just stay in bed (if not already in a coffin).
 
 ### Optional - Character Age
 
@@ -109,11 +109,11 @@ The indicated modifiers are cumulative.
 
  
 
-Ability Scores have an important but not fundamental role. The player must understand that a low score does not mean they have a terrible character, but rather they will have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
+Ability Scores are important, but they are not everything. The player must understand that a low score does not mean they have a terrible character; rather, they can have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
 
 Personally, I suggest the approach of the **Base Mode**. In OBSS, characters are not heroes, they are not the chosen ones, who stand up as defenders of the planet. The characters are normal people often involved, despite themselves, in situations at the limit if not beyond survival.
 
-The undoubted advantage of rolling values in order of characteristics is that it allows to mix up patterns and avoid *builds* made at the table.
+The clear advantage of rolling values in order of characteristics is that it allows you to mix up patterns and avoid *builds* made at the table.
 
 It' \*\*s likely that you won' \*\*t get the results you were hoping for, or that they might come in characteristics that don' \*\*t interest you. That' \*\*s fine. Change your mind, let yourself be inspired by the values obtained! Have fun with the new character, build something new and different, let yourself be surprised.
 
@@ -133,7 +133,7 @@ The character thus generated gets the Feat Hard to Kill (page ) for free.
 
 Each player rolls 4d6 6 times and adds the best 3 results each time. The result obtained is checked with the **Table: Ability Score Roll** and assigned to the Ability Scores as desired.
 
-### Optional Mode (for cowards!)
+### Optional Mode (Point Buy)
 
 Each player distributes 4 points among the 6 Ability Scores, each Ability Score must have a minimum score of -1 and a maximum of 2 before racial modifiers.
 
@@ -174,7 +174,7 @@ The increase in Characteristics immediately applies the modifier to Skill Checks
 
 >>> **Low Characteristics**: Players will still complain about the Ability Scores rolled, it' \*\*s normal, especially less experienced players. Try to make them understand that they shouldn' \*\*t limit themselves to looking at the Ability Scores but see the overall picture of the character. Suggest Feats that can help them compensate for the Ability Score values.
 
->> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it' \*\*s not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Narrator rewards players who describe and excel in what the character does!
+>> **The Character Sucks!**: Having low Ability Scores is not the death of the character! Rather, try to play so that it' \*\*s not necessary to roll dice or make checks! Strive to be witty, intuitive, proactive, clever... in short, everything that can help you solve the situation without necessarily having to roll dice. In OBSS, the Game Master rewards players who describe and excel in what the character does!
 
 > It is our choices that show who we truly are, far more than our abilities. Albus Dumbledore
 

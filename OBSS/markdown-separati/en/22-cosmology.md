@@ -8,7 +8,7 @@ You believe that there is one God? You do well; even the demons believe and trem
 
 The deities, the Patrons, love to get their hands dirty, to participate in the affairs of the creatures who worship them, for them it is a continuous challenge to have more believers, adepts, and people more similar, in Traits, to them.
 
-The Patrons were created as \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the human soul, where everything is an excess. Like spirits released from Pandora' \*\*s box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
+The Patrons were created as a \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the human soul, where everything is an excess. Like spirits released from Pandora' \*\*s box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
 
 In the beginning was the void which contained everything within itself.
 
@@ -18,13 +18,13 @@ Manifested as two tongues of a single flame, Ljust and Calicante are the infinit
 
 Ljust is positive energy, warmth, light, life, and syntropy; Calicante is negative energy, icy hatred, destruction, death, and entropy.
 
-**Ljust** is the representation of what light and life always bring with them. It represents the purity of the feeling of love, the protection of life, respect for others, curiosity for the new, the desire to always improve oneself, the strength to fight with courage and valor for the common good. It is the vital push towards change, the chaos that evolves but does not destroy.
+**Ljust**  is the representation of what light and life always bring with them. It represents the purity of the feeling of love, the protection of life, respect for others, curiosity for the new, the desire to always improve oneself, the strength to fight with courage and valor for the common good. It is the vital push towards change, the chaos that evolves but does not destroy.
 
-**Calicante** is the representation of darkness, hatred, anger, and violence. Calicante is vengeance and cold destruction, there is no interest in any form of life but rather uses them, exploits them, and only in certain cases suffers their presence. It sadistically loves suffering. It is the entropy that annihilates and obliterates and finds pleasure in doing so.
+**Calicante** is the representation of darkness, hatred, anger, and violence. Calicante is vengeance and cold destruction; there is no interest in any form of life but rather uses them, exploits them, and only in certain cases suffers their presence. It sadistically loves suffering. It is the entropy that annihilates and obliterates and finds pleasure in doing so.
 
-**Atmos** is the witness, the one who marks the passage of time and transcribes every event on Earth and among the Patrons of Genesis. An entity born from creation to prevent absolute destruction. It watches over and transcribes what the Patrons of Genesis do, the deities that generated creation.
+**Atmos**  is the witness, the one who marks the passage of time and transcribes every event on Earth and among the Patrons of Genesis. An entity born from creation to prevent absolute destruction, Atmos watches over and transcribes what the Patrons of Genesis do, the deities that generated creation.
 
-A fourth being was present, whose name has never reached us, but whom we know as *Omniesence*, the one who was the first born of the Patrons of Genesis.
+A fourth being was present, whose name has never reached us, but whom we know as *Omniessence*, the firstborn of the Patrons of Genesis.
 
 The Firstborn of the Patrons of Genesis, exploring the universe, arrived on Earth and here, no one knows how, was captured by the Freten.
 Captured, torn to pieces, connected to machines to draw from his eternal energy. No one knows how it was possible and it remains one of the greatest unsolved mysteries.
@@ -43,7 +43,7 @@ Ljust and Calicante decided to make this world of ours, Earth, their playground 
 
 They decided by mutual agreement to generate a Patron who would oversee these Portals. They created a Patron who was capable of perceiving, opening, and blocking them. Thus was created **Lynx**, the Guardian of Portals.
 
-Lynx oversees the cosmic void, access to the Planes, the portals that with the alternation of chaos and order, good and evil, light and darkness are increasingly creating fractures at the boundary existing between Earth and Beyond.
+Lynx  oversees the cosmic void and access to the Planes, as well as the portals that, through the alternation of chaos and order, good and evil, and light and darkness, are increasingly creating fractures at the boundary between Earth and Beyond.
 
 Lynx perceives them, feels them, knows where they are being generated or extinguishing, over time in fact some of these Portals have become stable and definitive, others continue to be generated randomly and always in a totally unknown way remain active or exhaust themselves. Traveling continuously in the non-place, Lynx closes the largest portals, but for one that he closes another opens. Lynx has deprived the Magic Lists of many of the spells that act on the planes, to protect Earth and future Patrons from external threats.
 
@@ -104,7 +104,7 @@ There is also the indication of the **preferred weapon** of the Patron. There ar
 
 Under the indication of the preferred weapon there is the indication of the Rule  that is the behavior that the Devotee must try to respect.
 
-A spellcaster who relies on a Patron, at least **2 Traits** in common, becomes a **Devotee**. If he has at least **1 Trait** in common and relies on a Patron then he is said to be a **Follower**. The **Advantage** indicated is only for the Devotee.
+A spellcaster who relies on a Patron, with at least **2 Traits** in common, becomes a **Devotee**. If he has at least **1 Trait** in common and relies on a Patron then he is said to be a **Follower**. The **Advantage** indicated is only for the Devotee.
 
 >> **Devotees and Followers**: Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
 
@@ -114,7 +114,7 @@ The acquired abilities linked to the Traits in common are independent of being a
 
 Nothing prevents a character from receiving more powers from different Patrons! At high levels when the character has a high score in the various Traits he possesses, this will happen frequently. 
 
->>> **Your game your fun**: The Narrator can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
+>>> **Your game your fun**: The Game Master can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
 
 **Energy - Elements Table**
 
@@ -131,7 +131,7 @@ Nothing prevents a character from receiving more powers from different Patrons! 
 
 In a world where deities are so capricious, fickle, and thirsty for devotees, it is in their interest to prove generous to those who can then spread their Traits.
 
-A favor asked of a Patron always has a price neither obvious nor predictable. The Narrator must carefully evaluate the character' \*\*s plea and judge if the request is pertinent to the Patron' \*\*s Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
+A favor asked of a Patron always has a price neither obvious nor predictable. The Game Master must carefully evaluate the character' \*\*s plea and judge if the request is pertinent to the Patron' \*\*s Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
 
 ### List of Patrons 
 
@@ -170,7 +170,7 @@ The Disciples of Light are a secret group of Devotees who, through total affinit
 - Be luminous but do not blind those around you.
 - Be the difference between despair and hope.
 
-The Disciples have built a harmonious dance transforming the steps of their Rule into dance.
+The Disciples have built a harmonious dance transforming the steps of their Rule into movement.
 
 There are also Disciples of another kind, rare but historically ascertained.
 
@@ -200,7 +200,7 @@ Calicante can only be chosen by characters who have 4 Traits in common with him.
 
 > What is time then? If no one asks me, I know; if I want to explain it to someone who asks me, I no longer know. (Augustine of Hippo)
 
-The guardian of Time and the Clock Tower, as he initiated time and the creation of new Patrons, so will he stop the challenge between them, and the surviving Patrons will be judged, their works evaluated, and Ljust or Calicante will benefit from them. Like a challenge from a single copper coin, new Patrons, new ideals will be created, and we, small creatures, will see new civilizations and flourishing kingdoms born. The story is little known, only the few Devotees of Atmos, scribes and scholars of the Time library, know the secret and the flow of time and the race; the others, ignorant, will live their time with a master surely guided by a Patron.
+The guardian of Time and the Clock Tower, as he initiated time and the creation of new Patrons, so will he stop the challenge between them, and the surviving Patrons will be judged, their works evaluated, and Ljust or Calicante will benefit from them. Like the flip of a coin, new Patrons, new ideals will be created, and we, small creatures, will see new civilizations and flourishing kingdoms born. The story is little known, only the few Devotees of Atmos, scribes and scholars of the Time library, know the secret and the flow of time and the race; the others, ignorant, will live their time with a master surely guided by a Patron.
 
 Atmos, the Patron of Time, is the keeper of history, the one who keeps track of the infinite and multiple worlds that have been created.
 
@@ -528,7 +528,7 @@ The Devotee of Nethergal is a fine linguist, an expert in riddles and puzzles, a
 
 A Devotee of Nethergal is a master, a language professor at a College, a learned expert in a thousand subjects, probably vain and sometimes arrogant if challenged on her subjects.
 
-Nethergal knows the location of every document and is probably the key to understanding what happened to the Freten. Very few know that Nethergal was one of the Patrons of the first coming, the one in charge of destroying communication infrastructures, the one who encrypted the contents of electronic archives in the greatest ransoware in history.
+Nethergal knows the location of every document and is probably the key to understanding what happened to the Freten. Very few know that Nethergal was one of the Patrons of the first coming, the one in charge of destroying communication infrastructures, the one who encrypted the contents of electronic archives in the greatest ransomware in history.
 
 Nethergal also has another role: she is the Patron of dreams and visions, she shares this task with Sixiser who instead dominates nightmares.
 
@@ -558,7 +558,7 @@ I am the master of my fate:
 
 I am the captain of my soul (Invictus, William Ernest Henley)
 
-The Survivor Patron, the old never-tired wolf who has crossed and fought countless battles. His flesh is wounded, his body covered with war scars and bruises, but nothing will make him collapse. Tenacity, passion, experience, and a lot of anger make Nedraf not only an excellent fighter in any occasion but a connoisseur of the environment around him. Thanks to his impeccable training, he knows how to make the best use of available resources. He knows how to passionately push the men under his orders.
+The Survivor Patron, the old never-tired wolf who has crossed and fought countless battles. His flesh is wounded, his body covered with war scars and bruises, but nothing will make him collapse. Tenacity, passion, experience, and a lot of anger make Nedraf not only an excellent fighter on any occasion but a connoisseur of the environment around him. Thanks to his impeccable training, he knows how to make the best use of available resources. He knows how to passionately push the men under his orders.
 Nedraf represents the one you would always want by your side in any battle.
 
 Many mercenary captains and commanding officers are Devotees of Nedraf. The Devotee of Nedraf does not give up, does not renounce, does not abandon his companions, but this does not make him reckless or irrational in his choices.
@@ -683,7 +683,7 @@ Among humans, the Devotees of Rezh become explorers, tomb raiders, people always
 
 ### Shayalia
 
-Patron of the Arcane of Darkness. Shayalia is the dark soul of perdition, betrayal, the most sordid and sinful lust. She adores brothels. She likes the acrid smell of sweat, skin shiny with oils and perfumes. The passions, the vengeances that are consumed there, the physical and moral destruction that is perpetrated in those places is her life.
+Patron of the Arcane of Darkness. Shayalia is the dark soul of perdition, betrayal, the most sordid and sinful lust. She adores brothels. She likes the acrid smell of sweat, skin shiny with oils and perfumes. The passions, the vengeances that are consumed there, the physical and moral destruction that is perpetrated in those places are her life.
 
 > Who plants a garden plants happiness (Chinese proverb)
 
@@ -773,7 +773,7 @@ Calicante, horrified at the sight of such a Patron, deprived him of the ability 
 - **Ability Score**: Charisma
 - **Traits**: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 - **Manifestation**: the Devotee is wrapped in a golden brocade cloak
-- **Sum of Traits in common at 2 points** points: The touch of your sword is life. A creature touched with your weapon recovers 3d6 Hit Points. Once per day. Cost 2 Actions.
+- **Sum of Traits in common at 2 points**: The touch of your sword is life. A creature touched with your weapon recovers 3d6 Hit Points. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 7 points**: Your Will is stronger than metal. You gain a +2 to Will Saving Throws
 - **Sum of Traits in common at 11 points**: You can cast the spell Cone of Cold, 40 damage from Electricity. DC 25 to halve. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 15 points**: You sacrifice your life to bring back to life a creature dead for no more than 1 week. Once. Cost 3 Actions.
@@ -842,7 +842,7 @@ The human Devotee of Tazher is the thief, the assassin, the bandit, anyone who l
 - **Ability Score**: Dexterity
 - **Traits**: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 - **Manifestation**: the Devotee' \*\*s shadow comes to life moving the weapon
-- **Sum of Traits in common at 5 points** points: You gain +2 to Stealth checks.
+- **Sum of Traits in common at 5 points**: You gain +2 to Stealth checks.
 - **Sum of Traits in common at 10 points**: Your Darkvision becomes 6 meters.
 - **Sum of Traits in common at 15 points**: as long as you walk over shadows or in the dark (darkness) you are invisible. You can still be detected with light or divination spells.
 - **Sum of Traits in common at 20 points**: Darkness is no longer a problem. You see in darkness, even magical darkness, as if it were day. When you are in a fully lit environment, you are dazzled with a -2 to Attack Rolls.
@@ -870,7 +870,7 @@ Thaft was shaped by Atmos.
 - **Ability Score**: Wisdom
 - **Traits**: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 - **Manifestation**: the cry of a newborn child or the sigh of death is heard
-- **Sum of Traits in common at 5 points** points: Your touch is lethal to the undead. One of your touches inflicts 2d6 damage to an undead. Cost 2 Actions including the touch. Up to 3 times per day.
+- **Sum of Traits in common at 5 points**: Your touch is lethal to the undead. One of your touches inflicts 2d6 damage to an undead. Cost 2 Actions including the touch. Up to 3 times per day.
 - **Sum of Traits in common at 10 points**: Your touch soothes. Once per day you can remove Blindness or Deafness. Cost 2 Actions.
 - **Sum of Traits in common at 15 points**: An undead, with CR lower than the sum of your Traits in common, must make a Fortitude Saving Throw DC 30 or be destroyed if touched by your hand. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: Kill the creature you touch. Will Saving Throw DC 30 or death. Once per week. Cost 2 Actions.
@@ -898,7 +898,7 @@ Regardless of others, he enjoys exploiting the work of others and benefiting fro
 - **Ability Score**: Charisma
 - **Traits**: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 - **Manifestation**: shards of broken mirror all around the Devotee like a whirlwind
-- **Sum of Traits in common at 5 points** points: With a gesture you can refresh your clothes and yourself making them clean and fragrant. Cost 1 Action. 3 times per day.
+- **Sum of Traits in common at 5 points**: With a gesture you can refresh your clothes and yourself making them clean and fragrant. Cost 1 Action. 3 times per day.
 - **Sum of Traits in common at 10 points**: Your spit is poisonous. If the touch Attack Roll hits -2 Strength, not cumulative. Duration 1 minute. Three times per day. Cost 1 Action.
 - **Sum of Traits in common at 15 points**: Staring at the target in the eyes you force them to stop. The subject cannot perform Movement Actions. Will Saving Throw DC 30. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: From your fingers, tendrils shoot out that sting up to 10 opponents. Each tendril, up to 18 meters long, causes 2d6 damage, Reflex Saving Throw DC 25 to halve. Cost 2 Actions.
@@ -908,7 +908,7 @@ Regardless of others, he enjoys exploiting the work of others and benefiting fro
 - **Preferred Weapon**: One-handed Axe
 - **Rule**: Do not be sloppy, poorly dressed or untidy.
 
->>> **Personalizing our game**: In agreement with the Narrator, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
+>>> **Personalizing our game**: In agreement with the Game Master, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
 
 ### Patron - Trait List
 

@@ -8,7 +8,7 @@ In this new *economy*, the value of old coins is zero except for a limited numis
 
 We could say that after the first coming of the Patrons, the dismantling and destruction of state and economic infrastructure, in the two centuries to come, the https://en.wikipedia.org/wiki/Bretton_Woods_system have not been re-proposed, and in fact we struggle in the most important cities to have a https://en.wikipedia.org/wiki/Gold_standard.
 
-The extreme difficulty of international transport, limited through dangerous Portals or reverted to using old sailing ships and very rare steam ships and trains, historical remnants of pieces of high *modern* engineering, have brought trade to work in a simpler, more basic way.
+The extreme difficulty of international transport, limited through dangerous Portals or reverted to using old sailing ships and very rare steam ships and trains, historical remnants of pieces of high *modern* engineering, has brought trade to work in a simpler, more basic way.
 
 Finance as we knew it no longer exists except in small communities where the citizens themselves invest in local activities. Forget the Stock Exchange, there is no internet, telephone, the few radios belong to Marconi enthusiasts who, like ancient alchemists, manage to produce electricity and use equipment with minimal range held together with precious copper wires.
 
@@ -64,6 +64,6 @@ To get an idea of commercial transactions, some trade goods are described in the
 | 10 gp | Silk (1 m) or cow (1) |
 | 15 gp | Saffron(0.5 kg)/ox (1) |
 
-Also consult the chapter on Encumbrance (pg.  in Movement and Transport.
+Also consult the chapter on Encumbrance (pg. ) in Movement and Transport.
 
 ---

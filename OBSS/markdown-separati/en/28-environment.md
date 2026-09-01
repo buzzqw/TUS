@@ -43,7 +43,7 @@ The duration indicated is expressed, when in minutes or hours, as real game time
 
 >> **Twilight or Darkvision?**: The darkness that permeates the Earth is not just a lack of light but is alive and pulsing. Even though many of the new races should be able to see in the dark, this is not the case. Tazher and Calicante have made the darkness impenetrable for anyone.
 
-**Dim light** is the light beyond a light source. It' \*\*s walking through a 3-meter corridor if it' \*\*s only illuminated by light candles, it' \*\*s a night with a full moon, it' \*\*s a slightly obscured area.
+**Dim light** is the light beyond a light source. It' \*\*s walking through a 3-meter corridor if it' \*\*s only illuminated by lit candles, it' \*\*s a night with a full moon, it' \*\*s a slightly obscured area.
 Generally speaking, a light source creates dim light in a radius twice that of normal light. **A creature in Dim Light has a -2 penalty to Awareness checks and a -1 penalty to Attack Rolls**.
 
 **Darkness**: it is the complete darkness without any light source. For creatures with normal vision, darkness is what exists beyond Dim light.
@@ -53,11 +53,11 @@ A **blind character** or one fighting in darkness (and cannot see in darkness) h
 
 ### Types of Vision and Illumination
 
-- A creature with **Normal Vision** sees up to the distance, as a circular radius around the light source, indicated in Light. Beyond is Dim Light and beyond that Darkness.
-- A creature with **Low-Light Vision** sees without problems up to the distance, as a circular radius around the light source, indicated in Dim light, or indicated by the race if smaller, beyond is darkness.
-- A creature with **Darkvision**  sees, within the radius indicated by its Darkvision, in normal light and dim light conditions without problems, while in darkness it has -2 Awareness and to Survival for spotting traps. Darkvision is a black and white vision.
+- A creature with **Normal Vision**  sees up to the distance, as a circular radius around the light source, indicated in Light. Beyond that is Dim Light, and beyond that is Darkness.
+- A creature with **Low-Light Vision**  sees without difficulty up to the distance, as a circular radius around the light source, indicated in Dim Light, or the distance indicated by the race if it is smaller. Beyond that is Darkness.
+- A creature with **Darkvision**  sees, within the radius indicated by its Darkvision, in normal light and dim light conditions without problems, while in darkness it has -2 to Awareness and to Survival for spotting traps. Darkvision is a black and white vision.
 
->> **Note on light sources**: You will have noticed or will soon notice that magical light sources work differently, often lasting much less or generating little light. This is due to the will of a Patron and as such only a Patron can nullify its effects (or the Narrator!).
+>> **Note on light sources**: You will have noticed or will soon notice that magical light sources work differently, often lasting much less or generating little light. This is because of a Patron' \*\*s will and as such only a Patron can nullify its effects (or the Game Master!).
 
 ### Darkness
 
@@ -73,7 +73,7 @@ Blinded creatures consider the terrain as difficult . They must make an Acrobati
 
 A blinded creature, or one fighting against an invisible creature, can make an Awareness check with difficulty 20 (or 10+ the opponent' \*\*s Stealth check if they don' \*\*t want to be found) to detect the creature provided it is within 6 meters of the character.
 
-A Blinded creature suffers a -2 penalty to Skill Checks based on Strength and Dexterity and automatically fails any Awareness check that depends on sight.
+A Blinded creature  suffers a -2 penalty to Skill Checks based on Strength and Dexterity and automatically fails any Awareness check that depends on sight.
 
 Additionally, a blinded creature cannot use spells that involve the use of sight and is immune to spells that involve sight.
 
@@ -130,7 +130,7 @@ Just as characters take damage from falls greater than 3 meters, they also take 
 Objects that fall on characters inflict damage depending on their weight and the distance from which they fell.
 
 The **Table: Damage from Falling Objects** determines the amount of damage inflicted by an object based on its size. It is assumed that the object is made of a dense and heavy material, such as stone.
-Objects made of lighter materials might inflict half or less of the indicated damage, at the Narrator' \*\*s discretion. For example, a Huge boulder hitting a character inflicts 6d6 damage, while a wooden cart might only inflict 3d6.
+Objects made of lighter materials might inflict half or less of the indicated damage, at the Game Master' \*\*s discretion. For example, a Huge boulder hitting a character inflicts 6d6 damage, while a wooden cart might only inflict 3d6.
 
 Additionally, if the object falls from a distance less than 3 meters, it inflicts half the indicated damage. If an object falls from a distance greater than 20 meters, it inflicts double damage. The falling object suffers the same amount of damage that it inflicts.
 
@@ -164,7 +164,7 @@ If you don' \*\*t have the Swim movement type, **moving in water** is considered
 If the creature knows how to swim, no checks are needed to move normally in calm waters, except when it wants to *run* (DC 13) or the waters are choppy (DC 15) or stormy (DC 20).
 
 If the creature doesn' \*\*t know how to swim, then it must make a Fortitude Saving Throw at DC 13 every round it wants to move; if the waters are choppy, the DC is 19, and if they are stormy, the DC is 24; if you want to *run*, the DC increases by 4.
-In case of failure, you don' \*\*t move and have a -1 to the next check; in case of Critical Failure, the next check takes -4; penalties accumulate until you succeed in the check.
+In case of failure, you don' \*\*t move and have a -1 to the next check; on a Critical Failure, the next check takes -4; penalties accumulate until you succeed in the check.
 If the swim check fails, the creature suffers 1d6 lethal damage if the waters flow over rocks and depressions.
 
 When the cumulative penalties are 9 or more, you begin to sink and drown (see below).
@@ -203,7 +203,7 @@ A character who catches fire can automatically extinguish the flames by jumping 
 | **Effects of Lava** |
 | --- |
 
-Lava or magma inflicts 2d6 damage per round of exposure, except in case of total immersion (such as when a character falls into the crater of an active volcano), which inflicts 20d6 damage per round (plus any falling damage and maybe finds a ring..).
+Lava or magma inflicts 2d6 damage per round of exposure, except in the case of total immersion (such as when a character falls into the crater of an active volcano), which inflicts 20d6 damage per round (plus any falling damage and maybe finding a ring...).
 
 The damage caused by magma continues for 1d3 rounds after the end of exposure, but this additional damage is only half of that inflicted during the last round of actual contact (20/10/5). An Immunity or Resistance to fire also serves as resistance to lava or magma. However, creatures Immune or Resistant to Fire might drown if immersed in lava (see Drowning).
 
@@ -272,7 +272,7 @@ Sometimes weather can play an important role during an adventure. The Table: Ran
 
 Most precipitation manifests as rain, but in cold climates it can also manifest as snow, sleet, or hail. Precipitation of any type, followed by a drop in temperature from above to below 0° C, can produce ice.
 
-**Heavy rain**: Rain halves visibility, and imposes a -1d6 penalty to Awareness checks. It has the same effect as a very strong wind on flames, ranged attacks, and Awareness checks as a very strong wind.
+**Heavy rain**: Rain halves visibility, and imposes a -1d6 penalty to Awareness checks. It has the same effect as a very strong wind on flames, ranged attacks, and Awareness checks.
 
 **Snow**: While falling, snow has the same effects as rain on visibility, ranged attacks, and Awareness checks, and the terrain is considered difficult. A day-long snowfall leaves 3d6*2.5 centimeters of snow on the ground.
 

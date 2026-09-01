@@ -6,7 +6,7 @@ Fantozzi Armor: 4-way vane functioning as a plume, fearsome Viking helmet with z
 
 Armor helps to not be hit (raises Defense) and penalizes Magic Checks and Basic proficiency checks and movement.
 
-The Proficiency Penalty is the penalty applied to Basic proficiency checks influenced by the weight and Encumbrance of the armor. Different, specific, or magical armors have different scores; this table serves as a guideline for the Narrator.
+The Proficiency Penalty is the penalty applied to Basic proficiency checks influenced by the weight and Encumbrance of the armor. Different, specific, or magical armors have different scores; this table serves as a guideline for the Game Master.
 
 ### Armor Table
 
@@ -38,7 +38,7 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 **Mov. (movement)**: is the reduction in meters of movement to apply per Movement Action.
 
-**Magic Check**: The - indicates that Magic Check isn' \*\*t required. The numbers indicated are to be added to difficulty of the Magic Check.
+**Magic Check**: The - indicates that Magic Check isn' \*\*t required. The numbers indicated are to be added to the difficulty of the Magic Check.
 
 **Cost**: the cost of a +1 armor or shield is 2250gp, +2 10000gp. It is practically not possible to purchase armor or shields or weapons with enchantments higher than +2, they must be *found*.
 
@@ -116,11 +116,11 @@ Magical armor or shield not only protects better but is also lighter and more at
 
 A +1 armor reduces the Proficiency penalty by 1 and the movement penalty by 1 meter.
 
-A +2 armor or shield also reduce by 2 the penalty to Magic Check. A +3 armor further reduces the Proficiency penalty by 1, reduces the Movement penalty by 1m, and reduce by 2 more the penalty for Magic Check.
+A +2 armor or shield also reduces by 2 the penalty to Magic Check. A +3 armor further reduces the Proficiency penalty by 1, reduces the Movement penalty by 1m, and reduces by 2 more the penalty for Magic Check.
 
 ### Shields
 
-**Shields** allow you to increase your Defense; the more imposing and heavy the shield is, the more it protects, the more it increases penalties to magic proficiency checks, and the less easy it makes to fight (Attack Roll penalty).
+**Shields**  allow you to increase your Defense; the more imposing and heavy the shield is, the more it protects, the more it increases penalties to Magic Proficiency checks, and the more difficult it makes fighting (Attack Roll penalty).
 
 Shields can be Light, Medium, or Heavy.
 

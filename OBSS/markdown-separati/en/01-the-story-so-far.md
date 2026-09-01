@@ -2,14 +2,14 @@
 
 The world as we know it is a faded memory, a canvas torn by cataclysms and the fury of the gods. Legends, myths, and fantasy have overlapped in a cacophonous jumble with the reality of facts.
 
-Somewhere in the third millennium of the old calendar, the unthinkable happened, what would never have been thought of or wanted occurred. From one day to the next, Earth found itself involved in a war between entities of divine power that did nothing but destroy our poor world, with the collaboration of various nations.
+Somewhere in the third millennium of the old calendar, the unthinkable happened: what would never have been imagined or desired occurred. From one day to the next, Earth found itself involved in a war between entities of divine power that did nothing but destroy our poor world, with the collaboration of various nations.
 
-*Freten* was a company that developed alternative energy systems, based on the possibility of drawing energy from elsewhere or, as they said, from the cosmic void.
-It was never clarified what the origins of their experiments were, most likely they had actually found something (*someone?*), that could act as a portal to tap into this virtually unlimited form of energy.
+*Freten* was a company that developed alternative energy systems based on the possibility of drawing energy from elsewhere or, as they said, from the cosmic void.
+It was never clarified what the origins of their experiments were. Most likely, they had actually found something (*someone?*) that could act as a portal to tap into this virtually unlimited form of energy.
 
-On the day of the inauguration of their first reactor powered by what they called **Omniesssence**, a *part* of their *invention*, the impossible happened.
+On the day of the inauguration of their first reactor, powered by what they called **Omniessence**, a *part* of their *invention*, the impossible happened.
 
-The accounts become very confused at this point; in fact, the *Omniesssence* was actually something real and *alive*, a part of a greater energy. When the reactor was activated, it exploded with an energy and force never seen on Earth, and a good part of what were the central states of the USA were vaporized instantly.
+The accounts become very confused at this point; in fact, the *Omniessence* was actually something real and *alive*, a part of a greater energy. When the reactor was activated, it exploded with energy and force never seen on Earth, and a large part of what were the central states of the USA was vaporized instantly.
 
 At the point where the Freten headquarters once stood, a breach opened like a portal: a colossal flame divided into two tongues of fire of different colors.
 
@@ -31,16 +31,16 @@ At the dawn of the thirtieth day, Tàhil proclaimed the Edict of Refoundation. N
 
 Meanwhile, for an entire year, the dragons destroyed and killed everything and everyone. No army survived, no government remained in office, no nation could still call itself such.
 
-Earthlings had been punished for their affront, only 10\% of the population had survived.
+Earthlings had been punished for their affront; only 10\% of the population had survived.
 
-These new beings destroyed, made disappear, sink, flip, altered entire cities, changed environments, animals, made new species appear. Hordes of monsters described in children' \*\*s game books appeared out of nowhere. Reality was for them a whim to be manipulated according to their eccentric tastes.
+These new beings destroyed, made disappear, sank, overturned, and altered entire cities; changed environments and animals; and made new species appear. Hordes of monsters described in children' \*\*s game books appeared out of nowhere. Reality was, for them, a whim to be manipulated according to their eccentric tastes.
 
 Nations as we knew them no longer existed, nature itself had changed into the most alien forms possible. Many areas were nuclear deserts, inhospitable and lethal to anyone, or almost.
 
 Then the entities, except for Tàhil and the dragons, disappeared into nothingness, for six months. After these 6 months, the dreams of the few remaining beings began to be assailed by visions of other *beings*, other entities.
 
-And so came the second wave of *Patrons*, as they collectively called themselves. Fortunately, these beings proved to be, all in all, more gentle and *human*, or at least some of them were. They reclaimed much of the radioactive zones and taught those who accepted their Traits to draw on their energy to formulate real, actual, concrete **magic**!
-Some entities created or summoned other races; whether to dominate humans, to guide them, or to add chaos and entropy to the world.
+And so came the second wave of *Patrons*, as they collectively called themselves. Fortunately, these beings proved to be, all in all, gentler and more *human*, or at least some of them were. They reclaimed much of the radioactive zones and taught those who accepted their Traits to draw on their energy to formulate real, actual, concrete **magic**!
+Some entities created or summoned other races, whether to dominate humans, guide them, or add chaos and entropy to the world.
 
 Just over a hundred years have passed since the second coming, yet that has been enough for our Earth to return to a medieval period of fantastic origins.
 
@@ -54,8 +54,8 @@ Welcome to **OBSS**, a world where the ordinary blends with the incredible, wher
 
 Prepare to face unexpected challenges, forge fragile alliances, and fight for survival in a chaotic and dangerous world.
 
-The Narrator is the architect of this world, the one who shapes reality and weaves the threads of the story. They will present you with challenges, describe places, bring non-player characters to life, and interpret the consequences of your actions. In OBSS, collaboration between players and Narrator is essential to create an engaging and unforgettable gaming experience.
-The true rule that the Narrator must remember is that whatever rule is used, as long as it makes everyone have fun, is the right one!
+The Game Master is the architect of this world, the one who shapes reality and weaves the threads of the story. They will present you with challenges, describe places, bring non-player characters to life, and interpret the consequences of your actions. In OBSS, collaboration between players and Game Master is essential to create an engaging and unforgettable gaming experience.
+The true rule that the Game Master must remember is that whatever rule is used, as long as it makes everyone have fun, is the right one!
 
 Survival is the fundamental law of this world. In OBSS, there are no guarantees of success, and every step could be the last. But it is precisely in this struggle for survival that true heroes are forged. Through your actions, your cunning, and your courage, you can claim the Law of Reward, gaining experience, wealth, and the opportunity to influence the course of events.
 
@@ -75,8 +75,8 @@ Now that you are ready, it' \*\*s time to embrace your destiny and write your le
 
 Andres Zanzani
 
-> D&D had in its origins misogynistic and racist traits that over time have been removed thanks to the many people of all kinds and types who have played it.
-OBSS wants to continue in the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don' \*\*t let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
+> D&D originally contained misogynistic and racist elements that have been removed over time, thanks to the many people of all kinds who have played it.
+OBSS wants to continue along the path of an inclusive and free game. Each group is free to approach controversial topics as they see fit, but always with respect for every player and sensitivity. Don' \*\*t let OBSS be a cause for quarrel but for unity and fraternal spirit, a game that unites and never divides. (Andres Zanzani)
 
 ---
 
@@ -84,96 +84,96 @@ OBSS wants to continue in the path of an inclusive and free game. Each group is 
 
 Here is a list of terms and concepts that you will find repeated throughout the book.
 
-**+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll to the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
+**+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll from the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
 
-**Ability scores**:   also abbreviated as characteristic or statistics. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
+**Ability scores**:   also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
 
-**Action**:  it is what is done in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... in each round you can take 3 Actions. An Action lasts about 3 seconds.
+	**Action**:  An Action represents what a character does in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... In each round, you can take 3 Actions. An Action lasts about 3 seconds.
 
-**Attack Roll (AR)**: is an Attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by weapon list...) against Defense (armor + shield + Feats + magic...). The Attack Roll can be melee (that is, for creatures close to your weapon, at melee distance) or ranged (for bows, crossbows, but also thrown daggers..). Read the combat chapter carefully.
+**Attack Roll (AR)**:  is an Attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by weapon list...) against Defense (armor + shield + Feats + magic...). The Attack Roll can be melee (that is, for creatures close to your weapon, at melee distance) or ranged (for bows, crossbows, but also thrown daggers...). Read the combat chapter carefully.
 
-**Bonus**: any modifier due to external, environmental, magical, circumstantial factors, or as decided by the Narrator is a bonus or penalty to be applied to the dice roll or difficulty in the check.
+**Bonus**:  any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
-**Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, then they must make a Magic Check.
+**Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, they must make a Magic Check.
 
-**Check/Test**: a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
+**Check/Test**:  a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
 **Class**: In OBSS there are no classes. Each character is built based on what they can do; you won' \*\*t find the word Class in the manual. Each character is unique and defined by their choices.
 
-**Critical Success/Critical Failure in Magic test** : in case the player passes the Magic Check with criticals. The Critical Success in Magic test leads to spectacular modifications in the spell, vice versa bad things could happen to the spellcaster.
+**Critical Success/Critical Failure in Magic test** : if the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
 
-**Damage Reduction (DR)**:   some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. The damage is reduced after all resistance and saving throws.
+**Damage Reduction (DR)**:   some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. Damage is reduced after all resistances and Saving Throws.
 
-**Defense**: Defense means the total value obtained from 10 + Shield + Armor + Dexterity + various and any bonuses. It represents the ability to not be hit and not be wounded. An enemy with high Defense could be extremely agile and have a *thick skin* extremely resistant to injury.
+**Defense**:  Defense means the total value obtained from 10 + Shield + Armor + Dexterity + various bonuses. It represents the ability to avoid being hit and wounded. An enemy with high Defense could be extremely agile or have *thick skin* that is highly resistant to injury.
 
 **Devout**: a character who has bound themselves to a Patron and has at least 2 Traits in common.
 
-**Difficulty Class (DC)**: indicates how difficult it is to succeed in a check. It can be used for skills (swimming...) as well as knowledge (poisons..). In spells, it is the difficulty to resist spells. It indicates what value to reach to overcome and succeed in the check.
+**Difficulty Class (DC)**:  indicates how difficult it is to succeed in a check. It can be used for skills (swimming...) as well as knowledge (poisons...). For spells, it is the difficulty of resisting the spell. It indicates the value that must be reached to succeed in the check.
 
 **Distance**: distance, as far as combat is concerned, is measured in 1-meter squares.
 
 **Experience Points/XP**:   whenever difficulties, puzzles are solved, monsters are faced, or treasures are found, when the character is well played and everyone has fun, experience is gained. These points accumulated over time establish the level and therefore the abilities of the character.
 
-**Explosion of 6**: when, you perform an Attack Roll, Saving Throw, Skill Check, Magic Check, Initiative (read the specifics in the dedicated chapter) or whenever it is indicated that the explosion of 6 applies, it means that for each die rolled that got a 6, it is noted and the die is rolled again. The result of the new roll is also added, and if you roll a 6, you continue to roll until you stop rolling 6s.
+**Explosion of 6**: when you perform an Attack Roll, Saving Throw, Skill Check, Magic Check, or Initiative check, or whenever it is indicated that the Explosion of 6 applies, each die that rolls a 6 is noted and rolled again. The new result is also added, and if you roll another 6, you continue rolling until you stop rolling 6s.
 
-**Fate Points**: or Beginner' \*\*s Luck are points available that the player can transform into d6 to add to Saving Throws or Attack Rolls or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character level increases.
+**Fate Points**:  or Beginner' \*\*s Luck are points available that the player can transform into d6 to add to Saving Throws, Attack Rolls, or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character' \*\*s level increases.
 
-**Feat**: these are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page )
+**Feat**:  these are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
 
 **Follower**: a character who has bound themselves to a Patron with 1 Trait in common
 
-**Hit Points (Hit Points)**: indicate the vital energy, resistance, the luck in resisting the creature' \*\*s wounds. As long as the creature has 1 hit point, it will fight at its best, without problems (but it might also decide to run away rather than die!). At each level passage, you gain a certain number of Hit Points, established by the rules. Each wound is subtracted from this accumulation of energies, and when 0 (zero) Hit Points is reached, you faint, unable to act.
+**Hit Points (HP)**: indicate vital energy, endurance, and the luck involved in resisting wounds. As long as a creature has at least 1 Hit Point, it fights at its best (though it might also decide to run away rather than die!). At each level, you gain a certain number of Hit Points established by the rules. Each wound is subtracted from this total, and when 0 (zero) Hit Points is reached, you faint and become unable to act.
 
 If you are further injured and the Hit Points drop to 10 + twice the value of Constitution, then you die.
 
-**Initiative**: it is a Dexterity or Intelligence check. It establishes the order of actions in combat. Who has the highest score in the check acts first.
+**Initiative**:  it is a Dexterity or Intelligence check. It establishes the order of actions in combat. Whoever has the highest check result acts first.
 
-**Level**: the Level indicates the proficiency and power reached by the character. It can indicate how *strong* the enemy is.
+**Level**: the Level indicates the proficiency and power reached by the character. It can indicate how *strong* an enemy is.
 
 **Magic Check**: the Magic Check may be required in particular situations, for example when the character is wounded or distracted, but it can also be requested by the player.
 
-The Magic Check allows the character to push beyond in casting the spell and try to draw and use more magic.
+The Magic Check allows the character to push beyond their normal limits when casting a spell and try to draw on and use more magic.
 
 Depending on the results, advantages or disadvantages might be obtained.
 
-**Magic Proficiency (MP)**: is your ability to use magic, the higher this value, the more effective the spells will be, the more you will have at your disposal, the more you can cast.
+**Magic Proficiency (MP)**:  is your ability to use magic. The higher this value, the more effective your spells will be, the more spells you will have at your disposal, and the more you can cast.
 
-**Melee**: melee means contact combat, hand-to-hand, sword-to-sword, that is, when your character fights with a weapon that does not have range (bow, crossbows, slings...) against an opponent.
+**Melee**:  Melee means close-quarters combat: hand-to-hand or sword-to-sword combat in which your character fights an opponent with a weapon that does not have range (unlike a bow, crossbow, or sling...).
 Any creature that the character can reach with their non-ranged weapon is considered in melee. A large-sized creature (or with a long weapon) might be in melee with the character but not vice versa.
 
-**Movement**: movement represents the ability to move around. A Movement Action represents the character moving. The higher the Movement value, the more meters a creature can move.
+**Movement**:  Movement represents the ability to move around. A Movement Action represents the character moving. The higher the Movement value, the more meters a creature can move.
 
-**Narrator**: is the person who leads the adventure, establishes the rules, and controls the elements of the story. The duty of every Narrator is to entertain, be fair, and use common sense. The Narrator has the final word in every matter.
+**Narrator**: is the person who leads the adventure, establishes the rules, and controls the elements of the story. The duty of every Game Master is to entertain, be fair, and use common sense. The Game Master has the final word in every matter.
 
-**NPC**: non-player character. These are particular characters, important or not, that the Narrator keeps to lead the adventure.
+**NPC**:  a non-player character. These are characters, important or otherwise, whom the Game Master uses to guide the adventure.
 
-**Rolling a one brings bad luck**: if you roll a 1 with the die, subtract 1 from the total result. This doesn' \*\*t mean a rolled 6 becomes a 5, the explosion of 6 remains.. just subtract 1 from the final result. Said differently, 1 is worth 0.
+**Rolling a one brings bad luck**:  if you roll a 1 on a die, subtract 1 from the total result. This doesn' \*\*t mean that a rolled 6 becomes a 5; the exploding 6s still apply. Just subtract 1 from the final result. In other words, 1 is worth 0.
 
-**Optional**: in OBSS there are various Optional rules to diversify and personalize the game. Talk about it during Session Zero and decide what style to give to your OBSS.
+**Optional**: In OBSS, there are various Optional rules to diversify and personalize the game. Talk about them during Session Zero and decide what style to give your OBSS.
 
 **Patron**: or deity. The Patron is a superior being who can grant powers and guarantee advantages.
 
-**Penalty/Malus** : like bonuses, penalties or maluses are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
+**Penalty/Malus** : like bonuses, penalties are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
 
 , if not specified otherwise, always sum up together.
 
-**PC, Character**: is the creature that is guided, managed, *role-played* by the player.
+**PC, Character**:  is the creature guided, managed, and *role-played* by the player.
 
 Damage **Resistance**: : a creature might have a resistance to a type of damage. In this case, it is considered to automatically halve the damage taken before applying any Saving Throws.
 
-**Round**: combat or actions are divided into rounds. A round represents a temporal unit of about 10 seconds. During the round, each creature has the possibility to act based on its initiative and perform up to 3 Actions.
+**Round**: combat and Actions are divided into rounds. A round represents a unit of time lasting about 10 seconds. During a round, each creature can act according to its initiative and perform up to 3 Actions.
 
-**Rounding**: always round down unless explicitly stated otherwise, but with a minimum of 1. Ex. 7/2 = 3, 9/4=2, 1/2=1
+**Rounding**:  always round down unless explicitly stated otherwise, with a minimum of 1. E.g., 7/2 = 3, 9/4=2, and 1/2=1.
 
-**Saving Throw (ST)**: when a creature is subjected to a particular effect, often a Saving Throw is granted to mitigate or nullify the effects. The Saving Throw is an action that does not occupy time or Actions.
+**Saving Throw (ST)**:  when a creature is subjected to a particular effect, it often receives a Saving Throw to mitigate or nullify the effect. A Saving Throw is an action that does not occupy time or Actions.
 
 Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases or body changes (Fortitude), or resisting mental attacks and effects that act on judgment and will (Will).
 
 **Spell level**: indicates the scale (from 1 to 9) of the magical power of the spell.
 
-**Trait**: indicates a component of character. Each character chooses 5 Traits to compose and build their personality.
+**Trait**:  indicates one component of a character. Each character chooses 5 Traits to compose and build their personality.
 
-**Turn**: is 10 minutes, that is, 60 rounds
+**Turn**:  is 10 minutes, that is, 60 rounds
 
 > The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
@@ -183,6 +183,6 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 >> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$
 
->>> **Information for the Narrator**: Box containing indications and suggestions for the Narrator. Recognizable by the icon
+>>> **Information for the Narrator**: Box containing indications and suggestions for the Game Master. Recognizable by the icon
 
 ---

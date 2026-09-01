@@ -6,19 +6,19 @@ Per Combattimento Sociale si intende il tentativo da parte dei personaggi di con
 
 Può capitare che i giocatori tentino di corrompere una guardia, di ottenere informazioni in maniera diplomatica oppure intimidatoria, di ottenere una paga più alta, di raggirare un mercante o più semplicemente ogni qual volta lo *scontro* o *confronto* non è tramite armi ma a parole.
 
-Per quanto il combattimento sociale possa riguardare una moltitudine di situazioni quello che accomuna tutte le prove è il metodo con cui si vuole ottenere il risultato finale
+Per quanto il combattimento sociale possa riguardare una moltitudine di situazioni, ciò che accomuna tutte le prove è il metodo con cui si vuole ottenere il risultato finale.
 
-, non tramite armi ma cercando di *convincere* l'avversario.
+Il confronto avviene non tramite armi, ma cercando di *convincere* l'avversario.
 
-In queste situazioni si possono seguire due approcci distinti, da una parte il Narratore valuta il risultato in base a quanto dicono i giocatori, dall'altra questo sistema imposta le regole come fosse un combattimento per stabilire chi vince nella prova finale.
+In queste situazioni si possono seguire due approcci distinti: da una parte il Narratore valuta il risultato in base a quanto dicono i giocatori; dall'altra questo sistema imposta le regole come se fosse un combattimento, per stabilire chi vince nella prova finale.
 
-Ogni Narratore sceglie l'approccio che preferisce, diciamo che in base all'esperienza con il sistema ed il gioco di ruolo in generale potrebbe preferire un sistema o l'altro. Per un approccio neutro usare delle regole può essere più indicato.
+Ogni Narratore sceglie l'approccio che preferisce; in base all'esperienza con il sistema e con il gioco di ruolo in generale, potrebbe preferire un sistema o l'altro. Per un approccio neutro, usare delle regole può essere più indicato.
 
 A seconda che il giocatore usi metodi più o meno coercitivi l'avversario resisterà di conseguenza.
-Il giocatore eseguirà una Prova Contrapposta di Intimidire, Diplomazia od Ingannare e l'avversario cercherà di resistere con un Tiro Salvezza su Volontà con bonus Carisma.
-Se si deve resistere ad una coercizione basata su minacce contrapponete un Tiro Salvezza su Volontà con bonus di Forza.
+Il giocatore eseguirà una Prova Contrapposta di Intimidire, Diplomazia o Ingannare e l'avversario cercherà di resistere con un Tiro Salvezza su Volontà con un bonus di Carisma.
+Se si deve resistere a una coercizione basata su minacce, contrapporre un Tiro Salvezza su Volontà con un bonus di Forza.
 
-Il Narratore in base al livello del PNG stabilirà quanti successi consecutivi sono necessari per convincerlo. In linea di massima è necessario 1 + 1 successo ogni due livelli del PNG. Il numero di successi può essere modificato in base alle convinzioni, promesse, patti, rapporti interpersonali che l'avversario ha riguardo alla situazione.
+Il Narratore, in base al livello del PNG, stabilirà quanti successi consecutivi sono necessari per convincerlo. In linea di massima è necessario 1 + 1 successo ogni due livelli del PNG. Il numero di successi può essere modificato in base alle convinzioni, alle promesse, ai patti e ai rapporti interpersonali che l'avversario ha riguardo alla situazione.
 
 Se si vincono tutte le prove si vincerà il *combattimento* e si otterrà l'informazione o quanto richiesto. In caso di Successo Critico si conteranno due successi.
 
@@ -26,11 +26,11 @@ In caso di fallimento della prova questa può essere riprovata con un -1 di pena
 
 Se il fallimento è critico allora non solo la prova è fallita ma non sarà possibile effettuare ulteriori tentativi e l'avversario diverrà ancora meno amichevole. Molto probabilmente il Narratore deciderà l'evoluzione della situazione in base alla richiesta e scena originale.
 
-In caso di Intimidazione molto probabilmente l'obiettivo del giocatore diventerà ostile, in caso di Inganno è possibile che sentendosi ingannata menta o che non dica nulla. In caso di Diplomazia è più probabile un silenzio o un cortese diniego.
+In caso di Intimidazione molto probabilmente l'obiettivo del giocatore diventerà ostile; in caso di Inganno è possibile che, sentendosi ingannato, menta o non dica nulla. In caso di Diplomazia è più probabile un silenzio o un cortese diniego.
 
 Il Narratore deve usare queste prove, che siano risultate positive o negative, per fare evolvere la scena ed arricchire l'avventura.
 
-Se c'è una informazione che non volete dare impostate una difficoltà più alta.
+Se c'è un'informazione che non volete dare, impostate una difficoltà più alta.
 Ricordate che i personaggi si fidano del risultato ottenuto e se incominciate a dare informazioni false non potranno più fidarsi delle prove fatte.
 
 Non dovete pensare che dare l'informazione sia un problema, alla fine i giocatori se la sono guadagnata e per voi è una nuova possibilità per arricchire l'avventura.

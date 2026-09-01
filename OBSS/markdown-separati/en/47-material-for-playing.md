@@ -13,7 +13,7 @@ https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
-* **Narrator' \*\*s Screen**:
+* **Game Master' \*\*s Screen**:
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2-eng.pdf
@@ -23,7 +23,7 @@ https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-schema-arbiter-character-eng.pdf
 
-* **Changelog, only in italian** https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
+* **Changelog, only in Italian** https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 

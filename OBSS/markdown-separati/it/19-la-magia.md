@@ -71,7 +71,7 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 *In OBSS solo un Patrono ha sufficiente potere per poter riportare in vita un morto*.
 - *Terra* Gli incantesimi che agiscono e muovono la terra
 - *Trasmutazione* riguarda incantesimi che cambiano le proprietà di una creatura, oggetto o ambiente.
-- *Universale* alcuni incantesimi sono capisaldi della magia in se e come tali accessibili a tutti gli incantatori. Per accedere agli incantesimi contenuti in questa Lista di Magia è necessario avere almeno un punto in Competenza Magica. Il massimo livello di incantesimi lanciabile in questa lista è pari numero di volte che si è presa l'Abilità Adepto della Magia, con un minimo di 1.
+- *Universale* alcuni incantesimi sono capisaldi della magia in se e come tali accessibili a tutti gli incantatori. Per accedere agli incantesimi contenuti in questa Lista di Magia è necessario avere almeno un punto in Competenza Magica. Il massimo livello di incantesimi lanciabile in questa lista è pari al numero di volte che si è presa l'Abilità Adepto della Magia, con un minimo di 1.
 
 ### Gittata
 
@@ -83,7 +83,7 @@ Gli incantesimi che creano coni o linee di effetto che originano da te, hanno an
 
 La durata di un incantesimo è la lunghezza di tempo per cui esso persiste. La durata può essere espressa in round, minuti, ore o addirittura anni. Alcuni incantesimi specificano che i loro effetti durano finché l'incantesimo non viene dissolto o distrutto. Un **incantesimo può essere interrotto dal proprio incantatore come Azione Immediata**.
 
-Qualora un critico magico raddoppi la durata si intente sempre riferita alla durata iniziale. Es. se la durata è 2 ore dopo il primo raddoppio diventa 4 ore, con il secondo diventa di 6 ore e poi 8 ore..
+Qualora un critico magico raddoppi la durata si intende sempre riferita alla durata iniziale. Es. se la durata è 2 ore dopo il primo raddoppio diventa 4 ore, con il secondo diventa di 6 ore e poi 8 ore..
 
 - *Istantanea*
 
@@ -137,7 +137,7 @@ Incantesimi come Onda rovente e cono di freddo coprono un'area, permettendogli d
 La descrizione di un incantesimo specifica la sua area di effetto, che di solito rientra in una di queste cinque forme: cilindro, cono, cubo, linea o sfera. Ogni area di effetto ha un punto di origine, un luogo da cui si manifesta l'energia dell'incantesimo. Le regole per ciascuna forma specificano come posizionare il suo punto di origine. Di solito il punto di origine è un punto nello spazio, ma alcuni incantesimi hanno un'area la cui origine è una creatura o un oggetto. Il punto di origine deve essere sempre valido.
 
 - ***Cilindro***: il punto di origine di un cilindro è il centro di un cerchio di specifico raggio come indicato nella descrizione dell'incantesimo. L'energia in un cilindro si espande in linea retta dal punto di origine al perimetro del cerchio, formando la base del cilindro. L'effetto dell'incantesimo parte poi dal basso verso l'alto o dall'alto verso il basso fino a una distanza uguale all'altezza del cilindro. Il punto di origine del cilindro è incluso nella sua area di effetto.
-- ***Cono***: un cono si estende in una direzione a tua scelta dal suo punto di origine. La larghezza del un cono in un dato punto della sua lunghezza è uguale alla distanza di quel punto dal punto di origine. L'area di effetto di un cono specifica la sua lunghezza massima. Il punto di origine del cono non è incluso nella sua area di effetto a meno che tu non decida altrimenti.
+- ***Cono***: un cono si estende in una direzione a tua scelta dal suo punto di origine. La larghezza del cono in un dato punto della sua lunghezza è uguale alla distanza di quel punto dal punto di origine. L'area di effetto di un cono specifica la sua lunghezza massima. Il punto di origine del cono non è incluso nella sua area di effetto a meno che tu non decida altrimenti.
 
 Es. Un Cono di Freddo di 9 metri è largo al termine 9 metri e si allunga dal punto di origine di 9 metri, a 3 metri di distanza dal punto di origine è largo 3 metri.
 - ***Cubo***: selezioni il punto di origine di un angolo del cubo. Le dimensioni del cubo vengono espresse come lunghezza di ciascun suo spigolo. Il punto di origine del cubo non è incluso nella sua area di effetto, a meno che tu non decida altrimenti.
@@ -164,12 +164,12 @@ In caso di incantesimi istantanei gli effetti agiscono singolarmente se agiscono
 
 Questo modificatore viene chiamato **modificatore di caratteristica per incantesimi**.
 - Il personaggio quando assegna il primo punto di Competenza Magica **conosce** (sono presenti) nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
-- Ogni giorno, dopo il riposo, il personaggio **apprende** dal sul suo Tomo di Magia un numero di incantesimi pari a Competenza Magica/2 (minimo 1) + modificatore di caratteristica per incantesimi + Adepto della Magia.
+- Ogni giorno, dopo il riposo, il personaggio **apprende** dal suo Tomo di Magia un numero di incantesimi pari a Competenza Magica/2 (minimo 1) + modificatore di caratteristica per incantesimi + Adepto della Magia.
 - Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi **Tabella Punti magia e Competenza Magica**. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 - Un Seguace aggiunge +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantesimi possono usare una delle forme energetiche preferite dal Patrono.
 - Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantesimi usano una delle forme energetiche preferite dal Patrono.
 - Con il termine **appreso** si intende un incantesimo presente sul Tomo della Magia che si è memorizzato e si può lanciare quando voluto.
-- Con il termine **conosciuto** si intente un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
+- Con il termine **conosciuto** si intende un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
 
 ## Massimo livello di incantesimo lanciabile
 
@@ -207,7 +207,7 @@ Quando viene richiesto di superare o fare una Prova di Magia è sufficiente supe
 
 La Prova di Magia come tutte le Prove segue le Golden Rules, pag..
 
->>> **Declamare la Magia**: Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!.
+>>> **Declamare la Magia**: Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!
 
 Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgendo anche gli altri giocatori.
 
@@ -293,8 +293,8 @@ L'incantatore può lanciare un incantesimo che sia presente sul suo Tomo di Magi
 
 ## Successo Critico Auto Magico
 
-L'incantatore può decidere di spendere, in aggiunta ai **dei Punti Magia** dell'incantesimo, un uguale ammontare per avere in automatico un **Successo Critico Magico**.
-Ogni volta che voglio applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
+L'incantatore può decidere di spendere, in aggiunta ai **Punti Magia** dell'incantesimo, un uguale ammontare per avere in automatico un **Successo Critico Magico**.
+Ogni volta che vuole applicare un Successo Critico Magico aggiuntivo oltre il primo il costo in Punti Magia aumenta di 1. La dichiarazione di volere usare il Successo Critico Auto Magico è da dichiarare prima di effettuare, e superare, la Prova di Magia.
 
 Il tempo di lancio di un incantesimo potenziato in questa maniera aumenta di 1 Azione.
 
@@ -313,7 +313,7 @@ Il sistema magico può diventare sbilanciato abusando sempre degli stessi incant
 
 Se i Patroni sono la sorgente della magia è solo l'applicazione di antichi riti e formule che permette di manifestare questa energia grezza in una forma ed espressione che chiamiamo incantesimo.
 
-Ogni usufruitore di magia ha uno o più **Tomo** degli incantesimi, non pensate solo a un grosso Tomo antico rilegato in pelle, le diverse culture hanno sviluppato nel tempo la capacità di iscrivere le rune degli incantesimi in carte, bastoni, lastre di pietra, tatuaggi... fate la vostra scelta quando create il personaggio.
+Ogni usufruitore di magia ha uno o più **Tomi** degli incantesimi, non pensate solo a un grosso Tomo antico rilegato in pelle, le diverse culture hanno sviluppato nel tempo la capacità di iscrivere le rune degli incantesimi in carte, bastoni, lastre di pietra, tatuaggi... fate la vostra scelta quando create il personaggio.
 Questa scelta non vi impedirà di copiare incantesimi da **Tomi** fatti diversamente, per voi sarà sempre facile (prova di Arcana DC 12) capire se si è di fronte ad un Tomo di qualche tipo.
 
 Un nuovo personaggio con Competenza Magica 1, avrà un Tomo di Magia con un certo elenco di incantesimi. In questo Tomo sono presenti un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello sempre pari allo stesso modificatore, con un minimo di 4.
@@ -328,7 +328,7 @@ Se l'incantesimo è di più di due livelli più alto l'incantatore deve fare una
 
 Se non ottiene almeno un Successo Critico Magico non potrà tentare di copiare quell'incantesimo fino al prossimo punto di Competenza Magica acquisito. Se ottiene un Fallimento Critico Magico accadranno brutte cose al Tomo e 1d4 incantesimi casuali verranno cancellati dal Tomo stesso.
 
-La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena.. insomma qualsiasi cosa che il precedente incantatore usasse per custodire gli incantesimi. Un oggetto magico (bastone magico, anello, verga..bacchetta..) non è idoneo quale fonte da cui copiare l'incantesimo che contiene, si deve copiare dall'equivalente Tomo o pergamena di un altro incantatore. Un incantesimo quando copiato sul nuovo Tomo svanisce dalla sorgente originale.
+La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena. insomma qualsiasi cosa che il precedente incantatore usasse per custodire gli incantesimi. Un oggetto magico (bastone magico, anello, verga..bacchetta..) non è idoneo quale fonte da cui copiare l'incantesimo che contiene, si deve copiare dall'equivalente Tomo o pergamena di un altro incantatore. Un incantesimo quando copiato sul nuovo Tomo svanisce dalla sorgente originale.
 
 >>> **Magie vero tesoro**: Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
 
@@ -338,7 +338,7 @@ Il personaggio che vuole lanciare magie deve ogni giorno ripassare le antiche fo
 
 Se l'incantatore non ha ripassato gli incantesimi dopo aver riposato almeno 6 ore deve superare una Prova di Magia per ogni incantesimo formulato finché non avrà ripassato.
 
-L'incantatore può studiare gli incantesimi anche da più Tomi..
+L'incantatore può studiare gli incantesimi anche da più Tomi.
 
 ## Tiro per Colpire con le Magie
 
@@ -369,7 +369,7 @@ Se è il personaggio a dover resistere ad una magia il Narratore non ti dirà di
 - Se nel Tiro Salvezza tiri 3 volte 1 hai fallito il tiro, indipendentemente dal totale, ed ottieni un **Fallimento Critico Salvezza**.
 - Se il Tiro Salvezza fallisce ed il margine di fallimento è almeno 8, per ogni margine di fallimento di 8 ottieni un **Fallimento Critico Salvezza**.
 
->> **Tups lancia Dardo Tracciante!**: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volta Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
+>> **Tups lancia Dardo Tracciante!**: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volte Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
 
 È anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di Successo o Fallimento Critico del Tiro Salvezza.
 
@@ -413,13 +413,13 @@ Queste regole valgono per tutte le creature evocate magicamente.
 
 La creatura evocata agisce nel tuo round, non deve tirare l'iniziativa, bensì usa la tua ed è amichevole verso di te e i tuoi compagni. Una creatura evocata può già agire nel round in cui è stata evocata.
 
-Una creature evocata ha 2 azioni a round, se non vengono specificati ordini al momento dell'evocazione la creatura si difende e contrattacca chi l'ha attaccata.
+Una creatura evocata ha 2 azioni a round, se non vengono specificati ordini al momento dell'evocazione la creatura si difende e contrattacca chi l'ha attaccata.
 
 La creatura evocata comprende i comandi che gli vengono dati al meglio delle sue capacità mentali. Per cambiare l'ordine si deve usare una Azione.
 
 ## Tentare più Magie nello stesso round
 
-È possibile lanciare più magie nel round purché il tempo totale di lancio non superi le Azioni a disposizione e si superi una Prova di Magia al lancio del secondo incantesimo. più incantesimi che richiedano il Tiro per Colpire o attaccare con un arma e lanciare un incantesimo cumulano le penalità del multiattacco.
+È possibile lanciare più magie nel round purché il tempo totale di lancio non superi le Azioni a disposizione e si superi una Prova di Magia al lancio del secondo incantesimo. Più incantesimi che richiedano il Tiro per Colpire o attaccare con un'arma e lanciare un incantesimo cumulano le penalità del multiattacco.
 
 ## Alterare le Magie
 
@@ -439,7 +439,7 @@ L'incantatore può modificare gli incantesimi in diversi modi. Queste possibilit
 
 Le possibilità concesse da Alterare le Magie sono cumulabili tra loro.
 
-**Modifiche lievi**  alla manifestazione dell'incantesimo possono essere concordati con il Narratore per un costo di Punti Magia aggiuntivi o con una Prova di Magia riuscita.
+**Modifiche lievi**  alla manifestazione dell'incantesimo possono essere concordate con il Narratore per un costo di Punti Magia aggiuntivi o con una Prova di Magia riuscita.
 
 ## Tentare Incantesimi con impedimenti 
 
@@ -483,15 +483,15 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 ***Lista dell'Acqua*3: Acque profonde.** Usando una Azione Immediata acquisisci resistenza 5 al freddo ed al fuoco fino all'inizio del tuo prossimo round.
 
-**5: Acque limpide.** Usando una Azione Immediata puoi toccare una creatura e lo aiuti a liberarsi da veleni e tossine. Viene concesso un nuovo Tiro Salvezza (se possibile) per perdere la condizione di avvelenato.
+**5: Acque limpide.** Usando una Azione Immediata puoi toccare una creatura e la aiuti a liberarsi da veleni e tossine. Viene concesso un nuovo Tiro Salvezza (se possibile) per perdere la condizione di avvelenato.
 
 ***Lista dell'Aria*3: Fra le nuvole.** Usando una Reazione sei in grado di lanciare su te stesso l'incantesimo Caduta Piuma senza usare Punti Magia.
 
 **4: Scossa.** La tua mano manifesta un crepitio di elettricità, il prossimo incantesimo che lanci entro la fine del prossimo round che abbia un Tiro per Colpire causa 2d8 danni in più da elettricità. Costa una Azione Immediata.
 
-**Lista Ammaliamento3: Distrazione.** Quando una creatura che puoi osservare entro 9 metri da te effettua un attacco con armi o magie, puoi usare una Reazione per distrarlo fino a fine round. La creatura ha -2 al Tiro per Colpire.
+**Lista Ammaliamento3: Distrazione.** Quando una creatura che puoi osservare entro 9 metri da te effettua un attacco con armi o magie, puoi usare una Reazione per distrarla fino a fine round. La creatura ha -2 al Tiro per Colpire.
 
-**4: Distrazione maggiore.** Quando una creatura che puoi osservare entro 9 metri da te effettua un attacco con armi o magie, puoi usare una Reazione per distrarlo fino a fine round. Tira 1d6, se il risultato è 3-4-5 la creatura ha -2 al Tiro per Colpire, se il risultato è 6 il bersaglio dell'attacco della creatura diventa casuale tra i bersagli colpibili.
+**4: Distrazione maggiore.** Quando una creatura che puoi osservare entro 9 metri da te effettua un attacco con armi o magie, puoi usare una Reazione per distrarla fino a fine round. Tira 1d6, se il risultato è 3-4-5 la creatura ha -2 al Tiro per Colpire, se il risultato è 6 il bersaglio dell'attacco della creatura diventa casuale tra i bersagli colpibili.
 
 ***Lista Animali e Piante*3: Corteccia.** Usando una Azione Immediata rendi la tua pelle più dura e resistente. Hai una riduzione del danno pari a 2 fino all'inizio del tuo prossimo round.
 
@@ -519,7 +519,7 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 ***Lista Invocazione*3: Speranza.** Con una Azione Immediata puoi illuminare la tua mano fino all'inizio del tuo round successivo. La mano illumina il solo tuo quadretto ed è luce fioca nel quadretto dopo.
 
-**4: Augurio.** Con una Azione Immediata tocchi una creatura cedendogli un tuo Punto Fato.
+**4: Augurio.** Con una Azione Immediata tocchi una creatura cedendole un tuo Punto Fato.
 
 ***Lista Necromanzia*3: Sangue Nero.** Usando una Azione Immediata fino all'inizio del tuo round successivo ignori la condizione di affaticato.
 
@@ -529,11 +529,11 @@ Le capacità indicate sono attivabili se con le Azioni precedenti l'incantatore 
 
 **4: Titano.** Usando una Azione, ogni volta che lanci un incantesimo della Lista della Terra, purché tu sia in contatto con la terra solida recuperi un numero di Punti Ferita pari al livello dell'incantesimo lanciato.
 
-***Lista Trasmutazione*3: Condivisione.** Usando una Azione Immediata tocchi una creatura, la creatura guadagna una Reazione in più da usarsi entro la fine del tuo round prossimo.
+***Lista Trasmutazione*3: Condivisione.** Usando una Azione Immediata tocchi una creatura, la creatura guadagna una Reazione in più da usarsi entro la fine del tuo prossimo round.
 
-**4: Salto.** Con una Azione Immediata ti sposti nello spazio. Tira un 1d6, appari in un quadretto non occupato a quella distanza.
+**4: Salto.** Con una Azione Immediata ti sposti nello spazio. Tira 1d6, appari in un quadretto non occupato a quella distanza.
 
-**5: Apparenze.** Con una Azione Immediata alteri la tua presenza nello spazio. Tira un 1d6, se fai 6 fino all'inizio del tuo prossimo round diventi invisibile.
+**5: Apparenze.** Con una Azione Immediata alteri la tua presenza nello spazio. Tira 1d6, se fai 6 fino all'inizio del tuo prossimo round diventi invisibile.
 
 ***Lista Universale*3: Vista.** Acquisisci l'Abilità Occhi della Magia, come se l'avessi scelta 2 volte.
 

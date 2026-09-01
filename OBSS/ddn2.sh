@@ -852,7 +852,8 @@ github_api_call() {
     local repo_name="$(get_github REPO_NAME)"
     
     local curl_args=(
-        -s -w "%{http_code}" -o "$output_file"
+        -sS --connect-timeout 15 --max-time 120
+        -w "%{http_code}" -o "$output_file"
         -X "$method"
         -H "Accept: application/vnd.github+json"
         -H "Authorization: Bearer $GITHUB_TOKEN"
@@ -871,9 +872,16 @@ check_existing_release() {
     
     local response
     response=$(github_api_call "GET" "releases/tags/$tag_name" "/dev/null")
-    
+
     local http_code="${response: -3}"
-    [ "$http_code" = "200" ]
+    case "$http_code" in
+        200) return 0 ;;
+        404) return 1 ;;
+        *)
+            log_error "Errore verificando la release (HTTP: ${http_code:-nessuna risposta})"
+            return 2
+            ;;
+    esac
 }
 
 get_release_id() {
@@ -927,21 +935,23 @@ create_release_json() {
     local commit_sha
     commit_sha=$(git rev-parse HEAD)
     
-    # Escape descrizione per JSON
-    local escaped_description
-    escaped_description=$(printf '%s' "$desc" | sed 's/\\/\\\\/g' | sed 's/"/\\"/g')
-    
-    cat > "$output_file" << EOF
-{
-  "tag_name": "$name",
-  "target_commitish": "$commit_sha",
-  "name": "$name",
-  "body": "$escaped_description\\n\\nCommit: $commit_sha",
-  "draft": false,
-  "prerelease": false,
-  "generate_release_notes": true
+    python3 - "$name" "$desc" "$commit_sha" "$output_file" <<'PY'
+import json
+import sys
+
+name, description, commit_sha, output_file = sys.argv[1:]
+payload = {
+    "tag_name": name,
+    "target_commitish": commit_sha,
+    "name": name,
+    "body": f"{description}\n\nCommit: {commit_sha}",
+    "draft": False,
+    "prerelease": False,
+    "generate_release_notes": True,
 }
-EOF
+with open(output_file, "w", encoding="utf-8") as output:
+    json.dump(payload, output, ensure_ascii=False, indent=2)
+PY
 }
 
 extract_upload_url() {
@@ -979,6 +989,7 @@ upload_single_asset() {
     
     local response
     response=$(curl -s -w "%{http_code}" -o "$temp_response" \
+        --connect-timeout 15 --max-time 120 \
         -X POST \
         -H "Accept: application/vnd.github+json" \
         -H "Authorization: Bearer $GITHUB_TOKEN" \
@@ -1207,7 +1218,13 @@ create_release() {
             if check_existing_release "$version_name"; then
                 handle_existing_release "$version_name" "$version_description"
             else
-                create_github_release "$version_name" "$version_description"
+                local release_check_status=$?
+                if [ "$release_check_status" -eq 1 ]; then
+                    create_github_release "$version_name" "$version_description"
+                else
+                    log_error "Impossibile verificare la release: creazione annullata"
+                    return 1
+                fi
             fi
             ;;
         *)
@@ -1235,24 +1252,27 @@ update_existing_release() {
     local commit_sha
     commit_sha=$(git rev-parse HEAD)
     
-    # Escape description for JSON
-    local escaped_description
-    escaped_description=$(printf '%s' "$description" | sed 's/\\/\\\\/g' | sed 's/"/\\"/g')
-    
     # JSON payload for update
     local json_file="/tmp/update_release_$$.json"
     add_temp_file "$json_file"
-    
-    cat > "$json_file" << EOJ
-{
-  "tag_name": "$tag_name",
-  "target_commitish": "$commit_sha",
-  "name": "$tag_name",
-  "body": "$escaped_description\\n\\nCommit: $commit_sha\\nAggiornato: $(date '+%Y-%m-%d %H:%M')",
-  "draft": false,
-  "prerelease": false
+    local updated_at
+    updated_at=$(date '+%Y-%m-%d %H:%M')
+    python3 - "$tag_name" "$description" "$commit_sha" "$updated_at" "$json_file" <<'PY'
+import json
+import sys
+
+tag_name, description, commit_sha, updated_at, output_file = sys.argv[1:]
+payload = {
+    "tag_name": tag_name,
+    "target_commitish": commit_sha,
+    "name": tag_name,
+    "body": f"{description}\n\nCommit: {commit_sha}\nAggiornato: {updated_at}",
+    "draft": False,
+    "prerelease": False,
 }
-EOJ
+with open(output_file, "w", encoding="utf-8") as output:
+    json.dump(payload, output, ensure_ascii=False, indent=2)
+PY
     
     # Update release using PATCH
     local temp_response="/tmp/update_response_$$.json"
@@ -1385,7 +1405,6 @@ run_interactive_pipeline() {
     # Operazioni interattive - l'utente può saltarle
     update_wiki
     update_pages
-    create_release
 }
 
 show_summary() {
@@ -1433,6 +1452,9 @@ main() {
         log_error "Operazioni Git fallite"
         exit 1
     fi
+
+    # La release deve puntare al commit appena pubblicato.
+    create_release
     
     show_summary
 }

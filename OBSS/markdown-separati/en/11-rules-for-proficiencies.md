@@ -2,15 +2,15 @@
 
 > The law should be brief, so that the inexperienced may more easily remember it. (Lucius Annaeus Seneca)
 
-Checks, for Proficiencies or Ability Scores, are performed by rolling 3d6, adding to the dice result the score of the Proficiency (base or active) and the linked Ability Score and any magic bonuses and circumstance or Feat bonuses, the result obtained must be communicated to the Narrator, who will compare it with the difficulty (DC) of the check.
+Checks for Proficiencies or Ability Scores are performed by rolling 3d6 and adding the score of the Proficiency (base or active), the linked Ability Score, and any magic, circumstance, or Feat bonuses. The result must be communicated to the Game Master, who compares it with the difficulty (DC) of the check.
 
 When you need to establish a difficulty, start by thinking that the check should be related to a *normal* person. Don' \*\*t think *if I had to do it then the check would be impossible*, *if Arsène Lupin does the check it' \*\*s very easy*. Start from the assumption that the difficulty must include all circumstantial elements in itself.
 
-Think if it' \*\*s raining, there' \*\*s little light, the character is running, is wounded, is doing things in a hurry, and also the complexity of what they have to do; jumping a 3-meter ditch is not like a 3-meter ditch in the dark, without shoes, in the rain, being chased, and with pockets full of coins...
+Consider whether it is raining, there is little light, the character is running or wounded, the character is in a hurry, and how complex the task is. Jumping a 3-meter ditch is not the same as jumping a 3-meter ditch in the dark, without shoes, in the rain, while being chased, and with pockets full of coins...
 
 Deciphering an ancient writing may be a walk in the park for an expert linguist, but for a *normal person* who has no idea what might be in front of them, the check is simply impossible. This *impossible* is your DC, the difficulty of the check.
 
-And don' \*\*t be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Narrator to introduce facts, clues, and new adventures.
+And don' \*\*t be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Game Master to introduce facts, clues, and new adventures.
 
 >>> **Not always a check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It' \*\*s not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
 
@@ -22,7 +22,7 @@ When -1d6 is written, it means that you roll one die less (or two if it' \*\*s -
 
 The table below serves to relate the difficulty to the minimum ability needed to succeed in the check with an average roll (a score of 10 rolling 3d6). Use these indications to get an idea of the difficulty scales.
 
-The Narrator won' \*\*t tell you make a check at difficulty 10, but will say that the check doesn' \*\*t present elements of particular difficulty.
+The Game Master won' \*\*t tell you to make a check at difficulty 10, but will say that the check doesn' \*\*t present elements of particular difficulty.
 
 **Table: Difficulty Class**
 
@@ -38,7 +38,7 @@ The Narrator won' \*\*t tell you make a check at difficulty 10, but will say tha
 | 35 | Almost impossible | Amazing |
 | 40 | Impossible | Epic |
 
-If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Narrator who will compare it with the difficulty (DC).
+If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Game Master who will compare it with the difficulty (DC).
 
 ## The Golden Rules
 
@@ -57,7 +57,7 @@ Use the **Golden Rules** to your advantage! Dare, try, risk when the situation a
 
 ## Succeeding or Failing the Test
 
-The check is passed when rolling 3d6 and adding the relevant Skill and Characteristic as well as various modifiers, the result is equal to or greater than the DC set by the Narrator.
+The check is passed when rolling 3d6 and adding the relevant Skill and Characteristic as well as various modifiers, the result is equal to or greater than the DC set by the Game Master.
 If the result is lower than the difficulty, the test is failed.
 
 A test can be repeated as long as the conditions that allow the test to be repeated do not change.
@@ -66,13 +66,13 @@ A test can be repeated as long as the conditions that allow the test to be repea
 
 ### Critical Success - Critical Failure
 
-If check is passed by at least 8 points above the established difficulty, then considers it a Critical Success.
+If the check is passed by at least 8 points above the established difficulty, then it is considered a Critical Success.
 
-The Narrator may decide to give more information, grant a bonus to subsequent actions (+1)... anything that can enhance how easily the test was passed..
-Conversely, if the test fails by at least 8 points, the Narrator could describe how miserably the test failed and how the poor result influences the Action and subsequent ones.
+The Game Master may decide to give more information, grant a bonus to subsequent actions (+1)... anything that can enhance how easily the test was passed..
+Conversely, if the test fails by at least 8 points, the Game Master could describe how miserably the test failed and how the poor result influences the Action and subsequent ones.
 
 For every 8 points above or below the established difficulty, one Critical Success or Critical Failure is counted. When the manual speaks of 2 Critical Successes, it means passing the test by at least 16 points.
-At the Narrator' \*\*s discretion, a critically failed test cannot be repeated by the same character.
+At the Game Master' \*\*s discretion, a critically failed test cannot be repeated by the same character.
 
 Consider how competent a character is in order to avoid any check with a foregone conclusion.
 
@@ -94,7 +94,7 @@ There are situations where the character must make an Opposed Check against an o
 
 In this case, the character makes the indicated check whose **difficulty (DC) is equal to 10** + the Ability Score + Proficiency or Saving Throw (as indicated by the check) + contingent modifiers (bonuses/penalties).
 
-Whoever gets the higher value wins; in case of a tie, the one with the higher value in the Proficiency wins, then in the Ability Score, and finally the eventual *opponent*. 
+Whoever gets the higher value wins; if there is a tie, the one with the higher value in the Proficiency wins, then in the Ability Score, and finally the eventual *opponent*. 
 
 **Some examples of Opposed Checks**
 - - **Deceiving someone**: Deception Vs Sense Motive
@@ -127,7 +127,7 @@ Some checks may be indicated as *Make a Dexterity check at DC 20* without indica
 
 ### Checks against a static DC
 
-When the Check is opposed to a *static opponent*, that is, not a creature endowed with Ability Scores and Proficiencies, but to a lock, a jump to be made... then the check is performed by comparing 3d6 + the interested Ability Score + the most suitable Active Proficiency (ST/MP/WP) or Base Proficiency (Disable Device, Athletics...) against the difficulty (**DC**) established by the Narrator.
+When the Check is opposed to a *static opponent*, that is, not a creature endowed with Ability Scores and Proficiencies, but to a lock, a jump to be made... then the check is performed by comparing 3d6 + the interested Ability Score + the most suitable Active Proficiency (ST/MP/WP) or Base Proficiency (Disable Device, Athletics...) against the difficulty (**DC**) established by the Game Master.
 
 > Audentes fortuna iuvat (*Fortune favors the bold*, Virgil)
 
@@ -161,7 +161,7 @@ The player may request to make the check even if the result is certain.
 | Strong disadvantage | -1d6 | -4 |
 | Very strong disadvantage | -2d6 | -8 |
 
->>> **Weight of dice..**: Bonuses and penalties in the 3d6 roll have more *effect* than in the check made with the d20. Try to stay within $\pm2$ and only in particular situations of effective and strong advantage or disadvantage apply greater bonuses or penalties.
+>>> **Weight of dice...**: Bonuses and penalties in the 3d6 roll have more *effect* than in the check made with the d20. Try to stay within $\pm2$ and only in particular situations of effective and strong advantage or disadvantage apply greater bonuses or penalties.
 
 ### Time Factor
 
@@ -171,7 +171,7 @@ The player may request to make the check even if the result is certain.
 
 **If time becomes a factor not to be considered**, that is, the character has at least 1 hour to think and work and has no penalties or risk, consider having rolled 18 (but there is no dice explosion or Critical Success even if the total is 18).
 
-If you want to take these values, ask the Narrator, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
+If you want to take these values, ask the Game Master, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
 
 >>> **Good lecture**: I recommend everyone to read the excellent article by Lorenzo Bertini \hrefhttps://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20Elogio del 10 e del 20 for a critical and intelligent examination of success and failure in checks.
 
@@ -183,7 +183,7 @@ Multiple characters can help the same character; bonuses of this type are cumula
 
 **In the case of checks based on Proficiencies, the helper must have assigned at least one point in the Proficiency involved**.
 
-The Narrator will evaluate the possibility that more than one character provides help considering spaces, ways, and times (it' \*\*s not easy to help someone thread a needle).
+The Game Master will evaluate the possibility that more than one character provides help considering spaces, ways, and times (it' \*\*s not easy to help someone thread a needle).
 
 If the check to help fails critically, the one who was supposed to be helped has a -1 penalty in the check.
 
@@ -207,9 +207,9 @@ There are situations where the group must make a proficiency check but the resul
 
 ## Examples of Proficiency Checks
 
-**Atypical Checks**. The player is encouraged to find uses, solutions, and approaches that go beyond the most obvious checks. Be creative and describe to the Narrator the wonderful action you want to perform and how to do it! The Narrator will determine based on your action description what to check and how difficult it might be.
+**Atypical Checks**. The player is encouraged to find uses, solutions, and approaches that go beyond the most obvious checks. Be creative and describe to the Game Master the wonderful action you want to perform and how to do it! The Game Master will determine based on your action description what to check and how difficult it might be.
 
-Skills that have a * next to their name, like **Acrobatics*** have check penalties due to the armor worn.
+Skills that have a * next to their name, like **Acrobatics***, have check penalties due to the armor worn.
 
 ### Acrobatics* 
 A successful Acrobatics check with DC 15 allows the character to reduce falling damage by 3 when falling within 6 meters (**Reaction**).
@@ -222,14 +222,14 @@ See paragraph Falls (page ) for details on how to use Acrobatics when falling.
 DC 12 + rarity factor of item. Common +0, Uncommon +2, Rare +6, Very Rare +10, Legendary +16. 3 Actions
 
 ### Arcana - Identify a magic item 
-For identifying a magical object and its capabilities requires an **Arcana** check with difficulty 20 to get general indications about powers and areas of use, only with a result of at least 25 in the check can you learn its details, magic bonuses and charges. **10 minutes**. With an Arcana score of 6 it takes 5 minutes, with 12 it takes 1 minute, with Arcana 18 it takes 1 Round to perform the check.
+Identifying a magical object and its capabilities requires an **Arcana** check with a difficulty of 20 to learn general information about its powers and areas of use. Only a result of at least 25 allows you to learn its details, magic bonuses, and charges. The check takes **10 minutes**. With an Arcana score of 6, it takes 5 minutes; with 12, it takes 1 minute; and with an Arcana score of 18, it takes 1 Round.
 
 ### Arcana - Identify a spell  
-while being cast is an **Arcana** check with DC equal to 10 + spell level. It costs a **Reaction**. If done together with casting a Counterspell it doesn' \*\*t cost a Reaction.
+Identifying a spell while it is being cast is an **Arcana** check with a DC equal to 10 + the spell' \*\*s level. It costs a **Reaction**. If done together with casting a Counterspell, it doesn' \*\*t cost a Reaction.
 
 ### Athletics* *Armor Penalty.* **1 Action**
 
-The **distance jumped in long jump** is equal to 30cm per result obtained in the check, rounded to the nearest integer. E.g. if in the jumping check you get 11, the jump will be 30cm*11=330cm=3 meters, with 16 in the check it' \*\*s 30cm*16=480cm=5m.
+The **distance jumped in long jump** is equal to 30 cm per point obtained in the check, rounded to the nearest integer. E.g., if you get 11 on the jumping check, the jump will be 30 cm*11=330 cm=3 meters; with a check result of 16, it is 30 cm*16=480 cm=5 m.
 
 The **distance jumped in high jump** is equal to 10cm per result obtained in the check.
 
@@ -243,7 +243,7 @@ Performing a standing Jump costs 1 Action. A Jump performed within half of your 
 
 Climbing, scaling, or descending from a rough surface is equivalent to moving through **doubly difficult terrain**. 
 
-In case of failure of the check, the Action is consumed without moving. If you get a Critical Failure in check, you lose your grip and can make a Reflex Saving Throw at the same difficulty to grab onto something; if you also fail the Saving Throw, you fall all the way down.
+If the check fails, the Action is consumed without moving. If you get a Critical Failure in the check, you lose your grip and can make a Reflex Saving Throw at the same difficulty to grab onto something; if you also fail the Saving Throw, you fall all the way down.
 
 The indicated modifiers are cumulative.
 
@@ -272,7 +272,7 @@ See also the Table: Walls, page .
 
 ### First Aid
 
-If the character has negative Hit Points, is dying, the First Aid check, 3 Actions, with difficulty 12 plus the value of the negative Hit Points will bring the character to 0 Hit Points, meaning unconscious. Each subsequent time the character returns below 0 Hit Points, the difficulty of the First Aid check increases by 2.
+If the character has negative Hit Points, they are dying. A First Aid check costing 3 Actions, with a difficulty of 12 plus the value of the negative Hit Points, brings the character to 0 Hit Points, meaning unconscious. Each subsequent time the character returns below 0 Hit Points, the difficulty of the First Aid check increases by 2.
 
 A successful check (DC 15) recovers 1d4 Hit Points **after a combat**, if the character is not dying, or grants a +2 to a Fortitude Saving Throw to resist a poison. Must be done within 1 Turn after the end of combat. Cost **2 minutes**.
 
@@ -280,18 +280,18 @@ With a score of 6 it costs 1 minute and recovers 1d4+4 HP. With a score of 12 it
 
 A successful check (base DC 12) reduces **Bleeding** damage by 1. For each value of Bleeding above 1, the difficulty increases by 2. Cost **2 Actions**. A treatment of 1 minute guarantees 1 success, without a check. Each check that succeeds with a Critical Success reduces bleeding by an additional point.
 
-A successful check (base DC 13) to **care for 8 hours** for a patient recovers them double the Hit Points, with a minimum of 4, and grants a new Fortitude Saving Throw to overcome natural Diseases or Poisons already in progress.
+A successful check (base DC 13) to **care for 8 hours** for a patient restores twice as many Hit Points, with a minimum of 4, and grants a new Fortitude Saving Throw to overcome natural Diseases or Poisons already in progress.
 If done during rest hours, the one administering the care will be Fatigued.
 
 Items like Healer' \*\*s Kit (page ) and Bloodstopper (page ) can be useful in checks.
 
 ### Knowledge - Identify a potion or natural poison 
-is possible with an **Herbalism** check with DC equal to the rarity factor of the plant, or the Saving Throw that it grants in case of Poisons.
+This is possible with an **Herbalism** check with a DC equal to the plant' \*\*s rarity factor, or the Saving Throw that it grants in the case of poisons.
 
-It takes 1 Action per 10 of DC. With 6 in Herbalism the time is 1 Action per 15 of DC, with 12 points it' \*\*s 1 Action per 20 DC to perform the check. If you fail with a Critical Failure, you have come into contact with/ingested part of the potion and suffer its effects.
+It takes 1 Action per 10 points of DC. With 6 points in Herbalism, the time is 1 Action per 15 points of DC; with 12 points, it is 1 Action per 20 points of DC. If you fail with a Critical Failure, you come into contact with or ingest part of the potion and suffer its effects.
 
 ### Knowledge - Identify a creature 
-perform a Knowledge check. Check the chapter Identifying Monsters in the Monster Manual (page ). Costs 1 Action.
+Perform a Knowledge check. See the chapter Identifying Monsters in the Monster Manual (page ). It costs 1 Action.
 
 ### Intimidate
 The character uses **1 Action** and performs an Opposed Check against the Will Saving Throw with bonus given by Charisma.
@@ -300,11 +300,11 @@ If the Saving Throw fails, the opponent until the end of their next round has -1
 If the one attempting the Intimidate check executes a Critical Failure, they suffer the same penalties as if they had been intimidated.
 
 ### Handle Animal - Taming an animal
-is a **Handle Animal** check with DC 12+2*CR of the animal. It takes 1 minute per 3 of DC, with 6 points the time is 1 minute per 6 of DC, with 12 it' \*\*s 1 minute per 10 DC to perform the check. The creature must have Intelligence -3 or higher.
+This is a **Handle Animal** check with a DC of 12+2*CR of the animal. It takes 1 minute per 3 points of DC; with 6 points, the time is 1 minute per 6 points of DC; with 12 points, it is 1 minute per 10 points of DC. The creature must have Intelligence -3 or higher.
 
 ### Languages
 
-In the world there are old human languages, used only in ancient tomes and in isolated communities, and there is the Common language built from the collection of old terrestrial idioms and more or less comprehensible to anyone. Every character who has at least Intelligence -2 speaks the language of their own culture, with 0 they write it. For every point equal to or greater than 2, they speak and write another language that will be chosen at character creation. For every point spent in the Knowledge Language Skill, they speak and write another language.
+In the world there are old human languages, used only in ancient tomes and in isolated communities, and there is the Common language built from the collection of old terrestrial idioms and comprehensible to most people. Every character who has at least Intelligence -2 speaks the language of their own culture, with 0 they write it. For every point equal to or greater than 2, they speak and write another language that will be chosen at character creation. For every point spent in the Knowledge Language Skill, they speak and write another language.
 
 Languages marked with a * can only be spoken by creatures belonging to that species or cultural group.
 
@@ -333,7 +333,7 @@ Any check on **Profession** is made with 3d6+Wisdom+half level.
 
 ### Survival
 
-Survival can be used instead of **Disable Device** with a -1d6 to disarm traps or locks. 1 Action per DC.
+Survival can be used instead of **Disable Device**, with a -1d6 penalty, to disarm traps or locks. It takes 1 Action per point of DC.
 
 For every three points obtained in the Survival check above the DC (usually 13), the character is able to **forage food** for themselves and another person as long as they are in an environment capable of sustaining life.
 
@@ -370,7 +370,7 @@ To the **Base Difficulty of 15**, the following modifiers apply:
 | Poor visibility | DC +2 |
 | Tries to conceal tracks | DC +4 |
 
->> **Checks Checks and more Checks!**: To be cynical, a role-playing game is all about checks, whether you' \*\*re trying to make a jump, hit someone, avoid a trap or a spell...!
+>> **Checks, checks, and more checks!**: At its core, a role-playing game is all about checks, whether you' \*\*re trying to make a jump, hit someone, avoid a trap or a spell...!
 You need to be smarter and wiser. Checks can often be avoided or approached with advantage. Play with wit, use your imagination, be creative!
 
 ---

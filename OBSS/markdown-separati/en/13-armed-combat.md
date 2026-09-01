@@ -8,11 +8,11 @@ I' \*\*m not a hero. No, and I never will be. I' \*\*m just a bad guy who gets p
 
 An eye for an eye... and the world becomes blind (Mahatma Gandhi, NdA his Traits abhorred violence!)
 
-Combat is among the main phases of an adventure and is when characters try, with varying results, to show off their mastery with weapons or magic.
+Combat is one of the main phases of an adventure and is when characters try, with varying results, to demonstrate their mastery of weapons or magic.
 
 Combat is divided into 2 phases:
 - initiative check
-- resolution of actions (movement, attack, various actions...)
+- resolution of Actions (movement, attacks, and other Actions...)
 
 ## Initiative
 
@@ -30,29 +30,29 @@ Whoever has the highest initiative between players and enemies starts first, fol
 
 > It is not that we have little time: the truth is that we waste much of it. (Lucius Annaeus Seneca)
 
-From fastest to slowest there is the resolution of Actions.
+Actions are resolved from fastest to slowest.
 
-The Narrator will ask the fastest, the one with the highest initiative, to declare their Actions and act, then proceed to ask and have the other players and enemies act.
+The Game Master will ask the fastest character, the one with the highest initiative, to declare their Actions and act, then proceed with the other players and enemies.
 
-In this way, the choice of action occurs when it' \*\*s the player' \*\*s round, who can act based on Actions and resolutions that have already taken place.
+In this way, the choice of Action occurs during the player' \*\*s turn, allowing them to act based on Actions and resolutions that have already taken place.
 
 ### Time (Rounds, Minutes and Turns)
 
 > Hesitation is the death of advantage (Magic, V.E. Schwab)}
 
-A **round** lasts about 10 seconds, it' \*\*s a time frame sufficient to act, run, talk... fight. A Minute is therefore 6 rounds and a Turn lasts 10 Minutes (or 60 rounds).
+A **round** lasts about 10 seconds, a time frame sufficient to act, run, talk, or fight. A Minute is therefore 6 rounds, and a Turn lasts 10 Minutes (or 60 rounds).
 
 Rounds are used in combat scenes or where tension must remain constantly high and each Action corresponds to an evolution of the situation.
 
 ### Reactivation Time of Objects and Abilities
 
-Unless otherwise specified, an object or Ability that provides a certain number of uses per day *e.g. once per day* recharges at the dawn following the use.
+Unless otherwise specified, an object or Ability that provides a certain number of uses per day, *e.g., once per day*, recharges at dawn after use.
 
 ## Actions in a Round
 
 A character can perform up to 3 Actions, 1 Immediate Action, and 1 Reaction Action per Round. They can also use 1 or more Free Actions if available.
 
-If the initiative rolled is the fastest and is 8 or more points higher than the second, in that round they can use one additional Reaction or Immediate Action. If the differential is at least +16, their great reactivity allows them to perform one additional Action.
+If a character has the fastest initiative and their result is 8 or more points higher than the second-highest result, they can use one additional Reaction or Immediate Action in that round. If the difference is at least +16, their great reactivity allows them to perform one additional Action.
 
 Actions can be executed in the preferred order.
 
@@ -122,15 +122,15 @@ During the Movement Action, it is possible to **Draw a Weapon** or Shield or **S
 
 **Cast a Spell***: usually 2 Actions are needed. The number of necessary Actions is indicated in the spell description. In the Magic chapter, the rules (page ) for casting multiple spells in a round are specified.
 
-**Exchange a dialogue with someone***: A dialogue can be just a few seconds or minutes. The Narrator will evaluate how long it lasts.
+**Exchange a dialogue with someone***: A dialogue can be just a few seconds or minutes. The Game Master will evaluate how long it lasts.
 
 **Exchange a few lines with someone***: As long as they are truly few lines or a glance, it doesn' \*\*t consume Actions; if it becomes more articulated, then it uses Actions. The goal is not to interrupt the flow of Actions with a dense dialogue but still allow interaction between characters.
 
 **Perform a skill check***: if they use a fraction of the round they cost 1 Action, otherwise 2 or more. Check the Examples of Skill Checks for the reported costs.
 
-A **Reaction (R)** Action can be freely executed even outside your own round. This Action is usually due to Abilities or particular situations. Unless otherwise indicated, a Reaction Action happens immediately after the cause that triggers it.
+A **Reaction (R)** Action  can be freely executed even outside your own round. This Action is usually due to Abilities or particular situations. Unless otherwise indicated, a Reaction Action happens immediately after the cause that triggers it.
 
-An **Immediate (Imm.)** Action can be freely executed in your own round, before or after your Action. An Immediate Action is usually granted by particular Abilities.
+An **Immediate (Imm.)** Action  can be freely executed in your own round, before or after your Action. An Immediate Action is usually granted by particular Abilities.
 
 It is possible, if not specifically described in the Ability, to execute only one Immediate Action and one Reaction Action per round.
 
@@ -155,16 +155,16 @@ The Movement written in the character' \*\*s race is the indication of how many 
 A creature or character might also decide to move faster than usual, i.e., running (Dash Action).
 
 The Dash Action is a special Movement Action; it consists of running for that Action.
-If a **Dash** Action is executed, the meters traveled are doubled (2x9 meters for a human); for a dwarf (Movement 6m) it means doing 12 meters, in one Action.
+If a **Dash** Action  is executed, the meters traveled are doubled (2x9 meters for a human); for a dwarf (Movement 6m), it means traveling 12 meters in one Action.
 It' \*\*s also possible to make multiple Dash Actions, up to 3 in a round, i.e., run for 6 times your movement.
 
-The character who takes a Dash Action is running and has a penalty of 1d6 on the Attack Roll, Defense decreases by 4 until the beginning of their next round, and they are considered Distracted for spell casting.
+The character who takes a Dash Action  is running and has a penalty of 1d6 on the Attack Roll. Defense decreases by 4 until the beginning of their next round, and they are considered Distracted for spellcasting.
 
 It is not possible to move even just 1 meter without spending Movement Actions.
 
 These clarifications make sense and should be used when fighting and positioning on the territory, on the map, is fundamental. During normal movements, while riding or walking freely without danger, the normal management of hourly movement is used.
 
-When talking about a ***square*** to indicate a distance or influence, it means a map square of 1 meter x 1 meter.
+When talking about a ***square***  to indicate a distance or influence, it means a map square of 1 meter x 1 meter.
 
 In case of **diagonal movement**, for practicality count a square normally.
 
@@ -174,9 +174,9 @@ In the Monster Manual, the dimensions and relative spaces occupied by creatures 
 
 ## Distance
 
-By **Touch distance**  we mean a distance that allows touching the opponent, so no more than one meter for medium-sized creatures without long weapons or with reach. Touch distance is melee distance if long weapons are not used.
+By **Touch distance**   we mean a distance that allows touching the opponent, so no more than one meter for medium-sized creatures without long weapons or reach. Touch distance is melee distance if long weapons are not used.
 
-By **Melee distance**  we mean a distance that allows hand-to-hand combat. The area that can be hit around the character is also called the **threat area** (usually within 1 meter around the character, or within 2 meters in the case of a long weapon).
+By **Melee distance**   we mean a distance that allows hand-to-hand combat. The area that can be hit around the character is also called the **threat area** (usually within 1 meter around the character, or within 2 meters in the case of a long weapon).
 
 In monsters, this distance is indicated by reach; for throwing weapons, it' \*\*s called range.
 
@@ -196,7 +196,7 @@ The worthy Game Master never kills player characters willingly. He presents oppo
 
 Weapon damage is calculated as the sum of the weapon die, Strength (or Dexterity if indicated by Abilities) whether positive or negative, bonuses given by Weapon Lists, bonuses given by Abilities, bonuses given by the weapon, and circumstantial bonuses.
 
-When a creature reaches 0 (zero) Hit Points, they are considered unconscious, meaning Helpless and Unable to do anything. Magical Healing (Spell, Potion...) will bring them conscious and to the healed Hit Points. A First Aid check (page ) (DC 12) can be used to bring them conscious at 1 Hit Point.
+When a creature reaches 0 (zero) Hit Points, they are considered unconscious, meaning Helpless and Unable to do anything. Magical Healing (Spell, Potion...) will bring them back to consciousness and to the healed Hit Points. A First Aid check (page ) (DC 12) can be used to bring them conscious at 1 Hit Point.
 If left unconscious after an hour, if nothing has happened to change the situation, the character can make a Fortitude Saving Throw at DC 15; if successful, they return to 1 Hit Point; if failed, they go to -1 and become dying.
 
 A dying character has negative Hit Points (-1 or less) and is unconscious and helpless. They will continue to lose 1 Hit Point per round until the value reaches double their Constitution +10 and the character will die, if not healed.
@@ -270,7 +270,7 @@ Every 8 hours of rest, within 24 hours, recovers 1d4 + Constitution in Maximum H
 
 > Always apply the right force, never too much never too little. (Kano Jigoro)
 
-The **Attack Roll** is given by the combination of combat abilities (Weapon Proficiency and bonuses granted by Weapon Lists), Strength, magic weapons, and everything that influences combat. If the **attacker** carries the attack with:
+The **Attack Roll** is given by the combination of combat abilities (Weapon Proficiency and bonuses granted by Weapon Lists), Strength, magic weapons, and everything that influences combat. If the **attacker** makes the attack with:
 
 - **Melee Weapons or Touch**: the attacker must make an **Attack Roll (AR)**= 3d6 + Weapon Proficiency + Strength + any bonuses given by the Weapon List + Abilities + magic bonuses of the weapon and circumstantial factors (environment, curses...)
 - **Ranged Weapons**: the attacker must make an Attack Roll (AR) = 3d6 + Weapon Proficiency + Dexterity + any bonuses given by the Weapon List + Abilities + magic bonuses of the weapon and circumstantial factors (environment, curses...). Valid for bows, crossbows, thrown daggers, javelins...
@@ -290,7 +290,7 @@ Each Attack Roll is compared to Defense.
 
 If the **Attack Roll** is equal to or higher than the Defense value, the opponent has been hit and the damage of the wound will be determined, given by the weapon die + Strength score and other factors such as magic bonuses, Weapon List, and Abilities.
 
-If the Attack Roll (AR) is lower than the Defense, then the opponent will have parried, dodged, avoided... The choice is left to the player (or Narrator); having avoided the attack, no wounds are taken.
+If the Attack Roll (AR) is lower than the Defense, then the opponent will have parried, dodged, avoided... The choice is left to the player (or Game Master); having avoided the attack, no wounds are taken.
 
 There are situations that can advantage Defense such as cover, hiding places, trenches, doors, companions of much larger size than one' \*\*s own, invisibility... Consult the paragraphs related to Hiding and Cover to understand the advantage they can give.
 
@@ -321,11 +321,11 @@ The basic rules of Skills also apply to the Attack Roll. Defense is a fixed valu
 
 If you rolled three times 1, you missed, regardless of the final result.
 
-If you rolled three 1s, you missed, regardless of the final result. The Narrator might also decide that bad things happen... (for example, see Attack Roll Failure Table, page )
+If you rolled three 1s, you missed, regardless of the final result. The Game Master might also decide that bad things happen... (for example, see Attack Roll Failure Table, page )
 
 ## Rolling 3 times 6
 
-If in the first 3 Attack Rolls you make three times 6, you will hit the opponent regardless of the final result of the Attack Roll. In addition to having the certainty of having made a Critical Hit, the Narrator might decide to apply some further descriptive (or effective) effect. And remember to keep rolling those magnificent dice in the hope of making 6 again!
+If in the first 3 Attack Rolls you make three times 6, you will hit the opponent regardless of the final result of the Attack Roll. In addition to having the certainty of having made a Critical Hit, the Game Master might decide to apply some further descriptive (or effective) effect. And remember to keep rolling those magnificent dice in the hope of making 6 again!
 
 ## Critical Hit
 
@@ -358,7 +358,7 @@ The first attack Action has no penalty while the second attack Action has -5 to 
 
 If the cumulative penalty to hit becomes greater than the Attack Roll it is no longer possible to make further attacks.
 
-Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even if with significant penalties.
+Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even with significant penalties.
 
 >> **Multiple Attack Example**: For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I' \*\*m flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
 
@@ -368,7 +368,7 @@ The player can declare to make attacks on different targets. Each attack can be 
 
 ## Thrown Weapons
 
-Thrown weapons, or ranged weapons, are all weapons with a range, meaning they can be thrown or shoot projectiles. The main ranged weapons are bows, crossbows, slings, but also daggers, javelins, or spears when they are thrown.
+Thrown weapons, or ranged weapons, are all weapons with a range, meaning they can be thrown or used to shoot projectiles. The main ranged weapons are bows, crossbows, slings, but also daggers, javelins, or spears when they are thrown.
 
 The damage bonus from Strength automatically applies to slings, daggers, javelins... essentially all weapons that are thrown with strength. Bows apply this bonus only if they are composite, crossbows never apply it.
 
@@ -433,7 +433,7 @@ The opponent must be within 2 Movement Actions (usually 18 or 12 meters) and not
 
 You get a +1d6 to your Attack Roll, -4 to Defense until the beginning of your next round; the attack after the first takes a -10 penalty to hit, and any subsequent attack takes -15, -20...
 
-The movement and attack costs 2 Actions. No other penalties for having run are considered beyond those indicated.
+The movement and attack cost 2 Actions. No other penalties for having run are considered beyond those indicated.
 
 The Charge Action brings you into melee contact with the opponent. If the attack is made with a long weapon, it is delivered from a distance of 2 meters and then you end up in contact with the opponent.
 
@@ -485,7 +485,7 @@ The best suggestion that can be given in managing the more chaotic combat situat
 
 It' \*\*s not a question of miniatures, spaces, squares... it' \*\*s a question of fun and visualization of the scene. Unorthodox solutions for unorthodox situations.
 
-Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise) whenever the player has an advantage or disadvantage, and similarly to the opponent.
+Grant a bonus or penalty ($\pm 1-2$) if not indicated otherwise whenever the player has an advantage or disadvantage, and similarly to the opponent.
 
 | **Attacker** |  | **Defender** |
 | --- | --- | --- |
@@ -505,13 +505,13 @@ When -1d6 is written, it means that you roll one die less (or two if it' \*\*s -
 
 When the penalty is to Defense, consider each -1d6 as a -4 to Defense.
 
-As a general principle, in combat a light bonus is +1, medium +2, high +1d6 (or +4), a very high bonus is +2d6 (or +8), vice versa for penalties.
+As a general principle, in combat a light bonus is +1, a medium bonus is +2, a high bonus is +1d6 (or +4), and a very high bonus is +2d6 (or +8); the same applies in reverse to penalties.
 
 The **positive modifiers indicated** in the *Table: Modifiers in attack or defense* are added starting from the largest and adding a +1 for each additional bonus present. If an opponent is above the character, behind them, invisible, and charging, they will have a bonus to hit of +1d6 (charge or invisibility) +1 because they' \*\*re above, +1 because they' \*\*re behind, +1 because they' \*\*re charging.
 
 **Penalties** add up entirely among themselves. If the character is surprised and prone, they have a -6 to Defense.
 
->>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Narrator) of some monster; don' \*\*t be rigid but dynamic and adapt to situations.
+>>> **The main goal**: Always remember that the goal is to have fun, at the expense (for the Game Master) of some monster; don' \*\*t be rigid but dynamic and adapt to situations.
 
 ## Other Actions and Situations
 
@@ -547,7 +547,7 @@ The attacker automatically hits and inflicts three Critical Hits.
 
 OBSS does not provide the possibility to make called shots with weapons or spells, unless specifically stated.
 
-When you hit a target, you hit it generally, without the possibility to specify whether it' \*\*s to the head, leg, or elsewhere; the same concept applies in the case of hitting objects, e.g., if you aim at a door hinge, you hit the entire door. This does not prevent the Narrator from evaluating appropriate consequences for the action undertaken.
+When you hit a target, you hit it generally, without the possibility to specify whether it' \*\*s to the head, leg, or elsewhere; the same concept applies in the case of hitting objects, e.g., if you aim at a door hinge, you hit the entire door. This does not prevent the Game Master from evaluating appropriate consequences for the action undertaken.
 
 ### Non-lethal Damage
 
@@ -583,7 +583,7 @@ If two characters are around the same target but are not next to each other, the
 
 At most, there can be 4 characters around a medium-sized creature who get the flanking bonus. The type of bonus is chosen round by round; if not declared, it counts as +2 to the Attack Roll.
 
-If by drawing a hypothetical line connecting the two characters, this line crosses through the opponent' \*\*s square, then there is a flanking situation.
+If a hypothetical line connecting the two characters crosses through the opponent' \*\*s square, then there is a flanking situation.
 
 A creature can attack from behind if the opponent is not able to face it. Attacking from behind grants a +2 bonus to the Attack Roll. This does not stack with Flanking.
 
@@ -696,7 +696,7 @@ See also Chapter Vision and Light (page ).
 
 ## Optional Combat Maneuvers
 
-These combat Actions are at the Narrator' \*\*s discretion, who may grant them or not. **Each maneuver counts as an Attack Action** regarding the multi-attack penalties.
+These combat Actions are at the Game Master' \*\*s discretion, who may grant them or not. **Each maneuver counts as an Attack Action** regarding the multi-attack penalties.
 
 When these maneuvers are performed by opponents and the values for Attack Roll, Athletics, Deceive... are not specified, oppose the check with the Saving Throw indicated after the Action cost and the suggested modifiers (Size...).
 
@@ -733,7 +733,7 @@ Each contestant can attack the other grappled with a small weapon or natural wea
 
 ### Moving Through Enemies*
 
-A character can **move through** but not stop in **a zone occupied** by a creature without being **restricted**.
+ A character can **move through** but not stop in **a zone occupied** by a creature without being **restricted**.
 
 To move through the terrain where there is a hostile creature or that is in the reach of attack by the hostile creature that you pass alongside, it is necessary to perform an Opposed Check of Athletics or Acrobatics against a Reflex Saving Throw of the creature through whose terrain you want to **pass**; each creature passed beyond the first, the difficulty increases by +2.
 
@@ -759,7 +759,7 @@ Each round they can deduct one or more accumulated Critical Hits to perform Crit
 
 The list proposes a catalog of Critical Actions for consumed Critical Hits. You cannot have more than 6 accumulated Critical Hits. Activating these Critical Actions costs a Reaction.
 
-Use this list as guidelines to stimulate the character to create their own combat style. It' \*\*s important that character explain how perform the Critical Action.
+Use this list as guidelines to stimulate the character to create their own combat style. It' \*\*s important that the character explain how to perform the Critical Action.
 
 **Criticals**  **Effect**
 

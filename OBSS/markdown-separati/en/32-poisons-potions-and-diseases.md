@@ -81,7 +81,7 @@ Continuous First Aid treatment for 8 hours allows for a new Saving Throw with a 
 
 Natural potions and poisons can be created using Herbalism. The DC to prepare the potion equals the rarity for potions, and for poisons it equals the Saving Throw -2.
 
-An Herbalist can prepare simultaneously up to their (Herbalism/2)+1 value in doses of natural potions or poisons in eight hours of work.
+A Herbalist can prepare simultaneously up to their (Herbalism/2)+1 value in doses of natural potions or poisons in eight hours of work.
 
 A Critical Failure on the Herbalism check will render the materials used worthless.
 
@@ -295,7 +295,7 @@ p
 
 ## Generic Potions
 
-The Narrator is free to use all the potions and poisons already listed or use ready-to-use generic potions. The table shows the costs and effects of these generic potions.
+The Game Master is free to use all the potions and poisons already listed or use ready-to-use generic potions. The table shows the costs and effects of these generic potions.
 
 The onset is always immediate, the duration for healing is immediate, for others it is 10 minutes (so the Neutralize Poison potion protects you for 1 Turn against a poison).
 
@@ -327,7 +327,7 @@ The onset is always immediate, the duration for healing is immediate, for others
 | Julnnaus Pollen | R | I | 20 | +3 Constitution for 2 hours | 16 | 25 gc |
 | Erain Flower Pollen | R | 1 r | 20 | +2 Str Int Dex, +3d6 temporary HP for 1 hour | 17 | 75 gc |
 
-**The use of drugs is completely optional. It is the Narrator who decides their presence and availability based on the sensitivity of the players**.
+**The use of drugs is completely optional. It is the Game Master who decides their presence and availability based on the sensitivity of the players**.
 
 Drugs are addictive. When the effect ends, a Will Saving Throw at difficulty 15 is required or another dose must be taken within 24 hours, the subsequent Saving Throw will have difficulty +1 and so on.
 
@@ -343,7 +343,7 @@ A creature can drink a number of tankards of beer or shots of liquor equal to it
 
 Higher proof beers or liquors impose a higher modifier on the Saving Throw.
 
-The Narrator can decide to manage a *tipsy* creature only through *roleplaying*.
+The Game Master can decide to manage a *tipsy* creature only through *roleplaying*.
 
 ## Diseases
 

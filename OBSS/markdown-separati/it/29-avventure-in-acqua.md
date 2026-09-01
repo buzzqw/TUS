@@ -40,7 +40,7 @@ Il **fuoco** non magico (incluso il fuoco dell'alchimista) non brucia sott'acqua
 
 Lanciare incantesimi sott'acqua può essere difficile per chi non ha la capacità di respirare sott'acqua.
 
-Una creatura incapace di respirare sott'acqua spende tre round di trattenere il respiro per lanciare un incantesimo con componente Verbali.
+Una creatura incapace di respirare sott'acqua spende tre round di trattenere il respiro per lanciare un incantesimo con componenti Verbali.
 
 Alcuni incantesimi potrebbero funzionare diversamente sott'acqua, a discrezione del Narratore.
 

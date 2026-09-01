@@ -14,23 +14,23 @@ A Trait is a detail that helps to better frame the character, outlines the main 
 
 **Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices.
 
->> **Choosing Traits**: Traits are not the character, they don' \*\*t block or fix it eternal in time. A character is always constantly evolving and so is its character, morals, behavior, and desires. Don' \*\*t be rigid, but use Traits to give you suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their character, morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
 
 Traits have no positive or negative connotation, they only serve to frame the character and understand which Patron is more interested in the character. They don' \*\*t want to define whether you are good or bad, everyone has their own morals regardless of the Traits possessed.
 
 **At the first level, choose a Trait that is more characteristic for the character, this will have value 1, the other 4 Traits will have value 0.**
 
-With the passing of time and adventures, Traits will increase in value or may be replaced, in concert between Narrator and player based on how it' \*\*s played, by other Traits. **The higher a Trait value, the more present and permeating it is in the character' \*\*s choices**.
+With the passing of time and adventures, Traits will increase in value or may be replaced, in concert between Game Master and player based on how it' \*\*s played, by other Traits. **The higher a Trait value, the more present and permeating it is in the character' \*\*s choices**.
 
-During the adventures, the Narrator, following particular scenes and recitation, may increase by one point, or a fraction of a point, a character' \*\*s Trait.
+During the adventures, the Game Master, following particular scenes and recitation, may increase by one point, or a fraction of a point, a character' \*\*s Trait.
 
-For example, following a particular situation and adventure climax, the Narrator might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
+For example, following a particular situation and adventure climax, the Game Master might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
 
-While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Talk to the Narrator, they will know how to prepare situations and adventures that will help you understand how to evolve the character and possibly change the chosen Traits.
+While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Talk to the Game Master, they will know how to prepare situations and adventures that will help you understand how to evolve the character and possibly change the chosen Traits.
 
 In the character sheet, you will find **checks** to put next to the Traits, these are marked following actions suitable to increase the value of the Trait; once 10 checks are reached, the Trait will increase by 1 point and you will start marking a new set of ten.
 
-It will be the Narrator during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
+It will be the Game Master during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
 
 Every particularly important action where the character has followed a Trait brings the character closer to the **Patron** competent for that Trait.
 
@@ -45,11 +45,11 @@ It is not necessary to believe in a Patron to feel their closeness, be bound to 
 
 Since the purpose of a Patron is to make their Traits dominant over others, having high-level and powerful people who are so akin to them will be useful in the judgment of the 100 years. Use the Traits and the bond that the Patron will establish with you to your advantage.
 
-To identify the most similar Patron, the one' \*\*s that will give you power, check your Trait with the highest value on the Table Patron - Trait Connection (page ) and identify the Patron that most characterizes that Trait; if the Trait is shared among multiple Patrons, check the other Traits and choose the Patron based on similarity. Then check in Cosmology (page ) the powers granted by the Patron. It is advisable to do this check each time a Trait value increases.
+To identify the most similar Patron, the one who will give you power, check your highest-valued Trait on the Table Patron - Trait Connection (page ) and identify the Patron who best represents that Trait; if the Trait is shared among multiple Patrons, check the other Traits and choose the Patron based on similarity. Then check in Cosmology (page ) the powers granted by the Patron. It is advisable to do this check each time a Trait value increases.
 
-One is a Devotee with at least 2 Traits and a Follower with at least 1 Trait in common with the Patron. One cannot be simultaneously a Follower or Devotee of multiple Patrons.
+One is a Devotee with at least 2 Traits in common with the Patron and a Follower with at least 1 Trait in common with the Patron. One cannot be simultaneously a Follower or Devotee of multiple Patrons.
 
-The Narrator is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
+The Game Master is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
 
 **Traits List**
 

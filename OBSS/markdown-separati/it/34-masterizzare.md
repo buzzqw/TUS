@@ -20,7 +20,7 @@ Il tuo ruolo è quello del grande orchestratore, pianificatore o anche paesaggis
 
 Il tuo *lavoro e divertimento* è fondamentale ed importantissimo, la bontà della sessione di gioco dipende anche da te. Il tuo scopo è innanzitutto divertirti, essere creativo, improvvisare, recitare, creare ingegnose situazioni. Finché tu ti diverti è estremamente probabile che anche i giocatori si stiano divertendo!
 
-**Ricorda che non sei tu il protagonista ne l'avventura, ma i personaggi**, non rubare la scena ma come un gran ballo sii il direttore d'orchestra dove gli strumenti sono le possibilità offerte dal OBSS, la musica è l'avventura ed i ballerini i personaggi.
+**Ricorda che non sei tu il protagonista né l'avventura, ma i personaggi**, non rubare la scena ma come un gran ballo sii il direttore d'orchestra dove gli strumenti sono le possibilità offerte dall'OBSS, la musica è l'avventura ed i ballerini i personaggi.
 
 ## Punti Esperienza
 
@@ -33,7 +33,7 @@ Il suggerimento principale è premiare i personaggi che più si sono impegnati p
 
 I Punti Esperienza che assegna la sconfitta di un mostro sono indicati nel Mostruario es. Sfida 13 (10000 PX). Questi Punti Esperienza vanno divisi tra tutti i personaggi che hanno partecipato allo scontro in qualsiasi maniera.
 
-La Tabella Punti Esperienza per Livello indica i Punti Esperienza necessari per passare da un livello a successivo.
+La Tabella Punti Esperienza per Livello indica i Punti Esperienza necessari per passare da un livello al successivo.
 
 Non esagerate mai nell'assegnazione dei Punti Esperienza altrimenti rischierete di sbilanciare il gioco e dover modificare anche in maniera significativa l'avventura. Siate chiari anche con i giocatori all'inizio della campagna, nella Sessione Zero, come i Punti Esperienza saranno calcolati, distribuiti e cosa è possibile fare per poterne avere di più.
 
@@ -44,11 +44,11 @@ Ogni qual volta il personaggio od il gruppo:
 - **Raggiunga gli obiettivi prefissati** (premio al gruppo od al personaggio);
 - **Sfrutti a pieno ed anzi sia alternativo nell'uso delle proprie Abilità e capacità** (premio al personaggio);
 - **Risolva i problemi in maniera creativa, fantasiosa e funzionale** (premio al personaggio);
-- **Proponga piani e azioni e funzionanti ed alternative a quanto previsto** (premio al personaggio);
+- **Proponga piani e azioni funzionanti ed alternative a quanto previsto** (premio al personaggio);
 - **Scopra o avvii indizi di avventura e creazione di nuovi plot** (premio al personaggio);
 - **Usi in maniera intelligente e furba una competenza od oggetto** (premio al personaggio);
-- **Usi in maniera geniale (ed alternativo) un incantesimo** (premio al personaggio);
-- **Compia una azione che mette a repentaglio la propria vita per il gruppo** (premio al personaggio);
+- **Usi in maniera geniale (ed alternativa) un incantesimo** (premio al personaggio);
+- **Compia un'azione che mette a repentaglio la propria vita per il gruppo** (premio al personaggio);
 - **Compia azioni seguendo il credo del proprio Patrono (per Devoti). Queste dovrebbero dare punti Tratto** (premio al personaggio);
 - **Converta un PNG, di livello equivalente, al suo Patrono (solo per Devoti)** (premio al personaggio);
 - **Raccolga almeno 500*Livello in monete d'oro (o tesoro equivalente)** (premio al gruppo, una volta per sessione massimo);
@@ -84,9 +84,9 @@ In questo sistema sono necessarie circa 8/12 sessioni per passare di livello, po
 
 Costruite la sessione perché tutti i personaggi possano essere partecipi e nessuno si senta escluso.
 
-Quando dico *incontro* non pensate al semplice scontro con i mostri, per incontro si intende qualsiasi evento di ruolo che sfidi e metta alla prova i personaggi. Questa sfida può essere una arguta discussione con il nobile che non li vuole pagare al termine di una missione, alla sfida di un indovinello, rebus, delle trappole ben piazzate. In base alla difficoltà della sfide ricavate i Punti Esperienza.
+Quando dico *incontro* non pensate al semplice scontro con i mostri, per incontro si intende qualsiasi evento di ruolo che sfidi e metta alla prova i personaggi. Questa sfida può essere una arguta discussione con il nobile che non li vuole pagare al termine di una missione, alla sfida di un indovinello, rebus, delle trappole ben piazzate. In base alla difficoltà delle sfide ricavate i Punti Esperienza.
 
-Un mostro non deve essere per forza ucciso per averne i Punti Esperienza, è sufficiente sconfiggerlo, catturarlo, vincere in maniera diversa. In caso di ritirata da parte dei personaggi o nemico accordate la metà dei Punti Esperienza previsti per lo scontro se c'è almeno stato il tentativo di sfida.
+Un mostro non deve essere per forza ucciso per averne i Punti Esperienza, è sufficiente sconfiggerlo, catturarlo, vincere in maniera diversa. In caso di ritirata da parte dei personaggi o nemico accordate la metà dei Punti Esperienza previsti per lo scontro se c'è stato almeno il tentativo di sfida.
 
 Nel limite del possibile ogni sessione dovrebbe includere una parte di ruolo, una parte di esplorazione, tre parti di combattimento (anche molte più di tre), una parte di riposo.
 
@@ -116,7 +116,7 @@ Uno scontro può anche nascere palesemente sbilanciato, sarà l'accortezza dei g
 
 Nel progettare un incontro di combattimento in primo luogo decidete che livello di sfida volete far fronteggiare ai PG, quindi seguite i punti descritti qui di seguito.
 
-**Determinare APL**: Determinate il livello medio dei personaggi: questo è il Livello Medio del Gruppo (APL in breve, Average Party Level). Dovreste arrotondate questo valore al numero intero più vicino (questa è una delle poche eccezioni alla regola dell'arrotondamento per difetto).
+**Determinare APL**: Determinate il livello medio dei personaggi: questo è il Livello Medio del Gruppo (APL in breve, Average Party Level). Dovreste arrotondare questo valore al numero intero più vicino (questa è una delle poche eccezioni alla regola dell'arrotondamento per difetto).
 
 **Tabella: Determinare gli Incontri**
 
@@ -135,7 +135,7 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 ### Quanti scontri affrontare
 
-Non c'è una risposta unica. È a vostra scelta, il sistema trova un suo equilibrio tra i 3 ed i 5 scontri al giorno. Ovvio che non devono essere tutti a difficoltà Alta!.
+Non c'è una risposta unica. È a vostra scelta, il sistema trova un suo equilibrio tra i 3 ed i 5 scontri al giorno. Ovvio che non devono essere tutti a difficoltà Alta!
 
 Gli scontri sono alla fine una gestione di risorse da usare contro un nemico. Queste risorse sono i Punti Ferita, gli incantesimi, le pozioni, pergamene ed oggetti consumabili posseduti.
 
@@ -149,7 +149,7 @@ Per costruire un incontro come prima cosa calcolate il valore dell' APL (il live
 
 Per sviluppare il vostro incontro, aggiungete le creature, le trappole ed i pericoli finché non arrivate a vostro APL programmato.
 
-Parti calcolando le sfide con grado di Sfida più alto dell'incontro, completando il resto con sfide minori.
+Partite calcolando le sfide con grado di Sfida più alto dell'incontro, completando il resto con sfide minori.
 
 Per esempio, volete che il vostro gruppo di sei personaggi di 7° livello abbia una sfida Media ed affronti alcuni Gargoyle (grado di Sfida 2 ciascuno), degli Xorn (grado di Sfida 5) e il loro capo, un Gigante delle Pietre (grado di Sfida 7). I personaggi hanno APL 8 e la Tabella: Determinare gli Incontri stabilisce che una sfida Media per un APL 8 è un incontro di grado di Sfida 9 (Difficoltà Media = APL+1).
 
@@ -176,7 +176,7 @@ Per raggiungere l'obiettivo di un grado di Sfida 9 metterò 1 grado di Sfida -2 
 
 Il totale dei Punti Esperienza sarà : 2900+1800+450*3 = 6050 Punti Esperienza / 6 Personaggi = 2015 Punti Esperienza a personaggio!
 
-Avversari con grado di Sfida inferiore a 8 rispetto al APL si contano, pesano, solo se sono superiori a 20 come unità.
+Avversari con grado di Sfida inferiore a 8 rispetto all'APL si contano, pesano, solo se sono superiori a 20 come unità.
 
 Avversari con GS pari a 1/2 considerateli come di GS 1, con GS inferiore ad 1/2 considerateli di GS 0.
 
@@ -186,9 +186,9 @@ Avversari con GS pari a 1/2 considerateli come di GS 1, con GS inferiore ad 1/2 
 
 Un problema a cui potreste andare incontro è che lo scontro si risolve troppo velocemente. Possono esserci diversi motivi ed altrettante soluzioni.
 
-Se i giocatori si aspettano pochi incontri è probabile che useranno le loro migliori risorse ed opzioni subito ad inizio combattimento andando così a sconfiggere velocemente i nemici, in questo caso prendeteli di sorpresa con ondate successivi di nemici.
+Se i giocatori si aspettano pochi incontri è probabile che useranno le loro migliori risorse ed opzioni subito ad inizio combattimento andando così a sconfiggere velocemente i nemici, in questo caso prendeteli di sorpresa con ondate successive di nemici.
 
-È possibile che ci siano troppi pochi nemici e quindi anche se questi sono *forti* canalizzando su di loro tutti gli attacchi risultano facile preda dei personaggi, in questo caso dei gregari o l'impedire di riposare e quindi recuperare Punti Magie ed Punti Ferita sarà di aiuto.
+È possibile che ci siano troppi pochi nemici e quindi anche se questi sono *forti* canalizzando su di loro tutti gli attacchi risultano facile preda dei personaggi, in questo caso dei gregari o l'impedire di riposare e quindi recuperare Punti Magie e Punti Ferita sarà di aiuto.
 
 È ovviamente possibile che lo scontro non sia tarato bene ed effettivamente abbiate bilanciato l'incontro perché sia troppo facile, questo è il caso più facile da risolvere, l'esperienza vi insegnerà a meglio costruire gli incontri vuoi aggiungendo o sostituendo gli avversari.
 
@@ -198,7 +198,7 @@ Ricordate che i *mostri* possono anche loro eseguire Azioni come Spingere, Affer
 
 ### Lo scontro con il Boss
 
-Quando preparate uno scontro il boss, ovvero con quello che potete definire un nemico significativo che ha un certo peso nello svolgimento della campagna dovete preoccuparvi di rendere interessante la sfida!
+Quando preparate uno scontro con il boss, ovvero con quello che potete definire un nemico significativo che ha un certo peso nello svolgimento della campagna dovete preoccuparvi di rendere interessante la sfida!
 
 Se lo scontro deve essere memorabile non basta piazzare il cattivo, organizzate il tutto perché tutti gli avvenimenti risultino coinvolgenti ed emozionanti.
 
@@ -226,13 +226,13 @@ Qui descritti ci sono tre modi aggiuntivi con cui potete alterare la difficoltà
 
 **Terreno Favorevole ai PG**
 
-Un incontro contro un mostro che non è nel suo elemento preferito (come uno Yeti incontrato in una caverna piena di lava, o un Drago enorme incontrato in una stanza molto piccola) da ai personaggi un vantaggio. Considerate l'incontro come se avesse un grado di Sfida più basso del suo grado di Sfida reale.
+Un incontro contro un mostro che non è nel suo elemento preferito (come uno Yeti incontrato in una caverna piena di lava, o un Drago enorme incontrato in una stanza molto piccola) dà ai personaggi un vantaggio. Considerate l'incontro come se avesse un grado di Sfida più basso del suo grado di Sfida reale.
 
 **Terreno Sfavorevole ai PG**
 
 I mostri sono progettati con il presupposto che siano incontrati nel loro terreno preferito: incontrare un Aboleth sott'acqua non aumenta il grado di Sfida dell'incontro, anche se nessun personaggio è in grado di respirare sott'acqua.
 
-Se, d'altra parte, il terreno ha un impatto più significativo sull'incontro (come un incontro contro una creatura con Vista Cieca in una zona che sopprime ogni fonte di luce), si possono, aumentare il grado di Sfida dell'incontro fosse di un grado più alto.
+Se, d'altra parte, il terreno ha un impatto più significativo sull'incontro (come un incontro contro una creatura con Vista Cieca in una zona che sopprime ogni fonte di luce), si può aumentare il grado di Sfida dell'incontro come se fosse di un grado più alto.
 
 **Modifiche all'Equipaggiamento dei PNG**
 
@@ -242,7 +242,7 @@ Occorre prestare attenzione ad assegnare ai PNG questo equipaggiamento supplemen
 
 ### Assegnare i PX
 
-I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertendosi,completando l'avventura ed arraffando tesori: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbero interrompere il flusso del gioco. È più facile assegnare i punti esperienza alla fine di una sessione di gioco (o più sessioni) che permetta ai personaggi di riflettere su quanto accaduto. Il giocatore può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
+I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertendosi, completando l'avventura ed arraffando tesori: nel farlo guadagnano i Punti Esperienza (PX in breve). Potete assegnare Punti Esperienza non appena una sfida viene superata, ma ciò potrebbe interrompere il flusso del gioco. È più facile assegnare i punti esperienza alla fine di una sessione di gioco (o più sessioni) che permetta ai personaggi di riflettere su quanto accaduto. Il giocatore può usare il tempo a disposizione fra le sessioni di gioco per aggiornare la scheda.
 
 ## Ricchezza dei Personaggi per Livello
 
@@ -261,7 +261,7 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 | 9 | 8100 | 19 | 253000 |
 | 10 | 11000 | 20 | 365000 |
 
-La **Tabella: Ricchezza dei Personaggi per Livello** per Livello indica la quantità di monete d'oro equivalenti in tesori ed oggetti che ogni personaggio dovrebbe avere ad un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
+La **Tabella: Ricchezza dei Personaggi per Livello** indica la quantità di monete d'oro equivalenti in tesori ed oggetti che ogni personaggio dovrebbe avere ad un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
 
 Le avventure con magia rara potrebbero assegnare soltanto la metà di questo valore, mentre avventure più epiche potrebbero raddoppiarlo. Si presume che parte del tesoro sia consumato nel corso di un'avventura (come pozioni e pergamene) e che alcuni degli oggetti meno utilizzati siano venduti per metà del loro valore per acquistare un equipaggiamento più utile.
 
@@ -271,7 +271,7 @@ Per un metodo equilibrato, i personaggi che vengono creati dopo il 1° livello d
 
 ## Io conosco un tizio...
 
-Per agevolare lo spirito di avventura e non lasciare i personaggi incapaci o indecisi nell'agire, permettetegli di conoscere un certo numero di PNG pari al loro punteggio di Carisma +1. Il giocatore in qualsiasi momento potrà dichiarare di conoscere questo PNG e dovrà tenerne traccia. Questi PNG potranno essere *sfruttati* quando i personaggi si trovano in situazioni difficili, di pericolo o semplicemente bisognosi si supporto. Il personaggio che si appella al *io conosco un tizio...* deve descrivere adeguatamente il soggetto ed il rapporto che c'è tra loro. Il Narratore adatterà la situazione per includere questo personaggio al meglio delle possibilità.
+Per agevolare lo spirito di avventura e non lasciare i personaggi incapaci o indecisi nell'agire, permettetegli di conoscere un certo numero di PNG pari al loro punteggio di Carisma +1. Il giocatore in qualsiasi momento potrà dichiarare di conoscere questo PNG e dovrà tenerne traccia. Questi PNG potranno essere *sfruttati* quando i personaggi si trovano in situazioni difficili, di pericolo o semplicemente bisognosi di supporto. Il personaggio che si appella al *io conosco un tizio...* deve descrivere adeguatamente il soggetto ed il rapporto che c'è tra loro. Il Narratore adatterà la situazione per includere questo personaggio al meglio delle possibilità.
 
 Il tizio potrebbe essere un commerciante che gli deve un favore, se non un ladro od un burocrate. I personaggi sono invitati a non inventarsi amicizie o favori da personaggi troppo importanti.
 
@@ -279,7 +279,7 @@ Il tizio potrebbe essere un commerciante che gli deve un favore, se non un ladro
 
 Un gioco di ruolo non è un semplice tirare dadi, è un incontro di pensieri, opinioni, sfide, lotte. È un gioco catartico, liberatorio, evolutivo ed istruttivo.
 
-È giusto che ci sia combattimento, lotta, sangue paura ed azione, allo stesso modo deve esserci la possibilità di giocare i propri personaggi con i loro svantaggi, vantaggi, poteri e storie e anche drammi personali.
+È giusto che ci sia combattimento, lotta, sangue, paura ed azione, allo stesso modo deve esserci la possibilità di giocare i propri personaggi con i loro svantaggi, vantaggi, poteri e storie e anche drammi personali.
 
 Il giocatore deve sempre impersonare il personaggio, immedesimarsi e partecipare attivamente.
 
@@ -299,7 +299,7 @@ Per quanto il sistema favorisca la libertà di costruzione e sviluppo del person
 
 ## Circa OBSS ed i tiro di dadi
 
-OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzione 3d6 ad il potenziale dei 6 che esplodono. Questo sistema riesce a garantire una buona varianza e pur se concentrando i risultati intorno ai valori centrali della distribuzione lascia aperto il limite superiore a tiri particolarmente fortunati.
+OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzione 3d6 al potenziale dei 6 che esplodono. Questo sistema riesce a garantire una buona varianza e pur se concentrando i risultati intorno ai valori centrali della distribuzione lascia aperto il limite superiore a tiri particolarmente fortunati.
 
 Se volete divertirvi a studiare la curva corrispondente vi consiglio il sitohttps://anydice.com/. Questo lo pseudo codice da inserire (o cliccate https://anydice.com/program/2610e per il codice già inserito):
 
@@ -326,13 +326,13 @@ Il Narratore potrebbe decidere di tracciare in questa maniera i soli consumabili
 
 Suggerisco la lettura integrale dell'articolo: https://lithyscaphe.blogspot.com/p/principia-apocrypha.html} {Principia Apocrypha}
 
-https://lithyscaphe.blogspot.com/p/principia-apocrypha.html quello che segue è un sunto da me adattato e modificato delle linee guida che seguo quando masterizzo OBSS.
+https://lithyscaphe.blogspot.com/p/principia-apocrypha.html. Quello che segue è un sunto da me adattato e modificato delle linee guida che seguo quando masterizzo OBSS.
 
 OBSS segue i principi dell' https://it.wikipedia.org/wiki/Old_School_Renaissance (wikipedia). Le avventure in OBSS mirano ad essere letali, avere un mondo liberamente esplorabile, una trama abbozzata, spingere sul problem-solving ed avere un sistema di ricompense incentrato sull'esplorazione, sui tesori e sulla partecipazione al gruppo. OBSS non si cura troppo del bilanciamento degli incontri e apprezza l'intraprendenza dei giocatori e cattura le loro idee mettendole nell'avventura.
 
-Per me l'OSR non sono tabelle di incontri casuali e randomizzazione caotica ne un regolamento specifico, è piuttosto lo spirito di avventura, meraviglia, paura, gloria, stupore e sfida che si sviluppa nelle avventure. Non siate troppo lineari, troppo prevedibili, aggiungete nelle avventure quel giusto mix che le rendono sempre uniche.
+Per me l'OSR non sono tabelle di incontri casuali e randomizzazione caotica né un regolamento specifico, è piuttosto lo spirito di avventura, meraviglia, paura, gloria, stupore e sfida che si sviluppa nelle avventure. Non siate troppo lineari, troppo prevedibili, aggiungete nelle avventure quel giusto mix che le rendono sempre uniche.
 
-Se il metodo può non piacere usate quello che più vi aggrada, personalmente nel corso dei decenni ho imparato ad apprezzare e vedere apprezzato la spontaneità e naturalezza che i cardini dell'OSR portano nel gioco.
+Se il metodo può non piacere usate quello che più vi aggrada, personalmente nel corso dei decenni ho imparato ad apprezzare e vedere apprezzata la spontaneità e naturalezza che i cardini dell'OSR portano nel gioco.
 
 **Queste sono regole di base per il Narratore che suggerisco per condurre le avventure.**
 
@@ -344,19 +344,19 @@ Non farti limitare dall'avventura, dal sistema, dall'elenco dei mostri, sentiti 
 Allo stesso tempo se ti serve una regola e non la trovi usa il buon senso, è sicuramente la scelta giusta in quel momento.
 
 Rispetta i dadi ed i risultati ottenuti, come capiteranno ai giocatori capiteranno risultati particolari anche a te. È giusto così.
-- Non devi salvare il *culo* ai personaggi. Non sei il loro amico ne il loro nemico. Il tuo ruolo è di raccontare storie che nascono dalle storie dei personaggi, dalle loro azioni ed inazioni.
+- Non devi salvare il *culo* ai personaggi. Non sei il loro amico né il loro nemico. Il tuo ruolo è di raccontare storie che nascono dalle storie dei personaggi, dalle loro azioni ed inazioni.
 - Abbozza la storia, scrivi le parti centrali o da leggere ai giocatori ma non farti dominare o vincolare da quello che ti aspetti. Spesso e volentieri i giocatori ti stupiranno, meglio sapere dove si muovono e cosa hanno intorno per poter reagire sempre puntualmente.
 
 Sono i giocatori a dare la direzione all'avventura e tu a dipanarla.
 - Apprezza il caso e crea situazioni diverse dove i giocatori possono scegliere strade diverse o intrecciarne di nuove. È la tua fortuna avere dei giocatori creativi che sanno sorprenderti.
-- Non costringere nessuno a fare qualcosa, lascia sbagliare i giocatori, lascia che paghino le loro scelte. Non devi ostacolarli ne devi imbeccarli per una direzioni. Richiede da parte tua una immaginazione e capacità di adattamento non indifferente, ma sicuramente l'avventura ed il divertimento ne gioverà.
+- Non costringere nessuno a fare qualcosa, lascia sbagliare i giocatori, lascia che paghino le loro scelte. Non devi ostacolarli né devi imbeccarli per una direzione. Richiede da parte tua un'immaginazione e capacità di adattamento non indifferente, ma sicuramente l'avventura ed il divertimento ne gioverà.
 - I personaggi sono esploratori, per definizione. Focalizza sull'esplorazione, più si esplora più si creano situazioni, più si creano agganci nell'avventura, più si conoscono altri png più ci sono zone da esplorare.
 
 Fa capire che i tesori sono esperienza, in senso letterale e pratico. Non dovrai mai spingerli tu in un dungeon ma la loro brama di esperienza e tesoro.
-- Fai risolvere i problemi ai giocatori e non ai personaggi. Lascia ruolare le scene, sono sempre meglio di un tiro di dado. Incoraggia il giocatori ad interagire e chiedere una prova solo come ultima chance. Proponi problemi che non debbano essere risolti per forza con un tiro di dado bensì piuttosto tramite più azioni, anche complesse.
+- Fai risolvere i problemi ai giocatori e non ai personaggi. Lascia ruolare le scene, sono sempre meglio di un tiro di dado. Incoraggia i giocatori ad interagire e chiedere una prova solo come ultima chance. Proponi problemi che non debbano essere risolti per forza con un tiro di dado bensì piuttosto tramite più azioni, anche complesse.
 
 Premia le azioni creative e le scelte coraggiose prima più di tutto l'arguzia e il volere trovare situazioni alternative e creative.
-- Fa che i giocatori ti chiedano informazioni, si confrontino con l'ambiente e tra di loro. Incoraggia l'interazione con il mondo esterno e solo come ultima possibilità concedi un tiro di dado.
+- Fai che i giocatori ti chiedano informazioni, si confrontino con l'ambiente e tra di loro. Incoraggia l'interazione con il mondo esterno e solo come ultima possibilità concedi un tiro di dado.
 - Grandi sfide e rischi danno sempre grandi ricompense. Non deludere i giocatori (se non per scopo di avventura) negandogli il giusto tesoro o esperienza, più si addentreranno in profondità più i pericoli saranno letali maggiore sarà la ricompensa (Legge del Premio).
 - Non devono esistere abitudini o consuetudini. Non creare uno standard.
 Cerca sempre di sorprendere i giocatori con mostri fuori luogo (ma che abbiano un senso), trappole anomale, ambienti alternativi. Situazioni diverse stimoleranno i giocatori a risolvere in maniera diversa ogni problema.
@@ -366,20 +366,20 @@ Prepara soluzioni diverse e accetta soluzioni diverse. Metti nell'avventura prob
 Se proteggi i personaggi la partita mancherà di tensione e i giocatori risolveranno tutti i problemi con la forza bruta.
 
 Se i giocatori cercano sempre e comunque lo scontro frontale allora daglielo, come richiedono.
-- Mantieni l'attenzione alta. Fa in modo che il passare del tempo abbia conseguenze, se i giocatori temono lo scorrere del tempo faranno scelte più ardite o forse sbagliate. Mantieni la tensione fra il desiderio di esplorare e fare bottino e il terrore di restare fermi troppo a lungo.
+- Mantieni l'attenzione alta. Fai in modo che il passare del tempo abbia conseguenze, se i giocatori temono lo scorrere del tempo faranno scelte più ardite o forse sbagliate. Mantieni la tensione fra il desiderio di esplorare e fare bottino e il terrore di restare fermi troppo a lungo.
 - Tu sei la sorgente delle informazioni, i giocatori le elaborano, i personaggi le usano.
 
-Non nascondere informazioni che i personaggi devono sapere o sanno già, non dovrai fare il professore ma allo stesso modo fa in modo che siano consapevoli di ciò che hanno intorno.
+Non nascondere informazioni che i personaggi devono sapere o sanno già, non dovrai fare il professore ma allo stesso modo fai in modo che siano consapevoli di ciò che hanno intorno.
 Allo stesso tempo non devi rivelare tutto subito, falli indagare, curiosare. Come una cipolla le informazioni che otterranno saranno nascoste sotto strati di altre informazioni magari di minore importanza.
 - Gli indizi creano situazioni. Lascia che i tuoi indizi, specifici e curiosi, attirino l'attenzione dei giocatori.% Come un esca su un amo attira i giocatori in situazioni di dubbio, dove indagare e capire cosa succede.
 
 Non infarcire l'avventura di dettagli inutili, lascia spazio alla creatività e immaginazione dei giocatori. %, i dettagli che però fornirai dovranno non solo avere un senso ma essere necessari all'avventura.
 - Se i giocatori tendono a dimenticare le informazioni utili date cerca di sfruttare un PNG che abbia memoria o invitali a prendere appunti, non c'è nulla di male nell'essere preparati.
-- L'avventura non è mai statica ne tanto meno il mondo dove si muovono i personaggi.
+- L'avventura non è mai statica né tanto meno il mondo dove si muovono i personaggi.
 Il mondo ha la stessa importanza se non di più dell'avventura stessa. Azioni dei giocatori possono scatenare accadimenti a livello globale. Pensate sempre alle conseguenze dei gesti.
 - Se usi i PNG non farli essere delle semplici macchiette, fa in modo che i personaggi si possano affezionare e considerare il PNG uno del gruppo alla pari di tutti gli altri.
 - I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare.. anche loro vogliono vivere!
-- Ricordati la Legge del Premio. Premia gli audaci, premia che si spinge più in profondità nelle caverne. Premia chi sopravvive.
+- Ricordati la Legge del Premio. Premia gli audaci, premia chi si spinge più in profondità nelle caverne. Premia chi sopravvive.
 
 ## Sessione Zero
 
@@ -391,7 +391,7 @@ Per partire bene come gruppo di giocatori è importante conoscersi personalmente
 
 Suggerisco ai Narratori di stabilire delle regole chiare per il buon gioco. Purtroppo l'esperienza insegna che siamo tutte persone diverse con stili, prospettive ed aspettative diverse. Conoscersi serve anche a questo, a capire se il proprio personaggio può stare bene insieme agli altri e capire se la propria persona e personalità è in qualche maniera affine o meno alle altre persone.
 
-**Il Narratore prima di incominciare è opportuno che chiarisca quali sono le regole essenziali al suo tavolo**. Un esempio di regole possono essere:
+**Il Narratore prima di incominciare è opportuno che chiarisca quali sono le regole essenziali al suo tavolo**. Un esempio di regole può essere:
 
 - Che ogni giocatore **conosca** la parte del regolamento del manuale che maggiormente andrà ad usare (combattimento, magia, patroni...).
 - Rispetti i **limiti** degli altri. Ogni persona ha una diversa sensibilità a certi argomenti (stupri, schiavitù, razzismo, violenza...) è fondamentale che si chiarisca insieme quali sono i limiti da non superare mai.

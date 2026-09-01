@@ -8,7 +8,7 @@ Cursed items are magic items with a potentially negative influence on the charac
 
 Cursed items are almost never intentionally created; rather, they are the result of poor workmanship, inexperienced craftsmen, or the lack of adequate components or broken pacts with some Patron.
 
-The Narrator can request an Arcana check with a DC equal to 10+days spent building the magic item in case of particularly complex items or if there were problematic situations in creation, and if the check fails, roll on the following table to determine the type of curse the item possesses.
+The Game Master can request an Arcana check with a DC equal to 10+days spent building the magic item for particularly complex items or if there were problematic situations in creation, and if the check fails, roll on the following table to determine the type of curse the item possesses.
 
 A curse can also manifest as a result of negative or extreme emotional influences involving an object.
 
@@ -41,7 +41,7 @@ These items can only be removed after the Remove Curse spell is cast on the char
 
 The Dispel Magic spell is useless for removing a curse; only a Greater Dispel Magic with 3 Critical Magic Successes may be sufficient.
 
-If the item was cursed through the Bestow Curse spell, or if the Narrator decides that the item has a particular curse, then a counterspell check (p. ) must be made between the one casting Remove Curse and the DC of the item' \*\*s curse.
+If the item was cursed through the Bestow Curse spell, or if the Game Master decides that the item has a particular curse, then a counterspell check (p. ) must be made between the one casting Remove Curse and the DC of the item' \*\*s curse.
 
 If the counterspell check succeeds, then the item can be removed in the next round, and the curse remains and strikes again if the item is used/worn another time.
 
@@ -51,7 +51,7 @@ If the DC of the curse is not indicated, casting the Remove Curse spell is suffi
 
 ## Common Effects of Cursed Items
 
-The most common effects of cursed items are the following; the Narrator can invent new particular effects for specific cursed items.
+The most common effects of cursed items are the following; the Game Master can invent new particular effects for specific cursed items.
 
 ### Deception
 
@@ -135,7 +135,7 @@ Items that have drawbacks usually have positive effects on those who use them, b
 
 Unless otherwise indicated, drawbacks remain active for as long as the item remains in the character' \*\*s possession. The DC of the Saving Throw to avoid these effects is equal to 10 + DC of the curse (if you have not established the difficulty, set the Saving Throw, usually on Will, at DC 25)
 
->>> **Curses**: The list is an example to randomly generate effects on the item' \*\*s owner. Take inspiration and be creative! However, don' \*\*t make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Narrator
+>>> **Curses**: The list is an example to randomly generate effects on the item' \*\*s owner. Take inspiration and be creative! However, don' \*\*t make a curse render it impossible to play the character; rather, it should be experienced as an opportunity to try something different. Never throw a cursed item randomly into the treasure pile; always think about what might happen and what consequences will be generated. A cursed item always requires a high level of attention and planning from the Game Master
 
 ---
 

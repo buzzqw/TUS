@@ -2,16 +2,16 @@
 
 > {Like any unrequited love, that for things also eventually takes its toll. (Adolfo Bioy Casares)
 
-The Narrator in preparing the adventure can position the magic items they prefer, as needed, and in pure OSR style rely on random generation.
+The Game Master in preparing the adventure can position the magic items they prefer, as needed, and in pure OSR style rely on random generation.
 
-The exclusively random approach is not always suggested, the results could overwhelm the adventure if not the entire campaign!
+The exclusively random approach is not always suggested; the results could overwhelm the adventure if not the entire campaign!
 Yet finding a dragon-slaying sword at the first level, rest assured it will generate endless adventures for the characters!
 
 >> **Magic items**: Earth is a world with a *rare* magic profile; magic items exist but are rare and even more so the more powerful ones. While natural potions and small trinkets can be found everywhere, it is only by actively searching, going into the depths that the best treasures can be found.
 
 ### Value of Gems and Jewelry
 
-When Gems or Jewelry are found, the Narrator must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
+When Gems or Jewelry are found, the Game Master must roll to determine their value in gold pieces. You can assign the same value to all objects, assign an individual value to each gem/jewelry, or roll randomly for each.
 
 | **3d6** | **Gem (gp)** | **Jewelry (dp)** |
 | 3 | 10 | 1d4*10 |

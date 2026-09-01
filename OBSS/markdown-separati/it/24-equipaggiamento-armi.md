@@ -8,7 +8,7 @@ Usare un'Arma senza l'adeguata competenza impone un -1d6 al colpire
 
 La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed il tipo di danno (se da Taglio, Contundente o Perforante), la gittata, la Lista d'Arma appartenente e le caratteristiche speciali che può avere. Vedi anche Capacità di Carico e Trasporto.
 
-**Tabella: Lista della Armi**
+**Tabella: Lista delle Armi**
 
 | **Arma** | **Costo** | **Dim./Danno** | **Gittata, Lista, Speciale** |
 | --- | --- | --- | --- |
@@ -63,7 +63,7 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 | Tridente | 15 | M/1d6 P/T | 3 metri, **Aste**, **Armi da Lancio**, Arma Lunga, Controcarica |
 | Urgrosh | 18 | M/1d6 T/P | **Lance**, **Armi doppie** |
 
-Un **Arma** Piccola ha **Ingombro** 1, una Arma Media ha Ingombro 2, un Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
+Un'**Arma** Piccola ha **Ingombro** 1, un'Arma Media ha Ingombro 2, un'Arma Grande ha Ingombro 4, un Arma Enorme ha Ingombro 8.
 
 **Tabella: Lista dei proiettili - Archi - Balestre - Fionde**
 
@@ -80,7 +80,7 @@ Una **Faretra** (piena o vuota) di Proiettili (Frecce o Dardi) ha **Ingombro** 2
 
 Un **dardo pesante** per Balestra penetra più facilmente le armature di metallo causando +2 danni aggiuntivi.
 
-Un Arma +1 costa 1500 mo, +2 5000 mo. Non è possibile acquistare armi con incantamenti superiore a +2, devono essere trovate.
+Un'Arma +1 costa 1500 mo, +2 5000 mo. Non è possibile acquistare armi con incantamenti superiore a +2, devono essere trovate.
 
 Una Freccia/Dardo/Sasso magico con un bonus +1 costa 25 mo, se +2 costa 100 mo. Proiettili con bonus magico superiori a +2 sono quasi impossibili da trovare.
 
@@ -93,7 +93,7 @@ Un **arco composito** lungo ha un modificatore fisso, da +1 a +5, il bonus si ap
 Un arco composito +3 usato da un personaggio con Forza 2 non può essere tirato completamente e quindi la freccia che parte avrà un modificatore al danno di +2.
 Un arco composito +1 usato da un personaggio con Forza 4 può essere tirato completamente e quindi la freccia che parte avrà un modificatore al danno di +1.
 
-Il costo di un arco composito dipende dal sul modificatore.
+Il costo di un arco composito dipende dal suo modificatore.
 Un arco composito con modificatore di +1 costa 75 mo, +2 150 mo, +3 300 mo, +4 600 mo, +5 1500 mo. Non è possibile acquistare archi compositi con bonus superiori a +3, devono essere *trovati*.
 
 Un arco corto composito ha come massimo modificatore di Forza +3.
@@ -102,33 +102,33 @@ Un arco corto composito ha come massimo modificatore di Forza +3.
 Una balestra pesante richiede due Azioni per essere ricaricata. Una balestra leggera od a una mano richiede 1 Azione per essere ricaricata.
 
 **Gittata**
-La distanza indicata è quello a pieno Tiro per Colpire. Ogni arma a distanza può colpire entro tre volte la distanza indicata.
+La distanza indicata è quella a pieno Tiro per Colpire. Ogni arma a distanza può colpire entro tre volte la distanza indicata.
 
-Se il target è entro la distanza indicata non si hanno penalità al colpire, se il target è tra il primo e secondo incremento la penalità al colpire è -1d6. Se il target è tra il secondo è terzo incremento la penalità al colpire è di -2d6.
+Se il target è entro la distanza indicata non si hanno penalità al colpire, se il target è tra il primo e secondo incremento la penalità al colpire è -1d6. Se il target è tra il secondo e terzo incremento la penalità al colpire è di -2d6.
 
 Un giavellotto tirato entro 12 metri non ha penalità, ma tirato entro 24 metri ha un -6 al colpire, a distanza tra 24 e 36 metri un -12 al colpire, oltre non può essere tirato.
 
-Un **Proiettile che colpisce si considera distrutto**, se manca ha un 50\% (4-5-6 su un d6) di probabilità che sia ancora integra.
+Un **Proiettile che colpisce si considera distrutto**, se manca ha un 50\% (4-5-6 su un d6) di probabilità che sia ancora integro.
 
 Un Proiettile magico somma i suoi bonus a quelli del lanciatore per determinare il Tiro per Colpire ed il Danno.
 
-La **Dimensione dell'Arma** è indicata come P (piccola), M (media), G (grande) ed è riferito ad una creatura media. Vedi sezione Arma troppo grande
+La **Dimensione dell'Arma** è indicata come P (piccola), M (media), G (grande) ed è riferita ad una creatura media. Vedi sezione Arma troppo grande
 
 Una **arma di dimensione superiore**  come ad esempio una Spada Lunga forgiata per un Ogre aumenta di una categoria il suo dado di danno.
 
 Le Armi hanno indicato una **Tipologia di danno**, ovvero T/C/P.
 
-Queste lettere stanno ad indicare se il danno è di tipo Taglio, Contundente o da Perforazione. Questa caratteristica può essere importante perché determinate creature possono essere immuni o subire meno danno da un particolare tipo di ferita (es uno scheletro contro un'arma da perforazione o un cubo gelatinoso contro un arma da taglio..).
+Queste lettere stanno ad indicare se il danno è di tipo Taglio, Contundente o da Perforazione. Questa caratteristica può essere importante perché determinate creature possono essere immuni o subire meno danno da un particolare tipo di ferita (es uno scheletro contro un'arma da perforazione o un cubo gelatinoso contro un'arma da taglio.).
 
-Un arma può essere usata per causare un tipo di danno diverso (da taglio a perforazione o contundente) riducendo di una categoria il dado di danno (es. Spada Lunga per fare danno contundente causa 1d6).
+Un'arma può essere usata per causare un tipo di danno diverso (da taglio a perforazione o contundente) riducendo di una categoria il dado di danno (es. Spada Lunga per fare danno contundente causa 1d6).
 
 **Armi Perfette**
 
-Un arma perfetta è un arma creata da un abilissimo armaiolo che pur non essendo magica, grazie al suo perfetto bilanciamento ed affilatura, ha un +1 al Tiro per Colpire.
+Un'arma perfetta è un'arma creata da un abilissimo armaiolo che pur non essendo magica, grazie al suo perfetto bilanciamento ed affilatura, ha un +1 al Tiro per Colpire.
 
-Un armaiolo per creare un arma perfetta deve superare con un Successo Critico la DC impostata per la creazione dell'arma (DC = 12 + Ingombro dell'arma).
+Un armaiolo per creare un'arma perfetta deve superare con un Successo Critico la DC impostata per la creazione dell'arma (DC = 12 + Ingombro dell'arma).
 
-Un arma perfetta costa il doppio di un arma normale.
+Un'arma perfetta costa il doppio di un'arma normale.
 
 **Armi Improvvisate**
 
@@ -138,11 +138,11 @@ Un'arma da lancio improvvisata ha una gittata 3 metri.
 
 **Lanciare armi**
 
-Una spada o comunque un arma non fatta per essere lanciata può comunque essere scagliata contro l'avversario. Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore (la spada lunga fa 1d6, una spada corta 1d4..). La gittata è 3 metri.
+Una spada o comunque un'arma non fatta per essere lanciata può comunque essere scagliata contro l'avversario. Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore (la spada lunga fa 1d6, una spada corta 1d4..). La gittata è 3 metri.
 
-**Usare un'Arma senza l'adeguata competenza se non è un Arma Semplice** Impone un -1d6 al Tiro per Colpire.
+**Usare un'Arma senza l'adeguata competenza se non è un'Arma Semplice** Impone un -1d6 al Tiro per Colpire.
 
-**Esempio**: Una creatura piccola che usa un alabarda in combattimento ravvicinato ha -1d6 perché l'arma è grande, -1d6 perché non è competente, -1d6 perché usa l'arma in mischia.
+**Esempio**: Una creatura piccola che usa un'alabarda in combattimento ravvicinato ha -1d6 perché l'arma è grande, -1d6 perché non è competente, -1d6 perché usa l'arma in mischia.
 
 In questo caso essendo le penalità superiori ai 3d6 il personaggio non tira dadi ma usa solo la sua Competenza Armi e Forza come valore per colpire.
 
@@ -178,11 +178,11 @@ Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili s
 - **Danno**: 1d6 (P) danni a proiettile
 - **Regole**: è necessario un Tiro per Colpire con armi a distanza ogni 6 colpi sparati. -1 al Tiro per Colpire per Azione in cui si spara sempre al medesimo obiettivo.
 
-**Regola generale per i fucili** semi-automatici ed automatici: va a segno 1 proiettile per per differenza tra Tiro per Colpire e Difesa avversario. Es. Tiro per Colpire 16 e Difesa 14, la differenza è 2; in quella scarica di proiettili sono andati a segno 2 colpi. Non possono andare a segno più proiettili dei colpi sparati per Azione.
+**Regola generale per i fucili** semi-automatici ed automatici: va a segno 1 proiettile per differenza tra Tiro per Colpire e Difesa avversario. Es. Tiro per Colpire 16 e Difesa 14, la differenza è 2; in quella scarica di proiettili sono andati a segno 2 colpi. Non possono andare a segno più proiettili dei colpi sparati per Azione.
 
 **Regola sui proiettili**: ogni arma usa dei proiettili diversi. Non puoi utilizzare i proiettili del revolver su un fucile semi automatico o quelli del fucile automatico su uno shotgun o fucile semi automatico.
 
- Inserire un nuovo caricatore o caricare un arma usa 2 Azioni.
+ Inserire un nuovo caricatore o caricare un'arma usa 2 Azioni.
 
 **Tiro Critico**: per ogni Tiro Critico ottenuto si considera un danno da singolo proiettile in più.
 
@@ -190,8 +190,8 @@ Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili s
 
 ### Proiettili
 
-I proiettili sono la cosa in assoluto più difficile da trovarsi. Nessun proiettile veniva costruito con l'idea di essere sparato 100 anni dopo la sua creazione.
-La polvere da sparo si è inumidita, ha perso la carica, la camicia di metallo si è corrosa con il tempo.. ci sono tantissimi fattori che rendono i proiettili estremamente rari, quasi e più delle armi magiche.
+I proiettili sono la cosa in assoluto più difficile da trovare. Nessun proiettile veniva costruito con l'idea di essere sparato 100 anni dopo la sua creazione.
+La polvere da sparo si è inumidita, ha perso la carica, la camicia di metallo si è corrosa con il tempo. ci sono tantissimi fattori che rendono i proiettili estremamente rari, quasi e più delle armi magiche.
 
 Un eventuale costo non sarebbe inferiore alle 30 mo a proiettile.
 

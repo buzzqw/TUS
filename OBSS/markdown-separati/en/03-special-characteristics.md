@@ -1,12 +1,12 @@
 # Special Characteristics
 
-> It' \*\*s not enough to have eyes to see (anonymous)
+> Having eyes is not enough to see (anonymous)
 
 Every creature is special and unique, yet there are beings even more unique and special for their characteristics. These are the peculiarities of some of them.
 
 ## Twilight Vision
 
-What is darkness for many is seeing well for those with twilight vision as long as there is a minimal source of light.
+Those with twilight vision see clearly in what many perceive as darkness, as long as there is a minimal source of light.
 
 Twilight vision is color vision.
 A spellcaster with twilight vision can read a Scroll as long as there is even a dim candle as a light source nearby.
@@ -25,7 +25,7 @@ Making a Survival check to look for traps or a visual-only Awareness check takes
 
 ## Scent
 
-This special quality allows a creature to use its sense of smell to detect hidden or approaching enemies and to follow tracks. Creatures with scent can identify familiar smells by smell just as humans do with sight.
+This special quality allows a creature to use its sense of smell to detect hidden or approaching enemies and to follow tracks. Creatures with scent can recognize familiar scents just as humans do with sight.
 
 The creature can detect creatures within 6 meters by smell. If the opponent is downwind, the range increases to 18 meters; if upwind, the range decreases to a distance of 3 meters.
 Stronger odors, such as smoke, garbage, or decomposing bodies, can be detected at twice the range indicated above.
@@ -62,7 +62,7 @@ A creature with True Sight can, within the indicated range, see in normal and ma
 
 A creature with Tremorsense can sense ground vibrations and can automatically detect anything in contact with the ground within the range specified by Tremorsense.
 
-Aquatic Creatures with Tremorsense (echolocation) can perceive the position of creatures in contact with water.
+Aquatic creatures with Tremorsense (echolocation) can perceive the position of creatures in contact with water.
 
 The range of the ability is specified in the descriptive text of the creature.
 

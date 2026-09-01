@@ -93,7 +93,7 @@ Each creature that has more than 4 encumbrance in metal is inexorably drawn towa
 
 A cursed well lures adventurers into its depths through an illusion (Will ST with DC 16 to disbelieve) of a wonderful treasure at the bottom, only 3 meters deep. Any creature that reaches the *treasure* activates the curse.
 
-A creature inside the well must pass a Will Saving Throw with DC 18 or is hit by the curse, which distorts their perception of the well. The water seems to thicken into a viscous slime that pushes the creature toward the bottom at 12 meters.
+A creature inside the well must pass a Will Saving Throw with DC 18 or be hit by the curse, which distorts their perception of the well. The water seems to thicken into a viscous slime that pushes the creature toward the bottom at 12 meters.
 
 A Swim check at DC 16 is required each round; failure indicates that one begins to drown.
 
@@ -101,7 +101,7 @@ A cursed well radiates strong magic and can be destroyed by Dispel Magic or Remo
 
 **Poison Oak (Challenge Rating 1 or 3)**
 
-Contact with poison oak (Challenge Rating 1) causes a painful, 1d4 Hit Points of damage, rash that renders the victim Fatigued until the damage heals. Full body contact or inhalation of smoke from burning poison oak could be fatal (Challenge Rating 3) causing 2 levels of Fatigue and 1d8 damage.
+Contact with poison oak (Challenge Rating 1) causes a painful rash and 1d4 Hit Points of damage that renders the victim Fatigued until the damage heals. Full body contact or inhalation of smoke from burning poison oak could be fatal (Challenge Rating 3) causing 2 levels of Fatigue and 1d8 damage.
 A Nature check (or Herbalism) with DC 15 reveals the dangers inherent in the plant. This hazard can also be used for similar harmful plants (poison ivy, poison sumac, or stinging nettles...)
 
 **Poison Oak**
@@ -173,9 +173,9 @@ Usually, some elements of a trap are clearly visible upon careful inspection.
 
 The trap description specifies the checks and DCs required to detect it, disable it, or both. A character actively searching for a trap can attempt a **Survival** check against the trap' \*\*s DC.
 
-The Narrator can also compare the DC for detecting the trap against the characters' \*\* Survival score (at dice roll 8) to determine if a group member notices the trap. If adventurers notice the trap before activating it, they may attempt to disarm it, either permanently or long enough to allow them passage.
+The Game Master can also compare the DC for detecting the trap against the characters' \*\* Survival score (at dice roll 8) to determine if a group member notices the trap. If adventurers notice the trap before activating it, they may attempt to disarm it, either permanently or long enough to allow them passage.
 
-The Narrator might require a Disable Device check. If you don' \*\*t have **thieves' \*\* tools** or adequate ones, you make the check with a -1d6 penalty. The Survival skill can also be used, albeit with a -1d6, to disable a trap, lock...; in this case, the duration of the operation equals 1 Action per DC of the trap.
+The Game Master might require a Disable Device check. If you don' \*\*t have **thieves' \*\* tools** or adequate ones, you make the check with a -1d6 penalty.  The Survival skill can also be used, albeit with a -1d6 penalty, to disable a trap or lock; in this case, the duration of the operation equals 1 Action per point of the trap' \*\*s DC.
 
 If you want to temporarily disable a trap, add 6 to the difficulty. This will disable the trap for 2d4 minutes.
 
@@ -183,11 +183,11 @@ A **magic trap can be disarmed** with a Disable Device check or an Arcana check,
 
 If the check to disable or disarm the trap fails and you get a Critical Failure, the trap triggers.
 
-Usually, the trap description is clear enough to allow the Narrator to judge whether a character' \*\*s actions succeed in detecting or disabling the trap.
+Usually, the trap description is clear enough to allow the Game Master to judge whether a character' \*\*s actions succeed in detecting or disabling the trap.
 
 Use common sense and base on the trap description to determine what happens. No trap design can anticipate every possible action that characters might attempt.
 
-The Narrator should allow a character to discover a trap without having to make skill checks if their actions or description of what they do clearly reveal the presence of the trap.
+The Game Master should allow a character to discover a trap without having to make skill checks if their actions or description of what they do clearly reveal the presence of the trap.
 
 Disabling traps can be a bit more complicated. Take, for example, a chest protected by a trap. If the chest is opened without pulling the two side handles, an internal mechanism fires a volley of poisoned needles at whoever is in front.
 
@@ -345,7 +345,7 @@ Wedging an iron spike or other object under the pressure plate prevents the trap
 The traps above can be equipped with a spell that activates with the trap.
 Saving Throws to resist the spell are the same as for the spell cast from an object or as indicated in the trap description.
 
-A Dispel Magic cancels the spell on the trap if it require the Arcana Skill of 3 or less and disables its magical effect for 10 minutes if it has Arcana request of 4.
+A Dispel Magic cancels the spell on the trap if it requires the Arcana Skill of 3 or less and disables its magical effect for 10 minutes if it has Arcana request of 4.
 An Advanced Dispel Magic cancels the spell on the trap if it has Arcana request of 5 or less and disables its magical effect for 10 minutes if it has an Arcana of 6. In case of a Magic Critical when casting the spell, it affects a trap of one higher grade.
 
 ### Other trap examples
@@ -588,7 +588,7 @@ Here are additional traps for your enjoyment.
 | **Reset:** | none |
 | **Effect:** | like the spell Meteor Swarm. DC 28 |
 
->> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Narrator from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
+>> **Tups and the trap**: In this example I bring you the old-school approach when traps were presumed to exist. Nothing prevents the Game Master from allowing Survival or Disable Device checks. I can only say that this approach is more engaging.
 
 *Narrator*: a 3-meter wide corridor leads north, into darkness.
 
@@ -600,7 +600,7 @@ Do you proceed down the corridor?
 
 *Tups*: No, I' \*\*m suspicious. Can I see any cracks in the floor, maybe in a square shape?
 
-*Narrator*: No, there are millions of cracks, you can' \*\*t see a pit that clearly [*the Narrator determines that the pit is well camouflaged and Tups has poor lighting to see well*]
+*Narrator*: No, there are millions of cracks, you can' \*\*t see a pit that clearly [*the Game Master determines that the pit is well camouflaged and Tups has poor lighting to see well*]
 
 *Tups*: Ok, I take my water flask from my backpack. I' \*\*m going to pour some water on the floor. Does it seem to seep into the floor at any point or reveal some pattern?
 
@@ -612,14 +612,14 @@ Do you proceed down the corridor?
 
 *Tups*: can I disable it?
 
-*Narrator*: how? [*The Narrator deliberately doesn' \*\*t allow a check, but engages the player*]
+*Narrator*: how? [*The Game Master deliberately doesn' \*\*t allow a check, but engages the player*]
 
-*Tups*: I wedge my crowbar in so the mechanism doesn' \*\*t open the trapdoor [*Tups doesn' \*\*t ask to roll a die to figure out how to disarm it or disarm it directly, he explains to the Narrator how he does it and that' \*\*s it*]
+*Tups*: I wedge my crowbar in so the mechanism doesn' \*\*t open the trapdoor [*Tups doesn' \*\*t ask to roll a die to figure out how to disarm it or disarm it directly, he explains to the Game Master how he does it and that' \*\*s it*]
 
 *Narrator*: you now cross the area safely and see that it opens onto a small room with two reinforced wooden doors... }
 
 Freely inspired by https://friendorfoe.com/d/Old
 
->>> **Obvius traps**: A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player' \*\*s ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they' \*\*ll remember to retrieve that crowbar...!
+>>> **Obvious traps**: A visible/obvious trap forces players to interact with it, to work hard to understand how it works and be ingenious to avoid or disable it. Whenever possible, avoid resolutions based solely on die rolls (Search for traps/Disable traps), rather reward the player' \*\*s ingenuity, even if simple but creative, to avoid danger... and maybe sooner or later they' \*\*ll remember to retrieve that crowbar...!
 
 ---

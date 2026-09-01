@@ -20,9 +20,9 @@ Essere Resistenti al Danno significa automaticamente dimezzare il danno ricevuto
 
 La Resistenza al Danno può assumere anche dei valori. Quando viene scritto Resistenza al Danno: Elettricità, il soggetto dimezza automaticamente i danni da elettricità, se scritto Resistenza al Danno: Elettricità 10, significa che riduce il danno da elettricità di 10 punti prima di applicare il Tiro Salvezza o altri bonus.
 
-Un creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che riceve dalla fiamme, magiche o meno se non specificato diversamente.
+Una creatura con una Resistenza al Fuoco dimezza (riduce) tutto il danno che riceve dalle fiamme, magiche o meno se non specificato diversamente.
 
-Possono esistere Abilità o incantesimi che ignorano questa Resistenza. più resistenze uguali non si sommano, per il fatto che due oggetti mi danno resistenza al fuoco non riduco ad un quarto il danno, se ne applica solo una.
+Possono esistere Abilità o incantesimi che ignorano questa Resistenza. Più resistenze uguali non si sommano, per il fatto che due oggetti mi danno resistenza al fuoco non riduco ad un quarto il danno, se ne applica solo una.
 Se una capacità ignora la resistenza al danno passerà la resistenza anche se ho due o più fonti di resistenza.
 
 ## Riduzione del Danno - DR
@@ -49,11 +49,11 @@ La Resistenza alla Magia non può essere abbassata neanche dalla creatura che la
 
 ## Immunita' al danno
 
-È estremamente raro ma ci sono creature o effetti magici che rendono immune ad una forma di danno, possa essere fisica (danno da arma..) o magica (le varie forme di energia).
+È estremamente raro ma ci sono creature o effetti magici che rendono immune ad una forma di danno, sia essa fisica (danno da arma..) o magica (le varie forme di energia).
 
 Una creatura immune ad una forma di danno non subisce danno da quell'attacco. Una creatura che ha invece la capacità di avere i propri danni irresistibili, ovvero che non possono essere ridotti da resistenza, penetrerà solo in parte l'immunità della creatura rendendola soltanto resistente a quel danno.
 
-Una creatura che riporta *Immunità al Danno Vuoto, Veleno; armi +2* significa che non subisce danno da Vuoto, da Veleno e che per ferirlo serve un arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte.
+Una creatura che riporta *Immunità al Danno Vuoto, Veleno; armi +2* significa che non subisce danno da Vuoto, da Veleno e che per ferirlo serve un'arma con un bonus magico +3 o superiore, oppure un personaggio che attacchi con armi naturali e sia di livello 12 o superiore oppure che abbia preso la Lista d'Armi Pugno Vuoto almeno 6 volte.
 
 Vedi lo schema delle Equivalenze Armi magiche 
 
@@ -77,6 +77,6 @@ Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Compe
 
 Ci sono diversi metodi per Paralizzare una creatura, sia magici che naturali. Mentre quelli naturali spesso hanno sistemi per liberarsi successivamente, sistemi magici possono prevedere di liberarsi dalla paralisi o meno, magari solo dopo un certo lasso di tempo.
 
-Un personaggio paralizzato non può compiere Azioni o Reazioni ne parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus e perde il bonus alla Difesa dato dalla Destrezza. La creatura è consapevole di ciò che ha intorno, non lascia cadere gli oggetti. La creatura fallisce automaticamente i Tiri Salvezza su Riflessi.
+Un personaggio paralizzato non può compiere Azioni o Reazioni né parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus e perde il bonus alla Difesa dato dalla Destrezza. La creatura è consapevole di ciò che ha intorno, non lascia cadere gli oggetti. La creatura fallisce automaticamente i Tiri Salvezza su Riflessi.
 
 ---

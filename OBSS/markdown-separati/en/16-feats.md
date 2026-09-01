@@ -51,7 +51,7 @@ Your natural healing processes are extremely efficient. The abilities stack.
 
 The **first time** you take this Feat, after a night' \*\*s rest you recover 1d6 additional Hit Points.
 
-The **second time**, requirement Constitution 1, that you take this Feat, at the end of each of your rounds you reduce the Bleeding condition by 1.
+The **second time** you take this Feat, requirement Constitution 1, at the end of each of your rounds you reduce the Bleeding condition by 1.
 
 The **third time**, requirement Constitution 2, you take this Feat, after a night' \*\*s rest you recover double the Hit Points.
 
@@ -185,7 +185,7 @@ The **fourth time** you take this Feat, single Trait 12 requirement, Magic Check
 
 Constant training in spirit and body allows you to harden your skin and make it more difficult to wound. To benefit from these bonuses, you must not wear armor or shields or items that improve Defense. The listed capabilities do not stack with the Silver Crane Feat.
 
-The **first time** you take this Feat, your Defense is 10 + Constitution + 1/3 of points in Empty Fist + various and possible.
+The **first time** you take this Feat, your Defense is 10 + Constitution + 1/3 of points in Empty Fist + any other modifiers.
 
 The **second time** you take this Feat, requirement Empty Fist 5, you acquire damage reduction (DR) of 1/-
 
@@ -217,7 +217,7 @@ The bow/crossbow must already be in hand.
 | **Sav. Throws**: | +1 Fortitude, +2 Will |
 | **Ability Score**: | Ability modifier for spells or choice |
 
-When you cast a spell that has instantaneous duration and causes damage to Hit Points to one or more subjects, by increasing the Magic Points used in the spell by half (rounded up), you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
+When you cast a spell that has instantaneous duration and causes Hit Point damage to one or more subjects, by increasing the Magic Points used in the spell by half (rounded up), you recover an amount of Hit Points equal to half of what the creature that lost the most has lost.
 
 The casting time of the spell increases to 3 Actions.
 
@@ -231,9 +231,9 @@ The casting time of the spell increases to 3 Actions.
 
 The **first time** you take this Feat, when using Graceful Weapons, you can replace only the damage given by Strength in melee attacks with half the value of Charisma or Dexterity.
 
-The **second time**, requirement Graceful Weapons 4, Entertain 3, you take this Feat, you can use Charisma as a damage modifier for the weapon, ignoring the damage given by Strength.
+The **second time** you take this Feat, requirement Graceful Weapons 4, Entertain 3, you can use Charisma as a damage modifier for the weapon, ignoring the damage given by Strength.
 
-The **third time**, requirement Graceful Weapons 7, Entertain 5, you take this Feat, you can use Dexterity or Charisma as a damage modifier for the weapon, ignoring the damage given by Strength.
+The **third time** you take this Feat, requirement Graceful Weapons 7, Entertain 5, you can use Dexterity or Charisma as a damage modifier for the weapon, ignoring the damage given by Strength.
 
 The second and third advantages are not cumulative.
 
@@ -299,7 +299,7 @@ You are more than competent in brewing potions.
 
 The **first time** you take this Feat, you gain a bonus of +1d6 on Herbalism Knowledge, distilling, creating potions, and natural poisons.
 
-The **second time** you take this Feat, the time to prepare potions/poisons is halved and in case of Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
+The **second time** you take this Feat, the time to prepare potions/poisons is halved and on a Critical Failure, you are not exposed to the product. By dedicating one hour per day, you can create a generic Healing Potion or a Weakening one with the herbs you find around. This potion *expires* at dawn the day after creation.
 
 ## Cautious Caster
 
@@ -322,7 +322,7 @@ This Feat does not affect the fact that you are still Distracted in casting a su
 | **Ability Score**: | Wisdom or Constitution |
 
 You are able to use the energy of Laying on Hands to create an energy aura around you.
-Through Laying on Hands, you create an instantaneous aura within a radius of 3 meters around you that heals or harms 5 Hit Points to all creatures present for every 2 uses consumed.
+Through Laying on Hands, you create an instantaneous aura within a radius of 3 meters around you that heals or harms all creatures present by 5 Hit Points for every 2 uses consumed.
 
 Each time you take this Feat, beyond the first, you increase the radius by 1 meter and can exclude one creature from the effect of the aura.
 
@@ -356,7 +356,7 @@ The **third time** you take this Feat, you increase the die size for rolling Hit
 
 The bonuses are cumulative and retroactive to previous levels, except for the increase in the die for determining HP.
 
-The **fourth time**, requirement Constitution 3, you take this Feat, you increase by one size (S > M > L).
+The **fourth time** you take this Feat, requirement Constitution 3, you increase by one size (S > M > L).
 
 ## Combat Caster
 
@@ -368,9 +368,9 @@ The **fourth time**, requirement Constitution 3, you take this Feat, you increas
 
 The **first time** you take this Feat, when you are Distracted you can ignore one die in the Magic Check.
 
-The **second time**, requirement Magic Proficiency 6, that you take this Feat, when you are Distracted, you can ignore an additional die in the Magic Check.
+The **second time** you take this Feat, requirement Magic Proficiency 6, when you are Distracted, you can ignore an additional die in the Magic Check.
 
-The **third time**, requirement Magic Proficiency 12, that you take this Feat, when you are Distracted, you can ignore an additional die in the Magic Check.
+The **third time** you take this Feat, requirement Magic Proficiency 12, when you are Distracted, you can ignore an additional die in the Magic Check.
 
 This Feat can be used in the Magic Check required by Warrior of Magic. The indicated capabilities are cumulative.
 
@@ -384,7 +384,7 @@ This Feat can be used in the Magic Check required by Warrior of Magic. The indic
 
 Your experience in managing allies allows you to maximize the effectiveness of attacks.
 
-The **first time** you take this Feat, you can coordinate the attacks of two of your allies, who are within melee distance of each other, so that the damage caused by one hits the enemy of the other and vice versa. It costs 2 Actions to execute this coordination.
+The **first time** you take this Feat, you can coordinate the attacks of two allies who are within melee distance of each other, so that the damage dealt to one enemy also affects the other enemy, and vice versa. It costs 2 Actions to execute this coordination.
 
 The **second time** you take this Feat, requirement Weapon Proficiency 8, Intelligence 2, you can coordinate and exchange the damage of three allies as long as they are within melee distance of each other. Cost 2 Actions.
 
@@ -581,7 +581,7 @@ When you make a Magic Check and achieve at least one Critical Magic Success, the
 
 The **first time** you take this Feat, if you can see it, you also know if it' \*\*s magical. It costs one Action to activate magical sight and lasts one round.
 
-The **second time**, requirement Magic Proficiency 1, that you take the Feat, activating magical sight costs a Reaction.
+The **second time** you take the Feat, requirement Magic Proficiency 1, activating magical sight costs a Reaction.
 
 ## Faithful
 
@@ -608,7 +608,7 @@ This Feat does not stack with the Magic Battery Feat.
 Your step is naturally quick.
 If you have movement 6m, you step at movement 7m; if you have movement 9m, you step at movement 10m.
 
-Each additional **two times** you take the Feat, your movement increases by 1 meter per Movement Action, up to a maximum of +3 meters per round.
+For every additional **two times** you take the Feat, your movement increases by 1 meter per Movement Action, up to a maximum of +3 meters per round.
 
 ## Feign Death
 
@@ -708,7 +708,7 @@ You can decide to activate this Feat round by round. It costs 1 Immediate Action
 | **Sav. Throws**: | +1 Fortitude, +1 Will |
 | **Ability Score**: | Constitution or Wisdom |
 
-You are particularly stubborn about not wanting to die. The character increases by 3 Hit Points the tolerance before dying, meaning they die at 13+CON*2.
+You are particularly stubborn about not wanting to die. The character increases the tolerance before dying by 3 Hit Points, meaning they die at 13+CON*2.
 
 ## Hawk Eye
 
@@ -768,9 +768,9 @@ If you hit an opponent 3 times within 2 rounds, they must make a Fortitude Savin
 
 The **first time** you take this Feat, you take a step of one meter, attack once, and return to where you were, all in less than the blink of an eye.
 
-The **second time**, requirement WP 6, that you take this Feat, you can move 2 meters before attacking and return to where you were.
+The **second time** you take this Feat, requirement WP 6, you can move 2 meters before attacking and return to where you were.
 
-The **third time**, requirement WP 12, that you take this Feat, you can move your full movement before attacking and return to where you were, treating the terrain as difficult.
+The **third time** you take this Feat, requirement WP 12, you can move your full movement before attacking and return to where you were, treating the terrain as difficult.
 
 Consumes two Actions.
 
@@ -857,7 +857,7 @@ The abilities are not cumulative; you must choose which to apply round by round.
 | **Sav. Throws**: | +2 Will, +1 Fortitude |
 | **Ability Score**: | Charisma or Wisdom |
 
-Through your performance - singing, dancing, oratory, or artistic in general - you are able to inspire courage in companions who can hear or see you, within a radius of 6 meters.
+Through your performance - singing, dancing, oratory, or art in general - you are able to inspire courage in companions who can hear or see you, within a radius of 6 meters.
 
 The **first time** you take this Feat, your companions have a bonus of +1 to Attack Roll and Damage in combat.
 
@@ -913,7 +913,7 @@ You have an instinctive ability to remember and evaluate an enemy. When you take
 
 Your unarmed combat technique is extremely precise and powerful.
 
-The **first time** you take this Feat, the damage caused by your blows and the Attack Roll increases by 1.
+The **first time** you take this Feat, the damage caused by your blows and the Attack Roll increase by 1.
 
 The **second time** you take this Feat, requirement Empty Fist 6. Damage increases by +2, Attack Roll +1.
 
@@ -963,11 +963,11 @@ You can throw a second dagger as an Immediate Action following an Attack action 
 | **Sav. Throws**: | +2 Will, +1 Fortitude |
 | **Ability Score**: | Charisma or Wisdom |
 
-If your Traits are in common with a positive Patron, you can channel healing energy (healing/damaging effect on undead), if they are in common with a neutral or evil Patron, you can channel negative energy (damaging/healing effect on undead).
+If your Traits are in common with a positive Patron, you can channel healing energy (healing/damaging effect on undead); if they are in common with a neutral or evil Patron, you can channel negative energy (damaging/healing effect on undead).
 
 Usable a number of times per day equal to (sum of Traits in common with the Patron)/2.
 
-The **first time** you take this Feat, through laying on hands you can heal/harm 5 Hit Points to a creature. You can apply multiple uses with a single touch.
+The **first time** you take this Feat, through laying on hands you can heal/harm a creature by 5 Hit Points. You can apply multiple uses with a single touch.
 
 Taking the Feat multiple times allows you to remove specific conditions afflicting the creature by consuming more uses.
 
@@ -1023,7 +1023,7 @@ The **second time** you take this Feat, requirement Magic Proficiency 12, you ca
 | **Sav. Throws**: | +1 Fortitude, +1 Reflex |
 | **Ability Score**: | Charisma or Dexterity |
 
-Once per day, you can make the Narrator reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
+Once per day, you can make the Game Master reroll 1d6 of a check (Attack Rolls, Skill Checks, Saving Throws) and take the lower value between the two rolls.
 
 This Feat can be declared even after the dice have been rolled.
 
@@ -1065,7 +1065,7 @@ This Feat can be taken multiple times, and the total must be equal to or less th
 | **Sav. Throws**: | +2 Will, +1 Fortitude |
 | **Ability Score**: | Ability modifier for spells or choice |
 
-While you are affected by one of your spells, using an Action your weapon gains a +1 to hit and damage and is considered a magic weapon until the end of the round.
+While you are affected by one of your spells, using an Action you can make your weapon gain a +1 to hit and damage and is considered a magic weapon until the end of the round.
 
 ## Mental Wall
 
@@ -1199,7 +1199,7 @@ The **second time**, the bonus to Attack Roll for Spells becomes +1 for each tim
 | **Sav. Throws**: | +1 in two Saving Throws of your choice |
 | **Ability Score**: | Ability modifier for spells or choice |
 
-Your modifier spell score has a +1 to the value for determining spell effects, Magic Points, know spell, and maximum level of castable spell.
+Your modifier spell score has a +1 to the value for determining spell effects, Magic Points, known spells, and maximum level of castable spell.
 
 ## One with the Bow
 
@@ -1227,11 +1227,11 @@ The **first time** you take this Feat, choose a Magic List and two Cantrips from
 
 Subsequent times you take this Feat, you can identify a Patron who has the Magic List you previously identified in their Privileged Lists.
 
-The **second time** you take this Feat, identify two more Cantrips, or if you are a Follower or Devotee, choose a first-level spell from the Patron' \*\*s Privileged List. Requirement common Trait with score 3.
+The **second time** you take this Feat, identify two more Cantrips, or, if you are a Follower or Devotee, choose a first-level spell from the Patron' \*\*s Privileged List. Requirement: a common Trait with a score of 3.
 
-The **third time** you take this Feat, identify two more Cantrips, or if you are a Devotee, choose a second-level or lower spell from the Patron' \*\*s Privileged List. Requirement common Trait with score 5.
+The **third time** you take this Feat, identify two more Cantrips, or, if you are a Devotee, choose a second-level or lower spell from the Patron' \*\*s Privileged List. Requirement: a common Trait with a score of 5.
 
-The **fourth time** you take this Feat, identify two more Cantrips, or if you are a Devotee, choose a third-level or lower spell from the Patron' \*\*s Privileged List. Requirement common Trait with score 9.
+The **fourth time** you take this Feat, identify two more Cantrips, or, if you are a Devotee, choose a third-level or lower spell from the Patron' \*\*s Privileged List. Requirement: a common Trait with a score of 9.
 
 Feats 2, 3, 4 can be taken multiple times. First-level and higher spells are cast by paying Magic Points, otherwise they can only be cast once per day.
 
@@ -1279,7 +1279,7 @@ Using the Parry Feat must be declared in your round and remains active until the
 | **Sav. Throws**: | +1 Reflex, +1 Will |
 | **Ability Score**: | Wisdom or Intelligence |
 
-Your Awareness and attention to detail is above average.
+Your Awareness and attention to detail are above average.
 
 Take a +1 bonus to Awareness checks. This Feat can be taken a maximum of 3 times.
 
@@ -1331,11 +1331,11 @@ The **third time** you take this Feat, requirement Empty Fist List 12, Silver Cr
 | **Sav. Throws**: | +2 Fortitude, +1 Will |
 | **Ability Score**: | Constitution or Wisdom |
 
-The **first time** you take this Feat, the body gets used to poisons, the character gains a +2 Saving Throw against poisons.
+The **first time** you take this Feat, the body gets used to poisons; the character gains a +2 bonus to Saving Throws against poisons.
 
 The **second time** you take the Feat, you become immune to natural poisons. You can no longer get drunk normally.
 
-The **third time** you have a +1d6 to Saving Throws against magical poisons and to endure the effects of toxic fumes (but you can still suffocate).
+The **third time** you take this Feat, you have a +1d6 to Saving Throws against magical poisons and to endure the effects of toxic fumes (but you can still suffocate).
 
 ## Polyglot
 
@@ -1412,7 +1412,7 @@ The bonus attack uses the same modifiers as the last Attack Action and is direct
 
 If you eliminate this second creature, you cannot make further attacks.
 
-The **second time**, requirements Press On, Weapon Proficiency 6, if with the bonus attack of Press On you eliminate an opponent, you can make an additional bonus attack action, using the same modifiers as the last Attack Action. If you eliminate this creature, you can Press On, moving a maximum of 1 meter, to attack the next creature.
+The **second time** you take this Feat, requirements Press On, Weapon Proficiency 6, if with the bonus attack of Press On you eliminate an opponent, you can make an additional bonus attack action, using the same modifiers as the last Attack Action. If you eliminate this creature, you can Press On, moving a maximum of 1 meter, to attack the next creature.
 
 Each bonus attack beyond the first suffers a cumulative penalty: -2 to hit and -1 to damage.
 
@@ -1470,7 +1470,7 @@ The **first time** you take this Feat, you concentrate your Chi in your hands. Y
 
 With a successful Touch Attack, in the round, you discharge the energy that causes 1d6 force damage per Chi point used, up to a maximum of Chi points equal to your Wisdom score.
 
-The strike is considered as delivered by a magic weapon with a bonus equal to the Chi points used.
+The strike is considered as if delivered by a magic weapon with a bonus equal to the Chi points used.
 
 The **second time** you take this Feat, requirement Psychic Strike, Wisdom 3, Weapon Proficiency 2, if the Attack Roll hits, you consume one less Chi point.
 
@@ -1843,7 +1843,7 @@ You exchange the initiative outcome between two creatures, at least one of which
 
 If neither of the two targets has acted yet, then the effect of your Feat is activated immediately. If at least one of them has already acted, then your Feat takes effect in the next round.
 
-The effect lasts only one round, then the targets return to their previous initiatives.
+The effect lasts only one round; then the targets return to their previous initiatives.
 
 The **first time** you take this Feat, you can influence a pair of targets that are in melee with each other.
 
@@ -1911,7 +1911,7 @@ The **first time** you take this Feat, constant training with the shield allows 
 
 The **second time** you take this Feat, constant training with the shield allows you to use medium shields reducing the Magic Check penalty by 2.
 
-The **third time** you take this Feat, constant training with the shield allows you to use medium shields without penalty to Magic Checks and reducing it by 2 when using heavy shields.
+The **third time** you take this Feat, constant training with the shield allows you to use medium shields without penalty to Magic Checks and to reduce it by 2 when using heavy shields.
 
 ## This is my Dagger
 
@@ -2059,7 +2059,7 @@ You can use this Feat even after knowing by how much you were hit.
 | **Sav. Throws**: | +1 Fortitude, +1 Will |
 | **Ability Score**: | an ability score of choice |
 
-Once per day, you can transform a 6 rolled by the Narrator (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
+Once per day, you can transform a 6 rolled by the Game Master (Attack Rolls, Skill Checks, Saving Throws) into a 1. This Feat can be declared once you know the roll made.
 
 ## Versatile Litany
 
@@ -2258,7 +2258,7 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 
 ## Feat Grouping by Style
 
-To facilitate the transition for those coming from other role-playing games with classes, the Feats are divided here for the most canonical classes. These are clearly just guidelines; in OBSS, the character can be built as preferred and as the story they live is instructing them.
+To facilitate the transition for those coming from other role-playing games with classes, the Feats are divided here for the most canonical classes. These are clearly just guidelines; in OBSS, the character can be built as preferred and as the story they live instructs them.
 
 | 		**Lv** | **Tank Fighter** |  |  | **Abilities** |
 | --- | --- | --- | --- | --- |

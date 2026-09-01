@@ -9,11 +9,11 @@ Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e 
 I veleni e pozioni possono distinguersi in base all'effetto scatenato.
 Non tutti i veleni sono tossici se ingeriti o inalati.
 
-Per identificare una pozione naturale è necessario una prova di Erboristeria a DC uguale alla rarità della pianta oppure in caso di Veleni la difficoltà è pari al Tiro Salvezza dello stesso. Costa 1 Azione ogni 10 di DC, con Erboristeria a 6 o più costa 1 Azione ogni 15 DC, con 12 punti costa 1 Azione ogni 20 DC. Le pozioni se non descritto diversamente devono essere bevute (ingestione).
+Per identificare una pozione naturale è necessaria una prova di Erboristeria a DC uguale alla rarità della pianta; in caso di Veleni, la difficoltà è pari al Tiro Salvezza dello stesso. Costa 1 Azione ogni 10 di DC; con Erboristeria a 6 o più costa 1 Azione ogni 15 DC, con 12 punti costa 1 Azione ogni 20 DC. Le pozioni, se non descritto diversamente, devono essere bevute (ingestione).
 
-**Contatto**: sono contratti nel momento in cui qualcuno tocca il veleno con la pelle nuda. I veleni a contatto hanno solitamente un tempo di insorgenza di 1 round. Un veleno a contatto può essere un unguento, balsamo, liquido di qualsiasi densità o anche polvere se specifica per contatto e non inalazione.
+**Contatto**: si attivano nel momento in cui qualcuno tocca il veleno con la pelle nuda. I veleni a contatto hanno solitamente un tempo di insorgenza di 1 round. Un veleno a contatto può essere un unguento, un balsamo, un liquido di qualsiasi densità o anche una polvere, se specifica per il contatto e non per l'inalazione.
 
-**Ingestione**: si attivano quando una creatura le mangia o le beve. I veleni ad ingestione hanno solitamente un tempo di insorgenza di 10 minuti.
+**Ingestione**: si attivano quando una creatura li mangia o li beve. I veleni a ingestione hanno solitamente un tempo di insorgenza di 10 minuti.
 
 **Ferimento**: vengono trasferiti soprattutto con gli attacchi di alcune creature e tramite armi cosparse di veleno. I veleni a ferimento hanno solitamente un tempo di insorgenza istantaneo.
 
@@ -22,7 +22,7 @@ Vedi regole per trattenere il fiato e soffocare in Ambiente .
 
 ## Insorgenza ed Effetto
 
-Per insorgenza si intende quanto tempo ci mette il veleno o pozione a fare effetto. Se il tempo di insorgenza è 1 Turno significa che per gli effetti del veleno/pozione ed il Tiro Salvezza si aspetta 10 minuti. Se nella tabella del veleno/pozione insorgenza non è specificata significa che l'effetto è immediato dopo l'entrata in contatto con il veleno.
+Per insorgenza si intende quanto tempo ci mette il veleno o la pozione a fare effetto. Se il tempo di insorgenza è 1 Turno significa che per gli effetti del veleno/pozione ed il Tiro Salvezza si aspetta 10 minuti. Se nella tabella del veleno/pozione insorgenza non è specificata significa che l'effetto è immediato dopo l'entrata in contatto con il veleno.
 
 L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la descrizione del veleno per capirne l'effetto. Se il Tiro Salvezza su Tempra riesce il veleno non ha fatto effetto e si può ritenere neutralizzato.
 
@@ -42,7 +42,7 @@ Se il personaggio **dedica 1 minuto** a bere una Pozione di Cura o Naturale ques
 
 **Fallimento**: Siete stati avvelenati e si subisce subito l'effetto indicato.
 
-**più dosi**: Se si vieni esposti a più dosi dello stesso veleno prima dell'insorgenza la difficoltà del Tiro Salvezza aumenta di 1 per dose aggiuntiva.
+**più dosi**: Se si viene esposti a più dosi dello stesso veleno prima dell'insorgenza la difficoltà del Tiro Salvezza aumenta di 1 per dose aggiuntiva.
 
 **In tempi diversi**: se si viene esposti al veleno in tempi diversi dopo la prima insorgenza, ogni volta ci sarà un nuovo Tiro Salvezza e si subiranno gli eventuali effetti previsti, se invece l'esposizione avviene prima dell'insorgenza allora il Tiro Salvezza è unico e si conta come *più Dosi*.
 
@@ -58,7 +58,7 @@ Ogni volta che un personaggio applica o prepara un veleno per l'uso deve effettu
 
 Ogni volta che un personaggio attacca con un'arma avvelenata, se esegue un Fallimento Critico con il Tiro per Colpire esegue un nuovo Tiro per Colpire e se si *colpisce* allora si espone agli effetti del veleno. Ciò consuma il veleno sull'arma.
 
-Un pozione di veleno è sufficiente per coprire di veleno un arma media oppure 3 frecce. Il veleno viene così consumato e rimane attivo sull'arma finché questa non colpisce.
+Una pozione di veleno è sufficiente per coprire di veleno un'arma media oppure 3 frecce. Il veleno viene così consumato e rimane attivo sull'arma finché questa non colpisce.
 
 Una creatura sotto gli effetti di un veleno, anche se non manifestato, ha la condizione di Avvelenato.
 
@@ -79,7 +79,7 @@ Un trattamento continuativo di Pronto Soccorso per 8 ore permette di effettuare 
 
 ## Creare Veleni e Pozioni Naturali
 
-Pozioni e veleni naturali possono essere realizzati usando Erboristeria. La DC per preparare le pozioni è uguale alla rarità per e per i velini è pari al Tiro Salvezza -2.
+Pozioni e veleni naturali possono essere realizzati usando Erboristeria. La DC per preparare le pozioni è uguale alla rarità; per i veleni è pari al Tiro Salvezza -2.
 
 Un Erborista può preparare contemporaneamente fino al suo valore in (Erboristeria/2)+1 di dosi di pozioni naturali o veleni in 8 ore di lavoro.
 
@@ -91,7 +91,7 @@ Una Pozione che ***Rimuove*** una condizione è efficace se la sua DC è superio
 
 Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i costi sono espressi in Monete d'Oro. I Veleni sono presentati, specialmente nel Mostruario con questa dizione: Nome Veleno, Uso (I/R/F/C), tempo Insorgenza, DC del Tiro Salvezza, Effetto.
 
->>> **Anche Veleni**: I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Quando volete usare un veleno pensate innanzitutto perché si trova li, per chi doveva essere usato, per quale scopo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
+>>> **Anche Veleni**: I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
 
 ## Come trovare le pianticine...
 
@@ -153,7 +153,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 | Corteccia di Aklent | I | 1 T | 10 | La corteccia masticata per almeno 10 round concede per le 24 ore successive un +1 Tiro Salvezza vs Veleno | 13 | 1 |
 | Lievito Muschio Bianco | I | 1 T | 12 | I prodotti da forno che usano questo lievito causano meteorismo incontrollabile ed incredibilmente puzzolente per 12 ore | 14 | 1 |
 | Harfindar | I | 1 T | 15 | Fa abortire | 14 | 3 |
-| Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alla prove di Furtività | 15 | 8 |
+| Gusperboon | C | 1 r | 20 | La pelle diventa camaleontica concedendo un +1d6 alle prove di Furtività | 15 | 8 |
 | Bacche di Ljust | I | 1 r | 16 | Preso la sera recuperi il doppio dei PF, minimo 4 | 15 | 10 |
 | Mirenna | I | 1 r | 20 | Cura 5 Punti Ferita | 16 | 30 |
 | Klynkyx | C | 1 ora | 15 | Fa cadere tutti i capelli per 1d6+4 gg | 16 | 4 |
@@ -180,7 +180,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 | Gylvert | I | 1 T | 25 | Concede respirare sott'acqua per 4 ore | 27 | 3 |
 | Callynthine | C | 1 ora | 24 | Rinsalda le fratture, cura 2d8+8 PF | 28 | 200 |
 | Gelfnus | I | 5 r | 28 | Cura 3d8+3 Punti Ferita, rende Affaticato | 28 | 150 |
-| Polline di Rosa Verde | R | 3 T | 25 | Recuperi 2d4 danni Intelligenza e Saggezza | 29 | 350 |
+| Polline di Rosa Verde | R | 3 T | 25 | Recuperi 2d4 danni a Intelligenza e Saggezza | 29 | 350 |
 | Muschio argentato | I | I | 25 | Rimuove Malattie magiche | 30 | 250 |
 | Nazamuse | I | I | 30 | Rimuove Veleni e Malattie naturali | 32 | 175 |
 | Bacio di Ljust | C | 1 r | 35 | Cura 100 Punti Ferita | 34 | 500 |
@@ -208,7 +208,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Corteccia Dagmather**: Piccolo arbusto sempre verde.
 
-**Corteccia di Aklent**: chiamato anche *Cespuglio Puzzola* per il suo pungente e caratteristico odore.
+**Corteccia di Aklent**: chiamata anche *Cespuglio Puzzola* per il suo pungente e caratteristico odore.
 
 **Culcoa**: Un unguento rosso lucente usato principalmente per curare le ustioni da fuoco.
 
@@ -248,13 +248,13 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Kelventare**: Uno sciroppo puro estratto dalla linfa dell’Albero della Vita.
 
-**Klagul**: Una pasta abrasiva di antica ricette goblin. Usata come dentifricio in molte tribù selvagge.
+**Klagul**: Una pasta abrasiva di antiche ricette goblin. Usata come dentifricio in molte tribù selvagge.
 
 **Klandor**: Polvere piccante e salata.
 
 **Klynkyx**: un intruglio di miele e sterco di toporagno viola.
 
-**Lingua Rossa di Xabax**: è il petalo lungo della Xabax. Dei 7 petali solo quello lungo ha i sostanze necessarie a preparare l'unguento.
+**Lingua Rossa di Xabax**: è il petalo lungo della Xabax. Dei 7 petali solo quello lungo ha le sostanze necessarie a preparare l'unguento.
 
 **Melandrir**: Prodotto con una rara orchidea
 
@@ -286,7 +286,7 @@ I punti caratteristica persi si recuperano al ritmo di 1 al giorno se non perman
 
 **Veleno di Ottalm**: l'Ottalm è una variante di Toporagno viola dotato di un pungiglione velenoso.
 
-**Wickalim**: Usato spesso per piccole ferite, lasciano un sapore salato in bocca.
+**Wickalim**: Usato spesso per piccole ferite, lascia un sapore salato in bocca.
 
 **Yajeth**: Estratto trito del fiore.
 
@@ -361,9 +361,9 @@ Si effettua una prova di contrasto  tra l'incantesimo Rimuovi Malattie e la DC d
 
 Se la DC della malattia non è espressa allora si considera che sia sufficiente il semplice lancio dell'incantesimo per annullarne gli effetti.
 
-Una prova di **Pronto Soccorso**, 10 minuti, con DC pari almeno alla metà della DC della malattia (o 15 se non indicata), effettuata tra un Tiro Salvezza e successivo, permette di avere un +2 al Tiro Salvezza per resistere agli effetti della malattia. Un trattamento per una intera notte concede +1d6 al Tiro Salvezza successivo.
+Una prova di **Pronto Soccorso**, 10 minuti, con DC pari almeno alla metà della DC della malattia (o 15 se non indicata), effettuata tra un Tiro Salvezza e il successivo, permette di avere un +2 al Tiro Salvezza per resistere agli effetti della malattia. Un trattamento per una intera notte concede +1d6 al Tiro Salvezza successivo.
 
-Essere colpiti più volte dalla stessa malattia non ne aumenta la difficoltà di guarigione ne cambia i tempi ed effetti della stessa.
+Essere colpiti più volte dalla stessa malattia non ne aumenta la difficoltà di guarigione, né cambia i tempi ed effetti della stessa.
 
 Esempi di Malattie:
 

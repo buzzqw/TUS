@@ -8,7 +8,7 @@ The **DC**, based on the indicated skill, to create an item is 15 +2*Spell level
 
 Knowing the spell (or having it available through a Scroll) that is applied to the item is a requirement for every magic item created. The work days indicated cannot be divided into less than 6 hours per day dedicated to creation.
 
->>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Narrator, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
+>>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Game Master, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
 
 ### Modifiers to the cost of magic items
 
@@ -99,7 +99,7 @@ To create a staff, a character needs a supply of materials, the most obvious of 
 
 Staves are always fully charged, 10 charges, at the time of creation.
 
-A Staff can contain a maximum spell level of 8, or in case of different spells the maximum level is 6.
+A Staff can contain a maximum spell level of 8, or if using different spells the maximum level is 6.
 
 Creating a staff requires 1 day for every 500 gp of the base price.
 
@@ -119,16 +119,16 @@ If a scroll includes multiple spells, the cost is equal to the sum of the variou
 
 The spellcaster must know the spells they insert into the scroll. To prepare a scroll, 30 minutes of work per spell level present is required.
 
-An ISY scroll can contain spells of level 3 at maximum, while a normal scroll can contain a maximum spell level of 9, in case of multiple spells the maximum level is 8.
+An ISY scroll can contain spells of level 3 at maximum, while a normal scroll can contain a maximum spell level of 9, if using multiple spells the maximum level is 8.
 
 To read a scroll, it is necessary:
 
-**in case of ISY SCROLLS**:
+**for ISY SCROLLS**:
 
 - to understand the content, an Intelligence (or Arcana if known) check at difficulty DC 10 is sufficient
 - to be able to read and cast the spell of the scroll, an Intelligence (or Arcana if known) check at difficulty 12 is required.
 
-**in case of normal scrolls**:
+**for normal scrolls**:
 
 - to understand the content, an Arcana check at difficulty 15 is required
 - to be able to read and cast the spell of the scroll, an Arcana check at difficulty 11+Spell Level is required and the spell must have a level equal to the maximum castable +2
@@ -149,7 +149,7 @@ The production cost of the Potion is equal to level*level*40; a Potion with Invi
 
 To create a potion, a character needs a horizontal work surface and some containers to mix liquids along with a heat source to boil the infusion.
 
-A Potion can normally contain a maximum spell level of 3. At the Narrator' \*\*s discretion, potions of higher level might be possible at the price of level*level*level*20 gp.
+A Potion can normally contain a maximum spell level of 3. At the Game Master' \*\*s discretion, potions of higher level might be possible at the price of level*level*level*20 gp.
 
 All ingredients and materials for preparing a potion must be fresh and never used.
 
@@ -159,7 +159,7 @@ The spellcaster must know the spell that is inserted into the potion. The prepar
 
 ## Creating Rods
 
-A rod is a special wand that is capable of regenerating its own charges. They are precious and very expensive objects.
+A rod is a special wand that is capable of regenerating its own charges. Rods are precious and very expensive objects.
 
 To create a rod, a character needs a supply of materials, the most obvious of which is a rod or rod parts to assemble.
 

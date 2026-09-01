@@ -4,15 +4,15 @@
 
 It is not the strongest of the species that survives, nor the most intelligent; it is the one most adaptable to change. (Leon C. Megginson)
 
-Earth is a multifaceted world rich in diversity, cultural, natural, and of creatures.
-It is the creatures that make the planet vital and rich, each one nourishes, contributes, enriches the knowledge of all others.
+Earth is a multifaceted world rich in cultural and natural diversity, teeming with creatures.
+It is the creatures that make the planet vital and rich, each one nourishes, contributes to, and enriches the knowledge of all others.
 
 ## Humans
 
-Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until the coming.
+Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until their coming.
 And humans became the species to hunt and kill, the dictate received from the first Patrons was clear and absolute, exterminate the humans who had killed the firstborn.
 
-It is impossible to know how many humans have survived in the world, very approximate calculations count them under 500 million.
+It is impossible to know how many humans have survived in the world, rough estimates place their number at under 500 million.
 
 **Racial modifiers**: +1 to one ability score of your choice
 
@@ -55,7 +55,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 Dwarves are a stoic and severe race accustomed to the purest communism, without a true concept of property but of pure commonality of goods according to the idea that every dwarf works for the community and not for himself.
 
-Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sex is free and socialist.
+Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
 
 Dwarves are guided by honor, tradition, and communism. They are often seen as gruff, but have a strong sense of friendship and justice, respecting those who work hard and commit to the community and the group.
 
@@ -81,7 +81,7 @@ Gnomes are beings of small size but rich in energy and life. Gnomes are the race
 
 In a short time, thanks to their innate curiosity, tenacity, and inventiveness, they have managed to create populous and rich cities, almost always within virgin forests.
 
-Gnomes are deeply connected to nature, their relationship is almost symbiotic, a Gnome will never give up the sight of a tree and building with what nature provides.
+Gnomes are deeply connected to nature, their relationship is almost symbiotic, a Gnome will never forgo the sight of trees and always builds with what nature provides.
 
 Gnomes have a deep respect for nature, the environment, and animals; their perfectly functional and modern cities are built and carved into the forest, never destroying it and indeed enriching it.
 
@@ -93,7 +93,7 @@ A gnome forced to stay away from a natural environment suffers from the situatio
 
 Gnomes get along with anyone who loves nature and doesn' \*\*t abuse it.
 
-A dispute that actually matters very little to gnomes is about the shape of their ears. According to elves, gnomes from their world have pointed ears; according to dwarves, the gnomes they knew instead have small, round ears like them. The fact is that gnomes are born randomly with pointed or round ears and have enough common sense to ignore the shape. At least almost all of them..
+A dispute that actually matters very little to gnomes is about the shape of their ears. According to elves, gnomes from their world have pointed ears; according to dwarves, the gnomes they knew instead have small, round ears like them. The fact is that gnomes are born randomly with pointed or round ears and have enough common sense to ignore the shape. At least, almost all of them...
 
 **Racial modifiers**: +1 Intelligence, +1 Charisma, -1 Strength
 
@@ -114,7 +114,7 @@ For an elf, there is nothing more impure than a half-elf. No half-elf is born by
 There are also rare half-elves born from romantic relationships. Although usually of short duration, even by human standards, these secret encounters usually lead to the birth of half-elves, a race that descends from two cultures but is heir to neither. Half-elves can reproduce among themselves, but even these *pure-blooded* half-elves are seen as bastards by elves.
 
 Many elves see in a half-elf the betrayal of the original mission, the destruction of creation.
-Very few see a gesture of love and gift to an increasingly ugly world.
+Very few see it as a gesture of love and a gift to an increasingly ugly world.
 They are usually seen by other creatures as murderers like elves regardless of whether their blood has been touched by Calicante or not.
 
 Half-elves are shorter than humans but taller than elves. They inherit the slender build and attractive features of their elven lineage, but their skin color is normally dictated by their human part. Their eyes tend to be similar to those of humans in shape, but present an exotic range of colors from amber to purple to emerald green and dark blue.
@@ -138,7 +138,7 @@ Half-elves understand loneliness and know that character is often more a product
 In the eyes of civilized cultures, half-orcs are monstrosities, the result of perversion and violence, and rarely are they the result of loving unions; as such, they are usually forced to grow up quickly and harshly, constantly fighting to protect themselves or make a name for themselves. Some half-orcs spend their entire lives proving to pureblooded orcs that they are as fierce as they are.
 
 Half-orcs are on average 1.9 meters tall, with a powerful physique and greenish or gray skin. In males, the canines often grow rather long until they protrude from their mouths, and these *tusks*, combined with a sometimes broad forehead and slightly pointed ears, give them that noted *bestial* appearance.
-Females have much less pronounced orcish traits and are considered wild and *easy* by human males who lack the due respect.
+Females have much less pronounced orcish traits and are considered wild and *easy* by human males who show them no respect.
 
 Despite these obvious orcish traits, half-orcs are as varied as their human parents.
 
@@ -164,7 +164,7 @@ Half-orcs are continuous victims of prejudice.
 
 The Nibali are a race magically created to be slaves to the first Patrons.
 
-Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create by manipulating with magic, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
+Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create through magical manipulation, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
 
 When the first Patrons left, the Nibali continued to prosper, making use of what had already been created in the cold tundra.
 
@@ -194,9 +194,9 @@ Blessed or cursed, the Outcasts are not like us. An Outcast is the result of a c
 
 An Outcast is faithful to their Patron and cannot do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
 
-An Outcast is more robust and more intelligent. Unfortunately, their frenetic life is marked by a short duration. Usually, a human Outcast does not exceed 50 years of life.
+An Outcast is more robust and more intelligent. Unfortunately, they live short, frenetic lives. Usually, a human Outcast does not exceed 50 years.
 
-An Outcast is marked, somewhere on their body is the symbol, a birthmark, of their Patron. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of which they are *children*.
+An Outcast is marked by a symbol of their Patron somewhere on their body, often as a birthmark. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of whom they are *children*.
 
 Outcast is an attribute that can be given to any race. The racial modifiers are replaced with those of the Outcast, and the life expectancy is halved. The original racial advantages remain valid, and the Special advantage of the Outcast is added.
 
@@ -214,11 +214,11 @@ Outcast is an attribute that can be given to any race. The racial modifiers are 
 
 ## Sornelian
 
-The genesis of the Sornelian is due to the Patron Efrem (page ). Efrem decided that nature should have a greater voice in terrestrial matters and established that anthropomorphic animals should exist to rebalance the overwhelming power of other humanoid creatures.
+The Sornelians were created by the Patron Efrem (page ). Efrem decided that nature should have a greater voice in terrestrial matters and established that anthropomorphic animals should exist to rebalance the overwhelming power of other humanoid creatures.
 
 A Sornelian has a head similar to that of an anthropomorphic animal but the body is more similar to a humanoid biped. Depending on the animal, the Sornelian might also have fur, feathers, scales, and claws. The dimensions of a Sornelian depend very much on the original animal, varying from small to medium size. The anthropomorphic aspect of a Sornelian is as varied as the animals they resemble.
 
-A Sornelian almost never is born as the child of two Sornelians but is a spontaneous *mutation* in the womb of a couple of humanoids, such as dwarves, elves, or humans.
+A Sornelian is almost never born as the child of two Sornelians but is a spontaneous *mutation* in the womb of a couple of humanoids, such as dwarves, elves, or humans.
 
 **Racial modifiers**: +1 to an Ability Score of choice
 
@@ -228,7 +228,7 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 
 **Speed**: 6 meters
 
-**Languages**: Common. Gets +1d6 to checks to interact with animals of their bloodline.
+**Languages**: Common. They get +1d6 to checks to interact with animals of their bloodline.
 
 **Advantages**: At creation, the player chooses 2 capabilities from those listed that best characterize their Sornelian. Some example animals are indicated in parentheses.
 
@@ -236,11 +236,11 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 
 - *Runner* (deer, greyhound, saurovallum, velociraptor). Increase your Movement speed by 3 meters. If you choose this capability twice, your Movement becomes 12 meters.
 
-- *Nocturnal creature* (cat, lizard, bat, owl). You have twilight vision 9 meters. If you choose this capability twice, twilight vision reaches up to 18 meters.
+- *Nocturnal creature* (cat, lizard, bat, owl). You have twilight vision up to 9 meters. If you choose this capability twice, twilight vision reaches up to 18 meters.
 
 - *Swimmer* (crocodile, dolphin, frog, shark). You can hold your breath for up to 1 Turn per point of Constitution, minimum 1, you have a swimming speed equal to half your Movement. You have Damage Reduction from cold equal to 4. If you choose this capability twice, you have rudimentary gills that allow you to breathe underwater, and the cold damage reduction becomes 10.
 
-- *Predator* (bear, feline). Your natural attacks (claws, jaws..) cause 1d6 lethal damage and are not improvised weapons. These attacks fall into the Axes and Hatchets Weapon List. If you choose this capability twice, your natural attack causes 1d8 damage.
+- *Predator* (bear, feline). Your natural attacks (claws, jaws...) cause 1d6 lethal damage and are not improvised weapons. These attacks fall into the Axes and Hatchets Weapon List. If you choose this capability twice, your natural attack causes 1d8 damage.
 
 - *Robust* (rhinoceros, hippo, elephant). At each level passage, you roll the d8 instead of d6 to determine Hit Points. If you choose this capability twice, each point of WP assigned increases Hit Points by 5 and not 3.
 
@@ -248,15 +248,15 @@ A Sornelian almost never is born as the child of two Sornelians but is a spontan
 
 - *Excellent Senses (hearing, sight, smell...)* (dog, bat, owl). You have a +2 bonus to Awareness checks based on senses. If you choose this capability twice, the bonus becomes +1d6.
 
-- *Flying* (bat, eagle, owl, raven). You have rudimentary wings. When you fall from at least 3 meters, you can use a Reaction to glide and land safely, like the Feather Fall spell (page ), without suffering fall damage. When you perform a Long Jump or High Jump check, you roll 1d6 more. If you choose this capability twice, you can fly for (MP+WP)/3 minutes, at minimum intervals of 1 minute, per day.
+- *Flying* (bat, eagle, owl, raven). You have rudimentary wings. When you fall from at least 3 meters, you can use a Reaction to glide and land safely, like the Feather Fall spell (page ), without suffering fall damage. When you perform a Long Jump or High Jump check, you roll 1d6 more. If you choose this capability twice, you can fly for (MP+WP)/3 minutes per day, in minimum intervals of 1 minute.
 
 ### Evolving Advantages
 
-The Sornelian character can use a Feat taken when leveling up to take the evolution of the Advantage already taken or, if consistent with the animal, another Advantage.
+When leveling up, a Sornelian character can use a Feat to take the evolution of an Advantage already taken or, if consistent with the animal, another Advantage.
 
 ## Golian
 
-The Golians, like the Sornelians, descend from the will of the Patrons Erondil (page ) and Gaya (page ), that is, from the desire to have creatures that could represent the majestic giants, their little children.
+The Golians, like the Sornelians, descend from the will of the Patrons Erondil (page ) and Gaya (page ), that is, from their desire to have creatures that could represent the majestic giants as their little children.
 
 Golians have physical characteristics that recall the giants of their family lines. Some Golians have gray or almost marbled skin like stone giants, others spray sparks by snapping their fingers like fire giants, and still others have blue skin like sky giants.
 
@@ -317,12 +317,12 @@ The Sulian does not perform Magic Checks nor can they be considered Distracted w
 
 - *Elemental Resistance*: through this power, the Sulian acquires Resistance to the chosen element.
 
->> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Narrator) and describe it, frame it, feel it, and bring it to life as they please.
+>> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Game Master) and describe it, frame it, feel it, and bring it to life as they please.
 
 Do not limit yourselves to the descriptions proposed here; they are meant to be just starting points. Don' \*\*t feel restricted in your choices because the race description says this or that.
 Create the most beautiful and complete characters possible. Each character is alive and is a person, and as such, will always be different from one another, each fantastic in their own way regardless of any race or prejudice.
 
->> **Note on Character Sex**: In case you were so obtuse, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
+>> **Note on Character Sex**: To be clear, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
 
 > Don' \*\*t forget no one else sees the world the way you do, so no one else can tell the stories that you have to tell. (Ursula K. Le Guin)
 

@@ -51,7 +51,7 @@ If an opponent is invisible or their location is unknown, follow the rules for I
 
 Even if you are invisible, that doesn' \*\*t mean you can' \*\*t be perceived differently through other senses, such as smell, hearing, or touch. Invisibility makes a creature undetectable by sight but does not in itself make a creature imperceptible or immune to Critical Hits or Damage Explosions.
 
-A blinded creature, or one fighting against an invisible creature, or fighting in complete darkness without darkvision, can make a Awareness check, 1 Action, at difficulty 20, or 2 Actions at Difficulty 15, to **detect** a creature if it is within 6 meters of them.
+A blinded creature, or one fighting against an invisible creature, or fighting in complete darkness without darkvision, can make an Awareness check, 1 Action, at difficulty 20, or 2 Actions at Difficulty 15, to **detect** a creature if it is within 6 meters of them.
 
 The Awareness check can be made at the same time as the Movement Action to approach the creature at a base difficulty of DC 25.
 

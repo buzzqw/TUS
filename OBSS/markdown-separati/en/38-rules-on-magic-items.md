@@ -2,7 +2,7 @@
 
 These are the guidelines on the use of magic items.
 
-- A character can **wear activated numerous (up to 10) magic items** on themselves.
+- A character can **wear numerous activated (up to 10) magic items** on themselves.
 - To determine the bonus to **Defense** you cannot add more than 2 items (e.g. 1 magic ring and a bracelet). Armor and Shield are not considered in this count.
 - If you have multiple magic items that grant bonuses to the same **Saving Throw**, only the two with the highest bonus apply.
 - If you have multiple magic items that grant bonuses to the same **Ability Score**, then only the highest bonus applies.
@@ -10,7 +10,7 @@ These are the guidelines on the use of magic items.
 - To **identify a magic item** see Identifying a magic item (p. ) and Cursed Items (p. ).
 - A **magic item that manifests spells** does not make any Magic Check. The **Saving Throw** it imposes, if not specified, is equal to 12 + level*2 of the spell it manifests.
 - To **Activate magical abilities** of an item, unless otherwise indicated, costs 2 Actions.
-- A magic item that provides a **static bonus (or penalty)** applies its value even if the item has not been identified; the Narrator will silently apply this bonus to Defense, Attack Roll, Saving Throws... informing the player that they perceive how the item interacts with the situation.
+- A magic item that provides a **static bonus (or penalty)** applies its value even if the item has not been identified; the Game Master will silently apply this bonus to Defense, Attack Roll, Saving Throws... informing the player that they perceive how the item interacts with the situation.
 - A magic item that has daily uses recharges at dawn of the day following use.
 - Wands, Staves, Scrolls (not Isy), Rods can only be used by characters who have a MP score equal to the highest level of spell that can be cast from the item.
 - If you spend the last charge of a wand, roll 1d6; if you get a 1, the wand crumbles to dust and is destroyed
@@ -28,9 +28,9 @@ The magical bonus of a **weapon can be understood** by rolling two criticals on 
 
 A +1 *armor* lowers the Proficiency penalty by 1 and the movement penalty by 1 meter.
 
-+2 *armor* or *shield* reduce the Magic Check penalty due to wear armor by 2.
++2 *armor* or *shield* reduce the Magic Check penalty due to wearing armor by 2.
 
-+3 armor further removes 1 from the Proficiency penalty, reduces the Movement penalty by 1m, and additionally reduce by 2 the penalty for the Magic Check due to armor.
++3 armor further removes 1 from the Proficiency penalty, reduces the Movement penalty by 1m, and additionally reduces by 2 the penalty for the Magic Check due to armor.
 
 **The cost of Weapons and Armor**: larger than Medium is at least double (or quadruple depending on size). Small armor or Small weapons, although requiring less material, cost the same as medium weapons and armor.
 
@@ -80,15 +80,13 @@ Magic items normally reproduce spells or other magical effects. For a Saving Thr
 
 A magic item does not need to make a Saving Throw unless it is unattended, is the specific target of the effect, or its owner rolls a 0 (three 1s) naturally on their Saving Throw.
 
-Magic items always get a Saving Throw against something that might damage them, even when a normal object of the same type would have no chance to make a Saving Throw. Magic items always use the same Saving Throw bonus, regardless of type (Fortitude, Reflex, or Will). The Saving Throw bonus of a magic item is equal to 2 + 2x the level of the most powerful spell it contains (or +6 for each +1 they have). The only exceptions to this rule are intelligent magic items, which make Will Saving Throws based on their Wisdom score.
+Magic items always get a Saving Throw against something that might damage them, even when a normal object of the same type would have no chance to make a Saving Throw. Magic items always use the same Saving Throw bonus, regardless of type (Fortitude, Reflex, or Will). The Saving Throw bonus of a magic item is equal to 2 + 2x the level of the most powerful spell it contains (or +6 for each +1 it has). The only exceptions to this rule are intelligent magic items, which make Will Saving Throws based on their Wisdom score.
 
 ## Repairing Magic Items
 
 To repair a magic item requires materials and time, equal to half the time and cost to create it.
 
 ## Charges, Doses, and Multiple Uses
-
-I' \*\*ll translate the text while preserving all LaTeX commands and formatting:
 
 Many items, particularly wands and staves, have power limited to the number of charges they contain. Normally, items with charges never exceed a maximum of 20 charges (10 for staves). If similar items are found as a random part of a treasure, roll 1d10+10 to determine the remaining charges. If an item has a maximum number of charges different from 20, roll randomly to determine how many charges remain.
 
@@ -117,7 +115,7 @@ To recharge a wand or staff, a spellcaster must infuse the same spell that they 
 
 Magic items are valuable, and most large cities have at least one or two suppliers of magic items, from simple potion vendors to blacksmiths specialized in forging magic swords. Obviously, not every item in this manual is available in every city.
 
-The following guidelines help Narrators determine which items are available in a specific community. They assume a campaign with an average level of magic. Some cities might deviate greatly from this baseline at the Narrator' \*\*s discretion. The Narrator should keep a list of items available from each merchant and should occasionally replenish stocks with new acquisitions.
+The following guidelines help Game Masters determine which items are available in a specific community. They assume a campaign with an average level of magic. Some cities might deviate greatly from this baseline at the Game Master' \*\*s discretion. The Game Master should keep a list of items available from each merchant and should occasionally replenish stocks with new acquisitions.
 
 The number and types of magic items available in a community depend on its size. Each community has a base value associated with it (see Table: Available Magic Items).
 
@@ -125,11 +123,11 @@ There is a 75\% chance that any item of that value or less can be easily found f
 
 After determining the number of items available in each category, consult the Random Generation of Magic Items chapter to determine the type of each item (potion, scroll, ring, weapon, etc.) before moving on to the specific tables to establish the exact item. Reroll each time the items do not fit the base value of the community.
 
-If the use of magic in the campaign is rare, halve the base value and the number of items in each community. In campaigns with extremely rare or no magic, there might not be any magic items for sale at all. Narrators running this type of campaign should provide adjustments to the challenges faced by the characters given the lack of magic items.
+If the use of magic in the campaign is rare, halve the base value and the number of items in each community. In campaigns with extremely rare or no magic, there might not be any magic items for sale at all. Game Masters running this type of campaign should provide adjustments to the challenges faced by the characters given the lack of magic items.
 
 Campaigns with abundant magic items might have communities with twice the established base value and available random magic items. Alternatively, all communities could be considered one size category larger for the purpose of determining available magic items. In a campaign with very common magic, all magic items can be purchased in a metropolis.
 
-Non-magical items and tools are generally available in a community of any size unless the item is very expensive, like full plate armor, or made of an unusual material, like an adamantine longsword. These items should follow the base value guideline to determine their availability, at the Narrator' \*\*s discretion.
+Non-magical items and tools are generally available in a community of any size unless the item is very expensive, like full plate armor, or made of an unusual material, like an adamantine longsword. These items should follow the base value guideline to determine their availability, at the Game Master' \*\*s discretion.
 
 ## Artifacts of the old world
 

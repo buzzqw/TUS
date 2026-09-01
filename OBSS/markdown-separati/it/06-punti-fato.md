@@ -6,7 +6,7 @@ Ogni personaggio ha un numero di Punti Fato pari a (20 - Livello)/5, arrotondato
 Si recupera un Punto Fato ogni volta che si tirano almeno tre 1 in una prova.
 
 Non costa Azioni usare un Punto Fato e può essere usato per:
-- [•] o più, aggiungere 1d6 ad un Tiro Salvezza, Tiro per Colpire, Prova di Competenza. Da dichiarasi prima del tiro dei dadi. Il dado aggiunto può esplodere secondo le Golden Rules.
+- [•] o più, aggiungere 1d6 a un Tiro Salvezza, Tiro per Colpire o Prova di Competenza. Da dichiarare prima del tiro dei dadi. Il dado aggiunto può esplodere secondo le Golden Rules.
 - [••] ritirare 1d6 nelle prove
 - [•] negare un Tiro Critico d'arma subito
 - [••] ritirare completamente una prova

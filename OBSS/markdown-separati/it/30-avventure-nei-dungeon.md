@@ -6,25 +6,25 @@ Il dungeon è inclinato. Le creature sono infuriate perché non riescono a gioca
 
 Di tutti i luoghi strani che un avventuriero può esplorare, nessuno è più letale di un dungeon. Questi labirinti, pieni di trappole mortali, mostri affamati e tesori meravigliosi, provano ogni abilità e capacità dei personaggi. Queste regole si possono applicare a qualsiasi tipo di dungeon, dal relitto di una nave ad un vasto complesso di grotte sotterranee.
 
->>> **Dungeon!!!**: Il dungeon, caverna, catacomba, spelonca, ecosistema sotterraneo... chiamatelo come preferite è un cardine dell'avventura!
+>>> **Dungeon!!!**: Il dungeon, caverna, catacomba, spelonca, ecosistema sotterraneo... chiamatelo come preferite, è un cardine dell'avventura!
 
-| Un dungeon è una ricetta fatta di umidità, fetore, aria stantia, sporcizia, fango, resti di creature, trappole, melme, trappole (abbondate...), mostri, nemici, mostri (abbondare!), oscurità, rumori sinistri, funghi, scricchiolii, guaiti, urla, gemiti.. ma anche di paura, tensione, brivido terrore | raccapriccio, enfasi, rabbia, dolore, delusione e tesori!!! |
+Un dungeon è una ricetta fatta di umidità, fetore, aria stantia, sporcizia, fango, resti di creature, trappole, melme, trappole (abbondate...), mostri, nemici, mostri (abbondare!), oscurità, rumori sinistri, funghi, scricchiolii, guaiti, urla, gemiti.. ma anche di paura, tensione, brividi di terrore e raccapriccio, enfasi, rabbia, dolore, delusione e tesori!!!
 
 Il vostro dungeon non è mai solo una caverna. MAI!
 
-Che siano caverne, antri, cave, grotte, tane, spelonche i *Dungeon* rappresentano spesso il centro focale dell'avventura, dell'esplorazione e sopravvivenza.
+Che siano caverne, antri, cave, grotte, tane, spelonche, i *Dungeon* rappresentano spesso il centro focale dell'avventura, dell'esplorazione e sopravvivenza.
 
 I personaggi passeranno molto tempo in questi ambienti ed il Narratore deve essere preparato e pronto sull'ambiente che incontreranno.
 
 Quando si prepara una caverna è necessario ragionare in maniera intelligente sul tipo di caverna e sulle creature che si andranno ad incontrare, ogni caverna è un complesso ecosistema.
 Mettere un gruppo di lucertoloidi senza pensare a cosa mangiano, dove dormono, che tipo di organizzazione hanno è pericoloso, per non parlare di inserire una chimera.
-Avrà le ali atrofizzate perché la caverna è alta 3 metri e larga 3 e fa fatica a muoversi ? Di cosa si è nutrita in questo periodo ? Piuttosto meglio usare una gorgone che si nutre di minerali...
+Avrà le ali atrofizzate perché la caverna è alta 3 metri e larga 3 e fa fatica a muoversi? Di cosa si è nutrita in questo periodo? Piuttosto meglio usare una gorgone che si nutre di minerali...
 
 Se progettato con attenzione e cura una caverna può diventare un'ottima esperienza di incontri, situazioni ed avventura.
 
 ## Il sottosuolo
 
-Le condizione naturali del sottosuolo dipendono da vari fattori ma ci sono sicuramente dei punti comuni a tutti.
+Le condizioni naturali del sottosuolo dipendono da vari fattori ma ci sono sicuramente dei punti comuni a tutti.
 
 - Nessuna luce per illuminare gli spazi. Possono esserci sporadici funghi fluorescenti, che irradiano luce fioca nelle vicinanze, ma nulla che possa illuminare tutto l'ambiente
 - Ambiente umido
@@ -37,13 +37,13 @@ Oltretutto se strappati dal terreno perdono la bioluminescenza dopo 2d4 Turni.
 
 Le creature che vivono nelle caverne si abituano all'oscurità sviluppando qualche forma di visione alternativa, quale scurovisione, senso tellurico o vista cieca.
 
-Anche la stessa torcia può dare un sollievo limitato dato che il suo raggio di luce è di 3 metri più 3 metri di luce fioca e dura un ora prima di spegnersi.
+Anche la stessa torcia può dare un sollievo limitato dato che il suo raggio di luce è di 3 metri più 3 metri di luce fioca e dura un'ora prima di spegnersi.
 
 Controlla le sezioni su Coperture ed Invisibilità  per maggiori informazioni.
 
 ### Movimento
 
-Se non si hanno mezzi per vedere il terreno si considera difficile e buche, precipizi ed ostacoli vari possono essere molto pericolosi.
+Se non si hanno mezzi per vedere il terreno, si considera difficile e buche, precipizi ed ostacoli vari possono essere molto pericolosi.
 
 In caso di totale buio ed in un ambiente naturale va fatta una prova di Acrobatica a DC 12 ogni Azione di Movimento o inciampare e subire 1 di danno temporaneo.
 
@@ -52,7 +52,7 @@ In caso di totale buio ed in un ambiente naturale va fatta una prova di Acrobati
 Si possono individuare diverse tipologie di caverne:
 
 - **creati dallo scorrere dell'acqua**. In questo caso il tunnel può essere parecchio caotico nel suo dipanarsi a causa del tipo di rocce che l'acqua ha incontrato. Ci possono essere ancora fiumi e laghi sotterranei.
-- **creati dalla erosione**. In questo caso l'acqua probabilmente non c'è più se non in minima parte, le caverne risultanti possono essere anche molto grandi con sale di decine se non centinaia di metri di ampiezza.
+- **creati dall'erosione**. In questo caso l'acqua probabilmente non c'è più se non in minima parte, le caverne risultanti possono essere anche molto grandi con sale di decine se non centinaia di metri di ampiezza.
 - possono essere stati **creati da un vulcano** con lo scorrere della lava. In questo caso il tunnel scavato dalla roccia è spesso lineare e in qualche maniera levigato, la lava una volta rappresa si è poi sbriciolata nei millenni.
 - possono essere **caverne artiche**, scavate nel ghiaccio dall'acqua. In questo caso valutate bene l'ambiente circostante e la temperatura gelida.
 - possono essere **caverne artificiali**, costruite da creature di diverso tipo.
@@ -61,7 +61,7 @@ Si possono individuare diverse tipologie di caverne:
 
 I quattro tipi base di dungeon sono definiti dal loro stato attuale. Molti dungeon sono varianti di questi tipi base o combinazioni di più tipi. Occasionalmente, antichi dungeon vengono usati da nuovi abitanti per scopi diversi.
 
-**Struttura in Rovina**: Un tempo abitato, questo luogo è ora abbandonato (completamente o in parte) dai suoi creatori originari ed è occupato da altre creature. Molte creature sotterranee vanno alla ricerca di costruzioni sotterrane ed abbandonate in cui stabilire le loro tane. Qualsiasi trappola che possa essere esistita è stata probabilmente già rimossa o attivata, è possibile trovare bestie erranti.
+**Struttura in Rovina**: Un tempo abitato, questo luogo è ora abbandonato (completamente o in parte) dai suoi creatori originari ed è occupato da altre creature. Molte creature sotterranee vanno alla ricerca di costruzioni sotterranee ed abbandonate in cui stabilire le loro tane. Qualsiasi trappola che possa essere esistita è stata probabilmente già rimossa o attivata, è possibile trovare bestie erranti.
 
 **Struttura Occupata**: Questo dungeon viene ancora utilizzato. Delle creature (di solito intelligenti) ancora lo abitano, anche se potrebbero non essere i creatori del dungeon. Una struttura occupata potrebbe essere una casa, una fortezza, un tempio, una miniera attiva, una prigione, un quartier generale...
 
@@ -69,7 +69,7 @@ Questo tipo di dungeon è meno probabile che abbia trappole o bestie erranti, e 
 
 Gli abitanti possono disporre anche di un sistema di comunicazione, e quasi sempre controllano almeno un accesso verso l'esterno.
 
-Alcuni dungeon sono parzialmente occupati e parzialmente vuoti o in rovina. In questi casi, gli occupanti di solito non sono gli originari costruttori del luogo, ma bensì un gruppo di creature intelligenti che hanno stabilito la loro base, tana o fortificazione all'interno del dungeon abbandonato.
+Alcuni dungeon sono parzialmente occupati e parzialmente vuoti o in rovina. In questi casi, gli occupanti di solito non sono gli originari costruttori del luogo, bensì un gruppo di creature intelligenti che hanno stabilito la loro base, tana o fortificazione all'interno del dungeon abbandonato.
 
 **Riparo Sicuro**: Quando qualcuno vuole proteggere una cosa, spesso la seppellisce sottoterra. Che l'oggetto che vuole proteggere sia un favoloso tesoro, un artefatto proibito o il cadavere di un uomo importante, questi oggetti di valore vengono posti all'interno di un dungeon e circondati da barriere, trappole e guardiani.
 
@@ -97,7 +97,7 @@ Le regole seguenti riguardano i terreni di base che si possono trovare in un dun
 
 ### Pareti
 
-A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la calce) dividono i dungeon in corridoi e stanze. Le pareti dei dungeon possono anche essere scolpite nella nuda roccia, ottenendo così un aspetto scalpellato, oppure possono essere composte di pietra liscia e semplice come si trova nelle caverne naturali. Le pareti dei dungeon sono difficili da danneggiare o da sfondare, ma di solito sono facilmente scalabili.
+A volte pareti in mattoni (pietre accatastate una sopra l'altra, tenute insieme con la calce) dividono i dungeon in corridoi e stanze. Le pareti dei dungeon possono anche essere scolpite nella nuda roccia, ottenendo così un aspetto scalpellato, oppure possono essere composte di pietra liscia e semplice come si trova nelle caverne naturali. Le pareti dei dungeon sono difficili da danneggiare o da sfondare, ma di solito sono facilmente scalabili.
 
 **Tabella: Pareti**
 
@@ -124,7 +124,7 @@ A volte pareti in mattoni (pietre accatastate una sopra tenute insieme con la ca
 | Xorn | 6 m | 6 m | 6m |
 | Elementale della Terra | 9 m | 9 m | 9 m |
 
-Le distanze scavate indicate si presume che siano ottenute con strumenti idonei come vanghe o picconi, altrimenti ridurre ad un terzo.
+Le distanze scavate indicate si presume che siano ottenute con strumenti idonei come vanghe o picconi, altrimenti ridurre a un terzo.
 
 **Pareti in Mattoni di pietra**: Il tipo più comune di parete per un dungeon, le pareti in pietre di solito sono spesse almeno 30 centimetri. Spesso queste antiche pareti presentano fori e fessure, all'interno dei quali possono annidarsi fanghiglie e piccole creature, che aspettano lì le loro prede. Le pareti di mattone di pietra sono in grado di bloccare tutti i rumori, tranne quelli più forti. È necessaria una prova di Arrampicarsi con DC 20 per muoversi lungo una parete in mattoni.
 
@@ -134,7 +134,7 @@ Le distanze scavate indicate si presume che siano ottenute con strumenti idonei 
 
 **Pareti di Pietra Scolpita**: Queste pareti generalmente si trovano in stanze o passaggi scavati nella nuda roccia. La ruvida superficie di una parete scolpita presenta minuscole sporgenze su cui possono crescere funghi e crepe all'interno delle quali possono vivere parassiti, pipistrelli o serpenti sotterranei.
 
-**Pareti di Pietra Grezza**: Queste superfici sono irregolari e raramente piatte. Di solito sono bagnate o perlomeno umide, in quanto le caverne naturali sono in genere il prodotto di infiltrazioni d'acqua. Quando una parete di questo tipo da un altro lato, la parete è di solito spessa almeno 150 centimetri.
+**Pareti di Pietra Grezza**: Queste superfici sono irregolari e raramente piatte. Di solito sono bagnate o perlomeno umide, in quanto le caverne naturali sono in genere il prodotto di infiltrazioni d'acqua. Quando una parete di questo tipo dà su un altro lato, la parete è di solito spessa almeno 150 centimetri.
 
 È necessaria una prova di Arrampicarsi con DC 15 per muoversi lungo una parete di pietra grezza.
 
@@ -180,7 +180,7 @@ A volte le sporgenze hanno una ringhiera. In questi casi i personaggi ottengono 
 
 **Pavimenti Trasparenti**: I pavimenti trasparenti, fatti di vetro rinforzato o di materiali magici permettono di osservare un ambiente pericoloso dall'alto. I pavimenti trasparenti sono di solito posti al di sopra di pozze di lava, arene, tane di mostri e stanze di tortura. Possono essere usati dai difensori per sorvegliare un'area.
 
-**Pavimenti Scorrevoli**: Un pavimento scorrevole è un tipo di botola, creato per essere spostato e rivelare qualcosa che si trova al di sotto. In genere un pavimento scorrevole si muove tanto lentamente che chiunque vi si trovi sopra può evitare di cadere nell'apertura, purché abbia spazio per spostarsi. Se un pavimento di questo tipo scorre velocemente che c'è la possibilità che un personaggio cada in quello che si trova sotto di esso (lance acuminate, una vasca con olio bollente, o una pozza infestata da squali, acido...) allora si tratta come una trappola.
+**Pavimenti Scorrevoli**: Un pavimento scorrevole è un tipo di botola, creato per essere spostato e rivelare qualcosa che si trova al di sotto. In genere un pavimento scorrevole si muove tanto lentamente che chiunque vi si trovi sopra può evitare di cadere nell'apertura, purché abbia spazio per spostarsi. Se un pavimento di questo tipo scorre così velocemente che c'è la possibilità che un personaggio cada in quello che si trova sotto di esso (lance acuminate, una vasca con olio bollente, o una pozza infestata da squali, acido...) allora si tratta come una trappola.
 
 **Pavimenti Trappola**: Questi pavimenti sono stati progettati per diventare di colpo pericolosi. Con l'applicazione della giusta quantità di peso o l'azionamento di una leva nelle vicinanze, spuntoni sbucano dal pavimento, fiammate o sbuffi di vapore partono da fori nascosti, o l'intero pavimento si muove. Questi strani pavimenti si trovano di solito dentro alle arene, progettati per rendere i combattimenti più appassionanti e letali. Questo tipo di pavimento si gestisce come una trappola.
 
@@ -239,9 +239,9 @@ Tutti, ad eccezione dei personaggi più deboli, riusciranno a buttar giù una po
 
 I lucchetti fissano tra due anelli, uno sulla porta e uno sul muro. Serrature più complesse, come quelle a combinazione o quelle ad enigma, sono di solito costruite dentro la porta stessa.
 
-La DC per scassinare una serratura con una prova di Disattivare Congegni spesso ricade tra 15 e 30, anche se esistono serrature con DC maggiori o inferiori. Una porta può disporre di più di una serratura, ognuna delle quali da aprire separatamente.. Scassinare serratura senza attrezzi da scasso comporta una penalità di -1d6 alla prova.
+La DC per scassinare una serratura con una prova di Disattivare Congegni spesso ricade tra 15 e 30, anche se esistono serrature con DC maggiori o inferiori. Una porta può disporre di più di una serratura, ognuna delle quali da aprire separatamente.. Scassinare una serratura senza attrezzi da scasso comporta una penalità di -1d6 alla prova.
 
-Un Fallimento Critico nell'apertura di un porta o lucchetto causa la rottura degli attrezzi da scasso.
+Un Fallimento Critico nell'apertura di una porta o lucchetto causa la rottura degli attrezzi da scasso.
 
 Le serrature sono spesso dotate di trappole, di solito aghi avvelenati che scattano all'infuori per pungere le dita del ladro.
 
@@ -249,7 +249,7 @@ Le serrature sono spesso dotate di trappole, di solito aghi avvelenati che scatt
 
 Una porta speciale potrebbe avere una serratura senza chiave, ma che richiede che venga indovinata la giusta combinazione delle leve vicine o vengano premuti nell'ordine corretto i simboli su un pannello per riuscire ad aprirla.
 
-**Porte Bloccate**: I dungeon sono spesso luoghi umidi, e in alcuni casi le porte rimangono bloccate, in modo particolare se sono fatte di legno. Di solito si suppone che all'incirca 1 su 6 delle porte di legno e il 1 su 10 delle altre porte siano bloccate. Questi valori possono essere raddoppiati (al 2 su 6 e 2 su 10 rispettivamente) nel caso di dungeon da tempo abbandonati o trascurati.
+**Porte Bloccate**: I dungeon sono spesso luoghi umidi, e in alcuni casi le porte rimangono bloccate, in modo particolare se sono fatte di legno. Di solito si suppone che all'incirca 1 su 6 delle porte di legno e 1 su 10 delle altre porte siano bloccate. Questi valori possono essere raddoppiati (al 2 su 6 e 2 su 10 rispettivamente) nel caso di dungeon da tempo abbandonati o trascurati.
 
 **Porte Sbarrate**: Quando un personaggio cerca di sfondare una porta sbarrata, è la qualità della sbarra che fa la differenza, non il materiale della porta in sé. Sfondare una porta chiusa da una sbarra di legno richiede un Tiro Salvezza Tempra con Forza con DC 25, e la DC sale a 30 nel caso di una sbarra metallica.
 
@@ -263,11 +263,11 @@ Una porta su cui è stato lanciato un blocco magico si considera chiusa anche se
 
 Gli avventurieri possono rimuovere i cardini uno alla volta superando varie prove di Disattivare Congegni (solo se, naturalmente, sono davanti al lato della porta su cui si trovano i cardini). Una simile azione ha una DC di 20, in quanto molti dei cardini sono arrugginiti o bloccati.
 
-Spaccare un cardine è difficile. La maggior parte ha Durezza 10 e 30 Punti Ferita. La DC per spaccare un cardine è la stessa che serve per abbattere la porta
+Spaccare un cardine è difficile. La maggior parte ha Durezza 10 e 30 Punti Ferita. La DC per spaccare un cardine è la stessa che serve per abbattere la porta.
 
 **Cardini a Inserimento**: Questi cardini sono molto più complessi e si trovano solo in zone di eccellente costruzione. Questi cardini sono costruiti dentro la parete e permettono alla porta di aprirsi in entrambe le direzioni. I personaggi non possono raggiungere i cardini per rimuoverli a meno che non sfondino il sostegno della porta o la parete. I cardini a inserimento si trovano di solito sulle porte di pietra, ma a volte si vedono anche su porte di legno o di ferro.
 
-**Perni**: I perni non sono veri cardini, ma semplici pioli che si protendono dal lato superiore e inferiore della porta e si infilano dentro i buchi nel suo sostegno, permettendole di girare. I vantaggi dei perni è che non possono essere rimossi come i cardini e che sono facili da realizzare. Lo svantaggio è che siccome la porta gira sul suo centro di gravità (di solito nel mezzo), nulla più grosso di metà dell'ampiezza della porta vi può passare attraverso.
+**Perni**: I perni non sono veri cardini, ma semplici pioli che si protendono dal lato superiore e inferiore della porta e si infilano dentro i buchi nel suo sostegno, permettendole di girare. I vantaggi dei perni sono che non possono essere rimossi come i cardini e che sono facili da realizzare. Lo svantaggio è che siccome la porta gira sul suo centro di gravità (di solito nel mezzo), nulla più grosso di metà dell'ampiezza della porta vi può passare attraverso.
 
 Le porte dotate di perni sono di solito di pietra e spesso anche abbastanza larghe per ovviare allo svantaggio. Un'altra soluzione è quella di piazzare il perno verso un'estremità e fare la porta più spessa da quella parte e più sottile dall'altra, in modo che si apra più o meno come una porta normale.
 
@@ -281,7 +281,7 @@ Molte porte segrete richiedono un metodo speciale per essere aperte, come un bot
 
 Un costruttore potrebbe piazzare una porta segreta molto bassa vicino al pavimento oppure molto in alto su un muro, in modo da rendere più difficile sia il rinvenimento che l'utilizzo della porta.
 
-**Porte Magiche** Incantata dal costruttore originario, una porta può apostrofare gli esploratori invitandoli a non proseguire. Potrebbe essere protetta dai danni, con una Durezza maggiore o un numero maggiore di Punti Ferita, oltre che un bonus al Tiro Salvezza migliorato. Una porta magica potrebbe non condurre allo spazio che si trova dietro di essa, ma essere in realtà un portale verso un luogo molto distante o addirittura verso un altro piano di esistenza. Altre porte magiche potrebbero aver bisogno di una parola d'ordine o di chiavi speciali per aprirsi.
+**Porte Magiche**. Incantate dal costruttore originario, una porta può apostrofare gli esploratori invitandoli a non proseguire. Potrebbe essere protetta dai danni, con una Durezza maggiore o un numero maggiore di Punti Ferita, oltre che un bonus al Tiro Salvezza migliorato. Una porta magica potrebbe non condurre allo spazio che si trova dietro di essa, ma essere in realtà un portale verso un luogo molto distante o addirittura verso un altro piano di esistenza. Altre porte magiche potrebbero aver bisogno di una parola d'ordine o di chiavi speciali per aprirsi.
 Le porte magiche sono apribili solo tramite comando specifico o annullando la magia che le pervade, pochissime hanno una serratura.
 In tal caso il Narratore potrebbe decidere di aumentare la prova di Disattivare Congegni di 10, portandola a 30 o più e potrebbe essere necessario avere qualche punto in Arcana.
 
@@ -289,7 +289,7 @@ In tal caso il Narratore potrebbe decidere di aumentare la prova di Disattivare 
 
 **Pareti, Porte ed azioni di Individuazione**
 
-Le pareti di pietra, di ferro e le porte di ferro sono generalmente sufficientemente spessi da bloccare la maggior parte delle Divinazioni. Le pareti di legno, le porte di legno e di pietra in genere non sono sufficientemente spesse da fare altrettanto. Tuttavia, una porta segreta di pietra costruita in un muro e spessa come il muro stesso (almeno 30 centimetri) bloccherà la maggior parte di queste Azioni.
+Le pareti di pietra, di ferro e le porte di ferro sono generalmente sufficientemente spesse da bloccare la maggior parte delle Divinazioni. Le pareti di legno, le porte di legno e di pietra in genere non sono sufficientemente spesse da fare altrettanto. Tuttavia, una porta segreta di pietra costruita in un muro e spessa come il muro stesso (almeno 30 centimetri) bloccherà la maggior parte di queste Azioni.
 
 ## Pericoli nei Dungeon
 
@@ -324,24 +324,24 @@ La fanghiglia verde divora la carne e i materiali organici che vi entrano in con
 
 La fanghiglia verde infligge 1 danno alla Costituzione per ogni round in cui divora la carne. Al primo round di contatto, la fanghiglia può essere asportata da una creatura (con la probabile distruzione dell'oggetto utilizzato per asportarla), ma dopo il primo round deve essere congelata, bruciata o tagliata (infliggendo danni anche alla sua vittima) per essere rimossa. Tutto ciò che infligge danni da fuoco o da freddo, la luce solare o un incantesimo di rimuovi malattia distruggono una chiazza di fanghiglia verde. Nel caso di legno o metallo, la fanghiglia verde infligge 2d6 danni per round, ignorando la Durezza del metallo ma non quella del legno. Non danneggia la pietra. Difesa 10, Punti Ferita 30, Tiri Salvezza T 3, R 0, V 1.
 
-**Fungo Fosforescente**: Questo strano fungo sotterraneo emana una debole luminescenza violacea che illumina le caverne e i passaggi sotterranei
+**Fungo Fosforescente**: Questo strano fungo sotterraneo emana una debole luminescenza violacea che illumina le caverne e i passaggi sotterranei.
 
-come una candela. Rare macchie di questo fungo illuminano come una torcia. Strappato dal suo ambiente si spegne in un 1d4 turni.
+come una candela. Rare macchie di questo fungo illuminano come una torcia. Strappato dal suo ambiente si spegne in 1d4 turni.
 
 **Muffa Gialla** (grado di Sfida 6): Se disturbata nel raggio di 3 metri rilascia una nube di spore velenose. Tutti coloro entro raggio di 3 metri dalla muffa devono superare un Tiro Salvezza su Tempra con DC 15 o subiscono 1d3 danni a Costituzione. Un altro Tiro Salvezza su Tempra con DC 15 è necessario una volta per round per i successivi 5 round o per evitare di subire altri 1d3 danni a Costituzione. Un Tiro Salvezza riuscito blocca questo effetto. Il fuoco distrugge la muffa gialla, mentre la luce solare la rende inerte. Difesa 10, Punti Ferita 25, Tiri Salvezza T 3, R 0, V 1, Vulnerabilità al Fuoco.
 
-**Muffa Marrone** (grado di Sfida 2): La muffa marrone si nutre di calore, estraendolo da tutto ciò che la circonda. Di solito si presenta in chiazze con diametro di dimensione di 1 metro e la temperatura attorno alla muffa risulta sempre fredda in un raggio di 3 metri. Le creature viventi entro 1 metro da essa subiscono 3d6 danni non letali da freddo. Se viene portata una fonte di fuoco entro 1 metro dalla muffa questa raddoppia immediatamente le proprie dimensioni. I danni da freddo, come quelli inflitti da un cono di freddo, la distruggono all'istante. Difesa 10, Punti Ferita 12, Tiri Salvezza T 3, R 0, V 1, Vulnerabilità Freddo, converte i danni da fuoco subiti in Punti Ferita.
+**Muffa Marrone** (grado di Sfida 2): La muffa marrone si nutre di calore, estraendolo da tutto ciò che la circonda. Di solito si presenta in chiazze con diametro di 1 metro e la temperatura attorno alla muffa risulta sempre fredda in un raggio di 3 metri. Le creature viventi entro 1 metro da essa subiscono 3d6 danni non letali da freddo. Se viene portata una fonte di fuoco entro 1 metro dalla muffa questa raddoppia immediatamente le proprie dimensioni. I danni da freddo, come quelli inflitti da un cono di freddo, la distruggono all'istante. Difesa 10, Punti Ferita 12, Tiri Salvezza T 3, R 0, V 1, Vulnerabilità Freddo, converte i danni da fuoco subiti in Punti Ferita.
 
 ### Esempio di Trappole da dungeon
 
 Viene indicato il nome della trappola, la DC per la prova di Sopravvivenza per trovare la trappola e le indicazioni d'uso della stessa. Vedi anche Trappole .
 
-**Stanza allagata, DC 17**: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e la stanza incomincerà a riempirsi d'acqua.
+**Stanza allagata, DC 17**: se i personaggi non notano la piastra a pressione sul pavimento, questa farà sigillare la porta di ingresso e la stanza incomincerà a riempirsi d'acqua.
 La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, combinata con una prova di Nuotare DC 13, fa rilevare la piastra che attiva la fuoriuscita d'acqua.
 
-**Stanza stritolante, DC 15**: se i personaggi non notano la piastra a pressione sul pavimento questa farà sigillare la porta di ingresso e fortissimi rumori di stridii ed ingranaggi riempiranno la stanza. Le pareti incominceranno ad avvicinarsi tra loro come il soffitto al pavimento. Se i personaggi non trovano la mattonella nascosta (DC 17) subiranno 10d6 di danno da stritolamento. La trappola è più facile da rilevare di altre perché le pareti sono più spesse rendendo la stanza più piccola.
+**Stanza stritolante, DC 15**: se i personaggi non notano la piastra a pressione sul pavimento, questa farà sigillare la porta di ingresso e fortissimi rumori di stridii ed ingranaggi riempiranno la stanza. Le pareti incominceranno ad avvicinarsi tra loro come il soffitto al pavimento. Se i personaggi non trovano la mattonella nascosta (DC 17) subiranno 10d6 di danno da stritolamento. La trappola è più facile da rilevare di altre perché le pareti sono più spesse rendendo la stanza più piccola.
 
-**Soffitto schiacciante, DC 18**: se i personaggi non notano il sistema di attivazione ( piastra a pressione, cavo, raggio di luce interrotto..) una sezione di soffitto di 3m x 3m cadrà sui i personaggi con un danno di 3d6.
+**Soffitto schiacciante, DC 18**: se i personaggi non notano il sistema di attivazione ( piastra a pressione, cavo, raggio di luce interrotto..) una sezione di soffitto di 3m x 3m cadrà sui personaggi con un danno di 3d6.
 
 **Tunnel di ragnatele, DC 12**: questo tunnel è evidentemente pieno di ragnatele fitte, dense, robuste. Se i personaggi entrano si considerano Intralciati. Dopo 1d4 round di permanenza un attivatore genererà una scintilla dando fuoco alle ragnatele per 1d4 round. Ogni round all'interno del tunnel si subiscono 2d4 di danno da fuoco.
 
@@ -350,7 +350,7 @@ La stanza si riempie d'acqua in 10 round. Una prova di Sopravvivenza a DC 15, co
 **Garrotte, DC 14**: questa trappola può essere molto insidiosa. Un filo affilato magicamente è a 1 metro da terra, tra una parete e quella opposta e scorre verso i giocatori.
 È necessario un Tiro Salvezza su Riflessi DC 14 oppure subire 2d6 di danno da taglio.
 
-**Porta schiacciante, DC 16**: questa porta appena toccata rotea su dei cardini centrali e roteando picchia il personaggio (o personaggi se un grande portone). Causa 1d6 di danni contundenti e continua a roteare per 1d6 round.
+**Porta schiacciante, DC 16**: questa porta appena toccata rotea su dei cardini centrali e roteando picchia il personaggio (o personaggi se è un grande portone). Causa 1d6 di danni contundenti e continua a roteare per 1d6 round.
 
 **Trincia Dito, DC 14**: questa trappola è molto subdola. Si presenta con un foro di circa 1 cm di diametro e profondo 7 cm. Qualsiasi cosa che ne tocchi il fondo farà scattare la trappola, causando 2d4 di danno al dito/oggetto inserito. La lama potrebbe anche essere avvelenata.
 

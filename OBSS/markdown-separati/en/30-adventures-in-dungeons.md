@@ -14,7 +14,7 @@ Your dungeon is never just a cave. NEVER!
 
 Whether they' \*\*re caves, dens, mines, grottos, lairs, caverns, the *Dungeons* often represent the focal center of adventure, exploration, and survival.
 
-Characters will spend a lot of time in these environments, and the Narrator must be prepared and ready for the environment they will encounter.
+Characters will spend a lot of time in these environments, and the Game Master must be prepared and ready for the environment they will encounter.
 
 When preparing a cave, it is necessary to think intelligently about the type of cave and the creatures that will be encountered; every cave is a complex ecosystem.
 Putting a group of lizardfolk without thinking about what they eat, where they sleep, what kind of organization they have is dangerous, not to mention inserting a chimera.
@@ -188,11 +188,11 @@ Sometimes ledges have a railing. In these cases, characters get a +1d6 bonus to 
 
 - **Blocked / Stuck**: DC to Break Down (Fortitude ST with Strength, +1d6 if a crowbar is used). Breaking down a door with shoulders/kicks costs 1 Action, 2 Actions if using a crowbar.
 - **Locked**: DC to Pick (Disable Device check).
-- **Not blocked**: a door that is not locked or blocked requires 1 Action to open or it can be opened with the Movement Action used to pass through it considering the space oppede as difficult terrain.
+- **Not blocked**: a door that is not locked or blocked requires 1 Action to open or it can be opened with the Movement Action used to pass through it considering the space as difficult terrain.
 
 A **Critical Failure** in a Strength check (Fortitude ST with Strength) means having hurt oneself in the breaking attempt. Until at least 10 minutes pass, it is no longer possible to break down a door.
 
-Doors inside dungeons are much more than simple entrances or exits. Often they can be actual encounters. Dungeon doors come in three basic types: wood, stone, and iron.
+ Doors inside dungeons are much more than simple entrances or exits. Often, they can be actual encounters. Dungeon doors come in three basic types: wood, stone, and iron.
 
 | **Door Type** | **Typical thickness** | **Hardness** | **Hit Points** | **DC to break down** | |
 | --- | --- | --- | --- | --- |
@@ -221,7 +221,7 @@ Secret doors hidden along a stone wall are usually made of stone. Otherwise, doo
 
 **Breaking Down**: Dungeon doors can be locked, trapped, reinforced, barred, magically sealed, or sometimes simply blocked.
 
-Everyone, except the weakest characters, will be able to knock down a door with a heavy tool like a battering ram, numerous spells and magical items can offer characters an easy way to overcome a closed door.
+Everyone, except the weakest characters, will be able to knock down a door with a heavy tool like a battering ram; numerous spells and magical items can offer characters an easy way to overcome a closed door.
 
 **DC 13 or lower**: A door that anyone can break down.
 
@@ -265,7 +265,7 @@ Breaking a hinge is difficult. Most have Hardness 10 and 30 Hit Points. The DC t
 
 **Insertion Hinges**: These hinges are much more complex and are found only in areas of excellent construction. These hinges are built into the wall and allow the door to open in both directions. Characters cannot reach the hinges to remove them unless they break through the door support or the wall. Insertion hinges are usually found on stone doors, but sometimes are also seen on wooden or iron doors.
 
-**Pivots**: Pivots are not true hinges, but simple pegs that protrude from the upper and lower side of the door and fit into holes in its support, allowing it to turn. The advantages of pivots is that they cannot be removed like hinges and that they are easy to make. The disadvantage is that since the door turns on its center of gravity (usually in the middle), nothing larger than half the width of the door can pass through.
+**Pivots**: Pivots are not true hinges, but simple pegs that protrude from the upper and lower side of the door and fit into holes in its support, allowing it to turn. The advantages of pivots are that they cannot be removed like hinges and that they are easy to make. The disadvantage is that since the door turns on its center of gravity (usually in the middle), nothing larger than half the width of the door can pass through.
 
 Doors equipped with pivots are usually made of stone and often quite wide to overcome the disadvantage. Another solution is to place the pivot towards one end and make the door thicker on that side and thinner on the other, so that it opens more or less like a normal door.
 
@@ -281,7 +281,7 @@ A builder might place a secret door very low near the floor or very high on a wa
 
 **Magical Doors** Enchanted by the original builder, a door may address explorers inviting them not to proceed. It might be protected from damage, with increased Hardness or more Hit Points, as well as an improved Saving Throw bonus. A magical door might not lead to the space behind it, but actually be a portal to a very distant place or even to another plane of existence. Other magical doors might need a password or special keys to open.
 Magical doors can only be opened through a specific command or by nullifying the magic that pervades them, very few have a lock.
-In such a case, the Narrator might decide to increase the Disable Device check by 10, bringing it to 30 or more, and it might be necessary to have some points in Arcana.
+In such a case, the Game Master might decide to increase the Disable Device check by 10, bringing it to 30 or more, and it might be necessary to have some points in Arcana.
 
 **Portcullises**: These special doors are made with rods of iron or thick reinforced wood that descend from a recess in the upper part of an arch. Sometimes a portcullis has horizontal bars forming a grid, other times not. Usually raised with a winch or similar machinery, portcullises can be dropped quickly, and the bars end in spikes to discourage anyone from passing underneath (or from trying to cross them in a rush while they descend). Once down, a portcullis closes, unless it is so large that no normal person would be able to lift it. In any case, lifting a typical portcullis requires a Fortitude Saving Throw with Strength with DC 25.
 
@@ -346,7 +346,7 @@ The room fills with water in 10 rounds. A Survival check at DC 15, combined with
 **Garrote, DC 14**: this trap can be very insidious. A magically sharpened wire is 1 meter from the ground, between one wall and the opposite one, and runs towards the players.
 A Reflex Saving Throw DC 14 is required or suffer 2d6 slashing damage.
 
-**Crushing door, DC 16**: this door, as soon as touched, rotates on central hinges and rotating hits the character (or characters if it' \*\*s a large gate). It causes 1d6 bludgeoning damage and continues to rotate for 1d6 rounds.
+**Crushing door, DC 16**: this door, as soon as touched, rotates on central hinges and hits the character (or characters if it' \*\*s a large gate). It causes 1d6 bludgeoning damage and continues to rotate for 1d6 rounds.
 
 **Finger Slicer, DC 14**: this trap is very subtle. It presents with a hole about 1 cm in diameter and 7 cm deep. Anything that touches the bottom will trigger the trap, causing 2d4 damage to the finger/object inserted. The blade might also be poisoned.
 

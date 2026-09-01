@@ -10,9 +10,9 @@ To do what one wants, one must be born a king or a fool. (*or Narrator*, NdA) (L
 
 ## The Narrator
 
-While the player plays a character in an adventure, the Narrator is the one who manages it. He certainly has much more work, but creating an entire world for his friends to explore can be very satisfying.
+While the player plays a character in an adventure, the Game Master is the one who manages it. He certainly has much more work, but creating an entire world for his friends to explore can be very satisfying.
 
-The role of the Narrator is not easy but grants enormous privileges. Seeing your friends play, have fun, go crazy over doubts, riddles, and situations created by you gives a lot of fun and moments of true conviviality.
+The role of the Game Master is not easy but grants enormous privileges. Seeing your friends play, have fun, go crazy over doubts, riddles, and situations created by you gives a lot of fun and moments of true conviviality.
 
 Your role is that of the great orchestrator, planner, or even landscaper if you prefer, with a few simple brushstrokes you outline the structure and then the players will add details and situations.
 
@@ -104,7 +104,7 @@ OBSS refers to the principles of OSR and as such the exploration and combat phas
 
 An encounter is a moment of tension and hope, fear and challenge. It' \*\*s the opportunity to show and manifest one' \*\*s abilities and to work as a group.
 
-An encounter is not the occasion to show off one' \*\*s absolute power, either as a Narrator or as a Player. The Narrator will know how to \st educate the player who wants to be beyond the group and not part of it.
+An encounter is not the occasion to show off one' \*\*s absolute power, either as a Game Master or as a Player. The Game Master will know how to \st educate the player who wants to be beyond the group and not part of it.
 
 In the following pages, you will find instructions for creating easy, medium, high, extraordinary, deadly, and epic challenges.
 
@@ -118,7 +118,7 @@ A confrontation can also be clearly unbalanced, it will be the players' \*\* shr
 
 When designing a combat encounter, first decide what level of challenge you want the PCs to face, then follow the points described below.
 
-**Determine APL**: Determine the average level of the characters: this is the Average Party Level (APL for short). You should round this value to the nearest integer (this is one of the few exceptions to the round down rule).
+**Determine APL**:  Determine the average level of the characters: this is the Average Party Level (APL for short). You should round this value to the nearest integer (this is one of the few exceptions to the round-down rule).
 
 Note that this reference guide to creating an encounter assumes a group of four or five characters. If your group has six or more players, add one to their average level. If your group contains three or fewer players, subtract one from their average level. For example, if your group consists of six players, two of 5th level and four of 7th level, the APL is 7th (38 total levels, divided by six players, rounded to the nearest integer, and adding one to the final result).
 
@@ -214,11 +214,11 @@ Organize the enemies so that:
 - make the attack not seem like an attack
 - play with cleverness and don' \*\*t let yourself get demoralized.
 
-And in any case, always remember: it' \*\*s not a battle between Narrator and Players! The goal is to create memorable moments!!!
+And in any case, always remember: it' \*\*s not a battle between Game Master and Players! The goal is to create memorable moments!!!
 
 ### Adding NPCs
 
-A creature that has levels, Feats, skills, that could be a character but is managed by the Narrator is considered an NPC. These creatures can play a very important role and should not be used as simple monsters. Give them depth and you' \*\*ll create unforgettable figures.
+A creature that has levels, Feats, skills, that could be a character but is managed by the Game Master is considered an NPC. These creatures can play a very important role and should not be used as simple monsters. Give them depth and you' \*\*ll create unforgettable figures.
 
 ### Ad Hoc Challenge Rating Modifications
 
@@ -273,7 +273,7 @@ For a balanced method, characters created after 1st level should spend 25\% of t
 
 ## I know a guy...
 
-To facilitate the spirit of adventure and not leave characters incapable or indecisive in acting, allow them to know a certain number of NPCs equal to their Charisma score +1. The player can declare at any time that they know this NPC and must keep track of them. These NPCs can be *leveraged* when characters find themselves in difficult situations, danger, or simply in need of support. The character who appeals to *I know a guy...* must adequately describe the subject and the relationship between them. The Narrator will adapt the situation to include this character to the best of their ability.
+To facilitate the spirit of adventure and not leave characters incapable or indecisive in acting, allow them to know a certain number of NPCs equal to their Charisma score +1. The player can declare at any time that they know this NPC and must keep track of them. These NPCs can be *leveraged* when characters find themselves in difficult situations, danger, or simply in need of support. The character who appeals to *I know a guy...* must adequately describe the subject and the relationship between them. The Game Master will adapt the situation to include this character to the best of their ability.
 
 The guy could be a merchant who owes them a favor, if not a thief or a bureaucrat. Characters are encouraged not to invent friendships or favors from overly important characters.
 
@@ -301,7 +301,7 @@ Although the system favors freedom of character construction and development, if
 
 ## About OBSS and dice rolling
 
-OBSS uses a peculiar dice rolling system by mixing a 3d6 distribution with the potential of exploding 6s. This system manages to guarantee a good variance and while concentrating the results around the central values of the distribution, leaves the upper limit open to particularly lucky rolls.
+OBSS uses a peculiar dice rolling system by mixing a 3d6 distribution with the potential of exploding 6s. This system manages to guarantee a good variance and, while concentrating the results around the central values of the distribution, leaves the upper limit open to particularly lucky rolls.
 
 If you want to have fun studying the corresponding curve, I recommend the website https://anydice.com/. This is the pseudo-code to enter (or click https://anydice.com/program/2610e} for the code already entered):
 
@@ -322,7 +322,7 @@ The next time they will roll a 1d10 instead of 1d12, and then 1d8 and then 1d6, 
 
 On the character sheet, next to those resources, mark the die to use for the next roll.
 
-The Narrator might decide to track only common consumables in this manner and not premium ones.
+The Game Master might decide to track only common consumables in this manner and not premium ones.
 
 ## Adventures in OBSS
 
@@ -338,9 +338,9 @@ For me, OSR is not random encounter tables and chaotic randomization nor a speci
 
 If the method may not appeal to you, use what you prefer; personally, over the decades, I have learned to appreciate and see appreciated the spontaneity and naturalness that the tenets of OSR bring to the game.
 
-**These are basic rules for the Narrator that I suggest for conducting adventures.**
+**These are basic rules for the Game Master that I suggest for conducting adventures.**
 
-- You are the Narrator, yours are the Rules, yours is the World.
+- You are the Game Master, yours are the Rules, yours is the World.
 
 Don' \*\*t let yourself be limited by the adventure, the system, the monster list, always feel free to modify and adapt based on the needs of the adventure and the group
 - Remember to be fair and correct. Improvise, adapt as much as you want but be consistent. If you establish a rule (or a modification to a rule) follow it through.
@@ -380,7 +380,7 @@ At the same time, you shouldn' \*\*t reveal everything at once, let them investi
 Don' \*\*t stuff the adventure with useless details, leave room for the creativity and imagination of the players. %, the details you provide should not only make sense but be necessary for the adventure.
 - If players tend to forget useful information given, try to exploit an NPC who has memory or invite them to take notes; there' \*\*s nothing wrong with being prepared.
 - The adventure is never static, nor is the world where the characters move.
-The world has the same importance if not more than the adventure itself. Players' \*\* actions can trigger events at a global level. Always think about the consequences of gestures.
+The world has the same importance as the adventure itself, if not more. Players' \*\* actions can trigger events at a global level. Always think about the consequences of gestures.
 - If you use NPCs don' \*\*t make them simple caricatures, make it so that the characters can become attached and consider the NPC one of the group on par with all the others.
 - Monsters don' \*\*t have to be stupid by force. Make them talk, reason, run away... they want to live too!
 - Remember the Law of Reward. Reward the audacious, reward those who push deeper into the caves. Reward those who survive.
@@ -393,9 +393,9 @@ Session Zero serves to establish what and how you will play, what the main chara
 
 To start well as a group of players, it' \*\*s important to know each other personally and have trust and respect for others. You don' \*\*t have to tell everything about yourself, but at least passions, interests, curiosities, what at least initially serves to create trust.
 
-I suggest that Narrators establish clear rules for good gameplay. Unfortunately, experience teaches that we are all different people with different styles, perspectives, and expectations. Getting to know each other also serves this purpose, to understand if your character can be well together with others and to understand if your person and personality is in some way similar or not to other people.
+I suggest that Game Masters establish clear rules for good gameplay. Unfortunately, experience teaches that we are all different people with different styles, perspectives, and expectations. Getting to know each other also serves this purpose, to understand if your character can be well together with others and to understand if your person and personality are in some way similar or not to other people.
 
-**Before beginning, it is appropriate for the Narrator to clarify what the essential rules are at their table**. Examples of rules can be:
+**Before beginning, it is appropriate for the Game Master to clarify what the essential rules are at their table**. Examples of rules can be:
 
 - That each player **knows** the part of the rulebook they will most use (combat, magic, patrons...).
 - Respects the **limits** of others. Each person has a different sensitivity to certain topics (rape, slavery, racism, violence...); it is fundamental to clarify together what limits should never be crossed.
@@ -409,7 +409,7 @@ I suggest that Narrators establish clear rules for good gameplay. Unfortunately,
 - Establish the optional rules and make sure they are clear to everyone.
 - Indicate the list or type of Traits accepted and if there are limits in the choice of Patrons.
 - Encourage the creation of characters with shared backgrounds so that the group is already cohesive at formation.
-- As a Narrator, you must understand the degree of knowledge of the system by the players and if necessary, when needed, take time to explain the rules.
+- As a Game Master, you must understand the degree of knowledge of the system by the players and if necessary, when needed, take time to explain the rules.
 
 **Other useful indications concern**:
 

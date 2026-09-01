@@ -5,13 +5,13 @@
 Il Narratore nella preparazione dell'avventura può posizionare gli oggetti magici che preferisce, che ce ne sia bisogno, ed in puro stile OSR affidarsi ad una generazione casuale.
 
 L'approccio esclusivamente casuale non è sempre suggerito, i risultati potrebbero stravolgere l'avventura se non tutta la campagna!
-Eppure Trovare una spada ammazzadraghi al primo livello siate certi che genererà avventure a non finire per i personaggi!
+Eppure trovare una spada ammazzadraghi al primo livello siate certi che genererà avventure a non finire per i personaggi!
 
->> **Tessssori!**: La Terra è un mondo a *raro* profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
+>> **Tessssori!**: La Terra è un mondo a *raro* profilo magico, gli oggetti magici esistono ma sono rari ed ancor di più quelli più potenti. Mentre pozioni naturali e piccoli ninnoli possono essere trovati ovunque, è solo cercando attivamente, andando nelle profondità che si possono trovare i tesori migliori.
 
 ### Valore delle Gemme e Gioielli
 
-Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per determinarne il valore in monete d'oro. Si può assegnare a tutti gli oggetti lo stesso valore, assegnare un valore individuale a ciascuna gemma/gioiello, oppure e tirare casualmente per ciascuno.
+Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per determinarne il valore in monete d'oro. Si può assegnare a tutti gli oggetti lo stesso valore, assegnare un valore individuale a ciascuna gemma/gioiello, oppure tirare casualmente per ciascuno.
 
 | **3d6** | **Gemma (mo)** | **Gioielli (mo)** |
 | 3 | 10 | 1d4*10 |
@@ -56,11 +56,11 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 
 ### Capacità Speciali ed Oggetti Maledetti
 
-Quando nel *Bonus Magico* c'è scritto **ritira + Capacità Speciale Armi/Armature Tipo...** significa che devi ritirare il 1d100, ignorando altri risultato sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla *Tabella Capacità Speciale Armi Tipo...* risultante.
+Quando nel *Bonus Magico* c'è scritto **ritira + Capacità Speciale Armi/Armature Tipo...** significa che devi ritirare il 1d100, ignorando altri risultati sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla *Tabella Capacità Speciale Armi Tipo...* risultante.
 
-Quando un Arma, Armatura o Scudo è indicata come **Maledetta** può essere indicato la penalità al colpire ed al danno. L'oggetto può essere abbandonato senza grossi problemi.
+Quando un'Arma, Armatura o Scudo è indicata come **Maledetta** può essere indicata la penalità al colpire ed al danno. L'oggetto può essere abbandonato senza grossi problemi.
 
-Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anello**... **Maledetta** (es. *Arma Maledetta*) è necessario ritirare sulla tabella e verificare se il nuovo oggetto indicato a una versione maledetta. In caso fosse disponibile selezionarlo altrimenti l'oggetto si comporta come un oggetto maledetto -2 (attacco/ danno o Difesa) o non funzionante.
+Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anello**... **Maledetta** (es. *Arma Maledetta*) è necessario ritirare sulla tabella e verificare se il nuovo oggetto sia una versione maledetta. In caso fosse disponibile selezionarlo altrimenti l'oggetto si comporta come un oggetto maledetto -2 (attacco/ danno o Difesa) o non funzionante.
 
 **Tabella: Tipologia di Oggetto magico**
 
@@ -421,21 +421,20 @@ Tirare 1d8 per determinare se si trova una Bacchetta o Bastone o Verga.
 
 ### Manuali, Tomi e Pergamene
 
-| **3d6** | **Rarita' Pergamena** | **Inc. sulla Pergamena** |
-| 3-11 | Comune | 1d4 |
-| 12-13 | Non Comune | 1d6 |
-| 14-16 | Rara | 1d8 |
-| 17 | Molto Rara | 1d10 |
-| 18 | Leggendaria | 2d6 |
+| **4d6** | **Rarita' Pergamena** | **Inc. sulla Pergamena** |
+| 4-14 | Comune | 1d4 |
+| 15-18 | Non Comune | 1d6 |
+| 19-22 | Rara | 1d8 |
+| 23 | Molto Rara | 1d10 |
+| 24 | Leggendaria | 2d6 |
 
-| **3d6** | **Livello Incantesimo** |
-|---|---|
-| 3-9 | 1 |
-| 10-11 | 2 |
-| 12-15 | 3 |
-| 16 | 4 |
-| 17 | 5 |
-| 18 | 6 |
+| **4d6** | **Livello Incantesimo** |
+| 4-12 | 1 |
+| 13-16 | 2 |
+| 17-21 | 3 |
+| 22 | 4 |
+| 23 | 5 |
+| 24 | 6 |
 
 | **Manuali, Tomi e Pergamene** | **3d6** |
 | 3-14 | Pergamene |

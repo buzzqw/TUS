@@ -4,7 +4,7 @@
 
 You have not really understood something until you are able to explain it to your grandmother. (Albert Einstein)
 
-Skills represent what you know and what you can do. Their scores represent how well the skill is known and therefore the higher the value, the more expert you are.
+Skills represent what you know and what you can do. Their scores represent your level of proficiency; the higher the value, the more expert you are.
 
 ## Basic Skills
 
@@ -12,9 +12,9 @@ Skills represent what you know and what you can do. Their scores represent how w
 
 Each character has an initial Profession, a life and work path that has led them to learn certain skills.
 
-Some Professions and their related skills are listed; the character acquires these skills with the score indicated in the table.
+Some Professions and their related skills are listed; the character acquires these skills with the scores indicated in the table.
 
-In the character sheet, the initial Profession and acquired skills should be marked; in agreement with the Narrator, it is possible to select different skills and also create different professions!
+In the character sheet, the initial Profession and acquired skills should be marked; in agreement with the Game Master, it is possible to select different skills and also create different professions!
 
 **Table: List of Professions and related Skills**
 
@@ -57,7 +57,7 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
-A profession does not express itself in just 4 skills, but these are the ones that will come into use most during adventures; the Narrator will be helped by your profession to understand how your character can solve situations and how they will interact with other characters.
+A profession does not express itself in just 4 skills, but these are the ones that will come into use most during adventures; the Game Master will be helped by your profession to understand how your character can solve situations and how they will interact with other characters.
 
 Below is the **Table list of skills** from which to choose for any new professions or customizations.
 
@@ -65,7 +65,7 @@ Below is the **Table list of skills** from which to choose for any new professio
 
 For each new profession you create, associate 4 skills taken from the **Table: List of Skills and Related Ability Score for Use**. One skill will start with a score of 1, two skills will start with a score of 2, and the most specific and professional one will start with a score of 3.
 
-In agreement with the Narrator, it is also possible to change the order of Skills for Professions already listed, making the character more capable in some skills rather than others.
+In agreement with the Game Master, it is also possible to change the order of Skills for Professions already listed, making the character more capable in some skills rather than others.
 
 ### Skills, Intelligence, and Character Background
 
@@ -108,7 +108,7 @@ Players should ask questions, investigate, be curious, argue hypotheses, and dis
 
 A character can learn a new skill or improve it with a study/practice of at least 4 hours a day for at least 4 months with a teacher who has a higher skill score than the one the character aims for. After this time, the player can assign a point to the basic skill they have applied themselves to.
 
-To learn a new profession, at least 6 months must pass for 6 hours a day with someone who practices that profession. After the 6 months, the character acquires the 4 skills of the profession. Any Skills already known will increase by 1 point.
+To learn a new profession, at least 6 months must pass, studying 6 hours a day with someone who practices that profession. After the 6 months, the character acquires the 4 skills of the profession. Any Skills already known will increase by 1 point.
 
 ### Skills and their areas of use
 
@@ -122,19 +122,19 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Acrobatics* (DEX)**: This skill is used to maintain balance on narrow or precarious surfaces, to dive, roll, do somersaults, backflips, overcome obstacles, and fall without getting hurt. 1 Action.
 
-**Appraise (INT)**: With this skill, you know how to estimate the monetary value of an object. The difficulty is based on the rarity of the object, DC 12 + 2 common, 4 uncommon, 8 rare, 12 very rare, 16 legendary. 1 Action for every 5 points of DC. With 6 points the time is 1 Action for every 10 points of DC, with score 12 it is 1 Action for every 20 points of DC. 
+**Appraise (INT)**: With this skill, you know how to estimate the monetary value of an object. The difficulty is based on the object' \*\*s rarity: DC 12 + the rarity factor (common +0, uncommon +2, rare +6, very rare +10, legendary +16). It takes 1 Action for every 5 points of DC. With 6 points, the time is 1 Action for every 10 points of DC; with 12 points, it is 1 Action for every 20 points of DC. 
 
 **Athletics* (STR)**: With this skill, you are an expert athlete, capable of prodigious jumps and exceptional tests of Strength. 1 Action.
 
-**Arcana (INT)**: With this skill, you are an expert in magic and spells, magic items and you are able to identify spells that are cast. 1 Action.
+**Arcana (INT)**: With this skill, you are an expert in magic, spells, and magic items, and you can identify spells as they are cast. 1 Action.
 
 **Awareness (WIS)**: to search, notice, observe. It is something active. 2 Actions. **Using 1 Action imposes a -1d6 penalty to the check**.
 
 **Climb* (STR)**: With this skill, you can scale vertical surfaces, from city walls to rock faces. It is related to the Movement Action. With 8 points the Climbing movement is only halved.
 
-**Craft (INT)**: it is specified on a constructive ability, allows to build the object of the craft and to judge and evaluate work in the area of competence.
+**Craft (INT)**: This skill specifies a particular craft or trade and allows you to build objects related to that craft and judge and evaluate work in that area.
 
-**Deceive (CHA)**: The Deceive skill can be used to Bamboozle (telling tall tales) or Persuade (adapting the truth) in order to convince the interested party of your words. Variable cost.
+**Deceive (CHA)**: The Deceive skill can be used to bamboozle others (by telling tall tales) or mislead them (adapting the truth) in order to convince the interested party of your words. Variable cost.
 
 **Diplomacy (CHA)**: With this skill, you can resolve disputes and gather valuable information and rumors from people. The skill is also used to negotiate effectively with the right etiquette and conduct suitable for the controversial situation. Variable cost.
 
@@ -154,7 +154,7 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Knowledge of Geography (INT)**: With this skill, you have knowledge of climate, population, terrains, territories, nations, and borders. 1 Action.
 
-**Knowledge of Law (INT)**: With this skill, you know the Law of a region. You are expert in knowing norms and loopholes. You know how to cite cases and you know other pettifoggers and judges. 2 Actions.
+**Knowledge of Law (INT)**: With this skill, you know the law of a region. You are an expert in its rules and loopholes. You know how to cite cases and recognize other lawyers and judges. 2 Actions.
 
 **Knowledge of Languages (INT)**: Each point in this skill allows you to learn a new written and spoken language. A good Languages score helps to understand unknown languages and make yourself understood. It is also used to understand complex texts. Variable cost.
 
@@ -162,7 +162,7 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Knowledge of Nobility and Heraldry (INT)**: You know noble lines, houses, rumors, heraldic symbols, personalities, and the major possessions and treasures. It also applies to famous and important characters. 1 Action.
 
-**Knowledge of Planes (INT)**: With this skill, you are an expert on Planes and their inhabitants. 1 Action.
+**Knowledge of Planes (INT)**: With this skill, you are an expert on the Planes and their inhabitants. 1 Action.
 
 **Forgery (INT)**: With this skill, you know how to forge and recognize as false art objects, maps, signatures... Variable cost.
 
@@ -172,15 +172,15 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Intimidate (STR)**: Intimidate is based on the physical approach to convince the interested party. 1 Action.
 
-**Local Traditions (CHA)**: With this skill, you have knowledge of the inhabitants (most known), customs, legends, laws, personalities, traditions. It is necessary to specify a geographical region where the knowledge is applicable. 1 Action.
+**Local Traditions (CHA)**: With this skill, you have knowledge of the area' \*\*s inhabitants (the most prominent ones), customs, legends, laws, personalities, traditions. It is necessary to specify a geographical region where the knowledge is applicable. 1 Action.
 
 **Nature (WIS)**: With this skill, you have knowledge of Animals, Fey, seasons and cycles, weather, plants. 1 Action.
 
-**Occult Knowledge (INT)**: With this skill, you are an expert in the occult, foul creatures. 1 Action.
+**Occult Knowledge (INT)**: With this skill, you are an expert on the occult and foul creatures. 1 Action.
 
-**Perform (CHA)**: With this skill, you are an expert in an artistic expression, from singing to acting, from dancing to playing musical instruments. It is necessary to specify the form of entertainment. Variable cost.
+**Perform (CHA)**: With this skill, you are an expert in an artistic expression, from singing and acting to dancing and playing musical instruments. It is necessary to specify the form of entertainment. Variable cost.
 
-**Ride (WIS)**: With this skill it is possible to ride professionally and give commands to your mount. See Chapter Riding (page ) 1 Action.
+**Ride (WIS)**: With this skill, it is possible to ride professionally and give commands to your mount. See Chapter Riding (page ). 1 Action.
 
 **Sense Motive (WIS)**: With this skill, you can understand if someone is lying or you can intuit their true intentions. 1 Action.
 
@@ -188,13 +188,13 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Stealth* (DEX)**: With this skill, you are able to move without causing noise or hide in the shadows. 1 Action.
 
-**Survival (WIS)**: With this skill, you can survive and orient yourself in the wilderness. The skill is also used to actively search for traps and pits. 1 minute to search for traps in a 3x3 meter area, with score 6 costs 3 rounds, with score of 12 costs 1 round, with score 18 costs 1 Action.
+**Survival (WIS)**: With this skill, you can survive and orient yourself in the wilderness. The skill is also used to actively search for traps and pits. It takes 1 minute to search for traps in a 3x3-meter area; with a score of 6, it takes 3 rounds; with a score of 12, it takes 1 round; and with a score of 18, it takes 1 Action.
 
 **Swim* (STR)**: With this skill, you are able to swim, even in stormy waters. Without the skill, you know how to float in calm waters. Linked to the Movement Action.
 
 **Track (WIS)**: With this skill, you know how to follow tracks left in the environment. 1 Action for every 10 points of DC. With 6 points the time is 1 Action for every 15 points of DC, with 12 points it is 1 Action for every 20 points of DC.
 
-**Use Rope (DEX)**: With this skill, you are expert in bindings and knots to fix and block objects or people. 2 Actions.
+**Use Rope (DEX)**: With this skill, you are an expert in bindings and knots used to secure and restrain objects or people. 2 Actions.
 
 ## Active Skills
 
@@ -206,7 +206,7 @@ The **Active Skills** are: Magic Proficiency, Weapon Proficiency, Saving Throws 
 - **Weapon Proficiency (WP)**:  is the ability and skill to fight with a melee or ranged weapon.
 - **Saving Throws** represent the resistance, the physical and psychic capacity of the character.
 
-Attributing the Active Skills point to **Basic Skills** means distributing 4 additional points on at least 3 Basic Skills of your choice. Attributing the point to Saving Throws means increasing a Saving Throw by 1 point.
+Attributing the Active Skills point to **Basic Skills** means distributing 4 additional points among at least 3 Basic Skills of your choice. Attributing the point to Saving Throws means increasing a Saving Throw by 1 point.
 
 > There is only one way to train: the right way. (Carl Lewis)
 
@@ -227,7 +227,7 @@ The **Reflex Saving Throw** indicates how agile and ready you are to avoid obsta
 When a Saving Throw is requested, it means making a check on the required Active Proficiency, whether it' \*\*s Will, Fortitude, or Reflex.
 The check is performed by rolling 3d6 + the value of the required Active Proficiency, which is the score in the Will, Reflex, or Fortitude Saving Throw + the value of the Ability Score linked to the Active Proficiency type (Wisdom, Dexterity, or Constitution) + Feats + magical bonuses (items that affect the Saving Throw) and various modifiers present.
 
-It' \*\*s possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Narrator will tell you when a different modifier applies.
+It' \*\*s possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Game Master will tell you when a different modifier applies.
 
 ### Weapon Proficiency
 
@@ -284,7 +284,7 @@ A Magic Proficiency score of 14 and having taken Magic Adept 4 times, with a 4 i
 
 ### Optional - Feats as Active Proficiencies
 
-The Narrator may grant, at the player' \*\*s request, the ability to use the Active Proficiency point not to increase Magic or Weapon Proficiency, but to select a new Feat, respecting the requirements.
+The Game Master may grant, at the player' \*\*s request, the ability to use the Active Proficiency point not to increase Magic or Weapon Proficiency, but to select a new Feat, respecting the requirements.
 
 ### Base and Active Proficiency Scores
 

@@ -14,7 +14,7 @@ Monsters are explained and presented here, certainly not all of them nor exhaust
 
 ## Introduction
 
-An adventure is not just a set of adversaries but of situations, places, surprises, in short, of everything that can fascinate, involve, amaze, and engage the characters. But monsters also serve. Hitting has a cathartic, liberating aspect.
+An adventure is not just a set of adversaries but also of situations, places, surprises, in short, of everything that can fascinate, involve, amaze, and engage the characters. But monsters also serve. Hitting has a cathartic, liberating aspect.
 
 Insert difficult and lethal monsters into the adventure where needed, but occasionally, rarely, make the characters feel powerful, let them face monsters that they can resolve in very few rounds. Describe the combat by emphasizing the hits, the criticals, the pain and blood of the monsters. Make them understand how powerful the characters can be.
 
@@ -22,7 +22,7 @@ Other times, make the monsters instill fear because they are big, hungry, magica
 
 The strength of the adversary is in the confidence in describing the situation, in a few lines, in looking the players in the eyes. Involve the players, and once you have their attention, the characters will also be more attentive. Try to place monsters that are coherent with the environment, the adventure, the situation. Don' \*\*t randomly roll on tables; a well-organized encounter gives much more satisfaction than random monsters that *spawn*.
 
-Don' \*\*t reduce everything to an MMORG where the goal is just to kill everything and everyone; there can always be many choices if you put in a little effort.
+Don' \*\*t reduce everything to an MMORPG where the goal is just to kill everything and everyone; there can always be many choices if you put in a little effort.
 
 >> **Facing Monsters**: {
 Let this old man give you a couple of tips, young adventurer!
@@ -85,11 +85,11 @@ Celestials are good in nature; classic examples of celestials are angels, couatl
 
 **Elementals** are creatures native to the elemental planes. Some creatures of this type are little more than animated masses of their respective element, and include creatures simply called elementals. Other creatures possess biological forms infused with elemental energy. The races of genies, including djinn and efreet, form the most important civilizations on the elemental planes. Other elemental creatures are the azer, invisible stalkers, and water weird.
 
-**Fey** are magical creatures closely linked to the forces of nature. They live in hidden glades and misty forests. Examples of fey are dryads, pixies, fairies, and satyrs and The Topi.
+**Fey** are magical creatures closely linked to the forces of nature. They live in hidden glades and misty forests. Examples of fey are dryads, pixies, fairies, satyrs, and The Topi.
 
 **Giants** tower over humans and their kind. They are humanoid in form, although some have multiple heads (ettin) or deformities. The six variants of true giants are Hill Giant, stone giant, frost giant, fire giant, cloud giant, storm giant. Besides these, ogres and trolls are also giants.
 
-**Fiends** are generally called fiends evil creatures from other planes. Sometimes evil priests and spellcasters summon fiends to the material world to execute their will. If an evil celestial is a rarity, a good fiend is practically inconceivable. Fiends include demons, devils, hell hounds, rakshasas, gablin...
+**Fiends** are generally called fiends, evil creatures from other planes. Sometimes evil priests and spellcasters summon fiends to the material world to execute their will. If an evil celestial is a rarity, a good fiend is practically inconceivable. Fiends include demons, devils, hell hounds, rakshasas, gablin...
 
 **Oozes** are gelatinous creatures that rarely have a fixed form. They primarily live underground, settling in caves and dungeons, feeding on refuse, carcasses, or creatures unfortunate enough to encounter them. Black puddings and gelatinous cubes are among the most recognizable oozes.
 
@@ -97,7 +97,7 @@ Celestials are good in nature; classic examples of celestials are angels, couatl
 
 **Undead** are creatures once alive brought to a horrible state of undeath through the practice of necromantic magic or some blasphemous curse. Among the undead are walking corpses, such as vampires and zombies, or incorporeal spirits, such as ghosts and specters. Some more intelligent undead speak Expiran, a language made of dark whispers.
 
-**Plants**, in this context, are vegetable creatures, not normal flora. Most of them are mobile and some are carnivorous. The most classic example of plants are shambling mounds and Tree Man. Fungal creatures and myconids also fall into this category.
+**Plants**, in this context, are vegetable creatures, not normal flora. Most of them are mobile and some are carnivorous. The most classic examples of plants are shambling mounds and Tree Man. Fungal creatures and myconids also fall into this category.
 
 **Humanoids** are the main population of game worlds, civilized and wild, including humans and a wide range of other species. They possess a language and culture, few or no innate magical abilities (although many humanoids can learn spells), and a bipedal form. The most common humanoid races are those most suitable as player characters: humans, dwarves, elves, and nibali, outcasts. Almost as numerous, but more brutal and savage, and almost all evil, are the goblinoid races (goblins, hobgoblins, and bugbears), orcs, gnolls, lizardfolk, and kobolds.
 
@@ -136,7 +136,7 @@ It will happen that players will ask you ***how the monster is doing***; I sugge
 
 ### Bloodied
 
-At the Narrator' \*\*s discretion, a creature that has lost at least 50\% of its total Hit Points triggers a fury that allows it special actions.
+At the Game Master' \*\*s discretion, a creature that has lost at least 50\% of its total Hit Points triggers a fury that allows it special actions.
 Monsters with Challenge Rating 5 or more may have a **Bloodied** card. The Bloodied ability can be used once per encounter at the cost, if not otherwise noted, of 1 Action.
 
 Particularly fierce and powerful creatures might have more Bloodied notes, and both, respecting any conditions noted, can be activated.
@@ -412,7 +412,7 @@ See also Table: Treasure Values for Encounter (pg. ).
 - **Dragon**
 	Known for their precious treasures, dragons often rest on piles of coins, gems, magic items, and expensive items.
 - **Outsider**
-	Outsiders are among the most diverse creatures and, consequently, can possess any type of treasure, either on them or hidden in their shelters. The Narrator should evaluate each individual creature to determine the type of treasure most suitable for each outsider.
+	Outsiders are among the most diverse creatures and, consequently, can possess any type of treasure, either on them or hidden in their shelters. The Game Master should evaluate each individual creature to determine the type of treasure most suitable for each outsider.
 - **Fey**
 	Fey value beautiful and magical objects. They have little regard for coins and goods.
 - **Ooze - Parasite - Plant**

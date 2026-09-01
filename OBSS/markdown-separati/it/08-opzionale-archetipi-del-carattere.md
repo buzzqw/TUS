@@ -2,7 +2,7 @@
 
 Questa opzione presenta un sistema che integra gli archetipi junghiani  con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) , vengono presentati 21 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
-Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli  generalmente incompatibili o contraddittori (e per questo stimolanti) alla natura fondamentale dell'archetipo. Inoltre vengono elencati quali Patroni condividono almeno due Tratti (e quindi permettono di essere Devoti) con ogni archetipo, suggerendo affinità spirituali naturali.
+Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni che condividono almeno due Tratti (e quindi permettono di essere Devoti) con ogni archetipo, suggerendo affinità spirituali naturali.
 - Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
 - Considera di adottare almeno 2-3 dei Tratti raccomandati per quell'archetipo
 - Evita i Tratti sconsigliati a meno che tu non stia specificamente mirando a creare conflitto interno
@@ -93,7 +93,7 @@ Il personaggio custode della conoscenza che ha accumulato saggezza attraverso lo
 - **Patroni Allineati:** Atmos, Nethergal, Sixiser
 
 ## Il Sovrano
-Il personaggio che cerca di stabilire ordine e controllo su suo dominio.
+Il personaggio che cerca di stabilire ordine e controllo sul suo dominio.
 
 - **Tratti Raccomandati:** Ambizioso, Intransigente, Arrogante, Testardo
 - **Tratti Sconsigliati:** Indeciso, Codardo, Impulsivo
@@ -240,9 +240,9 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 ## Per i Giocatori
 
 - Usa gli archetipi come punto di partenza per la creazione del personaggio, selezionando Tratti che si allineano con il tuo archetipo scelto
-- Considera il potenziale viaggio archetipico del tuo personaggio, come potrebbe evolversi nel tempo?
+- Considera il potenziale viaggio archetipico del tuo personaggio: come potrebbe evolversi nel tempo?
 - Guarda ai Patroni allineati del tuo archetipo quando consideri affiliazioni spirituali
-- Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche inter-personaggio interessanti
+- Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche interessanti tra i personaggi
 
 ## Per il Narratore
 
@@ -252,7 +252,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 - Usa interventi dei Patroni per evidenziare o sfidare la natura archetipica di un personaggio
 - Progetta archi di campagna che seguono cicli archetipici classici
 
->>> **Gli Archetipi**: Questo sistema archetipico fornisce un altro livello di profondità alla creazione e sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
+>>> **Gli Archetipi**: Questo sistema archetipico fornisce un altro livello di profondità alla creazione e allo sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
 
 **Piuttosto che limitare la creatività, questi archetipi servono come framework e linee guida utili che possono essere abbracciati, sovvertiti o trasformati durante il viaggio di un personaggio**. L'integrazione di Tratti e affinità con i Patroni con pattern archetipici crea un ricco arazzo di possibilità per lo sviluppo del personaggio e la narrazione.
 

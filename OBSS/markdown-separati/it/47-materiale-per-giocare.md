@@ -34,4 +34,4 @@ https://github.com/buzzqw/TUS/blob/master/OBSS/changelog.md
 
 * **Segnalazioni**
 
-Per qualsiasi segnalazione o consiglio aprite una issue su GitHub, oppure mandatemi una mail all'indirizzo azanzani@gmail.com
+Per qualsiasi segnalazione o consiglio aprite un'issue su GitHub, oppure mandatemi una mail all'indirizzo azanzani@gmail.com.

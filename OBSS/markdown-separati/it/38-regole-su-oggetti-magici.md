@@ -13,24 +13,24 @@ Queste sono le indicazioni su l'utilizzo degli oggetti magici.
 - Un oggetto magico che fornisce un **bonus (o penalità) statico** applica il suo valore anche se l'oggetto non è stato identificato, sarà il Narratore ad applicare silenziosamente questo bonus alla Difesa, Tiro per Colpire, Tiri Salvezza... informando il giocatore che percepisce come l'oggetto interagisca con la situazione.
 - Un oggetto magico che ha degli usi giornalieri si ricarica all'alba del giorno successivo all'uso.
 - Bacchette, Bastoni, Pergamene (non Isy), Verghe sono usabili solo da personaggi che abbiano il punteggio di CM pari al livello di incantesimo più alto formulabile dall'oggetto.
-- Se spendi l'ultima carica della bacchetta, tira 1d6 se ottieni 1 la bacchetta si riduce in polvere ed è distrutta
+- Se spendi l'ultima carica della bacchetta, tira 1d6 se ottieni 1, la bacchetta si riduce in polvere ed è distrutta
 - Un oggetto magico impiega 10 minuti di tempo una volta indossato prima di permettere di usare i suoi modificatori, bonus o talenti.
 
 ### Armi
 
 **Abilità Speciali**: un'arma con una capacità speciale deve avere almeno bonus di +1. Le armi non possono avere la stessa capacità speciale più di una volta.
 
-Il bonus magico di un **arma può essere compreso** tirando di due critici in un Tiro per Colpire oppure dedicando 1 ora di allenamento, eventuali talenti o abilità magiche rimangono celate.
+Il bonus magico di un'**arma può essere compreso** tirando di due critici in un Tiro per Colpire oppure dedicando 1 ora di allenamento, eventuali talenti o abilità magiche rimangono celate.
 
 ### Armature e Scudi
 
 **Abilità Speciali**: un'armatura o scudo con una capacità speciale deve avere almeno bonus di +1. Armature e Scudi non possono avere la stessa capacità speciale più di una volta. Vedi anche sezione Armatura, Scudi e Magia .
 
-Un'*armatura* +1 abbassa di 1 la penalità di Competenza e di 1 metro la quella al movimento
+Un'*armatura* +1 abbassa di 1 la penalità di Competenza e di 1 metro quella al movimento
 
-Una armatura o *scudo* +2 riduce di 2 la penalità data dall'armatura alla Prova di Magia.
+Un'armatura o *scudo* +2 riduce di 2 la penalità data dall'armatura alla Prova di Magia.
 
-Una armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità al Movimento e riduce di ulteriori due la penalità data dall'armatura alla Prova di Magia.
+Un'armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità al Movimento e riduce di ulteriori due la penalità data dall'armatura alla Prova di Magia.
 
 **Il costo di Armi e Armature**: di dimensioni superiori alle Medie è almeno il doppio (o quadruplo in base alla taglia). Armature piccole o Armi piccole pur richiedendo meno materiale costano la medesima cifra delle armi e armature medie.
 
@@ -123,7 +123,7 @@ c'è una probabilità del 75\% che qualsiasi oggetto di quel valore o inferiore 
 
 Dopo aver determinato il numero di oggetti disponibili in ogni categoria, consultate il capitolo Generazione casuale degli Oggetti Magici per determinare il tipo di ogni oggetto (pozione, pergamena, anello, arma,ecc.) prima di passare alle tabelle specifiche per stabilire l'oggetto esatto. Ritirate ogni volta che gli oggetti non si adeguano al valore base della comunità.
 
-Se l'uso della magia nella campagna in cui si gioca è raro, occorre dimezzare il valore base e il numero di oggetti in ogni comunità. Nelle campagne con magia estremamente rara o senza magia potrebbero non esserci affatto oggetti magici in vendita I Narratori che conducono questo tipo di campagne dovrebbe prevedere delle modifiche alle sfide affrontate dai personaggi data la mancanza di oggetti magici.
+Se l'uso della magia nella campagna in cui si gioca è raro, occorre dimezzare il valore base e il numero di oggetti in ogni comunità. Nelle campagne con magia estremamente rara o senza magia potrebbero non esserci affatto oggetti magici in vendita. I Narratori che conducono questo tipo di campagne dovrebbero prevedere delle modifiche alle sfide affrontate dai personaggi data la mancanza di oggetti magici.
 
 Le campagne con abbondanti oggetti magici potrebbero avere comunità con il doppio del valore base stabilito e degli oggetti magici casuali disponibili. In alternativa, si potrebbe stabilire che tutte le comunità siano di una categoria di dimensione maggiore allo scopo di stabilire gli oggetti magici disponibili. In una campagna con magia molto comune, tutti gli oggetti magici si possono acquistare in una metropoli.
 
@@ -131,9 +131,9 @@ Oggetti e attrezzi non magici sono in genere disponibili in una comunità di qua
 
 ## Gli artefatti del vecchio mondo
 
-Nel corso delle avventure i giocatori troveranno degli oggetti del passato dimenticato. Potranno essere chincaglieria senza utilità se non come reperto storico di un era che non tornerà più. Potranno spesso essere apparati elettronici che senza una fonte di energia non funzioneranno mai..
+Nel corso delle avventure i giocatori troveranno degli oggetti del passato dimenticato. Potranno essere chincaglieria senza utilità se non come reperto storico di un'era che non tornerà più. Potranno spesso essere apparati elettronici che senza una fonte di energia non funzioneranno mai.
 
-Potranno essere altrimenti strumenti creati negli ultimi giorni della prima era quando appresi i rudimenti della magia qualche genio e Devoto riuscì a sfruttare la tecnologia con la magia, riuscì ad attivare *magicamente* un apparato tecnologico.
+Potranno essere altrimenti strumenti creati negli ultimi giorni della prima era quando appresi i rudimenti della magia, qualche genio e Devoto riuscì a sfruttare la tecnologia con la magia, riuscì ad attivare *magicamente* un apparato tecnologico.
 
 Non stupiamoci allora di trovare oggetti che possano essere ricaricati, anche se per poco tempo, con *Stretta Folgorante*, o veicoli funzionanti se colpiti da un *Fulmine*.
 

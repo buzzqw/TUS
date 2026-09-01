@@ -6,7 +6,7 @@ Armatura Fantozzi: banderuola 4 venti in funzione di pennacchio, pauroso elmo vi
 
 Le armature aiutano ad essere non colpiti (alzano la Difesa) e penalizzano la Prova di Magia e le prove di competenza di Base.
 
-La Penalità Competenze è la penalità che si applica alle prove di competenza di Base influenzate dal peso ed Ingombro dell'armatura. Armature diverse, specifiche o magiche hanno punteggio diversi, questa tabella serve come linea guida per il Narratore.
+La Penalità Competenze è la penalità che si applica alle prove di competenza di Base influenzate dal peso ed Ingombro dell'armatura. Armature diverse, specifiche o magiche hanno punteggi diversi, questa tabella serve come linea guida per il Narratore.
 
 ### Tabella Armature
 
@@ -26,9 +26,9 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 
 **Costo**: è per un armatura di taglia media.
 
-**Difesa**: è il bonus data alla Difesa
+**Difesa**: è il bonus dato alla Difesa
 
-**Penalità Comp.**: è la penalità dato alle prove di Competenza di Base dato dal peso ed Ingombro dell'armatura.
+**Penalità Comp.**: è la penalità data alle prove di Competenza di Base dato dal peso ed Ingombro dell'armatura.
 
 **Tipo**: indica se l'armatura è **L**eggera, **M**edia oppure **P**esante.
 
@@ -36,21 +36,21 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 
 **Mov. (movimento)**: è la riduzione in metri di movimento da applicare per Azione di Movimento.
 
-**Prova Magia**: Il - indica che non si è obbligati a farla. I numeri indicati è l'aumento di difficoltà della Prova di Magia.
+**Prova Magia**: Il - indica che non si è obbligati a farla. I numeri indicati sono l'aumento di difficoltà della Prova di Magia.
 
-**Costo**: il costo di un'armatura o scudo +1 è di 2250mo, +2 10000mo. Non è praticamente possibile acquistare armature o scudi od armi con incantamenti superiore a +2, devono essere *trovate*.
+**Costo**: il costo di un'armatura o scudo +1 è di 2250mo, +2 10000mo. Non è praticamente possibile acquistare armature o scudi od armi con incantamenti superiori a +2, devono essere *trovate*.
 
 **Controllate i requisiti** per indossare un Armatura o Scudo a pag. .
 
 ### Armature, Scudi e Magia
 
-Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi ad superare una Prova di Magia con un aumento di difficoltà indicato nella tabella.
+Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi a superare una Prova di Magia con un aumento di difficoltà indicato nella tabella.
 
 Es. Tups indossa una armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura ad effettuare la Prova di Magia. Tira 3d6 +4 dadi (perché ha 9 punti in CM), ignora 2 dadi (perché ha preso 4 volte Adepto della Magia).
 
 La difficoltà dell'incantesimo che lancia, Fulmine, è 10+ 2*3 (livello Incantesimo) +8 (difficoltà aggiuntiva data dall'armatura)
 
-Nella prova esce 4,5,5 / 3,4,\st,\st. Toglie i due 1 per Adepto della Magia, valgono zero e se ne avesse fatti 3 sarebbe stato un Fallimento Critico!. Totale 4+5+5+3+4=21 , contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
+Nella prova esce 4,5,5 / 3,4,\st,\st. Toglie i due 1 per Adepto della Magia, valgono zero e se ne avesse fatti 3 sarebbe stato un Fallimento Critico!. Totale 4+5+5+3+4=21, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
 
 Se Tups avesse indossato una Cuoio Rinforzato la difficoltà sarebbe aumentata *solo* di 4 e quindi sarebbe riuscito a lanciare l'incantesimo.
 
@@ -99,7 +99,7 @@ Le armature medie offrono più protezione di quelle leggere, ma limitano i movim
 
 Dormire in un'armatura leggera non provoca Affaticamento.
 
-La **capacità di movimento** del personaggio rimarrà la medesima fino all'armatura a bande poi calerà progressivamente. Il valore indicato nella colonna Mov. sono i metri in meno che il personaggio fa per Azione di Movimento.
+La **capacità di movimento** del personaggio rimarrà la medesima fino all'armatura a bande poi calerà progressivamente. Il valore indicato nella colonna Mov. indica i metri in meno che il personaggio fa per Azione di Movimento.
 
 Ad esempio un umano in armatura completa ha movimento 6 metri, un nano 3 metri.
 
@@ -107,18 +107,18 @@ Ad esempio un umano in armatura completa ha movimento 6 metri, un nano 3 metri.
 
 **Armature Perfette**
 
-Un'armatura perfetta è un armatura creata da un abilissimo fabbro che pur non essendo magica, grazie al suo perfetto bilanciamento, ha un +1 alla Difesa. Un fabbro per creare un armatura perfetta deve superare con un Successo Critico la DC impostata per la creazione dell'armatura. Un Armatura perfetta costa il doppio di un armatura normale.
+Un'armatura perfetta è un'armatura creata da un abilissimo fabbro che pur non essendo magica, grazie al suo perfetto bilanciamento, ha un +1 alla Difesa. Un fabbro per creare un armatura perfetta deve superare con un Successo Critico la DC impostata per la creazione dell'armatura. Un'armatura perfetta costa il doppio di un'armatura normale.
 
 ### Armature e Scudi magici
 
-Un armatura magica o scudo magico non solo protegge meglio ma è anche più leggera e affine alla magia.
+Un'armatura magica o scudo magico non solo protegge meglio ma è anche più leggera e affine alla magia.
 
-Una armatura +1 abbassa di 1 la penalità di Competenza e di 1 metro la quella al movimento.
-Una armatura o scudo +2 inoltre diminuisce la penalità alla Prova di Magia di 2. Una armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità Movimento e riduce di ulteriori 2 la penalità dalla Prova di Magia.
+Un'armatura +1 abbassa di 1 la penalità di Competenza e di 1 metro la penalità al movimento.
+Un'armatura o scudo +2 inoltre diminuisce la penalità alla Prova di Magia di 2. Un'armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità Movimento e riduce di ulteriori 2 la penalità alla Prova di Magia.
 
 ### Gli Scudi
 
-Gli **Scudi** permettono di aumentare la propria Difesa, più lo scudo è imponente e pesante più protegge, più aumentano le penalità alle prove di competenza magica e meno rende facile combattere (penalità Tiro per Colpire).
+Gli **Scudi** permettono di aumentare la propria Difesa, più lo scudo è imponente e pesante più protegge, più aumentano le penalità alle prove di competenza magica e meno rendono facile combattere (penalità Tiro per Colpire).
 
 Gli Scudi possono essere di tipo Leggero, Medio, Pesante.
 
@@ -153,7 +153,7 @@ Imbracciare uno scudo occupa la mano ed il braccio.
 
 ### Indossare e Togliere Armature
 
-Indossare e togliere armature è una operazione che richiede tempo ed attenzione, farlo in fretta non aiuta ed anzi tende a peggiorare la protezione fornita.
+Indossare e togliere armature è un'operazione che richiede tempo ed attenzione, farlo in fretta non aiuta ed anzi tende a peggiorare la protezione fornita.
 
 **Tabella: Tempi per indossare e togliere l'armatura**
 

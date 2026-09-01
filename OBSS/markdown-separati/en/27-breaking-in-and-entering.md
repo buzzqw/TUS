@@ -61,7 +61,7 @@ See also Table: Doors, p.
 
 **Hardness**: represents the object' \*\*s resistance to being scratched or damaged. When calculating damage to an object, **subtract the Hardness** of the material before applying the damage.
 
-**Energy Attacks**: almost all objects have Resistance to damage from energy attacks (fire, electricity..); divide the damage by 2 before applying Hardness, while other objects might be particularly vulnerable.
+**Energy Attacks**: almost all objects have Resistance to damage from energy attacks (fire, electricity...); divide the damage by 2 before applying Hardness, while other objects might be particularly vulnerable.
 
 For example, fire might deal double damage to scrolls, cloth, and other objects that burn easily. Crystal or ceramic objects and creatures might take double damage (vulnerability) from a sonic attack.
 

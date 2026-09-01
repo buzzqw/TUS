@@ -4,7 +4,7 @@
 
 Il reato di furto sarà punito con il marchio a fuoco dei ladri, in pieno petto. In caso di reiterazione del reato saranno mozzate prima le orecchie e poi due dita delle mani. (Twoslad, Diritti e Doveri Cittadini)
 
-Quando si tenta di spaccare un oggetto le scelte sono due: colpirlo con un'oggetto (arma?) o romperlo con la forza bruta.
+Quando si tenta di spaccare un oggetto le scelte sono due: colpirlo con un oggetto (arma?) o romperlo con la forza bruta.
 
 ## Le dimensioni contano...
 
@@ -26,7 +26,7 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 **Modificatore Difesa**
 
-Gli oggetti sono più facili da colpire delle creature poiché di solito non si muovono ma molti sono abbastanza resistenti da ignorare del danno ad ogni colpo. La Difesa di un oggetto è pari a 10 + il suo modificatore di Taglia (vedi Tabella: Colpire un Oggetto) + il suo modificatore di Destrezza (caso mai ne avesse uno).
+Gli oggetti sono più facili da colpire delle creature poiché di solito non si muovono ma molti sono abbastanza resistenti da ignorare il danno ad ogni colpo. La Difesa di un oggetto è pari a 10 + il suo modificatore di Taglia (vedi Tabella: Colpire un Oggetto) + il suo modificatore di Destrezza (caso mai ne avesse uno).
 
 Se si usano 3 Azioni per prendere la mira si colpisce automaticamente con un'arma da mischia.
 
@@ -61,7 +61,7 @@ Vedi anche Tabella: Porte, pag.
 
 **Durezza**: rappresenta la resistenza dell'oggetto a essere scalfitto o danneggiato. Quando si calcola il danno ad un oggetto va **sottratta la Durezza** del materiale prima di applicare il danno.
 
-**Attacchi di Energia**: quasi tutti gli oggetti hanno Resistenza al danno verso gli attacchi di energia (fuoco, elettricità..), dividete per 2 i danni prima di applicare la Durezza mentre altri oggetti potrebbero essere particolarmente vulnerabili.
+**Attacchi di Energia**: quasi tutti gli oggetti hanno Resistenza al danno verso gli attacchi di energia (fuoco, elettricità...), dividete per 2 i danni prima di applicare la Durezza mentre altri oggetti potrebbero essere particolarmente vulnerabili.
 
 Per esempio, il fuoco potrebbe infliggere il doppio del danno a pergamene, stoffa e altri oggetti che bruciano facilmente. Oggetti e creature in cristallo o ceramica potrebbero subire danno doppio (vulnerabilità) contro un attacco sonoro.
 
@@ -70,17 +70,17 @@ Energia Negativa o Positiva non danneggiano gli oggetti, solo le creature vivent
 **Armi Inefficaci**: Certe armi semplicemente non possono infliggere danni a certi oggetti. Per esempio, un'arma contundente non è in grado di tagliare una corda.
 Allo stesso modo è decisamente difficile abbattere una porta o un muro di pietra con la maggior parte delle armi da mischia a meno che non siano specificamente ideate per farlo come picconi e martelli.
 
-**Immunità**: Gli oggetti inanimati sono immuni ai Danni Non Letali e ai Danno Critici (ma non all'esplosione del danno). Anche gli oggetti animati, se non considerati come delle creature, hanno queste immunità.
+**Immunità**: Gli oggetti inanimati sono immuni ai Danni Non Letali e ai Danni Critici (ma non all'esplosione del danno). Anche gli oggetti animati, se non considerati come delle creature, hanno queste immunità.
 
 **Oggetti Danneggiati**: Un oggetto danneggiato rimane pienamente funzionale fino a quando i Punti Ferita non arrivano a 0, e a quel punto è considerato distrutto. Gli oggetti danneggiati (ma non quelli distrutti) possono essere riparati da una Professione Artigiano e alcuni Incantesimi.
 
-**Tiro Salvezza**: Gli oggetti non magici incustoditi non effettuano mai Tiro Salvezza. Si considera che abbiano fallito i loro Tiro Salvezza se disponibile.
+**Tiro Salvezza**: Gli oggetti non magici incustoditi non effettuano mai Tiro Salvezza. Si considera che abbiano fallito i loro Tiri Salvezza se disponibile.
 
 Un oggetto custodito da un personaggio (che lo tenga in mano, lo tocchi o lo indossi) riesce nel Tiro Salvezza se il personaggio riesce nello stesso.
 
-**Gli Oggetti Magici hanno sempre Tiro Salvezza**. Il bonus ai Tiri Salvezza su Tempra, Riflessi o Volontà di un Oggetti Magico è pari a 2 + livello x2 dell'incantesimo più potente che ospitano. Se l'oggetto non ha un incantesimo si considera un bonus di +4 per ogni +1 di bonus posseduto. Gli Oggetti Magici custoditi (indossati) effettuano il Tiro Salvezza solo se il loro possessore fallisce il proprio. Se un effetto influenza specificatamente l'oggetto magico e non chi lo indossa allora è solo l'oggetto magico ad effettuare il Tiro Salvezza.
+**Gli Oggetti Magici hanno sempre Tiro Salvezza**. Il bonus ai Tiri Salvezza su Tempra, Riflessi o Volontà di un Oggetto Magico è pari a 2 + livello x2 dell'incantesimo più potente che ospitano. Se l'oggetto non ha un incantesimo si considera un bonus di +4 per ogni +1 di bonus posseduto. Gli Oggetti Magici custoditi (indossati) effettuano il Tiro Salvezza solo se il loro possessore fallisce il proprio. Se un effetto influenza specificatamente l'oggetto magico e non chi lo indossa allora è solo l'oggetto magico ad effettuare il Tiro Salvezza.
 
-Un **oggetto incantato** come un arma o armatura ha Durezza, Punti Ferita e DC per romperlo aumentati della metà rispetto all'equivalente non magico.
+Un **oggetto incantato** come un'arma o armatura ha Durezza, Punti Ferita e DC per romperlo aumentati della metà rispetto all'equivalente non magico.
 
 **Oggetti animati**: Gli oggetti animati contano come creature per determinarne la Difesa e Punti Ferita (non sono considerati oggetti inanimati).
 

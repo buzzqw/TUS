@@ -8,32 +8,32 @@ La tragedia dei mostri è di essere troppo grandi e potenti per essere accettati
 
 Per aspera ad astra! ("attraverso le asperità sino alle stelle")
 
-Benvenuti in un universo ricco di avversari, spesso cattivi, altre volte violenti, pure subdoli, anche intelligenti, forse meschini e quasi sempre giganteschi.. e quant'altro tu vorrai. I mostri sono il caposaldo di qualsiasi gioco di ruolo fantasy.
+Benvenuti in un universo ricco di avversari, spesso cattivi, altre volte violenti, pure subdoli, anche intelligenti, forse meschini e quasi sempre giganteschi... e quant'altro tu vorrai. I mostri sono il caposaldo di qualsiasi gioco di ruolo fantasy.
 
-Vengono qui spiegati e presentati dei mostri, non certo tutti ne tanto meno esaustivi, usateli per popolare di incubi le avventure dei vostri compagni.
+Vengono qui spiegati e presentati dei mostri, non certo tutti né tanto meno esaustivi, usateli per popolare di incubi le avventure dei vostri compagni.
 
 ## Introduzione
 
-Un avventura non è solo un insieme di avversari ma di situazioni, di luoghi, di sorprese, insomma di tutto ciò che può affascinare, coinvolgere stupire, impegnare i personaggi. Ma anche i mostri servono. Picchiare ha un aspetto catartico, liberatorio.
+Un'avventura non è solo un insieme di avversari ma di situazioni, di luoghi, di sorprese, insomma di tutto ciò che può affascinare, coinvolgere, stupire, impegnare i personaggi. Ma anche i mostri servono. Picchiare ha un aspetto catartico, liberatorio.
 
 Inserite nell'avventura mostri difficili e letali dove serve ma ogni tanto, raramente, fate sentire i personaggi potenti, fategli affrontare mostri che in pochissimi round possono risolvere. Descrivete il combattimento enfatizzando i colpi, i critici, il dolore ed il sangue dei mostri. Fate capire quanto possano essere potenti i personaggi.
 
-Altre volte fate che i mostri incutano timore perché' sono grossi, affamati, magici e cattivi, è necessario che i giocatori abbiano paura per i loro personaggi, che non diano mai per scontato la vittoria.
+Altre volte fate che i mostri incutano timore perché sono grossi, affamati, magici e cattivi, è necessario che i giocatori abbiano paura per i loro personaggi, che non diano mai per scontato la vittoria.
 
-La forza dell'avversario è nella sicurezza nel descrivere la situazione, in poche battute, il fissare negli occhi i giocatori. Coinvolgete i giocatori ed una volta che avrete la loro attenzione anche i personaggi saranno più attenti. Cercate di mettere mostri coerenti all'ambiente, all'avventura, alla situazione. Non tirate a caso su tabelle, uno scontro ben organizzato da molta più soddisfazione che mostri a caso che *spawnano*.
+La forza dell'avversario è nella sicurezza nel descrivere la situazione, in poche battute, il fissare negli occhi i giocatori. Coinvolgete i giocatori ed una volta che avrete la loro attenzione anche i personaggi saranno più attenti. Cercate di mettere mostri coerenti all'ambiente, all'avventura, alla situazione. Non tirate a caso su tabelle, uno scontro ben organizzato dà molta più soddisfazione che mostri a caso che *spawnano*.
 
-Non riducete tutto a un MMORG dove l'obiettivo è solo uccidere tutto e tutti, ci possono essere sempre tante scelte se ti impegni un pò.
+Non riducete tutto a un MMORG dove l'obiettivo è solo uccidere tutto e tutti, ci possono essere sempre tante scelte se ti impegni un po'.
 
 >> **Affrontare i mostri**: {
-Lascia che questo vecchio ti dia un paio di consigli giovane avventuriero!
+Lascia che questo vecchio ti dia un paio di consigli, giovane avventuriero!
 
 - Non tutti i nemici si sconfiggono con la spada, molte volte serve anche una mazza!
 
 - A volte le armi e la forza bruta non bastano. Se non hai compagni che possono lanciare incantesimi assicurati di avere sempre la possibilità di appiccare un fuoco.
 
-- Scappa. È sempre una opzione valida se hai modo e vedi che la situazione non promette niente di buono.
+- Scappa. È sempre un'opzione valida se hai modo e vedi che la situazione non promette niente di buono.
 
-- Organizzati! non entrare nel dungeon a testa bassa senza mai fermarti tranne quando sei morto! Riposati, esplora, controlla l'ambiente e quando sei sicuro e stai meglio prosegui! anche i tuoi nemici si organizzano e si riposano intanto, stai attento!
+- Organizzati! Non entrare nel dungeon a testa bassa senza mai fermarti tranne quando sei morto! Riposati, esplora, controlla l'ambiente e quando sei sicuro e stai meglio prosegui! Anche i tuoi nemici si organizzano e si riposano intanto, stai attento!
 
 - A volte si può anche parlare con i nemici, anche loro non vogliono morire sempre.
 
@@ -41,7 +41,7 @@ Lascia che questo vecchio ti dia un paio di consigli giovane avventuriero!
 
 ## Modificare le Creature
 
-Nonostante la variopinta collezione di incontri presente in questo manuale, potresti comunque trovarti in imbarazzo quando si tratta di trovare la creatura perfetta per una tua avventura. Sentiti libro di modificare le creature esistenti e trasformarle in qualcosa che ti sia più utile, magari prendendo in prestito uno o due caratteristiche da un mostro diverso.
+Nonostante la variopinta collezione di incontri presente in questo manuale, potresti comunque trovarti in imbarazzo quando si tratta di trovare la creatura perfetta per una tua avventura. Sentiti libero di modificare le creature esistenti e trasformarle in qualcosa che ti sia più utile, magari prendendo in prestito uno o due caratteristiche da un mostro diverso.
 
 Tieni a mente che modificare un avversario potrebbe cambiarne il grado di sfida.
 
@@ -49,7 +49,7 @@ Tieni a mente che modificare un avversario potrebbe cambiarne il grado di sfida.
 
 Un mostro può essere di taglia Minuscola, Piccola, Media, Grande, Enorme o Mastodontica e Colossale. La tabella Categorie di Taglia mostra la grandezza media di una creatura e quanto spazio occupi sulla griglia.
 
-Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usata (pensate ad un gigantesco spadone brandito da un titano..)
+Se non indicata la portata di una creatura dipende dalla taglia e dall'arma usata (pensate ad un gigantesco spadone brandito da un titano...)
 
 **Tabella: Categorie di Taglia, Quadretti occupati e Portata**
 
@@ -95,7 +95,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 
 **Mostruosità**, sono mostri nel senso più stretto del termine creature spaventose che non sono comuni, né davvero naturali, e quasi mai benigne. Alcune sono il risultato di esperimenti magici andati male, mentre altri sono il prodotto di terribili maledizioni (tra cui ricordiamo il minotauro). Sfuggono a qualsiasi categorizzazione, e in qualche modo servono da categoria onnicomprensiva per quelle creature che non corrispondono a nessun altro tipo di mostro.
 
-**Non Morti**, sono creature un tempo vive condotte ad un orribile stato di non morte tramite la pratica della magia negromantica o qualche blasfema maledizione. Tra i non morti si annoverano cadaveri ambulanti, come vampiri e zombi, oppure spiriti incorporei, come fantasmi e spettri. Alcuni non morti più intelligenti parlano Expiran, una lingua fatti di oscuri sussurri.
+**Non Morti**, sono creature un tempo vive condotte ad un orribile stato di non morte tramite la pratica della magia negromantica o qualche blasfema maledizione. Tra i non morti si annoverano cadaveri ambulanti, come vampiri e zombi, oppure spiriti incorporei, come fantasmi e spettri. Alcuni non morti più intelligenti parlano Expiran, una lingua fatta di oscuri sussurri.
 
 **Piante**, in questo contesto si tratta di creature vegetali, non della normale flora. La maggior parte di esse sono mobili e alcune sono carnivore. L'esempio più classico di piante sono i Cumulo Strisciante e gli Uomini Albero. Anche le creature fungoidi e i miconidi rientrano in questa categoria.
 
@@ -103,7 +103,7 @@ I celestiali sono di natura buona, esempi classici di celestiali sono angeli, co
 
 Queste categorie possono essere a loro volta raggruppate in tipologie di Creature:
 
-- Le **Creature Naturali**: sono Insetti, Rettili, Bestie, Umanoidi, Piante, Creature acquatiche, Mostrusità, Melme
+- Le **Creature Naturali**: sono Insetti, Rettili, Bestie, Umanoidi, Piante, Creature acquatiche, Mostruosità, Melme
 - Le **Creature Magiche** sono: Immondi, Demoni, Diavoli, Fatati, Spiriti, Non morti, Giganti, Celestiali, Costrutti, Aberrazioni (tutto ciò che è alieno o innaturale) e Draghi.
 
 Se una Creatura Naturale ha poteri magici allora si considera anche come Creatura Magica.
@@ -121,7 +121,7 @@ Determinate creature sono **disallineate**, ovvero non hanno una condotta morale
 
 Un mostro che indossa un'armatura o trasporta uno scudo ha una Difesa che tiene conto dell'armatura, dello scudo e della Destrezza. Altrimenti, la Difesa di un mostro è basata sul suo valore di Destrezza e l'armatura naturale se la possiede (la "*pellaccia*"). Se un mostro possiede un'armatura naturale, indossa armature o trasporta uno scudo, viene indicato tra parentesi dopo il valore della sua Difesa.
 
-Qualora il mostro fosse **colto di sorpresa** sottraete alla Difesa -4.
+Qualora il mostro fosse **colto di sorpresa**, sottraete alla Difesa -4.
 
 ## Punti Ferita
 
@@ -140,7 +140,7 @@ I mostri con Grado di Sfida 5 o più possono avere una scheda **Arrabbiato**. L'
 
 Creature particolarmente feroci e potenti potrebbero avere più note di Arrabbiato ed entrambe, rispettando le eventuali condizioni segnate, sono attivabili.
 
-Potete anche decidere che la creatura annulla una condizione che ha su di se.
+Potete anche decidere che la creatura annulla una condizione che ha su di sé.
 
 ## Movimento
 
@@ -194,15 +194,15 @@ Se non indicata, ma necessaria per le prove (non al Tiro per Colpire, dove si us
 ## Vulnerabilità, Resistenze e Immunità
 Alcune creature possiedono vulnerabilità, resistenze o immunità ad un certo tipo di danno. Creature particolari sono addirittura resistenti o immuni agli attacchi non magici (un attacco magico è un attacco sferrato tramite un incantesimo, un oggetto magico o arma, o un'altra fonte di magia).
 
-Quando è indicata una immunità alle armi magiche (es. +1 oppure +2) significa che bisogna usare un arma con un incantamento maggiore per poter danneggiare la creatura. In caso di creature immune ai critici questo vale sia per incantesimi che per armi, rimane efficace l'esplosione del danno. .
+Quando è indicata una immunità alle armi magiche (es. +1 oppure +2) significa che bisogna usare un'arma con un incantamento maggiore per poter danneggiare la creatura. In caso di creature immuni ai critici questo vale sia per incantesimi che per armi, rimane efficace l'esplosione del danno. .
 
-Una creatura immune alle armi non magiche o +1 ma vulnerabile al ferro freddo o all'argento applica prima le sue immunità poi se passate applica le vulnerabilità all'attacco subito, e quindi un arma d'argento non farà danno, ma se d'argento +1 farà il doppio del danno.
+Una creatura immune alle armi non magiche o +1 ma vulnerabile al ferro freddo o all'argento applica prima le sue immunità poi se passate applica le vulnerabilità all'attacco subito, e quindi un'arma d'argento non farà danno, ma se d'argento +1 farà il doppio del danno.
 
 Inoltre, certe creature sono immuni a determinate condizioni. Se un mostro è immune ad un effetto di gioco che non viene considerato danno o condizione, possiede invece un tratto speciale.
 
 Nella tabella sottostante viene indicato quale incantamento magico dell'arma è necessario per superare l'immunità indicata. È anche indicato il punteggio minimo di Competenza Armi nel caso si colpisca con calci e pugni.
 
-In caso di personaggio con Lista d'Armi **Pugno Vuoto** si controlla quanto volte si è presa la lista.
+In caso di personaggio con Lista d'Armi **Pugno Vuoto** si controlla quante volte si è presa la lista.
 
 ## Consapevolezza
 
@@ -248,7 +248,7 @@ Una creatura nell'area di un *campo anti-magia* o in qualsiasi altro posto in cu
 
 Il **grado di sfida** (GS) di un mostro vi dice quanto sia grande la minaccia che pone. Una compagnia di quattro avventurieri equipaggiata in maniera appropriata e riposata deve essere in grado di sconfiggere un mostro dal grado di sfida pari al proprio livello medio senza subire perdite. Ad esempio, una compagnia di quattro personaggi di 3° livello dovrebbe ritenere un mostro di grado di sfida 3 una sfida normale e non pericolosa.
 
-I mostri che sono significativamente più deboli dei personaggi di 1° livello hanno un grado di sfida inferiore ad 1. I mostri con un grado di sfida 0 non presentano problemi eccetto in grandi numeri, quelli privi di reali attacchi non valgono punti esperienza.
+I mostri che sono significativamente più deboli dei personaggi di 1° livello hanno un grado di sfida inferiore a 1. I mostri con un grado di sfida 0 non presentano problemi eccetto in grandi numeri, quelli privi di reali attacchi non valgono punti esperienza.
 
 ## Riconoscere i Mostri 
 
@@ -263,14 +263,14 @@ Per **riconoscere un mostro** si effettua una prova di Conoscenza. (**1 Azione**
 - **Dungeon**: Aberrazioni, Mostruosità, Melme e creature sotterranee
 - **Natura**: Bestie, Piante, Fatati
 
-La DC delle prova è pari **10 + grado di Sfida** della creatura + **fattore di rarità**/notorietà (comune (0), non comune (+1), raro (+2), molto raro (+4), leggendario +(10)).
+La DC della prova è pari **10 + grado di Sfida** della creatura + **fattore di rarità**/notorietà (comune (0), non comune (+1), raro (+2), molto raro (+4), leggendario +(10)).
 
 Le informazioni ottenibili dipendono dal margine di successo ottenuto.
 - **entro 2**: nome, tipo, la Caratteristica principale
 - **fino 7**: quale è il migliore Tiro Salvezza, una immunità a Condizioni, una vulnerabilità a Danni, attacco tipico
 - **fino 12**: quale è il peggiore Tiro Salvezza, una immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
 - **fino 15**: due immunità a Condizioni, una immunità a Danni, una vulnerabilità a Condizioni, una vulnerabilità a tipo di Danno
-- **fino 17**: grado di sfida relativo ovvero se è una scontro facile, medio, alto, straordinario, mortale o epico
+- **fino 17**: grado di sfida relativo ovvero se è uno scontro facile, medio, alto, straordinario, mortale o epico
 - **oltre 17**: attacco e difese speciali
 
 Le informazioni ottenute sono cumulative, ovvero se la prova riesce di 15 ottieni le informazioni entro 2, 7 e 12.
@@ -307,11 +307,11 @@ L'azione più comune che un mostro effettuerà in combattimento sarà un attacco
 
 Anche nel Tiro per Colpire per i Mostri valgono le Golden Rules.
 
-Il Tiro per Colpire del mostro **non ha applica danno critico ne esplosione del danno**, ma **non subisce penalità per il multiattacco**. Ogni attacco del mostro, quindi anche 3 attacchi a round, viene effettuato con il Tiro per Colpire senza penalità del Multiattacco.
+Il Tiro per Colpire del mostro **non applica danno critico ne esplosione del danno**, ma **non subisce penalità per il multiattacco**. Ogni attacco del mostro, quindi anche 3 attacchi a round, viene effettuato con il Tiro per Colpire senza penalità del Multiattacco.
 
 ***Manca**.* Se un attacco ha un effetto prodotto da un colpo a vuoto, quell'informazione viene fornita dall'annotazione *Manca*.
 
-***Danni.*** Se un mostro impugna armi manufatte, infligge danni appropriati all'arma. I mostri più grossi di solito impugnano armi di dimensioni superiori che infliggono danni extra quando colpiscono. Se usano questo tipo di armi il danno è già segnato, altrimenti se raccolgono o usano un arma non prevista raddoppiare i dadi dell'arma se la creatura è Grande, triplicarli se Enorme e quadruplicarli se Mastodontica qualora usino armi della loro taglia.
+***Danni.*** Se un mostro impugna armi manufatte, infligge danni appropriati all'arma. I mostri più grossi di solito impugnano armi di dimensioni superiori che infliggono danni extra quando colpiscono. Se usano questo tipo di armi il danno è già segnato, altrimenti se raccolgono o usano un'arma non prevista raddoppiare i dadi dell'arma se la creatura è Grande, triplicarli se Enorme e quadruplicarli se Mastodontica qualora usino armi della loro taglia.
 
 ### Multiattacco e Attacco
 
@@ -333,11 +333,11 @@ Molti mostri possiedono un attacco speciale che gli permette di afferrare rapida
 
 Una creatura afferrata dal mostro segue le indicazioni di Afferrare un avversario .
 
-Se non viene fornita una **DC di fuga** assumere che sia ia uguale a 10 + (Tiro Salvezza su Tempra  + Forza) del mostro +1d6 per Taglia di differenza.
+Se non viene fornita una **DC di fuga** assumere che sia uguale a 10 + (Tiro Salvezza su Tempra  + Forza) del mostro +1d6 per Taglia di differenza.
 
 ### Munizioni
 
-Un mostro porta con sé munizioni sufficienti per effettuare i suoi attacchi a distanza. Puoi presumere che un mostro abbia 2d4 proiettili per un attacco con armi da lancio (giavellotti, macigni..), e 2d10 proiettili per un'arma a proiettili come un arco o una balestra.
+Un mostro porta con sé munizioni sufficienti per effettuare i suoi attacchi a distanza. Puoi presumere che un mostro abbia 2d4 proiettili per un attacco con armi da lancio (giavellotti, macigni...), e 2d10 proiettili per un'arma a proiettili come un arco o una balestra.
 
 ### Reazioni
 
@@ -347,7 +347,7 @@ Se un mostro può compiere qualcosa di speciale con le sue reazioni, è riportat
 
 Alcune abilità speciali hanno restrizioni sul numero di volte che possono essere usate.
 
-***X/Giorno**.* L'annotazione "X/Giorno" indica un'abilità speciale che può essere usata X volte prima che il sorga l'alba per recuperare gli usi consumati. Ad esempio, *1/Giorno* indica un'abilità speciale che può essere usata una volta prima che il mostro debba aspettare la nuova alba.
+***X/Giorno**.* L'annotazione "X/Giorno" indica un'abilità speciale che può essere usata X volte prima che sorga l'alba per recuperare gli usi consumati. Ad esempio, *1/Giorno* indica un'abilità speciale che può essere usata una volta prima che il mostro debba aspettare la nuova alba.
 
 ***Ricarica X-Y.*** L'annotazione "Ricarica X-Y" indica che il mostro può usare un'abilità speciale una volta e che l'abilità ha una probabilità casuale di ricaricarsi ogni round seguente di combattimento. All'inizio di ciascun round del mostro, tira un d6. Se il risultato è uno dei numeri dell'annotazione di ricarica, il mostro recupera l'uso dell'abilità speciale. L'abilità si ricarica anche all'alba di un nuovo giorno.
 
@@ -355,21 +355,21 @@ Ad esempio, *Ricarica 5-6* indica che un mostro può usare la sua abilità speci
 
 ## Azioni Aggiuntive
 
-Certe creature possono possono eseguire azioni speciali al di fuori del proprio round, ed alcune possono estendere il proprio potere all'ambiente, provocando la manifestazione di effetti magici straordinari nelle loro vicinanze.
+Certe creature possono eseguire azioni speciali al di fuori del proprio round, ed alcune possono estendere il proprio potere all'ambiente, provocando la manifestazione di effetti magici straordinari nelle loro vicinanze.
 
-Una creatura con azioni aggiuntive può effettuare un certo numero di azioni speciali, dette *azioni aggiuntive*, al di fuori del suo round. Solo un'azione aggiuntiva può essere usata alla volta e solo al termine del round di un'altra creatura. Non costa Azioni o Reazioni usare una Azione Aggiuntiva. Una creatura con azioni aggiuntive recupera all'inizio del suo round le azioni aggiuntive che ha usato. Non è obbligata ad usare le sue azioni aggiuntive e non può usare le azioni aggiuntive mentre è inabile o altrimenti incapace di effettuare Reazioni. Se sorpresa, non può usarle fin dopo il suo primo round di combattimento.
+Una creatura con azioni aggiuntive può effettuare un certo numero di azioni speciali, dette *azioni aggiuntive*, al di fuori del suo round. Solo un'azione aggiuntiva può essere usata alla volta e solo al termine del round di un'altra creatura. Non costa Azioni o Reazioni usare una Azione Aggiuntiva. Una creatura con azioni aggiuntive recupera all'inizio del suo round le azioni aggiuntive che ha usato. Non è obbligata ad usare le sue azioni aggiuntive e non può usare le azioni aggiuntive mentre è inabile o altrimenti incapace di effettuare Reazioni. Se sorpresa, non può usarle fino a dopo il suo primo round di combattimento.
 
 Se una creatura assume la forma di una creatura con azioni aggiuntive, magari tramite un incantesimo, non ne ottiene però le azioni aggiuntive o le azioni da tana.
 
 ### La Tana di una Creatura
 
-Una creatura con Azioni aggiuntive può presentare una sezione che ne descrive la tana e gli effetti speciali che vi può creare mentre si trova lì, o per propria volontà o semplicemente grazie alla sua presenza. Questa sezione si applica solo alle creature leggendarie che trascorrono molto tempo nelle loro tane dove è altamente probabile che li vengano incontrate.
+Una creatura con Azioni aggiuntive può presentare una sezione che ne descrive la tana e gli effetti speciali che vi può creare mentre si trova lì, o per propria volontà o semplicemente grazie alla sua presenza. Questa sezione si applica solo alle creature leggendarie che trascorrono molto tempo nelle loro tane dove è altamente probabile che lì vengano incontrate.
 
 Se una creatura con azioni aggiuntive ha un' **Azione da tana**, può usarla per imbrigliare la magia ambientale della sua tana. Al conteggio di iniziativa 10, perdendo i pareggi, la creatura può usare una delle sue opzioni di azioni da tana. Non può farlo mentre è inabile o altrimenti incapace di effettuare azioni. Se sorpresa, non può farne uso fino a dopo il suo primo round di combattimento.
 
 ## Equipaggiamento
 
-Il blocco statistiche si riferisce all'equipaggiamento, oltre le armi o le armature utilizzate dal mostro. Una creatura che normalmente indossa abiti, come un umanoide, si assume sia vestito in maniera appropriata.
+Il blocco statistiche si riferisce all'equipaggiamento, oltre le armi o le armature utilizzate dal mostro. Una creatura che normalmente indossa abiti, come un umanoide, si assume sia vestita in maniera appropriata.
 
 Puoi equipaggiare i mostri con ulteriore equipaggiamento come preferisci, utilizzando il capitolo Equipaggiamento come fonte di ispirazione, sei tu a decidere quanto dell'equipaggiamento del mostro è recuperabile dopo che la creatura è stata uccisa o se qualsiasi parte del suo equipaggiamento sia ancora utilizzabile. Ad esempio, un'armatura ammaccata fatta per un mostro difficilmente sarà utilizzabile da qualcun altro. Se un mostro incantatore necessita di componenti materiali per lanciare i suoi incantesimi, dai per scontato che abbia le componenti materiali per lanciare gli incantesimi indicati nella sua scheda.
 
@@ -385,7 +385,7 @@ Vedi anche Tabella: Valori del Tesoro per Incontro .
 - **Costrutto**
 	Spesso è il costrutto stesso il tesoro più di valore. I costrutti sono solitamente usati per sorvegliare tesori o oggetti magici di grande valore.
 - **Drago**
-	Noti per i loro preziosi tesori, i draghi spesso riposano su pile di monete, gemme, oggetti magici e costosi.
+	Noti per i loro preziosi tesori, i draghi spesso riposano su pile di monete, gemme, oggetti magici e oggetti costosi.
 - **Esterno**
 	Gli esterni sono tra le creature più diverse e, di conseguenza, possono possedere qualsiasi tipo di tesoro, sia su di loro che nascosto nei loro rifugi. Il Narratore dovrebbe valutare ogni singola creatura per determinare il tipo di tesoro più adatto a ciascun esterno.
 - **Folletto**
@@ -420,9 +420,9 @@ Ogni mostro se *sconfitto* concede un certo ammontare di Punti Esperienza da sud
 
 Con questo sistema i Punti Esperienza sono dati in base alla difficoltà relativa della Sfida dato il livello dei personaggi. Uno scontro con 5 Troll non darà (1800 x 5) Punti Esperienza, ma a seconda della sfida relativa concederà un ammontare diverso.
 
-Il gruppo di Troll (Sfida 5, 1800 PX) non da sempre 1800 PX a troll sconfitto; se viene affrontato da un gruppo di basso livello, ovvero per una sfida di difficoltà Straordinaria, ne darà di più mentre affrontato da un gruppo di alto livello, dove 5 troll sono una sfida Alta, ne darà di meno.
+Il gruppo di Troll (Sfida 5, 1800 PX) non dà sempre 1800 PX a troll sconfitto; se viene affrontato da un gruppo di basso livello, ovvero per una sfida di difficoltà Straordinaria, ne darà di più mentre affrontato da un gruppo di alto livello, dove 5 troll sono una sfida Alta, ne darà di meno.
 
-Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte le considerazione del capitolo Masterizzare per preparare gli scontri.
+Con questo sistema ogni 1000 Punti Esperienza si passa di livello. Valgono tutte le considerazioni del capitolo Masterizzare per preparare gli scontri.
 
 **Tabella: Punti Esperienza per Grado di Sfida**
 
@@ -449,7 +449,7 @@ Anche per trappole o sfide superate si usa questo sistema per calcolare i PX gua
 | Mortale | 326\% - 405\% |
 | Epica | 406\% e oltre |
 
-- **Assegnare un valore Percentuale ai Mostri:** Utilizzare la tabella seguente per determinare il *peso* (percentuale) di ciascun Avversario (*Avv.*) in base alla differenza tra il suo Grado di Sfida (GS) e all'APL del gruppo (*Rapp.*)
+- **Assegnare un valore Percentuale ai Mostri:** Utilizzare la tabella seguente per determinare il *peso* (percentuale) di ciascun Avversario (*Avv.*) in base alla differenza tra il suo Grado di Sfida (GS) e l'APL del gruppo (*Rapp.*)
 
 | **Rapp.** | **\% per Avv.** | **Rapp.** | **\% per Avv.** |
 | --- | --- | --- | --- |
@@ -465,7 +465,7 @@ Partite dai mostri con Grado di Sfida più alto e poi aggiungere mostri con GS p
 
 ## Opzionale - Cosa farci con i mostri
 
-Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anche una occasione di ingegno e divertimento. Il suggerimento principale è di evitare descrizione sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4/5 porzioni.
+Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anche un'occasione di ingegno e divertimento. Il suggerimento principale è di evitare descrizioni sanguinolente, macabre o *schifose*, mantenete sempre un velo e cercate di rimanere sullo scherzoso. I tempi di cottura possono essere nell'ordine di 1d4 ore per 4/5 porzioni.
 
 **Tabella: 1d4-12 Parti Anatomiche dei Mostri**
 

@@ -42,7 +42,7 @@ The remains of magnificent cities of the past still stand, and these often becom
 
 The underground, whether caves, catacombs, or infinite tunnels, if not true underground cities, exists throughout the Earth, an imperishable memory, stratified and re-stratified, of its history. There is never an end to how deep one can go; there is always something else below that is even more magnificent and dangerous.
 
-Legends speak of entire regions swallowed underground, cities that from day to night disappeared in a cloud of dust. Everywhere there are accesses to the depths where treasures and riches are fabled, where the Law of the Prize awaits those who dare to take up the challenge.
+Legends speak of entire regions swallowed underground, cities that disappeared overnight in a cloud of dust. Everywhere, there are entrances to depths where treasures and riches are fabled, and where your rewards await those who dare to take up the challenge.
 
 ## Religions
 
@@ -59,7 +59,7 @@ In such a complex setting, the possibilities for adventures are practically infi
 - Protect a village from attacks by hostile entities or monsters evoked from the Portals.
 - The Patrons want to manipulate the leaders of countries to enforce their cult. The characters must thwart plots and betrayals.
 - Form alliances with the Patrons to obtain magical powers or protection, navigating between the different requests and expectations of these *beings*.
-- Investigate the origin and nature of the Omnipresence, trying to understand how to exploit its residues without causing further catastrophes.
+- Investigate the origin and nature of the Omniessence, trying to understand how to exploit its residues without causing further catastrophes.
 - The characters are apprentice wizards who must recover some fundamental spell to save their village/city.
 - Help rebuild devastated communities by finding resources, building infrastructure, and defending them from threats.
 - Survive in mutated and dangerous environments, such as nuclear deserts or forests infested with monstrous creatures.
@@ -82,7 +82,7 @@ The Earth can no longer be said to be explored; the same area can change from on
 
 It will be hordes of hungry goblins in the maze of the depths of the city, it will be barbaric hordes devoted to Cattalm to kill and kidnap offspring, it will be kingdoms of ghouls that have sprung from nowhere wanting to eat everything and everyone, it will be famines and plagues that can only be solved by finding ancient artifacts, it could be ancient cities that have sprung from an imprint of Cattalm, putrid expanding swamps full of monsters...
 
-The Patrons will do everything to defeat and humiliate you, but remember well that the Law of the Prize is superior even to them!
+The Patrons will do everything to defeat and humiliate you, but remember that your rewards are greater than even they are!
 
 ## Notable new places on Earth
 
@@ -143,9 +143,9 @@ The part of central Italy is under the theocracy of Rezh while numerous counties
 
 France is directly commanded by the new Sun King, pardon, King Torbion XXIII, who, enamored with history and culture, wanted to repropose, with truly divine will this time, the splendor and attitudes of that court and period, making everything tremendously more dangerous and treacherous.
 
-Germany, which was the engine of the old Europe, has suffered among the greatest damage, returning to a barbaric state, with a forced cultural and natural involution by Efrem.
+Germany, which was the engine of the old Europe, has suffered some of the greatest damage, returning to a barbaric state, with a forced cultural and natural involution by Efrem.
 
-Much of the lands between France and Germany have returned to a more primitive and ancestral spirit; here Gaya and Erondil have created their major cults inspired by what was the Celtic tradition.
+Many of the lands between France and Germany have returned to a more primitive and ancestral spirit; here Gaya and Erondil have created their major cults inspired by what was the Celtic tradition.
 
 The cold lands of northern Europe isolated themselves after their dead rose again. This time by the will of the people, help was sought from Krondal and Nedraf so that they could save them. Nedraf gave them the weapons and the experience to use them, Krondal, like a true madman, brought back the ancestral memories of a warrior past made of myths and Gods forgotten, or rather ignored, by most.
 Thus Krondal has recreated as his servants Aegir, Alfadur, Hel, Idhunn, Norne, not to mention the better-known Thor, Loki, Valkyries...
@@ -172,7 +172,7 @@ You can invent a thousand and one adventures behind the Portals; each is a possi
 Each portal will lead you to a different place, fantastic as you intend it. Do you want an adventure in a primitive world, set in modern society, on a planet somewhere? Use the portal to open the doors of your imagination. The characters themselves might not be *earthly* and seek a way to return home...
 
 >>> **Settings**: Use the setting you prefer most! This world is an example of a chaotic and slightly anarchic world dominated by the continuous mood changes of capricious deities.
-Choose your setting, use Greyhawk, Dark Sun, Mystara, Midgard, whatever you prefer. You are the Narrator, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
+Choose your setting, use Greyhawk, Dark Sun, Mystara, Midgard, whatever you prefer. You are the Game Master, you are the world, you are the one projecting light and darkness, OBSS will provide you with the tools to conduct your campaigns!
 
 > First Chaos came to be, then broad-bosomed Gaia, the ever-sure foundation of all the deathless ones. Hesiod' \*\*s Theogony
 
@@ -282,7 +282,7 @@ It could be a new continent, a sea that opens between lands, new races, animals.
 
 Only the highest Devout of Atmos know this truth, just as they know that the Patrons of Genesis, after the victory, lie together for six months generating the new Patrons.
 
-Another truth, unfortunately unknown, is that our planet has been under the game of the Patrons for much longer than a century, and it is only by the desire of Ljust that we have no memory of all the previous cycles. The Patron of Light, to not make humanity lose hope, obtained that we forget the centuries of abuses caused by the continuous victories of Calicante' \*\*s Patrons, from the destructions perpetrated by dragons, and maintain a feeble and vital hope in a world that can be more gentle and loving towards all its creatures.
+Another truth, unfortunately unknown, is that our planet has been part of the Patrons' \*\* game for much longer than a century, and it is only through Ljust' \*\*s will that we have no memory of the previous cycles. To prevent humanity from losing hope, the Patron of Light ensured that we forgot the centuries of abuse caused by the repeated victories of Calicante' \*\*s Patrons and the destruction perpetrated by dragons, allowing us to maintain a fragile but vital hope in a world that can be gentler and more loving toward all its creatures.
 
 Traces of these past cycles can be found in the countless and otherwise unjustified dangers, dungeons, monsters, dragons, underground cities that fill every corner of the Earth.
 

@@ -1,6 +1,6 @@
 # I Mostri
 
->>> **Un po' di mostri...**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzione negative.
+>>> **Un po' di mostri...**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzioni negative.
 
 Creature più civilizzate avranno una loro condotta etica e morale individuale, anche all'interno di uno stesso gruppo di avversari c'è chi potrebbe essere più nemico o semplicemente indifferente.
 
@@ -57,7 +57,7 @@ Ogniqualvolta il bersaglio affascinato subisce danni, può ripetere il Tiro Salv
 
 L'aboleth può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'opzione Aggiuntive alla volta e solo al termine del round di un'altra creatura. L'aboleth recupera le Azioni aggiuntive spese all'inizio del proprio round.
 
-**Individuare.** L'aboleth effettua una prova Consapevolezza.
+**Individuare.** L'aboleth effettua una prova di Consapevolezza.
 
 **Risucchio Psichico (Costa 2 Azioni).** Una creatura affascinata dall'aboleth subisce 10 (3d6) danni e l'aboleth recupera un numero di Punti Ferita pari al danno subito dalla creatura.
 
@@ -71,7 +71,7 @@ Organizzazione: Solitario, coppia, nidiata (3-6) o branco (7-19)
 | **Categoria Tesoro**: F |
 | **Descrizione** |
 
-Come suggerisce il loro aspetto primitivo gli aboleth sono fra le più antiche forme di vita al mondo. Un aboleth è lungo 7 metri e pesa circa 3,2 tonnellate. Gli aboleth abitano in fondo ai mari nelle loro enormi città, serviti da innumerevoli schiavi.
+Come suggerisce il loro aspetto primitivo, gli aboleth sono fra le più antiche forme di vita al mondo. Un aboleth è lungo 7 metri e pesa circa 3,2 tonnellate. Gli aboleth abitano in fondo ai mari nelle loro enormi città, serviti da innumerevoli schiavi.
 
 ### Angelo Deva
 
@@ -111,7 +111,7 @@ Nella nuova forma, il deva mantiene le sue statistiche di gioco e la facoltà di
 
 | **Ecologia** |
 | --- |
-Ambiente: Qualsiasi piano di con Tratti buono
+Ambiente: Qualsiasi piano con Tratti buono
 
 Organizzazione: Solitario, coppia, o squadriglia (3-6)
 | **Categoria Tesoro**: (Spadone Infuocato +1, altro tesoro) |
@@ -287,7 +287,7 @@ Alcuni ankheg sono addestrabili e possono diventare animali da carico, sebbene i
 
 *Colpisce:* 3 (1d4 + 1) danni contundenti.
 
-***Venti affamati** (2 Azioni)*: L'arpia usa il vento per avvicinare le sue prede. Un bersaglio entro 6 metri deve fare un Tiro Salvezza su Tempra DC 12 o essere tirato a fianco all'arpia. Se il bersaglio è stato alzato da terra e non può volare, poi cade normalmente.
+***Venti affamati** (2 Azioni)*: L'arpia usa il vento per avvicinare le sue prede. Un bersaglio entro 6 metri deve fare un Tiro Salvezza su Tempra DC 12 o essere tirato a fianco dell'arpia. Se il bersaglio è stato alzato da terra e non può volare, poi cade normalmente.
 
 ***Canto Ammaliatore.*** L'arpia canta una melodia magica. Ogni umanoide e gigante entro 90 metri dall'arpia e che possa udire la canzone deve riuscire un Tiro Salvezza di Volontà DC 13 o restare affascinato fino al termine della canzone. L'arpia deve effettuare un'Azione Immediata durante il suo prossimo round per continuare a cantare. Può smettere di cantare in qualsiasi momento. Il canto ha termine se l'arpia è inabile.
 
@@ -309,7 +309,7 @@ Anche se in definitiva selvagge e senza alcun rimorso per le loro azioni, divers
 
 Le arpie tendono ad indossare ninnoli e ciondoli rubati alle loro vittime, perché amano compiacersi dei brillanti ornamenti degli uomini. Da vicino queste creature trasudano del puzzo delle loro vittime divorate e raramente lasciano che le creature non ancora ammaliate si avvicinino troppo, cosicché non sentano l'odore del sangue e della putrefazione sulle loro penne. Per questo motivo, molte arpie si cospargono di profumi e oli aromatici.
 
-Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alcune assomigliano ad una mescolanza di avvoltoi e donne, mentre altri portano sulle penne i tratti regali di falchi e falconi. Rare nidiate di arpie, in luoghi isolati e tropicali del mondo, hanno anche piume colorate come i pappagalli.
+Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alcune assomigliano ad una mescolanza di avvoltoi e donne, mentre altre portano sulle penne i tratti regali di falchi e falconi. Rare nidiate di arpie, in luoghi isolati e tropicali del mondo, hanno anche piume colorate come i pappagalli.
 
 ### Azer
 
@@ -380,7 +380,7 @@ A un occhio non allenato gli Azer si somigliano tra loro in modo impressionante.
 
 ***Volto Terrificante***. Ogni creatura che non sia un non morto situata entro 18 metri dalla Banshee e che sia in grado di vederla deve superare un Tiro Salvezza su Volontà con modificatore Carisma con DC 18, altrimenti è spaventata per 1 minuto. Un bersaglio spaventato può ripetere il Tiro Salvezza alla fine di ogni suo round, subendo -1d6 se la Banshee si trova entro linea di vista; se supera il tiro, l'effetto per lui termina. Se un bersaglio supera il Tiro Salvezza o l'effetto per lui termina, quel bersaglio è immune al Volto Terrificante della Banshee per le 24 ore successive.
 
-***Lamento (1/Giorno)***. La Banshee emette un lamento funesto, purché non sia esposta alla luce del sole. Questo lamento non ha alcun effetto sui costrutti e sui non morti. Ogni altra creatura situata entro 9 metri da lei e in grado di udirla deve effettuare un Tiro Salvezza su Tempra con bonus Carisma DC 17; se lo fallisce, scende a O Punti Ferita, mentre se lo supera, subisce 35 (10d6) danni da forza.
+***Lamento (1/Giorno)***. La Banshee emette un lamento funesto, purché non sia esposta alla luce del sole. Questo lamento non ha alcun effetto sui costrutti e sui non morti. Ogni altra creatura situata entro 9 metri da lei e in grado di udirla deve effettuare un Tiro Salvezza su Tempra con bonus Carisma DC 17; se lo fallisce, scende a 0 Punti Ferita, mentre se lo supera, subisce 35 (10d6) danni da forza.
 
 | **Ecologia** |
 | --- |
@@ -402,7 +402,7 @@ La Banshee è lo spirito infuriato di una donna che ha tradito i propri cari o �
 - **Sensi**: \resizedown{Scurovisione 18 m}
 - **Sfida**: 3 (700 PX)
 
-***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri dal basilisco e i due si possono vedere vicendevolmente, se non inabile il basilisco può obbligare la creatura ad effettuare un Tiro Salvezza di Tempra DC 14. Se la creatura fallisce il Tiro Salvezza diventa Rallentato 1. La creatura deve ripetere il Tiro Salvezza al termine del suo prossimo round. Se lo riesce, l'effetto termina. Se lo fallisce, la creatura è pietrificata finché non viene liberata dall'incantesimo *Ristorare Superiore* o altra magia.
+***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri dal basilisco e i due si possono vedere vicendevolmente, se non inabile, il basilisco può obbligare la creatura ad effettuare un Tiro Salvezza di Tempra DC 14. Se la creatura fallisce il Tiro Salvezza diventa Rallentato 1. La creatura deve ripetere il Tiro Salvezza al termine del suo prossimo round. Se lo riesce, l'effetto termina. Se lo fallisce, la creatura è pietrificata finché non viene liberata dall'incantesimo *Ristorare Superiore* o altra magia.
 
 Una creatura che non sia sorpresa e che voglia attaccare il basilisco senza guardarla direttamente ha -1d6 al Tiro per Colpire.
 
@@ -432,7 +432,7 @@ I basilischi hanno la capacità di consumare le creature pietrificate. Quando no
 
 Un basilisco adulto è lungo quasi 3 metri, di cui la metà occupata dalla lunga coda, e pesa 135 chili. Alcune razze presentano delle piccole corna ricurve sul naso o piccole creste di pungiglioni ossuti sopra la testa simili a una corona. Sebbene siano creature in genere solitarie che si riuniscono solo per accoppiarsi e deporre le uova, in zone particolarmente pericolose possono riunirsi in piccoli gruppi per proteggersi e attaccare gli intrusi in massa.
 
-Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del basilisco, e a volte si intrufolano nelle tane mentre l'adulto è a caccia per cibarsi dei suoi piccoli.
+Per motivi ignoti, le donnole, i furetti e le topine sono immuni allo sguardo del basilisco, e a volte si intrufolano nelle tane mentre l'adulto è a caccia per cibarsi dei suoi piccoli.
 
 ### Behir
 
@@ -457,7 +457,7 @@ Per motivi ignoti, le donnole, furetti e topine sono immuni allo sguardo del bas
 
 *Colpisce:* 17 (2d10 + 6) danni contundenti più 17 (2d10 + 6) danni taglienti. Il bersaglio è afferrato (DC 16 per fuggire).
 
-***Inghiottire.*** Il behir effettua una attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del behir, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del behir. Il behir può inghiottire solo una creatura alla volta.
+***Inghiottire.*** Il behir effettua un attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del behir, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del behir. Il behir può inghiottire solo una creatura alla volta.
 
 Se il behir subisce 30 o più danni in un singolo round da una creatura che ha inghiottito, deve riuscire un Tiro Salvezza di Tempra DC 19 al termine di quel round o vomitare la creatura, che ricade prona in uno spazio entro 3 metri dal behir. Se il behir muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
 
@@ -496,9 +496,9 @@ Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e pu�
 
 **Azioni*Multiattacco.*** la Blatta Esplosiva può effettuare 1 attacco di carica oppure emettere una poltiglia di fuoco.
 
-***Carica.*** Attacco da mischia: +6 a a colpire, portata 1 metro, un bersaglio.
+***Carica.*** Attacco da mischia: +6 a colpire, portata 1 metro, un bersaglio.
 
-*Colpisce:* 12 (3d6 + 3) danni contundenti. La creature deve effettuare un Tiro Salvezza su Tempra a DC 12 o cadere prona.
+*Colpisce:* 12 (3d6 + 3) danni contundenti. La creatura deve effettuare un Tiro Salvezza su Tempra a DC 12 o cadere prona.
 
 ***Poltiglia di Fuoco*** Attacco da distanza: +5 al colpire, gittata 3 metri. La Blatta Esplosiva rigurgita un liquido appiccicoso e infiammabile all'aria. Ricarica 3-6.
 
@@ -514,11 +514,11 @@ Organizzazione: Solitario, nido (8-64)
 | **Categoria Tesoro**: Diamante 1d4x1d50mo |
 | **Descrizione** |
 
-Le Blatta Esplosive sono creature native tra il piano elementale del fuoco e della terra. Solitamente attirati da ambienti ricchi di fiamme, pietra o almeno caldo e terra.
-Dalla forma proporzionata a quelli di una comune blatta se non lunga circa 40 cm e pensante circa 4 kg, è una creatura completamente priva di intelletto agendo solo per puro istinto.
-Sono ormai comuni nella caverne prossime a vulcani o tane di drago rosso essendosi abituate a vivere sulla Terra.
+Le Blatte Esplosive sono creature native tra il piano elementale del fuoco e della terra. Solitamente attirate da ambienti ricchi di fiamme, pietra o almeno caldo e terra.
+Dalla forma proporzionata a quella di una comune blatta se non lunga circa 40 cm e pesante circa 4 kg, è una creatura completamente priva di intelletto agendo solo per puro istinto.
+Sono ormai comuni nelle caverne prossime a vulcani o tane di drago rosso essendosi abituate a vivere sulla Terra.
 
-Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremamente più grossa e forte. Le Blatte Esplosive si nutrono di carbone, legni bruciati, carcasse bruciate. Sono estremamente golosi di diamanti che una volta bruciati sono delle vere e proprie leccornie.
+Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremamente più grossa e forte. Le Blatte Esplosive si nutrono di carbone, legni bruciati, carcasse bruciate. Sono estremamente golose di diamanti che una volta bruciati sono delle vere e proprie leccornie.
 
 ### B.O.C.
 
@@ -550,7 +550,7 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 
 ***Deflettere la luce.*** Il B.O.C. è costantemente influenzato da un effetto che ne altera la posizione, ogni Tiro per Colpire ha -1d6. Questa penalità si elimina se si può attaccare il B.O.C. senza usare la vista per individuarlo.
 
-Il B.O.C. piega costantemente la luce intorno a se apparendo quasi un metro spostato rispetto alla sua reale posizione. Questa abilità non è influenzata da visioni di tipo normali, solo Visione del Vero, vista cieca o senso tellurico possono percepire correttamente il B.O.C.
+Il B.O.C. piega costantemente la luce intorno a sé apparendo quasi un metro spostato rispetto alla sua reale posizione. Questa abilità non è influenzata da visioni di tipo normali, solo Visione del Vero, vista cieca o senso tellurico possono percepire correttamente il B.O.C.
 
 | **Ecologia** |
 | --- |
@@ -560,7 +560,7 @@ Organizzazione: Solitario, coppia oppure branco (2d4)
 | **Categoria Tesoro**: I |
 | **Descrizione** |
 
-Il Black Ops Cat meglio conosciuto con B.O.C. è un grande felino predatore, ovviamente di colore nero. Feroce, insaziabile, uccide per il gusto di cacciare. Agisce solitamente in branco ed è estremamente fedele al gruppo.
+Il Black Ops Cat meglio conosciuto come B.O.C. è un grande felino predatore, ovviamente di colore nero. Feroce, insaziabile, uccide per il gusto di cacciare. Agisce solitamente in branco ed è estremamente fedele al gruppo.
 
 ### Bugbear
 
@@ -598,7 +598,7 @@ Il bugbear è il più grande degli esponenti della razza Goblinoide, un bruto da
 
 I bugbear non formano grandi insediamenti come i goblin o nazioni come gli hobgoblin; preferiscono qualcosa di più piccolo e caotico che li lasci liberi di fare quello che preferiscono (uccidere e torturare) a un livello più personale. Gli umani sono le prede preferite dei bugbear, e la maggior parte di essi annovera la carne umana come uno degli alimenti principali della propria dieta. Macabri trofei quali orecchie e dita sono decorazioni comuni tra i bugbear.
 
-I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omicidio e della violenza, con i vari signori dei demoni tra i preferiti. Un tipico bugbear è alto 2,1 metro e pesa 200 kg.
+I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omicidio e della violenza, con i vari signori dei demoni tra i preferiti. Un tipico bugbear è alto 2,1 metri e pesa 200 kg.
 
 ### Bulette
 
@@ -619,7 +619,7 @@ I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omi
 
 ***Salto Letale.*** Se il bulette può saltare di almeno 3 metri come parte del suo movimento, può usare poi questa azione per atterrare in piedi in uno spazio che contiene una o più creature. Ciascuna di queste creature deve riuscire un Tiro Salvezza di Tempra o Riflessi DC 18 (a scelta del bersaglio) o venire gettata prona e subire 14 (3d6 + 4) danni contundenti più 14 (3d6 + 4) danni taglienti. Se il Tiro Salvezza riesce, la creatura subisce solo la metà dei danni, non è gettata prona, e viene spinta di 1 metro fuori dello spazio del bulette in uno spazio non occupato a scelta della creatura. Se non ci sono spazi non occupati a gittata, la creatura cade prona nello spazio del bulette.
 
-***Fiuto del sangue.*** la bulette concentra la sua attenzione su una creatura che ha ferito, 1 Azione, fino alla fine del combattimento o finché la creatura non è totalmente guarita ha +2 al Tiro per Colpire.
+***Fiuto del sangue.*** la bulette concentra la sua attenzione su una creatura che ha ferito, 1 Azione, fino alla fine del combattimento o finché la creatura non è totalmente guarita, ha +2 al Tiro per Colpire.
 
 ***Arrabbiato:*** La bulette si ricarica delle ultime energie, recupera tre volte il suo GS in punti ferita. Costa 1 Azione.
 
@@ -686,7 +686,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: spada lunga +3 od armatura completa +3, il resto dell'equipaggiamento scompare con la morte del Cavaliere Nero. |
 | **Descrizione** |
 
-Dannato fin nel profondo della sua anima il Cavaliere Nero è l'antitesi del cavaliere di Sumkjr, anzi spesso nasce dalla corruzione di un cavaliere di Sumkjr. Avversario temibile, furbo, tattico, adora comportarsi e ragionare malignamente, come una persona ancora viva. La sua tattica è di lanciare la Palla di Fuoco il prima possibile per poi consumare la vittima con Punizione marchiante.
+Dannato fin nel profondo della sua anima, il Cavaliere Nero è l'antitesi del cavaliere di Sumkjr, anzi spesso nasce dalla corruzione di un cavaliere di Sumkjr. Avversario temibile, furbo, tattico, adora comportarsi e ragionare malignamente, come una persona ancora viva. La sua tattica è di lanciare la Palla di Fuoco il prima possibile per poi consumare la vittima con Punizione marchiante.
 
 ### Centauro
 
@@ -723,11 +723,11 @@ Organizzazione: Solitario, coppia, banda (3-10), tribù (11-30 più 3 cacciatori
 | **Categoria Tesoro**: B |
 | **Descrizione** |
 
-Leggendari cacciatori e abili guerrieri, i centauri sono in parte uomini e in parte cavalli. Generalmente collocata ai margini della civilizzazione, questa stoica popolazione varia enormemente come aspetto: di solito il colore della pelle è molto abbronzato ma simile a quello degli umani delle regioni limitrofe, mentre la parte inferiore del corpo ha le tonalità degli equini locali. Hanno capelli e occhi di colore scuro e i tratti del volto piuttosto marcati, mentre la loro stazza totale dipende dalla taglia del cavallo di cui hanno la parte inferiore del corpo. Quindi, anche se un centauro medio è alto in piedi 2,1 metro e pesa più di 1000 kg, esistono molteplici varianti regionali, dagli esili corridori delle pianure ai massicci cacciatori di montagna.
+Leggendari cacciatori e abili guerrieri, i centauri sono in parte uomini e in parte cavalli. Generalmente collocata ai margini della civilizzazione, questa stoica popolazione varia enormemente come aspetto: di solito il colore della pelle è molto abbronzato ma simile a quello degli umani delle regioni limitrofe, mentre la parte inferiore del corpo ha le tonalità degli equini locali. Hanno capelli e occhi di colore scuro e i tratti del volto piuttosto marcati, mentre la loro stazza totale dipende dalla taglia del cavallo di cui hanno la parte inferiore del corpo. Quindi, anche se un centauro medio è alto in piedi 2,1 metri e pesa più di 1000 kg, esistono molteplici varianti regionali, dagli esili corridori delle pianure ai massicci cacciatori di montagna.
 
 I centauri vivono in media circa 60 anni. Distanti dalle altre razze e in conflitto con gli altri della loro specie, i centauri sono una razza antica che lentamente comincia ad accettare il mondo moderno. Anche se la maggioranza dei centauri vive ancora in tribù vagando per vaste pianure o ai margini di mistiche foreste, alcuni hanno abbandonato i modi isolazionisti dei loro antenati per stabilirsi in città cosmopolite. Spesso questi spiriti liberi sono considerati dei reietti e vengono disprezzati dalle loro tribù, e pertanto la decisione di abbandonarle è una scelta pesante. In alcuni casi, comunque, intere tribù guidate da capi progressisti hanno cominciato a commerciare o stringere alleanze con altre comunità di umanoidi, specie Elfi, a volte Gnomi, e più raramente Umani o Nani. Molte razze rimangono caute nei confronti dei centauri, però, per lo più a causa di leggende che li ritraggono come creature territoriali e feroci e dei periodici scontri violenti che essi hanno con i coloni testardi e i paesi in via di espansione.
 
-La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per volere di Calicante. Ljust inorridita da tanta morte intercesse su Calicante perché lasciasse stare queste creature. Questo salvataggio ha portato molti tribù di Centauri ad essere devoti della Signora della Luce, anche se altri hanno preferito invece dedicare il loro culto a Calicante nella speranza che non li uccida tutti in una notte.
+La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per volere di Calicante. Ljust inorridita da tanta morte intercesse su Calicante perché lasciasse stare queste creature. Questo salvataggio ha portato molte tribù di Centauri ad essere devoti della Signora della Luce, anche se altri hanno preferito invece dedicare il loro culto a Calicante nella speranza che non li uccida tutti in una notte.
 
 ### Chimera
 
@@ -782,7 +782,7 @@ Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessa
 - **Comp.**: Consapevolezza +4
 - **Imm. Danni**: Veleno
 - **Sensi**: \resizedown{Scurovisione 18 m}
-- **Linguaggi**: comprende la Linguaggio delle Profondità ma non può parlare
+- **Linguaggi**: comprende il Linguaggio delle Profondità ma non può parlare
 - **Sfida**: 4 (1100 PX)
 
 ***Anfibio.*** Il chuul può respirare aria e acqua.
@@ -848,7 +848,7 @@ I coboldi sono creature dell'oscurità, che si incontrano più facilmente in eno
 
 La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spaziando tra i colori dei draghi di Tàhil, con una predominanza del rosso e porpora, e più di rado bianco, verde, blu e nero.
 
-I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare dalle monete d'argento gli avventurieri e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose ed i coboldi sembrano sani.
+I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare gli avventurieri delle loro monete d'argento e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose ed i coboldi sembrano sani.
 
 ### Cockatrice
 
@@ -1047,7 +1047,7 @@ livello 4 (1 slot): *Immagine Proiettata, Regressione Mentale*
 
 ***Resistenza allo Scacciare.*** Il Demogorgone ha +1d6 ai Tiri Salvezza contro gli effetti che scacciano i non morti.
 
-***Due teste.*** Demogorgone ha +1d6 ai Tiri Salvezza contro essere cieco, sordo, svenuto
+***Due teste.*** Demogorgone ha +1d6 ai Tiri Salvezza contro l'essere cieco, sordo, svenuto
 
 **Azioni*Multiattacco.** 2 attacchi con tentacolo*: +19, portata 3 metri, una creatura. Tutti gli attacchi di Demogorgone sono considerati magici +2.
 
@@ -1061,7 +1061,7 @@ livello 4 (1 slot): *Immagine Proiettata, Regressione Mentale*
 
 1. Sguardo Potente. Il bersaglio è svenuto fino al prossimo round o finché il Demogorgon è fuori dalla linea di vista
 
-2. Sguardo Ipnotico. Il bersaglio è in dominato dal Demogorgone che ne stabilisce ogni azione. Questo sguardo necessità dell'utilizzo di entrambe le teste del Demogorgon.
+2. Sguardo Ipnotico. Il bersaglio è dominato dal Demogorgone che ne stabilisce ogni azione. Questo sguardo necessita dell'utilizzo di entrambe le teste del Demogorgon.
 
 3. Sguardo della Follia. Il bersaglio è sotto l'influenza dell'incantesimo Confusione che permane, senza Tiro Salvezza ulteriore, finché Demogorgone è in area di vista. Il Demogorgone non deve rimanere concentrato per il perdurare dell'effetto.
 
@@ -1069,7 +1069,7 @@ livello 4 (1 slot): *Immagine Proiettata, Regressione Mentale*
 
 Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
 
-**Coda.** Il Demogorgone attacca con la coda. +19 to al colpire, portata 5 metri, un obiettivo. Se colpisce 31 Punti Ferita di danni contundenti più 4d6 danni da Vuoto
+**Coda.** Il Demogorgone attacca con la coda. +19 al colpire, portata 5 metri, un obiettivo. Se colpisce 31 Punti Ferita di danni contundenti più 4d6 danni da Vuoto
 
 **Sguardo di Follia.** Demogorgone usa o lo sguardo Potente o lo Sguardo della Follia
 
@@ -1081,7 +1081,7 @@ Organizzazione: Unico
 | **Tesoro**: R, S, T, V |
 | **Descrizione** |
 
-Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 5 metri. Appare come un rettiloide bipede con due teste da babbuino, i colli sono lunghi e serpentini come le braccia tentacolari. Le due teste di Demogorgone sono hanno personalità distinte che si detestano. Spesso tentano di dominarsi a vicenda e molte delle storie che riguardano il Demogorgone trattano proprio su come una o l'altra testa cechi di dominare il tutto. Tra il Demogorgone ed Orcus c'è una forte rivalità.
+Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 5 metri. Appare come un rettiloide bipede con due teste da babbuino, i colli sono lunghi e serpentini come le braccia tentacolari. Le due teste di Demogorgone hanno personalità distinte che si detestano. Spesso tentano di dominarsi a vicenda e molte delle storie che riguardano il Demogorgone trattano proprio di come una o l'altra testa cerchi di dominare il tutto. Tra il Demogorgone ed Orcus c'è una forte rivalità.
 
 ### Dretch
 
@@ -1107,7 +1107,7 @@ Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 
 
 *Colpisce:* 3 (1d6) danni perforanti.
 
-**Reazione: *Anatomia opportunistica*** il dretch riorganizza la propria anatomia demoniaca dimezzando fine alla fine del round ogni danni critico subito.
+**Reazione: *Anatomia opportunistica*** il dretch riorganizza la propria anatomia demoniaca dimezzando fino alla fine del round ogni danno critico subito.
 
 ***Nube Fetida (1/Giorno).*** Un disgustoso gas verde si estende in un raggio di 3 metri dal demone. Il gas si propaga intorno agli angoli e la sua area è oscurata leggermente. Rimane per 1 minuto o finché non viene disperso da un forte vento. Qualsiasi creatura che inizi il proprio round in quell'area deve riuscire un Tiro Salvezza di Tempra DC 11 o restare avvelenata fino all'inizio del suo prossimo round. Mentre è avvelenato in questo modo, il bersaglio, durante il suo round, è Rallentato 1.
 
@@ -1121,9 +1121,9 @@ Organizzazione: Solitario, coppia, banda (3-5), gruppo (6-12) o folla (13+)
 
 Anche il più infimo demone dell'Abisso è pericoloso e possiede la necessità impellente di spargere rovina e sgomento. Il miserabile dretch è tanto orripilante e fetido quanto crudele, anche se non possiede la forza ed il potere per riuscire a soddisfare la sua voglia di brutalizzare gli altri nel suo reame nativo. Lo scopo dell'esistenza dei dretch è quello di servire demoni più potenti come vittime sacrificabili, e solo pochi fortunati riescono a sopravvivere abbastanza a lungo da evolversi.
 
-I dretch sono i bersagli preferiti dai dilettanti in evocazioni abissali. Relativamente deboli e facili da intimorire, i dretch spesso possono essere obbligati a lunghi periodi di servitù utilizzando vaghe promesse di opportunità di sfogare le loro frustrazioni e la loro rabbia contro avversari più deboli. Eppure il potenziale evocatore di dretch farebbe meglio a ricordarsi che questi demoni sono codardi ed infidi quanto gli altri demoni. Un dretch che si trova di fronte un nemico più potente sarà assai lieto di scambiare qualsiasi informazione di cui disponga in cambio della sua miserevole vita.
+I dretch sono i bersagli preferiti dai dilettanti in evocazioni abissali. Relativamente deboli e facili da intimorire, i dretch spesso possono essere obbligati a lunghi periodi di servitù utilizzando vaghe promesse di opportunità di sfogare le loro frustrazioni e la loro rabbia contro avversari più deboli. Eppure il potenziale evocatore di dretch farebbe meglio a ricordarsi che questi demoni sono codardi ed infidi quanto gli altri demoni. Un dretch che si trova di fronte a un nemico più potente sarà assai lieto di scambiare qualsiasi informazione di cui disponga in cambio della sua miserevole vita.
 
-A differenza della maggior parte dei demoni, la sciatta personalità del dretch ed il suo disprezzo per il lavoro fisico prolungato raramente danno dei risultati. I dretch avanzati sono rari, ma quelli che riescono a trovare la forza in se stessi per diventare più di quello che erano al momento della loro creazione divengono i sovrani poveri dell'Abisso, crudeli ed amareggiati, che regnano su parassiti, anime spezzate, non morti privi di intelletto e altri dretch. I loro imperi sono limitati a tratti abbandonati di fogne sotto città dimenticate, instabili distese paludose evitate dalle menti più sensate ed altri sgraditi angoli dell'Abisso che persino i demoni considerano scomodi o ripugnanti. Eppure per i signori dei dretch questi regni sono i loro imperi, e li difendono con pietosa tenacia.
+A differenza della maggior parte dei demoni, la sciatta personalità del dretch ed il suo disprezzo per il lavoro fisico prolungato raramente danno dei risultati. I dretch avanzati sono rari, ma quelli che riescono a trovare la forza in sé stessi per diventare più di quello che erano al momento della loro creazione divengono i sovrani poveri dell'Abisso, crudeli ed amareggiati, che regnano su parassiti, anime spezzate, non morti privi di intelletto e altri dretch. I loro imperi sono limitati a tratti abbandonati di fogne sotto città dimenticate, instabili distese paludose evitate dalle menti più sensate ed altri sgraditi angoli dell'Abisso che persino i demoni considerano scomodi o ripugnanti. Eppure per i signori dei dretch questi regni sono i loro imperi, e li difendono con pietosa tenacia.
 
 Un dretch è alto 1,2 metri e pesa 90 kg. I dretch solitamente si formano dalle anime di mortali malvagi ed indolenti: è sufficiente solo un piccolo frammento di anima per dare origine ad una nascita così orripilante. Una sola anima spesso può causare l'apparizione di una piccola armata di dretch e la vista di un'orda di dretch appena nati che si liberano dalla protomateria pulsante dell'Abisso è al contempo nauseante e terrificante.
 
@@ -1161,7 +1161,7 @@ A volontà: *Dissolvi Magie, Individuazione del Magico, Oscurità*
 
 **Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-***Arrabbiato:*** il glabrezu crea un duplicato di se stesso dal piano delle ombre. Questo duplicato ha le stesse caratteristiche del glabrezu ma non attacca. Quando si attacca il glabrezu si ha un 50\% di attaccare il duplicato d'ombra.
+***Arrabbiato:*** il glabrezu crea un duplicato di sé stesso dal piano delle ombre. Questo duplicato ha le stesse caratteristiche del glabrezu ma non attacca. Quando si attacca il glabrezu si ha un 50\% di attaccare il duplicato d'ombra.
 
 | **Ecologia** |
 | --- |
@@ -1219,7 +1219,7 @@ Organizzazione: Solitario o banda (2-4)
 | **Categoria Tesoro**: W |
 | **Descrizione** |
 
-L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. È a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso su flora, causando mutazioni e rendendo maleodoranti e dal sapore salmastro le acque. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.
+L'hezrou vive nelle vaste paludi, acquitrini e corsi d'acqua dell'Abisso. È a suo agio sia nell'acqua che sulla terraferma. La presenza di un hezrou ha un effetto dannoso sulla flora, causando mutazioni e rendendo maleodoranti e dal sapore salmastro le acque. Spesso intere comunità isolate di mutanti deformi devono il loro aspetto contorto non tanto ai loro depravati costumi quanto alla vicinanza di un hezrou.
 
 Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che hanno avvelenato se stessi, i loro parenti o il loro ambiente, ad esempio, drogati, assassini ed alchimisti che non si sono preoccupati di come i loro esperimenti avvelenassero il mondo naturale.
 
@@ -1239,7 +1239,7 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 
 ***Armi Magiche.*** Gli attacchi con armi del demone sono magici.
 
-***Reattivo.*** il marlith può effettuare una Reazione di Parata durante ciscuno round.
+***Reattivo.*** il marilith può effettuare una Reazione di Parata durante ciascuno round.
 
 ***Resistenza alla Magia.*** Il demone ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
@@ -1309,7 +1309,7 @@ Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, ter
 
 Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa la creatura è immune all'Aureola di Orrore del demone per le successive 24 ore.
 
-***Teletrasporto.*** Il demone si teletrasporta, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere fino a 36 metri di distanza. È una Azione di Movimento.
+***Teletrasporto.*** Il demone si teletrasporta, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere fino a 36 metri di distanza. È un'Azione di Movimento.
 
 **Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
@@ -1356,9 +1356,9 @@ livello 9 (1 slot): *Fermare il Tempo*
 
 ***Natura Demoniaca.*** Orcus non ha bisogno di aria, cibo, bevande o sonno.
 
-***Resistenza Leggendaria (3/Giorno).*** Se il Orcus fallisce un Tiro Salvezza, può scegliere invece di riuscirvi.
+***Resistenza Leggendaria (3/Giorno).*** Se Orcus fallisce un Tiro Salvezza, può scegliere invece di riuscirvi.
 
-***Signore dei non morti.*** Orcus può sempre decidere il tipo di non morto che crea e questo rimane sotto il suo controllo per tempo indefinito, oltretutto può lanciare l'incantesimo in qualsiasi condizione si trovi.
+***Signore dei non morti.*** Orcus può sempre decidere il tipo di non morto che crea e questo rimane sotto il suo controllo per un tempo indefinito, oltretutto può lanciare l'incantesimo in qualsiasi condizione si trovi.
 
 **Azioni*Multiattacco.** 2 attacchi con bacchetta*: +19, portata 3 metri, una creatura. Tutti gli attacchi di Orcus sono considerati magici +3.
 
@@ -1372,9 +1372,9 @@ livello 9 (1 slot): *Fermare il Tempo*
 
 **Azioni Aggiuntive**
 
-Il Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
+Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
 
-**Coda.** Il Orcus attacca con la coda. +19 to al colpire, portata 5 metri, un obiettivo. Se colpisce 21 (3d8 + 8) danni contundenti + 18 (4d8) da Veleno
+**Coda.** Orcus attacca con la coda. +19 al colpire, portata 5 metri, un obiettivo. Se colpisce 21 (3d8 + 8) danni contundenti + 18 (4d8) da Veleno
 
 **Assaggio di Morte.** Orcus lancia l'incantesimo Colpo Infuocato, in maniera blasfema, con danni da Vuoto
 
@@ -1409,7 +1409,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 
 *Colpisce:* 6 (1d6 + 3) danni taglienti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o subire 5 (2d4) danni da veleno
 
-***Cambiare aspetto (a volontà).*** Il Silku può apparire come un umanoide di taglia media a suo piacimento. È necessario una prova di Consapevolezza DC 16 per percepire il vero aspetto. 2 Azioni
+***Cambiare aspetto (a volontà).*** Il Silku può apparire come un umanoide di taglia media a suo piacimento. È necessaria una prova di Consapevolezza DC 16 per percepire il vero aspetto. 2 Azioni
 
 ***Rigenerazione.*** Il Silku rigenera 2 PF alla fine del suo round a meno che non sia stato ferito con acido o fuoco, l'effetto è attivo anche se il Silku ha Punti Ferita negativi.
 
@@ -1465,7 +1465,7 @@ Il quasit è forse il demone meno potente, ma non è tra i meno rispettati: pers
 
 Unici tra le orde demoniache, i quasit non nascono dalle anime di malvagi mortali deceduti, ma da anime viventi: quando un incantatore cerca di richiamare a sé un quasit come famiglio, la sua anima sfiora l'Abisso ed esso reagisce, creando dalla sua materia un quasit collegato all'anima dell'incantatore e generando un potente legame tra i due.
 
-I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove diventano famigli e, finché sono soggetti alla volontà del loro padrone, lo odiano e disprezzano, dal momento che possono percepire il pulsare delle sua anima e sanno che potrebbero aspirare a qualcosa di più. Un quasit serve, eppure osserva e vigila nell'attesa di errori che possano costare la vita al suo signore, o meglio, che gli consentano di rivoltarsi contro il proprio padrone. Alla morte del proprio padrone il quasit spesso decide di rimanere nel Piano Materiale in cerca di altri modi per divertirsi, solitamente insediandosi in un'area urbana dove ci sono molti individui da tormentare.
+I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove diventano famigli e, finché sono soggetti alla volontà del loro padrone, lo odiano e disprezzano, dal momento che possono percepire il pulsare della sua anima e sanno che potrebbero aspirare a qualcosa di più. Un quasit serve, eppure osserva e vigila nell'attesa di errori che possano costare la vita al suo signore, o meglio, che gli consentano di rivoltarsi contro il proprio padrone. Alla morte del proprio padrone il quasit spesso decide di rimanere nel Piano Materiale in cerca di altri modi per divertirsi, solitamente insediandosi in un'area urbana dove ci sono molti individui da tormentare.
 
 ### Succube
 
@@ -1574,7 +1574,7 @@ Un vrock tipico è alto 2,3 metri e pesa 200 kg. Queste creature solitamente si 
 
 *Colpisce:* 13 (2d8 + 4) danni contundenti più 7 (2d6) danni da fuoco.
 
-***Passo Etereo.*** Il destriero da incubo e fino a tre creature consenzienti entro 3 metro da esso possono entrare magicamente nel Piano Etereo dal Piano Materiale e viceversa.
+***Passo Etereo.*** Il destriero da incubo e fino a tre creature consenzienti entro 3 metri da esso possono entrare magicamente nel Piano Etereo dal Piano Materiale e viceversa.
 
 | **Ecologia** |
 | --- |
@@ -1614,7 +1614,7 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 14 o restare avvelenato per 1 minuto. Mentre è avvelenato in questo modo, il bersaglio non può recuperare Punti Ferita. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza.
 
-***Falcione.** Attacco con arma da mischia*: +6 a colpire, portata 3, un bersaglio.
+***Falcione.** Attacco con arma da mischia*: +6 a colpire, portata 3 m, un bersaglio.
 
 *Colpisce:* 8 (1d10 + 3) danni taglienti. Se il bersaglio è una creatura, ad esclusione di costrutti e non morti, deve riuscire un Tiro Salvezza su Tempra 15 o perdere 5 (1d10) Punti Ferita all'inizio di ciascun suo round a causa della ferita infernale. Ogni volta che il diavolo colpisce il bersaglio ferito con questo attacco, il danno inflitto dalla ferita aumenta di 5 (1d10). Qualsiasi creatura può effettuare due Azioni per bloccare la ferita con una prova riuscita di Saggezza (Pronto Soccorso) DC 12. La ferita si richiude anche nel caso in cui il bersaglio riceva della magia guaritrice.
 
@@ -1656,15 +1656,15 @@ I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di m
 
 *Colpisce:* 11 (2d6 + 4) danni taglienti. Il bersaglio è afferrato (DC 14 per fuggire) se il diavolo non sta già afferrando un'altra creatura. Fino al termine dell'afferrare, il bersaglio subisce 7 (2d6) danni perforanti all'inizio di ciascun suo round.
 
-***Animare Catene (Ricarica dopo un 1 ora).*** Fino a quattro catene che il diavolo possa vedere e si trovano entro 18 metri da lui producono dei bordi affilati e si animano sotto il controllo del diavolo, purché quelle catene non siano né indossate né trasportate da qualcun altro.
+***Animare Catene (Ricarica dopo 1 ora).*** Fino a quattro catene che il diavolo possa vedere e si trovano entro 18 metri da lui producono dei bordi affilati e si animano sotto il controllo del diavolo, purché quelle catene non siano né indossate né trasportate da qualcun altro.
 
 Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai danni perforanti, e immunità ai danni da suono. Quando il diavolo usa Multiattacco durante il suo round, può usare ciascuna catena animata per effettuare un ulteriore attacco di catena. Una catena animata può afferrare una creatura per conto proprio ma non può effettuare attacchi mentre afferra. Una catena animata ritorna al suo stato inanimato se viene ridotta a 0 Punti Ferita o se il diavolo è reso inabile o muore.
 
-**Reazione: *Maschera Snervante.*** Quando una creatura che il diavolo può vedere inizia il proprio round entro 9 metri dal diavolo, il diavolo può creare un'illusione per assomigliare all'amore perduto o un acerrimo rivale di quella creatura. Se la creatura può vedere il diavolo, deve riuscire un Tiro Salvezza di Volontà DC 21 o rimanere spaventata fino al termine del suo round.
+**Reazione: *Maschera Snervante.*** Quando una creatura che il diavolo può vedere inizia il proprio round entro 9 metri dal diavolo, il diavolo può creare un'illusione per assomigliare all'amore perduto o a un acerrimo rivale di quella creatura. Se la creatura può vedere il diavolo, deve riuscire un Tiro Salvezza di Volontà DC 21 o rimanere spaventata fino al termine del suo round.
 
 **Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-***Arrabbiato:*** il Diavolo delle Catene agita le catene davanti a se. Fino alla fine del combattimento la Difesa è 27. Costa 1 Azione a round mantenere l'effetto.
+***Arrabbiato:*** il Diavolo delle Catene agita le catene davanti a sé. Fino alla fine del combattimento la Difesa è 27. Costa 1 Azione a round mantenere l'effetto.
 
 | **Ecologia** |
 | --- |
@@ -1674,7 +1674,7 @@ Organizzazione: Solitario, coppia, anello (3-6) o catena (7-20)
 | **Categoria Tesoro**: R |
 | **Descrizione** |
 
-Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini vagano per i piani assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
+Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavoli delle Catene non sono veri diavoli. Anche se alcuni sono noti per vivere all'Inferno, essi esistono al di fuori delle gerarchie stabilite dagli dei degli inferi e dai suoi arcidiavoli e a volte si possono trovare su altri piani, in particolare sul Piano delle Ombre. Molti suggeriscono che siano nativi dell'Inferno che esisteva prima dell'avvento della stirpe diabolica, anche se altri ipotizzano che siano stati portati sul piano da qualche sadica potenza. Indipendentemente dalle loro origini, vagano per i piani e assecondano il loro desiderio di causare e ricevere sofferenza, ricercando il dolore attraverso violenti rapimenti e sadiche depravazioni.
 
 ### Diavolo Cornuto
 
@@ -1694,7 +1694,7 @@ Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavolo del
 
 ***Vista del Diavolo.*** La Scurovisione del diavolo non è limitata dall'oscurità magica.
 
-***Sguardo del comandante.*** i diavoli a più bassa Sfida entro 9 metri prendono +1 al Tiro per Colpire, Difesa e Tiri Salvezza. Non è cumulabile.
+***Sguardo del comandante.*** i diavoli di Sfida più bassa entro 9 metri prendono +1 al Tiro per Colpire, Difesa e Tiri Salvezza. Non è cumulabile.
 
 **Azioni*Multiattacco.*** Il diavolo effettua tre attacchi da mischia: due con il forcone e uno con il pungiglione. Può usare Scagliare Fiamma al posto di qualsiasi attacco da mischia.
 
@@ -1750,7 +1750,7 @@ Un diavolo cornuto tipico raggiunge la ragguardevole altezza di 2,7 metri, è do
 
 ***Aura di Paura.*** Qualsiasi creatura ostile al diavolo che inizi il suo round entro 6 metri da esso, deve effettuare un Tiro Salvezza su Volontà DC 35, a meno che il diavolo non sia inabile. Se fallisce il Tiro Salvezza, la creatura è spaventata fino all'inizio del suo prossimo round. Se il Tiro Salvezza della creatura riesce, la creatura è immune all'Aura di Paura del diavolo per le successive 24 ore.
 
-***Incantesimi Innati.*** La caratteristica da incantatore diavolo della fossa è il Carisma. Il diavolo della fossa può lanciare questi incantesimi in maniera innata, senza bisogno di componenti materiali:
+***Incantesimi Innati.*** La caratteristica da incantatore del diavolo della fossa è il Carisma. Il diavolo della fossa può lanciare questi incantesimi in maniera innata, senza bisogno di componenti materiali:
 
 A volontà: *Individuazione del Magico, Palla di Fuoco*
 
@@ -1788,7 +1788,7 @@ Organizzazione: Solitario, coppia o concilio (3-9)
 
 I diavoli della fossa sono potenti sovrani infernali, generali delle armate dell'Inferno e consiglieri degli arcidiavoli. Con corpi massicci e intelletti malvagi, dominano distese infernali e sottomettono mondi mortali. Alti oltre 4 metri e pesanti più di 500 kg, sono corazzati e dotati di ali imponenti.
 
-I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e puntano a conquistare semipiani e mondi mortali vulnerabili. Obbediscono alla gerarchia infernale ma possono deporre padroni indegni. Solo i più potenti incantatori osano evocarli rischiando la dannazione eterna.
+I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e puntando a conquistare semipiani e mondi mortali vulnerabili. Obbediscono alla gerarchia infernale ma possono deporre padroni indegni. Solo i più potenti incantatori osano evocarli rischiando la dannazione eterna.
 
 ### Diavolo del Ghiaccio
 
@@ -1807,7 +1807,7 @@ I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e
 
 ***Vista del Diavolo.*** La Scurovisione del diavolo non è limitata dall'oscurità magica.
 
-**Azioni*Multiattacco.*** Il diavolo effettua tre attacchi: uno con il morso, uno con gli artigli e uno con la coda. In alternativa effettua due attacchi: uno con la coda e uno con lancia.
+**Azioni*Multiattacco.*** Il diavolo effettua tre attacchi: uno con il morso, uno con gli artigli e uno con la coda. In alternativa effettua due attacchi: uno con la coda e uno con la lancia.
 
 ***Artigli.** Attacco con arma da mischia*: +12 a colpire, portata 1 m, un bersaglio.
 
@@ -1827,7 +1827,7 @@ I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e
 
 ***Muro di Ghiaccio (Ricarica 6).*** Il diavolo forma magicamente un muro di ghiaccio opaco su di una superficie solida che possa vedere entro 18 metri da lui. Il muro è spesso 30 centimetri e largo fino a 9 metri per un massimo di 3 metri di altezza, oppure una cupola semisferica di massimo 6 metri di diametro. Quando la parete appare, ogni creatura nel suo spazio viene spinta fuori da esso tramite la via più breve. La creatura sceglie su quale lato del muro finire, a meno che la creatura non sia inabile. La creatura poi effettua un Tiro Salvezza di Riflessi DC 25, subendo 35 (10d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce.
 
-Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il muro può essere danneggiato e bucato; ogni sezione di 3 metri ha Difesa 5, 30 Punti Ferita, vulnerabilità al danno da fuoco, e Immune al Danno da acido, freddo, da Vuoto e da veleno. Se una sezione viene distrutta, lascia una patina di aria gelida nello spazio che occupava prima il muro. Ogni volta che una creatura finisce per muoversi attraverso quest'aria gelida durante un round, consenziente o meno, deve effettuare un Tiro Salvezza di Tempra DC 25, subendo 17 (5d6)danni da freddo se lo fallisce, o la metà di questi danni se lo riesce. L'aria gelida si dissipa quando il resto del muro svanisce.
+Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il muro può essere danneggiato e bucato; ogni sezione di 3 metri ha Difesa 5, 30 Punti Ferita, vulnerabilità al danno da fuoco, e Immune al Danno da acido, freddo, da Vuoto e da veleno. Se una sezione viene distrutta, lascia una patina di aria gelida nello spazio che occupava prima il muro. Ogni volta che una creatura finisce per muoversi attraverso quest'aria gelida durante un round, consenziente o meno, deve effettuare un Tiro Salvezza di Tempra DC 25, subendo 17 (5d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce. L'aria gelida si dissipa quando il resto del muro svanisce.
 
 **Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
@@ -1841,7 +1841,7 @@ Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 dia
 | **Categoria Tesoro**: Lancia Gelida +1, R |
 | **Descrizione** |
 
-Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli dell'infermo. Un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato ad un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.
+Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli dell'Inferno. Un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato ad un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.
 
 In combattimento manda avanti i suoi sottoposti, così da poter valutare le tattiche, i punti di forza e le debolezze dell'avversario nelle retrovie, e fornire loro supporto con le sue capacità magiche, evitando di coglierli nell'area di effetto dei suoi incantesimi: atteggiamento non dovuto ad un senso di cameratismo, bensì alla fredda e logica verità che i suoi alleati possono sopravvivere più a lungo in uno scontro se non sono esposti a fuoco amico.
 
@@ -1880,7 +1880,7 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 
 *Colpisce:* 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 21, o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce.
 
-***Arrabbiato:*** il Diavolo d'Ossa attacca tutte le creature intorno a lui con l'arma inastata. Tutte le creature ne raggio di 3 metri subiscono un attacco di Arma Inastata Uncinata, senza essere afferrati. Costo 2 Azioni. Il Diavolo d'ossa può decidere di diventare invisibile come sotto l'incantesimo di Invisibilità superiore. 2 Azioni.
+***Arrabbiato:*** il Diavolo d'Ossa attacca tutte le creature intorno a lui con l'arma inastata. Tutte le creature nel raggio di 3 metri subiscono un attacco di Arma Inastata Uncinata, senza essere afferrati. Costo 2 Azioni. Il Diavolo d'ossa può decidere di diventare invisibile come sotto l'incantesimo di Invisibilità superiore. 2 Azioni.
 
 | **Ecologia** |
 | --- |
@@ -1896,7 +1896,7 @@ I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi inca
 
 ### Diavolo Spinoso
 
-- **Taglia/Tipo**: Piccola diavolo, malvagio
+- **Taglia/Tipo**: Piccolo diavolo, malvagio
 - **Caratt.**: \resizedown{For 0 Des 2 Cos 1 Int 0 Sag 2 Car -1}
 - **Punti Ferita**: \resizedown{51, **Difesa:** 16, **Iniziativa:** +2}
 - **Movimento**: 6 m, volo 12 m
@@ -1939,7 +1939,7 @@ Organizzazione: Solitario, coppia, gruppo (3-5) o plotone (6-11)
 | **Descrizione** |
 
 Sentinelle delle volte dell'Inferno, carcerieri delle anime più nere e armi viventi delle forge infernali. Un Diavolo Spinoso ama sentire il sangue caldo sulle proprie spine e preferisce gettarsi nella mischia quando gli viene offerta l'opportunità di combattere.
-I Diavoli Spinoso sono collezionisti ed organizzatori. Se lasciati agire liberamente, nei nascondigli di questi diavoli spesso fanno mostra i trofei trafitti di vecchie vittime.
+I Diavoli Spinosi sono collezionisti ed organizzatori. Se lasciati agire liberamente, nei nascondigli di questi diavoli spesso fanno mostra dei trofei trafitti di vecchie vittime.
 La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, sebbene i loro corpi asciutti e muscolosi sembrino più grossi per via degli spuntoni in continua crescita che fuoriescono dai loro corpi, taglienti come lame.
 
 ### Erinni
@@ -2187,13 +2187,13 @@ A volontà: *Confusione (un unico bersaglio), Infliggi Ferite con un critico, In
 
 **Azioni*Multiattacco.*** Il Divora Cervelli può effettuare 4 attacchi, uno per artiglio
 
-***Artiglio.** Attacco con arma da mischia*: +9 al a colpire, portata 1 m, una creatura.
+***Artiglio.** Attacco con arma da mischia*: +9 a colpire, portata 1 m, una creatura.
 
 *Colpisce:* 3 danni da taglio (1d4+1), 1 danno da Sanguinamento.
 
 **Abilità speciali*Furto del corpo***
 
-Spendendo 3 Azioni un Divora Cervelli può diventare minuscolo e strisciare nella bocca/naso/orecchie di una creatura indifesa o morta ed arrivare al cervello per nutrirsene. Si tratta di una azione che uccide la creatura.
+Spendendo 3 Azioni un Divora Cervelli può diventare minuscolo e strisciare nella bocca/naso/orecchie di una creatura indifesa o morta ed arrivare al cervello per nutrirsene. Si tratta di un'azione che uccide la creatura.
 
 Il Divora Cervelli assume il controllo del corpo e lo può usare a suo piacimento, come se controllasse la vittima con un incantesimo Dominare Mostri. Il Divora Cervelli ha pieno accesso a tutte le capacità difensive e offensive dell'ospite tranne che per le capacità magiche e gli incantesimi (anche se il Divora Cervelli può comunque usare le proprie capacità magiche).
 
@@ -2201,7 +2201,7 @@ Un corpo ospite non deve essere morto da più di 1 giorno perché questa capacit
 
 Finché il Divora Cervelli occupa il corpo, conosce (e può parlare) i linguaggi conosciuti dalla vittima e le informazioni sulla sua identità e personalità, ma non può possederne gli specifici ricordi e conoscenze.
 
-Il danno inflitto al corpo, che ha il doppio dei Punti Ferita originali, ospite non danneggia il Divora Cervelli e se il corpo ospite viene distrutto il Divora Cervelli esce ed è Stordito per 1 round.
+Il danno inflitto al corpo, che ha il doppio dei Punti Ferita originali, non danneggia il Divora Cervelli e se il corpo ospite viene distrutto il Divora Cervelli esce ed è Stordito per 1 round.
 
 | **Ecologia** |
 | --- |
@@ -2233,7 +2233,7 @@ Si dice che il giardino di Shayalia sia pieno di Divora Cervelli. Un Divora Cerv
 
 | ***Dobi*** Il Dobi si appiccica, per spostarlo è necessario essere gentili e chiederglielo. |
 | --- |
-| ***Dobi Dobi Dobi*** Quando il Dobi subisce più di 3 punti ferita di danno con un arma non contundente si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente. |
+| ***Dobi Dobi Dobi*** Quando il Dobi subisce più di 3 punti ferita di danno con un'arma non contundente si divide in due Dobi più piccoli ognuno con lo stesso ammontare di Punti Ferita rimasti al Dobi precedente. |
 | **Azioni** |
 | ***Dobi Dobi*** il Dobi proietta un aura di Calmare Emozioni come l'omonimo incantesimo ma non è concesso il Tiro Salvezza. Il Dobi può influenzare una sola creatura alla volta con il suo potere. |
 | **Ecologia** |
@@ -2281,7 +2281,7 @@ Da *Viaggio nel primo mondo.* Romanzo di Federica Angeli
 
 *Colpisce:* 7 (1d6 + 4) danni contundenti.
 
-***Leggere Pensieri.*** Il doppelganger legge magicamente i pensieri di superficie di una creatura entro 18 metri da lui. L'effetto può penetrare le barriere, ma 1 metro di legno o terra, 50 centimetri di pietra, 5 centimetri di metallo, o un sottile foglio di piombo lo blocca. Mentre il bersaglio è a gittata, il doppelganger può continuare a leggerne i pensieri, purché la concentrazione del doppelganger non venga infranta (come la concentrazione di un incantesimo). Mentre legge la mente di un bersaglio, il doppelganger ha +1d6 alle prove di Saggezza e Carisma contro il bersaglio.
+***Leggere Pensieri.*** Il doppelganger legge magicamente i pensieri di superficie di una creatura entro 18 metri da lui. L'effetto può penetrare le barriere, ma 1 metro di legno o terra, 50 centimetri di pietra, 5 centimetri di metallo, o un sottile foglio di piombo lo blocca. Mentre il bersaglio è a gittata, il doppelganger può continuare a leggere i suoi pensieri, purché la concentrazione del doppelganger non venga infranta (come la concentrazione di un incantesimo). Mentre legge la mente di un bersaglio, il doppelganger ha +1d6 alle prove di Saggezza e Carisma contro il bersaglio.
 
 | **Ecologia** |
 | --- |
@@ -2313,8 +2313,8 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 
 **Draghi e Magia**
 
-- Ogni Drago può lanciare incantesimi sino ad un livello massimo pari ad un quarto del suo Grado si Sfida, con un minimo accesso al primo livello.
-- Ogni Drago ha un numero di Punti Magia pari 5 volte il suo Grado di Sfida
+- Ogni Drago può lanciare incantesimi sino ad un livello massimo pari ad un quarto del suo Grado di Sfida, con un minimo accesso al primo livello.
+- Ogni Drago ha un numero di Punti Magia pari a 5 volte il suo Grado di Sfida
 - Ogni Drago ha un punteggio di Competenza Magica pari alla metà del suo Grado di Sfida
 
 **Tabella: accesso Lista di Magia per Draghi**
@@ -2340,7 +2340,7 @@ Nella **Descrizione di ogni Drago Antico** troverete una breve descrizione del t
 
 **Poteri speciali dei Draghi**
 
-Ogni Drago a seconda dell'età ha uno o più poteri speciale casuali.
+Ogni Drago a seconda dell'età ha uno o più poteri speciali casuali.
 Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è Antico. In caso di poteri ripetuti non ripetere il tiro.
 
 | **3d6** | **Potere del Drago** |
@@ -2411,7 +2411,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Attacco di Coda.** Il drago effettua un attacco di coda.
 
-**Individuare.** Il drago effettua una prova Consapevolezza.
+**Individuare.** Il drago effettua una prova di Consapevolezza.
 
 | **Ecologia** |
 | --- |
@@ -2424,16 +2424,16 @@ Organizzazione: Solitario
 I Draghi Bianchi sono tra i più selvaggi e animali di tutti i draghi.
 Amano i posti freddi e ghiacciati, trovando rifugio nelle valli più fredde come i picchi ghiacciati delle montagne e le steppe gelide.
 
-I Draghi Bianchi hanno un aspetto selvaggio quasi sempre mostrano i denti e gli artigli sono estratti per muoversi agilmente sul terreno ghiacciato.
+I Draghi Bianchi hanno un aspetto selvaggio, quasi sempre mostrano i denti e gli artigli sono estratti per muoversi agilmente sul terreno ghiacciato.
 Non hanno penalità di movimento su questi terreni.
 
 Sfruttano il loro naturale camuffamento per aggredire e catturare le prede, sono ottimi cacciatori, molto intelligenti nello sfruttare l'ambiente.
 
-Poco inclini alla magia sanno però soffiare schegge di ghiaccio molto più frequentemente di altri draghi. È immune gli attacchi basati sul freddo e ghiaccio.
+Poco inclini alla magia sanno però soffiare schegge di ghiaccio molto più frequentemente di altri draghi. È immune agli attacchi basati sul freddo e ghiaccio.
 
 Le loro tane sono caverne ghiacciate nelle montagne o scavate nei ghiacciai più massicci.
 
-| I Draghi Bianchi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Acqua ed è immune al freddo. |
+| I Draghi Bianchi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Acqua e sono immuni al freddo. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -2489,7 +2489,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago Bianco Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -2636,7 +2636,7 @@ Organizzazione: Solitario
 
 I Draghi Blu abitano tra le nuvole, volando (e levitando) tra le tempeste.
 
-I Draghi Blu hanno un aspetto serpentiforme, allungato ed legante, con corna lunghe all'indietro.
+I Draghi Blu hanno un aspetto serpentiforme, allungato e legante, con corna lunghe all'indietro.
 
 La faccia di un Drago Blu è meno segnata da increspature e rimane liscia.
 Sono gli unici draghi a non avere ali pur volando meglio di ogni altro drago.
@@ -2652,7 +2652,7 @@ Solitamente non si trova mai un nido da solo, ma interi altopiani dominati da de
 
 Non vanno d'accordo con i draghi viola che disprezzano per la scelta di aver rinunciato al volo per vivere sottoterra.
 
-| I Draghi Blu hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Aria ed è immune all'elettricità. |
+| I Draghi Blu hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista dell'Aria e sono immuni all'elettricità. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -2700,7 +2700,7 @@ Non vanno d'accordo con i draghi viola che disprezzano per la scelta di aver rin
 
 Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'opzione Aggiuntiva alla volta e solo al termine del round di un'altra creatura. Il drago recupera le Azioni aggiuntive spese all'inizio del proprio round.
 
-**Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 3 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 30 o subire 14 (2d6 + 7) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà della del suo movimento di volo.
+**Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 3 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 30 o subire 14 (2d6 + 7) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà del suo movimento di volo.
 
 **Attacco di Coda.** Il drago effettua un attacco di coda.
 
@@ -2708,7 +2708,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago Blu Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -2848,7 +2848,7 @@ Hanno una passione per la carne dei nani che trovano saporita anche se asciutta.
 
 Il Drago Giallo pur se intelligente è una macchina di morte e difficilmente scende a patti, solo se si trova in serio pericolo.
 
-| Un Drago Giallo hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
+| I Draghi Gialli hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -2914,7 +2914,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: D |
 | **Descrizione** |
 
-I Draghi Neri sono violenti ed aggressivi, vivono in paludi e acquitrini e che generalmente governano come padroni indiscussi.
+I Draghi Neri sono violenti ed aggressivi, vivono in paludi e acquitrini e generalmente governano come padroni indiscussi.
 
 I Draghi Neri sono creature minacciose che hanno grandi corna curve in avanti.
 La testa si collega ad un collo relativamente corto e ad un corpo da lucertola grossa e muscoloso.
@@ -2922,19 +2922,19 @@ La testa si collega ad un collo relativamente corto e ad un corpo da lucertola g
 Hanno ali piccolissime che si trovano sui lati, ma riescono comunque a volare grazie alla magia.
 Hanno le zampe palmate per permettere loro di nuotare con maggiore facilità nelle zone paludose dove vivono.
 
-I Draghi Neri tendono a fare le loro tane al centro della palude o acquitrino.
+I Draghi Neri tendono a fare le loro tane al centro della palude o dell'acquitrino.
 Considerano quel territorio il loro e nessuno può bagnarsi senza subire la loro ira.
 
 Una tana di drago nero può essere un ammasso gigantesco di tronchi ma anche una caverna sotterranea sommersa d'acqua, se non il fondo di un lago.
-Potendo respirare sott'acqua non si fanno preoccupazione su dove costruire la loro dimora.
+Potendo respirare sott'acqua non si fanno preoccupazioni su dove costruire la loro dimora.
 
 La loro casa è sempre protetta da trappole e dai loro seguaci malvagi che gli portano cibo, possibilmente vivo.
 
-L'ambiente dove vive un drago nero ne subisce i suoi effetti, vapori acidi, distruzione, corruzione sono immediatamente percepibili.
+L'ambiente dove vive un drago nero ne subisce gli effetti, vapori acidi, distruzione, corruzione sono immediatamente percepibili.
 
-Il Drago Nero rappresentano i Tratti dell'egoismo e violenza odiando ogni forma di vita, compreso gli stessi draghi neri.
+Il Drago Nero rappresenta i Tratti dell'egoismo e violenza odiando ogni forma di vita, compreso gli stessi draghi neri.
 
-| I Draghi neri hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Necromanzia ed è immune all'acido. |
+| I Draghi neri hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Necromanzia e sono immuni all'acido. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -2943,7 +2943,7 @@ Il Drago Nero rappresentano i Tratti dell'egoismo e violenza odiando ogni forma 
 
 - Scagliare Maledizione
 
-Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vita un morto a discapito di tutti i vincoli imposti dai Patroni.
+Ebbene sì, il Drago Nero è l'unica creatura sulla Terra che può portare in vita un morto a discapito di tutti i vincoli imposti dai Patroni.
 
 ### Drago Nero Adulto
 
@@ -2986,7 +2986,7 @@ Ebbene si, il Drago Nero è l'unica creatura sulla Terra che può portare in vit
 
 Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Può usare solo un'opzione Aggiuntiva alla volta e solo al termine del round di un'altra creatura. Il drago recupera le Azioni aggiuntive spese all'inizio del proprio round.
 
-**Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 3 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 30 o subire 13 (2d6 + 6) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà della del suo movimento di volo.
+**Attacco di Ala (Costa 2 Azioni).** Il drago batte le ali. Ogni creatura entro 3 metri dal drago deve riuscire un Tiro Salvezza su Riflessi DC 30 o subire 13 (2d6 + 6) danni contundenti e venir gettato prono. Il drago può poi volare fino a metà del suo movimento di volo.
 
 **Attacco di Coda.** Il drago effettua un attacco di coda.
 
@@ -2994,7 +2994,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago Nero Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -3103,7 +3103,7 @@ Vedi Descrizione Drago Nero Antico.
 
 ***Onde esplosive.*** il drago emette nel raggio di 3 metri vibrazioni sonore che causano 2d6 danni da suono a round.
 
-***Terrestre.*** Il drago finché è sotto terra può non respirare ne mangiare.
+***Terrestre.*** Il drago finché è sotto terra può non respirare né mangiare.
 
 ***Resistenza Leggendaria (3/Giorno).*** Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire.
 
@@ -3146,17 +3146,17 @@ Organizzazione: Solitario, creature sotterranee
 | **Descrizione** |
 
 I Draghi Porpora vivono sotto terra e si sono perfettamente adattati alla vita sotterranea.
-Capaci di vedere al buio come se fosse pieno giorno, dotati di Senso Tellurico, hanno perso la capacità di volare ma acquisito quella di scavare con la stessa velocità come se corressero.
+Capaci di vedere al buio come se fosse pieno giorno, dotati di Senso Tellurico, hanno perso la capacità di volare ma hanno acquisito quella di scavare con la stessa velocità come se corressero.
 
-Un Drago Porpora è molto territoriale e stabilirà un perimetro (di circa 5 km di raggio) dove crea, se non già presente un intricata serie di cunicoli e caverne per i suoi servi.
+Un Drago Porpora è molto territoriale e stabilirà un perimetro (di circa 5 km di raggio) dove crea, se non già presente, un'intricata serie di cunicoli e caverne per i suoi servi.
 
 Un Drago Porpora è molto protettivo con le sue creature, con chi gli porta da mangiare e gli offre tesori.
 
-Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente crescono. Hanno un potentissimo attacco sonico che spesso crea crolli nelle caverne, crolli che sono completamente indifferente a lui.
+Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente crescono. Hanno un potentissimo attacco sonico che spesso crea crolli nelle caverne, crolli che gli sono completamente indifferenti.
 
 È forte e coraggioso, arrogante ma non sfrontato. Non ha paura di combattere se pensa di vincere. Porta sempre la battaglia sottoterra dove può creare fosse per fare precipitare i nemici o scappare se necessario.
 
-| Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra, è immune al danno ed effetti sonori. |
+| Un Drago Porpora ha +1d6 nelle prove di magia e può ignorare un dado tirato nella prova con la Lista della Terra ed è immune al danno ed effetti sonori. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -3212,7 +3212,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 **Individuare.** Il drago effettua una prova di Consapevolezza.
 
-***Arrabbiato***: Il drago rosso si scuote e ruggisce. 1 volta al giorno, la prima volta che è Arrabbiato, termina tutte le condizioni negative su di se e tutte le abilità si ricaricano. Il soffio si ricarica con 3-6.
+***Arrabbiato***: Il drago rosso si scuote e ruggisce. 1 volta al giorno, la prima volta che è Arrabbiato, termina tutte le condizioni negative su di sé e tutte le abilità si ricaricano. Il soffio si ricarica con 3-6.
 
 | **Ecologia** |
 | --- |
@@ -3227,11 +3227,11 @@ Il Drago Rosso si crede il Re dei Draghi per via della sua potenza fisica e del 
 I Draghi Rossi sono i draghi più grandi sia per corporatura che per apertura alare.
 Spesso le scaglie, di un rosso scuro quasi di sangue, hanno bordi affilati ed allungati.
 
-I Draghi Rossi prediligono le montagne calde e se possibile direttamente direttamente dentro un vulcano.
+I Draghi Rossi prediligono le montagne calde e se possibile direttamente dentro un vulcano.
 
-Combattono sfruttando la loro mole, le ali, il morso artigli.. insomma tutto ciò che sono ed hanno a disposizione. Un Drago Rosso combatte sempre fino alla morte non si ritira ne scappa ne rinuncia ad una sfida, l'orgoglio di cui sono tronfi non gli permette di mostrarsi deboli.
+Combattono sfruttando la loro mole, le ali, il morso, gli artigli... insomma tutto ciò che sono ed hanno a disposizione. Un Drago Rosso combatte sempre fino alla morte non si ritira né scappa né rinuncia ad una sfida, l'orgoglio di cui sono tronfi non gli permette di mostrarsi deboli.
 
-| Un Drago Rosso hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
+| I Draghi Rossi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -3289,7 +3289,7 @@ Il drago può poi volare fino a metà del suo movimento di volo.
 
 ***Arrabbiato:*** Il Drago Rosso Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -3439,10 +3439,10 @@ Organizzazione: Solitario
 I Draghi verdi amano le foreste e la natura incontaminata dove si reputano i padroni e re indiscussi.
 
 I potenti draghi verdi hanno la testa tondeggiante e pronunciate orecchie all'indietro, le corna sono corte e non appuntite.
-Gli artigli e le fauci sono devastanti, potenti e capace di tranciare qualsiasi cosa.
+Gli artigli e le fauci sono devastanti, potenti e capaci di tranciare qualsiasi cosa.
 Il naso è largo e le narici aperte come se dovesse soffiare in qualsiasi momento.
 
-Il soffio dei draghi verde è veleno, così che possa uccidere le creature viventi ma non le piante.
+Il soffio dei draghi verdi è veleno, così che possa uccidere le creature viventi ma non le piante.
 
 La tana di un drago verde è sempre vicino ad una sorgente d'acqua, possibilmente nella parte più lussureggiante ed incontaminata della foresta.
 
@@ -3450,7 +3450,7 @@ Un Drago verde non ama volare e preferisce saltare schiacciando con il suo peso 
 
 Tra i tanti draghi quello verde è forse quello che farà parlare gli avventurieri se si dimostrano rispettosi ed impauriti dalla sua regalità.
 
-| I Draghi Verdi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Animali e Piante ed è immune i Veleni sia a quelli magici che naturali. |
+| I Draghi Verdi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista di Animali e Piante e sono immuni ai Veleni sia a quelli magici che naturali. |
 | **Incantesimi** |
 | --- |
 | Gli incantesimi preferiti di questo Drago sono: |
@@ -3508,7 +3508,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago Verde Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -3620,7 +3620,7 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 - **Linguaggi**: Comune, Draconico
 - **Sfida**: 23 (50000 PX)
 
-***Aura rallentante.*** il drago emette nel raggio di 3 metri una aura magica che causa Rallentato 1.
+***Aura rallentante.*** il drago emette nel raggio di 3 metri un'aura magica che causa Rallentato 1.
 
 ***Resistenza Leggendaria (3/Giorno).*** Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire.
 
@@ -3718,7 +3718,7 @@ Organizzazione: Solitario
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
 **Azioni Aggiuntive**
 
@@ -3732,7 +3732,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago d'Argento Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -3871,11 +3871,11 @@ Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad u
 
 *Soffio Fulminante.* Il drago esala fulmini in una linea lunga 36 metri e larga 3 metri. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 35, subendo 88 (16d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 35, altrimenti viene allontana di 18 metri dal drago.
+*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 35, altrimenti viene allontanata di 18 metri dal drago.
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
 **Azioni Aggiuntive**
 
@@ -3938,11 +3938,11 @@ Organizzazione: Solitario
 
 *Soffio Fulminante.* Il drago esala fulmini in una linea lunga 27 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 29, subendo 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 29, altrimenti viene allontana di 18 metri dal drago.
+*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 29, altrimenti viene allontanata di 18 metri dal drago.
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
 **Azioni Aggiuntive**
 
@@ -3956,7 +3956,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago di Bronzo Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -3989,7 +3989,7 @@ Organizzazione: Solitario
 
 ***Anfibio.*** Il drago può respirare aria e acqua.
 
-**Azioni*Multiattacco.*** Il drago può usare effettuare tre attacchi: uno con il morso e due con gli artigli.
+**Azioni*Multiattacco.*** Il drago può effettuare tre attacchi: uno con il morso e due con gli artigli.
 
 ***Artiglio.** Attacco con arma da mischia*: +10 a colpire, portata 1 m, un bersaglio.
 
@@ -4003,7 +4003,7 @@ Organizzazione: Solitario
 
 *Soffio Fulminante.* Il drago esala fulmini in una linea lunga 18 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 20, subendo 55 (10d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 20, altrimenti viene allontana di 12 metri dal drago.
+*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 20, altrimenti viene allontanata di 12 metri dal drago.
 
 ***Arrabbiato:*** il Drago di Bronzo Giovane ricarica uno dei suoi soffi.
 
@@ -4045,7 +4045,7 @@ portata 1 m, un bersaglio.
 
 *Soffio Fulminante.* Il drago esala fulmini in una linea lunga 12 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 16, subendo 16 (3d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 16, altrimenti viene allontana di 9 metri dal drago.
+*Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 16, altrimenti viene allontanata di 9 metri dal drago.
 
 | **Ecologia** |
 | --- |
@@ -4070,7 +4070,7 @@ I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se cau
 - **Linguaggi**: Comune, Draconico
 - **Sfida**: 24 (62000 PX)
 
-***Aura indebolente.*** il drago emette nel raggio di 3 metri un aura che causa Affaticato 2. Rimanere nell'aura non aumenta il livello di affaticato.
+***Aura indebolente.*** il drago emette nel raggio di 3 metri un'aura che causa Affaticato 2. Rimanere nell'aura non aumenta il livello di affaticato.
 
 ***Anfibio.*** Il drago può respirare aria e acqua.
 
@@ -4102,7 +4102,7 @@ I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se cau
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
 **Azioni Aggiuntive**
 
@@ -4142,7 +4142,7 @@ Organizzazione: Solitario
 - **Linguaggi**: Comune, Draconico
 - **Sfida**: 17 (18000 PX)
 
-***Aura indebolente.*** il drago emette nel raggio di 3 metri un aura che causa Affaticato 1. Rimanere nell'aura non aumenta il livello di affaticato.
+***Aura indebolente.*** il drago emette nel raggio di 3 metri un'aura che causa Affaticato 1. Rimanere nell'aura non aumenta il livello di affaticato.
 
 ***Anfibio.*** Il drago può respirare aria e acqua.
 
@@ -4172,7 +4172,7 @@ Organizzazione: Solitario
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
 **Azioni Aggiuntive**
 
@@ -4186,7 +4186,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago d'Oro Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -4301,7 +4301,7 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 - **Linguaggi**: Comune, Draconico
 - **Sfida**: 20 (25000 PX)
 
-***Aura soporifera.*** il drago emette nel raggio di 3 metri una aura magica che causa Rallentato 1 o Affaticato 1, casualmente per creatura.
+***Aura soporifera.*** il drago emette nel raggio di 3 metri un'aura magica che causa Rallentato 1 o Affaticato 1, casualmente per creatura.
 
 ***Resistenza Leggendaria (3/Giorno).*** Se il drago fallisce un Tiro Salvezza, può scegliere invece di riuscire.
 
@@ -4331,7 +4331,7 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa azione. Le sue statistiche e capacità vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
 **Azioni Aggiuntive**
 
@@ -4407,7 +4407,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago d'ottone Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -4542,11 +4542,11 @@ Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combatter
 
 *Soffio Acido.* Il drago esala acido in una linea lunga 27 metri e larga 3 metri. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 34, subendo 63 (14d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 34. Se fallisce il Tiro Salvezza, la creatura ha una Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 34. Se fallisce il Tiro Salvezza, la creatura ha un'Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 ***Mutare Forma.*** Il drago può trasformarsi magicamente in un umanoide o bestia il cui grado di sfida sia pari o inferiore al proprio, o tornare alla sua vera forma. Alla morte ritorna alla sua vera forma. Qualsiasi equipaggiamento stia indossando o trasportando viene assorbito o trasportato nella nuova forma (a scelta del drago).
 
-Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa Azione. Le sue statistiche e capacità
+Nella nuova forma, il drago mantiene i suoi Tratti, Punti Ferita, la facoltà di parlare, le competenze, la Resistenza Leggendaria, le azioni da tana, e i punteggi di Intelligenza, Saggezza e Carisma, oltre a questa Azione. Le sue statistiche e capacità
 
 vengono altrimenti rimpiazzate da quelle della nuova forma, eccetto Azioni aggiuntive della nuova forma.
 
@@ -4610,7 +4610,7 @@ Organizzazione: Solitario
 
 *Soffio Acido.* Il drago esala acido in una linea lunga 18 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 27, subendo 54 (12d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 27. Se fallisce il Tiro Salvezza, la creatura ha una Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 27. Se fallisce il Tiro Salvezza, la creatura ha un'Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Azioni Aggiuntive**
 
@@ -4624,7 +4624,7 @@ Il drago può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu
 
 ***Arrabbiato:*** Il Drago di Rame Adulto può eseguire queste azioni a costo 2 Azioni.
 
-*Focalizzare*: la creatura interrompe un effetto mentale su di se in corso
+*Focalizzare*: la creatura interrompe un effetto mentale su di sé in corso
 
 *Brutalità*: la creatura attacca con ferocia inaudita. +1d6 al Tiro per Colpire, 1 danno critico automatico quando colpisce.
 
@@ -4670,7 +4670,7 @@ Organizzazione: Solitario
 
 *Soffio Acido.* Il drago esala acido in una linea lunga 12 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 19, subendo 40 (9d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 19. Se fallisce il Tiro Salvezza, la creatura ha una Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 19. Se fallisce il Tiro Salvezza, la creatura ha un'Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 ***Arrabbiato:*** il Drago di Rame Giovane ricarica uno dei due soffi. Costo 1 Azione.
 
@@ -4710,7 +4710,7 @@ Organizzazione: Solitario
 
 *Soffio Acido.* Il drago esala acido in una linea lunga 6 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 12, subendo 18 (4d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 12. Se fallisce il Tiro Salvezza, la creatura ha una Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Soffio Rallentante.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 12. Se fallisce il Tiro Salvezza, la creatura ha un'Azione in meno a round ed ha la velocità dimezzata. Questi effetti permangono 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 | **Ecologia** |
 | --- |
@@ -4738,9 +4738,9 @@ Questo drago capriccioso durante il combattimento cerca di ostacolare e frustrar
 - **Linguaggi**: tutti
 - **Sfida**: 30 (155000 PX)
 
-***Aura distruttiva.*** il drago emette nel raggio di 6 metri un aura che causa 1 danno da forza cumulativo per round di permanenza. Il danno si azzera dopo 1 ora di allontanamento.
+***Aura distruttiva.*** il drago emette nel raggio di 6 metri un'aura che causa 1 danno da forza cumulativo per round di permanenza. Il danno si azzera dopo 1 ora di allontanamento.
 
-**Immortale sulla Terra.** Quando il corpo di Tàhil viene ucciso sulla Terra questo si riforma in 3d6 giorni nella tana fatta da Calicante.
+**Immortale sulla Terra.** Quando il corpo di Tàhil viene ucciso sulla Terra, questo si riforma in 3d6 giorni nella tana fatta da Calicante.
 
 ***Incantesimi.*** Tàhil ha CM 20. La sua caratteristica da incantatore è il Carisma. Tàhil conosce i seguenti incantesimi:
 
@@ -4750,13 +4750,13 @@ A volontà: Parola Divina
 
 ***Padrone dei Draghi.*** Ogni Drago non di Ljust sulla Terra è fedele ed ubbidiente al volere di Tàhil.
 
-***Voce del Padrone.*** Tàhil può dialogare con ogni drago di Tàhil presente in sulla Terra, indipendentemente dalla distanza.
+***Voce del Padrone.*** Tàhil può dialogare con ogni drago di Tàhil presente sulla Terra, indipendentemente dalla distanza.
 
 ***Richiamo del Padrone.*** Tàhil apre un portale ed escono 1d2+1 draghi di Tàhil di età e colore casuale. Il potere è usabile 1 volta al giorno.
 
-***Resistenza Leggendaria (5/Giorno).*** Se il Tàhil fallisce un Tiro Salvezza, può scegliere invece di riuscirvi.
+***Resistenza Leggendaria (5/Giorno).*** Se Tàhil fallisce un Tiro Salvezza, può scegliere invece di riuscirvi.
 
-***più teste.*** Tàhil ha +1d6 ai Tiri Salvezza contro essere cieco, sordo, svenuto. Tàhil può eseguire fino a 6 Reazioni per round.
+***Più teste.*** Tàhil ha +1d6 ai Tiri Salvezza contro essere cieco, sordo, svenuto. Tàhil può eseguire fino a 6 Reazioni per round.
 
 ***Rigenerazione.*** Tàhil rigenera 30 Punti Ferita all'inizio del suo round
 
@@ -4768,7 +4768,7 @@ A volontà: Parola Divina
 
 **Azioni Aggiuntive**
 
-Il Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura. Tàhil può cambiare il colore della sua testa per accedere ai poteri degli altri tipi di drago. Le azioni dipendono dalla testa scelta.
+Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura. Tàhil può cambiare il colore della sua testa per accedere ai poteri degli altri tipi di drago. Le azioni dipendono dalla testa scelta.
 
 **Attacco con Artiglio.**: +19, portata 6 metri, un obiettivo. Se colpisce 32 (4d10 + 10, 3 da Sanguinamento) danno da taglio più 14 (4d6) danni da acido (testa Nera) oppure Elettricità (testa Blu) oppure da Veleno (testa Verde) oppure da Fuoco (testa Rossa) oppure da Freddo (testa Bianca) oppure da Fuoco (testa Gialla) oppure da Suono (testa Viola)
 
@@ -4861,7 +4861,7 @@ I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di u
 - **Linguaggi**: Elfico, Silvano
 - **Sfida**: 1 (200 PX)
 
-***Camminata Arborea.*** Uno volta durante il suo round, la driade può usare 1 Azione per entrare magicamente in un albero vivo a sua portata
+***Camminata Arborea.*** Una volta durante il suo round, la driade può usare 1 Azione per entrare magicamente in un albero vivo a sua portata
 
 ed emergere da un altro albero vivo entro 18 metri dal primo albero, ricomparendo in uno spazio non occupato entro 1 metro dal secondo albero. Entrambi gli alberi devono essere di taglia Grande o superiore.
 
@@ -4894,7 +4894,7 @@ La driade non può tenere affascinati più di un umanoide o tre bestie alla volt
 Ambiente: Foreste Temperate
 
 Organizzazione: Solitario, coppia o boschetto (3-8)
-| **Categoria Tesoro**: Arco Lungo Perfetto con 20 Frecce, Pugnale,D |
+| **Categoria Tesoro**: Arco Lungo Perfetto con 20 Frecce, Pugnale, D |
 | **Descrizione** |
 
 Le driadi sono spiriti della natura che amano i boschi appartati lontani dagli umanoidi bisognosi di legname. L'interesse principale delle driadi è la propria sopravvivenza e quella delle adorate foreste e sono note per costringere magicamente i viaggiatori ad aiutarle in quei compiti che non possono espletare.
@@ -4918,7 +4918,7 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 | --- |
 | ***Congelamento.*** Se l'elementale subisce danno da freddo, gela parzialmente; il suo movimento è ridotto di 6 metri fino al termine del suo prossimo round. |
 | ***Forma d'Acqua.*** L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere. |
-| ***Natura Elementale.*** Un elementale non ha bisogno di aria,cibo, bevande o sonno. |
+| ***Natura Elementale.*** Un elementale non ha bisogno di aria, cibo, bevande o sonno. |
 | **Azioni** |
 | ***Multiattacco.*** L'elementale effettua due attacchi di schianto. |
 | ***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio. |
@@ -5126,9 +5126,9 @@ In genere formano delle coppie riproduttive per allevare la prole solo per brevi
 
 ***Possessione (Ricarica 6).*** Un umanoide, entro 1 metro e visibile al fantasma, deve riuscire un Tiro Salvezza di Volontà DC 15 o venire posseduto dal fantasma; il fantasma poi scompare, e il bersaglio è inabile e perde il controllo del suo corpo. Il fantasma ora controlla il corpo ma non priva il bersaglio della sua consapevolezza. Il fantasma non può essere bersaglio di attacchi, incantesimi, o altri effetti, eccetto quelli che scacciano i non morti, e mantiene i suoi Tratti, Intelligenza, Saggezza, Carisma e immunità all'essere affascinato e spaventato. Per il resto usa altrimenti le statistiche del bersaglio posseduto, ma non accede al sapere e competenze del bersaglio.
 
-La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la termina con un'Azione Immediata, o il fantasma viene scacciato o espulso. Quando la possessione termina, il fantasma riappare in uno spazio non occupato entro 1 metro dal corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore dopo aver riuscito il Tiro Salvezza o al termine della possessione.
+La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la termina con un'Azione Immediata, o il fantasma viene scacciato o espulso. Quando la possessione termina, il fantasma riappare in uno spazio non occupato entro 1 metro dal corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore dopo aver superato il Tiro Salvezza o al termine della possessione.
 
-***Viso Orripilante.*** Ogni creatura che non sia non morta, entro 18 metri dal fantasma e che lo possa vedere, deve riuscire un Tiro Salvezza di Volontà DC 15 o essere spaventata per 1 minuto. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun proprio round, terminando l'effetto per sé, qualora riuscisse il Tiro Salvezza. Se il Tiro Salvezza del bersaglio riesce e per lui l'effetto ha fine, il bersaglio è immune al Viso Orripilante del fantasma per le successive 24 ore. Tramite l'incantesimo Ristorare Superiore si può recuperare 1 anno di invecchiamento, ma solo se eseguito entro 24 dall'effetto di invecchiamento.
+***Viso Orripilante.*** Ogni creatura che non sia non morta, entro 18 metri dal fantasma e che lo possa vedere, deve riuscire un Tiro Salvezza di Volontà DC 15 o essere spaventata per 1 minuto. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun proprio round, terminando l'effetto per sé, qualora riuscisse il Tiro Salvezza. Se il Tiro Salvezza del bersaglio riesce e per lui l'effetto ha fine, il bersaglio è immune al Viso Orripilante del fantasma per le successive 24 ore. Tramite l'incantesimo Ristorare Superiore si può recuperare 1 anno di invecchiamento, ma solo se eseguito entro 24 ore dall'effetto di invecchiamento.
 
 **Ecologia**
 
@@ -5141,7 +5141,7 @@ Organizzazione: solitario
 
 Quando ad un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.
 
-più di altri mostri, il fantasma deve avere un background ben delineato. Perché questo personaggio è diventato un fantasma? Quali leggende lo circondano? Un incontro con un fantasma non dovrebbe mai avvenire in modo accidentale: ci sono molti altri non morti incorporei, come Wraith e Spettri, per questo. Un incontro adeguato con un fantasma dovrebbe avvenire in una scena al culmine di un lungo periodo di tensione costruito con servitori minori o manifestazioni di spiriti non morti. L'esempio di fantasma sopra rappresenta una principessa umana assassinata da un amante infedele; dopo un confronto, lui la legò con delle catene e la gettò nel pozzo del castello, dove morì annegata. Le capacità del fantasma sono state selezionate in base al background, mostrando come si possa creare un potente antagonista. Applicando l'archetipo a creature con livelli e quindi Abilità proprie o con capacità razziali significative si possono creare fantasmi molto più potenti.
+Più di altri mostri, il fantasma deve avere un background ben delineato. Perché questo personaggio è diventato un fantasma? Quali leggende lo circondano? Un incontro con un fantasma non dovrebbe mai avvenire in modo accidentale: ci sono molti altri non morti incorporei, come Wraith e Spettri, per questo. Un incontro adeguato con un fantasma dovrebbe avvenire in una scena al culmine di un lungo periodo di tensione costruito con servitori minori o manifestazioni di spiriti non morti. L'esempio di fantasma sopra rappresenta una principessa umana assassinata da un amante infedele; dopo un confronto, lui la legò con delle catene e la gettò nel pozzo del castello, dove morì annegata. Le capacità del fantasma sono state selezionate in base al background, mostrando come si possa creare un potente antagonista. Applicando l'archetipo a creature con livelli e quindi Abilità proprie o con capacità razziali significative si possono creare fantasmi molto più potenti.
 
 Quando viene creato un fantasma, questi ottiene le copie degli oggetti a cui in vita dava particolare valore (a condizione che gli originali non siano in possesso di altre creature). L'equipaggiamento funziona normalmente per il fantasma ma passa attraverso gli oggetti o le creature materiali. Un'arma +1 o con un potenziamento superiore, tuttavia, può danneggiare le creature materiali. Un fantasma può usare scudi e armature solo se hanno la capacità Tocco Fantasma.
 
@@ -5207,11 +5207,11 @@ A volontà: *Cura Ferite 1, Dissolvi Magie, Fiamma Perenne, Rimuovi Maledizione,
 
 **Azioni*Multiattacco.*** La Fenice può attaccare con due artigli ed il morso
 
-***Morso.** Attacco con arma da mischia*: +12 al a colpire, portata 6 m, una creatura.
+***Morso.** Attacco con arma da mischia*: +12 a colpire, portata 6 m, una creatura.
 
 *Colpisce:* 19 danni perforanti (2d8+8 + 1d6 da Luce)
 
-***Artiglio.** Attacco con arma da mischia*: +12 al a colpire, portata 6 m, una creatura.
+***Artiglio.** Attacco con arma da mischia*: +12 a colpire, portata 6 m, una creatura.
 
 *Colpisce:* 17 danni da taglio (2d6+8 + 1d6 da Luce)
 
@@ -5238,7 +5238,7 @@ Organizzazione: Solitario
 
 La leggenda narra che le Fenici siano gli uccelli da compagnia di Ljust, sicuramente sono creature maestose e bellissime ed emanano una Luce simile a quella della Patrona della Genesi. Il movimento delle loro ali non produce rumore mentre la loro voce è canto. La fenice è un leggendario uccello di fuoco e luce che vive solitamente nei deserti. Sono creature molto intelligenti e sagge ed a volte usando la loro capacità di metamorfosi si recano nelle città dove aiutano chi combatte contro l'oscurità.
 
-La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o un Allieva della Luce compia l'estremo sacrificio.
+La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o un'Allieva della Luce compia l'estremo sacrificio.
 
 ### Fioritura Ossea
 
@@ -5268,9 +5268,9 @@ La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o 
 
 **Reazione: *Attacco d'opportunità***: la Fioritura ossea effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-***Soffio di Spore***: raggio di 6 metri. Fioritura Ossea emana spore e pollini tutto intorno a se. Qualsiasi creatura che respiri nel raggio di 6 metri dalla Fioritura Ossea deve effettuare un Tiro Salvezza su Tempra a DC 18. Se il Tiro Salvezza fallisce la creatura subisce 3d8 danni da veleno ed è sotto l'influenza dell'incantesimo Lentezza per 1 minuto. Se il Tiro Salvezza riesce subisce metà del danno ed è rallentato fino alla fine del round successivo.
+***Soffio di Spore***: raggio di 6 metri. Fioritura Ossea emana spore e pollini tutto intorno a sé. Qualsiasi creatura che respiri nel raggio di 6 metri dalla Fioritura Ossea deve effettuare un Tiro Salvezza su Tempra a DC 18. Se il Tiro Salvezza fallisce la creatura subisce 3d8 danni da veleno ed è sotto l'influenza dell'incantesimo Lentezza per 1 minuto. Se il Tiro Salvezza riesce subisce metà del danno ed è rallentato fino alla fine del round successivo.
 
-***Arrabbiato:*** la Fioritura Ossea raccoglie le energie della natura intorno a se avvizzendola. Recupera 50 Punti Ferita. Costa 2 Azioni.
+***Arrabbiato:*** la Fioritura Ossea raccoglie le energie della natura intorno a sé avvizzendola. Recupera 50 Punti Ferita. Costa 2 Azioni.
 
 | **Ecologia** |
 | --- |
@@ -5403,7 +5403,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 - **Tiri Salvez.**: \resizedown{Tempra +8, Riflessi +4, Volontà +8}
 - **Comp.**: Furtività +5, Consapevolezza +6
 - **Sensi**: \resizedown{Scurovisione 18 m}
-- **Linguaggi**: comune, lingue antiche (latino, greco, celtico..)
+- **Linguaggi**: comune, lingue antiche (latino, greco, celtico...)
 - **Sfida**: 5 (1800 PX)
 
 ***Falso Aspetto.*** Quando il fustigatore rimane immobile, è indistinguibile da una normale formazione rocciosa, come una stalagmite.
@@ -5428,7 +5428,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 
 **Reazione: *Attacco d'opportunità***: il fustigatore effettua un attacco con Viticcio ad una creatura che attraversi o esca dalla sua portata di 6 metri.
 
-***Arrabbiato:*** il fustigatore emette un onda cacofonica nauseabonda. Tutte le creature nel raggio di 6 metri devono eseguire un Tiro Salvezza su Tempra DC 18 o essere Nauseato fino alla fine del round successivo. Costa 2 Azioni.
+***Arrabbiato:*** il fustigatore emette un'onda cacofonica nauseabonda. Tutte le creature nel raggio di 6 metri devono eseguire un Tiro Salvezza su Tempra DC 18 o essere Nauseato fino alla fine del round successivo. Costa 2 Azioni.
 
 **Ecologia**
 
@@ -5439,9 +5439,9 @@ Organizzazione: Solitario, coppia o gruppo (3-6)
 | --- |
 | **Descrizione** |
 
-Il fustigatore è un cacciatore da agguato. Capace di modificare la colorazione e la forma del suo corpo, un fustigatore nascosto sembra una stalagmite di pietra o ghiaccio (o in luoghi dal soffitto basso, una colonna di pietra o ghiaccio). Nelle aree prive di questi tratti per nascondersi un fustigatore può comprimere il suo corpo fino a sembrare un masso. Le sferze che può estroflettere non sono di carne ma di uno spesso materiale semiliquido simile a cera parzialmente fusa ma con la resistenza di una catena di ferro e la capacità di intirizzire la carne e indebolire le forze. Il fustigatore può usare queste sferze con grande maestria e farle volare fino a 15 metri per rubare gli oggetti che attraggono la sua attenzione.
+Il fustigatore è un cacciatore da agguato. Capace di modificare la colorazione e la forma del suo corpo, un fustigatore nascosto sembra una stalagmite di pietra o ghiaccio (o in luoghi dal soffitto basso, una colonna di pietra o ghiaccio). Nelle aree prive di questi tratti per nascondersi un fustigatore può comprimere il suo corpo fino a sembrare un masso. Le sfere che può estroflettere non sono di carne ma di uno spesso materiale semiliquido simile a cera parzialmente fusa ma con la resistenza di una catena di ferro e la capacità di intirizzire la carne e indebolire le forze. Il fustigatore può usare queste sferze con grande maestria e farle volare fino a 15 metri per rubare gli oggetti che attraggono la sua attenzione.
 
-Nonostante la sua forma aliena e mostruosa, il fustigatore è uno degli abitanti più intelligenti del sottosuolo. Non formano vaste società (anche se spesso si trovano a vivere insieme ad altre creature del sottosuolo come i Divora Cervelli, con cui a volte si alleano), ma spesso si aggregano in piccoli gruppi. Particolarmente interessato alla filosofia della vita e della morte, e agli aspetti più sottili delle religioni più sinistre e crudeli del mondo, un fustigatore può parlare o discutere per ore con quelli che inizialmente aveva semplicemente cercato di mangiare. Alcune storie parlano di oratori e filosofi particolarmente dotati che sono stati tenuti per giorni o anche anni come animali domestici o compagni di conversazione da gruppi di fustigatori; alla fine, però, se non riescono a scappare, l'appetito dei fustigatori finisce per avere la meglio sulla loro curiosa intelligenza, specialmente nei casi in cui questi animali da compagnia superano costantemente l'arguzia e la pazienza dei loro guardiani.
+Nonostante la sua forma aliena e mostruosa, il fustigatore è uno degli abitanti più intelligenti del sottosuolo. Non forma vaste società (anche se spesso si trovano a vivere insieme ad altre creature del sottosuolo come i Divora Cervelli, con cui a volte si alleano), ma spesso si aggregano in piccoli gruppi. Particolarmente interessato alla filosofia della vita e della morte, e agli aspetti più sottili delle religioni più sinistre e crudeli del mondo, un fustigatore può parlare o discutere per ore con quelli che inizialmente aveva semplicemente cercato di mangiare. Alcune storie parlano di oratori e filosofi particolarmente dotati che sono stati tenuti per giorni o anche anni come animali domestici o compagni di conversazione da gruppi di fustigatori; alla fine, però, se non riescono a scappare, l'appetito dei fustigatori finisce per avere la meglio sulla loro curiosa intelligenza, specialmente nei casi in cui questi animali da compagnia superano costantemente l'arguzia e la pazienza dei loro guardiani.
 Un fustigatore è alto 2,7 metri e pesa 1.100 kg.
 
 ### Gablin
@@ -5473,13 +5473,13 @@ Organizzazione: Gruppo (8-12), banda da guerra (10-24) o tribù (50+, 1 sergente
 | **Categoria Tesoro**: Accidentale |
 | **Descrizione** |
 
-I Gablin sono la feccia della feccia, si dice che un Gablin nasce ad ogni pensiero cattivo e sicuramente sono veramente tanti.
+I Gablin sono la feccia della feccia, si dice che un Gablin nasce da ogni pensiero cattivo e sicuramente sono veramente tanti.
 I Gablin sono piccoli umanoidi dalla pelle scura, con striature verdi generati inizialmente per volontà di Cattalm con l'unico scopo di portare distruzione, morte e sofferenza.
 I Gablin si possono nascondere ovunque purché in prossimità di una fonte di cibo, solitamente prediligono le fogne oppure strutture abbandonate vicino ai villaggi.
 Lo scopo unico di un Gablin è uccidere e perpetuare la specie. I Gablin sono tutti maschi e la loro natura immonda li rende capaci di impregnare qualsiasi femmina umanoide.
 Solitamente la gestazione dura solo 3 settimane durante le quali le donne vengono torturate per rafforzare gli 1d6+2 piccoli che porta in grembo. Il parto solitamente si conclude con i piccoli di Gablin che sventrano la madre e ne fanno il primo loro pasto.
-Questo metodo di procreazione unita alla loro voracia famelica di sangue e carne ne fanno tra le creature più odiate e temute.
-Anche se singolarmente non sono particolarmente temibili i Gablin si muovono sempre in gruppo e se questo supera le due dozzine allora c'è quasi sempre un Gablin Incantatore o addirittura un Campione Gablin a guidarli.
+Questo metodo di procreazione unita alla loro voracia famelica di sangue e carne ne fa tra le creature più odiate e temute.
+Anche se singolarmente non sono particolarmente temibili, i Gablin si muovono sempre in gruppo e se questo supera le due dozzine allora c'è quasi sempre un Gablin Incantatore o addirittura un Campione Gablin a guidarli.
 
 ### Campione Gablin
 
@@ -5540,7 +5540,7 @@ Organizzazione: a capo di un armata di Gablin
 | **Categoria Tesoro**: Armatura da campo, Spada Bastarda +1, S |
 | **Descrizione** |
 
-I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti di Cattalm. Evocati da più potenti seguaci di Cattalm possono da soli guidare centinaia di Gablin e grazia al loro acume preparare accurati piani e portare scompiglio e distruzione in intere regioni.
+I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti di Cattalm. Evocati dai più potenti seguaci di Cattalm possono da soli guidare centinaia di Gablin e grazie al loro acume preparare accurati piani e portare scompiglio e distruzione in intere regioni.
 
 ### Gargoyle
 
@@ -5557,7 +5557,7 @@ I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti
 
 ***Falso Aspetto.*** Mentre il gargoyle rimane immobile, è indistinguibile da una statua inanimata.
 
-***Natura Elementale.*** Una gargoyle non ha bisogno di aria, cibo, bevande o sonno.
+***Natura Elementale.*** Un gargoyle non ha bisogno di aria, cibo, bevande o sonno.
 
 **Azioni*Multiattacco.*** Il gargoyle effettua due attacchi: uno con il morso e uno con gli artigli.
 
@@ -5586,7 +5586,7 @@ I gargoyle tendono ad avere uno stile di vita solitario, anche se a volte forman
 
 I gargoyle sono noti per abitare nel cuore delle città più grandi, accovacciati tra le decorazioni di pietra delle cattedrali e degli edifici dove si nascondono in bella vista di giorno piombando giù per nutrirsi di vagabondi, mendicanti e altri sfortunati la notte.
 
-più a lungo una tribù di gargoyle dimora in un'area di edifici o rovine, più i suoi membri cominciano ad assomigliare allo stile architettonico della zona. I cambiamenti subiti dall'aspetto di un gargoyle sono lenti e sottili, ma nel corso degli anni possono diventare radicali.
+Più a lungo una tribù di gargoyle dimora in un'area di edifici o rovine, più i suoi membri cominciano ad assomigliare allo stile architettonico della zona. I cambiamenti subiti dall'aspetto di un gargoyle sono lenti e sottili, ma nel corso degli anni possono diventare radicali.
 
 Un'insolita variante del gargoyle non abita tra edifici e rovine ma sotto le onde del mare. Queste creature sono note come kapoacinth; hanno le stesse statistiche base dei gargoyle normali, eccetto che hanno il sottotipo acquatico e le loro ali gli garantiscono una velocità di nuotare di 12 metri (ma sono inutili per volare). I kapoacinth abitano nelle regioni costiere poco profonde dove possono strisciare fuori dalla spuma per dare la caccia ai residenti della zona. È più probabile che formino stormi, poiché i kapoacinth preferiscono la vita di gruppo a quella solitaria.
 
@@ -5627,9 +5627,9 @@ Organizzazione: solitario, gruppo (2-4)
 | **Categoria Tesoro**: Accidentale |
 | **Descrizione** |
 
-Il Grande Essere Chitinoso, o G.E.C, è un insetto dal vago aspetto umanoide di quasi 3 metri di altezza, possente e dotato di due chele fortissime e resistenti capaci di scavare e tranciare qualsiasi materiale. 4 occhi piccoli, centrali e multi faccettati emanano un fioca luminescenza cangiante che confondono le creature che incrociano il loro sguardo.
+Il Grande Essere Chitinoso, o G.E.C, è un insetto dal vago aspetto umanoide di quasi 3 metri di altezza, possente e dotato di due chele fortissime e resistenti capaci di scavare e tranciare qualsiasi materiale. 4 occhi piccoli, centrali e multifaccettati emanano una fioca luminescenza cangiante che confondono le creature che incrociano il loro sguardo.
 
-Probabilmente frutto di una qualche incantesimo di trasformazione andato a male i G.E.C. sono padroni del sottosuolo. Creature dotate di una reale intelligenza amano la carne di elfo e combattono in maniera tattica ed accorta.
+Probabilmente frutto di un qualche incantesimo di trasformazione andato a male i G.E.C. sono padroni del sottosuolo. Creature dotate di una reale intelligenza amano la carne di elfo e combattono in maniera tattica ed accorta.
 
 ### Djinni
 
@@ -5657,13 +5657,13 @@ A volontà: *Conoscere i Tratti, Individuazione del Magico, Onda Tonante*
 
 ***Scimitarra.** Attacco con arma da mischia*: +11 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 12 (2d6 + 5) danni taglienti più 3 (1d6) danni da elettricità o suono (a scelta del gin).
+*Colpisce:* 12 (2d6 + 5) danni taglienti più 3 (1d6) danni da elettricità o suono (a scelta del djinni).
 
 **Reazione: *Nube improvvisa*** il djinni subisce un colpo critico, diventa immediatamente di vapore fino alla fine del round. Costa 1 Azione tornare in forma solida.
 
 ***Creare Turbine.*** Un cilindro d'aria turbinante di 1 metro di raggio e alto 9 metri si forma magicamente in un punto visibile al djinni entro 36 metri da esso. Il turbine resta finché il djinni mantiene la concentrazione (come se si stesse concentrando su di un incantesimo). Qualsiasi creatura salvo il djinni che entri nel turbine deve riuscire un Tiro Salvezza di Tempra DC 23 o restare intralciata da esso. Il djinni può muovere il turbine di massimo 18 metri con un'Azione, e le creature intralciate dal turbine si muovono con esso. Il turbine termina se il djinni lo perde di vista.
 
-Una creatura può usare una Azione per liberare una creatura intralciata dal turbine, compresa se stessa, riuscendo un Tiro Salvezza Tempra con Forza DC 22. Se la prova riesce, la creatura non è più intralciata e si sposta nello spazio più vicino all'esterno del turbine.
+Una creatura può usare un'Azione per liberare una creatura intralciata dal turbine, compresa se stessa, riuscendo un Tiro Salvezza Tempra con Forza DC 22. Se la prova riesce, la creatura non è più intralciata e si sposta nello spazio più vicino all'esterno del turbine.
 
 **Ecologia**
 
@@ -5712,7 +5712,7 @@ A volontà: *Individuazione del Magico*
 
 *Colpisce:* 17 (5d6) danni da fuoco.
 
-**Reazione: *Attacco d'opportunità***: efreeti effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: l'efreeti effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
 
@@ -5817,7 +5817,7 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 - **Linguaggi**: Comune, Expiran
 - **Sfida**: 6 (2300 PX)
 
-***Aura nefasta***: il Ghoul Nero emana costantemente un aura attorno a se che indebolisce le difese di chiunque tranne che di altri ghoul. Ogni due round di permanenza nell'aura di 12 metri di raggio attorno al Ghoul Nero si cumula un -1 a tutti i TS, quando ci si allontana dal Ghoul Nero si recupera 1 punto a round.
+***Aura nefasta***: il Ghoul Nero emana costantemente un'aura attorno a sé che indebolisce le difese di chiunque tranne che di altri ghoul. Ogni due round di permanenza nell'aura di 12 metri di raggio attorno al Ghoul Nero si cumula un -1 a tutti i TS, quando ci si allontana dal Ghoul Nero si recupera 1 punto a round.
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +8 a colpire, portata 1 m, un bersaglio.
 
@@ -5858,7 +5858,7 @@ Il Ghoul Nero rappresenta una delle elite evolutive dei Ghoul. Solitamente a cap
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 12 (2d6 + 6) danni taglienti, 2 danno da Sanguinamento. Se il bersaglio è una creatura diverso da un non morto, deve riuscire un Tiro Salvezza su Tempra DC 17 o restare paralizzata per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza. Se la creatura fallisce il TS allora è vittima della maledizione del Ghoul. Entro 1d3+1 giorni si trasformerà in un Ghoul. È necessario un Scacciare Maledizioni DC 19 entro la trasformazione per evitare la trasformazione.
+*Colpisce:* 12 (2d6 + 6) danni taglienti, 2 danno da Sanguinamento. Se il bersaglio è una creatura diversa da un non morto, deve riuscire un Tiro Salvezza su Tempra DC 17 o restare paralizzata per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza. Se la creatura fallisce il TS allora è vittima della maledizione del Ghoul. Entro 1d3+1 giorni si trasformerà in un Ghoul. È necessario uno Scacciare Maledizioni DC 19 entro la trasformazione per evitare la trasformazione.
 
 ***Morso.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, una creatura.
 
@@ -5912,7 +5912,7 @@ Organizzazione: Gruppo (4-8) o branco (10-18)
 | --- |
 | **Descrizione** |
 
-I Ghoul Putrescenti sono una delle tante l'evoluzione dei Ghoul. Il contatto continuo con l'energia negativa ed il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
+I Ghoul Putrescenti sono una delle tante evoluzioni dei Ghoul. Il contatto continuo con l'energia negativa ed il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
 
 ### Gigante delle Colline
 
@@ -5946,7 +5946,7 @@ Organizzazione: Solitario, gruppo (2-5), banda (6-8), gruppo di razzia (9-12 pi�
 
 I giganti di Collina hanno pelle che varia dal marrone chiaro al rossastro, capelli castani o neri, ed occhi dello stesso colore. Indossano strati di pelli rozzamente conciate con ancora il pelo. Raramente lavano o riparano i propri indumenti, e preferiscono semplicemente aggiungere nuovi strati man mano che i vecchi si logorano. Gli adulti sono alti circa 3 metri e pesano più o meno 550 kg. I giganti di Collina possono vivere fino a 200 anni, anche se raramente raggiungono quest'età.
 
-I giganti di Collina preferiscono combattere dall'alto di sporgenze e rupi, da dove possono colpire gli avversari con rocce e massi, limitando così il rischio personale. Amano effettuare attacchi di oltrepassare contro creature più piccole all'inizio del combattimento, e solo dopo prendono posizione e iniziano a roteare i loro massicci randelli.
+I giganti di Collina preferiscono combattere dall'alto di sporgenze e rupi, da dove possono colpire gli avversari con rocce e massi, limitando così il rischio personale. Amano effettuare attacchi di oltrepassamento contro creature più piccole all'inizio del combattimento, e solo dopo prendono posizione e iniziano a roteare i loro massicci randelli.
 
 I giganti di Collina sono per natura nomadi e preferiscono viaggiare da un luogo all'altro per razziare e saccheggiare. Sebbene gradiscano di più i climi temperati, non disdegnano di viaggiare lontano dal loro ambiente favorito, se la razzia è abbondante e prospera. Si tratta, nel complesso, di creature molto egoiste, che raramente affrontano battaglie che non siano sicuri di vincere. I giganti delle colline sono noti per l'abitudine di spingersi l'un l'altro se devono confrontarsi con avversari temibili e non esitano a sacrificare un compagno per salvarsi la pelle. Bande erranti di giganti di Collina sono diffuse sulle colline temperate, e la loro costante aggressività li rende uno dei pericoli più temuti in questo ambiente.
 
@@ -6031,7 +6031,7 @@ Organizzazione: Solitario, banda (3-5), gruppo (6-12 più 35\% non combattenti e
 | **Categoria Tesoro**: Giaco di Maglia, Ascia Bipenne, R |
 | **Descrizione** |
 
-Un gigante del gelo ha capelli azzurri o giallo sporco, e occhi in genere dello stesso colore. Si vestono con pelli e pellicce, adornandosi con qualsiasi gioiello possiedano. I giganti del gelo combattenti indossano anche giachi di maglia ed elmi di metallo decorati con corna e piume. Un maschio adulto è alto 5 metri e pesa circa 1.400 kg. Le femmine sono leggermente più basse e snelle, ma per il resto sono identiche ai maschi. I giganti del gelo possono vivere fino a 250 anni.
+Un gigante del gelo ha capelli azzurri o giallo sporco, e occhi in genere dello stesso colore. Si veste con pelli e pellicce, adornandosi con qualsiasi gioiello possiedano. I giganti del gelo combattenti indossano anche giachi di maglia ed elmi di metallo decorati con corna e piume. Un maschio adulto è alto 5 metri e pesa circa 1.400 kg. Le femmine sono leggermente più basse e snelle, ma per il resto sono identiche ai maschi. I giganti del gelo possono vivere fino a 250 anni.
 
 I giganti del gelo sono molto temuti, poiché la brama di distruzione e guerra ed il loro comportamento sprezzante li spingono a manifestazioni di brutalità sempre maggiori. I giganti del gelo iniziano attaccando a distanza, scagliando rocce finché finiscono le munizioni o l'avversario si avvicina, poi lo affrontano con le loro enormi asce. Una delle tattiche preferite è tendere un'imboscata nascondendosi sotto la neve al di sopra di un pendio ghiacciato o innevato, dove gli avversari avranno difficoltà a raggiungerli, e poi iniziano causando una valanga prima di scendere in battaglia. I giganti del gelo possono nascondersi molto bene negli ambienti nevosi e sono dei maestri nella furtività nel loro dominio.
 
@@ -6074,7 +6074,7 @@ A volontà: *Individuazione del Magico, Luce, Nube di Nebbia*
 
 **Reazione: *Attacco d'opportunità***: il gigante delle nubi effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-***Arrabbiato:*** il Gigante delle Nubi agita l'arma sopra sulla testa evocando nubi tempestose e lanciando l'incantesimo Invocare il Fulmine. Costa 2 Azioni.
+***Arrabbiato:*** il Gigante delle Nubi agita l'arma sopra la testa evocando nubi tempestose e lanciando l'incantesimo Invocare il Fulmine. Costa 2 Azioni.
 
 | **Ecologia** |
 | --- |
@@ -6084,7 +6084,7 @@ Organizzazione: Solitario, gruppo (2-5), famiglia (2-5 più 35\% non combattenti
 | **Categoria Tesoro**: Giaco di Maglia, Mazza chiodata, U |
 | **Descrizione** |
 
-Il colore pelle dei giganti delle nuvole varia dal bianco latte al blu polvere. I maschi adulti sono alti circa 5,3 metri e pesano approssimativamente 2.500 kg. Le femmine sono leggermente più basse e snelle. I giganti delle nuvole possono vivere fino a 400 anni, vestono con abiti preziosi e gioielli. Per molti l'aspetto indica lo status. Migliori sono i vestiti e più raffinati i gioielli, più importante è chi li indossa. Inoltre apprezzano la musica, e la maggioranza suona uno o più strumenti (l'arpa è uno dei preferiti).
+Il colore della pelle dei giganti delle nuvole varia dal bianco latte al blu polvere. I maschi adulti sono alti circa 5,3 metri e pesano approssimativamente 2.500 kg. Le femmine sono leggermente più basse e snelle. I giganti delle nuvole possono vivere fino a 400 anni, vestono con abiti preziosi e gioielli. Per molti l'aspetto indica lo status. Migliori sono i vestiti e più raffinati i gioielli, più importante è chi li indossa. Inoltre apprezzano la musica, e la maggioranza suona uno o più strumenti (l'arpa è uno dei preferiti).
 
 I giganti delle nuvole possono avere Tratti insolitamente vari; circa metà sono buoni e metà malvagi. I giganti delle nuvole buoni costruiscono strade che collegano i loro insediamenti con le strade degli umani per promuovere il commercio. Non è insolito vedere un gigante delle nuvole buono camminare tra gli uomini, ad esempio, in una città umana nei pressi di un'alta catena montuosa. I giganti delle nuvole malvagi tendono a non creare insediamenti stabili e anzi preferiscono vivere in rozzi rifugi su alti picchi, da cui scendono solo per depredare i villaggi di quello di cui potrebbero aver bisogno. Queste due filosofie portano spesso allo scoppio di guerre violente e durature tra tribù vicine.
 
@@ -6137,7 +6137,7 @@ I giganti di Pietra, se possibile, combattono a distanza, ma se non possono evit
 
 I giganti di Pietra preferiscono vivere in enormi caverne sulle cime rocciose. Raramente vivono a più di qualche giorno di viaggio da altre bande di giganti di Pietra e allevano greggi condivisi di capre e altro bestiame.
 
-I giganti di Pietra più vecchi tendono ad allontanarsi dalla tribù per molto tempo, per vivere in solitudine da qualche parte o tentando di inserirsi in altre civiltà umanoidi. Dopo decadi di esilio auto imposto, chi fa ritorno è noto come Gigante delle Rocce Anziano.
+I giganti di Pietra più vecchi tendono ad allontanarsi dalla tribù per molto tempo, per vivere in solitudine da qualche parte o tentando di inserirsi in altre civiltà umanoidi. Dopo decadi di esilio autoimposto, chi fa ritorno è noto come Gigante delle Rocce Anziano.
 
 ### Gigante delle Tempeste
 
@@ -6176,7 +6176,7 @@ A volontà: *Caduta Piuma, individuazione del magico,* *levitazione, Luce*
 
 ***Colpo Fulminante (Ricarica 5-6).*** Il gigante scaglia una folgore magica ad un punto visibile entro 150 metri da sé. Ogni creatura entro 3 metri da quel punto deve effettuare un Tiro Salvezza su Riflessi DC 25, subendo 54 (12d8) danni da elettricità se lo fallisce, o la metà se lo supera.
 
-***Arrabbiato:*** il gigante delle tempeste carica di elettricità tutta l'area intorno a se fino alla fine del combattimento. Una creatura che termini il round entro 6 metri da gigante subisce 13 (3d8) danni da elettricità. Costa 1 Azione.
+***Arrabbiato:*** il gigante delle tempeste carica di elettricità tutta l'area intorno a sé fino alla fine del combattimento. Una creatura che termini il round entro 6 metri da gigante subisce 13 (3d8) danni da elettricità. Costa 1 Azione.
 
 | **Ecologia** |
 | --- |
@@ -6192,7 +6192,7 @@ Quando sono a riposo, preferiscono indossare tuniche corte e ampie cinte ai fian
 
 Come suggerisce il loro nome, sono inclini a violenti sbalzi di umore. I giganti delle tempeste sono facili all'ira di fronte al male e possono essere nemici brutali e pericolosi quando vengono insultati. In battaglia, preferiscono scagliare una pioggia di frecce sui loro nemici, estraendo gli spadoni solo dopo che gli avversari si sono avvicinati.
 
-I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti da mura e amano coltivare la terra. Possiedono enormi giardini ben curati e gestiscono centinaia di acri di coltivazioni per gruppo. Spesso impiegano altri umanoidi, come Elfi o Umani, come supporto per condurre le loro immense fattorie. Una enclave di giganti delle tempeste spesso si assume la responsabilità della sicurezza di un'intera isola o linea di costa.
+I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti da mura e amano coltivare la terra. Possiedono enormi giardini ben curati e gestiscono centinaia di acri di coltivazioni per gruppo. Spesso impiegano altri umanoidi, come Elfi o Umani, come supporto per condurre le loro immense fattorie. Un'enclave di giganti delle tempeste spesso si assume la responsabilità della sicurezza di un'intera isola o linea di costa.
 
 ### Gnoll
 
@@ -6280,7 +6280,7 @@ Organizzazione: Solitario, compagnia (2-4), squadra (5-20 più 1 capo 3°-6° e 
 | --- |
 | **Descrizione** |
 
-I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi.
+Gli gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel sottosuolo, in città nascoste, al sicuro dagli elfi scuri e da altre razze sotterranee. La loro pelle è del colore della roccia, di solito grigia o marrone. I maschi sono calvi e le femmine hanno radi capelli grigi.
 
 ### Globulo
 
@@ -6298,11 +6298,11 @@ I gnomi delle profondità, sono una branca della razza gnomesca. Dimorano nel so
 - **Linguaggi**: comprende il Comune ma non lo parla
 - **Sfida**: 1 (200 PX)
 
-**Odio i volatili** il Globulo ha +1d6 al Tiro per Colpire contro gli uccelli. Attacca prima gli uccelli e creature volanti
+**Odio i volatili.** Il Globulo ha +1d6 al Tiro per Colpire contro gli uccelli. Attacca prima gli uccelli e creature volanti
 
-**Natura inusuale** il Globulo non respira
+**Natura inusuale.** Il Globulo non respira
 
-**Odio l'acqua** il Globulo detesta bagnarsi e ogni 5 litri di acqua spruzzata su lui subisce 1d4 di danno
+**Odio l'acqua.** Il Globulo detesta bagnarsi e ogni 5 litri di acqua spruzzata su lui subisce 1d4 di danno
 
 **Azioni*Tentacolo***. Attacco in mischia, +5 al colpire, portata 3 metri, un obiettivo
 
@@ -6320,7 +6320,7 @@ Organizzazione: Solitario, gruppi 2d4
 | **Descrizione** |
 
 I Globuli sono aberrazioni magiche provenienti da qualche portale aperto verso l'Oltre. Creature di freddo e vuoto sembrano delle piccole stelle che anelano solo di risucchiare la vita della creature incontrate.
-Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è mortalmente affaticato. Una volta ucciso di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
+Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avversario finché questo è mortalmente affaticato. Una volta ucciso, di un Globulo non rimane che una piccola creatura a forma di stella con un grosso occhio centrale, completamente bianco.
 
 ### Goblin
 
@@ -6354,7 +6354,7 @@ I goblin preferiscono vivere nelle caverne, nel fitto delle foreste e quando ne 
 
 I goblin sono molto superstiziosi, e vedono la magia con un misto di timore reverenziale e paura. Ogni cosa che non comprendono è per loro magia e questo li porta a essere estremamente sospettosi di tutto e a distruggere tutto, visto che ciò che non capiscono va distrutto.
 
-I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin non rinuncia a mangiare nulla tranne forse l'insalata..
+I goblin sono famelici e possono mangiare enormi quantità di cibo. Un goblin non rinuncia a mangiare nulla tranne forse l'insalata.
 
 ### Golem di Argilla
 
@@ -6375,7 +6375,7 @@ I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin no
 
 ***Armi Magiche.*** Gli attacchi con armi del golem sono magici.
 
-***Assorbimento dell'Acido.*** Ogni volta che il golem è vittima di danni da acido, non subisce danni ma invece recupera un pari numero di Punti Ferita.
+***Assorbimento dell'Acido.*** Ogni volta che il golem è vittima di danni da acido, non subisce danni ma invece recupera un numero pari di Punti Ferita.
 
 ***Forma Immutabile.*** Il golem è immune a qualsiasi incantesimo o effetto che altererebbe la sua forma.
 
@@ -6391,7 +6391,7 @@ I goblin sono famelici e possono mangiare enormi quantità di cibo. un goblin no
 
 ***Pugno Maledetto.**: Attacco con arma naturale*: + 11 a colpire, portata 1 m, un bersaglio
 
-*Colpisce:* 16 (2d6 + 5) danni contundenti. Le ferite da pugno maledetto guariscono al ritmo di 1 Punto ferita a giorno. Le cure magiche, incantesimi o pozioni, curano 1 Punto Ferita per dado di cura + tutto l'eventuale fisso (es. una cura di 3d6+4 cura 7 PF)
+*Colpisce:* 16 (2d6 + 5) danni contundenti. Le ferite da pugno maledetto guariscono al ritmo di 1 Punto Ferita al giorno. Le cure magiche, incantesimi o pozioni, curano 1 Punto Ferita per dado di cura + tutto l'eventuale fisso (es. una cura di 3d6+4 cura 7 PF)
 
 ***Velocità (Ricarica 5-6).*** Fino al termine del suo prossimo round, il golem ottiene un bonus magico di +2 alla Difesa, ha +1d6 ai Tiri Salvezza su Riflessi, e può usare gli attacchi di schianto come Azione Immediata.
 
@@ -6421,7 +6421,7 @@ Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla d
 - **Linguaggi**: comprende le lingue del suo creatore ma non può
 - **Sfida**: 5 (1800 PX)
 
-***Riduzione del Danno.*** Il golem d'argilla ha durezza 6/- contro armi non magiche.
+***Riduzione del Danno.*** Il golem di carne ha durezza 6/- contro armi non magiche.
 
 ***Berserk.*** Ogni volta che il golem inizia il suo round con 40 Punti Ferita o meno, tira un d6. Se ottieni 6, il golem va in berserk. Durante ogni suo round mentre è in berserk guadagna una Azione, il golem attacca la creatura più vicina che possa vedere. Se non c'è nessuna creatura abbastanza vicina da muoversi e attaccarla, il golem attacca un oggetto, con preferenza per gli oggetti più piccoli di lui. Una volta che il golem è andato in berserk, continuerà ad esserlo finché non viene distrutto o recupera tutti i suoi Punti Ferita.
 
@@ -6429,7 +6429,7 @@ Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla d
 
 ***Assorbimento dei Fulmini.*** Ogni volta che il golem sia vittima di un danno da elettricità, non subisce danni ma invece recupera un pari numero di Punti Ferita.
 
-***Avversione al Fuoco.*** Se il golem subisce danni da fuoco, ha -1d6 ai tiri di attacco e le prove di competenza di Base fino alla fine del suo prossimo round.
+***Avversione al Fuoco.*** Se il golem subisce danni da fuoco, ha -1d6 ai tiri di attacco e alle prove di competenza di Base fino alla fine del suo prossimo round.
 
 ***Forma Immutabile.*** Il golem è immune a qualsiasi incantesimo o effetto che altererebbe la sua forma.
 
@@ -6441,9 +6441,9 @@ Un golem d'argilla può essere scolpito a partire da un unico blocco d'argilla d
 
 ***Schianto.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 13 (2d8 + 4) danni contundenti. La creatura colpita deve effettuare un Tiro Salvezza su Tempra a DC 17 o ammalarsi. Ogni volta che fallisce il Tiro Salvezza esegue una Azione in meno il round successivo. Se arriva a perdere 3 Azioni, ovvero fallisce per 3 volte il Tiro Salvezza di fila, la creatura muore. Appena il Tiro Salvezza riesce si debella la malattia.
+*Colpisce:* 13 (2d8 + 4) danni contundenti. La creatura colpita deve effettuare un Tiro Salvezza su Tempra a DC 17 o ammalarsi. Ogni volta che fallisce il Tiro Salvezza esegue un'Azione in meno nel round successivo. Se arriva a perdere 3 Azioni, ovvero fallisce per 3 volte il Tiro Salvezza di fila, la creatura muore. Appena il Tiro Salvezza riesce si debella la malattia.
 
-***Arrabbiato:*** il golem di carne si sovraccarica. Per 2d4 round può eseguire una Azione di in più di Movimento o di Attacco. Costa 1 Azione.
+***Arrabbiato:*** il golem di carne si sovraccarica. Per 2d4 round può eseguire un'Azione in più di Movimento o di Attacco. Costa 1 Azione.
 
 | **Ecologia** |
 | --- |
@@ -6472,7 +6472,7 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 - **Linguaggi**: comprende le lingue del suo creatore ma non può parlare
 - **Sfida**: 16 (15000 PX)
 
-***Riduzione del Danno.*** Il golem d'argilla ha durezza 12/- contro armi non magiche.
+***Riduzione del Danno.*** Il golem di ferro ha durezza 12/- contro armi non magiche.
 
 ***Armi Magiche.*** Gli attacchi con armi del golem sono magici.
 
@@ -6498,7 +6498,7 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 
 ***Soffio Velenoso (Ricarica 6).*** Il golem esala un gas velenoso in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 29, subendo 45 (10d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-***Arrabbiato:*** il golem di ferro esala un soffio rovente in un cono di 3 metri. Il soffio causa 3d10 danni da fuoco o la metà se il Tiro Salvezza si Riflessi DC 26 riesce. Il golem recupera l'intero ammontare in Punti Ferita ed è Accelerato 1 per 2d4 round. Costa 2 Azioni.
+***Arrabbiato:*** il golem di ferro esala un soffio rovente in un cono di 3 metri. Il soffio causa 3d10 danni da fuoco o la metà se il Tiro Salvezza su Riflessi DC 26 riesce. Il golem recupera l'intero ammontare in Punti Ferita ed è Accelerato 1 per 2d4 round. Costa 2 Azioni.
 
 | **Ecologia** |
 | --- |
@@ -6508,7 +6508,7 @@ Organizzazione: Solitario o gruppo (2-4)
 | **Categoria Tesoro**: Nessuno |
 | **Descrizione** |
 
-Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto ad un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferirle i loro attacchi schianto.
+Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto ad un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferire i loro attacchi schianto.
 
 Un golem di ferro è alto 3,6m e pesa circa 2.500 chili. Un golem di ferro non può parlare né emettere voce. Inoltre, non emette nessun odore riconoscibile.
 
@@ -6530,7 +6530,7 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 - **Linguaggi**: comprende le lingue del suo creatore ma non può parlare
 - **Sfida**: 10 (5900 PX)
 
-***Riduzione del Danno.*** Il golem d'argilla ha durezza 10/- contro armi non magiche.
+***Riduzione del Danno.*** Il golem di pietra ha durezza 10/- contro armi non magiche.
 
 ***Armi Magiche.*** Gli attacchi con armi del golem sono magici.
 
@@ -6562,7 +6562,7 @@ Un golem di pietra ha un corpo umanoide fatto di pietra, spesso stilizzato per s
 
 Come per la maggior parte dei golem, un golem di pietra non può parlare e non emette altro suono se non quello della pietra che sfrega sulla pietra quando si muove. Un golem di pietra è alto 2,7 metri e pesa circa 1000 kg.
 
-Esistono numerose varianti dei Golem di Pietra, a seconda del materiali di cui sono fatti ma anche come espressioni di spiriti elementali, ovvero é possibile che uno spirito elementale abiti una roccia (o gemma) e ne definisca l'aspetto e lo animi come proprio corpo.
+Esistono numerose varianti dei Golem di Pietra, a seconda dei materiali di cui sono fatti ma anche come espressioni di spiriti elementali, ovvero è possibile che uno spirito elementale abiti una roccia (o gemma) e ne definisca l'aspetto e lo animi come proprio corpo.
 
 **Costruzione**
 Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura, come il granito, del peso di almeno 1.500 kg. La pietra deve essere di qualità eccezionale, e costare 5000 mo.
@@ -6701,9 +6701,9 @@ I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come car
 - **Linguaggi**: Linguaggio delle Profondità
 - **Sfida**: 1/4 (50 PX)
 
-***Camuffamento di Pietra.*** Il grimlock ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondere su terreni rocciosi.
+***Camuffamento di Pietra.*** Il grimlock ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreni rocciosi.
 
-***Sensi Ciechi.*** Il grimlock non può usare la vista cieca mentre è assordato e non più fiutare.
+***Sensi Ciechi.*** Il grimlock non può usare la vista cieca mentre è assordato e non può più fiutare.
 
 ***Olfatto e Udito Affinati.*** Il grimlock ha +1d6 alle prove di Consapevolezza basate su udito o olfatto.
 
@@ -6717,10 +6717,10 @@ I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come car
 
 | **Ecologia** |
 | --- |
-| I Grimlock abitano gli insediamenti abbandonati di altre Razze e sono spesso trovati come schiavi di altre creature più organizzate, come i nani ed Elfi. Si ritiene che si trattino di una propaggine ancora più degenerata dei Morlock, che viaggiano da Sekamina per cacciare i Grimlock per il cibo e considerano la loro carne una delicatezza. |
+| I Grimlock abitano gli insediamenti abbandonati di altre Razze e sono spesso trovati come schiavi di altre creature più organizzate, come i nani ed Elfi. Si ritiene che si tratti di una propaggine ancora più degenerata dei Morlock, che viaggiano da Sekamina per cacciare i Grimlock per il cibo e considerano la loro carne una delicatezza. |
 | **Descrizione** |
 
-I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle terre oscure di profondità, dove si organizzano in piccoli gruppi tribali.
+I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle terre oscure delle profondità, dove si organizzano in piccoli gruppi tribali.
 
 ### Guardiano Protettore
 
@@ -6786,7 +6786,7 @@ Tra le razze goblinoidi, gli Hobgoblin sono i più civilizzati. Vedono i Bugbear
 
 Molte tribù Hobgoblin combinano l'amore per la guerra con l'intelletto acuto. Sono affascinati dalle macchine d'assedio, dall'alchimia e dall'ingegneria complessa. Gli Hobgoblin particolarmente dotati vengono trattati da eroi e ottengono posizioni di alto rango nella tribù. Gli schiavi con menti raffinate sono apprezzati, rendendo comuni le incursioni nelle città naniche.
 
-Gli Hobgoblin disprezzano la magia e diffidano dei maghi. I loro sciamani, temuti e rispettati, vivono ai margini del covo della tribù. Gli Hobgoblin sono alti circa 1.7 metri e pesano 80 kg.
+Gli Hobgoblin disprezzano la magia e diffidano dei maghi. I loro sciamani, temuti e rispettati, vivono ai margini del covo della tribù. Gli Hobgoblin sono alti circa 1,7 metri e pesano 80 kg.
 
 ### Idra
 
@@ -6888,7 +6888,7 @@ Gli ippogrifi sono ovipari e il loro nido contiene solitamente un solo uovo, che
 
 ***Libertà di Movimento.*** Il kraken ignora i terreni difficili, e gli effetti magici non possono ridurne la velocità o far sì che diventi intralciato. Può spendere 1 Azione per liberarsi dalle restrizioni non magiche o dall'essere afferrato.
 
-***Mostro d'Assedio.*** Il kraken infligge danni doppi agli oggetti e le strutture.
+***Mostro d'Assedio.*** Il kraken infligge danni doppi agli oggetti e alle strutture.
 
 **Azioni*Multiattacco.*** Il kraken effettua tre attacchi di tentacolo, ciascuno dei quali può essere rimpiazzato da un uso di Fiondare.
 
@@ -7020,7 +7020,7 @@ livello 9 (1 slot): *Parola del Potere Uccidere*
 
 ***Rinvigorimento.*** Se possiede un filatterio, il lich distrutto ottiene un nuovo corpo in 1d10 giorni, recuperando tutti i suoi Punti Ferita e ritornando in attività. Il nuovo corpo compare entro 1 metro dal filatterio.
 
-***Sacrifici di Anime.*** Un lich deve ogni periodicamente nutrire di anime il suo filatterio per sostenere la magia che mantiene il suo corpo e la sua coscienza. Per farlo usa l'incantesimo *Imprigionare*. Invece di scegliere una delle normali opzioni dell'incantesimo, il lich lo impiega per intrappolare magicamente il corpo e l'anima del bersaglio all'interno del filatterio. Il filatterio deve trovarsi sullo stesso piano del lich, perché questo incantesimo funzioni. Il filatterio di un lich può contenere solo una creatura alla volta, e *Dissolvi Magie Avanzato* lanciato con 4 critici magici sul filatterio libera qualsiasi creatura imprigionata al suo interno. Il filatterio divora un anima a settimana. Una creatura imprigionata nel filatterio oltre questo periodo viene consumata e distrutta, dopodiché nulla salvo un intervento di un Patrono potrà riportarla in vita.
+***Sacrifici di Anime.*** Un lich deve periodicamente nutrire di anime il suo filatterio per sostenere la magia che mantiene il suo corpo e la sua coscienza. Per farlo usa l'incantesimo *Imprigionare*. Invece di scegliere una delle normali opzioni dell'incantesimo, il lich lo impiega per intrappolare magicamente il corpo e l'anima del bersaglio all'interno del filatterio. Il filatterio deve trovarsi sullo stesso piano del lich, perché questo incantesimo funzioni. Il filatterio di un lich può contenere solo una creatura alla volta, e *Dissolvi Magie Avanzato* lanciato con 4 critici magici sul filatterio libera qualsiasi creatura imprigionata al suo interno. Il filatterio divora un'anima a settimana. Una creatura imprigionata nel filatterio oltre questo periodo viene consumata e distrutta, dopodiché nulla salvo un intervento di un Patrono potrà riportarla in vita.
 
 Un lich che dimentichi o non riesca a mantenere il suo corpo con le anime sacrificate inizia a cascare a pezzi, e potrebbe infine trasformarsi in un semilich.
 
@@ -7095,7 +7095,7 @@ Organizzazione: solitario, coppia, banda (3-12) o tribù (13-60)
 
 I lucertoloidi sono rettili predatori orgogliosi e potenti che fanno le loro case comuni in sparuti villaggi nei recessi di paludi e acquitrini. Privi di interesse verso la colonizzazione delle terre aride e soddisfatti delle loro semplici armi e dei rituali che li hanno serviti bene per millenni, i lucertoloidi sono visti da molte delle altre razze come selvaggi retrogradi, ma all'interno delle loro isolate comunità sono in realtà un popolo vitale ricco di tradizioni e con una storia orale che risale a prima che l'uomo camminasse in posizione eretta.
 
-La maggior parte dei lucertoloidi è alta dagli 1,8 ai 2,1 metro e pesa dai 100 ai 125 kg, ed ha i possenti muscoli coperti da scaglie grigie, verdi o marroni. Alcune razze hanno piccole creste dorsali o collari dai colori brillanti, e tutte nuotano bene spostandosi con rapidi movimenti della loro possente coda lunga 1,2 metri. Anche se sono pienamente a loro agio in acqua, trattengono il fiato e tornano alle loro abitazioni poste su colline artificiali per riprodursi e dormire. Poiché il loro sangue da rettile li rende lenti al freddo, molti lucertoloidi cacciano e lavorano durante il giorno e si ritirano nelle loro dimore di notte per rannicchiarsi con gli altri della loro tribù a condividere il calore di grandi fuochi di torba.
+La maggior parte dei lucertoloidi è alta dagli 1,8 ai 2,1 metri e pesa dai 100 ai 125 kg, ed ha i possenti muscoli coperti da scaglie grigie, verdi o marroni. Alcune razze hanno piccole creste dorsali o collari dai colori brillanti, e tutte nuotano bene spostandosi con rapidi movimenti della loro possente coda lunga 1,2 metri. Anche se sono pienamente a loro agio in acqua, trattengono il fiato e tornano alle loro abitazioni poste su colline artificiali per riprodursi e dormire. Poiché il loro sangue da rettile li rende lenti al freddo, molti lucertoloidi cacciano e lavorano durante il giorno e si ritirano nelle loro dimore di notte per rannicchiarsi con gli altri della loro tribù a condividere il calore di grandi fuochi di torba.
 
 Anche se generalmente sono neutrali, il comportamento scostante dei lucertoloidi, il loro strenuo rifiuto dei *doni* della civilizzazione, e la leggendaria ferocia in battaglia li fa mal giudicare dalla maggioranza degli umanoidi. Questi tratti derivano da buone ragioni, tuttavia, poiché il loro basso tasso di riproduzione non ha eguali tra gli umanoidi a sangue caldo, e se le tribù non difendessero i loro territori paludosi fino all'ultimo respiro si troverebbero presto sopraffatte da orde di mammiferi. Per quanto riguarda la loro propensione a mangiare i corpi dei morti sia amici che nemici, i pratici lucertoloidi sono lesti a sottolineare che la vita è dura nella palude, e nulla deve andare sprecato.
 
@@ -7132,7 +7132,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, Spada, J) |
 | **Descrizione** |
 
-Il Maledetto immortale è una persona maledetta spesso da un Patrono o da una potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricordano chi erano ed allora proseguono nella ricerca di chi li ha maledetti.
+Il Maledetto immortale è una persona maledetta spesso da un Patrono o da un potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricorda chi era ed allora proseguono nella ricerca di chi li ha maledetti.
 Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando che l'avversario sia in grado di ucciderlo una volta per tutte.
 
 ### Cinghiale Mannaro
@@ -7148,7 +7148,7 @@ Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando
 
 ***Carica (Solo Forma di Cinghiale o Ibrida).*** Se il cinghiale mannaro si muove in linea retta di almeno 5 metri verso un bersaglio e poi lo colpisce con le zanne durante lo stesso round, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 15 o cadere prono. 1 Azione.
 
-***Implacabile (Ricarica dopo un 1 ora).*** Se il cinghiale mannaro subisce 14 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
+***Implacabile (Ricarica dopo 1 ora).*** Se il cinghiale mannaro subisce 14 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
 
 ***Mutaforma.*** Il cinghiale mannaro può usare 2 Azioni per trasformarsi in un ibrido cinghiale-umanoide o in un cinghiale, o per tornare alla sua vera forma, che è umanoide. Le sue statistiche, a parte la Difesa, sono le stesse in tutte le forme. Qualsiasi equipaggiamento stia indossando o trasportando non viene trasformato. Alla morte ritorna alla sua vera forma.
 
@@ -7301,7 +7301,7 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 - **Movimento**: 9 m (12 m in forma di tigre)
 - **Tiri Salvez.**: \resizedown{Tempra +7, Riflessi +6, Volontà +5}
 - **Comp.**: Furtività +4, Consapevolezza +5
-- **Imm. Danni**: da arma non magica che non siano argentati
+- **Imm. Danni**: da arma non magica o che non sia argentata
 - **Sensi**: \resizedown{Scurovisione 18 m}
 - **Linguaggi**: Comune (non può parlare in forma di tigre)
 - **Sfida**: 4 (1100 PX)
@@ -7381,7 +7381,7 @@ Organizzazione: Solitario, coppia o branco (3-6)
 
 Le manticore sono feroci predatori che controllano vaste aree in cerca di carne fresca. Una tipica manticora è lunga circa 3 metri e pesa circa 500 kg. Alcune hanno la testa simile a quella di un umano, in genere barbuto. Maschi e femmine sono molto simili.
 
-Le manticore mangiano qualsiasi tipo di carne, anche quella delle carogne, ma preferiscono quella umana e raramente si lasciano sfuggire un'occasione di gustare questa delizia. Sono abbastanza furbe e sociali da stringere patti con umanoidi malvagi per formare alleanze o da costringerli ad offre tributi, e molte creature potenti le incaricano di sorvegliare o controllare un posto o una zona. Prediligono fare le loro tane in posti alti, come le sommità delle colline e le caverne tra le rupi.
+Le manticore mangiano qualsiasi tipo di carne, anche quella delle carogne, ma preferiscono quella umana e raramente si lasciano sfuggire un'occasione di gustare questa delizia. Sono abbastanza furbe e sociali da stringere patti con umanoidi malvagi per formare alleanze o da costringerli ad offrire tributi, e molte creature potenti le incaricano di sorvegliare o controllare un posto o una zona. Prediligono fare le loro tane in posti alti, come le sommità delle colline e le caverne tra le rupi.
 
 Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annoverate tra le specie naturali. Curiosamente, le manticore sembrano stranamente feconde e possono incrociarsi con numerose altre specie dalla forma simile, inclusi Leoni, Tigri, Lamie, Sfingi e Chimere.
 
@@ -7408,13 +7408,13 @@ Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annov
 ***Morso.** Attacco con arma da mischia*: +9 a colpire, portata 1 m, una creatura.
 
 *Colpisce:* 10 (2d6 + 3) danni perforanti, e se il bersaglio è di taglia Grande o inferiore, il manto assassino vi si appiccica.
-Finché il manto assassino è appiccicato ha un +1d6 ai Tiri per Colpire. Quando effettua un Tiro per Colpire ed ha il bonus di +1d6 e va a segno il bersaglio è accecato e impossibilitato a respirare. Il manto assassino può staccarsi spendendo 1 Azione di Movimento. Una creatura, compreso il bersaglio, può effettuare una Azione per staccare il manto assassino riuscendo una Tiro Salvezza su Tempra con modificatore Forza DC 21.
+Finché il manto assassino è appiccicato ha un +1d6 ai Tiri per Colpire. Quando effettua un Tiro per Colpire ed ha il bonus di +1d6 e va a segno il bersaglio è accecato e impossibilitato a respirare. Il manto assassino può staccarsi spendendo 1 Azione di Movimento. Una creatura, compreso il bersaglio, può effettuare un'Azione per staccare il manto assassino riuscendo un Tiro Salvezza su Tempra con modificatore Forza DC 21.
 
 ***Coda.** Attacco con arma da mischia*: +9 a colpire, portata 3 m, una creatura.
 
 *Colpisce:* 7 (1d8 + 3) danni taglienti.
 
-***Apparizioni (Ricarica dopo un 1 ora).*** Qualora non si trovi sotto luce intensa, il manto assassino crea tre duplicati illusori di sé stesso, che si muovono assieme ad esso e ne imitano le azioni, scambiandosi di posizione per rendere impossibile capire quale sia il reale manto assassino. Se l'originale si trova in un'area di luce intensa, i duplicati svaniscono.
+***Apparizioni (Ricarica dopo 1 ora).*** Qualora non si trovi sotto luce intensa, il manto assassino crea tre duplicati illusori di sé stesso, che si muovono assieme ad esso e ne imitano le azioni, scambiandosi di posizione per rendere impossibile capire quale sia il reale manto assassino. Se l'originale si trova in un'area di luce intensa, i duplicati svaniscono.
 
 Ogniqualvolta una creatura prenda a bersaglio il manto assassino con un attacco o un incantesimo nocivo mentre sono ancora presenti dei duplicati, quella creatura determina casualmente se prende a bersaglio il manto assassino o uno dei duplicati. Una creatura che non possa vedere o che si affida a sensi diversi dalla vista ignora questo effetto magico.
 
@@ -7471,13 +7471,13 @@ Organizzazione: Solitario, coppia o nidiata (3-12)
 | --- |
 | **Descrizione** |
 
-l'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 ed i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa ed il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.
+L'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 ed i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa ed il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.
 
 I mantoscuro non sono scalatori particolarmente abili, ma sono in grado di appendersi alla volta di una caverna come i pipistrelli, agganciati per mezzo degli uncini posti in fondo ai loro tentacoli, così che il loro corpo penzolante risulti quasi indistinguibile da una stalattite. Da questa postazione nascosta la creatura attende che la preda passi sotto di lei e, a questo punto, si stacca lanciandosi verso di essa, sbattendo contro il bersaglio e tentando di avvolgervi attorno i suoi membranosi tentacoli. Se il mantoscuro manca la preda, risale e si lancia nuovamente contro la preda, fino a quando quest'ultima non viene sconfitta o il mantoscuro è gravemente ferito (nel qual caso svolazza sul soffitto per nascondersi, sperando che la sua preda lo lasci perdere). La capacità innata di questa creatura di celare la zona circostante per mezzo dell'oscurità magica le offre un ulteriore vantaggio contro gli avversari che necessitano della luce per vedere.
 
 I mantoscuro preferiscono vivere e cacciare nelle caverne e nei cunicoli più vicini alla superficie, dal momento che questi offrono un più frequente passaggio di prede che questi mostri possono cacciare. Non si limitano però a queste caverne buie e talvolta possono essere incontrati in fortezze abbandonate o persino nelle fogne delle città affollate. Qualsiasi luogo dove abbondi il cibo e ci sia un soffitto a cui appendersi è un possibile covo per un mantoscuro.
 
-Mantooscuro e Manto Assassino per quanto simili non appartengono alla stessa specie ma leggende narrano di una origine magica comune dovuta, come spesso capita, alla volontà di due maghi di trasformasi per primi in cappe... L'odio tra le due mostruosità è totale e prevarica ogni altro avversario presente.
+Mantoscuro e Manto Assassino per quanto simili non appartengono alla stessa specie ma leggende narrano di una origine magica comune dovuta, come spesso capita, alla volontà di due maghi di trasformarsi per primi in cappe... L'odio tra le due mostruosità è totale e prevarica ogni altro avversario presente.
 
 ### Medusa
 
@@ -7491,7 +7491,7 @@ Mantooscuro e Manto Assassino per quanto simili non appartengono alla stessa spe
 - **Linguaggi**: Comune
 - **Sfida**: 6 (2300 PX)
 
-***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri da una medusa di cui possa vedere gli occhi, la medusa, qualora non sia inabile e possa vedere a sua volta la creatura, può obbligarla ad effettuare un Tiro Salvezza di Tempra DC 19. Se la creatura fallisce in maniera critica il Tiro Salvezza, viene pietrificata all'istante, altrimenti è Rallentata 1/1 minuto. Successivi sguardi e Tiri Salvezza falliti portano ad aumentare le condizione di Rallentato. Quando la creatura diventa Rallentata 3 si trasforma in pietra. La creatura può tornare di carne se viene lanciato l'incantesimo Pietra in Carne entro 1 mese dalla pietrificazione.
+***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri da una medusa di cui possa vedere gli occhi, la medusa, qualora non sia inabile e possa vedere a sua volta la creatura, può obbligarla ad effettuare un Tiro Salvezza di Tempra DC 19. Se la creatura fallisce in maniera critica il Tiro Salvezza, viene pietrificata all'istante, altrimenti è Rallentata 1/1 minuto. Successivi sguardi e Tiri Salvezza falliti portano ad aumentare le condizioni di Rallentato. Quando la creatura diventa Rallentata 3 si trasforma in pietra. La creatura può tornare di carne se viene lanciato l'incantesimo Pietra in Carne entro 1 mese dalla pietrificazione.
 
 Una creatura che combatte la Medusa cercando di evitare il suo sguardo ha -1d6 al Tiro per Colpire.
 
@@ -7525,7 +7525,7 @@ Le meduse sono creature simili agli umani con serpenti al posto dei capelli. Dal
 
 Avvezze a nascondersi, le meduse cittadine generalmente sono ladre, mentre quelle delle zone selvagge spesso finiscono per essere guardiaboschi. Le meduse delle leggende più note, tuttavia, sono quelle che prendono livelli da incantatore. Carismatiche ed intelligenti, le meduse urbane sono spesso coinvolte in gilde di ladri ed altri aspetti del mondo criminale. Le meduse possono formare alleanze con creature cieche o non morti intelligenti, entrambi immuni al loro sguardo pietrificante. Le meduse incantatrici fungono spesso da oracoli o profetesse, vivendo generalmente in remote zone di leggendaria potenza o dalla storia infausta. Queste meduse oracoli traggono grande diletto dal loro ruolo, e se ci si presenta con i giusti doni e adulazioni, i segreti che offrono possono essere veramente utili. Naturalmente, i nascondigli di queste potenti creature sono decorati con le statue di coloro che le hanno offese, come monito ad usare le dovute cautele durante gli incontri.
 
-Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschio umanoide come compagno, generalmente grazie all'aiuto di una Elisir d'Amore o qualche magia simile, ed hanno sempre cura di non pietrificare il loro prigioniero, a meno che non si siano annoiate della sua compagnia.
+Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschio umanoide come compagno, generalmente grazie all'aiuto di un Elisir d'Amore o qualche magia simile, ed hanno sempre cura di non pietrificare il loro prigioniero, a meno che non si siano annoiate della sua compagnia.
 
 ### Mefito di Ghiaccio
 
@@ -7659,7 +7659,7 @@ I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit
 
 ***Natura Elementale.*** Un mefito non ha bisogno di cibo, bevande o sonno.
 
-***Scoppio Mortale.*** Quando il mefito muore, esplode in nube di vapore. Ogni creatura entro 1 metro da esso deve riuscire un Tiro Salvezza su Riflessi DC 10 o subire 4 (1d8) danni da fuoco.
+***Scoppio Mortale.*** Quando il mefito muore, esplode in una nube di vapore. Ogni creatura entro 1 metro da esso deve riuscire un Tiro Salvezza su Riflessi DC 10 o subire 4 (1d8) danni da fuoco.
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
@@ -7728,12 +7728,12 @@ Le megere marine formano congreghe simili a quelle delle altre megere, ma la lor
 - **Movimento**: 9 m
 - **Tiri Salvez.**: \resizedown{Tempra +8, Riflessi +7, Volontà +7}
 - **Comp.**: Furtività +6, Ingannare +7, Percepire Emozioni +6
-- **Res. Danni**: Freddo, Fuoco; da arma non magica o non siano argentati
+- **Res. Danni**: Freddo, Fuoco; da arma non magica o che non sia argentata
 - **Sensi**: \resizedown{Scurovisione 36 m}
 - **Linguaggi**: Abissale, Comune, Infernale, Druidico
 - **Sfida**: 5 (1800 PX)
 
-***Incantesimi Innati.*** La caratteristica da incantatore innato della megera è il Carisma (DC 14 per i Tiri Salvezza degli incantesimi. La megera può lanciare in maniera innata i seguenti incantesimi, senza aver bisogno di componenti materiali.
+***Incantesimi Innati.*** La caratteristica da incantatore innato della megera è il Carisma (DC 14 per i Tiri Salvezza degli incantesimi). La megera può lanciare in maniera innata i seguenti incantesimi, senza aver bisogno di componenti materiali.
 
 A volontà: *Dardo arcano, Individuazione del Magico* 2/giorno ciascuno: *Raggio di Indebolimento, Sonno*
 
@@ -7826,13 +7826,13 @@ Organizzazione: Solitario
 | --- |
 | **Descrizione** |
 
-Le Ameba Paglierina sono masse animate di protoplasma di colore simile ad un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.
+Le Amebe Paglierina sono masse animate di protoplasma di colore simile ad un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.
 
 L'acido altamente specializzato dell'Ameba Paglierina dissolve solo la carne. Questa scoperta ha portato molti maestri avvelenatori ed alchimisti a cercarne esemplari per studiarli. Da questi esperimenti sono nate diverse armi specifiche ideate per distruggere i corpi. Si racconta dell'esistenza di un veleno ad azione lenta che distrugge ad una ad una le cellule delle creature viventi, il cui segreto è ben conservato dal suo creatore.
 
 Un'antica e dimenticata raccolta di appunti descrive un singolare rituale funebre praticato in terre lontane. Anziché cremare i defunti, i corpi venivano racchiusi in sarcofagi di pietra insieme a un'Ameba Paglierina che ne dissolveva lentamente la carne. Successivamente la gelatina risultante veniva trasferita in un'urna accompagnata da una targa di bronzo recante il nome del defunto. Questo metodo preservava gli oggetti sepolti con il corpo, ridotto in breve tempo a uno scheletro lucente, e si credeva che l'essenza vitale del defunto continuasse ad abitare nella gelatina.
 
-L'Ameba Paglierina sono alte circa 15 centimetri, hanno un diametro che può arrivare a 3 metri e pesano circa 1.300 chili. In combattimento, si raccolgono su loro stesse e producono lunghi pseudopodi umidi per colpire ed afferrare qualunque cosa si muova.
+Le Amebe Paglierina sono alte circa 15 centimetri, hanno un diametro che può arrivare a 3 metri e pesano circa 1.300 chili. In combattimento, si raccolgono su loro stesse e producono lunghi pseudopodi umidi per colpire ed afferrare qualunque cosa si muova.
 
 Anche se la tipica Ameba Paglierina ha le statistiche qui presentate, nelle profondità della terra questi predatori possono raggiungere dimensioni mostruose.
 
@@ -7883,7 +7883,7 @@ Organizzazione: Solitario
 
 Tra i predatori più insoliti e peculiari dei dungeon, i cubi gelatinosi trascorrono la loro esistenza vagabondando senza meta per i cunicoli sotterranei e le oscure caverne, inglobando materiali organici come piante, rifiuti, carogne e anche creature viventi. La materia che il cubo non può digerire, come metalli e pietra, riempie di detriti il volume della creatura, e a volte questa può espellerne una parte dal suo corpo. Spesso il tesoro e gli averi delle vittime passate restano dentro il cubo gelatinoso: immagine spettrale dei loro resti materiali.
 
-Alcuni saggi credono che queste creature si siano evolute delle Melme Grigie. Alcuni esseri usano i cubi gelatinosi come guardiani di dungeon e fortificazioni sotterranee, intrappolando queste immense creature in casse di metallo massiccio e trasportandole con poteri o magie fino al loro posto di guardia finale. Sono dei meccanismi di smaltimento rifiuti particolarmente efficaci; una tribù può intrappolare un cubo gelatinoso in una fossa o un'altra area che non possa scalare usandolo come letamaio o anche trappola mortale, a seconda dell'ingegnosità delle creature che l'hanno catturato.
+Alcuni saggi credono che queste creature si siano evolute dalle Melme Grigie. Alcuni esseri usano i cubi gelatinosi come guardiani di dungeon e fortificazioni sotterranee, intrappolando queste immense creature in casse di metallo massiccio e trasportandole con poteri o magie fino al loro posto di guardia finale. Sono dei meccanismi di smaltimento dei rifiuti particolarmente efficaci; una tribù può intrappolare un cubo gelatinoso in una fossa o un'altra area che non possa scalare usandolo come letamaio o anche trappola mortale, a seconda dell'ingegnosità delle creature che l'hanno catturato.
 
 I cubi gelatinosi in genere hanno uno spigolo di 3 metri e pesano più di 7.500 kg, sebbene alcuni esploratori sotterranei affermino che nel sottosuolo esistano esemplari più grandi. In zone in cui il cibo abbonda, i cubi gelatinosi possono vivere per centinaia, se non migliaia, di anni. Tuttavia, se viene a mancare la materia organica per più di 6 mesi, un cubo gelatinoso comincia a deperire, e le sue pareti iniziano a colare, disfacendosi rapidamente in muco liquido finché l'intero corpo non collassa e scompare completamente.
 
@@ -7899,11 +7899,11 @@ I cubi gelatinosi in genere hanno uno spigolo di 3 metri e pesano più di 7.500 
 - **Sensi**: Vista Cieca 18 m (cieca oltre questo raggio)
 - **Sfida**: 1/2 (100 PX)
 
-***Amorfo.*** La melma può muoversi attraverso uno spazio fino a centimetri di larghezza senza doversi stringere.
+***Amorfo.*** La melma può muoversi attraverso uno spazio fino a 3 centimetri di larghezza senza doversi stringere.
 
 ***Corrodere Metallo.*** Qualsiasi arma non magica fatta di metallo che colpisca la melma si corrode. Dopo aver inflitto il danno, l'arma subisce una penalità permanente e cumulativa di -1 ai tiri di danno. Se la penalità arriva a -5, l'arma è distrutta. Le munizioni non magiche fatte di metallo che colpiscano la melma si distruggono dopo aver inflitto il danno.
 
-La melma può divorare metallo non magico dello spessore di 5 centimetri in un 1 round.
+La melma può divorare metallo non magico dello spessore di 5 centimetri in 1 round.
 
 ***Falso Aspetto.*** Quando la melma rimane immobile, è indistinguibile da una pozza d'olio o una pietra bagnata.
 
@@ -7923,7 +7923,7 @@ Organizzazione: Solitario
 
 Strisciando attraverso le fredde paludi e gli acquitrini nebbiosi o, a volte in sotterranei e caverne, le melme grigie consumano ogni sostanza organica che incontrano. Sebbene priva di intelligenza, la melma grigia è una delle creature che dà non pochi problemi per la sua trasparenza. Anche se non può arrampicarsi facilmente sui muri o nuotare, la sua abitudine di nascondersi nel fango spesso lungo le rive paludose o di rimanere immobile in pozze dall'aspetto innocuo sul pavimento grigio di un sotterraneo, la rendono molto difficile da notare e da evitare.
 
-Alcuni saggi credono che le melme grigie siano il risultato di un esperimento alchemico fallito, mentre altri teorizzano che le prime melme grigie siano nate spontaneamente da un pozzo di detriti magici. Naturalmente, queste teorie che non le considerano organismi viventi, bensì il risultato di una sfortunata mistura di fluidi caustici e residui magici, sono derisi da chi vive nelle zone infestate da queste creature, che non hanno una storia di inquinamento magico.
+Alcuni saggi credono che le melme grigie siano il risultato di un esperimento alchemico fallito, mentre altri teorizzano che le prime melme grigie siano nate spontaneamente da un pozzo di detriti magici. Naturalmente, queste teorie che non le considerano organismi viventi, bensì il risultato di una sfortunata mistura di fluidi caustici e residui magici, sono derise da chi vive nelle zone infestate da queste creature, che non hanno una storia di inquinamento magico.
 
 ### Protoplasma Nero
 
@@ -7941,7 +7941,7 @@ Alcuni saggi credono che le melme grigie siano il risultato di un esperimento al
 
 ***Forma Corrosiva.*** Una creatura che entri a contatto col protoplasma nero o lo colpisca con un attacco da mischia mentre si trova entro 1 metro da esso subisce 4 (1d8) danni da acido. Qualsiasi arma non magica fatta di metallo o legno che colpisca il protoplasma nero si corrode. Dopo aver inflitto il danno, l'arma subisce una penalità permanente e cumulativa di -1 ai tiri di danno. Se la penalità arriva a -5, l'arma è distrutta. Le munizioni non magiche fatte di metallo o legno che colpiscano il protoplasma nero si distruggono dopo aver inflitto il danno.
 
-Il protoplasma nero può divorare legno o metallo non magico dello spessore di 5 centimetri in un 1 round.
+Il protoplasma nero può divorare legno o metallo non magico dello spessore di 5 centimetri in 1 round.
 
 ***Natura di Melma.*** Il protoplasma nero non necessita di dormire.
 
@@ -8063,7 +8063,7 @@ I minotauri sono combattenti diretti, usando le loro corna per incornare orribil
 - **Linguaggi**: le lingue che conosceva in vita
 - **Sfida**: 3 (700 PX)
 
-***Natura Non Morta.*** Un mummia non ha bisogno di aria, cibo, bevande o sonno.
+***Natura Non Morta.*** Una mummia non ha bisogno di aria, cibo, bevande o sonno.
 
 **Azioni*Multiattacco.*** La mummia può usare la sua Occhiata Temibile ed effettuare un attacco con il pugno putrefacente.
 
@@ -8071,7 +8071,7 @@ I minotauri sono combattenti diretti, usando le loro corna per incornare orribil
 
 *Colpisce:* 10 (2d6 + 3) danni contundenti più 10 (3d6) danni da Vuoto. Se il bersaglio è una creatura deve riuscire un Tiro Salvezza su Tempra DC 15 o venire maledetto dalla putrefazione della mummia. Il bersaglio maledetto non può recuperare Punti Ferita e i suoi Punti Ferita massimi diminuiscono di 10 (3d6) ogni 24 ore di durata della maledizione. Se la maledizione riduce i Punti Ferita massimi del bersaglio a 0, il bersaglio muore e il suo corpo si tramuta in polvere. La maledizione dura finché non viene rimossa dall'incantesimo *Rimuovi Maledizione* o altra magia.
 
-***Occhiata Temibile.*** La mummia prende a bersaglio una creatura che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio può vedere la mummia deve riuscire un Tiro Salvezza su Volontà DC 15 contro questa magia o restare spaventato fino al termine del prossimo round della mummia. Se il bersaglio fallisce il Tiro Salvezza in maniera critica è anche paralizzato per la stessa durata. Un bersaglio che riesca il Tiro Salvezza è immune all'Occhiata Terribile di tutte le mummie (ma non delle mummie sovrane) per le successive 24 ore.
+***Occhiata Temibile.*** La mummia prende a bersaglio una creatura che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio può vedere la mummia deve riuscire un Tiro Salvezza su Volontà DC 15 contro questa magia o restare spaventato fino al termine del prossimo round della mummia. Se il bersaglio fallisce il Tiro Salvezza in maniera critica è anche paralizzato per la stessa durata. Un bersaglio che riesca il Tiro Salvezza è immune all'Occhiata Temibile di tutte le mummie (ma non delle mummie sovrane) per le successive 24 ore.
 
 ### Mummia Sovrana
 
@@ -8107,19 +8107,19 @@ livello 5 (2 slot): *Contagio, Piaga degli Insetti*
 
 livello 6 (1 slot): *Ferire*
 
-***Natura Non Morta.*** Un mummia non ha bisogno di aria, cibo, bevande o sonno.
+***Natura Non Morta.*** Una mummia non ha bisogno di aria, cibo, bevande o sonno.
 
 ***Resistenza alla Magia.*** La mummia sovrana ha +1d6 ai Tiri Salvezza contro incantesimi o altri effetti magici.
 
 ***Rinvigorimento.*** Una mummia sovrana forma un nuovo corpo entro 24 ore se il suo cuore resta intatto, recuperando tutti i Punti Ferita e potendo agire nuovamente. Il nuovo corpo compare entro 1 metro dal cuore della mummia sovrana.
 
-**Azioni*Multiattacco.*** La mummia può usare la sua Occhiata Temibile ed effettuare un attacco con il pugno putrefacente, oppure 2 Pugni Putrefacente.
+**Azioni*Multiattacco.*** La mummia può usare la sua Occhiata Temibile ed effettuare un attacco con il pugno putrefacente, oppure 2 Pugni Putrefacenti.
 
 ***Pugno Putrefacente.** Attacco con arma da mischia*: +13 a colpire, portata 1 m, un bersaglio.
 
 *Colpisce:* 14 (3d6 + 4) danni contundenti più 21 (6d6) danni da Vuoto. Se il bersaglio è una creatura deve riuscire un Tiro Salvezza su Tempra 28 o venire maledetto dalla putrefazione della mummia. Il bersaglio maledetto non può recuperare Punti Ferita, e i suoi Punti Ferita massimi diminuiscono di 10 (3d6) ogni 24 ore di durata della maledizione. Se la maledizione riduce i Punti Ferita massimi del bersaglio a 0, il bersaglio muore, e il suo corpo si tramuta in polvere. La maledizione dura finché non viene rimossa dall'incantesimo *Rimuovi Maledizione* o altra magia.
 
-***Occhiata Temibile.*** La mummia prende a bersaglio una creatura che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio può vedere la mummia, deve riuscire un Tiro Salvezza su Volontà DC 28 contro questa magia o restare spaventato fino al termine del prossimo round della mummia. Se il bersaglio fallisce il Tiro Salvezza in maniera critica è anche paralizzato per la stessa durata. Un bersaglio che riesca il Tiro Salvezza è immune all'Occhiata Terribile di tutte le mummie (ma non delle mummie sovrane) per le successive 24 ore.
+***Occhiata Temibile.*** La mummia prende a bersaglio una creatura che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio può vedere la mummia, deve riuscire un Tiro Salvezza su Volontà DC 28 contro questa magia o restare spaventato fino al termine del prossimo round della mummia. Se il bersaglio fallisce il Tiro Salvezza in maniera critica è anche paralizzato per la stessa durata. Un bersaglio che riesca il Tiro Salvezza è immune all'Occhiata Temibile di tutte le mummie (ma non delle mummie sovrane) per le successive 24 ore.
 
 **Reazione: *Attacco d'opportunità***: la mummia sovrana effettua un pugno putrefacente ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
@@ -8137,7 +8137,7 @@ La mummia sovrana può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seg
 
 ***Turbine di Sabbia (Costa 2 Azioni).*** La mummia sovrana può trasformarsi magicamente in un turbine di sabbia, muovendosi di massimo 18 metri, e tornando poi alla sua forma normale. Mentre è in forma di turbine, la mummia sovrana è immune a tutti i danni, e non può essere afferrata, pietrificata, gettata prona, intralciata o stordita. L'equipaggiamento indossato o trasportato dalla mummia sovrana rimane in suo possesso.
 
-***Arrabbiato:*** La Mummia sovrana ha fame di vita. Incanala l'energia della morte e distruzione in un raggio di 12 metri intorno a se. Ogni creatura deve superare un Tiro Salvezza su Tempra a DC 26 per dimezzare o subire 22 di danno. La Mummia recupera tutti i Punti Ferita persi dalle altre creature.
+***Arrabbiato:*** La Mummia sovrana ha fame di vita. Incanala l'energia della morte e distruzione in un raggio di 12 metri intorno a sé. Ogni creatura deve superare un Tiro Salvezza su Tempra a DC 26 per dimezzare o subire 22 di danno. La Mummia recupera tutti i Punti Ferita persi dalle altre creature.
 
 **Ecologia**
 
@@ -8148,7 +8148,7 @@ Organizzazione: Solitario, Gruppo (3-6) o Mausoleo (7-12)
 | --- |
 | **Descrizione** |
 
-Molte culture praticano l'arte sacra della mummificazione, anche se le sinistre tecniche magiche utilizzate per infondere ai cadaveri la vitalità dei non morti sono molto meno comuni. In alcune terre antiche, tali tecniche blasfeme sono state affinate attraverso secoli di cerimonie e innumerevoli morti, risultando in mummie di terribile potere. In rare occasioni, se il defunto era di rango elevato ed eccessiva malvagità, poteva sottoporsi a rituali così elaborati, risorgendo dalla tomba come un temibile signore mummia. Allo stesso modo, un sovrano noto per la sua malizia o morto in un momento di grande rabbia potrebbe presentarsi spontaneamente come un despota vendicativo. Indipendentemente dalle circostanze esatte della sua risurrezione, una mummia sovrana conserva le capacità che aveva in vita, diventando una creatura consumata dal desiderio di ripristinare il suo dominio e governare sia i vivi che i morti.
+Molte culture praticano l'arte sacra della mummificazione, anche se le sinistre tecniche magiche utilizzate per infondere ai cadaveri la vitalità dei non morti sono molto meno comuni. In alcune terre antiche, tali tecniche blasfeme sono state affinate attraverso secoli di cerimonie e innumerevoli morti, risultando in mummie di terribile potere. In rare occasioni, se il defunto era di rango elevato e di eccessiva malvagità, poteva sottoporsi a rituali così elaborati, risorgendo dalla tomba come un temibile signore mummia. Allo stesso modo, un sovrano noto per la sua malizia o morto in un momento di grande rabbia potrebbe presentarsi spontaneamente come un despota vendicativo. Indipendentemente dalle circostanze esatte della sua risurrezione, una mummia sovrana conserva le capacità che aveva in vita, diventando una creatura consumata dal desiderio di ripristinare il suo dominio e governare sia i vivi che i morti.
 
 ### Naga Guardiano
 
@@ -8628,7 +8628,7 @@ Gli Orrore Arrampicamuri comunicano colpendo il loro esoscheletro o le superfici
 | --- |
 | **Descrizione** |
 
-Le origini dell'Orsogufo sono oggetto di dibattito fra gli studiosi delle creature mostruose. La maggior parte di essi concorda che fu un Mago, in passato, a crearne il primo esemplare unendo un orso con un gufo gigante; forse come esperimento su qualche folle concetto della natura della vita, ma più probabilmente a causa della sua totale pazzia. Quale che fosse lo scopo originale di una creazione tanto folle come l'Orsogufo, la creatura ha iniziato a riprodursi, ed è divenuta uno dei predatori più conosciuto delle zone boschive.
+Le origini dell'Orsogufo sono oggetto di dibattito fra gli studiosi delle creature mostruose. La maggior parte di essi concorda che fu un Mago, in passato, a crearne il primo esemplare unendo un orso con un gufo gigante; forse come esperimento su qualche folle concetto della natura della vita, ma più probabilmente a causa della sua totale pazzia. Quale che fosse lo scopo originale di una creazione tanto folle come l'Orsogufo, la creatura ha iniziato a riprodursi, ed è divenuta uno dei predatori più conosciuti delle zone boschive.
 
 Gli Orsogufo sono selvaggi predatori, noti per il loro pessimo temperamento, la loro aggressività e la loro ferocia. Tendono ad attaccare tutto ciò che si muove loro davanti, anche se questo non mostra intenzioni bellicose. Molti studiosi che hanno incontrato queste creature nelle terre selvagge hanno notato che hanno sempre occhi iniettati di sangue che ruotano tutto attorno poco prima di un attacco. Questo è generalmente visto come segno di follia, che suggerisce che tutti gli Orsogufo nascano con un bisogno patologico di combattere ed uccidere, ma i ricercatori più realisti ritengono sia dovuto alla struttura dei loro occhi acuti.
 
@@ -8652,7 +8652,7 @@ Questo Orsogufo è presente nelle regioni artiche o montane innevate. A differen
 - **Tiri Salvez.**: \resizedown{Tempra +5, Riflessi +4, Volontà +6}
 - **Comp.**: Consapevolezza +9
 - **Sensi**: \resizedown{Scurovisione 18 m}
-- **Linguaggi**: comprende e legge i seguenti: Comune, Druidico,Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Expiran, lingue Elementali
+- **Linguaggi**: comprende e legge i seguenti: Comune, Druidico, Celestiale, Infernale, Nanico, Elfico, Orchesco, Gigante, Expiran, lingue Elementali
 - **Sfida**: 3 (700 PX)
 
 ***Olfatto e Vista Affinati.*** L'Orsogufo saggio ha +1d6 nelle prove di Consapevolezza basate su olfatto o vista.
@@ -8681,7 +8681,7 @@ A volontà: *Mano Magica, Comprensione degli Scritti*
 | --- |
 | **Descrizione** |
 
-Le origini dell'Orsogufo saggio sono misteriose quanto quelli del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'Orsogufo originale.
+Le origini dell'Orsogufo saggio sono misteriose quanto quelle del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'Orsogufo originale.
 Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le avvincenti ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte. L'Orsogufo saggio è in grado di leggere qualsiasi lingua o codice se ha modo di studiarlo per 3 giorni.
 Solitamente più deboli e fragili del parente stretto sono comunque esseri temibili in combattimento.
 Di preferenza un Orsogufo saggio non attacca se non per difesa e cerca un approccio il più tattico e utile possibile. Un tratto caratteristico degli Orsogufo saggi è una sciarpa rossa portata intorno all'assente collo. Uccidere un Orsogufo saggio è un affronto ai Devoti e Seguaci di Nethergal, è anche capitato che il Patrono stesso togliesse la capacità di comunicare a coloro si sono macchiati di efferatezze con le sue creature preferite.
@@ -8715,7 +8715,7 @@ Questa riduzione dei Punti Ferita massimi del personaggio perdura finché la mal
 
 ***Tentacolo.** Attacco con arma da mischia*: +7 a colpire, portata 3 m, un bersaglio.
 
-*Colpisce:* 7 (1d8 + 3) danni contundenti più 4 (1d8) danni perforanti. Se il bersaglio è di taglia Media o inferiore, è afferrato (DC 13 per fuggire). L'otyugh ha due tentacoli, ciascun dei quali può afferrare un bersaglio diverso.
+*Colpisce:* 7 (1d8 + 3) danni contundenti più 4 (1d8) danni perforanti. Se il bersaglio è di taglia Media o inferiore, è afferrato (DC 13 per fuggire). L'otyugh ha due tentacoli, ciascuno dei quali può afferrare un bersaglio diverso.
 
 ***Schianto di Tentacolo.*** L'otyugh schianta le creature afferrate dai suoi tentacoli, l'una contro l'altra o sul pavimento. Ogni creatura deve riuscire un Tiro Salvezza di Tempra DC 17 o subire 10 (2d6 + 3) danni contundenti e restare stordita fino al termine del prossimo round dell'otyugh. Se il Tiro Salvezza riesce, il bersaglio subisce la metà dei danni contundenti e non è stordito.
 
@@ -8774,7 +8774,7 @@ Un otyugh mangiando gli escrementi o parte di una creatura può capire quale mal
 
 *Quello che muove*; questo occhio può manifestare l'incantesimo Mano Magica oppure Telecinesi.
 
-***Un solo sguardo.*** Il Panoptikhan attiva l'occhio centrare. L'occhio centrale può essere usato come Azione di Reazione per lanciare Controincantesimo su un incantesimo che ha visto lanciare. DC 25.
+***Un solo sguardo.*** Il Panoptikhan attiva l'occhio centrale. L'occhio centrale può essere usato come Azione di Reazione per lanciare Controincantesimo su un incantesimo che ha visto lanciare. DC 25.
 
 ***Arrabbiato:*** il Panoptikhan in preda alla furia più cieca attiva 1d6 occhi a caso su bersagli a caso. Costa 3 Azioni.
 
@@ -8830,7 +8830,7 @@ Un carico leggero per un pegaso è fino a 150 kg; un carico medio è 150,5-300 k
 
 In alcuni pegasi il sangue di un antenato che era un eroico stallone è ancora forte. Questi campioni hanno la durata della vita di un umano, manovrabilità perfetta, resistenza al fuoco 10, un bonus razziale di +4 ai Tiri Salvezza contro i Veleni e immunità alla Pietrificazione, un ulteriore +4 al Tiro per Colpire, +4 a Difesa, +25 PF, +4 a tutti i TS ed infliggono +1d6 di danno aggiuntivo. Alcuni riescono a dire poche parole in Celestiale o Comune. Si rendono conto della loro superiorità sui saurovalli, non devono essere addestrati a volare con un cavaliere, ma permettono solo ai più grandi eroi di cavalcarli.
 
-Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli* solo per espresse intercessione di Ljust.
+Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli* solo per espressa intercessione di Ljust.
 
 ### Persecutore Invisibile
 
@@ -8853,7 +8853,7 @@ Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli*
 
 ***Natura Elementale.*** Un persecutore invisibile non ha bisogno di aria, cibo, bevande o sonno.
 
-**Azioni*Multiattacco.*** La persecutore effettua due attacchi di schianto.
+**Azioni*Multiattacco.*** Il persecutore effettua due attacchi di schianto.
 
 ***Schianto.** Attacco con arma da mischia*: +7 a colpire, portata 1 m, un bersaglio.
 
@@ -8932,11 +8932,11 @@ Raggiunta l'età adulta, il corpo di uno pseudodrago è lungo 30 centimetri con 
 
 ***Immunità alla Magia Limitata.*** Il rakshasa è immune agli affetti o all'individuazione tramite incantesimi di livello 6 o più basso a meno che non desideri esserne soggetto. Ha +1d6 ai Tiri Salvezza contro tutti gli altri incantesimi ed effetti magici.
 
-***Incantesimi Innati.*** La caratteristica da incantatore del rakshasa il Carisma (+10 a colpire con attacchi con incantesimi). Il rakshasa può lanciare in maniera innata i seguenti incantesimi senza aver bisogno di componenti materiali:
+***Incantesimi Innati.*** La caratteristica da incantatore del rakshasa è il Carisma (+10 a colpire con attacchi con incantesimi). Il rakshasa può lanciare in maniera innata i seguenti incantesimi senza aver bisogno di componenti materiali:
 
 A volontà: *Camuffare Sé Stesso, Illusione Minore, Individuazione dei Pensieri, Mano Magica*
 
-3/Giorno ciascuno: *Charme su Persone, Immagine Maggiore, Individuazione del Magico, Invisibilità, Suggestione* 1/Giorno: *Dominare Persone, Visione del Vero, volare*
+3/Giorno ciascuno: *Charme su Persone, Immagine Maggiore, Individuazione del Magico, Invisibilità, Suggestione*. 1/Giorno: *Dominare Persone, Visione del Vero, volare*
 
 **Azioni*Multiattacco.*** Il rakshasa può effettuare due attacchi di artiglio.
 
@@ -8951,7 +8951,7 @@ A volontà: *Camuffare Sé Stesso, Illusione Minore, Individuazione dei Pensieri
 Ambiente: Qualsiasi
 
 Organizzazione: Solitario, coppia o culto (3-12)
-| **Categoria Tesoro**: Pugnale+1, I |
+| **Categoria Tesoro**: Pugnale +1, I |
 | --- |
 | **Descrizione** |
 
@@ -8992,7 +8992,7 @@ Un rakshasa è alto 1,8 metri e pesa 90 kg.
 
 ***Chela.*** +8 al colpire, portata 1 metro
 
-*Colpire*: 16 (2d10 + 5) di danni contundente
+*Colpire*: 16 (2d10 + 5) di danni contundenti
 
 ***Occhio Paralizzante***: la creatura interessata, entro 18 metri, deve fare un Tiro Salvezza su Tempra a DC 18 o rimanere paralizzato per 2d4 round.
 
@@ -9009,7 +9009,7 @@ Organizzazione: 1-2 Razziamorti, 1d4+1 guardiani
 I Razziamorti sono dei particolari non morti costruiti da pezzi di vario cadavere e pezzi di ferro perché assomiglino a delle specie di grossi granchi corazzati.
 Il dorso, completamente metallico, funge da contenitore per i tesori che il Razziamorti trova, le chele, in numero variabile tra le 6 ed 8 sono lunghe poco più di un metro ed hanno la caratteristica di lasciare ognuna una impronta diversa essendo assemblate da pezzi di metallo e corpi diversi.
 
-Il grosso occhio centrale, forse una volta appartenuto ad un umanoide permette al controllore e costruttore del Razziamorti di vedere e comandarlo. Lo scopo di un Razziamorti é esplorare, solitamente un sistema di caverne o percorsi, alla ricerca dei resti di passati razziatori e avventurieri per carpirne gli oggetti magici e tesori.
+Il grosso occhio centrale, forse una volta appartenuto ad un umanoide permette al controllore e costruttore del Razziamorti di vedere e comandarlo. Lo scopo di un Razziamorti è esplorare, solitamente un sistema di caverne o percorsi, alla ricerca dei resti di passati razziatori e avventurieri per carpirne gli oggetti magici e tesori.
 
 Solitamente un Razziamorto è sempre accompagnato da diversi guardiani (altre creature al comando del controllore) che lo aiutano nel *sistemare* eventuali *resistenze* ancora attive.
 
@@ -9029,13 +9029,13 @@ Solitamente un Razziamorto è sempre accompagnato da diversi guardiani (altre cr
 
 *Colpisce:* 40 (6d10 + 7) danni perforanti più 10 (3d6) danni da fuoco. Se il bersaglio è una creatura, è afferrato (DC 17 per fuggire). Fino al termine dell'afferrare  il remorhaz non può attaccare con il morso un altro bersaglio.
 
-***Inghiottire.*** Il remorhaz effettua una attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, la creatura subisce il danno da morso ed è inghiottita, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del remorhaz, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del remorhaz.
+***Inghiottire.*** Il remorhaz effettua un attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, la creatura subisce il danno da morso ed è inghiottita, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del remorhaz, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del remorhaz.
 
-Se il remorhaz subisce 30 o più danni in un singolo round da una creatura al suo interno, il remorhaz deve riuscire un Tiro Salvezza su Tempra DC 24 al termine di quel round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal remorhaz. Se il remorhaz muore, una creatura inghiottita non più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
+Se il remorhaz subisce 30 o più danni in un singolo round da una creatura al suo interno, il remorhaz deve riuscire un Tiro Salvezza su Tempra DC 24 al termine di quel round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal remorhaz. Se il remorhaz muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
 
 ***Feroce.*** Come Azione il remorhaz affonda ancora più il Morso andato a segno causando 3d6 danni perforanti aggiuntivi. 1 Azione.
 
-***Arrabbiato:*** il Remorhaz scalda ancora di più il suo corpo fino alla fine del combattimento portanto a 18 (6d6) il danno da fuoco per chi è entro 1 metro.
+***Arrabbiato:*** il Remorhaz scalda ancora di più il suo corpo fino alla fine del combattimento portando a 18 (6d6) il danno da fuoco per chi è entro 1 metro.
 
 | **Ecologia** |
 | --- |
@@ -9131,7 +9131,7 @@ Organizzazione: Solitario, coppia, squadra (5-8), pattuglia (11-20 più 1 tenent
 
 **Descrizione**
 
-Famelici e crudeli, i sahuagin sono, sfortunatamente, tra le razze oceaniche più prosperose. Grandi città sono state costruite da questa razza nelle buie profondità delle fosse oceaniche, e alcune fortezze sorgono nei pressi delle coste da dove lanciano assalti continui contro i nemici che respirano aria che vivono vicino alla riva. Orgogliosi e bellicosi, i sahuagin si alleano raramente con altri, e vedono le altre razze acquatiche, come aboleth, marinidi e simili come concorrenti. Le sole creature che sembrano rispettare oltre ai loro simili sono gli squali; in questi implacabili predatori, infatti, i sahuagin rivedono molto di loro stessi. Un sahuagin è alto 2,1 metro e pesa circa 125 kg.
+Famelici e crudeli, i sahuagin sono, sfortunatamente, tra le razze oceaniche più prosperose. Grandi città sono state costruite da questa razza nelle buie profondità delle fosse oceaniche, e alcune fortezze sorgono nei pressi delle coste da dove lanciano assalti continui contro i nemici che respirano aria che vivono vicino alla riva. Orgogliosi e bellicosi, i sahuagin si alleano raramente con altri, e vedono le altre razze acquatiche, come aboleth, marinidi e simili come concorrenti. Le sole creature che sembrano rispettare oltre ai loro simili sono gli squali; in questi implacabili predatori, infatti, i sahuagin rivedono molto di loro stessi. Un sahuagin è alto 2,1 metri e pesa circa 125 kg.
 
 I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge quasi sempre ai ranghi nobiliari o di comando nella società. La mutazione sahuagin più comune consiste in un paio di braccia extra (che concedono due attacchi addizionali con gli artigli o la possibilità di maneggiare più armi). Alcuni parlano dei rari malenti sahuagin che non sembrano uomini squalo ma elfi acquatici, malgrado condividano la sete di sangue e la natura crudele dei loro simili. I malenti spesso servono come spie o assassini i governanti sahuagin, ma si narra di intere tribù composte di malenti in remote zone del mare.
 
@@ -9163,7 +9163,7 @@ I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge
 
 **Reazione: *Attacco d'opportunità***: la salamandra effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-***Arrabbiato:*** la Salamadra concentra le sue fiamme in un attacco a distanza. Una creatura entro 9 metri deve effettuare un Tiro Salvezza su Riflessi DC 18 per dimezzare il danno. La creatura viene colpita da un globo di fiamme che causa 4d6 di danno da fuoco. Costa 2 Azioni.
+***Arrabbiato:*** la Salamandra concentra le sue fiamme in un attacco a distanza. Una creatura entro 9 metri deve effettuare un Tiro Salvezza su Riflessi DC 18 per dimezzare il danno. La creatura viene colpita da un globo di fiamme che causa 4d6 di danno da fuoco. Costa 2 Azioni.
 
 **Ecologia**
 
@@ -9212,7 +9212,7 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 Ambiente: Foreste Temperate
 
 Organizzazione: Solitario, coppia, banda (3-6) o festino (7-11)
-| **Categoria Tesoro**: Pugnale, Arco Corto più 20 Frecce, flauto di pan perfetto, S |
+| **Categoria Tesoro**: Pugnale, Arco Corto più 20 Frecce, flauto di Pan perfetto, S |
 | **Descrizione** |
 
 I satiri, conosciuti in molte regioni come fauni, sono creature debosciate ed edoniste delle parti più profonde e primordiali delle foreste. Adorano il vino, la musica e i piaceri della carne, sono rinomati come libertini e bellimbusti che corteggiano le fanciulle sprovvedute e i pastorelli e si lasciano dietro una scia di spiegazioni imbarazzanti e gravidanze indesiderate.
@@ -9243,7 +9243,7 @@ I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono ge
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Arco Corto.** Attacco con arma a Distanza*: +4 a colpire, gittata 24m, un bersaglio.*Colpisce:* 5 (1d6 + 2) danni perforanti.
+***Arco Corto.** Attacco con arma a Distanza*: +4 a colpire, gittata 24m, un bersaglio. *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 | **Ecologia** |
 | --- |
@@ -9366,7 +9366,7 @@ livello 6 (1 slot): *Banchetto degli Eroi*
 
 **Terzo Ruggito.** Ogni creatura effettua un Tiro Salvezza su Tempra DC 30. Chi fallisce il Tiro Salvezza subisce 44 (8d10) danni da suono ed è gettato prono. Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni e non viene gettata prona.
 
-**Reazione: *Attacco d'opportunità***: la sfinge nero effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la sfinge nera effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Azioni Aggiuntive**
 
@@ -9412,7 +9412,7 @@ Le androsfingi sono alte 3,6 metri e pesano 500 kg.
 
 ***Imperscrutabile.*** La sfinge è immune a qualsiasi effetto in grado di percepirne le emozioni o leggerne i pensieri, oltre che a qualsiasi incantesimo di divinazione che rifiuti. Le prove di Saggezza (Percepire Inganni) per discernere le intenzioni o la sincerità della sfinge hanno -1d6.
 
-***Incantesimi.*** La sfinge ha CM 9. La sua abilità da incantatore è l'Intelligenza (DC del Tiro Salvezza degli incantesimi 24. Non ha bisogno di componenti materiali per eseguire i suoi incantesimi. La sfinge tiene preparati i seguenti incantesimi: Trucchetti (a volontà): *Illusione Minore, Mano Magica,* *Prestidigitazione*
+***Incantesimi.*** La sfinge ha CM 9. La sua abilità da incantatore è l'Intelligenza (DC del Tiro Salvezza degli incantesimi 24). Non ha bisogno di componenti materiali per eseguire i suoi incantesimi. La sfinge tiene preparati i seguenti incantesimi: Trucchetti (a volontà): *Illusione Minore, Mano Magica,* *Prestidigitazione*
 
 livello 1 (4 slot): *Identificare, Individuazione del Magico, Scudo*
 
@@ -9430,7 +9430,7 @@ livello 5 (2 slot): *Conoscenza delle Leggende*
 
 *Colpisce:* 13 (2d8 + 4) danni taglienti, 1 danno da Sanguinamento.
 
-**Reazione: *Attacco d'opportunità***: la sfinge nero effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la sfinge nera effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Azioni Aggiuntive**
 
@@ -9482,7 +9482,7 @@ Una tipica sfinge è lunga 3 metri e pesa circa 400 kg. Anche se le loro ali pos
 
 *Colpisce:* 11 (2d8+2) danni contundenti e 7 (2d6) da taglio. L'eventuale armatura o scudo viene danneggiata abbassando di 1 la Difesa dell'avversario. Il danno all'armatura non si considera permanente.
 
-**ReazioniReazione: *Atterrare***: quando il Sibilante è attaccato da una creatura nella portata della sua coda questa viene sferzata obbligando l'attaccante, dopo la risoluzione del suo attacco, ad effettuare un Tiro Salvezza su Tempra o Riflessi a DC 14 o subire 7 (2d6) di danni contundenti e cadere prono. Se il Tiro Salvezza riesce subisco solo metà danno e non è prona.
+**ReazioniReazione: *Atterrare***: quando il Sibilante è attaccato da una creatura nella portata della sua coda questa viene sferzata obbligando l'attaccante, dopo la risoluzione del suo attacco, ad effettuare un Tiro Salvezza su Tempra o Riflessi a DC 14 o subire 7 (2d6) di danni contundenti e cadere prono. Se il Tiro Salvezza riesce, subisce solo metà danno e non è prona.
 
 | **Ecologia** |
 | --- |
@@ -9492,7 +9492,7 @@ Organizzazione: Solitario, coppia o nido (2-4)
 | **Categoria Tesoro**: Accidentale |
 | **Descrizione** |
 
-I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi è una creatura molto particolare. Assomiglia a prima vista ad un coccodrillo, lungo circa 5 metri di cui 4 di coda ma ha 8 zampe ed il muso corto e appiattito. La coda estremamente robusta finisce con una specie di uncino che il Sibilante usa per colpire, uccidere ed afferrare i nemici quasi fosse una zampa aggiuntiva.
+I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi sono una creatura molto particolare. Assomiglia a prima vista ad un coccodrillo, lungo circa 5 metri di cui 4 di coda ma ha 8 zampe ed il muso corto e appiattito. La coda estremamente robusta finisce con una specie di uncino che il Sibilante usa per colpire, uccidere ed afferrare i nemici quasi fosse una zampa aggiuntiva.
 
 Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed attaccare quando affamati o per difendere il loro territorio. Cercano di tenere le distanze in combattimento e se gravemente feriti scappano arrampicandosi sulle pareti.
 
@@ -9503,7 +9503,7 @@ Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed atta
 - **Punti Ferita**: \resizedown{33, **Difesa:** 15, **Iniziativa:** +2}
 - **Movimento**: 0 m, volo 16 m, fluttuare
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
-- **Comp.**: Furtività +8,Consapevolezza +3
+- **Comp.**: Furtività +8, Consapevolezza +3
 - **Res. Danni**: Acido, Freddo, Fuoco, Elettricità, Suono, da Vuoto, da arma non magica
 - **Immunità**: affascinato, spaventato, affaticato, afferrato, paralizzato, pietrificato, veleno, prono, ristretto
 - **Sensi**: \resizedown{Scurovisione 18 m}
@@ -9537,7 +9537,7 @@ Uno spettro assomiglia molto a come era in vita e può essere facilmente riconos
 - **Punti Ferita**: \resizedown{19, **Difesa:** 16, **Iniziativa:** +4}
 - **Movimento**: 3 m, volo 12 m
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +4, Volontà +3}
-- **Comp.**: Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando),Consapevolezza +3
+- **Comp.**: Furtività +8 (la prova è fatta con -1d6 se lo spiritello sta volando), Consapevolezza +3
 - **Linguaggi**: Comune, Elfico, Silvano
 - **Sfida**: 1/4 (50 PX)
 
@@ -9593,7 +9593,7 @@ Organizzazione: Solitario, colonia (2-4), stormo (5-8), nugolo (9-14) o sciame (
 
 Gli strige sono pericolosi succhiasangue che infestano le paludi e predano animali selvatici, bestiame ed ignari viaggiatori. Pur essendo deboli individualmente, sciami di queste creature sono capaci di prosciugare un uomo in pochi minuti, lasciando dietro a loro solo un cadavere essiccato.
 
-più simili ai mammiferi che agli insetti, gli strige si alzano in volo con le loro quattro ali di carne, cercando prede a sangue caldo. Spesso si nascondono vicino a pozze di acqua bevibile aspettando che i viaggiatori abbassino la guardia per poi attaccarli e bere a sazietà, conficcando le loro proboscidi nelle vene scoperte. Dopo essersi nutriti, volano via a nascondersi tra la fanghiglia e tra i canneti per deporre le loro uova e riposare finché la fame non li spinge a cacciare di nuovo.
+Più simili ai mammiferi che agli insetti, gli strige si alzano in volo con le loro quattro ali di carne, cercando prede a sangue caldo. Spesso si nascondono vicino a pozze di acqua bevibile aspettando che i viaggiatori abbassino la guardia per poi attaccarli e bere a sazietà, conficcando le loro proboscidi nelle vene scoperte. Dopo essersi nutriti, volano via a nascondersi tra la fanghiglia e tra i canneti per deporre le loro uova e riposare finché la fame non li spinge a cacciare di nuovo.
 
 Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di circa il doppio, e pesano meno di 0,5 kg. Sono color rosso ruggine o marrone rossastro, ed hanno il ventre color giallo sporco, ma quelli che non si sono nutriti adeguatamente sono di colore rosa pallido.
 
@@ -9609,7 +9609,7 @@ Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di c
 - **Sensi**: \resizedown{Vista Cieca 36 m}
 - **Sfida**: 30 (155000 PX)
 
-***Carapace Riflettente.*** Ogni volta che il Tarrasque è il bersaglio di un incantesimo *Dardo arcano o Fulmine* questo viene ignorato e riflesso sull'origine. Per altri incantesimi a linea, o un incantesimi che richiedono un tiro per colpire a gittata, tira un d6. Da 1 a 5, il Tarrasque lo ignora. Con 6, il Tarrasque lo ignora e l'effetto viene riflesso contro l'incantatore come se fosse originato dal Tarrasque, trasformando l'incantatore nel bersaglio.
+***Carapace Riflettente.*** Ogni volta che il Tarrasque è il bersaglio di un incantesimo *Dardo arcano o Fulmine* questo viene ignorato e riflesso sull'origine. Per altri incantesimi a linea, o incantesimi che richiedono un tiro per colpire a gittata, tira un d6. Da 1 a 5, il Tarrasque lo ignora. Con 6, il Tarrasque lo ignora e l'effetto viene riflesso contro l'incantatore come se fosse originato dal Tarrasque, trasformando l'incantatore nel bersaglio.
 
 ***Mostro d'Assedio.*** Il Tarrasque infligge danni doppi agli oggetti e le strutture.
 
@@ -9623,11 +9623,11 @@ Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di c
 
 ***Artiglio.** Attacco con arma da mischia*: +20 a colpire, portata 5 metri, un bersaglio.
 
-*Colpisce:* 28 (4d8 + 10) danni taglienti, 3 danno da Sanguinamento.
+*Colpisce:* 28 (4d8 + 10) danni taglienti, 3 danni da Sanguinamento.
 
 ***Coda.** Attacco con arma da mischia*: +20 a colpire, portata 6 m, un bersaglio.
 
-*Colpisce:* 24 (4d6 + 10) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 40 o cadere prona.
+*Colpisce:* 24 (4d6 + 10) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 40 o cadere prono.
 
 ***Corna.** Attacco con arma da mischia*: +20 a colpire, portata 3 m, un bersaglio.
 
@@ -9637,9 +9637,9 @@ Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di c
 
 *Colpisce:* 36 (4d12 + 10) danni perforanti. Se il bersaglio è una creatura, è afferrata (DC 20 per fuggire). Fino al termine dell'afferrare il Tarrasque non può usare il morso contro un altro bersaglio.
 
-***Inghiottire.*** Il Tarrasque effettua una attacco di morso contro un bersaglio di taglia Grande o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del Tarrasque, e subisce 56 (16d6) danni da acido all'inizio di ciascun round del Tarrasque.
+***Inghiottire.*** Il Tarrasque effettua un attacco di morso contro un bersaglio di taglia Grande o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del Tarrasque, e subisce 56 (16d6) danni da acido all'inizio di ciascun round del Tarrasque.
 
-Se il Tarrasque subisce 60 o più danni in un singolo round da una creatura al suo interno, il Tarrasque deve riuscire un Tiro Salvezza su Tempra DC 30 al termine di quel round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal Tarrasque. Se il Tarrasque muore, una creatura inghiottita non più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
+Se il Tarrasque subisce 60 o più danni in un singolo round da una creatura al suo interno, il Tarrasque deve riuscire un Tiro Salvezza su Tempra DC 30 al termine di quel round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal Tarrasque. Se il Tarrasque muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
 
 ***Presenza Spaventosa.*** Ogni creatura scelta dal Tarrasque, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 40 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se il Tarrasque è in linea di visuale, terminando l'effetto per sé, se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del Tarrasque per le successive 24 ore.
 
@@ -9722,7 +9722,7 @@ Usati come custodi e torce rappresentano spesso una prima linea di difesa nei du
 *Colpisce:* 16 (2d8 + 7) danni taglienti.
 
 ***Coda.** Attacco con arma da mischia*: +13 a colpire, portata 5 metri, un bersaglio.
-*Colpisce:* 26 (3d12 + 7) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 31 o venire spinta di 3 metri lontano dalla testuggine dragona e cadere prona.
+*Colpisce:* 26 (3d12 + 7) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 31 o venire spinto di 3 metri lontano dalla testuggine dragona e cadere prono.
 
 ***Morso.** Attacco con arma da mischia*: +13 a colpire, portata 5 metri, un bersaglio.
 
@@ -9743,11 +9743,11 @@ Organizzazione: Solitario
 | --- |
 | **Descrizione** |
 
-Le testuggini dragone sono creature delle acque dolci e salate, molto temute dai marinai. Sono noti per aspettarsi offerte in oro e magia dai marinai per un passaggio sicuro. Ignorare una testuggine dragona può renderla molto pericolosa.
+Le testuggini dragone sono creature delle acque dolci e salate, molto temute dai marinai. Sono note per aspettarsi offerte in oro e magia dai marinai per un passaggio sicuro. Ignorare una testuggine dragona può renderla molto pericolosa.
 
 Il loro guscio varia di colore, da marrone e rosso ruggine a verde-blu con riflessi argentei. Le testuggini dragone capovolgono le navi che violano il loro territorio, accumulando ricchezze nei loro nascondigli subacquei. Vivono in caverne profonde e difendono aggressivamente il loro territorio, spesso in conflitto con altre razze sottomarine.
 
-Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle navi affondate. I loro gusci possono raggiungere i 5 metri di diametro, con una lunghezza totale di 7 metri
+Si nutrono di grandi pesci e alghe marine, e non disdegnano i passeggeri delle navi affondate. I loro gusci possono raggiungere i 5 metri di diametro, con una lunghezza totale di 7 metri.
 
 ### Topi, La
 
@@ -9787,7 +9787,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: Speciale |
 | **Descrizione** |
 
-Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima adora andare al mercato e comprare borsette.
+Potrebbe essere scambiata per una piccola topina bianca, ma La Topi è molto di più. Furba, intelligente, bellissima, adora andare al mercato e comprare borsette.
 
 ### Torciascura
 
@@ -9838,7 +9838,7 @@ Un Torciascura quando viene distrutto lascia a terra la sua torcia. Questa torci
 
 ***Olfatto Affinato.*** Il troll ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
-***Rigenerazione.*** Il troll recupera 10 Punti Ferita all'inizio del suo round. Se il troll subisce danno da acido o da fuoco, questo tratto non funziona all'inizio del prossimo round del troll. Il troll muore solo se inizia il suo round ha meno di -5 Punti Ferita e non può rigenerarsi.
+***Rigenerazione.*** Il troll recupera 10 Punti Ferita all'inizio del suo round. Se il troll subisce danno da acido o da fuoco, questo tratto non funziona all'inizio del prossimo round del troll. Il troll muore solo se inizia il suo round e ha meno di -5 Punti Ferita e non può rigenerarsi.
 
 **Azioni*Multiattacco.*** Il troll può effettuare tre attacchi: uno con il morso e due con gli artigli.
 
@@ -9887,7 +9887,7 @@ Nonostante la loro ferocia, i troll sono straordinariamente teneri e gentili ver
 | --- |
 Ambiente: Oceani temperati
 
-Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenete di 3° livello, compagnia (11-60 più 3 tenenti di 3° livello, 2 comandanti di 5° livello, 1 commodoro di 7° livello e 3-12 Calamari
+Organizzazione: Solitario, pattuglia (2-6), banda (6-10 più un tenente di 3° livello, compagnia (11-60 più 3 tenenti di 3° livello, 2 comandanti di 5° livello, 1 commodoro di 7° livello e 3-12 Calamari
 | **Categoria Tesoro**: Equipaggiamento da PNG (Tridente, Balestra Leggera con 10 Quadrelli, N) |
 | **Descrizione** |
 
@@ -9920,7 +9920,7 @@ Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive
 
 **Reazione: *Attacco d'opportunità***: l'uomo albero effettua un attacco di schianto ad una creatura che attraversi o esca dalla sua portata di 2 metri.
 
-***Animare Alberi (1/Giorno).*** L'uomo albero anima magicamente uno o due alberi visibili entro 18 metri da lui. Questi alberi hanno le stesse statistiche dell'Arborom, eccetto che hanno punteggio di Intelligenza e Carisma -3, non possono parlare, e hanno solo l'opzione di attacco Schianto. Un albero animato agisce come alleato dell'uomo albero. L'albero resta per 1 giorno o finché muore; finché l'uomo albero muore o si trova più di 36 metri lontano dall'albero, o finché l'uomo albero non effettua una Reazione per ritrasformarlo in un albero inanimato. Poi l'albero prenderà radici, se possibile.
+***Animare Alberi (1/Giorno).*** L'uomo albero anima magicamente uno o due alberi visibili entro 18 metri da lui. Questi alberi hanno le stesse statistiche dell'Arborom, eccetto che hanno punteggio di Intelligenza e Carisma -3, non possono parlare, e hanno solo l'opzione di attacco Schianto. Un albero animato agisce come alleato dell'uomo albero. L'albero resta per 1 giorno o finché muore; finché l'uomo albero non muore o si trova più di 36 metri lontano dall'albero, o finché l'uomo albero non effettua una Reazione per ritrasformarlo in un albero inanimato. Poi l'albero prenderà radici, se possibile.
 
 | **Ecologia** |
 | --- |
@@ -9930,13 +9930,13 @@ Organizzazione: Solitario o macchia (2-7)
 | **Categoria Tesoro**: J |
 | **Descrizione** |
 
-I Arborom sono guardiani delle foreste ed ambasciatori degli alberi. Antichi quanto le foreste stesse, si vedono come genitori e pastori piuttosto che giardinieri: sono lenti e metodici, ma terrificanti quando costretti a combattere per difendere il loro gregge. Anche se raramente cercano la compagnia delle razze dalla vita breve ed hanno un'innata sfiducia verso i cambiamenti, mostrano tolleranza verso chi desidera imparare dai loro lunghi, lenti monologhi, specialmente coloro nei cui occhi leggono il desiderio di proteggere le regioni selvagge. Contro coloro che minacciano le loro foreste, specialmente i boscaioli che raccolgono legna o coloro che vorrebbero disboscare una foresta per costruire una strada o un forte, la rabbia dei Arborom si scatena rapida e devastante. Sono in grado di demolire ciò che gli altri costruiscono: un tratto che li aiuta durante i loro eccessi di furia.
+Gli Arborom sono guardiani delle foreste ed ambasciatori degli alberi. Antichi quanto le foreste stesse, si vedono come genitori e pastori piuttosto che giardinieri: sono lenti e metodici, ma terrificanti quando costretti a combattere per difendere il loro gregge. Anche se raramente cercano la compagnia delle razze dalla vita breve ed hanno un'innata sfiducia verso i cambiamenti, mostrano tolleranza verso chi desidera imparare dai loro lunghi, lenti monologhi, specialmente coloro nei cui occhi leggono il desiderio di proteggere le regioni selvagge. Contro coloro che minacciano le loro foreste, specialmente i boscaioli che raccolgono legna o coloro che vorrebbero disboscare una foresta per costruire una strada o un forte, la rabbia degli Arborom si scatena rapida e devastante. Sono in grado di demolire ciò che gli altri costruiscono: un tratto che li aiuta durante i loro eccessi di furia.
 
-I Arborom sono principalmente creature solitarie, ed un singolo individuo è spesso responsabile di un'intera foresta, ma a volte si raccolgono in gruppi detti boschetti per scambiarsi le ultime notizie e riprodursi.
+Gli Arborom sono principalmente creature solitarie, ed un singolo individuo è spesso responsabile di un'intera foresta, ma a volte si raccolgono in gruppi detti boschetti per scambiarsi le ultime notizie e riprodursi.
 
 In tempi di grave pericolo, tutti i boschetti di una regione si uniscono per una riunione della durata di mesi detta concilio, ma simili eventi sono molto rari, e fra i concili passano anche millenni.
 
-Un tipico Arborom è alto 9 metri, con un tronco del diametro di 60 centimetri, e pesa circa 2.250 kg. I Arborom somigliano agli alberi più comuni dei territori dove vivono.
+Un tipico Arborom è alto 9 metri, con un tronco del diametro di 60 centimetri, e pesa circa 2.250 kg. Gli Arborom somigliano agli alberi più comuni dei territori dove vivono.
 
 Gli Arborom si dice che siano creati per volere di Efrem.
 
@@ -9997,13 +9997,13 @@ Alla maturità, gli Ignim sono alti 1,2 metri e pesano 150 kg grazie alla loro d
 
 ***Armi Magiche.*** Gli attacchi con armi dell'unicorno sono magici.
 
-***Carica.*** Se l'unicorno si muove di almeno 6 metri in linea retta verso il bersaglio e lo colpisce con un attacco di corno durante lo stesso round, il bersaglio subisce 9 (2d8) danni perforanti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un T10iro Salvezza su Tempra DC 15 o cadere prono.
+***Carica.*** Se l'unicorno si muove di almeno 6 metri in linea retta verso il bersaglio e lo colpisce con un attacco di corno durante lo stesso round, il bersaglio subisce 9 (2d8) danni perforanti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 15 o cadere prono.
 
 ***Incantesimi Innati.*** La caratteristica da incantatore innato dell'unicorno è il Carisma (DC 14 per i Tiri Salvezza degli incantesimi). L'unicorno può lanciare in maniera innata i seguenti incantesimi, senza bisogno di componenti:
 
 A volontà: *Artificio Druidico*, *Passare Senza Tracce*
 
-1/giorno ciascuno: *Calmare Emozioni* *Intralciare*
+1/giorno ciascuno: *Calmare Emozioni*, *Intralciare*
 
 ***Resistenza alla Magia.*** L'unicorno ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
@@ -10039,8 +10039,6 @@ Organizzazione: Solitario, coppia o benedizione (3-6)
 | **Categoria Tesoro**: Nessuno |
 | **Descrizione** |
 
-Certo! Ecco un breve riassunto del testo sugli unicorni:
-
 Gli unicorni sono creature intelligenti e solitarie che abitano le foreste, apparendo solo per difendere le loro dimore dal male. Evitano tutte le creature tranne i folletti buoni, le donne umanoidi buone e gli animali nativi. Le coppie di unicorni rimangono insieme per tutta la vita e proteggono le loro foreste, permettendo solo alle creature buone e neutrali di attraversarle.
 
 Il corno dell'unicorno è la fonte dei suoi poteri magici, e le creature malvagie danno grande valore a questi corni per i loro riti oscuri e pozioni di guarigione. In rare occasioni, gli unicorni il cui partner è stato ucciso scelgono giovani donne virtuose come sostituti, permettendo loro di cavalcarli e diventare loro guardiani per tutta la vita.
@@ -10070,7 +10068,7 @@ sole.
 
 *Danneggiato dall'Acqua Corrente.* Il vampiro subisce 20 danni da acido se termina il suo round all'interno dell'acqua corrente.
 
-*Ipersensibilità alla Luce.* Il vampiro subisce 20 danni da Luce quando inizia il suo round alla luce del sole. Mentre è alla luce del sole, ha -1d6 ai tiri di attacco e le prove di competenza di Base.
+*Ipersensibilità alla Luce.* Il vampiro subisce 20 danni da Luce quando inizia il suo round alla luce del sole. Mentre è alla luce del sole, ha -1d6 ai tiri di attacco e alle prove di competenza di Base.
 
 *Paletto nel Cuore.* Se un'arma perforante fatta di legno viene conficcata nel cuore del vampiro mentre il vampiro è inabile nel suo luogo di riposo, il vampiro resta paralizzato finché il paletto non viene rimosso.
 
@@ -10084,7 +10082,7 @@ Mentre si trova a 0 Punti Ferita in questa forma, non può tornare alla sua form
 
 ***Resistenza Leggendaria (3/Giorno).*** Se il vampiro fallisce un Tiro Salvezza, può scegliere invece di riuscire.
 
-***Rigenerazione.*** Il vampiro recupera 20 Punti Ferita all'inizio del suo round se possiede almeno 1 punto ferita e non è esposto alla luce del sole o l'acqua corrente. Se il vampiro subisce danno da Luce o danno dall'Acqua santa, questo tratto non funziona all'inizio del prossimo round del vampiro.
+***Rigenerazione.*** Il vampiro recupera 20 Punti Ferita all'inizio del suo round se possiede almeno 1 punto ferita e non è esposto alla luce del sole o all'acqua corrente. Se il vampiro subisce danno da Luce o danno dall'Acqua santa, questo tratto non funziona all'inizio del prossimo round del vampiro.
 
 ***Scalare come Ragno.*** Il vampiro può scalare superfici difficili, compreso lo stare a testa in giù sul soffitto, senza bisogno di effettuare una prova di competenza.
 
@@ -10144,15 +10142,15 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 
 *Danneggiato dall'Acqua Corrente.* La Progenie Vampirica subisce 20 danni da acido se termina il suo round all'interno dell'acqua corrente.
 
-*Ipersensibilità alla Luce.* La Progenie Vampirica subisce 20 danni da Luce quando inizia il suo round alla luce del sole. Mentre è alla luce del sole, ha -1d6 ai tiri di attacco e le prove di competenza di Base.
+*Ipersensibilità alla Luce.* La Progenie Vampirica subisce 20 danni da Luce quando inizia il suo round alla luce del sole. Mentre è alla luce del sole, ha -1d6 ai tiri di attacco e alle prove di competenza di Base.
 
-*Paletto nel Cuore.* La Progenie Vampirica è distrutto se un'arma perforante di legno gli viene conficcata nel cuore mentre è inabile all'interno del suo luogo di riposo.
+*Paletto nel Cuore.* La Progenie Vampirica è distrutta se un'arma perforante di legno gli viene conficcata nel cuore mentre è inabile all'interno del suo luogo di riposo.
 
 *Proibizione.* La Progenie Vampirica non può entrare in un'abitazione senza invito da parte dei suoi occupanti.
 
 ***Natura Non Morta.*** La Progenie Vampirica non ha bisogno di aria.
 
-***Rigenerazione.*** La Progenie Vampirica recupera 10 Punti Ferita all'inizio del suo round se possiede almeno 1 punto ferita e non è esposto alla luce del sole o l'acqua corrente. Se la Progenie Vampirica subisce danno da Luce o danno dall'Acqua santa, questo tratto non funziona all'inizio del prossimo round del vampiro.
+***Rigenerazione.*** La Progenie Vampirica recupera 10 Punti Ferita all'inizio del suo round se possiede almeno 1 punto ferita e non è esposta alla luce del sole o all'acqua corrente. Se la Progenie Vampirica subisce danno da Luce o danno dall'Acqua santa, questo tratto non funziona all'inizio del prossimo round del vampiro.
 
 ***Scalare come Ragno.*** La Progenie Vampirica può scalare superfici difficili, compreso lo stare a testa in giù sul soffitto, senza bisogno di effettuare una prova di competenza.
 
@@ -10176,7 +10174,7 @@ Organizzazione: Solitario, coppia, gruppo (3-6) o turba (7-12)
 | **Categoria Tesoro**: M |
 | **Descrizione** |
 
-Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità creare progenie su una creatura umanoide. Questa decisione deve essere presa appena un vampiro uccide una creatura appropriata usando il morso.
+Un Vampiro può decidere di creare da una vittima una progenie vampirica anziché farne un vampiro completo solo quando usa la sua capacità di creare progenie su una creatura umanoide. Questa decisione deve essere presa appena un vampiro uccide una creatura appropriata usando il morso.
 
 ### Vermi delle carne
 
@@ -10214,7 +10212,7 @@ I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trov
 - **Sensi**: Vista Cieca 9 m, senso tellurico 18 m
 - **Sfida**: 15 (13000 PX)
 
-***Scavatore di Tunnel.*** Il verme può scavare attraverso la roccia solida a metà della velocità di scavare e lascia un tunnel di 3 metri di diametro dietro di se.
+***Scavatore di Tunnel.*** Il verme può scavare attraverso la roccia solida a metà della velocità di scavare e lascia un tunnel di 3 metri di diametro dietro di sé.
 
 **Azioni*Multiattacco.*** Il verme effettua due attacchi: uno con il morso e uno con il pungiglione.
 
@@ -10282,7 +10280,7 @@ Il Verme Strisciante Tentacolato pur se dotato di corte zampe non cammina ma str
 
 Sono creature fameliche che non perdono occasione per cacciare e divorare o conservare i cadaveri dove seminare le loro uova. Amano la carne di Nibali e si nutrono di qualsiasi creatura vivente (spesso ratti dato il tipico ambiente delle fogne).
 
-Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni ipotizzano che un incantatore abbia provato, come al solito, fallendo criticamente, a trasformarsi in un Verme Purpureo, altri credono fermamente che i giardini di Shayalia avessero bisogni di maggiore concimazione e così la Patrona trasformò dei normali lombrichi in queste terrificanti creature perché divorassero e digerissero i cadaveri seppelliti.
+Le origini dei Vermi Striscianti Tentacolato sono piuttosto speculative, alcuni ipotizzano che un incantatore abbia provato, come al solito, fallendo criticamente, a trasformarsi in un Verme Purpureo, altri credono fermamente che i giardini di Shayalia avessero bisogno di maggiore concimazione e così la Patrona trasformò dei normali lombrichi in queste terrificanti creature perché divorassero e digerissero i cadaveri seppelliti.
 
 ### Vespa Gigante
 
@@ -10334,7 +10332,7 @@ Le vespe giganti sono insetti predatori aggressivi che costruiscono nidi di cart
 
 *Colpisce:* 11 (2d6 + 4) danni perforanti. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 18, e subire 24 (7d6) danni da veleno se lo fallisce, o la metà di questi danni se lo riesce.
 
-**Reazione: *Attacco d'opportunità***: la viverna nero effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: la viverna nera effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** la Viverna punta la coda in direzione del nemico e genera un cono di 3 metri di veleno. È possibile eseguire un Tiro Salvezza su Riflessi DC 21 per dimezzare i 7d8 di danno da veleno.
 
@@ -10352,7 +10350,7 @@ Nella maggior parte dei casi, questa generalizzazione è azzeccata. Anche se non
 
 Le viverne sono creature territoriali. Pur cacciando occasionalmente prede più grandi in gruppi più estesi, sono creature solitarie il cui territorio di caccia si estende dai 160 ai 320 km quadrati. È noto che le viverne combattono spesso fra loro fino alla morte per le contese su un territorio ricco di prede.
 
-Seppur costantemente affamate ed inclini ad attaccare, una viverna può essere resa amichevole attraverso un'attenta combinazione di lusinghe, intimidazione, cibo e tesoro, per farne un potente alleato. Spesso servono Giganti e Umanoidi Mostruosi come guardiani come guardiani, ed alcune tribù di Boggard e Lucertoloidi le usano come cavalcature, anche se tali accordi spesso risultano parecchio costosi in termini di cibo ed oro, poiché sono poche le viverne che accettano di servire a lungo creature simili come cavalcature.
+Seppur costantemente affamate ed inclini ad attaccare, una viverna può essere resa amichevole attraverso un'attenta combinazione di lusinghe, intimidazione, cibo e tesoro, per farne un potente alleato. Spesso servono Giganti e Umanoidi Mostruosi come guardiani, ed alcune tribù di Boggard e Lucertoloidi le usano come cavalcature, anche se tali accordi spesso risultano parecchio costosi in termini di cibo ed oro, poiché sono poche le viverne che accettano di servire a lungo creature simili come cavalcature.
 
 Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà della lunghezza. Una viverna pesa in media 1000 kg.
 
@@ -10431,7 +10429,7 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 
 **Reazione: *Attacco d'opportunità***: il Wraith effettua un attacco di Risucchiare Vita ad una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-***Arrabbiato:*** il Wraith canalizza le sue energie negative in una esplosione di Vuoto attorno a se nel raggio di 6 metri. Tutte le creature devono effettuare un Tiro Salvezza su Tempra DC 16 o subito 3d6 di danno da Vuoto, se il Tiro Salvezza riesce sono Rallentate 1/3r.
+***Arrabbiato:*** il Wraith canalizza le sue energie negative in una esplosione di Vuoto attorno a sé nel raggio di 6 metri. Tutte le creature devono effettuare un Tiro Salvezza su Tempra DC 16 o subiscono 3d6 di danno da Vuoto, se il Tiro Salvezza riesce sono Rallentate 1/3r.
 
 | **Ecologia** |
 | --- |
@@ -10458,7 +10456,7 @@ I wraith sono creature nate dal male e dall'oscurità. Detestano la luce e le cr
 
 ***Mimetismo di Pietra.*** Lo xorn ha +1d6 alle prove di Furtività (Nascondersi) effettuate per nascondersi su terreno roccioso.
 
-***Scorrere sulla Terra.*** Lo xorn può scavare attraversa la terra e la pietra non magiche e non lavorate. Quando lo fa, lo xorn non disturba il materiale che sposta.
+***Scorrere sulla Terra.*** Lo xorn può scavare attraverso la terra e la pietra non magiche e non lavorate. Quando lo fa, lo xorn non disturba il materiale che sposta.
 
 ***Senso del Tesoro.*** Lo xorn può individuare precisamente, con l'olfatto, la posizione di metalli e pietre preziose, come monete e gemme, entro 18 metri da esso.
 
@@ -10486,7 +10484,7 @@ Strane creature larghe quanto alte, gli xorn hanno poco interesse verso i nativi
 
 Il tesoro che uno xorn porta con sé o nasconde nella sua tana consiste in uno spuntino che ha conservato per il giorno successivo. Offrire un gioiello o un metallo preziosi particolarmente deliziosi (e costosi) ad uno xorn può cementare un'alleanza temporanea. Dato che gli xorn possono attraversare la roccia con facilità sono ottime guide nelle regioni sotterranee.
 
-Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono solitamente devoti a Efrem (anche se è raro, se non improbabile, che gli xorn abbiano Compagni Animali, dato che non possono seguirli nella roccia, e scelgono invece il dominio della Terra). Bardi e Devoti xorn non sono sconosciuti: i Bardi scelgono di solito Intrattenere (canto), e gli Devoti hanno invariabilmente la Stirpe Elementale (terra).
+Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono solitamente devoti a Efrem (anche se è raro, se non improbabile, che gli xorn abbiano Compagni Animali, dato che non possono seguirli nella roccia, e scelgono invece il dominio della Terra). Bardi e Devoti xorn non sono sconosciuti: i Bardi scelgono di solito Intrattenere (canto), e i Devoti hanno invariabilmente la Stirpe Elementale (terra).
 
 ### Zombi
 
@@ -10714,7 +10712,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ***Ecolocazione.*** La balena non può usare la vista cieca se assordata.
 
-***Trattenere il Fiato.*** La balena può trattenere il fiato per 30 minuti
+***Trattenere il Fiato.*** La balena può trattenere il fiato per 30 minuti.
 
 ***Udito Affinato.*** La balena ha +1d6 alle prove di Consapevolezza basate sull'udito.
 
@@ -10779,7 +10777,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 9 m
 - **Sfida**: 0 (10 PX)
 
-***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 2 (1d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 10 o cadere prona.
+***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 2 (1d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 10 o cadere prono.
 
 ***Piedi Saldi.*** Il caprone ha +1d6 ai Tiri Salvezza su Tempra e Riflessi effettuati contro effetti che lo farebbero cadere prono.
 
@@ -10796,7 +10794,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 12 m
 - **Sfida**: 1/2 (100 PX)
 
-***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 5 (2d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prona.
+***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 5 (2d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
 
 ***Piedi Saldi.*** Il caprone ha +1d6 ai Tiri Salvezza su Tempra e Riflessi effettuati contro effetti che lo farebbero cadere prono.
 
@@ -10813,7 +10811,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 0 m, nuoto 12 m
 - **Sfida**: 1/2 (100 PX)
 
-***Carica.*** Se il cavallo marino si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 11 o cadere prona.
+***Carica.*** Se il cavallo marino si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 11 o cadere prono.
 
 ***Respirare Acqua.*** Il cavallo marino può respirare solo sott'acqua.
 
@@ -10845,7 +10843,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ***Carica.*** Se il cinghiale si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di zanna durante lo stesso round, il bersaglio subisce 3 (1d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prono.
 
-***Implacabile (Ricarica dopo un 1 ora).*** Se il cinghiale subisce 7 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
+***Implacabile (Ricarica dopo 1 ora).*** Se il cinghiale subisce 7 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
 
 **Azioni*Zanna.** Attacco con Arma da Mischia*: +3 a colpire, portata 1 m, un bersaglio.
 
@@ -10862,7 +10860,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ***Carica.*** Se il cinghiale si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di zanna durante lo stesso round, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
 
-***Implacabile (Ricarica dopo un 1 ora).*** Se il cinghiale subisce 10 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
+***Implacabile (Ricarica dopo 1 ora).*** Se il cinghiale subisce 10 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
 
 **Azioni*Zanna.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
@@ -10911,7 +10909,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 14, **Iniziativa:** +2}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 3 m, volo 15 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Imitazione.*** Il corvo può imitare dei semplici suoni che ha udito, come il sussurro di una persona, il pianto di un bambino o il verso di un animale. Una creatura che ode il suono può identificarlo come imitazione riuscendo una prova Sopravvivenza DC 10.
 
@@ -10960,7 +10958,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 15, **Iniziativa:** +3}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 3 m, volo 18 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Vista Affinata.*** Il falco ha +1d6 alle prove di Consapevolezza basate sulla vista.
 
@@ -10992,7 +10990,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 15, **Iniziativa:** +3}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 0 m, nuoto 12 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Frenesia Sanguinaria.*** Il pirana ha +1d6 ai tiri di attacco in mischia contro qualsiasi creatura che non sia al massimo dei Punti Ferita.
 
@@ -11009,7 +11007,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 14, **Iniziativa:** +2}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 12 m, scalata 9 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Olfatto Affinato.*** Il gatto ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -11039,7 +11037,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 13, **Iniziativa:** +1}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 1 m, volo 18 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Sorvolare.*** Il gufo non provoca attacchi di opportunità quando vola via dalla portata di un nemico.
 
@@ -11073,7 +11071,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 13, **Iniziativa:** +1}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 15 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Tattiche di Branco.*** La iena ha +1d6 ai tiri di attacco contro una creatura se almeno uno degli alleati della iena si trova entro 1 metro dalla creatura e quell'alleato non è inabile.
 
@@ -11140,7 +11138,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 ***Scalare come Ragno.*** La lucertola può scalare superfici difficili, compreso lo stare a testa in giù sul soffitto, senza bisogno di effettuare una prova di competenza.
 
-***Trattenere il Fiato.*** La lucertola può trattenere il fiato per 15 minuti. (Una lucertola con questo tratto possiede anche velocità di nuoto 9 metri).
+***Trattenere il Fiato.*** La lucertola può trattenere il fiato per 15 minuti. (Una lucertola con questo tratto possiede anche una velocità di nuoto di 9 metri).
 
 ### Lupo
 
@@ -11157,7 +11155,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 7 (2d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prona.
+*Colpisce:* 7 (2d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prono.
 
 ### Dinolupo (Metalupo)
 
@@ -11174,7 +11172,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prona.
+*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
 
 ### Lupo Invernale
 
@@ -11193,7 +11191,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o cadere prona.
+*Colpisce:* 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o cadere prono.
 
 ***Soffio Gelido (Ricarica 5-6).*** Il lupo esala un'esplosione di vento gelido in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 15, e subire 18 (4d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
@@ -11343,7 +11341,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 14, **Iniziativa:** +2}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 6 m, scalata 6 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Camminare sulla Tela.*** Il ragno ignora le restrizioni al movimento provocate dalle ragnatele.
 
@@ -11391,9 +11389,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 7 (1d8 + 3) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 9
-
-(2d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
+*Colpisce:* 7 (1d8 + 3) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 9 (2d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
 ***Ragnatela (Ricarica 5-6).** Attacco con Arma a Gittata*: +5 a colpire, gittata 9m, una creatura.
 
@@ -11425,7 +11421,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 - **Punti Ferita**: \resizedown{15, **Difesa:** 13, **Iniziativa:** +1}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 6 m, nuoto 6 m
-- **Sfida**: 0(0 PX)
+- **Sfida**: 0 (0 PX)
 
 ***Anfibio.*** La rana può respirare aria e acqua.
 
@@ -11450,7 +11446,7 @@ Una **rana** è sprovvista di attacchi. Si nutre di piccoli insetti e di solito 
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti e il bersaglio è afferrato (DC 11 per fuggire). Fino al termine dell'afferrare la rana non può usare il morso contro un altro bersaglio.
 
-***Inghiottire.*** La rana effettua una attacco di morso contro un bersaglio di taglia Piccola o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno della rana, e subisce 5 (2d4) danni da acido all'inizio di ciascun round della rana. La rana può inghiottire solo un bersaglio alla volta. Se la rana muore, una creatura inghiottita non è più intralciata da essa e può uscire dal cadavere utilizzando 1 metro di movimento, uscendo prona.
+***Inghiottire.*** La rana effettua un attacco di morso contro un bersaglio di taglia Piccola o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno della rana, e subisce 5 (2d4) danni da acido all'inizio di ciascun round della rana. La rana può inghiottire solo un bersaglio alla volta. Se la rana muore, una creatura inghiottita non è più intralciata da essa e può uscire dal cadavere utilizzando 1 metro di movimento, uscendo prona.
 
 ### Ratto
 
@@ -11459,7 +11455,7 @@ Una **rana** è sprovvista di attacchi. Si nutre di piccoli insetti e di solito 
 - **Punti Ferita**: \resizedown{15, **Difesa:** 12, **Iniziativa:** +0}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 6 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Olfatto Affinato.*** Il ratto ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -11524,11 +11520,9 @@ Alcuni ratti giganti recano una terribile malattia che diffondono tramite il mor
 
 *Colpisce:* 7 (1d10 + 2) danni perforanti più 5 (1d10) danni da veleno, e il bersaglio è afferrato (DC 13 per fuggire). Fino al termine dell'afferrare il rospo non può usare il morso contro un altro bersaglio.
 
-***Inghiottire.*** Il rospo effettua una attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno della rana, e subisce 10 (3d6) danni da acido all'inizio di ciascun round del rospo. Il rospo può inghiottire solo un bersaglio alla volta.
+***Inghiottire.*** Il rospo effettua un attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del rospo, e subisce 10 (3d6) danni da acido all'inizio di ciascun round del rospo. Il rospo può inghiottire solo un bersaglio alla volta.
 
-Se il rospo muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 1 metro di movimento, uscendo prono.
-
-*Colpisce:* 8 (2d4 + 3) danni contundenti.
+Se il rospo muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 1 metro di movimento, uscendo prona.
 
 ### Saurovallo da Galoppo
 
@@ -11571,7 +11565,7 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 >> **Il Saurovallo**: La leggenda narra che Calicante appena scese sulla Terra vide i *cavalli* e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli *equini* fecero la stessa fine.
 
-Asini, muli, cavalli, zebre.. solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
+Asini, muli, cavalli, zebre... solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
 
 Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Orlaith chiese di inculcargli obbedienza ed il coraggio.
 
@@ -11579,7 +11573,7 @@ Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dino
 
 Creò anche poi una versione ridotta, nana nelle misure, che potesse adattarsi a portare le creature di taglia piccola.
 
-Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
+Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 ### Saurovallo nano
 
@@ -11601,7 +11595,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Punti Ferita**: \resizedown{15, **Difesa:** 12, **Iniziativa:** +0}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 9 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Illuminazione.*** Lo scarabeo irradia luce intensa in un raggio di 3 metri e luce fioca per 6 metri.
 
@@ -11640,7 +11634,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, un bersaglio nello spazio dello sciame.
 
-*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita. Una creatura ridotta a 0 Punti Ferita da uno sciame di centopiedi ma stabile resta avvelenata per 1 ora, anche dopo aver recuperato i Punti Ferita, e rimane paralizzata dal veleno durante questo periodo.
+*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita. Una creatura ridotta a 0 Punti Ferita da uno sciame di centopiedi ma stabile resta avvelenata per 1 ora, anche dopo aver recuperato i Punti Ferita, e rimane paralizzata dal veleno durante questo periodo.
 
 ### Sciame di Corvi
 
@@ -11656,7 +11650,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Becchi.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio nello spazio dello sciame.
 
-*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Sciame di Pirana
 
@@ -11676,7 +11670,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +5 a colpire, portata 0 m, una creatura nello spazio dello sciame.
 
-*Colpisce:* 14 (4d6) danni perforanti, o 7 (2d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 14 (4d6) danni perforanti, o 7 (2d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Sciame di Insetti
 
@@ -11692,7 +11686,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +3 a colpire, portata 0 m, un bersaglio nello spazio dello sciame.
 
-*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Sciame di Pipistrelli
 
@@ -11712,7 +11706,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, una creatura nello spazio dello sciame.
 
-*Colpisce:* 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 5 (2d4) danni perforanti, o 2 (1d4) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Sciame di Ragni
 
@@ -11734,7 +11728,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +3 a colpire, portata 0 m, un bersaglio nello spazio dello sciame.
 
-*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Sciame di Ratti
 
@@ -11752,13 +11746,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, un bersaglio nello spazio dello sciame.
 
-*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
-
-***Sciame.*** Lo sciame può occupare lo spazio di un'altra creatura e viceversa, lo sciame può muoversi attraverso qualsiasi apertura grande abbastanza per un Minuscolo insetto. Lo sciame non può recuperare Punti Ferita né ottenere Punti Ferita temporanei.
-
-**Azioni*Morsi.** Attacco con Arma da Mischia*: +3 a colpire, portata 0 m, un bersaglio nello spazio dello sciame.
-
-*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Sciame di Serpenti Velenosi
 
@@ -11774,7 +11762,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, una creatura nello spazio dello sciame.
 
-*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 10, e subire 14 (4d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 10, e subire 14 (4d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Sciame di Vespe
 
@@ -11782,14 +11770,14 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Caratt.**: \resizedown{For -1 Des 1 Cos 0 Int -5 Sag -2 Car -5}
 - **Punti Ferita**: \resizedown{24, **Difesa:** 13, **Iniziativa:** +1}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
-- **Movimento**: 1m, volo 9 m
+- **Movimento**: 1 m, volo 9 m
 - **Sfida**: 1/2 (100 PX)
 
 ***Sciame.*** Lo sciame può occupare lo spazio di un'altra creatura e viceversa, e lo sciame può muoversi attraverso qualsiasi apertura grande abbastanza per un Minuscolo insetto. Lo sciame non può recuperare Punti Ferita né ottenere Punti Ferita temporanei.
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, un bersaglio nello spazio dello sciame.
 
-*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame è ha metà o meno dei suoi Punti Ferita.
+*Colpisce:* 10 (4d4) danni perforanti, o 5 (2d4) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
 
 ### Scimmia
 
@@ -11801,7 +11789,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Movimento**: 9 m, scalata 9 m
 - **Sfida**: 1/4 (50 PX)
 
-**Azioni*Graffio.** Attacco con arma da Mischia*: +3 a colpire, portata 1 m, un bersaglio.
+**Azioni*Graffio.** Attacco con Arma da Mischia*: +3 a colpire, portata 1 m, un bersaglio.
 
 *Colpisce:* 1 (1d4 - 1) danni da taglio.
 
@@ -11854,7 +11842,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Punti Ferita**: \resizedown{15, **Difesa:** 12, **Iniziativa:** +0}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 3 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 **Azioni*Pungiglione.** Attacco con Arma da Mischia*: +2 a colpire, portata 1 m, una creatura.
 
@@ -11997,9 +11985,7 @@ Purtroppo zanzare, cimici e mosche sono rimasti con massimo dispiacere di tutti!
 - **Movimento**: 0 m, nuoto 15 m
 - **Sfida**: 5 (1800 PX)
 
-***Frenesia Sanguinaria.*** Lo squalo ha +1d6 ai tiri di attacco
-
-in mischia contro qualsiasi creatura che non sia al massimo dei Punti Ferita.
+***Frenesia Sanguinaria.*** Lo squalo ha +1d6 ai tiri di attacco in mischia contro qualsiasi creatura che non sia al massimo dei Punti Ferita.
 
 ***Respirare Acqua.*** Lo squalo può respirare solo sott'acqua.
 
@@ -12029,7 +12015,7 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Punti Ferita**: \resizedown{15, **Difesa:** 12, **Iniziativa:** +0}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 6 m, scavo 1 m
-- **Sfida**: 0(10 PX)
+- **Sfida**: 0 (10 PX)
 
 ***Olfatto Affinato.*** Il tasso ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -12105,7 +12091,7 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prona.
+*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
 
 ## Appendice B: Personaggi Non Giocanti 
 
@@ -12120,7 +12106,7 @@ incantesimi del PNG con un diverso incantesimo dello stesso livello. Cambiare in
 
 ***Cambiare Armi e Armatura**.* Puoi migliorare o peggiorare l'armatura del PNG o aggiungere o cambiare armi. Le modifiche alla Difesa e ai danni possono modificare il grado di sfida del PNG.
 
-***Oggetti Magici***. più potente è un PNG, maggiori le probabilità che possieda uno o più oggetti magici. Un mago, ad esempio, potrebbe avere una bacchetta o un bastone magico, oltre ad una o più pozioni e pergamene. Fornire un PNG di un potente oggetto magico capace di infliggere danni potrebbe modificarne il grado di sfida.
+***Oggetti Magici***. Più potente è un PNG, maggiori le probabilità che possieda uno o più oggetti magici. Un mago, ad esempio, potrebbe avere una bacchetta o un bastone magico, oltre ad una o più pozioni e pergamene. Fornire un PNG di un potente oggetto magico capace di infliggere danni potrebbe modificarne il grado di sfida.
 
 Alcuni oggetti magici di esempio sono descritti più avanti in questo documento.
 
@@ -12193,7 +12179,7 @@ I cavalieri sono combattenti che giurano fedeltà a sovrani, ordini religiosi, e
 
 *Colpisce:* 5 (1d10) perforanti.
 
-***Autorità (Ricarica dopo un 1 ora)***. Per 1 minuto, il cavaliere può pronunciare un comando speciale o avvertimento ogni qualvolta una creatura non ostile entro 9 metri da lui, e che possa vedere, effettua un tiro di attacco o Tiro Salvezza. La creatura può sommare un d4 al suo tiro purché possa udire e comprendere il cavaliere. Una creatura può beneficiare di un solo dado Autorità alla volta. Questo effetto termina se il cavaliere è inabile.
+***Autorità (Ricarica dopo 1 ora)***. Per 1 minuto, il cavaliere può pronunciare un comando speciale o avvertimento ogni qualvolta una creatura non ostile entro 9 metri da lui, e che possa vedere, effettua un tiro di attacco o Tiro Salvezza. La creatura può sommare un d4 al suo tiro purché possa udire e comprendere il cavaliere. Una creatura può beneficiare di un solo dado Autorità alla volta. Questo effetto termina se il cavaliere è inabile.
 
 **Reazioni*Parata.*** Il cavaliere può aggiungere 2 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo, il cavaliere deve vedere l'attaccante e star impugnando un'arma da mischia.
 
@@ -12269,7 +12255,7 @@ Che siano uomini di strada o di mare (pirati) costoro guadagnano da vivere depre
 - **Linguaggi**: due lingue qualsiasi
 - **Sfida**: 1 (200 PX)
 
-Una spia è un individuo addestramento nel reperire segreti per conto di qualcuno, o a volte per rivenderli al miglior offerente.
+Una spia è un individuo addestrato nel reperire segreti per conto di qualcuno, o a volte per rivenderli al miglior offerente.
 
 ***Attacco Furtivo (1/Turno).*** La spia infligge 7 (2d6) danni aggiuntivi quando colpisce un bersaglio con un attacco con arma e ha +1d6 al tiro di attacco, o quando il bersaglio è entro 1 metro da un alleato dell'assassino che non è inabile e l'assassino non ha -1d6 al tiro di attacco.
 
@@ -12343,7 +12329,7 @@ Solitari o membri di una gilda, gli assassini sono pagati per eliminare, spesso 
 
 **Mago**
 
-Il mago trascorre la vita nello studio e la pratica della magia.
+Il mago trascorre la vita nello studio e nella pratica della magia.
 
 ### Mago Avventuriero
 
@@ -12535,7 +12521,7 @@ livello 2 (3 slot): *Arma Spirituale, Blocca Persona*
 
 Sono individui al comando di un tempio o altro luogo sacro e che hanno a loro disposizione diversi accoliti.
 
-***Eminenza Divina.*** Come Azione Immediata, il sacerdote può spendere uno slot incantesimo per far sì che il suo attacco con arma da mischia infligge 10 (3d6) danni da Luce aggiuntivi. Il beneficio dura fino al termine del round.
+***Eminenza Divina.*** Come Azione Immediata, il sacerdote può spendere uno slot incantesimo per far sì che il suo attacco con arma da mischia infligga 10 (3d6) danni da Luce aggiuntivi. Il beneficio dura fino al termine del round.
 
 ***Incantesimi.*** Il sacerdote ha CM 6. La sua abilità da incantatore è la Saggezza (+5 al colpire con attacchi con incantesimo). Il sacerdote ha preparato i seguenti incantesimi:
 
@@ -12585,11 +12571,11 @@ Provenienti da terre selvagge, gli imprevedibili berserker si radunano in compag
 
 Sono i difensori delle tribù che vivono ai margini della civiltà.
 
-***Tattiche di Branco.*** Il combattente tribale ha +1d6 ai tiri di attacco contro una creatura se almeno uno degli alleati del picchiatore si trova entro 1 metro dalla creatura e quell'alleato non è inabile.
+***Tattiche di Branco.*** Il combattente tribale ha +1d6 ai tiri di attacco contro una creatura se almeno uno degli alleati del combattente tribale si trova entro 1 metro dalla creatura e quell'alleato non è inabile.
 
 **Azioni*Lancia.** Attacco con Arma da Mischia o a Gittata*: +3 a colpire, portata 1 m o gittata 6m, un bersaglio.
 
-*Colpisce:* 4 (1d6 + 1) danni perforanti
+*Colpisce:* 4 (1d6 + 1) danni perforanti.
 
 ### Druido
 
@@ -12602,7 +12588,7 @@ Sono i difensori delle tribù che vivono ai margini della civiltà.
 - **Linguaggi**: Druidico più due altre lingue
 - **Sfida**: 2 (450 PX)
 
-I druidi proteggono il mondo naturale dai mostri e dall'avanzare della civiltà. Alcuni sono sciamani tribali che curano i malati, pregano agli spiriti animali e forniscono consigli spirituali. Solitamente sono devoti di Efrem o Shayalia.
+I druidi proteggono il mondo naturale dai mostri e dall'avanzare della civiltà. Alcuni sono sciamani tribali che curano i malati, pregano gli spiriti animali e forniscono consigli spirituali. Solitamente sono devoti di Efrem o Shayalia.
 
 ***Incantesimi.*** Il Druido ha CM 4. La sua abilità da incantatore è la Saggezza (+4 al colpire con attacchi con incantesimo). Il Druido ha preparato i seguenti incantesimi:
 
@@ -12637,10 +12623,11 @@ Abili cacciatori e battitori di piste.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Arco Lungo.** Attacco con Arma da Mischia*: +4 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con Arma a Gittata*: +4 a colpire, gittata 45m, un bersaglio.
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
+}  % chiude il gruppo aperto da {
 
 ## Conversioni dalla 5e
 
@@ -12836,13 +12823,13 @@ La condizione vale su chi è afferrato e su chi afferra.
 
 **Amichevole**: Una creatura amichevole non attaccherà il personaggio se non minacciata esplicitamente.
 
-**Annegare/Trattenere il fiato**:  Qualsiasi personaggio può trattenere il fiato per un numero di round pari 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 2. Vedi pag. 
+**Annegare/Trattenere il fiato**:  Qualsiasi personaggio può trattenere il fiato per un numero di round pari a 6 round per il suo punteggio di Costituzione, con un minimo di 3 round. Per ogni Azione compiuta la durata restante diminuisce di 1 round. Trascorso questo periodo di tempo, il personaggio deve effettuare un Tiro Salvezza su Tempra con DC 12 ogni round per continuare a trattenere il fiato. Ogni round, la DC aumenta di 2. Vedi pag. 
 
 **Assordato**: Un personaggio assordato non può ascoltare. Fallisce automaticamente tutte le prove di Consapevolezza basate sul suono e si considera Distratto nel lancio degli incantesimi con componenti almeno verbali.
 
 I personaggi che rimangono assordati per lunghi periodi di tempo, possono abituarsi a queste penalità e superarne alcune, a discrezione del Narratore.
 
-**Avvelenato**: si considera avvelenato qualsiasi soggetto sotto l'influenza di un veleno o pozione, indipendentemente che questa stia già producendo gli effetti o li debba ancora produrre dato il tempo dell'insorgenza. Una creatura immune al danno da Veleno non può avere la condizione Avvelenato.
+**Avvelenato**: si considera avvelenato qualsiasi soggetto sotto l'influenza di un veleno o pozione, indipendentemente dal fatto che questa stia già producendo gli effetti o li debba ancora produrre dato il tempo dell'insorgenza. Una creatura immune al danno da Veleno non può avere la condizione Avvelenato.
 
 **Bloccato**: una creatura bloccata ha entrambe le braccia bloccate. Può spostarsi provando a Spingere, deve usare due Azioni per liberarsi (vedi Afferrare un avversario). Prende -4 alla Difesa ed ai Tiri Salvezza su Riflessi.
 
@@ -12858,14 +12845,14 @@ L'attaccante colpisce automaticamente ed infligge tre colpi critici. Le creature
 
 Se una creatura confusa è attaccata, attacca sempre l'ultima creatura che la ha attaccata, finché quella creatura non muore o esce dalla sua visuale.
 
-Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura confusa per vedere quello fa in quel round.
+Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura confusa per vedere quello che fa in quel round.
 
 | **d10** | **Comportamento** |
 |---|---|
-| 1 | La creatura usa tutte le sue Azioni per per muoversi in una direzione casuale. Per determinare la direzione tira un d8 |
+| 1 | La creatura usa tutte le sue Azioni per muoversi in una direzione casuale. Per determinare la direzione tira un d8 |
 | 2-5 | La creatura non fa nulla per tutto il round |
 | 6 | La creatura effettua un attacco contro se stessa e finisce il round |
-| 7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpito. Fatto l'attacco il round termina. |
+| 7-8 | La creatura effettua un attacco contro una creatura determinata a caso entro 1 Azione di Movimento. Se è stata colpita il round precedente attaccherà la creatura che l'ha colpita. Fatto l'attacco il round termina. |
 | 9-10 | La creatura può agire e muoversi normalmente. |
 
 Una creatura confusa che non è in grado di eseguire l'azione indicata non farà altro che balbettare in modo incoerente. Gli aggressori non hanno alcun vantaggio speciale quando attaccano una creatura confusa. Qualsiasi creatura confusa che venga attaccata, attacca automaticamente a sua volta il suo aggressore.
@@ -12883,7 +12870,7 @@ Ovviamente ordini palesemente autodistruttivi non vengono eseguiti. Una volta st
 **Dormire**: Ogni volta che un personaggio termina un periodo di 24 ore senza dormire almeno 8 ore, deve superare un Tiro Salvezza su Tempra con DC 17, altrimenti diventa Affaticato. Ogni riposo mancato ulteriore lo renderà ancora più Affaticato cumulando le penalità relative.
 Se il personaggio resta sveglio per più giorni, lottare contro il sonno diventa più difficile. Dopo le prime 24 ore, la DC aumenta di 4 per ogni periodo consecutivo di 24 ore trascorso senza aver dormito 8 ore. La DC torna a 17 quando il personaggio completa un riposo di almeno 8 ore.
 
-**Fiancheggiare**: una creatura è fiancheggiata se ha due avversari non affiancatati attorno a se ed una ipotetica linea che unisce gli avversari attraversa il quadretto della creatura completamente. Le due creature prendono +2 al Tiro per Colpire o alla Difesa.
+**Fiancheggiare**: una creatura è fiancheggiata se ha due avversari non affiancati attorno a sé e un'ipotetica linea che unisce gli avversari attraversa completamente il quadretto della creatura. Le due creature prendono +2 al Tiro per Colpire o alla Difesa.
 
 **Impreparato / Sorpreso**:
 Una creatura sorpresa / impreparata ha una penalità di -2 a Difesa ed ai Tiri Salvezza su Riflessi. Non potrà reagire, non userà Azioni o Reazioni se non esplicitamente permesse; dal round successivo potrà dichiarare l'iniziativa ed agire normalmente.
@@ -12894,7 +12881,7 @@ Una creatura sorpresa / impreparata ha una penalità di -2 a Difesa ed ai Tiri S
 
 **Indifeso**: Un personaggio addormentato, Privo di Sensi, Morente o per qualche altro motivo completamente alla mercé dei suoi avversari, è considerato Indifeso.
 
-Una creatura Indifesa non può compiere Azioni o Reazioni ne parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus. Non è consapevole di ciò che gli accade intorno. La creatura lascia cadere qualsiasi cosa impugni e cade prona.
+Una creatura Indifesa non può compiere Azioni o Reazioni né parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus. Non è consapevole di ciò che gli accade intorno. La creatura lascia cadere qualsiasi cosa impugni e cade prona.
 
 La creatura fallisce automaticamente i Tiri Salvezza su Tempra e Riflessi.
 
@@ -12913,19 +12900,19 @@ Chi attacca una creatura per lei invisibile ha un -1d6 al Tiro per Colpire, la c
 
 **Morto**: L'anima del personaggio abbandona permanentemente il suo corpo. I personaggi morti non possono beneficiare delle cure normali o magiche, e non possono essere riportati in vita da un incantesimo. Solo un Patrono ha sufficiente potere per riportare l'anima nel corpo e riportare in vita la creatura. La Scuola di Necromanzia ha incantesimi per rianimare un corpo come non morto.
 
-**Paralizzato**:  Un personaggio paralizzato non può compiere Azioni o Reazioni ne parlare, gli attacchi in mischia contro di lei hanno +1d6 di bonus e perde il bonus alla Difesa dato dalla Destrezza. La creatura è consapevole di ciò che ha intorno, non lascia cadere gli oggetti. La creatura fallisce automaticamente i Tiri Salvezza su Riflessi.
+**Paralizzato**:  Un personaggio paralizzato non può compiere Azioni o Reazioni né parlare, gli attacchi in mischia contro di lui hanno +1d6 di bonus e perde il bonus alla Difesa dato dalla Destrezza. La creatura è consapevole di ciò che ha intorno, non lascia cadere gli oggetti. La creatura fallisce automaticamente i Tiri Salvezza su Riflessi.
 
 Una creatura alata in volo, nel momento in cui viene paralizzata non può più battere le ali e precipita. Un nuotatore paralizzato non può più Nuotare e potrebbe annegare.
 
 Il terreno occupato da una creatura paralizzata (o morta) si considera come terreno difficile.
 
-**Perdita di punti Caratteristica**: quando si i punteggi Caratteristica diminuiscono ricordarsi di togliere eventuali Punti Ferita 1 per punto di Costituzione perso per livello, abbassare Tiri Salvezza (Destrezza, Costituzione, Saggezza), Tiri per Colpire (Forza e Destrezza), **Difesa:** (Difesa). Se non indicato come permanente si recupera 1 punto in tutto di Caratteristica al giorno di riposo.
+**Perdita di punti Caratteristica**: quando i punteggi di Caratteristica diminuiscono ricordarsi di togliere eventuali Punti Ferita 1 per punto di Costituzione perso per livello, abbassare Tiri Salvezza (Destrezza, Costituzione, Saggezza), Tiri per Colpire (Forza e Destrezza), **Difesa:** (Difesa). Se non indicato come permanente si recupera 1 punto in tutto di Caratteristica al giorno di riposo.
 
 **Pietrificato**: Un personaggio pietrificato è stato trasformato in pietra ed è privo di sensi ed **Indifeso**, viene considerato un oggetto.
 
-Se un personaggio pietrificato si incrina o si rompe, ma i pezzi rotti sono uniti al corpo quando ritorna di carne, il personaggio non viene ferito o danneggiato. Se il corpo pietrificato del personaggio è incompleto quando viene ritrasformato in carne, il corpo rimane incompleto e potrebbe avere una qualche perdita permanente di Punti Ferita e/o altre menomazioni.
+Se un personaggio pietrificato si incrina o si rompe, ma i pezzi rotti sono uniti al corpo quando ritorna in carne, il personaggio non viene ferito o danneggiato. Se il corpo pietrificato del personaggio è incompleto quando viene ritrasformato in carne, il corpo rimane incompleto e potrebbe avere una qualche perdita permanente di Punti Ferita e/o altre menomazioni.
 
-La creatura dispone di resistenza a tutti i danni. La creatura è immune ai veleni e le malattie, ma gli eventuali i veleni e le malattie già presenti nel suo sistema vengono solo sospesi, non neutralizzati. La creatura non ha percezione dell'ambiente ne capacità cognitive.
+La creatura dispone di resistenza a tutti i danni. La creatura è immune ai veleni e alle malattie, ma gli eventuali veleni e le malattie già presenti nel suo sistema vengono solo sospesi, non neutralizzati. La creatura non ha percezione dell'ambiente né capacità cognitive.
 
 **Paura, Spaventato**:
 Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Competenza finché la sorgente della sua paura è visibile. Una creatura spaventata non può avvicinarsi volontariamente alla sorgente della sua paura.
@@ -12934,19 +12921,19 @@ Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Compe
 
 **Prono**: chi è prono ha un -4 ad attaccare ed un -4 alla Difesa. Alzarsi da prono costa 1 Azione. Non si può diventare proni se si vola.
 
-Il giocatore può eseguire una prova di Acrobatica se fa 13 o più costa 1 Azione immediata. Se fai un Fallimento Critico nella prova non puoi fare altre azioni quel round e rimani prono.
+Il giocatore può eseguire una prova di Acrobatica; se fa 13 o più, costa 1 Azione immediata. Se fai un Fallimento Critico nella prova non puoi fare altre azioni quel round e rimani prono.
 
 Quando sei prono puoi strisciare o muoverti a carponi. Il terreno si considera difficile e sei comunque considerato ancora prono finché non ti alzi.
 
-**Punti Ferita Massimi**: una creatura che subisca un attacco che abbassa i Punti Ferita Massimi deve calare prima i Punti Ferita Massimi attuali e poi diminuisce dello stesso ammontare i Punti Ferita attuali se non già tolti. Se i Punti Ferita Massimi arrivano a 0 la creatura è morta. I Punti Ferita massimi si recuperano nella misura di 1 per valore di Costituzione per 8 ore di riposo.
+**Punti Ferita Massimi**: una creatura che subisca un attacco che abbassa i Punti Ferita Massimi deve calare prima i Punti Ferita Massimi attuali e poi diminuire dello stesso ammontare i Punti Ferita attuali, se non già tolti. Se i Punti Ferita Massimi arrivano a 0, la creatura è morta. I Punti Ferita massimi si recuperano nella misura di 1 per valore di Costituzione per 8 ore di riposo.
 
 **Resistenza al Danno**: una creatura che abbia Resistenza al Danno si considera che dimezzi automaticamente il danno dalla fonte specificata, es. Resistenza al Danno: Suono. La Resistenza al Danno può essere indicata anche con un valore numerico, es. Resistenza al Danno: Fuoco 10. In questo caso la protezione funziona sui primi 10 danni subiti, in caso di effetto che concede un Tiro Salvezza per dimezzare, prima si toglie l'ammontare della protezione al totale, poi si esegue il Tiro Salvezza per dimezzare il danno residuo.
 
 **Stordito/Svenuto**: si considera che sia **Indifeso**. Può parlare a fatica.
 
-**Trattenere il fiato**: leggi **Annegare/Trattenere il fiatoRallentato**: una creatura rallentata non è in grado di eseguire tutte le sue possibili Azioni nel round. Rallentato viene sempre indicato con due valori, il primo indica quante Azioni in meno si fanno a round, il secondo la durata dell'effetto, se segnato con un - allora non ha una fine indicata. Quando è indicata la durata si intente fino alla fine del round di scadenza. Es. Rallentato 1/3r, Rallentato 2/-.
+**Trattenere il fiato**: leggi **Annegare/Trattenere il fiatoRallentato**: una creatura rallentata non è in grado di eseguire tutte le sue possibili Azioni nel round. Rallentato viene sempre indicato con due valori: il primo indica quante Azioni in meno si fanno a round, il secondo la durata dell'effetto; se segnato con un -, allora non ha una fine indicata. Quando è indicata la durata si intende fino alla fine del round di scadenza. Es. Rallentato 1/3r, Rallentato 2/-.
 
-**Ristretto** : due creature medie o piccole che condividono lo stesso quadretto di mappa si considerano ristretti. Entrambe le creature prendono -1d6 al Tiro per Colpire ed alla Difesa (-4) finché condividono lo spazio. Una creature può condividere il quadretto con una creatura di taglia almeno tre volte più grande senza penalità.
+**Ristretto**: due creature medie o piccole che condividono lo stesso quadretto di mappa si considerano ristrette. Entrambe le creature prendono -1d6 al Tiro per Colpire e alla Difesa (-4) finché condividono lo spazio. Una creatura può condividere il quadretto con una creatura di taglia almeno tre volte più grande senza penalità.
 
 **Rotto**: La condizione rotto ha i seguenti effetti, a seconda dell'oggetto:
 
@@ -12958,9 +12945,9 @@ Quando sei prono puoi strisciare o muoverti a carponi. Il terreno si considera d
 
 - Se l'oggetto è una Bacchetta o un Bastone, utilizzate il doppio delle cariche necessarie ogni volta che viene usato.
 
-- Se l'oggetto non rientra in nessuna delle precedenti categorie, la condizione rotto non ha effetto sul suo uso. Gli oggetti con condizione rotto, a prescindere dal tipo, valgono il 25\% del loro costo normale. Se l'oggetto è magico, può essere riparato soltanto con l'incantesimo Fabbricare utilizzata da un incantatore di livello uguale o superiore a quello che ha creato dell'oggetto.
+- Se l'oggetto non rientra in nessuna delle precedenti categorie, la condizione rotto non ha effetto sul suo uso. Gli oggetti con condizione rotto, a prescindere dal tipo, valgono il 25\% del loro costo normale. Se l'oggetto è magico, può essere riparato soltanto con l'incantesimo Fabbricare utilizzato da un incantatore di livello uguale o superiore a quello che ha creato l'oggetto.
 
-**Sanguinante**: Una creatura che sta subendo danni da sanguinamento subisce la quantità di danno indicata all'inizio del suo round. La Riduzione del danno (DR) non funziona sul danno da sanguinamento. Il sanguinamento può essere ridotto di un punto superando una prova di Pronto Soccorso con DC 12, 2 Azioni.
+**Sanguinante**: Una creatura che sta subendo danni da sanguinamento subisce la quantità di danno indicata all'inizio del suo round. La Riduzione del danno (DR) non funziona sul danno da sanguinamento. Il sanguinamento può essere ridotto di un punto superando una prova di Pronto Soccorso con DC 12, al costo di 2 Azioni.
 Per ogni valore di Sanguinamento sopra 1 la difficoltà aumenta di 2.
 
 Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni Successo Critico riduce il sanguinamento di un punto ulteriore. Alcuni effetti di sanguinamento causano un danno di caratteristica o persino un risucchio di caratteristica.
@@ -12993,12 +12980,12 @@ Il punto blu determina l'origine dell'incantesimo
 | **3d6** | **Effetto** |
 |---|---|
 | 3 | Sei imbarazzato del tuo colpo, ma non succede nulla di particolare |
-| 4 | Ti sbilanci. Fino a all'inizio del prossimo round hai -2 alla Difesa |
+| 4 | Ti sbilanci. Fino all'inizio del prossimo round hai -2 alla Difesa |
 | 5 | Metti male il piede. Fino alla fine del prossimo round tratti il terreno come difficile |
-| 6 | Perdi il fiato. Fino all'inizio del prossimo round ha -1 Forza |
+| 6 | Perdi il fiato. Fino all'inizio del prossimo round hai -1 Forza |
 | 7 | Piroetta. Ti sposti in una direzione casuale di 1 metro |
-| 8 | Goffo. Fino a all'inizio del prossimo round hai -4 alla Difesa |
-| 9 | Occhio pesto. Fino alla fine del round prossimo ogni avversario gode di copertura leggera |
+| 8 | Goffo. Fino all'inizio del prossimo round hai -4 alla Difesa |
+| 9 | Occhio pesto. Fino alla fine del prossimo round ogni avversario gode di copertura leggera |
 | 10 | Mani di burro. Ti cade l'arma |
 | 11 | Strappo muscolare. Il prossimo attacco non aggiunge la Forza al danno |
 | 12 | Caviglia fragile. Portando il colpo inciampi. Cadi prono |

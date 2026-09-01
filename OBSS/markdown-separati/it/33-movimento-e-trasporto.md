@@ -48,13 +48,13 @@ Le distanze vengono misurate in quadretti da un metro, il movimento è gestito t
 
 Un personaggio può usare 1 Azione (di Movimento) per muoversi fino a tutto il proprio movimento. Può effettuare più volte nel round, fino a 3 volte, l'Azione Movimento, spostandosi quindi del triplo del suo movimento.
 
-Può anche effettuare una Azione di Scatto ovvero **Correre** e quindi muoversi del doppio del suo Movimento in una sola Azione. Incappa così però nelle penalità per chi corre (-1d6 al Tiro per Colpire, -4 Difesa).
+Può anche effettuare un'Azione di Scatto ovvero **Correre** e quindi muoversi del doppio del suo Movimento in una sola Azione. Incappa così però nelle penalità per chi corre (-1d6 al Tiro per Colpire, -4 Difesa).
 
 Un personaggio può effettuare fino a 3 Azioni di Scatto, ovvero corre per tutto il round percorrendo quindi il suo movimento * 6.
 
 ### Movimento Ostacolato - Terreno Difficile
 
-Terreno difficile, innevato, ghiacciato, con rapide salite e discese, pieno di macerie o con ostacoli o scarsa visibilità possono impedire i movimenti. Quando il movimento è ostacolato ci si muove a metà della velocità, sono necessarie 2 Azioni per coprire la propria distanza di 9 metri (se si è umano senza ingombro..), oppure con una Azione di Movimento si copre solo 4 metri.
+Terreno difficile, innevato, ghiacciato, con rapide salite e discese, pieno di macerie o con ostacoli o scarsa visibilità può impedire i movimenti. Quando il movimento è ostacolato ci si muove a metà della velocità, sono necessarie 2 Azioni per coprire la propria distanza di 9 metri (se si è umano senza ingombro..), oppure con una Azione di Movimento si copre solo 4 metri.
 
 Se esiste più di una condizione particolare, aggiungere tra loro tutti i costi aggiuntivi applicabili, ovvero se un terreno è difficile e ci si muove a carponi significa muoversi di un quarto del proprio movimento. 
 
@@ -72,7 +72,7 @@ Il terreno dove sono presenti dei corpi di creature si considera difficile.
 
 >> **Tups nel cunicolo**: Tups è con i suoi compagni in uno stretto cunicolo in fila indiana. È alla quarta posizione.
 
-Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando una Azione di Movimento ***attraversa*** i 3 compagni che ha davanti rimanendo **ristretto** con il primo della fila.
+Improvvisamente un nemico si para davanti e Tups è il più veloce a reagire, usando un'Azione di Movimento ***attraversa*** i 3 compagni che ha davanti rimanendo **ristretto** con il primo della fila.
 
 Potrebbe decidere di (tra le varie possibilità):
 
@@ -80,21 +80,21 @@ Potrebbe decidere di (tra le varie possibilità):
 - stare fermo senza scattare in avanti, lasciare agire prima i compagni davanti a lui.
 - rimanere ristretto ed attaccare. Rimangono 2 Azioni.
 - spingere il compagno (1 Azione) nel quadretto precedente, facendolo stringere con un altro compagno. Rimane 1 Azione.
-- spingere il compagno (1 Azione) nel quadretto successivo! facendo attraversare a lui il quadretto del nemico. Rimane 1 Azione.
+- spingere il compagno (1 Azione) nel quadretto successivo, facendo attraversare a lui il quadretto del nemico. Rimane 1 Azione.
 - tornare indietro (1 Azione) al suo quadretto iniziale. Rimane 1 Azione.
-- provare ad attraversare l'avversario (1 Azione), ma se fallisce sarebbe ristretto con il compagno, danneggiando entrambi e gli rimarrebbe soltanto 1 altra Azione
+- provare ad attraversare l'avversario (1 Azione), ma se fallisce sarebbe ristretto con il compagno, danneggiando entrambi e gli rimarrebbe soltanto un'altra Azione
 \enditemize
 
 ### Condividere gli Spazi
 
 Una creatura di taglia media o più piccola può condividere lo stesso quadretto con una creatura di taglia piccola.
 
-Una creatura di taglia superiore a media può condividere i propri quadretti solo se l'altra creatura è di almeno 2 taglie inferiore.
+Una creatura di taglia superiore a media può condividere i propri quadretti solo se l'altra creatura è di almeno 2 taglie inferiori.
 
 Es. un mostro di taglia Grande può condividere il suo spazio solo con una creatura di taglia Piccola o inferiore, se fosse Enorme potrebbe condividerlo con una creatura di taglia Media o inferiore.
 
 ### Scambiarsi di posto
-Un personaggio a contatto con un'altra creatura può usare **una Azione** per **scambiarsi di posto** con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
+Un personaggio a contatto con un'altra creatura può usare **un'Azione** per **scambiarsi di posto** con questa. Se la creatura è ostile è necessaria una Prova Atletica contrapposta ad un Tiro Salvezza su Tempra per riuscire a scambiarsi. Per ogni taglia di differenza chi ha quella maggiore prende +1d6 di bonus alla prova. Costa una Reazione alla creatura amichevole.
 
 >>> **Amici fastidiosi**: Se volete un crudo realismo allora è terreno difficile attraversare anche zone dove ci sono creature amichevoli.
 
@@ -111,10 +111,10 @@ Non è possibile attraversare restringimenti più stretti di una taglia.
 
 I personaggi che esplorano una zona usano il movimento locale, misurato in metri al minuto.
 
-In queste situazione non è fondamentale misurare la distanza in maniera precisa ma appena la situazione diventa *problematica* o richiede attenzione la mappa si converte in movimento tattico, quadrettata e misurata.
+In queste situazioni non è fondamentale misurare la distanza in maniera precisa ma appena la situazione diventa *problematica* o richiede attenzione la mappa si converte in movimento tattico, quadrettata e misurata.
 
 - Camminare: Un personaggio può camminare senza problemi in Movimento locale per 8 ore al giorno.
-- Correre: Un personaggio può Correre per un numero di minuti pari suo valore di Tiro Salvezza Tempra senza bisogno di riposarsi (minimo 1 round).
+- Correre: Un personaggio può Correre per un numero di minuti pari al suo valore di Tiro Salvezza Tempra senza bisogno di riposarsi (minimo 1 round).
 
 ## Movimento Via Terra
 
@@ -142,7 +142,7 @@ La marcia forzata può essere tenuta per un numero di giorni pari al valore di C
 
 **Terreno**
 
-Il terreno su cui si viaggia influenza quanta distanza viene percorsa in un'ora o in un giorno. A seconda dell'ambiente, clima, qualità della strada il Narratore può valutare che il movimento può essere normale, ridotto di un terzo, ridotto di metà oppure talmente impervio e difficile da ridurlo ad un quarto del movimento totale possibile.
+Il terreno su cui si viaggia influenza quanta distanza viene percorsa in un'ora o in un giorno. A seconda dell'ambiente, clima, qualità della strada, il Narratore può valutare che il movimento sia normale, ridotto di un terzo, ridotto di metà oppure talmente impervio e difficile da ridurlo ad un quarto del movimento totale possibile.
 
 **Movimento in sella**
 
@@ -150,7 +150,7 @@ Una cavalcatura che porta un cavaliere può muoversi con andatura veloce. Tuttav
 
 **Bardature da Cavalcatura**
 
-Una cavalcatura può essere bardata con un armatura. Un armatura leggera conferirà un bonus alla Difesa di +2, una armatura Media concederà un bonus di +4 alla Difesa riducendo il movimento del 25\%, una armatura Pesante darà un +6 alla Difesa abbassando il movimento del 33\%.
+Una cavalcatura può essere bardata con un'armatura. Un'armatura leggera conferirà un bonus alla Difesa di +2, un'armatura Media concederà un bonus di +4 alla Difesa riducendo il movimento del 25\%, un'armatura Pesante darà un +6 alla Difesa abbassando il movimento del 33\%.
 
 ## Tabella: Cavalcature e Veicoli
 
@@ -177,11 +177,11 @@ Una cavalcatura può portare in groppa una creatura solo se di taglia inferiore 
 
 Zattere, chiatte e barconi sono usati su laghi e fiumi. Se seguono la corrente, sommare la velocità della corrente (di solito 4,5 km/h) alla velocità dell'imbarcazione. Oltre a essere spinta con pertiche o remi per 10 ore, l'imbarcazione può anche essere trasportata dalla corrente per altre 14 ore, se qualcuno è in grado di guidarla, e quindi si aggiungono altri 100 km nelle 24 ore. Queste imbarcazioni non possono essere spinte a remi contro una corrente molto forte, ma possono essere tirate controcorrente da animali da soma sulla riva.
 
-Le Zattere e Chiatte attrezzate per il trasporto sono delle piccole locande che permettono un pasto frugale del pescato giornaliero ed un po' di frutta e verdura portata da riva. Non ci sono stanze per dormire. A chi ne fa richiesta, dietro un piccolo compenso, vengono stese delle stuoie e srotolati vissuti materassi e se il clima lo rende necessario vengono fornite coperte.
+Le Zattere e Chiatte attrezzate per il trasporto sono delle piccole locande che permettono un pasto frugale del pescato giornaliero ed un po' di frutta e verdura portata da riva. Non ci sono stanze per dormire. A chi ne fa richiesta, dietro un piccolo compenso, vengono stese delle stuoie e srotolati usati materassi e se il clima lo rende necessario vengono fornite coperte.
 
 La guida della Zattera o Chiatta avviene su turni di 8 ore giornalieri, per permettere anche la continua navigazione. Quando è notte la navigazione si ferma o prosegue con la sola forza della corrente se non impetuosa e non ci sono pericoli noti. Pagando un sovrapprezzo è possibile navigare anche sulle 24 ore.
 
-Se il viaggio dura più giorni diventa una occasione di conoscenza tra i personaggi quando nelle lunghe sere si raccolgono assieme agli altri ospiti e marinai per consumare il pasto e raccontarsi storie.
+Se il viaggio dura più giorni diventa un'occasione di conoscenza tra i personaggi quando nelle lunghe sere si raccolgono assieme agli altri ospiti e marinai per consumare il pasto e raccontarsi storie.
 
 ## Fuga ed Inseguimento
 
@@ -222,7 +222,7 @@ Tups è una creatura Media con Forza -1 e Costituzione +0 (è un po' gracile e d
 
 Il peso trasportato da Tups è superiore alla sua CdC ! È meglio se lascia la tenda sul suo saurovallo...
 
-Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro la tua CdC, a metà movimento se entro il doppio della CdC ed ad un quarto del movimento se entro il quadruplo della CdC.
+Se il carico viene appoggiato su un carro puoi spingerlo a movimento pieno se entro la tua CdC, a metà movimento se entro il doppio della CdC e a un quarto del movimento se entro il quadruplo della CdC.
 
 In caso più creature spingano o trainino un carro considerate come CdC quella più alta ed aggiungete metà delle altre creature. Un carro può essere spinto da 2 creature +1 per taglia del carro superiore a media.
 
@@ -262,7 +262,7 @@ Vedi Capitolo Ambiente per prove nuotare  e combattimento sott'acqua .
 
 Una creatura con una velocità di Scalare ha un bonus di +2d6 su tutte le prove di Arrampicarsi, quando necessario. La creatura se deve fare una prova di Arrampicarsi per arrampicarsi su qualsiasi parete o pendenza può sempre scegliere di prendere 10, anche se di fretta o minacciata durante la salita.
 
-Se una creatura con una velocità di Scalare tenta una scalata rapida (vedi sopra), è come se eseguisse una Azione di Scatto e fa una singola prova di Arrampicarsi a DC 13. Se la creatura non ha un punteggio di Scalare indicato si considera il valore pari al suo GS + Movimento in metri per Scalare.
+Se una creatura con una velocità di Scalare tenta una scalata rapida (vedi sopra), è come se eseguisse un'Azione di Scatto e fa una singola prova di Arrampicarsi a DC 13. Se la creatura non ha un punteggio di Scalare indicato si considera il valore pari al suo GS + Movimento in metri per Scalare.
 
 Una creatura con Velocità di Scalare non ha penalità alla Difesa durante la salita e non ha penalità ai Tiri per Colpire mentre attacca.
 
@@ -276,11 +276,11 @@ La maggior parte delle creature scavatrici non lascia tunnel che altre creature 
 
 ### Camminare - Velocità Su Terreno
 
-La Velocità sul terreno é la normale velocità per personaggi che non scalano, nuotano o volano.
+La Velocità sul terreno è la normale velocità per personaggi che non scalano, nuotano o volano.
 
 ### Volare
 
-Volare per una creatura dotata di questa abilità è come camminare per una creatura terrestre. Una creatura dotata di volo usa le sua azioni per muoversi ma difficilmente sarà influenzata dal terreno difficile.
+Volare per una creatura dotata di questa abilità è come camminare per una creatura terrestre. Una creatura dotata di volo usa le sue azioni per muoversi ma difficilmente sarà influenzata dal terreno difficile.
 
 Una creatura volante che viene danneggiata in un singolo colpo della metà dei suoi Punti Ferita massimi deve fare un Tiro Salvezza su Tempra a DC 17 o cadere a terra.
 

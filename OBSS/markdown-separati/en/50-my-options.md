@@ -1,6 +1,6 @@
 # My Options
 
-I am also a Narrator, and while I built OBSS based on my preferences, there are some Options that make the game more *unique* that I like to make available to the characters.
+I am also a Game Master, and while I built OBSS based on my preferences, there are some Options that make the game more *unique* that I like to make available to the characters.
 
 At my gaming table, I usually propose these Options, to be decided in Session Zero:
 

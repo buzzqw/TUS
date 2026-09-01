@@ -2,7 +2,7 @@
 
 > Life has become immeasurably better since I have been forced to stop taking it seriously. (Daniel Day Lewis)
 
-These abilities represent the pinnacle of a character, not intended as the final abilities of the 20th level, but as abilities tied to the way of roleplaying, to the type of character that has been created and developed. These abilities should only be given to characters who have been taken from first to at least the 15th level, it is a recognition to the player.
+These abilities represent the pinnacle of a character, not intended as the final abilities of the 20th level, but as abilities tied to the way of roleplaying, to the type of character that has been created and developed. These abilities should only be given to characters who have been taken from first to at least the 15th level; it is a recognition to the player.
 
 Each character can have only one iconic ability, an ability that distinguishes heroes, capable of actions at the limit and beyond human. Players are encouraged to create new Iconic Abilities based on character development.
 
@@ -17,7 +17,7 @@ Once a day you emit sacred light around you for 60 minutes that gives you +1d6 t
 **Suggested Requirements**: skill in metalworking
 
 Your abilities to work with weapons and armor are legendary.
-Any armor you make encumbers and weighs as a lower category, weapons do damage of a higher dice category.
+Any armor you make encumbers and weighs as a lower category; weapons do damage of a higher dice category.
 
 ### The Oracle of War
 
