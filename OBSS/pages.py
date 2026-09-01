@@ -146,14 +146,19 @@ def split_markdown_file(input_file: str, output_dir: str) -> List[Tuple[str, str
 
 def create_index_file(output_dir: str, created_files_dict: dict):
     """Crea il file index.md multilingua"""
-    index_content = """# OBSS - Old Bell School System
+    language_links = []
+    if "it" in created_files_dict:
+        language_links.append("- [Italiano](it/index.md)")
+    if "en" in created_files_dict:
+        language_links.append("- [English](en/index.md)")
+
+    index_content = f"""# OBSS - Old Bell School System
 
 Sistema di gioco di ruolo completo e testato.
 
 ## Lingua / Language
 
-- [Italiano](it/index.md)
-- [English](en/index.md)
+{chr(10).join(language_links)}
 
 ---
 
@@ -330,7 +335,17 @@ def resolve_home(path):
 
 def main():
     # Controlli iniziali
-    for lang, filename in MARKDOWN_FILES.items():
+    language_option = sys.argv[2].lower() if len(sys.argv) > 2 else "--both"
+    selected_files = {
+        "--italian": {"it": MARKDOWN_FILES["it"]},
+        "--english": {"en": MARKDOWN_FILES["en"]},
+        "--both": MARKDOWN_FILES,
+    }.get(language_option)
+    if selected_files is None:
+        log_error(f"Opzione lingua non riconosciuta: {language_option}")
+        sys.exit(2)
+
+    for lang, filename in selected_files.items():
         if not os.path.exists(filename):
             log_error(f"File '{filename}' non trovato!")
             sys.exit(1)
@@ -346,7 +361,7 @@ def main():
     created_files_dict = {}
     try:
         # Divide i markdown
-        for lang, filename in MARKDOWN_FILES.items():
+        for lang, filename in selected_files.items():
             lang_dir = os.path.join(temp_output_dir, lang)
             created_files = split_markdown_file(filename, lang_dir)
             created_files_dict[lang] = created_files
@@ -366,43 +381,41 @@ def main():
         print("📋 Informazioni:")
         print(f"   Repository: https://github.com/{username}/{repo_name}")
         print(f"   GitHub Pages: https://{username}.github.io/{repo_name}")
-        print(f"   Sezioni create IT: {len(created_files_dict['it'])}")
-        print(f"   Sezioni create EN: {len(created_files_dict['en'])}")
+        print(f"   Sezioni create IT: {len(created_files_dict.get('it', []))}")
+        print(f"   Sezioni create EN: {len(created_files_dict.get('en', []))}")
         print("   Tempo di attivazione: 5-10 minuti")
         print()
         log_info("Il sito sarà disponibile tra qualche minuto su GitHub Pages")
     finally:
-         if os.path.exists(TEMP_DIR):
-             today = datetime.datetime.now().strftime("%Y%m%d")
-             zip_name = f"obss_deploy_{today}.zip"
-             zip_path = os.path.join(os.getcwd(), zip_name)
-             zip_folder(TEMP_DIR, zip_path)
-             shutil.copy(zip_name, resolve_home("$HOME/RPG/Pazfinder/TUS/OBSS/old/"))
-             try:
-                 shutil.rmtree(resolve_home("$HOME/TUS/OBSS/markdown-separati/en/"))
-             except FileNotFoundError:
-                 log_success("Cartella markdown EN non trovata, saltata.")
-             try: 
-                 shutil.rmtree(resolve_home("$HOME/TUS/OBSS/markdown-separati/it/"))
-             except FileNotFoundError:	 
-                  log_success("Cartella markdown IT non trovata, saltata.")    
+        if os.path.exists(TEMP_DIR):
+            today = datetime.datetime.now().strftime("%Y%m%d")
+            zip_name = f"obss_deploy_{today}.zip"
+            zip_path = os.path.join(os.getcwd(), zip_name)
+            zip_folder(TEMP_DIR, zip_path)
+            backup_dir = resolve_home("$HOME/RPG/Pazfinder/TUS/OBSS/old/")
+            if os.path.isdir(backup_dir):
+                shutil.copy(zip_name, backup_dir)
+            else:
+                log_warning(f"Directory backup non trovata, saltata: {backup_dir}")
+            try:
+                shutil.rmtree(resolve_home("$HOME/TUS/OBSS/markdown-separati/en/"))
+            except FileNotFoundError:
+                log_success("Cartella markdown EN non trovata, saltata.")
+            try:
+                shutil.rmtree(resolve_home("$HOME/TUS/OBSS/markdown-separati/it/"))
+            except FileNotFoundError:
+                log_success("Cartella markdown IT non trovata, saltata.")
 
-             os.makedirs(resolve_home("$HOME/TUS/OBSS/markdown-separati/en/"), exist_ok=True)
-             os.makedirs(resolve_home("$HOME/TUS/OBSS/markdown-separati/it/"), exist_ok=True)
-             shutil.copytree(
-                 resolve_home("$HOME/TUS/OBSS/temp_obss_deploy/docs/en/"),
-                 resolve_home("$HOME/TUS/OBSS/markdown-separati/en/"),
-                 dirs_exist_ok=True  # Python ≥3.8
-             )    
-             shutil.copytree(
-                 resolve_home("$HOME/TUS/OBSS/temp_obss_deploy/docs/it/"),
-                 resolve_home("$HOME/TUS/OBSS/markdown-separati/it/"),
-                 dirs_exist_ok=True  # Python ≥3.8
-             )
-             log_success(f"Cartella di appoggio zippata: {zip_path}")
-             log_success(f"Copiato in: /home/azanzani/RPG/Pazfinder/TUS/OBSS/old/")
-             shutil.rmtree(TEMP_DIR)
-             log_success("Cleanup completato")
-			
+            os.makedirs(resolve_home("$HOME/TUS/OBSS/markdown-separati/en/"), exist_ok=True)
+            os.makedirs(resolve_home("$HOME/TUS/OBSS/markdown-separati/it/"), exist_ok=True)
+            for lang in ("en", "it"):
+                source_dir = resolve_home(f"$HOME/TUS/OBSS/temp_obss_deploy/docs/{lang}/")
+                destination_dir = resolve_home(f"$HOME/TUS/OBSS/markdown-separati/{lang}/")
+                if os.path.isdir(source_dir):
+                    shutil.copytree(source_dir, destination_dir, dirs_exist_ok=True)
+            log_success(f"Cartella di appoggio zippata: {zip_path}")
+            shutil.rmtree(TEMP_DIR)
+            log_success("Cleanup completato")
+
 if __name__ == "__main__":
     main()

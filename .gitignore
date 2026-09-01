@@ -57,8 +57,6 @@ OBSS/biblio.sh
 OBSS/caricagit-lavoro-chiedi.sh
 OBSS/caricagit-lavoro.sh
 OBSS/clean-compile.sh
-OBSS/clean.sh
-OBSS/convertim2.sh
 OBSS/document.pdf
 OBSS/document.tex
 OBSS/latex_spell_converter.py
@@ -69,7 +67,6 @@ OBSS/OBSSv2-eng_old_gold.tex
 OBSS/OBSSv2-eng-blx.bib
 OBSS/OBSSv2-eng-provadimagiadadi.tex
 OBSS/OBSSv2-provadimagiadadi.tex
-OBSS/optpdf.sh
 OBSS/pages (copia 1).py
 OBSS/preambolo-con-sfondo-footer.tex
 OBSS/pulisci.sh
