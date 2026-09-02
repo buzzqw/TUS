@@ -54,6 +54,7 @@ Ligatures=TeX
 \usepackage{colortbl}
 \usepackage{hhline}
 \usepackage{multicol,array}
+\usepackage{multicoltab/multicoltab}
 
 % ========== GRAPHICS AND FIGURES PACKAGES ==========
 \usepackage{graphics,adjustbox}
@@ -463,7 +464,7 @@ bookmarksopen=true
 
 \def \versione {1.0.11} \fontsize{11.5}{11.5}\selectfont  %the first is the font size, the second the spacing between lines  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
-\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty}
+\cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %viene cercato Fantasy Adventure game
 
 
 
@@ -2185,12 +2186,12 @@ Nihar & The Jester, The Explorer, The Trickster \\
 Orlaith & The Threshold Guardian, The Ruler, The Hero \\
 \rowcolor{gray!20}Rezh & The Tyrant, The Shadow, The Shapeshifter \\
 Shayalia & The Shadow, The Lover, The Shapeshifter \\
+\end{tabularx}
+\noindent\begin{tabularx}{\linewidth}{lX}
 \rowcolor{gray!20}Sixiser & The Hermit, The Sage, The Shadow \\
 Sumkjr & The Hero, The Ally, The Mentor, The Martyr \\
 \rowcolor{gray!20}Tàhil & The Shadow, The Tyrant, The Outlaw \\
 Tazher & The Shadow, The Outlaw, The Shapeshifter \\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
 \rowcolor{gray!20}Thaft & The Everyman, The Ally, The Caregiver \\
 Torbiorn & The Tyrant, The Shadow, The Ruler \\
 \end{tabularx}
@@ -2222,9 +2223,9 @@ This archetypal system provides another layer of depth to character creation and
 
 \end{multicols}
 
-\vfill
+%\vfill
 
-\OBSSseparator
+%\OBSSseparator
 
 %\vfill
 %\begin{enfasi}
@@ -2709,7 +2710,7 @@ Finally, remember that a \emph{Dissolute} and \emph{Loyal} character sounds good
 If you've put points in Magic Proficiency, also consider taking the Magic Adept Feat to enhance your magic (and \emph{learn} an additional spell!).
 
 \begin{center}
-\includegraphics[width=0.85\linewidth]{immagini/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic.png}
+\includegraphics[width=0.75\linewidth]{immagini/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic.png}
 
 \emph{Alexander the Great}
 \end{center}
@@ -24828,10 +24829,8 @@ The \emph{identify} spell reveals that a creature is inside the flask, but the o
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{ll}
-	\toprule
-\rowcolor{gray!20}\textbf{d100} &\textbf{Contains}\\
-\toprule
+\begin{multicoltab}{ll}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{d100} &\textbf{Contains}}\\
 1-50 &Empty\\
 \rowcolor{gray!20}51-66 &Demon \\
 67 &Angel Deva\\
@@ -24847,7 +24846,7 @@ The \emph{identify} spell reveals that a creature is inside the flask, but the o
 96 &Angel Solar\\
 \rowcolor{gray!20}97-99 &Succubus/Incubus\\
 100 &Topi, La
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -24929,28 +24928,21 @@ A Bane \textbf{weapon} excels at attacking certain creatures. Against the chosen
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{ll}
-	\toprule
-\rowcolor{gray!20}d\% &Chosen enemy\\
-\toprule
+\begin{multicoltab}{ll}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}d\% &Chosen enemy}\\
 01-05 &Aberrations\\
 \rowcolor{gray!20}06-09 &Beasts\\
 10-16 &Constructs\\
 \rowcolor{gray!20}17-22 &Dragons\\
 23-27 &Fey\\
 \rowcolor{gray!20}61-70 &Magical Creatures\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{ll}
-\toprule
-\rowcolor{gray!20}d\% &Chosen enemy\\
-	\toprule
 28-60 &Humanoids (choose subtype)\\
 \rowcolor{gray!20}71-72 &Oozes\\
 73-88 &Fiends\\
 \rowcolor{gray!20}89-90 &Plants\\
 91-98 &Undead\\
 \rowcolor{gray!20}99-100 &Insects
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -24983,25 +24975,18 @@ A Greater Weapon \textbf{ring} can only be applied to melee weapons and has only
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{cXcX}
-	\toprule
-\rowcolor{gray!20}\textbf{1d100} & \textbf{Feat} & \textbf{1d100} & \textbf{Feat} \\
-\toprule
+\begin{multicoltab}{cXcX}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{1d100} & \textbf{Feat} & \textbf{1d100} & \textbf{Feat}}\\
 1-6 & Cursed -2 & 55-60 & Shocking \\
 \rowcolor{gray!20}7-12 & Courageous & 61-66 & Frost \\
 13-18 & Of Pain & 67-72 & Flaming \\
 \rowcolor{gray!20}19-24 & Vicious & 73-78 & Marine \\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{cXcX}
-	\toprule
-	\rowcolor{gray!20}\textbf{1d100} & \textbf{Feat} & \textbf{1d100} & \textbf{Feat} \\
-	\toprule
 25-30 & +3 & 79-84 & Shapeshifting \\
 \rowcolor{gray!20}31-36 & Cursed -1 & 85-90 & +2 \\
 37-42 & Titanic Weapon & 91-96 & Thundering \\
 \rowcolor{gray!20}43-48 & Chaos & 97-100 & Transforming \\
 49-54 & Corrosive & & \\
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -25241,10 +25226,8 @@ while wearing this \textbf{ring}, you have resistance to one type of damage. The
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lll}
-	\toprule
-\rowcolor{gray!20}\textbf{d10} & \textbf{Damage Type} & \textbf{Gem}\\
-\toprule
+\begin{multicoltab}{lll}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{d10} & \textbf{Damage Type} & \textbf{Gem}}\\
 1 &Acid &Pearl\\
 \rowcolor{gray!20}2& Force &Sapphire\\
 3& Cold &Tourmaline\\
@@ -25255,7 +25238,7 @@ while wearing this \textbf{ring}, you have resistance to one type of damage. The
 \rowcolor{gray!20}8& Light &Topaz\\
 9& Sound &Spinel\\
 \rowcolor{gray!20}10& Negative Energy &Slate
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -25502,11 +25485,9 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lX}
-	\toprule
+\begin{multicoltab}{lX}
 %\noindent\begin{tabular}{p{0.8cm}p{7cm}}
-\rowcolor{gray!20}\textbf{d100}& \textbf{Contents}\\
-\toprule
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{d100}& \textbf{Contents}}\\
 01-05 &You cast the Slow spell.\\
 \rowcolor{gray!20}06-10 &You cast the Light spell.\\
 11-15 &You are stunned until the beginning of your next round, and believe that something amazing has happened.\\
@@ -25521,8 +25502,6 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 \rowcolor{gray!20}50-53 &You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target.\\
 54-58 &You cast the darkness spell.\\
 \rowcolor{gray!20}59-62 &Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute.\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
 63-65 &An object chosen by the Game Master disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension.\\
 \rowcolor{gray!20}66-69 &You shrink as if you had cast the enlarge/reduce spell on yourself.\\
 70-79 &You cast the Fireball spell.\\
@@ -25532,7 +25511,7 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 91-95 &A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds.\\
 \rowcolor{gray!20}96-97 &The target's skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point.\\
 98-00 &If the target is a creature, it must make a Fortitude Saving Throw with DC 18. If the target is not a creature, the target becomes you and you will make the Saving Throw. If the Saving Throw fails by 5 or more, the target is petrified. If the Saving Throw fails by less, the target is hindered and begins to turn to stone. While hindered in this way, the target must repeat the Saving Throw at the end of each of its rounds, becoming petrified on a failure or ending the effect on a success. The target remains petrified until it is freed by the stone to flesh spell or similar magic.\\
-\end{tabularx}
+\end{multicoltab}
 
 %\medskip
 
@@ -25676,14 +25655,12 @@ If the Saving Throw succeeds, the creature takes half this damage.
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{Xl}
-\toprule
-\rowcolor{gray!20}\textbf{Distance from origin} &\textbf{Damage}\\
-\toprule
+\begin{multicoltab}{Xl}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{Distance from origin} &\textbf{Damage}}\\
 3 meters or less &8 × charges in staff\\
 \rowcolor{gray!20}Up to 6 meters& 6 × charges in staff\\
 Up to 9 meters& 4 × charges in staff
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -25809,10 +25786,8 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lX}
-	\toprule
-\rowcolor{gray!20}\textbf{d100} & \textbf{Effect}\\
-\toprule
+\begin{multicoltab}{lX}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{d100} & \textbf{Effect}}\\
 01 &5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour.\\
 \rowcolor{gray!20}02-10 &A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Game Master's choice) 9 meters into the air for 1d12 rounds.\\
 11-20 &A \hyperlink{Tree Man (Arborom)}{treant} sprouts. There's a 50\% chance that the treant is evil and attacks you.\\
@@ -25823,11 +25798,9 @@ The fire ignites flammable objects in the area that aren't being worn or carried
 \rowcolor{gray!20}61-70 &A bulette bursts out of the ground and attacks.\\
 71-80 &A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. \\
 \rowcolor{gray!20}81-90 &A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly if there is a tie; if it fails, it takes 10d6 force damage.\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
 91-99 &A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Game Master's choice.\\
 \rowcolor{gray!20}100 &A giant beanstalk grows on the spot, rising to a height of the Game Master's choice. The top leads wherever the Game Master wishes, be it to a cloud giant's castle or another plane of existence.
-\end{tabularx}
+\end{multicoltab}
 %\noindent\begin{tabularx}{\linewidth}{lX}
 %\textbf{d100} & \textbf{Effect}\\
 %\hline
@@ -25859,19 +25832,13 @@ this painted brass \textbf{bottle} weighs 500 grams. When you use two actions to
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lX}
-	\toprule
- \rowcolor{gray!20}\textbf{3d6} &\textbf{Effect}\\
-	\toprule
+\begin{multicoltab}{lX}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{3d6} &\textbf{Effect}}\\
  \rowcolor{gray!20}3-5 & The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic.\\
  \rowcolor{gray!20}6-16 &The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it.\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
-\rowcolor{gray!20}\textbf{3d6} &\textbf{Effect}\\
-\toprule
-&The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.\\
+ &The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic.\\
 \rowcolor{gray!20}17-18 & The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic.\\
-\end{tabularx}
+\end{multicoltab}
 
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{immagini/genielamp.png}
@@ -26012,16 +25979,14 @@ There are four variants of this belt, each corresponding to a kind of true giant
 
 \medskip
 
-\noindent\begin{tabular}{lll}
-	\toprule
-	\textbf{Giant Type}& \textbf{Strength} &\textbf{Rarity}\\
-	\toprule
+\begin{multicoltab}{lll}
+\mchead[\toprule][\midrule]{\textbf{Giant Type}& \textbf{Strength} &\textbf{Rarity}}\\
  \rowcolor{gray!20}\textbf{Hill} &5& Rare\\
 	\textbf{Stone/Frost}& 6 &Very rare\\
  \rowcolor{gray!20}\textbf{Fire} &7& Very rare\\
 	\textbf{Cloud} &8& Legendary\\
  \rowcolor{gray!20}\textbf{Storm}& 9& Legendary
-\end{tabular}
+\end{multicoltab}
 
 \oggettomagico{Belt of Dwarvenkind}
 
@@ -26057,17 +26022,15 @@ There are six types of magic beads. The Game Master decides the type of each bea
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{llX}
-	\toprule
- \rowcolor{gray!20}\textbf{3d6} &\textbf{Bead of...} &\textbf{Spell}\\
-	\toprule
+\begin{multicoltab}{llX}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{3d6} &\textbf{Bead of...} &\textbf{Spell}}\\
 	3-5 &Blessing &Bless\\
  \rowcolor{gray!20}6-11& Curing &Cure wounds 5 or Lesser restoration\\
 	12-14 &Divine Favor& Greater restoration\\
  \rowcolor{gray!20}15-16& Smiting &Branding smite\\
 	17 &Wind Walking& Wind walk\\
  \rowcolor{gray!20}18 &Summons &Blade barrier
-\end{tabularx}
+\end{multicoltab}
 
 \oggettomagico{Necklace of Adaptation}
 
@@ -26165,16 +26128,14 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{ll}
-	\toprule
- \rowcolor{gray!20}\textbf{Spell or Item} &\textbf{Charges Lost}\\
-	\toprule
+\begin{multicoltab}{ll}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{Spell or Item} &\textbf{Charges Lost}}\\
 	Arcane dart (3 shots) &1\\
  \rowcolor{gray!20}Disintegrate &1d12\\
 	Wall of fire &1d4\\
  \rowcolor{gray!20}Passwall& 1d6\\
 	Prismatic spray &3d6
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -26182,17 +26143,15 @@ Below are the properties of each activatable face and its related charge cost.
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{ccX}
-	\toprule
- \rowcolor{gray!20}\textbf{Face} & \textbf{Cost}& \textbf{Effect}\\
-	\toprule
+\begin{multicoltab}{ccX}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{Face} & \textbf{Cost}& \textbf{Effect}}\\
 	1&1 & Gases, wind, and fog cannot pass through the barrier\\
  \rowcolor{gray!20}2&2 & Nonliving matter cannot pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.\\
 	3&3 & Living matter cannot pass through the barrier.\\
  \rowcolor{gray!20}4&4 & Spell effects cannot pass through the barrier.\\
 	5&5 & Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion.\\
  \rowcolor{gray!20}6&0 & The barrier deactivates.
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -26522,15 +26481,13 @@ this \textbf{gem} contains a spark of elemental energy. When you use two actions
 
 \medskip
 
-\noindent\begin{tabular}{ll}
-	\toprule
- \rowcolor{gray!20}\textbf{Gem} &\textbf{Summoned elemental}\\
-	\toprule
+\begin{multicoltab}{ll}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{Gem} &\textbf{Summoned elemental}}\\
 	Red corundum& Fire elemental\\
  \rowcolor{gray!20}Yellow diamond& Earth elemental\\
 	Emerald &Water elemental\\
  \rowcolor{gray!20}Blue sapphire&Air elemental
-\end{tabular}
+\end{multicoltab}
 
 \medskip
 
@@ -26725,15 +26682,13 @@ Once you finish creating the golem, the book is consumed by arcane flames. The g
 
 \medskip
 
-\noindent\begin{tabular}{llll}
-	\toprule
- \rowcolor{gray!20}3d6 &Golem &Time &Cost\\
-	\toprule
+\begin{multicoltab}{llll}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}3d6 &Golem &Time &Cost}\\
 	3-4 &Clay &30 days &65000 gp\\
  \rowcolor{gray!20}5-16 &Flesh &60 days& 50000 gp\\
 	17 &Iron &120 days &100000 gp\\
  \rowcolor{gray!20}18 &Stone& 90 days &80000 gp
-\end{tabular}
+\end{multicoltab}
 
 \medskip
 
@@ -26786,10 +26741,8 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lX}
-	\toprule
- \rowcolor{gray!20}\textbf{Playing Card} & \textbf{Illusion} \\
-	\toprule
+\begin{multicoltab}{lX}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{Playing Card} & \textbf{Illusion}}\\
 	Ace of hearts & Red dragon \\
  \rowcolor{gray!20}King of hearts & Knight and four guards \\
 	Queen of hearts & Succubus or incubus \\
@@ -26813,11 +26766,6 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 	Ten of diamonds & Fire giant \\
  \rowcolor{gray!20}Nine of diamonds & Oni \\
 	Eight of diamonds & Gnoll \\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
-\toprule
-\rowcolor{gray!20}\textbf{Playing Card} & \textbf{Illusion} \\
-\toprule
 	Two of diamonds & Kobold \\
  \rowcolor{gray!20}Ace of clubs & Iron golem \\
 	King of clubs & Bandit captain and three bandits \\
@@ -26828,7 +26776,7 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
  \rowcolor{gray!20}Eight of clubs & Orc \\
 	Two of clubs & Kobold \\
  \rowcolor{gray!20}Joker (2) & You (the owner of the deck) \\
-\end{tabularx}
+\end{multicoltab}
 
 \medskip
 
@@ -26844,11 +26792,8 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 
 \medskip
 
-\begin{adjustbox}{max width=0.5\textwidth}
-	\noindent\begin{tabular}{>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}>{\raggedright\arraybackslash}p{0.15\textwidth}|>{\raggedright\arraybackslash}p{0.1\textwidth}}
-		\toprule
-  \rowcolor{gray!20}\textbf{Playing Card} & \textbf{Card} & \textbf{Playing Card} & \textbf{Card} \\
-		\toprule
+\begin{multicoltab}{@{}p{.28\linewidth}|p{.14\linewidth}p{.28\linewidth}|p{.14\linewidth}@{}}
+\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{Playing Card} & \textbf{Card} & \textbf{Playing Card} & \textbf{Card}}\\
 		Ace of diamonds & Vizier* & Ace of hearts & Fates* \\
   \rowcolor{gray!20}King of diamonds & Sun & King of hearts & Throne \\
 		Queen of diamonds & Moon & Queen of hearts & Key \\
@@ -26860,8 +26805,7 @@ You must draw each card within 1 hour of the previous draw. If you don't draw th
 		Jack of clubs & Skull & Two of spades & Balance* \\
   \rowcolor{gray!20}Two of clubs & Idiot & Joker & Fool* \\
 		Joker & Jester & & \\
-	\end{tabular}
-\end{adjustbox}
+\end{multicoltab}
 
 \medskip
 
@@ -27783,16 +27727,14 @@ There are four sizes of flying carpet. The Game Master chooses the carpet's size
 
 \medskip
 
-\noindent\begin{tabular}{cccc}
-	\toprule
-	\textbf{d100} & \multicolumn{1}{c}{\textbf{Size}} & \textbf{Capacity} & \multicolumn{1}{c}{\textbf{Flying}} \\
-	& \multicolumn{1}{c}{\textbf{(cm)}} &\textbf{(Enc.)} & \multicolumn{1}{c}{\textbf{Speed}} \\
-	\toprule
+\begin{multicoltab}{cccc}
+\mchead[\toprule][\midrule]{\textbf{d100} & \multicolumn{1}{c}{\textbf{Size}} & \textbf{Capacity} & \multicolumn{1}{c}{\textbf{Flying}} \\
+	& \multicolumn{1}{c}{\textbf{(cm)}} &\textbf{(Enc.)} & \multicolumn{1}{c}{\textbf{Speed}}}\\
  \rowcolor{gray!20}01--20 & 90 × 150 & 100 kg / 25 & 23 m \\
 	21--55 & 120 × 180 & 200 kg / 50 & 18 m \\
  \rowcolor{gray!20}56--80 & 150 × 210 & 300 kg / 75 & 12 m \\
 	81--100 & 180 × 270 & 400 kg / 100 & 9 m \\
-\end{tabular}
+\end{multicoltab}
 
 \medskip
 The Capacity value indicates both the weight carried and the Encumbrance. The carpet can carry up to double the load indicated in the table, but flies at half speed if it carries more.
@@ -27897,10 +27839,8 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lX}
-	\toprule
- \rowcolor{gray!20}\textbf{d100} & \textbf{Effect}\\
-\toprule
+\begin{multicoltab}{lX}
+	\mchead[\toprule][\midrule]{\rowcolor{gray!20}\textbf{d100} & \textbf{Effect}}\\
 	01-08 &Bag with 100 gp.\\
  \rowcolor{gray!20}09-15& Silver chest (30 cm long, 15 cm wide and deep) worth 500 gp.\\
 	16-22& Iron door (up to 3 meters wide and high, barred on the side of your choice), which you can place on any opening within reach; it fits into the opening, attaching and creating hinges.\\
@@ -27910,14 +27850,11 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 	52-59 & Pit (a 3-meter cube), which you can place on the ground within 3 meters of you.\\
  \rowcolor{gray!20}60-68 &4 potions of healing. \\
 	69-75 &Rowboat (4 meters long).\\
-\end{tabularx}
-\noindent\begin{tabularx}{\linewidth}{lX}
- \rowcolor{gray!20}\textbf{d100} & \textbf{Effect}\\
 	76-83& Spell scroll containing a spell of 1st to 3rd level.\\
  \rowcolor{gray!20}84-90& Two mastiffs.\\
 	91-96 &Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach.\\
  \rowcolor{gray!20}97-100 &Portable ram.
-\end{tabularx}
+\end{multicoltab}
 
 %\begin{multicols}{2}
 

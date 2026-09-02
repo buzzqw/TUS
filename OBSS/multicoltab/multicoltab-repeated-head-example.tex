@@ -1,0 +1,39 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{booktabs}
+\usepackage{multicol}
+\usepackage{multicoltab}
+
+\newcommand{\InventoryHead}{\textbf{Item} & \textbf{Description}}
+
+\begin{document}
+
+\section*{Forced column break}
+
+\begin{multicols}{2}
+\begin{multicoltab}{@{}p{1.8cm}X@{}}
+  \mchead[\toprule][\midrule]{\InventoryHead} \\
+  Armor & Reduces the damage received by a character. \\
+  Shield & Can improve the character's defense. \\
+
+  \multicoltabbreak \\
+  Torch & Provides light in dark places. \\
+  Rope & Useful for climbing and securing equipment. \\
+\end{multicoltab}
+\end{multicols}
+
+\newpage
+\section*{Manual page continuation}
+
+\begin{multicoltab}{@{}p{1.8cm}X@{}}
+  \mchead[\toprule][\midrule]{\InventoryHead} \\
+  Map & Helps the group avoid getting lost. \\
+  \mcheadrepeat \\
+  Compass & Points toward magnetic north. \\
+
+  \multicoltabpagebreak \\
+  Rations & Food and water for the journey. \\
+  Bedroll & Makes a camp more comfortable. \\
+\end{multicoltab}
+
+\end{document}

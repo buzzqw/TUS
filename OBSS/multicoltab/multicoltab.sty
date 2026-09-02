@@ -1,0 +1,383 @@
+% multicoltab.sty -- breakable table rows for multicols and ordinary pages
+% Copyright (C) 2026 Andres Zanzani <azanzani@gmail.com>
+%
+% This work may be distributed and/or modified under the conditions of the
+% LaTeX Project Public License, either version 1.3c of this license or (at
+% your option) any later version. The latest version of this license is at
+% https://www.latex-project.org/lppl.txt and version 1.3c or later is part of
+% all distributions of LaTeX version 2008 or later.
+%
+% This work has the LPPL maintenance status "maintained".
+% The Current Maintainer of this work is Andres Zanzani <azanzani@gmail.com>.
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{multicoltab}[2026/09/02 v0.6 Breakable table rows]
+
+\RequirePackage{xparse}
+\RequirePackage{array}
+\RequirePackage{tabularx}
+\RequirePackage{keyval}
+
+\makeatletter
+
+% Each source row becomes its own tabularx. multicols can consequently break
+% between rows without replacing its own page and column output routine.
+\newif\ifmulticoltab@active
+\newif\ifmulticoltab@hashead
+\newif\ifmulticoltab@measure
+\def\multicoltab@preamble{}
+\def\multicoltab@begin{}
+\def\multicoltab@headbefore{}
+\def\multicoltab@headafter{}
+\def\multicoltab@headcells{}
+\newlength\multicoltab@width
+\newlength\multicoltab@rowsep
+\newcount\multicoltab@breakpenalty
+
+\ExplSyntaxOn
+\seq_new:N \l_multicoltab_column_kinds_seq
+\seq_new:N \l_multicoltab_column_widths_seq
+\seq_new:N \l_multicoltab_cells_seq
+\tl_new:N \l_multicoltab_preamble_tl
+\tl_new:N \l_multicoltab_output_preamble_tl
+\tl_new:N \l_multicoltab_measured_width_tl
+\int_new:N \l_multicoltab_column_int
+\int_new:N \l_multicoltab_cell_int
+\box_new:N \l_multicoltab_measure_box
+\dim_new:N \l_multicoltab_cell_width_dim
+\cs_generate_variant:Nn \seq_set_item:Nnn {NnV}
+
+\cs_new_protected:Npn \multicoltab_scan_preamble: {
+  \seq_clear:N \l_multicoltab_column_kinds_seq
+  \int_zero:N \l_multicoltab_column_int
+  \exp_args:NNo \tl_set:Nn \l_multicoltab_preamble_tl \multicoltab@preamble
+  \tl_map_inline:Nn \l_multicoltab_preamble_tl {
+    \tl_if_single_token:nTF {##1}
+      {
+        \token_if_eq_charcode:NNTF ##1 l
+          { \multicoltab_add_column_kind:n {l} }
+          {
+            \token_if_eq_charcode:NNTF ##1 c
+              { \multicoltab_add_column_kind:n {c} }
+              {
+                \token_if_eq_charcode:NNTF ##1 r
+                  { \multicoltab_add_column_kind:n {r} }
+                  {
+                    \token_if_eq_charcode:NNTF ##1 X
+                      { \multicoltab_add_column_kind:n {X} }
+                      {
+                        \token_if_eq_charcode:NNTF ##1 p
+                          { \multicoltab_add_column_kind:n {F} }
+                          {
+                            \token_if_eq_charcode:NNTF ##1 m
+                              { \multicoltab_add_column_kind:n {F} }
+                              {
+                                \token_if_eq_charcode:NNTF ##1 b
+                                  { \multicoltab_add_column_kind:n {F} }
+                                  {
+                                    \token_if_eq_charcode:NNTF ##1 w
+                                      { \multicoltab_add_column_kind:n {F} }
+                                      {
+                                        \token_if_eq_charcode:NNT ##1 W
+                                          { \multicoltab_add_column_kind:n {F} }
+                                      }
+                                  }
+                              }
+                          }
+                      }
+                  }
+              }
+          }
+      }
+      {}
+  }
+  \seq_clear:N \l_multicoltab_column_widths_seq
+  \int_step_inline:nn { \l_multicoltab_column_int }
+    { \seq_put_right:Nn \l_multicoltab_column_widths_seq {0pt} }
+}
+
+\cs_new_protected:Npn \multicoltab_add_column_kind:n #1 {
+  \int_incr:N \l_multicoltab_column_int
+  \seq_put_right:Nn \l_multicoltab_column_kinds_seq {#1}
+}
+
+\cs_new_protected:Npn \multicoltab_measure_cells:n #1 {
+  \cs_set:Npn \multicolumn ##1##2##3 {##3}
+  \cs_set:Npn \newline { \space }
+  \cs_set:Npn \multicoltab_discard_rowcolor: {
+    \peek_charcode:NTF [
+      { \multicoltab_discard_rowcolor_optional:w }
+      { \multicoltab_discard_rowcolor_mandatory:w }
+  }
+  \cs_set:Npn \multicoltab_discard_rowcolor_optional:w [##1]##2 {}
+  \cs_set:Npn \multicoltab_discard_rowcolor_mandatory:w ##1 {}
+  \cs_set_eq:NN \rowcolor \multicoltab_discard_rowcolor:
+  \exp_args:NNNo \seq_set_split:Nnn \l_multicoltab_cells_seq { & } {#1}
+  \int_zero:N \l_multicoltab_cell_int
+  \seq_map_inline:Nn \l_multicoltab_cells_seq {
+    \int_incr:N \l_multicoltab_cell_int
+    \int_compare:nNnT
+      { \int_use:N \l_multicoltab_cell_int } <
+        { \int_eval:n { \l_multicoltab_column_int + 1 } }
+      {
+        \hbox_set:Nn \l_multicoltab_measure_box {\strut ##1}
+        \dim_set:Nn \l_multicoltab_cell_width_dim
+          { \seq_item:Nn \l_multicoltab_column_widths_seq
+              {\int_use:N \l_multicoltab_cell_int} }
+        \dim_compare:nNnT
+          { \box_wd:N \l_multicoltab_measure_box }
+          > { \l_multicoltab_cell_width_dim }
+          {
+            % Leave a small allowance for the paragraph-box setup used by p.
+            \tl_set:Nx \l_multicoltab_measured_width_tl
+              {\dim_eval:n {\box_wd:N \l_multicoltab_measure_box + 1pt}}
+            \seq_set_item:NnV \l_multicoltab_column_widths_seq
+              {\int_use:N \l_multicoltab_cell_int}
+              \l_multicoltab_measured_width_tl
+          }
+      }
+  }
+}
+
+\cs_new_protected:Npn \multicoltab_build_output_preamble: {
+  \tl_clear:N \l_multicoltab_output_preamble_tl
+  \int_zero:N \l_multicoltab_column_int
+  \tl_map_inline:Nn \l_multicoltab_preamble_tl {
+    \tl_if_single_token:nTF {##1}
+      {
+        \token_if_eq_charcode:NNTF ##1 l
+          { \multicoltab_add_output_column:n {l} }
+          {
+            \token_if_eq_charcode:NNTF ##1 c
+              { \multicoltab_add_output_column:n {c} }
+              {
+                \token_if_eq_charcode:NNTF ##1 r
+                  { \multicoltab_add_output_column:n {r} }
+                  {
+                    \token_if_eq_charcode:NNTF ##1 X
+                      { \multicoltab_add_output_column:n {X} }
+                      {
+                        \token_if_eq_charcode:NNTF ##1 p
+                          { \multicoltab_add_fixed_source_column:n {p} }
+                          {
+                            \token_if_eq_charcode:NNTF ##1 m
+                              { \multicoltab_add_fixed_source_column:n {m} }
+                              {
+                                \token_if_eq_charcode:NNTF ##1 b
+                                  { \multicoltab_add_fixed_source_column:n {b} }
+                                  {
+                                    \token_if_eq_charcode:NNTF ##1 w
+                                      { \multicoltab_add_fixed_source_column:n {w} }
+                                      {
+                                        \token_if_eq_charcode:NNTF ##1 W
+                                          { \multicoltab_add_fixed_source_column:n {W} }
+                                          { \tl_put_right:Nn \l_multicoltab_output_preamble_tl {##1} }
+                                      }
+                                  }
+                              }
+                          }
+                      }
+                  }
+              }
+          }
+      }
+      { \tl_put_right:Nn \l_multicoltab_output_preamble_tl {{##1}} }
+  }
+}
+
+\cs_new_protected:Npn \multicoltab_add_fixed_source_column:n #1 {
+  \int_incr:N \l_multicoltab_column_int
+  \tl_put_right:Nn \l_multicoltab_output_preamble_tl {#1}
+}
+
+\cs_new_protected:Npn \multicoltab_add_output_column:n #1 {
+  \int_incr:N \l_multicoltab_column_int
+  \str_case:nnF {#1}
+    {
+      {X} { \tl_put_right:Nn \l_multicoltab_output_preamble_tl {X} }
+      {l} { \multicoltab_add_fixed_column:n {l} }
+      {c} { \multicoltab_add_fixed_column:n {c} }
+      {r} { \multicoltab_add_fixed_column:n {r} }
+    }
+    { \tl_put_right:Nn \l_multicoltab_output_preamble_tl {#1} }
+}
+
+\cs_new_protected:Npn \multicoltab_add_fixed_column:n #1 {
+  \tl_if_eq:nnTF {#1} {c}
+    { \tl_put_right:Nn \l_multicoltab_output_preamble_tl
+        {>{\centering\arraybackslash}p} }
+    { \tl_if_eq:nnTF {#1} {r}
+        { \tl_put_right:Nn \l_multicoltab_output_preamble_tl
+            {>{\raggedleft\arraybackslash}p} }
+        { \tl_put_right:Nn \l_multicoltab_output_preamble_tl {p} } }
+  \tl_put_right:Nx \l_multicoltab_output_preamble_tl
+    { {\seq_item:Nn \l_multicoltab_column_widths_seq
+        {\int_use:N \l_multicoltab_column_int}} }
+}
+
+\cs_new_protected:Npn \multicoltab_prepare:n #1 {
+  \multicoltab_scan_preamble:
+  \let\multicoltab@savedmulticolumn\multicolumn
+  \let\multicoltab@savednewline\newline
+  \let\multicoltab@savedrowcolor\rowcolor
+  \multicoltab@measuretrue
+  \multicoltab@hasheadfalse
+  \multicoltab@parser #1\\\multicoltab@stop
+  \let\multicolumn\multicoltab@savedmulticolumn
+  \let\newline\multicoltab@savednewline
+  \let\rowcolor\multicoltab@savedrowcolor
+  \multicoltab@measurefalse
+  \multicoltab@hasheadfalse
+  \multicoltab_build_output_preamble:
+  \edef\multicoltab@begin{
+    \noexpand\begin{tabularx}{\the\multicoltab@width}
+      {\exp_not:V \l_multicoltab_output_preamble_tl}}
+}
+\cs_new_eq:NN \multicoltab@measurecells \multicoltab_measure_cells:n
+\cs_new_eq:NN \multicoltab@prepare \multicoltab_prepare:n
+\ExplSyntaxOff
+
+\define@key{multicoltab}{width}{\setlength\multicoltab@width{#1}}
+\define@key{multicoltab}{row-sep}{\setlength\multicoltab@rowsep{#1}}
+\define@key{multicoltab}{break-penalty}{%
+  \multicoltab@breakpenalty=#1\relax
+}
+
+\newcommand{\multicoltab@start}[2]{%
+  \par
+  \begingroup
+  \multicoltab@activetrue
+  \multicoltab@hasheadfalse
+  \setkeys{multicoltab}{%
+    width=\linewidth,row-sep=0pt,break-penalty=0,#1}%
+  \def\multicoltab@preamble{#2}%
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{0pt}%
+}
+
+\newcommand{\multicoltab@end}{%
+  \par
+  \multicoltab@activefalse
+  \endgroup
+}
+
+\newcommand{\multicoltab@check}{%
+  \ifmulticoltab@active\else
+    \PackageError{multicoltab}{Table command used outside multicoltab}%
+      {Put the command between \string\begin{multicoltab} and
+       \string\end{multicoltab}.}%
+  \fi
+}
+
+\newcommand{\multicoltab@finishrow}[1]{%
+  \par
+  \nointerlineskip
+  \vskip\multicoltab@rowsep
+  \ifx#1*%
+    \nobreak
+  \else
+    \penalty\multicoltab@breakpenalty
+  \fi
+}
+
+\newcommand{\multicoltab@emitrow}[4]{%
+  \ifmulticoltab@measure
+    \multicoltab@measurecells{#4}%
+  \else
+    \noindent
+    \multicoltab@begin
+      #2#4\\#3%
+    \end{tabularx}%
+    \multicoltab@finishrow{#1}%
+  \fi
+}
+
+\newcommand{\multicoltab@sethead}[3]{%
+  \def\multicoltab@headbefore{#1}%
+  \def\multicoltab@headafter{#2}%
+  \def\multicoltab@headcells{#3}%
+  \multicoltab@hasheadtrue
+  \multicoltab@repeathead
+}
+
+\newcommand{\multicoltab@repeathead}{%
+  \ifmulticoltab@hashead
+    \multicoltab@emitrow{*}{\multicoltab@headbefore}%
+      {\multicoltab@headafter}{\multicoltab@headcells}%
+  \else
+    \PackageError{multicoltab}{Heading repeated before it was declared}%
+      {Declare a heading with \string\mchead first.}%
+  \fi
+}
+
+% The body parser recognizes ordinary rows, headings, and explicit breaks.
+% TeX ignores delimiters inside braces, so a nested table or grouped line break
+% does not split the outer row.
+\ExplSyntaxOn
+\tl_new:N \l_multicoltab_row_tl
+\cs_new_protected:Npn \multicoltab@parser #1\\#2\multicoltab@stop
+  {
+    \tl_set:Nn \l_multicoltab_row_tl {#1}
+    \tl_replace_all:Nnn \l_multicoltab_row_tl { \par } { }
+    \tl_trim_spaces:N \l_multicoltab_row_tl
+    \tl_if_blank:VF \l_multicoltab_row_tl
+      { \exp_args:NV \multicoltab@dispatch \l_multicoltab_row_tl }
+    \tl_if_blank:nF {#2} { \multicoltab@parser #2\multicoltab@stop }
+  }
+\ExplSyntaxOff
+
+\newcommand{\multicoltab@dispatch}[1]{%
+  \def\multicoltab@rowcontents{#1}%
+  \expandafter\multicoltab@dispatch@next\multicoltab@rowcontents
+    \multicoltab@row@stop
+}
+
+\def\multicoltab@dispatch@next{%
+  \@ifnextchar\mchead{\multicoltab@parse@shorthead}{%
+  \@ifnextchar\multicoltabbreak{\multicoltab@parse@columnbreak}{%
+  \@ifnextchar\multicoltabpagebreak{\multicoltab@parse@pagebreak}{%
+  \@ifnextchar\mcheadrepeat{\multicoltab@parse@repeathead}{%
+    \multicoltab@parse@normal}}}}}
+
+\def\multicoltab@parse@shorthead\mchead{\multicoltab@parse@head}
+\def\multicoltab@parse@head{%
+  \@ifnextchar[{\multicoltab@parse@head@one}{\multicoltab@parse@head@zero}}
+\def\multicoltab@parse@head@zero{\multicoltab@parse@head@emit[][]}
+\def\multicoltab@parse@head@one[#1]{%
+  \@ifnextchar[{\multicoltab@parse@head@two{#1}}%
+    {\multicoltab@parse@head@emit[#1][]}}
+\def\multicoltab@parse@head@two#1[#2]{%
+  \multicoltab@parse@head@emit[#1][#2]}
+\long\def\multicoltab@parse@head@emit[#1][#2]#3#4\multicoltab@row@stop{%
+  \multicoltab@sethead{#1}{#2}{#3}}
+
+\long\def\multicoltab@parse@columnbreak\multicoltabbreak#1\multicoltab@row@stop{%
+  \columnbreak[4]\multicoltab@repeathead}
+\long\def\multicoltab@parse@pagebreak\multicoltabpagebreak#1\multicoltab@row@stop{%
+  \newpage\multicoltab@repeathead}
+\long\def\multicoltab@parse@repeathead\mcheadrepeat#1\multicoltab@row@stop{%
+  \multicoltab@repeathead}
+\long\def\multicoltab@parse@normal#1\multicoltab@row@stop{%
+  \multicoltab@emitrow{}{}{}{#1}}
+
+% Public markers interpreted by the parser. They intentionally fail outside a
+% multicoltab body, where a row delimiter is unavailable.
+\newcommand{\multicoltab@outsideerror}[1]{%
+  \PackageError{multicoltab}{#1 used outside multicoltab}%
+    {Use this command as a complete row inside multicoltab.}}
+\newcommand{\mchead}{\multicoltab@outsideerror{\string\mchead}}
+\newcommand{\mcheadrepeat}{%
+  \multicoltab@outsideerror{\string\mcheadrepeat}}
+\newcommand{\multicoltabbreak}{\multicoltab@outsideerror{\string\multicoltabbreak}}
+\newcommand{\multicoltabpagebreak}{%
+  \multicoltab@outsideerror{\string\multicoltabpagebreak}}
+
+\NewDocumentEnvironment{multicoltab}{O{} m +b}{%
+  \multicoltab@start{#1}{#2}%
+  \multicoltab@prepare{#3}%
+  \multicoltab@parser #3\\\multicoltab@stop
+  \multicoltab@end
+}{}
+
+\makeatother
+
+\endinput

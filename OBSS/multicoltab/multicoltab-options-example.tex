@@ -1,0 +1,26 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[margin=2cm]{geometry}
+\usepackage{booktabs}
+\usepackage[table]{xcolor}
+\usepackage{multicol}
+\usepackage{multicoltab}
+
+\begin{document}
+
+\begin{multicols}{2}
+\section*{Table options}
+
+\begin{multicoltab}[width=.96\linewidth,row-sep=.6ex,break-penalty=50]
+  {@{}p{.30\linewidth}X@{}}
+  \mchead[\toprule][\midrule]
+    {\textbf{Command} & \textbf{Effect}} \\
+  \rowcolor{gray!15}
+  width & Changes the width from the default \texttt{\string\linewidth}. \\
+  row-sep & Adds vertical space after every row. \\
+  \rowcolor{gray!15}
+  break-penalty & Adjusts TeX's preferred break after a normal row. \\
+\end{multicoltab}
+
+\end{multicols}
+
+\end{document}
