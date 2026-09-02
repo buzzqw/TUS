@@ -4,15 +4,14 @@
 \usepackage{multicol}
 \usepackage{multicoltab}
 
-\newcommand{\InventoryHead}{\textbf{Item} & \textbf{Description}}
-
 \begin{document}
 
 \section*{Forced column break}
 
 \begin{multicols}{2}
 \begin{multicoltab}{@{}p{1.8cm}X@{}}
-  \mchead[\toprule][\midrule]{\InventoryHead} \\
+  \mchead[\toprule][\midrule]
+    {\textbf{Item} & \textbf{Description}} \\
   Armor & Reduces the damage received by a character. \\
   Shield & Can improve the character's defense. \\
 
@@ -26,7 +25,8 @@
 \section*{Manual page continuation}
 
 \begin{multicoltab}{@{}p{1.8cm}X@{}}
-  \mchead[\toprule][\midrule]{\InventoryHead} \\
+  \mchead[\toprule][\midrule]
+    {\textbf{Item} & \textbf{Description}} \\
   Map & Helps the group avoid getting lost. \\
   \mcheadrepeat \\
   Compass & Points toward magnetic north. \\

@@ -5564,33 +5564,6 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Tiro Rapido *(Des 3, Tiro Preciso, CA 2)* |
 | Uno con l'arco *(CA 4 / Des 3, CA 7)* |
 
-### Druido
-
-| Adepto della Magia *(CM 1, ripetibile CM/2)* |
-| Animalia *(CM 2, Seguace/Devoto Efrem/Shayalia)* |
-| Distillare pozioni *(CM 1)* |
-| Elementalista *(CM 3, 4+ incantesimi da Lista di Magia Elementale)* |
-| Figlia di Shayalia *(Devoto Shayalia, Tratti 5+, CM 3)* |
-| Forma Elementale *(Seguace/Devoto Erondil/Gaya/Efrem/Shayalia, 3+ incantesimi da 2 Liste Elementari diverse, CM 6)* |
-| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
-| Sangue Puro *(Animalia, Devoto Efrem/Shayalia)* |
-
-### Chierico
-
-| Adepto della Magia *(CM 1, ripetibile CM/2)* |
-| Armatura del Devoto *(Devoto, Tratti 3+)* |
-| Dattilografo *(CM 1)* |
-| Fedele *(CM 1, Tratti 2+, Devoto, ripetibile Tratti/3)* |
-| Guaritore *(Sag 2)* |
-| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
-| Il Patrono è la mia Arma *(Seguace, Tratti 1+, CM 1)* |
-| Imposizione delle mani *(Devoto/Seguace, Tratti 3+, CM 1)* |
-| Incanalare Energia *(Imposizione delle mani, Tratti 4+, CM 1)* |
-| Potere del Patrono *(Devoto, Tratti 1+, CM 1)* |
-| Scacciare i non morti *(Devoto/Seguace, Tratti 2+, CM 1)* |
-| Specialista *(CM 3, ripetibile CM/4)* |
-| Tutt'uno con la magia *(Adepto della Magia, CM 1)* |
-
 ### Mago/Stregone
 
 | Adepto della Magia *(CM 1, ripetibile CM/2)* |
@@ -5617,6 +5590,33 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Un colpo un morto *(CM 1, Adepto della Magia)* |
 | Un solo corpo, una sola mente, un solo spirito *(Nessun requisito)* |
 | Un solo credo *(CM 2)* |
+
+### Druido
+
+| Adepto della Magia *(CM 1, ripetibile CM/2)* |
+| Animalia *(CM 2, Seguace/Devoto Efrem/Shayalia)* |
+| Distillare pozioni *(CM 1)* |
+| Elementalista *(CM 3, 4+ incantesimi da Lista di Magia Elementale)* |
+| Figlia di Shayalia *(Devoto Shayalia, Tratti 5+, CM 3)* |
+| Forma Elementale *(Seguace/Devoto Erondil/Gaya/Efrem/Shayalia, 3+ incantesimi da 2 Liste Elementari diverse, CM 6)* |
+| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
+| Sangue Puro *(Animalia, Devoto Efrem/Shayalia)* |
+
+### Chierico
+
+| Adepto della Magia *(CM 1, ripetibile CM/2)* |
+| Armatura del Devoto *(Devoto, Tratti 3+)* |
+| Dattilografo *(CM 1)* |
+| Fedele *(CM 1, Tratti 2+, Devoto, ripetibile Tratti/3)* |
+| Guaritore *(Sag 2)* |
+| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
+| Il Patrono è la mia Arma *(Seguace, Tratti 1+, CM 1)* |
+| Imposizione delle mani *(Devoto/Seguace, Tratti 3+, CM 1)* |
+| Incanalare Energia *(Imposizione delle mani, Tratti 4+, CM 1)* |
+| Potere del Patrono *(Devoto, Tratti 1+, CM 1)* |
+| Scacciare i non morti *(Devoto/Seguace, Tratti 2+, CM 1)* |
+| Specialista *(CM 3, ripetibile CM/4)* |
+| Tutt'uno con la magia *(Adepto della Magia, CM 1)* |
 
 ### Monaco
 
@@ -14546,14 +14546,12 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 
 **Tira e somma 2d10, consulta la tabella**
 
-| **\#** | **Effetto** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**\#** | **Effetto**} |
 | 2 | Il proiettile è difettoso, per fortuna non ci sono altri problemi. Costa una Azione togliere il proiettile inceppato. |
 | 3 | Il proiettile si è incastrato. Costa due Azioni togliere il proiettile inceppato. |
 | 4 | L'aver mancato ti lascia esitante, perdi 1 Azione. |
-
-| **\#** | **Effetto** |
-|---|---|
 | 5 | Il mirino è impreciso. Il prossimo colpo ha -2 al Tiro per Colpire. |
 | 6 | Spari inavvertitamente due colpi/raffiche. Il secondo non colpisce nessuno e fa solo consumare proiettili. |
 | 7 | L'arma non è adeguatamente lubrificata. Inserire il prossimo caricatore costa 1 round intero. |
@@ -14570,6 +14568,8 @@ Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un prob
 | 18 | Il rumore è talmente forte che il personaggio è assordato per 1 minuto. |
 | 19 | Il proiettile è esploso nella canna danneggiandola. È necessaria una prova di Artigianato DC 21 per ripristinare l'arma, 1 turno. |
 | 20 | L'intero caricatore è esploso. Subisci danno come se metà dei proiettili rimasti nell'arma ti colpissero. L'arma e proiettili sono distrutti. |
+
+\end{multicoltab}
 
 ---
 
@@ -14790,7 +14790,9 @@ Come Narratore usate sempre il buon senso nelle richieste valutate bene la tipol
 
 In base alla tipologia di campagna potrebbero essere disponibili ulteriori oggetti quali armi da fuoco o alchemici.
 
-| **Oggetto** | **Costo** | **Ing.** |
+\begin{multicoltab}
+
+| \mchead[][]{**Oggetto** | **Costo** | **Ing.**} |
 | --- | --- | --- |
 | Abaco | 2 mo | L |
 | Abito da Monaco | 5 mo | 1 |
@@ -14828,9 +14830,6 @@ In base alla tipologia di campagna potrebbero essere disponibili ulteriori ogget
 | Birra Boccale | 5 mr | L |
 | Birra Caraffa | 2 ma | L |
 | Boccale di ceramica | 2 mr | L |
-
-| **Oggetto** | **Costo** | **Ing.** |
-| --- | --- | --- |
 | Boccetta di inchiostro | 1 mo | L |
 | Borsa | 5 ma | L |
 | Alchimista (laboratorio) | 200 mo | 5 |
@@ -14892,9 +14891,6 @@ In base alla tipologia di campagna potrebbero essere disponibili ulteriori ogget
 | Olio da lanterna | 1 ma | 1 |
 | Orologio ad acqua | 900 mo | - |
 | Otre | 1 mo | 2 |
-
-| **Oggetto** | **Costo** | **Ing.** |
-| --- | --- | --- |
 | Manette | 15 mo | L |
 | Pala o badile | 2 mo | 1 |
 | Pane (a pagnotta) | 2 mr | - |
@@ -14946,6 +14942,8 @@ In base alla tipologia di campagna potrebbero essere disponibili ulteriori ogget
 | Vino Buono (bottiglia) | 10 mo | 1 |
 | Vino della casa (caraffa) | 2 ma | 1 |
 | Zaino | 2 mo | 1 |
+
+\end{multicoltab}
 
 > Ogni tecnologia sufficientemente avanzata è indistinguibile dalla magia. (Arthur C. Clarke, da Profiles of the Future)
 
@@ -15184,6 +15182,8 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 
 **Servizi**
 
+\begin{multicoltab}
+
 | **Servizio** | **Costo** |
 | --- | --- |
 | Carrozza all'interno di una città | 5 mr/1 km |
@@ -15193,6 +15193,8 @@ Un guerriero potrebbe commissionare a un fabbro la forgiatura di una spada speci
 | Messaggero | 5 mr/1,5 km |
 | Passaggio in nave | 1 ma/1,5 km |
 | Pedaggio di ingresso | 5 mr/5 ma |
+
+\end{multicoltab}
 
 ### Servizi Magici
 
@@ -18936,8 +18938,9 @@ Questa **bottiglia** di ferro ha un tappo di ottone. Puoi usare due azioni per p
 
 L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'ampolla, ma l'unico modo per determinare che sorta di creatura sia è di aprire l'ampolla. Un'ampolla di ferro appena scoperta potrebbe già contenere una creatura scelta dal Narratore o determinata casualmente.
 
-| **d100** | **Contiene** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Contiene**} |
 | 1-50 | Vuota |
 | 51-66 | Demone |
 | 67 | Angelo Deva |
@@ -18953,6 +18956,8 @@ L'incantesimo *identificare* rivela che una creatura si trova all'interno dell'a
 | 96 | Angelo Solar |
 | 97-99 | Succube/Incubo |
 | 100 | La Topi |
+
+\end{multicoltab}
 
 ### Amuleto Antiveleno
 
@@ -19022,8 +19027,9 @@ Mentre indossi questo **amuleto** sei celato alla magia di divinazione. Non puoi
 
 Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico prescelto, il suo bonus effettivo diventa di +2. L'arma, inoltre, infligge un danno critico automaticamente contro tale nemico. Per determinare casualmente il nemico prescelto dell'arma si usa la tabella seguente:
 
-| d\% | Nemico prescelto |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{d\% | Nemico prescelto} |
 | 01-05 | Aberrazioni |
 | 06-09 | Bestie |
 | 10-16 | Costrutti |
@@ -19036,6 +19042,8 @@ Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico pres
 | 89-90 | Piante |
 | 91-98 | Non Morti |
 | 99-100 | Insetti |
+
+\end{multicoltab}
 
 ### Anello Accumula Incantesimi
 
@@ -19064,8 +19072,9 @@ La capacità dell'Anello d'Arma si ricarica all'alba. L'anello d'arma non si con
 
 Un Anello d'**arma** maggiore può essere applicato solo ad armi da mischia ed ha un solo potere. Quando viene trovato è necessario tirare sulla tabella sottostante per determinare il tipo di talento che conferisce l'anello. L'anello d'arma non si conta nei limiti per indossare anelli. Un arma può avere un numero di Anelli d'Arma massimo pari al suo bonus magico.
 
-| **1d100** | **Talento** | **1d100** | **Talento** |
-|---|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**1d100** | **Talento** | **1d100** | **Talento**} |
 | 1-6 | Maledetta -2 | 55-60 | Folgorante |
 | 7-12 | Coraggiosa | 61-66 | Gelida |
 | 13-18 | Del Dolore | 67-72 | Lingua di fuoco |
@@ -19075,6 +19084,8 @@ Un Anello d'**arma** maggiore può essere applicato solo ad armi da mischia ed h
 | 37-42 | Arma Titanica | 91-96 | Tonante |
 | 43-48 | Caos | 97-100 | Trasformante |
 | 49-54 | Corrosiva |  | |
+
+\end{multicoltab}
 
 Quando inserito nell'elsa dell'**arma** il personaggio può due volte al giorno usare 1 Azione e aggiungere all'arma il talento tirato, per 10 round. Se l'arma non è almeno magica +1 diventa magica +1. La capacità dell'Anello d'Arma maggiore si ricarica all'alba.
 
@@ -19303,8 +19314,9 @@ Costo vario, rarità varia. Mentre indossi questo **anello**, hai un bonus da +1
 
 Mentre indossi questo **anello**, hai resistenza a un tipo di danno. La gemma incastonata nell'anello indica il tipo di danno, che viene scelto o determinato casualmente dal Narratore.
 
-| **d10** | **Tipo di Danno** | **Gemma** |
-|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d10** | **Tipo di Danno** | **Gemma**} |
 | 1 | Acido | Perla |
 | 2 | Forza | Zaffiro |
 | 3 | Freddo | Tormalina |
@@ -19315,6 +19327,8 @@ Mentre indossi questo **anello**, hai resistenza a un tipo di danno. La gemma in
 | 8 | Luce | Topazio |
 | 9 | Suono | Spinello |
 | 10 | Energia Negativa | Ardesia |
+
+\end{multicoltab}
 
 ### Anello di Rigenerazione
 
@@ -19562,8 +19576,9 @@ Questa bacchetta ha 7 cariche. La bacchetta recupera 1 carica ogni giorno all'al
 
 Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta questa tabella.
 
-| **d100** | **Contenuti** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Contenuti**} |
 | 01-05 | Lanci l'incantesimo Lentezza. |
 | 06-10 | Lanci l'incantesimo Luminescenza. |
 | 11-15 | Sei stordito fino all'inizio del tuo prossimo round, e ritieni che sia accaduto qualcosa di stupefacente. |
@@ -19571,10 +19586,8 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 21-25 | Lanci l'incantesimo Individuazione dei pensieri sul bersaglio da te scelto. Se il tuo bersaglio non è una creatura, subisci invece 1d6 danni. |
 | 26-30 | Lanci l'incantesimo Nebbia Nauseante. |
 | 31-33 | Pioggia abbondante precipita in un raggio di 18 metri centrato sul bersaglio. L'area diventa oscurata leggermente. La pioggia continua a cadere fino all'inizio del tuo prossimo round. |
-| 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. |
-| Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto. |
+| 34-36 | Compare un animale nello spazio non occupato più vicino al bersaglio. L'animale non è sotto il tuo controllo e agisce come di norma. \newline Tira un d100 per determinare che specie di animale compaia 01-25, un rinoceronte; 26-50, un elefante; 51-100, un ratto. |
 | 37-46 | Lanci Fulmine. |
-
 | 47-49 | Una nube di 600 enormi farfalle riempie un raggio di 9 metri intorno al bersaglio. L'area diventa oscurata pesantemente e fornisce copertura totale. Le farfalle restano per 10 minuti. |
 | 50-53 | Ingrandisci il bersaglio come se avessi lanciato l'incantesimo ingrandire/ridurre. Se il bersaglio non può essere soggetto all'incantesimo, o se non è una creatura, tu diventi il bersaglio. |
 | 54-58 | Lanci l'incantesimo oscurità. |
@@ -19584,12 +19597,12 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 70-79 | Lanci l'incantesimo Palla di fuoco. |
 | 80-84 | Lanci l'incantesimo Invisibilità su di te. |
 | 85-87 | Sul bersaglio crescono delle foglie. Se hai scelto un punto nello spazio come bersaglio, le foglie spunteranno sulla creatura più vicina a quel punto. A meno che non vengano strappate, le foglie diventeranno marroni e cadranno dopo 24 ore. |
-| 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. |
-|  | Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
+| 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. \newline Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
 | 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
-
 | 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
+
+\end{multicoltab}
 
 ### Bacchetta delle Palle di Fuoco
 
@@ -19721,11 +19734,14 @@ Hai il 50\% di probabilità di viaggiare istantaneamente in un piano di esistenz
 
 Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
-| **Distanza dall'origine** | **Danno** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**Distanza dall'origine** | **Danno**} |
 | 3 metri o meno | 8 x cariche nel bastone |
 | Fino a 6 metri | 6 x cariche nel bastone |
 | Fino a 9 metri | 4 x cariche nel bastone |
+
+\end{multicoltab}
 
 Nota: il Bastone dell'Archimago e del Potere sono simili, questo perché preparati da due acerrimi nemici che volevano creare il Bastone più potente.
 
@@ -19847,8 +19863,9 @@ Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggi
 
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
-| **d100** | **Effetto** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Effetto**} |
 | 01 | Spuntano 5d4 funghi. Se una creatura mangia un fungo, tira un dado. Se il risultato è dispari esegui un tiro Salvezza su Tempra con DC 18 o subisce 5d6 danni da veleno e restare avvelenato per 1 ora. Se il risultato è pari ottiene 5d6 Punti Ferita temporanei per 1 ora. |
 | 02-10 | Erutta un geyser che sputa acqua, birra, succo di frutta, tè, aceto, vino od olio (a discrezione del Narratore) a 9 metri in aria per 1d12 round. |
 | 11-20 | Spunta un uomo albero. C'è una probabilità del 50\% che l'uomo albero sia malvagio e ti attacchi. |
@@ -19860,11 +19877,9 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 | 71-80 | Cresce un albero da frutta. Possiede 1d10+20 frutti, ogni frutto ha la possibilità (50/50) di funzionare come un veleno potenziato o come una pozione naturale a caso. L'albero svanisce dopo 1 ora. I frutti raccolti invece rimangono e mantengono la propria magia per 30 giorni. |
 | 81-90 | Compare un nido con 1d4+3 uova. Qualsiasi creatura che mangi un uovo deve effettuare un Tiro Salvezza su Tempra con DC 28. Se riesce aumenta permanentemente il suo punteggio di caratteristica più basso di 1, scegliendo casualmente in caso di parità, se fallisce subisce 10d6 danni da forza. |
 | 91-99 | Spunta dal terreno una piramide dalla base quadrata di 18 metri. All'interno c'è un sarcofago che contiene una mummia sovrana. Il suo sarcofago contiene un tesoro a scelta del Narratore. |
-
-| **d100** | **Effetto** |
-|---|---|
-| --- | --- |
 | 100 | Un'enorme pianta di fagioli cresce sul posto, fino a un'altezza a scelta del Narratore. La cima conduce dovunque voglia il Narratore, che sia il castello di un gigante delle nuvole o un altro piano di esistenza. |
+
+\end{multicoltab}
 
 ### Borsa dell'Annullamento
 
@@ -19886,14 +19901,14 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 
 Questa **bottiglia** di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
-| **3d6** | **Effetto** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**3d6** | **Effetto**} |
 | 3-5 | L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia. |
 | 6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
-
-| **3d6** | **Effetto** |
-|---|---|
 | 17-18 | L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia. |
+
+\end{multicoltab}
 
 ### Bottiglia Fumante
 
@@ -20027,13 +20042,17 @@ Mentre indossi questo **cerchietto**, puoi usare due azioni, portando due dita s
 
 Esistono quattro varianti di questa cinta, corrispondenti ciascuna a una specie di veri giganti. La cinta del gigante di pietra e la cinta del gigante del gelo appaiono diverse, ma hanno lo stesso effetto.
 
-| **Tipo di Gigante** | **Forza** | **Rarità** |
+\begin{multicoltab}
+
+| \mchead[][]{**Tipo di Gigante** | **Forza** | **Rarità**} |
 | --- | --- | --- |
 | **Collina** | 5 | Raro |
 | **Pietra/del Gelo** | 6 | Molto raro |
 | **Fuoco** | 7 | Molto raro |
 | **Nuvole** | 8 | Leggendario |
 | **Tempeste** | 9 | Leggendario |
+
+\end{multicoltab}
 
 ### Cintura dei Nani
 
@@ -20067,14 +20086,17 @@ Questa **collana** possiede 1d4 + 2 sfere magiche fatte di acquamarina, perla ne
 
 Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfera facente parte della collana. Una collana può avere più di una sfera dello stesso tipo. Per usarla, devi indossare la collana. Ogni sfera contiene un incantesimo che puoi lanciare con due azioni, con DC dell'Incantesimo pari a 12 + 2x Livello in caso di Tiro Salvezza. Una volta che l'incantesimo di una sfera magica è stato lanciato, non potrai usare di nuovo quella sfera fino all'alba successiva.
 
-| **3d6** | **Sfera di...** | **Incantesimo** |
-|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**3d6** | **Sfera di...** | **Incantesimo**} |
 | 3-5 | Benedizione | Benedizione |
 | 6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
 | 12-14 | Favore Divino | Ristorare superiore |
 | 15-16 | Punire | Punizione marchiante |
 | 17 | Vento | Camminare nel vento |
 | 18 | Convocare | Barriera di Lame |
+
+\end{multicoltab}
 
 ### Collana dell'Adattamento
 
@@ -20170,7 +20192,9 @@ Se il tuo movimento fa sì che la barriera entri a contatto con un oggetto solid
 
 Il cubo perde cariche quando la barriera viene presa come bersaglio da certi incantesimi o entra a contatto con certi incantesimi o effetti di oggetti magici, come indicato nella tabella seguente.
 
-| **Incantesimo o Oggetto** | **Cariche Perse** |
+\begin{multicoltab}
+
+| \mchead[][]{**Incantesimo o Oggetto** | **Cariche Perse**} |
 | --- | --- |
 | Dardo arcano (3 colpi) | 1 |
 | Disintegrazione | 1d12 |
@@ -20178,16 +20202,21 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 | Passa Porta | 1d6 |
 | Spruzzo Prismatico | 3d6 |
 
+\end{multicoltab}
+
 Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in cariche.
 
-| **Faccia** | **Costo** | **Effetto** |
-|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**Faccia** | **Costo** | **Effetto**} |
 | 1 | 1 | Gas, vento e nebbia non possono penetrare la barriera |
 | 2 | 2 | La materia non vivente non può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
 | 3 | 3 | La materia vivente non può attraversare la barriera. |
 | 4 | 4 | Gli effetti dell'incantesimo non possono attraversare la barriera. |
 | 5 | 5 | Nulla può attraversare la barriera. Muri, pavimenti e soffitti possono attraversarla a tua discrezione. |
 | 6 | 0 | La barriera si disattiva. |
+
+\end{multicoltab}
 
 Ogni attivazione dura un minuto.
 
@@ -20486,12 +20515,16 @@ Con due azioni, puoi pronunciare la parola di comando della **gemma** e spendere
 
 Questa **gemma** contiene una scintilla di energia elementale. Quando usi due azioni per infrangere la gemma, questa evoca un elementale come se tu avessi lanciato l'incantesimo Evoca Elementale, e la magia della gemma svanisce. Il tipo di gemma determina l'elementale evocato dall'incantesimo.
 
-| **Gemma** | **Elementale evocato** |
+\begin{multicoltab}
+
+| \mchead[][]{**Gemma** | **Elementale evocato**} |
 | --- | --- |
 | Corindone rosso | Elementale del fuoco |
 | Diamante giallo | Elementale della terra |
 | Smeraldo | Elementale dell'acqua |
 | Zaffiro blu | Elementale dell'aria |
+
+\end{multicoltab}
 
 ### Gioiello Attiramostri
 
@@ -20673,12 +20706,15 @@ Per creare un golem, devi trascorrere il tempo sopra indicato, lavorando senza i
 
 Una volta finito di creare il golem, il libro viene consumato da fiamme arcane. Il golem si anima quando le ceneri del manuale saranno sparse su di esso. Sarà sotto il tuo controllo e comprende e obbedisce gli ordini pronunciati da te.
 
-| 3d6 | Golem | Tempo | Costo |
-|---|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{3d6 | Golem | Tempo | Costo} |
 | 3-4 | Argilla | 30 giorni | 65000 mo |
 | 5-16 | Carne | 60 giorni | 50000 mo |
 | 17 | Ferro | 120 giorni | 100000 mo |
 | 18 | Pietra | 90 giorni | 80000 mo |
+
+\end{multicoltab}
 
 ### Manuale dell'Esercizio fisico
 
@@ -20727,7 +20763,9 @@ La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usar
 L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volontà con Intelligenza con DC 17. La creatura gli apparirà quindi trasparente.
 L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare e quella carta non potrà più essere usata.
 
-| **Carta da Gioco** | **Illusione** |
+\begin{multicoltab}
+
+| \mchead[][]{**Carta da Gioco** | **Illusione**} |
 | --- | --- |
 | Asso di cuori | Drago rosso |
 | Re di cuori | Cavaliere e quattro guardie |
@@ -20740,7 +20778,6 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 | Asso di picche | Lich |
 | Re di picche | Sacerdote e due accoliti |
 | Regina di picche | Medusa |
-
 | Fante di picche | Veterano |
 | Dieci di picche | Gigante del gelo |
 | Nove di picche | Troll |
@@ -20764,6 +20801,8 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 | Due di fiori | Coboldo |
 | Jolly (2) | Tu (il proprietario del mazzo) |
 
+\end{multicoltab}
+
 ### Mazzo delle Meraviglie
 
 **Rarità:** Leggendario; **Costo:** 100000 mo
@@ -20774,7 +20813,9 @@ Prima di pescare una carta, devi dichiarare quante carte intendi pescare e poi p
 
 Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi il numero scelto di carte, il numero di carte rimanenti uscirà fuori dal mazzo spontaneamente e avrà effetto in contemporanea. Una volta estratta una carta, questa svanirà dall'esistenza. A meno che la carta non sia il Matto o il Buffone, la carta ricompare nel mazzo, rendendo possibile pescare due volte la stessa carta.
 
-| **Carta da Gioco** | **Carta** |
+\begin{multicoltab}
+
+| \mchead[][]{**Carta da Gioco** | **Carta**} |
 | --- | --- |
 | Asso di quadri | Visir* |
 | Re di quadri | Sole |
@@ -20790,9 +20831,6 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 | Asso di cuori | Destino* |
 | Re di cuori | Trono |
 | Regina di cuori | Chiave |
-
-| **Carta da Gioco** | **Carta** |
-| --- | --- |
 | Fante di cuori | Cavaliere |
 | Due di cuori | Gemma* |
 | Asso di picche | Prigione* |
@@ -20800,6 +20838,8 @@ Devi pescare ciascuna carta entro 1 ora dalla pescata precedente. Se non peschi 
 | Regina di picche | Eurialo |
 | Due di picche | Bilancia* |
 | Jolly | Matto* |
+
+\end{multicoltab}
 
 * Solo in mazzo da 22 **carte**
 
@@ -21703,15 +21743,17 @@ Puoi pronunciare la parola di comando del **tappeto** con due azioni per far flu
 
 Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del tappeto o la determina casualmente.
 
-	
+\begin{multicoltab}
 
-| **d100** | **Taglia** | **Capacità** | **Velocità** |
+| \mchead[][]{**d100** | **Taglia** | **Capacità** | **Velocità** |
 | --- | --- | --- | --- |
-| **(cm)** | **(Ing.)** | **di Volo** |
+| **(cm)** | **(Ing.)** | **di Volo**} |
 | 01--20 | 90 × 150 | 100 kg / 25 | 23 metri |
 | 21--55 | 120 × 180 | 200 kg / 50 | 18 metri |
 | 56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 metri |
+
+\end{multicoltab}
 
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
 
@@ -21811,17 +21853,15 @@ Inoltre, la vestaglia ha 4d4 altre toppe. Il Narratore sceglie le toppe o le det
 
 Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 toppe della vestaglia degli oggetti utili.
 
-| **d100** | **Effetto** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Effetto**} |
 | 01-08 | Borsello con 100 mo. |
 | 09-15 | Forziere d'argento (lungo 30 cm, largo e profondo 15 cm) del valore di 500 mo. |
 | 16-22 | Porta di ferro (larga e alta massimo 3 metri, sbarrata dal lato di tua scelta), che puoi piazzare su qualsiasi apertura a portata; si adatta per entrare nell'apertura, fissandosi e creando dei cardini. |
 | 23-30 | 10 gemme del valore di 100 mo ciascuna. |
 | 31-44 | Una scala di legno (8 metri). |
 | 45-51 | Un Saurovallo da Galoppo con sacche da sella |
-
-| **d100** | **Effetto** |
-|---|---|
 | 52-59 | Fossa (un cubo di 3 metri di spigolo), che puoi piazzare sul terreno entro 3 metri da te. |
 | 60-68 | 4 pozioni di guarigione. |
 | 69-75 | Barca a remi (lunga 4 metri). |
@@ -21829,6 +21869,8 @@ Tira un d100 sulla tabella seguente per scoprire le proprietà delle altre 4d4 t
 | 84-90 | Due mastini. |
 | 91-96 | Finestra (60 x 120 cm, profonda massimo 60 cm), che puoi piazzare su qualsiasi superficie verticale a portata. |
 | 97-100 | Ariete portatile. |
+
+\end{multicoltab}
 
 ### Tunica dei Colori Scintillanti
 
@@ -23399,7 +23441,9 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 
 **Tabella: 1d4-12 Parti Anatomiche dei Mostri**
 
-| **d4-12** | **Parte** |
+\begin{multicoltab}
+
+| \mchead[][]{**d4-12** | **Parte**} |
 | 11 | Sacco digestivo |
 | 12 | Gelatina fotoreattiva |
 | 13 | Bulbo traslucido |
@@ -23443,16 +23487,24 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 | 45 | Pelle ad assorbimento energetico |
 | 46 | Tentacolo con ventose attive |
 | 47 | Ghiandola di secrezione corrosiva |
-
+| 48 | Midollo secondario autonomo |
+| 49 | Tessuto cardiaco a ritmo alternato |
+| 410 | Placche auricolari addestrate |
+| 411 | Articolazione in osso flessibile |
+| 412 | Polmone secondario con vesciche d’aria |
 | 48 | Midollo secondario autonomo |
 | 49 | Tessuto cardiaco a ritmo alternato |
 | 410 | Placche auricolari addestrate |
 | 411 | Articolazione in osso flessibile |
 | 412 | Polmone secondario con vesciche d’aria |
 
+\end{multicoltab}
+
 **Tabella: d12-4 Effetti Magici da Ingestione o Preparazione**
 
-| **d12-4** | **Effetti** |
+\begin{multicoltab}
+
+| \mchead[][]{**d12-4** | **Effetti**} |
 | 11 | Visione notturna per 1d6 ore |
 | 12 | Gli animali evitano il personaggio |
 | 13 | +1 Difesa naturale per 1 ora |
@@ -23478,8 +23530,6 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 | 62 | Forma gassosa per 1 ora |
 | 63 | Curato di 3d6 Punti Ferita |
 | 64 | Visione dell’invisibile per 1d4 Turni |
-
-| **d12-4** | **Effetti** |
 | 71 | Parassita benigno assorbe veleno e muore |
 | 72 | Soffio acido (2d6 danni in cono, 4 metri, DC 10+LV) 1xT, 1d4 Ore |
 | 73 | Soffio rovente (vedi soffio acido) |
@@ -23504,6 +23554,8 @@ Questa sezione vuole essere un divertito omaggio a certi tipi di avventure e anc
 | 122 | Dermatite violente: -2 alle Azioni che usano le mani per 1d4 ore |
 | 123 | Vesciche ai piedi: tutto il terreno è difficile per 2d4 ore |
 | 124 | Terzo occhio: +2 alle Prove di Consapevolezza per 1d4 ore |
+
+\end{multicoltab}
 
 ---
 
