@@ -8,17 +8,21 @@
 \begin{document}
 
 \begin{multicols}{2}
-\section*{Table options}
+\section*{Table options and heading rules}
 
 \begin{multicoltab}[width=.96\linewidth,row-sep=.6ex,break-penalty=50]
   {@{}p{.30\linewidth}X@{}}
-  \mchead[\toprule][\midrule]
-    {\textbf{Command} & \textbf{Effect}} \\
+  % Use mchead when the heading rules and cells must be repeated together.
+  \mchead[\toprule][\midrule]{%
+    \rowcolor{gray!20}%
+    \textbf{Command} & \textbf{Effect}%
+  } \\
   \rowcolor{gray!15}
   width & Changes the width from the default \texttt{\string\linewidth}. \\
   row-sep & Adds vertical space after every row. \\
   \rowcolor{gray!15}
   break-penalty & Adjusts TeX's preferred break after a normal row. \\
+  natural-widths & Selects globally synchronized or per-row natural widths. \\
 \end{multicoltab}
 
 \end{multicols}

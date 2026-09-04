@@ -2,6 +2,7 @@
 \usepackage[margin=1.5cm]{geometry}
 \usepackage{multicol}
 \usepackage{multicoltab}
+\renewcommand{\tabularxcolumn}[1]{>{\raggedright\arraybackslash}p{#1}}
 
 \begin{document}
 
@@ -20,6 +21,39 @@
 \end{multicoltab}
 \end{multicols}
 
+
+\section*{Four layout columns, three table columns}
+\begin{multicols}{4}
+\begin{multicoltab}{lXX}
+  1 & First entry & 11. \\
+  2 & Second entry & 22. \\
+  3 & Third entry & 33 \\
+  4 & Fourth entry & 44 \\
+  5 & Fifth entry & 55 \\
+  6 & Sixth entry & 66 \\
+  7 & Seventh entry & 77 \\
+  8 & Eighth entry & 88 \\
+  9 & Ninth entry & 99
+\end{multicoltab}
+\end{multicols}
+
+
+\section*{Three layout columns, four table columns}
+\begin{multicols}{3}
+\begin{multicoltab}{lXXl|}
+  1 & First entry & 11 & 111 \\
+  2 & Second entry & 22 & 222 \\
+  3 & Third entry & 33 & 333 \\
+  4 & Fourth entry & 44 & 444 \\
+  5 & Fifth entry & 55 & 555 \\
+  6 & Sixth entry & 66 & 666 \\
+  7 & Seventh entry & 77 & 777 \\
+  8 & Eighth entry & 88 & 888 \\
+  9 & Ninth entry & 99 & 999
+\end{multicoltab}
+\end{multicols}
+
+
 \section*{Four columns}
 \begin{multicols}{4}
 \begin{multicoltab}{@{}p{1cm}X@{}}
@@ -37,5 +71,19 @@
   12 & Twelfth entry.
 \end{multicoltab}
 \end{multicols}
+
+
+\section*{Four columns - no Multicolumn}
+\begin{multicoltab}{lccc}
+ 1 & First entry & 11 & 111 \\
+  2 & Second entry & 22 & 222 \\
+  3 & Third entry & 33 & 333 \\
+  4 & Fourth entry & 44 & 444 \\
+  5 & Fifth entry & 55 & 555 \\
+  6 & Sixth entry & 66 & 666 \\
+  7 & Seventh entry & 77 & 777 \\
+  8 & Eighth entry & 88 & 888 \\
+  9 & Ninth entry & 99 & 999
+\end{multicoltab}
 
 \end{document}

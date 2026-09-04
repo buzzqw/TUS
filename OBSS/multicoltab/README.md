@@ -4,6 +4,8 @@
 the next `multicols` column or on the next page. It also works in ordinary
 one-column text, where rows continue only on later pages.
 
+Version: 0.8 (2026-09-04)
+
 Author and maintainer: Andres Zanzani, `azanzani@gmail.com`.
 
 ## Overview
@@ -18,8 +20,10 @@ left cell & right cell \\
 typesets that row as an independent `tabularx`. Consequently, LaTeX may break
 **between rows** but never in the middle of a row.
 
-The final `\\` is optional. Use `\newline` for a line break inside a cell. A
-`\\` inside braces is also safe because it is not treated as an outer row end.
+The final `\\` is optional. Row endings also accept the usual `\\*` and
+`\\[<length>]` forms. Use `\newline` for a line break inside a cell. A `\\`
+inside braces is not treated as an outer row end, although the grouped content
+must still be valid inside a table cell.
 
 The complete body is read before any row is printed. This lets the package
 measure natural `l`, `c` and `r` columns across the complete table and use the
@@ -27,6 +31,41 @@ same column widths for every row. A small allowance is added to those measured
 widths so a cell whose text is exactly at the measured width is not split at a
 hyphenation point. Use `X` or a fixed-width paragraph column for cells that are
 intended to contain long, wrapping text.
+
+## Column counts
+
+There is **no two-column limitation**. The number of columns in the table is
+independent of the number of columns in the surrounding `multicols` layout.
+Tables with three, four, or more explicit columns are supported, as are
+layouts with any number of `multicols` columns supported by `multicol`:
+
+```latex
+\begin{multicols}{2}
+\begin{multicoltab}{@{}lXX@{}}
+  Name & First value & Second value \\
+  Armor & 2 & 5 \\
+  Shield & 3 & 6
+\end{multicoltab}
+\end{multicols}
+```
+
+For example, the same package also works with `\begin{multicols}{3}` or
+`\begin{multicols}{4}`. See `multicoltab-columns-example.tex` for examples
+combining three and four table columns with three- and four-column layouts.
+
+## Why not `longtable`?
+
+`longtable` is the usual choice for a table that continues across ordinary
+pages. However, it modifies LaTeX's output routine and therefore does not work
+inside `multicols` (or in ordinary `twocolumn` pages). `multicoltab` is designed
+for that missing case: it emits each row as a separate `tabularx`, allowing
+`multicols` to move from one column to the next between rows.
+
+The packages have different purposes. Use `longtable` when you need its
+captions, page headers and footers, or footnotes in a conventional full-width
+multi-page table. Use `multicoltab` for a non-floating table or list that must
+flow through `multicols`; it also provides explicit column and page
+continuation commands with optional heading repetition.
 
 ## Minimal example
 
@@ -58,13 +97,20 @@ The optional argument is a comma-separated key list:
 
 | Option | Default | Effect |
 | --- | --- | --- |
-| `width=<length>` | `\linewidth` | Width of every emitted row. |
+| `width=<length>` | `\linewidth` | Target row width when the preamble contains `X`. |
 | `row-sep=<length>` | `0pt` | Vertical space after each row. |
 | `break-penalty=<integer>` | `0` | Higher values make a break after a normal row less desirable. |
+| `natural-widths=global\|local` | `global` | Synchronize natural-column widths across rows, or let every row determine them locally. |
 
 `width=\linewidth` normally needs no adjustment: inside `multicols`, it is
-the width of the current column. A heading is kept with its following row
-regardless of `break-penalty`.
+the width of the current column. It is the `tabularx` target width when an `X`
+column is present; without `X`, the row has its natural width. A heading is kept
+with its following row regardless of `break-penalty`.
+
+With `natural-widths=global`, direct `l`, `c`, and `r` cells are measured once
+before output so all rows use the same widths. With `natural-widths=local`,
+they retain their ordinary per-row widths and are not measured by
+`multicoltab`. The local mode is useful when cell contents have side effects.
 
 ## Column specification
 
@@ -88,8 +134,9 @@ all emitted rows. Array separators and modifiers may be placed around them.
 | `w{<align>}{<width>}` | Fixed-width single-line column; `<align>` is `l`, `c` or `r`. |
 | `W{<align>}{<width>}` | Like `w`, but reports overfull cells. |
 
-`\multicolumn` may be used in an individual row. Keep the column tokens
-explicit in the environment specification; custom column-type aliases and
+A literal `\multicolumn` at the start of a cell may be used in an individual
+row. Its content does not contribute to the widths of the columns it spans.
+Keep the column tokens explicit in the environment specification;
 `*{n}{...}` repetitions are not expanded while the package measures columns.
 
 ```latex
@@ -118,16 +165,90 @@ up to the number of `X` columns, as in this two-column 1:3 split:
 \end{multicoltab}
 ```
 
+Modifiers remain available for output. If `>{...}`, `<{...}`, a repeated
+specification, or a custom column alias is combined with natural columns, the
+package leaves those columns at their per-row natural widths and reports a
+warning rather than risking an incorrect measurement.
+
 The usual `array` table parameters remain available: `\tabcolsep`,
 `\arraystretch`, `\extrarowheight`, `\arrayrulewidth`, `\doublerulesep`, and
-`\extracolsep`. Packages such as `booktabs` and `xcolor` provide their normal
-rules and row-colour commands when loaded by the document.
+`\extracolsep`. Row-colour commands from `xcolor` remain available.
+
+### Booktabs rules
+
+The three main rules from `booktabs` are supported in both forms. Load
+`booktabs` in the document before using them.
+
+#### Standalone rules
+
+Use standalone rules when the heading does not need to be stored or repeated.
+The usual `booktabs` syntax is accepted; no `\\` is needed after a rule:
+
+```latex
+\toprule
+Header & Value \\
+\midrule
+Entry & Description \\
+\bottomrule
+```
+
+The standalone rule is emitted as its own unbreakable vertical item. It may
+therefore be separated from the preceding row by a column or page break, but
+the rule stays with the following row.
+
+#### Rules on a heading
+
+Put rules in the optional arguments of `\mchead` when the heading must be
+remembered and printed again after an explicit continuation. In this form,
+`\mchead` also keeps the heading with its first data row:
+
+```latex
+\mchead[\toprule][\midrule]
+  {\textbf{Item} & \textbf{Description}} \\
+Entry & Description \\
+\bottomrule
+```
+
+The cell content is always the mandatory braced argument of `\mchead`. Commands
+that format the heading row, such as `\rowcolor`, must therefore be placed
+inside those braces:
+
+```latex
+\mchead[\toprule][\midrule]{%
+  \rowcolor{gray!20}%
+  \textbf{Patrono} & \textbf{Risonanze Archetipiche}%
+} \\
+Patrono A & Description
+```
+
+For `\rowcolor`, load `xcolor` with its `table` option:
+`\usepackage[table]{xcolor}`.
+
+`\mchead` is not required merely to draw a rule. It is required for heading
+repetition with `\mcheadrepeat`, `\multicoltabbreak`, or
+`\multicoltabpagebreak`.
+
+### Cell evaluation
+
+`multicoltab` does not measure `X`, `p`, `m`, `b`, `w`, or `W` cell contents.
+In global mode it measures direct natural columns once. Tables with a directly
+recognized preamble and no `X` are emitted with `tabular`; therefore
+`natural-widths=local` executes their cell contents once. Unresolved custom
+aliases and repeated specifications conservatively retain `tabularx`, because
+they may expand to `X`.
+
+Tables containing `X` use `tabularx`, which may evaluate their cells several
+times while calculating widths. This is standard `tabularx` behaviour. Keep
+commands in `X` tables free of arbitrary global side effects; perform counter
+changes, file writes, random generation, and similar work before the table and
+insert only the resulting value in the cell.
 
 ## Heading commands
 
-Every data row uses the normal `cell & cell \\` syntax. The only row command
-is `\mchead`, which declares a heading; `\mcheadrepeat` reprints it. Both
-commands must end with `\\`.
+Every data row uses the normal `cell & cell \\` syntax. Heading commands are
+`\mchead`, which declares a heading, and
+`\mcheadrepeat`, which reprints it. Both heading commands must end with `\\`;
+the standalone `booktabs` rules are described above.
 
 | Directive | Effect |
 | --- | --- |
@@ -219,9 +340,9 @@ so write them alone on a source line.
 
 ## Columns and limitations
 
-The environment has no two-column assumption. It works inside every
-`\begin{multicols}{n}` supported by `multicol`, for any integer `n` of at
-least two.
+The environment works inside every `\begin{multicols}{n}` supported by
+`multicol`, for any integer `n` of at least two, and does not require the table
+itself to have two columns.
 
 - A row is the smallest unbreakable unit. A row taller than the available
   space moves as a whole.
@@ -234,12 +355,19 @@ least two.
 - The body is collected before its rows are emitted. Avoid verbatim material
   such as `\verb` in table cells; use a verbatim-safe command from another
   package when needed.
+- Paragraph breaks written as `\par` inside a cell are not supported; use
+  `\newline` for an in-cell line break.
+- Standalone rules require `booktabs` and are limited to `\toprule`, `\midrule`,
+  and `\bottomrule`.
 
 ## Examples and license
 
-`multicoltab-simple-example.tex` demonstrates normal rows.
-`multicoltab-options-example.tex` demonstrates normal formatted rows and options.
-`multicoltab-repeated-head-example.tex` demonstrates repeated headings.
+`multicoltab-simple-example.tex` demonstrates standalone `booktabs` rules.
+`multicoltab-options-example.tex` demonstrates normal formatted rows, options,
+and rules attached to `\mchead`.
+`multicoltab-repeated-head-example.tex` demonstrates heading-aware rules with
+repeated headings.
 `multicoltab-columns-example.tex` demonstrates three and four columns.
+The corresponding `*-example.pdf` files show their compiled output.
 
 The package is released under LPPL 1.3c or later; see `LICENSE`.

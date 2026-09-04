@@ -23,6 +23,7 @@ caricagit-casa.sh
 caricagit-lavoro.bat 
 /home/andres/TUS/OBSS/temp/
 temp/
+multicoltab/build/
 
 # Aggiunto automaticamente dal compilatore LaTeX
 *.fdb_latexmk

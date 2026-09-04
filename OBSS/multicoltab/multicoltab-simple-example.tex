@@ -1,10 +1,12 @@
 \documentclass[a4paper,11pt]{article}
 \usepackage[margin=2cm]{geometry}
+\usepackage{booktabs}
 \usepackage{multicol}
 \usepackage{multicoltab}
 
 \begin{document}
 
+\section*{Simple table}
 \begin{multicols}{2}
 \begin{multicoltab}{@{}p{1.8cm}X@{}}
   Term & Meaning \\
@@ -15,5 +17,69 @@
   Map & Helps the group avoid getting lost.
 \end{multicoltab}
 \end{multicols}
+
+\section*{Standalone booktabs rules}
+\begin{multicols}{2}
+\begin{multicoltab}{@{}p{1.8cm}X@{}}
+  \toprule
+  Term & Meaning \\
+  \midrule
+  Armor & Reduces the damage received by a character. \\
+  Shield & Can improve the character's defense. \\
+  Torch & Provides light in dark places. \\
+  Rope & Useful for climbing, tying and securing equipment. \\
+  Map & Helps the group avoid getting lost. \\
+  \bottomrule
+\end{multicoltab}
+\end{multicols}
+
+\section*{Repeated heading in the next column}
+\begin{multicols}{2}
+\begin{multicoltab}{@{}p{1.8cm}X@{}}
+  \mchead[\toprule][\midrule]{%
+    \textbf{Item} & \textbf{Description}%
+  } \\
+  Armor & Reduces the damage received by a character. \\
+  Shield & Can improve the character's defense. \\
+  \multicoltabbreak \\
+  Torch & Provides light in dark places. \\
+  Rope & Useful for climbing, tying and securing equipment. \\
+  Map & Helps the group avoid getting lost.
+\end{multicoltab}
+\end{multicols}
+
+\section*{Three layout columns}
+\begin{multicols}{3}
+\begin{multicoltab}{@{}p{1.5cm}X@{}}
+  \mchead{\textbf{Item} & \textbf{Use}} \\
+  Armor & Protects the character. \\
+  Shield & Improves defense. \\
+  \multicoltabbreak \\
+  Torch & Provides light. \\
+  Rope & Helps with climbing. \\
+  \multicoltabbreak \\
+  Map & Helps with navigation. \\
+  Compass & Points north.
+\end{multicoltab}
+\end{multicols}
+
+\section*{Three table columns}
+\begin{multicols}{2}
+\begin{multicoltab}{@{}p{1.5cm}p{2.2cm}X@{}}
+  Item & Category & Description \\
+  Armor & Protection & Reduces received damage. \\
+  Torch & Equipment & Provides light in dark places. \\
+  Map & Navigation & Helps avoid getting lost. \\
+  Rope & Equipment & Useful for climbing and tying.
+\end{multicoltab}
+\end{multicols}
+
+\section*{Table without \texttt{multicols}}
+\begin{multicoltab}{@{}p{2.2cm}X@{}}
+  Feature & Description \\
+  Breakable rows & Rows can continue on the next page. \\
+  Natural widths & Column widths can be measured globally. \\
+  Ordinary pages & The environment also works outside \texttt{multicols}.
+\end{multicoltab}
 
 \end{document}
