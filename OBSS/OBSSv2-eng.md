@@ -89,7 +89,7 @@ But before beginning your adventures, you must participate in Session Zero, a cr
 
 In OBSS, your imagination is the only limit. Don' \*\*t be afraid to experiment, to test your ideas, and to build characters that are unique and unforgettable. You are free to shape your destiny and leave your mark in this world, one dice roll at a time.
 
-Actions are measured in terms of Actions, and success is based on dice rolls, your proficiency, Feats, and your tactical choices.
+Character activities are measured in Actions, and success is based on dice rolls, proficiency, Feats, and tactical choices.
 
 Remember: checks can be avoided with intelligence and strategy. Exploration, the ability to solve puzzles, and imagination are crucial components of this game. Don' \*\*t always look for the solution on the character sheet, use your ingenuity!
 
@@ -108,23 +108,23 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll from the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
 
-**Ability scores**:   also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
+**Ability scores**:   Also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the character' \*\*s ability in that specific area.
 
 	**Action**:  An Action represents what a character does in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... In each round, you can take 3 Actions. An Action lasts about 3 seconds.
 
-**Attack Roll (AR)**:  is an Attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by weapon list...) against Defense (armor + shield + Feats + magic...). The Attack Roll can be melee (that is, for creatures close to your weapon, at melee distance) or ranged (for bows, crossbows, but also thrown daggers...). Read the combat chapter carefully.
+**Attack Roll (AR)**:  is an attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by the weapon list...) against Defense (armor + shield + Feats + magic...). An Attack Roll can be melee (for creatures close to your weapon) or ranged (for bows, crossbows, and thrown daggers...). Read the combat chapter carefully.
 
-**Bonus**:  any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
+**Bonus**:  Any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
 **Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, they must make a Magic Check.
 
-**Check/Test**:  a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
+**Check/Test**:  A check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
 **Class**: In OBSS there are no classes. Each character is built based on what they can do; you won' \*\*t find the word Class in the manual. Each character is unique and defined by their choices.
 
-**Critical Success/Critical Failure in Magic test** : if the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
+**Critical Success/Critical Failure in Magic test** : If the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
 
-**Damage Reduction (DR)**:   some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. Damage is reduced after all resistances and Saving Throws.
+**Damage Reduction (DR)**:   Some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. Damage is reduced after all resistances and Saving Throws.
 
 **Defense**:  Defense means the total value obtained from 10 + Shield + Armor + Dexterity + various bonuses. It represents the ability to avoid being hit and wounded. An enemy with high Defense could be extremely agile or have *thick skin* that is highly resistant to injury.
 
@@ -132,23 +132,23 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Difficulty Class (DC)**:  indicates how difficult it is to succeed in a check. It can be used for skills (swimming...) as well as knowledge (poisons...). For spells, it is the difficulty of resisting the spell. It indicates the value that must be reached to succeed in the check.
 
-**Distance**: distance, as far as combat is concerned, is measured in 1-meter squares.
+**Distance**: Distance, as far as combat is concerned, is measured in 1-meter squares.
 
-**Experience Points/XP**:   whenever difficulties, puzzles are solved, monsters are faced, or treasures are found, when the character is well played and everyone has fun, experience is gained. These points accumulated over time establish the level and therefore the abilities of the character.
+**Experience Points/XP**:   Whenever difficulties and puzzles are solved, monsters are faced, or treasures are found, and the character is well played while everyone has fun, the character gains experience. These points accumulate over time, establishing the character' \*\*s level and abilities.
 
 **Explosion of 6**: when you perform an Attack Roll, Saving Throw, Skill Check, Magic Check, or Initiative check, or whenever it is indicated that the Explosion of 6 applies, each die that rolls a 6 is noted and rolled again. The new result is also added, and if you roll another 6, you continue rolling until you stop rolling 6s.
 
 **Fate Points**:  or Beginner' \*\*s Luck are points available that the player can transform into d6 to add to Saving Throws, Attack Rolls, or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character' \*\*s level increases.
 
-**Feat**:  these are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
+**Feat**:  These are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
 
-**Follower**: a character who has bound themselves to a Patron with 1 Trait in common
+**Follower**: a character who has bound themselves to a Patron with 1 Trait in common.
 
 **Hit Points (HP)**: indicate vital energy, endurance, and the luck involved in resisting wounds. As long as a creature has at least 1 Hit Point, it fights at its best (though it might also decide to run away rather than die!). At each level, you gain a certain number of Hit Points established by the rules. Each wound is subtracted from this total, and when 0 (zero) Hit Points is reached, you faint and become unable to act.
 
-If you are further injured and the Hit Points drop to 10 + twice the value of Constitution, then you die.
+If you are further injured and your Hit Points drop to -10 minus twice your Constitution score, then you die.
 
-**Initiative**:  it is a Dexterity or Intelligence check. It establishes the order of actions in combat. Whoever has the highest check result acts first.
+**Initiative**:  Initiative is a Dexterity or Intelligence check. It establishes the order of actions in combat. Whoever has the highest check result acts first.
 
 **Level**: the Level indicates the proficiency and power reached by the character. It can indicate how *strong* an enemy is.
 
@@ -175,9 +175,7 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 **Patron**: or deity. The Patron is a superior being who can grant powers and guarantee advantages.
 
-**Penalty/Malus** : like bonuses, penalties are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
-
-, if not specified otherwise, always sum up together.
+**Penalty/Malus** : Like bonuses, penalties are values that indicate unfavorable circumstances, penalize spells, or make a check more difficult. Unlike bonuses, penalties always add together unless specified otherwise.
 
 **PC, Character**:  is the creature guided, managed, and *role-played* by the player.
 
@@ -195,7 +193,7 @@ Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases 
 
 **Trait**:  indicates one component of a character. Each character chooses 5 Traits to compose and build their personality.
 
-**Turn**:  is 10 minutes, that is, 60 rounds
+**Turn**:  is 10 minutes, that is, 60 rounds.
 
 > The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
@@ -203,7 +201,7 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 > Example of a box containing a quotation or motivational phrase
 
->> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$
+>> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$.
 
 >>> **Information for the Narrator**: Box containing indications and suggestions for the Game Master. Recognizable by the icon
 
@@ -220,10 +218,10 @@ It is the creatures that make the planet vital and rich, each one nourishes, con
 
 ## Humans
 
-Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until their coming.
+Humans, with their desire for discovery, power, glory, violence, and reproduction, were the dominant race; the entire Earth bowed to their will until their coming.
 And humans became the species to hunt and kill, the dictate received from the first Patrons was clear and absolute, exterminate the humans who had killed the firstborn.
 
-It is impossible to know how many humans have survived in the world, rough estimates place their number at under 500 million.
+It is impossible to know how many humans have survived in the world; rough estimates place their number at under 500 million.
 
 **Racial modifiers**: +1 to one ability score of your choice
 
@@ -243,7 +241,7 @@ Elves are the race brought directly by Calicante, the Patron of Genesis, to brin
 
 Forcibly deported from distant worlds made of chaos, war, and pain, after their Legions of Terror raged for over a century on our planet, further reducing the few remaining humans, the Lady of Light Ljust intervened directly to instill a spark of charity in their soulless bodies.
 
-And so the newborns, but not all, do not have this visceral hatred and homicidal mania, their blood has not been stained by Calicante, and they would like to live a normal life in contact with all other creatures, although well aware of how they are seen and treated by all others.
+And so some newborns do not have this visceral hatred and homicidal mania. Their blood has not been stained by Calicante, and they would like to live a normal life in contact with all other creatures, although they are well aware of how others see and treat them.
 
 These are the young elves who want to build and live in a new Earth. Other creatures have learned to judge an elf based on age, however difficult it is to give an age to this race; an *elderly* elf is evil and must be killed, a *young* elf perhaps is not evil.
 These are brutal and approximate methods that unfortunately continue to be widespread and applied.
@@ -266,7 +264,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 Dwarves are a stoic and severe race accustomed to the purest communism, without a true concept of property but of pure commonality of goods according to the idea that every dwarf works for the community and not for himself.
 
-Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
+Dwarves are compact and stocky, reaching a maximum height of about 140 cm, with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids. Bald dwarves are common, but they are not without beards. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
 
 Dwarves are guided by honor, tradition, and communism. They are often seen as gruff, but have a strong sense of friendship and justice, respecting those who work hard and commit to the community and the group.
 
@@ -292,7 +290,7 @@ Gnomes are beings of small size but rich in energy and life. Gnomes are the race
 
 In a short time, thanks to their innate curiosity, tenacity, and inventiveness, they have managed to create populous and rich cities, almost always within virgin forests.
 
-Gnomes are deeply connected to nature, their relationship is almost symbiotic, a Gnome will never forgo the sight of trees and always builds with what nature provides.
+Gnomes are deeply connected to nature; their relationship is almost symbiotic. A gnome will never forgo the sight of trees and always builds with what nature provides.
 
 Gnomes have a deep respect for nature, the environment, and animals; their perfectly functional and modern cities are built and carved into the forest, never destroying it and indeed enriching it.
 
@@ -326,9 +324,9 @@ There are also rare half-elves born from romantic relationships. Although usuall
 
 Many elves see in a half-elf the betrayal of the original mission, the destruction of creation.
 Very few see it as a gesture of love and a gift to an increasingly ugly world.
-They are usually seen by other creatures as murderers like elves regardless of whether their blood has been touched by Calicante or not.
+Other creatures usually see them as murderers, like elves, regardless of whether their blood has been touched by Calicante.
 
-Half-elves are shorter than humans but taller than elves. They inherit the slender build and attractive features of their elven lineage, but their skin color is normally dictated by their human part. Their eyes tend to be similar to those of humans in shape, but present an exotic range of colors from amber to purple to emerald green and dark blue.
+Half-elves are shorter than humans but taller than elves. They inherit the slender build and attractive features of their elven lineage, but their skin color is normally dictated by their human part. Their eyes tend to be similar to those of humans in shape, but display an exotic range of colors from amber to purple to emerald green and dark blue.
 
 Half-elves understand loneliness and know that character is often more a product of life experience than race.
 
@@ -359,7 +357,7 @@ Orcs were created directly by the Patron Cattalm with the help of Calicante. Muc
 
 Half-orcs are continuous victims of prejudice.
 
-**Racial modifiers**: +2 Strength -1 Charisma
+**Racial modifiers**: +2 Strength, -1 Charisma
 
 **Physical characteristics**: height 160-210 cm, 60-140 kg, life expectancy 70 years (50 + 5d10 years)
 
@@ -375,7 +373,7 @@ Half-orcs are continuous victims of prejudice.
 
 The Nibali are a race magically created to be slaves to the first Patrons.
 
-Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create through magical manipulation, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
+Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create, through magical manipulation, a more robust, stronger, and more intelligent race that was also more docile and disciplined. Every child would be physically identical to either parent.
 
 When the first Patrons left, the Nibali continued to prosper, making use of what had already been created in the cold tundra.
 
@@ -421,7 +419,7 @@ Outcast is an attribute that can be given to any race. The racial modifiers are 
 
 **Languages**: as original race
 
-**Special**: Must identify a Patron and have at least 3 common Traits. Accesses power at Trait sum 5 even if they have fewer points. An additional Feat of choice.
+**Special**: Must identify a Patron and have at least 3 common Traits. Gains access to power at a Trait sum of 5, even if they have fewer points. An additional Feat of choice.
 
 ## Sornelian
 
@@ -443,17 +441,17 @@ A Sornelian is almost never born as the child of two Sornelians but is a spontan
 
 **Advantages**: At creation, the player chooses 2 capabilities from those listed that best characterize their Sornelian. Some example animals are indicated in parentheses.
 
-- *Armored* (turtle, armadillo, crab, horned boxfish, alligator). You have a good part of your body covered with a robust armor. Your natural Defense is 12. If you choose this capability twice, opponents do not have advantages on Attack Rolls from behind or when they flank you.
+- *Armored* (turtle, armadillo, crab, horned boxfish, alligator). A large part of your body is covered by robust armor. Your natural Defense is 12. If you choose this capability twice, opponents do not have advantages on Attack Rolls from behind or when they flank you.
 
-- *Runner* (deer, greyhound, saurovallum, velociraptor). Increase your Movement speed by 3 meters. If you choose this capability twice, your Movement becomes 12 meters.
+- *Runner* (deer, greyhound, Saurovall, velociraptor). Increase your Movement speed by 3 meters. If you choose this capability twice, your Movement becomes 12 meters.
 
 - *Nocturnal creature* (cat, lizard, bat, owl). You have twilight vision up to 9 meters. If you choose this capability twice, twilight vision reaches up to 18 meters.
 
-- *Swimmer* (crocodile, dolphin, frog, shark). You can hold your breath for up to 1 Turn per point of Constitution, minimum 1, you have a swimming speed equal to half your Movement. You have Damage Reduction from cold equal to 4. If you choose this capability twice, you have rudimentary gills that allow you to breathe underwater, and the cold damage reduction becomes 10.
+- *Swimmer* (crocodile, dolphin, frog, shark). You can hold your breath for up to 1 Turn per point of Constitution, with a minimum of 1 Turn. You have a swimming speed equal to half your Movement and Damage Reduction from cold equal to 4. If you choose this capability twice, you have rudimentary gills that allow you to breathe underwater, and the cold damage reduction becomes 10.
 
 - *Predator* (bear, feline). Your natural attacks (claws, jaws...) cause 1d6 lethal damage and are not improvised weapons. These attacks fall into the Axes and Hatchets Weapon List. If you choose this capability twice, your natural attack causes 1d8 damage.
 
-- *Robust* (rhinoceros, hippo, elephant). At each level passage, you roll the d8 instead of d6 to determine Hit Points. If you choose this capability twice, each point of WP assigned increases Hit Points by 5 and not 3.
+- *Robust* (rhinoceros, hippo, elephant). At each level, you roll a d8 instead of a d6 to determine Hit Points. If you choose this capability twice, each point of WP assigned increases Hit Points by 5 instead of 3.
 
 - *Climber* (bear, cat, lizard, squirrel). You have hooked claws, sharp nails, or a serpentine tail. You have a climbing speed equal to half your Movement. If you choose this capability twice, the climbing speed is equal to your Movement.
 
@@ -826,7 +824,7 @@ A weapon or effect that causes non-lethal damage means it causes temporary wound
 Each character has a number of Fate Points equal to (20 - Level)/5, rounded down, with a minimum of 1. Fate Points reset and are counted per game session.
 You recover one Fate Point each time you roll at least three 1s in a check.
 
-It doesn' \*\*t cost Actions to use a Fate Point and can be used to:
+Using a Fate Point doesn' \*\*t cost an Action, and Fate Points can be used to:
 - [•] or more, add 1d6 to a Saving Throw, Attack Roll, Skill Check, and Magic Check. To be declared before rolling the dice. The added die can explode according to the Golden Rules
 - [••] reroll 1d6 in the above checks
 - [•] negate a Critical Weapon Hit suffered
@@ -856,21 +854,21 @@ Est Sularus Oth Mithas. ("My honor is my life", Oath of the Knights of Solamnia)
 
 In OBSS there is no clear distinction between good and evil, law and chaos, between what is right and what is wrong.
 
-In OBSS there are Traits, aspects and character nuances that **contribute** to the character' \*\*s background, help the player to roleplay better, and can provide those guidelines to interpret the character they wanted to create more correctly.
+In OBSS there are Traits, aspects, and character nuances that **contribute** to the character' \*\*s background, help the player roleplay better, and provide guidelines for interpreting the character they want to create.
 
-A Trait is a detail that helps to better frame the character, outlines the main characteristics giving it different nuances.
+A Trait is a detail that helps frame the character, outlines their main characteristics, and gives them different nuances.
 
 **Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices.
 
->> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their character, morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
 
-Traits have no positive or negative connotation, they only serve to frame the character and understand which Patron is more interested in the character. They don' \*\*t want to define whether you are good or bad, everyone has their own morals regardless of the Traits possessed.
+Traits have no positive or negative connotation; they only serve to frame the character and show which Patron is more interested in the character. They are not meant to define whether you are good or bad; everyone has their own morals regardless of the Traits they possess.
 
-**At the first level, choose a Trait that is more characteristic for the character, this will have value 1, the other 4 Traits will have value 0.**
+**At the first level, choose the Trait that is most characteristic of your character; it has a value of 1, while the other 4 Traits have a value of 0.**
 
-With the passing of time and adventures, Traits will increase in value or may be replaced, in concert between Game Master and player based on how it' \*\*s played, by other Traits. **The higher a Trait value, the more present and permeating it is in the character' \*\*s choices**.
+As time passes and the character has new adventures, Traits increase in value or may be replaced by other Traits, as agreed upon by the Game Master and player based on how the character is played. **The higher a Trait value, the more present and pervasive it is in the character' \*\*s choices**.
 
-During the adventures, the Game Master, following particular scenes and recitation, may increase by one point, or a fraction of a point, a character' \*\*s Trait.
+During adventures, the Game Master may increase a character' \*\*s Trait by one point or a fraction of a point after particular scenes or roleplaying moments.
 
 For example, following a particular situation and adventure climax, the Game Master might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
 
@@ -938,7 +936,7 @@ If the character is completely different from their Traits, they will not gain e
 
 # Optional - Character Archetype
 
-This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , this system offers 21 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
+This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , this system offers 22 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
 
 Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory to the archetype' \*\*s core nature. Also listed are which Patrons share at least two Traits (and thus make the character a Devotee) with each archetype, suggesting natural spiritual affinities.
 - Choose an archetype that appeals to you or fits your character concept
@@ -948,15 +946,15 @@ Each archetype is presented with a set of recommended Traits that naturally alig
 
 Archetypes can also evolve throughout a character' \*\*s journey. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in gradually shifting Traits and Patron affinities.
 
-## The 21 Archetypes
+## The 22 Archetypes
 
 ## The Hero
 The brave protagonist who overcomes obstacles to achieve a goal, often transforming themselves in the process.
 
-- **Recommended Traits:** Brave, Stubborn, Ambitious, Loyal
+- **Recommended Traits:** Courageous, Stubborn, Ambitious, Loyal
 - **Discouraged Traits:** Cowardly, Indecisive, Dishonest
 - **Contradictory Traits:** Cynical, Cruel, Dissolute
-- **Aligned Patrons:** Gradh, Sumkjr, Nedraf, Ljust, Lynx, Orlaith
+- **Aligned Patrons:** Gradh, Sumkjr, Efrem, Ljust, Lynx, Orlaith
 
 ## The Mentor
 The wise guide who provides knowledge, insight, and support to others, often to the Hero.
@@ -964,7 +962,7 @@ The wise guide who provides knowledge, insight, and support to others, often to 
 - **Recommended Traits:** Patient, Kind, Wise (Cautious), Compassionate
 - **Discouraged Traits:** Impulsive, Arrogant, Vindictive
 - **Contradictory Traits:** Cruel, Dishonest, Greedy
-- **Aligned Patrons:** Ljust, Sumkjr, Thaft, Ledyal, Gaya
+- **Aligned Patrons:** Ljust, Thaft, Ledyal, Atmos, Shayalia
 
 ## The Threshold Guardian
 The character that tests the players, presenting challenges they must overcome to proceed.
@@ -972,12 +970,12 @@ The character that tests the players, presenting challenges they must overcome t
 - **Recommended Traits:** Uncompromising, Suspicious, Cautious, Patient
 - **Discouraged Traits:** Impulsive, Compassionate, Altruistic
 - **Contradictory Traits:** Cowardly, Indecisive, Dishonest
-- **Aligned Patrons:** Atmos, Orlaith, Lynx, Krondal, Sixiser
+- **Aligned Patrons:** Atmos, Krondal, Sixiser, Atherim, Efrem
 
 ## The Herald
 The character who announces the call to adventure and signals the need for change.
 
-- **Recommended Traits:** Enthusiastic, Extroverted, Curious, Brave
+- **Recommended Traits:** Enthusiastic, Extroverted, Curious, Courageous
 - **Discouraged Traits:** Cautious, Indecisive, Suspicious
 - **Contradictory Traits:** Cowardly, Cynical, Dishonest
 - **Aligned Patrons:** Nethergal, Sumkjr, Lynx, Nedraf
@@ -1004,15 +1002,15 @@ The mischievous character who disrupts the status quo and brings about transform
 - **Recommended Traits:** Impulsive, Curious, Dishonest, Enthusiastic
 - **Discouraged Traits:** Cautious, Patient, Uncompromising
 - **Contradictory Traits:** Loyal, Altruistic, Compassionate
-- **Aligned Patrons:** Orudjs, Belevon, Nihar
+- **Aligned Patrons:** Orudjs, Belevon, Ledyal
 
 ## The Ally
 The steadfast companion who supports the protagonist on their journey.
 
-- **Recommended Traits:** Loyal, Brave, Altruistic, Kind
+- **Recommended Traits:** Loyal, Courageous, Altruistic, Kind
 - **Discouraged Traits:** Dishonest, Envious, Cruel
 - **Contradictory Traits:** Vindictive, Arrogant, Greedy
-- **Aligned Patrons:** Ljust, Sumkjr, Efrem, Gradh, Thaft
+- **Aligned Patrons:** Ljust, Sumkjr, Gradh, Thaft, Atherim
 
 ## The Innocent
 The pure, naive character who sees the world with wonder and optimism.
@@ -1020,7 +1018,7 @@ The pure, naive character who sees the world with wonder and optimism.
 - **Recommended Traits:** Kind, Enthusiastic, Altruistic, Curious
 - **Discouraged Traits:** Cynical, Suspicious, Vindictive
 - **Contradictory Traits:** Cruel, Dishonest, Dissolute
-- **Aligned Patrons:** Ljust, Ledyal, Sumkjr, Gaya
+- **Aligned Patrons:** Ledyal, Sumkjr, Gaya, Atherim
 
 ## The Sage
 The knowledge-keeper who has accumulated wisdom through study or experience.
@@ -1044,7 +1042,7 @@ The innovative builder who brings new things into existence.
 - **Recommended Traits:** Curious, Enthusiastic, Ambitious, Patient
 - **Discouraged Traits:** Indecisive, Cowardly, Cynical
 - **Contradictory Traits:** Dissolute, Uncompromising, Vindictive
-- **Aligned Patrons:** Erondil, Efrem, Gaya, Nethergal
+- **Aligned Patrons:** Erondil, Efrem, Nethergal, Rezh
 
 ## The Caregiver
 The nurturing protector who cares for and defends others.
@@ -1060,15 +1058,15 @@ The transformer who harnesses special knowledge to alter reality.
 - **Recommended Traits:** Curious, Ambitious, Arrogant, Uncompromising
 - **Discouraged Traits:** Cowardly, Indecisive, Impulsive
 - **Contradictory Traits:** Altruistic, Compassionate, Loyal
-- **Aligned Patrons:** Erondil, Orudjs, Nethergal, Nihar, Krondal
+- **Aligned Patrons:** Erondil, Orudjs, Nethergal, Krondal, Atmos
 
 ## The Outlaw
 The rebel who challenges established norms and fights against constraints.
 
-- **Recommended Traits:** Brave, Impulsive, Arrogant, Vindictive
+- **Recommended Traits:** Courageous, Impulsive, Arrogant, Vindictive
 - **Discouraged Traits:** Cautious, Patient, Loyal
 - **Contradictory Traits:** Altruistic, Compassionate, Kind
-- **Aligned Patrons:** Lynx, Tàhil, Gradh, Tazher, Calicante
+- **Aligned Patrons:** Lynx, Tàhil, Gradh, Orlaith, Calicante
 
 ## The Lover
 The passionate seeker of connection, intimacy, and sensual pleasure.
@@ -1084,7 +1082,7 @@ The playful entertainer who brings joy and levity to difficult situations.
 - **Recommended Traits:** Enthusiastic, Extroverted, Impulsive, Curious
 - **Discouraged Traits:** Cautious, Suspicious, Uncompromising
 - **Contradictory Traits:** Cruel, Vindictive, Arrogant
-- **Aligned Patrons:** Nihar, Belevon, Nethergal, Orudjs
+- **Aligned Patrons:** Nethergal, Sumkjr, Ledyal
 
 ## The Everyman
 The relatable, ordinary person seeking belonging and connection.
@@ -1092,20 +1090,20 @@ The relatable, ordinary person seeking belonging and connection.
 - **Recommended Traits:** Loyal, Kind, Cautious, Indecisive
 - **Discouraged Traits:** Arrogant, Ambitious, Dissolute
 - **Contradictory Traits:** Cruel, Vindictive, Dishonest
-- **Aligned Patrons:** Efrem, Thaft, Atherim
+- **Aligned Patrons:** Efrem, Thaft, Atmos
 
 ## The Explorer
 The adventurer who seeks new experiences and discoveries.
 
-- **Recommended Traits:** Curious, Brave, Impulsive, Enthusiastic
+- **Recommended Traits:** Curious, Courageous, Impulsive, Enthusiastic
 - **Discouraged Traits:** Cautious, Indecisive, Suspicious
 - **Contradictory Traits:** Cowardly, Cynical, Greedy
-- **Aligned Patrons:** Lynx, Nihar, Nethergal, Sumkjr
+- **Aligned Patrons:** Nihar, Nedraf, Ledyal, Sumkjr
 
 ## The Martyr
 The self-sacrificing individual who gives everything for a cause or others.
 
-- **Recommended Traits:** Altruistic, Brave, Uncompromising, Stubborn
+- **Recommended Traits:** Altruistic, Courageous, Uncompromising, Stubborn
 - **Discouraged Traits:** Arrogant, Greedy, Ambitious
 - **Contradictory Traits:** Cynical, Cruel, Dishonest
 - **Aligned Patrons:** Ljust, Sumkjr, Atherim, Lynx
@@ -1116,7 +1114,7 @@ The controlling oppressor who rules through fear and dominance.
 - **Recommended Traits:** Cruel, Arrogant, Vindictive, Greedy
 - **Discouraged Traits:** Compassionate, Altruistic, Kind
 - **Contradictory Traits:** Indecisive, Cowardly, Loyal
-- **Aligned Patrons:** Calicante, Tàhil, Cattalm, Torbiorn, Rezh
+- **Aligned Patrons:** Calicante, Tàhil, Tazher, Torbiorn, Rezh
 
 ## The Hermit
 The solitary seeker who withdraws from society to find inner truth.
@@ -1150,9 +1148,9 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Atmos | The Sage, The Hermit, The Threshold Guardian |
 | Lynx | The Explorer, The Outlaw, The Hero |
 | Gradh | The Hero, The Ally, The Ruler, The Outlaw |
-| Atherim | The Caregiver, The Guardian, The Martyr |
+| Atherim | The Caregiver, The Threshold Guardian, The Martyr |
 | Belevon | The Trickster, The Jester, The Shapeshifter |
-| Cattalm | The Shadow, The Tyrant, The Destroyer |
+| Cattalm | The Shadow, The Tyrant, The Ruler |
 | Efrem | The Everyman, The Creator, The Hermit |
 | Erondil | The Creator, The Magician, The Ruler |
 | Gaya | The Creator, The Innocent, The Caregiver |
@@ -1274,7 +1272,7 @@ The character acquires a Skill at score 1 for each point of Intelligence greater
 
 The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuild as a hobby, it could also be Strength.
 
->> **Profession ???**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
+>> **Profession**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
 
 **Table: List of Skills and Related Ability Score for Use**
 
@@ -1562,7 +1560,7 @@ Hit Points are equal to 8 + Constitution, add 3 if you have put 1 point in Weapo
 
 At this point, choose the Traits (p. ). Do it carefully, you are building your character and Traits outline the character with strong brushstrokes. Remember that they will be fundamental for the choice of the Patron (p. ).
 
-In the character sheet, in the Traits box, where there is the Patron column, write the Patron that connects you to that Trait, regardless of whether you have chosen it or not.
+In the character sheet, in the Traits box, where there is the Patron column, write the Patron or Patrons connected to that Trait, regardless of whether you have chosen them or not. If the Trait is shared by multiple Patrons, note them all and use the other Traits to determine the strongest affinity.
 
 Finally, remember that a *Dissolute* and *Loyal* character sounds good in a story where they are the only protagonist, but here you play in a **group**. Don' \*\*t take Traits in obvious opposition to others or play like a *jerk*, otherwise the character will naturally be pushed away by other characters and by the Game Master.
 
@@ -2260,7 +2258,7 @@ The worthy Game Master never kills player characters willingly. He presents oppo
 Weapon damage is calculated as the sum of the weapon die, Strength (or Dexterity if indicated by Abilities) whether positive or negative, bonuses given by Weapon Lists, bonuses given by Abilities, bonuses given by the weapon, and circumstantial bonuses.
 
 When a creature reaches 0 (zero) Hit Points, they are considered unconscious, meaning Helpless and Unable to do anything. Magical Healing (Spell, Potion...) will bring them back to consciousness and to the healed Hit Points. A First Aid check (page ) (DC 12) can be used to bring them conscious at 1 Hit Point.
-If left unconscious after an hour, if nothing has happened to change the situation, the character can make a Fortitude Saving Throw at DC 15; if successful, they return to 1 Hit Point; if failed, they go to -1 and become dying.
+If left unconscious after an hour, if nothing has happened to change the situation, the character can make a Fortitude Saving Throw at DC 15; if successful, they return to 1 Hit Point; if they fail, they go to -1 and become dying.
 
 A dying character has negative Hit Points (-1 or less) and is unconscious and helpless. They will continue to lose 1 Hit Point per round until the value reaches double their Constitution +10 and the character will die, if not healed.
 
@@ -2378,7 +2376,7 @@ If you hit, for every margin of 8 above the opponent' \*\*s Defense, the weapon 
 
 The basic rules of Skills also apply to the Attack Roll. Defense is a fixed value and as such uses the modifiers for fixed value checks.
 
->>> **Always togheter**: OBSS wants to be fun to play, wants players to have fun and see the results obtained from the dice (and obviously from their choices). The Golden Rules and Damage Explosion want to precisely remove the dust from the dice and make it fun. A player will appreciate, even more if experienced, how the dice rolls are not just a number but rather open the possibility to make a difference. Ask the player to describe the critical hit and have them act it out in their glory of power!
+>>> **Always together**: OBSS wants to be fun to play, wants players to have fun and see the results obtained from the dice (and obviously from their choices). The Golden Rules and Damage Explosion want to precisely remove the dust from the dice and make it fun. A player will appreciate, even more if experienced, how the dice rolls are not just a number but rather open the possibility to make a difference. Ask the player to describe the critical hit and have them act it out in their glory of power!
 
 ## Rolling 3 times 1
 
@@ -2471,7 +2469,7 @@ The severely wounded brigand tries to hit him, hoping that his difficulty in usi
 
 A double weapon is a weapon that is dangerous at both ends. It can be used as a single weapon, or, incurring the penalties of fighting with two weapons, as two weapons.
 
-Unless specified, a double weapon used for Two weapon Fighting is equivalent to using two medium weapons.
+Unless specified, a double weapon used for Two Weapon Fighting is equivalent to using two medium weapons.
 
 ## Versatile Weapons
 
@@ -2479,7 +2477,7 @@ Weapons with the Versatile trait can use Dexterity instead of Strength for Attac
 
 ## Light Weapons
 
-These weapons are light and suitable for Two weapon Fighting.
+These weapons are light and suitable for Two Weapon Fighting.
 
 ## Fighting with Two Weapons
 
@@ -3858,7 +3856,7 @@ This Feat can only be used once per round, for a single attack, and costs the Re
 ## Double Portion
 
 
-| **Requirement**: | Two weapon Fighting, Weapon Proficiency 4 |
+| **Requirement**: | Two Weapon Fighting, Weapon Proficiency 4 |
 | --- | --- |
 | **Sav. Throws**: | +2 Fortitude, +1 Reflex |
 | **Ability Score**: | Strength or Constitution |
@@ -5378,7 +5376,7 @@ A Devotee of Sixiser, instead of turning and destroying, can dominate the undead
 
 A Devotee of Thaft gets +1d6 to Divine Power.
 
-## Two weapon Fighting
+## Two Weapon Fighting
 
 
 | **Requirement**: | Dexterity 2, Strength 1, Weapon Proficiency 2 |
@@ -5504,9 +5502,9 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **{Weapon Proficiency**} |
 | --- |
 | **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Spinning Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
-| **WP 2:** Reach, Weapon Artist, Two weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
+| **WP 2:** Reach, Weapon Artist, Two Weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
 | **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
-| **WP 4:** Double Portion (Two weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
+| **WP 4:** Double Portion (Two Weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
 | **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2) |
 | **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Second Skin (2), Tactician (2, Intelligence 2) |
 | **WP 7:** Ferocity (3), One with the Bow (2, Dexterity 3) |
@@ -5514,11 +5512,11 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **WP 9:** Parry (3), Weapon Artist (2), One Arm One Weapon (2) |
 | **WP 10:** Sneak Attack (3), Bloodhound (2, Wisdom 2) |
 | **WP 11:** Ferocity (4), Second Skin (3) |
-| **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
+| **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two Weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
 | **WP 13:** Weapon Artist (3), One Arm One Weapon (3) |
 | **WP 15:** Whirlwind Attack (2, Entertain 5) |
 | **WP 16:** Bloodhound (3, Wisdom 3), Tough Hide (4) |
-| **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two weapon Fighting (3) |
+| **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two Weapon Fighting (3) |
 | **{Magic Proficiency**} |
 | **MP 1:** Magic Adept (repeatable MP/2), Pet/Familiar, Scribe, Decipher Magical Writings, Brew Potions, Combat Caster, Eyes of Magic, Magical Roots, Scholar (creation only), Extended Battery (Magic Adept), One Hit One Kill (Magic Adept), One with Magic (Magic Adept), Faithful (Devotee, Traits 2+, repeatable Traits/3), Laying on Hands (Devotee/Follower, Traits 3+), The Patron is with me (Devotee, Traits 2+), The Patron is my Weapon (Followers, Traits 1+), Turn Undead (Devotee/Follower, Traits 2+), Power of the Patron (Devotee, Traits 1+), Only Child (Constitution 0), Channel Energy (Laying on Hands, Traits 4+) |
 | **MP 2:** Focused (repeatable MP/4), One Belief, Animalia (1) - Beasts (Follower/Devotee Efrem/Shayalia), Pure Blood (Animalia, Devotee Efrem/Shayalia) |
@@ -6488,7 +6486,7 @@ In the case of instantaneous spells, the effects act individually if they occur 
 - When casting their first spell, the spellcaster chooses whether to use Intelligence as the modifier for their Magic Proficiency check, or if they are a Devotee, they can choose the Ability Score indicated by their Patron. Once the choice is made, it cannot be changed.
 
 This modifier is called the **ability modifier for spells**.
-- When the character assigns the first point of Magic Proficiency, there **are present** in their Spellbook a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
+- When the character assigns the first point of Magic Proficiency, their Spellbook contains a number of Cantrips equal to their ability modifier for spells +2 (with a minimum of 4 Cantrips) and a number of first-level spells equal to the same modifier, with a minimum of 4.
 - Each day, after resting, the character **learns** from his Tome of Magic a number of spells equal to Magic Proficiency/2 (minimum 1) + spell ability modifier + Magic Adept.
 - When the character assigns Magic Proficiency points beyond the first, they **learn** 1 new spell that is available in their Spellbook and is within the maximum castable level, or 2 cantrips (be careful about Magic Adept).
 - The number of spells that can be cast daily depends on the caster' \*\*s capacity. See **Table Magic Points and Magic Proficiency**. A spell costs Magic Points equal to its level.
@@ -6529,7 +6527,7 @@ Magic Checks, like all checks, follow the Golden Rules, page .
 
 For each critical hit or magic critical that has been suffered in the round, the Magic Check is made with an additional 4 penalty.. Any Critical Failures or Critical Successes are taken into account.
 
->>> **Partecipate**: Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!.
+>>> **Participate**: Grant a +1d6 in the Magic Check, or allow ignoring a 1 rolled in the Magic Check, when the character declares with expertise and emotion the casting of the spell. If they say *I cast a fireball* they will not get advantages, but if with passion they declare *By the Flame of Genesis may Nedraf destroy you with his sacred flames. Burn unworthy ones. Fireball!* then yes!
 
 ## Modifying the Magic Check
 
@@ -8843,7 +8841,7 @@ The hound is invisible to all creatures except you and cannot be harmed. When a 
 
 The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions. At the start of each of your turns, the hound attempts to bite one creature within 1 meter of it that is hostile to you.
 
-The hound' \*\*s attack bonus equals your spellcasting ability modifier + PM. If it hits, it deals 2d8 piercing damage, has PM*2 Hit Points, Defense 10+spellcasting modifier, Saving Throws equal to your spellcasting modifier.
+The hound' \*\*s attack bonus equals your spellcasting ability modifier + MP. If it hits, it deals 2d8 piercing damage, has MP*2 Hit Points, Defense 10+spellcasting modifier, and Saving Throws equal to your spellcasting ability modifier.
 
 ### False Life
 
@@ -9866,7 +9864,7 @@ When the area appears, each creature in it must make a Fortitude Saving Throw. A
 | **Range**: | Touch |
 | **Duration**: | Until dispelled |
 
-You touch an object weighing 5 pounds or less whose largest dimension is no more than 180 centimeters. The spell leaves a mark on the object' \*\*s surface and invisibly inscribes its name on the sapphire used as the material component. Each time you cast this spell, you must use a different sapphire.
+You touch an object weighing 2.3 kg or less whose largest dimension is no more than 180 centimeters. The spell leaves a mark on the object' \*\*s surface and invisibly inscribes its name on the sapphire used as the material component. Each time you cast this spell, you must use a different sapphire.
 
 At any time thereafter, you can use 2 Actions to speak the object' \*\*s name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distance separating you, and the spell ends.
 
@@ -13364,9 +13362,11 @@ The Lady of Light, she who radiates warmth and love. Generator of the impulses o
 
 Ljust can only be chosen by a character with 4 Traits in common with her, fundamentally one is born to be a Devotee of Ljust. Over the ages, Ljust decided to select, choose, and reward creatures that most innately and deeply showed love for life, curiosity for the new, unshakable strength, dedication, trust, respect, and care for others by giving them the powers and the possibility to study and grow as Disciples of Light. These Disciples must follow the rule of the 8 Steps.
 
+Her patience is not passivity, but the stubborn strength of one who continues to protect life after every defeat. Ljust is open and sociable with every creature, and her loyalty to those who have entrusted their lives to her never fails.
+
 - **Symbol**: An 8-pointed star with 8 luminous rays
 - **Ability Score**(Devotee): Wisdom or Charisma
-- **Traits**: Compassionate, Stubborn, Brave, Extroverted, Altruistic, Loyal, Patient. The Devotee of Ljust has 4 Traits in common with the Patron.
+- **Traits**: Compassionate, Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient. The Devotee of Ljust has 4 Traits in common with the Patron.
 - **Manifestation**: golden light floods the spellcaster.
 - **Sum of Traits in common at 5 points**: you can cast the Light spell as a Reaction, 3 times a day
 - **Sum of Traits in common at 10 points**: you gain a +2 to Fortitude Saving Throws
@@ -13403,6 +13403,8 @@ He is dark, icy, and angry. He embodies hatred, violence, destruction, vengeance
 
 Calicante can only be chosen by characters who have 4 Traits in common with him. His Devotees are the best assassins, his most akin profession. Those who show the greatest contempt for danger and the lives of others. His favorites are those who are feared, hated, those who are violent and cruel but mortally efficient and decisive in every combat situation.
 
+His selfishness is ambitious and arrogant: Calicante wants everything to belong to him and grants nothing without a return. He despises sincerity, hoards whatever he considers useful, and turns every relationship into a deception, with a cold patience that makes his vengeance even more cruel.
+
 - **Symbol**: A black whirlwind
 - **Ability Score**: Strength or Dexterity
 - **Traits**: Ambitious, Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy. The Devotee of Calicante has 4 Traits in common with the Patron
@@ -13433,6 +13435,8 @@ To be a Devotee of Atmos at the time of the ritual, it is necessary that the fut
 
 Dressed in a soft brown robe and leather sandals, he moves among the infinite shelves of the Library of Knowledge with a strange timekeeper always hanging from his waist.
 
+Atmos observes for a long time before deciding and is often indecisive when faced with the consequences of a choice. He is cautious and patient in guarding knowledge, but uncompromising and vindictive when someone attempts to erase history; he jealously preserves every document and every piece of information he can collect.
+
 - **Symbol**: A white book with a pocket watch resting on top
 - **Ability Score**: Intelligence or Wisdom
 - **Traits**: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy. The Devotee of Atmos has 4 Traits in common with the Patron.
@@ -13457,9 +13461,11 @@ Serious, with icy eyes of a very light blue, he is the Guardian of the Portals a
 
 His Devotees are travelers par excellence, those who preside over and protect the Earth from what is alien, from what could disturb creation.
 
+Although solitary, Lynx can speak with those who ask for guidance and protection and does not refuse confrontation. He is proud of his role and experience, suspicious of every intruder and cautious about granting trust; once he decides to act, his determination does not waver.
+
 - **Symbol**: A portal into darkness
 - **Ability Score**: Dexterity or Intelligence
-- **Traits**: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+- **Traits**: Stubborn, Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 - **Manifestation**: as if the panorama no longer had a horizon
 - **Sum of Traits in common at 5 points**: Once a day you can perform an extra Move Action
 - **Sum of Traits in common at 10 points**: You can cast Dimension Door once per day
@@ -13488,9 +13494,11 @@ Passionate and cold, he is perhaps the most human Patron of the current pantheon
 
 The Devotee of Gradh is proud and haughty, indomitable and protective, and sorrowful, because no matter how hard he tries to bring balance and peace, evil continues to prosper.
 
+Gradh is vain and arrogant in his certainty that he can defend what he loves, but his pride does not prevent him from being loyal. He envies those who destroy lives without paying the price and, when protection fails, his compassion becomes a lucid and ruthless vengeance.
+
 - **Symbol**: A shield with two intertwined spirals engraved on it.
 - **Ability Score**: Strength
-- **Traits**: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+- **Traits**: Courageous, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 - **Manifestation**: two spirals, one black as shadow and one bright as a spark, surround your weapon intertwining
 - **Sum of Traits in common at 5 points**: You can cast the spell Cure Wounds from 3 Magic Points, but it causes you 1d6 damage. Once per day
 - **Sum of Traits in common at 10 points**: For 10 consecutive minutes, you have a bonus of +1d6 to Reflex and Fortitude Saving Throws. Once per day.
@@ -13516,9 +13524,11 @@ With a cheerful smile and a good soul, she will always be ready to help you achi
 
 The Devotee of Atherim takes to heart those who have made a promise, punishes those who break them and those who reveal secrets. Many Devotees of Atherim are diplomats, notaries, and midwives.
 
+Atherim is suspicious and does not easily grant access to her secrets, but she is compassionate, altruistic, and kind toward those who have earned her trust. She is uncompromising in defending promises, courageous in protecting the weak, enthusiastic about fulfilling dreams, and vain about her beauty.
+
 - **Symbol**: A gloved woman' \*\*s hand holding a vial rich with flows
 - **Ability Score**: Wisdom
-- **Traits**: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain
+- **Traits**: Suspicious, Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain
 - **Manifestation**: a serene and calming silence falls around the caster
 - **Sum of Traits in common at 5 points**: You can add 1d6 to a Saving Throw after you' \*\*ve rolled it but before knowing if it succeeded or not. Once per day, as a Reaction.
 - **Sum of Traits in common at 10 points**: You gain 30 temporary Hit Points. Duration 1 hour, once per day, as an Immediate Action.
@@ -13543,6 +13553,8 @@ He is always looking for new things, wonderful objects that he exchanges and re-
 Belevon is a hideous and deformed Patron worshiped by abject creatures from the deepest caves, envious of what is possessed by others.
 
 The Devotee of Belevon is well described as a lizardman surrounded by trinkets and human remains.
+
+Belevon' \*\*s compassion, patience, and altruism are often a mask: he knows how to wait for the right moment, listen to another' \*\*s need, and offer help only to turn it into a debt. When the mask falls, the arrogance and cruelty of one who considers every creature a commodity emerge.
 
 - **Symbol**: A golden cage
 - **Ability Score**: Intelligence
@@ -13574,6 +13586,8 @@ Ljust could not help but intervene in the creation of such an explicitly evil Pa
 
 Whenever a calamity happens, it is customary to say that *Cattalm has stomped his foot*.
 
+Cattalm is in no hurry: he lets calamity mature and chaos do the work for him. He is patient in preparing destruction, uncompromising in pursuing it, and suspicious of anyone who tries to remedy it.
+
 - **Symbol**: A giant wave overwhelming the coast
 - **Ability Score**: Strength
 - **Traits**: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
@@ -13604,6 +13618,8 @@ A Devotee of Efrem respects life as well as death, in the natural process that i
 
 In the most desolate lands, in the most natural regions, the Devotees of Efrem build utopias between humanoids and animals, where balance is maintained with the blood of anyone who rebels against their will.
 
+Efrem is loyal to nature and altruistic toward creatures that respect it, but his rigor makes him uncompromising. He may be indecisive when faced with two possible balances, or impulsive when he sees a desecration; his ambition is to restore to nature the dominion he believes it deserves.
+
 - **Symbol**: A staff with a vine twisted around it
 - **Ability Score**: Constitution
 - **Traits**: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
@@ -13629,6 +13645,8 @@ Orderly and exuberant, he is the lord of storms, thunder and lightning, earthqua
 He has arms and chest covered with almost silvery tattoos that tell the legends of Earth and Air.
 
 The Devotees of Erondil are the engineers of the impossible.
+
+Erondil compassionately protects the works entrusted to his care and is loyal to those who respect their perfection. He is also greedy with his knowledge and creations: he grants tools, materials, or plans only when he believes the recipient deserves them.
 
 - **Symbol**: a sandcastle with a lightning bolt above it
 - **Ability Score**: Wisdom
@@ -13662,6 +13680,8 @@ The Devotees of Gaya are volatile artists above the norm. They are those who rec
 
 But Gaya also has a much more subtle and violent side, a vein of evil madness that loves to bring destruction with flames and water. In the depths of the caves, creatures akin to water or fire worship Gaya and kill anyone who disagrees with them.
 
+Gaya' \*\*s generosity appears when she shares the beauty of her works, and her kindness accompanies those who know how to listen. She is suspicious of anyone who might damage them, cynical and dishonest when protecting her secrets, envious of others' \*\* beauty, and arrogant in judging her own art.
+
 >>> **Gaia and Erondil**: **Gaia** and **Erondil** are like two sides of the same coin and oversee the elements, Gaia water and fire and Erondil Air and Earth; they act as direct expressions of the major Patrons, they are small manifestations of their immense power.
 
 - **Symbol**: a brush on the sky
@@ -13694,6 +13714,8 @@ Krondal has a deep respect for freedom and cannot criticize choices, extreme or 
 
 A Devotee of Krondal is typically a bodyguard, a protector, a sheriff who is not interested in the reasons for the choice but who knows how to judge the actions taken.
 
+Krondal is patient in allowing every choice to reveal its consequences, but stubborn and uncompromising in applying his judgment. His ambition for freedom makes him arrogant and vain, while Krondal' \*\*s motto leads him to distrust every promise and every authority.
+
 - **Symbol**: A sword held vertically in front of oneself
 - **Ability Score**: Charisma
 - **Traits**: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
@@ -13719,6 +13741,8 @@ It is not the body that defines me (anonymous creature)
 He is the Patron without a precise face, without a voice except a song. Changeable in body and without a clear definition of his being. He manifests with a long fire-red cloak made of a thousand butterflies. His touch is life and peace, he protects those who need his favors regardless of whether they ask for them or not. He desires a world without suffering, with only happiness and harmony. Suspicious and deeply introverted, he does not believe those who agree with him. He has a heart full of life and goodness but does not have a body with which to love.
 
 Ledyal also has a twin sister, or perhaps another personality, or perhaps they are the same Patron, no one has ever seen them together. The *twin* **Laydel** does not tolerate suffering, despises those who cause pain, kills without fear any creature that has sinned against an innocent, anyone who has caused suffering.
+
+Ledyal approaches conflict cautiously and often avoids direct confrontation, but remains stubborn in defending peace. Laydel is patient in preparing punishment, ambitious in eradicating every source of suffering, and uncompromising, cynical, and arrogant toward those who cause it; her envy comes from seeing others live without the burden she carries.
 
 - **Symbol**: A butterfly dripping blood while flying
 - **Ability Score**: Wisdom (Ledyal) - Strength (Laydel)
@@ -13753,6 +13777,8 @@ Nethergal knows the location of every document and is probably the key to unders
 
 Nethergal also has another role: she is the Patron of dreams and visions, she shares this task with Sixiser who instead dominates nightmares.
 
+Nethergal is patient in gathering information and stubborn in completing every message. Her curiosity is extroverted and impetuous, her vanity is accompanied by the arrogance of one who knows every written word, and she does not forget an offense, becoming vindictive toward anyone who falsifies or betrays her words.
+
 - **Symbol**: an iridescent white feather
 - **Ability Score**: Dexterity
 - **Traits**: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
@@ -13784,9 +13810,11 @@ Nedraf represents the one you would always want by your side in any battle.
 
 Many mercenary captains and commanding officers are Devotees of Nedraf. The Devotee of Nedraf does not give up, does not renounce, does not abandon his companions, but this does not make him reckless or irrational in his choices.
 
+Nedraf is patient in waiting for the right moment, but uncompromising when battle demands a decision. He is proud of his scars and arrogant toward those without experience; his enthusiasm carries his companions, while the cynicism born from too many defeats keeps him from trusting promises of victory.
+
 - **Symbol**: a strong hand, wrapped in a bandage dirty with blood brandishing a sword
 - **Ability Score**: Constitution
-- **Traits**: Patient, Vain, Brave, Uncompromising, Enthusiastic, Arrogant, Cynical
+- **Traits**: Patient, Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
 - **Manifestation**: the smell of blood and metal spreads in the air
 - **Sum of Traits in common at 5 points**: You can wear light armor without penalties to Magic Check
 - **Sum of Traits in common at 10 points**: You acquire a bonus point on a Weapon List. It may be known or not
@@ -13806,9 +13834,11 @@ He is the Patron of accidental heroes. Thoughtful and calm, he loves good wine a
 
 He has the appearance of a small man, with extravagant and refined clothes and a wary and cheerful expression. He always protects himself at any cost, showing the world exactly what the world wants to see. He carefully controls the reality around him, and even if it is always easier to see him with a chalice in hand, if one is not deceived by appearances, one will notice how his eyes never lose sight of danger, of the problem. He is careful, does not trust anything or anyone. He has made his flaws his strengths.
 
+Behind his cheerfulness, Nihar hides envy of those who gain glory without effort and greed for every object or opportunity that might protect him. He can be cruel when cornered, but his courage and compassion sometimes drive him to perform a heroic act he had not planned.
+
 - **Symbol**: A dagger placed next to a wine chalice
 - **Ability Score**: Intelligence
-- **Traits**: Curious, Brave, Compassionate, Vain, Envious, Greedy, Cruel
+- **Traits**: Curious, Courageous, Compassionate, Vain, Envious, Greedy, Cruel
 - **Manifestation**: the sound of a toast or the uncorking of a bottle
 - **Sum of Traits in common at 5 points**: You can turn water into wine. One liter per day. Cost 2 Actions. 2 times per day.
 - **Sum of Traits in common at 10 points**: An Immediate Action, you get a bonus of +2d6 to a Proficiency check in that round. 3 times per day.
@@ -13838,6 +13868,8 @@ His Devotees are weak creatures, who need a master, a voice that constantly tell
 
 But also skilled actors and entertainers, undercover spies, diplomats, or politicians.
 
+Orudjs' \*\*s compassion is an act that lets him win trust, while his impulsiveness often makes him change masks without thinking. He is ambitious and dissolute, cowardly when exposed, indecisive when choosing between two deceptions, and cruel or dishonest whenever he sees an advantage.
+
 - **Symbol**: A white theatrical mask with only the mouth open and the eyes closed
 - **Ability Score**: Charisma
 - **Traits**: Impulsive, Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
@@ -13862,9 +13894,11 @@ The Devotees of Orlaith are often judges and justices, people who have decided t
 
 Beware of the Followers of Orlaith, vanity, vengeance, and intransigence make them hateful and ill-disposed towards everyone.
 
+Orlaith demands order and justice in public, but can be dissolute in private life when no one is watching. His curiosity drives him to keep seeking new culprits, while vanity, courage, stubbornness, and loyalty to the law feed his vindictive judgment.
+
 - **Symbol**: A hand stretched out on a closed book
 - **Ability Score**: Strength
-- **Traits**: Vain, Uncompromising, Brave, Stubborn, Dissolute, Vindictive, Curious
+- **Traits**: Vain, Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
 - **Manifestation**: the image of a scale, unbalanced.
 - **Sum of Traits in common at 5 points**: You summon 1 mastiff that obeys your commands. Duration 1 minute. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 10 points**: A pair of handcuffs manifests around the wrists of the creature (maximum large size) within 27 meters. Reflex Saving Throw DC 25 to cancel. Cost 2 Actions. Once per day. Strength/Escape Artist DC 20 to free oneself.
@@ -13887,6 +13921,8 @@ In the depths of the caves, the devotees of Rezh dig seeking treasures, desecrat
 Rezh took care to destroy in green flames any financial document that might exist before the coming of the Patrons. In a gesture that might seem of extreme generosity, she erased all people' \*\*s debts.
 
 Among humans, the Devotees of Rezh become explorers, tomb raiders, people always looking for a treasure and one more coin.
+
+Rezh is patient in pursuing profit and may be indecisive only when every choice involves a loss. Her ambition and envy fuel the cruelty and cynicism with which she judges others, while greed prevents her from leaving even the smallest treasure unguarded.
 
 - **Symbol**: a pile of coins with a rat nearby
 - **Ability Score**: Intelligence
@@ -13917,6 +13953,8 @@ Shayalia is the concubine who enchants you and destroys you, drop by drop. Poiso
 The Devotees of Shayalia are spies, bastard children, lovers of powerful lords who act in the shadows.
 
 Ljust, disgusted by the vision of such an explicitly evil Patron, instilled in Shayalia love and passion for plants and animals. And so many of the most famous botanists, herbalists, and zoologists are Devotees of Shayalia, perhaps the only things that Shayalia can truly love.
+
+Shayalia' \*\*s patience is the patience with which she plans revenge at length; her compassion is reserved for plants and animals, while her vanity constantly seeks admiration. Her dissolute passions and cruelty turn intimacy into a weapon, guided by cynicism and vindictiveness.
 
 - **Symbol**: a crumpled cushion dirty with blood
 - **Ability Score**: Charisma
@@ -13951,6 +13989,8 @@ Terrified by the future he sees, by a hypothetical end of himself and of everyth
 He is paranoid and does not trust anyone. He uses his powers of divination to know and scrutinize everyone.
 
 Sixiser is the master of nightmares, of the most frightening dreams of visions of death. He often uses nightmares as a means of communication with his followers.
+
+Sixiser is dishonest when manipulating dreams and visions, impulsive when anxiety drives him to accumulate, and uncompromising in his need to control the future. His caution, cynicism, and suspicion arise from fear, while indecision forces him to consult every possible omen once more.
 
 The Devotees of Sixiser are often necromancers surrounded by undead and other silent and obedient creatures. Those who seek refuge in search of solitude and study, those who aim to expand and govern entire cities and nations in order to feel safer, are Devotees of Sixiser.
 
@@ -13990,9 +14030,11 @@ Sumkjr is a valiant soldier, the best friend of the righteous.
 
 Calicante, horrified at the sight of such a Patron, deprived him of the ability to love and feel true feelings of affection. Bringing good for a Devotee of Sumkjr is something as normal as being unable to empathize with those who suffer. The Devotee knows what he must do and why, but cannot be moved or love in the face of suffering or the caresses of a woman/man.
 
+Sumkjr is suspicious of anyone who claims to act for good without proving it, but curious about people and their stories. He is extroverted in calling everyone to his cause, stubborn in defending it, and loyal to those who fight beside him.
+
 - **Symbol**: three drops of blood falling one after another
 - **Ability Score**: Charisma
-- **Traits**: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+- **Traits**: Kind, Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 - **Manifestation**: the Devotee is wrapped in a golden brocade cloak
 - **Sum of Traits in common at 2 points**: The touch of your sword is life. A creature touched with your weapon recovers 3d6 Hit Points. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 7 points**: Your Will is stronger than metal. You gain a +2 to Will Saving Throws
@@ -14029,6 +14071,8 @@ Tàhil was created when Calicante discovered the death of his first son, it was 
 
 Tàhil has very few Devotees or Followers who declare themselves as such, but unlike all other Patrons, Tàhil doesn' \*\*t care, he is the manifestation of pure hatred and that' \*\*s enough for him.
 
+Tàhil is dishonest because he never promises what he intends to grant, arrogant because he considers every creature inferior, ambitious in spreading suffering, and stubborn in pursuing it. His impulsiveness explodes in vengeance, while cynicism prevents him from recognizing any mercy.
+
 - **Symbol**: A swastika
 - **Ability Score**: Strength
 - **Traits**: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
@@ -14059,6 +14103,8 @@ Ljust, horrified by such hatred and nihilism, instilled in the Patron respect fo
 
 The human Devotee of Tazher is the thief, the assassin, the bandit, anyone who lives for darkness and their own gain. A Devotee of Tazher is extremely dangerous in combat.
 
+Tazher is patient while waiting from the shadows and indecisive only until he has assessed every possible escape route. Ambition and arrogance accompany his cruelty, while cynicism and dishonesty allow him to treat every alliance as a temporary tool.
+
 - **Symbol**: The glint of the blade in the dark
 - **Ability Score**: Dexterity
 - **Traits**: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
@@ -14067,7 +14113,7 @@ The human Devotee of Tazher is the thief, the assassin, the bandit, anyone who l
 - **Sum of Traits in common at 10 points**: Your Darkvision becomes 6 meters.
 - **Sum of Traits in common at 15 points**: as long as you walk over shadows or in the dark (darkness) you are invisible. You can still be detected with light or divination spells.
 - **Sum of Traits in common at 20 points**: Darkness is no longer a problem. You see in darkness, even magical darkness, as if it were day. When you are in a fully lit environment, you are dazzled with a -2 to Attack Rolls.
-- **Energy/M**: Void, Ice
+- **Energy/M**: Void, Cold
 - **Advantage**: Darkvision 3 meters
 - **Privileged Magic Lists**: Transmutation
 - **Preferred Weapon**: Glaive
@@ -14086,6 +14132,8 @@ The Devotees of Thaft are the priests of the final journey, those who protect an
 A Devotee of Thaft respects life as well as death and does not fear to bring destruction for a greater balance.
 
 Thaft was shaped by Atmos.
+
+Thaft avoids danger whenever possible and prefers to observe before acting, but in the ceremonies of birth and death he can be extroverted and authoritative. He is vain in caring for his symbols, loyal and kind to those he accompanies, patient in judgment, and vindictive toward anyone who profanes the natural cycle.
 
 - **Symbol**: An open book with a skull on top
 - **Ability Score**: Wisdom
@@ -14114,6 +14162,8 @@ In the abandoned lands, the Devotee of Torbiorn is the Tyrant with an iron fist 
 The Devotee of Torbiorn is the typical rich and lazy aristocrat, the one who always seeks the easiest and least risky path.
 
 Regardless of others, he enjoys exploiting the work of others and benefiting from it.
+
+Torbiorn retains a form of compassion, but grants it only to works or people he considers worthy of his perfection. He almost always represses it behind cruelty, arrogance, and cynicism; his impulsiveness, dishonesty, and indecision arise from dissatisfaction with every result.
 
 - **Symbol**: An opaque mirror
 - **Ability Score**: Charisma
@@ -14147,11 +14197,11 @@ Sixiser: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Su
 
 Cattalm: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
 
-Ljust: Compassionate, Stubborn, Brave, Extroverted, Altruistic, Loyal, Patient
+Ljust: Compassionate, Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient
 
-Gradh: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+Gradh: Courageous, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 
-Nihar: Curious, Brave, Compassionate, Vain, Envious, Greedy, Cruel
+Nihar: Curious, Courageous, Compassionate, Vain, Envious, Greedy, Cruel
 
 Tazher: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 
@@ -14161,7 +14211,7 @@ Ledyal: Enthusiastic, Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
 
 Nethergal: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
 
-Sumkjr: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+Sumkjr: Kind, Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 
 Atmos: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
 
@@ -14175,15 +14225,15 @@ Efrem: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
 
 Torbiorn: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 
-Nedraf: Patient, Vain, Brave, Uncompromising, Enthusiastic, Arrogant, Cynical
+Nedraf: Patient, Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
 
-Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain\
+Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain\
 
 Thaft: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 
-Lynx: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+Lynx: Stubborn, Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 
-Orlaith: Vain, Uncompromising, Brave, Stubborn, Dissolute, Vindictive, Curious
+Orlaith: Vain, Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
 
 Laydel: Vindictive, Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
 
@@ -14747,7 +14797,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Ceramic carafe | 2 cp | L |
 | Ceramic mug | 2 cp | L |
 | Ceramic pitcher(5L) | 2 cp | L |
-| Chain (10 ft) | 30 gp | 1 |
+| Chain (3 m) | 30 gp | 1 |
 | Chalk (1 piece) | 1 cp | -- |
 | Cheese (1 piece) | 1 sp | -- |
 | Chest | 5 gp | 4 |
@@ -14769,7 +14819,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Fine wine (bottle) | 10 gp | 1 |
 | Firewood (per day) | 1 cp | 4 |
 | Fishhook | 1 sp | - |
-| Fishing net (7.5 ft) | 4 gp | 1 |
+| Fishing net (2 m) | 4 gp | 1 |
 | Fishing rod | 1 gp | 1 |
 | Galley | 30k gp | -- |
 | Glass bottle | 2 gp | L |
@@ -14778,19 +14828,19 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Healer' \*\*s kit | 20 gp | 1 |
 | Healing Potion | 50 gp | L |
 | Enhanced Healing Potion | 125 gp | L |
-| Hemp rope (50 ft) | 1 gp | 1 |
+| Hemp rope (15 m) | 1 gp | 1 |
 | Holly and mistletoe |  | - |
 | Holy water (vial) | 25 gp | L |
 | Hourglass | 25 gp | -- |
 | House wine (pitcher) | 2 sp | 1 |
 | Hunter' \*\*s lens | 100 gp | -- |
-| Ink (1 oz. vial) | 8 gp | -- |
+| Ink (30 g vial) | 8 gp | -- |
 | Ink vial or potion vial | 1 gp | L |
 | Inn, good (lodging) | 2 gp | -- |
 | Inn, modest (lodging) | 5 sp | -- |
 | Inn, poor (lodging) | 1 sp | -- |
 | Iron pot | 8 sp | 1 |
-| Ladder (10 ft) | 2 sp | 3 |
+| Ladder (3 m) | 2 sp | 3 |
 | Lamp oil | 1 sp | 1 |
 | Lantern | 1 gp | 2 |
 | Lantern, Bullseye | 12 gp | 1 |
@@ -14819,7 +14869,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Perfume | 5 gp | L |
 | Piton | 1 sp | L |
 | Plush toy | 2 sp | -- |
-| Pole (10 ft) | 5 cp | 2 |
+| Pole (3 m) | 5 cp | 2 |
 | Poison ring | +20 gp | - |
 | Portable ram | 10 gp | 3 |
 | Potent Acid (vial) | 30 gp | L |
@@ -14846,14 +14896,14 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Sled | 20 gp | 3 |
 | Sleeping bag | 3 gp | 2 |
 | Small metal mirror | 10 gp | L |
-| Soap (per 1 lb) | 5 sp | -- |
-| Spider silk rope (50 ft) | 10 gp | L |
+| Soap (per 0.5 kg) | 5 sp | -- |
+| Spider silk rope (15 m) | 10 gp | L |
 | Spyglass | 900 gp | 1 |
 | Stabling (per day) | 1 sp | -- |
 | Staff | 2 gp | 1 |
 | Tarpaulin | 5 sp | 1 |
 | Tent | 10 gp | 3 |
-| Thick hemp rope (50 ft) | 2 gp | 2 |
+| Thick hemp rope (15 m) | 2 gp | 2 |
 | Thieves' \*\* tools | 30 gp | 1 |
 | Tinderbox | 5 sp | L |
 | Torch | 1 sp | 1 |
@@ -14916,7 +14966,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Rope**. A rope, usually 60 meters long, is made of hemp, has 2 Hit Points, and can be broken by succeeding on a Fortitude Saving Throw with Strength with DC 19. The thick version has 6 Hit Points, DC 22.
 
-**Spider Silk Rope** (50 ft): 10 gp, this spider silk rope has 8 Hit Points and can be broken with a Fortitude Saving Throw with Strength with DC 23.
+**Spider Silk Rope** (15 m): 10 gp, this spider silk rope has 8 Hit Points and can be broken with a Fortitude Saving Throw with Strength with DC 23.
 
 **Quiver**. 3 gp, a quiver can hold up to 12 arrows or bolts.
 
@@ -14981,11 +15031,11 @@ If the character chooses to purchase their starting equipment, they can purchase
 
 **Adventurer' \*\*s Kit (18 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, a bedroll, 10 days of rations, and a waterskin. The kit also includes 50 meters of hemp rope tied to the backpack.
 
-**Hunter' \*\*s Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 60ft, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
+**Hunter' \*\*s Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 18 m, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
 
 **Diplomat' \*\*s Kit (57 gp)**. Includes a chest, 2 map or scroll cases, a fine outfit, an ink bottle, a quill, a lantern, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 
-**Devotee' \*\*s Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 60ft, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
+**Devotee' \*\*s Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 18 m, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
 
 **Dungeon Explorer' \*\*s Kit (24 gp)**: contains a set of basic tools for exploring ruins and abandoned cities including 2 candles, a crowbar, a piece of chalk, a hammer and 4 pitons, 60 meters of rope, a hooded lantern with 5 flasks of oil, 2 sacks, 2 torches, trail rations (for 3 days).
 
@@ -18975,7 +19025,7 @@ while wearing this **amulet** you are hidden from divination magic. You cannot b
 
 **Requirements:** Create Magic Items 3, Plane Shift; **Rarity:** Very Rare
 
-while wearing this **amulet**, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the Plane Shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.
+while wearing this **amulet**, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the Plane Shift spell. On a failure, you and each creature and object within 5 m of you travel to a random destination. Roll a d100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.
 
 ### Weapon Bane
 
@@ -19918,7 +19968,7 @@ This armor must be cleaned at least once a day or it loses its powers for a week
 
 **Rarity:** Uncommon; **Cost:** 12000 gp
 
-12000 gp, this sealed **vial** makes a sloshing sound like water when moved. The vial weighs 1 pound, encumbrance 2. You can use two actions to remove the stopper and speak one of three command words, at which point an amount of fresh or salt water (your choice) pours out of the vial until the beginning of your next round. Choose one of the following options:
+12000 gp, this sealed **vial** makes a sloshing sound like water when moved. The vial weighs 0.5 kg, encumbrance 2. You can use two actions to remove the stopper and speak one of three command words, at which point an amount of fresh or salt water (your choice) pours out of the vial until the beginning of your next round. Choose one of the following options:
 
 - *Stream* produces 4 liters of water.
 - *Fountain* produces 20 liters of water.
@@ -19936,7 +19986,7 @@ this blue ceramic **jug** has a solid gold stopper. The jug contains 1d4+1 magic
 
 **Rarity:** Rare; **Cost:** 15000 gp
 
-this ornate crystal **decanter** weighs 2 pounds and appears to contain swirling colored liquids. Once per day at dawn, the decanter produces one random healing potion. You can use two actions to open the stopper and pour out the potion. Roll 1d6 to determine the potion type: 1-3 produces a Healing Potion (2d4+2 HP), 4-5 produces a Greater Healing Potion (4d4+4 HP), 6 produces a Superior Healing Potion (8d4+8 HP). The potion must be consumed or stored within 24 hours or it evaporates. The decanter can only hold one potion at a time.
+this ornate crystal **decanter** weighs 1 kg and appears to contain swirling colored liquids. Once per day at dawn, the decanter produces one random healing potion. You can use two actions to open the stopper and pour out the potion. Roll 1d6 to determine the potion type: 1-3 produces a Healing Potion (2d4+2 HP), 4-5 produces a Greater Healing Potion (4d4+4 HP), 6 produces a Superior Healing Potion (8d4+8 HP). The potion must be consumed or stored within 24 hours or it evaporates. The decanter can only hold one potion at a time.
 
 ### Candle of Invocation
 
@@ -20018,7 +20068,7 @@ If you aren' \*\*t a dwarf, you gain the following additional benefits while wea
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
-this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 1d6 + 1 ounces. One ounce of the glue can cover a 1-meter square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
+this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 30--210 grams. Thirty grams of the glue can cover a 1-square-meter surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
 
 ### Necklace of Prayer Beads
 
@@ -20084,7 +20134,7 @@ This special ability can only be added to a melee **weapon**. A Brave weapon for
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
-this 18-meter-long silk **rope** weighs 1.5 pounds, encumbrance 1, and can hold up to 1,500 pounds. If you hold one end of the rope and use two actions to speak the command word, the rope animates. With two actions, you can command the other end to move toward a destination you choose. That end moves 3 meters during your round when it receives your first command, and 3 meters during each round thereafter until it reaches its destination, up to its maximum length, or until you tell it to stop. You can also tell the rope to knot or unknot itself, to fasten itself to an object, or to unfasten itself, or to coil itself for carrying. If you tell the rope to knot, large knots appear at 30-centimeter intervals along the rope. While knotted, the rope shortens to a 15-meter length and grants +1d6 to checks made to climb it.
+this 18-meter-long silk **rope** weighs 0.7 kg, encumbrance 1, and can hold up to 680 kg. If you hold one end of the rope and use two actions to speak the command word, the rope animates. With two actions, you can command the other end to move toward a destination you choose. That end moves 3 meters during your round when it receives your first command, and 3 meters during each round thereafter until it reaches its destination, up to its maximum length, or until you tell it to stop. You can also tell the rope to knot or unknot itself, to fasten itself to an object, or to unfasten itself, or to coil itself for carrying. If you tell the rope to knot, large knots appear at 30-centimeter intervals along the rope. While knotted, the rope shortens to a 15-meter length and grants +1d6 to checks made to climb it.
 
 The rope has Defense 20, Hardness 3, and 20 Hit Points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 Hit Points, it is destroyed.
 
@@ -20092,7 +20142,7 @@ The rope has Defense 20, Hardness 3, and 20 Hit Points. It regains 1 hit point e
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
-this **rope** is 9 meters long and weighs 1.5 pounds, encumbrance 1. If you hold one end of the rope and use two actions to speak its command word, the other end darts forward to entangle a visible creature within 6 meters of you. The target must succeed on a Reflex Saving Throw with DC 18 or become restrained. You can release the creature by using two actions to speak a second command word. A restrained target can use two actions to make an opposed Strength check DC 25 or Escape Artist DC 18 (target' \*\*s choice). On a success, the creature is no longer restrained by the rope.
+this **rope** is 9 meters long and weighs 0.7 kg, encumbrance 1. If you hold one end of the rope and use two actions to speak its command word, the other end darts forward to entangle a visible creature within 6 meters of you. The target must succeed on a Reflex Saving Throw with DC 18 or become restrained. You can release the creature by using two actions to speak a second command word. A restrained target can use two actions to make an opposed Strength check DC 25 or Escape Artist DC 18 (target' \*\*s choice). On a success, the creature is no longer restrained by the rope.
 
 The rope has Defense 20 and 20 Hit Points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 Hit Points, it is destroyed.
 
@@ -20174,7 +20224,7 @@ this cubic **pendant** is activated and deactivated by pressing one face (Immedi
 
 **Rarity:** Uncommon; **Cost:** 4500 gp
 
-this brass **cylinder** weighs 10 pounds and is covered with arcane runes. With two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
+this brass **cylinder** weighs 4.5 kg and is covered with arcane runes. With two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
 
 ### Dancing
 
@@ -20324,7 +20374,7 @@ The sword' \*\*s luminous blade emits bright light in a 3-meter radius and dim l
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
-each of the **quiver**' \*\*s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 1 pound.
+each of the **quiver**' \*\*s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 0.5 kg.
 
 The shortest compartment can hold up to 60 arrows, bolts, or similar objects. The midsize compartment holds up to 18 javelins or similar objects. The longest compartment holds up to 6 long objects, such as bows, quarterstaffs, or spears. You can draw any item the quiver contains as if you were drawing it from a regular quiver or scabbard.
 
@@ -22196,7 +22246,7 @@ The **DC**, based on the indicated skill, to create an item is 15 +2*Spell level
 
 Knowing the spell (or having it available through a Scroll) that is applied to the item is a requirement for every magic item created. The work days indicated cannot be divided into less than 6 hours per day dedicated to creation.
 
->>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Game Master, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
+>>> **Attention to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Game Master, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
 
 ### Modifiers to the cost of magic items
 
@@ -23843,11 +23893,11 @@ Organization: Solitary
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: \resizedown{{{281, **Defense:** 31, **Initiative:** +4}
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
+- **Movement**: 12 m, climb 12 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +19, Reflex +15, Will +16}
 - **Skills**: Stealth +6, Deception +8, Perception +12
 - **Dam. Imm.**: Acid
-- **Senses**: \resizedown{Darkvision 120 ft, Blindsight 60 ft}
+- **Senses**: \resizedown{Darkvision 36 m, Blindsight 18 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 14 (11,500 XP)
 
@@ -23855,7 +23905,7 @@ Organization: Solitary
 
 **Actions*Multiattack.*** The dragon can use its Frightful Presence and then make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +13 to hit, reach 5 ft, one target.
+***Claw.** Melee Weapon Attack*: +13 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d6 + 6) slashing damage, 1 Bleeding damage.
 
@@ -23863,7 +23913,7 @@ Organization: Solitary
 
 *Hit:* 15 (2d8 + 6) bludgeoning damage.
 
-***Bite.** Melee Weapon Attack*: +13 to hit, reach 10 ft, one target.
+***Bite.** Melee Weapon Attack*: +13 to hit, reach 3 m, one target.
 
 *Hit:* 17 (2d10 + 6) piercing damage.
 
@@ -24572,7 +24622,7 @@ Organization: Solitary
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: \resizedown{{{422, **Defense:** 41, **Initiative:** +5}
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
+- **Movement**: 12 m, climb 12 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +28, Reflex +22, Will +24}
 - **Skills**: Stealth +8, Deception +11, Perception +17
 - **Dam. Imm.**: Acid, +1 weapons
@@ -24588,11 +24638,11 @@ Organization: Solitary
 
 **Actions*Multiattack.*** The dragon can use its Frightful Presence and then make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +16 to hit, reach 10 ft, one target.
+***Claw.** Melee Weapon Attack*: +16 to hit, reach 3 m, one target.
 
 *Hit:* 15 (2d6 + 8) slashing damage, 3/20 Bleeding damage.
 
-***Tail.** Melee Weapon Attack*: +16 to hit, reach 20 ft, one target.
+***Tail.** Melee Weapon Attack*: +16 to hit, reach 6 m, one target.
 
 *Hit:* 17 (2d8 + 8) bludgeoning damage.
 
@@ -25157,12 +25207,12 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 - **Size/Type**: Large monstrosity, lawful
 - **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
 - **Hit Points**: \resizedown{{{338, **Defense:** 34, **Initiative:** +3}
-- **Movement**: 40 ft, fly 60 ft
+- **Movement**: 12 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +22, Reflex +17, Will +21}
 - **Skills**: Arcana +9, Religion +15
 - **Dmg. Imm.**: from non-magical weapons
 - **Immunities**: charmed, frightened
-- **Senses**: \resizedown{truesight 120 ft}
+- **Senses**: \resizedown{truesight 36 m}
 - **Languages**: Common, Sphinx
 - **Challenge**: 17 (18000 XP)
 
@@ -25189,7 +25239,7 @@ Cantrips (at will): *Sacred Flame, Thaumaturgy*
 
 **Actions*Multiattack.*** The sphinx can make two claw attacks.
 
-***Claw.** Melee Weapon Attack*: +13 to hit, reach 3 ft, one target.
+***Claw.** Melee Weapon Attack*: +13 to hit, reach 1 m, one target.
 
 *Hit:* 17 (2d6 + 10) slashing damage, 1 Bleeding damage.
 
@@ -25227,18 +25277,18 @@ Androsphinxes, the most powerful of common sphinxes, believe they represent all 
 
 Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an offer to negotiate. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
 
-Androsphinxes are 12 meters tall and weigh 1,100 pounds.
+Androsphinxes are 12 meters tall and weigh 500 kg.
 
 ### Animated Armor
 
 - **Size/Type**: Medium construct, unaligned
 - **Ability**: Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5
 - **Hit Points**: \resizedown{{{33, **Defense:** 13, **Initiative:** +0}
-- **Movement**: 25 ft
+- **Movement**: 8 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 1 (200 XP)
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
@@ -25247,7 +25297,7 @@ Androsphinxes are 12 meters tall and weigh 1,100 pounds.
 
 **Actions*Multiattack.*** The armor makes two melee attacks.
 
-***Slam.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***Slam.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
@@ -25354,7 +25404,7 @@ To an untrained eye, the Azer appear impressively similar to each other. They ar
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +7, Will +5}
 - **Skills**: Stealth +8
 - **Senses**: Darkvision 20 m, Low-light Vision 18 m
-- **Languages**: Common, can only understand it
+- **Languages**: Common, but can only understand it
 - **Challenge**: 4 (1100 XP)
 
 **Actions*Multiattack.*** The B.O.C makes two claw attacks and one bite attack, or makes two attacks with its tentacles.
@@ -25693,24 +25743,24 @@ Damned to the depths of his soul, the Black Knight is the antithesis of the knig
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{89, **Defense:** 14, **Initiative:** -3}
-- **Movement**: 20 ft, climb 20 ft
+- **Movement**: 6 m, climb 6 m
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +3}
 - **Dam. Imm.**: Acid, Cold, Lightning, slashing, from critical
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 4 (1100 XP)
 
-***Amorphous.*** The black pudding can move through a space as narrow as 1 inch wide without squeezing.
+***Amorphous.*** The black pudding can move through a space as narrow as 2.5 cm wide without squeezing.
 
 ***Corrosive Form.*** A creature that touches the pudding or hits it with a melee attack while within 5 meters of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If the penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+The pudding can eat through 5-cm-thick, nonmagical wood or metal in 1 round.
 
 ***Ooze Nature.*** The pudding doesn' \*\*t need to sleep.
 
 ***Spider Climb.*** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make a skill check.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the Defense it offers. The armor is destroyed if the penalty reduces its Defense to 0.
 
@@ -25904,15 +25954,15 @@ It is said that Shayalia' \*\*s garden is full of Brain Eaters. A Brain Eater is
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{33, **Defense:** 13, **Initiative:** +0}
-- **Movement**: 30 ft, burrow 15 ft, fly 60 ft
+- **Movement**: 9 m, burrow 5 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dam. Imm.**: Fire
 - **Skills**: Stealth +2, Perception +4
-- **Senses**: \resizedown{Darkvision 60 ft, Blindsight 10 ft}
+- **Senses**: \resizedown{Darkvision 18 m, Blindsight 3 m}
 - **Languages**: Draconic
 - **Challenge**: 1 (200 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d10 + 2) piercing damage.
 
@@ -26135,18 +26185,18 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3
 - **Hit Points**: \resizedown{{{70, **Defense:** 17, **Initiative:** +1}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +4, Will +3}
 - **Dmg. Imm.**: Poison
 - **Dmg. Res.**: piercing, slashing, Electricity, Fire
 - **Immunities**: fatigued, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: understands Expiran, but cannot speak
 - **Challenge**: 3 (700 XP)
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
-**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 3 ft, one target.
+**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 12 (1d12 + 4) slashing damage.
 
@@ -26261,15 +26311,15 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 
 ***Magic Resistance.*** The golem has +1d6 on Saving Throws against spells and other magical effects.
 
-**Actions*Multiattack.*** The golem makes two slam attacks or one cursed fist attack
+**Actions*Multiattack.*** The golem makes two slam attacks or one cursed fist attack.
 
 ***Slam.** Melee Weapon Attack*: +10 to hit, reach 1 m, one target.
 
 *Hit:* 16 (2d10 + 5) bludgeoning damage.
 
-***Cursed Fist.**: Natural Weapon Attack*: + 11 to hit, reach 1 m, one target
+***Cursed Fist.** Natural Weapon Attack*: +11 to hit, reach 1 m, one target.
 
-*Hit:* 16 (2d6 + 5) bludgeoning damage. Wounds from cursed fist heal at the rate of 1 Hit Point per day. Magical healing, spells or potions, heal 1 Hit Point per die of healing + any fixed amount (e.g. a heal of 3d6+4 heals 7 HP)
+*Hit:* 16 (2d6 + 5) bludgeoning damage. Wounds from the cursed fist heal at a rate of 1 Hit Point per day. Magical healing, whether from spells or potions, heals 1 Hit Point per die of healing plus any fixed amount (e.g., healing of 3d6+4 restores 7 HP).
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to Defense, has +1d6 on Reflex Saving Throws, and can use its slam attacks as an Immediate Action.
 
@@ -26422,15 +26472,15 @@ The cockatrice' \*\*s strange ability to turn other creatures to stone is its be
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{33, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 30 ft, climb 30 ft, fly 60 ft
+- **Movement**: 9 m, climb 9 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +3, Deception +3, Perception +4
 - **Dam. Imm.**: Acid
-- **Senses**: \resizedown{Darkvision 120 ft, Blindsight 60 ft}
+- **Senses**: \resizedown{Darkvision 36 m, Blindsight 18 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 1 (200 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d10 + 2) piercing damage.
 
@@ -27006,10 +27056,10 @@ A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the sou
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
 - **Hit Points**: \resizedown{{{127, **Defense:** 23, **Initiative:** +3}
-- **Movement**: 30 ft, climb 30 ft
+- **Movement**: 9 m, climb 9 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +9, Will +8}
 - **Skills**: Stealth +9, Perception +5
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Elvish, Undercommon
 - **Challenge**: 6 (2300 XP)
 
@@ -27027,15 +27077,15 @@ At will: *dancing lights*
 
 **Actions*Multiattack.*** The drider makes three attacks with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-***Bite.** Melee Weapon Attack*: +8 to hit, reach 5 ft, one creature.
+***Bite.** Melee Weapon Attack*: +8 to hit, reach 1 m, one creature.
 
 *Hit:* 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
-***Longsword.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Longsword.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d8 + 3) slashing damage if used with two hands.
 
-***Longbow.** Ranged Weapon Attack*: +9 to hit, range 150 ft, one target.
+***Longbow.** Ranged Weapon Attack*: +9 to hit, range 45 m, one target.
 
 *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
@@ -27059,10 +27109,10 @@ Driders are sexually dimorphic. The spider-like lower body of a female drider is
 - **Size/Type**: Medium fey, neutral
 - **Ability**: Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4
 - **Hit Points**: \resizedown{{{33, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +5, Perception +4
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Elvish, Sylvan
 - **Challenge**: 1 (200 XP)
 
@@ -27082,7 +27132,7 @@ and emerge from another living tree within 60 meters of the first tree, appearin
 
 ***Magic Resistance.*** The dryad has +1d6 to Saving Throws against spells and other magical effects.
 
-**Actions*Club.** Melee Weapon Attack*: +4 to hit (+6 to hit with shillelagh), reach 5 ft, one target.
+**Actions*Club.** Melee Weapon Attack*: +4 to hit (+6 to hit with shillelagh), reach 1 m, one target.
 
 *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh
 
@@ -27111,9 +27161,9 @@ Dryads are benevolent guardians of trees, and although they aren' \*\*t violent 
 - **Size/Type**: Medium humanoid (dwarf), evil
 - **Ability**: Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1
 - **Hit Points**: \resizedown{{{33, **Defense:** 13, **Initiative:** +0}
-- **Movement**: 25 ft
+- **Movement**: 8 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Dwarvish, Undercommon
 - **Challenge**: 1 (200 XP)
 
@@ -27123,11 +27173,11 @@ Dryads are benevolent guardians of trees, and although they aren' \*\*t violent 
 
 **Actions*Enlarge (Recharges after 1 hour).*** For 1 minute, the Duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the Duergar is Large, doubles the damage dice of its Strength-based weapon attacks (included in the attacks), and has +1d6 on Strength checks and Strength Saving Throws. If the Duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
-***War Pick.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***War Pick.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage when enlarged.
 
-***Javelin.** Melee or Ranged Weapon Attack*: +5 to hit, reach 5 ft or range 40ft, one target.
+***Javelin.** Melee or Ranged Weapon Attack*: +5 to hit, reach 1 m or range 12 m, one target.
 
 *Hit:* 5 (1d6 + 2) piercing damage or 9 (2d6 + 2) piercing damage when enlarged.
 
@@ -27280,10 +27330,10 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 - **Size/Type**: Medium monstrosity, evil
 - **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: \resizedown{{{51, **Defense:** 16, **Initiative:** +2}
-- **Movement**: 30 ft, climb 30 ft
+- **Movement**: 9 m, climb 9 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +4, Will +3}
 - **Skills**: Stealth +4, Perception +3, Survival +3
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 2 (450 XP)
 
 ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
@@ -27294,15 +27344,15 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 
 **Actions*Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws
 
-***Claws.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 7 (2d4 + 2) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Fortitude Saving Throw or be poisoned, -1 Strength and Dexterity, for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
-***Web (Recharge 5-6).** Ranged Weapon Attack*: +5 to hit, range 30 ft, one Large or smaller creature.
+***Web (Recharge 5-6).** Ranged Weapon Attack*: +5 to hit, range 9 m, one Large or smaller creature.
 
 *Hit:* The creature is restrained by webbing. As an Action, the restrained creature can make a Strength Fortitude Saving Throw DC 11, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 Hit Points, vulnerability to fire damage, and immunity to bludgeoning and poison damage.
 
@@ -27313,7 +27363,7 @@ Environment: Temperate Forests
 Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 | **Treasure Category**: C |
 | **Description** |
-| Ettercaps are humanoids usually 6 meters tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
+| Ettercaps are humanoids usually 6 meters tall and weighing about 90 kg, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
 | Ettercaps are known for building cunning traps made of webs and other natural materials, which they use to catch prey. They build web shelters among the highest branches of trees away from other ground predators, and use monstrous spiders as sentries and guardians. |
 
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
@@ -27323,10 +27373,10 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 - **Size/Type**: Large giant, evil
 - **Ability**: Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1
 - **Hit Points**: \resizedown{{{89, **Defense:** 16, **Initiative:** -1}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +4}
 - **Skills**: Perception +4
-- **Senses**: \resizedown{tremorsense 60 ft}
+- **Senses**: \resizedown{tremorsense 18 m}
 - **Languages**: Giant, Goblin
 - **Challenge**: 4 (1100 XP)
 
@@ -27336,11 +27386,11 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 
 **Actions*Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
-***Battleaxe.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Battleaxe.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 14 (2d8 + 5) slashing damage.
 
-***Morningstar.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Morningstar.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 14 (2d8 + 5) piercing damage.
 
@@ -27465,7 +27515,7 @@ Fire giants prefer warm places: the hotter the better. They can be found in dese
 
 At Will: *Produce Flame*
 
-1 time per day: *Kyrin’s Flaming Acorn Barrage*
+1 time per day: *Kyrin' \*\*s Flaming Acorn Barrage*
 
 ***Undead Nature.*** The Flameskull doesn' \*\*t need air, food, drink, or sleep.
 
@@ -27565,11 +27615,11 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 - **Size/Type**: Small construct, unaligned
 - **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5
 - **Hit Points**: \resizedown{{{19, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 0 ft, fly 50 ft, Hover
+- **Movement**: 0 m, fly 15 m, Hover
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 1/4 (50 XP)
 
 ***False Appearance.*** While the weapon remains motionless and is not flying, it is indistinguishable from a normal sword.
@@ -27634,19 +27684,19 @@ Frost giants love taking prisoners and use them both as slaves and as raw materi
 - **Senses**: \resizedown{Darkvision 18 m, tremorsense 18 m}
 - **Challenge**: 10 (5900 XP)
 
-**Actions*Multiattack.*** The G.C.B. can attack with two claws or with its bite
+**Actions*Multiattack.*** The G.C.B. can attack with two claws or with its bite.
 
 **Claws**: Melee natural weapon attack: +11 to hit, reach 3 m, one target.
 
 *Hit:* 20 (6d6 + 5) slashing damage, 1 Bleeding damage.
 
-**Bite**: Melee natural weapon attack: +11 to hit, reach 3 m, one target
+**Bite**: Melee natural weapon attack: +11 to hit, reach 3 m, one target.
 
 *Hit:* 22 (6d6 + 8) slashing damage, 1 Bleeding damage, Blurred Vision.
 
-**Blurred Vision:** it' \*\*s a Poison effect, Will ST DC 18 or until the end of the next round the target has -1d6 to Attack Roll.
+**Blurred Vision:** This is a Poison effect. The target must succeed on a Will Saving Throw DC 18 or have -1d6 to Attack Rolls until the end of the next round.
 
-***Gaze.*** It is sufficient to look at the G.C.B. to be affected by Confusion, as the homonymous spell. To resist, it is necessary to make a Will Saving Throw at DC 22. Each round it is possible to repeat the Saving Throw to resist the effect.
+***Gaze.*** Looking at the G.C.B. is sufficient to be affected by Confusion, as with the spell of the same name. To resist, a creature must make a Will Saving Throw at DC 22. The Saving Throw can be repeated each round to resist the effect.
 
 Fighting without looking at the G.C.B. imposes -1d6 to Attack Roll.
 
@@ -27819,7 +27869,7 @@ An unusual variant of the gargoyle does not dwell among buildings and ruins but 
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +3}
 - **Dam. Imm.**: non-magical slashing weapons, damage from
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 2 (450 XP)
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but fall victim to the cube' \*\*s Engulf and have -1d6 to the Saving Throw.
@@ -27834,7 +27884,7 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 ***Transparent.*** Even when the cube is in plain sight, it takes a successful Perception check DC 15 to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube' \*\*s space while unaware of the cube is surprised by the cube.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 10 (3d6) acid damage.
 
@@ -27859,24 +27909,24 @@ Among the most unusual and peculiar dungeon predators, gelatinous cubes spend th
 
 Some sages believe these creatures evolved from Gray Oozes. Some beings use gelatinous cubes as guardians of dungeons and underground fortifications, trapping these immense creatures in massive metal crates and transporting them with powers or magic to their final guard post. They are particularly effective waste disposal mechanisms; a tribe may trap a gelatinous cube in a pit or another area it cannot climb, using it as a dump or even as a deadly trap, depending on the ingenuity of the creatures that captured it.
 
-Gelatinous cubes typically have a 10-meter edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
+Gelatinous cubes typically have a 10-meter edge and weigh more than 7500 kg, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
 ### Generic Air Elemental
 
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6
 - **Hit Points**: (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex
-- **Movement**: 0 ft, fly CR*13 ft
+- **Movement**: 0 m, fly CR*4 m
 - **S. Throws**: Fortitude CR+CON, Reflex CR+CR/5 + DEX, Will CR+WIS
 - **Damage Res.**: Electricity, Sound; nonmagical weapons
 - **Dam. Imm.**: Poison
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Auran
 
 | - **Challenge**: CR |
 | --- |
-| ***Air Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
+| ***Air Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 2.5 cm wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
@@ -27884,7 +27934,7 @@ Gelatinous cubes typically have a 10-meter edge and weigh more than 16,500 pound
 | *Hit:* 1d6*CR/3 bludgeoning damage. |
 | **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-meter reach. |
 
-***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 meters it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
+***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR*0.3 meters away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 meters it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn' \*\*t flung away or knocked prone.
 
 ### Generic Earth Elemental
@@ -27892,12 +27942,12 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6
 - **Hit Points**: (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, climb 30 ft, burrow 30 ft
+- **Movement**: 9 m, climb 9 m, burrow 9 m
 - **S. Throws**: Fortitude CR+CON+CR/5, Reflex CR+DEX, Will CR+WIS
 - **Damage Res.**: nonmagical weapons
 - **Dam. Imm.**: Poison, Sound
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{tremorsense 60 ft, Darkvision 60 ft}
+- **Senses**: \resizedown{tremorsense 18 m, Darkvision 18 m}
 - **Languages**: Terran
 
 | - **Challenge**: CR |
@@ -27917,17 +27967,17 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6
 - **Hit Points**: (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex
-- **Movement**: 50 ft
+- **Movement**: 15 m
 - **S. Throws**: Fortitude CR+CON, Reflex CR+DEX, Will CR+WIS
 - **Damage Res.**: nonmagical weapons
 - **Dam. Imm.**: Fire, Poison
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Ignan
 
 | - **Challenge**: CR |
 | --- |
-| ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 meters of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
+| ***Fire Form.*** The elemental can move through a space as narrow as 2.5 cm wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 meters of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
 | ***Illumination.*** The elemental sheds bright light in a CR*7-meter radius and dim light for an additional CR*13 meters. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | ***Water Susceptibility.*** The elemental takes 1 cold damage for every 5 meters it moves in water, or for every gallon of water splashed on it. |
@@ -27943,18 +27993,18 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 - **Size/Type**: Elemental
 - **Ability**: Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6
 - **Hit Points**: (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, swim CR*13 ft
+- **Movement**: 9 m, swim CR*4 m
 - **S. Throws**: Fortitude CR+CR/5+CON, Reflex CR+DEX, Will CR+WIS
 - **Damage Res.**: Acid; nonmagical weapons
 - **Dam. Imm.**: Poison
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Aquan
 
 | - **Challenge**: CR |
 | --- |
 | ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 meters until the end of its next turn. |
-| ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
+| ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 2.5 cm wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
@@ -28486,24 +28536,24 @@ Their meat is tough and muscular (once the armor is removed), and for those who 
 - **Size/Type**: Medium ooze, unaligned
 - **Ability**: Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4
 - **Hit Points**: \resizedown{{{24, **Defense:** 10, **Initiative:** -2}
-- **Movement**: 10 ft, climb 10 ft
+- **Movement**: 3 m, climb 3 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Damage Res.**: Acid, Cold, Fire
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 1/2 (100 XP)
 
-***Amorphous.*** The ooze can move through a space up to 1 inch wide without squeezing.
+***Amorphous.*** The ooze can move through a space up to 2.5 cm wide without squeezing.
 
 ***Corrode Metal.*** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+The ooze can eat through 5-cm-thick, nonmagical metal in 1 round.
 
 ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oil puddle or wet stone.
 
 ***Ooze Nature.*** The ooze doesn' \*\*t need to sleep.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage. If the target is wearing metal armor, it is partially dissolved and takes a permanent and cumulative -1 penalty to the Defense it offers. The armor is destroyed if the penalty reduces its Defense to 0.
 
@@ -28555,10 +28605,10 @@ See Ancient Green Dragon Description.
 - **Size/Type**: Medium fey, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2
 - **Hit Points**: \resizedown{{{70, **Defense:** 17, **Initiative:** +1}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +4, Will +5}
 - **Skills**: Arcana +3, Stealth +3, Deception +4
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Common, Draconic, Sylvan
 - **Challenge**: 3 (700 XP)
 
@@ -28570,7 +28620,7 @@ See Ancient Green Dragon Description.
 
 At will: *Minor Illusion, Dancing Lights, Vicious Mockery*
 
-**Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
@@ -28589,7 +28639,7 @@ Organization: Solitary or coven (3 hags of any type)
 | --- |
 | **Description** |
 
-Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 meters tall and weighs just under 175 pounds.
+Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 meters tall and weighs just under 80 kg.
 
 ### Grick
 
@@ -28711,11 +28761,11 @@ Grimlocks are blind and savage human-like creatures that inhabit the realm of th
 - **Size/Type**: Large monstrosity, good
 - **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
 - **Hit Points**: \resizedown{{{201, **Defense:** 29, **Initiative:** +4}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +13, Reflex +14, Will +14}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: charmed
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Celestial, Common
 - **Challenge**: 10 (5900 XP)
 
@@ -28737,11 +28787,11 @@ Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
-**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 10 ft, one creature.
+**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 3 m, one creature.
 
 *Hit:* 8 (1d8 + 4) piercing damage, and the target must make a Fortitude Saving Throw DC 23, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
-***Spit Poison.** Ranged Weapon Attack*: +11 to hit, range 15ft, one creature.
+***Spit Poison.** Ranged Weapon Attack*: +11 to hit, range 5 m, one creature.
 
 *Hit:* The target must make a Fortitude Saving Throw DC 23, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -28755,7 +28805,7 @@ Organization: Solitary, pair, or nest (3-6)
 | **Treasure Category**: R |
 | **Description** |
 
-Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 meters and weighs approximately 375 pounds.
+Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 meters and weighs approximately 170 kg.
 
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
@@ -28764,12 +28814,12 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 - **Size/Type**: Large monstrosity, lawful
 - **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
 - **Hit Points**: \resizedown{{{219, **Defense:** 28, **Initiative:** +4}
-- **Movement**: 40 ft, fly 60 ft
+- **Movement**: 12 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +14, Reflex +13, Will +15}
 - **Skills**: Arcana +14, Religion +9, History +14
 - **Dmg. Res.**: from non-magical weapons
 - **Immunities**: charmed, frightened
-- **Senses**: \resizedown{truesight 120 ft}
+- **Senses**: \resizedown{truesight 36 m}
 - **Languages**: Common, Sphinx
 - **Challenge**: 11 (7200 XP)
 
@@ -28791,7 +28841,7 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 
 **Actions*Multiattack.*** The sphinx can make two claw attacks.
 
-***Claw.** Melee Weapon Attack*: +10 to hit, reach 3 ft, one target.
+***Claw.** Melee Weapon Attack*: +10 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
@@ -28824,7 +28874,7 @@ Sphinxes love complicated riddles and enigmas, and treasure unusual facts and ar
 
 Although not great scholars in the traditional sense, sphinxes' \*\* great appreciation for riddles leads them to conduct research in a wide variety of subjects, often making them a valuable source of information, especially when they use their magical abilities. They are usually happy to have contact with other races, and regularly offer material goods in exchange for information or new and interesting riddles. They are excellent guardians of temples, tombs, and other important places, as long as they are adequately entertained. Sphinxes place great importance on politeness, but can be capricious: they may altruistically decide to share their latest riddles with travelers but don' \*\*t think twice about devouring them if they don' \*\*t pay enough attention or provide any useful clues to their solution.
 
-A typical sphinx is 10 meters long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
+A typical sphinx is 10 meters long and weighs about 400 kg. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
 ### Harpy
 
@@ -28875,11 +28925,11 @@ Harpies are markedly different depending on the region where they live. Some res
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2
 - **Hit Points**: \resizedown{{{70, **Defense:** 17, **Initiative:** +1}
-- **Movement**: 50 ft
+- **Movement**: 15 m
 - **S. Throws**: \resizedown{{{Fortitude +5, Reflex +4, Will +4}
 - **Skills**: Perception +5
 - **Dmg. Imm.**: Fire
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: understands Infernal but cannot speak
 - **Challenge**: 3 (700 XP)
 
@@ -28887,7 +28937,7 @@ Harpies are markedly different depending on the region where they live. Some res
 
 ***Pack Tactics.*** The hound has +1d6 to attack rolls against a creature if at least one of the hound' \*\*s allies is within 3 meters of the creature and the ally isn' \*\*t incapacitated.
 
-**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 3 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d6 + 3) piercing damage plus 7 (2d6) fire damage.
 
@@ -29024,15 +29074,15 @@ Hippogriffs are oviparous and their nest usually contains only one egg, which is
 - **Size/Type**: Large monstrosity, chaotic
 - **Ability**: Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: \resizedown{{{51, **Defense:** 15, **Initiative:** +1}
-- **Movement**: 20 ft, climb 20 ft
+- **Movement**: 6 m, climb 6 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +4, Perception +3
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 2 (450 XP)
 
 **Actions*Multiattack.*** The Hisser can make two claw attacks or one tail strike.
 
-***Claw.** Melee Weapon Attack*: +5 to hit, reach 3 ft, one target.
+***Claw.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8+2) slashing damage.
 
@@ -29720,7 +29770,7 @@ Cantrips (at will): *Mage Hand, Prestidigitation, Ray of Frost*
 
 1st level (4 slots): *Arcane dart, Detect Magic, Thunderwave, Shield*
 
-2nd level (3 slots): *Melf' \*\*s Acid Arrow, Mirror Image, Detect Thoughts, Invisibility*
+2nd level (3 slots): *Restser' \*\*s Acid Arrow, Mirror Image, Detect Thoughts, Invisibility*
 
 3rd level (3 slots): *Animate Dead, Counterspell, Dispel Magic, Fireball*
 
@@ -29830,11 +29880,11 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 - **Size/Type**: Large construct, undead, unaligned
 - **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{127, **Defense:** 20, **Initiative:** +0}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +6, Will +4}
 - **Dmg. Imm.**: Poison
 - **Immunities**: charmed, fatigued, paralyzed, petrified, bleeding, diseases
-- **Senses**: \resizedown{Darkvision 100 ft}
+- **Senses**: \resizedown{Darkvision 30 m}
 - **Languages**: understands all languages of its creator but cannot speak
 - **Challenge**: 6 (2300 XP)
 
@@ -29844,7 +29894,7 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 
 ***Immutable Form.*** As a construct, it cannot be affected by magic or effects that change its form.
 
-***Container.*** The Lootdead has an openable compartment with a hatch on its metal back that can hold up to 220 pounds of objects, up to small size.
+***Container.*** The Lootdead has an openable compartment with a hatch on its metal back that can hold up to 100 kg of objects, up to small size.
 
 ***Air Resistance.*** The Lootdead has an innate resistance to spells from the Air Magic List.
 
@@ -30148,7 +30198,7 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 - **Skills**: Stealth +5
 - **Dam. Imm.**: Acid
 - **Condition Imm.**: prone
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 2 (450 XP)
 
 ***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is grappled by it (escape DC 18). The mimic doesn' \*\*t consider itself Grappled when it grapples something.
@@ -30159,11 +30209,11 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 
 ***Shapechanger.*** The mimic can use an Action to transform into an object, or back into its true amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying doesn' \*\*t transform. It reverts to its true form when it dies.
 
-**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
-***Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subject to the Adhesive trait.
 
@@ -30187,10 +30237,10 @@ A typical mimic has a volume of 0.2 cubic meters (1 m by 1 m by 0.2 m) and weigh
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1
 - **Hit Points**: \resizedown{{{70, **Defense:** 16, **Initiative:** +0}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +3, Will +6}
 - **Skills**: Perception +7
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Abyssal
 - **Challenge**: 3 (700 XP)
 
@@ -30200,11 +30250,11 @@ A typical mimic has a volume of 0.2 cubic meters (1 m by 1 m by 0.2 m) and weigh
 
 ***Labyrinth Recall.*** The minotaur can perfectly recall any path it has traveled.
 
-**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 17 (2d12 + 4) slashing damage.
 
-***Gore.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Gore.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) piercing damage.
 
@@ -30229,12 +30279,12 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{70, **Defense:** 15, **Initiative:** -1}
-- **Movement**: 20 ft
+- **Movement**: 6 m
 - **S. Throws**: \resizedown{{{Fortitude +5, Reflex +3, Will +3}
 - **Damage Res.**: from non-magical weapons
 - **Dam. Imm.**: from Void, Poison
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: the languages it knew in life
 - **Challenge**: 3 (700 XP)
 
@@ -30242,7 +30292,7 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 
 **Actions*Multiattack.*** The mummy can use its Dreadful Glare and make an attack with its rotting fist.
 
-***Rotting Fist.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Rotting Fist.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) Void damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be cursed with mummy rot. The cursed target can' \*\*t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse with the curse in effect. If the curse reduces the target' \*\*s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or similar magic.
 
@@ -30253,12 +30303,12 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
 - **Hit Points**: \resizedown{{{294, **Defense:** 32, **Initiative:** +0}
-- **Movement**: 20 ft
+- **Movement**: 6 m
 - **S. Throws**: \resizedown{{{Fortitude +18, Reflex +15, Will +19}
 - **Skills**: Religion +5, History +5
 - **Dam. Imm.**: from Void, Poison; +1 weapons
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: the languages it knew in life
 - **Challenge**: 15 (13000 XP)
 
@@ -30290,7 +30340,7 @@ The mummy lord' \*\*s heart has Defense 5, 25 hit points, and immunity to all da
 
 **Actions*Multiattack.*** The mummy can use its Dreadful Glare and make one rotting fist attack, or 2 Rotting Fist attacks.
 
-***Rotting Fist.** Melee Weapon Attack*: +13 to hit, reach 5 ft, one target.
+***Rotting Fist.** Melee Weapon Attack*: +13 to hit, reach 1 m, one target.
 
 *Hit:* 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) Void damage. If the target is a creature, it must succeed on a Fortitude Saving Throw 28 or be cursed with mummy rot. The cursed target can' \*\*t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse with the curse in effect. If the curse reduces the target' \*\*s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or similar magic.
 
@@ -30383,11 +30433,11 @@ Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3
 - **Hit Points**: \resizedown{{{108, **Defense:** 20, **Initiative:** +3}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +8, Reflex +7, Will +7}
 - **Skills**: Stealth +6, Deception +7, Insight +6
 - **Damage Res.**: Cold, Fire; from non-magical or non-silvered weapons
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Abyssal, Common, Infernal, Druidic
 - **Challenge**: 5 (1800 XP)
 
@@ -30397,7 +30447,7 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 ***Magic Resistance.*** The hag has +1d6 on saving throws against spells and other magical effects.
 
-**Actions*Claws (Hag Form Only).** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+**Actions*Claws (Hag Form Only).** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
@@ -30450,21 +30500,21 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{51, **Defense:** 12, **Initiative:** -2}
-- **Movement**: 10 ft, climb 10 ft
+- **Movement**: 3 m, climb 3 m
 - **S. Throws**: \resizedown{{{Fortitude +4, Reflex +3, Will +3}
 - **Damage Res.**: Acid
 - **Dam. Imm.**: Lightning, slashing
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 2 (450 XP)
 
-***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
+***Amorphous.*** The jelly can move through a space as narrow as 2.5 cm wide without squeezing.
 
 ***Ooze Nature.*** The jelly doesn' \*\*t need to sleep.
 
 ***Spider Climb.*** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make a skill check.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
@@ -30479,12 +30529,12 @@ Organization: Solitary
 | --- |
 | **Description** |
 
-Ochre Jellies are animated masses of protoplasm colored like a repulsive amalgam of yellow, orange, and brown. When at rest, their flat, pulsating body is about 6 inches high and extends all around; in motion, they gather into a roughly spherical shape and almost seem to move by rolling. Their malleable bodies allow them to squeeze through cracks and holes much smaller than the space they occupy. Creatures that live underground often seal all openings to defend against Ochre Jellies.
+Ochre Jellies are animated masses of protoplasm colored like a repulsive amalgam of yellow, orange, and brown. When at rest, their flat, pulsating body is about 15 cm high and extends all around; in motion, they gather into a roughly spherical shape and almost seem to move by rolling. Their malleable bodies allow them to squeeze through cracks and holes much smaller than the space they occupy. Creatures that live underground often seal all openings to defend against Ochre Jellies.
 The highly specialized acid of the Ochre Jelly dissolves only flesh. This discovery has led many master poisoners and alchemists to seek out specimens to study. From these experiments, several specific weapons designed to destroy bodies have been created. It is said that there exists a slow-acting poison that destroys a living creature' \*\*s cells one by one, the secret of which is well-guarded by its creator.
 
 An ancient and forgotten collection of notes describes a unique funeral ritual practiced in distant lands. Rather than cremating the deceased, bodies were enclosed in stone sarcophagi along with an Ochre Jelly that slowly dissolved the flesh. The resulting jelly was then transferred to an urn accompanied by a bronze plaque bearing the name of the deceased. This method preserved the objects buried with the body, quickly reduced to a gleaming skeleton, and it was believed that the deceased' \*\*s vital essence continued to inhabit the jelly.
 
-Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 meters and weigh about 2,800 pounds. In combat, they gather themselves up and produce long, moist pseudopods to strike and grab anything that moves.
+Ochre Jellies are about 15 cm high with a diameter that can reach up to 10 meters and weigh about 1270 kg. In combat, they gather themselves up and produce long, moist pseudopods to strike and grab anything that moves.
 
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
@@ -30713,7 +30763,7 @@ Orcus can take 3 additional actions, chosen from those below, and only one per r
 
 **Tail.** Orcus attacks with his tail. +19 to hit, reach 5 meters, one target. If it hits, 21 (3d8 + 8) bludgeoning damage + 18 (4d8) Poison damage
 
-**Taste of Death.** Orcus casts the Fiery Strike spell in a blasphemous way, with Void damage
+**Taste of Death.** Orcus casts the Flame Strike spell in a blasphemous way, with Void damage.
 
 | **Ecology** |
 | --- |
@@ -31275,7 +31325,7 @@ When it doesn' \*\*t have another form, the rakshasa appears as a humanoid with 
 
 Rakshasas despise religions; they recognize the power of the gods, but see themselves as the only beings worthy of worship by mortal races. Devout rakshasas are therefore quite rare. Although rakshasas are outsiders, they are also creatures of the Material Plane, and some believe that the first rakshasas chose this exile instead of some other role offered to them by a long-forgotten god. Although generally solitary, it is not uncommon to find large families of rakshasas working together to cause the downfall of a mortal civilization from within, through the succession of many generations.
 
-A rakshasa is 5.9 meters tall and weighs 198 pounds.
+A rakshasa is 5.9 meters tall and weighs 90 kg.
 
 ### Red Dragon Wyrmling
 
@@ -31310,14 +31360,14 @@ See Ancient Red Dragon Description.
 - **Size/Type**: Huge monstrosity, unaligned
 - **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{224, **Defense:** 27, **Initiative:** +1}
-- **Movement**: 30 ft, burrow 20 ft
+- **Movement**: 9 m, burrow 6 m
 - **S. Throws**: \resizedown{{{Fortitude +16, Reflex +12, Will +11}
-- **Senses**: \resizedown{Darkvision 60 ft, tremorsense 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m, tremorsense 18 m}
 - **Challenge**: 11 (7200 XP)
 
 ***Heated Body.*** A creature that comes into contact with the remorhaz or hits it with a melee attack while within 3 meters of it takes 10 (3d6) fire damage.
 
-**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 10 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 3 m, one target.
 
 *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (DC 17 to escape). Until the grapple ends, the remorhaz cannot bite another target.
 
@@ -31339,7 +31389,7 @@ Organization: Solitary
 
 In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remorhazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
 
-Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 11,000 pounds.
+Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 5000 kg.
 
 ### Rug of Smothering
 
@@ -31368,16 +31418,16 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 - **Size/Type**: Medium Monstrosity, unaligned
 - **Ability**: Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 1/2 (100 XP)
 
 ***Iron Scent.*** The rust monster can pinpoint, by scent, the exact location of ferrous metals within 36 m.
 
 ***Rust Metal.*** Any nonmagical weapon made of metal that hits the rust monster corrodes after dealing damage. Nonmagical ammunition made of metal that hits the rust monster is considered destroyed after inflicting damage.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 5 (1d8 + 1) piercing damage.
 
@@ -31407,10 +31457,10 @@ Fortunately, it' \*\*s often possible to escape the attention of a rust monster 
 - **Size/Type**: Medium humanoid (sahuagin), evil
 - **Ability**: Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1
 - **Hit Points**: \resizedown{{{24, **Defense:** 12, **Initiative:** +1}
-- **Movement**: 30 ft, swim 40 ft
+- **Movement**: 9 m, swim 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Perception +5
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Sahuagin
 - **Challenge**: 1/2 (100 XP)
 
@@ -31422,15 +31472,15 @@ Fortunately, it' \*\*s often possible to escape the attention of a rust monster 
 
 **Actions*Multiattack.*** The sahuagin can make two melee attacks: one with its bite and one with its claws or spear.
 
-***Claws.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Claws.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 3 (1d4 + 1) slashing damage.
 
-***Spear.** Melee or Ranged Weapon Attack*: +4 to hit, reach 3 ft or range 20 ft, one target.
+***Spear.** Melee or Ranged Weapon Attack*: +4 to hit, reach 1 m or range 6 m, one target.
 
 *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-***Bite.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 3 (1d4 + 1) piercing damage.
 
@@ -31445,7 +31495,7 @@ Organization: Solitary, pair, team (5-8), patrol (11-20 plus 1 lieutenant of 3rd
 
 **Description**
 
-Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 meters tall and weighs about 275 pounds.
+Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 meters tall and weighs about 125 kg.
 
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don' \*\*t appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
@@ -31454,10 +31504,10 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 - **Size/Type**: Large elemental, evil
 - **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{107, **Defense:** 20, **Initiative:** +2}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +7, Will +5}
 - **Dmg. Res.**: from non-magical weapons
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Ignan
 - **Challenge**: 5 (1800 XP)
 
@@ -31467,11 +31517,11 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 
 **Actions*Multiattack.*** The salamander makes two attacks: one with its spear and one with its tail.
 
-***Tail.** Melee Weapon Attack*: +6 to hit, reach 10 ft, one target.
+***Tail.** Melee Weapon Attack*: +6 to hit, reach 3 m, one target.
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (DC 14 to escape). Until the grapple ends, the salamander can automatically hit the target with its tail and can' \*\*t make tail attacks against other targets.
 
-***Spear.** Melee or Ranged Weapon Attack*: +5 to hit, reach 3 ft, range 20 ft, one target.
+***Spear.** Melee or Ranged Weapon Attack*: +5 to hit, reach 1 m, range 6 m, one target.
 
 *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 +4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
@@ -31501,7 +31551,7 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 - **Size/Type**: Medium fey, chaotic
 - **Ability**: Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2
 - **Hit Points**: \resizedown{{{24, **Defense:** 15, **Initiative:** +3}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +5, Perform +6, Perception +2
 - **Languages**: Common, Elvish, Sylvan
@@ -31509,15 +31559,15 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 
 ***Magic Resistance.*** The satyr has +1d6 to Saving Throws against spells and other magical effects.
 
-**Actions*Ram.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+**Actions*Ram.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (2d4 + 1) bludgeoning damage.
 
-***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
-***Short Bow.** Ranged Weapon Attack*: +3 to hit, range 80 ft, one target.
+***Short Bow.** Ranged Weapon Attack*: +3 to hit, range 24 m, one target.
 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
@@ -31844,22 +31894,22 @@ Among all dragons, silver dragons are the most courageous, and adhere to a chiva
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3
 - **Hit Points**: \resizedown{{{19, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dmg. Res.**: piercing, slashing
 - **Dmg. Imm.**: Poison
 - **Immunities**: fatigued, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: understands all languages it knew in life but cannot speak
 - **Challenge**: 1/4 (50 XP)
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
-***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Short Bow.** Ranged Weapon Attack*: +4 to hit, range 80 ft, one target.*Hit:* 5 (1d6 + 2) piercing damage.
+***Short Bow.** Ranged Weapon Attack*: +4 to hit, range 24 m, one target.*Hit:* 5 (1d6 + 2) piercing damage.
 
 | **Ecology** |
 | --- |
@@ -31944,12 +31994,12 @@ Respected by all angels, solars sometimes command armies against the legions of 
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2
 - **Hit Points**: \resizedown{{{33, **Defense:** 15, **Initiative:** +2}
-- **Movement**: 0 ft, fly 50 ft, hover
+- **Movement**: 0 m, fly 15 m, hover
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +8,Perception +3
 - **Dmg. Res.**: Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons
 - **Immunities**: charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Expiran
 - **Challenge**: 1 (200 XP)
 
@@ -31957,7 +32007,7 @@ Respected by all angels, solars sometimes command armies against the legions of 
 
 **Sunlight Sensitivity**. While in sunlight, the specter has -1d6 to Attack Rolls and Perception checks.
 
-**Actions*Life Drain.*** Touch Attack: +4 to hit, reach 3 ft, one target.
+**Actions*Life Drain.*** Touch Attack: +4 to hit, reach 1 m, one target.
 
 *Hit:* 10 damage (3d6) from Void. The creature loses the same amount from Maximum Hit Points. The specter regains 2 Hit Points.
 
@@ -32026,11 +32076,11 @@ Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lea
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
 - **Hit Points**: \resizedown{{{162, **Defense:** 25, **Initiative:** +3}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +11, Will +10}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: charmed
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Abyssal, Common
 - **Challenge**: 8 (3900 XP)
 
@@ -32050,7 +32100,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
-**Actions*Bite.** Melee Weapon Attack*: +9 to hit, reach 10 ft, one creature.
+**Actions*Bite.** Melee Weapon Attack*: +9 to hit, reach 3 m, one creature.
 
 *Hit:* 7 (1d8 + 4) piercing damage, and the target must make a Fortitude Saving Throw DC 20, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -32061,7 +32111,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 - **Size/Type**: Tiny fey, good
 - **Ability**: Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0
 - **Hit Points**: \resizedown{{{19, **Defense:** 16, **Initiative:** +4}
-- **Movement**: 10 ft, fly 40 ft
+- **Movement**: 3 m, fly 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +4, Will +3}
 - **Skills**: Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3
 - **Languages**: Common, Elvish, Sylvan
@@ -32069,11 +32119,11 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 **Actions*Longsword.** Melee Weapon Attack*: +3 to hit,
 
-reach 3 ft, one target.
+reach 1 m, one target.
 
 *Hit:* 1 slashing damage.
 
-***Shortbow.** Ranged Weapon Attack*: +5 to hit, range 40 ft, one target.
+***Shortbow.** Ranged Weapon Attack*: +5 to hit, range 12 m, one target.
 
 *Hit:* 1 piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or become poisoned, -1 Strength and Dexterity, for 1 minute. If the result of this saving throw is 5 or less, the target falls unconscious for the same duration, or until it takes damage or another creature uses an Action to wake it up.
 
@@ -32086,7 +32136,7 @@ reach 3 ft, one target.
 
 Sprites gather in groups in the depths of woodland regions, united in the cause to protect nature. Entire tribes of sprites have declared themselves the protectors of a specific person, place, or creature of particular significance in their lands, even if the being does not desire or need any protection.
 
-A sprite' \*\*s body is naturally luminous, although the creature can vary the color and intensity of the light emitted from its body as it wishes. Immediately after its death, a sprite' \*\*s body dissolves into a shimmering mist. Sprites are the smallest of the fey, standing just over 9 inches tall and rarely weighing more than 2 pounds.
+A sprite' \*\*s body is naturally luminous, although the creature can vary the color and intensity of the light emitted from its body as it wishes. Immediately after its death, a sprite' \*\*s body dissolves into a shimmering mist. Sprites are the smallest of the fey, standing just over 23 cm tall and rarely weighing more than 1 kg.
 
 In many ways, sprites are more primitive than most fey. They appreciate the company of their own kind, but tend to distrust other fey and assume that any humanoid or creature they haven' \*\*t expressly chosen to protect wants to harm them. Even animals are usually considered dangerous by them. This mistrust is largely due to the tiny size of these creatures, which makes them easy prey for predators. Therefore, a sprite' \*\*s initial reaction to danger is to flee: it typically uses its magical abilities to slow down or distract pursuers, and then relies on its flying speed and size to escape.
 
@@ -32133,12 +32183,12 @@ Steam mephits are commonly found on the Plane of Fire. These mephits are insolen
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: \resizedown{{{17, **Defense:** 15, **Initiative:** +3}
-- **Movement**: 10 ft, fly 40 ft
+- **Movement**: 3 m, fly 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 1/8 (25 XP)
 
-**Actions*Blood Drain.** Melee Weapon Attack*: +3 to hit, reach 3 ft, one creature.
+**Actions*Blood Drain.** Melee Weapon Attack*: +3 to hit, reach 1 m, one creature.
 
 *Hit:* 5 (1d4 + 3) piercing damage and the stirge attaches to the target. While attached, the stirge doesn' \*\*t attack. Instead, at the start of each of the stirge' \*\*s turns, the target loses 5 (1d4 + 3) Hit Points due to blood loss.
 
@@ -32157,7 +32207,7 @@ Stirges are dangerous bloodsuckers that infest swamps and prey on wildlife, live
 
 More similar to mammals than insects, stirges take flight with their four fleshy wings, seeking warm-blooded prey. They often hide near drinking water holes waiting for travelers to lower their guard before attacking and drinking their fill, driving their proboscises into exposed veins. After feeding, they fly away to hide in the mud and among the reeds to lay their eggs and rest until hunger drives them to hunt again.
 
-Stirges are usually about 12 inches long, with a wingspan of about twice that, and weigh less than 1 pound. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
+Stirges are usually about 30 cm long, with a wingspan of about twice that, and weigh less than 0.5 kg. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
 
 ### Stone Giant
 
@@ -32358,11 +32408,11 @@ Among the demonic hordes, a succubus can often reach very high levels of power, 
 - **Size/Type**: Colossal monstrosity, unaligned
 - **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
 - **Hit Points**: \resizedown{{{615, **Defense:** 52, **Initiative:** +0}
-- **Movement**: 80 ft
+- **Movement**: 24 m
 - **S. Throws**: \resizedown{{{Fortitude +40, Reflex +30, Will +30}
 - **Dmg. Imm.**: Fire, Poison, Electricity; +2 weapons
 - **Immunities**: charmed, paralyzed, frightened, fatigued
-- **Senses**: \resizedown{Blindsight 120 ft}
+- **Senses**: \resizedown{Blindsight 36 m}
 - **Challenge**: 30 (155000 XP)
 
 ***Reflective Carapace.*** Each time the Tarrasque is targeted by a *Arcane dart or Lightning Bolt* spell, it is ignored and reflected at the origin. For other line spells, or spells that require a ranged attack roll, roll a d6. On a 1-5, the Tarrasque ignores it. On a 6, the Tarrasque ignores it, and the effect is reflected at the caster as if it originated from the Tarrasque, turning the caster into the target.
@@ -32627,7 +32677,7 @@ The tyrannosaurus is a primary predator that measures 12 meters in length and we
 - **Skills**: all +18
 - **Dam. Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
 - **Immune**: charmed, paralyzed, fatigued, frightened
-- **Senses**: Darkvision 200 ft, True Seeing 135 ft
+- **Senses**: Darkvision 60 m, True Seeing 41 m
 - **Languages**: all
 - **Challenge**: 30 (155000 XP)
 
@@ -33008,17 +33058,17 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 - **Size/Type**: Large undead, evil
 - **Ability**: Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
-- **Movement**: 60 ft
+- **Movement**: 18 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dmg. Res.**: piercing, slashing
 - **Dmg. Imm.**: Poison
 - **Immunities**: fatigued, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 1/2 (100 XP)
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
-**Actions*Hooves.** Melee Weapon Attack*: +5 to hit, reach 3 ft, one target.
+**Actions*Hooves.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
@@ -33623,21 +33673,21 @@ Organization: Solitary
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: \resizedown{{{126, **Defense:** 20, **Initiative:** +1}
-- **Movement**: 40 ft, burrow 20 ft, fly 80 ft
+- **Movement**: 12 m, burrow 6 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +9, Reflex +6, Will +6}
 - **Dam. Imm.**: Fire
 - **Skills**: Stealth +3, Perception +6, Deception +5
-- **Senses**: \resizedown{Darkvision 60 ft, Blindsight 10 ft}
+- **Senses**: \resizedown{Darkvision 18 m, Blindsight 3 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 6 (2300 XP)
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Claw.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +7 to hit, reach 10 ft, one target.
+***Bite.** Melee Weapon Attack*: +7 to hit, reach 3 m, one target.
 
 *Hit:* 15 (2d10 + 4) piercing damage.
 
@@ -33714,21 +33764,21 @@ Organization: Solitary
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: \resizedown{{{145, **Defense:** 22, **Initiative:** +3}
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
+- **Movement**: 12 m, climb 12 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +8, Will +8}
 - **Skills**: Stealth +4, Deception +5, Perception +7
 - **Dam. Imm.**: Acid
-- **Senses**: \resizedown{Darkvision 120 ft, Blindsight 60 ft}
+- **Senses**: \resizedown{Darkvision 36 m, Blindsight 18 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 7 (2900 XP)
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +8 to hit, reach 5 ft, one target.
+***Claw.** Melee Weapon Attack*: +8 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +8 to hit, reach 10 ft, one target.
+***Bite.** Melee Weapon Attack*: +8 to hit, reach 3 m, one target.
 
 *Hit:* 15 (2d10 + 4) piercing damage.
 
@@ -34113,14 +34163,14 @@ This appendix contains the statistics of various animals, parasites, and other c
 - **Ability**: Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: \resizedown{{{15, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 20 ft, burrow 5 ft
+- **Movement**: 6 m, burrow 1 m
 - **Challenge**: 0 (10 XP)
 
 \
 
 ***Keen Smell.*** The badger has +1d6 to Awareness checks that rely on smell.
 
-**Actions*Bite.** Melee Weapon Attack*: +3 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
 *Hit:* 1 piercing damage.
 
@@ -34371,12 +34421,12 @@ This appendix contains the statistics of various animals, parasites, and other c
 - **Ability**: Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: \resizedown{{{17, **Defense:** 16, **Initiative:** +4}
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft, fly 60 ft
+- **Movement**: 9 m, swim 9 m, fly 18 m
 - **Challenge**: 1/8 (25 XP)
 
 ***Flyby.*** The snake doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
@@ -34420,7 +34470,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 - **Ability**: Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3
 - **Hit Points**: \resizedown{{{19, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, burrow 10 ft
+- **Movement**: 9 m, burrow 3 m
 - **Challenge**: 1/4 (50 XP)
 
 \
@@ -34429,11 +34479,11 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 **Actions*Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.
 
-***Claws.** Melee Weapon Attack*: +3 to hit, reach 5 ft, one target.
+***Claws.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
 *Hit:* 6 (2d4 + 1) slashing damage.
 
-***Bite.** Melee Weapon Attack*: +3 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
 *Hit:* 4 (1d6 + 1) piercing damage.
 
@@ -34460,14 +34510,14 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 - **Ability**: Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{51, **Defense:** 16, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
+- **Movement**: 9 m, swim 9 m
 - **Challenge**: 2 (450 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 10 ft, one creature.
+**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 3 m, one creature.
 
 *Hit:* 11 (2d6 + 4) piercing damage.
 
-***Constrict.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one creature.
+***Constrict.** Melee Weapon Attack*: +5 to hit, reach 1 m, one creature.
 
 *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the creature is restrained, and the snake cannot constrict another target.
 
@@ -34681,10 +34731,10 @@ Some giant lizards have one or both of the following traits.
 - **Ability**: Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{19, **Defense:** 16, **Initiative:** +4}
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
+- **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/4 (50 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 10 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 3 m, one target.
 
 *Hit:* 6 (1d4 + 4) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -34755,7 +34805,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{110, **Defense:** 18, **Initiative:** +0}
 - **Saving Throws**: Fortitude +10, Reflex +5, Will +5
-- **Movement**: 0 ft, swim 50 ft
+- **Movement**: 0 m, swim 15 m
 - **Challenge**: 5 (1800 XP)
 
 \
@@ -34764,7 +34814,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-**Actions*Bite.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 22 (3d10 + 6) piercing damage.
 
@@ -34822,12 +34872,12 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{24, **Defense:** 14, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 50 ft
+- **Movement**: 3 m, fly 15 m
 - **Challenge**: 1/2 (100 XP)
 
 \
 
-**Actions*Sting.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
+**Actions*Sting.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
 *Hit:* 5 (1d6 + 2) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining Hit Points, and is paralyzed while poisoned in this way.
 
@@ -34903,14 +34953,14 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{51, **Defense:** 15, **Initiative:** +1}
 - **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
+- **Movement**: 0 m, swim 12 m
 - **Challenge**: 2 (450 XP)
 
 ***Blood Frenzy.*** The shark has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) piercing damage.
 
@@ -35122,10 +35172,10 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{17, **Defense:** 15, **Initiative:** +3}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, swim 30 ft
+- **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/8 (25 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 1 piercing damage and the target must make a DC 10 Fortitude Saving Throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -35186,7 +35236,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
+- **Movement**: 0 m, swim 12 m
 - **Challenge**: 1/2 (100 XP)
 
 \
@@ -35195,7 +35245,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ***Pack Tactics.*** The shark has +1d6 to an attack roll against a creature if at least one of the shark' \*\*s allies is within 5 meters of the creature and the ally isn' \*\*t incapacitated.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage.
 
@@ -35218,22 +35268,22 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0
-- **Hit Points**: \resizedown{{{51, **Defense:** 16, **Initiative:** +2}
+- **Hit Points**: \resizedown{{{62, **Defense:** 17, **Initiative:** +2}
 - **Saving Throws**: Fortitude +4, Reflex +4, Will +3
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **Challenge**: 2 (450 XP)
 
 \
 
-***Pounce.*** If the tiger moves at least 20 meters straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
+***Pounce.*** If the tiger moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 17 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
 
 ***Keen Smell.*** The tiger has +1d6 to Awareness checks that rely on smell.
 
-**Actions*Claw.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Claw.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 12 (2d6 + 5) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 10 (1d10 + 5) piercing damage.
 
@@ -35274,6 +35324,8 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
+*Hit:* 11 (2d6 + 4) bludgeoning damage.
+
 ### Saurovall, War
 
 - **Size/Type**: Large beast, unaligned
@@ -35289,7 +35341,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
->> **Il Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
+>> **The Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
 
 Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
 
@@ -35342,7 +35394,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost
 - **Movement**: 3 m, fly 12 m
 - **Challenge**: 1/8 (25 XP)
 
-**Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
+**Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
 *Hit:* 5 (1d4 + 3) piercing damage and the stirge attaches to the target. While attached, the stirge doesn' \*\*t attack. Instead, at the start of each of the stirge' \*\*s turns, the target loses 5 (1d4 + 3) Hit Points due to blood loss.
 
