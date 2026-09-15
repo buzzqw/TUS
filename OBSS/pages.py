@@ -100,11 +100,15 @@ def clean_filename(title: str) -> str:
     clean = re.sub(r'[-\s]+', '-', clean)
     return clean.strip('-').lower()
 
+def escape_liquid_delimiters(content: str) -> str:
+    """Keep literal double braces from being parsed as Liquid variables."""
+    return content.replace("{{", "&#123;&#123;")
+
 def split_markdown_file(input_file: str, output_dir: str) -> List[Tuple[str, str]]:
     log_info(f"Dividendo file markdown '{input_file}' in sezioni...")
     Path(output_dir).mkdir(exist_ok=True)
     with open(input_file, 'r', encoding='utf-8') as f:
-        content = f.read()
+        content = escape_liquid_delimiters(f.read())
     sections = []
     current_section = ""
     section_title = ""
