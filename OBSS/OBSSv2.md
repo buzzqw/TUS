@@ -6470,7 +6470,7 @@ Se l'incantatore è **Distratto** (vedi elenco completo cause a pag. ) ovvero ce
 
 Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un ***Prova di Magia*** e confidare nelle sue capacità.
 
-L'incantatore tira **3d6 + 1d6 ogni tre punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira **3d6 + 1d6 ogni quattro punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
 
 L'incantatore può **ritirare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
 
@@ -14681,11 +14681,11 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 
 Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi a superare una Prova di Magia con un aumento di difficoltà indicato nella tabella.
 
-Es. Tups indossa un'armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura a effettuare la Prova di Magia. Tira 3d6 +4 dadi (perché ha 9 punti in CM), ignora 2 dadi (perché ha preso 4 volte Adepto della Magia).
+Es. Tups indossa un'armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura a effettuare la Prova di Magia. Tira 3d6 +3 dadi (perché ha 12 punti in CM), puo' ritirare 2 dadi (perché ha preso 4 volte Adepto della Magia).
 
 La difficoltà dell'incantesimo che lancia, Fulmine, è 10+ 2*3 (livello Incantesimo) +8 (difficoltà aggiuntiva data dall'armatura)
 
-Nella prova esce 4,5,5 / 3,4,\st,\st. Toglie i due 1 per Adepto della Magia, valgono zero e se ne avesse fatti 3 sarebbe stato un Fallimento Critico!. Totale 4+5+5+3+4=21, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
+Nella prova esce 4,5,5 / 3,4,\st,\st. Ritira i due 1 per Adepto della Magia, valgono zero e se ne avesse fatti 3 sarebbe stato un Fallimento Critico!. Totale 4+3+2+3+4+3+2=21, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
 
 Se Tups avesse indossato una Cuoio Rinforzato la difficoltà sarebbe aumentata *solo* di 4 e quindi sarebbe riuscito a lanciare l'incantesimo.
 
