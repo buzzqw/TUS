@@ -52,6 +52,9 @@ Il sistema magico e' a spell point, molti incantesimi pur se presi dall 5e sono 
 OBSS si rifà alla filosofia OSR (Old School Renaissance) ma in chiave moderna, ne abbraccia i principi ma non esclude un sistema di regole più completo che possa aiutare il Narratore ed il Giocatore a creare personaggi diversi e completi.
 
 Scaricate il manuale OBSSv2.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf) oppure senza copertina [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-nocopertina.pdf) e la scheda OBSS-scheda.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf).
+
+Per generare soltanto il PDF senza copertina da caricare su Amazon KDP: `./kdp.sh`.
+Il file prodotto è `OBSSv2-nocopertina.pdf`; per usare un nome diverso: `./kdp.sh -o OBSSv2-KDP.pdf`.
 E' anche disponibile uno schermo per il Narratore (veramente brutto.. perdonate!) [link](https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf). 
 
 Il manuale di OBSS e' completo, un bel tomo di oltre 550 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore ed anche oltre 300 mostri!
@@ -84,6 +87,5 @@ Some random pages from manual
 ![_imma-057](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-057.jpg)
 ![_imma-046](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-046.jpg)
 ![_imma-047](https://github.com/buzzqw/TUS/blob/master/OBSS/immagini/_imma-047.jpg)
-
 
 
