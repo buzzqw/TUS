@@ -55,7 +55,7 @@ Hit Points are equal to 8 + Constitution, add 3 if you have put 1 point in Weapo
 
 At this point, choose the Traits (p. ). Do it carefully, you are building your character and Traits outline the character with strong brushstrokes. Remember that they will be fundamental for the choice of the Patron (p. ).
 
-In the character sheet, in the Traits box, where there is the Patron column, write the Patron that connects you to that Trait, regardless of whether you have chosen it or not.
+In the character sheet, in the Traits box, where there is the Patron column, write the Patron or Patrons connected to that Trait, regardless of whether you have chosen them or not. If the Trait is shared by multiple Patrons, note them all and use the other Traits to determine the strongest affinity.
 
 Finally, remember that a *Dissolute* and *Loyal* character sounds good in a story where they are the only protagonist, but here you play in a **group**. Don' \*\*t take Traits in obvious opposition to others or play like a *jerk*, otherwise the character will naturally be pushed away by other characters and by the Game Master.
 

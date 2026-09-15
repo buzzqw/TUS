@@ -1,6 +1,6 @@
 # Optional - Character Archetype
 
-This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , this system offers 21 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
+This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , this system offers 22 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
 
 Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory to the archetype' \*\*s core nature. Also listed are which Patrons share at least two Traits (and thus make the character a Devotee) with each archetype, suggesting natural spiritual affinities.
 - Choose an archetype that appeals to you or fits your character concept
@@ -10,15 +10,15 @@ Each archetype is presented with a set of recommended Traits that naturally alig
 
 Archetypes can also evolve throughout a character' \*\*s journey. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in gradually shifting Traits and Patron affinities.
 
-## The 21 Archetypes
+## The 22 Archetypes
 
 ## The Hero
 The brave protagonist who overcomes obstacles to achieve a goal, often transforming themselves in the process.
 
-- **Recommended Traits:** Brave, Stubborn, Ambitious, Loyal
+- **Recommended Traits:** Courageous, Stubborn, Ambitious, Loyal
 - **Discouraged Traits:** Cowardly, Indecisive, Dishonest
 - **Contradictory Traits:** Cynical, Cruel, Dissolute
-- **Aligned Patrons:** Gradh, Sumkjr, Nedraf, Ljust, Lynx, Orlaith
+- **Aligned Patrons:** Gradh, Sumkjr, Efrem, Ljust, Lynx, Orlaith
 
 ## The Mentor
 The wise guide who provides knowledge, insight, and support to others, often to the Hero.
@@ -26,7 +26,7 @@ The wise guide who provides knowledge, insight, and support to others, often to 
 - **Recommended Traits:** Patient, Kind, Wise (Cautious), Compassionate
 - **Discouraged Traits:** Impulsive, Arrogant, Vindictive
 - **Contradictory Traits:** Cruel, Dishonest, Greedy
-- **Aligned Patrons:** Ljust, Sumkjr, Thaft, Ledyal, Gaya
+- **Aligned Patrons:** Ljust, Thaft, Ledyal, Atmos, Shayalia
 
 ## The Threshold Guardian
 The character that tests the players, presenting challenges they must overcome to proceed.
@@ -34,12 +34,12 @@ The character that tests the players, presenting challenges they must overcome t
 - **Recommended Traits:** Uncompromising, Suspicious, Cautious, Patient
 - **Discouraged Traits:** Impulsive, Compassionate, Altruistic
 - **Contradictory Traits:** Cowardly, Indecisive, Dishonest
-- **Aligned Patrons:** Atmos, Orlaith, Lynx, Krondal, Sixiser
+- **Aligned Patrons:** Atmos, Krondal, Sixiser, Atherim, Efrem
 
 ## The Herald
 The character who announces the call to adventure and signals the need for change.
 
-- **Recommended Traits:** Enthusiastic, Extroverted, Curious, Brave
+- **Recommended Traits:** Enthusiastic, Extroverted, Curious, Courageous
 - **Discouraged Traits:** Cautious, Indecisive, Suspicious
 - **Contradictory Traits:** Cowardly, Cynical, Dishonest
 - **Aligned Patrons:** Nethergal, Sumkjr, Lynx, Nedraf
@@ -66,15 +66,15 @@ The mischievous character who disrupts the status quo and brings about transform
 - **Recommended Traits:** Impulsive, Curious, Dishonest, Enthusiastic
 - **Discouraged Traits:** Cautious, Patient, Uncompromising
 - **Contradictory Traits:** Loyal, Altruistic, Compassionate
-- **Aligned Patrons:** Orudjs, Belevon, Nihar
+- **Aligned Patrons:** Orudjs, Belevon, Ledyal
 
 ## The Ally
 The steadfast companion who supports the protagonist on their journey.
 
-- **Recommended Traits:** Loyal, Brave, Altruistic, Kind
+- **Recommended Traits:** Loyal, Courageous, Altruistic, Kind
 - **Discouraged Traits:** Dishonest, Envious, Cruel
 - **Contradictory Traits:** Vindictive, Arrogant, Greedy
-- **Aligned Patrons:** Ljust, Sumkjr, Efrem, Gradh, Thaft
+- **Aligned Patrons:** Ljust, Sumkjr, Gradh, Thaft, Atherim
 
 ## The Innocent
 The pure, naive character who sees the world with wonder and optimism.
@@ -82,7 +82,7 @@ The pure, naive character who sees the world with wonder and optimism.
 - **Recommended Traits:** Kind, Enthusiastic, Altruistic, Curious
 - **Discouraged Traits:** Cynical, Suspicious, Vindictive
 - **Contradictory Traits:** Cruel, Dishonest, Dissolute
-- **Aligned Patrons:** Ljust, Ledyal, Sumkjr, Gaya
+- **Aligned Patrons:** Ledyal, Sumkjr, Gaya, Atherim
 
 ## The Sage
 The knowledge-keeper who has accumulated wisdom through study or experience.
@@ -106,7 +106,7 @@ The innovative builder who brings new things into existence.
 - **Recommended Traits:** Curious, Enthusiastic, Ambitious, Patient
 - **Discouraged Traits:** Indecisive, Cowardly, Cynical
 - **Contradictory Traits:** Dissolute, Uncompromising, Vindictive
-- **Aligned Patrons:** Erondil, Efrem, Gaya, Nethergal
+- **Aligned Patrons:** Erondil, Efrem, Nethergal, Rezh
 
 ## The Caregiver
 The nurturing protector who cares for and defends others.
@@ -122,15 +122,15 @@ The transformer who harnesses special knowledge to alter reality.
 - **Recommended Traits:** Curious, Ambitious, Arrogant, Uncompromising
 - **Discouraged Traits:** Cowardly, Indecisive, Impulsive
 - **Contradictory Traits:** Altruistic, Compassionate, Loyal
-- **Aligned Patrons:** Erondil, Orudjs, Nethergal, Nihar, Krondal
+- **Aligned Patrons:** Erondil, Orudjs, Nethergal, Krondal, Atmos
 
 ## The Outlaw
 The rebel who challenges established norms and fights against constraints.
 
-- **Recommended Traits:** Brave, Impulsive, Arrogant, Vindictive
+- **Recommended Traits:** Courageous, Impulsive, Arrogant, Vindictive
 - **Discouraged Traits:** Cautious, Patient, Loyal
 - **Contradictory Traits:** Altruistic, Compassionate, Kind
-- **Aligned Patrons:** Lynx, Tàhil, Gradh, Tazher, Calicante
+- **Aligned Patrons:** Lynx, Tàhil, Gradh, Orlaith, Calicante
 
 ## The Lover
 The passionate seeker of connection, intimacy, and sensual pleasure.
@@ -146,7 +146,7 @@ The playful entertainer who brings joy and levity to difficult situations.
 - **Recommended Traits:** Enthusiastic, Extroverted, Impulsive, Curious
 - **Discouraged Traits:** Cautious, Suspicious, Uncompromising
 - **Contradictory Traits:** Cruel, Vindictive, Arrogant
-- **Aligned Patrons:** Nihar, Belevon, Nethergal, Orudjs
+- **Aligned Patrons:** Nethergal, Sumkjr, Ledyal
 
 ## The Everyman
 The relatable, ordinary person seeking belonging and connection.
@@ -154,20 +154,20 @@ The relatable, ordinary person seeking belonging and connection.
 - **Recommended Traits:** Loyal, Kind, Cautious, Indecisive
 - **Discouraged Traits:** Arrogant, Ambitious, Dissolute
 - **Contradictory Traits:** Cruel, Vindictive, Dishonest
-- **Aligned Patrons:** Efrem, Thaft, Atherim
+- **Aligned Patrons:** Efrem, Thaft, Atmos
 
 ## The Explorer
 The adventurer who seeks new experiences and discoveries.
 
-- **Recommended Traits:** Curious, Brave, Impulsive, Enthusiastic
+- **Recommended Traits:** Curious, Courageous, Impulsive, Enthusiastic
 - **Discouraged Traits:** Cautious, Indecisive, Suspicious
 - **Contradictory Traits:** Cowardly, Cynical, Greedy
-- **Aligned Patrons:** Lynx, Nihar, Nethergal, Sumkjr
+- **Aligned Patrons:** Nihar, Nedraf, Ledyal, Sumkjr
 
 ## The Martyr
 The self-sacrificing individual who gives everything for a cause or others.
 
-- **Recommended Traits:** Altruistic, Brave, Uncompromising, Stubborn
+- **Recommended Traits:** Altruistic, Courageous, Uncompromising, Stubborn
 - **Discouraged Traits:** Arrogant, Greedy, Ambitious
 - **Contradictory Traits:** Cynical, Cruel, Dishonest
 - **Aligned Patrons:** Ljust, Sumkjr, Atherim, Lynx
@@ -178,7 +178,7 @@ The controlling oppressor who rules through fear and dominance.
 - **Recommended Traits:** Cruel, Arrogant, Vindictive, Greedy
 - **Discouraged Traits:** Compassionate, Altruistic, Kind
 - **Contradictory Traits:** Indecisive, Cowardly, Loyal
-- **Aligned Patrons:** Calicante, Tàhil, Cattalm, Torbiorn, Rezh
+- **Aligned Patrons:** Calicante, Tàhil, Tazher, Torbiorn, Rezh
 
 ## The Hermit
 The solitary seeker who withdraws from society to find inner truth.
@@ -212,9 +212,9 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Atmos | The Sage, The Hermit, The Threshold Guardian |
 | Lynx | The Explorer, The Outlaw, The Hero |
 | Gradh | The Hero, The Ally, The Ruler, The Outlaw |
-| Atherim | The Caregiver, The Guardian, The Martyr |
+| Atherim | The Caregiver, The Threshold Guardian, The Martyr |
 | Belevon | The Trickster, The Jester, The Shapeshifter |
-| Cattalm | The Shadow, The Tyrant, The Destroyer |
+| Cattalm | The Shadow, The Tyrant, The Ruler |
 | Efrem | The Everyman, The Creator, The Hermit |
 | Erondil | The Creator, The Magician, The Ruler |
 | Gaya | The Creator, The Innocent, The Caregiver |
@@ -228,11 +228,11 @@ Some Patrons naturally embody or resonate with specific archetypes more strongly
 | Orlaith | The Threshold Guardian, The Ruler, The Hero |
 | Rezh | The Tyrant, The Shadow, The Shapeshifter |
 | Shayalia | The Shadow, The Lover, The Shapeshifter |
+
 | Sixiser | The Hermit, The Sage, The Shadow |
 | Sumkjr | The Hero, The Ally, The Mentor, The Martyr |
 | Tàhil | The Shadow, The Tyrant, The Outlaw |
 | Tazher | The Shadow, The Outlaw, The Shapeshifter |
-
 | Thaft | The Everyman, The Ally, The Caregiver |
 | Torbiorn | The Tyrant, The Shadow, The Ruler |
 

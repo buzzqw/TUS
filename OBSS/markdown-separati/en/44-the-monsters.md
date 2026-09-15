@@ -351,11 +351,11 @@ Organization: Solitary
 - **Size/Type**: Huge dragon, good
 - **Ability**: Str 6 Dex 1 Con 5 Int 4 Wis 2 Cha 3
 - **Hit Points**: \resizedown{{{281, **Defense:** 31, **Initiative:** +4}
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
+- **Movement**: 12 m, climb 12 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +19, Reflex +15, Will +16}
 - **Skills**: Stealth +6, Deception +8, Perception +12
 - **Dam. Imm.**: Acid
-- **Senses**: \resizedown{Darkvision 120 ft, Blindsight 60 ft}
+- **Senses**: \resizedown{Darkvision 36 m, Blindsight 18 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 14 (11,500 XP)
 
@@ -363,7 +363,7 @@ Organization: Solitary
 
 **Actions*Multiattack.*** The dragon can use its Frightful Presence and then make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +13 to hit, reach 5 ft, one target.
+***Claw.** Melee Weapon Attack*: +13 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d6 + 6) slashing damage, 1 Bleeding damage.
 
@@ -371,7 +371,7 @@ Organization: Solitary
 
 *Hit:* 15 (2d8 + 6) bludgeoning damage.
 
-***Bite.** Melee Weapon Attack*: +13 to hit, reach 10 ft, one target.
+***Bite.** Melee Weapon Attack*: +13 to hit, reach 3 m, one target.
 
 *Hit:* 17 (2d10 + 6) piercing damage.
 
@@ -1080,7 +1080,7 @@ Organization: Solitary
 - **Size/Type**: Gargantuan dragon, good
 - **Ability**: Str 8 Dex 1 Con 7 Int 5 Wis 3 Cha 4
 - **Hit Points**: \resizedown{{{422, **Defense:** 41, **Initiative:** +5}
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
+- **Movement**: 12 m, climb 12 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +28, Reflex +22, Will +24}
 - **Skills**: Stealth +8, Deception +11, Perception +17
 - **Dam. Imm.**: Acid, +1 weapons
@@ -1096,11 +1096,11 @@ Organization: Solitary
 
 **Actions*Multiattack.*** The dragon can use its Frightful Presence and then make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +16 to hit, reach 10 ft, one target.
+***Claw.** Melee Weapon Attack*: +16 to hit, reach 3 m, one target.
 
 *Hit:* 15 (2d6 + 8) slashing damage, 3/20 Bleeding damage.
 
-***Tail.** Melee Weapon Attack*: +16 to hit, reach 20 ft, one target.
+***Tail.** Melee Weapon Attack*: +16 to hit, reach 6 m, one target.
 
 *Hit:* 17 (2d8 + 8) bludgeoning damage.
 
@@ -1665,12 +1665,12 @@ The Yellow Dragon, although intelligent, is a killing machine and rarely negotia
 - **Size/Type**: Large monstrosity, lawful
 - **Ability**: Str 6 Dex 0 Con 5 Int 3 Wis 4 Cha 6
 - **Hit Points**: \resizedown{{{338, **Defense:** 34, **Initiative:** +3}
-- **Movement**: 40 ft, fly 60 ft
+- **Movement**: 12 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +22, Reflex +17, Will +21}
 - **Skills**: Arcana +9, Religion +15
 - **Dmg. Imm.**: from non-magical weapons
 - **Immunities**: charmed, frightened
-- **Senses**: \resizedown{truesight 120 ft}
+- **Senses**: \resizedown{truesight 36 m}
 - **Languages**: Common, Sphinx
 - **Challenge**: 17 (18000 XP)
 
@@ -1697,7 +1697,7 @@ Cantrips (at will): *Sacred Flame, Thaumaturgy*
 
 **Actions*Multiattack.*** The sphinx can make two claw attacks.
 
-***Claw.** Melee Weapon Attack*: +13 to hit, reach 3 ft, one target.
+***Claw.** Melee Weapon Attack*: +13 to hit, reach 1 m, one target.
 
 *Hit:* 17 (2d6 + 10) slashing damage, 1 Bleeding damage.
 
@@ -1735,18 +1735,18 @@ Androsphinxes, the most powerful of common sphinxes, believe they represent all 
 
 Androsphinxes display a grumpy and spiteful facade toward strangers. They make no effort to hide their annoyance when irritated. They also tend to be jealous of their territory, though less so than other sphinxes. They almost inevitably issue warnings and resounding proclamations before attacking, and almost always respect an offer to negotiate. Androsphinxes barter information and conversations, not treasures, in exchange for safe passage.
 
-Androsphinxes are 12 meters tall and weigh 1,100 pounds.
+Androsphinxes are 12 meters tall and weigh 500 kg.
 
 ### Animated Armor
 
 - **Size/Type**: Medium construct, unaligned
 - **Ability**: Str 2 Dex 0 Con 1 Int -5 Wis -4 Cha -5
 - **Hit Points**: \resizedown{{{33, **Defense:** 13, **Initiative:** +0}
-- **Movement**: 25 ft
+- **Movement**: 8 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 1 (200 XP)
 
 ***False Appearance.*** While the armor remains motionless, it is indistinguishable from a normal suit of armor.
@@ -1755,7 +1755,7 @@ Androsphinxes are 12 meters tall and weigh 1,100 pounds.
 
 **Actions*Multiattack.*** The armor makes two melee attacks.
 
-***Slam.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***Slam.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 5 (1d6 + 2) bludgeoning damage.
 
@@ -1862,7 +1862,7 @@ To an untrained eye, the Azer appear impressively similar to each other. They ar
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +7, Will +5}
 - **Skills**: Stealth +8
 - **Senses**: Darkvision 20 m, Low-light Vision 18 m
-- **Languages**: Common, can only understand it
+- **Languages**: Common, but can only understand it
 - **Challenge**: 4 (1100 XP)
 
 **Actions*Multiattack.*** The B.O.C makes two claw attacks and one bite attack, or makes two attacks with its tentacles.
@@ -2201,24 +2201,24 @@ Damned to the depths of his soul, the Black Knight is the antithesis of the knig
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 3 Dex -3 Con 3 Int -5 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{89, **Defense:** 14, **Initiative:** -3}
-- **Movement**: 20 ft, climb 20 ft
+- **Movement**: 6 m, climb 6 m
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +3}
 - **Dam. Imm.**: Acid, Cold, Lightning, slashing, from critical
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 4 (1100 XP)
 
-***Amorphous.*** The black pudding can move through a space as narrow as 1 inch wide without squeezing.
+***Amorphous.*** The black pudding can move through a space as narrow as 2.5 cm wide without squeezing.
 
 ***Corrosive Form.*** A creature that touches the pudding or hits it with a melee attack while within 5 meters of it takes 4 (1d8) acid damage. Any nonmagical weapon made of metal or wood that hits the pudding corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If the penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal or wood that hits the pudding is destroyed after dealing damage.
 
-The pudding can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+The pudding can eat through 5-cm-thick, nonmagical wood or metal in 1 round.
 
 ***Ooze Nature.*** The pudding doesn' \*\*t need to sleep.
 
 ***Spider Climb.*** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make a skill check.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the Defense it offers. The armor is destroyed if the penalty reduces its Defense to 0.
 
@@ -2412,15 +2412,15 @@ It is said that Shayalia' \*\*s garden is full of Brain Eaters. A Brain Eater is
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 2 Dex 0 Con 1 Int 0 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{33, **Defense:** 13, **Initiative:** +0}
-- **Movement**: 30 ft, burrow 15 ft, fly 60 ft
+- **Movement**: 9 m, burrow 5 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dam. Imm.**: Fire
 - **Skills**: Stealth +2, Perception +4
-- **Senses**: \resizedown{Darkvision 60 ft, Blindsight 10 ft}
+- **Senses**: \resizedown{Darkvision 18 m, Blindsight 3 m}
 - **Languages**: Draconic
 - **Challenge**: 1 (200 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d10 + 2) piercing damage.
 
@@ -2643,18 +2643,18 @@ Often classified by the uninitiated among the ranks of infernal devils, Chain De
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int -2 Wis -1 Cha -3
 - **Hit Points**: \resizedown{{{70, **Defense:** 17, **Initiative:** +1}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +4, Will +3}
 - **Dmg. Imm.**: Poison
 - **Dmg. Res.**: piercing, slashing, Electricity, Fire
 - **Immunities**: fatigued, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: understands Expiran, but cannot speak
 - **Challenge**: 3 (700 XP)
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
-**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 3 ft, one target.
+**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 12 (1d12 + 4) slashing damage.
 
@@ -2769,15 +2769,15 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 
 ***Magic Resistance.*** The golem has +1d6 on Saving Throws against spells and other magical effects.
 
-**Actions*Multiattack.*** The golem makes two slam attacks or one cursed fist attack
+**Actions*Multiattack.*** The golem makes two slam attacks or one cursed fist attack.
 
 ***Slam.** Melee Weapon Attack*: +10 to hit, reach 1 m, one target.
 
 *Hit:* 16 (2d10 + 5) bludgeoning damage.
 
-***Cursed Fist.**: Natural Weapon Attack*: + 11 to hit, reach 1 m, one target
+***Cursed Fist.** Natural Weapon Attack*: +11 to hit, reach 1 m, one target.
 
-*Hit:* 16 (2d6 + 5) bludgeoning damage. Wounds from cursed fist heal at the rate of 1 Hit Point per day. Magical healing, spells or potions, heal 1 Hit Point per die of healing + any fixed amount (e.g. a heal of 3d6+4 heals 7 HP)
+*Hit:* 16 (2d6 + 5) bludgeoning damage. Wounds from the cursed fist heal at a rate of 1 Hit Point per day. Magical healing, whether from spells or potions, heals 1 Hit Point per die of healing plus any fixed amount (e.g., healing of 3d6+4 restores 7 HP).
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to Defense, has +1d6 on Reflex Saving Throws, and can use its slam attacks as an Immediate Action.
 
@@ -2930,15 +2930,15 @@ The cockatrice' \*\*s strange ability to turn other creatures to stone is its be
 - **Size/Type**: Medium dragon, good
 - **Ability**: Str 2 Dex 1 Con 1 Int 2 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{33, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 30 ft, climb 30 ft, fly 60 ft
+- **Movement**: 9 m, climb 9 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +3, Deception +3, Perception +4
 - **Dam. Imm.**: Acid
-- **Senses**: \resizedown{Darkvision 120 ft, Blindsight 60 ft}
+- **Senses**: \resizedown{Darkvision 36 m, Blindsight 18 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 1 (200 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d10 + 2) piercing damage.
 
@@ -3514,10 +3514,10 @@ A dretch is 1.2 meters tall and weighs 90 kg. Dretches usually form from the sou
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 3 Dex 3 Con 4 Int 1 Wis 2 Cha 1
 - **Hit Points**: \resizedown{{{127, **Defense:** 23, **Initiative:** +3}
-- **Movement**: 30 ft, climb 30 ft
+- **Movement**: 9 m, climb 9 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +9, Will +8}
 - **Skills**: Stealth +9, Perception +5
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Elvish, Undercommon
 - **Challenge**: 6 (2300 XP)
 
@@ -3535,15 +3535,15 @@ At will: *dancing lights*
 
 **Actions*Multiattack.*** The drider makes three attacks with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
-***Bite.** Melee Weapon Attack*: +8 to hit, reach 5 ft, one creature.
+***Bite.** Melee Weapon Attack*: +8 to hit, reach 1 m, one creature.
 
 *Hit:* 2 (1d4) piercing damage plus 9 (2d8) poison damage.
 
-***Longsword.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Longsword.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) slashing damage, or 8 (1d8 + 3) slashing damage if used with two hands.
 
-***Longbow.** Ranged Weapon Attack*: +9 to hit, range 150 ft, one target.
+***Longbow.** Ranged Weapon Attack*: +9 to hit, range 45 m, one target.
 
 *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
 
@@ -3567,10 +3567,10 @@ Driders are sexually dimorphic. The spider-like lower body of a female drider is
 - **Size/Type**: Medium fey, neutral
 - **Ability**: Str 0 Dex 1 Con 0 Int 2 Wis 2 Cha 4
 - **Hit Points**: \resizedown{{{33, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +5, Perception +4
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Elvish, Sylvan
 - **Challenge**: 1 (200 XP)
 
@@ -3590,7 +3590,7 @@ and emerge from another living tree within 60 meters of the first tree, appearin
 
 ***Magic Resistance.*** The dryad has +1d6 to Saving Throws against spells and other magical effects.
 
-**Actions*Club.** Melee Weapon Attack*: +4 to hit (+6 to hit with shillelagh), reach 5 ft, one target.
+**Actions*Club.** Melee Weapon Attack*: +4 to hit (+6 to hit with shillelagh), reach 1 m, one target.
 
 *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh
 
@@ -3619,9 +3619,9 @@ Dryads are benevolent guardians of trees, and although they aren' \*\*t violent 
 - **Size/Type**: Medium humanoid (dwarf), evil
 - **Ability**: Str 2 Dex 0 Con 2 Int 0 Wis 0 Cha -1
 - **Hit Points**: \resizedown{{{33, **Defense:** 13, **Initiative:** +0}
-- **Movement**: 25 ft
+- **Movement**: 8 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Dwarvish, Undercommon
 - **Challenge**: 1 (200 XP)
 
@@ -3631,11 +3631,11 @@ Dryads are benevolent guardians of trees, and although they aren' \*\*t violent 
 
 **Actions*Enlarge (Recharges after 1 hour).*** For 1 minute, the Duergar magically increases in size, along with anything it is wearing or carrying. While enlarged, the Duergar is Large, doubles the damage dice of its Strength-based weapon attacks (included in the attacks), and has +1d6 on Strength checks and Strength Saving Throws. If the Duergar lacks the room to become Large, it attains the maximum size possible in the space available.
 
-***War Pick.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***War Pick.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage, or 11 (2d8 + 2) piercing damage when enlarged.
 
-***Javelin.** Melee or Ranged Weapon Attack*: +5 to hit, reach 5 ft or range 40ft, one target.
+***Javelin.** Melee or Ranged Weapon Attack*: +5 to hit, reach 1 m or range 12 m, one target.
 
 *Hit:* 5 (1d6 + 2) piercing damage or 9 (2d6 + 2) piercing damage when enlarged.
 
@@ -3788,10 +3788,10 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 - **Size/Type**: Medium monstrosity, evil
 - **Ability**: Str 2 Dex 2 Con 1 Int -2 Wis 1 Cha -2
 - **Hit Points**: \resizedown{{{51, **Defense:** 16, **Initiative:** +2}
-- **Movement**: 30 ft, climb 30 ft
+- **Movement**: 9 m, climb 9 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +4, Will +3}
 - **Skills**: Stealth +4, Perception +3, Survival +3
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 2 (450 XP)
 
 ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
@@ -3802,15 +3802,15 @@ The erinyes are about 1.8 meters tall, weigh 70 kg, and have black wings with a 
 
 **Actions*Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws
 
-***Claws.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 7 (2d4 + 2) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage. The target must succeed on a DC 11 Fortitude Saving Throw or be poisoned, -1 Strength and Dexterity, for 1 minute. The creature can repeat the Saving Throw at the end of each of its turns, ending the effect on itself with a success.
 
-***Web (Recharge 5-6).** Ranged Weapon Attack*: +5 to hit, range 30 ft, one Large or smaller creature.
+***Web (Recharge 5-6).** Ranged Weapon Attack*: +5 to hit, range 9 m, one Large or smaller creature.
 
 *Hit:* The creature is restrained by webbing. As an Action, the restrained creature can make a Strength Fortitude Saving Throw DC 11, escaping from the webbing on a success. The effect also ends if the webbing is destroyed. The webbing has AC 10, 5 Hit Points, vulnerability to fire damage, and immunity to bludgeoning and poison damage.
 
@@ -3821,7 +3821,7 @@ Environment: Temperate Forests
 Organization: solitary, pair, or nest (3-6 plus 2-8 giant spiders)
 | **Treasure Category**: C |
 | **Description** |
-| Ettercaps are humanoids usually 6 meters tall and weighing about 200 pounds, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
+| Ettercaps are humanoids usually 6 meters tall and weighing about 90 kg, with elongated arms reaching to the ground and a horrible face with spider-like features. They are solitary and rarely join others of their kind, except for mating. When they do group together, they tend to attract various species of spiders, forming a strange partnership of ettercaps and arachnids. |
 | Ettercaps are known for building cunning traps made of webs and other natural materials, which they use to catch prey. They build web shelters among the highest branches of trees away from other ground predators, and use monstrous spiders as sentries and guardians. |
 
 Ettercaps are not brave, but their traps often prevent enemies from drawing weapons. An ettercap attacks with claws and poisonous bites. It typically avoids melee with opponents who can still move and flees if they break free.
@@ -3831,10 +3831,10 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 - **Size/Type**: Large giant, evil
 - **Ability**: Str 5 Dex -1 Con 3 Int -2 Wis 0 Cha -1
 - **Hit Points**: \resizedown{{{89, **Defense:** 16, **Initiative:** -1}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +4}
 - **Skills**: Perception +4
-- **Senses**: \resizedown{tremorsense 60 ft}
+- **Senses**: \resizedown{tremorsense 18 m}
 - **Languages**: Giant, Goblin
 - **Challenge**: 4 (1100 XP)
 
@@ -3844,11 +3844,11 @@ Ettercaps are not brave, but their traps often prevent enemies from drawing weap
 
 **Actions*Multiattack.*** The ettin makes two attacks: one with its battleaxe and one with its morningstar.
 
-***Battleaxe.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Battleaxe.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 14 (2d8 + 5) slashing damage.
 
-***Morningstar.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Morningstar.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 14 (2d8 + 5) piercing damage.
 
@@ -3973,7 +3973,7 @@ Fire giants prefer warm places: the hotter the better. They can be found in dese
 
 At Will: *Produce Flame*
 
-1 time per day: *Kyrin’s Flaming Acorn Barrage*
+1 time per day: *Kyrin' \*\*s Flaming Acorn Barrage*
 
 ***Undead Nature.*** The Flameskull doesn' \*\*t need air, food, drink, or sleep.
 
@@ -4073,11 +4073,11 @@ Flesh worms are among the most feared parasites by adventurers. They are found i
 - **Size/Type**: Small construct, unaligned
 - **Ability**: Str 1 Dex 2 Con 0 Int -5 Wis -3 Cha -5
 - **Hit Points**: \resizedown{{{19, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 0 ft, fly 50 ft, Hover
+- **Movement**: 0 m, fly 15 m, Hover
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: blinded, charmed, deafened, paralyzed, petrified, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 1/4 (50 XP)
 
 ***False Appearance.*** While the weapon remains motionless and is not flying, it is indistinguishable from a normal sword.
@@ -4142,19 +4142,19 @@ Frost giants love taking prisoners and use them both as slaves and as raw materi
 - **Senses**: \resizedown{Darkvision 18 m, tremorsense 18 m}
 - **Challenge**: 10 (5900 XP)
 
-**Actions*Multiattack.*** The G.C.B. can attack with two claws or with its bite
+**Actions*Multiattack.*** The G.C.B. can attack with two claws or with its bite.
 
 **Claws**: Melee natural weapon attack: +11 to hit, reach 3 m, one target.
 
 *Hit:* 20 (6d6 + 5) slashing damage, 1 Bleeding damage.
 
-**Bite**: Melee natural weapon attack: +11 to hit, reach 3 m, one target
+**Bite**: Melee natural weapon attack: +11 to hit, reach 3 m, one target.
 
 *Hit:* 22 (6d6 + 8) slashing damage, 1 Bleeding damage, Blurred Vision.
 
-**Blurred Vision:** it' \*\*s a Poison effect, Will ST DC 18 or until the end of the next round the target has -1d6 to Attack Roll.
+**Blurred Vision:** This is a Poison effect. The target must succeed on a Will Saving Throw DC 18 or have -1d6 to Attack Rolls until the end of the next round.
 
-***Gaze.*** It is sufficient to look at the G.C.B. to be affected by Confusion, as the homonymous spell. To resist, it is necessary to make a Will Saving Throw at DC 22. Each round it is possible to repeat the Saving Throw to resist the effect.
+***Gaze.*** Looking at the G.C.B. is sufficient to be affected by Confusion, as with the spell of the same name. To resist, a creature must make a Will Saving Throw at DC 22. The Saving Throw can be repeated each round to resist the effect.
 
 Fighting without looking at the G.C.B. imposes -1d6 to Attack Roll.
 
@@ -4327,7 +4327,7 @@ An unusual variant of the gargoyle does not dwell among buildings and ruins but 
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +3, Will +3}
 - **Dam. Imm.**: non-magical slashing weapons, damage from
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 2 (450 XP)
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but fall victim to the cube' \*\*s Engulf and have -1d6 to the Saving Throw.
@@ -4342,7 +4342,7 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 ***Transparent.*** Even when the cube is in plain sight, it takes a successful Perception check DC 15 to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube' \*\*s space while unaware of the cube is surprised by the cube.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 10 (3d6) acid damage.
 
@@ -4367,24 +4367,24 @@ Among the most unusual and peculiar dungeon predators, gelatinous cubes spend th
 
 Some sages believe these creatures evolved from Gray Oozes. Some beings use gelatinous cubes as guardians of dungeons and underground fortifications, trapping these immense creatures in massive metal crates and transporting them with powers or magic to their final guard post. They are particularly effective waste disposal mechanisms; a tribe may trap a gelatinous cube in a pit or another area it cannot climb, using it as a dump or even as a deadly trap, depending on the ingenuity of the creatures that captured it.
 
-Gelatinous cubes typically have a 10-meter edge and weigh more than 16,500 pounds, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
+Gelatinous cubes typically have a 10-meter edge and weigh more than 7500 kg, although some underground explorers claim that larger specimens exist in the underdark. In areas where food is abundant, gelatinous cubes can live for hundreds, if not thousands, of years. However, if organic matter is lacking for more than 6 months, a gelatinous cube begins to deteriorate, and its walls begin to drip, rapidly disintegrating into liquid mucus until the entire body collapses and completely disappears.
 
 ### Generic Air Elemental
 
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str 0+CR/6 Dex 3+CR/3 Con 0+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha 0+CR/6
 - **Hit Points**: (CR+1)*15, **Defense:** CR+Dex+2, **Initiative:** +Dex
-- **Movement**: 0 ft, fly CR*13 ft
+- **Movement**: 0 m, fly CR*4 m
 - **S. Throws**: Fortitude CR+CON, Reflex CR+CR/5 + DEX, Will CR+WIS
 - **Damage Res.**: Electricity, Sound; nonmagical weapons
 - **Dam. Imm.**: Poison
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Auran
 
 | - **Challenge**: CR |
 | --- |
-| ***Air Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
+| ***Air Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 2.5 cm wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
@@ -4392,7 +4392,7 @@ Gelatinous cubes typically have a 10-meter edge and weigh more than 16,500 pound
 | *Hit:* 1d6*CR/3 bludgeoning damage. |
 | **Reaction: *Opportunity Attack***: the elemental makes an attack against a creature that moves through or out of its CR/3-meter reach. |
 
-***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR feet away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 meters it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
+***Whirlwind (Recharge 4-6).*** Each creature in the elemental' \*\*s space must make a DC 10+CR*1.5 Fortitude Saving Throw. On a failed save, a target takes 1d8*CR/3 bludgeoning damage and is flung CR*0.3 meters away from the elemental in a random direction and knocked prone. If a thrown target strikes an object, such as a wall or floor, the target takes 3 (1d6) bludgeoning damage for every 10 meters it was thrown. If the target is thrown at another creature, that creature must succeed on a DC 13 Reflex Saving Throw or take the same damage and be knocked prone.
 If the Saving Throw is successful, the target takes half the bludgeoning damage and isn' \*\*t flung away or knocked prone.
 
 ### Generic Earth Elemental
@@ -4400,12 +4400,12 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str CR Dex -2+CR/6 Con 1+CR/3 Int -3+CR/6 Wis -1+CR/6 Cha -3+CR/6
 - **Hit Points**: (CR+3)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, climb 30 ft, burrow 30 ft
+- **Movement**: 9 m, climb 9 m, burrow 9 m
 - **S. Throws**: Fortitude CR+CON+CR/5, Reflex CR+DEX, Will CR+WIS
 - **Damage Res.**: nonmagical weapons
 - **Dam. Imm.**: Poison, Sound
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{tremorsense 60 ft, Darkvision 60 ft}
+- **Senses**: \resizedown{tremorsense 18 m, Darkvision 18 m}
 - **Languages**: Terran
 
 | - **Challenge**: CR |
@@ -4425,17 +4425,17 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 - **Size/Type**: CR/3 (Small, Medium, Large, Huge, Gargantuan, Colossal)
 - **Ability**: Str 0+CR/3 Dex 2+CR/3 Con 1+CR/6 Int -2+CR/6 Wis -1+CR/6 Cha -2+CR/6
 - **Hit Points**: (CR+2)*15, **Defense:** CR+1+Dex, **Initiative:** +Dex
-- **Movement**: 50 ft
+- **Movement**: 15 m
 - **S. Throws**: Fortitude CR+CON, Reflex CR+DEX, Will CR+WIS
 - **Damage Res.**: nonmagical weapons
 - **Dam. Imm.**: Fire, Poison
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Ignan
 
 | - **Challenge**: CR |
 | --- |
-| ***Fire Form.*** The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 meters of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
+| ***Fire Form.*** The elemental can move through a space as narrow as 2.5 cm wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 meters of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature' \*\*s space and stop there. The first time it enters a creature' \*\*s space on a turn, that creature takes CR fire damage and catches fire; until someone takes an Action to douse the fire, the creature takes CR fire damage at the start of each of its turns. |
 | ***Illumination.*** The elemental sheds bright light in a CR*7-meter radius and dim light for an additional CR*13 meters. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | ***Water Susceptibility.*** The elemental takes 1 cold damage for every 5 meters it moves in water, or for every gallon of water splashed on it. |
@@ -4451,18 +4451,18 @@ If the Saving Throw is successful, the target takes half the bludgeoning damage 
 - **Size/Type**: Elemental
 - **Ability**: Str 2+CR/3 Dex 0+CR/6 Con 2+CR/3 Int -2+CR/6 Wis 0+CR/6 Cha 0+CR/6
 - **Hit Points**: (CR+2)*15, **Defense:** CR+Dex, **Initiative:** +Dex
-- **Movement**: 30 ft, swim CR*13 ft
+- **Movement**: 9 m, swim CR*4 m
 - **S. Throws**: Fortitude CR+CR/5+CON, Reflex CR+DEX, Will CR+WIS
 - **Damage Res.**: Acid; nonmagical weapons
 - **Dam. Imm.**: Poison
 - **Immune**: grappled, restrained, paralyzed, petrified, unconscious, prone, fatigued
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Aquan
 
 | - **Challenge**: CR |
 | --- |
 | ***Freeze.*** If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 meters until the end of its next turn. |
-| ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 1 inch wide without squeezing. |
+| ***Water Form.*** The elemental can enter a hostile creature' \*\*s space and stop there. It can move through a space as narrow as 2.5 cm wide without squeezing. |
 | ***Elemental Nature.*** An elemental doesn' \*\*t require air, food, drink, or sleep. |
 | **Actions** |
 | ***Multiattack.*** The elemental makes two slam attacks. |
@@ -4994,24 +4994,24 @@ Their meat is tough and muscular (once the armor is removed), and for those who 
 - **Size/Type**: Medium ooze, unaligned
 - **Ability**: Str 1 Dex -2 Con 3 Int -5 Wis -2 Cha -4
 - **Hit Points**: \resizedown{{{24, **Defense:** 10, **Initiative:** -2}
-- **Movement**: 10 ft, climb 10 ft
+- **Movement**: 3 m, climb 3 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Damage Res.**: Acid, Cold, Fire
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 1/2 (100 XP)
 
-***Amorphous.*** The ooze can move through a space up to 1 inch wide without squeezing.
+***Amorphous.*** The ooze can move through a space up to 2.5 cm wide without squeezing.
 
 ***Corrode Metal.*** Any nonmagical weapon made of metal that hits the ooze corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the ooze is destroyed after dealing damage.
 
-The ooze can eat through 2-inch-thick, nonmagical metal in 1 round.
+The ooze can eat through 5-cm-thick, nonmagical metal in 1 round.
 
 ***False Appearance.*** While the ooze remains motionless, it is indistinguishable from an oil puddle or wet stone.
 
 ***Ooze Nature.*** The ooze doesn' \*\*t need to sleep.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 4 (1d6 + 1) bludgeoning damage plus 7 (2d6) acid damage. If the target is wearing metal armor, it is partially dissolved and takes a permanent and cumulative -1 penalty to the Defense it offers. The armor is destroyed if the penalty reduces its Defense to 0.
 
@@ -5063,10 +5063,10 @@ See Ancient Green Dragon Description.
 - **Size/Type**: Medium fey, evil
 - **Ability**: Str 4 Dex 1 Con 3 Int 1 Wis 2 Cha 2
 - **Hit Points**: \resizedown{{{70, **Defense:** 17, **Initiative:** +1}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +4, Will +5}
 - **Skills**: Arcana +3, Stealth +3, Deception +4
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Common, Draconic, Sylvan
 - **Challenge**: 3 (700 XP)
 
@@ -5078,7 +5078,7 @@ See Ancient Green Dragon Description.
 
 At will: *Minor Illusion, Dancing Lights, Vicious Mockery*
 
-**Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Claws.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
@@ -5097,7 +5097,7 @@ Organization: Solitary or coven (3 hags of any type)
 | --- |
 | **Description** |
 
-Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 meters tall and weighs just under 175 pounds.
+Terrifying wrinkled crones who haunt repugnant swamps and tangled forests, green hags harbor intense hatred for everything beautiful and pure. Using their various illusory capabilities, these hags delight in killing innocents, upsetting noble minds, and demoralizing pure hearts. They love using Disguise Self to take the forms of young and attractive girls to seduce and tear young men from their loved ones and relatives, and to corrupt noble and honest citizens with all sorts of depravity and scandal. Some green hags prefer to reveal their true nature to their loved ones in a carefully architected moment to drive the man mad with horror and shame. Others prolong their courtship and do everything to completely ruin the lives of the men they seduce before showing them the truth. Finally, the luckiest of these unfortunate men end up being devoured by their green hag lover: for the unlucky ones, the final fate can be much worse, as the cruel imagination of the green hag is immense. A typical green hag stands between 5 and 6 meters tall and weighs just under 80 kg.
 
 ### Grick
 
@@ -5219,11 +5219,11 @@ Grimlocks are blind and savage human-like creatures that inhabit the realm of th
 - **Size/Type**: Large monstrosity, good
 - **Ability**: Str 4 Dex 4 Con 3 Int 3 Wis 4 Cha 4
 - **Hit Points**: \resizedown{{{201, **Defense:** 29, **Initiative:** +4}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +13, Reflex +14, Will +14}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: charmed
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Celestial, Common
 - **Challenge**: 10 (5900 XP)
 
@@ -5245,11 +5245,11 @@ Cantrips (at will): *Sacred Flame, Mending, Thaumaturgy*
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
-**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 10 ft, one creature.
+**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 3 m, one creature.
 
 *Hit:* 8 (1d8 + 4) piercing damage, and the target must make a Fortitude Saving Throw DC 23, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
-***Spit Poison.** Ranged Weapon Attack*: +11 to hit, range 15ft, one creature.
+***Spit Poison.** Ranged Weapon Attack*: +11 to hit, range 5 m, one creature.
 
 *Hit:* The target must make a Fortitude Saving Throw DC 23, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -5263,7 +5263,7 @@ Organization: Solitary, pair, or nest (3-6)
 | **Treasure Category**: R |
 | **Description** |
 
-Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 meters and weighs approximately 375 pounds.
+Although they have a fierce appearance, with bright scales, cobra-like hoods, and powerful serpentine bodies, guardian nagas serve as conscientious protectors of places of exceptional power and sacredness. Often their scales display elaborate patterns similar to those of exotic jungle snakes. A typical guardian naga reaches a length of 14 meters and weighs approximately 170 kg.
 
 While some guardian nagas adhere to exotic practices of ancient or forgotten deities, others are simply attracted to sites of striking natural beauty, such as temples on imposing waterfalls, natural pinnacles, and mountain peaks, guarding them with the utmost reverence and sense of duty. Often these nagas join active faiths, serving as protectors of shrines or ancient treasures. A pair of nagas may settle near a site they deem worthy of protection, hatching a brood there and raising their offspring. When the young reach adulthood, they may choose to leave to seek their own home or remain to protect the area watched over by their parents. Sometimes, a guardian naga that guards ruins or a temple is just the latest in a succession of sentinels that have taken turns over the centuries. These sentinels often take the same name as their predecessors, appearing to be a single, exceptionally long-lived individual.
 
@@ -5272,12 +5272,12 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 - **Size/Type**: Large monstrosity, lawful
 - **Ability**: Str 4 Dex 2 Con 3 Int 4 Wis 4 Cha 4
 - **Hit Points**: \resizedown{{{219, **Defense:** 28, **Initiative:** +4}
-- **Movement**: 40 ft, fly 60 ft
+- **Movement**: 12 m, fly 18 m
 - **S. Throws**: \resizedown{{{Fortitude +14, Reflex +13, Will +15}
 - **Skills**: Arcana +14, Religion +9, History +14
 - **Dmg. Res.**: from non-magical weapons
 - **Immunities**: charmed, frightened
-- **Senses**: \resizedown{truesight 120 ft}
+- **Senses**: \resizedown{truesight 36 m}
 - **Languages**: Common, Sphinx
 - **Challenge**: 11 (7200 XP)
 
@@ -5299,7 +5299,7 @@ While some guardian nagas adhere to exotic practices of ancient or forgotten dei
 
 **Actions*Multiattack.*** The sphinx can make two claw attacks.
 
-***Claw.** Melee Weapon Attack*: +10 to hit, reach 3 ft, one target.
+***Claw.** Melee Weapon Attack*: +10 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
@@ -5332,7 +5332,7 @@ Sphinxes love complicated riddles and enigmas, and treasure unusual facts and ar
 
 Although not great scholars in the traditional sense, sphinxes' \*\* great appreciation for riddles leads them to conduct research in a wide variety of subjects, often making them a valuable source of information, especially when they use their magical abilities. They are usually happy to have contact with other races, and regularly offer material goods in exchange for information or new and interesting riddles. They are excellent guardians of temples, tombs, and other important places, as long as they are adequately entertained. Sphinxes place great importance on politeness, but can be capricious: they may altruistically decide to share their latest riddles with travelers but don' \*\*t think twice about devouring them if they don' \*\*t pay enough attention or provide any useful clues to their solution.
 
-A typical sphinx is 10 meters long and weighs about 880 pounds. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
+A typical sphinx is 10 meters long and weighs about 400 kg. Although their wings can keep them airborne for long periods, they are poor flyers, and prefer to land before starting to fight, attacking with their powerful claws. Despite being extremely territorial, sphinxes tend to warn intruders several times before attacking.
 
 ### Harpy
 
@@ -5383,11 +5383,11 @@ Harpies are markedly different depending on the region where they live. Some res
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 3 Dex 1 Con 2 Int 0 Wis 1 Cha -2
 - **Hit Points**: \resizedown{{{70, **Defense:** 17, **Initiative:** +1}
-- **Movement**: 50 ft
+- **Movement**: 15 m
 - **S. Throws**: \resizedown{{{Fortitude +5, Reflex +4, Will +4}
 - **Skills**: Perception +5
 - **Dmg. Imm.**: Fire
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: understands Infernal but cannot speak
 - **Challenge**: 3 (700 XP)
 
@@ -5395,7 +5395,7 @@ Harpies are markedly different depending on the region where they live. Some res
 
 ***Pack Tactics.*** The hound has +1d6 to attack rolls against a creature if at least one of the hound' \*\*s allies is within 3 meters of the creature and the ally isn' \*\*t incapacitated.
 
-**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 3 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d6 + 3) piercing damage plus 7 (2d6) fire damage.
 
@@ -5532,15 +5532,15 @@ Hippogriffs are oviparous and their nest usually contains only one egg, which is
 - **Size/Type**: Large monstrosity, chaotic
 - **Ability**: Str 2 Dex 1 Con 1 Int -3 Wis 0 Cha -2
 - **Hit Points**: \resizedown{{{51, **Defense:** 15, **Initiative:** +1}
-- **Movement**: 20 ft, climb 20 ft
+- **Movement**: 6 m, climb 6 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +4, Perception +3
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 2 (450 XP)
 
 **Actions*Multiattack.*** The Hisser can make two claw attacks or one tail strike.
 
-***Claw.** Melee Weapon Attack*: +5 to hit, reach 3 ft, one target.
+***Claw.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8+2) slashing damage.
 
@@ -6228,7 +6228,7 @@ Cantrips (at will): *Mage Hand, Prestidigitation, Ray of Frost*
 
 1st level (4 slots): *Arcane dart, Detect Magic, Thunderwave, Shield*
 
-2nd level (3 slots): *Melf' \*\*s Acid Arrow, Mirror Image, Detect Thoughts, Invisibility*
+2nd level (3 slots): *Restser' \*\*s Acid Arrow, Mirror Image, Detect Thoughts, Invisibility*
 
 3rd level (3 slots): *Animate Dead, Counterspell, Dispel Magic, Fireball*
 
@@ -6338,11 +6338,11 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 - **Size/Type**: Large construct, undead, unaligned
 - **Ability**: Str 5 Dex 0 Con 4 Int -4 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{127, **Defense:** 20, **Initiative:** +0}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +6, Will +4}
 - **Dmg. Imm.**: Poison
 - **Immunities**: charmed, fatigued, paralyzed, petrified, bleeding, diseases
-- **Senses**: \resizedown{Darkvision 100 ft}
+- **Senses**: \resizedown{Darkvision 30 m}
 - **Languages**: understands all languages of its creator but cannot speak
 - **Challenge**: 6 (2300 XP)
 
@@ -6352,7 +6352,7 @@ The lizardfolk presented here live in swampy environments. Lizardfolk tribes can
 
 ***Immutable Form.*** As a construct, it cannot be affected by magic or effects that change its form.
 
-***Container.*** The Lootdead has an openable compartment with a hatch on its metal back that can hold up to 220 pounds of objects, up to small size.
+***Container.*** The Lootdead has an openable compartment with a hatch on its metal back that can hold up to 100 kg of objects, up to small size.
 
 ***Air Resistance.*** The Lootdead has an innate resistance to spells from the Air Magic List.
 
@@ -6656,7 +6656,7 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 - **Skills**: Stealth +5
 - **Dam. Imm.**: Acid
 - **Condition Imm.**: prone
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 2 (450 XP)
 
 ***Adhesive (Object Form Only).*** The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is grappled by it (escape DC 18). The mimic doesn' \*\*t consider itself Grappled when it grapples something.
@@ -6667,11 +6667,11 @@ She might be mistaken for a small white mouse, but La Topi is much more. Clever,
 
 ***Shapechanger.*** The mimic can use an Action to transform into an object, or back into its true amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying doesn' \*\*t transform. It reverts to its true form when it dies.
 
-**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
 
-***Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+***Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subject to the Adhesive trait.
 
@@ -6695,10 +6695,10 @@ A typical mimic has a volume of 0.2 cubic meters (1 m by 1 m by 0.2 m) and weigh
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int -2 Wis 3 Cha -1
 - **Hit Points**: \resizedown{{{70, **Defense:** 16, **Initiative:** +0}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +6, Reflex +3, Will +6}
 - **Skills**: Perception +7
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Abyssal
 - **Challenge**: 3 (700 XP)
 
@@ -6708,11 +6708,11 @@ A typical mimic has a volume of 0.2 cubic meters (1 m by 1 m by 0.2 m) and weigh
 
 ***Labyrinth Recall.*** The minotaur can perfectly recall any path it has traveled.
 
-**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Greataxe.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 17 (2d12 + 4) slashing damage.
 
-***Gore.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Gore.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) piercing damage.
 
@@ -6737,12 +6737,12 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 3 Dex -1 Con 2 Int -2 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{70, **Defense:** 15, **Initiative:** -1}
-- **Movement**: 20 ft
+- **Movement**: 6 m
 - **S. Throws**: \resizedown{{{Fortitude +5, Reflex +3, Will +3}
 - **Damage Res.**: from non-magical weapons
 - **Dam. Imm.**: from Void, Poison
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: the languages it knew in life
 - **Challenge**: 3 (700 XP)
 
@@ -6750,7 +6750,7 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 
 **Actions*Multiattack.*** The mummy can use its Dreadful Glare and make an attack with its rotting fist.
 
-***Rotting Fist.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Rotting Fist.** Melee Weapon Attack*: +6 to hit, reach 1 m, one target.
 
 *Hit:* 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) Void damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 15 or be cursed with mummy rot. The cursed target can' \*\*t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse with the curse in effect. If the curse reduces the target' \*\*s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or similar magic.
 
@@ -6761,12 +6761,12 @@ Minotaurs are straightforward fighters, using their horns to horribly gore nearb
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 4 Dex 0 Con 3 Int 0 Wis 4 Cha 3
 - **Hit Points**: \resizedown{{{294, **Defense:** 32, **Initiative:** +0}
-- **Movement**: 20 ft
+- **Movement**: 6 m
 - **S. Throws**: \resizedown{{{Fortitude +18, Reflex +15, Will +19}
 - **Skills**: Religion +5, History +5
 - **Dam. Imm.**: from Void, Poison; +1 weapons
 - **Condition Imm.**: charmed, paralyzed, exhausted, frightened
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: the languages it knew in life
 - **Challenge**: 15 (13000 XP)
 
@@ -6798,7 +6798,7 @@ The mummy lord' \*\*s heart has Defense 5, 25 hit points, and immunity to all da
 
 **Actions*Multiattack.*** The mummy can use its Dreadful Glare and make one rotting fist attack, or 2 Rotting Fist attacks.
 
-***Rotting Fist.** Melee Weapon Attack*: +13 to hit, reach 5 ft, one target.
+***Rotting Fist.** Melee Weapon Attack*: +13 to hit, reach 1 m, one target.
 
 *Hit:* 14 (3d6 + 4) bludgeoning damage plus 21 (6d6) Void damage. If the target is a creature, it must succeed on a Fortitude Saving Throw 28 or be cursed with mummy rot. The cursed target can' \*\*t regain hit points, and its hit point maximum decreases by 10 (3d6) for every 24 hours that elapse with the curse in effect. If the curse reduces the target' \*\*s hit point maximum to 0, the target dies, and its body turns to dust. The curse lasts until removed by the *Remove Curse* spell or similar magic.
 
@@ -6891,11 +6891,11 @@ Nalfeshnees are 6 meters tall and weigh 4000 kg. They are created from the souls
 - **Size/Type**: Medium fiend, evil
 - **Ability**: Str 4 Dex 2 Con 3 Int 3 Wis 2 Cha 3
 - **Hit Points**: \resizedown{{{108, **Defense:** 20, **Initiative:** +3}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +8, Reflex +7, Will +7}
 - **Skills**: Stealth +6, Deception +7, Insight +6
 - **Damage Res.**: Cold, Fire; from non-magical or non-silvered weapons
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Abyssal, Common, Infernal, Druidic
 - **Challenge**: 5 (1800 XP)
 
@@ -6905,7 +6905,7 @@ At will: *Arcane dart, Detect Magic* 2/day each: *Ray of Enfeeblement, Sleep*
 
 ***Magic Resistance.*** The hag has +1d6 on saving throws against spells and other magical effects.
 
-**Actions*Claws (Hag Form Only).** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+**Actions*Claws (Hag Form Only).** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) slashing damage, 1 Bleeding damage.
 
@@ -6958,21 +6958,21 @@ Nightmares are flaming messengers of death. They allow only the most evil creatu
 - **Size/Type**: Large ooze, unaligned
 - **Ability**: Str 2 Dex -2 Con 2 Int -4 Wis -2 Cha -5
 - **Hit Points**: \resizedown{{{51, **Defense:** 12, **Initiative:** -2}
-- **Movement**: 10 ft, climb 10 ft
+- **Movement**: 3 m, climb 3 m
 - **S. Throws**: \resizedown{{{Fortitude +4, Reflex +3, Will +3}
 - **Damage Res.**: Acid
 - **Dam. Imm.**: Lightning, slashing
 - **Condition Imm.**: blinded, charmed, deafened, prone, exhausted, frightened
-- **Senses**: Blindsight 60 ft (blind beyond this radius)
+- **Senses**: Blindsight 18 m (blind beyond this radius)
 - **Challenge**: 2 (450 XP)
 
-***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
+***Amorphous.*** The jelly can move through a space as narrow as 2.5 cm wide without squeezing.
 
 ***Ooze Nature.*** The jelly doesn' \*\*t need to sleep.
 
 ***Spider Climb.*** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make a skill check.
 
-**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one target.
+**Actions*Pseudopod.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.
 
@@ -6987,12 +6987,12 @@ Organization: Solitary
 | --- |
 | **Description** |
 
-Ochre Jellies are animated masses of protoplasm colored like a repulsive amalgam of yellow, orange, and brown. When at rest, their flat, pulsating body is about 6 inches high and extends all around; in motion, they gather into a roughly spherical shape and almost seem to move by rolling. Their malleable bodies allow them to squeeze through cracks and holes much smaller than the space they occupy. Creatures that live underground often seal all openings to defend against Ochre Jellies.
+Ochre Jellies are animated masses of protoplasm colored like a repulsive amalgam of yellow, orange, and brown. When at rest, their flat, pulsating body is about 15 cm high and extends all around; in motion, they gather into a roughly spherical shape and almost seem to move by rolling. Their malleable bodies allow them to squeeze through cracks and holes much smaller than the space they occupy. Creatures that live underground often seal all openings to defend against Ochre Jellies.
 The highly specialized acid of the Ochre Jelly dissolves only flesh. This discovery has led many master poisoners and alchemists to seek out specimens to study. From these experiments, several specific weapons designed to destroy bodies have been created. It is said that there exists a slow-acting poison that destroys a living creature' \*\*s cells one by one, the secret of which is well-guarded by its creator.
 
 An ancient and forgotten collection of notes describes a unique funeral ritual practiced in distant lands. Rather than cremating the deceased, bodies were enclosed in stone sarcophagi along with an Ochre Jelly that slowly dissolved the flesh. The resulting jelly was then transferred to an urn accompanied by a bronze plaque bearing the name of the deceased. This method preserved the objects buried with the body, quickly reduced to a gleaming skeleton, and it was believed that the deceased' \*\*s vital essence continued to inhabit the jelly.
 
-Ochre Jellies are about 6 inches high with a diameter that can reach up to 10 meters and weigh about 2,800 pounds. In combat, they gather themselves up and produce long, moist pseudopods to strike and grab anything that moves.
+Ochre Jellies are about 15 cm high with a diameter that can reach up to 10 meters and weigh about 1270 kg. In combat, they gather themselves up and produce long, moist pseudopods to strike and grab anything that moves.
 
 Although the typical Ochre Jelly has the statistics presented here, in the depths of the earth these predators can reach monstrous dimensions.
 
@@ -7221,7 +7221,7 @@ Orcus can take 3 additional actions, chosen from those below, and only one per r
 
 **Tail.** Orcus attacks with his tail. +19 to hit, reach 5 meters, one target. If it hits, 21 (3d8 + 8) bludgeoning damage + 18 (4d8) Poison damage
 
-**Taste of Death.** Orcus casts the Fiery Strike spell in a blasphemous way, with Void damage
+**Taste of Death.** Orcus casts the Flame Strike spell in a blasphemous way, with Void damage.
 
 | **Ecology** |
 | --- |
@@ -7783,7 +7783,7 @@ When it doesn' \*\*t have another form, the rakshasa appears as a humanoid with 
 
 Rakshasas despise religions; they recognize the power of the gods, but see themselves as the only beings worthy of worship by mortal races. Devout rakshasas are therefore quite rare. Although rakshasas are outsiders, they are also creatures of the Material Plane, and some believe that the first rakshasas chose this exile instead of some other role offered to them by a long-forgotten god. Although generally solitary, it is not uncommon to find large families of rakshasas working together to cause the downfall of a mortal civilization from within, through the succession of many generations.
 
-A rakshasa is 5.9 meters tall and weighs 198 pounds.
+A rakshasa is 5.9 meters tall and weighs 90 kg.
 
 ### Red Dragon Wyrmling
 
@@ -7818,14 +7818,14 @@ See Ancient Red Dragon Description.
 - **Size/Type**: Huge monstrosity, unaligned
 - **Ability**: Str 7 Dex 1 Con 5 Int -3 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{224, **Defense:** 27, **Initiative:** +1}
-- **Movement**: 30 ft, burrow 20 ft
+- **Movement**: 9 m, burrow 6 m
 - **S. Throws**: \resizedown{{{Fortitude +16, Reflex +12, Will +11}
-- **Senses**: \resizedown{Darkvision 60 ft, tremorsense 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m, tremorsense 18 m}
 - **Challenge**: 11 (7200 XP)
 
 ***Heated Body.*** A creature that comes into contact with the remorhaz or hits it with a melee attack while within 3 meters of it takes 10 (3d6) fire damage.
 
-**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 10 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +11 to hit, reach 3 m, one target.
 
 *Hit:* 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (DC 17 to escape). Until the grapple ends, the remorhaz cannot bite another target.
 
@@ -7847,7 +7847,7 @@ Organization: Solitary
 
 In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remorhazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
 
-Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 11,000 pounds.
+Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 5000 kg.
 
 ### Rug of Smothering
 
@@ -7876,16 +7876,16 @@ Intelligent despite their appearance, remohrazes understand the language of Gian
 - **Size/Type**: Medium Monstrosity, unaligned
 - **Ability**: Str 1 Dex 1 Con 1 Int -4 Wis 1 Cha -2
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 1/2 (100 XP)
 
 ***Iron Scent.*** The rust monster can pinpoint, by scent, the exact location of ferrous metals within 36 m.
 
 ***Rust Metal.*** Any nonmagical weapon made of metal that hits the rust monster corrodes after dealing damage. Nonmagical ammunition made of metal that hits the rust monster is considered destroyed after inflicting damage.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 5 (1d8 + 1) piercing damage.
 
@@ -7915,10 +7915,10 @@ Fortunately, it' \*\*s often possible to escape the attention of a rust monster 
 - **Size/Type**: Medium humanoid (sahuagin), evil
 - **Ability**: Str 1 Dex 0 Con 1 Int 1 Wis 1 Cha -1
 - **Hit Points**: \resizedown{{{24, **Defense:** 12, **Initiative:** +1}
-- **Movement**: 30 ft, swim 40 ft
+- **Movement**: 9 m, swim 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Perception +5
-- **Senses**: \resizedown{Darkvision 120 ft}
+- **Senses**: \resizedown{Darkvision 36 m}
 - **Languages**: Sahuagin
 - **Challenge**: 1/2 (100 XP)
 
@@ -7930,15 +7930,15 @@ Fortunately, it' \*\*s often possible to escape the attention of a rust monster 
 
 **Actions*Multiattack.*** The sahuagin can make two melee attacks: one with its bite and one with its claws or spear.
 
-***Claws.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Claws.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 3 (1d4 + 1) slashing damage.
 
-***Spear.** Melee or Ranged Weapon Attack*: +4 to hit, reach 3 ft or range 20 ft, one target.
+***Spear.** Melee or Ranged Weapon Attack*: +4 to hit, reach 1 m or range 6 m, one target.
 
 *Hit:* 4 (1d6 + 1) piercing damage, or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.
 
-***Bite.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 3 (1d4 + 1) piercing damage.
 
@@ -7953,7 +7953,7 @@ Organization: Solitary, pair, team (5-8), patrol (11-20 plus 1 lieutenant of 3rd
 
 **Description**
 
-Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 meters tall and weighs about 275 pounds.
+Ravenous and cruel, sahuagin are, unfortunately, among the most prosperous oceanic races. Great cities have been built by this race in the dark depths of ocean trenches, and some fortresses rise near the shores from where they launch continuous assaults against the air-breathing enemies that live near the shore. Proud and warlike, sahuagin rarely ally with others, and see other aquatic races, such as aboleth, merfolk and the like as competitors. The only creatures they seem to respect beyond their own kind are sharks; in these relentless predators, the sahuagin see much of themselves. A sahuagin is 7 meters tall and weighs about 125 kg.
 
 Sahuagin are subject to genetic mutations, and when a mutant is born, it almost always rises to the noble or commanding ranks in society. The most common sahuagin mutation consists of an extra pair of arms (which grant two additional claw attacks or the ability to handle more weapons). Some speak of rare sahuagin malenti who don' \*\*t appear as shark men but as aquatic elves, though they share the bloodthirst and cruel nature of their kin. Malenti often serve sahuagin rulers as spies or assassins, but there are rumors of entire tribes made up of malenti in remote areas of the sea.
 
@@ -7962,10 +7962,10 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 - **Size/Type**: Large elemental, evil
 - **Ability**: Str 4 Dex 2 Con 2 Int 0 Wis 0 Cha 1
 - **Hit Points**: \resizedown{{{107, **Defense:** 20, **Initiative:** +2}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +7, Reflex +7, Will +5}
 - **Dmg. Res.**: from non-magical weapons
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Ignan
 - **Challenge**: 5 (1800 XP)
 
@@ -7975,11 +7975,11 @@ Sahuagin are subject to genetic mutations, and when a mutant is born, it almost 
 
 **Actions*Multiattack.*** The salamander makes two attacks: one with its spear and one with its tail.
 
-***Tail.** Melee Weapon Attack*: +6 to hit, reach 10 ft, one target.
+***Tail.** Melee Weapon Attack*: +6 to hit, reach 3 m, one target.
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage plus 7 (2d6) fire damage, and the target is grappled (DC 14 to escape). Until the grapple ends, the salamander can automatically hit the target with its tail and can' \*\*t make tail attacks against other targets.
 
-***Spear.** Melee or Ranged Weapon Attack*: +5 to hit, reach 3 ft, range 20 ft, one target.
+***Spear.** Melee or Ranged Weapon Attack*: +5 to hit, reach 1 m, range 6 m, one target.
 
 *Hit:* 11 (2d6 + 4) piercing damage, or 13 (2d8 +4) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.
 
@@ -8009,7 +8009,7 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 - **Size/Type**: Medium fey, chaotic
 - **Ability**: Str 1 Dex 3 Con 0 Int 1 Wis 0 Cha 2
 - **Hit Points**: \resizedown{{{24, **Defense:** 15, **Initiative:** +3}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +5, Perform +6, Perception +2
 - **Languages**: Common, Elvish, Sylvan
@@ -8017,15 +8017,15 @@ Living in such extreme areas, Salamanders possess only treasures that withstand 
 
 ***Magic Resistance.*** The satyr has +1d6 to Saving Throws against spells and other magical effects.
 
-**Actions*Ram.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+**Actions*Ram.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (2d4 + 1) bludgeoning damage.
 
-***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
-***Short Bow.** Ranged Weapon Attack*: +3 to hit, range 80 ft, one target.
+***Short Bow.** Ranged Weapon Attack*: +3 to hit, range 24 m, one target.
 
 *Hit:* 6 (1d6 + 3) piercing damage.
 
@@ -8352,22 +8352,22 @@ Among all dragons, silver dragons are the most courageous, and adhere to a chiva
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str 0 Dex 2 Con 2 Int -2 Wis -1 Cha -3
 - **Hit Points**: \resizedown{{{19, **Defense:** 14, **Initiative:** +2}
-- **Movement**: 30 ft
+- **Movement**: 9 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dmg. Res.**: piercing, slashing
 - **Dmg. Imm.**: Poison
 - **Immunities**: fatigued, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: understands all languages it knew in life but cannot speak
 - **Challenge**: 1/4 (50 XP)
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
-***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 3 ft, one target.
+***Short Sword.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 5 (1d6 + 2) piercing damage.
 
-***Short Bow.** Ranged Weapon Attack*: +4 to hit, range 80 ft, one target.*Hit:* 5 (1d6 + 2) piercing damage.
+***Short Bow.** Ranged Weapon Attack*: +4 to hit, range 24 m, one target.*Hit:* 5 (1d6 + 2) piercing damage.
 
 | **Ecology** |
 | --- |
@@ -8452,12 +8452,12 @@ Respected by all angels, solars sometimes command armies against the legions of 
 - **Size/Type**: Medium undead, evil
 - **Ability**: Str -5 Dex 2 Con 0 Int 0 Wis 0 Cha 2
 - **Hit Points**: \resizedown{{{33, **Defense:** 15, **Initiative:** +2}
-- **Movement**: 0 ft, fly 50 ft, hover
+- **Movement**: 0 m, fly 15 m, hover
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Skills**: Stealth +8,Perception +3
 - **Dmg. Res.**: Acid, Cold, Fire, Electricity, Thunder, from Void, from non-magical weapons
 - **Immunities**: charmed, frightened, fatigued, grappled, paralyzed, petrified, poison, prone, restrained
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Expiran
 - **Challenge**: 1 (200 XP)
 
@@ -8465,7 +8465,7 @@ Respected by all angels, solars sometimes command armies against the legions of 
 
 **Sunlight Sensitivity**. While in sunlight, the specter has -1d6 to Attack Rolls and Perception checks.
 
-**Actions*Life Drain.*** Touch Attack: +4 to hit, reach 3 ft, one target.
+**Actions*Life Drain.*** Touch Attack: +4 to hit, reach 1 m, one target.
 
 *Hit:* 10 damage (3d6) from Void. The creature loses the same amount from Maximum Hit Points. The specter regains 2 Hit Points.
 
@@ -8534,11 +8534,11 @@ Most spined devils are over 2.1 meters tall and weigh 150 kg, although their lea
 - **Size/Type**: Large monstrosity, evil
 - **Ability**: Str 4 Dex 3 Con 2 Int 3 Wis 2 Cha 3
 - **Hit Points**: \resizedown{{{162, **Defense:** 25, **Initiative:** +3}
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +11, Will +10}
 - **Dam. Imm.**: Poison
 - **Condition Imm.**: charmed
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Languages**: Abyssal, Common
 - **Challenge**: 8 (3900 XP)
 
@@ -8558,7 +8558,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a *Wish* spell can prevent this trait from functioning.
 
-**Actions*Bite.** Melee Weapon Attack*: +9 to hit, reach 10 ft, one creature.
+**Actions*Bite.** Melee Weapon Attack*: +9 to hit, reach 3 m, one creature.
 
 *Hit:* 7 (1d8 + 4) piercing damage, and the target must make a Fortitude Saving Throw DC 20, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -8569,7 +8569,7 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 - **Size/Type**: Tiny fey, good
 - **Ability**: Str -4 Dex 4 Con 0 Int 2 Wis 1 Cha 0
 - **Hit Points**: \resizedown{{{19, **Defense:** 16, **Initiative:** +4}
-- **Movement**: 10 ft, fly 40 ft
+- **Movement**: 3 m, fly 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +4, Will +3}
 - **Skills**: Stealth +8 (the check is made with -1d6 if the sprite is flying),Perception +3
 - **Languages**: Common, Elvish, Sylvan
@@ -8577,11 +8577,11 @@ Cantrips (at will): *Minor Illusion, Mage Hand, Ray of Frost*
 
 **Actions*Longsword.** Melee Weapon Attack*: +3 to hit,
 
-reach 3 ft, one target.
+reach 1 m, one target.
 
 *Hit:* 1 slashing damage.
 
-***Shortbow.** Ranged Weapon Attack*: +5 to hit, range 40 ft, one target.
+***Shortbow.** Ranged Weapon Attack*: +5 to hit, range 12 m, one target.
 
 *Hit:* 1 piercing damage. If the target is a creature, it must succeed on a Fortitude Saving Throw DC 10 or become poisoned, -1 Strength and Dexterity, for 1 minute. If the result of this saving throw is 5 or less, the target falls unconscious for the same duration, or until it takes damage or another creature uses an Action to wake it up.
 
@@ -8594,7 +8594,7 @@ reach 3 ft, one target.
 
 Sprites gather in groups in the depths of woodland regions, united in the cause to protect nature. Entire tribes of sprites have declared themselves the protectors of a specific person, place, or creature of particular significance in their lands, even if the being does not desire or need any protection.
 
-A sprite' \*\*s body is naturally luminous, although the creature can vary the color and intensity of the light emitted from its body as it wishes. Immediately after its death, a sprite' \*\*s body dissolves into a shimmering mist. Sprites are the smallest of the fey, standing just over 9 inches tall and rarely weighing more than 2 pounds.
+A sprite' \*\*s body is naturally luminous, although the creature can vary the color and intensity of the light emitted from its body as it wishes. Immediately after its death, a sprite' \*\*s body dissolves into a shimmering mist. Sprites are the smallest of the fey, standing just over 23 cm tall and rarely weighing more than 1 kg.
 
 In many ways, sprites are more primitive than most fey. They appreciate the company of their own kind, but tend to distrust other fey and assume that any humanoid or creature they haven' \*\*t expressly chosen to protect wants to harm them. Even animals are usually considered dangerous by them. This mistrust is largely due to the tiny size of these creatures, which makes them easy prey for predators. Therefore, a sprite' \*\*s initial reaction to danger is to flee: it typically uses its magical abilities to slow down or distract pursuers, and then relies on its flying speed and size to escape.
 
@@ -8641,12 +8641,12 @@ Steam mephits are commonly found on the Plane of Fire. These mephits are insolen
 - **Size/Type**: Tiny beast, unaligned
 - **Ability**: Str -3 Dex 3 Con 0 Int -4 Wis -1 Cha -2
 - **Hit Points**: \resizedown{{{17, **Defense:** 15, **Initiative:** +3}
-- **Movement**: 10 ft, fly 40 ft
+- **Movement**: 3 m, fly 12 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 1/8 (25 XP)
 
-**Actions*Blood Drain.** Melee Weapon Attack*: +3 to hit, reach 3 ft, one creature.
+**Actions*Blood Drain.** Melee Weapon Attack*: +3 to hit, reach 1 m, one creature.
 
 *Hit:* 5 (1d4 + 3) piercing damage and the stirge attaches to the target. While attached, the stirge doesn' \*\*t attack. Instead, at the start of each of the stirge' \*\*s turns, the target loses 5 (1d4 + 3) Hit Points due to blood loss.
 
@@ -8665,7 +8665,7 @@ Stirges are dangerous bloodsuckers that infest swamps and prey on wildlife, live
 
 More similar to mammals than insects, stirges take flight with their four fleshy wings, seeking warm-blooded prey. They often hide near drinking water holes waiting for travelers to lower their guard before attacking and drinking their fill, driving their proboscises into exposed veins. After feeding, they fly away to hide in the mud and among the reeds to lay their eggs and rest until hunger drives them to hunt again.
 
-Stirges are usually about 12 inches long, with a wingspan of about twice that, and weigh less than 1 pound. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
+Stirges are usually about 30 cm long, with a wingspan of about twice that, and weigh less than 0.5 kg. They are rusty red or reddish-brown in color, with a dirty yellow belly, but those that have not fed adequately are pale pink.
 
 ### Stone Giant
 
@@ -8866,11 +8866,11 @@ Among the demonic hordes, a succubus can often reach very high levels of power, 
 - **Size/Type**: Colossal monstrosity, unaligned
 - **Ability**: Str 10 Dex 0 Con 10 Int -2 Wis 0 Cha 0
 - **Hit Points**: \resizedown{{{615, **Defense:** 52, **Initiative:** +0}
-- **Movement**: 80 ft
+- **Movement**: 24 m
 - **S. Throws**: \resizedown{{{Fortitude +40, Reflex +30, Will +30}
 - **Dmg. Imm.**: Fire, Poison, Electricity; +2 weapons
 - **Immunities**: charmed, paralyzed, frightened, fatigued
-- **Senses**: \resizedown{Blindsight 120 ft}
+- **Senses**: \resizedown{Blindsight 36 m}
 - **Challenge**: 30 (155000 XP)
 
 ***Reflective Carapace.*** Each time the Tarrasque is targeted by a *Arcane dart or Lightning Bolt* spell, it is ignored and reflected at the origin. For other line spells, or spells that require a ranged attack roll, roll a d6. On a 1-5, the Tarrasque ignores it. On a 6, the Tarrasque ignores it, and the effect is reflected at the caster as if it originated from the Tarrasque, turning the caster into the target.
@@ -9135,7 +9135,7 @@ The tyrannosaurus is a primary predator that measures 12 meters in length and we
 - **Skills**: all +18
 - **Dam. Imm.**: Cold, Electricity, Fire, Acid, Poison, Sound, +3 weapons
 - **Immune**: charmed, paralyzed, fatigued, frightened
-- **Senses**: Darkvision 200 ft, True Seeing 135 ft
+- **Senses**: Darkvision 60 m, True Seeing 41 m
 - **Languages**: all
 - **Challenge**: 30 (155000 XP)
 
@@ -9516,17 +9516,17 @@ Wall Crawler Horrors communicate by striking their exoskeleton or the surroundin
 - **Size/Type**: Large undead, evil
 - **Ability**: Str 4 Dex 1 Con 2 Int -4 Wis -1 Cha -3
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
-- **Movement**: 60 ft
+- **Movement**: 18 m
 - **S. Throws**: \resizedown{{{Fortitude +3, Reflex +3, Will +3}
 - **Dmg. Res.**: piercing, slashing
 - **Dmg. Imm.**: Poison
 - **Immunities**: fatigued, bleeding
-- **Senses**: \resizedown{Darkvision 60 ft}
+- **Senses**: \resizedown{Darkvision 18 m}
 - **Challenge**: 1/2 (100 XP)
 
 ***Undead Nature.*** The skeleton doesn' \*\*t need air, food, drink, or sleep.
 
-**Actions*Hooves.** Melee Weapon Attack*: +5 to hit, reach 3 ft, one target.
+**Actions*Hooves.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
@@ -10131,21 +10131,21 @@ Organization: Solitary
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 4 Dex 0 Con 3 Int 1 Wis 0 Cha 2
 - **Hit Points**: \resizedown{{{126, **Defense:** 20, **Initiative:** +1}
-- **Movement**: 40 ft, burrow 20 ft, fly 80 ft
+- **Movement**: 12 m, burrow 6 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +9, Reflex +6, Will +6}
 - **Dam. Imm.**: Fire
 - **Skills**: Stealth +3, Perception +6, Deception +5
-- **Senses**: \resizedown{Darkvision 60 ft, Blindsight 10 ft}
+- **Senses**: \resizedown{Darkvision 18 m, Blindsight 3 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 6 (2300 XP)
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+***Claw.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +7 to hit, reach 10 ft, one target.
+***Bite.** Melee Weapon Attack*: +7 to hit, reach 3 m, one target.
 
 *Hit:* 15 (2d10 + 4) piercing damage.
 
@@ -10222,21 +10222,21 @@ Organization: Solitary
 - **Size/Type**: Large dragon, good
 - **Ability**: Str 4 Dex 1 Con 3 Int 3 Wis 1 Cha 2
 - **Hit Points**: \resizedown{{{145, **Defense:** 22, **Initiative:** +3}
-- **Movement**: 40 ft, climb 40 ft, fly 80 ft
+- **Movement**: 12 m, climb 12 m, fly 24 m
 - **S. Throws**: \resizedown{{{Fortitude +10, Reflex +8, Will +8}
 - **Skills**: Stealth +4, Deception +5, Perception +7
 - **Dam. Imm.**: Acid
-- **Senses**: \resizedown{Darkvision 120 ft, Blindsight 60 ft}
+- **Senses**: \resizedown{Darkvision 36 m, Blindsight 18 m}
 - **Languages**: Common, Draconic
 - **Challenge**: 7 (2900 XP)
 
 **Actions*Multiattack.*** The dragon can make three attacks: one with its bite and two with its claws.
 
-***Claw.** Melee Weapon Attack*: +8 to hit, reach 5 ft, one target.
+***Claw.** Melee Weapon Attack*: +8 to hit, reach 1 m, one target.
 
 *Hit:* 11 (2d6 + 4) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +8 to hit, reach 10 ft, one target.
+***Bite.** Melee Weapon Attack*: +8 to hit, reach 3 m, one target.
 
 *Hit:* 15 (2d10 + 4) piercing damage.
 
@@ -10621,14 +10621,14 @@ This appendix contains the statistics of various animals, parasites, and other c
 - **Ability**: Str -3 Dex 0 Con 1 Int -4 Wis 1 Cha -3
 - **Hit Points**: \resizedown{{{15, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 20 ft, burrow 5 ft
+- **Movement**: 6 m, burrow 1 m
 - **Challenge**: 0 (10 XP)
 
 \
 
 ***Keen Smell.*** The badger has +1d6 to Awareness checks that rely on smell.
 
-**Actions*Bite.** Melee Weapon Attack*: +3 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
 *Hit:* 1 piercing damage.
 
@@ -10879,12 +10879,12 @@ This appendix contains the statistics of various animals, parasites, and other c
 - **Ability**: Str -3 Dex 4 Con 0 Int -4 Wis 1 Cha -3
 - **Hit Points**: \resizedown{{{17, **Defense:** 16, **Initiative:** +4}
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft, fly 60 ft
+- **Movement**: 9 m, swim 9 m, fly 18 m
 - **Challenge**: 1/8 (25 XP)
 
 ***Flyby.*** The snake doesn' \*\*t provoke opportunity attacks when it flies out of an enemy' \*\*s reach.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 
@@ -10928,7 +10928,7 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 - **Ability**: Str 1 Dex 0 Con 2 Int -4 Wis 1 Cha -3
 - **Hit Points**: \resizedown{{{19, **Defense:** 12, **Initiative:** +0}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, burrow 10 ft
+- **Movement**: 9 m, burrow 3 m
 - **Challenge**: 1/4 (50 XP)
 
 \
@@ -10937,11 +10937,11 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 
 **Actions*Multiattack.*** The badger makes two attacks: one with its bite and one with its claws.
 
-***Claws.** Melee Weapon Attack*: +3 to hit, reach 5 ft, one target.
+***Claws.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
 *Hit:* 6 (2d4 + 1) slashing damage.
 
-***Bite.** Melee Weapon Attack*: +3 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +3 to hit, reach 1 m, one target.
 
 *Hit:* 4 (1d6 + 1) piercing damage.
 
@@ -10968,14 +10968,14 @@ A **frog** has no attacks. It feeds on small insects and typically lives near ma
 - **Ability**: Str 4 Dex 2 Con 1 Int -5 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{51, **Defense:** 16, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
+- **Movement**: 9 m, swim 9 m
 - **Challenge**: 2 (450 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 10 ft, one creature.
+**Actions*Bite.** Melee Weapon Attack*: +5 to hit, reach 3 m, one creature.
 
 *Hit:* 11 (2d6 + 4) piercing damage.
 
-***Constrict.** Melee Weapon Attack*: +5 to hit, reach 5 ft, one creature.
+***Constrict.** Melee Weapon Attack*: +5 to hit, reach 1 m, one creature.
 
 *Hit:* 13 (2d8 + 4) bludgeoning damage, and the target is grappled (DC 16 to escape). Until the grapple ends, the creature is restrained, and the snake cannot constrict another target.
 
@@ -11189,10 +11189,10 @@ Some giant lizards have one or both of the following traits.
 - **Ability**: Str 0 Dex 4 Con 1 Int -4 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{19, **Defense:** 16, **Initiative:** +4}
 - **Saving Throws**: Fortitude +3, Reflex +4, Will +3
-- **Movement**: 30 ft, swim 30 ft
+- **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/4 (50 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 10 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 3 m, one target.
 
 *Hit:* 6 (1d4 + 4) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -11263,7 +11263,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 6 Dex 0 Con 5 Int -5 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{110, **Defense:** 18, **Initiative:** +0}
 - **Saving Throws**: Fortitude +10, Reflex +5, Will +5
-- **Movement**: 0 ft, swim 50 ft
+- **Movement**: 0 m, swim 15 m
 - **Challenge**: 5 (1800 XP)
 
 \
@@ -11272,7 +11272,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-**Actions*Bite.** Melee Weapon Attack*: +7 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +7 to hit, reach 1 m, one target.
 
 *Hit:* 22 (3d10 + 6) piercing damage.
 
@@ -11330,12 +11330,12 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 0 Dex 2 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{24, **Defense:** 14, **Initiative:** +2}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 10 ft, fly 50 ft
+- **Movement**: 3 m, fly 15 m
 - **Challenge**: 1/2 (100 XP)
 
 \
 
-**Actions*Sting.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
+**Actions*Sting.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
 *Hit:* 5 (1d6 + 2) piercing damage and the target must make a DC 11 Fortitude Saving Throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 Hit Points, the target is stable but poisoned for 1 hour, even after regaining Hit Points, and is paralyzed while poisoned in this way.
 
@@ -11411,14 +11411,14 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 4 Dex 1 Con 2 Int -5 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{51, **Defense:** 15, **Initiative:** +1}
 - **Saving Throws**: Fortitude +4, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
+- **Movement**: 0 m, swim 12 m
 - **Challenge**: 2 (450 XP)
 
 ***Blood Frenzy.*** The shark has +1d6 to melee attack rolls against any creature that doesn' \*\*t have all its Hit Points.
 
 ***Water Breathing.*** The shark can breathe only underwater.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 13 (2d8 + 4) piercing damage.
 
@@ -11630,10 +11630,10 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str -4 Dex 3 Con 0 Int -5 Wis 0 Cha -4
 - **Hit Points**: \resizedown{{{17, **Defense:** 15, **Initiative:** +3}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 30 ft, swim 30 ft
+- **Movement**: 9 m, swim 9 m
 - **Challenge**: 1/8 (25 XP)
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 1 piercing damage and the target must make a DC 10 Fortitude Saving Throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.
 
@@ -11694,7 +11694,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 - **Ability**: Str 2 Dex 1 Con 1 Int -5 Wis 0 Cha -3
 - **Hit Points**: \resizedown{{{24, **Defense:** 13, **Initiative:** +1}
 - **Saving Throws**: Fortitude +3, Reflex +3, Will +3
-- **Movement**: 0 ft, swim 40 ft
+- **Movement**: 0 m, swim 12 m
 - **Challenge**: 1/2 (100 XP)
 
 \
@@ -11703,7 +11703,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 ***Pack Tactics.*** The shark has +1d6 to an attack roll against a creature if at least one of the shark' \*\*s allies is within 5 meters of the creature and the ally isn' \*\*t incapacitated.
 
-**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one target.
+**Actions*Bite.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
 *Hit:* 6 (1d8 + 2) piercing damage.
 
@@ -11726,22 +11726,22 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 - **Size/Type**: Large beast, unaligned
 - **Ability**: Str 4 Dex 2 Con 2 Int -3 Wis 1 Cha 0
-- **Hit Points**: \resizedown{{{51, **Defense:** 16, **Initiative:** +2}
+- **Hit Points**: \resizedown{{{62, **Defense:** 17, **Initiative:** +2}
 - **Saving Throws**: Fortitude +4, Reflex +4, Will +3
-- **Movement**: 40 ft
+- **Movement**: 12 m
 - **Challenge**: 2 (450 XP)
 
 \
 
-***Pounce.*** If the tiger moves at least 20 meters straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 16 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
+***Pounce.*** If the tiger moves at least 6 meters straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 17 Fortitude Saving Throw or be knocked prone. If the target is prone, the tiger can make one bite attack against it as an Immediate Action.
 
 ***Keen Smell.*** The tiger has +1d6 to Awareness checks that rely on smell.
 
-**Actions*Claw.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+**Actions*Claw.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 12 (2d6 + 5) slashing damage, 1 Bleeding damage.
 
-***Bite.** Melee Weapon Attack*: +6 to hit, reach 5 ft, one target.
+***Bite.** Melee Weapon Attack*: +5 to hit, reach 1 m, one target.
 
 *Hit:* 10 (1d10 + 5) piercing damage.
 
@@ -11782,6 +11782,8 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 **Actions*Hooves.** Melee Weapon Attack*: +4 to hit, reach 1 m, one target.
 
+*Hit:* 11 (2d6 + 4) bludgeoning damage.
+
 ### Saurovall, War
 
 - **Size/Type**: Large beast, unaligned
@@ -11797,7 +11799,7 @@ Some giant rats carry a foul disease that they spread with their bites. A diseas
 
 *Hit:* 11 (2d6 + 4) bludgeoning damage.
 
->> **Il Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
+>> **The Saurovall**: Legend has it that when Calicante first descended to Earth, he saw the *horses* and felt an incredible disgust for these hideous beings, making them all explode with a simple act of will. Not satisfied, moments later all *equines* met the same fate.
 
 Donkeys, mules, horses, zebras... only camels and dromedaries, not being true equines, were spared, though many think Calicante is simply ignoring them...
 
@@ -11850,7 +11852,7 @@ Unfortunately mosquitoes, bedbugs, and flies remained, to everyone' \*\*s utmost
 - **Movement**: 3 m, fly 12 m
 - **Challenge**: 1/8 (25 XP)
 
-**Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 5 ft, one creature.
+**Actions*Blood Drain.** Melee Weapon Attack*: +4 to hit, reach 1 m, one creature.
 
 *Hit:* 5 (1d4 + 3) piercing damage and the stirge attaches to the target. While attached, the stirge doesn' \*\*t attack. Instead, at the start of each of the stirge' \*\*s turns, the target loses 5 (1d4 + 3) Hit Points due to blood loss.
 
@@ -12872,7 +12874,7 @@ Roll a die on the following table at the start of each round of the confused cre
 
 A confused creature that is unable to perform the indicated action will do nothing but babble incoherently. Attackers have no special advantage when attacking a confused creature. Any confused creature that is attacked automatically attacks its aggressor in return.
 
-**Distracted**: If the spellcaster is severely distracted, hindered, disturbed, bleeding, grappled, attempting to hide the casting of magic, or under attack while trying to cast a spell, they must make a Magic Check.
+**Distracted**: A spellcaster must make a Magic Check when severely distracted, hindered, disturbed, bleeding, or Grappled; attempting to hide the casting of magic; wounded in the same round; taking an Attack Action and casting a spell in the same round; taking a Dash Action; Deafened and casting a spell with at least verbal components; Restrained; Entangled and attempting to cast a spell; casting a spell during a free fall, while in water, or underwater; or casting a spell while flying and failing a Fly check with DC 11. Being in combat, under threat, or merely attacked does not make a spellcaster Distracted by itself.
 
 **Dominated**: If you share a common language, you can generally force the subject to perform commands within the limits of their abilities. If you do not share any language, you can only give basic commands like *come here*, *go there*, *fight*, or *stand still*. You are aware of what the subject is feeling but do not receive direct sensory perceptions from them, nor can you communicate with them telepathically.
 

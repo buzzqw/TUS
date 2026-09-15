@@ -8,7 +8,7 @@ The **DC**, based on the indicated skill, to create an item is 15 +2*Spell level
 
 Knowing the spell (or having it available through a Scroll) that is applied to the item is a requirement for every magic item created. The work days indicated cannot be divided into less than 6 hours per day dedicated to creation.
 
->>> **Attentin to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Game Master, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
+>>> **Attention to crafting**: The creation of magic items can break the balance of the game. A character with abundant resources and time can create items that disrupt the adventure' \*\*s balance. I suggest that NPCs, non-player characters managed by the Game Master, create the most wonderful items. At the same time, the sale of items valued above 2000gp should be as limited as possible.
 
 ### Modifiers to the cost of magic items
 

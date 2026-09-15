@@ -197,7 +197,7 @@ The worthy Game Master never kills player characters willingly. He presents oppo
 Weapon damage is calculated as the sum of the weapon die, Strength (or Dexterity if indicated by Abilities) whether positive or negative, bonuses given by Weapon Lists, bonuses given by Abilities, bonuses given by the weapon, and circumstantial bonuses.
 
 When a creature reaches 0 (zero) Hit Points, they are considered unconscious, meaning Helpless and Unable to do anything. Magical Healing (Spell, Potion...) will bring them back to consciousness and to the healed Hit Points. A First Aid check (page ) (DC 12) can be used to bring them conscious at 1 Hit Point.
-If left unconscious after an hour, if nothing has happened to change the situation, the character can make a Fortitude Saving Throw at DC 15; if successful, they return to 1 Hit Point; if failed, they go to -1 and become dying.
+If left unconscious after an hour, if nothing has happened to change the situation, the character can make a Fortitude Saving Throw at DC 15; if successful, they return to 1 Hit Point; if they fail, they go to -1 and become dying.
 
 A dying character has negative Hit Points (-1 or less) and is unconscious and helpless. They will continue to lose 1 Hit Point per round until the value reaches double their Constitution +10 and the character will die, if not healed.
 
@@ -315,7 +315,7 @@ If you hit, for every margin of 8 above the opponent' \*\*s Defense, the weapon 
 
 The basic rules of Skills also apply to the Attack Roll. Defense is a fixed value and as such uses the modifiers for fixed value checks.
 
->>> **Always togheter**: OBSS wants to be fun to play, wants players to have fun and see the results obtained from the dice (and obviously from their choices). The Golden Rules and Damage Explosion want to precisely remove the dust from the dice and make it fun. A player will appreciate, even more if experienced, how the dice rolls are not just a number but rather open the possibility to make a difference. Ask the player to describe the critical hit and have them act it out in their glory of power!
+>>> **Always together**: OBSS wants to be fun to play, wants players to have fun and see the results obtained from the dice (and obviously from their choices). The Golden Rules and Damage Explosion want to precisely remove the dust from the dice and make it fun. A player will appreciate, even more if experienced, how the dice rolls are not just a number but rather open the possibility to make a difference. Ask the player to describe the critical hit and have them act it out in their glory of power!
 
 ## Rolling 3 times 1
 
@@ -408,7 +408,7 @@ The severely wounded brigand tries to hit him, hoping that his difficulty in usi
 
 A double weapon is a weapon that is dangerous at both ends. It can be used as a single weapon, or, incurring the penalties of fighting with two weapons, as two weapons.
 
-Unless specified, a double weapon used for Two weapon Fighting is equivalent to using two medium weapons.
+Unless specified, a double weapon used for Two Weapon Fighting is equivalent to using two medium weapons.
 
 ## Versatile Weapons
 
@@ -416,7 +416,7 @@ Weapons with the Versatile trait can use Dexterity instead of Strength for Attac
 
 ## Light Weapons
 
-These weapons are light and suitable for Two weapon Fighting.
+These weapons are light and suitable for Two Weapon Fighting.
 
 ## Fighting with Two Weapons
 
@@ -477,7 +477,7 @@ When both creatures are caught by surprise, to determine who is actually surpris
 
 ## Magic in Combat
 
-A spellcaster who casts a spell while in combat (has an opponent in melee or is targeted from a distance) is considered Distracted.
+A spellcaster who casts a spell while in combat (has an opponent in melee or is targeted from a distance) is considered Distracted if they are severely distracted, impeded, disturbed, bleeding, grappled, trying to hide the casting of magic, or have been wounded in the same round.
 
 ## Modifiers in Attack or Defense
 

@@ -71,7 +71,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Ceramic carafe | 2 cp | L |
 | Ceramic mug | 2 cp | L |
 | Ceramic pitcher(5L) | 2 cp | L |
-| Chain (10 ft) | 30 gp | 1 |
+| Chain (3 m) | 30 gp | 1 |
 | Chalk (1 piece) | 1 cp | -- |
 | Cheese (1 piece) | 1 sp | -- |
 | Chest | 5 gp | 4 |
@@ -93,7 +93,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Fine wine (bottle) | 10 gp | 1 |
 | Firewood (per day) | 1 cp | 4 |
 | Fishhook | 1 sp | - |
-| Fishing net (7.5 ft) | 4 gp | 1 |
+| Fishing net (2 m) | 4 gp | 1 |
 | Fishing rod | 1 gp | 1 |
 | Galley | 30k gp | -- |
 | Glass bottle | 2 gp | L |
@@ -102,19 +102,19 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Healer' \*\*s kit | 20 gp | 1 |
 | Healing Potion | 50 gp | L |
 | Enhanced Healing Potion | 125 gp | L |
-| Hemp rope (50 ft) | 1 gp | 1 |
+| Hemp rope (15 m) | 1 gp | 1 |
 | Holly and mistletoe |  | - |
 | Holy water (vial) | 25 gp | L |
 | Hourglass | 25 gp | -- |
 | House wine (pitcher) | 2 sp | 1 |
 | Hunter' \*\*s lens | 100 gp | -- |
-| Ink (1 oz. vial) | 8 gp | -- |
+| Ink (30 g vial) | 8 gp | -- |
 | Ink vial or potion vial | 1 gp | L |
 | Inn, good (lodging) | 2 gp | -- |
 | Inn, modest (lodging) | 5 sp | -- |
 | Inn, poor (lodging) | 1 sp | -- |
 | Iron pot | 8 sp | 1 |
-| Ladder (10 ft) | 2 sp | 3 |
+| Ladder (3 m) | 2 sp | 3 |
 | Lamp oil | 1 sp | 1 |
 | Lantern | 1 gp | 2 |
 | Lantern, Bullseye | 12 gp | 1 |
@@ -143,7 +143,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Perfume | 5 gp | L |
 | Piton | 1 sp | L |
 | Plush toy | 2 sp | -- |
-| Pole (10 ft) | 5 cp | 2 |
+| Pole (3 m) | 5 cp | 2 |
 | Poison ring | +20 gp | - |
 | Portable ram | 10 gp | 3 |
 | Potent Acid (vial) | 30 gp | L |
@@ -170,14 +170,14 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 | Sled | 20 gp | 3 |
 | Sleeping bag | 3 gp | 2 |
 | Small metal mirror | 10 gp | L |
-| Soap (per 1 lb) | 5 sp | -- |
-| Spider silk rope (50 ft) | 10 gp | L |
+| Soap (per 0.5 kg) | 5 sp | -- |
+| Spider silk rope (15 m) | 10 gp | L |
 | Spyglass | 900 gp | 1 |
 | Stabling (per day) | 1 sp | -- |
 | Staff | 2 gp | 1 |
 | Tarpaulin | 5 sp | 1 |
 | Tent | 10 gp | 3 |
-| Thick hemp rope (50 ft) | 2 gp | 2 |
+| Thick hemp rope (15 m) | 2 gp | 2 |
 | Thieves' \*\* tools | 30 gp | 1 |
 | Tinderbox | 5 sp | L |
 | Torch | 1 sp | 1 |
@@ -240,7 +240,7 @@ Depending on the type of campaign, additional items such as firearms or alchemic
 
 **Rope**. A rope, usually 60 meters long, is made of hemp, has 2 Hit Points, and can be broken by succeeding on a Fortitude Saving Throw with Strength with DC 19. The thick version has 6 Hit Points, DC 22.
 
-**Spider Silk Rope** (50 ft): 10 gp, this spider silk rope has 8 Hit Points and can be broken with a Fortitude Saving Throw with Strength with DC 23.
+**Spider Silk Rope** (15 m): 10 gp, this spider silk rope has 8 Hit Points and can be broken with a Fortitude Saving Throw with Strength with DC 23.
 
 **Quiver**. 3 gp, a quiver can hold up to 12 arrows or bolts.
 
@@ -305,11 +305,11 @@ If the character chooses to purchase their starting equipment, they can purchase
 
 **Adventurer' \*\*s Kit (18 gp)**. Includes a backpack, a crowbar, a hammer, 10 pitons, 10 torches, a tinderbox, a bedroll, 10 days of rations, and a waterskin. The kit also includes 50 meters of hemp rope tied to the backpack.
 
-**Hunter' \*\*s Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 60ft, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
+**Hunter' \*\*s Kit (24 gp)**: contains a tinderbox, a belt pouch, a rope 18 m, a bedroll, a tarpaulin, a waterskin, an iron pot, trail rations (5 days), torches (10), and a backpack.
 
 **Diplomat' \*\*s Kit (57 gp)**. Includes a chest, 2 map or scroll cases, a fine outfit, an ink bottle, a quill, a lantern, 2 flasks of oil, 5 sheets of paper, a vial of perfume, sealing wax, and soap.
 
-**Devotee' \*\*s Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 60ft, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
+**Devotee' \*\*s Kit (30 gp)**: contains a tinderbox, a belt pouch, a Spell Component Pouch, candles (10), rope 18 m, a bedroll, an iron pot, a waterskin, trail rations (for 5 days), soap, a wooden holy symbol, an inexpensive sacred text, torches (10), and a backpack.
 
 **Dungeon Explorer' \*\*s Kit (24 gp)**: contains a set of basic tools for exploring ruins and abandoned cities including 2 candles, a crowbar, a piece of chalk, a hammer and 4 pitons, 60 meters of rope, a hooded lantern with 5 flasks of oil, 2 sacks, 2 torches, trail rations (for 3 days).
 

@@ -116,7 +116,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Bonus**:  Any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
-**Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, they must make a Magic Check.
+**Casting Spells while Distracted or after a Recent Wound**: when a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise distracted during the casting of a spell, they must make a Magic Check.
 
 **Check/Test**:  A check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
@@ -2538,7 +2538,7 @@ When both creatures are caught by surprise, to determine who is actually surpris
 
 ## Magic in Combat
 
-A spellcaster who casts a spell while in combat (has an opponent in melee or is targeted from a distance) is considered Distracted.
+A spellcaster who casts a spell while in combat (has an opponent in melee or is targeted from a distance) is considered Distracted if they are severely distracted, impeded, disturbed, bleeding, grappled, trying to hide the casting of magic, or have been wounded in the same round.
 
 ## Modifiers in Attack or Defense
 
@@ -6507,7 +6507,7 @@ If the modifier is 3, the maximum castable level will be 6th level or 7th level 
 
 ## Distracted - Problems in casting the spell
 
-If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, is under attack/threatened while trying to cast a spell, **that is not a Cantrip**, they must pass a **Magic Check**.
+If the spellcaster is **Distracted**, tries to hide the casting of magic, is impeded, severely disturbed, is bleeding, grappled, or has been wounded in the same round while trying to cast a spell, **that is not a Cantrip**, they must pass a **Magic Check**.
 
 ## Magic Check
 
@@ -36416,7 +36416,7 @@ Roll a die on the following table at the start of each round of the confused cre
 
 A confused creature that is unable to perform the indicated action will do nothing but babble incoherently. Attackers have no special advantage when attacking a confused creature. Any confused creature that is attacked automatically attacks its aggressor in return.
 
-**Distracted**: If the spellcaster is severely distracted, hindered, disturbed, bleeding, grappled, attempting to hide the casting of magic, or under attack while trying to cast a spell, they must make a Magic Check.
+**Distracted**: A spellcaster must make a Magic Check when severely distracted, hindered, disturbed, bleeding, or Grappled; attempting to hide the casting of magic; wounded in the same round; taking an Attack Action and casting a spell in the same round; taking a Dash Action; Deafened and casting a spell with at least verbal components; Restrained; Entangled and attempting to cast a spell; casting a spell during a free fall, while in water, or underwater; or casting a spell while flying and failing a Fly check with DC 11. Being in combat, under threat, or merely attacked does not make a spellcaster Distracted by itself.
 
 **Dominated**: If you share a common language, you can generally force the subject to perform commands within the limits of their abilities. If you do not share any language, you can only give basic commands like *come here*, *go there*, *fight*, or *stand still*. You are aware of what the subject is feeling but do not receive direct sensory perceptions from them, nor can you communicate with them telepathically.
 

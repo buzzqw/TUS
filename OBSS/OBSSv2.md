@@ -130,7 +130,7 @@ La Prova di Magia permette al personaggio di spingersi oltre nel lancio dell'inc
 
 A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
-**Lanciare Incantesimi sotto attacco, minaccia, distrazione..**: quando un incantatore vuole usare una Magia ma è disturbato, attaccato, ferito o comunque distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
+**Lanciare Incantesimi sotto distrazione o dopo una ferita recente**: quando un incantatore vuole usare una Magia ma è disturbato, è stato ferito nello stesso round o comunque distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
 
 **Classe di Difficoltà (DC)**: indica quanto è difficile riuscire in una prova. Può essere usato per le competenze (nuotare..) come le conoscenze (veleni..). Negli incantesimi è la difficoltà a resistere agli incantesimi. Indica a che valore arrivare per superare e riuscire nella prova.
 
@@ -2540,7 +2540,7 @@ Quando entrambe le creature sono colte di sorpresa per valutare chi effettivamen
 
 ## Magia in combattimento
 
-L'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia o viene bersagliato a distanza) si considera Distratto.
+L'incantatore che lancia una magia mentre è in combattimento (ha un avversario in mischia o viene bersagliato a distanza) si considera Distratto se è severamente distratto, impedito, disturbato, sanguinante, afferrato, cerca di nascondere il lancio della magia o è stato ferito nello stesso round.
 
 ## Modificatori in attacco o difesa 
 
@@ -6464,7 +6464,7 @@ Negli esempi sopra se il modificatore di caratteristica per incantesimi è 3 il 
 
 ## Distratto - Problemi nel lancio dell'incantesimo
 
-Se l'incantatore è **Distratto**, cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato, è sotto attacco/minacciato mentre cerca di lanciare un incantesimo, **che non sia un Trucchetto**, deve superare una **Prova di Magia**.
+Se l'incantatore è **Distratto** (vedi elenco completo cause a pag. ) ovvero cerca di nascondere il lancio della magia, è impedito, severamente disturbato, è sanguinante, afferrato oppure è stato ferito nello stesso round mentre cerca di lanciare un incantesimo, **che non sia un Trucchetto**, deve superare una **Prova di Magia**.
 
 ## Prova di Magia
 
@@ -36490,7 +36490,7 @@ Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura co
 
 Una creatura confusa che non è in grado di eseguire l'azione indicata non farà altro che balbettare in modo incoerente. Gli aggressori non hanno alcun vantaggio speciale quando attaccano una creatura confusa. Qualsiasi creatura confusa che venga attaccata, attacca automaticamente a sua volta il suo aggressore.
 
-**Distratto**: Se l'incantatore è severamente distratto, impedito, disturbato, sanguinante, afferrato, cerca di nascondere il lancio della magia, è sotto attacco mentre cerca di lanciare un incantesimo deve effettuare una Prova di Magia.
+**Distratto**: Un incantatore deve effettuare una Prova di Magia quando è severamente hyo, impedito, disturbato, sanguinante o Afferrato; cerca di nascondere il lancio della magia; è stato ferito nello stesso round; esegue un'Azione di Attacco e lancia un incantesimo nello stesso round; esegue un'Azione di Scatto; è Assordato e lancia un incantesimo con componenti almeno verbali; è Bloccato; è Intralciato e cerca di lanciare un incantesimo; lancia un incantesimo durante una caduta libera, mentre è in acqua o sott'acqua; oppure lancia un incantesimo mentre vola e fallisce una prova di Volare con DC 11. Essere in combattimento, sotto minaccia o attaccati, da soli, non rende Distratti.
 
 **Dominato**: Se si ha un linguaggio in comune, si può generalmente costringere il soggetto ad eseguire i comandi entro i limiti delle sue capacità. Se non si condivide nessun linguaggio, si possono impartire solo comandi di base come *vieni qui*, *vai lì*, *combatti* o *stai fermo*. Si è a conoscenza di ciò che il soggetto sta provando ma non si ricevono percezioni sensoriali dirette da lui, né si può comunicare con lui telepaticamente.
 

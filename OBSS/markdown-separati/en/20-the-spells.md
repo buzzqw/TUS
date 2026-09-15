@@ -1964,7 +1964,7 @@ The hound is invisible to all creatures except you and cannot be harmed. When a 
 
 The hound sees invisible creatures and can see into the Ethereal Plane. It ignores illusions. At the start of each of your turns, the hound attempts to bite one creature within 1 meter of it that is hostile to you.
 
-The hound' \*\*s attack bonus equals your spellcasting ability modifier + PM. If it hits, it deals 2d8 piercing damage, has PM*2 Hit Points, Defense 10+spellcasting modifier, Saving Throws equal to your spellcasting modifier.
+The hound' \*\*s attack bonus equals your spellcasting ability modifier + MP. If it hits, it deals 2d8 piercing damage, has MP*2 Hit Points, Defense 10+spellcasting modifier, and Saving Throws equal to your spellcasting ability modifier.
 
 ### False Life
 
@@ -2987,7 +2987,7 @@ When the area appears, each creature in it must make a Fortitude Saving Throw. A
 | **Range**: | Touch |
 | **Duration**: | Until dispelled |
 
-You touch an object weighing 5 pounds or less whose largest dimension is no more than 180 centimeters. The spell leaves a mark on the object' \*\*s surface and invisibly inscribes its name on the sapphire used as the material component. Each time you cast this spell, you must use a different sapphire.
+You touch an object weighing 2.3 kg or less whose largest dimension is no more than 180 centimeters. The spell leaves a mark on the object' \*\*s surface and invisibly inscribes its name on the sapphire used as the material component. Each time you cast this spell, you must use a different sapphire.
 
 At any time thereafter, you can use 2 Actions to speak the object' \*\*s name and crush the sapphire. The object instantly appears in your hand regardless of physical or planar distance separating you, and the spell ends.
 

@@ -106,8 +106,9 @@ this **bottle** of iron has a brass stopper. You can use two actions to speak th
 
 The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Game Master or determined randomly.
 
-| **d100** | **Contains** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Contains**} |
 | 1-50 | Empty |
 | 51-66 | Demon |
 | 67 | Angel Deva |
@@ -123,6 +124,8 @@ The *identify* spell reveals that a creature is inside the flask, but the only w
 | 96 | Angel Solar |
 | 97-99 | Succubus/Incubus |
 | 100 | Topi, La |
+
+\end{multicoltab}
 
 ### Amulet of Poison Resistance
 
@@ -190,7 +193,7 @@ while wearing this **amulet** you are hidden from divination magic. You cannot b
 
 **Requirements:** Create Magic Items 3, Plane Shift; **Rarity:** Very Rare
 
-while wearing this **amulet**, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the Plane Shift spell. On a failure, you and each creature and object within 15 feet of you travel to a random destination. Roll a d100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.
+while wearing this **amulet**, you can use an action to name a location that you are familiar with on another plane of existence. Then make a DC 15 Intelligence check. On a successful check, you cast the Plane Shift spell. On a failure, you and each creature and object within 5 m of you travel to a random destination. Roll a d100. On a 1-60, you travel to a random location on the plane you named. On a 61-100, you travel to a randomly determined plane of existence.
 
 ### Weapon Bane
 
@@ -200,23 +203,23 @@ while wearing this **amulet**, you can use an action to name a location that you
 
 A Bane **weapon** excels at attacking certain creatures. Against the chosen enemy, its effective bonus becomes +2. The weapon also automatically inflicts critical damage against such enemy. To randomly determine the weapon' \*\*s chosen enemy, use the following table:
 
-| d\% | Chosen enemy |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{d\% | Chosen enemy} |
 | 01-05 | Aberrations |
 | 06-09 | Beasts |
 | 10-16 | Constructs |
 | 17-22 | Dragons |
 | 23-27 | Fey |
 | 61-70 | Magical Creatures |
-
-| d\% | Chosen enemy |
-|---|---|
 | 28-60 | Humanoids (choose subtype) |
 | 71-72 | Oozes |
 | 73-88 | Fiends |
 | 89-90 | Plants |
 | 91-98 | Undead |
 | 99-100 | Insects |
+
+\end{multicoltab}
 
 ### Ring of Spell Storing
 
@@ -245,20 +248,20 @@ The Weapon Ring' \*\*s ability recharges at dawn. The weapon ring does not count
 
 A Greater Weapon **ring** can only be applied to melee weapons and has only one power. When found, it is necessary to roll on the table below to determine the type of feat that the ring confers. The weapon ring does not count against the limits for wearing rings. A weapon can' \*\*t hold more Weapon Ring than its magical bonus.
 
-| **1d100** | **Feat** | **1d100** | **Feat** |
-|---|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**1d100** | **Feat** | **1d100** | **Feat**} |
 | 1-6 | Cursed -2 | 55-60 | Shocking |
 | 7-12 | Courageous | 61-66 | Frost |
 | 13-18 | Of Pain | 67-72 | Flaming |
 | 19-24 | Vicious | 73-78 | Marine |
-
-| **1d100** | **Feat** | **1d100** | **Feat** |
-|---|---|---|---|
 | 25-30 | +3 | 79-84 | Shapeshifting |
 | 31-36 | Cursed -1 | 85-90 | +2 |
 | 37-42 | Titanic Weapon | 91-96 | Thundering |
 | 43-48 | Chaos | 97-100 | Transforming |
 | 49-54 | Corrosive |  | |
+
+\end{multicoltab}
 
 When inserted into the hilt of the **weapon**, the character can twice per day use 1 Action and add the rolled feat to the weapon for 10 rounds. If the weapon is not at least magical +1, it becomes magical +1. The ability of the Greater Weapon Ring recharges at dawn.
 
@@ -487,8 +490,9 @@ various cost, various rarity, while wearing this **ring**, you have a bonus of +
 
 while wearing this **ring**, you have resistance to one type of damage. The gem set in the ring indicates the type of damage, which is chosen or randomly determined by the Game Master.
 
-| **d10** | **Damage Type** | **Gem** |
-|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d10** | **Damage Type** | **Gem**} |
 | 1 | Acid | Pearl |
 | 2 | Force | Sapphire |
 | 3 | Cold | Tourmaline |
@@ -499,6 +503,8 @@ while wearing this **ring**, you have resistance to one type of damage. The gem 
 | 8 | Light | Topaz |
 | 9 | Sound | Spinel |
 | 10 | Negative Energy | Slate |
+
+\end{multicoltab}
 
 ### Ring of Regeneration
 
@@ -733,8 +739,9 @@ This wand has 7 charges. The wand recovers 1 charge every day at dawn.
 
 Each time you use the wand of wonder, roll a d100 and consult this table.
 
-| **d100** | **Contents** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Contents**} |
 | 01-05 | You cast the Slow spell. |
 | 06-10 | You cast the Light spell. |
 | 11-15 | You are stunned until the beginning of your next round, and believe that something amazing has happened. |
@@ -749,7 +756,6 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 50-53 | You enlarge the target as if you had cast the enlarge/reduce spell. If the target cannot be subject to the spell, or if it is not a creature, you become the target. |
 | 54-58 | You cast the darkness spell. |
 | 59-62 | Thick grass sprouts in a radius of 18 meters around the target. If there is already grass, it grows ten times as tall and remains so for 1 minute. |
-
 | 63-65 | An object chosen by the Game Master disappears into the Ethereal Plane. The object must not be worn or carried, must be within 36 meters of the target, and no larger than 3 meters in any dimension. |
 | 66-69 | You shrink as if you had cast the enlarge/reduce spell on yourself. |
 | 70-79 | You cast the Fireball spell. |
@@ -759,6 +765,8 @@ Each time you use the wand of wonder, roll a d100 and consult this table.
 | 91-95 | A burst of sparkling, colored lights extends from you in a 9-meter radius. You and all creatures in the area must succeed on a Fortitude Saving Throw with DC 15 or be blinded for 1 minute. A creature can repeat the Saving Throw at the end of each of its rounds, ending the effect on itself if it succeeds. |
 | 96-97 | The target' \*\*s skin turns bright blue for 1d10 days. If you chose a point in space, the subject will be the creature closest to that point. |
 | 98-00 | If the target is a creature, it must make a Fortitude Saving Throw with DC 18. If the target is not a creature, the target becomes you and you will make the Saving Throw. If the Saving Throw fails by 5 or more, the target is petrified. If the Saving Throw fails by less, the target is hindered and begins to turn to stone. While hindered in this way, the target must repeat the Saving Throw at the end of each of its rounds, becoming petrified on a failure or ending the effect on a success. The target remains petrified until it is freed by the stone to flesh spell or similar magic. |
+
+\end{multicoltab}
 
 ### Wand of Fireballs
 
@@ -890,11 +898,14 @@ You have a 50\% chance of instantly traveling to a random plane of existence, av
 
 If the Saving Throw succeeds, the creature takes half this damage.
 
-| **Distance from origin** | **Damage** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**Distance from origin** | **Damage**} |
 | 3 meters or less | 8 × charges in staff |
 | Up to 6 meters | 6 × charges in staff |
 | Up to 9 meters | 4 × charges in staff |
+
+\end{multicoltab}
 
 Note: The Staff of the Archmage and Power are similar, because they were prepared by two bitter enemies who wanted to create the most powerful Staff.
 
@@ -1016,8 +1027,9 @@ If you dump the bag' \*\*s contents on the ground, the beans explode in a 3-mete
 
 The fire ignites flammable objects in the area that aren' \*\*t being worn or carried. If you remove a bean from the bag, plant it in soil or sand, and then water it, the bean produces an effect 1 minute later from the ground where it was planted. The Game Master chooses the effect or determines it randomly.
 
-| **d100** | **Effect** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Effect**} |
 | 01 | 5d4 mushrooms sprout. If a creature eats a mushroom, roll any die. On an odd result, make a Fortitude Saving Throw with DC 18 or take 5d6 poison damage and be poisoned for 1 hour. On an even result, the creature gains 5d6 temporary Hit Points for 1 hour. |
 | 02-10 | A geyser erupts and spouts water, beer, fruit juice, tea, vinegar, wine, or oil (Game Master' \*\*s choice) 9 meters into the air for 1d12 rounds. |
 | 11-20 | A treant sprouts. There' \*\*s a 50\% chance that the treant is evil and attacks you. |
@@ -1028,9 +1040,10 @@ The fire ignites flammable objects in the area that aren' \*\*t being worn or ca
 | 61-70 | A bulette bursts out of the ground and attacks. |
 | 71-80 | A fruit tree grows. It has 1d10+20 fruits, each fruit has a chance (50/50) of working as an enhanced poison or as a random natural potion. The tree vanishes after 1 hour. The harvested fruits remain and maintain their magic for 30 days. |
 | 81-90 | A nest with 1d4+3 eggs appears. Any creature that eats an egg must make a Fortitude Saving Throw with DC 28. If it succeeds, it permanently increases its lowest ability score by 1, choosing randomly if there is a tie; if it fails, it takes 10d6 force damage. |
-
 | 91-99 | A pyramid with a square base of 18 meters sprouts from the ground. Inside is a sarcophagus containing a mummy lord. Its sarcophagus contains treasure of the Game Master' \*\*s choice. |
 | 100 | A giant beanstalk grows on the spot, rising to a height of the Game Master' \*\*s choice. The top leads wherever the Game Master wishes, be it to a cloud giant' \*\*s castle or another plane of existence. |
+
+\end{multicoltab}
 
 ### Bag of Negation
 
@@ -1052,17 +1065,16 @@ Another creature can use two actions to reach into the bag and pull out the crea
 
 this painted brass **bottle** weighs 500 grams. When you use two actions to remove the stopper, a cloud of thick smoke flows out of the bottle. At the end of your round, the smoke dissipates in a flash of harmless fire, and an efreeti appears in an unoccupied space within 9 meters of you. The first time the bottle is opened, the Game Master randomly determines what happens.
 
-| **3d6** | **Effect** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**3d6** | **Effect**} |
 | --- | --- |
 | 3-5 | The efreeti attacks you. After fighting for 5 rounds, the efreeti disappears and the bottle loses its magic. |
 | 6-16 | The efreeti serves you for 1 hour, doing as you command. Then it returns to the bottle and a new stopper appears and seals it. |
-
-| **3d6** | **Effect** |
-|---|---|
-| --- | --- |
 | The stopper cannot be removed for 24 hours. The next two times the bottle is opened, the same effect appears. If the bottle is opened a fourth time, the efreeti escapes and disappears, and the bottle loses its magic. |
 | 17-18 | The efreeti can cast the wish spell on your behalf three times. It disappears when it grants the final wish or after 1 hour, at which point the bottle loses its magic. |
+
+\end{multicoltab}
 
 ### Eversmoking Bottle
 
@@ -1124,7 +1136,7 @@ This armor must be cleaned at least once a day or it loses its powers for a week
 
 **Rarity:** Uncommon; **Cost:** 12000 gp
 
-12000 gp, this sealed **vial** makes a sloshing sound like water when moved. The vial weighs 1 pound, encumbrance 2. You can use two actions to remove the stopper and speak one of three command words, at which point an amount of fresh or salt water (your choice) pours out of the vial until the beginning of your next round. Choose one of the following options:
+12000 gp, this sealed **vial** makes a sloshing sound like water when moved. The vial weighs 0.5 kg, encumbrance 2. You can use two actions to remove the stopper and speak one of three command words, at which point an amount of fresh or salt water (your choice) pours out of the vial until the beginning of your next round. Choose one of the following options:
 
 - *Stream* produces 4 liters of water.
 - *Fountain* produces 20 liters of water.
@@ -1142,7 +1154,7 @@ this blue ceramic **jug** has a solid gold stopper. The jug contains 1d4+1 magic
 
 **Rarity:** Rare; **Cost:** 15000 gp
 
-this ornate crystal **decanter** weighs 2 pounds and appears to contain swirling colored liquids. Once per day at dawn, the decanter produces one random healing potion. You can use two actions to open the stopper and pour out the potion. Roll 1d6 to determine the potion type: 1-3 produces a Healing Potion (2d4+2 HP), 4-5 produces a Greater Healing Potion (4d4+4 HP), 6 produces a Superior Healing Potion (8d4+8 HP). The potion must be consumed or stored within 24 hours or it evaporates. The decanter can only hold one potion at a time.
+this ornate crystal **decanter** weighs 1 kg and appears to contain swirling colored liquids. Once per day at dawn, the decanter produces one random healing potion. You can use two actions to open the stopper and pour out the potion. Roll 1d6 to determine the potion type: 1-3 produces a Healing Potion (2d4+2 HP), 4-5 produces a Greater Healing Potion (4d4+4 HP), 6 produces a Superior Healing Potion (8d4+8 HP). The potion must be consumed or stored within 24 hours or it evaporates. The decanter can only hold one potion at a time.
 
 ### Candle of Invocation
 
@@ -1192,15 +1204,17 @@ while wearing this **circlet**, you can use two actions, bringing two fingers to
 
 There are four variants of this belt, each corresponding to a kind of true giant. The stone giant belt and the frost giant belt appear different but have the same effect.
 
-	
+\begin{multicoltab}
 
-| **Giant Type** | **Strength** | **Rarity** |
+| \mchead[][]{**Giant Type** | **Strength** | **Rarity**} |
 | --- | --- | --- |
 | **Hill** | 5 | Rare |
 | **Stone/Frost** | 6 | Very rare |
 | **Fire** | 7 | Very rare |
 | **Cloud** | 8 | Legendary |
 | **Storm** | 9 | Legendary |
+
+\end{multicoltab}
 
 ### Belt of Dwarvenkind
 
@@ -1222,7 +1236,7 @@ If you aren' \*\*t a dwarf, you gain the following additional benefits while wea
 
 **Rarity:** Uncommon; **Cost:** 400 gp
 
-this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 1d6 + 1 ounces. One ounce of the glue can cover a 1-meter square surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
+this milky-white, viscous **substance** can form a permanent adhesive bond between any two objects. It must be stored in a jar or flask that has been coated inside with oil of slipperiness. When found, it contains 30--210 grams. Thirty grams of the glue can cover a 1-square-meter surface. The glue takes 1 minute to set. Once it has done so, the bond it creates can be broken only by the universal solvent or oil of etherealness, or with a wish spell.
 
 ### Necklace of Prayer Beads
 
@@ -1234,14 +1248,17 @@ this **necklace** has 1d4 + 2 magic beads made of aquamarine, black pearl, or to
 
 There are six types of magic beads. The Game Master decides the type of each bead on the necklace. A necklace can have more than one bead of the same type. To use one, you must be wearing the necklace. Each bead contains a spell that you can cast with two actions, with a Spell DC of 12 + 2x Level if a Saving Throw is required. Once a magic bead' \*\*s spell is cast, that bead can' \*\*t be used again until the next dawn.
 
-| **3d6** | **Bead of...** | **Spell** |
-|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**3d6** | **Bead of...** | **Spell**} |
 | 3-5 | Blessing | Bless |
 | 6-11 | Curing | Cure wounds 5 or Lesser restoration |
 | 12-14 | Divine Favor | Greater restoration |
 | 15-16 | Smiting | Branding smite |
 | 17 | Wind Walking | Wind walk |
 | 18 | Summons | Blade barrier |
+
+\end{multicoltab}
 
 ### Necklace of Adaptation
 
@@ -1285,7 +1302,7 @@ This special ability can only be added to a melee **weapon**. A Brave weapon for
 
 **Rarity:** Uncommon; **Cost:** 2000 gp
 
-this 18-meter-long silk **rope** weighs 1.5 pounds, encumbrance 1, and can hold up to 1,500 pounds. If you hold one end of the rope and use two actions to speak the command word, the rope animates. With two actions, you can command the other end to move toward a destination you choose. That end moves 3 meters during your round when it receives your first command, and 3 meters during each round thereafter until it reaches its destination, up to its maximum length, or until you tell it to stop. You can also tell the rope to knot or unknot itself, to fasten itself to an object, or to unfasten itself, or to coil itself for carrying. If you tell the rope to knot, large knots appear at 30-centimeter intervals along the rope. While knotted, the rope shortens to a 15-meter length and grants +1d6 to checks made to climb it.
+this 18-meter-long silk **rope** weighs 0.7 kg, encumbrance 1, and can hold up to 680 kg. If you hold one end of the rope and use two actions to speak the command word, the rope animates. With two actions, you can command the other end to move toward a destination you choose. That end moves 3 meters during your round when it receives your first command, and 3 meters during each round thereafter until it reaches its destination, up to its maximum length, or until you tell it to stop. You can also tell the rope to knot or unknot itself, to fasten itself to an object, or to unfasten itself, or to coil itself for carrying. If you tell the rope to knot, large knots appear at 30-centimeter intervals along the rope. While knotted, the rope shortens to a 15-meter length and grants +1d6 to checks made to climb it.
 
 The rope has Defense 20, Hardness 3, and 20 Hit Points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 Hit Points, it is destroyed.
 
@@ -1293,7 +1310,7 @@ The rope has Defense 20, Hardness 3, and 20 Hit Points. It regains 1 hit point e
 
 **Rarity:** Rare; **Cost:** 4000 gp
 
-this **rope** is 9 meters long and weighs 1.5 pounds, encumbrance 1. If you hold one end of the rope and use two actions to speak its command word, the other end darts forward to entangle a visible creature within 6 meters of you. The target must succeed on a Reflex Saving Throw with DC 18 or become restrained. You can release the creature by using two actions to speak a second command word. A restrained target can use two actions to make an opposed Strength check DC 25 or Escape Artist DC 18 (target' \*\*s choice). On a success, the creature is no longer restrained by the rope.
+this **rope** is 9 meters long and weighs 0.7 kg, encumbrance 1. If you hold one end of the rope and use two actions to speak its command word, the other end darts forward to entangle a visible creature within 6 meters of you. The target must succeed on a Reflex Saving Throw with DC 18 or become restrained. You can release the creature by using two actions to speak a second command word. A restrained target can use two actions to make an opposed Strength check DC 25 or Escape Artist DC 18 (target' \*\*s choice). On a success, the creature is no longer restrained by the rope.
 
 The rope has Defense 20 and 20 Hit Points. It regains 1 hit point every 5 minutes as long as it has at least 1 hit point. If the rope drops to 0 Hit Points, it is destroyed.
 
@@ -1337,7 +1354,9 @@ If your movement causes the barrier to come into contact with a solid object tha
 
 The cube loses charges when the barrier is targeted by certain spells or comes into contact with certain spell or magic item effects, as shown in the table below.
 
-| **Spell or Item** | **Charges Lost** |
+\begin{multicoltab}
+
+| \mchead[][]{**Spell or Item** | **Charges Lost**} |
 | --- | --- |
 | Arcane dart (3 shots) | 1 |
 | Disintegrate | 1d12 |
@@ -1345,16 +1364,21 @@ The cube loses charges when the barrier is targeted by certain spells or comes i
 | Passwall | 1d6 |
 | Prismatic spray | 3d6 |
 
+\end{multicoltab}
+
 Below are the properties of each activatable face and its related charge cost.
 
-| **Face** | **Cost** | **Effect** |
-|---|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**Face** | **Cost** | **Effect**} |
 | 1 | 1 | Gases, wind, and fog cannot pass through the barrier |
 | 2 | 2 | Nonliving matter cannot pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 3 | 3 | Living matter cannot pass through the barrier. |
 | 4 | 4 | Spell effects cannot pass through the barrier. |
 | 5 | 5 | Nothing can pass through the barrier. Walls, floors, and ceilings can pass through at your discretion. |
 | 6 | 0 | The barrier deactivates. |
+
+\end{multicoltab}
 
 Each activation lasts one minute.
 
@@ -1368,7 +1392,7 @@ this cubic **pendant** is activated and deactivated by pressing one face (Immedi
 
 **Rarity:** Uncommon; **Cost:** 4500 gp
 
-this brass **cylinder** weighs 10 pounds and is covered with arcane runes. With two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
+this brass **cylinder** weighs 4.5 kg and is covered with arcane runes. With two actions, you can point the cylinder at a fire within 9 meters and speak the command word to release a cone of magical frost 9 meters long. All nonmagical fires in the area are immediately extinguished. Magical fires (including fire elementals and creatures made of fire) take 3d6 cold damage (Reflex DC 13 halves). The cylinder has 10 charges and regains 1d6+4 charges each day at dawn. Each activation consumes 1 charge.
 
 ### Dancing
 
@@ -1518,7 +1542,7 @@ The sword' \*\*s luminous blade emits bright light in a 3-meter radius and dim l
 
 **Rarity:** Rare; **Cost:** 2500 gp
 
-each of the **quiver**' \*\*s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 1 pound.
+each of the **quiver**' \*\*s three compartments connects to an extradimensional space that allows the quiver to hold numerous items while never weighing more than 0.5 kg.
 
 The shortest compartment can hold up to 60 arrows, bolts, or similar objects. The midsize compartment holds up to 18 javelins or similar objects. The longest compartment holds up to 6 long objects, such as bows, quarterstaffs, or spears. You can draw any item the quiver contains as if you were drawing it from a regular quiver or scabbard.
 
@@ -1657,14 +1681,16 @@ with two actions, you can speak the command word of the **gem** and spend 1 char
 
 this **gem** contains a spark of elemental energy. When you use two actions to break the gem, it summons an elemental as if you had cast the Conjure Elemental spell, and the gem' \*\*s magic disappears. The type of gem determines the elemental summoned by the spell.
 
-	
+\begin{multicoltab}
 
-| **Gem** | **Summoned elemental** |
+| \mchead[][]{**Gem** | **Summoned elemental**} |
 | --- | --- |
 | Red corundum | Fire elemental |
 | Yellow diamond | Earth elemental |
 | Emerald | Water elemental |
 | Blue sapphire | Air elemental |
+
+\end{multicoltab}
 
 ### Monster Attracting Jewel
 
@@ -1846,14 +1872,15 @@ To create a golem, you must spend the time indicated above, working without inte
 
 Once you finish creating the golem, the book is consumed by arcane flames. The golem becomes animated when the ashes of the manual are sprinkled on it. It is under your control and understands and obeys the orders you speak to it.
 
-	
+\begin{multicoltab}
 
-| 3d6 | Golem | Time | Cost |
-|---|---|---|---|
+| \mchead[][]{3d6 | Golem | Time | Cost} |
 | 3-4 | Clay | 30 days | 65000 gp |
 | 5-16 | Flesh | 60 days | 50000 gp |
 | 17 | Iron | 120 days | 100000 gp |
 | 18 | Stone | 90 days | 80000 gp |
+
+\end{multicoltab}
 
 ### Manual of Physical Exercise
 
@@ -1902,7 +1929,9 @@ The deck' \*\*s magic works only if the cards are drawn at random (you can use a
 The illusion of one or more creatures forms over the thrown card and remains until dispelled. The illusory creature appears real, of the appropriate size, and behaves like a real creature except that it can' \*\*t deal damage. As long as you are within 36 meters of the illusory creature and can see it, you can use two actions to move it magically anywhere within 9 meters of the card. Any physical interaction with the illusory creature reveals it as an illusion, since objects pass through it. Someone who uses two actions to visually inspect the creature identifies it as illusory by succeeding on a Will Saving Throw with Intelligence with DC 17. The creature will then appear transparent to them.
 The illusion remains until the card is moved or the illusion is dispelled. When the illusion ends, the image on the card disappears, and that card can' \*\*t be used again.
 
-| **Playing Card** | **Illusion** |
+\begin{multicoltab}
+
+| \mchead[][]{**Playing Card** | **Illusion**} |
 | --- | --- |
 | Ace of hearts | Red dragon |
 | King of hearts | Knight and four guards |
@@ -1927,9 +1956,6 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 | Ten of diamonds | Fire giant |
 | Nine of diamonds | Oni |
 | Eight of diamonds | Gnoll |
-
-| **Playing Card** | **Illusion** |
-| --- | --- |
 | Two of diamonds | Kobold |
 | Ace of clubs | Iron golem |
 | King of clubs | Bandit captain and three bandits |
@@ -1941,6 +1967,8 @@ The illusion remains until the card is moved or the illusion is dispelled. When 
 | Two of clubs | Kobold |
 | Joker (2) | You (the owner of the deck) |
 
+\end{multicoltab}
+
 ### Deck of Many Things
 
 **Rarity:** Legendary; **Cost:** 100000 gp
@@ -1951,10 +1979,8 @@ Before drawing a card, you must declare how many cards you intend to draw and th
 
 You must draw each card within 1 hour of the previous draw. If you don' \*\*t draw the chosen number of cards, the remaining cards will fly out of the deck by themselves and take effect simultaneously. Once drawn, a card disappears from existence. Unless the card is the Fool or the Jester, the card reappears in the deck, making it possible to draw the same card twice.
 
-
-| {>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth}>{\raggedright}p{0.15\textwidth}|>{\raggedright}p{0.1\textwidth |
-		
-| **Playing Card** | **Card** | **Playing Card** | **Card** |
+| \begin{multicoltab}{@{}p{.28\linewidth}|p{.14\linewidth}p{.28\linewidth}|p{.14\linewidth}@ |
+| \mchead[][]{**Playing Card** | **Card** | **Playing Card** | **Card**} |
 | --- | --- | --- | --- |
 | Ace of diamonds | Vizier* | Ace of hearts | Fates* |
 | King of diamonds | Sun | King of hearts | Throne |
@@ -1968,6 +1994,7 @@ You must draw each card within 1 hour of the previous draw. If you don' \*\*t dr
 | Two of clubs | Idiot | Joker | Fool* |
 | Joker | Jester |  | |
 
+\end{multicoltab}
 
 * Found only in a deck of 22 **cards**
 
@@ -2873,15 +2900,17 @@ you can speak the **carpet' \*\*s** command word as two actions to make the carp
 
 There are four sizes of flying carpet. The Game Master chooses the carpet' \*\*s size or determines it randomly.
 
-	
+\begin{multicoltab}
 
-| **d100** | **Size** | **Capacity** | **Flying** |
+| \mchead[][]{**d100** | **Size** | **Capacity** | **Flying** |
 | --- | --- | --- | --- |
-| **(cm)** | **(Enc.)** | **Speed** |
+| **(cm)** | **(Enc.)** | **Speed**} |
 | 01--20 | 90 × 150 | 100 kg / 25 | 23 m |
 | 21--55 | 120 × 180 | 200 kg / 50 | 18 m |
 | 56--80 | 150 × 210 | 300 kg / 75 | 12 m |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 m |
+
+\end{multicoltab}
 
 The Capacity value indicates both the weight carried and the Encumbrance. The carpet can carry up to double the load indicated in the table, but flies at half speed if it carries more.
 
@@ -2981,8 +3010,9 @@ In addition, the robe has 4d4 other patches. The Game Master chooses the patches
 
 Roll a d100 on the following table to discover the properties of the other 4d4 patches on the robe of useful items.
 
-| **d100** | **Effect** |
-|---|---|
+\begin{multicoltab}
+
+| \mchead[][]{**d100** | **Effect**} |
 | 01-08 | Bag with 100 gp. |
 | 09-15 | Silver chest (30 cm long, 15 cm wide and deep) worth 500 gp. |
 | 16-22 | Iron door (up to 3 meters wide and high, barred on the side of your choice), which you can place on any opening within reach; it fits into the opening, attaching and creating hinges. |
@@ -2992,13 +3022,12 @@ Roll a d100 on the following table to discover the properties of the other 4d4 p
 | 52-59 | Pit (a 3-meter cube), which you can place on the ground within 3 meters of you. |
 | 60-68 | 4 potions of healing. |
 | 69-75 | Rowboat (4 meters long). |
-
-| **d100** | **Effect** |
-|---|---|
 | 76-83 | Spell scroll containing a spell of 1st to 3rd level. |
 | 84-90 | Two mastiffs. |
 | 91-96 | Window (60 x 120 cm, up to 60 cm deep), which you can place on any vertical surface within reach. |
 | 97-100 | Portable ram. |
+
+\end{multicoltab}
 
 ### Robe of Scintillating Colors
 

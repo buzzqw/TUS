@@ -8,21 +8,21 @@ Est Sularus Oth Mithas. ("My honor is my life", Oath of the Knights of Solamnia)
 
 In OBSS there is no clear distinction between good and evil, law and chaos, between what is right and what is wrong.
 
-In OBSS there are Traits, aspects and character nuances that **contribute** to the character' \*\*s background, help the player to roleplay better, and can provide those guidelines to interpret the character they wanted to create more correctly.
+In OBSS there are Traits, aspects, and character nuances that **contribute** to the character' \*\*s background, help the player roleplay better, and provide guidelines for interpreting the character they want to create.
 
-A Trait is a detail that helps to better frame the character, outlines the main characteristics giving it different nuances.
+A Trait is a detail that helps frame the character, outlines their main characteristics, and gives them different nuances.
 
 **Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices.
 
->> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their character, morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
 
-Traits have no positive or negative connotation, they only serve to frame the character and understand which Patron is more interested in the character. They don' \*\*t want to define whether you are good or bad, everyone has their own morals regardless of the Traits possessed.
+Traits have no positive or negative connotation; they only serve to frame the character and show which Patron is more interested in the character. They are not meant to define whether you are good or bad; everyone has their own morals regardless of the Traits they possess.
 
-**At the first level, choose a Trait that is more characteristic for the character, this will have value 1, the other 4 Traits will have value 0.**
+**At the first level, choose the Trait that is most characteristic of your character; it has a value of 1, while the other 4 Traits have a value of 0.**
 
-With the passing of time and adventures, Traits will increase in value or may be replaced, in concert between Game Master and player based on how it' \*\*s played, by other Traits. **The higher a Trait value, the more present and permeating it is in the character' \*\*s choices**.
+As time passes and the character has new adventures, Traits increase in value or may be replaced by other Traits, as agreed upon by the Game Master and player based on how the character is played. **The higher a Trait value, the more present and pervasive it is in the character' \*\*s choices**.
 
-During the adventures, the Game Master, following particular scenes and recitation, may increase by one point, or a fraction of a point, a character' \*\*s Trait.
+During adventures, the Game Master may increase a character' \*\*s Trait by one point or a fraction of a point after particular scenes or roleplaying moments.
 
 For example, following a particular situation and adventure climax, the Game Master might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
 

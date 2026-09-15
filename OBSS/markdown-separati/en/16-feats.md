@@ -497,7 +497,7 @@ This Feat can only be used once per round, for a single attack, and costs the Re
 ## Double Portion
 
 
-| **Requirement**: | Two weapon Fighting, Weapon Proficiency 4 |
+| **Requirement**: | Two Weapon Fighting, Weapon Proficiency 4 |
 | --- | --- |
 | **Sav. Throws**: | +2 Fortitude, +1 Reflex |
 | **Ability Score**: | Strength or Constitution |
@@ -2017,7 +2017,7 @@ A Devotee of Sixiser, instead of turning and destroying, can dominate the undead
 
 A Devotee of Thaft gets +1d6 to Divine Power.
 
-## Two weapon Fighting
+## Two Weapon Fighting
 
 
 | **Requirement**: | Dexterity 2, Strength 1, Weapon Proficiency 2 |
@@ -2143,9 +2143,9 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **{Weapon Proficiency**} |
 | --- |
 | **WP 1:** Focused Weapon, Mighty Blows, Quick Draw, Ferocity, Dancing Scourge (Spinning Balls list), Fury, Improvise, My Skin, My Death Your Death (Strength 1), My Head is Harder, Truly Evil Person, The Bigger They Are The Harder They Fall, First Blood, Press On, This is my Weapon!, This is my Dagger, Retaliation (Follower), Second Skin, Precise Shot (Dexterity 3), Hit and Run (Dexterity 1), Archer on sauromount, Armed (Strength 3), Bloodhound (Intelligence 1, Wisdom 1), Tactician (Intelligence 1) |
-| **WP 2:** Reach, Weapon Artist, Two weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
+| **WP 2:** Reach, Weapon Artist, Two Weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
 | **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
-| **WP 4:** Double Portion (Two weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
+| **WP 4:** Double Portion (Two Weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
 | **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2) |
 | **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Second Skin (2), Tactician (2, Intelligence 2) |
 | **WP 7:** Ferocity (3), One with the Bow (2, Dexterity 3) |
@@ -2153,11 +2153,11 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **WP 9:** Parry (3), Weapon Artist (2), One Arm One Weapon (2) |
 | **WP 10:** Sneak Attack (3), Bloodhound (2, Wisdom 2) |
 | **WP 11:** Ferocity (4), Second Skin (3) |
-| **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
+| **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two Weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
 | **WP 13:** Weapon Artist (3), One Arm One Weapon (3) |
 | **WP 15:** Whirlwind Attack (2, Entertain 5) |
 | **WP 16:** Bloodhound (3, Wisdom 3), Tough Hide (4) |
-| **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two weapon Fighting (3) |
+| **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two Weapon Fighting (3) |
 | **{Magic Proficiency**} |
 | **MP 1:** Magic Adept (repeatable MP/2), Pet/Familiar, Scribe, Decipher Magical Writings, Brew Potions, Combat Caster, Eyes of Magic, Magical Roots, Scholar (creation only), Extended Battery (Magic Adept), One Hit One Kill (Magic Adept), One with Magic (Magic Adept), Faithful (Devotee, Traits 2+, repeatable Traits/3), Laying on Hands (Devotee/Follower, Traits 3+), The Patron is with me (Devotee, Traits 2+), The Patron is my Weapon (Followers, Traits 1+), Turn Undead (Devotee/Follower, Traits 2+), Power of the Patron (Devotee, Traits 1+), Only Child (Constitution 0), Channel Energy (Laying on Hands, Traits 4+) |
 | **MP 2:** Focused (repeatable MP/4), One Belief, Animalia (1) - Beasts (Follower/Devotee Efrem/Shayalia), Pure Blood (Animalia, Devotee Efrem/Shayalia) |

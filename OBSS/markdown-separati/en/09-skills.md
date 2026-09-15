@@ -75,7 +75,7 @@ The character acquires a Skill at score 1 for each point of Intelligence greater
 
 The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuild as a hobby, it could also be Strength.
 
->> **Profession ???**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
+>> **Profession**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
 
 **Table: List of Skills and Related Ability Score for Use**
 

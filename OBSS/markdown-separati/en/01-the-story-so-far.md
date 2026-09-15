@@ -67,7 +67,7 @@ But before beginning your adventures, you must participate in Session Zero, a cr
 
 In OBSS, your imagination is the only limit. Don' \*\*t be afraid to experiment, to test your ideas, and to build characters that are unique and unforgettable. You are free to shape your destiny and leave your mark in this world, one dice roll at a time.
 
-Actions are measured in terms of Actions, and success is based on dice rolls, your proficiency, Feats, and your tactical choices.
+Character activities are measured in Actions, and success is based on dice rolls, proficiency, Feats, and tactical choices.
 
 Remember: checks can be avoided with intelligence and strategy. Exploration, the ability to solve puzzles, and imagination are crucial components of this game. Don' \*\*t always look for the solution on the character sheet, use your ingenuity!
 
@@ -86,23 +86,23 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll from the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
 
-**Ability scores**:   also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the value or ability of the character in that specific area.
+**Ability scores**:   Also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the character' \*\*s ability in that specific area.
 
 	**Action**:  An Action represents what a character does in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... In each round, you can take 3 Actions. An Action lasts about 3 seconds.
 
-**Attack Roll (AR)**:  is an Attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by weapon list...) against Defense (armor + shield + Feats + magic...). The Attack Roll can be melee (that is, for creatures close to your weapon, at melee distance) or ranged (for bows, crossbows, but also thrown daggers...). Read the combat chapter carefully.
+**Attack Roll (AR)**:  is an attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by the weapon list...) against Defense (armor + shield + Feats + magic...). An Attack Roll can be melee (for creatures close to your weapon) or ranged (for bows, crossbows, and thrown daggers...). Read the combat chapter carefully.
 
-**Bonus**:  any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
+**Bonus**:  Any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
-**Casting Spells under attack, threat, distraction...**: when a spellcaster wants to use Magic but is disturbed, attacked, wounded, or otherwise distracted during the casting of a spell, they must make a Magic Check.
+**Casting Spells while Distracted or after a Recent Wound**: when a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise distracted during the casting of a spell, they must make a Magic Check.
 
-**Check/Test**:  a check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
+**Check/Test**:  A check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
 **Class**: In OBSS there are no classes. Each character is built based on what they can do; you won' \*\*t find the word Class in the manual. Each character is unique and defined by their choices.
 
-**Critical Success/Critical Failure in Magic test** : if the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
+**Critical Success/Critical Failure in Magic test** : If the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
 
-**Damage Reduction (DR)**:   some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. Damage is reduced after all resistances and Saving Throws.
+**Damage Reduction (DR)**:   Some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. Damage is reduced after all resistances and Saving Throws.
 
 **Defense**:  Defense means the total value obtained from 10 + Shield + Armor + Dexterity + various bonuses. It represents the ability to avoid being hit and wounded. An enemy with high Defense could be extremely agile or have *thick skin* that is highly resistant to injury.
 
@@ -110,23 +110,23 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Difficulty Class (DC)**:  indicates how difficult it is to succeed in a check. It can be used for skills (swimming...) as well as knowledge (poisons...). For spells, it is the difficulty of resisting the spell. It indicates the value that must be reached to succeed in the check.
 
-**Distance**: distance, as far as combat is concerned, is measured in 1-meter squares.
+**Distance**: Distance, as far as combat is concerned, is measured in 1-meter squares.
 
-**Experience Points/XP**:   whenever difficulties, puzzles are solved, monsters are faced, or treasures are found, when the character is well played and everyone has fun, experience is gained. These points accumulated over time establish the level and therefore the abilities of the character.
+**Experience Points/XP**:   Whenever difficulties and puzzles are solved, monsters are faced, or treasures are found, and the character is well played while everyone has fun, the character gains experience. These points accumulate over time, establishing the character' \*\*s level and abilities.
 
 **Explosion of 6**: when you perform an Attack Roll, Saving Throw, Skill Check, Magic Check, or Initiative check, or whenever it is indicated that the Explosion of 6 applies, each die that rolls a 6 is noted and rolled again. The new result is also added, and if you roll another 6, you continue rolling until you stop rolling 6s.
 
 **Fate Points**:  or Beginner' \*\*s Luck are points available that the player can transform into d6 to add to Saving Throws, Attack Rolls, or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character' \*\*s level increases.
 
-**Feat**:  these are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
+**Feat**:  These are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
 
-**Follower**: a character who has bound themselves to a Patron with 1 Trait in common
+**Follower**: a character who has bound themselves to a Patron with 1 Trait in common.
 
 **Hit Points (HP)**: indicate vital energy, endurance, and the luck involved in resisting wounds. As long as a creature has at least 1 Hit Point, it fights at its best (though it might also decide to run away rather than die!). At each level, you gain a certain number of Hit Points established by the rules. Each wound is subtracted from this total, and when 0 (zero) Hit Points is reached, you faint and become unable to act.
 
-If you are further injured and the Hit Points drop to 10 + twice the value of Constitution, then you die.
+If you are further injured and your Hit Points drop to -10 minus twice your Constitution score, then you die.
 
-**Initiative**:  it is a Dexterity or Intelligence check. It establishes the order of actions in combat. Whoever has the highest check result acts first.
+**Initiative**:  Initiative is a Dexterity or Intelligence check. It establishes the order of actions in combat. Whoever has the highest check result acts first.
 
 **Level**: the Level indicates the proficiency and power reached by the character. It can indicate how *strong* an enemy is.
 
@@ -153,9 +153,7 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 **Patron**: or deity. The Patron is a superior being who can grant powers and guarantee advantages.
 
-**Penalty/Malus** : like bonuses, penalties are values, numbers, which indicate unfavorable circumstances, penalizing spells, or whatever makes the check more difficult. Unfortunately, unlike Bonuses, penalties,
-
-, if not specified otherwise, always sum up together.
+**Penalty/Malus** : Like bonuses, penalties are values that indicate unfavorable circumstances, penalize spells, or make a check more difficult. Unlike bonuses, penalties always add together unless specified otherwise.
 
 **PC, Character**:  is the creature guided, managed, and *role-played* by the player.
 
@@ -173,7 +171,7 @@ Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases 
 
 **Trait**:  indicates one component of a character. Each character chooses 5 Traits to compose and build their personality.
 
-**Turn**:  is 10 minutes, that is, 60 rounds
+**Turn**:  is 10 minutes, that is, 60 rounds.
 
 > The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
@@ -181,7 +179,7 @@ In the Manual, you will find different types of boxes, each has a precise meanin
 
 > Example of a box containing a quotation or motivational phrase
 
->> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$
+>> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$.
 
 >>> **Information for the Narrator**: Box containing indications and suggestions for the Game Master. Recognizable by the icon
 

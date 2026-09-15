@@ -143,9 +143,11 @@ The Lady of Light, she who radiates warmth and love. Generator of the impulses o
 
 Ljust can only be chosen by a character with 4 Traits in common with her, fundamentally one is born to be a Devotee of Ljust. Over the ages, Ljust decided to select, choose, and reward creatures that most innately and deeply showed love for life, curiosity for the new, unshakable strength, dedication, trust, respect, and care for others by giving them the powers and the possibility to study and grow as Disciples of Light. These Disciples must follow the rule of the 8 Steps.
 
+Her patience is not passivity, but the stubborn strength of one who continues to protect life after every defeat. Ljust is open and sociable with every creature, and her loyalty to those who have entrusted their lives to her never fails.
+
 - **Symbol**: An 8-pointed star with 8 luminous rays
 - **Ability Score**(Devotee): Wisdom or Charisma
-- **Traits**: Compassionate, Stubborn, Brave, Extroverted, Altruistic, Loyal, Patient. The Devotee of Ljust has 4 Traits in common with the Patron.
+- **Traits**: Compassionate, Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient. The Devotee of Ljust has 4 Traits in common with the Patron.
 - **Manifestation**: golden light floods the spellcaster.
 - **Sum of Traits in common at 5 points**: you can cast the Light spell as a Reaction, 3 times a day
 - **Sum of Traits in common at 10 points**: you gain a +2 to Fortitude Saving Throws
@@ -182,6 +184,8 @@ He is dark, icy, and angry. He embodies hatred, violence, destruction, vengeance
 
 Calicante can only be chosen by characters who have 4 Traits in common with him. His Devotees are the best assassins, his most akin profession. Those who show the greatest contempt for danger and the lives of others. His favorites are those who are feared, hated, those who are violent and cruel but mortally efficient and decisive in every combat situation.
 
+His selfishness is ambitious and arrogant: Calicante wants everything to belong to him and grants nothing without a return. He despises sincerity, hoards whatever he considers useful, and turns every relationship into a deception, with a cold patience that makes his vengeance even more cruel.
+
 - **Symbol**: A black whirlwind
 - **Ability Score**: Strength or Dexterity
 - **Traits**: Ambitious, Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy. The Devotee of Calicante has 4 Traits in common with the Patron
@@ -212,6 +216,8 @@ To be a Devotee of Atmos at the time of the ritual, it is necessary that the fut
 
 Dressed in a soft brown robe and leather sandals, he moves among the infinite shelves of the Library of Knowledge with a strange timekeeper always hanging from his waist.
 
+Atmos observes for a long time before deciding and is often indecisive when faced with the consequences of a choice. He is cautious and patient in guarding knowledge, but uncompromising and vindictive when someone attempts to erase history; he jealously preserves every document and every piece of information he can collect.
+
 - **Symbol**: A white book with a pocket watch resting on top
 - **Ability Score**: Intelligence or Wisdom
 - **Traits**: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy. The Devotee of Atmos has 4 Traits in common with the Patron.
@@ -236,9 +242,11 @@ Serious, with icy eyes of a very light blue, he is the Guardian of the Portals a
 
 His Devotees are travelers par excellence, those who preside over and protect the Earth from what is alien, from what could disturb creation.
 
+Although solitary, Lynx can speak with those who ask for guidance and protection and does not refuse confrontation. He is proud of his role and experience, suspicious of every intruder and cautious about granting trust; once he decides to act, his determination does not waver.
+
 - **Symbol**: A portal into darkness
 - **Ability Score**: Dexterity or Intelligence
-- **Traits**: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+- **Traits**: Stubborn, Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 - **Manifestation**: as if the panorama no longer had a horizon
 - **Sum of Traits in common at 5 points**: Once a day you can perform an extra Move Action
 - **Sum of Traits in common at 10 points**: You can cast Dimension Door once per day
@@ -267,9 +275,11 @@ Passionate and cold, he is perhaps the most human Patron of the current pantheon
 
 The Devotee of Gradh is proud and haughty, indomitable and protective, and sorrowful, because no matter how hard he tries to bring balance and peace, evil continues to prosper.
 
+Gradh is vain and arrogant in his certainty that he can defend what he loves, but his pride does not prevent him from being loyal. He envies those who destroy lives without paying the price and, when protection fails, his compassion becomes a lucid and ruthless vengeance.
+
 - **Symbol**: A shield with two intertwined spirals engraved on it.
 - **Ability Score**: Strength
-- **Traits**: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+- **Traits**: Courageous, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 - **Manifestation**: two spirals, one black as shadow and one bright as a spark, surround your weapon intertwining
 - **Sum of Traits in common at 5 points**: You can cast the spell Cure Wounds from 3 Magic Points, but it causes you 1d6 damage. Once per day
 - **Sum of Traits in common at 10 points**: For 10 consecutive minutes, you have a bonus of +1d6 to Reflex and Fortitude Saving Throws. Once per day.
@@ -295,9 +305,11 @@ With a cheerful smile and a good soul, she will always be ready to help you achi
 
 The Devotee of Atherim takes to heart those who have made a promise, punishes those who break them and those who reveal secrets. Many Devotees of Atherim are diplomats, notaries, and midwives.
 
+Atherim is suspicious and does not easily grant access to her secrets, but she is compassionate, altruistic, and kind toward those who have earned her trust. She is uncompromising in defending promises, courageous in protecting the weak, enthusiastic about fulfilling dreams, and vain about her beauty.
+
 - **Symbol**: A gloved woman' \*\*s hand holding a vial rich with flows
 - **Ability Score**: Wisdom
-- **Traits**: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain
+- **Traits**: Suspicious, Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain
 - **Manifestation**: a serene and calming silence falls around the caster
 - **Sum of Traits in common at 5 points**: You can add 1d6 to a Saving Throw after you' \*\*ve rolled it but before knowing if it succeeded or not. Once per day, as a Reaction.
 - **Sum of Traits in common at 10 points**: You gain 30 temporary Hit Points. Duration 1 hour, once per day, as an Immediate Action.
@@ -322,6 +334,8 @@ He is always looking for new things, wonderful objects that he exchanges and re-
 Belevon is a hideous and deformed Patron worshiped by abject creatures from the deepest caves, envious of what is possessed by others.
 
 The Devotee of Belevon is well described as a lizardman surrounded by trinkets and human remains.
+
+Belevon' \*\*s compassion, patience, and altruism are often a mask: he knows how to wait for the right moment, listen to another' \*\*s need, and offer help only to turn it into a debt. When the mask falls, the arrogance and cruelty of one who considers every creature a commodity emerge.
 
 - **Symbol**: A golden cage
 - **Ability Score**: Intelligence
@@ -353,6 +367,8 @@ Ljust could not help but intervene in the creation of such an explicitly evil Pa
 
 Whenever a calamity happens, it is customary to say that *Cattalm has stomped his foot*.
 
+Cattalm is in no hurry: he lets calamity mature and chaos do the work for him. He is patient in preparing destruction, uncompromising in pursuing it, and suspicious of anyone who tries to remedy it.
+
 - **Symbol**: A giant wave overwhelming the coast
 - **Ability Score**: Strength
 - **Traits**: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
@@ -383,6 +399,8 @@ A Devotee of Efrem respects life as well as death, in the natural process that i
 
 In the most desolate lands, in the most natural regions, the Devotees of Efrem build utopias between humanoids and animals, where balance is maintained with the blood of anyone who rebels against their will.
 
+Efrem is loyal to nature and altruistic toward creatures that respect it, but his rigor makes him uncompromising. He may be indecisive when faced with two possible balances, or impulsive when he sees a desecration; his ambition is to restore to nature the dominion he believes it deserves.
+
 - **Symbol**: A staff with a vine twisted around it
 - **Ability Score**: Constitution
 - **Traits**: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
@@ -408,6 +426,8 @@ Orderly and exuberant, he is the lord of storms, thunder and lightning, earthqua
 He has arms and chest covered with almost silvery tattoos that tell the legends of Earth and Air.
 
 The Devotees of Erondil are the engineers of the impossible.
+
+Erondil compassionately protects the works entrusted to his care and is loyal to those who respect their perfection. He is also greedy with his knowledge and creations: he grants tools, materials, or plans only when he believes the recipient deserves them.
 
 - **Symbol**: a sandcastle with a lightning bolt above it
 - **Ability Score**: Wisdom
@@ -441,6 +461,8 @@ The Devotees of Gaya are volatile artists above the norm. They are those who rec
 
 But Gaya also has a much more subtle and violent side, a vein of evil madness that loves to bring destruction with flames and water. In the depths of the caves, creatures akin to water or fire worship Gaya and kill anyone who disagrees with them.
 
+Gaya' \*\*s generosity appears when she shares the beauty of her works, and her kindness accompanies those who know how to listen. She is suspicious of anyone who might damage them, cynical and dishonest when protecting her secrets, envious of others' \*\* beauty, and arrogant in judging her own art.
+
 >>> **Gaia and Erondil**: **Gaia** and **Erondil** are like two sides of the same coin and oversee the elements, Gaia water and fire and Erondil Air and Earth; they act as direct expressions of the major Patrons, they are small manifestations of their immense power.
 
 - **Symbol**: a brush on the sky
@@ -473,6 +495,8 @@ Krondal has a deep respect for freedom and cannot criticize choices, extreme or 
 
 A Devotee of Krondal is typically a bodyguard, a protector, a sheriff who is not interested in the reasons for the choice but who knows how to judge the actions taken.
 
+Krondal is patient in allowing every choice to reveal its consequences, but stubborn and uncompromising in applying his judgment. His ambition for freedom makes him arrogant and vain, while Krondal' \*\*s motto leads him to distrust every promise and every authority.
+
 - **Symbol**: A sword held vertically in front of oneself
 - **Ability Score**: Charisma
 - **Traits**: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
@@ -498,6 +522,8 @@ It is not the body that defines me (anonymous creature)
 He is the Patron without a precise face, without a voice except a song. Changeable in body and without a clear definition of his being. He manifests with a long fire-red cloak made of a thousand butterflies. His touch is life and peace, he protects those who need his favors regardless of whether they ask for them or not. He desires a world without suffering, with only happiness and harmony. Suspicious and deeply introverted, he does not believe those who agree with him. He has a heart full of life and goodness but does not have a body with which to love.
 
 Ledyal also has a twin sister, or perhaps another personality, or perhaps they are the same Patron, no one has ever seen them together. The *twin* **Laydel** does not tolerate suffering, despises those who cause pain, kills without fear any creature that has sinned against an innocent, anyone who has caused suffering.
+
+Ledyal approaches conflict cautiously and often avoids direct confrontation, but remains stubborn in defending peace. Laydel is patient in preparing punishment, ambitious in eradicating every source of suffering, and uncompromising, cynical, and arrogant toward those who cause it; her envy comes from seeing others live without the burden she carries.
 
 - **Symbol**: A butterfly dripping blood while flying
 - **Ability Score**: Wisdom (Ledyal) - Strength (Laydel)
@@ -532,6 +558,8 @@ Nethergal knows the location of every document and is probably the key to unders
 
 Nethergal also has another role: she is the Patron of dreams and visions, she shares this task with Sixiser who instead dominates nightmares.
 
+Nethergal is patient in gathering information and stubborn in completing every message. Her curiosity is extroverted and impetuous, her vanity is accompanied by the arrogance of one who knows every written word, and she does not forget an offense, becoming vindictive toward anyone who falsifies or betrays her words.
+
 - **Symbol**: an iridescent white feather
 - **Ability Score**: Dexterity
 - **Traits**: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
@@ -563,9 +591,11 @@ Nedraf represents the one you would always want by your side in any battle.
 
 Many mercenary captains and commanding officers are Devotees of Nedraf. The Devotee of Nedraf does not give up, does not renounce, does not abandon his companions, but this does not make him reckless or irrational in his choices.
 
+Nedraf is patient in waiting for the right moment, but uncompromising when battle demands a decision. He is proud of his scars and arrogant toward those without experience; his enthusiasm carries his companions, while the cynicism born from too many defeats keeps him from trusting promises of victory.
+
 - **Symbol**: a strong hand, wrapped in a bandage dirty with blood brandishing a sword
 - **Ability Score**: Constitution
-- **Traits**: Patient, Vain, Brave, Uncompromising, Enthusiastic, Arrogant, Cynical
+- **Traits**: Patient, Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
 - **Manifestation**: the smell of blood and metal spreads in the air
 - **Sum of Traits in common at 5 points**: You can wear light armor without penalties to Magic Check
 - **Sum of Traits in common at 10 points**: You acquire a bonus point on a Weapon List. It may be known or not
@@ -585,9 +615,11 @@ He is the Patron of accidental heroes. Thoughtful and calm, he loves good wine a
 
 He has the appearance of a small man, with extravagant and refined clothes and a wary and cheerful expression. He always protects himself at any cost, showing the world exactly what the world wants to see. He carefully controls the reality around him, and even if it is always easier to see him with a chalice in hand, if one is not deceived by appearances, one will notice how his eyes never lose sight of danger, of the problem. He is careful, does not trust anything or anyone. He has made his flaws his strengths.
 
+Behind his cheerfulness, Nihar hides envy of those who gain glory without effort and greed for every object or opportunity that might protect him. He can be cruel when cornered, but his courage and compassion sometimes drive him to perform a heroic act he had not planned.
+
 - **Symbol**: A dagger placed next to a wine chalice
 - **Ability Score**: Intelligence
-- **Traits**: Curious, Brave, Compassionate, Vain, Envious, Greedy, Cruel
+- **Traits**: Curious, Courageous, Compassionate, Vain, Envious, Greedy, Cruel
 - **Manifestation**: the sound of a toast or the uncorking of a bottle
 - **Sum of Traits in common at 5 points**: You can turn water into wine. One liter per day. Cost 2 Actions. 2 times per day.
 - **Sum of Traits in common at 10 points**: An Immediate Action, you get a bonus of +2d6 to a Proficiency check in that round. 3 times per day.
@@ -617,6 +649,8 @@ His Devotees are weak creatures, who need a master, a voice that constantly tell
 
 But also skilled actors and entertainers, undercover spies, diplomats, or politicians.
 
+Orudjs' \*\*s compassion is an act that lets him win trust, while his impulsiveness often makes him change masks without thinking. He is ambitious and dissolute, cowardly when exposed, indecisive when choosing between two deceptions, and cruel or dishonest whenever he sees an advantage.
+
 - **Symbol**: A white theatrical mask with only the mouth open and the eyes closed
 - **Ability Score**: Charisma
 - **Traits**: Impulsive, Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
@@ -641,9 +675,11 @@ The Devotees of Orlaith are often judges and justices, people who have decided t
 
 Beware of the Followers of Orlaith, vanity, vengeance, and intransigence make them hateful and ill-disposed towards everyone.
 
+Orlaith demands order and justice in public, but can be dissolute in private life when no one is watching. His curiosity drives him to keep seeking new culprits, while vanity, courage, stubbornness, and loyalty to the law feed his vindictive judgment.
+
 - **Symbol**: A hand stretched out on a closed book
 - **Ability Score**: Strength
-- **Traits**: Vain, Uncompromising, Brave, Stubborn, Dissolute, Vindictive, Curious
+- **Traits**: Vain, Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
 - **Manifestation**: the image of a scale, unbalanced.
 - **Sum of Traits in common at 5 points**: You summon 1 mastiff that obeys your commands. Duration 1 minute. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 10 points**: A pair of handcuffs manifests around the wrists of the creature (maximum large size) within 27 meters. Reflex Saving Throw DC 25 to cancel. Cost 2 Actions. Once per day. Strength/Escape Artist DC 20 to free oneself.
@@ -666,6 +702,8 @@ In the depths of the caves, the devotees of Rezh dig seeking treasures, desecrat
 Rezh took care to destroy in green flames any financial document that might exist before the coming of the Patrons. In a gesture that might seem of extreme generosity, she erased all people' \*\*s debts.
 
 Among humans, the Devotees of Rezh become explorers, tomb raiders, people always looking for a treasure and one more coin.
+
+Rezh is patient in pursuing profit and may be indecisive only when every choice involves a loss. Her ambition and envy fuel the cruelty and cynicism with which she judges others, while greed prevents her from leaving even the smallest treasure unguarded.
 
 - **Symbol**: a pile of coins with a rat nearby
 - **Ability Score**: Intelligence
@@ -696,6 +734,8 @@ Shayalia is the concubine who enchants you and destroys you, drop by drop. Poiso
 The Devotees of Shayalia are spies, bastard children, lovers of powerful lords who act in the shadows.
 
 Ljust, disgusted by the vision of such an explicitly evil Patron, instilled in Shayalia love and passion for plants and animals. And so many of the most famous botanists, herbalists, and zoologists are Devotees of Shayalia, perhaps the only things that Shayalia can truly love.
+
+Shayalia' \*\*s patience is the patience with which she plans revenge at length; her compassion is reserved for plants and animals, while her vanity constantly seeks admiration. Her dissolute passions and cruelty turn intimacy into a weapon, guided by cynicism and vindictiveness.
 
 - **Symbol**: a crumpled cushion dirty with blood
 - **Ability Score**: Charisma
@@ -730,6 +770,8 @@ Terrified by the future he sees, by a hypothetical end of himself and of everyth
 He is paranoid and does not trust anyone. He uses his powers of divination to know and scrutinize everyone.
 
 Sixiser is the master of nightmares, of the most frightening dreams of visions of death. He often uses nightmares as a means of communication with his followers.
+
+Sixiser is dishonest when manipulating dreams and visions, impulsive when anxiety drives him to accumulate, and uncompromising in his need to control the future. His caution, cynicism, and suspicion arise from fear, while indecision forces him to consult every possible omen once more.
 
 The Devotees of Sixiser are often necromancers surrounded by undead and other silent and obedient creatures. Those who seek refuge in search of solitude and study, those who aim to expand and govern entire cities and nations in order to feel safer, are Devotees of Sixiser.
 
@@ -769,9 +811,11 @@ Sumkjr is a valiant soldier, the best friend of the righteous.
 
 Calicante, horrified at the sight of such a Patron, deprived him of the ability to love and feel true feelings of affection. Bringing good for a Devotee of Sumkjr is something as normal as being unable to empathize with those who suffer. The Devotee knows what he must do and why, but cannot be moved or love in the face of suffering or the caresses of a woman/man.
 
+Sumkjr is suspicious of anyone who claims to act for good without proving it, but curious about people and their stories. He is extroverted in calling everyone to his cause, stubborn in defending it, and loyal to those who fight beside him.
+
 - **Symbol**: three drops of blood falling one after another
 - **Ability Score**: Charisma
-- **Traits**: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+- **Traits**: Kind, Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 - **Manifestation**: the Devotee is wrapped in a golden brocade cloak
 - **Sum of Traits in common at 2 points**: The touch of your sword is life. A creature touched with your weapon recovers 3d6 Hit Points. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 7 points**: Your Will is stronger than metal. You gain a +2 to Will Saving Throws
@@ -808,6 +852,8 @@ Tàhil was created when Calicante discovered the death of his first son, it was 
 
 Tàhil has very few Devotees or Followers who declare themselves as such, but unlike all other Patrons, Tàhil doesn' \*\*t care, he is the manifestation of pure hatred and that' \*\*s enough for him.
 
+Tàhil is dishonest because he never promises what he intends to grant, arrogant because he considers every creature inferior, ambitious in spreading suffering, and stubborn in pursuing it. His impulsiveness explodes in vengeance, while cynicism prevents him from recognizing any mercy.
+
 - **Symbol**: A swastika
 - **Ability Score**: Strength
 - **Traits**: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
@@ -838,6 +884,8 @@ Ljust, horrified by such hatred and nihilism, instilled in the Patron respect fo
 
 The human Devotee of Tazher is the thief, the assassin, the bandit, anyone who lives for darkness and their own gain. A Devotee of Tazher is extremely dangerous in combat.
 
+Tazher is patient while waiting from the shadows and indecisive only until he has assessed every possible escape route. Ambition and arrogance accompany his cruelty, while cynicism and dishonesty allow him to treat every alliance as a temporary tool.
+
 - **Symbol**: The glint of the blade in the dark
 - **Ability Score**: Dexterity
 - **Traits**: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
@@ -846,7 +894,7 @@ The human Devotee of Tazher is the thief, the assassin, the bandit, anyone who l
 - **Sum of Traits in common at 10 points**: Your Darkvision becomes 6 meters.
 - **Sum of Traits in common at 15 points**: as long as you walk over shadows or in the dark (darkness) you are invisible. You can still be detected with light or divination spells.
 - **Sum of Traits in common at 20 points**: Darkness is no longer a problem. You see in darkness, even magical darkness, as if it were day. When you are in a fully lit environment, you are dazzled with a -2 to Attack Rolls.
-- **Energy/M**: Void, Ice
+- **Energy/M**: Void, Cold
 - **Advantage**: Darkvision 3 meters
 - **Privileged Magic Lists**: Transmutation
 - **Preferred Weapon**: Glaive
@@ -865,6 +913,8 @@ The Devotees of Thaft are the priests of the final journey, those who protect an
 A Devotee of Thaft respects life as well as death and does not fear to bring destruction for a greater balance.
 
 Thaft was shaped by Atmos.
+
+Thaft avoids danger whenever possible and prefers to observe before acting, but in the ceremonies of birth and death he can be extroverted and authoritative. He is vain in caring for his symbols, loyal and kind to those he accompanies, patient in judgment, and vindictive toward anyone who profanes the natural cycle.
 
 - **Symbol**: An open book with a skull on top
 - **Ability Score**: Wisdom
@@ -893,6 +943,8 @@ In the abandoned lands, the Devotee of Torbiorn is the Tyrant with an iron fist 
 The Devotee of Torbiorn is the typical rich and lazy aristocrat, the one who always seeks the easiest and least risky path.
 
 Regardless of others, he enjoys exploiting the work of others and benefiting from it.
+
+Torbiorn retains a form of compassion, but grants it only to works or people he considers worthy of his perfection. He almost always represses it behind cruelty, arrogance, and cynicism; his impulsiveness, dishonesty, and indecision arise from dissatisfaction with every result.
 
 - **Symbol**: An opaque mirror
 - **Ability Score**: Charisma
@@ -926,11 +978,11 @@ Sixiser: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Su
 
 Cattalm: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
 
-Ljust: Compassionate, Stubborn, Brave, Extroverted, Altruistic, Loyal, Patient
+Ljust: Compassionate, Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient
 
-Gradh: Brave, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+Gradh: Courageous, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 
-Nihar: Curious, Brave, Compassionate, Vain, Envious, Greedy, Cruel
+Nihar: Curious, Courageous, Compassionate, Vain, Envious, Greedy, Cruel
 
 Tazher: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 
@@ -940,7 +992,7 @@ Ledyal: Enthusiastic, Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
 
 Nethergal: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
 
-Sumkjr: Kind, Brave, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+Sumkjr: Kind, Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 
 Atmos: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
 
@@ -954,15 +1006,15 @@ Efrem: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
 
 Torbiorn: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 
-Nedraf: Patient, Vain, Brave, Uncompromising, Enthusiastic, Arrogant, Cynical
+Nedraf: Patient, Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
 
-Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Brave, Enthusiastic, Vain\
+Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain\
 
 Thaft: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 
-Lynx: Stubborn, Brave, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+Lynx: Stubborn, Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 
-Orlaith: Vain, Uncompromising, Brave, Stubborn, Dissolute, Vindictive, Curious
+Orlaith: Vain, Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
 
 Laydel: Vindictive, Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
 

@@ -9,10 +9,10 @@ It is the creatures that make the planet vital and rich, each one nourishes, con
 
 ## Humans
 
-Humans, with their desire for discovery, power, glory, and violence, and reproductive capacity, were the dominant race; the entire Earth bowed to their will. Until their coming.
+Humans, with their desire for discovery, power, glory, violence, and reproduction, were the dominant race; the entire Earth bowed to their will until their coming.
 And humans became the species to hunt and kill, the dictate received from the first Patrons was clear and absolute, exterminate the humans who had killed the firstborn.
 
-It is impossible to know how many humans have survived in the world, rough estimates place their number at under 500 million.
+It is impossible to know how many humans have survived in the world; rough estimates place their number at under 500 million.
 
 **Racial modifiers**: +1 to one ability score of your choice
 
@@ -32,7 +32,7 @@ Elves are the race brought directly by Calicante, the Patron of Genesis, to brin
 
 Forcibly deported from distant worlds made of chaos, war, and pain, after their Legions of Terror raged for over a century on our planet, further reducing the few remaining humans, the Lady of Light Ljust intervened directly to instill a spark of charity in their soulless bodies.
 
-And so the newborns, but not all, do not have this visceral hatred and homicidal mania, their blood has not been stained by Calicante, and they would like to live a normal life in contact with all other creatures, although well aware of how they are seen and treated by all others.
+And so some newborns do not have this visceral hatred and homicidal mania. Their blood has not been stained by Calicante, and they would like to live a normal life in contact with all other creatures, although they are well aware of how others see and treat them.
 
 These are the young elves who want to build and live in a new Earth. Other creatures have learned to judge an elf based on age, however difficult it is to give an age to this race; an *elderly* elf is evil and must be killed, a *young* elf perhaps is not evil.
 These are brutal and approximate methods that unfortunately continue to be widespread and applied.
@@ -55,7 +55,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 Dwarves are a stoic and severe race accustomed to the purest communism, without a true concept of property but of pure commonality of goods according to the idea that every dwarf works for the community and not for himself.
 
-Dwarves are compact and stocky, reaching a maximum height of about 140 cm with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids, likewise, bald dwarves are common, but not without a beard. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
+Dwarves are compact and stocky, reaching a maximum height of about 140 cm, with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids. Bald dwarves are common, but they are not without beards. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
 
 Dwarves are guided by honor, tradition, and communism. They are often seen as gruff, but have a strong sense of friendship and justice, respecting those who work hard and commit to the community and the group.
 
@@ -81,7 +81,7 @@ Gnomes are beings of small size but rich in energy and life. Gnomes are the race
 
 In a short time, thanks to their innate curiosity, tenacity, and inventiveness, they have managed to create populous and rich cities, almost always within virgin forests.
 
-Gnomes are deeply connected to nature, their relationship is almost symbiotic, a Gnome will never forgo the sight of trees and always builds with what nature provides.
+Gnomes are deeply connected to nature; their relationship is almost symbiotic. A gnome will never forgo the sight of trees and always builds with what nature provides.
 
 Gnomes have a deep respect for nature, the environment, and animals; their perfectly functional and modern cities are built and carved into the forest, never destroying it and indeed enriching it.
 
@@ -115,9 +115,9 @@ There are also rare half-elves born from romantic relationships. Although usuall
 
 Many elves see in a half-elf the betrayal of the original mission, the destruction of creation.
 Very few see it as a gesture of love and a gift to an increasingly ugly world.
-They are usually seen by other creatures as murderers like elves regardless of whether their blood has been touched by Calicante or not.
+Other creatures usually see them as murderers, like elves, regardless of whether their blood has been touched by Calicante.
 
-Half-elves are shorter than humans but taller than elves. They inherit the slender build and attractive features of their elven lineage, but their skin color is normally dictated by their human part. Their eyes tend to be similar to those of humans in shape, but present an exotic range of colors from amber to purple to emerald green and dark blue.
+Half-elves are shorter than humans but taller than elves. They inherit the slender build and attractive features of their elven lineage, but their skin color is normally dictated by their human part. Their eyes tend to be similar to those of humans in shape, but display an exotic range of colors from amber to purple to emerald green and dark blue.
 
 Half-elves understand loneliness and know that character is often more a product of life experience than race.
 
@@ -148,7 +148,7 @@ Orcs were created directly by the Patron Cattalm with the help of Calicante. Muc
 
 Half-orcs are continuous victims of prejudice.
 
-**Racial modifiers**: +2 Strength -1 Charisma
+**Racial modifiers**: +2 Strength, -1 Charisma
 
 **Physical characteristics**: height 160-210 cm, 60-140 kg, life expectancy 70 years (50 + 5d10 years)
 
@@ -164,7 +164,7 @@ Half-orcs are continuous victims of prejudice.
 
 The Nibali are a race magically created to be slaves to the first Patrons.
 
-Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create through magical manipulation, a more robust, stronger, more intelligent race and at the same time more docile and disciplined with the advantage that every child generated would be absolutely identical physically to the father or mother.
+Legend has it that an ancient Patron, starting from a couple of humans (after thousands had died atrociously in previous experiments), managed to create, through magical manipulation, a more robust, stronger, and more intelligent race that was also more docile and disciplined. Every child would be physically identical to either parent.
 
 When the first Patrons left, the Nibali continued to prosper, making use of what had already been created in the cold tundra.
 
@@ -210,7 +210,7 @@ Outcast is an attribute that can be given to any race. The racial modifiers are 
 
 **Languages**: as original race
 
-**Special**: Must identify a Patron and have at least 3 common Traits. Accesses power at Trait sum 5 even if they have fewer points. An additional Feat of choice.
+**Special**: Must identify a Patron and have at least 3 common Traits. Gains access to power at a Trait sum of 5, even if they have fewer points. An additional Feat of choice.
 
 ## Sornelian
 
@@ -232,17 +232,17 @@ A Sornelian is almost never born as the child of two Sornelians but is a spontan
 
 **Advantages**: At creation, the player chooses 2 capabilities from those listed that best characterize their Sornelian. Some example animals are indicated in parentheses.
 
-- *Armored* (turtle, armadillo, crab, horned boxfish, alligator). You have a good part of your body covered with a robust armor. Your natural Defense is 12. If you choose this capability twice, opponents do not have advantages on Attack Rolls from behind or when they flank you.
+- *Armored* (turtle, armadillo, crab, horned boxfish, alligator). A large part of your body is covered by robust armor. Your natural Defense is 12. If you choose this capability twice, opponents do not have advantages on Attack Rolls from behind or when they flank you.
 
-- *Runner* (deer, greyhound, saurovallum, velociraptor). Increase your Movement speed by 3 meters. If you choose this capability twice, your Movement becomes 12 meters.
+- *Runner* (deer, greyhound, Saurovall, velociraptor). Increase your Movement speed by 3 meters. If you choose this capability twice, your Movement becomes 12 meters.
 
 - *Nocturnal creature* (cat, lizard, bat, owl). You have twilight vision up to 9 meters. If you choose this capability twice, twilight vision reaches up to 18 meters.
 
-- *Swimmer* (crocodile, dolphin, frog, shark). You can hold your breath for up to 1 Turn per point of Constitution, minimum 1, you have a swimming speed equal to half your Movement. You have Damage Reduction from cold equal to 4. If you choose this capability twice, you have rudimentary gills that allow you to breathe underwater, and the cold damage reduction becomes 10.
+- *Swimmer* (crocodile, dolphin, frog, shark). You can hold your breath for up to 1 Turn per point of Constitution, with a minimum of 1 Turn. You have a swimming speed equal to half your Movement and Damage Reduction from cold equal to 4. If you choose this capability twice, you have rudimentary gills that allow you to breathe underwater, and the cold damage reduction becomes 10.
 
 - *Predator* (bear, feline). Your natural attacks (claws, jaws...) cause 1d6 lethal damage and are not improvised weapons. These attacks fall into the Axes and Hatchets Weapon List. If you choose this capability twice, your natural attack causes 1d8 damage.
 
-- *Robust* (rhinoceros, hippo, elephant). At each level passage, you roll the d8 instead of d6 to determine Hit Points. If you choose this capability twice, each point of WP assigned increases Hit Points by 5 and not 3.
+- *Robust* (rhinoceros, hippo, elephant). At each level, you roll a d8 instead of a d6 to determine Hit Points. If you choose this capability twice, each point of WP assigned increases Hit Points by 5 instead of 3.
 
 - *Climber* (bear, cat, lizard, squirrel). You have hooked claws, sharp nails, or a serpentine tail. You have a climbing speed equal to half your Movement. If you choose this capability twice, the climbing speed is equal to your Movement.
 
