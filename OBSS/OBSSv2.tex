@@ -472,7 +472,7 @@ bookmarksopen=true
 % ========== INIZIO DOCUMENTO ==========
 \begin{document}
 
-\def \versione {1.0.13} \fontsize{11}{11.5}\selectfont  %la prima è la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
+\def \versione {1.0.14} \fontsize{11}{11.5}\selectfont  %la prima è la grandezza del font, la seconda la spaziatura tra riga e riga  %\def \versione {0.99.36} \fontsize{10.5}{12}\selectfont
 
 
 \cleardoublepage \thispagestyle{empty} \tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=21cm,height=\paperheight]{immagini/copertina2-ai.png}}; \begin{textblock*}{20cm}(2cm,8cm)\Huge {\textbf{Old Bell School System}}\medskip \end{textblock*} \begin{textblock*}{22cm}(3.5cm,9cm) \Large {\textbf{(\textbf{OBSS})}}\medskip \end{textblock*} \begin{textblock*}{13cm}(9cm,15cm) \Huge{\color{black} \Huge{Fantasy Adventure Game}} \end{textblock*} \newpage~\thispagestyle{empty} \newpage~\thispagestyle{empty} %viene cercato Fantasy Adventure game
@@ -734,9 +734,9 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
 \textbf{Distanza}:\index{Distanza} la distanza, per quanto riguarda il combattimento, è misurata in quadretti da 1 metro.
 
-\textbf{Devoto}\index{Devoto}: un personaggio che si è legato a un Patrono e ha almeno 2 Tratti in comune.
+\textbf{Devoto}\index{Devoto}: un personaggio che sceglie di aderire formalmente al Patrono reclamante e ha almeno 2 Tratti distinti in comune con lui. Un personaggio non può essere Devoto e Seguace contemporaneamente.
 
-\textbf{Seguace}: un personaggio che si è legato a un Patrono con 1 Tratto in comune
+\textbf{Seguace}: un personaggio che sceglie di aderire formalmente al Patrono reclamante e ha almeno 1 Tratto in comune con lui. Un personaggio non può essere Seguace e Devoto contemporaneamente.
 
 \textbf{Esplosione del 6}:\index{Esplosione del 6} quando esegui il Tiro per Colpire, il Tiro Salvezza, la Prova di Competenza, la Prova di Magia, l'Iniziativa (leggi le specifiche nel capitolo dedicato) o comunque ogni volta che viene indicato che vale l'esplosione del 6, per ogni dado che ha fatto 6 il dado va segnato e ritirato. Il risultato del nuovo tiro va anch'esso sommato e, se si fa un 6, si continua a ritirare finché si continua a fare 6.
 
@@ -1123,7 +1123,7 @@ Un Diverso è fedele al suo Patrono e non può fare diversamente. Per fortuna so
 
 Un Diverso è più robusto e più intelligente. Purtroppo la sua vita frenetica è segnata da una breve durata. Solitamente un umano Diverso non supera i 50 anni di vita.
 
-Un Diverso è marchiato, da qualche parte sul suo corpo c'è il simbolo, una voglia, del suo Patrono. Molti Diversi hanno 3 o più cerchi concentrici dorati sul polso sinistro che possono indicare il Patrono (o Patroni in rarissimi casi) di cui sono \emph{figli}.
+Un Diverso è marchiato, da qualche parte sul suo corpo c'è il simbolo, una voglia, del suo Patrono. Molti Diversi hanno 3 o più cerchi concentrici dorati sul polso sinistro che possono indicare il Patrono di cui sono \emph{figli}.
 
 Diverso è un attributo che può essere dato a qualsiasi razza. I modificatori razziali vengono sostituiti con quelli del Diverso e l'aspettativa di vita viene dimezzata. Rimangono validi i vantaggi razziali originali e si aggiunge quello Speciale del Diverso.
 
@@ -1137,7 +1137,7 @@ Diverso è un attributo che può essere dato a qualsiasi razza. I modificatori r
 
 \textbf{Linguaggi}: come razza originale
 
-\textbf{Speciale}: Deve individuare un Patrono ed avere almeno 3 Tratti comuni. Accede al potere a somma Tratti 5 anche se ha meno punti. Una Abilità aggiuntiva a scelta.
+\textbf{Speciale}: Deve individuare il Patrono reclamante ed avere almeno 3 Tratti comuni con lui. Accede al potere a somma Tratti 5 anche se ha meno punti. Una Abilità aggiuntiva a scelta.
 
 \subsection{Sornelian}\index{Sornelian}\index{Furryman}\label{sornelian}\hypertarget{sornelian}{}
 
@@ -1751,7 +1751,7 @@ In OBSS esistono i Tratti, aspetti e sfumature caratteriali che \textbf{contribu
 
 Un Tratto è un dettaglio che aiuta a inquadrare meglio il personaggio, ne delinea i caratteri principali e gli concede sfumature diverse.
 
-\textbf{Ogni giocatore sceglie 5 Tratti per il proprio personaggio alla creazione del personaggio.} Questi guideranno il personaggio nell'agire e nelle scelte.
+\textbf{Ogni giocatore sceglie 5 Tratti per il proprio personaggio alla creazione del personaggio.} Questi guideranno il personaggio nell'agire e nelle scelte. Il giocatore sceglie i Tratti, non il Patrono: sarà il Patrono associato al Tratto dominante a reclamare il personaggio.
 
 \begin{giocatore}[Scegliere i Tratti]
 I Tratti non sono il personaggio, non lo bloccano né lo fissano per sempre nel tempo. Un personaggio è sempre in costante evoluzione, così come il suo carattere, la sua morale, il suo comportamento e i suoi desideri. Non essere rigido, ma usa i Tratti per avere suggerimenti da cui trarre ispirazione.
@@ -1773,9 +1773,15 @@ Nella scheda troverai dei \textbf{check} da mettere vicino ai Tratti, questi ven
 
 Sarà il Narratore durante l'avventura a dirti quando segnare, o cancellare, dei punti parziali. \textbf{In linea di massima si presume che un personaggio acquisisca almeno un punto Tratto a livello.}
 
-Ogni azione particolarmente importante dove il personaggio abbia seguito un Tratto porta il personaggio ad avvicinarsi al \textbf{Patrono} competente per quel Tratto.
+Ogni azione particolarmente importante dove il personaggio abbia seguito un Tratto porta il personaggio ad avvicinarsi ai Patroni che condividono quel Tratto. Un Tratto condiviso indica il canale attraverso cui un Patrono riconosce il personaggio, non necessariamente il fine o il modo morale con cui quel Tratto viene espresso: lo stesso Tratto può avere significati diversi per Patroni diversi.
 
-All'aumentare del valore della somma dei Tratti comuni con il Patrono il personaggio potrà acquisire dei poteri, indipendentemente sia un credente (Seguace o Devoto) o meno di quel Patrono.
+Il \textbf{Tratto dominante} è il Tratto scelto con il punteggio più alto. Per individuare il Patrono reclamante, consulta il primo Tratto della \hyperlink{tabellacollegamentopatronotratto}{Tabella Collegamento Patrono - Tratto} (pag. \pageref{tabellacollegamentopatronotratto}) che corrisponde al Tratto dominante. Se più Tratti hanno lo stesso punteggio massimo, il giocatore sceglie quale dei Patroni corrispondenti prevale. Se più Patroni hanno lo stesso Tratto guida, si confrontano i Tratti complementari comuni; se anche questa affinità è in parità, decide il giocatore. Il Patrono così individuato \textbf{reclama il personaggio}: il Patrono non viene scelto liberamente dal giocatore.
+
+La verifica del Patrono reclamante va ripetuta quando cambia il Tratto dominante. Un cambiamento può diventare un evento narrativo: il nuovo Patrono può reclamare il personaggio, ma il personaggio non può appartenere contemporaneamente a due Patroni.
+
+All'aumentare del valore della somma dei Tratti comuni con il Patrono reclamante il personaggio potrà acquisire dei poteri, indipendentemente dal fatto che sia un credente (Seguace o Devoto) o meno di quel Patrono.
+
+Per calcolare la somma si considerano soltanto i Tratti scelti dal personaggio che compaiono anche nel profilo del Patrono reclamante. I Tratti non scelti, che hanno valore base -1, non sono Tratti comuni e non entrano nella somma. Il numero dei Tratti comuni serve invece a stabilire se il personaggio può scegliere di essere Seguace o Devoto: per il Devoto devono essere almeno 2 Tratti distinti, anche se uno o più hanno valore 0.
 
 \noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item A \textbf{'5'} punti si può incominciare a sentire la presenza di un Patrono
@@ -1787,14 +1793,13 @@ All'aumentare del valore della somma dei Tratti comuni con il Patrono il persona
 \item A \textbf{'20'} punti si è un campione del Patrono
 \end{itemize}
 
-Non è necessario credere in un Patrono per sentirne la vicinanza, esserne legati o campione, semplicemente è la propria natura (i propri Tratti) che è affine al Patrono, che lo si voglia o meno. I poteri si prendono solo dal Patrono che ha somma tratti più alta rispetto agli altri.
+Non è necessario credere nel Patrono reclamante per sentirne la vicinanza, esserne legati o diventarne campione: è semplicemente la propria natura (i propri Tratti) ad essere affine al Patrono, che lo si voglia o meno. I poteri derivanti dai Tratti si ricevono soltanto dal Patrono reclamante, anche quando il personaggio non vi aderisce formalmente.
 
 Dato che lo scopo di un Patrono è fare in modo che i propri Tratti siano dominanti sugli altri, avere persone di alto livello e potere che siano così affini a lui tornerà utile nel giudizio dei 100 anni. Usate a vostro vantaggio i Tratti e il legame che il Patrono instaurerà con voi.
 
-Per individuare il Patrono più affine, quello che vi darà i poteri, verificate il vostro Tratto di maggior valore sulla \hyperlink{tabellacollegamentopatronotratto}{Tabella Collegamento Patrono - Tratto} (pag. \pageref{tabellacollegamentopatronotratto}) e individuate il Patrono che ha quel Tratto come maggiormente caratterizzante. In caso il Tratto fosse condiviso tra più Patroni, verificate gli altri Tratti e, in base alla somiglianza, scegliete il Patrono.
-Verificate poi in \hyperlink{cosmologia}{Cosmologia} (pag. \pageref{patroni}) i poteri concessi dal Patrono. Questo controllo è opportuno farlo a ogni aumento di valore di Tratto.
+Verificate poi in \hyperlink{cosmologia}{Cosmologia} (pag. \pageref{patroni}) i poteri concessi dal Patrono reclamante. Questo controllo è opportuno farlo a ogni aumento di valore di Tratto.
 
-Si è Devoti con almeno 2 Tratti e Seguaci con almeno 1 Tratto in comune con il Patrono. Non si può essere contemporaneamente Seguaci o Devoti di più Patroni.
+L'adesione formale è una scelta del giocatore, non un effetto automatico della reclamazione. Se possiede almeno 1 Tratto scelto in comune con il Patrono reclamante, il giocatore può scegliere di essere Seguace; se possiede almeno 2 Tratti scelti distinti in comune, può scegliere di essere Devoto. Può anche scegliere di non aderire formalmente e ricevere comunque i poteri derivanti dai Tratti. Seguace e Devoto sono alternative esclusive: non si può essere entrambi né appartenere a due Patroni diversi.
 
 Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai giocatori, si suggerisce di attribuire questi nuovi Tratti anche ai Patroni.
 
@@ -1862,13 +1867,13 @@ Se il personaggio è completamente difforme ai suoi Tratti non acquisirà punti 
 
 Questa opzione presenta un sistema che integra gli archetipi junghiani \autocite{jung1971} con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) \autocite{myers1995}, vengono presentati 22 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
-Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni che condividono almeno due Tratti (e quindi permettono di essere Devoti) con ogni archetipo, suggerendo affinità spirituali naturali.
+Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni i cui profili condividono almeno due Tratti con ogni archetipo, suggerendo affinità narrative e spirituali naturali. Questi elenchi non permettono di scegliere un Patrono: il Patrono reclamante è determinato dal Tratto dominante del personaggio.
 
 \begin{itemize}
 \item Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
 \item Considera di adottare almeno 2-3 dei Tratti raccomandati per quell'archetipo
 \item Evita i Tratti sconsigliati a meno che tu non stia specificamente mirando a creare conflitto interno
-\item Guarda ai Patroni allineati per una guida su quali poteri spirituali potrebbero essere affini naturalmente con il tuo personaggio
+\item Guarda ai Patroni allineati per una guida sui poteri spirituali che potrebbero essere affini naturalmente con il tuo personaggio, ricordando che il Patrono reclamante non viene scelto dal giocatore
 \end{itemize}
 
 Gli archetipi possono anche evolversi durante le avventure di un personaggio. Un personaggio potrebbe iniziare come un archetipo (L'Innocente) e trasformarsi in un altro (L'Eroe) attraverso le sue esperienze. Questa evoluzione può essere riflessa nel cambiamento graduale dei Tratti e delle affinità con i Patroni.
@@ -1942,7 +1947,7 @@ Il personaggio malizioso che disturba lo status quo e porta trasformazione attra
 \item \textbf{Tratti Raccomandati:} Impulsivo, Curioso, Disonesto, Entusiasta
 \item \textbf{Tratti Sconsigliati:} Prudente, Paziente, Intransigente
 \item \textbf{Tratti Contraddittori:} Leale, Altruista, Compassionevole
-\item \textbf{Patroni Allineati:} Orudjs, Belevon, Ledyal
+\item \textbf{Patroni Allineati:} Orudjs, Ledyal
 \end{itemize}
 
 \subsection*{L'Alleato}
@@ -2012,7 +2017,7 @@ Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
 \item \textbf{Tratti Raccomandati:} Curioso, Ambizioso, Arrogante, Intransigente
 \item \textbf{Tratti Sconsigliati:} Codardo, Indeciso, Impulsivo
 \item \textbf{Tratti Contraddittori:} Altruista, Compassionevole, Leale
-\item \textbf{Patroni Allineati:} Erondil, Orudjs, Nethergal, Krondal, Atmos
+\item \textbf{Patroni Allineati:} Erondil, Nethergal, Krondal, Atmos
 \end{itemize}
 
 \subsection*{Il Fuorilegge}
@@ -2112,7 +2117,7 @@ Ogni transizione tra archetipi rappresenta un momento significativo di sviluppo 
 
 \subsection*{Affinità con i Patroni e Risonanze Archetipiche}
 
-Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione:
+Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione, ma non sostituiscono la procedura di assegnazione: il Patrono reclamante resta quello determinato dal Tratto dominante.
 
 \medskip
 
@@ -2153,7 +2158,7 @@ Torbiorn & Il Tiranno, L'Ombra, Il Sovrano
 \noindent\begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item Usa gli archetipi come punto di partenza per la creazione del personaggio, selezionando Tratti che si allineano con il tuo archetipo scelto
         \item Considera il potenziale viaggio archetipico del tuo personaggio: come potrebbe evolversi nel tempo?
-\item Guarda ai Patroni allineati del tuo archetipo quando consideri affiliazioni spirituali
+\item Guarda ai Patroni allineati del tuo archetipo per conoscere le possibili affinità spirituali, senza considerarli Patroni da scegliere
         \item Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche interessanti tra i personaggi
 \end{itemize}
 
@@ -2631,9 +2636,9 @@ Se non hai punti in Competenza Armi puoi usare solo le \hyperlink{armi.semplici}
 
 I Punti Ferita sono pari a 8 + Costituzione, aggiungi 3 se hai messo 1 punto in Competenza Armi (CA).
 
-A questo punto scegli i \hyperlink{tratti}{Tratti} (pag. \pageref{tratti}). Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per la scelta del \hyperlink{patroni}{Patrono} (pag. \pageref{patroni}).
+A questo punto scegli i \hyperlink{tratti}{Tratti} (pag. \pageref{tratti}). Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per l'assegnazione automatica del \hyperlink{patroni}{Patrono reclamante} (pag. \pageref{patroni}).
 
-Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi il Patrono, o i Patroni, che ti collegano a quel Tratto, indipendentemente dal fatto che tu li abbia scelti o meno. Se il Tratto è condiviso da più Patroni, annotali tutti e usa gli altri Tratti per individuare l'affinità prevalente.
+Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi tutti i Patroni che condividono quel Tratto, senza interpretare l'annotazione come un'appartenenza o una scelta. Evidenzia il Patrono con il Tratto guida corrispondente al tuo Tratto dominante; in caso di parità applica la procedura descritta nel capitolo \hyperlink{tratti}{I Tratti}. Solo il Patrono reclamante può ricevere la tua adesione formale e concederti i poteri legati ai Tratti.
 
 Ricorda infine che un personaggio \emph{Dissoluto} e \emph{Leale} suona bene in un racconto dove è il solo protagonista, ma qui si gioca in \textbf{gruppo}. Non prendere Tratti in ovvia opposizione agli altri o, comunque, non giocare da \emph{stronzo}, altrimenti il personaggio verrà naturalmente allontanato dagli altri personaggi e dal Narratore.
 
@@ -10119,7 +10124,7 @@ Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 Benedici fino a tre creature a gittata, scelte da te. I bersagli guadagnano +1 ai Tiri Salvezza e Tiro per Colpire.
 
-Più benedizioni, anche da Patroni diversi non si sommano. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
+Più benedizioni non si sommano. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 \textbf{Per ogni Successo Critico Magico} ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio.
 
@@ -16484,11 +16489,11 @@ Infatti, come il corpo senza lo spirito è morto, così anche la fede senza le o
 
 Le creature tutte, anche chi non usa la magia può sentire l'influenza di questi Poteri, di questi Patroni.
 
-Ogni personaggio per il suo modo di essere (giocare) e comportarsi ha almeno un Tratto in comune con un Patrono e nel corso delle avventure e della sua evoluzione matura e potenzia queste convinzioni potrà sentire maggiormente l'influsso e gli effetti di un Patrono.
+Ogni personaggio per il suo modo di essere (giocare) e comportarsi ha almeno un Tratto in comune con uno o più Patroni. In base al Tratto dominante, alla procedura descritta nel capitolo \hyperlink{tratti}{I Tratti} e alla tabella seguente, un solo Patrono reclama il personaggio. Nel corso delle avventure, maturando e potenziando i propri Tratti, il personaggio potrà sentire maggiormente l'influsso e gli effetti del Patrono reclamante.
 
-Non è necessario che abbia giurato fedeltà a un Patrono o che ne sia Seguace o Devoto, sentirà comunque l'influenza del Patrono e riceverà dei doni da esso.
+Non è necessario che abbia giurato fedeltà al Patrono reclamante o che ne sia Seguace o Devoto: sentirà comunque la sua influenza e potrà ricevere i suoi doni.
 
-Un Patrono è ben contento se le creature seguono i suoi dettami, Tratti, e dona a coloro che lo fanno dei piccoli poteri come riconoscimento per la fedeltà a lui riservata, volutamente o meno. I poteri indicati sotto \emph{Tratti in Comune} sono cumulativi. Se non indicato diversamente i poteri sono usabili 1 volta al giorno e costano 2 Azioni.
+Un Patrono è ben contento se le creature seguono i suoi dettami e i suoi Tratti, e dona a coloro che lo fanno dei piccoli poteri come riconoscimento per la fedeltà a lui riservata, volutamente o meno. I poteri indicati sotto \emph{Tratti in Comune} sono cumulativi e si riferiscono al solo Patrono reclamante. Se non indicato diversamente i poteri sono usabili 1 volta al giorno e costano 2 Azioni.
 Quando è indicato un incantesimo questo viene manifestato senza Prove di Magia o penalità dovute ad armatura.
 
 Ogni \textbf{Patrono predilige uno o più forme energetiche}, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le \hyperlink{listeprivilegiate}{\emph{Liste Privilegiate}} (pag. \pageref{listeprivilegiate})\index{Liste Magia privilegiate}, ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
@@ -16503,20 +16508,20 @@ Nella descrizione del Patrono troverete anche la sua \textbf{manifestazione}, ov
 
 Sotto l'indicazione dell'arma preferita c'è l'indicazione della Regola \index{Regola} ovvero il comportamento che il Devoto deve cercare di rispettare.
 
-Un incantatore che si affida a un Patrono, almeno \textbf{2 Tratti} in comune, diventa un \textbf{Devoto}. Se ha almeno \textbf{1 Tratto} in comune e si affida a un Patrono allora si dice che è un \textbf{Seguace}. Il \textbf{Vantaggio} indicato è solo per il Devoto.
+Un personaggio può scegliere di aderire formalmente al Patrono reclamante. Con almeno \textbf{2 Tratti distinti} in comune può scegliere di essere un \textbf{Devoto}; con almeno \textbf{1 Tratto} in comune può scegliere di essere un \textbf{Seguace}. La scelta è volontaria e le due categorie sono alternative: non si può essere contemporaneamente Seguace e Devoto, né aderire a due Patroni diversi. Il \textbf{Vantaggio} indicato è solo per il Devoto.
 
 \begin{giocatore}[Devoti e Seguaci]
 Essere Devoti o Seguaci è una scelta vostra, nessuno ve la impone. Dovete sentirla come una occasione di gioco di ruolo, come un arricchimento del personaggio e non una costrizione. Essere Devoti o Seguaci non significa essere proni al volere del Patrono, anzi, significa essere ancora più convinto di propri Tratti, della propria personalità. \textbf{Un Patrono non chiede preghiere, ma chiede di essere se stessi}.
 \end{giocatore}
 
-Il personaggio potrebbe anche non seguire alcun Patrono pur avendo più Tratti in comune oppure potrebbe essere un Devoto o Seguace non del Patrono con cui hai più Tratti in comune od i Tratti a punteggio più alto. La scelta è sempre del personaggio e della sua sensibilità.
+Il personaggio può rifiutare l'adesione formale e non essere né Seguace né Devoto. Non può però sostituire il Patrono reclamante con un altro Patrono: il legame metafisico e i poteri derivanti dai Tratti fanno sempre riferimento al Patrono reclamante.
 
-Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere un Devoto, Seguace o semplicemente ateo, rappresentano i doni del Patrono a chi segue i suoi Tratti.
+Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere un Devoto, Seguace o privo di adesione formale: rappresentano i doni del Patrono reclamante a chi segue i suoi Tratti.
 
-Nulla vieta che un personaggio riceva più poteri da Patroni diversi! Ad alti livelli quando il personaggio ha un alto punteggio nei vari Tratti posseduti questo capiterà frequentemente. \index{Vantaggi}
+Un personaggio può ricevere più poteri cumulativi dal proprio Patrono reclamante quando aumenta la somma dei Tratti comuni. Non può ricevere poteri come se fosse reclamato da Patroni diversi né appartenere a più Patroni. \index{Vantaggi}
 
 \begin{narratore}[Adattarsi]
-Il Narratore può comunque concedere l'essere Seguace o Devoto pur se i Tratti non collimano perfettamente. Su richiesta del giocatore ed a sua discrezione può valutare la somiglianza di alcuni Tratti del personaggio a quelli del Patrono e valutarli idonei per esserne un Seguace o Devoto. In queste situazioni è necessario comprendere come il giocatore inquadra il personaggio e capire non solo se i Tratti ma anche il sentimento del personaggio è affine al Patrono scelto.
+Il Narratore può aiutare a interpretare come i Tratti del personaggio si manifestano rispetto al Patrono reclamante, soprattutto quando lo stesso Tratto assume significati diversi. Non può però trasformare un Patrono diverso in quello reclamante, ignorare il numero minimo di Tratti comuni o permettere una doppia appartenenza. L'adesione come Seguace o Devoto resta una scelta del giocatore.
 \end{narratore}
 
 %\begin{narratore}
@@ -16562,9 +16567,9 @@ Solo la luce che uno accende a se stesso, risplende in seguito anche per gli alt
 }\end{enfasi}
 
 
-La Dama della Luce, colei che irradia calore e amore. Generatrice delle pulsioni d'amore, protezione, gentilezza, gioia e perdono. Racchiude in sé l'aspetto protettivo di una madre, la forza e l'audacia di una combattente, la passionalità di una giovane amante, l'allegria e la ricerca del nuovo, la fantasia di una bambina. Ljust incarna la bellezza della vita ed ogni creatura che la contempla vede quella che per lei è la massima armonia e cade prona al suo fascino.
+La Dama della Luce, colei che irradia calore e amore. Generatrice delle pulsioni d'amore, protezione, gentilezza, gioia e perdono. Racchiude in sé l'aspetto protettivo di una madre, la forza e l'audacia di una combattente, la passionalità di una giovane amante, l'allegria e l'apertura verso il nuovo, la fantasia di una bambina. Ljust incarna la bellezza della vita ed ogni creatura che la contempla vede quella che per lei è la massima armonia e cade prona al suo fascino.
 
-Ljust può essere scelta solo da un personaggio con 4 Tratti in comune con lei, fondamentalmente si nasce per essere Devoti di Ljust. Nel corso delle ere Ljust decise di selezionare, scegliere e premiare le creature che più mostravano in modo innato e profondo amore per la vita, curiosità per il nuovo, forza incrollabile, dedizione, fiducia, rispetto e cura degli altri donando loro i poteri e la possibilità di studiare e crescere come Allieve della Luce. Queste Allieve devono seguire la regola degli 8 Passi.
+Ljust reclama soltanto un personaggio con almeno 4 Tratti in comune con lei. Nel corso delle ere Ljust decise di premiare le creature che più mostravano in modo innato e profondo amore per la vita, slancio verso il nuovo, forza incrollabile, dedizione, fiducia, rispetto e cura degli altri, donando loro i poteri e la possibilità di studiare e crescere come Allieve della Luce. Queste Allieve devono seguire la regola degli 8 Passi.
 
 La sua pazienza non è passività, ma la forza testarda di chi continua a proteggere la vita anche dopo ogni sconfitta. Ljust è aperta e socievole con ogni creatura, e la sua lealtà verso chi ha affidato a lei la propria vita non viene mai meno.
 
@@ -16576,7 +16581,7 @@ La sua pazienza non è passività, ma la forza testarda di chi continua a proteg
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una stella a 8 punte con 8 raggi luminosi
 \item \textbf{Caratteristica}(Devoto): Saggezza o Carisma
-\item \textbf{Tratti}: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente. Il Devoto di Ljust ha 4 Tratti in comune con il Patrono.
+\item \textbf{Tratto guida}: Compassionevole; \textbf{Tratti complementari}: Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente.
 \item \textbf{Manifestazione}: luce dorata inonda l'incantatore.
 \item \textbf{Somma dei Tratti in comune a 5 punti}: puoi lanciare l'incantesimo Luce come Reazione, 3 volte al giorno
 \item \textbf{Somma dei Tratti in comune a 10 punti}: guadagni un +2 ai Tiri Salvezza su Tempra
@@ -16621,14 +16626,14 @@ La superstizione è la religione degli spiriti deboli. (Edmund Burke)
 
 È oscuro, gelido e arrabbiato. Racchiude in sé odio, violenza, distruzione, vendetta e perenne insoddisfazione. Raccoglie la personalità capricciosa e scontenta di un bambino, la noia violenta e sadica di un giovane uomo, la forza distruttiva di un uragano e la rabbia di un combattente che non ha più nulla da perdere. Calicante solo con la presenza mette a disagio, ti fa sentire in pericolo, affascina ma con le armi della paura e dell'incostanza.
 
-Calicante può essere scelto solo dai personaggi che hanno 4 Tratti in comune con lui. I suoi Devoti sono i migliori assassini, sua professione più affine. Coloro che mostrano il maggiore sprezzo del pericolo e della vita altrui. I suoi prediletti sono coloro che sono temuti, odiati, coloro che sono violenti e crudeli ma mortalmente efficienti e decisivi in ogni situazione di combattimento.
+Calicante reclama soltanto personaggi che hanno almeno 4 Tratti in comune con lui. I suoi Devoti sono i migliori assassini, sua professione più affine: coloro che mostrano il maggiore sprezzo del pericolo e della vita altrui. I suoi prediletti sono coloro che sono temuti, odiati, violenti e crudeli, ma mortalmente efficienti e decisivi in ogni situazione di combattimento.
 
-Il suo egoismo è ambizioso e arrogante: Calicante vuole che ogni cosa appartenga a lui e non concede nulla senza un tornaconto. Disprezza la sincerità, accumula ciò che considera utile e trasforma ogni rapporto in un inganno, con una pazienza gelida che rende ancora più crudele la sua vendetta.
+Il suo egoismo è Ambizioso e Arrogante: Calicante vuole che ogni cosa appartenga a lui e non concede nulla senza un tornaconto. È Disonesto, accumula ciò che considera utile e trasforma ogni rapporto in un inganno; il suo Cinismo e la sua Pazienza gelida rendono ancora più spietata la sua Vendetta. La sua violenza distruttiva non aggiunge il Tratto Crudele al profilo: per Calicante la sofferenza è soprattutto uno strumento di possesso, dominio e annientamento.
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un turbine nero
 \item \textbf{Caratteristica}: Forza o Destrezza
-\item \textbf{Tratti}: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro. Il Devoto di Calicante ha 4 Tratti in comune con il Patrono
+\item \textbf{Tratto guida}: Ambizioso; \textbf{Tratti complementari}: Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro.
 \item \textbf{Manifestazione}: spada grondante di sangue nero
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi lanciare l'incantesimo Oscurità. Una volta al giorno
 \item \textbf{Somma dei Tratti in comune a 10 punti}: La tua arma si ammanta di ombra. Guadagni un +2 al Tiro per Colpire e +1d4 di danno da Vuoto per 2d6 round, Una volta al giorno.
@@ -16655,17 +16660,17 @@ Atmos ha il potere unico e riservato solo a lui di poter bandire dal creato un P
 
 Tutti i Patroni temono Atmos per il suo potere, il più terribile per loro, ovvero il loro alienamento, l'oblio, la dimenticanza, l'essere distolti dal tempo e dalla sfida.
 
-Per essere un Devoto di Atmos al momento del rito è necessario che il futuro Devoto possieda almeno quattro Tratti in comune con lui, amare la storia e la conoscenza.
+Atmos reclama soltanto un personaggio che possieda almeno quattro Tratti in comune con lui e ami la storia e la conoscenza.
 
 Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti scaffali della Biblioteca del Sapere con sempre uno strano misuratore del tempo appeso alla vita.
 
-Atmos osserva a lungo prima di decidere e spesso rimane indeciso davanti alle conseguenze di ogni scelta. È prudente e paziente nella custodia del sapere, ma intransigente e vendicativo quando qualcuno tenta di cancellare la storia; conserva gelosamente ogni documento e ogni informazione che riesce a raccogliere.
+Atmos osserva a lungo prima di decidere e spesso rimane Indeciso davanti alle conseguenze di ogni scelta. È Prudente e Paziente nella custodia del sapere, ma Intransigente e Vendicativo quando qualcuno tenta di cancellare o modificare la storia; la sua curiosità è metodica e la sua Avarizia lo porta a conservare gelosamente ogni documento e ogni informazione che riesce a raccogliere.
 
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un libro bianco con un orologio da taschino appoggiato sopra
 \item \textbf{Caratteristica}: Intelligenza o Saggezza
-\item \textbf{Tratti}: Indeciso, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro. Il Devoto di Atmos ha 4 Tratti in comune con il Patrono.
+\item \textbf{Tratto guida}: Indeciso; \textbf{Tratti complementari}: Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro.
 \item \textbf{Manifestazione}: l'incantesimo si sviluppa come a rallentatore, è solo un effetto illusorio
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Conosci sempre la data esatta e l'ora.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Hai una intuizione innata per la conoscenza. Hai +1d6 alle prove di Conoscenza
@@ -16684,18 +16689,18 @@ Atmos osserva a lungo prima di decidere e spesso rimane indeciso davanti alle co
 Le persone non fanno i viaggi, sono i viaggi che fanno le persone. (John Steinbeck)}
 \end{enfasi}
 
-Patrono dei Portali, è sceglibile solo da personaggi che abbiano almeno 3 Tratti in comune. È il primo Patrono generato da Ljust e Calicante, creato per proteggere la Terra dagli attacchi esterni.
+Patrono dei Portali, Lynx reclama soltanto personaggi che abbiano almeno 3 Tratti in comune con lui. È il primo Patrono generato da Ljust e Calicante, creato per proteggere la Terra dagli attacchi esterni.
 
 Serio, occhi gelidi di un azzurro chiarissimo è il Custode dei Portali e di ciò che è Oltre. Letale guardiano per chi cerca di passarli senza permesso, guida attenta per chi chiede il suo aiuto e il suo permesso. Si fa scudo delle sue cicatrici per allontanare tutti. È il solitario controllore del mondo.
 
 I suoi Devoti sono i viaggiatori per eccellenza, coloro che presidiano e proteggono la Terra da ciò che è alieno, da ciò che potrebbe disturbare la creazione.
 
-Pur essendo solitario, Lynx sa parlare con chi chiede guida e protezione e non rifiuta il confronto. È orgoglioso del proprio ruolo e della propria esperienza, sospettoso verso ogni intruso e prudente nel concedere fiducia; quando decide di agire, la sua determinazione non vacilla.
+La sua solitudine è una conseguenza del ruolo di guardiano. Lynx sa parlare con chi chiede guida e protezione: la sua Estroversione convive con il Cinismo verso gli intrusi. È Testardo e Intransigente nel difendere i confini, Vendicativo verso chi li viola e Vanitoso della propria esperienza; quando decide di agire, la sua determinazione non vacilla.
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un portale sull'oscurità
 \item \textbf{Caratteristica}: Destrezza o Intelligenza
-\item \textbf{Tratti}: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
+\item \textbf{Tratto guida}: Testardo; \textbf{Tratti complementari}: Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 \item \textbf{Manifestazione}: come se il panorama non avesse più orizzonte
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Una volta al giorno puoi eseguire un'Azione di Movimento in più
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Puoi lanciare Porta Dimensionale una volta al giorno
@@ -16716,8 +16721,8 @@ L'uomo che ha cessato di avere paura ha cessato di preoccuparsi. (Francis Herber
 
 Il primo Patrono creato da Atmos sotto la guida di Ljust e l'influenza di Calicante.
 
-Gradh racchiude in sé l'istinto innato alla protezione, alla difesa ed alla cura propri di Ljust. Gradh è quanto di più simile e profondamente legato a Ljust sia stato generato. Lui è equilibrio, razionalità ed empatia.
-Dove vi è difesa, cura e protezione vi è Gradh.
+Gradh racchiude in sé l'istinto innato alla protezione, alla difesa ed alla cura propri di Ljust. Gradh è quanto di più simile e profondamente legato a Ljust sia stato generato. Lui è equilibrio, razionalità e responsabilità: protegge per coraggio e senso del dovere, non perché sia necessariamente Altruista o Compassionevole.
+Dove vi è difesa, cura e protezione vi è Gradh, ma la sua protezione può assumere una forma Arrogante e severa.
 
 Ma Calicante non poteva permettere la creazione di un Patrono totalmente votato a Ljust e così infuse in Gradh la freddezza della vendetta e la furia della rabbia. Ecco che allora Gradh nell'atto di difendere l'umanità, spesso la deve in primis proteggere da sé stesso.
 
@@ -16727,12 +16732,12 @@ Passionale e freddo è forse il Patrono più umano del pantheon attuale. Il suo 
 
 Il Devoto di Gradh è fiero ed orgoglioso, indomito e protettivo, ed addolorato, perché per quanto si sforzi di portare equilibrio e pace il male continua sempre a prosperare.
 
-Gradh è vanitoso e arrogante nella certezza di poter difendere ciò che ama, ma la sua fierezza non gli impedisce di essere leale. Invidia chi distrugge vite senza pagarne il prezzo e, quando la protezione fallisce, la sua compassione si trasforma in una vendetta lucida e spietata.
+Gradh è Vanitoso e Arrogante nella certezza di poter difendere ciò che ama, ma la sua fierezza non gli impedisce di essere Leale. Invidia chi distrugge vite senza pagarne il prezzo e, quando la protezione fallisce, la sua cura si trasforma in una Vendetta lucida e spietata.
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Uno scudo con incise sopra due spirali intrecciate.
 \item \textbf{Caratteristica}: Forza
-\item \textbf{Tratti}: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
+\item \textbf{Tratto guida}: Coraggioso; \textbf{Tratti complementari}: Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 \item \textbf{Manifestazione}: due spire una nera come ombra e una lucente come scintilla circondano la tua arma intrecciandosi
 \item \textbf{Somma dei Tratti in comune a 5 punti} punti: Puoi lanciare l'incantesimo Cura Ferite da 3 Punti Magia, ma ti causa 1d6 di danno. 1 volta al giorno
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Per 10 minuti consecutivi hai un bonus di +1d6 ai Tiri Salvezza su Riflessi e Tempra. Una volta al giorno.
@@ -16768,7 +16773,7 @@ Atherim è sospettosa e non concede facilmente l'accesso ai propri segreti, ma v
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una mano di donna guantata che tiene un'ampolla ricca di flussi
 \item \textbf{Caratteristica}: Saggezza
-\item \textbf{Tratti}: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso
+\item \textbf{Tratto guida}: Sospettoso; \textbf{Tratti complementari}: Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso
 \item \textbf{Manifestazione}: un silenzio sereno e tranquillizzante cala attorno all'incantatore
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi aggiungere 1d6 a un Tiro salvezza dopo averlo tirato ma prima di sapere se ha avuto successo o meno. Una volta al giorno, come Reazione.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Guadagni 30 Punti Ferita temporanei. Durata 1 ora, una volta al giorno, come Azione Immediata.
@@ -16804,7 +16809,7 @@ La compassione, la pazienza e l'altruismo di Belevon sono spesso una maschera: s
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una gabbia dorata
 \item \textbf{Caratteristica}: Intelligenza
-\item \textbf{Tratti}: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
+\item \textbf{Tratto guida}: Invidioso; \textbf{Tratti complementari}: Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 \item \textbf{Manifestazione}: come se le sbarre dorate di una gabbia si intrecciassero attorno all'incantatore
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi lanciare l'incantesimo Prestidigitazione, 3 volte al giorno.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci la capacità lanciare l'incantesimo \hyperlink{Immagine Maggiore}{Immagine Maggiore} una volta al giorno.
@@ -16840,7 +16845,7 @@ Cattalm non ha fretta: lascia che la calamità maturi e che il caos compia il la
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un'onda gigante che sovrasta la costa
 \item \textbf{Caratteristica}: Forza
-\item \textbf{Tratti}: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
+\item \textbf{Tratto guida}: Cinico; \textbf{Tratti complementari}: Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 \item \textbf{Manifestazione}: il rombo del tuono
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Attraverso le tue armi indebolisci l'avversario designato. A seguito di un colpo critico puoi aumentare di un livello l'affaticamento. Una volta al giorno come Reazione.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco imputridisce cibo (fino a 50kg/Ingombro 10) e acqua (un cubo con uno spigolo di 10 m). Una volta al giorno
@@ -16871,12 +16876,12 @@ Un Devoto di Efrem rispetta la vita come la morte, nel processo naturale che è 
 
 Nelle terre più desolate, nelle regioni più naturali i Devoti di Efrem costruiscono utopie tra umanoidi e animali, dove l'equilibrio viene mantenuto con il sangue di qualsiasi che si ribelli al loro volere.
 
-Efrem è leale verso la natura e altruista verso le creature che la rispettano, ma il suo rigore lo rende intransigente. Può essere indeciso davanti a due equilibri possibili, oppure impulsivo quando vede una profanazione; la sua ambizione è restituire alla natura il dominio che ritiene dovuto.
+Efrem è Leale verso la natura e Paziente nel difenderla. La sua Prudenza può renderlo Indeciso davanti a due equilibri possibili, oppure Impulsivo quando vede una profanazione; la sua Ambizione è restituire alla natura il dominio che ritiene dovuto.
 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una staffa con un rampicante attorcigliato attorno
 \item \textbf{Caratteristica}: Costituzione
-\item \textbf{Tratti}: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
+\item \textbf{Tratto guida}: Leale; \textbf{Tratti complementari}: Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
 \item \textbf{Manifestazione}: spire di foglie avvolgono l'arma
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Il tuo tocco rende docili gli animali non magici. Tiro Salvezza su Volontà 20 per resistere. 3 volte al giorno. Costo 2 Azioni.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Guadagni un +1d6 a tutte le prove di Sopravvivenza che si effettuano in un ambiente naturale.
@@ -16908,7 +16913,7 @@ Erondil protegge con compassione le opere affidate alle sue cure ed è leale ver
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: un castello di sabbia con un fulmine sopra
 \item \textbf{Caratteristica}: Saggezza
-\item \textbf{Tratti}: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
+\item \textbf{Tratto guida}: Arrogante; \textbf{Tratti complementari}: Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 \item \textbf{Manifestazione}: suono di tempesta e rombo di frana
 \item \textbf{Somma dei Tratti in comune 5 punti}: Non temi più le cadute. Puoi lanciare l'incantesimo Caduta Piuma 3 volte al giorno, solo su di te.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco plasma la pietra. Puoi lanciare l'incantesimo Passa Porta 1 volta al giorno.
@@ -16950,7 +16955,7 @@ La generosità di Gaya si vede quando condivide la bellezza delle proprie opere,
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: un pennello sul cielo
 \item \textbf{Caratteristica}: Intelligenza
-\item \textbf{Tratti}: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
+\item \textbf{Tratto guida}: Altruista; \textbf{Tratti complementari}: Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 \item \textbf{Manifestazione}: spire di fuoco e acqua avvolgono l'incantatore
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi creare fino a 5 litri di acqua o 1 litro di liquore di buona qualità. Una volta al giorno. Costo 2 Azioni.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo metabolismo non teme il freddo. Resisti al Danno magico da freddo e sei immune a quello naturale.
@@ -16986,7 +16991,7 @@ Krondal è paziente nel lasciare che ogni scelta mostri le proprie conseguenze, 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una spada tenuta verticalmente davanti a se
 \item \textbf{Caratteristica}: Carisma
-\item \textbf{Tratti}: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
+\item \textbf{Tratto guida}: Intransigente; \textbf{Tratti complementari}: Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 \item \textbf{Manifestazione}: il mantello o veste del Devoto diventa pulito e lucente
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Maledici il tuo avversario. Lanci una volta al giorno l'incantesimo \hyperlink{Scagliare Maledizione}{Scagliare Maledizione}. DC 20 per resistere.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Non vuoi essere legato o ammanettato. Due volte al giorno puoi lanciare solo su te stesso Libertà di Movimento.
@@ -17018,8 +17023,8 @@ Ledyal affronta i conflitti con prudenza e spesso evita lo scontro diretto, ma r
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una farfalla che gronda sangue mentre vola
 \item \textbf{Caratteristica}: Saggezza (Ledyal) - Forza (Laydel)
-\item \textbf{Tratti Ledyal}: Entusiasta, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
-\item \textbf{Tratti Laydel}: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
+\item \textbf{Tratto guida Ledyal}: Entusiasta; \textbf{Tratti complementari}: Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
+\item \textbf{Tratto guida Laydel}: Vendicativo; \textbf{Tratti complementari}: Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 \item \textbf{Manifestazione}: come se un mantello di farfalle avvolgesse il Devoto
 \item \textbf{Somma dei Tratti in comune a 5 punti} punti: Il tuo tocco è vita/attacco. 3 volte al giorno puoi toccare una creatura vivente e curarla/causare 1d6 Punti Ferita. Costo 2 Azioni (comprende anche l'Azione di tocco)
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco è pace. Puoi lanciare 2 volte al giorno l'incantesimo Santuario.
@@ -17061,7 +17066,7 @@ Nethergal è paziente nel raccogliere informazioni e testarda nel portare a term
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: una piuma bianca cangiante
 \item \textbf{Caratteristica}: Destrezza
-\item \textbf{Tratti}: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
+\item \textbf{Tratto guida}: Estroverso; \textbf{Tratti complementari}: Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
 \item \textbf{Manifestazione}: cascata di piume, un'oca in volo
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi inviare un messaggio di massimo 144 caratteri a un soggetto che puoi vedere entro 50 metri, senza essere udito né visto. Una volta all'ora. Costo 1 Azione. Il soggetto deve comprendere la lingua usata.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Mettendo la mano su un libro ne apprendi il contenuto come se lo avessi letto. Un libro a settimana. Perdi le conoscenze così acquisite dopo una settimana. Tempo 1 round. La lingua scritta del tomo deve essere nota.
@@ -17100,7 +17105,7 @@ Nedraf è paziente nell'attendere il momento giusto, ma intransigente quando la 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: una mano forte, avvolta in una benda sporca di sangue che brandisce una spada
 \item \textbf{Caratteristica}: Costituzione
-\item \textbf{Tratti}: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
+\item \textbf{Tratto guida}: Paziente; \textbf{Tratti complementari}: Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
 \item \textbf{Manifestazione}: si spande nell'aria odore di sangue e metallo
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi portare armature leggere senza penalità alla Prova di Magia
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Acquisisci un punto bonus su una Lista d'Armi. Può essere nota o meno
@@ -17128,7 +17133,7 @@ Dietro l'allegria Nihar nasconde invidia verso chi ottiene gloria senza sforzo e
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una daga appoggiata vicino a un calice di vino
 \item \textbf{Caratteristica}: Intelligenza
-\item \textbf{Tratti}: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
+\item \textbf{Tratto guida}: Curioso; \textbf{Tratti complementari}: Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
 \item \textbf{Manifestazione}: il suono di un brindisi o lo stappare di una bottiglia
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi trasformare l'acqua in vino. Un litro al giorno. Costo 2 Azioni. 2 volte al giorno.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Con un'Azione Immediata, ottieni un bonus di +2d6 a una prova di Competenza in quel round. 3 volte al giorno.
@@ -17166,7 +17171,7 @@ La compassione di Orudjs è una recita che gli permette di conquistare fiducia, 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una maschera teatrale bianca con solo la bocca aperta e gli occhi chiusi
 \item \textbf{Caratteristica}: Carisma
-\item \textbf{Tratti}: Impulsivo, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
+\item \textbf{Tratto guida}: Impulsivo; \textbf{Tratti complementari}: Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
 \item \textbf{Manifestazione}: il suono di una risata profonda e contagiosa
 \item \textbf{Somma dei Tratti in comune a 5 punti} punti: Il tuo eloquio è già leggendario. +2 alle prove di Intrattenere.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Puoi lanciare Immagine Silenziosa 3 volte al giorno.
@@ -17196,7 +17201,7 @@ Orlaith pretende ordine e giustizia in pubblico, ma può essere dissoluto nella 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una mano stesa su un libro chiuso
 \item \textbf{Caratteristica}: Forza
-\item \textbf{Tratti}: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
+\item \textbf{Tratto guida}: Vanitoso; \textbf{Tratti complementari}: Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 \item \textbf{Manifestazione}: l'immagine di una stadera, sbilanciata.
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Richiami a te 1 \hyperlink{Mastino}{mastino} che obbedisce ai tuoi comandi. Durata 1 minuto. Una volta al giorno. Costo 2 Azioni.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Un paio di manette si manifesta attorno ai polsi della creatura (massimo taglia grande) entro 27 metri. Tiro Salvezza Riflessi DC 25 per annullare. Costo 2 Azioni. Una volta al giorno. Forza/Artista della Fuga DC 20 per liberarsi.
@@ -17228,7 +17233,7 @@ Rezh è paziente nel perseguire un profitto e può rimanere indecisa solo quando
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: una pila di monete con un ratto vicino
 \item \textbf{Caratteristica}: Intelligenza
-\item \textbf{Tratti}: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
+\item \textbf{Tratto guida}: Avaro; \textbf{Tratti complementari}: Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
 \item \textbf{Manifestazione}: un rumore di monete che cadono avvolge l'incantatore
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Sei un esperto di monete e gemme, nessun falsario può ingannarti. +1d6 alle prove di Consapevolezza e Conoscenza relative.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Usi le gemme come ricettacoli. Puoi scaricare un incantesimo di 3 livello o inferiore in una gemma, che deve avere valore minimo di 10mo x livello dell'incantesimo. La gemma conserva l'incantesimo per 6 ore. Per attivare la gemma usi 2 azioni e viene eseguito l'incantesimo che contiene consumando la gemma.
@@ -17280,7 +17285,7 @@ Mentre \textbf{Efrem} è il patrono della natura selvaggia, Shayalia incarna la 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: un cuscino stropicciato sporco di sangue
 \item \textbf{Caratteristica}: Carisma
-\item \textbf{Tratti}: Dissoluto, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
+\item \textbf{Tratto guida}: Dissoluto; \textbf{Tratti complementari}: Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
 \item \textbf{Manifestazione}: il Devoto è avvolto da un mantello di velluto nero
 \item \textbf{Somma dei Tratti in comune a 5 punti} punti: I tempi per preparare una pozione sono dimezzati. Gli incantesimi di Cura hanno effetto anche su animali e piante.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco è vita per la natura. I tuoi incantesimi di cura agiscono su animali e piante naturali in maniera massimizzata.
@@ -17321,7 +17326,7 @@ I Devoti di Sixiser sono spesso negromanti circondati da non morti ed altre crea
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un forziere straripante di ogni cosa che non si può chiudere
 \item \textbf{Caratteristica}: Saggezza
-\item \textbf{Tratti}: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
+\item \textbf{Tratto guida}: Prudente; \textbf{Tratti complementari}: Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
 \item \textbf{Manifestazione}: due mani che circondano, come a nascondere, la testa dell'incantatore
 \item \textbf{Somma dei Tratti in comune a 5 punti} punti: acquisisci la visione crepuscolare fino a 9 metri, o 18 metri se già presente.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: vedi nell'oscurità anche magica entro 9 metri. Individui automaticamente le trappole non magiche entro 3 metri da te.
@@ -17366,7 +17371,7 @@ Sumkjr è sospettoso verso chi dichiara di agire per il bene senza dimostrarlo, 
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: tre gocce di sangue che cadono una dietro l'altra
 \item \textbf{Caratteristica}: Carisma
-\item \textbf{Tratti}: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
+\item \textbf{Tratto guida}: Gentile; \textbf{Tratti complementari}: Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
 \item \textbf{Manifestazione}: il Devoto è avvolto da un mantello di broccato dorato
 \item \textbf{Somma dei Tratti in comune a 2 punti}: Il tocco della tua spada è vita. Una creatura toccata con la tua arma recupera 3d6 Punti Ferita. Una volta al giorno. Costo 2 Azioni.
 \item \textbf{Somma dei Tratti in comune a 7 punti}: La tua Volontà è più forte del metallo. Guadagni un +2 ai Tiri Salvezza su Volontà
@@ -17413,7 +17418,7 @@ Tàhil è disonesto perché non promette mai ciò che intende concedere, arrogan
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Una svastica
 \item \textbf{Caratteristica}: Forza
-\item \textbf{Tratti}: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
+\item \textbf{Tratto guida}: Vendicativo; \textbf{Tratti complementari}: Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 \item \textbf{Manifestazione}: un rumore di tuono
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Puoi aggiungere 1d6 a un Tiro per Colpire. Una volta al giorno, prima di effettuare il Tiro per Colpire, come Azione Immediata.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Tre volte al giorno, prima di effettuare il Tiro per Colpire, puoi dichiarare di colpire. Azione Immediata
@@ -17449,7 +17454,7 @@ Tazher è paziente nell'attendere dall'ombra e indeciso solo finché non ha valu
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Lo scintillio della lama nel buio
 \item \textbf{Caratteristica}: Destrezza
-\item \textbf{Tratti}: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
+\item \textbf{Tratto guida}: Disonesto; \textbf{Tratti complementari}: Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
 \item \textbf{Manifestazione}: l'ombra del Devoto prende vita muovendo l'arma
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Guadagni +2 alle prove di Furtività.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: La tua Scurovisione diventa di 6 metri.
@@ -17483,7 +17488,7 @@ Thaft evita il pericolo quando può e preferisce osservare prima di agire, ma ne
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Un libro aperto con un teschio sopra
 \item \textbf{Caratteristica}: Saggezza
-\item \textbf{Tratti}: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
+\item \textbf{Tratto guida}: Codardo; \textbf{Tratti complementari}: Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 \item \textbf{Manifestazione}: si sente il pianto di un bambino appena nato o il sospiro della morte
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Il tuo tocco è letale per i non morti. Un tuo tocco infligge 2d6 di danno a un non morto. Costo 2 Azioni compreso il tocco. Fino a 3 volte al giorno.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo tocco lenisce. Una volta al giorno puoi rimuovere Cecità o Sordità. Costo 2 Azioni.
@@ -17517,7 +17522,7 @@ Torbiorn conserva una forma di compassione, ma la concede solo alle opere o alle
 \begin{itemize}[leftmargin=*] \setlength{\itemsep}{0pt}
 \item \textbf{Simbolo}: Uno specchio opaco
 \item \textbf{Caratteristica}: Carisma
-\item \textbf{Tratti}: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
+\item \textbf{Tratto guida}: Crudele; \textbf{Tratti complementari}: Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 \item \textbf{Manifestazione}: schegge di specchio rotto tutto intorno al Devoto come un turbine
 \item \textbf{Somma dei Tratti in comune a 5 punti}: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione. 3 volte al giorno.
 \item \textbf{Somma dei Tratti in comune a 10 punti}: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno subisce -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.
@@ -17542,117 +17547,117 @@ In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Va
 
 \smallskip
 
-I Patroni sono indicati in ordine alfabetico per Tratto maggiormente caratterizzante.
+Il primo Tratto indicato per ogni Patrono è il suo \textbf{Tratto guida}: è il Tratto dominante che permette di individuare quale Patrono può reclamare il personaggio. Gli altri sono \textbf{Tratti complementari}: servono a confrontare le affinità in caso di parità e a calcolare la somma dei Tratti comuni. Il primo Tratto è in evidenza per rendere chiara la distinzione.
 
 \medskip
 
 \setlength{\parindent}{0cm}{
 
-\textbf{\hyperlink{gaya}{Gaya}}: Altruista, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
+\textbf{\hyperlink{gaya}{Gaya}}: \textbf{Altruista}, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 
 \smallskip
 
-\textbf{\hyperlink{calicante}{Calicante}}: Ambizioso, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
+\textbf{\hyperlink{calicante}{Calicante}}: \textbf{Ambizioso}, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
 
 \smallskip
 
-\textbf{\hyperlink{erondil}{Erondil}}: Arrogante, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
+\textbf{\hyperlink{erondil}{Erondil}}: \textbf{Arrogante}, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 
 \smallskip
 
-\textbf{\hyperlink{rezh}{Rezh}}: Avaro, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
+\textbf{\hyperlink{rezh}{Rezh}}: \textbf{Avaro}, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
 
 \smallskip
 
-\textbf{\hyperlink{sixiser}{Sixiser}}: Prudente, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
+\textbf{\hyperlink{sixiser}{Sixiser}}: \textbf{Prudente}, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
 
 \smallskip
 
-\textbf{\hyperlink{cattalm}{Cattalm}}: Cinico, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
+\textbf{\hyperlink{cattalm}{Cattalm}}: \textbf{Cinico}, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 
 \smallskip
 
-\textbf{\hyperlink{ljust}{Ljust}}: Compassionevole, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
+\textbf{\hyperlink{ljust}{Ljust}}: \textbf{Compassionevole}, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
 
 \smallskip
 
-\textbf{\hyperlink{gradh}{Gradh}}: Coraggioso, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
+\textbf{\hyperlink{gradh}{Gradh}}: \textbf{Coraggioso}, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 
 \smallskip
 
-\textbf{\hyperlink{nihar}{Nihar}}: Curioso, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
+\textbf{\hyperlink{nihar}{Nihar}}: \textbf{Curioso}, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
 
 \smallskip
 
-\textbf{\hyperlink{tazher}{Tazher}}: Disonesto, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
+\textbf{\hyperlink{tazher}{Tazher}}: \textbf{Disonesto}, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
 
 \smallskip
 
-\textbf{\hyperlink{shayalia}{Shayalia}}: Dissoluto, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
+\textbf{\hyperlink{shayalia}{Shayalia}}: \textbf{Dissoluto}, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
 
 \smallskip
 
-\textbf{\hyperlink{ledyal}{Ledyal}}: Entusiasta, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
+\textbf{\hyperlink{ledyal}{Ledyal}}: \textbf{Entusiasta}, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
 
 \smallskip
 
-\textbf{\hyperlink{nethergal}{Nethergal}}: Estroverso, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
+\textbf{\hyperlink{nethergal}{Nethergal}}: \textbf{Estroverso}, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
 
 \smallskip
 
-\textbf{\hyperlink{sumkjr}{Sumkjr}}: Gentile, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
+\textbf{\hyperlink{sumkjr}{Sumkjr}}: \textbf{Gentile}, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
 
 \smallskip
 
-\textbf{\hyperlink{atmos}{Atmos}}: Indeciso, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
+\textbf{\hyperlink{atmos}{Atmos}}: \textbf{Indeciso}, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
 
 \smallskip
 
-\textbf{\hyperlink{krondal}{Krondal}}: Intransigente, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
+\textbf{\hyperlink{krondal}{Krondal}}: \textbf{Intransigente}, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 
 \smallskip
 
-\textbf{\hyperlink{belevon}{Belevon}}: Invidioso, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
+\textbf{\hyperlink{belevon}{Belevon}}: \textbf{Invidioso}, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 
 \smallskip
 
-\textbf{\hyperlink{orudjs}{Orudjs}}: Impulsivo, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
+\textbf{\hyperlink{orudjs}{Orudjs}}: \textbf{Impulsivo}, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
 
 \smallskip
 
-\textbf{\hyperlink{efrem}{Efrem}}: Leale, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
+\textbf{\hyperlink{efrem}{Efrem}}: \textbf{Leale}, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
 
 \smallskip
 
-\textbf{\hyperlink{torbiorn}{Torbiorn}}: Crudele, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
+\textbf{\hyperlink{torbiorn}{Torbiorn}}: \textbf{Crudele}, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 
 \smallskip
 
-\textbf{\hyperlink{nedraf}{Nedraf}}: Paziente, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
+\textbf{\hyperlink{nedraf}{Nedraf}}: \textbf{Paziente}, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
 
 \smallskip
 
-\textbf{\hyperlink{atherim}{Atherim}}: Sospettoso, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
+\textbf{\hyperlink{atherim}{Atherim}}: \textbf{Sospettoso}, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
 
 \smallskip
 
-\textbf{\hyperlink{thaft}{Thaft}}: Codardo, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
+\textbf{\hyperlink{thaft}{Thaft}}: \textbf{Codardo}, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 
 \smallskip
 
-\textbf{\hyperlink{lynx}{Lynx}}: Testardo, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
+\textbf{\hyperlink{lynx}{Lynx}}: \textbf{Testardo}, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 
 \smallskip
 
-\textbf{\hyperlink{orlaith}{Orlaith}}: Vanitoso, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
+\textbf{\hyperlink{orlaith}{Orlaith}}: \textbf{Vanitoso}, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 
 \smallskip
 
-\textbf{\hyperlink{laydel}{Laydel}}: Vendicativo, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
+\textbf{\hyperlink{laydel}{Laydel}}: \textbf{Vendicativo}, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 
 \smallskip
 
-\textbf{\hyperlink{tahil}{Tàhil}}: Vendicativo, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
+\textbf{\hyperlink{tahil}{Tàhil}}: \textbf{Vendicativo}, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
 
 }
 
