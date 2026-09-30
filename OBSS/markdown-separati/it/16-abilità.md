@@ -4,7 +4,7 @@
 
 Le Abilità sono capacità peculiari, frutto di allenamento o doti particolari. Le Abilità hanno sempre un effetto pratico.
 
-Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, vanno scelte con attenzione e cura. È scegliendo le Abilità che si stabilisce lo stile e capacità del personaggio, se lo si vuole più guerriero o mago o curatore... o qualsivoglia combinazione e *unicità*.
+Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, vanno scelte con attenzione e cura. È scegliendo le Abilità che si stabilisce lo stile e capacità del personaggio, se lo si vuole più guerriero o mago o curatore… o qualsivoglia combinazione e *unicità*.
 
 **Al primo livello si prendono due Abilità**. Successivamente si prende una Abilità ai livelli 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 15, 16, 18, 20. Questa può essere un'Abilità già conosciuta oppure una nuova Abilità appresa durante le avventure.
 
@@ -12,7 +12,7 @@ Le Abilità costituiscono una buona parte di ciò che può fare il personaggio, 
 Eventuali requisiti successivi vengono indicati volta per volta.
 
 Non prendete le Abilità in base al potere, forza, combinazione con altre ma perché in linea con la storia del personaggio.
-Scegliere un'accozzaglia di Abilità solo perché forti non rende un personaggio potente ma sbilanciato, non fate il power-player ad ogni costo.
+Scegliere un'accozzaglia di Abilità solo perché forti non rende un personaggio potente ma sbilanciato, non fate il power-player a ogni costo.
 
 **Le Abilità devono essere prese in base al percorso evolutivo del personaggio, in base a quanto vissuto ed appreso durante le avventure.**
 
@@ -22,7 +22,7 @@ Le capacità fornite dalle Abilità se non descritto diversamente sono cumulativ
 
 ## Come leggere le Abilità
 
-Ogni Abilità ha presente una riga di **Requisito**, una di **Tiri Salvezza** ed una di **Caratteristica**.
+Ogni Abilità ha presente una riga di **Requisito**, una di **Tiri Salvezza** e una di **Caratteristica**.
 
 I Requisiti sono ciò che il personaggio già deve avere prima di poter prendere quest'Abilità, i Tiri Salvezza indicano quali e con che punteggio i Tiri Salvezza aumentano quando si prende l'Abilità. Ed infine
 
@@ -31,7 +31,7 @@ Ogni Abilità ha segnato una nota tipo ***Caratteristica*** con a fianco l'indic
 ## Aggiungere nuove Abilità
 
 Questo elenco non potrà mai essere esaustivo data la fantasia dei giocatori! Cercate però di capire se quello che il giocatore vuole è una Abilità o Competenza, l'avere una capacità o sapere fare qualcosa di particolare.
-Valutate bene i prerequisiti ed i vantaggi che concede, cercate sempre di essere bilanciati, piuttosto concedete dei vantaggi a scalare, ovvero prendendo più volte l'Abilità.
+Valutate bene i prerequisiti e i vantaggi che concede, cercate sempre di essere bilanciati, piuttosto concedete dei vantaggi a scalare, ovvero prendendo più volte l'Abilità.
 
 Ricordatevi anche di segnare i bonus relativi ai Tiri Salvezza. Solitamente una Abilità concreta e pratica concede un bonus di +3 divisi tra 2 Tiri Salvezza, una Abilità più generica concede 2 punti da dividere tra un solo Tiro Salvezza o due.
 
@@ -147,7 +147,7 @@ Costa 2 Azioni cambiare forma e prima di passare da una forma all'altra è neces
 
 Il personaggio conserva i propri Tratti, personalità, Abilità (ma non è detto che la nuova forma gli permetta di usarle) e caratteristiche mentali.
 
-Se la creatura possiede una competenza che anche il personaggio possiede ed il bonus della creatura è superiore a quello del personaggio allora usa il bonus della creatura anziché il proprio. Se la creatura possiede delle azioni aggiuntive o di tana, il personaggio non può usarle.
+Se la creatura possiede una competenza posseduta anche dal personaggio e il suo bonus è superiore, il personaggio usa il bonus della creatura anziché il proprio. Se la creatura possiede azioni aggiuntive o azioni di tana, il personaggio non può usarle.
 
 Qualsiasi azione che richieda le mani è limitata alle capacità della sua nuova forma. La trasformazione non interrompe la concentrazione del personaggio su un incantesimo che egli ha già lanciato e non gli impedisce di effettuare azioni che fanno parte di un incantesimo già lanciato, come per esempio Invocare il Fulmine.
 
@@ -164,7 +164,7 @@ Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la tra
 | **Tiri Salvezza**: | +1 Volontà, +1 Tempra |
 | **Caratteristica**: | Intelligenza o Modificatore di caratteristica per incantesimi |
 
-La **prima volta** che prendi questa Abilità guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari ad un quarto della tua Saggezza, con un minimo di 1/4. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
+La **prima volta** che prendi questa Abilità guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari a un quarto della tua Saggezza, con un minimo di 1/4. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
 
 La **seconda volta** che prendi questa Abilità guadagni un Famiglio .
 
@@ -268,7 +268,7 @@ Hai una particolare connessione con la magia che permea la Terra.
 
 La prima volta che prendi questa Abilità aumenti di 3 i punti Magia a disposizione.
 
-L'Abilità può essere presa più volte ed il totale deve essere pari o inferiore a CM/3.
+L'Abilità può essere presa più volte e il totale deve essere pari o inferiore a CM/3.
 
 ## Batteria Estesa
 
@@ -400,7 +400,7 @@ La **terza volta** il primo attacco effettuato con l'arma secondaria non cumula 
 
 Scegli una Lista di Magia, la DC dei Tiri Salvezza dei tuoi incantesimi in quella lista aumenta di 1.
 
-L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre liste ed il totale deve essere pari o inferiore a CM/4.
+L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre liste e il totale deve essere pari o inferiore a CM/4.
 
 ## Conoscenza istintiva
 
@@ -507,7 +507,7 @@ Ha un bonus di +1d6 nel comprendere il contenuto di una pergamena e nel lanciare
 | **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
 | **Caratteristica**: | Destrezza o Saggezza |
 
-Ogni qual volta la cavalcatura viene colpita, puoi effettuare una prova di Cavalcare per negare il colpo.
+Ogniqualvolta la cavalcatura viene colpita, puoi effettuare una prova di Cavalcare per negare il colpo.
 
 La tua prova di Cavalcare deve essere maggiore del Tiro per Colpire dell'avversario
 
@@ -535,7 +535,7 @@ Sei più che competente nel distillare pozioni.
 
 La **prima volta** che prendi questa Abilità acquisisci un bonus di +1d6 su Conoscenze Erboristeria, distillare e creare pozioni e veleni naturali.
 
-La **seconda volta** che prendi l'Abilità il tempo per preparare le pozioni/veleni viene dimezzato ed in caso di Fallimento Critico non ci si espone al prodotto. Dedicando un'ora al giorno puoi creare una Pozione generica di Cura od una Indebolente con le erbe che trovi lì intorno. Questa pozione *scade* all'alba del giorno dopo la creazione.
+La **seconda volta** che prendi l'Abilità il tempo per preparare le pozioni/veleni viene dimezzato ed in caso di Fallimento Critico non ci si espone al prodotto. Dedicando un'ora al giorno puoi creare una Pozione generica di Cura o una Indebolente con le erbe che trovi lì intorno. Questa pozione *scade* all'alba del giorno dopo la creazione.
 
 ## Doppia porzione
 
@@ -579,13 +579,13 @@ Recuperi 1 punto Chi ogni 10 minuti in cui il personaggio non effettua attività
 
 La **prima volta** che prendi questa Abilità concentri il tuo Chi nelle tue mani. Puoi concentrare un numero di punti Chi pari alla Saggezza.
 
-Con un Attacco a Tocco andato a segno, nel round scarichi l'energia che causa 1d6 danni da forza per punto Chi usato, fino ad un massimo di punti Chi pari al punteggio di Saggezza.
+Con un Attacco a Tocco andato a segno, nel round scarichi l'energia che causa 1d6 danni da forza per punto Chi usato, fino a un massimo di punti Chi pari al punteggio di Saggezza.
 
 Il colpo si considera come portato da un'arma magica con un bonus pari ai punti Chi usati.
 
 La **seconda volta** che prendi questa Abilità, requisito Colpo Psichico, Saggezza 3, Competenza Armi 2, se il Tiro per Colpire va a segno consumi un punto Chi in meno.
 
-La **terza volta** che prendi questa Abilità, Competenza Armi 3, se il Tiro per Colpire va a segno consumi due punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari ad una volta e mezza il valore della Saggezza.
+La **terza volta** che prendi questa Abilità, Competenza Armi 3, se il Tiro per Colpire va a segno consumi due punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari a una volta e mezza il valore della Saggezza.
 
 La **quarta volta** che prendi questa Abilità, Competenza Armi 7, Saggezza 4, se il Tiro per Colpire va a segno consumi tre punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari al doppio del valore della Saggezza.
 
@@ -672,7 +672,7 @@ L'avversario può non comprendere la tua lingua ma deve avere Intelligenza pari 
 
 La tua connessione con il Patrono è forte ed energetica. Aumenti i tuoi Punti Magia di 3 punti.
 
-L'Abilità può essere presa più volte ed il totale deve essere pari o inferiore alla somma dei Tratti comuni con il Patrono/3.
+L'Abilità può essere presa più volte e il totale deve essere pari o inferiore alla somma dei Tratti comuni con il Patrono/3.
 
 Questa Abilità non si cumula con l'Abilità Batteria Magica.
 
@@ -706,9 +706,9 @@ Il giocatore può scegliere un solo grado di Ferocia da usare nello scontro (2, 
 
 Hai una profonda ed istintiva connessione con il mondo naturale.
 
-La **prima volta** che prendi questa Abilità ottieni un +2 alle prove di Natura ed un +2 ai Tiri Salvezza contro veleni naturali.
+La **prima volta** che prendi questa Abilità ottieni un +2 alle prove di Natura e un +2 ai Tiri Salvezza contro veleni naturali.
 
-La **seconda volta** che prendi questa Abilità, requisito somma Tratti in comune 6, ottieni un +4 alle prove di Natura ed un +4 ai Tiri Salvezza contro effetti, anche magici, causati da Animali o Piante.
+La **seconda volta** che prendi questa Abilità, requisito somma Tratti in comune 6, ottieni un +4 alle prove di Natura e un +4 ai Tiri Salvezza contro effetti, anche magici, causati da Animali o Piante.
 
 La **terza volta** che prendi questa Abilità, requisito somma Tratti in comune 12, sei sempre sotto l'effetto dell'incantesimo Santuario verso qualsiasi animale non magico.
 
@@ -830,7 +830,7 @@ L'arco/balestra deve già essere in mano.
 
 Il tuo stile di combattimento è rappresentato dalla cieca furia omicida.
 
-Aggiungi +1d6 al danno ad ogni attacco andato a segno in mischia ed i tuoi avversari guadagnano +1d6 al colpire verso di te.
+Aggiungi +1d6 al danno a ogni attacco andato a segno in mischia e i tuoi avversari guadagnano +1d6 al colpire verso di te.
 
 Puoi decidere di attivare questa Abilità round per round. Costa 1 Azione Immediata e dura fino all'inizio del tuo round successivo.
 
@@ -864,7 +864,7 @@ La **terza volta** che prendi questa Abilità, requisito Competenza Armi 6, Comp
 
 La **quarta volta** che prendi questa Abilità non è necessario più effettuare la Prova di Magia per scaricare l'incantesimo con l'arma.
 
-Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità ed il tempo di lancio dell'incantesimo non può essere superiore alle 2 Azioni.
+Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità e il tempo di lancio dell'incantesimo non può essere superiore alle 2 Azioni.
 
 ## Gru d'Argento
 
@@ -1035,7 +1035,7 @@ Se i tuoi Tratti sono in comune con un Patrono positivo puoi convogliare energia
 
 Usabile un numero di volte al giorno pari alla (somma dei Tratti in comune con il Patrono)/2.
 
-La **prima volta** che prendi questa Abilità attraverso l'imposizione delle mani puoi curare/ferire 5 Punti Ferita ad una creatura. Puoi applicare più usi con il singolo tocco.
+La **prima volta** che prendi questa Abilità attraverso l'imposizione delle mani puoi curare/ferire 5 Punti Ferita a una creatura. Puoi applicare più usi con il singolo tocco.
 
 L'Abilità presa più volte permette di togliere specifiche condizioni che affliggono la creatura facendo consumare più usi.
 
@@ -1071,7 +1071,7 @@ Tramite l'Imposizione delle mani crei un'aura istantanea nel raggio di 3 metri a
 
 Ogni volta che prendi questa Abilità, oltre la prima, aumenti il raggio di 1 metro e puoi escludere una creatura dall'effetto dell'aura.
 
-L'energia proviene dal tuo corpo ed influenza te stesso e le creature intorno a te. Tiro Salvezza su Riflessi DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto.  2 Azioni.
+L'energia proviene dal tuo corpo e influenza te stesso e le creature intorno a te. Tiro Salvezza su Riflessi DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto.  2 Azioni.
 
 ## Infondere Coraggio
 
@@ -1107,9 +1107,9 @@ La **prima volta** che prendi questa Abilità puoi usare due Punti Magia e canal
 
 Per la durata di 6 round la tua arma diviene un'arma magica +1, se possiede già capacità magiche l'effetto non funziona.
 
-La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 4, puoi usare quattro Punti Magia ed un'arma con cui vieni a contatto diventa un'arma +2 per 6 round, se è già incantata acquisisce un bonus ulteriore di +1 fino ad un massimo di +3.
+La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 4, puoi usare quattro Punti Magia e un'arma con cui vieni a contatto diventa un'arma +2 per 6 round, se è già incantata acquisisce un bonus ulteriore di +1 fino a un massimo di +3.
 
-La **terza volta** che prendi questa Abilità, requisito Competenza Magica 8, puoi usare sei Punti Magia ed un'arma con cui vieni a contatto diventa un'arma +3 per 6 round, se è già incantata acquisisce un bonus ulteriore di +2 fino ad un massimo di +4.
+La **terza volta** che prendi questa Abilità, requisito Competenza Magica 8, puoi usare sei Punti Magia e un'arma con cui vieni a contatto diventa un'arma +3 per 6 round, se è già incantata acquisisce un bonus ulteriore di +2 fino a un massimo di +4.
 
 ## Infondere Energia Magica Superiore
 
@@ -1128,7 +1128,7 @@ Ogni colpo portato a segno causa 1d6 di danni da fuoco o elettricità aggiuntivi
 
 La **seconda volta** che prendi questa Abilità usando due Punti Magia a round puoi rendere un'arma con cui vieni a contatto estremamente pericolosa. Ogni colpo portato a segno causa 1 danno critico aggiuntivo. Requisito Competenza Magica 7.
 
-La **terza volta** che prendi questa Abilità usando tre Punti Magia a round puoi concedere ad un'arma con cui vieni a contatto entrambe le Abilità precedenti.
+La **terza volta** che prendi questa Abilità usando tre Punti Magia a round puoi concedere a un'arma con cui vieni a contatto entrambe le Abilità precedenti.
 
 Le Abilità non sono cumulative, devi scegliere quale applicare round per round.
 
@@ -1139,7 +1139,7 @@ Le Abilità non sono cumulative, devi scegliere quale applicare round per round.
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
 | **Caratteristica**: | Carisma o Costituzione |
 
-Tramite la tua esibizione, canora, di balletto, oratoria.. sei in grado di infondere paura negli avversari in grado di sentirti, nel raggio di 6 metri.
+Tramite la tua esibizione, canora, di balletto, oratoria… sei in grado di infondere paura negli avversari in grado di sentirti, nel raggio di 6 metri.
 
 La **prima volta** che prendi questa Abilità i tuoi nemici hanno penalità di -1 al Tiro per Colpire ed al Danno in combattimento.
 
@@ -1158,7 +1158,7 @@ Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni e dura fi
 | **Tiri Salvezza**: | +2 Riflessi |
 | **Caratteristica**: | Destrezza o Intelligenza |
 
-Aumenti l'iniziativa di +1. L'Abilità può essere presa fino a 2 volte ed il bonus si cumula.
+Aumenti l'iniziativa di +1. L'Abilità può essere presa fino a 2 volte e il bonus si cumula.
 
 ## La mia pelle
 
@@ -1296,11 +1296,11 @@ Sei in grado di fare danno critico a creature normalmente immuni ai critici.
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
 | **Caratteristica**: | Destrezza o Intelligenza |
 
-La **prima volta** che prendi questa Abilità i proiettili, frecce o dardi, lanciati tra il primo ed il secondo incremento di gittata non hanno penalità al Tiro per Colpire.
+La **prima volta** che prendi questa Abilità i proiettili, frecce o dardi, lanciati tra il primo e il secondo incremento di gittata non hanno penalità al Tiro per Colpire.
 
 La **seconda volta** che prendi questa Abilità, la penalità per i tiri entro il terzo incremento di portata è di 6.
 
-La **terza volta** che prendi questa Abilità sei in grado di estendere ancora di più il tuo tiro e portarlo ad un quinto incremento con un -12 di penalità al colpire. Non hai penalità entro i primi 3 incrementi mentre hai -6 a colpire tra il terzo e quarto incremento.
+La **terza volta** che prendi questa Abilità sei in grado di estendere ancora di più il tuo tiro e portarlo a un quinto incremento con un -12 di penalità al colpire. Non hai penalità entro i primi 3 incrementi mentre hai -6 a colpire tra il terzo e quarto incremento.
 
 ## Opportunista
 
@@ -1347,9 +1347,9 @@ La **seconda volta** che prendi questa Abilità, requisito Destrezza 3, Furtivit
 | **Caratteristica**: | Destrezza o Costituzione |
 
 Il tuo passo è naturalmente rapido.
-Se hai movimento 6m passi a movimento 7m, se hai movimento 9m passi a movimento 10m.
+Se hai movimento 6 m passi a movimento 7 m, se hai movimento 9 m passi a movimento 10 m.
 
-Ogni ulteriori **due volte** che prendi l'Abilità il tuo movimento aumenta di 1 metro per Azione di Movimento, fino ad un massimo di +3 metri a round.
+Ogni due volte aggiuntive che prendi l'Abilità, il tuo movimento aumenta di 1 metro per Azione di Movimento, fino a un massimo di +3 metri a round.
 
 ## Passo Sicuro
 
@@ -1370,7 +1370,7 @@ Ogni ulteriori **due volte** che prendi l'Abilità il tuo movimento aumenta di 1
 | Montagna | Ghiacciai | Tundra |
 | Urbano | Sotterraneo |
 
-Ogni qual volta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente o ci si specializza sullo stesso.
+Ogniqualvolta si prende nuovamente questa Abilità si sceglie un ambiente diverso e si aggiunge al precedente o ci si specializza sullo stesso.
 
 La **seconda volta** che prendi questa Abilità sul medesimo terreno, specializzandoti, acquisisci una capacità a seconda del terreno.
 
@@ -1419,11 +1419,11 @@ Prendi un bonus di +1 alle prove di Consapevolezza. L'Abilità può essere presa
 
 Quando vuoi sai essere cattivo.
 
-CA/4 volte al giorno aggiungi il tuo valore di Competenza Armi al danno di un singolo attacco in mischia ad un singolo tuo avversario.
+CA/4 volte al giorno aggiungi il tuo valore di Competenza Armi al danno di un singolo attacco in mischia a un singolo tuo avversario.
 
 L'Abilità deve essere dichiarata prima di sapere l'esito del Tiro per Colpire. Costa un'Azione.
 
-## Piu' sono grossi più fanno rumore quando cadono
+## Più sono grossi, più fanno rumore quando cadono
 
 | **Requisito**: | Competenza Armi 1 |
 | --- | --- |
@@ -1483,7 +1483,7 @@ La **seconda volta** che prendi questa Abilità, Competenza Armi 4, riduci la pe
 
 La tua mente non ha confini. Puoi apprendere due incantesimi presenti sul tuo Tomo di Magia, sempre rispettando i limiti del massimo livello di incantesimi lanciabile.
 
-L'Abilità può essere presa più volte ed il totale deve essere pari o inferiore a CM/4.
+L'Abilità può essere presa più volte e il totale deve essere pari o inferiore a CM/4.
 
 ## Proseguire
 
@@ -1498,7 +1498,7 @@ L'attacco bonus utilizza gli stessi modificatori dell'ultima Azione di Attacco e
 
 Se elimini questa seconda creatura, non puoi effettuare ulteriori attacchi.
 
-La **seconda volta**, requisiti Proseguire, Competenza Armi 6, se con l'attacco bonus di Proseguire elimini un avversario puoi effettuare una ulteriore azione di attacco bonus, utilizzando gli stessi modificatori dell'ultima Azione di Attacco. Se elimini questa creatura puoi continuare, spostandoti di massimo 1 metro, ad attaccare la creatura successiva.
+La **seconda volta**, con requisiti Proseguire e Competenza Armi 6, se con l'attacco bonus di Proseguire elimini un avversario puoi effettuare un'ulteriore azione di attacco bonus, utilizzando gli stessi modificatori dell'ultima Azione di Attacco. Se elimini questa creatura puoi continuare, spostandoti di massimo 1 metro, ad attaccare la creatura successiva.
 
 Ogni attacco bonus oltre il primo subisce una penalità cumulativa: -2 al colpire e -1 al danno.
 
@@ -1511,7 +1511,7 @@ Ogni attacco bonus oltre il primo subisce una penalità cumulativa: -2 al colpir
 
 La tua tecnica di combattimento senza armi è estremamente precisa e potente.
 
-La **prima volta** che prendi questa Abilità il danno causato dai tuoi colpi ed il Tiro per Colpire aumentano di 1.
+La **prima volta** che prendi questa Abilità il danno causato dai tuoi colpi e il Tiro per Colpire aumentano di 1.
 
 La **seconda volta** che prendi questa Abilità, requisito Pugno Vuoto 6. Il danno aumenta di +2, il Tiro per Colpire +1.
 
@@ -1533,7 +1533,7 @@ I bonus indicati sono cumulativi.
 | **Caratteristica**: | Forza o Costituzione |
 
 Consumi 2 Azioni. Effettui un unico Tiro per Colpire con -5 di penalità.
-Se colpisci, oltre al danno ed un danno critico, l'avversario che deve essere massimo di due taglie superiore alla tua deve effettuare un Tiro Salvezza su Tempra con DC pari al tuo Tiro per Colpire oppure essere spinto di 3 metri in una direzione a tua scelta.
+Se colpisci, oltre al danno e un danno critico, l'avversario che deve essere massimo di due taglie superiore alla tua deve effettuare un Tiro Salvezza su Tempra con DC pari al tuo Tiro per Colpire oppure essere spinto di 3 metri in una direzione a tua scelta.
 
 Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno critico.
 
@@ -1553,7 +1553,7 @@ Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico.
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
 | **Caratteristica**: | Forza o Carisma |
 
-La **prima volta** che prendi questa Abilità ogni volta che colpisci il medesimo avversario, a partire dal secondo round, fai un danno aggiuntivo (Max +1 per round di combattimento, anche se lo colpisci più volte nel round) fino ad un massimo +5. La prima volta che non colpisci nel round l'avversario il bonus torna a +0. Il bonus si può mantenere su un solo avversario alla volta.
+La **prima volta** che prendi questa Abilità ogni volta che colpisci il medesimo avversario, a partire dal secondo round, fai un danno aggiuntivo (Max +1 per round di combattimento, anche se lo colpisci più volte nel round) fino a un massimo +5. La prima volta che non colpisci nel round l'avversario il bonus torna a +0. Il bonus si può mantenere su un solo avversario alla volta.
 
 La **seconda volta** che prendi questa Abilità, Competenza Armi 5, puoi mancare l'avversario con un colpo e non perdere i benefici.
 
@@ -1577,7 +1577,7 @@ Vedere i tuoi amici feriti ti riempie di rabbia.
 
 Quando un compagno (o te stesso) scende sotto metà dei Punti Ferita guadagni un +1 al Tiro per Colpire e Tiri Salvezza.
 
-La durata massima dell'effetto è 1 minuto (6 round) al giorno e deve essere consecutiva. Il giocatore sceglie se attivare o meno l'Abilità ed il compagno ferito deve essere entro 9 metri.
+La durata massima dell'effetto è 1 minuto (6 round) al giorno e deve essere consecutiva. Il giocatore sceglie se attivare o meno l'Abilità e il compagno ferito deve essere entro 9 metri.
 
 Puoi prendere questa Abilità **fino a 3 volte**, ogni volta il bonus al Tiro per Colpire e Tiro Salvezza aumentano di 1.
 
@@ -1651,7 +1651,7 @@ I bonus sono cumulativi e retroattivi ai livelli precedenti.
 | **Tiri Salvezza**: | +1 Volontà, +2 Tempra |
 | **Caratteristica**: | Modificatore di caratteristica per incantesimi o Costituzione |
 
-La **prima volta** che prendi questa Abilità ogni tuo attacco quando ti trasformi con Animalia causa 1 danno aggiuntivo ed è considerato un attacco magico +1. Concentrandoti sul tuo passo puoi lasciare le impronte di un animale in cui ti puoi trasformare ed il terreno si considera doppiamente difficile.
+La **prima volta** che prendi questa Abilità ogni tuo attacco quando ti trasformi con Animalia causa 1 danno aggiuntivo ed è considerato un attacco magico +1. Concentrandoti sul tuo passo puoi lasciare le impronte di un animale in cui ti puoi trasformare e il terreno si considera doppiamente difficile.
 
 La **seconda volta** che prendi questa Abilità, Competenza Magica 8, quando usi l'Abilità di Animalia puoi eseguire una trasformazione parziale ovvero prendere il tipo di Movimento oppure Sensi della creatura in cui ti trasformi. Quando usi l'Abilità Animalia puoi selezionare una creatura con un Grado di Sfida aumentato di 1. Lasciare impronte diverse è considerato terreno difficile.
 
@@ -1679,7 +1679,7 @@ Concentrandoti sulla potenza del tuo Patrono convogli l'energia positiva ed allo
 
 Tira 1d6 + somma dei Tratti in comune con il Patrono, questo totale è il tuo Potere Divino.
 
-Partendo dai non morti più deboli intorno a te, nel raggio di 9 metri, controlla il punteggio del Potere Divino ed il Grado di Sfida del non morto.
+Partendo dai non morti più deboli intorno a te, nel raggio di 9 metri, controlla il punteggio del Potere Divino e il Grado di Sfida del non morto.
 
 Se il Potere Divino è almeno il doppio del Grado di Sfida, il non-morto viene distrutto e si sottrae il doppio del Grado di Sfida dal valore del Potere Divino.
 
@@ -1713,7 +1713,7 @@ La **seconda volta** che prendi l'Abilità, requisito Competenza Armi 5, anche s
 | **Tiri Salvezza**: | +2 Riflessi |
 | **Caratteristica**: | Destrezza o Saggezza |
 
-La **prima volta** che prendi questa Abilità come Reazione ad un'Azione di attacco avversaria puoi aggiungere +1 alla tua Difesa. Puoi usare l'Abilità fino a 3 volte al giorno.
+La **prima volta** che prendi questa Abilità come Reazione a un'Azione di attacco avversaria puoi aggiungere +1 alla tua Difesa. Puoi usare l'Abilità fino a 3 volte al giorno.
 
 La **seconda volta** che prendi l'Abilità, requisito Competenza Armi 4, un avversario non prende il bonus al colpire da fiancheggiamento contro di te.
 
@@ -1769,7 +1769,7 @@ La capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prend
 | **Tiri Salvezza**: | +1 Tempra, +2 Volontà |
 | **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
 
-Quando lanci un incantesimo che abbia durata istantanea e che causi danno ai Punti Ferita ad uno o più soggetti, aumentando di metà, arrotondato per eccesso, i Punti Magia usati nell'incantesimo, recuperi un ammontare di Punti Ferita pari a metà di quelli persi dalla creatura che ne ha persi di più.
+Quando lanci un incantesimo che abbia durata istantanea e che causi danno ai Punti Ferita a uno o più soggetti, aumentando di metà, arrotondato per eccesso, i Punti Magia usati nell'incantesimo, recuperi un ammontare di Punti Ferita pari a metà di quelli persi dalla creatura che ne ha persi di più.
 
 Il tempo di lancio dell'incantesimo aumenta a 3 Azioni.
 
@@ -1880,7 +1880,7 @@ Quando usi arco, balestre o lanci un'arma le penalità per l'attacco multiplo so
 
 Ogni proiettile lanciato oltre il primo prende un -4 al Tiro per Colpire cumulativo (e non il -5).
 
-Il primo colpo ha un Tiro per Colpire normale, il secondo ha un -4, il terzo un -8 ...
+Il primo colpo ha un Tiro per Colpire normale, il secondo ha un -4, il terzo un -8 …
 
 ## Toccata e fuga
 
@@ -1965,13 +1965,13 @@ La **terza volta** che prendi questa Abilità, requisito Competenza Magica 11, n
 
 La **quarta volta** che prendi questa Abilità, requisito Competenza Magica 14, nella Lista di Magia *preferita* puoi ritirare una volta la Prova di Magia in caso di fallimento critico.
 
-La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogni qual volta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successi Critici Magici.
+La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogniqualvolta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successi Critici Magici.
 
 La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, nella Lista di Magia *preferita* gli incantesimi inferiori al 4 livello non costano Punti Magia nella formulazione base.
 
 **Regole**:
 
-- Ogni volta che l'Abilità viene presa, oltre la prima, si devono selezionare due nuove Liste di Magia *opposte* ed il costo di lancio per gli incantesimi di queste liste aumenta di 1.  La Lista di Magia Universale non è sceglibile tra le *opposte*.
+- Ogni volta che l'Abilità viene presa, oltre la prima, si devono selezionare due nuove Liste di Magia *opposte* e il costo di lancio per gli incantesimi di queste liste aumenta di 1. La Lista di Magia Universale non è selezionabile tra le *opposte*.
 - L'Abilità *Un solo credo* non può essere presa assieme a: Figlio Unico, Magie Potenti, Specialista.
 - Se usi l'Abilità *Un solo credo* non puoi usare le Abilità di Lista .
 - Tutte le capacità elencate nell'Abilità sono cumulative.
@@ -2007,7 +2007,7 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 | **{Competenza Armi**} |
 | --- |
-| **CA 1:** \featlink{Arma Focalizzata}, \featlink{Colpi Poderosi}, \featlink{Estrazione rapida}, \featlink{Ferocia}, \featlink{Flagello Danzante} (Lista Palle rotanti), \featlink{Furia}, \featlink{Improvvisare}, \featlink{La mia pelle}, \featlink{La mia morte la tua morte} (Forza 1), \featlink{La mia Testa è più Dura}, \featlink{Persona veramente malvagia}, \featlinktext{Piu' sono grossi più fanno rumore quando cadono}{Più sono grossi più fanno rumore quando cadono}, \featlink{Primo Sangue}, \featlink{Proseguire}, \featlink{Questa è la mia arma!}, \featlink{Questo è il mio pugnale}, \featlink{Rappresaglia} (Seguace), \featlink{Seconda pelle}, \featlink{Tiro Preciso} (Destrezza 3), \featlink{Toccata e fuga} (Destrezza 1), \featlink{Arciere su saurovallo}, \featlink{Armato} (Forza 3), \featlink{Segugio} (Intelligenza 1, Saggezza 1), \featlink{Tattico} (Intelligenza 1) |
+| **CA 1:** \featlink{Arma Focalizzata}, \featlink{Colpi Poderosi}, \featlink{Estrazione rapida}, \featlink{Ferocia}, \featlink{Flagello Danzante} (Lista Palle rotanti), \featlink{Furia}, \featlink{Improvvisare}, \featlink{La mia pelle}, \featlink{La mia morte la tua morte} (Forza 1), \featlink{La mia Testa è più Dura}, \featlink{Persona veramente malvagia}, \featlinktext{Più sono grossi, più fanno rumore quando cadono}{Più sono grossi, più fanno rumore quando cadono}, \featlink{Primo Sangue}, \featlink{Proseguire}, \featlink{Questa è la mia arma!}, \featlink{Questo è il mio pugnale}, \featlink{Rappresaglia} (Seguace), \featlink{Seconda pelle}, \featlink{Tiro Preciso} (Destrezza 3), \featlink{Toccata e fuga} (Destrezza 1), \featlink{Arciere su saurovallo}, \featlink{Armato} (Forza 3), \featlink{Segugio} (Intelligenza 1, Saggezza 1), \featlink{Tattico} (Intelligenza 1) |
 | **CA 2:** \featlink{Allungo}, \featlink{Artista dell'Arma}, \featlink{Combattimento con due armi} (Destrezza 2, Forza 1), \featlink{Daredevil} (Destrezza 1), \featlink{Difesa pronta}, \featlink{Fare Infuriare} (Carisma o Forza 2), \featlinktext{Freccia chiamata, freccia consegnata}{Freccia chiamata freccia consegnata}, \featlink{Iaijutsu}, \featlink{Opportunista}, \featlink{Precisino}, \featlink{Tiro Rapido} (Destrezza 3, \featlink{Tiro Preciso}), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} |
 | **CA 3:** \featlink{Colpo Furtivo}, \featlink{Lesto}, \featlink{Occhio Clinico}, \featlink{Occhio di Falco}, \featlink{Parata}, \featlink{Spara e Scappa} (Lista Balestre 3), \featlink{Stai giù!} |
 | **CA 4:** \featlink{Doppia porzione} (\featlink{Combattimento con due armi}), \featlink{Ho detto CADI!}, \featlink{Testa cava} (Lista Balestre 4), \featlink{Uno con l'arco}, \featlink{Ferocia} (2), \featlink{Precisino} (2), \featlink{Schivata prodigiosa} (2) |
@@ -2170,7 +2170,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Parata *(CA 3/6/9 o PV 2/4/6)* |
 | Pelle Coriacea *(CA 12, Cos 3 / CA 16)* |
 | Persona veramente malvagia *(CA 1)* |
-| Piu' sono grossi più fanno rumore quando cadono *(CA 1)* |
+| Più sono grossi, più fanno rumore quando cadono *(CA 1)* |
 | Primo Sangue *(CA 1)* |
 | Proseguire *(CA 1/6)* |
 | Questa è la mia arma! *(CA 1/5)* |
@@ -2249,7 +2249,7 @@ Per facilitare la transizione da chi viene da altri giochi di ruolo con classi s
 | Passo Sicuro *(Nessun requisito)* |
 | Passo rapido *(Des 2)* |
 | Precisino *(CA 2/4)* |
-| Piu' sono grossi più fanno rumore quando cadono *(CA 1)* |
+| Più sono grossi, più fanno rumore quando cadono *(CA 1)* |
 | Segugio *(Int 1, Sag 1, CA 1/10/16)* |
 | Senza Traccia *(Des 1)* |
 | Spara e Scappa *(Des 3)* |
@@ -2376,7 +2376,7 @@ Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantas
 | 12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
 | 13 | 13 | 0 | 13d6+39 | Un braccio, un'arma (2°) |
 | 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Piu' sono grossi più fanno rumore quando cadono |
+| 15 | 15 | 0 | 15d6+45 | Più sono grossi, più fanno rumore quando cadono |
 | 16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
 | 17 | 17 | 0 | 17d6+51 | |
 | 18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |

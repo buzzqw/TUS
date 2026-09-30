@@ -16,7 +16,7 @@ Questi attinsero alla cultura e tradizione, alle paure più recondite, agli incu
 
 Anche se durarono solo 1 anno le manifestazioni dirette di potere dei Patroni, l'umanità perse oltre il 90\% della sua popolazione nel tentativo di difendersi, di sopravvivere.
 
-L'industria, le conoscenze vennero distrutte e nel secolo successivo la barbarie e l'ignoranza non ci ha certo aiutato a riprenderci.
+L'industria e le conoscenze vennero distrutte; nel secolo successivo, la barbarie e l'ignoranza non ci aiutarono a riprenderci.
 Fu l'Editto della Dimenticanza che distrusse tutto. L'Editto emise una potente onda magica che fuse i componenti di ogni apparato elettrico e allo stesso tempo cancellò qualsiasi dato potesse essere lì custodito, ma non fu questo il peggio: l'Editto confuse le parole di ogni libro scritto.
 
 Molti degli apparati sono ancora lì, dove erano in origine, la maggior parte vandalizzata per recuperare materiali, altri invece chiusi chissà in quale segreto posto. Qualche speranza c'è ancora di trovare un apparato funzionante, pur se remota o magari un libro ancora leggibile.
@@ -33,14 +33,14 @@ Le dinastie raramente sono destinate a regnare per più di qualche generazione, 
 
 Le nazioni hanno così confini molto labili, spesso definiti dalla geografia più che dalle conquiste. Non sempre gli eserciti possono difenderli da attacchi esterni e ancora più spesso le milizie devono concentrarsi a difendere la città principale da attacchi interni, ribellioni o improvvise orde di mostri usciti da chissà quale impronta di Cattalm.
 
-In tutto il mondo la forma di governo e società più diffusa è la Città Stato, roccaforti e terreni raccolti attorno ad una città in grado di difenderli e proteggerli dagli assalti esterni, governate da un leader forte con l'appoggio di un Patrono.
+In tutto il mondo la forma di governo e società più diffusa è la Città Stato, roccaforti e terreni raccolti attorno a una città in grado di difenderli e proteggerli dagli assalti esterni, governate da un leader forte con l'appoggio di un Patrono.
 
 Piccoli e grandi villaggi sorgono ovunque nel territorio, attorno a fonti d'acqua e risorse naturali, spesso sono in balia di bande di disperati se non di gablin.
 Spesso è qui che i nostri eroi hanno la prima formazione nel tentativo di difendere prima la loro casa, poi il villaggio, dall'assalto di qualche astuto e sanguinario nemico.
 
 Ancora si ergono i resti di magnifiche città del passato e spesso queste tornano ad essere popolate anche se sugli abitanti spesso aleggia la maledizione che ha condannato la Prima Era.
 
-Il sottosuolo possa essere caverne, catacombe o infiniti cunicoli se non vere e proprie città sotterranee sono per tutta la Terra, memoria imperitura, stratificata e ristratificata, della sua storia. Non c'è mai una fine a quanto si può andare in profondità, c'è sempre qualcos'altro sotto di ancora più magnifico e pericoloso.
+Il sottosuolo, che può essere composto da caverne, catacombe o infiniti cunicoli, si estende per tutta la Terra: è memoria imperitura, stratificata e ristratificata, della sua storia. Non c'è mai una fine a quanto si può andare in profondità; c'è sempre qualcos'altro, ancora più magnifico e pericoloso.
 
 Le leggende parlano di intere regioni inghiottite sottoterra, città che dal giorno alla notte sono scomparse in una nube di polvere. Ovunque sono presenti accessi alle profondità dove si favoleggiano tesori e ricchezze, dove la Legge del Premio aspetta chi osa raccogliere la sfida.
 
@@ -80,7 +80,7 @@ Il *problema* per gli avventurieri ed esploratori è l'estrema diversificazione 
 
 La Terra non si potrà più dire esplorata, la stessa zona può cambiare da un giorno all'altro perché un Patrono ha deciso così. Curiosi, ineffabili, volubili sono capaci di costruire in un battito di mani l'avventura della vita solo per godersi lo spettacolo.
 
-Saranno orde di gablin affamati nel dedalo delle profondità della città, saranno orde barbariche devote a Cattalm ad uccidere e rapire la prole, saranno regni di ghoul che spuntati dal nulla vorranno mangiare tutto e tutti, saranno carestie e pestilenze risolvibili solo ritrovando antichi artefatti, potranno essere antiche città spuntate da una impronta di Cattalm, putride paludi in piena espansione cariche di mostri...
+Saranno orde di gablin affamati nel dedalo delle profondità della città, saranno orde barbariche devote a Cattalm ad uccidere e rapire la prole, saranno regni di ghoul che spuntati dal nulla vorranno mangiare tutto e tutti, saranno carestie e pestilenze risolvibili solo ritrovando antichi artefatti, potranno essere antiche città spuntate da una impronta di Cattalm, putride paludi in piena espansione cariche di mostri…
 
 I Patroni faranno di tutto per sconfiggerti ed umiliarti, ma ricorda bene la Legge del Premio è superiore anche a loro!
 
@@ -132,7 +132,7 @@ E ovunque, Draghi! Innumerevoli, affamati, cattivi.
 
 ### I vecchi Stati
 
-È impossibile in queste poche righe descrivervi come tutto il pianeta sia stato *riscritto*. La magia dei Patroni è assoluta ed il loro volere è Legge, non stupiamoci se quello che era il Deserto del Sahara adesso è la più fitta e lussureggiante giungla del pianeta, conosciuta come Giardino di Shayalia.
+È impossibile in queste poche righe descrivervi come tutto il pianeta sia stato *riscritto*. La magia dei Patroni è assoluta e il loro volere è Legge, non stupiamoci se quello che era il Deserto del Sahara adesso è la più fitta e lussureggiante giungla del pianeta, conosciuta come Giardino di Shayalia.
 Buona parte della zona est della Russia, quella ai confini con gli ex stati dell'est Europa è diventata l'Impero dei Ghoul, uno dei luoghi più terribili dove vivere, se non si è devoti di Sixiser.
 
 Molto del Nord America è un deserto nucleare con le poche popolazioni che si sono rifugiate nelle coste est ed ovest, cacciate da bande di predoni cannibali e mutati sputa acido.
@@ -143,12 +143,12 @@ La parte dell'Italia centrale è sotto la teocrazia di Rezh mentre numerosissime
 
 La Francia è comandata direttamente dal nuovo Re Sole, pardon, Re Torbion XXIII che invaghitosi della storia e cultura ha voluto riproporre, con volere questa volta veramente divino, gli sfarzi ed atteggiamenti di quella corte e periodo, rendendo il tutto tremendamente più pericoloso ed infido.
 
-La Germania, quella che era il motore della vecchia Europa, ha subito tra i danni maggiori, ritornando ad uno stato barbarico, con un'involuzione culturale e naturale forzata da Efrem.
+La Germania, quella che era il motore della vecchia Europa, ha subito tra i danni maggiori, ritornando a uno stato barbarico, con un'involuzione culturale e naturale forzata da Efrem.
 
-Buona parte delle terre tra Francia e Germania sono tornate ad uno spirito più primitivo ed ancestrale, qui Gaya ed Erondil hanno creato i loro culti maggiori ispirati a quella che era la tradizione celtica.
+Buona parte delle terre tra Francia e Germania sono tornate a uno spirito più primitivo ed ancestrale, qui Gaya ed Erondil hanno creato i loro culti maggiori ispirati a quella che era la tradizione celtica.
 
 Le fredde terre del nord Europa si sono isolate dopo che i loro morti sono risorti. Questa volta per volontà delle persone è stato chiesto aiuto a Krondal e Nedraf perché li potessero salvare. Nedraf gli diede le armi e l'esperienza per usarle, Krondal, da vero folle fece tornare gli ancestrali ricordi di un passato guerriero fatto di miti e Dei dimenticati, o meglio ignorati, dai più.
-Così Krondal ha ricreato come suoi servitori Aegir, Alfadur, Hel, Idhunn, Norne per non citare i più noti Thor, Loki, Valchirie...
+Così Krondal ha ricreato come suoi servitori Aegir, Alfadur, Hel, Idhunn, Norne per non citare i più noti Thor, Loki, Valchirie…
 
 >>> **Mappe alternative**: Usate le mappe geografiche fisiche reali terrestri per aiutarvi con l'ambiente. Cercate online le mappe delle antiche città. Avete a disposizione il più grande setting mai creato, si tratta solo di popolarlo con i miti, leggende, storie, fantasia che già sono intorno a voi.
 
@@ -170,7 +170,7 @@ Potete inventare mille e un'avventura dietro ai Portali, ognuno è una possibili
 
 >>> **I Portali**: Dovete intendere i portali come chiave per mille e un'avventura. Ogni portale vi condurrà in un posto diverso, fantastico come voi lo intendete. Volete un'avventura in un mondo primitivo, ambientata nella società moderna, in un pianeta chissà dove? Usate i portali per spalancare le porte della vostra immaginazione.
 
-Gli stessi personaggi potrebbero essere non *terrestri* e cercare un modo per tornare a casa...
+Gli stessi personaggi potrebbero essere non *terrestri* e cercare un modo per tornare a casa…
 
 >>> **Ambientazione**: Usate l'ambientazione che più preferite! Questo mondo è un esempio di un mondo caotico e leggermente anarchico dominato dai continui cambiamenti di umori di divinità capricciose.
 Scegliete voi l'ambientazione, usate Greyhawk, Dark Sun, Mystara quello che preferite. Siete voi il Narratore, siete voi il mondo, siete voi a proiettare luce ed oscurità, OBSS vi fornirà gli strumenti per condurre le vostre campagne!
@@ -183,7 +183,7 @@ Scegliete voi l'ambientazione, usate Greyhawk, Dark Sun, Mystara quello che pref
 
 > Mi è capitato spesso di finire su un calendario. Ma mai per una data precisa. (Marilyn Monroe)
 
-Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese... Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)}
+Tutto ebbe inizio la tredicesima ora del tredicesimo giorno del tredicesimo mese… Eravamo lì per discutere degli errori di stampa dei calendari acquistati dalla scuola. (I Simpson)}
 
 Basato sul ciclo lunare presenta 12 mesi da 28 giorni.
 
@@ -257,7 +257,7 @@ Dice il mito che ogni cento anni la Terra muoia per rinascere nuovamente, più b
 
 È noto a pochi eruditi di Atmos che ogni secolo i Patroni riconosciuti, e da cui molti traggono i poteri, scompaiano e lascino il posto, dopo esattamente 1 anno, a nuovi Patroni.
 
-Improvvisamente gli incantesimi cessano di funzionare, solo gli oggetti magici che possono assorbire e conservare la magia funzionano (come ad esempio una Pozione, un'Armatura o Arma se non un Anello od un Bastone che abbia delle cariche, ma non oggetti che si ricaricano automaticamente come le Verghe), neanche i Devoti o Seguaci hanno più accesso a nessun incantesimo.
+Improvvisamente gli incantesimi cessano di funzionare, solo gli oggetti magici che possono assorbire e conservare la magia funzionano (come ad esempio una Pozione, un'Armatura o Arma se non un Anello o un Bastone che abbia delle cariche, ma non oggetti che si ricaricano automaticamente come le Verghe), neanche i Devoti o Seguaci hanno più accesso a nessun incantesimo.
 
 Con qualche eccezione. I Patroni della Genesi, Atmos e Lynx e il Patrono Vincitore sono gli unici a rimanere costanti e non cambiare. Solo i loro Devoti e Seguaci possono continuare ad usare gli incantesimi a disposizione nell'anno di intermezzo.
 
@@ -271,7 +271,7 @@ Ogni nuovo Patrono, in base ai Tratti che comanda, avvicina un Seguace o Devoto 
 
 La verità è che ogni cento anni i Patroni della Genesi giudicano i loro figli, i Patroni, valutando chi ha fatto meglio e chi peggio. È una sfida tra Calicante e Ljust a chi ha, tramite i Patroni, ottenuto più Seguaci e Devoti.
 
-Il Patrono che più di tutti si è dimostrato capace di conquistare più persone rimarrà anche nel secolo successivo, questo sarà il Vincitore ed i suoi credenti ne canteranno per altri cento anni la gloria e la potenza.
+Il Patrono che più di tutti si è dimostrato capace di conquistare più persone rimarrà anche nel secolo successivo, questo sarà il Vincitore e i suoi credenti ne canteranno per altri cento anni la gloria e la potenza.
 
 Inebriato dalla vittoria, il Patrono della Genesi esprimerà un desiderio che l'altro dovrà cercare di rispettare il più possibile.
 
@@ -279,7 +279,7 @@ Ovvio che il Patrono stesso potrebbe soddisfarlo ma la gioia di obbligare l'altr
 
 a fare qualcosa che detesta è superiore a ogni cosa. Ed è per questo che ogni cento anni succede l'impossibile, oltre alla nascita di nuovi Patroni.
 
-Può essere un nuovo continente, un mare che si apre tra le terre, nuove razze, animali... qualcosa di imponente cambia per tutti i terrestri. È un periodo di sconvolgimenti globali.
+Può essere un nuovo continente, un mare che si apre tra le terre, nuove razze, animali… qualcosa di imponente cambia per tutti i terrestri. È un periodo di sconvolgimenti globali.
 
 Solo i sommi Devoti di Atmos conoscono questa verità come sanno che i Patroni della Genesi dopo la vittoria giacciono insieme per sei mesi generando i nuovi Patroni.
 

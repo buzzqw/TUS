@@ -81,20 +81,20 @@ Tutti i famigli possiedono Capacità Speciali e le attribuiscono ai loro padroni
 
 ***Condividere Incantesimi***: a propria discrezione il padrone può lanciare qualsiasi Incantesimo che abbia effetto su se stesso sul suo famiglio, anche se il tipo di creatura non è previsto.
 
-***Legame Empatico***: il padrone ha un legame empatico con il suo famiglio fino a una distanza di 1 km. Il padrone non può vedere attraverso gli occhi del famiglio, ma può comunicare empaticamente con esso. A causa della natura limitata del legame, si possono comunicare solo emozioni generiche (paura, nervoso, tranquillità, gioia...).
+***Legame Empatico***: il padrone ha un legame empatico con il suo famiglio fino a una distanza di 1 km. Il padrone non può vedere attraverso gli occhi del famiglio, ma può comunicare empaticamente con esso. A causa della natura limitata del legame, si possono comunicare solo emozioni generiche (paura, nervoso, tranquillità, gioia…).
 
 ***Trasmettere Incantesimi a Contatto***: il famiglio può trasmettere Incantesimi a contatto per il padrone. Se il padrone e il famiglio sono entro 9 metri quando il padrone lancia un Incantesimo con Gittata a contatto, egli può designare il suo famiglio come *colui che consegna l'Incantesimo*.
 
 Il famiglio può trasmettere l'Incantesimo proprio come il padrone. Il famiglio usa una sua Azione per effettuare un attacco.
 
-***Parlare col Padrone***: il famiglio e il padrone possono comunicare verbalmente, come se utilizzassero un linguaggio comune. Le altre creature o animali non sono in grado di comprendere la loro conversazione, se non utilizzando ausili magici. La capacità funziona entro i 50m e devono sentirsi.
+***Parlare col Padrone***: il famiglio e il padrone possono comunicare verbalmente, come se utilizzassero un linguaggio comune. Le altre creature o animali non sono in grado di comprendere la loro conversazione, se non utilizzando ausili magici. La capacità funziona entro i 50 m e devono sentirsi.
 
-***Parlare con Animali***: il famiglio è in grado di comunicare con animali della sua specie specifica: pipistrelli con pipistrelli, ratti con ratti... La comunicazione è limitata dall'Intelligenza delle creature con cui il famiglio comunica.
+***Parlare con Animali***: il famiglio è in grado di comunicare con animali della sua specie specifica: pipistrelli con pipistrelli, ratti con ratti… La comunicazione è limitata dall'Intelligenza delle creature con cui il famiglio comunica.
 
 ***Vedere attraverso Famiglio***: il padrone può vedere attraverso il famiglio. Attivare questa Abilità costa 1 Azione e dura fino all'inizio del round successivo. Il famiglio deve essere entro 50 metri.
 
 ***Trasmettere Incantesimi a Contatto Migliorato***: come *Trasmettere Incantesimi a Contatto* ma il famiglio può essere entro 18 metri dal padrone.
 
-**NOTE**: intelligente ed unico un famiglio rimane un animale e come tale non può usare oggetti magici o pergamene, può arrivare ad usare una pozione se ne ha le capacità per berla. Un famiglio particolarmente intelligente potrebbe eseguire semplici ed immediati compiti.
+**NOTE**: intelligente e unico un famiglio rimane un animale e come tale non può usare oggetti magici o pergamene, può arrivare ad usare una pozione se ne ha le capacità per berla. Un famiglio particolarmente intelligente potrebbe eseguire semplici ed immediati compiti.
 
 ---

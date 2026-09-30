@@ -16,17 +16,17 @@ Il ruolo del Narratore non è facile ma concede enormi privilegi. Vedere i propr
 
 Il tuo ruolo è quello del grande orchestratore, pianificatore o anche paesaggista se preferisci, con poche semplici pennellate delinei la struttura e saranno poi i giocatori ad aggiungere dettagli e situazioni.
 
->>> **Divertirsi sempre**: OBSS vuole aiutare te e gli altri giocatori a divertirsi. Usa sempre il buon senso quando devi applicare una regola. Il tuo scopo non è ammazzare i personaggi ma creare mondi e campagne che si evolvono attorno ai personaggi ed al mondo che crei, alle loro azioni e decisioni. Incorpora le cose che interessano i giocatori, tienili partecipi, fagli comprendere che il mondo è vivo e ne fanno parte. Se sei bravo le tue avventure, le situazioni riecheggeranno in altre sessioni e fuori dal tavolo.
+>>> **Divertirsi sempre**: OBSS vuole aiutare te e gli altri giocatori a divertirsi. Usa sempre il buon senso quando devi applicare una regola. Il tuo scopo non è ammazzare i personaggi, ma creare mondi e campagne che si evolvono attorno ai personaggi e al mondo che crei, alle loro azioni e decisioni. Incorpora le cose che interessano i giocatori, tienili partecipi, coinvolgili e fai comprendere loro che il mondo è vivo e che ne fanno parte. Se sei bravo, le tue avventure e le situazioni riecheggeranno in altre sessioni e fuori dal tavolo.
 
-Il tuo *lavoro e divertimento* è fondamentale ed importantissimo, la bontà della sessione di gioco dipende anche da te. Il tuo scopo è innanzitutto divertirti, essere creativo, improvvisare, recitare, creare ingegnose situazioni. Finché tu ti diverti è estremamente probabile che anche i giocatori si stiano divertendo!
+Il tuo lavoro e il tuo divertimento sono fondamentali; la bontà della sessione dipende anche da te. Il tuo scopo è innanzitutto divertirti, essere creativo, improvvisare, recitare e creare situazioni ingegnose. Finché tu ti diverti, è estremamente probabile che anche i giocatori si stiano divertendo!
 
-**Ricorda che non sei tu il protagonista né l'avventura, ma i personaggi**, non rubare la scena ma come un gran ballo sii il direttore d'orchestra dove gli strumenti sono le possibilità offerte dall'OBSS, la musica è l'avventura ed i ballerini i personaggi.
+**Ricorda che non sei tu il protagonista né l'avventura, ma i personaggi**, non rubare la scena ma come un gran ballo sii il direttore d'orchestra dove gli strumenti sono le possibilità offerte dall'OBSS, la musica è l'avventura e i ballerini i personaggi.
 
 ## Punti Esperienza
 
 In OBSS i Punti Esperienza che prendono i personaggi servono a determinare il livello e quindi le capacità ed abilità a loro disposizione.
 
-I personaggi prenderanno Punti Esperienza in base ai mostri sconfitti ma anche ad altri fattori quali obiettivi, idee, azioni particolari, difficoltà superate.. ma anche tesori recuperati!
+I personaggi prenderanno Punti Esperienza in base ai mostri sconfitti ma anche ad altri fattori quali obiettivi, idee, azioni particolari, difficoltà superate… ma anche tesori recuperati!
 
 Il suggerimento principale è premiare i personaggi che più si sono impegnati per il gruppo, quelli che maggiormente hanno contribuito al buon esito dell'avventura e della sessione. I Punti Esperienza non misurano solo il successo ma anche la partecipazione al gioco.
 È quindi possibile avere personaggi con Punti Esperienza diversi e potenzialmente anche livelli diversi.
@@ -39,7 +39,7 @@ Non esagerate mai nell'assegnazione dei Punti Esperienza altrimenti rischierete 
 
 Non dovete però tenere conto solo dei Punti Esperienza concessi dalle sfide ma dovete valutare i personaggi e gruppo durante la sessione.
 
-Ogni qual volta il personaggio od il gruppo:
+Ogniqualvolta il personaggio o il gruppo:
 
 - **Raggiunga gli obiettivi prefissati** (premio al gruppo od al personaggio);
 - **Sfrutti a pieno ed anzi sia alternativo nell'uso delle proprie Abilità e capacità** (premio al personaggio);
@@ -106,9 +106,9 @@ Un incontro non è l'occasione per fare sfoggio del proprio potere assoluto, sia
 
 Troverete nelle pagine seguenti le istruzioni per creare delle sfide facili, medie, alte, straordinarie, mortali ed epiche.
 
-Attraverso gli strumenti forniti dal manuale e dalla vostra esperienza con il gruppo saprete quale livello la sfida propone e ne valuterete sia l'impatto come punti esperienza che come ricompense.
+Attraverso gli strumenti forniti dal manuale e dalla vostra esperienza con il gruppo, saprete quale livello di sfida propone l'incontro e ne valuterete l'impatto in termini di punti esperienza e ricompense.
 
-Un incontro è un evento che mette i personaggi di fronte ad un problema specifico che devono risolvere. Molti sono combattimenti con i mostri o i PNG ostili, ma ce ne sono altri tipi: un corridoio irto di trappole, un'interazione politica con un re sospettoso, un passaggio pericoloso sopra un ponticello di corda traballante, un argomento scomodo con un PNG amichevole che ritiene che un personaggio lo abbia tradito, o qualsiasi cosa che aggiunga un po' di drammaticità al gioco.
+Un incontro è un evento che mette i personaggi di fronte a un problema specifico che devono risolvere. Molti sono combattimenti con i mostri o i PNG ostili, ma ce ne sono altri tipi: un corridoio irto di trappole, un'interazione politica con un re sospettoso, un passaggio pericoloso sopra un ponticello di corda traballante, un argomento scomodo con un PNG amichevole che ritiene che un personaggio lo abbia tradito, o qualsiasi cosa che aggiunga un po' di drammaticità al gioco.
 
 Rompicapi, sfide interpretative e prove di competenza sono i metodi classici per la risoluzione degli incontri. Gli incontri più complessi da costruire e bilanciare saranno gli incontri di combattimento. Fidatevi del vostro istinto e dei suggerimenti forniti in OBSS.
 
@@ -135,11 +135,11 @@ Si noti che questa guida di riferimento alla creazione di un incontro presuppone
 
 ### Quanti scontri affrontare
 
-Non c'è una risposta unica. È a vostra scelta, il sistema trova un suo equilibrio tra i 3 ed i 5 scontri al giorno. Ovvio che non devono essere tutti a difficoltà Alta!
+Non c'è una risposta unica. È a vostra scelta, il sistema trova un suo equilibrio tra i 3 e i 5 scontri al giorno. Ovvio che non devono essere tutti a difficoltà Alta!
 
 Gli scontri sono alla fine una gestione di risorse da usare contro un nemico. Queste risorse sono i Punti Ferita, gli incantesimi, le pozioni, pergamene ed oggetti consumabili posseduti.
 
-Se piazzate una sfida Straordinaria come primo incontro è probabile che i giocatori poi decidano di riposarsi per recuperare le energie, diversamente potreste optare per stancarli pian piano con incontri medi e poi provarli con una difficoltà maggiore. Ricorda infine che uno *scontro* non deve essere per forza fisico, ma anche trappole, puzzle/indovinelli, sfide alternative.. qualsiasi cosa che faccia consumare risorse e ragionare.
+Se piazzate una sfida Straordinaria come primo incontro è probabile che i giocatori poi decidano di riposarsi per recuperare le energie, diversamente potreste optare per stancarli pian piano con incontri medi e poi provarli con una difficoltà maggiore. Ricorda infine che uno *scontro* non deve essere per forza fisico, ma anche trappole, puzzle/indovinelli, sfide alternative… qualsiasi cosa che faccia consumare risorse e ragionare.
 
 Valutate sempre dove si muovono e cosa c'è intorno, verrà naturale trovare il giusto numero e tipi di scontri e nemici.
 
@@ -147,7 +147,7 @@ Valutate sempre dove si muovono e cosa c'è intorno, verrà naturale trovare il 
 
 Per costruire un incontro come prima cosa calcolate il valore dell' APL (il livello medio del vostro gruppo).
 
-Per sviluppare il vostro incontro, aggiungete le creature, le trappole ed i pericoli finché non arrivate a vostro APL programmato.
+Per sviluppare il vostro incontro, aggiungete creature, trappole e pericoli finché non arrivate al vostro APL programmato.
 
 Partite calcolando le sfide con grado di Sfida più alto dell'incontro, completando il resto con sfide minori.
 
@@ -194,7 +194,7 @@ Se i giocatori si aspettano pochi incontri è probabile che useranno le loro mig
 
 Ricordate che i *mostri* possono anche loro eseguire Azioni come Spingere, Afferrare, Buttare a terra, Fiancheggiare, non limitatevi nelle scelte.
 
-> L'essenza del mondo è il gioco ... noi giochiamo il serio, giochiamo l'autentico, giochiamo la realtà, il lavoro e la lotta, giochiamo l'amore e la morte e giochiamo perfino il gioco. (Eugen Fink)
+> L'essenza del mondo è il gioco … noi giochiamo il serio, giochiamo l'autentico, giochiamo la realtà, il lavoro e la lotta, giochiamo l'amore e la morte e giochiamo perfino il gioco. (Eugen Fink)
 
 ### Lo scontro con il Boss
 
@@ -261,7 +261,7 @@ I personaggi avanzano di livello sconfiggendo mostri, superando sfide, divertend
 | 9 | 8100 | 19 | 253000 |
 | 10 | 11000 | 20 | 365000 |
 
-La **Tabella: Ricchezza dei Personaggi per Livello** indica la quantità di monete d'oro equivalenti in tesori ed oggetti che ogni personaggio dovrebbe avere ad un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
+La **Tabella: Ricchezza dei Personaggi per Livello** indica la quantità di monete d'oro equivalenti in tesori ed oggetti che ogni personaggio dovrebbe avere a un livello specifico. Si noti che questa tabella si basa su un modello standard di gioco.
 
 Le avventure con magia rara potrebbero assegnare soltanto la metà di questo valore, mentre avventure più epiche potrebbero raddoppiarlo. Si presume che parte del tesoro sia consumato nel corso di un'avventura (come pozioni e pergamene) e che alcuni degli oggetti meno utilizzati siano venduti per metà del loro valore per acquistare un equipaggiamento più utile.
 
@@ -269,11 +269,11 @@ La Tabella: Ricchezza dei Personaggi per Livello può anche essere usata per sta
 
 Per un metodo equilibrato, i personaggi che vengono creati dopo il 1° livello dovrebbero spendere il 25\% della loro ricchezza per le armi, il 25\% per armatura e oggetti di protezione, il 25\% per altri oggetti magici, il 15\% per oggetti che si consumano come bacchette, pergamene e pozioni e il 10\% per un equipaggiamento normale e monete. Tipi di personaggio differenti potrebbero spendere diversamente la loro ricchezza rispetto a come suggerito; ad esempio, gli incantatori arcani potrebbero spendere di più per oggetti magici e a consumo che per le armi.
 
-## Io conosco un tizio...
+## Io conosco un tizio…
 
-Per agevolare lo spirito di avventura e non lasciare i personaggi incapaci o indecisi nell'agire, permettetegli di conoscere un certo numero di PNG pari al loro punteggio di Carisma +1. Il giocatore in qualsiasi momento potrà dichiarare di conoscere questo PNG e dovrà tenerne traccia. Questi PNG potranno essere *sfruttati* quando i personaggi si trovano in situazioni difficili, di pericolo o semplicemente bisognosi di supporto. Il personaggio che si appella al *io conosco un tizio...* deve descrivere adeguatamente il soggetto ed il rapporto che c'è tra loro. Il Narratore adatterà la situazione per includere questo personaggio al meglio delle possibilità.
+Per agevolare lo spirito di avventura e non lasciare i personaggi incapaci o indecisi nell'agire, permettetegli di conoscere un certo numero di PNG pari al loro punteggio di Carisma +1. Il giocatore in qualsiasi momento potrà dichiarare di conoscere questo PNG e dovrà tenerne traccia. Questi PNG potranno essere *sfruttati* quando i personaggi si trovano in situazioni difficili, di pericolo o semplicemente bisognosi di supporto. Il personaggio che si appella al *io conosco un tizio…* deve descrivere adeguatamente il soggetto e il rapporto che c'è tra loro. Il Narratore adatterà la situazione per includere questo personaggio al meglio delle possibilità.
 
-Il tizio potrebbe essere un commerciante che gli deve un favore, se non un ladro od un burocrate. I personaggi sono invitati a non inventarsi amicizie o favori da personaggi troppo importanti.
+Il tizio potrebbe essere un commerciante che gli deve un favore, se non un ladro o un burocrate. I personaggi sono invitati a non inventarsi amicizie o favori da personaggi troppo importanti.
 
 ## Recitare
 
@@ -297,7 +297,7 @@ Allo stesso tempo potrebbero esserci situazioni che si rivelano sgradevoli da ge
 
 Per quanto il sistema favorisca la libertà di costruzione e sviluppo del personaggio se un giocatore è in difficoltà con il personaggio creato permettetegli, entro il 4 livello di cambiare personaggio e crearne uno nuovo. Ricordate che l'obiettivo è divertirsi tutti.
 
-## Circa OBSS ed i tiro di dadi
+## Circa OBSS e i tiri di dado
 
 OBSS usa un sistema di tiro di dadi peculiare andando a mescolare una distribuzione 3d6 al potenziale dei 6 che esplodono. Questo sistema riesce a garantire una buona varianza e pur se concentrando i risultati intorno ai valori centrali della distribuzione lascia aperto il limite superiore a tiri particolarmente fortunati.
 
@@ -313,10 +313,10 @@ oppure cliccate https://anydice.com/program/2610e per il codice già inserito.
 
 ### Opzionale - Variante Consumo Risorse
 
-Ogni qual volta il personaggio usi delle risorse *contate*, quali Frecce, Razioni di cibo, Torce, se non si ha pressione di fare consumare gli oggetti si può optare per questa regola opzionale.
+Ogniqualvolta il personaggio usi delle risorse *contate*, quali Frecce, Razioni di cibo, Torce, se non si ha pressione di fare consumare gli oggetti si può optare per questa regola opzionale.
 
 Al termine di un combattimento, dopo una giornata di avventura, il giocatore tira 1d12 per ogni tipo di risorsa che ha consumato. Se fa 1 o 2 con il dado ha diminuito la sua scorta.
-La volta dopo tirerà invece che 1d12 un 1d10 e poi 1d8 e poi 1d6 e poi 1d4. Quando arriva a tirare il d4 e fa 1 o 2 ha finito completamente la risorsa e deve ricomprare 20 frecce, 7 giorni di cibo, 6 torce...
+La volta dopo tirerà invece che 1d12 un 1d10 e poi 1d8 e poi 1d6 e poi 1d4. Quando arriva a tirare il d4 e fa 1 o 2 ha finito completamente la risorsa e deve ricomprare 20 frecce, 7 giorni di cibo, 6 torce…
 
 Nella scheda a fianco a quelle risorse segna il dado da usare per il successivo tiro.
 
@@ -339,17 +339,17 @@ Se il metodo può non piacere usate quello che più vi aggrada, personalmente ne
 - Tu sei il Narratore, tue le Regole, tuo il Mondo.
 
 Non farti limitare dall'avventura, dal sistema, dall'elenco dei mostri, sentiti sempre libero di modificare e adattare in base alle necessità dell'avventura e del gruppo
-- Ricordati di esser giusto e corretto. Improvvisa, adatta quanto vuoi ma sii coerente. Se stabilisci una regola (od una modifica ad una regola) seguila fino in fondo.
+- Ricordati di esser giusto e corretto. Improvvisa, adatta quanto vuoi ma sii coerente. Se stabilisci una regola (o una modifica a una regola) seguila fino in fondo.
 
 Allo stesso tempo se ti serve una regola e non la trovi usa il buon senso, è sicuramente la scelta giusta in quel momento.
 
-Rispetta i dadi ed i risultati ottenuti, come capiteranno ai giocatori capiteranno risultati particolari anche a te. È giusto così.
+Rispetta i dadi e i risultati ottenuti, come capiteranno ai giocatori capiteranno risultati particolari anche a te. È giusto così.
 - Non devi salvare il *culo* ai personaggi. Non sei il loro amico né il loro nemico. Il tuo ruolo è di raccontare storie che nascono dalle storie dei personaggi, dalle loro azioni ed inazioni.
 - Abbozza la storia, scrivi le parti centrali o da leggere ai giocatori ma non farti dominare o vincolare da quello che ti aspetti. Spesso e volentieri i giocatori ti stupiranno, meglio sapere dove si muovono e cosa hanno intorno per poter reagire sempre puntualmente.
 
 Sono i giocatori a dare la direzione all'avventura e tu a dipanarla.
 - Apprezza il caso e crea situazioni diverse dove i giocatori possono scegliere strade diverse o intrecciarne di nuove. È la tua fortuna avere dei giocatori creativi che sanno sorprenderti.
-- Non costringere nessuno a fare qualcosa, lascia sbagliare i giocatori, lascia che paghino le loro scelte. Non devi ostacolarli né devi imbeccarli per una direzione. Richiede da parte tua un'immaginazione e capacità di adattamento non indifferente, ma sicuramente l'avventura ed il divertimento ne gioverà.
+- Non costringere nessuno a fare qualcosa, lascia sbagliare i giocatori e lascia che paghino le loro scelte. Non devi ostacolarli né devi imbeccarli verso una direzione. Richiede immaginazione e una notevole capacità di adattamento, ma sicuramente l'avventura e il divertimento ne gioveranno.
 - I personaggi sono esploratori, per definizione. Focalizza sull'esplorazione, più si esplora più si creano situazioni, più si creano agganci nell'avventura, più si conoscono altri png più ci sono zone da esplorare.
 
 Fa capire che i tesori sono esperienza, in senso letterale e pratico. Non dovrai mai spingerli tu in un dungeon ma la loro brama di esperienza e tesoro.
@@ -378,7 +378,7 @@ Non infarcire l'avventura di dettagli inutili, lascia spazio alla creatività e 
 - L'avventura non è mai statica né tanto meno il mondo dove si muovono i personaggi.
 Il mondo ha la stessa importanza se non di più dell'avventura stessa. Azioni dei giocatori possono scatenare accadimenti a livello globale. Pensate sempre alle conseguenze dei gesti.
 - Se usi i PNG non farli essere delle semplici macchiette, fa in modo che i personaggi si possano affezionare e considerare il PNG uno del gruppo alla pari di tutti gli altri.
-- I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare.. anche loro vogliono vivere!
+- I mostri non devono essere stupidi per forza. Falli parlare, ragionare, scappare… anche loro vogliono vivere!
 - Ricordati la Legge del Premio. Premia gli audaci, premia chi si spinge più in profondità nelle caverne. Premia chi sopravvive.
 
 ## Sessione Zero
@@ -393,14 +393,14 @@ Suggerisco ai Narratori di stabilire delle regole chiare per il buon gioco. Purt
 
 **Il Narratore prima di incominciare è opportuno che chiarisca quali sono le regole essenziali al suo tavolo**. Un esempio di regole può essere:
 
-- Che ogni giocatore **conosca** la parte del regolamento del manuale che maggiormente andrà ad usare (combattimento, magia, patroni...).
-- Rispetti i **limiti** degli altri. Ogni persona ha una diversa sensibilità a certi argomenti (stupri, schiavitù, razzismo, violenza...) è fondamentale che si chiarisca insieme quali sono i limiti da non superare mai.
+- Che ogni giocatore **conosca** la parte del regolamento del manuale che maggiormente andrà ad usare (combattimento, magia, patroni…).
+- Rispetti i **limiti** degli altri. Ogni persona ha una diversa sensibilità a certi argomenti (stupri, schiavitù, razzismo, violenza…) è fondamentale che si chiarisca insieme quali sono i limiti da non superare mai.
 - **Rispetta** ogni persona con cui giochi. Ciò include essere puntuali e non annullare senza un motivo importante.
 - I giocatori devono creare un gruppo **coeso** fatto da individualità che collaborano.
 
 **Vanno condivise e stabilite le informazioni base dell'avventura.**
 
-- Introduci in linea di massima la campagna o avventure che si andranno a svolgere. Indica la tipologia (eroica, dark, gothic, horror, politica, caverne infinite, esplorazione, sopravvivenza..) e grado di difficoltà.
+- Introduci in linea di massima la campagna o avventure che si andranno a svolgere. Indica la tipologia (eroica, dark, gothic, horror, politica, caverne infinite, esplorazione, sopravvivenza…) e grado di difficoltà.
 - Introduci le informazioni necessarie relative all'ambientazione o fornisci dispense e manuali sull'argomento. Indica se ci sono delle Abilità suggerite.
 - Stabilite le regole opzionali e che siano chiare a tutti.
 - Indica la lista o la tipologia di Tratti accettati e se ci sono dei limiti nella scelta dei Patroni.
@@ -409,14 +409,14 @@ Suggerisco ai Narratori di stabilire delle regole chiare per il buon gioco. Purt
 
 **Altre indicazioni utili riguardano**:
 
-- Cosa è permesso portare ed usare al tavolo e cosa no (bibite, mangiare, cellulari, alcolici, fumare..). Sapere se ci sono animali in casa.
+- Cosa è permesso portare ed usare al tavolo e cosa no (bibite, mangiare, cellulari, alcolici, fumare…). Sapere se ci sono animali in casa.
 - Stabilite il numero minimo di giocatori per fare la sessione, giorno di gioco ed orari.
 
 In definitiva, la Sessione Zero è fondamentale per stabilire una solida base per il buon gioco di ruolo. Aiuta a creare un ambiente collaborativo in cui tutti si sentono partecipi e contribuisce a evitare problemi e disaccordi durante il corso della campagna.
 
-Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere questi suggerimenti ad ogni inizio di campagna.
+Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere questi suggerimenti a ogni inizio di campagna.
 
 > {
-I problemi più complessi hanno soluzioni semplici e facili da comprendere ma sbagliate (Arthur Bloch).... ma se sono divertenti e piacciono a tutti allora usatele! (NdA)
+I problemi più complessi hanno soluzioni semplici e facili da comprendere ma sbagliate (Arthur Bloch)… ma se sono divertenti e piacciono a tutti allora usatele! (NdA)
 
 ---

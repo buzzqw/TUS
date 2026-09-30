@@ -1,15 +1,15 @@
-# La storia fino ad adesso...
+# La storia fino ad adesso…
 
 Il mondo come lo conoscevamo è un ricordo sbiadito, una tela lacerata da cataclismi e dalla furia degli dei. Leggende, miti e fantasia si sono intrecciati in un guazzabuglio cacofonico con la realtà dei fatti.
 
-Da qualche parte nel terzo millennio del vecchio calendario, avvenne l’impensabile: ciò che mai si sarebbe potuto immaginare o desiderare. Da un giorno all’altro, la Terra si trovò coinvolta in una guerra tra entità di potenza divina, che, con la complicità delle varie nazioni, non fecero altro che distruggere il nostro povero mondo.
+Da qualche parte nel terzo millennio del vecchio calendario avvenne l'impensabile: ciò che nessuno avrebbe mai potuto immaginare o desiderare. Da un giorno all'altro, la Terra si trovò coinvolta in una guerra tra entità di potenza divina che, con la complicità delle varie nazioni, non fecero altro che distruggere il nostro povero mondo.
 
 La *Freten* era un'azienda che sviluppava sistemi energetici alternativi, basati sulla possibilità di attingere energia da altrove o, come dicevano loro, dal vuoto cosmico.
 Non è mai stato chiarito quali furono le origini dei loro esperimenti; molto probabilmente avevano effettivamente trovato qualcosa (*qualcuno?*) che potesse funzionare da portale per attingere a questa forma di energia pressoché illimitata.
 
-Nel giorno dell'inaugurazione del loro primo reattore alimentato da ciò che chiamavano  **Omniessenza**, una *parte* della loro *invenzione*, avvenne l'impossibile.
+Nel giorno dell'inaugurazione del primo reattore alimentato da ciò che chiamavano **Omniessenza**, una parte della loro invenzione, avvenne l'impossibile.
 
-I racconti si fanno molto confusi a questo punto; di fatto, l'*Omniessenza* era effettivamente qualcosa di vero e di *vivo*, una parte di un'energia più grande. All'attivazione del reattore questo esplose con un'energia e una forza mai viste sulla Terra; buona parte di quelli che erano gli stati centrali degli USA venne vaporizzata all'istante.
+I racconti si fanno molto confusi a questo punto; di fatto, l'*Omniessenza* era effettivamente qualcosa di vero e di *vivo*, una parte di un'energia più grande. All'attivazione, il reattore esplose con un'energia e una forza mai viste sulla Terra; buona parte degli Stati centrali degli USA venne vaporizzata all'istante.
 
 Nel punto dove una volta sorgeva la sede della Freten si aprì una breccia simile a un portale: una colossale fiamma divisa in due lingue di fuoco di colore diverso.
 
@@ -29,18 +29,18 @@ All’alba del diciannovesimo giorno, l’Editto del Sacrificio uccise un terzo 
 
 All’alba del trentesimo giorno, Tàhil proclamò l’Editto della Rifondazione. Nuove brecce si aprirono, e altri esseri, altri poteri si manifestarono. Il mondo fu trasformato e nuove regole vennero scritte.
 
-Intanto e per 1 anno intero i draghi distrussero e uccisero qualsiasi cosa, ogni persona. Nessun esercito sopravvisse, nessun governo rimase in carica, nessuna nazione si poteva ancora chiamare tale.
+Per un anno intero i draghi distrussero e uccisero ogni cosa. Nessun esercito sopravvisse, nessun governo rimase in carica e nessuna nazione poteva più definirsi tale.
 
 I Terrestri erano stati puniti per il loro affronto, solo il 10\% della popolazione era sopravvissuta.
 
 Questi nuovi esseri facevano scomparire, sprofondare, ribaltare; distruggevano intere città, mutavano ambienti e creature, facevano comparire nuove specie. Dal nulla apparivano orde di mostri, come quelli descritti nei libri di gioco dei bambini. La realtà, per loro, era un capriccio da plasmare secondo gusti eccentrici.
 
-Le nazioni, come le conoscevamo, non esistevano più. Anche la natura si era trasformata, assumendo forme tra le più aliene immaginabili. Molte zone erano divenute deserti nucleari, inospitali e letali per chiunque... o quasi.
+Le nazioni, come le conoscevamo, non esistevano più. Anche la natura si era trasformata, assumendo forme tra le più aliene immaginabili. Molte zone erano divenute deserti nucleari, inospitali e letali per chiunque… o quasi.
 
 Poi, tutte le entità, tranne Tàhil e i draghi, sparirono nel nulla per sei mesi.
 Trascorso quel tempo, i sogni dei pochi esseri rimasti cominciarono a essere invasi da visioni di altri esseri, altre entità.
 
-E arrivò così la seconda ondata dei *Patroni* come collettivamente si facevano chiamare. Per fortuna questi esseri si rivelarono, tutto sommato, più gentili e *umani*, o almeno qualcuno lo era. Bonificarono buona parte delle zone radioattive ed insegnarono a chi accettava i loro Tratti ad attingere alla loro energia per poter formulare delle vere, reali, concrete **magie**!
+E arrivò così la seconda ondata dei *Patroni*, come collettivamente si facevano chiamare. Per fortuna questi esseri si rivelarono, tutto sommato, più gentili e *umani*, o almeno qualcuno lo era. Bonificarono buona parte delle zone radioattive e insegnarono a chi accettava i loro Tratti ad attingere alla loro energia per formulare vere magie.
 Alcune entità crearono o richiamarono altre razze; vuoi per poter dominare gli umani, vuoi per poterli guidare, vuoi per aggiungere caos ed entropia al mondo.
 
 Sono passati poco più di cento anni dalla seconda venuta eppure tanto è bastato perché la nostra Terra tornasse a un medioevo di fantastiche origini.
@@ -71,7 +71,7 @@ Ma prima di iniziare le vostre avventure dovrete partecipare alla Sessione Zero,
 
 In OBSS, la vostra fantasia è l'unico limite. Non abbiate paura di sperimentare, di mettere alla prova le vostre idee e di costruire personaggi che siano unici e indimenticabili. Siete liberi di plasmare il vostro destino e di lasciare il segno in questo mondo, un tiro di dado alla volta.
 
-Le azioni sono misurate in base alle Azioni e il successo si basa sui tiri di dado, sulla vostra competenza, sulle Abilità e sulle vostre scelte tattiche.
+Le azioni sono misurate in Azioni; il successo dipende dai tiri di dado, dalla competenza, dalle Abilità e dalle scelte tattiche.
 
 Ricordate: le prove possono essere evitate con intelligenza e strategia. L'esplorazione, la capacità di risolvere enigmi e l'immaginazione sono componenti cruciali di questo gioco. Non cercate per forza la soluzione nella scheda, usate l'ingegno!
 
@@ -92,7 +92,7 @@ Ti elenco un po' di termini e concetti che troverai ripetuti più volte nel libr
 
 **Abilità**: sono capacità particolari che il personaggio ha imparato ad usare. Spesso simili a capacità magiche, permettono azioni particolari, di sovvertire le regole e concedono dei bonus ai Tiri Salvezza che si cumulano tra loro. Si prendono ai passaggi di livello (vedi Abilità, pag. )
 
-**Azione**:  è ciò che si fa in un intervallo di tempo. Ogni cosa che viene fatta dal personaggio si misura in Azioni. Combattere, lanciare Incantesimi, scassinare, bere pozioni, spostarsi... in ogni round si possono fare 3 Azioni. Un'Azione dura circa 3 secondi.
+**Azione**:  è ciò che si fa in un intervallo di tempo. Ogni cosa che viene fatta dal personaggio si misura in Azioni. Combattere, lanciare Incantesimi, scassinare, bere pozioni, spostarsi… in ogni round si possono fare 3 Azioni. Un'Azione dura circa 3 secondi.
 
 **Bonus**: qualsiasi modificatore dovuto a fattori esterni, ambientali, magici, di circostanza o che decida il Narratore è un bonus o penalità da applicare al tiro di dado o difficoltà nella prova.
 
@@ -110,11 +110,11 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
 **Lanciare Incantesimi sotto distrazione o dopo una ferita recente**: quando un incantatore vuole usare una Magia ma è disturbato, è stato ferito nello stesso round o comunque distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
 
-**Classe di Difficoltà (DC)**: indica quanto è difficile riuscire in una prova. Può essere usato per le competenze (nuotare..) come le conoscenze (veleni..). Negli incantesimi è la difficoltà a resistere agli incantesimi. Indica a che valore arrivare per superare e riuscire nella prova.
+**Classe di Difficoltà (DC)**: indica quanto è difficile riuscire in una prova. Può essere usata per le competenze, come Nuotare, e per le conoscenze, come Veleni. Negli incantesimi indica la difficoltà per resistere agli effetti. Indica a quale valore arrivare per superare e riuscire nella prova.
 
-**Competenza** (skill): la competenza ci dice ciò che sappiamo ed il suo valore indica il grado di conoscenza della stessa. Può essere lo studio di una lingua, l'arrampicarsi, il notare piccole cose.
+**Competenza** (skill): la competenza ci dice ciò che sappiamo e il suo valore indica il grado di conoscenza della stessa. Può essere lo studio di una lingua, l'arrampicarsi, il notare piccole cose.
 
-**Competenza con le Armi (CA) (da mischia o distanza)**  è la tua capacità di saper colpire l'avversario con armi da mischia (spade, mazze, pugni..) o da tiro/distanza (pugnali da lancio, archi, balestre..)
+**Competenza con le Armi (CA) (da mischia o distanza)**  è la tua capacità di saper colpire l'avversario con armi da mischia (spade, mazze, pugni…) o da tiro/distanza (pugnali da lancio, archi, balestre…)
 
 **Competenza Magica (CM)**: è la tua capacità di usare le magie, più è alto questo valore più le magie saranno efficaci, più ne avrai a disposizione, più ne potrai lanciare.
 
@@ -124,9 +124,9 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
 **Distanza**: la distanza, per quanto riguarda il combattimento, è misurata in quadretti da 1 metro.
 
-**Devoto**: un personaggio che si è legato a un Patrono e ha almeno 2 Tratti in comune.
+**Devoto**: un personaggio che sceglie di aderire formalmente al Patrono reclamante e ha almeno 2 Tratti distinti in comune con lui. Un personaggio non può essere Devoto e Seguace contemporaneamente.
 
-**Seguace**: un personaggio che si è legato ad un Patrono con 1 Tratto in comune
+**Seguace**: un personaggio che sceglie di aderire formalmente al Patrono reclamante e ha almeno 1 Tratto in comune con lui. Un personaggio non può essere Seguace e Devoto contemporaneamente.
 
 **Esplosione del 6**: quando esegui il Tiro per Colpire, il Tiro Salvezza, la Prova di Competenza, la Prova di Magia, l'Iniziativa (leggi le specifiche nel capitolo dedicato) o comunque ogni volta che viene indicato che vale l'esplosione del 6, per ogni dado che ha fatto 6 il dado va segnato e ritirato. Il risultato del nuovo tiro va anch'esso sommato e, se si fa un 6, si continua a ritirare finché si continua a fare 6.
 
@@ -138,7 +138,7 @@ A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
 **Incantatore, Mago:** indica un qualsiasi usufruitore di magia a qualsiasi titolo.
 
-**Mischia**: con mischia si intende il combattimento di contatto, corpo a corpo, spada a spada, ovvero quando il tuo personaggio combatte con un'arma che non abbia gittata (arco, balestre, fionde...) contro un avversario.
+**Mischia**: con mischia si intende il combattimento di contatto, corpo a corpo, spada a spada, ovvero quando il tuo personaggio combatte con un'arma che non abbia gittata (arco, balestre, fionde…) contro un avversario.
 Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere con la sua arma non da tiro. Una creatura di grandi dimensioni (o con un'arma lunga) potrebbe essere in mischia con il personaggio ma non viceversa.
 
 **Movimento**: il movimento rappresenta la capacità di spostarsi. Un'Azione di Movimento rappresenta lo spostamento del personaggio: più è alto il valore di Movimento, più metri una creatura può muoversi.
@@ -147,7 +147,7 @@ Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere 
 
 **Opzionale**: in OBSS sono presenti diverse regole Opzionali per diversificare e personalizzare il gioco. Parlatene durante la Sessione Zero e decidete che stile dare al vostro OBSS.
 
-**Prova di Caratteristica**: è una prova di Competenza che usa come bonus il valore di una Caratteristica, quale Forza, Carisma...
+**Prova di Caratteristica**: è una prova di Competenza che usa come bonus il valore di una Caratteristica, quale Forza, Carisma…
 
 **Patrono**: o divinità. Il Patrono è un essere superiore che può concedere poteri e garantire vantaggi.
 
@@ -157,7 +157,7 @@ Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere 
 
 **PNG**: personaggio non giocante. Sono personaggi particolari, importanti o meno che il Narratore tiene per condurre l'avventura.
 
-**Punti Esperienza/PX**:   ogni qual volta si risolvano difficoltà, indovinelli, si affrontino mostri o si trovino dei tesori, si giochi bene il personaggio e ci si diverta si guadagna esperienza. Questi punti accumulati nel tempo stabiliscono il livello e quindi le capacità del personaggio.
+**Punti Esperienza/PX**:   ogniqualvolta si risolvano difficoltà, indovinelli, si affrontino mostri o si trovino dei tesori, si giochi bene il personaggio e ci si diverta si guadagna esperienza. Questi punti accumulati nel tempo stabiliscono il livello e quindi le capacità del personaggio.
 
 **Punteggi caratteristica**:   abbreviati anche in caratteristica o statistiche. Ogni personaggio ha 6 Caratteristiche: Forza (FOR), Destrezza (DES), Costituzione (COS), Intelligenza (INT), Saggezza (SAG) e Carisma (CAR). Più è alto il punteggio, maggiore è la capacità del personaggio in quello specifico ambito.
 
@@ -167,11 +167,11 @@ Si considera in mischia qualsiasi creatura che il personaggio possa raggiungere 
 
 Ad ogni passaggio di livello si guadagna un certo numero di Punti Ferita, stabilito dalle regole. Ogni ferita si sottrae da questo cumulo di energie e quando si raggiungono 0 (zero) Punti Ferita si sviene, incapaci di agire.
 
-Se si viene ulteriormente feriti ed i Punti Ferita scendono fino a 10 + il doppio del valore della Costituzione allora si muore.
+Se si viene ulteriormente feriti e i Punti Ferita scendono fino a 10 + il doppio del valore della Costituzione allora si muore.
 
 **Riduzione del Danno (DR)**:   alcune creature hanno una resistenza innata ai danni e alle ferite. Questa resistenza si denota come DR. La Riduzione si applica dopo la Resistenza e i Tiri Salvezza.
 
-**Resistenza al Danno (RD)**, **Resistenza**: : una creatura potrebbe avere una resistenza ad una tipologia di danno. In questo caso si considera che dimezzi automaticamente il danno subito prima di applicare eventuali Tiri Salvezza.
+**Resistenza al Danno (RD)**, **Resistenza**: : una creatura potrebbe avere una resistenza a una tipologia di danno. In questo caso si considera che dimezzi automaticamente il danno subito prima di applicare eventuali Tiri Salvezza.
 
 **Round**: il combattimento o azioni sono divise in round. Un round rappresenta una unità temporale di circa 10 secondi. Durante il round ogni creatura ha la possibilità di agire in base alla sua iniziativa ed eseguire fino a 3 Azioni.
 
@@ -183,7 +183,7 @@ I Tiri Salvezza riguardano i riflessi e lo schivare (Riflessi), resistere a vele
 
 **Successo Critico/Fallimento Critico nel Tiro Salvezza** : a seconda dell'incantesimo, in caso di Successo Critico nel Tiro Salvezza si dimezzano ulteriormente gli effetti, mentre in caso di Fallimento Critico si subisce ancora più danno.
 
-**Tiro per Colpire (TC)**: è una prova di Attacco (Competenza Armi + Forza/Destrezza + Abilità + capacità date dalla lista di armi...) contro la Difesa (armatura + scudo + Abilità + magia...). Il Tiro per Colpire può essere in mischia (ovvero per le creature prossime alla tua arma, a distanza di mischia) oppure a distanza (per archi, balestre, ma anche pugnali lanciati...). Leggi bene il capitolo del combattimento.
+**Tiro per Colpire (TC)**: è una prova di Attacco (Competenza Armi + Forza/Destrezza + Abilità + capacità date dalla lista di armi…) contro la Difesa (armatura + scudo + Abilità + magia…). Il Tiro per Colpire può essere in mischia (ovvero per le creature prossime alla tua arma, a distanza di mischia) oppure a distanza (per archi, balestre, ma anche pugnali lanciati…). Leggi bene il capitolo del combattimento.
 
 **Tratto**: indica una componente del carattere. Ogni personaggio sceglie 5 Tratti per comporre e costruire la sua personalità.
 
@@ -191,7 +191,7 @@ I Tiri Salvezza riguardano i riflessi e lo schivare (Riflessi), resistere a vele
 
 **Uno porta male**: se tiri un 1 con il dado, togli 1 dal risultato totale. Non per questo un 6 tirato diventa un 5: l'esplosione del 6 rimane, solo che togli 1 al risultato finale. Detta diversamente, 1 vale 0.
 
-> Il gioco di D&D non ha né vinti né vincitori, ha solo giocatori che amano esercitare la propria immaginazione. I giocatori ed il DM condividono la creazione di avventure in terre fantastiche dove abbondano gli eroi e la magia funziona davvero. In un certo senso, il gioco di D&D non ha regole, solo suggerimenti di regole. Nessuna regola è inviolata, in particolare se una regola nuova o modificata incoraggerà la creatività e l'immaginazione. L'importante è godersi l'avventura. (Tom Moldvay, 03/12/1980. E tutto quanto detto vale anche per OBSS! NdA)
+> Il gioco di D&D non ha né vinti né vincitori, ha solo giocatori che amano esercitare la propria immaginazione. I giocatori e il DM condividono la creazione di avventure in terre fantastiche dove abbondano gli eroi e la magia funziona davvero. In un certo senso, il gioco di D&D non ha regole, solo suggerimenti di regole. Nessuna regola è inviolata, in particolare se una regola nuova o modificata incoraggerà la creatività e l'immaginazione. L'importante è godersi l'avventura. (Tom Moldvay, 03/12/1980. E tutto quanto detto vale anche per OBSS! NdA)
 
 Nel Manuale troverete diverse tipologie di box, ognuno ha un significato preciso:
 

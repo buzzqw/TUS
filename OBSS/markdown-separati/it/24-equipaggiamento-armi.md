@@ -6,7 +6,7 @@ La spada davvero buona è quella che rimane nel suo fodero. (Sanjuro)
 
 Usare un'Arma senza l'adeguata competenza impone un -1d6 al colpire
 
-La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed il tipo di danno (se da Taglio, Contundente o Perforante), la gittata, la Lista d'Arma appartenente e le caratteristiche speciali che può avere. Vedi anche Capacità di Carico e Trasporto.
+La tabella presenta il nome dell'arma, il costo, il danno e il tipo di danno, la gittata, la Lista d'Armi di appartenenza e le eventuali caratteristiche speciali.
 
 **Tabella: Lista delle Armi**
 
@@ -18,9 +18,9 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 | Arco lungo composito | note* | G/Frecce | 36 metri, **Archi** |
 | Arco lungo | 75 | G/Frecce | 20 metri, **Archi** |
 | Ascia martello | 16 | M/1d6 T/C | **Scuri e Accette** |
-| Ascia ad una mano | 6 | M/1d6 T | 6 metri, **Scuri e Accette**, **Armi da Lancio**, Versatile |
+| Ascia a una mano | 6 | M/1d6 T | 6 metri, **Scuri e Accette**, **Armi da Lancio**, Versatile |
 | Ascia da battaglia | 10 | G/1d10 T | **Scuri e Accette** |
-| Balestra ad una mano | 100 | M/Dardi | 6 metri, **Balestre** |
+| Balestra a una mano | 100 | M/Dardi | 6 metri, **Balestre** |
 | Balestra leggera | 35 | P/Dardi | 15 metri, **Armi Semplici**, **Balestre** |
 | Balestra pesante | 50 | G/Dardi | 30 metri, **Balestre** |
 | Bastone | 3 | M/1d6 C | **Armi Semplici**, Arma lunga, Versatile, Parata |
@@ -56,8 +56,8 @@ La tabella presenta il nome dell'arma, il suo costo in monete d'oro, il danno ed
 | Spada corta | 10 | P/1d6 P | **Armi Leggere**, **Spade**, Versatile, Parata |
 | Spada lunga | 15 | M/1d8 T | **Spade**, Parata |
 | Spada a due lame | 100 | G/1d8 T | **Armi doppie**, **Spade**, Parata |
-| Spada bastarda | 35 | M/1d8 T | **Spade**, Parata, 1d8 ad una mano, 2d6 a 2 mani |
-| Spada larga | 12 | M/2d4 T | **Spade**, Parata, 2d4 ad una mano, 1d10 a 2 mani |
+| Spada bastarda | 35 | M/1d8 T | **Spade**, Parata, 1d8 a una mano, 2d6 a 2 mani |
+| Spada larga | 12 | M/2d4 T | **Spade**, Parata, 2d4 a una mano, 1d10 a 2 mani |
 | Spadone a due mani | 50 | G/2d6 T | **Spade**, Parata |
 | Stocco | 20 | P/1d6 P | **Armi Leggere**, **Armi Aggraziate**, Versatile |
 | Tridente | 15 | M/1d6 P/T | 3 metri, **Aste**, **Armi da Lancio**, Arma Lunga, Controcarica |
@@ -88,7 +88,7 @@ Una Freccia/Dardo/Sasso magico con un bonus +1 costa 25 mo, se +2 costa 100 mo. 
 
 **Arco Composito**
 Un arco composito è un arco particolarmente robusto e rigido che richiede un certo minimo di Forza per essere usato efficacemente.
-Un **arco composito** lungo ha un modificatore fisso, da +1 a +5, il bonus si applica solo al danno e non al Tiro per Colpire. Un arco composito applica al danno un bonus pari al **minimo valore tra Forza ed il suo bonus**.
+Un **arco composito** lungo ha un modificatore fisso, da +1 a +5, il bonus si applica solo al danno e non al Tiro per Colpire. Un arco composito applica al danno un bonus pari al **minimo valore tra Forza e il suo bonus**.
 
 Un arco composito +3 usato da un personaggio con Forza 2 non può essere tirato completamente e quindi la freccia che parte avrà un modificatore al danno di +2.
 Un arco composito +1 usato da un personaggio con Forza 4 può essere tirato completamente e quindi la freccia che parte avrà un modificatore al danno di +1.
@@ -110,9 +110,9 @@ Un giavellotto tirato entro 12 metri non ha penalità, ma tirato entro 24 metri 
 
 Un **Proiettile che colpisce si considera distrutto**, se manca ha un 50\% (4-5-6 su un d6) di probabilità che sia ancora integro.
 
-Un Proiettile magico somma i suoi bonus a quelli del lanciatore per determinare il Tiro per Colpire ed il Danno.
+Un Proiettile magico somma i suoi bonus a quelli del lanciatore per determinare il Tiro per Colpire e il Danno.
 
-La **Dimensione dell'Arma** è indicata come P (piccola), M (media), G (grande) ed è riferita ad una creatura media. Vedi sezione Arma troppo grande
+La **Dimensione dell'Arma** è indicata come P (piccola), M (media), G (grande) ed è riferita a una creatura media. Vedi sezione Arma troppo grande
 
 Una **arma di dimensione superiore**  come ad esempio una Spada Lunga forgiata per un Ogre aumenta di una categoria il suo dado di danno.
 
@@ -138,7 +138,7 @@ Un'arma da lancio improvvisata ha una gittata 3 metri.
 
 **Lanciare armi**
 
-Una spada o comunque un'arma non fatta per essere lanciata può comunque essere scagliata contro l'avversario. Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore (la spada lunga fa 1d6, una spada corta 1d4..). La gittata è 3 metri.
+Una spada o comunque un'arma non fatta per essere lanciata può comunque essere scagliata contro l'avversario. Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore (la spada lunga fa 1d6, una spada corta 1d4…). La gittata è 3 metri.
 
 **Usare un'Arma senza l'adeguata competenza se non è un'Arma Semplice** Impone un -1d6 al Tiro per Colpire.
 
@@ -150,9 +150,9 @@ In questo caso essendo le penalità superiori ai 3d6 il personaggio non tira dad
 
 È possibile trovare ancora delle armi antiche funzionanti, armi che dopo 100 anni ancora possono essere usate.
 
-La maggior parte delle armi da fuoco dopo un lasso di tempo così lungo richiedono pezzi di ricambio ed una continua manutenzione. Questi pezzi di ricambio sono molto rari da trovare integri ed ancora più difficile è trovare un artigiano che sappia farli.
+La maggior parte delle armi da fuoco dopo un lasso di tempo così lungo richiedono pezzi di ricambio e una continua manutenzione. Questi pezzi di ricambio sono molto rari da trovare integri ed ancora più difficile è trovare un artigiano che sappia farli.
 
-Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili semi automatici ed i fucili automatici.
+Le armi che potrete trovare funzionanti sono i revolver, gli shotgun, i fucili semi automatici e i fucili automatici.
 - **Revolver**:
 - **Azioni**: 1 Azione per un singolo colpo sparato
 - **Caricatore**: 6 proiettili
@@ -197,7 +197,7 @@ Un eventuale costo non sarebbe inferiore alle 30 mo a proiettile.
 
 ### Problemi di fuoco
 
-Ogni qual volta il Tiro per Colpire sia un Fallimento Critico c'è stato un problema con l'arma e non ha sparato con successo.
+Ogniqualvolta il Tiro per Colpire sia un Fallimento Critico c'è stato un problema con l'arma e non ha sparato con successo.
 
 **Tira e somma 2d10, consulta la tabella**
 

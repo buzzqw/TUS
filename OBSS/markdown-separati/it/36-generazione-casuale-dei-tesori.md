@@ -2,7 +2,7 @@
 
 > {Come ogni amore non corrisposto, anche quello per le cose alla lunga si paga. (Adolfo Bioy Casares)
 
-Il Narratore nella preparazione dell'avventura può posizionare gli oggetti magici che preferisce, che ce ne sia bisogno, ed in puro stile OSR affidarsi ad una generazione casuale.
+Il Narratore nella preparazione dell'avventura può posizionare gli oggetti magici che preferisce, che ce ne sia bisogno, ed in puro stile OSR affidarsi a una generazione casuale.
 
 L'approccio esclusivamente casuale non è sempre suggerito, i risultati potrebbero stravolgere l'avventura se non tutta la campagna!
 Eppure trovare una spada ammazzadraghi al primo livello siate certi che genererà avventure a non finire per i personaggi!
@@ -56,11 +56,11 @@ Quando vengono trovate delle Gemme o Gioielli il Narratore deve tirare per deter
 
 ### Capacità Speciali ed Oggetti Maledetti
 
-Quando nel *Bonus Magico* c'è scritto **ritira + Capacità Speciale Armi/Armature Tipo...** significa che devi ritirare il 1d100, ignorando altri risultati sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla *Tabella Capacità Speciale Armi Tipo...* risultante.
+Quando nel *Bonus Magico* c'è scritto **ritira + Capacità Speciale Armi/Armature Tipo…** significa che devi ritirare il 1d100, ignorando altri risultati sopra 80 e tenere il bonus magico ottenuto, poi potrai tirare sulla *Tabella Capacità Speciale Armi Tipo…* risultante.
 
 Quando un'Arma, Armatura o Scudo è indicata come **Maledetta** può essere indicata la penalità al colpire ed al danno. L'oggetto può essere abbandonato senza grossi problemi.
 
-Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anello**... **Maledetta** (es. *Arma Maledetta*) è necessario ritirare sulla tabella e verificare se il nuovo oggetto sia una versione maledetta. In caso fosse disponibile selezionarlo altrimenti l'oggetto si comporta come un oggetto maledetto -2 (attacco/ danno o Difesa) o non funzionante.
+Quando invece è segnato **Arma**, **Armatura**, **Verga** , **Bastone**, **Anello**… **Maledetta** (es. *Arma Maledetta*) è necessario ritirare sulla tabella e verificare se il nuovo oggetto sia una versione maledetta. In caso fosse disponibile selezionarlo altrimenti l'oggetto si comporta come un oggetto maledetto -2 (attacco/ danno o Difesa) o non funzionante.
 
 **Tabella: Tipologia di Oggetto magico**
 

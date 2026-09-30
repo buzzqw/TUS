@@ -6,7 +6,7 @@ Il reato di furto sarà punito con il marchio a fuoco dei ladri, in pieno petto.
 
 Quando si tenta di spaccare un oggetto le scelte sono due: colpirlo con un oggetto (arma?) o romperlo con la forza bruta.
 
-## Le dimensioni contano...
+## Le dimensioni contano…
 
 A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da colpire.
 
@@ -14,11 +14,11 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 | **Taglia** | **Mod. Difesa** | **Dimensioni** |
 | --- | --- | --- |
-| Colossale | -8 | 18m+ |
-| Mastodontica | -6 | 9-18m |
-| Enorme | -4 | 4-9m |
-| Grande | -2 | 2.4-4m |
-| Media | +0 | 1.2-2.4m |
+| Colossale | -8 | 18 m+ |
+| Mastodontica | -6 | 9-18 m |
+| Enorme | -4 | 4-9 m |
+| Grande | -2 | 2.4-4 m |
+| Media | +0 | 1.2-2.4 m |
 | Piccola | +2 | 60-120cm |
 | Minuscola | +4 | 30-60cm |
 | Minuta | +6 | 15-30cm |
@@ -26,7 +26,7 @@ A seconda delle dimensioni dell'oggetto questo può essere più o meno facile da
 
 **Modificatore Difesa**
 
-Gli oggetti sono più facili da colpire delle creature poiché di solito non si muovono ma molti sono abbastanza resistenti da ignorare il danno ad ogni colpo. La Difesa di un oggetto è pari a 10 + il suo modificatore di Taglia (vedi Tabella: Colpire un Oggetto) + il suo modificatore di Destrezza (caso mai ne avesse uno).
+Gli oggetti sono più facili da colpire delle creature poiché di solito non si muovono ma molti sono abbastanza resistenti da ignorare il danno a ogni colpo. La Difesa di un oggetto è pari a 10 + il suo modificatore di Taglia (vedi Tabella: Colpire un Oggetto) + il suo modificatore di Destrezza (caso mai ne avesse uno).
 
 Se si usano 3 Azioni per prendere la mira si colpisce automaticamente con un'arma da mischia.
 
@@ -59,9 +59,9 @@ Vedi anche Tabella: Porte, pag.
 
 ## Danneggiare gli oggetti
 
-**Durezza**: rappresenta la resistenza dell'oggetto a essere scalfitto o danneggiato. Quando si calcola il danno ad un oggetto va **sottratta la Durezza** del materiale prima di applicare il danno.
+**Durezza**: rappresenta la resistenza dell'oggetto a essere scalfitto o danneggiato. Quando si calcola il danno a un oggetto va **sottratta la Durezza** del materiale prima di applicare il danno.
 
-**Attacchi di Energia**: quasi tutti gli oggetti hanno Resistenza al danno verso gli attacchi di energia (fuoco, elettricità...), dividete per 2 i danni prima di applicare la Durezza mentre altri oggetti potrebbero essere particolarmente vulnerabili.
+**Attacchi di Energia**: quasi tutti gli oggetti hanno Resistenza al danno verso gli attacchi di energia (fuoco, elettricità…), dividete per 2 i danni prima di applicare la Durezza mentre altri oggetti potrebbero essere particolarmente vulnerabili.
 
 Per esempio, il fuoco potrebbe infliggere il doppio del danno a pergamene, stoffa e altri oggetti che bruciano facilmente. Oggetti e creature in cristallo o ceramica potrebbero subire danno doppio (vulnerabilità) contro un attacco sonoro.
 
@@ -84,7 +84,7 @@ Un **oggetto incantato** come un'arma o armatura ha Durezza, Punti Ferita e DC p
 
 **Oggetti animati**: Gli oggetti animati contano come creature per determinarne la Difesa e Punti Ferita (non sono considerati oggetti inanimati).
 
-## Le Dimensioni contano per Sfondare...
+## Le Dimensioni contano per Sfondare…
 
 Creature di Taglia superiore o inferiore a quella Media hanno bonus o penalità dati dalla taglia sulla prova di Forza (TS Tempra con Forza) per sfondare una porta:
 

@@ -53,7 +53,7 @@ Nella scheda vanno segnate la Professione iniziale e le competenze acquisite. D'
 | **Tagliaborse** | Disattivare congegni | Artista della fuga | Furtività | Mani di fata |
 | **Teatrante** | Perc. Emozioni | Lingue | Acrobatica | Intrattenere |
 
-> Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti...(Richard de Bury)
+> Anche se indubbiamente il desiderio di conoscere è naturale per tutti gli uomini, la voglia di imparare non è cosa da tutti…(Richard de Bury)
 
 Una professione non si esaurisce in sole 4 competenze, ma queste sono quelle che verranno utilizzate maggiormente durante le avventure. Il Narratore sarà aiutato dalla vostra professione a capire come il vostro personaggio potrà risolvere le situazioni e come interagirà con gli altri personaggi.
 
@@ -73,7 +73,7 @@ Il personaggio acquisisce una Competenza a punteggio 1 per ogni punto di Intelli
 
 Il giocatore **aumenta di 1 il punteggio di una Caratteristica che si colleghi alla Professione o al background** fino al valore massimo di 4. Potrebbe essere Intelligenza per un apprendista mago, ma, se fa il culturista per hobby, potrebbe essere anche Forza.
 
->> **Professione ???**: Non sottovalutate la scelta della Professione! Non tutto può risolversi con asce o magia. Sapere districare nodi, seguire tracce, riconoscere erbe o malattie fanno del personaggio un esperto, creano una professione. Non dovete definire il personaggio solo in base alle Abilità che ha ma in base a cosa e quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre più utile di un combattente esperto se si tratta di attraversare un deserto.
+>> **Professione ???**: Non sottovalutate la scelta della Professione! Non tutto può risolversi con asce o magia. Saper districare nodi, seguire tracce e riconoscere erbe o malattie rende il personaggio esperto e può definire una professione. Non dovete definire il personaggio solo in base alle Abilità che ha, ma in base a cosa sa fare e a quanto bene sa farlo. Un personaggio di basso livello ma esperto di sopravvivenza sarà sempre più utile di un combattente esperto se si tratta di attraversare un deserto.
 
 **Tabella: Elenco Competenze e relativa Caratteristica d'uso**
 
@@ -88,7 +88,7 @@ Il giocatore **aumenta di 1 il punteggio di una Caratteristica che si colleghi a
 | - | - | Valutare | Seguire tracce | - |
 | - | - | - | Sopravvivenza | - |
 
-La **Conoscenza** va esplicitata su quale argomento verte: Architettura ed Ingegneria, Dungeon, Geografia, Legge, Lingue (terrestri o meno), Miti e Leggende, Nobiltà ed Araldica, Occulto, Piani, Religione, Storia, Tecnologia Antica ...
+La **Conoscenza** va esplicitata su quale argomento verte: Architettura ed Ingegneria, Dungeon, Geografia, Legge, Lingue (terrestri o meno), Miti e Leggende, Nobiltà ed Araldica, Occulto, Piani, Religione, Storia, Tecnologia Antica …
 
 A ogni **livello successivo al primo** distribuisci un numero di punti pari alla metà del punteggio di Intelligenza +1, $[(Int/2)+1]$, con un minimo di 1 punto, tra le competenze già conosciute o perfezionate nell'avventura o apprese ex novo.
 
@@ -106,7 +106,7 @@ Un personaggio può apprendere una nuova competenza o migliorarla con uno studio
 
 Per apprendere una nuova professione deve passare almeno 6 mesi per 6 ore al giorno con chi pratica quella professione. Passati i 6 mesi il personaggio acquisisce le 4 competenze della professione. Eventuali Competenze già conosciute aumenteranno di 1 punto.
 
-### Competenze ed i loro ambiti di utilizzo
+### Le Competenze e i loro ambiti di utilizzo
 
 Sono descritte sommariamente le Competenze e i loro utilizzi soliti. Viene anche indicato il numero di Azioni necessarie per svolgere la prova tipica; gli usi più complessi richiedono più tempo e Azioni.
 
@@ -122,7 +122,7 @@ Le Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Arrampicarsi* (FOR)**: Con questa competenza si possono scalare superfici verticali, dalle mura cittadine alle pareti rocciose. È legata all'Azione di Movimento. Con 8 punti il movimento di Scalare è solo dimezzato.
 
-**Artigianato (INT)**: si esplicita su una capacità costruttiva, permette di costruire l'oggetto dell'artigianato e di giudicare e valutare un lavoro nell'ambito della competenza.
+**Artigianato (INT)**: si applica a una capacità costruttiva, permette di costruire l'oggetto dell'artigianato e di giudicare e valutare un lavoro nell'ambito della competenza.
 
 **Artista della fuga (DES)**: Con questa competenza ci si può liberare da legacci (contrapposta all'Usare Corde) e manette. 1 Azione ogni 10 di DC. Con 6 punti il tempo è 1 Azione ogni 15 di DC, con 12 è 1 Azione ogni 20 DC.
 
@@ -152,7 +152,7 @@ Le Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Conoscenze di Religione (INT)**: Con questa competenza si hanno conoscenze su Patroni, mitologia, Celestiali, Non Morti, simboli sacri, tradizione ecclesiastica, feste e ricorrenze liturgiche. 1 Azione.
 
-**Conoscenze di Storia (INT)**: Con questa competenza si hanno conoscenze di Storia, come guerre, migrazioni, colonie, fondazioni di città e accadimenti importanti... 1 Azione.
+**Conoscenze di Storia (INT)**: Con questa competenza si hanno conoscenze di Storia, come guerre, migrazioni, colonie, fondazioni di città e accadimenti importanti… 1 Azione.
 
 **Diplomazia (CAR)**: Con questa competenza si possono risolvere diverbi e raccogliere preziose informazioni e dicerie dalle persone. La competenza è anche usata per negoziare in modo efficace con la giusta etichetta e condotta adatta alla situazione controversa. Costo variabile.
 
@@ -160,7 +160,7 @@ Le Competenze con un * subiscono le penalità dovute all'armatura indossata .
 
 **Erboristeria (INT)**: Con questa competenza si hanno conoscenze di come riconoscere e preparare pozioni e veleni naturali. Il punteggio si applica alle prove per distillare pozioni. Riconoscere Pozioni naturali 1 Azione ogni 10 di DC. Con 6 punti il tempo è 1 Azione ogni 15 di DC, con 12 punti è 1 Azione ogni 20 DC.
 
-**Falsificare (INT)**: Con questa competenza si sa falsificare e riconoscere come falsi oggetti d'arte, mappe, firme... Costo variabile.
+**Falsificare (INT)**: Con questa competenza si sa falsificare e riconoscere come falsi oggetti d'arte, mappe, firme… Costo variabile.
 
 **Gestire animali (SAG)**: Con questa competenza è possibile addestrare e ammansire animali. 1 minuto ogni 5 di DC. Con 6 punti il tempo è 1 minuto ogni 10 di DC, con 12 è 1 minuto ogni 15 DC.
 
@@ -231,7 +231,7 @@ La **Competenza Armi** (abbreviata in **CA**) indica la capacità e la bravura n
 
 Il **Tiro per Colpire per le armi da mischia** si risolve con una prova di Competenza Armi (**CA**) + **Forza** + eventuali Abilità + bonus da Lista d'Armi + bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura + scudo + modificatori).
 
-Il **Tiro per Colpire con armi da distanza** (archi, balestre, pugnali da lancio, giavellotti, sassi...) si risolve con una prova di Competenza Armi (**CA**) + **Destrezza** + bonus da Lista d'Armi + eventuali capacità, bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura + scudo + modificatori).
+Il **Tiro per Colpire con armi da distanza** (archi, balestre, pugnali da lancio, giavellotti, sassi…) si risolve con una prova di Competenza Armi (**CA**) + **Destrezza** + bonus da Lista d'Armi + eventuali capacità, bonus magici e modificatori contro la Difesa dell'avversario (Destrezza + armatura + scudo + modificatori).
 
 Quando si assegna un punto a **CA** è necessario precisare su quale gruppo di arma si prende, se non si dichiara allora è come averlo preso nel gruppo Armi Semplici.
 Controllare l'elenco Armi per Tipologia Omogenea .
@@ -252,7 +252,7 @@ Per poter utilizzare **Armature Medie** e **Scudi Medi** è necessario avere alm
 
 Con almeno 3 punti in Competenza Armi ed 1 in Forza si possono usare senza penalità **Armature Pesanti** e **Scudi Pesanti**.
 
-Usare un'**Armatura senza l'adeguata competenza** impedisce di usare il valore di Destrezza in Difesa ed il bonus conferito dall'armatura alla Difesa si riduce di 1.
+Usare un'**Armatura senza l'adeguata competenza** impedisce di usare il valore di Destrezza in Difesa e il bonus conferito dall'armatura alla Difesa si riduce di 1.
 
 Usare uno **Scudo senza l'adeguata competenza** peggiora il Tiro per Colpire di 1 e lo scudo conferisce un bonus massimo a Difesa di 1.
 

@@ -1,6 +1,6 @@
 # I Mostri
 
->>> **Un po' di mostri...**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzioni negative.
+>>> **Un po' di mostri…**: Le creature qui presentate vogliono essere un esempio, corposo, degli avversari che i tuoi personaggi potrebbero incontrare. Attenzione, non è detto che siano tutti nemici o per forza che abbiano intenzioni negative.
 
 Creature più civilizzate avranno una loro condotta etica e morale individuale, anche all'interno di uno stesso gruppo di avversari c'è chi potrebbe essere più nemico o semplicemente indifferente.
 
@@ -35,7 +35,7 @@ I mostri sono la poesia della paura. (Stephen King)
 
 ***Anfibio.*** L'aboleth può respirare aria e acqua.
 
-***Nube di Muco.*** Mentre è sott'acqua, l'aboleth è avvolto da muco mutante. Una creatura che entri a contatto con l'aboleth, o che lo colpisca con un attacco da mischia mentre si trova entro 1 metro da esso, deve effettuare un Tiro Salvezza di Tempra DC 24. Se lo fallisce, la creatura resta ammalata per 1d4 ore. La creatura ammalata può respirare solo sott'acqua.
+***Nube di Muco.*** Mentre è sott'acqua, l'aboleth è avvolto da muco mutante. Una creatura che entri a contatto con l'aboleth, o che lo colpisca con un attacco da mischia mentre si trova entro 1 metro da esso, deve effettuare un Tiro Salvezza su Tempra DC 24. Se lo fallisce, la creatura resta ammalata per 1d4 ore. La creatura ammalata può respirare solo sott'acqua.
 
 ***Sonda Telepatica.*** Se una creatura comunica telepaticamente con l'aboleth, e l'aboleth può vederla, l'aboleth ne apprende i più grandi desideri.
 
@@ -43,13 +43,13 @@ I mostri sono la poesia della paura. (Stephen King)
 
 ***Tentacolo.** Attacco con arma da mischia*: +10 a colpire, portata 3 m, un bersaglio.
 
-*Colpisce*: 12 (2d6 + 5) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 24 o divenire ammalato. La malattia non produce alcun effetto per 1 minuto e può essere rimossa da qualsiasi magia che curi le malattie. Dopo 1 minuto, la pelle della creatura ammalata diventa trasparente e viscida, la creatura non può recuperare Punti Ferita a meno che non sia sott'acqua, e la malattia può essere rimossa solo da *guarire* o un altro incantesimo cura malattie di livello 3 o più. Quando la creatura si trova al di fuori di un corpo d'acqua, subisce 6 (1d12) danni da acido ogni 10 minuti a meno che la sua pelle non venga bagnata prima che siano passati questi 10 minuti.
+*Colpisce*: 12 (2d6 + 5) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 24 o divenire ammalato. La malattia non produce alcun effetto per 1 minuto e può essere rimossa da qualsiasi magia che curi le malattie. Dopo 1 minuto, la pelle della creatura ammalata diventa trasparente e viscida, la creatura non può recuperare Punti Ferita a meno che non sia sott'acqua, e la malattia può essere rimossa solo da *guarire* o un altro incantesimo cura malattie di livello 3 o più. Quando la creatura si trova al di fuori di un corpo d'acqua, subisce 6 (1d12) danni da acido ogni 10 minuti a meno che la sua pelle non venga bagnata prima che siano passati questi 10 minuti.
 
 ***Coda.** Attacco con arma da mischia*: +9 a colpire, portata 3 m, un bersaglio.
 
 *Colpisce:* 15 (3d6 + 5) danni contundenti.
 
-***Schiavizzare (3/Giorno).*** L'aboleth prende a bersaglio una creatura che può vedere entro 9 metri da esso. Il bersaglio deve riuscire un Tiro Salvezza di Volontà DC 24 o restare affascinato magicamente dall'aboleth finché l'aboleth muore o i due si trovano su piani di esistenza differenti. Il bersaglio affascinato è sotto il controllo dell'aboleth e non può effettuare reazioni. L'aboleth e il bersaglio possono comunicare telepaticamente tra di loro a qualsiasi distanza.
+***Schiavizzare (3/Giorno).*** L'aboleth prende a bersaglio una creatura che può vedere entro 9 metri da esso. Il bersaglio deve riuscire un Tiro Salvezza su Volontà DC 24 o restare affascinato magicamente dall'aboleth finché l'aboleth muore o i due si trovano su piani di esistenza differenti. Il bersaglio affascinato è sotto il controllo dell'aboleth e non può effettuare reazioni. L'aboleth e il bersaglio possono comunicare telepaticamente tra di loro a qualsiasi distanza.
 
 Ogniqualvolta il bersaglio affascinato subisce danni, può ripetere il Tiro Salvezza. Se lo riesce, l'effetto termina. Non più di una volta ogni 24 ore, può ripetere il Tiro Salvezza quando si trova almeno a 1,5 chilometri di distanza dall'aboleth.
 
@@ -205,9 +205,9 @@ A volontà: *Conoscere i Tratti*, *Invisibilità* (solo personale)
 
 *Colpisce:* 22 (4d6 + 8) danni taglienti più 27 (6d8) danni da Luce.
 
-***Arco Lungo dell'Uccisione.** Attacco con arma a distanza*: +17 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo dell'Uccisione.** Attacco con arma a distanza*: +17 a colpire, gittata 45 m, un bersaglio.
 
-*Colpisce:* 15 (2d8 + 6) danni perforanti più 27 (6d8) danni da Luce. Se il bersaglio è una creatura con 100 Punti Ferita o meno, deve riuscire un Tiro Salvezza di Tempra DC 35 o morire.
+*Colpisce:* 15 (2d8 + 6) danni perforanti più 27 (6d8) danni da Luce. Se il bersaglio è una creatura con 100 Punti Ferita o meno, deve riuscire un Tiro Salvezza su Tempra DC 35 o morire.
 
 ***Spada Volante.*** Il solar libera il suo spadone perché fluttui magicamente in uno spazio non occupato entro 1 metro da lui. Se il solar può vedere la spada, con un'azione gratuita le può ordinare mentalmente di volare per un massimo di 15 metri ed effettuare un attacco contro un bersaglio o ritornare nella mano del solar. Se la spada fluttuante è bersaglio di un effetto, si considera come se fosse impugnata dal solar. Se il solar muore, la spada fluttuante cade a terra.
 
@@ -253,7 +253,7 @@ Rispettati da tutti gli angeli, i solar a volte comandano armate contro le legio
 
 *Colpisce:* 10 (2d6 + 3) danni taglienti più 3 (1d6) danni da acido. Se il bersaglio è una creatura di taglia Grande o inferiore, è afferrata (DC 13 per fuggire). Fino al termine dell'afferrare, l'ankheg può mordere solo la creatura afferrata e ha +1d6 ai tiri di attacco contro di essa.
 
-***Spruzzo Acido*** L'ankheg sputa acido in una linea lunga 9 metri e larga 1 metro, purché non stia afferrando nessuna creatura. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 14, e subire 10 (3d6) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Spruzzo Acido*** L'ankheg sputa acido in una linea lunga 9 metri e larga 1 metro, purché non stia afferrando nessuna creatura. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 14, e subire 10 (3d6) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -289,7 +289,7 @@ Alcuni ankheg sono addestrabili e possono diventare animali da carico, sebbene i
 
 ***Venti affamati** (2 Azioni)*: L'arpia usa il vento per avvicinare le sue prede. Un bersaglio entro 6 metri deve fare un Tiro Salvezza su Tempra DC 12 o essere tirato a fianco dell'arpia. Se il bersaglio è stato alzato da terra e non può volare, poi cade normalmente.
 
-***Canto Ammaliatore.*** L'arpia canta una melodia magica. Ogni umanoide e gigante entro 90 metri dall'arpia e che possa udire la canzone deve riuscire un Tiro Salvezza di Volontà DC 13 o restare affascinato fino al termine della canzone. L'arpia deve effettuare un'Azione Immediata durante il suo prossimo round per continuare a cantare. Può smettere di cantare in qualsiasi momento. Il canto ha termine se l'arpia è inabile.
+***Canto Ammaliatore.*** L'arpia canta una melodia magica. Ogni umanoide e gigante entro 90 metri dall'arpia e che possa udire la canzone deve riuscire un Tiro Salvezza su Volontà DC 13 o restare affascinato fino al termine della canzone. L'arpia deve effettuare un'Azione Immediata durante il suo prossimo round per continuare a cantare. Può smettere di cantare in qualsiasi momento. Il canto ha termine se l'arpia è inabile.
 
 Mentre è affascinato dall'arpia, un bersaglio è inabile e ignora le canzoni di altre arpie. Se il bersaglio affascinato si trova a più di 1 metro dall'arpia, il bersaglio deve muoversi durante il proprio round per dirigersi verso l'arpia usando la via più diretta. Prima di muoversi in un terreno pericoloso, come lava o un pozzo, e prima di subire danno da qualsiasi fonte che non sia l'arpia, il bersaglio potrà ripetere il Tiro Salvezza. Una creatura può ripetere il Tiro Salvezza al termine di ciascun proprio round. Se il Tiro Salvezza ha successo, l'effetto ha termine per quel bersaglio.
 
@@ -309,7 +309,7 @@ Anche se in definitiva selvagge e senza alcun rimorso per le loro azioni, divers
 
 Le arpie tendono ad indossare ninnoli e ciondoli rubati alle loro vittime, perché amano compiacersi dei brillanti ornamenti degli uomini. Da vicino queste creature trasudano del puzzo delle loro vittime divorate e raramente lasciano che le creature non ancora ammaliate si avvicinino troppo, cosicché non sentano l'odore del sangue e della putrefazione sulle loro penne. Per questo motivo, molte arpie si cospargono di profumi e oli aromatici.
 
-Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alcune assomigliano ad una mescolanza di avvoltoi e donne, mentre altre portano sulle penne i tratti regali di falchi e falconi. Rare nidiate di arpie, in luoghi isolati e tropicali del mondo, hanno anche piume colorate come i pappagalli.
+Le arpie sono marcatamente differenti a seconda della regione in cui vivono. Alcune assomigliano a una mescolanza di avvoltoi e donne, mentre altre portano sulle penne i tratti regali di falchi e falconi. Rare nidiate di arpie, in luoghi isolati e tropicali del mondo, hanno anche piume colorate come i pappagalli.
 
 ### Azer
 
@@ -402,7 +402,7 @@ La Banshee è lo spirito infuriato di una donna che ha tradito i propri cari o �
 - **Sensi**: \resizedown{Scurovisione 18 m}
 - **Sfida**: 3 (700 PX)
 
-***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri dal basilisco e i due si possono vedere vicendevolmente, se non inabile, il basilisco può obbligare la creatura ad effettuare un Tiro Salvezza di Tempra DC 14. Se la creatura fallisce il Tiro Salvezza diventa Rallentato 1. La creatura deve ripetere il Tiro Salvezza al termine del suo prossimo round. Se lo riesce, l'effetto termina. Se lo fallisce, la creatura è pietrificata finché non viene liberata dall'incantesimo *Ristorare Superiore* o altra magia.
+***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri dal basilisco e i due si possono vedere vicendevolmente, se non inabile, il basilisco può obbligare la creatura ad effettuare un Tiro Salvezza su Tempra DC 14. Se la creatura fallisce il Tiro Salvezza diventa Rallentato 1. La creatura deve ripetere il Tiro Salvezza al termine del suo prossimo round. Se lo riesce, l'effetto termina. Se lo fallisce, la creatura è pietrificata finché non viene liberata dall'incantesimo *Ristorare Superiore* o altra magia.
 
 Una creatura che non sia sorpresa e che voglia attaccare il basilisco senza guardarla direttamente ha -1d6 al Tiro per Colpire.
 
@@ -459,9 +459,9 @@ Per motivi ignoti, le donnole, i furetti e le topine sono immuni allo sguardo de
 
 ***Inghiottire.*** Il behir effettua un attacco di morso contro un bersaglio di taglia Media o inferiore che sta afferrando. Se l'attacco colpisce, il bersaglio è inghiottito, e l'afferrare ha termine. Il bersaglio inghiottito è accecato e intralciato, ha copertura completa contro gli attacchi e altri effetti all'esterno del behir, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del behir. Il behir può inghiottire solo una creatura alla volta.
 
-Se il behir subisce 30 o più danni in un singolo round da una creatura che ha inghiottito, deve riuscire un Tiro Salvezza di Tempra DC 19 al termine di quel round o vomitare la creatura, che ricade prona in uno spazio entro 3 metri dal behir. Se il behir muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
+Se il behir subisce 30 o più danni in un singolo round da una creatura che ha inghiottito, deve riuscire un Tiro Salvezza su Tempra DC 19 al termine di quel round o vomitare la creatura, che ricade prona in uno spazio entro 3 metri dal behir. Se il behir muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
 
-***Soffio di Fulmine (Ricarica 5-6).*** Il behir esala fulmini in una linea lunga 6 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 24 e subire 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio di Fulmine (Ricarica 5-6).*** Il behir esala fulmini in una linea lunga 6 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 24 e subire 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ***Arrabbiato:*** il Behir ricarica il soffio di fulmine. Costa 2 Azioni.
 
@@ -490,7 +490,7 @@ Nonostante la sua furia bestiale, il behir non è necessariamente malvagio e pu�
 - **Sensi**: \resizedown{Vista Cieca 5 m}
 - **Sfida**: 2 (450 PX)
 
-*Individuazione del fuoco*: la Blatta Esplosiva può percepire fuochi entro 100 metri di distanza, purché pari o superiori ad una torcia
+*Individuazione del fuoco*: la Blatta Esplosiva può percepire fuochi entro 100 metri di distanza, purché pari o superiori a una torcia
 
 *Scavare*: la blatta esplosiva può scavare nel terreno solido a metà del proprio movimento.
 
@@ -532,7 +532,7 @@ Nel nido dove dimorano c'è almeno una regina che comanda le blatte, estremament
 - **Linguaggi**: Comune, può solo comprenderlo
 - **Sfida**: 4 (1100 PX)
 
-**Azioni*Multiattacco.*** Il B.O.C effettua due attacchi con artigli ed uno con il morso, oppure effettua due attacchi con i tentacoli
+**Azioni*Multiattacco.*** Il B.O.C effettua due attacchi con artigli e uno con il morso, oppure effettua due attacchi con i tentacoli
 
 ***Artigli.** Attacco con arma da mischia*: +7 a colpire, portata 3 m, un bersaglio, 1 danno da Sanguinamento.
 
@@ -582,7 +582,7 @@ Il Black Ops Cat meglio conosciuto come B.O.C. è un grande felino predatore, ov
 
 *Colpisce:* 11 (2d8 + 2) danni perforanti.
 
-***Giavellotto.** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 12m, un bersaglio.
+***Giavellotto.** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 12 m, un bersaglio.
 
 *Colpisce:* 9 (2d6 + 2) danni perforanti in mischia o 5 (1d6 + 2) danni perforanti a gittata.
 
@@ -617,7 +617,7 @@ I bugbear, quando si rivolgono alla religione, prediligono le divinità dell'omi
 
 *Colpisce:* 30 (4d12 + 4) danni perforanti.
 
-***Salto Letale.*** Se il bulette può saltare di almeno 3 metri come parte del suo movimento, può usare poi questa azione per atterrare in piedi in uno spazio che contiene una o più creature. Ciascuna di queste creature deve riuscire un Tiro Salvezza di Tempra o Riflessi DC 18 (a scelta del bersaglio) o venire gettata prona e subire 14 (3d6 + 4) danni contundenti più 14 (3d6 + 4) danni taglienti. Se il Tiro Salvezza riesce, la creatura subisce solo la metà dei danni, non è gettata prona, e viene spinta di 1 metro fuori dello spazio del bulette in uno spazio non occupato a scelta della creatura. Se non ci sono spazi non occupati a gittata, la creatura cade prona nello spazio del bulette.
+***Salto Letale.*** Se il bulette può saltare di almeno 3 metri come parte del suo movimento, può usare poi questa azione per atterrare in piedi in uno spazio che contiene una o più creature. Ciascuna di queste creature deve riuscire un Tiro Salvezza su Tempra o Riflessi DC 18 (a scelta del bersaglio) o venire gettata prona e subire 14 (3d6 + 4) danni contundenti più 14 (3d6 + 4) danni taglienti. Se il Tiro Salvezza riesce, la creatura subisce solo la metà dei danni, non è gettata prona, e viene spinta di 1 metro fuori dello spazio del bulette in uno spazio non occupato a scelta della creatura. Se non ci sono spazi non occupati a gittata, la creatura cade prona nello spazio del bulette.
 
 ***Fiuto del sangue.*** la bulette concentra la sua attenzione su una creatura che ha ferito, 1 Azione, fino alla fine del combattimento o finché la creatura non è totalmente guarita, ha +2 al Tiro per Colpire.
 
@@ -674,9 +674,9 @@ livello 4 (3 slot): *Esilio, Punizione marchiante (con 1 critico magico automati
 
 *Colpisce:* 13 (1d10+5+3) danni da taglio + Colpo Fiammeggiante (danno da Vuoto)
 
-*Corruzione:* 15 (1d10+10) danni da taglio. L'obiettivo deve fare un Tiro Salvezza su Volontà DC 30 oppure perdere un 1/10 di un punto Tratto legato ad un Patrono buono se presente.
+*Corruzione:* 15 (1d10+10) danni da taglio. L'obiettivo deve fare un Tiro Salvezza su Volontà DC 30 oppure perdere un 1/10 di un punto Tratto legato a un Patrono buono se presente.
 
-**Reazione: *Attacco d'opportunità***: il Cavaliere nero effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Cavaliere nero effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 | **Ecologia** |
 | --- |
@@ -711,7 +711,7 @@ Dannato fin nel profondo della sua anima, il Cavaliere Nero è l'antitesi del ca
 
 *Colpisce:* 11 (2d6 + 4) danni contundenti.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +4 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +4 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
@@ -755,9 +755,9 @@ La leggenda vuole che i Centauri dovessero esplodere come tutti gli equini, per 
 
 *Colpisce:* 11 (2d6 + 4) danni perforanti.
 
-***Soffio Infuocato (Ricarica 5-6).*** La testa di drago esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 21 e subire 31 (7d8) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Infuocato (Ricarica 5-6).*** La testa di drago esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 21 e subire 31 (7d8) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Reazione: *Attacco d'opportunità***: la Chimera effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la Chimera effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Arrabbiato:*** la Chimera brilla di energia. Ricarica il Soffio Infuocato. Costa 1 Azione.
 
@@ -795,9 +795,9 @@ Le chimere preferiscono la carne, ma possono sopravvivere di vegetali se necessa
 
 *Colpisce:* 11 (2d6 + 4) danni contundenti. Un bersaglio è afferrato (DC 14 per fuggire) se è di taglia Grande o inferiore e il chuul non sta già afferrando altre due creature.
 
-***Tentacoli.*** Una creatura afferrata dal chuul deve riuscire un Tiro Salvezza di Tempra DC 16 o restare avvelenata per 1 minuto. Fino al termine dell'avvelenamento, il bersaglio è paralizzato. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
+***Tentacoli.*** Una creatura afferrata dal chuul deve riuscire un Tiro Salvezza su Tempra DC 16 o restare avvelenata per 1 minuto. Fino al termine dell'avvelenamento, il bersaglio è paralizzato. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
 
-**Reazione: *Attacco d'opportunità***: il chuul effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il chuul effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 | **Ecologia** |
 | --- |
@@ -832,7 +832,7 @@ I chuul sono sorprendentemente intelligenti e molti si impegnano in inutili spec
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti.
 
-***Fionda.** Attacco con arma a distanza*: +3 a colpire, gittata 9m, un bersaglio.
+***Fionda.** Attacco con arma a distanza*: +3 a colpire, gittata 9 m, un bersaglio.
 
 *Colpisce:* 4 (1d4 + 2) danni contundenti.
 
@@ -848,7 +848,7 @@ I coboldi sono creature dell'oscurità, che si incontrano più facilmente in eno
 
 La tonalità dei coboldi varia anche tra i fratelli della stessa covata, spaziando tra i colori dei draghi di Tàhil, con una predominanza del rosso e porpora, e più di rado bianco, verde, blu e nero.
 
-I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare gli avventurieri delle loro monete d'argento e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose ed i coboldi sembrano sani.
+I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono predare gli avventurieri delle loro monete d'argento e ne mangiano come fossero biscotti al burro. I coboldi possono digerire l'argento piuttosto velocemente e più mangiano più le loro squame sono luminose e i coboldi sembrano sani.
 
 ### Cockatrice
 
@@ -862,7 +862,7 @@ I coboldi hanno un debole per l'argento ma essendo pessimi minatori preferiscono
 
 **Azioni*Morso.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 3 (1d4 + 1) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o essere Rallentato 1/1r per via della progressiva pietrificazione. Se successivi morsi portano la creatura a non avere più Azioni la creatura è pietrificata per 24 ore.
+*Colpisce:* 3 (1d4 + 1) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 11 o essere Rallentato 1/1r per via della progressiva pietrificazione. Se successivi morsi portano la creatura a non avere più Azioni la creatura è pietrificata per 24 ore.
 
 | **Ecologia** |
 | --- |
@@ -903,7 +903,7 @@ A volontà: *Conoscere i Tratti, Individuazione del Magico, Individuazione dei P
 
 **Azioni*Morso.** Attacco con arma da mischia*: +8 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 8 (1d6 + 5) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 16 o restare avvelenato per 24 ore. Fino al termine dell'avvelenamento, il bersaglio è privo di sensi. Un'altra creatura può effettuare un'Azione per risvegliare il bersaglio.
+*Colpisce:* 8 (1d6 + 5) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 16 o restare avvelenato per 24 ore. Fino al termine dell'avvelenamento, il bersaglio è privo di sensi. Un'altra creatura può effettuare un'Azione per risvegliare il bersaglio.
 
 ***Stritolare.** Attacco con arma da mischia*: +7 a colpire, portata 3 m, una creatura di taglia Media o inferiore.
 
@@ -939,7 +939,7 @@ Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, an
 - **Sensi**: Vista Cieca 18 m (cieco oltre questo raggio)
 - **Sfida**: 5 (1800 PX)
 
-***Assorbimento dei Fulmini.*** Ogni qual volta il cumulo strisciante subisce danni da elettricità, non subisce danni e recupera un numero di Punti Ferita pari al danno da elettricità inferto.
+***Assorbimento dei Fulmini.*** Ogniqualvolta il cumulo strisciante subisce danni da elettricità, non subisce danni e recupera un numero di Punti Ferita pari al danno da elettricità inferto.
 
 **Azioni*Multiattacco.*** Il cumulo strisciante effettua due attacchi di schianto. Se entrambi gli attacchi colpiscono una creatura di taglia Media o inferiore, il bersaglio è afferrato (DC 14 per fuggire) e il cumulo strisciante usa Avvolgere su di esso.
 
@@ -947,7 +947,7 @@ Preferiscono gli stessi alimenti dei veri serpenti, come mammiferi e uccelli, an
 
 *Colpisce:* 13 (2d8 + 4) danni contundenti.
 
-***Avvolgere.*** Il cumulo strisciante avvolge una creatura di taglia Media o inferiore che ha afferrato. Il bersaglio avvolto è accecato e impossibilitato a respirare, e deve riuscire un Tiro Salvezza di Tempra DC 17 all'inizio di ciascun round del tumulo o subire 13 (2d8 + 4) danni contundenti. Se il cumulo si muove, il bersaglio avvolto si muove con esso. Il cumulo può avvolgere solo una creatura alla volta.
+***Avvolgere.*** Il cumulo strisciante avvolge una creatura di taglia Media o inferiore che ha afferrato. Il bersaglio avvolto è accecato e impossibilitato a respirare, e deve riuscire un Tiro Salvezza su Tempra DC 17 all'inizio di ciascun round del tumulo o subire 13 (2d8 + 4) danni contundenti. Se il cumulo si muove, il bersaglio avvolto si muove con esso. Il cumulo può avvolgere solo una creatura alla volta.
 
 ***Arrabbiato:*** Il Cumulo strisciante rilascia un'onda di elettricità. Tutte le creature entro 3 metri subiscono 3d6 di danno da elettricità. Costa 2 Azioni.
 
@@ -961,7 +961,7 @@ Organizzazione: Solitario
 
 I cumuli striscianti, chiamati anche soltanto striscianti, sembrano masse vegetali in decomposizione. Sono piante carnivore intelligenti, con un debole per la carne elfica. Il cervello e gli organi sensoriali si trovano nella parte superiore del corpo. Di solito i cumuli striscianti hanno una circonferenza di 2,3 metri e sono alti da 1,8 a 2,7 metri. Pesano circa 1.900 kg.
 
-I cumuli striscianti sono strane creature, più simili a un groviglio di rampicanti parassiti che ad una singola pianta dotata di radici. Sono onnivori, capaci di trarre sostentamento da qualsiasi cosa, avvinghiandosi agli alberi per succhiarne la linfa, inserendo le radici nel terreno per assorbire nutrienti semplici o consumando la carne e le ossa dalle prede.
+I cumuli striscianti sono strane creature, più simili a un groviglio di rampicanti parassiti che a una singola pianta dotata di radici. Sono onnivori, capaci di trarre sostentamento da qualsiasi cosa, avvinghiandosi agli alberi per succhiarne la linfa, inserendo le radici nel terreno per assorbire nutrienti semplici o consumando la carne e le ossa dalle prede.
 
 I cumuli striscianti sono incredibilmente furtivi nel loro ambiente naturale. Si confondono con il terreno circostante e possono attendere immobili per giorni l'arrivo di una potenziale preda. Possono essere praticamente ovunque ed attaccare in qualsiasi momento senza alcun preavviso e senza curarsi che ci siano o meno sopravvissuti, fintanto che hanno da mangiare.
 
@@ -987,19 +987,19 @@ Di solito i cumuli striscianti conducono un'esistenza nomade e solitaria in prof
 
 ***Resistenza alla Magia.*** Il demone ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
-***Spasmo Mortale.*** Quando il demone muore, esplode; ciascuna creatura entro 9 metri da esso deve effettuare un Tiro Salvezza di Riflessi DC 31, subendo 70 (20d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. L'esplosione appicca il fuoco agli oggetti infiammabili che non sono indossati o trasportati, e distrugge le armi del demone.
+***Spasmo Mortale.*** Quando il demone muore, esplode; ciascuna creatura entro 9 metri da esso deve effettuare un Tiro Salvezza su Riflessi DC 31, subendo 70 (20d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. L'esplosione appicca il fuoco agli oggetti infiammabili che non sono indossati o trasportati, e distrugge le armi del demone.
 
 **Azioni*Multiattacco.*** Il demone effettua due attacchi: uno con la spada lunga e uno con la frusta.
 
 ***Frusta.** Attacco con arma da mischia*: +14 a colpire, portata 9 m, un bersaglio.
 
-*Colpisce:* 15 (2d6 + 8) danni taglienti più 10 (3d6) danni da fuoco, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 32 o venire trascinato 7 metri verso il demone.
+*Colpisce:* 15 (2d6 + 8) danni taglienti più 10 (3d6) danni da fuoco, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 32 o venire trascinato 7 metri verso il demone.
 
 ***Spada Lunga.** Attacco con arma da mischia*: +14 a colpire, portata 3 m, un bersaglio.
 
 *Colpisce:* 21 (3d8 + 8) danni taglienti più 13 (3d8) danni da elettricità.
 
-**Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 6 metri.
+**Reazione: *Attacco d'opportunità***: il demone effettua un attacco a una creatura che attraversi o esca dalla sua portata di 6 metri.
 
 ***Teletrasporto.*** Il demone si teletrasporta magicamente, insieme a tutto l'equipaggiamento che indossa o trasporta, in uno spazio non occupato e che può vedere entro 36 metri.
 
@@ -1013,7 +1013,7 @@ Organizzazione: Solitario o banda di guerra (1 Balor e 2-5 Glabrezu)
 
 Quando la gente sussurra terrificanti racconti di creature demoniache, immagina per lo più un'imponente figura di fuoco e carne, un incubo cornuto armato di frusta e spada fiammeggianti, che vola nella notte in cerca delle sue prede. Il demone che queste persone temono è il Balor, e questa paura è pienamente giustificata, dal momento che pochi demoni possono eguagliare il possente Balor in forza o in brutalità.
 
-Nell'Abisso, i Balor sono per lo più al servizio dei signori dei demoni, in qualità di generali o capitani (quando non si tratti di balor estremamente potenti, noti come signori dei balor). Un balor solitamente comanda vaste legioni di demoni e, sebbene spesso consenta a questi servi bramosi e sbavanti di combattere le sue battaglie, è tutt'altro che un codardo. Se si presenta l'opportunità di unirsi ad uno scontro, sono pochi i balor che scelgono di trattenersi.
+Nell'Abisso, i Balor sono per lo più al servizio dei signori dei demoni, in qualità di generali o capitani (quando non si tratti di balor estremamente potenti, noti come signori dei balor). Un balor solitamente comanda vaste legioni di demoni e, sebbene spesso consenta a questi servi bramosi e sbavanti di combattere le sue battaglie, è tutt'altro che un codardo. Se si presenta l'opportunità di unirsi a uno scontro, sono pochi i balor che scelgono di trattenersi.
 
 Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli possono alimentare la creazione di un balor: a differenza degli altri demoni, spesso occorrono numerose anime di potenti malvagi per far nascere un nuovo balor.
 
@@ -1022,7 +1022,7 @@ Un Balor è alto 4,2 metri e pesa 2.250 kg. Solo le anime mortali più crudeli p
 - **Taglia/Tipo**: Enorme principe demone, malvagio
 - **Caratt.**: \resizedown{For 9 Des 2 Cos 8 Int 5 Sag 3 Car 7}
 - **Punti Ferita**: \resizedown{524, **Difesa:** 48, **Iniziativa:** +5}
-- **Movimento**: 15 metri, nuotare 9m
+- **Movimento**: 15 metri, nuotare 9 m
 - **Tiri Salvez.**: \resizedown{Tempra +34, Riflessi +28, Volontà +29}
 - **Comp.**: tutte +15
 - **Res. Danni**: Freddo, Elettricità, Fuoco
@@ -1053,7 +1053,7 @@ livello 4 (1 slot): *Immagine Proiettata, Regressione Mentale*
 
 *Colpisce:* 35 (4d12 +9) danni contundenti. La creatura colpita deve fare un Tiro Salvezza su Tempra a DC 33 od i suoi Punti Ferita massimi scendono dello stesso ammontare.
 
-**Reazione: *Attacco d'opportunità***: il Demogorgone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il Demogorgone effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Sguardo*** Demogorgone fissa una creatura che può vedere entro 40 metri. Il bersaglio deve fare un Tiro Salvezza su Volontà a DC 33.
 
@@ -1067,7 +1067,7 @@ livello 4 (1 slot): *Immagine Proiettata, Regressione Mentale*
 
 **Azioni Aggiuntive**
 
-Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
+Il Demogorgone può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti e una per round solo al termine del round di un'altra creatura.
 
 **Coda.** Il Demogorgone attacca con la coda. +19 al colpire, portata 5 metri, un obiettivo. Se colpisce 31 Punti Ferita di danni contundenti più 4d6 danni da Vuoto
 
@@ -1109,7 +1109,7 @@ Demogorgone è un enorme demone, principe dell'abisso e della follia alto circa 
 
 **Reazione: *Anatomia opportunistica*** il dretch riorganizza la propria anatomia demoniaca dimezzando fino alla fine del round ogni danno critico subito.
 
-***Nube Fetida (1/Giorno).*** Un disgustoso gas verde si estende in un raggio di 3 metri dal demone. Il gas si propaga intorno agli angoli e la sua area è oscurata leggermente. Rimane per 1 minuto o finché non viene disperso da un forte vento. Qualsiasi creatura che inizi il proprio round in quell'area deve riuscire un Tiro Salvezza di Tempra DC 11 o restare avvelenata fino all'inizio del suo prossimo round. Mentre è avvelenato in questo modo, il bersaglio, durante il suo round, è Rallentato 1.
+***Nube Fetida (1/Giorno).*** Un disgustoso gas verde si estende in un raggio di 3 metri dal demone. Il gas si propaga intorno agli angoli e la sua area è oscurata leggermente. Rimane per 1 minuto o finché non viene disperso da un forte vento. Qualsiasi creatura che inizi il proprio round in quell'area deve riuscire un Tiro Salvezza su Tempra DC 11 o restare avvelenata fino all'inizio del suo prossimo round. Mentre è avvelenato in questo modo, il bersaglio, durante il suo round, è Rallentato 1.
 
 | **Ecologia** |
 | --- |
@@ -1119,13 +1119,13 @@ Organizzazione: Solitario, coppia, banda (3-5), gruppo (6-12) o folla (13+)
 | **Categoria Tesoro**: Nessuno |
 | **Descrizione** |
 
-Anche il più infimo demone dell'Abisso è pericoloso e possiede la necessità impellente di spargere rovina e sgomento. Il miserabile dretch è tanto orripilante e fetido quanto crudele, anche se non possiede la forza ed il potere per riuscire a soddisfare la sua voglia di brutalizzare gli altri nel suo reame nativo. Lo scopo dell'esistenza dei dretch è quello di servire demoni più potenti come vittime sacrificabili, e solo pochi fortunati riescono a sopravvivere abbastanza a lungo da evolversi.
+Anche il più infimo demone dell'Abisso è pericoloso e possiede la necessità impellente di spargere rovina e sgomento. Il miserabile dretch è tanto orripilante e fetido quanto crudele, anche se non possiede la forza e il potere per riuscire a soddisfare la sua voglia di brutalizzare gli altri nel suo reame nativo. Lo scopo dell'esistenza dei dretch è quello di servire demoni più potenti come vittime sacrificabili, e solo pochi fortunati riescono a sopravvivere abbastanza a lungo da evolversi.
 
 I dretch sono i bersagli preferiti dai dilettanti in evocazioni abissali. Relativamente deboli e facili da intimorire, i dretch spesso possono essere obbligati a lunghi periodi di servitù utilizzando vaghe promesse di opportunità di sfogare le loro frustrazioni e la loro rabbia contro avversari più deboli. Eppure il potenziale evocatore di dretch farebbe meglio a ricordarsi che questi demoni sono codardi ed infidi quanto gli altri demoni. Un dretch che si trova di fronte a un nemico più potente sarà assai lieto di scambiare qualsiasi informazione di cui disponga in cambio della sua miserevole vita.
 
-A differenza della maggior parte dei demoni, la sciatta personalità del dretch ed il suo disprezzo per il lavoro fisico prolungato raramente danno dei risultati. I dretch avanzati sono rari, ma quelli che riescono a trovare la forza in sé stessi per diventare più di quello che erano al momento della loro creazione divengono i sovrani poveri dell'Abisso, crudeli ed amareggiati, che regnano su parassiti, anime spezzate, non morti privi di intelletto e altri dretch. I loro imperi sono limitati a tratti abbandonati di fogne sotto città dimenticate, instabili distese paludose evitate dalle menti più sensate ed altri sgraditi angoli dell'Abisso che persino i demoni considerano scomodi o ripugnanti. Eppure per i signori dei dretch questi regni sono i loro imperi, e li difendono con pietosa tenacia.
+A differenza della maggior parte dei demoni, la sciatta personalità del dretch e il suo disprezzo per il lavoro fisico prolungato raramente danno dei risultati. I dretch avanzati sono rari, ma quelli che riescono a trovare la forza in sé stessi per diventare più di quello che erano al momento della loro creazione divengono i sovrani poveri dell'Abisso, crudeli ed amareggiati, che regnano su parassiti, anime spezzate, non morti privi di intelletto e altri dretch. I loro imperi sono limitati a tratti abbandonati di fogne sotto città dimenticate, instabili distese paludose evitate dalle menti più sensate ed altri sgraditi angoli dell'Abisso che persino i demoni considerano scomodi o ripugnanti. Eppure per i signori dei dretch questi regni sono i loro imperi, e li difendono con pietosa tenacia.
 
-Un dretch è alto 1,2 metri e pesa 90 kg. I dretch solitamente si formano dalle anime di mortali malvagi ed indolenti: è sufficiente solo un piccolo frammento di anima per dare origine ad una nascita così orripilante. Una sola anima spesso può causare l'apparizione di una piccola armata di dretch e la vista di un'orda di dretch appena nati che si liberano dalla protomateria pulsante dell'Abisso è al contempo nauseante e terrificante.
+Un dretch è alto 1,2 metri e pesa 90 kg. I dretch solitamente si formano dalle anime di mortali malvagi ed indolenti: è sufficiente solo un piccolo frammento di anima per dare origine a una nascita così orripilante. Una sola anima spesso può causare l'apparizione di una piccola armata di dretch e la vista di un'orda di dretch appena nati che si liberano dalla protomateria pulsante dell'Abisso è al contempo nauseante e terrificante.
 
 ### Glabrezu
 
@@ -1159,7 +1159,7 @@ A volontà: *Dissolvi Magie, Individuazione del Magico, Oscurità*
 
 *Colpisce:* 7 (2d4 + 2) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il demone effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** il glabrezu crea un duplicato di sé stesso dal piano delle ombre. Questo duplicato ha le stesse caratteristiche del glabrezu ma non attacca. Quando si attacca il glabrezu si ha un 50\% di attaccare il duplicato d'ombra.
 
@@ -1192,7 +1192,7 @@ Un glabrezu è alto 5,3 metri e pesa poco più di 3000 kg. Questi perfidi demoni
 - **Linguaggi**: Abissale, telepatia 36 m
 - **Sfida**: 8 (3900 PX)
 
-***Fetore.*** Qualsiasi creatura che inizi il suo round entro 3 metri dal demone, deve riuscire un Tiro Salvezza di Tempra DC 21 o restare avvelenata, -1 Forza e Destrezza, fino all'inizio del proprio round. Se riesce il Tiro Salvezza, la creatura è immune al fetore del demone per 24 ore.
+***Fetore.*** Qualsiasi creatura che inizi il suo round entro 3 metri dal demone, deve riuscire un Tiro Salvezza su Tempra DC 21 o restare avvelenata, -1 Forza e Destrezza, fino all'inizio del proprio round. Se riesce il Tiro Salvezza, la creatura è immune al fetore del demone per 24 ore.
 
 ***Resistenza alla Magia.*** Il demone ha +1d6 ai Tiri Salvezza contro incantesimi e altri effetti magici.
 
@@ -1255,7 +1255,7 @@ Queste mostruose e bestiali creature nascono dalle anime di mortali malvagi che 
 
 **Reazione: *Parata.*** Il demone somma 5 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo il demone deve poter vedere il suo attaccante e impugnare un'arma da mischia.
 
-**Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il demone effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:***
 
@@ -1311,7 +1311,7 @@ Se il Tiro Salvezza della creatura riesce o l'effetto ha termine per essa la cre
 
 ***Teletrasporto.*** Il demone si teletrasporta, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere fino a 36 metri di distanza. È un'Azione di Movimento.
 
-**Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il demone effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Arrabbiato:*** il nalfeshnee mima le parole arcane ed in gesti visti entro 3 round precedenti e lancia un incantesimo di cui è stato testimone. Costa 3 Azioni.
 
@@ -1324,7 +1324,7 @@ Organizzazione: Solitario o banda di guerra (1 nalfeshnee, 1 Hezrou e 2-5 Vrock)
 | --- |
 | **Descrizione** |
 
-Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso come i nalfeshnee, e non è raro che questi demoni servano l'Abisso stesso invece che un signore dei demoni. Alcuni sovrintendono i reami organici che generano i nuovi demoni, mentre altri custodiscono luoghi di particolare importanza nei recessi nascosti del piano. Spesso il regno di un nalfeshnee nell'Abisso è superiore per forze e dimensioni al più grande dei regni mortali, in quanto questi demoni hanno una predisposizione naturale a governare ed imporre una sorta di ordine al caos dell'Abisso. Gli evocatori mortali spesso li richiamano per il loro folle ma impareggiabile intelletto, esaminando accuratamente gli accordi presi con questi demoni onde evitare eventuali conseguenze nascoste e risvolti non voluti, in quanto un nalfeshnee raramente accetta qualcosa che, in qualche modo contorto, non gli consenta di soddisfare le necessità ed i desideri dell'Abisso.
+Sono pochi i demoni che comprendono le meccaniche interne che regolano l'Abisso come i nalfeshnee, e non è raro che questi demoni servano l'Abisso stesso invece che un signore dei demoni. Alcuni sovrintendono i reami organici che generano i nuovi demoni, mentre altri custodiscono luoghi di particolare importanza nei recessi nascosti del piano. Spesso il regno di un nalfeshnee nell'Abisso è superiore per forze e dimensioni al più grande dei regni mortali, in quanto questi demoni hanno una predisposizione naturale a governare ed imporre una sorta di ordine al caos dell'Abisso. Gli evocatori mortali spesso li richiamano per il loro folle ma impareggiabile intelletto, esaminando accuratamente gli accordi presi con questi demoni onde evitare eventuali conseguenze nascoste e risvolti non voluti, in quanto un nalfeshnee raramente accetta qualcosa che, in qualche modo contorto, non gli consenta di soddisfare le necessità e i desideri dell'Abisso.
 
 I nalfeshnee sono alti 6 metri e pesano 4000 kg. Sono creati dalle anime di malvagi mortali avari o bramosi, in particolare di coloro che hanno regnato su imperi di schiavitù, furto, brigantaggio e altri vizi ancora più violenti.
 
@@ -1368,11 +1368,11 @@ livello 9 (1 slot): *Fermare il Tempo*
 
 *Colpisce:* 21 (3d8 + 8) danni contundenti + 18 (4d8) da Veleno
 
-**Reazione: *Attacco d'opportunità***: il demone effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il demone effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 **Azioni Aggiuntive**
 
-Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura.
+Orcus può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti e una per round solo al termine del round di un'altra creatura.
 
 **Coda.** Orcus attacca con la coda. +19 al colpire, portata 5 metri, un obiettivo. Se colpisce 21 (3d8 + 8) danni contundenti + 18 (4d8) da Veleno
 
@@ -1407,7 +1407,7 @@ Orcus è il Principe Demone dei non morti. Predilige la compagnia e servizio dei
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 6 (1d6 + 3) danni taglienti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o subire 5 (2d4) danni da veleno
+*Colpisce:* 6 (1d6 + 3) danni taglienti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 14 o subire 5 (2d4) danni da veleno
 
 ***Cambiare aspetto (a volontà).*** Il Silku può apparire come un umanoide di taglia media a suo piacimento. È necessaria una prova di Consapevolezza DC 16 per percepire il vero aspetto. 2 Azioni
 
@@ -1421,7 +1421,7 @@ Organizzazione: Piccoli gruppi (3-6)
 | **Categoria Tesoro**: P |
 | **Descrizione** |
 
-"...I loro volti avevano qualcosa di strano, erano come ... sfocati, era l'unica parte del loro corpo che non riuscivo a mettere a fuoco. Stupita dalla stranezza, sbattei le palpebre più volte e concentrai lo sguardo sui volti di entrambi. Sentii uno strano pizzicore sul volto e poi la vista si schiarì.
+"…I loro volti avevano qualcosa di strano, erano come … sfocati, era l'unica parte del loro corpo che non riuscivo a mettere a fuoco. Stupita dalla stranezza, sbattei le palpebre più volte e concentrai lo sguardo sui volti di entrambi. Sentii uno strano pizzicore sul volto e poi la vista si schiarì.
 Sgranai gli occhi e indietreggiai di un passo, mentre il terrore si impadroniva di me. I loro visi non erano umani. Avevano entrambi la pelle grigiastra e grinzosa, il naso schiacciato e lunghi canini che uscivano dalla bocca, grandi orecchie e occhi piccoli e neri. Sembrava il muso di un pipistrello."
 
 Da *Il Guardiano di Falkonia*, romanzo di Federica Angeli
@@ -1447,7 +1447,7 @@ Da *Il Guardiano di Falkonia*, romanzo di Federica Angeli
 
 **Azioni*Artigli (Morso in Forma di Bestia).** Attacco con arma da mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 5 (1d4 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 12 o subire 5 (2d4) danni da veleno e restare avvelenato, -1 Forza e Destrezza, per 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, ponendo termine all'effetto se lo riesce.
+*Colpisce:* 5 (1d4 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 12 o subire 5 (2d4) danni da veleno e restare avvelenato, -1 Forza e Destrezza, per 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, ponendo termine all'effetto se lo riesce.
 
 ***Invisibilità.*** Il demone resta invisibile finché non attacca o termina la sua concentrazione. Qualsiasi cosa che il demone stia trasportando o indossando resta invisibile finché rimane in contatto con il demone.
 
@@ -1489,11 +1489,11 @@ I quasit appena creati vengono alla luce direttamente nel Piano Materiale, dove 
 
 *Colpisce:* 6 (1d6 + 3) danni taglienti.
 
-***Affascinare.*** Un umanoide visibile all'immondo entro 9 metri da esso deve riuscire un Tiro Salvezza di Volontà DC 16 o restare magicamente affascinato per 1 giorno. Il bersaglio affascinato obbedisce ai comandi verbali o telepatici dell'immondo. Se il bersaglio subisce danni o riceve un comando suicida, può ripetere il Tiro Salvezza, terminando l'effetto se lo riesce. Se il bersaglio riesce il Tiro Salvezza contro l'effetto, o se l'effetto termina, il bersaglio è immune all'Affascinare dell'immondo per le successive 24 ore.
+***Affascinare.*** Un umanoide visibile all'immondo entro 9 metri da esso deve riuscire un Tiro Salvezza su Volontà DC 16 o restare magicamente affascinato per 1 giorno. Il bersaglio affascinato obbedisce ai comandi verbali o telepatici dell'immondo. Se il bersaglio subisce danni o riceve un comando suicida, può ripetere il Tiro Salvezza, terminando l'effetto se lo riesce. Se il bersaglio riesce il Tiro Salvezza contro l'effetto, o se l'effetto termina, il bersaglio è immune all'Affascinare dell'immondo per le successive 24 ore.
 
 L'immondo può tenere affascinato solo un bersaglio alla volta. Se ne affascina un altro, l'effetto sul bersaglio precedente termina.
 
-***Bacio Risucchiante.*** L'immondo bacia una creatura affascinata o una creatura consenziente. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 16 contro questa magia, subendo 32 (5d10 + 5) danni se lo fallisce, o la metà di questi danni se lo riesce. L'immondo recupera metà dei Punti Ferita persi dalla creatura. I Punti Ferita massimi del bersaglio vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione perdura finché non sorge l'alba. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0.
+***Bacio Risucchiante.*** L'immondo bacia una creatura affascinata o una creatura consenziente. Il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 16 contro questa magia, subendo 32 (5d10 + 5) danni se lo fallisce, o la metà di questi danni se lo riesce. L'immondo recupera metà dei Punti Ferita persi dalla creatura. I Punti Ferita massimi del bersaglio vengono ridotti di un ammontare pari ai danni subiti. Questa riduzione perdura finché non sorge l'alba. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0.
 
 ***Forma Eterea.*** L'immondo entra magicamente nel Piano Etereo dal Piano Materiale, e viceversa.
 
@@ -1505,7 +1505,7 @@ Organizzazione: Solitario, coppia o harem (3-12)
 | **Categoria Tesoro**: I |
 | **Descrizione** |
 
-Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di potere, utilizzando le sue manipolazioni ed il suo fascino sensuale, e molte guerre demoniache imperversano a causa delle subdole macchinazioni di queste creature. Una succube si origina dalle anime di malvagi mortali particolarmente libidinosi ed avidi.
+Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di potere, utilizzando le sue manipolazioni e il suo fascino sensuale, e molte guerre demoniache imperversano a causa delle subdole macchinazioni di queste creature. Una succube si origina dalle anime di malvagi mortali particolarmente libidinosi ed avidi.
 
 ### Vrock
 
@@ -1537,9 +1537,9 @@ Tra le orde demoniache una succube spesso può raggiungere altissimi livelli di 
 
 ***Strillo Stordente (1/Giorno).*** Il demone emette uno strillo orripilante. Ogni creatura entro 6 metri da esso e che lo possa udire, e non sia un demone, deve riuscire un Tiro Salvezza su Tempra DC 18 o restare stordita fino al termine del prossimo round del demone.
 
-**Reazione: *Attacco d'opportunità***: il Vrock effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Vrock effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-***Arrabbiato:*** Il Vrock striscia il becco con gli speroni rendendoli ancora più affilati. Fino alla fine del combattimento il danno causato da Becco e Speroni causa 1 danno da Sanguinamento fino ad un massimo di 10 danni. 1 Azione.
+***Arrabbiato:*** Il Vrock striscia il becco con gli speroni rendendoli ancora più affilati. Fino alla fine del combattimento il danno causato da Becco e Speroni causa 1 danno da Sanguinamento fino a un massimo di 10 danni. 1 Azione.
 
 | **Ecologia** |
 | --- |
@@ -1612,13 +1612,13 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 
 ***Barba.** Attacco con arma da mischia*: +5 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 6 (1d8 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 14 o restare avvelenato per 1 minuto. Mentre è avvelenato in questo modo, il bersaglio non può recuperare Punti Ferita. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza.
+*Colpisce:* 6 (1d8 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 14 o restare avvelenato per 1 minuto. Mentre è avvelenato in questo modo, il bersaglio non può recuperare Punti Ferita. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza.
 
 ***Falcione.** Attacco con arma da mischia*: +6 a colpire, portata 3 m, un bersaglio.
 
 *Colpisce:* 8 (1d10 + 3) danni taglienti. Se il bersaglio è una creatura, ad esclusione di costrutti e non morti, deve riuscire un Tiro Salvezza su Tempra 15 o perdere 5 (1d10) Punti Ferita all'inizio di ciascun suo round a causa della ferita infernale. Ogni volta che il diavolo colpisce il bersaglio ferito con questo attacco, il danno inflitto dalla ferita aumenta di 5 (1d10). Qualsiasi creatura può effettuare due Azioni per bloccare la ferita con una prova riuscita di Saggezza (Pronto Soccorso) DC 12. La ferita si richiude anche nel caso in cui il bersaglio riceva della magia guaritrice.
 
-**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 | **Ecologia** |
 | --- |
@@ -1630,7 +1630,7 @@ Organizzazione: Solitario, coppia, squadra (3-10) o truppa (10-40)
 
 Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combattono selvaggiamente in nome dei loro signori infernali e in battaglia comandano orde brutali di dannati. Si radunano e si addestrano con i loro falcioni forgiati negli inferi, tra le volte del terzo girone dell'Inferno, Erebo, ma ritornano inevitabilmente nel primo girone, Averno, per servire al fianco del temibile signore Barbatos.
 
-I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro ed i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.
+I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro e i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.
 
 ### Diavolo delle Catene
 
@@ -1660,9 +1660,9 @@ I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di m
 
 Ogni catena animata è un oggetto con Difesa 20, 20 Punti Ferita, resistenza ai danni perforanti, e immunità ai danni da suono. Quando il diavolo usa Multiattacco durante il suo round, può usare ciascuna catena animata per effettuare un ulteriore attacco di catena. Una catena animata può afferrare una creatura per conto proprio ma non può effettuare attacchi mentre afferra. Una catena animata ritorna al suo stato inanimato se viene ridotta a 0 Punti Ferita o se il diavolo è reso inabile o muore.
 
-**Reazione: *Maschera Snervante.*** Quando una creatura che il diavolo può vedere inizia il proprio round entro 9 metri dal diavolo, il diavolo può creare un'illusione per assomigliare all'amore perduto o a un acerrimo rivale di quella creatura. Se la creatura può vedere il diavolo, deve riuscire un Tiro Salvezza di Volontà DC 21 o rimanere spaventata fino al termine del suo round.
+**Reazione: *Maschera Snervante.*** Quando una creatura che il diavolo può vedere inizia il proprio round entro 9 metri dal diavolo, il diavolo può creare un'illusione per assomigliare all'amore perduto o a un acerrimo rivale di quella creatura. Se la creatura può vedere il diavolo, deve riuscire un Tiro Salvezza su Volontà DC 21 o rimanere spaventata fino al termine del suo round.
 
-**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** il Diavolo delle Catene agita le catene davanti a sé. Fino alla fine del combattimento la Difesa è 27. Costa 1 Azione a round mantenere l'effetto.
 
@@ -1708,13 +1708,13 @@ Spesso classificati dai profani tra le fila dei diavoli infernali, i Diavoli del
 
 ***Pungiglione.** Attacco con arma da mischia*: +9 a colpire, portata 3 m, un bersaglio.
 
-*Colpisce:* 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 24, o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce.
+*Colpisce:* 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 24, o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce.
 
 ***Scagliare Fiamma.** Attacco con incantesimo a Distanza*: +10 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 14 (4d6) danni da fuoco. Se il bersaglio è un oggetto infiammabile che non sia indossato o trasportato, prende fuoco.
 
-**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** il Diavolo Cornuto risucchia la vita che i nemici stanno perdendo. Fino alla fine del round successivo recupera tutti i Punti Ferita persi da Sanguinamento da ferite da lui causate.
 
@@ -1774,9 +1774,9 @@ A volontà: *Individuazione del Magico, Palla di Fuoco*
 
 ***Morso.** Attacco con arma da mischia*: +15 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 22 (4d6 + 8) danni perforanti. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 33 o restare avvelenato. Mentre è avvelenato in questo modo, il bersaglio non può recuperare Punti Ferita, e subisce 21 (6d6) danni da veleno all'inizio di ciascun suo round. Il bersaglio avvelenato può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé.
+*Colpisce:* 22 (4d6 + 8) danni perforanti. Il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 33 o restare avvelenato. Mentre è avvelenato in questo modo, il bersaglio non può recuperare Punti Ferita, e subisce 21 (6d6) danni da veleno all'inizio di ciascun suo round. Il bersaglio avvelenato può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé.
 
-**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 | **Ecologia** |
 | --- |
@@ -1825,11 +1825,11 @@ I diavoli della fossa radunano eserciti, trasformando i lemure in veri diavoli e
 
 *Colpisce:* 12 (2d6 + 5) danni perforanti più 10 (3d6) danni da freddo. TS su Tempra DC 18 o Rallentato 1/1r.
 
-***Muro di Ghiaccio (Ricarica 6).*** Il diavolo forma magicamente un muro di ghiaccio opaco su di una superficie solida che possa vedere entro 18 metri da lui. Il muro è spesso 30 centimetri e largo fino a 9 metri per un massimo di 3 metri di altezza, oppure una cupola semisferica di massimo 6 metri di diametro. Quando la parete appare, ogni creatura nel suo spazio viene spinta fuori da esso tramite la via più breve. La creatura sceglie su quale lato del muro finire, a meno che la creatura non sia inabile. La creatura poi effettua un Tiro Salvezza di Riflessi DC 25, subendo 35 (10d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce.
+***Muro di Ghiaccio (Ricarica 6).*** Il diavolo forma magicamente un muro di ghiaccio opaco su di una superficie solida che possa vedere entro 18 metri da lui. Il muro è spesso 30 centimetri e largo fino a 9 metri per un massimo di 3 metri di altezza, oppure una cupola semisferica di massimo 6 metri di diametro. Quando la parete appare, ogni creatura nel suo spazio viene spinta fuori da esso tramite la via più breve. La creatura sceglie su quale lato del muro finire, a meno che la creatura non sia inabile. La creatura poi effettua un Tiro Salvezza su Riflessi DC 25, subendo 35 (10d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce.
 
-Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il muro può essere danneggiato e bucato; ogni sezione di 3 metri ha Difesa 5, 30 Punti Ferita, vulnerabilità al danno da fuoco, e Immune al Danno da acido, freddo, da Vuoto e da veleno. Se una sezione viene distrutta, lascia una patina di aria gelida nello spazio che occupava prima il muro. Ogni volta che una creatura finisce per muoversi attraverso quest'aria gelida durante un round, consenziente o meno, deve effettuare un Tiro Salvezza di Tempra DC 25, subendo 17 (5d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce. L'aria gelida si dissipa quando il resto del muro svanisce.
+Il muro rimane per 1 minuto o finché il diavolo non è reso inabile o muore. Il muro può essere danneggiato e bucato; ogni sezione di 3 metri ha Difesa 5, 30 Punti Ferita, vulnerabilità al danno da fuoco, e Immune al Danno da acido, freddo, da Vuoto e da veleno. Se una sezione viene distrutta, lascia una patina di aria gelida nello spazio che occupava prima il muro. Ogni volta che una creatura finisce per muoversi attraverso quest'aria gelida durante un round, consenziente o meno, deve effettuare un Tiro Salvezza su Tempra DC 25, subendo 17 (5d6) danni da freddo se lo fallisce, o la metà di questi danni se lo riesce. L'aria gelida si dissipa quando il resto del muro svanisce.
 
-**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Arrabbiato:*** il Diavolo di Ghiaccio punta al cuore del nemico e cerca di strapparlo. La creatura, entro 1 metro, deve fare un Tiro Salvezza su Tempra DC 26 od avere il cuore strappato.
 
@@ -1841,9 +1841,9 @@ Organizzazione: Solitario, squadra (2-3), concilio (4-10) o contingente (1-3 dia
 | **Categoria Tesoro**: Lancia Gelida +1, R |
 | **Descrizione** |
 
-Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli dell'Inferno. Un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato ad un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.
+Strateghi illuminati delle armate dell'Inferno, gli insettoidi diavoli del ghiaccio sono tra le menti più ingegnose e crudeli dell'Inferno. Un diavolo del ghiaccio nasconde nel suo petto un cuore ghiacciato trafugato a un mortale, che gli permette di prendere decisioni libero da emozioni. Nati nel girone ghiacciato di Cocito, il settimo girone infernale, la maggior parte dei diavoli del ghiaccio migra a Caina, l'ottavo girone, dove complotta per dannare il mondo. Sebbene abbiano le sembianze più aliene e mostruose tra tutti i diavoli, a pochi altri viene accordato un maggiore rispetto.
 
-In combattimento manda avanti i suoi sottoposti, così da poter valutare le tattiche, i punti di forza e le debolezze dell'avversario nelle retrovie, e fornire loro supporto con le sue capacità magiche, evitando di coglierli nell'area di effetto dei suoi incantesimi: atteggiamento non dovuto ad un senso di cameratismo, bensì alla fredda e logica verità che i suoi alleati possono sopravvivere più a lungo in uno scontro se non sono esposti a fuoco amico.
+In combattimento manda avanti i suoi sottoposti, così da poter valutare le tattiche, i punti di forza e le debolezze dell'avversario nelle retrovie, e fornire loro supporto con le sue capacità magiche, evitando di coglierli nell'area di effetto dei suoi incantesimi: atteggiamento non dovuto a un senso di cameratismo, bensì alla fredda e logica verità che i suoi alleati possono sopravvivere più a lungo in uno scontro se non sono esposti a fuoco amico.
 
 I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 
@@ -1878,7 +1878,7 @@ I Diavoli del Ghiaccio sono alti 3,6 metri e pesano approssimativamente 350 kg.
 
 ***Pungiglione.** Attacco con arma da mischia*: +9 a colpire, portata 3 m, un bersaglio.
 
-*Colpisce:* 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 21, o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce.
+*Colpisce:* 13 (2d8 + 4) danni perforanti più 17 (5d6) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 21, o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce.
 
 ***Arrabbiato:*** il Diavolo d'Ossa attacca tutte le creature intorno a lui con l'arma inastata. Tutte le creature nel raggio di 3 metri subiscono un attacco di Arma Inastata Uncinata, senza essere afferrati. Costo 2 Azioni. Il Diavolo d'ossa può decidere di diventare invisibile come sotto l'incantesimo di Invisibilità superiore. 2 Azioni.
 
@@ -1926,7 +1926,7 @@ I diavoli d'ossa viaggiano spesso fino al piano mortale per servire malvagi inca
 
 *Colpisce:* 5 (2d4) danni taglienti.
 
-***Spina Caudale.** Attacco con arma a Distanza*: +4 a colpire, gittata 6m, un bersaglio.
+***Spina Caudale.** Attacco con arma a Distanza*: +4 a colpire, gittata 6 m, un bersaglio.
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti più 3 (1d6) danni da fuoco.
 
@@ -1966,11 +1966,11 @@ La maggior parte dei diavoli spinosi è alta dai 2,1 metri in su e pesa 150 kg, 
 
 *Colpisce:* 8 (1d8 + 4) danni taglienti, o 9 (1d10 + 4) danni taglienti se usata con due mani, più 13 (3d8) danni da veleno.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +11 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +11 a colpire, gittata 45 m, un bersaglio.
 
-*Colpisce:* 7 (1d8 + 4) danni perforanti più 13 (3d8) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 25 o restare avvelenato, -1 Forza e Destrezza. Il veleno rimane finché non viene rimosso da un incantesimo *ristorazione inferiore* o simile.
+*Colpisce:* 7 (1d8 + 4) danni perforanti più 13 (3d8) danni da veleno, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 25 o restare avvelenato, -1 Forza e Destrezza. Il veleno rimane finché non viene rimosso da un incantesimo *ristorazione inferiore* o simile.
 
-**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Reazione: *Parata.*** L'erinni somma 4 alla sua Difesa contro un attacco da mischia che lo colpirebbe. Per farlo, l'erinni deve poter vedere il suo attaccante e impugnare un'arma da mischia.
 
@@ -2013,7 +2013,7 @@ Le erinni sono alte circa 1,8 metri, pesano 70 kg e hanno ali nere con un'apertu
 
 **Azioni*Pungiglione (Morso in Forma di Bestia).** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 5 (1d4 + 3) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 12, subendo 10 (3d6) danni da veleno se lo fallisce, o la metà di questi danni se lo riesce.
+*Colpisce:* 5 (1d4 + 3) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 12, subendo 10 (3d6) danni da veleno se lo fallisce, o la metà di questi danni se lo riesce.
 
 ***Invisibilità.*** Il diavolo resta invisibile finché non attacca o termina la sua concentrazione. Qualsiasi cosa che il diavolo stia trasportando o indossando, resta invisibile finché rimane in contatto con il diavolo.
 
@@ -2025,13 +2025,13 @@ Organizzazione: Solitario, coppia o stormo (3-10)
 | **Categoria Tesoro**: K |
 | **Descrizione** |
 
-Nati direttamente dalle fosse dell'Inferno, gli imp sono i diavoli meno potenti, anche se queste crudeli ed invadenti creature svolgono un ruolo importante nella corruzione delle anime mortali. Libere dalle gerarchie e dai doveri delle armate infernali, gli imp si dilettano ad ogni opportunità di viaggiare fino al Piano Materiale e di tentare astutamente i mortali, spingendoli a compiere atti sempre più depravati.
+Nati direttamente dalle fosse dell'Inferno, gli imp sono i diavoli meno potenti, anche se queste crudeli ed invadenti creature svolgono un ruolo importante nella corruzione delle anime mortali. Libere dalle gerarchie e dai doveri delle armate infernali, gli imp si dilettano a ogni opportunità di viaggiare fino al Piano Materiale e di tentare astutamente i mortali, spingendoli a compiere atti sempre più depravati.
 
 Volontariamente al servizio di incantatori nel ruolo di famigli, gli imp recitano la parte dei fedeli servitori, offrendo spesso ai loro padroni astuti consigli ed infernali intuizioni. In realtà, gli imp operano per inviare anime all'Inferno, accertandosi che l'anima del loro padrone, insieme a molte altre, sia destinata alla dannazione dopo la morte.
 
 Gli imp variano molto in aspetto, in un ampio spettro di tratti bestiali e grotteschi, sebbene molti di essi abbiano la forma di un umanoide alato dalla pelle rossiccia, con lineamenti bulbosi. Il tipico imp è alto solamente 60 centimetri, ha un'apertura alare di 90 centimetri e pesa 5 kg.
 
-Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel Piano Materiale, in particolare dopo che sono stati evocati per servire come famigli ed i loro padroni sono morti (spesso, indirettamente, a causa delle macchinazioni dell'imp stesso). Senza alcun mezzo per poter fare ritorno a casa questi imp, liberi da ogni legame con padroni arcani, possono diventare pericolosi seccatori o persino porsi a capo di piccole tribù di sanguinosi umanoidi, quali Gablin o Coboldi.
+Diversamente dagli altri diavoli, gli imp si ritrovano spesso liberi e soli nel Piano Materiale, in particolare dopo che sono stati evocati per servire come famigli e i loro padroni sono morti (spesso, indirettamente, a causa delle macchinazioni dell'imp stesso). Senza alcun mezzo per poter fare ritorno a casa questi imp, liberi da ogni legame con padroni arcani, possono diventare pericolosi seccatori o persino porsi a capo di piccole tribù di sanguinosi umanoidi, quali Gablin o Coboldi.
 
 ### Lemure
 
@@ -2094,7 +2094,7 @@ Organizzazione: Solitario, coppia o branco (3-6)
 | **Categoria Tesoro**: Nessuno |
 | **Descrizione** |
 
-Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non sia un dinosauro, questa creatura ed i suoi simili si trovano spesso a cacciare in laghi ed oceani nei quali è facile trovare dei dinosauri.
+Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non sia un dinosauro, questa creatura e i suoi simili si trovano spesso a cacciare in laghi ed oceani nei quali è facile trovare dei dinosauri.
 
 ### Tirannosauro
 
@@ -2119,9 +2119,9 @@ Il plesiosauro è un rettile acquatico dal lungo collo. Sebbene tecnicamente non
 
 *Colpisce:* 30 (4d10 + 8) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il Tirannosauro effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il Tirannosauro effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-***Arrabbiato:*** il Tirannosauro è pervaso da furia assassina. Attacca qualsiasi creatura amica o nemica. Il Tiro per Colpire guadagna +1d6 ed il morso causa Sanguinamento 2/15.
+***Arrabbiato:*** il Tirannosauro è pervaso da furia assassina. Attacca qualsiasi creatura amica o nemica. Il Tiro per Colpire guadagna +1d6 e il morso causa Sanguinamento 2/15.
 
 | **Ecologia** |
 | --- |
@@ -2243,7 +2243,7 @@ Organizzazione: gruppo
 | **Categoria Tesoro**: Accidentale |
 | **Descrizione** |
 
-"..Smossi le foglie dell'acquitrino e vidi a terra una strana palla di pelo, di circa dieci centimetri di diametro, di colore chiaro. Incuriosito lo raccolsi, accarezzando il suo pelo soffice e lo scrutai con attenzione. Sembrava non avere arti o segni di possedere un muso con occhi, orecchie, bocca, ma non appena lo accarezzai la palla vibrò, emettendo uno squittio.
+"…Smossi le foglie dell'acquitrino e vidi a terra una strana palla di pelo, di circa dieci centimetri di diametro, di colore chiaro. Incuriosito lo raccolsi, accarezzando il suo pelo soffice e lo scrutai con attenzione. Sembrava non avere arti o segni di possedere un muso con occhi, orecchie, bocca, ma non appena lo accarezzai la palla vibrò, emettendo uno squittio.
 
 Finalmente scorsi due occhietti neri e vispi aprirsi in tutto quel pelo e poi due orecchiette tonde spuntare, quindi due zampette corte ma robuste, adatte al salto, appoggiate a terra e altre due, sempre corte ma dotate di ben cinque dita ognuna, a mezza altezza.
 
@@ -2303,7 +2303,7 @@ I Draghi sono creature temibili, pericolose, antiche; rappresentano il potere st
 
 Ogni Drago ha pieno accesso a tutti gli incantesimi di una specifica lista di magia a seconda del proprio colore.
 
-Questo accesso è garantito da Tàhil o Ljust a seconda che siano draghi fedeli ad uno o all'altro.
+Questo accesso è garantito da Tàhil o Ljust a seconda che siano draghi fedeli a uno o all'altro.
 
 Ed è da questa distinzione che i draghi vengono suddivisi tra Draghi di Tàhil e di Ljust. I primi rappresentano a vario titolo e grado Caos, distruzione, violenza e morte, mentre i Draghi di Ljust sono l'emblema del buono, giusto, corretto, protettivo. Mentre i draghi di Tàhil sono solitamente definiti anche cromatici quelli di Ljust sono definiti metallici.
 
@@ -2313,7 +2313,7 @@ I Draghi di Ljust sono errori di trasporto, magari perché il portale di Tàhil 
 
 **Draghi e Magia**
 
-- Ogni Drago può lanciare incantesimi sino ad un livello massimo pari ad un quarto del suo Grado di Sfida, con un minimo accesso al primo livello.
+- Ogni Drago può lanciare incantesimi sino a un livello massimo pari a un quarto del suo Grado di Sfida, con un minimo accesso al primo livello.
 - Ogni Drago ha un numero di Punti Magia pari a 5 volte il suo Grado di Sfida
 - Ogni Drago ha un punteggio di Competenza Magica pari alla metà del suo Grado di Sfida
 
@@ -2348,7 +2348,7 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 
 | 4 | Agilità sorprendente. La Difesa del Drago aumenta di un ulteriore +4. |
 | 5-7 | Signore dei Serpenti. La coda ha un pungiglione velenoso che infligge 2xGS PF di danno da veleno. TS Tempra DC 10+GS per dimezzare. |
-| 8-10 | Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 ad ogni Tiro Salvezza. |
+| 8-10 | Benedetto di Tàhil. Il Drago ha migliori Tiri Salvezza. +1d6 a ogni Tiro Salvezza. |
 | 11-13 | Regina Lucertola. Lo sguardo del Drago ha lo stesso effetto di quello del Basilisco. |
 | 14-15 | Potere del Ferro. Il Drago ha *Arrugginire Metallo* come il Rugginofago. |
 | 16 | Resistenza alla magia. Il Drago è immune agli incantesimi sotto GS/5 livello. |
@@ -2399,9 +2399,9 @@ Se è un Drago Cucciolo ha 1 potere casuale, 2 se è Giovane o Adulto e 3 se è 
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti più 9 (2d8) danni da freddo.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 35 e subire 72 (16d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 35 e subire 72 (16d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -2475,9 +2475,9 @@ Le loro tane sono caverne ghiacciate nelle montagne o scavate nei ghiacciai più
 
 *Colpisce:* 17 (2d10 + 6) danni perforanti più 4 (1d8) danni da freddo.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 27 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 27 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 27 e subire 54 (12d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 27 e subire 54 (12d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -2533,7 +2533,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 15 (2d10 + 4) danni perforanti più 4 (1d8) danni da freddo.
 
-***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 18 e subire 45 (10d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 18 e subire 45 (10d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -2567,7 +2567,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 15 (2d10 + 4) danni perforanti più 4 (1d8) danni da freddo.
 
-***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 15 e subire 22 (5d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Gelido (Ricarica 5-6).*** Il drago esala un'esplosione di ghiaccio in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 15 e subire 22 (5d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -2613,9 +2613,9 @@ portata 3 m, un bersaglio.
 
 *Colpisce:* 20 (2d10 + 9) danni perforanti più 11 (2d10) danni da elettricità.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 36 metri e larga 3 metri. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 35 e subire 88 (16d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 36 metri e larga 3 metri. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 35 e subire 88 (16d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -2692,9 +2692,9 @@ Non vanno d'accordo con i draghi viola che disprezzano per la scelta di aver rin
 
 *Colpisce:* 18 (2d10 + 7) danni perforanti più 5 (1d10) danni da elettricità.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 27 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 30 e subire 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 27 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 30 e subire 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -2750,7 +2750,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 16 (2d10 + 5) danni perforanti più 5 (1d10) danni da elettricità.
 
-***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 18 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 21 e subire 55 (10d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 18 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 21 e subire 55 (10d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ***Arrabbiato:*** il Drago Blu Giovane ricarica il suo soffio fulminante.
 
@@ -2786,7 +2786,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 8 (1d10 + 3) danni perforanti più 3 (1d6) danni da elettricità.
 
-***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 9 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza di Riflessi DC 14 e subire 22 (4d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Fulminante (Ricarica 5-6).*** Il drago esala fulmini in una linea lunga 9 metri e larga 1 metro. Ogni creatura su quella linea deve effettuare un Tiro Salvezza su Riflessi DC 14 e subire 22 (4d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -2892,9 +2892,9 @@ Il Drago Giallo pur se intelligente è una macchina di morte e difficilmente sce
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti più 9 (4d6) danni da acido.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 33 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 33 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 27 metri larga 3 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 33 e subire 67 (15d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 27 metri larga 3 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 33 e subire 67 (15d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -2917,7 +2917,7 @@ Organizzazione: Solitario
 I Draghi Neri sono violenti ed aggressivi, vivono in paludi e acquitrini e generalmente governano come padroni indiscussi.
 
 I Draghi Neri sono creature minacciose che hanno grandi corna curve in avanti.
-La testa si collega ad un collo relativamente corto e ad un corpo da lucertola grossa e muscoloso.
+La testa si collega a un collo relativamente corto e a un corpo da lucertola grossa e muscoloso.
 
 Hanno ali piccolissime che si trovano sui lati, ma riescono comunque a volare grazie alla magia.
 Hanno le zampe palmate per permettere loro di nuotare con maggiore facilità nelle zone paludose dove vivono.
@@ -2978,9 +2978,9 @@ Ebbene sì, il Drago Nero è l'unica creatura sulla Terra che può portare in vi
 
 *Colpisce:* 17 (2d10 + 6) danni perforanti più 4 (1d8) danni da acido.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 18 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 30 e subire 54 (12d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 18 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 30 e subire 54 (12d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -3038,7 +3038,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 11 (2d10 + 4) danni perforanti più 4 (1d8) danni da acido.
 
-***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 9 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 19 e subire 49 (11d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 9 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 19 e subire 49 (11d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ***Arrabbiato:*** Il Drago Nero Giovane ricarica il soffio acido. Costa 1 Azione.
 
@@ -3076,7 +3076,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 7 (1d10 + 2) danni perforanti più 2 (1d4) danni da acido.
 
-***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 5 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 14 e subire 22 (5d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Acido (Ricarica 5-6).*** Il drago esala acido in una linea di 5 metri larga 1 metro. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 14 e subire 22 (5d8) danni da acido se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -3123,9 +3123,9 @@ Vedi Descrizione Drago Nero Antico.
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti più 10 (3d6) danni da veleno.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Sonico (Ricarica 5-6).*** Il drago emette un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 35 e subire 77 (22d6) danni da suono se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Sonico (Ricarica 5-6).*** Il drago emette un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 35 e subire 77 (22d6) danni da suono se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -3198,7 +3198,7 @@ Dall'aspetto tozzo hanno denti fini e lunghi ed artigli enormi che continuamente
 
 *Colpisce:* 21 (2d10 + 10) danni perforanti più 14 (4d6) danni da fuoco.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 38 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 38 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Soffio Infuocato (Ricarica 5-6).*** Il drago esala fuoco in un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 38 e subire 91 (26d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
@@ -3229,7 +3229,7 @@ Spesso le scaglie, di un rosso scuro quasi di sangue, hanno bordi affilati ed al
 
 I Draghi Rossi prediligono le montagne calde e se possibile direttamente dentro un vulcano.
 
-Combattono sfruttando la loro mole, le ali, il morso, gli artigli... insomma tutto ciò che sono ed hanno a disposizione. Un Drago Rosso combatte sempre fino alla morte non si ritira né scappa né rinuncia ad una sfida, l'orgoglio di cui sono tronfi non gli permette di mostrarsi deboli.
+Combattono sfruttando la loro mole, le ali, il morso, gli artigli… insomma tutto ciò che sono ed hanno a disposizione. Un Drago Rosso combatte sempre fino alla morte non si ritira né scappa né rinuncia a una sfida, l'orgoglio di cui sono tronfi non gli permette di mostrarsi deboli.
 
 | I Draghi Rossi hanno +1d6 nelle prove di magia e possono ignorare un dado tirato nella prova con la Lista del Fuoco ed è immune al fuoco. |
 | **Incantesimi** |
@@ -3271,7 +3271,7 @@ Combattono sfruttando la loro mole, le ali, il morso, gli artigli... insomma tut
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti più 7 (2d6) danni da fuoco.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Soffio Infuocato (Ricarica 5-6).*** Il drago esala fuoco in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 30 e subire 63 (18d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
@@ -3368,7 +3368,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 9 (1d10 + 4) danni perforanti più 3 (1d6) danni da fuoco.
 
-***Soffio Infuocato (Ricarica 5-6).*** Il drago esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 16 e subire 24 (7d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Infuocato (Ricarica 5-6).*** Il drago esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 16 e subire 24 (7d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -3414,9 +3414,9 @@ Vedi Descrizione Drago Rosso Antico.
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti più 10 (3d6) danni da veleno.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 25 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 25 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 35 e subire 77 (22d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 27 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 35 e subire 77 (22d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -3444,7 +3444,7 @@ Il naso è largo e le narici aperte come se dovesse soffiare in qualsiasi moment
 
 Il soffio dei draghi verdi è veleno, così che possa uccidere le creature viventi ma non le piante.
 
-La tana di un drago verde è sempre vicino ad una sorgente d'acqua, possibilmente nella parte più lussureggiante ed incontaminata della foresta.
+La tana di un drago verde è sempre vicino a una sorgente d'acqua, possibilmente nella parte più lussureggiante ed incontaminata della foresta.
 
 Un Drago verde non ama volare e preferisce saltare schiacciando con il suo peso e dilaniare con i suoi artigli.
 
@@ -3492,9 +3492,9 @@ Tra i tanti draghi quello verde è forse quello che farà parlare gli avventurie
 
 *Colpisce:* 17 (2d10 + 6) danni perforanti più 7 (2d6) danni da veleno.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 28 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 28 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
-***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 28 e subire 56 (16d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 28 e subire 56 (16d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -3552,7 +3552,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 15 (2d10 + 4) danni perforanti più 7 (2d6) danni da veleno.
 
-***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 20 e subire 42 (12d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 9 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 20 e subire 42 (12d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ***Arrabbiato:*** il Drago Verde Giovane ricarica il suo soffio Velenoso.
 
@@ -3590,7 +3590,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 7 (1d10 + 2) danni perforanti più 3 (1d6) danni da veleno.
 
-***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 13 e subire 21 (6d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Velenoso (Ricarica 5-6).*** Il drago esala gas velenosi in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 13 e subire 21 (6d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 | **Ecologia** |
 | --- |
@@ -3640,7 +3640,7 @@ Elysan è probabilmente il più noto e potente, un antico drago d'argento.
 
 *Colpisce:* 21 (2d10 + 10) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 36 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 36 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
@@ -3671,7 +3671,7 @@ Ambiente: Montagne Temperate
 Organizzazione: Solitario
 | **Categoria Tesoro**: H |
 | **Descrizione** |
-| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
+| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono a un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
 | **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
 | - Lentezza |
@@ -3708,7 +3708,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 28 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 28 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
@@ -3743,7 +3743,7 @@ Ambiente: Montagne Temperate
 Organizzazione: Solitario
 | **Categoria Tesoro**: E |
 | **Descrizione** |
-| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
+| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono a un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
 | **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
 | - Lentezza |
@@ -3789,7 +3789,7 @@ Ambiente: Montagne Temperate
 Organizzazione: Solitario
 | **Categoria Tesoro**: D |
 | **Descrizione** |
-| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
+| Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono a un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole. |
 | **Incantesimi** |
 | Gli incantesimi preferiti di questo Drago sono: |
 | - Lentezza |
@@ -3828,7 +3828,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: C |
 | **Descrizione** |
 
-Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
+Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono a un codice cavalleresco che impone loro di aiutare i deboli, sconfiggere il male e comportarsi in modo onorevole.
 
 ### Drago di Bronzo Antico
 
@@ -3865,7 +3865,7 @@ Tra tutti i draghi, quelli d'argento sono i più coraggiosi, e si attengono ad u
 
 *Colpisce:* 20 (2d10 + 9) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 35 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
@@ -3932,11 +3932,11 @@ Organizzazione: Solitario
 
 *Colpisce:* 18 (2d10 + 7) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 29 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 29 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Fulminante.* Il drago esala fulmini in una linea lunga 27 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 29, subendo 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Fulminante.* Il drago esala fulmini in una linea lunga 27 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 29, subendo 66 (12d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 29, altrimenti viene allontanata di 18 metri dal drago.
 
@@ -4001,7 +4001,7 @@ Organizzazione: Solitario
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Fulminante.* Il drago esala fulmini in una linea lunga 18 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 20, subendo 55 (10d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Fulminante.* Il drago esala fulmini in una linea lunga 18 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 20, subendo 55 (10d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 20, altrimenti viene allontanata di 12 metri dal drago.
 
@@ -4043,7 +4043,7 @@ portata 1 m, un bersaglio.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Fulminante.* Il drago esala fulmini in una linea lunga 12 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 16, subendo 16 (3d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Fulminante.* Il drago esala fulmini in una linea lunga 12 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 16, subendo 16 (3d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Repulsivo.* Il drago esala dell'energia repulsiva in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 16, altrimenti viene allontanata di 9 metri dal drago.
 
@@ -4092,11 +4092,11 @@ I draghi di bronzo sono noti per allearsi con viaggiatori ed avventurieri se cau
 
 *Colpisce:* 21 (2d10 + 10) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 37 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 37 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Infuocato.* Il drago esala fuoco in un cono di 27 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 37, subendo 71 (13d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Infuocato.* Il drago esala fuoco in un cono di 27 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 37, subendo 71 (13d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Indebolente.* Il drago esala del gas in un cono di 27 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 37 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
@@ -4162,11 +4162,11 @@ Organizzazione: Solitario
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 30 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Infuocato.* Il drago esala fuoco in un cono di 18 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 30, subendo 66 (12d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Infuocato.* Il drago esala fuoco in un cono di 18 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 30, subendo 66 (12d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Indebolente.* Il drago esala del gas in un cono di 18 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 30 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
@@ -4232,9 +4232,9 @@ Organizzazione: Solitario
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Infuocato.* Il drago esala fuoco in un cono di 9 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 23, subendo 55 (10d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Infuocato.* Il drago esala fuoco in un cono di 9 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 23, subendo 55 (10d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-*Soffio Indebolente.* Il drago esala del gas in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza di Tempra DC 23 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Soffio Indebolente.* Il drago esala del gas in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 23 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 ***Arrabbiato:*** il giovane drago d'oro ricarica uno dei suoi soffi. Costa 1 Azione.
 
@@ -4274,7 +4274,7 @@ Organizzazione: Solitario
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Infuocato.* Il drago esala fuoco in un cono di 5 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 15, subendo 22 (4d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Infuocato.* Il drago esala fuoco in un cono di 5 metri. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 15, subendo 22 (4d10) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Indebolente.* Il drago esala del gas in un cono di 5 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 15 o avere -1d6 ai tiri di attacco basati sulla Forza, prove di Forza, e Tiri Salvezza su Tempra per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
@@ -4321,7 +4321,7 @@ I draghi d'oro sono l'emblema della virtù. Gli altri draghi di Ljust li riveris
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 34 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 34 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
@@ -4387,11 +4387,11 @@ Organizzazione: Solitario
 
 *Colpisce:* 17 (2d10 + 6) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 26 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 26 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Infuocato.* Il drago esala fuoco in una linea lunga 18 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 26, subendo 45 (13d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Infuocato.* Il drago esala fuoco in una linea lunga 18 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 26, subendo 45 (13d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Soporifero.* Il drago esala del gas soporifero in un cono di 18 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra 26 o cadere svenuta per 10 minuti. Questo effetto termina se la creatura svenuta subisce danni o qualcuno impiega un'Azione per risvegliarla.
 
@@ -4451,7 +4451,7 @@ Organizzazione: Solitario
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
-*Soffio Infuocato.* Il drago esala fuoco in una linea lunga 12 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza di Riflessi DC 18, subendo 42 (12d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Soffio Infuocato.* Il drago esala fuoco in una linea lunga 12 metri e larga 1 metro. Ogni creatura sulla linea deve effettuare un Tiro Salvezza su Riflessi DC 18, subendo 42 (12d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 *Soffio Soporifero.* Il drago esala del gas soporifero in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra 18 o cadere svenuta per 5 minuti. Questo effetto termina se la creatura svenuta subisce danni o qualcuno impiega un'Azione per risvegliarla.
 
@@ -4536,7 +4536,7 @@ Ottimi conversatori, i draghi d'ottone preferiscono parlare invece che combatter
 
 *Colpisce:* 19 (2d10 + 8) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 34 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 34 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
@@ -4604,7 +4604,7 @@ Organizzazione: Solitario
 
 *Colpisce:* 17 (2d10 + 6) danni perforanti.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 27 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal drago, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 27 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del drago per le successive 24 ore.
 
 ***Arma a Soffio (Ricarica 5-6).*** Il drago usa una delle seguenti armi a soffio:
 
@@ -4760,7 +4760,7 @@ A volontà: Parola Divina
 
 ***Rigenerazione.*** Tàhil rigenera 30 Punti Ferita all'inizio del suo round
 
-**Azioni*Multiattacco.*** Tàhil può usare la sua Presenza Spaventosa oppure effettuare 3 attacchi (2 con artigli ed uno con la coda) oppure uno solo con il morso. Artiglio +30, portata 5 metri. Coda +19 portata 8 metri. Morso +19, portata 6 metri. Tutti gli attacchi di Tàhil sono considerati magici +5.
+**Azioni*Multiattacco.*** Tàhil può usare la sua Presenza Spaventosa oppure effettuare 3 attacchi (2 con artigli e uno con la coda) oppure uno solo con il morso. Artiglio +30, portata 5 metri. Coda +19 portata 8 metri. Morso +19, portata 6 metri. Tutti gli attacchi di Tàhil sono considerati magici +5.
 
 *Colpisce:* Artiglio, 24 (4d6 +10, 5/40 danni da sanguinamento) da taglio. Coda, 28 (4d8 +10) contundenti. Morso 48 (8d6 +10) tagliente. Se colpisce con un margine di 10 con il morso mozza il corpo a metà della creatura se non si riesce un TS su Tempra a DC 30.
 
@@ -4768,7 +4768,7 @@ A volontà: Parola Divina
 
 **Azioni Aggiuntive**
 
-Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti ed una per round solo al termine del round di un'altra creatura. Tàhil può cambiare il colore della sua testa per accedere ai poteri degli altri tipi di drago. Le azioni dipendono dalla testa scelta.
+Tàhil può effettuare 3 azioni aggiuntive, scelte da quelle sottostanti e una per round solo al termine del round di un'altra creatura. Tàhil può cambiare il colore della sua testa per accedere ai poteri degli altri tipi di drago. Le azioni dipendono dalla testa scelta.
 
 **Attacco con Artiglio.**: +19, portata 6 metri, un obiettivo. Se colpisce 32 (4d10 + 10, 3 da Sanguinamento) danno da taglio più 14 (4d6) danni da acido (testa Nera) oppure Elettricità (testa Blu) oppure da Veleno (testa Verde) oppure da Fuoco (testa Rossa) oppure da Freddo (testa Bianca) oppure da Fuoco (testa Gialla) oppure da Suono (testa Viola)
 
@@ -4830,7 +4830,7 @@ A volontà: *luci danzanti*
 
 *Colpisce:* 7 (1d8 + 3) danni taglienti, o 8 (1d8 + 3) danni taglienti se usata con due mani.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +9 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +9 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 7 (1d8 + 3) danni perforanti più 4 (1d8) danni da veleno.
 
@@ -4904,7 +4904,7 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 ### Elementale dell'Acqua Generico
 
 - **Taglia/Tipo**: Elementale
-- **Caratt.**: \resizedown{{For 2+GS/3 Des 0+GS/6 Cos 2+GS/3 Int -2+GS/6 Sag 0+GS/6 Car 0+GS/6
+- **Caratt.**: \resizedown&#123;&#123;For 2+GS/3 Des 0+GS/6 Cos 2+GS/3 Int -2+GS/6 Sag 0+GS/6 Car 0+GS/6
 - **Punti Ferita**: (GS+2)*15, **Difesa:** GS+Des, **Iniziativa:** +Des
 - **Movimento**: 9 m, nuoto GS*4 m
 - **Tiri Salvez.**: Tempra GS+GS/5+COS, Riflessi GS+DES, Volontà GS+SAG
@@ -4924,9 +4924,9 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 | ***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio. |
 | *Colpisce:* GS*1d8 danni contundenti. |
 
-**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
+**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
-| ***Sommergere (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS+GS/5. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale. |
+| ***Sommergere (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza su Tempra DC 10+GS+GS/5. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale. |
 | --- |
 | L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2. |
 
@@ -4952,9 +4952,9 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 | ***Schianto.** Attacco con arma da mischia*: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio. |
 | *Colpisce:* 1d6*GS/3 danni contundenti. |
 
-**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
+**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
-***Turbine (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza di Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 13 o subire lo stesso danno e cadere prona.
+***Turbine (Ricarica 4-6).*** Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza su Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza su Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
 
 ### Elementale del Fuoco Generico
@@ -4985,7 +4985,7 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 *Colpisce:* GS*2 danni da fuoco. Se il bersaglio è una creatura o un oggetto infiammabile, prende fuoco. Finché una creatura non impiega un'Azione per spegnere le fiamme, la creatura subirà CR danni da fuoco all'inizio di ciascun proprio round.
 
-**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
+**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
 ### Elementale della Terra Generico
 
@@ -5011,7 +5011,7 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 *Colpisce:* GS*3 danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco ad una creatura che attraversi o esca dalla sua portata di GS/3 metri.
+**Reazione: *Attacco d'opportunità***: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
 ### Ettercap
 
@@ -5038,9 +5038,9 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 
 ***Morso.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 6 (1d8 + 2) danni perforanti più 4 (1d8) danni da veleno. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza.
+*Colpisce:* 6 (1d8 + 2) danni perforanti più 4 (1d8) danni da veleno. Il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 11 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. La creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto se riesce il Tiro Salvezza.
 
-***Ragnatela (Ricarica 5-6).** Attacco con arma a Distanza*: +5 a colpire, gittata 9m, una creatura di taglia Grande o minore.
+***Ragnatela (Ricarica 5-6).** Attacco con arma a Distanza*: +5 a colpire, gittata 9 m, una creatura di taglia Grande o minore.
 
 *Colpisce:* La creatura è intralciata dalla ragnatela. Con un'Azione, la creatura intralciata può effettuare un Tiro Salvezza Tempra con Forza DC 11, liberandosi dalla tela se la riesce. L'effetto termina se la tela è distrutta. La tela ha Difesa 10, 5 Punti Ferita, vulnerabilità ai danni da fuoco, e immunità ai danni contundenti e da veleno.
 
@@ -5051,7 +5051,7 @@ Ambiente: Foreste Temperate
 Organizzazione: solitario, coppia o nido (3-6 più 2-8 ragni giganti)
 | **Categoria Tesoro**: C |
 | **Descrizione** |
-| Gli ettercap sono umanoidi alti di solito 1,8 metri e pesano circa 100 kg, con braccia allungate fino a terra ed un orrendo volto con elementi ragneschi. Sono solitari e raramente si uniscono ad altri della loro razza, tranne per l'accoppiamento. Quando fanno gruppo, tendono ad attrarre varie specie di ragni, formando uno strano connubio di ettercap e aracnidi. |
+| Gli ettercap sono umanoidi alti di solito 1,8 metri e pesano circa 100 kg, con braccia allungate fino a terra e un orrendo volto con elementi ragneschi. Sono solitari e raramente si uniscono ad altri della loro razza, tranne per l'accoppiamento. Quando fanno gruppo, tendono ad attrarre varie specie di ragni, formando uno strano connubio di ettercap e aracnidi. |
 | Gli ettercap sono noti per la costruzione di astute trappole fatte di ragnatele e altri materiali naturali, che usano per catturare prede. Costruiscono rifugi di ragnatela, tra i rami più alti gli alberi lontano dagli altri predatori terrestri, e usano ragni mostruosi come vedette e guardiani. |
 
 Gli ettercap non sono coraggiosi, ma le loro trappole spesso impediscono al nemico di estrarre le armi. Un ettercap attacca con artigli e morsi velenosi. In genere evita la mischia con gli avversari che possono ancora muoversi e fugge se si liberano.
@@ -5124,11 +5124,11 @@ In genere formano delle coppie riproduttive per allevare la prole solo per brevi
 
 ***Eterealità.*** Il fantasma entra nel Piano Etereo dal Piano Materiale, o vice versa. È visibile sul Piano Materiale mentre è nel Piano Etereo, e vice versa, ma non può interagire con nulla che si trovi sull'altro piano.
 
-***Possessione (Ricarica 6).*** Un umanoide, entro 1 metro e visibile al fantasma, deve riuscire un Tiro Salvezza di Volontà DC 15 o venire posseduto dal fantasma; il fantasma poi scompare, e il bersaglio è inabile e perde il controllo del suo corpo. Il fantasma ora controlla il corpo ma non priva il bersaglio della sua consapevolezza. Il fantasma non può essere bersaglio di attacchi, incantesimi, o altri effetti, eccetto quelli che scacciano i non morti, e mantiene i suoi Tratti, Intelligenza, Saggezza, Carisma e immunità all'essere affascinato e spaventato. Per il resto usa altrimenti le statistiche del bersaglio posseduto, ma non accede al sapere e competenze del bersaglio.
+***Possessione (Ricarica 6).*** Un umanoide, entro 1 metro e visibile al fantasma, deve riuscire un Tiro Salvezza su Volontà DC 15 o venire posseduto dal fantasma; il fantasma poi scompare, e il bersaglio è inabile e perde il controllo del suo corpo. Il fantasma ora controlla il corpo ma non priva il bersaglio della sua consapevolezza. Il fantasma non può essere bersaglio di attacchi, incantesimi, o altri effetti, eccetto quelli che scacciano i non morti, e mantiene i suoi Tratti, Intelligenza, Saggezza, Carisma e immunità all'essere affascinato e spaventato. Per il resto usa altrimenti le statistiche del bersaglio posseduto, ma non accede al sapere e competenze del bersaglio.
 
 La possessione dura finché il corpo scende a 0 Punti Ferita, il fantasma la termina con un'Azione Immediata, o il fantasma viene scacciato o espulso. Quando la possessione termina, il fantasma riappare in uno spazio non occupato entro 1 metro dal corpo. Il bersaglio è immune alla Possessione di questo fantasma per 24 ore dopo aver superato il Tiro Salvezza o al termine della possessione.
 
-***Viso Orripilante.*** Ogni creatura che non sia non morta, entro 18 metri dal fantasma e che lo possa vedere, deve riuscire un Tiro Salvezza di Volontà DC 15 o essere spaventata per 1 minuto. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun proprio round, terminando l'effetto per sé, qualora riuscisse il Tiro Salvezza. Se il Tiro Salvezza del bersaglio riesce e per lui l'effetto ha fine, il bersaglio è immune al Viso Orripilante del fantasma per le successive 24 ore. Tramite l'incantesimo Ristorare Superiore si può recuperare 1 anno di invecchiamento, ma solo se eseguito entro 24 ore dall'effetto di invecchiamento.
+***Viso Orripilante.*** Ogni creatura che non sia non morta, entro 18 metri dal fantasma e che lo possa vedere, deve riuscire un Tiro Salvezza su Volontà DC 15 o essere spaventata per 1 minuto. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio invecchia anche di 1d4 x 10 anni. Un bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun proprio round, terminando l'effetto per sé, qualora riuscisse il Tiro Salvezza. Se il Tiro Salvezza del bersaglio riesce e per lui l'effetto ha fine, il bersaglio è immune al Viso Orripilante del fantasma per le successive 24 ore. Tramite l'incantesimo Ristorare Superiore si può recuperare 1 anno di invecchiamento, ma solo se eseguito entro 24 ore dall'effetto di invecchiamento.
 
 **Ecologia**
 
@@ -5139,7 +5139,7 @@ Organizzazione: solitario
 | --- |
 | **Descrizione** |
 
-Quando ad un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.
+Quando a un'anima non è concesso il riposo a causa di qualche grave ingiustizia, vera o presunta, a volte essa torna come fantasma. Questi esseri sono eternamente angosciati, privi di sostanza e incapaci di rimettere le cose a posto. Sebbene i fantasmi possano avere qualsiasi Tratto, molti si aggrappano al mondo dei viventi con un forte senso di odio e rabbia, e come risultato diventano malvagi; anche una creatura buona dopo morta può diventare un fantasma odioso e crudele.
 
 Più di altri mostri, il fantasma deve avere un background ben delineato. Perché questo personaggio è diventato un fantasma? Quali leggende lo circondano? Un incontro con un fantasma non dovrebbe mai avvenire in modo accidentale: ci sono molti altri non morti incorporei, come Wraith e Spettri, per questo. Un incontro adeguato con un fantasma dovrebbe avvenire in una scena al culmine di un lungo periodo di tensione costruito con servitori minori o manifestazioni di spiriti non morti. L'esempio di fantasma sopra rappresenta una principessa umana assassinata da un amante infedele; dopo un confronto, lui la legò con delle catene e la gettò nel pozzo del castello, dove morì annegata. Le capacità del fantasma sono state selezionate in base al background, mostrando come si possa creare un potente antagonista. Applicando l'archetipo a creature con livelli e quindi Abilità proprie o con capacità razziali significative si possono creare fantasmi molto più potenti.
 
@@ -5158,17 +5158,17 @@ Gli oggetti originali vengono lasciati indietro, proprio come le spoglie fisiche
 - **Sensi**: \resizedown{Scurovisione 18 m}
 - **Sfida**: 2 (450 PX)
 
-***Gorgoglio.*** Finché la fauce è in grado di vedere una creatura e non è inabile, pronuncia frasi incoerenti. Ogni creatura che inizi il suo round entro 6 metri dalla fauce e può udire il suo gorgoglio deve effettuare un Tiro Salvezza di Volontà DC 12. Se lo fallisce, la creatura non può effettuare reazioni fino all'inizio del suo prossimo round e tira un d8 per determinare cosa farà durante il proprio round. Da 1 a 4, la creatura non fa nulla. Con 5 o 6, la creatura non svolge nessun'Azione o Reazione e usa tutto il suo movimento per muoversi in una direzione determinata casualmente. Con 7 o 8, la creatura effettua un attacco da mischia contro una creatura determinata a caso entro la sua portata o non fa nulla se non è in grado di effettuare un simile attacco.
+***Gorgoglio.*** Finché la fauce è in grado di vedere una creatura e non è inabile, pronuncia frasi incoerenti. Ogni creatura che inizi il suo round entro 6 metri dalla fauce e può udire il suo gorgoglio deve effettuare un Tiro Salvezza su Volontà DC 12. Se lo fallisce, la creatura non può effettuare reazioni fino all'inizio del suo prossimo round e tira un d8 per determinare cosa farà durante il proprio round. Da 1 a 4, la creatura non fa nulla. Con 5 o 6, la creatura non svolge nessun'Azione o Reazione e usa tutto il suo movimento per muoversi in una direzione determinata casualmente. Con 7 o 8, la creatura effettua un attacco da mischia contro una creatura determinata a caso entro la sua portata o non fa nulla se non è in grado di effettuare un simile attacco.
 
-***Terreno Aberrante.*** Il terreno in un raggio di 3 metri intorno alla fauce è considerato terreno difficile. Ogni creatura che inizi il suo round in quell'area deve riuscire un Tiro Salvezza di Tempra DC 11 o vedere il suo movimento ridotto a 0 fino all'inizio del suo round successivo.
+***Terreno Aberrante.*** Il terreno in un raggio di 3 metri intorno alla fauce è considerato terreno difficile. Ogni creatura che inizi il suo round in quell'area deve riuscire un Tiro Salvezza su Tempra DC 11 o vedere il suo movimento ridotto a 0 fino all'inizio del suo round successivo.
 
 **Azioni*Multiattacco.*** La fauce gorgogliante effettua un attacco di morso e, se può, uno Sputo Accecante.
 
 ***Morso.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 17 (5d6) danni perforanti. Se il bersaglio è di taglia Media o inferiore, deve riuscire un Tiro Salvezza di Tempra DC 11 o venir gettato prono. Se il bersaglio viene ucciso da questo danno, viene assorbito dalla fauce.
+*Colpisce:* 17 (5d6) danni perforanti. Se il bersaglio è di taglia Media o inferiore, deve riuscire un Tiro Salvezza su Tempra DC 11 o venir gettato prono. Se il bersaglio viene ucciso da questo danno, viene assorbito dalla fauce.
 
-***Sputo Accecante (Ricarica 5-6).*** La fauce sputa un globo chimico ad un punto visibile entro 5 metri da essa. Il globo esplode all'impatto in un lampo accecante di luce. Ogni creatura entro 1 metro dal lampo deve riuscire un Tiro Salvezza di Riflessi DC 13 o restare accecata fino al termine del prossimo round della fauce.
+***Sputo Accecante (Ricarica 5-6).*** La fauce sputa un globo chimico a un punto visibile entro 5 metri da essa. Il globo esplode all'impatto in un lampo accecante di luce. Ogni creatura entro 1 metro dal lampo deve riuscire un Tiro Salvezza su Riflessi DC 13 o restare accecata fino al termine del prossimo round della fauce.
 
 **Reazione: *Sputo opportunistico*** la fauce, quando colpita con un danno critico sputa un globo acido alla creatura che l'ha ferita causando 2d6 di danno da acido.
 
@@ -5205,7 +5205,7 @@ A volontà: *Cura Ferite 1, Dissolvi Magie, Fiamma Perenne, Rimuovi Maledizione,
 
 1 volta: *Resurrezione* la Fenice sacrificando la sua vita in maniera definitiva può riportare in vita una creatura.
 
-**Azioni*Multiattacco.*** La Fenice può attaccare con due artigli ed il morso
+**Azioni*Multiattacco.*** La Fenice può attaccare con due artigli e il morso
 
 ***Morso.** Attacco con arma da mischia*: +12 a colpire, portata 6 m, una creatura.
 
@@ -5215,11 +5215,11 @@ A volontà: *Cura Ferite 1, Dissolvi Magie, Fiamma Perenne, Rimuovi Maledizione,
 
 *Colpisce:* 17 danni da taglio (2d6+8 + 1d6 da Luce)
 
-**Reazione: *Attacco d'opportunità***: la Fenice effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 6 metri.
+**Reazione: *Attacco d'opportunità***: la Fenice effettua un attacco a una creatura che attraversi o esca dalla sua portata di 6 metri.
 
 **Abilità speciali*Rinascita***
 
-Una Fenice uccisa si riduce ad un falò di 3 metri cubi dove giace al centro un uovo di fenice. Dopo 1d4+4 round questo uovo si schiude e diventa una Fenice perfettamente sana. L'unico modo per evitare la rinascita è togliere l'uovo dal falò (20d6 di danno da Luce) od usare un incantesimo di Disintegrazione sull'uovo.
+Una Fenice uccisa si riduce a un falò di 3 metri cubi dove giace al centro un uovo di fenice. Dopo 1d4+4 round questo uovo si schiude e diventa una Fenice perfettamente sana. L'unico modo per evitare la rinascita è togliere l'uovo dal falò (20d6 di danno da Luce) od usare un incantesimo di Disintegrazione sull'uovo.
 Una Fenice può resuscitare in questo modo una volta all'anno, se muore prima che sia trascorso questo tempo, la morte è definitiva. Uccidere una Fenice scatena l'ira delle Allieve della Luce e dei cavalieri di Sumkjr.
 
 ***Ali di fiamma***
@@ -5266,7 +5266,7 @@ La leggenda racconta che le fenici si generino quando un Cavaliere di Sumkjir o 
 
 *Colpisce:* 17 (2d10 + 6) danni contundenti
 
-**Reazione: *Attacco d'opportunità***: la Fioritura ossea effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la Fioritura ossea effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Soffio di Spore***: raggio di 6 metri. Fioritura Ossea emana spore e pollini tutto intorno a sé. Qualsiasi creatura che respiri nel raggio di 6 metri dalla Fioritura Ossea deve effettuare un Tiro Salvezza su Tempra a DC 18. Se il Tiro Salvezza fallisce la creatura subisce 3d8 danni da veleno ed è sotto l'influenza dell'incantesimo Lentezza per 1 minuto. Se il Tiro Salvezza riesce subisce metà del danno ed è rallentato fino alla fine del round successivo.
 
@@ -5359,7 +5359,7 @@ Un fungo viola è alto 1,2 metri e pesa 25 kg.
 - **Linguaggi**: le lingue che conosceva in vita
 - **Sfida**: 2 (450 PX)
 
-***Consumare Vita.*** Con un'Azione Immediata, il fuoco fatuo può prendere a bersaglio una creatura che può vedere entro 1 metro da esso e che abbia 0 Punti Ferita o meno e sia ancora in vita. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 12 contro questa magia o morire. Se il bersaglio muore, il fuoco fatuo recupera 10 (3d6) Punti Ferita.
+***Consumare Vita.*** Con un'Azione Immediata, il fuoco fatuo può prendere a bersaglio una creatura che può vedere entro 1 metro da esso e che abbia 0 Punti Ferita o meno e sia ancora in vita. Il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 12 contro questa magia o morire. Se il bersaglio muore, il fuoco fatuo recupera 10 (3d6) Punti Ferita.
 
 ***Effimero.*** Il fuoco fatuo non può indossare né trasportare nulla.
 
@@ -5403,7 +5403,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 - **Tiri Salvez.**: \resizedown{Tempra +8, Riflessi +4, Volontà +8}
 - **Comp.**: Furtività +5, Consapevolezza +6
 - **Sensi**: \resizedown{Scurovisione 18 m}
-- **Linguaggi**: comune, lingue antiche (latino, greco, celtico...)
+- **Linguaggi**: comune, lingue antiche (latino, greco, celtico…)
 - **Sfida**: 5 (1800 PX)
 
 ***Falso Aspetto.*** Quando il fustigatore rimane immobile, è indistinguibile da una normale formazione rocciosa, come una stalagmite.
@@ -5426,7 +5426,7 @@ I fuochi fatui non hanno età e sono di fatto immortali, a meno che non muoiano 
 
 ***Avvolgere.*** Il fustigatore trascina le creature afferrate da lui di 7 metri verso di lui. TS Tempra DC 17 per non farsi spostare.
 
-**Reazione: *Attacco d'opportunità***: il fustigatore effettua un attacco con Viticcio ad una creatura che attraversi o esca dalla sua portata di 6 metri.
+**Reazione: *Attacco d'opportunità***: il fustigatore effettua un attacco con Viticcio a una creatura che attraversi o esca dalla sua portata di 6 metri.
 
 ***Arrabbiato:*** il fustigatore emette un'onda cacofonica nauseabonda. Tutte le creature nel raggio di 6 metri devono eseguire un Tiro Salvezza su Tempra DC 18 o essere Nauseato fino alla fine del round successivo. Costa 2 Azioni.
 
@@ -5477,7 +5477,7 @@ I Gablin sono la feccia della feccia, si dice che un Gablin nasce da ogni pensie
 I Gablin sono piccoli umanoidi dalla pelle scura, con striature verdi generati inizialmente per volontà di Cattalm con l'unico scopo di portare distruzione, morte e sofferenza.
 I Gablin si possono nascondere ovunque purché in prossimità di una fonte di cibo, solitamente prediligono le fogne oppure strutture abbandonate vicino ai villaggi.
 Lo scopo unico di un Gablin è uccidere e perpetuare la specie. I Gablin sono tutti maschi e la loro natura immonda li rende capaci di impregnare qualsiasi femmina umanoide.
-Solitamente la gestazione dura solo 3 settimane durante le quali le donne vengono torturate per rafforzare gli 1d6+2 piccoli che porta in grembo. Il parto solitamente si conclude con i piccoli di Gablin che sventrano la madre e ne fanno il primo loro pasto.
+Solitamente la gestazione dura solo 3 settimane, durante le quali le donne vengono torturate per rafforzare gli 1d6+2 piccoli che portano in grembo. Il parto solitamente si conclude con i piccoli di Gablin che sventrano la madre e ne fanno il loro primo pasto.
 Questo metodo di procreazione, unito alla loro vorace fame di sangue e carne, ne fa una delle creature più odiate e temute.
 Anche se singolarmente non sono particolarmente temibili, i Gablin si muovono sempre in gruppo e se questo supera le due dozzine allora c'è quasi sempre un Gablin Incantatore o addirittura un Campione Gablin a guidarli.
 
@@ -5528,7 +5528,7 @@ Non hanno remore a mandare al massacro i Gablin o ad uccidere qualsiasi cosa che
 
 ***Evocare Gablin***: 3 Azioni. Il Gablin spilla il suo sangue a terra e a questo sorgono 3d4 Gablin.
 
-**Reazione: *Attacco d'opportunità***: il Paladino Gablin effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Paladino Gablin effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Aura immonda**: il Paladino Gablin emana un aura di 6 metri di raggio intorno a lui che conferisce +2 al Tiro per Colpire ed al Danno a tutti gli altri Gablin ed impone -2 al Tiro per Colpire e TS alle altre creature non Devoti o Seguaci di Cattalm.
 
@@ -5569,7 +5569,7 @@ I Paladini Gablin sono tra i più potenti gablin che si conoscano, i veri eletti
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-**Reazione: *Attacco d'opportunità***: il gargoyle attacca se sta volando ed una creatura esce o attraversa la sua portata di 1 m.
+**Reazione: *Attacco d'opportunità***: il gargoyle attacca se sta volando e una creatura esce o attraversa la sua portata di 1 m.
 
 **Ecologia**
 
@@ -5661,7 +5661,7 @@ A volontà: *Conoscere i Tratti, Individuazione del Magico, Onda Tonante*
 
 **Reazione: *Nube improvvisa*** il djinni subisce un colpo critico, diventa immediatamente di vapore fino alla fine del round. Costa 1 Azione tornare in forma solida.
 
-***Creare Turbine.*** Un cilindro d'aria turbinante di 1 metro di raggio e alto 9 metri si forma magicamente in un punto visibile al djinni entro 36 metri da esso. Il turbine resta finché il djinni mantiene la concentrazione (come se si stesse concentrando su di un incantesimo). Qualsiasi creatura salvo il djinni che entri nel turbine deve riuscire un Tiro Salvezza di Tempra DC 23 o restare intralciata da esso. Il djinni può muovere il turbine di massimo 18 metri con un'Azione, e le creature intralciate dal turbine si muovono con esso. Il turbine termina se il djinni lo perde di vista.
+***Creare Turbine.*** Un cilindro d'aria turbinante di 1 metro di raggio e alto 9 metri si forma magicamente in un punto visibile al djinni entro 36 metri da esso. Il turbine resta finché il djinni mantiene la concentrazione (come se si stesse concentrando su di un incantesimo). Qualsiasi creatura salvo il djinni che entri nel turbine deve riuscire un Tiro Salvezza su Tempra DC 23 o restare intralciata da esso. Il djinni può muovere il turbine di massimo 18 metri con un'Azione, e le creature intralciate dal turbine si muovono con esso. Il turbine termina se il djinni lo perde di vista.
 
 Una creatura può usare un'Azione per liberare una creatura intralciata dal turbine, compresa se stessa, riuscendo un Tiro Salvezza Tempra con Forza DC 22. Se la prova riesce, la creatura non è più intralciata e si sposta nello spazio più vicino all'esterno del turbine.
 
@@ -5712,7 +5712,7 @@ A volontà: *Individuazione del Magico*
 
 *Colpisce:* 17 (5d6) danni da fuoco.
 
-**Reazione: *Attacco d'opportunità***: l'efreeti effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: l'efreeti effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
 
@@ -5741,7 +5741,7 @@ Gli Efreet hanno pochi alleati tra gli altri Geni: odiano i Djinni e li attaccan
 - **Linguaggi**: Comune, Expiran
 - **Sfida**: 2 (450 PX)
 
-***Fetore.*** Qualsiasi creatura che inizi il suo round entro 1 metro dal ghast deve riuscire un Tiro Salvezza di Tempra DC 14 o restare Nauseata (-1d6 a TC, TS e Prove) fino all'inizio del suo prossimo round. Se riesce il Tiro Salvezza, la creatura è immune al Fetore del ghast per le successive 24 ore.
+***Fetore.*** Qualsiasi creatura che inizi il suo round entro 1 metro dal ghast deve riuscire un Tiro Salvezza su Tempra DC 14 o restare Nauseata (-1d6 a TC, TS e Prove) fino all'inizio del suo prossimo round. Se riesce il Tiro Salvezza, la creatura è immune al Fetore del ghast per le successive 24 ore.
 
 ***Ribellione allo Scacciare.*** Il ghast e tutti i ghoul entro 9 metri da esso hanno +1d6 ai Tiri Salvezza contro gli effetti che scacciano i non morti.
 
@@ -5827,7 +5827,7 @@ Anche se molti ghoul di superficie vivono in modo primitivo, delle voci parlano 
 
 *Colpisce:* 18 (3d8 + 6) danni perforanti, 1 da Sanguinamento, Malattia del Ghoul
 
-**Reazione: *Attacco d'opportunità***: il Ghoul Nero effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Ghoul Nero effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 *Malattia del Ghoul:* 3 giorni, TS Tempra DC 18, 6 ore, 3 successi, -1 Costituzione, ti trasformi in un Ghoul
 
@@ -5899,7 +5899,7 @@ La Madre Ghoul è solitamente a capo di un clan di ghoul che può raggiungere an
 
 *Colpisce:* 10 (2d8 + 2) danni perforanti.
 
-**Reazione: *Attacco d'opportunità***: il Ghoul Putrescente effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Ghoul Putrescente effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Aura di Sofferenza.***: il Ghoul Putrescente emana un aura di 6 metri intorno a lui, ogni attacco di ghoul andato a segno causa automaticamente un danno critico. Attivare questa aura costa 2 Azioni e dura fino all'inizio del round successivo.
 
@@ -5912,7 +5912,7 @@ Organizzazione: Gruppo (4-8) o branco (10-18)
 | --- |
 | **Descrizione** |
 
-I Ghoul Putrescenti sono una delle tante evoluzioni dei Ghoul. Il contatto continuo con l'energia negativa ed il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
+I Ghoul Putrescenti sono una delle tante evoluzioni dei Ghoul. Il contatto continuo con l'energia negativa e il nutrirsi per secoli di cadaveri di ogni genere lo hanno reso più grande, forte e capace di infliggere e fare infliggere le ferite più pericolose.
 
 ### Gigante delle Colline
 
@@ -5932,7 +5932,7 @@ I Ghoul Putrescenti sono una delle tante evoluzioni dei Ghoul. Il contatto conti
 
 ***Ampio Fendente.** Attacco con arma da mischia*: +7 a colpire, portata 3 metri, con un singolo attacco può colpire due creature in mischia vicine tra loro.
 
-***Sasso.** Attacco con arma a Distanza*: +5 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +5 a colpire, gittata 18 m, un bersaglio.
 
 *Colpisce:* 21 (3d10 + 5) danni contundenti.
 
@@ -5971,11 +5971,11 @@ I giganti di Collina solitari e non malvagi sono molto rari, ma li si può trova
 
 ***Ampio Fendente.** Attacco con arma da mischia*: +11 a colpire, portata 3 metri, con un singolo attacco può colpire due creature in mischia vicine tra loro.
 
-***Sasso.** Attacco con arma a Distanza*: +10 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +10 a colpire, gittata 18 m, un bersaglio.
 
 *Colpisce:* 29 (4d10 + 7) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il gigante del fuoco effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il gigante del fuoco effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** il gigante del fuoco convoglia la sua energia sull'arma, questa causa +2d6 danni da fuoco fino al termine del combattimento.
 
@@ -6015,11 +6015,11 @@ I giganti del fuoco preferiscono i luoghi caldi: più caldi sono meglio è. Si p
 
 ***Ampio Fendente.** Attacco con arma da mischia*: +10 a colpire, portata 3 metri, con un singolo attacco può colpire due creature in mischia vicine tra loro.
 
-***Sasso.** Attacco con arma a Distanza*: +9 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +9 a colpire, gittata 18 m, un bersaglio.
 
 *Colpisce:* 28 (4d10 + 6) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il gigante del freddo effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il gigante del freddo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** il Gigante del Gelo canalizza le sue energie attraverso l'arma. L'arma causa un 2d6 di danni aggiuntivi da freddo fino alla fine del combattimento.
 
@@ -6033,11 +6033,11 @@ Organizzazione: Solitario, banda (3-5), gruppo (6-12 più 35\% non combattenti e
 
 Un gigante del gelo ha capelli azzurri o giallo sporco, e occhi in genere dello stesso colore. Si veste con pelli e pellicce, adornandosi con qualsiasi gioiello possiedano. I giganti del gelo combattenti indossano anche giachi di maglia ed elmi di metallo decorati con corna e piume. Un maschio adulto è alto 5 metri e pesa circa 1.400 kg. Le femmine sono leggermente più basse e snelle, ma per il resto sono identiche ai maschi. I giganti del gelo possono vivere fino a 250 anni.
 
-I giganti del gelo sono molto temuti, poiché la brama di distruzione e guerra ed il loro comportamento sprezzante li spingono a manifestazioni di brutalità sempre maggiori. I giganti del gelo iniziano attaccando a distanza, scagliando rocce finché finiscono le munizioni o l'avversario si avvicina, poi lo affrontano con le loro enormi asce. Una delle tattiche preferite è tendere un'imboscata nascondendosi sotto la neve al di sopra di un pendio ghiacciato o innevato, dove gli avversari avranno difficoltà a raggiungerli, e poi iniziano causando una valanga prima di scendere in battaglia. I giganti del gelo possono nascondersi molto bene negli ambienti nevosi e sono dei maestri nella furtività nel loro dominio.
+I giganti del gelo sono molto temuti, poiché la brama di distruzione e guerra e il loro comportamento sprezzante li spingono a manifestazioni di brutalità sempre maggiori. I giganti del gelo iniziano attaccando a distanza, scagliando rocce finché finiscono le munizioni o l'avversario si avvicina, poi lo affrontano con le loro enormi asce. Una delle tattiche preferite è tendere un'imboscata nascondendosi sotto la neve al di sopra di un pendio ghiacciato o innevato, dove gli avversari avranno difficoltà a raggiungerli, e poi iniziano causando una valanga prima di scendere in battaglia. I giganti del gelo possono nascondersi molto bene negli ambienti nevosi e sono dei maestri nella furtività nel loro dominio.
 
 I giganti del gelo sopravvivono cacciando e razziando da soli, dato che vivono in ambienti freddi e desolati. I gruppi di giganti del gelo sono divisi quasi equamente tra quelli che vivono in insediamenti di fortuna o castelli abbandonati e quelli che vagabondano per il gelido nord, come nomadi in cerca di bottino e provviste. I capi dei giganti del gelo si chiamano jarl e richiedono obbedienza assoluta ai loro seguaci. In ogni momento uno jarl può essere sfidato in combattimento per il comando della tribù. Queste sfide tipicamente finiscono con la morte di uno dei contendenti. Un singolo jarl può spesso contare su una dozzina o più di tribù più piccole di giganti del gelo come estensione della sua. In questi casi, i capi delle tribù minori sono noti come capitani o signori della guerra.
 
-I giganti del gelo amano prendere prigionieri e li usano sia come schiavi che come materia prima. Di solito ogni gruppo di giganti del gelo tiene 1-2 schiavi umanoidi incatenati ad un addestratore di schiavi: il più meschino e crudele del gruppo dopo lo jarl. Hanno anche una certa passione per gli animali domestici mostruosi: Draghi Bianchi e Lupi Invernali sono scelte popolari, ma nella tana di un gigante del gelo si possono trovare anche Remorhaz e Yeti.
+I giganti del gelo amano prendere prigionieri e li usano sia come schiavi che come materia prima. Di solito ogni gruppo di giganti del gelo tiene 1-2 schiavi umanoidi incatenati a un addestratore di schiavi: il più meschino e crudele del gruppo dopo lo jarl. Hanno anche una certa passione per gli animali domestici mostruosi: Draghi Bianchi e Lupi Invernali sono scelte popolari, ma nella tana di un gigante del gelo si possono trovare anche Remorhaz e Yeti.
 
 ### Gigante delle Nuvole
 
@@ -6068,11 +6068,11 @@ A volontà: *Individuazione del Magico, Luce, Nube di Nebbia*
 
 ***Ampio Fendente.** Attacco con arma da mischia*: +11 a colpire, portata 3 metri, con un singolo attacco può colpire due creature in mischia vicine tra loro.
 
-***Sasso.** Attacco con arma a Distanza*: +11 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +11 a colpire, gittata 18 m, un bersaglio.
 
 *Colpisce:* 30 (4d10 + 8) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il gigante delle nubi effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il gigante delle nubi effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** il Gigante delle Nubi agita l'arma sopra la testa evocando nubi tempestose e lanciando l'incantesimo Invocare il Fulmine. Costa 2 Azioni.
 
@@ -6112,11 +6112,11 @@ Sono molte le leggende che parlano di magiche città dei giganti delle nuvole si
 
 ***Ampio Fendente.** Attacco con arma da mischia*: +9 a colpire, portata 3 metri, con un singolo attacco può colpire due creature in mischia vicine tra loro.
 
-***Sasso.** Attacco con arma a Distanza*: +8 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +8 a colpire, gittata 18 m, un bersaglio.
 
-*Colpisce:* 28 (4d10 + 6) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 19 o cadere prona.
+*Colpisce:* 28 (4d10 + 6) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 19 o cadere prona.
 
-**Reazione: *Attacco d'opportunità***: il gigante di pietra effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il gigante di pietra effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 **Reazione: *Afferrare Sassi.*** Se un sasso o un simile oggetto viene scagliato al gigante, il gigante può, riuscendo un Tiro Salvezza su Riflessi DC 10, afferrare il proiettile e non subire danni contundenti da esso.
 
@@ -6168,13 +6168,13 @@ A volontà: *Caduta Piuma, individuazione del magico,* *levitazione, Luce*
 
 ***Ampio Fendente.** Attacco con arma da mischia*: +12 a colpire, portata 3 metri, con un singolo attacco può colpire due creature in mischia vicine tra loro.
 
-***Sasso.** Attacco con arma a Distanza*: +11 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +11 a colpire, gittata 18 m, un bersaglio.
 
 *Colpisce:* 35 (4d12 + 9) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il gigante delle tempeste effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il gigante delle tempeste effettua un attacco a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
-***Colpo Fulminante (Ricarica 5-6).*** Il gigante scaglia una folgore magica ad un punto visibile entro 150 metri da sé. Ogni creatura entro 3 metri da quel punto deve effettuare un Tiro Salvezza su Riflessi DC 25, subendo 54 (12d8) danni da elettricità se lo fallisce, o la metà se lo supera.
+***Colpo Fulminante (Ricarica 5-6).*** Il gigante scaglia una folgore magica a un punto visibile entro 150 metri da sé. Ogni creatura entro 3 metri da quel punto deve effettuare un Tiro Salvezza su Riflessi DC 25, subendo 54 (12d8) danni da elettricità se lo fallisce, o la metà se lo supera.
 
 ***Arrabbiato:*** il gigante delle tempeste carica di elettricità tutta l'area intorno a sé fino alla fine del combattimento. Una creatura che termini il round entro 6 metri da gigante subisce 13 (3d8) danni da elettricità. Costa 1 Azione.
 
@@ -6217,11 +6217,11 @@ I giganti delle tempeste vivono in belle torri, castelli o in insediamenti cinti
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti o 6 (1d8 + 2) danni perforanti se usata con due mani per effettuare un attacco da mischia.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +4 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +4 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
-***Risata beffarda.*** lo gnoll ride sguaiatamente ad un avversario. La creatura bersaglio deve effettuare un Tiro Salvezza su Volontà DC 13 o essere intimorito ed avere -1 al Tiro per Colpire fino alla fine del round successivo dello gnoll
+***Risata beffarda.*** lo gnoll ride sguaiatamente a un avversario. La creatura bersaglio deve effettuare un Tiro Salvezza su Volontà DC 13 o essere intimorito ed avere -1 al Tiro per Colpire fino alla fine del round successivo dello gnoll
 
 | **Ecologia** |
 | --- |
@@ -6267,9 +6267,9 @@ A volontà: *Anti-Individuazione* (personale)
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
-***Dardo Avvelenato.** Attacco con arma a Distanza*: +4 a colpire, gittata 9m, un bersaglio.
+***Dardo Avvelenato.** Attacco con arma a Distanza*: +4 a colpire, gittata 9 m, un bersaglio.
 
-*Colpisce:* 4 (1d4 + 2) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 12 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Colpisce:* 4 (1d4 + 2) danni perforanti, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 12 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Ecologia**
 
@@ -6337,7 +6337,7 @@ Intelligenti e furbe preferiscono attaccare rimanendo in volo e fiaccando l'avve
 
 *Colpisce:* 4 (1d6 + 1) danni taglienti
 
-***Arco Corto.** Attacco con arma a Distanza*: +3 a colpire, gittata 15m, un bersaglio.
+***Arco Corto.** Attacco con arma a Distanza*: +3 a colpire, gittata 15 m, un bersaglio.
 
 *Colpisce:* 3 (1d6) danni perforanti.
 
@@ -6494,9 +6494,9 @@ Anche se molti golem di carne sono privi di ragione, si narra di golem ecceziona
 
 *Colpisce:* 23 (3d10 + 7) danni taglienti.
 
-**Reazione: *Attacco d'opportunità***: il golem effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il golem effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
-***Soffio Velenoso (Ricarica 6).*** Il golem esala un gas velenoso in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 29, subendo 45 (10d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Velenoso (Ricarica 6).*** Il golem esala un gas velenoso in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 29, subendo 45 (10d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ***Arrabbiato:*** il golem di ferro esala un soffio rovente in un cono di 3 metri. Il soffio causa 3d10 danni da fuoco o la metà se il Tiro Salvezza su Riflessi DC 26 riesce. Il golem recupera l'intero ammontare in Punti Ferita ed è Accelerato 1 per 2d4 round. Costa 2 Azioni.
 
@@ -6508,9 +6508,9 @@ Organizzazione: Solitario o gruppo (2-4)
 | **Categoria Tesoro**: Nessuno |
 | **Descrizione** |
 
-Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto ad un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferire i loro attacchi schianto.
+Un golem di ferro ha un corpo di forma umanoide in ferro. Il creatore può dargli qualsiasi forma desideri, ma presenta quasi sempre un'armatura di qualche tipo, sia essa cerimoniale e preziosa o semplice e d'uso. Rispetto a un golem di pietra ha sembianze molto più definite. I golem di ferro, talvolta, portano con sé un'arma, anche se il più delle volte tendono a preferire i loro attacchi schianto.
 
-Un golem di ferro è alto 3,6m e pesa circa 2.500 chili. Un golem di ferro non può parlare né emettere voce. Inoltre, non emette nessun odore riconoscibile.
+Un golem di ferro è alto 3,6 m e pesa circa 2.500 chili. Un golem di ferro non può parlare né emettere voce. Inoltre, non emette nessun odore riconoscibile.
 
 Anche se la pratica della costruzione di golem di ferro è gradualmente caduta in disuso, i membri venerabili di alcune grandi civiltà del passato consideravano la capacità di forgiare golem di ferro dalla forza e dalle dimensioni sconcertanti un motivo di vanto. Questi golem (di taglia maggiore o uguale a Enorme), in alcuni angoli remoti del mondo, esistono ancora, e ancora eseguono meccanicamente ordini impartiti loro da imperi ormai scomparsi.
 
@@ -6546,9 +6546,9 @@ Per costruire un golem di ferro occorrono 2.500 kg di ferro, fuso con tinture ra
 
 *Colpisce:* 19 (3d8 + 6) danni contundenti.
 
-**Reazione: *Sasso affilato***: il golem reagisce ad un attacco subito guadagnando 1 danno bonus al suo attacco di schianto.
+**Reazione: *Sasso affilato***: il golem reagisce a un attacco subito guadagnando 1 danno bonus al suo attacco di schianto.
 
-***Lentezza (Ricarica 5-6).*** Il golem prende a bersaglio una o più creature entro 3 metri da lui e che possa vedere. Ciascun bersaglio deve effettuare un Tiro Salvezza di Volontà DC 24 contro questa magia. Se fallisce il Tiro Salvezza il bersaglio è Rallentato 2/1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
+***Lentezza (Ricarica 5-6).*** Il golem prende a bersaglio una o più creature entro 3 metri da lui e che possa vedere. Ciascun bersaglio deve effettuare un Tiro Salvezza su Volontà DC 24 contro questa magia. Se fallisce il Tiro Salvezza il bersaglio è Rallentato 2/1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto per sé in caso di successo.
 
 | **Ecologia** |
 | --- |
@@ -6589,7 +6589,7 @@ Il corpo di un golem di pietra viene scolpito da un unico blocco di pietra dura,
 
 *Colpisce:* 16 (2d10 + 5) danni contundenti.
 
-***Soffio Pietrificante (Ricarica 4-6).*** La gorgone esala un gas pietrificante in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza di Tempra DC 16. Se il Tiro Salvezza fallisce la creatura è Rallentata 1/1 minuto. Se successivi soffi portano il bersaglio a non avere più Azioni allora diviene pietrificato finché non viene liberato dall'incantesimo Pietra in Carne.
+***Soffio Pietrificante (Ricarica 4-6).*** La gorgone esala un gas pietrificante in un cono di 9 metri. Ogni creatura in quell'area deve riuscire un Tiro Salvezza su Tempra DC 16. Se il Tiro Salvezza fallisce la creatura è Rallentata 1/1 minuto. Se successivi soffi portano il bersaglio a non avere più Azioni allora diviene pietrificato finché non viene liberato dall'incantesimo Pietra in Carne.
 
 ***Arrabbiato:*** la Gorgone concentra un potente soffio pietrificante. Costa 2 azioni. Una creatura a distanza di mischia deve effettuare un Tiro Salvezza su Tempra a DC 16 o diventare di pietra per 24 ore.
 
@@ -6668,7 +6668,7 @@ I grick si mimetizzano grazie al loro colore scuro e alla capacità di scalare i
 
 *Colpisce:* 8 (1d8 + 4) danni perforanti.
 
-**Reazione: *Attacco d'opportunità***: il grifone attacca se sta volando ed una creatura esce o attraversa la sua portata di 3 m.
+**Reazione: *Attacco d'opportunità***: il grifone attacca se sta volando e una creatura esce o attraversa la sua portata di 3 m.
 
 | **Ecologia** |
 | --- |
@@ -6711,7 +6711,7 @@ I grifoni possono portare fino a 25 di Ingombro come carico leggero, 50 come car
 
 *Colpisce:* 5 (1d4 + 3) danni contundenti più 2 (1d4) danni perforanti.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +3 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +3 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
@@ -6741,7 +6741,7 @@ I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle ter
 
 ***Rigenerazione.*** Il guardiano protettore recupera 10 Punti Ferita all'inizio del proprio round se ne possiede ancora almeno 1.
 
-***Vincolato.*** Il guardiano protettore è vincolato magicamente ad un amuleto. Finché il guardiano e l'amuleto sono sullo stesso piano di esistenza, chi indossa l'amuleto può richiamare telepaticamente il guardiano perché lo raggiunga, e il guardiano saprà la distanza e la direzione in cui si trova l'amuleto. Se il guardiano si trova entro 18 metri da chi indossa l'amuleto, metà dei danni subiti da chi lo indossa (arrotondati per difetto) vengono trasferiti al guardiano. Se l'amuleto viene distrutto, il guardiano è inabile finché non viene creato un amuleto di rimpiazzo. L'amuleto del guardiano può essere soggetto ad un attacco diretto qualora non sia indossato o trasportato da nessuno. Ha Difesa 10, 10 Punti Ferita e immunità ai danni da veleno. Costruire un amuleto richiede 1 settimana e costa 10000 mo in componenti.
+***Vincolato.*** Il guardiano protettore è vincolato magicamente a un amuleto. Finché il guardiano e l'amuleto sono sullo stesso piano di esistenza, chi indossa l'amuleto può richiamare telepaticamente il guardiano perché lo raggiunga, e il guardiano saprà la distanza e la direzione in cui si trova l'amuleto. Se il guardiano si trova entro 18 metri da chi indossa l'amuleto, metà dei danni subiti da chi lo indossa (arrotondati per difetto) vengono trasferiti al guardiano. Se l'amuleto viene distrutto, il guardiano è inabile finché non viene creato un amuleto di rimpiazzo. L'amuleto del guardiano può essere soggetto a un attacco diretto qualora non sia indossato o trasportato da nessuno. Ha Difesa 10, 10 Punti Ferita e immunità ai danni da veleno. Costruire un amuleto richiede 1 settimana e costa 10000 mo in componenti.
 
 **Azioni*Multiattacco.*** Il golem effettua due attacchi di pugno.
 
@@ -6762,13 +6762,13 @@ I Grimlock sono creature umane cieche e selvagge che abitano nel regno delle ter
 - **Linguaggi**: Comune, Goblin
 - **Sfida**: 1/2 (100 PX)
 
-***Marziale.*** Una volta per round, come Reazione, l'hobgoblin può infliggere 7 (2d6) danni aggiuntivi ad una creatura che colpisce con un attacco con arma, se quella creatura si trova entro 1 metro da un alleato dell'hobgoblin che non sia inabile.
+***Marziale.*** Una volta per round, come Reazione, l'hobgoblin può infliggere 7 (2d6) danni aggiuntivi a una creatura che colpisce con un attacco con arma, se quella creatura si trova entro 1 metro da un alleato dell'hobgoblin che non sia inabile.
 
 **Azioni*Spada Lunga.** Attacco con arma da mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
 *Colpisce:* 5 (1d8 + 1) danni taglienti o 6 (1d10 + 1) danni taglienti se usata con due mani.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +3 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +3 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 5 (1d8 + 1) danni perforanti.
 
@@ -6851,7 +6851,7 @@ L'idra è un drago a più teste, ma stupido e con grossi problemi di digestione.
 
 *Colpisce:* 8 (1d10 + 3) danni perforanti.
 
-**Reazione: *Attacco d'opportunità***: l'ippogrifo attacca se sta volando ed una creatura esce o attraversa la sua portata di 2 m.
+**Reazione: *Attacco d'opportunità***: l'ippogrifo attacca se sta volando e una creatura esce o attraversa la sua portata di 2 m.
 
 | **Ecologia** |
 | --- |
@@ -6896,15 +6896,15 @@ Gli ippogrifi sono ovipari e il loro nido contiene solitamente un solo uovo, che
 
 *Colpisce:* 23 (3d8 + 10) danni perforanti. Se il bersaglio è una creatura di taglia Grande o inferiore afferrato dal kraken, quella creatura viene inghiottita, e l'afferrare ha termine. Mentre è inghiottita, la creatura è accecata e intralciata, ha copertura completa contro gli attacchi e altri effetti provenienti dall'esterno del kraken, e subisce 42 (12d6) danni da acido all'inizio di ciascun round del kraken.
 
-Se il kraken subisce 50 o più danni in un singolo round da una creatura al suo interno, il kraken deve riuscire un Tiro Salvezza di Tempra DC 35 o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal kraken. Se il kraken muore, una creatura inghiottita non risulta più intralciata da esso e può fuggire dal cadavere usando 2 Azioni e uscendo prona.
+Se il kraken subisce 50 o più danni in un singolo round da una creatura al suo interno, il kraken deve riuscire un Tiro Salvezza su Tempra DC 35 o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal kraken. Se il kraken muore, una creatura inghiottita non risulta più intralciata da esso e può fuggire dal cadavere usando 2 Azioni e uscendo prona.
 
 ***Tentacolo.** Attacco con arma da mischia*: +17 a colpire, portata 9 m, un bersaglio.
 
 *Colpisce:* 20 (3d6 + 10) danni contundenti, e il bersaglio è afferrato (DC 18 per fuggire). Il kraken ha dieci tentacoli, ciascuno dei quali può afferrare un bersaglio.
 
-***Fiondare.*** Un oggetto impugnato o una creatura afferrata dal kraken, di taglia Grande o inferiore viene lanciato di 18 metri in una direzione casuale e gettata prona. Se il bersaglio lanciato colpisce una superficie solida, subisce 3 (1d6) danni contundenti per ogni 3 metri percorsi. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza di Riflessi DC 34 o subire lo stesso danno e cadere prona.
+***Fiondare.*** Un oggetto impugnato o una creatura afferrata dal kraken, di taglia Grande o inferiore viene lanciato di 18 metri in una direzione casuale e gettata prona. Se il bersaglio lanciato colpisce una superficie solida, subisce 3 (1d6) danni contundenti per ogni 3 metri percorsi. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza su Riflessi DC 34 o subire lo stesso danno e cadere prona.
 
-***Tempesta di Fulmini.*** Il kraken crea magicamente tre saette di energia, ciascuna delle quali può colpire un bersaglio entro 36 metri e che il kraken possa vedere. Il bersaglio deve effettuare un Tiro Salvezza di Riflessi DC 35, e subire 22 (4d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà se lo riesce.
+***Tempesta di Fulmini.*** Il kraken crea magicamente tre saette di energia, ciascuna delle quali può colpire un bersaglio entro 36 metri e che il kraken possa vedere. Il bersaglio deve effettuare un Tiro Salvezza su Riflessi DC 35, e subire 22 (4d10) danni da elettricità se fallisce il Tiro Salvezza, o la metà se lo riesce.
 
 **Azioni Aggiuntive**
 
@@ -7026,9 +7026,9 @@ Un lich che dimentichi o non riesca a mantenere il suo corpo con le anime sacrif
 
 **Azioni*Tocco Paralizzante.** Attacco con incantesimo in mischia*: +14 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 10 (3d6) danni da freddo. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 32 o restare paralizzato per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
+*Colpisce:* 10 (3d6) danni da freddo. Il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 32 o restare paralizzato per 1 minuto. Il bersaglio può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
-**Reazione: *Incantesimi rapidi*** il lich risponde ad un attacco subito lanciando un incantesimo a sua scelta fino al 3 livello, come Reazione.
+**Reazione: *Incantesimi rapidi*** il lich risponde a un attacco subito lanciando un incantesimo a sua scelta fino al 3 livello, come Reazione.
 
 **Azioni Aggiuntive**
 
@@ -7036,7 +7036,7 @@ Il lich può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. Pu�
 
 ***Distruggere Vita (Costa 3 Azioni).*** Ogni creatura ad eccezione dei non morti entro 6 metri dal lich deve effettuare un Tiro Salvezza su Tempra DC 31 contro questa magia, subendo 21 (6d6) danni da Vuoto se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Le creature diventano Affaticate.
 
-***Sguardo Spaventoso (Costa 2 Azioni).*** Il lich fissa il suo sguardo su di una creatura visibile entro 3 metri da esso. Il bersaglio deve riuscire un Tiro Salvezza di Volontà DC 31 contro questa magia o restare spaventato per 1 minuto. Il bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo. Se il Tiro Salvezza del bersaglio è riuscito o l'effetto per lui ha termine, il bersaglio è immune allo sguardo del lich per le successive 24 ore.
+***Sguardo Spaventoso (Costa 2 Azioni).*** Il lich fissa il suo sguardo su di una creatura visibile entro 3 metri da esso. Il bersaglio deve riuscire un Tiro Salvezza su Volontà DC 31 contro questa magia o restare spaventato per 1 minuto. Il bersaglio spaventato può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso di successo. Se il Tiro Salvezza del bersaglio è riuscito o l'effetto per lui ha termine, il bersaglio è immune allo sguardo del lich per le successive 24 ore.
 
 ***Tocco Paralizzante (Costa 2 Azioni).*** Il lich usa il suo Tocco Paralizzante.
 
@@ -7069,7 +7069,7 @@ Esistono anche rarissimi Lich buoni, ma come dice il detto sono più rari di un 
 
 **Azioni*Multiattacco.*** Il lucertoloide effettua due attacchi in mischia, ciascuno con un'arma diversa.
 
-***Giavellotto.** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 12m, un bersaglio.
+***Giavellotto.** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 12 m, un bersaglio.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
@@ -7132,7 +7132,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, 2 Pugnali, Spada, J) |
 | **Descrizione** |
 
-Il Maledetto immortale è una persona maledetta spesso da un Patrono o da un potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta od un obiettivo. Ogni tanto si ricorda chi era ed allora proseguono nella ricerca di chi li ha maledetti.
+Il Maledetto immortale è una persona maledetta spesso da un Patrono o da un potente incantatore con la maledizione della folle vita immortale. La maledizione rompe l'equilibro della persona e questa si ritrova a girovagare senza una meta o un obiettivo. Ogni tanto si ricorda chi era ed allora proseguono nella ricerca di chi li ha maledetti.
 Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando che l'avversario sia in grado di ucciderlo una volta per tutte.
 
 ### Cinghiale Mannaro
@@ -7146,7 +7146,7 @@ Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando
 - **Linguaggi**: Comune (non può parlare in forma di cinghiale)
 - **Sfida**: 4 (1100 PX)
 
-***Carica (Solo Forma di Cinghiale o Ibrida).*** Se il cinghiale mannaro si muove in linea retta di almeno 5 metri verso un bersaglio e poi lo colpisce con le zanne durante lo stesso round, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 15 o cadere prono. 1 Azione.
+***Carica (Solo Forma di Cinghiale o Ibrida).*** Se il cinghiale mannaro si muove in linea retta di almeno 5 metri verso un bersaglio e poi lo colpisce con le zanne durante lo stesso round, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 15 o cadere prono. 1 Azione.
 
 ***Implacabile (Ricarica dopo 1 ora).*** Se il cinghiale mannaro subisce 14 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
 
@@ -7160,7 +7160,7 @@ Con lo scopo di farsi definitivamente uccidere si getta in ogni scontro sperando
 
 ***Zanne (Soltanto in Forma di Cinghiale o Ibrida).** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 10 (2d6 + 3) danni taglienti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 15 o venire maledetto dalla licantropia del cinghiale mannaro.
+*Colpisce:* 10 (2d6 + 3) danni taglienti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza su Tempra DC 15 o venire maledetto dalla licantropia del cinghiale mannaro.
 
 | **Ecologia** |
 | --- |
@@ -7194,13 +7194,13 @@ Nella loro forma umanoide, i cinghiali mannari tendono a essere tozzi, con nasi 
 
 *Colpisce:* 7 (2d4 + 2) danni taglienti.
 
-***Lancia (Soltanto in Forma Umanoide).** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 6m, una creatura.
+***Lancia (Soltanto in Forma Umanoide).** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 6 m, una creatura.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti o 6 (1d8 + 2) danni perforanti se usata con due mani in un attacco di mischia.
 
 ***Morso (Soltanto in Forma di Lupo o Ibrida).** Attacco con arma da mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 6 (1d8 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 15 o venir maledetto dalla licantropia del lupo mannaro.
+*Colpisce:* 6 (1d8 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza su Tempra DC 15 o venir maledetto dalla licantropia del lupo mannaro.
 
 | **Ecologia** |
 | --- |
@@ -7240,7 +7240,7 @@ Nella forma umana i lupi mannari somigliano a persone normali, anche se alcuni t
 
 ***Morso (Soltanto in Forma di Orso o Ibrida).** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 15 (2d10 + 4) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 16 o venir maledetto dalla licantropia dell'orso mannaro.
+*Colpisce:* 15 (2d10 + 4) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza su Tempra DC 16 o venir maledetto dalla licantropia dell'orso mannaro.
 
 | **Ecologia** |
 | --- |
@@ -7275,13 +7275,13 @@ Nelle loro forme umanoidi, gli orsi mannari tendono a essere muscolosi e con spa
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Balestra a mano (Soltanto in Forma Umanoide o Ibrida).** Attacco con arma a Distanza*: +6 a colpire, gittata 9m, un bersaglio.
+***Balestra a mano (Soltanto in Forma Umanoide o Ibrida).** Attacco con arma a Distanza*: +6 a colpire, gittata 9 m, un bersaglio.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 ***Morso (Soltanto in Forma di Ratto o Ibrida).** Attacco con arma da mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 13 o venir maledetto dalla licantropia del ratto mannaro.
+*Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza su Tempra DC 13 o venir maledetto dalla licantropia del ratto mannaro.
 
 | **Ecologia** |
 | --- |
@@ -7320,17 +7320,17 @@ I ratti mannari naturali sono bassi, asciutti e muscolosi, con occhi attenti e v
 
 ***Morso (Soltanto in Forma di Tigre o Ibrida).** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 8 (1d10 + 3) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza di Tempra DC 16 o venir maledetto dalla licantropia della tigre mannara.
+*Colpisce:* 8 (1d10 + 3) danni perforanti. Se il bersaglio è un umanoide, deve riuscire un Tiro Salvezza su Tempra DC 16 o venir maledetto dalla licantropia della tigre mannara.
 
 ***Scimitarra (Soltanto in Forma Umanoide o Ibrida).** Attacco con arma da mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
 *Colpisce:* 6 (1d6 + 3) danni taglienti.
 
-***Arco Lungo (Soltanto in Forma Umanoide o Ibrida).** Attacco con arma a Distanza*: +6 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo (Soltanto in Forma Umanoide o Ibrida).** Attacco con arma a Distanza*: +6 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
-**Reazione: *Attacco d'opportunità***: la tigre mannara effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la tigre mannara effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
 
@@ -7366,7 +7366,7 @@ Le tigri mannare in forma umanoide hanno grandi occhi, nasi allungati, zigomi sp
 
 *Colpisce:* 7 (1d8 + 3) danni perforanti.
 
-***Spine della Coda.** Attacco con arma a Distanza*: +6 a colpire, gittata 30m, un bersaglio.
+***Spine della Coda.** Attacco con arma a Distanza*: +6 a colpire, gittata 30 m, un bersaglio.
 
 *Colpisce:* 7 (1d8 + 3) danni perforanti.
 
@@ -7401,7 +7401,7 @@ Anche se le manticore sono simili a delle creazioni magiche, sono da tempo annov
 
 ***Sensibilità alla Luce***. Mentre è alla luce del sole, il manto assassino ha -1d6 ai tiri per colpire, oltre che alle prove di Consapevolezza basate sulla vista.
 
-***Trasferimento di Danno.*** Mentre è appiccicato ad una creatura il manto assassino subisce solo la metà dei danni che gli sono inferti (arrotondare per difetto), e la creatura vittima del manto assassino subisce l'altra metà.
+***Trasferimento di Danno.*** Mentre è appiccicato a una creatura il manto assassino subisce solo la metà dei danni che gli sono inferti (arrotondare per difetto), e la creatura vittima del manto assassino subisce l'altra metà.
 
 **Azioni*Multiattacco.*** Il manto assassino effettua due attacchi: uno con il morso e uno con la coda.
 
@@ -7460,7 +7460,7 @@ Mentre è appiccicato al bersaglio, il mantoscuro non può attaccare nessun'altr
 
 Una creatura può staccare il mantoscuro con un'Azione e riuscendo un Tiro Salvezza Tempra con Forza DC 13. Durante il suo round, il mantoscuro può staccarsi dal bersaglio da solo usando 1 Azione di Movimento.
 
-***Aura di Oscurità (1/Giorno).*** Un'oscurità magica con 5 metri di raggio si estende dal mantoscuro, muovendosi con esso, e propagandosi oltre gli angoli. L'oscurità permane finché il mantoscuro mantiene la concentrazione, massimo 10 minuti (come se si stesse concentrando su di un incantesimo). La Scurovisione non può penetrare questa oscurità, né essa può essere rischiarata da alcuna luce naturale. Se qualsiasi parte dell'oscurità si sovrappone ad un'area di luce generata da un incantesimo di livello 2 o inferiore, l'incantesimo che sta creando la luce viene dissolto.
+***Aura di Oscurità (1/Giorno).*** Un'oscurità magica con 5 metri di raggio si estende dal mantoscuro, muovendosi con esso, e propagandosi oltre gli angoli. L'oscurità permane finché il mantoscuro mantiene la concentrazione, massimo 10 minuti (come se si stesse concentrando su di un incantesimo). La Scurovisione non può penetrare questa oscurità, né essa può essere rischiarata da alcuna luce naturale. Se qualsiasi parte dell'oscurità si sovrappone a un'area di luce generata da un incantesimo di livello 2 o inferiore, l'incantesimo che sta creando la luce viene dissolto.
 
 **Ecologia**
 
@@ -7471,13 +7471,13 @@ Organizzazione: Solitario, coppia o nidiata (3-12)
 | --- |
 | **Descrizione** |
 
-L'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 ed i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa ed il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.
+L'apertura tentacolare di un mantoscuro ha un'ampiezza di poco inferiore agli 1 m; quando è appeso alla volta di una caverna, mascherato da stalattite, la sua lunghezza varia tra i 60 e i 90 cm. Un esemplare tipico di mantoscuro pesa 20 kg. La testa e il corpo della creatura sono solitamente del colore del basalto o del granito scuro, ma i suoi tentacoli membranosi possono cambiare colore per adattarsi all'ambiente circostante.
 
 I mantoscuro non sono scalatori particolarmente abili, ma sono in grado di appendersi alla volta di una caverna come i pipistrelli, agganciati per mezzo degli uncini posti in fondo ai loro tentacoli, così che il loro corpo penzolante risulti quasi indistinguibile da una stalattite. Da questa postazione nascosta la creatura attende che la preda passi sotto di lei e, a questo punto, si stacca lanciandosi verso di essa, sbattendo contro il bersaglio e tentando di avvolgervi attorno i suoi membranosi tentacoli. Se il mantoscuro manca la preda, risale e si lancia nuovamente contro la preda, fino a quando quest'ultima non viene sconfitta o il mantoscuro è gravemente ferito (nel qual caso svolazza sul soffitto per nascondersi, sperando che la sua preda lo lasci perdere). La capacità innata di questa creatura di celare la zona circostante per mezzo dell'oscurità magica le offre un ulteriore vantaggio contro gli avversari che necessitano della luce per vedere.
 
 I mantoscuro preferiscono vivere e cacciare nelle caverne e nei cunicoli più vicini alla superficie, dal momento che questi offrono un più frequente passaggio di prede che questi mostri possono cacciare. Non si limitano però a queste caverne buie e talvolta possono essere incontrati in fortezze abbandonate o persino nelle fogne delle città affollate. Qualsiasi luogo dove abbondi il cibo e ci sia un soffitto a cui appendersi è un possibile covo per un mantoscuro.
 
-Mantoscuro e Manto Assassino per quanto simili non appartengono alla stessa specie ma leggende narrano di una origine magica comune dovuta, come spesso capita, alla volontà di due maghi di trasformarsi per primi in cappe... L'odio tra le due mostruosità è totale e prevarica ogni altro avversario presente.
+Mantoscuro e Manto Assassino per quanto simili non appartengono alla stessa specie ma leggende narrano di una origine magica comune dovuta, come spesso capita, alla volontà di due maghi di trasformarsi per primi in cappe… L'odio tra le due mostruosità è totale e prevarica ogni altro avversario presente.
 
 ### Medusa
 
@@ -7491,7 +7491,7 @@ Mantoscuro e Manto Assassino per quanto simili non appartengono alla stessa spec
 - **Linguaggi**: Comune
 - **Sfida**: 6 (2300 PX)
 
-***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri da una medusa di cui possa vedere gli occhi, la medusa, qualora non sia inabile e possa vedere a sua volta la creatura, può obbligarla ad effettuare un Tiro Salvezza di Tempra DC 19. Se la creatura fallisce in maniera critica il Tiro Salvezza, viene pietrificata all'istante, altrimenti è Rallentata 1/1 minuto. Successivi sguardi e Tiri Salvezza falliti portano ad aumentare le condizioni di Rallentato. Quando la creatura diventa Rallentata 3 si trasforma in pietra. La creatura può tornare di carne se viene lanciato l'incantesimo Pietra in Carne entro 1 mese dalla pietrificazione.
+***Sguardo Pietrificante.*** Se una creatura comincia il suo round entro 9 metri da una medusa di cui possa vedere gli occhi, la medusa, qualora non sia inabile e possa vedere a sua volta la creatura, può obbligarla ad effettuare un Tiro Salvezza su Tempra DC 19. Se la creatura fallisce in maniera critica il Tiro Salvezza, viene pietrificata all'istante, altrimenti è Rallentata 1/1 minuto. Successivi sguardi e Tiri Salvezza falliti portano ad aumentare le condizioni di Rallentato. Quando la creatura diventa Rallentata 3 si trasforma in pietra. La creatura può tornare di carne se viene lanciato l'incantesimo Pietra in Carne entro 1 mese dalla pietrificazione.
 
 Una creatura che combatte la Medusa cercando di evitare il suo sguardo ha -1d6 al Tiro per Colpire.
 
@@ -7507,11 +7507,11 @@ Se la medusa vede il suo riflesso su di una superficie riflettente entro 9 metri
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +8 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +8 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti più 7 (2d6) danni da veleno.
 
-**Reazione: *Attacco d'opportunità***: la medusa effettua un attacco con i capelli serpentini ad una creatura che attraversi o esca dalla sua portata di 1 metro. Questo attacco non consuma Azioni o Reazioni.
+**Reazione: *Attacco d'opportunità***: la medusa effettua un attacco con i capelli serpentini a una creatura che attraversi o esca dalla sua portata di 1 metro. Questo attacco non consuma Azioni o Reazioni.
 
 | **Ecologia** |
 | --- |
@@ -7521,7 +7521,7 @@ Organizzazione: Solitario
 | **Categoria Tesoro**: Pugnale, Arco Lungo Perfetto con 20 Frecce, F |
 | **Descrizione** |
 
-Le meduse sono creature simili agli umani con serpenti al posto dei capelli. Dalla distanza di 9 metri o più, una medusa può passare facilmente per una bella donna se indossa qualcosa che copre la sua chioma serpentina; quando indossa un abbigliamento che ne cela la testa e il volto può essere scambiata per un'umana anche a distanza ravvicinata. Le meduse usano bugie e travestimenti per celare il loro volto fino a che gli avversari non sono abbastanza vicini da usare il loro sguardo pietrificante, anche se gli piace giocare con la loro preda e possono usare delle frecce fiammeggianti per intrappolare i nemici a distanza. Alcune si divertono a creare intricate decorazioni con le loro vittime, usando la pietrificazione per dare un certo tocco ai loro nascondigli paludosi, ma molte meduse hanno cura di nascondere le prove dei loro scontri precedenti così che i loro nuovi nemici non si accorgano della loro pericolosa presenza.
+Le meduse sono creature simili agli umani con serpenti al posto dei capelli. Dalla distanza di 9 metri o più, una medusa può passare facilmente per una bella donna se indossa qualcosa che copre la sua chioma serpentina; quando indossa un abbigliamento che ne cela la testa e il volto può essere scambiata per un'umana anche a distanza ravvicinata. Le meduse usano bugie e travestimenti per celare il loro volto finché gli avversari non sono abbastanza vicini da usare il loro sguardo pietrificante, anche se piace loro giocare con la loro preda e possono usare frecce fiammeggianti per intrappolare i nemici a distanza. Alcune si divertono a creare intricate decorazioni con le loro vittime, usando la pietrificazione per dare un certo tocco ai loro nascondigli paludosi, ma molte meduse hanno cura di nascondere le prove dei loro scontri precedenti così che i loro nuovi nemici non si accorgano della loro pericolosa presenza.
 
 Avvezze a nascondersi, le meduse cittadine generalmente sono ladre, mentre quelle delle zone selvagge spesso finiscono per essere guardiaboschi. Le meduse delle leggende più note, tuttavia, sono quelle che prendono livelli da incantatore. Carismatiche ed intelligenti, le meduse urbane sono spesso coinvolte in gilde di ladri ed altri aspetti del mondo criminale. Le meduse possono formare alleanze con creature cieche o non morti intelligenti, entrambi immuni al loro sguardo pietrificante. Le meduse incantatrici fungono spesso da oracoli o profetesse, vivendo generalmente in remote zone di leggendaria potenza o dalla storia infausta. Queste meduse oracoli traggono grande diletto dal loro ruolo, e se ci si presenta con i giusti doni e adulazioni, i segreti che offrono possono essere veramente utili. Naturalmente, i nascondigli di queste potenti creature sono decorati con le statue di coloro che le hanno offese, come monito ad usare le dovute cautele durante gli incontri.
 
@@ -7546,14 +7546,14 @@ Tutte le meduse sono femmine. Raramente, una medusa decide di prendere un maschi
 
 ***Natura Elementale.*** Un mefito non ha bisogno di cibo, bevande o sonno.
 
-***Scoppio Mortale.*** Quando il mefito muore, esplode in uno scoppio di frammenti di ghiaccio. Ogni creatura entro 1 metro da esso deve effettuare un Tiro Salvezza di Riflessi DC 11 o subire 4 (1d8) danni taglienti in caso di fallimento, o la metà di questi danni in caso
+***Scoppio Mortale.*** Quando il mefito muore, esplode in uno scoppio di frammenti di ghiaccio. Ogni creatura entro 1 metro da esso deve effettuare un Tiro Salvezza su Riflessi DC 11 o subire 4 (1d8) danni taglienti in caso di fallimento, o la metà di questi danni in caso
 di successo.
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
 *Colpisce:* 3 (1d4 + 1) danni taglienti più 2 (1d4) danni da freddo.
 
-***Soffio Gelido (Ricarica 6).*** Il mefito esala un cono di 5 metri di aria fredda. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 11, subendo 5 (2d4) danni da freddo in caso di fallimento, o la metà di questi danni in caso di successo.
+***Soffio Gelido (Ricarica 6).*** Il mefito esala un cono di 5 metri di aria fredda. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 11, subendo 5 (2d4) danni da freddo in caso di fallimento, o la metà di questi danni in caso di successo.
 
 | **Ecologia** |
 | --- |
@@ -7586,7 +7586,7 @@ I mephit del ghiaccio comunemente si trovano sul Piano dell'Aria. Questi mephit 
 
 ***Natura Elementale.*** Un mefito non ha bisogno di cibo, bevande o sonno.
 
-***Scoppio Mortale.*** Quando il mefito muore, esplode in uno scoppio di lava. Ogni creatura entro 1 metro da esso deve effettuare un Tiro Salvezza di Riflessi DC 11 o subire 7 (2d6) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
+***Scoppio Mortale.*** Quando il mefito muore, esplode in uno scoppio di lava. Ogni creatura entro 1 metro da esso deve effettuare un Tiro Salvezza su Riflessi DC 11 o subire 7 (2d6) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
@@ -7623,13 +7623,13 @@ I mephit del magma comunemente si trovano sul Piano del Fuoco. Questi mephit son
 
 ***Natura Elementale.*** Un mefito non ha bisogno di cibo, bevande o sonno.
 
-***Scoppio Mortale.*** Quando il mefito muore, esplode in uno scoppio di polvere. Ogni creatura entro 1 metro da esso deve riuscire un Tiro Salvezza di Tempra DC 11 o restare accecata per 1 minuto. Una creatura accecata può ripetere il Tiro Salvezza durante ciascun suo round, terminando l'effetto su di sé in caso di successo.
+***Scoppio Mortale.*** Quando il mefito muore, esplode in uno scoppio di polvere. Ogni creatura entro 1 metro da esso deve riuscire un Tiro Salvezza su Tempra DC 11 o restare accecata per 1 minuto. Una creatura accecata può ripetere il Tiro Salvezza durante ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 **Azioni*Artigli.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
 *Colpisce:* 4 (1d4 + 2) danni taglienti.
 
-***Soffio Accecante (Ricarica 6).*** Il mefito esala un cono di 5 metri di polvere accecante. Ogni creatura nell'area deve riuscire un Tiro Salvezza di Riflessi DC 11 o restare accecata per 1 minuto. Una creatura accecata può ripetere il Tiro Salvezza durante ciascun suo round, terminando l'effetto su di sé in caso di successo.
+***Soffio Accecante (Ricarica 6).*** Il mefito esala un cono di 5 metri di polvere accecante. Ogni creatura nell'area deve riuscire un Tiro Salvezza su Riflessi DC 11 o restare accecata per 1 minuto. Una creatura accecata può ripetere il Tiro Salvezza durante ciascun suo round, terminando l'effetto su di sé in caso di successo.
 
 | **Ecologia** |
 | --- |
@@ -7665,7 +7665,7 @@ I mephit della polvere comunemente si trovano sul Piano dell'Aria. Questi mephit
 
 *Colpisce:* 2 (1d4) danni taglienti più 2 (1d4) danni da fuoco.
 
-***Soffio Vaporoso (Ricarica 6).*** Il mefito esala un cono di 5 metri di vapore caldo. Ogni creatura nell'area deve effettuare un Tiro Salvezza di Riflessi DC 10, subendo 4 (1d8) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
+***Soffio Vaporoso (Ricarica 6).*** Il mefito esala un cono di 5 metri di vapore caldo. Ogni creatura nell'area deve effettuare un Tiro Salvezza su Riflessi DC 10, subendo 4 (1d8) danni da fuoco in caso di fallimento, o la metà di questi danni in caso di successo.
 
 | **Ecologia** |
 | --- |
@@ -7692,7 +7692,7 @@ I mephit del vapore comunemente si trovano sul Piano del Fuoco. Questi mephit so
 
 ***Anfibio.*** La megera può respirare aria e acqua.
 
-***Aspetto Orripilante.*** Qualsiasi umanoide che inizi il suo round entro 9 metri dalla megera e ne può vedere la vera forma deve effettuare un Tiro Salvezza di Volontà DC 13. Se fallisce il Tiro Salvezza, la creatura resta spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se la megera è in linea di visuale, e terminando l'effetto se riesce il Tiro Salvezza. Se il Tiro Salvezza della creatura riesce o l'effetto ha termine su di essa, la creatura è immune all'Aspetto Orripilante per le successive 24 ore.
+***Aspetto Orripilante.*** Qualsiasi umanoide che inizi il suo round entro 9 metri dalla megera e ne può vedere la vera forma deve effettuare un Tiro Salvezza su Volontà DC 13. Se fallisce il Tiro Salvezza, la creatura resta spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se la megera è in linea di visuale, e terminando l'effetto se riesce il Tiro Salvezza. Se il Tiro Salvezza della creatura riesce o l'effetto ha termine su di essa, la creatura è immune all'Aspetto Orripilante per le successive 24 ore.
 
 A meno che il bersaglio non sia sorpreso o la rivelazione della vera forma della megera non sia improvvisa, il bersaglio può distogliere lo sguardo e evitare di effettuare il Tiro Salvezza iniziale. Fino all'inizio del suo prossimo round, una creatura che distolga lo sguardo ha -1d6 ai tiri di attacco contro la megera.
 
@@ -7704,7 +7704,7 @@ A meno che il bersaglio non sia sorpreso o la rivelazione della vera forma della
 
 I cambiamenti apportati da questo effetto non sono in grado di superare le ispezioni fisiche. Ad esempio, la megera potrebbe apparire come una creatura priva di artigli, ma una persona in contatto con le sue mani li avvertirebbe. Altrimenti, una creatura deve effettuare un'Azione per ispezionare visivamente l'illusione e riuscire una prova di Consapevolezza DC 16 per comprendere che la megera si è camuffata.
 
-***Occhiata Mortale.*** La megera prende a bersaglio una creatura spaventata visibile entro 9 metri da lei. Se il bersaglio può vedere la megera, deve riuscire un Tiro Salvezza di Volontà DC 13 contro questa magia o scendere a 0 Punti Ferita.
+***Occhiata Mortale.*** La megera prende a bersaglio una creatura spaventata visibile entro 9 metri da lei. Se il bersaglio può vedere la megera, deve riuscire un Tiro Salvezza su Volontà DC 13 contro questa magia o scendere a 0 Punti Ferita.
 
 | **Ecologia** |
 | --- |
@@ -7745,7 +7745,7 @@ A volontà: *Dardo arcano, Individuazione del Magico* 2/giorno ciascuno: *Raggio
 
 ***Forma Eterea.*** La megera entra magicamente nel Piano Etereo dal Piano Materiale, e viceversa.
 
-**Reazione: *Attacco d'opportunità***: la megera effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la megera effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Infestare Incubi (1/Giorno).*** Mentre si trova sul Piano Etereo, la megera entra magicamente in contatto con un umanoide addormentato che si trova sul Piano Materiale. L'incantesimo *Cerchio Magico* lanciato sul bersaglio previene questo contatto. Finché il contatto persiste, il bersaglio soffre di orribili visioni. Se queste visioni durano per almeno 1 ora, il bersaglio non ottiene benefici dal suo riposo e i suoi Punti Ferita massimi sono ridotti di 5 (1d10). Se questo effetto riduce i Punti Ferita massimi del bersaglio a 0, il bersaglio muore, e se il bersaglio era malvagio, la sua anima resta intrappolata nella *borsa delle anime* della megera. La riduzione dei Punti Ferita massimi del bersaglio rimane finché non viene rimossa dall'incantesimo *Ristorare Superiore* o simile magia.
 
@@ -7826,9 +7826,9 @@ Organizzazione: Solitario
 | --- |
 | **Descrizione** |
 
-Le Amebe Paglierina sono masse animate di protoplasma di colore simile ad un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.
+Le Amebe Paglierina sono masse animate di protoplasma di colore simile a un repellente amalgama di giallo, arancio e marrone. Quando a riposo, il loro corpo piatto e pulsante è alto circa 15 centimetri e si estende tutto intorno; in movimento, si raccolgono in una forma vagamente sferica e sembrano quasi spostarsi rotolando. I loro corpi malleabili permettono loro di attraversare fessure e buchi molto più piccoli dello spazio che occupano. Le creature che vivono sottoterra spesso sigillano tutte le aperture per difendersi dalle Ameba Paglierina.
 
-L'acido altamente specializzato dell'Ameba Paglierina dissolve solo la carne. Questa scoperta ha portato molti maestri avvelenatori ed alchimisti a cercarne esemplari per studiarli. Da questi esperimenti sono nate diverse armi specifiche ideate per distruggere i corpi. Si racconta dell'esistenza di un veleno ad azione lenta che distrugge ad una ad una le cellule delle creature viventi, il cui segreto è ben conservato dal suo creatore.
+L'acido altamente specializzato dell'Ameba Paglierina dissolve solo la carne. Questa scoperta ha portato molti maestri avvelenatori ed alchimisti a cercarne esemplari per studiarli. Da questi esperimenti sono nate diverse armi specifiche ideate per distruggere i corpi. Si racconta dell'esistenza di un veleno ad azione lenta che distrugge a una a una le cellule delle creature viventi, il cui segreto è ben conservato dal suo creatore.
 
 Un'antica e dimenticata raccolta di appunti descrive un singolare rituale funebre praticato in terre lontane. Anziché cremare i defunti, i corpi venivano racchiusi in sarcofagi di pietra insieme a un'Ameba Paglierina che ne dissolveva lentamente la carne. Successivamente la gelatina risultante veniva trasferita in un'urna accompagnata da una targa di bronzo recante il nome del defunto. Questo metodo preservava gli oggetti sepolti con il corpo, ridotto in breve tempo a uno scheletro lucente, e si credeva che l'essenza vitale del defunto continuasse ad abitare nella gelatina.
 
@@ -7864,7 +7864,7 @@ Il cubo può contenere solo una creatura Grande o un massimo di quattro creature
 
 *Colpisce:* 10 (3d6) danni da acido.
 
-***Sommergere.*** Il cubo si muove fino al massimo del suo movimento. Nel farlo, può entrare nello spazio di una creatura di taglia Grande o più piccola. Ogni volta che il cubo entra nello spazio di una creatura, la creatura deve effettuare un Tiro Salvezza di Riflessi DC 13.
+***Sommergere.*** Il cubo si muove fino al massimo del suo movimento. Nel farlo, può entrare nello spazio di una creatura di taglia Grande o più piccola. Ogni volta che il cubo entra nello spazio di una creatura, la creatura deve effettuare un Tiro Salvezza su Riflessi DC 13.
 
 Se il Tiro Salvezza riesce, la creatura può scegliere di essere spinta indietro o di lato di 1 metro. Una creatura che decida di non farsi spingere subisce le conseguenze di un Tiro Salvezza fallito.
 
@@ -8001,7 +8001,7 @@ Organizzazione: Solitario
 | --- |
 | **Descrizione** |
 
-Si ritiene che i mimic siano il risultato del tentativo di un alchimista di dar vita ad un oggetto inanimato attraverso l'applicazione di un reagente mistico, la cui formula è andata perduta. Nel corso degli anni, queste creature strane ma intelligenti hanno appreso la capacità di trasformarsi in simulacri degli oggetti manufatti, in particolare nei luoghi frequentati poco da un ristretto numero di creature, dove aumentano le loro probabilità di successo con un attacco alle loro vittime.
+Si ritiene che i mimic siano il risultato del tentativo di un alchimista di dar vita a un oggetto inanimato attraverso l'applicazione di un reagente mistico, la cui formula è andata perduta. Nel corso degli anni, queste creature strane ma intelligenti hanno appreso la capacità di trasformarsi in simulacri degli oggetti manufatti, in particolare nei luoghi frequentati poco da un ristretto numero di creature, dove aumentano le loro probabilità di successo con un attacco alle loro vittime.
 
 Anche se i mimic non sono intrinsecamente malvagi, alcuni saggi suggeriscono che attacchino gli uomini e le altre creature intelligenti più per passatempo che per sfamarsi. Il desiderio di ingannare gli altri è parte del loro essere e i loro attacchi a sorpresa rappresentano il culmine di questo desiderio.
 
@@ -8121,7 +8121,7 @@ livello 6 (1 slot): *Ferire*
 
 ***Occhiata Temibile.*** La mummia prende a bersaglio una creatura che possa vedere e si trovi entro 18 metri da lei. Se il bersaglio può vedere la mummia, deve riuscire un Tiro Salvezza su Volontà DC 28 contro questa magia o restare spaventato fino al termine del prossimo round della mummia. Se il bersaglio fallisce il Tiro Salvezza in maniera critica è anche paralizzato per la stessa durata. Un bersaglio che riesca il Tiro Salvezza è immune all'Occhiata Temibile di tutte le mummie (ma non delle mummie sovrane) per le successive 24 ore.
 
-**Reazione: *Attacco d'opportunità***: la mummia sovrana effettua un pugno putrefacente ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la mummia sovrana effettua un pugno putrefacente a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Azioni Aggiuntive**
 
@@ -8131,9 +8131,9 @@ La mummia sovrana può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seg
 
 ***Incanalare Energia Negativa (Costa 2 Azioni).*** La mummia sovrana può scatenare magicamente l'energia negativa. Le creature entro 18 metri dalla mummia sovrana, comprese quelle dietro barriere o angoli, non possono recuperare Punti Ferita fino al termine del prossimo round della mummia sovrana.
 
-***Parola Blasfema (Costa 2 Azioni).*** La mummia sovrana pronuncia una parola blasfema. Ciascuna creatura, esclusi i non morti, entro 3 metri dalla mummia sovrana e che possa udire questa frase magica deve riuscire un Tiro Salvezza di Tempra DC 28 o restare stordita fino al termine del prossimo round della mummia sovrana.
+***Parola Blasfema (Costa 2 Azioni).*** La mummia sovrana pronuncia una parola blasfema. Ciascuna creatura, esclusi i non morti, entro 3 metri dalla mummia sovrana e che possa udire questa frase magica deve riuscire un Tiro Salvezza su Tempra DC 28 o restare stordita fino al termine del prossimo round della mummia sovrana.
 
-***Polvere Accecante.*** Polvere e sabbia accecanti turbinano magicamente intorno alla mummia sovrana. Ogni creatura entro 1 metro dalla mummia sovrana deve riuscire un Tiro Salvezza di Tempra DC 28 o restare accecata fino al termine del prossimo round della creatura.
+***Polvere Accecante.*** Polvere e sabbia accecanti turbinano magicamente intorno alla mummia sovrana. Ogni creatura entro 1 metro dalla mummia sovrana deve riuscire un Tiro Salvezza su Tempra DC 28 o restare accecata fino al termine del prossimo round della creatura.
 
 ***Turbine di Sabbia (Costa 2 Azioni).*** La mummia sovrana può trasformarsi magicamente in un turbine di sabbia, muovendosi di massimo 18 metri, e tornando poi alla sua forma normale. Mentre è in forma di turbine, la mummia sovrana è immune a tutti i danni, e non può essere afferrata, pietrificata, gettata prona, intralciata o stordita. L'equipaggiamento indossato o trasportato dalla mummia sovrana rimane in suo possesso.
 
@@ -8183,13 +8183,13 @@ livello 6 (1 slot): *Visione del Vero*
 
 **Azioni*Morso.** Attacco con arma da mischia*: +11 a colpire, portata 3 m, una creatura.
 
-*Colpisce:* 8 (1d8 + 4) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 23, subendo 45 (10d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 8 (1d8 + 4) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 23, subendo 45 (10d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-***Sputare Veleno.** Attacco con arma a Distanza*: +11 a colpire, gittata 5m, una creatura.
+***Sputare Veleno.** Attacco con arma a Distanza*: +11 a colpire, gittata 5 m, una creatura.
 
 *Colpisce:* Il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 23, subendo 45 (10d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 | **Ecologia** |
 | --- |
@@ -8201,7 +8201,7 @@ Organizzazione: Solitario, coppia o nido (3-6)
 
 Sebbene abbiano un aspetto feroce, con scaglie brillanti, cappucci simili a quelli dei cobra e potenti corpi serpentini, i naga guardiani fungono da coscienziosi protettori di luoghi di eccezionale potere e sacralità. Spesso le loro scaglie sfoggiano disegni elaborati simili a quelli degli esotici serpenti della giungla. Un tipico naga guardiano raggiunge la lunghezza di 4,2 metri e un peso approssimativo di 175 kg.
 
-Mentre alcuni naga guardiani aderiscono a pratiche esotiche di divinità antiche o dimenticate, altri sono semplicemente attratti da siti dalla spiccata bellezza naturale, quali templi su imponenti cascate, pinnacoli naturali e cime di montagne, custodendoli con il massimo della reverenza e del senso del dovere. Spesso questi naga si uniscono a fedi ancora attive, servendo come protettori di santuari o antichi tesori. Una coppia di naga può stabilirsi nei pressi di un sito che ritengono meritevole di protezione, covandovi una nidiata e crescendovi la prole. Quando i giovani raggiungono l'età adulta, possono scegliere di partire per cercare la propria casa o rimanere a proteggere la zona sorvegliata dai loro genitori. A volte, un naga guardiano che custodisce delle rovine od un tempio è solo l'ultimo di una successione di sentinelle che si sono avvicendate nel corso dei secoli. Queste sentinelle spesso prendono lo stesso nome dei loro predecessori sembrando un unico individuo eccezionalmente longevo.
+Mentre alcuni naga guardiani aderiscono a pratiche esotiche di divinità antiche o dimenticate, altri sono semplicemente attratti da siti dalla spiccata bellezza naturale, quali templi su imponenti cascate, pinnacoli naturali e cime di montagne, custodendoli con il massimo della reverenza e del senso del dovere. Spesso questi naga si uniscono a fedi ancora attive, servendo come protettori di santuari o antichi tesori. Una coppia di naga può stabilirsi nei pressi di un sito che ritengono meritevole di protezione, covandovi una nidiata e crescendovi la prole. Quando i giovani raggiungono l'età adulta, possono scegliere di partire per cercare la propria casa o rimanere a proteggere la zona sorvegliata dai loro genitori. A volte, un naga guardiano che custodisce delle rovine o un tempio è solo l'ultimo di una successione di sentinelle che si sono avvicendate nel corso dei secoli. Queste sentinelle spesso prendono lo stesso nome dei loro predecessori sembrando un unico individuo eccezionalmente longevo.
 
 ### Naga Spirituale
 
@@ -8234,9 +8234,9 @@ livello 5 (2 slot): *Dominare Persone*
 
 **Azioni*Morso.** Attacco con arma da mischia*: +9 a colpire, portata 3 m, una creatura.
 
-*Colpisce:* 7 (1d8 + 4) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 20, subendo 31 (7d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 7 (1d8 + 4) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 20, subendo 31 (7d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: il naga effettua un attacco di sputo a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ### Nano Oscuro
 
@@ -8259,7 +8259,7 @@ livello 5 (2 slot): *Dominare Persone*
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti, o 11 (2d8 + 2) danni perforanti quando ingrandito.
 
-***Giavellotto.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m o gittata 12m, un bersaglio.
+***Giavellotto.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m o gittata 12 m, un bersaglio.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti o 9 (2d6 + 2) danni
 perforanti quando ingrandito.
@@ -8332,7 +8332,7 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 
 ***Falso Aspetto.*** Mentre il tappeto resta immobile, è indistinguibile da un normale tappeto.
 
-***Suscettibilità all'Anti Magia.*** Il tappeto è inabile mentre si trova nell'area di un *campo anti-magia*. Se è il bersaglio di *Dissolvi Magie*, il tappeto deve riuscire un Tiro Salvezza di Tempra contro la DC del Tiro Salvezza dell'incantatore o cadere privo di sensi per 1 minuto.
+***Suscettibilità all'Anti Magia.*** Il tappeto è inabile mentre si trova nell'area di un *campo anti-magia*. Se è il bersaglio di *Dissolvi Magie*, il tappeto deve riuscire un Tiro Salvezza su Tempra contro la DC del Tiro Salvezza dell'incantatore o cadere privo di sensi per 1 minuto.
 
 ***Trasferimento di Danno.*** Mentre afferra una creatura, il tappeto subisce solo la metà dei danni che gli sono inferti, e la creatura afferrata dal tappeto subisce l'altra metà.
 
@@ -8355,7 +8355,7 @@ Lontani parenti dei Nani, più cupi e deformi, i Nani Oscuro sono creature dal p
 
 *Colpisce:* 13 (2d8 + 4) danni contundenti.
 
-***Giavellotto.** Attacco con arma da mischia o a Distanza*: +6 a colpire, portata 1 m o gittata 12m, un bersaglio.
+***Giavellotto.** Attacco con arma da mischia o a Distanza*: +6 a colpire, portata 1 m o gittata 12 m, un bersaglio.
 
 *Colpisce:* 11 (2d6 + 4) danni perforanti.
 
@@ -8367,7 +8367,7 @@ Organizzazione: Solitario, coppia, gruppo (3-4) o famiglia (5-16)
 | **Categoria Tesoro**: Armatura di Pelle, Randello Pesante, 4 Giavellotti, J |
 | **Descrizione** |
 
-Nelle storie riguardanti gli ogre ci sono elementi orrendi: brutalità e ferocia, cannibalismo e tortura. Poi stupri, smembramenti, necrofilia, incesto, mutilazioni e altri esempi di crudeltà. Coloro che non hanno mai incontrato gli ogre ritengono queste storie un avvertimento. Chi è sopravvissuto ad un simile incontro sa che le storie sono niente in confronto alla realtà.
+Nelle storie riguardanti gli ogre ci sono elementi orrendi: brutalità e ferocia, cannibalismo e tortura. Poi stupri, smembramenti, necrofilia, incesto, mutilazioni e altri esempi di crudeltà. Coloro che non hanno mai incontrato gli ogre ritengono queste storie un avvertimento. Chi è sopravvissuto a un simile incontro sa che le storie sono niente in confronto alla realtà.
 
 Gli ogre godono della sofferenza altrui.
 
@@ -8445,7 +8445,7 @@ La malvagia ombra si muove lungo il confine tra il buio delle tenebre e la dura 
 
 **Azioni*Morso.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 1 danno perforante, e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 10 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Se il Tiro Salvezza viene fallito in maniera critica il bersaglio resta invece avvelenato per 5 (1d10) minuti e mentre è avvelenato in questo modo è anche privo di sensi.
+*Colpisce:* 1 danno perforante, e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 10 o restare avvelenato, -1 Forza e Destrezza, per 1 minuto. Se il Tiro Salvezza viene fallito in maniera critica il bersaglio resta invece avvelenato per 5 (1d10) minuti e mentre è avvelenato in questo modo è anche privo di sensi.
 
 ***Tramite del Padrone***: usando 3 Azioni l'omuncolo diventa il tramite del lancio di un incantesimo del padrone.
 
@@ -8481,7 +8481,7 @@ A volontà: *Invisibilità, Oscurità*
 
 *Colpisce:* 15 (2d10 + 4) danni taglienti, o 9 (1d10 + 4) danni taglienti in forma Piccola o Media.
 
-**Reazione: *Attacco d'opportunità***: l'Oni effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1/3 metri.
+**Reazione: *Attacco d'opportunità***: l'Oni effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1/3 metri.
 
 ***Mutare Forma.*** L'oni può trasformarsi magicamente in un umanoide Piccolo o Medio, in un gigante Grande, o tornare alla sua vera forma. A parte la taglia, le sue statistiche sono le stesse in ciascuna forma. L'unico equipaggiamento che viene trasformato è il falcione, che rimpicciolisce in modo da essere impugnato anche in forma umanoide. Se l'oni muore, ritorna alla sua vera forma e il falcione ritorna alla sua taglia originale.
 
@@ -8503,7 +8503,7 @@ A volontà: *Invisibilità, Oscurità*
 
 *Colpisce:* 6 (1d8 + 2) danni taglienti.
 
-***Giavellotto.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m o gittata 12m, un bersaglio.
+***Giavellotto.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m o gittata 12 m, un bersaglio.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
@@ -8539,7 +8539,7 @@ Un orchetto maschio adulto è alto 1,6 metri e pesa circa 60 kg. La caratteristi
 
 *Colpisce:* 9 (1d12 + 3) danni taglienti.
 
-***Giavellotto.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m o gittata 12m, un bersaglio.
+***Giavellotto.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m o gittata 12 m, un bersaglio.
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
@@ -8551,7 +8551,7 @@ Organizzazione: solitario, gruppo (2-4), squadra (11-20 più 2 sergenti di 3° l
 | **Categoria Tesoro**: Equipaggiamento da PNG (Armatura di Cuoio Borchiato, Falcione, 4 Giavellotti, K) |
 | **Descrizione** |
 
-La differenza principale fra gli orchi e gli umanoidi civilizzati, oltre alla loro forza bruta ed all'intelligenza inferiore, è il loro carattere. Come cultura, gli orchi sono violenti ed aggressivi, ed il forte domina il debole attraverso paura e brutalità. Prendono ciò che vogliono con la forza e non si fanno scrupoli a prendere interi villaggi come schiavi se ne hanno la possibilità. Non si curano delle comodità, ed i loro villaggi e campi tendono ad essere luoghi sporchi e precari, pieni di risse fra ubriachi, arene per i combattimenti ed altri divertimenti sadici. Privi della pazienza necessaria a coltivare e capaci di allevare solo gli animali più robusti ed autosufficienti, gli orchi ritengono più semplice prendere agli altri il frutto del loro lavoro. Sono arroganti e lesti ad infuriarsi quando sfidati, ma si preoccupano dell'onore solo finché farlo porta loro beneficio.
+La differenza principale fra gli orchi e gli umanoidi civilizzati, oltre alla loro forza bruta ed all'intelligenza inferiore, è il loro carattere. Come cultura, gli orchi sono violenti ed aggressivi, e il forte domina il debole attraverso paura e brutalità. Prendono ciò che vogliono con la forza e non si fanno scrupoli a prendere interi villaggi come schiavi se ne hanno la possibilità. Non si curano delle comodità, e i loro villaggi e campi tendono ad essere luoghi sporchi e precari, pieni di risse fra ubriachi, arene per i combattimenti ed altri divertimenti sadici. Privi della pazienza necessaria a coltivare e capaci di allevare solo gli animali più robusti ed autosufficienti, gli orchi ritengono più semplice prendere agli altri il frutto del loro lavoro. Sono arroganti e lesti ad infuriarsi quando sfidati, ma si preoccupano dell'onore solo finché farlo porta loro beneficio.
 
 Un orco maschio adulto è alto 2 metri e pesa circa 115 kg. Gli orchi e gli umani possono accoppiarsi, anche se di solito ciò avviene durante le razzie, e non come unione consensuale. Molte tribù orchesche allevano i mezzorchi di proposito, dato che sono ottimi strateghi e capitribù.
 
@@ -8682,7 +8682,7 @@ A volontà: *Mano Magica, Comprensione degli Scritti*
 | **Descrizione** |
 
 Le origini dell'Orsogufo saggio sono misteriose quanto quelle del suo parente non saggio ma gli appassionati di queste creature li fanno discendere direttamente da Nethergal come variante dell'Orsogufo originale.
-Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le avvincenti ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile ad un uomo riesce a comprendere tantissime lingue parlate e scritte. L'Orsogufo saggio è in grado di leggere qualsiasi lingua o codice se ha modo di studiarlo per 3 giorni.
+Solitamente l'Orsogufo saggio ama circondarsi di libri ed adora la compagnia di altri saggi ma non disdegna i racconti di avventurieri e le avvincenti ballate dei cantastorie. L'Orsogufo saggio ha un vero talento per le lingue e pur non potendo parlare in maniera comprensibile a un uomo riesce a comprendere tantissime lingue parlate e scritte. L'Orsogufo saggio è in grado di leggere qualsiasi lingua o codice se ha modo di studiarlo per 3 giorni.
 Solitamente più deboli e fragili del parente stretto sono comunque esseri temibili in combattimento.
 Di preferenza un Orsogufo saggio non attacca se non per difesa e cerca un approccio il più tattico e utile possibile. Un tratto caratteristico degli Orsogufo saggi è una sciarpa rossa portata intorno all'assente collo. Uccidere un Orsogufo saggio è un affronto ai Devoti e Seguaci di Nethergal, è anche capitato che il Patrono stesso togliesse la capacità di comunicare a coloro si sono macchiati di efferatezze con le sue creature preferite.
 
@@ -8709,7 +8709,7 @@ L'incantesimo Mano Magica è solitamente usato per sfogliare i tomi più delicat
 
 ***Morso.** Attacco con arma da mischia*: +7 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 12 (2d8 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 17 contro malattia o restare malato finché la malattia non viene curata. Ogni 24 ore successive, il bersaglio deve ripetere il Tiro Salvezza, riducendo il suo massimo di Punti Ferita di 5 (1d10) se lo fallisce. Se il Tiro Salvezza riesce, la malattia è passata. Il bersaglio muore se la malattia riduce i suoi Punti Ferita massimi a 0.
+*Colpisce:* 12 (2d8 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 17 contro malattia o restare malato finché la malattia non viene curata. Ogni 24 ore successive, il bersaglio deve ripetere il Tiro Salvezza, riducendo il suo massimo di Punti Ferita di 5 (1d10) se lo fallisce. Se il Tiro Salvezza riesce, la malattia è passata. Il bersaglio muore se la malattia riduce i suoi Punti Ferita massimi a 0.
 
 Questa riduzione dei Punti Ferita massimi del personaggio perdura finché la malattia non viene curata.
 
@@ -8717,7 +8717,7 @@ Questa riduzione dei Punti Ferita massimi del personaggio perdura finché la mal
 
 *Colpisce:* 7 (1d8 + 3) danni contundenti più 4 (1d8) danni perforanti. Se il bersaglio è di taglia Media o inferiore, è afferrato (DC 13 per fuggire). L'otyugh ha due tentacoli, ciascuno dei quali può afferrare un bersaglio diverso.
 
-***Schianto di Tentacolo.*** L'otyugh schianta le creature afferrate dai suoi tentacoli, l'una contro l'altra o sul pavimento. Ogni creatura deve riuscire un Tiro Salvezza di Tempra DC 17 o subire 10 (2d6 + 3) danni contundenti e restare stordita fino al termine del prossimo round dell'otyugh. Se il Tiro Salvezza riesce, il bersaglio subisce la metà dei danni contundenti e non è stordito.
+***Schianto di Tentacolo.*** L'otyugh schianta le creature afferrate dai suoi tentacoli, l'una contro l'altra o sul pavimento. Ogni creatura deve riuscire un Tiro Salvezza su Tempra DC 17 o subire 10 (2d6 + 3) danni contundenti e restare stordita fino al termine del prossimo round dell'otyugh. Se il Tiro Salvezza riesce, il bersaglio subisce la metà dei danni contundenti e non è stordito.
 
 ***Arrabbiato:*** l'otyugh emette un profumo che inebria i sensi. Tutte le creature nel raggio di 6 metri devono fare un Tiro Salvezza su Volontà DC 18 oppure agire in maniera casuale, come incantesimo Confusione , fino alla fine del prossimo round. Costa 2 Azioni.
 
@@ -8744,7 +8744,7 @@ Un otyugh mangiando gli escrementi o parte di una creatura può capire quale mal
 - **Punti Ferita**: \resizedown{235, **Difesa:** 29, **Iniziativa:** +3}
 - **Movimento**: 1 m, volo 10 metri, fluttuare
 - **Tiri Salvez.**: \resizedown{Tempra +14, Riflessi +13, Volontà +14}
-- **Sensi**: Scurovisione 36 m, visione del vero 18m
+- **Sensi**: Scurovisione 36 m, visione del vero 18 m
 - **Linguaggi**: telepatia 50 m
 - **Sfida**: 12 (8400 PX)
 
@@ -8790,9 +8790,9 @@ I Panoptikhan sono aberrazioni xenofobe, palle di dura carne volante dotate di u
 
 Poco si sa dell'origine dei Panoptikhan, si pensa che siano un esperimento evoluzionario di Calicante, nel tentativo di creare una razza senziente e dominante.
 
-Purtroppo l'arroganza, la superbia, il desiderio di essere al centro dell'attenzione hanno fatto naufragare questi tentativi di società ed i Panoptikhan si sono dispersi nel sottosuolo.
+Purtroppo l'arroganza, la superbia, il desiderio di essere al centro dell'attenzione hanno fatto naufragare questi tentativi di società e i Panoptikhan si sono dispersi nel sottosuolo.
 
-I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultano anche creature che hanno più che raddoppiato questo limite. I Panoptikhan aumentano di taglia con l'età e così il numero di occhi. Le statistiche qui riportate sono riferite ad un esemplare di età adulta di circa 300 anni.
+I Panoptikhan hanno una lunghissima vita, nell'ordine dei mille anni ma risultano anche creature che hanno più che raddoppiato questo limite. I Panoptikhan aumentano di taglia con l'età e così il numero di occhi. Le statistiche qui riportate sono riferite a un esemplare di età adulta di circa 300 anni.
 
 ### Pegaso
 
@@ -8820,7 +8820,7 @@ Organizzazione: Solitario, coppia o branco (6-10)
 
 Il pegaso è un magnifico cavallo alato che a volte serve la causa del bene. Seppur molto apprezzati come cavalcature volanti, i pegasi sono creature timide che difficilmente stringono amicizie. Un tipico pegaso è alto 1,8 metri al garrese, pesa 750 kg ed ha un'apertura alare di 6 metri. La maggior parte dei pegasi è bianca, ma a volte alcuni esemplari hanno colori diversi.
 
-Il pegaso, nonostante le apparenze, è intelligente quanto un umano. Chi cerca di addestrarne uno a fare da cavalcatura, scoprirà che il pegaso è ricalcitrante e perfino violento. Un pegaso non può parlare, ma capisce il Comune e preferisce la compagnia di creature buone. Il metodo corretto per convincere un pegaso a fare da cavalcatura è farselo amico con Diplomazia, favori e buone azioni. Un pegaso ha di norma atteggiamento indifferente verso le creature buone, maldisposto verso quelle neutrali ed ostile verso quelle malvagie. Prima che possa servire come cavalcatura, un pegaso deve essere reso amichevole tramite una prova di Diplomazia o in altro modo. Cavalcare un pegaso richiede una sella esotica o Cavalcare a pelo, dato che una sella normale interferisce con le sue ali. Un pegaso può combattere portando un cavaliere, ma il cavaliere non può attaccare a sua volta se non supera una prova di Cavalcare. I pegasi addestrati non temono il combattimento ed il cavaliere non deve effettuare una prova di Cavalcare per controllarlo.
+Il pegaso, nonostante le apparenze, è intelligente quanto un umano. Chi cerca di addestrarne uno a fare da cavalcatura, scoprirà che il pegaso è ricalcitrante e perfino violento. Un pegaso non può parlare, ma capisce il Comune e preferisce la compagnia di creature buone. Il metodo corretto per convincere un pegaso a fare da cavalcatura è farselo amico con Diplomazia, favori e buone azioni. Un pegaso ha di norma atteggiamento indifferente verso le creature buone, maldisposto verso quelle neutrali ed ostile verso quelle malvagie. Prima che possa servire come cavalcatura, un pegaso deve essere reso amichevole tramite una prova di Diplomazia o in altro modo. Cavalcare un pegaso richiede una sella esotica o Cavalcare a pelo, dato che una sella normale interferisce con le sue ali. Un pegaso può combattere portando un cavaliere, ma il cavaliere non può attaccare a sua volta se non supera una prova di Cavalcare. I pegasi addestrati non temono il combattimento e il cavaliere non deve effettuare una prova di Cavalcare per controllarlo.
 
 I pegasi depongono uova che sul mercato valgono 1000 mo l'una, mentre i piccoli arrivano alle 2000 mo a testa. Essendo creature intelligenti e buone, vendere uova e piccoli è essenzialmente schiavismo: nelle società buone chi lo fa è disprezzato o punito dalla legge.
 
@@ -8859,7 +8859,7 @@ Pegasi ed Unicorni sono stati salvati dalla furia di Calicante verso i *cavalli*
 
 *Colpisce:* 10 (2d6 + 3) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: il persecutore invisibile effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il persecutore invisibile effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Arrabbiato:*** il Persecutore Invisibile rompe il patto e torna nel piano elementale dell'aria.
 
@@ -8901,7 +8901,7 @@ A causa delle continue evocazioni, molti cacciatori invisibili avversano gli abi
 
 ***Pungiglione.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 4 (1d4 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 11 o essere Confuso per 1 round. Se il Tiro Salvezza fallisce criticamente la creatura cade addormentata finché non risvegliata.
+*Colpisce:* 4 (1d4 + 2) danni perforanti e il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 11 o essere Confuso per 1 round. Se il Tiro Salvezza fallisce criticamente la creatura cade addormentata finché non risvegliata.
 
 | **Ecologia** |
 | --- |
@@ -8944,7 +8944,7 @@ A volontà: *Camuffare Sé Stesso, Illusione Minore, Individuazione dei Pensieri
 
 *Colpisce:* 9 (2d6 + 2) danni taglienti, e se il bersaglio è una creatura rimane maledetto. La maledizione magica ha effetto ogni qualvolta il bersaglio riposa, riempiendo i pensieri del bersaglio di immagini e sogni orribili. Il bersaglio maledetto non riceve beneficio dall'aver terminato un riposo. La maledizione perdura finché non viene rimossa dall'incantesimo *Rimuovi Maledizione* o simile magia.
 
-**Reazione: *Attacco d'opportunità***: il Rakshasa effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Rakshasa effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Ecologia**
 
@@ -8980,7 +8980,7 @@ Un rakshasa è alto 1,8 metri e pesa 90 kg.
 
 ***Natura Non Morta.*** Il Razziamorti non ha bisogno di aria, cibo, bevande o sonno.
 
-***Forma Immutabile.*** Come costrutto non può essere influenzato da magie od effetti che ne cambino la forma.
+***Forma Immutabile.*** Come costrutto non può essere influenzato da magie o effetti che ne cambino la forma.
 
 ***Contenitore.*** Il Razziamorti ha un comparto apribile con uno sportello sul dorso metallico che può contenere fino a 100kg di oggetti, grandi fino a taglia piccola.
 
@@ -9009,7 +9009,7 @@ Organizzazione: 1-2 Razziamorti, 1d4+1 guardiani
 I Razziamorti sono dei particolari non morti costruiti da pezzi di vario cadavere e pezzi di ferro perché assomiglino a delle specie di grossi granchi corazzati.
 Il dorso, completamente metallico, funge da contenitore per i tesori che il Razziamorti trova, le chele, in numero variabile tra le 6 ed 8 sono lunghe poco più di un metro ed hanno la caratteristica di lasciare ognuna una impronta diversa essendo assemblate da pezzi di metallo e corpi diversi.
 
-Il grosso occhio centrale, forse una volta appartenuto ad un umanoide permette al controllore e costruttore del Razziamorti di vedere e comandarlo. Lo scopo di un Razziamorti è esplorare, solitamente un sistema di caverne o percorsi, alla ricerca dei resti di passati razziatori e avventurieri per carpirne gli oggetti magici e tesori.
+Il grosso occhio centrale, forse una volta appartenuto a un umanoide permette al controllore e costruttore del Razziamorti di vedere e comandarlo. Lo scopo di un Razziamorti è esplorare, solitamente un sistema di caverne o percorsi, alla ricerca dei resti di passati razziatori e avventurieri per carpirne gli oggetti magici e tesori.
 
 Solitamente un Razziamorto è sempre accompagnato da diversi guardiani (altre creature al comando del controllore) che lo aiutano nel *sistemare* eventuali *resistenze* ancora attive.
 
@@ -9069,7 +9069,7 @@ Intelligenti nonostante l'apparenza, i remorhaz capiscono il linguaggio dei Giga
 
 ***Antenne.*** Il rugginofago corrode gli oggetti di metallo ferroso non magici che può vedere e si trovano entro 1 metro. Se l'oggetto non è indossato o trasportato, il contatto col rugginofago ne distrugge un cubo di 30 centimetri di spigolo. Se l'oggetto è indossato o trasportato da una creatura, la creatura può effettuare un Tiro Salvezza su Riflessi DC 13 per evitare il contatto con il rugginofago.
 
-Se l'oggetto con cui entra in contatto è un'armatura o scudo di metallo indossati o trasportati, questi subiscono una penalità permanente e cumulativa di -2 alla Difesa che forniscono. Le armature ridotte a Difesa 0 o gli scudi che scendono ad un bonus di +0 sono distrutti. Se l'oggetto con cui entra in contatto è un'arma di metallo impugnata da qualcuno, la arrugginisce come descritto nel tratto Arrugginire Metallo.
+Se l'oggetto con cui entra in contatto è un'armatura o scudo di metallo indossati o trasportati, questi subiscono una penalità permanente e cumulativa di -2 alla Difesa che forniscono. Le armature ridotte a Difesa 0 o gli scudi che scendono a un bonus di +0 sono distrutti. Se l'oggetto con cui entra in contatto è un'arma di metallo impugnata da qualcuno, la arrugginisce come descritto nel tratto Arrugginire Metallo.
 
 **Ecologia**
 
@@ -9112,7 +9112,7 @@ Fortunatamente, è spesso possibile sfuggire alle attenzioni di un rugginofago l
 
 *Colpisce:* 3 (1d4 + 1) danni taglienti.
 
-***Lancia.** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 6m, un bersaglio.
+***Lancia.** Attacco con arma da mischia o a Distanza*: +4 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti, o 5 (1d8 + 1) danni perforanti se usata con due mani per effettuare un attacco da mischia.
 
@@ -9157,11 +9157,11 @@ I sahuagin sono soggetti a mutazioni genetiche e quando nasce un mutante assurge
 
 *Colpisce:* 11 (2d6 + 4) danni contundenti più 7 (2d6) danni da fuoco, e il bersaglio è afferrato (DC 14 per fuggire). Fino al termine dell'afferrare la salamandra può colpire automaticamente il bersaglio con la coda e non può effettuare attacchi di coda contro altri bersagli.
 
-***Lancia.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m, gittata 6m, un bersaglio.
+***Lancia.** Attacco con arma da mischia o a Distanza*: +5 a colpire, portata 1 m, gittata 6 m, un bersaglio.
 
 *Colpisce:* 11 (2d6 + 4) danni perforanti, o 13 (2d8 +4) danni perforanti se usata con due mani per effettuare un attacco da mischia, più 3 (1d6) danni da fuoco.
 
-**Reazione: *Attacco d'opportunità***: la salamandra effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la salamandra effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Arrabbiato:*** la Salamandra concentra le sue fiamme in un attacco a distanza. Una creatura entro 9 metri deve effettuare un Tiro Salvezza su Riflessi DC 18 per dimezzare il danno. La creatura viene colpita da un globo di fiamme che causa 4d6 di danno da fuoco. Costa 2 Azioni.
 
@@ -9203,7 +9203,7 @@ Abitando zone così estreme, le Salamandre posseggono solo tesori che resistono 
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
-***Arco Corto.** Attacco con arma a Distanza*: +3 a colpire, gittata 24m, un bersaglio.
+***Arco Corto.** Attacco con arma a Distanza*: +3 a colpire, gittata 24 m, un bersaglio.
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
@@ -9243,7 +9243,7 @@ I bambini nati da questi incontri sono sempre satiri di sangue puro e vengono ge
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Arco Corto.** Attacco con arma a Distanza*: +4 a colpire, gittata 24m, un bersaglio. *Colpisce:* 5 (1d6 + 2) danni perforanti.
+***Arco Corto.** Attacco con arma a Distanza*: +4 a colpire, gittata 24 m, un bersaglio. *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
 | **Ecologia** |
 | --- |
@@ -9315,7 +9315,7 @@ Gli scheletri sono ossa di morti animate, portate alla non vita da magie sacrile
 
 *Colpisce:* 7 (1d6 + 3) danni perforanti più 7 (2d6) danni da fuoco.
 
-***Soffio Infuocato (Ricarica 5-6).*** Il segugio esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 14, e subire 21 (6d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Infuocato (Ricarica 5-6).*** Il segugio esala fuoco in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 14, e subire 21 (6d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Androsfinge
 
@@ -9366,7 +9366,7 @@ livello 6 (1 slot): *Banchetto degli Eroi*
 
 **Terzo Ruggito.** Ogni creatura effettua un Tiro Salvezza su Tempra DC 30. Chi fallisce il Tiro Salvezza subisce 44 (8d10) danni da suono ed è gettato prono. Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni e non viene gettata prona.
 
-**Reazione: *Attacco d'opportunità***: la sfinge nera effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la sfinge nera effettua un attacco con Artiglio a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Azioni Aggiuntive**
 
@@ -9378,7 +9378,7 @@ La sfinge può effettuare 3 Azioni aggiuntive, scelte tra le opzioni seguenti. P
 
 **Teletrasporto (Costa 2 Azioni).** La sfinge si teletrasporta magicamente, insieme a tutto l'equipaggiamento che sta indossando o trasportando, in uno spazio non occupato che possa vedere, fino a 36 metri di distanza.
 
-***Arrabbiato:*** la Sfinge pone un indovinello. La creatura deve rispondere, usando tutte le sue azioni ed una risposta a round, entro 6 round, se sbaglia o non risponde deve effettuare un Tiro Salvezza su Volontà a DC 31 oppure rimanere paralizzata. Ogni round può tentare di nuovo il Tiro Salvezza nel tentativo di dare una risposta. Costa 1 Azione.
+***Arrabbiato:*** la Sfinge pone un indovinello. La creatura deve rispondere, usando tutte le sue azioni e una risposta a round, entro 6 round, se sbaglia o non risponde deve effettuare un Tiro Salvezza su Volontà a DC 31 oppure rimanere paralizzata. Ogni round può tentare di nuovo il Tiro Salvezza nel tentativo di dare una risposta. Costa 1 Azione.
 
 | **Ecologia** |
 | --- |
@@ -9430,7 +9430,7 @@ livello 5 (2 slot): *Conoscenza delle Leggende*
 
 *Colpisce:* 13 (2d8 + 4) danni taglienti, 1 danno da Sanguinamento.
 
-**Reazione: *Attacco d'opportunità***: la sfinge nera effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la sfinge nera effettua un attacco con Artiglio a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Azioni Aggiuntive**
 
@@ -9492,7 +9492,7 @@ Organizzazione: Solitario, coppia o nido (2-4)
 | **Categoria Tesoro**: Accidentale |
 | **Descrizione** |
 
-I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi sono una creatura molto particolare. Assomiglia a prima vista ad un coccodrillo, lungo circa 5 metri di cui 4 di coda ma ha 8 zampe ed il muso corto e appiattito. La coda estremamente robusta finisce con una specie di uncino che il Sibilante usa per colpire, uccidere ed afferrare i nemici quasi fosse una zampa aggiuntiva.
+I Sibilanti, chiamati così per via del rumore che fa la loro coda agitandosi sono una creatura molto particolare. Assomiglia a prima vista a un coccodrillo, lungo circa 5 metri di cui 4 di coda ma ha 8 zampe e il muso corto e appiattito. La coda estremamente robusta finisce con una specie di uncino che il Sibilante usa per colpire, uccidere ed afferrare i nemici quasi fosse una zampa aggiuntiva.
 
 Di colore grigio scuro, marrone, preferiscono nascondersi nell'oscurità ed attaccare quando affamati o per difendere il loro territorio. Cercano di tenere le distanze in combattimento e se gravemente feriti scappano arrampicandosi sulle pareti.
 
@@ -9549,11 +9549,11 @@ portata 1 m, un bersaglio.
 
 ***Arco Corto.** Attacco con arma a Distanza*: +5 a colpire, gittata 12 m, un bersaglio.
 
-*Colpisce:* 1 danno perforante. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 10 o restare avvelenata, -1 Forza e Destrezza, per 1 minuto. Se il risultato di questo Tiro Salvezza è 5 o meno, il bersaglio cade privo di sensi per la stessa durata, o finché subisce danni o un'altra creatura usa un'Azione per risvegliarlo.
+*Colpisce:* 1 danno perforante. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 10 o restare avvelenata, -1 Forza e Destrezza, per 1 minuto. Se il risultato di questo Tiro Salvezza è 5 o meno, il bersaglio cade privo di sensi per la stessa durata, o finché subisce danni o un'altra creatura usa un'Azione per risvegliarlo.
 
 ***Invisibilità.*** Lo spiritello resta invisibile finché non attacca o termina la sua concentrazione. Qualsiasi cosa che lo spiritello stia trasportando o indossando resta invisibile finché rimane in contatto con lo spiritello.
 
-***Vista del Cuore.*** Lo spiritello entra in contatto con una creatura e ne apprende l'attuale stato emotivo. Se il bersaglio fallisce un Tiro Salvezza di Tempra DC 10, lo spiritello apprende anche i Tratti della creatura. Celestiali, immondi e non morti falliscono automaticamente questo Tiro Salvezza.
+***Vista del Cuore.*** Lo spiritello entra in contatto con una creatura e ne apprende l'attuale stato emotivo. Se il bersaglio fallisce un Tiro Salvezza su Tempra DC 10, lo spiritello apprende anche i Tratti della creatura. Celestiali, immondi e non morti falliscono automaticamente questo Tiro Salvezza.
 
 | **Descrizione** |
 | --- |
@@ -9627,7 +9627,7 @@ Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di c
 
 ***Coda.** Attacco con arma da mischia*: +20 a colpire, portata 6 m, un bersaglio.
 
-*Colpisce:* 24 (4d6 + 10) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 40 o cadere prono.
+*Colpisce:* 24 (4d6 + 10) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 40 o cadere prono.
 
 ***Corna.** Attacco con arma da mischia*: +20 a colpire, portata 3 m, un bersaglio.
 
@@ -9641,7 +9641,7 @@ Di solito gli strige sono lunghi circa 30 centimetri, con un'apertura alare di c
 
 Se il Tarrasque subisce 60 o più danni in un singolo round da una creatura al suo interno, il Tarrasque deve riuscire un Tiro Salvezza su Tempra DC 30 al termine di quel round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal Tarrasque. Se il Tarrasque muore, una creatura inghiottita non è più intralciata da esso e può uscire dal cadavere utilizzando 2 Azioni e uscendo prona.
 
-***Presenza Spaventosa.*** Ogni creatura scelta dal Tarrasque, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza di Volontà DC 40 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se il Tarrasque è in linea di visuale, terminando l'effetto per sé, se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del Tarrasque per le successive 24 ore.
+***Presenza Spaventosa.*** Ogni creatura scelta dal Tarrasque, che si trovi entro 36 metri da esso e consapevole della sua presenza, deve riuscire un Tiro Salvezza su Volontà DC 40 o restare spaventata per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, con -1d6 se il Tarrasque è in linea di visuale, terminando l'effetto per sé, se lo riesce. Se il Tiro Salvezza della creatura ha successo o l'effetto ha termine per essa, la creatura è immune alla Presenza Spaventosa del Tarrasque per le successive 24 ore.
 
 **Azioni Aggiuntive**
 
@@ -9722,17 +9722,17 @@ Usati come custodi e torce rappresentano spesso una prima linea di difesa nei du
 *Colpisce:* 16 (2d8 + 7) danni taglienti.
 
 ***Coda.** Attacco con arma da mischia*: +13 a colpire, portata 5 metri, un bersaglio.
-*Colpisce:* 26 (3d12 + 7) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 31 o venire spinto di 3 metri lontano dalla testuggine dragona e cadere prono.
+*Colpisce:* 26 (3d12 + 7) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 31 o venire spinto di 3 metri lontano dalla testuggine dragona e cadere prono.
 
 ***Morso.** Attacco con arma da mischia*: +13 a colpire, portata 5 metri, un bersaglio.
 
 *Colpisce:* 26 (3d12 + 7) danni perforanti.
 
-***Salto e Schiaccio.** Attacco con arma da mischia*: +12 a colpire, portata 9 metri, fino a 6 creature in 6x6m di area. 2 Azioni.
+***Salto e Schiaccio.** Attacco con arma da mischia*: +12 a colpire, portata 9 metri, fino a 6 creature in 6x6 m di area. 2 Azioni.
 
 *Colpisce:* 40 (6d12 + 4) danni contundenti
 
-***Soffio di Vapore (Ricarica 5-6).*** La testuggine dragona esala un vapore caldo in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Tempra DC 31 e subire 52 (15d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Trovarsi sott'acqua non dà resistenza contro questo tipo di danno.
+***Soffio di Vapore (Ricarica 5-6).*** La testuggine dragona esala un vapore caldo in un cono di 18 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Tempra DC 31 e subire 52 (15d6) danni da fuoco se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Trovarsi sott'acqua non dà resistenza contro questo tipo di danno.
 
 **Ecologia**
 
@@ -9864,7 +9864,7 @@ L'appetito di un troll e le sue capacità rigenerative lo rendono un combattente
 
 Nonostante la loro ferocia, i troll sono straordinariamente teneri e gentili verso i loro piccoli. I troll femmina lavorano in gruppo, passando molto tempo ad insegnare ai cuccioli come cacciare e difendersi prima di mandarli a cercare un proprio territorio. Un troll maschio vive un'esistenza solitaria, incontrando brevemente le femmine solo per accoppiarsi. Tutti i troll trascorrono il loro tempo a cercare cibo, dato che devono consumarne enormi quantità ogni giorno o muoiono di fame. Per questo, la maggior parte dei troll si crea un proprio territorio di caccia che viene spesso difeso combattendo con i rivali. Simili scontri sono di solito non letali, ma i troll conoscono bene le proprie debolezze, sfruttandole per uccidere l'avversario nei periodi di magra.
 
-È universalmente conosciuto che i troll possono naturalmente mutare acquisendo per brevi periodi le caratteristiche più peculiari delle creature di cui si nutrono. Non avete idea di quanto può essere buffo un Pegasutroll...
+È universalmente conosciuto che i troll possono naturalmente mutare acquisendo per brevi periodi le caratteristiche più peculiari delle creature di cui si nutrono. Non avete idea di quanto può essere buffo un Pegasutroll…
 
 ### Uomo Acquatico
 
@@ -9879,7 +9879,7 @@ Nonostante la loro ferocia, i troll sono straordinariamente teneri e gentili ver
 
 ***Anfibio.*** L'uomo acquatico può respirare aria e acqua.
 
-**Azioni*Lancia.** Attacco con arma da mischia o a Distanza*: +3 a colpire, portata 1 m o gittata 6m, un bersaglio.
+**Azioni*Lancia.** Attacco con arma da mischia o a Distanza*: +3 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 3 (1d6) danni perforanti, o 4 (1d8) danni perforanti se usata con due mani per effettuare un attacco da mischia.
 
@@ -9914,11 +9914,11 @@ Fisicamente, gli Uomini Pesce somigliano ai loro antenati, con fronti espressive
 
 *Colpisce:* 16 (3d6 + 6) danni contundenti.
 
-***Sasso.** Attacco con arma a Distanza*: +10 a colpire, gittata 18m, un bersaglio.
+***Sasso.** Attacco con arma a Distanza*: +10 a colpire, gittata 18 m, un bersaglio.
 
 *Colpisce:* 28 (4d10 + 6) danni contundenti.
 
-**Reazione: *Attacco d'opportunità***: l'uomo albero effettua un attacco di schianto ad una creatura che attraversi o esca dalla sua portata di 2 metri.
+**Reazione: *Attacco d'opportunità***: l'uomo albero effettua un attacco di schianto a una creatura che attraversi o esca dalla sua portata di 2 metri.
 
 ***Animare Alberi (1/Giorno).*** L'uomo albero anima magicamente uno o due alberi visibili entro 18 metri da lui. Questi alberi hanno le stesse statistiche dell'Arborom, eccetto che hanno punteggio di Intelligenza e Carisma -3, non possono parlare, e hanno solo l'opzione di attacco Schianto. Un albero animato agisce come alleato dell'uomo albero. L'albero resta per 1 giorno o finché muore; finché l'uomo albero non muore o si trova più di 36 metri lontano dall'albero, o finché l'uomo albero non effettua una Reazione per ritrasformarlo in un albero inanimato. Poi l'albero prenderà radici, se possibile.
 
@@ -9932,7 +9932,7 @@ Organizzazione: Solitario o macchia (2-7)
 
 Gli Arborom sono guardiani delle foreste ed ambasciatori degli alberi. Antichi quanto le foreste stesse, si vedono come genitori e pastori piuttosto che giardinieri: sono lenti e metodici, ma terrificanti quando costretti a combattere per difendere il loro gregge. Anche se raramente cercano la compagnia delle razze dalla vita breve ed hanno un'innata sfiducia verso i cambiamenti, mostrano tolleranza verso chi desidera imparare dai loro lunghi, lenti monologhi, specialmente coloro nei cui occhi leggono il desiderio di proteggere le regioni selvagge. Contro coloro che minacciano le loro foreste, specialmente i boscaioli che raccolgono legna o coloro che vorrebbero disboscare una foresta per costruire una strada o un forte, la rabbia degli Arborom si scatena rapida e devastante. Sono in grado di demolire ciò che gli altri costruiscono: un tratto che li aiuta durante i loro eccessi di furia.
 
-Gli Arborom sono principalmente creature solitarie, ed un singolo individuo è spesso responsabile di un'intera foresta, ma a volte si raccolgono in gruppi detti boschetti per scambiarsi le ultime notizie e riprodursi.
+Gli Arborom sono principalmente creature solitarie, e un singolo individuo è spesso responsabile di un'intera foresta, ma a volte si raccolgono in gruppi detti boschetti per scambiarsi le ultime notizie e riprodursi.
 
 In tempi di grave pericolo, tutti i boschetti di una regione si uniscono per una riunione della durata di mesi detta concilio, ma simili eventi sono molto rari, e fra i concili passano anche millenni.
 
@@ -9958,7 +9958,7 @@ Gli Arborom si dice che siano creati per volere di Efrem.
 
 ***Illuminazione Incendiaria.*** Come Azione Immediata, l'uomo magma può accendere o spegnere le sue fiamme. Mentre la fiamma è accesa, l'uomo magma irradia luce intensa in un raggio di 3 metri e luce fioca per 6 metri.
 
-***Scoppio Mortale.*** Quando l'uomo magma muore, esplode in uno scoppio di fuoco e magma. Ogni creatura entro 3 metri da esso deve effettuare un Tiro Salvezza di Riflessi DC 12, subendo 7 (2d6) danni da fuoco se fallisce il Tiro Salvezza o la metà di questi danni se lo riesce. Gli oggetti infiammabili che non siano indossati o trasportati e che si trovino nell'area, prendono fuoco.
+***Scoppio Mortale.*** Quando l'uomo magma muore, esplode in uno scoppio di fuoco e magma. Ogni creatura entro 3 metri da esso deve effettuare un Tiro Salvezza su Riflessi DC 12, subendo 7 (2d6) danni da fuoco se fallisce il Tiro Salvezza o la metà di questi danni se lo riesce. Gli oggetti infiammabili che non siano indossati o trasportati e che si trovino nell'area, prendono fuoco.
 
 **Azioni*Tocco.** Attacco con arma da mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
@@ -10017,7 +10017,7 @@ A volontà: *Artificio Druidico*, *Passare Senza Tracce*
 
 *Colpisce:* 11 (2d6 + 4) danni contundenti.
 
-***Teletrasporto (1/Giorno).*** L'unicorno può teletrasportare magicamente sé stesso e fino a tre altre creature consenzienti visibili entro 1 metro da esso, insieme a tutto l'equipaggiamento che stanno indossando o trasportando, in un luogo familiare all'unicorno, che si trova ad un massimo di 1,5 chilometri di distanza.
+***Teletrasporto (1/Giorno).*** L'unicorno può teletrasportare magicamente sé stesso e fino a tre altre creature consenzienti visibili entro 1 metro da esso, insieme a tutto l'equipaggiamento che stanno indossando o trasportando, in un luogo familiare all'unicorno, che si trova a un massimo di 1,5 chilometri di distanza.
 
 ***Tocco Guaritore (3/Giorno).*** L'unicorno entra a contatto tramite il corno con un'altra creatura. Il bersaglio recupera magicamente 11 (2d8 + 2) Punti Ferita. Inoltre, il contatto rimuove tutte le malattie e neutralizza tutti i veleni che affliggono il bersaglio.
 
@@ -10096,13 +10096,13 @@ Mentre si trova a 0 Punti Ferita in questa forma, non può tornare alla sua form
 
 *Colpisce:* 7 (1d6 + 4) danni perforanti più 10 (3d6) danni da Vuoto. I Punti Ferita massimi del bersaglio sono ridotti di un ammontare pari al danno da Vuoto subito, e il vampiro recupera un numero di Punti Ferita pari a quell'ammontare, TS Tempra DC 23 per resistere alla perdita di Punti Ferita Massimi. Il bersaglio diviene Affaticato. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0. Un umanoide ucciso in questo modo e poi sepolto nel terreno si rianima la notte seguente come progenie vampirica sotto il controllo del vampiro.
 
-***Affascinare.*** Il vampiro prende a bersaglio un umanoide entro 9 metri che può vedere. Se il bersaglio può vedere il vampiro, deve effettuare un Tiro Salvezza di Volontà DC 25 contro questa magia o esserne affascinato. Il bersaglio affascinato considera il vampiro un amico fidato da ascoltare e proteggere. Sebbene il bersaglio non sia sotto il controllo del vampiro, prende le richieste e le azioni del vampiro nel modo più favorevole possibile, ed è un bersaglio consenziente dell'attacco con morso del vampiro.
+***Affascinare.*** Il vampiro prende a bersaglio un umanoide entro 9 metri che può vedere. Se il bersaglio può vedere il vampiro, deve effettuare un Tiro Salvezza su Volontà DC 25 contro questa magia o esserne affascinato. Il bersaglio affascinato considera il vampiro un amico fidato da ascoltare e proteggere. Sebbene il bersaglio non sia sotto il controllo del vampiro, prende le richieste e le azioni del vampiro nel modo più favorevole possibile, ed è un bersaglio consenziente dell'attacco con morso del vampiro.
 
 Ogni volta che il vampiro o i compagni del vampiro fanno qualcosa di nocivo al bersaglio, questi può ripetere il Tiro Salvezza, terminando l'effetto su di sé in caso di successo. Altrimenti, l'effetto persiste 24 ore o finché il vampiro non viene distrutto, si trova su di un piano di esistenza diverso dal bersaglio, o effettua una Reazione per terminare l'effetto.
 
 ***Figli della Notte (1/Giorno).*** Il vampiro richiama magicamente 2d4 sciami di pipistrelli o ratti, purché il sole non sia sorto. Mentre è all'esterno, il vampiro può richiamare invece 3d6 lupi. Le creature richiamate arrivano in 1d4 round, agendo da alleati del vampiro e obbedendo ai suoi comandi. Le bestie restano per 1 ora, finché il vampiro non muore, o finché non le congeda con un'Azione Immediata.
 
-**Reazione: *Attacco d'opportunità***: il vampiro effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il vampiro effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Azioni Aggiuntive**
 
@@ -10164,7 +10164,7 @@ I vampiri sono creature umanoidi non morte che si nutrono del sangue dei viventi
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti più 7 (2d6) danni da Vuoto. I Punti Ferita massimi del bersaglio sono ridotti di un ammontare pari al danno da Vuoto subito, e il vampiro recupera un numero di Punti Ferita pari a quell'ammontare, TS Tempra DC 16 per resistere alla perdita di Punti Ferita massimi. Il bersaglio muore se questo effetto riduce i suoi Punti Ferita massimi a 0. La creatura diventa Affaticata.
 
-**Reazione: *Attacco d'opportunità***: la progenie vampirica effettua un attacco ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: la progenie vampirica effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 | **Ecologia** |
 | --- |
@@ -10190,7 +10190,7 @@ Un Vampiro può decidere di creare da una vittima una progenie vampirica anzich�
 
 ***Colpisce.*** Entro 2d4 round i vermi (3d6 creature) della carne scavano nel tessuto dirigendosi verso il cuore. L'infestazione dei vermi causa 1 Punto Ferita di danno a round mentre scavano. Una volta arrivati al cuore ogni round il personaggio deve fare un Tiro Salvezza su Tempra DC 14, con penalità cumulativa di -1 per round. Una volta che il Tiro Salvezza fallisce il personaggio muore.
 
-***Debellare i Vermi della carne.*** L'unico modo è usare una fiamma viva (una torcia causa 1d6 di danno ad applicazione od un incantesimo tipo Onda rovente) sulla parte dove i vermi stanno scavando. Ogni applicazione di fuoco può eliminare 3d6 vermi. Una prova di Pronto Soccorso a DC 15 rimuove 1d4 parassiti ma causa 1d4 danni nell'estrazione. Passati i 2d4 round i vermi sono troppo in profondità ed è inutile applicare il fuoco, solo un incantesimo di Cura Malattie, o Guarigione, può debellare completamente l'infestazione.
+***Debellare i Vermi della carne.*** L'unico modo è usare una fiamma viva (una torcia causa 1d6 di danno ad applicazione o un incantesimo tipo Onda rovente) sulla parte dove i vermi stanno scavando. Ogni applicazione di fuoco può eliminare 3d6 vermi. Una prova di Pronto Soccorso a DC 15 rimuove 1d4 parassiti ma causa 1d4 danni nell'estrazione. Passati i 2d4 round i vermi sono troppo in profondità ed è inutile applicare il fuoco, solo un incantesimo di Cura Malattie, o Guarigione, può debellare completamente l'infestazione.
 
 | **Ecologia** |
 | --- |
@@ -10218,13 +10218,13 @@ I vermi della carne sono tra i più temuti parassiti dagli avventurieri. Si trov
 
 ***Morso.** Attacco con arma da mischia*: +13 a colpire, portata 3 m, un bersaglio.
 
-*Colpisce:* 22 (3d8 + 9) danni perforanti. Se il bersaglio è una creatura di taglia Grande, deve riuscire un Tiro Salvezza di Riflessi DC 28 o venire inghiottita dal verme. Mentre è inghiottita, la creatura è accecata e intralciata, ha copertura completa contro gli attacchi e altri effetti provenienti dall'esterno del verme, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del verme.
+*Colpisce:* 22 (3d8 + 9) danni perforanti. Se il bersaglio è una creatura di taglia Grande, deve riuscire un Tiro Salvezza su Riflessi DC 28 o venire inghiottita dal verme. Mentre è inghiottita, la creatura è accecata e intralciata, ha copertura completa contro gli attacchi e altri effetti provenienti dall'esterno del verme, e subisce 21 (6d6) danni da acido all'inizio di ciascun round del verme.
 
-Se il verme subisce 30 o più danni in un singolo round da una creatura al suo interno, il verme deve riuscire un Tiro Salvezza di Tempra DC 25 al termine del suo round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal verme. Se il verme muore, una creatura inghiottita non risulta più intralciata da esso e può fuggire dal cadavere usando 2 Azioni e uscendo prona.
+Se il verme subisce 30 o più danni in un singolo round da una creatura al suo interno, il verme deve riuscire un Tiro Salvezza su Tempra DC 25 al termine del suo round o vomitare tutte le creature inghiottite, che cadono prone in uno spazio entro 3 metri dal verme. Se il verme muore, una creatura inghiottita non risulta più intralciata da esso e può fuggire dal cadavere usando 2 Azioni e uscendo prona.
 
 ***Pungiglione.** Attacco con arma da mischia*: +13 a colpire, portata 3 m, una creatura.
 
-*Colpisce:* 19 (3d6 + 9) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 28, subendo 42 (12d6) danni da veleno o la metà di questi danni se lo riesce.
+*Colpisce:* 19 (3d6 + 9) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 28, subendo 42 (12d6) danni da veleno o la metà di questi danni se lo riesce.
 
 ***Avviluppare.** Attacco con arma da mischia*: +12 a colpire, portata 3 m, una creatura. Il verme purpureo si stringe attorno alla creatura. 2 Azioni
 
@@ -10264,7 +10264,7 @@ Un verme purpureo generalmente reclama una grande caverna sotterranea come sua t
 
 ***Tentacolo.** Attacco con arma da mischia*: +7 a colpire, portata 3 m, una creatura.
 
-*Colpisce:* 1 danno contundente. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 18 o rimanere paralizzato fino alla fine del round successivo.
+*Colpisce:* 1 danno contundente. Il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 18 o rimanere paralizzato fino alla fine del round successivo.
 
 | **Ecologia** |
 | --- |
@@ -10330,9 +10330,9 @@ Le vespe giganti sono insetti predatori aggressivi che costruiscono nidi di cart
 
 ***Pungiglione.** Attacco con arma da mischia*: +8 a colpire, portata 3 m, una creatura.
 
-*Colpisce:* 11 (2d6 + 4) danni perforanti. Il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 18, e subire 24 (7d6) danni da veleno se lo fallisce, o la metà di questi danni se lo riesce.
+*Colpisce:* 11 (2d6 + 4) danni perforanti. Il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 18, e subire 24 (7d6) danni da veleno se lo fallisce, o la metà di questi danni se lo riesce.
 
-**Reazione: *Attacco d'opportunità***: la viverna nera effettua un attacco con Artiglio ad una creatura che attraversi o esca dalla sua portata di 3 metri.
+**Reazione: *Attacco d'opportunità***: la viverna nera effettua un attacco con Artiglio a una creatura che attraversi o esca dalla sua portata di 3 metri.
 
 ***Arrabbiato:*** la Viverna punta la coda in direzione del nemico e genera un cono di 3 metri di veleno. È possibile eseguire un Tiro Salvezza su Riflessi DC 21 per dimezzare i 7d8 di danno da veleno.
 
@@ -10346,7 +10346,7 @@ Organizzazione: Solitario, coppia o stormo (3-6)
 
 Le viverne sono rettili brutali e violenti imparentati con i draghi. Sono sempre aggressive ed impazienti e preferiscono raggiungere i loro scopi utilizzando la forza. Per questa ragione, i draghi guardano alle viverne con superiorità, considerando questi loro lontani parenti come selvaggi primitivi privi di stile ed intelligenza.
 
-Nella maggior parte dei casi, questa generalizzazione è azzeccata. Anche se non certo di intelletto animale e capace di parola, la maggior parte delle viverne non si cura della diplomazia, preferendo combattere prima e discutere poi, solo se si trovano davanti ad un avversario che non possono sconfiggere o da cui non possono fuggire.
+Nella maggior parte dei casi, questa generalizzazione è azzeccata. Anche se non certo di intelletto animale e capace di parola, la maggior parte delle viverne non si cura della diplomazia, preferendo combattere prima e discutere poi, solo se si trovano davanti a un avversario che non possono sconfiggere o da cui non possono fuggire.
 
 Le viverne sono creature territoriali. Pur cacciando occasionalmente prede più grandi in gruppi più estesi, sono creature solitarie il cui territorio di caccia si estende dai 160 ai 320 km quadrati. È noto che le viverne combattono spesso fra loro fino alla morte per le contese su un territorio ricco di prede.
 
@@ -10377,7 +10377,7 @@ Una viverna è lunga circa 4,8 metri e la coda rappresenta da sola circa metà d
 
 ***Risucchiare Vita.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 5 (1d6 + 2) danni da Vuoto. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 14 o vedere i suoi Punti Ferita massimi ridotti di un ammontare pari al danno subito. Il bersaglio diviene Affaticato. Il bersaglio muore se l'effetto riduce i suoi Punti Ferita massimi a 0.
+*Colpisce:* 5 (1d6 + 2) danni da Vuoto. Il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 14 o vedere i suoi Punti Ferita massimi ridotti di un ammontare pari al danno subito. Il bersaglio diviene Affaticato. Il bersaglio muore se l'effetto riduce i suoi Punti Ferita massimi a 0.
 
 Un umanoide ucciso da questo attacco si rianima 24 ore più tardi come zombi sotto il controllo del wight, a meno che l'umanoide non venga prima riportato in vita o il corpo sia distrutto. Il wight non può controllare più di dodici zombi alla volta.
 
@@ -10385,7 +10385,7 @@ Un umanoide ucciso da questo attacco si rianima 24 ore più tardi come zombi sot
 
 *Colpisce:* 6 (1d8 + 2) danni taglienti o 7 (1d10 + 2) danni taglienti se usata con due mani.
 
-***Arco Lungo.** Attacco con arma a Distanza*: +5 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con arma a Distanza*: +5 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
@@ -10397,7 +10397,7 @@ Organizzazione: Solitario, coppia, gruppo (3-6) o branco (7-12)
 | **Categoria Tesoro**: Q |
 | **Descrizione** |
 
-I wight sono umanoidi risorti come non morti a causa della necromanzia, di una morte violenta o di una personalità estremamente malevola. In alcuni casi, un wight sorge quando uno spirito non morto si lega permanentemente ad un cadavere, spesso quello di un guerriero. Sono appena riconoscibili da chi li conosceva in vita: le loro carni sono corrotte dalla malvagità e dalla non morte, gli occhi ardono d'odio ed i denti divengono quelli di una bestia. In un certo senso, un wight è l'anello di congiunzione tra ghoul e spettri: un cadavere deforme che risucchia energia vitale col tocco.
+I wight sono umanoidi risorti come non morti a causa della necromanzia, di una morte violenta o di una personalità estremamente malevola. In alcuni casi, un wight sorge quando uno spirito non morto si lega permanentemente a un cadavere, spesso quello di un guerriero. Sono appena riconoscibili da chi li conosceva in vita: le loro carni sono corrotte dalla malvagità e dalla non morte, gli occhi ardono d'odio e i denti divengono quelli di una bestia. In un certo senso, un wight è l'anello di congiunzione tra ghoul e spettri: un cadavere deforme che risucchia energia vitale col tocco.
 
 Essendo non morti, i wight non hanno bisogno di respirare, così a volte si possono trovare sott'acqua, sebbene non siano nuotatori particolarmente abili a meno che non siano originati da creature nuotatrici quali elfi acquatici e marinidi. Sott'acqua i wight preferiscono le caverne dal soffitto basso dove le loro scarse capacità di nuoto non sono una limitazione.
 
@@ -10423,11 +10423,11 @@ Essendo non morti, i wight non hanno bisogno di respirare, così a volte si poss
 
 **Azioni*Risucchiare Vita.** Attacco con arma da mischia*: +7 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 21 (4d8 + 3) danni da Vuoto. Il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 16 o vedere i suoi Punti Ferita massimi ridotti di un ammontare pari al danno subito. Il bersaglio diviene Affaticato. Il bersaglio muore se l'effetto riduce i suoi Punti Ferita massimi a 0.
+*Colpisce:* 21 (4d8 + 3) danni da Vuoto. Il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 16 o vedere i suoi Punti Ferita massimi ridotti di un ammontare pari al danno subito. Il bersaglio diviene Affaticato. Il bersaglio muore se l'effetto riduce i suoi Punti Ferita massimi a 0.
 
 ***Creare Spettro.*** Il wraith prende a bersaglio un umanoide entro 3 metri da esso e che sia morto da non più di 1 minuto e per cause violente. Lo spirito del bersaglio si anima come spettro nello spazio del suo cadavere e nello spazio più vicino non occupato. Lo spettro è sotto il controllo del wraith. Il wraith non può tenere più di sette spettri alla volta sotto il suo controllo.
 
-**Reazione: *Attacco d'opportunità***: il Wraith effettua un attacco di Risucchiare Vita ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: il Wraith effettua un attacco di Risucchiare Vita a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 ***Arrabbiato:*** il Wraith canalizza le sue energie negative in una esplosione di Vuoto attorno a sé nel raggio di 6 metri. Tutte le creature devono effettuare un Tiro Salvezza su Tempra DC 16 o subiscono 3d6 di danno da Vuoto, se il Tiro Salvezza riesce sono Rallentate 1/3r.
 
@@ -10480,9 +10480,9 @@ Organizzazione: Solitario, coppia o gruppo (3-6)
 | **Categoria Tesoro**: solo metalli preziosi, gemme e gioielli e gemme magiche |
 | **Descrizione** |
 
-Strane creature larghe quanto alte, gli xorn hanno poco interesse verso i nativi del Piano Materiale, non fosse per le gemme ed i metalli preziosi che potrebbero avere con sé. Nascosti sotto la superficie del terreno per un tempo che ad un umano potrebbe sembrare lunghissimo, uno xorn può attendere mesi, perfino anni, per la preda ideale, per poi assalire chi porta con sé il suo cibo preferito, come una gemma particolare o un determinato tipo di argento. Gli avventurieri che si addentrano nelle regioni abitate dagli xorn portano spesso con sé piccole pepite di minerali o gemme e cristalli di scarso valore da utilizzare come tributo. Anche se il suo valore è solitamente direttamente proporzionale al suo sapore e all'appetibilità che esso può avere, la maggior parte degli xorn è piuttosto ingorda, e preferisce la quantità alla qualità.
+Strane creature larghe quanto alte, gli xorn hanno poco interesse verso i nativi del Piano Materiale, non fosse per le gemme e i metalli preziosi che potrebbero avere con sé. Nascosti sotto la superficie del terreno per un tempo che a un umano potrebbe sembrare lunghissimo, uno xorn può attendere mesi, perfino anni, per la preda ideale, per poi assalire chi porta con sé il suo cibo preferito, come una gemma particolare o un determinato tipo di argento. Gli avventurieri che si addentrano nelle regioni abitate dagli xorn portano spesso con sé piccole pepite di minerali o gemme e cristalli di scarso valore da utilizzare come tributo. Anche se il suo valore è solitamente direttamente proporzionale al suo sapore e all'appetibilità che esso può avere, la maggior parte degli xorn è piuttosto ingorda, e preferisce la quantità alla qualità.
 
-Il tesoro che uno xorn porta con sé o nasconde nella sua tana consiste in uno spuntino che ha conservato per il giorno successivo. Offrire un gioiello o un metallo preziosi particolarmente deliziosi (e costosi) ad uno xorn può cementare un'alleanza temporanea. Dato che gli xorn possono attraversare la roccia con facilità sono ottime guide nelle regioni sotterranee.
+Il tesoro che uno xorn porta con sé o nasconde nella sua tana consiste in uno spuntino che ha conservato per il giorno successivo. Offrire un gioiello o un metallo preziosi particolarmente deliziosi (e costosi) a uno xorn può cementare un'alleanza temporanea. Dato che gli xorn possono attraversare la roccia con facilità sono ottime guide nelle regioni sotterranee.
 
 Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono solitamente devoti a Efrem (anche se è raro, se non improbabile, che gli xorn abbiano Compagni Animali, dato che non possono seguirli nella roccia, e scelgono invece il dominio della Terra). Bardi e Devoti xorn non sono sconosciuti: i Bardi scelgono di solito Intrattenere (canto), e i Devoti hanno invariabilmente la Stirpe Elementale (terra).
 
@@ -10501,7 +10501,7 @@ Gli xorn non sono molto religiosi, ma quelli fra loro che trovano la fede sono s
 
 ***Natura Non Morta.*** Lo zombi non ha bisogno di aria, cibo, bevande o sonno.
 
-***Tempra dei Non Morti.*** Se il danno riduce lo zombi a 0 Punti Ferita, lo zombi deve effettuare un Tiro Salvezza di Tempra DC 5 + il danno subito, a meno che il danno non sia da Luce o un colpo critico. Se riesce, lo zombi scende invece a 1 punto ferita.
+***Tempra dei Non Morti.*** Se il danno riduce lo zombi a 0 Punti Ferita, lo zombi deve effettuare un Tiro Salvezza su Tempra DC 5 + il danno subito, a meno che il danno non sia da Luce o un colpo critico. Se riesce, lo zombi scende invece a 1 punto ferita.
 
 ***Lento come uno Zombi.*** Lo zombie esegue solo due Azioni a round.
 
@@ -10538,7 +10538,7 @@ Sebbene siano in grado di seguire gli ordini, gli zombi vengono spesso lasciati 
 
 ***Natura Non Morta.*** Lo zombi non ha bisogno di aria, cibo, bevande o sonno.
 
-***Tempra dei Non Morti.*** Se il danno riduce lo zombi a 0 Punti Ferita, lo zombi deve effettuare un Tiro Salvezza di Tempra DC 5 + il danno subito, a meno che il danno non sia da Luce o un colpo critico. Se riesce, lo zombi scende invece a 1 punto ferita.
+***Tempra dei Non Morti.*** Se il danno riduce lo zombi a 0 Punti Ferita, lo zombi deve effettuare un Tiro Salvezza su Tempra DC 5 + il danno subito, a meno che il danno non sia da Luce o un colpo critico. Se riesce, lo zombi scende invece a 1 punto ferita.
 
 **Azioni*Mazza Chiodata.** Attacco con arma da mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
@@ -10580,7 +10580,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 15 m
 - **Sfida**: 1/4 (50 PX)
 
-***Carica.*** Se l'alce si muove di almeno 6 metri diretto verso il bersaglio e lo colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
+***Carica.*** Se l'alce si muove di almeno 6 metri diretto verso il bersaglio e lo colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono.
 
 **Azioni*Rostro.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
@@ -10595,11 +10595,11 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Taglia/Tipo**: Enorme bestia, disallineato
 - **Caratt.**: \resizedown{For 4 Des 3 Cos 2 Int -2 Sag 2 Car 0}
 - **Tiri Salvez.**: \resizedown{Tempra +4, Riflessi +5, Volontà +4}
-- **Punti Ferita**: \resizedown{{51, **Difesa:** 17, **Iniziativa:** +3
+- **Punti Ferita**: \resizedown&#123;&#123;51, **Difesa:** 17, **Iniziativa:** +3
 - **Movimento**: 18 m
 - **Sfida**: 2 (450 PX)
 
-***Carica.*** Se l'alce si muove di almeno 6 metri diretto verso il bersaglio e lo colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o cadere prono.
+***Carica.*** Se l'alce si muove di almeno 6 metri diretto verso il bersaglio e lo colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 7 (2d6) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 14 o cadere prono.
 
 **Azioni*Rostro.** Attacco con Arma da Mischia*: +6 a colpire, portata 3 m, un bersaglio.
 
@@ -10614,7 +10614,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Taglia/Tipo**: Piccola bestia, disallineato
 - **Caratt.**: \resizedown{For -2 Des 2 Cos 0 Int -4 Sag 2 Car -2}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
-- **Punti Ferita**: \resizedown{{15, **Difesa:** 14, **Iniziativa:** +2
+- **Punti Ferita**: \resizedown&#123;&#123;15, **Difesa:** 14, **Iniziativa:** +2
 - **Movimento**: 3 m, volo 18 m
 - **Sfida**: 0 (10 PX)
 
@@ -10629,7 +10629,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Taglia/Tipo**: Grande bestia, disallineato
 - **Caratt.**: \resizedown{For 3 Des 3 Cos 1 Int -1 Sag 2 Car 0}
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +4, Volontà +3}
-- **Punti Ferita**: \resizedown{{33, **Difesa:** 16, **Iniziativa:** +3
+- **Punti Ferita**: \resizedown&#123;&#123;33, **Difesa:** 16, **Iniziativa:** +3
 - **Movimento**: 3 m, volo 24 m
 - **Linguaggi**: Aquila Gigante, comprende il Comune e l'Ictun ma non può parlarli
 - **Sfida**: 1 (200 PX)
@@ -10748,7 +10748,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ***Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 12 contro la malattia o restare malato finché la malattia non viene curata. Dopo ogni 24 ore, la creatura deve ripetere il Tiro Salvezza, riducendo i suoi Punti Ferita massimi di 5 (1d10) in caso di fallimento. Questa riduzione perdura finché la malattia non viene curata. La creatura muore se la malattia riduce i suoi Punti Ferita massimi a 0.
+*Colpisce:* 5 (1d6 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 12 contro la malattia o restare malato finché la malattia non viene curata. Dopo ogni 24 ore, la creatura deve ripetere il Tiro Salvezza, riducendo i suoi Punti Ferita massimi di 5 (1d10) in caso di fallimento. Questa riduzione perdura finché la malattia non viene curata. La creatura muore se la malattia riduce i suoi Punti Ferita massimi a 0.
 
 ### Cane Intermittente
 
@@ -10777,7 +10777,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 9 m
 - **Sfida**: 0 (10 PX)
 
-***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 2 (1d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 10 o cadere prono.
+***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 2 (1d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 10 o cadere prono.
 
 ***Piedi Saldi.*** Il caprone ha +1d6 ai Tiri Salvezza su Tempra e Riflessi effettuati contro effetti che lo farebbero cadere prono.
 
@@ -10794,7 +10794,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 12 m
 - **Sfida**: 1/2 (100 PX)
 
-***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 5 (2d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
+***Carica.*** Se il caprone si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di rostro durante lo stesso round, il bersaglio subisce 5 (2d4) danni contundenti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono.
 
 ***Piedi Saldi.*** Il caprone ha +1d6 ai Tiri Salvezza su Tempra e Riflessi effettuati contro effetti che lo farebbero cadere prono.
 
@@ -10841,7 +10841,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 12 m
 - **Sfida**: 1/4 (50 PX)
 
-***Carica.*** Se il cinghiale si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di zanna durante lo stesso round, il bersaglio subisce 3 (1d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prono.
+***Carica.*** Se il cinghiale si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di zanna durante lo stesso round, il bersaglio subisce 3 (1d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 11 o cadere prono.
 
 ***Implacabile (Ricarica dopo 1 ora).*** Se il cinghiale subisce 7 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
 
@@ -10858,7 +10858,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 12 m
 - **Sfida**: 2 (450 PX)
 
-***Carica.*** Se il cinghiale si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di zanna durante lo stesso round, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
+***Carica.*** Se il cinghiale si muove di almeno 6 metri diretto verso il bersaglio e colpisce con un attacco di zanna durante lo stesso round, il bersaglio subisce 7 (2d6) danni taglienti aggiuntivi. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono.
 
 ***Implacabile (Ricarica dopo 1 ora).*** Se il cinghiale subisce 10 danni o meno che lo ridurrebbero a 0 Punti Ferita, scende invece a 1 punto ferita.
 
@@ -10896,7 +10896,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 
 ***Coda.** Attacco con Arma da Mischia*: +8 a colpire, portata 3 m, un bersaglio non afferrato dal coccodrillo.
 
-*Colpisce:* 14 (2d8 + 5) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 16 o cadere prono.
+*Colpisce:* 14 (2d8 + 5) danni contundenti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 16 o cadere prono.
 
 ***Morso.** Attacco con Arma da Mischia*: +8 a colpire, portata 1 m, un bersaglio.
 
@@ -11103,7 +11103,7 @@ altre creature. Le statistiche sono organizzate in ordine alfabetico.
 - **Movimento**: 15 m
 - **Sfida**: 1 (200 PX)
 
-***Balzo.*** Se il leone si muove di almeno 6 metri diretto verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono. Se il bersaglio è prono, il leone può effettuare un attacco di morso come Azione Immediata.
+***Balzo.*** Se il leone si muove di almeno 6 metri diretto verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono. Se il bersaglio è prono, il leone può effettuare un attacco di morso come Azione Immediata.
 
 ***Olfatto Affinato.*** Il leone ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -11155,7 +11155,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 7 (2d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prono.
+*Colpisce:* 7 (2d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 11 o cadere prono.
 
 ### Dinolupo (Metalupo)
 
@@ -11172,7 +11172,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
+*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono.
 
 ### Lupo Invernale
 
@@ -11191,9 +11191,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 14 o cadere prono.
+*Colpisce:* 11 (2d6 + 4) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 14 o cadere prono.
 
-***Soffio Gelido (Ricarica 5-6).*** Il lupo esala un'esplosione di vento gelido in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza di Riflessi DC 15, e subire 18 (4d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+***Soffio Gelido (Ricarica 5-6).*** Il lupo esala un'esplosione di vento gelido in un cono di 5 metri. Ogni creatura in quell'area deve effettuare un Tiro Salvezza su Riflessi DC 15, e subire 18 (4d8) danni da freddo se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Mammut
 
@@ -11227,7 +11227,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +3 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 4 (1d6 + 1) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 11 o cadere prono.
+*Colpisce:* 4 (1d6 + 1) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 11 o cadere prono.
 
 ### Orso Bruno
 
@@ -11322,7 +11322,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 - **Movimento**: 15 m, scalata 12 m
 - **Sfida**: 1/4 (50 PX)
 
-***Balzo.*** Se la pantera si muove di almeno 6 metri diretta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 12 o cadere prono. Se il bersaglio è prono, la pantera può effettuare un attacco di morso contro di esso come Azione Immediata.
+***Balzo.*** Se la pantera si muove di almeno 6 metri diretta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 12 o cadere prono. Se il bersaglio è prono, la pantera può effettuare un attacco di morso contro di esso come Azione Immediata.
 
 ***Olfatto Affinato.*** La pantera ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -11370,7 +11370,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 7 (1d10 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 14, e subire 18 (4d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questo danno se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
+*Colpisce:* 7 (1d10 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 14, e subire 18 (4d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questo danno se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
 ### Ragno Gigante
 
@@ -11389,9 +11389,9 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 7 (1d8 + 3) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 9 (2d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
+*Colpisce:* 7 (1d8 + 3) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 11, e subire 9 (2d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
-***Ragnatela (Ricarica 5-6).** Attacco con Arma a Gittata*: +5 a colpire, gittata 9m, una creatura.
+***Ragnatela (Ricarica 5-6).** Attacco con Arma a Gittata*: +5 a colpire, gittata 9 m, una creatura.
 
 *Colpisce:* Il bersaglio è intralciato dalla ragnatela. Con un'Azione, il bersaglio intralciato può effettuare un Tiro Salvezza Tempra con Forza DC 12 e, in caso di successo, spezzare la tela. La ragnatela può essere anche attaccata e distrutta (CA 10; Punti Ferita 5; vulnerabilità al danno da fuoco; immunità ai danni contundenti e da veleno).
 
@@ -11412,7 +11412,7 @@ Alcune lucertole giganti possiedono uno o entrambi i seguenti tratti.
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 4 (1d6 + 1) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 7 (2d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
+*Colpisce:* 4 (1d6 + 1) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 11, e subire 7 (2d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce. Se il danno da veleno riduce il bersaglio a 0 Punti Ferita, il bersaglio è stabile ma avvelenato per 1 ora, anche dopo aver recuperato i Punti Ferita, e mentre è avvelenato in questo modo resta paralizzato.
 
 ### Rana
 
@@ -11486,7 +11486,7 @@ Alcuni ratti giganti recano una terribile malattia che diffondono tramite il mor
 
 ***Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 10 o contrarre una malattia. Fino a che la malattia non viene curata, TS Tempra DC 12 ogni 24 ore, il bersaglio non può recuperare Punti Ferita eccetto tramite metodi magici e i Punti Ferita massimi del bersaglio diminuiscono di 3 (1d6) ogni 24 ore. Se i Punti Ferita massimi del bersaglio scendono a 0 come risultato della malattia, il bersaglio muore.
+*Colpisce:* 4 (1d4 + 2) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 10 o contrarre una malattia. Fino a che la malattia non viene curata, TS Tempra DC 12 ogni 24 ore, il bersaglio non può recuperare Punti Ferita eccetto tramite metodi magici e i Punti Ferita massimi del bersaglio diminuiscono di 3 (1d6) ogni 24 ore. Se i Punti Ferita massimi del bersaglio scendono a 0 come risultato della malattia, il bersaglio muore.
 
 ### Rinoceronte lanoso
 
@@ -11567,9 +11567,9 @@ Se il rospo muore, una creatura inghiottita non è più intralciata da esso e pu
 
 >> **Il Saurovallo**: La leggenda narra che Calicante appena scese sulla Terra vide i *cavalli* e provò un disgusto incredibile per questi orrendi esseri e con il semplice volere li fece esplodere tutti. Non contento pochi attimi dopo tutti gli *equini* fecero la stessa fine.
 
-Asini, muli, cavalli, zebre... solo il cammello ed il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando...
+Asini, muli, cavalli, zebre… solo il cammello e il dromedario non essendo propriamente equini si salvarono, anche se molti pensano che Calicante semplicemente li stia ignorando…
 
-Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Orlaith chiese di inculcargli obbedienza ed il coraggio.
+Nethergal piuttosto scossa dal fatto che si era perso un utile animale per portare messaggi e cavalcabile per ampie distanze e non avendo il potere per creare una nuova creatura dal nulla, si rivolse ad Efrem ed Orlaith. Chiese ad Efrem di individuare un animale che potesse essere robusto, veloce ed adatto a essere cavalcato, mentre ad Orlaith chiese di inculcargli obbedienza e il coraggio.
 
 Efrem sapendo che Torbiorn aveva portato sul pianeta milioni dei suoi amati dinosauri scelse il Parasaurolophus e, con il supporto di Orlaith, lo rese più compatto, piccolo, mansueto, erbivoro: perfetto per essere cavalcato.
 
@@ -11764,7 +11764,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 **Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, una creatura nello spazio dello sciame.
 
-*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 10, e subire 14 (4d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita, e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 10, e subire 14 (4d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Sciame di Vespe
 
@@ -11814,7 +11814,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 *Colpisce:* 6 (1d6 + 3) danni contundenti.
 
-***Sasso.** Attacco con Arma a Gittata*: +5 a colpire, gittata 8m, un bersaglio.
+***Sasso.** Attacco con Arma a Gittata*: +5 a colpire, gittata 8 m, un bersaglio.
 
 *Colpisce:* 6 (1d6 + 3) danni contundenti.
 
@@ -11833,7 +11833,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 *Colpisce:* 22 (3d10 + 6) danni contundenti.
 
-***Sasso.** Attacco con Arma a Gittata*: +9 a colpire, gittata 15m, un bersaglio.
+***Sasso.** Attacco con Arma a Gittata*: +9 a colpire, gittata 15 m, un bersaglio.
 
 *Colpisce:* 30 (7d6 + 6) danni contundenti.
 
@@ -11848,7 +11848,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 **Azioni*Pungiglione.** Attacco con Arma da Mischia*: +2 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 1 danno perforante e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 9, e subire 4 (1d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 1 danno perforante e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 9, e subire 4 (1d8) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Scorpione Gigante
 
@@ -11867,7 +11867,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 ***Pungiglione.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, una creatura.
 
-*Colpisce:* 7 (1d10 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 14, e subire 22 (4d10) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 7 (1d10 + 2) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 14, e subire 22 (4d10) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Serpente Costrittore
 
@@ -11914,7 +11914,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 1 danno perforante e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 10, e subire 5 (2d4) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 1 danno perforante e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 10, e subire 5 (2d4) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Serpente Velenoso Gigante
 
@@ -11927,7 +11927,7 @@ Purtroppo zanzare, cimici e mosche sono rimaste con massimo dispiacere di tutti!
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +4 a colpire, portata 3 m, un bersaglio.
 
-*Colpisce:* 6 (1d4 + 4) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 11, e subire 10 (3d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 6 (1d4 + 4) danni perforanti e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 11, e subire 10 (3d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
 ### Serpente Volante
 
@@ -12055,7 +12055,7 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 - **Movimento**: 12 m
 - **Sfida**: 1 (200 PX)
 
-***Balzo.*** Se la tigre si muove di almeno 6 metri diretta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono. Se il bersaglio è prono, la tigre può effettuare un attacco di morso contro di esso come Azione Immediata.
+***Balzo.*** Se la tigre si muove di almeno 6 metri diretta verso una creatura e la colpisce con un attacco di artiglio durante lo stesso round, il bersaglio deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono. Se il bersaglio è prono, la tigre può effettuare un attacco di morso contro di esso come Azione Immediata.
 
 ***Olfatto Affinato.*** La tigre ha +1d6 alle prove di Consapevolezza basate sull'olfatto.
 
@@ -12103,7 +12103,7 @@ Lo strige può staccarsi spendendo 1 Azione. Lo fa automaticamente dopo aver ris
 
 **Azioni*Morso.** Attacco con Arma da Mischia*: +5 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza di Tempra DC 13 o cadere prono.
+*Colpisce:* 10 (2d6 + 3) danni perforanti. Se il bersaglio è una creatura, deve riuscire un Tiro Salvezza su Tempra DC 13 o cadere prono.
 
 ## Appendice B: Personaggi Non Giocanti 
 
@@ -12118,7 +12118,7 @@ incantesimi del PNG con un diverso incantesimo dello stesso livello. Cambiare in
 
 ***Cambiare Armi e Armatura**.* Puoi migliorare o peggiorare l'armatura del PNG o aggiungere o cambiare armi. Le modifiche alla Difesa e ai danni possono modificare il grado di sfida del PNG.
 
-***Oggetti Magici***. Più potente è un PNG, maggiori le probabilità che possieda uno o più oggetti magici. Un mago, ad esempio, potrebbe avere una bacchetta o un bastone magico, oltre ad una o più pozioni e pergamene. Fornire un PNG di un potente oggetto magico capace di infliggere danni potrebbe modificarne il grado di sfida.
+***Oggetti Magici***. Più potente è un PNG, maggiori le probabilità che possieda uno o più oggetti magici. Un mago, ad esempio, potrebbe avere una bacchetta o un bastone magico, oltre a una o più pozioni e pergamene. Fornire un PNG di un potente oggetto magico capace di infliggere danni potrebbe modificarne il grado di sfida.
 
 Alcuni oggetti magici di esempio sono descritti più avanti in questo documento.
 
@@ -12137,7 +12137,7 @@ I combattenti sono individui che si guadagnano da vivere mettendo la loro spada 
 
 Le guardie comprendono membri della ronda cittadina, sentinelle di una cittadella o città fortificata e le guardie del corpo di nobili e mercanti.
 
-**Azioni*Lancia.** Attacco con Arma da Mischia o a Gittata*: +3 a colpire, portata 1 m o gittata 6m, un bersaglio.
+**Azioni*Lancia.** Attacco con Arma da Mischia o a Gittata*: +3 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti o 5 (1d8 + 1) danni perforanti se impiegata con due mani per effettuare un attacco da mischia.
 
@@ -12164,7 +12164,7 @@ Guerrieri sopravvissuti a lungo, guadagnandosi una grande fama di esperti e abil
 
 *Colpisce:* 6 (1d6 + 3) danni perforanti.
 
-***Balestra Pesante.** Attacco con Arma a Gittata*: +3 a colpire, gittata 30m, un bersaglio.
+***Balestra Pesante.** Attacco con Arma a Gittata*: +3 a colpire, gittata 30 m, un bersaglio.
 
 *Colpisce:* 6 (1d10 + 1) danni perforanti.
 
@@ -12187,7 +12187,7 @@ I cavalieri sono combattenti che giurano fedeltà a sovrani, ordini religiosi, e
 
 *Colpisce:* 10 (2d6 + 3) danni taglienti.
 
-***Balestra Pesante.** Attacco con Arma a Gittata*: +2 a colpire, gittata 30m, un bersaglio.
+***Balestra Pesante.** Attacco con Arma a Gittata*: +2 a colpire, gittata 30 m, un bersaglio.
 
 *Colpisce:* 5 (1d10) perforanti.
 
@@ -12253,7 +12253,7 @@ Che siano uomini di strada o di mare (pirati) costoro guadagnano da vivere depre
 
 *Colpisce:* 4 (1d6 + 1) danni taglienti.
 
-***Balestra Leggera.** Attacco con Arma a Gittata*: +3 a colpire, gittata 24m, un bersaglio.
+***Balestra Leggera.** Attacco con Arma a Gittata*: +3 a colpire, gittata 24 m, un bersaglio.
 
 *Colpisce:* 5 (1d8 + 1) danni taglienti.
 
@@ -12279,7 +12279,7 @@ Una spia è un individuo addestrato nel reperire segreti per conto di qualcuno, 
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Balestrino.** Attacco con Arma a Gittata*: +4 a colpire, gittata 9m, un bersaglio.
+***Balestrino.** Attacco con Arma a Gittata*: +4 a colpire, gittata 9 m, un bersaglio.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
@@ -12302,7 +12302,7 @@ Che viva in terra o in mare, è un individuo munito di una grande personalità c
 
 *Colpisce:* 6 (1d6 + 3) danni taglienti.
 
-***Pugnale.** Attacco con Arma da Mischia o a Gittata*: +5 a colpire, portata 1 m o gittata 6m, un bersaglio.
+***Pugnale.** Attacco con Arma da Mischia o a Gittata*: +5 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 5 (1d4 + 3) danni perforanti.
 
@@ -12325,19 +12325,19 @@ Solitari o membri di una gilda, gli assassini sono pagati per eliminare, spesso 
 
 ***Attacco Furtivo (1/Turno).*** L'assassino infligge 14 (4d6) danni aggiuntivi quando colpisce un bersaglio con un attacco con arma e ha +1d6 al tiro di attacco, o quando il bersaglio è entro 1 metro da un alleato dell'assassino che non è inabile e l'assassino non ha -1d6 al tiro di attacco.
 
-***Evasione.*** Se l'assassino è vittima di un effetto che permette di effettuare un Tiro Salvezza di Riflessi per dimezzare i danni, l'assassino non prende danni se riesce il Tiro Salvezza, e solo la metà se lo fallisce.
+***Evasione.*** Se l'assassino è vittima di un effetto che permette di effettuare un Tiro Salvezza su Riflessi per dimezzare i danni, l'assassino non prende danni se riesce il Tiro Salvezza, e solo la metà se lo fallisce.
 
 **Azioni*Multiattacco.*** L'assassino effettua due attacchi con le spade corte.
 
 ***Spada Corta.** Attacco con Arma da Mischia*: +6 a colpire, portata 1 m, un bersaglio.
 
-*Colpisce:* 6 (1d6 + 3) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 19, subendo 24 (7d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 6 (1d6 + 3) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 19, subendo 24 (7d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-***Balestra Leggera.** Attacco con Arma a Gittata*: +6 a colpire, gittata 24m, un bersaglio.
+***Balestra Leggera.** Attacco con Arma a Gittata*: +6 a colpire, gittata 24 m, un bersaglio.
 
-*Colpisce:* 7 (1d8 + 3) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza di Tempra DC 19, subendo 24 (7d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
+*Colpisce:* 7 (1d8 + 3) danni perforanti, e il bersaglio deve effettuare un Tiro Salvezza su Tempra DC 19, subendo 24 (7d6) danni da veleno se fallisce il Tiro Salvezza, o la metà di questi danni se lo riesce.
 
-**Reazione: *Attacco d'opportunità***: l'assassino effettua un attacco con spada corta ad una creatura che attraversi o esca dalla sua portata di 1 metro.
+**Reazione: *Attacco d'opportunità***: l'assassino effettua un attacco con spada corta a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
 **Mago**
 
@@ -12395,11 +12395,11 @@ livello 4 (3 slot): *Invisibilità Superiore, Tempesta di Ghiaccio*
 
 livello 5 (1 slot): *Cono di Freddo*
 
-**Azioni*Pugnale.** Attacco con Arma da Mischia o a Gittata*: +5 a colpire, portata 1 m o gittata 6m, un bersaglio.
+**Azioni*Pugnale.** Attacco con Arma da Mischia o a Gittata*: +5 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti.
 
-**Reazione: *Incantesimo opportunistico***: il mago reagisce ad un attacco subito lanciando un trucchetto.
+**Reazione: *Incantesimo opportunistico***: il mago reagisce a un attacco subito lanciando un trucchetto.
 
 ### Arcimago
 
@@ -12440,11 +12440,11 @@ livello 9 (1 slot): *Fermare il Tempo*
 
 L'arcimago esegue questi * incantesimi su di sé prima del combattimento.
 
-**Azioni*Pugnale.** Attacco con Arma da Mischia o a Gittata*: +6 a colpire, portata 1 m o gittata 6m, un bersaglio.
+**Azioni*Pugnale.** Attacco con Arma da Mischia o a Gittata*: +6 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti.
 
-**Reazione: *Incantesimo opportunistico***: il mago reagisce ad un attacco subito lanciando un incantesimo di 2 livello o meno.
+**Reazione: *Incantesimo opportunistico***: il mago reagisce a un attacco subito lanciando un incantesimo di 2 livello o meno.
 
 **Sacerdoti**
 
@@ -12480,7 +12480,7 @@ I cultisti giurano fedeltà ai poteri oscuri, e nelle loro credenze e pratiche m
 - **Linguaggi**: Comune
 - **Sfida**: 1/4 (50 PX)
 
-Gli accoliti sono membri di grado minore del clero, e di solito rispondono ad un sacerdote di rango superiore. Svolgono diverse funzioni in un tempio e gli viene conferita dalla loro divinità l'abilità di eseguire incantesimi minori.
+Gli accoliti sono membri di grado minore del clero, e di solito rispondono a un sacerdote di rango superiore. Svolgono diverse funzioni in un tempio e gli viene conferita dalla loro divinità l'abilità di eseguire incantesimi minori.
 
 ***Incantesimi.*** L'accolito ha CM 1. La sua abilità da incantatore è la Saggezza (+4 al colpire con attacchi con incantesimo). L'accolito ha preparato i seguenti incantesimi:
 
@@ -12500,7 +12500,7 @@ livello 1 (3 slot): *Benedizione, Cura Ferite, Santuario*
 - **Comp.**: Ingannare +4, Religione +2
 - **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +3, Volontà +3}
 - **Movimento**: 9 m
-- **Linguaggi**: Comune ed un'altra lingua
+- **Linguaggi**: Comune e un'altra lingua
 - **Sfida**: 1 (200 PX)
 
 Sono i capi di un culto, che usano il proprio carisma e i propri dogmi per influenzare i deboli di volontà.
@@ -12517,7 +12517,7 @@ livello 2 (3 slot): *Arma Spirituale, Blocca Persona*
 
 **Azioni*Multiattacco.*** Il fanatico effettua due attacchi da mischia.
 
-***Pugnale.** Attacco con Arma da Mischia o a Gittata*: +4 a colpire, portata 1 m o gittata 6m, una creatura.
+***Pugnale.** Attacco con Arma da Mischia o a Gittata*: +4 a colpire, portata 1 m o gittata 6 m, una creatura.
 
 *Colpisce:* 4 (1d4 + 2) danni perforanti.
 
@@ -12585,7 +12585,7 @@ Sono i difensori delle tribù che vivono ai margini della civiltà.
 
 ***Tattiche di Branco.*** Il combattente tribale ha +1d6 ai tiri di attacco contro una creatura se almeno uno degli alleati del combattente tribale si trova entro 1 metro dalla creatura e quell'alleato non è inabile.
 
-**Azioni*Lancia.** Attacco con Arma da Mischia o a Gittata*: +3 a colpire, portata 1 m o gittata 6m, un bersaglio.
+**Azioni*Lancia.** Attacco con Arma da Mischia o a Gittata*: +3 a colpire, portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 4 (1d6 + 1) danni perforanti.
 
@@ -12610,7 +12610,7 @@ livello 1 (4 slot): *Intralciare, Onda Tonante, Parlare con gli Animali, Passo V
 
 livello 2 (3 slot): *Animale Messaggero, Pelle di Corteccia*
 
-**Azioni*Bastone da Combattimento.** Attacco con Arma da Mischia*: +3 a colpire (+5 a colpire con *Randello Incantato*), portata 1 m o gittata 6m, un bersaglio.
+**Azioni*Bastone da Combattimento.** Attacco con Arma da Mischia*: +3 a colpire (+5 a colpire con *Randello Incantato*), portata 1 m o gittata 6 m, un bersaglio.
 
 *Colpisce:* 3 (1d6) danni contundenti, o 6 (1d8 + 2) danni contundenti con *Randello Incantato* o se impugnato con due mani.
 
@@ -12635,7 +12635,7 @@ Abili cacciatori e battitori di piste.
 
 *Colpisce:* 5 (1d6 + 2) danni perforanti.
 
-***Arco Lungo.** Attacco con Arma a Gittata*: +4 a colpire, gittata 45m, un bersaglio.
+***Arco Lungo.** Attacco con Arma a Gittata*: +4 a colpire, gittata 45 m, un bersaglio.
 
 *Colpisce:* 6 (1d8 + 2) danni perforanti.
 
@@ -12849,7 +12849,7 @@ Un incantatore Bloccato è Distratto e deve effettuare una Prova di Magia con Su
 
 Chi ha Bloccato una creatura si considera Afferrato.
 
-**Colpo di Grazia**: Come unica Azione nel round, una creatura può utilizzare un'arma da mischia per infliggere un colpo di grazia ad un personaggio inabile o indifeso. Può anche usare un arco o una balestra, l'importante è che sia adiacente al bersaglio.
+**Colpo di Grazia**: Come unica Azione nel round, una creatura può utilizzare un'arma da mischia per infliggere un colpo di grazia a un personaggio inabile o indifeso. Può anche usare un arco o una balestra, l'importante è che sia adiacente al bersaglio.
 
 L'attaccante colpisce automaticamente ed infligge tre colpi critici. Le creature immuni ai colpi critici non possono subire un Colpo di Grazia.
 
@@ -12869,7 +12869,7 @@ Tirate un dado sulla tabella seguente all'inizio di ogni round della creatura co
 
 Una creatura confusa che non è in grado di eseguire l'azione indicata non farà altro che balbettare in modo incoerente. Gli aggressori non hanno alcun vantaggio speciale quando attaccano una creatura confusa. Qualsiasi creatura confusa che venga attaccata, attacca automaticamente a sua volta il suo aggressore.
 
-**Distratto**: Un incantatore deve effettuare una Prova di Magia quando è severamente hyo, impedito, disturbato, sanguinante o Afferrato; cerca di nascondere il lancio della magia; è stato ferito nello stesso round; esegue un'Azione di Attacco e lancia un incantesimo nello stesso round; esegue un'Azione di Scatto; è Assordato e lancia un incantesimo con componenti almeno verbali; è Bloccato; è Intralciato e cerca di lanciare un incantesimo; lancia un incantesimo durante una caduta libera, mentre è in acqua o sott'acqua; oppure lancia un incantesimo mentre vola e fallisce una prova di Volare con DC 11. Essere in combattimento, sotto minaccia o attaccati, da soli, non rende Distratti.
+**Distratto**: Un incantatore deve effettuare una Prova di Magia quando è severamente distratto, impedito, disturbato, sanguinante o Afferrato; cerca di nascondere il lancio della magia; è stato ferito nello stesso round; esegue un'Azione di Attacco e lancia un incantesimo nello stesso round; esegue un'Azione di Scatto; è Assordato e lancia un incantesimo con componenti almeno verbali; è Bloccato; è Intralciato e cerca di lanciare un incantesimo; lancia un incantesimo durante una caduta libera, mentre è in acqua o sott'acqua; oppure lancia un incantesimo mentre vola e fallisce una prova di Volare con DC 11. Essere in combattimento, sotto minaccia o attaccati, da soli, non rende Distratti.
 
 **Dominato**: Se si ha un linguaggio in comune, si può generalmente costringere il soggetto ad eseguire i comandi entro i limiti delle sue capacità. Se non si condivide nessun linguaggio, si possono impartire solo comandi di base come *vieni qui*, *vai lì*, *combatti* o *stai fermo*. Si è a conoscenza di ciò che il soggetto sta provando ma non si ricevono percezioni sensoriali dirette da lui, né si può comunicare con lui telepaticamente.
 
@@ -12931,7 +12931,7 @@ Una creatura spaventata ha -1d6 ai Tiri per Colpire, Tiri Salvezza e Prove Compe
 
 **Privo di sensi**: si considera che sia **Indifeso**.
 
-**Prono**: chi è prono ha un -4 ad attaccare ed un -4 alla Difesa. Alzarsi da prono costa 1 Azione. Non si può diventare proni se si vola.
+**Prono**: chi è prono ha un -4 ad attaccare e un -4 alla Difesa. Alzarsi da prono costa 1 Azione. Non si può diventare proni se si vola.
 
 Il giocatore può eseguire una prova di Acrobatica; se fa 13 o più, costa 1 Azione immediata. Se fai un Fallimento Critico nella prova non puoi fare altre azioni quel round e rimani prono.
 
@@ -12966,7 +12966,7 @@ Un trattamento di 1 minuto garantisce 1 successo, senza prova. Ogni Successo Cri
 
 Il sanguinamento si riduce di 1 per ogni dado di cura della Pozione o Incantesimi. Se i Punti Ferita del soggetto vengono riportati al valore massimo il sanguinamento termina. Il sanguinamento prosegue anche se la creatura è morente.
 
-Se non indicato diversamente il danno da sanguinamento si cumula fino ad un massimo di 10 Punti Ferita a round. Il danno da sanguinamento viene indicato con Sanguinamento valore/valore massimo, dove valore è il punteggio di sanguinamento causato dall'attacco e valore massimo è il punteggio di sanguinamento massimo che si può raggiungere.
+Se non indicato diversamente il danno da sanguinamento si cumula fino a un massimo di 10 Punti Ferita a round. Il danno da sanguinamento viene indicato con Sanguinamento valore/valore massimo, dove valore è il punteggio di sanguinamento causato dall'attacco e valore massimo è il punteggio di sanguinamento massimo che si può raggiungere.
 
 Se la creatura diventa morente, va a Punti Ferita negativi e poi viene riportata in vita, perde gli effetti del Sanguinamento.
 
@@ -13014,8 +13014,8 @@ Il punto blu determina l'origine dell'incantesimo
 | **1d100** | **Arma** | **1d100** | **Arma** | **1d100** | **Arma** | **1d100** | **Arma** |
 | 1-2 | Arma rotta | 26-27 | Alabarda | 51-52 | Spada corta | 76-77 | Spada lunga |
 | 3-4 | Arco lungo | 28-29 | Arco corto | 53-54 | Spada a due lame | 78-79 | Spada bastarda |
-| 5-6 | Ascia da battaglia | 30-31 | Ascia ad una mano | 55-56 | Picca pesante | 80-81 | Spada larga |
-| 7-8 | Balestra ad una mano | 32-33 | Bastone | 57-58 | Pugnale | 82-83 | Spadone a due mani |
+| 5-6 | Ascia da battaglia | 30-31 | Ascia a una mano | 55-56 | Picca pesante | 80-81 | Spada larga |
+| 7-8 | Balestra a una mano | 32-33 | Bastone | 57-58 | Pugnale | 82-83 | Spadone a due mani |
 | 9-10 | Balestra leggera | 34-35 | Falce | 59-60 | Scimitarra | 84-85 | Stocco |
 | 11-12 | Balestra pesante | 36-37 | Flagello doppio | 61-62 | Mazza leggera | 86-87 | Tridente |
 | 13-14 | Catena chiodata | 38-39 | Frusta | 63-64 | Mazza flangiata | 88-89 | Urgrosh |

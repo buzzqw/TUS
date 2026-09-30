@@ -2,7 +2,7 @@
 
 > La magia non è nel pendolino, ma in chi lo usa. (NCIS - Unità anticrimine)
 
-Non lascerai vivere colei che pratica la magia. (Libro dell'Esodo)(Sempre a seconda dei propri Tratti...)
+Non lascerai vivere colei che pratica la magia. (Libro dell'Esodo)(Sempre a seconda dei propri Tratti…)
 
 Uno stregone non è mai in ritardo, Frodo Baggins. Né in anticipo. Arriva precisamente quando intende farlo. (Gandalf, Il Signore degli Anelli - La Compagnia dell'Anello. J.R.R. Tolkien)}
 
@@ -75,7 +75,7 @@ Le Liste di Magia aiutano a descrivere gli incantesimi; non hanno delle proprie 
 
 ### Gittata
 
-Il bersaglio di un incantesimo deve essere nella gittata dell'incantesimo. Per un incantesimo come Dardo arcano, il bersaglio è una creatura. Per un incantesimo come palla di fuoco, il bersaglio è il punto nello spazio da cui la sfera di fuoco esplode. La maggior parte degli incantesimi hanno una gittata espressa in metri. Alcuni incantesimi possono prendere a bersaglio solo una creatura (te compreso) con cui sei in contatto fisico. Altri incantesimi, come l'incantesimo scudo, agiscono solo su di te: questi incantesimi hanno come gittata *personale*. Un incantesimo che ha come area di effetto *un alleato* può essere lanciato anche su se stesso.
+Il bersaglio di un incantesimo deve essere nella gittata dell'incantesimo. Per un incantesimo come Dardo arcano, il bersaglio è una creatura. Per un incantesimo come palla di fuoco, il bersaglio è il punto nello spazio da cui la sfera di fuoco esplode. La maggior parte degli incantesimi ha una gittata espressa in metri. Alcuni incantesimi possono prendere a bersaglio solo una creatura (te compreso) con cui sei in contatto fisico. Altri incantesimi, come l'incantesimo scudo, agiscono solo su di te: questi incantesimi hanno come gittata *personale*. Un incantesimo che ha come area di effetto *un alleato* può essere lanciato anche su se stesso.
 
 Gli incantesimi che creano coni o linee di effetto che originano da te, hanno anch'essi gittata personale, a indicare che sei tu il punto di origine dell'effetto dell'incantesimo (vedi *Aree di Effetto* più avanti in questo capitolo).
 
@@ -83,7 +83,7 @@ Gli incantesimi che creano coni o linee di effetto che originano da te, hanno an
 
 La durata di un incantesimo è la lunghezza di tempo per cui esso persiste. La durata può essere espressa in round, minuti, ore o addirittura anni. Alcuni incantesimi specificano che i loro effetti durano finché l'incantesimo non viene dissolto o distrutto. Un **incantesimo può essere interrotto dal proprio incantatore come Azione Immediata**.
 
-Qualora un critico magico raddoppi la durata si intende sempre riferita alla durata iniziale. Es. se la durata è 2 ore dopo il primo raddoppio diventa 4 ore, con il secondo diventa di 6 ore e poi 8 ore..
+Qualora un critico magico raddoppi la durata, si intende sempre riferita alla durata iniziale. Per esempio, se la durata è di 2 ore, dopo il primo raddoppio diventa di 4 ore, con il secondo diventa di 8 ore.
 
 - *Istantanea*
 
@@ -98,7 +98,7 @@ Normali attività, come muoversi e attaccare, non interferiscono con la concentr
 
 Ogni incantesimo prevede che l'incantatore abbia le mani libere e possa parlare.
 
-La maggior parte degli incantesimi richiede di intonare parole mistiche e gesticolare in maniera particolare. Le parole ed i gesti, il ritmo, la cadenza e risonanza permettono la sintonia con il Patrono che fornisce la magia.
+La maggior parte degli incantesimi richiede di intonare parole mistiche e gesticolare in maniera particolare. Le parole e i gesti, il ritmo, la cadenza e la risonanza permettono la sintonia con il Patrono che fornisce la magia.
 
 È possibile consumare oggetti al momento di lancio dell'incantesimo come offerta al proprio Patrono, o quello che sovraintende la Lista di Magia dell'incantesimo, per ottenere vantaggi. A seconda della *preziosità* e *storia* dell'oggetto offerto, a discrezione del Narratore, la Prova di Magia può prendere $\pm2d6$\ di modificatore.
 
@@ -128,7 +128,7 @@ Lanciare un incantesimo è una azione che non passa inosservata. Una prova di Fu
 
 ### Prendere Te stesso come Bersaglio
 
-Se un incantesimo prende come bersaglio una creatura a tua scelta od un alleato, puoi scegliere anche te stesso, a meno che la creatura non debba essere ostile o sia specificato che non possa essere tu. Se ti trovi nell'area di effetto di un incantesimo lanciato da te, anche tu ne sarai influenzato.
+Se un incantesimo prende come bersaglio una creatura a tua scelta o un alleato, puoi scegliere anche te stesso, a meno che la creatura non debba essere ostile o sia specificato che non possa essere tu. Se ti trovi nell'area di effetto di un incantesimo lanciato da te, anche tu ne sarai influenzato.
 
 ### Aree di Effetto
 
@@ -144,7 +144,7 @@ Es. Un Cono di Freddo di 9 metri è largo al termine 9 metri e si allunga dal pu
 - ***Linea***: una linea si estende dal suo punto di origine in un percorso dritto per tutta la sua lunghezza e copre un'area definita dalla sua larghezza. Il punto di origine della linea non è incluso nella sua area di effetto, a meno che tu non decida altrimenti. Una linea se non specificato diversamente è larga un quadretto.
 - ***Sfera***: selezioni il punto di origine di una sfera, che deve essere valido (vedi Gittata e Bersagli) e la sfera si estenderà da quel punto fino ad incontrare un ostacolo insormontabile o la sua dimensione espressa nel raggio. La misura della sfera è indicata come raggio in metri che si estende da quel punto. Il punto di origine della sfera è incluso nella sua area di effetto.
 
-Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte e in una stanza di 6x6 m la riempirà tutta. In una stanza di 3x3 m se ha modo di uscire da una porta od una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 6 metri avanti e indietro dal punto di origine.
+Una palla di fuoco che viene generata in una stanza di 9x9 m ne prenderà una buona parte e in una stanza di 6x6 m la riempirà tutta. In una stanza di 3x3 m se ha modo di uscire da una porta o una finestra continuerà la sua esplosione fino ad arrivare ai 6 metri di raggio. Una palla di fuoco in un corridoio di 3x3 m lo saturerà per 6 metri avanti e indietro dal punto di origine.
 
 ### Rarità degli Incantesimi
 
@@ -163,11 +163,11 @@ In caso di incantesimi istantanei gli effetti agiscono singolarmente se agiscono
 - L'incantatore al lancio del suo primo incantesimo sceglie se utilizzare come modificatore alla Prova di Magia l'Intelligenza oppure se è un Devoto può scegliere la Caratteristica indicata dal Patrono. Una volta fatta la scelta non è più possibile cambiarla.
 
 Questo modificatore viene chiamato **modificatore di caratteristica per incantesimi**.
-- Il personaggio quando assegna il primo punto di Competenza Magica **conosce** (sono presenti) nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
+- Quando assegna il primo punto di Competenza Magica, il personaggio conosce nel suo Tomo della Magia un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) e un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
 - Ogni giorno, dopo il riposo, il personaggio **apprende** dal suo Tomo di Magia un numero di incantesimi pari a Competenza Magica/2 (minimo 1) + modificatore di caratteristica per incantesimi + Adepto della Magia.
 - Il numero di incantesimi formulabile al giorno dipende dalla capacità dell'incantatore. Vedi **Tabella Punti magia e Competenza Magica**. Un incantesimo ha un costo in Punti Magia pari al suo livello.
 - Un Seguace aggiunge +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono. I tuoi incantesimi possono usare una delle forme energetiche preferite dal Patrono.
-- Un Devoto aggiunge +1d6 alle Prova di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantesimi usano una delle forme energetiche preferite dal Patrono.
+- Un Devoto aggiunge +1d6 alle Prove di Magia negli incantesimi delle liste privilegiate dal Patrono e può ignorare un dado tirato nella Prova di Magia. I tuoi incantesimi usano una delle forme energetiche preferite dal Patrono.
 - Con il termine **appreso** si intende un incantesimo presente sul Tomo della Magia che si è memorizzato e si può lanciare quando voluto.
 - Con il termine **conosciuto** si intende un incantesimo presente sul Tomo della Magia che però non si è appreso, ovvero non si è memorizzato e non si può lanciare quando voluto.
 
@@ -175,7 +175,7 @@ Questo modificatore viene chiamato **modificatore di caratteristica per incantes
 
 Mentre la Competenza Magica indica lo studio e dedizione alla Magia nella forma più astratta è l'Abilità Adepto della Magia che permette di capire quanto si è *votati* al formulare gli incantesimi.
 
-Per stabilire il livello massimo lanciabile di incantesimi sommate il punteggio di Competenza Magica ed Adepto della Magia, dividendo per due ed arrotondando per eccesso. Confrontate il risultato con il (doppio del punteggio del modificatore di caratteristica per incantesimi)+1, prendendo il valore minore.
+Per stabilire il livello massimo degli incantesimi lanciabili, sommate Competenza Magica e Adepto della Magia, dividete per due e arrotondate per eccesso.
 
 Es. CM=8, Adepto della Magia preso 4 volte, (8+4)/2=6lv.
 
@@ -191,7 +191,7 @@ Se l'incantatore è **Distratto** (vedi elenco completo cause a pag. ) ovvero ce
 
 ## Prova di Magia
 
-Non sempre lanciare un incantesimo è sufficiente, molte volte è necessario che questo funzioni bene ed anzi agisca oltre normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare un ***Prova di Magia*** e confidare nelle sue capacità.
+Non sempre lanciare un incantesimo è sufficiente: molte volte è necessario che l'incantesimo funzioni bene e, anzi, che agisca oltre le normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare una ***Prova di Magia*** e confidare nelle proprie capacità.
 
 L'incantatore tira **3d6 + 1d6 ogni quattro punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
 
@@ -220,11 +220,14 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 
 **Tabella: Effetti Fallimento Critico magico**
 
+\begin{multicoltab}
+	
+
 | **Dadi** | **Effetti** |
 |3d6|Effetto|
 |---|---|
 | 1 | Per 1 giorno non sei più in grado di canalizzare energie magiche. Non puoi lanciare incantesimi se non facendo un successo magico critico nella Prova di Magia |
-| 2 | Aumenti la condizione di Affaticato di 2 gradi, fino ad un massimo di Affaticato 5 |
+| 2 | Aumenti la condizione di Affaticato di 2 gradi, fino a un massimo di Affaticato 5 |
 | 3 | Manifesti una modifica corporea minore |
 | 4 | Vieni investito da una roboante colonna di Luce e Vuoto. In un raggio di 6 metri centrato su di te, chiunque deve fare un Tiro Salvezza su Riflessi DC 15 per dimezzare o subire 3d10 di danni da forza non resistibili |
 | 5 | Per 3 round sei sotto l'influenza dell'incantesimo Confusione |
@@ -242,13 +245,15 @@ Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 
 | 17 | Una incudine cade, 3d6 di danno Tiro Salvezza su Riflessi DC 15 per dimezzare, su una creatura a caso, escluso te, entro sei metri |
 | 18 | Le creature, te escluso, nel raggio di 6 metri da te subiscono 3d10 danni da forza non resistibili |
 
+\end{multicoltab}
+
 ## Modificare la Prova di Magia
 
 **Prima di effettuare** la Prova di Magia l'incantatore può decidere investire ulteriori Punti Magia per migliorare la sua Prova di Magia.
 
-Per ogni volta, fino ad un massimo di tre volte, che paga il costo dell'incantesimo, può **aggiungere** 1d6 in più nella Prova di magia. 
+Per ogni volta, fino a un massimo di tre volte, che paga il costo dell'incantesimo, può **aggiungere** 1d6 in più nella Prova di magia. 
 
-**Dopo aver effettuato** la Prova di Magia, usando una Reazione, per ogni due volte che paga il costo dell'incantesimo (fino ad un massimo di sei volte), può **ignorare** un dado tirato nella Prova di magia. 
+**Dopo aver effettuato** la Prova di Magia, usando una Reazione, per ogni due volte che paga il costo dell'incantesimo (fino a un massimo di sei volte), può **ignorare** un dado tirato nella Prova di magia. 
 
 Un incantatore può anche **volontariamente fallire la Prova di Magia**.
 
@@ -258,7 +263,7 @@ A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un 
 
 **Gli incantesimi hanno un costo in Punti Magia pari al loro livello**
 
-Ogni qual volta si lanci un incantesimo si sottrae il costo ai Punti Magia a disposizione per il giorno.
+Ogniqualvolta si lanci un incantesimo si sottrae il costo ai Punti Magia a disposizione per il giorno.
 In caso di Trucchetti questi non consumano Punti Magia ma è necessario avere almeno 1 Punto Magia residuo.
 
 L'incantatore ha un **bonus** al punteggio di Punti Magia pari al suo modificatore di caratteristica per incantesimi.
@@ -313,10 +318,10 @@ Il sistema magico può diventare sbilanciato abusando sempre degli stessi incant
 
 Se i Patroni sono la sorgente della magia è solo l'applicazione di antichi riti e formule che permette di manifestare questa energia grezza in una forma ed espressione che chiamiamo incantesimo.
 
-Ogni usufruitore di magia ha uno o più **Tomi** degli incantesimi, non pensate solo a un grosso Tomo antico rilegato in pelle, le diverse culture hanno sviluppato nel tempo la capacità di iscrivere le rune degli incantesimi in carte, bastoni, lastre di pietra, tatuaggi... fate la vostra scelta quando create il personaggio.
-Questa scelta non vi impedirà di copiare incantesimi da **Tomi** fatti diversamente, per voi sarà sempre facile (prova di Arcana DC 12) capire se si è di fronte ad un Tomo di qualche tipo.
+Ogni usufruitore di magia ha uno o più **Tomi** degli incantesimi, non pensate solo a un grosso Tomo antico rilegato in pelle, le diverse culture hanno sviluppato nel tempo la capacità di iscrivere le rune degli incantesimi in carte, bastoni, lastre di pietra, tatuaggi… fate la vostra scelta quando create il personaggio.
+Questa scelta non vi impedirà di copiare incantesimi da **Tomi** fatti diversamente, per voi sarà sempre facile (prova di Arcana DC 12) capire se si è di fronte a un Tomo di qualche tipo.
 
-Un nuovo personaggio con Competenza Magica 1, avrà un Tomo di Magia con un certo elenco di incantesimi. In questo Tomo sono presenti un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) ed un numero di incantesimi di primo livello sempre pari allo stesso modificatore, con un minimo di 4.
+Un nuovo personaggio con Competenza Magica 1 avrà un Tomo di Magia con un certo elenco di incantesimi. In questo Tomo sono presenti un numero di Trucchetti pari al modificatore di caratteristica per incantesimi +2 (con un minimo di 4 Trucchetti) e un numero di incantesimi di primo livello pari allo stesso modificatore, con un minimo di 4.
 
 Ogni incantesimo occupa un numero di pagine nel Tomo pari al proprio livello, con un minimo di una, **copiare una pagina di incantesimo** porta via 1 ora di lavoro e 10 mo di preziosi inchiostri.
 
@@ -324,11 +329,11 @@ Un Tomo (libro) di incantesimi costa 5 mo per pagina.
 
 Un incantatore può copiare sul suo Tomo incantesimi il cui livello è di uno in più rispetto al suo massimo lanciabile (vedi Massimo livello di incantesimi lanciabile).
 
-Se l'incantesimo è di più di due livelli più alto l'incantatore deve fare una Prova di Magia ed ottenere un Successo Critico Magico. Se il personaggio è un Devoto e l'incantesimo appartiene ad una Lista di Magia preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.
+Se l'incantesimo è di più di due livelli più alto l'incantatore deve fare una Prova di Magia ed ottenere un Successo Critico Magico. Se il personaggio è un Devoto e l'incantesimo appartiene a una Lista di Magia preferita del Patrono allora la Prova di Magia si esegue solo se l'incantesimo è di tre o più livelli superiori al massimo lanciabile.
 
 Se non ottiene almeno un Successo Critico Magico non potrà tentare di copiare quell'incantesimo fino al prossimo punto di Competenza Magica acquisito. Se ottiene un Fallimento Critico Magico accadranno brutte cose al Tomo e 1d4 incantesimi casuali verranno cancellati dal Tomo stesso.
 
-La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena. insomma qualsiasi cosa che il precedente incantatore usasse per custodire gli incantesimi. Un oggetto magico (bastone magico, anello, verga..bacchetta..) non è idoneo quale fonte da cui copiare l'incantesimo che contiene, si deve copiare dall'equivalente Tomo o pergamena di un altro incantatore. Un incantesimo quando copiato sul nuovo Tomo svanisce dalla sorgente originale.
+La sorgente di nuovi incantesimi può essere un altro Tomo o pergamena. insomma qualsiasi cosa che il precedente incantatore usasse per custodire gli incantesimi. Un oggetto magico (bastone magico, anello, verga…bacchetta…) non è idoneo quale fonte da cui copiare l'incantesimo che contiene, si deve copiare dall'equivalente Tomo o pergamena di un altro incantatore. Un incantesimo quando copiato sul nuovo Tomo svanisce dalla sorgente originale.
 
 >>> **Magie vero tesoro**: Gli incantesimi diventano oggetti e premi magici a tutti gli effetti. Sfruttate la sete di conoscenza e potere dei personaggi per costruire avventure interessanti che possano ruotare attorno tomi antichi e leggendari incantesimi perduti.
 
@@ -362,24 +367,24 @@ Questa DC è usata per misurare la *forza ed efficacia* dell'incantesimo quando 
 
 Nella descrizione dell'incantesimo è scritto se è necessario un Tiro Salvezza e quale eseguire.
 
-Se è il personaggio a dover resistere ad una magia il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che confronta il tuo tiro con la difficoltà, potrà dirti che la prova è complessa, difficile o facile...
+Se è il personaggio a dover resistere a una magia il Narratore non ti dirà di fare un Tiro Salvezza a difficoltà 18, è lui che confronta il tuo tiro con la difficoltà, potrà dirti che la prova è complessa, difficile o facile…
 
 - Se nel Tiro Salvezza tiri 3 volte 6 sei riuscito a passarlo, indipendentemente dal totale, ed ottieni un **Successo Critico Salvezza**.
 - Se il Tiro Salvezza riesce per ogni margine di riuscita di 8 ottieni un **Successo Critico Salvezza**.
 - Se nel Tiro Salvezza tiri 3 volte 1 hai fallito il tiro, indipendentemente dal totale, ed ottieni un **Fallimento Critico Salvezza**.
-- Se il Tiro Salvezza fallisce ed il margine di fallimento è almeno 8, per ogni margine di fallimento di 8 ottieni un **Fallimento Critico Salvezza**.
-
->> **Tups lancia Dardo Tracciante!**: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volte Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
+- Se il Tiro Salvezza fallisce e il margine di fallimento è almeno 8, per ogni margine di fallimento di 8 ottieni un **Fallimento Critico Salvezza**.
 
 È anche possibile che nella descrizione dell'incantesimo sia riportato cosa succede in caso di Successo o Fallimento Critico del Tiro Salvezza.
 
 Per i **mostri** o comunque per un lancio di incantesimi dato da abilità magiche innate, se non specificato la **DC del Tiro Salvezza è pari alla 12 + 2 x livello dell'incantesimo + Intelligenza o modificatore di incantesimi indicato**.
 
+>> **Tups lancia Dardo Tracciante!**: Tups che ha Intelligenza 4, Competenza Magica 6 e ha preso 2 volte Adepto della Magia, lancia l'incantesimo \hyperlinkDardo TraccianteDardo Tracciante. La difficoltà (DC) del Tiro Salvezza su Riflessi sarà pari a 10 + 6 (CM) + 4 (modificatore caratteristica per incantesimo, Intelligenza) + 2 (ha preso 2 volte Adepto della Magia) ovvero 10+6+4+2 = 22 per dimezzare i danni. Se avesse fatto una Prova di Magia e questa avesse avuto un Successo Critico magico la DC sarebbe diventata 23.
+
 ## Contrastare gli Incantesimi
 
 Diversi incantesimi interagiscono con altri effetti annullandoli o modificandoli. Quando è scritto che un incantesimo **contrasta** o è **contrastato** un altro è necessario verificare la DC degli incantesimi o effetti per accertarsi quale effetto domini sull'altro.
 
-Ad esempio l'incantesimo Lentezza contrasta Velocità, Rimuovi Maledizione sulle maledizioni, Rimuovi Veleno sui veleni...
+Ad esempio l'incantesimo Lentezza contrasta Velocità, Rimuovi Maledizione sulle maledizioni, Rimuovi Veleno sui veleni…
 
 Il **proprio valore di contrasto** si computa con una prova di 3d6 + CM + modificatore di caratteristica per incantesimi + volte che si è preso Adepto della Magia. + 1 per Successo Critico Magico ottenuto nella Prova di Magia.
 
@@ -453,7 +458,7 @@ Negli incantesimi sotto elencati troverete spesso i riferimenti alle tipologie d
 
 - Le **Creature Naturali** sono Insetti, Rettili, Bestie, Umanoidi, Piante, Creature acquatiche, Mostruosità, Melme.
 
-- Le **Creature Magiche** sono: Immondi (Diavoli e Demoni), Fatati, Spiriti, Non morti, Giganti, Celestiali, Elementali, Costrutti, Aberrazioni (tutto ciò che è alieno o innaturale) ed i Draghi.
+- Le **Creature Magiche** sono: Immondi (Diavoli e Demoni), Fatati, Spiriti, Non morti, Giganti, Celestiali, Elementali, Costrutti, Aberrazioni (tutto ciò che è alieno o innaturale) e i Draghi.
 
 Se una Creatura Naturale ha poteri magici allora si considera anche come Creatura Magica. Una descrizione più completa di queste categorie la trovate nel Capitolo del Mostruario.
 
@@ -467,7 +472,7 @@ Il danno causato da **Vuoto** è per metà da freddo e per metà da energia nega
 
 Essere Immuni o avere una Resistenza alla Luce o Vuoto non rende immune o resistenti a sua volta ai danni da Fuoco/Energia Positiva o Freddo/Energia Negativa.
 
-La sola **energia negativa** danneggia i viventi e cura i non morti, la sola **energia positiva** danneggia i non morti ma non cura i viventi (a discrezione del Narratore l'esposizione per un round potrebbe equivalere ad un incantesimo di Ristorare Inferiore), vedi anche descrizioni dei Piani. Un obiettivo prende danno pieno da Luce o da Vuoto se non ha resistenze inerenti.
+La sola **energia negativa** danneggia i viventi e cura i non morti, la sola **energia positiva** danneggia i non morti ma non cura i viventi (a discrezione del Narratore l'esposizione per un round potrebbe equivalere a un incantesimo di Ristorare Inferiore), vedi anche descrizioni dei Piani. Un obiettivo prende danno pieno da Luce o da Vuoto se non ha resistenze inerenti.
 
 Un caso particolare è l'**energia positiva Curativa** che cura i viventi e danneggia i non morti. Questa energia è quella dell'Imposizione delle mani, Incanalare energia e degli incantesimi di Cura.
 

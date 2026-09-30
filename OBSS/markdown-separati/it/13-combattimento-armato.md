@@ -6,13 +6,13 @@ Non conta come cadi, ma se e come ti rialzi (anonimo)
 
 Non sono un eroe. No e non lo sarò mai. Sono solo un cattivo che viene pagato per pestare tipi peggiori di lui. (Deadpool)
 
-Occhio per occhio... e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)
+Occhio per occhio… e il mondo diventa cieco (Mahatma Gandhi, NdA i suoi Tratti aborrivano la violenza!)
 
 Il combattimento è tra le fasi principali di un'avventura ed è il momento in cui i personaggi cercano, con risultati alterni, di dare sfoggio della loro maestria con le armi o con la magia.
 
 Il combattimento è diviso in 2 fasi:
 - verifica dell'iniziativa
-- risoluzione delle azioni (movimento, attacco, azioni varie...)
+- risoluzione delle azioni (movimento, attacco, azioni varie…)
 
 ## L'Iniziativa
 
@@ -70,9 +70,9 @@ Le **Azioni Gratuite** possono essere usate in qualsiasi momento.
 
 **Azione di Attacco**: si intende sia l'uso di armi in mischia che l'uso di armi da lancio o tiro come archi, balestre o pugnali da lancio. Nel caso di armi da lancio ogni lancio/tiro conta come un attacco.
 
-Il personaggio che esegue un'Azione di Attacco ed il Lancio di un Incantesimo nel medesimo round si considera Distratto ovvero deve eseguire una Prova di Magia per lanciare l'incantesimo.
+Il personaggio che esegue un'Azione di Attacco e lancia un Incantesimo nello stesso round è considerato Distratto; per lanciare l'incantesimo deve effettuare una Prova di Magia.
 
-**Azione di Movimento***: un'Azione di Movimento è un'Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani...) per ogni Azione usata. Ogni movimento consuma un'Azione, anche se non si sfrutta tutto il proprio movimento a disposizione.
+**Azione di Movimento***: un'Azione di Movimento è un'Azione dedicata a spostarsi. Ci si può spostare fino a tutto il proprio movimento (9 metri per umani, 6 metri per nani…) per ogni Azione usata. Ogni movimento consuma un'Azione, anche se non si sfrutta tutto il proprio movimento a disposizione.
 
 Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o lo Scudo, oppure **Rinfoderare l'Arma** o lo Scudo.
 
@@ -98,7 +98,7 @@ Durante l'Azione di Movimento è possibile **Estrarre l'Arma** o lo Scudo, oppur
 | Prendere qualcosa dalla cintura o di pronto | 1 |
 | Usare un oggetto tenuto in mano | 1 |
 | Bere una pozione tenuta in mano | Imm. |
-| Fare bere una pozione ad un altro | 2 |
+| Fare bere una pozione a un altro | 2 |
 | Gettare un oggetto tenuto in mano | R |
 | Gettarsi a terra prono | R |
 | Lanciare un Incantesimo* | 2 |
@@ -130,9 +130,9 @@ Un'Azione di **Reazione (R)**  può essere eseguita liberamente anche fuori dal 
 
 Un'Azione **Immediata (Imm.)**  può essere eseguita liberamente nel proprio round, prima o dopo la propria Azione. Un'Azione Immediata è solitamente concessa da particolari Abilità.
 
-È possibile, se non descritto specificatamente nell'Abilità, eseguire solo un'Azione Immediata ed un'Azione di Reazione per round.
+È possibile, se non descritto specificatamente nell'Abilità, eseguire solo un'Azione Immediata e un'Azione di Reazione per round.
 
-Questo **elenco non è completo**, prendetelo come linee guida per stabilire il peso delle decisioni ed azioni dei personaggi. Una Azione dura circa 3 secondi.
+Questo **elenco non è completo**, prendetelo come linea guida per stabilire il peso delle decisioni e delle azioni dei personaggi. Un'Azione dura circa 3 secondi.
 
 L'**ordine** con cui si eseguono le Azioni non è importante se non per la correlazione logica e fisica. L'Azione di Movimento può essere tra altre Azioni (movimento, attacco/incantesimi/altra Azione, movimento).
 
@@ -153,7 +153,7 @@ Il Movimento scritto nella razza del personaggio è l'indicazione di quanti metr
 Una creatura o personaggio potrebbe anche decidere di spostarsi più velocemente del solito ovvero correndo (Azione di Scatto).
 
 L'Azione di Scatto è un'Azione di Movimento particolare, che consiste nel correre durante quell'Azione.
-Se si esegue un'Azione di **Scatto** si raddoppiano i metri percorsi (2x9 metri per un umano), per un nano (Movimento 6m) significa fare 12 metri, in un'Azione.
+Se si esegue un'Azione di **Scatto** si raddoppiano i metri percorsi (2x9 metri per un umano), per un nano (Movimento 6 m) significa fare 12 metri, in un'Azione.
 È anche possibile fare più Azioni di Scatto, fino a 3 in un round, ovvero correre per 6 volte il proprio movimento.
 
 Il personaggio che fa un'Azione di Scatto  corre e ha una penalità di 1d6 nel Tiro per Colpire; la Difesa diminuisce di 4 fino all'inizio del suo round successivo e si considera Distratto per il lancio di incantesimi.
@@ -194,7 +194,7 @@ Il meritevole Game Master non uccide mai volontariamente i personaggi dei giocat
 
 Il danno da arma si calcola come somma del dado dell'arma, della Forza (o della Destrezza se indicato da Abilità), sia essa positiva o negativa, dei bonus dati da Lista d'Armi, dei bonus dati dalle Abilità, dei bonus dati dall'arma e dei bonus circostanziali.
 
-Quando una creatura raggiunge 0 (zero) Punti Ferita si considera svenuta, ovvero Indifesa e Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione...) la porterà cosciente e ai Punti Ferita curati. Una prova di Pronto Soccorso  (DC 12) potrà essere usata per riportarla cosciente a 1 Punto Ferita.
+Quando una creatura raggiunge 0 (zero) Punti Ferita si considera svenuta, ovvero Indifesa e Inabile a fare qualsiasi cosa. Una Cura magica (Incantesimo, Pozione…) la porterà cosciente e ai Punti Ferita curati. Una prova di Pronto Soccorso  (DC 12) potrà essere usata per riportarla cosciente a 1 Punto Ferita.
 Se lasciata svenuta per un'ora, se non è successo qualcosa a mutare la situazione, la creatura può fare un Tiro Salvezza su Tempra a DC 15; se riesce torna a 1 Punto Ferita, se fallisce va a -1 e diventa morente.
 
 Un personaggio morente ha Punti Ferita negativi (-1 o meno), è svenuto ed è indifeso. Continuerà a perdere 1 Punto Ferita a round finché il valore non raggiungerà il doppio della Costituzione +10 e il personaggio morirà, se non viene curato.
@@ -268,8 +268,8 @@ Ogni 8 ore di riposo, nelle 24 ore, si recupera 1d4 + Costituzione in Punti Feri
 
 Il **Tiro per Colpire** è dato dall'insieme delle capacità combattive (Competenza Armi e bonus concessi da Lista d'Armi), Forza, armi magiche e tutto ciò che influisce nel combattimento. Se l'**attaccante** porta l'attacco con:
 
-- **Armi da Mischia o Contatto**: l'attaccante deve effettuare un **Tiro per Colpire (TC)**= 3d6 + Competenza Armi + Forza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni...)
-- **Armi da Distanza**: l'attaccante deve effettuare un Tiro per Colpire (TC) = 3d6 + Competenza Armi + Destrezza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni...). Vale per archi, balestre, pugnali tirati, giavellotti...
+- **Armi da Mischia o Contatto**: l'attaccante deve effettuare un **Tiro per Colpire (TC)**= 3d6 + Competenza Armi + Forza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni…)
+- **Armi da Distanza**: l'attaccante deve effettuare un Tiro per Colpire (TC) = 3d6 + Competenza Armi + Destrezza + eventuali bonus dati dalla Lista d'Armi + Abilità + bonus magici dell'arma e fattori circostanziali (ambiente, maledizioni…). Vale per archi, balestre, pugnali tirati, giavellotti…
 - **Incantesimo**: vedi Capitolo sulla Magia 
 
 Il giocatore può decidere di rinunciare a parte del bonus dato dalla Competenza Armi per ottenere un punteggio migliore di Difesa. Questi punti non saranno a disposizione nell'attacco successivo (vedi Altre azioni e situazioni).
@@ -286,9 +286,9 @@ Ogni Tiro per Colpire si confronta con la Difesa.
 
 Se il **Tiro per Colpire** è pari o superiore al valore della Difesa, l'avversario è stato colpito e si stabilirà il danno della ferita, dato dal dado dell'arma + punteggio di Forza e altri fattori quali bonus magici, Lista d'Armi e Abilità.
 
-Se il Tiro per Colpire (TC) è più basso della Difesa, allora l'avversario avrà parato, schivato o evitato l'attacco... La scelta è lasciata al giocatore (o Narratore): evitato l'attacco, non si subiscono ferite.
+Se il Tiro per Colpire (TC) è più basso della Difesa, allora l'avversario avrà parato, schivato o evitato l'attacco… La scelta è lasciata al giocatore (o Narratore): evitato l'attacco, non si subiscono ferite.
 
-Ci sono situazioni che possono avvantaggiare la Difesa quali coperture, nascondigli, trincee, porte, compagni di taglia molto più grande della propria, invisibilità... Consultate i paragrafi relativi ai Nascondigli e Coperture per capire il vantaggio che possono dare.
+Ci sono situazioni che possono avvantaggiare la Difesa quali coperture, nascondigli, trincee, porte, compagni di taglia molto più grande della propria, invisibilità… Consultate i paragrafi relativi ai Nascondigli e Coperture per capire il vantaggio che possono dare.
 
 Ci sono occasioni in cui non è importante penetrare la difesa e ferire l'avversario ma semplicemente basta toccarlo.
 
@@ -315,7 +315,7 @@ Anche per il Tiro per Colpire valgono le regole base delle Competenze. La Difesa
 
 ## Tirare 3 volte 1
 
-Se hai tirato tre volte 1 hai mancato, indipendentemente dal risultato finale. Il Narratore potrebbe anche decidere che succedano brutte cose... (ad esempio vedi Tabella Fallimento Tiri per Colpire, pag. )
+Se hai tirato tre volte 1 hai mancato, indipendentemente dal risultato finale. Il Narratore potrebbe anche decidere che succedano brutte cose… (ad esempio vedi Tabella Fallimento Tiri per Colpire, pag. )
 
 ## Tirare 3 volte 6
 
@@ -346,7 +346,7 @@ Con **un'Azione** il personaggio può eseguire un **singolo Tiro per Colpire**.
 Con **due Azioni** il personaggio può effettuare fino a **due Tiri per Colpire**. **Se vuole fare 3 o più attacchi deve usare 3 Azioni**.
 
 Ogni singola freccia, dardo, pugnale o arma con gittata scagliata conta come un attacco.
-La prima Azione di attacco non ha penalità, mentre la seconda Azione di attacco ha -5 al Tiro per Colpire. I successivi Tiri per Colpire cumuleranno -5 al colpire, quindi un terzo attacco avrà -10 e un quarto attacco -15...
+La prima Azione di attacco non ha penalità, mentre la seconda Azione di attacco ha -5 al Tiro per Colpire. I successivi Tiri per Colpire cumuleranno -5 al colpire, quindi un terzo attacco avrà -10 e un quarto attacco -15…
 Se la penalità al colpire cumulativa diventa maggiore del Tiro per Colpire non è più possibile fare ulteriori attacchi.
 
 I personaggi con Tiro per Colpire meno di 6 possono scegliere di effettuare 2 attacchi spendendo 2 Azioni ma applicando una penalità di -4 ad entrambi gli attacchi invece della progressione standard. Questo permette anche ai personaggi di livello basso di sfruttare efficacemente le loro Azioni in combattimento anche se con significative penalità.
@@ -363,7 +363,7 @@ I personaggi che non possono effettuare attacchi multipli possono utilizzare le 
 
 Le armi da lancio, o da tiro, sono tutte le armi con una gittata, ovvero che possono essere lanciate o che lanciano proiettili. Le principali armi da lancio sono gli archi, le balestre e le fionde, ma anche pugnali, giavellotti o lance qualora siano scagliati.
 
-Il bonus al danno dato da Forza si applica in automatico per fionde, pugnali e giavellotti... ovvero con tutte le armi che vengono scagliate con la forza; gli archi applicano questo bonus solo se sono di tipo composito, le balestre non lo applicano mai.
+Il bonus al danno dato da Forza si applica in automatico per fionde, pugnali e giavellotti… ovvero con tutte le armi che vengono scagliate con la forza; gli archi applicano questo bonus solo se sono di tipo composito, le balestre non lo applicano mai.
 
 La Destrezza modifica solo il Tiro per Colpire.
 
@@ -416,7 +416,7 @@ Queste armi sono leggere e indicate per il combattimento a due armi.
 Gli attacchi fatti con l'arma secondaria si considerano attacchi multipli.
 Se attacco una prima volta, indipendentemente dal fatto che sia con l'arma primaria o secondaria, questo avrà il Tiro per Colpire a bonus pieno; gli altri attacchi cumuleranno il -5 al colpire.
 
-Il bonus al danno dato dalla Forza sull'arma secondaria viene dimezzato. Se l'arma secondaria non è **Leggera**, il Tiro per Colpire ha un ulteriore -3 al colpire (es. 0, -8, -10, -18...).
+Il bonus al danno dato dalla Forza sull'arma secondaria viene dimezzato. Se l'arma secondaria non è **Leggera**, il Tiro per Colpire ha un ulteriore -3 al colpire (es. 0, -8, -10, -18…).
 
 *Nota: Il -3 si applica solo agli attacchi effettuati con l'arma secondaria. Nell'esempio, 0 è il primo attacco (arma primaria), -8 è il secondo attacco (arma secondaria: -5 per attacco multiplo -3 per arma non leggera), -10 è il terzo attacco (arma primaria), -18 è il quarto attacco (arma secondaria: -15 per attacco multiplo -3 per arma non leggera).*
 
@@ -426,9 +426,9 @@ Il bonus al danno dato dalla Forza sull'arma secondaria viene dimezzato. Se l'ar
 
 L'avversario deve essere entro 2 Azioni di movimento (18 o 12 metri solitamente) e a non meno di 3 metri; il terreno non deve essere difficile (vedi anche Abilità Rinoceronte, pag. ). Si deve correre fino a essere a distanza di mischia.
 
-Si ottiene un +1d6 al Tiro per Colpire, -4 alla Difesa fino all'inizio del proprio round successivo; l'attacco successivo al primo prende un -10 al colpire e un eventuale successivo -15, 20...
+Si ottiene un +1d6 al Tiro per Colpire, -4 alla Difesa fino all'inizio del proprio round successivo; l'attacco successivo al primo prende un -10 al colpire e un eventuale successivo -15, 20…
 
-*Nota: La progressione degli attacchi durante la carica (+1d6, -10, -15, -20...) è diversa dagli attacchi multipli standard (0, -5, -10, -15...). Questa differenza è intenzionale: effettuare un secondo attacco dopo una carica è più difficile rispetto ad attacchi multipli normali.*
+*Nota: La progressione degli attacchi durante la carica (+1d6, -10, -15, -20…) è diversa dagli attacchi multipli standard (0, -5, -10, -15…). Questa differenza è intenzionale: effettuare un secondo attacco dopo una carica è più difficile rispetto ad attacchi multipli normali.*
 
 Il movimento e l'attacco costano 2 Azioni. Non si considerano altre penalità per aver corso oltre a quelle indicate.
 
@@ -438,7 +438,7 @@ L'Azione di Carica ti porta addosso, in mischia, con l'avversario. L'attacco, se
 
 Se effettui una Carica e il Tiro per Colpire ha successo, la tua arma con tratto Controcarica infligge un Tiro Critico aggiuntivo.
 
-### Preparare una arma lunga/da controcarica contro una carica 
+### Preparare un'arma lunga/da controcarica contro una carica 
 
 Solo un'arma con il tratto Controcarica può essere usata contro una carica. Preparare l'arma contro una carica costa una Reazione.
 
@@ -446,7 +446,7 @@ Se chi carica ha una portata minore dell'avversario, allora chi prepara la contr
 
 ## Attacchi con armi a spargimento 
 
-Sono armi a spargimento quelle che *spargono* il loro contenuto dove cadono, ad esempio olio incendiato/Acqua santa... Un'arma a spargimento ha una gittata di 6 metri.
+Sono armi a spargimento quelle che *spargono* il loro contenuto dove cadono, ad esempio olio incendiato/Acqua santa… Un'arma a spargimento ha una gittata di 6 metri.
 
 In caso l'attacco manchi (di almeno 5), tirate un d8 e consultate questo schema per capire dove è caduta la fiala, poi tirate 2d6 per determinare, lungo la direzione indicata dal d8 precedente, a quanti metri di distanza è caduta dal bersaglio, ovvero contate i metri dal bersaglio.
 
@@ -454,7 +454,7 @@ In caso l'attacco manchi (di almeno 5), tirate un d8 e consultate questo schema 
 
 Ad esempio con il tiro del d8 faccio 5 e poi tirando 2d6 faccio 4, significa che la boccetta è caduta a destra del bersaglio a 4 metri.
 
-È anche possibile che ci si sia tirati la boccetta sui piedi (es. faccio 7 e poi 6... potrei averla tirata addosso a un compagno o dietro di me!).
+È anche possibile che ci si sia tirati la boccetta sui piedi (es. faccio 7 e poi 6… potrei averla tirata addosso a un compagno o dietro di me!).
 
 ## Impreparato -- Colti di Sorpresa
 
@@ -474,7 +474,7 @@ L'incantatore che lancia una magia mentre è in combattimento (ha un avversario 
 
 Il migliore suggerimento che si può dare nel gestire le situazioni di combattimento più caotiche è pensare a queste come a un film: valutate la cinematicità della situazione.
 
-Non è una questione di miniature, spazi o quadretti... è una questione di divertimento e visualizzazione della scena. Soluzioni non ortodosse per situazioni non ortodosse.
+Non è una questione di miniature, spazi o quadretti… è una questione di divertimento e visualizzazione della scena. Soluzioni non ortodosse per situazioni non ortodosse.
 
 Concedete un bonus o una penalità ($\pm 1-2$), se non indicato diversamente, ogniqualvolta il giocatore abbia un vantaggio o uno svantaggio, e allo stesso modo all'avversario.
 
@@ -491,8 +491,8 @@ In linea di principio, in combattimento, un bonus leggero è un +1, medio +2, al
 | **Mod**. | *Situazione* | *Situazione* |
 | **-1** | Affaticato (1), Luce fioca | Affaticato (1) |
 | **-2** | Affaticato (2), Intralciato | Affaticato (2), Afferrato, Intralciato, Sorpreso |
-| **-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato ad una parete, Bloccato |
-| **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato ad una parete, Bloccato | |
+| **-4** | Affaticato (4), Prono, Arma Lunga a corta distanza, attacco non letale con arma letale | Affaticato (4), Prono, In ginocchio, Seduto, Ristretto, Stordito, Afferrato a una parete, Bloccato |
+| **-1d6** | Ristretto, Spaventato, Arma da Lancio contro avversario in mischia, Arma non conosciuta, Bersaglio invisibile ma Individuato, Afferrato a una parete, Bloccato | |
 | **+2** | Fiancheggia, Posizione Sopraelevata, Attacca alle spalle | Copertura leggera |
 | **+4** |  | Copertura media |
 | **+1d6** | Invisibile, Carica, avversario Indifeso | |
@@ -560,7 +560,7 @@ Non puoi usare la capacità Versatile di un'arma se non la sai usare. Calci e Pu
 
 Una spada o comunque un'arma non fatta per essere lanciata, senza Gittata, può comunque essere scagliata contro l'avversario.
 
-Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore (la spada lunga fa 1d6, una spada corta fa 1d4...). La gittata di lancio è 3 metri.
+Il Tiro per Colpire prende un -1d6 e l'arma fa una categoria di danno inferiore (la spada lunga fa 1d6, una spada corta fa 1d4…). La gittata di lancio è 3 metri.
 
 ### Colpi Potenti
 
@@ -570,7 +570,7 @@ Il personaggio al momento dell'attacco può dichiarare di aggiungere un +1 al da
 
 Se due personaggi sono attorno allo stesso bersaglio, ma non sono a fianco tra loro, prendono +2 al Tiro per Colpire o alla Difesa (a loro scelta quale bonus prendere).
 
-Al massimo ci possono essere 4 personaggi attorno ad una creatura di taglia media che prendono il bonus di fiancheggiare. Il tipo di bonus si sceglie round per round, se non dichiarato vale come +2 al Tiro per Colpire.
+Al massimo ci possono essere 4 personaggi attorno a una creatura di taglia media che prendono il bonus di fiancheggiare. Il tipo di bonus si sceglie round per round, se non dichiarato vale come +2 al Tiro per Colpire.
 
 Se, tirando un'ipotetica riga che collega i due personaggi, questa attraversa completamente il quadretto dell'avversario, allora c'è la situazione di fiancheggiamento.
 
@@ -647,7 +647,7 @@ Una creatura può usare un'arma della propria taglia o di un solo grado inferior
 
 Se l'arma è di taglia superiore a quella usabile con 2 mani, ad esempio un'Alabarda (arma grande) per una creatura di taglia piccola, la penalità al Tiro per Colpire è -1d6. Lo stesso principio è valido per uno spadone a due mani di taglia grande (2d8 di danno) nelle mani di una creatura di taglia media.
 
-Nella tabella delle armi la dimensione è segnata come P (piccola), M (media), G (grande), E (enorme) ed è riferita a una creatura di taglia media. Una versione *più grande* di un'arma aumenta di una categoria il danno dell'arma (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6...).
+Nella tabella delle armi la dimensione è segnata come P (piccola), M (media), G (grande), E (enorme) ed è riferita a una creatura di taglia media. Una versione *più grande* di un'arma aumenta di una categoria il danno dell'arma (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6…).
 
 Es. una spada lunga grande (+1 taglia) passa da 1d8 a 1d10 di danno.
 
@@ -680,7 +680,7 @@ Vedi anche Capitolo Visione e Luce .
 
 Queste Azioni di combattimento sono a discrezione del Narratore, che può concederle o meno. **Ogni manovra conta come Azione di Attacco** per quanto riguarda le penalità del multiattacco.
 
-Quando queste manovre sono fatte dagli avversari e non sono indicati i valori di Tiro per Colpire, Atletica, Ingannare... contrapporre alla prova il Tiro Salvezza indicato dopo il costo in Azioni e i modificatori suggeriti (Taglia...).
+Quando queste manovre sono fatte dagli avversari e non sono indicati i valori di Tiro per Colpire, Atletica, Ingannare… contrapporre alla prova il Tiro Salvezza indicato dopo il costo in Azioni e i modificatori suggeriti (Taglia…).
 
 ### Disarmare*
 
@@ -780,6 +780,9 @@ Usate questi esempi come linee guida per stimolare il personaggio a creare un pr
 - **Vari**: Per ogni Tiro Critico usato, aggiungi un'ulteriore gittata alla tua arma.
 - **Vari**: Per ogni due Tiri Critici usati, aggiungi +4 al prossimo Tiro per Colpire entro la fine del round successivo.
 - **5**: *Freccia Kennedy*. Entro la fine del tuo prossimo round il primo proiettile ignora qualsiasi copertura o ostacolo e se fisicamente possibile colpisce l'avversario
+	
+
+>>> **Azioni Critiche**: Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi…
 - **Furia**
 
 - **1**: Incitare i compagni. I tuoi compagni entro 6 metri hanno al loro primo attacco +2 al Tiro per Colpire
@@ -795,8 +798,6 @@ Usate questi esempi come linee guida per stimolare il personaggio a creare un pr
 - **4**: Fino alla fine del tuo prossimo round tutti i compagni nel raggio di 9 metri hanno +4 alla Difesa
 - **5**: Per 1d6 round tutti i tuoi compagni hanno +4 alla Difesa
 	
-
->>> **Azioni Critiche**: Queste Azioni Critiche possono essere descritte come approfittare della distrazione dell'avversario, gettare terra negli occhi, costringere a colpi di arma a spostarsi...
 
 > Onestà e Giustizia, Eroico Coraggio, Compassione, Gentile Cortesia, Completa Sincerità, Onore, Dovere e Lealtà (I sette princìpi del bushido)
 
@@ -842,6 +843,9 @@ Le Manovre d'Arme sono raggruppate per livello, ovvero il punteggio minimo di Co
 - **Intimidazione Superiore** - Attiv.: ***Dispari***. *Effetto*: L'avversario subisce -4 al primo attacco contro di te entro la fine del prossimo round. *Critico*: Entro la fine del prossimo round, l'avversario in mischia non può infliggere danni critici contro di te.
 - **Ferita Sanguinante** - Attiv.: ***Pari***. *Effetto*: L'avversario subisce +1 al sanguinamento. *Critico*: +2 al sanguinamento e il personaggio subisce danni pari al modificatore di Forza.
 - **Valutazione Strategica** - Attiv.: ***Pari***. *Effetto*: Il prossimo attacco a segno entro la fine del prossimo round infligge un danno critico in più. *Critico*: Come sopra, ma infligge due danni critici; il round successivo esegui un'Azione in meno.
+	
+
+>>> **Partecipazione nel bene e nel male**: Invitate il giocatore a creare un suo stile di *fallimento*, fatelo gioire di un *fumble*!
 - **Manovre livello 12**
 
 - **Assalto Incessante** - Attiv.: ***Mancato***. *Effetto*: Il prossimo round hai un +1 cumulativo al Tiro per Colpire per ogni volta che attacchi. *Critico*: Il prossimo round hai solo 1 Azione. Se la usi per attaccare e colpisci, causi 2 danni critici in più.
@@ -851,17 +855,7 @@ Le Manovre d'Arme sono raggruppate per livello, ovvero il punteggio minimo di Co
 - **Furia Incontenibile** - Attiv.: ***Pari***. *Effetto*: Confronta il Tiro per Colpire con un avversario adiacente per capire se l'hai colpito; se sì, somma anche un danno critico. *Critico*: Fino alla fine del prossimo round hai -4 alla Difesa, +1d6 al Tiro per Colpire e ogni attacco andato a segno causa un danno critico aggiuntivo.
 	
 
->>> **Partecipazione nel bene e nel male**: Invitate il giocatore a creare un suo stile di *fallimento*, fatelo gioire di un *fumble*!
-
 ## Cavalcature
-
-> - E ti puoi trovare un'altra moglie!
-
-- Ah, questo sì. Ma il guaio è che mi ha portato via il fucile e il cavallo! Peccato, era così bella, io mi ci ero affezionato. Le davo qualche frustata, ma lei non ci faceva caso.
-
-- Chi, tua moglie?
-
-- No, la mia cavalla. A trovare un'altra moglie si fa presto, ma una cavalla come quella non la ritrovo più. (Ombre rosse, film 1939)
 
 Per comandare una cavalcatura è necessario avere la competenza Cavalcare, altrimenti è solo possibile dare la direzione del movimento.
 
@@ -870,6 +864,14 @@ Una cavalcatura ha 2 Azioni, che di norma sono usate per spostarsi, reagire e ub
 Una cavalcatura agisce nel tuo round e sei tu a decidere quando esegue le sue Azioni rispetto alle tue. Non tira l'iniziativa, usa la tua.
 
 Gli attacchi verso un personaggio su un saurovallo (o cavalcatura in genere) se non dichiarati diversamente mirano al cavaliere e non al saurovallo.
+
+> - E ti puoi trovare un'altra moglie!
+
+- Ah, questo sì. Ma il guaio è che mi ha portato via il fucile e il cavallo! Peccato, era così bella, io mi ci ero affezionato. Le davo qualche frustata, ma lei non ci faceva caso.
+
+- Chi, tua moglie?
+
+- No, la mia cavalla. A trovare un'altra moglie si fa presto, ma una cavalla come quella non la ritrovo più. (Ombre rosse, film 1939)
 
 ### Situazioni e regole
 
@@ -894,7 +896,5 @@ Spendendo 1 tua Azione puoi far eseguire 2 di queste Azioni alla cavalcatura: Mu
 Se la cavalcatura è intelligente questa potrebbe agire e muoversi come preferisce a discapito delle indicazioni del cavaliere. Potrebbe fuggire dal combattimento, lanciarsi all'attacco e divorare un nemico ferito gravemente, o agire in qualche altro modo contro la volontà di chi la cavalca.
 
 > Artax galoppava attraverso la Palude della Tristezza, e a ogni passo i suoi zoccoli affondavano più profondamente. (La Storia Infinita, Michael Ende)
-
-Il cavallo conosce la strada verso casa anche quando il cavaliere ha smarrito la via. (Le Tombe di Atuan, Ursula K. Le Guin)
 
 ---

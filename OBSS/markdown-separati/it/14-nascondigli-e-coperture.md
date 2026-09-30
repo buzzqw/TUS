@@ -17,13 +17,13 @@ Può essere il caso di un arciere in piedi dietro un muretto di 1 metro.
 - Se l'obiettivo ha **meno della metà** (ma almeno un terzo) della superficie **visibile** allora la copertura si definisce **media**, ovvero ha +4 alla Difesa. Può essere il caso di una creatura dietro un'altra creatura di 2 taglie più grande.
 
 Può essere il caso di un nemico armato di balestra che si sporge quel tanto per tenere appoggiata la balestra al muretto e sparare (petto, spalle, braccia e testa visibili).
-- Se l'obiettivo si sa dove è ma **si nasconde completamente** affacciandosi solo per controllare o tirare una freccia ogni tanto, dietro ad un muro, finestra, porta, tavolo, una creatura più grande di lui (almeno 3 taglie)... allora la copertura si definisce **completa**, ovvero ha +8 alla Difesa.
+- Se l'obiettivo si sa dove è ma **si nasconde completamente** affacciandosi solo per controllare o tirare una freccia ogni tanto, dietro a un muro, finestra, porta, tavolo, una creatura più grande di lui (almeno 3 taglie)… allora la copertura si definisce **completa**, ovvero ha +8 alla Difesa.
 
-Metà del bonus di copertura si applica anche ai **Tiri Salvezza** contro Incantesimi che abbiano un **effetto ad area** (es. Palle di Fuoco che esplodano intorno...).
+Metà del bonus di copertura si applica anche ai **Tiri Salvezza** contro Incantesimi che abbiano un **effetto ad area** (es. Palle di Fuoco che esplodano intorno…).
 
 ### Combattimento con armi da tiro in caso di Copertura
 
-Quando si effettuano attacchi con armi da lancio (archi, balestre, pugnali, giavellotti...) contro avversari con copertura, è necessario verificare bene la linea di tiro e controllare quante creature vi sono all'interno.
+Quando si effettuano attacchi con armi da lancio (archi, balestre, pugnali, giavellotti…) contro avversari con copertura, è necessario verificare bene la linea di tiro e controllare quante creature vi sono all'interno.
 
 Ogni creatura di taglia uguale all'avversario in linea, che *copre* l'obiettivo aumenta di un grado la copertura fornita.
 
@@ -53,11 +53,11 @@ La prova di Consapevolezza può essere fatta contestualmente all'Azione di Movim
 
 A seconda della distanza della creatura invisibile o di ciò che questa ha fatto nel round precedente sono presenti diversi modificatori alla prova di Consapevolezza per individuarla.
 
->>> **Invisibilità**: La prova di Consapevolezza ha una difficoltà alta per un personaggio di basso livello. State ben attenti a considerare tutti i modificatori del caso, altrimenti i personaggi difficilmente potranno individuarla e attaccheranno quadretti a caso...
+>>> **Invisibilità**: La prova di Consapevolezza ha una difficoltà alta per un personaggio di basso livello. State ben attenti a considerare tutti i modificatori del caso, altrimenti i personaggi difficilmente potranno individuarla e attaccheranno quadretti a caso…
 
 **Tabella: Modificatori alla DC di Consapevolezza per Rilevare Creature Invisibili**
 
-| **La Creatura Invisibile...** | **Mod.** |
+| **La Creatura Invisibile…** | **Mod.** |
 | --- | --- |
 | Si è mossa | -4 |
 | Ha scagliato un proiettile | -4 |
@@ -90,7 +90,7 @@ Le creature invisibili lasciano impronte. Le loro tracce possono essere seguite 
 
 Una creatura invisibile nell'acqua muove il liquido, rivelando la propria posizione. La creatura invisibile rimane comunque difficile da colpire e gode dei benefici di una copertura media (+4 alla Difesa).
 
-Una torcia accesa invisibile emana comunque luce (così come un oggetto invisibile soggetto ad una magia di luce).
+Una torcia accesa invisibile emana comunque luce (così come un oggetto invisibile soggetto a una magia di luce).
 
 Le creature invisibili non possono utilizzare gli attacchi con lo sguardo. L'invisibilità non influisce sull'essere obiettivo di un incantesimo di Divinazione.
 

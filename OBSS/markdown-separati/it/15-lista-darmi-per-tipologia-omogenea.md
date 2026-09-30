@@ -2,7 +2,7 @@
 
 > La forza non risiede in una Spada, ma nelle braccia di un valoroso. (The Legend of Zelda: Twilight Princess)}
 
-Ogni qual volta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o apprendere una nuova, se non si dichiara l'uso questo è assegnato alla Lista delle Armi Semplici.
+Ogniqualvolta si assegna un punto a Competenza Armi si può decidere se continuare a perfezionarsi in una Lista di Armi già nota o apprendere una nuova, se non si dichiara l'uso questo è assegnato alla Lista delle Armi Semplici.
 
 Nella scheda segnatevi a quale Lista d'Armi assegnate il punto di Competenza Armi.
 
@@ -45,7 +45,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 - 6 punti: la diminuzione del Tiro Critico subito si applica anche agli attacchi a distanza. Annulli la penalità alla Competenza ed al Movimento. Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
 - 7 punti: Diminuisci di ulteriori 2 la penalità alla Prova di Magia.
 
-## Armi Leggere Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia ad una mano, Pugnale
+## Armi Leggere Spada Corta, Mazza leggera, Stocco, Scimitarra, Ascia a una mano, Pugnale
 
 - 4 punti: puoi usare la Destrezza al posto della Forza nel Tiro per Colpire.
 - 5 punti: puoi estrarre l'arma come parte dell'Azione di Movimento.
@@ -65,7 +65,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 
 ## Armi aggraziate Stocco, Scimitarra, Falcione
 
-- 4 punti: il tuo stile assomiglia molto ad una danza. Puoi usare il valore del Carisma o Destrezza al Tiro per Colpire.
+- 4 punti: il tuo stile assomiglia molto a una danza. Puoi usare il valore del Carisma o Destrezza al Tiro per Colpire.
 - 5 punti: puoi usare il punteggio di Intrattenere al posto di Competenza Armi nel Tiro per Colpire.
 - 7 punti: sai colpire dove fa veramente male. Il primo Colpo Critico somma un colpo critico aggiuntivo.
 - 9 punti: il dado dell'arma aumenta di una categoria.
@@ -90,7 +90,7 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 - 11 punti: la tua arma da stordimento fa 1d6 di danno non letale in più. Il Tiro Salvezza dell'abilità a 4 punti diventa 23
 - 16 punti: ogni volta che colpisci con un danno critico un avversario, un compagno in mischia con quell'avversario può usare una Reazione per effettuare un attacco contro di lui.
 
-## Armi da Lancio Ascia ad una mano, Giavellotto, Tridente, Fionda, Pugnale
+## Armi da Lancio Ascia a una mano, Giavellotto, Tridente, Fionda, Pugnale
 
 - 4 punti: sei diventato estremamente preciso nel lancio della tua arma hai un +1 al colpire e un +1 ai danni.
 - 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
@@ -117,11 +117,11 @@ Questa Lista conferisce solo i bonus cumulativi qui elencati quando si indossa u
 - 11 punti: la gittata se assente diventa 3 metri, se presente la raddoppi.
 - 16 punti: usando una Reazione puoi seguire l'avversario mantenendo la distanza attuale di mischia. Non puoi spostarti più del tuo Movimento.
 
-## BalestreBalestra leggera, Balestra pesante, Balestra ad una mano
+## BalestreBalestra leggera, Balestra pesante, Balestra a una mano
 
 - 4 punti: guadagni l'Abilità Tiro Rapido .
 - 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
-- 7 punti: ogni Azione che dedichi a mirare, fino ad un massimo di 2, ti concede un +2 a colpire.
+- 7 punti: ogni Azione che dedichi a mirare, fino a un massimo di 2, ti concede un +2 a colpire.
 - 9 punti: il primo Tiro Critico che esegui sull'avversario somma due colpi critici in aggiunta, non si cumula con il vantaggio al punto 5.
 - 11 punti: riduci di 6 la penalità per tirare oltre la gittata standard.
 - 16 punti: riduci di 6 la penalità per tirare oltre la gittata standard.
@@ -168,7 +168,7 @@ Consultate Vulnerabilità, Resistenza e Immunità  per sapere quanto è magico i
 
 Puoi scegliere di ridurre di 4 il Tiro per Colpire per aumentare il danno di 8 (non cumulabile con Colpi Potenti).
 - 5 punti: il primo Tiro Critico che esegui sull'avversario somma un colpo critico aggiuntivo.
-- 7 punti: i tuoi colpi frastornano il nemico. Ogni Tiro Critico andato a segno abbassa la Difesa di 1 punto, fino ad un massimo di 3. L'avversario recupera all'inizio del suo round un punto di penalità.
+- 7 punti: i tuoi colpi frastornano il nemico. Ogni Tiro Critico andato a segno abbassa la Difesa di 1 punto, fino a un massimo di 3. L'avversario recupera all'inizio del suo round un punto di penalità.
 - 9 punti: aumenti di un grado il dado di danno dell'arma.
 - 11 punti: il vantaggio a 5 punti diventa di due colpi critici.
 - 16 punti: usando una Reazione, ogni volta che colpisci con un Tiro Critico, puoi effettuare un altro Tiro per Colpire con lo stesso punteggio contro un diverso avversario purché in distanza di mischia.
@@ -183,23 +183,23 @@ Non hai penalità al colpire con lo scudo, per te lo scudo non è un'arma improv
 La tua tecnica mescola efficacemente difesa e attacco. Puoi lanciare il tuo scudo con una gittata di 6 metri.
 
 - 1 punto: sei competente in tutte le tipologie di scudo. Non hai il vincolo del limite di Forza 1 sugli Scudi Pesanti.
-- 2 punti: il bonus di Difesa quando usi lo scudo aumenta di 1 e ogni 4 volte che prendi questa Lista d'Armi (6,10,14,18..) Non usi Azioni per ripristinare lo scudo in Difesa dopo aver effettuato un attacco con lo stesso.
+- 2 punti: il bonus di Difesa quando usi lo scudo aumenta di 1 e ogni 4 volte che prendi questa Lista d'Armi (6,10,14,18…) Non usi Azioni per ripristinare lo scudo in Difesa dopo aver effettuato un attacco con lo stesso.
 - 3 punti: la penalità alla Prova di Magia data dallo scudo diminuisce di 2
 - 4 punti: la penalità al Tiro per Colpire diminuisce di 1.
-- 5 punti: aumenta di 1 la categoria di danno dello scudo ed ogni 4 punti ulteriori in lista (9,13,17..).
-- 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Puoi lanciare lo scudo entro 6m per difendere un compagno garantendogli +2 alla Difesa, da usare come Reazione. Lo scudo cade a terra dove hai difeso il compagno. Puoi lanciare il tuo scudo con una gittata di 9 metri. La penalità Prova di Magia data dallo scudo diminuisce di ulteriori 2.
+- 5 punti: aumenta di 1 la categoria di danno dello scudo ed ogni 4 punti ulteriori in lista (9,13,17…).
+- 8 punti: ogni alleato adiacente (entro 1 metro) a te ha un +1 Difesa. Puoi lanciare lo scudo entro 6 m per difendere un compagno garantendogli +2 alla Difesa, da usare come Reazione. Lo scudo cade a terra dove hai difeso il compagno. Puoi lanciare il tuo scudo con una gittata di 9 metri. La penalità Prova di Magia data dallo scudo diminuisce di ulteriori 2.
 - 12 punti: puoi lanciare il tuo scudo come fosse un'arma con gittata 12 metri. Se colpisci ed ottieni un Tiro Critico nel lancio dello scudo questo torna nelle tue mani a fine round. Ogni alleato adiacente (entro 1 metro) a te ha un +2 Difesa.
 - 16 punti: se un avversario esegue almeno due tiri per colpire mancandoti entrambi puoi effettuare come Reazione un attacco di scudo contro di lui.
 - 18 punti: lo scudo lanciato ha una gittata di 18 metri e torna nelle tue mani, se non impossibilitato. Questo ti permette di effettuare attacchi multipli anche da lancio con il medesimo scudo. Puoi lanciare lo scudo per difendere un compagno garantendogli +4 alla Difesa, da usare come Reazione. Lo scudo cade a terra dove hai difeso il compagno.
 
 I bonus indicati si applicano una volta sola anche se si usano più scudi.
 
-## Scuri e Accette Ascia ad una mano, Ascia da battaglia, Ascia Martello, Grande Ascia Doppia, attacchi naturali del Sornelian
+## Scuri e Accette Ascia a una mano, Ascia da battaglia, Ascia Martello, Grande Ascia Doppia, attacchi naturali del Sornelian
 
 - 4 punti: la furia dei tuoi attacchi è tale che guadagni un +2 al danno sul colpo.
 - 5 punti: se uccidi una creatura con un colpo critico il danno in eccesso, se il Tiro per Colpire è sufficiente, lo prende un'altra creatura in mischia con te.
-- 7 punti: le ferite che provochi sono così profonde che causi Sanguinamento. Ogni tuo attacco andato a segno aumenta di 1 il sanguinamento fino ad un massimo di Sanguinamento 5.
-- 9 punti: ogni colpo critico che provochi aumenta il Sanguinamento di 2, fino ad un massimo di 10.
+- 7 punti: le ferite che provochi sono così profonde che causi Sanguinamento. Ogni tuo attacco andato a segno aumenta di 1 il sanguinamento fino a un massimo di Sanguinamento 5.
+- 9 punti: ogni colpo critico che provochi aumenta il Sanguinamento di 2, fino a un massimo di 10.
 - 11 punti: le ferite che provochi sono così profonde che causi molto Sanguinamento. Il valore di Sanguinamento massimo sale a 15.
 - 16 punti: consumi 3 Azioni, effettui un singolo Tiro per Colpire che confronti contro tutte le creature in un cono pari al tuo movimento per capire se le hai colpite. Al termine dell'attacco sei in fondo al cono.
 

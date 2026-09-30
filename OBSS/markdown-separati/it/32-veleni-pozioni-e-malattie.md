@@ -1,8 +1,8 @@
 # Veleni, Pozioni e Malattie
 
-> Un giorno, un uomo fu colpito da una freccia avvelenata. Gli amici e i parenti, in ansia, chiamarono un medico. Quando gli si avvicinarono per prendere la freccia, l'uomo disse loro: "Prima di farlo, vorrei sapere chi mi ha trafitto con questa freccia... Era uno schiavo, un re, o un bramino? Era grande? Piccolo? Di che colore era la sua pelle? Dove viveva? E la freccia com'è stata costruita? Quale veleno è stato impiegato? ..."
+> Un giorno, un uomo fu colpito da una freccia avvelenata. Gli amici e i parenti, in ansia, chiamarono un medico. Quando gli si avvicinarono per prendere la freccia, l'uomo disse loro: "Prima di farlo, vorrei sapere chi mi ha trafitto con questa freccia… Era uno schiavo, un re, o un bramino? Era grande? Piccolo? Di che colore era la sua pelle? Dove viveva? E la freccia com'è stata costruita? Quale veleno è stato impiegato? …"
 
-Mentre si stava ponendo tutte queste domande... il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)
+Mentre si stava ponendo tutte queste domande… il veleno fece il suo effetto e l'uomo ferito finì per morire. (Budda)
 
 ## Tipo di Veleno e Pozione
 
@@ -17,18 +17,18 @@ Per identificare una pozione naturale è necessaria una prova di Erboristeria a 
 
 **Ferimento**: vengono trasferiti soprattutto con gli attacchi di alcune creature e tramite armi cosparse di veleno. I veleni a ferimento hanno solitamente un tempo di insorgenza istantaneo.
 
-**Inalazione (R)**: si attivano nel momento in cui una creatura entra in un'area che contiene tali veleni. Molti veleni ad inalazione riempiono un volume pari ad un cubo con lato di 3x3x3 metri per dose. Le creature possono tentare di trattenere il fiato mentre si trovano all'interno dell'area per evitare di inalare la tossina.
+**Inalazione (R)**: si attivano nel momento in cui una creatura entra in un'area che contiene tali veleni. Molti veleni ad inalazione riempiono un volume pari a un cubo con lato di 3x3x3 metri per dose. Le creature possono tentare di trattenere il fiato mentre si trovano all'interno dell'area per evitare di inalare la tossina.
 Vedi regole per trattenere il fiato e soffocare in Ambiente .
 
 ## Insorgenza ed Effetto
 
-Per insorgenza si intende quanto tempo ci mette il veleno o la pozione a fare effetto. Se il tempo di insorgenza è 1 Turno significa che per gli effetti del veleno/pozione ed il Tiro Salvezza si aspetta 10 minuti. Se nella tabella del veleno/pozione insorgenza non è specificata significa che l'effetto è immediato dopo l'entrata in contatto con il veleno.
+Per insorgenza si intende quanto tempo impiega il veleno o la pozione a fare effetto. Se il tempo di insorgenza è 1 Turno, significa che per gli effetti del veleno o della pozione e il Tiro Salvezza si aspettano 10 minuti. Se nella tabella del veleno o della pozione l'insorgenza non è specificata, significa che l'effetto è immediato dopo il contatto con il veleno.
 
 L'effetto di un veleno/pozione è immediato dopo l'insorgenza. Verificare la descrizione del veleno per capirne l'effetto. Se il Tiro Salvezza su Tempra riesce il veleno non ha fatto effetto e si può ritenere neutralizzato.
 
 Ci sono alcuni casi in cui è presente la voce Frequenza, in queste occasioni il Tiro Salvezza va ripetuto ogni volta che passa la Frequenza indicata, in caso di fallimento del Tiro Salvezza gli effetti indicati vengono nuovamente applicati.
 
-Bere una pozione tenuta in mano costa 1 Azione Immediata, farla bere ad un compagno privo di sensi costa 2 Azioni.
+Bere una pozione tenuta in mano costa 1 Azione Immediata, farla bere a un compagno privo di sensi costa 2 Azioni.
 
 Se il personaggio **dedica 1 minuto** a bere una Pozione di Cura o Naturale questa avrà effetto massimizzato.
 
@@ -52,7 +52,7 @@ Se si viene esposti a veleni diversi è necessario effettuare un Tiro Salvezza p
 
 ## Applicare il Veleno
 
-Applicare il veleno ad un'arma o ad una munizione richiede 1 Azione.
+Applicare il veleno a un'arma o a una munizione richiede 1 Azione.
 
 Ogni volta che un personaggio applica o prepara un veleno per l'uso deve effettuare una Prova di Erboristeria (DC 11) e se ottiene un fallimento è entrato in contatto con il veleno e ne subisce gli effetti. Se la prova fallisce criticamente ha anche consumato una intera dose del veleno.
 
@@ -85,7 +85,7 @@ Un Erborista può preparare contemporaneamente fino al suo valore in (Erborister
 
 Un Fallimento Critico nella prova di Erboristeria renderà inutili i materiali usati.
 
-Se gli ingredienti si comprano il costo per preparare il veleno è metà del costo di vendita indicato, se si cercano in natura il costo di produzione scende ad un quarto. Il tempo per preparare queste pozioni/veleni è pari alla DC/3 in ore.
+Se gli ingredienti si comprano il costo per preparare il veleno è metà del costo di vendita indicato, se si cercano in natura il costo di produzione scende a un quarto. Il tempo per preparare queste pozioni/veleni è pari alla DC/3 in ore.
 
 Una Pozione che ***Rimuove*** una condizione è efficace se la sua DC è superiore a quella della Condizione stessa. 
 
@@ -93,7 +93,7 @@ Gli esempi seguenti rappresentano solo alcuni dei possibili veleni. Tutti i cost
 
 >>> **Anche Veleni**: I veleni fanno parte della lunga tradizione dei problemi ed avversità nei giochi di ruolo. Non è detto che tutti i veleni debbano uccidere, un abile ladro potrebbe anche usare veleni stordenti o che indeboliscono la volontà del suo obiettivo giusto quel tanto che basta a farsi aprire la cassaforte.
 
-## Come trovare le pianticine...
+## Come trovare le pianticine…
 
 Per *trovare* gli ingredienti per preparare i **veleni** è necessario superare con la prova di Erboristeria la DC indicata dal TS.
 

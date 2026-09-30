@@ -2,7 +2,7 @@
 
 > Creare è vivere due volte. (Albert Camus)
 
-Per Creare Oggetti Magici è necessario avere le Abilità Creazione oggetti magici ed essere capace in una competenza specifica (oreficeria, erboristeria, calligrafia...).
+Per Creare Oggetti Magici è necessario avere le Abilità Creazione oggetti magici ed essere capace in una competenza specifica (oreficeria, erboristeria, calligrafia…).
 
 I costi qui elencati sono quelli di produzione, il ricavo si può attestare attorno al 20\%-50\% del prezzo di produzione.
 
@@ -53,7 +53,7 @@ Creare armature/scudi magiche richiede un giorno per ogni 1000 mo del valore del
 
 ## Creare Armi Magiche
 
-Per creare un'arma magica, un personaggio ha bisogno di una fonte di calore e alcuni attrezzi per lavorare il ferro od il materiale con cui è fatta l'arma. Ha anche bisogno di una provvista di materiali, di cui il più ovvio è l'arma stessa o i pezzi di arma da assemblare. Solo un'arma di qualità può essere incantata per diventare un'arma magica, e il suo costo va aggiunto al costo totale di incantamento per determinare il valore finale di mercato.
+Per creare un'arma magica, un personaggio ha bisogno di una fonte di calore e alcuni attrezzi per lavorare il ferro o il materiale con cui è fatta l'arma. Ha anche bisogno di una provvista di materiali, di cui il più ovvio è l'arma stessa o i pezzi di arma da assemblare. Solo un'arma di qualità può essere incantata per diventare un'arma magica, e il suo costo va aggiunto al costo totale di incantamento per determinare il valore finale di mercato.
 
 Un'arma magica deve avere almeno bonus di +1 per avere una qualsiasi capacità speciale o incantesimo.
 
@@ -143,7 +143,7 @@ Il **tempo di lancio** di un incantesimo da una pergamena è pari al tempo di la
 
 Una pergamena quando viene usata o copiata si distrugge.
 
-**Nota**: un Tomo della Magia è equivalente ad un insieme di pergamene normali. Un personaggio in situazione disperata può leggere la pagina dell'incantesimo dal Tomo della Magia e manifestare la magia come se fosse da una pergamena. Le pagine contenenti l'incantesimo si polverizzeranno e l'incantatore dovrà trovare una sorgente da dove copiare nuovamente l'incantesimo su Tomo. Non può ricopiare sul Tomo lo stesso incantesimo perché l'ha appreso. 
+**Nota**: un Tomo della Magia è equivalente a un insieme di pergamene normali. Un personaggio in situazione disperata può leggere la pagina dell'incantesimo dal Tomo della Magia e manifestare la magia come se fosse da una pergamena. Le pagine contenenti l'incantesimo si polverizzeranno e l'incantatore dovrà trovare una sorgente da dove copiare nuovamente l'incantesimo su Tomo. Non può ricopiare sul Tomo lo stesso incantesimo perché l'ha appreso. 
 
 ## Creare Pozioni
 
@@ -185,9 +185,9 @@ Creare una verga richiede 1 giorno per ogni 500 mo del prezzo base.
 
 ## Aggiungere Nuove Capacità
 
-A volte la mancanza di fondi o tempo rende impossibile realizzare l'oggetto magico voluto ma fortunatamente è possibile potenziare o modificare un oggetto magico creato. Solo il tempo, l'oro ed i vari prerequisiti richiesti dalla nuova capacità che si vuole aggiungere all'oggetto magico pongono delle restrizioni sul tipo di poteri addizionali che uno può infondere.
+A volte la mancanza di fondi o tempo rende impossibile realizzare l'oggetto magico voluto ma fortunatamente è possibile potenziare o modificare un oggetto magico creato. Solo il tempo, l'oro e i vari prerequisiti richiesti dalla nuova capacità che si vuole aggiungere all'oggetto magico pongono delle restrizioni sul tipo di poteri addizionali che uno può infondere.
 
-Il costo per aggiungere capacità addizionali ad un oggetto è lo stesso che se l'oggetto non fosse magico, meno il valore dell'oggetto originale. Quindi una spada lunga +1 può diventare una spada lunga vorpal +2 e il costo della creazione è uguale a quello di una spada lunga vorpal +2 meno il costo di una spada lunga +1.
+Il costo per aggiungere capacità addizionali a un oggetto è lo stesso che se l'oggetto non fosse magico, meno il valore dell'oggetto originale. Quindi una spada lunga +1 può diventare una spada lunga vorpal +2 e il costo della creazione è uguale a quello di una spada lunga vorpal +2 meno il costo di una spada lunga +1.
 
 Quando si determina il prezzo di un oggetto magico inventato bisogna considerare molti fattori. Il modo più semplice per decidere il prezzo è confrontare il nuovo oggetto a un oggetto che ha già un prezzo, e usare tale prezzo come guida.
 

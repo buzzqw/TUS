@@ -81,7 +81,7 @@ Le armature medie offrono più protezione di quelle leggere, ma limitano i movim
 
 **Armature Pesanti**
 
-*Bande*. Questa armatura è fatta di strisce di metallo cucite ad un robusto schienale di cuoio e maglia di ferro. Le dimensioni delle piastre metalliche, interconnesse alle bande di metallo e gli strati di armatura sottostanti la rendono una delle più protettive tra le armature.
+*Bande*. Questa armatura è fatta di strisce di metallo cucite a un robusto schienale di cuoio e maglia di ferro. Le dimensioni delle piastre metalliche, interconnesse alle bande di metallo e gli strati di armatura sottostanti la rendono una delle più protettive tra le armature.
 
 *Mezza Armatura*. La mezza armatura consiste in piastre di metallo sagomate che coprono gran parte del corpo del personaggio. Non comprende protezioni per le gambe oltre a dei semplici schinieri legati con lacci di cuoio.
 
@@ -114,7 +114,7 @@ Un'armatura perfetta è un'armatura creata da un abilissimo fabbro che pur non e
 Un'armatura magica o scudo magico non solo protegge meglio ma è anche più leggera e affine alla magia.
 
 Un'armatura +1 abbassa di 1 la penalità di Competenza e di 1 metro la penalità al movimento.
-Un'armatura o scudo +2 inoltre diminuisce la penalità alla Prova di Magia di 2. Un'armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1m la penalità Movimento e riduce di ulteriori 2 la penalità alla Prova di Magia.
+Un'armatura o scudo +2 inoltre diminuisce la penalità alla Prova di Magia di 2. Un'armatura +3 ulteriormente toglie 1 alla penalità di Competenza, riduce di 1 m la penalità Movimento e riduce di ulteriori 2 la penalità alla Prova di Magia.
 
 ### Gli Scudi
 
@@ -136,7 +136,7 @@ Uno scudo può essere usato come arma improvvisata. Uno scudo piccolo fa 1d4 di 
 
 Usare lo scudo come arma improvvisata non fa applicare il suo bonus alla Difesa se non si usa una Reazione per reimpostarlo alla Difesa dopo aver attaccato.
 
-Imbracciare uno scudo occupa la mano ed il braccio.
+Imbracciare uno scudo occupa la mano e il braccio.
 
 ### Tabella Scudi
 
@@ -169,6 +169,6 @@ Indossare e togliere armature è un'operazione che richiede tempo ed attenzione,
 
 ** Bisogna essere aiutati per indossare questa armatura. Senza aiuto è possibile indossarla solo in fretta.
 
-**Indossare un'armatura in fretta** implica una penalità di -1 alla Difesa fornita dall'Armatura ed una penalità aggiuntiva di +1 alle prove di Competenza di Base.
+**Indossare un'armatura in fretta** implica una penalità di -1 alla Difesa fornita dall'Armatura e una penalità aggiuntiva di +1 alle prove di Competenza di Base.
 
 ---

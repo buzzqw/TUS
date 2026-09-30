@@ -20,7 +20,7 @@ La Forza misura la potenza fisica, l'atletismo e i limiti della forza bruta che 
 
 Una prova di Forza può essere impiegata per qualsiasi tentativo di sollevare, spingere, tirare o spaccare qualcosa, per spingere il tuo corpo all'interno di uno spazio, o una qualsiasi altra applicazione di forza bruta.
 
-Un mostro con Forza -4 non è prossimo a morire, semplicemente ha pochissima forza (immaginate di dare un valore di Forza ad un topo od uno scoiattolo se non ad un piccolo ragno...)
+Un mostro con Forza -4 non è prossimo a morire, semplicemente ha pochissima forza (immaginate di dare un valore di Forza a un topo o uno scoiattolo se non a un piccolo ragno…)
 
 Un personaggio con un punteggio di Forza pari a -5 è morto.
 
@@ -28,7 +28,7 @@ Un personaggio con un punteggio di Forza pari a -5 è morto.
 
 > Abbaiare stanca. La forza non conta niente nella vita. Saper schivare è quello che conta. (Daniel Pennac)
 
-La Destrezza misura l'agilità, i riflessi, l'equilibrio ed il coordinamento; determina la Difesa ed i Tiri per Colpire con Armi da Lancio.
+La Destrezza misura l'agilità, i riflessi, l'equilibrio e il coordinamento; determina la Difesa e i Tiri per Colpire con Armi da Lancio.
 
 Una prova di Destrezza può essere impiegata per qualsiasi tentativo di muoversi agilmente, per evitare di perdere l'equilibrio o borseggiare.
 
@@ -71,13 +71,13 @@ Un personaggio con un punteggio di Saggezza pari a -5 è incapace di pensiero ra
 
 - Per come la vedo io, è un'attitudine innata, come quella di un eroe o di un leader.
 
-- [...] Gli elementi che identificano il carisma sono tre: l'indole innata degli eroi e dei profeti, la capacità di infondere benessere agli altri con la sola presenza e una cultura che ti permetta una conversazione brillante su ogni argomento. (Psycho-Pass)
+- […] Gli elementi che identificano il carisma sono tre: l'indole innata degli eroi e dei profeti, la capacità di infondere benessere agli altri con la sola presenza e una cultura che ti permetta una conversazione brillante su ogni argomento. (Psycho-Pass)
 
 Il Carisma misura la tua capacità di interagire efficacemente con il prossimo. Comprende fattori come la sicurezza e l'eloquenza, può rappresentare una personalità affascinante o autoritaria.
 
 Una prova di Carisma può essere richiesta quando cerchi di influenzare o intrattenere altre persone, quando cerchi di fare impressione o raccontare una menzogna, o quando devi barcamenarti in una complicata situazione sociale.
 
-Il punteggio di Carisma influenza il numero di *tizi* che conosci. Vedi Io conosco un tizio....
+Il punteggio di Carisma influenza il numero di *tizi* che conosci. Vedi Io conosco un tizio….
 
 Tipiche situazioni di utilizzo del Carisma includono tentativi di raggirare una guardia, truffare un mercante, guadagnare soldi al gioco d'azzardo, farsi passare per qualcun altro grazie a un travestimento, fugare i sospetti di qualcuno con false rassicurazioni o mantenere un volto imperturbabile mentre si racconta una lampante menzogna.
 
@@ -121,7 +121,7 @@ In ultimo ricordate che OBSS è un gioco di ruolo dove la morte del personaggio 
 
 ### Modalità base
 
-Il giocatore tira 3d6 per ogni caratteristica ed in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire ad un'altra terzina. Per ogni caratteristica tirata controlla la somma dei dadi tirati con la **Tabella: Tiro Caratteristiche**.
+Il giocatore tira 3d6 per ogni caratteristica e, in ordine, può ritirare una sola volta un 1 tirato per terzina (3d6). Tira poi una settima terzina che può sostituire un'altra terzina. Per ogni caratteristica, confronta la somma dei dadi con la **Tabella: Tiro Caratteristiche**.
 
 Il personaggio così generato acquisisce gratuitamente l'Abilità Duro a morire .
 
@@ -172,7 +172,7 @@ L'aumento di Caratteristica applica immediatamente il modificatore alle Prove di
 
 >>> **Non è tutto nelle Caratteristiche**: I giocatori comunque si lamenteranno delle Caratteristiche tirate: è normale, specialmente per i giocatori più inesperti. Cercate di far loro capire che non devono limitarsi a guardare le Caratteristiche, ma devono vedere l'insieme generale del personaggio. Suggerite loro Abilità che possano aiutarli a sopperire ai valori delle Caratteristiche.
 
->> **Il Personaggio fa schifo!**: Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi... insomma, tutto ciò che vi può aiutare a risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
+>> **Il Personaggio fa schifo!**: Avere delle Caratteristiche basse non è la morte del personaggio! Cercate piuttosto di giocare affinché non sia necessario tirare dadi o fare prove! Sforzatevi di essere arguti, intuitivi, propositivi, furbi… insomma, tutto ciò che vi può aiutare a risolvere la situazione senza dover per forza tirare dadi. In OBSS il Narratore premia i giocatori che descrivono e si esaltano in ciò che il personaggio fa!
 
 > Sono le nostre scelte che mostrano chi siamo veramente, molto più delle nostre capacità. (Albus Silente)
 

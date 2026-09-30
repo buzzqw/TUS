@@ -1,6 +1,6 @@
 # Pericoli in Avventura
 
-> Un'avventura è un risultato ragionevole. Due sono meglio, tre meritano di essere tramandate, e quattro... nessuno potrà mai contestare quattro avventure. (John Steinbeck)
+> Un'avventura è un risultato ragionevole. Due sono meglio, tre meritano di essere tramandate, e quattro… nessuno potrà mai contestare quattro avventure. (John Steinbeck)
 
 Corre meno pericoli colui che, anche se è al sicuro, sta in guardia. (Publilio Siro)}
 
@@ -18,7 +18,7 @@ Se l'incantesimo fallisce il rilascio di energia magica infligge 2d6 danni da fo
 
 Una magia manifestata da un oggetto, che non sia un Artefatto, fallisce sempre.
 
-Se più scoppi sovrapposti colpiscono lo stesso bersaglio, si applica solo quello più dannoso. Una magia che ha resistito ad un tentativo di dissoluzione, non viene influenzata nuovamente a meno che non esca e rientri dalla zona.
+Se più scoppi sovrapposti colpiscono lo stesso bersaglio, si applica solo quello più dannoso. Una magia che ha resistito a un tentativo di dissoluzione, non viene influenzata nuovamente a meno che non esca e rientri dalla zona.
 
 Le zone antimagiche più potenti sono ancora più distruttive. Ogni +1 di incremento del grado di Sfida aumenta di 1d6 il danno e la DC del Tiro Salvezza di 1.
 
@@ -58,7 +58,7 @@ Una volta occupato un corpo vivente, le larve scavano verso il cuore, il cervell
 
 Nel primo round di parassitosi, applicando del fuoco nel foro di ingresso si possono uccidere le larve e salvare l'ospite, ma questo subisce 1d6 danni da fuoco.
 
-Anche estrarle funziona, ma più a lungo le larve restano nell'ospite, più danni provoca questo metodo. Per estrarre le larve occorre un'arma tagliente ed una prova di Pronto Soccorso con DC 20, infliggendo 1d6 danni per ogni round che l'ospite è stato afflitto da parassitosi. Se la prova di Pronto Soccorso riesce una larva viene rimossa. Rimuovi Malattia uccide tutte le larve necrofaghe presenti in un ospite.
+Anche estrarle funziona, ma più a lungo le larve restano nell'ospite, più danni provoca questo metodo. Per estrarre le larve occorre un'arma tagliente e una prova di Pronto Soccorso con DC 20, infliggendo 1d6 danni per ogni round che l'ospite è stato afflitto da parassitosi. Se la prova di Pronto Soccorso riesce una larva viene rimossa. Rimuovi Malattia uccide tutte le larve necrofaghe presenti in un ospite.
 
 **Larve Necrofaghe**
 
@@ -102,7 +102,7 @@ Un pozzo maledetto irradia una forte magia, e può essere distrutto da Dissolvi 
 **Quercia Velenosa (grado di Sfida 1 o 3)**
 
 Il contatto con una quercia velenosa (grado di Sfida 1) causa una dolorosa eruzione cutanea (1d4 Punti Ferita di danno) che rende la vittima Affaticata finché i danni non guariscono. Un pieno contatto col corpo o l'inalazione del fumo di una quercia velenosa che brucia potrebbero essere fatali (grado di Sfida 3) causando 2 gradi di Affaticato e 1d8 di danno.
-Una prova di Natura (o Erboristeria) con DC 15 rivela i pericoli insiti nella pianta. Questo pericolo può essere usato anche per piante nocive simili (edera velenosa, sommaco velenoso od ortiche pungenti...)
+Una prova di Natura (o Erboristeria) con DC 15 rivela i pericoli insiti nella pianta. Questo pericolo può essere usato anche per piante nocive simili (edera velenosa, sommaco velenoso od ortiche pungenti…)
 
 **Quercia Velenosa**
 
@@ -128,7 +128,7 @@ Dormire in armatura media o pesante rende Affaticati, tranne se hai l'Abilità S
 
 Non si riesce a dormire le 8 ore ad intervalli minori di 16 ore.
 
-Se il personaggio viene svegliato e coinvolto in una attività impegnativa come combattere, lanciare incantesimi, cavalcare... se questa si protrae per più di 10 minuti obbliga il personaggio a riprendere completamente il riposo.
+Se il personaggio viene svegliato e coinvolto in una attività impegnativa come combattere, lanciare incantesimi, cavalcare… se questa si protrae per più di 10 minuti obbliga il personaggio a riprendere completamente il riposo.
 
 ### Organizzare i Turni di Guardia
 
@@ -136,7 +136,7 @@ Se il gruppo è numeroso i turni di guardia per vegliare e controllare l'ambient
 
 **Tabella: Durata turni di guardia**
 
-In questa tabella viene indicata la durata dei turni di guardia ed il tempo totale di riposo del gruppo, nell'ipotesi di riposare almeno 8 ore.
+In questa tabella sono indicati la durata dei turni di guardia e il tempo totale di riposo del gruppo, nell'ipotesi di riposare almeno 8 ore.
 
 | **Membri** | **Durata** | **Durata** |
 | --- | --- | --- |
@@ -173,7 +173,7 @@ La descrizione della trappola specifica le prove e le DC necessarie per individu
 
 Il Narratore può anche comparare la DC per individuare la trappola contro il punteggio di Sopravvivenza (a tiro dadi 8) dei personaggi al fine di determinare se un membro del gruppo noti la trappola. Se gli avventurieri notano la trappola prima di attivarla, potrebbero tentare di disarmarla, in maniera permanente o abbastanza a lungo da permettergli il passaggio.
 
-Il Narratore potrebbe richiedere una prova di Disattivare Congegni. Se non si hanno **attrezzi da scasso** o adeguati, la prova la fai con un -1d6 di penalità. Può essere usata anche la competenza Sopravvivenza seppure con un -1d6 per disattivare una trappola, lucchetto..., in questo caso la durata dell'operazione è pari ad 1 Azione per DC della trappola.
+Il Narratore potrebbe richiedere una prova di Disattivare Congegni. Se non si hanno **attrezzi da scasso** o adeguati, la prova la fai con un -1d6 di penalità. Può essere usata anche la competenza Sopravvivenza seppure con un -1d6 per disattivare una trappola, lucchetto…, in questo caso la durata dell'operazione è pari ad 1 Azione per DC della trappola.
 
 Se si vuole disattivare temporaneamente una trappola aggiungete 6 alla difficoltà. Questo disattiverà la trappola per 2d4 minuti.
 
@@ -511,7 +511,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Dis. Cong.:** | DC 26/5 |
 | **Attivatore:** | prossimità (Allarme) |
 | **Ripristino:** | nessuno |
-| **Effetto:** | 6mx9m. 8d6 danni da Elettricità. |
+| **Effetto:** | 6mx9 m. 8d6 danni da Elettricità. |
 | **GS:** 9 | **Trasporto Trappola** |
 | **Tipo:** | magico |
 | **Sopravviv.:** | DC 31 |
@@ -546,7 +546,7 @@ Sono qui presentate ulteriori trappole per la vostra gioia.
 | **Dis. Cong.:** | DC 20 |
 | **Attivatore:** | posizione |
 | **Ripristino:** | manuale |
-| **Effetto:** | Fossa 6mx3m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
+| **Effetto:** | Fossa 6mx3 m, 15 m profonda + spuntoni (3 attacchi in mischia +15 per bersaglio. 1d6+5 danni + veleno 2d6 danni) |
 | **GS:** 13 | **Galleria dei Fulmini** |
 | **Tipo:** | magico |
 | **Sopravviv.:** | DC 29 |
@@ -606,10 +606,10 @@ Prosegui nel corridoio?
 
 *Tups*: ci incastro il piede di porco così che il meccanismo non faccia aprire la botola [*Tups non chiede di tirare un dado per capire come disarmarla o disarmarla direttamente, spiega al Narratore come lo fa e basta*]
 
-*Narratore*: attraversi la zona adesso in sicurezza e vedi che si apre su una piccola stanza con due porte di legno rinforzato...
+*Narratore*: attraversi la zona adesso in sicurezza e vedi che si apre su una piccola stanza con due porte di legno rinforzato…
 
 Liberamente ispirato da https://friendorfoe.com/d/Old
 
->>> **Trappole ovvie**: Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo... e magari prima o poi si ricorderanno di recuperare il piede di porco...!
+>>> **Trappole ovvie**: Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo… e magari prima o poi si ricorderanno di recuperare il piede di porco…!
 
 ---

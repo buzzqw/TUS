@@ -170,7 +170,7 @@ Se comandi a un oggetto di attaccare, questo può effettuare un singolo attacco 
 | **Gittata**: | Contatto |
 | **Durata**: | 8 ore |
 
-Per la durata nascondi il bersaglio con cui sei stato in contatto dalla magia di divinazione. Il bersaglio può essere una creatura consenziente o un luogo o un oggetto che occupi uno spazio equivalente ad una sfera di 2 metri di raggio. Il bersaglio non può divenire bersaglio di alcuna magia di divinazione o essere percepito tramite sensi di scrutamento magici.
+Per la durata nascondi il bersaglio con cui sei stato in contatto dalla magia di divinazione. Il bersaglio può essere una creatura consenziente o un luogo o un oggetto che occupi uno spazio equivalente a una sfera di 2 metri di raggio. Il bersaglio non può divenire bersaglio di alcuna magia di divinazione o essere percepito tramite sensi di scrutamento magici.
 
 ### Antipatia/Simpatia
 
@@ -302,7 +302,7 @@ Incanti fino a 2d4 bacche nella tua mano che vengono infuse di magia per la dura
 
 Le bacche perdono la loro efficacia se non vengono consumate entro 8 ore dal lancio dell'incantesimo.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia le bacche durano un giorno in più oppure incanti una bacca in più (fino ad un massimo totale di 8).
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia le bacche durano un giorno in più oppure incanti una bacca in più (fino a un massimo totale di 8).
 
 ### Bagliore Solare
 - **Lista**:: Invocazione
@@ -357,7 +357,7 @@ Crei un muro verticale di lame rotanti fatte di energia magica, affilate come ra
 
 Quando una creatura entra per la prima volta in un round nell'area del muro o comincia il suo round lì deve effettuare un Tiro Salvezza su Riflessi. Se la creatura fallisce il Tiro Salvezza subisce 6d10 danni taglienti, o la metà se lo supera.
 
-Un incantatore che è ad una distanza di un metro dalla Barriera di Lame si considera Distratto.
+Un incantatore che è a una distanza di un metro dalla Barriera di Lame si considera Distratto.
 
 ### Bastoni in Serpenti
 
@@ -372,7 +372,7 @@ Trasformi 1d4 bastoncini, +1 per ogni volta che hai preso Adepto della Magia, in
 
 Questi serpenti, considerati oggetti minuscoli, hanno Difesa 13, 10 Punti Ferita, tutti i Tiri Salvezza a 5. Se scendono sotto 0 Punti Ferita tornano dei bastoncini ma rotti.
 
-Con un'Azione puoi comandare i serpenti di attaccare. Esegui un Tiro per Colpire come da attacco con incantesimo in mischia per ogni Serpente contro una creatura entro 1 metro da loro. Ogni serpente che colpisce causa 1 danno da perforazione ed obbliga un Tiro Salvezza su Tempra a DC 14, se il Tiro Salvezza fallisce la creatura subisce 2d4 di danno da veleno o la metà se riesce.
+Con un'Azione puoi comandare ai serpenti di attaccare. Esegui un Tiro per Colpire come da attacco con incantesimo in mischia per ogni Serpente contro una creatura entro 1 metro da loro. Ogni serpente che colpisce causa 1 danno da perforazione e obbliga a effettuare un Tiro Salvezza su Tempra a DC 14; se il Tiro Salvezza fallisce, la creatura subisce 2d4 danni da veleno, o la metà se riesce.
 
 Con un'Azione puoi comandare i serpenti di spostarsi fino a 6 metri.
 
@@ -402,7 +402,7 @@ Il danno dell'incantesimo aumenta di 1d4 quando raggiungi CM 5, CM 11 e CM 17, m
 | **Gittata**: | Contatto |
 | **Durata**: | Istantanea |
 
-Benedici fino ad un litro di liquido, sufficiente a creare 5 boccette di Acqua santa.
+Benedici fino a un litro di liquido, sufficiente a creare 5 boccette di Acqua santa.
 
 Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
@@ -419,7 +419,7 @@ Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 Benedici fino a tre creature a gittata, scelte da te. I bersagli guadagnano +1 ai Tiri Salvezza e Tiro per Colpire.
 
-Più benedizioni, anche da Patroni diversi non si sommano. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
+Più benedizioni non si sommano. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio.
 
@@ -490,7 +490,7 @@ Un aura sacra si irradia da te. Qualsiasi creatura che incominci il round entro 
 | **Gittata**: | 18 metri |
 | **Durata**: | 1 ora |
 
-Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 1d6 ad un tiro prima di sapere se la prova (TC/TS/Prova) ha avuto successo o meno. Questo bonus può essere usato 2 volte nell'ora. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
+Benedici una creatura a tua scelta. La creatura entro la durata può aggiungere 1d6 a un tiro prima di sapere se la prova (TC/TS/Prova) ha avuto successo o meno. Questo bonus può essere usato 2 volte nell'ora. Devi essere un Seguace o Devoto per poter lanciare questo incantesimo.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio o aggiungere un'ora alla durata.
 
@@ -648,7 +648,7 @@ Questo incantesimo conferisce la capacità di muoversi attraverso superfici liqu
 | **Gittata**: | 9 metri |
 | **Durata**: | 1 ora |
 
-Cerchi di affascinare un umanoide a gittata e che puoi vedere. Egli deve effettuare un Tiro Salvezza su Volontà e avrà +1d6 se sta combattendo contro di te o i tuoi alleati. Se fallisce il Tiro Salvezza è Affascinato da te fino al termine dell'incantesimo o finché tu o i tuoi alleati non gli facciate qualcosa di nocivo. La creatura affascinata ti considera un amichevole conoscente. Quando l'incantesimo termina la creatura è consapevole di essere stata affascinata da te. Ogni qual volta la creatura è minacciata da te o da un tuo amico può rifare il Tiro Salvezza con un bonus di +2.
+Cerchi di affascinare un umanoide a gittata e che puoi vedere. Egli deve effettuare un Tiro Salvezza su Volontà e avrà +1d6 se sta combattendo contro di te o i tuoi alleati. Se fallisce il Tiro Salvezza è Affascinato da te fino al termine dell'incantesimo o finché tu o i tuoi alleati non gli facciate qualcosa di nocivo. La creatura affascinata ti considera un amichevole conoscente. Quando l'incantesimo termina la creatura è consapevole di essere stata affascinata da te. Ogniqualvolta la creatura è minacciata da te o da un tuo amico può rifare il Tiro Salvezza con un bonus di +2.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi aggiungere una creatura come bersaglio. Quando lanci l'incantesimo, le creature bersaglio devono trovarsi entro 9 metri l'una dall'altra.
 
@@ -863,7 +863,7 @@ Puoi creare un cerchio di teletrasporto permanente eseguendo questo incantesimo 
 
 Crei un sensore invisibile in un luogo a te familiare e che sia a gittata (un luogo che hai già visitato o visto precedentemente) o in un luogo ovvio ma che non ti è familiare (come dietro una porta o un angolo, o in mezzo a un boschetto di alberi). Il sensore rimane sul posto per la durata, e non può essere attaccato né altrimenti vi si può interagire. Quando lanci questo incantesimo, scegli se vedere o udire. Puoi usare il senso scelto tramite il sensore, come ti trovassi nel suo spazio. Con due azioni, puoi passare da udire a sentire e viceversa. Una creatura che può vedere il sensore (una creatura munita di Vedere l'invisibile o di visione del vero) lo percepisce come un orbe intangibile e luminoso delle dimensioni del tuo pugno.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 10 minuti o la gittata aumenta di 500m.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di 10 minuti o la gittata aumenta di 500 m.
 
 ### Chiudi Portale
 
@@ -1033,7 +1033,7 @@ Un bersaglio non può essere obbligato a muoversi dentro un pericolo palesemente
 | **Gittata**: | Personale |
 | **Durata**: | 1 minuto |
 
-Comunichi con il tuo Patrono e gli poni fino a tre domande a cui si può dare risposta con un sì o un no. Devi porre le domande prima della fine dell'incantesimo. Riceverai la risposta corretta a ciascuna domanda. Le creature divine non sono necessariamente onniscienti, quindi potresti ricevere un *non è chiaro* come risposta a una domanda che riguarda informazioni non pertinenti alle conoscenze del Patrono. Nel caso in cui una risposta di una parola potrebbe essere fuorviante o contraria agli interessi del Patrono, il Narratore potrebbe invece dare una breve frase come risposta.
+Comunichi con il tuo Patrono e gli poni fino a tre domande a cui si può dare risposta con un sì o un no. Devi porre le domande prima della fine dell'incantesimo. Riceverai la risposta corretta a ciascuna domanda. Le creature divine non sono necessariamente onniscienti, quindi potresti ricevere un *non è chiaro* come risposta a una domanda che riguarda informazioni non pertinenti alle conoscenze del Patrono. Nel caso in cui una risposta di una parola possa essere fuorviante o contraria agli interessi del Patrono, il Narratore potrebbe invece dare una breve frase come risposta.
 
 Se lanci l'incantesimo due o più volte prima che sia sorta la nuova alba c'è una probabilità cumulativa del 25\% che per ogni lancio dopo il primo tu non ottenga alcuna risposta. Il Narratore effettua questo tiro in segreto.
 
@@ -1133,7 +1133,7 @@ Nomina o descrivi una persona, luogo od oggetto. L'incantesimo ti porta alla men
 | **Gittata**: | Contatto |
 | **Durata**: | 7 giorni |
 
-Tramite il contatto puoi infliggere malattie. Effettua un attacco da mischia contro una creatura a portata. Se colpisci, infetti la creatura con una malattia a tua scelta tra quelle descritte di seguito. Al termine di ciascun round del bersaglio, esso deve effettuare un Tiro Salvezza su Tempra. Dopo aver fallito tre di questi Tiri Salvezza, gli effetti della malattia permangono per la durata e la creatura non effettua più Tiri Salvezza. Dopo aver superato tre di questi Tiri Salvezza la creatura recupera dalla malattia e l'incantesimo ha termine. Nel mentre che esegue i Tiri Salvezza la creatura subisce gli effetti della malattia.
+Tramite il contatto puoi infliggere malattie. Effettua un attacco da mischia contro una creatura a portata. Se colpisci, infetti la creatura con una malattia a tua scelta tra quelle descritte di seguito. Al termine di ciascun round del bersaglio, esso deve effettuare un Tiro Salvezza su Tempra. Dopo aver fallito tre di questi Tiri Salvezza, gli effetti della malattia permangono per la durata e la creatura non effettua più Tiri Salvezza. Dopo aver superato tre di questi Tiri Salvezza, la creatura recupera dalla malattia e l'incantesimo ha termine. Mentre esegue i Tiri Salvezza, la creatura subisce gli effetti della malattia.
 
 Dato che questo incantesimo induce nel suo bersaglio una malattia naturale, qualsiasi effetto che rimuova le malattie o migliori gli effetti delle malattie si applica a essa.
 
@@ -1204,7 +1204,7 @@ Quando una creatura entra nel vortice per la prima volta durante un round o iniz
 | **Gittata**: | Personale (raggio di 1,5 chilometri) |
 | **Durata**: | Concentrazione, massimo 8 ore |
 
-Per la durata, assumi il controllo del clima entro 7,5 chilometri da te. Per lanciare questo incantesimo devi essere all'esterno. Muoversi in un posto dove non hai la visuale aperta verso il cielo termina l'incantesimo anticipatamente. Quando lanci questo incantesimo, cambia le attuali condizioni climatiche determinate dal Narratore in base alla stagione e la latitudine. Puoi modificare le precipitazioni, la temperatura e il vento. Ci vogliono 1d4 x 10 minuti perché la nuova condizione prenda effetto. Una volta che la condizione avrà preso effetto, potrai cambiarla di nuovo. Quando l'incantesimo termina il clima tornerà gradualmente alla norma.
+Per la durata, assumi il controllo del clima entro 7,5 chilometri da te. Per lanciare questo incantesimo devi essere all'esterno. Entrare in un luogo privo di visuale aperta verso il cielo termina anticipatamente l'incantesimo. Quando lanci questo incantesimo, cambia le attuali condizioni climatiche determinate dal Narratore in base alla stagione e alla latitudine. Puoi modificare le precipitazioni, la temperatura e il vento. Ci vogliono 1d4 x 10 minuti perché la nuova condizione prenda effetto. Una volta che la condizione avrà preso effetto, potrai cambiarla di nuovo. Quando l'incantesimo termina, il clima tornerà gradualmente alla norma.
 
 Quando cambi le condizioni climatiche, trova l'attuale condizione sulla seguente tabella e cambiala di uno stadio, verso l'alto o il basso. Quando cambi il vento, puoi cambiarne anche la direzione.
 
@@ -1288,7 +1288,7 @@ Crei cibo e acqua in contenitori a gittata, sufficienti a sostenere fino a cinqu
 | **Durata**: | 1 ora |
 
 Crei un boccale di birra, 0.5 litri. La qualità e tipologia di birra dipende dal lievito, malto e acqua usata.
-Maggiore è il tempo di lancio dell'incantesimo più è alta la gradazione alcolica, con un tempo di lancio di due azioni la gradazione è di 4.3, se viene impiegata 1 Azione la birra generata è analcolica, ogni Azione spesa dopo le 2 aumenta la gradazione di 0.3 vol fino ad un massimo di 12.5 vol.
+Maggiore è il tempo di lancio dell'incantesimo più è alta la gradazione alcolica, con un tempo di lancio di due azioni la gradazione è di 4.3, se viene impiegata 1 Azione la birra generata è analcolica, ogni Azione spesa dopo le 2 aumenta la gradazione di 0.3 vol fino a un massimo di 12.5 vol.
 Dopo un ora la birra svanisce, quando consumata dopo un ora terminano anche eventuali effetti alcolici della stessa sulle persone che l'hanno bevuta.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti di un litro o di un'ora la durata.
@@ -1323,7 +1323,7 @@ L'acqua è potabile e disseta se bevuta entro un round dalla creazione.
 | **Gittata**: | 30 metri più 3 metri per livello |
 | **Durata**: | 1 round per CM |
 
-Crei una buca extradimensionale di 3 metri per 3 metri con una profondità di 3 metri per ogni due punti di CM fino ad un massimo di 9 metri. Devi creare la fossa su una superficie orizzontale di dimensioni sufficienti. Poiché si estende in un'altra dimensione, la fossa non ha peso e non sposta il materiale sottostante originale.
+Crei una buca extradimensionale di 3 metri per 3 metri con una profondità di 3 metri per ogni due punti di CM fino a un massimo di 9 metri. Devi creare la fossa su una superficie orizzontale di dimensioni sufficienti. Poiché si estende in un'altra dimensione, la fossa non ha peso e non sposta il materiale sottostante originale.
 
 Qualsiasi creatura che si trova nell'area dove hai evocato la fossa deve effettuare un Tiro Salvezza su Riflessi per saltare in sicurezza nello spazio aperto più vicino. Inoltre, i bordi della fossa sono inclinati, e qualsiasi creatura che termina il suo turno in una casella adiacente alla fossa deve effettuare un Tiro Salvezza su Riflessi con bonus +2 per evitare di caderci dentro.
 
@@ -1409,7 +1409,7 @@ Se lanci questo incantesimo nel corso di 8 ore, nutri la terra. Tutti i vegetali
 | **Gittata**: | Personale |
 | **Durata**: | 1 minuto per CM |
 
-Questo incantesimo permette di copiare un testo da una sorgente ad un'altra. In caso di sorgente non magica questa può essere un libro, una pergamena, delle rune su una lastra od un bastone. La destinazione che va appoggiata sulla sorgente andrà a copiare i simboli nella forma e dimensione fino alla sua capienza, per un massimo di 1 pagina (di destinazione) al minuto.
+Questo incantesimo permette di copiare un testo da una sorgente a un'altra. In caso di sorgente non magica, questa può essere un libro, una pergamena o delle rune su una lastra o un bastone. La destinazione, appoggiata sulla sorgente, copierà i simboli nella forma e nelle dimensioni consentite dalla propria capienza, per un massimo di 1 pagina di destinazione al minuto.
 
 Se lo scritto è un incantesimo, quindi su un Tomo o Pergamena, devono essere comunque rispettate le regole e limitazioni previste per la copia di Incantesimi sul Tomo. Questo incantesimo permette di evitare la Prova di Magia in caso di Incantesimo entro un livello superiore al massimo consentito. Copiato un incantesimo questo incantesimo termina.
 
@@ -1422,7 +1422,7 @@ Se lo scritto è un incantesimo, quindi su un Tomo o Pergamena, devono essere co
 | **Gittata**: | 18 metri |
 | **Durata**: | 2 ore |
 
-Questo incantesimo crea una forza quasi invisibile solo delimitata da una leggera aura (di colore a tua scelta) capace e competente nel cucinare. Assieme al cuoco si manifesta anche un set di pentole e padelle nonché stoviglie ed un piccolo fornello da campo.
+Questo incantesimo crea una forza quasi invisibile, delimitata soltanto da una leggera aura (di colore a tua scelta), capace di cucinare. Assieme al cuoco si manifestano anche un set di pentole e padelle, stoviglie e un piccolo fornello da campo.
 
 In base agli ingredienti a disposizione o vegetali commestibili nel raggio di 100 metri (il cuoco non va a caccia) il cuoco cucinerà al meglio degli ingredienti preparando delle ottime vivande fino a 4 persone. L'incantesimo non crea cibo o acqua, questo deve essere a disposizione al momento del lancio dell'incantesimo.
 
@@ -1470,7 +1470,7 @@ Spendendo il triplo dei Punti Magia puoi curare fino a 4 creature che si trovino
 
 Crei un dardo luminoso di forza magica. Il dardo colpisce una creatura a gittata che puoi vedere, scelta da te. Un dardo infligge 1d4 + 1 danni da forza al suo bersaglio e li puoi dirigere perché colpiscano una o più creature.
 
-Il danno aumenta di 1 ogni due volte che hai preso Adepto della Magia fino ad un massimo di 4 aumenti.
+Il danno aumenta di 1 ogni due volte che hai preso Adepto della Magia fino a un massimo di 4 aumenti.
 
 Lanciare uno o più dardi già evocati costa 1 Azione.
 
@@ -1519,7 +1519,7 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 | **Gittata**: | 36 metri |
 | **Durata**: | 1 round |
 
-Un lampo di luce viaggia verso una creatura a gittata, scelta da te. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce 2d6 danni da Luce ed il prossimo Tiro per Colpire effettuato contro di lui prima del termine del tuo prossimo round ha +1d6 al TC, grazie alla mistica luce fioca che continuerà a brillare intorno al bersaglio fino ad allora.
+Un lampo di luce viaggia verso una creatura a gittata, scelta da te. Effettua un attacco a distanza con incantesimo contro il bersaglio. Se colpisci, il bersaglio subisce 2d6 danni da Luce e il prossimo Tiro per Colpire effettuato contro di lui prima del termine del tuo prossimo round ha +1d6 al TC, grazie alla mistica luce fioca che continuerà a brillare intorno al bersaglio fino ad allora.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 1d6.
 
@@ -1602,7 +1602,7 @@ Definisci i tuoi desideri quanto più possibile al Narratore. Il Narratore ha gr
 
 Una creatura quasi reale simile a un saurovallo di taglia Grande, appare sul terreno in uno spazio non occupato di tua scelta e a gittata. Decidi tu l'aspetto della creatura, e questa compare equipaggiata di sella, morso e briglia. Qualsiasi equipaggiamento creato dall'incantesimo svanisce in una nuvola di fumo se viene portato a più di 3 metri di distanza dal destriero. Per la durata, tu o una creatura di tua scelta potete cavalcare il destriero. La creatura usa le statistiche del Saurovallo da Galoppo, eccetto che ha velocità 30 metri e può percorrere 15 chilometri in un'ora, o 20 chilometri ad andatura veloce. Quando l'incantesimo termina, il destriero inizia gradualmente a svanire, dando al fantino 1 minuto per smontare di sella. L'incantesimo termina se usi un'Azione per interromperlo o se il destriero subisce danni.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di un'ora, fino ad un massimo di 24 ore, oppure crei una cavalcatura in più.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata aumenta di un'ora, fino a un massimo di 24 ore, oppure crei una cavalcatura in più.
 
 ### Disco Fluttuante
 
@@ -1645,7 +1645,7 @@ Questo incantesimo disintegra automaticamente gli oggetti non magici o una creaz
 
 Scegli una creatura, oggetto o effetto magico a gittata. Qualsiasi incantesimo di livello 2 o più basso sul bersaglio ha fine.
 
-Se l'incantesimo è tra il 3 ed il 5 livello è necessaria una prova di contrastare incantesimi .
+Se l'incantesimo è tra il 3° e il 5° livello è necessaria una prova di contrastare incantesimi .
 
 Un effetto magico permanente viene soppresso temporaneamente per 10 minuti.
 
@@ -1753,7 +1753,7 @@ Puoi impiegare 2 tue azioni per assumere il totale e preciso controllo del bersa
 
 Ogni volta che il bersaglio subisce danni, effettua un nuovo Tiro Salvezza su Volontà contro l'incantesimo. Se supera il Tiro Salvezza, l'incantesimo termina. La bestia non può avere GS superiore a 4.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino ad un massimo di 8 ore. Ogni 2 Successi Magici Critici puoi comandare una bestia in più oppure aumenti il GS comandabile di 1.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino a un massimo di 8 ore. Ogni 2 Successi Magici Critici puoi comandare una bestia in più oppure aumenti il GS comandabile di 1.
 
 ### Dominare Mostri
 
@@ -1770,7 +1770,7 @@ Mentre la creatura è affascinata, finché voi due vi trovate sullo stesso piano
 
 Puoi impiegare due tue Azioni per assumere il totale e preciso controllo del bersaglio. Fino al termine del tuo prossimo round la creatura effettuerà solo le azioni decise da te, e non farà nulla che tu non le permetta di fare. Durante questo periodo, puoi anche far usare un'Azione di Reazione alla creatura, ma ciò richiede l'uso della tua Reazione. Ogni volta che il bersaglio subisce danni, effettua un nuovo Tiro Salvezza su Volontà contro l'incantesimo. Se supera il Tiro Salvezza, l'incantesimo termina.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino ad un massimo di 8 ore.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino a un massimo di 8 ore.
 
 ### Dominare Persone
 
@@ -1787,7 +1787,7 @@ Mentre il bersaglio è affascinato, finché voi due vi trovate sullo stesso pian
 
 Puoi impiegare 2 Azioni per assumere il totale e preciso controllo del bersaglio. Fino al termine del tuo prossimo round, il bersaglio effettuerà solo le azioni decise da te, e non farà nulla che tu non gli permetta di fare. Durante questo periodo, puoi anche far usare un'Azione di Reazione al bersaglio, ma ciò richiede l'uso della tua Reazione. Ogni volta che il bersaglio subisce danni effettua un nuovo Tiro Salvezza su Volontà contro l'incantesimo. Se supera il Tiro Salvezza l'incantesimo termina.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino ad un massimo di 8 ore.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la durata raddoppia fino a un massimo di 8 ore.
 
 ### Eroismo
 
@@ -1930,7 +1930,7 @@ Evochi degli elementali che compariranno in spazi non occupati a gittata e che p
 
 Un elementale evocato sparisce quando scende a 0 Punti Ferita o l'incantesimo termina.
 
-Ogni Lista di Magia può evocare solo il proprio Elementale specifico. L'elementale è amichevole verso di te ed i tuoi compagni e ubbidisce al meglio delle sue capacità.
+Ogni Lista di Magia può evocare solo il proprio Elementale specifico. L'elementale è amichevole verso di te e i tuoi compagni e ubbidisce al meglio delle sue capacità.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia appariranno due elementali in più di grado inferiore o 1 elementale in più di grado superiore a quello inizialmente scelto.
 
@@ -1960,7 +1960,7 @@ Dissolvi magie, o un effetto simile applicato con successo allo zaffiro, termina
 | **Gittata**: | 36 metri |
 | **Durata**: | Istantanea |
 
-Converti le materie prime in prodotti finiti dello stesso materiale. Per esempio, puoi fabbricare un piccolo ponte di legno da un cumulo di alberi, una corda da un mucchio di canapa, e abiti dal lino o la lana. Scegli le materie prima che puoi vedere a gittata. Puoi fabbricare un oggetto di taglia Grande o inferiore (contenuto in un cubo di 3 metri di spigolo, o otto cubi connessi di 1 metro di spigolo) data una sufficiente quantità di materie prime. Se stai lavorando con il metallo, la pietra o altre sostanze minerali, l'oggetto fabbricato non può essere più grande di taglia Media (contenuto in un singolo cubo di 1 metro di spigolo). La qualità degli oggetti creati da questo incantesimo è commisurata alla qualità delle materie prime.
+Converti le materie prime in prodotti finiti dello stesso materiale. Per esempio, puoi fabbricare un piccolo ponte di legno da un cumulo di alberi, una corda da un mucchio di canapa e abiti dal lino o dalla lana. Scegli le materie prime che puoi vedere a gittata. Puoi fabbricare un oggetto di taglia Grande o inferiore (contenuto in un cubo di 3 metri di spigolo, o otto cubi connessi di 1 metro di spigolo) data una sufficiente quantità di materie prime. Se stai lavorando con il metallo, la pietra o altre sostanze minerali, l'oggetto fabbricato non può essere più grande di taglia Media (contenuto in un singolo cubo di 1 metro di spigolo). La qualità degli oggetti creati da questo incantesimo è commisurata alla qualità delle materie prime.
 
 Tramite questo incantesimo non si possono creare o trasmutare creature od oggetti magici. Inoltre non puoi usarlo per creare oggetti che normalmente richiedono un alto livello di lavorazione, come i gioielli, le armi, il vetro o le armature, a meno che tu non abbia la competenza con il tipo di strumenti da artigiano utilizzati per costruire questi oggetti. In caso di critico nella Prova di Magia si possono processare più volumi o produrre con maggiore qualità.
 
@@ -1986,7 +1986,7 @@ Attingendo alle paure più intime di un gruppo di creature, crei delle creature 
 | **Gittata**: | Personale |
 | **Durata**: | 1 minuto |
 
-Le tue preghiere potenziano te e la tua arma. Fino al termine dell'incantesimo, quando colpisce, la tua arma infligge 1d4 danni da Luce aggiuntivi.
+Le tue preghiere potenziano te e la tua arma. Fino al termine dell'incantesimo, quando colpisci, la tua arma infligge 1d4 danni da Luce aggiuntivi.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la tua arma causa +2 danno aggiuntivo da Luce.
 
@@ -2085,7 +2085,7 @@ Un'arma da lancio che attraversa una folata di vento ha il 50\% di mancare il be
 
 Entri nelle regioni di confine del Piano Etereo, nell'area che si sovrappone al tuo piano attuale. Resti sul Confine Etereo per la durata o finché non usi un'Azione per interrompere l'incantesimo. Se ti muovi verso l'alto o il basso, il costo del movimento è raddoppiato, se ti muovi invece orizzontalmente il movimento è raddoppiato per Azione di Movimento. Puoi vedere e udire il piano da cui provieni, ma tutto quello che si trova lì ti appare grigio, e non puoi vedere a più di 18 metri di distanza.
 
-Mentre sei sul Piano Etereo, puoi interagire solo con altre creature su quel piano. Le creature che non sono sul Piano Etereo non ti possono percepire né interagire con te, a meno che una capacità speciale o la magia gli fornisca la possibilità di farlo.
+Mentre sei sul Piano Etereo, puoi interagire solo con altre creature su quel piano. Le creature che non sono sul Piano Etereo non ti possono percepire né interagire con te, a meno che una capacità speciale o la magia non fornisca loro la possibilità di farlo.
 
 Ignori tutti gli oggetti e gli effetti che non sono sul Piano etereo, potendo così attraversare gli oggetti che percepisci sul piano da cui provieni. Quando l'incantesimo termina, ritorni immediatamente al piano da cui provieni nel punto che occupi attualmente. Se quando accade occupi lo stesso spazio di un oggetto solido o di una creatura, vieni immediatamente spostato nel più vicino spazio non occupato che puoi occupare e subisci 6 danni da forza per ogni metro di cui vieni spostato (o sua frazione). Questo incantesimo non ha effetto se lo esegui mentre sei già nel Piano Etereo o su di un piano che non vi confina, come uno dei Piani Esterni.
 
@@ -2161,7 +2161,7 @@ Il fulmine incendia gli oggetti infiammabili nell'area che non sono indossati o 
 | **Gittata**: | 45 metri |
 | **Durata**: | Istantanea |
 
-Crei una saetta di elettricità che colpisce un bersaglio a gittata che puoi vedere scelto da te. Da questo si genera una ulteriore saetta che colpisce il più vicino bersaglio entro 6 metri. Il processo continua finché non sono state colpite 7 bersagli o non c'è più nessun nuovo avversario a distanza. Un bersaglio può essere una creatura o oggetto almeno di taglia piccola e può essere bersaglio di una sola saetta. Un bersaglio deve effettuare un Tiro Salvezza su Riflessi oppure subisce 8d6 danni da elettricità o la metà di questi danni se lo supera.
+Crea una saetta di elettricità che colpisce un bersaglio a gittata che puoi vedere, scelto da te. Da questa si genera un'ulteriore saetta, che colpisce il bersaglio più vicino entro 6 metri. Il processo continua finché non sono stati colpiti 7 bersagli o non c'è più nessun nuovo avversario a distanza. Un bersaglio può essere una creatura o un oggetto almeno di taglia Piccola e può essere bersaglio di una sola saetta. Un bersaglio deve effettuare un Tiro Salvezza su Riflessi oppure subisce 8d6 danni da elettricità, o la metà di questi danni se lo supera.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia la saetta si protende su tre ulteriori bersagli.
 
@@ -2269,7 +2269,7 @@ Qualsiasi incantesimo di Livello 4 (ad esclusione di risultati superiori grazie 
 | **Gittata**: | 9 metri |
 | **Durata**: | 1 round per CM, Concentrazione |
 
-Il bersaglio effettua un Tiro Salvezza su Volontà con bonus Carisma, se fallisce ogni qual volta che effettua una Prova di Competenza, Tiro Salvezza o Tiro per Colpire conta sempre un 1 tirato in più per verificare i fallimenti critici.
+Il bersaglio effettua un Tiro Salvezza su Volontà con bonus Carisma, se fallisce ogniqualvolta che effettua una Prova di Competenza, Tiro Salvezza o Tiro per Colpire conta sempre un 1 tirato in più per verificare i fallimenti critici.
 
 ### Gragnola di Ghiande di Kyrin
 
@@ -2353,7 +2353,7 @@ Come Azione di Reazione emetti un grido di dolore quando colpito in mischia. La 
 | **Gittata**: | 18 metri |
 | **Durata**: | Istantanea |
 
-Scegli una creatura a gittata e che puoi vedere. Un'ondata di energia positiva curativa travolge la creatura, facendole recuperare 70 Punti Ferita. L'incantesimo prova anche a contrastare a qualsiasi cecità, sordità e malattia (anche magica) che affligga il bersaglio. Questo incantesimo causa 50 Punti Ferita di danno ad un non morto con un Tiro per Colpire con incantesimo a tocco.
+Scegli una creatura a gittata e che puoi vedere. Un'ondata di energia positiva curativa travolge la creatura, facendole recuperare 70 Punti Ferita. L'incantesimo prova anche a contrastare qualsiasi cecità, sordità e malattia (anche magica) che affligga il bersaglio. Questo incantesimo causa 50 Punti Ferita di danno a un non morto con un Tiro per Colpire con incantesimo a tocco.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia l'ammontare guarito aumenta di 20.
 
@@ -2370,7 +2370,7 @@ Scegli una creatura a gittata e che puoi vedere. Un'ondata di energia positiva c
 | **Gittata**: | 18 metri |
 | **Durata**: | Istantanea |
 
-Un effluvio di energia guaritrice scorre da te verso le creature ferite che ti circondano. Ripristini fino a 700 Punti Ferita, divisi come preferisci tra qualsiasi creatura a gittata e che puoi vedere (con un massimo di 70 Punti Ferita a creatura). Le creature guarite da questo incantesimo sono curate anche di tutte le malattie e da qualsiasi effetto che le renda accecate o assordate. Questo incantesimo può infliggere fino a 120 Punti Ferita di danno ad un non morto. TS su Tempra per annullare l'effetto.
+Un effluvio di energia guaritrice scorre da te verso le creature ferite che ti circondano. Ripristini fino a 700 Punti Ferita, divisi come preferisci tra qualsiasi creatura a gittata e che puoi vedere (con un massimo di 70 Punti Ferita a creatura). Le creature guarite da questo incantesimo sono curate anche di tutte le malattie e da qualsiasi effetto che le renda accecate o assordate. Questo incantesimo può infliggere fino a 120 Punti Ferita di danno a un non morto. TS su Tempra per annullare l'effetto.
 
 Se l'incantatore e creatura curata sono entrambi **Seguaci** dello stesso Patrono la cura assegnata aumenta di 20\%
 
@@ -2516,7 +2516,7 @@ Se una creatura fa più attacchi a round può disperdere un'immagine per ogni at
 
 Una creatura che non può vedere, o si affida a sensi diversi dalla vista (come la vista cieca), o che può distinguere le illusioni come false (come la visione del vero), ignora gli effetti di questo incantesimo.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia crei un'immagine duplicata in più fino ad un massimo totale di 8 immagini.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia crei un'immagine duplicata in più fino a un massimo totale di 8 immagini.
 
 ### Imprigionare
 
@@ -2808,7 +2808,7 @@ Per un Devoto di Laydel questo incantesimo è Comune e ha un tempo di lancio di 
 | **Gittata**: | Personale |
 | **Durata**: | 10 round |
 
-L'incantatore permea di magia un piccolo oggetto che incomincia a brillare di luce. La luce illumina il suo quadretto ed un ulteriore metro attorno, oltre non genera luce fioca. La durata dell'incantesimo è 10 round. L'incantatore può lanciare l'oggetto entro 18 metri e deve rimanere entro questa distanza. Non è possibile lanciare l'incantesimo più volte al giorno di quanti Punti Fato si possiedono.
+L'incantatore permea di magia un piccolo oggetto che incomincia a brillare di luce. La luce illumina il suo quadretto e un ulteriore metro attorno, oltre non genera luce fioca. La durata dell'incantesimo è 10 round. L'incantatore può lanciare l'oggetto entro 18 metri e deve rimanere entro questa distanza. Non è possibile lanciare l'incantesimo più volte al giorno di quanti Punti Fato si possiedono.
 
 ### Lama Infuocata
 
@@ -2866,7 +2866,7 @@ Questo incantesimo contrasta ed è contrastato da Velocità.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare una creatura in più.
 
-**Tiro Salvezza Fallimento Critico**: In caso di Fallimento Critico si viene rallentati di una ulteriore Azione.
+**Tiro Salvezza Fallimento Critico**: In caso di Fallimento Critico si viene rallentati di un'ulteriore Azione.
 
 ### Lettura della terra di Kyrin
 
@@ -2908,7 +2908,7 @@ Mentre sei sotto l'influenza di questo incantesimo sei considerato Distratto nel
 | **Gittata**: | Contatto |
 | **Durata**: | 1 minuto, finché usato |
 
-L'incantatore conferisce la capacità di leggere una pergamena o una scritta magica ad un bersaglio. Per la durata di 1 minuto o finché non viene usato, a seconda di quale evento si verifichi prima, la creatura riesce automaticamente a comprendere una pergamena magica o a lanciare il contenuto della pergamena, rispettando i criteri e le regole di lancio degli incantesimi da pergamena.
+L'incantatore conferisce la capacità di leggere una pergamena o una scritta magica a un bersaglio. Per la durata di 1 minuto o finché non viene usato, a seconda di quale evento si verifichi prima, la creatura riesce automaticamente a comprendere una pergamena magica o a lanciare il contenuto della pergamena, rispettando i criteri e le regole di lancio degli incantesimi da pergamena.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi leggere o comprendere una pergamena in più.
 
@@ -2968,7 +2968,7 @@ L'incantesimo può localizzare una specifica creatura a te nota, o la più vicin
 
 Questo incantesimo non può localizzare una creatura se un flusso di acqua corrente largo almeno 3 metri blocca un percorso diretto tra te e la creatura.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenta la distanza di altri 300m.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenta la distanza di altri 300 m.
 
 ### Localizza Oggetto
 
@@ -3061,7 +3061,7 @@ Tutti gli oggetti in una sfera di 3 metri di raggio a gittata vengono circondati
 | **Gittata**: | Personale (cono di 3 metri) |
 | **Durata**: | Istantanea |
 
-Tieni le mani chiuse davanti a te, una potente onda rovente si genera da ogni tuo pugno. Ogni creatura in un cono di 3 metri deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 1d4 di danno per Competenza Magica, fino ad un massimo di 5d4, danni da fuoco se fallisce il Tiro Salvezza, o la metà se lo supera. Il calore incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati.
+Tieni le mani chiuse davanti a te, una potente onda rovente si genera da ogni tuo pugno. Ogni creatura in un cono di 3 metri deve effettuare un Tiro Salvezza su Riflessi. Una creatura subisce 1d4 di danno per Competenza Magica, fino a un massimo di 5d4, danni da fuoco se fallisce il Tiro Salvezza, o la metà se lo supera. Il calore incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia il danno aumenta di 2d4.
 
@@ -3727,7 +3727,7 @@ Quando l'area appare, ogni creatura al suo interno deve effettuare un Tiro Salve
 | **Gittata**: | 45 metri |
 | **Durata**: | Istantanea |
 
-Questo incantesimo trasforma qualsiasi tipo di roccia naturale in un eguale volume di fango. La pietra magica non viene influenzata dall'incantesimo. L'incantesimo ha effetto fino a 2 cubi di 3x3x3 metri. La profondità del fango creato non può superare i 3 metri. Le creature incapaci di Volare, levitare o allontanarsi in qualche modo dal fango affondano fino alla vita o fino al petto; le creature sono intralciate ed il terreno diviene doppiamente difficile. Le creature abbastanza grandi da camminare sul fondo della pozza di fango possono guadare l'area come terreno difficile.
+Questo incantesimo trasforma qualsiasi tipo di roccia naturale in un eguale volume di fango. La pietra magica non viene influenzata dall'incantesimo. L'incantesimo ha effetto fino a 2 cubi di 3x3x3 metri. La profondità del fango creato non può superare i 3 metri. Le creature incapaci di Volare, levitare o allontanarsi in qualche modo dal fango affondano fino alla vita o fino al petto; le creature sono intralciate e il terreno diviene doppiamente difficile. Le creature abbastanza grandi da camminare sul fondo della pozza di fango possono guadare l'area come terreno difficile.
 
 Se Pietra in Fango viene lanciato sul soffitto di una caverna o di un tunnel, il fango si riversa sul pavimento e si espande fino a formare una pozza della profondità di 1 metro. Il fango in caduta e la frana che ne segue infliggono 8d6 danni contundenti a chiunque si trovi direttamente sotto l'area se non dimezza i danni con un Tiro Salvezza su Riflessi.
 
@@ -3807,7 +3807,7 @@ Puoi portare con te oggetti il cui peso non ecceda la tua capacità di Ingombro.
 
 Se dovessi arrivare in un posto già occupato da un oggetto o creatura, tu e la creatura che viaggia con te subite ciascuno 4d6 danni da forza, e l'incantesimo non riesce a teletrasportarvi.
 
-**Per ogni due Successi Critici Magici ottenuti** nella Prova di Magia puoi portare una ulteriore creatura.
+**Per ogni due Successi Critici Magici ottenuti** nella Prova di Magia puoi portare un'ulteriore creatura.
 
 ### Preghiera
 
@@ -3930,7 +3930,7 @@ Un profumo si irradia da te in un raggio di 4 metri per tutta la durata. Mentre 
 | **Gittata**: | Contatto |
 | **Durata**: | 1 giorno |
 
-Crei una interdizione al viaggio magico che protegge fino a 4000 metri quadri di pavimento, fino a un'altezza di 9 metri dal suolo. Per la durata dell'incantesimo, le creature non possono teletrasportarsi nell'area o usare passaggi, come quello creato dall'incantesimo portale, per entrare nell'area. L'incantesimo protegge l'area dal viaggio planare, e quindi impedisce alle creature di accedere all'area tramite il Piano Astrale, il Piano Etereo od il Piano delle Ombre.
+Crei una interdizione al viaggio magico che protegge fino a 4000 metri quadri di pavimento, fino a un'altezza di 9 metri dal suolo. Per la durata dell'incantesimo, le creature non possono teletrasportarsi nell'area o usare passaggi, come quello creato dall'incantesimo portale, per entrare nell'area. L'incantesimo protegge l'area dal viaggio planare, e quindi impedisce alle creature di accedere all'area tramite il Piano Astrale, il Piano Etereo o il Piano delle Ombre.
 
 Inoltre, l'incantesimo danneggia i tipi di creatura scelti da te durante il lancio. Scegli uno o più dei seguenti: celestiali, elementali, fatati, demoni e non morti. Quando una creatura selezionata entra nell'area dell'incantesimo per la prima volta in un round o inizia qui il suo round, la creatura subisce 5d10 danni da Luce o da Vuoto (a tua scelta, quando lanci l'incantesimo).
 
@@ -4132,7 +4132,7 @@ L'incantesimo può essere terminato entro i 30 giorni da ristorare superiore, gu
 | **Gittata**: | Contatto |
 | **Durata**: | Istantanea |
 
-Entri a contatto con un umanoide morto o un frammento di umanoide morto. Purché la creatura non sia morta da più di 10 giorni, l'incantesimo gli forma un nuovo corpo adulto e poi ne richiama l'anima affinché entri nel corpo. Se l'anima del bersaglio non è libera o consenziente a farlo, l'incantesimo fallisce.
+Entri a contatto con un umanoide morto o un frammento di umanoide morto. Purché la creatura non sia morta da più di 10 giorni, l'incantesimo forma per essa un nuovo corpo adulto e poi ne richiama l'anima affinché vi entri. Se l'anima del bersaglio non è libera o consenziente a farlo, l'incantesimo fallisce.
 
 La magia modella un nuovo corpo, che probabilmente provocherà un cambio di razza alla creatura. Il Narratore tira un d10 e consulta la seguente tabella per determinare quale forma assuma la creatura una volta riportata in vita, oppure sarà Il Narratore a scegliere la forma.
 
@@ -4268,7 +4268,7 @@ Questo incantesimo infonde coraggio nel soggetto e può rimuovere gli effetti de
 | **Gittata**: | Contatto |
 | **Durata**: | Istantanea |
 
-Puoi porre fine ad un veleno naturale. In caso di veleni magici la tua DC di incantesimo deve essere superiore alla DC (o Tiro Salvezza) del veleno.
+Puoi porre fine a un veleno naturale. In caso di veleni magici la tua DC di incantesimo deve essere superiore alla DC (o Tiro Salvezza) del veleno.
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aggiungi +4 alla propria DC per capire se ha superato quella del veleno.
 
@@ -4309,7 +4309,7 @@ Questo incantesimo ripara una singola rottura o spaccatura in un oggetto con cui
 
 Entri a contatto con un cadavere o altri resti. Per la durata, il bersaglio è protetto dalla putrefazione e non può diventare non morto.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata fino ad un massimo di un anno.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata fino a un massimo di un anno.
 
 ### Risata Incontenibile
 
@@ -4366,7 +4366,7 @@ In caso di condizioni magiche esegui una prova di contrastare  con la DC della c
 Imbevi una creatura a contatto di energia positiva curativa per annullare un effetto debilitante, non è possibile usufruire di più di un Ristorare Superiore al giorno:
 
 - Un effetto che ha Affascinato o Dominato il bersaglio.
-- Fai recuperare 2 punti ad una statistica al bersaglio. Recuperi 1 punto se la perdita era permanente.
+- Fai recuperare 2 punti a una statistica al bersaglio. Recuperi 1 punto se la perdita era permanente.
 - I Punti Ferita massimi tornano al valore normale, ma non aumentano i Punti Ferita attuali.
 - Sei in grado di alleviare di due gradi le condizioni di Affaticamento.
 
@@ -4387,7 +4387,7 @@ Dopo aver trascorso il tempo di lancio a disegnare tracciati magici con una gemm
 
 La bestia o vegetale risvegliato è Affascinato da te per 30 giorni o finché tu o i tuoi compagni non gli arrecherete danno. Quando la condizione Affascinato termina, la creatura risvegliata sceglie se rimanerti amichevole, in base a come l'hai trattata mentre era affascinata.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti la durata della fascinazione di 30 giorni, fino ad un massimo di 1 anno.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia aumenti la durata della fascinazione di 30 giorni, fino a un massimo di 1 anno.
 
 ### Ritirata Rapida
 
@@ -4485,7 +4485,7 @@ Lanciare questo incantesimo sullo stesso punto ogni giorno per un anno, rende l'
 
 Una creatura con cui sei a contatto deve superare un Tiro Salvezza su Volontà o restare maledetta per la durata dell'incantesimo. Quando lanci questo incantesimo, scegli la natura della maledizione tra le seguenti opzioni:
 
-- Scegli un punteggio di caratteristica. Mentre è maledetto, il bersaglio ha -1d6 alle prove di competenza base basate su quella caratteristica ed i Tiri Salvezza basati su quella caratteristica.
+- Scegli un punteggio di caratteristica. Mentre è maledetto, il bersaglio ha -1d6 alle prove di competenza base basate su quella caratteristica e i Tiri Salvezza basati su quella caratteristica.
 - Mentre è maledetto, il bersaglio ha -1d6 ai Tiri per Colpire e -3 al danno in mischia, contro di te.
 - Mentre è maledetto, il bersaglio deve effettuare un Tiro Salvezza su Volontà all'inizio di ciascun suo round. Se lo fallisce, spreca 1 Azione di quel suo round senza fare nulla.
 - Mentre il bersaglio è maledetto, ogni tuo attacco ed incantesimo infliggono 1d8 danni da Vuoto aggiuntivi contro di lui.
@@ -4584,7 +4584,7 @@ Per la durata dell'incantesimo, finché sei nello stesso piano di esistenza dell
 
 L'incantatore che lancia questo incantesimo è in grado di trovare una specifica pianta entro un cerchio del diametro di 3 metri per CM centrato sull'incantatore. L'incantatore può concentrarsi su un diverso tipo di pianta ogni round e può muoversi, dal momento che l'area di effetto si sposta con lui.
 
-**Nota**: per i Devoti di Shayalia l'incantesimo è Comune ed il cerchio ha un diametro di 10 metri per somma Tratti in comune con il Patrono.
+**Nota**: per i Devoti di Shayalia l'incantesimo è Comune e il cerchio ha un diametro di 10 metri per somma Tratti in comune con il Patrono.
 
 ### Scopri Trappole
 
@@ -4651,7 +4651,7 @@ te.
 | **Connessione** | **Mod. TS** |
 | Descrizione o immagine | -2 |
 | Proprietà o indumento | -4 |
-| Parte del corpo (capelli...) | -10 |
+| Parte del corpo (capelli…) | -10 |
 
 Se supera il Tiro Salvezza, il bersaglio ignora gli effetti dell'incantesimo, e non potrai usare di nuovo questo incantesimo contro di lui prima che siano passate 24 ore.
 
@@ -5010,9 +5010,9 @@ Puoi aumentare il danno dell'incantesimo di 1d8 quando raggiungi CM 5, CM 11 e C
 | **Gittata**: | Tocco |
 | **Durata**: | 1 ora per CM, massimo 24 ore |
 
-Questo incantesimo trasforma l'incantatore o il soggetto consenziente in pietra, insieme a qualsiasi abito o oggetto trasportato. Il soggetto può vedere e percepire suoni e odori, ma non ha bisogno di mangiare o respirare. Il senso del tatto è limitato alle sensazioni percepibili dalla sostanza granitica di cui è composto il corpo del soggetto. Una scheggiatura è paragonabile a un semplice graffio, ma spezzare un braccio della statua equivale a una mutilazione. Il soggetto di statua può tornare allo stato normale e ridiventare di pietra tutte le volte che vuole durante la durata dell'incantesimo. La statua ha durezza 15 ed il doppio dei Punti Ferita della creatura originaria.
+Questo incantesimo trasforma l'incantatore o il soggetto consenziente in pietra, insieme a qualsiasi abito o oggetto trasportato. Il soggetto può vedere e percepire suoni e odori, ma non ha bisogno di mangiare o respirare. Il senso del tatto è limitato alle sensazioni percepibili dalla sostanza granitica di cui è composto il corpo del soggetto. Una scheggiatura è paragonabile a un semplice graffio, ma spezzare un braccio della statua equivale a una mutilazione. Il soggetto di statua può tornare allo stato normale e ridiventare di pietra tutte le volte che vuole durante la durata dell'incantesimo. La statua ha durezza 15 e il doppio dei Punti Ferita della creatura originaria.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata, fino ad un massimo di 24 ore, o influenzi un'altra creatura.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia raddoppi la durata, fino a un massimo di 24 ore, o influenzi un'altra creatura.
 
 ### Stretta Folgorante
 
@@ -5312,7 +5312,7 @@ Nella durata dell'incantesimo, puoi usare due azioni per assumere una forma dive
 | **Gittata**: | Personale |
 | **Durata**: | 1 round per CM |
 
-Questo incantesimo permette ad un incantatore di convogliare le sue energie magiche per trasformarsi in un potente combattente.
+Questo incantesimo permette a un incantatore di convogliare le sue energie magiche per trasformarsi in un potente combattente.
 
 Fino alla fine della durata dell'incantesimo la Competenza Armi dell'incantatore diviene pari alla sua Competenza Magica.
 
@@ -5426,7 +5426,7 @@ Quando l'incantesimo termina, i bersagli sono Rallentati 2/1r mentre sono preda 
 
 **Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi influenzare una creatura in più.
 
-**Per ogni tre Successi Critici Magici ottenuti** nella Prova di Magia puoi aumentare di un ulteriore 1 le Azioni a round ad una creatura.
+**Per ogni tre Successi Critici Magici ottenuti** nella Prova di Magia puoi aumentare di un ulteriore 1 le Azioni a round a una creatura.
 
 ### Ventriloquio
 
@@ -5549,7 +5549,7 @@ Lanci l'incantesimo a contatto di una creatura consenziente. Per la durata dell'
 
 Lanciare un incantesimo mentre si vola è più complesso, si è Distratti se non si riesce in una prova di Volare a DC 11.
 
-**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio un'ulteriore creatura oppure aumentare la durata di 10 minuti, fino ad un massimo di 1 ora.
+**Per ogni Successo Critico Magico** ottenuto nella Prova di Magia puoi prendere come bersaglio un'ulteriore creatura oppure aumentare la durata di 10 minuti, fino a un massimo di 1 ora.
 
 ### Scudo Mentale
 
@@ -5580,7 +5580,7 @@ Crei una zona magica che protegge contro i raggiri in una sfera di 3 metri di ra
 
 ## Incantesimi per Lista con Livello e Rarità
 
-A fianco di ogni incantesimo è indicata la Rarità ed il livello dell'incantesimo.
+A fianco di ogni incantesimo sono indicati la Rarità e il livello dell'incantesimo.
 
 **Lista dell'Acqua**
 

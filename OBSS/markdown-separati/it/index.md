@@ -3,7 +3,7 @@
 ## Indice
 
 - [Introduzione](00-introduzione.md)
-- [La storia fino ad adesso...](01-la-storia-fino-ad-adesso.md)
+- [La storia fino ad adesso…](01-la-storia-fino-ad-adesso.md)
 - [Razze](02-razze.md)
 - [Caratteristiche Speciali](03-caratteristiche-speciali.md)
 - [Le Caratteristiche](04-le-caratteristiche.md)

@@ -42,7 +42,7 @@ Puoi usare il punteggio in una Caratteristica mentale (Intelligenza, Saggezza o 
 **Requisiti suggeriti**: non temere la morte, aver ucciso tantissimi avversari
 
 Sei la cosa più simile alla morte che i tuoi nemici vedranno mai.
-Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10m di raggio devono fare un TS Volontà con DC pari al Tiro per Colpire, costa una Reazione, od essere influenzati come dall'incantesimo Paura. La capacità è usabile 3 volte al giorno.
+Quando uccidi un nemico tutti gli avversari (che possono aver visto la scena) in 10 m di raggio devono fare un TS Volontà con DC pari al Tiro per Colpire, costa una Reazione, od essere influenzati come dall'incantesimo Paura. La capacità è usabile 3 volte al giorno.
 
 ### La Furia Magica
 

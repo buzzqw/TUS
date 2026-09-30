@@ -6,7 +6,7 @@ OBSS è un sistema duro, pericoloso, mortale ma anche ricco di soddisfazioni. I 
 
 Sopravvivi e reclama la Legge del Premio e vedrai che con il passare dei livelli acquisirai competenze e abilità fuori dal comune! *Spes ultima dea*!
 
-Come prima cosa prepara davanti a te la scheda ed un foglio dove prendere note ed appunti.
+Come prima cosa prepara davanti a te la scheda e un foglio dove prendere note ed appunti.
 
 Per creare un personaggio prova a rispondere a queste domande, che potranno aiutarti a immaginarlo e plasmarlo:
 
@@ -22,11 +22,11 @@ Per creare un personaggio prova a rispondere a queste domande, che potranno aiut
 
 - In cosa è bravo, in cosa si impegna, in cosa è negato
 
-- I tre difetti ed i tre pregi principali del personaggio
+- I tre difetti e i tre pregi principali del personaggio
 
-È cresciuto in famiglia, in un clan, da vagabondo o per strada... Cosa l'ha portato fin qui e quali scelte ha fatto?
+È cresciuto in famiglia, in un clan, da vagabondo o per strada… Cosa l'ha portato fin qui e quali scelte ha fatto?
 
-Qual è il suo stile di combattimento e la sua strategia tipica? Magia, spada, dalle retrovie... incitare i compagni... scappare...
+Qual è il suo stile di combattimento e la sua strategia tipica? Magia, spada, dalle retrovie… incitare i compagni… scappare…
 
 E, non meno importante: qual è il suo scopo? Cosa lo ha fatto uscire di casa e dalle sue sicurezze, abbandonando una vita normale per intraprendere quella di avventuriero?
 
@@ -53,9 +53,9 @@ Se non hai punti in Competenza Armi puoi usare solo le armi semplici  senza inco
 
 I Punti Ferita sono pari a 8 + Costituzione, aggiungi 3 se hai messo 1 punto in Competenza Armi (CA).
 
-A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio ed i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per la scelta del Patrono .
+A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per l'assegnazione automatica del Patrono reclamante .
 
-Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi il Patrono, o i Patroni, che ti collegano a quel Tratto, indipendentemente dal fatto che tu li abbia scelti o meno. Se il Tratto è condiviso da più Patroni, annotali tutti e usa gli altri Tratti per individuare l'affinità prevalente.
+Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi tutti i Patroni che condividono quel Tratto, senza interpretare l'annotazione come un'appartenenza o una scelta. Evidenzia il Patrono con il Tratto guida corrispondente al tuo Tratto dominante; in caso di parità applica la procedura descritta nel capitolo I Tratti. Solo il Patrono reclamante può ricevere la tua adesione formale e concederti i poteri legati ai Tratti.
 
 Ricorda infine che un personaggio *Dissoluto* e *Leale* suona bene in un racconto dove è il solo protagonista, ma qui si gioca in **gruppo**. Non prendere Tratti in ovvia opposizione agli altri o, comunque, non giocare da *stronzo*, altrimenti il personaggio verrà naturalmente allontanato dagli altri personaggi e dal Narratore.
 
@@ -69,7 +69,7 @@ Passa alle Abilità : al primo livello ne scegli due, prestando attenzione ai pr
 
 Sono le Abilità che scegli ad aumentare il punteggio dei Tiri Salvezza. Ricorda che i Tiri Salvezza determinano la tua capacità di resistere a traumi e magie. Nella scheda indica la singola Caratteristica che vuoi che quella Abilità migliori (quando ne avrai quattro uguali).
 
-Scegli l'equipaggiamento , l'armatura , le armi , lo zaino, due torce, qualche razione di cibo... un peluche... quello che ti sembra indispensabile per l'avventura.
+Scegli l'equipaggiamento , l'armatura , le armi , lo zaino, due torce, qualche razione di cibo… un peluche… quello che ti sembra indispensabile per l'avventura.
 Aggiorna poi la parte di scheda relativa alla Difesa, segnando quali bonus ti danno l'armatura e lo scudo indossati. Ricorda che parti con 100 mo, spendile in maniera accurata!
 
 Entra nella parte, concediti di giocare questo straordinario personaggio. Se mai ti stufassi di giocarlo e volessi provare qualcosa di diverso parlane con il Narratore, saprà consigliarti e suggerirti la strada migliore.
@@ -85,7 +85,7 @@ In ultimo ricordati della Legge del Premio. Questo mondo è feroce, spesso malva
 
 Ogniqualvolta il Narratore ti conferma il passaggio di livello devi compiere diverse operazioni per aggiornare la scheda del personaggio.
 
-- Innanzitutto prendete la scheda, matita e gomma ed i dadi (almeno il d6)
+- Innanzitutto prendete la scheda, matita e gomma e i dadi (almeno il d6)
 - Aggiornate i Punti Esperienza
 - Aggiornate il Livello aumentandolo di 1
 - Distribuite 1 punto tra Competenza Armi e Competenza Magica
@@ -106,7 +106,7 @@ Come giocatori avete l'opportunità di prediligere un approccio specializzato, o
 
 Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi concede un bonus di +2 alle prove di Competenze.
 
->> **Potere, percepito**: Il livello di potere **percepito** dei personaggi in OBSS è inferiore a quello di altri GDR. La debolezza del personaggio è solo una percezione ed anzi vi accorgerete presto della vera potenza del personaggio. Giocate di gruppo e sopravviverete perché ricordate che questo è un mondo cattivo, dispettoso e mortale con gli **egoisti**.
+>> **Potere**: La debolezza del personaggio è solo una percezione ed anzi vi accorgerete presto della vera potenza del personaggio. Giocate di gruppo e sopravviverete perché ricordate che questo è un mondo cattivo, dispettoso e mortale con gli **egoisti**.
 
 ## Come Sopravvivere e Divertirsi
 

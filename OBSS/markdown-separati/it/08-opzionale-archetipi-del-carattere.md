@@ -2,11 +2,11 @@
 
 Questa opzione presenta un sistema che integra gli archetipi junghiani  con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) , vengono presentati 22 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
-Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni che condividono almeno due Tratti (e quindi permettono di essere Devoti) con ogni archetipo, suggerendo affinità spirituali naturali.
+Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni i cui profili condividono almeno due Tratti con ogni archetipo, suggerendo affinità narrative e spirituali naturali. Questi elenchi non permettono di scegliere un Patrono: il Patrono reclamante è determinato dal Tratto dominante del personaggio.
 - Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
 - Considera di adottare almeno 2-3 dei Tratti raccomandati per quell'archetipo
 - Evita i Tratti sconsigliati a meno che tu non stia specificamente mirando a creare conflitto interno
-- Guarda ai Patroni allineati per una guida su quali poteri spirituali potrebbero essere affini naturalmente con il tuo personaggio
+- Guarda ai Patroni allineati per una guida sui poteri spirituali che potrebbero essere affini naturalmente con il tuo personaggio, ricordando che il Patrono reclamante non viene scelto dal giocatore
 
 Gli archetipi possono anche evolversi durante le avventure di un personaggio. Un personaggio potrebbe iniziare come un archetipo (L'Innocente) e trasformarsi in un altro (L'Eroe) attraverso le sue esperienze. Questa evoluzione può essere riflessa nel cambiamento graduale dei Tratti e delle affinità con i Patroni.
 
@@ -66,7 +66,7 @@ Il personaggio malizioso che disturba lo status quo e porta trasformazione attra
 - **Tratti Raccomandati:** Impulsivo, Curioso, Disonesto, Entusiasta
 - **Tratti Sconsigliati:** Prudente, Paziente, Intransigente
 - **Tratti Contraddittori:** Leale, Altruista, Compassionevole
-- **Patroni Allineati:** Orudjs, Belevon, Ledyal
+- **Patroni Allineati:** Orudjs, Ledyal
 
 ## L'Alleato
 Il personaggio fedele che supporta il gruppo nel suo viaggio.
@@ -122,7 +122,7 @@ Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
 - **Tratti Raccomandati:** Curioso, Ambizioso, Arrogante, Intransigente
 - **Tratti Sconsigliati:** Codardo, Indeciso, Impulsivo
 - **Tratti Contraddittori:** Altruista, Compassionevole, Leale
-- **Patroni Allineati:** Erondil, Orudjs, Nethergal, Krondal, Atmos
+- **Patroni Allineati:** Erondil, Nethergal, Krondal, Atmos
 
 ## Il Fuorilegge
 Il personaggio ribelle che sfida le norme stabilite e combatte contro i vincoli.
@@ -203,7 +203,7 @@ Ogni transizione tra archetipi rappresenta un momento significativo di sviluppo 
 
 ## Affinità con i Patroni e Risonanze Archetipiche
 
-Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione:
+Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più fortemente di altri. Queste connessioni possono informare sia lo sviluppo del personaggio che la narrazione, ma non sostituiscono la procedura di assegnazione: il Patrono reclamante resta quello determinato dal Tratto dominante.
 
 \begin{multicoltab}
 
@@ -245,7 +245,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 
 - Usa gli archetipi come punto di partenza per la creazione del personaggio, selezionando Tratti che si allineano con il tuo archetipo scelto
 - Considera il potenziale viaggio archetipico del tuo personaggio: come potrebbe evolversi nel tempo?
-- Guarda ai Patroni allineati del tuo archetipo quando consideri affiliazioni spirituali
+- Guarda ai Patroni allineati del tuo archetipo per conoscere le possibili affinità spirituali, senza considerarli Patroni da scegliere
 - Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche interessanti tra i personaggi
 
 ## Per il Narratore

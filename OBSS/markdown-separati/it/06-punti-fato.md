@@ -11,7 +11,7 @@ Non costa Azioni usare un Punto Fato e può essere usato per:
 - [•] negare un Tiro Critico d'arma subito
 - [••] ritirare completamente una prova
 - [•] trasformare prova fallita criticamente in fallita semplicemente
-- [•] far ritirare un Tiro Salvezza ad un obiettivo
+- [•] far ritirare un Tiro Salvezza a un obiettivo
 - [•s] tornare a 0 Punti Ferita (tutti i punti disponibili)
 - [•] o più, diminuire di 3 i danni subiti
 

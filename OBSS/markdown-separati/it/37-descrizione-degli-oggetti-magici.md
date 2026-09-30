@@ -4,7 +4,7 @@ Gli oggetti magici sono presentati in ordine alfabetico. La descrizione di un og
 
 Benché i costi siano riportati è sempre bene concedere gli oggetti magici come premi, tesoro, a seguito di missione.
 
-In linea di massima un oggetto Comune, l'unico che potrebbe trovarsi facilmente in una grande città, puoi costare dai 50 ai 100 mo, uno Non Comune tra i 150 ed i 500 mo, uno Raro tra i 500 e i 5000 mo, uno Molto Raro fino a 30000 mo e oltre c'è solo la leggenda...
+In linea di massima un oggetto Comune, l'unico che potrebbe trovarsi facilmente in una grande città, può costare dai 50 ai 100 mo; uno Non Comune tra i 150 e i 500 mo; uno Raro tra i 500 e i 5000 mo; uno Molto Raro fino a 30000 mo. Oltre, c'è solo la leggenda…
 
 Oggetti con un bonus oltre il +2, o Leggendari, non si comprano mai, deve essere un epica avventura a farli trovare.
 
@@ -217,7 +217,7 @@ Un'**arma** Anatema eccelle nell'attaccare certe creature. Contro il nemico pres
 
 **Rarità:** Raro; **Costo:** 24000 mo
 
-Questo **anello** immagazzina gli incantesimi lanciati su di esso, conservandoli fino a che chi lo indossa non ne faccia uso. L'anello può accumulare fino a 3 Incantesimi fino ad un massimo di 15 Punti Magia, con un massimo di 6 Punti Magia per singolo incantesimo.
+Questo **anello** immagazzina gli incantesimi lanciati su di esso, conservandoli fino a quando chi lo indossa non ne fa uso. L'anello può accumulare fino a 3 Incantesimi, per un massimo di 15 Punti Magia, con un massimo di 6 Punti Magia per singolo incantesimo.
 
 Qualsiasi creatura può lanciare un incantesimo accumulato di livello da 1 a 5 sull'anello toccandolo. L'incantesimo ha una DC pari a 10 + 2 x Livello incantesimo, l'eventuale Tiro per Colpire viene effettuato da chi lancia l'incantesimo.
 
@@ -768,7 +768,7 @@ Ogni volta che fai uso della bacchetta delle meraviglie tira un d100 e consulta 
 | 88-90 | Un flusso di 1d4 x 10 gemme del valore di 1 mo ciascuna scaturisce dalla punta della bacchetta in una linea lunga 9 metri e larga 1 metro. \newline Ogni gemma infligge 1 danno contundente, e il loro danno totale è diviso equamente tra tutte le creature sulla linea. |
 | 91-95 | Una raffica di luci scintillanti e colorate si estende da te in un raggio di 9 metri. Tu e tutte le creature nell'area dovete superare un Tiro Salvezza su Tempra con DC 15 o restare accecati per 1 minuto. Una creatura può ripetere il Tiro Salvezza al termine di ciascun suo round, terminando l'effetto su di sé in caso lo superi. |
 | 96-97 | La pelle del bersaglio assume un colorito blu intenso per 1d10 giorni. Se hai scelto un punto nello spazio, il soggetto sarà la creatura più vicina a quel punto. |
-| 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza di Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
+| 98-00 | Se il bersaglio è una creatura, deve effettuare un Tiro Salvezza su Tempra con DC 18. Se il bersaglio non è una creatura, il bersaglio diventi tu e sarai tu a effettuare il Tiro Salvezza. Se il Tiro Salvezza fallisce di 5 o più, il bersaglio è pietrificato. Se il Tiro Salvezza fallisce di meno, il bersaglio è intralciato e inizia a trasformarsi in pietra. Mentre è intralciato a questo modo, il bersaglio deve ripetere il Tiro Salvezza al termine di ciascun suo round, diventando pietrificato in caso di fallimento o terminando l'effetto in caso di successo. Il bersaglio resta pietrificato finché non sarà liberato dall'incantesimo pietra in carne o simili magie. |
 
 \end{multicoltab}
 
@@ -796,7 +796,7 @@ Questa **bacinella** maledetta ha l'apparenza di un'anfora elementale dell'acqua
 
 ### Balestra dei Dardi Arcani
 
-Questa **balestra** piccola ad una mano ha la capacità di manifestare un dardo magico.
+Questa **balestra** piccola a una mano ha la capacità di manifestare un dardo magico.
 Spendendo 1 Azione è possibile sparare un dardo magico come se fosse un singolo Dardo arcano.
 
 ### Bandana dell'Intelligenza
@@ -925,13 +925,13 @@ In aggiunta, il bastone possiede le seguenti capacità che costano 1 carica per 
 
 Le seguenti, potenti capacità costano 2 cariche per uso: evoca elementale, telecinesi. Il possessore del bastone riceve un bonus +2 ai tiri salvezza contro incantesimi.
 
-Il bastone può essere ricaricato, ma soltanto assorbendo le energie magiche lanciate contro il possessore, il quale può assorbirle in quantità pari a 1 carica per livello dell'incantesimo. Questa operazione è la sola Azione possibile in un round, ed il bastone non può essere usato per altri effetti nello stesso round in cui esso assorbe energia.
+Il bastone può essere ricaricato, ma soltanto assorbendo le energie magiche lanciate contro il possessore, il quale può assorbirle in quantità pari a 1 carica per livello dell'incantesimo. Questa operazione è la sola Azione possibile in un round, e il bastone non può essere usato per altri effetti nello stesso round in cui esso assorbe energia.
 
 Ciascun bastone ha un numero massimo di cariche possibili, ed esso assorbirà cariche solo fino al suo limite senza incorrere in effetti deleteri. Il possessore non ha modo di conoscere tale limite, o quante cariche sono state usate, a meno di non usare qualche metodo magico.
 
 Se il bastone assorbe energia in eccesso, esso esplode come nel caso di un colpo definitivo, descritto di seguito.
 
-Un bastone dell'arcimago può essere usato per un colpo definitivo, il che richiede che esso venga spezzato dal suo possessore. La rottura non deve essere accidentale e deve essere dichiarata. Tutte le cariche immagazzinate nel bastone vengono rilasciate istantaneamente nel raggio di 9 m. Tutte le creature entro 3 m subiscono ferite pari a 10 volte il numero di cariche nel bastone; tra i 3 m ed i 6 m le ferite sono 6 volte il numero di cariche; e tra i 6 m ed i 9 m le ferite sono 4 volte il numero di cariche. Un Tiro Salvezza su Tempra a DC 25 riduce il danno a metà.
+Un bastone dell'arcimago può essere usato per un colpo definitivo, il che richiede che esso venga spezzato dal suo possessore. La rottura non deve essere accidentale e deve essere dichiarata. Tutte le cariche immagazzinate nel bastone vengono rilasciate istantaneamente nel raggio di 9 m. Tutte le creature entro 3 m subiscono ferite pari a 10 volte il numero di cariche nel bastone; tra i 3 m e i 6 m le ferite sono 6 volte il numero di cariche; e tra i 6 m e i 9 m le ferite sono 4 volte il numero di cariche. Un Tiro Salvezza su Tempra a DC 25 riduce il danno a metà.
 
 Il personaggio che spezza il bastone ha il 50\% di probabilità di andare su un altro piano di esistenza, altrimenti il rilascio esplosivo di energia magica lo distrugge. Quando tutte le cariche sono state consumate, il bastone diviene un bastone +2. Se le cariche sono esaurite non può essere usato per un colpo definitivo.
 
@@ -996,7 +996,7 @@ Alcuni incantatori preferiscono creare Bauli Conservanti, che funzionano nell'id
 **Rarità:** Non Comune; **Costo:** 500 mo
 
 Questo è il modello più piccolo delle **borse** conservanti. All'apparenza è un piccolo sacchetto di 20 cm di diametro con una bocca larga circa altrettanto.
-Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 20 cm ed una lunghezza superiore ai 50cm.
+Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 20 cm e una lunghezza superiore ai 50cm.
 La capacità massima è di 20 kg/Ingombro 7.
 
 ### Borsa Conservante Tipo II
@@ -1004,7 +1004,7 @@ La capacità massima è di 20 kg/Ingombro 7.
 **Rarità:** Non Comune; **Costo:** 1000 mo
 
 Questo è il modello medio delle **borse** conservanti. All'apparenza è un sacchetto di 40 cm di diametro con una bocca larga circa altrettanto.
-Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 40 cm ed una lunghezza superiore ai 100cm.
+Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 40 cm e una lunghezza superiore ai 100cm.
 La capacità massima è di 100 kg/Ingombro 25.
 
 ### Borsa Conservante Tipo III
@@ -1012,14 +1012,14 @@ La capacità massima è di 100 kg/Ingombro 25.
 **Rarità:** Raro; **Costo:** 1500 mo
 
 All'apparenza è un **sacco** di 80 cm di diametro con una bocca larga circa altrettanto.
-Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 80 cm ed una lunghezza superiore ai 150cm. La capacità massima è di 200 kg/Ingombro 50.
+Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 80 cm e una lunghezza superiore ai 150cm. La capacità massima è di 200 kg/Ingombro 50.
 
 ### Borsa Conservante Tipo IV
 
 **Rarità:** Molto Raro; **Costo:** 5000 mo
 
 All'apparenza è un **saccone** di 120 cm di diametro con una bocca larga circa altrettanto.
-Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120 cm ed una lunghezza superiore ai 200cm. La capacità massima è di 300 kg/Ingombro 75.
+Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120 cm e una lunghezza superiore ai 200cm. La capacità massima è di 300 kg/Ingombro 75.
 
 ### Borsa dei Fagioli
 
@@ -1027,7 +1027,7 @@ Non è possibile fare entrare oggetti che abbiano una larghezza superiore ai 120
 
 All'interno di questa **borsa** si trovano 3d4 fagioli secchi. La borsa pesa 250 grammi più 125 grammi per ogni fagiolo che contiene.
 
-Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggio di 3 metri. Ogni creatura nell'area, te compreso, deve effettuare un Tiro Salvezza di Riflessi con DC 18, subendo 5d4 danni da fuoco se lo fallisce, o la metà di questi danni se lo supera.
+Se riversi il contenuto della borsa sul terreno, i fagioli esplodono in un raggio di 3 metri. Ogni creatura nell'area, te compreso, deve effettuare un Tiro Salvezza su Riflessi con DC 18, subendo 5d4 danni da fuoco se lo fallisce, o la metà di questi danni se lo supera.
 
 Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o trasportati. Se rimuovi il fagiolo dalla borsa, lo pianti nel terreno o la sabbia, e lo innaffi, il fagiolo produrrà un effetto 1 minuto dopo, a partire dal punto del terreno in cui è stato piantato. Il Narratore sceglie l'effetto o lo determina casualmente.
 
@@ -1053,7 +1053,7 @@ Il fuoco incendia gli oggetti infiammabili nell'area che non siano indossati o t
 
 **Rarità:** Raro; **Costo:** 9000 mo
 
-Questa **borsa** magica funziona come una borsa conservante per 1d6 giorni. Trascorso questo periodo, tutto il materiale al suo interno o nuovo materiale aggiunto è soggetto ad una trasformazione dipendente dalla sua natura. Pietre preziose diventano inutili sassi, e metalli preziosi si trasformano in metalli di minor valore tipo piombo. Gli oggetti magici perdono il loro potere senza alcun Tiro Salvezza e si trasformano in oggetti mondani del loro tipo. Solo oggetti magici estremamente potenti sono possibilmente immuni a questo effetto.
+Questa **borsa** magica funziona come una borsa conservante per 1d6 giorni. Trascorso questo periodo, tutto il materiale al suo interno o nuovo materiale aggiunto è soggetto a una trasformazione dipendente dalla sua natura. Pietre preziose diventano inutili sassi, e metalli preziosi si trasformano in metalli di minor valore tipo piombo. Gli oggetti magici perdono il loro potere senza alcun Tiro Salvezza e si trasformano in oggetti mondani del loro tipo. Solo oggetti magici estremamente potenti sono possibilmente immuni a questo effetto.
 
 ### Borsa Divorante
 
@@ -1067,13 +1067,13 @@ Un'altra creatura può usare due azioni per afferrare la creatura all'interno de
 
 **Rarità:** Molto Raro; **Costo:** 15000 mo
 
-Questa **bottiglia** di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo ed un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
+Questa **bottiglia** di ottone dipinta pesa 500 grammi. Quando usi due azioni per rimuoverne il tappo, una nube di denso fumo fuoriesce dalla bottiglia. Al termine del tuo round, il fumo si dissipa in un lampo di fuoco innocuo e un efreeti compare in uno spazio non occupato entro 9 metri da te. La prima volta che la bottiglia viene aperta, il Narratore determina casualmente cosa accade.
 
 \begin{multicoltab}
 
 | \mchead[][]{**3d6** | **Effetto**} |
 | 3-5 | L'efreeti ti attacca. Dopo aver combattuto per 5 round, l'efreeti scompare e la bottiglia perde la sua magia. |
-| 6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia ed un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
+| 6-16 | L'efreeti ti obbedisce per 1 ora, agendo ai tuoi comandi. Poi torna nella bottiglia e un nuovo tappo appare e la chiude. Il tappo non potrà essere rimosso prima che siano passate 24 ore. Le prossime due volte che la bottiglia viene aperta, si ripresenta lo stesso effetto. Se la bottiglia viene aperta una quarta volta, l'efreeti scappa e scompare e la bottiglia perde la sua magia. |
 | 17-18 | L'efreeti può lanciare l'incantesimo desiderio a tuo favore per tre volte. Scompare quando conferisce il desiderio finale o dopo 1 ora, allorché la bottiglia perde la sua magia. |
 
 \end{multicoltab}
@@ -1242,7 +1242,7 @@ Se non sei un nano, ottieni i seguenti benefici aggiuntivi quando indossi questa
 
 **Rarità:** Non Comune; **Costo:** 400 mo
 
-Questa **sostanza** bianco lattea e viscosa può formare un legame adesivo permanente tra qualsiasi due oggetti. Deve essere contenuto in una giara o ampolla che è stata ricoperta all'interno di olio di scivolosità. Quando viene trovata, il suo contenitore ne tiene 1d6 + 1 per 30 grammi. 30 grammi di colla possono coprire una superficie quadrata di 30 centimetri di lato. La colla ci mette 1 minuto per fissarsi. Una volta fissata la colla, il legame creato può essere spezzato solo dal solvente universale o l'olio della forma eterea, o tramite l'incantesimo desiderio.
+Questa **sostanza** bianco-lattea e viscosa può formare un legame adesivo permanente tra due oggetti qualsiasi. Deve essere contenuta in una giara o ampolla ricoperta internamente di olio di scivolosità. Quando viene trovata, il suo contenitore ne contiene 1d6 + 1 dosi per 30 grammi. 30 grammi di colla possono coprire una superficie quadrata di 30 centimetri di lato. La colla ci mette 1 minuto per fissarsi. Una volta fissata, il legame creato può essere spezzato solo dal solvente universale, dall'olio della forma eterea o tramite l'incantesimo desiderio.
 
 ### Collana del Rosario
 
@@ -1256,7 +1256,7 @@ Esistono sei tipi di sfere magiche. Il Narratore decide il tipo di ciascuna sfer
 
 \begin{multicoltab}
 
-| \mchead[][]{**3d6** | **Sfera di...** | **Incantesimo**} |
+| \mchead[][]{**3d6** | **Sfera di…** | **Incantesimo**} |
 | 3-5 | Benedizione | Benedizione |
 | 6-11 | Cura | Cura ferite 5 o Ristorare inferiore |
 | 12-14 | Favore Divino | Ristorare superiore |
@@ -1308,7 +1308,7 @@ Questa capacità speciale può essere aggiunta solo a un'**arma** da mischia. Un
 
 **Rarità:** Non Comune; **Costo:** 2000 mo
 
-Questa **corda** di seta lunga 18 metri, pesa 1,5 chili, ingombro 1, e può sostenere fino a 1.500 chili. Se impugni un'estremità della corda e usi due azioni per pronunciare la parola di comando, la corda si anima. Con due azioni puoi comandare all'altra estremità di muoversi verso una destinazione a tua scelta. Quell'estremità si muove di 3 metri durante il tuo round quando riceve il tuo primo comando, e di 3 metri durante ciascun round successivo finché non raggiunge la sua destinazione, fino alla sua lunghezza massima, o finché non le dici di fermarsi. Puoi anche dire alla corda di stringersi o sganciarsi da un oggetto, annodarsi o snodarsi o riavvolgersi per essere trasportata. Se dici alla corda di compiere un nodo, grossi nodi compariranno a intervalli di 30 centimetri lungo la corda. Mentre è annodata, la corda diminuisce fino ad un lunghezza di 15 metri e conferisce +1d6 alle prove effettuate per arrampicarvisi.
+Questa **corda** di seta lunga 18 metri, pesa 1,5 chili, ingombro 1, e può sostenere fino a 1.500 chili. Se impugni un'estremità della corda e usi due azioni per pronunciare la parola di comando, la corda si anima. Con due azioni puoi comandare all'altra estremità di muoversi verso una destinazione a tua scelta. Quell'estremità si muove di 3 metri durante il tuo round quando riceve il tuo primo comando, e di 3 metri durante ciascun round successivo finché non raggiunge la sua destinazione, fino alla sua lunghezza massima, o finché non le dici di fermarsi. Puoi anche dire alla corda di stringersi o sganciarsi da un oggetto, annodarsi o snodarsi o riavvolgersi per essere trasportata. Se dici alla corda di compiere un nodo, grossi nodi compariranno a intervalli di 30 centimetri lungo la corda. Mentre è annodata, la corda diminuisce fino a un lunghezza di 15 metri e conferisce +1d6 alle prove effettuate per arrampicarvisi.
 
 La corda ha Difesa 20, Durezza 3 e 20 Punti Ferita. Recupera 1 punto ferita ogni 5 minuti finché ha almeno 1 punto ferita. Se la corda scende a 0 Punti Ferita, è distrutta.
 
@@ -1372,7 +1372,7 @@ Il cubo perde cariche quando la barriera viene presa come bersaglio da certi inc
 
 \end{multicoltab}
 
-Qui sotto le proprietà di ogni faccia attivabile ed il relativo costo in cariche.
+Qui sotto le proprietà di ogni faccia attivabile e il relativo costo in cariche.
 
 \begin{multicoltab}
 
@@ -1462,7 +1462,7 @@ Questa capacità speciale può essere aggiunta solo a **proiettili**. Un proiett
 
 Devi indossare una ***cintura** dei giganti* (qualsiasi varietà) e i *guanti del potere orchesco* per poter usare quest'arma.
 
-Mentre usi il martello il tuo punteggio di Forza aumenta di 2 (fino ad un massimo di 7).
+Mentre usi il martello il tuo punteggio di Forza aumenta di 2 (fino a un massimo di 7).
 
 Quando ottieni un critico sul Tiro per Colpire effettuato con quest'arma contro un gigante, il gigante deve superare un tiro Salvezza su Tempra con DC 21 o morire.
 
@@ -1570,7 +1570,7 @@ Un'**armatura** con la capacità Felpa conta per quanto concerne le penalità di
 
 **Requisiti:** Creare Oggetti Magici 2, Contagio
 
-Questa capacità può essere aggiunta solo ad **armi** da mischia da taglio o perforante. Un'arma da Ferimento infligge 1 danno da Sanguinamento quando colpisce una creatura. Danni multipli di quest'arma sommano il danno da Sanguinamento fino ad un massimo di 10.
+Questa capacità può essere aggiunta solo ad **armi** da mischia da taglio o perforante. Un'arma da Ferimento infligge 1 danno da Sanguinamento quando colpisce una creatura. Danni multipli di quest'arma sommano il danno da Sanguinamento fino a un massimo di 10.
 Le creature sanguinanti subiscono il danno da Sanguinamento all'inizio del loro round.
 
 Le creature immuni ai Colpi Critici sono immuni ai danni da Sanguinamento inflitti da quest'arma.
@@ -1712,7 +1712,7 @@ Quando un'arma Gloriosa effettua un Colpo Critico, il bersaglio è Accecato fino
 
 **Rarità:** Non Comune; **Costo:** 3000 mo
 
-Questi **guanti** sembrano quasi fondersi con la tua pelle quando li indossi. Quando un attacco con arma a distanza ti colpisce mentre li indossi, puoi usare un'Azione di Reazione per ridurre il danno di 1d10 + Destrezza, purché tu abbia una mano libera. Se riduci il danno a 0 ed il proiettile è piccolo a sufficienza da essere tenuto in mano, puoi afferrarlo.
+Questi **guanti** sembrano quasi fondersi con la tua pelle quando li indossi. Quando un attacco con arma a distanza ti colpisce mentre li indossi, puoi usare un'Azione di Reazione per ridurre il danno di 1d10 + Destrezza, purché tu abbia una mano libera. Se riduci il danno a 0 e il proiettile è piccolo a sufficienza da essere tenuto in mano, puoi afferrarlo.
 
 ### Guanti del Nuoto e della Scalata
 
@@ -1730,11 +1730,11 @@ Mentre indossi queste **manopole** la tua Forza è 4. I guanti non hanno effetto
 
 **Costo:** 12000 mo
 
-Rari, questi **guanti** impartiscono al possessore una Destrezza minima di +2 e nel caso abbia già un punteggio di +2 questa aumenta di 1 (fino ad un massimo +4). Inoltre il possessore acquisisce +1d6 nella Competenza Mani di Fata
+Rari, questi **guanti** impartiscono al possessore una Destrezza minima di +2 e nel caso abbia già un punteggio di +2 questa aumenta di 1 (fino a un massimo +4). Inoltre il possessore acquisisce +1d6 nella Competenza Mani di Fata
 
 ### Guanti Maldestri
 
-Questi **guanti** possono essere di morbido cuoio o pesante materiale protettivo adatto per l'uso con armature. Nel primo caso sembrano essere guanti della destrezza. Nel secondo caso essi sembrano essere guanti del potere orchesco. Ad ogni prova i guanti sembrano avere le funzioni di cui sopra fino a quando chi li indossa non è sotto attacco o in una situazione di vita o di morte. In quel momento la maledizione si attiva. Il personaggio diviene maldestro, con una probabilità del 50\% ad ogni round di lasciar cadere un oggetto che tiene nelle mani. I guanti riducono la Destrezza di 2 punti. Una volta che la maledizione è attiva, i guanti possono essere rimossi soltanto con un incantesimo Rimuovi Maledizione od un desiderio.
+Questi **guanti** possono essere di morbido cuoio o pesante materiale protettivo adatto per l'uso con armature. Nel primo caso sembrano essere guanti della destrezza. Nel secondo caso essi sembrano essere guanti del potere orchesco. Ad ogni prova i guanti sembrano avere le funzioni di cui sopra fino a quando chi li indossa non è sotto attacco o in una situazione di vita o di morte. In quel momento la maledizione si attiva. Il personaggio diviene maldestro, con una probabilità del 50\% a ogni round di lasciar cadere un oggetto che tiene nelle mani. I guanti riducono la Destrezza di 2 punti. Una volta che la maledizione è attiva, i guanti possono essere rimossi soltanto con un incantesimo Rimuovi Maledizione o un desiderio.
 
 ### Guardiana
 
@@ -2236,13 +2236,13 @@ Una tipica **palla** di cristallo ha il diametro di circa 15 centimetri. Mentre 
 
 **Rarità:** Raro
 
-Questo oggetto **maledetto** è indistinguibile da una normale Palla di cristallo. Tuttavia chiunque tenti di usare il dispositivo rimane affascinato per 1d6 turni, ed una suggestione telepatica viene impiantata nella sua mente se fallisce un Tiro Salvezza su Volontà DC 27. L'utilizzatore del dispositivo crede di aver visto la creatura o scena desiderata, ma in realtà è sotto l'influenza di un potente incantatore, o addirittura una potenza o essere da un altro piano di esistenza. Ad ogni uso ulteriore l'utilizzatore cade sempre più sotto l'influenza del controllore, come servo o come strumento. L'utilizzatore è sempre ignaro di essere soggiogato.
+Questo oggetto **maledetto** è indistinguibile da una normale Palla di cristallo. Tuttavia chiunque tenti di usare il dispositivo rimane affascinato per 1d6 turni, e una suggestione telepatica viene impiantata nella sua mente se fallisce un Tiro Salvezza su Volontà DC 27. L'utilizzatore del dispositivo crede di aver visto la creatura o scena desiderata, ma in realtà è sotto l'influenza di un potente incantatore, o addirittura una potenza o essere da un altro piano di esistenza. Ad ogni uso ulteriore l'utilizzatore cade sempre più sotto l'influenza del controllore, come servo o come strumento. L'utilizzatore è sempre ignaro di essere soggiogato.
 
 ### Pantofole del Ragno
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
-Mentre indossi queste **scarpe** leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di movimento. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su terreno difficile, come pareti coperte da ghiaccio, da olio, macerie...
+Mentre indossi queste **scarpe** leggere, puoi muoverti verso l'alto, il basso, e lungo superfici verticali e a testa in giù sul soffitto, lasciando libere le mani. Hai una velocità di scalata pari alla velocità di movimento. Tuttavia, le pantofole non ti permettono di muoverti a questo modo su terreno difficile, come pareti coperte da ghiaccio, da olio, macerie…
 
 ### Perfida
 
@@ -2718,7 +2718,7 @@ Questa **scopa** magica sembra una scopa volante. Tuttavia, quando viene attivat
 
 ### Scopa dell'Attacco animato
 
-Questo oggetto è indistinguibile in apparenza da una **scopa** normale. A tutti i test risulta identica ad una scopa volante, finché vola a 6 metri d'altezza. Quando ciò avviene la scopa esegue una piroetta e fa cadere il suo pilota sulla testa da un'altezza di 1d4+5 x 30 cm (non viene inflitto danno da caduta poiché la distanza è inferiore a 3 m). La scopa quindi attacca la vittima, colpendola in viso con la spazzola e battendola con il manico. La scopa effettua due attacchi per round con ciascuna estremità (due attacchi con la spazzola e due col manico per un totale di quattro attacchi). La spazzola acceca la vittima per 1 round quando colpisce. Il manico infligge 1d3 ferite. La scopa ha Difesa 13, 18 Punti Ferita, e ha +4 al Tiro per Colpire.
+Questo oggetto è indistinguibile in apparenza da una **scopa** normale. A tutti i test risulta identica a una scopa volante, finché vola a 6 metri d'altezza. Quando ciò avviene la scopa esegue una piroetta e fa cadere il suo pilota sulla testa da un'altezza di 1d4+5 x 30 cm (non viene inflitto danno da caduta poiché la distanza è inferiore a 3 m). La scopa quindi attacca la vittima, colpendola in viso con la spazzola e battendola con il manico. La scopa effettua due attacchi per round con ciascuna estremità (due attacchi con la spazzola e due col manico per un totale di quattro attacchi). La spazzola acceca la vittima per 1 round quando colpisce. Il manico infligge 1d3 ferite. La scopa ha Difesa 13, 18 Punti Ferita, e ha +4 al Tiro per Colpire.
 
 ### Scopa Volante
 
@@ -2758,7 +2758,7 @@ Artefatto, questa **sfera** nera di 50 centimetri di diametro è in realtà un f
 
 La sfera annienta tutta la materia che attraversa e tutta la materia che l'attraversa. L'unica eccezione sono gli artefatti. A meno che l'artefatto non sia suscettibile ai danni della sfera dell'annientamento esso può attraversare la sfera senza problemi. Qualsiasi altra cosa tocchi la sfera e non ne sia completamente avvolta e annientata da essa, subisce 4d10 danni da forza a round.
 
-La sfera resta immobile fino a quando qualcuno non la controlla. Se ti trovi entro 18 metri da una sfera incontrollata, puoi impiegare due azioni per effettuare una prova di Arcana con DC 30. Se la superi, la sfera levita in una direzione a tua scelta, per un numero di metri pari a 1 x Intelligenza (minimo 1 metro). Se fallisci, la sfera si muove di 3 metri verso di te. Una creatura nel cui spazio entri la sfera deve superare un Tiro Salvezza di Riflessi con DC 15 o venire toccata da essa subendo 4d10 danni da forza.
+La sfera resta immobile fino a quando qualcuno non la controlla. Se ti trovi entro 18 metri da una sfera incontrollata, puoi impiegare due azioni per effettuare una prova di Arcana con DC 30. Se la superi, la sfera levita in una direzione a tua scelta, per un numero di metri pari a 1 x Intelligenza (minimo 1 metro). Se fallisci, la sfera si muove di 3 metri verso di te. Una creatura nel cui spazio entri la sfera deve superare un Tiro Salvezza su Riflessi con DC 15 o venire toccata da essa subendo 4d10 danni da forza.
 
 Se tenti di controllare una sfera che si trova sotto il controllo di un'altra creatura, effettui una prova contrastata di arcana contro arcana dell'altra creatura. Il vincitore della contesa ottiene il controllo della sfera e può farla levitare come di norma.
 
@@ -2768,7 +2768,7 @@ Se tenti di controllare una sfera che si trova sotto il controllo di un'altra cr
 
 **Requisiti:** Creare Oggetti Magici, Onda rovente; **Rarità:** Rara
 
-Uno **scudo** con questa capacità speciale di solito è realizzato con le fauci di un drago spalancate sulla parte anteriore. Uno scudo con la capacità speciale Soffio del Dragone è legato a un tipo di energia (veleno, elettricità, freddo o fuoco). Lo scudo recupera 1 carica ad ogni alba e ne può tenere fino a 10.
+Uno **scudo** con questa capacità speciale di solito è realizzato con le fauci di un drago spalancate sulla parte anteriore. Uno scudo con la capacità speciale Soffio del Dragone è legato a un tipo di energia (veleno, elettricità, freddo o fuoco). Lo scudo recupera 1 carica a ogni alba e ne può tenere fino a 10.
 
 A comando, 2 Azioni, chi lo indossa può consumare da 1 a 5 cariche dello scudo per fargli emettere un Soffio in un cono di 3 metri che infligge 1d4 danni da energia per carica consumata (Riflessi DC 13 dimezza). Questo danno è dello stesso tipo di energia legato allo scudo. Uno scudo non può avere più di una capacità Soffio del Dragone.
 
@@ -2806,7 +2806,7 @@ Quando questo **specchio** alto 120 centimetri viene guardato in maniera indiret
 
 Se lo specchio è appeso a una superficie verticale e ti trovi entro 1 metro da esso, puoi usare due azioni per pronunciare la sua parola di comando e attivarlo. Rimarrà attivo fino a quando non pronuncerai di nuovo la parola di comando.
 
-Qualsiasi creatura, a parte te, che veda il suo riflesso nello specchio attivato mentre si trova entro 9 metri da esso deve superare un Tiro Salvezza su Volontà con DC 17 o finire intrappolata, insieme a tutto ciò che indossa o trasporta, in una delle dodici celle extradimensionali dello specchio. Questo Tiro Salvezza riceve +1d6 se la creatura conosce la natura dello specchio ed i costrutti riescono automaticamente il Tiro Salvezza.
+Qualsiasi creatura, a parte te, che veda il suo riflesso nello specchio attivato mentre si trova entro 9 metri da esso deve superare un Tiro Salvezza su Volontà con DC 17 o finire intrappolata, insieme a tutto ciò che indossa o trasporta, in una delle dodici celle extradimensionali dello specchio. Questo Tiro Salvezza riceve +1d6 se la creatura conosce la natura dello specchio e i costrutti riescono automaticamente il Tiro Salvezza.
 
 Una cella extradimensionale è uno spazio infinito colmo di una densa foschia che riduce la visibilità a 3 metri. Le creature intrappolate nelle celle dello specchio non invecchiano, e non hanno bisogno di mangiare, bere o dormire. Una creatura intrappolata all'interno di una cella può fuggirne usando la magia che permette di viaggiare tra i piani. Altrimenti, la creatura è confinata nella cella fino a quando non sarà liberata.
 
@@ -2848,7 +2848,7 @@ Mentre indossi questi **stivali** hai resistenza ai danni da freddo, ignori il t
 
 **Rarità:** Non Comune; **Costo:** 5000 mo
 
-Mentre indossi questi **stivali**, la tua velocità di movimento diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. Inoltre, salti tre volte la normale distanza, fino ad un massimo di 9 metri.
+Mentre indossi questi **stivali**, la tua velocità di movimento diventa 9 metri, a meno che non sia superiore, e la tua velocità non viene ridotta qualora tu sia ingombrato o stia indossando un'armatura pesante. Inoltre, salti tre volte la normale distanza, fino a un massimo di 9 metri.
 
 ### Stivali della Levitazione
 
@@ -2981,7 +2981,7 @@ Un'**arma** Tonante crea un tremendo frastuono simile a quello di un tuono, quan
 
 **Requisiti:** Creare Oggetti Magici 2, Creazione Maggiore
 
-Questa capacità si può aggiungere solo ad **armi** da mischia. Un'arma Trasformante altera la sua forma a comando di chi la impugna, diventando una qualsiasi altra arma da mischia con la stessa dimensione. Ad esempio, una Spada Lunga trasformante può assumere la forma di una qualsiasi altra arma da mischia a una mano media, come una Scimitarra, un Flagello od un Tridente, ma non un'arma da mischia piccola o grande (come una Spada Corta o uno Spadone a due mani).
+Questa capacità si può aggiungere solo ad **armi** da mischia. Un'arma Trasformante altera la sua forma a comando di chi la impugna, diventando una qualsiasi altra arma da mischia con la stessa dimensione. Ad esempio, una Spada Lunga trasformante può assumere la forma di una qualsiasi altra arma da mischia a una mano media, come una Scimitarra, un Flagello o un Tridente, ma non un'arma da mischia piccola o grande (come una Spada Corta o uno Spadone a due mani).
 
 L'arma conserva tutte le sue capacità, compresi bonus e capacità speciali dell'arma, ad eccezione di quelle proibite dalla sua nuova forma attuale. Se lasciata incustodita, l'arma ritorna alla sua forma originaria.
 
@@ -3143,7 +3143,7 @@ Spendendo 1 carica, il possessore della **verga** può lanciare dominare bestie,
 
 **Rarità:** Molto Raro; **Costo:** 50000 mo
 
-Mentre impugni questa **verga**, puoi usare un'Azione per assorbire un incantesimo che prenda come bersaglio solo te e privo di un'area di effetto. L'effetto dell'incantesimo assorbito è cancellato, e l'energia dell'incantesimo (non l'incantesimo stesso) viene assorbita dalla verga. Nel corso della sua esistenza la verga può assorbire e contenere fino ad una somma di 31 Livelli di incantesimi. Una volta che la verga ha assorbito 8 incantesimi (max livello 4), non ne potrà più assorbire. Se sei il bersaglio di un incantesimo che la verga non può contenere, la verga non ha alcun effetto sull'incantesimo. Quando prendi in mano la verga, sai quanti incantesimi la verga ha assorbito finora. Se sei un incantatore e impugni la verga, puoi convertire tutta l'energia contenuta per avere 10 Punti Magia in più.
+Mentre impugni questa **verga**, puoi usare un'Azione per assorbire un incantesimo che prenda come bersaglio solo te e privo di un'area di effetto. L'effetto dell'incantesimo assorbito è cancellato, e l'energia dell'incantesimo (non l'incantesimo stesso) viene assorbita dalla verga. Nel corso della sua esistenza la verga può assorbire e contenere fino a una somma di 31 Livelli di incantesimi. Una volta che la verga ha assorbito 8 incantesimi (max livello 4), non ne potrà più assorbire. Se sei il bersaglio di un incantesimo che la verga non può contenere, la verga non ha alcun effetto sull'incantesimo. Quando prendi in mano la verga, sai quanti incantesimi la verga ha assorbito finora. Se sei un incantatore e impugni la verga, puoi convertire tutta l'energia contenuta per avere 10 Punti Magia in più.
 
 ### Verga della Forza Sovrana
 

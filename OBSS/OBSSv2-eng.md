@@ -8,7 +8,7 @@
 
 ---
 
-Dedicated to the only Woman I' \*\*ve ever loved, the one who accompanies me in my dreams every day
+Dedicated to the only woman I have ever loved, the one who accompanies me in my dreams every day.
 
 Never give up on your desires, persevere until you make them real.
 
@@ -20,22 +20,22 @@ Never give up on your desires, persevere until you make them real.
 
 > The fact that men learn little from history is the most important lesson that history teaches us. (Aldous Huxley)
 
-# The story so far...
+# The Story So Far\ldots
 
 The world as we know it is a faded memory, a canvas torn by cataclysms and the fury of the gods. Legends, myths, and fantasy have overlapped in a cacophonous jumble with the reality of facts.
 
-Somewhere in the third millennium of the old calendar, the unthinkable happened: what would never have been imagined or desired occurred. From one day to the next, Earth found itself involved in a war between entities of divine power that did nothing but destroy our poor world, with the collaboration of various nations.
+Somewhere in the third millennium of the old calendar, the unthinkable happened: something no one could ever have imagined or desired occurred. From one day to the next, Earth found itself involved in a war between entities of divine power that did nothing but destroy our poor world, with the collaboration of various nations.
 
 *Freten* was a company that developed alternative energy systems based on the possibility of drawing energy from elsewhere or, as they said, from the cosmic void.
 It was never clarified what the origins of their experiments were. Most likely, they had actually found something (*someone?*) that could act as a portal to tap into this virtually unlimited form of energy.
 
 On the day of the inauguration of their first reactor, powered by what they called **Omniessence**, a *part* of their *invention*, the impossible happened.
 
-The accounts become very confused at this point; in fact, the *Omniessence* was actually something real and *alive*, a part of a greater energy. When the reactor was activated, it exploded with energy and force never seen on Earth, and a large part of what were the central states of the USA was vaporized instantly.
+The accounts become very confused at this point; in fact, the *Omniessence* was actually something real and *alive*, a part of a greater energy. When the reactor was activated, it exploded with energy and force never seen on Earth, and a large part of what had been the central states of the USA was vaporized instantly.
 
 At the point where the Freten headquarters once stood, a breach opened like a portal: a colossal flame divided into two tongues of fire of different colors.
 
-From this flame emerged a massive *red dragon* whose scales were impenetrable to any human weapon. Tàhil, this was his name, in the first 24 hours destroyed what remained of the east coast of the United States.
+A massive *red dragon* emerged from the flame. Its scales were impervious to any human weapon. His name was Tàhil, and within the first 24 hours he had destroyed what remained of the east coast of the United States.
 
 At the dawn of the second day, a mystical energy enveloped Tàhil, and he transformed into a dragon with many heads of different colors. In his chest appeared another breach, and with each step, a multitude of other dragons, fortunately *slightly* smaller, began to emerge.
 
@@ -49,24 +49,24 @@ At the dawn of the twelfth day, Tàhil proclaimed the Edict of Anarchy, and peop
 
 At the dawn of the nineteenth day, the Edict of Sacrifice killed a third of the population in a ruthless demonstration of his power.
 
-At the dawn of the thirtieth day, Tàhil proclaimed the Edict of Refoundation. New breaches opened, and other beings, other powers manifested. The world was transformed, and new rules were written.
+At the dawn of the thirtieth day, Tàhil proclaimed the Edict of Refoundation. New breaches opened, and other beings and powers manifested. The world was transformed, and new rules were written.
 
 Meanwhile, for an entire year, the dragons destroyed and killed everything and everyone. No army survived, no government remained in office, no nation could still call itself such.
 
 Earthlings had been punished for their affront; only 10\% of the population had survived.
 
-These new beings destroyed, made disappear, sank, overturned, and altered entire cities; changed environments and animals; and made new species appear. Hordes of monsters described in children' \*\*s game books appeared out of nowhere. Reality was, for them, a whim to be manipulated according to their eccentric tastes.
+These new beings destroyed, erased, sank, overturned, and altered entire cities; changed environments and animals; and caused new species to appear. Hordes of monsters described in children' \*\*s game books appeared out of nowhere. Reality was, for them, a whim to be manipulated according to their eccentric tastes.
 
-Nations as we knew them no longer existed, nature itself had changed into the most alien forms possible. Many areas were nuclear deserts, inhospitable and lethal to anyone, or almost.
+Nations as we knew them no longer existed, and nature itself had changed into the most alien forms possible. Many areas were nuclear deserts, inhospitable and lethal to anyone, or almost so.
 
-Then the entities, except for Tàhil and the dragons, disappeared into nothingness, for six months. After these 6 months, the dreams of the few remaining beings began to be assailed by visions of other *beings*, other entities.
+Then the entities, except for Tàhil and the dragons, disappeared into nothingness for six months. After six months, the dreams of the few remaining beings began to be assailed by visions of other *beings* and entities.
 
-And so came the second wave of *Patrons*, as they collectively called themselves. Fortunately, these beings proved to be, all in all, gentler and more *human*, or at least some of them were. They reclaimed much of the radioactive zones and taught those who accepted their Traits to draw on their energy to formulate real, actual, concrete **magic**!
+And so came the second wave of *Patrons*, as they collectively called themselves. Fortunately, these beings proved to be gentler and more *human*, or at least some of them were. They reclaimed much of the radioactive zones and taught those who accepted their Traits to draw on their energy to perform real **magic**!
 Some entities created or summoned other races, whether to dominate humans, guide them, or add chaos and entropy to the world.
 
 Just over a hundred years have passed since the second coming, yet that has been enough for our Earth to return to a medieval period of fantastic origins.
 
-Many of the darker Patrons have opened portals to realms of nightmare if not demonic, others have drawn from local folklore to amuse themselves with our suffering and death. As deities, the Patrons walk the Earth with the sole purpose of having more people worship them, follow their teachings, and bear their Traits.
+Many of the darker Patrons have opened portals to realms of nightmare, some of them even demonic. Others have drawn from local folklore to amuse themselves with our suffering and death. As deities, the Patrons walk the Earth with the sole purpose of having more people worship them, follow their teachings, and bear their Traits.
 
 > You can discover more about a person in an hour of play than in a year of conversation. (Plato)
 
@@ -76,7 +76,7 @@ Welcome to **OBSS**, a world where the ordinary blends with the incredible, wher
 
 Prepare to face unexpected challenges, forge fragile alliances, and fight for survival in a chaotic and dangerous world.
 
-The Game Master is the architect of this world, the one who shapes reality and weaves the threads of the story. They will present you with challenges, describe places, bring non-player characters to life, and interpret the consequences of your actions. In OBSS, collaboration between players and Game Master is essential to create an engaging and unforgettable gaming experience.
+The Game Master is the architect of this world, the one who shapes reality and weaves the threads of the story. They will present you with challenges, describe places, bring non-player characters to life, and interpret the consequences of your actions. In OBSS, collaboration between the players and the Game Master is essential to create an engaging and unforgettable gaming experience.
 The true rule that the Game Master must remember is that whatever rule is used, as long as it makes everyone have fun, is the right one!
 
 Survival is the fundamental law of this world. In OBSS, there are no guarantees of success, and every step could be the last. But it is precisely in this struggle for survival that true heroes are forged. Through your actions, your cunning, and your courage, you can claim the Law of Reward, gaining experience, wealth, and the opportunity to influence the course of events.
@@ -106,31 +106,31 @@ OBSS wants to continue along the path of an inclusive and free game. Each group 
 
 Here is a list of terms and concepts that you will find repeated throughout the book.
 
-**+1d6 or -1d6**: is a bonus or penalty to a check. Add or subtract a 6-sided die roll from the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
+**+1d6 or -1d6**: A +1d6 or -1d6 modifier is a bonus or penalty to a check. Add or subtract a 6-sided die roll from the check. The maximum penalty brings the number of dice rolled to 0, and the maximum bonus to +3d6.
 
-**Ability scores**:   Also called characteristics or stats. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the character' \*\*s ability in that specific area.
+**Ability scores**:   Ability scores, also called characteristics or stats, represent each character' \*\*s abilities. Each character has 6 Ability Scores: Strength (STR), Dexterity (DEX), Constitution (CON), Intelligence (INT), Wisdom (WIS), and Charisma (CHA). The higher the score, the greater the character' \*\*s ability in that specific area.
 
 	**Action**:  An Action represents what a character does in a time interval. Everything the character does is measured in Actions. Fighting, casting Spells, picking locks, drinking potions, moving... In each round, you can take 3 Actions. An Action lasts about 3 seconds.
 
-**Attack Roll (AR)**:  is an attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by the weapon list...) against Defense (armor + shield + Feats + magic...). An Attack Roll can be melee (for creatures close to your weapon) or ranged (for bows, crossbows, and thrown daggers...). Read the combat chapter carefully.
+**Attack Roll (AR)**:  An Attack Roll is an attack check (Weapon Proficiency + Strength/Dexterity + Feats + capabilities given by the weapon list\ldots) against Defense (armor + shield + Feats + magic\ldots). An Attack Roll can be melee (for creatures close to your weapon) or ranged (for bows, crossbows, and thrown daggers\ldots). Read the combat chapter carefully.
 
 **Bonus**:  Any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
-**Casting Spells while Distracted or after a Recent Wound**: when a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise distracted during the casting of a spell, they must make a Magic Check.
+**Casting Spells while Distracted or after a Recent Wound**: When a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise distracted while casting a spell, they must make a Magic Check.
 
 **Check/Test**:  A check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
 **Class**: In OBSS there are no classes. Each character is built based on what they can do; you won' \*\*t find the word Class in the manual. Each character is unique and defined by their choices.
 
-**Critical Success/Critical Failure in Magic test** : If the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
+**Critical Success/Critical Failure on a Magic Check** : If the player passes the Magic Check with a critical result, the spell may be spectacularly modified; conversely, bad things could happen to the spellcaster.
 
 **Damage Reduction (DR)**:   Some creatures have an innate resistance to damage and wounds. This resistance is denoted as DR. Damage is reduced after all resistances and Saving Throws.
 
 **Defense**:  Defense means the total value obtained from 10 + Shield + Armor + Dexterity + various bonuses. It represents the ability to avoid being hit and wounded. An enemy with high Defense could be extremely agile or have *thick skin* that is highly resistant to injury.
 
-**Devout**: a character who has bound themselves to a Patron and has at least 2 Traits in common.
+**Devotee**: A character who voluntarily chooses formal allegiance to the claiming Patron and has at least 2 distinct Traits in common with them. A character cannot be both a Devotee and a Follower.
 
-**Difficulty Class (DC)**:  indicates how difficult it is to succeed in a check. It can be used for skills (swimming...) as well as knowledge (poisons...). For spells, it is the difficulty of resisting the spell. It indicates the value that must be reached to succeed in the check.
+**Difficulty Class (DC)**:  The Difficulty Class indicates how difficult it is to succeed at a check. It can be used for skills (swimming\ldots) as well as knowledge (poisons\ldots). For spells, it is the difficulty of resisting the spell. It indicates the value that must be reached to succeed in the check.
 
 **Distance**: Distance, as far as combat is concerned, is measured in 1-meter squares.
 
@@ -138,11 +138,11 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Explosion of 6**: when you perform an Attack Roll, Saving Throw, Skill Check, Magic Check, or Initiative check, or whenever it is indicated that the Explosion of 6 applies, each die that rolls a 6 is noted and rolled again. The new result is also added, and if you roll another 6, you continue rolling until you stop rolling 6s.
 
-**Fate Points**:  or Beginner' \*\*s Luck are points available that the player can transform into d6 to add to Saving Throws, Attack Rolls, or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character' \*\*s level increases.
+**Fate Points**:  Fate Points, or Beginner' \*\*s Luck, are points that a player can convert into d6s to add to Saving Throws, Attack Rolls, or Skill Checks. They are called Beginner' \*\*s Luck because their number decreases as the character' \*\*s level increases.
 
-**Feat**:  These are special abilities that the character has learned to use. Often similar to magical abilities, they allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
+**Feat**:  A Feat is a special ability that a character has learned to use. Often similar to magical abilities, Feats allow special actions, override rules, and grant bonuses to Saving Throws that stack with each other. They are gained when leveling up (see Feats, page ).
 
-**Follower**: a character who has bound themselves to a Patron with 1 Trait in common.
+**Follower**: a character who voluntarily chooses formal allegiance to the claiming Patron and has at least 1 Trait in common with them. A character cannot be both a Follower and a Devotee.
 
 **Hit Points (HP)**: indicate vital energy, endurance, and the luck involved in resisting wounds. As long as a creature has at least 1 Hit Point, it fights at its best (though it might also decide to run away rather than die!). At each level, you gain a certain number of Hit Points established by the rules. Each wound is subtracted from this total, and when 0 (zero) Hit Points is reached, you faint and become unable to act.
 
@@ -150,7 +150,7 @@ If you are further injured and your Hit Points drop to -10 minus twice your Cons
 
 **Initiative**:  Initiative is a Dexterity or Intelligence check. It establishes the order of actions in combat. Whoever has the highest check result acts first.
 
-**Level**: the Level indicates the proficiency and power reached by the character. It can indicate how *strong* an enemy is.
+**Level**: Level indicates the proficiency and power attained by a character. It can also indicate how *strong* an enemy is.
 
 **Magic Check**: the Magic Check may be required in particular situations, for example when the character is wounded or distracted, but it can also be requested by the player.
 
@@ -165,9 +165,9 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 **Movement**:  Movement represents the ability to move around. A Movement Action represents the character moving. The higher the Movement value, the more meters a creature can move.
 
-**Narrator**: is the person who leads the adventure, establishes the rules, and controls the elements of the story. The duty of every Game Master is to entertain, be fair, and use common sense. The Game Master has the final word in every matter.
+**Narrator**: The Narrator is the person who leads the adventure, establishes the rules, and controls the elements of the story. The duty of every Game Master is to entertain, be fair, and use common sense. The Game Master has the final word in every matter.
 
-**NPC**:  a non-player character. These are characters, important or otherwise, whom the Game Master uses to guide the adventure.
+**NPC**:  An NPC is a non-player character. These are characters, important or otherwise, whom the Game Master uses to guide the adventure.
 
 **Rolling a one brings bad luck**:  if you roll a 1 on a die, subtract 1 from the total result. This doesn' \*\*t mean that a rolled 6 becomes a 5; the exploding 6s still apply. Just subtract 1 from the final result. In other words, 1 is worth 0.
 
@@ -181,29 +181,29 @@ Any creature that the character can reach with their non-ranged weapon is consid
 
 Damage **Resistance**: : a creature might have a resistance to a type of damage. In this case, it is considered to automatically halve the damage taken before applying any Saving Throws.
 
-**Round**: combat and Actions are divided into rounds. A round represents a unit of time lasting about 10 seconds. During a round, each creature can act according to its initiative and perform up to 3 Actions.
+**Round**: Combat and Actions are divided into rounds. A round represents a unit of time lasting about 10 seconds. During a round, each creature can act according to its initiative and perform up to 3 Actions.
 
-**Rounding**:  always round down unless explicitly stated otherwise, with a minimum of 1. E.g., 7/2 = 3, 9/4=2, and 1/2=1.
+**Rounding**:  Always round down unless explicitly stated otherwise, with a minimum of 1. E.g., 7/2 = 3, 9/4 = 2, and 1/2 = 1.
 
-**Saving Throw (ST)**:  when a creature is subjected to a particular effect, it often receives a Saving Throw to mitigate or nullify the effect. A Saving Throw is an action that does not occupy time or Actions.
+**Saving Throw (ST)**:  When a creature is subjected to a particular effect, it often receives a Saving Throw to mitigate or nullify the effect. A Saving Throw is an action that does not occupy time or Actions.
 
 Saving Throws concern reflexes and dodging (Reflex), resisting poisons/diseases or body changes (Fortitude), or resisting mental attacks and effects that act on judgment and will (Will).
 
 **Spell level**: indicates the scale (from 1 to 9) of the magical power of the spell.
 
-**Trait**:  indicates one component of a character. Each character chooses 5 Traits to compose and build their personality.
+**Trait**:  A Trait indicates one component of a character' \*\*s personality. Each character chooses 5 Traits to compose and build their personality.
 
 **Turn**:  is 10 minutes, that is, 60 rounds.
 
 > The D&D game has neither losers nor winners, it has only players who love to exercise their imagination. The players and the DM share in creating adventures in fantasy lands where heroes abound and magic actually works. In a certain sense, the D&D game has no rules, only rule suggestions. No rule is inviolate, particularly if a new or altered rule will encourage creativity and imagination. The important thing is to enjoy the adventure. (Tom Moldvay, 03/12/1980. And everything said also applies to OBSS! NdA)
 
-In the Manual, you will find different types of boxes, each has a precise meaning:
+In the Manual, you will find different types of boxes, each of which has a precise meaning:
 
 > Example of a box containing a quotation or motivational phrase
 
 >> **Information for the Player**: Box containing indications and clarifications for the Player. Recognizable by the icon $\dagger$.
 
->>> **Information for the Narrator**: Box containing indications and suggestions for the Game Master. Recognizable by the icon
+>>> **Information for the Narrator**: Box containing indications and suggestions for the Game Master. Recognizable by the icon .
 
 ---
 
@@ -218,8 +218,8 @@ It is the creatures that make the planet vital and rich, each one nourishes, con
 
 ## Humans
 
-Humans, with their desire for discovery, power, glory, violence, and reproduction, were the dominant race; the entire Earth bowed to their will until their coming.
-And humans became the species to hunt and kill, the dictate received from the first Patrons was clear and absolute, exterminate the humans who had killed the firstborn.
+Humans, with their desire for discovery, power, glory, violence, and reproduction, were the dominant race; the entire Earth bowed to their will until the Patrons' \*\* arrival.
+Humans then became the species to be hunted and killed; the message from the first Patrons was clear and absolute: exterminate the humans who had killed the firstborn.
 
 It is impossible to know how many humans have survived in the world; rough estimates place their number at under 500 million.
 
@@ -229,7 +229,7 @@ It is impossible to know how many humans have survived in the world; rough estim
 
 **Size**: Medium
 
-**Speed**: 9m
+**Speed**: 9 m
 
 **Languages**: Common
 
@@ -254,7 +254,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 **Size**: Medium
 
-**Speed**: 9m
+**Speed**: 9 m
 
 **Languages**: Elvish, Common
 
@@ -262,7 +262,7 @@ Elves are generally shorter, smaller, and slimmer than humans. The eyes always h
 
 ## Dwarves
 
-Dwarves are a stoic and severe race accustomed to the purest communism, without a true concept of property but of pure commonality of goods according to the idea that every dwarf works for the community and not for himself.
+Dwarves are a stoic and severe race accustomed to a form of communism, without a strong concept of private property: every dwarf works for the community rather than for themselves.
 
 Dwarves are compact and stocky, reaching a maximum height of about 140 cm, with a robust build that gives them a massive appearance. Both males and females proudly wear long hair, and men often decorate their beards with various kinds of clasps and intricate braids. Bald dwarves are common, but they are not without beards. Dwarf women do not have beards or excess hair. Sexual relations are open and communal.
 
@@ -278,7 +278,7 @@ They are rather xenophobic and intolerant of those who are not in line with thei
 
 **Size**: Medium
 
-**Speed**: 6m
+**Speed**: 6 m
 
 **Languages**: Dwarven, Common
 
@@ -292,7 +292,7 @@ In a short time, thanks to their innate curiosity, tenacity, and inventiveness, 
 
 Gnomes are deeply connected to nature; their relationship is almost symbiotic. A gnome will never forgo the sight of trees and always builds with what nature provides.
 
-Gnomes have a deep respect for nature, the environment, and animals; their perfectly functional and modern cities are built and carved into the forest, never destroying it and indeed enriching it.
+Gnomes have a deep respect for nature, the environment, and animals; their perfectly functional and modern cities are built within and carved out of the forest, never destroying it and often enriching it.
 
 Many Gnomes are inventors and builders capable of feats of imagination and ingenuity out of the ordinary. Many of their inventions help and support the entire community, and their social life is rich and supportive.
 
@@ -302,7 +302,7 @@ A gnome forced to stay away from a natural environment suffers from the situatio
 
 Gnomes get along with anyone who loves nature and doesn' \*\*t abuse it.
 
-A dispute that actually matters very little to gnomes is about the shape of their ears. According to elves, gnomes from their world have pointed ears; according to dwarves, the gnomes they knew instead have small, round ears like them. The fact is that gnomes are born randomly with pointed or round ears and have enough common sense to ignore the shape. At least, almost all of them...
+A dispute that actually matters very little to gnomes is about the shape of their ears. According to elves, gnomes from their world have pointed ears; according to dwarves, the gnomes they knew instead have small, round ears like them. The fact is that gnomes are born randomly with pointed or round ears and have enough common sense to ignore the shape. At least, almost all of them\ldots
 
 **Racial modifiers**: +1 Intelligence, +1 Charisma, -1 Strength
 
@@ -310,7 +310,7 @@ A dispute that actually matters very little to gnomes is about the shape of thei
 
 **Size**: Small
 
-**Speed**: 6m
+**Speed**: 6 m
 
 **Languages**: Gnomish, Common
 
@@ -322,7 +322,7 @@ For an elf, there is nothing more impure than a half-elf. No half-elf is born by
 
 There are also rare half-elves born from romantic relationships. Although usually of short duration, even by human standards, these secret encounters usually lead to the birth of half-elves, a race that descends from two cultures but is heir to neither. Half-elves can reproduce among themselves, but even these *pure-blooded* half-elves are seen as bastards by elves.
 
-Many elves see in a half-elf the betrayal of the original mission, the destruction of creation.
+Many elves see a half-elf as a betrayal of the original mission and a destruction of creation.
 Very few see it as a gesture of love and a gift to an increasingly ugly world.
 Other creatures usually see them as murderers, like elves, regardless of whether their blood has been touched by Calicante.
 
@@ -336,7 +336,7 @@ Half-elves understand loneliness and know that character is often more a product
 
 **Size**: Medium
 
-**Speed**: 9m
+**Speed**: 9 m
 
 **Languages**: Common, Elvish
 
@@ -351,7 +351,7 @@ Females have much less pronounced orcish traits and are considered wild and *eas
 
 Despite these obvious orcish traits, half-orcs are as varied as their human parents.
 
-If within orcish tribes they must continually earn the respect of the *purebloods*, in human society it is no better. Mocked, ridiculed, excluded, and abandoned, half-orcs often find refuge in crime.
+Within orcish tribes, they must continually earn the respect of the *purebloods*; in human society, life is no better. Mocked, ridiculed, excluded, and abandoned, half-orcs often find refuge in crime.
 
 Orcs were created directly by the Patron Cattalm with the help of Calicante. Much of their creator' \*\*s chaotic and destructive tendency remains in the nature of half-orcs.
 
@@ -363,7 +363,7 @@ Half-orcs are continuous victims of prejudice.
 
 **Size**: Medium
 
-**Speed**: 9m
+**Speed**: 9 m
 
 **Languages**: Common, Orcish
 
@@ -379,11 +379,11 @@ When the first Patrons left, the Nibali continued to prosper, making use of what
 
 For many, the extreme efficiency and dedication of the Nibali is odious, a yoke that leaves no room for personal freedoms; for the Nibali, it is just a natural way to progress.
 
-All Nibali are equal to each other of the same sex, but the fact that they cannot have children with other races does not make them a closed or racist people; on the contrary, absorbing the best of every culture makes them better and also excellent diplomats. What truly distinguishes one Nibali from another is the hairstyle, tattoos, clothing, being themselves. Respect for others and the Law are indissolubly linked to their nature, yet there is nothing freer than a Nibali.
+All Nibali of the same sex are physically identical, but their inability to have children with other races does not make them a closed or racist people. On the contrary, absorbing the best of every culture makes them better and excellent diplomats. What truly distinguishes one Nibali from another is their hairstyle, tattoos, clothing, and personality. Respect for others and the Law are indissolubly linked to their nature, yet there is nothing freer than a Nibali.
 
 For a Nibali, rules and laws must promote peace and freedom, they must be fair, and those who maintain them must be understanding and wise. For a Nibali, freedom is not doing what you want but the right to do what you must.
 
-The male Nibali is bald and has bright blue skin, the eyes are purple. Female Nibali have amber skin, chestnut hair with blonde highlights, green eyes.
+Male Nibali are bald and have bright blue skin and purple eyes. Female Nibali have amber skin, chestnut hair with blonde highlights, and green eyes.
 
 **Racial modifiers:** +1 Constitution, +1 Intelligence, -1 Wisdom
 
@@ -391,7 +391,7 @@ The male Nibali is bald and has bright blue skin, the eyes are purple. Female Ni
 
 **Size**: Medium
 
-**Speed**: 9m
+**Speed**: 9 m
 
 **Languages**: Common
 
@@ -403,11 +403,11 @@ Blessed or cursed, the Outcasts are not like us. An Outcast is the result of a c
 
 An Outcast is faithful to their Patron and cannot do otherwise. Fortunately, they are sterile with other races, otherwise they would have already dominated the world.
 
-An Outcast is more robust and more intelligent. Unfortunately, they live short, frenetic lives. Usually, a human Outcast does not exceed 50 years.
+An Outcast is more robust and intelligent. Unfortunately, Outcasts live short, frenetic lives. A human Outcast usually does not live beyond the age of 50.
 
-An Outcast is marked by a symbol of their Patron somewhere on their body, often as a birthmark. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the Patron (or Patrons in very rare cases) of whom they are *children*.
+An Outcast is marked by a symbol of their Patron somewhere on their body, often as a birthmark. Many Outcasts have 3 or more concentric golden circles on the left wrist that can indicate the single Patron of whom they are *children*.
 
-Outcast is an attribute that can be given to any race. The racial modifiers are replaced with those of the Outcast, and the life expectancy is halved. The original racial advantages remain valid, and the Special advantage of the Outcast is added.
+Outcast is an attribute that can be applied to any race. The racial modifiers are replaced with those of the Outcast, and life expectancy is halved. The original racial advantages remain valid, and the Outcast' \*\*s Special advantage is added.
 
 **Racial modifiers**: +1 to two Ability Scores of choice
 
@@ -419,7 +419,7 @@ Outcast is an attribute that can be given to any race. The racial modifiers are 
 
 **Languages**: as original race
 
-**Special**: Must identify a Patron and have at least 3 common Traits. Gains access to power at a Trait sum of 5, even if they have fewer points. An additional Feat of choice.
+**Special**: Must identify the claiming Patron and have at least 3 common Traits with them. Gains access to power at a Trait sum of 5, even if they have fewer points. An additional Feat of choice.
 
 ## Sornelian
 
@@ -433,7 +433,7 @@ A Sornelian is almost never born as the child of two Sornelians but is a spontan
 
 **Physical characteristics**: life expectancy depends on the longevity of the species, usually around 60+6d10 years.
 
-**Size**: depends on the original species, from 50cm to 220cm, from small to medium size.
+**Size**: depends on the original species, from 50 cm to 220 cm, from small to medium size.
 
 **Speed**: 6 meters
 
@@ -471,7 +471,7 @@ Golians have physical characteristics that recall the giants of their family lin
 
 **Racial modifiers:** +2 to Strength, -1 to an Ability Score of choice
 
-**Physical characteristics**: about 180/210cm tall. Life expectancy about 80 years (60+2d10)
+**Physical characteristics**: about 180--210 cm tall. Life expectancy about 80 years (60+2d10)
 
 **Size**: medium size
 
@@ -499,7 +499,7 @@ Golians have physical characteristics that recall the giants of their family lin
 
 ## Sulian
 
-The origin of the Sulian is unclear, some trace their descent from elemental spirits while other less insistent voices say they are children of the Patron Ledyal or Laydel (page ) because of their changeable appearance and character.
+The origin of the Sulian is unclear. Some trace their descent to elemental spirits, while other, less insistent voices say they are children of the Patron Ledyal or Laydel (page ), because of their changeable appearance and character.
 
 The power, energy, and vitality of the elements flow within the Sulian, whether it be a single type or multiple elements.
 
@@ -507,7 +507,7 @@ The Sulian are very similar to humans, but in their eyes and often on their skin
 
 **Racial modifiers:** +1 to an Ability Score of your choice
 
-**Physical characteristics**: about 150-190cm tall. Life expectancy about 180 years (160+2d10)
+**Physical characteristics**: about 150--190 cm tall. Life expectancy about 180 years (160+2d10)
 
 **Size**: medium size
 
@@ -521,15 +521,15 @@ The indicated power can be used (MP+WP)/3 times per day.
 
 - *Primordial Discharge*: the Sulian can, at the cost of 1 Reaction when hit or hitting in melee, discharge part of their elemental energy. The damage is equal to 2d6 times the number of times this power has been selected.
 
-- *Access to Magic List*: through this power, the Sulian can access an Elemental List. Each time they take this power, they spontaneously know up to 3 spells in that list with a maximum spell level equal to the number of times this power has been taken in the same list -1 (the first time you only cast cantrips).
-The Sulian does not perform Magic Checks nor can they be considered Distracted when casting the spell. For any factors, it is considered that the MP is equal to the sum of MP+WP, and Magic Adept has been taken a number of times equal to the times this power has been taken.
+- *Access to Magic List*: through this power, the Sulian can access an Elemental List. Each time they take this power, they spontaneously know up to 3 spells in that list with a maximum spell level equal to the number of times this power has been taken in the same list minus 1 (the first time, you can cast only cantrips).
+The Sulian does not make Magic Checks and cannot be considered Distracted while casting spells. For all relevant factors, the MP is considered equal to the sum of MP+WP, and Magic Adept is considered to have been taken a number of times equal to the number of times this power has been taken.
 
 - *Elemental Resistance*: through this power, the Sulian acquires Resistance to the chosen element.
 
->> **Note on Races**: No description of a race can ever constrain or subjugate a character. Each player is free to create a character of their preferred race (granted by the Game Master) and describe it, frame it, feel it, and bring it to life as they please.
+>> **Note on Races**: No racial description can constrain or define a character. Each player is free to create a character of any race allowed by the Game Master and to portray that character as they wish.
 
 Do not limit yourselves to the descriptions proposed here; they are meant to be just starting points. Don' \*\*t feel restricted in your choices because the race description says this or that.
-Create the most beautiful and complete characters possible. Each character is alive and is a person, and as such, will always be different from one another, each fantastic in their own way regardless of any race or prejudice.
+Create the most beautiful and complete characters possible. Each character is alive and is a person and, as such, is different from every other character, each fantastic in their own way regardless of race or prejudice.
 
 >> **Note on Character Sex**: To be clear, I reiterate that there is no difference in ability or characteristics based on sex. Every player is invited to create a character of the gender they prefer.
 
@@ -541,7 +541,7 @@ Create the most beautiful and complete characters possible. Each character is al
 
 > Having eyes is not enough to see (anonymous)
 
-Every creature is special and unique, yet there are beings even more unique and special for their characteristics. These are the peculiarities of some of them.
+Every creature is special and unique, yet some beings are particularly distinctive because of their characteristics. These are the peculiarities of some of them.
 
 ## Twilight Vision
 
@@ -686,7 +686,7 @@ Charisma measures your ability to interact effectively with others. It includes 
 
 A Charisma check might be required when you try to influence or entertain others, when you try to make an impression or tell a lie, or when you need to navigate a complex social situation.
 
-The Charisma score influences the number of *guys* you know. See I know a guy....
+The Charisma score influences the number of *contacts* you know. See I know a guy\ldots.
 
 Typical situations for using Charisma include attempts to deceive a guard, swindle a merchant, earn money through gambling, pass yourself off as someone else through a disguise, allay someone' \*\*s suspicions with false reassurances, or maintain an impassive face while telling a blatant lie.
 
@@ -694,7 +694,7 @@ A character with a Charisma score of -5 is unconscious.
 
 ### Reading Ability Scores
 
-Each Ability Score generally ranges from 0 to 3. A score of 1 is good, 2 is excellent, 0 is "normal", and 3 is considered *exceptional*.
+Each Ability Score generally ranges from -5 to 3. A score of 1 is good, 2 is excellent, 0 is "normal", and 3 is considered *exceptional*.
 
 A score of -1 is considered weak, a -2 very weak, a -3 severely problematic, a -4 leads to almost non-use of the ability, a -5 is appropriate for someone who should just stay in bed (if not already in a coffin).
 
@@ -720,13 +720,13 @@ The indicated modifiers are cumulative.
 
 Ability Scores are important, but they are not everything. The player must understand that a low score does not mean they have a terrible character; rather, they can have more fun role-playing by leveraging skills, Feats, and peculiar abilities, using ingenuity and wit. Several systems are presented for rolling characteristics.
 
-Personally, I suggest the approach of the **Base Mode**. In OBSS, characters are not heroes, they are not the chosen ones, who stand up as defenders of the planet. The characters are normal people often involved, despite themselves, in situations at the limit if not beyond survival.
+Personally, I recommend the **Base Mode**. In OBSS, characters are not heroes or chosen ones who stand up as defenders of the planet. They are ordinary people who often find themselves, despite themselves, in situations at or beyond the limits of survival.
 
 The clear advantage of rolling values in order of characteristics is that it allows you to mix up patterns and avoid *builds* made at the table.
 
 It' \*\*s likely that you won' \*\*t get the results you were hoping for, or that they might come in characteristics that don' \*\*t interest you. That' \*\*s fine. Change your mind, let yourself be inspired by the values obtained! Have fun with the new character, build something new and different, let yourself be surprised.
 
-The **rolls for Ability Scores are executed in order**, so the first roll is for Strength, then for Dexterity, Constitution, Intelligence, Wisdom, and finally Charisma.
+Ability Scores are rolled in order: the first roll is for Strength, followed by Dexterity, Constitution, Intelligence, Wisdom, and finally Charisma.
 
 Lastly, remember that OBSS is a role-playing game where character death happens, even more often than in other RPGs. Create valid and concrete characters and let the adventure forge the details.
 
@@ -734,7 +734,7 @@ Lastly, remember that OBSS is a role-playing game where character death happens,
 
 ### Base Mode
 
-The player rolls 3d6 for each ability score and in order, can reroll one die that shows a 1 per set (3d6). Then rolls a seventh set that can replace another set. For each ability score rolled, check the sum of the dice rolled with the **Table: Ability Score Roll**.
+The player rolls 3d6 for each Ability Score, in order, and may reroll one die showing a 1 for each set of 3d6. Then they roll a seventh set that can replace another set. For each Ability Score rolled, check the sum of the dice against the **Table: Ability Score Roll**.
 
 The character thus generated gets the Feat Hard to Kill (page ) for free.
 
@@ -858,7 +858,7 @@ In OBSS there are Traits, aspects, and character nuances that **contribute** to 
 
 A Trait is a detail that helps frame the character, outlines their main characteristics, and gives them different nuances.
 
-**Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices.
+**Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices. The player chooses the Traits, not the Patron: the Patron associated with the dominant Trait will reclaim the character.
 
 >> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
 
@@ -878,22 +878,28 @@ In the character sheet, you will find **checks** to put next to the Traits, thes
 
 It will be the Game Master during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
 
-Every particularly important action where the character has followed a Trait brings the character closer to the **Patron** competent for that Trait.
+Every particularly important action where the character has followed a Trait brings the character closer to the Patrons that share that Trait. A shared Trait is the channel through which a Patron recognizes the character, not necessarily the purpose or moral way in which that Trait is expressed: the same Trait can have different meanings for different Patrons.
 
-As the value of the sum of common Traits with the Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
+The **dominant Trait** is the chosen Trait with the highest score. To identify the claiming Patron, consult the first Trait in the Patron - Trait Connection Table (page ) that corresponds to the dominant Trait. If multiple Traits share the highest score, the player chooses which of the corresponding Patrons prevails. If multiple Patrons have the same Guide Trait, compare their common Complementary Traits; if that affinity is also tied, the player decides. The Patron identified in this way **reclaims the character**: the Patron is not freely chosen by the player.
+
+The claiming Patron must be checked again whenever the dominant Trait changes. This change can become a narrative event: the new Patron may reclaim the character, but the character cannot belong to two Patrons at the same time.
+
+As the value of the sum of common Traits with the claiming Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
+
+To calculate the sum, consider only the Traits chosen by the character that also appear in the claiming Patron' \*\*s profile. Traits not chosen, which have a base value of -1, are not common Traits and do not enter the sum. The number of common Traits instead determines whether the character can choose to be a Follower or Devotee: a Devotee must have at least 2 distinct common Traits, even if one or more of them have a value of 0.
 
 - At **' \*\*5' \*\*** points, one can begin to feel the presence of a Patron
 - At **' \*\*10' \*\*** points, one feels the closeness of a Patron
 - At **' \*\*15' \*\*** points, one is bound to a Patron
 - At **' \*\*20' \*\*** points, one is a champion of the Patron
 
-It is not necessary to believe in a Patron to feel their closeness, be bound to them or be their champion; simply, it is one' \*\*s nature (one' \*\*s Traits) that is akin to the Patron, whether one wants it or not. Powers are only taken from the Patron who has the highest trait sum compared to others.
+It is not necessary to believe in the claiming Patron to feel their closeness, be bound to them or be their champion; simply, it is one' \*\*s nature (one' \*\*s Traits) that is akin to the Patron, whether one wants it or not. Powers derived from Traits are received only from the claiming Patron, even when the character has no formal allegiance to them.
 
 Since the purpose of a Patron is to make their Traits dominant over others, having high-level and powerful people who are so akin to them will be useful in the judgment of the 100 years. Use the Traits and the bond that the Patron will establish with you to your advantage.
 
-To identify the most similar Patron, the one who will give you power, check your highest-valued Trait on the Table Patron - Trait Connection (page ) and identify the Patron who best represents that Trait; if the Trait is shared among multiple Patrons, check the other Traits and choose the Patron based on similarity. Then check in Cosmology (page ) the powers granted by the Patron. It is advisable to do this check each time a Trait value increases.
+Then check in Cosmology (page ) the powers granted by the claiming Patron. It is advisable to do this check each time a Trait value increases.
 
-One is a Devotee with at least 2 Traits in common with the Patron and a Follower with at least 1 Trait in common with the Patron. One cannot be simultaneously a Follower or Devotee of multiple Patrons.
+Formal allegiance is the player' \*\*s choice, not an automatic effect of being reclaimed. If the character has at least 1 chosen Trait in common with the claiming Patron, the player may choose to make them a Follower; if they have at least 2 distinct chosen Traits in common, the player may choose to make them a Devotee. The player may also choose no formal allegiance and still receive powers derived from the Traits. Follower and Devotee are mutually exclusive alternatives: a character cannot be both, nor belong to two different Patrons.
 
 The Game Master is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
 
@@ -938,11 +944,11 @@ If the character is completely different from their Traits, they will not gain e
 
 This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , this system offers 22 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
 
-Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory to the archetype' \*\*s core nature. Also listed are which Patrons share at least two Traits (and thus make the character a Devotee) with each archetype, suggesting natural spiritual affinities.
+Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory (and therefore stimulating) to the archetype' \*\*s core nature. Also listed are the Patrons whose profiles share at least two Traits with each archetype, suggesting natural narrative and spiritual affinities. These lists do not allow the player to choose a Patron: the claiming Patron is determined by the character' \*\*s dominant Trait.
 - Choose an archetype that appeals to you or fits your character concept
 - Consider adopting at least 2-3 of the recommended Traits for that archetype
 - Avoid the incompatible Traits unless you' \*\*re specifically aiming to create internal conflict
-- Look to the aligned Patrons for guidance on which spiritual powers might naturally resonate with your character
+- Look to the aligned Patrons for guidance on which spiritual powers might naturally resonate with your character, remembering that the claiming Patron is not chosen by the player
 
 Archetypes can also evolve throughout a character' \*\*s journey. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in gradually shifting Traits and Patron affinities.
 
@@ -1254,9 +1260,9 @@ In the character sheet, the initial Profession and acquired skills should be mar
 
 > Although undoubtedly the desire to know is natural to all men, the willingness to learn is not for everyone...(Richard de Bury)
 
-A profession does not express itself in just 4 skills, but these are the ones that will come into use most during adventures; the Game Master will be helped by your profession to understand how your character can solve situations and how they will interact with other characters.
+A profession is not limited to four skills, but these are the skills most likely to be used during adventures. Your profession helps the Game Master understand how your character solves problems and interacts with others.
 
-Below is the **Table list of skills** from which to choose for any new professions or customizations.
+Below is the table of skills from which to choose when creating or customizing a profession.
 
 ### Customizing Skills and Profession
 
@@ -1270,9 +1276,9 @@ At character creation, the player can decide to take a +1 to an already known Sk
 
 The character acquires a Skill at score 1 for each point of Intelligence greater than 2, and loses 1 point in a Skill for each point of Intelligence less than 0.
 
-The player **increases by 1 the score of an Ability Score that connects to the Profession or background** up to the maximum value of 4. It could be Intelligence for an Apprentice wizard, but if they bodybuild as a hobby, it could also be Strength.
+The player increases by 1 the Ability Score related to the Profession or background, up to a maximum of 4. It could be Intelligence for an apprentice wizard, but if they bodybuild as a hobby, it could also be Strength.
 
->> **Profession**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, track, recognize herbs or diseases makes the character an expert, creates a profession. You shouldn' \*\*t define the character only based on the Feats they have but based on what and how well they can do it. A low-level character but expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
+>> **Profession**: Don' \*\*t underestimate the choice of Profession! Not everything can be solved with axes or magic. Knowing how to untangle knots, follow tracks, and recognize herbs or diseases makes a character an expert and can define a profession. You should not define a character only by the Feats they have, but also by what they can do and how well they can do it. A low-level character who is an expert in survival will always be more useful than an expert fighter when it comes to crossing a desert.
 
 **Table: List of Skills and Related Ability Score for Use**
 
@@ -1291,7 +1297,7 @@ The player **increases by 1 the score of an Ability Score that connects to the P
 
 The **Knowledge** skill must specify which subject it covers: Architecture and Engineering, Dungeon, Geography, Law, Languages (terrestrial or not), Myths and Legends, Nobility and Heraldry, Occult, Planes, Religion, History, Ancient Technology...
 
-At each **level after the first**, distribute a number of points equal to half the Intelligence score +1, $[(Int/2)+1]$, with a minimum of 1 point, among the skills already known or perfected in the adventure or newly learned.
+At each **level after the first**, distribute a number of points equal to half the Intelligence score +1 $[(Int/2)+1]$, with a minimum of 1 point, among the skills already known or perfected in the adventure or newly learned.
 
 **No Basic or Active skill can have more than level +3 points assigned.**
 
@@ -1331,9 +1337,9 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Craft (INT)**: This skill specifies a particular craft or trade and allows you to build objects related to that craft and judge and evaluate work in that area.
 
-**Deceive (CHA)**: The Deceive skill can be used to bamboozle others (by telling tall tales) or mislead them (adapting the truth) in order to convince the interested party of your words. Variable cost.
+**Deceive (CHA)**: The Deceive skill can be used to bamboozle others (by telling tall tales) or to mislead them by adapting the truth and convincing them to believe you. Variable cost.
 
-**Diplomacy (CHA)**: With this skill, you can resolve disputes and gather valuable information and rumors from people. The skill is also used to negotiate effectively with the right etiquette and conduct suitable for the controversial situation. Variable cost.
+**Diplomacy (CHA)**: With this skill, you can resolve disputes and gather valuable information and rumors from people. The skill is also used to negotiate effectively, using the etiquette and conduct appropriate to the situation. Variable cost.
 
 **Disable Device (INT)**: With this skill, you can disarm Traps and open locks, sabotage simple mechanical devices, such as catapults, wagon wheels, or doors. 1 Action every 10 of DC. With 6 points the time is 1 Action every 15 of DC, with 12 points it is 1 Action every 20 DC.
 
@@ -1361,7 +1367,7 @@ Skills with a * suffer penalties due to the armor worn (page ).
 
 **Knowledge of Planes (INT)**: With this skill, you are an expert on the Planes and their inhabitants. 1 Action.
 
-**Forgery (INT)**: With this skill, you know how to forge and recognize as false art objects, maps, signatures... Variable cost.
+**Forgery (INT)**: With this skill, you know how to forge art objects, maps, and signatures and to recognize forgeries. Variable cost.
 
 **Handle Animals (WIS)**: With this skill, it is possible to train and tame animals. 1 minute for every 5 points of DC. With 6 points the time is 1 minute for every 10 points of DC, with 12 it is 1 minute for every 15 points of DC.
 
@@ -1401,7 +1407,7 @@ The **Active Skills** are: Magic Proficiency, Weapon Proficiency, Saving Throws 
 
 - **Magic Proficiency (MP)**:  indicates the ability and competence in casting a spell.
 - **Weapon Proficiency (WP)**:  is the ability and skill to fight with a melee or ranged weapon.
-- **Saving Throws** represent the resistance, the physical and psychic capacity of the character.
+- **Saving Throws** represent a character' \*\*s physical and mental resistance.
 
 Attributing the Active Skills point to **Basic Skills** means distributing 4 additional points among at least 3 Basic Skills of your choice. Attributing the point to Saving Throws means increasing a Saving Throw by 1 point.
 
@@ -1422,7 +1428,7 @@ The **Will Saving Throw** indicates resistance against mental influence and othe
 The **Reflex Saving Throw** indicates how agile and ready you are to avoid obstacles or magic. The **Dexterity** score is added to the Reflex Saving Throw value.
 
 When a Saving Throw is requested, it means making a check on the required Active Proficiency, whether it' \*\*s Will, Fortitude, or Reflex.
-The check is performed by rolling 3d6 + the value of the required Active Proficiency, which is the score in the Will, Reflex, or Fortitude Saving Throw + the value of the Ability Score linked to the Active Proficiency type (Wisdom, Dexterity, or Constitution) + Feats + magical bonuses (items that affect the Saving Throw) and various modifiers present.
+The check is performed by rolling 3d6 and adding the value of the required Active Proficiency. This is the score in the Will, Reflex, or Fortitude Saving Throw, plus the linked Ability Score (Wisdom, Dexterity, or Constitution), Feats, magical bonuses, and other applicable modifiers.
 
 It' \*\*s possible that Saving Throws with different modifiers may be required, such as a Fortitude Saving Throw with Strength modifier or a Will Saving Throw with Charisma modifier. The Game Master will tell you when a different modifier applies.
 
@@ -1430,16 +1436,16 @@ It' \*\*s possible that Saving Throws with different modifiers may be required, 
 
 **Weapon Proficiency** (abbreviated as **WP**) indicates the ability and skill in using a weapon. This proficiency is directly reflected in checks to hit an opponent with weapons.
 
-The **Attack Roll for melee weapons** is resolved with a Weapon Proficiency (**WP**) + **Strength** check + any Feats + bonus from Weapon List + magic bonuses and modifiers against the opponent' \*\*s Defense (Dexterity + armor + shield + modifiers).
+The **Attack Roll for melee weapons** is resolved with Weapon Proficiency (**WP**) + the Strength modifier + any Feats + the bonus from the Weapon List + magic bonuses and modifiers against the opponent' \*\*s Defense (Dexterity + armor + shield + modifiers).
 
-The **Attack Roll with ranged weapons** (bows, crossbows, throwing daggers, javelins, stones...) is resolved with a Weapon Proficiency (**WP**) + **Dexterity** check + bonus from Weapon List + any abilities, magic bonuses and modifiers against the opponent' \*\*s Defense (Dexterity + armor + shield + modifiers).
+The **Attack Roll with ranged weapons** (bows, crossbows, throwing daggers, javelins, stones\ldots) is resolved with Weapon Proficiency (**WP**) + the Dexterity modifier + the bonus from the Weapon List + any abilities, magic bonuses, and modifiers against the opponent' \*\*s Defense (Dexterity + armor + shield + modifiers).
 
 When assigning a point to **WP**, it is necessary to specify which weapon group you take it in; if not declared, it is considered taken in the Simple Weapons group.
 Check the list Weapons by Homogeneous Type (p. ).
 
 The character can decide to assign a point to a weapon type they already know, thus improving their ability and talent in its use, or learn another weapon type.
 
-The higher the score in a weapon type, the more easily they can take advantage of benefits with weapons of the same type, but they will know fewer weapons.
+The higher the score in a weapon type, the more easily the character can use weapons of that type, but the fewer weapons they know.
 
 If the player has not assigned any points to **WP**, they can use without attack roll penalties only weapons grouped as Simple Weapons.
 
@@ -1465,7 +1471,7 @@ Also consider whether the type of enemies you will face may have resistances or 
 
 ### Magic Proficiency
 
-**Magic Proficiency** (abbreviated as **MP**) allows the character to know more spells, more powerful, more effective, and more easily cast.
+**Magic Proficiency** allows a character to learn more spells, including more powerful and effective spells, and to cast them more easily.
 
 A character with high **Magic Proficiency** knows how to manipulate more spells with better results.
 
@@ -1558,9 +1564,9 @@ If you have no points in Weapon Proficiency, you can only use simple weapons (p.
 
 Hit Points are equal to 8 + Constitution, add 3 if you have put 1 point in Weapon Proficiency (WP).
 
-At this point, choose the Traits (p. ). Do it carefully, you are building your character and Traits outline the character with strong brushstrokes. Remember that they will be fundamental for the choice of the Patron (p. ).
+At this point, choose the Traits (p. ). Do it carefully, you are building your character and Traits outline the character with strong brushstrokes. Remember that they will be fundamental for the automatic assignment of the claiming Patron (p. ).
 
-In the character sheet, in the Traits box, where there is the Patron column, write the Patron or Patrons connected to that Trait, regardless of whether you have chosen them or not. If the Trait is shared by multiple Patrons, note them all and use the other Traits to determine the strongest affinity.
+In the character sheet, in the Traits box, where there is the Patron column, write all Patrons that share that Trait, without interpreting the note as allegiance or choice. Highlight the Patron whose Guide Trait corresponds to your dominant Trait; in case of a tie, apply the procedure described in the chapter Traits. Only the claiming Patron can receive your formal allegiance and grant you powers linked to Traits.
 
 Finally, remember that a *Dissolute* and *Loyal* character sounds good in a story where they are the only protagonist, but here you play in a **group**. Don' \*\*t take Traits in obvious opposition to others or play like a *jerk*, otherwise the character will naturally be pushed away by other characters and by the Game Master.
 
@@ -1578,7 +1584,7 @@ Choose your equipment (p. ), armor (p. ), weapons (p. ), backpack, two torches, 
 Then update the part of the sheet related to Defense by marking what bonus your armor and shield give you. Remember that you start with 100 gp, spend them carefully!
 
 Get into the role, allow yourself to play this extraordinary character. If you ever get tired of playing it and want to try something different, talk to the Game Master, they will know how to advise you and suggest the best path.
-You have the advantage that in OBSS classes don' \*\*t exist, the character grows, evolves, and learns based on what you do and experience. You can prepare your *build* in advance but you will never have the certainty that your character will evolve as you thought. Let it live and grow!
+You have the advantage that in OBSS classes do not exist: the character grows, evolves, and learns based on what the player does and experiences. You can prepare your *build* in advance, but you can never be certain that the character will develop as planned. Let it live and grow!
 
 Finally, remember your rewards. This world is fierce and often evil, and it will want to kill you all the more; yet those who survive receive rewards, under a law that not even the Patrons can violate. The Law is simple in its basic concept: *To those who survive go the treasures and glory*.
 
@@ -1598,7 +1604,7 @@ Every time the Game Master confirms your level advancement, several operations m
 - If you' \*\*ve assigned a point to Weapon Proficiency, determine whether you take a new Weapon List (p. ) or deepen your knowledge of a list already learned
 - Check if you acquire a new Feat. You can take a new one or improve a Feat already learned, be careful of prerequisites. See Feats (p. ).
 - Update the Saving Throw score based on the new Feats taken.
-- Update the Attack Roll score based on the new Weapon Proficiency value, Feats, bonuses given by the Weapon List
+- Update the Attack Roll score based on the new Weapon Proficiency value, Feats, and bonuses given by the Weapon List.
 - Distribute (Int/2)+1, with a minimum of 1 point, among the Base Proficiencies (p. ) known or learned during adventures. Verify the Awareness score.
 - Update the Fate Points score $(20-level)/5$, rounded to the nearest integer
 - Increase the Traits score as the Game Master will tell you. Verify if you have reached a sufficient score to acquire powers related to Traits
@@ -1611,7 +1617,7 @@ As players, you have the opportunity to prefer a specialized approach, that is, 
 
 A suggestion is also to use Feats, particularly Expert, which gives you a +2 bonus to Proficiency checks.
 
-> The **perceived** power level of characters in OBSS is lower than that of other RPGs. The character' \*\*s weakness is only a perception, and in fact, you will soon realize the true power of the character. Play as a group and you will survive because remember that this is a bad, spiteful, and deadly world with the **selfish**.
+> The **perceived** power level of characters in OBSS is lower than that of other RPGs. The character' \*\*s weakness is only a perception, and in fact, you will soon realize the character' \*\*s true power. Play as a group and you will survive, because this is a bad, spiteful, and deadly world filled with selfish creatures.
 
 ## Tips for having fun and surviving in OBSS adventures
 
@@ -1626,7 +1632,7 @@ I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)
 - Every combat is potentially lethal. Decide with reason and approach it with care. Learn to run away, don' \*\*t be afraid to survive.
 - Not everything is on the character sheet. A character' \*\*s sheet is its perimeter, but it does not define what the character can or cannot do. Rack your brains, be creative, think of alternatives, and stay curious, but do not be suicidal or reckless.
 - Not everything is solved with a dice roll. Ask the right questions, talk with your companions, and describe carefully what you intend to do. The Game Master rewards accurate descriptions. Describing how and what you do can avoid having to make a check!
-- Low ability scores are just low ability scores and not the character. Use proficiencies, Feats, make sure to roll as few dice as possible to solve problems.
+- Low Ability Scores are only low Ability Scores; they do not define the character. Use Proficiencies and Feats, and try to roll as few dice as possible to solve problems.
 - Improvise, adapt, and overcome! (Tom Highway - Gunny, Movie). Or as some of my players preferred *Improvise, **Deceive**, and overcome*.
 - Live your character fully. Amplify their story, bring their past into the present. Help your companions to know you and the Game Master to build better stories around your stories.
 - One thing that no one can ever take away from you is being heroic, intelligent, resolute, determined, stubborn but not stupid.
@@ -1647,7 +1653,7 @@ I love it when a plan comes together! (Colonel John *Hannibal* Smith, A-Team)
 
 Checks for Proficiencies or Ability Scores are performed by rolling 3d6 and adding the score of the Proficiency (base or active), the linked Ability Score, and any magic, circumstance, or Feat bonuses. The result must be communicated to the Game Master, who compares it with the difficulty (DC) of the check.
 
-When you need to establish a difficulty, start by thinking that the check should be related to a *normal* person. Don' \*\*t think *if I had to do it then the check would be impossible*, *if Arsène Lupin does the check it' \*\*s very easy*. Start from the assumption that the difficulty must include all circumstantial elements in itself.
+When you need to establish a difficulty, start by thinking about how difficult the check would be for a *normal* person. Do not ask, ``What would happen if I tried this?' \*\*' \*\* Instead, consider how difficult the task would be for a normal person and how easy it would be for an expert such as Arsène Lupin. Start from the assumption that the difficulty must include all circumstantial elements.
 
 Consider whether it is raining, there is little light, the character is running or wounded, the character is in a hurry, and how complex the task is. Jumping a 3-meter ditch is not the same as jumping a 3-meter ditch in the dark, without shoes, in the rain, while being chased, and with pockets full of coins...
 
@@ -1655,7 +1661,7 @@ Deciphering an ancient writing may be a walk in the park for an expert linguist,
 
 And don' \*\*t be afraid if the characters fail the checks, it will make the adventure more interesting and allow the Game Master to introduce facts, clues, and new adventures.
 
->>> **Not always a check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, what dialogue they set up to intimidate the target... Carefully evaluate how the player describes what they do because this is already the check. It' \*\*s not just to speed up the game, it serves to stimulate players to think completely and to immerse themselves in the character and the environment.
+>>> **Not always a check**: Avoid asking for a check when players declare **how** they perform the check, how and where they search, or what dialogue they use to intimidate the target\ldots Carefully evaluate how the player describes what they do because this is already the check. It is not just to speed up the game; it stimulates players to think completely and to immerse themselves in the character and the environment.
 
 It will make the game more dynamic and all players will participate in the situation and collaborate by declaring what and how they act. Always use common sense and save dice rolls! Rolling a die means creating the possibility of failure!
 
@@ -1663,7 +1669,7 @@ It will make the game more dynamic and all players will participate in the situa
 
 When -1d6 is written, it means that you roll one die less (or two if it' \*\*s -2d6), conversely if there is +1d6 written, you roll one more d6 and add it.
 
-The table below serves to relate the difficulty to the minimum ability needed to succeed in the check with an average roll (a score of 10 rolling 3d6). Use these indications to get an idea of the difficulty scales.
+The table below relates the difficulty of a check to the minimum Ability Score needed to succeed with an average roll (a score of 10 when rolling 3d6). Use these indications to get an idea of the difficulty scale.
 
 The Game Master won' \*\*t tell you to make a check at difficulty 10, but will say that the check doesn' \*\*t present elements of particular difficulty.
 
@@ -1727,7 +1733,7 @@ Make it so that the characters' \*\* questions and reasoning reveal the clues; a
 
 >>> **Playing not Checks**: Don' \*\*t let checks govern your game. **Let the players play**, make them act, make them participate and based on what they say determine if the check is passed or not.
 
-If they tell you *I convince the guard to let us pass* have them make an Intimidate (or Diplomacy) check, but if they engage in a convincing dialogue you can consider that the check has been made with a positive outcome (or negative if they haven' \*\*t been able to argue!) Reward the HOW more than the WHAT.
+If they say, ``I convince the guard to let us pass,' \*\*' \*\* ask for an Intimidate or Diplomacy check. If they engage in convincing dialogue, you may consider the check successful (or unsuccessful if they have not argued effectively). Reward the HOW more than the WHAT.
 
 ## The Checks
 
@@ -1814,7 +1820,7 @@ The player may request to make the check even if the result is certain.
 
 **If time becomes a factor not to be considered**, that is, the character has at least 1 hour to think and work and has no penalties or risk, consider having rolled 18 (but there is no dice explosion or Critical Success even if the total is 18).
 
-If you want to take these values, ask the Game Master, they will tell you if based on the situation, urgency, dangerousness of what surrounds you, you can take the score. Starting to pick a door lock in a dungeon asking for 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
+If you want to take these values, ask the Game Master, who will tell you whether the situation, its urgency, and the danger posed by your surroundings allow you to take the score. Starting to pick a door lock in a dungeon and taking 10 requires extreme cool-headedness and recklessness. Taking 10/14/18 should not be granted for knowledge checks.
 
 >>> **Good lecture**: I recommend everyone to read the excellent article by Lorenzo Bertini \hrefhttps://dietroschermo.wordpress.com/2022/03/10/elogio-del-10-e-del-20Elogio del 10 e del 20 for a critical and intelligent examination of success and failure in checks.
 
@@ -1842,7 +1848,7 @@ Don' \*\*t have dice rolled for checks that cannot fail, for checks that do not 
 
 A **Check with Risk** is requested in checks of particular tension and urgency where the final result is more important than the risk being taken. This request should be made before rolling the dice.
 
-If the check fails by 1, it can be considered successful even if with a slight problem; if it failed by 2, it carries a serious problem; if it failed by 3, it succeeded with a critical problem; if it failed by 4 or more, the check is still not successful. Applied to proficiencies like Knowledge, you can decide to provide incomplete information or partly true and false, or if it' \*\*s about opening a lock, you could break the lockpick in the lock!
+If the check fails by 1, it can be considered successful, albeit with a slight problem; if it fails by 2, it carries a serious problem; if it fails by 3, it succeeds with a critical problem; if it fails by 4 or more, the check is still unsuccessful. Applied to Proficiencies such as Knowledge, you can decide to provide incomplete information or information that is partly true and partly false; if it is about opening a lock, the character could break the lockpick in the lock!
 
 ## Group Checks
 
@@ -1874,7 +1880,7 @@ Identifying a spell while it is being cast is an **Arcana** check with a DC equa
 
 The **distance jumped in long jump** is equal to 30 cm per point obtained in the check, rounded to the nearest integer. E.g., if you get 11 on the jumping check, the jump will be 30 cm*11=330 cm=3 meters; with a check result of 16, it is 30 cm*16=480 cm=5 m.
 
-The **distance jumped in high jump** is equal to 10cm per result obtained in the check.
+The **distance jumped in high jump** is equal to 10 cm per result obtained in the check.
 
 In a **long jump**, the highest point of the jump is equal to 1/3 of the length jumped. If you execute a long jump of 3 meters, at the halfway point you are 1 meter high.
 
@@ -1937,8 +1943,8 @@ It takes 1 Action per 10 points of DC. With 6 points in Herbalism, the time is 1
 Perform a Knowledge check. See the chapter Identifying Monsters in the Monster Manual (page ). It costs 1 Action.
 
 ### Intimidate
-The character uses **1 Action** and performs an Opposed Check against the Will Saving Throw with bonus given by Charisma.
-If the Saving Throw fails, the opponent until the end of their next round has -1 to Attack Roll against the one who intimidated them. The opponent must have Intelligence equal to or greater than -3. The Saving Throw takes a modifier of $\pm2$ per size difference. In case of Critical Success, the penalty to hit becomes -2.
+The character uses **1 Action** and performs an Opposed Check against the Will Saving Throw with a bonus given by Charisma.
+If the Saving Throw fails, the opponent suffers a -1 penalty to Attack Rolls against the intimidator until the end of their next round. The opponent must have Intelligence equal to or greater than -3. The Saving Throw takes a modifier of $\pm2$ per size difference. In case of Critical Success, the penalty to hit becomes -2.
 
 If the one attempting the Intimidate check executes a Critical Failure, they suffer the same penalties as if they had been intimidated.
 
@@ -1980,7 +1986,7 @@ Survival can be used instead of **Disable Device**, with a -1d6 penalty, to disa
 
 For every three points obtained in the Survival check above the DC (usually 13), the character is able to **forage food** for themselves and another person as long as they are in an environment capable of sustaining life.
 
-Can be used to search for traps: 1 minute to search for traps in a 3x3 meter area, with a score of 6 it costs 3 rounds, with a score of 12 it costs 1 round, with a score of 18 it costs 1 Action.
+Survival can be used to search for traps: it takes 1 minute to search a 3x3-meter area; with a score of 6 it takes 3 rounds, with a score of 12 it takes 1 round, and with a score of 18 it takes 1 Action.
 
 ### Skill Score
 
@@ -2069,11 +2075,11 @@ I' \*\*m not a hero. No, and I never will be. I' \*\*m just a bad guy who gets p
 
 An eye for an eye... and the world becomes blind (Mahatma Gandhi, NdA his Traits abhorred violence!)
 
-Combat is one of the main phases of an adventure and is when characters try, with varying results, to demonstrate their mastery of weapons or magic.
+Combat is one of the main phases of an adventure and the point at which characters try, with varying results, to demonstrate their mastery of weapons or magic.
 
 Combat is divided into 2 phases:
 - initiative check
-- resolution of Actions (movement, attacks, and other Actions...)
+- resolution of Actions (movement, attacks, and other Actions\ldots)
 
 ## Initiative
 
@@ -2081,7 +2087,7 @@ Initiative is a check (3d6) of Dexterity or Intelligence and relevant Skills you
 
 The player chooses the Ability Score they prefer. If Dexterity is chosen, it will be reflexes that determine the character' \*\*s reaction, while Intelligence will guide the ability to grasp enemy tactics and anticipate them.
 
-Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. In case of Initiative with the same score, whoever has the higher Ability Score acts first, otherwise the clash will be simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
+Whoever has the highest initiative between players and enemies starts first, followed by the others in descending order, declaring Actions and executing them. If Initiative scores are tied, the character with the higher Ability Score acts first; otherwise, the actions are simultaneous. Initiative is valid for the entire clash and is rerolled when changing opponents.
 
 >>> **Combat flow**: Try to make combat flow naturally. Don' \*\*t interrupt the flow of actions, but by describing their effects involve players (and enemies) in subsequent actions. I recommend reading the article \hrefhttps://theangrygm.com/manage-combat-like-a-dolphin/How to Manage Combat Like a Dolphin to understand the method in detail.
 
@@ -2124,7 +2130,7 @@ If a character wants to make multiple attacks while moving on the battlefield, t
 
 It is possible to **delay** one or more Actions to wait for the scenes to unfold. The character who delays an Action acts first among the subjects acting at that initiative value; in subsequent rounds they will continue to act in the new initiative order. In this way, the player voluntarily delays their initiative to insert themselves into the initiative order in another position.
 
-A player who declares to wait for a certain situation to be able to act is equivalent to executing one or more **Readied Actions**. In this case, the character (or enemy) acts **after** the triggering Action with their Actions but remains in their initiative order at the end of the round.
+A player who waits for a specific situation to act is effectively preparing one or more **Readied Actions**. The character acts after the triggering Action but retains their place in the initiative order at the end of the round.
 
 If the character has already performed all Actions, then they can act in the round only with an **Immediate Action** and outside their initiative only through a Reaction, if available. The **Reaction Action** is always activated after the triggering Action.
 **Free Actions** can be used at any time.
@@ -2133,7 +2139,7 @@ If the character has already performed all Actions, then they can act in the rou
 
 The character who executes an Attack Action and Casts a Spell in the same round is considered Distracted, meaning they must make a Magic Check to cast the spell.
 
-**Movement Action***: a Movement Action is an Action dedicated to moving. You can move up to your full movement (9 meters for humans, 6 meters for dwarves...) per Action used. Each movement consumes an Action even if you don' \*\*t use all your available movement.
+**Movement Action***: a Movement Action is an Action dedicated to moving. You can move up to your full movement (9 meters for humans, 6 meters for dwarves\ldots) per Action used. Each movement consumes an Action even if you do not use all your available movement.
 
 **Table: Actions per Round**
 
@@ -2216,7 +2222,7 @@ The Movement written in the character' \*\*s race is the indication of how many 
 A creature or character might also decide to move faster than usual, i.e., running (Dash Action).
 
 The Dash Action is a special Movement Action; it consists of running for that Action.
-If a **Dash** Action  is executed, the meters traveled are doubled (2x9 meters for a human); for a dwarf (Movement 6m), it means traveling 12 meters in one Action.
+If a **Dash** Action  is executed, the meters traveled are doubled (2x9 meters for a human); for a dwarf (Movement 6 m), it means traveling 12 meters in one Action.
 It' \*\*s also possible to make multiple Dash Actions, up to 3 in a round, i.e., run for 6 times your movement.
 
 The character who takes a Dash Action  is running and has a penalty of 1d6 on the Attack Roll. Defense decreases by 4 until the beginning of their next round, and they are considered Distracted for spellcasting.
@@ -2257,7 +2263,7 @@ The worthy Game Master never kills player characters willingly. He presents oppo
 
 Weapon damage is calculated as the sum of the weapon die, Strength (or Dexterity if indicated by Abilities) whether positive or negative, bonuses given by Weapon Lists, bonuses given by Abilities, bonuses given by the weapon, and circumstantial bonuses.
 
-When a creature reaches 0 (zero) Hit Points, they are considered unconscious, meaning Helpless and Unable to do anything. Magical Healing (Spell, Potion...) will bring them back to consciousness and to the healed Hit Points. A First Aid check (page ) (DC 12) can be used to bring them conscious at 1 Hit Point.
+When a creature reaches 0 (zero) Hit Points, they are considered unconscious, meaning Helpless and Unable to do anything. Magical Healing (Spell, Potion\ldots) will restore consciousness and the healed Hit Points. A First Aid check (page ) (DC 12) can be used to restore consciousness at 1 Hit Point.
 If left unconscious after an hour, if nothing has happened to change the situation, the character can make a Fortitude Saving Throw at DC 15; if successful, they return to 1 Hit Point; if they fail, they go to -1 and become dying.
 
 A dying character has negative Hit Points (-1 or less) and is unconscious and helpless. They will continue to lose 1 Hit Point per round until the value reaches double their Constitution +10 and the character will die, if not healed.
@@ -2291,7 +2297,7 @@ If you' \*\*re dealing with easily impressed players, then it' \*\*s better to r
 
 A dead character cannot benefit from normal or magical healing, and cannot be brought back to life by a spell. Only a Patron has sufficient power to bring the soul back into the body and bring the creature back to life. The Animate Dead spell can reanimate a body, but as undead.
 
->> **The death of the character**: Try to understand why they died, what are the causes, the mistakes made. What are the choices that brought them there. Each character who dies is a personal wound but also experience and awareness. Treasure it both for yourself but also for the whole group. If something didn' \*\*t work, try to understand it together, without accusing or blaming but with the aware spirit that you can improve, all of you.
+>> **The death of the character**: Try to understand why they died: identify the causes, mistakes, and choices that led to their death. The death of a character is a personal wound, but also a source of experience and awareness. Treasure that experience for yourself and for the whole group. If something did not work, try to understand it together, without accusations or blame, in the spirit of improving together.
 
 ### Optional - Recovery from 0 Hit Points
 
@@ -2313,7 +2319,7 @@ Any lost Ability Score points recover at a rate of 1 point per day, if not indic
 
 ### Natural Hit Point Recovery
 
-For each night of rest (at least 8 hours), you recover in Hit Points the value of Constitution * WP or MP (character' \*\*s choice, with a minimum of HP equal to WP or MP).
+For each night of rest (at least 8 hours), you recover Hit Points equal to Constitution $\times$ WP or MP, as chosen by the character, with a minimum equal to WP or MP.
 
 ### Non-lethal Hit Point Recovery
 
@@ -2323,7 +2329,7 @@ Every hour you recover, with a minimum of 1 Hit Point, your Constitution value.
 
 Unless otherwise indicated, whenever a character takes damage that lowers Maximum Hit Points, in addition to lowering these, they must also subtract them from current Hit Points. A character, when healed, cannot exceed the current Maximum Hit Points.
 
-Every 8 hours of rest, within 24 hours, recovers 1d4 + Constitution in Maximum Hit Points, with a minimum of 1.
+Every 8 hours of rest, a creature recovers 1d4 + Constitution Maximum Hit Points, with a minimum of 1, up to once every 24 hours.
 
 ---
 
@@ -2363,7 +2369,7 @@ If it' \*\*s **sufficient to touch the opponent**, the Attack Roll has a +1d6 bo
 
 If **the opponent is surprised**, meaning they don' \*\*t expect the attack, Defense and Reflex Saving Throw will have a -2 penalty. This is the value of **Surprise Defense**.
 
-**The Golden Rules also apply to the Attack Roll**. The d6s explode in case you roll 6 with the die, rolling 1 is bad (counts as zero), and relying on luck (i.e., removing 4 points between Weapon Proficiency and Strength or Dexterity to add 1d6 to the Attack Roll, not from bonuses given by Weapon Lists or Abilities or magic items).
+The Golden Rules also apply to Attack Rolls: sixes explode, a 1 counts as zero, and points may be exchanged for an additional d6 as described above.
 
 If modifiers and circumstances bring the inflicted damage to be zero or negative, you will still do 1 damage.
 This rule applies to the modifiers of the weapon damage which indeed cannot bring the total damage to be less than 1; if there are magical protections or damage reductions, this can become zero and therefore you won' \*\*t wound the opponent (but if it becomes negative you don' \*\*t heal them!).
@@ -2392,13 +2398,13 @@ If in the first 3 Attack Rolls you make three times 6, you will hit the opponent
 
 Whenever you have hit, you roll **additional damage of just the weapon** for every 8 over the Defense; this damage is also called **critical damage**. If you made two Critical Hits, it means you must roll 2 extra weapon dice, and have hit by +16/+23 range.
 
->> **Example Critical Hit**: Example: I roll 6 4 5, I roll an additional 6, I roll an additional 6, I roll an additional 4, total 31. The opponent' \*\*s Defense is 15. For damage you roll the weapon' \*\*s damage 3 times, once because I hit and twice because you hit with a margin of 16!
+>> **Example Critical Hit**: Example: I roll 6 4 5, I roll an additional 6, I roll an additional 6, I roll an additional 4, total 31. The opponent' \*\*s Defense is 15. For damage you roll the weapon' \*\*s damage 3 times: once because the attack hit and twice because the attack exceeded the Defense by 16!
 
 ## Exploding Damage
 
 Whenever you roll the maximum value on a weapon' \*\*s damage die (for example, rolling an 8 on the classic d8 for a longsword), you reroll the die and add the new result (of the die only).
 
-For weapons with multiple dice (example 2d4, the maximum value must be obtained as the sum of the two dice, i.e., 8). There is no damage explosion for weapons with maximum damage less than or equal to 6.
+For weapons with multiple dice, such as 2d4, the maximum value is the sum of the dice (8 in this example). There is no damage explosion for weapons with maximum damage less than or equal to 6.
 
 Some weapons have a different damage explosion. In the weapons table where EDX is marked (e.g., ED9), the X value indicates the minimum value sufficient to roll damage again, so in the case of ED9, you can explode the damage with 9 or more on the weapon die.
 
@@ -2419,7 +2425,7 @@ The first attack Action has no penalty while the second attack Action has -5 to 
 
 If the cumulative penalty to hit becomes greater than the Attack Roll it is no longer possible to make further attacks.
 
-Characters with Attack Roll less than 6 can choose to make 2 attacks spending 2 Actions but applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to effectively use their Actions in combat even with significant penalties.
+Characters whose Attack Roll is lower than 6 can choose to make two attacks by spending 2 Actions, applying a -4 penalty to both attacks instead of the standard progression. This allows even low-level characters to use their Actions effectively in combat despite significant penalties.
 
 >> **Multiple Attack Example**: For example, if I have Weapon Proficiency 5, Strength 1, +2 to hit as a bonus from the Weapon List and +1 to hit from a Feat, +2 because I' \*\*m flanking, and +1 for a magic weapon, the first Attack Roll will be 3d6+12, the second will be 3d6+7, the third 3d6+2. It is not possible to make a fourth attack since the attack bonus would become negative.
 
@@ -2482,7 +2488,7 @@ These weapons are light and suitable for Two Weapon Fighting.
 ## Fighting with Two Weapons
 
 Attacks made with the secondary weapon are considered multiple attacks.
-If you attack once, regardless of whether it' \*\*s with the primary or secondary weapon, this will have the full bonus Attack Roll; other attacks will accumulate the -5 penalty to hit.
+The first attack uses the full Attack Roll bonus; subsequent attacks accumulate the -5 penalty.
 
 The damage bonus given by Strength on the secondary weapon is halved. If the secondary weapon is not **Light**, the Attack Roll has an additional -3 penalty to hit (e.g., 0,-8,-10,-18...).
 
@@ -2528,11 +2534,11 @@ It' \*\*s also possible that you' \*\*ve thrown the vial at your own feet (e.g.,
 
 ## Unprepared -- Caught by Surprise
 
-If a creature is caught by surprise, meaning it doesn' \*\*t expect to be attacked, this first round should be considered a surprise round. Those who are surprised have a -2 penalty to Defense and Reflex Saving Throws.
+If a creature is caught by surprise, meaning it does not expect to be attacked, the first round is considered a surprise round. Those who are surprised have a -2 penalty to Defense and Reflex Saving Throws.
 
 You cannot use Actions or Reactions unless explicitly allowed; from the next round onwards, you can declare your initiative and act normally. The same considerations apply to opponents if they are surprised.
 
-Compare the Stealth check of those moving stealthily against 10+Awareness of those who might be surprised. If the check is higher, then the creature is effectively surprised. If who should be surprised is alert and vigilant, grant a +2 bonus to the Awareness check.
+Compare the Stealth check of those moving stealthily against 10+Awareness of those who might be surprised. If the check is higher, then the creature is effectively surprised. If the creature that would be surprised is alert and vigilant, grant a +2 bonus to its Awareness check.
 
 When both creatures are caught by surprise, to determine who is actually surprised, make a Reflex Saving Throw; whoever scores more than 15 is not surprised.
 
@@ -2542,7 +2548,7 @@ A spellcaster who casts a spell while in combat (has an opponent in melee or is 
 
 ## Modifiers in Attack or Defense
 
-The best suggestion that can be given in managing the more chaotic combat situations is to think of these as a movie, evaluate the cinematic quality of the situation.
+The best suggestion for managing chaotic combat situations is to think of them as a movie and evaluate the cinematic quality of the situation.
 
 It' \*\*s not a question of miniatures, spaces, squares... it' \*\*s a question of fun and visualization of the scene. Unorthodox solutions for unorthodox situations.
 
@@ -2580,7 +2586,7 @@ The **positive modifiers indicated** in the *Table: Modifiers in attack or defen
 
  
 
-Two weapons that will never be lacking to anyone are their own fists and kicks; with these weapons you are always trained and they are not considered improvised attacks.
+Two weapons everyone always has are their fists and feet; these attacks are always trained and are not improvised.
 
 If you haven' \*\*t taken the *Empty Hand* weapon list, a punch or kick will do 1d3 + Strength of non-lethal damage. Only with the Empty Hand Weapon List do you become a martial artist.
 
@@ -2588,7 +2594,7 @@ If you haven' \*\*t taken the *Empty Hand* weapon list, a punch or kick will do 
 
 You can help a companion to attack or defend in melee, by distracting or interfering with the opponent. You can make a melee attack (1 Action) against an opponent who has already engaged in battle with one of your allies.
 
-You make an Attack Roll against the opponent' \*\*s Defense with a 1d6 bonus. If the attack is successful, you do no damage but your companion gets a +1 bonus to Attack Roll against that opponent or a +1 bonus to Defense until the end of your next round against that opponent on the first attack. If the helper gets a Critical Hit, then the one being helped will have a +2 bonus.
+You make an Attack Roll against the opponent' \*\*s Defense with a 1d6 bonus. If the attack is successful, you do no damage, but your companion gets a +1 bonus to Attack Roll against that opponent or a +1 bonus to Defense until the end of your next round against that opponent, applying to the first attack. If the helper gets a Critical Hit, then the one being helped has a +2 bonus.
 
 Multiple characters can help the same ally; bonuses of this type are cumulative (maximum 4 on medium size), provided the opponent is surrounded.
 
@@ -2630,11 +2636,11 @@ You cannot use a weapon' \*\*s Versatile capability if you don' \*\*t know how t
 
 A sword or any weapon not made to be thrown, without Range, can still be hurled at an opponent.
 
-The Attack Roll takes a -1d6 penalty and the weapon does one category of damage less (the longsword does 1d6, a short sword 1d4...). The throwing range is 3 meters.
+The Attack Roll takes a -1d6 penalty and the weapon deals one category of damage less (the longsword deals 1d6, a shortsword 1d4\ldots). The throwing range is 3 meters.
 
 ### Power Attack
 
-When attacking, the character can declare adding a +1 to damage by taking a -2 penalty to the Attack Roll with the melee weapon (requirement Weapon Proficiency +1). You cannot take more than Weapon Proficiency/4 from the Attack Roll. Must be declared before the Attack Roll.
+When attacking, the character can declare that they are adding +1 to damage by taking a -2 penalty to the Attack Roll with the melee weapon (requirement: Weapon Proficiency +1). You cannot take more than Weapon Proficiency/4 from the Attack Roll. This must be declared before the Attack Roll.
 
 ### Flanking, attacking from behind
 
@@ -2716,17 +2722,17 @@ See also the One with the Bow Feat (page .)
 
  
 
-The size indicated in the weapons table (see Weapon Dimensions) refers to a medium-sized creature. For a small-sized creature, the dimension must be understood as one category higher; e.g., a short sword that is of small dimensions for a medium-sized creature, when used by a small-sized creature is considered a medium-sized weapon.
+The size indicated in the weapons table (see Weapon Dimensions) refers to a medium-sized creature. For a small-sized creature, the size must be understood as one category higher; e.g., a short sword that is of small size for a medium-sized creature, when used by a small-sized creature is considered a medium-sized weapon.
 
 Similarly, a large weapon, like a two-handed greatsword, in the hands of a giant becomes a medium-sized weapon.
 
 This does not change the damage or the type of damage caused by the weapon.
 
-A creature can use a weapon with the dimension of its own size or one grade smaller with one hand, and must use two hands to wield a weapon of one size larger than its own.
+A creature can use a weapon of its own size or one size smaller with one hand, and must use two hands to wield a weapon one size larger than its own.
 
 If the weapon is of a size higher than what can be used with 2 hands, for example a Halberd (large weapon) for a small-sized creature, the penalty to the Attack Roll is -1d6. The same principle is valid for a two-handed greatsword of large size (2d8 damage) in the hands of a medium-sized creature.
 
-In the weapons table, the dimension is marked as S (small), M (medium), L (large), H (huge) and refers to a medium-sized creature. A *larger* version of a weapon increases the weapon' \*\*s damage by one category (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6...).
+In the weapons table, the size is marked as S (small), M (medium), L (large), or H (huge) and refers to a medium-sized creature. A *larger* version of a weapon increases the weapon' \*\*s damage by one category (1d4->1d6, 1d6->1d8, 1d8->1d10, 1d10/1d12->2d6, 2d6->2d8, 2d8->2d10, 2d10->3d6\ldots).
 
 Ex. a large longsword (+1 size) goes from 1d8 to 1d10 damage.
 
@@ -2738,7 +2744,7 @@ Ex. Longsword for a medium creature can cause 1d8 with one hand or 1d10 with two
 
 If the weapon must be held with two hands because it' \*\*s too large for your size, this modifier is not considered (e.g., a two-handed greatsword for a medium-sized creature, or a longsword for a small creature).
 
-The EDX value, if different from the maximum damage of the weapon, increases by 2 (the Katana will cause 2d6 damage and will have ED11) when used with two hands.
+The EDX value, if different from the maximum damage of the weapon, increases by 2 (the katana deals 2d6 damage and has ED11) when used with two hands.
 
 ### Fighting in the Dark
 
@@ -2790,13 +2796,13 @@ It is an Athletics check opposed by a Fortitude Saving Throw with Strength. Whoe
 It costs 2 Actions (Fortitude) to make and maintain and to break free from the grapple. It is considered that whoever grapples is also Grappled and has at least one hand occupied in grappling.
 Moving a grappled creature requires Push an opponent.
 
-Each contestant can attack the other grappled with a small weapon or natural weapons; Defense has a -2 penalty and they are considered Distracted. Attacking a creature different from the one you' \*\*re grappling has a -1d6 penalty to the Attack Roll.
+Each contestant can attack the other while grappled, using a small weapon or natural weapons; Defense has a -2 penalty and they are considered Distracted. Attacking a creature different from the one being grappled has a -1d6 penalty to the Attack Roll.
 
 ### Moving Through Enemies*
 
  A character can **move through** but not stop in **a zone occupied** by a creature without being **restricted**.
 
-To move through the terrain where there is a hostile creature or that is in the reach of attack by the hostile creature that you pass alongside, it is necessary to perform an Opposed Check of Athletics or Acrobatics against a Reflex Saving Throw of the creature through whose terrain you want to **pass**; each creature passed beyond the first, the difficulty increases by +2.
+To move through a space occupied by a hostile creature, or within that creature' \*\*s reach, make an Opposed Check of Athletics or Acrobatics against the creature' \*\*s Reflex Saving Throw; for each creature beyond the first, the difficulty increases by +2.
 
 It costs 1 Action (Reflex), regardless of the number of creatures, for the check to pass through in addition to the Move Action. The terrain occupied by the hostile creature is considered difficult. The terrain is not considered difficult only if the creature is two or more size categories smaller. In case of Critical Success on the Athletics or Acrobatics check the action used to move through  enemies is not consumed but only that of movement.
 
@@ -2814,7 +2820,7 @@ If the one attempting the maneuver fails and gets a Critical Failure, they are t
 ## Optional - Critical Hit Actions
 
 This Option allows combat to be less focused on damage and more on maneuvers and tactics.
-The player keeps track of the Critical Hits they roll but don' \*\*t apply to damage, in sets of three rounds at a time, restarting the count at the end of the third round or when they use them and the count is at zero.
+The player tracks Critical Hits that are not applied to damage over three-round intervals, restarting the count at the end of the third round or when they use them and the count reaches zero.
 
 Each round they can deduct one or more accumulated Critical Hits to perform Critical Actions. The use of Critical Actions must be against the opponent on whom the Critical Hits were made.
 
@@ -2828,7 +2834,7 @@ Use this list as guidelines to stimulate the character to create their own comba
 
 - ***1***: Sand in the eyes. Until the end of your next round, the opponent has -2 to their first Attack Roll
 - ***2***: Eye scratch. Until the end of your next round, the opponent has -4 to the Attack Roll
-- ***3***: Target dazzled. Roll 1d6, with 1-2-3 the opponent has missed their attack. Lasts until the end of the next round.
+- ***3***: Target dazzled. Roll 1d6; on a result of 1--3, the opponent misses their attack. The effect lasts until the end of the next round.
 - ***4***: Target blinded. For 1d6 rounds, the opponent considers everyone as invisible.
 - ***5***: One-eyed. The opponent makes a Fortitude Saving Throw with DC equal to your last Attack Roll; if they fail, they are permanently blinded, otherwise they suffer the effects of point 4.
 - **Weapon Attacks**
@@ -2837,7 +2843,7 @@ Use this list as guidelines to stimulate the character to create their own comba
 - ***2***: Damaged weapon. The opponent' \*\*s weapon inflicts one category of damage less
 - ***3***: Hand strike. Due to pain, until the end of your next round, the opponent loses their first two attacks
 - ***4***: Disarm the opponent. The opponent drops their weapon
-- ***5***: Compromised hand. The opponent until dawn of the next day has -4 to the Attack Roll
+- ***5***: Compromised hand. Until dawn of the next day, the opponent suffers a -4 penalty to Attack Rolls.
 - **Pushes and Lunges**
 
 - ***1***: Push the opponent 3 meters away, $ \pm 1$ for size difference
@@ -2879,11 +2885,11 @@ Use this list as guidelines to stimulate the character to create their own comba
 
 ## Optional - List of Weapon Maneuvers
 
-The more proficient the character becomes with weapons, the more they are able to exploit attack opportunities and perform weapon maneuvers. Whenever the character makes at least two weapon attacks in the round and **neither of them hits**, it is possible to consult the Weapon Maneuvers list to understand which maneuver can be used using a Reaction.
+The more proficient the character becomes with weapons, the more they are able to exploit attack opportunities and perform weapon maneuvers. Whenever the character makes at least two weapon attacks in a round and **neither attack hits**, they can consult the Weapon Maneuvers list to determine which maneuver can be used as a Reaction.
 
 Each Maneuver indicates which is the situation that activates it (Activ.) and what the Effect is.
 
-A Critical Effect may also be indicated, i.e., the Effect that occurs when a Critical Failure is obtained in at least one Attack Roll. As long as the Activator is always respected, the player can choose between the Effect and the Critical Effect.
+A Critical Effect may also be indicated, i.e., the Effect that occurs when a Critical Failure is obtained in at least one Attack Roll. Provided the activation condition is met, the player can choose between the Effect and the Critical Effect.
 
 The Activator may specify an even or odd value to be compared with the Attack Roll.
 
@@ -2966,7 +2972,7 @@ Particularly intelligent mounts tend to prefer acting on their own rather than b
 
 You can only control a mount if it has been trained to accept a rider. War-trained saurovals creatures are presumed to have received such training.
 
-By spending 1 of your Actions, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
+By spending 1 Action, you can make the mount perform 2 of these Actions: Move, Attack, Disengage.
 
 If the mount is intelligent, it might move and act as it prefers, regardless of the rider' \*\*s instructions. It might flee from combat, charge to attack and devour a severely wounded enemy, or act in some other way against the rider' \*\*s will.
 
@@ -2991,7 +2997,7 @@ What if they were behind us and we haven' \*\*t even noticed?
 
 If the target is known to be present but is somehow concealed, then they are said to have **cover**.
 
-- If the target has **more than half** (but not total) of its surface **visible**, then the cover is defined as **light**, giving +2 to Defense. This might be the case of a creature behind another creature of the same size or 1 size larger.
+- If the target has **more than half, but not all,** of its surface **visible**, then the cover is defined as **light**, giving +2 to Defense. This might be the case of a creature behind another creature of the same size or 1 size larger.
 
 It could be the case of an archer standing behind a 1-meter wall.
 - If the target has **less than half** (but at least a third) of its surface **visible**, then the cover is defined as **medium**, giving +4 to Defense. This might be the case of a creature behind another creature 2 sizes larger.
@@ -3144,7 +3150,7 @@ This List only confers the cumulative bonuses listed here when wearing Armor.
 
  Great Double Axe, Double Flail, Two-bladed Sword, Urgrosh
 
-- 4 points: your proficiency in using these weapons makes you extremely versatile, giving you the ability at the beginning of your round to choose whether to be defensive or offensive, increasing either your Attack Roll or Defense by 1 until the beginning of the next round. Does not cost Actions.
+- 4 points: your proficiency in using these weapons makes you extremely versatile, giving you the ability at the beginning of your round to choose whether to be defensive or offensive, increasing either your Attack Roll or Defense by 1 until the beginning of the next round. This does not cost any Actions.
 - 5 points: by taking a -4 penalty to the Attack Roll on your first attack in the round, you gain +4 to Defense until the beginning of your next round.
 - 7 points: using a non-light double weapon does not incur the additional -3 penalty to the Attack Roll.
 - 9 points: your technique leaves no weak points, for each successful Attack Roll in the round you get +1 to Defense until the beginning of your next round.
@@ -3363,7 +3369,7 @@ Using 2 Actions, they can concentrate and switch to using the bonuses derived fr
 
 Feats are peculiar abilities, the result of training or special gifts. Feats always have a practical effect.
 
-Feats constitute a good part of what the character can do; they should be chosen with attention and care. It is by choosing Feats that the character' \*\*s style and ability are established, whether you want them to be more of a warrior or mage or healer... or any combination and *uniqueness*.
+Feats constitute a good part of what the character can do; they should be chosen with attention and care. It is by choosing Feats that the character' \*\*s style and ability are established, whether you want them to be more of a warrior, mage, or healer\ldots or any combination thereof, while preserving the character' \*\*s uniqueness.
 
 **At first level, you take two Feats**. Subsequently, you take one Feat at levels 2, 3, 4, 5, 6, 7, 9, 10, 12, 13, 15, 16, 18, 20. This can be a Feat you already know or a new Feat learned during adventures.
 
@@ -3442,7 +3448,7 @@ The **second time** you take this Feat, you can also transform into a creature w
 
 **Creature Type**: Plants and Oozes
 
-**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal' \*\*s.
+**Abilities**: The character chooses whether their physical Abilities, Defense, and Saving Throws are their own or those of the animal.
 
 **Spells**: You cannot cast spells in the new form
 
@@ -3454,7 +3460,7 @@ The **third time** you take this Feat, you can also transform into a creature wi
 
 **Creature Type**: Elementals
 
-**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal' \*\*s.
+**Abilities**: The character chooses whether their physical Abilities, Defense, and Saving Throws are their own or those of the animal.
 
 **Spells**: You can cast spells in the new form as long as they have only Verbal components
 
@@ -3466,7 +3472,7 @@ The **fourth time** you take this Feat, you can also transform into a creature w
 
 **Creature Type**: Monstrosities
 
-**Abilities**: The character chooses whether physical Abilities, Defense, Saving Throws are their own or the animal' \*\*s. Hit Points remain those of the character.
+**Abilities**: The character chooses whether their physical Abilities, Defense, and Saving Throws are their own or those of the animal. Hit Points remain those of the character.
 
 **Spells**: You can cast spells in the new form as long as they have only Verbal and Somatic components
 
@@ -3490,7 +3496,7 @@ Any action that requires hands is limited to the capabilities of your new form. 
 
 Attack forms are always those of the creature.
 
-From the new form, you acquire characteristics and abilities, such as senses, movement, languages (but you may not be able to speak languages other than that of the animal).
+In the new form, you acquire characteristics and abilities, such as senses, movement, and languages (but you may not be able to speak languages other than that of the animal).
 
 When you are transformed, you can channel your Magic Points to improve the transformation; for each Magic Point used, you get a +1 to Attack Roll, damage with attacks, Defense, and Saving Throws. This ability must be declared at the beginning of the round as an Immediate Action that lasts until the beginning of your next round. You cannot use more Magic Points at once than the number of times you have taken the Animalia Feat.
 
@@ -3548,7 +3554,7 @@ The **first time** you take this Feat, your Defense is 10 + Constitution + 1/3 o
 
 The **second time** you take this Feat, requirement Empty Fist 5, you acquire damage reduction (DR) of 1/-
 
-The **third time** you take this Feat, requirement Empty Fist 7, you automatically reduce Bleeding by 1 at the end of the round.
+The **third time** you take this Feat, Requirement: Empty Fist 7, you automatically reduce Bleeding by 1 at the end of the round.
 
 The **fourth time** you take this Feat, requirement Empty Fist 8, you acquire damage reduction (DR) of 3/-
 
@@ -3965,7 +3971,7 @@ This Feat does not stack with the Magic Battery Feat.
 | **Ability Score**: | Dexterity or Constitution |
 
 Your step is naturally quick.
-If you have movement 6m, you step at movement 7m; if you have movement 9m, you step at movement 10m.
+If you have movement 6 m, you step at movement 7 m; if you have movement 9 m, you step at movement 10 m.
 
 For every additional **two times** you take the Feat, your movement increases by 1 meter per Movement Action, up to a maximum of +3 meters per round.
 
@@ -4324,7 +4330,7 @@ You can throw a second dagger as an Immediate Action following an Attack action 
 
 If your Traits are in common with a positive Patron, you can channel healing energy (healing/damaging effect on undead); if they are in common with a neutral or evil Patron, you can channel negative energy (damaging/healing effect on undead).
 
-Usable a number of times per day equal to (sum of Traits in common with the Patron)/2.
+This can be used a number of times per day equal to (sum of Traits in common with the Patron)/2.
 
 The **first time** you take this Feat, through laying on hands you can heal/harm a creature by 5 Hit Points. You can apply multiple uses with a single touch.
 
@@ -4494,7 +4500,7 @@ The **second time** you take this Feat, requirement Weapon Proficiency 6, the De
 
 Choose a Weapon List. The Strength damage applied by weapons from that list increases by 1.
 
-This Feat can be taken multiple times, with at least WP 5,9,13.
+This Feat can be taken multiple times, with at least WP 5, 9, or 13.
 
 If you take this Feat **4 times** on the same Weapon List, the damage bonus is reduced to +2, but you roll damage twice and choose the better result. It does not apply to damage explosion or critical damage.
 
@@ -4511,15 +4517,15 @@ The **first time** you take this Feat, you must choose one *favorite* and three 
 
 On the *favored* list, the casting cost of spells decreases by 1, maintaining a minimum cost of 1. For the 3 *opposite* Spell Lists, the casting cost of spells increases by 1.
 
-The **second time** you take this Feat, Magic Proficiency requirement 6, on the *favored* Spell List, Magic Checks are made with an additional +4, and you can discard 1 die from the list.
+The **second time** you take this Feat, Requirement: Magic Proficiency 6, on the *favored* Spell List, Magic Checks are made with an additional +4, and you can discard 1 die from the list.
 
-The **third time** you take this Feat, Magic Proficiency requirement 11, on the *favored* Spell List, when you make a Magic Check, you count +8 more than the number rolled.
+The **third time** you take this Feat, Requirement: Magic Proficiency 11, on the *favored* Spell List, when you make a Magic Check, you count +8 more than the number rolled.
 
-The **fourth time** you take this Feat, Magic Proficiency requirement 14, on the *favored* Spell List, you can reroll the Magic Check once on a critical failure.
+The **fourth time** you take this Feat, Requirement: Magic Proficiency 14, on the *favored* Spell List, you can reroll the Magic Check once on a critical failure.
 
-The **fifth time** you take this Feat, Magic Proficiency requirement 17, on the *favored* Spell List, whenever you make a Magic Check, you can skip the roll and count as having made two Critical Magic Successes.
+The **fifth time** you take this Feat, Requirement: Magic Proficiency 17, on the *favored* Spell List, whenever you make a Magic Check, you can skip the roll and count as having made two Critical Magic Successes.
 
-The **sixth time** you take this Feat, Magic Proficiency requirement 20, on the *favored* Spell List, spells lower than 4th level do not cost Magic Points in their basic formulation.
+The **sixth time** you take this Feat, Requirement: Magic Proficiency 20, on the *favored* Spell List, spells lower than 4th level do not cost Magic Points in their basic formulation.
 
 **Rules**:
 
@@ -5029,7 +5035,7 @@ While performing a Movement Action, you can reduce the loading time of your cros
 | **Sav. Throws**: | +2 Reflex, +1 Will |
 | **Ability Score**: | Dexterity or Intelligence |
 
-To benefit from these bonuses, you must not wear armor or shields or magical items that improve Defense. The listed abilities cannot be cumulated with the Armor of the Enchanted Mountain Feat.
+To benefit from these bonuses, you must not wear armor or shields or magical items that improve Defense. The listed abilities cannot be combined with the Armor of the Enchanted Mountain Feat.
 
 The **first time** you take this Feat, your natural Defense increases by 1 + 1/3 of your Empty Fist points + Dexterity + any modifiers.
 
@@ -5470,7 +5476,7 @@ You cannot discharge spells higher than level 3 with this Feat, and the casting 
 
 Choose a Weapon List; with these weapons, you get a +1 to hit.
 
-This Feat can be taken multiple times, with at least WP 5,9,13.
+This Feat can be taken multiple times, with at least WP 5, 9, or 13.
 
 If you take this Feat **4 times** on the same Weapon List, the bonuses to hit are reduced to +2, instead of +4, but you make the first Attack Rolls two times and choose which roll to keep.
 
@@ -13304,11 +13310,11 @@ For as the body without the spirit is dead, so faith without works is dead also.
 
 All creatures, even those who do not use magic, can feel the influence of these Powers, of these Patrons.
 
-Every character, by his way of being (playing) and behaving, has at least one Trait in common with a Patron, and during adventures and his evolution, he matures and strengthens these convictions, he will be able to feel more strongly the influence and effects of a Patron.
+Every character, through their way of being and behaving, has at least one Trait in common with one or more Patrons. According to the dominant Trait, the procedure described in the chapter Traits, and the following table, a single Patron reclaims the character. During adventures, as the character matures and strengthens their Traits, they may feel more strongly the influence and effects of the claiming Patron.
 
-It is not necessary that he has sworn allegiance to a Patron or that he is a Follower or Devotee, he will still feel the influence of the Patron and receive gifts from it.
+It is not necessary to have sworn allegiance to the claiming Patron or to be their Follower or Devotee: the character will still feel their influence and may receive their gifts.
 
-A Patron is quite happy if creatures follow his dictates, Traits, and gives to those who do so small powers as recognition for the loyalty reserved for him, willingly or not. The powers indicated under *Traits in Common* are cumulative. Unless otherwise indicated, the powers can be used 1 time per day and cost 2 Actions.
+A Patron is quite happy when creatures follow their dictates and Traits, and grants those who do so small powers as recognition for the loyalty shown to them, willingly or not. The powers indicated under *Traits in Common* are cumulative and refer only to the claiming Patron. Unless otherwise indicated, the powers can be used 1 time per day and cost 2 Actions.
 When a spell is indicated, it is manifested without Magic Checks or penalties due to armor.
 
 Each **Patron favors one or more energy forms**, if you are a Follower you can use that energy in your magic, if you are a Devotee instead your spells will use one of the indicated energy forms. The *Privileged Lists* (page ) are indicated, that is, lists in which the Devotee has usage advantages.
@@ -13323,17 +13329,17 @@ There is also the indication of the **preferred weapon** of the Patron. There ar
 
 Under the indication of the preferred weapon there is the indication of the Rule  that is the behavior that the Devotee must try to respect.
 
-A spellcaster who relies on a Patron, with at least **2 Traits** in common, becomes a **Devotee**. If he has at least **1 Trait** in common and relies on a Patron then he is said to be a **Follower**. The **Advantage** indicated is only for the Devotee.
+A character may choose to formally adhere to the claiming Patron. With at least **2 distinct Traits** in common, they may choose to be a **Devotee**; with at least **1 Trait** in common, they may choose to be a **Follower**. This choice is voluntary and the two categories are mutually exclusive: a character cannot be both a Follower and a Devotee, nor adhere to two different Patrons. The **Advantage** indicated is only for the Devotee.
 
 >> **Devotees and Followers**: Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
 
-The character might also not follow any Patron despite having more Traits in common or might be a Devotee or Follower not of the Patron with whom he has more Traits in common or the Traits with higher score. The choice is always up to the character and his sensitivity.
+The character may refuse formal allegiance and be neither a Follower nor a Devotee. They cannot replace the claiming Patron with another Patron: the metaphysical bond and the powers derived from Traits always refer to the claiming Patron.
 
-The acquired abilities linked to the Traits in common are independent of being a Devotee, Follower, or simply atheist, they represent the gifts of the Patron to those who follow his Traits.
+Acquired abilities linked to common Traits are independent of being a Devotee, Follower, or having no formal allegiance: they represent the gifts of the claiming Patron to those who follow their Traits.
 
-Nothing prevents a character from receiving more powers from different Patrons! At high levels when the character has a high score in the various Traits he possesses, this will happen frequently. 
+As the sum of common Traits increases, a character may receive several cumulative powers from their claiming Patron. They cannot receive powers as if reclaimed by different Patrons or belong to more than one Patron. 
 
->>> **Your game your fun**: The Game Master can still grant being a Follower or Devotee even if the Traits do not perfectly match. At the request of the player and at his discretion, he can evaluate the similarity of some Traits of the character to those of the Patron and consider them suitable to be a Follower or Devotee. In these situations, it is necessary to understand how the player frames the character and understand not only if the Traits but also if the feeling of the character is akin to the chosen Patron.
+>>> **Your game your fun**: The Game Master can help interpret how the character' \*\*s Traits are expressed in relation to the claiming Patron, especially when the same Trait has different meanings. However, they cannot turn a different Patron into the claiming Patron, ignore the minimum number of common Traits, or allow dual allegiance. Choosing to be a Follower or Devotee remains the player' \*\*s choice.
 
 **Energy - Elements Table**
 
@@ -13356,17 +13362,17 @@ A favor asked of a Patron always has a price neither obvious nor predictable. Th
 
 ### Ljust  
 
-The Lady of Light, she who radiates warmth and love. Generator of the impulses of love, protection, kindness, joy, and forgiveness. She embodies within herself the protective aspect of a mother, the strength and audacity of a fighter, the passion of a young lover, the joy and the search for the new, the imagination of a child. Ljust embodies the beauty of life and every creature that contemplates her sees what for them is the maximum harmony and falls prone to her charm.
+The Lady of Light, she who radiates warmth and love. Generator of the impulses of love, protection, kindness, joy, and forgiveness. She embodies within herself the protective aspect of a mother, the strength and audacity of a fighter, the passion of a young lover, the joy and openness toward the new, the imagination of a child. Ljust embodies the beauty of life and every creature that contemplates her sees what for them is the maximum harmony and falls prone to her charm.
 
 > Only the light that one kindles for oneself subsequently shines for others. (Arthur Schopenhauer)
 
-Ljust can only be chosen by a character with 4 Traits in common with her, fundamentally one is born to be a Devotee of Ljust. Over the ages, Ljust decided to select, choose, and reward creatures that most innately and deeply showed love for life, curiosity for the new, unshakable strength, dedication, trust, respect, and care for others by giving them the powers and the possibility to study and grow as Disciples of Light. These Disciples must follow the rule of the 8 Steps.
+Ljust only reclaims a character with at least 4 Traits in common with her. A character is not automatically a Devotee of Ljust: if the reclaimed character has at least 2 distinct common Traits, the player may choose formal allegiance as a Devotee. Over the ages, Ljust decided to reward creatures that most innately and deeply showed love for life, openness toward the new, unshakable strength, dedication, trust, respect, and care for others by giving them powers and the possibility to study and grow as Disciples of Light. These Disciples must follow the rule of the 8 Steps.
 
 Her patience is not passivity, but the stubborn strength of one who continues to protect life after every defeat. Ljust is open and sociable with every creature, and her loyalty to those who have entrusted their lives to her never fails.
 
 - **Symbol**: An 8-pointed star with 8 luminous rays
 - **Ability Score**(Devotee): Wisdom or Charisma
-- **Traits**: Compassionate, Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient. The Devotee of Ljust has 4 Traits in common with the Patron.
+- **Guide Trait**: Compassionate; **Complementary Traits**: Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient
 - **Manifestation**: golden light floods the spellcaster.
 - **Sum of Traits in common at 5 points**: you can cast the Light spell as a Reaction, 3 times a day
 - **Sum of Traits in common at 10 points**: you gain a +2 to Fortitude Saving Throws
@@ -13401,13 +13407,13 @@ There are also Disciples of another kind, rare but historically ascertained.
 
 He is dark, icy, and angry. He embodies hatred, violence, destruction, vengeance, and perpetual dissatisfaction. He gathers the capricious and discontented personality of a child, the violent and sadistic boredom of a young man, the destructive force of a hurricane, and the anger of a fighter who has nothing more to lose. Calicante, just by his presence, makes you uncomfortable, makes you feel in danger, fascinates but with the weapons of fear and inconstancy.
 
-Calicante can only be chosen by characters who have 4 Traits in common with him. His Devotees are the best assassins, his most akin profession. Those who show the greatest contempt for danger and the lives of others. His favorites are those who are feared, hated, those who are violent and cruel but mortally efficient and decisive in every combat situation.
+Calicante only reclaims characters who have at least 4 Traits in common with him. His Devotees are the best assassins, his most akin profession: those who show the greatest contempt for danger and the lives of others. His favorites are those who are feared, hated, violent, and cruel, but mortally efficient and decisive in every combat situation.
 
-His selfishness is ambitious and arrogant: Calicante wants everything to belong to him and grants nothing without a return. He despises sincerity, hoards whatever he considers useful, and turns every relationship into a deception, with a cold patience that makes his vengeance even more cruel.
+His selfishness is Ambitious and Arrogant: Calicante wants everything to belong to him and grants nothing without a return. He is Dishonest, hoards whatever he considers useful, and turns every relationship into a deception; his Cynicism and cold Patience make his Vengeance even more ruthless. His destructive violence does not add the Cruel Trait to his profile: for Calicante, suffering is primarily a tool of possession, domination, and annihilation.
 
 - **Symbol**: A black whirlwind
 - **Ability Score**: Strength or Dexterity
-- **Traits**: Ambitious, Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy. The Devotee of Calicante has 4 Traits in common with the Patron
+- **Guide Trait**: Ambitious; **Complementary Traits**: Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy
 - **Manifestation**: sword dripping with black blood
 - **Sum of Traits in common at 5 points**: You can cast the Darkness spell. Once a day
 - **Sum of Traits in common at 10 points**: Your weapon is shrouded in shadow. You gain a +2 to Attack Roll and +1d4 damage from Void for 2d6 rounds, Once a day.
@@ -13431,15 +13437,15 @@ Atmos has the unique power, reserved only for him, to banish a Patron from creat
 
 All Patrons fear Atmos for his power, the most terrible for them: their alienation, oblivion, forgetfulness, being distracted from time and the challenge.
 
-To be a Devotee of Atmos at the time of the ritual, it is necessary that the future Devotee possesses at least four Traits in common with him, loving history and knowledge.
+Atmos only reclaims a character who has at least four Traits in common with him and loves history and knowledge.
 
 Dressed in a soft brown robe and leather sandals, he moves among the infinite shelves of the Library of Knowledge with a strange timekeeper always hanging from his waist.
 
-Atmos observes for a long time before deciding and is often indecisive when faced with the consequences of a choice. He is cautious and patient in guarding knowledge, but uncompromising and vindictive when someone attempts to erase history; he jealously preserves every document and every piece of information he can collect.
+Atmos observes for a long time before deciding and is often Indecisive when faced with the consequences of a choice. He is Cautious and Patient in guarding knowledge, but Uncompromising and Vindictive when someone attempts to erase or alter history; his curiosity is methodical and his Greed leads him to jealously preserve every document and every piece of information he can collect.
 
 - **Symbol**: A white book with a pocket watch resting on top
 - **Ability Score**: Intelligence or Wisdom
-- **Traits**: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy. The Devotee of Atmos has 4 Traits in common with the Patron.
+- **Guide Trait**: Indecisive; **Complementary Traits**: Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
 - **Manifestation**: the spell develops as if in slow motion, it is only an illusory effect
 - **Sum of Traits in common at 5 points**: You always know the exact date and time.
 - **Sum of Traits in common at 10 points**: You have an innate intuition for knowledge. You have +1d6 to Knowledge checks
@@ -13455,17 +13461,17 @@ Atmos observes for a long time before deciding and is often indecisive when face
 
 > People don' \*\*t take trips, trips take people. (John Steinbeck)
 
-Patron of the Portals, he can only be chosen by characters who have at least 3 Traits in common. He is the first Patron generated by Ljust and Calicante, created to protect the Earth from external attacks.
+Patron of the Portals, Lynx only reclaims characters who have at least 3 Traits in common with him. He is the first Patron generated by Ljust and Calicante, created to protect the Earth from external attacks.
 
 Serious, with icy eyes of a very light blue, he is the Guardian of the Portals and what lies Beyond. A lethal guardian for those who try to pass through them without permission, an attentive guide for those who ask for his help and his permission. He uses his scars as a shield to keep everyone away. He is the solitary controller of the world.
 
 His Devotees are travelers par excellence, those who preside over and protect the Earth from what is alien, from what could disturb creation.
 
-Although solitary, Lynx can speak with those who ask for guidance and protection and does not refuse confrontation. He is proud of his role and experience, suspicious of every intruder and cautious about granting trust; once he decides to act, his determination does not waver.
+His solitude is a consequence of his role as guardian, not an additional Trait. Lynx can speak with those who ask for guidance and protection: his Extroversion coexists with Cynicism toward intruders. He is Stubborn and Uncompromising in defending the borders, Vindictive toward those who violate them, and Vain about his experience; once he decides to act, his determination does not waver.
 
 - **Symbol**: A portal into darkness
 - **Ability Score**: Dexterity or Intelligence
-- **Traits**: Stubborn, Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+- **Guide Trait**: Stubborn; **Complementary Traits**: Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 - **Manifestation**: as if the panorama no longer had a horizon
 - **Sum of Traits in common at 5 points**: Once a day you can perform an extra Move Action
 - **Sum of Traits in common at 10 points**: You can cast Dimension Door once per day
@@ -13483,8 +13489,8 @@ Although solitary, Lynx can speak with those who ask for guidance and protection
 
 The first Patron created by Atmos under the guidance of Ljust and the influence of Calicante.
 
-Gradh embodies the innate instinct for protection, defense, and care characteristic of Ljust. Gradh is as similar and deeply connected to Ljust as anything that has been generated. He is balance, rationality, and empathy.
-Where there is defense, care, and protection, there is Gradh.
+Gradh embodies the innate instinct for protection, defense, and care characteristic of Ljust. Gradh is as similar and deeply connected to Ljust as anything that has been generated. He is balance, rationality, and responsibility: he protects through courage and a sense of duty, not because he is necessarily Altruistic or Compassionate.
+Where there is defense, care, and protection, there is Gradh, but his protection may take a proud and severe form.
 
 But Calicante could not allow the creation of a Patron totally devoted to Ljust, so he infused Gradh with the coldness of vengeance and the fury of rage. Thus, Gradh, in the act of defending humanity, often must first protect it from himself.
 
@@ -13494,11 +13500,11 @@ Passionate and cold, he is perhaps the most human Patron of the current pantheon
 
 The Devotee of Gradh is proud and haughty, indomitable and protective, and sorrowful, because no matter how hard he tries to bring balance and peace, evil continues to prosper.
 
-Gradh is vain and arrogant in his certainty that he can defend what he loves, but his pride does not prevent him from being loyal. He envies those who destroy lives without paying the price and, when protection fails, his compassion becomes a lucid and ruthless vengeance.
+Gradh is Vain and Arrogant in his certainty that he can defend what he loves, but his pride does not prevent him from being Loyal. He envies those who destroy lives without paying the price and, when protection fails, his care becomes a lucid and ruthless Vengeance.
 
 - **Symbol**: A shield with two intertwined spirals engraved on it.
 - **Ability Score**: Strength
-- **Traits**: Courageous, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+- **Guide Trait**: Courageous; **Complementary Traits**: Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 - **Manifestation**: two spirals, one black as shadow and one bright as a spark, surround your weapon intertwining
 - **Sum of Traits in common at 5 points**: You can cast the spell Cure Wounds from 3 Magic Points, but it causes you 1d6 damage. Once per day
 - **Sum of Traits in common at 10 points**: For 10 consecutive minutes, you have a bonus of +1d6 to Reflex and Fortitude Saving Throws. Once per day.
@@ -13528,7 +13534,7 @@ Atherim is suspicious and does not easily grant access to her secrets, but she i
 
 - **Symbol**: A gloved woman' \*\*s hand holding a vial rich with flows
 - **Ability Score**: Wisdom
-- **Traits**: Suspicious, Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain
+- **Guide Trait**: Suspicious; **Complementary Traits**: Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain
 - **Manifestation**: a serene and calming silence falls around the caster
 - **Sum of Traits in common at 5 points**: You can add 1d6 to a Saving Throw after you' \*\*ve rolled it but before knowing if it succeeded or not. Once per day, as a Reaction.
 - **Sum of Traits in common at 10 points**: You gain 30 temporary Hit Points. Duration 1 hour, once per day, as an Immediate Action.
@@ -13558,7 +13564,7 @@ Belevon' \*\*s compassion, patience, and altruism are often a mask: he knows how
 
 - **Symbol**: A golden cage
 - **Ability Score**: Intelligence
-- **Traits**: Envious, Ambitious, Dissolute, Dishonest, Compassionate, Patient, Altruistic
+- **Guide Trait**: Envious; **Complementary Traits**: Ambitious, Dissolute, Dishonest, Compassionate, Patient, Altruistic
 - **Manifestation**: as if the golden bars of a cage were intertwining around the caster
 - **Sum of Traits in common at 5 points**: You can cast the spell Prestidigitation, 3 times per day.
 - **Sum of Traits in common at 10 points**: You acquire the ability to cast the spell Major Image once per day.
@@ -13590,7 +13596,7 @@ Cattalm is in no hurry: he lets calamity mature and chaos do the work for him. H
 
 - **Symbol**: A giant wave overwhelming the coast
 - **Ability Score**: Strength
-- **Traits**: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
+- **Guide Trait**: Cynical; **Complementary Traits**: Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
 - **Manifestation**: the rumble of thunder
 - **Sum of Traits in common at 5 points**: Through your weapons, you weaken the designated opponent. Following a critical hit, you can increase the fatigue by one level. Once per day as a Reaction.
 - **Sum of Traits in common at 10 points**: Your touch putrefies food (up to 50kg/Encumbrance 10) and water (a cube with a 10m edge). Once per day
@@ -13618,11 +13624,11 @@ A Devotee of Efrem respects life as well as death, in the natural process that i
 
 In the most desolate lands, in the most natural regions, the Devotees of Efrem build utopias between humanoids and animals, where balance is maintained with the blood of anyone who rebels against their will.
 
-Efrem is loyal to nature and altruistic toward creatures that respect it, but his rigor makes him uncompromising. He may be indecisive when faced with two possible balances, or impulsive when he sees a desecration; his ambition is to restore to nature the dominion he believes it deserves.
+Efrem is Loyal to nature and Patient in defending it. His Caution may make him Indecisive when faced with two possible balances, or Impulsive when he sees a desecration; his Ambition is to restore to nature the dominion he believes it deserves.
 
 - **Symbol**: A staff with a vine twisted around it
 - **Ability Score**: Constitution
-- **Traits**: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
+- **Guide Trait**: Loyal; **Complementary Traits**: Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
 - **Manifestation**: spirals of leaves wrap around the weapon
 - **Sum of Traits in common at 5 points**: Your touch makes non-magical animals docile. Will Saving Throw 20 to resist. 3 times per day. Cost 2 Actions.
 - **Sum of Traits in common at 10 points**: You gain a +1d6 to all Survival checks made in a natural environment.
@@ -13650,7 +13656,7 @@ Erondil compassionately protects the works entrusted to his care and is loyal to
 
 - **Symbol**: a sandcastle with a lightning bolt above it
 - **Ability Score**: Wisdom
-- **Traits**: Arrogant, Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
+- **Guide Trait**: Arrogant; **Complementary Traits**: Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
 - **Manifestation**: sound of storm and rumble of landslide
 - **Sum of Traits in common 5 points**: You no longer fear falls. You can cast the spell Feather Fall 3 times per day, only on yourself.
 - **Sum of Traits in common at 10 points**: Your touch shapes stone. You can cast the spell Passwall once per day.
@@ -13686,7 +13692,7 @@ Gaya' \*\*s generosity appears when she shares the beauty of her works, and her 
 
 - **Symbol**: a brush on the sky
 - **Ability Score**: Intelligence
-- **Traits**: Altruistic, Kind, Suspicious, Cynical, Envious, Dishonest, Arrogant
+- **Guide Trait**: Altruistic; **Complementary Traits**: Kind, Suspicious, Cynical, Envious, Dishonest, Arrogant
 - **Manifestation**: spirals of fire and water envelop the caster
 - **Sum of Traits in common at 5 points**: You can create up to 5 liters of water or 1 liter of good quality liquor. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 10 points**: Your metabolism does not fear cold. You resist magical cold damage and are immune to natural cold.
@@ -13718,7 +13724,7 @@ Krondal is patient in allowing every choice to reveal its consequences, but stub
 
 - **Symbol**: A sword held vertically in front of oneself
 - **Ability Score**: Charisma
-- **Traits**: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
+- **Guide Trait**: Uncompromising; **Complementary Traits**: Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
 - **Manifestation**: the Devotee' \*\*s cloak or robe becomes clean and shiny
 - **Sum of Traits in common at 5 points**: You curse your opponent. You cast once per day the spell Bestow Curse. DC 20 to resist.
 - **Sum of Traits in common at 10 points**: You do not want to be tied or handcuffed. Twice a day you can cast Freedom of Movement only on yourself.
@@ -13781,7 +13787,7 @@ Nethergal is patient in gathering information and stubborn in completing every m
 
 - **Symbol**: an iridescent white feather
 - **Ability Score**: Dexterity
-- **Traits**: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
+- **Guide Trait**: Extroverted; **Complementary Traits**: Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
 - **Manifestation**: cascade of feathers, a goose in flight
 - **Sum of Traits in common at 5 points**: You can send a message of up to 144 characters to a subject you can see within 50 meters without being heard/seen. Once per hour. Cost 1 Action. The subject must understand the language used.
 - **Sum of Traits in common at 10 points**: By placing your hand on a book, you learn its contents as if you had read it. One book per week. You lose the knowledge thus acquired after a week. Time 1 round. The written language of the tome must be known.
@@ -13814,7 +13820,7 @@ Nedraf is patient in waiting for the right moment, but uncompromising when battl
 
 - **Symbol**: a strong hand, wrapped in a bandage dirty with blood brandishing a sword
 - **Ability Score**: Constitution
-- **Traits**: Patient, Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
+- **Guide Trait**: Patient; **Complementary Traits**: Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
 - **Manifestation**: the smell of blood and metal spreads in the air
 - **Sum of Traits in common at 5 points**: You can wear light armor without penalties to Magic Check
 - **Sum of Traits in common at 10 points**: You acquire a bonus point on a Weapon List. It may be known or not
@@ -13838,7 +13844,7 @@ Behind his cheerfulness, Nihar hides envy of those who gain glory without effort
 
 - **Symbol**: A dagger placed next to a wine chalice
 - **Ability Score**: Intelligence
-- **Traits**: Curious, Courageous, Compassionate, Vain, Envious, Greedy, Cruel
+- **Guide Trait**: Curious; **Complementary Traits**: Courageous, Compassionate, Vain, Envious, Greedy, Cruel
 - **Manifestation**: the sound of a toast or the uncorking of a bottle
 - **Sum of Traits in common at 5 points**: You can turn water into wine. One liter per day. Cost 2 Actions. 2 times per day.
 - **Sum of Traits in common at 10 points**: An Immediate Action, you get a bonus of +2d6 to a Proficiency check in that round. 3 times per day.
@@ -13872,7 +13878,7 @@ Orudjs' \*\*s compassion is an act that lets him win trust, while his impulsiven
 
 - **Symbol**: A white theatrical mask with only the mouth open and the eyes closed
 - **Ability Score**: Charisma
-- **Traits**: Impulsive, Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
+- **Guide Trait**: Impulsive; **Complementary Traits**: Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
 - **Manifestation**: the sound of a deep and contagious laugh
 - **Sum of Traits in common at 5 points**: Your eloquence is already legendary. +2 to Entertain checks.
 - **Sum of Traits in common at 10 points**: You can cast Silent Image 3 times per day.
@@ -13898,7 +13904,7 @@ Orlaith demands order and justice in public, but can be dissolute in private lif
 
 - **Symbol**: A hand stretched out on a closed book
 - **Ability Score**: Strength
-- **Traits**: Vain, Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
+- **Guide Trait**: Vain; **Complementary Traits**: Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
 - **Manifestation**: the image of a scale, unbalanced.
 - **Sum of Traits in common at 5 points**: You summon 1 mastiff that obeys your commands. Duration 1 minute. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 10 points**: A pair of handcuffs manifests around the wrists of the creature (maximum large size) within 27 meters. Reflex Saving Throw DC 25 to cancel. Cost 2 Actions. Once per day. Strength/Escape Artist DC 20 to free oneself.
@@ -13926,7 +13932,7 @@ Rezh is patient in pursuing profit and may be indecisive only when every choice 
 
 - **Symbol**: a pile of coins with a rat nearby
 - **Ability Score**: Intelligence
-- **Traits**: Greedy, Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
+- **Guide Trait**: Greedy; **Complementary Traits**: Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
 - **Manifestation**: a sound of falling coins surrounds the caster
 - **Sum of Traits in common at 5 points**: You are an expert in coins and gems, no counterfeiter can deceive you. +1d6 to Awareness and related Knowledge checks.
 - **Sum of Traits in common at 10 points**: You use gems as receptacles. You can discharge a spell of 3rd level or lower into a gem, which must have a minimum value of 10gp x spell level. The gem preserves the spell for 6 hours. To activate the gem, you use 2 actions, and the spell it contains is executed, consuming the gem.
@@ -13958,7 +13964,7 @@ Shayalia' \*\*s patience is the patience with which she plans revenge at length;
 
 - **Symbol**: a crumpled cushion dirty with blood
 - **Ability Score**: Charisma
-- **Traits**: Dissolute, Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
+- **Guide Trait**: Dissolute; **Complementary Traits**: Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
 - **Manifestation**: the Devotee is wrapped in a black velvet cloak
 - **Sum of Traits in common at 5 points**: The times to prepare a potion are halved. Healing spells also affect animals and plants.
 - **Sum of Traits in common at 10 points**: Your touch is life for nature. Your healing spells act on natural animals and plants in a maximized way.
@@ -13996,7 +14002,7 @@ The Devotees of Sixiser are often necromancers surrounded by undead and other si
 
 - **Symbol**: A chest overflowing with everything that cannot be closed
 - **Ability Score**: Wisdom
-- **Traits**: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
+- **Guide Trait**: Cautious; **Complementary Traits**: Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
 - **Manifestation**: two hands surrounding, as if to hide, the caster' \*\*s head
 - **Sum of Traits in common at 5 points**: you acquire low-light vision up to 9 meters, or 18 meters if already present.
 - **Sum of Traits in common at 10 points**: you see in darkness even magical within 9 meters. You automatically detect non-magical traps within 3 meters of you.
@@ -14034,7 +14040,7 @@ Sumkjr is suspicious of anyone who claims to act for good without proving it, bu
 
 - **Symbol**: three drops of blood falling one after another
 - **Ability Score**: Charisma
-- **Traits**: Kind, Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+- **Guide Trait**: Kind; **Complementary Traits**: Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 - **Manifestation**: the Devotee is wrapped in a golden brocade cloak
 - **Sum of Traits in common at 2 points**: The touch of your sword is life. A creature touched with your weapon recovers 3d6 Hit Points. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 7 points**: Your Will is stronger than metal. You gain a +2 to Will Saving Throws
@@ -14075,7 +14081,7 @@ Tàhil is dishonest because he never promises what he intends to grant, arrogant
 
 - **Symbol**: A swastika
 - **Ability Score**: Strength
-- **Traits**: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
+- **Guide Trait**: Vindictive; **Complementary Traits**: Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
 - **Manifestation**: a thunder sound
 - **Sum of Traits in common at 5 points**: You can add 1d6 to an Attack Roll. Once per day, before making the Attack Roll, as an Immediate Action.
 - **Sum of Traits in common at 10 points**: Three times per day, before making the Attack Roll, you can declare to hit. Immediate Action
@@ -14107,7 +14113,7 @@ Tazher is patient while waiting from the shadows and indecisive only until he ha
 
 - **Symbol**: The glint of the blade in the dark
 - **Ability Score**: Dexterity
-- **Traits**: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
+- **Guide Trait**: Dishonest; **Complementary Traits**: Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 - **Manifestation**: the Devotee' \*\*s shadow comes to life moving the weapon
 - **Sum of Traits in common at 5 points**: You gain +2 to Stealth checks.
 - **Sum of Traits in common at 10 points**: Your Darkvision becomes 6 meters.
@@ -14137,7 +14143,7 @@ Thaft avoids danger whenever possible and prefers to observe before acting, but 
 
 - **Symbol**: An open book with a skull on top
 - **Ability Score**: Wisdom
-- **Traits**: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
+- **Guide Trait**: Cowardly; **Complementary Traits**: Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 - **Manifestation**: the cry of a newborn child or the sigh of death is heard
 - **Sum of Traits in common at 5 points**: Your touch is lethal to the undead. One of your touches inflicts 2d6 damage to an undead. Cost 2 Actions including the touch. Up to 3 times per day.
 - **Sum of Traits in common at 10 points**: Your touch soothes. Once per day you can remove Blindness or Deafness. Cost 2 Actions.
@@ -14167,7 +14173,7 @@ Torbiorn retains a form of compassion, but grants it only to works or people he 
 
 - **Symbol**: An opaque mirror
 - **Ability Score**: Charisma
-- **Traits**: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
+- **Guide Trait**: Cruel; **Complementary Traits**: Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 - **Manifestation**: shards of broken mirror all around the Devotee like a whirlwind
 - **Sum of Traits in common at 5 points**: With a gesture you can refresh your clothes and yourself making them clean and fragrant. Cost 1 Action. 3 times per day.
 - **Sum of Traits in common at 10 points**: Your spit is poisonous. If the touch Attack Roll hits -2 Strength, not cumulative. Duration 1 minute. Three times per day. Cost 1 Action.
@@ -14183,61 +14189,61 @@ Torbiorn retains a form of compassion, but grants it only to works or people he 
 
 ### Patron - Trait List
 
-The Patrons are listed in alphabetical order by their most characteristic Trait.
+The first Trait listed for each Patron is their **Guide Trait**: it is the dominant Trait used to identify which Patron may reclaim the character. The others are **Complementary Traits**: they are used to compare affinities in case of a tie and to calculate the sum of common Traits. The first Trait is highlighted to make the distinction clear.
 
-Gaya: Altruistic, Kind, Suspicious, Cynical, Envious, Dishonest, Arrogant
+Gaya: **Guide Trait**: Altruistic; **Complementary Traits**: Kind, Suspicious, Cynical, Envious, Dishonest, Arrogant
 
-Calicante: Ambitious, Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy
+Calicante: **Guide Trait**: Ambitious; **Complementary Traits**: Dishonest, Vindictive, Cynical, Dissolute, Arrogant, Greedy
 
-Erondil: Arrogant, Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
+Erondil: **Guide Trait**: Arrogant; **Complementary Traits**: Vindictive, Ambitious, Compassionate, Enthusiastic, Loyal, Greedy
 
-Rezh: Greedy, Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
+Rezh: **Guide Trait**: Greedy; **Complementary Traits**: Indecisive, Ambitious, Envious, Cruel, Cynical, Patient
 
-Sixiser: Cautious, Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
+Sixiser: **Guide Trait**: Cautious; **Complementary Traits**: Indecisive, Uncompromising, Impulsive, Dishonest, Cynical, Suspicious
 
-Cattalm: Cynical, Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
+Cattalm: **Guide Trait**: Cynical; **Complementary Traits**: Arrogant, Ambitious, Uncompromising, Dissolute, Suspicious, Patient
 
-Ljust: Compassionate, Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient
+Ljust: **Guide Trait**: Compassionate; **Complementary Traits**: Stubborn, Courageous, Extroverted, Altruistic, Loyal, Patient
 
-Gradh: Courageous, Vain, Arrogant, Kind, Envious, Loyal, Suspicious
+Gradh: **Guide Trait**: Courageous; **Complementary Traits**: Vain, Arrogant, Kind, Envious, Loyal, Suspicious
 
-Nihar: Curious, Courageous, Compassionate, Vain, Envious, Greedy, Cruel
+Nihar: **Guide Trait**: Curious; **Complementary Traits**: Courageous, Compassionate, Vain, Envious, Greedy, Cruel
 
-Tazher: Dishonest, Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
+Tazher: **Guide Trait**: Dishonest; **Complementary Traits**: Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 
-Shayalia: Dissolute, Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
+Shayalia: **Guide Trait**: Dissolute; **Complementary Traits**: Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
 
-Ledyal: Enthusiastic, Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
+Ledyal: **Guide Trait**: Enthusiastic; **Complementary Traits**: Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
 
-Nethergal: Extroverted, Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
+Nethergal: **Guide Trait**: Extroverted; **Complementary Traits**: Curious, Stubborn, Vain, Vindictive, Arrogant, Patient
 
-Sumkjr: Kind, Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
+Sumkjr: **Guide Trait**: Kind; **Complementary Traits**: Courageous, Stubborn, Suspicious, Altruistic, Curious, Extroverted
 
-Atmos: Indecisive, Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
+Atmos: **Guide Trait**: Indecisive; **Complementary Traits**: Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
 
-Krondal: Uncompromising, Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
+Krondal: **Guide Trait**: Uncompromising; **Complementary Traits**: Vain, Arrogant, Suspicious, Patient, Ambitious, Stubborn
 
-Belevon: Envious, Ambitious, Dissolute, Dishonest, Compassionate, Patient, Altruistic
+Belevon: **Guide Trait**: Envious; **Complementary Traits**: Ambitious, Dissolute, Dishonest, Compassionate, Patient, Altruistic
 
-Orudjs: Impulsive, Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
+Orudjs: **Guide Trait**: Impulsive; **Complementary Traits**: Dissolute, Ambitious, Indecisive, Cruel, Compassionate, Dishonest
 
-Efrem: Loyal, Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
+Efrem: **Guide Trait**: Loyal; **Complementary Traits**: Indecisive, Cautious, Impulsive, Stubborn, Patient, Ambitious
 
-Torbiorn: Cruel, Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
+Torbiorn: **Guide Trait**: Cruel; **Complementary Traits**: Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 
-Nedraf: Patient, Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
+Nedraf: **Guide Trait**: Patient; **Complementary Traits**: Vain, Courageous, Uncompromising, Enthusiastic, Arrogant, Cynical
 
-Atherim: Suspicious, Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain\
+Atherim: **Guide Trait**: Suspicious; **Complementary Traits**: Compassionate, Altruistic, Uncompromising, Courageous, Enthusiastic, Vain\
 
-Thaft: Cowardly, Patient, Extroverted, Loyal, Kind, Vain, Vindictive
+Thaft: **Guide Trait**: Cowardly; **Complementary Traits**: Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 
-Lynx: Stubborn, Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
+Lynx: **Guide Trait**: Stubborn; **Complementary Traits**: Courageous, Cynical, Uncompromising, Vindictive, Extroverted, Vain
 
-Orlaith: Vain, Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
+Orlaith: **Guide Trait**: Vain; **Complementary Traits**: Uncompromising, Courageous, Stubborn, Dissolute, Vindictive, Curious
 
-Laydel: Vindictive, Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
+Laydel: **Guide Trait**: Vindictive; **Complementary Traits**: Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
 
-Tàhil: Vindictive, Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
+Tàhil: **Guide Trait**: Vindictive; **Complementary Traits**: Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
 
 > The gods weave misfortunes for men, so that the generations to come will have something to sing about." Iliad, Homer
 
@@ -16551,7 +16557,7 @@ The DC to notice the pit is 14. Anyone who steps on the cloth falls into the pit
 This pit has a cover made of material identical to the surrounding floor.
 Succeeding on a DC 18 Awareness check reveals the absence of tracks on the section of floor that forms the pit cover.
 
-A DC 18 Survival check is required to confirm that that section of floor actually covers a pit.
+A DC 18 Survival check is required to confirm that section of floor actually covers a pit.
 
 When a creature steps on the cover, it swings open like a trapdoor, causing the intruder to fall into the pit below. The pit is usually between 3 and 6 meters deep, but it can also be deeper.
 
@@ -18936,7 +18942,7 @@ this object looks like a flask, bottle, jug, container, decanter, or pitcher. It
 
 this **bottle** of iron has a brass stopper. You can use two actions to speak the command word of the flask, targeting a creature that you can see within 18 meters of you. If the target is native to a plane of existence other than the one you' \*\*re on, it must succeed on a Will Saving Throw with DC 21 or be trapped in the flask. If the target has already been trapped in the flask, it gets +1d6 to the Saving Throw. Once trapped, a creature remains in the flask until released. The flask can hold only one creature at a time. A creature trapped in the flask doesn' \*\*t need to breathe, eat, or sleep, and doesn' \*\*t age. You can use two actions to remove the flask' \*\*s stopper and release the creature within. The creature is friendly to you and your companions for 1 hour and obeys your commands for that duration. If you give it no commands or give it a command that would result in its death, it will defend itself but take no other actions. At the end of the duration, the creature acts according to its normal behavior.
 
-The *identify* spell reveals that a creature is inside the flask, but the only way to determine what type of creature it is is to open the flask. A newly discovered iron flask might already contain a creature chosen by the Game Master or determined randomly.
+The *identify* spell reveals that a creature is inside the flask, but the creature' \*\*s type can be determined only by opening the flask. A newly discovered iron flask might already contain a creature chosen by the Game Master or determined randomly.
 
 \begin{multicoltab}
 
@@ -22912,7 +22918,7 @@ The day is divided into 24 hours. The current year is 125 of the new calendar.
 
 The inhabitants have a rather pessimistic view of what happens after death. For most, after death there is nothing but the dissolution of the body.
 
-The Devout and Followers believe that their spirit will reunite with the Patron, making it stronger.
+Devotees and Followers believe that their spirit will reunite with the Patron, making it stronger.
 
 Others still believe that each spirit incarnates 4 times before being judged by the Patrons of Genesis and sent to the plane assigned to it.
 
@@ -22930,19 +22936,19 @@ Myth says that every hundred years the Earth dies to be reborn again, more beaut
 
 It is known to few Atmos scholars that every century the recognized Patrons, from whom many draw their powers, disappear and give way, after exactly 1 year, to new Patrons.
 
-Suddenly spells cease to function, only magic items that can absorb and store magic work (such as a Potion, Armor or Weapon, if not a Ring or a Staff that has charges, but not items that automatically recharge like Rods), not even Devout or Followers have access to any spells.
+Suddenly spells cease to function, only magic items that can absorb and store magic work (such as a Potion, Armor or Weapon, if not a Ring or a Staff that has charges, but not items that automatically recharge like Rods), not even Devotees or Followers have access to any spells.
 
-With some exceptions. The Patrons of Genesis, Atmos and Lynx, and the Victorious Patron are the only ones to remain constant and unchanged. Only their Devout and Followers can continue to use the spells available during the intermediate year.
+With some exceptions. The Patrons of Genesis, Atmos and Lynx, and the Victorious Patron are the only ones to remain constant and unchanged. Only their Devotees and Followers can continue to use the spells available during the intermediate year.
 
-From the sixth month onward, the Followers and Devout of the previous patrons begin to hear voices, to dream of new faces and names of new Patrons.
+From the sixth month onward, the Followers and Devotees of the previous Patrons begin to hear voices, to dream of new faces and names of new Patrons.
 
 This is what happened at the end of the first coming, with the only difference being that Ljust granted victory to Calicante to immediately interrupt the cycle and save our world from destruction due to the vengeance for killing the First Patron.
 
-Each new Patron, based on the Traits they command, approaches a Follower or Devout and tries to convince them to accept them as a new Patron. Spellcasters will only be able to use spells at the end of the year, regardless of whether they follow a Patron or not.
+Each new Patron, based on the Traits they command, approaches a Follower or Devotee and tries to convince them to accept them as a new Patron. Spellcasters will only be able to use spells at the end of the year, regardless of whether they follow a Patron or not.
 
 It is an extremely turbulent and agitated period where wars and vendettas break out, taking advantage of the absence of magic. For many, it is a period of pure hatred and violence where the lowest instincts are vented knowing that they will not be judged by any Patron.
 
-The truth is that every hundred years the Patrons of Genesis judge their children, the Patrons, evaluating who has done better and who worse. It is a challenge between Calicante and Ljust to see who, through the Patrons, has obtained more Followers and Devout.
+The truth is that every hundred years the Patrons of Genesis judge their children, the Patrons, evaluating who has done better and who worse. It is a challenge between Calicante and Ljust to see who, through the Patrons, has obtained more Followers and Devotees.
 
 The Patron who has proven most capable of conquering more people will remain also in the next century, this will be the Victor, and his believers will sing of his glory and power for another hundred years.
 
@@ -22954,7 +22960,7 @@ that they hate is superior to anything else. And it is for this reason that ever
 
 It could be a new continent, a sea that opens between lands, new races, animals... something imposing changes for all terrestrials. It is a period of global upheavals.
 
-Only the highest Devout of Atmos know this truth, just as they know that the Patrons of Genesis, after the victory, lie together for six months generating the new Patrons.
+Only the highest Devotees of Atmos know this truth, just as they know that the Patrons of Genesis, after the victory, lie together for six months generating the new Patrons.
 
 Another truth, unfortunately unknown, is that our planet has been part of the Patrons' \*\* game for much longer than a century, and it is only through Ljust' \*\*s will that we have no memory of the previous cycles. To prevent humanity from losing hope, the Patron of Light ensured that we forgot the centuries of abuse caused by the repeated victories of Calicante' \*\*s Patrons and the destruction perpetrated by dragons, allowing us to maintain a fragile but vital hope in a world that can be gentler and more loving toward all its creatures.
 
@@ -26294,7 +26300,7 @@ Chuuls are surprisingly intelligent, and many engage in useless speculation abou
 - **Dam. Imm.**: Acid, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 18 m}
-- **Languages**: understands the languages of its creator but cannot speak speak
+- **Languages**: understands the languages of its creator but cannot speak
 - **Challenge**: 9 (5000 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 8/- against non-magical weapons.
@@ -29151,7 +29157,7 @@ Hobgoblins despise magic and distrust wizards. Their shamans, feared and respect
 - **Dam. Imm.**: Poison
 - **Immunities**: charmed
 - **Senses**: \resizedown{Darkvision 18 m, Blindsight 3 m}
-- **Languages**: understands the languages of its creator but cannot speak speak
+- **Languages**: understands the languages of its creator but cannot speak
 - **Challenge**: 0 (10 XP)
 
 ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it perceives to its master, and the two can communicate telepathically.
@@ -29523,7 +29529,7 @@ Due to continuous summonings, many invisible stalkers are averse to the inhabita
 - **Dam. Imm.**: Fire, Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 36m}
-- **Languages**: understands the languages of its creator but cannot speak speak
+- **Languages**: understands the languages of its creator but cannot speak
 - **Challenge**: 16 (15000 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 12/- against non-magical weapons.
@@ -31387,9 +31393,9 @@ Organization: Solitary
 | **Treasure Category**: None |
 | **Description** |
 
-In a world of ice and snow, remohrazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remorhazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
+In a world of ice and snow, remorhazes are particularly feared for the terrible fire that burns within their bodies. This inner fire causes plates along their back to become red-hot when the creature is particularly angry, excited, or panicked. Creatures that have adapted to arctic regions are often particularly vulnerable to fire, which makes the remorhaz' \*\*s primary defense incredibly powerful and ensures its role as a dangerous predator of icy regions. Remorhazes live in extensive labyrinths dug into the heart of glaciers. These beasts use their heat to dig tunnels in the ice, tunnels whose smooth glassy walls quickly refreeze along their trail, creating numerous incredibly stable mazes.
 
-Intelligent despite their appearance, remohrazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 5000 kg.
+Intelligent despite their appearance, remorhazes understand the language of Giants and often form alliances with them. Frost Giants use them as weapons against their enemies, while other giants use them as living forges. A remorhaz measures 23 meters in length and weighs 5000 kg.
 
 ### Rug of Smothering
 
@@ -32268,7 +32274,7 @@ Older stone giants tend to move away from the tribe for long periods, to live in
 - **Dam. Imm.**: Poison
 - **Immunities**: charmed, paralyzed, petrified, fatigued, frightened
 - **Senses**: \resizedown{Darkvision 36m}
-- **Languages**: understands the languages of its creator but cannot speak speak
+- **Languages**: understands the languages of its creator but cannot speak
 - **Challenge**: 10 (5900 XP)
 
 ***Damage Reduction.*** The clay golem has hardness 10/- against non-magical weapons.
@@ -36103,7 +36109,7 @@ level 3 (2 slots): *Dispel Magic*
 
 **Savages**
 
-These individuals live on the fringes of civilization, sometimes rarely coming into contact with it. Uncomfortable within walls and in civilized lands, they are in their element when they can move through the wilderness.
+These individuals live on the fringes of civilization, occasionally coming into contact with it. Uncomfortable within walls and in civilized lands, they are in their element when they can move through the wilderness.
 
 ### Berserker
 
@@ -36733,7 +36739,7 @@ https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-scheda-eng.pdf
 
 * **Game Master' \*\*s Screen**:
-https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf
+https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2-eng.pdf
 
 https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2-eng.pdf
 
@@ -36754,8 +36760,7 @@ For any feedback or suggestions, please open an issue on GitHub, or send me an e
 
 > To my friends, to my adventure companions, to all the players who close their eyes and let themselves be guided by imagination into wonderful adventures. (Andres Zanzani)
 
-This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC and available at https://
-dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License available at https://creativecommons.org/licenses/by/4.0/legalcode
+This work includes material taken from the System Reference Document 5.1 ("SRD 5.1") by Wizards of the Coast LLC, available at https://dnd.wizards.com/resources/systems-reference-document. The SRD 5.1 is licensed under the Creative Commons Attribution 4.0 International License, available at https://creativecommons.org/licenses/by/4.0/legalcode.
 
 I thank the https://www.brailleinstitute.org/freefont/ for the font used. Atkinson Hyperlegible Font is a highly readable font, even for people with reading difficulties.
 
@@ -36765,7 +36770,7 @@ I thank the https://www.brailleinstitute.org/freefont/ for the font used. Atkins
 
 The images in the manuals are unlicensed or in the public domain. Images marked with *B.I.C.* and the cover were created with Bing Image Creator. If any copyright-protected images are included, please notify us so we can proceed with their removal.
 
-Before any use of OBSS or parts of it, please contact me. The translation of OBSS from Italian to English is done by Anthropic Claude
+Before using OBSS or any part of it, please contact me. This English translation of OBSS was produced using Anthropic Claude.
 
 \hfill
 
@@ -36775,13 +36780,13 @@ Before any use of OBSS or parts of it, please contact me. The translation of OBS
 
 # My Options
 
-I am also a Game Master, and while I built OBSS based on my preferences, there are some Options that make the game more *unique* that I like to make available to the characters.
+I am also a Game Master, and while I built OBSS based on my preferences, there are some Options that make the game more *distinctive* that I like to make available to the characters.
 
 At my gaming table, I usually propose these Options, to be decided in Session Zero:
 
 - Partial Success page 
-- Optional - List of Weapon Maneuvers (page ) to make fumbling less *boring*...
+- Optional - List of Weapon Maneuvers (page ) to make fumbles less *frustrating*\ldots
 - One Belief or List Feats, at the player' \*\*s choice.
 - Iconic Feats for long campaigns. Page 
-- Drugs **NO**. Only for groups composed of mentally mature and adult people. Page 
-- **No to using a timer on Lights**: if your adventures are not set in dungeons or you want a more streamlined management, don' \*\*t manage light duration in real-time.
+- Drugs **NO**. Only for groups composed of mature adults. Page 
+- **No to using a timer for lights**: if your adventures are not set in dungeons, or if you want simpler management, do not track light duration in real time.

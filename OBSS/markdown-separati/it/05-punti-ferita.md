@@ -13,7 +13,7 @@ Segna nella scheda i Punti Ferita massimi che hai e indica il valore attuale di 
 I **Punti Ferita si recuperano** in diversi modi:
 
 - per ogni notte di riposo (almeno 8 ore) recuperi in Punti Ferita il valore di Costituzione*Livello, con un minimo di PF pari a Livello. 
-- tramite magie curative (incantesimi, pozioni... o altri effetti magici)
+- tramite magie curative (incantesimi, pozioni… o altri effetti magici)
 - competenza Pronto Soccorso , tramite trattamenti più o meno lunghi
 
 I **Punti Ferita** possono essere anche **temporanei** ovvero aggiunti o tolti temporaneamente ai tuoi attuali.

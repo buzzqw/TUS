@@ -6,13 +6,13 @@ Le prove (i check) per le Competenze o Caratteristiche si eseguono tirando 3d6. 
 
 Quando dovete stabilire una difficoltà, partite pensando che la prova debba essere affrontata da una persona *normale*. Non pensate *se la dovessi fare io allora la prova sarebbe impossibile*, *se la prova la fa Arsenio Lupin la prova è facilissima*. Partite dal presupposto che la difficoltà debba racchiudere in sé tutti gli elementi circostanziali.
 
-Considerate se piove, se c'è poca luce, se il personaggio sta correndo o è ferito, se fa le cose di fretta e anche la complessità di ciò che deve fare: saltare un fosso di 3 metri non è come saltarne uno di 3 metri al buio, senza scarpe, sotto la pioggia, inseguiti e con le tasche strapiene di monete...
+Considerate se piove, se c'è poca luce, se il personaggio sta correndo o è ferito, se fa le cose di fretta e anche la complessità di ciò che deve fare: saltare un fosso di 3 metri non è come saltarne uno di 3 metri al buio, senza scarpe, sotto la pioggia, inseguiti e con le tasche strapiene di monete…
 
 Decifrare uno scritto antico potrà essere una passeggiata per un linguista esperto, ma per una *persona normale* che non ha idea di cosa può avere davanti la prova è semplicemente impossibile. Questo *impossibile* è la vostra DC, la difficoltà della prova.
 
 E non spaventatevi se i personaggi falliscono le prove: renderà l'avventura più interessante e permetterà al Narratore di introdurre fatti, indizi e nuove avventure.
 
->>> **Non serve sempre una Prova**: Evita di chiedere una prova qualora i giocatori dichiarino **come** la effettuano, come e dove cercano o quale dialogo imbastiscono per intimidire l'obiettivo... Valutate con attenzione come il giocatore descrive ciò che fa, perché questa è già la prova. Non serve solo a velocizzare il gioco, ma a stimolare i giocatori a pensare in maniera completa e a calarsi nel personaggio e nell'ambiente.
+>>> **Non serve sempre una Prova**: Evita di chiedere una prova qualora i giocatori dichiarino **come** la effettuano, come e dove cercano o quale dialogo imbastiscono per intimidire l'obiettivo… Valutate con attenzione come il giocatore descrive ciò che fa, perché questa è già la prova. Non serve solo a velocizzare il gioco, ma a stimolare i giocatori a pensare in maniera completa e a calarsi nel personaggio e nell'ambiente.
 
 Renderà il gioco più dinamico e tutti i giocatori parteciperanno alla situazione e collaboreranno dichiarando cosa e come agiscono. Usate sempre il buon senso e risparmiate tiri di dadi! Tirare un dado significa creare la possibilità di fallire!
 
@@ -44,7 +44,7 @@ Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteg
 
 Se non specificato diversamente per tutte le prove di competenza (Base, Attive) valgono tre regole base  chiamate **Golden Rules**:
 
-- I **6 esplodono**, ovvero se nella prova dei 3d6 un dado fa sei, somma il risultato e ritira; se fa 6 nuovamente, somma il risultato e ritira ancora e ancora...
+- I **6 esplodono**, ovvero se nella prova dei 3d6 un dado fa sei, somma il risultato e ritira; se fa 6 nuovamente, somma il risultato e ritira ancora e ancora…
 - Gli **1 portano male**. Quando si tira 1 con un dado, quel dado non contribuisce al risultato. Il valore del dado che mostra 1 viene considerato zero.
 - **Affidarsi alla sorte**. Ogni 4 punti tra Competenza (Base o Attiva) e Caratteristica che rinunci a sommare nella prova tiri un dado a 6 in più (Tiro per Colpire, Tiro Salvezza, prove Competenza). Questo valore non può essere tolto dal punteggio dato da Abilità o oggetti magici.
 - **Tirare 3 volte 6 con i primi tre dadi è un successo**, sia nelle Prove di Competenza, nei Tiri Salvezza e nei Tiri per Colpire, indipendentemente dal risultato finale.
@@ -66,7 +66,7 @@ Una prova può essere ripetuta finché non mutano le condizioni che permettono d
 ### Successo Critico - Fallimento Critico
 
 Se la prova viene **superata almeno di 8** rispetto alla difficoltà stabilita, il Narratore la considererà un Successo Critico.
-Il Narratore può decidere di dare maggiori informazioni, concedere un bonus alle azioni successive (+1)... Qualsiasi cosa possa valorizzare quanto agevolmente la prova è stata superata..
+Il Narratore può decidere di dare maggiori informazioni, concedere un bonus alle azioni successive (+1)… Qualsiasi cosa possa valorizzare quanto agevolmente la prova è stata superata..
 
 Viceversa, se la prova fallisce **di almeno 8 punti**, il Narratore potrebbe descrivere come è miseramente fallita e come il risultato pessimo influenzi l'Azione e quelle successive.
 
@@ -82,7 +82,7 @@ Ragionate su quanto è competente un personaggio al fine di evitare qualsiasi pr
 
 La Consapevolezza è una di quelle competenze che entra in gioco molto spesso.
 
-Fate in modo che siano le domande e i ragionamenti dei personaggi a rivelare gli indizi. Una prova di Consapevolezza potrà essere fatta ogniqualvolta ci sia da cercare qualcosa di non ovvio, qualcosa che deve essere cercato altrimenti non risulta immediatamente percettibile o intuibile, qualcosa che i giocatori desiderano trovare e che c'è ma non fanno la domanda giusta.
+Fate in modo che siano le domande e i ragionamenti dei personaggi a rivelare gli indizi. Una prova di Consapevolezza può essere richiesta quando occorre cercare qualcosa di non ovvio: qualcosa che deve essere cercato e che non risulta immediatamente percettibile o intuibile.
 
 >>> **Non sono le prove a comandare**: Non fate che siano le prove a governare il vostro gioco. **Fate giocare i giocatori**, fateli recitare, fateli partecipare e, in base a quanto dicono, stabilite se la prova è passata o meno.
 
@@ -90,9 +90,9 @@ Se vi dicono *convinco la guardia a farci passare* fate fare una prova di Intimi
 
 ## Le Prove
 
-### Prove di Competenza contrapposte ad un avversario
+### Prove di Competenza contrapposte a un avversario
 
-Ci sono situazioni in cui il personaggio deve effettuare una Prova Contrapposta ad un avversario, ad esempio Furtività per muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni o spingere un avversario...
+Ci sono situazioni in cui il personaggio deve effettuare una Prova Contrapposta a un avversario, ad esempio Furtività per muoversi silenziosamente alle spalle di una guardia, rubare dalle tasche del mercante, intimidire l'orchetto per farsi dare indicazioni o spingere un avversario…
 
 In questo caso il personaggio effettua la prova indicata, la cui **difficoltà (DC) è pari a 10** + il punteggio della Caratteristica + Competenza oppure Tiro Salvezza (come indicato dalla prova) + modificatori (bonus/penalità) contingenti.
 
@@ -129,7 +129,7 @@ Alcune prove possono essere indicate come *Esegui prova di Destrezza a DC 20* se
 
 ### Prove contro una DC statica
 
-Qualora la Prova sia contrapposta a un *avversario statico*, ovvero non a una creatura dotata di Caratteristiche e Competenze, ma a una serratura o a un salto da compiere..., allora si esegue la prova confrontando 3d6 + la Caratteristica interessata + la Competenza Attiva (TS/CM/CA) o Competenza Base (Disattivare Congegni, Atletica...) più idonea con la difficoltà (**DC**) stabilita dal Narratore.
+Qualora la Prova sia contrapposta a un *avversario statico*, ovvero non a una creatura dotata di Caratteristiche e Competenze, ma a una serratura o a un salto da compiere…, allora si esegue la prova confrontando 3d6 + la Caratteristica interessata + la Competenza Attiva (TS/CM/CA) o Competenza Base (Disattivare Congegni, Atletica…) più idonea con la difficoltà (**DC**) stabilita dal Narratore.
 
 > Audentes fortuna iuvat (*La fortuna aiuta gli audaci*, Virgilio)
 
@@ -137,7 +137,7 @@ Qualora la Prova sia contrapposta a un *avversario statico*, ovvero non a una cr
 
 A seconda delle circostanze potranno esserci bonus, vantaggi, penalità o svantaggi nelle prove.
 
-Il modificatore nelle **prove dinamiche** si usa quando la prova viene fatta tirando i 3d6. In questo caso si potranno sommare bonus o penalità (-1, +2...) o addirittura tirare dadi in più o in meno (+1d6, -2d6), fino a non tirare dadi (con 3d6 di penalità).
+Il modificatore nelle **prove dinamiche** si usa quando la prova viene fatta tirando i 3d6. In questo caso si potranno sommare bonus o penalità (-1, +2…) o addirittura tirare dadi in più o in meno (+1d6, -2d6), fino a non tirare dadi (con 3d6 di penalità).
 
 Se le penalità accumulate portano i dadi della prova al di sotto di zero, si contano solo i valori della Competenza e della Caratteristica.
 
@@ -161,7 +161,7 @@ Il giocatore può richiedere di effettuare la prova anche se il risultato è cer
 
 ### Fattore tempo
 
-**Se un personaggio non è in difficoltà o pressione** nell'effettuare la prova può prendere il 10 (+ Caratteristica + Competenze + Abilità...), ovvero considerare che abbia tirato 10 con i dadi. L'Azione impiega 10 round. 
+**Se un personaggio non è in difficoltà o pressione** nell'effettuare la prova può prendere il 10 (+ Caratteristica + Competenze + Abilità…), ovvero considerare che abbia tirato 10 con i dadi. L'Azione impiega 10 round. 
 
 **Se il personaggio non ha impellenti limiti di tempo**, ovvero può dedicare almeno 10 minuti per lavorarci (60 round), può considerare di prendere 14, come se avesse fatto la prova e tirato 14 con i 3d6. 
 
@@ -185,7 +185,7 @@ Se la prova per aiutare fallisce in modo critico, il personaggio aiutato ha una 
 
 ## Prove fatte dal Narratore
 
-Evitate di fare voi le prove al posto dei Giocatori. Siate descrittivi ma non andate a dire al Giocatore che *potrebbe* servire una prova di qualcosa. Qualora dovesse essere necessario eseguire delle prove di nascosto dal giocatore non tirate nessun dado ma aggiungete a 10 il valore della Caratteristica ed il punteggio Competenza o il valore del Tiro Salvezza in questione del personaggio e confrontate il risultato con la difficoltà della prova.
+Evitate di fare voi le prove al posto dei Giocatori. Siate descrittivi, ma non dite al Giocatore che *potrebbe* servire una prova. Qualora fosse necessario eseguire prove di nascosto dal giocatore, non tirate alcun dado: aggiungete a 10 il valore della Caratteristica, il punteggio di Competenza o il valore del Tiro Salvezza pertinente e confrontate il risultato con la difficoltà della prova.
 
 ## Tirare o non Tirare dadi
 
@@ -249,7 +249,7 @@ Mentre viene lanciato è necessaria una prova di **Arcana** a DC pari a 10 + liv
 
 ### Atletica* **1 Azione**
 
-La **distanza saltata in lungo** è pari a 30cm per risultato ottenuto nella prova, arrotondando all'intero più vicino. Es. se nella prova di saltare faccio 11, il salto sarà lungo 30cm*11=330cm=3 metri; con 16 nella prova è 30cm*16=480cm=5m.
+La **distanza saltata in lungo** è pari a 30cm per risultato ottenuto nella prova, arrotondando all'intero più vicino. Es. se nella prova di saltare faccio 11, il salto sarà lungo 30cm*11=330cm=3 metri; con 16 nella prova è 30cm*16=480cm=5 m.
 
 La **distanza saltata in alto** è pari a 10cm per risultato ottenuto nella prova.
 
@@ -257,7 +257,7 @@ In un **salto in lungo** la punta più alta del salto è pari a 1/3 della lunghe
 
 Se non si ha almeno 3 metri di rincorsa si salta la metà. In lungo si salta al massimo il proprio movimento ed in alto la metà.
 
-Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del proprio movimento (quindi si salta entro 4 metri percorsi per un umano) usa la stessa Azione del Movimento, altrimenti consumi un'Azione per il Movimento ed un'Azione per il Salto.
+Effettuare un Salto da fermo costa 1 Azione. Un Salto effettuato entro metà del proprio movimento (quindi si salta entro 4 metri percorsi per un umano) usa la stessa Azione del Movimento, altrimenti consumi un'Azione per il Movimento e un'Azione per il Salto.
 
 ### Conoscenza - Identificare una pozione o veleno naturale 
 È possibile con una prova di **Erboristeria** a DC uguale al fattore di rarità della pianta, oppure al TS che questa concede in caso di Veleni.
@@ -328,7 +328,7 @@ DC 12 + fattore rarità oggetto. Comune +0, Non Comune +2, Raro +6, Molto Raro +
 
 Sopravvivenza può essere usata al posto di **Disattivare Congegni** con un -1d6 per disattivare trappole o serrature. 1 Azione per DC.
 
-Ogni tre punti ottenuti nella prova di Sopravvivenza oltre la DC (solitamente 13) il personaggio è in grado di **procacciare cibo** per se stesso ed un'altra persona purché si trovi in un ambiente capace di sostenere la vita.
+Ogni tre punti ottenuti oltre la DC nella prova di Sopravvivenza (solitamente 13), il personaggio può **procacciare cibo** per sé e per un'altra persona, purché si trovi in un ambiente capace di sostenere la vita.
 
 Si può usare per cercare trappole: 1 minuto per cercare trappole in 3x3 metri, con punteggio 6 costa 3 round, con punteggio di 12 costa 1 round, con punteggio 18 costa 1 Azione.
 
@@ -336,7 +336,7 @@ Si può usare per cercare trappole: 1 minuto per cercare trappole in 3x3 metri, 
 
 Quando nel manuale si parla di *valore o punteggio Competenza* si intende sempre il valore della competenza compreso di tutti i punteggi e modificatori.
 
->> **Prove Prove e Prove!**: Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola od un incantesimo...!
+>> **Prove Prove e Prove!**: Ad essere cinici un gioco di ruolo è tutta una prova, vuoi per riuscire a fare un salto, per colpire qualcuno, per evitare una trappola o un incantesimo…!
 Devi essere più intelligente e furbo. Le prove possono essere spesso evitate o affrontate con vantaggio. Gioca con arguzia, usa la tua immaginazione, sii creativo!
 
 >>> **Il ruolo delle Prove**: L'esecuzione e la gestione delle prove determina il tipo di gioco. È fondamentale ascoltare i giocatori, percepire il loro entusiasmo e comprendere gli obiettivi delle loro azioni. Un giocatore coinvolto trasmette entusiasmo a tutto il gruppo.
@@ -349,7 +349,7 @@ Nel mondo ci sono le vecchie lingue umane, usate solo negli antichi tomi e in co
 
 Le lingue segnate con un * possono essere parlate solo da creature appartenenti a quella specie o gruppo culturale.
 
-Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, Gnomi... parlano e scrivono le proprie lingue.
+Le creature extraplanari come Celestiali, Demoni, Diavoli, Draghi, Elfi, Nani, Gnomi… parlano e scrivono le proprie lingue.
 
 **Tabella delle Lingue**
 

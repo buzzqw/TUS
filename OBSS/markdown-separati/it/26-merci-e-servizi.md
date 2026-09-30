@@ -2,7 +2,7 @@
 
 ## Ricchezza, Denaro ed Equipaggiamento
 
-> - Doc... c'è soltanto bisogno di un pochino di plutonio.
+> - Doc… c'è soltanto bisogno di un pochino di plutonio.
 
 - Ah, sono certo che nell'85 il plutonio si compra nella drogheria sotto casa, ma nel '55 la faccenda è molto più complicata! (Ritorno al futuro, Film 1985)
 
@@ -12,7 +12,7 @@ Nei sotterranei che esplorerai avrai ampie opportunità di trovare tesori, equip
 
 **Armi, Armature e Altro Equipaggiamento **
 
-Come regola generale, le armi, le armature ed il resto dell'equipaggiamento non danneggiato quando viene venduto viene pagato la metà del valore originale. Difficilmente le armi e le armature utilizzate dai mostri sono in condizioni ottimali per la vendita.
+Le armi, le armature e il resto dell'equipaggiamento, se non sono danneggiati, vengono venduti alla metà del valore originale. Difficilmente le armi e le armature utilizzate dai mostri sono in condizioni ottimali per la vendita.
 
 **Oggetti Magici**
 
@@ -305,11 +305,11 @@ Se il personaggio sceglie di acquistare il suo equipaggiamento di partenza, può
 
 **Dotazione da Avventuriero (18 mo)**. Include uno zaino, un piede di porco, un martello, 10 chiodi da rocciatore, 10 torce, Esca ed Acciarino, un giaciglio, 10 razioni giornaliere e un otre. La dotazione include anche 15 metri di corda di canapa legata allo zaino.
 
-**Dotazione da Cacciatore (24 mo)**: contiene Esca ed Acciarino, una borsa da cintura, una corda 18m, un giaciglio, una cerata, un otre, una pentola di ferro, razioni da viaggio (5 giorni), torce (10) e uno zaino.
+**Dotazione da Cacciatore (24 mo)**: contiene Esca ed Acciarino, una borsa da cintura, una corda 18 m, un giaciglio, una cerata, un otre, una pentola di ferro, razioni da viaggio (5 giorni), torce (10) e uno zaino.
 
 **Dotazione da Diplomatico (57 mo)**. Include un forziere, 2 custodie per mappe e pergamene, un abito pregiato, una boccetta di inchiostro, un pennino, una lanterna, 2 ampolle di olio, 5 fogli di carta, una fiala di profumo, cera per sigillo e sapone.
 
-**Dotazione da Devoto (30 mo)**: contiene Esca ed Acciarino, una borsa da cintura, una Borsa per Componenti di Incantesimi, candele (10), corda 18m, un giaciglio, una pentola di ferro, un otre, razioni da viaggio (per 5 giorni), sapone, un simbolo sacro di legno, un testo sacro economico, torce (10) e uno zaino.
+**Dotazione da Devoto (30 mo)**: contiene Esca ed Acciarino, una borsa da cintura, una Borsa per Componenti di Incantesimi, candele (10), corda 18 m, un giaciglio, una pentola di ferro, un otre, razioni da viaggio (per 5 giorni), sapone, un simbolo sacro di legno, un testo sacro economico, torce (10) e uno zaino.
 
 **Dotazione da Esploratore di caverne (24 mo)**: contiene un insieme di attrezzi di base per esplorare rovine e città abbandonate. Include 2 candele, un piede di porco, un gessetto, un martello e 4 Chiodi da Rocciatore, 18 metri di corda, una lanterna schermabile con 5 ampolle d'olio, 2 sacchi, 2 torce, razioni da viaggio (per 3 giorni)
 
@@ -482,7 +482,7 @@ La sostanza non agisce su creature di taglia Enorme o superiore. Una creatura vo
 
 Il colpo diretto provoca 1d6 danni da fuoco. Tutte le creature entro raggio di mischia dal punto in cui è caduta l'ampolla subiscono 1 danno da fuoco come effetto dello spargimento. Nel round successivo al colpo diretto la vittima subisce 1d6 danni da fuoco aggiuntivi. La vittima può sfruttare 1 Azione per tentare di spegnere le fiamme prima di subire questi danni aggiuntivi. Occorre superare un Tiro Salvezza su Riflessi con DC 15 per spegnere le fiamme. Usare 2 Azioni dà al personaggio bonus +2 al Tiro Salvezza. Tuffarsi in acqua o smorzare le fiamme con mezzi magici spegne automaticamente le fiamme.
 
-**Gesso per Calchi**: 5 ma, questa polvere bianca e secca, mischiata con l'acqua, si addensa nel giro di un'ora per creare un materiale solido. Può essere utilizzato per creare un calco di un'orma o di un bassorilievo, riempire buchi o crepe nei muri o (se applicato ad una copertura di stoffa) per fermare un osso rotto. Il gesso indurito ha Durezza 1 e 5 Punti Ferita ogni 2.5 centimetri di spessore. Un vaso di 2 kg di gesso può coprire un raggio di mischia per la profondità di 2.5 centimetri, creare cinque ingessature per l'avambraccio o il polpaccio di una creatura di taglia Media o due ingessature complete per braccio o gamba. Monodose.
+**Gesso per Calchi**: 5 ma, questa polvere bianca e secca, mischiata con l'acqua, si addensa nel giro di un'ora per creare un materiale solido. Può essere utilizzato per creare un calco di un'orma o di un bassorilievo, riempire buchi o crepe nei muri o (se applicato a una copertura di stoffa) per fermare un osso rotto. Il gesso indurito ha Durezza 1 e 5 Punti Ferita ogni 2.5 centimetri di spessore. Un vaso di 2 kg di gesso può coprire un raggio di mischia per la profondità di 2.5 centimetri, creare cinque ingessature per l'avambraccio o il polpaccio di una creatura di taglia Media o due ingessature complete per braccio o gamba. Monodose.
 
 **Ghiaccio Liquido** (fiala) 40 mo, detto anche *ghiaccio dell'alchimista*, questo fluido blu cristallino inizia ad evaporare appena tolto dal contenitore. Nei successivi 1d6 round è possibile utilizzarlo per congelare un liquido o coprire un oggetto con un sottile strato di ghiaccio. È possibile anche lanciare il ghiaccio liquido come arma a spargimento. Un colpo diretto infligge 1d6 danni da freddo, mentre le creature entro raggio di mischia subiscono 1 danno da freddo per lo spargimento. La confezione contiene 3 dosi.
 
@@ -532,7 +532,7 @@ Quando l'effetto dell'aiuto amaro si esaurisce si aumenta di 1 grado il livello 
 Lo Zaino Standard\textregistered \space è una lista di oggetti che ho segnato nel tempo andando ad aggiungere ogni cosa che nel corso delle avventure mi era servito.
 Prendetela come spunto per capire che oggetti avere dietro, non segnateveli tutti altrimenti il Narratore incomincerà seriamente a guardare le regole dell'Ingombro!
 
-Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, Esca ed Acciarino, 7 razioni secche, tenda da 2 persone, otre per l'acqua, materasso arrotolato, sacco a pelo, cerata, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 oli da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2m, fischietto, 6 fiale da pozione vuote, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino, bandoliera.
+Questo il contenuto dello zaino dell'avventuriero: cintura, 3 candele, 6 torce, Esca ed Acciarino, 7 razioni secche, tenda da 2 persone, otre per l'acqua, materasso arrotolato, sacco a pelo, cerata, 18 metri corda, rete, specchio di metallo, piede di porco, bussola, 3 oli da lanterna, inchiostro, gesso, carboncino, uncino, vanga, amo da pesca, stracci, cavo di metallo 2 m, fischietto, 6 fiale da pozione vuote, biglie di marmo, campanella in ottone, 1kg di farina in sacchetto, 3 zeppe, catena di metallo 12 metri, 2 manette, 8 chiodi da rocciatore, martello, carrucola, rampino, bandoliera.
 
 ## Spese e Stile di Vita
 
@@ -559,9 +559,9 @@ La scelta dello stile di vita può avere delle conseguenze. Un personaggio che m
 
 ### Lavorare in città
 
-Durante le pause tra un'avventura ed un'altra o perché deve passare un certo lasso di tempo perché una certa cosa accada, i personaggi possono cercare di mettere a frutto le loro Competenze per guadagnare qualche moneta.
+Durante le pause tra un'avventura e l'altra, o quando devono aspettare che accada qualcosa, i personaggi possono cercare di mettere a frutto le proprie Competenze per guadagnare qualche moneta.
 
-I personaggi effettuano una prova al giorno della loro competenza professionale (es Artigianato oppure Erboristeria od Intrattenere...) in base al successo, guadagneranno o meno.
+I personaggi effettuano una prova al giorno della loro competenza professionale (es Artigianato oppure Erboristeria od Intrattenere…) in base al successo, guadagneranno o meno.
 
 La prova di professione eseguitela con 3d6+Saggezza+1/2 livello, se questa ottiene un valore superiore a 15 allora il personaggio ha ottenuto un compenso. Sottraete alla prova effettuata 15 ed elevate al quadrato questa differenza, saranno le monete d'argento guadagnate nel giorno ( ($(15-Prova)^2$) ).
 
@@ -605,7 +605,7 @@ L'acciaio vivente ha 35 Punti Ferita per 2,5 cm di spessore e Durezza 15.
 
 Questo metallo durissimo si trova solo nei meteoriti e contribuisce alla qualità di un'arma o di un'armatura.
 
-Le armi e le munizioni in adamantio hanno Bonus di +1 ai Tiri per Colpire e la penalità data dall'armatura (Penalità Competenze e Prove di Magia) viene diminuita di 1 rispetto ad una normale armatura del suo stesso tipo. Gli oggetti senza parti metalliche non possono essere costruiti con l'adamantio. Una freccia può essere in adamantio, ma un bastone ferrato no.
+Le armi e le munizioni in adamantio hanno Bonus di +1 ai Tiri per Colpire e la penalità data dall'armatura (Penalità Competenze e Prove di Magia) viene diminuita di 1 rispetto a una normale armatura del suo stesso tipo. Gli oggetti senza parti metalliche non possono essere costruiti con l'adamantio. Una freccia può essere in adamantio, ma un bastone ferrato no.
 
 Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un terzo dei Punti Ferita in più del normale. L'adamantio ha 40 Punti Ferita per 2,5 cm di spessore e Durezza 20.
 
@@ -619,7 +619,7 @@ Armi e armature fatte normalmente d'acciaio e costruite con l'adamantio hanno un
 | Arma pesante | +180 mo |
 | Scudo | +100 mo |
 
-Il processo di argentatura alchemica può essere applicato solo alle armi metalliche e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo ed il mithral.
+Il processo di argentatura alchemica può essere applicato solo alle armi metalliche e non funziona sui metalli speciali come ad esempio l'adamantio, il ferro freddo e il mithral.
 
 Un complesso processo che coinvolge la metallurgia e l'alchimia può legare l'argento a un'arma fatta d'acciaio in modo che oltrepassi la Riduzione del Danno di creature come i Licantropi.
 
@@ -627,7 +627,7 @@ Un arma in argento alchemico mantiene la Durezza e Punti Ferita dell'arma origin
 
 ### Ferro Freddo
 
-Questo ferro viene estratto nelle profondità del sottosuolo ed è noto per la sua efficacia contro demoni e folletti. Viene forgiato ad una temperatura inferiore per conservare le sue delicate proprietà. Costruire armi fatte di ferro freddo costa il doppio rispetto alle loro normali controparti. Inoltre qualsiasi potenziamento magico costa 2000 mo addizionali. Questo aumento viene applicato la prima volta che l'oggetto viene potenziato, non una volta per qualità aggiunta.
+Questo ferro viene estratto nelle profondità del sottosuolo ed è noto per la sua efficacia contro demoni e folletti. Viene forgiato a una temperatura inferiore per conservare le sue delicate proprietà. Costruire armi fatte di ferro freddo costa il doppio rispetto alle loro normali controparti. Inoltre qualsiasi potenziamento magico costa 2000 mo addizionali. Questo aumento viene applicato la prima volta che l'oggetto viene potenziato, non una volta per qualità aggiunta.
 
 Gli oggetti senza parti di metallo non possono essere costruiti in ferro freddo. Una freccia potrebbe essere fatta di ferro freddo ma un randello no (tranne se tutto di metallo). Un'arma doppia che è fatta solo per metà di ferro freddo aumenta il suo costo del 50\%.
 
@@ -654,12 +654,12 @@ Il mithral ha 30 Punti Ferita per ogni 2,5 cm di spessore e Durezza 15.
 ### Pelle di Drago
 
 I fabbricanti di armature possono lavorare le pelli dei draghi per produrre armature o scudi.
-Un drago fornisce scaglie sufficienti per una singola armatura completa, equivalente ad un'armatura pesante, per una creatura di una taglia più piccola del drago, oppure due armature medie per una creatura di due taglie più piccole o 4 armature leggere per creature di 3 taglie più piccole.
+Un drago fornisce scaglie sufficienti per una singola armatura completa, equivalente a un'armatura pesante, per una creatura di una taglia più piccola del drago, oppure due armature medie per una creatura di due taglie più piccole o 4 armature leggere per creature di 3 taglie più piccole.
 
 Un'armatura o scudo in pelle di Drago non si compra, è sempre necessario portare la materia prima, possibilmente non viva, all'artigiano che si preoccuperà di costruire l'armatura.
 
 In ogni caso, c'è sempre pelle sufficiente per produrre uno scudo leggero o pesante in aggiunta all'armatura, purché il drago sia almeno Grande.
-Se la pelle di drago proviene da un Drago che ha immunità ad un tipo di energia, anche l'armatura è immune a quel tipo di energia, sebbene non conferisca alcuna protezione a chi la indossa. Se allo scudo o all'armatura viene conferita in seguito la capacità di proteggere chi la indossa da un tipo di energia specifico, il costo di questo potenziamento viene ridotto del 25\%.
+Se la pelle di drago proviene da un Drago che ha immunità a un tipo di energia, anche l'armatura è immune a quel tipo di energia, sebbene non conferisca alcuna protezione a chi la indossa. Se allo scudo o all'armatura viene conferita in seguito la capacità di proteggere chi la indossa da un tipo di energia specifico, il costo di questo potenziamento viene ridotto del 25\%.
 
 Un'Armatura in Pelle di Drago riduce la penalità alla Prova di Magia di 4 quando lanci un  incantesimo, le penalità alle Competenze diminuiscono di 1 (fino a un minimo di 0), le penalità al movimento diminuiscono di 1 metro.
 

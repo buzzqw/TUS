@@ -4,7 +4,7 @@
 
 Per Combattimento Sociale si intende il tentativo da parte dei personaggi di convincere, forzare o raggirare i PNG o comunque creature tenute dal Narratore a fare o dire cose che non vorrebbero.
 
-Può capitare che i giocatori tentino di corrompere una guardia, di ottenere informazioni in maniera diplomatica oppure intimidatoria, di ottenere una paga più alta, di raggirare un mercante o più semplicemente ogni qual volta lo *scontro* o *confronto* non è tramite armi ma a parole.
+Può capitare che i giocatori tentino di corrompere una guardia, di ottenere informazioni in maniera diplomatica oppure intimidatoria, di ottenere una paga più alta, di raggirare un mercante o più semplicemente ogniqualvolta lo *scontro* o *confronto* non è tramite armi ma a parole.
 
 Per quanto il combattimento sociale possa riguardare una moltitudine di situazioni, ciò che accomuna tutte le prove è il metodo con cui si vuole ottenere il risultato finale.
 
@@ -22,7 +22,7 @@ Il Narratore, in base al livello del PNG, stabilirà quanti successi consecutivi
 
 Se si vincono tutte le prove si vincerà il *combattimento* e si otterrà l'informazione o quanto richiesto. In caso di Successo Critico si conteranno due successi.
 
-In caso di fallimento della prova questa può essere riprovata con un -1 di penalità se le conseguenze del fallimento non portano ad una scena successiva.
+In caso di fallimento della prova questa può essere riprovata con un -1 di penalità se le conseguenze del fallimento non portano a una scena successiva.
 
 Se il fallimento è critico allora non solo la prova è fallita ma non sarà possibile effettuare ulteriori tentativi e l'avversario diverrà ancora meno amichevole. Molto probabilmente il Narratore deciderà l'evoluzione della situazione in base alla richiesta e scena originale.
 

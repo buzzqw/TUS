@@ -43,7 +43,7 @@ Se l'oggetto è stato maledetto tramite l'incantesimo Scagliare Maledizione, o c
 
 Se la prova di contrasto ha successo allora l'oggetto può essere rimosso nel round successivo e la maledizione rimane e colpisce nuovamente se l'oggetto viene usato/indossato un'altra volta.
 
-Ogni oggetto maledetto ha un proprio metodo per essere distrutto, dall'essere gettato in un vulcano attivo, ad essere colpito dal martello del dio del Tuono (o Patrono...) oppure divorato da un Verme colossale delle sabbie se non colpito dal soffio di un drago rosso e un drago d'oro contemporaneamente...
+Ogni oggetto maledetto ha un proprio metodo per essere distrutto, dall'essere gettato in un vulcano attivo, ad essere colpito dal martello del dio del Tuono (o Patrono…) oppure divorato da un Verme colossale delle sabbie se non colpito dal soffio di un drago rosso e un drago d'oro contemporaneamente…
 
 Se la DC della maledizione non è indicata è sufficiente il lancio dell'incantesimo Rimuovi Maledizioni.
 
@@ -112,7 +112,7 @@ Alcuni oggetti hanno requisiti molto più difficili da soddisfare perché funzio
 - Il personaggio deve dormire il doppio del normale.
 - Il personaggio deve compiere almeno una missione specifica.
 - Il personaggio deve sacrificare (distruggere) un valore pari a 100 mo di oggetti o materiali preziosi al giorno.
-- Il personaggio deve giurare lealtà ad un nobile in particolare o alla sua famiglia.
+- Il personaggio deve giurare lealtà a un nobile in particolare o alla sua famiglia.
 - Il personaggio deve abbandonare tutti gli altri oggetti magici.
 - Il personaggio deve essere un Seguace o Devoto di uno specifico Patrono
 - Il personaggio deve avere un numero minimo di gradi in una particolare competenza.
@@ -159,7 +159,7 @@ A meno che non sia indicato diversamente, gli inconvenienti rimangono attivi per
 | 30-32 | Il sesso del Personaggio cambia ogni giorno all'alba. |
 | 33-34 | La razza o la specie del Personaggio cambiano. |
 | 35 | Il PG viene colpito da una Malattia determinata casualmente, che non può essere curata. |
-| 36-39 | L'oggetto emette costantemente suoni sgradevoli (lamenti, maledizioni, insulti...). |
+| 36-39 | L'oggetto emette costantemente suoni sgradevoli (lamenti, maledizioni, insulti…). |
 | 40 | L'oggetto ha un aspetto ridicolo (colori sgargianti, forma, brilla di un alone rosa ecc.). |
 | 41 | Un unicorno blu, visibile solo con la magia, di dimensioni piccole vola sempre attorno al Personaggio dando consigli inutili e facendo battute stupide. |
 | 42 | Ogni giorno ti prende una improvvisa voglia e capacità di fare l'uncinetto per almeno 1 ora. |

@@ -5,7 +5,7 @@ Anch'io sono un Narratore e, per quanto abbia costruito OBSS in base alle mie pr
 Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessione Zero:
 
 - Successo Parziale pag. 
-- Opzionale - Elenco Manovre d'Arme  per rendere meno *noioso* il fumbolare...
+- Opzionale - Elenco Manovre d'Arme  per rendere meno noioso il combattimento.
 - Un solo credo o Abilità di Lista, a scelta del giocatore.
 - Abilità Iconiche in caso di lunghe campagne. Pag. 
 - Droghe **NO**. Solo in caso di gruppi composti da persone mature ed adulte di testa. Pag. 
@@ -15,12 +15,12 @@ Al mio tavolo da gioco solitamente propongo queste Opzioni, da decidere in Sessi
 
 Per me OBSS va giocato in maniera schietta, senza troppi pensieri e cervellotici progetti. OBSS non è fatto per uccidere i personaggi ma allo stesso modo non ne agevola la sopravvivenza, tutto sta al Narratore a decidere come si gioca. È nel Narratore, nello stile dei giocatori e nell'interesse del gruppo la chiave di gioco, OBSS vuole offrire il framework, gli strumenti, per giocare l'avventura.
 
-Cercate di enfatizzare le scene, siate anche teatrali nelle descrizioni, togliete la patina al gioco pulito e politically correct. Rimane sempre il vostro mondo, il vostro tavolo ed il vostro gioco, cercate di dare quell'immersività che spesso nei sistemi più moderni si è un po' persa.
+Cercate di enfatizzare le scene, siate anche teatrali nelle descrizioni, togliete la patina al gioco pulito e politically correct. Rimane sempre il vostro mondo, il vostro tavolo e il vostro gioco, cercate di dare quell'immersività che spesso nei sistemi più moderni si è un po' persa.
 Quando c'è un combattimento fate che sia tale! Deve sentirsi il clangore delle armi, il cozzare sulle armature, l'ozono nell'aria causato dal fulmine, le bruciature crepitanti delle palle di fuoco. Fate che i giocatori apprezzino le possibilità offerte dal sistema e si possano divertire a cercare come effettuare la prova migliore.
 
 Scegliete voi se i personaggi sono canaglie che cercano solo di sopravvivere e accumulare tesori oppure se dare un taglio più classico o epico all'avventura. OBSS si sposa con entrambe le scelte, specialmente utilizzando qualche Opzione rispetto a un'altra.
 
-Create il gruppo, e non intendo solo come insieme di personaggi, ma anche come insieme di giocatori. Un gruppo dove le persone si rispettano e si fidano (possibilmente...). Costruite avventure che coinvolgano tutti, dove tutti possano dare il loro contributo. Ci potranno essere avventure più *cucite* intorno a un personaggio, ma questo non **deve** escludere gli altri dalla partecipazione; nel più ampio termine della parola, non fate che la sessione sia un monologo tra voi e il singolo giocatore.
+Create il gruppo, e non intendo solo come insieme di personaggi, ma anche come insieme di giocatori. Un gruppo dove le persone si rispettano e si fidano (possibilmente…). Costruite avventure che coinvolgano tutti, dove tutti possano dare il loro contributo. Ci potranno essere avventure più *cucite* intorno a un personaggio, ma questo non **deve** escludere gli altri dalla partecipazione; nel più ampio termine della parola, non fate che la sessione sia un monologo tra voi e il singolo giocatore.
 Approfittate di ogni avventura per fare conoscere i personaggi tra loro, nulla unisce di più che la paura di morire!
 
 Una volta fatto il gruppo, e potrebbe volerci anche tempo, allora sfruttate le storie personali, gli indizi ed ipotesi create dai giocatori per plasmare situazioni e accadimenti. Come un pesante volano che ruota questa continuerà a creare situazioni, avventure e nuovi plot da seguire.
