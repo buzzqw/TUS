@@ -2849,19 +2849,19 @@ Il Narratore non ti dirà: ``Fammi una prova a difficoltà 10'', ma dirà che la
 
 \medskip
 
-\noindent\begin{tabularx}{\linewidth}{lll}
+\noindent\begin{tabularx}{\linewidth}{lXl}
 	\toprule
 \rowcolor{gray!20}\textbf{Diff.} & \textbf{Descrizione} & \textbf{Livello}\\
 \textbf{DC}&\textbf{difficoltà}& \textbf{Competenza}\\
 \toprule
-\rowcolor{gray!20}6 & Estremamente facile & Nulla\\
-10 & Facile & Scarsa\\
-\rowcolor{gray!20}15 & Normale & Normale\\
+\rowcolor{gray!20}6 & Banale & Nulla\\
+10 & Semplice & Scarsa\\
+\rowcolor{gray!20}15 & Impegnativa per un personaggio competente & Normale\\
 20 & Difficile & Buona\\
 \rowcolor{gray!20}25 & Molto difficile & Ottima\\
-30 & Eroica& Eccellente\\
-\rowcolor{gray!20}35 & Quasi impossibile & Stupefacente\\
-40 & Impossibile & Epica
+30 & Eroica & Eccellente\\
+\rowcolor{gray!20}35 & Quasi disperata & Stupefacente\\
+40 & Epica & Epica
 \end{tabularx}
 
 \medskip
@@ -9121,11 +9121,13 @@ Se l'incantatore è \hyperlink{defdistratto}{\textbf{Distratto}} (vedi elenco co
 
 Non sempre lanciare un incantesimo è sufficiente: molte volte è necessario che l'incantesimo funzioni bene e, anzi, che agisca oltre le normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare una \emph{\textbf{Prova di Magia}} e confidare nelle proprie capacità.
 
-L'incantatore tira \textbf{3d6 + 1d6 ogni quattro punti di Competenza Magica + Modificatore di caratteristica per incantesimo} più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira \textbf{3d6 + 1d4 ogni tre punti di Competenza Magica + Modificatore di caratteristica per incantesimo} più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti). Il numero di d4 aggiuntivi è pari alla Competenza Magica divisa per 3, arrotondata per difetto: per esempio, con CM 6 tira 3d6+2d4. I d6 seguono l'Esplosione del 6; i d4 non esplodono.
 
-L'incantatore può \textbf{ritirare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.\index{Ritirare dadi nella Prova di Magia} Questo per evitare di tirare tre volte 1.
+L'incantatore può \textbf{ritirare un dado tirato} nella Prova di Magia per \textbf{ogni due volte} che ha preso \textbf{Adepto della Magia}.\index{Ritirare dadi nella Prova di Magia}.
 
-La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.\index{Fallimento Critico Magico}. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
+Se, dopo gli eventuali ritiri concessi da Adepto della Magia, i primi tre dadi della Prova di Magia mostrano 1, la prova è un \textbf{Fallimento Critico Magico} automatico, indipendentemente dal totale ottenuto.
+
+La Prova di Magia si considera superata se il tiro è \textbf{pari o superiore} a 10 + 2 volte il livello dell'incantesimo + eventuali penalità. I Successi Critici o Fallimenti Critici Magici si raffrontano a questo valore.\index{Fallimento Critico Magico}. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
 
 Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.\index{Danno critico se si lancia incantesimo}. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
@@ -9160,7 +9162,7 @@ Non rinunciate al divertimento per paura di sbagliare. Meglio fallire clamorosam
 
 \subsection{Fallimento Critico nella Prova di Magia}\index{Fallimento Critico nella Prova di Magia}\label{magiefallimentocriticonellaprovadimagia}\index{Incantesimi, Fallimento Prova di Magia}\hypertarget{magiefallimentocriticonellaprovadimagia}{}
 
-Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 oppure tirato veramente basso, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
+Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, compresi i tre 1 nei primi tre dadi, oppure è stata tirata veramente bassa, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
 
 \medskip
 
@@ -18152,11 +18154,11 @@ Completa& 1500 mo& 10 & -4& P & 3 				&+16		&8
 
 Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi a superare una Prova di Magia con un aumento di difficoltà indicato nella tabella.
 
-Es. Tups indossa un'armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura a effettuare la Prova di Magia. Tira 3d6 +3 dadi (perché ha 12 punti in CM), puo' ritirare 2 dadi (perché ha preso 4 volte Adepto della Magia).
+Es. Tups indossa un'armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura a effettuare la Prova di Magia. Tira 3d6+4d4 (perché ha 12 punti in CM), può ritirare 2 dadi (perché ha preso 4 volte Adepto della Magia).
 
 La difficoltà dell'incantesimo che lancia, Fulmine, è 10+ 2*3 (livello Incantesimo) +8 (difficoltà aggiuntiva data dall'armatura)
 
-Nella prova esce 4,5,5 / 3,4,\st{1},\st{1}. Ritira i due 1 per Adepto della Magia, valgono zero e se ne avesse fatti 3 sarebbe stato un Fallimento Critico!. Totale 4+3+2+3+4+3+2=21, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
+Nella prova esce 4,5,5 / 3,4,\st{1},\st{1}. Ritira i due 1 per Adepto della Magia e ottiene 1 e 2: i nuovi risultati valgono rispettivamente zero e 2. Il totale è quindi 4+5+5+3+4+0+2=23, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
 
 Se Tups avesse indossato una Cuoio Rinforzato la difficoltà sarebbe aumentata \emph{solo} di 4 e quindi sarebbe riuscito a lanciare l'incantesimo.
 
@@ -21317,13 +21319,9 @@ Liberamente ispirato da \href{https://friendorfoe.com/d/Old%20School%20Primer.pd
 
 \end{narratore}
 
-\smallskip
-
 \begin{narratore}[Trappole ovvie]
 Una trappola visibile/ovvia obbliga i giocatori ad interagire con essa, a sforzarsi per capirne il funzionamento ed ingegnarsi per evitarla o disattivarla. Evitate quando potete risoluzioni solo basate sul tiro di dado (Cerco trappole/Disattivo trappole), piuttosto premiate l'ingegnosità anche semplice ma creativa del giocatore per evitare il pericolo… e magari prima o poi si ricorderanno di recuperare il piede di porco…!
 \end{narratore}
-
-\vfill
 
 \begin{center}
 	\includegraphics[width=0.35\linewidth]{immagini/Bear_trap.png}
@@ -31131,6 +31129,14 @@ Gli incubi sono fiammeggianti messaggeri di morte. Permettono solo alle creature
 
 \textbf{Reazione: \emph{Attacco d'opportunità}}: il diavolo effettua un attacco a una creatura che attraversi o esca dalla sua portata di 1 metro.
 
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/Diavoli_giotto_2.png}
+
+\emph{Diavoli di Giotto}
+\end{center}
+
+
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi (Inferno)\\
 Organizzazione: Solitario, coppia, squadra (3-10) o truppa (10-40)\\
@@ -31140,12 +31146,6 @@ Guerrieri scelti delle legioni infernali, i diavoli barbuti, o barbazu, combatto
 
 I barbazu amano effettuare attacchi di carica con i loro falcioni e cercano di mantenere una distanza di 3 metri tra loro e i loro avversari, così che possono utilizzare le loro caratteristiche armi ad asta con la massima efficacia. In posizione eretta i diavoli barbuti sono alti più di 1,8 metri (sebbene la posizione accovacciata che tengono in battaglia li faccia spesso sembrare più bassi) e pesano più di 100 kg.
 
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/Diavoli_giotto_2.png}
-
-\emph{Diavoli di Giotto}
-\end{center}
 
 
 \mostro{Diavolo delle Catene}
@@ -34563,6 +34563,14 @@ A volontà: \emph{luci danzanti}
 
 \emph{\textbf{Arrabbiato:}} il Drider raccoglie la saliva velenosa e la sputa sulle sue armi. Fino alla fine del combattimento l'attacco di Spada Lunga causa anche 1d8 di danni da veleno. Costa 1 Azione.
 
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/James_Paterson_-_Dryade.png}
+
+\emph{Dryade, James Paterson}
+\end{center}
+
+
 \textbf{Ecologia}\\
 Ambiente: Qualsiasi sotterraneo\\
 Organizzazione: Solitario, coppia o gruppo (3-8)\\
@@ -34571,12 +34579,6 @@ Organizzazione: Solitario, coppia o gruppo (3-8)\\
 Creato dal corpo di un elfo, alterato e mutato attraverso speciali veleni ed elisir per assumere le caratteristiche di un ragno gigante, il drider è una creatura pericolosa.\\
 I drider sono sessualmente dimorfici. La parte inferiore da ragno del corpo di un drider femmina è lucente ed aggraziata, spesso simile al corpo di una vedova nera, mentre il busto superiore di elfo mantiene le sue curve allettanti e il bel viso (con l'eccezione delle venefiche zanne acuminate). La parte inferiore del corpo di un drider maschio è tozza come una tarantola, mentre quella superiore ha un fisico asciutto e supporta un'orrenda faccia più da ragno che da elfo, completa di mandibole zannute.
 
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/James_Paterson_-_Dryade.png}
-
-\emph{Dryade, James Paterson}
-\end{center}
 
 \mostro{Driade}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, itemsep=1pt, leftmargin=2.35cm,  labelwidth=2.2cm, itemindent=0cm, listparindent=0pt] %,
@@ -34652,6 +34654,8 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 \item[\textbf{Sfida}] GS \\
 \end{description}
 
+
+
 \emph{\textbf{Congelamento.}} Se l'elementale subisce danno da freddo, gela parzialmente; il suo movimento è ridotto di 6 metri fino al termine del suo prossimo round.\\
 \emph{\textbf{Forma d'Acqua.}} L'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. Può muoversi attraverso uno spazio stretto fino a 3 centimetri senza doversi stringere.\\
 \emph{\textbf{Natura Elementale.}} Un elementale non ha bisogno di aria, cibo, bevande o sonno.\\
@@ -34661,18 +34665,16 @@ Le driadi sono benevole guardiane degli alberi, e sebbene non siano violente di 
 \emph{Colpisce:} GS*1d8 danni contundenti.\\
 
 
+
+\textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
+
+
 \begin{center}
 \includegraphics[width=0.9\linewidth]{immagini/geyser.png}
 \end{center}
 
-\textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
-
 \emph{\textbf{Sommergere (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza su Tempra DC 10+GS+GS/5. Se lo fallisce, il bersaglio subisce (1d8+1)*GS/2 danni contundenti. Se è di taglia GS/3 >=4, il bersaglio è anche afferrato (DC CR*2 per fuggire). Fino al termine dell'afferrare, il bersaglio non può respirare a meno che non sia in grado di respirare acqua. Se il Tiro Salvezza riesce, il bersaglio viene spinto fuori dallo spazio dell'elementale.\\
 L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure. All'inizio di ciascun round dell'elementale, ogni bersaglio afferrato subisce (1d6)*GS/2 danni contundenti. Una creatura entro 3 metri dall'elementale può trascinare fuori da esso una creatura o oggetto, impiegando un'Azione per tentare di riuscire una prova di Tiro Salvezza Tempra con Forza DC 2+GS*2.\\
-
-\begin{center}
-\includegraphics[width=0.9\linewidth]{immagini/tornado_Elie_Manitoba_2007.png}
-\end{center}
 
 \mostro{Elementale dell'Aria Generico}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, itemsep=1pt, leftmargin=2.35cm,  labelwidth=2.2cm, itemindent=0cm, listparindent=0pt] %,
@@ -34697,15 +34699,17 @@ L'elementale può afferrare una creatura di taglia GS/3 oppure 2 di GS/2 oppure.
 \emph{\textbf{Schianto.} Attacco con arma da mischia}: +GS/2+FOR a colpire, portata GS/3 metri, un bersaglio.\\
 \emph{Colpisce:} 1d6*GS/3 danni contundenti.\\
 
+
+\begin{center}
+\includegraphics[width=0.9\linewidth]{immagini/tornado_Elie_Manitoba_2007.png}
+\end{center}
+
+
 \textbf{Reazione: \emph{Attacco d'opportunità}}: l'elementale effettua un attacco a una creatura che attraversi o esca dalla sua portata di GS/3 metri.
 
 \emph{\textbf{Turbine (Ricarica 4-6).}} Ogni creatura nello spazio dell'elementale deve effettuare un Tiro Salvezza su Tempra DC 10+GS*1.5. Se lo fallisce, il bersaglio subisce 1d8*GS/3 danni contundenti e viene scagliato a GS metri di distanza dall'elementale in una direzione casuale e cadere prono. Se un bersaglio lanciato colpisce un oggetto, come un muro o il pavimento, subisce 3 (1d6) danni contundenti per ogni 3 metri per cui è stato lanciato. Se il bersaglio viene lanciato contro un'altra creatura, quella creatura deve riuscire un Tiro Salvezza su Riflessi DC 13 o subire lo stesso danno e cadere prona.
 Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente e non viene scagliato via né cade prono.
 
-\begin{center}
-%\includegraphics[width=0.9\linewidth]{immagini/elefuoco.png}
-\includegraphics[width=0.7\linewidth]{immagini/wildfire_grayscale.png}
-\end{center}
 
 \mostro{Elementale del Fuoco Generico}
 \begin{description}[noitemsep, topsep=0pt, parsep=0pt, partopsep=0pt, itemsep=1pt, leftmargin=2.35cm,  labelwidth=2.2cm, itemindent=0cm, listparindent=0pt] %,
@@ -34722,6 +34726,12 @@ Se il Tiro Salvezza riesce, il bersaglio subisce la metà del danno contundente 
 \item[\textbf{Linguaggi}] Ignan
 \item[\textbf{Sfida}] GS \\
 \end{description}
+
+
+\begin{center}
+%\includegraphics[width=0.9\linewidth]{immagini/elefuoco.png}
+\includegraphics[width=0.7\linewidth]{immagini/wildfire_grayscale.png}
+\end{center}
 
 \emph{\textbf{Forma di Fuoco.}} L'elementale può spostarsi attraverso uno spazio fino a 3 centimetri di larghezza senza stringersi. Una creatura che entri a contatto o colpisca l'elementale con un attacco da mischia mentre si trova entro 1 metro da esso subisce 5 (1d10) danni da fuoco. Inoltre, l'elementale può entrare nello spazio di una creatura ostile e fermarsi lì. La prima volta che entra nello spazio di una creatura in un round, la creatura subisce GS danni da fuoco e prende fuoco; finché qualcuno non impiega un'Azione per spegnere le fiamme, la creatura subirà GS danni da fuoco all'inizio di ciascun proprio round.\\
 

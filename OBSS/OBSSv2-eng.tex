@@ -9615,11 +9615,13 @@ If the spellcaster is \textbf{Distracted}, tries to hide the casting of magic, i
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
-The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penalty from having suffered critical rolls.
+The spellcaster rolls \textbf{3d6 + 1d4 for every three points of Magic Proficiency + spell ability modifier} plus any bonuses, Abilities, or penalties (armor, shields, criticals suffered). The number of additional d4s is equal to Magic Proficiency divided by 3, rounded down: for example, with MP 6, roll 3d6+2d4. The d6s follow the Explosion of 6; the d4s do not explode.
 
 The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept.\index[OBSSv2]{Rerolling dice in Magic Check} This is to avoid the possibility of rolling three 1s.
 
-The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.\index[OBSSv2]{Magical Critical Failure}. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
+After any rerolls granted by Magic Adept, if the first three dice of the Magic Check show 1, the check is an automatic \textbf{Magical Critical Failure}, regardless of the total obtained.
+
+The Magic Check is considered passed if the roll is \textbf{equal to or higher than} 10 + twice the Spell Level + any penalty. Any Magical Critical Successes or Magical Critical Failures are compared to this value.\index[OBSSv2]{Magical Critical Failure}. In case of a Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
 Maximum number of Magical Critical Success per spell is 3.
 
@@ -9660,7 +9662,7 @@ A spellcaster can also \textbf{voluntarily fail the Magic Check}.
 
 \index[OBSSv2]{Critical Failure in the Magic Check}\label{magiefallimentocriticonellaprovadimagia}\index[OBSSv2]{Spells, Magic Check Failure}\hypertarget{magiefallimentocriticonellaprovadimagia}{}
 
-If the Magic Check has had at least one Magic Critical Failure (three 1 or very low value rolled), roll 3d6 and consult the following table. For each Magic Critical Failure beyond the first that has manifested in the casting of the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
+If the Magic Check has had at least one Magical Critical Failure, including three 1s on the first three dice, or has rolled a very low value, roll 3d6 and consult the following table. For each Magical Critical Failure beyond the first that manifested in casting the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
 
 \medskip
 
@@ -18636,11 +18638,11 @@ Full plate		& 1500 gp	& 10& -4	& H & 3 &+16&8
 
 All Armors, except for Padded armor, force spellcasters to pass a Magic Check with an increased difficulty indicated in the table.
 
-Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6 +3 dice (because he has 9 points in Magic Proficiency), ignores 2 dice (because he has taken Magic Adept 4 times).
+Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6+4d4 (because he has 12 points in Magic Proficiency), and can reroll 2 dice (because he has taken Magic Adept 4 times).
 
 The difficulty of the spell he casts, Lightning Bolt, is 10+ 2*3 (Spell level) +8 (additional difficulty from the armor).
 
-In the test he rolls 4,5,5 / 3,4,1,1. He removes the two 1s for Magic Adept, they count as zero and if he had rolled 3 it would have been a Critical Failure! Total 4+5+5+3+4=21, against a difficulty of 10+2*3+8=24. Tups fails to cast the spell!!!
+In the test he rolls 4,5,5 / 3,4,1,1. He rerolls the two 1s for Magic Adept and obtains 1 and 2: the new results count as zero and 2, respectively. The total is therefore 4+5+5+3+4+0+2=23, against a difficulty of 10+2*3+8=24. Tups fails to cast the spell!!!
 
 If Tups had worn Studded Leather the difficulty would have increased by only 4 and therefore he would have succeeded in casting the spell.
 
