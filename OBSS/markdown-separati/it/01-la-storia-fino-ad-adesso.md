@@ -108,7 +108,7 @@ La Prova di Magia permette al personaggio di spingersi oltre nel lancio dell'inc
 
 A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
-**Lanciare Incantesimi sotto distrazione o dopo una ferita recente**: quando un incantatore vuole usare una Magia ma è disturbato, è stato ferito nello stesso round o comunque distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
+**Lanciare Incantesimi sotto distrazione o dopo una ferita recente**: quando un incantatore vuole usare una Magia ma è disturbato, è stato ferito nello stesso round o comunque severamente distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
 
 **Classe di Difficoltà (DC)**: indica quanto è difficile riuscire in una prova. Può essere usata per le competenze, come Nuotare, e per le conoscenze, come Veleni. Negli incantesimi indica la difficoltà per resistere agli effetti. Indica a quale valore arrivare per superare e riuscire nella prova.
 

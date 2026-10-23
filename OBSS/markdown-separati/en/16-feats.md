@@ -1152,9 +1152,9 @@ The **first time** you take this Feat, you must choose one *favorite* and three 
 
 On the *favored* list, the casting cost of spells decreases by 1, maintaining a minimum cost of 1. For the 3 *opposite* Spell Lists, the casting cost of spells increases by 1.
 
-The **second time** you take this Feat, Requirement: Magic Proficiency 6, on the *favored* Spell List, Magic Checks are made with an additional +4, and you can discard 1 die from the list.
+The **second time** you take this Feat, Requirement: Magic Proficiency 6, on the *favored* Spell List, Magic Checks are made with an additional +2, and you can discard 1 die from the list.
 
-The **third time** you take this Feat, Requirement: Magic Proficiency 11, on the *favored* Spell List, when you make a Magic Check, you count +8 more than the number rolled.
+The **third time** you take this Feat, Requirement: Magic Proficiency 11, on the *favored* Spell List, when you make a Magic Check, you count +4 more than the number rolled.
 
 The **fourth time** you take this Feat, Requirement: Magic Proficiency 14, on the *favored* Spell List, you can reroll the Magic Check once on a critical failure.
 
@@ -2146,15 +2146,15 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **WP 2:** Reach, Weapon Artist, Two Weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
 | **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
 | **WP 4:** Double Portion (Two Weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
-| **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2) |
-| **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Second Skin (2), Tactician (2, Intelligence 2) |
+| **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2), Weapon Artist (2), One Arm One Weapon (2) |
+| **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Tough Hide (2), Second Skin (2), Tactician (2, Intelligence 2) |
 | **WP 7:** Ferocity (3), One with the Bow (2, Dexterity 3) |
 | **WP 8:** Coordinated Damage (2, Intelligence 2), Uncanny Dodge (3, Dexterity 4) |
-| **WP 9:** Parry (3), Weapon Artist (2), One Arm One Weapon (2) |
+| **WP 9:** Parry (3), Weapon Artist (3), One Arm One Weapon (3) |
 | **WP 10:** Sneak Attack (3), Bloodhound (2, Wisdom 2) |
 | **WP 11:** Ferocity (4), Second Skin (3) |
 | **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two Weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
-| **WP 13:** Weapon Artist (3), One Arm One Weapon (3) |
+| **WP 13:** Weapon Artist (4), One Arm One Weapon (4) |
 | **WP 15:** Whirlwind Attack (2, Entertain 5) |
 | **WP 16:** Bloodhound (3, Wisdom 3), Tough Hide (4) |
 | **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two Weapon Fighting (3) |

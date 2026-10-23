@@ -130,7 +130,7 @@ La Prova di Magia permette al personaggio di spingersi oltre nel lancio dell'inc
 
 A seconda dei risultati potrebbe ottenere vantaggi o svantaggi.
 
-**Lanciare Incantesimi sotto distrazione o dopo una ferita recente**: quando un incantatore vuole usare una Magia ma è disturbato, è stato ferito nello stesso round o comunque distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
+**Lanciare Incantesimi sotto distrazione o dopo una ferita recente**: quando un incantatore vuole usare una Magia ma è disturbato, è stato ferito nello stesso round o comunque severamente distratto durante il lancio di un incantesimo allora dovrà effettuare una Prova di Magia.
 
 **Classe di Difficoltà (DC)**: indica quanto è difficile riuscire in una prova. Può essere usata per le competenze, come Nuotare, e per le conoscenze, come Veleni. Negli incantesimi indica la difficoltà per resistere agli effetti. Indica a quale valore arrivare per superare e riuscire nella prova.
 
@@ -875,7 +875,7 @@ Un Tratto è un dettaglio che aiuta a inquadrare meglio il personaggio, ne delin
 
 **Ogni giocatore sceglie 5 Tratti per il proprio personaggio alla creazione del personaggio.** Questi guideranno il personaggio nell'agire e nelle scelte. Il giocatore sceglie i Tratti, non il Patrono: sarà il Patrono associato al Tratto dominante a reclamare il personaggio.
 
->> **Scegliere i Tratti**: I Tratti non sono il personaggio, non lo bloccano né lo fissano per sempre nel tempo. Un personaggio è sempre in costante evoluzione, così come il suo carattere, la sua morale, il suo comportamento e i suoi desideri. Non essere rigido, ma usa i Tratti per avere suggerimenti da cui trarre ispirazione.
+>> **Scegliere i Tratti**: I Tratti non sono il personaggio, non lo bloccano né lo fissano per sempre nel tempo. Un personaggio è sempre in costante evoluzione, così come il suo carattere, la sua morale, il suo comportamento e i suoi desideri. Non essere rigido, ma usa i Tratti per avere suggerimenti da cui trarre ispirazione. Se desideri un quadro tematico e psicologico più definito per orientare la tua scelta iniziale dei 5 Tratti, puoi consultare la sezione opzionale \hyperlinkarchetipiArchetipi del Carattere (pag. \pagerefarchetipi).
 
 I Tratti non hanno accezione positiva o negativa, servono solo ad inquadrare il personaggio e capire quale Patrono è più interessato al personaggio. Non vogliono definire se sei buono o cattivo, ognuno ha la propria morale indipendentemente dai Tratti posseduti.
 
@@ -895,13 +895,28 @@ Sarà il Narratore durante l'avventura a dirti quando segnare, o cancellare, dei
 
 Ogni azione particolarmente importante dove il personaggio abbia seguito un Tratto porta il personaggio ad avvicinarsi ai Patroni che condividono quel Tratto. Un Tratto condiviso indica il canale attraverso cui un Patrono riconosce il personaggio, non necessariamente il fine o il modo morale con cui quel Tratto viene espresso: lo stesso Tratto può avere significati diversi per Patroni diversi.
 
-Il **Tratto dominante** è il Tratto scelto con il punteggio più alto. Per individuare il Patrono reclamante, consulta il primo Tratto della Tabella Collegamento Patrono - Tratto  che corrisponde al Tratto dominante. Se più Tratti hanno lo stesso punteggio massimo, il giocatore sceglie quale dei Patroni corrispondenti prevale. Se più Patroni hanno lo stesso Tratto guida, si confrontano i Tratti complementari comuni; se anche questa affinità è in parità, decide il giocatore. Il Patrono così individuato **reclama il personaggio**: il Patrono non viene scelto liberamente dal giocatore.
+Il **Tratto dominante** è il Tratto scelto con il punteggio più alto. Per individuare il Patrono reclamante, consulta il primo Tratto della Tabella Collegamento Patrono - Tratto  che corrisponde al Tratto dominante. Se più Tratti hanno lo stesso punteggio massimo, il giocatore sceglie quale dei Patroni corrispondenti prevale. Se più Patroni hanno lo stesso Tratto guida, si confrontano i Tratti complementari comuni; se anche questa affinità è in parità, decide il giocatore.
 
-La verifica del Patrono reclamante va ripetuta quando cambia il Tratto dominante. Un cambiamento può diventare un evento narrativo: il nuovo Patrono può reclamare il personaggio, ma il personaggio non può appartenere contemporaneamente a due Patroni.
+**Regola dei Patroni della Genesi**: I Patroni della Genesi (**Ljust** e **Calicante**) sono entità primordiali talmente vaste e trascendenti che non reclamano un mortale basandosi su una sola affinità: essi reclamano soltanto personaggi che abbiano almeno **4 Tratti distinti in comune** con loro. Se il Tratto dominante di un personaggio coincide con la guida di un Patrono della Genesi (*Compassionevole* per Ljust o *Ambizioso* per Calicante), ma il personaggio non possiede almeno 4 Tratti distinti in comune con lui, il Patrono della Genesi non lo reclama; il personaggio viene invece reclamato dal Patrono corrispondente al suo secondo Tratto con il punteggio più alto (o, a parità, da quello con cui condivide più Tratti complementari; a ulteriore parità, sceglie il giocatore).
+
+Se anche il secondo Tratto appartiene a un Patrono della Genesi che non raggiunge 4 Tratti comuni, si scende al Tratto successivo, con gli stessi criteri di parità. Si continua finché si trova un Patrono eleggibile; se nessun Patrono è eleggibile, il personaggio non è reclamato e non riceve poteri dal Patrono finché non soddisfa i requisiti. La verifica si ripete quando cambia il Tratto dominante.
+
+Il Patrono così individuato **reclama il personaggio**: il Patrono non viene scelto liberamente dal giocatore.
+
+Un cambiamento del Tratto dominante può diventare un evento narrativo: il nuovo Patrono può reclamare il personaggio, ma il personaggio non può appartenere contemporaneamente a due Patroni.
+
+Quando il Patrono reclamante cambia, il passaggio si applica all'alba del giorno dopo. Il personaggio perde i poteri e i Vantaggi concessi dal vecchio Patrono. Le Abilità patrono-specifiche diventano inattive (sospese) finché non vengono sostituite; è concessa una sostituzione gratuita al successivo passaggio di livello. L'adesione formale al vecchio Patrono termina e il personaggio può aderire al nuovo Patrono se ne possiede i requisiti. Non è possibile mantenere poteri o Vantaggi di entrambi i Patroni. Se il gruppo vuole conservare un legame con il passato, il Narratore può concedere un unico dono residuo come conseguenza di una Crisi del Personaggio, ma non poteri cumulativi.
 
 All'aumentare del valore della somma dei Tratti comuni con il Patrono reclamante il personaggio potrà acquisire dei poteri, indipendentemente dal fatto che sia un credente (Seguace o Devoto) o meno di quel Patrono.
 
 Per calcolare la somma si considerano soltanto i Tratti scelti dal personaggio che compaiono anche nel profilo del Patrono reclamante. I Tratti non scelti, che hanno valore base -1, non sono Tratti comuni e non entrano nella somma. Il numero dei Tratti comuni serve invece a stabilire se il personaggio può scegliere di essere Seguace o Devoto: per il Devoto devono essere almeno 2 Tratti distinti, anche se uno o più hanno valore 0.
+
+**Numero e Somma dei Tratti in comune**. Per evitare ambiguità:
+
+- **Numero dei Tratti in comune**: quanti Tratti scelti compaiono nel profilo del Patrono, anche se hanno valore 0. Serve per scegliere Seguace o Devoto.
+- **Somma dei Tratti in comune**: la somma dei valori di quei Tratti. Serve per i poteri del Patrono e per i requisiti delle Abilità.
+
+Quando un'Abilità indica ``Tratti comuni N'' senza specificare ``numero'', intendi la **Somma dei Tratti in comune**. Il numero viene indicato esplicitamente solo per l'adesione formale.
 
 - A **'5'** punti si può incominciare a sentire la presenza di un Patrono
 - A **'10'** punti si sente la vicinanza di un Patrono
@@ -910,11 +925,13 @@ Per calcolare la somma si considerano soltanto i Tratti scelti dal personaggio c
 
 Non è necessario credere nel Patrono reclamante per sentirne la vicinanza, esserne legati o diventarne campione: è semplicemente la propria natura (i propri Tratti) ad essere affine al Patrono, che lo si voglia o meno. I poteri derivanti dai Tratti si ricevono soltanto dal Patrono reclamante, anche quando il personaggio non vi aderisce formalmente.
 
-Dato che lo scopo di un Patrono è fare in modo che i propri Tratti siano dominanti sugli altri, avere persone di alto livello e potere che siano così affini a lui tornerà utile nel giudizio dei 100 anni. Usate a vostro vantaggio i Tratti e il legame che il Patrono instaurerà con voi.
+Dato che lo scopo di un Patrono è fare in modo che i propri Tratti siano dominanti sugli altri, avere persone di alto livello e potere che siano così affini a lui tornerà utile nel Giudizio dei 100 Anni : ogni punto Tratto sviluppato dai mortali agisce come un peso sulla bilancia cosmica tra la sintropia di Ljust e l'entropia di Calicante. Usate a vostro vantaggio i Tratti e il legame che il Patrono instaurerà con voi.
 
 Verificate poi in Cosmologia  i poteri concessi dal Patrono reclamante. Questo controllo è opportuno farlo a ogni aumento di valore di Tratto.
 
 L'adesione formale è una scelta del giocatore, non un effetto automatico della reclamazione. Se possiede almeno 1 Tratto scelto in comune con il Patrono reclamante, il giocatore può scegliere di essere Seguace; se possiede almeno 2 Tratti scelti distinti in comune, può scegliere di essere Devoto. Può anche scegliere di non aderire formalmente e ricevere comunque i poteri derivanti dai Tratti. Seguace e Devoto sono alternative esclusive: non si può essere entrambi né appartenere a due Patroni diversi.
+
+Per i Patroni della Genesi (**Ljust** e **Calicante**) l'adesione formale segue una regola speciale: si può essere loro Seguace o Devoto solo se il personaggio possiede almeno **4 Tratti distinti in comune** con quel Patrono e il **Tratto dominante** è uno di questi. Non basta avere 4 Tratti distinti in comune se il dominante appartiene a un altro Patrono.
 
 Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai giocatori, si suggerisce di attribuire questi nuovi Tratti anche ai Patroni.
 
@@ -923,7 +940,7 @@ Il Narratore è libero di inserire nuovi Tratti a suo piacere o richiesti dai gi
 Ogni Tratto è brevemente descritto nel suo significato generico. Il personaggio è libero di interpretare il Tratto come più lo sente proprio.
 
 - **Altruista**: Persona che mette gli altri al primo posto, anche sacrificando i propri bisogni.
-- **Ambizioso**: Pensa solo ai propri interessi e bisogni, senza considerare quelli degli altri.
+- **Ambizioso**: Determinato a raggiungere traguardi elevati e potere, spesso anteponendo i propri scopi alle necessità altrui.
 - **Arrogante**: Ha un'opinione esagerata di sé stesso e tende a sminuire gli altri.
 - **Avaro**: Eccessivamente attaccato ai propri beni materiali e riluttante a condividere.
 - **Cinico**: Tende a vedere il peggio nelle persone e nelle situazioni, spesso con un atteggiamento sprezzante.
@@ -946,10 +963,14 @@ Ogni Tratto è brevemente descritto nel suo significato generico. Il personaggio
 - **Prudente**: Pondera attentamente le situazioni difficili o pericolose.
 - **Sospettoso**: È convinto che tutti abbiano interesse a danneggiarlo.
 - **Testardo**: Determinato e persistente nel raggiungere i propri obiettivi, nonostante le difficoltà.
-- **Vanitoso**: È certo delle sue eccezionali qualità, capacità e† Potere, percepito aspetto.
+- **Vanitoso**: È certo delle sue eccezionali qualità, capacità, del proprio potere e aspetto.
 - **Vendicativo**: Cerca di punire chi gli ha fatto un torto, spesso in modo sproporzionato.
 
-Se il personaggio è completamente difforme ai suoi Tratti non acquisirà punti esperienza.
+>>> **La Crisi del Personaggio ed Evoluzione dei Tratti**: I Tratti non devono diventare una gabbia interpretativa né generare ansia da prestazione: se un personaggio agisce occasionalmente contro i propri Tratti per rispondere a una situazione straordinaria o a una prova morale, ciò arricchisce la narrazione e non va penalizzato.
+
+Tuttavia, se un personaggio agisce in modo costantemente difforme dai suoi Tratti senza alcuna giustificazione narrativa, non riceverà check di avanzamento per quei Tratti e il Narratore potrà sospendere l'assegnazione dei punti esperienza legati all'interpretazione.
+
+Se invece questo contrasto nasce da un autentico dilemma etico, da un trauma o da una profonda maturazione personale, siamo di fronte a una **Crisi del Personaggio**: un momento catartico di trasformazione. In tal caso, Narratore e giocatore possono concordare la sostituzione graduale di uno o più Tratti, l'eventuale cambio del Tratto dominante (con l'inizio di una nuova relazione con un diverso Patrono reclamante) o la transizione verso un nuovo archetipo di riferimento.
 
 ---
 
@@ -957,7 +978,7 @@ Se il personaggio è completamente difforme ai suoi Tratti non acquisirà punti 
 
 Questa opzione presenta un sistema che integra gli archetipi junghiani  con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) , vengono presentati 22 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
-Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni i cui profili condividono almeno due Tratti con ogni archetipo, suggerendo affinità narrative e spirituali naturali. Questi elenchi non permettono di scegliere un Patrono: il Patrono reclamante è determinato dal Tratto dominante del personaggio.
+Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono indicati i Patroni che presentano la maggiore risonanza narrativa e spirituale tra quelli i cui profili condividono almeno due Tratti con l'archetipo. Questi elenchi non permettono di scegliere un Patrono: il Patrono reclamante è determinato dal Tratto dominante del personaggio.
 - Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
 - Considera di adottare almeno 2-3 dei Tratti raccomandati per quell'archetipo
 - Evita i Tratti sconsigliati a meno che tu non stia specificamente mirando a creare conflitto interno
@@ -965,9 +986,11 @@ Ogni archetipo è presentato con un insieme di Tratti raccomandati che si alline
 
 Gli archetipi possono anche evolversi durante le avventure di un personaggio. Un personaggio potrebbe iniziare come un archetipo (L'Innocente) e trasformarsi in un altro (L'Eroe) attraverso le sue esperienze. Questa evoluzione può essere riflessa nel cambiamento graduale dei Tratti e delle affinità con i Patroni.
 
+Il gioco di ruolo non è soltanto evasione o simulazione tattica, ma può costituire uno straordinario spazio protetto (*cerchio magico*) per la gestione dello stress, dell'ansia e per l'evoluzione psicologica personale. Attraverso la maschera dell'archetipo, il giocatore può esplorare e integrare aspetti complessi del proprio sé, confrontarsi con la propria Ombra (anche attraverso i Tratti Contraddittori), de-catastrofizzare la paura del fallimento e sperimentare percorsi di crescita e resilienza emotiva condivisi con il gruppo.
+
 ## I 22 Archetipi
 
-## L'Eroe
+\archetipotitle{L'Eroe}
 Il personaggio coraggioso che supera gli ostacoli per raggiungere un obiettivo, spesso trasformando se stesso nel processo.
 
 - **Tratti Raccomandati:** Coraggioso, Testardo, Ambizioso, Leale
@@ -975,7 +998,7 @@ Il personaggio coraggioso che supera gli ostacoli per raggiungere un obiettivo, 
 - **Tratti Contraddittori:** Cinico, Crudele, Dissoluto
 - **Patroni Allineati:** Gradh, Sumkjr, Efrem, Ljust, Lynx, Orlaith
 
-## Il Mentore
+\archetipotitle{Il Mentore}
 La guida saggia che fornisce conoscenza, intuizione e supporto agli altri, spesso all'Eroe.
 
 - **Tratti Raccomandati:** Paziente, Gentile, Prudente, Compassionevole
@@ -983,7 +1006,7 @@ La guida saggia che fornisce conoscenza, intuizione e supporto agli altri, spess
 - **Tratti Contraddittori:** Crudele, Disonesto, Avaro
 - **Patroni Allineati:** Ljust, Thaft, Ledyal, Atmos, Shayalia
 
-## Il Guardiano della Soglia
+\archetipotitle{Il Guardiano della Soglia}
 Il personaggio che mette alla prova i giocatori, presentando sfide che devono superare per procedere.
 
 - **Tratti Raccomandati:** Intransigente, Sospettoso, Prudente, Paziente
@@ -991,7 +1014,7 @@ Il personaggio che mette alla prova i giocatori, presentando sfide che devono su
 - **Tratti Contraddittori:** Codardo, Indeciso, Disonesto
 - **Patroni Allineati:** Atmos, Krondal, Sixiser, Atherim, Efrem
 
-## L'Araldo
+\archetipotitle{L'Araldo}
 Il personaggio che annuncia la chiamata all'avventura e segnala la necessità del cambiamento.
 
 - **Tratti Raccomandati:** Entusiasta, Estroverso, Curioso, Coraggioso
@@ -999,23 +1022,23 @@ Il personaggio che annuncia la chiamata all'avventura e segnala la necessità de
 - **Tratti Contraddittori:** Codardo, Cinico, Disonesto
 - **Patroni Allineati:** Nethergal, Sumkjr, Lynx, Nedraf
 
-## Il Mutaforma
+\archetipotitle{Il Mutaforma}
 Il personaggio la cui lealtà e vera natura sono costantemente in discussione.
 
 - **Tratti Raccomandati:** Disonesto, Arrogante, Impulsivo, Ambizioso
 - **Tratti Sconsigliati:** Leale, Altruista, Gentile
 - **Tratti Contraddittori:** Intransigente, Prudente, Paziente
-- **Patroni Allineati:** Calicante, Orudjs, Tazher, Tàhil, Torbiorn
+- **Patroni Allineati:** Calicante, Orudjs, Tazher, Tàhil, Torbiorn, Laydel, Belevon
 
-## L'Ombra
+\archetipotitle{L'Ombra}
 Il riflesso oscuro del personaggio, che rappresenta aspetti rifiutati o temuti del sé.
 
 - **Tratti Raccomandati:** Crudele, Vendicativo, Cinico, Arrogante
 - **Tratti Sconsigliati:** Compassionevole, Gentile, Altruista
 - **Tratti Contraddittori:** Leale, Paziente, Entusiasta
-- **Patroni Allineati:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn
+- **Patroni Allineati:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn, Laydel, Tazher, Rezh
 
-## L'Imbroglione
+\archetipotitle{L'Imbroglione}
 Il personaggio malizioso che disturba lo status quo e porta trasformazione attraverso il caos.
 
 - **Tratti Raccomandati:** Impulsivo, Curioso, Disonesto, Entusiasta
@@ -1023,7 +1046,7 @@ Il personaggio malizioso che disturba lo status quo e porta trasformazione attra
 - **Tratti Contraddittori:** Leale, Altruista, Compassionevole
 - **Patroni Allineati:** Orudjs, Ledyal
 
-## L'Alleato
+\archetipotitle{L'Alleato}
 Il personaggio fedele che supporta il gruppo nel suo viaggio.
 
 - **Tratti Raccomandati:** Leale, Coraggioso, Altruista, Gentile
@@ -1031,7 +1054,7 @@ Il personaggio fedele che supporta il gruppo nel suo viaggio.
 - **Tratti Contraddittori:** Vendicativo, Arrogante, Avaro
 - **Patroni Allineati:** Ljust, Sumkjr, Gradh, Thaft, Atherim
 
-## L'Innocente
+\archetipotitle{L'Innocente}
 Il personaggio puro e ingenuo che vede il mondo con meraviglia e ottimismo.
 
 - **Tratti Raccomandati:** Gentile, Entusiasta, Altruista, Curioso
@@ -1039,7 +1062,7 @@ Il personaggio puro e ingenuo che vede il mondo con meraviglia e ottimismo.
 - **Tratti Contraddittori:** Crudele, Disonesto, Dissoluto
 - **Patroni Allineati:** Ledyal, Sumkjr, Gaya, Atherim
 
-## Il Saggio
+\archetipotitle{Il Saggio}
 Il personaggio custode della conoscenza che ha accumulato saggezza attraverso lo studio o l'esperienza.
 
 - **Tratti Raccomandati:** Prudente, Paziente, Curioso, Intransigente
@@ -1047,15 +1070,15 @@ Il personaggio custode della conoscenza che ha accumulato saggezza attraverso lo
 - **Tratti Contraddittori:** Indeciso, Codardo, Arrogante
 - **Patroni Allineati:** Atmos, Nethergal, Sixiser
 
-## Il Sovrano
+\archetipotitle{Il Sovrano}
 Il personaggio che cerca di stabilire ordine e controllo sul suo dominio.
 
-- **Tratti Raccomandati:** Ambizioso, Intransigente, Arrogante, Testardo
+- **Tratti Raccomandati:** Ambizioso, Intransigente, Arrogante, Vanitoso, Testardo
 - **Tratti Sconsigliati:** Indeciso, Codardo, Impulsivo
 - **Tratti Contraddittori:** Altruista, Compassionevole, Gentile
-- **Patroni Allineati:** Calicante, Erondil, Cattalm, Krondal, Tàhil
+- **Patroni Allineati:** Calicante, Erondil, Cattalm, Krondal, Tàhil, Orlaith
 
-## Il Creatore
+\archetipotitle{Il Creatore}
 Il personaggio costruttore, innovativo, che porta nuove cose all'esistenza.
 
 - **Tratti Raccomandati:** Curioso, Entusiasta, Ambizioso, Paziente
@@ -1063,15 +1086,15 @@ Il personaggio costruttore, innovativo, che porta nuove cose all'esistenza.
 - **Tratti Contraddittori:** Dissoluto, Intransigente, Vendicativo
 - **Patroni Allineati:** Erondil, Efrem, Nethergal, Rezh
 
-## Il Custode
+\archetipotitle{Il Custode}
 Il personaggio protettore, premuroso, che si prende cura e difende gli altri.
 
 - **Tratti Raccomandati:** Compassionevole, Altruista, Gentile, Paziente
 - **Tratti Sconsigliati:** Crudele, Avaro, Vendicativo
 - **Tratti Contraddittori:** Arrogante, Disonesto, Dissoluto
-- **Patroni Allineati:** Ljust, Ledyal, Atherim, Belevon, Sumkjr
+- **Patroni Allineati:** Ljust, Ledyal, Atherim, Belevon, Sumkjr, Gaya, Thaft
 
-## Il Mago
+\archetipotitle{Il Mago}
 Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
 
 - **Tratti Raccomandati:** Curioso, Ambizioso, Arrogante, Intransigente
@@ -1079,23 +1102,23 @@ Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
 - **Tratti Contraddittori:** Altruista, Compassionevole, Leale
 - **Patroni Allineati:** Erondil, Nethergal, Krondal, Atmos
 
-## Il Fuorilegge
+\archetipotitle{Il Fuorilegge}
 Il personaggio ribelle che sfida le norme stabilite e combatte contro i vincoli.
 
 - **Tratti Raccomandati:** Coraggioso, Impulsivo, Arrogante, Vendicativo
 - **Tratti Sconsigliati:** Prudente, Paziente, Leale
 - **Tratti Contraddittori:** Altruista, Compassionevole, Gentile
-- **Patroni Allineati:** Lynx, Tàhil, Gradh, Orlaith, Calicante
+- **Patroni Allineati:** Lynx, Tàhil, Gradh, Orlaith, Calicante, Laydel
 
-## L'Amante
+\archetipotitle{L'Amante}
 Il personaggio cercatore appassionato di connessione, intimità e piacere sensuale.
 
-- **Tratti Raccomandati:** Compassionevole, Entusiasta, Impulsivo, Dissoluto
+- **Tratti Raccomandati:** Compassionevole, Entusiasta, Impulsivo, Dissoluto, Vanitoso
 - **Tratti Sconsigliati:** Sospettoso, Cinico, Arrogante
 - **Tratti Contraddittori:** Prudente, Intransigente, Avaro
 - **Patroni Allineati:** Shayalia, Ledyal, Orudjs
 
-## Il Giullare
+\archetipotitle{Il Giullare}
 Il personaggio intrattenitore giocoso che porta gioia e leggerezza in situazioni difficili.
 
 - **Tratti Raccomandati:** Entusiasta, Estroverso, Impulsivo, Curioso
@@ -1103,7 +1126,7 @@ Il personaggio intrattenitore giocoso che porta gioia e leggerezza in situazioni
 - **Tratti Contraddittori:** Crudele, Vendicativo, Arrogante
 - **Patroni Allineati:** Nethergal, Sumkjr, Ledyal
 
-## L'Uomo Comune
+\archetipotitle{L'Uomo Comune}
 Il personaggio ordinario che cerca appartenenza e connessione.
 
 - **Tratti Raccomandati:** Leale, Gentile, Prudente, Indeciso
@@ -1111,7 +1134,7 @@ Il personaggio ordinario che cerca appartenenza e connessione.
 - **Tratti Contraddittori:** Crudele, Vendicativo, Disonesto
 - **Patroni Allineati:** Efrem, Thaft, Atmos
 
-## L'Esploratore
+\archetipotitle{L'Esploratore}
 Il personaggio avventuriero che cerca nuove esperienze e scoperte.
 
 - **Tratti Raccomandati:** Curioso, Coraggioso, Impulsivo, Entusiasta
@@ -1119,15 +1142,15 @@ Il personaggio avventuriero che cerca nuove esperienze e scoperte.
 - **Tratti Contraddittori:** Codardo, Cinico, Avaro
 - **Patroni Allineati:** Nihar, Nedraf, Ledyal, Sumkjr
 
-## Il Martire
+\archetipotitle{Il Martire}
 Il personaggio che si sacrifica e dà tutto per una causa o per gli altri.
 
 - **Tratti Raccomandati:** Altruista, Coraggioso, Intransigente, Testardo
 - **Tratti Sconsigliati:** Arrogante, Avaro, Ambizioso
 - **Tratti Contraddittori:** Cinico, Crudele, Disonesto
-- **Patroni Allineati:** Ljust, Sumkjr, Atherim, Lynx
+- **Patroni Allineati:** Ljust, Sumkjr, Atherim, Lynx, Nedraf
 
-## Il Tiranno
+\archetipotitle{Il Tiranno}
 Il personaggio oppressore, controllore, che governa attraverso la paura e la dominazione.
 
 - **Tratti Raccomandati:** Crudele, Arrogante, Vendicativo, Avaro
@@ -1135,7 +1158,7 @@ Il personaggio oppressore, controllore, che governa attraverso la paura e la dom
 - **Tratti Contraddittori:** Indeciso, Codardo, Leale
 - **Patroni Allineati:** Calicante, Tàhil, Tazher, Torbiorn, Rezh
 
-## L'Eremita
+\archetipotitle{L'Eremita}
 Il personaggio cercatore solitario che si ritira dalla società per trovare la verità interiore.
 
 - **Tratti Raccomandati:** Prudente, Paziente, Intransigente, Sospettoso
@@ -1164,33 +1187,33 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 
 | \mchead[][]{**Patrono** | **Risonanze Archetipiche**} |
 | --- | --- |
-| Ljust | L'Eroe, Il Custode, Il Martire, Il Mentore |
-| Calicante | L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano |
-| Atmos | Il Saggio, L'Eremita, Il Guardiano della Soglia |
-| Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
-| Gradh | L'Eroe, L'Alleato, Il Sovrano, Il Fuorilegge |
-| Atherim | Il Custode, Il Guardiano della Soglia, Il Martire |
-| Belevon | L'Imbroglione, Il Giullare, Il Mutaforma |
-| Cattalm | L'Ombra, Il Tiranno, Il Sovrano |
-| Efrem | L'Uomo Comune, Il Creatore, L'Eremita |
-| Erondil | Il Creatore, Il Mago, Il Sovrano |
-| Gaya | Il Creatore, L'Innocente, Il Custode |
-| Krondal | Il Sovrano, Il Guardiano della Soglia, Il Mago |
-| Ledyal | Il Custode, L'Innocente, L'Amante |
-| Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
-| Nethergal | L'Araldo, L'Esploratore, Il Mago |
-| Nedraf | L'Eroe, L'Esploratore, L'Alleato |
-| Nihar | Il Giullare, L'Esploratore, L'Imbroglione |
+| Ljust | L'Eroe, Il Mentore, L'Alleato, Il Custode, Il Martire |
+| Calicante | Il Mutaforma, L'Ombra, Il Sovrano, Il Fuorilegge, Il Tiranno |
+| Atmos | Il Mentore, Il Guardiano della Soglia, Il Saggio, Il Mago, L'Uomo Comune, L'Eremita |
+| Lynx | L'Eroe, L'Araldo, Il Fuorilegge, Il Martire |
+| Gradh | L'Eroe, L'Alleato, Il Fuorilegge |
+| Atherim | Il Guardiano della Soglia, L'Alleato, L'Innocente, Il Custode, Il Martire |
+| Belevon | Il Mutaforma, Il Custode |
+| Cattalm | L'Ombra, Il Sovrano |
+| Efrem | L'Eroe, Il Guardiano della Soglia, Il Creatore, L'Uomo Comune, L'Eremita |
+| Erondil | Il Sovrano, Il Creatore, Il Mago |
+| Gaya | L'Innocente, Il Custode |
+| Krondal | Il Guardiano della Soglia, Il Sovrano, Il Mago |
+| Ledyal | Il Mentore, L'Imbroglione, L'Innocente, Il Custode, L'Amante, Il Giullare, L'Esploratore |
+| Laydel | Il Mutaforma, L'Ombra, Il Fuorilegge |
+| Nethergal | L'Araldo, Il Saggio, Il Creatore, Il Mago, Il Giullare |
+| Nedraf | L'Araldo, L'Esploratore, Il Martire |
+| Nihar | L'Esploratore |
 | Orudjs | Il Mutaforma, L'Imbroglione, L'Amante |
-| Orlaith | Il Guardiano della Soglia, Il Sovrano, L'Eroe |
-| Rezh | Il Tiranno, L'Ombra, Il Mutaforma |
-| Shayalia | L'Ombra, L'Amante, Il Mutaforma |
-| Sixiser | L'Eremita, Il Saggio, L'Ombra |
-| Sumkjr | L'Eroe, L'Alleato, Il Mentore, Il Martire |
-| Tàhil | L'Ombra, Il Tiranno, Il Fuorilegge |
-| Tazher | L'Ombra, Il Fuorilegge, Il Mutaforma |
-| Thaft | L'Uomo Comune, L'Alleato, Il Custode |
-| Torbiorn | Il Tiranno, L'Ombra, Il Sovrano |
+| Orlaith | L'Eroe, Il Sovrano, Il Fuorilegge |
+| Rezh | L'Ombra, Il Creatore, Il Tiranno |
+| Shayalia | Il Mentore, L'Ombra, L'Amante |
+| Sixiser | Il Guardiano della Soglia, Il Saggio, L'Eremita |
+| Sumkjr | L'Eroe, L'Araldo, L'Alleato, L'Innocente, Il Custode, Il Giullare, L'Esploratore, Il Martire |
+| Tàhil | Il Mutaforma, L'Ombra, Il Sovrano, Il Fuorilegge, Il Tiranno |
+| Tazher | Il Mutaforma, L'Ombra, Il Tiranno |
+| Thaft | Il Mentore, L'Alleato, Il Custode, L'Uomo Comune |
+| Torbiorn | Il Mutaforma, L'Ombra, Il Tiranno |
 
 \end{multicoltab}
 
@@ -1202,6 +1225,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 - Considera il potenziale viaggio archetipico del tuo personaggio: come potrebbe evolversi nel tempo?
 - Guarda ai Patroni allineati del tuo archetipo per conoscere le possibili affinità spirituali, senza considerarli Patroni da scegliere
 - Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche interessanti tra i personaggi
+- Considera il gioco come uno spazio sicuro (*cerchio magico*): per gli strumenti di sicurezza e benessere vedi Sicurezza e benessere al tavolo 
 
 ## Per il Narratore
 
@@ -1210,10 +1234,9 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 - Crea antagonisti che servono come riflessi oscuri degli archetipi degli eroi
 - Usa interventi dei Patroni per evidenziare o sfidare la natura archetipica di un personaggio
 - Progetta archi di campagna che seguono cicli archetipici classici
+- Favorisci un clima al tavolo accogliente e collaborativo, dove esplorare le fragilità dei personaggi sia stimolante e psicologicamente sicuro
 
->>> **Gli Archetipi**: Questo sistema archetipico fornisce un altro livello di profondità alla creazione e allo sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
-
-**Piuttosto che limitare la creatività, questi archetipi servono come framework e linee guida utili che possono essere abbracciati, sovvertiti o trasformati durante il viaggio di un personaggio**.
+Per gli strumenti di sicurezza e benessere al tavolo (semaforo, pausa, dissolvenza, *bleed*, *de-rolling*) vedi Sicurezza e benessere al tavolo .
 
 > La battaglia tra il bene e il male si svolge nel cuore umano di ciascuno e non necessariamente tra un esercito di persone vestite di bianco e un esercito di persone vestite di nero. (George R.R. Martin)
 
@@ -1549,9 +1572,7 @@ Per creare un personaggio prova a rispondere a queste domande, che potranno aiut
 
 - I tre difetti e i tre pregi principali del personaggio
 
-È cresciuto in famiglia, in un clan, da vagabondo o per strada… Cosa l'ha portato fin qui e quali scelte ha fatto?
-
-Qual è il suo stile di combattimento e la sua strategia tipica? Magia, spada, dalle retrovie… incitare i compagni… scappare…
+È cresciuto in famiglia, in un clan, da vagabondo o per strada… Cosa l'ha portato fin qui e quali scelte ha fatto?  Qual è il suo stile di combattimento e la sua strategia tipica? Magia, spada, dalle retrovie… incitare i compagni… scappare…
 
 E, non meno importante: qual è il suo scopo? Cosa lo ha fatto uscire di casa e dalle sue sicurezze, abbandonando una vita normale per intraprendere quella di avventuriero?
 
@@ -1578,7 +1599,7 @@ Se non hai punti in Competenza Armi puoi usare solo le armi semplici  senza inco
 
 I Punti Ferita sono pari a 8 + Costituzione, aggiungi 3 se hai messo 1 punto in Competenza Armi (CA).
 
-A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per l'assegnazione automatica del Patrono reclamante .
+A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Se il tuo gruppo utilizza la regola opzionale degli Archetipi del Carattere , puoi partire scegliendo un archetipo guida per orientare con naturalezza la selezione dei tuoi Tratti iniziali. Ricordati che saranno fondamentali per l'assegnazione automatica del Patrono reclamante .
 
 Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi tutti i Patroni che condividono quel Tratto, senza interpretare l'annotazione come un'appartenenza o una scelta. Evidenzia il Patrono con il Tratto guida corrispondente al tuo Tratto dominante; in caso di parità applica la procedura descritta nel capitolo I Tratti. Solo il Patrono reclamante può ricevere la tua adesione formale e concederti i poteri legati ai Tratti.
 
@@ -1628,8 +1649,6 @@ Ogniqualvolta il Narratore ti conferma il passaggio di livello devi compiere div
 
 Come avrete notato, i punteggi delle Competenze sono ridotti: si prendono pochi punti da distribuire alla volta.
 Come giocatori avete l'opportunità di prediligere un approccio specializzato, ovvero *puntare* su poche e specifiche Competenze, oppure diluire i punti su più competenze per sapere un po' di tutto e non avere penalità nelle prove (la prova si fa solo con 2d6 + Caratteristica se non avete punti nella Competenza).
-
-Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi concede un bonus di +2 alle prove di Competenze.
 
 >> **Potere**: La debolezza del personaggio è solo una percezione ed anzi vi accorgerete presto della vera potenza del personaggio. Giocate di gruppo e sopravviverete perché ricordate che questo è un mondo cattivo, dispettoso e mortale con gli **egoisti**.
 
@@ -1692,14 +1711,14 @@ Il Narratore non ti dirà: ``Fammi una prova a difficoltà 10'', ma dirà che la
 | **Diff.** | **Descrizione** | **Livello** |
 | --- | --- | --- |
 | **DC** | **difficoltà** | **Competenza** |
-| 6 | Estremamente facile | Nulla |
-| 10 | Facile | Scarsa |
-| 15 | Normale | Normale |
+| 6 | Banale | Nulla |
+| 10 | Semplice | Scarsa |
+| 15 | Impegnativa per un personaggio competente | Normale |
 | 20 | Difficile | Buona |
 | 25 | Molto difficile | Ottima |
 | 30 | Eroica | Eccellente |
-| 35 | Quasi impossibile | Stupefacente |
-| 40 | Impossibile | Epica |
+| 35 | Quasi disperata | Stupefacente |
+| 40 | Epica | Epica |
 
 Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteggio della Caratteristica e altri modificatori. Comunica questo risultato al Narratore che la confronterà con la difficoltà (DC).
 
@@ -2740,8 +2759,6 @@ Il valore di EDX, se diverso dal massimo danno dell'arma, aumenta di 2 (la Katan
 
 Combattere in condizioni di luminosità ridotta comporta delle difficoltà riassunte in questo schema.
 
-	
-
 | **Visione** | **Condizione** | |
 | --- | --- |
 | Luce Fioca | Oscurità |
@@ -3363,7 +3380,7 @@ L'Abilità Adepto della Magia permette di lanciare incantesimi di più alto live
 
 Ogni volta che prendi questa Abilità *apprendi* un incantesimo in più presente nel Tomo di Magia.
 
-L'Abilità è prendibile più volte purché sia inferiore a CM/2.
+La prima volta si prende a CM 1; poi puoi prenderla di nuovo quando CM/2 è almeno 2 (CM 4), poi almeno 3 (CM 6), 4 (CM 8), e così via.
 
 ## Ali della Fenice
 
@@ -3388,6 +3405,17 @@ La **terza volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 12, G
 | **Caratteristica**: | Destrezza o Forza |
 
 Usi un'Azione in concomitanza alla tua Azione di Attacco in mischia per aumentare la portata di 1 metro con il tuo colpo.
+
+## Animaletto / Famiglio
+
+| **Requisito**: | Competenza Magica 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Volontà, +1 Tempra |
+| **Caratteristica**: | Intelligenza o Modificatore di caratteristica per incantesimi |
+
+La **prima volta** che prendi questa Abilità guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari a un quarto della tua Saggezza, con un minimo di 1/4. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
+
+La **seconda volta** che prendi questa Abilità guadagni un Famiglio .
 
 ## Animalia
 
@@ -3470,16 +3498,25 @@ Della nuova forma acquisisce le caratteristiche e capacità, come sensi, movimen
 
 Quando sei trasformato puoi canalizzare i tuoi Punti Magia per migliorare la trasformazione, per ogni Punto Magia usato prendi un +1 al Tiro per Colpire, al danno con gli attacchi, Difesa e Tiri Salvezza. La capacità va dichiarata all'inizio del round come Azione Immediata che dura fino all'inizio del tuo round successivo. Non puoi usare più Punti Magia alla volta di quante volte tu abbia preso l'Abilità Animalia.
 
-## Animaletto / Famiglio
+## Arciere su saurovallo
 
-| **Requisito**: | Competenza Magica 1 |
+| **Requisito**: | Competenza Armi 1 |
 | --- | --- |
-| **Tiri Salvezza**: | +1 Volontà, +1 Tempra |
-| **Caratteristica**: | Intelligenza o Modificatore di caratteristica per incantesimi |
+| **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
+| **Caratteristica**: | Destrezza o Saggezza |
 
-La **prima volta** che prendi questa Abilità guadagni un animale naturale. Questo animaletto ha un Grado di Sfida pari a un quarto della tua Saggezza, con un minimo di 1/4. Puoi insegnare azioni di base al tuo animale e fargli fare dei compiti semplici.
+le penalità di tirare frecce da saurovallo diminuiscono di 2 ogni volta che prendi questa Abilità.
 
-La **seconda volta** che prendi questa Abilità guadagni un Famiglio .
+Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
+
+## Arma Focalizzata
+
+| **Requisito**: | Competenza Armi 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
+| **Caratteristica**: | Forza o Destrezza |
+
+Scegli un'arma in una Lista d'Armi che conosci. Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi questa arma.
 
 ## Armato
 
@@ -3514,9 +3551,9 @@ La **quarta volta** che si prende l'Abilità, requisito singolo Tratto 12, la Pr
 | **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
 | **Caratteristica**: | Costituzione o Saggezza |
 
-Il costante allenamento nello spirito e corpo ti permette di indurire la tua pelle e renderla più difficile da ferire. Per usufruire di questi bonus non devi portare armature o scudi od oggetti che migliorino la Difesa. Le capacità elencate non sono cumulabili con l'Abilità Gru d'Argento.
+Il costante allenamento nello spirito e corpo ti permette di indurire la tua pelle e renderla più difficile da ferire. Per usufruire di questi bonus non devi portare armature o scudi od oggetti anche magici che migliorino la Difesa. Le capacità elencate non sono cumulabili con l'Abilità Gru d'Argento.
 
-La **prima volta** che prendi questa Abilità la tua Difesa è 10 + Costituzione + 1/3 dei punti in Pugno Vuoto + varie ed eventuali.
+La **prima volta** che prendi questa Abilità la tua Difesa è 10 + Costituzione + 1/3 dei punti in Pugno Vuoto (arrotondato per difetto) + varie ed eventuali. Il +1 alla Difesa naturale di Pugno Vuoto 5 si somma a questa formula.
 
 La **seconda volta** che prendi questa Abilità, requisito Pugno Vuoto 5, acquisisci una riduzione al danno (DR) di 1/-
 
@@ -3526,25 +3563,7 @@ La **quarta volta** che prendi questa Abilità, requisito Pugno Vuoto 8, acquisi
 
 La **quinta volta** che prendi questa Abilità, requisito Pugno Vuoto 13, acquisisci una riduzione al danno (DR) di 5/-
 
-## Arciere su saurovallo
-
-| **Requisito**: | Competenza Armi 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
-| **Caratteristica**: | Destrezza o Saggezza |
-
-le penalità di tirare frecce da saurovallo diminuiscono di 2 ogni volta che prendi questa Abilità.
-
-Le penalità standard sono -4 e -6 a seconda che si trotti (movimento x2) o galoppi (movimento x3)
-
-## Arma Focalizzata
-
-| **Requisito**: | Competenza Armi 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Riflessi, +1 Tempra |
-| **Caratteristica**: | Forza o Destrezza |
-
-Scegli un'arma in una Lista d'Armi che conosci. Ottieni un +1 a Iniziativa e Tiro per Colpire quando usi questa arma.
+La DR di Armatura della Montagna non si cumula con quella di Pelle Coriacea: si applica la più alta.
 
 ## Artista dell'Arma
 
@@ -3570,6 +3589,17 @@ La **prima volta** che prendi questa Abilità usando 3 Azioni puoi eseguire un s
 
 La **seconda volta** che prendi questa Abilità, Competenza Armi 15, Intrattenere 5, non hai la penalità al Tiro per Colpire.
 
+## Batteria Estesa
+
+| **Requisito**: | Competenza Magica 1, Adepto della Magia |
+| --- | --- |
+| **Tiri Salvezza**: | + 1 Tempra, +1 Volontà |
+| **Caratteristica**: | Modificatore di caratteristica per incantesimi |
+
+Riesci a sopportare meglio lo stress di lanciare incantesimi.
+
+Quando effettui una Prova di Magia e riesci in almeno un Successo Critico Magico il costo dell'incantesimo diminuisce di un punto, con un costo minimo di 1.
+
 ## Batteria Magica
 
 | **Requisito**: | Competenza Magica 3 |
@@ -3581,18 +3611,7 @@ Hai una particolare connessione con la magia che permea la Terra.
 
 La prima volta che prendi questa Abilità aumenti di 3 i punti Magia a disposizione.
 
-L'Abilità può essere presa più volte e il totale deve essere pari o inferiore a CM/3.
-
-## Batteria Estesa
-
-| **Requisito**: | Competenza Magica 1, Adepto della Magia |
-| --- | --- |
-| **Tiri Salvezza**: | + 1 Tempra, +1 Volontà |
-| **Caratteristica**: | Modificatore di caratteristica per incantesimi |
-
-Riesci a sopportare meglio lo stress di lanciare incantesimi.
-
-Quando effettui una Prova di Magia e riesci in almeno un Successo Critico Magico il costo dell'incantesimo diminuisce di un punto, con un costo minimo di 1.
+La prima volta si prende a CM 3; poi, oltre alla prima, si può prendere una volta ogni 3 punti di Competenza Magica (CM 6, 9, 12, ...).
 
 ## Colosso
 
@@ -3612,6 +3631,17 @@ La **terza volta** che prendi questa Abilità aumenti la taglia del dado per tir
 I bonus sono cumulativi e retroattivi ai livelli precedenti, tranne che l'aumento del dado per determinare i PF.
 
 La **quarta volta**, requisito Costituzione 3, che prendi questa Abilità aumenti di una taglia (P > M > G).
+
+## Colpi Poderosi
+
+| **Requisito**: | Competenza Armi 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +2 Tempra |
+| **Caratteristica**: | Forza o Costituzione |
+
+Il tuo stile enfatizza colpi poderosi.
+
+Guadagni un +1 al danno con una Lista d'Arma.
 
 ## Colpo Furtivo
 
@@ -3635,9 +3665,9 @@ La **quarta** volta che si prende questa Abilità, requisito Competenza Armi 12,
 | **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
 | **Caratteristica**: | Intelligenza o Destrezza |
 
-Colpo Indebolente è una forma avanzata di colpo furtivo. Ogni Colpo Indebolente abbassa Forza o Destrezza (scelta giocatore) di quante volte si è preso Colpo Furtivo.
+Colpo Indebolente è una forma avanzata di Colpo Furtivo e si applica nelle stesse condizioni: l'avversario deve essere sorpreso e il colpo deve essere il primo attacco del combattimento.
 
-All'avversario è concesso un Tiro Salvezza Tempra con DC pari al Tiro per Colpire. Si causa il danno aggiuntivo del Colpo Furtivo o la perdita di punti caratteristica.
+Quando il colpo va a segno, infliggi il danno normale dell'attacco, senza il danno critico aggiuntivo del Colpo Furtivo, e riduci di 1 Forza o Destrezza del bersaglio per ogni due volte che hai preso Colpo Furtivo (arrotondando per difetto). Il bersaglio effettua un Tiro Salvezza su Tempra con DC pari al Tiro per Colpire: se riesce, subisce solo il danno normale; se fallisce, subisce anche la riduzione. La caratteristica ridotta recupera 1 punto ogni minuto.
 
 ## Colpo Mortale
 
@@ -3657,16 +3687,24 @@ Esegui il Tiro per Colpire con penalità di -1d6, se colpisci causi 2 danni crit
 
 Dedichi 2 Azioni a Round, per 5 round, a studiare un avversario che puoi minacciare. Nel sesto round utilizzando 2 Azioni porti un attacco in mischia o da distanza. L'avversario deve effettuare un Tiro Salvezza su Tempra con DC pari al Tiro per Colpire o rimanere paralizzato per 3d6 round. La creatura non deve essere di 2 taglie più grande della tua.
 
-## Colpi Poderosi
+## Colpo Psichico
 
-| **Requisito**: | Competenza Armi 1 |
+| **Requisito**: | Energia Psichica, Destrezza 1 |
 | --- | --- |
-| **Tiri Salvezza**: | +2 Tempra |
-| **Caratteristica**: | Forza o Costituzione |
+| **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
+| **Caratteristica**: | Saggezza o Forza |
 
-Il tuo stile enfatizza colpi poderosi.
+La **prima volta** che prendi questa Abilità concentri il tuo Chi nelle tue mani. Puoi concentrare un numero di punti Chi pari alla Saggezza.
 
-Guadagni un +1 al danno con una Lista d'Arma.
+Con un Attacco a Tocco andato a segno, nel round scarichi l'energia che causa 1d6 danni da forza per punto Chi usato, fino a un massimo di punti Chi pari al punteggio di Saggezza.
+
+Il colpo si considera come portato da un'arma magica con un bonus pari ai punti Chi usati.
+
+La **seconda volta** che prendi questa Abilità, requisito Colpo Psichico, Saggezza 3, Competenza Armi 2, se il Tiro per Colpire va a segno consumi un punto Chi in meno.
+
+La **terza volta** che prendi questa Abilità, Competenza Armi 3, se il Tiro per Colpire va a segno consumi due punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari a una volta e mezza il valore della Saggezza.
+
+La **quarta volta** che prendi questa Abilità, Competenza Armi 7, Saggezza 4, se il Tiro per Colpire va a segno consumi tre punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari al doppio del valore della Saggezza.
 
 ## Combattere alla Cieca
 
@@ -3713,7 +3751,7 @@ La **terza volta** il primo attacco effettuato con l'arma secondaria non cumula 
 
 Scegli una Lista di Magia, la DC dei Tiri Salvezza dei tuoi incantesimi in quella lista aumenta di 1.
 
-L'Abilità può essere presa più volte sulla stessa Lista di Magia o su altre liste e il totale deve essere pari o inferiore a CM/4.
+La prima volta si prende a CM 2; poi, oltre alla prima, si può prendere una volta ogni 4 punti di Competenza Magica (CM 4, 8, 12, 16, 20).
 
 ## Conoscenza istintiva
 
@@ -3868,6 +3906,20 @@ Il costante allenamento con due armi ti permette di applicare il bonus al danno 
 
 Sei particolarmente ostinato nel non volere morire. Il personaggio aumenta di 3 Punti Ferita la tolleranza prima di morire, ovvero muore a 13+COS*2.
 
+## Elementalista
+
+| **Requisito**: | Competenza Magia 3, Almeno 4 incantesimi da Lista di Magia Elementale |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Volontà, +1 Tempra |
+| **Caratteristica**: | Modificatore di caratteristica per incantesimi o Costituzione |
+
+La **prima volta** che prendi questa Abilità scegli un tipo di Energia Elementale: Fuoco, Elettricità, Freddo, Suono.
+
+Sei capace di scambiare gli elementi presenti nei tuoi incantesimi. Puoi sostituire un tipo di danno di energia elementale con il danno scelto quando hai preso questa Abilità.
+Il tempo di lancio dell'incantesimo aumenta di 1 Azione, se il tempo totale di lancio supera le 3 Azioni non è possibile usare questa Abilità sull'incantesimo.
+
+La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, scegli un nuovo tipo di Energia. Quando effettui la sostituzione puoi scegliere tra i tipi di energia a disposizione. Non hai più la penalità al tempo di lancio dell'incantesimo.
+
 ## Energia Psichica
 
 | **Requisito**: | Forza 1, Saggezza 2, Competenza Armi 1, Competenza Magica 1 |
@@ -3882,52 +3934,6 @@ La **prima volta** che prendi questa Abilità ogni giorno, dopo almeno 6 ore di 
 La **seconda volta** che prendi questa Abilità, requisito Forza 1, Saggezza 2, Competenza Armi 4, Competenza Magica 4
 
 Recuperi 1 punto Chi ogni 10 minuti in cui il personaggio non effettua attività impegnative.
-
-## Colpo Psichico
-
-| **Requisito**: | Energia Psichica, Destrezza 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
-| **Caratteristica**: | Saggezza o Forza |
-
-La **prima volta** che prendi questa Abilità concentri il tuo Chi nelle tue mani. Puoi concentrare un numero di punti Chi pari alla Saggezza.
-
-Con un Attacco a Tocco andato a segno, nel round scarichi l'energia che causa 1d6 danni da forza per punto Chi usato, fino a un massimo di punti Chi pari al punteggio di Saggezza.
-
-Il colpo si considera come portato da un'arma magica con un bonus pari ai punti Chi usati.
-
-La **seconda volta** che prendi questa Abilità, requisito Colpo Psichico, Saggezza 3, Competenza Armi 2, se il Tiro per Colpire va a segno consumi un punto Chi in meno.
-
-La **terza volta** che prendi questa Abilità, Competenza Armi 3, se il Tiro per Colpire va a segno consumi due punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari a una volta e mezza il valore della Saggezza.
-
-La **quarta volta** che prendi questa Abilità, Competenza Armi 7, Saggezza 4, se il Tiro per Colpire va a segno consumi tre punti Chi in meno. Puoi usare un numero di punti Chi contemporaneo pari al doppio del valore della Saggezza.
-
-## Raggio Psichico
-
-| **Requisito**: | Colpo Psichico, Saggezza 3, Competenza Armi 5 |
-| --- | --- |
-| **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
-| **Caratteristica**: | Saggezza o Destrezza |
-
-La **prima volta** che prendi questa Abilità puoi effettuare un attacco a distanza entro 9 metri usando l'Energia Psichica. L'Attacco, a Tocco, causa 1d6 di danno da forza per punto Psichico speso focalizzato sul danno.
-
-È possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri. Non puoi usare un numero di punti Chi totali (per distanza e danno) superiore alla Saggezza.
-
-La **seconda volta** che prendi questa Abilità requisito Saggezza 3, Competenza Armi 9, puoi utilizzare fino al doppio del tuo punteggio in Saggezza per potenziare il Raggio Psichico.
-
-## Elementalista
-
-| **Requisito**: | Competenza Magia 3, Almeno 4 incantesimi da Lista di Magia Elementale |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Volontà, +1 Tempra |
-| **Caratteristica**: | Modificatore di caratteristica per incantesimi o Costituzione |
-
-La **prima volta** che prendi questa Abilità scegli un tipo di Energia Elementale: Fuoco, Elettricità, Freddo, Suono.
-
-Sei capace di scambiare gli elementi presenti nei tuoi incantesimi. Puoi sostituire un tipo di danno di energia elementale con il danno scelto quando hai preso questa Abilità.
-Il tempo di lancio dell'incantesimo aumenta di 1 Azione, se il tempo totale di lancio supera le 3 Azioni non è possibile usare questa Abilità sull'incantesimo.
-
-La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, scegli un nuovo tipo di Energia. Quando effettui la sostituzione puoi scegliere tra i tipi di energia a disposizione. Non hai più la penalità al tempo di lancio dell'incantesimo.
 
 ## Esperto
 
@@ -3985,7 +3991,7 @@ L'avversario può non comprendere la tua lingua ma deve avere Intelligenza pari 
 
 La tua connessione con il Patrono è forte ed energetica. Aumenti i tuoi Punti Magia di 3 punti.
 
-L'Abilità può essere presa più volte e il totale deve essere pari o inferiore alla somma dei Tratti comuni con il Patrono/3.
+La prima volta si prende a Tratti comuni 2; poi puoi prenderla di nuovo quando Tratti/3 è almeno 2 (Tratti 6), poi almeno 3 (Tratti 9), 4 (Tratti 12), 5 (Tratti 15), 6 (Tratti 18).
 
 Questa Abilità non si cumula con l'Abilità Batteria Magica.
 
@@ -3998,9 +4004,11 @@ Questa Abilità non si cumula con l'Abilità Batteria Magica.
 
 La tua rabbia è tale da sconfiggere, temporaneamente, la morte.
 
-La **prima volta** che prendi questa Abilità quando scendi sotto lo 0 Punti Ferita non svieni ed incominci a perdere 1 punto ferita a round.
+La **prima volta** che prendi questa Abilità, quando scendi sotto lo 0 Punti Ferita non svieni fino a un punteggio negativo pari al doppio dei punti di Costituzione e inizi a perdere 1 Punto Ferita a round.
 
-Una creatura dotata di Ferocia sviene quando ha un punteggio di Punti Ferita negativo pari al doppio dei punti di Costituzione e muore quando i suoi Punti Ferita scendono al punteggio negativo pari al suo triplo del punteggio di Costituzione+5 (COS*3+5)
+Da quel punteggio in poi svieni e continui a perdere 1 Punto Ferita a round. Muore quando i suoi Punti Ferita scendono a $-(10 + 3 \times COS)$.
+
+La soglia di morte di Ferocia si cumula con l'Abilità Duro a morire: la tolleranza aggiuntiva di 3 Punti Ferita di Duro a morire porta la soglia a $-(13 + 3 \times COS)$.
 
 La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 4, puoi fare che la tua Forza aumenti di 2 e acquisisci 6 Punti Ferita temporanei per 1 minuto. A fine scontro il tuo livello di affaticamento aumenta di 1 per 10 minuti.
 
@@ -4093,17 +4101,6 @@ Quando usi la tua arma della lista Palle Rotanti hai un bonus di +1 al Tiro per 
 
 Quando effettui un tiro critico con un attacco in mischia considera di aver colpito con un margine ulteriore di +2, per la verifica di ulteriori critici.
 
-## Fortunato
-
-| **Requisito**: | nessuno |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
-| **Caratteristica**: | Carisma o Destrezza |
-
-Una volta al giorno puoi fare ritirare 1d6 di una prova (Tiri per Colpire, Prove Competenze, Tiri Salvezza) al Narratore e prendere il valore più basso tra i due tiri.
-
-L'Abilità può essere dichiarata anche dopo il tiro dei dadi.
-
 ## Forma Elementale
 
 | **Requisito**: | Seguace o Devoto di Erondil, Gaya, Efrem oppure Shayalia. Almeno 3 incantesimi da 2 Liste di Magia Elementare diverse, Competenza Magica 6 |
@@ -4120,6 +4117,17 @@ La **seconda volta** che prendi questa Abilità, Competenza Magica 11, quando ti
 La **terza volta** che prendi questa Abilità, requisito Competenza Magica 14, i tuoi attacchi quando ti trasformi con Animalia causano 2d6 di danno in più del tipo elementale scelto.
 
 Se sei un Devoto o Seguace di Gaya o Erondil non è necessario trasformarsi in animale, il tipo di danno si applica ai tuoi attacchi in mischia.
+
+## Fortunato
+
+| **Requisito**: | nessuno |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
+| **Caratteristica**: | Carisma o Destrezza |
+
+Una volta al giorno puoi fare ritirare 1d6 di una prova (Tiri per Colpire, Prove Competenze, Tiri Salvezza) al Narratore e prendere il valore più basso tra i due tiri.
+
+L'Abilità può essere dichiarata anche dopo il tiro dei dadi.
 
 ## Freccia chiamata, freccia consegnata
 
@@ -4160,25 +4168,6 @@ Qualsiasi prova di Acrobatica che coinvolga il maneggiare oggetti o l'equilibrio
 
 Puoi lanciare un secondo pugnale come Azione Immediata in seguito all'Azione di attacco di lancio di un pugnale, questo pugnale ha un -3 al Tiro per Colpire e non cumula penalità al multiattacco.
 
-## Guerriero della Magia
-
-| **Requisito**: | Competenza Armi 2, Competenza Magica 2 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Volontà, +1 Riflessi |
-| **Caratteristica**: | Modificatore di caratteristica per incantesimi o Forza |
-
-Non segui solo la via della magia e neanche quella della spada, il tuo stile abbraccia entrambi in un fendente di pura magia.
-
-La **prima volta** che prendi questa Abilità sei in grado di scaricare un incantesimo con distanza di mischia con la tua arma. Effettui il Tiro per Colpire e se colpisci oltre al danno dell'attacco scarichi anche l'incantesimo. Devi riuscire in una Prova di Magia. In questa maniera puoi eseguire un solo attacco con l'arma. Costa 3 Azioni.
-
-La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 3, Competenza Magica 3, consumando 3 Azioni sei in grado di scaricare un incantesimo che non sia personale o a tocco con un'arma a gittata. Devi riuscire in una Prova di Magia.
-
-La **terza volta** che prendi questa Abilità, requisito Competenza Armi 6, Competenza Magica 9, puoi convogliare incantesimi fino al 3 livello tramite l'arma.
-
-La **quarta volta** che prendi questa Abilità non è necessario più effettuare la Prova di Magia per scaricare l'incantesimo con l'arma.
-
-Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità e il tempo di lancio dell'incantesimo non può essere superiore alle 2 Azioni.
-
 ## Gru d'Argento
 
 | **Requisito**: | Lista Pugno Vuoto 2, Destrezza 1 |
@@ -4188,17 +4177,17 @@ Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità e il
 
 Per usufruire di questi bonus non devi portare armature o scudi od oggetti anche magici che migliorino la Difesa. Le capacità elencate non sono cumulabili con l'Abilità Armatura della Montagna Incantata.
 
-La **prima volta** che prendi questa Abilità la tua Difesa naturale aumenta di 1 + 1/3 dei punti in Pugno Vuoto + Destrezza + eventuali modificatori.
+La **prima volta** che prendi questa Abilità la tua Difesa naturale aumenta di 1 + 1/3 dei punti in Pugno Vuoto (arrotondato per difetto) + eventuali modificatori. Il +1 alla Difesa naturale di Pugno Vuoto 5 si somma a questo bonus.
 
 La **seconda volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 4, la tua Iniziativa aumenta di 2 (solo con attacchi disarmati).
 
-La **terza volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 9 e Destrezza 2, hai un bonus nei Tiri salvezza su Volontà 2 (cumulativo).
+La **terza volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 9 e Destrezza 2, hai un bonus di +2 nei Tiri Salvezza su Volontà.
 
-La **quarta volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 11, la tua Difesa naturale ed Iniziativa aumentano di 2 (cumulativo).
+La **quarta volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 11, la tua Difesa naturale ed Iniziativa aumentano di 2 (l'Iniziativa solo con attacchi disarmati).
 
-La **quinta volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 13 e Destrezza 3, hai un bonus nei Tiri salvezza su Riflessi di 2 (cumulativo).
+La **quinta volta** che prendi questa Abilità, requisito Lista Pugno Vuoto 13 e Destrezza 3, hai un bonus di +2 nei Tiri Salvezza su Riflessi.
 
-I bonus sono attivi anche se non stai combattendo.
+I bonus sono attivi anche se non stai combattendo e sono cumulativi con gli altri bonus elencati.
 
 ## Guarigione accelerata
 
@@ -4228,6 +4217,25 @@ La **prima volta** che prendi questa Abilità hai +4 alle prove di Pronto soccor
 
 La **seconda volta** che prendi questa Abilità, requisito somma tratti comuni con il Patrono Ledyal 8, ogni volta che usi un incantesimo di cura tu recuperi 1 Punto Ferita e la creatura curata +1d6 Punti Ferita in più.
 
+## Guerriero della Magia
+
+| **Requisito**: | Competenza Armi 2, Competenza Magica 2 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Volontà, +1 Riflessi |
+| **Caratteristica**: | Modificatore di caratteristica per incantesimi o Forza |
+
+Non segui solo la via della magia e neanche quella della spada, il tuo stile abbraccia entrambi in un fendente di pura magia.
+
+La **prima volta** che prendi questa Abilità sei in grado di scaricare un incantesimo con distanza di mischia con la tua arma. Effettui il Tiro per Colpire e se colpisci oltre al danno dell'attacco scarichi anche l'incantesimo. Devi riuscire in una Prova di Magia. In questa maniera puoi eseguire un solo attacco con l'arma. Costa 3 Azioni.
+
+La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 3, Competenza Magica 3, consumando 3 Azioni sei in grado di scaricare un incantesimo che non sia personale o a tocco con un'arma a gittata. Devi riuscire in una Prova di Magia.
+
+La **terza volta** che prendi questa Abilità, requisito Competenza Armi 6, Competenza Magica 9, puoi convogliare incantesimi fino al 3 livello tramite l'arma.
+
+La **quarta volta** che prendi questa Abilità, requisito Competenza Armi 8, Competenza Magica 10, non è necessario più effettuare la Prova di Magia per scaricare l'incantesimo con l'arma.
+
+Non puoi scaricare incantesimi di livello superiore a 3 con questa Abilità e il tempo di lancio dell'incantesimo non può essere superiore alle 2 Azioni.
+
 ## Ho detto CADI!
 
 | **Requisito**: | Competenza Armi 4 |
@@ -4236,6 +4244,21 @@ La **seconda volta** che prendi questa Abilità, requisito somma tratti comuni c
 | **Caratteristica**: | Forza o Costituzione |
 
 Se colpisci 3 volte entro 2 round un avversario questo deve fare un Tiro Salvezza su Tempra con DC pari al Tiro per Colpire dell'ultimo attacco o cadere prono. Il Tiro Salvezza ha 1d6 di modificatore per taglia di differenza.
+
+## Iaijutsu
+
+| **Requisito**: | Competenza Armi 2 |
+| --- | --- |
+| **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
+| **Caratteristica**: | Intelligenza o Destrezza |
+
+La **prima volta** che prendi questa Abilità fai un passo di un metro, attacchi una volta e torni dove eri prima, il tutto in meno di un battito di ciglia.
+
+La **seconda volta**, requisito CA 6, che prendi questa Abilità puoi muoverti di 2 metri prima di attaccare e tornare dove eri.
+
+La **terza volta**, requisito CA 12, che prendi questa Abilità puoi muoverti del tuo movimento prima di attaccare e tornare dove eri, tratti il terreno come difficile.
+
+Consumi due Azioni.
 
 ## Il Patrono è con me
 
@@ -4265,64 +4288,13 @@ La **prima volta** che prendi questa Abilità hai un +1 al Tiro per Colpire ed a
 
 La **seconda volta** che prendi questa Abilità, requisito somma Tratti comune 5, Competenza Armi 1, la penalità per gli attacchi multipli con l'arma preferita del Patrono diviene -4.
 
-La **terza volta** che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 10, Competenza Armi 4, essere Devoti, puoi usare il tuo Modificatore di caratteristica per incantesimi per stabilire il Tiro per Colpire con l'arma del Patrono, al posto di Forza o Destrezza.
+La **terza volta** che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 10, Competenza Armi 4, puoi usare il tuo Modificatore di caratteristica per incantesimi per stabilire il Tiro per Colpire con l'arma del Patrono, al posto di Forza o Destrezza.
 
 La **quarta volta** che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 10, Competenza Armi 5, aggiungi +1d6 al Tiro per Colpire quando effettui il terzo attacco nel round con l'arma del Patrono.
 
 La **quinta volta** che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 13, Competenza Armi 6, aumenti di un grado il dado di danno della tua arma del Patrono.
 
 La **sesta volta** che prendi questa Abilità, requisito somma Tratti comuni con il Patrono 16, ottieni un ulteriore +1 al Tiro per Colpire e +1 al Danno. Il primo attacco andato a segno nel round con l'arma del Patrono causa sempre danno critico.
-
-## Iaijutsu
-
-| **Requisito**: | Competenza Armi 2 |
-| --- | --- |
-| **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
-| **Caratteristica**: | Intelligenza o Destrezza |
-
-La **prima volta** che prendi questa Abilità fai un passo di un metro, attacchi una volta e torni dove eri prima, il tutto in meno di un battito di ciglia.
-
-La **seconda volta**, requisito CA 6, che prendi questa Abilità puoi muoverti di 2 metri prima di attaccare e tornare dove eri.
-
-La **terza volta**, requisito CA 12, che prendi questa Abilità puoi muoverti del tuo movimento prima di attaccare e tornare dove eri, tratti il terreno come difficile.
-
-Consumi due Azioni.
-
-## Improvvisare
-
-| **Requisito**: | Competenza Armi 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
-| **Caratteristica**: | Destrezza o Saggezza |
-
-Qualsiasi oggetto che possa definirsi un'arma improvvisata per te non è improvvisata.
-Non soffri di penalità al colpire quando usi un arma improvvisata. Ottieni un +1 al danno quando usi un'arma improvvisata.
-
-## Incantatore da Combattimento
-
-| **Requisito**: | Competenza Magica 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
-| **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
-
-La **prima volta** che prendi questa Abilità quando sei Distratto puoi ignorare un dado nella Prova di Magia.
-
-La **seconda volta**, requisito Competenza Magica 6, che prendi questa Abilità, quando sei Distratto, puoi ignorare un ulteriore dado nella Prova di Magia.
-
-La **terza volta**, requisito Competenza Magica 12, che prendi questa Abilità, quando sei Distratto, puoi ignorare un ulteriore dado nella Prova di Magia.
-
-Questa Abilità si può usare nella Prova di Magia richiesta da Guerriero della Magia. Le capacità indicate si cumulano.
-
-## Incantatore Prudente
-
-| **Requisito**: | Competenza Magica 8 |
-| --- | --- |
-| **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
-| **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
-
-Quando una creatura ostile entra per la prima volta in uno spazio entro 1 metro da te puoi usare una Reazione per lanciare un trucchetto, entro 2 Azioni, senza potenziamenti o Prova di Magia.
-
-Questa Abilità non influisce sul fatto che si è comunque Distratti nel lancio di un successivo incantesimo.
 
 ## Immunita' ai veleni
 
@@ -4344,7 +4316,7 @@ La **terza volta** hai un +1d6 ai Tiri Salvezza contro i veleni magici e subire 
 | **Tiri Salvezza**: | +2 Volontà, +1 Tempra |
 | **Caratteristica**: | Carisma o Saggezza |
 
-Se i tuoi Tratti sono in comune con un Patrono positivo puoi convogliare energia curativa (effetto curativo/dannoso su non morti), se sono in comune con un Patrono neutrale o malvagio puoi convogliare energia negativa (effetto dannoso/curativo sui non morti).
+Se il tuo Patrono ha Polarità positiva puoi convogliare energia positiva (cura i viventi, danneggia i non morti). Se ha Polarità negativa puoi convogliare energia negativa (danneggia i viventi, cura i non morti). Se ha Polarità neutrale scegli, al momento dell'adesione, se canalizzare energia positiva o negativa; la scelta è permanente finché non cambi Patrono.
 
 Usabile un numero di volte al giorno pari alla (somma dei Tratti in comune con il Patrono)/2.
 
@@ -4372,6 +4344,16 @@ L'energia proviene dalle mani (non conta se ci sono guanti) e si applica con un 
 
 Tiro Salvezza su Tempra DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto. 2 Azioni.
 
+## Improvvisare
+
+| **Requisito**: | Competenza Armi 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
+| **Caratteristica**: | Destrezza o Saggezza |
+
+Qualsiasi oggetto che possa definirsi un'arma improvvisata per te non è improvvisata.
+Non soffri di penalità al colpire quando usi un arma improvvisata. Ottieni un +1 al danno quando usi un'arma improvvisata.
+
 ## Incanalare Energia
 
 | **Requisito**: | Imposizione delle mani, Competenza Magica 1, Tratti comuni 4 |
@@ -4385,6 +4367,32 @@ Tramite l'Imposizione delle mani crei un'aura istantanea nel raggio di 3 metri a
 Ogni volta che prendi questa Abilità, oltre la prima, aumenti il raggio di 1 metro e puoi escludere una creatura dall'effetto dell'aura.
 
 L'energia proviene dal tuo corpo e influenza te stesso e le creature intorno a te. Tiro Salvezza su Riflessi DC 10 + somma Tratti in comune con il Patrono + Saggezza per evitare l'effetto.  2 Azioni.
+
+## Incantatore da Combattimento
+
+| **Requisito**: | Competenza Magica 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
+| **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
+
+La **prima volta** che prendi questa Abilità quando sei Distratto puoi ignorare un dado nella Prova di Magia.
+
+La **seconda volta**, requisito Competenza Magica 6, che prendi questa Abilità, quando sei Distratto, puoi ignorare un ulteriore dado nella Prova di Magia.
+
+La **terza volta**, requisito Competenza Magica 12, che prendi questa Abilità, quando sei Distratto, puoi ignorare un ulteriore dado nella Prova di Magia.
+
+Questa Abilità si può usare nella Prova di Magia richiesta da Guerriero della Magia. Le capacità indicate si cumulano.
+
+## Incantatore Prudente
+
+| **Requisito**: | Competenza Magica 8 |
+| --- | --- |
+| **Tiri Salvezza**: | +2 Riflessi, +1 Tempra |
+| **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
+
+Quando una creatura ostile entra per la prima volta in uno spazio entro 1 metro da te puoi usare una Reazione per lanciare un trucchetto, entro 2 Azioni, senza potenziamenti o Prova di Magia.
+
+Questa Abilità non influisce sul fatto che si è comunque Distratti nel lancio di un successivo incantesimo.
 
 ## Infondere Coraggio
 
@@ -4473,6 +4481,17 @@ Attivare, mantenere o cambiare effetto dell'Abilità richiede 2 Azioni e dura fi
 
 Aumenti l'iniziativa di +1. L'Abilità può essere presa fino a 2 volte e il bonus si cumula.
 
+## La mia morte la tua morte
+
+| **Requisito**: | Competenza Armi 1, Forza 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
+| **Caratteristica**: | Carisma o Forza |
+
+Per ogni singolo avversario in combattimento puoi fare che il primo colpo a segno dello scontro causi un danno aggiuntivo pari al doppio di Competenza Armi. L'avversario guadagna un bonus al Tiro per Colpire ed al danno pari al valore della tua Competenza Armi al primo Tiro per Colpire effettuato entro la fine del round successivo.
+
+L'Abilità va dichiarata prima del Tiro per Colpire e dura fino all'inizio del prossimo round.
+
 ## La mia pelle
 
 | **Requisito**: | Competenza Armi 1 |
@@ -4485,17 +4504,6 @@ Hai un rapporto quasi simbiotico con la tua armatura.
 La **prima volta** che prendi questa Abilità la Difesa che ti concede l'armatura che porti aumenta di 1.
 
 La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6, la Difesa che ti concede l'armatura che porti aumenta di 2.
-
-## La mia morte la tua morte
-
-| **Requisito**: | Competenza Armi 1, Forza 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +2 Tempra, +1 Volontà |
-| **Caratteristica**: | Carisma o Forza |
-
-Per ogni singolo avversario in combattimento puoi fare che il primo colpo a segno dello scontro causi un danno aggiuntivo pari al doppio di Competenza Armi. L'avversario guadagna un bonus al Tiro per Colpire ed al danno pari al valore della tua Competenza Armi al primo Tiro per Colpire effettuato entro la fine del round successivo.
-
-L'Abilità va dichiarata prima del Tiro per Colpire e dura fino all'inizio del prossimo round.
 
 ## La mia Testa è più Dura
 
@@ -4560,7 +4568,7 @@ La **terza volta** che prendi questa Abilità il costante allenamento con lo scu
 
 Le tue magie sono straordinariamente efficaci.
 
-Scegli una Lista di Magia, ottieni un +1d6 alla Prova di Magia nel lancio di incantesimi da questa Lista. L'Abilità può essere presa più volte ma il totale deve essere inferiore od uguale a CM/4.
+Scegli una Lista di Magia, ottieni un +1d6 alla Prova di Magia nel lancio di incantesimi da questa Lista. La prima volta si prende a CM 5; poi puoi prenderla di nuovo quando CM/4 è almeno 2 (CM 8), poi almeno 3 (CM 12), 4 (CM 16), 5 (CM 20).
 
 ## Molla
 
@@ -4704,13 +4712,15 @@ La **seconda volta** che prendi questa Abilità sul medesimo terreno, specializz
 
 La **prima volta** che prendi questa Abilità la tua pelle è estremamente resistente. Subisci 1 danno in meno quando colpito da armi taglienti.
 
-La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6, subisci 1 danno in meno quando colpito da armi taglienti, perforanti, contundenti. Riduci di 1 la condizione di Sanguinamento quando acquisita.
+La **seconda volta** che prendi questa Abilità, requisito Competenza Armi 6, subisci 1 danno in meno quando colpito da armi taglienti, perforanti, contundenti. Quando acquisisci la condizione Sanguinamento, riducila di 1.
 
-La **terza volta** che prendi questa Abilità, requisito Competenza Armi 12 e Costituzione 3, subisci 1 danno in meno quando colpito da armi taglienti, perforanti o contundenti. Subisci 1 danno in meno quando colpito da magia. Riduci di 1 la condizione di Sanguinamento quando acquisita.
+La **terza volta** che prendi questa Abilità, requisito Competenza Armi 12 e Costituzione 3, subisci 1 danno in meno quando colpito da armi taglienti, perforanti o contundenti. Subisci 1 danno in meno quando colpito da magia. Quando acquisisci la condizione Sanguinamento, riducila di 1.
 
-La **quarta volta** che prendi questa Abilità, requisito Competenza Armi 16, ignori 1 tiro critico quando colpito da armi taglienti, perforanti o contundenti e subisci 1 danno in meno quando colpito da magia. Riduci di 1 la condizione di Sanguinamento quando acquisita.
+La **quarta volta** che prendi questa Abilità, requisito Competenza Armi 16, ignori 1 tiro critico quando colpito da armi taglienti, perforanti o contundenti e subisci 1 danno in meno quando colpito da magia. Quando acquisisci la condizione Sanguinamento, riducila di 1.
 
-I bonus sono cumulativi.
+I bonus sono cumulativi: al 4° grado la DR è 3 contro armi taglienti, 2 contro armi perforanti o contundenti e 2 contro incantesimi di danno.
+
+Un'arma magica infligge il suo normale danno tagliente, perforante o contundente e si applica la DR contro le armi; la DR contro la magia si applica solo ai danni causati da incantesimi.
 
 ## Percettivo
 
@@ -4763,18 +4773,7 @@ Hai una straordinaria capacità di imparare le lingue. Per ogni punto attribuito
 
 La tua fede nel Patrono non conosce limiti né crolli di fiducia.
 
-1 volta al giorno per singola prova, come Reazione prima di effettuare la prova, usi come modificatore positivo unico la somma dei Tratti comuni con il Patrono. Puoi usare questa Abilità su Tiri Salvezza, Tiri per Colpire e prove di competenze.
-
-Se riescono tutte e tre le prove è probabile che ci sia una Manifestazione del Patrono.
-
-## Primo Sangue
-
-| **Requisito**: | Competenza Armi 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
-| **Caratteristica**: | Intelligenza o Carisma |
-
-Il primo Tiro per Colpire nel giorno ha un bonus di +1d6 e causa un tiro critico se colpisce.
+Puoi usare questa Abilità una volta al giorno su un Tiro Salvezza, una volta su un Tiro per Colpire e una volta su una prova di competenza: sono tre usi separati. Come Reazione, prima di effettuare la prova, usi come modificatore positivo unico la somma dei Tratti comuni con il Patrono. Se nello stesso giorno riescono tutte e tre le prove è probabile che ci sia una Manifestazione del Patrono.
 
 ## Precisino
 
@@ -4787,6 +4786,15 @@ La **prima volta** che prendi questa Abilità quando scagli un proiettile diminu
 
 La **seconda volta** che prendi questa Abilità, Competenza Armi 4, riduci la penalità data da Copertura di 4.
 
+## Primo Sangue
+
+| **Requisito**: | Competenza Armi 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
+| **Caratteristica**: | Intelligenza o Carisma |
+
+Il primo Tiro per Colpire nel giorno ha un bonus di +1d6 e causa un tiro critico se colpisce.
+
 ## Prodigioso
 
 | **Requisito**: | Competenza Magica 3 |
@@ -4796,7 +4804,7 @@ La **seconda volta** che prendi questa Abilità, Competenza Armi 4, riduci la pe
 
 La tua mente non ha confini. Puoi apprendere due incantesimi presenti sul tuo Tomo di Magia, sempre rispettando i limiti del massimo livello di incantesimi lanciabile.
 
-L'Abilità può essere presa più volte e il totale deve essere pari o inferiore a CM/4.
+La prima volta si prende a CM 3; poi puoi prenderla di nuovo quando CM/4 è almeno 2 (CM 8), poi almeno 3 (CM 12), 4 (CM 16), 5 (CM 20).
 
 ## Proseguire
 
@@ -4850,15 +4858,6 @@ Se colpisci, oltre al danno e un danno critico, l'avversario che deve essere mas
 
 Se fallisce il Tiro Salvezza in maniera critica subisce un ulteriore danno critico.
 
-## Questo è il mio pugnale
-
-| **Requisito**: | Competenza Armi 1 |
-| --- | --- |
-| **Tiri Salvezza**: | +2 Tempra, +1 Riflessi |
-| **Caratteristica**: | Destrezza o Carisma |
-
-Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
-
 ## Questa è la mia arma!
 
 | **Requisito**: | Competenza Armi 1 |
@@ -4870,6 +4869,15 @@ La **prima volta** che prendi questa Abilità ogni volta che colpisci il medesim
 
 La **seconda volta** che prendi questa Abilità, Competenza Armi 5, puoi mancare l'avversario con un colpo e non perdere i benefici.
 
+## Questo è il mio pugnale
+
+| **Requisito**: | Competenza Armi 1 |
+| --- | --- |
+| **Tiri Salvezza**: | +2 Tempra, +1 Riflessi |
+| **Caratteristica**: | Destrezza o Carisma |
+
+Quando fai un danno critico con il tuo pugnale sommi un ulteriore danno critico. L'Abilità è usabile 1 volta per avversario e si applica automaticamente al primo danno critico effettuato.
+
 ## Radici magiche
 
 | **Requisito**: | Competenza Magica 1 |
@@ -4878,6 +4886,19 @@ La **seconda volta** che prendi questa Abilità, Competenza Armi 5, puoi mancare
 | **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
 
 Finché sei influenzato da un tuo incantesimo, utilizzando un'Azione la tua arma guadagna un +1 al colpire ed al danno e si considera un'arma magica fino alla fine del round.
+
+## Raggio Psichico
+
+| **Requisito**: | Colpo Psichico, Saggezza 3, Competenza Armi 5 |
+| --- | --- |
+| **Tiri Salvezza**: | +2 Riflessi, +1 Volontà |
+| **Caratteristica**: | Saggezza o Destrezza |
+
+La **prima volta** che prendi questa Abilità puoi effettuare un attacco a distanza entro 9 metri usando l'Energia Psichica. L'Attacco, a Tocco, causa 1d6 di danno da forza per punto Psichico speso focalizzato sul danno.
+
+È possibile focalizzare uno o più punti Psichici per aumentare la distanza ogni volta di 9 metri. Non puoi usare un numero di punti Chi totali (per distanza e danno) superiore alla Saggezza.
+
+La **seconda volta** che prendi questa Abilità requisito Saggezza 3, Competenza Armi 9, puoi utilizzare fino al doppio del tuo punteggio in Saggezza per potenziare il Raggio Psichico.
 
 ## Rappresaglia
 
@@ -5075,6 +5096,15 @@ Il bonus può essere usato al Tiro per Colpire, Tiri Salvezza causati dall'avver
 
 La capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prendi questa Abilità puoi scegliere un ambiente diverso (vedi Abilità Passo Sicuro di cui hai preso l'Abilità. La difficoltà della prova di Seguire Tracce per inseguirti è aumentata di 10.
 
+## Sfortunato
+
+| **Requisito**: | Fortunato, almeno 6 punti nella somma dei Tratti |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
+| **Caratteristica**: | una caratteristica a scelta |
+
+Una volta al giorno puoi trasformare un 6 tirato dal Narratore (Tiri per Colpire, Prove Competenze, Tiri Salvezza) in un 1. L'Abilità si può dichiarare una volta venuto a sapere del tiro effettuato.
+
 ## Sifone Nero
 
 | **Requisito**: | Competenza magia 6, Seguace o Devoto di Tazher, punti Tratto in comune 6 |
@@ -5085,15 +5115,6 @@ La capacità di non lasciare impronte nell'ambiente scelto. Ogni volta che prend
 Quando lanci un incantesimo che abbia durata istantanea e che causi danno ai Punti Ferita a uno o più soggetti, aumentando di metà, arrotondato per eccesso, i Punti Magia usati nell'incantesimo, recuperi un ammontare di Punti Ferita pari a metà di quelli persi dalla creatura che ne ha persi di più.
 
 Il tempo di lancio dell'incantesimo aumenta a 3 Azioni.
-
-## Sfortunato
-
-| **Requisito**: | Fortunato, almeno 6 punti nella somma dei Tratti |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Tempra, +1 Volontà |
-| **Caratteristica**: | una caratteristica a scelta |
-
-Una volta al giorno puoi trasformare un 6 tirato dal Narratore (Tiri per Colpire, Prove Competenze, Tiri Salvezza) in un 1. L'Abilità si può dichiarare una volta venuto a sapere del tiro effettuato.
 
 ## Spara e Scappa
 
@@ -5156,7 +5177,7 @@ La **seconda volta** che prendi questa Abilità, requisito Intelligenza 2, Compe
 
 Quando usi questa Abilità puoi dichiarare di usare la Tempesta di Furia come tua unica Azione (3 Azioni).
 
-Fai un unico Tiro per Colpire con -1d6 e se colpisci con il tuo attacco naturale causi un numero di danno critico pari a Lista Pugno Vuoto/4.
+Fai un unico Tiro per Colpire con -1d6. Se colpisci con il tuo attacco naturale, oltre al danno normale causi un numero di dadi di danno critico da 1d6 ciascuno pari a Lista Pugno Vuoto/4 arrotondato per difetto (Pugno Vuoto 7: 1; 8-11: 2; 12-15: 3; 16-19: 4; 20: 5). Questi dadi si sommano agli eventuali altri critici.
 
 ## Testa cava
 
@@ -5211,7 +5232,7 @@ Se nel round esegui almeno un attacco, questo ha una penalità base di -5 e puoi
 | **Tiri Salvezza**: | +1 in due Tiri Salvezza a propria scelta |
 | **Caratteristica**: | Modificatore di caratteristica per incantesimi o a scelta |
 
-Il tuo modificatore di caratteristica per incantesimi ha un +1 al valore per determinare gli effetti dell'incantesimo, Punti Magia, incantesimi conosciuti e livello massimo di incantesimo lanciabile.
+Il tuo modificatore di caratteristica per incantesimi ha un +1 al valore per determinare gli effetti dell'incantesimo, Punti Magia, incantesimi conosciuti e livello massimo di incantesimo lanciabile. Il +1 al modificatore si applica ai calcoli in cui il modificatore è previsto.
 
 ## Un braccio, un'arma
 
@@ -5246,19 +5267,6 @@ La **seconda volta** il bonus al Tiro per Colpire per Incantesimi diventa +1 per
 
 Assegnate un punto a Competenza Armi oppure Competenza Magica. Questa Abilità può essere presa al massimo 2 volte.
 
-## Uno con l'arco
-
-| **Requisito**: | Competenza Armi 4 |
-| --- | --- |
-| **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
-| **Caratteristica**: | Destrezza o Costituzione |
-
-A discapito del nome questa Abilità si applica a tutte le armi che lanciano proiettili.
-
-La **prima volta** che prendi questa Abilità la penalità per scagliare proiettili mentre si usa un'Arma da Lancio sotto minaccia diventa -2.
-
-La **seconda volta** che prendi questa Abilità, Destrezza 3 e Competenza Armi 7, le penalità vengono annullate.
-
 ## Un solo credo
 
 | **Requisito**: | Competenza Magica 2 |
@@ -5272,13 +5280,13 @@ La **prima volta** che prendi questa Abilità devi scegliere una Lista di Magia 
 
 Nella lista *preferita* il costo di lancio degli incantesimi diminuisce di 1 rimanendo un costo minimo di 1. Per le 3 Liste di Magia *opposte* il costo di lancio degli incantesimi aumenta di 1.
 
-La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia *preferita* le Prove di Magia vengono effettuate con +4 aggiuntivo e puoi scartare 1 dado dalla stessa.
+La **seconda volta** che prendi questa Abilità, requisito Competenza Magica 6, nella Lista di Magia *preferita* le Prove di Magia vengono effettuate con +2 aggiuntivo e puoi scartare 1 dado dalla stessa.
 
-La **terza volta** che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia *preferita* quando fai una Prova di Magia conti un +8 in più rispetto a quanti tirati.
+La **terza volta** che prendi questa Abilità, requisito Competenza Magica 11, nella Lista di Magia *preferita* quando fai una Prova di Magia conti un +4 in più rispetto a quanti tirati.
 
 La **quarta volta** che prendi questa Abilità, requisito Competenza Magica 14, nella Lista di Magia *preferita* puoi ritirare una volta la Prova di Magia in caso di fallimento critico.
 
-La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogniqualvolta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successi Critici Magici.
+La **quinta volta** che prendi questa Abilità, requisito Competenza Magica 17, nella Lista di Magia *preferita* ogni qualvolta devi tirare una Prova di Magia puoi non tirare e considerare di aver fatto due Successi Critici Magici.
 
 La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, nella Lista di Magia *preferita* gli incantesimi inferiori al 4 livello non costano Punti Magia nella formulazione base.
 
@@ -5288,6 +5296,19 @@ La **sesta volta** che prendi questa Abilità, requisito Competenza Magica 20, n
 - L'Abilità *Un solo credo* non può essere presa assieme a: Figlio Unico, Magie Potenti, Specialista.
 - Se usi l'Abilità *Un solo credo* non puoi usare le Abilità di Lista .
 - Tutte le capacità elencate nell'Abilità sono cumulative.
+
+## Uno con l'arco
+
+| **Requisito**: | Competenza Armi 4 |
+| --- | --- |
+| **Tiri Salvezza**: | +1 Tempra, +1 Riflessi |
+| **Caratteristica**: | Destrezza o Costituzione |
+
+A discapito del nome questa Abilità si applica a tutte le armi che lanciano proiettili.
+
+La **prima volta** che prendi questa Abilità la penalità per scagliare proiettili mentre si usa un'Arma da Lancio sotto minaccia diventa -2.
+
+La **seconda volta** che prendi questa Abilità, Destrezza 3 e Competenza Armi 7, le penalità vengono annullate.
 
 ## Volonta' Ferrea
 
@@ -5324,46 +5345,44 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 | **CA 2:** \featlink{Allungo}, \featlink{Artista dell'Arma}, \featlink{Combattimento con due armi} (Destrezza 2, Forza 1), \featlink{Daredevil} (Destrezza 1), \featlink{Difesa pronta}, \featlink{Fare Infuriare} (Carisma o Forza 2), \featlinktext{Freccia chiamata, freccia consegnata}{Freccia chiamata freccia consegnata}, \featlink{Iaijutsu}, \featlink{Opportunista}, \featlink{Precisino}, \featlink{Tiro Rapido} (Destrezza 3, \featlink{Tiro Preciso}), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} |
 | **CA 3:** \featlink{Colpo Furtivo}, \featlink{Lesto}, \featlink{Occhio Clinico}, \featlink{Occhio di Falco}, \featlink{Parata}, \featlink{Spara e Scappa} (Lista Balestre 3), \featlink{Stai giù!} |
 | **CA 4:** \featlink{Doppia porzione} (\featlink{Combattimento con due armi}), \featlink{Ho detto CADI!}, \featlink{Testa cava} (Lista Balestre 4), \featlink{Uno con l'arco}, \featlink{Ferocia} (2), \featlink{Precisino} (2), \featlink{Schivata prodigiosa} (2) |
-| **CA 5:** \featlink{Colpo Mortale}, \featlink{Forgiato nella furia}, \featlink{Questa è la mia arma!} (2), \featlink{Schivare trappole} (2) |
-| **CA 6:** \featlink{Danno Coordinato} (Saggezza 2), \featlink{Lesto} (2), \featlink{Proseguire} (2), \featlink{Armato} (2), \featlink{Colpo Furtivo} (2), \featlink{La mia pelle} (2), \featlink{Iaijutsu} (2), \featlink{Parata} (2), \featlink{Seconda pelle} (2), \featlink{Tattico} (2, Intelligenza 2) |
+| **CA 5:** \featlink{Colpo Mortale}, \featlink{Forgiato nella furia}, \featlink{Questa è la mia arma!} (2), \featlink{Schivare trappole} (2), \featlink{Artista dell'Arma} (2), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} (2) |
+| **CA 6:** \featlink{Danno Coordinato} (Saggezza 2), \featlink{Lesto} (2), \featlink{Proseguire} (2), \featlink{Armato} (2), \featlink{Colpo Furtivo} (2), \featlink{La mia pelle} (2), \featlink{Iaijutsu} (2), \featlink{Parata} (2), \featlink{Pelle Coriacea} (2), \featlink{Seconda pelle} (2), \featlink{Tattico} (2, Intelligenza 2) |
 | **CA 7:** \featlink{Ferocia} (3), \featlink{Uno con l'arco} (2, Destrezza 3) |
 | **CA 8:** \featlink{Danno Coordinato} (2, Intelligenza 2), \featlink{Schivata prodigiosa} (3, Destrezza 4) |
-| **CA 9:** \featlink{Parata} (3), \featlink{Artista dell'Arma} (2), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} (2) |
+| **CA 9:** \featlink{Parata} (3), \featlink{Artista dell'Arma} (3), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} (3) |
 | **CA 10:** \featlink{Colpo Furtivo} (3), \featlink{Segugio} (2, Saggezza 2) |
 | **CA 11:** \featlink{Ferocia} (4), \featlink{Seconda pelle} (3) |
 | **CA 12:** \featlink{Attacco Turbinante} (Intrattenere 3), \featlink{Colpo Indebolente} (\featlinktext{Colpo Furtivo}{Colpo furtivo} 3), \featlink{Combattimento con due armi} (2, Destrezza 3), \featlink{Colpo Furtivo} (4), \featlink{Iaijutsu} (3), \featlink{Pelle Coriacea} (3, Costituzione 3) |
-| **CA 13:** \featlink{Artista dell'Arma} (3), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} (3) |
+| **CA 13:** \featlink{Artista dell'Arma} (4), \featlinktext{Un braccio, un'arma}{Un braccio un'arma} (4) |
 | **CA 15:** \featlink{Attacco Turbinante} (2, Intrattenere 5) |
 | **CA 16:** \featlink{Segugio} (3, Saggezza 3), \featlink{Pelle Coriacea} (4) |
 | **CA 18:** \featlink{Colpo Paralizzante} (\featlink{Colpo Indebolente}, \featlinktext{Colpo Furtivo}{Colpo furtivo} 4), \featlink{Combattimento con due armi} (3) |
 | **{Competenza Magica**} |
-| **CM 1:** \featlink{Adepto della Magia} (ripetibile CM/2), \featlinktext{Animaletto / Famiglio}{Animaletto/Famiglio}, \featlink{Dattilografo}, \featlink{Decifrare scritti magici}, \featlink{Distillare pozioni}, \featlink{Incantatore da Combattimento}, \featlink{Occhi della magia}, \featlink{Radici magiche}, \featlink{Sapiente} (solo creazione), \featlink{Batteria Estesa} (\featlink{Adepto della Magia}), \featlink{Un colpo un morto} (\featlink{Adepto della Magia}), \featlink{Tutt'uno con la magia} (\featlink{Adepto della Magia}), \featlink{Fedele} (Devoto, Tratti 2+, ripetibile Tratti/3), \featlink{Imposizione delle mani} (Devoto/Seguace, Tratti 3+), \featlink{Il Patrono è con me} (Devoto, Tratti 2+), \featlink{Il Patrono è la mia Arma} (Seguaci, Tratti 1+), \featlink{Scacciare i non morti} (Devoto/Seguace, Tratti 2+), \featlink{Potere del Patrono} (Devoto, Tratti 1+), \featlink{Figlio Unico} (Costituzione 0), \featlink{Incanalare Energia} (\featlink{Imposizione delle mani}, Tratti 4+) |
-| **CM 2:** \featlink{Concentrato} (ripetibile CM/4), \featlink{Un solo credo}, \featlink{Animalia} (1) - Bestie (Seguace/Devoto Efrem/Shayalia), \featlink{Sangue Puro} (\featlink{Animalia}, Devoto Efrem/Shayalia) |
-| **CM 3:** \featlink{Batteria Magica} (ripetibile CM/3), \featlink{Elementalista}, \featlink{Prodigioso} (ripetibile CM/4), \featlink{Specialista} (ripetibile), \featlink{Figlio Unico} (2, Tratto comune 3) |
-| **CM 4:** \featlink{Animalia} (2) - Piante e Melme, \featlink{Imposizione delle mani} (2, Tratti 4), \featlink{Infondere Energia Magica} (2) |
-| **CM 5:** \featlink{Magie Potenti} (ripetibile CM/4), \featlink{Il Patrono è la mia Arma} (2, Tratti 5, CA 1), \featlink{Figlio Unico} (3, Tratto comune 5) |
-| **CM 6:** \featlink{Creare Oggetti Magici} - livello 3, \featlink{Dadi Truccati}, \featlink{Sifone Nero} (Seguace/Devoto Tazher, Tratti 6), \featlink{Elementalista} (2), \featlink{Il Patrono è con me} (2, Tratti 6), \featlink{Imposizione delle mani} (3, Tratti 6), \featlink{Un solo credo} (2), \featlink{Incantatore da Combattimento} (2), \featlink{Figlia di Shayalia} (2, Tratti comuni 6), \featlink{Forma Elementale} (Seguace/Devoto, 3 incantesimi 2 Liste Elementali) |
+| **CM 1:** \featlink{Adepto della Magia} (ripetibile CM/2), \featlinktext{Animaletto / Famiglio}{Animaletto/Famiglio}, \featlink{Dattilografo}, \featlink{Decifrare scritti magici}, \featlink{Distillare pozioni}, \featlink{Incantatore da Combattimento}, \featlink{Occhi della magia}, \featlink{Radici magiche}, \featlink{Sapiente} (solo creazione), \featlink{Batteria Estesa} (\featlink{Adepto della Magia}), \featlink{Un colpo un morto} (\featlink{Adepto della Magia}), \featlink{Tutt'uno con la magia} (\featlink{Adepto della Magia}), \featlink{Fedele} (Devoto, Tratti 2+; gradi: Tratti/3), \featlink{Imposizione delle mani} (Devoto/Seguace, Tratti 3+; gradi: Tratti 4/6/8/10/12), \featlink{Incanalare Energia} (\featlink{Imposizione delle mani}, Tratti 4+) |
+| **CM 2:** \featlink{Concentrato} (ripetibile CM/4), \featlink{Un solo credo}, \featlink{Animalia} (1) - Bestie (Seguace/Devoto Efrem/Shayalia) |
+| **CM 3:** \featlink{Batteria Magica} (ripetibile CM/3), \featlink{Elementalista}, \featlink{Prodigioso} (ripetibile CM/4), \featlink{Specialista} (ripetibile) |
+| **CM 4:** \featlink{Animalia} (2) - Piante e Melme, \featlink{Infondere Energia Magica} (2) |
+| **CM 5:** \featlink{Magie Potenti} (ripetibile CM/4) |
+| **CM 6:** \featlink{Creare Oggetti Magici} - livello 3, \featlink{Dadi Truccati}, \featlink{Sifone Nero} (Seguace/Devoto Tazher, Tratti 6), \featlink{Elementalista} (2), \featlink{Un solo credo} (2), \featlink{Incantatore da Combattimento} (2), \featlink{Forma Elementale} (Seguace/Devoto, 3 incantesimi 2 Liste Elementali) |
 | **CM 7:** \featlink{Infondere Energia Magica Superiore} (2) |
-| **CM 8:** \featlink{Incantatore Prudente}, \featlink{Infondere Energia Magica} (3), \featlink{Imposizione delle mani} (4, Tratti 8), \featlink{Sangue Puro} (2), \featlink{Armatura del Devoto} (3, Tratto singolo 8) |
-| **CM 9:** \featlink{Figlio Unico} (4, Tratto comune 9) |
-| **CM 10:** \featlink{Animalia} (3) - Elementali, \featlink{Imposizione delle mani} (5, Tratti 10), \featlink{Il Patrono è la mia Arma} (3, Tratti 10, CA 4), \featlink{Il Patrono è la mia Arma} (4, Tratti 10, CA 5) |
+| **CM 8:** \featlink{Incantatore Prudente}, \featlink{Infondere Energia Magica} (3), \featlink{Sangue Puro} (2) |
+| **CM 10:** \featlink{Animalia} (3) - Elementali |
 | **CM 11:** \featlink{Forma Elementale} (2), \featlink{Un solo credo} (3) |
-| **CM 12:** \featlink{Creare Oggetti Magici} (2) - livello 5, \featlink{Dadi Truccati} (2), \featlink{Il Patrono è con me} (3, Tratti 12), \featlink{Imposizione delle mani} (6, Tratti 12), \featlink{Incantatore da Combattimento} (3), \featlink{Sangue Puro} (3), \featlink{Figlia di Shayalia} (3, Tratti comuni 12), \featlink{Armatura del Devoto} (4, Tratto singolo 12) |
-| **CM 13:** \featlink{Il Patrono è la mia Arma} (5, Tratti 13, CA 6) |
+| **CM 12:** \featlink{Creare Oggetti Magici} (2) - livello 5, \featlink{Dadi Truccati} (2), \featlink{Incantatore da Combattimento} (3), \featlink{Sangue Puro} (3) |
 | **CM 14:** \featlink{Forma Elementale} (3), \featlink{Un solo credo} (4) |
-| **CM 16:** \featlink{Creare Oggetti Magici} (3) - livello 8, \featlink{Animalia} (4) - Mostruosità, \featlink{Il Patrono è la mia Arma} (6, Tratti 16) |
+| **CM 16:** \featlink{Creare Oggetti Magici} (3) - livello 8, \featlink{Animalia} (4) - Mostruosità |
 | **CM 17:** \featlink{Un solo credo} (5) |
 | **CM 18:** \featlink{Creare Oggetti Magici} (4) - livello 9 |
 | **CM 20:** \featlink{Un solo credo} (6) |
 | **{Abilità miste (CA/CM)**} |
-| **CA 1, CM 1:** \featlink{Lo scudo è mio amico}, \featlink{Energia Psichica}, \featlink{Armatura della Montagna Incantata} (Lista Pugno Vuoto 1, Costituzione 2, Saggezza 1) |
+| **CA 1, CM 1:** \featlink{Lo scudo è mio amico}, \featlink{Energia Psichica} |
 | **CA 1, CM 2:** \featlink{Infondere Energia Magica} |
 | **CA 2, CM 2:** \featlink{Guerriero della Magia} |
 | **CA 3, CM 3:** \featlink{Guerriero della Magia} (2) |
 | **CA 4, CM 4:** \featlink{Energia Psichica} (2) |
 | **CA 4, CM 6:** \featlink{Infondere Energia Magica Superiore} |
 | **CA 6, CM 9:** \featlink{Guerriero della Magia} (3) |
-| **CA 9, CM 12:** \featlink{Guerriero della Magia} (4) |
+| **CA 8, CM 10:** \featlink{Guerriero della Magia} (4) |
 
 **Catene derivate (richiedono abilità precedenti):**
 - \featlink{Colpo Psichico} (da \featlink{Energia Psichica}, Destrezza 1): livelli con CA 2, CA 3, CA 7 (Saggezza 4)
@@ -5375,6 +5394,12 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 | **\featlink{Armatura del Devoto**:} Tratto singolo 4 (livello 1), Tratto singolo 6 (livello 2), Tratto singolo 8 (livello 3), Tratto singolo 12 (livello 4), essere Devoto o Seguace |
 | **\featlink{Figlia di Shayalia**:} Devoto/Seguace Shayalia (livello 1), Tratti comuni 6 (livello 2), Tratti comuni 12 (livello 3), \featlink{Animalia} preso 4 volte (livello 4) |
 | **\featlink{Figlio di Tazher**:} Devoto/Seguace Tazher, Tratti 10 |
+| **\featlink{Figlio Unico**:} Costituzione 0 (livello 1), Tratto 3 (livello 2), Tratto 5 (livello 3), Tratto 9 (livello 4) |
+| **\featlink{Il Patrono è con me**:} Devoto, Tratti 2 (livello 1), Tratti 6 (livello 2), Tratti 12 (livello 3) |
+| **\featlink{Il Patrono è la mia Arma**:} Seguace, Tratti 1 (livello 1), Tratti 5 + CA 1 (livello 2), Tratti 10 + CA 4 (livello 3), Tratti 10 + CA 5 (livello 4), Tratti 13 + CA 6 (livello 5), Tratti 16 (livello 6) |
+| **\featlink{Potere del Patrono**:} Devoto, Tratti 1 |
+| **\featlink{Sangue Puro**:} Animalia, Devoto Efrem/Shayalia (livello 1), CM 8 (livello 2), CM 12 (livello 3) |
+| **\featlink{Scacciare i non morti**:} Devoto/Seguace, Tratti 2 |
 | **{Liste d'armi specifiche**} |
 
 **Lista Pugno Vuoto:**
@@ -5407,12 +5432,12 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 | **Costituzione -1:** \featlink{Robusto} (2 livelli) |
 | --- |
-| **Costituzione 0:** \featlink{Finta Morte}, \featlink{Guarigione accelerata} (3 livelli), \featlink{Recupero}, \featlink{Resistenza della pietra} (4 livelli) |
+| **Costituzione 0:** \featlink{Finta Morte}, \featlink{Figlio Unico} (4 livelli: 2° Tratto 3, 3° Tratto 5, 4° Tratto 9), \featlink{Guarigione accelerata} (3 livelli), \featlink{Recupero}, \featlink{Resistenza della pietra} (4 livelli) |
 | **Costituzione 1:** \featlink{Colosso} (4 livelli), \featlinktext{Immunita' ai veleni}{Immunità ai veleni} (3 livelli), \featlink{Rinoceronte} (3 livelli) |
 | **Costituzione 2:** \featlink{Pelle Coriacea} (4 livelli, poi serve CA) |
-| **Destrezza 1:** \featlink{Riflessi fulminei} (4 livelli), \featlink{Iniziativa migliorata} (2 volte), \featlink{Passo rapido} (ripetibile) |
-| **Destrezza 2:** \featlink{Giocoliere} |
-| **Destrezza 3:** \featlink{Schivare trappole} (2 livelli, poi serve CA 5) |
+| **Destrezza 1:** \featlink{Riflessi fulminei} (4 livelli), \featlink{Iniziativa migliorata} (Int o Des 1, 2 volte), \featlink{Passo rapido} (ripetibile) |
+| **Destrezza 2:** \featlink{Giocoliere}, \featlink{Schivare trappole} (2 livelli, poi serve CA 5) |
+| **Destrezza 3:** \featlink{Schivata prodigiosa} (base; 2° CA 4; 3° CA 8, Des 4) |
 | **Forza 0:** \featlink{Molla} (2 livelli) |
 
 **Caratteristiche Mentali**
@@ -5452,645 +5477,649 @@ Il potere senza saggezza è la più pericolosa delle combinazioni. (Elric di Mel
 
 Per facilitare la transizione da chi viene da altri giochi di ruolo con classi sono qui suddivise le Abilità per le classi più canoniche. Sono chiaramente solo indicazioni, in OBSS il personaggio può essere costruito come meglio si preferisce e come la storia che vive lo sta istruendo.
 
+Per ogni Abilità è indicato il requisito del primo grado; i requisiti dei gradi successivi sono nella scheda dell'Abilità e nell'Albero Abilità.
+
 ### Guerriero
 
 | Allungo *(CA 2)* |
 | Arma Focalizzata *(CA 1)* |
-| Armato *(For 3, CA 1/6)* |
-| Artista dell'Arma *(CA 2/9/13)* |
-| Attacco Turbinante *(CA 12, Int 3 / CA 15, Int 5)* |
-| Colosso *(Cos 3)* |
+| Armato *(For 3, CA 1)* |
+| Artista dell'Arma *(CA 2)* |
+| Attacco Turbinante *(CA 12, Intrattenere 3)* |
+| Colosso *(Cos 1; 4° Cos 3)* |
 | Colpi Poderosi *(CA 1)* |
 | Colpo Mortale *(CA 5)* |
-| Combattere alla Cieca *(Nessun requisito)* |
-| Combattimento con due armi *(Des 2, For 1, CA 2/12/18)* |
-| Conoscenza istintiva *(Nessun requisito)* |
+| Combattere alla Cieca *(Cons 2; poi 3, 5)* |
+| Combattimento con due armi *(Des 2, For 1, CA 2)* |
+| Conoscenza istintiva *(Conoscenza 1)* |
 | Daredevil *(CA 2, Des 1)* |
 | Difesa pronta *(CA 2)* |
-| Duro a morire *(Cos 2)* |
-| Ferocia *(CA 1/7/11)* |
-| Flagello Danzante *(CA 1, Lista Palle rotanti)* |
+| Duro a morire *(Nessun requisito)* |
+| Ferocia *(CA 1/4/7/11)* |
+| Flagello Danzante *(CA 1, usare un'arma della Lista Palle rotanti)* |
 | Forgiato nella furia *(CA 5)* |
 | Furia *(CA 1)* |
 | Guarigione accelerata *(Cos 0)* |
 | Ho detto CADI! *(CA 4)* |
-| Iaijutsu *(CA 2/6/12)* |
-| Iniziativa migliorata *(Nessun requisito)* |
+| Iaijutsu *(CA 2)* |
+| Iniziativa migliorata *(Int o Des 1)* |
 | La mia Testa è più Dura *(CA 1)* |
 | La mia morte la tua morte *(CA 1, For 1)* |
-| La mia pelle *(CA 1/6)* |
-| Lesto *(CA 3/6)* |
-| Parata *(CA 3/6/9 o PV 2/4/6)* |
-| Pelle Coriacea *(CA 12, Cos 3 / CA 16)* |
+| La mia pelle *(CA 1)* |
+| Lesto *(CA 3)* |
+| Parata *(CA 3 oppure Pugno Vuoto 2)* |
+| Pelle Coriacea *(Cos 2; 2° CA 6; 3° CA 12 + Cos 3; 4° CA 16)* |
 | Persona veramente malvagia *(CA 1)* |
 | Più sono grossi, più fanno rumore quando cadono *(CA 1)* |
 | Primo Sangue *(CA 1)* |
-| Proseguire *(CA 1/6)* |
-| Questa è la mia arma! *(CA 1/5)* |
-| Recupero *(Cos 1)* |
-| Resistenza della pietra *(Nessun requisito)* |
-| Riflessi fulminei *(Nessun requisito)* |
-| Rinoceronte *(Cos 3)* |
-| Robusto *(Nessun requisito)* |
-| Seconda pelle *(CA 1/6/11)* |
+| Proseguire *(CA 1)* |
+| Questa è la mia arma! *(CA 1)* |
+| Recupero *(Cos 0)* |
+| Resistenza della pietra *(Cos 0)* |
+| Riflessi fulminei *(Des 1)* |
+| Rinoceronte *(Cos 1)* |
+| Robusto *(Cos -1)* |
+| Seconda pelle *(CA 1)* |
 | Stai giù! *(CA 3)* |
-| Un braccio, un'arma *(CA 2/9/13)* |
+| Un braccio, un'arma *(CA 2)* |
 | Un solo corpo, una sola mente, un solo spirito *(Nessun requisito)* |
-| Volonta' Ferrea *(Sag 2)* |
+| Volonta' Ferrea *(Sag 0)* |
 
 ### Ladro
 
-| Colpo Furtivo *(CA 3/6/10/12)* |
+| Colpo Furtivo *(CA 3)* |
 | Colpo Indebolente *(Colpo furtivo 3, CA 12)* |
-| Colpo Paralizzante *(Colpo Indebolente, CA 18)* |
+| Colpo Paralizzante *(Colpo Indebolente, Colpo Furtivo 4, CA 18)* |
 | Estrazione rapida *(CA 1)* |
 | Difesa pronta *(CA 2)* |
-| Fare Infuriare *(CA 2, Car/For 2)* |
+| Fare Infuriare *(CA 2 e Car o For 2)* |
 | Freccia chiamata, freccia consegnata *(CA 2)* |
 | Giocoliere *(Des 2)* |
 | Improvvisare *(CA 1)* |
-| Lesto *(CA 3/6)* |
+| Lesto *(CA 3)* |
 | Occhio Clinico *(CA 3)* |
 | Opportunista *(CA 2)* |
-| Passo Felpato *(Des 1)* |
-| Percettivo *(Sag 1)* |
+| Passo Felpato *(Furtività 1; 2° Des 3 + Furtività 8)* |
+| Percettivo *(Sag 0)* |
 | Questo è il mio pugnale *(CA 1)* |
-| Schivare trappole *(CA 5)* |
-| Schivata prodigiosa *(CA 4/8, Des 4)* |
+| Schivare trappole *(Des 2; 2° CA 5)* |
+| Schivata prodigiosa *(Des 3; 2° CA 4; 3° CA 8 + Des 4)* |
 | Toccata e fuga *(Des 1, CA 1)* |
 
 ### Paladino
 
-| Armatura del Devoto *(Devoto, Tratti 3+)* |
-| Il Patrono è la mia Arma *(Seguace, Tratti 1+, CM 1)* |
-| Imposizione delle mani *(Devoto/Seguace, Tratti 3+, CM 1)* |
-| Incanalare Energia *(Imposizione delle mani, Tratti 4+, CM 1)* |
+| Armatura del Devoto *(Devoto/Seguace, Tratto singolo 4; gradi 6/8/12)* |
+| Il Patrono è la mia Arma *(Seguace, Tratti 1; gradi Tratti 5/10/13/16, CA 1/4/5/6)* |
+| Imposizione delle mani *(CM 1, Devoto/Seguace, Tratti 3; gradi Tratti 4/6/8/10/12)* |
+| Incanalare Energia *(CM 1, Imposizione, Tratti 4)* |
 | Lo scudo è mio amico *(CA 1, CM 1)* |
-| Muro mentale *(Sag 2)* |
-| Rappresaglia *(CA 1, Seguace Patrono)* |
+| Muro mentale *(Sag 1)* |
+| Rappresaglia *(CA 1, Seguace di Gradh/Nedraf/Orlaith/Sumkjr)* |
 
 ### Bardo
 
 | Dadi Truccati *(CM 6)* |
-| Danno Coordinato *(CA 6, Sag 2 / CA 8, Int 2)* |
-| Danza della Lama *(CA 1, Des 3)* |
-| Esperto *(Nessun requisito)* |
-| Fare Infuriare *(CA 2, Car/For 2)* |
-| Figlio Unico *(Cos 0, CM 1)* |
-| Fortunato *(Car 1)* |
-| Guerriero della Magia *(CA 2, CM 2 / CA 3, CM 3 / CA 6, CM 9)* |
-| Incantatore da Combattimento *(CM 1/6/12)* |
-| Infondere Coraggio *(Car 2)* |
-| Infondere Energia Magica *(CA 1, CM 2/4/8)* |
-| Infondere Energia Magica Superiore *(CA 4, CM 6/7)* |
-| Infondere Paura *(Car 1)* |
-| Litania versatile *(Car 3)* |
-| Poliglotta *(Int 1)* |
+| Danno Coordinato *(CA 6, Sag 2)* |
+| Danza della Lama *(AA 2, Des/Car 1, Intrattenere 1; 2° AA 4 + Int 3; 3° AA 7 + Int 5)* |
+| Esperto *(Caratteristica collegata almeno a -1)* |
+| Fare Infuriare *(CA 2 e Car o For 2)* |
+| Figlio Unico *(Cos 0; gradi Tratto 3/5/9)* |
+| Fortunato *(Nessun requisito)* |
+| Guerriero della Magia *(CA 2, CM 2 / CA 3, CM 3 / CA 6, CM 9 / CA 8, CM 10)* |
+| Incantatore da Combattimento *(CM 1)* |
+| Infondere Coraggio *(Car 2, Intrattenere 1)* |
+| Infondere Energia Magica *(CA 1, CM 2)* |
+| Infondere Energia Magica Superiore *(CA 4, CM 6)* |
+| Infondere Paura *(Car 2; poi Intrattenere 4, 12)* |
+| Litania versatile *(Intrattenere 6)* |
+| Poliglotta *(Int -1; solo creazione)* |
 | Radici magiche *(CM 1)* |
-| Tattico *(CA 1, Int 1 / CA 6, Int 2)* |
-| Sfortunato *(Car -1)* |
+| Tattico *(CA 1, Int 1)* |
+| Sfortunato *(Fortunato + 6 Tratti)* |
 
 ### Ranger
 
-| Combattimento con due armi *(Des 2, For 1, CA 2/12/18)* |
-| Conoscenza istintiva *(Nessun requisito)* |
-| Difendere Cavalcatura *(CA 1)* |
+| Combattimento con due armi *(Des 2, For 1, CA 2)* |
+| Conoscenza istintiva *(Conoscenza 1)* |
+| Difendere Cavalcatura *(Cavalcare 1)* |
 | Arciere su saurovallo *(CA 1)* |
 | Doppia porzione *(Combattimento con due armi, CA 4)* |
 | Freccia chiamata, freccia consegnata *(CA 2)* |
 | Occhio di Falco *(CA 3)* |
-| Passo Sicuro *(Nessun requisito)* |
-| Passo rapido *(Des 2)* |
-| Precisino *(CA 2/4)* |
+| Passo Sicuro *(Sag 1)* |
+| Passo rapido *(Des 1)* |
+| Precisino *(CA 2)* |
 | Più sono grossi, più fanno rumore quando cadono *(CA 1)* |
-| Segugio *(Int 1, Sag 1, CA 1/10/16)* |
-| Senza Traccia *(Des 1)* |
-| Spara e Scappa *(Des 3)* |
-| Testa cava *(Des 4)* |
+| Segugio *(Int 1, Sag 1, CA 1)* |
+| Senza Traccia *(Passo Sicuro)* |
+| Spara e Scappa *(Balestre 3)* |
+| Testa cava *(Balestre 4)* |
 | Tiro Preciso *(Des 3, CA 1)* |
 | Tiro Rapido *(Des 3, Tiro Preciso, CA 2)* |
-| Uno con l'arco *(CA 4 / Des 3, CA 7)* |
+| Uno con l'arco *(CA 4)* |
 
 ### Mago/Stregone
 
-| Adepto della Magia *(CM 1, ripetibile CM/2)* |
+| Adepto della Magia *(CM 1)* |
 | Animaletto / Famiglio *(CM 1)* |
-| Batteria Magica *(CM 3, ripetibile CM/3)* |
+| Batteria Magica *(CM 3)* |
 | Batteria Estesa *(CM 1, Adepto della Magia)* |
-| Concentrato *(CM 2, ripetibile CM/4)* |
+| Concentrato *(CM 2)* |
 | Creare Oggetti Magici *(CM 6)* |
 | Dadi Truccati *(CM 6)* |
 | Dattilografo *(CM 1)* |
 | Decifrare scritti magici *(CM 1)* |
-| Elementalista *(CM 3, 4+ incantesimi da Lista di Magia Elementale)* |
-| Figlio di Tazher *(Devoto Tazher, Tratti 5+, CM 3)* |
+| Elementalista *(CM 3, 4+ incantesimi elementali)* |
+| Figlio di Tazher *(Tazher, Tratti 10)* |
 | Incantatore Prudente *(CM 8)* |
-| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
+| Il Patrono è con me *(Devoto, Tratti 2; gradi Tratti 6/12)* |
 | Magie Potenti *(CM 5)* |
 | Occhi della magia *(CM 1)* |
-| Prodigioso *(CM 3, ripetibile CM/4)* |
-| Robusto *(Nessun requisito)* |
-| Sapiente *(CM 1, solo creazione)* |
+| Prodigioso *(CM 3)* |
+| Robusto *(Cos -1)* |
+| Sapiente *(CM 1; solo creazione)* |
 | Sifone Nero *(CM 6, Seguace/Devoto Tazher, Tratti 6)* |
-| Specialista *(CM 3, ripetibile CM/4)* |
-| Tutt'uno con la magia *(Adepto della Magia, CM 1)* |
-| Un colpo un morto *(CM 1, Adepto della Magia)* |
+| Specialista *(CM 3)* |
+| Tutt'uno con la magia *(Adepto della Magia)* |
+| Un colpo un morto *(CM 1, Adepto)* |
 | Un solo corpo, una sola mente, un solo spirito *(Nessun requisito)* |
 | Un solo credo *(CM 2)* |
 
 ### Druido
 
-| Adepto della Magia *(CM 1, ripetibile CM/2)* |
-| Animalia *(CM 2, Seguace/Devoto Efrem/Shayalia)* |
+| Adepto della Magia *(CM 1)* |
+| Animalia *(Seguace/Devoto Efrem/Shayalia, CM 2)* |
 | Distillare pozioni *(CM 1)* |
-| Elementalista *(CM 3, 4+ incantesimi da Lista di Magia Elementale)* |
-| Figlia di Shayalia *(Devoto Shayalia, Tratti 5+, CM 3)* |
-| Forma Elementale *(Seguace/Devoto Erondil/Gaya/Efrem/Shayalia, 3+ incantesimi da 2 Liste Elementari diverse, CM 6)* |
-| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
-| Sangue Puro *(Animalia, Devoto Efrem/Shayalia)* |
+| Elementalista *(CM 3, 4+ incantesimi elementali)* |
+| Figlia di Shayalia *(Shayalia; gradi Tratti 6/12, Animalia x4)* |
+| Forma Elementale *(Seguace/Devoto Erondil/Gaya/Efrem/Shayalia, 3+ incantesimi elementali, CM 6)* |
+| Il Patrono è con me *(Devoto, Tratti 2; gradi Tratti 6/12)* |
+| Sangue Puro *(Animalia, Devoto Efrem/Shayalia; gradi CM 8/12)* |
 
 ### Chierico
 
-| Adepto della Magia *(CM 1, ripetibile CM/2)* |
-| Armatura del Devoto *(Devoto, Tratti 3+)* |
+| Adepto della Magia *(CM 1)* |
+| Armatura del Devoto *(Devoto/Seguace, Tratto singolo 4; gradi 6/8/12)* |
 | Dattilografo *(CM 1)* |
-| Fedele *(CM 1, Tratti 2+, Devoto, ripetibile Tratti/3)* |
-| Guaritore *(Sag 2)* |
-| Il Patrono è con me *(Devoto, Tratti 2+, CM 1)* |
-| Il Patrono è la mia Arma *(Seguace, Tratti 1+, CM 1)* |
-| Imposizione delle mani *(Devoto/Seguace, Tratti 3+, CM 1)* |
-| Incanalare Energia *(Imposizione delle mani, Tratti 4+, CM 1)* |
-| Potere del Patrono *(Devoto, Tratti 1+, CM 1)* |
-| Scacciare i non morti *(Devoto/Seguace, Tratti 2+, CM 1)* |
-| Specialista *(CM 3, ripetibile CM/4)* |
-| Tutt'uno con la magia *(Adepto della Magia, CM 1)* |
+| Fedele *(CM 1, Devoto, Tratti 2; gradi Tratti/3)* |
+| Guaritore *(Sag 1; 2° Ledyal, Tratti 8)* |
+| Il Patrono è con me *(Devoto, Tratti 2; gradi Tratti 6/12)* |
+| Il Patrono è la mia Arma *(Seguace, Tratti 1; gradi Tratti 5/10/13/16, CA 1/4/5/6)* |
+| Imposizione delle mani *(CM 1, Devoto/Seguace, Tratti 3; gradi Tratti 4/6/8/10/12)* |
+| Incanalare Energia *(CM 1, Imposizione, Tratti 4)* |
+| Potere del Patrono *(Devoto, Tratti 1)* |
+| Scacciare i non morti *(Devoto/Seguace, Tratti 2)* |
+| Specialista *(CM 3)* |
+| Tutt'uno con la magia *(Adepto della Magia)* |
 
 ### Monaco
 
-| Ali della Fenice *(PV 4)* |
+| Ali della Fenice *(PV 3, Gru d'Argento 1)* |
 | Armatura della Montagna Incantata *(PV 1, CA 1, Cos 2, Sag 1)* |
-| Colpo Psichico *(Energia Psichica, Des 1/Sag 3, CA 2/3)* |
-| Energia Psichica *(For 1, Sag 2, CA 1, CM 1 / CA 4, CM 4)* |
-| Finta Morte *(PV 3)* |
-| Gru d'Argento *(PV 2)* |
-| Immunita' ai veleni *(PV 5)* |
-| Molla *(PV 1)* |
-| Colosso *(Cos 3)* |
-| Muro mentale *(Sag 2)* |
-| Passo rapido *(Des 2)* |
+| Colpo Psichico *(Energia Psichica, Des 1; 2° CA 2 + Sag 3; 3° CA 3; 4° CA 7 + Sag 4)* |
+| Energia Psichica *(For 1, Sag 2, CA 1, CM 1)* |
+| Finta Morte *(Cos 0)* |
+| Gru d'Argento *(PV 2, Des 1)* |
+| Immunita' ai veleni *(Cos 1)* |
+| Molla *(For 0)* |
+| Colosso *(Cos 1; 4° Cos 3)* |
+| Muro mentale *(Sag 1)* |
+| Passo rapido *(Des 1)* |
 | Pugno di Ferro *(PV 3)* |
-| Pugno Potente *(PV 2)* |
+| Pugno Potente *(PV 3)* |
 | Raggio Psichico *(Colpo Psichico, Sag 3, CA 5/9)* |
-| Tempesta di Furia *(PV 6)* |
-| Volonta' Ferrea *(Sag 2)* |
+| Tempesta di Furia *(PV 7, Des 1, For 1)* |
+| Volonta' Ferrea *(Sag 0)* |
 
 ---
 
 ## Esempi di costruzione del personaggio
 
-Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy, prendeteli come uno spunto per costruire i vostri personaggi. Ricordate di aggiungere il valore della Costituzione per livello ai Punti Ferita.
+Sono qui presentati alcuni esempi di personaggi secondo i canoni standard fantasy, prendeteli come uno spunto per costruire i vostri personaggi. Le caratteristiche, le competenze e i Tratti si intendono distribuiti in modo da rispettare i prerequisiti; eventuali bonus razziali si applicano a parte (per l'Umano, il +1 Abilità al 1° livello e il raddoppio del primo punto CA o CM). I Patroni associati sono: Sumkjr per Paladino Trad. e Chierico Guerriero (Seguaci), Gradh per Paladino Templare (Seguace), Ledyal per Chierico Guaritore (Devoto), Tazher per Devoto dell'occulto (Devoto), Shayalia per i due Druidi (Devoti) e per il Ranger Bestiale (Seguace).
+
+La colonna **PF** riporta i Punti Ferita prima dell'aggiunta della Costituzione: $8 + (\text{Livello}-1)\times d6 + 3\times CA$. Il valore del 1° livello comprende già gli 8 Punti Ferita base; aggiungete la Costituzione per ogni livello. I punti CA vanno assegnati alla Lista d'Armi richiesta dalle Abilità: per Spadaccino e Bardo della Lama servono punti in Armi Aggraziate, per il Monaco in Pugno Vuoto. Le Abilità sono indicate al livello in cui vengono scelte.
 
 | 	**Lv** | **Guerriero Tank** |  |  | **Abilità** |
 | --- | --- | --- | --- | --- |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | La mia pelle - Seconda pelle |
-| 2 | 2 | 0 | 2d6+6 | Difesa pronta |
-| 3 | 3 | 0 | 3d6+9 | Parata |
-| 4 | 4 | 0 | 4d6+12 | Pelle Coriacea |
-| 5 | 5 | 0 | 5d6+15 | Opportunista |
-| 6 | 6 | 0 | 6d6+18 | Iniziativa migliorata |
-| 7 | 7 | 0 | 7d6+21 | Resistenza della pietra |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Seconda pelle (2°) |
-| 10 | 10 | 0 | 10d6+30 | Robusto |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Pelle Coriacea (2°) |
-| 13 | 13 | 0 | 13d6+39 | Volontà Ferrea |
-| 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Seconda pelle (3°) |
-| 16 | 16 | 0 | 16d6+48 | Duro a morire |
-| 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Riflessi fulminei |
-| 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colosso |
+| 1 | 1 | 0 | 11 | La mia pelle - Seconda pelle |
+| 2 | 2 | 0 | 8+1d6+6 | Difesa pronta |
+| 3 | 3 | 0 | 8+2d6+9 | Parata |
+| 4 | 4 | 0 | 8+3d6+12 | Pelle Coriacea |
+| 5 | 5 | 0 | 8+4d6+15 | Opportunista |
+| 6 | 6 | 0 | 8+5d6+18 | Iniziativa migliorata |
+| 7 | 7 | 0 | 8+6d6+21 | Resistenza della pietra |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Seconda pelle (2°) |
+| 10 | 10 | 0 | 8+9d6+30 | Robusto |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Pelle Coriacea (2°) |
+| 13 | 13 | 0 | 8+12d6+39 | Volontà Ferrea |
+| 14 | 14 | 0 | 8+13d6+42 | |
+| 15 | 15 | 0 | 8+14d6+45 | Seconda pelle (3°) |
+| 16 | 16 | 0 | 8+15d6+48 | Duro a morire |
+| 17 | 17 | 0 | 8+16d6+51 | |
+| 18 | 18 | 0 | 8+17d6+54 | Riflessi fulminei |
+| 19 | 19 | 0 | 8+18d6+57 | |
+| 20 | 20 | 0 | 8+19d6+60 | Colosso |
 | 	**Lv** | **Barbaro** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Ferocia - Furia |
-| 2 | 2 | 0 | 2d6+6 | Colpi Poderosi |
-| 3 | 3 | 0 | 3d6+9 | Proseguire |
-| 4 | 4 | 0 | 4d6+12 | Ferocia (2°) |
-| 5 | 5 | 0 | 5d6+15 | Un braccio, un'arma |
-| 6 | 6 | 0 | 6d6+18 | La mia morte la tua morte |
-| 7 | 7 | 0 | 7d6+21 | Ferocia (3°) |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Proseguire (2°) |
-| 10 | 10 | 0 | 10d6+30 | Primo Sangue |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Ferocia (4°) |
-| 13 | 13 | 0 | 13d6+39 | Un braccio, un'arma (2°) |
-| 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Più sono grossi, più fanno rumore quando cadono |
-| 16 | 16 | 0 | 16d6+48 | Forgiato nella furia |
-| 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Persona veramente malvagia |
-| 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colosso |
+| 1 | 1 | 0 | 11 | Ferocia - Furia |
+| 2 | 2 | 0 | 8+1d6+6 | Colpi Poderosi |
+| 3 | 3 | 0 | 8+2d6+9 | Proseguire |
+| 4 | 4 | 0 | 8+3d6+12 | Ferocia (2°) |
+| 5 | 5 | 0 | 8+4d6+15 | Un braccio, un'arma |
+| 6 | 6 | 0 | 8+5d6+18 | La mia morte la tua morte |
+| 7 | 7 | 0 | 8+6d6+21 | Ferocia (3°) |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Proseguire (2°) |
+| 10 | 10 | 0 | 8+9d6+30 | Primo Sangue |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Ferocia (4°) |
+| 13 | 13 | 0 | 8+12d6+39 | Un braccio, un'arma (2°) |
+| 14 | 14 | 0 | 8+13d6+42 | |
+| 15 | 15 | 0 | 8+14d6+45 | Più sono grossi, più fanno rumore quando cadono |
+| 16 | 16 | 0 | 8+15d6+48 | Forgiato nella furia |
+| 17 | 17 | 0 | 8+16d6+51 | |
+| 18 | 18 | 0 | 8+17d6+54 | Persona veramente malvagia |
+| 19 | 19 | 0 | 8+18d6+57 | |
+| 20 | 20 | 0 | 8+19d6+60 | Colosso |
 | 	**Lv** | **Spadaccino** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Danza della Lama |
-| 2 | 2 | 0 | 2d6+6 | Iniziativa migliorata |
-| 3 | 3 | 0 | 3d6+9 | Parata |
-| 4 | 4 | 0 | 4d6+12 | Estrazione rapida |
-| 5 | 5 | 0 | 5d6+15 | Iaijutsu |
-| 6 | 6 | 0 | 6d6+18 | Artista dell'Arma |
-| 7 | 7 | 0 | 7d6+21 | Danza della Lama (2°) |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Parata (2°) |
-| 10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Iaijutsu (2°) |
-| 13 | 13 | 0 | 13d6+39 | Artista dell'Arma (2°) |
-| 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Danza della Lama (3°) |
-| 16 | 16 | 0 | 16d6+48 | Riflessi fulminei |
-| 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Iaijutsu (3°) |
-| 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Attacco Turbinante |
+| 1 | 1 | 0 | 11 | Arma Focalizzata - Iniziativa migliorata |
+| 2 | 2 | 0 | 8+1d6+6 | Danza della Lama |
+| 3 | 3 | 0 | 8+2d6+9 | Parata |
+| 4 | 4 | 0 | 8+3d6+12 | Estrazione rapida |
+| 5 | 5 | 0 | 8+4d6+15 | Iaijutsu |
+| 6 | 6 | 0 | 8+5d6+18 | Artista dell'Arma |
+| 7 | 7 | 0 | 8+6d6+21 | Danza della Lama (2°) |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Parata (2°) |
+| 10 | 10 | 0 | 8+9d6+30 | Schivata prodigiosa |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Iaijutsu (2°) |
+| 13 | 13 | 0 | 8+12d6+39 | Artista dell'Arma (2°) |
+| 14 | 14 | 0 | 8+13d6+42 | |
+| 15 | 15 | 0 | 8+14d6+45 | Danza della Lama (3°) |
+| 16 | 16 | 0 | 8+15d6+48 | Riflessi fulminei |
+| 17 | 17 | 0 | 8+16d6+51 | |
+| 18 | 18 | 0 | 8+17d6+54 | Iaijutsu (3°) |
+| 19 | 19 | 0 | 8+18d6+57 | |
+| 20 | 20 | 0 | 8+19d6+60 | Attacco Turbinante |
 | 	**Lv** | **Ladro Acrobata** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Estrazione rapida - Passo Felpato |
-| 2 | 2 | 0 | 2d6+6 | Opportunista |
-| 3 | 3 | 0 | 3d6+9 | Colpo Furtivo |
-| 4 | 4 | 0 | 4d6+12 | Schivare trappole |
-| 5 | 5 | 0 | 5d6+15 | Occhio Clinico |
-| 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
-| 7 | 7 | 0 | 7d6+21 | Percettivo |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Passo Felpato (2°) |
-| 10 | 10 | 0 | 10d6+30 | Schivata prodigiosa |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
-| 13 | 13 | 0 | 13d6+39 | Schivare trappole (2°) |
-| 14 | 14 | 0 | 14d6+42 | |
-| 15 | 15 | 0 | 15d6+45 | Colpo Furtivo (4°) |
-| 16 | 16 | 0 | 16d6+48 | Toccata e fuga |
-| 17 | 17 | 0 | 17d6+51 | |
-| 18 | 18 | 0 | 18d6+54 | Colpo Indebolente |
-| 19 | 19 | 0 | 19d6+57 | |
-| 20 | 20 | 0 | 20d6+60 | Colpo Paralizzante |
+| 1 | 1 | 0 | 11 | Estrazione rapida - Passo Felpato |
+| 2 | 2 | 0 | 8+1d6+6 | Opportunista |
+| 3 | 3 | 0 | 8+2d6+9 | Colpo Furtivo |
+| 4 | 4 | 0 | 8+3d6+12 | Schivare trappole |
+| 5 | 5 | 0 | 8+4d6+15 | Occhio Clinico |
+| 6 | 6 | 0 | 8+5d6+18 | Colpo Furtivo (2°) |
+| 7 | 7 | 0 | 8+6d6+21 | Percettivo |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Passo Felpato (2°) |
+| 10 | 10 | 0 | 8+9d6+30 | Schivata prodigiosa |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Colpo Furtivo (3°) |
+| 13 | 13 | 0 | 8+12d6+39 | Schivare trappole (2°) |
+| 14 | 14 | 0 | 8+13d6+42 | |
+| 15 | 15 | 0 | 8+14d6+45 | Colpo Furtivo (4°) |
+| 16 | 16 | 0 | 8+15d6+48 | Toccata e fuga |
+| 17 | 17 | 0 | 8+16d6+51 | |
+| 18 | 18 | 0 | 8+17d6+54 | Colpo Indebolente |
+| 19 | 19 | 0 | 8+18d6+57 | |
+| 20 | 20 | 0 | 8+19d6+60 | Colpo Paralizzante |
 | 	**Lv** | **Assassino** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Colpo Furtivo - Passo Felpato |
-| 2 | 2 | 0 | 2d6+6 | Estrazione rapida |
-| 3 | 3 | 0 | 3d6+9 | Opportunista |
-| 4 | 4 | 0 | 4d6+12 | Questo è il mio pugnale |
-| 5 | 5 | 0 | 5d6+15 | Schivare trappole |
-| 6 | 6 | 0 | 6d6+18 | Colpo Furtivo (2°) |
-| 7 | 7 | 0 | 7d6+21 | Percettivo |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Passo Felpato (2°) |
-| 10 | 10 | 0 | 10d6+30 | Occhio Clinico |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Colpo Furtivo (3°) |
-| 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| 14 | 14 | 1 | 14d6+42 | |
-| 15 | 15 | 1 | 15d6+45 | Colpo Furtivo (4°) |
-| 16 | 15 | 2 | 16d6+45 | Incantatore da Combattimento |
-| 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Colpo Indebolente |
-| 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Colpo Paralizzante |
+| 1 | 1 | 0 | 11 | Passo Felpato - Estrazione rapida |
+| 2 | 2 | 0 | 8+1d6+6 | Opportunista |
+| 3 | 3 | 0 | 8+2d6+9 | Colpo Furtivo |
+| 4 | 4 | 0 | 8+3d6+12 | Questo è il mio pugnale |
+| 5 | 5 | 0 | 8+4d6+15 | Schivare trappole |
+| 6 | 6 | 0 | 8+5d6+18 | Colpo Furtivo (2°) |
+| 7 | 7 | 0 | 8+6d6+21 | Percettivo |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Passo Felpato (2°) |
+| 10 | 10 | 0 | 8+9d6+30 | Occhio Clinico |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Colpo Furtivo (3°) |
+| 13 | 12 | 1 | 8+12d6+36 | Adepto della Magia |
+| 14 | 13 | 1 | 8+13d6+39 | |
+| 15 | 14 | 1 | 8+14d6+42 | Colpo Furtivo (4°) |
+| 16 | 15 | 1 | 8+15d6+45 | Incantatore da Combattimento |
+| 17 | 16 | 1 | 8+16d6+48 | |
+| 18 | 17 | 1 | 8+17d6+51 | Colpo Indebolente |
+| 19 | 18 | 1 | 8+18d6+54 | |
+| 20 | 18 | 2 | 8+19d6+54 | Colpo Paralizzante |
 | 	**Lv** | **Ranger Esploratore** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Passo Sicuro - Tiro Preciso |
-| 2 | 2 | 0 | 2d6+6 | Segugio |
-| 3 | 3 | 0 | 3d6+9 | Occhio di Falco |
-| 4 | 4 | 0 | 4d6+12 | Passo rapido |
-| 5 | 5 | 0 | 5d6+15 | Uno con l'arco |
-| 6 | 6 | 0 | 6d6+18 | Precisino |
-| 7 | 7 | 0 | 7d6+21 | Passo Sicuro |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Senza Traccia |
-| 10 | 10 | 0 | 10d6+30 | Combattere alla Cieca |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Tiro Rapido |
-| 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| 14 | 14 | 1 | 14d6+42 | |
-| 15 | 15 | 1 | 15d6+45 | Segugio (2°) |
-| 16 | 15 | 2 | 16d6+45 | Distillare pozioni |
-| 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Occhio di Falco (2°) |
-| 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Uno con l'arco (2°) |
+| 1 | 1 | 0 | 11 | Passo Sicuro - Tiro Preciso |
+| 2 | 2 | 0 | 8+1d6+6 | Segugio |
+| 3 | 3 | 0 | 8+2d6+9 | Occhio di Falco |
+| 4 | 4 | 0 | 8+3d6+12 | Passo rapido |
+| 5 | 5 | 0 | 8+4d6+15 | Uno con l'arco |
+| 6 | 6 | 0 | 8+5d6+18 | Precisino |
+| 7 | 7 | 0 | 8+6d6+21 | Passo Sicuro |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Senza Traccia |
+| 10 | 10 | 0 | 8+9d6+30 | Combattere alla Cieca |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Tiro Rapido |
+| 13 | 12 | 1 | 8+12d6+36 | Adepto della Magia |
+| 14 | 13 | 1 | 8+13d6+39 | |
+| 15 | 14 | 1 | 8+14d6+42 | Segugio (2°) |
+| 16 | 15 | 1 | 8+15d6+45 | Distillare pozioni |
+| 17 | 15 | 2 | 8+16d6+45 | |
+| 18 | 15 | 3 | 8+17d6+45 | Occhio di Falco (2°) |
+| 19 | 15 | 4 | 8+18d6+45 | |
+| 20 | 15 | 5 | 8+19d6+45 | Uno con l'arco (2°) |
 | 	**Lv** | **Ranger Bestiale** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Animaletto / Famiglio - Passo Sicuro |
-| 2 | 2 | 0 | 2d6+6 | Segugio |
-| 3 | 2 | 1 | 3d6+6 | Adepto della Magia |
-| 4 | 3 | 1 | 4d6+9 | Animaletto / Famiglio (2°) |
-| 5 | 3 | 2 | 5d6+9 | Animalia |
-| 6 | 4 | 2 | 6d6+12 | Tiro Preciso |
-| 7 | 4 | 3 | 7d6+12 | Figlia di Shayalia |
-| 8 | 5 | 3 | 8d6+15 | |
-| 9 | 5 | 4 | 9d6+15 | Passo Sicuro |
-| 10 | 6 | 4 | 10d6+18 | Occhio di Falco |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 7 | 5 | 12d6+21 | Animalia (2°) |
-| 13 | 7 | 6 | 13d6+21 | Segugio (2°) |
-| 14 | 8 | 6 | 14d6+24 | |
-| 15 | 8 | 7 | 15d6+24 | Figlia di Shayalia (2°) |
-| 16 | 9 | 7 | 16d6+27 | Senza Traccia |
-| 17 | 9 | 8 | 17d6+27 | |
-| 18 | 10 | 8 | 18d6+30 | Tiro Rapido |
-| 19 | 11 | 8 | 19d6+33 | |
-| 20 | 12 | 8 | 20d6+36 | Uno con l'arco |
+| 1 | 1 | 0 | 11 | Passo Sicuro - Tiro Preciso |
+| 2 | 2 | 0 | 8+1d6+6 | Segugio |
+| 3 | 2 | 1 | 8+2d6+6 | Adepto della Magia |
+| 4 | 3 | 1 | 8+3d6+9 | Animaletto / Famiglio |
+| 5 | 3 | 2 | 8+4d6+9 | Animalia |
+| 6 | 4 | 2 | 8+5d6+12 | Tiro Rapido |
+| 7 | 4 | 3 | 8+6d6+12 | Figlia di Shayalia |
+| 8 | 5 | 3 | 8+7d6+15 | |
+| 9 | 5 | 4 | 8+8d6+15 | Passo Sicuro |
+| 10 | 6 | 4 | 8+9d6+18 | Occhio di Falco |
+| 11 | 6 | 5 | 8+10d6+18 | |
+| 12 | 7 | 5 | 8+11d6+21 | Animalia (2°) |
+| 13 | 7 | 6 | 8+12d6+21 | Animaletto / Famiglio (2°) |
+| 14 | 8 | 6 | 8+13d6+24 | |
+| 15 | 8 | 7 | 8+14d6+24 | Figlia di Shayalia (2°) |
+| 16 | 9 | 7 | 8+15d6+27 | Senza Traccia |
+| 17 | 9 | 8 | 8+16d6+27 | |
+| 18 | 10 | 8 | 8+17d6+30 | Segugio (2°) |
+| 19 | 11 | 8 | 8+18d6+33 | |
+| 20 | 12 | 8 | 8+19d6+36 | Uno con l'arco |
 | 	**Lv** | **Paladino Trad.** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
-| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
-| 3 | 2 | 1 | 3d6+6 | Imposizione delle mani |
-| 4 | 2 | 2 | 4d6+6 | Armatura del Devoto |
-| 5 | 3 | 2 | 5d6+9 | Il Patrono è la mia Arma (2°) |
-| 6 | 3 | 3 | 6d6+9 | Scacciare i non morti |
-| 7 | 4 | 3 | 7d6+12 | Imposizione delle mani (2°) |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Lo scudo è mio amico |
-| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
-| 13 | 7 | 6 | 13d6+21 | Potere del Patrono |
-| 14 | 7 | 7 | 14d6+21 | |
-| 15 | 8 | 7 | 15d6+24 | Il Patrono è la mia Arma (3°) |
-| 16 | 8 | 8 | 16d6+24 | Imposizione delle mani (3°) |
-| 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Incanalare Energia |
-| 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
+| 1 | 1 | 0 | 11 | Il Patrono è la mia Arma - Rappresaglia |
+| 2 | 1 | 1 | 8+1d6+3 | Adepto della Magia |
+| 3 | 2 | 1 | 8+2d6+6 | Imposizione delle mani |
+| 4 | 2 | 2 | 8+3d6+6 | Armatura del Devoto |
+| 5 | 3 | 2 | 8+4d6+9 | Il Patrono è la mia Arma (2°) |
+| 6 | 3 | 3 | 8+5d6+9 | Scacciare i non morti |
+| 7 | 4 | 3 | 8+6d6+12 | Imposizione delle mani (2°) |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Lo scudo è mio amico |
+| 10 | 5 | 5 | 8+9d6+15 | Seconda pelle |
+| 11 | 6 | 5 | 8+10d6+18 | |
+| 12 | 6 | 6 | 8+11d6+18 | Armatura del Devoto (2°) |
+| 13 | 7 | 6 | 8+12d6+21 | Volontà Ferrea |
+| 14 | 7 | 7 | 8+13d6+21 | |
+| 15 | 8 | 7 | 8+14d6+24 | Il Patrono è la mia Arma (3°) |
+| 16 | 8 | 8 | 8+15d6+24 | Imposizione delle mani (3°) |
+| 17 | 9 | 8 | 8+16d6+27 | |
+| 18 | 9 | 9 | 8+17d6+27 | Incanalare Energia |
+| 19 | 10 | 9 | 8+18d6+30 | |
+| 20 | 10 | 10 | 8+19d6+30 | Il Patrono è la mia Arma (4°) |
 | 	**Lv** | **Pal. Templare** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Rappresaglia |
-| 2 | 2 | 0 | 2d6+6 | Questa è la mia arma! |
-| 3 | 3 | 0 | 3d6+9 | Seconda pelle |
-| 4 | 4 | 0 | 4d6+12 | La mia pelle |
-| 5 | 5 | 0 | 5d6+15 | Il Patrono è la mia Arma (2°) |
-| 6 | 6 | 0 | 6d6+18 | Opportunista |
-| 7 | 7 | 0 | 7d6+21 | Volontà Ferrea |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Resistenza della pietra |
-| 10 | 10 | 0 | 10d6+30 | Il Patrono è la mia Arma (3°) |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Seconda pelle (2°) |
-| 13 | 13 | 1 | 13d6+39 | Adepto della Magia |
-| 14 | 14 | 1 | 14d6+42 | |
-| 15 | 15 | 1 | 15d6+45 | Il Patrono è la mia Arma (4°) |
-| 16 | 15 | 2 | 16d6+45 | Imposizione delle mani |
-| 17 | 15 | 3 | 17d6+45 | |
-| 18 | 15 | 4 | 18d6+45 | Il Patrono è la mia Arma (5°) |
-| 19 | 15 | 5 | 19d6+45 | |
-| 20 | 15 | 5 | 20d6+45 | Il Patrono è la mia Arma (6°) |
+| 1 | 1 | 0 | 11 | Il Patrono è la mia Arma - Rappresaglia |
+| 2 | 2 | 0 | 8+1d6+6 | Questa è la mia arma! |
+| 3 | 3 | 0 | 8+2d6+9 | Seconda pelle |
+| 4 | 4 | 0 | 8+3d6+12 | La mia pelle |
+| 5 | 5 | 0 | 8+4d6+15 | Il Patrono è la mia Arma (2°) |
+| 6 | 6 | 0 | 8+5d6+18 | Opportunista |
+| 7 | 7 | 0 | 8+6d6+21 | Volontà Ferrea |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Resistenza della pietra |
+| 10 | 10 | 0 | 8+9d6+30 | Il Patrono è la mia Arma (3°) |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Seconda pelle (2°) |
+| 13 | 12 | 1 | 8+12d6+36 | Adepto della Magia |
+| 14 | 13 | 1 | 8+13d6+39 | |
+| 15 | 14 | 1 | 8+14d6+42 | Il Patrono è la mia Arma (4°) |
+| 16 | 15 | 1 | 8+15d6+45 | Imposizione delle mani |
+| 17 | 15 | 2 | 8+16d6+45 | |
+| 18 | 15 | 3 | 8+17d6+45 | Il Patrono è la mia Arma (5°) |
+| 19 | 15 | 4 | 8+18d6+45 | |
+| 20 | 15 | 5 | 8+19d6+45 | Il Patrono è la mia Arma (6°) |
 | 	**Lv** | **Mago Accademico** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 0 | 1 | 1d6 | Adepto della Magia - Tutt'uno con la magia |
-| 2 | 0 | 2 | 2d6 | Sapiente |
-| 3 | 0 | 3 | 3d6 | Prodigioso |
-| 4 | 0 | 4 | 4d6 | Adepto della Magia (2°) |
-| 5 | 0 | 5 | 5d6 | Magie Potenti |
-| 6 | 0 | 6 | 6d6 | Concentrato |
-| 7 | 0 | 7 | 7d6 | Dattilografo |
-| 8 | 0 | 8 | 8d6 | |
-| 9 | 0 | 9 | 9d6 | Batteria Magica |
-| 10 | 0 | 10 | 10d6 | Specialista |
-| 11 | 0 | 11 | 11d6 | |
-| 12 | 0 | 12 | 12d6 | Creare Oggetti Magici |
-| 13 | 0 | 13 | 13d6 | Prodigioso (2°) |
-| 14 | 0 | 14 | 14d6 | |
-| 15 | 0 | 15 | 15d6 | Adepto della Magia (3°) |
-| 16 | 0 | 16 | 16d6 | Concentrato (2°) |
-| 17 | 0 | 17 | 17d6 | |
-| 18 | 0 | 18 | 18d6 | Magie Potenti (2°) |
-| 19 | 0 | 19 | 19d6 | |
-| 20 | 0 | 20 | 20d6 | Adepto della Magia (4°) |
+| 1 | 0 | 1 | 8 | Adepto della Magia - Sapiente |
+| 2 | 0 | 2 | 8+1d6 | Tutt'uno con la magia |
+| 3 | 0 | 3 | 8+2d6 | Prodigioso |
+| 4 | 0 | 4 | 8+3d6 | Concentrato |
+| 5 | 0 | 5 | 8+4d6 | Adepto della Magia (2°) |
+| 6 | 0 | 6 | 8+5d6 | Magie Potenti |
+| 7 | 0 | 7 | 8+6d6 | Dattilografo |
+| 8 | 0 | 8 | 8+7d6 | |
+| 9 | 0 | 9 | 8+8d6 | Batteria Magica |
+| 10 | 0 | 10 | 8+9d6 | Specialista |
+| 11 | 0 | 11 | 8+10d6 | |
+| 12 | 0 | 12 | 8+11d6 | Creare Oggetti Magici |
+| 13 | 0 | 13 | 8+12d6 | Prodigioso (2°) |
+| 14 | 0 | 14 | 8+13d6 | |
+| 15 | 0 | 15 | 8+14d6 | Adepto della Magia (3°) |
+| 16 | 0 | 16 | 8+15d6 | Concentrato (2°) |
+| 17 | 0 | 17 | 8+16d6 | |
+| 18 | 0 | 18 | 8+17d6 | Magie Potenti (2°) |
+| 19 | 0 | 19 | 8+18d6 | |
+| 20 | 0 | 20 | 8+19d6 | Adepto della Magia (4°) |
 | 	**Lv** | **Stregone** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 0 | 1 | 1d6 | Adepto della Magia - Batteria Magica |
-| 2 | 0 | 2 | 2d6 | Elementalista |
-| 3 | 0 | 3 | 3d6 | Batteria Estesa |
-| 4 | 0 | 4 | 4d6 | Concentrato |
-| 5 | 0 | 5 | 5d6 | Magie Potenti |
-| 6 | 0 | 6 | 6d6 | Dadi Truccati |
-| 7 | 0 | 7 | 7d6 | Elementalista (2°) |
-| 8 | 0 | 8 | 8d6 | |
-| 9 | 0 | 9 | 9d6 | Un colpo un morto |
-| 10 | 0 | 10 | 10d6 | Batteria Magica (2°) |
-| 11 | 0 | 11 | 11d6 | |
-| 12 | 0 | 12 | 12d6 | Dadi Truccati (2°) |
-| 13 | 0 | 13 | 13d6 | Concentrato (2°) |
-| 14 | 0 | 14 | 14d6 | |
-| 15 | 0 | 15 | 15d6 | Adepto della Magia (2°) |
-| 16 | 0 | 16 | 16d6 | Magie Potenti (2°) |
-| 17 | 0 | 17 | 17d6 | |
-| 18 | 0 | 18 | 18d6 | Incantatore Prudente |
-| 19 | 0 | 19 | 19d6 | |
-| 20 | 0 | 20 | 20d6 | Tutt'uno con la magia |
+| 1 | 0 | 1 | 8 | Adepto della Magia - Fortunato |
+| 2 | 0 | 2 | 8+1d6 | Batteria Estesa |
+| 3 | 0 | 3 | 8+2d6 | Concentrato |
+| 4 | 0 | 4 | 8+3d6 | Batteria Magica |
+| 5 | 0 | 5 | 8+4d6 | Elementalista |
+| 6 | 0 | 6 | 8+5d6 | Magie Potenti |
+| 7 | 0 | 7 | 8+6d6 | Dadi Truccati |
+| 8 | 0 | 8 | 8+7d6 | |
+| 9 | 0 | 9 | 8+8d6 | Elementalista (2°) |
+| 10 | 0 | 10 | 8+9d6 | Un colpo un morto |
+| 11 | 0 | 11 | 8+10d6 | |
+| 12 | 0 | 12 | 8+11d6 | Batteria Magica (2°) |
+| 13 | 0 | 13 | 8+12d6 | Dadi Truccati (2°) |
+| 14 | 0 | 14 | 8+13d6 | |
+| 15 | 0 | 15 | 8+14d6 | Concentrato (2°) |
+| 16 | 0 | 16 | 8+15d6 | Adepto della Magia (2°) |
+| 17 | 0 | 17 | 8+16d6 | |
+| 18 | 0 | 18 | 8+17d6 | Magie Potenti (2°) |
+| 19 | 0 | 19 | 8+18d6 | |
+| 20 | 0 | 20 | 8+19d6 | Tutt'uno con la magia |
 | 	**Lv** | **Chierico Guaritore** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Guaritore - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
-| 3 | 2 | 1 | 3d6+6 | Fedele |
-| 4 | 2 | 2 | 4d6+6 | Tutt'uno con la magia |
-| 5 | 3 | 2 | 5d6+9 | Imposizione delle mani (2°) |
-| 6 | 3 | 3 | 6d6+9 | Incanalare Energia |
-| 7 | 4 | 3 | 7d6+12 | Scacciare i non morti |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Guaritore (2°) oppure Adepto della Magia |
-| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
-| 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Imposizione delle mani (3°) |
-| 13 | 5 | 8 | 13d6+15 | Potere del Patrono |
-| 14 | 5 | 9 | 14d6+15 | |
-| 15 | 5 | 10 | 15d6+15 | Imposizione delle mani (4°) |
-| 16 | 5 | 11 | 16d6+15 | Incanalare Energia (2°) |
-| 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Imposizione delle mani (5°) |
-| 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Imposizione delle mani (6°) |
+| 1 | 1 | 0 | 11 | Guaritore - Potere del Patrono |
+| 2 | 1 | 1 | 8+1d6+3 | Adepto della Magia |
+| 3 | 2 | 1 | 8+2d6+6 | Imposizione delle mani |
+| 4 | 2 | 2 | 8+3d6+6 | Fedele |
+| 5 | 3 | 2 | 8+4d6+9 | Tutt'uno con la magia |
+| 6 | 3 | 3 | 8+5d6+9 | Imposizione delle mani (2°) |
+| 7 | 4 | 3 | 8+6d6+12 | Incanalare Energia |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Scacciare i non morti |
+| 10 | 5 | 5 | 8+9d6+15 | Guaritore (2°) oppure Adepto della Magia |
+| 11 | 5 | 6 | 8+10d6+15 | |
+| 12 | 5 | 7 | 8+11d6+15 | Il Patrono è con me |
+| 13 | 5 | 8 | 8+12d6+15 | Imposizione delle mani (3°) |
+| 14 | 5 | 9 | 8+13d6+15 | |
+| 15 | 5 | 10 | 8+14d6+15 | Incanalare Energia (2°) |
+| 16 | 5 | 11 | 8+15d6+15 | Imposizione delle mani (4°) |
+| 17 | 5 | 12 | 8+16d6+15 | |
+| 18 | 5 | 13 | 8+17d6+15 | Imposizione delle mani (5°) |
+| 19 | 5 | 14 | 8+18d6+15 | |
+| 20 | 5 | 15 | 8+19d6+15 | Imposizione delle mani (6°) |
 | 	**Lv** | **Chierico Guerriero** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Il Patrono è la mia Arma - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Imposizione delle mani |
-| 3 | 2 | 1 | 3d6+6 | Armatura del Devoto |
-| 4 | 2 | 2 | 4d6+6 | Scacciare i non morti |
-| 5 | 3 | 2 | 5d6+9 | Il Patrono è la mia Arma (2°) |
-| 6 | 3 | 3 | 6d6+9 | Lo scudo è mio amico |
-| 7 | 4 | 3 | 7d6+12 | Tutt'uno con la magia |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Imposizione delle mani (2°) |
-| 10 | 5 | 5 | 10d6+15 | Il Patrono è con me |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Armatura del Devoto (2°) |
-| 13 | 7 | 6 | 13d6+21 | Potere del Patrono |
-| 14 | 7 | 7 | 14d6+21 | |
-| 15 | 8 | 7 | 15d6+24 | Il Patrono è la mia Arma (3°) |
-| 16 | 8 | 8 | 16d6+24 | Incanalare Energia |
-| 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Armatura del Devoto (3°) |
-| 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Il Patrono è la mia Arma (4°) |
+| 1 | 1 | 0 | 11 | Il Patrono è la mia Arma - La mia pelle |
+| 2 | 1 | 1 | 8+1d6+3 | Adepto della Magia |
+| 3 | 2 | 1 | 8+2d6+6 | Imposizione delle mani |
+| 4 | 2 | 2 | 8+3d6+6 | Armatura del Devoto |
+| 5 | 3 | 2 | 8+4d6+9 | Il Patrono è la mia Arma (2°) |
+| 6 | 3 | 3 | 8+5d6+9 | Lo scudo è mio amico |
+| 7 | 4 | 3 | 8+6d6+12 | Scacciare i non morti |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Imposizione delle mani (2°) |
+| 10 | 5 | 5 | 8+9d6+15 | Seconda pelle |
+| 11 | 6 | 5 | 8+10d6+18 | |
+| 12 | 6 | 6 | 8+11d6+18 | Armatura del Devoto (2°) |
+| 13 | 7 | 6 | 8+12d6+21 | Volontà Ferrea |
+| 14 | 7 | 7 | 8+13d6+21 | |
+| 15 | 8 | 7 | 8+14d6+24 | Il Patrono è la mia Arma (3°) |
+| 16 | 8 | 8 | 8+15d6+24 | Incanalare Energia |
+| 17 | 9 | 8 | 8+16d6+27 | |
+| 18 | 9 | 9 | 8+17d6+27 | Armatura del Devoto (3°) |
+| 19 | 10 | 9 | 8+18d6+30 | |
+| 20 | 10 | 10 | 8+19d6+30 | Il Patrono è la mia Arma (4°) |
 | 	**Lv** | **Druido Naturalista** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Figlia di Shayalia |
-| 3 | 2 | 1 | 3d6+6 | Passo Sicuro |
-| 4 | 2 | 2 | 4d6+6 | Elementalista |
-| 5 | 3 | 2 | 5d6+9 | Animaletto / Famiglio |
-| 6 | 3 | 3 | 6d6+9 | Tutt'uno con la magia |
-| 7 | 4 | 3 | 7d6+12 | Distillare pozioni (2°) |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Figlia di Shayalia (2°) |
-| 10 | 5 | 5 | 10d6+15 | Concentrato |
-| 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Elementalista (2°) |
-| 13 | 5 | 8 | 13d6+15 | Forma Elementale |
-| 14 | 5 | 9 | 14d6+15 | |
-| 15 | 5 | 10 | 15d6+15 | Animaletto / Famiglio (2°) |
-| 16 | 5 | 11 | 16d6+15 | Figlia di Shayalia (3°) |
-| 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Magie Potenti |
-| 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Prodigioso |
+| 1 | 1 | 0 | 11 | Figlia di Shayalia - Passo Sicuro |
+| 2 | 1 | 1 | 8+1d6+3 | Distillare pozioni |
+| 3 | 2 | 1 | 8+2d6+6 | Adepto della Magia |
+| 4 | 2 | 2 | 8+3d6+6 | Animaletto / Famiglio |
+| 5 | 3 | 2 | 8+4d6+9 | Animalia |
+| 6 | 3 | 3 | 8+5d6+9 | Tutt'uno con la magia |
+| 7 | 4 | 3 | 8+6d6+12 | Distillare pozioni (2°) |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Figlia di Shayalia (2°) |
+| 10 | 5 | 5 | 8+9d6+15 | Elementalista |
+| 11 | 5 | 6 | 8+10d6+15 | |
+| 12 | 5 | 7 | 8+11d6+15 | Concentrato |
+| 13 | 5 | 8 | 8+12d6+15 | Forma Elementale |
+| 14 | 5 | 9 | 8+13d6+15 | |
+| 15 | 5 | 10 | 8+14d6+15 | Animaletto / Famiglio (2°) |
+| 16 | 5 | 11 | 8+15d6+15 | Figlia di Shayalia (3°) |
+| 17 | 5 | 12 | 8+16d6+15 | |
+| 18 | 5 | 13 | 8+17d6+15 | Magie Potenti |
+| 19 | 5 | 14 | 8+18d6+15 | |
+| 20 | 5 | 15 | 8+19d6+15 | Prodigioso |
 | 	**Lv** | **Druido Mutaforma** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Distillare pozioni - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Animalia |
-| 3 | 2 | 1 | 3d6+6 | Figlia di Shayalia |
-| 4 | 2 | 2 | 4d6+6 | Sangue Puro |
-| 5 | 3 | 2 | 5d6+9 | Animalia (2°) |
-| 6 | 3 | 3 | 6d6+9 | Forma Elementale |
-| 7 | 4 | 3 | 7d6+12 | Passo Sicuro |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Sangue Puro (2°) |
-| 10 | 5 | 5 | 10d6+15 | Animalia (3°) |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Figlia di Shayalia (2°) |
-| 13 | 7 | 6 | 13d6+21 | Forma Elementale (2°) |
-| 14 | 7 | 7 | 14d6+21 | |
-| 15 | 8 | 7 | 15d6+24 | Sangue Puro (3°) |
-| 16 | 8 | 8 | 16d6+24 | Animalia (4°) |
-| 17 | 8 | 9 | 17d6+24 | |
-| 18 | 8 | 10 | 18d6+24 | Figlia di Shayalia (3°) |
-| 19 | 8 | 11 | 19d6+24 | |
-| 20 | 8 | 12 | 20d6+24 | Figlia di Shayalia (4°) |
+| 1 | 0 | 1 | 8 | Distillare pozioni - Adepto della Magia |
+| 2 | 0 | 2 | 8+1d6 | Animalia |
+| 3 | 0 | 3 | 8+2d6 | Figlia di Shayalia |
+| 4 | 0 | 4 | 8+3d6 | Sangue Puro |
+| 5 | 0 | 5 | 8+4d6 | Animalia (2°) |
+| 6 | 0 | 6 | 8+5d6 | Forma Elementale |
+| 7 | 0 | 7 | 8+6d6 | Passo Sicuro |
+| 8 | 0 | 8 | 8+7d6 | |
+| 9 | 0 | 9 | 8+8d6 | Sangue Puro (2°) |
+| 10 | 0 | 10 | 8+9d6 | Animalia (3°) |
+| 11 | 0 | 11 | 8+10d6 | |
+| 12 | 0 | 12 | 8+11d6 | Figlia di Shayalia (2°) |
+| 13 | 0 | 13 | 8+12d6 | Forma Elementale (2°) |
+| 14 | 0 | 14 | 8+13d6 | |
+| 15 | 0 | 15 | 8+14d6 | Sangue Puro (3°) |
+| 16 | 0 | 16 | 8+15d6 | Animalia (4°) |
+| 17 | 0 | 17 | 8+16d6 | |
+| 18 | 0 | 18 | 8+17d6 | Figlia di Shayalia (3°) |
+| 19 | 0 | 19 | 8+18d6 | |
+| 20 | 0 | 20 | 8+19d6 | Figlia di Shayalia (4°) |
 | 	**Lv** | **Bardo Incantatore** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Infondere Coraggio - Adepto della Magia |
-| 2 | 1 | 1 | 2d6+3 | Incantatore da Combattimento |
-| 3 | 2 | 1 | 3d6+6 | Infondere Paura |
-| 4 | 2 | 2 | 4d6+6 | Esperto |
-| 5 | 3 | 2 | 5d6+9 | Infondere Coraggio (2°) |
-| 6 | 3 | 3 | 6d6+9 | Litania versatile |
-| 7 | 4 | 3 | 7d6+12 | Concentrato |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Infondere Paura (2°) |
-| 10 | 5 | 5 | 10d6+15 | Guerriero della Magia |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Infondere Coraggio (3°) |
-| 13 | 7 | 6 | 13d6+21 | Tutt'uno con la magia |
-| 14 | 7 | 7 | 14d6+21 | |
-| 15 | 8 | 7 | 15d6+24 | Litania versatile (2°) |
-| 16 | 8 | 8 | 16d6+24 | Magie Potenti |
-| 17 | 8 | 9 | 17d6+24 | |
-| 18 | 8 | 10 | 18d6+24 | Infondere Energia Magica |
-| 19 | 8 | 11 | 19d6+24 | |
-| 20 | 8 | 12 | 20d6+24 | Prodigioso |
+| 1 | 1 | 0 | 11 | Infondere Coraggio - Fortunato |
+| 2 | 1 | 1 | 8+1d6+3 | Adepto della Magia |
+| 3 | 2 | 1 | 8+2d6+6 | Incantatore da Combattimento |
+| 4 | 2 | 2 | 8+3d6+6 | Infondere Paura |
+| 5 | 3 | 2 | 8+4d6+9 | Esperto |
+| 6 | 3 | 3 | 8+5d6+9 | Infondere Coraggio (2°) |
+| 7 | 4 | 3 | 8+6d6+12 | Litania versatile |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Concentrato |
+| 10 | 5 | 5 | 8+9d6+15 | Infondere Paura (2°) |
+| 11 | 6 | 5 | 8+10d6+18 | |
+| 12 | 6 | 6 | 8+11d6+18 | Guerriero della Magia |
+| 13 | 7 | 6 | 8+12d6+21 | Infondere Coraggio (3°) |
+| 14 | 7 | 7 | 8+13d6+21 | |
+| 15 | 8 | 7 | 8+14d6+24 | Tutt'uno con la magia |
+| 16 | 8 | 8 | 8+15d6+24 | Litania versatile (2°) |
+| 17 | 8 | 9 | 8+16d6+24 | |
+| 18 | 8 | 10 | 8+17d6+24 | Magie Potenti |
+| 19 | 8 | 11 | 8+18d6+24 | |
+| 20 | 8 | 12 | 8+19d6+24 | Infondere Energia Magica |
 | 	**Lv** | **Bardo della Lama** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Danza della Lama - Infondere Coraggio |
-| 2 | 2 | 0 | 2d6+6 | Arma Focalizzata |
-| 3 | 3 | 0 | 3d6+9 | Tattico |
-| 4 | 4 | 0 | 4d6+12 | Danza della Lama (2°) |
-| 5 | 5 | 0 | 5d6+15 | Fare Infuriare |
-| 6 | 6 | 0 | 6d6+18 | Danno Coordinato |
-| 7 | 7 | 0 | 7d6+21 | Danza della Lama (3°) |
-| 8 | 8 | 0 | 8d6+24 | |
-| 9 | 9 | 0 | 9d6+27 | Infondere Coraggio (2°) |
-| 10 | 10 | 0 | 10d6+30 | Attacco Turbinante |
-| 11 | 11 | 0 | 11d6+33 | |
-| 12 | 12 | 0 | 12d6+36 | Iaijutsu |
-| 13 | 12 | 1 | 13d6+36 | Adepto della Magia |
-| 14 | 12 | 2 | 14d6+36 | |
-| 15 | 12 | 3 | 15d6+36 | Danno Coordinato (2°) |
-| 16 | 12 | 4 | 16d6+36 | Guerriero della Magia |
-| 17 | 12 | 5 | 17d6+36 | |
-| 18 | 12 | 6 | 18d6+36 | Infondere Energia Magica |
-| 19 | 12 | 7 | 19d6+36 | |
-| 20 | 12 | 8 | 20d6+36 | Litania versatile |
+| 1 | 1 | 0 | 11 | Arma Focalizzata - Infondere Coraggio |
+| 2 | 2 | 0 | 8+1d6+6 | Tattico |
+| 3 | 3 | 0 | 8+2d6+9 | Danza della Lama |
+| 4 | 4 | 0 | 8+3d6+12 | Danza della Lama (2°) |
+| 5 | 5 | 0 | 8+4d6+15 | Fare Infuriare |
+| 6 | 6 | 0 | 8+5d6+18 | Danno Coordinato |
+| 7 | 7 | 0 | 8+6d6+21 | Danza della Lama (3°) |
+| 8 | 8 | 0 | 8+7d6+24 | |
+| 9 | 9 | 0 | 8+8d6+27 | Infondere Coraggio (2°) |
+| 10 | 10 | 0 | 8+9d6+30 | Iaijutsu |
+| 11 | 11 | 0 | 8+10d6+33 | |
+| 12 | 12 | 0 | 8+11d6+36 | Attacco Turbinante |
+| 13 | 12 | 1 | 8+12d6+36 | Adepto della Magia |
+| 14 | 12 | 2 | 8+13d6+36 | |
+| 15 | 12 | 3 | 8+14d6+36 | Danno Coordinato (2°) |
+| 16 | 12 | 4 | 8+15d6+36 | Guerriero della Magia |
+| 17 | 12 | 5 | 8+16d6+36 | |
+| 18 | 12 | 6 | 8+17d6+36 | Infondere Energia Magica |
+| 19 | 12 | 7 | 8+18d6+36 | |
+| 20 | 12 | 8 | 8+19d6+36 | Litania versatile |
 | 	**Lv** | **Monaco Mistico** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Gru d'Argento - Energia Psichica |
-| 2 | 1 | 1 | 2d6+3 | Pugno di Ferro |
-| 3 | 2 | 1 | 3d6+6 | Colpo Psichico |
-| 4 | 2 | 2 | 4d6+6 | Armatura della Montagna Incantata |
-| 5 | 3 | 2 | 5d6+9 | Gru d'Argento (2°) |
-| 6 | 3 | 3 | 6d6+9 | Pugno di Ferro (2°) |
-| 7 | 4 | 3 | 7d6+12 | Passo rapido |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Colpo Psichico (2°) |
-| 10 | 5 | 5 | 10d6+15 | Raggio Psichico |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Volontà Ferrea |
-| 13 | 7 | 6 | 13d6+21 | Pugno di Ferro (3°) |
-| 14 | 7 | 7 | 14d6+21 | |
-| 15 | 8 | 7 | 15d6+24 | Armatura della Montagna Incantata (2°) |
-| 16 | 8 | 8 | 16d6+24 | Tempesta di Furia |
-| 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Gru d'Argento (3°) |
-| 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Ali della Fenice |
+| 1 | 1 | 0 | 11 | Armatura della Montagna Incantata - Passo rapido |
+| 2 | 2 | 0 | 8+1d6+6 | Gru d'Argento |
+| 3 | 2 | 1 | 8+2d6+6 | Energia Psichica |
+| 4 | 3 | 1 | 8+3d6+9 | Pugno di Ferro |
+| 5 | 4 | 1 | 8+4d6+12 | Colpo Psichico |
+| 6 | 5 | 1 | 8+5d6+15 | Gru d'Argento (2°) |
+| 7 | 6 | 1 | 8+6d6+18 | Pugno di Ferro (2°) |
+| 8 | 7 | 1 | 8+7d6+21 | |
+| 9 | 8 | 1 | 8+8d6+24 | Raggio Psichico |
+| 10 | 9 | 1 | 8+9d6+27 | Pugno di Ferro (3°) |
+| 11 | 9 | 2 | 8+10d6+27 | |
+| 12 | 10 | 2 | 8+11d6+30 | Tempesta di Furia |
+| 13 | 10 | 3 | 8+12d6+30 | Colpo Psichico (2°) |
+| 14 | 10 | 4 | 8+13d6+30 | |
+| 15 | 10 | 5 | 8+14d6+30 | Armatura della Montagna Incantata (2°) |
+| 16 | 10 | 6 | 8+15d6+30 | Gru d'Argento (3°) |
+| 17 | 10 | 7 | 8+16d6+30 | |
+| 18 | 10 | 8 | 8+17d6+30 | Volontà Ferrea |
+| 19 | 10 | 9 | 8+18d6+30 | |
+| 20 | 10 | 10 | 8+19d6+30 | Ali della Fenice |
 | 	**Lv** | **Devoto dell'occulto** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Figlio di Tazher - Fedele |
-| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
-| 3 | 2 | 1 | 3d6+6 | Il Patrono è con me |
-| 4 | 2 | 2 | 4d6+6 | Batteria Magica |
-| 5 | 3 | 2 | 5d6+9 | Potere del Patrono |
-| 6 | 3 | 3 | 6d6+9 | Concentrato |
-| 7 | 4 | 3 | 7d6+12 | Creare Oggetti Magici |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Il Patrono è con me (2°) |
-| 10 | 5 | 5 | 10d6+15 | Muro mentale |
-| 11 | 5 | 6 | 11d6+15 | |
-| 12 | 5 | 7 | 12d6+15 | Sifone Nero |
-| 13 | 5 | 8 | 13d6+15 | Fedele (2°) |
-| 14 | 5 | 9 | 14d6+15 | |
-| 15 | 5 | 10 | 15d6+15 | Adepto della Magia (2°) |
-| 16 | 5 | 11 | 16d6+15 | Il Patrono è con me (3°) |
-| 17 | 5 | 12 | 17d6+15 | |
-| 18 | 5 | 13 | 18d6+15 | Magie Potenti |
-| 19 | 5 | 14 | 19d6+15 | |
-| 20 | 5 | 15 | 20d6+15 | Adepto della Magia (3°) |
+| 1 | 0 | 1 | 8 | Adepto della Magia - Potere del Patrono |
+| 2 | 1 | 1 | 8+1d6+3 | Fedele |
+| 3 | 2 | 1 | 8+2d6+6 | Il Patrono è con me |
+| 4 | 2 | 2 | 8+3d6+6 | Concentrato |
+| 5 | 3 | 2 | 8+4d6+9 | Muro mentale |
+| 6 | 3 | 3 | 8+5d6+9 | Batteria Magica |
+| 7 | 4 | 3 | 8+6d6+12 | Il Patrono è con me (2°) |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Fedele (2°) |
+| 10 | 5 | 5 | 8+9d6+15 | Figlio di Tazher |
+| 11 | 5 | 6 | 8+10d6+15 | |
+| 12 | 5 | 7 | 8+11d6+15 | Creare Oggetti Magici |
+| 13 | 5 | 8 | 8+12d6+15 | Sifone Nero |
+| 14 | 5 | 9 | 8+13d6+15 | |
+| 15 | 5 | 10 | 8+14d6+15 | Adepto della Magia (2°) |
+| 16 | 5 | 11 | 8+15d6+15 | Adepto della Magia (3°) |
+| 17 | 5 | 12 | 8+16d6+15 | |
+| 18 | 5 | 13 | 8+17d6+15 | Il Patrono è con me (3°) |
+| 19 | 5 | 14 | 8+18d6+15 | |
+| 20 | 5 | 15 | 8+19d6+15 | Magie Potenti |
 | 	**Lv** | **Magus** |  |  | **Abilità** |
 | **CA** | **CM** | **PF** | |
-| 1 | 1 | 0 | 1d6+3 | Arma Focalizzata - Incantatore da Combattimento |
-| 2 | 1 | 1 | 2d6+3 | Adepto della Magia |
-| 3 | 2 | 1 | 3d6+6 | Guerriero della Magia |
-| 4 | 2 | 2 | 4d6+6 | Infondere Energia Magica |
-| 5 | 3 | 2 | 5d6+9 | Radici magiche |
-| 6 | 3 | 3 | 6d6+9 | Guerriero della Magia (2°) |
-| 7 | 4 | 3 | 7d6+12 | Incantatore da Combattimento (2°) |
-| 8 | 4 | 4 | 8d6+12 | |
-| 9 | 5 | 4 | 9d6+15 | Infondere Energia Magica Superiore |
-| 10 | 5 | 5 | 10d6+15 | Un colpo un morto |
-| 11 | 6 | 5 | 11d6+18 | |
-| 12 | 6 | 6 | 12d6+18 | Guerriero della Magia (3°) |
-| 13 | 7 | 6 | 13d6+21 | Concentrato |
-| 14 | 7 | 7 | 14d6+21 | |
-| 15 | 8 | 7 | 15d6+24 | Guerriero della Magia (4°) |
-| 16 | 8 | 8 | 16d6+24 | Infondere Energia Magica Superiore (2°) |
-| 17 | 9 | 8 | 17d6+27 | |
-| 18 | 9 | 9 | 18d6+27 | Incantatore da Combattimento (3°) |
-| 19 | 10 | 9 | 19d6+30 | |
-| 20 | 10 | 10 | 20d6+30 | Adepto della Magia (2°) |
+| 1 | 1 | 0 | 11 | Arma Focalizzata - Duro a morire |
+| 2 | 1 | 1 | 8+1d6+3 | Adepto della Magia |
+| 3 | 2 | 1 | 8+2d6+6 | Incantatore da Combattimento |
+| 4 | 2 | 2 | 8+3d6+6 | Guerriero della Magia |
+| 5 | 3 | 2 | 8+4d6+9 | Radici magiche |
+| 6 | 3 | 3 | 8+5d6+9 | Guerriero della Magia (2°) |
+| 7 | 4 | 3 | 8+6d6+12 | Infondere Energia Magica |
+| 8 | 4 | 4 | 8+7d6+12 | |
+| 9 | 5 | 4 | 8+8d6+15 | Un colpo un morto |
+| 10 | 5 | 5 | 8+9d6+15 | Concentrato |
+| 11 | 5 | 6 | 8+10d6+15 | |
+| 12 | 6 | 6 | 8+11d6+18 | Incantatore da Combattimento (2°) |
+| 13 | 6 | 7 | 8+12d6+18 | Infondere Energia Magica Superiore |
+| 14 | 6 | 8 | 8+13d6+18 | |
+| 15 | 6 | 9 | 8+14d6+18 | Guerriero della Magia (3°) |
+| 16 | 7 | 9 | 8+15d6+21 | Infondere Energia Magica Superiore (2°) |
+| 17 | 7 | 10 | 8+16d6+21 | |
+| 18 | 8 | 10 | 8+17d6+24 | Guerriero della Magia (4°) |
+| 19 | 8 | 11 | 8+18d6+24 | |
+| 20 | 8 | 12 | 8+19d6+24 | Incantatore da Combattimento (3°) |
 
 ---
 
@@ -6473,11 +6502,13 @@ Se l'incantatore è **Distratto** (vedi elenco completo cause a pag. ) ovvero ce
 
 Non sempre lanciare un incantesimo è sufficiente: molte volte è necessario che l'incantesimo funzioni bene e, anzi, che agisca oltre le normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare una ***Prova di Magia*** e confidare nelle proprie capacità.
 
-L'incantatore tira **3d6 + 1d6 ogni quattro punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira **3d6 + 1d4 ogni tre punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti). Il numero di d4 aggiuntivi è pari alla Competenza Magica divisa per 3, arrotondata per difetto: per esempio, con CM 6 tira 3d6+2d4. I d6 seguono l'Esplosione del 6; i d4 non esplodono e l'1 su un d4 vale 1.
 
-L'incantatore può **ritirare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
+L'incantatore può **ritirare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**..
 
-La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
+Se, dopo gli eventuali ritiri concessi da Adepto della Magia, i primi tre dadi della Prova di Magia mostrano 1, la prova è un **Fallimento Critico Magico** automatico, indipendentemente dal totale ottenuto.
+
+La Prova di Magia si considera superata se il tiro è **pari o superiore** a 10 + 2 volte il livello dell'incantesimo + eventuali penalità. I Successi Critici o Fallimenti Critici Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
 
 Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
@@ -6485,18 +6516,26 @@ Il numero massimo di Successi Critici Magici fattibili è 3.
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente superare la difficoltà data dall'incantesimo e non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
-La Prova di Magia come tutte le Prove segue le Golden Rules, pag..
-
 >>> **Declamare la Magia**: Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!
 
 Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgendo anche gli altri giocatori.
 
->> **Osare la Prova di Magia**: La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. Non è solo questione di fortuna! Con le giuste Abilità potete evolvere un personaggio capace di dominare la sorte! |
+Se la Prova di Magia fallisce senza Fallimento Critico:
+
+- se era **volontaria**, l'incantesimo si manifesta comunque, ma non ottieni Successi Critici, spendi 1 Punto Magia aggiuntivo oltre al costo dell'incantesimo e le Azioni di lancio sono comunque consumate, se non hai quel Punto Magia aggiuntivo sei stordito per il round successivo;
+- se era **obbligatoria** (armatura o Distratto), l'incantesimo non si manifesta, i Punti Magia sono spesi e le Azioni di lancio sono consumate.
+
+Se fallisci di 8 o più, oppure ottieni tre 1, l'incantesimo fallisce e applichi la tabella dei Fallimenti Critici; i Punti Magia sono spesi e le Azioni di lancio sono consumate.
+
+La Prova di Magia come tutte le Prove segue le Golden Rules, pag..
+
+>> **Osare la Prova di Magia**: La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio.
+
 Non rinunciate al divertimento per paura di sbagliare. Meglio fallire clamorosamente in una esplosione di colori che rinunciare e basta!
 
 ## Fallimento Critico nella Prova di Magia
 
-Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 oppure tirato veramente basso, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
+Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, compresi i tre 1 nei primi tre dadi, oppure è fallita di 8 o più, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
 
 **Tabella: Effetti Fallimento Critico magico**
 
@@ -6541,7 +6580,7 @@ Un incantatore può anche **volontariamente fallire la Prova di Magia**.
 
 A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un certo ammontare di Punti Magia.
 
-**Gli incantesimi hanno un costo in Punti Magia pari al loro livello**
+**Tabella: Competenza Magica (CM) e Punti Magia (PM)Gli incantesimi hanno un costo in Punti Magia pari al loro livello**
 
 Ogniqualvolta si lanci un incantesimo si sottrae il costo ai Punti Magia a disposizione per il giorno.
 In caso di Trucchetti questi non consumano Punti Magia ma è necessario avere almeno 1 Punto Magia residuo.
@@ -6549,8 +6588,6 @@ In caso di Trucchetti questi non consumano Punti Magia ma è necessario avere al
 L'incantatore ha un **bonus** al punteggio di Punti Magia pari al suo modificatore di caratteristica per incantesimi.
 
 I Punti Magia si recuperano tutti con 8 ore di riposo. 
-
-**Tabella: Competenza Magica (CM) e Punti Magia (PM)**
 
 | **CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
 |---|---|---|---|---|---|
@@ -11011,7 +11048,7 @@ Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
 Entri a contatto con una creatura morta da non più di un secolo, che non sia morta di vecchiaia e non sia un non morto. Se l'anima della creatura è libera e consenziente, la creatura ritorna in vita con tutti i suoi Punti Ferita.
 
-Questo incantesimo chiude tutte le ferite mortali e ripristina ogni parte del corpo mancante. Tuttavia, riportare la creatura in vita impone un pesante tributo: la creatura subisce una penalità di -4 a tutti i Tiri di Attacco, i Tiri Salvezza e le prove di Competenza. Ogni volta che la creatura completa un riposo lungo, la penalità si riduce di 1 finché non scompare.
+Questo incantesimo chiude tutte le ferite mortali e ripristina ogni parte del corpo mancante. Tuttavia, riportare la creatura in vita impone un pesante tributo: la creatura subisce una penalità di -4 a tutti i Tiri di Attacco, i Tiri Salvezza e le prove di Competenza. Ogni volta che la creatura completa una notte di riposo, la penalità si riduce di 1 finché non scompare.
 
 L'incantesimo non può riportare in vita le creature che sono morte di vecchiaia, né può creare una nuova anima se l'originale non è libera o non è consenziente a tornare.
 
@@ -13345,12 +13382,12 @@ Ljust l'energia positiva, il calore, la luce, la vita e sintropia; Calicante, l'
 
 **Atmos** è il testimone, colui che segna il passaggio del tempo e trascrive ogni accadimento sulla Terra e tra i Patroni della Genesi. Una entità nata dalla creazione perché prevenisse la distruzione assoluta. Vigila e trascrive quanto fanno i Patroni della Genesi, le divinità che hanno generato il creato.
 
-Un quarto essere fu presente, il cui nome non ci è mai giunto, ma che conosciamo come *Ominiessenza*, colui che era il primo nato dai Patroni della Genesi.
+Un quarto essere fu presente, il cui nome non ci è mai giunto, ma che conosciamo come *Omniessenza*, colui che era il primo nato dai Patroni della Genesi.
 
 Il Primogenito dei Patroni della Genesi curiosando nell'universo tutto giunse sulla Terra e qui, non si sa come, venne catturato dalla Freten.
-Catturato, fatto a pezzi, collegato a macchine per poter attingere alla sua eterna energia. Non si sa come è stato possibile e tuttora è uno dei più grandi misteri irrisolti.
+Catturato, fatto a pezzi, collegato a macchine per poter attingere alla sua eterna energia. Non si sa come sia stato possibile e tuttora è uno dei più grandi misteri irrisolti.
 
-Quando il primo reattore della Frenten venne collegato si aprì una *frattura* e fu così che i Patroni della Genesi scoprirono cosa era accaduto e l'ira di Calicante fu immensa e totale.
+Quando il primo reattore della Freten venne collegato si aprì una *frattura* e fu così che i Patroni della Genesi scoprirono cosa era accaduto e l'ira di Calicante fu immensa e totale.
 
 La sua volontà e furia fu talmente soverchiante che Ljust non poté intervenire immediatamente, non poté impedire la morte indiscriminata di innocenti e la quasi distruzione di un intero mondo.
 
@@ -13358,7 +13395,9 @@ Cosa successe in quell'anno lo possiamo ancora vedere nelle macerie e distruzion
 
 Ljust riuscì infine a placare, con sommo sacrificio, Calicante e questo richiamò le sue manifestazioni.
 
-La morte del primo Patrono aveva creato numerosi squarci, fratture, nella realtà, Portali che si aprivano in altri mondi, altri universi. Portali che continuavano ad aprirsi e chiudersi cambiando posizione di continuo. In ognuno di questi Portali c'era un po' del loro figlio.
+La morte del primo Patrono aveva creato numerosi squarci, fratture nella realtà, Portali che si aprivano in altri mondi, altri universi. Portali che continuavano ad aprirsi e chiudersi cambiando posizione di continuo. In ognuno di questi Portali c'era un po' del loro figlio.
+
+Ma lo smembramento dell'Omniessenza non disperse solo energia grezza attraverso le fratture: la coscienza e lo spirito del Primogenito si infransero in ventisei frammenti primordiali, che ricaddero come polvere invisibile su tutta la Terra, radicandosi profondamente nell'animo delle creature mortali. Nacquero così i **26 Tratti**: scintille dell'essenza divina originale custodite nel cuore dei viventi. Quando un mortale manifesta, coltiva ed eleva un proprio Tratto fino a farlo risplendere, egli risveglia e canalizza quel frammento di Omniessenza. È per questa ragione fondamentale che i Patroni bramano i Tratti dei mortali: incapaci di generare da soli l'essenza primordiale ormai frammentata, dipendono dalla risonanza spirituale delle creature terrene per alimentare il proprio potere cosmico e far pendere la bilancia dalla propria parte.
 
 Ljust e Calicante decisero di fare di questo nostro mondo, la Terra, il loro spazio di gioco e qui decisero di fare divertire la loro futura progenie, i Patroni.
 
@@ -13376,23 +13415,33 @@ Il primo creato da Atmos, con l'aiuto di Ljust, e l'intervento di Calicante, fu 
 
 Si getta con coraggio nelle battaglie, attacca il nemico senza paura, protegge il più debole, difende la vita ma non teme di percorrere la strada della vendetta più distruttiva verso chi sfrutta e distrugge vite senza motivo. Gradh ama calarsi fra la gente e vivere con loro, come loro. Non si sente totalmente a suo agio nel pantheon con gli altri Patroni né fra la gente comune, lui è Umano tra i Patroni e Patrono tra gli Umani. Passionale e gentile è il Patrono che maggiormente ha a cuore le sorti del nostro pianeta e delle sue creature. Gradh è il Patrono che ci protegge dai Patroni, forse l'unico vero figlio della Terra e dei Patroni della Genesi.
 
-Le lingue di energie divine erano troppo intense, caotiche e pure perché Atmos potesse governarle per plasmare da solo i Patroni. Usando il grezzo potere dei Patroni della Genesi creò altri Patroni, la seconda venuta, ognuno influenzato in maniera diversa da Calicante o Ljust. Questi Patroni risultarono meno perfetti e divini rispetto alle sue intenzioni, più imperfetti ed *umani* in quanto originati dalle emozioni, incontrollabili e pure dei Patroni della Genesi. Questi nuovi Patroni plasmano le volontà, fondano regni, comandano nell'ombra le pedine che osano chiedere i loro favori.
+Le lingue di energie divine erano troppo intense, caotiche e pure perché Atmos potesse governarle per plasmare da solo i Patroni. Usando il grezzo potere dei Patroni della Genesi creò altri Patroni, la Seconda Venuta, ognuno influenzato in maniera diversa da Calicante o Ljust. Questi Patroni risultarono meno perfetti e divini rispetto alle sue intenzioni, più imperfetti ed *umani* in quanto originati dalle emozioni incontrollabili e pure dei Patroni della Genesi. Questi nuovi Patroni plasmano le volontà, fondano regni, comandano nell'ombra le pedine che osano chiedere i loro favori.
 
-In questa apparente calma i Patroni perpetuano i loro interessi, diventare i più forti, i più importanti, coloro che hanno maggiori seguaci. Lo scopo è uno solo: avere più persone possibili che seguono i loro Tratti.
+Alcuni spiriti tuttavia affondavano le loro radici già nella Prima Venuta o nella furia diretta della Genesi: **Cattalm**, scaturito direttamente dal rancore e dalla pulsione distruttiva di Calicante in risposta alla nascita di Gradh (seppur segretamente mitigato da un tocco furtivo di Ljust che gli impedisce di colpire i fanciulli), e **Nethergal**, messaggera e signora degli enigmi, sopravvissuta alla furia del primo collasso tecnologico e riconvertita da Atmos nel pantheon dei custodi della parola e dei sogni.
+
+In questa apparente calma i Patroni perpetuano i loro interessi: diventare i più forti, i più importanti, coloro che hanno maggiori seguaci. Lo scopo è uno solo: avere più persone possibili che seguono i loro Tratti.
 
 Se un Patrono agisce in prima persona o in modo indiscriminato sa che scatenerà la reazione di Gradh o l'intervento di Atmos che gli impediranno un uso incontrollato e massivo dei suoi poteri direttamente sulla Terra, come fecero i primissimi Patroni. Questo raramente li ferma e la stessa natura e creature tutte vengono spesso influenzate dal volere dei Patroni.
 
-Ed è così che nascono sempre più spesso aberrazioni, malattie sempre nuove, terre maledette dove non può crescere nulla, per non parlare di pazzie che spesso coinvolgono chi invece dovrebbe proteggere i cittadini.
-È una dura vita quella dell'uomo comune che continuamente deve affrontare siccità o alluvioni, morie di animali e un meteo irregolare se non assurdo, orde di creature venute dal nulla che vogliono solo sterminare tutti,
+Ed è così che nascono sempre più spesso aberrazioni, malattie sempre nuove, terre maledette dove non può crescere nulla, per non parlare di pazzie che spesso coinvolgono chi invece dovrebbe proteggere i cittadini. È una dura vita quella dell'uomo comune che continuamente deve affrontare siccità o alluvioni, morie di animali e un meteo irregolare se non assurdo, orde di creature venute dal nulla che vogliono solo sterminare tutti. Ad ogni passo deve guardarsi intorno perché non può mai sapere chi ha venduto l'anima a un Patrono per vivere un giorno in più.
 
-Ad ogni passo deve guardarsi intorno perché non può mai sapere chi ha venduto l'anima a un Patrono per vivere un giorno in più.
+In questo intricato arazzo, la presenza più terribile resta quella di **Tàhil**, il primo servitore di Calicante. Alla conclusione del cataclisma della Prima Venuta, quando Ljust concesse la vittoria al rivale pur di arrestare la distruzione della Terra, Tàhil fu proclamato Patrono Vincitore di quel primo ciclo secolare: un titolo che gli conferì il diritto supremo di non scomparire e di mantenere il suo dominio fisico sulla Terra per il secolo successivo. I suoi Draghi, generati ed evocati per seminare il terrore, continuano a fare incursioni al solo scopo di portare distruzione e morte, addestrando corrotti adepti mentre scure spire nel cielo promettono tempesta.
 
-Ovunque i nemici più forti sono i Draghi, generati e convocati nella prima venuta da Tàhil, il primo servitore di Calicante, unico, forse, dei primi Patroni ad essere rimasto.
-Fanno incursioni al solo scopo di portare distruzione e morte, seminare paura ed orrore.
-
-Molte regioni stanno diventando incubatrici di razze oscure e malvagie, legioni di non morti guidate da potenti negromanti si ammassano sui confini, i Draghi addestrano i loro corrotti adepti e scure spire nel cielo promettono tempesta.
+Molte regioni stanno diventando incubatrici di conflitti e corruzione: terre maledette dove culti e tiranni locali prosperano, legioni di non morti guidate da potenti negromanti si ammassano sui confini, bande di predoni e creature evocate saccheggiano le campagne. Non tutte queste minacce vengono da altri mondi: molte nascono da scelte di potere, da avidità e paure, e possono annidarsi anche nella comunità più vicina. Per questo l'uomo comune deve guardarsi non solo dai mostri, ma anche da chi, tra i suoi simili, ha scelto di trarre vantaggio dal caos.
 
 Come la Freten riuscì a catturare il Primo figlio ed a soggiogarlo è tuttora un mistero.
+
+## Il Giudizio dei Cento Anni e l'Anno del Buio Magico
+
+Dietro l'incessante competizione tra i Patroni non vi è soltanto mera vanità, ma la posta in gioco più alta del creato: il **Giudizio dei Cento Anni**. 
+
+Ogni secolo, infatti, il grande arazzo del tempo scandito da Atmos giunge a una resa dei conti tra Ljust e Calicante. Il verdetto non si calcola sul numero di templi o su vane preghiere, ma sul peso effettivo dei Tratti incarnati dai mortali: ogni punto Tratto acquisito, ogni Seguace, Devoto e soprattutto ogni Campione di alto livello (coloro che raggiungono 15 o 20 punti nei Tratti affini) costituisce un carico determinante sui piatti della bilancia cosmica. I Patroni di Polarità positiva, schierati con Ljust, spingono il mondo verso la sintropia e l'armonia; quelli di Polarità negativa, schierati con Calicante, lo trascinano verso l'entropia e la desolazione.
+
+Allo scoccare del centesimo anno si apre l'**Anno del Buio Magico**: un interregno di dodici mesi in cui la trama dell'invisibile si dissolve. In questo anno sospeso, la magia cessa di fluire sulla Terra. Gli incantatori perdono il legame con le Liste di Magia e gli oggetti magici che si rigenerano spontaneamente tacciono; soltanto le riserve residue e conservate (come pozioni, armi o armature incantate, anelli o bastoni a carica limitata) mantengono una scintilla di potere. Soltanto i Patroni della Genesi, Atmos, Lynx e il solo **Patrono Vincitore** del ciclo appena concluso conservano la pienezza delle proprie facoltà e possono continuare a elargire poteri ai propri fedeli.
+
+È un anno d'angoscia, rivalse terrene e guerre disperate prive di prodigi, durante il quale i vecchi Patroni declinano e i Patroni della Genesi generano la successiva progenie. Nel corso del secondo semestre dell'Anno del Buio, i mortali iniziano a percepire sogni profetici e richiami interiori, preannuncio dell'avvento dei nuovi Patroni affini alla loro indole.
+
+Oggi la Terra si trova al tramonto del secolo seguito alla Seconda Venuta: il Giudizio dei Cento Anni è imminente, e le scelte, le imprese e la crescita spirituale degli avventurieri decideranno quale delle due fiamme della Genesi reclamerà il dominio sul secolo a venire (per i dettagli storici sui cicli precedenti, si veda I Cicli Secolari, pag. ).
 
 ## Patroni
 
@@ -13413,29 +13462,72 @@ Non è necessario che abbia giurato fedeltà al Patrono reclamante o che ne sia 
 Un Patrono è ben contento se le creature seguono i suoi dettami e i suoi Tratti, e dona a coloro che lo fanno dei piccoli poteri come riconoscimento per la fedeltà a lui riservata, volutamente o meno. I poteri indicati sotto *Tratti in Comune* sono cumulativi e si riferiscono al solo Patrono reclamante. Se non indicato diversamente i poteri sono usabili 1 volta al giorno e costano 2 Azioni.
 Quando è indicato un incantesimo questo viene manifestato senza Prove di Magia o penalità dovute ad armatura.
 
-Ogni **Patrono predilige uno o più forme energetiche**, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le *Liste Privilegiate* , ovvero liste nelle quale il Devoto ha dei vantaggi d'uso.
+Ogni **Patrono predilige uno o più forme energetiche**, se sei Seguace puoi usare quell'energia nelle tue magie, se sei un Devoto invece i tuoi incantesimi useranno una della forme energetiche indicate. Sono indicate le *Liste Privilegiate* , ovvero liste nelle quali Seguace e Devoto hanno vantaggi d'uso.
 
-Le forme di Energia vengono distinte tra fonti positive, neutrali e negative, servono per inquadrare meglio il vostro padrone, pardon, il Patrono che servite.
+Le forme di Energia sono distinte in positive, neutrali e negative. Ogni Patrono ha una **Polarità** — positiva, neutrale o negativa — indicata direttamente nella sua scheda. **Non è un giudizio morale**: un Patrono neutrale può essere protettivo o distruttivo, e un Patrono positivo può essere pericoloso.
 
-Fate la somma delle energie, se positiva il Patrono si può considerare buono, se a valore zero il Patrono è neutrale, se a valore negativo il Patrono è malvagio, per comodità nella lista delle forme di energia è indicato se il Patrono è **B**uono, **N**eutrale o **M**alvagio.
+Un Patrono neutrale non è automaticamente negativo: la sua energia è una sintesi o un equilibrio. Per gli effetti che distinguono energia positiva e negativa, il Devoto o Seguace di un Patrono neutrale sceglie, al momento dell'adesione, se canalizzare energia positiva o negativa; la scelta è permanente finché non cambia Patrono.
 
 Nella descrizione del Patrono troverete anche la sua **manifestazione**, ovvero cosa accade quando un personaggio agisce in maniera particolarmente e significativamente consona ai Tratti seguiti dal Patrono. L'effetto è puramente scenico e di circostanza ma lascia sempre colpito chiunque lo possa osservare, solitamente garantisce un punto di avanzamento in un Tratto collegato al Patrono. Non è necessario essere Devoto o Seguace, basta aver seguito in maniera particolarmente *epica* quel Tratto.
 
 È presente anche l'indicazione dell'**arma preferita** dal Patrono. Non ci sono vantaggi nell'usarla, a meno di avere la specifica Abilità , la scelta è puramente personale e lasciata alla devozione del personaggio.
 
-Sotto l'indicazione dell'arma preferita c'è l'indicazione della Regola  ovvero il comportamento che il Devoto deve cercare di rispettare.
+Sotto l'indicazione dell'arma preferita c'è l'indicazione della Regola  ovvero il comportamento che il Devoto deve cercare di rispettare. Le possibili scollature dal Seminato sono descritte nella Tabella Scollature dal Seminato.
 
 Un personaggio può scegliere di aderire formalmente al Patrono reclamante. Con almeno **2 Tratti distinti** in comune può scegliere di essere un **Devoto**; con almeno **1 Tratto** in comune può scegliere di essere un **Seguace**. La scelta è volontaria e le due categorie sono alternative: non si può essere contemporaneamente Seguace e Devoto, né aderire a due Patroni diversi. Il **Vantaggio** indicato è solo per il Devoto.
 
+Per i Patroni della Genesi (**Ljust** e **Calicante**) valgono i requisiti speciali descritti in I Tratti: si può essere loro Seguace o Devoto solo con almeno **4 Tratti distinti in comune**, di cui uno sia il **Tratto dominante**.
+
 >> **Devoti e Seguaci**: Essere Devoti o Seguaci è una scelta vostra, nessuno ve la impone. Dovete sentirla come una occasione di gioco di ruolo, come un arricchimento del personaggio e non una costrizione. Essere Devoti o Seguaci non significa essere proni al volere del Patrono, anzi, significa essere ancora più convinto di propri Tratti, della propria personalità. **Un Patrono non chiede preghiere, ma chiede di essere se stessi**.
 
+>> **Seguace o Devoto?**: Le due strade sono esclusive e danno accesso ad Abilità diverse:
+\beginitemize[leftmargin=*]
+- **Seguace**: basta 1 Tratto in comune. Ottieni +1d6 alle Prove di Magia nelle Liste privilegiate, puoi usare le energie del Patrono, accedi a \hyperlinkIl Patrono è la mia ArmaIl Patrono è la mia Arma e a *Imposizione delle mani*/*Scacciare i non morti*. Non ottieni il Vantaggio e non puoi prendere *Fedele*, *Il Patrono è con me* o *Potere del Patrono*.
+- **Devoto**: servono almeno 2 Tratti distinti in comune. Ottieni il Vantaggio, +1d6 alle Prove di Magia nelle Liste privilegiate e puoi ignorare un dado tirato, ma devi rispettare la Regola del Patrono. Accedi a *Fedele*, *Il Patrono è con me*, *Potere del Patrono*, *Imposizione delle mani* e *Scacciare i non morti*. Non puoi prendere *Il Patrono è la mia Arma*.
+\enditemize
+In entrambi i casi ricevi i poteri derivanti dai Tratti comuni con il Patrono reclamante. *Fedele* non si cumula con *Batteria Magica*. Scegli la strada pensando a cosa vuoi fare, non solo a cosa sembra più forte: il Seguace è più libero e marziale, il Devoto è più legato al Patrono e alla magia.
+
+>> **Abilità legate a un Patrono**: Alcune Abilità richiedono un Patrono specifico, oltre ai normali prerequisiti:
+\beginitemize[leftmargin=*]
+- *Animalia*: Efrem o Shayalia;
+- *Sangue Puro*: Efrem o Shayalia, da Devoto, dopo Animalia;
+- *Forma Elementale*: Erondil, Gaya, Efrem o Shayalia;
+- *Figlia di Shayalia*: Shayalia;
+- *Figlio di Tazher* e *Sifone Nero*: Tazher;
+- *Guaritore* (2° volta): Ledyal;
+- *Rappresaglia*: almeno Seguace di Gradh, Nedraf, Orlaith o Sumkjr.
+\enditemize
+Poiché il Patrono non si sceglie, se vuoi una di queste Abilità devi costruire i Tratti in modo che quel Patrono sia il reclamante. Non puoi aggiungerlo dopo. Parlane in Sessione Zero.
+
 Il personaggio può rifiutare l'adesione formale e non essere né Seguace né Devoto. Non può però sostituire il Patrono reclamante con un altro Patrono: il legame metafisico e i poteri derivanti dai Tratti fanno sempre riferimento al Patrono reclamante.
+
+>>> **Adattarsi**: Il Narratore può aiutare a interpretare come i Tratti del personaggio si manifestano rispetto al Patrono reclamante, soprattutto quando lo stesso Tratto assume significati diversi. Non può però trasformare un Patrono diverso in quello reclamante, ignorare il numero minimo di Tratti comuni o permettere una doppia appartenenza. L'adesione come Seguace o Devoto resta una scelta del giocatore.
 
 Le capacità acquisite legate ai Tratti in comune sono indipendenti dall'essere un Devoto, Seguace o privo di adesione formale: rappresentano i doni del Patrono reclamante a chi segue i suoi Tratti.
 
 Un personaggio può ricevere più poteri cumulativi dal proprio Patrono reclamante quando aumenta la somma dei Tratti comuni. Non può ricevere poteri come se fosse reclamato da Patroni diversi né appartenere a più Patroni. 
 
->>> **Adattarsi**: Il Narratore può aiutare a interpretare come i Tratti del personaggio si manifestano rispetto al Patrono reclamante, soprattutto quando lo stesso Tratto assume significati diversi. Non può però trasformare un Patrono diverso in quello reclamante, ignorare il numero minimo di Tratti comuni o permettere una doppia appartenenza. L'adesione come Seguace o Devoto resta una scelta del giocatore.
+**Scollature dal Seminato**
+
+Il **Seminato concordato** è l'insieme delle aspettative del Patrono: la Regola, i Tratti che lo compongono, le Liste privilegiate e il modo in cui il personaggio vive il proprio legame. Una **scollatura** è uno scostamento significativo da quel seminato. Non è un errore del giocatore e non è automaticamente negativa: può nascere da una scelta di coscienza, da una crescita, da una ribellione o da una caduta.
+
+Le scollature non si applicano ai Seguaci, che non sono vincolati alla Regola, a meno che il giocatore non scelga di seguirla per motivi narrativi. Non sono nemmeno una punizione: sono un modo per mettere in scena il conflitto tra il personaggio e il Patrono. Il Narratore non deve usarle per giudicare il giocatore, per umiliarlo o per ``dargli una lezione''. La tabella è una guida, non un automatismo: il Narratore sceglie la reazione che apre la scena più interessante, non quella che punisce di più.
+
+**Scollature dal Seminato**
+
+| **Lieve**: Dimenticanza, dubbio, piccola incoerenza, una scelta impulsiva.Un segno, un sogno, un silenzio. Nessun effetto meccanico.  Il giocatore può segnare un check nel Tratto che ha guidato la scelta. La scena resta narrativa. |
+| --- |
+| **Significativa**: Scelta consapevole contro il Seminato per coscienza, paura o bisogno. Il Patrono può ritirare temporaneamente il Vantaggio (non i poteri dei Tratti) e mandare una prova, un sogno o un messaggio.  Scegliere: ricomporre, evolvere o accettare la scollatura. Il giocatore decide, non la tabella. |
+| **Profonda**: Scollatura reiterata, crisi, rottura consapevole, danno grave alla causa. Il Patrono può sospendere le benedizioni attive e convocare una Crisi del Personaggio. Ricomporre, modificare i Tratti (con l'eventuale cambio del Patrono reclamante) o rompere il legame. La scelta apre una storia, non chiude il personaggio. |
+| **Rottura**: Rifiuto esplicito, abbandono della causa, rottura cosmica. Il Patrono può allontanarsi. Il personaggio può restare senza adesione formale, oppure cambiare il proprio percorso e i propri Tratti: se cambia il Tratto dominante, può essere reclamato da un altro Patrono. Non è una punizione: è una transizione. |
+
+**Rottura: conseguenze meccaniche**. In caso di Rottura, il personaggio perde tutti i poteri concessi dal Patrono, compresi quelli derivanti dai Tratti, alla prima alba successiva. Conserva le capacità mundane, i Tratti e le Abilità non legate al Patrono. Finché nessun nuovo Patrono lo reclama non riceve nuovi poteri; se in seguito i suoi Tratti cambiano e un nuovo Patrono lo reclama, riceverà i poteri del nuovo Patrono secondo le regole normali.
+
+**Scollature positive**. Una scollatura può essere eroica o evolutiva: un Devoto di Tàhil che risparmia un innocente, un Devoto di Orlaith che disobbedisce a un ordine ingiusto, un Devoto di Sumkjr che mente per salvare un bambino. In questi casi il Patrono può reagire con una prova o un allontanamento, ma il personaggio segna un check nel Tratto che ha seguito e può attrarre un altro Patrono. La scollatura è materiale narrativo, non un fallimento.
+
+**Coercizione e forza maggiore**. Una scelta imposta da magia, possessione o forza maggiore non è una scollatura: il Patrono giudica l'intenzione.
+
+**Sicurezza al tavolo**. Le scollature sono opzionali. Se una Regola tocca un limite personale, si riscrive in Sessione Zero. Il Narratore chiede prima di trasformare una scena in una scollatura meccanica e usa gli strumenti di sicurezza del gruppo descritti in Sicurezza e benessere al tavolo . Nessuno è obbligato a interpretare una scollatura in modo doloroso: se un giocatore preferisce, la scollatura può essere risolta fuori scena o in terza persona, senza descriverla nel dettaglio. La scollatura non dice nulla sul valore della persona: riguarda solo il personaggio e la storia.
 
 **Tabella Energia - Elementi**
 
@@ -13450,7 +13542,7 @@ Un personaggio può ricevere più poteri cumulativi dal proprio Patrono reclaman
 
 In un mondo dove le divinità sono così capricciose, volubili e assetate di devoti fa loro gioco dimostrarsi generosi con coloro che possono poi diffondere i loro Tratti.
 
-Un favore chiesto a un Patrono ha sempre un prezzo non ovvio né scontato. Il Narratore deve valutare attentamente la supplica del personaggio e giudicare se la richiesta è pertinente con i Tratti del Patrono, in caso positivo tirare 1d100 e fare meno della metà del punteggio più alto di Tratto in comune con il Patrono. Oppure decidere autonomamente secondo il corso dell'avventura.
+Un favore chiesto a un Patrono ha sempre un prezzo non ovvio né scontato. Il Narratore deve valutare attentamente la supplica del personaggio e giudicare se la richiesta è pertinente con i Tratti del Patrono, in caso positivo tirare 1d100 e fare meno della metà del punteggio più basso di Tratto in comune con il Patrono. Oppure decidere autonomamente secondo il corso dell'avventura.
 
 
 ### Ljust
@@ -13459,7 +13551,7 @@ Un favore chiesto a un Patrono ha sempre un prezzo non ovvio né scontato. Il Na
 
 La Dama della Luce, colei che irradia calore e amore. Generatrice delle pulsioni d'amore, protezione, gentilezza, gioia e perdono. Racchiude in sé l'aspetto protettivo di una madre, la forza e l'audacia di una combattente, la passionalità di una giovane amante, l'allegria e l'apertura verso il nuovo, la fantasia di una bambina. Ljust incarna la bellezza della vita ed ogni creatura che la contempla vede quella che per lei è la massima armonia e cade prona al suo fascino.
 
-Ljust reclama soltanto un personaggio con almeno 4 Tratti in comune con lei. Nel corso delle ere Ljust decise di premiare le creature che più mostravano in modo innato e profondo amore per la vita, slancio verso il nuovo, forza incrollabile, dedizione, fiducia, rispetto e cura degli altri, donando loro i poteri e la possibilità di studiare e crescere come Allieve della Luce. Queste Allieve devono seguire la regola degli 8 Passi.
+Ljust reclama soltanto un personaggio con almeno 4 Tratti distinti in comune con lei. Nel corso delle ere Ljust decise di premiare le creature che più mostravano in modo innato e profondo amore per la vita, slancio verso il nuovo, forza incrollabile, dedizione, fiducia, rispetto e cura degli altri, donando loro i poteri e la possibilità di studiare e crescere come Allieve della Luce. Queste Allieve devono seguire la regola degli 8 Passi.
 
 La sua pazienza non è passività, ma la forza testarda di chi continua a proteggere la vita anche dopo ogni sconfitta. Ljust è aperta e socievole con ogni creatura, e la sua lealtà verso chi ha affidato a lei la propria vita non viene mai meno.
 
@@ -13467,12 +13559,12 @@ La sua pazienza non è passività, ma la forza testarda di chi continua a proteg
 - **Caratteristica**(Devoto): Saggezza o Carisma
 - **Tratto guida**: Compassionevole; **Tratti complementari**: Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente.
 - **Manifestazione**: luce dorata inonda l'incantatore.
-- **Somma dei Tratti in comune a 5 punti**: puoi lanciare l'incantesimo Luce come Reazione, 3 volte al giorno
+- **Somma dei Tratti in comune a 5 punti**: puoi lanciare l'incantesimo Luce come Reazione, 3 volte al giorno. Finché la luce è attiva, una creatura ostile entro 3 metri da te ha -1 al Tiro per Colpire contro di te.
 - **Somma dei Tratti in comune a 10 punti**: guadagni un +2 ai Tiri Salvezza su Tempra
 - **Somma dei Tratti in comune a 15 punti**: un'armatura di luce ti protegge, guadagni un +2 a tutti i Tiri Salvezza e Difesa, l'effetto è permanente.
 - **Somma dei Tratti in comune a 20 punti**: puoi lanciare l'incantesimo Bagliore Solare. 1 volta al giorno.
-- **Energia/B** (Seguace/Devoto): Energia Positiva, Luce
-- **Vantaggio** (Devoto): Ogni volta che fai una Cura magica curi un Punto Ferita in più.
+- **Polarità: Positiva**: Energia Positiva, Luce
+- **Vantaggio** (Devoto): Ogni volta che fai una Cura magica curi un Punto Ferita in più; se la creatura è a 0 Punti Ferita, ne curi due in più.
 - **Liste Magia Privilegiate**(Seguace/Devoto): Cura, Abiurazione
 - **Arma Preferita**: Spada Bastarda
 - **Regola**: Accettare l'invito a un ballo
@@ -13500,7 +13592,7 @@ Esistono anche Allieve di altro genere, rari ma storicamente accertati.
 
 È oscuro, gelido e arrabbiato. Racchiude in sé odio, violenza, distruzione, vendetta e perenne insoddisfazione. Raccoglie la personalità capricciosa e scontenta di un bambino, la noia violenta e sadica di un giovane uomo, la forza distruttiva di un uragano e la rabbia di un combattente che non ha più nulla da perdere. Calicante solo con la presenza mette a disagio, ti fa sentire in pericolo, affascina ma con le armi della paura e dell'incostanza.
 
-Calicante reclama soltanto personaggi che hanno almeno 4 Tratti in comune con lui. I suoi Devoti sono i migliori assassini, sua professione più affine: coloro che mostrano il maggiore sprezzo del pericolo e della vita altrui. I suoi prediletti sono coloro che sono temuti, odiati, violenti e crudeli, ma mortalmente efficienti e decisivi in ogni situazione di combattimento.
+Calicante reclama soltanto personaggi che hanno almeno 4 Tratti distinti in comune con lui. I suoi Devoti sono i migliori assassini, sua professione più affine: coloro che mostrano il maggiore sprezzo del pericolo e della vita altrui. I suoi prediletti sono coloro che sono temuti, odiati, violenti e crudeli, ma mortalmente efficienti e decisivi in ogni situazione di combattimento.
 
 Il suo egoismo è Ambizioso e Arrogante: Calicante vuole che ogni cosa appartenga a lui e non concede nulla senza un tornaconto. È Disonesto, accumula ciò che considera utile e trasforma ogni rapporto in un inganno; il suo Cinismo e la sua Pazienza gelida rendono ancora più spietata la sua Vendetta. La sua violenza distruttiva non aggiunge il Tratto Crudele al profilo: per Calicante la sofferenza è soprattutto uno strumento di possesso, dominio e annientamento.
 
@@ -13508,11 +13600,11 @@ Il suo egoismo è Ambizioso e Arrogante: Calicante vuole che ogni cosa apparteng
 - **Caratteristica**: Forza o Destrezza
 - **Tratto guida**: Ambizioso; **Tratti complementari**: Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro.
 - **Manifestazione**: spada grondante di sangue nero
-- **Somma dei Tratti in comune a 5 punti**: Puoi lanciare l'incantesimo Oscurità. Una volta al giorno
+- **Somma dei Tratti in comune a 5 punti**: Puoi lanciare l'incantesimo Oscurità una volta al giorno. Per 1 minuto puoi vedere attraverso l'oscurità magica, compresa quella che crei.
 - **Somma dei Tratti in comune a 10 punti**: La tua arma si ammanta di ombra. Guadagni un +2 al Tiro per Colpire e +1d4 di danno da Vuoto per 2d6 round, Una volta al giorno.
 - **Somma dei Tratti in comune a 15 punti**: Crei 4 dardi di Vuoto, ogni dardo fa 2d6 di danno, colpisce automaticamente entro 18 metri. Una volta al giorno.
-- **Somma dei Tratti in comune a 20 punti**: Crei una zona di energia protettiva attorno a te nel raggio di 3 metri, dimezzi tutto il danno che ricevi, non è possibile recuperare Punti Ferita nell'area. Durata 10 minuti consecutivi, 1 volta al giorno.
-- **Energia/M**: Energia Negativa, Vuoto
+- **Somma dei Tratti in comune a 20 punti**: Crei una zona di energia protettiva attorno a te nel raggio di 3 metri: dimezzi tutto il danno che ricevi e non è possibile recuperare Punti Ferita nell'area. Il dimezzamento si applica una sola volta, prima di DR e resistenze, e non si cumula con altre riduzioni percentuali. Durata 10 minuti consecutivi, 1 volta al giorno.
+- **Polarità: Negativa**: Energia Negativa, Vuoto
 - **Vantaggio**: +2 TS contro Lista Incantamento
 - **Liste Magia Privilegiate**: Fuoco, Necromanzia
 - **Arma Preferita**: Machete
@@ -13530,7 +13622,7 @@ Atmos ha il potere unico e riservato solo a lui di poter bandire dal creato un P
 
 Tutti i Patroni temono Atmos per il suo potere, il più terribile per loro, ovvero il loro alienamento, l'oblio, la dimenticanza, l'essere distolti dal tempo e dalla sfida.
 
-Atmos reclama soltanto un personaggio che possieda almeno quattro Tratti in comune con lui e ami la storia e la conoscenza.
+Atmos accoglie come suoi veri studiosi e devoti coloro che possiedono una profonda affinità con lui e amano la storia e la conoscenza.
 
 Vestito di un morbido saio marrone e calzari di cuoio si muove tra gli infiniti scaffali della Biblioteca del Sapere con sempre uno strano misuratore del tempo appeso alla vita.
 
@@ -13540,12 +13632,12 @@ Atmos osserva a lungo prima di decidere e spesso rimane Indeciso davanti alle co
 - **Caratteristica**: Intelligenza o Saggezza
 - **Tratto guida**: Indeciso; **Tratti complementari**: Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro.
 - **Manifestazione**: l'incantesimo si sviluppa come a rallentatore, è solo un effetto illusorio
-- **Somma dei Tratti in comune a 5 punti**: Conosci sempre la data esatta e l'ora.
+- **Somma dei Tratti in comune a 5 punti**: Conosci sempre la data esatta e l'ora. Inoltre, una volta al giorno, toccando un oggetto o un luogo puoi vedere una breve scena del suo passato recente (entro una settimana). Costo 2 Azioni.
 - **Somma dei Tratti in comune a 10 punti**: Hai una intuizione innata per la conoscenza. Hai +1d6 alle prove di Conoscenza
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Globo di Invulnerabilità, 1 volta al giorno.
 - **Somma dei Tratti in comune a 20 punti**: Ogniqualvolta devi fare una prova di Arcana puoi prendere il 18 come se prendessi 10
-- **Energia/N**: Suono, Freddo
-- **Vantaggio**: Sai sempre che ora è
+- **Polarità: Neutrale**: Suono, Freddo
+- **Vantaggio**: Sai sempre che ora è. Hai +2 alle prove di Conoscenza relative a storia, cronologia e tempo.
 - **Liste Magia Privilegiate**: Divinazione, Abiurazione
 - **Arma Preferita**: Mazza leggera
 - **Regola**: Non accettare o dare un compenso se non meritato
@@ -13554,7 +13646,7 @@ Atmos osserva a lungo prima di decidere e spesso rimane Indeciso davanti alle co
 
 > Le persone non fanno i viaggi, sono i viaggi che fanno le persone. (John Steinbeck)
 
-Patrono dei Portali, Lynx reclama soltanto personaggi che abbiano almeno 3 Tratti in comune con lui. È il primo Patrono generato da Ljust e Calicante, creato per proteggere la Terra dagli attacchi esterni.
+Patrono dei Portali, Lynx riconosce e predilige come suoi veri devoti i viaggiatori instancabili e coloro che condividono la sua dedizione nel difendere i confini del mondo. È il primo Patrono generato da Ljust e Calicante, creato per proteggere la Terra dagli attacchi esterni.
 
 Serio, occhi gelidi di un azzurro chiarissimo è il Custode dei Portali e di ciò che è Oltre. Letale guardiano per chi cerca di passarli senza permesso, guida attenta per chi chiede il suo aiuto e il suo permesso. Si fa scudo delle sue cicatrici per allontanare tutti. È il solitario controllore del mondo.
 
@@ -13566,12 +13658,12 @@ La sua solitudine è una conseguenza del ruolo di guardiano. Lynx sa parlare con
 - **Caratteristica**: Destrezza o Intelligenza
 - **Tratto guida**: Testardo; **Tratti complementari**: Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
 - **Manifestazione**: come se il panorama non avesse più orizzonte
-- **Somma dei Tratti in comune a 5 punti**: Una volta al giorno puoi eseguire un'Azione di Movimento in più
+- **Somma dei Tratti in comune a 5 punti**: Una volta al giorno puoi eseguire un'Azione di Movimento in più e ignorare il terreno difficile per quel movimento. Percepisci inoltre la direzione del Portale più vicino entro 1 km.
 - **Somma dei Tratti in comune a 10 punti**: Puoi lanciare Porta Dimensionale una volta al giorno
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Esilio, 1 volta al giorno, DC 30.
 - **Somma dei Tratti in comune a 20 punti**: Puoi teletrasportarti per 500km al giorno (anche più teletrasporti o teletrasportati purché la somma totale non superi 500km)
-- **Energia/N**: Fuoco, Elettricità
-- **Vantaggio**: Sei considerato di una taglia maggiore quando devono spostarti o spingerti
+- **Polarità: Neutrale**: Fuoco, Elettricità
+- **Vantaggio**: Sei considerato di una taglia maggiore quando devono spostarti o spingerti. Hai +2 alla Difesa contro spinte, atterramenti e prese.
 - **Liste Magia Privilegiate**: Evocazione, Acqua
 - **Arma Preferita**: Spada Corta
 - **Regola**: Non lasciare un ambiente non esplorato
@@ -13599,11 +13691,11 @@ Gradh è Vanitoso e Arrogante nella certezza di poter difendere ciò che ama, ma
 - **Caratteristica**: Forza
 - **Tratto guida**: Coraggioso; **Tratti complementari**: Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 - **Manifestazione**: due spire una nera come ombra e una lucente come scintilla circondano la tua arma intrecciandosi
-- **Somma dei Tratti in comune a 5 punti** punti: Puoi lanciare l'incantesimo Cura Ferite da 3 Punti Magia, ma ti causa 1d6 di danno. 1 volta al giorno
+- **Somma dei Tratti in comune a 5 punti**: Puoi lanciare l'incantesimo Cura Ferite da 3 Punti Magia, ma subisci 1d6 danni da energia negativa. Una volta al giorno. Per 1 minuto, il tuo prossimo attacco contro un immondo o un non morto infligge +1d6 danni.
 - **Somma dei Tratti in comune a 10 punti**: Per 10 minuti consecutivi hai un bonus di +1d6 ai Tiri Salvezza su Riflessi e Tempra. Una volta al giorno.
 - **Somma dei Tratti in comune a 15 punti**: Emani un aura che concede a tutti i tuoi compagni entro raggio 3 metri un +2 ai Tiri Salvezza. Una volta al giorno, per 30 minuti consecutivi
 - **Somma dei Tratti in comune a 20 punti**: Lanci l'incantesimo Palla di Fuoco. L'incantesimo causa 60 di danno da energia negativa. DC 25 Riflessi per dimezzare. 2 volte al giorno
-- **Energia/N**: Energia Positiva - Energia Negativa
+- **Polarità: Neutrale**: Energia Positiva - Energia Negativa
 - **Vantaggio**: +2 Consapevolezza
 - **Liste Magia Privilegiate**: Abiurazione, Invocazione
 - **Arma Preferita**: Mazza flangiata
@@ -13632,9 +13724,9 @@ Atherim è sospettosa e non concede facilmente l'accesso ai propri segreti, ma v
 - **Somma dei Tratti in comune a 5 punti**: Puoi aggiungere 1d6 a un Tiro salvezza dopo averlo tirato ma prima di sapere se ha avuto successo o meno. Una volta al giorno, come Reazione.
 - **Somma dei Tratti in comune a 10 punti**: Guadagni 30 Punti Ferita temporanei. Durata 1 ora, una volta al giorno, come Azione Immediata.
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Zona di Verità 3 volte al giorno, senza Tiro Salvezza.
-- **Somma dei Tratti in comune a 20 punti**: Ogni pozione che bevi ha il doppio di durata o effetto se immediata.
-- **Energia/B**: Energia Positiva, Elettricità
-- **Vantaggio**: Riduci il Sanguinamento di 1 a fine round
+- **Somma dei Tratti in comune a 20 punti**: Ogni pozione che bevi ha il doppio della durata oppure il doppio dell'effetto immediato: scegli quando la bevi, non entrambi. Non si cumula con altri effetti che raddoppiano durata o effetto.
+- **Polarità: Positiva**: Energia Positiva, Elettricità
+- **Vantaggio**: Riduci il Sanguinamento di 1 a fine round. Hai +2 ai Tiri Salvezza contro gli effetti che causano Sanguinamento.
 - **Liste Magia Privilegiate**: Ammaliamento
 - **Arma Preferita**: Pugnale
 - **Regola**: Non rivelare un segreto confidato
@@ -13662,9 +13754,9 @@ La compassione, la pazienza e l'altruismo di Belevon sono spesso una maschera: s
 - **Somma dei Tratti in comune a 5 punti**: Puoi lanciare l'incantesimo Prestidigitazione, 3 volte al giorno.
 - **Somma dei Tratti in comune a 10 punti**: Acquisisci la capacità lanciare l'incantesimo Immagine Maggiore una volta al giorno.
 - **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Allucinazione Mortale. 1 volta al giorno
-- **Somma dei Tratti in comune a 20 punti**: Toccando un oggetto vieni a conoscenza per sommi capi della storia di chi l'ha creato. Una volta al giorno. Costa 3 Azioni.
-- **Energia/N**: Fuoco, Suono
-- **Vantaggio**: Vedi Abilità Fortunato
+- **Somma dei Tratti in comune a 20 punti**: Toccando un oggetto vieni a conoscenza per sommi capi della storia di chi l'ha creato e degli ultimi possessori. Una volta al giorno, costo 3 Azioni. Per 1 minuto percepisci inoltre la direzione del possessore attuale, se l'oggetto gli appartiene ancora.
+- **Polarità: Neutrale**: Fuoco, Suono
+- **Vantaggio**: Hai gratuitamente l'Abilità Fortunato. Se la possiedi già, puoi usarla una volta in più al giorno.
 - **Liste Magia Privilegiate**: Illusione
 - **Arma Preferita**: Picca leggera
 - **Regola**: Contratta sul prezzo che sia in acquisto o vendita
@@ -13691,11 +13783,11 @@ Cattalm non ha fretta: lascia che la calamità maturi e che il caos compia il la
 - **Caratteristica**: Forza
 - **Tratto guida**: Cinico; **Tratti complementari**: Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 - **Manifestazione**: il rombo del tuono
-- **Somma dei Tratti in comune a 5 punti**: Attraverso le tue armi indebolisci l'avversario designato. A seguito di un colpo critico puoi aumentare di un livello l'affaticamento. Una volta al giorno come Reazione.
-- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco imputridisce cibo (fino a 50kg/Ingombro 10) e acqua (un cubo con uno spigolo di 10 m). Una volta al giorno
+- **Somma dei Tratti in comune a 5 punti**: Attraverso le tue armi indebolisci l'avversario designato. A seguito di un colpo critico puoi aumentare di un livello l'affaticamento. Una volta al giorno come Reazione. Inoltre, una volta al giorno, puoi infliggere +1d6 danni da Vuoto a una struttura o a un oggetto non magico.
+- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco imputridisce cibo (fino a 50 kg/Ingombro 10) e acqua (un cubo con uno spigolo di 10 m). Una volta al giorno. Inoltre, puoi infliggere 2d6 danni da Vuoto a una creatura vivente toccata; un Tiro Salvezza su Tempra con DC 10 + Somma dei Tratti in comune dimezza il danno.
 - **Somma dei Tratti in comune a 15 punti**: Il tuo sguardo acceca di collera. Lanci l'incantesimo Confusione, ma l'unico risultato possibile è che i target attaccano dei soggetti a caso. DC 25. 1 volta al giorno
 - **Somma dei Tratti in comune a 20 punti**: Lanci l'incantesimo Cono di Freddo 60 di danno, ma il danno è da Vuoto. DC 25. Una volta al giorno
-- **Energia/M**: Energia Negativa, Vuoto
+- **Polarità: Negativa**: Energia Negativa, Vuoto
 - **Vantaggio**: aumenta di 10 i PF necessari ad ucciderti
 - **Liste Magia Privilegiate**: Fuoco
 - **Arma Preferita**: Ascia da battaglia
@@ -13725,9 +13817,9 @@ Efrem è Leale verso la natura e Paziente nel difenderla. La sua Prudenza può r
 - **Manifestazione**: spire di foglie avvolgono l'arma
 - **Somma dei Tratti in comune a 5 punti**: Il tuo tocco rende docili gli animali non magici. Tiro Salvezza su Volontà 20 per resistere. 3 volte al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 10 punti**: Guadagni un +1d6 a tutte le prove di Sopravvivenza che si effettuano in un ambiente naturale.
-- **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Bacche Benefiche 1 volta al giorno. Ogni bacca cura 1d6 Punti Ferita e rimuove le malattie o veleni non magici.
+- **Somma dei Tratti in comune a 15 punti**: Puoi lanciare l'incantesimo Bacche Benefiche 1 volta al giorno. Crea un numero di bacche pari al tuo livello; ogni bacca cura 1d6 Punti Ferita e rimuove le malattie o i veleni non magici. Le bacche durano 24 ore.
 - **Somma dei Tratti in comune a 20 punti**: Il tuo tocco è quello del padrone. Puoi ammansire creature anche magiche come Aberrazioni o Draghi che tocchi. Tiro Salvezza su Volontà DC 30. Una volta al giorno. Costo 2 Azioni
-- **Energia/N**: Elettricità, Suono
+- **Polarità: Neutrale**: Elettricità, Suono
 - **Vantaggio**: +1d6 a Gestire Animali
 - **Liste Magia Privilegiate**: Animali e Piante e una Lista Magia Elementale.
 - **Arma Preferita**: Bastone
@@ -13751,11 +13843,11 @@ Erondil protegge con compassione le opere affidate alle sue cure ed è leale ver
 - **Caratteristica**: Saggezza
 - **Tratto guida**: Arrogante; **Tratti complementari**: Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 - **Manifestazione**: suono di tempesta e rombo di frana
-- **Somma dei Tratti in comune 5 punti**: Non temi più le cadute. Puoi lanciare l'incantesimo Caduta Piuma 3 volte al giorno, solo su di te.
+- **Somma dei Tratti in comune a 5 punti**: Non temi più le cadute. Puoi lanciare l'incantesimo Caduta Piuma 3 volte al giorno, solo su di te. Inoltre, non sei rallentato dal terreno difficile roccioso o di terra.
 - **Somma dei Tratti in comune a 10 punti**: Il tuo tocco plasma la pietra. Puoi lanciare l'incantesimo Passa Porta 1 volta al giorno.
 - **Somma dei Tratti in comune a 15 punti**: Puoi scagliare l'incantesimo Fulmine dalle tue mani. Tiro Salvezza Riflessi DC 30 per dimezzare. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 20 punti**: Sei in grado di creare una fossa profondissima (1km) sotto il tuo avversario (taglia fino a grande). Tiro Salvezza Riflessi 30 o cadere ogni round di 100 metri. Una volta al giorno. Dopo 1 minuto la fossa si chiude con chi c'è dentro. Costo 2 Azioni.
-- **Energia/N**: Suono, Elettricità
+- **Somma dei Tratti in comune a 20 punti**: Sei in grado di creare una fossa profonda 1 km sotto un avversario di taglia fino a Grande. Tiro Salvezza su Riflessi DC 30: se fallisce, cade e continua a cadere di 100 metri all'inizio di ogni suo round; se riesce, resta in superficie. Una volta al giorno, costo 2 Azioni. Dopo 1 minuto la fossa si chiude: chi è ancora dentro subisce 10d6 danni da schiacciamento ed è sepolto, e non può agire finché non viene liberato con una prova di Forza o di Scavare con DC 20. Volare o teletrasportarsi fuori termina l'effetto.
+- **Polarità: Neutrale**: Suono, Elettricità
 - **Vantaggio**: Riduzione 10 ai danni da Elettricità
 - **Liste Magia Privilegiate**: Aria, Terra
 - **Arma Preferita**: Martello da guerra
@@ -13787,11 +13879,11 @@ La generosità di Gaya si vede quando condivide la bellezza delle proprie opere,
 - **Caratteristica**: Intelligenza
 - **Tratto guida**: Altruista; **Tratti complementari**: Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 - **Manifestazione**: spire di fuoco e acqua avvolgono l'incantatore
-- **Somma dei Tratti in comune a 5 punti**: Puoi creare fino a 5 litri di acqua o 1 litro di liquore di buona qualità. Una volta al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 5 punti**: Puoi creare fino a 5 litri di acqua pura o 1 litro di liquore di buona qualità. Una volta al giorno, costo 2 Azioni. Puoi inoltre purificare fino a 5 litri di acqua non magica e rendere commestibile una razione avariata.
 - **Somma dei Tratti in comune a 10 punti**: Il tuo metabolismo non teme il freddo. Resisti al Danno magico da freddo e sei immune a quello naturale.
 - **Somma dei Tratti in comune a 15 punti**: Puoi respirare sott'acqua come respiri l'aria. Resisti al danno da fuoco non magico
 - **Somma dei Tratti in comune a 20 punti**: Generi una pioggia di fuoco. Lanci l'incantesimo Colpo Infuocato, DC 25 una volta al giorno. Resisti il danno da fuoco magico.
-- **Energia/N**: Freddo, Fuoco
+- **Polarità: Neutrale**: Freddo, Fuoco
 - **Vantaggio**: Riduzione 10 ai danni da Fuoco
 - **Liste Magia Privilegiate**: Acqua, Fuoco
 - **Arma Preferita**: Tridente
@@ -13823,38 +13915,53 @@ Krondal è paziente nel lasciare che ogni scelta mostri le proprie conseguenze, 
 - **Somma dei Tratti in comune a 10 punti**: Non vuoi essere legato o ammanettato. Due volte al giorno puoi lanciare solo su te stesso Libertà di Movimento.
 - **Somma dei Tratti in comune a 15 punti**: La tua presenza toglie la vista agli avversari. Designa fino a 6 creature entro 9 metri, queste devono fare un Tiro Salvezza Tempra a DC 30 o essere ciechi solo nei tuoi confronti per 1d4 round.
 - **Somma dei Tratti in comune a 20 punti**: La tua arma è più efficace contro i nemici. Ogni creatura colpita deve fare un Tiro Salvezza Volontà DC 20 o rimanere paralizzata per 3 round. Una volta che la creatura riesce nel Tiro Salvezza non può essere più influenzata per le successive 24 ore. Una volta al giorno, attivare l'abilità costa 1 Azione e dura 1 minuto.
-- **Energia/B**: Energia Positiva, Fuoco
+- **Polarità: Positiva**: Energia Positiva, Fuoco
 - **Vantaggio**: +2 TS su Tempra
 - **Liste Magia Privilegiate**: Abiurazione
 - **Arma Preferita**: Spada lunga
 - **Regola**: Non permettere soprusi
 
-### Ledyal 
+### Ledyal e Laydel 
 
 > L'anima di un uomo è immortale e incorruttibile. (Platone)
 
 Non è il corpo che mi definisce (anonima creatura)
 
-È il Patrono senza un volto preciso, senza una voce se non un canto. Mutevole nel corpo e senza una definizione chiara del suo essere. Si manifesta con un lungo mantello color rosso fuoco dal tessuto fatto da mille farfalle. Il suo tocco è vita e pace, protegge chi necessita dei suoi favori indipendentemente dal fatto che li chieda o meno. Desidera un mondo senza sofferenza, con solo felicità ed armonia. Sospettoso/a e profondamente introverso non crede a coloro che gli danno ragione. Ha il cuore pieno di vita e di bontà ma non ha un corpo con cui amare.
+È il Patrono senza un volto preciso, senza una voce se non un canto. Mutevole nel corpo e senza una definizione chiara del suo essere. Si manifesta con un lungo mantello color rosso fuoco dal tessuto fatto da mille farfalle. Il suo tocco è vita e pace, protegge chi necessita dei suoi favori indipendentemente dal fatto che li chieda o meno. Mutevole, pura e al contempo sfuggente, desidera un mondo senza sofferenza, con solo felicità ed armonia. Ha il cuore pieno di vita e di bontà ma non ha un corpo con cui amare.
 
-Ledyal ha anche una sorella gemella, o forse un'altra personalità, o forse sono lo stesso Patrono, nessuno le ha mai viste insieme. La *gemella* **Laydel** non tollera la sofferenza, disprezza chi causa dolore, uccide senza timore qualunque creatura abbia peccato contro un innocente, chiunque abbia causato sofferenza.
+Ledyal ha anche una sorella gemella, o forse un'altra personalità, o forse sono lo stesso Patrono: nessuno le ha mai viste insieme. La *gemella* **Laydel** non tollera la sofferenza, disprezza chi causa dolore, uccide senza timore qualunque creatura abbia peccato contro un innocente, chiunque abbia causato sofferenza.
 
 Ledyal affronta i conflitti con prudenza e spesso evita lo scontro diretto, ma rimane testarda nel difendere la pace. Laydel è invece paziente nel preparare la punizione, ambiziosa nel cancellare ogni fonte di sofferenza e intransigente, cinica e arrogante verso chi la provoca; la sua invidia nasce dal vedere altri vivere senza il peso che lei porta.
 
-- **Simbolo**: Una farfalla che gronda sangue mentre vola
-- **Caratteristica**: Saggezza (Ledyal) - Forza (Laydel)
-- **Tratto guida Ledyal**: Entusiasta; **Tratti complementari**: Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
-- **Tratto guida Laydel**: Vendicativo; **Tratti complementari**: Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
-- **Manifestazione**: come se un mantello di farfalle avvolgesse il Devoto
-- **Somma dei Tratti in comune a 5 punti** punti: Il tuo tocco è vita/attacco. 3 volte al giorno puoi toccare una creatura vivente e curarla/causare 1d6 Punti Ferita. Costo 2 Azioni (comprende anche l'Azione di tocco)
+- **Simbolo comune**: Una farfalla che gronda sangue mentre vola
+- **Manifestazione**: Come se un turbine di farfalle scarlatte avvolgesse il Devoto
+- **Regola comune**: Non permettere violenze contro il genere o l'identità di una creatura
+
+\paragraph{Ledyal (La Faccia della Grazia)}
+
+- **Caratteristica**: Saggezza
+- **Tratto guida**: Entusiasta; **Tratti complementari**: Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
+- **Polarità: Positiva**: Energia Positiva, Elettricità
+- **Vantaggio**: +1d6 alle prove di Pronto Soccorso
+- **Liste Magia Privilegiate**: Cura
+- **Arma Preferita**: Manganello
+- **Somma dei Tratti in comune a 5 punti**: Il tuo tocco è vita. 3 volte al giorno puoi toccare una creatura vivente e curarla di 1d6 Punti Ferita più metà della Somma dei Tratti in comune (arrotondata per difetto). Costo 2 Azioni (comprende anche l'Azione di tocco).
 - **Somma dei Tratti in comune a 10 punti**: Il tuo tocco è pace. Puoi lanciare 2 volte al giorno l'incantesimo Santuario.
 - **Somma dei Tratti in comune a 15 punti**: La tua aura protegge i tuoi compagni. Entro raggio 6 metri i tuoi compagni hanno un +4 alla Difesa e un +2 ai Tiri Salvezza. Durata 10 minuti consecutivi, una volta al giorno. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 20 punti**: Irradi una sfera curativa intorno a te. Ogni creatura nel raggio di 6 metri viene curata di 60 Punti Ferita. Una volta al giorno. In caso di Laydel l'effetto è opposto. Costo 2 Azioni
-- **Energia/B**: Energia Positiva, Elettricità
-- **Vantaggio**: +1d6 alle prove di Pronto Soccorso (Ledyal) oppure hai +4 TS contro Paura (Laydel)
-- **Liste Magia Privilegiate**: Cura o Invocazione
-- **Arma Preferita**: Manganello/Catena chiodata
-- **Regola**: Non permettere violenze contro il genere di una creatura
+- **Somma dei Tratti in comune a 20 punti**: Irradi una sfera curativa intorno a te. Ogni creatura nel raggio di 6 metri viene curata di 60 Punti Ferita. Una volta al giorno. Costo 2 Azioni.
+
+\paragraph{Laydel (La Faccia del Castigo)}
+
+- **Caratteristica**: Forza
+- **Tratto guida**: Vendicativo; **Tratti complementari**: Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
+- **Polarità: Negativa**: Energia Negativa, Elettricità
+- **Vantaggio**: +4 TS contro Paura
+- **Liste Magia Privilegiate**: Invocazione
+- **Arma Preferita**: Catena chiodata
+- **Somma dei Tratti in comune a 5 punti**: Il tuo tocco è castigo. 3 volte al giorno puoi toccare una creatura vivente e infliggerle 1d6 Punti Ferita di danno più metà della Somma dei Tratti in comune (arrotondata per difetto). Costo 2 Azioni (comprende anche l'Azione di tocco).
+- **Somma dei Tratti in comune a 10 punti**: Ritorsione del dolore. 2 volte al giorno, quando vieni colpito in mischia, chi ti ha attaccato subisce immediatamente 2d6 danni da Elettricità (Tiro Salvezza Riflessi DC 20 per dimezzare).
+- **Somma dei Tratti in comune a 15 punti**: Aura del terrore. Entro raggio 6 metri i nemici subiscono -2 alla Difesa e -2 ai Tiri Salvezza per 10 minuti consecutivi, una volta al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 20 punti**: Onda di vendetta. Irradi una sfera distruttiva intorno a te: ogni nemico nel raggio di 6 metri subisce 60 Punti Ferita di danno da energia negativa (Tiro Salvezza Riflessi DC 25 per dimezzare). Una volta al giorno. Costo 2 Azioni.
 
 ### Nethergal
 
@@ -13881,11 +13988,11 @@ Nethergal è paziente nel raccogliere informazioni e testarda nel portare a term
 - **Tratto guida**: Estroverso; **Tratti complementari**: Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
 - **Manifestazione**: cascata di piume, un'oca in volo
 - **Somma dei Tratti in comune a 5 punti**: Puoi inviare un messaggio di massimo 144 caratteri a un soggetto che puoi vedere entro 50 metri, senza essere udito né visto. Una volta all'ora. Costo 1 Azione. Il soggetto deve comprendere la lingua usata.
-- **Somma dei Tratti in comune a 10 punti**: Mettendo la mano su un libro ne apprendi il contenuto come se lo avessi letto. Un libro a settimana. Perdi le conoscenze così acquisite dopo una settimana. Tempo 1 round. La lingua scritta del tomo deve essere nota.
+- **Somma dei Tratti in comune a 10 punti**: Mettendo la mano su un libro ne apprendi il contenuto come se lo avessi letto. Puoi farlo una volta al giorno; conservi le conoscenze per una settimana, oppure in modo permanente se trascrivi le informazioni su un supporto. Tempo 1 round. La lingua scritta del tomo deve essere nota.
 - **Somma dei Tratti in comune a 15 punti**: Puoi volare, come l'omonimo incantesimo, 1 ora al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Comprendi ogni scritto che non sia magico o codificato.
-- **Energia/N**: Elettricità, Suono
-- **Vantaggio**: sai sempre dove è il nord magnetico
+- **Polarità: Neutrale**: Elettricità, Suono
+- **Vantaggio**: Sai sempre dove è il nord magnetico. Hai +1d6 alle prove di orientamento e non ti perdi in ambienti naturali.
 - **Liste Magia Privilegiate**: Trasmutazione, Aria
 - **Arma Preferita**: Balestra leggera
 - **Regola**: Non distruggere un libro o una lettera
@@ -13917,7 +14024,7 @@ Nedraf è paziente nell'attendere il momento giusto, ma intransigente quando la 
 - **Somma dei Tratti in comune a 10 punti**: Acquisisci un punto bonus su una Lista d'Armi. Può essere nota o meno
 - **Somma dei Tratti in comune a 15 punti**: Puoi portare armature medie senza penalità alla Prova di Magia e Destrezza
 - **Somma dei Tratti in comune a 20 punti**: Acquisisci un punto bonus su una Lista d'Armi. Può essere nota o meno
-- **Energia/B**: Energia positiva, Suono
+- **Polarità: Positiva**: Energia positiva, Suono
 - **Vantaggio**: recuperi il doppio di PF quando riposi
 - **Liste Magia Privilegiate**: Ammaliamento, Terra
 - **Arma Preferita**: Spadone a due mani
@@ -13937,11 +14044,11 @@ Dietro l'allegria Nihar nasconde invidia verso chi ottiene gloria senza sforzo e
 - **Caratteristica**: Intelligenza
 - **Tratto guida**: Curioso; **Tratti complementari**: Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
 - **Manifestazione**: il suono di un brindisi o lo stappare di una bottiglia
-- **Somma dei Tratti in comune a 5 punti**: Puoi trasformare l'acqua in vino. Un litro al giorno. Costo 2 Azioni. 2 volte al giorno.
+- **Somma dei Tratti in comune a 5 punti**: Puoi trasformare l'acqua in vino. Un litro al giorno, costo 2 Azioni, 2 volte al giorno. Chi beve il tuo vino e conversa con te per 10 minuti ha +1 alle prove di Intrattenere e Persuasione verso di te per 1 ora.
 - **Somma dei Tratti in comune a 10 punti**: Con un'Azione Immediata, ottieni un bonus di +2d6 a una prova di Competenza in quel round. 3 volte al giorno.
-- **Somma dei Tratti in comune a 15 punti**: La tua arma leggera causa sempre un danno critico quando colpisci. Il bonus è sempre attivo.
-- **Somma dei Tratti in comune a 20 punti**: I manicaretti che prepari sono buonissimi. Chiunque si sazi con una pietanza da te preparata recupera 2d6 Punti Ferita e viene curato dai veleni anche magici. Max 6 persone al giorno. 0.5 ore di preparazione per persona.
-- **Energia/B**: Energia Positiva, Fuoco
+- **Somma dei Tratti in comune a 15 punti**: I manicaretti che prepari sono buonissimi. Chiunque si sazi con una pietanza da te preparata recupera 2d6 Punti Ferita e viene curato dai veleni anche magici. Max 6 persone al giorno. 0.5 ore di preparazione per persona.
+- **Somma dei Tratti in comune a 20 punti**: La prima volta in ogni round che colpisci con un'arma leggera, l'attacco causa un danno critico.
+- **Polarità: Positiva**: Energia Positiva, Fuoco
 - **Vantaggio**: Riduzione 1 al danno non magico (RD 1-magico)
 - **Liste Magia Privilegiate**: Ammaliamento, Divinazione
 - **Arma Preferita**: Spada corta
@@ -13971,11 +14078,11 @@ La compassione di Orudjs è una recita che gli permette di conquistare fiducia, 
 - **Caratteristica**: Carisma
 - **Tratto guida**: Impulsivo; **Tratti complementari**: Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
 - **Manifestazione**: il suono di una risata profonda e contagiosa
-- **Somma dei Tratti in comune a 5 punti** punti: Il tuo eloquio è già leggendario. +2 alle prove di Intrattenere.
+- **Somma dei Tratti in comune a 5 punti**: Il tuo eloquio è già leggendario: +2 alle prove di Intrattenere. Inoltre, una volta al giorno, puoi cambiare il tuo aspetto come con l'incantesimo Camuffare Se Stesso per 1 ora.
 - **Somma dei Tratti in comune a 10 punti**: Puoi lanciare Immagine Silenziosa 3 volte al giorno.
 - **Somma dei Tratti in comune a 15 punti**: Il tuo eloquio è già leggendario. +1d6 aggiuntivo alle prove di Intrattenere. Puoi lanciare Immagine Maggiore 1 volta al giorno.
 - **Somma dei Tratti in comune a 20 punti**: La tua voce è suadente. Una creatura, da te individuata, che ti ascolti per almeno un minuto deve fare un Tiro Salvezza Volontà DC 30 oppure essere sotto l'influenza di Dominare Persone/Mostri. Una volta al giorno
-- **Energia/N**: Elettricità, Fuoco
+- **Polarità: Neutrale**: Elettricità, Fuoco
 - **Vantaggio**: +4 alle prove di Ingannare
 - **Liste Magia Privilegiate**: Ammaliamento, Illusione
 - **Arma Preferita**: Stocco
@@ -13997,11 +14104,11 @@ Orlaith pretende ordine e giustizia in pubblico, ma può essere dissoluto nella 
 - **Caratteristica**: Forza
 - **Tratto guida**: Vanitoso; **Tratti complementari**: Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
 - **Manifestazione**: l'immagine di una stadera, sbilanciata.
-- **Somma dei Tratti in comune a 5 punti**: Richiami a te 1 mastino che obbedisce ai tuoi comandi. Durata 1 minuto. Una volta al giorno. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 5 punti**: Richiami a te 1 mastino spirituale che obbedisce ai tuoi comandi. Dura 1 minuto, una volta al giorno, costo 2 Azioni. Il mastino ha Punti Ferita pari a 10 + il tuo livello, usa il tuo Tiro per Colpire e può affiancarti in mischia.
 - **Somma dei Tratti in comune a 10 punti**: Un paio di manette si manifesta attorno ai polsi della creatura (massimo taglia grande) entro 27 metri. Tiro Salvezza Riflessi DC 25 per annullare. Costo 2 Azioni. Una volta al giorno. Forza/Artista della Fuga DC 20 per liberarsi.
 - **Somma dei Tratti in comune a 15 punti**: Crei un raggio di Luce lungo 27 metri e largo pochi centimetri. Ogni creatura attraversata subisce 8d6 di danno, DC 25 Riflessi per dimezzare. Una volta al giorno. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 20 punti**: Il tuo udito è solo per la verità. Intorno a te per 3 metri, te compreso, è sempre attiva Zona di Verità.
-- **Energia/B**: Luce, Suono
+- **Somma dei Tratti in comune a 20 punti**: Il tuo udito è solo per la verità. Intorno a te per 3 metri, te compreso, è sempre attiva Zona di Verità, con il Tiro Salvezza su Volontà previsto dall'incantesimo. Non costa Punti Magia e non richiede concentrazione.
+- **Polarità: Positiva**: Luce, Suono
 - **Vantaggio**: Qualsiasi arma non improvvisata nelle tue mani fa almeno 1d6 di danno
 - **Liste Magia Privilegiate**: Illusione, Fuoco
 - **Arma Preferita**: Lancia da fante
@@ -14025,12 +14132,12 @@ Rezh è paziente nel perseguire un profitto e può rimanere indecisa solo quando
 - **Caratteristica**: Intelligenza
 - **Tratto guida**: Avaro; **Tratti complementari**: Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
 - **Manifestazione**: un rumore di monete che cadono avvolge l'incantatore
-- **Somma dei Tratti in comune a 5 punti**: Sei un esperto di monete e gemme, nessun falsario può ingannarti. +1d6 alle prove di Consapevolezza e Conoscenza relative.
+- **Somma dei Tratti in comune a 5 punti**: Sei un esperto di monete e gemme: nessun falsario può ingannarti. Hai +1d6 alle prove di Consapevolezza e Conoscenza relative a tesori, monete e gemme. Toccando un oggetto ne conosci il valore di mercato e se è contraffatto.
 - **Somma dei Tratti in comune a 10 punti**: Usi le gemme come ricettacoli. Puoi scaricare un incantesimo di 3 livello o inferiore in una gemma, che deve avere valore minimo di 10mo x livello dell'incantesimo. La gemma conserva l'incantesimo per 6 ore. Per attivare la gemma usi 2 azioni e viene eseguito l'incantesimo che contiene consumando la gemma.
-- **Somma dei Tratti in comune a 15 punti**: Puoi tirare fuori dalle tasche 1 moneta d'oro ogni volta che vuoi. Max 10 mo al giorno. Costo 1 Azione.
+- **Somma dei Tratti in comune a 15 punti**: Puoi tirare fuori dalle tasche 1 moneta d'oro ogni volta che vuoi, fino a 10 mo al giorno, costo 1 Azione. Inoltre, una volta al giorno, percepisci la direzione del tesoro più prezioso entro 1 km e sai se è protetto da una trappola o da un incantesimo.
 - **Somma dei Tratti in comune a 20 punti**: La tua armatura viene coperta da scintillio dorato e di gemme. Guadagni +4 alla Difesa e +2d6 Tiro Salvezza Tempra per 1 ora. Costo 2 Azioni, una volta al giorno.
-- **Energia/M**: Vuoto, Elettricità
-- **Vantaggio**: quando trovi un tesoro aumentane il valore dell'1\%
+- **Polarità: Negativa**: Vuoto, Elettricità
+- **Vantaggio**: Quando trovi un tesoro, aumentane il valore del 10\% (arrotondato per eccesso).
 - **Liste Magia Privilegiate**: Abiurazione
 - **Arma Preferita**: Falcetto
 - **Regola**: Non lasciare un tesoro incustodito
@@ -14061,11 +14168,11 @@ La pazienza di Shayalia è quella con cui prepara a lungo la vendetta; la compas
 - **Caratteristica**: Carisma
 - **Tratto guida**: Dissoluto; **Tratti complementari**: Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
 - **Manifestazione**: il Devoto è avvolto da un mantello di velluto nero
-- **Somma dei Tratti in comune a 5 punti** punti: I tempi per preparare una pozione sono dimezzati. Gli incantesimi di Cura hanno effetto anche su animali e piante.
-- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco è vita per la natura. I tuoi incantesimi di cura agiscono su animali e piante naturali in maniera massimizzata.
+- **Somma dei Tratti in comune a 5 punti**: I tempi per preparare una pozione sono dimezzati. Gli incantesimi di Cura hanno effetto anche su animali e piante. Hai inoltre +1d6 alle prove di Conoscenza Natura e riconosci piante e veleni naturali a colpo d'occhio.
+- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco è vita per la natura. I tuoi incantesimi di cura agiscono su animali e piante naturali in maniera massimizzata e rimuovono veleni e malattie non magiche.
 - **Somma dei Tratti in comune a 15 punti**: Dal tuo palmo secerni veleno. Il tuo tocco, o tramite arma in mischia veicola il veleno. Tiro Salvezza Tempra DC 25 o -2 a Saggezza e Destrezza per 10 minuti, un soggetto avvelenato non può esserlo nuovamente per 24 ore. Costo 1 Azione.
 - **Somma dei Tratti in comune a 20 punti**: Il tuo tocco è vita per la natura. Puoi curare animali e piante magiche. Sei immune ai veleni naturali. +1d6 Conoscenza Natura.
-- **Energia/M**: Vuoto, Elettricità
+- **Polarità: Negativa**: Vuoto, Elettricità
 - **Vantaggio**: +4 TS contro Veleni
 - **Liste Magia Privilegiate**: Illusione oppure Animali e Piante e una Lista Magia Elementale
 - **Arma Preferita**: Frusta
@@ -14095,12 +14202,12 @@ I Devoti di Sixiser sono spesso negromanti circondati da non morti ed altre crea
 - **Caratteristica**: Saggezza
 - **Tratto guida**: Prudente; **Tratti complementari**: Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
 - **Manifestazione**: due mani che circondano, come a nascondere, la testa dell'incantatore
-- **Somma dei Tratti in comune a 5 punti** punti: acquisisci la visione crepuscolare fino a 9 metri, o 18 metri se già presente.
+- **Somma dei Tratti in comune a 5 punti**: Acquisisci la visione crepuscolare fino a 9 metri, o 18 metri se già presente. Nell'oscurità non puoi essere colto di sorpresa e hai +2 ai Tiri Salvezza contro Paura.
 - **Somma dei Tratti in comune a 10 punti**: vedi nell'oscurità anche magica entro 9 metri. Individui automaticamente le trappole non magiche entro 3 metri da te.
 - **Somma dei Tratti in comune a 15 punti**: Toccando un oggetto sei in grado di capirne tutte le proprietà magiche e non, anche se è maledetto. 3 volte al giorno.
 - **Somma dei Tratti in comune a 20 punti**: Sei in grado di animare una creatura morta da non più di un giorno come non morto da 1 grado di Sfida (tipo zombi/scheletro a seconda dello stato). Una volta al giorno. Costo 2 Azioni.
-- **Energia/M**: Elettricità, Energia Negativa
-- **Vantaggio**: immune alle malattie naturali
+- **Polarità: Negativa**: Elettricità, Energia Negativa
+- **Vantaggio**: Sei immune alle malattie naturali. Hai +2 ai Tiri Salvezza contro malattie magiche e veleni.
 - **Liste Magia Privilegiate**: Necromanzia
 - **Arma Preferita**: Falcione
 - **Regola**: Non fidarti
@@ -14141,7 +14248,7 @@ Sumkjr è sospettoso verso chi dichiara di agire per il bene senza dimostrarlo, 
 | --- |
 
 **Nota**: Sumkjr è l'unico Patrono a concedere benefici per una somma di Tratti minore del normale
-- **Energia/B**: Energia Positiva, Elettricità
+- **Polarità: Positiva**: Energia Positiva, Elettricità
 - **Vantaggio**: +1 a tutti i Tiri Salvezza
 - **Liste Magia Privilegiate**: Cura
 - **Arma Preferita**: Spada Bastarda
@@ -14179,9 +14286,9 @@ Tàhil è disonesto perché non promette mai ciò che intende concedere, arrogan
 - **Manifestazione**: un rumore di tuono
 - **Somma dei Tratti in comune a 5 punti**: Puoi aggiungere 1d6 a un Tiro per Colpire. Una volta al giorno, prima di effettuare il Tiro per Colpire, come Azione Immediata.
 - **Somma dei Tratti in comune a 10 punti**: Tre volte al giorno, prima di effettuare il Tiro per Colpire, puoi dichiarare di colpire. Azione Immediata
-- **Somma dei Tratti in comune a 15 punti**: Un tuo colpo andato a segno causa almeno un Tiro Critico.
+- **Somma dei Tratti in comune a 15 punti**: Una volta per round, un tuo colpo andato a segno causa almeno un Tiro Critico.
 - **Somma dei Tratti in comune a 20 punti**: Il dado del Critico dell'arma aumenta di una taglia.
-- **Energia/M**: Fuoco, Vuoto
+- **Polarità: Negativa**: Fuoco, Vuoto
 - **Vantaggio**: Riduzione danno da Luce 10
 - **Liste Magia Privilegiate**: Ammaliamento
 - **Arma Preferita**: Spadone
@@ -14209,11 +14316,11 @@ Tazher è paziente nell'attendere dall'ombra e indeciso solo finché non ha valu
 - **Caratteristica**: Destrezza
 - **Tratto guida**: Disonesto; **Tratti complementari**: Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
 - **Manifestazione**: l'ombra del Devoto prende vita muovendo l'arma
-- **Somma dei Tratti in comune a 5 punti**: Guadagni +2 alle prove di Furtività.
-- **Somma dei Tratti in comune a 10 punti**: La tua Scurovisione diventa di 6 metri.
-- **Somma dei Tratti in comune a 15 punti**: finché cammini sopra delle ombre o al buio (oscurità) sei invisibile. Puoi essere comunque rilevato con la luce o incantesimi di divinazione.
+- **Somma dei Tratti in comune a 5 punti**: Guadagni +2 alle prove di Furtività. Puoi nasconderti anche con una copertura leggera e senza penalità se ti muovi a metà velocità.
+- **Somma dei Tratti in comune a 10 punti**: La tua Scurovisione diventa di 6 metri; se possiedi già Scurovisione, aumenta di 6 metri. Nell'oscurità vedi le tracce di sangue e le orme recenti come se fossero illuminate.
+- **Somma dei Tratti in comune a 15 punti**: Finché cammini sopra delle ombre o al buio (oscurità) sei invisibile. L'invisibilità termina se attacchi o lanci un incantesimo e riprende se torni in un'area di ombra o oscurità. Puoi essere comunque rilevato con la luce o incantesimi di divinazione.
 - **Somma dei Tratti in comune a 20 punti**: L'oscurità non è più un problema. Vedi nell'oscurità anche magica come se fosse giorno. Quando sei in un ambiente in piena luce sei abbagliato con un -2 al Tiro per Colpire.
-- **Energia/M**: Vuoto, Freddo
+- **Polarità: Negativa**: Vuoto, Freddo
 - **Vantaggio**: Scurovisione 3 metri
 - **Liste Magia Privilegiate**: Trasmutazione
 - **Arma Preferita**: Falcione in asta
@@ -14240,10 +14347,10 @@ Thaft evita il pericolo quando può e preferisce osservare prima di agire, ma ne
 - **Tratto guida**: Codardo; **Tratti complementari**: Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
 - **Manifestazione**: si sente il pianto di un bambino appena nato o il sospiro della morte
 - **Somma dei Tratti in comune a 5 punti**: Il tuo tocco è letale per i non morti. Un tuo tocco infligge 2d6 di danno a un non morto. Costo 2 Azioni compreso il tocco. Fino a 3 volte al giorno.
-- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco lenisce. Una volta al giorno puoi rimuovere Cecità o Sordità. Costo 2 Azioni.
+- **Somma dei Tratti in comune a 10 punti**: Il tuo tocco lenisce. Una volta al giorno puoi rimuovere Cecità o Sordità; inoltre, con un tocco puoi stabilizzare una creatura morente a 0 Punti Ferita e curarla di 1d6 Punti Ferita, 3 volte al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 15 punti**: Un non morto, con GS inferiore alla somma dei tuoi Tratti in comune, deve effettuare un Tiro Salvezza Tempra DC 30 o essere distrutto se toccato dalla tua mano. Costo 2 Azioni.
-- **Somma dei Tratti in comune a 20 punti**: Uccidi la creatura toccata. Tiro Salvezza su Volontà DC 30 o morte. Una volta alla settimana. Costo 2 Azioni.
-- **Energia/N**: Suono, Elettricità
+- **Somma dei Tratti in comune a 20 punti**: Uccidi la creatura vivente toccata. Tiro Salvezza su Volontà DC 30 o morte. Non morti, costrutti e creature immuni agli effetti di morte sono immuni. Una volta alla settimana. Costo 2 Azioni.
+- **Polarità: Neutrale**: Suono, Elettricità
 - **Vantaggio**: Riduzione danno 5 a Vuoto e Luce
 - **Liste Magia Privilegiate**: Necromanzia, Animali e piante
 - **Arma Preferita**: Arco
@@ -14269,75 +14376,88 @@ Torbiorn conserva una forma di compassione, ma la concede solo alle opere o alle
 - **Caratteristica**: Carisma
 - **Tratto guida**: Crudele; **Tratti complementari**: Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
 - **Manifestazione**: schegge di specchio rotto tutto intorno al Devoto come un turbine
-- **Somma dei Tratti in comune a 5 punti**: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione. 3 volte al giorno.
-- **Somma dei Tratti in comune a 10 punti**: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno subisce -2 Forza, non cumulabile. Durata 1 minuto. Tre volte al giorno. Costo 1 Azione.
+- **Somma dei Tratti in comune a 5 punti**: Con un gesto puoi rinfrescare i tuoi vestiti e te stesso rendendoli puliti e profumati. Costo 1 Azione, 3 volte al giorno.
+- **Somma dei Tratti in comune a 10 punti**: Il tuo sputo è velenoso. Se il Tiro per Colpire a tocco va a segno, il bersaglio deve superare un Tiro Salvezza su Tempra con DC 10 + Somma dei Tratti in comune o subire -1d6 Forza, non cumulabile, per 1 minuto. Tre volte al giorno. Costo 1 Azione.
 - **Somma dei Tratti in comune a 15 punti**: Fissando l'obiettivo negli occhi lo costringi a fermarsi. Il soggetto non può eseguire Azioni di Movimento. Tiro Salvezza su Volontà DC 30. Una volta al giorno. Costo 2 Azioni.
 - **Somma dei Tratti in comune a 20 punti**: Dalle tue dita partono dei viticci che pungono fino a 10 avversari. Ogni viticcio, lungo fino a 18 metri causa 2d6 di danno, Tiro Salvezza Riflessi DC 25 per dimezzare. Costo 2 Azioni.
-- **Energia/N**: Fuoco, Suono
-- **Vantaggio**: +3 contro gli incantesimi della Lista Divinazione.
+- **Polarità: Neutrale**: Fuoco, Suono
+- **Vantaggio**: Hai +3 contro gli incantesimi della Lista Divinazione. Inoltre, se sei vestito in modo impeccabile, hai +2 alle prove di Intrattenere e Persuasione basate sull'aspetto.
 - **Liste Magia Privilegiate**: Trasmutazione
 - **Arma Preferita**: Ascia a una mano
 - **Regola**: Non essere sciatto, mal vestito o disordinato.
 
->>> **Adeguare ed adeguarsi**: In accordo con il Narratore, ed adeguatamente motivato, è possibile cambiare Vantaggio e Liste di Magia Privilegiate.
+>>> **Adeguare ed adeguarsi**: In accordo con il Narratore, e solo con una motivazione narrativa forte (una Crisi del Personaggio, un pellegrinaggio, un patto o una quest dedicata), è possibile cambiare Vantaggio e Liste di Magia Privilegiate. Non è un'ottimizzazione gratuita: il cambiamento deve nascere da una storia e avere un costo.
 
 ### Elenco Patrono - Tratto
 
-Il primo Tratto indicato per ogni Patrono è il suo **Tratto guida**: è il Tratto dominante che permette di individuare quale Patrono può reclamare il personaggio. Gli altri sono **Tratti complementari**: servono a confrontare le affinità in caso di parità e a calcolare la somma dei Tratti comuni. Il primo Tratto è in evidenza per rendere chiara la distinzione.
+Il primo Tratto indicato per ogni Patrono è il suo **Tratto guida**: è il Tratto dominante che permette di individuare quale Patrono può reclamare il personaggio. Gli altri sono **Tratti complementari**: servono a confrontare le affinità in caso di parità e a calcolare la somma dei Tratti comuni. Il primo Tratto è in evidenza per rendere chiara la distinzione. I Patroni sono elencati in ordine alfabetico.
 
-Gaya: **Altruista**, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
-
-Calicante: **Ambizioso**, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
-
-Erondil: **Arrogante**, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
-
-Rezh: **Avaro**, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
-
-Sixiser: **Prudente**, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
-
-Cattalm: **Cinico**, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
-
-Ljust: **Compassionevole**, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
-
-Gradh: **Coraggioso**, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
-
-Nihar: **Curioso**, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
-
-Tazher: **Disonesto**, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
-
-Shayalia: **Dissoluto**, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
-
-Ledyal: **Entusiasta**, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
-
-Nethergal: **Estroverso**, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
-
-Sumkjr: **Gentile**, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
+Atherim: **Sospettoso**, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso
 
 Atmos: **Indeciso**, Prudente, Intransigente, Paziente, Vendicativo, Curioso, Avaro
 
-Krondal: **Intransigente**, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
-
 Belevon: **Invidioso**, Ambizioso, Dissoluto, Disonesto, Compassionevole, Paziente, Altruista
 
-Orudjs: **Impulsivo**, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
+Calicante: **Ambizioso**, Disonesto, Vendicativo, Cinico, Dissoluto, Arrogante, Avaro
+
+Cattalm: **Cinico**, Arrogante, Ambizioso, Intransigente, Dissoluto, Sospettoso, Paziente
 
 Efrem: **Leale**, Indeciso, Prudente, Impulsivo, Testardo, Paziente, Ambizioso
 
-Torbiorn: **Crudele**, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
+Erondil: **Arrogante**, Vendicativo, Ambizioso, Compassionevole, Entusiasta, Leale, Avaro
 
-Nedraf: **Paziente**, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
+Gaya: **Altruista**, Gentile, Sospettoso, Cinico, Invidioso, Disonesto, Arrogante
 
-Atherim: **Sospettoso**, Compassionevole, Altruista, Intransigente, Coraggioso, Entusiasta, Vanitoso\
+Gradh: **Coraggioso**, Vanitoso, Arrogante, Gentile, Invidioso, Leale, Sospettoso
 
-Thaft: **Codardo**, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
-
-Lynx: **Testardo**, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
-
-Orlaith: **Vanitoso**, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
+Krondal: **Intransigente**, Vanitoso, Arrogante, Sospettoso, Paziente, Ambizioso, Testardo
 
 Laydel: **Vendicativo**, Paziente, Ambizioso, Intransigente, Invidioso, Cinico, Arrogante
 
+Ledyal: **Entusiasta**, Compassionevole, Prudente, Gentile, Curioso, Codardo, Testardo
+
+Ljust: **Compassionevole**, Testardo, Coraggioso, Estroverso, Altruista, Leale, Paziente
+
+Lynx: **Testardo**, Coraggioso, Cinico, Intransigente, Vendicativo, Estroverso, Vanitoso
+
+Nedraf: **Paziente**, Vanitoso, Coraggioso, Intransigente, Entusiasta, Arrogante, Cinico
+
+Nethergal: **Estroverso**, Curioso, Testardo, Vanitoso, Vendicativo, Arrogante, Paziente
+
+Nihar: **Curioso**, Coraggioso, Compassionevole, Vanitoso, Invidioso, Avaro, Crudele
+
+Orlaith: **Vanitoso**, Intransigente, Coraggioso, Testardo, Dissoluto, Vendicativo, Curioso
+
+Orudjs: **Impulsivo**, Dissoluto, Ambizioso, Indeciso, Crudele, Compassionevole, Disonesto
+
+Rezh: **Avaro**, Indeciso, Ambizioso, Invidioso, Crudele, Cinico, Paziente
+
+Shayalia: **Dissoluto**, Cinico, Crudele, Vendicativo, Paziente, Compassionevole, Vanitoso
+
+Sixiser: **Prudente**, Indeciso, Intransigente, Impulsivo, Disonesto, Cinico, Sospettoso
+
+Sumkjr: **Gentile**, Coraggioso, Testardo, Sospettoso, Altruista, Curioso, Estroverso
+
 Tàhil: **Vendicativo**, Disonesto, Arrogante, Cinico, Ambizioso, Testardo, Impulsivo
+
+Tazher: **Disonesto**, Ambizioso, Paziente, Cinico, Indeciso, Arrogante, Crudele
+
+Thaft: **Codardo**, Paziente, Estroverso, Leale, Gentile, Vanitoso, Vendicativo
+
+Torbiorn: **Crudele**, Impulsivo, Arrogante, Disonesto, Cinico, Indeciso, Compassionevole
+
+### I Patroni come Specchio dell'Animo: Archetipi, Inflazione e Individuazione
+
+I Patroni non sono entità distanti che esigono cieca sottomissione liturgica: nati come parossismo delle pulsioni primordiali e nutriti dai frammenti di Omniessenza racchiusi nei mortali, essi agiscono a tutti gli effetti come **proiezioni viventi dell'inconscio collettivo e dei grandi archetipi dell'animo umano**.
+
+Quando un personaggio viene reclamato da un Patrono, quella divinità ne rispecchia la configurazione interiore dominante. Comprendere questa matrice psicologica, approfondita nel capitolo Archetipi del Carattere , offre a giocatori e Narratori chiavi interpretative di straordinaria intensità:
+
+- **La Risonanza Archetipica:** ogni Patrono catalizza specifici modelli di comportamento e percorsi di crescita. La tabella delle Risonanze Archetipiche  illustra quali maschere universali (l'Eroe, il Custode, il Mentore, l'Ombra, il Fuorilegge, il Sovrano) trovano naturale amplificazione nei singoli Patroni.
+- **Il Rischio dell'Inflazione Archetipica:** il Patrono incarna un Tratto portato all'eccesso puro. Il pericolo costante per chi ne abbraccia il cammino, specialmente per il Devoto vincolato alla Regola, è l'*inflazione*: farsi assorbire completamente dall'eccesso del Patrono, scambiando una singola sfaccettatura del sé per la totalità della propria persona. L'eroismo rischia così di scivolare nel fanatismo, la cautela nella paralisi, l'ambizione nella tirannia.
+- **L'Integrazione dell'Ombra e il Cammino di Individuazione:** nessun mortale è riducibile a un solo Tratto. Nel profilo di ciascun Patrono convivono un Tratto guida e Tratti complementari; al tempo stesso, nell'animo del personaggio premono spesso Tratti contraddittori, definiti l'*Ombra* nella psicologia analitica. La vera maturazione dell'avventuriero (*individuazione*) non consiste nell'appiattirsi sull'archetipo, ma nell'esplorare queste contraddizioni interiori senza farsi spezzare.
+- **Le Scollature come Svolta Evolutiva:** le Scollature dal Seminato e la Crisi del Personaggio assumono qui il loro pieno valore psicologico. Non si tratta di fallimenti interpretativi o di errori da punire, bensì di momenti catartici in cui il mortale si emancipa dall'automatismo dell'archetipo, ridefinisce le proprie priorità e compie una transizione lungo i **Cicli Archetipici**, passando ad esempio dalla Caduta alla Redenzione, oppure dall'Innocenza alla Saggezza.
+
+>>> **La Divinità come Conflitto Interiore**: Usa le apparizioni, i silenzi e le richieste del Patrono non solo come eventi esteriori, ma come catalizzatori psicologici. Quando metti alla prova un personaggio, non sfidare soltanto le sue statistiche di combattimento: interroga i suoi Tratti e le sue fragilità archetipiche. Ricorda sempre che il tavolo è uno spazio protetto (*cerchio magico*): affrontate questi dilemmi morali con empatia reciproca, avvalendovi degli strumenti di benessere e *de-rolling* descritti in \hyperlinksicurezzatavoloSicurezza e benessere al tavolo (pag. \pagerefsicurezzatavolo).
 
 > Gli dei tessono sventure per gli uomini, perché le generazioni future abbiano qualcosa da cantare. (Iliade, Omero)
 
@@ -14689,11 +14809,11 @@ La Penalità Competenze è la penalità che si applica alle prove di competenza 
 
 Tutte le Armature, ad esclusione dell'armatura Imbottita forzano chi lancia incantesimi a superare una Prova di Magia con un aumento di difficoltà indicato nella tabella.
 
-Es. Tups indossa un'armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura a effettuare la Prova di Magia. Tira 3d6 +3 dadi (perché ha 12 punti in CM), puo' ritirare 2 dadi (perché ha preso 4 volte Adepto della Magia).
+Es. Tups indossa un'armatura Pettorale (armatura media) e lancia un incantesimo. È obbligato dal portare l'armatura a effettuare la Prova di Magia. Tira 3d6+4d4 (perché ha 12 punti in CM), può ritirare 2 dadi (perché ha preso 4 volte Adepto della Magia).
 
 La difficoltà dell'incantesimo che lancia, Fulmine, è 10+ 2*3 (livello Incantesimo) +8 (difficoltà aggiuntiva data dall'armatura)
 
-Nella prova esce 4,5,5 / 3,4,\st,\st. Ritira i due 1 per Adepto della Magia, valgono zero e se ne avesse fatti 3 sarebbe stato un Fallimento Critico!. Totale 4+3+2+3+4+3+2=21, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
+Nella prova esce 4,5,5 / 3,4,\st,\st. Ritira i due 1 per Adepto della Magia e ottiene 1 e 2: i nuovi risultati valgono rispettivamente zero e 2. Il totale è quindi 4+5+5+3+4+0+2=23, contro una difficoltà di 10+6+8=24. Tups non riesce a lanciare l'incantesimo!!!
 
 Se Tups avesse indossato una Cuoio Rinforzato la difficoltà sarebbe aumentata *solo* di 4 e quindi sarebbe riuscito a lanciare l'incantesimo.
 
@@ -18083,6 +18203,17 @@ Suggerisco ai Narratori di stabilire delle regole chiare per il buon gioco. Purt
 - Cosa è permesso portare ed usare al tavolo e cosa no (bibite, mangiare, cellulari, alcolici, fumare…). Sapere se ci sono animali in casa.
 - Stabilite il numero minimo di giocatori per fare la sessione, giorno di gioco ed orari.
 
+### Sicurezza e benessere al tavolo
+
+Affrontare temi intensi, l'ansia del fallimento e il lato oscuro dei personaggi rende il gioco potente e liberatorio, ma richiede cura per il benessere emotivo di tutti i partecipanti. Concordate fin dall'inizio che il tavolo è uno spazio protetto, mai un luogo di giudizio, e che chiunque può avvalersi degli strumenti seguenti senza doversi giustificare.
+
+- **Il Semaforo e la pausa (*check-in**):* Ogni partecipante ha il diritto di chiedere una pausa o un *check-in* quando una scena tocca corde interiori troppo delicate. La pausa serve a riprendere fiato e a decidere insieme come proseguire.
+- **La dissolvenza in nero:** Se una scena è troppo intensa, si può *sfumare* e risolverla fuori scena, in terza persona o con un'ellissi, senza descriverne i dettagli.
+- **L'Osmosi Emotiva (*Bleed**):* È il fenomeno per cui i sentimenti del personaggio (paura, rabbia, ansia da prestazione, senso di perdita) risuonano nel giocatore, o viceversa. È un'esperienza naturale e spesso catartica, ma se diventa opprimente è fondamentale riconoscerla e concedersi una pausa.
+- **Il *De-rolling** a fine sessione:* Dedicate gli ultimi 5 minuti della sessione a uscire dal personaggio: riponete la scheda, parlate del personaggio in terza persona (*«Oggi il mio personaggio si è sentito insicuro perché...»*) e scambiatevi impressioni a mente fredda, ristabilendo un confine sano tra voi e la maschera.
+
+Nessuno è obbligato a raccontare esperienze personali o a interpretare una scena dolorosa: se un giocatore preferisce, la questione si risolve fuori scena o in terza persona. Gli strumenti di sicurezza sono opzionali nelle modalità, ma il diritto di usarli non è negoziabile.
+
 In definitiva, la Sessione Zero è fondamentale per stabilire una solida base per il buon gioco di ruolo. Aiuta a creare un ambiente collaborativo in cui tutti si sentono partecipi e contribuisce a evitare problemi e disaccordi durante il corso della campagna.
 
 Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere questi suggerimenti a ogni inizio di campagna.
@@ -19802,14 +19933,12 @@ Hai il 50\% di probabilità di viaggiare istantaneamente in un piano di esistenz
 
 Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
-\begin{multicoltab}
-
 | \mchead[][]{**Distanza dall'origine** | **Danno**} |
 | 3 metri o meno | 8 x cariche nel bastone |
 | Fino a 6 metri | 6 x cariche nel bastone |
 | Fino a 9 metri | 4 x cariche nel bastone |
 
-\end{multicoltab}
+\end{multicoltab
 
 Nota: il Bastone dell'Archimago e del Potere sono simili, questo perché preparati da due acerrimi nemici che volevano creare il Bastone più potente.
 
@@ -20831,8 +20960,6 @@ La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usar
 L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volontà con Intelligenza con DC 17. La creatura gli apparirà quindi trasparente.
 L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare e quella carta non potrà più essere usata.
 
-\begin{multicoltab}
-
 | \mchead[][]{**Carta da Gioco** | **Illusione**} |
 | --- | --- |
 | Asso di cuori | Drago rosso |
@@ -20869,7 +20996,7 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 | Due di fiori | Coboldo |
 | Jolly (2) | Tu (il proprietario del mazzo) |
 
-\end{multicoltab}
+\end{multicoltab
 
 ### Mazzo delle Meraviglie
 
@@ -21811,8 +21938,6 @@ Puoi pronunciare la parola di comando del **tappeto** con due azioni per far flu
 
 Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del tappeto o la determina casualmente.
 
-\begin{multicoltab}
-
 | \mchead[][]{**d100** | **Taglia** | **Capacità** | **Velocità** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Ing.)** | **di Volo**} |
@@ -21821,7 +21946,7 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 | 56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 metri |
 
-\end{multicoltab}
+\end{multicoltab
 
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
 
@@ -23012,7 +23137,7 @@ Con qualche eccezione. I Patroni della Genesi, Atmos e Lynx e il Patrono Vincito
 
 A partire dal sesto mese i Seguaci e Devoti dei precedenti patroni incominciano a sentire delle voci, a sognare nuovi volti e nomi di nuovi Patroni.
 
-Questo è quello che successe alla fine della prima venuta, con la sola differenza che Ljust concesse la vittoria a Calicante per poter interrompere immediatamente il ciclo e salvare dalla distruzione il nostro mondo dalla vendetta per aver ucciso il Primo Patrono.
+Questo è quello che successe alla fine della prima venuta, con la sola differenza che Ljust concesse la vittoria a Calicante per poter interrompere immediatamente il ciclo e salvare dalla distruzione il nostro mondo dalla vendetta per aver ucciso il Primo Patrono. Fu proprio grazie a questa resa che Tàhil, primo servitore di Calicante, divenne il Patrono Vincitore di quel primo secolo, ottenendo il privilegio di restare fisicamente sulla Terra anche nella Seconda Venuta assieme ai suoi Draghi, mentre gli altri spiriti primordiali venivano riassorbiti o trasmutati.
 
 Ogni nuovo Patrono, in base ai Tratti che comanda, avvicina un Seguace o Devoto e cerca di convincerlo ad accettarlo come nuovo Patrono. Gli incantatori solo al termine dell'anno potranno usare gli incantesimi, indipendentemente che seguano un Patrono o meno.
 
@@ -31678,6 +31803,40 @@ I minotauri possono servire mostri o creature malvagie più potenti, cacciando e
 
 I minotauri sono combattenti diretti, usando le loro corna per incornare orribilmente le creature vicine all'inizio del combattimento.
 
+### Monete affamate
+
+- **Taglia/Tipo**: Medio sciame di Minuscoli costrutti, disallineato
+- **Caratt.**: \resizedown{For -3 Des 3 Cos 0 Int -5 Sag 0 Car -4}
+- **Punti Ferita**: \resizedown{24, **Difesa:** 15, **Iniziativa:** +3}
+- **Resistenze al danno**: contundente, perforante, tagliente
+- **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +5, Volontà +3}
+- **Imm. Danni**: Veleno
+- **Immunità**: accecato, affascinato, assordato, paralizzato, pietrificato, affaticato, spaventato
+- **Movimento**: 6 m, scalata 6 m
+- **Sensi**: Vista Cieca 9 m (cieco oltre questo raggio)
+- **Linguaggi**: —
+- **Sfida**: 1/2 (100 PX)
+
+***Falso Tesoro.*** Mentre lo sciame resta immobile, è indistinguibile da un normale mucchio di monete. Una creatura che lo esamina può notarlo con una prova di Consapevolezza contrapposta alla Furtività dello sciame (+3).
+
+***Sciame.*** Lo sciame può occupare lo spazio di un'altra creatura e viceversa; può muoversi attraverso qualsiasi apertura grande abbastanza per una moneta. Lo sciame non può recuperare Punti Ferita né ottenere Punti Ferita temporanei.
+
+***Suscettibilità all'Anti Magia.*** Lo sciame è inabile mentre si trova nell'area di un *campo anti-magia*. Se è bersaglio di *Dissolvi Magie*, deve riuscire un Tiro Salvezza su Tempra contro la DC del Tiro Salvezza dell'incantesimo o restare inabile per 1 minuto.
+
+**Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, una creatura nello spazio dello sciame.
+
+*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
+
+| **Ecologia** |
+| --- |
+Ambiente: Tesori maledetti, caveau, rovine e sotterranei
+
+Organizzazione: Sciame (1-4) o mucchio (5-8)
+| **Categoria Tesoro**: Le monete che compongono lo sciame (1d4×100 mo); se lo sciame viene distrutto, tornano normali e possono essere raccolte |
+| **Descrizione** |
+
+Le monete affamate sono un antico incantesimo di avarizia, un tempo usato per punire i ladri o proteggere i tesori dei tiranni. Ogni moneta è animata da una scintilla di volontà e si muove con le altre come uno sciame: si nasconde tra pile di monete normali, morde con i bordi affilati e si disperde per evitare i colpi. Alcuni tesori maledetti da Rezh ne sono infestati: chi prova a raccoglierli scopre troppo tardi che il mucchio ha fame.
+
 ### Mummia
 
 - **Taglia/Tipo**: Media non morto, malvagio
@@ -36286,8 +36445,6 @@ Arrotondate il GS per eccesso nei calcoli.
 
 > Timeo Danaos et dona ferentes (Temo i Greci anche quando portano doni). (Eneide, Virgilio)
 
-Non è morto ciò che può giacere in eterno, e in strani eoni anche la morte può morire. (Il Richiamo di Cthulhu, H.P. Lovecraft)
-
 ---
 
 ## Template e suggerimenti per i Mostri
@@ -36440,6 +36597,8 @@ Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
 **Attacco**: +3
 
 **Danno**: +1d8 da Acido
+
+> Non è morto ciò che può giacere in eterno, e in strani eoni anche la morte può morire. (Il Richiamo di Cthulhu, H.P. Lovecraft)
 
 ---
 

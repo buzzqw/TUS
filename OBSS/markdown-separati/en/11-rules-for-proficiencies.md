@@ -26,17 +26,17 @@ The Game Master won' \*\*t tell you to make a check at difficulty 10, but will s
 
 **Table: Difficulty Class**
 
-| **Diff.** | **Description** | **Level** |
+| **Diff.** | **Description** | **Proficiency** |
 | --- | --- | --- |
-| **DC** | **difficulty** | **Proficiency** |
-| 5 | Extremely easy | None |
-| 10 | Easy | Poor |
-| 15 | Normal | Normal |
+| **DC** | **Difficulty** | **Level** |
+| 6 | Trivial | None |
+| 10 | Simple | Poor |
+| 15 | Challenging for a competent character | Normal |
 | 20 | Difficult | Good |
 | 25 | Very difficult | Excellent |
 | 30 | Heroic | Outstanding |
-| 35 | Almost impossible | Amazing |
-| 40 | Impossible | Epic |
+| 35 | Near desperate | Amazing |
+| 40 | Epic | Epic |
 
 If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Game Master who will compare it with the difficulty (DC).
 

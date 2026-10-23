@@ -8,88 +8,92 @@ Est Sularus Oth Mithas. ("My honor is my life", Oath of the Knights of Solamnia)
 
 In OBSS there is no clear distinction between good and evil, law and chaos, between what is right and what is wrong.
 
-In OBSS there are Traits, aspects, and character nuances that **contribute** to the character' \*\*s background, help the player roleplay better, and provide guidelines for interpreting the character they want to create.
+In OBSS there are Traits, aspects, and character nuances that **contribute** to the character' \*\*s background, help the player roleplay better, and provide guidelines for interpreting the character they chose to create.
 
 A Trait is a detail that helps frame the character, outlines their main characteristics, and gives them different nuances.
 
-**Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices. The player chooses the Traits, not the Patron: the Patron associated with the dominant Trait will reclaim the character.
+**Each player chooses 5 Traits for their character at character creation.** These will guide the character' \*\*s actions and choices. The player chooses the Traits, not the Patron: the Patron associated with the dominant Trait will claim the character.
 
->> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character; they do not lock them in or fix them permanently in time. A character is constantly evolving, as are their character, morals, behavior, and desires. Do not be rigid, but use Traits as suggestions from which to draw inspiration. If you want a more defined thematic and psychological framework to orient your initial choice of 5 Traits, you can consult the optional section \hyperlinkarchetipiCharacter Archetypes (p. \pagerefarchetipi).
 
-Traits have no positive or negative connotation; they only serve to frame the character and show which Patron is more interested in the character. They are not meant to define whether you are good or bad; everyone has their own morals regardless of the Traits they possess.
+Traits have no positive or negative connotation; they only serve to frame the character and show which Patron is most interested in them. They are not meant to define whether you are good or bad; everyone has their own morals regardless of the Traits they possess.
 
-**At the first level, choose the Trait that is most characteristic of your character; it has a value of 1, while the other 4 Traits have a value of 0.**
+**At first level, choose the most characteristic Trait for your character; it has a value of 1, while the other 4 Traits have a value of 0.**
 
-As time passes and the character has new adventures, Traits increase in value or may be replaced by other Traits, as agreed upon by the Game Master and player based on how the character is played. **The higher a Trait value, the more present and pervasive it is in the character' \*\*s choices**.
+As time passes and adventures unfold, Traits increase in value or may be replaced by other Traits, agreed upon by the Game Master and player based on how the character is played. **The higher a Trait' \*\*s value, the more present and pervasive it is in the character' \*\*s choices**.
 
-During adventures, the Game Master may increase a character' \*\*s Trait by one point or a fraction of a point after particular scenes or roleplaying moments.
+During adventures, following significant scenes and roleplaying, the Game Master may increase a character' \*\*s Trait by one point, or a fraction of a point.
 
-For example, following a particular situation and adventure climax, the Game Master might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
+For example, after a particular situation or at the climax of an adventure, the Game Master might grant everyone, or specific characters, the Courageous Trait, or award a +1 to Courageous for those who already have it. For unselected Traits, the base point value is considered -1: the first point serves to acquire the Trait, and subsequent points to emphasize it.
 
-While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Talk to the Game Master, they will know how to prepare situations and adventures that will help you understand how to evolve the character and possibly change the chosen Traits.
+While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Speak with the Game Master; they will prepare situations and adventures to help you understand how to evolve the character and potentially change chosen Traits.
 
-In the character sheet, you will find **checks** to put next to the Traits, these are marked following actions suitable to increase the value of the Trait; once 10 checks are reached, the Trait will increase by 1 point and you will start marking a new set of ten.
+On the character sheet you will find **checks** next to Traits, marked following actions suitable for increasing a Trait' \*\*s value; upon reaching 10 checks, the Trait increases by 1 point and a new set of ten begins.
 
-It will be the Game Master during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
+The Game Master will tell you during the adventure when to mark, or erase, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
 
-Every particularly important action where the character has followed a Trait brings the character closer to the Patrons that share that Trait. A shared Trait is the channel through which a Patron recognizes the character, not necessarily the purpose or moral way in which that Trait is expressed: the same Trait can have different meanings for different Patrons.
+Every particularly important action where the character acts in accordance with a Trait brings them closer to the Patrons who share that Trait. A shared Trait indicates the channel through which a Patron recognizes the character, not necessarily the moral end or manner in which that Trait is expressed: the same Trait can carry different meanings for different Patrons.
 
-The **dominant Trait** is the chosen Trait with the highest score. To identify the claiming Patron, consult the first Trait in the Patron - Trait Connection Table (page ) that corresponds to the dominant Trait. If multiple Traits share the highest score, the player chooses which of the corresponding Patrons prevails. If multiple Patrons have the same Guide Trait, compare their common Complementary Traits; if that affinity is also tied, the player decides. The Patron identified in this way **reclaims the character**: the Patron is not freely chosen by the player.
+The **dominant Trait** is the chosen Trait with the highest score. To identify the claiming Patron, consult the first Trait in the Patron - Trait Connection Table (p. ) corresponding to the dominant Trait. If multiple Traits share the same highest score, the player chooses which of the corresponding Patrons prevails. If multiple Patrons share the same guide Trait, compare common complementary Traits; if this affinity is also tied, the player decides.
 
-The claiming Patron must be checked again whenever the dominant Trait changes. This change can become a narrative event: the new Patron may reclaim the character, but the character cannot belong to two Patrons at the same time.
+**Rule of the Genesis Patrons**: The Genesis Patrons (**Ljust** and **Calicante**) are primordial entities so vast and transcendent that they do not claim a mortal based on a single affinity: they only claim characters who have at least **4 distinct Traits in common** with them. If a character' \*\*s dominant Trait coincides with the guide Trait of a Genesis Patron (*Compassionate* for Ljust or *Ambitious* for Calicante), but the character does not possess at least 4 distinct Traits in common with them, the Genesis Patron does not claim them; the character is instead claimed by the Patron corresponding to their second-highest Trait (or, in case of a tie, the one with whom they share the most complementary Traits; if still tied, the player chooses).
 
-As the value of the sum of common Traits with the claiming Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
+If the second Trait also belongs to a Genesis Patron that does not reach 4 common Traits, proceed to the next Trait following the same tie-breaking criteria. Continue until an eligible Patron is found; if no Patron is eligible, the character is not claimed and receives no Patron powers until they satisfy the requirements. This check is repeated whenever the dominant Trait changes.
 
-To calculate the sum, consider only the Traits chosen by the character that also appear in the claiming Patron' \*\*s profile. Traits not chosen, which have a base value of -1, are not common Traits and do not enter the sum. The number of common Traits instead determines whether the character can choose to be a Follower or Devotee: a Devotee must have at least 2 distinct common Traits, even if one or more of them have a value of 0.
+The Patron identified in this way **claims the character**: the Patron is not freely chosen by the player.
 
-- At **' \*\*5' \*\*** points, one can begin to feel the presence of a Patron
-- At **' \*\*10' \*\*** points, one feels the closeness of a Patron
-- At **' \*\*15' \*\*** points, one is bound to a Patron
-- At **' \*\*20' \*\*** points, one is a champion of the Patron
+Checking the claiming Patron must be repeated whenever the dominant Trait changes. A change can become a major narrative event: the former Patron withdraws and the new Patron steps in, claiming the character.
 
-It is not necessary to believe in the claiming Patron to feel their closeness, be bound to them or be their champion; simply, it is one' \*\*s nature (one' \*\*s Traits) that is akin to the Patron, whether one wants it or not. Powers derived from Traits are received only from the claiming Patron, even when the character has no formal allegiance to them.
+**The sum of points of common Traits with the claiming Patron establishes closeness and granted powers:**
 
-Since the purpose of a Patron is to make their Traits dominant over others, having high-level and powerful people who are so akin to them will be useful in the judgment of the 100 years. Use the Traits and the bond that the Patron will establish with you to your advantage.
+- At **5** points, one has the closeness of a Patron.
+- At **10** points, one has a bond with a Patron.
+- At **15** points, one becomes a champion of a Patron.
+- At **20** points, one becomes an absolute champion of the Patron.
 
-Then check in Cosmology (page ) the powers granted by the claiming Patron. It is advisable to do this check each time a Trait value increases.
+To calculate the sum, consider only the Traits chosen by the character that appear among those of the claiming Patron (listed both in its description and in the Patron - Trait Connection Table). Powers granted by Traits are received solely from the claiming Patron, even if the character has formalized no adherence.
 
-Formal allegiance is the player' \*\*s choice, not an automatic effect of being reclaimed. If the character has at least 1 chosen Trait in common with the claiming Patron, the player may choose to make them a Follower; if they have at least 2 distinct chosen Traits in common, the player may choose to make them a Devotee. The player may also choose no formal allegiance and still receive powers derived from the Traits. Follower and Devotee are mutually exclusive alternatives: a character cannot be both, nor belong to two different Patrons.
+Formal adherence, on the other hand, is a choice of the player. A **Follower** is a claimed character who chooses to embrace the Patron' \*\*s influence: they gain access to favored energy forms, a domain spell linked to their affinity, and a base benefit. A **Devotee** is a Follower who shares at least **4 distinct Traits in common** with the Patron and has forged a deeper bond with them: they receive greater benefits, but are subject to stricter taboos and dissonances. Those who do not formally adhere still receive powers derived from the sum of common Traits with the claiming Patron, but do not access the specific benefits of Follower and Devotee. Follower and Devotee are mutually exclusive choices: one cannot be both, nor adhere to two different Patrons.
 
-The Game Master is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
+Patrons seek to make their Traits dominant over others; having powerful, akin mortals is precious in view of the Judgment of the Hundred Years. Use the Traits and the bond with the Patron to your advantage.
+
+Then check in the chapter Cosmology (p. ) the powers granted by the claiming Patron; it is advisable to do so with each increase in Trait values.
+
+The Game Master is free to introduce new Traits upon player request; it is recommended to assign new Traits to Patron profiles as well.
 
 **Traits List**
 
 Each Trait is briefly described in its general meaning. The character is free to interpret the Trait as they feel it.
 
-- **Altruistic**: A person who puts others first, even sacrificing their own needs.
-- **Ambitious**: Thinks only of their own interests and needs, without considering those of others.
-- **Arrogant**: Has an exaggerated opinion of themselves and tends to belittle others.
-- **Greedy**: Excessively attached to their material possessions and reluctant to share.
-- **Cynical**: Tends to see the worst in people and situations, often with a contemptuous attitude.
-- **Cowardly**: Lacking in courage and tends to avoid dangerous situations.
-- **Compassionate**: Shows empathy and understanding towards the suffering of others.
-- **Courageous**: Faces fears and challenges with determination.
-- **Cruel**: Without mercy and compassion, intentionally causes suffering.
-- **Curious**: Has a strong desire to know and learn new things.
-- **Dishonest**: Does not tell the truth and deceives others for their own advantage.
-- **Dissolute**: Lives in an unruly manner and without considering the moral consequences of their actions.
-- **Enthusiastic**: Shows great energy and passion for what they do.
-- **Extroverted**: Sociable and at ease in social situations.
-- **Kind**: Treats others with respect and consideration.
-- **Impulsive**: Tends to act and react without thinking too much about the consequences.
-- **Indecisive**: Cannot quickly make decisions, dwelling too much on weighing choices.
-- **Uncompromising**: Not willing to compromise or consider different points of view.
-- **Envious**: Feels resentment towards those who possess something they desire.
-- **Loyal**: Faithful and reliable towards friends and loved ones.
-- **Patient**: Able to wait without getting irritated or losing calm.
-- **Cautious**: Carefully considers difficult or dangerous situations.
-- **Suspicious**: You believe that everyone wants to harm you.
-- **Stubborn**: Determined and persistent in achieving your goals, despite difficulties.
-- **Vain**: You are certain of your exceptional qualities, abilities, and appearance.
-- **Vindictive**: Seeks to punish those who have wronged them, often disproportionately.
+- **Altruistic**: Puts the well-being of others first, placing others' \*\* needs ahead of their own.
+- **Ambitious**: Driven by the desire to rise, excel, or accumulate power, influence, or success, placing their own goals at the center.
+- **Arrogant**: Shows presumption and superiority, devaluing or treating those around them with condescension.
+- **Greedy**: Withholds resources, goods, or knowledge for themselves, reluctant to share or give up what they possess.
+- **Cynical**: Views the world and others' \*\* motives with disenchantment, distrust, or cutting irony.
+- **Cowardly**: Yields to fear in the face of danger, seeking flight or personal safety at any cost.
+- **Compassionate**: Feels deep empathy for the suffering of others and senses a moral need to bring relief.
+- **Courageous**: Faces dangers, fears, and challenges head-on, sustained by determination.
+- **Cruel**: Inflicts physical or psychological suffering without remorse, sometimes deriving gratification from it.
+- **Curious**: Driven by the need to explore, discover secrets, and understand what they do not know.
+- **Dishonest**: Believes truth is negotiable; deceives, omits, or manipulates to achieve their ends.
+- **Dissolute**: Pursues excess and immediate pleasure, heedless of moral or social boundaries.
+- **Enthusiastic**: Acts with fervor, contagious passion, and energy in whatever they undertake.
+- **Extroverted**: Seeks company, gains energy from interaction, and expresses themselves with ease in a group.
+- **Kind**: Interacts with others with grace, attentiveness, respect, and gentleness.
+- **Impulsive**: Acts on the spur of emotion or immediate instinct, without weighing risks or consequences.
+- **Indecisive**: Hesitates at length before choices, immobilized by doubt or fear of making a mistake.
+- **Uncompromising**: Inflexible in their principles, rejecting compromises or nuances.
+- **Envious**: Experiences the success, qualities, or possessions of others with bitterness and resentment.
+- **Loyal**: Honors their word, bonds, and trust received, remaining faithful even through adversity.
+- **Patient**: Knows how to await the opportune moment with steadfastness and composure, without being ruled by haste.
+- **Cautious**: Evaluates risks and consequences before acting, avoiding reckless moves.
+- **Suspicious**: Tends to doubt others' \*\* intentions, fearing deception or hidden threats.
+- **Stubborn**: Pursues their goals with unshakeable obstinacy, even in the face of obstacles or setbacks.
+- **Vain**: Confident in their exceptional qualities, worth, or appearance, taking pleasure in others' \*\* admiration.
+- **Vindictive**: Does not forget wrongs suffered and pursues payback, often far beyond the measure of the offense.
 
-If the character is completely different from their Traits, they will not gain experience points.
+>>> **Characters and Traits**: If a character' \*\*s actions temporarily deviate from or openly contradict their chosen Traits without narrative motivation (e.g., out of pure opportunism or to circumvent rules), the Game Master may intervene by reducing the affected Traits or suspending the award of roleplaying-related experience points.
 
-> If a traveler doesn' \*\*t bring back something to share, he' \*\*s not a *Hero* but an impostor, a selfish person lacking wisdom. (The Hero' \*\*s Journey, Christopher Vogler)
+If, on the other hand, this contrast arises from an authentic ethical dilemma, trauma, or profound personal maturation, we are facing a **Character Crisis**: a cathartic moment of transformation. In such a case, Game Master and player can agree on the gradual replacement of one or more Traits, an eventual change of the dominant Trait (beginning a new relationship with a different claiming Patron), or a transition toward a new reference archetype.
 
 ---

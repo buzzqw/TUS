@@ -8049,6 +8049,40 @@ I minotauri possono servire mostri o creature malvagie più potenti, cacciando e
 
 I minotauri sono combattenti diretti, usando le loro corna per incornare orribilmente le creature vicine all'inizio del combattimento.
 
+### Monete affamate
+
+- **Taglia/Tipo**: Medio sciame di Minuscoli costrutti, disallineato
+- **Caratt.**: \resizedown{For -3 Des 3 Cos 0 Int -5 Sag 0 Car -4}
+- **Punti Ferita**: \resizedown{24, **Difesa:** 15, **Iniziativa:** +3}
+- **Resistenze al danno**: contundente, perforante, tagliente
+- **Tiri Salvez.**: \resizedown{Tempra +3, Riflessi +5, Volontà +3}
+- **Imm. Danni**: Veleno
+- **Immunità**: accecato, affascinato, assordato, paralizzato, pietrificato, affaticato, spaventato
+- **Movimento**: 6 m, scalata 6 m
+- **Sensi**: Vista Cieca 9 m (cieco oltre questo raggio)
+- **Linguaggi**: —
+- **Sfida**: 1/2 (100 PX)
+
+***Falso Tesoro.*** Mentre lo sciame resta immobile, è indistinguibile da un normale mucchio di monete. Una creatura che lo esamina può notarlo con una prova di Consapevolezza contrapposta alla Furtività dello sciame (+3).
+
+***Sciame.*** Lo sciame può occupare lo spazio di un'altra creatura e viceversa; può muoversi attraverso qualsiasi apertura grande abbastanza per una moneta. Lo sciame non può recuperare Punti Ferita né ottenere Punti Ferita temporanei.
+
+***Suscettibilità all'Anti Magia.*** Lo sciame è inabile mentre si trova nell'area di un *campo anti-magia*. Se è bersaglio di *Dissolvi Magie*, deve riuscire un Tiro Salvezza su Tempra contro la DC del Tiro Salvezza dell'incantesimo o restare inabile per 1 minuto.
+
+**Azioni*Morsi.** Attacco con Arma da Mischia*: +4 a colpire, portata 0 m, una creatura nello spazio dello sciame.
+
+*Colpisce:* 7 (2d6) danni perforanti, o 3 (1d6) danni perforanti se lo sciame ha metà o meno dei suoi Punti Ferita.
+
+| **Ecologia** |
+| --- |
+Ambiente: Tesori maledetti, caveau, rovine e sotterranei
+
+Organizzazione: Sciame (1-4) o mucchio (5-8)
+| **Categoria Tesoro**: Le monete che compongono lo sciame (1d4×100 mo); se lo sciame viene distrutto, tornano normali e possono essere raccolte |
+| **Descrizione** |
+
+Le monete affamate sono un antico incantesimo di avarizia, un tempo usato per punire i ladri o proteggere i tesori dei tiranni. Ogni moneta è animata da una scintilla di volontà e si muove con le altre come uno sciame: si nasconde tra pile di monete normali, morde con i bordi affilati e si disperde per evitare i colpi. Alcuni tesori maledetti da Rezh ne sono infestati: chi prova a raccoglierli scopre troppo tardi che il mucchio ha fame.
+
 ### Mummia
 
 - **Taglia/Tipo**: Media non morto, malvagio
@@ -12657,8 +12691,6 @@ Arrotondate il GS per eccesso nei calcoli.
 
 > Timeo Danaos et dona ferentes (Temo i Greci anche quando portano doni). (Eneide, Virgilio)
 
-Non è morto ciò che può giacere in eterno, e in strani eoni anche la morte può morire. (Il Richiamo di Cthulhu, H.P. Lovecraft)
-
 ---
 
 ## Template e suggerimenti per i Mostri
@@ -12811,6 +12843,8 @@ Il template Oozekin conferisce alla creatura un aspetto *gelatinoso* e fluido
 **Attacco**: +3
 
 **Danno**: +1d8 da Acido
+
+> Non è morto ciò che può giacere in eterno, e in strani eoni anche la morte può morire. (Il Richiamo di Cthulhu, H.P. Lovecraft)
 
 ---
 

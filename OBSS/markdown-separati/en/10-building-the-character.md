@@ -24,11 +24,9 @@ To create a character, try to answer these questions; they can help you imagine 
 
 - What are the character' \*\*s three main flaws and three main virtues?
 
-Did they grow up in a family, in a clan, as a wanderer, on the streets... what brought them and what choices did they make to get to where they are now?
+Did they grow up in a family, in a clan, as a wanderer, or on the street… What brought them here and what choices did they make? What is their fighting style and typical strategy? Magic, sword, from the backline… cheering allies… running away…
 
-What is their combat style and typical strategy? Magic, sword, from the rear, encouraging companions, running away...
-
-And, no less importantly, what is their purpose? What made them leave the security of a normal life and embark on that of an adventurer?
+And, no less importantly: what is their purpose? What made them leave the security of a normal life and embark on that of an adventurer?
 
 Always remember that this is a cruel world, full of risks, traps, and monsters, but also opportunities that can make you powerful and very rich.
 
@@ -104,9 +102,7 @@ Every time the Game Master confirms your level advancement, several operations m
 As you will have noticed, Proficiency scores are reduced; only a few points are available to distribute at a time.
 As players, you have the opportunity to prefer a specialized approach, that is, to *focus* on a few specific Proficiencies, or to dilute the points across more proficiencies to know a bit of everything and not have penalties in checks (the check is only done with 2d6 + Ability Score if you don' \*\*t have points in the Proficiency).
 
-A suggestion is also to use Feats, particularly Expert, which gives you a +2 bonus to Proficiency checks.
-
-> The **perceived** power level of characters in OBSS is lower than that of other RPGs. The character' \*\*s weakness is only a perception, and in fact, you will soon realize the character' \*\*s true power. Play as a group and you will survive, because this is a bad, spiteful, and deadly world filled with selfish creatures.
+>> **Power**: A character' \*\*s perceived weakness is only an illusion; you will soon realize their true power. Play as a team and you will survive, for this world is harsh, spiteful, and deadly to **the selfish**.
 
 ## Tips for having fun and surviving in OBSS adventures
 

@@ -10,7 +10,7 @@
 - [Hit Points](05-hit-points.md)
 - [Fate Points](06-fate-points.md)
 - [Traits](07-traits.md)
-- [Optional - Character Archetype](08-optional-character-archetype.md)
+- [Optional - Character Archetypes](08-optional-character-archetypes.md)
 - [Skills](09-skills.md)
 - [Building the Character](10-building-the-character.md)
 - [Rules for Proficiencies](11-rules-for-proficiencies.md)

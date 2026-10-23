@@ -193,11 +193,13 @@ Se l'incantatore è **Distratto** (vedi elenco completo cause a pag. ) ovvero ce
 
 Non sempre lanciare un incantesimo è sufficiente: molte volte è necessario che l'incantesimo funzioni bene e, anzi, che agisca oltre le normali aspettative. L'incantatore può decidere di richiamare più energia nel lancio dell'incantesimo, ovvero effettuare una ***Prova di Magia*** e confidare nelle proprie capacità.
 
-L'incantatore tira **3d6 + 1d6 ogni quattro punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti).
+L'incantatore tira **3d6 + 1d4 ogni tre punti di Competenza Magica + Modificatore di caratteristica per incantesimo** più eventuali bonus, Abilità o penalità (armatura, scudi, critici subiti). Il numero di d4 aggiuntivi è pari alla Competenza Magica divisa per 3, arrotondata per difetto: per esempio, con CM 6 tira 3d6+2d4. I d6 seguono l'Esplosione del 6; i d4 non esplodono e l'1 su un d4 vale 1.
 
-L'incantatore può **ritirare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**. Questo per evitare di tirare tre volte 1.
+L'incantatore può **ritirare un dado tirato** nella Prova di Magia per **ogni due volte** che ha preso **Adepto della Magia**..
 
-La Prova di Magia si considera superata se il tiro è superiore a 10 + Livello dell'Incantesimo*2 + eventuali penalità. I Successi Critici o Fallimenti Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
+Se, dopo gli eventuali ritiri concessi da Adepto della Magia, i primi tre dadi della Prova di Magia mostrano 1, la prova è un **Fallimento Critico Magico** automatico, indipendentemente dal totale ottenuto.
+
+La Prova di Magia si considera superata se il tiro è **pari o superiore** a 10 + 2 volte il livello dell'incantesimo + eventuali penalità. I Successi Critici o Fallimenti Critici Magici si raffrontano a questo valore.. In caso di Successo Critico Magico il costo dell'incantesimo diminuisce di 1 con un minimo di costo di 1.
 
 Per ogni tiro critico o critico magico che si è subito nel round la Prova di Magia viene fatta con +4 di difficoltà aggiuntiva.. Eventuali Fallimenti Critici o Successi Critici vengono presi in considerazione.
 
@@ -205,18 +207,26 @@ Il numero massimo di Successi Critici Magici fattibili è 3.
 
 Quando viene richiesto di superare o fare una Prova di Magia è sufficiente superare la difficoltà data dall'incantesimo e non fare un Fallimento Critico Magico. Se viene richiesto di ottenere un Successo Critico e la Prova di Magia non lo ottiene allora qualsiasi risultato ottenuto sarà considerato un Fallimento Critico.
 
-La Prova di Magia come tutte le Prove segue le Golden Rules, pag..
-
 >>> **Declamare la Magia**: Concedete un +1d6 nella Prova di Magia quando il personaggio declama con perizia e trasporto il lancio dell'incantesimo. Se dice *Lancio una palla di fuoco* non otterrà vantaggi ma se con trasporto declama *Per la Fiamma della Genesi possa Nedraf distruggervi con le sue sacre fiamme. Bruciate indegni. Palla di Fuoco!* allora si!
 
 Fate che la partecipazione e recitazione guidi sempre il personaggio, coinvolgendo anche gli altri giocatori.
 
->> **Osare la Prova di Magia**: La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio. Non è solo questione di fortuna! Con le giuste Abilità potete evolvere un personaggio capace di dominare la sorte! |
+Se la Prova di Magia fallisce senza Fallimento Critico:
+
+- se era **volontaria**, l'incantesimo si manifesta comunque, ma non ottieni Successi Critici, spendi 1 Punto Magia aggiuntivo oltre al costo dell'incantesimo e le Azioni di lancio sono comunque consumate, se non hai quel Punto Magia aggiuntivo sei stordito per il round successivo;
+- se era **obbligatoria** (armatura o Distratto), l'incantesimo non si manifesta, i Punti Magia sono spesi e le Azioni di lancio sono consumate.
+
+Se fallisci di 8 o più, oppure ottieni tre 1, l'incantesimo fallisce e applichi la tabella dei Fallimenti Critici; i Punti Magia sono spesi e le Azioni di lancio sono consumate.
+
+La Prova di Magia come tutte le Prove segue le Golden Rules, pag..
+
+>> **Osare la Prova di Magia**: La Prova di Magia è una parte importante e integrante del sistema magico, usatela a vostro vantaggio.
+
 Non rinunciate al divertimento per paura di sbagliare. Meglio fallire clamorosamente in una esplosione di colori che rinunciare e basta!
 
 ## Fallimento Critico nella Prova di Magia
 
-Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, tirato tre 1 oppure tirato veramente basso, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
+Se la Prova di Magia ha avuto almeno un Fallimento Critico Magico, compresi i tre 1 nei primi tre dadi, oppure è fallita di 8 o più, tira 3d6 e consulta la seguente tabella. Per ogni Fallimento Critico Magico oltre il primo che si è manifestato nel lancio dell'incantesimo e per ogni Tiro Critico subito, tira un 1d6 in meno, fino a tirare un solo 1d6.
 
 **Tabella: Effetti Fallimento Critico magico**
 
@@ -261,7 +271,7 @@ Un incantatore può anche **volontariamente fallire la Prova di Magia**.
 
 A seconda del punteggio in Competenza Magica l'incantatore ha a disposizione un certo ammontare di Punti Magia.
 
-**Gli incantesimi hanno un costo in Punti Magia pari al loro livello**
+**Tabella: Competenza Magica (CM) e Punti Magia (PM)Gli incantesimi hanno un costo in Punti Magia pari al loro livello**
 
 Ogniqualvolta si lanci un incantesimo si sottrae il costo ai Punti Magia a disposizione per il giorno.
 In caso di Trucchetti questi non consumano Punti Magia ma è necessario avere almeno 1 Punto Magia residuo.
@@ -269,8 +279,6 @@ In caso di Trucchetti questi non consumano Punti Magia ma è necessario avere al
 L'incantatore ha un **bonus** al punteggio di Punti Magia pari al suo modificatore di caratteristica per incantesimi.
 
 I Punti Magia si recuperano tutti con 8 ore di riposo. 
-
-**Tabella: Competenza Magica (CM) e Punti Magia (PM)**
 
 | **CM** | **PM** | **CM** | **PM** | **CM** | **PM** |
 |---|---|---|---|---|---|

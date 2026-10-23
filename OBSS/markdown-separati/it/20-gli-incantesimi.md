@@ -4169,7 +4169,7 @@ Non è possibile reincarnarsi in uno gnomo se non si era prima uno gnomo.
 
 Entri a contatto con una creatura morta da non più di un secolo, che non sia morta di vecchiaia e non sia un non morto. Se l'anima della creatura è libera e consenziente, la creatura ritorna in vita con tutti i suoi Punti Ferita.
 
-Questo incantesimo chiude tutte le ferite mortali e ripristina ogni parte del corpo mancante. Tuttavia, riportare la creatura in vita impone un pesante tributo: la creatura subisce una penalità di -4 a tutti i Tiri di Attacco, i Tiri Salvezza e le prove di Competenza. Ogni volta che la creatura completa un riposo lungo, la penalità si riduce di 1 finché non scompare.
+Questo incantesimo chiude tutte le ferite mortali e ripristina ogni parte del corpo mancante. Tuttavia, riportare la creatura in vita impone un pesante tributo: la creatura subisce una penalità di -4 a tutti i Tiri di Attacco, i Tiri Salvezza e le prove di Competenza. Ogni volta che la creatura completa una notte di riposo, la penalità si riduce di 1 finché non scompare.
 
 L'incantesimo non può riportare in vita le creature che sono morte di vecchiaia, né può creare una nuova anima se l'originale non è libera o non è consenziente a tornare.
 

@@ -192,11 +192,13 @@ If the spellcaster is **Distracted**, tries to hide the casting of magic, is imp
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
-The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penalty from having suffered critical rolls.
+The spellcaster rolls **3d6 + 1d4 for every three points of Magic Proficiency + spell ability modifier** plus any bonuses, Abilities, or penalties (armor, shields, criticals suffered). The number of additional d4s is equal to Magic Proficiency divided by 3, rounded down: for example, with MP 6, roll 3d6+2d4. The d6s follow the Explosion of 6; the d4s do not explode.
 
 The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept. This is to avoid the possibility of rolling three 1s.
 
-The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
+After any rerolls granted by Magic Adept, if the first three dice of the Magic Check show 1, the check is an automatic **Magical Critical Failure**, regardless of the total obtained.
+
+The Magic Check is considered passed if the roll is **equal to or higher than** 10 + twice the Spell Level + any penalty. Any Magical Critical Successes or Magical Critical Failures are compared to this value.. In case of a Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
 Maximum number of Magical Critical Success per spell is 3.
 
@@ -220,7 +222,7 @@ A spellcaster can also **voluntarily fail the Magic Check**.
 
 ## Critical Failure in the Magic Check
 
-If the Magic Check has had at least one Magic Critical Failure (three 1 or very low value rolled), roll 3d6 and consult the following table. For each Magic Critical Failure beyond the first that has manifested in the casting of the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
+If the Magic Check has had at least one Magical Critical Failure, including three 1s on the first three dice, or has rolled a very low value, roll 3d6 and consult the following table. For each Magical Critical Failure beyond the first that manifested in casting the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
 
 **Table: Magic Critical Failure Effects**
 

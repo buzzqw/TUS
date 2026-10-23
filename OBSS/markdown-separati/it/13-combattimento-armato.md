@@ -665,8 +665,6 @@ Il valore di EDX, se diverso dal massimo danno dell'arma, aumenta di 2 (la Katan
 
 Combattere in condizioni di luminosità ridotta comporta delle difficoltà riassunte in questo schema.
 
-	
-
 | **Visione** | **Condizione** | |
 | --- | --- |
 | Luce Fioca | Oscurità |

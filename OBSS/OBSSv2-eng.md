@@ -116,7 +116,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Bonus**:  Any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
-**Casting Spells while Distracted or after a Recent Wound**: When a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise distracted while casting a spell, they must make a Magic Check.
+**Casting Spells while Distracted or after a Recent Wound**: When a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise severely distracted while casting a spell, they must make a Magic Check.
 
 **Check/Test**:  A check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 
@@ -854,350 +854,339 @@ Est Sularus Oth Mithas. ("My honor is my life", Oath of the Knights of Solamnia)
 
 In OBSS there is no clear distinction between good and evil, law and chaos, between what is right and what is wrong.
 
-In OBSS there are Traits, aspects, and character nuances that **contribute** to the character' \*\*s background, help the player roleplay better, and provide guidelines for interpreting the character they want to create.
+In OBSS there are Traits, aspects, and character nuances that **contribute** to the character' \*\*s background, help the player roleplay better, and provide guidelines for interpreting the character they chose to create.
 
 A Trait is a detail that helps frame the character, outlines their main characteristics, and gives them different nuances.
 
-**Each player chooses 5 Traits for their character at character creation.** These will suggest the character' \*\*s actions and choices. The player chooses the Traits, not the Patron: the Patron associated with the dominant Trait will reclaim the character.
+**Each player chooses 5 Traits for their character at character creation.** These will guide the character' \*\*s actions and choices. The player chooses the Traits, not the Patron: the Patron associated with the dominant Trait will claim the character.
 
->> **Choosing Traits**: Traits are not the character; they do not fix it forever. A character is constantly evolving, as are their morals, behavior, and desires. Don' \*\*t be rigid, but use Traits as suggestions from which to draw inspiration.
+>> **Choosing Traits**: Traits are not the character; they do not lock them in or fix them permanently in time. A character is constantly evolving, as are their character, morals, behavior, and desires. Do not be rigid, but use Traits as suggestions from which to draw inspiration. If you want a more defined thematic and psychological framework to orient your initial choice of 5 Traits, you can consult the optional section \hyperlinkarchetipiCharacter Archetypes (p. \pagerefarchetipi).
 
-Traits have no positive or negative connotation; they only serve to frame the character and show which Patron is more interested in the character. They are not meant to define whether you are good or bad; everyone has their own morals regardless of the Traits they possess.
+Traits have no positive or negative connotation; they only serve to frame the character and show which Patron is most interested in them. They are not meant to define whether you are good or bad; everyone has their own morals regardless of the Traits they possess.
 
-**At the first level, choose the Trait that is most characteristic of your character; it has a value of 1, while the other 4 Traits have a value of 0.**
+**At first level, choose the most characteristic Trait for your character; it has a value of 1, while the other 4 Traits have a value of 0.**
 
-As time passes and the character has new adventures, Traits increase in value or may be replaced by other Traits, as agreed upon by the Game Master and player based on how the character is played. **The higher a Trait value, the more present and pervasive it is in the character' \*\*s choices**.
+As time passes and adventures unfold, Traits increase in value or may be replaced by other Traits, agreed upon by the Game Master and player based on how the character is played. **The higher a Trait' \*\*s value, the more present and pervasive it is in the character' \*\*s choices**.
 
-During adventures, the Game Master may increase a character' \*\*s Trait by one point or a fraction of a point after particular scenes or roleplaying moments.
+During adventures, following significant scenes and roleplaying, the Game Master may increase a character' \*\*s Trait by one point, or a fraction of a point.
 
-For example, following a particular situation and adventure climax, the Game Master might grant everyone or someone the Courage Trait or give a +1 to Courage to someone who already has this Trait. For Traits not taken, the base value in points is considered -1, i.e., the first point serves to take the Trait and the subsequent ones to emphasize them.
+For example, after a particular situation or at the climax of an adventure, the Game Master might grant everyone, or specific characters, the Courageous Trait, or award a +1 to Courageous for those who already have it. For unselected Traits, the base point value is considered -1: the first point serves to acquire the Trait, and subsequent points to emphasize it.
 
-While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Talk to the Game Master, they will know how to prepare situations and adventures that will help you understand how to evolve the character and possibly change the chosen Traits.
+While it is *relatively* easy to acquire new Traits, it is difficult to change those already present. Speak with the Game Master; they will prepare situations and adventures to help you understand how to evolve the character and potentially change chosen Traits.
 
-In the character sheet, you will find **checks** to put next to the Traits, these are marked following actions suitable to increase the value of the Trait; once 10 checks are reached, the Trait will increase by 1 point and you will start marking a new set of ten.
+On the character sheet you will find **checks** next to Traits, marked following actions suitable for increasing a Trait' \*\*s value; upon reaching 10 checks, the Trait increases by 1 point and a new set of ten begins.
 
-It will be the Game Master during the adventure to tell you when to mark, or delete, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
+The Game Master will tell you during the adventure when to mark, or erase, partial points. **As a rule of thumb, it is assumed that a character acquires at least one Trait point per level.**
 
-Every particularly important action where the character has followed a Trait brings the character closer to the Patrons that share that Trait. A shared Trait is the channel through which a Patron recognizes the character, not necessarily the purpose or moral way in which that Trait is expressed: the same Trait can have different meanings for different Patrons.
+Every particularly important action where the character acts in accordance with a Trait brings them closer to the Patrons who share that Trait. A shared Trait indicates the channel through which a Patron recognizes the character, not necessarily the moral end or manner in which that Trait is expressed: the same Trait can carry different meanings for different Patrons.
 
-The **dominant Trait** is the chosen Trait with the highest score. To identify the claiming Patron, consult the first Trait in the Patron - Trait Connection Table (page ) that corresponds to the dominant Trait. If multiple Traits share the highest score, the player chooses which of the corresponding Patrons prevails. If multiple Patrons have the same Guide Trait, compare their common Complementary Traits; if that affinity is also tied, the player decides. The Patron identified in this way **reclaims the character**: the Patron is not freely chosen by the player.
+The **dominant Trait** is the chosen Trait with the highest score. To identify the claiming Patron, consult the first Trait in the Patron - Trait Connection Table (p. ) corresponding to the dominant Trait. If multiple Traits share the same highest score, the player chooses which of the corresponding Patrons prevails. If multiple Patrons share the same guide Trait, compare common complementary Traits; if this affinity is also tied, the player decides.
 
-The claiming Patron must be checked again whenever the dominant Trait changes. This change can become a narrative event: the new Patron may reclaim the character, but the character cannot belong to two Patrons at the same time.
+**Rule of the Genesis Patrons**: The Genesis Patrons (**Ljust** and **Calicante**) are primordial entities so vast and transcendent that they do not claim a mortal based on a single affinity: they only claim characters who have at least **4 distinct Traits in common** with them. If a character' \*\*s dominant Trait coincides with the guide Trait of a Genesis Patron (*Compassionate* for Ljust or *Ambitious* for Calicante), but the character does not possess at least 4 distinct Traits in common with them, the Genesis Patron does not claim them; the character is instead claimed by the Patron corresponding to their second-highest Trait (or, in case of a tie, the one with whom they share the most complementary Traits; if still tied, the player chooses).
 
-As the value of the sum of common Traits with the claiming Patron increases, the character may acquire powers, regardless of whether they are a believer (Follower or Devotee) or not of that Patron.
+If the second Trait also belongs to a Genesis Patron that does not reach 4 common Traits, proceed to the next Trait following the same tie-breaking criteria. Continue until an eligible Patron is found; if no Patron is eligible, the character is not claimed and receives no Patron powers until they satisfy the requirements. This check is repeated whenever the dominant Trait changes.
 
-To calculate the sum, consider only the Traits chosen by the character that also appear in the claiming Patron' \*\*s profile. Traits not chosen, which have a base value of -1, are not common Traits and do not enter the sum. The number of common Traits instead determines whether the character can choose to be a Follower or Devotee: a Devotee must have at least 2 distinct common Traits, even if one or more of them have a value of 0.
+The Patron identified in this way **claims the character**: the Patron is not freely chosen by the player.
 
-- At **' \*\*5' \*\*** points, one can begin to feel the presence of a Patron
-- At **' \*\*10' \*\*** points, one feels the closeness of a Patron
-- At **' \*\*15' \*\*** points, one is bound to a Patron
-- At **' \*\*20' \*\*** points, one is a champion of the Patron
+Checking the claiming Patron must be repeated whenever the dominant Trait changes. A change can become a major narrative event: the former Patron withdraws and the new Patron steps in, claiming the character.
 
-It is not necessary to believe in the claiming Patron to feel their closeness, be bound to them or be their champion; simply, it is one' \*\*s nature (one' \*\*s Traits) that is akin to the Patron, whether one wants it or not. Powers derived from Traits are received only from the claiming Patron, even when the character has no formal allegiance to them.
+**The sum of points of common Traits with the claiming Patron establishes closeness and granted powers:**
 
-Since the purpose of a Patron is to make their Traits dominant over others, having high-level and powerful people who are so akin to them will be useful in the judgment of the 100 years. Use the Traits and the bond that the Patron will establish with you to your advantage.
+- At **5** points, one has the closeness of a Patron.
+- At **10** points, one has a bond with a Patron.
+- At **15** points, one becomes a champion of a Patron.
+- At **20** points, one becomes an absolute champion of the Patron.
 
-Then check in Cosmology (page ) the powers granted by the claiming Patron. It is advisable to do this check each time a Trait value increases.
+To calculate the sum, consider only the Traits chosen by the character that appear among those of the claiming Patron (listed both in its description and in the Patron - Trait Connection Table). Powers granted by Traits are received solely from the claiming Patron, even if the character has formalized no adherence.
 
-Formal allegiance is the player' \*\*s choice, not an automatic effect of being reclaimed. If the character has at least 1 chosen Trait in common with the claiming Patron, the player may choose to make them a Follower; if they have at least 2 distinct chosen Traits in common, the player may choose to make them a Devotee. The player may also choose no formal allegiance and still receive powers derived from the Traits. Follower and Devotee are mutually exclusive alternatives: a character cannot be both, nor belong to two different Patrons.
+Formal adherence, on the other hand, is a choice of the player. A **Follower** is a claimed character who chooses to embrace the Patron' \*\*s influence: they gain access to favored energy forms, a domain spell linked to their affinity, and a base benefit. A **Devotee** is a Follower who shares at least **4 distinct Traits in common** with the Patron and has forged a deeper bond with them: they receive greater benefits, but are subject to stricter taboos and dissonances. Those who do not formally adhere still receive powers derived from the sum of common Traits with the claiming Patron, but do not access the specific benefits of Follower and Devotee. Follower and Devotee are mutually exclusive choices: one cannot be both, nor adhere to two different Patrons.
 
-The Game Master is free to insert new Traits at their pleasure or requested by the players; it is suggested to attribute these new Traits to the Patrons as well.
+Patrons seek to make their Traits dominant over others; having powerful, akin mortals is precious in view of the Judgment of the Hundred Years. Use the Traits and the bond with the Patron to your advantage.
+
+Then check in the chapter Cosmology (p. ) the powers granted by the claiming Patron; it is advisable to do so with each increase in Trait values.
+
+The Game Master is free to introduce new Traits upon player request; it is recommended to assign new Traits to Patron profiles as well.
 
 **Traits List**
 
 Each Trait is briefly described in its general meaning. The character is free to interpret the Trait as they feel it.
 
-- **Altruistic**: A person who puts others first, even sacrificing their own needs.
-- **Ambitious**: Thinks only of their own interests and needs, without considering those of others.
-- **Arrogant**: Has an exaggerated opinion of themselves and tends to belittle others.
-- **Greedy**: Excessively attached to their material possessions and reluctant to share.
-- **Cynical**: Tends to see the worst in people and situations, often with a contemptuous attitude.
-- **Cowardly**: Lacking in courage and tends to avoid dangerous situations.
-- **Compassionate**: Shows empathy and understanding towards the suffering of others.
-- **Courageous**: Faces fears and challenges with determination.
-- **Cruel**: Without mercy and compassion, intentionally causes suffering.
-- **Curious**: Has a strong desire to know and learn new things.
-- **Dishonest**: Does not tell the truth and deceives others for their own advantage.
-- **Dissolute**: Lives in an unruly manner and without considering the moral consequences of their actions.
-- **Enthusiastic**: Shows great energy and passion for what they do.
-- **Extroverted**: Sociable and at ease in social situations.
-- **Kind**: Treats others with respect and consideration.
-- **Impulsive**: Tends to act and react without thinking too much about the consequences.
-- **Indecisive**: Cannot quickly make decisions, dwelling too much on weighing choices.
-- **Uncompromising**: Not willing to compromise or consider different points of view.
-- **Envious**: Feels resentment towards those who possess something they desire.
-- **Loyal**: Faithful and reliable towards friends and loved ones.
-- **Patient**: Able to wait without getting irritated or losing calm.
-- **Cautious**: Carefully considers difficult or dangerous situations.
-- **Suspicious**: You believe that everyone wants to harm you.
-- **Stubborn**: Determined and persistent in achieving your goals, despite difficulties.
-- **Vain**: You are certain of your exceptional qualities, abilities, and appearance.
-- **Vindictive**: Seeks to punish those who have wronged them, often disproportionately.
+- **Altruistic**: Puts the well-being of others first, placing others' \*\* needs ahead of their own.
+- **Ambitious**: Driven by the desire to rise, excel, or accumulate power, influence, or success, placing their own goals at the center.
+- **Arrogant**: Shows presumption and superiority, devaluing or treating those around them with condescension.
+- **Greedy**: Withholds resources, goods, or knowledge for themselves, reluctant to share or give up what they possess.
+- **Cynical**: Views the world and others' \*\* motives with disenchantment, distrust, or cutting irony.
+- **Cowardly**: Yields to fear in the face of danger, seeking flight or personal safety at any cost.
+- **Compassionate**: Feels deep empathy for the suffering of others and senses a moral need to bring relief.
+- **Courageous**: Faces dangers, fears, and challenges head-on, sustained by determination.
+- **Cruel**: Inflicts physical or psychological suffering without remorse, sometimes deriving gratification from it.
+- **Curious**: Driven by the need to explore, discover secrets, and understand what they do not know.
+- **Dishonest**: Believes truth is negotiable; deceives, omits, or manipulates to achieve their ends.
+- **Dissolute**: Pursues excess and immediate pleasure, heedless of moral or social boundaries.
+- **Enthusiastic**: Acts with fervor, contagious passion, and energy in whatever they undertake.
+- **Extroverted**: Seeks company, gains energy from interaction, and expresses themselves with ease in a group.
+- **Kind**: Interacts with others with grace, attentiveness, respect, and gentleness.
+- **Impulsive**: Acts on the spur of emotion or immediate instinct, without weighing risks or consequences.
+- **Indecisive**: Hesitates at length before choices, immobilized by doubt or fear of making a mistake.
+- **Uncompromising**: Inflexible in their principles, rejecting compromises or nuances.
+- **Envious**: Experiences the success, qualities, or possessions of others with bitterness and resentment.
+- **Loyal**: Honors their word, bonds, and trust received, remaining faithful even through adversity.
+- **Patient**: Knows how to await the opportune moment with steadfastness and composure, without being ruled by haste.
+- **Cautious**: Evaluates risks and consequences before acting, avoiding reckless moves.
+- **Suspicious**: Tends to doubt others' \*\* intentions, fearing deception or hidden threats.
+- **Stubborn**: Pursues their goals with unshakeable obstinacy, even in the face of obstacles or setbacks.
+- **Vain**: Confident in their exceptional qualities, worth, or appearance, taking pleasure in others' \*\* admiration.
+- **Vindictive**: Does not forget wrongs suffered and pursues payback, often far beyond the measure of the offense.
 
-If the character is completely different from their Traits, they will not gain experience points.
+>>> **Characters and Traits**: If a character' \*\*s actions temporarily deviate from or openly contradict their chosen Traits without narrative motivation (e.g., out of pure opportunism or to circumvent rules), the Game Master may intervene by reducing the affected Traits or suspending the award of roleplaying-related experience points.
 
-> If a traveler doesn' \*\*t bring back something to share, he' \*\*s not a *Hero* but an impostor, a selfish person lacking wisdom. (The Hero' \*\*s Journey, Christopher Vogler)
+If, on the other hand, this contrast arises from an authentic ethical dilemma, trauma, or profound personal maturation, we are facing a **Character Crisis**: a cathartic moment of transformation. In such a case, Game Master and player can agree on the gradual replacement of one or more Traits, an eventual change of the dominant Trait (beginning a new relationship with a different claiming Patron), or a transition toward a new reference archetype.
 
 ---
 
-# Optional - Character Archetype
+# Optional - Character Archetypes
 
-This option presents a system that integrates Jungian archetypes with the existing framework of character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes   and the Myers-Briggs Type Indicator (MBTI) , this system offers 22 distinct archetypal patterns that can be used for character creation, development, and storytelling purposes.
+This optional system integrates Jungian archetypes  with the existing framework of Character Traits and Patrons. Drawing inspiration from Carl Jung' \*\*s archetypes and the Myers-Briggs Type Indicator (MBTI) , 22 distinct archetypal patterns are presented that can be used for character creation, development, and storytelling.
 
-Each archetype is presented with a set of recommended Traits that naturally align with that archetypal energy, along with Traits that are generally incompatible or actively contradictory (and therefore stimulating) to the archetype' \*\*s core nature. Also listed are the Patrons whose profiles share at least two Traits with each archetype, suggesting natural narrative and spiritual affinities. These lists do not allow the player to choose a Patron: the claiming Patron is determined by the character' \*\*s dominant Trait.
+Each archetype is presented with a set of recommended Traits that align naturally with that archetypal energy. Alongside these Traits, generally incompatible or contradictory (and therefore stimulating) Traits relative to the archetype' \*\*s core nature are also noted. Furthermore, the Patrons that exhibit the greatest narrative and spiritual resonance among those whose profiles share at least two Traits with the archetype are indicated. These lists do not allow players to choose a Patron: the claiming Patron is determined solely by the character' \*\*s dominant Trait.
 - Choose an archetype that appeals to you or fits your character concept
-- Consider adopting at least 2-3 of the recommended Traits for that archetype
-- Avoid the incompatible Traits unless you' \*\*re specifically aiming to create internal conflict
-- Look to the aligned Patrons for guidance on which spiritual powers might naturally resonate with your character, remembering that the claiming Patron is not chosen by the player
+- Use the recommended Traits as guidance when selecting your 5 starting Traits
+- Consider selecting 1-2 contradictory Traits to create internal conflict and depth
+- Explore how your archetype interacts with your claiming Patron
 
-Archetypes can also evolve throughout a character' \*\*s journey. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in gradually shifting Traits and Patron affinities.
+Archetypes can also evolve during a character' \*\*s adventures. A character might begin as one archetype (The Innocent) and transform into another (The Hero) through their experiences. This evolution can be reflected in the gradual shift of Traits and affinities with Patrons.
+
+Role-playing is not merely escapism or tactical simulation; it can constitute an extraordinary protected space (*magic circle*) for managing stress and anxiety, and for personal psychological evolution. Through the mask of the archetype, players can explore and integrate complex aspects of their self, confront their Shadow (including through Contradictory Traits), de-catastrophize the fear of failure, and experience pathways of growth and emotional resilience shared with the group.
 
 ## The 22 Archetypes
 
-## The Hero
-The brave protagonist who overcomes obstacles to achieve a goal, often transforming themselves in the process.
+\archetipotitle{The Hero}
+The courageous character who overcomes obstacles to achieve a goal, often transforming themselves in the process.
 
-- **Recommended Traits:** Courageous, Stubborn, Ambitious, Loyal
-- **Discouraged Traits:** Cowardly, Indecisive, Dishonest
-- **Contradictory Traits:** Cynical, Cruel, Dissolute
+- **Recommended Traits:** Courageous, Stubborn, Loyal, Altruistic
+- **Contradictory Traits:** Cowardly, Cynical, Avaricious, Indecisive
 - **Aligned Patrons:** Gradh, Sumkjr, Efrem, Ljust, Lynx, Orlaith
 
-## The Mentor
+\archetipotitle{The Mentor}
 The wise guide who provides knowledge, insight, and support to others, often to the Hero.
 
-- **Recommended Traits:** Patient, Kind, Wise (Cautious), Compassionate
-- **Discouraged Traits:** Impulsive, Arrogant, Vindictive
-- **Contradictory Traits:** Cruel, Dishonest, Greedy
-- **Aligned Patrons:** Ljust, Thaft, Ledyal, Atmos, Shayalia
+- **Recommended Traits:** Patient, Compassionate, Altruistic, Kind
+- **Contradictory Traits:** Impulsive, Arrogant, Cruel, Dissolute
+- **Aligned Patrons:** Atmos, Ljust, Shayalia, Thaft, Ledyal
 
-## The Threshold Guardian
-The character that tests the players, presenting challenges they must overcome to proceed.
+\archetipotitle{The Threshold Guardian}
+The tester who challenges the protagonist to verify their worthiness and commitment.
 
-- **Recommended Traits:** Uncompromising, Suspicious, Cautious, Patient
-- **Discouraged Traits:** Impulsive, Compassionate, Altruistic
-- **Contradictory Traits:** Cowardly, Indecisive, Dishonest
-- **Aligned Patrons:** Atmos, Krondal, Sixiser, Atherim, Efrem
+- **Recommended Traits:** Uncompromising, Stubborn, Suspicious, Cautious
+- **Contradictory Traits:** Kind, Altruistic, Impulsive, Dissolute
+- **Aligned Patrons:** Krondal, Atmos, Atherim, Sixiser, Efrem
 
-## The Herald
-The character who announces the call to adventure and signals the need for change.
+\archetipotitle{The Herald}
+The messenger who brings challenges and announces significant change, often initiating the adventure.
 
-- **Recommended Traits:** Enthusiastic, Extroverted, Curious, Courageous
-- **Discouraged Traits:** Cautious, Indecisive, Suspicious
-- **Contradictory Traits:** Cowardly, Cynical, Dishonest
-- **Aligned Patrons:** Nethergal, Sumkjr, Lynx, Nedraf
+- **Recommended Traits:** Enthusiastic, Curious, Impulsive, Extroverted
+- **Contradictory Traits:** Patient, Cautious, Indecisive, Avaricious
+- **Aligned Patrons:** Nethergal, Nedraf, Lynx, Sumkjr
 
-## The Shapeshifter
+\archetipotitle{The Shapeshifter}
 The character whose loyalty and true nature are constantly in question.
 
-- **Recommended Traits:** Dishonest, Arrogant, Impulsive, Ambitious
-- **Discouraged Traits:** Loyal, Altruistic, Kind
-- **Contradictory Traits:** Uncompromising, Cautious, Patient
-- **Aligned Patrons:** Calicante, Orudjs, Tazher, Tàhil, Torbiorn
+- **Recommended Traits:** Dishonest, Impulsive, Curious, Dissolute
+- **Contradictory Traits:** Loyal, Uncompromising, Patient, Cautious
+- **Aligned Patrons:** Calicante, Orudjs, Tazher, Tàhil, Torbiorn, Laydel, Belevon
 
-## The Shadow
-The dark reflection of the protagonist, representing rejected or feared aspects of the self.
+\archetipotitle{The Shadow}
+The dark reflection of the character, representing rejected or feared aspects of the self.
 
-- **Recommended Traits:** Cruel, Vindictive, Cynical, Arrogant
-- **Discouraged Traits:** Compassionate, Kind, Altruistic
-- **Contradictory Traits:** Loyal, Patient, Enthusiastic
-- **Aligned Patrons:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn
+- **Recommended Traits:** Cruel, Vindictive, Envious, Ambitious
+- **Contradictory Traits:** Compassionate, Altruistic, Kind, Loyal
+- **Aligned Patrons:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn, Laydel, Tazher, Rezh
 
-## The Trickster
-The mischievous character who disrupts the status quo and brings about transformation through chaos.
+\archetipotitle{The Trickster}
+The disruptive force that challenges the status quo through wit, humor, and unconventional methods.
 
-- **Recommended Traits:** Impulsive, Curious, Dishonest, Enthusiastic
-- **Discouraged Traits:** Cautious, Patient, Uncompromising
-- **Contradictory Traits:** Loyal, Altruistic, Compassionate
-- **Aligned Patrons:** Orudjs, Belevon, Ledyal
+- **Recommended Traits:** Curious, Impulsive, Dishonest, Dissolute
+- **Contradictory Traits:** Uncompromising, Patient, Cautious, Loyal
+- **Aligned Patrons:** Belevon, Ledyal, Nihar, Orudjs
 
-## The Ally
-The steadfast companion who supports the protagonist on their journey.
+\archetipotitle{The Ally}
+The faithful companion who provides support, loyalty, and companionship on the journey.
 
-- **Recommended Traits:** Loyal, Courageous, Altruistic, Kind
-- **Discouraged Traits:** Dishonest, Envious, Cruel
-- **Contradictory Traits:** Vindictive, Arrogant, Greedy
-- **Aligned Patrons:** Ljust, Sumkjr, Gradh, Thaft, Atherim
+- **Recommended Traits:** Loyal, Kind, Altruistic, Patient
+- **Contradictory Traits:** Dishonest, Cruel, Envious, Arrogant
+- **Aligned Patrons:** Ljust, Sumkjr, Gradh, Atherim, Thaft
 
-## The Innocent
-The pure, naive character who sees the world with wonder and optimism.
+\archetipotitle{The Innocent}
+The pure, optimistic character who seeks happiness and believes in the inherent goodness of others.
 
-- **Recommended Traits:** Kind, Enthusiastic, Altruistic, Curious
-- **Discouraged Traits:** Cynical, Suspicious, Vindictive
-- **Contradictory Traits:** Cruel, Dishonest, Dissolute
-- **Aligned Patrons:** Ledyal, Sumkjr, Gaya, Atherim
+- **Recommended Traits:** Kind, Altruistic, Compassionate, Enthusiastic
+- **Contradictory Traits:** Cynical, Suspicious, Cruel, Vindictive
+- **Aligned Patrons:** Gaya, Ledyal, Atherim, Sumkjr
 
-## The Sage
-The knowledge-keeper who has accumulated wisdom through study or experience.
+\archetipotitle{The Sage}
+The keeper of knowledge who has accumulated wisdom through study, observation, and contemplation.
 
-- **Recommended Traits:** Cautious, Patient, Curious, Uncompromising
-- **Discouraged Traits:** Impulsive, Dishonest, Dissolute
-- **Contradictory Traits:** Indecisive, Cowardly, Arrogant
+- **Recommended Traits:** Curious, Patient, Cautious, Indecisive
+- **Contradictory Traits:** Impulsive, Dissolute, Arrogant, Cruel
 - **Aligned Patrons:** Atmos, Nethergal, Sixiser
 
-## The Ruler
-The sovereign who seeks to establish order and control over a domain.
+\archetipotitle{The Ruler}
+The leader who seeks to create order, prosperity, and harmony for their people or group.
 
-- **Recommended Traits:** Ambitious, Uncompromising, Arrogant, Stubborn
-- **Discouraged Traits:** Indecisive, Cowardly, Impulsive
-- **Contradictory Traits:** Altruistic, Compassionate, Kind
-- **Aligned Patrons:** Calicante, Erondil, Cattalm, Krondal, Tàhil
+- **Recommended Traits:** Ambitious, Uncompromising, Arrogant, Vain, Stubborn
+- **Contradictory Traits:** Indecisive, Cowardly, Dissolute, Impulsive
+- **Aligned Patrons:** Calicante, Erondil, Cattalm, Krondal, Tàhil, Orlaith
 
-## The Creator
-The innovative builder who brings new things into existence.
+\archetipotitle{The Creator}
+The innovator driven by imagination, striving to bring something new and lasting into existence.
 
-- **Recommended Traits:** Curious, Enthusiastic, Ambitious, Patient
-- **Discouraged Traits:** Indecisive, Cowardly, Cynical
-- **Contradictory Traits:** Dissolute, Uncompromising, Vindictive
-- **Aligned Patrons:** Erondil, Efrem, Nethergal, Rezh
+- **Recommended Traits:** Curious, Enthusiastic, Stubborn, Impulsive
+- **Contradictory Traits:** Cynical, Avaricious, Cowardly, Uncompromising
+- **Aligned Patrons:** Efrem, Erondil, Nethergal, Rezh
 
-## The Caregiver
+\archetipotitle{The Caregiver}
 The nurturing protector who cares for and defends others.
 
 - **Recommended Traits:** Compassionate, Altruistic, Kind, Patient
-- **Discouraged Traits:** Cruel, Greedy, Vindictive
-- **Contradictory Traits:** Arrogant, Dishonest, Dissolute
-- **Aligned Patrons:** Ljust, Ledyal, Atherim, Belevon, Sumkjr
+- **Contradictory Traits:** Cruel, Avaricious, Arrogant, Cynical
+- **Aligned Patrons:** Ljust, Ledyal, Atherim, Belevon, Sumkjr, Gaya, Thaft
 
-## The Magician
-The transformer who harnesses special knowledge to alter reality.
+\archetipotitle{The Magician}
+The transformer who seeks to understand fundamental laws and create meaningful transformation.
 
-- **Recommended Traits:** Curious, Ambitious, Arrogant, Uncompromising
-- **Discouraged Traits:** Cowardly, Indecisive, Impulsive
-- **Contradictory Traits:** Altruistic, Compassionate, Loyal
-- **Aligned Patrons:** Erondil, Orudjs, Nethergal, Krondal, Atmos
+- **Recommended Traits:** Curious, Ambitious, Patient, Cautious
+- **Contradictory Traits:** Indecisive, Impulsive, Dissolute, Cowardly
+- **Aligned Patrons:** Nethergal, Krondal, Atmos, Erondil
 
-## The Outlaw
-The rebel who challenges established norms and fights against constraints.
+\archetipotitle{The Outlaw}
+The rebel character who defies established norms and fights against constraints.
 
-- **Recommended Traits:** Courageous, Impulsive, Arrogant, Vindictive
-- **Discouraged Traits:** Cautious, Patient, Loyal
-- **Contradictory Traits:** Altruistic, Compassionate, Kind
-- **Aligned Patrons:** Lynx, Tàhil, Gradh, Orlaith, Calicante
+- **Recommended Traits:** Courageous, Stubborn, Impulsive, Uncompromising
+- **Contradictory Traits:** Cautious, Patient, Kind, Indecisive
+- **Aligned Patrons:** Lynx, Tàhil, Gradh, Orlaith, Calicante, Laydel
 
-## The Lover
-The passionate seeker of connection, intimacy, and sensual pleasure.
+\archetipotitle{The Lover}
+The passionate character who seeks deep connection, intimacy, and meaningful relationships.
 
-- **Recommended Traits:** Compassionate, Enthusiastic, Impulsive, Dissolute
-- **Discouraged Traits:** Suspicious, Cynical, Arrogant
-- **Contradictory Traits:** Cautious, Uncompromising, Greedy
-- **Aligned Patrons:** Shayalia, Ledyal, Orudjs
+- **Recommended Traits:** Compassionate, Enthusiastic, Impulsive, Dissolute, Vain
+- **Contradictory Traits:** Cynical, Cold, Cruel, Avaricious
+- **Aligned Patrons:** Ledyal, Shayalia, Orudjs
 
-## The Jester
-The playful entertainer who brings joy and levity to difficult situations.
+\archetipotitle{The Jester}
+The character who lives in the moment and uses humor and levity to illuminate truths.
 
-- **Recommended Traits:** Enthusiastic, Extroverted, Impulsive, Curious
-- **Discouraged Traits:** Cautious, Suspicious, Uncompromising
-- **Contradictory Traits:** Cruel, Vindictive, Arrogant
-- **Aligned Patrons:** Nethergal, Sumkjr, Ledyal
+- **Recommended Traits:** Enthusiastic, Impulsive, Curious, Extroverted
+- **Contradictory Traits:** Patient, Cautious, Uncompromising, Cynical
+- **Aligned Patrons:** Ledyal, Nihar, Nethergal, Sumkjr
 
-## The Everyman
-The relatable, ordinary person seeking belonging and connection.
+\archetipotitle{The Everyman}
+The regular character who represents ordinary people and seeks connection, belonging, and community.
 
-- **Recommended Traits:** Loyal, Kind, Cautious, Indecisive
-- **Discouraged Traits:** Arrogant, Ambitious, Dissolute
-- **Contradictory Traits:** Cruel, Vindictive, Dishonest
-- **Aligned Patrons:** Efrem, Thaft, Atmos
+- **Recommended Traits:** Loyal, Kind, Patient, Cautious
+- **Contradictory Traits:** Arrogant, Ambitious, Cruel, Dissolute
+- **Aligned Patrons:** Thaft, Efrem, Atmos
 
-## The Explorer
-The adventurer who seeks new experiences and discoveries.
+\archetipotitle{The Explorer}
+The wanderer driven by a desire for discovery, freedom, and new experiences.
 
-- **Recommended Traits:** Curious, Courageous, Impulsive, Enthusiastic
-- **Discouraged Traits:** Cautious, Indecisive, Suspicious
-- **Contradictory Traits:** Cowardly, Cynical, Greedy
-- **Aligned Patrons:** Nihar, Nedraf, Ledyal, Sumkjr
+- **Recommended Traits:** Curious, Courageous, Enthusiastic, Extroverted
+- **Contradictory Traits:** Cautious, Patient, Indecisive, Avaricious
+- **Aligned Patrons:** Lynx, Nedraf, Nihar, Sumkjr, Ledyal
 
-## The Martyr
-The self-sacrificing individual who gives everything for a cause or others.
+\archetipotitle{The Martyr}
+The character who sacrifices themselves and gives everything for a cause or for others.
 
-- **Recommended Traits:** Altruistic, Courageous, Uncompromising, Stubborn
-- **Discouraged Traits:** Arrogant, Greedy, Ambitious
-- **Contradictory Traits:** Cynical, Cruel, Dishonest
-- **Aligned Patrons:** Ljust, Sumkjr, Atherim, Lynx
+- **Recommended Traits:** Altruistic, Compassionate, Loyal, Stubborn
+- **Contradictory Traits:** Avaricious, Cowardly, Cruel, Ambitious
+- **Aligned Patrons:** Ljust, Sumkjr, Atherim, Lynx, Nedraf
 
-## The Tyrant
-The controlling oppressor who rules through fear and dominance.
+\archetipotitle{The Tyrant}
+The authoritarian leader who rules through fear, oppression, and absolute control.
 
-- **Recommended Traits:** Cruel, Arrogant, Vindictive, Greedy
-- **Discouraged Traits:** Compassionate, Altruistic, Kind
-- **Contradictory Traits:** Indecisive, Cowardly, Loyal
-- **Aligned Patrons:** Calicante, Tàhil, Tazher, Torbiorn, Rezh
+- **Recommended Traits:** Cruel, Arrogant, Ambitious, Uncompromising
+- **Contradictory Traits:** Compassionate, Altruistic, Kind, Patient
+- **Aligned Patrons:** Torbiorn, Cattalm, Calicante, Rezh, Tàhil, Tazher
 
-## The Hermit
-The solitary seeker who withdraws from society to find inner truth.
+\archetipotitle{The Hermit}
+The seeker of truth who withdraws from society to pursue deeper knowledge and understanding.
 
-- **Recommended Traits:** Cautious, Patient, Uncompromising, Suspicious
-- **Discouraged Traits:** Extroverted, Impulsive, Enthusiastic
-- **Contradictory Traits:** Dissolute, Arrogant, Greedy
-- **Aligned Patrons:** Atmos, Sixiser, Efrem
+- **Recommended Traits:** Patient, Cautious, Curious, Indecisive
+- **Contradictory Traits:** Extroverted, Enthusiastic, Impulsive, Dissolute
+- **Aligned Patrons:** Sixiser, Atmos, Efrem
 
 ## Archetypal Cycles and Character Development
 
-Characters rarely embody a single archetype throughout their entire journey. Rather, they may evolve through a series of archetypes as they grow and develop. Below are some common archetypal progressions that can serve as templates for character development:
+Characters rarely embody a single archetype throughout their entire journey. Rather, they may evolve across a series of archetypes as they grow and mature. Below are several common archetypal progressions that can serve as blueprints for character development:
 
-- **The Hero' \*\*s Journey:** Innocent > Explorer > Hero > Sage > Ruler
-- **The Fall and Redemption:** Innocent > Outlaw > Shadow > Martyr > Hero
-- **The Corruption Arc:** Ally > Shapeshifter > Shadow > Tyrant
-- **The Wisdom Path:** Explorer > Threshold Guardian > Hermit > Sage > Mentor
-- **The Leadership Evolution:** Ally > Hero > Mentor > Ruler
-- **The Spiritual Awakening:** Everyman > Threshold Guardian > Hermit > Magician > Creator
+- **The Hero' \*\*s Journey:** Innocent $>$ Explorer $>$ Hero $>$ Sage $>$ Ruler
+- **Fall and Redemption:** Innocent $>$ Outlaw $>$ Shadow $>$ Martyr $>$ Hero
+- **The Arc of Corruption:** Ally $>$ Shapeshifter $>$ Shadow $>$ Tyrant
+- **The Path of Wisdom:** Explorer $>$ Threshold Guardian $>$ Hermit $>$ Sage $>$ Mentor
+- **The Evolution of Leadership:** Ally $>$ Hero $>$ Mentor $>$ Ruler
+- **Spiritual Awakening:** Orphan/Everyman $>$ Threshold Guardian $>$ Hermit $>$ Magician $>$ Creator
 
-Each transition between archetypes represents a significant character development moment, often accompanied by the gaining or losing of specific Traits and potentially a shift in Patron affinity. Game Masters and players can use these archetypal cycles to plan meaningful character arcs.
+Each transition between archetypes represents a significant milestone in character development, often accompanied by gaining or shedding specific Traits and potentially shifting affinity with Patrons. Game Masters and players can utilize these archetypal cycles to map out compelling, meaningful character arcs.
 
 ## Patron Affinities and Archetypal Resonances
 
-Some Patrons naturally embody or resonate with specific archetypes more strongly than others. These connections can inform both character development and storytelling:
+Some Patrons naturally embody or resonate with specific archetypes more strongly:
 
-| **Patron** | **Archetypal Resonances** |
+\begin{multicoltab}
+
+| \mchead[][]{**Patron** | **Archetypal Resonances**} |
 | --- | --- |
-| Ljust | The Hero, The Caregiver, The Martyr, The Mentor |
-| Calicante | The Shadow, The Tyrant, The Shapeshifter, The Ruler |
-| Atmos | The Sage, The Hermit, The Threshold Guardian |
-| Lynx | The Explorer, The Outlaw, The Hero |
-| Gradh | The Hero, The Ally, The Ruler, The Outlaw |
-| Atherim | The Caregiver, The Threshold Guardian, The Martyr |
-| Belevon | The Trickster, The Jester, The Shapeshifter |
-| Cattalm | The Shadow, The Tyrant, The Ruler |
-| Efrem | The Everyman, The Creator, The Hermit |
-| Erondil | The Creator, The Magician, The Ruler |
-| Gaya | The Creator, The Innocent, The Caregiver |
-| Krondal | The Ruler, The Threshold Guardian, The Magician |
-| Ledyal | The Caregiver, The Innocent, The Lover |
-| Laydel | The Shadow, The Shapeshifter, The Outlaw |
-| Nethergal | The Herald, The Explorer, The Magician |
-| Nedraf | The Hero, The Explorer, The Ally |
-| Nihar | The Jester, The Explorer, The Trickster |
+| Ljust | The Hero, The Mentor, The Ally, The Caregiver, The Martyr |
+| Calicante | The Shapeshifter, The Shadow, The Ruler, The Outlaw, The Tyrant |
+| Atmos | The Mentor, The Threshold Guardian, The Sage, The Magician, The Everyman, The Hermit |
+| Lynx | The Hero, The Herald, The Outlaw, The Martyr |
+| Gradh | The Hero, The Ally, The Outlaw |
+| Atherim | The Threshold Guardian, The Ally, The Innocent, The Caregiver, The Martyr |
+| Belevon | The Shapeshifter, The Caregiver |
+| Cattalm | The Shadow, The Ruler |
+| Efrem | The Hero, The Threshold Guardian, The Creator, The Everyman, The Hermit |
+| Erondil | The Ruler, The Creator, The Magician |
+| Gaya | The Innocent, The Caregiver |
+| Krondal | The Threshold Guardian, The Ruler, The Magician |
+| Ledyal | The Mentor, The Trickster, The Innocent, The Caregiver, The Lover, The Jester, The Explorer |
+| Laydel | The Shapeshifter, The Shadow, The Outlaw |
+| Nethergal | The Herald, The Sage, The Creator, The Magician, The Jester |
+| Nedraf | The Herald, The Explorer, The Martyr |
+| Nihar | The Explorer |
 | Orudjs | The Shapeshifter, The Trickster, The Lover |
-| Orlaith | The Threshold Guardian, The Ruler, The Hero |
-| Rezh | The Tyrant, The Shadow, The Shapeshifter |
-| Shayalia | The Shadow, The Lover, The Shapeshifter |
+| Orlaith | The Hero, The Ruler, The Outlaw |
+| Rezh | The Shadow, The Creator, The Tyrant |
+| Shayalia | The Mentor, The Shadow, The Lover |
+| Sixiser | The Threshold Guardian, The Sage, The Hermit |
+| Sumkjr | The Hero, The Herald, The Ally, The Innocent, The Caregiver, The Jester, The Explorer, The Martyr |
+| Tàhil | The Shapeshifter, The Shadow, The Ruler, The Outlaw, The Tyrant |
+| Tazher | The Shapeshifter, The Shadow, The Tyrant |
+| Thaft | The Mentor, The Ally, The Caregiver, The Everyman |
+| Torbiorn | The Shapeshifter, The Shadow, The Tyrant |
 
-| Sixiser | The Hermit, The Sage, The Shadow |
-| Sumkjr | The Hero, The Ally, The Mentor, The Martyr |
-| Tàhil | The Shadow, The Tyrant, The Outlaw |
-| Tazher | The Shadow, The Outlaw, The Shapeshifter |
-| Thaft | The Everyman, The Ally, The Caregiver |
-| Torbiorn | The Tyrant, The Shadow, The Ruler |
+\end{multicoltab}
 
-## Using Archetypes in Game
+## Using Archetypes in Play
 
 ## For Players
 
-- Use archetypes as a starting point for character creation, selecting Traits that align with your chosen archetype
-- Consider your character' \*\*s potential archetypal journey - how might they evolve over time?
-- Look to your archetype' \*\*s aligned Patrons when considering spiritual affiliations
-- Use contrasting archetypes within your party to create interesting inter-character dynamics
+- Choose an archetype that resonates with your character concept as a starting point
+- Use the recommended Traits to guide your initial Trait selections
+- Consider including a contradictory Trait to create internal tension and potential for growth
+- Consider your character' \*\*s potential archetypal journey: how might it evolve over time?
+- Look at the aligned Patrons of your archetype to understand possible spiritual affinities, without considering them Patrons to be chosen
+- Use contrasting archetypes within your party to create interesting dynamics between characters
+- Treat the game as a safe space (*magic circle*): for safety and well-being tools, see Safety and well-being at the table (p. )
 
-## For Narrator
+## For the Game Master
 
-- Populate your world with NPCs that embody clear archetypal patterns
-- Design challenges that specifically test characters against their archetypal weaknesses
-- Create villains that serve as dark reflections of the heroes' \*\* archetypes
+- Use character archetypes to design tailored challenges and plot elements
+- Create NPCs who embody complementary or contrasting archetypes
+- Create antagonists who serve as dark reflections of the heroes' \*\* archetypes
 - Use Patron interventions to highlight or challenge a character' \*\*s archetypal nature
 - Design campaign arcs that follow classic archetypal cycles
+- Foster a welcoming, collaborative table climate where exploring character vulnerabilities is engaging and psychologically safe
 
->>> **Narratore**: This archetypal system provides another layer of depth to character creation and development, bridging psychological theory with the game' \*\*s existing systems of Traits and Patrons. By understanding these archetypal patterns, players and Game Master can create more coherent, psychologically consistent characters and stories.
-
-**Rather than restricting creativity, these archetypes serve as useful frameworks and guidelines that can be embraced, subverted, or transformed throughout a character' \*\*s journey**. The integration of Traits and Patron affinities with archetypal patterns creates a rich tapestry of possibilities for character development and storytelling.
+For tools regarding table safety and well-being (traffic light, check-in, fade to black, *bleed*, *de-rolling*), see Safety and well-being at the table (p. ).
 
 ---
 
@@ -1535,11 +1524,9 @@ To create a character, try to answer these questions; they can help you imagine 
 
 - What are the character' \*\*s three main flaws and three main virtues?
 
-Did they grow up in a family, in a clan, as a wanderer, on the streets... what brought them and what choices did they make to get to where they are now?
+Did they grow up in a family, in a clan, as a wanderer, or on the street… What brought them here and what choices did they make? What is their fighting style and typical strategy? Magic, sword, from the backline… cheering allies… running away…
 
-What is their combat style and typical strategy? Magic, sword, from the rear, encouraging companions, running away...
-
-And, no less importantly, what is their purpose? What made them leave the security of a normal life and embark on that of an adventurer?
+And, no less importantly: what is their purpose? What made them leave the security of a normal life and embark on that of an adventurer?
 
 Always remember that this is a cruel world, full of risks, traps, and monsters, but also opportunities that can make you powerful and very rich.
 
@@ -1615,9 +1602,7 @@ Every time the Game Master confirms your level advancement, several operations m
 As you will have noticed, Proficiency scores are reduced; only a few points are available to distribute at a time.
 As players, you have the opportunity to prefer a specialized approach, that is, to *focus* on a few specific Proficiencies, or to dilute the points across more proficiencies to know a bit of everything and not have penalties in checks (the check is only done with 2d6 + Ability Score if you don' \*\*t have points in the Proficiency).
 
-A suggestion is also to use Feats, particularly Expert, which gives you a +2 bonus to Proficiency checks.
-
-> The **perceived** power level of characters in OBSS is lower than that of other RPGs. The character' \*\*s weakness is only a perception, and in fact, you will soon realize the character' \*\*s true power. Play as a group and you will survive, because this is a bad, spiteful, and deadly world filled with selfish creatures.
+>> **Power**: A character' \*\*s perceived weakness is only an illusion; you will soon realize their true power. Play as a team and you will survive, for this world is harsh, spiteful, and deadly to **the selfish**.
 
 ## Tips for having fun and surviving in OBSS adventures
 
@@ -1675,17 +1660,17 @@ The Game Master won' \*\*t tell you to make a check at difficulty 10, but will s
 
 **Table: Difficulty Class**
 
-| **Diff.** | **Description** | **Level** |
+| **Diff.** | **Description** | **Proficiency** |
 | --- | --- | --- |
-| **DC** | **difficulty** | **Proficiency** |
-| 5 | Extremely easy | None |
-| 10 | Easy | Poor |
-| 15 | Normal | Normal |
+| **DC** | **Difficulty** | **Level** |
+| 6 | Trivial | None |
+| 10 | Simple | Poor |
+| 15 | Challenging for a competent character | Normal |
 | 20 | Difficult | Good |
 | 25 | Very difficult | Excellent |
 | 30 | Heroic | Outstanding |
-| 35 | Almost impossible | Amazing |
-| 40 | Impossible | Epic |
+| 35 | Near desperate | Amazing |
+| 40 | Epic | Epic |
 
 If you need to make a check on an Ability Score, you must roll 3d6 and add the Ability Score and other modifiers. Communicate this result to the Game Master who will compare it with the difficulty (DC).
 
@@ -4517,9 +4502,9 @@ The **first time** you take this Feat, you must choose one *favorite* and three 
 
 On the *favored* list, the casting cost of spells decreases by 1, maintaining a minimum cost of 1. For the 3 *opposite* Spell Lists, the casting cost of spells increases by 1.
 
-The **second time** you take this Feat, Requirement: Magic Proficiency 6, on the *favored* Spell List, Magic Checks are made with an additional +4, and you can discard 1 die from the list.
+The **second time** you take this Feat, Requirement: Magic Proficiency 6, on the *favored* Spell List, Magic Checks are made with an additional +2, and you can discard 1 die from the list.
 
-The **third time** you take this Feat, Requirement: Magic Proficiency 11, on the *favored* Spell List, when you make a Magic Check, you count +8 more than the number rolled.
+The **third time** you take this Feat, Requirement: Magic Proficiency 11, on the *favored* Spell List, when you make a Magic Check, you count +4 more than the number rolled.
 
 The **fourth time** you take this Feat, Requirement: Magic Proficiency 14, on the *favored* Spell List, you can reroll the Magic Check once on a critical failure.
 
@@ -5511,15 +5496,15 @@ Power without wisdom is the most dangerous of combinations. (Elric di Melnibonè
 | **WP 2:** Reach, Weapon Artist, Two Weapon Fighting (Dexterity 2, Strength 1), Daredevil (Dexterity 1), Ready Defense, Infuriate (Charisma or Strength 2), Arrow Called Arrow Delivered, Iaijutsu, Opportunist, Perfectionist, Rapid Shot (Dexterity 3, Precise Shot), One Arm One Weapon |
 | **WP 3:** Sneak Attack, Quick, Clinical Eye, Hawk Eye, Parry, Shoot and Scoot (Crossbow list 3), Stay Down! |
 | **WP 4:** Double Portion (Two Weapon Fighting), I said FALL!, Blockhead (Crossbow list 4), One with the Bow, Ferocity (2), Perfectionist (2), Uncanny Dodge (2) |
-| **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2) |
-| **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Second Skin (2), Tactician (2, Intelligence 2) |
+| **WP 5:** Deadly Strike, Forged in Fury, This is my Weapon! (2), Trap Dodging (2), Weapon Artist (2), One Arm One Weapon (2) |
+| **WP 6:** Coordinated Damage (Wisdom 2), Quick (2), Press On (2), Armed (2), Sneak Attack (2), My Skin (2), Iaijutsu (2), Parry (2), Tough Hide (2), Second Skin (2), Tactician (2, Intelligence 2) |
 | **WP 7:** Ferocity (3), One with the Bow (2, Dexterity 3) |
 | **WP 8:** Coordinated Damage (2, Intelligence 2), Uncanny Dodge (3, Dexterity 4) |
-| **WP 9:** Parry (3), Weapon Artist (2), One Arm One Weapon (2) |
+| **WP 9:** Parry (3), Weapon Artist (3), One Arm One Weapon (3) |
 | **WP 10:** Sneak Attack (3), Bloodhound (2, Wisdom 2) |
 | **WP 11:** Ferocity (4), Second Skin (3) |
 | **WP 12:** Whirlwind Attack (Entertain 3), Debilitating Strike (Sneak Attack 3), Two Weapon Fighting (2, Dexterity 3), Sneak Attack (4), Iaijutsu (3), Tough Hide (3, Constitution 3) |
-| **WP 13:** Weapon Artist (3), One Arm One Weapon (3) |
+| **WP 13:** Weapon Artist (4), One Arm One Weapon (4) |
 | **WP 15:** Whirlwind Attack (2, Entertain 5) |
 | **WP 16:** Bloodhound (3, Wisdom 3), Tough Hide (4) |
 | **WP 18:** Paralyzing Strike (Debilitating Strike, Sneak Attack 4), Two Weapon Fighting (3) |
@@ -6519,11 +6504,13 @@ If the spellcaster is **Distracted**, tries to hide the casting of magic, is imp
 
 Casting a spell is not always sufficient; many times it is necessary for it to work well and indeed act beyond normal expectations. The spellcaster can decide to channel more energy into the spell casting, namely perform a Magic Check and rely on their abilities.
 
-The spellcaster rolls 3d6 + 1d6 for every three points of Magic Proficiency + spell characteristic modifier plus any bonuses, Abilities, or penalty from having suffered critical rolls.
+The spellcaster rolls **3d6 + 1d4 for every three points of Magic Proficiency + spell ability modifier** plus any bonuses, Abilities, or penalties (armor, shields, criticals suffered). The number of additional d4s is equal to Magic Proficiency divided by 3, rounded down: for example, with MP 6, roll 3d6+2d4. The d6s follow the Explosion of 6; the d4s do not explode.
 
 The spellcaster can reroll one rolled die in the Magic Check for every two times they have taken Magic Adept. This is to avoid the possibility of rolling three 1s.
 
-The Magic Check is considered passed if the roll is higher than 10 + Spell Level*2 + penalty (due to armor/shield, critical suffered). Any Magic Criticals or Magic Failures are compared to this value.. In case of  Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
+After any rerolls granted by Magic Adept, if the first three dice of the Magic Check show 1, the check is an automatic **Magical Critical Failure**, regardless of the total obtained.
+
+The Magic Check is considered passed if the roll is **equal to or higher than** 10 + twice the Spell Level + any penalty. Any Magical Critical Successes or Magical Critical Failures are compared to this value.. In case of a Magical Critical Success, the spell cost decreases by 1 with a minimum cost of 1.
 
 Maximum number of Magical Critical Success per spell is 3.
 
@@ -6547,7 +6534,7 @@ A spellcaster can also **voluntarily fail the Magic Check**.
 
 ## Critical Failure in the Magic Check
 
-If the Magic Check has had at least one Magic Critical Failure (three 1 or very low value rolled), roll 3d6 and consult the following table. For each Magic Critical Failure beyond the first that has manifested in the casting of the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
+If the Magic Check has had at least one Magical Critical Failure, including three 1s on the first three dice, or has rolled a very low value, roll 3d6 and consult the following table. For each Magical Critical Failure beyond the first that manifested in casting the spell and for each Critical Hit suffered, roll one less d6, down to rolling a single d6.
 
 **Table: Magic Critical Failure Effects**
 
@@ -13225,140 +13212,157 @@ Your Survival checks have a +2d6 bonus. The first hit against an opponent automa
 
 # Cosmology
 
-> It is easier to rule over those who believe in nothing (The Neverending Story, Kmorf)
+> It' \*\*s easier to dominate those who believe in nothing (The Neverending Story, Gmork)
 
-You believe that there is one God? You do well; even the demons believe and tremble! (James The Just 2, 19)
+You believe that there is one God. Good! Even the demons believe that—and shudder! (James the Just 2:19)
 
->>> **Patrons**: In OBSS deities are different from traditional gods in roleplaying games.
+>>> **The Patrons**: In OBSS, deities are different from traditional gods in roleplaying games.
 
-The deities, the Patrons, love to get their hands dirty, to participate in the affairs of the creatures who worship them, for them it is a continuous challenge to have more believers, adepts, and people more similar, in Traits, to them.
+The deities, the Patrons, love getting their hands dirty, involving themselves in the affairs of the creatures who worship them; for them it is a constant contest to gain more believers, acolytes, and mortals who resemble them in their Traits.
 
-The Patrons were created as a \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the human soul, where everything is an excess. Like spirits released from Pandora' \*\*s box, they have the sole purpose of bringing their Traits to dominance, making them the most common and present among creatures, especially among the most powerful.
+The Patrons were created as a \hrefhttps://www.merriam-webster.com/dictionary/paroxysmparoxysm of the mortal spirit, where everything is an excess. Like spirits freed from Pandora' \*\*s box, their sole purpose is to drive their Traits toward total dominion, making them the most common and pervasive among all creatures, especially the most powerful.
 
-In the beginning was the void which contained everything within itself.
+In the beginning was nothingness, which contained everything within itself.
 
-The Energy of the Patrons of Genesis, derived from the most primordial impulses, exploded in all its power without any control.
+The Energy of the Patrons of Genesis, springing from the most primordial urges, exploded in all its power without restraint.
 
 Manifested as two tongues of a single flame, Ljust and Calicante are the infinite source of infinite energy.
 
 Ljust is positive energy, warmth, light, life, and syntropy; Calicante is negative energy, icy hatred, destruction, death, and entropy.
 
-**Ljust**  is the representation of what light and life always bring with them. It represents the purity of the feeling of love, the protection of life, respect for others, curiosity for the new, the desire to always improve oneself, the strength to fight with courage and valor for the common good. It is the vital push towards change, the chaos that evolves but does not destroy.
+**Ljust** is the embodiment of all that light and life bring forth. She represents the purity of love, the protection of life, respect for others, curiosity for the new, the unyielding desire to improve, and the strength to fight courageously for the common good. She is the vital surge of change, the chaos that evolves without destroying.
 
-**Calicante** is the representation of darkness, hatred, anger, and violence. Calicante is vengeance and cold destruction; there is no interest in any form of life but rather uses them, exploits them, and only in certain cases suffers their presence. It sadistically loves suffering. It is the entropy that annihilates and obliterates and finds pleasure in doing so.
+**Calicante** is the representation of darkness, hatred, rage, and violence. Calicante is vengeance and cold destruction; he holds no care for any living form, but rather uses them, exploits them, and only occasionally tolerates their existence. He takes sadistic delight in suffering. He is the entropy that annihilates and finds pleasure in doing so.
 
-**Atmos**  is the witness, the one who marks the passage of time and transcribes every event on Earth and among the Patrons of Genesis. An entity born from creation to prevent absolute destruction, Atmos watches over and transcribes what the Patrons of Genesis do, the deities that generated creation.
+**Atmos** is the witness, he who marks the passage of time and transcribes every deed on Earth and among the Patrons of Genesis. An entity born of creation to forestall absolute destruction. He watches over and records the works of the Genesis Patrons, the deities who brought forth creation.
 
-A fourth being was present, whose name has never reached us, but whom we know as *Omniessence*, the firstborn of the Patrons of Genesis.
+A fourth being was present, whose true name never reached us, but whom we know as the *Omniessence*, the firstborn of the Genesis Patrons.
 
-The Firstborn of the Patrons of Genesis, exploring the universe, arrived on Earth and here, no one knows how, was captured by the Freten.
-Captured, torn to pieces, connected to machines to draw from his eternal energy. No one knows how it was possible and it remains one of the greatest unsolved mysteries.
+The Firstborn of the Genesis Patrons, wandering inquisitively throughout the cosmos, arrived on Earth and was captured, by means still unknown, by the Freten Corporation.
+Captured, torn to pieces, and wired into machines to siphon his eternal energy. How this was achieved remains one of history' \*\*s deepest unsolved mysteries.
 
-When the first Frenten reactor was connected, a *fracture* opened and it was then that the Patrons of Genesis discovered what had happened, and the anger of Calicante was immense and total.
+When Freten' \*\*s first reactor went online, a *breach* tore open; thus the Genesis Patrons discovered what had occurred, and Calicante' \*\*s wrath was boundless and absolute.
 
-His will and fury were so overwhelming that Ljust could not intervene immediately, could not prevent the indiscriminate death of innocents and the near destruction of an entire world.
+His will and fury were so overwhelming that Ljust could not intervene in time, unable to halt the indiscriminate slaughter of innocents and the near destruction of an entire world.
 
-What happened in that year can still be seen in the rubble and destruction left on Earth.
+What took place during that fateful year can still be seen in the ruins and desolation covering the face of the Earth.
 
-Ljust finally managed to appease, with supreme sacrifice, Calicante, who recalled his manifestations.
+Ljust finally succeeded, through supreme sacrifice, in placating Calicante, who recalled his destructive manifestations.
 
-The death of the first Patron had created numerous tears, fractures, in reality, Portals that opened to other worlds, other universes. Portals that continued to open and close, constantly changing position. In each of these Portals was a bit of their son.
+The death of the first Patron tore open countless rifts and fractures in reality—Portals leading to other worlds and foreign planes. Portals that opened and closed continuously, shifting location without warning. In each of these Portals lingered a fragment of their slain child.
 
-Ljust and Calicante decided to make this world of ours, Earth, their playground and here they decided to entertain their future offspring, the Patrons.
+Yet the dismemberment of the Omniessence did not scatter only raw energy through the breaches: the consciousness and spirit of the Firstborn shattered into twenty-six primordial fragments, which fell like invisible dust across all of the Earth, taking deep root in the souls of mortal creatures. Thus were born the **26 Traits**: sparks of the original divine essence harbored within the hearts of the living. When a mortal manifests, cultivates, and elevates one of these Traits, their soul begins to resonate at the exact metaphysical frequency of the divine fragment they carry within, inevitably drawing the attention, resonance, and craving of the kindred Patron.
 
-They decided by mutual agreement to generate a Patron who would oversee these Portals. They created a Patron who was capable of perceiving, opening, and blocking them. Thus was created **Lynx**, the Guardian of Portals.
+Ljust and Calicante chose to turn our world, Earth, into their cosmic playground, where they would entertain their future divine offspring, the Patrons.
 
-Lynx  oversees the cosmic void and access to the Planes, as well as the portals that, through the alternation of chaos and order, good and evil, and light and darkness, are increasingly creating fractures at the boundary between Earth and Beyond.
+By mutual agreement, they begot a Patron to oversee these breaches: an entity capable of perceiving, opening, and sealing them. Thus was created **Lynx**, the Guardian of Portals.
 
-Lynx perceives them, feels them, knows where they are being generated or extinguishing, over time in fact some of these Portals have become stable and definitive, others continue to be generated randomly and always in a totally unknown way remain active or exhaust themselves. Traveling continuously in the non-place, Lynx closes the largest portals, but for one that he closes another opens. Lynx has deprived the Magic Lists of many of the spells that act on the planes, to protect Earth and future Patrons from external threats.
+Lynx watches over the cosmic void, planar pathways, and the portals that—fueled by the perpetual clash of chaos and order, light and dark—fracture the boundary between Earth and the Beyond.
 
-Lynx is the guardian and jailer of all Earth.
+Lynx senses them, tracks their appearance and fading, and traverses the non-space to seal the most dangerous breaches, though for every portal closed, another tears open. Lynx stripped the Magic Lists of planar travel spells to shield Earth and the younger Patrons from outer horrors.
 
-Atmos, concerned for the balance on Earth, channeled the primordial and divine energies of the Patrons of Genesis to create a Patron who could rival and keep at bay the other future Patrons.
+Lynx is both guardian and jailer of the world.
 
-The first created by Atmos, with the help of Ljust, and the intervention of Calicante, was **Gradh**, Patron of Humanity (and all sentient races), the one who would defend Earth from external creatures and from other Patrons. Gradh embodies within himself the dualism of the two Patrons of Genesis, the innate instinct for protection, defense, and care typical of Ljust and the instinct for vengeance, violence, and fury of Calicante.
+Atmos, anxious for the balance of Earth, channeled the primordial energies of the Genesis Patrons to forge a power capable of checking future deities.
 
-He throws himself courageously into battles, attacks the enemy without fear, protects the weaker, defends life but is not afraid to travel the path of the most destructive vengeance against those who exploit and destroy lives without reason. Gradh loves to mingle among people and live with them, like them. He doesn' \*\*t feel completely at ease in the pantheon with the other Patrons nor among common people, he is Human among Patrons and Patron among Humans. Passionate and gentle, he is the Patron who most cares about the fate of our planet and its creatures. Gradh is the Patron who protects us from the Patrons, perhaps the only true son of Earth and the Patrons of Genesis.
+The first created by Atmos, with Ljust' \*\*s aid and Calicante' \*\*s contribution, was **Gradh**, Patron of Humanity (and all thinking races), sworn to defend mortals against foreign horrors and overbearing Patrons. Gradh reconciles within himself the genesis dualism: Ljust' \*\*s instinct to heal, guard, and nurture, and Calicante' \*\*s relentless thirst for vengeance and battle.
 
-The tongues of divine energies were too intense, chaotic, and pure for Atmos to govern them alone to shape the Patrons. Using the raw power of the Patrons of Genesis, he created other Patrons, the second coming, each influenced differently by Calicante or Ljust. These Patrons turned out to be less perfect and divine than his intentions, more imperfect and *human* as they originated from the emotions, uncontrollable and pure, of the Patrons of Genesis. These new Patrons shape wills, found kingdoms, command in the shadows the pawns who dare to ask for their favors.
+He charges headlong into combat, protects the weak, and defends life, yet hesitates not to unleash devastating fury against tyrants who torment innocents. Gradh mingles freely among ordinary folk, feeling out of place both in divine courts and among common mortals—Human among Patrons, Patron among Humans. He is the guardian who protects us from the gods, the true child of Earth and the Genesis Patrons.
 
-In this apparent calm, the Patrons perpetuate their interests, to become the strongest, the most important, those who have the most followers. The purpose is one only: to have as many people as possible following their Traits.
+The tongues of divine power were too raw and chaotic for Atmos to master alone. Drawing upon the unrefined essence of the Genesis Patrons, he fashioned other entities—the Second Coming—each carrying varying reflections of Ljust and Calicante. These Patrons proved less transcendent and more *human*, born of raw emotion. They whisper to rulers, establish faiths, and maneuver mortal pawns who petition their favor.
 
-If a Patron acts in person or indiscriminately, he knows that he will trigger the reaction of Gradh or the intervention of Atmos, who will prevent him from an uncontrolled and massive use of his powers directly on Earth, as the very first Patrons did. This rarely stops them, and the same nature and all creatures are often influenced by the will of the Patrons.
+Other spirits traced their origin directly to the First Coming or the cataclysmic wake of the early upheavals: entities shaped by the anguish of the earth, primordial wrath, or ancient forces predating Atmos' \*\*s craftsmanship. Still others arose as direct echoes of the Omniessence' \*\*s death, personifying the harsh realities of survival.
 
-And this is how aberrations, ever-new diseases, cursed lands where nothing can grow, not to mention madnesses that often involve those who should protect citizens, are born more and more often.
-It' \*\*s a hard life for the common man who must continuously face drought or floods, animal deaths, and irregular if not absurd weather, hordes of creatures coming from nowhere who only want to exterminate everyone.
+In this uneasy peace, Patrons pursue a single grand obsession: making their Traits dominant over all others, ensuring as many mortals as possible reflect their nature.
 
-At every step he must look around because he can never know who has sold his soul to a Patron to live one more day.
+Should a Patron intervene directly with catastrophic force, they risk provoking Gradh' \*\*s wrath or Atmos' \*\*s decree. Yet through subtle signs, curses, and mortal champions, their influence permeates nature and civilized lands alike.
 
-Everywhere the strongest enemies are the Dragons, generated and summoned in the first coming by Tàhil, the first servant of Calicante, perhaps the only one of the first Patrons to have remained.
-They make incursions with the sole purpose of bringing destruction and death, sowing fear and horror.
+From this divine friction arise strange mutations, unnatural blights, and cursed lands where nothing grows, while mortal rulers sell their allegiances to deities simply to survive another day.
 
-Many regions are becoming incubators of dark and evil races, legions of undead led by powerful necromancers amass at the borders, Dragons train their corrupted adepts, and dark spires in the sky promise storm.
+## The Judgment of the Hundred Years and the Year of Magical Darkness
 
-How the Freten managed to capture the First Son and subjugate him is still a mystery.
+Every hundred years, the divine balance is weighed: Atmos summons the Patrons to evaluate whose Traits have flourished most across the world. The Patron whose Traits dominate the mortal sphere is granted greater planar authority for the ensuing century.
+
+During the year preceding the Judgment, magical anomalies multiply, divine rivalries intensify, and mortal champions are pushed into decisive conflicts that echo far beyond their personal destinies.
 
 ## Patrons
 
 > Conan: What gods do you pray to?
 
-Subotai: I pray to the four winds and you?
+Subotai: I pray to the four winds... and you?
 
-Conan: I pray to Crom, but rarely... he doesn' \*\*t listen. (Conan the Barbarian, 1982 film)
+Conan: To Crom... but I seldom pray to him, he doesn' \*\*t listen. (Conan the Barbarian, 1982 film)
 
-For as the body without the spirit is dead, so faith without works is dead also. (James The Just 2, 26. NdA Referring to the scores of Traits connected to the Patron...)
+As the body without the spirit is dead, so faith without deeds is dead. (James the Just 2:26. Editor' \*\*s note: Referring to Trait scores linked to the Patron...)
 
-All creatures, even those who do not use magic, can feel the influence of these Powers, of these Patrons.
+All creatures, even those who do not wield magic, feel the subtle pull of these Patrons.
 
-Every character, through their way of being and behaving, has at least one Trait in common with one or more Patrons. According to the dominant Trait, the procedure described in the chapter Traits, and the following table, a single Patron reclaims the character. During adventures, as the character matures and strengthens their Traits, they may feel more strongly the influence and effects of the claiming Patron.
+Relationship with a Patron does not stem from blind worship, but from **spiritual affinity**: the Patron recognizes and **claims** the character according to their dominant Trait (the highest-scored Trait among the initial five). A character does not freely choose their claiming Patron.
 
-It is not necessary to have sworn allegiance to the claiming Patron or to be their Follower or Devotee: the character will still feel their influence and may receive their gifts.
+As characters grow through adventures, deepening their Traits, they feel more keenly the Patron' \*\*s presence and granted gifts.
 
-A Patron is quite happy when creatures follow their dictates and Traits, and grants those who do so small powers as recognition for the loyalty shown to them, willingly or not. The powers indicated under *Traits in Common* are cumulative and refer only to the claiming Patron. Unless otherwise indicated, the powers can be used 1 time per day and cost 2 Actions.
-When a spell is indicated, it is manifested without Magic Checks or penalties due to armor.
+One need not swear formal allegiance, nor be a Follower or Devotee, to receive powers: the bond of kinship exists in one' \*\*s very nature.
 
-Each **Patron favors one or more energy forms**, if you are a Follower you can use that energy in your magic, if you are a Devotee instead your spells will use one of the indicated energy forms. The *Privileged Lists* (page ) are indicated, that is, lists in which the Devotee has usage advantages.
+A Patron rewards mortals whose lives reflect their Traits, granting boons in recognition of this alignment. The powers listed under *Traits in Common* are cumulative and apply solely to the claiming Patron. Unless noted otherwise, each power is usable once per day and costs 2 Actions. When a spell is granted as a Patron power, it manifests without Magic Checks or armor penalties.
 
-The forms of Energy are distinguished between positive, neutral, and negative sources, they serve to better frame your master, pardon, the Patron you serve.
+Each **Patron favors one or more energy forms**: a Follower may channel these energy forms in their spellcasting at base Magic Point cost. A Devotee' \*\*s spells actively manifest using one of the Patron' \*\*s energy forms. Furthermore, each Patron lists *Privileged Lists* (p. ), in which Followers and Devotees gain casting advantages.
 
-Add up the energies, if positive the Patron can be considered good, if zero value the Patron is neutral, if negative value the Patron is evil, for convenience in the list of energy forms it is indicated whether the Patron is **G**ood, **N**eutral or **E**vil.
+Energy forms are categorized as positive, neutral, or negative. Every Patron possesses a metaphysical **Polarity**—positive, neutral, or negative—indicated on their profile. **This is not a simplistic moral judgment**: a neutral Patron can be fiercely protective, and a positive Patron can be terrifyingly demanding.
 
-In the description of the Patron, you will also find his **manifestation**, that is, what happens when a character acts in a particularly and significantly manner consistent with the Traits followed by the Patron. The effect is purely scenic and circumstantial but always leaves anyone who can observe it impressed, usually guarantees a point advancement in a Trait linked to the Patron. It is not necessary to be a Devotee or Follower, it is enough to have followed in a particularly *epic* manner that Trait.
+A neutral Patron is not inherently evil: their power represents balance, synthesis, or cosmic realities (earth, stone, metals, planar void) outside the moral dialectic of Ljust and Calicante. For game effects distinguishing positive and negative energy, a Follower or Devotee of a neutral Patron chooses upon formal allegiance whether to channel positive or negative energy; this choice remains permanent while bound to that Patron.
 
-There is also the indication of the **preferred weapon** of the Patron. There are no advantages in using it, unless you have the specific Feat (page ), the choice is purely personal and left to the devotion of the character.
+A Patron' \*\*s entry details their **Manifestation**: the dramatic visual and sensory phenomenon occurring when a character acts in extraordinary alignment with the Patron' \*\*s Traits. This display is atmospheric and imposing, leaving witnesses in awe, and typically awards an immediate check in a Trait linked to the Patron. One need not be a Devotee; an epic deed honoring the Trait suffices.
 
-Under the indication of the preferred weapon there is the indication of the Rule  that is the behavior that the Devotee must try to respect.
+The entry also notes the Patron' \*\*s **Preferred Weapon**. Wielding it confers no innate bonus unless the character takes the The Patron is my Weapon Feat (p. ); the choice is an expression of personal devotion.
 
-A character may choose to formally adhere to the claiming Patron. With at least **2 distinct Traits** in common, they may choose to be a **Devotee**; with at least **1 Trait** in common, they may choose to be a **Follower**. This choice is voluntary and the two categories are mutually exclusive: a character cannot be both a Follower and a Devotee, nor adhere to two different Patrons. The **Advantage** indicated is only for the Devotee.
+Under the preferred weapon lies the Patron' \*\*s **Rule**: the spiritual taboo and behavioral code that a Devotee strives to uphold. Straying from this path triggers the consequences outlined in the Dissonances Table.
 
->> **Devotees and Followers**: Being Devotees or Followers is your choice, no one imposes it on you. You should feel it as an opportunity for role-playing, as an enrichment of the character and not a constraint. Being Devotees or Followers does not mean being prone to the will of the Patron, on the contrary, it means being even more convinced of your own Traits, of your own personality. **A Patron does not ask for prayers, but asks you to be yourself**.
+A character may formally choose to bind themselves to their claiming Patron. With at least **2 distinct Traits** in common, they may become a **Devotee**; with at least **1 Trait** in common, they may become a **Follower**. Formal adherence is optional and mutually exclusive: one cannot be both Follower and Devotee, nor belong to two Patrons at once. The listed **Advantage** applies solely to Devotees.
 
-The character may refuse formal allegiance and be neither a Follower nor a Devotee. They cannot replace the claiming Patron with another Patron: the metaphysical bond and the powers derived from Traits always refer to the claiming Patron.
+For the Genesis Patrons (**Ljust** and **Calicante**), special rules apply: one can only become their Follower or Devotee with at least **4 distinct Traits in common**, one of which must be the **dominant Trait**.
 
-Acquired abilities linked to common Traits are independent of being a Devotee, Follower, or having no formal allegiance: they represent the gifts of the claiming Patron to those who follow their Traits.
+>> **Devotees and Followers**: Becoming a Devotee or Follower is entirely your choice. It should be embraced as a rich roleplaying opportunity, never as a mechanical straitjacket. Being a Devotee does not mean surrendering your free will; rather, it reflects a character who has found an echo of their deepest ideals in a higher power.
 
-As the sum of common Traits increases, a character may receive several cumulative powers from their claiming Patron. They cannot receive powers as if reclaimed by different Patrons or belong to more than one Patron. 
+### Dissonances and Straying from the Path
 
->>> **Your game your fun**: The Game Master can help interpret how the character' \*\*s Traits are expressed in relation to the claiming Patron, especially when the same Trait has different meanings. However, they cannot turn a different Patron into the claiming Patron, ignore the minimum number of common Traits, or allow dual allegiance. Choosing to be a Follower or Devotee remains the player' \*\*s choice.
+A Devotee accepts the Patron' \*\*s Rule as a sacred compact. A **dissonance** is a significant departure from that code. It is never a mechanical failure on the player' \*\*s part, nor is it purely negative: it often arises from genuine crisis of conscience, moral growth, rebellion, or tragic necessity.
+
+Dissonances do not bind Followers (who have taken no sacred vow), unless the player voluntarily chooses to explore them. They are narrative catalysts designed to dramatize the tension between mortal agency and divine expectation. The Game Master must never use them punitively, but rather to present compelling dramatic crossroads.
+
+**Dissonance Degrees Table**
+
+| **Minor**: Oversight, momentary doubt, impulsive contradiction. Manifests as an ominous sign, an uneasy dream, or divine silence. No mechanical penalty. The player may mark a check in the Trait that guided the choice; the scene remains purely narrative. |
+| --- |
+| **Significant**: Deliberate choice violating the Rule out of conscience, fear, or pressing need. The Patron temporarily withdraws the Devotee Advantage (retaining Trait-based powers) and sends a challenge, vision, or emissary. The character chooses whether to seek atonement, evolve, or accept the breach. |
+| **Profound**: Repeated violations, public defiance, or grave harm inflicted on the Patron' \*\*s core cause. The Patron suspends divine boons and calls forth a Character Crisis. The character may seek reconciliation, alter their Traits (potentially altering their claiming Patron), or formally renounce the bond. This crossroads deepens the story rather than halting it. |
+| **Severance**: Outright renunciation, betrayal of the sacred cause, or cosmic breach. The Patron withdraws completely. The character loses formal standing and may proceed without divine ties or alter their dominant Trait to be claimed anew. This is not a punishment, but a profound transformation. |
+
+**Mechanical Consequences of Severance**: In the event of Severance, the character loses all powers granted by the Patron (including Trait-based tiers) at the following dawn. They retain all mundane capabilities, mundane items, and Feats not tied to the Patron. Until a new Patron claims them, they receive no divine powers; once their Traits evolve and a new Patron claims them, powers resume under normal rules.
+
+**Positive Straying**: A breach can be profoundly heroic: a Devotee of Tàhil sparing an innocent, a Devotee of Orlaith defying a corrupt order, or a Devotee of Sumkjr telling a falsehood to protect a child. The Patron may respond with tests or estrangement, yet the character gains a Trait check in their emergent virtue, potentially drawing the gaze of a more noble deity.
+
+**Coercion and Force Majeure**: Deeds forced upon a character through mental domination, magical compulsion, or overwhelming force majeure do not constitute a dissonance: deities weigh the soul' \*\*s genuine intent.
+
+**Table Safety**: Dissonances remain optional narrative tools. If any divine taboo touches a player' \*\*s personal boundary, it should be rewritten during Session Zero. The Game Master always consults the player before transforming a dramatic moment into a mechanical dissonance, employing the group' \*\*s safety tools described in Safety and well-being at the table (p. ).
 
 **Energy - Elements Table**
 
-	
-
 | **Positive** (+1) | **Neutral** (0) | **Negative** (-1) |
 | --- | --- | --- |
-| Positive En. | Fire | Negative En. |
+| Pos. Energy | Fire | Neg. Energy |
 | Light | Cold | Void |
 | Sound | |
-|  | Electricity | No Patron is completely good or completely evil. As the nature of a man is multifaceted also depending on the occasions, so a Patron may have anomalous positive or negative impulses. Remember that Patrons are Gods but generated from emotions and desires. |
+|  | Electricity | |
+
+No Patron is wholly good or unreservedly wicked. Just as mortal nature is multifaceted and shifts with circumstance, so too can deities display surprising mercy or unexpected wrath.
 
 ### Miracles, Interventions, and Prodigies
 
-In a world where deities are so capricious, fickle, and thirsty for devotees, it is in their interest to prove generous to those who can then spread their Traits.
+In a world where deities are capricious, fickle, and hungry for mortal devotion, they find it advantageous to demonstrate generosity to those who actively propagate their Traits.
 
-A favor asked of a Patron always has a price neither obvious nor predictable. The Game Master must carefully evaluate the character' \*\*s plea and judge if the request is pertinent to the Patron' \*\*s Traits, if positive roll 1d100 and get less than half the highest score of Trait in common with the Patron. Or decide independently according to the course of the adventure.
+A favor requested of a Patron always carries an unexpected price. The Game Master evaluates whether the prayer aligns with the Patron' \*\*s core Traits; if so, roll 1d100 and attempt to roll below half of the lowest Trait score shared with the Patron, or adjudicate organically according to the dramatic flow of the adventure.
 
-### List of Patrons 
+\addcontentsline{toc}{subsection}{List of Patrons}
 
 ### Ljust  
 
@@ -13378,8 +13382,8 @@ Her patience is not passivity, but the stubborn strength of one who continues to
 - **Sum of Traits in common at 10 points**: you gain a +2 to Fortitude Saving Throws
 - **Sum of Traits in common at 15 points**: an armor of light protects you, you gain a +2 to all Saving Throws and Defense, the effect is permanent.
 - **Sum of Traits in common at 20 points**: you can cast the Sunbeam spell. 1 time per day.
-- **Energy/G** (Follower/Devotee): Positive Energy, Light
-- **Advantage** (Devotee): Every time you do a magical Cure, you heal one more Hit Point.
+- **Polarity: Positive**: Positive Energy, Light
+- **Advantage** (Devotee): Every time you cast a magical Cure, you heal one more Hit Point; if the creature is at 0 Hit Points, you heal two more.
 - **Privileged Magic Lists**(Follower/Devotee): Healing, Abjuration
 - **Preferred Weapon**: Bastard Sword
 - **Rule**: Accept the invitation to a dance
@@ -13419,7 +13423,7 @@ His selfishness is Ambitious and Arrogant: Calicante wants everything to belong 
 - **Sum of Traits in common at 10 points**: Your weapon is shrouded in shadow. You gain a +2 to Attack Roll and +1d4 damage from Void for 2d6 rounds, Once a day.
 - **Sum of Traits in common at 15 points**: You create 4 Void darts, each dart does 2d6 damage, hits automatically within 18 meters. Once a day.
 - **Sum of Traits in common at 20 points**: You create a zone of protective energy around you within a 3-meter radius, you halve all damage you receive, it is not possible to recover Hit Points in the area. Duration 10 consecutive minutes, 1 time per day.
-- **Energy/E**: Negative Energy, Void
+- **Polarity: Negative**: Negative Energy, Void
 - **Advantage**: +2 ST against Enchantment List
 - **Privileged Magic Lists**: Fire, Necromancy
 - **Preferred Weapon**: Machete
@@ -13447,12 +13451,12 @@ Atmos observes for a long time before deciding and is often Indecisive when face
 - **Ability Score**: Intelligence or Wisdom
 - **Guide Trait**: Indecisive; **Complementary Traits**: Cautious, Uncompromising, Patient, Vindictive, Curious, Greedy
 - **Manifestation**: the spell develops as if in slow motion, it is only an illusory effect
-- **Sum of Traits in common at 5 points**: You always know the exact date and time.
+- **Sum of Traits in common at 5 points**: You always know the exact date and time. In addition, once per day, by touching an object or a place you can see a brief scene from its recent past (within one week). Cost 2 Actions.
 - **Sum of Traits in common at 10 points**: You have an innate intuition for knowledge. You have +1d6 to Knowledge checks
 - **Sum of Traits in common at 15 points**: You can cast the spell Globe of Invulnerability, once per day.
 - **Sum of Traits in common at 20 points**: Whenever you have to make an Arcana check, you can take 18 as if taking 10
-- **Energy/N**: Sound, Cold
-- **Advantage**: You always know what time it is
+- **Polarity: Neutral**: Sound, Cold
+- **Advantage**: You always know what time it is. You have +2 to Knowledge checks related to history, chronology, and time.
 - **Privileged Magic Lists**: Divination, Abjuration
 - **Preferred Weapon**: Light mace
 - **Rule**: Do not accept or give compensation unless earned
@@ -13477,7 +13481,7 @@ His solitude is a consequence of his role as guardian, not an additional Trait. 
 - **Sum of Traits in common at 10 points**: You can cast Dimension Door once per day
 - **Sum of Traits in common at 15 points**: You can cast the spell Banishment, once per day, DC 30.
 - **Sum of Traits in common at 20 points**: You can teleport for 500km per day (even multiple teleports or teleported subjects as long as the total sum does not exceed 500km)
-- **Energy/N**: Fire, Electricity
+- **Polarity: Neutral**: Fire, Electricity
 - **Advantage**: You are considered one size larger when others try to move or push you
 - **Privileged Magic Lists**: Conjuration, Water
 - **Preferred Weapon**: Short Sword
@@ -13510,7 +13514,7 @@ Gradh is Vain and Arrogant in his certainty that he can defend what he loves, bu
 - **Sum of Traits in common at 10 points**: For 10 consecutive minutes, you have a bonus of +1d6 to Reflex and Fortitude Saving Throws. Once per day.
 - **Sum of Traits in common at 15 points**: You emit an aura that grants all your companions within a 3-meter radius a +2 to Saving Throws. Once per day, for 30 consecutive minutes
 - **Sum of Traits in common at 20 points**: You cast the spell Fireball. The spell causes 60 negative energy damage. DC 25 Reflex to halve. Twice per day
-- **Energy/N**: Positive Energy - Negative Energy
+- **Polarity: Neutral**: Positive Energy - Negative Energy
 - **Advantage**: +2 Awareness
 - **Privileged Magic Lists**: Abjuration, Evocation
 - **Preferred Weapon**: Flanged mace
@@ -13540,8 +13544,8 @@ Atherim is suspicious and does not easily grant access to her secrets, but she i
 - **Sum of Traits in common at 10 points**: You gain 30 temporary Hit Points. Duration 1 hour, once per day, as an Immediate Action.
 - **Sum of Traits in common at 15 points**: You can cast the spell Zone of Truth 3 times per day, with no Saving Throw.
 - **Sum of Traits in common at 20 points**: Any potion you drink has double the duration or effect if immediate.
-- **Energy/B**: Positive Energy, Electricity
-- **Advantage**: Reduce Bleeding by 1 at the end of the round
+- **Polarity: Positive**: Positive Energy, Electricity
+- **Advantage**: Reduce Bleeding by 1 at the end of the round. You have +2 to Saving Throws against effects causing Bleeding.
 - **Privileged Magic Lists**: Enchantment
 - **Preferred Weapon**: Dagger
 - **Rule**: Do not reveal a confided secret
@@ -13570,7 +13574,7 @@ Belevon' \*\*s compassion, patience, and altruism are often a mask: he knows how
 - **Sum of Traits in common at 10 points**: You acquire the ability to cast the spell Major Image once per day.
 - **Sum of Traits in common at 15 points**: You can cast the spell Phantasmal Killer. Once per day
 - **Sum of Traits in common at 20 points**: By touching an object, you learn in broad terms the history of who created it. Once per day. Costs 3 Actions.
-- **Energy/N**: Fire, Sound
+- **Polarity: Neutral**: Fire, Sound
 - **Advantage**: See Lucky Feat
 - **Privileged Magic Lists**: Illusion
 - **Preferred Weapon**: Light spear
@@ -13602,7 +13606,7 @@ Cattalm is in no hurry: he lets calamity mature and chaos do the work for him. H
 - **Sum of Traits in common at 10 points**: Your touch putrefies food (up to 50kg/Encumbrance 10) and water (a cube with a 10m edge). Once per day
 - **Sum of Traits in common at 15 points**: Your gaze blinds with anger. You cast the spell Confusion, but the only possible result is that the targets attack random subjects. DC 25. Once per day
 - **Sum of Traits in common at 20 points**: You cast the spell Cone of Cold 60 damage, but the damage is from Void. DC 25. Once per day
-- **Energy/M**: Negative Energy, Void
+- **Polarity: Negative**: Negative Energy, Void
 - **Advantage**: increases by 10 the HP needed to kill you
 - **Privileged Magic Lists**: Fire
 - **Preferred Weapon**: Battle axe
@@ -13634,7 +13638,7 @@ Efrem is Loyal to nature and Patient in defending it. His Caution may make him I
 - **Sum of Traits in common at 10 points**: You gain a +1d6 to all Survival checks made in a natural environment.
 - **Sum of Traits in common at 15 points**: You can cast the spell Goodberry once per day. Each berry heals 1d6 Hit Points and removes non-magical diseases or poisons.
 - **Sum of Traits in common at 20 points**: Your touch is that of the master. You can tame even magical creatures like Aberrations or Dragons that you touch. Will Saving Throw DC 30. Once per day. Cost 2 Actions
-- **Energy/N**: Electricity, Sound
+- **Polarity: Neutral**: Electricity, Sound
 - **Advantage**: +1d6 to Handle Animal
 - **Privileged Magic Lists**: Animals and Plants and an Elemental Magic List.
 - **Preferred Weapon**: Staff
@@ -13662,7 +13666,7 @@ Erondil compassionately protects the works entrusted to his care and is loyal to
 - **Sum of Traits in common at 10 points**: Your touch shapes stone. You can cast the spell Passwall once per day.
 - **Sum of Traits in common at 15 points**: You can hurl the spell Lightning Bolt from your hands. Reflex Saving Throw DC 30 to halve. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: You are able to create a very deep pit (1km) beneath your opponent (size up to large). Reflex Saving Throw 30 or fall every round for 100 meters. Once per day. After 1 minute, the pit closes with whoever is inside. Cost 2 Actions.
-- **Energy/N**: Sound, Electricity
+- **Polarity: Neutral**: Sound, Electricity
 - **Advantage**: Reduction 10 to Electricity damage
 - **Privileged Magic Lists**: Air, Earth
 - **Preferred Weapon**: Warhammer
@@ -13698,7 +13702,7 @@ Gaya' \*\*s generosity appears when she shares the beauty of her works, and her 
 - **Sum of Traits in common at 10 points**: Your metabolism does not fear cold. You resist magical cold damage and are immune to natural cold.
 - **Sum of Traits in common at 15 points**: You can breathe underwater as you breathe air. You resist non-magical fire damage
 - **Sum of Traits in common at 20 points**: You generate a rain of fire. You cast the spell Flame Strike, DC 25 once per day. You resist magical fire damage.
-- **Energy/N**: Cold, Fire
+- **Polarity: Neutral**: Cold, Fire
 - **Advantage**: Reduction 10 to Fire damage
 - **Privileged Magic Lists**: Water, Fire
 - **Preferred Weapon**: Trident
@@ -13730,40 +13734,51 @@ Krondal is patient in allowing every choice to reveal its consequences, but stub
 - **Sum of Traits in common at 10 points**: You do not want to be tied or handcuffed. Twice a day you can cast Freedom of Movement only on yourself.
 - **Sum of Traits in common at 15 points**: Your presence takes away sight from opponents. Designate up to 6 creatures within 9 meters, they must make a Fortitude Saving Throw at DC 30 or be blind only to you for 1d4 rounds.
 - **Sum of Traits in common at 20 points**: Your weapon is more effective against enemies. Every creature hit must make a Will Saving Throw DC 20 or remain paralyzed for 3 rounds. Once a creature succeeds in the Saving Throw, it can no longer be influenced for the next 24 hours. Once per day, activating the ability costs 1 Action and lasts 1 minute.
-- **Energy/B**: Positive Energy, Fire
+- **Polarity: Positive**: Positive Energy, Fire
 - **Advantage**: +2 Fortitude ST
 - **Privileged Magic Lists**: Abjuration
 - **Preferred Weapon**: Longsword
 - **Rule**: Do not allow abuse
 
-### Ledyal
-
- 
+### Ledyal and Laydel 
 
 > The soul of a man is immortal and incorruptible. (Plato)
 
 It is not the body that defines me (anonymous creature)
 
-He is the Patron without a precise face, without a voice except a song. Changeable in body and without a clear definition of his being. He manifests with a long fire-red cloak made of a thousand butterflies. His touch is life and peace, he protects those who need his favors regardless of whether they ask for them or not. He desires a world without suffering, with only happiness and harmony. Suspicious and deeply introverted, he does not believe those who agree with him. He has a heart full of life and goodness but does not have a body with which to love.
+They are the Patron without a precise face, without a voice except a song. Changeable in body and without a clear definition of their being. Manifesting with a long fire-red cloak woven from a thousand butterflies. Their touch is life and peace, protecting whoever needs their favor regardless of whether they ask for it or not. Changeable, pure, and yet elusive, they yearn for a world without suffering, filled only with happiness and harmony. Their heart is full of life and goodness, yet they possess no mortal body with which to love.
 
-Ledyal also has a twin sister, or perhaps another personality, or perhaps they are the same Patron, no one has ever seen them together. The *twin* **Laydel** does not tolerate suffering, despises those who cause pain, kills without fear any creature that has sinned against an innocent, anyone who has caused suffering.
+Ledyal also has a twin sister—or perhaps another personality, or perhaps they are the very same Patron: no one has ever seen them together. The *twin* **Laydel** cannot tolerate suffering, despises those who cause pain, and mercilessly strikes down any creature that has wronged the innocent, perverted order, or betrayed the trust of those who loved them. Vindictive and uncompromising, Laydel does not seek gentle peace: she seeks the justice of the blade and the retribution of whoever dared shatter harmony.
 
-Ledyal approaches conflict cautiously and often avoids direct confrontation, but remains stubborn in defending peace. Laydel is patient in preparing punishment, ambitious in eradicating every source of suffering, and uncompromising, cynical, and arrogant toward those who cause it; her envy comes from seeing others live without the burden she carries.
+- **Common Symbol**: A butterfly dripping blood while flying
+- **Manifestation**: A whirlwind of scarlet butterflies enveloping the Devotee
+- **Common Rule**: Do not allow violence against a creature' \*\*s gender or identity
 
-- **Symbol**: A butterfly dripping blood while flying
-- **Ability Score**: Wisdom (Ledyal) - Strength (Laydel)
-- **Traits Ledyal**: Enthusiastic, Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
-- **Traits Laydel**: Vindictive, Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
-- **Manifestation**: as if a cloak of butterflies enveloped the Devotee
-- **Sum of Traits in common at 5 points**: Your touch is life/attack. 3 times per day you can touch a living creature and heal it/cause 1d6 Hit Points. Cost 2 Actions (also includes the touch Action)
-- **Sum of Traits in common at 10 points**: Your touch is peace. You can cast the spell Sanctuary 2 times per day.
+\paragraph{Ledyal}
+
+- **Ability Score**: Wisdom
+- **Guide Trait**: Enthusiastic; **Complementary Traits**: Compassionate, Cautious, Kind, Curious, Cowardly, Stubborn
+- **Polarity: Positive**: Positive Energy, Electricity
+- **Advantage**: +1d6 to First Aid checks
+- **Privileged Magic Lists**: Healing
+- **Preferred Weapon**: Truncheon / Club
+- **Sum of Traits in common at 5 points**: Your touch is life. 3 times per day you can touch a living creature and heal it for 1d6 Hit Points plus half the Sum of common Traits (rounded down). Cost 2 Actions (includes the touch Action).
+- **Sum of Traits in common at 10 points**: Your touch is peace. You can cast the Sanctuary spell 2 times per day.
 - **Sum of Traits in common at 15 points**: Your aura protects your companions. Within a 6-meter radius, your companions have a +4 to Defense and a +2 to Saving Throws. Duration 10 consecutive minutes, once per day. Cost 2 Actions.
-- **Sum of Traits in common at 20 points**: You radiate a healing sphere around you. Every creature within a 6-meter radius is healed for 60 Hit Points. Once per day. In the case of Laydel, the effect is opposite. Cost 2 Actions
-- **Energy/B**: Positive Energy, Electricity
-- **Advantage**: +1d6 to First Aid checks (Ledyal) or you are +4 ST against Fear (Laydel)
-- **Privileged Magic Lists**: Healing or Evocation
-- **Preferred Weapon**: Club/Spiked chain
-- **Rule**: Do not allow violence against a creature' \*\*s gender
+- **Sum of Traits in common at 20 points**: You radiate a healing sphere around you. Every creature within a 6-meter radius is healed for 60 Hit Points. Once per day. Cost 2 Actions.
+
+\paragraph{Laydel}
+
+- **Ability Score**: Strength
+- **Guide Trait**: Vindictive; **Complementary Traits**: Patient, Ambitious, Uncompromising, Envious, Cynical, Arrogant
+- **Polarity: Negative**: Negative Energy, Electricity
+- **Advantage**: +4 ST against Fear
+- **Privileged Magic Lists**: Evocation
+- **Preferred Weapon**: Spiked Chain
+- **Sum of Traits in common at 5 points**: Your touch is retribution. 3 times per day you can touch a living creature and deal 1d6 Hit Points of damage plus half the Sum of common Traits (rounded down). Cost 2 Actions (includes the touch Action).
+- **Sum of Traits in common at 10 points**: Retribution of pain. 2 times per day, when hit in melee, the attacker immediately takes 2d6 Electricity damage (Reflex Saving Throw DC 20 to halve).
+- **Sum of Traits in common at 15 points**: Aura of terror. Within a 6-meter radius, enemies suffer -2 to Defense and -2 to Saving Throws for 10 consecutive minutes, once per day. Cost 2 Actions.
+- **Sum of Traits in common at 20 points**: Wave of vengeance. You radiate a destructive sphere around you: every enemy within a 6-meter radius takes 60 Hit Points of negative energy damage (Reflex Saving Throw DC 25 to halve). Once per day. Cost 2 Actions.
 
 ### Nethergal
 
@@ -13793,7 +13808,7 @@ Nethergal is patient in gathering information and stubborn in completing every m
 - **Sum of Traits in common at 10 points**: By placing your hand on a book, you learn its contents as if you had read it. One book per week. You lose the knowledge thus acquired after a week. Time 1 round. The written language of the tome must be known.
 - **Sum of Traits in common at 15 points**: You can fly, like the homonymous spell, 1 hour per day. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: You understand all writing that is not magical or encoded.
-- **Energy/N**: Electricity, Sound
+- **Polarity: Neutral**: Electricity, Sound
 - **Advantage**: you always know where magnetic north is
 - **Privileged Magic Lists**: Transmutation, Air
 - **Preferred Weapon**: Light crossbow
@@ -13826,7 +13841,7 @@ Nedraf is patient in waiting for the right moment, but uncompromising when battl
 - **Sum of Traits in common at 10 points**: You acquire a bonus point on a Weapon List. It may be known or not
 - **Sum of Traits in common at 15 points**: You can wear medium armor without penalties to Magic Check and Dexterity
 - **Sum of Traits in common at 20 points**: You acquire a bonus point on a Weapon List. It may be known or not
-- **Energy/B**: Positive energy, Sound
+- **Polarity: Positive**: Positive Energy, Sound
 - **Advantage**: recover double HP when resting
 - **Privileged Magic Lists**: Enchantment, Earth
 - **Preferred Weapon**: Two-handed greatsword
@@ -13850,7 +13865,7 @@ Behind his cheerfulness, Nihar hides envy of those who gain glory without effort
 - **Sum of Traits in common at 10 points**: An Immediate Action, you get a bonus of +2d6 to a Proficiency check in that round. 3 times per day.
 - **Sum of Traits in common at 15 points**: Your light weapon always causes critical damage when you hit. The bonus is always active.
 - **Sum of Traits in common at 20 points**: The delicacies you prepare are excellent. Anyone who fills up with a dish prepared by you recovers 2d6 Hit Points and is cured of even magical poisons. Max 6 people per day. 0.5 hours of preparation per person.
-- **Energy/B**: Positive Energy, Fire
+- **Polarity: Positive**: Positive Energy, Fire
 - **Advantage**: Damage Reduction 1 to non-magical damage (DR 1-magic)
 - **Privileged Magic Lists**: Enchantment, Divination
 - **Preferred Weapon**: Short sword
@@ -13884,7 +13899,7 @@ Orudjs' \*\*s compassion is an act that lets him win trust, while his impulsiven
 - **Sum of Traits in common at 10 points**: You can cast Silent Image 3 times per day.
 - **Sum of Traits in common at 15 points**: Your eloquence is already legendary. +1d6 additional to Entertain checks. You can cast Major Image once per day.
 - **Sum of Traits in common at 20 points**: Your voice is persuasive. A creature, identified by you, that listens to you for at least one minute must make a Will Saving Throw DC 30 or be under the influence of Dominate Person/Monster. Once per day
-- **Energy/N**: Electricity, Fire
+- **Polarity: Neutral**: Electricity, Fire
 - **Advantage**: +4 to Bluff checks
 - **Privileged Magic Lists**: Enchantment, Illusion
 - **Preferred Weapon**: Rapier
@@ -13910,7 +13925,7 @@ Orlaith demands order and justice in public, but can be dissolute in private lif
 - **Sum of Traits in common at 10 points**: A pair of handcuffs manifests around the wrists of the creature (maximum large size) within 27 meters. Reflex Saving Throw DC 25 to cancel. Cost 2 Actions. Once per day. Strength/Escape Artist DC 20 to free oneself.
 - **Sum of Traits in common at 15 points**: You create a beam of Light 27 meters long and a few centimeters wide. Each creature crossed takes 8d6 damage, DC 25 Reflex to halve. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: Your hearing is only for the truth. Around you for 3 meters, including yourself, Zone of Truth is always active.
-- **Energy/B**: Light, Sound
+- **Polarity: Positive**: Light, Sound
 - **Advantage**: Any non-improvised weapon in your hands does at least 1d6 damage
 - **Privileged Magic Lists**: Illusion, Fire
 - **Preferred Weapon**: Shortspear
@@ -13938,7 +13953,7 @@ Rezh is patient in pursuing profit and may be indecisive only when every choice 
 - **Sum of Traits in common at 10 points**: You use gems as receptacles. You can discharge a spell of 3rd level or lower into a gem, which must have a minimum value of 10gp x spell level. The gem preserves the spell for 6 hours. To activate the gem, you use 2 actions, and the spell it contains is executed, consuming the gem.
 - **Sum of Traits in common at 15 points**: You can pull out 1 gold coin from your pockets whenever you want. Max 10 gp per day. Cost 1 Action.
 - **Sum of Traits in common at 20 points**: Your armor is covered with golden sparkle and gems. You gain +4 to Defense and +2d6 Fortitude Saving Throw for 1 hour. Cost 2 Actions, once per day.
-- **Energy/M**: Void, Electricity
+- **Polarity: Negative**: Void, Electricity
 - **Advantage**: when you find a treasure, increase its value by 1\%
 - **Privileged Magic Lists**: Abjuration
 - **Preferred Weapon**: Sickle
@@ -13966,11 +13981,11 @@ Shayalia' \*\*s patience is the patience with which she plans revenge at length;
 - **Ability Score**: Charisma
 - **Guide Trait**: Dissolute; **Complementary Traits**: Cynical, Cruel, Vindictive, Patient, Compassionate, Vain
 - **Manifestation**: the Devotee is wrapped in a black velvet cloak
-- **Sum of Traits in common at 5 points**: The times to prepare a potion are halved. Healing spells also affect animals and plants.
-- **Sum of Traits in common at 10 points**: Your touch is life for nature. Your healing spells act on natural animals and plants in a maximized way.
+- **Sum of Traits in common at 5 points**: Preparation time for potions is halved. In addition, healing potions you brew restore +1d6 extra Hit Points. Healing spells also affect animals and plants.
+- **Sum of Traits in common at 10 points**: Your touch revitalizes nature. In addition, your plant and nature-based spells have their range and area increased by 50\%. Your healing spells act on natural animals and plants in a maximized way.
 - **Sum of Traits in common at 15 points**: From your palm, you secrete poison. Your touch, or through a melee weapon, conveys the poison. Fortitude Saving Throw DC 25 or -2 to Wisdom and Dexterity for 10 minutes, a poisoned subject cannot be poisoned again for 24 hours. Cost 1 Action.
 - **Sum of Traits in common at 20 points**: Your touch is life for nature. You can heal magical animals and plants. You are immune to natural poisons. +1d6 Knowledge Nature.
-- **Energy/M**: Void, Electricity
+- **Polarity: Negative**: Void, Electricity
 - **Advantage**: +4 ST against Poisons
 - **Privileged Magic Lists**: Illusion or Animals and Plants and an Elemental Magic List
 - **Preferred Weapon**: Whip
@@ -14008,7 +14023,7 @@ The Devotees of Sixiser are often necromancers surrounded by undead and other si
 - **Sum of Traits in common at 10 points**: you see in darkness even magical within 9 meters. You automatically detect non-magical traps within 3 meters of you.
 - **Sum of Traits in common at 15 points**: By touching an object, you are able to understand all its magical and non-magical properties, even if it is cursed. 3 times per day.
 - **Sum of Traits in common at 20 points**: You are able to animate a creature dead for no more than a day as an undead with a Challenge Rating of 1 (like zombie/skeleton depending on the state). Once per day. Cost 2 Actions.
-- **Energy/M**: Electricity, Negative Energy
+- **Polarity: Negative**: Electricity, Negative Energy
 - **Advantage**: immune to natural diseases
 - **Privileged Magic Lists**: Necromancy
 - **Preferred Weapon**: Scythe
@@ -14047,7 +14062,7 @@ Sumkjr is suspicious of anyone who claims to act for good without proving it, bu
 - **Sum of Traits in common at 11 points**: You can cast the spell Cone of Cold, 40 damage from Electricity. DC 25 to halve. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 15 points**: You sacrifice your life to bring back to life a creature dead for no more than 1 week. Once. Cost 3 Actions.
 **Note**: Sumkjr is the only Patron to give benefit from a lower Trait sum than normal
-- **Energy/B**: Positive Energy, Electricity
+- **Polarity: Positive**: Positive Energy, Electricity
 - **Advantage**: +1 to all Saving Throws
 - **Privileged Magic Lists**: Healing
 - **Preferred Weapon**: Bastard Sword
@@ -14087,7 +14102,7 @@ Tàhil is dishonest because he never promises what he intends to grant, arrogant
 - **Sum of Traits in common at 10 points**: Three times per day, before making the Attack Roll, you can declare to hit. Immediate Action
 - **Sum of Traits in common at 15 points**: One of your hits that lands causes at least one Critical Hit.
 - **Sum of Traits in common at 20 points**: The weapon' \*\*s Critical die increases by one size.
-- **Energy/M**: Fire, Void
+- **Polarity: Negative**: Fire, Void
 - **Advantage**: Damage reduction from Light 10
 - **Privileged Magic Lists**: Enchantment
 - **Preferred Weapon**: Greatsword
@@ -14115,11 +14130,11 @@ Tazher is patient while waiting from the shadows and indecisive only until he ha
 - **Ability Score**: Dexterity
 - **Guide Trait**: Dishonest; **Complementary Traits**: Ambitious, Patient, Cynical, Indecisive, Arrogant, Cruel
 - **Manifestation**: the Devotee' \*\*s shadow comes to life moving the weapon
-- **Sum of Traits in common at 5 points**: You gain +2 to Stealth checks.
+- **Sum of Traits in common at 5 points**: You gain +2 to Stealth checks. You can hide even with light cover and without penalty if moving at half speed.
 - **Sum of Traits in common at 10 points**: Your Darkvision becomes 6 meters.
 - **Sum of Traits in common at 15 points**: as long as you walk over shadows or in the dark (darkness) you are invisible. You can still be detected with light or divination spells.
 - **Sum of Traits in common at 20 points**: Darkness is no longer a problem. You see in darkness, even magical darkness, as if it were day. When you are in a fully lit environment, you are dazzled with a -2 to Attack Rolls.
-- **Energy/M**: Void, Cold
+- **Polarity: Negative**: Void, Cold
 - **Advantage**: Darkvision 3 meters
 - **Privileged Magic Lists**: Transmutation
 - **Preferred Weapon**: Glaive
@@ -14146,10 +14161,10 @@ Thaft avoids danger whenever possible and prefers to observe before acting, but 
 - **Guide Trait**: Cowardly; **Complementary Traits**: Patient, Extroverted, Loyal, Kind, Vain, Vindictive
 - **Manifestation**: the cry of a newborn child or the sigh of death is heard
 - **Sum of Traits in common at 5 points**: Your touch is lethal to the undead. One of your touches inflicts 2d6 damage to an undead. Cost 2 Actions including the touch. Up to 3 times per day.
-- **Sum of Traits in common at 10 points**: Your touch soothes. Once per day you can remove Blindness or Deafness. Cost 2 Actions.
+- **Sum of Traits in common at 10 points**: Your touch soothes. Once per day you can remove Blindness or Deafness; in addition, with a touch you can stabilize a dying creature at 0 Hit Points and heal them for 1d6 Hit Points, 3 times per day. Cost 2 Actions. Cost 2 Actions.
 - **Sum of Traits in common at 15 points**: An undead, with CR lower than the sum of your Traits in common, must make a Fortitude Saving Throw DC 30 or be destroyed if touched by your hand. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: Kill the creature you touch. Will Saving Throw DC 30 or death. Once per week. Cost 2 Actions.
-- **Energy/N**: Sound, Electricity
+- **Polarity: Neutral**: Sound, Electricity
 - **Advantage**: Damage reduction 5 to Void and Light
 - **Privileged Magic Lists**: Necromancy, Animals and plants
 - **Preferred Weapon**: Bow
@@ -14176,16 +14191,16 @@ Torbiorn retains a form of compassion, but grants it only to works or people he 
 - **Guide Trait**: Cruel; **Complementary Traits**: Impulsive, Arrogant, Dishonest, Cynical, Indecisive, Compassionate
 - **Manifestation**: shards of broken mirror all around the Devotee like a whirlwind
 - **Sum of Traits in common at 5 points**: With a gesture you can refresh your clothes and yourself making them clean and fragrant. Cost 1 Action. 3 times per day.
-- **Sum of Traits in common at 10 points**: Your spit is poisonous. If the touch Attack Roll hits -2 Strength, not cumulative. Duration 1 minute. Three times per day. Cost 1 Action.
+- **Sum of Traits in common at 10 points**: Your spit is poisonous. If the touch Attack Roll hits, the target must pass a Fortitude Saving Throw with DC 10 + Sum of common Traits or suffer -1d6 Strength, not cumulative, for 1 minute. Three times per day, cost 1 Action.
 - **Sum of Traits in common at 15 points**: Staring at the target in the eyes you force them to stop. The subject cannot perform Movement Actions. Will Saving Throw DC 30. Once per day. Cost 2 Actions.
 - **Sum of Traits in common at 20 points**: From your fingers, tendrils shoot out that sting up to 10 opponents. Each tendril, up to 18 meters long, causes 2d6 damage, Reflex Saving Throw DC 25 to halve. Cost 2 Actions.
-- **Energy/N**: Fire, Sound
-- **Advantage**: +3 against spells from the Divination List.
+- **Polarity: Neutral**: Fire, Sound
+- **Advantage**: You have +3 against spells from the Divination List. Furthermore, if you are impeccably dressed, you have +2 to Entertain and Persuasion checks based on appearance.
 - **Privileged Magic Lists**: Transmutation
 - **Preferred Weapon**: One-handed Axe
 - **Rule**: Do not be sloppy, poorly dressed or untidy.
 
->>> **Personalizing our game**: In agreement with the Game Master, and adequately motivated, it is possible to change Advantage and Privileged Magic Lists.
+>>> **Adapting and Being Adapted**: In agreement with the Game Master, and only with a strong narrative justification (a Character Crisis, a pilgrimage, a dedicated pact or quest), it is possible to change Advantage and Privileged Magic Lists. This is not free optimization: the change must arise from a story and have a cost.
 
 ### Patron - Trait List
 
@@ -14245,7 +14260,20 @@ Laydel: **Guide Trait**: Vindictive; **Complementary Traits**: Patient, Ambitiou
 
 Tàhil: **Guide Trait**: Vindictive; **Complementary Traits**: Dishonest, Arrogant, Cynical, Ambitious, Stubborn, Impulsive
 
-> The gods weave misfortunes for men, so that the generations to come will have something to sing about." Iliad, Homer
+### The Patrons as Mirror of the Soul: Archetypes, Inflation, and Individuation
+
+Patrons are not distant deities demanding blind liturgical submission: born as paroxysms of primordial urges and nourished by the shards of Omniessence housed within mortal souls, they act in all respects as **living projections of the collective unconscious and the great archetypes of the human soul**.
+
+When a character is claimed by a Patron, that deity reflects their dominant inner configuration. Understanding this psychological matrix, explored in depth in Character Archetypes (p. ), provides players and Game Masters with interpretive keys of extraordinary depth:
+
+- **Archetypal Resonance:** Each Patron catalyzes specific behavioral patterns and growth paths. The Archetypal Resonances table (p. ) illustrates which universal masks (the Hero, the Caregiver, the Mentor, the Shadow, the Outlaw, the Ruler) find natural amplification in each Patron.
+- **The Risk of Archetypal Inflation:** The Patron embodies a Trait pushed to pure excess. The constant danger for those who walk their path—especially the Devotee bound by the Rule—is *inflation*: becoming entirely consumed by the Patron' \*\*s excess, mistaking a single facet of the self for the totality of one' \*\*s identity. Heroism thus risks sliding into fanaticism, caution into paralysis, ambition into tyranny.
+- **Integrating the Shadow and the Path of Individuation:** No mortal can be reduced to a single Trait. Within each Patron' \*\*s profile dwell a Guide Trait and Complementary Traits; at the same time, conflicting Traits often stir within the character' \*\*s soul, defined as the *Shadow* in analytical psychology. The true maturation of an adventurer (*individuation*) lies not in flattening oneself into the archetype, but in exploring these internal contradictions without breaking.
+- **Dissonances as Evolutionary Turning Points:** Dissonances from the Path and Character Crises take on their full psychological significance here. They are neither roleplaying failures nor mistakes to be punished, but cathartic thresholds where mortals emancipate themselves from archetypal automatism, redefine their priorities, and journey through **Archetypal Cycles**—moving, for instance, from the Fall to Redemption, or from Innocence to Wisdom.
+
+>>> **Deities as Inner Conflict**: Use the Patron' \*\*s manifestations, silences, and demands not merely as external events, but as psychological catalysts. When testing a character, do not challenge only their combat statistics: probe their Traits and their archetypal vulnerabilities. Always remember that the table is a protected space (*magic circle*): face these moral dilemmas with mutual empathy, relying on the well-being and *de-rolling* tools described in \hyperlinksicurezzatavoloSafety and Well-being at the Table (p. \pagerefsicurezzatavolo).
+
+> The gods weave misfortunes for mortals, that future generations may have something to sing. (Iliad, Homer)
 
 ---
 
@@ -14601,11 +14629,11 @@ The Proficiency Penalty is the penalty applied to Basic proficiency checks influ
 
 All Armors, except for Padded armor, force spellcasters to pass a Magic Check with an increased difficulty indicated in the table.
 
-Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6 +3 dice (because he has 9 points in Magic Proficiency), ignores 2 dice (because he has taken Magic Adept 4 times).
+Example: Tups wears Breastplate armor (medium armor) and casts a spell. He is forced by wearing the armor to perform a Magic Check. He rolls 3d6+4d4 (because he has 12 points in Magic Proficiency), and can reroll 2 dice (because he has taken Magic Adept 4 times).
 
 The difficulty of the spell he casts, Lightning Bolt, is 10+ 2*3 (Spell level) +8 (additional difficulty from the armor).
 
-In the test he rolls 4,5,5 / 3,4,1,1. He removes the two 1s for Magic Adept, they count as zero and if he had rolled 3 it would have been a Critical Failure! Total 4+5+5+3+4=21, against a difficulty of 10+2*3+8=24. Tups fails to cast the spell!!!
+In the test he rolls 4,5,5 / 3,4,1,1. He rerolls the two 1s for Magic Adept and obtains 1 and 2: the new results count as zero and 2, respectively. The total is therefore 4+5+5+3+4+0+2=23, against a difficulty of 10+2*3+8=24. Tups fails to cast the spell!!!
 
 If Tups had worn Studded Leather the difficulty would have increased by only 4 and therefore he would have succeeded in casting the spell.
 
@@ -18016,6 +18044,17 @@ I suggest that Game Masters establish clear rules for good gameplay. Unfortunate
 
 - What is allowed to bring and use at the table and what is not (drinks, food, cell phones, alcohol, smoking...). Know if there are animals in the house.
 - Establish the minimum number of players to have the session, game day, and times.
+
+### Safety and Well-being at the Table
+
+Exploring intense themes, the anxiety of failure, and the darker facets of characters makes roleplaying powerful and liberating, but it demands conscious care for the emotional well-being of all participants. Agree from the very beginning that the table is a protected space, never a place of judgment, and that anyone may invoke the following tools without need for justification.
+
+- **Traffic Lights and Pauses (*check-in**):* Every participant has the right to call for a pause or a *check-in* whenever a scene touches upon overly sensitive personal chords. The pause serves to take a breath and decide together how to proceed.
+- **Fade to Black:** If a scene becomes too intense, it can be *faded out* and resolved off-screen, in the third person, or via an ellipsis, without describing gritty details.
+- **Emotional Osmosis (*Bleed**):* The phenomenon where a character' \*\*s emotions (fear, wrath, performance anxiety, grief) resonate within the player, or vice versa. It is a natural and often deeply cathartic experience, but if it becomes overwhelming, recognizing it and taking a break is essential.
+- **Session *De-rolling**:* Dedicate the final 5 minutes of each session to stepping out of character: pack away character sheets, speak about your character in the third person (*"Today my character felt insecure because..."*), and share cool-headed impressions, restoring a healthy boundary between yourself and the mask.
+
+No one is ever obliged to recount personal trauma or act out a painful scene: if a player prefers, the matter is resolved off-screen or in the third person. Safety tools are flexible in application, but the right to use them is non-negotiable.
 
 In conclusion, Session Zero is fundamental for establishing a solid foundation for good role-playing. It helps create a collaborative environment where everyone feels involved and helps avoid problems and disagreements during the course of the campaign.
 

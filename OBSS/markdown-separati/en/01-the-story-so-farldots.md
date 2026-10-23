@@ -94,7 +94,7 @@ Here is a list of terms and concepts that you will find repeated throughout the 
 
 **Bonus**:  Any modifier due to external, environmental, magical, or circumstantial factors, or decided by the Game Master, is a bonus or penalty applied to the dice roll or the difficulty of the check.
 
-**Casting Spells while Distracted or after a Recent Wound**: When a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise distracted while casting a spell, they must make a Magic Check.
+**Casting Spells while Distracted or after a Recent Wound**: When a spellcaster wants to use Magic but is disturbed, has been wounded in the same round, or is otherwise severely distracted while casting a spell, they must make a Magic Check.
 
 **Check/Test**:  A check (or test) is the roll of 3d6 plus the value indicated by the involved Ability Score and Skill; modifiers from Feats and circumstances might be applied. If you don' \*\*t have the Skill, you roll 2d6 + the Ability Score modifier.
 

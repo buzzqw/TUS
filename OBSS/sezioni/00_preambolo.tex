@@ -265,6 +265,13 @@ Ligatures=TeX
 \titlespacing{\subsection}{0pt}{8pt}{4pt}
 \titlespacing{\subsubsection}{0pt}{6pt}{3pt}
 
+% Titolo compatto per gli Archetipi del Carattere
+\newcommand{\archetipotitle}[1]{%
+  \par\addvspace{0.5em}%
+  \noindent{\normalfont\large\bfseries\sffamily\color{OBSSnavyblue}#1}\par\nobreak
+  \addvspace{0.2em}%
+}
+
 % ========== AMBIENTI PERSONALIZZATI ==========
 \newtcolorbox{narratore}[1][Narratore]{
 	enhanced,
@@ -351,7 +358,7 @@ Ligatures=TeX
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{\tempspell}{\tempspell}%
-	\vspace{-1mm}\noindent
+	\vspace{-1mm}\noindent\ignorespaces
 }
 
 
@@ -370,7 +377,7 @@ Ligatures=TeX
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{\tempspell}{inc:\tempspell}%
-	\vspace{-1mm}\noindent
+	\vspace{-1mm}\noindent\ignorespaces
 }
 
 
@@ -389,7 +396,7 @@ Ligatures=TeX
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{\tempspell}{\tempspell}%
-	\vspace{-1mm}\noindent
+	\vspace{-1mm}\noindent\ignorespaces
 }
 
 
@@ -408,7 +415,7 @@ Ligatures=TeX
 	\vspace{-5.5mm}
 	\begin{center}\textbf{\textcolor{OBSSprussia!90!black}{#1}}\end{center}
 	\pdfbookmark[3]{\tempspell}{\tempspell}%
-	\vspace{-1mm}\noindent
+	\vspace{-1mm}\noindent\ignorespaces
 }
 
 
@@ -467,6 +474,7 @@ bookmarksopen=true
 
 
 \usepackage{bookmark}
+\usepackage{graphicx}
 % bookmark deve essere caricato dopo hyperref
 
 % ========== INIZIO DOCUMENTO ==========

@@ -2,7 +2,7 @@
 
 Questa opzione presenta un sistema che integra gli archetipi junghiani  con il framework esistente di Tratti del carattere e Patroni. Ispirandosi agli archetipi di Carl Jung e all'indicatore tipologico Myers-Briggs (MBTI) , vengono presentati 22 distinti pattern archetipici che possono essere utilizzati per la creazione del personaggio, lo sviluppo e la narrazione.
 
-Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono elencati i Patroni i cui profili condividono almeno due Tratti con ogni archetipo, suggerendo affinità narrative e spirituali naturali. Questi elenchi non permettono di scegliere un Patrono: il Patrono reclamante è determinato dal Tratto dominante del personaggio.
+Ogni archetipo è presentato con un insieme di Tratti raccomandati che si allineano naturalmente con quell'energia archetipica. Insieme ai Tratti sono anche riportati quelli generalmente incompatibili o contraddittori (e per questo stimolanti) rispetto alla natura fondamentale dell'archetipo. Inoltre vengono indicati i Patroni che presentano la maggiore risonanza narrativa e spirituale tra quelli i cui profili condividono almeno due Tratti con l'archetipo. Questi elenchi non permettono di scegliere un Patrono: il Patrono reclamante è determinato dal Tratto dominante del personaggio.
 - Scegli un archetipo che ti attrae o si adatta alla tua idea del personaggio
 - Considera di adottare almeno 2-3 dei Tratti raccomandati per quell'archetipo
 - Evita i Tratti sconsigliati a meno che tu non stia specificamente mirando a creare conflitto interno
@@ -10,9 +10,11 @@ Ogni archetipo è presentato con un insieme di Tratti raccomandati che si alline
 
 Gli archetipi possono anche evolversi durante le avventure di un personaggio. Un personaggio potrebbe iniziare come un archetipo (L'Innocente) e trasformarsi in un altro (L'Eroe) attraverso le sue esperienze. Questa evoluzione può essere riflessa nel cambiamento graduale dei Tratti e delle affinità con i Patroni.
 
+Il gioco di ruolo non è soltanto evasione o simulazione tattica, ma può costituire uno straordinario spazio protetto (*cerchio magico*) per la gestione dello stress, dell'ansia e per l'evoluzione psicologica personale. Attraverso la maschera dell'archetipo, il giocatore può esplorare e integrare aspetti complessi del proprio sé, confrontarsi con la propria Ombra (anche attraverso i Tratti Contraddittori), de-catastrofizzare la paura del fallimento e sperimentare percorsi di crescita e resilienza emotiva condivisi con il gruppo.
+
 ## I 22 Archetipi
 
-## L'Eroe
+\archetipotitle{L'Eroe}
 Il personaggio coraggioso che supera gli ostacoli per raggiungere un obiettivo, spesso trasformando se stesso nel processo.
 
 - **Tratti Raccomandati:** Coraggioso, Testardo, Ambizioso, Leale
@@ -20,7 +22,7 @@ Il personaggio coraggioso che supera gli ostacoli per raggiungere un obiettivo, 
 - **Tratti Contraddittori:** Cinico, Crudele, Dissoluto
 - **Patroni Allineati:** Gradh, Sumkjr, Efrem, Ljust, Lynx, Orlaith
 
-## Il Mentore
+\archetipotitle{Il Mentore}
 La guida saggia che fornisce conoscenza, intuizione e supporto agli altri, spesso all'Eroe.
 
 - **Tratti Raccomandati:** Paziente, Gentile, Prudente, Compassionevole
@@ -28,7 +30,7 @@ La guida saggia che fornisce conoscenza, intuizione e supporto agli altri, spess
 - **Tratti Contraddittori:** Crudele, Disonesto, Avaro
 - **Patroni Allineati:** Ljust, Thaft, Ledyal, Atmos, Shayalia
 
-## Il Guardiano della Soglia
+\archetipotitle{Il Guardiano della Soglia}
 Il personaggio che mette alla prova i giocatori, presentando sfide che devono superare per procedere.
 
 - **Tratti Raccomandati:** Intransigente, Sospettoso, Prudente, Paziente
@@ -36,7 +38,7 @@ Il personaggio che mette alla prova i giocatori, presentando sfide che devono su
 - **Tratti Contraddittori:** Codardo, Indeciso, Disonesto
 - **Patroni Allineati:** Atmos, Krondal, Sixiser, Atherim, Efrem
 
-## L'Araldo
+\archetipotitle{L'Araldo}
 Il personaggio che annuncia la chiamata all'avventura e segnala la necessità del cambiamento.
 
 - **Tratti Raccomandati:** Entusiasta, Estroverso, Curioso, Coraggioso
@@ -44,23 +46,23 @@ Il personaggio che annuncia la chiamata all'avventura e segnala la necessità de
 - **Tratti Contraddittori:** Codardo, Cinico, Disonesto
 - **Patroni Allineati:** Nethergal, Sumkjr, Lynx, Nedraf
 
-## Il Mutaforma
+\archetipotitle{Il Mutaforma}
 Il personaggio la cui lealtà e vera natura sono costantemente in discussione.
 
 - **Tratti Raccomandati:** Disonesto, Arrogante, Impulsivo, Ambizioso
 - **Tratti Sconsigliati:** Leale, Altruista, Gentile
 - **Tratti Contraddittori:** Intransigente, Prudente, Paziente
-- **Patroni Allineati:** Calicante, Orudjs, Tazher, Tàhil, Torbiorn
+- **Patroni Allineati:** Calicante, Orudjs, Tazher, Tàhil, Torbiorn, Laydel, Belevon
 
-## L'Ombra
+\archetipotitle{L'Ombra}
 Il riflesso oscuro del personaggio, che rappresenta aspetti rifiutati o temuti del sé.
 
 - **Tratti Raccomandati:** Crudele, Vendicativo, Cinico, Arrogante
 - **Tratti Sconsigliati:** Compassionevole, Gentile, Altruista
 - **Tratti Contraddittori:** Leale, Paziente, Entusiasta
-- **Patroni Allineati:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn
+- **Patroni Allineati:** Calicante, Cattalm, Tàhil, Shayalia, Torbiorn, Laydel, Tazher, Rezh
 
-## L'Imbroglione
+\archetipotitle{L'Imbroglione}
 Il personaggio malizioso che disturba lo status quo e porta trasformazione attraverso il caos.
 
 - **Tratti Raccomandati:** Impulsivo, Curioso, Disonesto, Entusiasta
@@ -68,7 +70,7 @@ Il personaggio malizioso che disturba lo status quo e porta trasformazione attra
 - **Tratti Contraddittori:** Leale, Altruista, Compassionevole
 - **Patroni Allineati:** Orudjs, Ledyal
 
-## L'Alleato
+\archetipotitle{L'Alleato}
 Il personaggio fedele che supporta il gruppo nel suo viaggio.
 
 - **Tratti Raccomandati:** Leale, Coraggioso, Altruista, Gentile
@@ -76,7 +78,7 @@ Il personaggio fedele che supporta il gruppo nel suo viaggio.
 - **Tratti Contraddittori:** Vendicativo, Arrogante, Avaro
 - **Patroni Allineati:** Ljust, Sumkjr, Gradh, Thaft, Atherim
 
-## L'Innocente
+\archetipotitle{L'Innocente}
 Il personaggio puro e ingenuo che vede il mondo con meraviglia e ottimismo.
 
 - **Tratti Raccomandati:** Gentile, Entusiasta, Altruista, Curioso
@@ -84,7 +86,7 @@ Il personaggio puro e ingenuo che vede il mondo con meraviglia e ottimismo.
 - **Tratti Contraddittori:** Crudele, Disonesto, Dissoluto
 - **Patroni Allineati:** Ledyal, Sumkjr, Gaya, Atherim
 
-## Il Saggio
+\archetipotitle{Il Saggio}
 Il personaggio custode della conoscenza che ha accumulato saggezza attraverso lo studio o l'esperienza.
 
 - **Tratti Raccomandati:** Prudente, Paziente, Curioso, Intransigente
@@ -92,15 +94,15 @@ Il personaggio custode della conoscenza che ha accumulato saggezza attraverso lo
 - **Tratti Contraddittori:** Indeciso, Codardo, Arrogante
 - **Patroni Allineati:** Atmos, Nethergal, Sixiser
 
-## Il Sovrano
+\archetipotitle{Il Sovrano}
 Il personaggio che cerca di stabilire ordine e controllo sul suo dominio.
 
-- **Tratti Raccomandati:** Ambizioso, Intransigente, Arrogante, Testardo
+- **Tratti Raccomandati:** Ambizioso, Intransigente, Arrogante, Vanitoso, Testardo
 - **Tratti Sconsigliati:** Indeciso, Codardo, Impulsivo
 - **Tratti Contraddittori:** Altruista, Compassionevole, Gentile
-- **Patroni Allineati:** Calicante, Erondil, Cattalm, Krondal, Tàhil
+- **Patroni Allineati:** Calicante, Erondil, Cattalm, Krondal, Tàhil, Orlaith
 
-## Il Creatore
+\archetipotitle{Il Creatore}
 Il personaggio costruttore, innovativo, che porta nuove cose all'esistenza.
 
 - **Tratti Raccomandati:** Curioso, Entusiasta, Ambizioso, Paziente
@@ -108,15 +110,15 @@ Il personaggio costruttore, innovativo, che porta nuove cose all'esistenza.
 - **Tratti Contraddittori:** Dissoluto, Intransigente, Vendicativo
 - **Patroni Allineati:** Erondil, Efrem, Nethergal, Rezh
 
-## Il Custode
+\archetipotitle{Il Custode}
 Il personaggio protettore, premuroso, che si prende cura e difende gli altri.
 
 - **Tratti Raccomandati:** Compassionevole, Altruista, Gentile, Paziente
 - **Tratti Sconsigliati:** Crudele, Avaro, Vendicativo
 - **Tratti Contraddittori:** Arrogante, Disonesto, Dissoluto
-- **Patroni Allineati:** Ljust, Ledyal, Atherim, Belevon, Sumkjr
+- **Patroni Allineati:** Ljust, Ledyal, Atherim, Belevon, Sumkjr, Gaya, Thaft
 
-## Il Mago
+\archetipotitle{Il Mago}
 Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
 
 - **Tratti Raccomandati:** Curioso, Ambizioso, Arrogante, Intransigente
@@ -124,23 +126,23 @@ Il personaggio che sfrutta conoscenze uniche per alterare la realtà.
 - **Tratti Contraddittori:** Altruista, Compassionevole, Leale
 - **Patroni Allineati:** Erondil, Nethergal, Krondal, Atmos
 
-## Il Fuorilegge
+\archetipotitle{Il Fuorilegge}
 Il personaggio ribelle che sfida le norme stabilite e combatte contro i vincoli.
 
 - **Tratti Raccomandati:** Coraggioso, Impulsivo, Arrogante, Vendicativo
 - **Tratti Sconsigliati:** Prudente, Paziente, Leale
 - **Tratti Contraddittori:** Altruista, Compassionevole, Gentile
-- **Patroni Allineati:** Lynx, Tàhil, Gradh, Orlaith, Calicante
+- **Patroni Allineati:** Lynx, Tàhil, Gradh, Orlaith, Calicante, Laydel
 
-## L'Amante
+\archetipotitle{L'Amante}
 Il personaggio cercatore appassionato di connessione, intimità e piacere sensuale.
 
-- **Tratti Raccomandati:** Compassionevole, Entusiasta, Impulsivo, Dissoluto
+- **Tratti Raccomandati:** Compassionevole, Entusiasta, Impulsivo, Dissoluto, Vanitoso
 - **Tratti Sconsigliati:** Sospettoso, Cinico, Arrogante
 - **Tratti Contraddittori:** Prudente, Intransigente, Avaro
 - **Patroni Allineati:** Shayalia, Ledyal, Orudjs
 
-## Il Giullare
+\archetipotitle{Il Giullare}
 Il personaggio intrattenitore giocoso che porta gioia e leggerezza in situazioni difficili.
 
 - **Tratti Raccomandati:** Entusiasta, Estroverso, Impulsivo, Curioso
@@ -148,7 +150,7 @@ Il personaggio intrattenitore giocoso che porta gioia e leggerezza in situazioni
 - **Tratti Contraddittori:** Crudele, Vendicativo, Arrogante
 - **Patroni Allineati:** Nethergal, Sumkjr, Ledyal
 
-## L'Uomo Comune
+\archetipotitle{L'Uomo Comune}
 Il personaggio ordinario che cerca appartenenza e connessione.
 
 - **Tratti Raccomandati:** Leale, Gentile, Prudente, Indeciso
@@ -156,7 +158,7 @@ Il personaggio ordinario che cerca appartenenza e connessione.
 - **Tratti Contraddittori:** Crudele, Vendicativo, Disonesto
 - **Patroni Allineati:** Efrem, Thaft, Atmos
 
-## L'Esploratore
+\archetipotitle{L'Esploratore}
 Il personaggio avventuriero che cerca nuove esperienze e scoperte.
 
 - **Tratti Raccomandati:** Curioso, Coraggioso, Impulsivo, Entusiasta
@@ -164,15 +166,15 @@ Il personaggio avventuriero che cerca nuove esperienze e scoperte.
 - **Tratti Contraddittori:** Codardo, Cinico, Avaro
 - **Patroni Allineati:** Nihar, Nedraf, Ledyal, Sumkjr
 
-## Il Martire
+\archetipotitle{Il Martire}
 Il personaggio che si sacrifica e dà tutto per una causa o per gli altri.
 
 - **Tratti Raccomandati:** Altruista, Coraggioso, Intransigente, Testardo
 - **Tratti Sconsigliati:** Arrogante, Avaro, Ambizioso
 - **Tratti Contraddittori:** Cinico, Crudele, Disonesto
-- **Patroni Allineati:** Ljust, Sumkjr, Atherim, Lynx
+- **Patroni Allineati:** Ljust, Sumkjr, Atherim, Lynx, Nedraf
 
-## Il Tiranno
+\archetipotitle{Il Tiranno}
 Il personaggio oppressore, controllore, che governa attraverso la paura e la dominazione.
 
 - **Tratti Raccomandati:** Crudele, Arrogante, Vendicativo, Avaro
@@ -180,7 +182,7 @@ Il personaggio oppressore, controllore, che governa attraverso la paura e la dom
 - **Tratti Contraddittori:** Indeciso, Codardo, Leale
 - **Patroni Allineati:** Calicante, Tàhil, Tazher, Torbiorn, Rezh
 
-## L'Eremita
+\archetipotitle{L'Eremita}
 Il personaggio cercatore solitario che si ritira dalla società per trovare la verità interiore.
 
 - **Tratti Raccomandati:** Prudente, Paziente, Intransigente, Sospettoso
@@ -209,33 +211,33 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 
 | \mchead[][]{**Patrono** | **Risonanze Archetipiche**} |
 | --- | --- |
-| Ljust | L'Eroe, Il Custode, Il Martire, Il Mentore |
-| Calicante | L'Ombra, Il Tiranno, Il Mutaforma, Il Sovrano |
-| Atmos | Il Saggio, L'Eremita, Il Guardiano della Soglia |
-| Lynx | L'Esploratore, Il Fuorilegge, L'Eroe |
-| Gradh | L'Eroe, L'Alleato, Il Sovrano, Il Fuorilegge |
-| Atherim | Il Custode, Il Guardiano della Soglia, Il Martire |
-| Belevon | L'Imbroglione, Il Giullare, Il Mutaforma |
-| Cattalm | L'Ombra, Il Tiranno, Il Sovrano |
-| Efrem | L'Uomo Comune, Il Creatore, L'Eremita |
-| Erondil | Il Creatore, Il Mago, Il Sovrano |
-| Gaya | Il Creatore, L'Innocente, Il Custode |
-| Krondal | Il Sovrano, Il Guardiano della Soglia, Il Mago |
-| Ledyal | Il Custode, L'Innocente, L'Amante |
-| Laydel | L'Ombra, Il Mutaforma, Il Fuorilegge |
-| Nethergal | L'Araldo, L'Esploratore, Il Mago |
-| Nedraf | L'Eroe, L'Esploratore, L'Alleato |
-| Nihar | Il Giullare, L'Esploratore, L'Imbroglione |
+| Ljust | L'Eroe, Il Mentore, L'Alleato, Il Custode, Il Martire |
+| Calicante | Il Mutaforma, L'Ombra, Il Sovrano, Il Fuorilegge, Il Tiranno |
+| Atmos | Il Mentore, Il Guardiano della Soglia, Il Saggio, Il Mago, L'Uomo Comune, L'Eremita |
+| Lynx | L'Eroe, L'Araldo, Il Fuorilegge, Il Martire |
+| Gradh | L'Eroe, L'Alleato, Il Fuorilegge |
+| Atherim | Il Guardiano della Soglia, L'Alleato, L'Innocente, Il Custode, Il Martire |
+| Belevon | Il Mutaforma, Il Custode |
+| Cattalm | L'Ombra, Il Sovrano |
+| Efrem | L'Eroe, Il Guardiano della Soglia, Il Creatore, L'Uomo Comune, L'Eremita |
+| Erondil | Il Sovrano, Il Creatore, Il Mago |
+| Gaya | L'Innocente, Il Custode |
+| Krondal | Il Guardiano della Soglia, Il Sovrano, Il Mago |
+| Ledyal | Il Mentore, L'Imbroglione, L'Innocente, Il Custode, L'Amante, Il Giullare, L'Esploratore |
+| Laydel | Il Mutaforma, L'Ombra, Il Fuorilegge |
+| Nethergal | L'Araldo, Il Saggio, Il Creatore, Il Mago, Il Giullare |
+| Nedraf | L'Araldo, L'Esploratore, Il Martire |
+| Nihar | L'Esploratore |
 | Orudjs | Il Mutaforma, L'Imbroglione, L'Amante |
-| Orlaith | Il Guardiano della Soglia, Il Sovrano, L'Eroe |
-| Rezh | Il Tiranno, L'Ombra, Il Mutaforma |
-| Shayalia | L'Ombra, L'Amante, Il Mutaforma |
-| Sixiser | L'Eremita, Il Saggio, L'Ombra |
-| Sumkjr | L'Eroe, L'Alleato, Il Mentore, Il Martire |
-| Tàhil | L'Ombra, Il Tiranno, Il Fuorilegge |
-| Tazher | L'Ombra, Il Fuorilegge, Il Mutaforma |
-| Thaft | L'Uomo Comune, L'Alleato, Il Custode |
-| Torbiorn | Il Tiranno, L'Ombra, Il Sovrano |
+| Orlaith | L'Eroe, Il Sovrano, Il Fuorilegge |
+| Rezh | L'Ombra, Il Creatore, Il Tiranno |
+| Shayalia | Il Mentore, L'Ombra, L'Amante |
+| Sixiser | Il Guardiano della Soglia, Il Saggio, L'Eremita |
+| Sumkjr | L'Eroe, L'Araldo, L'Alleato, L'Innocente, Il Custode, Il Giullare, L'Esploratore, Il Martire |
+| Tàhil | Il Mutaforma, L'Ombra, Il Sovrano, Il Fuorilegge, Il Tiranno |
+| Tazher | Il Mutaforma, L'Ombra, Il Tiranno |
+| Thaft | Il Mentore, L'Alleato, Il Custode, L'Uomo Comune |
+| Torbiorn | Il Mutaforma, L'Ombra, Il Tiranno |
 
 \end{multicoltab}
 
@@ -247,6 +249,7 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 - Considera il potenziale viaggio archetipico del tuo personaggio: come potrebbe evolversi nel tempo?
 - Guarda ai Patroni allineati del tuo archetipo per conoscere le possibili affinità spirituali, senza considerarli Patroni da scegliere
 - Usa archetipi contrastanti all'interno del tuo gruppo per creare dinamiche interessanti tra i personaggi
+- Considera il gioco come uno spazio sicuro (*cerchio magico*): per gli strumenti di sicurezza e benessere vedi Sicurezza e benessere al tavolo 
 
 ## Per il Narratore
 
@@ -255,10 +258,9 @@ Alcuni Patroni incarnano naturalmente o risuonano con archetipi specifici più f
 - Crea antagonisti che servono come riflessi oscuri degli archetipi degli eroi
 - Usa interventi dei Patroni per evidenziare o sfidare la natura archetipica di un personaggio
 - Progetta archi di campagna che seguono cicli archetipici classici
+- Favorisci un clima al tavolo accogliente e collaborativo, dove esplorare le fragilità dei personaggi sia stimolante e psicologicamente sicuro
 
->>> **Gli Archetipi**: Questo sistema archetipico fornisce un altro livello di profondità alla creazione e allo sviluppo del personaggio, collegando la teoria psicologica con i sistemi esistenti di Tratti e Patroni del gioco. Comprendendo questi pattern archetipici, giocatori e Narratore possono creare personaggi e storie più coerenti e psicologicamente consistenti.
-
-**Piuttosto che limitare la creatività, questi archetipi servono come framework e linee guida utili che possono essere abbracciati, sovvertiti o trasformati durante il viaggio di un personaggio**.
+Per gli strumenti di sicurezza e benessere al tavolo (semaforo, pausa, dissolvenza, *bleed*, *de-rolling*) vedi Sicurezza e benessere al tavolo .
 
 > La battaglia tra il bene e il male si svolge nel cuore umano di ciascuno e non necessariamente tra un esercito di persone vestite di bianco e un esercito di persone vestite di nero. (George R.R. Martin)
 

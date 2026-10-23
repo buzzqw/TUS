@@ -1,8 +1,13 @@
 #!/bin/sh
 
-javac Latex2MarkDown.java ; java Latex2MarkDown OBSSv2.tex OBSSv2.md
+# Compila il convertitore una sola volta e solo se il sorgente è più recente.
+# shellcheck disable=SC3013  # -nt è supportato da dash, usato da /bin/sh su Debian/Ubuntu
+if [ ! -f Latex2MarkDown.class ] || [ Latex2MarkDown.java -nt Latex2MarkDown.class ]; then
+    javac Latex2MarkDown.java || exit 1
+fi
 
-javac Latex2MarkDown.java ; java Latex2MarkDown OBSSv2-eng.tex OBSSv2-eng.md
+java Latex2MarkDown OBSSv2.tex OBSSv2.md || exit 1
+java Latex2MarkDown OBSSv2-eng.tex OBSSv2-eng.md || exit 1
 
 
 sed -i 's/\\cline{[^}]*}//g' OBSSv2.md

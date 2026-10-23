@@ -412,6 +412,17 @@ Suggerisco ai Narratori di stabilire delle regole chiare per il buon gioco. Purt
 - Cosa è permesso portare ed usare al tavolo e cosa no (bibite, mangiare, cellulari, alcolici, fumare…). Sapere se ci sono animali in casa.
 - Stabilite il numero minimo di giocatori per fare la sessione, giorno di gioco ed orari.
 
+### Sicurezza e benessere al tavolo
+
+Affrontare temi intensi, l'ansia del fallimento e il lato oscuro dei personaggi rende il gioco potente e liberatorio, ma richiede cura per il benessere emotivo di tutti i partecipanti. Concordate fin dall'inizio che il tavolo è uno spazio protetto, mai un luogo di giudizio, e che chiunque può avvalersi degli strumenti seguenti senza doversi giustificare.
+
+- **Il Semaforo e la pausa (*check-in**):* Ogni partecipante ha il diritto di chiedere una pausa o un *check-in* quando una scena tocca corde interiori troppo delicate. La pausa serve a riprendere fiato e a decidere insieme come proseguire.
+- **La dissolvenza in nero:** Se una scena è troppo intensa, si può *sfumare* e risolverla fuori scena, in terza persona o con un'ellissi, senza descriverne i dettagli.
+- **L'Osmosi Emotiva (*Bleed**):* È il fenomeno per cui i sentimenti del personaggio (paura, rabbia, ansia da prestazione, senso di perdita) risuonano nel giocatore, o viceversa. È un'esperienza naturale e spesso catartica, ma se diventa opprimente è fondamentale riconoscerla e concedersi una pausa.
+- **Il *De-rolling** a fine sessione:* Dedicate gli ultimi 5 minuti della sessione a uscire dal personaggio: riponete la scheda, parlate del personaggio in terza persona (*«Oggi il mio personaggio si è sentito insicuro perché...»*) e scambiatevi impressioni a mente fredda, ristabilendo un confine sano tra voi e la maschera.
+
+Nessuno è obbligato a raccontare esperienze personali o a interpretare una scena dolorosa: se un giocatore preferisce, la questione si risolve fuori scena o in terza persona. Gli strumenti di sicurezza sono opzionali nelle modalità, ma il diritto di usarli non è negoziabile.
+
 In definitiva, la Sessione Zero è fondamentale per stabilire una solida base per il buon gioco di ruolo. Aiuta a creare un ambiente collaborativo in cui tutti si sentono partecipi e contribuisce a evitare problemi e disaccordi durante il corso della campagna.
 
 Anche nel miglior gruppo già affiatato è sempre bene ricordare e condividere questi suggerimenti a ogni inizio di campagna.

@@ -902,14 +902,12 @@ Hai il 50\% di probabilità di viaggiare istantaneamente in un piano di esistenz
 
 Se il Tiro Salvezza riesce, la creatura subisce la metà di questi danni.
 
-\begin{multicoltab}
-
 | \mchead[][]{**Distanza dall'origine** | **Danno**} |
 | 3 metri o meno | 8 x cariche nel bastone |
 | Fino a 6 metri | 6 x cariche nel bastone |
 | Fino a 9 metri | 4 x cariche nel bastone |
 
-\end{multicoltab}
+\end{multicoltab
 
 Nota: il Bastone dell'Archimago e del Potere sono simili, questo perché preparati da due acerrimi nemici che volevano creare il Bastone più potente.
 
@@ -1931,8 +1929,6 @@ La magia del mazzo funziona solo se le carte vengono pescate a caso (potete usar
 L'illusione di una o più creature si forma sopra la carta lanciata e rimane finché non viene dissolta. La creatura illusoria sembra reale, della taglia appropriata, e si comporta come fosse una vera creatura, eccetto che non può recare danni. Finché resti entro 36 metri dalla creatura illusoria e puoi vederla, puoi usare due azioni per muoverla magicamente in qualsiasi punto entro 9 metri dalla carta. Qualsiasi interazione fisica con la creatura illusoria la rivela come illusione, dato che gli oggetti le passano attraverso. Qualcuno che usi due azioni per ispezionare visivamente la creatura, la identifica come illusoria superando un Tiro Salvezza su Volontà con Intelligenza con DC 17. La creatura gli apparirà quindi trasparente.
 L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Quando l'illusione termina, l'immagine sulla carta scompare e quella carta non potrà più essere usata.
 
-\begin{multicoltab}
-
 | \mchead[][]{**Carta da Gioco** | **Illusione**} |
 | --- | --- |
 | Asso di cuori | Drago rosso |
@@ -1969,7 +1965,7 @@ L'illusione permane finché la carta non viene mossa o l'illusione dissolta. Qua
 | Due di fiori | Coboldo |
 | Jolly (2) | Tu (il proprietario del mazzo) |
 
-\end{multicoltab}
+\end{multicoltab
 
 ### Mazzo delle Meraviglie
 
@@ -2911,8 +2907,6 @@ Puoi pronunciare la parola di comando del **tappeto** con due azioni per far flu
 
 Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del tappeto o la determina casualmente.
 
-\begin{multicoltab}
-
 | \mchead[][]{**d100** | **Taglia** | **Capacità** | **Velocità** |
 | --- | --- | --- | --- |
 | **(cm)** | **(Ing.)** | **di Volo**} |
@@ -2921,7 +2915,7 @@ Esistono quattro taglie di tappeto volante. Il Narratore sceglie la taglia del t
 | 56--80 | 150 × 210 | 300 kg / 75 | 12 metri |
 | 81--100 | 180 × 270 | 400 kg / 100 | 9 metri |
 
-\end{multicoltab}
+\end{multicoltab
 
 Il valore di Capacità indica sia il peso trasportato che l'Ingombro. Il tappeto può trasportare fino al doppio del carico indicato sulla tabella, ma vola a velocità dimezzata se trasporta di più.
 

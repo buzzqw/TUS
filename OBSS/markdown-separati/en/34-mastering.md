@@ -416,6 +416,17 @@ I suggest that Game Masters establish clear rules for good gameplay. Unfortunate
 - What is allowed to bring and use at the table and what is not (drinks, food, cell phones, alcohol, smoking...). Know if there are animals in the house.
 - Establish the minimum number of players to have the session, game day, and times.
 
+### Safety and Well-being at the Table
+
+Exploring intense themes, the anxiety of failure, and the darker facets of characters makes roleplaying powerful and liberating, but it demands conscious care for the emotional well-being of all participants. Agree from the very beginning that the table is a protected space, never a place of judgment, and that anyone may invoke the following tools without need for justification.
+
+- **Traffic Lights and Pauses (*check-in**):* Every participant has the right to call for a pause or a *check-in* whenever a scene touches upon overly sensitive personal chords. The pause serves to take a breath and decide together how to proceed.
+- **Fade to Black:** If a scene becomes too intense, it can be *faded out* and resolved off-screen, in the third person, or via an ellipsis, without describing gritty details.
+- **Emotional Osmosis (*Bleed**):* The phenomenon where a character' \*\*s emotions (fear, wrath, performance anxiety, grief) resonate within the player, or vice versa. It is a natural and often deeply cathartic experience, but if it becomes overwhelming, recognizing it and taking a break is essential.
+- **Session *De-rolling**:* Dedicate the final 5 minutes of each session to stepping out of character: pack away character sheets, speak about your character in the third person (*"Today my character felt insecure because..."*), and share cool-headed impressions, restoring a healthy boundary between yourself and the mask.
+
+No one is ever obliged to recount personal trauma or act out a painful scene: if a player prefers, the matter is resolved off-screen or in the third person. Safety tools are flexible in application, but the right to use them is non-negotiable.
+
 In conclusion, Session Zero is fundamental for establishing a solid foundation for good role-playing. It helps create a collaborative environment where everyone feels involved and helps avoid problems and disagreements during the course of the campaign.
 
 Even in the best already well-established group, it' \*\*s always good to remember and share these suggestions at the beginning of each campaign.

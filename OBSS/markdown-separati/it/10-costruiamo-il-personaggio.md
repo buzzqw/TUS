@@ -24,9 +24,7 @@ Per creare un personaggio prova a rispondere a queste domande, che potranno aiut
 
 - I tre difetti e i tre pregi principali del personaggio
 
-È cresciuto in famiglia, in un clan, da vagabondo o per strada… Cosa l'ha portato fin qui e quali scelte ha fatto?
-
-Qual è il suo stile di combattimento e la sua strategia tipica? Magia, spada, dalle retrovie… incitare i compagni… scappare…
+È cresciuto in famiglia, in un clan, da vagabondo o per strada… Cosa l'ha portato fin qui e quali scelte ha fatto?  Qual è il suo stile di combattimento e la sua strategia tipica? Magia, spada, dalle retrovie… incitare i compagni… scappare…
 
 E, non meno importante: qual è il suo scopo? Cosa lo ha fatto uscire di casa e dalle sue sicurezze, abbandonando una vita normale per intraprendere quella di avventuriero?
 
@@ -53,7 +51,7 @@ Se non hai punti in Competenza Armi puoi usare solo le armi semplici  senza inco
 
 I Punti Ferita sono pari a 8 + Costituzione, aggiungi 3 se hai messo 1 punto in Competenza Armi (CA).
 
-A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Ricordati che saranno fondamentali per l'assegnazione automatica del Patrono reclamante .
+A questo punto scegli i Tratti . Fallo con attenzione, stai costruendo il tuo personaggio e i Tratti delineano a forti pennellate il carattere. Se il tuo gruppo utilizza la regola opzionale degli Archetipi del Carattere , puoi partire scegliendo un archetipo guida per orientare con naturalezza la selezione dei tuoi Tratti iniziali. Ricordati che saranno fondamentali per l'assegnazione automatica del Patrono reclamante .
 
 Nella scheda, nello specchietto dei Tratti, dove c'è la colonna Patrono scrivi tutti i Patroni che condividono quel Tratto, senza interpretare l'annotazione come un'appartenenza o una scelta. Evidenzia il Patrono con il Tratto guida corrispondente al tuo Tratto dominante; in caso di parità applica la procedura descritta nel capitolo I Tratti. Solo il Patrono reclamante può ricevere la tua adesione formale e concederti i poteri legati ai Tratti.
 
@@ -103,8 +101,6 @@ Ogniqualvolta il Narratore ti conferma il passaggio di livello devi compiere div
 
 Come avrete notato, i punteggi delle Competenze sono ridotti: si prendono pochi punti da distribuire alla volta.
 Come giocatori avete l'opportunità di prediligere un approccio specializzato, ovvero *puntare* su poche e specifiche Competenze, oppure diluire i punti su più competenze per sapere un po' di tutto e non avere penalità nelle prove (la prova si fa solo con 2d6 + Caratteristica se non avete punti nella Competenza).
-
-Un suggerimento è anche di usare le Abilità, ed in particolare Esperto, che vi concede un bonus di +2 alle prove di Competenze.
 
 >> **Potere**: La debolezza del personaggio è solo una percezione ed anzi vi accorgerete presto della vera potenza del personaggio. Giocate di gruppo e sopravviverete perché ricordate che questo è un mondo cattivo, dispettoso e mortale con gli **egoisti**.
 

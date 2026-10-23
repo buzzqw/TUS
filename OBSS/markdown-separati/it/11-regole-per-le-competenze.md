@@ -29,14 +29,14 @@ Il Narratore non ti dirà: ``Fammi una prova a difficoltà 10'', ma dirà che la
 | **Diff.** | **Descrizione** | **Livello** |
 | --- | --- | --- |
 | **DC** | **difficoltà** | **Competenza** |
-| 6 | Estremamente facile | Nulla |
-| 10 | Facile | Scarsa |
-| 15 | Normale | Normale |
+| 6 | Banale | Nulla |
+| 10 | Semplice | Scarsa |
+| 15 | Impegnativa per un personaggio competente | Normale |
 | 20 | Difficile | Buona |
 | 25 | Molto difficile | Ottima |
 | 30 | Eroica | Eccellente |
-| 35 | Quasi impossibile | Stupefacente |
-| 40 | Impossibile | Epica |
+| 35 | Quasi disperata | Stupefacente |
+| 40 | Epica | Epica |
 
 Se devi fare una prova su una Caratteristica devi tirare 3d6 e sommare il punteggio della Caratteristica e altri modificatori. Comunica questo risultato al Narratore che la confronterà con la difficoltà (DC).
 
