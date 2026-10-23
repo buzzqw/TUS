@@ -71,6 +71,7 @@ backup-copie/
 *.java
 legacy/
 backup-copie/
+logs/
 
 # Bozze e materiale locale (non pubblicare)
 obssv3*
