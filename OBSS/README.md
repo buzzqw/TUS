@@ -53,8 +53,8 @@ OBSS si rifà alla filosofia OSR (Old School Renaissance) ma in chiave moderna, 
 
 Scaricate il manuale OBSSv2.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2.pdf) oppure senza copertina [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSSv2-nocopertina.pdf) e la scheda OBSS-scheda.pdf [link](https://github.com/buzzqw/TUS/blob/master/OBSS/OBSS-scheda.pdf).
 
-Per generare soltanto il PDF senza copertina da caricare su Amazon KDP: `./kdp.sh`.
-Il file prodotto è `OBSSv2-nocopertina.pdf`; per usare un nome diverso: `./kdp.sh -o OBSSv2-KDP.pdf`.
+La versione senza copertina per Amazon KDP è disponibile come `OBSSv2-nocopertina.pdf`.
+Gli strumenti di compilazione e pubblicazione sono mantenuti internamente e non sono inclusi nel repository pubblico.
 E' anche disponibile uno schermo per il Narratore (veramente brutto.. perdonate!) [link](https://github.com/buzzqw/TUS/blob/master/OBSS/screenv2.pdf). 
 
 Il manuale di OBSS e' completo, un bel tomo di oltre 550 pagine, con tutto cio' che serve per giocare! Troverete i capitoli che interessano i Giocatori ed il Narratore ed anche oltre 300 mostri!

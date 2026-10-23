@@ -74,3 +74,12 @@ OBSS/texstudio-AppImage.sh
 OBSS/texstudio-deb.sh
 OBSS/OBSSv2.synctex(busy)
 OBSS/OBSSv22.tex
+*(copia *
+
+# Strumenti interni: non pubblicare
+OBSS/*.sh
+OBSS/*.py
+OBSS/*.js
+OBSS/*.java
+OBSS/legacy/
+OBSS/backup-copie/

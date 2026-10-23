@@ -57,3 +57,25 @@ obssv2-linearize.pdf
 per versione
 .ddn2.lock
 *(copia *
+wiki-temp/
+temp_obss_deploy/
+obss_deploy_*.zip
+
+backup-copie/
+.obss.lock
+
+# Strumenti interni: non pubblicare
+*.sh
+*.py
+*.js
+*.java
+legacy/
+backup-copie/
+
+# Bozze e materiale locale (non pubblicare)
+obssv3*
+obssv4*
+sezioni-v3/
+versione-4/
+lp.tex
+multicoltab/
